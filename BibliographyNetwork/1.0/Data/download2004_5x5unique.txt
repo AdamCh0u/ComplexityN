@@ -1,0 +1,300 @@
+
+PT S
+AU Bentoutou, Y
+   Taleb, N
+   Kpalma, K
+AF Bentoutou, Y
+   Taleb, N
+   Kpalma, K
+BE Ehlers, M
+   Kaufmann, HJ
+   Michel, U
+TI An invariant approach for automated image registration of multitemporal
+   remotely sensed imagery
+SO REMOTE SENSING FOR ENVIRONMENTAL MONITORING, GIS APPLICATIONS, AND
+   GEOLOGY III
+SE PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+   (SPIE)
+LA English
+DT Proceedings Paper
+CT Conference on Remote Sensing for Environmental Monitoring, GIS
+   Applications and Geology III
+CY SEP 09-11, 2003
+CL Barcelona, SPAIN
+SP SPIE
+DE image registration; Thin Plate Spline; control points extraction; remote
+   sensing
+AB In this paper, a new automatic control point selection and matching technique for satellite image registration is proposed. The characteristic of this approach is that it uses features based on image moments and invariant to symmetric blur, scaling, translation, and rotation to establish correspondences between matched regions from two multitemporal images. The automatic extraction of control points is based on an edge detection approach and on local similarity detection by means of template matching according to a combined invariants-based similarity measure. The final transformation of the sensed image according to the selected control points is performed by using the thin-plate spline (TPS) interpolation. The proposed technique has been successfully applied to register multitemporal SPOT images from urban and agricultural areas. The experimental results demonstrate the efficiency and accuracy of the algorithm which have outperformed manual registration in terms of root mean square error at the control points.
+C1 Ctr Natl Tech Spatiales, Lab Instrumentat Spatiale, Arzew 31200, Algeria.
+RP Bentoutou, Y (reprint author), Ctr Natl Tech Spatiales, Lab Instrumentat Spatiale, 1 Ave Palestine, Arzew 31200, Algeria.
+CR Bentoutou Y, 2002, PATTERN RECOGN, V35, P2853, DOI 10.1016/S0031-3203(02)00016-X
+   BOOKSTEIN FL, 1989, IEEE T PATTERN ANAL, V11, P567, DOI 10.1109/34.24792
+   BROWN LG, 1992, COMPUT SURV, V24, P325
+   CANNY J, 1986, IEEE T PATTERN ANAL, V8, P679, DOI 10.1109/TPAMI.1986.4767851
+   Dai XL, 1998, IEEE T GEOSCI REMOTE, V36, P1566, DOI 10.1109/36.718860
+   FLUSSER J, 1994, IEEE T GEOSCI REMOTE, V32, P382, DOI 10.1109/36.295052
+   Flusser J, 1998, IEEE T PATTERN ANAL, V20, P590, DOI 10.1109/34.683773
+   LI H, 1995, IEEE T IMAGE PROCESS, V4, P320, DOI 10.1109/83.366480
+   Reddy BS, 1996, IEEE T IMAGE PROCESS, V5, P1266, DOI 10.1109/83.506761
+   TON JC, 1989, IEEE T GEOSCI REMOTE, V27, P642, DOI 10.1109/TGRS.1989.35948
+   Zheng Q, 1993, IEEE T IMAGE PROCESS, V2, P311, DOI 10.1109/83.236535
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPIE-INT SOC OPTICAL ENGINEERING
+PI BELLINGHAM
+PA 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN 0277-786X
+BN 0-8194-5122-3
+J9 P SOC PHOTO-OPT INS
+PY 2004
+VL 5239
+BP 551
+EP 559
+DI 10.1117/12.519714
+PG 9
+WC Environmental Sciences; Geosciences, Multidisciplinary; Remote Sensing
+SC Environmental Sciences & Ecology; Geology; Remote Sensing
+GA BY77L
+UT WOS:000189459900057
+DA 2019-03-26
+ER
+
+PT J
+AU Davis, J
+AF Davis, J
+TI Scaling up urban upgrading - Where ore the bottlenecks?
+SO INTERNATIONAL DEVELOPMENT PLANNING REVIEW
+LA English
+DT Article
+ID PARTNERSHIPS
+AB This paper discusses the challenges to expanding successful, small-scale urban upgrading initiatives in developing countries, using empirical data from the Slum Networking Project (SNP) in Ahmedabad, India. Despite demonstrated success in providing infrastructure and community development services in 27 slum communities, the SNP has had difficulty expanding its activities beyond this small proportion of the city's 2,431 low income neighbourhoods. Our case analysis suggests that it is neither insufficient funding nor a lack of political will - both of which are regularly identified as reasons why successful upgrading programmes are not scaled up - that has impeded progress in the Ahmedabad case. Instead, a mismatch between the bundle of services offered by the Municipal Corporation and the priorities of slum households, along with the terms of the partnership between the corporation and the SNP's NGO partners, are among the principal explanations for the SNP's slow rate of expansion.
+C1 MIT, Dept Urban Studies & Planning, Cambridge, MA 02139 USA.
+RP Davis, J (reprint author), MIT, Dept Urban Studies & Planning, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM jd@mit.edu
+CR *AMC, 1998, UNPUB SLUM NETW PROJ
+   *AMC, 2000, STAT REP CIT AHM
+   *ASAG, 1991, UNPUB SURV SLUMS CHA
+   BANES C, 2000, URBAN NOTES, V1, P1
+   COHEN MA, 1983, REGIONAL DEV DIALOGU, V4, P90
+   Crowell DW, 2003, SEWA MOVEMENT RURAL
+   DAVIS J, 2001, SEARCH GOOD GOVERNAN
+   DAVIS J, 2002, SCALING SUSTAINABLE
+   DHATTA R, 2003, INT J POLITICS CULTU, V16, P351
+   Dua Ajay, 1989, URBAN MANAGEMENT ASI, P161
+   Dutta SS, 2000, ENVIRON URBAN, V12, P13, DOI 10.1177/095624780001200102
+   Farvacque C., 1992, REFORMING URBAN LAND
+   Fekade W, 2000, HABITAT INT, V24, P127, DOI 10.1016/S0197-3975(99)00034-X
+   Gough KV, 1996, HABITAT INT, V20, P635, DOI 10.1016/0197-3975(96)00043-4
+   Hasan A., 1988, BUILDING COMMUNITY T, P81
+   KESSIDES C, 1997, TWUOR8 WORLD BANK TR
+   MOSER CON, 1995, ENVIRON URBAN, V7, P159, DOI 10.1177/095624789500700114
+   Olanrewaju DO, 2001, HABITAT INT, V25, P373, DOI 10.1016/S0197-3975(00)00042-4
+   *OP EV DEP, 1994, URB PROJ IND
+   Otiso KM, 2003, CITIES, V20, P221, DOI 10.1016/S0264-2751(03)00035-0
+   ROSE K, 1992, WHERE WOMEN LEADERS
+   TURNER JC, 1968, J AM I PLANNERS, V34, P354, DOI 10.1080/01944366808977562
+   *UNCHS, 1994, HS31794E UNCHS
+   United Nations Human Settlements Programme (UNHSP), 2003, CHALL SLUMS GLOB REP
+   Verma GD, 2000, HABITAT INT, V24, P91
+   Werlin H, 1999, URBAN STUD, V36, P1523, DOI 10.1080/0042098992908
+   *WORLD BANK, 2001, WHAT IS URB UPGR
+   World Bank, 1972, URB SECT WORK PAP
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 3
+PU LIVERPOOL UNIV PRESS
+PI LIVERPOOL
+PA 4 CAMBRIDGE ST, LIVERPOOL L69 7ZU, ENGLAND
+SN 1474-6743
+EI 1478-3401
+J9 INT DEV PLANN REV
+JI Int. Dev. Plan. Rev.
+PY 2004
+VL 26
+IS 3
+BP 305
+EP 323
+DI 10.3828/idpr.26.3.4
+PG 19
+WC Development Studies; Regional & Urban Planning
+SC Development Studies; Public Administration
+GA 878ZD
+UT WOS:000225685300004
+DA 2019-03-26
+ER
+
+PT J
+AU Benguigui, L
+   Czamanski, D
+   Marinov, M
+AF Benguigui, L
+   Czamanski, D
+   Marinov, M
+TI Scaling and urban growth
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS C
+LA English
+DT Article
+DE urban planning; computer modeling and simulation; scaling in complex
+   systems; aggregation
+AB This paper presents an analysis of the growth of towns in the Tel Aviv metropolis. It indicates a similarity in the variation of populations so that the population functions can be scaled and superposed one onto the other. This is a strong indication that the growth mechanism for all these towns is the same. Two different models are presented to interpret the population growth: one is an analytic model while the other is a computer simulation. In the dynamic analytic model, we introduced the concept of characteristic time. The growth has two parts: in the first, the derivative is an increasing function, the town is very attractive and there is short delay between decision to build and complete realization of the process. At this time, there is no shortage of land. However, around a specific time, the delay begins to increase and there is lack of available land. The rate of the population variation decreases until saturation. The two models give a good quantitative description.
+C1 Technion Israel Inst Technol, Inst Solid State, IL-32000 Haifa, Israel.
+   Technion Israel Inst Technol, Dept Phys, IL-32000 Haifa, Israel.
+   Technion Israel Inst Technol, Fac Architecture & Town Planning, IL-32000 Haifa, Israel.
+RP Benguigui, L (reprint author), Technion Israel Inst Technol, Inst Solid State, IL-32000 Haifa, Israel.
+EM ssgilles@tx.technion.ac.il
+CR ANAS A, 1992, REG SCI URBAN ECON, V22, P243, DOI 10.1016/0166-0462(92)90014-R
+   Batty M, 1994, FRACTAL CITIES
+   BENGUIGUI L, 1995, PHYSICA A, V219, P13, DOI 10.1016/0378-4371(95)00145-W
+   Benguigui L, 2001, URBAN STUD, V38, P1819, DOI 10.1080/00420980120084877
+   Benguigui L, 2001, ENVIRON PLANN B, V28, P447, DOI 10.1068/b2703
+   BENGUIGUI L, 2000, ANN REV COMPUTATIONA, V7
+   BENGUIGUI L, 2004, GEOGRAPHICAL ANAL, V36
+   FRANKHAUSER P, 1994, ASPECT FRACTALES STR
+   KRAKOVER S, 1983, GEOGR ANAL, V15, P318
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   NEWLING BE, 1969, GEOGR REV, V59, P242, DOI 10.2307/213456
+   Portugali J., 1999, SELF ORG CITY
+   Vicsek T, 1989, FRACTAL GROWTH PHENO
+NR 13
+TC 6
+Z9 6
+U1 0
+U2 1
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0129-1831
+EI 1793-6586
+J9 INT J MOD PHYS C
+JI Int. J. Mod. Phys. C
+PD SEP
+PY 2004
+VL 15
+IS 7
+BP 989
+EP 996
+DI 10.1142/S0129183104006376
+PG 8
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+SC Computer Science; Physics
+GA 865OQ
+UT WOS:000224712800007
+DA 2019-03-26
+ER
+
+PT J
+AU Zhao, H
+   Kanda, K
+AF Zhao, H
+   Kanda, K
+TI Testing psychometric properties of the standard Chinese version of the
+   European Organization for Research and Treatment of Cancer Quality of
+   Life Core Questionnaire 30 (EORTC QLQ-C30)
+SO JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+DE quality of life; questionnaires; psychophysiologic disorders; neoplasms;
+   China
+ID TRANSLATION; VALIDATION; ONCOLOGY
+AB BACKGROUND: Because cancer is now the first and second leading causes of death in both of urban and suburban area in China, there are increasing demands for measurement tools to assess quality of life in Chinese cancer patients. The objective of this study was to evaluate the psychometric properties of the standard Chinese version of the European Organization for Research and Treatment of Cancer Quality of Life Core Questionnaire 30 (EORTC QLQ-C30, version 3.0).
+   METHODS: The questionnaire was administered before, during, and after treatment of 143 patients with breast, gynecological, or lung cancer in six hospitals in China.
+   RESULTS: Cronbach's alpha coefficients for multi-item scales were greater than 0.70 before and during treatment, except for the cognitive functioning scale. Multitrait scaling analysis showed that most of the item-scale correlation coefficients met the standards of convergent and discriminant validity. All scales and items exhibited good reproducibility, criterion-related validity, and construct validity. Score changes over time were observed in the following scales: physical, role, and social functioning; global quality of life; fatigue; nausea/vomiting. Score changes were also observed in the appetite loss item.
+   CONCLUSION: The standard Chinese version of the EORTC QLQ-C30 is overall a valid instrument to assess the quality of life of Chinese cancer patients.
+C1 Peking Union Med Coll, Sch Nursing, Beijing 100041, Peoples R China.
+   Univ Tokyo, Dept Nursing Adm, Grad Sch Med, Tokyo, Japan.
+RP Zhao, H (reprint author), Peking Union Med Coll, Sch Nursing, Beijing 100041, Peoples R China.
+CR AARONSON NK, 1993, J NATL CANCER I, V85, P365, DOI 10.1093/jnci/85.5.365
+   CAI RH, 1997, YB PUBL HLTH PEOP RE
+   Chen H, 1996, Zhonghua Yu Fang Yi Xue Za Zhi, V30, P229
+   CHEN H, 1996, J FIRST ARMY MED COL, V16, P28
+   FAYERS P, 1999, EORTC QLQ C30 SCORIN
+   HAYS RD, 1990, BEHAV RES METH INSTR, V22, P167, DOI 10.3758/BF03203140
+   KARNOFSKY DA, 1948, CANCER-AM CANCER SOC, V1, P634, DOI 10.1002/1097-0142(194811)1:4<634::AID-CNCR2820010410>3.0.CO;2-L
+   Luo Jian, 1997, Zhonghua Zhongliu Zazhi, V19, P437
+   Montazeri A, 1999, SUPPORT CARE CANCER, V7, P400, DOI 10.1007/s005200050300
+   ORR ST, 1986, CANCER TREAT REP, V70, P1423
+   OSOBA D, 1994, QUAL LIFE RES, V3, P353, DOI 10.1007/BF00451727
+   Ren XHS, 1998, J CLIN EPIDEMIOL, V51, P1129, DOI 10.1016/S0895-4356(98)00104-8
+   RINGDAL GI, 1993, QUAL LIFE RES, V2, P129, DOI 10.1007/BF00435732
+   Yun YH, 2004, QUAL LIFE RES, V13, P863, DOI 10.1023/B:QURE.0000021692.81214.70
+   Zhao H, 2000, QUAL LIFE RES, V9, P129, DOI 10.1023/A:1008981520920
+NR 15
+TC 27
+Z9 29
+U1 0
+U2 1
+PU JAPAN EPIDEMIOLOGICAL ASSOC
+PI TOCHIGI
+PA JICHI MEDICAL SCHOOL, DEPT PUBLIC HEALTH, 3311-1 YAKUSHIJI,
+   MINAMIKAWACH, TOCHIGI, 329-0498, JAPAN
+SN 0917-5040
+J9 J EPIDEMIOL
+JI J. Epidemiol.
+PD NOV
+PY 2004
+VL 14
+IS 6
+BP 193
+EP 203
+DI 10.2188/jea.14.193
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 875GW
+UT WOS:000225409300004
+PM 15617393
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Strebkov, DO
+AF Strebkov, DO
+TI Demands and preferences in Russia's credit service market
+SO SOTSIOLOGICHESKIE ISSLEDOVANIYA
+LA Russian
+DT Article
+ID CONSUMER DEBT; MONEY
+AB "Demands and preferences in Russia's credit service market" (by Denis Strebkov) analyzes various aspects of credit behavior adapted by population under current Russian conditions. To make this popular post-soviet behavior transparent, households (close to a thousand) had been studied in five cities of Russia late in 2002. In particular, experiences of borrowing and lending money practices are scrutinized in the paper. An evaluation is offered regarding popular approach to credits. Structure of the demand for credit services is studied as the size, interest rates, and terms of repayment characterize them. Method of multi-dimensional scaling permitted to disclose basic reasons for the citizens, on the one side, to use borrowing tactics, while, on the other, to avoid obtaining the credit. In general, credit facilities are scarcely known among population, and governmentally protected services are grossly preferred.
+C1 Russian State Univ, Dept Ecol Sociol, Moscow, Russia.
+RP Strebkov, DO (reprint author), Russian State Univ, Dept Ecol Sociol, Moscow, Russia.
+RI Strebkov, Denis/E-7819-2015
+OI Strebkov, Denis/0000-0002-3234-5746
+CR BYUYUL A, 2001, ANAL STAT DANNYKH VO
+   Furnham A., 1998, PSYCHOL MONEY
+   Gunnarsson J, 1997, J ECON PSYCHOL, V18, P201, DOI 10.1016/S0167-4870(97)00005-6
+   Ingham G, 1999, BRIT J SOCIOL, V50, P76, DOI 10.1080/000713199358824
+   KLIMOVA SG, 2001, YAZYK REFORM    0323
+   LEA SEG, 1995, J ECON PSYCHOL, V16, P681, DOI 10.1016/0167-4870(95)00013-4
+   LEA SEG, 1993, J ECON PSYCHOL, V14, P85, DOI 10.1016/0167-4870(93)90041-I
+   LINT P, 1997, INOSTRANNAYA PSIKHOL, P8
+   Modigliani F., 1992, NOBEL LECT EC SCI 19, P150
+   TAPILINA VS, EKO, P11998
+   1997, SBEREZHENIYA NASELEN, P104
+NR 11
+TC 2
+Z9 3
+U1 0
+U2 0
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0132-1625
+J9 SOTSIOL ISSLED+
+JI Sotsiologicheskie Issled.
+PY 2004
+IS 2
+BP 51
+EP +
+PG 10
+WC Sociology
+SC Sociology
+GA 806MV
+UT WOS:000220438900006
+DA 2019-03-26
+ER

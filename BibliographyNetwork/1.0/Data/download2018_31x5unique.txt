@@ -1,0 +1,541 @@
+
+PT J
+AU Adarsh, S
+   Reddy, MJ
+AF Adarsh, S.
+   Reddy, M. Janga
+TI Developing hourly intensity duration frequency curves for urban areas in
+   India using multivariate empirical mode decomposition and scaling theory
+SO STOCHASTIC ENVIRONMENTAL RESEARCH AND RISK ASSESSMENT
+LA English
+DT Article
+DE IDF; Scaling theory; MEMD; Rainfall; Hydrologic analysis
+ID TEMPORAL RAINFALL DISAGGREGATION; HILBERT SPECTRAL-ANALYSIS; HUANG
+   TRANSFORM; PRECIPITATION; DISTRIBUTIONS; PROPERTY; MOMENTS
+AB Development of rainfall intensity-duration-frequency (IDF) curves of short duration such as hourly or sub-daily are quite essential for planning and design of urban storm water drains. However, in developing countries like India, at many places the meteorological observatories do not have long records of hourly rainfall data, at large which may have access to data at daily or higher time scale only. Therefore, the scale invariance property of rainfall and/or the disaggregation process can be a useful mean for obtaining of shorter duration rainfall IDF curves from the daily scale rainfall data. This study proposes an alternative approach for deriving the hourly and sub-daily IDF relationships by using the scale invariance property of rainfall, empirical mode decomposition (EMD) method and extreme value (EV) model formulations. The multivariate EMD method is used for decomposing the rainfall intensity series of different durations simultaneously into a number of orthogonal modes. The logarithmic plot between probability weighted moments of the orthogonal modes and the duration gives the scaling exponent, which is further used for deriving IDF relationships based on EV formulations. To validate the correctness of the proposed method, first the method is applied for rainfall data of Mumbai and Bangalore cities in India, and the results are compared with that obtained by the classical frequency factor method. The results of IDF relationships derived by the two methods displayed good agreement in general, but noticed a larger deviation for the curves of higher return periods. Then the method is applied for the derivation of IDF relationships for hourly durations from the daily rainfall data of eight major cities in Kerala State in India. The results of the study demonstrated the effectiveness of the proposed approach for data-scarce regions in deriving the short duration IDF relationships from the daily rainfall data.
+C1 [Adarsh, S.; Reddy, M. Janga] Indian Inst Technol, Dept Civil Engn, Bombay 400076, Maharashtra, India.
+   [Adarsh, S.] TKM Coll Engn, Kollam 691005, India.
+RP Reddy, MJ (reprint author), Indian Inst Technol, Dept Civil Engn, Bombay 400076, Maharashtra, India.
+EM mjreddy@civil.iitb.ac.in
+RI M, Janga Reddy/E-7019-2011
+OI M, Janga Reddy/0000-0001-7003-8651
+CR Adarsh S, 2016, MODEL EARTH SYST ENV, V2, DOI 10.1007/s40808-016-0254-z
+   Afrin S., 2015, International Journal of Environmental Science and Development, V6, P332
+   Antico A, 2014, J GEOPHYS RES-ATMOS, V119, P1218, DOI 10.1002/2013JD020420
+   Avanzi F, 2015, J HYDROMETEOROL, V16, P278, DOI 10.1175/JHM-D-14-0063.1
+   Bara M, 2009, CONTRIB GEOPHYS GEOD, V39, P187, DOI DOI 10.2478/V10189-010-0010-8
+   Burlando P, 1996, J HYDROL, V187, P45, DOI 10.1016/S0022-1694(96)03086-7
+   GREENWOOD JA, 1979, WATER RESOUR RES, V15, P1049, DOI 10.1029/WR015i005p01049
+   GUPTA VK, 1990, J GEOPHYS RES-ATMOS, V95, P1999, DOI 10.1029/JD095iD03p01999
+   Herath HMSM, 2015, P INT ASS HYDROL SCI, V369, P147, DOI 10.5194/piahs-369-147-2015
+   HOSKING JRM, 1986, 12210 RC IBM RES DIV
+   Hu W, 2013, GEODERMA, V193, P180, DOI 10.1016/j.geoderma.2012.10.021
+   Huang GQ, 2016, J ENG MECH, V142, DOI 10.1061/(ASCE)EM.1943-7889.0000975
+   Huang NE, 2003, P ROY SOC A-MATH PHY, V459, P2317, DOI 10.1098/rspa.2003.1123
+   Huang NE, 1998, P ROY SOC A-MATH PHY, V454, P903, DOI 10.1098/rspa.1998.0193
+   Huang NE, 2008, REV GEOPHYS, V46, DOI 10.1029/2007RG000228
+   Huang YX, 2009, J HYDROL, V373, P103, DOI 10.1016/j.jhydrol.2009.04.015
+   KOUTSOYIANNIS D, 1993, WATER RESOUR RES, V29, P2345, DOI 10.1029/93WR00395
+   Kuai KZ, 2012, J HYDROL, V420, P245, DOI 10.1016/j.jhydrol.2011.12.007
+   KUMAR P, 1994, STOCH HYDROL HYDRAUL, V8, P173, DOI 10.1007/BF01587233
+   Kuo CC, 2013, J HYDROL ENG, V18, P66, DOI 10.1061/(ASCE)HE.1943-5584.0000612
+   MANDELBROT BB, 1974, J FLUID MECH, V62, P331, DOI 10.1017/S0022112074000711
+   Menabde M, 1999, WATER RESOUR RES, V35, P335, DOI 10.1029/1998WR900012
+   Mujumdar PP, 2008, LECT NOTES STOCHASTI, V29
+   Nhat LM, 2008, ANN DISASTER PREVENT
+   Olsson J, 2002, HYDROL PROCESS, V16, P611, DOI 10.1002/hyp.307
+   Olsson J, 1998, WATER SCI TECHNOL, V37, P73, DOI 10.1016/S0273-1223(98)00318-7
+   Olsson J, 1998, HYDROL EARTH SYST SC, V2, P19, DOI 10.5194/hess-2-19-1998
+   Ram Babu, 1979, RAINFALL INTENSITY D
+   Reddy MJ, 2016, STOCH ENV RES RISK A, V30, P1063, DOI 10.1007/s00477-015-1165-7
+   Rehman N, 2010, P ROY SOC A-MATH PHY, V466, P1291, DOI 10.1098/rspa.2009.0502
+   Rilling G., 2003, P IEEE EURASIP WORKS, V3, P8
+   Rupa C, 2015, ADV WATER RESOUR, V79, P127, DOI 10.1016/j.advwatres.2015.02.011
+   Shrestha A, 2017, WATER-SUI, V9, DOI 10.3390/w9020145
+   Veneziano D., 1996, J GEOPHYS RES, V101, P371
+   WAYMIRE E, 1984, WATER RESOUR RES, V20, P1453, DOI 10.1029/WR020i010p01453
+   WAYMIRE E, 1981, WATER RESOUR RES, V17, P1261, DOI 10.1029/WR017i005p01261
+   Xu YP, 2009, STOCH ENV RES RISK A, V23, P697, DOI 10.1007/s00477-008-0250-6
+   Yu PS, 2004, J HYDROL, V295, P108, DOI 10.1016/j.jhydrol.2004.03.003
+   Zope P. E., 2016, Journal of Water Resource and Protection, V8, P756, DOI 10.4236/jwarp.2016.87061
+NR 39
+TC 0
+Z9 0
+U1 2
+U2 6
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1436-3240
+EI 1436-3259
+J9 STOCH ENV RES RISK A
+JI Stoch. Environ. Res. Risk Assess.
+PD JUN
+PY 2018
+VL 32
+IS 6
+BP 1889
+EP 1902
+DI 10.1007/s00477-018-1545-x
+PG 14
+WC Engineering, Environmental; Engineering, Civil; Environmental Sciences;
+   Statistics & Probability; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Mathematics; Water
+   Resources
+GA GG6CU
+UT WOS:000432784400027
+DA 2019-03-26
+ER
+
+PT J
+AU Operti, FG
+   Oliveira, EA
+   Carmona, HA
+   Machado, JC
+   Andrade, JS
+AF Operti, Felipe G.
+   Oliveira, Erneson A.
+   Carmona, Humberto A.
+   Machado, Javam C.
+   Andrade, Jose S., Jr.
+TI The light pollution as a surrogate for urban population of the US cities
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Allometry; Night-time light; Light pollution; City clustering algorithm;
+   Metropolitan/Consolidated Metropolitan Statistical Area
+ID MELATONIN SUPPRESSION; GROWTH PATTERNS; CANCER; NIGHT; MEGACITIES;
+   ENERGY
+AB We show that the definition of the city boundaries can have a dramatic influence on the scaling behavior of the night-time light (NTL) as a function of population (POP) in the US. Precisely, our results show that the arbitrary geopolitical definition based on the Metropolitan/Consolidated Metropolitan Statistical Areas (MSA/CMSA) leads to a sublinear power-law growth of NTL with POP. On the other hand, when cities are defined according to a more natural agglomeration criteria, namely, the City Clustering Algorithm (CCA), an isometric relation emerges between NTL and population. This discrepancy is compatible with results from previous works showing that the scaling behaviors of various urban indicators with population can be substantially different for distinct definitions of city boundaries. Moreover, considering the CCA definition as more adequate than the MSA/CMSA one because the former does not violate the expected extensivity between land population and area of their generated clusters, we conclude that, without loss of generality, the CCA measures of light pollution and population could be interchangeably utilized in future studies. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Operti, Felipe G.; Oliveira, Erneson A.; Carmona, Humberto A.; Andrade, Jose S., Jr.] Univ Fed Ceara, Dept Fis, Campus Pici, BR-60451970 Fortaleza, Ceara, Brazil.
+   [Oliveira, Erneson A.] Univ Fortaleza, Programa Posgrad Informat Aplicada, BR-60811905 Fortaleza, Ceara, Brazil.
+   [Machado, Javam C.] Univ Fed Ceara, Dept Comp, Campus Pici, BR-60455760 Fortaleza, Ceara, Brazil.
+RP Oliveira, EA (reprint author), Univ Fed Ceara, Dept Fis, Campus Pici, BR-60451970 Fortaleza, Ceara, Brazil.
+EM erneson@fisica.ufc.br
+RI Carmona, Humberto/L-4967-2016; Universidade Federal do Ceara, Physics
+   Department/J-4630-2016; Andrade, Jose/C-5451-2013
+OI Carmona, Humberto/0000-0002-7505-6717; Universidade Federal do Ceara,
+   Physics Department/0000-0002-9247-6780; Andrade,
+   Jose/0000-0002-5571-7610
+FU CNPq; CAPES; FUNCAP; National Institute of Science and Technology for
+   Complex Systems in Brazil
+FX We gratefully acknowledge CNPq, CAPES, FUNCAP and the National Institute
+   of Science and Technology for Complex Systems in Brazil for financial
+   support. We specially thank our colleagues and friends H. P. M. Melo and
+   T. A. Amor for the help and the discussions.
+CR Alves LGA, 2014, PHYSICA A, V409, P175, DOI 10.1016/j.physa.2014.04.046
+   [Anonymous], 2016, GRIDD POP WORLD VERS
+   Antonio F. J., 2017, PLOS ONE, V12, P1
+   Antonio FJ, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0111015
+   Aube M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0067798
+   Bettencourt L. M. A., 2016, J R SOC INTERFACE, V13, P1
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Blask DE, 2005, CANCER RES, V65, P11174, DOI 10.1158/0008-5472.CAN-05-1945
+   Caminha C, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0171609
+   Chepesiuk R, 2009, ENVIRON HEALTH PERSP, V117, pA20, DOI 10.1289/ehp.117-a20
+   Doxsey-Whitfield E, 2015, PAP APPL GEOGR, V1, P226, DOI DOI 10.1080/23754931.2015.1014272
+   Facchini A, 2017, APPL ENERG, V186, P86, DOI 10.1016/j.apenergy.2016.09.025
+   Falchi F, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1600377
+   Kennedy CA, 2015, P NATL ACAD SCI USA, V112, P5985, DOI 10.1073/pnas.1504315112
+   KERENYI NA, 1990, MED HYPOTHESES, V33, P75, DOI 10.1016/0306-9877(90)90182-E
+   Li X, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0144247
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Melo HPM, 2014, SCI REP-UK, V4, DOI 10.1038/srep06239
+   Mills S., 2013, SPIE OPT ENG APPL, V8866, P1
+   Montgomery D. C., 2015, INTRO LINEAR REGRESS
+   Nadaraya E. A., 1964, THEOR PROBAB APPL, V9, P141, DOI DOI 10.1137/1109020
+   National Aeronautics and Space Administration (NASA), 2016, VIS INFR IM RAD SUIT
+   Navara KJ, 2007, J PINEAL RES, V43, P215, DOI 10.1111/j.1600-079X.2007.00473.x
+   NCEI (National Centers for Environmental Information), 2016, VIS INFR IM RAD SUIT
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Reiter RJ, 2006, J PINEAL RES, V40, P357, DOI 10.1111/j.1600-079X.2006.00325.x
+   Reiter Russel J., 2007, Critical Reviews in Oncogenesis, V13, P303
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Salgado-Delgado Roberto, 2011, Depress Res Treat, V2011, P839743, DOI 10.1155/2011/839743
+   SHIMRAT M, 1962, COMMUN ACM, V5, P434, DOI 10.1145/368637.368653
+   United Nations, 2014, WORLDS POP INCR URB
+   US Census Bureau, 2014, CART BOUND FIL
+   Watson G. S., 1964, SANKHYA A, P359, DOI DOI 10.2307/25049340
+NR 37
+TC 4
+Z9 4
+U1 1
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD FEB 15
+PY 2018
+VL 492
+BP 1088
+EP 1096
+DI 10.1016/j.physa.2017.11.039
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA FT9TS
+UT WOS:000423495100090
+DA 2019-03-26
+ER
+
+PT J
+AU Dixson, HGW
+   Komugabe-Dixson, AF
+   Dixson, BJ
+   Low, J
+AF Dixson, Henry G. W.
+   Komugabe-Dixson, Aimee F.
+   Dixson, Barnaby J.
+   Low, Jason
+TI Scaling Theory of Mind in a Small-Scale Society: A Case Study From
+   Vanuatu
+SO CHILD DEVELOPMENT
+LA English
+DT Article
+ID CULTURAL VARIATIONS; CHILDRENS; METAANALYSIS; LANGUAGE; REFLECTIONS;
+   CONFESSION; SYNCHRONY; DEAFNESS; OPACITY; MATTER
+AB Although theory of mind (ToM) is argued to emerge between 3 and 5 years of age, data from non-Western, small-scale societies suggest diversity. Deeper investigations into these settings are warranted. In the current study, over 400 Melanesian children from Vanuatu (range = 3-14 years), growing up in either urban or rural remote environments, completed culturally tailored ToM batteries. Results show a marked delay in false belief (FB) performance, particularly among participants from rural villages. By further investigating a diverse range of concepts beyond FB, we illustrate two unique cultural sequences for a suite of mental state concepts among urban and rural ni-Vanuatu children. Implications for social and cultural influences on the development of ToM are discussed.
+C1 [Dixson, Henry G. W.; Komugabe-Dixson, Aimee F.] Australian Natl Univ, Canberra, ACT, Australia.
+   [Dixson, Henry G. W.; Komugabe-Dixson, Aimee F.] Univ Auckland, Auckland, New Zealand.
+   [Dixson, Barnaby J.] Univ Queensland, Brisbane, Qld, Australia.
+   [Low, Jason] Victoria Univ Wellington, Wellington, New Zealand.
+RP Dixson, HGW (reprint author), Univ Auckland, Sch Psychol, Private Bag 92019, Auckland 1142, New Zealand.
+EM henry.dixson@hotmail.com
+OI Dixson, Barnaby/0000-0003-0911-1244
+FU Australian National University Higher Degree Research (HDR) Field Grant;
+   University Research Scholarship (URS)
+FX Special thanks to ni-Vanuatu children, friends, colleagues, and
+   communities who have enabled and shaped this work. This research was
+   funded through the Australian National University Higher Degree Research
+   (HDR) Field Grant and University Research Scholarship (URS).
+CR AVIS J, 1991, CHILD DEV, V62, P460, DOI 10.1111/j.1467-8624.1991.tb01544.x
+   Bartsch K., 1995, CHILDREN TALK MIND
+   Blust R., BLUSTS AUSTRONESIAN
+   Buttelmann D, 2009, COGNITION, V112, P337, DOI 10.1016/j.cognition.2009.05.006
+   Callaghan T, 2005, PSYCHOL SCI, V16, P378, DOI 10.1111/j.0956-7976.2005.01544.x
+   Clegg JM, 2016, DEV PSYCHOL, V52, P1435, DOI 10.1037/dev0000131
+   Dixson H., 2016, THESIS
+   DUNN J, 1991, CHILD DEV, V62, P1352, DOI 10.1111/j.1467-8624.1991.tb01610.x
+   Duranti A, 2008, ANTHROPOL QUART, V81, P483
+   Ensor R, 2014, CHILD DEV, V85, P1222, DOI 10.1111/cdev.12186
+   FESTINGER L, 1947, PSYCHOL BULL, V44, P149, DOI 10.1037/h0056039
+   Forsyth M., 2009, THESIS
+   Fournier C, 2014, THESIS, V1
+   Gauvain M, 2009, CHILD DEV, V80, P1628, DOI 10.1111/j.1467-8624.2009.01358.x
+   Graves N. B., 1974, 5 S PAC RES I
+   GREEN BF, 1956, PSYCHOMETRIKA, V21, P79, DOI 10.1007/BF02289088
+   HARKNESS S, 1977, ANN NY ACAD SCI, V285, P326, DOI 10.1111/j.1749-6632.1977.tb29360.x
+   Harris P., 1989, COGNITION EMOTION, V3, P379, DOI DOI 10.1080/02699938908412713
+   Harris PL, 2005, CURR DIR PSYCHOL SCI, V14, P69, DOI 10.1111/j.0963-7214.2005.00337.x
+   HARRIS PL, 1986, CHILD DEV, V57, P895, DOI 10.2307/1130366
+   Henrich J, 2010, BEHAV BRAIN SCI, V33, P111, DOI 10.1017/S0140525X10000725
+   Hollan C., 2011, ANTHR EMPATHY EXPERI
+   Hughes C., 2015, HDB CHILD PSYCHOL DE, P332
+   Hughes C., 2014, CHILD DEV RES, DOI DOI 10.1155/2014/893492
+   Konner M., 2010, EVOLUTION CHILDHOOD
+   Kristen S, 2006, Z ENTWICKL PADAGOGIS, V38, P190, DOI 10.1026/0049-8637.38.4.186
+   Kuntoro IA, 2013, INT J BEHAV DEV, V37, P266, DOI 10.1177/0165025413478258
+   Lancy D. F., 2008, ANTHR CHILDHOOD CHER
+   Lillard A, 1998, PSYCHOL BULL, V123, P3, DOI 10.1037/0033-2909.123.1.3
+   Lillard AS, 1997, PSYCHOL SCI, V8, P268, DOI 10.1111/j.1467-9280.1997.tb00437.x
+   Liu D, 2008, DEV PSYCHOL, V44, P523, DOI 10.1037/0012-1649.44.2.523
+   Low J, 2010, CHILD DEV, V81, P597, DOI 10.1111/j.1467-8624.2009.01418.x
+   Malvatumauri National Council of Chiefs, 2012, ALT IND WELLB MEL VA
+   Mayer A, 2015, J COGN DEV, V16, P650, DOI 10.1080/15248372.2014.926273
+   Mayer A, 2013, INT J BEHAV DEV, V37, P21, DOI 10.1177/0165025412454030
+   Meyerhoff M, 2011, INTRODUCING SOCIOLINGUISTICS, SECOND EDITION, P1
+   Milligan K, 2007, CHILD DEV, V78, P622, DOI 10.1111/j.1467-8624.2007.01018.x
+   Mitchel J., 2002, THESIS
+   Naito M, 2006, INT J BEHAV DEV, V30, P290, DOI 10.1177/0165025406063622
+   Nehbrass K., 2010, THESIS
+   Oberle E, 2009, J COGN CULT, V9, P39, DOI 10.1163/156853709X414629
+   Ochs Elinor, 1988, CULTURE LANGUAGE DEV
+   Peterson CC, 2009, BRIT J DEV PSYCHOL, V27, P297, DOI 10.1348/026151008X299728
+   Peterson CC, 2005, CHILD DEV, V76, P502, DOI 10.1111/j.1467-8624.2005.00859.x
+   Peterson CC, 1999, PSYCHOL SCI, V10, P126, DOI 10.1111/1467-9280.00119
+   PETERSON CC, 1995, J CHILD PSYCHOL PSYC, V36, P459, DOI 10.1111/j.1469-7610.1995.tb01303.x
+   Rio K, 2002, SOCIAL ANAL, V46, P129
+   Robbins J, 2008, ANTHROPOL QUART, V81, P407
+   Robbins J, 2008, ANTHROPOL QUART, V81, P421
+   Roby E, 2016, FRONT PSYCHOL, V7, DOI 10.3389/fpsyg.2016.01721
+   Rousseau B., 2004, THESIS
+   Ruffman T, 2002, CHILD DEV, V73, P734, DOI 10.1111/1467-8624.00435
+   Rumsey A, 2008, ANTHROPOL QUART, V81, P455
+   Schieffelin BB, 2008, ANTHROPOL QUART, V81, P431, DOI 10.1353/anq.0.0003
+   Schieffelin Bambi B, 1990, GIVE TAKE EVERYDAY L
+   Shahaeian A, 2011, DEV PSYCHOL, V47, P1239, DOI 10.1037/a0023899
+   Slaughter V, 2015, AUST PSYCHOL, V50, P169, DOI 10.1111/ap.12080
+   Slaughter V, 2014, CHILD DEV PERSPECT, V8, P237, DOI 10.1111/cdep.12091
+   Stasch R, 2008, ANTHROPOL QUART, V81, P443
+   Taylor J., 2008, OTHER SIDE WAYS BEIN
+   Tomasello M, 2003, MIND LANG, V18, P121, DOI 10.1111/1468-0017.00217
+   Tryon D., 1996, ARTS VANUATU, P170
+   Tryon D., 1987, BISLAMA INTRO NATL L
+   UNICEF, 2013, VAN TRACK PROGR MAT
+   Vanuatu Cultural Centre Young People's Project, 2008, YOU PEOPL SPEAK STUD
+   Vinden PG, 1996, CHILD DEV, V67, P1707, DOI 10.2307/1131726
+   WAHI S, 1994, J GENET PSYCHOL, V155, P503, DOI 10.1080/00221325.1994.9914798
+   WALLACE AFC, 1973, ETHOS, V1, P1
+   Wang B, 2015, BRIT J PSYCHOL, V106, P724, DOI 10.1111/bjop.12121
+   Wang ZL, 2016, J EXP CHILD PSYCHOL, V149, P6, DOI 10.1016/j.jecp.2015.09.028
+   Wassmann J., 2013, HEIDELBERG STUDIES P
+   Waxman S, 2007, HUM DEV, V50, P23, DOI 10.1159/000097681
+   Wellman HM, 2006, PSYCHOL SCI, V17, P1075, DOI 10.1111/j.1467-9280.2006.01830.x
+   Wellman HM, 2011, CHILD DEV, V82, P780, DOI 10.1111/j.1467-8624.2011.01583.x
+   Wellman HM, 2001, CHILD DEV, V72, P655, DOI 10.1111/1467-8624.00304
+   Wellman HM, 2004, CHILD DEV, V75, P523, DOI 10.1111/j.1467-8624.2004.00691.x
+   White G., 1987, PERSON SELF EXPERIEN
+NR 77
+TC 3
+Z9 3
+U1 6
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0009-3920
+EI 1467-8624
+J9 CHILD DEV
+JI Child Dev.
+PD NOV-DEC
+PY 2018
+VL 89
+IS 6
+BP 2157
+EP 2175
+DI 10.1111/cdev.12919
+PG 19
+WC Psychology, Educational; Psychology, Developmental
+SC Psychology
+GA HD3YZ
+UT WOS:000452463400029
+PM 28984351
+DA 2019-03-26
+ER
+
+PT J
+AU Rigolon, A
+   Browning, M
+   Jennings, V
+AF Rigolon, Alessandro
+   Browning, Matthew
+   Jennings, Viniece
+TI Inequities in the quality of urban park systems: An environmental
+   justice investigation of cities in the United States
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE Urban green space; Urban parks; Environmental justice; Equity; Access to
+   green space
+ID GREEN SPACE; LOS-ANGELES; NEOLIBERAL HEGEMONY; TREE COVER; EQUITY;
+   HEALTH; ACCESS; CITY; DISPARITIES; PROVISION
+AB A growing body of research shows affluent White neighborhoods have more acres of parks and more park facilities than low-income ethnic minority communities in many Global North cities. Most of these investigations focused on neighborhood-level differences and did not analyze broader inequities across cities. This is a particularly significant limitation in the U.S., where changes in the political economy of parks due to a reduced local tax base have led cities to compete against each other to secure park funding from national nonprofits and public agencies. To address this gap, we examined whether the quality of urban park systems - measured through The Trust for Public Land's ParkScore - varies depending on a city's median income and ethnic composition. Based on multivariate regressions in which we control for features of the urban fabric, we found U.S. cities with higher median incomes and lower percentages of Latino and Non-Hispanic Black residents have higher ParkScores than other cities. Some inequities also emerged for park coverage, park spending per person, and park facilities, with majority-Latino cities being particularly disadvantaged. These findings echo the results of neighborhood-level studies in Global North contexts, suggesting neighborhood-level inequities in park provision might scale up to inequities across cities. This study contributes to environmental justice theory and advocacy by demonstrating the importance of scaling up analyses of park provision to cross-city comparisons. Implications for landscape planning, public policy, and grant-making are discussed.
+C1 [Rigolon, Alessandro; Browning, Matthew] Univ Illinois, Champaign, IL USA.
+   [Jennings, Viniece] US Forest Serv, Southern Res Stn, Washington, DC 20250 USA.
+RP Rigolon, A (reprint author), 104 Huff Hall,1206 South Fourth St, Champaign, IL 61820 USA.
+EM rigolon@illinois.edu; brownin@illinois.edu; vjennings02@fs.fed.us
+RI Browning, Matthew/D-2111-2014
+OI Browning, Matthew/0000-0003-2296-7602; Rigolon,
+   Alessandro/0000-0001-5197-6394
+CR Anglin A, 2016, INTERNATIONAL JOURNA, V2
+   Besenyi GM, 2016, TRANSL BEHAV MED, V6, P519, DOI 10.1007/s13142-016-0405-9
+   Boone CG, 2009, ANN ASSOC AM GEOGR, V99, P767, DOI 10.1080/00045600903102949
+   Braiterman J, 2011, CITY BRANDING: THEORY AND CASES, P70
+   California Department of Parks and Recreation, 2003, PAYING FOR PARKS AN
+   Chen WY, 2017, CITIES, V71, P1, DOI 10.1016/j.cities.2017.07.003
+   Chiesura A, 2004, LANDSCAPE URBAN PLAN, V68, P129, DOI 10.1016/j.landurbplan.2003.08.003
+   Christensen J, 2016, ENVIRONMENTAL BONDS
+   Cohen DA, 2016, AM J PREV MED, V51, P419, DOI 10.1016/j.amepre.2016.03.021
+   Comber A, 2008, LANDSCAPE URBAN PLAN, V86, P103, DOI 10.1016/j.landurbplan.2008.01.002
+   Couch C, 2013, HOUSING STUD, V28, P499, DOI 10.1080/02673037.2013.760029
+   Crawford D, 2008, HEALTH PLACE, V14, P889, DOI 10.1016/j.healthplace.2007.11.002
+   Dahmann N, 2010, HEALTH PLACE, V16, P431, DOI 10.1016/j.healthplace.2009.11.005
+   Das KV, 2017, J IMMIGR MINOR HEALT, V19, P318, DOI 10.1007/s10903-015-0339-1
+   Drost E. A., 2011, ED RES PERSPECTIVES, V38, P105
+   Edwards N, 2013, APPL GEOGR, V38, P22, DOI 10.1016/j.apgeog.2012.11.010
+   Ewing R, 2003, TRANSPORT RES REC, P175, DOI 10.3141/1831-20
+   Fan PL, 2017, LANDSCAPE URBAN PLAN, V165, P177, DOI 10.1016/j.landurbplan.2016.11.007
+   Field A, 2013, DISCOVERING STAT USI
+   Flocks J, 2011, ENVIRON JUSTICE, V4, P125, DOI 10.1089/env.2010.0018
+   Frey N, 2017, URBAN GEOGR, V38, P1534, DOI 10.1080/02723638.2016.1238686
+   Gerber JD, 2012, LANDSCAPE URBAN PLAN, V104, P289, DOI 10.1016/j.landurbplan.2011.11.002
+   Gidlow CJ, 2012, LANDSCAPE URBAN PLAN, V106, P347, DOI 10.1016/j.landurbplan.2012.04.007
+   Glaeser E. L., 2004, HDB REGIONAL URBAN E, V4, P2481, DOI DOI 10.1016/S1574-0080(04)80013-0
+   Gordon-Larsen P, 2006, PEDIATRICS, V117, P417, DOI 10.1542/peds.2005-0058
+   Government of South Australia, 2018, GRANTS OP SPAC URB D
+   Groves CR, 2002, BIOSCIENCE, V52, P499, DOI 10.1641/0006-3568(2002)052[0499:PFBCPC]2.0.CO;2
+   Harnik P, 2015, PARKS COMMUNITY DEV
+   Harnik P, 2003, EXCELLENT CITY PARK
+   Heckert M, 2016, URBAN FOR URBAN GREE, V19, P263, DOI 10.1016/j.ufug.2015.12.011
+   Holifield R, 2014, ENVIRON JUSTICE, V7, P70, DOI 10.1089/env.2013.0043
+   Hollander J, 2017, ENV PLANNING B URBAN, DOI [10.1177/2399808317743971, DOI 10.1177/2399808317743971]
+   Hughey SM, 2016, LANDSCAPE URBAN PLAN, V148, P159, DOI 10.1016/j.landurbplan.2015.12.016
+   Hyra D, 2016, URBAN GEOGR, V37, P700, DOI 10.1080/02723638.2015.1103994
+   Jennings V, 2016, INT J ENV RES PUB HE, V13, DOI 10.3390/ijerph13020196
+   Joassart-Marcelli P, 2011, URBAN GEOGR, V32, P682, DOI 10.2747/0272-3638.32.5.682
+   Joassart-Marcelli P, 2010, ENVIRON PLANN A, V42, P1174, DOI 10.1068/a42198
+   Johnson L. A, 2014, OPEN FIELD EMERGING
+   Kabii T, 2006, ENVIRON CONSERV, V33, P11, DOI 10.1017/S0376892906002761
+   Kabisch N, 2016, ECOL INDIC, V70, P586, DOI 10.1016/j.ecolind.2016.02.029
+   Kabisch N, 2014, LANDSCAPE URBAN PLAN, V122, P129, DOI 10.1016/j.landurbplan.2013.11.016
+   KaBOOM, 2018, PLAYGR GRANTS HELP C
+   Kaczynski AT, 2016, PREV MED, V87, P110, DOI 10.1016/j.ypmed.2016.02.012
+   Kaczynski AT, 2012, AM J PREV MED, V42, P242, DOI 10.1016/j.amepre.2011.10.018
+   Kvale S., 1995, QUALITATIVE INQUIRY, V1, P19, DOI DOI 10.1177/107780049500100103
+   Larson LR, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0153211
+   Lebron Cynthia, 2016, Hisp Health Care Int, V14, P124, DOI 10.1177/1540415316660826
+   Lee ACK, 2011, J PUBLIC HEALTH-UK, V33, P212, DOI 10.1093/pubmed/fdq068
+   Local Initiatives Support Corporation, 2016, ESPN HOM COURT PROGR
+   Loukaitou-Sideris A., 2002, TOWN PLANN REV, V73, P467, DOI [10.3828/tpr.73.4.5, DOI 10.3828/TPR.73.4.5]
+   Macedo J, 2016, ENVIRON PLANN B, V43, P1096, DOI 10.1177/0265813515603369
+   Markevych I, 2017, ENVIRON RES, V158, P301, DOI 10.1016/j.envres.2017.06.028
+   McConnachie MM, 2010, HABITAT INT, V34, P244, DOI 10.1016/j.habitatint.2009.09.009
+   Miller S, 2018, CASE STUD TRANSP POL, V6, P257, DOI 10.1016/j.cstp.2018.03.008
+   National Recreation and Park Association, 2012, REVITALIZING INNER C
+   Park People, 2018, FUNDING PARKS FUNDIN
+   Pellegrino J. W, 1988, TEST VALIDITY, P49
+   Perkins HA, 2013, INT J URBAN REGIONAL, V37, P311, DOI 10.1111/j.1468-2427.2011.01128.x
+   Perkins HA, 2011, GEOFORUM, V42, P558, DOI 10.1016/j.geoforum.2011.05.001
+   Pincetl S, 2003, SOC SCI QUART, V84, P979, DOI 10.1046/j.0038-4941.2003.08404019.x
+   Powell LM, 2004, EVIDENCE BASED PREVE, V1, P135
+   Rigolon A, 2018, ENVIRON PLAN B-URBAN, V45, P275, DOI 10.1177/0265813516672212
+   Rigolon A, 2017, LANDSCAPE URBAN PLAN, V165, P73, DOI 10.1016/j.landurbplan.2017.05.007
+   Rigolon A, 2016, LANDSCAPE URBAN PLAN, V153, P160, DOI 10.1016/j.landurbplan.2016.05.017
+   Romero AJ, 2005, J ADOLESCENT HEALTH, V36, P253, DOI 10.1016/j.jadohealth.2004.02.027
+   Roubal AM, 2015, PREV CHRONIC DIS, V12, DOI 10.5888/pcd12.140378
+   Schlosberg D, 2004, ENVIRON POLIT, V13, P517, DOI 10.1080/0964401042000229025
+   Sharp RL, 2015, VISIT STUD, V18, P196, DOI 10.1080/10645578.2015.1079101
+   Shing C. C, 2006, PARKS RECREATION, P26
+   Sister C, 2010, GEOJOURNAL, V75, P229, DOI 10.1007/s10708-009-9303-8
+   Smith J. W., 2013, CITY CULTURE SOC, V4, P87, DOI [DOI 10.1016/J.CCS.2013.03.002, 10.1016/J.CCS.2013.03.002]
+   Sullivan Gail M, 2011, J Grad Med Educ, V3, P119, DOI 10.4300/JGME-D-11-00075.1
+   Sultana S, 2007, PROF GEOGR, V59, P193, DOI 10.1111/j.1467-9272.2007.00607.x
+   Tan PY, 2017, LANDSCAPE URBAN PLAN, V158, P139, DOI 10.1016/j.landurbplan.2016.11.001
+   The Trust for Public Land, 2017, PARKSCORE 2017
+   The Trust for Public Land, 2018, OUR WORK
+   Pham TTH, 2017, LANDSCAPE URBAN PLAN, V157, P422, DOI 10.1016/j.landurbplan.2016.09.001
+   U.K Ministry of Housing Communities and Local Government, 2012, POT FUND COMM GREEN
+   U.S. Census Bureau, 2000, CENS ATL US
+   United States Census Bureau, 2017, AM FACT FIND
+   Van Herzele A, 2003, LANDSCAPE URBAN PLAN, V63, P109, DOI 10.1016/S0169-2046(02)00192-5
+   Vaughan KB, 2013, ANN BEHAV MED, V45, pS28, DOI 10.1007/s12160-012-9425-y
+   Walls M., 2014, PRIVATE FUNDING PUBL
+   Wei F, 2017, LANDSCAPE URBAN PLAN, V157, P542, DOI 10.1016/j.landurbplan.2016.09.004
+   Wen M, 2013, ANN BEHAV MED, V45, pS18, DOI 10.1007/s12160-012-9426-x
+   Williamson T, 2008, AM POLIT RES, V36, P903, DOI 10.1177/1532673X08318589
+   Wolch J, 2005, URBAN GEOGR, V26, P4, DOI 10.2747/0272-3638.26.1.4
+   Wolch J, 2011, HEALTH PLACE, V17, P207, DOI 10.1016/j.healthplace.2010.10.001
+   Wolch JR, 2014, LANDSCAPE URBAN PLAN, V125, P234, DOI 10.1016/j.landurbplan.2014.01.017
+   Wustemann H, 2017, LANDSCAPE URBAN PLAN, V164, P124, DOI 10.1016/j.landurbplan.2017.04.002
+   Xiao Y, 2017, LANDSCAPE URBAN PLAN, V157, P383, DOI 10.1016/j.landurbplan.2016.08.007
+   Ye CD, 2018, J TRANSP GEOGR, V66, P106, DOI 10.1016/j.jtrangeo.2017.11.009
+NR 92
+TC 6
+Z9 6
+U1 56
+U2 61
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD OCT
+PY 2018
+VL 178
+BP 156
+EP 169
+DI 10.1016/j.landurbplan.2018.05.026
+PG 14
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA GR5VQ
+UT WOS:000442710400016
+DA 2019-03-26
+ER
+
+PT J
+AU Ciuffoletti, A
+AF Ciuffoletti, Augusto
+TI Low-Cost IoT: A Holistic Approach
+SO JOURNAL OF SENSOR AND ACTUATOR NETWORKS
+LA English
+DT Article
+DE Internet of Things (IoT); smart village; low-cost; REST/HTTP; WiFi;
+   virtual clock
+AB The key factors for a successful smart-city project are its initial cost and its scalability. The initial cost depends on several inter-related aspects that cannot be designed and optimized separately. After the pilot deployment, scaling-up takes place only if the cost remains affordable: an initial financial support may induce dependencies from technologies that become unsustainable in the long period. In addition, the initial adoption of an emerging technology that fails to affirm may jeopardize investment return. This paper investigates a smart-village use case, the success of which strongly depends on the initial cost and scalability, exploring a low-cost way for Internet of Things (IoT). We propose a simple conceptual framework for cost evaluation, and we verify its effectiveness with an exhaustive use case: a prototype sensor designed and tested with its surrounding eco-system. Using experimental results, we can estimate both performance and cost for a pilot system made of fifty sensors deployed in an urban area. We show that such cost grows linearly with system size, taking advantage of widely adopted technologies. The code and the design of the prototype are available, so that all steps are reproducible.
+C1 [Ciuffoletti, Augusto] Univ Pisa, Dept Comp Sci, I-56127 Pisa, Italy.
+RP Ciuffoletti, A (reprint author), Univ Pisa, Dept Comp Sci, I-56127 Pisa, Italy.
+EM augusto@di.unipi.it
+RI Ciuffoletti, Augusto/O-9040-2016
+OI Ciuffoletti, Augusto/0000-0002-9734-2044
+CR Aboelwafa M. M., 2017, P 2017 29 INT C MICR, P1, DOI DOI 10.1109/ICM.2017.8268836
+   Adelantado F, 2017, IEEE COMMUN MAG, V55, P34, DOI 10.1109/MCOM.2017.1600613
+   Baccarelli E, 2017, IEEE ACCESS, V5, P9882, DOI 10.1109/ACCESS.2017.2702013
+   Balid W., 2017, P 2017 IEEE SENSORS, P1, DOI [10.1109/ICSENS.2017.8234157, DOI 10.1109/ICSENS.2017.8234157]
+   Ciuffoletti A, 1999, PROCEEDINGS OF THE SEVENTH EUROMICRO WORKSHOP ON PARALLEL AND DISTRIBUTED PROCESSING, PDP'99, P359, DOI 10.1109/EMPDP.1999.746700
+   Ciuffoletti A., 2018, IMPLEMENTATION BENCH
+   Ciuffoletti A., 2017, WRAPPER INTERFACE ES
+   Ciuffoletti A., 2017, P 13 IEEE INT C WIR
+   Ciuffoletti A., 2018, LOW COST WIFI SENSOR
+   De Filicaia J., 2018, THESIS, DOI [10.13140/RG.2.2.36489.13921, DOI 10.13140/RG.2.2.36489.13921]
+   Desai NS, 2017, 2017 INTERNATIONAL CONFERENCE ON NEXTGEN ELECTRONIC TECHNOLOGIES: SILICON TO SOFTWARE (ICNETS2), P367, DOI 10.1109/ICNETS2.2017.8067962
+   El-Tawab Samy, 2017, 2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops), P497, DOI 10.1109/PERCOMW.2017.7917613
+   European Union, 2016, CORK 2 0 DECL BETT L, DOI [10.2762/618522, DOI 10.2762/618522]
+   Gammon N., 2015, POWER SAVING TECHNIQ
+   Gasco M, 2016, P ANN HICSS, P2983, DOI 10.1109/HICSS.2016.373
+   Hogan P., 2017, TECHNICAL REPORT
+   Kamlaesan B, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON SMART TECHNOLOGIES AND MANAGEMENT FOR COMPUTING, COMMUNICATION, CONTROLS, ENERGY AND MATERIALS (ICSTM), P239, DOI 10.1109/ICSTM.2017.8089159
+   Kodali RK, 2016, PROCEEDINGS OF THE 2016 2ND INTERNATIONAL CONFERENCE ON CONTEMPORARY COMPUTING AND INFORMATICS (IC3I), P404, DOI 10.1109/IC3I.2016.7917998
+   Lau BPL, 2018, IEEE INTERNET THINGS, V5, P473, DOI 10.1109/JIOT.2017.2748987
+   Mekki K, 2019, ICT EXPRESS, V5, P1, DOI 10.1016/j.icte.2017.12.005
+   Naranjo P. G. V., 2017, ARXIV171001801
+   Portaluri B., ARDUINO WIFI LIB ESP
+   Raza U, 2017, IEEE COMMUN SURV TUT, V19, P855, DOI 10.1109/COMST.2017.2652320
+   Rizwan P., 2016, EM TECHN TRENDS ICET, P1, DOI DOI 10.1109/ICETT.2016.7873660
+   Shi J., 2017, P IEEE IND COMM POW, P1, DOI [10.1109/ISCIT.2017.8261235, DOI 10.1109/ISCIT.2017.8261235]
+   Singh A, 2016, 2016 2ND INTERNATIONAL CONFERENCE ON COMMUNICATION CONTROL AND INTELLIGENT SYSTEMS (CCIS), P235, DOI 10.1109/CCIntelS.2016.7878238
+   Spachos P., 2017, 2017 24 INT C TEL IC, P1, DOI 10.1109/CAMAD.2017.8031633
+   STMicroelectronics, STM32 32 BIT ARM COR
+   Suresh M., 2017, P 2017 IEEE REG 10 S, P1, DOI [10.1109/TENCONSpring.2017.8070088, DOI 10.1109/TENCONSPRING.2017.8070088]
+   Tragos EZ, 2014, INT CONF PERVAS COMP, P111, DOI 10.1109/PerComW.2014.6815175
+   United States Environmental Protection Agency, 2002, SMART TOWNS RUR COMM
+   van Winden W, 2017, J URBAN TECHNOL, V24, P51, DOI 10.1080/10630732.2017.1348884
+   Velasquez P., 2017, P 2017 CHILEAN C EL, P1, DOI DOI 10.1109/CHILECON.2017.8229599
+   Verma P., 2015, P 2015 IEEE 1 INT SM, P1, DOI [10.1109/ISC2.2015.7366152, DOI 10.1109/ISC2.2015.7366152]
+NR 34
+TC 1
+Z9 1
+U1 2
+U2 4
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2224-2708
+J9 J SENS ACTUAR NETW
+JI J. Sens. Actuar. Netw.
+PD JUN
+PY 2018
+VL 7
+IS 2
+AR 19
+DI 10.3390/jsan7020019
+PG 19
+WC Telecommunications
+SC Telecommunications
+GA GK9HZ
+UT WOS:000436556000004
+OA DOAJ Gold
+DA 2019-03-26
+ER

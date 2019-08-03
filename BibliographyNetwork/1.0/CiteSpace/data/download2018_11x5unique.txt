@@ -1,0 +1,494 @@
+
+PT J
+AU Ronda-Pupo, GA
+   Pham, T
+AF Armando Ronda-Pupo, Guillermo
+   Thong Pham
+TI The evolutions of the rich get richer and the fit get richer phenomena
+   in scholarly networks: the case of the strategic management journal
+SO SCIENTOMETRICS
+DE Author fitness; Citation network; Co-authorship network; Preferential
+   attachment; Power-law; Scale free network; First-mover advantage
+ID SCIENTIFIC COLLABORATION NETWORKS; RESOURCE-BASED VIEW; DYNAMIC
+   CAPABILITIES; PREFERENTIAL ATTACHMENT; BETWEENNESS CENTRALITY;
+   INTELLECTUAL STRUCTURE; CUMULATIVE ADVANTAGE; SCIENCE SYSTEM; IMPACT;
+   FIELD
+AB Understanding how a scientist develops new scientific collaborations or how their papers receive new citations is a major challenge in scientometrics. The approach being proposed simultaneously examines the growth processes of the co-authorship and citation networks by analyzing the evolutions of the rich get richer and the fit get richer phenomena. In particular, the preferential attachment function and author fitnesses, which govern the two phenomena, are estimated non-parametrically in each network. The approach is applied to the co-authorship and citation networks of the flagship journal of the strategic management scientific community, namely the Strategic Management Journal. The results suggest that the abovementioned phenomena have been consistently governing both temporal networks. The average of the attachment exponents in the co-authorship network is 0.30 while it is 0.29 in the citation network. This suggests that the rich get richer phenomenon has been weak in both networks. The right tails of the distributions of author fitness in both networks are heavy, which imply that the intrinsic scientific quality of each author has been playing a crucial role in getting new citations and new co-authorships. Since the total competitiveness in each temporal network is founded to be rising with time, it is getting harder to receive a new citation or to develop a new collaboration. Analyzing the average competency, it was found that on average, while the veterans tend to be more competent at developing new collaborations, the newcomers are likely better at acquiring new citations. Furthermore, the author fitness in both networks has been consistent with the history of the strategic management scientific community. This suggests that coupling node fitnesses throughout different networks might be a promising new direction in analyzing simultaneously multiple networks.
+RI Ronda-Pupo, Guillermo/F-9512-2014
+OI Ronda-Pupo, Guillermo/0000-0002-9049-8249; Pham,
+   Thong/0000-0002-1940-9290
+CR Abbasi A, 2012, J INFORMETR, V6, P403, DOI 10.1016/j.joi.2012.01.002
+   Ronda-Pupo GA, 2017, J ASSOC INF SCI TECH, V68, P1257, DOI 10.1002/asi.23759
+   Ronda-Pupo GA, 2016, SOC SCI INFORM, V55, P3, DOI 10.1177/0539018415610225
+   Ronda-Pupo GA, 2013, CUAD ECON DIR EMPRES, V16, P1, DOI 10.1016/j.cede.2012.06.003
+   Ronda-Pupo GA, 2010, SCIENTOMETRICS, V85, P821, DOI 10.1007/s11192-010-0287-4
+   Azar OH, 2008, J ECON MANAGE STRAT, V17, P781, DOI 10.1111/j.1530-9134.2008.00195.x
+   Barabasi AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barney JB, 2001, J MANAGE, V27, P643, DOI 10.1016/S0149-2063(01)00115-5
+   Batagelj V, 2017, SCIENTOMETRICS, V113, P503, DOI 10.1007/s11192-017-2522-8
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bianconi G, 2001, EUROPHYS LETT, V54, P436, DOI 10.1209/epl/i2001-00260-6
+   Biscaro C, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0099502
+   Borgatti S., 2002, UCINET 6 WINDOWS VER
+   Caldarelli G, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.258702
+   Caldarelli G., 2007, SCALE FREE NETWORKS
+   Egghe L, 2005, J AM SOC INF SCI TEC, V56, P669, DOI 10.1002/asi.20158
+   EGGHE L, 1986, J INFORM SCI, V12, P193, DOI 10.1177/016555158601200406
+   Egghe L, 2006, SCIENTOMETRICS, V69, P131, DOI 10.1007/s11192-006-0144-7
+   Eisenhardt KM, 2000, STRATEGIC MANAGE J, V21, P1105, DOI 10.1002/1097-0266(200010/11)21:10/11<1105::AID-SMJ133>3.0.CO;2-E
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Frynas JJG, 2006, STRATEGIC MANAGE J, V27, P321, DOI 10.1002/smj.519
+   Furrer O, 2008, INT J MANAG REV, V10, P1, DOI 10.1111/j.1468-2370.2007.00217.x
+   Gibrat R., 1931, INEGALITES EC
+   Guerras-Martin L. A., 2013, PALGRAVE ENCY STRATE, P1
+   Gulati R, 1998, STRATEGIC MANAGE J, V19, P293, DOI 10.1002/(SICI)1097-0266(199804)19:4<293::AID-SMJ982>3.0.CO;2-M
+   Guns R, 2011, SCIENTOMETRICS, V87, P133, DOI 10.1007/s11192-010-0332-3
+   HAMBRICK DC, 1981, STRATEGIC MANAGE J, V2, P263, DOI 10.1002/smj.4250020305
+   HENDERSON R, 1994, STRATEGIC MANAGE J, V15, P63, DOI 10.1002/smj.4250150906
+   Hirsch JE, 2005, P NATL ACAD SCI USA, V102, P16569, DOI 10.1073/pnas.0507655102
+   Judge WQ, 2012, ACAD MANAG LEARN EDU, V11, P82, DOI 10.5465/amle.2010.0191
+   Katz J. S., 2016, SPRU 50 ANN C U SUSS
+   Katz JS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0156150
+   Katz JS, 1999, RES POLICY, V28, P501, DOI 10.1016/S0048-7333(99)00010-4
+   KOGUT B, 1988, STRATEGIC MANAGE J, V9, P319, DOI 10.1002/smj.4250090403
+   Kong JS, 2008, P NATL ACAD SCI USA, V105, P13724, DOI 10.1073/pnas.0805921105
+   Koseoglu MA, 2016, SCIENTOMETRICS, V109, P203, DOI 10.1007/s11192-016-1894-5
+   Krapivsky PL, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.066123
+   LAW J, 1992, SCIENTOMETRICS, V23, P417, DOI 10.1007/BF02029807
+   Leydesdorff L, 2007, J AM SOC INF SCI TEC, V58, P1303, DOI 10.1002/asi.20614
+   Lotka AJ, 1926, J WASHINGTON ACAD SC, V12, P317
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   MERTON RK, 1988, ISIS, V79, P606, DOI 10.1086/354848
+   Moed HF, 2010, J INFORMETR, V4, P436, DOI 10.1016/j.joi.2010.03.009
+   Nag R, 2007, STRATEG MANAGE J, V28, P935, DOI 10.1002/smj.615
+   NARANAN S, 1971, J DOC, V27, P83, DOI 10.1108/eb026510
+   Neophytou J., 2014, NAVIGATE WORLD CITAT
+   Nerur SP, 2008, STRATEG MANAGE J, V29, P319, DOI 10.1002/smj.659
+   Newman MEJ, 2009, EPL-EUROPHYS LETT, V86, DOI 10.1209/0295-5075/86/68001
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.025102
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.016132
+   Otte E., 2016, J INF SCI, V28, P441, DOI 10.1177/016555150
+   Pan RK, 2014, SCI REP-UK, V4, DOI 10.1038/srep04880
+   Persson O., 2009, CELEBRATING SCHOLARL, V5, P9
+   PETERAF MA, 1993, STRATEGIC MANAGE J, V14, P179, DOI 10.1002/smj.4250140303
+   Pham T., 2018, PAFIT R PACKAGE NON
+   Pham T, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0137796
+   Porter M. E., 1980, COMPETITIVE STRATEGY
+   PRICE DJD, 1976, J AM SOC INFORM SCI, V27, P292, DOI 10.1002/asi.4630270505
+   PRICE DJD, 1965, SCIENCE, V149, P510
+   Ramos-Rodriguez AR, 2004, STRATEGIC MANAGE J, V25, P981, DOI 10.1002/smj.397
+   RING PS, 1992, STRATEGIC MANAGE J, V13, P483, DOI 10.1002/smj.4250130702
+   Rupp DE, 2014, J MANAGE, V40, P1501, DOI 10.1177/0149206314547387
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Strategic Management Society, 2014, SMS AW HON
+   Tahai A, 1999, STRATEGIC MANAGE J, V20, P279
+   Teece DJ, 1997, STRATEGIC MANAGE J, V18, P509, DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z
+   Pham T, 2016, SCI REP-UK, V6, DOI 10.1038/srep32558
+   Turker I, 2016, CHAOS SOLITON FRACT, V91, P386, DOI 10.1016/j.chaos.2016.06.023
+   van Eck NJ, 2010, SCIENTOMETRICS, V84, P523, DOI 10.1007/s11192-009-0146-3
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P565, DOI 10.1002/asi.20765
+   van Raan AFJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059384
+   Waltman L, 2011, SCIENTOMETRICS, V87, P467, DOI 10.1007/s11192-011-0354-5
+   Wang DS, 2013, SCIENCE, V342, P127, DOI 10.1126/science.1237825
+   Wasserman S., 1999, SOCIAL NETWORK ANAL
+   WERNERFELT B, 1984, STRATEGIC MANAGE J, V5, P171, DOI 10.1002/smj.4250050207
+   Winter SG, 2003, STRATEGIC MANAGE J, V24, P991, DOI 10.1002/smj.318
+NR 78
+TC 1
+Z9 1
+SN 0138-9130
+EI 1588-2861
+PD JUL
+PY 2018
+VL 116
+IS 1
+BP 363
+EP 383
+DI 10.1007/s11192-018-2761-3
+UT WOS:000438126800016
+ER
+
+PT J
+AU Rahimian, M
+   Iulo, LD
+   Duarte, JMP
+AF Rahimian, Mina
+   Iulo, Lisa D.
+   Duarte, Jose M. Pinto
+TI A Review of Predictive Software for the Design of Community Microgrids
+SO JOURNAL OF ENGINEERING
+ID GREENHOUSE-GAS EMISSIONS; ENERGY-SYSTEMS; CITIES; TOOLS
+AB This paper discusses adding a spatial dimension to the design of community microgrid projects in the interest of expanding the existing discourse related to energy performance optimization measures. A multidimensional vision for designing community microgrids with higher energy performance is considered, leveraging urban form (superstructure) to understand how it impacts the performance of the system's distributed energy resources and loads (infrastructure). This vision engages the design sector in the technical conversation of developing community microgrids, leading to energy efficient designs of microgrid-connected communities well before their construction. A new generation of computational modeling and simulation tools that address this interaction are required. In order to position the research, this paper presents a survey of existing software packages, belonging to two distinct categories of modeling, simulation, and evaluation of community microgrids: the energy infrastructure modeling and the urban superstructure energy modeling. Results of this software survey identify a lack in software tools and simulation packages that simultaneously address the necessary interaction between the superstructure and infrastructure of community microgrids, given the importance of its study. Conclusions represent how a proposed experimental software prototype may fill an existing gap in current related software packages.
+OI Duarte, Jose/0000-0002-3826-3987; Rahimian, Mina/0000-0003-0400-9953
+CR Allegrini J, 2015, RENEW SUST ENERG REV, V52, P1391, DOI 10.1016/j.rser.2015.07.123
+   [Anonymous], 2017, PV SOL PREMIUM
+   [Anonymous], 2017, LEAP LONG RANGE ENER
+   [Anonymous], 2017, COMMEND COMMUNITY EN
+   [Anonymous], 2015, POW NEW GEN COMM EN
+   Bastianoni S, 2004, ECOL ECON, V49, P253, DOI 10.1016/j.ecolecon.2004.01.018
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bourgeois T., 2013, COMMUNITY MICROGRIDS
+   Compagnon R, 2004, ENERG BUILDINGS, V36, P321, DOI 10.1016/j.enbuild.2004.01.009
+   Connolly D, 2010, APPL ENERG, V87, P1059, DOI 10.1016/j.apenergy.2009.09.026
+   Dodman D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016
+   Ewing R, 2010, J AM PLANN ASSOC, V76, P265, DOI 10.1080/01944361003766766
+   Farhangi H, 2010, IEEE POWER ENERGY M, V8, P18, DOI 10.1109/MPE.2009.934876
+   Fernandez A., 2010, DISTRIBUTING ELECT E
+   Fu Q, 2015, ELECTR POW COMPO SYS, V43, P1453, DOI 10.1080/15325008.2015.1039098
+   Gil J., 2010, P 10 INT C DES DEC S
+   Grubler A., 2012, SUSTAINABLE FUTURE, P1307
+   Jebaraj S, 2006, RENEW SUST ENERG REV, V10, P281, DOI 10.1016/j.rser.2004.09.004
+   Kang SJ, 2014, ENERG BUILDINGS, V75, P239, DOI 10.1016/j.enbuild.2014.02.008
+   Lambert T, 2006, INTEGRATION OF ALTERNATIVE SOURCES OF ENERGY, P379
+   Lawrence Berkeley National Laboratory (LBNL), 2015, DER CAM US MAN
+   Leng G., 2000, IND ENV, P22
+   Lidula NWA, 2011, RENEW SUST ENERG REV, V15, P186, DOI 10.1016/j.rser.2010.09.041
+   Lobaccaro G, 2014, ENERGY PROCEDIA, V48, P1559, DOI DOI 10.1016/J.EGYPRO.2014.02.176
+   Mariam L, 2013, J ENG, DOI 10.1155/2013/937614
+   Markovic D, 2011, RENEW SUST ENERG REV, V15, P4897, DOI 10.1016/j.rser.2011.06.014
+   Massoud Amin S., 2005, IEEE Power & Energy Magazine, V3, P34, DOI 10.1109/MPAE.2005.1507024
+   Mendes G, 2011, RENEW SUST ENERG REV, V15, P4836, DOI 10.1016/j.rser.2011.07.067
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   Owens S, 1986, ENERGY PLANNING URBA
+   Paglia T. K., 2011, THESIS
+   Rahimian M., 2015, ARCHITECTURE RESILIE, P215
+   Reinhart CF, 2013, BUILDING SIMULATION 2013: 13TH INTERNATIONAL CONFERENCE OF THE INTERNATIONAL BUILDING PERFORMANCE SIMULATION ASSOCIATION, P476
+   Robinson D, 2007, SOL ENERGY, V81, P1196, DOI 10.1016/j.solener.2007.06.002
+   Robinson D, 2009, INT IBPSA C, P1083
+   Seto C., 2014, P CLIM CHANG 2014 MI
+   Sherman G. R., 2007, SHARING LOCAL ENERGY
+   Silva M., 2017, J PLANNING LIT
+   Steadman P., 1977, J ARCHIT EDUC, V30, P62
+   Ton DT, 2012, ELECT J, V25, P84, DOI DOI 10.1016/J.TEJ.2012.09.013
+   Villareal C., 2014, MICROGRIDS REGULATOR
+   Walter E., 2015, P 2 BUILD SIM APPL C, P215
+   Wouters C, 2015, SUSTAIN CITIES SOC, V15, P22, DOI 10.1016/j.scs.2014.10.007
+NR 43
+TC 0
+Z9 0
+SN 2314-4912
+EI 2314-4904
+PY 2018
+AR 5350981
+DI 10.1155/2018/5350981
+UT WOS:000426695100001
+ER
+
+PT J
+AU Steele, MK
+AF Steele, M. K.
+TI The scaling of urban surface water abundance and impairment with city
+   size
+SO GEOMORPHOLOGY
+CT 48th Annual Binghamton Geomorphology Symposium
+CY OCT 13-15, 2017
+CL Texas State Univ, San Marcos, TX
+HO Texas State Univ
+DE Urban streams; Urban water bodies; Power-law scaling; Impaired streams
+ID STREAM SYNDROME; UNITED-STATES; LAND-USE; ECOSYSTEM FUNCTION;
+   URBANIZATION; CITIES; PATTERNS; LAKES; LANDSCAPES; USA
+AB Urbanization alters surface water compared to nonurban landscapes, yet little is known regarding how basic aquatic ecosystem characteristics, such as the abundance and impairment of surface water, differ with population size or regional context. This study examined the abundance, scaling, and impairment of surface water by quantifying the stream length, water body area, and impaired stream length for 3520 cities in the United States with populations from 2500 to 18 million. Stream length, water body area, and impaired stream length were quantified using the National Hydrography Dataset and the EPA's 303(d) list These metrics were scaled with population and city area using single and piecewise power-law models and related to biophysical factors (precipitation, topography) and land cover. Results show that abundance of stream length and water body area in cities actually increases with city area; however, the per person abundance decreases with population size. Relative to population, impaired stream length did not increase until city populations were >25,000 people, then scaled linearly with population. Some variation in abundance and impairment was explained by biophysical context and land cover. Development intensity correlated with stream density and impairment; however, those relationships depended on the orientation of the land covers. When high intensity development occupied the local elevation highs (+15 m) and undeveloped land the elevation lows, the percentage of impaired streams was less than the opposite land cover orientation (-15 m) or very flat land. These results show that surface water abundance and impairment across contiguous US cities are influenced by city size and by biophysical setting interacting with land cover intensity. (C) 2017 Elsevier B.V. All rights reserved.
+OI Steele, Meredith/0000-0002-3126-1348
+CR Abbott JK, 2013, J ENVIRON ECON MANAG, V65, P208, DOI 10.1016/j.jeem.2012.09.007
+   Alberti M, 2005, INT REGIONAL SCI REV, V28, P168, DOI 10.1177/0160017605275160
+   Alberti Marina, 2004, Urban Ecosystems, V7, P241, DOI 10.1023/B:UECO.0000044038.90173.c6
+   Arnold CL, 1996, J AM PLANN ASSOC, V62, P243, DOI 10.1080/01944369608975688
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Beaulieu JJ, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0132256
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boone CG, 2012, URBAN ECOSYST, V15, P795, DOI 10.1007/s11252-012-0240-9
+   Booth DB, 2016, FRESHW SCI, V35, P412, DOI 10.1086/684940
+   Broadhead AT, 2015, WATER ENVIRON J, V29, P288, DOI 10.1111/wej.12104
+   Brown LR, 2009, J N AM BENTHOL SOC, V28, P1051, DOI 10.1899/08-153.1
+   Burrough PA, 2015, PRINCIPLES GEOGRAPHI
+   Cadenasso ML, 2007, FRONT ECOL ENVIRON, V5, P80, DOI 10.1890/1540-9295(2007)5[80:SHIUER]2.0.CO;2
+   Cole JJ, 2007, ECOSYSTEMS, V10, P171, DOI 10.1007/s10021-006-9013-8
+   Cronon W, 1992, NATURES METROPOLIS C
+   Csima P, 2010, ANTHROPOGENIC GEOMORPHOLOGY: A GUIDE TO MAN-MADE LANDFORMS, P179, DOI 10.1007/978-90-481-3058-0_12
+   Dahlgren JP, 2005, ECOGRAPHY, V28, P49, DOI 10.1111/j.0906-7590.2005.04018.x
+   Davies Richard G., 2008, Urban Ecosystems, V11, P269, DOI 10.1007/s11252-008-0062-y
+   Downing JA, 2010, LIMNETICA, V29, P9
+   Doyle MW, 2015, WATER RESOUR RES, V51, P5603, DOI 10.1002/2015WR017030
+   Dunham JB, 1999, ECOL APPL, V9, P642, DOI 10.2307/2641151
+   Elmore AJ, 2008, FRONT ECOL ENVIRON, V6, P308, DOI 10.1890/070101
+   Fehr E, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.036116
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   Fraterrigo JM, 2008, ECOSYSTEMS, V11, P1021, DOI 10.1007/s10021-008-9176-6
+   Fry JA, 2011, PHOTOGRAMM ENG REM S, V77, P859
+   Fuller RA, 2009, BIOL LETTERS, V5, P352, DOI 10.1098/rsbl.2009.0010
+   GOODCHILD MF, 1988, MATH GEOL, V20, P615, DOI 10.1007/BF00890580
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Groffman PM, 2014, FRONT ECOL ENVIRON, V12, P74, DOI 10.1890/120374
+   Hale RL, 2016, WATER-SUI, V8, DOI 10.3390/w8070310
+   Hale RL, 2016, FRESHW SCI, V35, P421, DOI 10.1086/684594
+   Hale RL, 2015, ECOSYSTEMS, V18, P62, DOI 10.1007/s10021-014-9812-2
+   Hall SJ, 2016, LANDSCAPE ECOL, V31, P101, DOI 10.1007/s10980-015-0297-y
+   Jiang WG, 2012, J GEOGR SCI, V22, P301, DOI 10.1007/s11442-012-0928-z
+   Jones DK, 2014, GEOMORPHOLOGY, V219, P42, DOI 10.1016/j.geomorph.2014.04.038
+   Keller AA, 2008, J ENVIRON MANAGE, V86, P699, DOI 10.1016/j.jenvman.2006.12.013
+   Kentula ME, 2004, WETLANDS, V24, P734, DOI 10.1672/0277-5212(2004)024[0734:TCIWWU]2.0.CO;2
+   KLINKENBERG B, 1992, EARTH SURF PROC LAND, V17, P217, DOI 10.1002/esp.3290170303
+   Larson EK, 2012, URBAN ECOSYST, V15, P71, DOI 10.1007/s11252-011-0208-1
+   Lubowski RN., 2006, EC INFORM B
+   Ludwig JA, 2000, ECOSYSTEMS, V3, P84, DOI 10.1007/s100210000012
+   Meyer JL, 2005, J N AM BENTHOL SOC, V24, P602, DOI 10.1899/0887-3593(2005)024\[0602:SEFIUL\]2.0.CO;2
+   Napieralski JA, 2016, APPL GEOGR, V67, P129, DOI 10.1016/j.apgeog.2015.12.008
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Pennino MJ, 2014, BIOGEOCHEMISTRY, V121, P247, DOI 10.1007/s10533-014-9958-1
+   Pickett S. T., 2014, RESILIENCE ECOLOGY U, V3
+   Roach WJ, 2008, BIOSCIENCE, V58, P715, DOI 10.1641/B580808
+   Roy AH, 2009, J N AM BENTHOL SOC, V28, P911, DOI 10.1899/08-178.1
+   Schneider A, 2009, ENVIRON RES LETT, V4, DOI 10.1088/1748-9326/4/4/044003
+   Steele MK, 2014, ECOL APPL, V24, P1070, DOI 10.1890/13-0983.1
+   Steele MK, 2014, ECOSYSTEMS, V17, P685, DOI 10.1007/s10021-014-9751-y
+   Steele M. K., 2010, AGRONOMY MONOGRAPH, V55, P297
+   Sudduth EB, 2007, RESTOR ECOL, V15, P573, DOI 10.1111/j.1526-100X.2007.00252.x
+   Sweeney BW, 2014, J AM WATER RESOUR AS, V50, P560, DOI 10.1111/jawr.12203
+   Tenenbaum DE, 2006, HYDROL PROCESS, V20, P219, DOI 10.1002/hyp.5895
+   USGS, 2012, NAT HYDR DAT
+   USGS, 2012, NAT MAP
+   Violin CR, 2011, ECOL APPL, V21, P1932, DOI 10.1890/10-1551.1
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Walsh PJ, 2011, LAND ECON, V87, P628, DOI 10.3368/le.87.4.628
+NR 61
+TC 0
+Z9 0
+SN 0169-555X
+EI 1872-695X
+PD MAR 15
+PY 2018
+VL 305
+SI SI
+BP 231
+EP 241
+DI 10.1016/j.geomorph.2017.07.001
+UT WOS:000427102800018
+ER
+
+PT J
+AU Cui, XZ
+AF Cui, Xuezhu
+TI How can cities support sustainability: A bibliometric analysis of urban
+   metabolism
+SO ECOLOGICAL INDICATORS
+DE Urban metabolism; Bibliometric analysis; Indicators; Cities;
+   Sustainability; Recycling
+ID FLOW-ANALYSIS; SOCIAL METABOLISM; ENERGY; URBANIZATION; ECOSYSTEM;
+   NITROGEN; BALANCE; CITY; TRANSITION; CHALLENGES
+AB Urban metabolism concerns the evaluation of how much urban ecosystems produce and consume resources. Such an assessment is now a critical perspective in understanding the manner in which city development affects local and regional environment. Research in urban metabolism is a relatively new and ever-evolving area that encompasses a multidisciplinary field and moves toward a combined natural and social science. This paper offers a verifiable and reproducible systematic literature review of sustainable urban metabolism, analyzing and scrutinizing 813 papers for co-occurrence of keywords. This review aims to answer two research questions: (i) what are the prevailing themes in urban metabolism and (ii) how have these themes measured the support of cities toward sustainability? Through clustering analysis based on bibliometric method, four different focuses and their main keywords were outlined. The four clusters are general concept, methodology, policy issue, and specific element clusters, and their core keywords are city, energy, relationship, network, sustainability, China, indicator, economy, country, recycling, disposal, and recovery. Urban metabolism themes have evolved from nutrient flows and individual element treatment concerning industrial ecology in the course of the past century to ecological views of complex urban networks. The taxonomy of themes and the analysis of their evolution lead to further research agenda on the general framework of urban metabolism toward sustainability.
+CR ab'Saber A. N., 2004, COLECAO PRINCIPIOS, V71, P54
+   Baccini P, 1997, J URBAN TECHNOL, V4, P27, DOI 10.1080/10630739708724555
+   Baccini P., 1996, REGIONALER STAFFHAUS
+   Baccini P., 1991, METABOLISM ANTHROPOS
+   Baker LA, 2001, ECOSYSTEMS, V4, P582, DOI 10.1007/s10021-001-0031-2
+   Barles S., 2007, P CISBAT 2007 INT C, P579
+   Barles S, 2010, J ENVIRON PLANN MAN, V53, P439, DOI 10.1080/09640561003703772
+   Barles S, 2009, J IND ECOL, V13, P898, DOI 10.1111/j.1530-9290.2009.00169.x
+   BARRETT J., 2001, IMPACT ASSESS PROJ A, V19, P107
+   Beatley T., 2009, WILLIAM MARY ENV LAW, V34, P209
+   Behzadian K, 2015, SCI TOTAL ENVIRON, V527, P220, DOI 10.1016/j.scitotenv.2015.04.097
+   Beloin-Saint-Pierre D, 2017, J CLEAN PROD, V163, pS223, DOI 10.1016/j.jclepro.2016.09.014
+   Beloin-Saint-Pierre D, 2014, INT J LIFE CYCLE ASS, V19, P861, DOI 10.1007/s11367-014-0710-9
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bohle H.-G., 1994, GEOJOURNAL, V34, P245
+   Brunner P. H., 2001, ENCY GLOBAL ENV CHAN, V3
+   Bunning J, 2013, SUSTAINABILITY-BASEL, V5, P2305, DOI 10.3390/su5062305
+   Burstrom F., 2003, WORKSH QUO VAD MFA M
+   Cao SX, 2014, LAND USE POLICY, V39, P412, DOI 10.1016/j.landusepol.2013.12.004
+   Carreon JR, 2018, RESOUR CONSERV RECY, V132, P258, DOI 10.1016/j.resconrec.2017.08.004
+   Chartered Institute of Wastes Management, 2002, RES FLOW EC FOOTPR A
+   Chester RI., 2013, ENVIRON RES LETT, V8, P15
+   Chrysoulakis N., 2008, P ENVIROINFO2008 ENV, V1, P301
+   Churkina G, 2008, ECOL MODEL, V216, P107, DOI 10.1016/j.ecolmodel.2008.03.006
+   Conke LS, 2015, ENVIRON POLLUT, V202, P146, DOI 10.1016/j.envpol.2015.03.027
+   Cui SH, 2013, P NATL ACAD SCI USA, V110, P2052, DOI 10.1073/pnas.1221638110
+   Cui XZ, 2015, HABITAT INT, V49, P251, DOI 10.1016/j.habitatint.2015.05.018
+   Davoudi S, 2017, RESOUR CONSERV RECY, V120, P55, DOI 10.1016/j.resconrec.2017.01.011
+   Decker EH, 2000, ANNU REV ENERG ENV, V25, P685, DOI 10.1146/annurev.energy.25.1.685
+   Deilmann C, 2009, GER ANNU SPAT RES PO, P97
+   Emmenegger M. F., 2003, METABOLISME ACTIVITE
+   Faerge J, 2001, ECOL MODEL, V139, P63, DOI 10.1016/S0304-3800(01)00233-2
+   Fischer-Kowalski M, 2004, REV J F BRAUDEL CTR, V27, P307
+   Folke C, 1997, AMBIO, V26, P167
+   Fung M, 2005, ENVIRON PLANN B, V32, P639, DOI 10.1068/b31113
+   Gandy M., 2004, CITY, V8, P363, DOI DOI 10.1080/1360481042000313509
+   Gardner H., 2013, REDUCING MAT RESOURC
+   Gasson B., 2002, SAPI INT C PLANN AFR
+   Girardet H., 1992, GAIA ATLAS CITIES
+   Gonzalez A, 2013, ENVIRON IMPACT ASSES, V38, P109, DOI 10.1016/j.eiar.2012.06.007
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Gu BJ, 2012, ENVIRON POLLUT, V171, P30, DOI 10.1016/j.envpol.2012.07.015
+   Haapio A, 2012, ENVIRON IMPACT ASSES, V32, P165, DOI 10.1016/j.eiar.2011.08.002
+   Hanya T, 1976, SCI BETTER ENV, P228
+   He HM, 2008, J ENVIRON MANAGE, V86, P731, DOI 10.1016/j.jenvman.2006.12.043
+   Heath G. W., 2006, J PHYS ACT HEALTH, V3, P55, DOI DOI 10.1123/JPAH.3.SL.S55
+   Hendriks C., 2000, LOCAL ENV, V5, P311, DOI DOI 10.1080/13549830050134257
+   Hermanowicz SW, 1999, WATER SCI TECHNOL, V40, P29, DOI 10.1016/S0273-1223(99)00482-5
+   Holmes T., 2012, URBAN METABOLISM LIT
+   Huang CL, 2012, RESOUR CONSERV RECY, V68, P104, DOI 10.1016/j.resconrec.2012.08.012
+   Huang SL, 1998, J ENVIRON MANAGE, V52, P39, DOI 10.1006/jema.1997.0157
+   Huang SL, 2003, LANDSCAPE URBAN PLAN, V63, P61, DOI 10.1016/S0169-2046(02)00152-4
+   Inostroza L, 2014, ECOL INDIC, V42, P10, DOI 10.1016/j.ecolind.2014.02.035
+   Kamalski J, 2012, CITIES, V29, pS3, DOI 10.1016/j.cities.2012.06.012
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kennedy C, 2012, J IND ECOL, V16, P780, DOI 10.1111/j.1530-9290.2012.00548.x
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Lebel L, 2007, J IND ECOL, V11, P61, DOI 10.1162/jie.2007.1185
+   Lennox J., 2004, TECHNICAL REPORT CSI
+   Li F, 2017, J CLEAN PROD, V163, pS1, DOI 10.1016/j.jclepro.2016.11.151
+   Lin JY, 2013, ENERG POLICY, V58, P220, DOI 10.1016/j.enpol.2013.03.007
+   Lin T., 2016, ENVIRON INT, V94, P383
+   Lin T, 2014, ENVIRON POLLUT, V192, P244, DOI 10.1016/j.envpol.2014.03.038
+   Liu JG, 2010, SCIENCE, V328, P50, DOI 10.1126/science.1186234
+   Liu W, 2017, J CLEAN PROD, V165, P168, DOI 10.1016/j.jclepro.2017.07.055
+   Ma DC, 2012, J CLEAN PROD, V29-30, P188, DOI 10.1016/j.jclepro.2012.01.033
+   Maclaren V., 1996, DEV INDICATORS URBAN
+   Marull J, 2010, LAND USE POLICY, V27, P497, DOI 10.1016/j.landusepol.2009.07.004
+   Marx K., 1887, CAPITAL CRITIQUE POL, V1
+   McCormick K, 2013, J CLEAN PROD, V50, P1, DOI 10.1016/j.jclepro.2013.01.003
+   Mega VP, 2010, SUSTAINABLE CITIES FOR THE THIRD MILLENNIUM: THE ODYSSEY OF URBAN EXCELLENCE, P3, DOI 10.1007/978-1-4419-6037-5
+   Nevens F, 2013, J CLEAN PROD, V50, P111, DOI 10.1016/j.jclepro.2012.12.001
+   NEWCOMBE K, 1978, AMBIO, V7, P3
+   Newman P, 2008, CITIES SUSTAINABLE E
+   Newman P, 2014, AUST PLAN, V51, P47, DOI 10.1080/07293682.2013.790832
+   Newman PWG, 1999, LANDSCAPE URBAN PLAN, V44, P219, DOI 10.1016/S0169-2046(99)00009-2
+   Ngo N. S., 2008, Urban Ecosystems, V11, P121, DOI 10.1007/s11252-008-0051-1
+   Nichols BG, 2015, J TRANSP LAND USE, V8, P115, DOI 10.5198/jtlu.2015.598
+   NILSSON J, 1995, J ENVIRON MANAGE, V45, P243, DOI 10.1006/jema.1995.0072
+   Odum H.T., 1983, SYSTEMS ECOLOGY INTR
+   Oliver-Sola J, 2007, J IND ECOL, V11, P83, DOI 10.1162/jie.2007.1193
+   Oswald F., 2003, NETZSTADT DESIGNING
+   Pehnt M, 2006, RENEW ENERG, V31, P55, DOI 10.1016/j.renene.2005.03.002
+   Pina A, 2016, TECHNOL FORECAST SOC, V113, P220, DOI 10.1016/j.techfore.2015.05.012
+   Rosado L, 2016, J CLEAN PROD, V126, P206, DOI 10.1016/j.jclepro.2016.02.139
+   Sahely HR, 2003, CAN J CIVIL ENG, V30, P468, DOI 10.1139/L02-105
+   Schremmer C., 2009, RESTRUCTURING CITIES
+   Schremmer C., 2009, WORLD BANKS 5 URB RE
+   Seto KC, 2010, CURR OPIN SUST, V2, P127, DOI 10.1016/j.cosust.2010.07.003
+   Shen LY, 2011, HABITAT INT, V35, P17, DOI 10.1016/j.habitatint.2010.03.006
+   [沈丽�? Shen Lina], 2015, [资源科学, Resources Science], V37, P1941
+   STANHILL G, 1977, AGRO-ECOSYSTEMS, V3, P269
+   Stimson R. J., 1999, URBAN QUALITY LIFE C
+   Theriault J, 2009, CAN WATER RESOUR J, V34, P255, DOI 10.4296/cwrj3403255
+   Thomson G., 2017, RESOUR CONSERV RECYC
+   Tight M, 2011, J TRANSP GEOGR, V19, P1580, DOI 10.1016/j.jtrangeo.2011.03.011
+   UNCHS (United Nations Centre for Human Settlements), 1996, POS ROL ADV CIT URB
+   United Nations, 2010, STESAPWP215 UN
+   United Nations, 2012, STESAERA322 UN
+   Van Eck NJ, 2007, INT J UNCERTAIN FUZZ, V15, P625, DOI 10.1142/S0218488507004911
+   van Eck NJ, 2010, SCIENTOMETRICS, V84, P523, DOI 10.1007/s11192-009-0146-3
+   Viglia S, 2017, ENERG POLICY, V100, P304, DOI 10.1016/j.enpol.2016.09.058
+   Voskamp IM, 2018, RESOUR CONSERV RECY, V128, P516, DOI 10.1016/j.resconrec.2016.08.026
+   Warren-Rhodes K, 2001, AMBIO, V30, P429, DOI 10.1639/0044-7447(2001)030[0429:ETITUM]2.0.CO;2
+   Wei H, 2015, ENVIRON TECHNOL INNO, V4, P62, DOI 10.1016/j.eti.2015.04.004
+   Wolman A., 1965, SCI AM, P156
+   Wu JG, 2014, LANDSCAPE URBAN PLAN, V125, P209, DOI 10.1016/j.landurbplan.2014.01.018
+   Wu PL, 2012, PROCEDIA ENVIRON SCI, V13, P919, DOI 10.1016/j.proenv.2012.01.085
+   Yan Z, 2014, LANDSCAPE URBAN PLAN, V130, P184, DOI 10.1016/j.landurbplan.2014.05.006
+   Zhang Y, 2015, ENVIRON SCI TECHNOL, V49, P11247, DOI 10.1021/acs.est.5b03060
+   Zhang Y, 2013, ENVIRON POLLUT, V178, P463, DOI 10.1016/j.envpol.2013.03.052
+   Zhang Y, 2009, ECOL MODEL, V220, P1690, DOI 10.1016/j.ecolmodel.2009.04.002
+   Zhao RQ, 2014, RENEW SUST ENERG REV, V33, P589, DOI 10.1016/j.rser.2014.02.020
+   Zucchetto J., 1975, ECOLOGICAL MODELLING, V1, P241
+NR 116
+TC 0
+Z9 0
+SN 1470-160X
+EI 1872-7034
+PD OCT
+PY 2018
+VL 93
+BP 704
+EP 717
+DI 10.1016/j.ecolind.2018.05.056
+UT WOS:000452692600071
+ER
+
+PT J
+AU Kadar, C
+   Pletikosa, I
+AF Kadar, Cristina
+   Pletikosa, Irena
+TI Mining large-scale human mobility data for long-term crime prediction
+SO EPJ DATA SCIENCE
+DE Crime prediction; Urban computing; Spatio-temporal data; Human mobility;
+   Location-based social networks; Applied machine learning
+ID INDEXES; MODEL
+AB Traditional crime prediction models based on census data are limited, as they fail to capture the complexity and dynamics of human activity. With the rise of ubiquitous computing, there is the opportunity to improve such models with data that make for better proxies of human presence in cities. In this paper, we leverage large human mobility data to craft an extensive set of features for crime prediction, as informed by theories in criminology and urban studies. We employ averaging and boosting ensemble techniques from machine learning, to investigate their power in predicting yearly counts for different types of crimes occurring in New York City at census tract level. Our study shows that spatial and spatio-temporal features derived from Foursquare venues and checkins, subway rides, and taxi rides, improve the baseline models relying on census and POI data. The proposed models achieve absolute R-2 metrics of up to 65% (on a geographical out-of-sample test set) and up to 89% (on a temporal out-of-sample test set). This proves that, next to the residential population of an area, the ambient population there is strongly predictive of the area's crime levels. We deep-dive into the main crime categories, and find that the predictive gain of the human dynamics features varies across crime types: such features bring the biggest boost in case of grand larcenies, whereas assaults are already well predicted by the census features. Furthermore, we identify and discuss top predictive features for the main crime categories. These results offer valuable insights for those responsible for urban policy or law enforcement.
+OI Kadar, Cristina/0000-0002-2413-1174
+CR ALVES L. G., 2017, ARXIV171203834
+   Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Anselin L, 2015, J URBAN, V9, P305
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bogomolov A, 2014, ICMI 14
+   Braga A., 2005, J EXPT CRIMINOLOGY, V1, P317, DOI DOI 10.1007/S11292-005-8133-Z
+   Brantingham P. L, 1993, ROUTINE ACTIVITY RAT
+   Brantingham Patricia, 1995, EUROPEAN J CRIMINAL, V3, P5, DOI DOI 10.1007/BF02242925
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Caminha C, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0171609
+   Caruana R., 2006, ICML 06
+   Chen L, 2015, UBICOMP 15
+   Clarke R., 2009, POLICE MANAGEMENT ST, V3, P344
+   COHEN LE, 1979, AM SOCIOL REV, V44, P588, DOI 10.2307/2094589
+   Cranshaw J, 2012, ICWSM 12
+   D'Orsogna MR, 2015, PHYS LIFE REV, V12, P1, DOI 10.1016/j.plrev.2014.11.001
+   Eck J, 2005, TECHNICAL REPORT
+   Friedman JH, 2002, COMPUT STAT DATA AN, V38, P367, DOI 10.1016/S0167-9473(01)00065-2
+   Gerber MS, 2014, DECIS SUPPORT SYST, V61, P115, DOI 10.1016/j.dss.2014.02.003
+   Geurts P, 2006, MACH LEARN, V63, P3, DOI 10.1007/s10994-006-6226-1
+   Graif C, 2009, HOMICIDE STUD, V13, P242, DOI 10.1177/1088767909336728
+   Hastie T., 2009, ELEMENTS STAT LEARNI
+   Hecht B, 2014, ICWSM 14
+   Hindelang MJ, 1982, VICTIMS PERSONAL CRI
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Johnson Bruce, 2000, CRIME DROP AM, P164
+   Kadar C, 2017, SOCINFO 17
+   Kadar C, 2015, WISE 15
+   Karamshuk D, 2013, KDD 13
+   Langan PA, 2003, INT C CRIM
+   Lathia N, 2011, KDD 11
+   Lee BA, 2012, TECHNICAL REPORT
+   Lima A, 2010, TECHNICAL REPORT
+   Lum K, 2016, SIGNIFICANCE, V13, P14, DOI DOI 10.1111/J.1740-9713.2016.00960.X)
+   Miethe T. D., 1994, CRIME ITS SOCIAL CON
+   Mohler GO, 2011, J AM STAT ASSOC, V106, P100, DOI 10.1198/jasa.2011.ap09546
+   Newman O, 1973, EKISTICS, V36, P325
+   Newman Oscar, 1996, CREATING DEFENSIBLE
+   Oliveira M, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183110
+   Osgood DW, 2000, J QUANT CRIMINOL, V16, P21, DOI 10.1023/A:1007521427059
+   Pratt TC, 2005, CRIME JUSTICE, V32, P373, DOI 10.1086/655357
+   Quattrone G, 2015, CSCW 15
+   Sampson RJ, 1997, SCIENCE, V277, P918, DOI 10.1126/science.277.5328.918
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   SHELDON AL, 1969, ECOLOGY, V50, P466, DOI 10.2307/1933900
+   Short MB, 2008, MATH MOD METH APPL S, V18, P1249, DOI 10.1142/S0218202508003029
+   Smith C, 2013, CSCW 13
+   Taylor RB, 2015, J RES CRIME DELINQ, V52, P635, DOI 10.1177/0022427815586062
+   Traunmueller M, 2014, SOCINFO 14
+   Venerandi A, 2015, CSCW 15
+   Venerandi A, 2018, EPJ DATA SCI, V7, DOI 10.1140/epjds/s13688-018-0132-1
+   Wang H, 2016, KDD 16
+   Wang X, 2011, ISI 11
+   Wang XB, 2012, INT ORTHOP, V36, P373, DOI 10.1007/s00264-011-1389-1
+   Wilson J. Q., 1982, ATLANTIC MONTHLY, V127, P29
+   Yang S, 2017, P ACM INT MOB WEAR U, V1, P1
+   Yuan J, 2012, KDD 12
+   Zhang Y, 2016, WWW 16
+   Zheng Y, 2014, ACM T INTEL SYST TEC, V38, P1, DOI DOI 10.1145/2629592
+NR 61
+TC 0
+Z9 0
+SN 2193-1127
+PD JUL 20
+PY 2018
+VL 7
+AR 26
+DI 10.1140/epjds/s13688-018-0150-z
+UT WOS:000440101900001
+ER

@@ -1,0 +1,520 @@
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI The rank-size scaling law and entropy-maximizing principle
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Urban system; Rank-size rule; Zipf's law; Fractals; Fractal dimension;
+   Scaling range; Hierarchy; Entropy-maximizing method
+ID SELF-ORGANIZED CRITICALITY; URBAN-GROWTH PATTERNS; ZIPFS LAW; CITIES;
+   HIERARCHIES; MODELS; RULE; DERIVATIONS; POPULATION
+AB The rank-size regularity known as Zipf's law is one of the scaling laws and is frequently observed in the natural living world and social institutions. Many scientists have tried to derive the rank-size scaling relation through entropy-maximizing methods, but they have not been entirely successful. By introducing a pivotal constraint condition. I present here a set of new derivations based on the self-similar hierarchy of cities. First. I derive a pair of exponent laws by postulating local entropy maximizing. From the two exponential laws follows a general hierarchical scaling law, which implies the general form of Zipf's law. Second. I derive a special hierarchical scaling law with the exponent equal to 1 by postulating global entropy maximizing, and this implies the pure form of Zipf's law. The rank-size scaling law has proven to be one of the special cases of the hierarchical scaling law, and the derivation suggests a certain scaling range with the first or the last data point as an outlier. The entropy maximization of social systems differs from the notion of entropy increase in thermodynamics. For urban systems, entropy maximizing suggests the greatest equilibrium between equity for parts/individuals and efficiency of the whole. (C) 2011 Elsevier B.V. All rights reserved.
+C1 Peking Univ, Dept Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Dept Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [40771061]
+FX This research was sponsored by the National Natural Science Foundation
+   of China (Grant No. 40771061); see
+   https://isis.nsfc.gov.cn/portal/index.asp. The support is gratefully
+   acknowledged. Many thanks to two anonymous reviewers whose interesting
+   comments were helpful in improving the quality of this paper.
+CR ANASTASSIADIS A, 1986, ENVIRON PLANN B, V13, P319, DOI 10.1068/b130319
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   BARROW JD, 1995, ARTFUL UNIVERSE
+   Basu B, 2009, INDIAN J PHYS, V83, P1575, DOI 10.1007/s12648-009-0141-9
+   Batty M, 2006, METH SER, P143
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2010, GEOGR ANAL, V42, P395, DOI 10.1111/j.1538-4632.2010.00800.x
+   Bertsekas D. P., 1999, NONLINEAR PROGRAMMIN
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BUSSIERE R, 1970, ENVIRON PLANN, V2, P295, DOI 10.1068/a020295
+   Cancho RFI, 2003, P NATL ACAD SCI USA, V100, P788, DOI 10.1073/pnas.0335980100
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   Chen YG, 2009, CHAOS SOLITON FRACT, V40, P1766, DOI 10.1016/j.chaos.2007.09.059
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   Chen YG, 2002, PROG NAT SCI, V12, P208
+   Cordoba JC, 2008, J URBAN ECON, V63, P177, DOI 10.1016/j.jue.2007.01.005
+   CURRY L, 1964, ANN ASSOC AM GEOGR, V54, P138, DOI 10.1111/j.1467-8306.1964.tb00479.x
+   Davis K, 1978, SYSTEMS CITIES, P92
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gabaix X, 2009, ANNU REV ECON, V1, P255, DOI 10.1146/annurev.economics.050708.142940
+   Gangopadhyay K, 2009, PHYSICA A, V388, P2682, DOI 10.1016/j.physa.2009.03.019
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Jiang B., 2010, GEOSPATIAL ANAL MODE
+   JIANG B, 2011, INT J GEOGR IN PRESS
+   JOHNSTON RJ, 1994, DICT URBAN GEOGRAPHY
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Mora T, 2010, P NATL ACAD SCI USA, V107, P5405, DOI 10.1073/pnas.1001705107
+   Moura NJ, 2006, PHYSICA A, V367, P441, DOI 10.1016/j.physa.2005.11.038
+   Peng GH, 2010, PHYSICA A, V389, P3804, DOI 10.1016/j.physa.2010.05.004
+   Petersen AM, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/38006
+   Podobnik B, 2010, P NATL ACAD SCI USA, V107, P18325, DOI 10.1073/pnas.1011942107
+   Reza F. M., 1961, INTRO INFORM THEORY
+   ROZENFELD HD, 2011, AM ECON REV, V101, P23
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   RUBENSTEIN JM, 2007, CULTURAL LANDSCAPE I, DOI DOI 10.1073/PNAS.0807435105
+   Saichev A., 2011, THEORY ZIPFS LAW
+   Salingaros NA, 1999, ENVIRON PLANN B, V26, P909, DOI 10.1068/b260909
+   Semboloni F, 2008, EUR PHYS J B, V63, P295, DOI 10.1140/epjb/e2008-00203-1
+   Shao J, 2007, EUR PHYS J B, V56, P157, DOI 10.1140/epjb/e2007-00098-2
+   Shao J, 2011, EPL-EUROPHYS LETT, V94, DOI 10.1209/0295-5075/94/48001
+   SILVIU G, 1977, INFORM THEORY APPL
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   STANLEY MHR, 1995, ECON LETT, V49, P453, DOI 10.1016/0165-1765(95)00696-D
+   STEINDL J, 1968, INT ENCYCL SOC SCI, V14, P295
+   VINING DR, 1977, J URBAN ECON, V4, P15, DOI 10.1016/0094-1190(77)90027-4
+   Wilson A. G., 1971, ENTROPY URBAN REGION
+   Wilson A. G., 2000, COMPLEX SPATIAL SYST
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 54
+TC 21
+Z9 22
+U1 0
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD FEB 1
+PY 2012
+VL 391
+IS 3
+BP 767
+EP 778
+DI 10.1016/j.physa.2011.07.010
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA 858EU
+UT WOS:000297779500036
+DA 2019-03-26
+ER
+
+PT J
+AU Hankey, S
+   Lindsey, G
+   Wang, XZ
+   Borah, J
+   Hoff, K
+   Utecht, B
+   Xu, ZY
+AF Hankey, Steve
+   Lindsey, Greg
+   Wang, Xize
+   Borah, Jason
+   Hoff, Kristopher
+   Utecht, Brad
+   Xu, Zhiyi
+TI Estimating use of non-motorized infrastructure: Models of bicycle and
+   pedestrian traffic in Minneapolis, MN
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE Active travel; Environmental planning; Urban trail; Greenway
+ID BUILT ENVIRONMENT; PHYSICAL-ACTIVITY; TIME; MORTALITY; HEALTH; RISK
+AB Traffic counts and models for describing use of non-motorized facilities such as sidewalks, trails, and bike lanes are generally unavailable. Because officials lack the data and tools needed to estimate use of facilities, their ability to make evidence-based choices among investment alternatives is limited. This paper (1) summarizes counts of cyclists and pedestrians between 2007 and 2010 at 259 locations in the city of Minneapolis, MN, (2) develops scaling factors for estimating 12-h (6:30 am-6:30 pm) "daily" counts from hourly counts, (3) presents models for estimating non-motorized traffic using ordinary least squares and negative binomial regressions, (4) validates each model using bicycle and pedestrian counts for 85 locations, and (5) estimates non-motorized traffic for every street in Minneapolis, MN. Across all locations, mean pedestrian traffic (51/h) exceeded mean bicycle traffic (38/h) by 35%. One-hour counts were highly correlated with 12-h "daily" counts suggesting that planners may focus on short time scales without compromising data quality. Significant correlates of non-motorized traffic vary by mode and model and include weather (temperature, precipitation), neighborhood socio-demographics (household income, education), built environment characteristics (land use mix), and street (or bicycle facility) type. When controlling for these factors, bicycle traffic increased over time and was higher on streets with bicycle facilities than without (and highest on off-street facilities). Our models can be used by policy-makers to estimate non-motorized traffic for streets where counts are unavailable or to estimate changes in non-motorized traffic associated with other changes in the built environment (e.g., adding bicycle lanes or changing land use). (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Hankey, Steve; Lindsey, Greg; Wang, Xize; Borah, Jason; Hoff, Kristopher; Utecht, Brad; Xu, Zhiyi] Univ Minnesota, Humphrey Sch Publ Affairs, Minneapolis, MN 55455 USA.
+   [Hankey, Steve; Hoff, Kristopher] Univ Minnesota, Dept Civil Engn, Minneapolis, MN 55455 USA.
+RP Hankey, S (reprint author), 500 Pillsbury Dr SE, Minneapolis, MN 55455 USA.
+EM hank0126@umn.edu; linds301@umn.edu; wang2384@umn.edu; borah003@umn.edu;
+   hoff0507@umn.edu; utec0025@umn.edu; xuxxx395@umn.edu
+RI Hankey, Steve/M-1719-2013
+OI Wang, Xize/0000-0002-4861-6002
+CR Adams J, 2010, PREV MED, V50, P199, DOI 10.1016/j.ypmed.2010.01.006
+   Andersen LB, 2000, ARCH INTERN MED, V160, P1621, DOI 10.1001/archinte.160.11.1621
+   Aultman-Hall L, 2009, TRANSPORT RES REC, P35, DOI 10.3141/2140-0
+   Behnam J, 1977, TRANSPORT RES REC, V629, P22
+   Borah J., 2010, NONMOTORIZED TRANSPO
+   BTS (Bureau of Transportation Statistics), 2000, BTS PUBL
+   CAMERON AC, 1986, J APPLIED ECONOMETRI, V1, P29, DOI DOI 10.1002/JAE.3950010104
+   Cao XY, 2006, TRANSPORTATION, V33, P1, DOI 10.1007/s11116-005-7027-2
+   City of Minneapolis, 2010, CRIM STAT REP
+   City of Minneapolis Department of Public Works, ROAD BIC FAC TYP
+   de Nazelle A, 2009, TRANSPORT RES D-TR E, V14, P255, DOI 10.1016/j.trd.2009.02.002
+   Dill J, 2009, J PUBLIC HEALTH POL, V30, pS95, DOI 10.1057/jphp.2008.56
+   DPW (Department of Public Works), 2011, NONM TRAFF COUNTS OP
+   Fan Y, 2012, J TRANSPORT LAND USE, V5
+   Frank LD, 2004, AM J PREV MED, V27, P87, DOI 10.1016/j.amepre.2004.04.011
+   Guo JY, 2007, TRANSPORT RES REC, V2010, P1, DOI DOI 10.3141/2010-01
+   Hamer M, 2008, PREV MED, V46, P9, DOI 10.1016/j.ypmed.2007.03.006
+   Handy S. L., 2009, REGIONAL RESPONSE FE
+   Hankey S, 2012, ENVIRON HEALTH PERSP, V120, P247, DOI 10.1289/ehp.1103806
+   Haynes M., 2010, GIS BASED BICYCLE PE
+   Hood J., 2011, TRANSPORTATION LETT, V3
+   Hunter W., 1995, TRANSPORT RES REC, V1502, P45
+   Iacono M, 2010, J TRANSP GEOGR, V18, P133, DOI 10.1016/j.jtrangeo.2009.02.002
+   Jones M., 2009, NATL BICYCLE PEDESTR
+   Jones M. G., 2010, 6117 UC BERK SAF TRA
+   Kim N., 2011, J ADV TRANSPORTATION
+   Krizek KJ, 2009, J URBAN PLAN D-ASCE, V135, P66, DOI 10.1061/(ASCE)0733-9488(2009)135:2(66)
+   Lindsey G., 2006, J PHYS ACT HEALTH, V1, pS134
+   Lindsey G., 2008, J URBAN DESIGN, V13, P107
+   Lindsey G, 2007, LANDSCAPE URBAN PLAN, V81, P299, DOI 10.1016/j.landurbplan.2007.01.004
+   Long J. Scott, 1997, ADV QUANTITATIVE TEC
+   Long J. Scott, 2005, REGRESSION MODELS CA
+   Metropolitan Council, 2005, LAND US DAT MAPS
+   MetroTransit, 2010, BUS ROUT SCHED
+   Minnesota Climatology Working Group, 2010, HIST TEMP PREC DAT
+   Panis LI, 2010, ATMOS ENVIRON, V44, P2263, DOI 10.1016/j.atmosenv.2010.04.028
+   Porter C., 1999, TRANSPORT RES REC, V1674, P4
+   Pucher J., 2009, PREV MED, V50, pS106
+   Pushkarev B., 1971, HIGHWAY RES REC, V377, P37
+   Reynolds KD, 2007, AM J HEALTH PROMOT, V21, P335, DOI 10.4278/0890-1171-21.4s.335
+   *US BUR CENS, 2000, AM FACTFINDER
+   US DOT, 1999, US DOT PUBL
+   US DOT, 2010, POL STAT BIC PED ACC
+   Zheng H, 2009, EUR J EPIDEMIOL, V24, P181, DOI 10.1007/s10654-009-9328-9
+NR 44
+TC 34
+Z9 34
+U1 3
+U2 88
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD SEP 15
+PY 2012
+VL 107
+IS 3
+BP 307
+EP 316
+DI 10.1016/j.landurbplan.2012.06.005
+PG 10
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA 992TA
+UT WOS:000307801400012
+DA 2019-03-26
+ER
+
+PT J
+AU Plass, JL
+   Milne, C
+   Homer, BD
+   Schwartz, RN
+   Hayward, EO
+   Jordan, T
+   Verkuilen, J
+   Ng, F
+   Wang, Y
+   Barrientos, J
+AF Plass, Jan L.
+   Milne, Catherine
+   Homer, Bruce D.
+   Schwartz, Ruth N.
+   Hayward, Elizabeth O.
+   Jordan, Trace
+   Verkuilen, Jay
+   Ng, Florrie
+   Wang, Yan
+   Barrientos, Juan
+TI Investigating the effectiveness of computer simulations for chemistry
+   learning
+SO JOURNAL OF RESEARCH IN SCIENCE TEACHING
+LA English
+DT Article
+DE multimedia simulations; scaling up; fidelity of implementation;
+   chemistry; cluster analysis
+ID SCIENCE INSTRUCTION; FIDELITY; IMPLEMENTATION; INNOVATIONS;
+   CONSTRUCTION; VALIDATION; STUDENTS; SCHOOLS; URBAN
+AB Are well-designed computer simulations an effective tool to support student understanding of complex concepts in chemistry when integrated into high school science classrooms? We investigated scaling up the use of a sequence of simulations of kinetic molecular theory and associated topics of diffusion, gas laws, and phase change, which we designed and experimentally tested. In the two effectiveness studies reported, one in a rural and the other in an urban context, chemistry teachers implemented two alternate versions of a curricular unitan experimental version, incorporating simulations, and a control version, using text-based materials covering the same content. Participants were 718 high school students (357 rural and 361 urban), in a total of 25 classrooms. The implementation of the simulations was explored using criteria associated with fidelity of implementation (FOI). Each context provided insights into the role of FOI in affecting the effectiveness of the interventions when working with groups of teachers. Results supported the effectiveness of this sequence of simulations as a teaching tool in a classroom context, and confirmed the importance of FOI factors such as adherence and exposure in determining the specific environments in which these materials were most effective. (c) 2012 Wiley Periodicals, Inc. J Res Sci Teach 49: 394419, 2012
+C1 [Plass, Jan L.; Milne, Catherine; Schwartz, Ruth N.; Hayward, Elizabeth O.; Jordan, Trace; Ng, Florrie; Wang, Yan; Barrientos, Juan] NYU, New York, NY 10003 USA.
+   [Homer, Bruce D.; Verkuilen, Jay] CUNY, Grad Ctr, New York, NY 10016 USA.
+RP Milne, C (reprint author), NYU, 82 Washington Sq E, New York, NY 10003 USA.
+EM cem4@nyu.edu
+RI Homer, Bruce/I-9487-2012
+OI Homer, Bruce/0000-0002-1832-6784; Plass, Jan L./0000-0001-5161-6989
+CR Alerby E., 2003, REFLECTIVE PRACTICE, V4, P41, DOI DOI 10.1080/1462394032000053503
+   Ardac D, 2004, J RES SCI TEACH, V41, P317, DOI 10.1002/tea.20005
+   Blumenfeld P, 2000, EDUC PSYCHOL, V35, P149, DOI 10.1207/S15326985EP3503_2
+   Board on Science Education, 2011, FRAM K 12 SCI ED PRA
+   Brady A. G., 2011, NE REG ASS SCI TEACH
+   Brown M., 2003, LETUS REPORT SERIES
+   BRUNER J, 1991, CRIT INQUIRY, V18, P1, DOI 10.1086/448619
+   Carrigg F., 2005, SCALING SUCCESS LESS, P1
+   Carskadon MA, 1999, PHI DELTA KAPPAN, V80, P348
+   Cazden C., 2001, CLASSROOM DISCOURSE
+   Chang Y. K., 2011, BEHAV MEASURE UNPUB
+   Cognition and Technology Group at Vanderbilt (CTGV), 1992, ED TECHNOLOGY RES DE, V40, P65
+   Cortazzi M., 1993, NARRATIVE ANAL
+   de Jong T, 1998, REV EDUC RES, V68, P179, DOI 10.2307/1170753
+   Dede C., 2004, 2004 INT C LEARN SCI
+   Dede C, 2006, CAMB HANDB PSYCHOL, P551
+   Domagk S, 2010, COMPUT HUM BEHAV, V26, P1024, DOI 10.1016/j.chb.2010.03.003
+   Fishman B., 2005, SCALING SUCCESS LESS, P48
+   Fishman B. J., 2001, Journal of Educational Computing Research, V25, P63
+   FLAY BR, 1986, PREV MED, V15, P451, DOI 10.1016/0091-7435(86)90024-1
+   Fogleman J, 2011, J RES SCI TEACH, V48, P149, DOI 10.1002/tea.20399
+   Gabel D, 1999, J CHEM EDUC, V76, P548, DOI 10.1021/ed076p548
+   Glenn J., 2000, ITS TOO LATE REPORT
+   Graham JW, 2009, ANNU REV PSYCHOL, V60, P549, DOI 10.1146/annurev.psych.58.110405.085530
+   Hennessy S, 2006, INT J SCI EDUC, V28, P701, DOI 10.1080/09500690500404656
+   Herman David, 2003, NARRATIVE THEORY COG, p[163, 271]
+   Honaker J., 2007, AMELIA 2 PROGRAM MIS
+   Honey M, 2011, LEARNING SCI COMPUTE
+   Inquirium, 2005, INQSCR SIMPL TRANSCR
+   Institute of Education Sciences, 2011, REQ APPL ED RES GRAN
+   JOHNSTONE A. H., 1982, SCH SCI REV, V64, P377
+   Kim MC, 2011, COMPUT EDUC, V56, P403, DOI 10.1016/j.compedu.2010.08.024
+   KOZMA R, 2005, MODEL MODEL SCI EDUC, P121
+   Kozma R. B., 2000, INNOVATIONS SCI MATH, P11
+   Krajcik J. S., 1991, PSYCHOL LEARNING SCI, P117
+   Latour B., 1987, SCI ACTION FOLLOW SC
+   Lee O, 2005, AM EDUC RES J, V42, P411, DOI 10.3102/00028312042003411
+   Lee O, 2009, J RES SCI TEACH, V46, P836, DOI 10.1002/tea.20335
+   Lemke JL, 1990, TALKING SCI LANGUAGE
+   Lindgren R, 2009, INT J SCI EDUC, V31, P419, DOI 10.1080/09500690802595813
+   Lynch S., 2005, S FID IMPL ANN M AER
+   MCKENZIE DL, 1986, J RES SCI TEACH, V23, P571, DOI 10.1002/tea.3660230702
+   Means B., 2005, SCALING SUCCESS LESS, P176
+   Mills SC, 2000, ETR&D-EDUC TECH RES, V48, P21, DOI 10.1007/BF02300498
+   Milne C., 2010, AM ED RES ASS ANN M
+   Mowbray CT, 2003, AM J EVAL, V24, P315, DOI 10.1177/109821400302400303
+   Nagin D. S., 1999, PSYCHOL METHODS, V4, P1181
+   National Research Council, 1996, NAT SCI ED STAND OBS
+   New York City Department of Education, 2011, ATT
+   O'Donnell CL, 2008, REV EDUC RES, V78, P33, DOI 10.3102/0034654307313793
+   Olitsky S., 2012, 2 INT HDB SCI ED
+   Plass Jan L, 2009, Journal of Computing in Higher Education, V21, P31, DOI 10.1007/s12528-009-9011-x
+   Plass JL, 2009, INT J GAMING COMPUT-, V1, P16, DOI 10.4018/jgcms.2009010102
+   Raudenbush SW, 2002, HIERARCHICAL LINEAR
+   Roth WM, 2005, SCI TECHNOL EDUC LIB, V26, P1
+   Scerri E. R, 2006, PHILOS CHEM SYNTEHSI, P119
+   Seidman I., 2005, INTERVIEWING QUALITA
+   Smetana LK, 2012, INT J SCI EDUC, V34, P1337, DOI 10.1080/09500693.2011.605182
+   Songer N. B., 2005, FIDELITY IMPLEMENTAT
+   Songer NB, 2003, SCI EDUC, V87, P490, DOI 10.1002/sce.10085
+   StataCorp, 2007, STAT STAT SOFTW REL
+   Taylor N., 2002, CHEM EDUC RES PRACT, V3, P293
+   Theobald P, 2005, PHI DELTA KAPPAN, V87, P116, DOI 10.1177/003172170508700207
+   Thompson M., 2008, TIGHT LOOSE SCALING, P1
+NR 64
+TC 41
+Z9 42
+U1 0
+U2 50
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-4308
+J9 J RES SCI TEACH
+JI J. Res. Sci. Teach.
+PD MAR
+PY 2012
+VL 49
+IS 3
+BP 394
+EP 419
+DI 10.1002/tea.21008
+PG 26
+WC Education & Educational Research
+SC Education & Educational Research
+GA 885YL
+UT WOS:000299817300006
+DA 2019-03-26
+ER
+
+PT J
+AU Groom, B
+   Palmer, C
+AF Groom, Ben
+   Palmer, Charles
+TI REDD+ and rural livelihoods
+SO BIOLOGICAL CONSERVATION
+LA English
+DT Article
+DE Constraints; Livelihoods; PES; Poverty; REDD
+ID LAND CONVERSION PROGRAM; ENVIRONMENTAL SERVICES; DEVELOPING-COUNTRIES;
+   URBAN MIGRATION; CHINA; PAYMENTS; CONSERVATION; ISSUES; DEFORESTATION;
+   BIODIVERSITY
+AB Focusing on incentive schemes that induce participation in land-use activities to supply environmental services, this paper examines the potential impacts of REDD+ on livelihoods, in particular with respect to incomes and poverty alleviation. Two case studies, each at a different scale, are presented. First, the N'hambita Community Carbon Project in Mozambique, a REDD+ project, promoted agro-forestry and reforestation activities along with alternative livelihoods. Second, the Sloping Lands Conversion Programme (SLCP) in China is a national-level reforestation scheme to supply watershed services. Impacts on the poor are addressed through the 'lens' of a rural household allocating its labour supply to different income sources. Four aspects of REDD+ policy are discussed: the incentives necessary for ensuring the cost-effective, long-run sustainability of both carbon sinks and incomes; the implications for forest conservation, in particular biodiversity; the need for scaling up carbon sequestration activities in order to minimise carbon leakage; and, the possibilities to maximise the participation of the poor and alleviate poverty. Finally, the paper highlights the importance of using appropriate methodologies for correct evaluation of policy impacts on incomes. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Palmer, Charles] Univ London London Sch Econ & Polit Sci, Dept Geog & Environm, London WC2A 2AE, England.
+   [Groom, Ben] Univ London Sch Oriental & African Studies, Dept Econ, London WC1H 0XG, England.
+RP Palmer, C (reprint author), Univ London London Sch Econ & Polit Sci, Dept Geog & Environm, Houghton St, London WC2A 2AE, England.
+EM bg3@soas.ac.uk; c.palmer1@lse.ac.uk
+CR Abadie A, 2005, REV ECON STUD, V72, P1, DOI 10.1111/0034-6527.00321
+   Angelsen A., 2009, REALISING REDD NATL, P125
+   Angelsen A, 2010, P NATL ACAD SCI USA, V107, P19639, DOI 10.1073/pnas.0912014107
+   Athey S, 2006, ECONOMETRICA, V74, P431, DOI 10.1111/j.1468-0262.2006.00668.x
+   Bennett M.T., 2011, CHINA EC REV
+   Bennett MT, 2008, ECOL ECON, V65, P699, DOI 10.1016/j.ecolecon.2007.09.017
+   BLUFFSTONE RA, 1995, J ENVIRON ECON MANAG, V29, P42, DOI 10.1006/jeem.1995.1030
+   Brown D., 2009, REALISING REDD NATL, P107
+   Bulte E., 2007, EC DEV ENV SUSTAINAB
+   Bulte EH, 2008, ENVIRON DEV ECON, V13, P245, DOI 10.1017/S1355770X08004348
+   CCICED, 2002, EXPERIENCES LESSONS, P72
+   Chomitz K, 2006, LOGGERHEADS AGR EXPA
+   Conference of the Parties, 2011, C PART ITS 16 SESS H, P1
+   de Janvry A., 2005, POVERTY INEQUALITY D
+   Eliasch J., 2008, CLIMATE CHANGE FINAN
+   Ellis F, 1998, J DEV STUD, V35, P1, DOI 10.1080/00220389808422553
+   Engel S, 2008, ECOL ECON, V65, P663, DOI 10.1016/j.ecolecon.2008.03.011
+   Fearnside PM, 2001, ECOL ECON, V39, P167, DOI 10.1016/S0921-8009(01)00225-7
+   Ferraro PJ, 2002, SCIENCE, V298, P1718, DOI 10.1126/science.1078104
+   Gardner T.A., BIOL CONS IN PRESS
+   Groom B., 2012, ENV EC POLICY RES DI, V2011
+   Groom B, 2010, OXFORD ECON PAP, V62, P132, DOI 10.1093/oep/gpp021
+   Henders S., 2010, FOCALI COUNTRY BRIEF
+   Jindal R., 2008, LIVELIHOOD IMPACTS P
+   Jindal R, 2010, PAYMENTS FOR ENVIRONMENTAL SERVICES, FOREST CONSERVATION AND CLIMATE CHANGE: LIVELIHOODS IN THE REDD, P185
+   Jose S, 2009, AGROFOREST SYST, V76, P1, DOI 10.1007/s10457-009-9229-7
+   Kosuke I., 2004, MATCHING NONPARAMETR
+   Mullan K, 2011, WORLD DEV, V39, P123, DOI 10.1016/j.worlddev.2010.08.009
+   Pagiola S, 2005, WORLD DEV, V33, P237, DOI 10.1016/j.worlddev.2004.07.011
+   Palmer C, 2009, ROUTL EXPLOR ENVIRON, P1
+   Palmer C, 2012, LAND USE POLICY, V29, P83, DOI 10.1016/j.landusepol.2011.05.007
+   Palmer C, 2011, ECOL ECON, V70, P571, DOI 10.1016/j.ecolecon.2010.10.011
+   Pattanayak SK, 2010, REV ENV ECON POLICY, V4, P254, DOI 10.1093/reep/req006
+   Phelps J, 2010, SCIENCE, V328, P312, DOI 10.1126/science.1187774
+   Robson JP, 2011, GLOBAL ENVIRON CHANG, V21, P844, DOI 10.1016/j.gloenvcha.2011.04.009
+   Salafsky N, 2000, WORLD DEV, V28, P1421, DOI 10.1016/S0305-750X(00)00031-0
+   Schelhaas MJ, 2004, 1068 ALT
+   Shively GE, 2004, ENVIRON DEV ECON, V9, P241, DOI 10.1017/S1355770X03001177
+   Sills E., 2009, REALISING REDD NATL, P265
+   Springate-Baginski O, 2010, REDD FOREST GOVERNAN
+   Stern N, 2008, AM ECON REV, V98, P1, DOI 10.1257/aer.98.2.1
+   Tacconi L, 2010, PAYMENTS FOR ENVIRONMENTAL SERVICES, FOREST CONSERVATION AND CLIMATE CHANGE: LIVELIHOODS IN THE REDD, P1
+   Thomas S, 2010, LAND USE POLICY, V27, P880, DOI 10.1016/j.landusepol.2009.12.002
+   Trac CJ, 2007, J MT SCI-ENGL, V4, P275, DOI 10.1007/S11629-007-0275-1
+   Uchida E, 2009, AM J AGR ECON, V91, P70, DOI 10.1111/j.1467-8276.2008.01184.x
+   Uchida E, 2007, ENVIRON DEV ECON, V12, P593, DOI 10.1017/S1355770X07003713
+   University of Edinburgh, 2007, MIOMB COMM LAND US C
+   University of Edinburgh, 2008, MIOMB COMM LAND US C
+   Wertz-Kanounnikoff S., 2009, REALISING REDD NATL, P13
+   Weyerhaeuser H, 2005, AGR SYST, V85, P234, DOI 10.1016/j.agsy.2005.06.008
+   World Resources Institute, 2005, WORLD RES 2005 WEALT
+   Wunder S, 2005, 42 CIFOR
+   Wunder S, 2008, ECOL ECON, V65, P834, DOI 10.1016/j.ecolecon.2008.03.010
+   Xu J., 2002, INT ECON REV, V3, P56
+   Xu ZG, 2004, INT FOREST REV, V6, P317, DOI 10.1505/ifor.6.3.317.59976
+NR 55
+TC 37
+Z9 38
+U1 2
+U2 91
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0006-3207
+J9 BIOL CONSERV
+JI Biol. Conserv.
+PD OCT
+PY 2012
+VL 154
+SI SI
+BP 42
+EP 52
+DI 10.1016/j.biocon.2012.03.002
+PG 11
+WC Biodiversity Conservation; Ecology; Environmental Sciences
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA 013NK
+UT WOS:000309311900005
+DA 2019-03-26
+ER
+
+PT J
+AU Brown, C
+   Ghile, Y
+   Laverty, M
+   Li, K
+AF Brown, Casey
+   Ghile, Yonas
+   Laverty, Mikaela
+   Li, Ke
+TI Decision scaling: Linking bottom-up vulnerability analysis with climate
+   projections in the water sector
+SO WATER RESOURCES RESEARCH
+LA English
+DT Article
+ID CHANGE IMPACTS; MULTIMODEL ENSEMBLE; RIVER-BASIN; UNCERTAINTY; RISK;
+   RELIABILITY; ASSESSMENTS; ADAPTATION; MANAGEMENT; RESOURCES
+AB There are few methodologies for the use of climate change projections in decision making or risk assessment processes. In this paper we present an approach for climate risk assessment that links bottom-up vulnerability assessment with multiple sources of climate information. The three step process begins with modeling of the decision and identification of thresholds. Through stochastic analysis and the creation of a climate response function, climate states associated with risk are specified. Climate information such as available from multi-GCM, multirun ensembles, is tailored to estimate probabilities associated with these climate states. The process is designed to maximize the utility of climate information in the decision process and to allow the use of many climate projections to produce best estimates of future climate risks. It couples the benefits of stochastic assessment of risks with the potential insight from climate projections. The method is an attempt to make the best use of uncertain but potentially useful climate information. An example application to an urban water supply system is presented to illustrate the process.
+C1 [Brown, Casey; Ghile, Yonas; Laverty, Mikaela; Li, Ke] Univ Massachusetts, Dept Civil & Environm Engn, Amherst, MA 01003 USA.
+RP Brown, C (reprint author), Univ Massachusetts, Dept Civil & Environm Engn, 12B Marston Hall,130 Nat Resources Rd, Amherst, MA 01003 USA.
+EM cbrown@ecs.umass.edu
+CR Brekke LD, 2008, CLIMATIC CHANGE, V89, P371, DOI 10.1007/s10584-007-9388-3
+   Brekke LD, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR006941
+   Brown C., 2004, ADAPTIVE MANAGEMENT
+   Brown C., 2011, TREATISE WATER SCI, P189
+   Brown C., 2011, DECISION SCALING ROB
+   Brown C, 2011, J AM WATER RESOUR AS, V47, P524, DOI 10.1111/j.1752-1688.2011.00552.x
+   Christensen NS, 2007, HYDROL EARTH SYST SC, V11, P1417, DOI 10.5194/hess-11-1417-2007
+   Dessai S, 2009, ADAPTING TO CLIMATE CHANGE: THRESHOLDS, VALUES, GOVERNANCE, P64
+   Duffy Phillip B., 2007, EOS T AM GEOPHYS UN, V88, P504, DOI DOI 10.1029/2007E0470006
+   Fisher SM, 1995, INTEGRATED WATER RESOURCES PLANNING FOR THE 21ST CENTURY, P1001
+   Gleckler PJ, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD008972
+   Groves DG, 2007, GLOBAL ENVIRON CHANG, V17, P73, DOI 10.1016/j.gloenvcha.2006.11.006
+   Groves DG, 2008, WATER RESOUR RES, V44, DOI 10.1029/2008WR006964
+   Hallegatte S, 2009, GLOBAL ENVIRON CHANG, V19, P240, DOI 10.1016/j.gloenvcha.2008.12.003
+   HASHIMOTO T, 1982, WATER RESOUR RES, V18, P14, DOI 10.1029/WR018i001p00014
+   Hidalgo H.G., 2008, CEC5002007123 PIER E
+   Hobbs BJ, 1997, CLIMATIC CHANGE, V37, P177, DOI 10.1023/A:1005376622183
+   Johnson T, 2009, ENVIRON MANAGE, V43, P118, DOI 10.1007/s00267-008-9205-4
+   Jones RN, 2001, NAT HAZARDS, V23, P197, DOI 10.1023/A:1011148019213
+   Kundzewicz Z.W., 2007, FRESHWATER RESOURCES, P173
+   Lempert R, 2004, CLIMATIC CHANGE, V65, P1, DOI 10.1023/B:CLIM.0000037561.75281.b3
+   Lempert RJ, 2006, MANAGE SCI, V52, P514, DOI 10.1287/mnsc.1050.0472
+   Lopez A, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR007499
+   Manning LJ, 2009, WATER RESOUR RES, V45, DOI 10.1029/2007WR006674
+   Mastrandrea MD, 2010, CLIMATIC CHANGE, V100, P87, DOI 10.1007/s10584-010-9827-4
+   Mearns LO, 2010, CLIMATIC CHANGE, V100, P77, DOI 10.1007/s10584-010-9841-6
+   Prudhomme C, 2010, J HYDROL, V390, P198, DOI 10.1016/j.jhydrol.2010.06.043
+   Raiffa H, 1961, APPL STAT DECISION T, P356
+   Raisanen J, 2001, J CLIMATE, V14, P3212, DOI 10.1175/1520-0442(2001)014<3212:APADMA>2.0.CO;2
+   Rajagopalan B, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR007652
+   Romsdahl RJ, 2009, CLIMATIC CHANGE, V95, P1, DOI 10.1007/s10584-008-9538-2
+   Shao T., 2008, J MECH DESIGN, V130, P1
+   Stainforth DA, 2004, ADV INFO KNOW PROC, P101
+   Stainforth DA, 2007, PHILOS T R SOC A, V365, P2163, DOI 10.1098/rsta.2007.2073
+   Tebaldi C, 2005, J CLIMATE, V18, P1524, DOI 10.1175/JCLI3363.1
+   U.S. Bureau of Reclamation, 2009, ORAL HLTH STATUS ORA
+   Vano JA, 2010, CLIMATIC CHANGE, V102, P287, DOI 10.1007/s10584-010-9856-z
+   Vicuna S, 2010, WATER RESOUR RES, V46, DOI 10.1029/2009WR007838
+   Vogel R M, 2001, RISK RELIABILITY UNC, P101
+   VOGEL RM, 1995, WATER RESOUR RES, V31, P645, DOI 10.1029/94WR02972
+   Vogel RM, 1999, J IRRIG DRAIN ENG, V125, P148, DOI 10.1061/(ASCE)0733-9437(1999)125:3(148)
+   Wilby RL, 2010, WEATHER, V65, P180, DOI 10.1002/wea.543
+   Wiley MW, 2008, J WATER RES PLAN MAN, V134, P239, DOI 10.1061/(ASCE)0733-9496(2008)134:3(239)
+   Wood AW, 2004, CLIMATIC CHANGE, V62, P189, DOI 10.1023/B:CLIM.0000013685.99609.9e
+NR 44
+TC 117
+Z9 118
+U1 1
+U2 79
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0043-1397
+J9 WATER RESOUR RES
+JI Water Resour. Res.
+PD SEP 21
+PY 2012
+VL 48
+AR W09537
+DI 10.1029/2011WR011212
+PG 12
+WC Environmental Sciences; Limnology; Water Resources
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology; Water
+   Resources
+GA 011BK
+UT WOS:000309138100002
+OA Bronze
+DA 2019-03-26
+ER

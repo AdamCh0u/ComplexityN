@@ -1,0 +1,615 @@
+
+PT J
+AU Smith, JA
+   Villarini, G
+   Baeck, ML
+AF Smith, James A.
+   Villarini, Gabriele
+   Baeck, Mary Lynn
+TI Mixture Distributions and the Hydroclimatology of Extreme Rainfall and
+   Flooding in the Eastern United States
+SO JOURNAL OF HYDROMETEOROLOGY
+LA English
+DT Article
+ID NORTH-ATLANTIC OSCILLATION; EXTRATROPICAL TRANSITION; CENTRAL
+   APPALACHIANS; HURRICANE ACTIVITY; TROPICAL CYCLONES; SCALING EXPONENTS;
+   SIZE DISTRIBUTION; FLOYD 1999; PRECIPITATION; VARIABILITY
+AB Flooding in the eastern United States reflects a mixture of flood-generating mechanisms, with landfalling tropical cyclones and extratropical systems playing central roles. The authors examine the climatology of heavy rainfall and flood magnitudes for the eastern United States through analyses of long-duration records of flood peaks and maximum daily rainfall series. Spatial heterogeneities in flood peak distributions due to orographic precipitation mechanisms in mountainous terrain, coastal circulations near land-ocean boundaries, and urbanization impacts on regional climate are central elements of flood peak distributions. Lagrangian analyses of rainfall distribution and storm evolution are presented for flood events in the eastern United States and used to motivate new directions for stochastic modeling of rainfall. Tropical cyclones are an important element of the upper tail of flood peak distributions throughout the eastern United States, but their relative importance varies widely, and abruptly, in space over the region. Nonstationarities and long-term persistence of flood peak and rainfall distributions are examined from the perspective of the impacts of human-induced climate change on flood-generating mechanisms. Analyses of flood frequency for the eastern United States, which are based on observations from a dense network of U. S. Geological Survey (USGS) stream gauging stations, provide insights into emerging problems in flood science.
+C1 [Smith, James A.; Villarini, Gabriele; Baeck, Mary Lynn] Princeton Univ, Dept Civil & Environm Engn, Princeton, NJ 08540 USA.
+RP Smith, JA (reprint author), Princeton Univ, Dept Civil & Environm Engn, Princeton, NJ 08540 USA.
+EM jsmith@princeton.edu
+RI Villarini, Gabriele/F-8069-2016
+OI Villarini, Gabriele/0000-0001-9566-2370
+FU Willis Research Network; NOAA Cooperative Institute for Climate
+   Sciences; NASA; National Science Foundation [BES-0607036, EF-0709538,
+   ITR-0427325]
+FX This research was funded by the Willis Research Network, the NOAA
+   Cooperative Institute for Climate Sciences, NASA, and the National
+   Science Foundation (Grants BES-0607036, EF-0709538, and ITR-0427325).
+   NEXRAD rainfall data provided by NCAR/EOL under sponsorship of the
+   National Science Foundation (available online at
+   http://data.eol.ucar.edu/).
+CR Atallah EH, 2003, MON WEATHER REV, V131, P1063, DOI 10.1175/1520-0493(2003)131<1063:TETAPD>2.0.CO;2
+   Baldwin M. E., 1998, 2 S INT OBS SYST PHO, P10
+   Barros AP, 1998, MON WEATHER REV, V126, P2648, DOI 10.1175/1520-0493(1998)126<2648:OEDASW>2.0.CO;2
+   BLANCHARD SF, 2007, RECENT IMPROVEMENTS
+   BRILLINGER DR, 1975, ANN PROBAB, V3, P909, DOI 10.1214/aop/1176996218
+   CHANGNON SA, 1995, J WATER RES PL-ASCE, V121, P326, DOI 10.1061/(ASCE)0733-9496(1995)121:4(326)
+   Chapon B, 2008, ATMOS RES, V87, P52, DOI 10.1016/j.atmosres.2007.07.003
+   Colle BA, 2003, MON WEATHER REV, V131, P2905, DOI 10.1175/1520-0493(2003)131<2905:NSOTET>2.0.CO;2
+   DAVISON AC, 1990, J ROY STAT SOC B MET, V52, P393
+   EFRON B, 1993, INTRO BOOT STRAP MON, V57
+   Emanuel K, 2008, B AM METEOROL SOC, V89, P347, DOI 10.1175/BAMS-89-3-347
+   Enfield DB, 2001, GEOPHYS RES LETT, V28, P2077, DOI 10.1029/2000GL012745
+   FOUFOULAGEORGIO.E, 1997, STOCHASTIC METHODS H, P25
+   Georgakakos KP, 1996, J GEOPHYS RES-ATMOS, V101, P26165, DOI 10.1029/96JD01613
+   Groisman PY, 2004, J HYDROMETEOROL, V5, P64, DOI 10.1175/1525-7541(2004)005<0064:CCOTHC>2.0.CO;2
+   Gupta VK, 1996, J HYDROL, V187, P81, DOI 10.1016/S0022-1694(96)03088-0
+   GUPTA VK, 1995, HYDROL PROCESS, V9, P347, DOI 10.1002/hyp.3360090309
+   GUPTA VK, 1994, WATER RESOUR RES, V30, P3405, DOI 10.1029/94WR01791
+   Hart RE, 2001, J CLIMATE, V14, P546, DOI 10.1175/1520-0442(2001)014<0546:ACOTET>2.0.CO;2
+   Helsel DR, 1993, STAT METHODS WATER R
+   Hirschboeck K. K., 1987, HYDROLOGIC FREQUENCY, P199, DOI DOI 10.1007/978-94-009-3953-0_13
+   Hirschboeck K. K., 1988, FLOOD GEOMORPHOLOGY, P27
+   Holland GJ, 2007, PHILOS T R SOC A, V365, P2695, DOI 10.1098/rsta.2007.2083
+   Hosking J. R. M., 1997, REGIONAL FREQUENCY A
+   Huffman GJ, 2007, J HYDROMETEOROL, V8, P38, DOI 10.1175/JHM560.1
+   HURRELL JW, 1995, SCIENCE, V269, P676, DOI 10.1126/science.269.5224.676
+   Hurrell JW, 1997, CLIMATIC CHANGE, V36, P301, DOI 10.1023/A:1005314315270
+   JARVINEN BR, 1984, 22 NOAA TECH MEM NWS, V22
+   Juckem PF, 2008, J HYDROL, V355, P123, DOI 10.1016/j.jhydrol.2008.03.010
+   Kistler R, 2001, B AM METEOROL SOC, V82, P247, DOI 10.1175/1520-0477(2001)082<0247:TNNYRM>2.3.CO;2
+   Knutson TR, 2007, B AM METEOROL SOC, V88, P1549, DOI 10.1175/BAMS-88-10-1549
+   Krajewski WF, 2003, HYDROLOG SCI J, V48, P151, DOI 10.1623/hysj.48.2.151.44694
+   KRAJEWSKI WF, 2011, J HYDROINF IN PRESS
+   KRAJEWSKI WF, 2008, P WORLD ENV WAT RES, DOI DOI 10.1061/40976(316)393
+   Krajewski WF, 2010, B AM METEOROL SOC, V91, P87, DOI 10.1175/2009BAMS2747.1
+   Landsea CW, 2006, SCIENCE, V313, P452, DOI 10.1126/science.1128448
+   LeCam L., 1961, P 4 BERK S MATH STAT, V3, P165
+   Lin Y., 2005, 19 C HYDR SAN DIEG C
+   Lins HF, 1999, GEOPHYS RES LETT, V26, P227, DOI 10.1029/1998GL900291
+   Mailier PJ, 2006, MON WEATHER REV, V134, P2224, DOI 10.1175/MWR3160.1
+   McCabe GJ, 2002, GEOPHYS RES LETT, V29, DOI 10.1029/2002GL015999
+   MILLER AJ, 1990, EARTH SURF PROCESSES, V15, P119, DOI 10.1002/esp.3290150203
+   Montanari A, 1999, MATH COMPUT MODEL, V29, P217, DOI 10.1016/S0895-7177(99)00104-1
+   Morrison JE, 2002, WATER RESOUR RES, V38, DOI 10.1029/2001WR000502
+   NEUMANN CJ, 1993, NOAA HIST CLIMATOLOG, V62
+   Ntelekos AA, 2007, J HYDROMETEOROL, V8, P88, DOI 10.1175/JHM558.1
+   Ntelekos AA, 2008, WATER RESOUR RES, V44, DOI 10.1029/2007WR006346
+   Ntelekos AA, 2009, Q J ROY METEOR SOC, V135, P1367, DOI 10.1002/qj.476
+   Nykanen DK, 2008, J HYDROMETEOROL, V9, P327, DOI 10.1175/2007JHM839.1
+   Pettitt A. N., 1979, Applied Statistics, V28, P126, DOI 10.2307/2346729
+   Pontrelli MD, 1999, WEATHER FORECAST, V14, P384, DOI 10.1175/1520-0434(1999)014<0384:TMCVFF>2.0.CO;2
+   Robinson JS, 1997, WATER RESOUR RES, V33, P1045, DOI 10.1029/97WR00044
+   RODRIGUEZ-ITURBE I, 1987, PROC R SOC LON SER-A, V410, P269, DOI 10.1098/rspa.1987.0039
+   Sempere-Torres D, 1998, J GEOPHYS RES-ATMOS, V103, P1785, DOI 10.1029/97JD02065
+   Shepherd JM, 2002, J APPL METEOROL, V41, P689, DOI 10.1175/1520-0450(2002)041<0689:RMBMUA>2.0.CO;2
+   Small D, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2005GL024995
+   SMITH JA, 1990, J GEOPHYS RES-ATMOS, V95, P2083, DOI 10.1029/JD095iD03p02083
+   Smith JA, 2002, J HYDROMETEOROL, V3, P267, DOI 10.1175/1525-7541(2002)003<0267:TRHOEF>2.0.CO;2
+   Smith JA, 1996, WATER RESOUR RES, V32, P3099, DOI 10.1029/96WR02107
+   Smith JA, 2010, J HYDROMETEOROL, V11, P841, DOI 10.1175/2010JHM1236.1
+   Smith JA, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR006840
+   TRENBERTH KE, 1984, MON WEATHER REV, V112, P326, DOI 10.1175/1520-0493(1984)112<0326:SVNITS>2.0.CO;2
+   Uijlenhoet R, 2003, J HYDROMETEOROL, V4, P43, DOI 10.1175/1525-7541(2003)004<0043:VORSDI>2.0.CO;2
+   USGS, 1998, NEW EV USGS STREAMG
+   Vecchi GA, 2008, SCIENCE, V322, P687, DOI 10.1126/science.1164396
+   Villarini G, 2011, J AM WATER RESOUR AS, V47, P447, DOI 10.1111/j.1752-1688.2011.00540.x
+   Villarini G, 2010, MON WEATHER REV, V138, P2681, DOI 10.1175/2010MWR3315.1
+   Villarini G, 2010, WATER RESOUR RES, V46, DOI 10.1029/2009WR008395
+   Villarini G, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR007645
+   Vitolo R, 2009, METEOROL Z, V18, P411, DOI 10.1127/0941-2948/2009/0393
+   Waylen P. R., 1991, GeoJournal, V23, P361
+   WAYMIRE E, 1984, WATER RESOUR RES, V20, P1453, DOI 10.1029/WR020i010p01453
+   Zhang Y, 2009, J HYDROMETEOROL, V10, P1243, DOI 10.1175/2009JHM1046.1
+NR 73
+TC 52
+Z9 53
+U1 1
+U2 22
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 1525-755X
+J9 J HYDROMETEOROL
+JI J. Hydrometeorol.
+PD APR
+PY 2011
+VL 12
+IS 2
+BP 294
+EP 309
+DI 10.1175/2010JHM1242.1
+PG 16
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 748RW
+UT WOS:000289409700009
+DA 2019-03-26
+ER
+
+PT J
+AU Riikonen, A
+   Linden, L
+   Pulkkinen, M
+   Nikinmaa, E
+AF Riikonen, Anu
+   Linden, Leena
+   Pulkkinen, Minna
+   Nikinmaa, Eero
+TI Post-transplant crown allometry and shoot growth of two species of
+   street trees
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+DE Alnus glutinosa; Leaf area; Structural soils; Tilia x vulgaris; Urban
+   trees
+ID PINE PINUS-SYLVESTRIS; WATER RELATIONS; SCOTS PINE; URBAN FOREST;
+   SAPWOOD AREA; LEAF-AREA; DROUGHT; BIOMASS; MODELS; POSITION
+AB Transplanting recovery of urban trees is an essential first step in their acclimation from nursery to challenging urban growing sites. Changes in crown allometry during this period are not well known. We followed annual shoot extension, crown structure and leaf area of Alnus glutinosa and Tilia x vulgaris street trees for six years from transplanting into their growing site. The growing site of Tilia trees suffered from excessive soil moisture whereas the Alnus site was more normal regarding soil water relations with periods of drought. The transplanting recovery of Tilia trees was delayed due to the deleterious influence of excessive soil water, but Alnus trees recovered substantially within the first 2-3 years. Leaf area in relation to branch basal area changed throughout the research period, indicating tree adaptation to new growing conditions. (C) 2010 Elsevier GmbH. All rights reserved.
+C1 [Riikonen, Anu; Pulkkinen, Minna; Nikinmaa, Eero] Univ Helsinki, Dept Forest Sci, FIN-00014 Helsinki, Finland.
+   [Linden, Leena] Univ Helsinki, Dept Agr Sci, FIN-00014 Helsinki, Finland.
+RP Riikonen, A (reprint author), Univ Helsinki, Dept Forest Sci, POB 27, FIN-00014 Helsinki, Finland.
+EM anu.riikonen@helsinki.fi
+OI Nikinmaa, Eero/0000-0003-4956-3069; Linden, Leena/0000-0002-2036-0092
+FU City of Helsinki Public Works Department; Maj and Tor Nessling
+   Foundation; Academy of Finland Centre of Excellence, Tekes [1118615]; EU
+FX The experiment was established in collaboration with the City of
+   Helsinki Public Works Department. This work was in part financed by the
+   City of Helsinki Public Works Department, the Maj and Tor Nessling
+   Foundation, the Academy of Finland Centre of Excellence programme
+   (project no. 1118615), Tekes, and the EU FP7 project "Sustainable urban
+   planning decision support accounting for urban metabolism" (BRIDGE).
+   Tree crown measurements were done with the kind help of many students of
+   the University of Helsinki Forestry Programme. Both anonymous reviewers
+   are thanked for their valuable comments on the manuscript.
+CR Barton A. J., 2000, Journal of Environmental Horticulture, V18, P202
+   BEESON RC, 1994, J AM SOC HORTIC SCI, V119, P169
+   Berninger F, 2005, CAN J FOREST RES, V35, P1294, DOI 10.1039/X05-055
+   BERNINGER F, 1994, CAN J FOREST RES, V24, P2263, DOI 10.1139/x94-290
+   Buhler O., 2006, Arboriculture & Urban Forestry, V32, P3
+   Clark J. R., 1990, Journal of Arboriculture, V16, P203
+   Close Richard E., 1996, Journal of Arboriculture, V22, P187
+   Close Richard E., 1996, Journal of Arboriculture, V22, P144
+   Day ME, 2002, TREE PHYSIOL, V22, P507, DOI 10.1093/treephys/22.8.507
+   DEWALD LE, 1986, SILVAE GENET, V35, P205
+   Gilman E. F., 2001, Journal of Arboriculture, V27, P30
+   Gilman Edward F., 2004, Journal of Arboriculture, V30, P301
+   Grabosky Jason, 2007, Urban Forestry & Urban Greening, V6, P159, DOI 10.1016/j.ufug.2007.06.002
+   Grabosky Jason, 2001, Journal of Environmental Horticulture, V19, P206
+   GRIER CC, 1977, ECOLOGY, V58, P893, DOI 10.2307/1936225
+   Harris J. Roger, 2008, Urban Forestry & Urban Greening, V7, P195, DOI 10.1016/j.ufug.2008.03.001
+   HARRIS JR, 2007, NUTR NATURAL RESOURC, V2, P1
+   HODGE SJ, 1991, URBAN TREES SURVEY S, P99
+   Kristoffersen Palle, 1999, Arboricultural Journal, V23, P57
+   Lehtonen A, 2005, TREE PHYSIOL, V25, P803, DOI 10.1093/treephys/25.7.803
+   Linder S., 1985, Research for forest management, P11
+   Lindsey P. A., 1992, HortTechnology, V2, P66
+   Makela A, 2002, TREE PHYSIOL, V22, P891, DOI 10.1093/treephys/22.13.891
+   Makela A, 1999, FUNCT ECOL, V13, P145, DOI 10.1046/j.1365-2435.1999.00314.x
+   McHale M. R., 2009, Urban Ecosystems, V12, P95, DOI 10.1007/s11252-009-0081-3
+   MIETTINEN L, 1933, METSATIETEELLISEN TU
+   Munne-Bosch S, 2004, FUNCT PLANT BIOL, V31, P203, DOI 10.1071/FP03236
+   Nielsen Christian N., 2007, Arboriculture & Urban Forestry, V33, P231
+   Nikinmaa E, 2003, TREE PHYSIOL, V23, P129, DOI 10.1093/treephys/23.2.129
+   Nikinmaa Eero, 1992, Acta Forestalia Fennica, V235, P1
+   NOVAK DJ, 1996, FOREST SCI, V42, P504
+   NYGREN P, 1993, AGROFOREST SYST, V23, P63, DOI 10.1007/BF00704851
+   Otieno DO, 2005, TREE PHYSIOL, V25, P361, DOI 10.1093/treephys/25.3.361
+   Pauleit Stephan, 2002, Urban Forestry & Urban Greening, V1, P83, DOI 10.1078/1618-8667-00009
+   Peper Paula J., 2001, Journal of Arboriculture, V27, P169
+   Peper Paula J., 2003, Urban Forestry & Urban Greening, V2, P019, DOI 10.1078/1618-8667-00020
+   POLLARD DFW, 1976, TREE PHYSL YIELD IMP, P246
+   RIIKONEN A, 2009, LANDSCAPE GROUND, V3, P306
+   Scharenbroch Bryant C., 2009, Arboriculture & Urban Forestry, V35, P221
+   Shinozaki K., 1964, JAPANESE J ECOL, V14, P97, DOI DOI 10.18960/SEITAI.14.3_97
+   Sievanen R, 2000, ANN FOREST SCI, V57, P399
+   Solfjeld Ingjerd, 2004, Urban Forestry & Urban Greening, V2, P129, DOI 10.1078/1618-8667-00029
+   Suzuki M, 2000, TREE PHYSIOL, V20, P203
+   TYREE MT, 1994, TREE PHYSIOL, V14, P455, DOI 10.1093/treephys/14.5.455
+   TYREE MT, 1991, PLANT PHYSIOL, V96, P1105, DOI 10.1104/pp.96.4.1105
+   Von Der Heide-Spravka Kerstin G., 1992, Arboricultural Journal, V16, P243
+   White D, 1998, TREES-STRUCT FUNCT, V12, P406, DOI 10.1007/PL00009724
+   WHITLOW TH, 1992, J APPL ECOL, V29, P436, DOI 10.2307/2404512
+NR 48
+TC 7
+Z9 7
+U1 1
+U2 16
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PY 2011
+VL 10
+IS 2
+BP 87
+EP 94
+DI 10.1016/j.ufug.2010.09.001
+PG 8
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA 768JN
+UT WOS:000290930400003
+DA 2019-03-26
+ER
+
+PT J
+AU Cunha, LK
+   Krajewski, WF
+   Mantilla, R
+   Cunha, L
+AF Cunha, L. K.
+   Krajewski, W. F.
+   Mantilla, R.
+   Cunha, L.
+TI A framework for flood risk assessment under nonstationary conditions or
+   in the absence of historical data
+SO JOURNAL OF FLOOD RISK MANAGEMENT
+LA English
+DT Article
+DE Flood risk assessment; flood risk mapping; hydrological modelling; land
+   cover changes; multiscaling framework; network hydraulic geometry;
+   nonstationary conditions; peak flow scaling
+ID DOWNSTREAM HYDRAULIC GEOMETRY; CONTERMINOUS UNITED-STATES; DISCHARGE
+   POWER LAWS; FREQUENCY-ANALYSIS; RIVER NETWORKS; RECURRENCE INTERVALS;
+   BANKFULL DISCHARGE; CHANNEL NETWORKS; DRAINAGE-BASIN; CURVE NUMBER
+AB We present a diagnostic framework to assess changes in flood risk across multiple scales in a river network, under nonstationary conditions or in the absence of historical hydro-meteorological data. The framework combines calibration-free hydrological and hydraulic models with urban development information to demonstrate altered flood risk. Our models utilize hydraulic geometric data and high-resolution remote-sensing information provided on a nearly global basis. The need for calibration is eliminated because model parameters are directly related to the physical properties of the system. We apply the methodology in a case study for Mecklenburg County, NC, in which we assess the effects of land cover changes on flood frequency. We obtained maps of expected inundated zones under different conditions of land cover and storm return periods and compared them with the 100-year return period inundation maps developed by Federal Emergency Management Agency that are based on more complex hydraulic models. The close agreement supports our framework's applicability and generality.
+C1 [Cunha, L. K.; Krajewski, W. F.; Mantilla, R.; Cunha, L.] Univ Iowa, IIHR Hydrosci & Engn, Iowa City, IA 52242 USA.
+RP Cunha, LK (reprint author), Univ Iowa, IIHR Hydrosci & Engn, Iowa City, IA 52242 USA.
+EM luciana-cunha@uiowa.edu
+RI Mantilla, Ricardo/B-9658-2008
+OI Mantilla, Ricardo/0000-0002-2957-6252
+FU National Science Foundation [OISE-0738129]
+FX Part of this study was developed during the first author's participation
+   in the International Institute for Applied Systems Analysis (IIASA)
+   Young Scientists Summer Program held in Laxenburg, Austria, under the
+   direction of Dr Marek Makowski. Participation in the programme was made
+   possible by a grant from the National Academy of Sciences Board on
+   International Scientific Organizations, funded by the National Science
+   Foundation under grant no. OISE-0738129. The authors thank Ramona J.
+   Traynor for providing the USGS data.
+CR Ale BJM, 2002, SAFETY SCI, V40, P105, DOI 10.1016/S0925-7535(01)00044-3
+   ALEXANDER JS, 2009, GEOMORPHIC SEGMENTAT
+   Allen RJ, 2005, J HYDROL ENG, V10, P327, DOI 10.1061/(ASCE)1084-0699(2005)10:4(327)
+   Anderson RM, 2006, J HYDROL, V320, P103, DOI 10.1016/j.jhydrol.2005.07.020
+   Bales JD, 2009, J FLOOD RISK MANAG, V2, P139, DOI 10.1111/j.1753-318X.2009.01029.x
+   Bates PD, 2000, J HYDROL, V236, P54, DOI 10.1016/S0022-1694(00)00278-X
+   Birkeland KW, 2002, GEOPHYS RES LETT, V29, DOI 10.1029/2001GL014623
+   Castro JM, 2001, J AM WATER RESOUR AS, V37, P1249, DOI 10.1111/j.1752-1688.2001.tb03636.x
+   Chow V.T., 1988, APPL HYDROLOGY
+   DAVIS SA, 1993, ADA197367 ARM ENG I
+   De Roo APJ, 2000, HYDROL PROCESS, V14, P1981, DOI 10.1002/1099-1085(20000815/30)14:11/12<1981::AID-HYP49>3.3.CO;2-6
+   Di Luzio M, 2004, J SOIL WATER CONSERV, V59, P123
+   Didszun J, 2008, WATER RESOUR RES, V44, DOI 10.1029/2006WR005242
+   DINGMAN SL, 2006, J HYDROL, V334, P17
+   Dunne T., 1978, WATER ENV PLANNING
+   Fang X, 2007, J IRRIG DRAIN ENG, V133, P314, DOI 10.1061/(ASCE)0733-9437(2007)133:4(314)
+   Faustini JM, 2009, GEOMORPHOLOGY, V108, P292, DOI 10.1016/j.geomorph.2009.02.005
+   FEYEN L, 2006, 22313 EUR EN EUR COM
+   Furey PR, 2007, ADV WATER RESOUR, V30, P2387, DOI 10.1016/j.advwatres.2007.05.014
+   Furey PR, 2005, ADV WATER RESOUR, V28, P1240, DOI 10.1016/j.advwatres.2005.03.014
+   Goodrich DC, 1997, WATER RESOUR RES, V33, P2951, DOI 10.1029/97WR01422
+   GUPTA KG, 1995, HYDROL PROCESS, V9, P347
+   Gupta VK, 2007, NONLINEAR DYNAMICS IN GEOSCIENCES, P121, DOI 10.1007/978-0-387-34918-3_8
+   Gupta VK, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2009GL041540
+   Gupta VK, 1996, J HYDROL, V187, P81, DOI 10.1016/S0022-1694(96)03088-0
+   Gupta VK, 1998, SCALE DEPENDENCE AND SCALE INVARIANCE IN HYDROLOGY, P88, DOI 10.1017/CBO9780511551864.005
+   Gupta VK, 2004, CHAOS SOLITON FRACT, V19, P357, DOI 10.1016/S0960-0779(03)00048-1
+   Hairer E., 1993, SOLVING ORDINARY DIF
+   Hardmeyer K, 2007, ENVIRON MANAGE, V39, P563, DOI 10.1007/s00267-005-0149-7
+   Harman C, 2008, J HYDROL, V351, P13, DOI 10.1016/j.jhydrol.2007.11.015
+   HIRSCH RM, 2004, EOS T AM GEOPHYS UN, V85, P197, DOI DOI 10.1029/2004EO200002
+   Homer C, 2004, PHOTOGRAMM ENG REM S, V70, P829, DOI 10.14358/PERS.70.7.829
+   Horritt MS, 2007, HYDROL PROCESS, V21, P2745, DOI 10.1002/hyp.6486
+   HOYOIS P, 2003, 3 DECADES F IN PRESS
+   Hsu MH, 2003, J HYDROL, V283, P267, DOI 10.1016/S0022-1694(03)00274-9
+   Huang HQ, 2000, EARTH SURF PROC LAND, V25, P1, DOI 10.1002/(SICI)1096-9837(200001)25:1<1::AID-ESP68>3.0.CO;2-2
+   Hubert P, 2001, HYDROLOG SCI J, V46, P897, DOI 10.1080/02626660109492884
+   Kidson R, 2005, PROG PHYS GEOG, V29, P392, DOI 10.1191/0309133305pp454ra
+   LANGBEIN WB, 1964, AM J SCI, V262, P782, DOI 10.2475/ajs.262.6.782
+   Lee JS, 2006, J HYDRAUL ENG, V132, P1347, DOI 10.1061/(ASCE)0733-9429(2006)132:12(1347)
+   Leopold L.B, 1994, WATER RESOURCES UPDA, P11
+   Leopold LB, 1953, HYDRAULIC GEOMETRY S, P252
+   Mandapaka PV, 2009, ADV WATER RESOUR, V32, P1508, DOI 10.1016/j.advwatres.2009.07.005
+   Mantilla R, 2005, IEEE GEOSCI REMOTE S, V2, P404, DOI 10.1109/LGRS.2005.853571
+   Mantilla R., 2007, THESIS U COLORADO
+   Mantilla R, 2006, J HYDROL, V322, P155, DOI 10.1016/j.jhydrol.2005.03.022
+   Marks K, 2000, HYDROL PROCESS, V14, P2109, DOI 10.1002/1099-1085(20000815/30)14:11/12<2109::AID-HYP58>3.3.CO;2-T
+   Menabde M, 2001, ADV WATER RESOUR, V24, P991, DOI 10.1016/S0309-1708(01)00043-4
+   Menabde M, 2001, ADV WATER RESOUR, V24, P1001, DOI 10.1016/S0309-1708(01)00038-0
+   Merigliano MF, 1997, J AM WATER RESOUR AS, V33, P1327, DOI 10.1111/j.1752-1688.1997.tb03556.x
+   Merwade V, 2008, J HYDROL ENG, V13, P608, DOI 10.1061/(ASCE)1084-0699(2008)13:7(608)
+   Merz B, 2004, NAT HAZARD EARTH SYS, V4, P153, DOI 10.5194/nhess-4-153-2004
+   MESSNER F., 2006, T090601 FLOODSITE
+   Metcalf CK, 2009, J AM WATER RESOUR AS, V45, P1260, DOI 10.1111/j.1752-1688.2009.00364.x
+   MICHELE CD, 2002, J HYDROL, V262, P245
+   MISHRA S. K, 2003, SOIL CONSERVATION SE
+   Mishra SK, 2004, HYDROL PROCESS, V18, P1291, DOI 10.1002/hyp.1344
+   Molnar P, 2006, J GEOPHYS RES-EARTH, V111, DOI 10.1029/2005JF000310
+   Montaldo N, 2007, HYDROL PROCESS, V21, P608, DOI 10.1002/hyp.6260
+   Morita M, 2008, J FLOOD RISK MANAG, V1, P142, DOI 10.1111/j.1753-318X.2008.00016.x
+   MORRISON JE, 2001, EXTREMES, V4, P5
+   Murlidharan TL, 1997, J WIND ENG IND AEROD, V72, P479, DOI 10.1016/S0167-6105(97)00273-0
+   National Weather Service (NWS), 2007, FLOOD LOSS COMP FLOO
+   *NCFMP, 2007, REST MAN VERS 2 FIN
+   NRC, 2009, MAPP ZON IMPR FLOOD
+   Ogden FL, 2003, J HYDROL ENG, V8, P64, DOI 10.1061/(ASCE)1084-0699(2003)8:2(64)
+   Osterkamp W.R., 1982, 1242 US GEOL SURV
+   Overton IC, 2005, RIVER RES APPL, V21, P991, DOI 10.1002/rra.867
+   Parry M. L., 2007, CONTRIBUTION GROUP 2
+   PECKHAM SD, 1995, WATER RESOUR RES, V31, P1023, DOI 10.1029/94WR03155
+   Plate EJ, 2002, J HYDROL, V267, P2, DOI 10.1016/S0022-1694(02)00135-X
+   Reggiani P, 1998, ADV WATER RESOUR, V22, P367, DOI 10.1016/S0309-1708(98)00012-8
+   Reggiani P, 2000, WATER RESOUR RES, V36, P1845, DOI 10.1029/2000WR900066
+   RHOADS BL, 1991, WATER RESOUR RES, V27, P1865, DOI 10.1029/91WR01363
+   Robinson JS, 1997, WATER RESOUR RES, V33, P1045, DOI 10.1029/97WR00044
+   Scanlon TM, 2007, NATURE, V449, P209, DOI 10.1038/nature06060
+   Scheidegger AE, 1997, NAT HAZARDS, V16, P103, DOI 10.1023/A:1007930411053
+   Schneider LE, 2005, J IRRIG DRAIN ENG, V131, P282, DOI 10.1061/(ASCE)0733-9437(2005)131:3(282)
+   SCS, 1956, SCS NAT ENG HDB
+   Singh VP, 2003, WATER RESOUR RES, V39, DOI 10.1029/2003WR002484
+   Sivapalan M, 2003, HYDROLOG SCI J, V48, P857, DOI 10.1623/hysj.48.6.857.51421
+   SNELL J, 1995, HYDROL PROCESS, V9, P485, DOI 10.1002/hyp.3360090503
+   Stall J. B., 1970, HYDRAULIC GEOMETRY 1
+   Stehman SV, 2008, PHOTOGRAMM ENG REM S, V74, P1561, DOI 10.14358/PERS.74.12.1561
+   Struthers I, 2007, HYDROL EARTH SYST SC, V11, P1405, DOI 10.5194/hess-11-1405-2007
+   Sweet WV, 2003, J AM WATER RESOUR AS, V39, P861, DOI 10.1111/j.1752-1688.2003.tb04411.x
+   Troutman BM, 2001, ADV WATER RESOUR, V24, P967, DOI 10.1016/S0309-1708(01)00031-8
+   Tsihrintzis VA, 1997, J AM WATER RESOUR AS, V33, P163, DOI 10.1111/j.1752-1688.1997.tb04093.x
+   Turcotte D, 1997, FRACTALS CHAOS GEOLO
+   TURCOTTE DL, 1993, STOCH HYDROL HYDRAUL, V7, P33, DOI 10.1007/BF01581565
+   Turner-Gillespie DF, 2003, ADV WATER RESOUR, V26, P673, DOI 10.1016/S0309-1708(03)00017-4
+   USDA-NRCS (U.S. Department of Agriculture-Natural Resources Conservation Service), 2004, NAT ENG HDB 630
+   USDAARS, 2010, SOIL WAT ASS TOOL SW
+   *USGS, 1997, STAND DIG EL MOD
+   *USGS, 2002, NAT FLOOD FREQ PROGR
+   Veitzer SA, 2001, ADV WATER RESOUR, V24, P955, DOI 10.1016/S0309-1708(01)00030-6
+   Villarini G, 2009, ADV WATER RESOUR, V32, P1255, DOI 10.1016/j.advwatres.2009.05.003
+   Vogelmann JE, 2001, PHOTOGRAMM ENG REM S, V67, P650
+   Wang X, 2006, J AM WATER RESOUR AS, V42, P1217, DOI 10.1111/j.1752-1688.2006.tb05608.x
+   WEAVER JC, 2006, 20065017 USGS SCI IN
+   WEAVER JC, 2003, 034108 USGS WAT RES
+   Wilkerson GV, 2008, J AM WATER RESOUR AS, V44, P243, DOI 10.1111/j.1752-1688.2007.00151.x
+   Wolman M. G, 1957, RIVER FLOOD PLAINS S
+NR 103
+TC 27
+Z9 27
+U1 1
+U2 36
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1753-318X
+J9 J FLOOD RISK MANAG
+JI J. Flood Risk Manag.
+PD JAN
+PY 2011
+VL 4
+IS 1
+BP 3
+EP 22
+DI 10.1111/j.1753-318X.2010.01085.x
+PG 20
+WC Environmental Sciences; Water Resources
+SC Environmental Sciences & Ecology; Water Resources
+GA 719NH
+UT WOS:000287211000002
+DA 2019-03-26
+ER
+
+PT J
+AU Cunico, AM
+   Allan, JD
+   Agostinho, AA
+AF Cunico, Almir M.
+   David Allan, J.
+   Agostinho, Angelo A.
+TI Functional convergence of fish assemblages in urban streams of Brazil
+   and the United States
+SO ECOLOGICAL INDICATORS
+LA English
+DT Article
+DE Streams; Urbanization; Fish assemblages
+ID CONTRASTING ENVIRONMENTAL SETTINGS; BIOTIC INTEGRITY; HISTORICAL
+   CHANGES; SPECIES TRAITS; HUMAN IMPACTS; RIVER-BASIN; LAND-USE;
+   URBANIZATION; COMMUNITIES; DRAINAGE
+AB The aim of this study was describe functional faunal assemblages occurring in streams with high influence of urbanization in USA and Brazil to answer the question whether similar biological traits of fish assemblages would be found between streams with high influence of urbanization in USA and Brazil. We compiled data on the structure and composition of freshwater fishes in 46 urban streams in the USA and 10 urban streams in Brazil. Data on functional traits was established in accordance with ordinal data on abundance. Cluster analysis was conducted to examine relationships among species composition across all sites sampled and to uncover patterns in functional traits of the fish assemblages by nonmetric multidimensional scaling (NMS). The cluster analysis separated the biogeographic regions in relation to the fish fauna composition. However, the ordination analysis (NMS) did not reveal differences between functional traits in Brazil and USA urban fish assemblages, suggesting functional similarity of very disparate zoogeographic assemblages. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Cunico, Almir M.] Univ Fed Parana, Lab Ecol Fishing & Ichthyol, BR-85950000 Palotina, Parana, Brazil.
+   [Cunico, Almir M.] Univ Estadual Maringa, Grad Course Ecol Inland Aquat Ecosyst, BR-87020900 Maringa, Parana, Brazil.
+   [David Allan, J.] Univ Michigan, Sch Nat Resources & Environm, Ann Arbor, MI 48109 USA.
+   [Agostinho, Angelo A.] Univ Estadual Maringa, Dept Biol NUPELIA, BR-87020900 Maringa, Parana, Brazil.
+RP Cunico, AM (reprint author), Univ Fed Parana, Lab Ecol Fishing & Ichthyol, Palotina Campus,Rua Pioneiro 2153, BR-85950000 Palotina, Parana, Brazil.
+EM almircunico@ufpr.br
+RI Agostinho, Angelo Antonio/D-5888-2013; Inau, Inct/J-9853-2013
+OI Agostinho, Angelo Antonio/0000-0002-4707-9444; 
+FU National Council of Scientific and Technological Development (CNPq)
+FX We thank the National Council of Scientific and Technological
+   Development (CNPq) for provided a scholarship for the first author.
+   Colleagues in the laboratory of the School of Natural Resources,
+   University of Michigan, for their valuable suggestions. We thank very
+   much Dr. Li Wang (University of Michigan), Dr. Thomas F. Cuffney (U.S.
+   Geological Survey), Dr. Oscar Aiko Shibatta (Londrina State University),
+   Dr. Jansen Alfredo Sampaio Zuanon (National Institute for Amazonian
+   Research) for their collaboration and provision of data.
+CR Abelha Milza Celi Fedatto, 2001, Acta Scientiarum Universidade Estadual de Maringa, V23, P425
+   Agostinho A. A, 2007, ECOLOGIA MANEJO RECU
+   Alexandre V.A., 2010, HYDROBIOLOGIA, V641, P97
+   Allan JD, 2004, ANNU REV ECOL EVOL S, V35, P257, DOI 10.1146/annurev.ecolsys.35.120202.110122
+   Araujo F. G., 1998, Revista Brasileira de Biologia, V58, P547, DOI 10.1590/S0034-71081998000400002
+   Bastos L.P., 2004, ESTUD BIOL, V26, P33
+   Boet P, 1999, HYDROBIOLOGIA, V410, P59, DOI 10.1023/A:1003747528595
+   Booth DB, 2004, J AM WATER RESOUR AS, V40, P1351, DOI 10.1111/j.1752-1688.2004.tb01591.x
+   Bozzetti M, 2004, HYDROBIOLOGIA, V529, P133, DOI 10.1007/s10750-004-5738-6
+   Brown Larry R., 2009, Urban Ecosystems, V12, P391, DOI 10.1007/s11252-009-0082-2
+   Camara G, 1996, COMPUT GRAPH, V20, P395, DOI 10.1016/0097-8493(96)00008-8
+   CAMPANA NA, 2001, URBAN WATER, V3, P113, DOI DOI 10.1016/S1462-0758(01)00004-8
+   Casatti Lilian, 2005, Biota Neotrop., V5, P75, DOI 10.1590/S1676-06032005000100009
+   Casatti L, 2009, HYDROBIOLOGIA, V623, P173, DOI 10.1007/s10750-008-9656-x
+   Cohen JE, 2003, SCIENCE, V302, P1172, DOI 10.1126/science.1088665
+   COLLETTE B. B., 2009, DIVERSITY FISHES BIO
+   COURTENAY W R JR, 1990, Journal of the World Aquaculture Society, V21, P145, DOI 10.1111/j.1749-7345.1990.tb01017.x
+   Cuffney TF, 2010, ECOL APPL, V20, P1384, DOI 10.1890/08-1311.1
+   Cunico AM, 2006, REV BRAS ZOOL, V23, P1101, DOI 10.1590/S0101-81752006000400018
+   Cunico Almir Manoel, 2009, Check List, V5, P273
+   Doledec S, 1999, FRESHWATER BIOL, V42, P737, DOI 10.1046/j.1365-2427.1999.00509.x
+   Pompeu PD, 2006, NEOTROP ICHTHYOL, V4, P427, DOI 10.1590/S1679-62252006000400006
+   Ferreira Cristiane de Paula, 2006, Biota Neotrop., V6, P0, DOI 10.1590/S1676-06032006000300002
+   Ferreira KM, 2007, NEOTROP ICHTHYOL, V5, P311, DOI 10.1590/S1679-62252007000300012
+   Gomiero Leandro Muller, 2007, Biota Neotrop., V7, P127, DOI 10.1590/S1676-06032007000300015
+   Hahn NS, 1997, PLANICIE INUNDACAO A, P209
+   Hancock PJ, 2002, ENVIRON MANAGE, V29, P763, DOI 10.1007/s00267-001-0064-5
+   Hatt BE, 2004, ENVIRON MANAGE, V34, P112, DOI 10.1007/s00267-004-0221-8
+   Ibanez C, 2009, ECOGRAPHY, V32, P658, DOI 10.1111/j.1600-0587.2008.05591.x
+   KARR JR, 1981, FISHERIES, V6, P21, DOI 10.1577/1548-8446(1981)006<0021:AOBIUF>2.0.CO;2
+   Kennen J., 2005, AM FISH SOC S, V41, P39
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P1, DOI 10.1007/BF02289565
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P115, DOI 10.1007/BF02289694
+   Kwak Thomas J., 2007, P677
+   Lamouroux N, 2002, ECOLOGY, V83, P1792, DOI 10.1890/0012-9658(2002)083[1792:ICOSFC]2.0.CO;2
+   Lemes Elis Mara, 2002, Iheringia, Sér. Zool., V92, P69, DOI 10.1590/S0073-47212002000300007
+   Mainstone CP, 2002, SCI TOTAL ENVIRON, V282, P25, DOI 10.1016/S0048-9697(01)00937-8
+   Marzluff J.M., 2008, URBAN ECOLOGY INT PE, P207
+   Matzen DA, 2008, T AM FISH SOC, V137, P677, DOI 10.1577/T06-168.1
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   McCune B., 1999, PC ORD MULT AN EC DA
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   McMahon G, 2000, J AM WATER RESOUR AS, V36, P1247, DOI 10.1111/j.1752-1688.2000.tb05724.x
+   Meyer JL, 2005, J N AM BENTHOL SOC, V24, P602, DOI 10.1899/0887-3593(2005)024\[0602:SEFIUL\]2.0.CO;2
+   Nunes Daniela M., 2004, Iheringia, Sér. Zool., V94, P5, DOI 10.1590/S0073-47212004000100001
+   OLIVEIRA D. C., 2005, BIOTA NEOTROP, V5, P1
+   Onorato D, 2000, J FRESHWATER ECOL, V15, P47, DOI 10.1080/02705060.2000.9663721
+   Paul M.J., 2008, P207, DOI 10.1007/978-0-387-73412-5_12
+   Poff NL, 1997, J N AM BENTHOL SOC, V16, P391, DOI 10.2307/1468026
+   Pool TK, 2010, CAN J FISH AQUAT SCI, V67, P1791, DOI 10.1139/F10-095
+   Population Reference Bureau, 2008, POP B POP REF BUR
+   Potapova M, 2005, AM FISH S S, V47, P333
+   Price S.J., 2011, CONSERV BIOL, DOI [10.1111/j.1523-1739.2010.01627.x, DOI 10.1111/J.1523-1739.2010.01627.X]
+   Quinn JM, 2001, J AM WATER RESOUR AS, V37, P1509, DOI 10.1111/j.1752-1688.2001.tb03656.x
+   SILVA CPD, 1995, AMAZONIANA, V8, P221
+   Suzuki Harumi Irene, 2005, P223
+   Tabit CR, 2002, SOUTHEAST NAT, V1, P253, DOI 10.1656/1528-7092(2002)001[0253:IOUOTD]2.0.CO;2
+   Tate CM, 2005, AM FISH S S, V47, P291
+   TAYLOR BR, 1986, ENVIRON POLLUT A, V40, P317, DOI 10.1016/0143-1471(86)90065-6
+   Pinto BCT, 2007, BRAZ ARCH BIOL TECHN, V50, P489, DOI 10.1590/S1516-89132007000300015
+   VAZZOLER A.E.A.M., 1996, BIOL REPRODUCAO PEIX
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Walters D.M., 2005, AM FISH SOC S, V41, P69
+   Wang LZ, 2000, J AM WATER RESOUR AS, V36, P1173, DOI 10.1111/j.1752-1688.2000.tb05719.x
+   WEAVER LA, 1994, T AM FISH SOC, V123, P162, DOI 10.1577/1548-8659(1994)123<0162:UOAWAH>2.3.CO;2
+   Winemiller KO, 2008, AQUAT ECOL SER, P107, DOI 10.1016/B978-012088449-0.50007-8
+   WINEMILLER KO, 1989, OECOLOGIA, V81, P225, DOI 10.1007/BF00379810
+   Wood PJ, 1997, ENVIRON MANAGE, V21, P203, DOI 10.1007/s002679900019
+   Zhou Y, 2007, NORTHEAST NAT, V14, P643, DOI 10.1656/1092-6194(2007)14[643:AAOISA]2.0.CO;2
+NR 69
+TC 16
+Z9 17
+U1 2
+U2 21
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1470-160X
+J9 ECOL INDIC
+JI Ecol. Indic.
+PD SEP
+PY 2011
+VL 11
+IS 5
+BP 1354
+EP 1359
+DI 10.1016/j.ecolind.2011.02.009
+PG 6
+WC Biodiversity Conservation; Environmental Sciences
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA 774TO
+UT WOS:000291409700037
+DA 2019-03-26
+ER
+
+PT J
+AU Siregar, AYM
+   Komarudin, D
+   Wisaksana, R
+   van Crevel, R
+   Baltussen, R
+AF Siregar, Adiatma Y. M.
+   Komarudin, Dindin
+   Wisaksana, Rudi
+   van Crevel, Reinout
+   Baltussen, Rob
+TI Costs and outcomes of VCT delivery models in the context of scaling up
+   services in Indonesia
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE cost analysis; voluntary counselling and testing; injecting drug user;
+   HIV/AIDS; Indonesia
+ID DEVELOPING-COUNTRIES; STRATEGIES; HIV/AIDS; HIV
+AB OBJECTIVE To evaluate costs and outcomes of voluntary counselling and testing (VCT) service delivery models in urban Indonesia.
+   METHODS We collected primary data on utilization, costs and outcomes of VCT services in a hospital clinic (568 clients), HIV community clinic (28 clients), sexually transmitted infection (STI) community clinic (784 clients) and prison clinic (574 clients) in Bandung, Indonesia, in the period January 2008-April 2009.
+   RESULTS The hospital clinic diagnosed the highest proportion and absolute number of HIV infections, but with the lowest average CD4 cell count and with the highest associated travelling and waiting time. The prison clinic detected fewer cases, but at an earlier stage, and all enrolled in HIV care. The community clinics detected the smallest number of cases, and only 0-8% enrolled in HIV care. The unit cost per VCT was highest in the hospital clinic (US$74), followed by the STI community clinic (US$65), the HIV community clinic (US$39) and the prison (US$23).
+   CONCLUSION We propose a reorientation of the delivery models for VCT and related HIV/AIDS treatment in this setting. We call for the scaling up of community clinics for VCT to improve access, promote earlier detection and to perform (early) treatment activities. This would reduce the burden of the hospital clinic to orient itself towards the treatment of AIDS patients. This is one of very few studies addressing this issue in Asia and the first of its kind in Indonesia, which has a rapidly growing HIV epidemic. The conceptual framework and overall conclusions may be relevant to other low-income settings.
+C1 [Siregar, Adiatma Y. M.] Padjadjaran State Univ, Fac Econ, Dept Econ, Bandung, West Java, Indonesia.
+   [Siregar, Adiatma Y. M.; Komarudin, Dindin; Wisaksana, Rudi; van Crevel, Reinout; Baltussen, Rob] Integrated Management Prevent & Control & Treatme, Bandung, Indonesia.
+   [Wisaksana, Rudi] Padjadjaran State Univ, Hasan Sadikin Hosp, Dept Internal Med, Bandung, West Java, Indonesia.
+   [van Crevel, Reinout] Radboud Univ Nijmegen, Med Ctr, Dept Internal Med, NL-6525 ED Nijmegen, Netherlands.
+   [Baltussen, Rob] Radboud Univ Nijmegen, Med Ctr, Dept Primary & Community Care, NL-6525 ED Nijmegen, Netherlands.
+RP Siregar, AYM (reprint author), Padjadjaran State Univ, Fac Econ, Dept Econ, Bandung, West Java, Indonesia.
+EM adiatma.siregar@fe.unpad.ac.id
+RI Baltussen, R.M.P.M./L-4181-2015; van Crevel, reinout/A-6636-2010
+OI van Crevel, reinout/0000-0002-6233-6410; Siregar,
+   Adiatma/0000-0003-0747-1596
+FU European Commission [318/10150A - EC SANTE/2005/105-033]
+FX We thank the staff of the clinics involved for making the needed data
+   available to us for analysis. We acknowledge the financial support of
+   the European Commission (Sixth Framework Programme; Specific Targeted
+   Research Project no: 318/10150A - EC SANTE/2005/105-033).
+CR AFRIANDI A, 2009, ACTA MED INDONESI S1, V41, P75
+   Dandona L, 2008, AIDS, V22, pS43, DOI 10.1097/01.aids.0000327622.24232.aa
+   Drummond MF, 2005, METHODS EC EVALUATIO
+   *HITAP, 2008, POT PROV IN VOL HIV
+   Hogan DR, 2005, BRIT MED J, V331, P1431, DOI 10.1136/bmj.38643.368692.68
+   Johns B, 2003, COST EFF RESOUR ALLO, V1, P1
+   KREISS K, 1989, J INFECT DIS, V160, P380
+   MMBANDO D, 2004, INT C AIDS 15 2004 B
+   *MOH RI GEN DIR CO, 2009, CAS STAT HIV AIDS IN
+   Schwandt M, 2006, SEX TRANSM INFECT, V82, P392, DOI 10.1136/sti.2006.019794
+   Siregar Adiatma Y M, 2009, Acta Med Indones, V41 Suppl 1, P70
+   SUHERMAN H, 2009, PERCEIVED BARR UNPUB
+   Teerawattananon Yot, 2005, Cost Eff Resour Alloc, V3, P7, DOI 10.1186/1478-7547-3-7
+   UNAIDS, 2007, AIDS EP UPD DEC 2007
+   UNAIDS, 2001, IMP VOL COUNS TEST G
+   Walker D, 2003, HEALTH POLICY PLANN, V18, P4, DOI 10.1093/heapol/18.1.4
+   Wisaksana Rudi, 2009, Acta Med Indones, V41 Suppl 1, P45
+   World Bank, 2009, WDI ONL WORLD DEV IN
+NR 18
+TC 12
+Z9 12
+U1 0
+U2 4
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD FEB
+PY 2011
+VL 16
+IS 2
+BP 193
+EP 199
+DI 10.1111/j.1365-3156.2010.02675.x
+PG 7
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 705GI
+UT WOS:000286116500008
+PM 21070513
+OA Bronze
+DA 2019-03-26
+ER

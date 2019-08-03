@@ -1,0 +1,465 @@
+
+PT J
+AU Borio, D
+   Cano, E
+   Baldini, G
+AF Borio, Daniele
+   Cano, Eduardo
+   Baldini, Gianmarco
+TI Speed Consistency in the Smart Tachograph
+SO SENSORS
+LA English
+DT Article
+DE Global Navigation Satellite System; GNSS; motion conflict; odometer;
+   Smart Tachograph; ST
+AB In the transportation sector, safety risks can be significantly reduced by monitoring the behaviour of drivers and by discouraging possible misconducts that entail fatigue and can increase the possibility of accidents. The Smart Tachograph (ST), the new revision of the Digital Tachograph (DT), has been designed with this purpose: to verify that speed limits and compulsory rest periods are respected by drivers. In order to operate properly, the ST periodically checks the consistency of data from different sensors, which can be potentially manipulated to avoid the monitoring of the driver behaviour. In this respect, the ST regulation specifies a test procedure to detect motion conflicts originating from inconsistencies between Global Navigation Satellite System (GNSS) and odometry data. This paper provides an experimental evaluation of the speed verification procedure specified by the ST regulation. Several hours of data were collected using three vehicles and considering light urban and highway environments. The vehicles were equipped with an On-Board Diagnostics (OBD) data reader and a GPS/Galileo receiver. The tests prescribed by the regulation were implemented with specific focus on synchronization aspects. The experimental analysis also considered aspects such as the impact of tunnels and the presence of data gaps. The analysis shows that the metrics selected for the tests are resilient to data gaps, latencies between GNSS and odometry data and simplistic manipulations such as data scaling. The new ST forces an attacker to falsify data from both sensors at the same time and in a coherent way. This makes more difficult the implementation of frauds in comparison to the current version of the DT.
+C1 [Borio, Daniele; Cano, Eduardo; Baldini, Gianmarco] European Commiss, JRC, Directorate Space Secur & Migrat, Via Enrico Fermi 2749, I-21027 Ispra, VA, Italy.
+RP Borio, D (reprint author), European Commiss, JRC, Directorate Space Secur & Migrat, Via Enrico Fermi 2749, I-21027 Ispra, VA, Italy.
+EM daniele.borio@ec.europa.eu; eduardo.cano-pons@publications.europa.eu;
+   gianmarco.baldini@ec.europa.eu
+OI Borio, Daniele/0000-0003-3573-5093; baldini,
+   gianmarco/0000-0003-4830-1227
+CR Arce G.R., 2004, NONLINEAR SIGNAL PRO
+   Borio D., 2018, P EUR NAV C ENC GOTH, P1
+   Borio D, 2016, P IEEE, V104, P1233, DOI 10.1109/JPROC.2016.2543266
+   Furgel I, 2006, EMBEDDED SECURITY IN CARS: SECURING CURRENT AND FUTURE AUTOMOTIVE IT APPLICATIONS, P69, DOI 10.1007/3-540-28428-1_5
+   Huber P.J., 2009, ROBUST STAT
+   Ioannides RT, 2016, P IEEE, V104, P1174, DOI 10.1109/JPROC.2016.2535898
+   Kaplan E. D., 2005, UNDERSTANDING GPS PR
+   Keenan J, 2009, DEGREE BACHELOR SCI
+   Psiaki ML, 2016, P IEEE, V104, P1258, DOI 10.1109/JPROC.2016.2526658
+   Pujante A., 2014, INSIDE GNSS, V9, P48
+NR 10
+TC 1
+Z9 1
+U1 0
+U2 1
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD MAY
+PY 2018
+VL 18
+IS 5
+AR 1583
+DI 10.3390/s18051583
+PG 21
+WC Chemistry, Analytical; Electrochemistry; Instruments & Instrumentation
+SC Chemistry; Electrochemistry; Instruments & Instrumentation
+GA GJ7PP
+UT WOS:000435580300282
+PM 29772701
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, J
+   Zhou, CS
+   Wang, SJ
+   Li, SJ
+AF Chen, Jing
+   Zhou, Chunshan
+   Wang, Shaojian
+   Li, Shijie
+TI Impacts of energy consumption structure, energy intensity, economic
+   growth, urbanization on PM2.5 concentrations in countries globally
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Energy consumption structure; Energy intensity; Economic growth;
+   Urbanization; PM2.5 concentrations; Income level countries
+ID PARTICULATE MATTER PM2.5; CARBON-DIOXIDE EMISSIONS; CO2 EMISSIONS;
+   PANEL-DATA; LONG-RUN; SOCIOECONOMIC DETERMINANTS; DECOMPOSITION
+   ANALYSIS; SCALING RELATIONSHIP; URBAN-POPULATION; DRIVING FORCES
+AB Despite the fact that the relationship between socioeconomic development and PM2.5 concentrations has drawn much attention from multidisciplinary scholars in recent years, the causal links between PM2.5 concentrations and energy consumption, energy intensity, economic growth, and urbanization in countries with different income levels remain poorly understood. The present study categorized countries into four panels based on their income levels, in order to investigate the casual relationship between energy consumption, energy intensity, economic growth, urbanization, and PM2.5 concentrations for the period 1998-2014. To achieve this goal, balanced panel data and econometric methods were utilized. The results revealed that cointegration relationships existed between PM2.5 concentrations and the variables studied, in all panels. Findings of a panel Granger causality test based on a Vector Error-Correction Model showed that energy consumption, energy intensity, economic growth, and urbanization led to increased PM2.5 concentrations in the long term. Economic growth was the principal variable that impacted on PM2.5 concentrations in the global panel, the high-income panel, and the upper-middle income panel. PM2.5 concentrations can, we argue, be decreased by improving energy intensity in the short term in all countries except those belonging to the low-income group. In contrast, reducing the urbanization level in the short term is not an efficient way to mitigate PM2.5 concentrations. Our findings further indicated that the energy consumption structure was the greatest factor impacting on PM2.5 concentrations in lower-middle-income and low-income countries.
+C1 [Chen, Jing; Zhou, Chunshan; Wang, Shaojian; Li, Shijie] Sun Yat Sen Univ, Sch Geog & Planning, Guangdong Prov Key Lab Urbanizat & Geosimulat, Guangzhou 510275, Guangdong, Peoples R China.
+RP Zhou, CS; Wang, SJ (reprint author), Sun Yat Sen Univ, Sch Geog & Planning, Guangdong Prov Key Lab Urbanizat & Geosimulat, Guangzhou 510275, Guangdong, Peoples R China.
+EM Zhoucs@mail.sysu.edu.cn; wangshj8@mail.sysu.edu.cn
+OI Li, Shijie/0000-0002-4387-8644
+FU National Natural Science Foundation of China [41601151]; National Social
+   Science Foundation of China [17BRK010]; Natural Science Foundation of
+   Guangdong Province [2016A030310149]; Pearl River S&T Nova Program of
+   Guangzhou [201806010187]
+FX This work was supported by the National Natural Science Foundation of
+   China (41601151), the National Social Science Foundation of China
+   (17BRK010), the Natural Science Foundation of Guangdong Province
+   (2016A030310149) and Pearl River S&T Nova Program of Guangzhou
+   (201806010187).
+CR Adewuyi AO, 2017, ENERGY, V119, P453, DOI 10.1016/j.energy.2016.12.059
+   Al-mulali U, 2013, RENEW SUST ENERG REV, V26, P42, DOI 10.1016/j.rser.2013.05.041
+   Al-mulali U, 2012, ENERGY, V46, P156, DOI 10.1016/j.energy.2012.08.043
+   [Anonymous], 2003, CHIN STAT YB, P2013
+   Asafu-Adjaye J, 2000, ENERG ECON, V22, P615, DOI 10.1016/S0140-9883(00)00050-5
+   Benetello F, 2017, ENVIRON SCI POLLUT R, V24, P2100, DOI 10.1007/s11356-016-7987-0
+   Borghetti Jeferson, 2000, MITIG ADAPT STRAT GL, V5, P297
+   Butler TM, 2008, ATMOS ENVIRON, V42, P703, DOI 10.1016/j.atmosenv.2007.09.060
+   Canning D, 2008, MANCH SCH, V76, P504, DOI 10.1111/j.1467-9957.2008.01073.x
+   Chen J, 2018, ENVIRON POLLUT, V241, P494, DOI 10.1016/j.envpol.2018.05.083
+   Cheng Z, 2016, ENVIRON INT, V89-90, P212, DOI 10.1016/j.envint.2016.02.003
+   Fallahi F, 2011, ENERGY, V36, P4165, DOI 10.1016/j.energy.2011.04.027
+   Guan D. B., 2014, ENVIRON RES LETT, V9, P1, DOI DOI 10.1088/1748-9326/9/2/024010
+   Han LJ, 2016, ENVIRON POLLUT, V208, P96, DOI 10.1016/j.envpol.2015.08.039
+   Hatzigeorgiou E, 2011, APPL ENERG, V88, P1377, DOI 10.1016/j.apenergy.2010.10.008
+   HOLTZEAKIN D, 1988, ECONOMETRICA, V56, P1371, DOI 10.2307/1913103
+   Hossain MS, 2011, ENERG POLICY, V39, P6991, DOI 10.1016/j.enpol.2011.07.042
+   Huang RJ, 2014, NATURE, V514, P218, DOI 10.1038/nature13774
+   Klimont Z, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/1/014003
+   Kukkonen J, 2018, ATMOS CHEM PHYS, V18, P8041, DOI 10.5194/acp-18-8041-2018
+   Lamsal LN, 2013, ENVIRON SCI TECHNOL, V47, P7855, DOI 10.1021/es400744g
+   Li GD, 2016, ENVIRON SCI TECHNOL, V50, P11452, DOI 10.1021/acs.est.6b02562
+   Li H, 2017, APPL ENERG, V203, P57, DOI 10.1016/j.apenergy.2017.06.002
+   Li JM, 2018, ENVIRON POLLUT, V238, P471, DOI 10.1016/j.envpol.2018.03.050
+   Li L, 2017, J IND TECHNOL EC, V287, P65
+   Lin JT, 2014, P NATL ACAD SCI USA, V111, P1736, DOI 10.1073/pnas.1312860111
+   Liu XP, 2017, LANDSCAPE URBAN PLAN, V168, P94, DOI 10.1016/j.landurbplan.2017.09.019
+   Liu XP, 2014, INT J GEOGR INF SCI, V28, P148, DOI 10.1080/13658816.2013.831097
+   Lou CR, 2016, INT J ENV RES PUB HE, V13, DOI 10.3390/ijerph13100928
+   Luo K, 2018, J ENVIRON MANAGE, V213, P47, DOI 10.1016/j.jenvman.2018.02.044
+   Lyu W, 2016, J CLEAN PROD, V133, P136, DOI 10.1016/j.jclepro.2016.04.093
+   OECD, 2014, COST AIR POLL
+   Omri A, 2013, ENERG ECON, V40, P657, DOI 10.1016/j.eneco.2013.09.003
+   Ou JM, 2017, APPL ENERG, V204, P131, DOI 10.1016/j.apenergy.2017.06.112
+   Ozturk I, 2013, ENERG ECON, V36, P262, DOI 10.1016/j.eneco.2012.08.025
+   Salameh D, 2015, ATMOS RES, V155, P102, DOI 10.1016/j.atmosres.2014.12.001
+   Shao S., 2016, EC RES, V9, P73
+   Sinha A, 2016, ATMOS POLLUT RES, V7, P647, DOI 10.1016/j.apr.2016.02.010
+   Soytas U, 2007, ECOL ECON, V62, P482, DOI 10.1016/j.ecolecon.2006.07.009
+   Squizzato S, 2012, J AEROSOL SCI, V46, P64, DOI 10.1016/j.jaerosci.2011.12.001
+   Steinbuks J, 2014, J ENVIRON ECON MANAG, V68, P340, DOI 10.1016/j.jeem.2014.07.003
+   Stone B, 2008, J ENVIRON MANAGE, V86, P688, DOI 10.1016/j.jenvman.2006.12.034
+   van Donkelaar A, 2016, ENVIRON SCI TECHNOL, V50, P3762, DOI 10.1021/acs.est.5b05833
+   van Donkelaar A, 2015, ENVIRON HEALTH PERSP, V123, P135, DOI 10.1289/ehp.1408646
+   Wang SJ, 2018, RENEW SUST ENERG REV, V81, P2144, DOI 10.1016/j.rser.2017.06.025
+   Wang SJ, 2017, APPL ENERG, V200, P204, DOI 10.1016/j.apenergy.2017.05.085
+   Wang SJ, 2017, J CLEAN PROD, V142, P1800, DOI 10.1016/j.jclepro.2016.11.104
+   Wang SJ, 2017, APPL ENERG, V185, P189, DOI 10.1016/j.apenergy.2016.10.052
+   Wang S, 2016, RENEW SUST ENERG REV, V55, P505, DOI 10.1016/j.rser.2015.10.140
+   Wang SJ, 2014, APPL ENERG, V136, P738, DOI 10.1016/j.apenergy.2014.09.059
+   Wang ZB, 2016, CHEMOSPHERE, V148, P148, DOI 10.1016/j.chemosphere.2015.12.118
+   WHO, 2014, AMB OUTD AIR QUAL HL
+   Xu SC, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9101742
+   Yang DY, 2018, ATMOS ENVIRON, V182, P171, DOI 10.1016/j.atmosenv.2018.03.053
+   Yang X, 2016, APPL ENERG, V184, P714, DOI 10.1016/j.apenergy.2016.11.013
+   York R, 2007, SOC SCI RES, V36, P855, DOI 10.1016/j.ssresearch.2006.06.007
+   Yu GS, 2009, J CENTRAL U FINANCE, V11, P73
+   Yuan JH, 2008, ENERG ECON, V30, P3077, DOI 10.1016/j.eneco.2008.03.007
+   Zaman K, 2017, RENEW SUST ENERG REV, V74, P1119, DOI 10.1016/j.rser.2017.02.072
+   Zhang SH, 2016, APPL ENERG, V184, P574, DOI 10.1016/j.apenergy.2016.10.030
+   Zhou CS, 2018, SCI TOTAL ENVIRON, V619, P436, DOI 10.1016/j.scitotenv.2017.11.124
+NR 61
+TC 1
+Z9 1
+U1 34
+U2 34
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD NOV 15
+PY 2018
+VL 230
+BP 94
+EP 105
+DI 10.1016/j.apenergy.2018.08.089
+PG 12
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA GY0QL
+UT WOS:000448226600009
+DA 2019-03-26
+ER
+
+PT J
+AU Parvez, IA
+   Nekrasova, A
+   Kossobokov, V
+AF Parvez, Imtiyaz A.
+   Nekrasova, Anastasia
+   Kossobokov, Vladimir
+TI Seismic hazard and risk assessment based on Unified Scaling Law for
+   Earthquakes: thirteen principal urban agglomerations of India
+SO NATURAL HAZARDS
+LA English
+DT Article
+DE Neo-deterministic seismic hazard assessment (NDSHA); Unified Scaling Law
+   for Earthquakes (USLE); Earthquake risk; Population density; PGA and
+   vulnerability
+ID PROBABILISTIC ASSESSMENT; ADJACENT AREAS; REGIONS; MAP; PENINSULA;
+   SCENARIOS
+AB The deterministic seismic hazard map of India with spatially distributed peak ground acceleration was used to estimate seismic risk using two data sets of the Indian population-the model population data set and the data set based on India's Census 2011. Four series of the earthquake risk maps of the region based on these two population density sets were cross-compared. The discrepancy of the population data and seismic risks estimation were illuminated for the thirteen principal urban agglomerations of India. The confirmed fractal nature of earthquakes and their distribution in space implies that traditional probabilistic estimations of seismic hazard and risks of cities and urban agglomerations are usually underestimated. The evident patterns of distributed seismic activity follow the Unified Scaling Law for Earthquakes, USLE, which generalizes Gutenberg-Richter recurrence relation. The results of the systematic global analysis imply that the occurrence of earthquakes in a region is characterized with USLE: log(10) N (M, L) = A + B x (5 - M) + C x log(10) L, where N(M, L)-expected annual number of earthquakes of magnitude M within an area of liner size L, A determines seismic static rate, B-balance between magnitude ranges, and C-fractal dimension of seismic loci. We apply the seismic hazard and risk assessment methodology developed recently based on USLE, pattern recognition of earthquake-prone geomorphic nodes, and neo-deterministic scenarios of destructive ground shaking. Objects of risk are individuals (1) as reported in the 2011 National Census data and (2) as predicted for 2010 by Gridded Population of the World (model GPWv3); vulnerability depends nonlinearly on population density. The resulting maps of seismic hazard and different risk estimates based on population density are cross-compared. To avoid misleading interpretations, we emphasize that risk estimates presented here for academic purposes only. In the matter of fact, they confirm that estimations addressing more realistic and practical kinds of seismic risks should involve experts in distribution of objects of risk of different vulnerability, i.e., specialists in earthquake engineering, social sciences, and economics.
+C1 [Parvez, Imtiyaz A.] CSIR, Paradigm Inst 4, CSIR C MMACS, Bangalore, Karnataka, India.
+   [Nekrasova, Anastasia; Kossobokov, Vladimir] RAS, Inst Earthquake Predict Theory & Math Geophys, Moscow, Russia.
+   [Kossobokov, Vladimir] Inst Phys Globe Paris, Paris, France.
+   [Kossobokov, Vladimir] ISSO, Arsita, Italy.
+RP Parvez, IA (reprint author), CSIR, Paradigm Inst 4, CSIR C MMACS, Bangalore, Karnataka, India.
+EM parvez@csir4pi.in
+RI Kossobokov, Vladimir/U-7543-2017
+OI Kossobokov, Vladimir/0000-0002-3505-7803
+FU Department of Science and Technology, Government of India
+   [INT/RFBR/P-176]; Russian Foundation for Basic Research [14-05-92691,
+   15-55-45005]
+FX The authors acknowledge the financial support from the Department of
+   Science and Technology, Government of India and Russian Foundation for
+   Basic Research (Grants: DST No. INT/RFBR/P-176 and RFBR No. 14-05-92691,
+   15-55-45005).
+CR Bak P, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.178501
+   Bhatia SC, 1999, ANN GEOFIS, V42, P1153
+   Gaur VK, 1968, B INDIAN SOC EARTH T, V5, P63
+   GUHA SK, 1962, P 2 S EARTHQ ENG ROO, P191
+   Haldar P, 2013, SOIL DYN EARTHQ ENG, V48, P267, DOI 10.1016/j.soildyn.2013.01.016
+   Kaila KL, 1979, GEOPHYS RES B, V17, P293
+   Keilis-Borok VI, 1989, VYCHISLITELNAYA SEIS, V22, P28
+   KHATTRI KN, 1984, TECTONOPHYSICS, V108, P93, DOI 10.1016/0040-1951(84)90156-2
+   Kossobokov VG, 1994, COMPUTATIONAL SEISMO, V1, P6
+   Lang DH, 2012, EARTHQ SPECTRA, V28, P595, DOI 10.1193/1.4000004
+   Lyubushin AA, 2010, NAT HAZARDS, V55, P543, DOI 10.1007/s11069-010-9546-1
+   Nath SK, 2014, NAT HAZARD EARTH SYS, V4, P3015
+   Nekrasova A, 2015, ACTA GEOD GEOPHYS, V50, P21, DOI 10.1007/s40328-014-0082-4
+   Panza G, 2011, PURE APPL GEOPHYS, V168
+   Panza G. F., 2013, ENCY LIFE SUPPORT SY
+   Panza GE, 2001, ADV GEOPHYS, V43, P1
+   Panza GF, 2012, ADV GEOPHYS, V53, P93, DOI 10.1016/B978-0-12-380938-4.00003-3
+   Parvez IA, 1997, PURE APPL GEOPHYS, V149, P731, DOI 10.1007/s000240050049
+   Parvez IA, 1999, PURE APPL GEOPHYS, V154, P23, DOI 10.1007/s000240050219
+   Parvez IA, 2003, GEOPHYS J INT, V155, P489, DOI 10.1046/j.1365-246X.2003.02052.x
+   Parvez IA, 2007, NAT HAZARDS, V40, P397, DOI 10.1007/s11069-006-9002-4
+   Parvez IA, 2017, J SEISMOL, V21, P1559, DOI 10.1007/s10950-017-9682-0
+   Parvez IA, 2017, PURE APPL GEOPHYS, V174, P1441, DOI 10.1007/s00024-017-1475-4
+   Parvez IA, 2014, NAT HAZARDS, V71, P549, DOI 10.1007/s11069-013-0926-1
+   Prasad JSR, 2009, EARTHQ SPECTRA, V25, P619, DOI 10.1193/1.3158547
+   Wyss M, 2012, NAT HAZARDS, V62, P927, DOI 10.1007/s11069-012-0125-5
+NR 26
+TC 1
+Z9 1
+U1 1
+U2 14
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0921-030X
+EI 1573-0840
+J9 NAT HAZARDS
+JI Nat. Hazards
+PD JUL
+PY 2018
+VL 92
+IS 3
+BP 1509
+EP 1522
+DI 10.1007/s11069-018-3261-8
+PG 14
+WC Geosciences, Multidisciplinary; Meteorology & Atmospheric Sciences;
+   Water Resources
+SC Geology; Meteorology & Atmospheric Sciences; Water Resources
+GA GH8JD
+UT WOS:000433913500012
+DA 2019-03-26
+ER
+
+PT S
+AU Rahmoun, T
+   Zhao, W
+   Hammad, M
+   Hassan, M
+AF Rahmoun, T.
+   Zhao, W.
+   Hammad, M.
+   Hassan, M.
+GP IOP
+TI Ruralization vs. Urbanization Sprawl as Guiding Regional Planning:
+   Development Scenario for Rivers Watershed in the Southern Syrian Coastal
+   Region
+SO 9TH INTERNATIONAL CONFERENCE ON ENVIRONMENTAL SCIENCE AND DEVELOPMENT
+   (ICESD 2018)
+SE IOP Conference Series-Earth and Environmental Science
+LA English
+DT Proceedings Paper
+CT 9th International Conference on Environmental Science and Development
+   (ICESD)
+CY FEB 07-09, 2018
+CL Paris, FRANCE
+ID DYNAMICS
+AB This study aimed at opening discussions concerning new ideas of suggesting sustainable scenario based on the principle of an integrated spatial development ring between urban-rural areas along and between AL-Abrash and AL- Hseen rivers watershed, as an application of the bottom-up planning model, seeking to achieve ruralization in parallel with urbanization. This paper adopted data collections and analysis through using a step-by-step approach Firstly, investigated the land-cover change (LCC) during 30-years. Therefore, using multi-temporal satellite data from different dates for the same study area to create thematic land cover maps which can be used for land cover change detection. Three Landsat satellite images from 1987, 2002 and 2017 were classified separately using the supervised classification method in ArcGIS, to provide an economical way to quantify, map and analyse changes over time in land cover. Then, SWOT analysis for the possibilities and determinants within the two-way flow of the current and futuristic economic activity, besides discussion the opportunities of the land-use (LU) taking into account slop map to achieve conservation priority for natural resources. Finally, evaluate results and establishing a sustainable spatial scenario approachable to upgrade into scaling up/out to covering the coastal region watersheds, can support regional planning and decision-making in the future.
+C1 [Rahmoun, T.; Zhao, W.; Hassan, M.] Chongqing Univ, Fac Architecture & Urban Planning, Chongqing, Peoples R China.
+   [Hammad, M.] Szeged Univ, Dept Phys Geog & Geoinformat, Szeged, Hungary.
+   [Rahmoun, T.] Tishreen Univ, Fac Architectural Engn, Latakia, Syria.
+RP Rahmoun, T (reprint author), Chongqing Univ, Fac Architecture & Urban Planning, Chongqing, Peoples R China.; Rahmoun, T (reprint author), Tishreen Univ, Fac Architectural Engn, Latakia, Syria.
+EM tarek.rahmoun@qq.com
+OI Hassan, Maya/0000-0002-8350-6634
+FU Chongqing University
+FX The authors acknowledge the financial support of Chongqing University.
+   We are also immensely grateful to Tartous governor Mr. Safwan Abu Saada
+   for interviews and administrative support. In addition, to Eng. Hassan
+   AL-Abbas, Regional Planning Directorate, Tartous.
+CR Akkoyunlu S., 2015, INT J SUST DEV WORLD, V4, P20
+   Baker J. L., 2007, DHAKA IMPROVING LIVI
+   BLACK PE, 1991, WATERSHED HYDROLOGY
+   Blacka A. E., 2009, AGRI TOURISM
+   Goettle A., 2002, P ENV DOC BERN
+   Greminger P., 2003, MOUNTAIN WATERSHED M
+   Jiang L, 2013, LAND USE POLICY, V35, P33, DOI 10.1016/j.landusepol.2013.04.011
+   Liu YX, 2015, REMOTE SENS-BASEL, V7, P2067, DOI 10.3390/rs70202067
+   Madurapperuma B., 2015, International Journal of Geomatics and Geosciences, V5, P416
+   Martin KL, 2017, ECOHYDROLOGY, V10, DOI 10.1002/eco.1870
+   Nyerges T, 2016, SUSTAIN CITIES SOC, V25, P13, DOI 10.1016/j.scs.2016.04.016
+   Pandey B, 2013, INT J APPL EARTH OBS, V23, P49, DOI 10.1016/j.jag.2012.11.005
+   Panigrahi B., 2017, MODELING METHODS PRA, P220
+   Rahmoun T., 2017, URBAN PLANNING ARCHI
+   Samoudi Y., 2015, AL WAHDA NEWSPA 1230
+   Sarma S, 2012, J INDIAN SOC REMOTE, V40, P435, DOI 10.1007/s12524-011-0163-6
+   Shafiq M. U., 2016, INT RES J ENG TECHNO, V3, P2799
+   Sheng T. C., 2016, GUIDE PAPERS TC SH 1
+   Sidawi W., 2011, REPORT 1 PHASE REGIO
+   Wattenbach H., 2006, GCPSYR006ITA FAO NAP
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1755-1307
+J9 IOP C SER EARTH ENV
+JI IOP Conf. Ser. Earth Envir. Sci.
+PY 2018
+VL 151
+AR UNSP 012033
+DI 10.1088/1755-1315/151/1/012033
+PG 11
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA BL0XX
+UT WOS:000446891200033
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Tahvonen, O
+   Airaksinen, M
+AF Tahvonen, Outi
+   Airaksinen, Miimu
+TI Low-density housing in sustainable urban planning - Scaling down to
+   private gardens by using the green infrastructure concept
+SO LAND USE POLICY
+LA English
+DT Article
+DE Sustainable cities; Densification; Green infrastructure;
+   Multifucntionality; Low density housing; Private gardens; Scaling up
+ID DOMESTIC GARDENS; ECOSYSTEM SERVICES; LANDSCAPE SUSTAINABILITY;
+   BIODIVERSITY; CITIES; ECOLOGY; FRAMEWORK; IMPACT; PLANT; RESILIENCE
+AB Using green infrastructure (GI) concept, urban green spaces in the form of combined private and public green areas with planned and unplanned vegetation, have been recognized as a key element in sustainable solutions for urban communities. For cities, GI provides ecological, social, cultural, technical, and economic functions that also comprise low-density housing (LDH) and its private gardens. LDH can be considered a landscape's ecological matrix that serves as a multifunctional platform for garden-related sociocultural and economic functions. It is composed of technical solutions and processes that reorganize themselves according to residents' ongoing choices. However, the paradigm of sustainable cities argues for the efficient use of space, and LDH may be an inviting area for densification. Infill in LDH increases the number of residents but decreases the space for gardens. Urban planners need to be aware of the potential role of LDH gardens in GI and the pillars of sustainability. This study concentrates on LDH and its gardens in scaling-up approach. First, it reviews some recent studies on domestic private gardens under the pillars of sustainable development and proposes a checklist of sustainable garden characteristics to used by land-use planners. Then it considers possible ways to maintain the multi functionality of LDH when scaling up to blocks and neighbourhoods.
+C1 [Tahvonen, Outi] Aalto Univ, Dept Architecture, Landscape Architecture, Miestentie 3, Espoo 02150, Finland.
+   [Airaksinen, Miimu] VTT Tech Res Ctr Finland, Espoo, Finland.
+RP Tahvonen, O (reprint author), Aalto Univ, Dept Architecture, Landscape Architecture, Miestentie 3, Espoo 02150, Finland.
+EM outi.tahvonen@aalto.fi; miimu.airaksinen@vtt.fi
+OI Tahvonen, Outi/0000-0002-4482-0356
+FU Rikala Foundation
+FX Thanks to professor Raine Mantysalo for consistent support in the
+   writing process. This research received funding from the Rikala
+   Foundation.
+CR Ahern J, 2014, LANDSCAPE URBAN PLAN, V125, P254, DOI 10.1016/j.landurbplan.2014.01.020
+   Ahern J, 2013, LANDSCAPE ECOL, V28, P1203, DOI 10.1007/s10980-012-9799-z
+   Ahern J, 2011, LANDSCAPE URBAN PLAN, V100, P341, DOI 10.1016/j.landurbplan.2011.02.021
+   Arnberger A, 2012, SUSTAINABILITY-BASEL, V4, P703, DOI 10.3390/su4040703
+   Arnold CL, 1996, J AM PLANN ASSOC, V62, P243, DOI 10.1080/01944369608975688
+   Behe B., 2005, Journal of Environmental Horticulture, V23, P127
+   Beumer C, 2015, SUSTAIN SCI, V10, P87, DOI 10.1007/s11625-014-0270-8
+   Blicharska M, 2017, ECOSYST SERV, V23, P55, DOI 10.1016/j.ecoser.2016.11.014
+   Byrne Loren B., 2007, Urban Ecosystems, V10, P255, DOI 10.1007/s11252-007-0027-6
+   Cameron RWF, 2012, URBAN FOR URBAN GREE, V11, P129, DOI 10.1016/j.ufug.2012.01.002
+   Campbell S, 1996, J AM PLANN ASSOC, V62, P296, DOI 10.1080/01944369608975696
+   Clayton S, 2007, J ENVIRON PSYCHOL, V27, P215, DOI 10.1016/j.jenvp.2007.06.001
+   Colding J, 2007, LANDSCAPE URBAN PLAN, V81, P46, DOI 10.1016/j.landurbplan.2006.10.016
+   Cook EM, 2012, URBAN ECOSYST, V15, P19, DOI 10.1007/s11252-011-0197-0
+   Davies ZG, 2009, BIOL CONSERV, V142, P761, DOI 10.1016/j.biocon.2008.12.016
+   Des Rosiers F., 2002, J REAL ESTATE RES, V23, P139
+   Dewaelheyns V, 2014, APPL GEOGR, V50, P132, DOI 10.1016/j.apgeog.2014.02.011
+   Dietz ME, 2007, WATER AIR SOIL POLL, V186, P351, DOI 10.1007/s11270-007-9484-z
+   Dunnett N, 2000, HORT TECHNOL, V10, P40
+   Forman R.T.T., 1986, LANDSCAPE ECOLOGY
+   Forman R. T. T., 1995, LAND MOSAICS ECOLOGY
+   Francis R.A, 2013, URBAN ECOSYSTEMS UND
+   Freeman C, 2012, J ENVIRON PSYCHOL, V32, P135, DOI 10.1016/j.jenvp.2012.01.005
+   Gallent N, 2006, PLANNING EDGE CONTEX
+   Gaston KJ, 2005, BIODIVERS CONSERV, V14, P3327, DOI 10.1007/s10531-004-9513-9
+   Ghosh S, 2009, AUST GEOGR, V40, P319, DOI 10.1080/00049180903127754
+   Gill S.E., 2007, BUILT ENV, V33, P115, DOI DOI 10.2148/BENV.33.1.115
+   Goddard M. A., 2016, ECOLOGY CONSERVATION
+   Goddard MA, 2010, TRENDS ECOL EVOL, V25, P90, DOI 10.1016/j.tree.2009.07.016
+   Gonzalez-Garcia A, 2008, HUM ECOL, V36, P291, DOI 10.1007/s10745-007-9155-0
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Hall T., 2007, 13 URB RES PROGR
+   Ignatieva M, 2011, LANDSC ECOL ENG, V7, P17, DOI 10.1007/s11355-010-0143-y
+   Kabisch N, 2013, LANDSCAPE URBAN PLAN, V110, P113, DOI 10.1016/j.landurbplan.2012.10.017
+   Kaplan R., 1990, MEANING GARDENS
+   Kellett J, 2011, TOWN PLAN REV, V82, P263, DOI 10.3828/tpr.2011.17
+   Leitao AB, 2002, LANDSCAPE URBAN PLAN, V59, P65, DOI 10.1016/S0169-2046(02)00005-1
+   Lindholm G, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9040610
+   Loram A, 2008, ENVIRON MANAGE, V42, P361, DOI 10.1007/s00267-008-9097-3
+   Loram A, 2007, LANDSCAPE ECOL, V22, P601, DOI 10.1007/s10980-006-9051-9
+   Lovell ST, 2013, LANDSCAPE ECOL, V28, P1447, DOI 10.1007/s10980-013-9912-y
+   Manson SM, 2001, GEOFORUM, V32, P405, DOI 10.1016/S0016-7185(00)00035-X
+   Marris E., 2011, RAMBUNCTIOUS GARDEN
+   Mathieu R, 2007, LANDSCAPE URBAN PLAN, V81, P179, DOI 10.1016/j.landurbplan.2006.11.009
+   Matlock M., 2011, ECOLOGICAL ENG DESIG
+   McGarigal K, 2002, ECOL APPL, V12, P335, DOI 10.1890/1051-0761(2002)012[0335:CEOEAT]2.0.CO;2
+   MELL I.C., 2008, P I CIVIL ENG-ENG SU, V162, P23
+   Nassauer JI, 2014, LANDSCAPE URBAN PLAN, V129, P55, DOI 10.1016/j.landurbplan.2014.05.007
+   Nassauer JI, 2009, LANDSCAPE URBAN PLAN, V92, P282, DOI 10.1016/j.landurbplan.2009.05.010
+   NAVEH Z, 1995, LANDSCAPE URBAN PLAN, V32, P43, DOI 10.1016/0169-2046(94)00183-4
+   Penteado HM, 2013, LANDSCAPE ECOL, V28, P1909, DOI 10.1007/s10980-013-9940-7
+   Perry T., 2008, LANDSCAPE URBAN PLAN, V86, P13
+   Sander HA, 2015, LAND USE POLICY, V42, P194, DOI 10.1016/j.landusepol.2014.07.021
+   Sijtsma FJ, 2012, LANDSCAPE URBAN PLAN, V105, P250, DOI 10.1016/j.landurbplan.2011.12.021
+   Smith C, 2009, J URBAN DES, V14, P163, DOI 10.1080/13574800802670978
+   Smith RM, 2006, BIOL CONSERV, V129, P312, DOI 10.1016/j.biocon.2005.10.045
+   Smith RM, 2005, LANDSCAPE ECOL, V20, P235, DOI 10.1007/s10980-004-3160-0
+   Stahle A, 2010, URBAN DES INT, V15, P47, DOI 10.1057/udi.2009.27
+   Stone B, 2004, LANDSCAPE URBAN PLAN, V69, P101, DOI 10.1016/j.landurbplan.2003.10.028
+   Strandell A, 2015, LANDSCAPE URBAN PLAN, V133, P12, DOI 10.1016/j.landurbplan.2014.09.011
+   Termorshuizen JW, 2007, LANDSCAPE URBAN PLAN, V79, P374, DOI 10.1016/j.landurbplan.2006.04.005
+   Thompson K, 2003, J VEG SCI, V14, P71, DOI 10.1658/1100-9233(2003)014[0071:UDGIPS]2.0.CO;2
+   Tratalos J, 2007, LANDSCAPE URBAN PLAN, V83, P308, DOI 10.1016/j.landurbplan.2007.05.003
+   Uggla Y, 2012, TOWN PLAN REV, V83, P69, DOI 10.3828/tpr.2012.4
+   United Nations, 2015, WORLD URB PROSP 2014
+   van Heezik Y, 2013, ECOSYSTEMS, V16, P1442, DOI 10.1007/s10021-013-9694-8
+   Verbeeck K, 2011, LANDSCAPE URBAN PLAN, V100, P57, DOI 10.1016/j.landurbplan.2010.09.007
+   Werner P, 2011, LANDSC ECOL ENG, V7, P231, DOI 10.1007/s11355-011-0153-4
+   Wu JG, 2013, LANDSCAPE ECOL, V28, P999, DOI 10.1007/s10980-013-9894-9
+   Young C., 2009, LANDSCAPE ECOLOGY RE
+   Zhang F, 2015, J HYDROL, V522, P317, DOI 10.1016/j.jhydrol.2014.12.048
+   Zmyslony J, 1998, LANDSCAPE URBAN PLAN, V40, P295, DOI 10.1016/S0169-2046(97)00090-X
+NR 72
+TC 1
+Z9 1
+U1 7
+U2 13
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-8377
+EI 1873-5754
+J9 LAND USE POLICY
+JI Land Use Pol.
+PD JUN
+PY 2018
+VL 75
+BP 478
+EP 485
+DI 10.1016/j.landusepol.2018.04.017
+PG 8
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA GI2ZB
+UT WOS:000434239300045
+DA 2019-03-26
+ER

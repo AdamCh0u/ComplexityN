@@ -1,0 +1,580 @@
+
+PT J
+AU Leung, KK
+   Liu, CH
+   Wong, CCC
+   Lo, JCY
+   Ng, GCT
+AF Leung, Ka Kit
+   Liu, Chun-Ho
+   Wong, Colman C. C.
+   Lo, Johnny C. Y.
+   Ng, George C. T.
+TI On the study of ventilation and pollutant removal over idealized
+   two-dimensional urban street canyons
+SO BUILDING SIMULATION
+LA English
+DT Article
+DE computational fluid dynamics (CFD); pollutant removal indicator; scaling
+   effects; street canyons; urban air quality; wind tunnel measurements
+ID LARGE-EDDY SIMULATION; WIND-TUNNEL; MASS-TRANSFER; EXCHANGE-RATES; CUBE
+   ARRAYS; DISPERSION; FLOW; AIR; BUILDINGS; ENVIRONMENT
+AB Ventilation and pollutant transport in urban areas are major research problems nowadays due to the large number of urban inhabitants. However, our understanding of the street-level transport processes is rather limited because of the highly complicated urban morphology. This paper is thus conceived, using both laboratory wind tunnel measurements and computational fluid dynamics (CFD), to examine the pollutant transport behaviors from the ground level of idealized two-dimensional (2D) urban street canyons to the urban atmospheric boundary layer (ABL). Movable rectangular aluminum blocks are placed in the wind tunnel in cross-flow to construct street canyons of different building-height-to-street-width (aspect) ratios. The wind tunnel and CFD results complement each other to elucidate the pollutant removal mechanism that is in line with other results available in literature. From the experimental results obtained in this study, noticeable scaling effects are observed in the mass transfer behaviors even the flows have fulfilled kinematic similarity. Under this circumstance, a new indicator for pollutant removal, the scaled overall pollutant removal coefficient, is formulated for the assessment of pollutant removal performance. The accuracy of the new indicator is compared with our CFD results that shows an improved agreement. The newly proposed indicator could be used to account for the scaling effects occurred in laboratory experiments at finite Reynolds number (10(3) to 10(5) in this study) for comparison of pollutant removal performance in a more reasonable manner.
+C1 [Leung, Ka Kit; Liu, Chun-Ho; Wong, Colman C. C.; Lo, Johnny C. Y.; Ng, George C. T.] Univ Hong Kong, Dept Mech Engn, Hong Kong, Hong Kong, Peoples R China.
+RP Liu, CH (reprint author), Univ Hong Kong, Dept Mech Engn, Pokfulam Rd, Hong Kong, Hong Kong, Peoples R China.
+EM liuchunho@graduate.hku.hk
+FU General Research Fund of the Hong Kong Research Grants Council [HKU
+   715209]
+FX This project was partly supported by the General Research Fund of the
+   Hong Kong Research Grants Council HKU 715209. The comment from the two
+   anonymous reviewers is appreciated.
+CR BAETKE F, 1990, J WIND ENG IND AEROD, V35, P129, DOI 10.1016/0167-6105(90)90193-G
+   Barlow JF, 2004, BOUND-LAY METEOROL, V113, P369
+   Barlow JF, 2002, BOUND-LAY METEOROL, V104, P131, DOI 10.1023/A:1015555613672
+   Barratt R., 2001, ATMOSPHERIC DISPERSI
+   Belcher SE, 2005, PHILOS T R SOC A, V363, P2947, DOI 10.1098/rsta.2005.1673
+   Blocken B, 2008, J WIND ENG IND AEROD, V96, P1817, DOI 10.1016/j.jweia.2008.02.049
+   Blocken B, 2009, J WIND ENG IND AEROD, V97, P255, DOI 10.1016/j.jweia.2009.06.007
+   Brown MJ, 2000, 11 JOINT AMS AWMA C
+   Buccolieri R, 2010, ATMOS ENVIRON, V44, P1894, DOI 10.1016/j.atmosenv.2010.02.022
+   Cheng H, 2007, J WIND ENG IND AEROD, V95, P715, DOI 10.1016/j.jweia.2007.01.004
+   Cheng WC, 2008, ATMOS ENVIRON, V42, P9041, DOI 10.1016/j.atmosenv.2008.09.045
+   Chung TNH, 2010, W PAC GEOPH M TAIP C
+   FACKRELL JE, 1984, J WIND ENG IND AEROD, V16, P97, DOI 10.1016/0167-6105(84)90051-5
+   FLUENT, 2011, FLUENT
+   Goff JA, 1946, 52 ANN M AM SOC HEAT, P95
+   GOLDSTEIN RJ, 1995, EXP THERM FLUID SCI, V10, P416, DOI 10.1016/0894-1777(94)00071-F
+   Gomes MSDP, 2007, ATMOS ENVIRON, V41, P4949, DOI 10.1016/j.atmosenv.2007.01.051
+   Hagishima A, 2005, BOUND-LAY METEOROL, V117, P551, DOI 10.1007/s10546-005-2078-7
+   Hang J, 2012, SCI TOTAL ENVIRON, V416, P362, DOI 10.1016/j.scitotenv.2011.12.016
+   Hoydysh W, 1988, ATMOS ENVIRON, V22, P677
+   Huang YD, 2009, BUILD ENVIRON, V44, P2335, DOI 10.1016/j.buildenv.2009.03.024
+   HUMPHRIES W, 1976, J FLUID MECH, V73, P453, DOI 10.1017/S0022112076001456
+   Incropera FP, 1996, FUNDAMENTALS HEAT MA
+   JARRETT EL, 1967, AICHE J, V13, P797, DOI 10.1002/aic.690130438
+   Kanda M, 2004, BOUND-LAY METEOROL, V112, P343, DOI 10.1023/B:BOUN.0000027909.40439.7c
+   Li XX, 2005, ATMOS ENVIRON, V39, P7285, DOI 10.1016/j.atmosenv.2005.09.007
+   Liu CH, 2005, ATMOS ENVIRON, V39, P1567, DOI 10.1016/j.atmosenv.2004.08.036
+   Liu CH, 2011, ATMOS ENVIRON, V45, P4763, DOI 10.1016/j.atmosenv.2010.03.015
+   Narita KI, 2007, BOUND-LAY METEOROL, V122, P293, DOI 10.1007/s10546-006-9116-y
+   Neophytou M., 2005, P 5 GRACM INT C COMP
+   OKE TR, 1988, ENERG BUILDINGS, V11, P103, DOI 10.1016/0378-7788(88)90026-6
+   Pavageau M, 1999, ATMOS ENVIRON, V33, P3961, DOI 10.1016/S1352-2310(99)00138-7
+   Richmond-Bryant J, 2012, ATMOS ENVIRON, V49, P24, DOI 10.1016/j.atmosenv.2011.12.036
+   Schatzmann M, 2010, COST ACTION 732 QUAL
+   So ESP, 2005, ATMOS ENVIRON, V39, P3573, DOI 10.1016/j.atmosenv.2005.02.044
+   Tominaga Y, 2008, J WIND ENG IND AEROD, V96, P1749, DOI 10.1016/j.jweia.2008.02.058
+   Xie X., 2006, BUILD ENVIRON, V41, P1352
+   Yakhot V., 1986, PHYS REV LETT, V57, P6396
+   Yao RM, 2011, BUILD ENVIRON, V46, P253, DOI 10.1016/j.buildenv.2010.07.019
+   Yassin MF, 2005, J WIND ENG IND AEROD, V93, P361, DOI 10.1016/j.jweia.2005.02.005
+NR 40
+TC 10
+Z9 14
+U1 2
+U2 22
+PU TSINGHUA UNIV PRESS
+PI BEIJING
+PA TSINGHUA UNIV, RM A703, XUEYAN BLDG, BEIJING, 10084, PEOPLES R CHINA
+SN 1996-3599
+J9 BUILD SIMUL-CHINA
+JI Build. Simul.
+PD DEC
+PY 2012
+VL 5
+IS 4
+BP 359
+EP 369
+DI 10.1007/s12273-012-0085-4
+PG 11
+WC Thermodynamics; Construction & Building Technology
+SC Thermodynamics; Construction & Building Technology
+GA 988TY
+UT WOS:000307514800007
+DA 2019-03-26
+ER
+
+PT J
+AU Penuel, WR
+   Fishman, BJ
+AF Penuel, William R.
+   Fishman, Barry J.
+TI Large-scale science education intervention research we can use
+SO JOURNAL OF RESEARCH IN SCIENCE TEACHING
+LA English
+DT Article
+DE evaluation and theory; policy; science education; standards;
+   implementation
+ID INQUIRY-BASED SCIENCE; PROFESSIONAL-DEVELOPMENT; SYSTEMIC REFORM;
+   MATHEMATICS EDUCATION; CURRICULUM MATERIALS; PREPARING TEACHERS; SCHOOL
+   LEADERSHIP; URBAN-SCHOOLS; INSTRUCTION; STUDENTS
+AB This article develops an argument that the type of intervention research most useful for improving science teaching and learning and leading to scalable interventions includes both research to develop and gather evidence of the efficacy of innovations and a different kind of research, design-based implementation research (DBIR). DBIR in education focuses on what is required to bring interventions and knowledge about learning to all students, wherever they might engage in science learning. This research focuses on implementation, both in the development and initial testing of interventions and in the scaling up process. In contrast to traditional intervention research that focuses principally on one level of educational systems, DBIR designs and tests interventions that cross levels and settings of learning, with the aim of investigating and improving the effective implementation of interventions. The article concludes by outlining four areas of DBIR that may improve the likelihood that new standards for science education will achieve their intended purpose of establishing an effective, equitable, and coherent system of opportunities for science learning in the United States. (c) 2012 Wiley Periodicals, Inc. J Res Sci Teach 49: 281304, 2012
+C1 [Penuel, William R.] Univ Colorado, Boulder, CO 80309 USA.
+   [Fishman, Barry J.] Univ Michigan, Ann Arbor, MI 48109 USA.
+RP Penuel, WR (reprint author), Univ Colorado, Boulder, CO 80309 USA.
+EM william.penuel@colorado.edu
+OI Penuel, William R./0000-0001-7096-6669
+CR Aguiar OG, 2010, J RES SCI TEACH, V47, P174, DOI 10.1002/tea.20315
+   American Association for the Advancement of Science, 1993, BENCHM SCI LIT
+   Ares N, 2010, NATL SOC STUDY ED YB, V109, P192
+   Ballenger C., 2009, PUZZLING MOMENTS TEA
+   Bang M, 2007, P NATL ACAD SCI USA, V104, P13868, DOI 10.1073/pnas.0706627104
+   Bang M, 2010, SCI EDUC, V94, P1008, DOI 10.1002/sce.20392
+   Barton AC, 2009, J RES SCI TEACH, V46, P50, DOI 10.1002/tea.20269
+   Bessell A. G., 2010, FIELD METHOD, V20, P283
+   Beyer H., 1997, CONTEXTUAL DESIGN CU
+   Blumenfeld P, 2000, EDUC PSYCHOL, V35, P149, DOI 10.1207/S15326985EP3503_2
+   Borman G., 2008, J RES EDUC EFF, V1, P237, DOI DOI 10.1080/19345740802328273
+   Bryk A. S., 2008, FUTURE ED ENTREPRENE, P181
+   Bryk AS, 2009, PHI DELTA KAPPAN, V90, P597, DOI 10.1177/003172170909000815
+   Buckley BC, 2004, J SCI EDUC TECHNOL, V13, P23, DOI DOI 10.1023/B:J0ST.0000019636.06814.E3
+   Carlone HB, 2004, J RES SCI TEACH, V41, P392, DOI 10.1002/tea.20006
+   Carlone HB, 2011, J RES SCI TEACH, V48, P459, DOI 10.1002/tea.20413
+   Chin C, 2010, J RES SCI TEACH, V47, P883, DOI 10.1002/tea.20385
+   Cobb P., 2003, ED RES, V32, P9, DOI DOI 10.3102/0013189X032001009
+   Cochrane Collaboration, 2005, J CONTIN EDUC HEALTH, V21, P187
+   Confrey J, 2000, EDUC PSYCHOL, V35, P179, DOI 10.1207/S15326985EP3503_4
+   Cooper CR, 1999, FUTURE CHILD, V9, P51, DOI 10.2307/1602705
+   Corcoran T., 2009, RR63 CPRE
+   Cordray D. S., 2006, STRENGTHENING RES ME, P103, DOI DOI 10.1037/11384-006
+   Desimone LM, 2002, EDUC EVAL POLICY AN, V24, P81, DOI 10.3102/01623737024002081
+   Donovan S., 2003, STRATEGIC ED RES PAR
+   Drake C, 2006, CURRICULUM INQ, V36, P153, DOI 10.1111/j.1467-873X.2006.00351.x
+   Dynarski M, 2008, EDUC RESEARCHER, V37, P27, DOI 10.3102/0013189X08315011
+   Fishman BJ, 2003, TEACH TEACH EDUC, V19, P643, DOI 10.1016/S0742-051X(03)00059-3
+   Fishman BJ, 2003, SCI EDUC, V87, P564, DOI 10.1002/sce.10088
+   Flay BR, 2005, PREV SCI, V6, P151, DOI 10.1007/s11121-005-5553-y
+   Gallas K, 1995, TALKING THEIR WAY SC
+   Garet MS, 2001, AM EDUC RES J, V38, P915, DOI 10.3102/00028312038004915
+   Gee J. P., 2000, WHAT COUNTS LITERACY, P118
+   Gee J. P., 2004, CROSSING BORDERS LIT, P10
+   Geier R, 2008, J RES SCI TEACH, V45, P922, DOI 10.1002/tea.20248
+   Gerard L., 2008, ANN M AM ED RES ASS
+   GORDON VS, 1995, IEEE SOFTWARE, V12, P85, DOI 10.1109/52.363162
+   Gutierrez K., 2003, ED RES, V32, P19, DOI DOI 10.3102/0013189X032005019
+   Gutierrez KD, 2006, RES TEACH ENGL, V40, P502
+   Gutierrez KD, 2010, J TEACH EDUC, V61, P100, DOI 10.1177/0022487109347877
+   Gutierrez Kris D., 1999, MIND CULT ACT, V6, P286, DOI DOI 10.1080/10749039909524733
+   Halliday M. A. K., 1993, WRITING SCI LITERACY
+   Halverson R, 2011, RES SCI EDUC SER, P397
+   Hazari Z, 2010, J RES SCI TEACH, V47, P978, DOI 10.1002/tea.20363
+   Herrenkohl L. R, 2010, STUDENTS COME BE KNO
+   Hill H., 2001, LEARNING POLICY STAT
+   Honig M. I., 2004, ED RES, V33, P16, DOI DOI 10.3102/0013189X033008016
+   Horn IS, 2010, AM EDUC RES J, V47, P181, DOI 10.3102/0002831209345158
+   Horn IS, 2010, TEACH COLL REC, V112, P225
+   Hsi S., 2006, P 7 INT C LEARN SCI, V2, P1066
+   Hudicourt-Barnes J, 2003, HARVARD EDUC REV, V73, P73, DOI 10.17763/haer.73.1.hnq801u57400l877
+   Ingersoll RM, 2001, AM EDUC RES J, V38, P499, DOI 10.3102/00028312038003499
+   Jacob BA, 2007, FUTURE CHILD, V17, P129, DOI 10.1353/foc.2007.0005
+   Kelly A. E., 2004, J LEARN SCI, V13, P113
+   Kelly JA, 2000, AM J PUBLIC HEALTH, V90, P1082, DOI 10.2105/AJPH.90.7.1082
+   Kesidou S, 2002, J RES SCI TEACH, V39, P522, DOI 10.1002/tea.10035
+   Knapp MS, 2001, J RES SCI TEACH, V38, P1089, DOI 10.1002/tea.10003
+   Krajcik J, 2008, SCI EDUC, V92, P1, DOI 10.1002/sce.20240
+   Latour B., 1987, SCI ACTION FOLLOW SC
+   Lee O, 2005, AM EDUC RES J, V42, P411, DOI 10.3102/00028312042003411
+   Lee O., 2002, REV RES EDUC, V26, P23, DOI DOI 10.3102/0091732X026001023
+   Lee O, 2008, J RES SCI TEACH, V45, P31, DOI 10.1002/tea.20209
+   Lemke J. L, 1990, J TEACH EDUC, V51, P221
+   Lieberman A, 2002, INSIDE NATL WRITING
+   Lin H.-T., 2004, P 6 INT C LEARN SCI, P617
+   Lin XD, 2005, EDUC PSYCHOL, V40, P245, DOI 10.1207/s15326985ep4004_6
+   Lynch S., 2007, SCALE UP ED ISSUES P, V2, P91
+   Maerten-Rivera J., 2009, J WOMEN MINORITIES S, V15, P93
+   Martin J. R., 1989, FACTUAL WRITING EXPL
+   Marx RW, 2004, J RES SCI TEACH, V41, P1063, DOI 10.1002/tea.20039
+   Maull K. E., 2011, ACM IEEE JOINT C DIG
+   McDonald S.-K., 2006, ED RES, V35, P15, DOI DOI 10.3102/0013189X035003015
+   McMunn N., 2004, INT J ED POLICY RES, V4, P25
+   Means B., 2008, STEM HIGH SCH SPECIA
+   Millen D. R, 2000, P C DES INT SYST PRO, P280, DOI DOI 10.1145/347642.347763
+   National Research Council, 2007, TAK SCI SCH LEARN TE
+   National Research Council, 2000, INQ NAT SCI ED STAND
+   National Research Council, 2011, FRAM K 12 SCI ED PRA
+   National Research Council, 2001, CLASSR ASS NAT SCI E
+   National Research Council, 2010, FRAM SCI ED PREL PUB
+   National Research Council, 1996, NAT SCI ED STAND, DOI 10. 17226/4962
+   Newmann FM, 2001, EDUC EVAL POLICY AN, V23, P297, DOI 10.3102/01623737023004297
+   O'Connor K., 2010, NSSE YB, V109, P160
+   O'Connor K., 2010, NATL SOC STUDIES ED, V109, P1
+   O'Connor M. C., 2011, ISCAR C ROM IT
+   O'Donnell CL, 2008, REV EDUC RES, V78, P33, DOI 10.3102/0034654307313793
+   Oakes J, 1990, MULTIPLYING INEQUALI
+   OCONNOR MC, 1993, ANTHROPOL EDUC QUART, V24, P318, DOI 10.1525/aeq.1993.24.4.04x0063k
+   Pea R. D., 2008, DESIGNING COHERENT S, P3
+   Penuel W. R., 2011, ANN M AM ED RES ASS
+   Penuel WR, 2011, AM EDUC RES J, V48, P996, DOI 10.3102/0002831211410864
+   Penuel WR, 2009, J SCI TEACH EDUC, V20, P415, DOI 10.1007/s10972-008-9120-9
+   Penuel WR, 2009, J LEARN SCI, V18, P461, DOI 10.1080/10508400903191904
+   Philip L., 2009, LEARN SCI INF ENV PE
+   President's Council of Advisors on Science and Technology, 2010, PREPARE INSPIRE K 12
+   Reich Robert, 2011, AFTERSHOCK NEXT EC A
+   Rethinam V., 2008, EVALUATION RES ED, V21, P18
+   Rosebery A., 2001, CLASSROOM DIVERSITY, P1
+   Rosebery AS, 2010, J LEARN SCI, V19, P322, DOI 10.1080/10508406.2010.491752
+   Rosebery Ann S., 2008, TEACHING SCI ENGLISH
+   Rosebery AS, 2005, EVERYDAY MATTERS IN SCIENCE AND MATHEMATICS: STUDIES OF COMPLEX CLASSROOM EVENTS, P299
+   Roth KJ, 2011, J RES SCI TEACH, V48, P117, DOI 10.1002/tea.20408
+   Rowan Brian, 2002, J ED CHANGE, V3, P283, DOI [10.1023/A:1021277712833, DOI 10.1023/A:1021277712833]
+   Scafidi B, 2007, ECON EDUC REV, V26, P145, DOI 10.1016/j.econedurev.2005.08.006
+   Schneider R. M., 2002, JOURNAL OF SCIENCE T, V13, P221, DOI DOI 10.1023/A:1016569117024
+   Shadish W. R., 2002, EXPT QUASI EXPT DESI
+   Shear L., 2010, J STAFF DEV, V31, P48
+   Sloane F, 2008, EDUC RESEARCHER, V37, P41, DOI 10.3102/0013189X08314835
+   Smith TM, 2007, EDUC EVAL POLICY AN, V29, P169, DOI 10.3102/0162373707306025
+   Songer NB, 2009, J RES SCI TEACH, V46, P610, DOI 10.1002/tea.20313
+   Songer NB, 2002, J RES SCI TEACH, V39, P128, DOI 10.1002/tea.10013
+   Spillane J. P., 2002, J RES SCI TEACH, V37, P201
+   Spillane JP, 2001, J RES SCI TEACH, V38, P918, DOI 10.1002/tea.1039
+   Stern L, 2002, J RES SCI TEACH, V39, P889, DOI 10.1002/tea.10050
+   Stevens R, 2008, J ENG EDUC, V97, P355, DOI 10.1002/j.2168-9830.2008.tb00984.x
+   Sung NS, 2003, JAMA-J AM MED ASSOC, V289, P1278, DOI 10.1001/jama.289.10.1278
+   Supovitz J. A., 2000, J STAFF DEV, V21, P24
+   Supovitz J.A., 2008, IMPLEMENTATION GAP U
+   Supovitz JA, 2000, J RES SCI TEACH, V37, P963, DOI 10.1002/1098-2736(200011)37:9<963::AID-TEA6>3.0.CO;2-0
+   Tabak I., 2006, ED RES, V35, P24
+   Tai R. H., 2010, INT J SCI ED, V32, P669
+   Tai RH, 2006, SCIENCE, V312, P1143, DOI 10.1126/science.1128690
+   Thompson J., 2010, NAT ASS RES SCI TEAC
+   Tzou C.T., 2007, MICROS ME 5 GRADE SC
+   Vanosdall R., 2007, ANN M AM ED RES ASS
+   Warren B, 2001, J RES SCI TEACH, V38, P529, DOI 10.1002/tea.1017
+   Watson MC, 2002, FAM PRACT, V19, P529, DOI 10.1093/fampra/19.5.529
+   Weinbaum EH, 2010, PHI DELTA KAPPAN, V91, P68, DOI 10.1177/003172171009100714
+   Wiggins G., 1998, UNDERSTANDING DESIGN
+   Willinsky J., 2001, ED RES, V30, P5, DOI DOI 10.3102/0013189X030001005
+   Windschitl M, 2008, COGNITION INSTRUCT, V26, P310, DOI 10.1080/07370000802177193
+   Woolf SH, 2008, JAMA-J AM MED ASSOC, V299, P211, DOI 10.1001/jama.2007.26
+NR 132
+TC 46
+Z9 46
+U1 2
+U2 45
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-4308
+J9 J RES SCI TEACH
+JI J. Res. Sci. Teach.
+PD MAR
+PY 2012
+VL 49
+IS 3
+BP 281
+EP 304
+DI 10.1002/tea.21001
+PG 24
+WC Education & Educational Research
+SC Education & Educational Research
+GA 885YL
+UT WOS:000299817300002
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Ibekwe, AM
+   Leddy, MB
+   Bold, RM
+   Graves, AK
+AF Ibekwe, Abasiofiok Mark
+   Leddy, Menu B.
+   Bold, Richard M.
+   Graves, Alexandria K.
+TI Bacterial community composition in low-flowing river water with
+   different sources of pollutants
+SO FEMS MICROBIOLOGY ECOLOGY
+LA English
+DT Article
+DE microbial diversity; watershed; nonpoint source pollutants; terminal
+   restriction fragment length polymorphism; temporal variations; spatial
+   variation
+ID 16S RIBOSOMAL-RNA; FRAGMENT-LENGTH-POLYMORPHISMS; ESCHERICHIA-COLI;
+   MICROBIAL COMMUNITIES; NORTH-SEA; DIVERSITY; DYNAMICS; GENES; TEMPERATE;
+   PROFILES
+AB Pollution of water resources is a major risk to human health and water quality throughout the world. The purpose of this study was to determine the influence of pollutant sources from agricultural activities, urban runoffs, and runoffs from wastewater treatment plants (WWTPs) on bacterial communities in a low-flowing river. Bacterial community structure was monitored using terminal restriction fragment length polymorphism (T-RFLP) and 16S rRNA gene clone library. The results were analyzed using nonmetric multidimensional scaling (NMDS) and UniFrac, coupled with principal coordinate analysis (PCoA) to compare diversity, abundance, community structure, and specific functional groups of bacteria in surface water affected by nonpoint sources. From all the sampling points, Bacteria were numerically dominated by three phyla the Proteobacteria, Bacteroidetes, and Cyanobacteria accounting for the majority of taxa detected. Overall results, using the beta diversity measures UniFrac, coupled with PCoA, showed that bacterial contamination of the low-flowing river was not significantly different between agricultural activities and urban runoff.
+C1 [Ibekwe, Abasiofiok Mark] ARS, USDA, US Salin Lab, Riverside, CA 92507 USA.
+   [Graves, Alexandria K.] N Carolina State Univ, Dept Soil Sci, Raleigh, NC 27695 USA.
+RP Ibekwe, AM (reprint author), ARS, USDA, US Salin Lab, 450 W Big Springs Rd, Riverside, CA 92507 USA.
+EM Mark.Ibekwe@ars.usda.gov
+OI Ibekwe, Abasiofiok/0000-0003-3352-759X
+FU State Water Resources Control Board; USDA-ARS
+FX We wish to express our appreciation to Pamela Watt, Greg Woodside, Nira
+   Yamachika, Gary Hackney, and Bill Rice for their technical assistance
+   and generous support during this study. We also thank Ms Phyllis Nash
+   for statistical help. The study was made possible in part by the
+   financial support of State Water Resources Control Board Nonpoint Source
+   Pollution Control Programs Proposition 13. This research was also
+   supported in part by the 206 Manure and Byproduct Utilization Project of
+   the USDA-ARS. Mention of trademark or propriety products in this
+   manuscript does not constitute a guarantee or warranty of the product by
+   the USDA and does not imply its approval to the exclusion of other
+   products that may also be suitable.
+CR Abdo Z, 2006, ENVIRON MICROBIOL, V8, P929, DOI 10.1111/j.1462-2920.2005.00959.x
+   *AM PUBL HLTH ASS, 1995, STAND METH EXAM EXAM
+   ATLAS RM, 1984, CURRENT PERSPECTIVES, P540
+   AVANISSAGHAJANI E, 1994, BIOTECHNIQUES, V17, P144
+   Bernhard AE, 2005, FEMS MICROBIOL ECOL, V52, P115, DOI 10.1016/j.femsec.2004.10.016
+   Blackwood CB, 2003, APPL ENVIRON MICROB, V69, P926, DOI 10.1128/AEM.69.2.926-932.2003
+   Byappanahalli M, 2003, APPL ENVIRON MICROB, V69, P4549, DOI 10.1128/AEM.69.8.4549-4555.2003
+   Byappanahalli MN, 2006, ENVIRON MICROBIOL, V8, P504, DOI 10.1111/j.1462-2920.2005.00916.x
+   Crump BC, 2003, APPL ENVIRON MICROB, V69, P2253, DOI 10.1128/AEM.69.4.2253-2268.2003
+   Crump BC, 2004, APPL ENVIRON MICROB, V70, P1494, DOI 10.1128/AEM.70.3.1494-1505.2004
+   Dunbar J, 2000, APPL ENVIRON MICROB, V66, P2943, DOI 10.1128/AEM.66.7.2943-2950.2000
+   Dunbar J, 2001, APPL ENVIRON MICROB, V67, P190, DOI 10.1128/AEM.67.1.190-197.2001
+   Fisher MM, 1998, MICROBIAL ECOL, V36, P259, DOI 10.1007/s002489900113
+   Gentry RW, 2007, J ENVIRON QUAL, V36, P1324, DOI 10.2134/jeq2006.0496
+   Gentry RW, 2006, J ENVIRON QUAL, V35, P2244, DOI 10.2134/jeq2006.0243
+   Gerdts G, 2004, HELGOLAND MAR RES, V58, P230, DOI 10.1007/s10152-004-0189-z
+   HOBBIE JE, 1977, APPL ENVIRON MICROB, V33, P1225
+   Hollister EB, 2010, ISME J, V4, P829, DOI 10.1038/ismej.2010.3
+   Huber T, 2004, BIOINFORMATICS, V20, P2317, DOI 10.1093/bioinformatics/bth226
+   IZBICKI JA, 2002, MICROBIAL DISSOLVED, P2004
+   Kent AD, 2004, MICROB ECOL, V48, P550, DOI 10.1007/s00248-004-0244-y
+   LaMontagne MG, 2003, MICROBIAL ECOL, V46, P216, DOI 10.1007/s00248-003-1006-y
+   Langenheder S, 2001, LIMNOL OCEANOGR, V46, P121, DOI 10.4319/lo.2001.46.1.0121
+   Liu WT, 1997, APPL ENVIRON MICROB, V63, P4516
+   Lozupone CA, 2007, P NATL ACAD SCI USA, V104, P11436, DOI 10.1073/pnas.0611525104
+   MASIN NM, 2003, HYDROBIOLOGIA, V50, P99
+   McCune B., 1999, PC ORD WINDOWS MULTI
+   Montgomery DC, 2001, DESIGN ANAL EXPT
+   Murray AE, 1998, APPL ENVIRON MICROB, V64, P2585
+   Neter J., 1996, APPL LINEAR REGRESSI
+   Nogales B, 2007, ENVIRON MICROBIOL, V9, P1913, DOI 10.1111/j.1462-2920.2007.01308.x
+   PORTER KG, 1980, LIMNOL OCEANOGR, V25, P943, DOI 10.4319/lo.1980.25.5.0943
+   Rice W., 2005, STAFF REPORT BACTERI
+   Sapp M, 2007, FEMS MICROBIOL ECOL, V59, P622, DOI 10.1111/j.1574-6941.2006.00238.x
+   SAS Institute, 2005, JMP US GUID
+   Schafer H, 2001, FEMS MICROBIOL ECOL, V34, P243, DOI 10.1016/S0168-6496(00)00102-1
+   Schloss PD, 2009, APPL ENVIRON MICROB, V75, P7537, DOI 10.1128/AEM.01541-09
+   Schloss PD, 2006, APPL ENVIRON MICROB, V72, P2379, DOI 10.1128/AEM.72.4.2379-2384.2006
+   Sheneman L, 2006, BIOINFORMATICS, V22, P2823, DOI 10.1093/bioinformatics/btl478
+   Smith CJ, 2005, FEMS MICROBIOL ECOL, V54, P375, DOI 10.1016/j.femsec.2005.05.002
+   SOMMER U, 1986, ARCH HYDROBIOL, V106, P433
+   Stepanauskas R, 2003, AQUAT MICROB ECOL, V31, P85, DOI 10.3354/ame031085
+NR 43
+TC 21
+Z9 24
+U1 1
+U2 53
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0168-6496
+J9 FEMS MICROBIOL ECOL
+JI FEMS Microbiol. Ecol.
+PD JAN
+PY 2012
+VL 79
+IS 1
+BP 155
+EP 166
+DI 10.1111/j.1574-6941.2011.01205.x
+PG 12
+WC Microbiology
+SC Microbiology
+GA 865HT
+UT WOS:000298302600014
+PM 22066546
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Macdonald, S
+   Keil, R
+AF Macdonald, Sara
+   Keil, Roger
+TI The Ontario Greenbelt: Shifting the Scales of the Sustainability Fix?
+SO PROFESSIONAL GEOGRAPHER
+LA English
+DT Article
+DE greenbelt; regionalism; sustainability fix
+ID GOVERNANCE; TORONTO; MODERNIZATION; ENVIRONMENT; MONTREAL
+AB The government of Ontario, Canada, has passed legislation to protect large parts of the southern portions of the province from most development. An extensive plan for a Greenbelt that surrounds the Greater Toronto Area and other regional growth centers was introduced. This article looks at the new policy as a spatial strategy that shifts the scales of environmental and growth management policy in Ontario. The legislation also sets the framework for a state spatial project; that is, a set of changes in how the regional state internally operates. The current Greenbelt legislation is a new step in a longer term development by which governments in Ontario have attempted to regulate the relationships between cities and regions, town and hinterland. Overlapping strongly with what is usually called the Toronto bioregion between the Niagara Escarpment, Oak Ridges Moraine, and Lake Ontario, the Greenbelt reorganizes space in southern Ontario in ways that would further ecosystem policies and practices in the area. Theoretically guided by newer debates on rescaling and regionalism, and based on close reading of the planning and policy documents on the Greenbelt as well as a series of expert interviews, we argue that the current Greenbelt legislation is an act of up-scaling traditional urban-regional regulation in southern Ontario, which we shall call extended metropolitanization. Such rescaling recasts traditional political conflicts in new terms. We conclude that extended metropolitanization in southern Ontario has been a process that has brought nature, the state, and governance together into a new regional sustainability fix.
+C1 [Macdonald, Sara] York Univ, York Univ CITY, City Inst, Toronto, ON M3J 1P3, Canada.
+   [Keil, Roger] York Univ, Fac Environm Studies, Toronto, ON M3J 1P3, Canada.
+RP Macdonald, S (reprint author), York Univ, York Univ CITY, City Inst, 4700 Keele St, Toronto, ON M3J 1P3, Canada.
+EM city@yorku.ca; rkeil@yorku.ca
+CR Ali AK, 2008, PLAN PRACT RES, V23, P533, DOI 10.1080/02697450802522889
+   Boudreau JA, 2007, URBAN GEOGR, V28, P30, DOI 10.2747/0272-3638.28.1.30
+   Boudreau JA, 2006, PROG PLANN, V66, P1, DOI 10.1016/j.progress.2006.08.001
+   Brenner N., 2004, NEW STATE SPACES URB
+   Carter-Whitney M., 2010, ONTARIOS GREENBELT I
+   Carter-Whitney M., 2008, ONT GREENB INT CONT
+   Collin J.-P., 2007, GOVERNING METROPOLIS
+   Crombie D., 1992, REGENERATION TORONTO
+   Desfor G., 2004, NATURE CITY MAKING U
+   Friends of the Greenbelt Foundation, VIS MISS GOALS
+   Frisken F., 2007, PUBLIC METROPOLIS PO
+   Fung F., 2007, J ENVIRON POL PLAN, V9, P101
+   Gibbs D, 2001, ENVIRON PLANN C, V19, P269, DOI 10.1068/c9908j
+   Gibbs D, 2000, GEOFORUM, V31, P299, DOI 10.1016/S0016-7185(99)00052-4
+   Gibbs D, 2006, ECON GEOGR, V82, P193
+   Gombu P., 2010, TORONTO STAR    0109, pGT1
+   Hemson Consulting Ltd, 2005, GROWTH OUTL GREAT GO
+   IBI Group, 2002, TOR REL REG FUT STUD
+   Jonas A., 2004, REGIONALISM CONTESTE, P223
+   Jonas AEG, 2004, POLICY POLIT, V32, P151, DOI 10.1332/030557304773558125
+   Jonas AEG, 2003, SOC SCI QUART, V84, P1018, DOI 10.1046/j.0038-4941.2003.08404011.x
+   Keil R, 2009, LEVIATHAN UNDONE: TOWARDS A POLITICAL ECONOMY OF SCALE, P1
+   Keil R., 2010, CITIES, V27, P87
+   Keil R, 2008, ENVIRON PLANN C, V26, P728, DOI 10.1068/c68m
+   Kubler D., 2005, METROPOLITAN GOVERNA
+   Leeder J., 2009, GLOBE MAIL      1223, pA1
+   Leong M., 2005, NATL POST       0622, pA15
+   Mahon R, 2009, LEVIATHAN UNDONE: TOWARDS A POLITICAL ECONOMY OF SCALE, P3
+   Metrolinx, 2008, BIG MOV TRANSF TRANS
+   Ministry of Municipal Affairs and Housing (MMAH), 2005, GREENB PLAN 2005
+   Ministry of Municipal Affairs and Housing (MMAH), 2005, PROV POL STAT
+   Ministry of Municipal Affairs and Housing (MMAH), 2005, ONT GOV STRENGTH ROL
+   Ministry of Municipal Affairs and Housing (MMAH), 2004, GOLD HORS GREENB GRE
+   Ministry of Municipal Affairs and Housing (MMAH), 2008, GROW GREENB
+   Ministry of Public Infrastructure Renewal (MPIR), 2006, PLAC GROW BETT CHOIC
+   MONSEBRAATEN LAURIE, 2006, TORONTO STAR    1103, pC1
+   Neptis Foundation, 2005, NEPT COMM DRAFT GREE
+   Ontario Federation of Agriculture (OFA), 2005, OFA VIC PRES PAUL MI, P135
+   Ontario Fruit and Vegetable Growers Association, 2005, LETS WORK GETT GREEN
+   Ontario Greenbelt Alliance, 2007, GREEENB REP CARD 2 A
+   Ontario Greenbelt Alliance, 2010, GREEN AMONG GREY 5 A
+   Ontario Greenbelt Alliance, 2009, PLAC SPRAWL REP MUN
+   Ontario Greenbelt Alliance, 2006, GREENB REP CARD GRAD
+   Ontario Growth Secretariat, 2005, URB GROWTH CTS GREAT
+   Paasi A, 2003, PROG HUM GEOG, V27, P475, DOI 10.1191/0309132503ph439pr
+   SCHMID C, 1996, UNTERNEHMEN GLOBUS F, P224
+   Sieverts T., 2003, CITIES CITIES INTERP
+   The Campaign to Protect Rural England and Natural England, 2010, GREEN BELTS GREEN FU
+   Urquhart I., 2007, TORONTO STAR    1205, pA22
+   WEKERLE G, 2007, CAN J URBAN RES, V16, P20
+   Wekerle GR, 2009, LEVIATHAN UNDONE: TOWARDS A POLITICAL ECONOMY OF SCALE, P247
+   While A, 2004, INT J URBAN REGIONAL, V28, P549, DOI 10.1111/j.0309-1317.2004.00535.x
+   Whitehead M, 2006, GEOGR ANN B, V88B, P49, DOI 10.1111/j.0435-3684.2006.00205.x
+   Whitehead M., 2007, NATURE STATE EXCAVAT
+   Whitehead M, 2008, GEOGR COMPASS, V2, P414, DOI 10.1111/j.1749-8198.2007.00088.x
+   Wilson S., 2008, ONTARIO WEALTH CANAD
+   Winfield M., 2003, SMART GROWTH ONTARIO
+   Winfield M., 2005, BUILDING SUSTAINABLE
+NR 58
+TC 19
+Z9 19
+U1 4
+U2 52
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0033-0124
+J9 PROF GEOGR
+JI Prof. Geogr.
+PY 2012
+VL 64
+IS 1
+BP 125
+EP 145
+DI 10.1080/00330124.2011.586874
+PG 21
+WC Geography
+SC Geography
+GA 880NH
+UT WOS:000299413600012
+DA 2019-03-26
+ER
+
+PT J
+AU Potty, RS
+   Bradley, JE
+   Ramesh, BM
+   Isac, S
+   Washington, RG
+   Moses, S
+   Blanchard, JF
+   Becker, ML
+   Alary, M
+AF Potty, Rajaram S.
+   Bradley, Janet E.
+   Ramesh, Banadakoppa M.
+   Isac, Shajy
+   Washington, Reynold G.
+   Moses, Stephen
+   Blanchard, James F.
+   Becker, Marissa L.
+   Alary, Michel
+TI Is HIV Prevalence Declining in Southern India? Evidence From Two Rounds
+   of General Population Surveys in Bagalkot District, Karnataka
+SO SEXUALLY TRANSMITTED DISEASES
+LA English
+DT Article
+ID HETEROSEXUAL TRANSMISSION; ANTIRETROVIRAL THERAPY; IMPACT;
+   INTERVENTIONS; SURVEILLANCE; EPIDEMIC; PROGRAM; AFRICA; TRENDS; STATE
+AB Objectives: To assess the levels and trends in the prevalence of HIV and sexually transmitted infections in the general population in Bagalkot district using 2 cross-sectional surveys undertaken in 2003 and 2009.
+   Methods: In both surveys, a target sample of 6600 adult males and females was selected systematically from a sample of 10 rural villages and 20 urban blocks in 3 of the 6 talukas (subdistrict units) in the district. Urine and blood samples were collected from all consenting participants for HIV and sexually transmitted infection testing. Changes in HIV prevalence in age subgroups were determined by logistic regression, taking into account the survey design.
+   Results: HIV prevalence fell not significantly from 3.2% to 2.5% during the 6-year study period. It decreased significantly (P = 0.023) among persons aged 15 to 24 years, from 2.4% in 2003 (95% confidence interval [ 95% CI]: 1.2-3.7) to 1.3% in 2009 (95% CI: 0.6-2.0). However, among males aged 35 and above, HIV prevalence increased significantly (P = 0.008), from 3.0% (95% CI: 1.1-4.8) to 4.2% (95% CI: 1.8-6.6), a level similar to that found in the younger age-group in 2003.
+   Conclusions: We observed a significant decline in HIV prevalence among people aged 15 to 24 years, where HIV prevalence more closely reflects incidence. The increase in HIV prevalence among older males may have been because of the aging of a cohort of men among whom HIV prevalence was highest in the 2003 survey. It may also have in part reflected increased survival, as a result of the scaling up of antiretroviral treatment programs throughout the district and state.
+C1 [Potty, Rajaram S.] KHPT, Rajajinagar Ind Area, Bangalore 560044, Karnataka, India.
+   [Potty, Rajaram S.; Bradley, Janet E.] CHARME India Project, Bangalore, Karnataka, India.
+   [Bradley, Janet E.; Alary, Michel] Univ Quebec, Ctr Rech FRSQ CHA, URESP, Quebec City, PQ, Canada.
+   [Ramesh, Banadakoppa M.; Washington, Reynold G.; Moses, Stephen; Blanchard, James F.; Becker, Marissa L.] Univ Manitoba, Winnipeg, MB, Canada.
+   [Alary, Michel] Univ Laval, Dept Med Sociale & Prevent, Quebec City, PQ, Canada.
+RP Potty, RS (reprint author), KHPT, Rajajinagar Ind Area, IT Pk, Bangalore 560044, Karnataka, India.
+EM rajaram@khpt.org
+OI Becker, Marissa/0000-0002-9235-0547
+FU Bill & Melinda Gates Foundation (BMGF); Canadian International
+   Development Agency
+FX Conflicts of interest and sources of funding: Supported by the Bill &
+   Melinda Gates Foundation (BMGF). Round 1 data collection was supported
+   by a grant from the Canadian International Development Agency.
+CR [Anonymous], 2004, WHO HIV ASS OP CHAR
+   Anuradha K, 2002, Indian J Med Microbiol, V20, P102
+   Arora P, 2008, LANCET, V372, P289, DOI 10.1016/S0140-6736(08)61105-8
+   Bachani D, 2010, NATL MED J INDIA, V23, P7
+   Becker ML, 2007, AIDS, V21, P739, DOI 10.1097/QAD.0b013e328012b885
+   Boily MC, 2008, AIDS, V22, pS149, DOI 10.1097/01.aids.0000343773.59776.5b
+   Castilla J, 2005, JAIDS-J ACQ IMM DEF, V40, P96, DOI 10.1097/01.qai.0000157389.78374.45
+   Dandona L, 2006, BMC PUBLIC HEALTH, V6, DOI 10.1186/1471-2458-6-308
+   Fylkesnes K, 1998, AIDS, V12, P1227, DOI 10.1097/00002030-199810000-00015
+   Gregson S, 2002, AIDS, V16, P643, DOI 10.1097/00002030-200203080-00017
+   IIPS, 2010, DISTR LEV HOUS FAC S
+   India Health Action Trust, 2011, HIV AIDS SIT RESP BA
+   International Institute for Population Sciences (IIPS) and Macro International, 2007, NAT FAM HLTH SURV NF, VI
+   Kayibanda JF, 2011, OPEN AIDS J, V5, P25
+   Kumar R, 2006, LANCET, V367, P1164, DOI 10.1016/S0140-6736(06)68435-3
+   Kumar R, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-549
+   Mishra V, 2008, SEX TRANSM INFECT, V84, pI63, DOI 10.1136/sti.2008.030411
+   Montana LS, 2008, SEX TRANSM INFECT, V84, pI78, DOI 10.1136/sti.2008.030106
+   Moses S, 2008, AIDS, V22, pS101, DOI 10.1097/01.aids.0000343768.85325.92
+   NACO and MHFWGOI (Ministry of Health and Family Welfare Government of India)., 2008, HIV SENT SURV HIV ES
+   Nagelkerke NJD, 2002, B WORLD HEALTH ORGAN, V80, P89
+   National AIDS Control Organisation (NACO), HIV DECL IND NEW INF
+   National Institute of Medical Statistics and National AIDS Control Organization, 2012, TECHN REP IND HIV ES
+   Ng M, 2011, LANCET, V378, P1643, DOI 10.1016/S0140-6736(11)61390-1
+   Reynolds SJ, 2011, AIDS, V25, P473, DOI 10.1097/QAD.0b013e3283437c2b
+   Rice BD, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-160
+   UNAIDS, 2010, GLOB REP UNAIDS REP
+NR 27
+TC 1
+Z9 1
+U1 0
+U2 2
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0148-5717
+EI 1537-4521
+J9 SEX TRANSM DIS
+JI Sex. Transm. Dis.
+PD OCT
+PY 2012
+VL 39
+IS 10
+BP 761
+EP 768
+DI 10.1097/OLQ.0b013e3182656c44
+PG 8
+WC Infectious Diseases
+SC Infectious Diseases
+GA 012ES
+UT WOS:000309218900005
+PM 23001262
+OA Bronze
+DA 2019-03-26
+ER

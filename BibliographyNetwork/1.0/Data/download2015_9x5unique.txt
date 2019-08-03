@@ -1,0 +1,452 @@
+
+PT B
+AU Chen, XY
+   Xu, XM
+   Huang, S
+   Ye, WM
+   Feagan, L
+   Krishnamoorthy, L
+   Ashworth, M
+AF Chen, Xiaoyan
+   Xu, Xiaomin
+   Huang, Sheng
+   Ye, Weiming
+   Feagan, Lance
+   Krishnamoorthy, Lalitha
+   Ashworth, Mark (M. A. )
+BA Zhu, H
+BF Zhu, H
+BE Miller, JS
+TI STaaS: SpatioTemporal Historian as a Service
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES (ICWS)
+LA English
+DT Proceedings Paper
+CT Web Services ICWS IEEE International Conference
+CY JUN 27-JUL 02, 2015
+CL New York, NY
+SP IEEE COMP SOC, SERV SOC, SERV COMP, BIG DATA, HP, IBM, ERICSSON, SAP, IBM RES, HUAWEI, OBJECT MANAGEMENT GRP, IEEE CLOUD COMP, BUSINESS PROCESS INTEGRAT & MANAGEMENT, PROFESS, INT J WEB SERV RES, COMP NOW, IEEE T SERV COMP, IEEE, CLOUD COMP
+DE Time Series Database Service; Spatiotemporal Historian; Trajectory
+   query; RESTful interfaces
+AB In the Internet of Things (IoT) era, an increasing number of data management applications, such as for connected vehicles and smarter cities, face the challenge of querying and analyzing massive volumes of spatiotemporal data. These applications frequently perform queries that join moving objects with spatial data, such as selecting sub-tracks crossing a bridge. However, spatiotemporal queries are not well supported or natively supported by current state-of-the-art relational database systems. Most of existing systems build a spatial index directly over the raw spatiotemporal data, which leads to performance issues when scaling out for both indexing and query. In this paper, we focus on building a SpatioTemporal historian as a Service (STaaS) by extending the IBM Bluemix TimeSeries Database service. The STaaS service manages to process spatiotemporal queries over high volume historical data. The experiments show that STaaS service could easily scale out by adding shards, and achieve dramatic speed-up on spatiotemporal query with support of our hybrid data store. Moreover, we have already deployed STaaS on Bluemix Staging (Internal User Testing) Zone to collect feedback for improvement before porting it into the product zone in the future.
+C1 [Chen, Xiaoyan; Xu, Xiaomin; Huang, Sheng] IBM China Res Lab, Beijing, Peoples R China.
+   [Ye, Weiming; Feagan, Lance; Krishnamoorthy, Lalitha; Ashworth, Mark (M. A. )] IBM Informix Prod Team, Beijing, Peoples R China.
+RP Chen, XY (reprint author), IBM China Res Lab, Beijing, Peoples R China.
+EM xiaoyanc@cn.ibm.com; xuxxm@cn.ibm.com; huangssh@cn.ibm.com;
+   weiming@us.ibm.com; lfeagan@us.ibm.com; lalk@us.ibm.com;
+   ashworth@ca.ibm.com
+CR GARCIAMOLINA H, DATABASE SYSTEM IMPL
+   HUANG S, 2014, SIGMOD 14, P169
+   WANG H, 1918, CIKM 14, P1409
+   Wolfson O, 2002, LECT NOTES COMPUT SC, V2538, P46
+NR 4
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-7272-5
+PY 2015
+BP 747
+EP 750
+DI 10.1109/ICWS.2015.107
+PG 4
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BF2OU
+UT WOS:000380486400098
+DA 2019-03-26
+ER
+
+PT J
+AU Lee, TA
+   Rollwagen-Bollens, G
+   Bollens, SM
+   Faber-Hammond, JJ
+AF Lee, Tammy A.
+   Rollwagen-Bollens, Gretchen
+   Bollens, Stephen M.
+   Faber-Hammond, Joshua J.
+TI Environmental influence on cyanobacteria abundance and microcystin toxin
+   production in a shallow temperate lake
+SO ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY
+LA English
+DT Article
+DE qPCR; Cyanobacteria; ELISA; NMDS; MIC 16S; mcyE
+ID HARMFUL ALGAL BLOOMS; REAL-TIME PCR; RIBOSOMAL-RNA SEQUENCES; SYNTHETASE
+   GENE; FRESH-WATER; COMMUNITY STRUCTURE; NUTRIENT; LIGHT; AERUGINOSA;
+   EUTROPHICATION
+AB The increasing frequency of harmful cyanobacterial blooms in freshwater systems is a commonly recognized problem due to detrimental effects on water quality. Vancouver Lake, a shallow, tidally influenced lake in the flood plain of the Columbia River within the city of Vancouver, WA, USA, has experienced numerous summertime cyanobacterial blooms, dominated by Aphanizomenon sp. and Anabaena sp. Cyanobacteria abundance and toxin (microcystin) levels have been monitored in this popular urban lake for several years; however, no previous studies have identified which cyanobacteria species produce toxins, nor analyzed how changes in environmental variables contribute to the fluctuations in toxic cyanobacteria populations. We used a suite of molecular techniques to analyze water samples from Vancouver Lake over two summer bloom cycles (2009 and 2010). Both intracellular and extracellular microcystin concentrations were measured using an ELISA kit. Intracellular microcystin concentrations exceeded WHO guidelines for recreational waters several times throughout the sampling period. PCR results demonstrated that Microcystis sp. was the sole microcystin-producing cyanobacteria species present in Vancouver Lake, although Microcystis sp. was rarely detected in microscopical counts. qPCR results indicated that the majority of the Microcystis sp. population contained the toxin-producing gene (mcyE), although Microcystis sp. abundance rarely exceeded 1 percent of overall cyanobacteria abundance. Non-metric multidimensional scaling (NMDS) revealed that PO4-P was the main environmental variable influencing the abundance of toxic and non-toxic cyanobacteria, as well as intracellular microcystin concentrations. Our study underscores the importance of using molecular genetic techniques, in addition to traditional microscopy, to assess the importance of less conspicuous species in the dynamics of harmful algal blooms. (C) 2014 Elsevier Inc. All rights reserved.
+C1 [Lee, Tammy A.; Rollwagen-Bollens, Gretchen; Bollens, Stephen M.; Faber-Hammond, Joshua J.] Washington State Univ, Sch Environm, Vancouver, WA 98686 USA.
+RP Lee, TA (reprint author), Washington State Univ, Sch Environm, 14204 NE Salmon Creek Ave, Vancouver, WA 98686 USA.
+EM tammy.lee@email.wsu.edu
+OI Rollwagen-Bollens, Gretchen/0000-0002-5127-5720
+FU United States Geological Survey (USGS) through the State of Washington
+   Water Research Center [06HQGR0126, 06HQCR0126]; NSF [DGE 07-42561];
+   Robert Lane Fellowship in Environmental Science through Washington State
+   University
+FX We thank Drs. Jenefer DeKoning, Steve Sylvester, and Ruth Philips for
+   their invaluable support and resources throughout this project, Julie
+   Zimmerman for helping with the sampling and data collection, and the
+   Vancouver Lake Sailing Club for lake access. This research was partially
+   funded through Grant# 06HQGR0126 from the United States Geological
+   Survey (USGS) to G.R.B and S.M.B, through the State of Washington Water
+   Research Center (06HQCR0126). The contents of this manuscript are solely
+   the responsibility of the authors and do not necessarily represent the
+   official views of the USGS. The lead author received additional funding
+   as an NSF GK-12 Fellow, as part of a STEM Fellows in K-12 Education
+   (GK-12) Fellowship grant (DGE 07-42561) awarded to G.R.B and S.M.B, and
+   a Robert Lane Fellowship in Environmental Science through Washington
+   State University.
+CR Aboal M, 2005, J APPL PHYCOL, V17, P231, DOI 10.1007/s10811-005-2999-z
+   Acinas SG, 2004, J BACTERIOL, V186, P2629, DOI 10.1128/JB.186.9.2629-2635.2004
+   Anderson DM, 2002, ESTUARIES, V25, P704, DOI 10.1007/BF02804901
+   Baxa DV, 2010, HARMFUL ALGAE, V9, P342, DOI 10.1016/j.hal.2010.01.001
+   Bennion H, 2000, HYDROBIOLOGIA, V436, P145, DOI 10.1023/A:1026527519558
+   Bhagat S., 1971, SUMMARY REPORT WATER
+   Bollens S. M., 2009, BIOL ASSESSMENT PLAN
+   Boyer GL, 2007, LAKE RESERV MANAGE, V23, P153, DOI 10.1080/07438140709353918
+   Boyer J, 2011, AQUAT MICROB ECOL, V64, P163, DOI 10.3354/ame01514
+   Bricelj VM, 1997, LIMNOL OCEANOGR, V42, P1023, DOI 10.4319/lo.1997.42.5_part_2.1023
+   Christoffersen K, 2002, AQUAT MICROB ECOL, V27, P125, DOI 10.3354/ame027125
+   Cires S, 2011, HARMFUL ALGAE, V10, P668, DOI 10.1016/j.hal.2011.05.002
+   Clark County Public Health (Clark County), 2011, BLUE GREEN ALG BLOOM
+   Clarke KR, 2001, CHANGE MARINE COMMUN
+   Crosby LD, 2003, BIOTECHNIQUES, V34, P790, DOI 10.2144/03344rr01
+   Davis TW, 2009, HARMFUL ALGAE, V8, P715, DOI 10.1016/j.hal.2009.02.004
+   Dittmann E, 1997, MOL MICROBIOL, V26, P779, DOI 10.1046/j.1365-2958.1997.6131982.x
+   Downing JA, 2001, CAN J FISH AQUAT SCI, V58, P1905, DOI 10.1139/cjfas-58-10-1905
+   Dyhrman ST, 2008, HARMFUL ALGAE, V8, P167, DOI 10.1016/j.hal.2008.08.016
+   Eldridge S.L., 2012, SPATIAL TEMPORAL DYN
+   Elliott JA, 2012, FRESHWATER BIOL, V57, P400, DOI 10.1111/j.1365-2427.2011.02717.x
+   Elser JJ, 1999, FRESHWATER BIOL, V42, P537, DOI 10.1046/j.1365-2427.1999.00471.x
+   Ferrao-Filhoa AD, 2009, ECOTOX ENVIRON SAFE, V72, P479, DOI 10.1016/j.ecoenv.2008.02.002
+   Fortin N, 2010, APPL ENVIRON MICROB, V76, P5105, DOI 10.1128/AEM.00183-10
+   Gagala I, 2012, POL J ENVIRON STUD, V21, P1125
+   Gallegos CL, 2005, HARMFUL ALGAE, V4, P553, DOI 10.1016/j.hal.2004.08.016
+   Ger KA, 2010, FRESHWATER BIOL, V55, P1548, DOI 10.1111/j.1365-2427.2009.02367.x
+   Gobler CJ, 2007, HARMFUL ALGAE, V6, P119, DOI 10.1016/j.hal.2006.08.003
+   Gurbuz F, 2012, ENVIRON FORENSICS, V13, P105, DOI 10.1080/15275922.2012.676596
+   Harada Ken-Ichi, 1996, Phycologia, V35, P83, DOI 10.2216/i0031-8884-35-6S-83.1
+   Heisler J, 2008, HARMFUL ALGAE, V8, P3, DOI 10.1016/j.hal.2008.08.006
+   Hisbergues M, 2003, ARCH MICROBIOL, V180, P402, DOI 10.1007/s00203-003-0605-9
+   Hoagland P, 2002, ESTUARIES, V25, P819, DOI 10.1007/BF02804908
+   Hotto AM, 2007, APPL ENVIRON MICROB, V73, P4570, DOI 10.1128/AEM.00318-07
+   Jacoby JM, 2007, LAKE RESERV MANAGE, V23, P123, DOI 10.1080/07438140709353916
+   Jacoby JM, 2000, CAN J FISH AQUAT SCI, V57, P231, DOI 10.1139/cjfas-57-1-231
+   Kardinaal WEA, 2007, AQUAT MICROB ECOL, V48, P1, DOI 10.3354/ame048001
+   Klappenbach JA, 2000, APPL ENVIRON MICROB, V66, P1328, DOI 10.1128/AEM.66.4.1328-1333.2000
+   Lahti K, 1997, WATER RES, V31, P1005, DOI 10.1016/S0043-1354(96)00353-3
+   Leonard JA, 2005, HYDROBIOLOGIA, V537, P89, DOI 10.1007/s10750-004-2483-9
+   Li DM, 2012, J ENVIRON SCI-CHINA, V24, P284, DOI 10.1016/S1001-0742(11)60745-6
+   Martins A, 2011, ARCH MICROBIOL, V193, P615, DOI 10.1007/s00203-011-0724-7
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   Neilan BA, 1997, INT J SYST BACTERIOL, V47, P693, DOI 10.1099/00207713-47-3-693
+   Otsuka S, 1999, FEMS MICROBIOL LETT, V172, P15, DOI 10.1111/j.1574-6968.1999.tb13443.x
+   Paerl H, 2008, ADV EXP MED BIOL, V619, P217, DOI 10.1007/978-0-387-75865-7_10
+   Prescott GW, 1978, KNOW FRESHWATER ALGA
+   Rantala A, 2004, P NATL ACAD SCI USA, V101, P568, DOI 10.1073/pnas.0304489101
+   Rantala A, 2006, APPL ENVIRON MICROB, V72, P6101, DOI 10.1128/AEM.01058-06
+   Rapala J, 1997, APPL ENVIRON MICROB, V63, P2206
+   Renaud SL, 2011, APPL ENVIRON MICROB, V77, P7016, DOI 10.1128/AEM.05246-11
+   Rinta-Kanto JM, 2005, ENVIRON SCI TECHNOL, V39, P4198, DOI 10.1021/es048249u
+   Rinta-Kanto JM, 2009, HARMFUL ALGAE, V8, P665, DOI 10.1016/j.hal.2008.12.004
+   Rollwagen-Bollens G., 2012, HYDROBIOLOGIA, V705, P101
+   Saker ML, 2007, APPL MICROBIOL BIOT, V73, P1136, DOI 10.1007/s00253-006-0565-5
+   Sevilla E, 2009, WATER SCI TECHNOL, V60, P1903, DOI 10.2166/wst.2009.527
+   Spears BM, 2008, WATER RES, V42, P977, DOI 10.1016/j.watres.2007.09.012
+   TSUJI K, 1994, ENVIRON SCI TECHNOL, V28, P173, DOI 10.1021/es00050a024
+   URBACH E, 1992, NATURE, V355, P267, DOI 10.1038/355267a0
+   Vaitomaa J, 2003, APPL ENVIRON MICROB, V69, P7289, DOI 10.1128/AEM.69.12.7289-7297.2003
+   Wehr JD, 2002, FRESHWATER ALGAE N A
+   Xu Y, 2010, ENVIRON SCI POLLUT R, V17, P1581, DOI 10.1007/s11356-010-0345-8
+NR 62
+TC 25
+Z9 28
+U1 3
+U2 88
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0147-6513
+EI 1090-2414
+J9 ECOTOX ENVIRON SAFE
+JI Ecotox. Environ. Safe.
+PD APR
+PY 2015
+VL 114
+BP 318
+EP 325
+DI 10.1016/j.ecoenv.2014.05.004
+PG 8
+WC Environmental Sciences; Toxicology
+SC Environmental Sciences & Ecology; Toxicology
+GA CD2SH
+UT WOS:000350928800038
+PM 25060409
+DA 2019-03-26
+ER
+
+PT J
+AU Shi, K
+   Liu, CQ
+   Huang, Y
+AF Shi, Kai
+   Liu, Chunqiong
+   Huang, Yi
+TI Multifractal Processes and Self-Organized Criticality of PM2.5 during a
+   Typical Haze Period in Chengdu, China
+SO AEROSOL AND AIR QUALITY RESEARCH
+LA English
+DT Article
+DE PM2.5; Multifractal; Long-range correlation; Power-law distribution;
+   Self-organized criticality
+ID TIME-SERIES; CHEMICAL-COMPOSITION; FLUCTUATION ANALYSIS;
+   URBAN-ENVIRONMENT; AIR-POLLUTION; PERSISTENCE
+AB Scaling and multifractal properties of the hourly PM2.5 average concentration series at the four air monitoring stations of Chengdu (southwestern China) were explored by using a multifractal detrended fluctuation analysis method, during a typical haze episode (from 1 March to 17 March, 2013). Using shuffling procedure and phase randomization procedure, the major sources of multifractality in these PM2.5 series are studied. The results show that the multifractality nature of PM2.5 series is mainly due to long-range correlation. At the same time, the non-Gaussian probability distributions also partly contribute to the multifractal behaviour. The scale-free power laws behaviours are found to govern the cumulative distributions statistics for PM2.5 concentration fluctuations. The temporal evolutions of the multifractality were investigated by the approach of a sliding window. Further, we attempt to find the answers to the following questions: how does long-range correlation and power-law distribution in PM2.5 evolution emerge? It is inviting to do it in a self-organized criticality (SOC) framework, which was specially designed to model the dynamics of complex systems. A novel PM2.5 evolution model is developed on the bases of SOC theory. The model displays robust power law behaviour in certain dynamical region. The self-organized criticality properties of PM2.5 evolution are discussed. This SOC behaviour is related to a statistically steady state that implies the presence of long-range correlation and power-law distribution in PM2.5 evolution during the haze period. It is the stability of SOC that causes the haze period to be sustained for a long time in Chengdu.
+C1 [Shi, Kai] Jishou Univ, Key Lab Ecotourism Hunan Prov, Jishou 416000, Hunan, Peoples R China.
+   [Shi, Kai; Liu, Chunqiong] Jishou Univ, Coll Biol & Environm Sci, Jishou 416000, Hunan, Peoples R China.
+   [Huang, Yi] Jishou Univ, Coll Math & Stat, Jishou 416000, Hunan, Peoples R China.
+RP Shi, K (reprint author), Jishou Univ, Key Lab Ecotourism Hunan Prov, Jishou 416000, Hunan, Peoples R China.
+EM einboplure@163.com
+FU National Natural Science Foundation of China [41465010]; Hunan
+   Provincial Natural Science Foundation of China [13JJB012]; Scientific
+   Research Fund of Hunan Provincial Education Department [13B089]; Key
+   Laboratory of Ecotourism Hunan Province [JDSTLY1408]
+FX The work is supported by the National Natural Science Foundation of
+   China (No. 41465010), Hunan Provincial Natural Science Foundation of
+   China (No. 13JJB012), Scientific Research Fund of Hunan Provincial
+   Education Department (No. 13B089), and Key Laboratory of Ecotourism
+   Hunan Province (No. JDSTLY1408).
+CR Anh V, 1997, J AIR WASTE MANAGE, V47, P66, DOI 10.1080/10473289.1997.10464406
+   BAK P, 1987, PHYS REV LETT, V59, P381, DOI 10.1103/PhysRevLett.59.381
+   Chelani AB, 2012, ATMOS RES, V108, P128, DOI 10.1016/j.atmosres.2012.02.001
+   Kantelhardt JW, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD005881
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   Kantelhardt JW, 2003, PHYSICA A, V330, P240, DOI 10.1016/j.physa.2003.08.019
+   Kwapien J, 2005, PHYSICA A, V350, P466, DOI 10.1016/j.physa.2004.11.019
+   Lee CK, 2006, CHEMOSPHERE, V62, P934, DOI 10.1016/j.chemosphere.2005.05.046
+   Lee CK, 2003, ENVIRON MODELL SOFTW, V18, P243, DOI 10.1016/S1364-8152(02)00078-6
+   Movahed MS, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/02/P02003
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   Ram K, 2011, ATMOS ENVIRON, V45, P460, DOI 10.1016/j.atmosenv.2010.09.055
+   Shen ZX, 2009, ATMOS ENVIRON, V43, P2911, DOI 10.1016/j.atmosenv.2009.03.005
+   [史凯 Shi Kai], 2014, [环境科学学报, Acta Scientiae Circumstantiae], V34, P1125
+   Shi K, 2013, FRACTALS, V21, DOI 10.1142/S0218348X13500011
+   Shi K, 2009, ATMOS ENVIRON, V43, P3301, DOI 10.1016/j.atmosenv.2009.04.013
+   Shi K, 2008, NONLINEAR ANAL-REAL, V9, P693, DOI 10.1016/j.nonrwa.2007.06.003
+   Tao J, 2013, ATMOS RES, V122, P270, DOI 10.1016/j.atmosres.2012.11.004
+   Telesca L, 2006, TECTONOPHYSICS, V423, P115, DOI 10.1016/j.tecto.2006.03.023
+   Turcotte DL, 2004, PHYSICA A, V340, P580, DOI 10.1016/j.physa.2004.05.009
+   Wang QY, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0068894
+   Windsor HL, 2001, ATMOS ENVIRON, V35, P4545, DOI 10.1016/S1352-2310(01)00208-4
+   Yin HL, 2013, J ENVIRON SCI-CHINA, V25, P1824, DOI 10.1016/S1001-0742(12)60230-7
+   Zhu JL, 2003, ATMOS ENVIRON, V37, P2605, DOI 10.1016/S1352-2310(03)00219-X
+NR 24
+TC 10
+Z9 12
+U1 2
+U2 31
+PU TAIWAN ASSOC AEROSOL RES-TAAR
+PI TAICHUNG COUNTY
+PA CHAOYANG UNIV TECH, DEPT ENV ENG & MGMT, PROD CTR AAQR, NO 168, JIFONG E
+   RD, WUFONG TOWNSHIP, TAICHUNG COUNTY, 41349, TAIWAN
+SN 1680-8584
+EI 2071-1409
+J9 AEROSOL AIR QUAL RES
+JI Aerosol Air Qual. Res.
+PD JUN
+PY 2015
+VL 15
+IS 3
+BP 926
+EP 934
+DI 10.4209/aaqr.2014.05.0091
+PG 9
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA CK5AA
+UT WOS:000356233300017
+OA Bronze
+DA 2019-03-26
+ER
+
+PT B
+AU Kaur, R
+AF Kaur, Ravinder
+BE Zhu, X
+   Zhao, S
+TI Sustainable Health Policies and Human Development in India: A Study of
+   National Health Mission (NHM)
+SO PROCEEDINGS OF 2015 INTERNATIONAL CONFERENCE ON PUBLIC ADMINISTRATION
+   (11TH) VOL I
+LA English
+DT Proceedings Paper
+CT 11th International Conference on Public Administration
+CY DEC 09-11, 2015
+CL Padjadjaran Univ, Fac Social & Polit Sci, Bandung, INDONESIA
+SP Univ Elect Sci & Technol China, Sch Polit Sci & Publ Adm, Padjadjaran Univ Indonesia, Univ Elect Sci & Technol China, Amer Soc Publ Adm, Chinese Publ Adm Journal, Cape Peninsula Univ Technol, Fac Business, Univ Elect Sci & Technol China, PA Informat Res Ctr
+HO Padjadjaran Univ, Fac Social & Polit Sci
+DE Accredited Social Health Activist (ASHA); Primary Health Centre (PHC);
+   Community Health Centre (CHC); National Health Mission (NHM); National
+   Rural Health Mission (NRHM)
+ID PROGRAM
+AB India being an overpopulated developing country, poverty and unemployment are commonly observed and Government struggles to provide basic health services to all its citizens, particularly the poor. Despite several efforts made by the Government, Human Development Report of 2014 released by UNDP indicated that India ranks 135 out of 186 countries on its human development index (HDI) a composite measure of life expectancy, access to education and income levels. Clearly poverty being the root cause of all health issues, like maternal and infant mortality, malnutrition & starvation, all of them culminate into health related disasters.
+   Right from independence, Government of India has initiated number of health programs for the benefit of poor across the country. National Health Mission (NHM) is one such program. Initially the Government focused on to addressing the health needs of under-served rural areas in the country through National Rural Health Mission (NRHM 2005). Thrust of the mission has been establishing a fully functional, community owned decentralized health delivery system. As per the 12th Five year Plan the flagship program of NRHM was strengthened under the umbrella of National Health Mission (NHM). The focus on covering rural areas and rural population continued along with up-scaling of NRHM to include non-communicable diseases and expanding health coverage to urban areas. Government of India launched the National Urban Health Mission (NUHM) as a sub-mission of an overarching National Health Mission (NHM), along with National Rural Health Mission (NRHM) in 2013.
+   NHM aims at reducing infant and maternal mortality rate, universal access to public health services, prevention and control of diseases, increased access to primary health care, population stabilization along with gender and demographic balance and increased life span levels through well chalked strategies like promotion of accredited social health activists (ASHA) at household level, health plan through village health committees, strengthening the PHCs and CHCs, promotion of hospital management committees, health care contractors, mobile health services, free ambulance services, free drugs and diagnostic services along with mother and child care units which take care of pregnancy and child delivery complications through sub policies like Janani and Shishu Suraksha Yojanas both in rural and urban areas. This paper makes a comprehensive study of the NHM policy and its implications on Indian health sector.
+C1 [Kaur, Ravinder] Osmania Univ, Dept Publ Adm, Hyderabad 500007, Andhra Pradesh, India.
+RP Kaur, R (reprint author), Osmania Univ, Dept Publ Adm, Hyderabad 500007, Andhra Pradesh, India.
+CR [Anonymous], 2006, MET MORT IND 1997 20
+   Deolalikar AB, 2008, HEALTH AFFAIR, V27, P978, DOI 10.1377/hlthaff.274.978
+   Jagadish B., 2014, Abhinav-National Monthly Refereed Journal Of Research In Arts & Education, V3, P1
+   Kumar S., 2004, INDIAN J PUBLIC HLTH, V49, P163
+   MAINE D, 1993, SAFE MOTHERHOOD PROG
+   Maternal Health National Family Health Survey, 2006, MET HLTH NAT FAM HLT
+   Mavalankar D, 2008, B WORLD HEALTH ORGAN, V86, P243, DOI 10.2471/BLT.07.048454
+   Paul VK, 2010, LANCET, V375, P1943, DOI 10.1016/S0140-6736(10)60901-4
+   Prasad A. M., 2013, GLOBAL HLTH ACTION, V6
+   Scott K, 2010, AIDS CARE, V22, P1606, DOI 10.1080/09540121.2010.507751
+   Shukla S, 2012, LANCET, V379, P698, DOI 10.1016/S0140-6736(12)60293-1
+   Ved RR, 2005, NATL COMMISSION MACR
+NR 12
+TC 0
+Z9 0
+U1 1
+U2 1
+PU UNIV ELECTRONIC SCIENCE & TECHNOLOGY CHINA PRESS
+PI CHENGDU
+PA UESTC PRESS, CHENGDU, 610054, PEOPLES R CHINA
+BN 978-7-5647-2307-1
+PY 2015
+BP 224
+EP 234
+PG 11
+WC Public Administration
+SC Public Administration
+GA BE5WI
+UT WOS:000373537900025
+DA 2019-03-26
+ER
+
+PT J
+AU Luitel, NP
+   Jordans, MJD
+   Adhikari, A
+   Upadhaya, N
+   Hanlon, C
+   Lund, C
+   Komproe, IH
+AF Luitel, Nagendra P.
+   Jordans, Mark J. D.
+   Adhikari, Anup
+   Upadhaya, Nawaraj
+   Hanlon, Charlotte
+   Lund, Crick
+   Komproe, Ivan H.
+TI Mental health care in Nepal: current situation and challenges for
+   development of a district mental health care plan
+SO CONFLICT AND HEALTH
+LA English
+DT Article
+DE Mental health; Situation analysis; Integration of mental health into
+   PHC; Mental health care plan; Nepal
+AB Background: Globally mental health problems are a serious public health concern. Currently four out of five people with severe mental illness in Low and Middle Income Countries (LMIC) receive no effective treatment. There is an urgent need to address this enormous treatment gap. Changing the focus of specialist mental health workers (psychiatrists and psychologists) from only service delivery to also designing and managing mental health services; building clinical capacity of the primary health care (PHC) workers, and providing supervision and quality assurance of mental health services may help in scaling up mental health services in LMICs. Little is known however, about the mental health policy and services context for these strategies in fragile-state settings, such as Nepal.
+   Method: A standard situation analysis tool was developed by the PRogramme for Improving Mental health carE (PRIME) consortium to systematically analyze and describe the current gaps in mental health care in Nepal, in order to inform the development of a district level mental health care plan (MHCP). It comprised six sections; general information (e.g. population, socio-economic conditions); mental health policies and plans; mental health treatment coverage; district health services; and community services. Data was obtained from secondary sources, including scientific publications, reports, project documents and hospital records.
+   Results: Mental health policy exists in Nepal, having been adopted in 1997, but implementation of the policy framework has yet to begin. In common with other LMICs, the budget allocated for mental health is minimal. Mental health services are concentrated in the big cities, with 0.22 psychiatrists and 0.06 psychologists per 100,000 population. The key challenges experienced in developing a district level MHCP included, overburdened health workers, lack of psychotropic medicines in the PHC, lack of mental health supervision in the existing system, and lack of a coordinating body in the Ministry of Health and Population (MoHP). Strategies to overcome these challenges included involvement of MoHP in the process, especially by providing psychotropic medicines and appointing a senior level officer to facilitate project activities, and collaboration with National Health Training Centers (NHTC) in training programs.
+   Conclusions: This study describes many challenges facing mental health care in Nepal. Most of these challenges are not new, yet this study contributes to our understanding of these difficulties by outlining the national and district level factors that have a direct influence on the development of a district level mental health care plan.
+C1 [Luitel, Nagendra P.; Adhikari, Anup; Upadhaya, Nawaraj] TPO, Res Dept, Kathmandu, Nepal.
+   [Jordans, Mark J. D.; Komproe, Ivan H.] HealthNet TPO, Res & Dev Dept, NL-1073 RG Amsterdam, Netherlands.
+   [Jordans, Mark J. D.; Hanlon, Charlotte] Kings Coll London, Inst Psychiat Psychol & Neurosci, Ctr Global Mental Hlth, London SE5 8AF, England.
+   [Hanlon, Charlotte] Addis Ababa Univ, Coll Hlth Sci, Sch Med, Dept Psychiat, Addis Ababa, Ethiopia.
+   [Lund, Crick] Univ Cape Town, Dept Psychiat & Mental Hlth, Alan J Flisher Ctr Publ Mental Hlth, Cape Town, South Africa.
+   [Komproe, Ivan H.] Univ Utrecht, Fac Social & Behav Sci, Utrecht, Netherlands.
+RP Luitel, NP (reprint author), TPO, Res Dept, Kathmandu, Nepal.
+EM luitelnp@gmail.com
+OI Hanlon, Charlotte/0000-0002-7937-3226; Jordans,
+   Mark/0000-0001-5925-8039; Lund, Crick/0000-0002-5159-8220
+FU UK Government
+FX This document is an output from the PRIME Research Programme Consortium,
+   funded by UK aid from the UK Government, however the views expressed do
+   not necessarily reflect the UK Government's official policies. We want
+   to thank Ms. Sirjana Pandey, Mr. Laxminath Koirala and Ms. Prasansa
+   Subba for their involvement in the study.
+CR COHEN A, 2001, EFFECTIVENESS MENTAL
+   Eaton J, 2011, LANCET, V378, P1592, DOI 10.1016/S0140-6736(11)60891-X
+   ERAN MoHP, 2011, MIN HLTH POP NEW ERA
+   Hanlon C, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0088437
+   Harwin J, 2008, CHILD ABUSE REV, V17, P365, DOI 10.1002/car.1051
+   Jordans M. J. D., BRIT J PSYCHIAT
+   Jordans M, 2010, INTERVENTION, V8, P52, DOI 10.1097/WTF.0b013e3283346497
+   Jordans MJD, 2013, BMC PSYCHIATRY, V13, DOI 10.1186/1471-244X-13-332
+   Kakuma R, 2011, LANCET, V378, P1654, DOI 10.1016/S0140-6736(11)61093-3
+   Kohn R, 2004, B WORLD HEALTH ORGAN, V82, P858
+   Kohrt BA, AM J PUBLIC HLTH
+   Kohrt BA, 2008, JAMA-J AM MED ASSOC, V300, P691, DOI 10.1001/jama.300.6.691
+   Kohrt BA, 2012, BRIT J PSYCHIAT, V201, P268, DOI 10.1192/bjp.bp.111.096222
+   Kohrt BA, 2009, ANN HUM BIOL, V36, P261, DOI 10.1080/03014460902839194
+   Luitel NP, 2013, SOC PSYCH PSYCH EPID, V48, P183, DOI 10.1007/s00127-012-0539-0
+   Lund C, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001359
+   Lund C, 2010, SOC SCI MED, V71, P517, DOI 10.1016/j.socscimed.2010.04.027
+   MoH, 1991, NAT HLTH POL 1991
+   MoHP, 2011, OP MAN
+   MoHP, 2009, MAT MORT MORB STUD
+   MoHP, 2012, MAINSTR PSYCH CAR EX
+   MoHP, 2010, NEP HLTH SECT SUPP P
+   MoHP, 1997, NAT MENT HLTH POL
+   MWCSW, 2012, MIN WOM CHILDR SOC W
+   Ovuga E, 2007, WORLD PSYCHIATRY, V6, P60
+   Patel V, 2009, PSYCHOL MED, V39, P1759, DOI 10.1017/S0033291709005224
+   Patel V, 2010, LANCET, V376, P2086, DOI 10.1016/S0140-6736(10)61508-5
+   Perez-Sales P, INTERVENTION
+   Pradhan S. N., 2013, J KATHMANDU MED COLL, V2, P21
+   Raja S, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001261
+   Regmi SK, 2004, INT REV PSYCHIATR, V16, P142, DOI 10.1080/09540260310001635186
+   Saraceno B, 2007, LANCET, V370, P1164, DOI 10.1016/S0140-6736(07)61263-X
+   Shrestha M, 2011, POSTGRAD MED J NAMS, V11, P28
+   Silove D, J POSTGRAD MED
+   Singh S, 2004, CAN MED ASSOC J, V171, P1499, DOI 10.1503/cmaj.1040777
+   Singh Sonal, 2005, Int J Equity Health, V4, P9, DOI 10.1186/1475-9276-4-9
+   Somasundaram DJ, 1999, SOC SCI MED, V48, P1029, DOI 10.1016/S0277-9536(98)00415-8
+   Teferra S, 2011, BMC PSYCHIATRY, V11, DOI 10.1186/1471-244X-11-165
+   Thapa SB, 2005, SOC PSYCH PSYCH EPID, V40, P672, DOI 10.1007/s00127-005-0943-9
+   Thara R., 2010, Indian Journal of Psychiatry, V52, P389, DOI 10.4103/0019-5545.69276
+   Thornicroft G, 2010, WORLD PSYCHIATRY, V9, P67
+   Tol WA, 2007, J NERV MENT DIS, V195, P463, DOI 10.1097/NMD.0b013e31802f5dac
+   UNDP, 2013, RIS S HUM PROGR DIV
+   Upadhaya N, 2014, INTERVENTION, V12, P113, DOI 10.1097/WTF.0000000000000064
+   Upadhyaya KD, 2013, J PSYCHIATRISTS ASS, V2, P14
+   van Ginneken N, 2013, COCHRANE DB SYST REV, V11, P9149, DOI DOI 10.1002/14651858.CD009149.PUB2
+   Ventevogel P, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001225
+   Whiteford HA, 2013, LANCET, V382, P1575, DOI 10.1016/S0140-6736(13)61611-6
+   WHO, 2008, SCAL CAR MENT NEUR S
+   World Health Organisation, 2011, MENT HLTH ATL 2011
+   World Health Organization, BUILD BACK BETT SUST
+   World Health Organization, 2006, WHO AIMS REP MENT HL
+   World Health Organization, 2008, INT MENT HLTH PRIM C
+   World Health Organization, 2001, WORLD HLTH REP MENT
+   World Health Organization, 2010, MHGAP INT GUID MENT
+NR 55
+TC 27
+Z9 27
+U1 0
+U2 4
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1752-1505
+J9 CONFL HEALTH
+JI Confl. Health
+PY 2015
+VL 9
+AR 3
+DI 10.1186/s13031-014-0030-5
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA V1N0K
+UT WOS:000217052500003
+PM 25694792
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

@@ -1,0 +1,532 @@
+
+PT J
+AU Mohegh, A
+   Rosado, P
+   Jin, L
+   Millstein, D
+   Levinson, R
+   Ban-Weiss, G
+AF Mohegh, Arash
+   Rosado, Pablo
+   Jin, Ling
+   Millstein, Dev
+   Levinson, Ronnen
+   Ban-Weiss, George
+TI Modeling the climate impacts of deploying solar reflective cool
+   pavements in California cities
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+ID URBAN HEAT-ISLAND; CANOPY MODEL; LOS-ANGELES; MITIGATION; ALBEDO;
+   SIMULATION; VEGETATION; STRATEGY; ARIZONA; COVER
+AB Solar reflective "cool pavements" have been proposed as a potential heat mitigation strategy for cities. However, previous research has not systematically investigated the extent to which cool pavements could reduce urban temperatures. In this study we investigated the climate impacts of widespread deployment of cool pavements in California cities. Using the Weather Research and Forecasting model, we simulated the current climate of California at 4 km spatial resolution. Comparing this simulation to 105 weather stations in California suggested an overall mean bias (model minus observation) of -0.30 degrees C. Widespread pavement albedo increases of 0.1 and 0.4 in California cities were then simulated. Comparing temperature reductions for each scenario showed that the climate response to pavement albedo modification was nearly linear. Temperature reductions at 14: 00 local standard time were found to be 0.32 degrees C per 0.1 increase in grid cell average albedo. Temperature reductions were found to peak in the late morning and evening when (a) boundary layer heights were low and (b) solar irradiance (late morning) and heat accumulation in the pavement (evening) was high. Temperature reductions in summer were found to exceed those in winter, as expected. After scaling the results using realistic data-derived urban canyon morphologies and an off-line urban canyon albedo model, annual average surface air temperature reductions from increasing pavement albedo by 0.4 ranged from 0.18 degrees C (Palm Springs) to 0.86 degrees C (San Jose). The variation among cities was due to differences in baseline climate, size of the city, urban fraction, and urban morphology.
+C1 [Mohegh, Arash; Ban-Weiss, George] Univ Southern Calif, Civil & Environm Engn, Los Angeles, CA 90089 USA.
+   [Rosado, Pablo; Jin, Ling; Millstein, Dev; Levinson, Ronnen] Lawrence Berkeley Natl Lab, Heat Isl Grp, Berkeley, CA USA.
+RP Ban-Weiss, G (reprint author), Univ Southern Calif, Civil & Environm Engn, Los Angeles, CA 90089 USA.
+EM banweiss@usc.edu
+OI Ban-Weiss, George/0000-0001-8211-2628
+FU California Air Resources Board [12-314]; National Science Foundation
+   [CBET-1512429, CCF-1539608]; Office of Building Technology, State, and
+   Community Programs of the U.S. Department of Energy [DE-AC02-05CH11231];
+   University of Southern California's Center for High-Performance
+   Computing
+FX This research was funded by the California Air Resources Board under
+   contract 12-314. G.B.W. and A.M. were also funded in part by the
+   National Science Foundation under grants CBET-1512429 and CCF-1539608.
+   The research was also supported by the Assistant Secretary for Energy
+   Efficiency and Renewable Energy, Office of Building Technology, State,
+   and Community Programs, of the U.S. Department of Energy under contract
+   DE-AC02-05CH11231. We thank Haley Gilbert and Ben Mandel from Lawrence
+   Berkeley Lab for valuable input. All data used in this study (other than
+   raw model output files) are freely available, cited in the main body of
+   the paper, and listed in the reference section. Due to extremely large
+   file size, raw model output may be obtained from the corresponding
+   author. Computation for the work described in this paper was supported
+   by the University of Southern California's Center for High-Performance
+   Computing (hpc.usc.edu). The statements and conclusions in this paper
+   are those of the authors and not necessarily those of the California Air
+   Resources Board.
+CR [Anonymous], 2016, CAL BUILD CLIM ZON A
+   Arnfield AJ, 2003, INT J CLIMATOL, V23, P1, DOI 10.1002/joc.859
+   Chen F, 2011, INT J CLIMATOL, V31, P273, DOI 10.1002/joc.2158
+   DOT Sacramento, 2009, DES PROC MAN
+   DOT San Jose, 2010, GEOM DES GUID
+   Erell E, 2014, URBAN CLIM, V10, P367, DOI 10.1016/j.uclim.2013.10.005
+   Fast JD, 2005, J APPL METEOROL, V44, P3, DOI 10.1175/JAM-2176.1
+   Garfin G, 2013, NCA REGION INPUT REP, P21, DOI 10.5822/978-1-61091-484-0_2
+   Georgescu M, 2013, NAT CLIM CHANGE, V3, P37, DOI 10.1038/nclimate1656
+   Georgescu M, 2014, P NATL ACAD SCI USA, V111, P2909, DOI 10.1073/pnas.1322280111
+   Gilbert HE, 2017, ENERG BUILDINGS, V157, P53, DOI 10.1016/j.enbuild.2017.03.051
+   GRELL GA, 1993, MON WEATHER REV, V121, P764, DOI 10.1175/1520-0493(1993)121<0764:PEOAUB>2.0.CO;2
+   Grimmond S, 2007, GEOGR J, V173, P83, DOI 10.1111/j.1475-4959.2007.232_3.x
+   Homer C, 2007, PHOTOGRAMM ENG REM S, V73, P337
+   Hong S.-Y., 2006, J KOREAN METEOR SOC, V42, P129, DOI DOI 10.1002/QJ.49712656914
+   Hong SY, 2006, MON WEATHER REV, V134, P2318, DOI 10.1175/MWR3199.1
+   Imhoff ML, 2010, REMOTE SENS ENVIRON, V114, P504, DOI 10.1016/j.rse.2009.10.008
+   Kusaka H, 2004, J METEOROL SOC JPN, V82, P67, DOI 10.2151/jmsj.82.67
+   Kusaka H, 2001, BOUND-LAY METEOROL, V101, P329, DOI 10.1023/A:1019207923078
+   Levinson R., 1997, THESIS
+   Levinson R., 2017, 12314 CAL AIR RES BO
+   Li D, 2014, ENVIRON RES LETT, V9, DOI 10.1088/1748-9326/9/5/055002
+   Li D, 2014, ENVIRON RES LETT, V9, DOI 10.1088/1748-9326/9/5/055001
+   Li D, 2013, J APPL METEOROL CLIM, V52, P2051, DOI 10.1175/JAMC-D-13-02.1
+   Li H, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/1/015023
+   Li H., 2012, BUILD ENVIRON, V59, P536, DOI DOI 10.1016/J.BUILDENV.2012.10.014
+   Li H., 2012, THESIS
+   Lynn BH, 2009, J APPL METEOROL CLIM, V48, P199, DOI 10.1175/2008.1AMC1774.1
+   Mackey CW, 2012, BUILD ENVIRON, V49, P348, DOI 10.1016/j.buildenv.2011.08.004
+   Millstein DE, 2014, ENVIRON RES LETT, V9, DOI 10.1088/1748-9326/9/10/104014
+   Millstein D, 2018, URBAN CLIM, V24, P616, DOI 10.1016/j.uclim.2017.02.005
+   Millstein D, 2011, ENVIRON RES LETT, V6, DOI 10.1088/1748-9326/6/3/034001
+   Mlawer EJ, 1997, J GEOPHYS RES-ATMOS, V102, P16663, DOI 10.1029/97JD00237
+   OKE TR, 1982, Q J ROY METEOR SOC, V108, P1, DOI 10.1002/qj.49710845502
+   OKE TR, 1973, ATMOS ENVIRON, V7, P769, DOI 10.1016/0004-6981(73)90140-6
+   Peng SS, 2012, ENVIRON SCI TECHNOL, V46, P696, DOI 10.1021/es2030438
+   Romeo C, 2013, ENERG BUILDINGS, V67, P647, DOI 10.1016/j.enbuild.2011.07.023
+   Rosado PJ, 2017, SOL ENERGY, V144, P144, DOI 10.1016/j.solener.2016.12.026
+   Rosenfeld AH, 1998, ENERG BUILDINGS, V28, P51, DOI 10.1016/S0378-7788(97)00063-7
+   ROSENFELD AH, 1995, ENERG BUILDINGS, V22, P255, DOI 10.1016/0378-7788(95)00927-P
+   Ryan Snyder Associates, 2011, TRANSP PLANN LIV COM
+   Sailor D.J., 2002, P 4 S URB ENV MAY 20, V4, P68
+   SAILOR DJ, 1995, J APPL METEOROL, V34, P1694, DOI 10.1175/1520-0450-34.7.1694
+   Salamanca F., 2016, BOUND-LAY METEOROL, DOI [10.1007/s10546-016-0160-y, DOI 10.1007/S10546-016-0160-Y]
+   Santamouris M, 2014, SOL ENERGY, V103, P682, DOI 10.1016/j.solener.2012.07.003
+   Savio P., 2006, MITIGATING NEW YORK
+   Seinfeld J. H., 2006, ATMOSPHERIC CHEM PHY
+   Skamarock W. C., 2008, NCARTN475STR NCAR, DOI DOI 10.5065/D68S4MVH
+   Synnefa A, 2008, J APPL METEOROL CLIM, V47, P2846, DOI 10.1175/2008JAMC1830.1
+   Synnefa A, 2011, BUILD ENVIRON, V46, P38, DOI 10.1016/j.buildenv.2010.06.014
+   Taha H, 1997, ENERG BUILDINGS, V25, P99, DOI 10.1016/S0378-7788(96)00999-1
+   Taha H, 2008, BOUND-LAY METEOROL, V127, P219, DOI 10.1007/s10546-007-9259-5
+   Taha H, 2008, BOUND-LAY METEOROL, V127, P193, DOI 10.1007/s10546-007-9258-6
+   Taha H, 2015, INT J LOW-CARBON TEC, V10, P3, DOI 10.1093/ijlct/ctt010
+   Taha H, 2013, SOL ENERGY, V91, P358, DOI 10.1016/j.solener.2012.09.014
+   Taha H, 2008, ATMOS ENVIRON, V42, P8795, DOI 10.1016/j.atmosenv.2008.06.036
+   Taleghani M., 2016, ENVIRON RES LETT, V11, P2
+   U. S. Census, 2002, 2000 TIG LIN SHAP
+   Vahmani P, 2016, GEOPHYS RES LETT, V43, P8240, DOI 10.1002/2016GL069658
+   Vahmani P, 2016, J GEOPHYS RES-ATMOS, V121, P1511, DOI 10.1002/2015JD023718
+   VAHMANI P, 2016, ENVIRON RES LETT, V11, DOI DOI 10.1088/1748-9326/11/12/124027.
+   Voogt JA, 2003, REMOTE SENS ENVIRON, V86, P370, DOI 10.1016/S0034-4257(03)00079-8
+   Yang J., 2014, UNINTENDED CONSEQUEN
+   Yang JC, 2015, RENEW SUST ENERG REV, V47, P830, DOI 10.1016/j.rser.2015.03.092
+   ZCSC, 2015, SACR COUNTR ZON COD
+   Zhang J., 2016, ENVIRON RES LETT, V11, DOI DOI 10.1088/1748-9326/11/8/084014
+   Zhao L, 2014, NATURE, V511, P216, DOI 10.1038/nature13462
+   Zhao Z, 2011, J CLIMATE, V24, P3344, DOI 10.1175/2011JCLI3849.1
+   Zhou Y, 2010, NAT HAZARDS, V52, P639, DOI 10.1007/s11069-009-9406-z
+NR 69
+TC 6
+Z9 6
+U1 1
+U2 7
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 2169-8996
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD JUL 16
+PY 2017
+VL 122
+IS 13
+BP 6798
+EP 6817
+DI 10.1002/2017JD026845
+PG 20
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA FE0HB
+UT WOS:000407900300007
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Quintero, J
+   Garcia-Betancourt, T
+   Caprara, A
+   Basso, C
+   da Rosa, EG
+   Manrique-Saide, P
+   Coelho, G
+   Sanchez-Tejeda, G
+   Dzul-Manzanilla, F
+   Garcia, DA
+   Carrasquilla, G
+   Alfonso-Sierra, E
+   Motta, CMV
+   Sommerfeld, J
+   Kroeger, A
+AF Quintero, Juliana
+   Garcia-Betancourt, Tatiana
+   Caprara, Andrea
+   Basso, Cesar
+   Garcia da Rosa, Elsa
+   Manrique-Saide, Pablo
+   Coelho, Giovanini
+   Sanchez-Tejeda, Gustavo
+   Dzul-Manzanilla, Felipe
+   Alejandro Garcia, Diego
+   Carrasquilla, Gabriel
+   Alfonso-Sierra, Eduardo
+   Vasconcelos Motta, Cyntia Monteiro
+   Sommerfeld, Johannes
+   Kroeger, Axel
+TI Taking innovative vector control interventions in urban Latin America to
+   scale: lessons learnt from multi-country implementation research
+SO PATHOGENS AND GLOBAL HEALTH
+LA English
+DT Article
+DE Aedes aegypti; vector control; prevention; scaling up; process
+   evaluation; Latin America
+ID CLUSTER RANDOMIZED-TRIAL; UP HIV/AIDS; DENGUE; EXPERIENCE; ENVIRONMENT;
+   PROJECT; HEALTH; CARE
+AB Prior to the current public health emergency following the emergence of chikungunya and Zika Virus Disease in the Americas during 2014 and 2015, multi-country research investigated between 2011 and 2013 the efficacy of novel Aedes aegypti intervention packages through cluster randomised controlled trials in four Latin-American cities: Fortaleza (Brazil); Girardot (Colombia), Acapulco (Mexico) and Salto (Uruguay). Results from the trials led to a scaling up effort of the interventions at city levels. Scaling up refers to deliberate efforts to increase the impact of successfully tested health interventions to benefit more people and foster policy and program development in a sustainable way. The different scenarios represent examples for a 'vertical approach' and a 'horizontal approach'. This paper presents the analysis of a preliminary process evaluation of the scaling up efforts in the mentioned cites, with a focus on challenges and enabling factors encountered by the research teams, analysing the main social, political, administrative, financial and acceptance factors.
+C1 [Quintero, Juliana; Garcia-Betancourt, Tatiana; Carrasquilla, Gabriel] Fdn Santa Fe Bogota, Div Publ Hlth, Bogota, Colombia.
+   [Caprara, Andrea; Vasconcelos Motta, Cyntia Monteiro] Univ Estadual Ceara, Ctr Ciencias Saude, Fortaleza, Ceara, Brazil.
+   [Basso, Cesar] Univ Republica, Fac Agron, Dept Protecc Vegetal, Montevideo, Uruguay.
+   [Garcia da Rosa, Elsa] Univ Republ, Fac Vet, Dept Parasitol Vet, Salto, Uruguay.
+   [Manrique-Saide, Pablo] Univ Autonoma Yucatan, Dept Zool, Campus Ciencias Biol & Agr, Merida, Mexico.
+   [Coelho, Giovanini] Minist Saude, Natl Dengue Control Programme, Secretariat Hlth Surveillance, Brasilia, DF, Brazil.
+   [Sanchez-Tejeda, Gustavo; Dzul-Manzanilla, Felipe] Secretaria Salud Mexico, Ctr Nacl Programas Prevent & Control Enfermedades, Mexico City, Mexico.
+   [Alejandro Garcia, Diego] Minist Salud & Protecc Social, Subdirecc Enfermedades Transmisibles, Bogota, Colombia.
+   [Alfonso-Sierra, Eduardo] Univ Freiburg, Ctr Med & Soc Phys Anthropol, Freiburg, Germany.
+   [Sommerfeld, Johannes; Kroeger, Axel] WHO, Special Programme Res & Training Trop Dis TDR, Geneva, Switzerland.
+   [Sommerfeld, Johannes] WHO, Ctr Hlth Dev, Kobe, Hyogo, Japan.
+RP Quintero, J (reprint author), Fdn Santa Fe Bogota, Div Publ Hlth, Bogota, Colombia.
+EM julianaquinteroe@gmail.com
+RI Caprara, Andrea/F-8399-2012
+OI Caprara, Andrea/0000-0003-1972-8205; Garcia-Betancourt,
+   Tatiana/0000-0002-1567-5030; Carrasquilla, Gabriel/0000-0002-9449-4931;
+   Quintero, Juliana/0000-0003-3005-4184
+FU UNICEF/UNDP/World Bank/WHO Special Programme for Research and Training
+   in Tropical Diseases (TDR); International Development Research Center
+   (IDRC) [HQTDR1409927]; Consejo Nacional de Ciencia y Tecnologia
+   (CONACYT) through Project 'Control integrado de Ae. aegypti con
+   estrategias y herramientas innovadoras en la zona de alto riesgo para la
+   transmision del dengue en Guerrero Mexico'; International Development
+   Research Center (IDRC); Departamento de Ciencia, Tecnologia e Innovacion
+   Colciencias (CTeI); project 'Enfoque Ecobiosocial para el diseno e
+   implementacion de una estrategia sostenible para el control del vector
+   de dengue en Girardot, Fase 3. Viabilidad y costo efectividad de una
+   intervencion innovadora para el control del vector de dengue'
+   [622172553374]; Consejo Nacional de Ciencia y Tecnologia (CONACYT)
+   through Project 'Casas y escuelas a prueba de Aedes aegypti para
+   maximizar el control y la prevencion del dengue en areas de riesgo en
+   Yucatan'
+FX This work was financially supported by the UNICEF/UNDP/World Bank/WHO
+   Special Programme for Research and Training in Tropical Diseases (TDR)
+   and International Development Research Center (IDRC) [grant number
+   HQTDR1409927]; In Mexico, the studies additionally received financial
+   support by el Consejo Nacional de Ciencia y Tecnologia (CONACYT) through
+   the Projects 'Control integrado de Ae. aegypti con estrategias y
+   herramientas innovadoras en la zona de alto riesgo para la transmision
+   del dengue en Guerrero Mexico' y 'Casas y escuelas a prueba de Aedes
+   aegypti para maximizar el control y la prevencion del dengue en areas de
+   riesgo en Yucatan'. In Colombia, the study received additional support
+   of the International Development Research Center (IDRC) through the
+   project 'Intersectoral Municipal Leadership for Health' and by the
+   Departamento de Ciencia, Tecnologia e Innovacion Colciencias (CTeI) and
+   through the project 'Enfoque Ecobiosocial para el diseno e
+   implementacion de una estrategia sostenible para el control del vector
+   de dengue en Girardot, Fase 3. Viabilidad y costo efectividad de una
+   intervencion innovadora para el control del vector de dengue' [project
+   number 622172553374].
+CR Achee NL, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003655
+   Alfonso-Sierra E., 2016, PATHOG GLOB HEALTH, V7724, P1
+   Anchalia MM, 2011, INT J QUAL HEALTH C, V23, P464, DOI 10.1093/intqhc/mzr007
+   [Anonymous], 2013, OUTLOOKS PEST MANAG, V24, P142
+   Basso C, 2015, T ROY SOC TROP MED H, V109, P134, DOI 10.1093/trstmh/tru183
+   Binswanger HP, 2000, SCIENCE, V288, P2173, DOI 10.1126/science.288.5474.2173
+   Bowman LR, 2016, PLOS NEGLECT TROP D, V10, P1, DOI DOI 10.1371/J0URNAL.PNTD.0004551
+   Caprara A, 2015, T ROY SOC TROP MED H, V109, P99, DOI 10.1093/trstmh/tru187
+   Chambers R., 2009, GOING SCALE COMMUNIT
+   Che-Mendoza A, 2015, T ROY SOC TROP MED H, V109, P106, DOI 10.1093/trstmh/tru189
+   Corbin J Hope, 2012, Glob Health Action, V5, P18369, DOI 10.3402/gha.v5i0.18369
+   ExpandNet WHO, 2009, PRACT GUID SCAL HLTH
+   Fitzgerald J, 2005, REV PANAM SALUD PUBL, V17, P66, DOI 10.1590/S1020-49892005000100012
+   Focks DA, 2006, TROP MED, V31, P56
+   George A, 2011, HEALTH POLICY PLANN, V26, P327, DOI 10.1093/heapol/czq048
+   Ghiron L, 2014, REPROD HEALTH MATTER, V22, P84, DOI 10.1016/S0968-8080(14)43761-3
+   Gomez-Dantes H, 2011, SALUD PUBLICA MEXICO, V53, pS349
+   Horstick O, 2010, T ROY SOC TROP MED H, V104, P379, DOI 10.1016/j.trstmh.2009.07.027
+   Keyonzo N, 2015, REPROD HEALTH MATTER, V23, P103, DOI 10.1016/j.rhm.2015.06.010
+   Magesa SM, 2005, MALARIA J, V4, DOI 10.1186/1475-2875-4-34
+   Mangham LJ, 2010, HEALTH POLICY PLANN, V25, P85, DOI 10.1093/heapol/czp066
+   Manrique-Saide P, 2015, EMERG INFECT DIS, V21, P308, DOI 10.3201/eid2102.140533
+   Nsutebu EF, 2001, HEALTH POLICY PLANN, V16, P240, DOI 10.1093/heapol/16.3.240
+   Pevzner ES, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-550
+   Quintero J, 2015, T ROY SOC TROP MED H, V109, P116, DOI 10.1093/trstmh/tru208
+   Simmons R, 2007, SCALING UP HEALTH SERVICE DELIVERY: FROM PILOT INNOVATIONS TO POLICIES AND PROGRAMMES, P1
+   Simmons Ruth, 2007, SCALING HLTH SERVICE
+   Sommerfeld J, 2015, T ROY SOC TROP MED H, V109, P85, DOI 10.1093/trstmh/tru176
+   Tambo E, 2012, INFECT DIS POVERTY, V1, DOI 10.1186/2049-9957-1-7
+   Tun-Lin W, 2009, TROP MED INT HEALTH, V14, P1143, DOI 10.1111/j.1365-3156.2009.02341.x
+   Walker CLF, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1000428
+   WHO ExpandNet, 2011, BEG END MIND PLANN P
+   WHO Regional Office for South-East-Asia, 2012, COMPR GUID PREV CONT
+   World Health Organization, 2012, GLOB STRAT DENG PREV
+   Yamey G, 2012, GLOBALIZATION HEALTH, V8, DOI 10.1186/1744-8603-8-11
+   Yamey G, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001049
+NR 36
+TC 0
+Z9 0
+U1 2
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 2047-7724
+EI 2047-7732
+J9 PATHOG GLOB HEALTH
+JI Pathog. Glob. Health
+PY 2017
+VL 111
+IS 6
+BP 306
+EP 316
+DI 10.1080/20477724.2017.1361563
+PG 11
+WC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+SC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+GA FL8RZ
+UT WOS:000414519100005
+PM 28829235
+DA 2019-03-26
+ER
+
+PT J
+AU El-Zein, A
+   Tonmoy, FN
+AF El-Zein, Abbas
+   Tonmoy, Fahim N.
+TI Nonlinearity, fuzziness and incommensurability in indicator-based
+   assessments of vulnerability to climate change: A new mathematical
+   framework
+SO ECOLOGICAL INDICATORS
+LA English
+DT Article
+DE Vulnerability assessment; Climate change; Aggregation; Nonlinear;
+   Outranking; Mathematical framework
+ID HEAT-STRESS; TEMPERATURE; MORTALITY; STATES
+AB The earth's climate system is highly nonlinear and the vulnerability of a community to a climate hazard is no exception. While this fact is widely accepted, indicator-based vulnerability assessments (IBVA) hardly ever take such nonlinearities into account. This is mainly due to the fact that the majority of assessment studies use methods based on Multiple Attribute Utility Theory (MAUT) (e.g. simple additive weight or multiplicative aggregation) to aggregate indicators. These methods convert all indicators into a global utility function and produce only a linear, threshold-free scaling of the effects of an indicator on vulnerability. In a previous paper, we showed that outranking procedures developed in decision-making science offer a more theoretically-sound approach to aggregation because they allow the analyst to incorporate the incommensurability, fuzziness and uncertainty associated with indicators. In this paper, we develop a new mathematical framework for vulnerability in order to clearly identify various sources of nonlinearity and incommensurability in vulnerability assessments. We then propose a new outranking formulation which can accommodate both and can be used to conduct assessments at different scales. We do so by introducing the concept of harm criterion as a mediator between an indicator-and the vulnerability it represents. The new assessment approach can aggregate a mix of indicators with various degrees of subjectivity and non-linearity, without converting them into a single utility function and without requiring them to be mutually compensating. We illustrate the proposed approach by applying it to a simplified model of urban vulnerability to heat, focusing on the non-linear relationship between mortality and temperature above a 'comfort temperature', long evidenced in the epidemiological literature. We compare vulnerability rankings yielded by linear and non-linear characterizations of the relationship between temperature and mortality and find that the incorporation of non linearity can have a significant impact on the rankings.
+C1 [El-Zein, Abbas] J05 Univ Sydney, Sch Civil Engn, Sydney, NSW 2006, Australia.
+   [Tonmoy, Fahim N.] G39 Griffith Univ, NCCARF, Gold Coast, Qld 4222, Australia.
+RP Tonmoy, FN (reprint author), G39 Griffith Univ, NCCARF, Gold Coast, Qld 4222, Australia.
+EM abbas.elzein@sydney.edu.au; fahim.tonmoy@sydney.edu.au
+RI Tonmoy, Fahim/A-1502-2012; El-Zein, Abbas/E-5811-2011; Tonmoy,
+   Fahim/C-6983-2019
+OI Tonmoy, Fahim/0000-0002-0963-112X; El-Zein, Abbas/0000-0003-4935-3299;
+   Tonmoy, Fahim/0000-0002-0963-112X
+CR Adger W. N., 1999, MITIGATION ADAPTATIO, V4, P253, DOI DOI 10.1023/A:1009601904210
+   Adger WN, 2006, GLOBAL ENVIRON CHANG, V16, P268, DOI 10.1016/j.gloenvcha.2006.02.006
+   Brenkert AL, 2005, CLIMATIC CHANGE, V72, P57, DOI 10.1007/s10584-005-5930-3
+   Curriero FC, 2002, AM J EPIDEMIOL, V155, P80, DOI 10.1093/aje/155.1.80
+   Cutter SL, 2003, SOC SCI QUART, V84, P242, DOI 10.1111/1540-6237.8402002
+   Duriyapong F., 2011, Songklanakarin Journal of Science and Technology, V33, P469
+   El Hanandeh A, 2010, BIORESOURCE TECHNOL, V101, P555, DOI 10.1016/j.biortech.2009.08.048
+   El-Zein A, 2004, SCI TOTAL ENVIRON, V330, P71, DOI 10.1016/j.scitotenv.2004.02.027
+   El-Zein A, 2013, CAUSES IMPACTS SOLUT
+   El-Zein A, 2015, ECOL INDIC, V48, P207, DOI 10.1016/j.ecolind.2014.08.012
+   Eriksen S. H., 2007, MITIGATION ADAPTATIO, V12, P495, DOI DOI 10.1007/S11027-006-3460-6
+   Fussel HM, 2007, GLOBAL ENVIRON CHANG, V17, P155, DOI 10.1016/j.gloenvcha.2006.05.002
+   Fussel HM, 2006, CLIMATIC CHANGE, V75, P301, DOI 10.1007/s10584-006-0329-3
+   Harlan SL, 2006, SOC SCI MED, V63, P2847, DOI 10.1016/j.socscimed.2006.07.030
+   Hinkel J, 2011, GLOBAL ENVIRON CHANG, V21, P198, DOI 10.1016/j.gloenvcha.2010.08.002
+   Hokkanen J., 1997, J MULTICRITERIA DECI, V6, P215, DOI 10.1002/(SICI)1099-1360(199707)6:4<less than>215::AID-MCDA139<greater than>3.0.CO;2-P
+   Ionescu C, 2009, ENVIRON MODEL ASSESS, V14, P1, DOI 10.1007/s10666-008-9179-x
+   IPCC, 2014, CLIMATE CHANGE 201 A
+   Johnson DP, 2009, APPL GEOGR, V29, P419, DOI 10.1016/j.apgeog.2008.11.004
+   Luers AL, 2003, GLOBAL ENVIRON CHANG, V13, P255, DOI 10.1016/S0959-3780(03)00054-2
+   McMichael AJ, 2008, INT J EPIDEMIOL, V37, P1121, DOI 10.1093/ije/dyn086
+   Parry M., 2007, CONTRIBUTION WORKING
+   Preston B. L., 2008, MAPPING CLIMATE CHAN
+   Reid C. E., 2009, ENV HLTH PERSPECT, V117
+   ROY B, 1968, REV FR INFORM RECH O, V2, P57
+   Tonmoy F. N., 2012, 21 NSW COAST C NSW C
+   Tonmoy FN, 2014, WIRES CLIM CHANGE, V5, P775, DOI 10.1002/wcc.314
+   Tonmoy FN, 2013, EUROPEAN SAFETY RELI, P509
+   Vaneckova P, 2010, SOC SCI MED, V70, P293, DOI 10.1016/j.socscimed.2009.09.058
+NR 29
+TC 4
+Z9 4
+U1 1
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1470-160X
+EI 1872-7034
+J9 ECOL INDIC
+JI Ecol. Indic.
+PD NOV
+PY 2017
+VL 82
+BP 82
+EP 93
+DI 10.1016/j.ecolind.2017.06.034
+PG 12
+WC Biodiversity Conservation; Environmental Sciences
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA FP3XQ
+UT WOS:000417551700009
+DA 2019-03-26
+ER
+
+PT J
+AU Dong, HG
+   Li, MH
+   Liu, R
+   Wu, CS
+   Wu, JS
+AF Dong, Hongguang
+   Li, Menghui
+   Liu, Ru
+   Wu, Chensheng
+   Wu, Jinshan
+TI Allometric scaling in scientific fields
+SO SCIENTOMETRICS
+LA English
+DT Article
+DE Allometric scaling law; Subject classification code; PACS; MSC; JEL
+ID BIBLIOMETRIC STATISTICAL PROPERTIES; POWER-LAW DISTRIBUTIONS; SCIENCE
+   SYSTEM; NETWORKS; INDICATORS; INNOVATION; RULES; LIFE
+AB Allometric scaling can reflect underlying mechanisms, dynamics and structures in complex systems; examples include typical scaling laws in biology, ecology and urban development. In this work, we study allometric scaling in scientific fields. By performing an analysis of the outputs/inputs of various scientific fields, including the numbers of publications, citations, and references, with respect to the number of authors, we find that in all fields that we have studied thus far, including physics, mathematics and economics, there are allometric scaling laws relating the outputs/inputs and the sizes of scientific fields. Furthermore, the exponents of the scaling relations have remained quite stable over the years. We also find that the deviations of individual subfields from the overall scaling laws are good indicators for ranking subfields independently of their sizes.
+C1 [Dong, Hongguang] Higher Educ Press, Div Nat Sci Acad Publishing, Beijing 100029, Peoples R China.
+   [Li, Menghui; Liu, Ru; Wu, Chensheng] Beijing Inst Sci & Technol Informat, Beijing 100044, Peoples R China.
+   [Wu, Jinshan] Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+RP Wu, JS (reprint author), Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+EM jinshanw@bnu.edu.cn
+RI Wu, Jinshan/C-1203-2010; Li, Menghui/E-7613-2011
+OI Wu, Jinshan/0000-0001-5014-385X; Li, Menghui/0000-0001-8151-5898
+FU NSFC Grant [61374175]; Fundamental Research Funds for the Central
+   Universities; Beijing Academy of Science and Technology Under Project
+   Agreement [OTP-2014-002]
+FX This work was supported by NSFC Grant 61374175, also partially by the
+   Fundamental Research Funds for the Central Universities and Beijing
+   Academy of Science and Technology Under Project Agreement OTP-2014-002.
+   The authors thank the APS Physical Review for sharing the data.
+CR Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2008, SCIENTOMETRICS, V75, P495, DOI 10.1007/s11192-007-1888-4
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brown J. H., 2000, SCALING BIOL
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Gao X, 2009, J INFORMETR, V3, P321, DOI 10.1016/j.joi.2009.04.004
+   Herrera M, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010355
+   Katz J. S., 2000, SCI PUBL POLICY, V27, P23, DOI [DOI 10.3152/147154300781782156, 10.3152/147154300781782156]
+   Katz JS, 2006, RES POLICY, V35, P893, DOI 10.1016/j.respol.2006.03.007
+   Katz JS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0156150
+   Katz JS, 1999, RES POLICY, V28, P501, DOI 10.1016/S0048-7333(99)00010-4
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levine D. K., 2016, WHAT IS GAME THEORY
+   Milojevic S, 2013, J INFORMETR, V7, P767, DOI 10.1016/j.joi.2013.06.006
+   Milojevic S, 2010, J AM SOC INF SCI TEC, V61, P2417, DOI 10.1002/asi.21426
+   Naroll RS, 1956, GEN SYST, V1, P76
+   NICHOLLS PT, 1987, J AM SOC INFORM SCI, V38, P443, DOI 10.1002/(SICI)1097-4571(198711)38:6<443::AID-ASI4>3.0.CO;2-E
+   Nomaler O, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110805
+   Ortman SG, 2015, SCI ADV, V1, DOI 10.1126/sciadv.1400066
+   Redner S, 1998, EUR PHYS J B, V4, P131, DOI 10.1007/s100510050359
+   van Raan AFJ, 2006, J AM SOC INF SCI TEC, V57, P408, DOI 10.1002/asi.20284
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P565, DOI 10.1002/asi.20765
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P461, DOI 10.1002/asi.20761
+   van Raan AFJ, 2006, J AM SOC INF SCI TEC, V57, P1919, DOI 10.1002/asi.20389
+   van Raan AFJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059384
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+NR 34
+TC 0
+Z9 0
+U1 5
+U2 30
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0138-9130
+EI 1588-2861
+J9 SCIENTOMETRICS
+JI Scientometrics
+PD JUL
+PY 2017
+VL 112
+IS 1
+BP 583
+EP 594
+DI 10.1007/s11192-017-2333-y
+PG 12
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science
+SC Computer Science; Information Science & Library Science
+GA EX7YY
+UT WOS:000403466900031
+DA 2019-03-26
+ER
+
+PT J
+AU Kwon, O
+   Son, WS
+AF Kwon, Okyu
+   Son, Woo-Sik
+TI Spatial Spreading of Infectious Disease via Local and National Mobility
+   Networks in South Korea
+SO JOURNAL OF THE KOREAN PHYSICAL SOCIETY
+LA English
+DT Article
+DE Scaling phenomena in complex systems; Social systems; Statistics
+AB We study the spread of infectious disease based on local- and national-scale mobility networks. We construct a local mobility network using data on urban bus services to estimate local-scale movement of people. We also construct a national mobility network from orientation-destination data of vehicular traffic between highway tollgates to evaluate national-scale movement of people. A metapopulation model is used to simulate the spread of epidemics. Thus, the number of infected people is simulated using a susceptible-infectious-recovered (SIR) model within the administrative division, and inter-division spread of infected people is determined through local and national mobility networks. In this paper, we consider two scenarios for epidemic spread. In the first, the infectious disease only spreads through local-scale movement of people, that is, the local mobility network. In the second, it spreads via both local and national mobility networks. For the former, the simulation results show infected people sequentially spread to neighboring divisions. Yet for the latter, we observe a faster spreading pattern to distant divisions. Thus, we confirm the national mobility network enhances synchronization among the incidence profiles of all administrative divisions.
+C1 [Son, Woo-Sik] Korea Res Inst Chem Technol, Ctr Convergent Res Emerging Virus Infect, Daejeon 34114, South Korea.
+   Natl Inst Math Sci, Daejeon 34047, South Korea.
+RP Son, WS (reprint author), Korea Res Inst Chem Technol, Ctr Convergent Res Emerging Virus Infect, Daejeon 34114, South Korea.
+EM wsson@krict.re.kr
+FU National Research Council of Science & Technology (NST) - Korea
+   government (MSIP) [CRC-16-01-KRICT]; National Institute for Mathematical
+   Sciences (NIMS) - Ministry of Science, ICT & Future Planning [A22200000]
+FX This work was supported by the National Research Council of Science &
+   Technology (NST) grant by the Korea government (MSIP) (No.
+   CRC-16-01-KRICT) and National Institute for Mathematical Sciences (NIMS)
+   funded by the Ministry of Science, ICT & Future Planning (A22200000).
+CR Ajelli M, 2010, BMC INFECT DIS, V10, DOI 10.1186/1471-2334-10-190
+   Anderson RM, 1992, INFECT DIS HUMANS
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Epstein JM, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000401
+   Hethcote HW, 2000, SIAM REV, V42, P599, DOI 10.1137/S0036144500371907
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Li RQ, 2017, PHYSICA A, V467, P30, DOI 10.1016/j.Physa.2016.09.059
+   NOBLE JV, 1974, NATURE, V250, P726, DOI 10.1038/250726a0
+   Van den Broeck W, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-37
+NR 9
+TC 0
+Z9 0
+U1 1
+U2 4
+PU KOREAN PHYSICAL SOC
+PI SEOUL
+PA 635-4, YUKSAM-DONG, KANGNAM-KU, SEOUL 135-703, SOUTH KOREA
+SN 0374-4884
+EI 1976-8524
+J9 J KOREAN PHYS SOC
+JI J. Korean Phys. Soc.
+PD DEC
+PY 2017
+VL 71
+IS 12
+BP 1069
+EP 1074
+DI 10.3938/jkps.71.1069
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA FR3YX
+UT WOS:000419003800030
+DA 2019-03-26
+ER

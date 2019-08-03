@@ -1,0 +1,527 @@
+
+PT J
+AU Joseph, GMD
+   Lowndes, IS
+   Hargreaves, DM
+AF Joseph, G. M. D.
+   Lowndes, I. S.
+   Hargreaves, D. M.
+TI A computational study of particulate emissions from Old Moor Quarry, UK
+SO JOURNAL OF WIND ENGINEERING AND INDUSTRIAL AERODYNAMICS
+LA English
+DT Article
+DE Particulates; Computational fluid dynamics; Deposition
+ID MODEL PERFORMANCE EVALUATION; WIND DIRECTION VARIABILITY; POLLUTANT
+   DISPERSION; STREET CANYONS; CFD SIMULATION; SURFACE; URBAN; FLOW;
+   UNCERTAINTY; ENVIRONMENT
+AB This paper presents an evaluation of a buoyancy-modified k-epsilon dust dispersion model for predicting fugitive dust deposition from a surface quarry. The dust clouds are modelled as volumetric emissions and their dispersion simulated by coupling the flow-field with stochastic tracking of the particulates. The coefficients of the turbulence model are modified and source terms are added to the turbulence equations to permit simulation of both adiabatic and diabatic atmospheric stability conditions. These modifications ensure compatibility with Monin-Obukhuv similarity scaling of the atmospheric surface layer. Also, mesoscale wind direction variability is included. The Monin-Obukhuv scaling parameters have been derived from routine meteorological data recorded during a month-long monitoring campaign conducted at the quarry. Dust deposition measurements from a network of Frisbee deposition gauges are used to validate the predictions of the CFD model. A number of statistical performance metrics have been applied to evaluate the degree of uncertainty in the predictions. The dust deposition predictions of the CFD model are compared to those of the UK-ADMS, to demonstrate how the treatment of the terrain in the CFD model improves the accuracy of the deposition predictions.
+C1 [Joseph, G. M. D.; Lowndes, I. S.; Hargreaves, D. M.] Univ Nottingham, Fac Engn, Nottingham NG7 2RD, England.
+RP Hargreaves, DM (reprint author), Univ Nottingham, Fac Engn, Nottingham NG7 2RD, England.
+EM ezzgj@nottingham.ac.uk; ian.lowndes@nottingham.ac.uk;
+   david.hargreaves@nottingham.ac.uk
+OI Hargreaves, David/0000-0003-1161-8191
+FU Faculty of Engineering Dean's Scholarship programme at the University of
+   Nottingham
+FX The authors would like to thank the Faculty of Engineering Dean's
+   Scholarship programme at the University of Nottingham for funding Genora
+   Joseph's PhD. We are grateful for access to the University of Nottingham
+   High Performance Computing Facility.
+CR Alinot C, 2005, J SOL ENERG-T ASME, V127, P438, DOI 10.1115/1.2035704
+   [Anonymous], TECHNICAL REPORT
+   APPLETON TJ, 2006, INT J MIN RECLAM ENV, V20, P57
+   Barratt R., 2001, BUSINESS ENV PRACTIT
+   Blocken B, 2008, J WIND ENG IND AEROD, V96, P1817, DOI 10.1016/j.jweia.2008.02.049
+   Blocken B, 2014, J WIND ENG IND AEROD, V129, P69, DOI 10.1016/j.jweia.2014.03.008
+   Carruthers D. J., 2009, COMP ADMS AERMOD MET
+   Carruthers DJ, 2011, J AIR WASTE MANAGE, V61, P1227, DOI 10.1080/10473289.2011.609750
+   CERC, 2013, P1401O13 CERC
+   CERC Ltd, 2011, FLOWSTAR MOD FLOW CO
+   Chang JC, 2004, METEOROL ATMOS PHYS, V87, P167, DOI 10.1007/s00703-003-0070-7
+   Chatzipanagiotidis A, 1996, J WIND ENG IND AEROD, V64, P233, DOI 10.1016/S0167-6105(96)00064-5
+   Chavez M, 2011, J WIND ENG IND AEROD, V99, P330, DOI 10.1016/j.jweia.2011.01.003
+   Chinthala S., 2011, PARTICLE DISPERSION
+   COLE CF, 1984, JAPCA J AIR WASTE MA, V34, P674, DOI 10.1080/00022470.1984.10465800
+   Davies BM, 1999, ATMOS ENVIRON, V33, P4909, DOI 10.1016/S1352-2310(99)00287-3
+   Derwent D., 2010, 3 DEFRA
+   Di Sabatino S, 2008, ENVIRON MODEL ASSESS, V13, P369, DOI 10.1007/s10666-007-9106-6
+   Di Sabatino S, 2007, ATMOS ENVIRON, V41, P8316, DOI 10.1016/j.atmosenv.2007.06.052
+   Di Sabatino S, 2013, INT J ENVIRON POLLUT, V52, P172, DOI 10.1504/IJEP.2013.058454
+   El-Fadel M, 2009, ATMOS ENVIRON, V43, P5015, DOI 10.1016/j.atmosenv.2009.06.056
+   Finardi S., 1997, TECHNICAL REPORT
+   FLINT AL, 1991, AGR FOREST METEOROL, V56, P247, DOI 10.1016/0168-1923(91)90094-7
+   Flores F, 2014, COMPUT FLUIDS, V90, P72, DOI 10.1016/j.compfluid.2013.11.012
+   [FLUENT ANSYS], 2009, 12 0 US GUID
+   Hall DJ., 2000, TECHNICAL REPORT
+   Hanna SR, 2004, ATMOS ENVIRON, V38, P4675, DOI 10.1016/j.atmosenv.2004.05.041
+   HANNA SR, 1988, JAPCA J AIR WASTE MA, V38, P406
+   Hargreaves D. M., 2006, 7 UK C WIND ENG GLAS, P47
+   Hertel O., 1989, TECHNICAL REPORT
+   Hill R. A., 2005, TECHNICAL REPORT
+   Holmes NS, 2006, ATMOS ENVIRON, V40, P5902, DOI 10.1016/j.atmosenv.2006.06.003
+   HOLTSLAG AAM, 1983, J CLIM APPL METEOROL, V22, P517, DOI 10.1175/1520-0450(1983)022<0517:ASSFDE>2.0.CO;2
+   Hong S, 2011, BIOSYST ENG, V108, P265, DOI 10.1016/j.biosystemseng.2010.12.008
+   JACKSON PS, 1975, Q J ROY METEOR SOC, V101, P929, DOI 10.1002/qj.49710143015
+   JOFFRE SM, 1988, J APPL METEOROL, V27, P550, DOI 10.1175/1520-0450(1988)027<0550:SDOWSA>2.0.CO;2
+   Joseph G. M. D., 2015, THESIS
+   Joseph G. M. D., 2014, PHYSMOD 2013 INT WOR
+   Li XX, 2006, ATMOS ENVIRON, V40, P5640, DOI 10.1016/j.atmosenv.2006.04.055
+   Li Y, 2006, T ASABE, V49, P1915
+   Lowndes I.S., 2008, 12 US N AM MIN VENT
+   Mahrt L, 2011, J APPL METEOROL CLIM, V50, P144, DOI 10.1175/2010JAMC2560.1
+   MDEQ, 2014, TECHNICAL REPORT
+   MDEQ, 2004, TECHNICAL REPORT
+   Moore D. J., 1976, ATMOSPHERIC POLLUTIO, P51
+   Quinn AD, 2001, COMPUT ELECTRON AGR, V30, P219, DOI 10.1016/S0168-1699(00)00166-6
+   Scargiali F, 2005, PROCESS SAF ENVIRON, V83, P242, DOI 10.1205/psep.04073
+   Silvester SA, 2009, ATMOS ENVIRON, V43, P6415, DOI 10.1016/j.atmosenv.2009.07.006
+   Silvester SA., 2006, 5 INT C CFD PROC IND
+   SMITH RJ, 1995, MATH COMPUT MODEL, V21, P23, DOI 10.1016/0895-7177(95)00048-7
+   Su Z, 2002, HYDROL EARTH SYST SC, V6, P85, DOI 10.5194/hess-6-85-2002
+   SWINBANK WC, 1963, Q J ROY METEOR SOC, V89, P339, DOI 10.1002/qj.49708938105
+   Tominaga Y, 2013, ATMOS ENVIRON, V79, P716, DOI 10.1016/j.atmosenv.2013.07.028
+   USEPA, 2008, QUAL ASS HDB AIR POL
+   USEPA, 1998, AP 42, V1
+   Venkatram A, 2000, ATMOS ENVIRON, V34, P1, DOI 10.1016/S1352-2310(99)00330-1
+   Versteeg H. K., 1995, INTRO COMPUTATIONAL
+   Vervecken L, 2013, ATMOS ENVIRON, V72, P142, DOI 10.1016/j.atmosenv.2013.03.005
+   Zanetti P, 1990, AIR POLLUTION MODELL
+NR 59
+TC 0
+Z9 0
+U1 3
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-6105
+EI 1872-8197
+J9 J WIND ENG IND AEROD
+JI J. Wind Eng. Ind. Aerodyn.
+PD JAN
+PY 2018
+VL 172
+BP 68
+EP 84
+DI 10.1016/j.jweia.2017.10.018
+PG 17
+WC Engineering, Civil; Mechanics
+SC Engineering; Mechanics
+GA FT2XJ
+UT WOS:000423009000006
+DA 2019-03-26
+ER
+
+PT J
+AU Bricker, SB
+   Ferreira, JG
+   Zhu, CB
+   Rose, JM
+   Galimany, E
+   Wikfors, G
+   Saurel, C
+   Miller, RL
+   Wands, J
+   Trowbridge, P
+   Grizzle, R
+   Wellman, K
+   Rheault, R
+   Steinberg, J
+   Jacob, A
+   Davenport, ED
+   Ayvazian, S
+   Chintala, M
+   Tedesco, MA
+AF Bricker, Suzanne B.
+   Ferreira, Joao Gomes
+   Zhu, Changbo
+   Rose, Julie M.
+   Galimany, Eve
+   Wikfors, Gary
+   Saurel, Camille
+   Miller, Robin Landeck
+   Wands, James
+   Trowbridge, Philip
+   Grizzle, Raymond
+   Wellman, Katharine
+   Rheault, Robert
+   Steinberg, Jacob
+   Jacob, Annie
+   Davenport, Erik D.
+   Ayvazian, Suzanne
+   Chintala, Marnita
+   Tedesco, Mark A.
+TI Role of Shellfish Aquaculture in the Reduction of Eutrophication in an
+   Urban Estuary
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+LA English
+DT Article
+ID CHESAPEAKE BAY; CARRYING-CAPACITY; WATER-QUALITY; MANAGEMENT; NITROGEN;
+   MODELS; PRODUCTIVITY; ECOSYSTEMS; OYSTERS; STRESS
+AB Land-based management has reduced nutrient discharges; however, many coastal waterbodies remain impaired. Oyster "bioextraction" of nutrients and how oyster aquaculture might complement existing management measures in urban estuaries was examined in Long Island Sound, Connecticut. Eutrophication status, nutrient removal, and ecosystem service values were estimated using eutrophication, circulation, local- and ecosystem-scale models, and an avoided-costs valuation. Systems-cale modeling estimated that 1.31% and 2.68% of incoming nutrients could be removed by current and expanded production, respectively. Up-scaled local-scale results were similar to systems-cale results, suggesting that this up-scaling method could be useful in bodies of water without circulation models. The value of removed nitrogen was estimated using alternative management costs (e.g., wastewater treatment) as representative, showing ecosystem service values of $8.5 and $470 million per year for current and maximum expanded production, respectively. These estimates are conservative; removal by clams in Connecticut, oysters and clams in New York, and denitrification are not included. Optimistically, the calculation of oyster-associated removal from all leases. in both states (5% of bottom area) plus denitrification losses showed increases to 10%-30% of annual inputs, which would be higher if clams were included. Results are specific to Long Island Sound, but the approach is transferable to other urban estuaries.
+C1 [Bricker, Suzanne B.; Steinberg, Jacob; Jacob, Annie; Davenport, Erik D.] Natl Ctr Coastal Ocean Sci, Silver Spring, MD 20910 USA.
+   [Ferreira, Joao Gomes; Zhu, Changbo; Saurel, Camille] Univ Nova Lisboa, Dept Ciencias & Engn Ambiente, Fac Ciencias & Tecnol, P-2829516 Monte De Caparica, Portugal.
+   [Rose, Julie M.; Galimany, Eve; Wikfors, Gary] NOAA Fisheries NEFSC Milford Lab, 212 Rogers Ave, Milford, MA 06460 USA.
+   [Miller, Robin Landeck; Wands, James] HDR Inc, 1 Int Blvd,10th Floor,Suite 1000, Mahwah, NJ 07495 USA.
+   [Trowbridge, Philip] New Hampshire Dept Environm Serv, Durham, NH USA.
+   [Grizzle, Raymond] Jackson Estuarine Lab, Dept Biol Sci, 85 Adams Point Rd, Durham, NH 03824 USA.
+   [Wellman, Katharine] Northern Econ Inc, 1455 NW Leary Way,Suite 400, Seattle, WA 98107 USA.
+   [Rheault, Robert] East Coast Shellfish Growers Assoc, 1121 Mooresfield Rd, Wakefield, RI 02879 USA.
+   [Ayvazian, Suzanne; Chintala, Marnita] Govt Ctr, Environm Protect Agcy Long Isl Sound Off, Suite 9-11,888 Washington Blvd, Stamford, CT 06904 USA.
+   [Zhu, Changbo] South China Sea Fisheries Res Inst, CAFS, 231 Xin Gang Xi Rd, Guangzhou 510300, Guangdong, Peoples R China.
+   [Trowbridge, Philip] San Francisco Environm Inst, 4911 Cent Ave, Richmond, CA 94804 USA.
+   [Steinberg, Jacob] Univ Washington, Sch Oceanog, 7616 Latona Ave NE, Seattle, WA 98115 USA.
+RP Bricker, SB (reprint author), Natl Ctr Coastal Ocean Sci, Silver Spring, MD 20910 USA.
+EM suzanne.bricker@noaa.gov
+OI Galimany, Eve/0000-0003-1493-2944; bricker, suzanne/0000-0002-2960-2318
+FU FCT grant [UID/MAR/04292/2013]; Regional Ecosystem Services Research
+   Program through NOAA EPA Memorandum of Understanding [MOA-2011-025/8258]
+FX We are grateful to Matt Lyman, CT DEEP, for providing environmental
+   data; Tessa Getchis, Connecticut Sea Grant University of Connecticut,
+   for providing shellfish culture practice information; Kristen
+   DeRosia-Banick and Dave Carey, State of Connecticut Department of
+   Agriculture, Bureau of Aquaculture, for linkage to shellfish growers,
+   culture practice information, determination of areas under cultivation,
+   and harvest estimates; Kimani Kimbrough, Dave Whitall, A.K. Leight, and
+   Karen Rice for review comments; and Ramon Filgueira and six anonymous
+   reviewers whose comments helped improve the manuscript. We acknowledge
+   and thank the Regional Ecosystem Services Research Program for support
+   of this project through NOAA EPA Memorandum of Understanding no.
+   MOA-2011-025/8258. J.G. Ferreira acknowledges the support of FCT grant
+   UID/MAR/04292/2013.
+CR Andersen JH, 2011, BIOGEOCHEMISTRY, V106, P137, DOI 10.1007/s10533-010-9508-4
+   Blumberg AF, 1999, J HYDRAUL ENG-ASCE, V125, P799, DOI 10.1061/(ASCE)0733-9429(1999)125:8(799)
+   Branosky Evan, 2011, COMP TABLES STATE NU
+   Breitburg DL, 2009, ANNU REV MAR SCI, V1, P329, DOI 10.1146/annurev.marine.010908.163754
+   Bricker S., 2007, NOAA COASTAL OCEAN P, V26
+   Bricker SB, 2008, HARMFUL ALGAE, V8, P21, DOI 10.1016/j.hal.2008.08.028
+   Bricker S. B., 1997, NOAAS NATL EUTROPHIC, V2
+   Bricker S. B., 2015, NCCOS COASTAL OCEAN, V194
+   Bricker SB, 2003, ECOL MODEL, V169, P39, DOI 10.1016/S0304-3800(03)00199-6
+   Bricker S, 2011, BIOGEOCHEMISTRY, V106, P135, DOI 10.1007/s10533-011-9646-3
+   Bricker SB, 2014, AQUAT GEOCHEM, V20, P291, DOI 10.1007/s10498-014-9226-y
+   Carmichael RH, 2012, CAN J FISH AQUAT SCI, V69, P1131, DOI 10.1139/F2012-057
+   Chesapeake Bay Program, 2002, NUTR RED TECHN COST
+   Connecticut Department of Agriculture, 2011, CONN SHELL FISH IND
+   Connecticut Department Of Energy And Environmental Protection, 2013, 2013 LONG ISL SOUND
+   Connecticut Department of Energy and Environmental Protection, LONG ISL SOUND WAT Q
+   Connecticut Department of Environmental Protection (CT DEP), 2010, INC BAS WAT QUAL TRA
+   Diaz RJ, 2008, SCIENCE, V321, P926, DOI 10.1126/science.1156401
+   Evans B. M., 2008, EVALUATION POT UNPUB
+   Executive Office of the President of the United States, 2015, M1601 EX OFF PRES US
+   Ferreira JG, 2008, AQUACULTURE, V275, P138, DOI 10.1016/j.aquaculture.2007.12.018
+   Ferreira JG, 2007, AQUACULTURE, V264, P160, DOI 10.1016/j.aquaculture.2006.12.017
+   Ferreira JG, 2016, AQUACULT INT, V24, P803, DOI 10.1007/s10499-015-9949-9
+   Ferreira JG, 2014, AQUACULTURE, V426, P154, DOI 10.1016/j.aquaculture.2014.01.030
+   Ferreira J.G., 2009, AQUACULTURE, V292, P129, DOI DOI 10.1016/J.AQUACULTURE.2009.03.039
+   FERREIRA JG, 1995, ECOL MODEL, V79, P21, DOI 10.1016/0304-3800(94)00033-E
+   Ferreira JG, 2011, SHELLFISH AQUACULTURE AND THE ENVIRONMENT, P3
+   Filgueira R, 2015, MAR POLLUT BULL, V100, P200, DOI 10.1016/j.marpolbul.2015.08.048
+   Garmendia M, 2012, ESTUAR COAST, V35, P991, DOI 10.1007/s12237-012-9489-8
+   Gren IM, 2009, ECOL ENG, V35, P935, DOI 10.1016/j.ecoleng.2008.12.033
+   Higgins CB, 2011, J ENVIRON QUAL, V40, P271, DOI 10.2134/jeq2010.0203
+   Humphries AT, 2016, FRONT MAR SCI, V3, DOI 10.3389/fmars.2016.00074
+   HydroQual Inc., 1999, NEWT CREEK WPCP PROJ
+   HydroQual Inc, 2009, SYST WID EUTR MOD SW
+   HydroQual Inc, 2007, REASS 2000 TAT MAX D
+   HydroQual Inc. Calibration Enhancement of the System -Wide Eutrophication Model (SWEM), 2001, CAL ENH SYST WID EUT
+   Inglis G.J, 2000, CHC0069 NIWA
+   Kellogg ML, 2014, ESTUAR COAST SHELF S, V151, P156, DOI 10.1016/j.ecss.2014.09.025
+   Kellogg ML, 2013, MAR ECOL PROG SER, V480, P1, DOI 10.3354/meps10331
+   King D. M., 2000, ECOSYSTEM VALUATION
+   Lal H., 2010, ADV NITROGEN MANAGEM, P344
+   Landeck Miller R. E., 2009, APPL SYSTEM WIDE EUT
+   Latimer J. S, 2014, LONG ISLAND SOUND PR
+   Lindahl O, 2005, AMBIO, V34, P131, DOI 10.1639/0044-7447(2005)034[0131:IMWQBM]2.0.CO;2
+   Lipton D, 2003, ESTUARIES, V26, P310, DOI 10.1007/BF02695969
+   Long Island Sound Study, 2013, PROT PROGR LISS BIEN
+   Lopez G, 2014, LONG ISLAND SOUND PR, P285
+   Lunstrum A., 2015, THESIS
+   Malone TC, 1996, ESTUARIES, V19, P371, DOI 10.2307/1352457
+   McKindsey CW, 2006, AQUACULTURE, V261, P451, DOI 10.1016/j.aquaculture.2006.06.044
+   Miller R. L., 2006, HUDSON RIVER ESTUARY, P140, DOI [10.1017/CBO9780511550539.013, DOI 10.1017/CBO9780511550539.013]
+   Mistiaen JA, 2003, ESTUARIES, V26, P316, DOI 10.1007/BF02695970
+   National Oceanic and Atmospheric Administration, 2011, MAR AQ POL
+   National Oceanic and Atmospheric Administration, 2011, NAT SHELLF IN
+   Nobre AM, 2010, ESTUAR COAST SHELF S, V87, P43, DOI 10.1016/j.ecss.2009.12.013
+   Nunes JP, 2011, AQUACULTURE, V315, P369, DOI 10.1016/j.aquaculture.2011.02.048
+   ORTH RJ, 1984, ESTUARIES, V7, P531, DOI 10.2307/1352058
+   Oyster BMP Expert Panel, 2016, PAN REC OYST B UNPUB
+   Pollack JB, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0065314
+   Reitsma J, 2017, MAR POLLUT BULL, V116, P175, DOI 10.1016/j.marpolbul.2016.12.072
+   Rice E, 2013, ESTUAR COAST SHELF S, V128, P64, DOI 10.1016/j.ecss.2013.05.002
+   Rose J. M., 2015, MAR POLLUT B, V453, P135
+   Rose JM, 2014, ENVIRON SCI TECHNOL, V48, P2519, DOI 10.1021/es4041336
+   Sequeira A, 2008, AQUACULTURE, V274, P313, DOI 10.1016/j.aquaculture.2007.10.054
+   Silva C, 2011, AQUACULTURE, V318, P444, DOI 10.1016/j.aquaculture.2011.05.033
+   Stephenson K., 2015, 1533 RFF DP
+   Stephenson K, 2010, WATER RESOUR RES, V46, DOI 10.1029/2009WR008228
+   Town of Mashpee Sewer Commission, 2015, FIN REC PLAN FIN ENV
+   Xiao YJ, 2007, ESTUAR COAST, V30, P901, DOI 10.1007/BF02841384
+   Zaldivar J.M., 2008, TRANSITIONAL WATERS, V1, P1, DOI DOI 10.1285/I18252273V2N1P1
+   Zar JH, 1999, BIOSTATISTICAL ANAL
+NR 71
+TC 2
+Z9 2
+U1 11
+U2 55
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0013-936X
+EI 1520-5851
+J9 ENVIRON SCI TECHNOL
+JI Environ. Sci. Technol.
+PD JAN 2
+PY 2018
+VL 52
+IS 1
+BP 173
+EP 183
+DI 10.1021/acs.est.7b03970
+PG 11
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA FR9UV
+UT WOS:000419419500020
+PM 28994282
+DA 2019-03-26
+ER
+
+PT J
+AU Karatasou, S
+   Santamouris, M
+AF Karatasou, Stavroula
+   Santamouris, Mat
+TI Multifractal Analysis of High-Frequency Temperature Time Series in the
+   Urban Environment
+SO CLIMATE
+LA English
+DT Article
+DE air temperature; spectral analysis; multifractal analysis; structure
+   functions analysis
+ID FULLY-DEVELOPED TURBULENCE; CASCADE; CLOUDS; RAIN
+AB Continuous monitoring systems have been regarded as a very useful tool to provide continuous high-frequency measurements of many parameters. Here, we analyze high-frequency time series of air temperature measurements, recorded every 10 min during 2003 in Athens (Greece) by an online monitoring system for the urban environment. We propose a set of time series analysis techniques, where missing data are well respected and information concerning the system's dynamics is preserved. A power spectral density analysis is performed over time scales spanning from 10 min to several days. A scale-invariant behavior of the form E(f) approximate to f(-beta) is revealed for scales below 9 h. Over this scaling range, we have performed structure functions analysis, and shown that air temperature data exhibit turbulent-like intermittent properties with multi-fractal statistics. The multifractal exponents obtained possess some similarities with passive scalar turbulence results. Although we illustrate the proposed approach using air temperature data, the method can be used as an efficient tool to analyse other environmental parameters monitored in urban environment.
+C1 [Karatasou, Stavroula] Univ Athens, Grp Bldg Environm Phys, Bldg 5,Phys Univ Campus, Athens 15784, Greece.
+   [Santamouris, Mat] Univ New South Wales, Sch Built Environm, High Performance Architecture, Sydney, NSW 2052, Australia.
+RP Karatasou, S (reprint author), Univ Athens, Grp Bldg Environm Phys, Bldg 5,Phys Univ Campus, Athens 15784, Greece.
+EM skarat@phys.uoa.gr; m.santamouris@unsw.edu.au
+CR CORRSIN S, 1951, J APPL PHYS, V22, P469, DOI 10.1063/1.1699986
+   Dur G, 2007, HYDROBIOLOGIA, V588, P59, DOI 10.1007/s10750-007-0652-3
+   Frisch U., 1995, TURBULENCE LEGACY AN
+   Frisch U, 1985, TURBULENCE PREDICTAB, P84
+   Frisch U., 1985, FULLY DEV TURBULENCE, P84
+   GRASSBERGER P, 1983, PHYS LETT A, V97, P227, DOI 10.1016/0375-9601(83)90753-3
+   GUPTA VK, 1993, J APPL METEOROL, V32, P251, DOI 10.1175/1520-0450(1993)032<0251:ASAOMR>2.0.CO;2
+   Hentschel A.W., 1983, PHYSICA D, V8, P435, DOI [10.1016/0167-2789(83)90235-X, DOI 10.1016/0167-2789(83)90235-X]
+   INGLE VK, 2000, DIGITAL SIGNAL PROCE
+   Kantz H., 2004, NONLINEAR TIME SERIE
+   Kolmogorov A., 1941, DOKL AKAD NAUK SSSR, V39, P299, DOI DOI 10.1098/RSPA.1991.0075
+   Liepinsh V., 1996, AUTOM CONTROL COMP S, V30, P27
+   Livada I, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD008140
+   Lovejoy S, 2008, ATMOS RES, V90, P10, DOI 10.1016/j.atmosres.2008.02.016
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   MANDELBROT BB, 1974, J FLUID MECH, V62, P331, DOI 10.1017/S0022112074000711
+   Marsan D., 1996, J GEOPHYS RES, V26, P333
+   MENEVEAU C, 1987, PHYS REV LETT, V59, P1424, DOI 10.1103/PhysRevLett.59.1424
+   Mihalakakou G, 1998, J GEOPHYS RES-ATMOS, V103, P19509, DOI 10.1029/98JD02002
+   Obukhov A.M., 1949, IZV AN SSSR GEOL, V13, P55
+   RuizChavarria G, 1996, PHYSICA D, V99, P369, DOI 10.1016/S0167-2789(96)00165-0
+   Santamouris M, 1999, GEOPHYS RES LETT, V26, P337, DOI 10.1029/1998GL900316
+   Schertzer D, 1997, FRACTALS, V5, P427, DOI 10.1142/S0218348X97000371
+   SCHERTZER D, 1985, PHYSICOCHEM HYDRODYN, V6, P623
+   SCHERTZER D, 1992, PHYSICA A, V185, P187, DOI 10.1016/0378-4371(92)90455-Y
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Schertzer D., 1983, TURBULENT SHEAR FLOW, P7
+   Schertzer D., 1987, FRACTALS PHYS ORIGIN, P49
+   Schmitt F, 1996, EUROPHYS LETT, V34, P195, DOI 10.1209/epl/i1996-00438-4
+   SCHMITT F, 1992, PHYS REV LETT, V68, P305, DOI 10.1103/PhysRevLett.68.305
+   Seuront L, 1999, J PLANKTON RES, V21, P877, DOI 10.1093/plankt/21.5.877
+   TESSIER Y, 1993, J APPL METEOROL, V32, P223, DOI 10.1175/1520-0450(1993)032<0223:UMTAOF>2.0.CO;2
+NR 32
+TC 1
+Z9 1
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2225-1154
+J9 CLIMATE
+JI Climate
+PD JUN
+PY 2018
+VL 6
+IS 2
+AR 50
+DI 10.3390/cli6020050
+PG 12
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA GK8QJ
+UT WOS:000436491700032
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Tria, F
+   Loreto, V
+   Servedio, VDP
+AF Tria, Francesca
+   Loreto, Vittorio
+   Servedio, Vito D. P.
+TI Zipf's, Heaps' and Taylor's Laws are Determined by the Expansion into
+   the Adjacent Possible
+SO ENTROPY
+LA English
+DT Article
+DE innovation dynamics; stylized facts; Zipf's law; Heaps' law; Taylor's
+   law; adjacent possible; Polya's Urns; Poisson-Dirichlet processes
+AB Zipf's, Heaps' and Taylor's laws are ubiquitous in many different systems where innovation processes are at play. Together, they represent a compelling set of stylized facts regarding the overall statistics, the innovation rate and the scaling of fluctuations for systems as diverse as written texts and cities, ecological systems and stock markets. Many modeling schemes have been proposed in literature to explain those laws, but only recently a modeling framework has been introduced that accounts for the emergence of those laws without deducing the emergence of one of the laws from the others or without ad hoc assumptions. This modeling framework is based on the concept of adjacent possible space and its key feature of being dynamically restructured while its boundaries get explored, i.e., conditional to the occurrence of novel events. Here, we illustrate this approach and show how this simple modeling framework, instantiated through a modified Polya's urn model, is able to reproduce Zipf's, Heaps' and Taylor's laws within a unique self-consistent scheme. In addition, the same modeling scheme embraces other less common evolutionary laws (Hoppe's model and Dirichlet processes) as particular cases.
+C1 [Tria, Francesca; Loreto, Vittorio] Sapienza Univ Rome, Phys Dept, Ple Aldo Moro 5, I-00185 Rome, Italy.
+   [Loreto, Vittorio] Sony Comp Sci Labs, 6 Rue Amyot, F-75005 Paris, France.
+   [Loreto, Vittorio; Servedio, Vito D. P.] Complex Sci Hub Vienna, Josefstadter Str 39, A-1080 Vienna, Austria.
+RP Tria, F (reprint author), Sapienza Univ Rome, Phys Dept, Ple Aldo Moro 5, I-00185 Rome, Italy.
+EM fratrig@gmail.com; vittorio.loreto@gmail.com; v.servedio@gmail.com
+FU Sony Computer Science Laboratories Paris
+FX This research was partially funded by the Sony Computer Science
+   Laboratories Paris.
+CR Serrano MA, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0005372
+   Baayen R., 2001, TEXT SPEECH LANGUAGE
+   BaezaYates R, 2000, J AM SOC INFORM SCI, V51, P69, DOI 10.1002/(SICI)1097-4571(2000)51:1<69::AID-ASI10>3.0.CO;2-C
+   Buntine W., 2010, ARXIV10070296
+   COCHRAN JE, 1972, AIAA J, V10, P240, DOI 10.1016/0040-5809(72)90035-4
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   De Blasi P, 2015, IEEE T PATTERN ANAL, V37, P212, DOI 10.1109/TPAMI.2013.217
+   de Finetti B., 1937, ANN I H POINCARE, V7, P1
+   Egghe L, 2007, J AM SOC INF SCI TEC, V58, P702, DOI 10.1002/asi.20524
+   Estoup Jean-Baptiste, 1916, GAMMES STENOGRAPHIQU
+   Fisher R.A., 1930, GENETICAL THEORY NAT
+   Gerlach M, 2014, NEW J PHYS, V16, DOI 10.1088/1367-2630/16/11/113010
+   Gouet R, 1997, J APPL PROBAB, V34, P426, DOI 10.2307/3215382
+   Hart M., 1971, PROJECT GUTENBERG
+   HEAPS H. S., 1978, INFORM RETRIEVAL COM
+   Herdan G., 1960, SERIES MAIOR, V4
+   HOPPE FM, 1984, J MATH BIOL, V20, P91, DOI 10.1007/BF00275863
+   Iacopini I, 2018, PHYS REV LETT, V120, DOI 10.1103/PhysRevLett.120.048301
+   Johnson S., 2010, GOOD IDEAS COME NATU
+   Kauffman S., 2000, INVESTIGATIONS
+   Kauffman S.A., 1996, SFI WORKING PAPERS
+   LI W, 2002, GLOTTOMETRICS, V5, P14
+   Loreto V, 2016, LECT N MORPHOGENESIS, P59, DOI 10.1007/978-3-319-24403-7_5
+   Lu L, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014139
+   Monechi B, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0179303
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Petruszewycz M., 1973, MATH SCI HUMAINES, V44, P41
+   Piantadosi ST, 2014, PSYCHON B REV, V21, P1112, DOI 10.3758/s13423-014-0585-6
+   PITMAN J, 1995, PROBAB THEORY REL, V102, P145, DOI 10.1007/BF01213386
+   Pitman J., 2006, LECT NOTES MATH, V1875
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   TAYLOR LR, 1961, NATURE, V189, P732, DOI 10.1038/189732a0
+   Tria F, 2016, NUOVO CIM C-COLLOQ C, V39, DOI 10.1393/ncc/i2016-16280-3
+   Tria F, 2014, SCI REP-UK, V4, DOI 10.1038/srep05890
+   Wagner A, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.1190
+   Wright S, 1931, GENETICS, V16, P0097
+   Yamato H., 2000, B INFORM CYBERNETICS, V32, P1
+   ZABELL SL, 1992, SYNTHESE, V90, P205, DOI 10.1007/BF00485351
+   Zanette D. H., 2005, J QUANT LINGUIST, V12, P29, DOI DOI 10.1080/09296170500055293
+   Zipf G. K., 1929, HARVARD STUDIES CLAS, V40, P1, DOI DOI 10.2307/310585
+   Zipf GK, 1935, PSYCHOBIOLOGY LANGUA
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 42
+TC 0
+Z9 0
+U1 1
+U2 1
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1099-4300
+J9 ENTROPY-SWITZ
+JI Entropy
+PD OCT
+PY 2018
+VL 20
+IS 10
+AR 752
+DI 10.3390/e20100752
+PG 19
+WC Physics, Multidisciplinary
+SC Physics
+GA GY4PL
+UT WOS:000448545700033
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Huang, XY
+   Yost-Bremm, C
+AF Huang, Xiaoyan
+   Yost-Bremm, Christopher
+TI The power law within a metropolitan area
+SO CITIES
+LA English
+DT Article
+DE Urban spatial structure; Employment cluster; Power law; Zipfs law; Urban
+   growth
+ID URBAN SPATIAL STRUCTURE; ZIPFS LAW; CITIES; ORIGINS; GROWTH; SPRAWL
+AB While theoretical reasoning emphasizes the complexity in metropolitan spatial structures, empirical efforts still focus on measuring spatial structures using employment centers. This paper measures a metropolitan spatial structure as a system of employment clusters for 361 metro areas in the United States. We apply a log-log model to assess the relationship between a cluster's size and its rank in a metro area. We found that among the largest 50 metro areas: (1) cluster sizes in a metro area follow a power law distribution and (2) larger metro areas tend to have evener spatial structures. The results suggest that policymakers can better predict urban growth locations and sizes; may invest in the largest clusters for the biggest economic payoffs; and should consider holistically all elements' (e.g., clusters, infrastructure, socioeconomic interactions) respective scaling laws in the city for its healthy urban growth.
+C1 [Huang, Xiaoyan] Texas A&M Univ, Dept Landscape Architecture & Urban Planning, College Stn, TX 77840 USA.
+   [Yost-Bremm, Christopher] San Francisco State Univ, Dept Finance, San Francisco, CA 94132 USA.
+RP Huang, XY (reprint author), Texas A&M Univ, Dept Landscape Architecture & Urban Planning, College Stn, TX 77840 USA.
+EM huan6281@tamu.edu
+CR Anas A, 1998, J ECON LIT, V36, P1426
+   Anderson NB, 2001, AM J ECON SOCIOL, V60, P147, DOI 10.1111/1536-7150.00058
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   BERRY B. J. L., 1964, PAPERS REGIONAL SCI, V13, P147, DOI DOI 10.1111/J.1435-5597.1964.TB01283.X
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bogart WT, 2006, DON'T CALL IT SPRAWL: METROPOLITAN STRUCTURE IN THE TWENTY-FIRST CENTURY, P1, DOI 10.2277/ 052167803X
+   Chen YG, 2014, PHYSICA A, V395, P392, DOI 10.1016/j.physa.2013.10.022
+   Forstall RL, 1997, URBAN GEOGR, V18, P705, DOI 10.2747/0272-3638.18.8.705
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gabaix X, 2011, ECONOMETRICA, V79, P733, DOI 10.3982/ECTA8769
+   GIULIANO G, 1991, REG SCI URBAN ECON, V21, P163, DOI 10.1016/0166-0462(91)90032-I
+   Giuliano G., 2005, ERSA C AMST
+   Glaeser E. L., 2008, CITIES AGGLOMERATION
+   Gordon P., 1996, J AM PLANNING ASS, V62
+   Huang X., 2017, URBAN SCI, V1, P28
+   Lee B, 2007, J REGIONAL SCI, V47, P479, DOI 10.1111/j.1467-9787.2007.00517.x
+   Lopez R, 2003, URBAN AFF REV, V38, P325, DOI 10.1177/1078087402238805
+   Matsuo M., 2008, THESIS
+   McMillen D. P, 2003, NUMBER SUBCENTERS LA
+   [潘启�? Pan Qijun], 2006, [电工�?术学�?, Transactions of China Electrotechnical Society], V21, P63
+   Rubiera-Morollon F, 2015, LETT SPAT RESOUR SCI, V8, P109, DOI 10.1007/s12076-014-0116-0
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Wheaton WC, 2004, J URBAN ECON, V55, P417, DOI 10.1016/j.jue.2003.12.004
+   Yang JW, 2012, J AM PLANN ASSOC, V78, P197, DOI 10.1080/01944363.2012.677382
+   Zhang J., 2015, SCI REPORTS, V5
+NR 28
+TC 0
+Z9 0
+U1 2
+U2 5
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-2751
+EI 1873-6084
+J9 CITIES
+JI Cities
+PD FEB
+PY 2018
+VL 72
+BP 201
+EP 205
+DI 10.1016/j.cities.2017.08.001
+PN A
+PG 5
+WC Urban Studies
+SC Urban Studies
+GA FR9QZ
+UT WOS:000419409500021
+DA 2019-03-26
+ER

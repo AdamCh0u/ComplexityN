@@ -1,0 +1,479 @@
+
+PT B
+AU Velagapudi, P
+   Scerri, P
+   Sycara, K
+   Wang, HD
+   Lewis, M
+   Wang, JJ
+AF Velagapudi, Prasanna
+   Scerri, Paul
+   Sycara, Katia
+   Wang, Huadong
+   Lewis, Michael
+   Wang, Jijun
+BE Chatila, R
+   Kelly, A
+   Merlet, JP
+TI Scaling Effects in Multi-robot Control
+SO 2008 IEEE/RSJ INTERNATIONAL CONFERENCE ON ROBOTS AND INTELLIGENT
+   SYSTEMS, VOLS 1-3, CONFERENCE PROCEEDINGS
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+CY SEP 22-26, 2008
+CL Nice, FRANCE
+SP IEEE, Robot Soc Japan, IEEE Robot & Automat Soc, IEEE Ind Elect Soc, Soc Instrument & Control Engineers, Inst Natl Rech Informat & Automat, CNRS, Inst Control, Robot & Syst
+AB The present study investigates the effect of the number of controlled robots on performance of an urban search and rescue (USAR) task using a realistic simulation. Task performance increased in going from four to eight controlled robots but deteriorated in moving from eight to twelve. Workload increased monotonically with number of robots. Performance per robot decreased with increases in team size. Results are consistent with earlier studies suggesting a limit of between 8-12 robots for direct human control. This study demonstrates that these findings generalize to a more realistic setting and complex task.
+C1 [Velagapudi, Prasanna; Scerri, Paul; Sycara, Katia] Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.
+   [Wang, Huadong; Lewis, Michael] Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+   [Wang, Jijun] Quantum Leap Innovat, Newark, DE USA.
+RP Velagapudi, P (reprint author), Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.
+FU AFOSR [FA9550-07-1-0039]; ONR [N00014-03-1-0580]; L3-Communications
+   [4500257512];  [FA9620-01-1-0542]
+FX This research has been sponsored in part by AFOSR FA9550-07-1-0039,
+   AFOSR FA9620-01-1-0542, ONR Grant N00014-03-1-0580 and L3-Communications
+   (4500257512)
+CR [Anonymous], 2008, UE 2 UNREALENGINE2
+   Balakirsky S., 2007, J FIELD ROBOTICS
+   Carpin S., 2006, LECT NOTES ARTIFICIA
+   CARPIN S, P PERMIS 2006
+   CARPIN S, 2005, ROBOCUP 2005 S
+   Crandall JW, 2005, IEEE T SYST MAN CY A, V35, P438, DOI 10.1109/TSMCA.2005.850587
+   Cummings M.L., 2004, INTERACTIVE DECISION
+   Gerkey BP, 2004, INT J ROBOT RES, V23, P939, DOI 10.1177/0278364904045564
+   HUMPHREY CM, 2006, EVALUATING SCALEABLE
+   Lewis M., 2005, P 49 ANN M HUM FACT, P457
+   Mathengine, MATHENGINE KARM US G
+   Miller C, 2004, P HUM FACT ERG SOC 4, P526
+   Murphy R., 2005, P 49 ANN M HUM FACT
+   NIELSEN C, 2003, P 2002 NRL WORKSH MU
+   PARASURAMAN R, T SYSTEMS MAN CYBE A, V35
+   Pepper C., 2007, P PERMIS 07
+   Taylor B., 2007, P PERMIS 07
+   TROUVAIN B, 2003, P 2003 INT C ROB AUT, P3224
+   Trouvain B., 2002, P IEEE INT WORKSH RO, P111
+   Wood SB, 2004, P SIGCHI C HUM FACT, P231
+   Zaratti M., 2006, LNAI
+NR 21
+TC 10
+Z9 10
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-2057-5
+PY 2008
+BP 2121
+EP +
+DI 10.1109/IROS.2008.4651073
+PG 2
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Cybernetics; Computer Science, Theory & Methods; Engineering, Electrical
+   & Electronic; Robotics
+SC Computer Science; Engineering; Robotics
+GA BIJ26
+UT WOS:000259998201119
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI A Wave-Spectrum Analysis of Urban Population Density: Entropy, Fractal,
+   and Spatial Localization
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+LA English
+DT Article
+ID SELF-ORGANIZED CRITICALITY; CELLULAR-AUTOMATA; DYNAMICS; HIERARCHIES;
+   SYSTEMS; MODELS
+AB The method of spectral analysis is employed to research the spatial dynamics of urban population distribution. First of all, the negative exponential model is derived in a new way by using an entropy-maximizing idea. Then an approximate scaling relation between wave number and spectral density is derived by Fourier transform of the negative exponential model. The theoretical results suggest the locality of urban population activities. So the principle of entropy maximization can be utilized to interpret the locality and localization of urban morphology. The wave-spectrum model is applied to the city in the real world, Hangzhou, China, and spectral exponents can give the dimension values of the fractal lines of urban population profiles. The changing trend of the fractal dimension does reflect the localization of urban population growth and diffusion. This research on spatial dynamics of urban evolvement is significant for modeling spatial complexity and simulating spatial complication of city systems by cellular automata. Copyright (C) 2008 Yanguang Chen. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+C1 Peking Univ, Dept Urban & Econ Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Dept Urban & Econ Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [40771061]
+FX This research was supported financially by the National Natural Science
+   Foundation of China (Grant no. 40771061). Comments by the anonymous
+   referees have been very helpful in preparing the final version of this
+   paper. The author would like to thank Dr. Yuwang Hu at Xinyang Normal
+   University for assistance in mathematics, Dr. Shiguo Jiang at Ohio State
+   University for his editorial helps, and Dr. Jian Feng at the Peking
+   University for providing essential material on the urban density of
+   Hangzhou.
+CR ANDERSON PW, 1991, PHYS TODAY, V44, P9, DOI 10.1063/1.2810163
+   Bak P, 1996, NATURE WORKS SCI SEL
+   Banks R. B, 1994, TEXTS APPL MATH, V14
+   Barabasi A.-L., 2003, Scientific American (International Edition), V288, P50
+   BATTY M, 1992, URBAN STUD, V29, P1043, DOI 10.1080/00420989220081041
+   BATTY M, 1974, GEOGR ANAL, V6, P1
+   Batty M, 1999, DISCRETE DYN NAT SOC, V3, P109, DOI 10.1155/S1026022699000151
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   Bloomfield P, 2000, WILEY SERIES PROBABI
+   BUSSIERE R, 1970, ENVIRON PLANN, V2, P295, DOI 10.1068/a020295
+   Chen Y, 2004, CHAOS SOLITON FRACT, V22, P793, DOI 10.1016/j.chaos.2004.02.059
+   Chen Y., 2008, FRACTAL URBAN SYSTEM
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   Chen YG, 2002, PROG NAT SCI, V12, P208
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   Dendrinos D.S., 1992, DYNAMICS CITIES ECOL
+   DENDRINOS DS, 1994, CHAOS SOLITON FRACT, V4, P497, DOI 10.1016/0960-0779(94)90061-2
+   Diebold F. X., 2004, ELEMENTS FORECASTING
+   Einstein A., 1948, DIALECTICA, V2, P320
+   El Naschie MS, 2000, CHAOS SOLITON FRACT, V11, P1479
+   FEDER J, 1988, PHYS SOLIDS LIQUIDS
+   [冯健 Feng Jian], 2002, [地理研究, Geographical Research], V21, P635
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   Frankhauser P, 1991, NATURAL STRUCTURES P, P57
+   Kaye B. K., 1989, RANDOM WALK FRACTAL
+   Liu S.-D., 1993, INTRO FRACTALS FRACT
+   Liu S. K., 1994, SOLITARY WAVE TURBUL
+   LONGLEY PA, 1999, APPL GEOGRAPHY PRINC
+   Mandelbrot B. B., 1999, MULTIFRACTALS 1 F NO
+   Portugali J., 1999, SELF ORG CITY
+   RYABKO BY, 1986, PROBL PEREDACHI INF, V22, P16
+   Saupe D, 1991, FRACTALS CHAOS, P89
+   Smeed R.J., 1963, J I HIGHWAY ENG, V10, P5
+   Voss R.F., 1988, SCI FRACTAL IMAGES, P21, DOI DOI 10.1007/978-1-4612-3784-6_1
+   Wang FH, 1999, URBAN STUD, V36, P271, DOI 10.1080/0042098993600
+   WHITE NM, 1994, HDB SENS ACTUAT, V1, P3
+   White R, 1997, ENVIRON PLANN B, V24, P323, DOI 10.1068/b240323
+   WHITE R, 1994, CHAOS SOLITON FRACT, V4, P563, DOI 10.1016/0960-0779(94)90066-3
+   Wilson A. G., 2000, COMPLEX SPATIAL SYST
+   Wilson AG, 1970, ENTROPY URBAN REGION
+   ZHU TJ, 1991, INTEGRAL TRANSFORM E
+NR 43
+TC 10
+Z9 10
+U1 1
+U2 11
+PU HINDAWI PUBLISHING CORPORATION
+PI NEW YORK
+PA 410 PARK AVENUE, 15TH FLOOR, #287 PMB, NEW YORK, NY 10022 USA
+SN 1026-0226
+J9 DISCRETE DYN NAT SOC
+JI Discrete Dyn. Nat. Soc.
+PY 2008
+AR 728420
+DI 10.1155/2008/728420
+PG 22
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+SC Mathematics; Science & Technology - Other Topics
+GA 366DM
+UT WOS:000260460800001
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Su, H
+   Cheng, YF
+   Cheng, P
+   Zhang, YH
+   Dong, SF
+   Zeng, LM
+   Wang, XS
+   Slanina, J
+   Shao, M
+   Wiedensohler, A
+AF Su, Hang
+   Cheng, Ya Fang
+   Cheng, Peng
+   Zhang, Yuan Hang
+   Dong, Shuofei
+   Zeng, Li Min
+   Wang, Xuesong
+   Slanina, Jacob
+   Shao, Min
+   Wiedensohler, Alfred
+TI Observation of nighttime nitrous acid (HONO) formation at a non-urban
+   site during PRIDE-PRD2004 in China
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE HONO; conversion rate; heterogeneous reactions; interferences; emission
+ID WATER-VAPOR; HETEROGENEOUS PRODUCTION; FIELD-MEASUREMENTS; URBAN
+   ATMOSPHERE; NO2; DIOXIDE; KINETICS; SOOT; INSTRUMENT; PHOTOLYSIS
+AB Though the importance of HONO as an OH precursor has been recognized for years, its chemical formation pathway is still not well understood. This inhibited the simulations of HONO and observation-based formation rates provided an alternative for the air quality models. However, HONO formation rate derived from certain period may be significantly influenced by uncertainties in transport and emission processes. In this study the use of large sample and scaling methods were recommended in the calculation of HONO formation rate. During the Program of Regional Integrated Experiments of Air Quality over Pear River Delta (PRIDE-PRD2004), good correlations between HONO and NO were found supporting the involvement of NO2 in HONO formation. An average NO2-to-HONO nighttime conversion rate C-HONO of 1.6% h(-1) was derived at a non-urban site Xinken. This conversion rate was comparable to other field measurements and could not be explained by gas phase reactions only. If assumed that HONO was formed only on the ground surface, the observed conversion rate could be explained by the reactions of NO2 on ground surfaces only if three deposited NO2 lead to one HONO released. The emission factor of HONO and its sampling interferences during the measurements were also evaluated in this article. (c) 2008 Elsevier Ltd. All rights reserved.
+C1 [Su, Hang; Cheng, Ya Fang; Cheng, Peng; Zhang, Yuan Hang; Dong, Shuofei; Wang, Xuesong; Slanina, Jacob; Shao, Min] Peking Univ, Coll Environm Sci, Beijing 100871, Peoples R China.
+   [Su, Hang; Zeng, Li Min] Peking Univ, State Key Lab Air Pollut Control & Simulat, Beijing 100871, Peoples R China.
+   [Cheng, Ya Fang; Wiedensohler, Alfred] Leibniz Inst Tropospher Res, Leipzig, Germany.
+RP Zhang, YH (reprint author), Peking Univ, Coll Environm Sci, Beijing 100871, Peoples R China.
+EM yhzhang@pku.edu.cn
+RI SHAO, Min/C-7351-2014; cheng, peng/F-1006-2019; Zeng, Limin/D-3948-2013;
+   Wiedensohler, Alfred/D-1223-2013; Zhang, Yuanhang/F-7038-2011; Su,
+   Hang/A-6226-2010; Cheng, Yafang/F-9362-2010
+OI cheng, peng/0000-0002-0806-9593; Su, Hang/0000-0003-4889-1669; Cheng,
+   Yafang/0000-0003-4912-9879
+FU National Basic Research Program [(2002CB410801, 2002CB211605]; National
+   Natural Science Foundation of China [40675072]
+FX This work was supported by the National Basic Research Program
+   (2002CB410801 and 2002CB211605) and the National Natural Science
+   Foundation of China (40675072).
+CR Acker K, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2005GL024643
+   Acker K, 2005, ATMOS RES, V74, P507, DOI 10.1016/j.atmosres.2004.04.009
+   Acker K, 2006, ATMOS ENVIRON, V40, P3123, DOI 10.1016/j.atmosenv.2006.01.028
+   ACKERMANN R, 2000, THESIS U HEIDELBERG
+   AKIMOTO H, 1987, INT J CHEM KINET, V19, P539, DOI 10.1002/kin.550190606
+   Alicke B, 2002, J GEOPHYS RES-ATMOS, V107, DOI 10.1029/2000JD000075
+   Alicke B, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2001JD000579
+   Ammann M, 1998, NATURE, V395, P157, DOI 10.1038/25965
+   AndresHernandez MD, 1996, ATMOS ENVIRON, V30, P175, DOI 10.1016/1352-2310(95)00330-2
+   Atkinson R., 2006, SUMMARY EVALUATED KI
+   Cheng YF, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006929
+   COE H, 1992, Q J ROY METEOR SOC, V118, P767, DOI 10.1256/smsqj.50607
+   Faloona I, 2001, J GEOPHYS RES-ATMOS, V106, P24315, DOI 10.1029/2000JD900691
+   FEBO A, 1993, ATMOS ENVIRON A-GEN, V27, P1721, DOI 10.1016/0960-1686(93)90235-Q
+   Finlayson-Pitts B. J., 2000, CHEM UPPER LOWER ATM
+   Finlayson-Pitts BJ, 2003, PHYS CHEM CHEM PHYS, V5, P223, DOI 10.1039/b208564j
+   Genfa Zhang, 2003, Atmospheric Environment, V37, P1351, DOI 10.1016/S1352-2310(02)01011-7
+   Gutzwiller L, 2002, ENVIRON SCI TECHNOL, V36, P677, DOI 10.1021/es015673b
+   Heland J, 2001, ENVIRON SCI TECHNOL, V35, P3207, DOI 10.1021/es000303t
+   Jacob DJ, 2000, ATMOS ENVIRON, V34, P2131, DOI 10.1016/S1352-2310(99)00462-8
+   JENKIN ME, 1988, ATMOS ENVIRON, V22, P487, DOI 10.1016/0004-6981(88)90194-1
+   Jongejan PAC, 1997, INT J ENVIRON AN CH, V66, P241, DOI 10.1080/03067319708028367
+   Kalberer M, 1999, J GEOPHYS RES-ATMOS, V104, P13825, DOI 10.1029/1999JD900141
+   Kirchstetter TW, 1996, ENVIRON SCI TECHNOL, V30, P2843, DOI 10.1021/es960135y
+   Kleffmann J, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2005GL022524
+   Kleffmann J, 1998, ATMOS ENVIRON, V32, P2721, DOI 10.1016/S1352-2310(98)00065-X
+   Kleffmann J, 2003, ATMOS ENVIRON, V37, P2949, DOI 10.1016/S1352-2310(03)00242-5
+   Kleffmann J, 2002, ENVIRON SCI POLLUT R, P48
+   KLEFFMANN J, 2008, ATMOS CHEM PHYS DISC, V8, P3497
+   Kurtenbach R, 2001, ATMOS ENVIRON, V35, P3385, DOI 10.1016/S1352-2310(01)00138-8
+   Lammel G, 1996, CHEM SOC REV, V25, P361, DOI 10.1039/cs9962500361
+   Lammel G., 1999, FORMATION NITROUS AC
+   LENDZIAN KJ, 1988, PLANT PHYSL LIFE SCI, V7, P197
+   Longfellow CA, 1999, J GEOPHYS RES-ATMOS, V104, P13833, DOI 10.1029/1999JD900145
+   Pagsberg P, 1997, CHEM PHYS LETT, V272, P383, DOI 10.1016/S0009-2614(97)00576-9
+   Reisinger AR, 2000, ATMOS ENVIRON, V34, P3865, DOI 10.1016/S1352-2310(00)00179-5
+   Ren XR, 2003, ATMOS ENVIRON, V37, P3639, DOI 10.1016/S1352-2310(03)00459-X
+   Rohrer F, 2005, ATMOS CHEM PHYS, V5, P2189, DOI 10.5194/acp-5-2189-2005
+   Spindler G, 2003, ATMOS ENVIRON, V37, P2643, DOI 10.1016/S1352-2310(03)00209-7
+   Stemmler K, 2006, NATURE, V440, P195, DOI 10.1038/nature04603
+   STUHL F, 1972, J CHEM PHYS, V57, P3671, DOI 10.1063/1.1678825
+   Stutz J, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD004135
+   Stutz J, 2002, J GEOPHYS RES-ATMOS, V107, DOI 10.1029/2001JD000390
+   SVENSSON R, 1987, ATMOS ENVIRON, V21, P1529, DOI 10.1016/0004-6981(87)90315-5
+   TANNER D, 2002, AGU FALL M ABSTR
+   Trebs I, 2004, ATMOS CHEM PHYS, V4, P967, DOI 10.5194/acp-4-967-2004
+   Zellweger C, 1999, ATMOS ENVIRON, V33, P1131, DOI 10.1016/S1352-2310(98)00295-7
+   Zhou XL, 2002, GEOPHYS RES LETT, V29, DOI 10.1029/2002GL015080
+NR 48
+TC 66
+Z9 76
+U1 5
+U2 58
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD AUG
+PY 2008
+VL 42
+IS 25
+BP 6219
+EP 6232
+DI 10.1016/j.atmosenv.2008.04.006
+PG 14
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 354BM
+UT WOS:000259613900006
+DA 2019-03-26
+ER
+
+PT J
+AU Sahin, A
+   Atis, E
+   Miran, B
+AF Sahin, Ahmet
+   Atis, Ela
+   Miran, Buelent
+TI Identifying homogeneous locations for more efficient agricultural and
+   environmental policies: The case of Ege Region
+SO EKOLOJI
+LA Turkish
+DT Article
+DE Aegean Region; agri-environmental policies; multidimensional scaling
+ID SPAIN
+AB Success in agricultural and environmental policies is closely related to spatial homogeneity. Identifying hornogenous provinces based on their agricultural and environmental characteristics in Aegean region is a prerequisite for a successful policy. The purpose of this study is to classify the cities of Ege Region into similar groups with respect to their agricultural and environmental characteristics by means of Multi Dimensional Scaling Method (MDS) and Cluster Analysis. Two and three dimensional MDS positioned the cities from middle to high sufficiency levels. The 12 cities in the region were found to have different agricultural and environmental characteristics. Particularly the two provinces, Mugla and Afyon, are the ones that are significantly different from the other provinces. It is recommended that these two provinces should be taken into consideration separately.
+C1 [Sahin, Ahmet; Atis, Ela; Miran, Buelent] Ege Univ, Ziraat Fak, Tarim Ekonomisi Bolumu, TR-35100 Izmir, Turkey.
+RP Sahin, A (reprint author), Ege Univ, Ziraat Fak, Tarim Ekonomisi Bolumu, TR-35100 Izmir, Turkey.
+CR ATAN M, 2003, GAZI U IKTISADI IDAR, V5, P9
+   ATIS E, 2006, TURKIYE TARIM TARIM, P163
+   ATIS E, 1999, UCUNCU SEKTOR KOOPER, V125, P14
+   Catalan IA, 2006, DEEP-SEA RES PT II, V53, P1402, DOI 10.1016/j.dsr2.2006.04.005
+   DASDEMIR I, 2004, ZONGULDAK KARAELMAS, V6, P1
+   DINCER B, 1996, DEVLET PLANLAMA TESK, V2466
+   Dogan I., 2003, ULUDAG U VETERINER D, V22, P33
+   DURA C, 2004, ULUSAL EKONOMI YONET, P13
+   EVERITT B, 1992, APPL MULTIVARIATE AN
+   FILIZ Z, 2005, 7 UL EK IST S 26 27, P1
+   FINDIKKAYA A, 1995, THESIS ULUDAG U SOSY
+   Garde Leigh M., 2004, Ecological Management & Restoration, V5, P111, DOI 10.1111/j.1442-8903.2004.00185.x
+   GASPARINO U, 2006, PERCEIVED DIVERSITY
+   GOKCE O, 1994, EGE SANAYICILERI ISA, V8
+   GREN R, 2005, J ENVIRON PSYCHOL, V25, P37
+   HAIR JF, 1998, MULTIVARIATE DATA
+   Hernandez B, 2000, ENVIRON BEHAV, V32, P612, DOI 10.1177/00139160021972702
+   Johnson R. A., 1992, APPL MULTIVARIATE ST
+   KRUSKAL R, 1977, CLASSIFICATION CLUST
+   Kurtulus K., 1996, PAZARLAMA ARASTIRMAL
+   McRae G, 1998, ENVIRON MONIT ASSESS, V51, P233, DOI 10.1023/A:1005943504335
+   Miran B., 2002, TEMEL ISTATISTIK
+   OZDAMAR K, 1999, PAKET PROGRAMLAR IST, V2
+   Primdahl J, 2003, J ENVIRON MANAGE, V67, P129, DOI 10.1016/S0301-4797(02)00192-5
+   SAHIN A, 2006, 7 TAR EK K 13 15 EYL, P17
+   Saracli S., 2004, 3 UL EK YON K 25 26, P21
+   SIGIRLI D, 2006, ANAL INCELENMESI INO, V13, P81
+   SONMEZ M, 2003, EGE BOLGESI SANAYI O
+   TALIM M, 1998, EGE BOLGESI, V1, P568
+   TATHDIL H, 1997, HAZINE DERGISI, V6, P53
+   Tatlidil H., 1996, UYGULAMALI COK DEGIS
+   1993, EGE SANAYICILERI ISA
+   1997, RASAT TABLOLARI
+   2000, INDICATORS INTEGRATI
+   2003, TARIM MASTER PLANLAR
+   1981, TOPRAKSU ISTATISTIK
+   2003, GENEL TARIM SAYIMI S
+   2006, BOLGESEL GELISME TEM
+   2003, TURKIYE ISTATISTIK Y
+   2003, TOPRAKSU GENEL MUDUR
+   1990, DEVLET PLANLAMA TESK, V2225
+   2003, TARIMSAL YAPI URETIM
+   1974, ORTALAMA EKSTREM KIY
+   1998, TARIMSAL YAPI
+NR 44
+TC 7
+Z9 7
+U1 0
+U2 1
+PU FOUNDATION ENVIRONMENTAL PROTECTION & RESEARCH-FEPR
+PI BASMANE KONAK-IZMIR
+PA MURESELPASA BULVARI 1265 SOKAK 10-10, H MEVLUT SUSUZLU IS MERKESI, PK
+   63, BASMANE KONAK-IZMIR, 35230, TURKEY
+SN 1300-1361
+J9 EKOLOJI
+JI Ekoloji
+PY 2008
+VL 17
+IS 67
+BP 15
+EP 23
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 339JZ
+UT WOS:000258575200003
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, YG
+   Zhou, YX
+AF Chen, Yanguang
+   Zhou, Yixing
+TI Scaling laws and indications of self-organized criticality in urban
+   systems
+SO CHAOS SOLITONS & FRACTALS
+LA English
+DT Article
+ID CELLULAR-AUTOMATA; CITY HIERARCHIES; DYNAMICS; SIZE; FRACTALS; CITIES;
+   INTERMITTENCY; EVOLUTION; MODELS
+AB Evolution of urban systems has been considered to exhibit some form of self-organized criticality (SOC) in the literature. This paper provides further mathematical foundations and empirical evidences to support the supposition. The hierarchical structure of systems of cities can be formulated as three exponential functions: the number law, the population size law, and the area law. These laws are identical in form to the Horton-Strahler laws of rivers and Gutenberg-Richter laws of earthquakes. From the exponential functions, three indications of SOC are also derived: the frequency-spectrum relation indicting the 1/f noise, the power laws indicating the fractal structure, and the Zipf's law indicating the rank-size distribution. These mathematical models form a set of scaling laws for urban systems, as demonstrated in the empirical study of the system of cities in China. The fact that the scaling laws of urban systems bear an analogy to those on rivers and earthquakes lends further support to the notion of possible SOC in urban systems. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 Peking Univ, Dept Geog, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Dept Geog, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+CR Allen PM, 1997, CITIES REGIONS SELF
+   Appleby S, 1996, GEOGR ANAL, V28, P147
+   BAK P, 1989, NATURE, V342, P780, DOI 10.1038/342780a0
+   Bak P, 1996, NATURE WORKS SCI SEL
+   BARTLETT AA, 2004, ARTHMETIC POPULATION
+   Batty M, 1997, ENVIRON PLANN B, V24, P159
+   BATTY M, 1995, NATURE, V377, P574, DOI 10.1038/377574a0
+   Batty M, 1999, DISCRETE DYN NAT SOC, V3, P109, DOI 10.1155/S1026022699000151
+   Batty M., 1991, FRACTALS CHAOS, P43
+   Batty M, 1994, FRACTAL CITIES GEOME
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   Buchanan Mark, 2000, UBIQUITY SCI HIST WH
+   Chen Y, 2004, CHAOS SOLITON FRACT, V22, P793, DOI 10.1016/j.chaos.2004.02.059
+   Chen Y.G., 2001, SCI GEOGR SINICA, V21, P412
+   Chen YG, 2006, ENVIRON PLANN B, V33, P345, DOI 10.1068/b31131
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   Chen YG, 2002, PROG NAT SCI, V12, P208
+   Christaller W, 1933, CENTRAL PLACES SO GE
+   Davis K, 1978, SYSTEMS CITIES, P92
+   De Keersmaecker ML, 2003, GEOGR ANAL, V35, P310, DOI 10.1353/geo.2003.0014
+   Dendrinos D. S, 1996, CHAOS THEORY SOCIAL, P237, DOI 10.3998/mpub.14623
+   DENDRINOS DS, 1994, CHAOS SOLITON FRACT, V4, P497, DOI 10.1016/0960-0779(94)90061-2
+   FALK J, 1995, CHAOS SOLITON FRACT, V5, P1847, DOI 10.1016/0960-0779(94)00188-V
+   Feder J, 1988, FRACTALS
+   FRANKHAUSER P, 1994, FRATALITE STRUCTS
+   Gabaix Xavier, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   Gutenberg B, 1954, SEISMICITY EARTH ASS
+   HAAG G, 1994, CHAOS SOLITON FRACT, V4, P519, DOI 10.1016/0960-0779(94)90063-9
+   Hack J. T., 1957, US GEOL SURVEY PRO B, P45
+   HARVEY D, 1969, EXPLANTION GEOGRAPHY
+   HERGARTEN S, 2002, SELF OGANIZED CRITIC
+   HORTON RE, 1945, GEOL SOC AM BULL, V56, P275, DOI 10.1130/0016-7606(1945)56[275:EDOSAT]2.0.CO;2
+   Iwashita Y, 2005, CHAOS SOLITON FRACT, V24, P511, DOI 10.1016/j.chaos.2004.08.002
+   JENSEN HJ, 1998, SELF ORGANIZED CRITI
+   KANAMORI H, 1975, B SEISMOL SOC AM, V65, P1073
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   Liang J.S., 1999, J BEIJING U, V35, P132
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Matsuba I, 2003, CHAOS SOLITON FRACT, V16, P151, DOI 10.1016/S0960-0779(02)00313-2
+   Peitgen H. O., 1988, SCI FRACTAL IMAGES
+   PIETRONERO L, 1995, CHAOS SOLITON FRACT, V6, P471, DOI 10.1016/0960-0779(95)80054-K
+   Ponzi A, 2000, CHAOS SOLITON FRACT, V11, P1077, DOI 10.1016/S0960-0779(99)00006-5
+   Portugali J., 2000, SELF ORG CITY
+   Richards A, 2002, GEOGRAPHY, V87, P99
+   Rodriguez-Iturbe  Ignacio, 2001, FRACTAL RIVER BASINS
+   SCHUMM SA, 1956, GEOL SOC AM BULL, V67, P597, DOI 10.1130/0016-7606(1956)67[597:EODSAS]2.0.CO;2
+   STRAHLER AN, 1952, GEOL SOC AM BULL, V63, P1117, DOI 10.1130/0016-7606(1952)63[1117:HAAOET]2.0.CO;2
+   Turcotte D, 1997, FRACTALS CHAOS GEOLO
+   WHITE R, 1993, ENVIRON PLANN A, V25, P1175, DOI 10.1068/a251175
+   White R, 1997, ENVIRON PLANN B, V24, P323, DOI 10.1068/b240323
+   WHITE R, 1994, CHAOS SOLITON FRACT, V4, P563, DOI 10.1016/0960-0779(94)90066-3
+   White R., 1993, GEOGRAPHICAL SYSTEMS, V1, P237
+   Wilson A. G., 2000, COMPLEX SPATIAL SYST
+   WOLDENBERG MJ, 1967, J REGIONAL SCI, V7, P129, DOI 10.1111/j.1467-9787.1967.tb01429.x
+   Wong DSS, 1990, GEOGR ANN B, V72, P89
+   Zanette DH, 1997, PHYS REV LETT, V79, P523, DOI 10.1103/PhysRevLett.79.523
+   ZHOU YX, 2004, URBAN PLAN, V28, P49
+   Zhou YX, 2004, URBAN PLANN, V28, P38
+   ZHOU YX, 2003, CHINA QUART, V173, P184
+   ZIPF GK, 1949, HUMAN BEHV PRINCIPLE
+NR 62
+TC 50
+Z9 50
+U1 0
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-0779
+J9 CHAOS SOLITON FRACT
+JI Chaos Solitons Fractals
+PD JAN
+PY 2008
+VL 35
+IS 1
+BP 85
+EP 98
+DI 10.1016/j.chaos.2006.05.018
+PG 14
+WC Mathematics, Interdisciplinary Applications; Physics, Multidisciplinary;
+   Physics, Mathematical
+SC Mathematics; Physics
+GA 221GN
+UT WOS:000250215500010
+DA 2019-03-26
+ER

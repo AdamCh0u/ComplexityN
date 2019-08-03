@@ -1,0 +1,522 @@
+
+PT J
+AU Yates, DN
+   Chen, F
+   Nagai, H
+AF Yates, DN
+   Chen, F
+   Nagai, H
+TI Land surface heterogeneity in the cooperative atmosphere surface
+   exchange study (CASES-97). Part II: Analysis of spatial heterogeneity
+   and its scaling
+SO JOURNAL OF HYDROMETEOROLOGY
+LA English
+DT Article
+ID SEASONAL PLANT-GROWTH; HEAT FLUXES; MESOSCALE CIRCULATIONS;
+   STOMATAL-RESISTANCE; LAYER; MOISTURE; CLIMATE; IMPACT; VARIABILITY;
+   MODELS
+AB Multiscale atmospheric forcing data at 1-, 5-, and 10-km scales from the 1997 Cooperative Atmosphere Surface Exchange Study (CASES-97) were used to drive three uncoupled land surface models: the National Center for Atmospheric Research Land Surface Model version 1 (NCAR LSM), the Oregon State University Land Surface Model (OSU LSM), and the Japan Atomic Energy Research Institute's Atmosphere-Soil-Vegetation Model (SOLVEG). The data included high-resolution, gauge-corrected precipitation estimates from dual-polarization radar, with the experimental period covering the spring green-up process.
+   The effects of increasing scale on modeled estimates of the domain mean flux were more pronounced when there was greater heterogeneity of the land surface in terms of the surface vegetation, although this result was model dependent. All models made use of prescribed parameters based on dominant land cover at the different scales, not effective parameters, leading to situations where the coarser-scale flux response fell outside the subset of the 1- km estimated flux range, largely a result of the disparity between the characteristics of the different land surfaces ( e. g., bare soil, winter wheat, grasses, and urban). The scaling effects on the statistical distribution of fluxes were more pronounced when there was greater heterogeneity with respect to land cover. The NCAR LSM includes a "capping'' scheme to soil moisture resistance and leads to a noticeable difference in its response when compared with SOLVEG and OSU LSM, which adopt a more gradually varied surface resistance scheme to soil moisture dryness.
+   The outcome of this study suggests the importance of incorporating actual land surface characteristics in land surface models, and tries to advance important issues regarding land surface parameterization schemes. LSMs need to endogenously simulate vegetation dynamics that respond to actual environmental conditions. Current datasets that describe the dominant land surface and that are used to parameterize many LSMs are inadequate because they treat the land surface as stationary heterogeneous, when in fact the land surface is nonstationary heterogeneous.
+C1 Natl Ctr Atmospher Res, RAP, Boulder, CO 80307 USA.
+   Univ Colorado, Dept Civil Engn, Boulder, CO 80309 USA.
+   Japan Atom Energy Res Inst, Tokai, Ibaraki 31911, Japan.
+RP Yates, DN (reprint author), Natl Ctr Atmospher Res, RAP, POB 3000, Boulder, CO 80307 USA.
+RI Nagai, Haruyasu/I-8679-2012; Chen, Fei/B-1747-2009
+CR ANDRE JC, 1986, B AM METEOROL SOC, V67, P138, DOI 10.1175/1520-0477(1986)067<0138:HAHAEF>2.0.CO;2
+   ANDRE JC, 1989, REMOTE SENSING LARGE, P13
+   Avissar R, 1998, J ATMOS SCI, V55, P2666, DOI 10.1175/1520-0469(1998)055<2666:AEOTSA>2.0.CO;2
+   AVISSAR R, 1989, MON WEATHER REV, V117, P2113, DOI 10.1175/1520-0493(1989)117<2113:APOHLS>2.0.CO;2
+   BONAN GB, 1993, J CLIMATE, V6, P1882, DOI 10.1175/1520-0442(1993)006<1882:IOSSHI>2.0.CO;2
+   BONAN GB, 1996, NCARTN417STR
+   BOUGEAULT P, 1991, LAND SURFACE EVAPORA, P80
+   Brandes EA, 1999, J ATMOS OCEAN TECH, V16, P1264, DOI 10.1175/1520-0426(1999)016<1264:ACORRE>2.0.CO;2
+   Brutsaert W., 1982, EVAPORATION ATMOSPHE
+   CAPEHART W, 1997, WATER RESOUR RES, V54, P1383
+   CHEN F, 1994, J APPL METEOROL, V33, P1323, DOI 10.1175/1520-0450(1994)033<1323:TIOLSW>2.0.CO;2
+   Chen F, 2003, J HYDROMETEOROL, V4, P196, DOI 10.1175/1525-7541(2003)4<196:LSHITC>2.0.CO;2
+   Chen F, 1997, BOUND-LAY METEOROL, V85, P391, DOI 10.1023/A:1000531001463
+   CHEN F, 1994, J APPL METEOROL, V33, P1382, DOI 10.1175/1520-0450(1994)033<1382:IOLSMV>2.0.CO;2
+   CLAPP RB, 1978, WATER RESOUR RES, V14, P601, DOI 10.1029/WR014i004p00601
+   CLAUSSEN M, 1991, BOUND-LAY METEOROL, V54, P387, DOI 10.1007/BF00118868
+   DEARDORFF JW, 1978, J GEOPHYS RES-OCEANS, V83, P1889, DOI 10.1029/JC083iC04p01889
+   Doran JC, 1998, J GEOPHYS RES-ATMOS, V103, P6109, DOI 10.1029/97JD03427
+   EK M, 1994, BOUND-LAY METEOROL, V70, P339
+   ENTEKHABI D, 1989, J APPL METEOROL, V2, P817
+   FAMIGLIETTI JS, 1994, WATER RESOUR RES, V30, P3061, DOI 10.1029/94WR01498
+   FAMIGLIETTI JS, 1995, WATER RESOUR RES, V31, P699, DOI 10.1029/94WR02820
+   GAO W, 1995, J GEOPHYS RES-ATMOS, V100, P14305, DOI 10.1029/95JD01464
+   GARRATT JR, 1990, BOUND-LAY METEOROL, V52, P313, DOI 10.1007/BF00119427
+   Garratt JR, 1992, ATMOSPHERIC BOUNDARY
+   Ghan SJ, 1997, J CLIMATE, V10, P3157, DOI 10.1175/1520-0442(1997)010<3157:IOSVOS>2.0.CO;2
+   GROETZNER A, 1996, CLIM DYNAM, V12, P477
+   Hu ZL, 1998, INT J CLIMATOL, V18, P49
+   Hu ZL, 1999, BOUND-LAY METEOROL, V93, P313, DOI 10.1023/A:1002067506887
+   Kavvas ML, 1999, J HYDROL, V217, P191, DOI 10.1016/S0022-1694(98)00252-2
+   KLINK K, 1995, INT J CLIMATOL, V15, P1219, DOI 10.1002/joc.3370151104
+   LeMone MA, 2000, B AM METEOROL SOC, V81, P757, DOI 10.1175/1520-0477(2000)081<0757:LIRERA>2.3.CO;2
+   LeMone MA, 1998, SPECIAL SYMPOSIUM ON HYDROLOGY, P88
+   LI B, 1994, J CLIMATE, V7, P527, DOI 10.1175/1520-0442(1994)007<0527:TIOSVO>2.0.CO;2
+   MILLER NL, 1995, J GEOPHYS RES-ATMOS, V100, P18669, DOI 10.1029/95JD00386
+   Nagai H, 2002, J APPL METEOROL, V41, P160, DOI 10.1175/1520-0450(2002)041<0160:VASAOA>2.0.CO;2
+   Niyogi D., 1997, ENV MODEL ASSESS A, V2, P307, DOI DOI 10.1023/A:1019021729938
+   Niyogi DS, 1997, J APPL METEOROL, V36, P903, DOI 10.1175/1520-0450(1997)036<0903:COFDSR>2.0.CO;2
+   PAN HL, 1987, BOUND-LAY METEOROL, V38, P185, DOI 10.1007/BF00121563
+   PIELKE RA, 1991, J CLIMATE, V4, P1053, DOI 10.1175/1520-0442(1991)004<1053:NIOMLU>2.0.CO;2
+   PIELKE RA, 1989, NATL WEA DIG, V14, P16
+   RAUPACH MR, 1995, SCALE ISSUES HYDROLI, P345
+   Rich P. M., 1995, LA12989M LOS AL NAT
+   Rife DL, 2002, MON WEATHER REV, V130, P921, DOI 10.1175/1520-0493(2002)130<0921:MFDBLC>2.0.CO;2
+   Schaake JC, 1996, J GEOPHYS RES-ATMOS, V101, P7461, DOI 10.1029/95JD02892
+   SEGAL M, 1988, J ATMOS SCI, V45, P2268, DOI 10.1175/1520-0469(1988)045<2268:EOVEOT>2.0.CO;2
+   SELLERS PJ, 1992, REMOTE SENS ENVIRON, V42, P187, DOI 10.1016/0034-4257(92)90102-P
+   Sellers PJ, 1995, J GEOPHYS RES-ATMOS, V100, P25607, DOI 10.1029/95JD02205
+   Shaw WJ, 2001, J CLIMATE, V14, P1753, DOI 10.1175/1520-0442(2001)014<1753:OOSBLD>2.0.CO;2
+   SHEN SH, 1995, Q J ROY METEOR SOC, V121, P1209, DOI 10.1256/smsqj.52602
+   SHUKLA J, 1982, SCIENCE, V215, P1498, DOI 10.1126/science.215.4539.1498
+   SUN JL, 1995, J ATMOS SCI, V52, P1096, DOI 10.1175/1520-0469(1995)052<1096:DOSFFT>2.0.CO;2
+   Tsvetsinskaya EA, 2001, J CLIMATE, V14, P711, DOI 10.1175/1520-0442(2001)014<0711:ITEOSP>2.0.CO;2
+   Tsvetsinskaya EA, 2001, J CLIMATE, V14, P692, DOI 10.1175/1520-0442(2001)014<0692:ITEOSP>2.0.CO;2
+   Wang JF, 1996, J ATMOS SCI, V53, P3349, DOI 10.1175/1520-0469(1996)053<3349:ASLTOM>2.0.CO;2
+   WOOD EF, 1993, J CLIMATE, V6, P839, DOI 10.1175/1520-0442(1993)006<0839:SWAEFI>2.0.CO;2
+   YAN H, 1988, MON WEATHER REV, V116, P192, DOI 10.1175/1520-0493(1988)116<0192:TEOVIS>2.0.CO;2
+   Yates DN, 2001, J APPL METEOROL, V40, P921, DOI 10.1175/1520-0450(2001)040<0921:ACASES>2.0.CO;2
+NR 58
+TC 12
+Z9 12
+U1 0
+U2 5
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 1525-755X
+J9 J HYDROMETEOROL
+JI J. Hydrometeorol.
+PD APR
+PY 2003
+VL 4
+IS 2
+BP 219
+EP 234
+DI 10.1175/1525-7541(2003)4<219:LSHITC>2.0.CO;2
+PG 16
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 668EF
+UT WOS:000182276800005
+DA 2019-03-26
+ER
+
+PT J
+AU Thumboo, J
+   Fong, KY
+   Machin, D
+   Chan, SP
+   Soh, CH
+   Leong, KH
+   Feng, PH
+   Thio, ST
+   Boey, ML
+AF Thumboo, J
+   Fong, KY
+   Machin, D
+   Chan, SP
+   Soh, CH
+   Leong, KH
+   Feng, PH
+   Thio, ST
+   Boey, ML
+TI Quality of life in an urban Asian population: the impact of ethnicity
+   and socio-economic status
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE health-related quality of life; ethnicity; socio-economic status; Asia;
+   Singapore
+ID SF-36 HEALTH SURVEY; SYSTEMIC-LUPUS-ERYTHEMATOSUS; OF-LIFE;
+   SOCIOECONOMIC-FACTORS; IQOLA PROJECT; RISK-FACTORS; SURVEY
+   QUESTIONNAIRE; SCALING ASSUMPTIONS; MEDICAL OUTCOMES; UNITED-STATES
+AB The relationships between ethnicity, socio-economic status (SES) and health-related quality of life (HRQoL) have not been well characterised in most Asian populations. We therefore studied the influence of ethnicity and SES on HRQoL in a multi-ethnic urban Asian population, adjusting for the influence of other known determinants of HRQoL. In a disproportionately stratified, cross-sectional, population-based survey, Chinese, Malay and Indian subjects in Singapore completed the Short Form 36 Health Survey (SF-36) HRQoL measure and were assessed to determine demographic, socio-economic, psychosocial and other characteristics. Multiple linear regression models were used to study the influence of ethnicity and SES on SF-36 scores while adjusting for the influence of other determinants of HRQoL. The survey participation rate was 92.8%. Ethnic differences in HRQoL were present for all 8 SF-36 scales (p<0.001 for all scales except General Health) among the 4122 Chinese, Malays and Indians surveyed. These ethnic groups also differed in several known determinants of HRQoL (e.g., Chinese had more years of education and Indians had more chronic medical conditions). After adjusting for the influence of these factors, ethnicity and SES independently influenced HRQoL, with mean differences in SF-36 scores due to ethnicity ranging from 1.4 to 13.1 points. Educational level and housing type (markers of SES) were also associated with SF-36 scores (0.5-0.6 point increase per year of education and 3.5-4.0 point increase with better housing type, respectively). Better HRQoL was also associated with better family support, and poorer HRQoL with acute and chronic medical conditions and sick days. The study concludes that ethnicity and SES are associated with clinically important differences in HRQoL in a multi-ethnic, urban Asian population. (C) 2002 Elsevier Science Ltd. All rights reserved.
+C1 Natl Univ Singapore Hosp, Dept Med, Singapore 119074, Singapore.
+   Tan Tock Seng Hosp, Dept Rheumatol & Immunol, Singapore, Singapore.
+   Tan Tock Seng Hosp, Clin Epidemiol Unit, Singapore, Singapore.
+   Minist Hlth, Clin Trials & Epidemiol Res Unit, Singapore, Singapore.
+   Univ Sheffield, Community Sci Ctr, Sheffield S10 2TN, S Yorkshire, England.
+RP Thumboo, J (reprint author), Natl Univ Singapore Hosp, Dept Med, 5 Lower Kent Ridge Rd, Singapore 119074, Singapore.
+CR ANDERSON JJ, 1988, AM J EPIDEMIOL, V128, P179, DOI 10.1093/oxfordjournals.aje.a114939
+   ANDERSON NB, 1995, PSYCHOSOM MED, V57, P213, DOI 10.1097/00006842-199505000-00003
+   ANSELL D, 1993, CANCER, V72, P2974, DOI 10.1002/1097-0142(19931115)72:10<2974::AID-CNCR2820721019>3.0.CO;2-M
+   Apter AJ, 1999, J ALLERGY CLIN IMMUN, V103, P72, DOI 10.1016/S0091-6749(99)70528-2
+   Ashing-Giwa K, 1999, CANCER, V85, P418, DOI 10.1002/(SICI)1097-0142(19990115)85:2<418::AID-CNCR20>3.0.CO;2-9
+   BATES MS, 1993, PAIN, V52, P101, DOI 10.1016/0304-3959(93)90120-E
+   Bhopal R, 1997, BRIT MED J, V314, P1751, DOI 10.1136/bmj.314.7096.1751
+   Bishop RF, 1998, COND MAT TH, V13, P1
+   BRAZIER JE, 1992, BMJ-BRIT MED J, V305, P160, DOI 10.1136/bmj.305.6846.160
+   Brekke JS, 1997, SCHIZOPHRENIA BULL, V23, P305, DOI 10.1093/schbul/23.2.305
+   Caldwell EM, 1998, AM J PUBLIC HEALTH, V88, P1225, DOI 10.2105/AJPH.88.8.1225
+   CHEUNG P, 1992, SINGAPORE CENSUS POP
+   CHEUNG P, 1999, STAT MARRIAGES DIVOR
+   Cheung P, 2001, SINGAPORE CENSUS POP
+   Friedman AW, 1999, ARTHRIT CARE RES, V12, P256, DOI 10.1002/1529-0131(199908)12:4<256::AID-ART4>3.0.CO;2-G
+   Ho KH, 2001, HEADACHE, V41, P279, DOI 10.1046/j.1526-4610.2001.111006279.x
+   Ho KY, 1998, AM J GASTROENTEROL, V93, P1816
+   JENKINSON C, 1993, BRIT MED J, V306, P1437, DOI 10.1136/bmj.306.6890.1437
+   JOHNSON PA, 1995, MED CARE, V33, P145
+   Johnston J A, 1993, Int Dent J, V43, P506
+   Jordan JM, 1996, ARTHRIT CARE RES, V9, P483, DOI 10.1002/art.1790090610
+   Jordan Joanne M., 1999, Current Opinion in Rheumatology, V11, P98, DOI 10.1097/00002281-199903000-00003
+   KANE RA, 1991, CANCER, V68, P2514, DOI 10.1002/1097-0142(19911201)68:11+<2514::AID-CNCR2820681506>3.0.CO;2-D
+   Krieger N, 1997, ANNU REV PUBL HEALTH, V18, P341, DOI 10.1146/annurev.publhealth.18.1.341
+   Last J., 1995, DICT EPIDEMIOLOGY
+   LillieBlanton M, 1996, SOC SCI MED, V43, P83, DOI 10.1016/0277-9536(95)00337-1
+   MCHORNEY CA, 1993, MED CARE, V31, P247, DOI 10.1097/00005650-199303000-00006
+   MCHORNEY CA, 1994, MED CARE, V32, P40, DOI 10.1097/00005650-199401000-00004
+   Mehta K, 1998, OMEGA-J DEATH DYING, V38, P255, DOI 10.2190/C3AF-A39Q-F26W-AN7U
+   Meyerowitz BE, 1998, PSYCHOL BULL, V123, P47, DOI 10.1037/0033-2909.123.1.47
+   Moore RQ, 2000, REV SOC ECON, V58, P339, DOI 10.1080/00346760050132364
+   NG TP, 1994, THORAX, V49, P347, DOI 10.1136/thx.49.4.347
+   NG TP, 1994, INT J EPIDEMIOL, V23, P553, DOI 10.1093/ije/23.3.553
+   OTTEN MW, 1990, JAMA-J AM MED ASSOC, V263, P845, DOI 10.1001/jama.263.6.845
+   Pincus T, 1998, ANN INTERN MED, V129, P406, DOI 10.7326/0003-4819-129-5-199809010-00011
+   QUAH S, 1993, HLTH HLTH CARE DEV C, P78
+   QUAH SR, 1994, FAMILY SINGAPORE SOC
+   Ren Xinhua S., 1999, Ethnicity and Disease, V9, P151
+   Ren XS, 1996, J EPIDEMIOL COMMUN H, V50, P269, DOI 10.1136/jech.50.3.269
+   SCHULMAN KA, 1995, HEALTH SERV RES, V30, P179
+   Seow A, 2000, CANCER CAUSE CONTROL, V11, P223, DOI 10.1023/A:1008954606992
+   Sherbourne C., 1992, MEASURING FUNCTIONIN, P183
+   Shetterly SM, 1998, AM J EPIDEMIOL, V147, P1019
+   Smith GD, 2000, AM J PUBLIC HEALTH, V90, P1694, DOI 10.2105/AJPH.90.11.1694
+   Tennstedt S, 1998, J GERONTOL B-PSYCHOL, V53, pS61, DOI 10.1093/geronb/53B.2.S61
+   Testa MA, 1996, NEW ENGL J MED, V334, P835, DOI 10.1056/NEJM199603283341306
+   Thumboo J, 1999, J RHEUMATOL, V26, P97
+   Thumboo J, 2001, QUAL LIFE RES, V10, P175, DOI 10.1023/A:1016701514299
+   Thumboo J, 1998, ARTHRITIS RHEUM, V41, pS225
+   Thumboo J, 1999, LUPUS, V8, P514, DOI 10.1191/096120399678840747
+   VANGRUNSVEN L, 1992, TIJDSCHR ECON SOC GE, V83, P196
+   Wagner AK, 1998, J CLIN EPIDEMIOL, V51, P925, DOI 10.1016/S0895-4356(98)00083-3
+   Wai BHK, 1999, GEN HOSP PSYCHIAT, V21, P128
+   Ware J. E, 1993, SF 36 HLTH SURVEY MA
+   Ware JE, 1998, J CLIN EPIDEMIOL, V51, P903, DOI 10.1016/S0895-4356(98)00081-X
+   Ware JE, 1998, J CLIN EPIDEMIOL, V51, P1167, DOI 10.1016/S0895-4356(98)00108-5
+   WARE JE, 1992, MED CARE, V30, P473, DOI 10.1097/00005650-199206000-00002
+   WARE JE, 1994, SF 36 PHYSICAL MENTA
+   WILLIAMS DR, 1995, ANNU REV SOCIOL, V21, P349, DOI 10.1146/annurev.so.21.080195.002025
+   Wu HM, 2001, OPTOMETRY VISION SCI, V78, P234, DOI 10.1097/00006324-200104000-00012
+NR 60
+TC 60
+Z9 62
+U1 1
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD APR
+PY 2003
+VL 56
+IS 8
+BP 1761
+EP 1772
+AR PII S0277-9536(02)00171-5
+DI 10.1016/S0277-9536(02)00171-5
+PG 12
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 665HJ
+UT WOS:000182113700015
+PM 12639592
+DA 2019-03-26
+ER
+
+PT J
+AU Nielsen, EH
+   Simonsen, K
+AF Nielsen, EH
+   Simonsen, K
+TI Scaling from 'below': Practices, strategies and urban spaces
+SO EUROPEAN PLANNING STUDIES
+LA English
+DT Article; Proceedings Paper
+CT Conference on European Urban and Regional Studies
+CY JUL, 2002
+CL BARCELONA, SPAIN
+ID GLOBALIZATION; POLITICS; GOVERNANCE; CONSTRUCTION; GEOGRAPHIES; CITY
+AB Over the last 10 years, scholars in human geography have been paying increasing attention to the social construction of scale. Most of this literature takes its starting point in discourses of globalization and the way in which re-definition of scales operates through global political economics. This article is starting from an acknowledgement of the value of the scale debate for the analysis of urban everyday life and urban politics. Briefly, we reconsider the debate, in particular emphasizing the urban question as a scale question. However, we also identify some shortcomings in the debate so far. Even though many authors forward a conception of scales as relational, it is argued, they are often caught in a 'hierarchical' view of 'scaling from above'. This is the background for an attempt to reverse the debate and consider the construction of urban spaces from below'-from the practices and strategies of 'ordinary' people and organizations in the city. The interest in this article is how the diversiy of everyday practices and politics interact with other scales in the construction of urban space.
+C1 Roskilde Univ Ctr, Dept Geog & Int Dev Studies, DK-4000 Roskilde, Denmark.
+RP Nielsen, EH (reprint author), Roskilde Univ Ctr, Dept Geog & Int Dev Studies, Postboks 260, DK-4000 Roskilde, Denmark.
+EM ehn@ruc.dk; kis@ruc.dk
+CR Amin A, 1997, T I BRIT GEOGR, V22, P411, DOI 10.1111/j.0020-2754.1997.00411.x
+   Andersen J., 2001, GEOGR Z, V89, P134
+   Brennan MF, 2000, ANN SURG ONCOL, V7, P2, DOI 10.1007/s10434-000-0002-4
+   Brenner N, 1997, PUBLIC CULTURE, V10, P135, DOI 10.1215/08992363-10-1-135
+   Brenner N, 1998, REV INT POLIT ECON, V5, P1, DOI 10.1080/096922998347633
+   Brenner N, 2001, PROG HUM GEOG, V25, P591, DOI 10.1191/030913201682688959
+   Brenner N, 1999, URBAN STUD, V36, P431, DOI 10.1080/0042098993466
+   Castells M, 1983, CITY GRASSROOTS
+   Cox KR, 1998, POLIT GEOGR, V17, P1, DOI 10.1016/S0962-6298(97)00048-6
+   de Certeau M., 1984, PRACTICE EVERYDAY LI
+   De Certeau Michel, 1997, CULTURE PLURAL
+   Delaney D, 1997, POLIT GEOGR, V16, P93, DOI 10.1016/S0962-6298(96)00045-5
+   Donald J., 1997, IMAGINING CITIES SCR, P181
+   DUNCAN N, 1996, BODYSPACE
+   Eade J, 1997, LIVING GLOBAL CITY G
+   Finnegan Ruth, 1998, TALES CITY STUDY NAR
+   Gregory D., 1994, GEOGRAPHICAL IMAGINA
+   Hamnett C, 1996, URBAN STUD, V33, P1407, DOI 10.1080/0042098966727
+   Hansen AL, 2001, EUR PLAN STUD, V9, P851, DOI 10.1080/09654310120079805
+   Howitt R, 1998, AREA, V30, P49, DOI 10.1111/j.1475-4762.1998.tb00047.x
+   Jameson Fredric, 1991, POSTMODERNISM CULTUR
+   Jessop B., 2000, GLOBALISERING INTERA
+   JONAS AEG, 1994, ENVIRON PLANN D, V12, P257
+   JONES K, 1997, POLITICAL GEOGRAPHY, V17, P25
+   Kelly PF, 1999, PROG HUM GEOG, V23, P379, DOI 10.1177/030913259902300303
+   Koskela H., 1997, GENDER PLACE CULT, V4, P301, DOI DOI 10.1080/09663699725369
+   Lefebvre H, 1991, PRODUCTION SPACE
+   LEFEBVRE H, 1961, CRITIQUE VIE QUOTIDI, V2
+   Lefebvre Henri, 1992, ELEMENTS RYTHMANALYS
+   MacLeod G, 1999, PROG HUM GEOG, V23, P503, DOI 10.1191/030913299669861026
+   MARSTON S, 2001, PROGR HUMAN GEOGRAPH, V23, P615
+   Marston SA, 2000, PROG HUM GEOG, V24, P219, DOI 10.1191/030913200674086272
+   McNeill D, 2001, T I BRIT GEOGR, V26, P340, DOI 10.1111/1475-5661.00026
+   Merleau-Ponty M., 1962, PHENOMENOLOGY PERCEP
+   Mingione E., 1996, URBAN POVERTY UNDERC
+   Mumford L, 1961, CITY HIST
+   Ricoeur P., 1984, TIME NARRATIVE, V1
+   ROBINS K, 1995, MANAGING CITIES, P45
+   SIMONSEN K, 2001, SEM 2001 SPAC ODYSS
+   Simonsen K., 1993, BYTEORI HVERDAGSPRAK
+   SIMONSEN K, 1990, SCANDINAVIAN HOUSING, V7, P143
+   Smith N, 1996, CRIT ANTHROPOL, V16, P63, DOI 10.1177/0308275X9601600107
+   Smith N, 1993, MAPPING FUTURES LOCA, P87
+   Smith N., 1992, POSTMODERNISM SOCIAL, P57
+   Smith Neil, 1984, UNEVEN DEV NATURE CA
+   Smith Neil, 1992, SOCIAL TEXT, V33, P54, DOI DOI 10.2307/466434
+   SWYNGEDOUW E, 1998, EUROPA GLOBALISIERIN, P81
+   SWYNGEDOUW E, 1997, PERSPECT ECON CHANGE, P137
+   Swyngedouw E, 1997, GEOGRAPHIES EC, P167
+   Swyngedouw E., 2001, EUROPEAN PLANNING ST, V9, P827
+   Taylor P. J., 1981, REVIEW-LAT AM LIT, V5, P3
+   TAYLOR PJ, 1982, T I BRIT GEOGR, V7, P15, DOI 10.2307/621909
+   Thrift Nigel., 1999, HUMAN GEOGRAPHY TODA, P295
+   Tickell A., 1997, GEOGRAPHIES EC, P158
+   Valentine G., 1996, BODYSPACE DESTABILIZ, P146
+   Watts M., 2000, DICT HUMAN GEOGRAPHY, P724
+   Wilson Elizabeth, 1991, SPHINX CITY URBAN LI
+NR 57
+TC 26
+Z9 26
+U1 0
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0965-4313
+EI 1469-5944
+J9 EUR PLAN STUD
+JI Eur. Plan. Stud.
+PD DEC
+PY 2003
+VL 11
+IS 8
+BP 911
+EP 927
+DI 10.1080/0965431032000146123
+PG 17
+WC Environmental Studies; Geography; Regional & Urban Planning; Urban
+   Studies
+SC Environmental Sciences & Ecology; Geography; Public Administration;
+   Urban Studies
+GA 764YX
+UT WOS:000188239700002
+DA 2019-03-26
+ER
+
+PT J
+AU Sconfietti, R
+   Marchini, A
+   Ambrogi, AO
+   Sacchi, CF
+AF Sconfietti, R
+   Marchini, A
+   Ambrogi, AO
+   Sacchi, CF
+TI The sessile benthic community patterns on hard bottoms in response to
+   continental vs. marine influence in northern Adriatic lagoons
+SO OCEANOLOGICA ACTA
+LA English
+DT Article
+DE sessile benthos; hard bottoms; Adriatic; lagoon; continental vs. marine
+   influence
+ID OF-VENICE; IMPACT
+AB The sessile hard bottoms zoobenthos community was studied in three northern Adriatic lagoons (Venice, Caorle and Grado-Marano). On the basis of previous researches (1993-1994 in Venice; 1997 in Grado-Marano), these lagoons had been subdivided into ecological sectors. The time consistency of such a subdivision has been assessed. The largest number of species was found in the lagoon of Venice, showing a high heterogeneity of environments and an intense shipping traffic, coupled with aquaculture activities that favoured the arrival of exotic species. A very poor community of obligate oligohaline species was found in Caorle. The natural and stable environment of Grado-Marano lagoon, with its large area of freshwater influence, hosted an intermediate number of species. The multi-dimensional scaling ordination plot of 27 representative stations from the three lagoons (samples of July 2000) clearly distinguished a cluster of "estuarine" sites from the remaining ones, that could be classified as "inner lagoon" sites, "vivified lagoon" sites and "lagoon mouth" sites. When compared with past results by Anosim test and Simper analysis, a lesser degree of discrimination between clusters of sites could be observed. In the following year (samples of July 2001), a larger number of sampling stations was considered in Venice and Grado-Marano. The multi-dimensional scaling plot for the community data of Grado-Marano showed fairly recognisable clusters, that substantially repeated those defined in 1997. As far as Venice is concerned, about 25% of the examined stations had shifted towards a different group, compared with those identified in 1993-1994; in particular, the "urban", "inner lagoon" and "estuarine" sectors and their peculiar assemblages survived only in small areas with unique features of harsh environmental conditions. The progressively enhanced marine influx in all the lagoon sectors (but the ones directly affected by the outflow of the only river still discharging into the lagoon) has, on the one hand, reduced the most evident effects of eutrophication and urban pollution, and on the other, led to a banalisation of the lagoon communities. (C) 2003 Editions scientifiques et medicales Elsevier SAS and Ifremer/CNRS/IRD. All rights reserved.
+C1 Univ Pavia, Dept Genet & Microbiol, Sect Ecol, I-27100 Pavia, Italy.
+RP Sconfietti, R (reprint author), Univ Pavia, Dept Genet & Microbiol, Sect Ecol, Via S Epifanio 14, I-27100 Pavia, Italy.
+EM sconfeco@unipv.it
+RI Marchini, Agnese/J-9256-2012
+OI Marchini, Agnese/0000-0003-4580-0522; OCCHIPINTI, ANNA
+   CARMEN/0000-0002-5737-8317
+CR AMBROGI AO, 2000, P 11 INT BRYOZ C, P305
+   AMBROGI AO, 2000, ATTI ASS IT OCEANOL, V13, P379
+   AMBROGI AO, 1998, S B MUS CIV ST NAT V, V49, P277
+   AUSTEN MC, 1989, MAR POLLUT BULL, V20, P398, DOI 10.1016/0025-326X(89)90318-4
+   Balducci C, 2001, MAR ENVIRON RES, V52, P27, DOI 10.1016/S0141-1136(00)00259-2
+   BELLAN G, 1984, B ECOL, V15, P13
+   Borja A, 2000, MAR POLLUT BULL, V40, P1100, DOI 10.1016/S0025-326X(00)00061-8
+   BRAY JR, 1957, ECOL MONOGR, V27, P326
+   Canu DM, 2001, ECOL MODEL, V138, P215
+   CLARKE KR, 1993, AUST J ECOL, V18, P117, DOI 10.1111/j.1442-9993.1993.tb00438.x
+   Clarke KR, 1994, CHANGE MARINE COMMUN
+   Curiel D, 1998, HYDROBIOLOGIA, V385, P17, DOI 10.1023/A:1003437105147
+   Day J. W. Jr., 1998, Journal of Coastal Conservation, V4, P27, DOI 10.1007/BF02806486
+   DEKLUIJVER MJ, 1989, BIJDR DIERKD, V59, P141
+   DEPAUW N, 1992, BIOL ASSESSMENT METH, P217
+   GEMELLI A, 2001, RAPP COMM INT MER ME, V36, P386
+   GIORDANI SOIKA A., 1978, B MUS CIV ST NAT VEN, V29, P31
+   GRAY JS, 1982, MAR ECOL PROG SER, V9, P111, DOI 10.3354/meps009111
+   Guelorget O, 1983, TRAV LAB GEOL ECOLE, V16, P1
+   HARREL RC, 1991, HYDROBIOLOGIA, V211, P241, DOI 10.1007/BF00008537
+   Hiscock K., 1987, P198
+   Kinne O., 1971, MARINE ECOLOGY     2, V1, P821
+   OCCHIPINTI AMBROGI A., 2000, BIOL INVASIONS, V2, P165
+   Pritchard D.W., 1967, AM ASSOC ADV SCI PUB, P3
+   Ravera O., 2000, J LIMNOL, V59, P19
+   Runca E, 1996, OCEAN COAST MANAGE, V30, P235, DOI 10.1016/0964-5691(95)00065-8
+   Sacchi C.F., 1998, Rapports et Proces-Verbaux des Reunions Commission Internationale pour l'Exploration Scientifique de la Mer Mediterranee Monaco, V35, P582
+   Scarton F, 2000, ECOL ENG, V16, P223, DOI 10.1016/S0925-8574(00)00045-8
+   SCONFIETTI R, 1989, Rivista di Idrobiologia, V28, P3
+   SCONFIETTI R, 1989, Scientia Marina, V53, P655
+   Sconfietti R, 2001, ATTI ASS IT OCEANOL, V14, P199
+   Sfriso A, 1996, BIORESOURCE TECHNOL, V58, P299, DOI 10.1016/S0960-8524(96)00120-4
+   Sfriso A, 2001, MAR ENVIRON RES, V52, P323, DOI 10.1016/S0141-1136(01)00089-7
+   Simboura N., 2002, Mediterranean Marine Science, V3, P77
+   SOIKA AG, 1962, S PUBBL STAZ ZOOL NA, P145
+   Urkiaga-Alberdi J, 1999, ACTA OECOL, V20, P489, DOI 10.1016/S1146-609X(99)00119-8
+NR 36
+TC 18
+Z9 18
+U1 0
+U2 7
+PU GAUTHIER-VILLARS/EDITIONS ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75015 PARIS, FRANCE
+SN 0399-1784
+J9 OCEANOL ACTA
+JI Oceanol. Acta
+PD MAR
+PY 2003
+VL 26
+IS 1
+BP 47
+EP 56
+DI 10.1016/S0399-1784(02)01228-8
+PG 10
+WC Oceanography
+SC Oceanography
+GA 674TT
+UT WOS:000182652600006
+OA Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Alderman, DH
+AF Alderman, DH
+TI Street names and the scaling of memory: the politics of commemorating
+   Martin Luther King, Jr within the African American community
+SO AREA
+LA English
+DT Article
+DE United States; street naming; scale; Martin Luther King; commemoration;
+   African American
+ID GEOGRAPHICAL SCALE; NAMING PLACES; LANDSCAPE; IDENTITY; MONUMENT;
+   BERLIN; LABOR; POWER
+AB Streets named for Martin Luther King, Jr are common yet controversial features in cities across the United States. This paper analyses the politics of naming these streets as a 'scaling of memory'-a socially contested process of determining the geographic extent to which the civil rights leader should be memorialized. Debates over the scaling of King's memory revolve around the size of the named street, the street's level of prominence within a hierarchy of roads, and the degree to which the street transcends the spatial confines of the black community. A street-naming struggle in Eatonton, Georgia (USA) exposes how the scaling of memory can become a point of division and contest within the black community as activists seek to fulfil different political goals. Analysing these intraracial contests allows for a fuller appreciation of the historical consciousness and geographic agency of African Americans rather than seeing them as a single, monolithic group.
+C1 E Carolina Univ, Dept Geog, Greenville, NC 27858 USA.
+RP Alderman, DH (reprint author), E Carolina Univ, Dept Geog, Greenville, NC 27858 USA.
+OI Alderman, Derek/0000-0002-5192-8103
+CR Alderman D., 2002, HIST GEOGRAPHY, V30, P99
+   Alderman Derek H., 1996, SE GEOGRAPHER, V36, P51, DOI DOI 10.1353/SGO.1996.0014
+   Alderman DH, 2000, PROF GEOGR, V52, P672, DOI 10.1111/0033-0124.00256
+   ALDERMAN DH, 1998, THESIS U GEORGIA US
+   Armada Bernard. J., 1998, SO COMMUNICATION J, V63, P235
+   *ATL CONST, 1989, WHIT BURK COUNTR WIN
+   Azaryahu M, 1997, POLIT GEOGR, V16, P479, DOI 10.1016/S0962-6298(96)00053-4
+   Azaryahu M, 1996, ENVIRON PLANN D, V14, P311, DOI 10.1068/d140311
+   Berg LD, 1996, ENVIRON PLANN D, V14, P99, DOI 10.1068/d140099
+   CHARLESWORTH A, 1994, ENVIRON PLANN D, V12, P579, DOI 10.1068/d120579
+   CLARK K, 2000, WHERE THESE MEMORIES, P107
+   COHEN SB, 1992, ANN ASSOC AM GEOGR, V82, P653, DOI 10.1111/j.1467-8306.1992.tb01722.x
+   Crampton A, 2001, POLIT GEOGR, V20, P221, DOI 10.1016/S0962-6298(00)00062-7
+   DAVIS T, 2002, DANVILLE REGISTER BE, pA1
+   Daynes Gary, 1997, MAKING VILLAINS MAKI
+   Dwyer OJ, 2002, URBAN GEOGR, V23, P31, DOI 10.2747/0272-3638.23.1.31
+   Dwyer OJ, 2000, PROF GEOGR, V52, P660, DOI 10.1111/0033-0124.00255
+   FARLEY FP, 1997, TELEPHONE INTERVIEW
+   Fine GA, 1996, AM J SOCIOL, V101, P1159, DOI 10.1086/230820
+   Foote K. E., 1997, SHADOWED GROUND AM L
+   GAFFNEY E, 1989, ENCY SO CULTURE
+   Gallagher V.J., 1995, SO COMMUNICATION J, V60, P109, DOI DOI 10.1080/10417949509372968
+   Graham B, 2002, POLIT GEOGR, V21, P881, DOI 10.1016/S0962-6298(02)00034-3
+   Herod A, 1997, POLIT GEOGR, V16, P145, DOI 10.1016/S0962-6298(96)00048-0
+   HEROD A, 1991, AREA, V23, P82
+   Herod A, 2001, LABOR GEOGRAPHIES WO
+   Howitt R, 1998, AREA, V30, P49, DOI 10.1111/j.1475-4762.1998.tb00047.x
+   JOHNSON N, 1995, ENVIRON PLANN D, V13, P51, DOI 10.1068/d130051
+   Jones III J.P., 2000, BLACKWELL COMPANION, P448
+   Kelley R, 1994, RACE REBELS CULTURE
+   KESTRSON DB, 1989, ENCY SO CULTURE, P885
+   Leib JI, 2002, CULT GEOGR, V9, P286, DOI 10.1191/1474474002eu250oa
+   Marston SA, 2000, PROG HUM GEOG, V24, P219, DOI 10.1191/030913200674086272
+   Mitchell D, 2002, J HIST GEOGR, V28, P63, DOI 10.1006/jhge.2001.0374
+   *MOSH AD INC, 1993, CIT EAT MAP
+   Myers GA, 1996, TIJDSCHR ECON SOC GE, V87, P237, DOI 10.1111/j.1467-9663.1998.tb01553.x
+   O'Meally Robert, 1994, HIST MEMORY AFRICAN, P3
+   Olsen D. H., 2002, Tourism Recreation Research, V27, P7
+   OSINSKI B, 1999, ATLANTA J CONST 0117, pA1
+   RHEA JT, 1997, RACE PRIDE AM IDENTI
+   RICE U, 1997, COMMUNICATION   0905
+   RICE U, 1998, COMMUNICATION   0315
+   Ruffins Fath Davis, 1992, MUSEUMS COMMUNITIES, P506
+   SCHUDSON M, 1989, COMMUNICATION, V11, P105
+   Schwartz B., 1997, INT J SOCIOLOGY SOCI, V17, P22
+   SMITH N, 1987, ECON GEOGR, V63, P160, DOI 10.2307/144152
+   Smith N, 1993, MAPPING FUTURES LOCA, P87
+   Smith Neil, 1984, UNEVEN DEV NATURE CA
+   Stump Roger W., 1988, NAMES, V36, P203
+   Till KE, 1999, ECUMENE, V6, P251, DOI 10.1191/096746099701556277
+   TOWNS HR, 1993, ATLANTA J CONST 1030, pA3
+   Tuck Stephen G. N., 2001, ATLANTA STRUGGLE RAC
+   YARDLEY J, 1995, ATLANTA J CONST 0115, pE1
+   Yeoh BSA, 1996, AREA, V28, P298
+   1990, EATONTON CITY COUNCI
+   1986, EATONTON MESSENGER
+   1990, EATONTON MESSENGER
+   1989, EATONTON MESSENGER
+NR 58
+TC 83
+Z9 85
+U1 0
+U2 15
+PU INST BRITISH GEOGRAPHERS
+PI LONDON
+PA 1 KENSINGTON GORE, LONDON SW7 2AR, ENGLAND
+SN 0004-0894
+J9 AREA
+JI Area
+PD JUN
+PY 2003
+VL 35
+IS 2
+BP 163
+EP 173
+DI 10.1111/1475-4762.00250
+PG 11
+WC Geography
+SC Geography
+GA 695CH
+UT WOS:000183813200005
+DA 2019-03-26
+ER

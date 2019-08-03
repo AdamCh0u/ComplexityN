@@ -1,0 +1,527 @@
+
+PT J
+AU Dietz, RD
+   Engstrom, DR
+   Anderson, NJ
+AF Dietz, Robert D.
+   Engstrom, Daniel R.
+   Anderson, N. John
+TI Patterns and drivers of change in organic carbon burial across a diverse
+   landscape: Insights from 116 Minnesota lakes
+SO GLOBAL BIOGEOCHEMICAL CYCLES
+LA English
+DT Article
+DE carbon burial; lake sediments; paleolimnology; land use change;
+   eutrophication; catchment disturbance
+ID UPPER MISSISSIPPI RIVER; SIZE-DISTRIBUTION; SEDIMENTARY RECORD;
+   UNITED-STATES; WATER-QUALITY; SOIL CARBON; EUTROPHICATION; RESERVOIRS;
+   DEPOSITION; COMPONENTS
+AB Lakes may store globally significant quantities of organic carbon (OC) in their sediments, but the extent to which burial rates vary across space and time is not well described. Using Pb-210-dated sediment cores, we explored patterns of OC burial in 116 lakes spanning several ecoregions and land use regimes in Minnesota, USA during the past 150-200 years. Rates for individual lakes (across all time periods) range from 3 to 204g C m(-2)yr(-1) (median 33g C m(-2)yr(-1)) and show strong geographic separation in accordance with the degree of catchment disturbance and nutrient enrichment. Climate and basin morphometry exercise subordinate control over OC burial patterns, and diagenetic gradients introduce little bias to estimated temporal trends. Median burial rates in agricultural lakes exceed urban lakes and have increased fourfold since Euro-American settlement. The greatest increase in OC burial occurred prior to the widespread adoption of industrial fertilizers, during an era of land clearance and farmland expansion. Northern boreal lakes, impacted by historical logging and limited cottage development yet comparatively undisturbed by human activity, bury OC at rates 3X lower than agricultural lakes and exhibit much smaller increases in OC burial. Scaling up modern OC burial estimates to the entire state, we find that Minnesota lakes annually store 0.40 Tg C in their sediments, equal to 1.5% of annual statewide CO2 emissions from fossil fuel combustion. During the period of Euro-American settlement (circa 1860-2000), cumulative OC burial amounted to 36 Tg C, 40% of which can be attributed to anthropogenic enhancement.
+C1 [Dietz, Robert D.] Univ Minnesota, Water Resources Sci Program, St Paul, MN 55108 USA.
+   [Engstrom, Daniel R.] Sci Museum Minnesota, St Croix Watershed Res Stn, Marine St Croix, MN USA.
+   [Anderson, N. John] Univ Loughborough, Dept Geog, Loughborough, Leics, England.
+RP Dietz, RD (reprint author), Univ Minnesota, Water Resources Sci Program, St Paul, MN 55108 USA.
+EM dietz070@umn.edu
+RI ANIKUZHIYIL, ANISH/Y-8609-2018
+OI ANIKUZHIYIL, ANISH/0000-0001-9686-1283; Engstrom,
+   Daniel/0000-0002-8066-029X
+FU Minnesota Environment and Natural Resources Trust Fund; Moos Graduate
+   Research Fellowship in Aquatic Biology
+FX Basic OC burial data (modern and presettlement rates) analyzed in this
+   paper are provided in the supporting information. All other data used in
+   this study are available for collaborative use; contact the lead author
+   for information regarding access and handling. This work was supported
+   in part by the Moos Graduate Research Fellowship in Aquatic Biology
+   (RDD). We thank Steven Heiskary and Marc Weber for providing water
+   quality and surface area information for Minnesota lakes and Jim
+   Almendinger for his guidance in geospatial mapping, including production
+   of Figure 1. RDD is grateful to Shawn Schottler, Joy Ramstack Hobbs,
+   Will Hobbs, and Jim Almendinger for their many helpful discussions. The
+   authors also wish to acknowledge the individuals who participated in
+   coring campaigns that ultimately yielded the sediment records analyzed
+   for this paper: Jeff Jeremiason, Mark Edlund, Claire Serieyssol Bleser,
+   Shawn Schottler, Jim Almendinger, Laura Triplett, Ed Swain, Kevin
+   Theissen, Leif Hembre, Euan Reavie, John Kingston, Neal Hines, Amy
+   Myrbo, and Joy Ramstack Hobbs. Funding for these efforts was provided in
+   part by the Minnesota Environment and Natural Resources Trust Fund as
+   recommended by the Legislative-Citizen Commission on Minnesota Resources
+   (LCCMR).
+CR Anderson NJ, 2014, GLOBAL CHANGE BIOL, V20, P2741, DOI 10.1111/gcb.12584
+   Anderson NJ, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2013.1278
+   Belmont P, 2011, ENVIRON SCI TECHNOL, V45, P8804, DOI 10.1021/es2019109
+   Buffam I, 2011, GLOBAL CHANGE BIOL, V17, P1193, DOI 10.1111/j.1365-2486.2010.02313.x
+   Canadell JG, 2007, P NATL ACAD SCI USA, V104, P18866, DOI 10.1073/pnas.0702737104
+   Carpenter SR, 1998, ECOL APPL, V8, P559, DOI 10.1890/1051-0761(1998)008[0559:NPOSWW]2.0.CO;2
+   Cole J. J., 2007, Ecosystems, V10, P172, DOI 10.1007/s10021-006-9013-8
+   DEAN WE, 1976, LIMNOL OCEANOGR, V21, P259, DOI 10.4319/lo.1976.21.2.0259
+   Dean WE, 1998, GEOLOGY, V26, P535, DOI 10.1130/0091-7613(1998)026<0535:MASOCB>2.3.CO;2
+   DEAN WE, 1974, J SEDIMENT PETROL, V44, P242
+   Dearing JA, 2003, GLOBAL PLANET CHANGE, V39, P147, DOI 10.1016/S0921-8181(03)00022-5
+   DELGIORGIO PA, 1994, LIMNOL OCEANOGR, V39, P772, DOI 10.4319/lo.1994.39.4.0772
+   den Heyer C, 1998, LIMNOL OCEANOGR, V43, P695, DOI 10.4319/lo.1998.43.4.0695
+   Dong XH, 2012, GLOBAL CHANGE BIOL, V18, P2205, DOI 10.1111/j.1365-2486.2012.02697.x
+   Downing JA, 2006, LIMNOL OCEANOGR, V51, P2388, DOI 10.4319/lo.2006.51.5.2388
+   Downing JA, 2008, GLOBAL BIOGEOCHEM CY, V22, DOI 10.1029/2006GB002854
+   Duarte CM, 2005, ECOSYSTEMS, V8, P862, DOI 10.1007/s10021-005-0177-4
+   Duarte CM, 2005, BIOGEOSCIENCES, V2, P1, DOI 10.5194/bg-2-1-2005
+   EAKINS JD, 1978, INT J APPL RADIAT IS, V29, P531, DOI 10.1016/0020-708X(78)90161-8
+   EDMONDSON WT, 1974, P NATL ACAD SCI USA, V71, P5093, DOI 10.1073/pnas.71.12.5093
+   Einola E, 2011, J GEOPHYS RES-BIOGEO, V116, DOI [10.1029/2010)G001636, 10.1029/2010JG001636]
+   Einsele G, 2001, GLOBAL PLANET CHANGE, V30, P167, DOI 10.1016/S0921-8181(01)00105-9
+   Elliot WJ, 2003, POTENTIAL OF U.S. FOREST SOILS TO SEQUESTER CARBON AND MITIGATE THE GREENHOUSE EFFECT, P175
+   Energy Information Administration (EIA), 2013, STAT LEV EN REL CARB
+   Engstrom DR, 2007, LIMNOL OCEANOGR, V52, P2467, DOI 10.4319/lo.2007.52.6.2467
+   Engstrom DR, 2009, J PALEOLIMNOL, V41, P563, DOI 10.1007/s10933-008-9292-5
+   Evans CD, 2006, GLOBAL CHANGE BIOL, V12, P2044, DOI 10.1111/j.1365-2486.2006.01241.x
+   Ferland ME, 2012, GLOBAL BIOGEOCHEM CY, V26, DOI 10.1029/2011GB004241
+   Galman V, 2008, LIMNOL OCEANOGR, V53, P1076, DOI 10.4319/lo.2008.53.3.1076
+   Garrison PJ, 2000, J PALEOLIMNOL, V24, P369, DOI 10.1023/A:1008107706726
+   Grigal DF, 2000, FOREST ECOL MANAG, V138, P167, DOI 10.1016/S0378-1127(00)00395-9
+   Gudasz C, 2010, NATURE, V466, P478, DOI 10.1038/nature09186
+   Hanson PC, 2004, GLOBAL CHANGE BIOL, V10, P1285, DOI 10.1111/j.1365-2486.2004.00805.x
+   Harden JW, 1999, GLOBAL BIOGEOCHEM CY, V13, P885, DOI 10.1029/1999GB900061
+   Hart J. F., 2008, LANDSCAPES MINNESOTA
+   Heathcote AJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0053554
+   Heathcote AJ, 2012, ECOSYSTEMS, V15, P60, DOI 10.1007/s10021-011-9488-9
+   Heiri O, 2001, J PALEOLIMNOL, V25, P101, DOI 10.1023/A:1008119611481
+   Heiskary SA, 2005, MINNESOTA LAKE WATER
+   Heiskary S, 2008, LAKE RESERV MANAGE, V24, P282, DOI 10.1080/07438140809354068
+   Helland J., 1996, WETLANDS BRIEF HIST
+   HOLLANDER DJ, 1992, GEOLOGY, V20, P825, DOI 10.1130/0091-7613(1992)020<0825:AYSROP>2.3.CO;2
+   Johnson RR, 2008, J SOIL WATER CONSERV, V63, p84A, DOI 10.2489/63.3.84A
+   Kastowski M, 2011, GLOBAL BIOGEOCHEM CY, V25, DOI 10.1029/2010GB003874
+   Kellogg RL, 2000, NPS000579 USDA NAT R
+   Kelly T., 1998, LAKESHORE DEV PATTER
+   Kortelainen P, 2004, GLOBAL CHANGE BIOL, V10, P1648, DOI 10.1111/j.1365-2486.2004.00848.x
+   Kortelainen P, 2013, GLOBAL BIOGEOCHEM CY, V27, P363, DOI 10.1002/gbc.20036
+   Lamborg CH, 2013, SCI TOTAL ENVIRON, V448, P132, DOI 10.1016/j.scitotenv.2012.10.065
+   Le Quere C, 2009, NAT GEOSCI, V2, P831, DOI 10.1038/ngeo689
+   LEHMAN JT, 1975, QUATERNARY RES, V5, P541, DOI 10.1016/0033-5894(75)90015-0
+   Lehner B, 2004, J HYDROL, V296, P1, DOI 10.1016/j.jhydrol.2004.03.028
+   Lewis WM, 2011, INLAND WATERS, V1, P1, DOI 10.5268/IW-1.1.384
+   LIKENS GE, 1975, VERH INT VEREIN LIMN, V19, P982
+   Mann G. E., 1955, WETLANDS INVENTORY M
+   MARSCHNER FJ, 1974, ORIGINAL VEGETATION
+   McDonald CP, 2012, LIMNOL OCEANOGR, V57, P597, DOI 10.4319/lo.2012.57.2.0597
+   McLauchlan K, 2006, ECOSYSTEMS, V9, P1364, DOI 10.1007/s10021-005-0135-1
+   MDNR, 2010, MINN FOR RES ASS 1
+   MDNR, 2012, SHALL LAK MAN REP 20
+   Meyers PA, 2006, INTERACTIONS SEDIMEN, P89, DOI DOI 10.1007/1978-1001-4020-5478-1005_1010
+   Minnesota Conservation Department, 1968, MINN CONS DEP B, V25
+   MPCA-UMN, 2010, WQF809 MPCAUMN
+   MULHOLLAND PJ, 1982, TELLUS, V34, P490
+   Myrbo A, 2008, LAKE RESERV MANAGE, V24, P349, DOI 10.1080/07438140809354845
+   National Park Service, MN65 HAER NAT PARK S
+   Oldfield F, 1978, CATENA, V5, P1, DOI [10.1016/50341-8162(78)80002-2, DOI 10.1016/S0341-8162(78)80002-2, 10.1016/S0341-8162(78)80002-2]
+   OMERNIK JM, 1987, ANN ASSOC AM GEOGR, V77, P118, DOI 10.1111/j.1467-8306.1987.tb00149.x
+   Peck DV, 2013, FRESHW SCI, V32, P1231, DOI 10.1899/11-075.1
+   Plank C, 2009, J CLIMATE, V22, P4055, DOI 10.1175/2009JCLI1978.1
+   Ramstack JM, 2003, J PALEOLIMNOL, V29, P79, DOI 10.1023/A:1022869205291
+   Regnier P, 2013, NAT GEOSCI, V6, P597, DOI [10.1038/NGEO1830, 10.1038/ngeo1830]
+   ROWAN DJ, 1992, CAN J FISH AQUAT SCI, V49, P2490, DOI 10.1139/f92-275
+   Sarmiento JL, 2006, OCEAN BIOGEOCHEMICAL
+   Schottler SP, 2014, HYDROL PROCESS, V28, P1951, DOI 10.1002/hyp.9738
+   Seekell DA, 2013, GEOPHYS RES LETT, V40, P517, DOI 10.1002/grl.50139
+   Seekell DA, 2011, LIMNOL OCEANOGR, V56, P350, DOI 10.4319/lo.2011.56.1.0350
+   Sharpley AN, 2001, PLANT SOIL, V237, P287, DOI 10.1023/A:1013335814593
+   Sobek S, 2009, LIMNOL OCEANOGR, V54, P2243, DOI 10.4319/lo.2009.54.6.2243
+   Tranvik LJ, 2009, LIMNOL OCEANOGR, V54, P2298, DOI 10.4319/lo.2009.54.6_part_2.2298
+   U.S. Census Bureau, 2012, CHP225 US CENS BUR
+   U.S. Census Office, 1883, REP PROD AGR RET 10
+   U.S. Department of Agriculture (USDA), 1952, 268 GPOOBAE USDA
+   U.S. Department of Agriculture (USDA), 2009, AC07A23 USDA NAT AGR, V1
+   U.S. Department of Agriculture (USDA), 1953, STAT B, V133
+   U.S. Department of Agriculture (USDA), 1956, STAT B, V183
+   U.S. Department of Agriculture (USDA), 1967, STAT B, V391
+   U.S. Department of Agriculture (USDA), 1972, STAT B, V501
+   U.S. Department of Agriculture (USDA), 2012, AGR STAT DAT QUICK S
+   U.S. Department of Agriculture (USDA), 1961, STAT B, V283
+   U. S. EPA, 2011, LEV 3 EC CONT US
+   Umbanhowar CE, 2011, J PALEOLIMNOL, V45, P151, DOI 10.1007/s10933-010-9486-5
+   USDA, 2012, FERT US PRIC
+   von Wachenfeldt E, 2008, ECOSYSTEMS, V11, P803, DOI 10.1007/s10021-008-9162-z
+   Waters T. F., 1977, STREAMS RIVERS MINNE
+   WEBB RS, 1988, QUATERNARY RES, V30, P284, DOI 10.1016/0033-5894(88)90004-X
+   White B. M., 1999, MAKING MINNESOTA TER, P30
+   Wyatt B., 1999, LOGGING ERA VOYAGEUR
+   Zandlo J., 2008, CLIMATE CHANGE MINNE
+NR 99
+TC 13
+Z9 13
+U1 0
+U2 39
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0886-6236
+EI 1944-9224
+J9 GLOBAL BIOGEOCHEM CY
+JI Glob. Biogeochem. Cycle
+PD MAY
+PY 2015
+VL 29
+IS 5
+BP 708
+EP 727
+DI 10.1002/2014GB004952
+PG 20
+WC Environmental Sciences; Geosciences, Multidisciplinary; Meteorology &
+   Atmospheric Sciences
+SC Environmental Sciences & Ecology; Geology; Meteorology & Atmospheric
+   Sciences
+GA CK7BD
+UT WOS:000356383700013
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Zhang, J
+   Li, XT
+   Wang, XR
+   Wang, WX
+   Wu, LF
+AF Zhang, Jiang
+   Li, Xintong
+   Wang, Xinran
+   Wang, Wen-Xu
+   Wu, Lingfei
+TI Scaling behaviours in the growth of networked systems and their
+   geometric origins
+SO Scientific Reports
+LA English
+DT Article
+ID CITIES; DYNAMICS; COMPLEX; SIZE; LAWS
+AB Two classes of scaling behaviours, namely the super-linear scaling of links or activities, and the sub-linear scaling of area, diversity, or time elapsed with respect to size have been found to prevail in the growth of complex networked systems. Despite some pioneering modelling approaches proposed for specific systems, whether there exists some general mechanisms that account for the origins of such scaling behaviours in different contexts, especially in socioeconomic systems, remains an open question. We address this problem by introducing a geometric network model without free parameter, finding that both super-linear and sub-linear scaling behaviours can be simultaneously reproduced and that the scaling exponents are exclusively determined by the dimension of the Euclidean space in which the network is embedded. We implement some realistic extensions to the basic model to offer more accurate predictions for cities of various scaling behaviours and the Zipf distribution reported in the literature and observed in our empirical studies. All of the empirical results can be precisely recovered by our model with analytical predictions of all major properties. By virtue of these general findings concerning scaling behaviour, our models with simple mechanisms gain new insights into the evolution and development of complex networked systems.
+C1 [Zhang, Jiang; Li, Xintong; Wang, Wen-Xu] Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+   [Wang, Xinran] Beijing Normal Univ, Coll Resources Sci & Technol, Beijing 100875, Peoples R China.
+   [Wu, Lingfei] Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ 85287 USA.
+   [Wu, Lingfei] Arizona State Univ, Ctr Study Inst Div, Tempe, AZ 85287 USA.
+RP Zhang, J (reprint author), Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+EM zhangjiang@bnu.edu.cn; wenxuwang@bnu.edu.cn
+FU NNSFC [61004107, 61174165, 11105011]; Beijing Higher Education Young
+   Elite Teacher Project [YETP0291]
+FX We thank Prof. Y. G. Wang, Q. H. Chen, Z. Di, J.S. Wu, and X. S. Chen
+   for valuable discussions. The paper is supported by the NNSFC under
+   Grant No. 61004107, No. 61174165 and No. 11105011, and supported by the
+   Beijing Higher Education Young Elite Teacher Project under the Grant No.
+   YETP0291.
+CR Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Barabasi A.L., 1995, FRACTAL CONCEPTS SUR
+   Barabasi AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Brown J. H., 2000, SCALING BIOL
+   Cattuto C, 2007, P NATL ACAD SCI USA, V104, P1461, DOI 10.1073/pnas.0610487104
+   Cattuto C, 2009, P NATL ACAD SCI USA, V106, P10511, DOI 10.1073/pnas.0901136106
+   Changizi MA, 2001, J THEOR BIOL, V211, P277, DOI 10.1006/jtbi.2001.2346
+   Dodds PS, 2000, ANNU REV EARTH PL SC, V28, P571, DOI 10.1146/annurev.earth.28.1.571
+   Dorogovtsev S. N., 2002, ARXIVCONDMAT0204102
+   Dreyer O, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.038101
+   Elvidge CD, 2009, ENERGIES, V2, P595, DOI 10.3390/en20300595
+   Enquist BJ, 2002, NATURE, V419, P610, DOI 10.1038/nature01069
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   HEAPS H. S., 1978, INFORM RETRIEVAL COM
+   Jacob E., 2013, ALGORITHMS MODELS WE, V8305, P14
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   Leskovec J, 2005, P 11 ACM SIGKDD INT, P177, DOI DOI 10.1145/1081870.1081893
+   Leskovec J, 2010, J MACH LEARN RES, V11, P985
+   Li DQ, 2011, NAT PHYS, V7, P481, DOI [10.1038/nphys1932, 10.1038/NPHYS1932]
+   MARTINEZ ND, 1994, AM NAT, V144, P935, DOI 10.1086/285719
+   Mattick JS, 2005, SCIENCE, V307, P856, DOI 10.1126/science.1103737
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Papadopoulos F., 2014, IEEE ACM T NETWORKIN
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Penrose M. D., 2003, RANDOM GEOMETRIC GRA
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Vicsek T., 1992, FRACTAL GROWTH PHENO
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Williams RJ, 2000, NATURE, V404, P180, DOI 10.1038/35004572
+   Wu LF, 2011, EUR PHYS J B, V83, P283, DOI 10.1140/epjb/e2011-20187-9
+   Wu LF, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.026113
+   Zhang K, 2000, P NATL ACAD SCI USA, V97, P5621, DOI 10.1073/pnas.090504197
+NR 40
+TC 3
+Z9 3
+U1 0
+U2 18
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 29
+PY 2015
+VL 5
+AR 9767
+DI 10.1038/srep09767
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CG9FY
+UT WOS:000353621400001
+PM 25924057
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Jiang, B
+AF Jiang, Bin
+TI Head/tail breaks for visualization of city structure and dynamics
+SO CITIES
+LA English
+DT Article
+DE Big data; Social media; Nighttime images; Natural cities; Fractals;
+   Ht-index
+ID SCIENCE
+AB The things surrounding us vary dramatically, which implies that there are far more small things than large ones, e.g., far more small cities than large ones in the world. This dramatic variation is often referred to as fractal or scaling. To better reveal the fractal or scaling structure, a new classification scheme, namely head/tail breaks, has been developed to recursively derive different classes or hierarchical levels. The head/tail breaks works as such: divide things into a few large ones in the head (those above the average) and many small ones (those below the average) in the tail, and recursively continue the dividing process for the large ones (or the head) until the notion of far more small things than large ones has been violated. This paper attempts to argue that head/tail breaks can be a powerful visualization tool for illustrating structure and dynamics of natural cities. Natural cities refet to naturally or objectively defined human settlements based on a meaningful cutoff averaged from a massive amount of units extracted from geographic information. To illustrate the effectiveness of head/tail breaks in visualization, 1 have developed several case studies applied to natural cities derived from the points of interest, social media location data, and time series nighttime images. I further elaborate on head/tail breaks related to fractals, beauty, and big data. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 Univ Gavle, Div Geomat, Fac Engn & Sustainable Dev, SE-80176 Gavle, Sweden.
+RP Jiang, B (reprint author), Univ Gavle, Div Geomat, Fac Engn & Sustainable Dev, SE-80176 Gavle, Sweden.
+EM bin.jiang@hig.se
+OI Jiang, Bin/0000-0002-2337-2486
+CR Alexander, 2002, THE NATURE OF ORDER
+   Batty M, 1994, FRACTAL CITIES A GEO
+   Bennett J., 2010, OPENSTREETMAP BE YOU
+   Eglash R, 1999, AFRICAN FRACTALS MOD
+   Elvidge C. D., 2014, GLOBAL URBAN MONITOR, P97, DOI [10.1201/b17012-9, DOI 10.1201/B17012-9]
+   Gao H., 2014, MOBILE SOCIAL NETWOR, P165, DOI [10.1007/978-1-4614-8579-7_8, DOI 10.1007/978-1-4614-8579-7_8]
+   Goodchild MF, 2007, GEOJOURNAL, V69, P211, DOI 10.1007/s10708-007-9111-y
+   Hudson R. L, 2004, THE MIS BEHAVIOR OF
+   Jiang B., 2014, INTERNATIONAL JOURNA
+   Jiang B., 2015, GEOJOURNAL
+   Jiang B., 2014, THE PROFESSIONAL GEO
+   Jiang B, 2014, PROF GEOGR, V66, P676, DOI 10.1080/00330124.2013.852037
+   Jiang B, 2014, ANN ASSOC AM GEOGR, V104, P530, DOI 10.1080/00045608.2013.834239
+   Jiang B, 2013, PROF GEOGR, V65, P482, DOI 10.1080/00330124.2012.700499
+   Jiang B, 2012, INT J GEOGR INF SCI, V26, P215, DOI 10.1080/13658816.2011.575074
+   Jones D., 1933, THE NEW YORK TIMES
+   Koch R., 1998, THE 80 20 PRINCIPLE
+   Kwak Haewoon, 2010, PROCEEDINGS OF THE 1
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Mandelbrot B., 1982, THE FRACTAL GEOMETRY
+   Mandelbrot B. B., 2004, FRACTALS AND CHAOS T
+   Mayer-Schonberger Viktor, 2013, BIG DATA A REVOLUTIO
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   Moreno J. L, 1934, WHO SHALL SURVIVE A
+   National Research Council, 2003, IT ROADMAP TO A GEOS
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Openshaw S, 1998, ENVIRON PLANN A, V30, P317, DOI 10.1068/a300317
+   Snow C. P., 1959, THE TWO CULTURES AND
+   Surowiecki J., 2004, WISDOM CROWDS
+   Taylor R.P., 2006, CHAOS FRACTALS NATUR
+   Watts DJ, 2007, NATURE, V445, P489, DOI 10.1038/445489a
+   Zipf GK, 1949, HUMAN BEHAVIOR AND T
+NR 32
+TC 25
+Z9 28
+U1 2
+U2 31
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-2751
+EI 1873-6084
+J9 CITIES
+JI Cities
+PD MAR
+PY 2015
+VL 43
+BP 69
+EP 77
+DI 10.1016/j.cities.2014.11.013
+PG 9
+WC Urban Studies
+SC Urban Studies
+GA CB1ZV
+UT WOS:000349427400008
+DA 2019-03-26
+ER
+
+PT J
+AU Ekman, MR
+   Lunden, P
+   Nilsson, ME
+AF Ekman, Maria Radsten
+   Lunden, Peter
+   Nilsson, Mats E.
+TI Similarity and pleasantness assessments of water-fountain sounds
+   recorded in urban public spaces
+SO JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA
+LA English
+DT Article
+ID ROAD-TRAFFIC NOISE; PERCEPTUAL ASSESSMENT; QUALITY; MODEL; ENHANCEMENT;
+   COMPONENTS; PARK
+AB Water fountains are potential tools for soundscape improvement, but little is known about their perceptual properties. To explore this, sounds were recorded from 32 fountains installed in urban parks. The sounds were recorded with a sound-field microphone and were reproduced using an ambisonic loudspeaker setup. Fifty-seven listeners assessed the sounds with regard to similarity and pleasantness. Multidimensional scaling of similarity data revealed distinct groups of soft variable and loud steady-state sounds. Acoustically, the soft variable sounds were characterized by low overall levels and high temporal variability, whereas the opposite pattern characterized the loud steady-state sounds. The perceived pleasantness of the sounds was negatively related to their overall level and positively related to their temporal variability, whereas spectral centroid was weakly correlated to pleasantness. However, the results of an additional experiment, using the same sounds set equal in overall level, found a negative relationship between pleasantness and spectral centroid, suggesting that spectral factors may influence pleasantness scores in experiments where overall level does not dominate pleasantness assessments. The equal-level experiment also showed that several loud steady-state sounds remained unpleasant, suggesting an inherently unpleasant sound character. From a soundscape design perspective, it may be advisable to avoid fountains generating such sounds. (C) 2015 Author(s). All article content, except where otherwise noted, is licensed under a Creative Commons Attribution 3.0 Unported License.
+C1 [Ekman, Maria Radsten; Nilsson, Mats E.] Stockholm Univ, Dept Psychol, Gosta Ekman Lab, SE-10691 Stockholm, Sweden.
+   [Lunden, Peter] SP Tech Res Inst Sweden, Dept Sustainable Built Environm, SE-50115 Boras, Sweden.
+RP Ekman, MR (reprint author), Stockholm Univ, Dept Psychol, Gosta Ekman Lab, SE-10691 Stockholm, Sweden.
+EM mats.nilsson@psychology.su.se
+FU Marianne and Marcus Wallenberg foundation
+FX This research was conducted in the Sound Cities research program, funded
+   by the Marianne and Marcus Wallenberg foundation.
+CR AURES W, 1985, ACUSTICA, V59, P130
+   Axelsson O, 2014, LANDSCAPE URBAN PLAN, V123, P49, DOI 10.1016/j.landurbplan.2013.12.005
+   Axelsson O, 2010, J ACOUST SOC AM, V128, P2836, DOI 10.1121/1.3493436
+   BERGLUND B, 1990, ENVIRON INT, V16, P523, DOI 10.1016/0160-4120(90)90021-W
+   Coxon A. P. M., 1999, SORTING DATA COLLECT, P1
+   De Coensel B, 2011, J ACOUST SOC AM, V129, pEL148, DOI 10.1121/1.3567073
+   Dramstad WE, 2006, LANDSCAPE URBAN PLAN, V78, P465, DOI 10.1016/j.landurbplan.2005.12.006
+   Galbrun L, 2014, J ACOUST SOC AM, V136, P2609, DOI 10.1121/1.4897313
+   Galbrun L, 2013, J ACOUST SOC AM, V133, P227, DOI 10.1121/1.4770242
+   GERZON MA, 1973, J AUDIO ENG SOC, V21, P2
+   Gygi B, 2007, PERCEPT PSYCHOPHYS, V69, P839, DOI 10.3758/BF03193921
+   Hong JY, 2013, J ACOUST SOC AM, V134, P2026, DOI 10.1121/1.4817924
+   Jeon JY, 2012, J ACOUST SOC AM, V131, P2101, DOI 10.1121/1.3681938
+   Jeon JY, 2010, J ACOUST SOC AM, V127, P1357, DOI 10.1121/1.3298437
+   Kuppens P, 2013, PSYCHOL BULL, V139, P917, DOI 10.1037/a0030811
+   Nasar JL, 2004, LANDSCAPE URBAN PLAN, V66, P233, DOI 10.1016/S0169-2046(03)00113-0
+   Nilsson M.E., 2014, ENV METHODS TRANSPOR, P195
+   Nilsson ME, 2010, NOISE CONTROL ENG J, V58, P524, DOI 10.3397/1.3484182
+   Poletti MA, 2005, J AUDIO ENG SOC, V53, P1004
+   Puckette M., 1996, P 2 INT COMP MUS CON, P37
+   Radsten-Ekman M, 2013, ACTA ACUST UNITED AC, V99, P218, DOI 10.3813/AAA.918605
+   RUSSELL JA, 1978, ENVIRON BEHAV, V10, P355, DOI 10.1177/0013916578103005
+   RUSSELL JA, 1980, J PERS SOC PSYCHOL, V39, P1161, DOI 10.1037/h0077714
+   Spors S, 2013, P IEEE, V101, P1920, DOI 10.1109/JPROC.2013.2264784
+   Vastfjall D., 2002, J SOUND VIB, V255, P510
+   Watts GR, 2009, ACTA ACUST UNITED AC, V95, P1032, DOI 10.3813/AAA.918235
+   White M, 2010, J ENVIRON PSYCHOL, V30, P482, DOI 10.1016/j.jenvp.2010.04.004
+NR 27
+TC 5
+Z9 5
+U1 5
+U2 19
+PU ACOUSTICAL SOC AMER AMER INST PHYSICS
+PI MELVILLE
+PA STE 1 NO 1, 2 HUNTINGTON QUADRANGLE, MELVILLE, NY 11747-4502 USA
+SN 0001-4966
+EI 1520-8524
+J9 J ACOUST SOC AM
+JI J. Acoust. Soc. Am.
+PD NOV
+PY 2015
+VL 138
+IS 5
+BP 3043
+EP 3052
+DI 10.1121/1.4934956
+PG 10
+WC Acoustics; Audiology & Speech-Language Pathology
+SC Acoustics; Audiology & Speech-Language Pathology
+GA CY3ON
+UT WOS:000366319200045
+PM 26627778
+DA 2019-03-26
+ER
+
+PT J
+AU Ochoa-Jimenez, DA
+   Cueva-Agila, A
+   Prieto, M
+   Aragon, G
+   Benitez, A
+AF Ochoa-Jimenez, Diego A.
+   Cueva-Agila, Anabel
+   Prieto, Maria
+   Aragon, Gregorio
+   Benitez, Angel
+TI Changes in the epiphytic lichen composition related with air quality in
+   the city of Loja (Ecuador)
+SO CALDASIA
+LA Spanish
+DT Article
+DE Air pollution; bioindicators; diversity; lichens; Loja
+ID ATMOSPHERIC POLLUTANTS; URBAN AREAS; POLLUTION; BIOINDICATORS;
+   FLUORESCENCE; INDICATORS; DEPOSITION; DIVERSITY; ECOSYSTEM
+AB Although air pollution constitutes one of the main environmental problems in the city of Loja currently, there is not an strategy for monitoring air pollution emissions. Epiphytic lichens have been widely used as bioindicators of air pollution because they get most nutrients from the air, which makes them very sensitive to changes in pollution levels. Air quality was evaluated in seven parks inside the city, where the presence and coverage of epiphytic lichens on Salix humboldtiana trees were recorded. Pollution levels were determined by the Index of Atmospheric Purity (IAP) and differences in lichen composition were assessed by a non-metric multidimensional scaling (NMDS) analysis and PERMANOVA. Our results demonstrated higher air quality in the northern and southern areas of the city, while an opposite pattern was observed in the parks from the central area of the city likely related to increased vehicular traffic. Epiphytic lichen communities were found to be excellent biological indicators of air pollution in Loja.
+C1 [Ochoa-Jimenez, Diego A.; Cueva-Agila, Anabel] Univ Tecn Particular Loja, Dept Ciencias Nat, Museo Colecciones Biol MUTPL, Loja, Ecuador.
+   [Prieto, Maria; Aragon, Gregorio] Univ Rey Juan Carlos, ESCET, Area Biodiversidad & Conservac, Madrid, Spain.
+   [Prieto, Maria] Swedish Museum Nat Hist, Dept Bot, S-10405 Stockholm, Sweden.
+   [Benitez, Angel] Univ Tecn Particular Loja, Dept Ciencias Nat, Museo Colecciones Biol MUTPL, Loja, Ecuador.
+RP Ochoa-Jimenez, DA (reprint author), Univ Tecn Particular Loja, Dept Ciencias Nat, Museo Colecciones Biol MUTPL, Loja, Ecuador.
+EM diego-8a-@hotmail.com; ani.cueva@gmail.com; arbenitez@utpl.edu.ec
+RI Prieto, Maria/Q-5033-2017
+OI Prieto, Maria/0000-0002-1692-9821; Cueva-Agila, Augusta
+   Y./0000-0001-5293-6095; Cueva-Agila, Anabel/0000-0002-1825-2092
+CR Anderson M., 2008, PERMANOVA PRIMER GUI
+   Anze R., 2007, REV VIRTUAL REDESMA, V1, P54
+   APTROOT A, 2008, BIBLIOTH LICHENOL, V97, P1
+   Bolund P, 1999, ECOL ECON, V29, P293, DOI 10.1016/S0921-8009(99)00013-0
+   Brodo IM, 2001, LICHENS N AM
+   Brunialti G, 2003, LICHENOLOGIST, V35, P55, DOI 10.1006/lich.2002.0417
+   Bungartz F, 2008, SAUTERIA, V15, P139
+   Calatayud A, 1999, PHYSIOL PLANTARUM, V105, P679, DOI 10.1034/j.1399-3054.1999.105412.x
+   Canseco A., 2006, ACTA NOVA, V3, P286
+   Conti ME, 2001, ENVIRON POLLUT, V114, P471, DOI 10.1016/S0269-7491(00)00224-4
+   Deltoro VI, 1999, PHYSIOL PLANTARUM, V105, P648, DOI 10.1034/j.1399-3054.1999.105408.x
+   Egger R., 1994, PHYTON, V35, P229
+   Fenn ME, 2007, ENVIRON POLLUT, V146, P77, DOI 10.1016/j.envpol.2006.06.024
+   SIMIJACA-SALCEDO DIEGO FERNANDO, 2014, Acta biol.Colomb., V19, P221, DOI 10.15446/abc.v19n2.40681
+   Frati L, 2006, ENVIRON POLLUT, V142, P58, DOI 10.1016/j.envpol.2005.09.020
+   Fuga A, 2008, ENVIRON POLLUT, V151, P334, DOI 10.1016/j.envpol.2007.06.041
+   GARTY J, 1993, ENVIRON EXP BOT, V33, P553, DOI 10.1016/0098-8472(93)90030-J
+   Giordani P, 2007, ENVIRON POLLUT, V146, P317, DOI 10.1016/j.envpol.2006.03.030
+   Guerrero M., 2006, REV GEOGR NORTE GD, V35, P45, DOI DOI 10.4067/S0718-34022006000100004
+   Hawksworth David L., 2005, Revista Iberoamericana de Micologia, V22, P71
+   James P., 2002, ASSESSING ROLE BIOL, P68
+   Kaffer MI, 2011, ECOL INDIC, V11, P1319, DOI 10.1016/j.ecolind.2011.02.006
+   Kranner I, 2008, BRYOLOGIST, V111, P576, DOI 10.1639/0007-2745-111.4.576
+   Kricke R, 2002, NATO SCI S SS IV EAR, V7, P21
+   LEBLANC F, 1970, CAN J BOTANY, V48, P1485, DOI 10.1139/b70-224
+   Lijteroff R, 2009, REV INT CONTAM AMBIE, V25, P111
+   MENDEZ OI, 1980, REV BIOL TROP, V28, P31
+   Ministerio del Ambiente, 2010, PLAN NAC CAL AIR
+   [Municipalidad de Loja & Naturaleza y Cultura Internac ional Programa Naciones Unidas], 2007, PERSP MED AMB URB
+   Nash III T. H., 2004, LICHEN FLORA GREATER, VII
+   Nash III T. H., 1999, LICHEN BIOL, P240
+   Nash T. H., 1996, LICHEN BIOL
+   Oksanen J., 2013, PACKAGE VEGAN COMMUN
+   Perez-Ortega S., 2003, FLORA MEDITERRANEA, V15, P453
+   Pescott OL, 2015, BIOL J LINN SOC, V115, P611, DOI 10.1111/bij.12541
+   Purvis O. W., 2008, MYCOLOGICAL SOC S SE, P175
+   Rincon J., 2012, LIQUENES COMO BIOIND
+   Riquelme F., 2008, EVALUACION USO LIQUE
+   Rojas N., 2010, AIRE PROBLEMAS AMBIE
+   Rubiano L. J., 2002, PEREZARBELAEZIA, V13, P91
+   Rubiano L. J., 1983, ACTA BIOL COLOMB, V1, P95
+   Saenz A. E., 2007, BRENESIA, V68, P29
+   Santoni Celina Sofía, 2006, Rev. Int. Contam. Ambient, V22, P49
+   Sanz Sanchez M. J., 2000, SERIE TECNICA
+   Truscott AM, 2005, ENVIRON POLLUT, V136, P109, DOI 10.1016/j.envpol.2004.12.009
+   Tzoulas K, 2007, LANDSCAPE URBAN PLAN, V81, P167, DOI 10.1016/j.landurbplan.2007.02.001
+   van Dobben HF, 2001, ENVIRON POLLUT, V112, P163, DOI 10.1016/S0269-7491(00)00121-4
+NR 47
+TC 1
+Z9 1
+U1 0
+U2 20
+PU INST CIENCIAS NATURALES, MUSEO HISTORIA NATURAL
+PI BOGOTA
+PA FAC CIENCIAS, UNIV NACIONAL COLOMBIA, APARTADO 7495, BOGOTA, 00000,
+   COLOMBIA
+SN 0366-5232
+J9 CALDASIA
+JI Caldasia
+PD JUL-DEC
+PY 2015
+VL 37
+IS 2
+BP 333
+EP 343
+DI 10.15446/caldasia.v37n2.53867
+PG 11
+WC Plant Sciences; Multidisciplinary Sciences; Zoology
+SC Plant Sciences; Science & Technology - Other Topics; Zoology
+GA DB3SC
+UT WOS:000368430800008
+OA DOAJ Gold
+DA 2019-03-26
+ER

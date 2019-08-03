@@ -1,0 +1,576 @@
+
+PT J
+AU Ng, CK
+   Wu, CH
+   Yung, KL
+   Ip, WH
+   Cheung, T
+AF Ng, Chun Kit
+   Wu, Chun Ho
+   Yung, Kai Leung
+   Ip, Wai Hung
+   Cheung, Tommy
+TI A semantic similarity analysis of Internet of Things
+SO ENTERPRISE INFORMATION SYSTEMS
+LA English
+DT Article
+DE Internet of things; IoT; citation; co-citation
+ID INTELLECTUAL STRUCTURE; COCITATION ANALYSIS; INFORMATION-SCIENCE; TRUST
+   MANAGEMENT; SERVICE PLATFORM; IOT; CITATION; ARCHITECTURE; CHALLENGES;
+   SYSTEMS
+AB Internet of Things (IoT) has gradually become one of the most popular topics among both academia and industry, and it is considered as a crucial part of future Internet. However, very few objective and systematic review was conducted to address high-value articles and summarize the intellectual components from journals for examination and identification of the intellectual core and structure of IoT. Therefore, this study conducted a co-citation analysis for IoT by using 68 high-value articles retrieved within 1457 source papers from Web of Science online database. By using factor analysis, ten critical factors were identified, which includes (1) frameworks and challenges of IoT; (2) current situation of IoT in different applications; (3) interactions of IoT; (4) security issues of IoT; (5) application domains of IoT; (6) data management of IoT; (7) IoT in product lifecycle management; (8) enabling technologies of IoT; (9) IoT in smart cities; (10) IoT in recommender systems. Hierarchical Custer Analysis and Multidimensional Scaling were used to graphically illustrate the intellectual elements of IoT. In the current findings, fundamental elements of IoT including architectural framework, enabling technologies, network communication, data management, and IoT interactions were discussed with a series of challenges for wider and deeper IoT applications.
+C1 [Ng, Chun Kit; Wu, Chun Ho; Yung, Kai Leung; Ip, Wai Hung] Hong Kong Polytech Univ, Dept Ind & Syst Engn, Hong Kong, Hong Kong, Peoples R China.
+   [Wu, Chun Ho; Cheung, Tommy] Hang Seng Management Coll, Dept Supply Chain & Informat Management, Hong Kong, Hong Kong, Peoples R China.
+RP Wu, CH (reprint author), Hang Seng Management Coll, Dept Supply Chain & Informat Management, Hong Kong, Hong Kong, Peoples R China.
+EM jackwu@ieee.org
+RI WU, Chun Ho/H-8815-2012
+OI WU, Chun Ho/0000-0003-1259-4048; IP, W.H./0000-0001-6609-0713
+FU Hong Kong Polytechnic University [H-45-35-ZG3K, RT3C]
+FX This work was supported by the The Hong Kong Polytechnic University
+   [H-45-35-ZG3K,RT3C];
+CR Ancillotti E., 2014, P IEEE PES INN SMART, P1
+   Andrews JE, 2003, J MED LIBR ASSOC, V91, P47
+   Appio FP, 2014, SCIENTOMETRICS, V101, P623, DOI 10.1007/s11192-014-1329-0
+   Ashton K, 2009, RFID J
+   Atzori L, 2012, COMPUT NETW, V56, P3594, DOI 10.1016/j.comnet.2012.07.010
+   Atzori L, 2011, IEEE COMMUN LETT, V15, P1193, DOI 10.1109/LCOMM.2011.090911.111340
+   Atzori L, 2010, COMPUT NETW, V54, P2787, DOI 10.1016/j.comnet.2010.05.010
+   Bandyopadhyay D, 2011, WIRELESS PERS COMMUN, V58, P49, DOI 10.1007/s11277-011-0288-5
+   Barnaghi P, 2012, INT J SEMANT WEB INF, V8, P1, DOI [10.4018/jswis.201201010149, 10.4018/jswis.2012010101]
+   Bartlett MS, 1950, B J PSYCHOL-STAT SEC, V3, P77, DOI 10.1111/j.2044-8317.1950.tb00285.x
+   Bi ZM, 2014, IEEE T IND INFORM, V10, P1537, DOI 10.1109/TII.2014.2300338
+   Bobadilla J, 2013, KNOWL-BASED SYST, V46, P109, DOI 10.1016/j.knosys.2013.03.012
+   BORGMAN CL, 1989, COMMUN RES, V16, P583, DOI 10.1177/009365089016005002
+   Bormann C, 2012, IEEE INTERNET COMPUT, V16, P62, DOI 10.1109/MIC.2012.29
+   Broll G, 2009, IEEE INTERNET COMPUT, V13, P74, DOI 10.1109/MIC.2009.120
+   Cai HM, 2014, IEEE T IND INFORM, V10, P1558, DOI 10.1109/TII.2014.2306391
+   Domingo MC, 2012, J NETW COMPUT APPL, V35, P584, DOI 10.1016/j.jnca.2011.10.015
+   Chen D, 2011, COMPUT SCI INF SYST, V8, P1207, DOI 10.2298/CSIS110303056C
+   Chen M, 2014, MOBILE NETW APPL, V19, P171, DOI 10.1007/s11036-013-0489-0
+   Chen M, 2012, KSII T INTERNET INF, V6, P480, DOI 10.3837/tiis.2012.02.002
+   Cooper J, 2009, IETE TECH REV, V26, P320, DOI 10.4103/0256-4602.55275
+   Dunkels A., 2008, 1 IPSO
+   EPoSS (European Technology Platform on Smart Systems), 2008, INT THINGS 2020 ROAD
+   Estrin D, 2010, IEEE INTERNET COMPUT, V14, P12, DOI 10.1109/MIC.2010.12
+   Fang SF, 2014, IEEE T IND INFORM, V10, P1596, DOI 10.1109/TII.2014.2302638
+   Feki MA, 2013, COMPUTER, V46, P24, DOI 10.1109/MC.2013.63
+   Ferreira JJM, 2016, SCIENTOMETRICS, V109, P1, DOI 10.1007/s11192-016-2008-0
+   Field A, 2013, DISCOVERING STAT USI
+   Forestiero A, 2017, IEEE ACM INT SYMP, P772, DOI 10.1109/CCGRID.2017.123
+   Framling K, 2007, INT J COMPUT INTEG M, V20, P715, DOI 10.1080/09511920701567770
+   Gama K, 2012, COMPUT COMMUN, V35, P405, DOI 10.1016/j.comcom.2011.11.003
+   Ganti RK, 2011, IEEE COMMUN MAG, V49, P32, DOI 10.1109/MCOM.2011.6069707
+   Garfield E., 1979, CITATION INDEXING IT, V8
+   Gartner, 2013, GARTNER SAYS INTERNE
+   Gershenfeld N, 2004, SCI AM, V291, P76, DOI 10.1038/scientificamerican1004-76
+   Giner P, 2010, IEEE PERVAS COMPUT, V9, P18, DOI 10.1109/MPRV.2010.14
+   Gluhak A, 2011, IEEE COMMUN MAG, V49, P58, DOI 10.1109/MCOM.2011.6069710
+   Gubbi J, 2013, FUTURE GENER COMP SY, V29, P1645, DOI 10.1016/j.future.2013.01.010
+   Guinard D., 2009, P INT WORLD WID WEB
+   Guinard D, 2010, IEEE T SERV COMPUT, V3, P223, DOI 10.1109/TSC.2010.3
+   Guo B, 2013, J NETW COMPUT APPL, V36, P1531, DOI 10.1016/j.jnca.2012.12.028
+   Hancke GP, 2013, SENSORS-BASEL, V13, P393, DOI 10.3390/s130100393
+   He W, 2014, IEEE T IND INFORM, V10, P1587, DOI 10.1109/TII.2014.2299233
+   He W, 2014, IEEE T IND INFORM, V10, P35, DOI 10.1109/TII.2012.2189221
+   Heer T, 2011, WIRELESS PERS COMMUN, V61, P527, DOI 10.1007/s11277-011-0385-5
+   Hong S, 2010, IEEE WIREL COMMUN, V17, P34, DOI 10.1109/MWC.2010.5675776
+   Hsiao CH, 2011, INT J INFORM MANAGE, V31, P128, DOI 10.1016/j.ijinfomgt.2010.07.003
+   Huang BQ, 2013, INT J ADV MANUF TECH, V65, P1261, DOI 10.1007/s00170-012-4255-4
+   Hui J., 2009, 6LOWPAN INCORPORATIN
+   Iera A, 2010, IEEE WIREL COMMUN, V17, P8, DOI 10.1109/MWC.2010.5675772
+   ITU, 2005, ITU INT REP INT THIN
+   ITU T, 2012, REC ITU T Y 2060 OV
+   Jacso Peter, 2010, ANN LIB INFORM STUDI, V57, P222
+   Jara AJ, 2012, MOB INF SYST, V8, P177, DOI 10.3233/MIS-2012-0138
+   Jara AJ, 2011, PERS UBIQUIT COMPUT, V15, P431, DOI 10.1007/s00779-010-0353-1
+   KAISER HF, 1974, PSYCHOMETRIKA, V39, P31, DOI 10.1007/BF02291575
+   KAISER HF, 1960, EDUC PSYCHOL MEAS, V20, P141, DOI 10.1177/001316446002000116
+   Kelly SDT, 2013, IEEE SENS J, V13, P3846, DOI 10.1109/JSEN.2013.2263379
+   KESSLER MM, 1963, AM DOC, V14, P10, DOI 10.1002/asi.5090140103
+   Kiritsis D, 2011, COMPUT AIDED DESIGN, V43, P479, DOI 10.1016/j.cad.2010.03.002
+   Kleineidam G, 2016, ELECTR ENG, V98, P335, DOI 10.1007/s00202-016-0417-y
+   Kortuem G, 2010, IEEE INTERNET COMPUT, V14, P44, DOI 10.1109/MIC.2009.143
+   Kranz M, 2010, IEEE INTERNET COMPUT, V14, P46, DOI 10.1109/MIC.2009.141
+   Leydesdorff L, 2006, J AM SOC INF SCI TEC, V57, P1616, DOI 10.1002/asi.20335
+   Li SC, 2015, INFORM SYST FRONT, V17, P243, DOI 10.1007/s10796-014-9492-7
+   Li SC, 2013, IEEE T IND INFORM, V9, P2177, DOI 10.1109/TII.2012.2189222
+   Li X, 2011, IEEE COMMUN MAG, V49, P68, DOI 10.1109/MCOM.2011.6069711
+   Lopez TS, 2012, PERS UBIQUIT COMPUT, V16, P291, DOI 10.1007/s00779-011-0399-8
+   Lu J., 2010, P 8 ACM C EMB NETW S, P211, DOI DOI 10.1145/1869983.1870005
+   Luo HY, 2010, IEEE WIREL COMMUN, V17, P44, DOI 10.1109/MWC.2010.5416349
+   Ma HD, 2011, J COMPUT SCI TECH-CH, V26, P919, DOI 10.1007/s11390-011-1189-5
+   Mashal I., 2016, P 2016 IEEE WIR COMM, P1
+   MCCAIN KW, 1990, J AM SOC INFORM SCI, V41, P433, DOI 10.1002/(SICI)1097-4571(199009)41:6<433::AID-ASI11>3.0.CO;2-Q
+   Miorandi D, 2012, AD HOC NETW, V10, P1497, DOI 10.1016/j.adhoc.2012.02.016
+   Nerur SP, 2008, STRATEG MANAGE J, V29, P319, DOI 10.1002/smj.659
+   Ning HS, 2011, IEEE COMMUN LETT, V15, P461, DOI 10.1109/LCOMM.2011.022411.110120
+   Oliveira LML, 2011, INT J COMMUN SYST, V24, P1445, DOI 10.1002/dac.1228
+   Orduna-Malea E., 2014, EC3 WORKING PAPERS, V18
+   Palattella MR, 2013, IEEE COMMUN SURV TUT, V15, P1389, DOI 10.1109/SURV.2012.111412.00158
+   Pang ZB, 2015, INFORM SYST FRONT, V17, P289, DOI 10.1007/s10796-012-9374-9
+   Perera C, 2014, IEEE COMMUN SURV TUT, V16, P414, DOI 10.1109/SURV.2013.042313.00197
+   Perera C, 2014, T EMERG TELECOMMUN T, V25, P81, DOI 10.1002/ett.2704
+   Pilkington A, 2009, J OPER MANAG, V27, P185, DOI 10.1016/j.jom.2008.08.001
+   Polycarpou E., 2013, P IEEE 14 INT S WORK, P1, DOI DOI 10.1109/WOWMOM.2013.6583499
+   Rashidi P, 2011, IEEE T KNOWL DATA EN, V23, P527, DOI 10.1109/TKDE.2010.148
+   Reuters T., 2016, WEB SCI EVERYWHERE W
+   Rokach L, 2005, DATA MINING AND KNOWLEDGE DISCOVERY HANDBOOK, P321, DOI 10.1007/0-387-25465-X_15
+   Roman R, 2013, COMPUT NETW, V57, P2266, DOI 10.1016/j.comnet.2012.12.018
+   Roman R, 2011, COMPUTER, V44, P51, DOI 10.1109/MC.2011.291
+   Roman R, 2011, COMPUT ELECTR ENG, V37, P147, DOI 10.1016/j.compeleceng.2011.01.009
+   ROUSSEEUW PJ, 1993, COMMUN STAT THEORY, V22, P965, DOI 10.1080/03610928308831068
+   Sakamura K., 2006, 28th International Conference on Software Engineering Proceedings, P713, DOI 10.1145/1134285.1134399
+   Sarma AC, 2009, WIRELESS PERS COMMUN, V49, P353, DOI 10.1007/s11277-009-9697-0
+   Schildt HA, 2006, ENTREP THEORY PRACT, V30, P399, DOI 10.1111/j.1540-6520.2006.00126.x
+   Shelby Z, 2010, IEEE WIREL COMMUN, V17, P52, DOI 10.1109/MWC.2010.5675778
+   Sheng ZG, 2013, IEEE WIREL COMMUN, V20, P91, DOI 10.1109/MWC.2013.6704479
+   Shiau WL, 2016, ENTERP INF SYST-UK, V10, P815, DOI 10.1080/17517575.2015.1019570
+   Shiau WL, 2016, J INF SCI ENG, V32, P703
+   Shiau WL, 2013, SCIENTOMETRICS, V94, P1317, DOI 10.1007/s11192-012-0807-5
+   Sircar S, 2001, MIS QUART, V25, P457, DOI 10.2307/3250991
+   SMALL H, 1973, J AM SOC INFORM SCI, V24, P265, DOI 10.1002/asi.4630240406
+   SULLIVAN D, 1980, SCIENTOMETRICS, V2, P309, DOI 10.1007/BF02016351
+   Sun EJ, 2012, SAFETY SCI, V50, P811, DOI 10.1016/j.ssci.2011.08.028
+   Sundmaeker H, 2010, VISION CHALLENGES RE
+   Tight M, 2008, HIGH EDUC, V55, P593, DOI 10.1007/s10734-007-9077-1
+   Tozlu S, 2012, IEEE COMMUN MAG, V50, P134, DOI 10.1109/MCOM.2012.6211498
+   Twardowski B, 2015, 2015 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND INTELLIGENT AGENT TECHNOLOGY (WI-IAT), VOL 1, P33, DOI 10.1109/WI-IAT.2015.120
+   Uckelmann D, 2011, ARCHITECTING THE INTERNET OF THINGS, P1
+   Vlacheas P, 2013, IEEE COMMUN MAG, V51, P102, DOI 10.1109/MCOM.2013.6525602
+   Voulodimos AS, 2010, COMPUT ELECTRON AGR, V70, P380, DOI 10.1016/j.compag.2009.07.009
+   Walter C, 2013, KNOWL MAN RES PRACT, V11, P221, DOI 10.1057/kmrp.2013.25
+   Wang CG, 2014, IEEE T IND INFORM, V10, P1426, DOI 10.1109/TII.2014.2300346
+   Wang NX, 2016, DECIS SUPPORT SYST, V86, P35, DOI 10.1016/j.dss.2016.03.006
+   Watteyne T, 2012, T EMERG TELECOMMUN T, V23, P480, DOI 10.1002/ett.2558
+   Welbourne E, 2009, IEEE INTERNET COMPUT, V13, P48, DOI 10.1109/MIC.2009.52
+   Xu BY, 2014, IEEE T IND INFORM, V10, P1578, DOI 10.1109/TII.2014.2306382
+   Xu LD, 2014, IEEE T IND INFORM, V10, P2233, DOI 10.1109/TII.2014.2300753
+   Xu LD, 2011, INT J PROD RES, V49, P183, DOI 10.1080/00207543.2010.508944
+   Yan Z, 2014, J NETW COMPUT APPL, V42, P120, DOI 10.1016/j.jnca.2014.01.014
+   Yu R, 2013, IEEE NETWORK, V27, P48, DOI 10.1109/MNET.2013.6616115
+   Zhang DG, 2012, COMPUT MATH APPL, V64, P1044, DOI 10.1016/j.camwa.2012.03.023
+   Zhang L, 2014, ENTERP INF SYST-UK, V8, P167, DOI 10.1080/17517575.2012.683812
+   Zhang MC, 2015, INT J SECUR APPL, V9, P235
+   Zhang YF, 2015, INT J COMPUT INTEG M, V28, P811, DOI 10.1080/0951192X.2014.900874
+   Zhao DZ, 2008, J AM SOC INF SCI TEC, V59, P916, DOI 10.1002/asi.20799
+   Zhao LQ, 2011, PROCEDIA ENVIRON SCI, V11, P558, DOI 10.1016/j.proenv.2011.12.088
+   Zheng LR, 2011, RIVER PUBL SER COMM, P143
+   Zhong N, 2013, J SUPERCOMPUT, V64, P862, DOI 10.1007/s11227-010-0518-8
+   Zhou H., 2012, INTERNET OF THINGS, P312
+   Zhou L, 2011, IEEE NETWORK, V25, P35, DOI 10.1109/MNET.2011.5772059
+   Zorzi M, 2010, IEEE WIREL COMMUN, V17, P44, DOI 10.1109/MWC.2010.5675777
+   Zuehlke D, 2010, ANNU REV CONTROL, V34, P129, DOI 10.1016/j.arcontrol.2010.02.008
+NR 132
+TC 1
+Z9 1
+U1 10
+U2 12
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1751-7575
+EI 1751-7583
+J9 ENTERP INF SYST-UK
+JI Enterp. Inf. Syst.
+PY 2018
+VL 12
+IS 7
+SI SI
+BP 820
+EP 855
+DI 10.1080/17517575.2018.1464666
+PG 36
+WC Computer Science, Information Systems
+SC Computer Science
+GA GP2ZI
+UT WOS:000440706600006
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, YS
+   Zhang, H
+   Quan, LW
+   Zhang, ZC
+   Lu, CF
+AF Chen, Yisheng
+   Zhang, He
+   Quan, Liwei
+   Zhang, Zhicheng
+   Lu, Chaofeng
+TI Theoretical Assessment on Piezoelectric Energy Harvesting in Smart
+   Self-powered Asphalt Pavements
+SO JOURNAL OF VIBRATION ENGINEERING & TECHNOLOGIES
+LA English
+DT Article
+DE Smart asphalt pavement; Piezoelectric transducers; Energy harvesting;
+   Composite beam model
+ID TRANSDUCERS
+AB Background The lighting system along the highway in urban district consume vast amount of electric power, thus leading to a great number of economic cost.
+   Purpose and Methods We propose to integrate within the road pavement a layer of piezoelectric transducer that is used to transfer mechanical energy stored in the road pavement due to traffic loading to electric power. For this energy harvesting system, we develop a composite beam model in plane strain state with two asphalt mixture layers and a piezoelectric layer in between. The output electric current, voltage, and power due to various exciting loading frequency are derived analytically.
+   Results and Conclusion The optimal thickness and location of the piezoelectric layer in the pavement are presented. A simple scaling law for the output voltage or power is derived by combining all material and geometric parameters into three independent non-dimensional parameters. The solution here may off er a simple tool for the design of smart asphalt pavement from the point of optimal output electric power.
+C1 [Chen, Yisheng; Zhang, He; Quan, Liwei; Zhang, Zhicheng; Lu, Chaofeng] Zhejiang Univ, Coll Civil Engn & Architecture, Hangzhou 310058, Zhejiang, Peoples R China.
+   [Lu, Chaofeng] Zhejiang Univ, Key Lab Soft Machines & Smart Devices Zhejiang Pr, Hangzhou 310027, Zhejiang, Peoples R China.
+RP Lu, CF (reprint author), Zhejiang Univ, Coll Civil Engn & Architecture, Hangzhou 310058, Zhejiang, Peoples R China.; Lu, CF (reprint author), Zhejiang Univ, Key Lab Soft Machines & Smart Devices Zhejiang Pr, Hangzhou 310027, Zhejiang, Peoples R China.
+EM lucf@zju.edu.cn
+FU National Natural Science Foundation of China [11322216, 11321202,
+   11472244]; Zhejiang Provincial Natural Science Foundation of China
+   [LR13A020001]; China Postdoctoral Science Foundation [2017M621934]
+FX The authors acknowledge the funding supports from the National Natural
+   Science Foundation of China under Grant Nos. 11322216, 11321202, and
+   11472244. They also acknowledge the supports from Zhejiang Provincial
+   Natural Science Foundation of China under Grant No. LR13A020001 and
+   China Postdoctoral Science Foundation under Grant No. 2017M621934.
+CR Ali SF, 2011, J INTEL MAT SYST STR, V22, P1929, DOI 10.1177/1045389X11417650
+   Anton SR, 2011, PROC SPIE, V7977, DOI 10.1117/12.880473
+   Arunshankar J, 2015, J VIB ENG TECHNOL, V3, P369
+   Cafiso S, 2013, ADV MATER RES-SWITZ, V684, P253, DOI 10.4028/www.scientific.net/AMR.684.253
+   Ding H. J., 2001, 3 DIMENSIONAL PROBLE
+   Erturk A, 2008, J VIB ACOUST, V130, DOI 10.1115/1.2890402
+   Erturk A, 2011, J INTEL MAT SYST STR, V22, P1959, DOI 10.1177/1045389X11420593
+   Khaligh A, 2010, IEEE T IND ELECTRON, V57, P850, DOI 10.1109/TIE.2009.2024652
+   Khameneifar F., 2008, ASME 2008 C SMART MA, V1, P331, DOI DOI 10.1115/SMASIS2008-426
+   Kim HS, 2011, INT J PRECIS ENG MAN, V12, P1129, DOI 10.1007/s12541-011-0151-3
+   Kim HW, 2005, J ELECTROCERAM, V15, P27, DOI 10.1007/s10832-005-0897-z
+   Kim SH, 2011, SENSOR ACTUAT A-PHYS, V167, P468, DOI 10.1016/j.sna.2011.03.007
+   Kona M, 2010, ADV VIB ENG, V9, P105
+   Lee J, 2012, INT J AUTO TECH-KOR, V13, P963, DOI 10.1007/s12239-012-0098-0
+   Lee J, 2010, MATER SCI FORUM, V658, P57, DOI 10.4028/www.scientific.net/MSF.658.57
+   Li ZX, 2006, J TRANSP ENG, V132, P565, DOI 10.1061/(ASCE)0733-947X(2006)132:7(565)
+   Makki N, 2011, PROC SPIE, V7977, DOI 10.1117/12.880636
+   Matsuzaki R, 2008, SENSORS-BASEL, V8, P8123, DOI 10.3390/s8128123
+   Nandi A, 2015, J VIB ENG TECHNOL, V3, P401
+   Panchal MB, 2013, ADV VIB ENG, V12, P311
+   Pinna L, 2009, PROCEEDINGS OF THE 13TH ITALIAN CONFERENCE ON SENSORS AND MICROSYSTEMS, P450
+   Rodriguez MV, 2011, BOL SOC ESP CERAM V, V50, P65, DOI 10.3989/cyv.092011
+   Wischke M, 2011, SMART MATER STRUCT, V20, DOI 10.1088/0964-1726/20/8/085014
+   Xiang HJ, 2013, SMART MATER STRUCT, V22, DOI 10.1088/0964-1726/22/9/095024
+   Zhang ZW, 2016, J INTEL MAT SYST STR, V27, P567, DOI 10.1177/1045389X15575081
+   Zhao HD, 2012, J CERAM SOC JPN, V120, P317, DOI 10.2109/jcersj2.120.317
+   Zhao HD, 2010, J CERAM SOC JPN, V118, P909, DOI 10.2109/jcersj2.118.909
+NR 27
+TC 0
+Z9 0
+U1 21
+U2 24
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 2523-3920
+EI 2523-3939
+J9 J VIB ENG TECHNOL
+JI J. Vib. Eng. Technol.
+PD FEB
+PY 2018
+VL 6
+IS 1
+AR UNSP 3
+DI 10.1007/s42417-018-0003-x
+PG 10
+WC Engineering, Mechanical; Mechanics
+SC Engineering; Mechanics
+GA GQ1QV
+UT WOS:000441412100002
+DA 2019-03-26
+ER
+
+PT S
+AU Persada, C
+   Sitorus, SRP
+   Marimin
+   Djakapermana, RD
+AF Persada, C.
+   Sitorus, S. R. P.
+   Marimin
+   Djakapermana, R. D.
+GP IOP
+TI Policy Model of Sustainable Infrastructure Development (Case Study :
+   Bandarlampung City, Indonesia)
+SO INTERNATIONAL CONFERENCE ON SCIENCE, INFRASTRUCTURE TECHNOLOGY AND
+   REGIONAL DEVELOPMENT (ICOSITER) 2016: ENERGY SECURITY FOR ENHANCING
+   NATIONAL COMPETITIVENESS
+SE IOP Conference Series-Earth and Environmental Science
+LA English
+DT Proceedings Paper
+CT 2nd International Conference on Regional Science, Infrastructure
+   Technology and Regional Development (ICoSITeR) - Energy Security for
+   Enhancing National Competitiveness
+CY AUG 25-26, 2017
+CL Inst Teknologi Sumatera, INDONESIA
+HO Inst Teknologi Sumatera
+DE ANP; city; dynamic model; policy; Rapinfra; sustainability
+   infrastructure
+ID URBAN INFRASTRUCTURE; SYSTEM
+AB Infrastructure development does not only affect the economic aspect, but also social and environmental, those are the main dimensions of sustainable development. Many aspects and actors involved in urban infrastructure development requires a comprehensive and integrated policy towards sustainability. Therefore, it is necessary to formulate an infrastructure development policy that considers various dimensions of sustainable development. The main objective of this research is to formulate policy of sustainable infrastructure development. In this research, urban infrastructure covers transportation, water systems (drinking water, storm water, wastewater), green open spaces and solid waste. This research was conducted in Bandarlampung City. This study use a comprehensive modeling, namely the Multi Dimensional Scaling (MDS) with Rapid Appraisal of Infrastructure (Rapinfra), it uses of Analytic Network Process (ANP) and it uses system dynamics model. The findings of the MDS analysis showed that the status of Bandarlampung City infrastructure sustainability is less sustainable. The ANP analysis produces 8 main indicators of the most influential in the development of sustainable infrastructure. The system dynamics model offered 4 scenarios of sustainable urban infrastructure policy model. The best scenario was implemented into 3 policies consist of: the integrated infrastructure management, the population control, and the local economy development.
+C1 [Persada, C.] Univ Lampung, Bandarlampung, Lampung, Indonesia.
+   [Sitorus, S. R. P.; Marimin] Bogor Agr Univ, Grad Sch, IPB Campus Dramaga, Bogor, Indonesia.
+   [Djakapermana, R. D.] Publ Works Dept, Bogor, Indonesia.
+RP Persada, C (reprint author), Univ Lampung, Bandarlampung, Lampung, Indonesia.
+EM citrapersada8@yahoo.com
+FU Education Ministry of the Republic of Indonesia
+FX The author would like to thank to the colleagues of Bandarlampung
+   Planning and Development Board for supporting data. Thanks should also
+   be conveyed to the Education Ministry of the Republic of Indonesia for
+   supporting funds for this research through BPPS scholarship.
+CR Aji A, 2000, THESIS
+   Andayani S, 2012, J CIVIL ENG, V11, P148
+   Astuti P, 2011, J IND ENG, VVI, P87
+   Barter P, 2000, TAKING STEPS COMMUNI
+   Benzerra A, 2012, J ENVIRON MANAGE, V101, P46, DOI 10.1016/j.jenvman.2012.01.027
+   Danko C C, 2007, SUSTAINABLE DEV POLI
+   Engel-Yan J, 2005, CAN J CIVIL ENG, V32, P45, DOI 10.1139/L04-116
+   Fauzi A, 2005, MODELING FISHERIES M
+   Haghshenas H, J ECOLOGICAL INDICAT, V15, P115
+   Kavanagh P, 2004, FISHERIES CTR RES RE, P12
+   Kusbimanto I W, 2013, THESIS
+   Litman T., 2006, INT J GLOBAL ENV ISS, V6, P331, DOI DOI 10.1504/IJGENVI.2006.010889
+   Marimin, 2004, TECHNIQUES APPL MULT
+   Marvin S, 1997, PROG PLANN, V48, P247, DOI 10.1016/S0305-9006(97)00011-1
+   Mell IC, 2009, P I CIVIL ENG-ENG SU, V162, P23, DOI 10.1680/ensu.2009.162.1.23
+   Miharja M, 2007, SUST TRANSP SEM BAND
+   Minne EA, 2011, IEEE I SYMP SUST SYS
+   Morrissey J, 2012, ENVIRON IMPACT ASSES, V33, P55, DOI 10.1016/j.eiar.2011.10.005
+   Newell JP, 2013, CITIES, V31, P144, DOI 10.1016/j.cities.2012.07.004
+   Pontoh N K, 2009, INTRO CITY PLANNING
+   Putri W E F, 2013, SUSTAINABLE ANAL CIT
+   Sahely HR, 2005, CAN J CIVIL ENG, V32, P72, DOI 10.1139/L04-072
+   Saniti D, 2012, J CITY REGIONAL PLAN, V23, P197
+   Sembiring E, 2012, MULTICRITERIA DECISI
+   Setiawati E, 2013, PROCEDIA ENVIRON SCI, V17, P685, DOI 10.1016/j.proenv.2013.02.085
+   Singh K, 1996, HABITAT INT, V20, P1, DOI 10.1016/0197-3975(95)00030-5
+   Soesilo B, 2001, ANAL DYNAMIC SYSTEMS
+   Steinberg F, 2007, HABITAT INT, V31, P354, DOI 10.1016/j.habitatint.2007.06.002
+   Suripin, 2004, SUST CIT DRAIN SYST
+   Tamin O Z, 2007, P SUST TRANSP SEM AU
+NR 30
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1755-1307
+J9 IOP C SER EARTH ENV
+JI IOP Conf. Ser. Earth Envir. Sci.
+PY 2018
+VL 124
+AR UNSP 012008
+DI 10.1088/1755-1315/124/1/012008
+PG 15
+WC Energy & Fuels; Environmental Sciences
+SC Energy & Fuels; Environmental Sciences & Ecology
+GA BL0JA
+UT WOS:000445929300008
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Li, FX
+   Shi, H
+   Zhao, JS
+   Feng, XG
+   Li, M
+AF Li, F. X.
+   Shi, H.
+   Zhao, J. S.
+   Feng, X. G.
+   Li, M.
+TI CARBON SEQUESTRATION AND SPATIAL DIFFERENTIATION CHARACTERISTICS OF
+   URBAN FOREST IN CHINA
+SO APPLIED ECOLOGY AND ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE forest vegetation; carbon storage; carbon density; spatial
+   differentiation; 3S technology
+ID STORAGE; DIOXIDE; CLIMATE; TREES; LAND; FLUX
+AB Based on large-scale data measured in quadrats, and using remote sensing images, the author analyzed the spatial differentiation characteristics of carbon storage and carbon density of forest vegetation in the north foot of the Qinling Mountains in China, by combining an allometric growth model with spatial analysis using a Geographic Information System. The results showed that the average carbon density of forest vegetation in the main urban area in Xi'an occurred in the order: cultural and educational green space > scenic-area green space > road green space > industrial green space > residential green space. The average carbon density of arbor forest was 6.308 kg/m(2). The carbon storage capacity varied in the order: green land in cultural and educational districts > scenic-area green space > road green space > residential green space > industrial green space. The total amount of carbon storage in the arbor forest was 519,180 t C. The spatial distribution pattern of carbon density in the arbor layer in the Xi'an administrative region was not balanced, showing high value in a southern suburb and low value in a northern suburb. Increasing forest vegetation, improving the quality of the forest structure, and increasing the three-dimensional green quantity of urban forest are effective ways to improve urban environments and to enhance carbon sequestration by forests.
+C1 [Li, F. X.; Shi, H.] Xian Univ Architecture & Technol, Sch Environm & Municipal Engn, Xian 710055, Shaanxi, Peoples R China.
+   [Li, F. X.; Feng, X. G.; Li, M.] Xian Univ Architecture & Technol, Sch Architecture, Xian 710055, Shaanxi, Peoples R China.
+   [Zhao, J. S.] Kunming Univ Sci & Technol, Sch Land & Resources Engn, Kunming 650093, Yunnan, Peoples R China.
+RP Li, FX (reprint author), Xian Univ Architecture & Technol, Sch Environm & Municipal Engn, Xian 710055, Shaanxi, Peoples R China.; Li, FX (reprint author), Xian Univ Architecture & Technol, Sch Architecture, Xian 710055, Shaanxi, Peoples R China.
+EM lifengxiasky@163.com; 497394178@qq.com; 1429620189@qq.com;
+   1010425832@qq.com; 475983882@qq.com
+FU National Natural Science Foundation of China [51608419]; Shaanxi
+   Provincial Natural Science Foundation [2014JZ011]
+FX The research was funded by the National Natural Science Foundation of
+   China (51608419) and the Shaanxi Provincial Natural Science Foundation
+   (2014JZ011).
+CR Beer C, 2010, SCIENCE, V329, P834, DOI 10.1126/science.1184984
+   Bonan GB, 2008, SCIENCE, V320, P1444, DOI 10.1126/science.1155121
+   Bousquet P, 2000, SCIENCE, V290, P1342, DOI 10.1126/science.290.5495.1342
+   Coley RL, 1997, ENVIRON BEHAV, V29, P468, DOI 10.1177/001391659702900402
+   DIXON RK, 1994, SCIENCE, V263, P185, DOI 10.1126/science.263.5144.185
+   Dongsheng G., 1998, CHINA ENV SCI, V18, P437
+   Fang JY, 2001, SCIENCE, V292, P2320, DOI 10.1126/science.1058629
+   FANG JY, 2000, ACTA PHYTOECOLOGICA, V24, P635
+   Ge Z., 2013, CHINA FORESTRY SCI T, V27, P30
+   Grimm NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2
+   HOUGHTON JT, 1994, CLIMATE CHANGE 1994
+   [黄从�? HUANG Cong-De], 2009, [生�?�学�?, Acta Ecologica Sinica], V29, P5115
+   IPCC, 2000, SPECIAL REPORT EMISS
+   Janssens IA, 2003, SCIENCE, V300, P1538, DOI 10.1126/science.1083592
+   JO HK, 1995, J ENVIRON MANAGE, V45, P109, DOI 10.1006/jema.1995.0062
+   Liu G-H, 2000, ACTA ECOL SIN, V20, P733
+   [刘兆�? Liu Zhaodan], 2016, [生�?�学�?, Acta Ecologica Sinica], V36, P6897
+   [马琪 Ma Qi], 2012, [资源科学, Resources Science], V34, P1781
+   McPherson E. G, 1998, J ARBORICULT, V24, P215
+   Minghong T., 2004, SCI CHINA SER D, V34, P1157
+   Niemela J, 2010, BIODIVERS CONSERV, V19, P3225, DOI 10.1007/s10531-010-9888-8
+   Nowak DJ, 2002, ENVIRON POLLUT, V116, P381, DOI 10.1016/S0269-7491(01)00214-7
+   NOWAK DJ, 1993, J ENVIRON MANAGE, V37, P207, DOI 10.1006/jema.1993.1017
+   Pacala SW, 2001, SCIENCE, V292, P2316, DOI 10.1126/science.1057320
+   Piao SL, 2005, J GEOPHYS RES-BIOGEO, V110, DOI 10.1029/2005JG000014
+   [史琰 Shi Yan], 2016, [林业科学, Scientia Silvae Sinicae], V52, P122
+   SIEGENTHALER U, 1993, NATURE, V365, P119, DOI 10.1038/365119a0
+   TANS PP, 1990, SCIENCE, V247, P1431, DOI 10.1126/science.247.4949.1431
+   Wang Xiaoke, 2001, Yingyong Shengtai Xuebao, V12, P13
+   Zhen Wei, 2014, Yingyong Shengtai Xuebao, V25, P1259
+   方精�?, 2007, [中国科学. D�?, 地球科学, Science in China. Series D, Earth Sciences], V37, P804
+NR 31
+TC 0
+Z9 0
+U1 6
+U2 10
+PU CORVINUS UNIV BUDAPEST
+PI BUDAPEST
+PA VILLANYI UT 29/43, BUDAPEST, H-1118, HUNGARY
+SN 1589-1623
+EI 1785-0037
+J9 APPL ECOL ENV RES
+JI Appl. Ecol. Environ. Res.
+PY 2018
+VL 16
+IS 2
+BP 1563
+EP 1580
+DI 10.15666/aeer/1602_15631580
+PG 18
+WC Ecology; Environmental Sciences
+SC Environmental Sciences & Ecology
+GA GC1KY
+UT WOS:000429542000041
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Reymond, P
+   Wahaab, RA
+   Moussa, MS
+   Luthi, C
+AF Reymond, Philippe
+   Wahaab, Rifaat Abdel
+   Moussa, Moustafa Samir
+   Luthi, Christoph
+TI Scaling up small scale wastewater treatment systems in low- and
+   middle-income countries: An analysis of challenges and ways forward
+   through the case of Egypt
+SO UTILITIES POLICY
+LA English
+DT Article
+DE Decentralised wastewater treatment; Enabling environment; Institutional
+   change
+ID STRATEGIC NICHE MANAGEMENT; SMALL COMMUNITIES; SANITATION; TECHNOLOGY;
+   CALIFORNIA; INNOVATION; BARRIERS; CITIES
+AB Small scale wastewater treatment systems are a cost-effective and pragmatic alternative to large centralised systems in many contexts. However, despite the huge potential, very few low- and middle-income countries managed to scale-up such systems. This paper explores the barriers in the case of Egypt and provides recommendations to utilities and governments on how to create an enabling environment to do so. The main barriers are institutional. Utilities need to put into place drivers of change: think at scale, reach economies of scale both in terms of management and implementation, adapt the effluent standards and engage the private sector and civil society.
+C1 [Reymond, Philippe; Luthi, Christoph] Eawag Swiss Fed Inst Aquat Res & Technol, Ueberlandstr 133, CH-8600 Dubendorf, Switzerland.
+   [Wahaab, Rifaat Abdel] HCWW, Cairo, Egypt.
+   [Moussa, Moustafa Samir] Univ Sci & Technol, Zewail City, Egypt.
+RP Reymond, P (reprint author), Eawag Swiss Fed Inst Aquat Res & Technol, Ueberlandstr 133, CH-8600 Dubendorf, Switzerland.
+EM philippe.reymond@vuna.ch
+FU Swiss Secretariat for Economic Affairs (Seco); Egyptian Holding Company
+   for Water and Wastewater (HCWW); Seco; Swiss Office for International
+   Cooperation in Egypt
+FX This work was supported by the Swiss Secretariat for Economic Affairs
+   (Seco). The authors would like to thank the Egyptian Holding Company for
+   Water and Wastewater (HCWW), Seco and the Swiss Office for International
+   Cooperation in Egypt for the support to the Egyptian-Swiss Research on
+   Innovations in Sustainable Sanitation (ESRISS www.sandec.ch/esriss)
+   project, especially Dr. Abdelkawi Khalifa, Eng. Mamdouh Raslan, Edi
+   Medilanski and Iman Radwan. Our gratitude goes also to all the
+   stakeholders of the Egyptian sector who gave us time during this study,
+   as well Dr. Christian Binz, Dr. Sabine Hoffmann and the Water and
+   Sanitation Innovations for Non-Grid Solutions programme (WINGS) at Eawag
+   (www.eawag.ch/wings).
+CR Abdel Wahaab R, 2015, WATER SANITATION EGY
+   Abeysuriya K, 2007, ECOL ECON, V62, P174, DOI 10.1016/j.ecolecon.2006.06.003
+   Bakir HA, 2001, J ENVIRON MANAGE, V61, P319, DOI 10.1006/jema.2000.0414
+   Binz C, 2016, ECON GEOGR, V92, P172, DOI 10.1080/00130095.2015.1103177
+   Brown RR, 2009, WATER SCI TECHNOL, V59, P839, DOI 10.2166/wst.2009.028
+   Brown R.R, 2009, GLOBAL ENVIRON CHANG, V21, P1117
+   Caniels MCJ, 2008, TECHNOL ANAL STRATEG, V20, P245, DOI 10.1080/09537320701711264
+   Cardona J.A., 2010, WATER SCI TECHNOL WA, V10, P181
+   Carlsson B, 1991, J EVOLUTIONARY EC, V1, P93, DOI DOI 10.1007/BF01224915
+   Eales K., 2013, REV COMMUNITY MANAGE
+   Engin GO, 2006, J ENVIRON MANAGE, V79, P357, DOI 10.1016/j.jenvman.2005.07.011
+   Evans B, 2013, SOURCE SEPARATION AND DECENTRALIZATION FOR WASTEWATER MANAGEMENT, P117
+   Gebauer H, 2017, IND INNOV, V24, P543, DOI 10.1080/13662716.2017.1310033
+   Gebauer H, 2014, SCI TOTAL ENVIRON, V488, P516, DOI 10.1016/j.scitotenv.2014.02.046
+   Gikas P, 2009, J ENVIRON MANAGE, V90, P144, DOI 10.1016/j.jenvman.2007.08.016
+   Grin J., 2010, TRANSITIONS SUSTAINA, P249
+   Harris-Lovett SR, 2015, ENVIRON SCI TECHNOL, V49, P7552, DOI 10.1021/acs.est.5b00504
+   HCWW, 2008, EG NAT RUR SAN STRAT
+   Hegger DLT, 2007, TECHNOL ANAL STRATEG, V19, P729, DOI 10.1080/09537320701711215
+   Kemp R, 1998, TECHNOL ANAL STRATEG, V10, P175, DOI 10.1080/09537329808524310
+   Kiparsky M, 2016, ENVIRON MANAGE, V57, P1204, DOI 10.1007/s00267-016-0685-3
+   Larsen TA, 2013, SOURCE SEPARATION AND DECENTRALIZATION FOR WASTEWATER MANAGEMENT, P1
+   Larsen TA, 2016, SCIENCE, V352, P928, DOI 10.1126/science.aad8641
+   Libralato G, 2012, J ENVIRON MANAGE, V94, P61, DOI 10.1016/j.jenvman.2011.07.010
+   Luthi C, 2013, SOURCE SEPARATION AND DECENTRALIZATION FOR WASTEWATER MANAGEMENT, P455
+   Luthi C, 2011, COMMUNITY LED URBAN
+   Massoud MA, 2009, J ENVIRON MANAGE, V90, P652, DOI 10.1016/j.jenvman.2008.07.001
+   Maurer M, 2009, WATER RES, V43, P2121, DOI 10.1016/j.watres.2009.02.008
+   McKinsey, 2014, INT WAT MAN STRAT BE
+   Medilanski E, 2007, ENVIRON MANAGE, V39, P648, DOI 10.1007/s00267-005-0321-0
+   Mitchell C., 2015, U TECHNOLOGY SYDNEY
+   Mitchell C., 2010, P WATER ENV FED, V2010, P531
+   Mitchell C. A., 2008, ONSITE DECENTRALISED
+   Moglia M, 2011, WATER SCI TECHNOL, V63, P2331, DOI 10.2166/wst.2011.443
+   Narayana D., 2017, FSM INNOVATION CASE
+   Newman P, 2001, WATER SCI TECHNOL, V43, P93
+   Olsson G, 2013, SOURCE SEPARATION AND DECENTRALIZATION FOR WASTEWATER MANAGEMENT, P179
+   Parkinson J, 2003, ENVIRON URBAN, V15, P75, DOI 10.1177/095624780301500119
+   Peal A, 2014, J WATER SANIT HYG DE, V4, P563, DOI 10.2166/washdev.2014.026
+   Reuter S., 2016, KEY ELEMENTS NEW URB, P14
+   Reymond P, 2015, POLICY RECOMMENDATIO
+   Reymond P., 2012, SMALL SCALE SANITATI
+   Reymond P, 2013, ESRISS FACTSHEETS SM
+   Reymond P, 2016, SUSTAINABLE URBANIZATION, P115, DOI 10.5772/63726
+   Rickert B., 2016, TOOLS GOOD PRACTICES
+   Ross K., 2014, A WORKING DOCUMENT
+   Rotmans J., 2001, FORESIGHT, V3, P1, DOI DOI 10.1108/14636680110803003
+   Schertenleib R, 2005, WATER SCI TECHNOL, V51, P7
+   Singh NK, 2015, WATER SCI TECHNOL, V71, P468, DOI 10.2166/wst.2014.413
+   Starkl M, 2013, ENVIRON SCI TECHNOL, V47, P6102, DOI 10.1021/es3048416
+   Tilley E, 2014, ENVIRON SCI TECHNOL, V48, P9965, DOI 10.1021/es501645d
+   Truffer B, 2013, SOURCE SEPARATION AND DECENTRALIZATION FOR WASTEWATER MANAGEMENT, P209
+   United Nations General Assembly Human Rights Council, 2013, SPEC RAPP HUM RIGHT
+   Wilderer PA, 2000, WATER SCI TECHNOL, V41, P1
+   Willetts J, 2007, WATER SCI TECHNOL, V56, P165, DOI 10.2166/wst.2007.569
+NR 55
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0957-1787
+EI 1878-4356
+J9 UTIL POLICY
+JI Util. Policy
+PD JUN
+PY 2018
+VL 52
+BP 13
+EP 21
+DI 10.1016/j.jup.2018.03.008
+PG 9
+WC Energy & Fuels; Environmental Sciences; Environmental Studies
+SC Energy & Fuels; Environmental Sciences & Ecology
+GA GJ1UG
+UT WOS:000435052800002
+DA 2019-03-26
+ER

@@ -1,0 +1,486 @@
+
+PT J
+AU de Foy, B
+   Heo, J
+   Schauer, JJ
+AF de Foy, Benjamin
+   Heo, Jongbae
+   Schauer, James J.
+TI Estimation of direct emissions and atmospheric processing of reactive
+   mercury using inverse modeling
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Mercury; Reactive mercury; Emissions inventory; Inverse modeling;
+   Mercury oxidation
+ID PARTICLE DISPERSION MODEL; UNITED-STATES; SCIENTIFIC UNCERTAINTIES; WET
+   DEPOSITION; NORTH-AMERICA; SOURCE ATTRIBUTION; GASEOUS MERCURY; AIR;
+   SPECIATION; OXIDATION
+AB There are large uncertainties in the estimation of sources of reactive mercury in current photochemical models, with many models suggesting that three quarters or more of reactive mercury in the atmosphere is due to secondary oxidation of the gaseous elemental mercury present in the global background. An inverse model is used to estimate the sources of mercury at an urban site in Wisconsin based on a year long time series of hourly measurements. The model combines high resolution backtrajectories simulated with WRF and WRF-FLEXPART, forward simulations of passive tracers using a transport model (CAMx), hourly time series of atmospheric pollutant concentrations and time series from a chemical box model for oxidation of elemental mercury by ozone, the hydroxyl radical and bromine. The hybrid formulation provides an estimate of the mercury concentrations on a polar grid surrounding the site along with emission scaling factors for emissions from forest fires and lake surfaces. In addition, the model estimates the impact of oxidation of gaseous elemental mercury from the three pathways. The inverse model identified direct emissions of reactive mercury, defined as the sum of reactive gaseous mercury and particle-bound mercury, that are associated with regional sources and with forest fires. The results suggest that oxidation by ozone is adequately characterized in existing chemical mechanisms, but that oxidation by the hydroxyl radical and by bromine may be underestimated. The results suggest that between 50 and 70 percent of the reactive mercury at the measurement site is due to direct emissions and hence suggest the importance of developing emission inventories for reactive mercury species. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [de Foy, Benjamin] St Louis Univ, Dept Earth & Atmospher Sci, St Louis, MO 63103 USA.
+   [de Foy, Benjamin] Catholic Univ Louvain, Earth & Life Inst, Louvain, Belgium.
+   [Heo, Jongbae; Schauer, James J.] Univ Wisconsin Madison, Madison, WI USA.
+RP de Foy, B (reprint author), St Louis Univ, Dept Earth & Atmospher Sci, St Louis, MO 63103 USA.
+EM bdefoy@slu.edu
+RI de Foy, Benjamin/A-9902-2010
+OI de Foy, Benjamin/0000-0003-4150-9922
+FU EPA [RD-83455701]; US EPA STAR [R829798]
+FX We thank C. Wiedinmyer of NCAR for the forest fire emissions. The first
+   author would like to thank Saint Louis University for a sabbatical leave
+   during which this research was performed, and Prof. J.-P. van Ypersele
+   who hosted him at the Earth and Life Institute, Universite catholique de
+   Louvain. This manuscript was made possible by EPA grant number
+   RD-83455701. Its contents are solely the responsibility of the grantee
+   and do not necessarily represent the official views of the EPA. Further,
+   the EPA does not endorse the purchase of any commercial products or
+   services mentioned in the publication. The initial mercury measurements
+   were funded by US EPA STAR Grant #R829798. We wish to thank the
+   anonymous reviewers for their careful reviews of the paper.
+CR ASHBAUGH LL, 1985, ATMOS ENVIRON, V19, P1263, DOI 10.1016/0004-6981(85)90256-2
+   Baker KR, 2012, ATMOS ENVIRON, V49, P151, DOI 10.1016/j.atmosenv.2011.12.006
+   Bullock O.R., 2009, J GEOPHYS RES ATMOS, V114
+   Bullock O.R., 2008, J GEOPHYS RES ATMOS, V113
+   Ci ZJ, 2011, ATMOS CHEM PHYS, V11, P2881, DOI 10.5194/acp-11-2881-2011
+   de Foy B, 2012, ATMOS CHEM PHYS, V12, P8993, DOI 10.5194/acp-12-8993-2012
+   de Foy B, 2012, ATMOS ENVIRON, V59, P294, DOI 10.1016/j.atmosenv.2012.06.002
+   Dibble TS, 2012, ATMOS CHEM PHYS, V12, P10271, DOI 10.5194/acp-12-10271-2012
+   Environ, 2011, CAMX COMPR AIR QUAL
+   Fain X, 2009, ATMOS CHEM PHYS, V9, P8049, DOI 10.5194/acp-9-8049-2009
+   Fast J. D., 2006, 7 WRF US WORKSH BOUL
+   Finley BD, 2009, ATMOS ENVIRON, V43, P6074, DOI 10.1016/j.atmosenv.2009.08.046
+   Gbor PK, 2006, ATMOS ENVIRON, V40, P973, DOI 10.1016/j.atmosenv.2005.10.040
+   Goodsite ME, 2012, ENVIRON SCI TECHNOL, V46, P5262, DOI 10.1021/es301201c
+   Goodsite ME, 2004, ENVIRON SCI TECHNOL, V38, P1772, DOI 10.1021/es034680s
+   Gustin M, 2010, ENVIRON SCI TECHNOL, V44, P2222, DOI 10.1021/es902736k
+   Gustin MS, 2013, ENVIRON SCI TECHNOL, V47, P7295, DOI 10.1021/es3039104
+   Henze DK, 2009, ATMOS CHEM PHYS, V9, P5877, DOI 10.5194/acp-9-5877-2009
+   Holloway T, 2012, ATMOS CHEM PHYS, V12, P7117, DOI 10.5194/acp-12-7117-2012
+   Holmes CD, 2010, ATMOS CHEM PHYS, V10, P12037, DOI 10.5194/acp-10-12037-2010
+   Holmes CD, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2006GL027176
+   Huang JY, 2012, ENVIRON SCI TECHNOL, V46, P6621, DOI 10.1021/es3005915
+   Lawrence MG, 2001, ATMOS CHEM PHYS, V1, P37, DOI 10.5194/acp-1-37-2001
+   Lin CJ, 2007, ATMOS ENVIRON, V41, P6544, DOI 10.1016/j.atmosenv.2007.04.030
+   Lin CJ, 2006, ATMOS ENVIRON, V40, P2911, DOI 10.1016/j.atmosenv.2006.01.009
+   Lin CJ, 2012, J AIR WASTE MANAGE, V62, P52, DOI 10.1080/10473289.2011.622066
+   Lindberg SE, 1998, ENVIRON SCI TECHNOL, V32, P49, DOI 10.1021/es970546u
+   Lindberg S, 2007, AMBIO, V36, P19, DOI 10.1579/0044-7447(2007)36[19:ASOPAU]2.0.CO;2
+   Lohman K, 2006, ENVIRON SCI TECHNOL, V40, P3848, DOI 10.1021/es051556v
+   Manolopoulos H, 2007, J ENVIRON ENG SCI, V6, P491, DOI 10.1139/S07-005
+   Manolopoulos H, 2007, ENVIRON SCI TECHNOL, V41, P5626, DOI 10.1021/es0700348
+   Mergler D, 2007, AMBIO, V36, P3, DOI 10.1579/0044-7447(2007)36[3:MEAHEI]2.0.CO;2
+   Mesinger F, 2006, B AM METEOROL SOC, V87, P343, DOI 10.1175/BAMS-87-3-343
+   Pongprueksa P, 2008, ATMOS ENVIRON, V42, P1828, DOI 10.1016/j.atmosenv.2007.11.020
+   Rigby M, 2011, ATMOS CHEM PHYS, V11, P9887, DOI 10.5194/acp-11-9887-2011
+   Roedenbeck C., 2009, ATMOS CHEM PHYS, V9, P5331, DOI DOI 10.5194/ACP-9-5331-2009
+   Rutter AP, 2012, ATMOS ENVIRON, V59, P86, DOI 10.1016/j.atmosenv.2012.05.009
+   Rutter AP, 2008, J ENVIRON MONITOR, V10, P102, DOI 10.1039/b710247j
+   Schroeder WH, 1998, ATMOS ENVIRON, V32, P809, DOI 10.1016/S1352-2310(97)00293-8
+   Seibert P, 2004, ATMOS CHEM PHYS, V4, P51, DOI 10.5194/acp-4-51-2004
+   Seigneur C, 2004, ENVIRON SCI TECHNOL, V38, P555, DOI 10.1021/es034109t
+   Selin NE, 2008, ATMOS ENVIRON, V42, P5193, DOI 10.1016/j.atmosenv.2008.02.069
+   Sillman S, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD008227
+   Skamarock W., 2005, NCARTN468STR
+   Stohl A, 2005, ATMOS CHEM PHYS, V5, P2461, DOI 10.5194/acp-5-2461-2005
+   Stohl A, 2009, ATMOS CHEM PHYS, V9, P1597, DOI 10.5194/acp-9-1597-2009
+   Subir M, 2012, ATMOS ENVIRON, V46, P1, DOI 10.1016/j.atmosenv.2011.07.047
+   Subir M, 2011, ATMOS ENVIRON, V45, P5664, DOI 10.1016/j.atmosenv.2011.04.046
+   Thurber C., 2012, PARAMETER ESTIMATION
+   Wiedinmyer C, 2011, GEOSCI MODEL DEV, V4, P625, DOI 10.5194/gmd-4-625-2011
+   Wiedinmyer C, 2007, ENVIRON SCI TECHNOL, V41, P8092, DOI 10.1021/es071289o
+   Wunsch C., 2006, DISCRETE INVERSE STA
+   Zhang L, 2012, ATMOS CHEM PHYS, V12, P4327, DOI 10.5194/acp-12-4327-2012
+   Zhang Y, 2012, ATMOS CHEM PHYS, V12, P6095, DOI 10.5194/acp-12-6095-2012
+NR 54
+TC 11
+Z9 11
+U1 0
+U2 71
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD MAR
+PY 2014
+VL 85
+BP 73
+EP 82
+DI 10.1016/j.atmosenv.2013.11.070
+PG 10
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA AA9MN
+UT WOS:000331417700009
+DA 2019-03-26
+ER
+
+PT J
+AU Horlings, LG
+   Marsden, TK
+AF Horlings, Lummina G.
+   Marsden, Terry K.
+TI Exploring the 'New Rural Paradigm' in Europe: Eco-economic strategies as
+   a counterforce to the global competitiveness agenda
+SO EUROPEAN URBAN AND REGIONAL STUDIES
+LA English
+DT Article
+DE Branding; eco-economy; new rural paradigm; regional development;
+   regional strategies; rural development; sustainability
+ID ECOLOGICAL MODERNIZATION; AGROFOOD GEOGRAPHIES; FOOD; REGIONS; UK
+AB Rural regions in Europe are facing diverging pathways of development. On the one hand, the influence of urbanisation and the intensification and continued up-scaling of agriculture make it more difficult for many regions to remain distinctive and increase sustainability. Places, as well as goods and services, have become increasingly interchangeable. For many regions an obvious choice is to compete with other regions for global mobile capital and labour. On the other hand, and as a counterforce to these global logics, new strategies, which are more place-based, are being developed, such as the construction of identities or images around new agricultural goods and services. These strategies can be seen in the context of the New Rural Paradigm' for European rural regions. In the search for new trajectories for sustainable development, different models can be identified: the bio-economy paradigm and the eco-economy. Each model has its own sustainability claim and can be analysed in the context of the overarching development theory of ecological modernisation. The central question in this article is what types of strategies and pathways for eco-economic development can be witnessed in rural regions in Europe? The empirical analysis is based on 62 European cases. Three key eco-economic strategies that show a shift from an agricultural-based development to a more integrative rural and regionally based development are identified. The article concludes with some consistent parameters for understanding the dynamic complexity of rural regional development.
+C1 [Horlings, Lummina G.] Wageningen Univ, NL-6706 KN Wageningen, Netherlands.
+   [Marsden, Terry K.] Cardiff Univ, Cardiff CF10 3AX, S Glam, Wales.
+RP Horlings, LG (reprint author), Wageningen Univ, Rural Sociol Grp, Hollandseweg 1, NL-6706 KN Wageningen, Netherlands.
+EM lummina.horlings@wur.nl
+FU Economic and Social Research Council [not_applicable]
+CR Andersen M. S., 2000, J ENVIRON POL PLAN, V2, P337, DOI DOI 10.1080/714852820
+   Anex R., 2004, J IND ECOL, V7, P1
+   Arnason Arnar, 2009, COMP RURAL DEV CONTI
+   Balakrishnan MS, 2009, EUR J MARKETING, V43, P611, DOI 10.1108/03090560910946954
+   Bristow G, 2009, FUTURE REGIONAL POLI, P26
+   Bristow G, 2010, CAMB J REG ECON SOC, V3, P153, DOI 10.1093/cjres/rsp030
+   Buck Nick, 2005, CHANGING CITIES RETH
+   Buttel FH, 2000, GEOFORUM, V31, P57, DOI 10.1016/S0016-7185(99)00044-5
+   Christoff P., 1996, ENVIRON POLIT, V5, P476, DOI DOI 10.1080/09644019608414283
+   EC, 2010, INV EUR FUT 5 REP EC
+   EU, 2007, MOW COMP SUST EUR DI
+   European Commission (EC), 2010, CHALL OPP COMM STRAT
+   Florida R., 2002, RISE CREATIVE CLASS
+   Frouws J, 1998, SOCIOL RURALIS, V38, P54, DOI 10.1111/1467-9523.00063
+   Gibbs D, 2000, GEOFORUM, V31, P9, DOI 10.1016/S0016-7185(99)00040-8
+   Hajer M. A., 1995, POLITICS ENV DISCOUR
+   Horlings Ina, 2011, Sociologias, V13, P142, DOI 10.1590/S1517-45222011000200007
+   Horlings I., 2010, NETWORKING RURAL FUT, P213
+   Horlings I, 2011, GLOBAL ENVIRON CHANG, V21, P441
+   Huber J., 1982, VERLORENE UNSCHULD O
+   Huber J., 1985, REGENBOGENGESELLSCHA
+   Ilbery B, 2007, TIJDSCHR ECON SOC GE, V98, P507, DOI 10.1111/j.1467-9663.2007.00418.x
+   Janicke M, 1984, UMWELTPOLITISCHE PRA, P84
+   Jauhiainen JS, 2011, ENVIRON PLANN C, V29, P728, DOI 10.1068/c10162r
+   Juma C., 2001, NEW BIOECONOMY IND E
+   Kitchen L, 2009, SOCIOL RURALIS, V49, P273, DOI 10.1111/j.1467-9523.2009.00489.x
+   Kneafsey M, 2000, EUR URBAN REG STUD, V7, P35, DOI 10.1177/096977640000700103
+   MARKUSEN A, 1994, PROF GEOGR, V46, P477, DOI 10.1111/j.0033-0124.1994.00477.x
+   Marsden T, 2007, SELECT CASE STUDIES
+   Marsden T, 2007, ETUDE METHODOLOGICAL
+   Marsden T, 2008, J RURAL STUD, V24, P422, DOI 10.1016/j.jrurstud.2008.04.001
+   Marsden T, 2010, CAMB J REG ECON SOC, V3, P225, DOI 10.1093/cjres/rsq010
+   Mol APJ, 2000, GEOFORUM, V31, P45, DOI 10.1016/S0016-7185(99)00043-3
+   Mol APJ, 2007, SOCIOL RURALIS, V47, P297, DOI 10.1111/j.1467-9523.2007.00446.x
+   Mol Arthur P. J., 2000, ECOLOGICAL MODERNISA
+   Murphy J, 2000, GEOFORUM, V31, P1, DOI 10.1016/S0016-7185(99)00039-1
+   OECD, 2005, BIOEC 2030 DES POL A
+   OECD, 2006, NEW RUR PAR POL GOV
+   Pederson S.B., 2011, J URBAN TECHNOL, V11, P77
+   Simeon R, 2006, MARK INTELL PLAN, V24, P463, DOI 10.1108/02634500610682863
+   van Broekhuizen R, 2008, UNFOLDING WEBS DYNAM, P1
+   Van Der Ploeg J-D, 2008, UNFOLDING WEBS DYNAM
+   Winter M, 2004, PROG HUM GEOG, V28, P664, DOI 10.1191/0309132504ph512pr
+   Winter M, 2003, PROG HUM GEOG, V27, P505, DOI 10.1191/0309132503ph446pr
+   Wiskerke JSC, 2009, INT PLAN STUD, V14, P369, DOI 10.1080/13563471003642803
+   Woolcock N, 2000, WORLD BANK RES OBSER, V15, P225
+NR 46
+TC 38
+Z9 38
+U1 13
+U2 69
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0969-7764
+EI 1461-7145
+J9 EUR URBAN REG STUD
+JI Eur. Urban Reg. Stud.
+PD JAN
+PY 2014
+VL 21
+IS 1
+BP 4
+EP 20
+DI 10.1177/0969776412441934
+PG 17
+WC Environmental Studies; Regional & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Public Administration; Urban Studies
+GA 284NL
+UT WOS:000329325900002
+DA 2019-03-26
+ER
+
+PT S
+AU Ross, JA
+   Richie, DA
+   Park, SJ
+   Shires, DR
+   Henz, BJ
+AF Ross, James A.
+   Richie, David A.
+   Park, Song J.
+   Shires, Dale R.
+   Henz, Brian J.
+BE Aldinucci, M
+   DAgostino, D
+   Kilpatrick, P
+TI A Class-Structured Approach to Couple Application and Hybrid Core
+   Parallelism
+SO 2014 22ND EUROMICRO INTERNATIONAL CONFERENCE ON PARALLEL, DISTRIBUTED,
+   AND NETWORK-BASED PROCESSING (PDP 2014)
+SE Euromicro Conference on Parallel Distributed and Network-Based
+   Processing
+LA English
+DT Proceedings Paper
+CT 22nd Euromicro International Conference on Parallel, Distributed, and
+   Network-Based Processing (PDP)
+CY FEB 12-14, 2014
+CL Turin, ITALY
+SP NVidia Corp, IBM Corp, E4 Comp Engn, Sistemi HS, Univ Turin, Comp Sci Dept, European Assoc Theoret Comp Sci, Italian Chapter, Regione Piemonte, Turismo Torino & Provincia
+DE OpenCL framework; GPGPU; XML; C plus
+AB This paper presents an application that performs multi-objective geospatial optimizations for tactical mission planning in an urban environment. Utilizing a XML-driven C++ framework developed for hybrid platforms, the application distributes computational tasks to a collection of heterogeneous OpenCL devices and achieves efficient task parallel scaling. The framework abstracts the details of the mission scenario setup, compute device architecture details, and task scheduling to enable robust extensibility in software. Performance scalability and multi-objective parameter visualization for a prototypical mission scenario are documented in this study.
+C1 [Ross, James A.] Dynam Res Corp, Andover, MA 01810 USA.
+   [Richie, David A.] Brown Deer Technol, Forest Hill, MD 21050 USA.
+   [Park, Song J.; Shires, Dale R.; Henz, Brian J.] US Army, Res Lab, Aberdeen Proving Ground, MD 21005 USA.
+RP Ross, JA (reprint author), Dynam Res Corp, Andover, MA 01810 USA.
+EM jaross@drc.com; drichie@browndeertechnology.com;
+   song.j.park.civ@mail.mil; dale.r.shires.civ@mail.mil;
+   brian.j.henz@mail.mil
+CR [Anonymous], OPENCL OPEN STANDARD
+   [Anonymous], 2011, STDCL SIMPL C INT OP
+   Auer Michael, 2012, International Journal of 3-D Information Modeling, V1, P49, DOI 10.4018/ij3dim.2012070105
+   Blythe D, 2008, P IEEE, V96, P761, DOI 10.1109/JPROC.2008.917718
+   Farber R., 2008, LINUX J, V2008
+   Freeman M., 2011, ASS US ARM ANN M S
+   Garland M, 2010, COMMUN ACM, V53, P58, DOI 10.1145/1839676.1839694
+   Hwu W. W., 2011, GPU COMPUTING GEMS E
+   Lukac N, 2013, COMPUT GEOSCI-UK, V52, P34, DOI 10.1016/j.cageo.2012.10.010
+   mei Hwu W., 2008, DESIGN TEST COMPUTER, V25, P312
+   METROPOLIS N, 1953, J CHEM PHYS, V21, P1087, DOI 10.1063/1.1699114
+   Moller T., 2005, J GRAPHICS TOOLS, V2, P21
+   Munshi T. G. M. J. F. D. G. Aaftab, 2011, OPENCL PROGRAMMING G
+   Nickolls J, 2010, IEEE MICRO, V30, P56, DOI 10.1109/MM.2010.41
+   Owens JD, 2008, P IEEE, V96, P879, DOI 10.1109/JPROC.2008.917757
+   Rosenberg O., 2011, OPENCL OVERVIEW
+   Stojanovic Natalija, 2013, International Journal of Reasoning-based Intelligent Systems, V5, P42
+   Stone JE, 2010, COMPUT SCI ENG, V12, P66, DOI 10.1109/MCSE.2010.69
+   Tabik S, 2012, PROCEDIA COMPUT SCI, V9, P364, DOI 10.1016/j.procs.2012.04.039
+   Wu EH, 2008, 2008 IEEE ASIA PACIFIC CONFERENCE ON CIRCUITS AND SYSTEMS (APCCAS 2008), VOLS 1-4, P618, DOI 10.1109/APCCAS.2008.4746099
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1066-6192
+BN 978-1-4799-2728-9
+J9 EUROMICRO WORKSHOP P
+PY 2014
+BP 690
+EP 696
+DI 10.1109/PDP.2014.41
+PG 7
+WC Computer Science, Hardware & Architecture
+SC Computer Science
+GA BC6II
+UT WOS:000353964700101
+DA 2019-03-26
+ER
+
+PT J
+AU Murakami, K
+   Aida, J
+   Ohkubo, T
+   Hashimoto, H
+AF Murakami, Keiko
+   Aida, Jun
+   Ohkubo, Takayoshi
+   Hashimoto, Hideki
+TI Income-related inequalities in preventive and curative dental care use
+   among working-age Japanese adults in urban areas: a cross-sectional
+   study
+SO BMC ORAL HEALTH
+LA English
+DT Article
+DE Dental care; Dental insurance; Income; Inequality; Japan
+ID ORAL-HEALTH; SERVICES; POPULATION; COVERAGE; EQUITY; WOMEN; NEED
+AB Background: Preventive dental care use remains relatively low in Japan, especially among working-age adults. Universal health insurance in Japan covers curative dental care with an out-of-pocket payment limit, though its coverage of preventive dental care is limited. The aim of this study was to test the hypothesis that income inequality in dental care use is found in preventive, but not curative dental care among working-age Japanese adults.
+   Methods: A cross-sectional survey was conducted using a computer-assisted, self-administered format for community residents aged 25-50 years. In all, 4357 residents agreed to participate and complete the questionnaire (valid response rate: 31.3%). Preventive dental care use was measured according to whether the participant had visited a dentist or a dental hygienist during the past year for dental scaling or fluoride or orthodontic treatments. Curative dental care use was assessed by dental visits for other reasons. The main explanatory variable was equivalent household income. Logistic regression analyses with linear trend tests were conducted to determine whether there were significant income-related gradients with curative or preventive dental care use.
+   Results: Among the respondents, 40.0% of men and 41.5% of women had used curative dental care in the past year; 24.1% of men and 34.1% of women had used preventive care. We found no significant income-related gradients of curative dental care among either men or women (p = 0.234 and p = 0.270, respectively). Significant income-related gradients of preventive care were observed among both men and women (p < 0.001 and p = 0.003, respectively). Among women, however, income-related differences were no longer significant (p = 0.126) after adjusting for education and other covariates. Compared with men with the lowest income, the highest-income group had a 1.79-fold significantly higher probability for using preventive dental care.
+   Conclusions: The prevalence of preventive dental care use was lower than that of curative care. The results showed income-related inequality in preventive dental care use among men, though there were no significant income-related gradients of curative dental care use among either men or women. Educational attainment had a positive association with preventive dental care use only among women.
+C1 [Murakami, Keiko; Ohkubo, Takayoshi] Teikyo Univ, Sch Med, Dept Hyg & Publ Hlth, Itabashi Ku, Tokyo 1738605, Japan.
+   [Murakami, Keiko; Hashimoto, Hideki] Univ Tokyo, Sch Publ Hlth, Dept Hlth & Social Behav, Bunkyo Ku, Tokyo 1130033, Japan.
+   [Aida, Jun] Tohoku Univ, Grad Sch Dent, Dept Int & Community Oral Hlth, Aoba Ku, Sendai, Miyagi 9808575, Japan.
+RP Murakami, K (reprint author), Teikyo Univ, Sch Med, Dept Hyg & Publ Hlth, Itabashi Ku, 2-11-1 Kaga, Tokyo 1738605, Japan.
+EM mkeiko-tky@umin.ac.jp
+OI Aida, Jun/0000-0002-8405-9872
+FU Ministry of Education, Culture, Sports, Science and Technology, Japan
+   [21119002]
+FX This research was supported by a Grant-in-Aid for Scientific Research on
+   Innovative Areas (No. 21119002) from the Ministry of Education, Culture,
+   Sports, Science and Technology, Japan. The authors would like to thank
+   Dr. Yasuki Kobayashi for his helpful comments on the early draft.
+CR [Anonymous], 2013, ZENK JITS NI YOR SHA
+   Galobardes B, 2006, J EPIDEMIOL COMMUN H, V60, P7, DOI 10.1136/jech.2004.023531
+   Green CA, 1999, SOC SCI MED, V48, P1363, DOI 10.1016/S0277-9536(98)00440-7
+   Grignon M, 2010, HEALTH POLICY, V98, P81, DOI 10.1016/j.healthpol.2010.05.018
+   Grytten J, 2012, COMMUNITY DENT ORAL, V40, P297, DOI 10.1111/j.1600-0528.2011.00659.x
+   Hagenaars A.J.M., 1994, POVERTY STAT LATE 19
+   Hanibuchi T, 2011, COMMUNITY DENT HLTH, V28, P128, DOI 10.1922/CDH_2538Hanibuchi08
+   Haugejorden O, 2008, COMMUNITY DENT ORAL, V36, P269, DOI 10.1111/j.1600-0528.2007.00367.x
+   Hjern A, 2001, COMMUNITY DENT ORAL, V29, P167, DOI 10.1034/j.1600-0528.2001.290302.x
+   Honjo K, 2012, J EPIDEMIOL, V22, P324, DOI 10.2188/jea.JE20110147
+   Ikegami N, 2011, LANCET, V378, P1106, DOI 10.1016/S0140-6736(11)60828-3
+   Jones JA, 2004, QUAL LIFE RES, V13, P975, DOI 10.1023/B:QURE.0000025596.05281.d6
+   Jones JA, 2002, J AM GERIATR SOC, V50, P163, DOI 10.1046/j.1532-5415.2002.50023.x
+   Kiyak H Asuman, 2005, J Dent Educ, V69, P975
+   Krieger N, 1999, J EPIDEMIOL COMMUN H, V53, P612, DOI 10.1136/jech.53.10.612
+   Laaksonen M, 2008, J CLIN EPIDEMIOL, V61, P900, DOI 10.1016/j.jclinepi.2007.09.010
+   [Labour and Welfare Ministry of Health], 2012, COMPR SURV LIV COND
+   Lafortune G, 2004, HIGH PERFORMING HLTH, P109
+   Listl S, 2011, J DENT RES, V90, P717, DOI 10.1177/0022034511399907
+   Lorenc T, 2013, J EPIDEMIOL COMMUN H, V67, P190, DOI 10.1136/jech-2012-201257
+   Lowe C, 2007, COMMUNITY DENT ORAL, V35, P12, DOI 10.1111/j.1600-0528.2007.00360.x
+   Lu JFR, 2007, SOC SCI MED, V64, P199, DOI 10.1016/j.socscimed.2006.08.033
+   Maharani DA, 2012, INT DENT J, V62, P90, DOI 10.1111/j.1875-595X.2011.00095.x
+   Ministry of Health Labour and Welfare, 2012, NAT HLTH NUTR SURV J
+   Moeller JF, 2010, AM J PUBLIC HEALTH, V100, P2262, DOI 10.2105/AJPH.2009.184747
+   Moriya S., 2011, Journal of the National Institute of Public Health, V60, P379
+   Murata C, 2010, INT J ENV RES PUB HE, V7, P1330, DOI 10.3390/ijerph7041330
+   Nguyen Lien, 2004, Appl Health Econ Health Policy, V3, P251, DOI 10.2165/00148365-200403040-00008
+   Sakurai K, 2010, SOC SCI MED, V70, P1832, DOI 10.1016/j.socscimed.2010.01.019
+   Sato M, 2002, J HLTH CARE SOC, V12, P117
+   Sintonen H, 2000, HANDB ECON, V17, P1251
+   Somkotra T, 2009, COMMUNITY DENT ORAL, V37, P85, DOI 10.1111/j.1600-0528.2008.00449.x
+   Takada M, 2014, J EPIDEMIOL, V24, P334, DOI 10.2188/jea.JE20130084
+   Tolonen H, 2005, EUR J EPIDEMIOL, V20, P887, DOI 10.1007/s10654-005-2672-5
+   Toyokawa S, 2010, SOC SCI MED, V71, P2014, DOI 10.1016/j.socscimed.2010.09.005
+   Wamala S, 2006, J EPIDEMIOL COMMUN H, V60, P1027, DOI 10.1136/jech.2006.046896
+NR 36
+TC 11
+Z9 11
+U1 2
+U2 10
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6831
+J9 BMC ORAL HEALTH
+JI BMC Oral Health
+PD SEP 19
+PY 2014
+VL 14
+AR 117
+DI 10.1186/1472-6831-14-117
+PG 8
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA AP5CW
+UT WOS:000342098300001
+PM 25234486
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Uddin, SMN
+   Li, ZF
+   Mang, HP
+   Huba, EM
+   Lapegue, J
+AF Uddin, Sayed Mohammad Nazim
+   Li, Zifu
+   Mang, Heinz-Peter
+   Huba, Elisabeth-Maria
+   Lapegue, Jean
+TI A strengths, weaknesses, opportunities, and threats analysis on
+   integrating safe water supply and sustainable sanitation systems
+SO JOURNAL OF WATER SANITATION AND HYGIENE FOR DEVELOPMENT
+LA English
+DT Article
+DE integration; safe water supply; sustainable sanitation system; SWOT;
+   urban development; WASH
+ID SWOT ANALYSIS; TECHNOLOGIES; CHALLENGES; IMPLEMENTATION; ULAANBAATAR;
+   MONGOLIA; URINE; WASTE
+AB This paper applies a 'comprehensive' strengths, weaknesses, opportunities, and threats (SWOT) analysis to compare the 'before and after' scenarios of integrating a safe water supply (SWS) into a sustainable sanitation system (SSS) in the peri-urban Ger areas of Ulaanbaatar. Qualitative field investigations, including interviews and focus group discussions, are conducted with stakeholders and key informants to collect data on the scenarios before the SSS and to develop a conceptual framework after the SSS implementation. The before-implementation scenario has one strength, that is, the interest of communities and NGOs toward the SWS-SSS integration, which facilitates the acceptance and up-scaling of sustainable technologies. The after-implementation scenario shows additional strengths, such as community acceptance and satisfaction with SSS. The identified weaknesses are attributed to the lack of community-based organizations, community participation, and inter-sector coordination. The marketing of SSS, the involvement of banks and micro-credit systems, and the reuse of treated greywater have been identified as opportunities. The before-implementation scenario identifies the use of pit latrines and the lack of political will as the primary threats, whereas the after-implementation scenario identifies technology innovations for the extreme cold as a primary threat. The application of the SWS-SSS integration in other cases must be investigated further.
+C1 [Uddin, Sayed Mohammad Nazim] Act Contre La Faim ACF Mongolia, Ulaanbaatar, Mongol Peo Rep.
+   [Uddin, Sayed Mohammad Nazim; Li, Zifu; Mang, Heinz-Peter] Univ Sci & Technol Beijing, Ctr Sustainable Environm Sanitat, Beijing 100083, Peoples R China.
+   [Huba, Elisabeth-Maria] Technol Econ Dev, Maseru 100, Lesotho.
+   [Lapegue, Jean] Act Contre La Faim, F-75662 Paris, France.
+RP Uddin, SMN (reprint author), Act Contre La Faim ACF Mongolia, Diplomat Cpds 95-11,4th Khoroo, Ulaanbaatar, Mongol Peo Rep.
+EM nazimiwfmbuet@gmail.com
+FU ACF International; ACF Mongolia
+FX Support from ACF International and ACF Mongolia for this study are
+   acknowledged.
+CR Allen A, 2006, GOVERNANCE WATER SAN
+   Altansukh O., 2008, THESIS INT I GEOINFO
+   [Anonymous], 2014, HLTH SAF DRINK WAT B
+   [Anonymous], 2012, GLOB COSTS BEN DRINK
+   Asian Development Bank, 2010, MONG ULAANB WAT SAN
+   Batjargal T, 2010, J HAZARD MATER, V184, P872, DOI 10.1016/j.jhazmat.2010.08.106
+   Bhagwan JN, 2008, WATER SCI TECHNOL, V58, P21, DOI 10.2166/wst.2008.606
+   Esrey S.A., 2001, PUBLICATIONS WATER R, V18
+   ESREY SA, 1991, B WORLD HEALTH ORGAN, V69, P609
+   Fry LM, 2008, ENVIRON SCI TECHNOL, V42, P4298, DOI 10.1021/es7025856
+   Girard C., 2009, THESIS CRANFIELD U U
+   GTZ, 2008, ECOSAN EC SAN MONG R
+   Guzha E, 2005, PHYS CHEM EARTH, V30, P840, DOI 10.1016/j.pce.2005.08.028
+   Hill T, 1997, LONG RANGE PLANN, V30, P46, DOI 10.1016/S0024-6301(96)00095-7
+   HUNTER PR, 1997, WATERBORNE DIS EPIDE
+   Itoh M, 2011, SCI TOTAL ENVIRON, V409, P1530, DOI 10.1016/j.scitotenv.2011.01.019
+   Jenssen PD, 2005, J ENVIRON SCI HEAL A, V40, P1343, DOI 10.1081/ESE-200055846
+   Kathy E., 2011, GLOBAL ISSUES WATER, V2, P73
+   KOUDSTAAL R, 1992, NAT RESOUR FORUM, V16, P277, DOI 10.1111/j.1477-8947.1992.tb00859.x
+   Langergraber G, 2005, ENVIRON INT, V31, P433, DOI 10.1016/j.envint.2004.08.006
+   Markovska N, 2009, ENERGY, V34, P752, DOI 10.1016/j.energy.2009.02.006
+   McGarry M. G., 1978, COMPOST BIOGAS PRODU
+   MCGARRY MG, 1980, PROC R SOC SER B-BIO, V209, P37, DOI 10.1098/rspb.1980.0070
+   Meinzinger F, 2009, WATER SCI TECHNOL, V59, P1911, DOI 10.2166/wst.2009.189
+   Nelson KL, 2008, ANNU REV ENV RESOUR, V33, P119, DOI 10.1146/annurev.environ.33.022007.145142
+   Nikolaou IE, 2010, RESOUR POLICY, V35, P226, DOI 10.1016/j.resourpol.2010.02.002
+   Nriagu J, 2012, SCI TOTAL ENVIRON, V414, P722, DOI 10.1016/j.scitotenv.2011.11.037
+   Paterson C, 2007, GEOFORUM, V38, P901, DOI 10.1016/j.geoforum.2006.08.006
+   Roma E, 2010, WATER SCI TECHNOL, V62, P1028, DOI 10.2166/wst.2010.344
+   Schertenleib R, 2005, WATER SCI TECHNOL, V51, P7
+   Sigel S., 2012, ENVIRON EARTH SCI, V65, P1561
+   SOLO TV, 1993, 85 WASH US AG INT DE
+   Srivastava PK, 2005, WASTE MANAGE, V25, P531, DOI 10.1016/j.wasman.2004.08.010
+   Stintzing A R, 2007, URINE DIVERTING TOIL
+   SuSan A, 2013, INTR SUST SAN
+   Terrados J, 2007, RENEW SUST ENERG REV, V11, P1275, DOI 10.1016/j.rser.2005.08.003
+   The United Nations Children's Fund; World Health Organization, 2009, DIARRH WHY CHILDR AR
+   Tornqvist R, 2008, WATER SCI TECHNOL, V58, P563, DOI 10.2166/wst.2008.702
+   Uddin SMN, 2012, J WATER SANIT HYG DE, V2, P182, DOI 10.2166/washdev.2012.078
+   Uddin S. M. N., 2013, BEIJ INT ENV TECHN S
+   Uddin S. M. N., 2013, 11 IWA C SMALL WAT W
+   UNICEF, 2011, MONG WASH SCH KIND
+   UNICEF and World Health Organisation, 2012, PROGR DRINK WAT SAN
+   Welch W. H., 1893, CHARITIES REV, V2, P203
+   Whittington D, 2009, FDN TRENDS MICROECON, V4, P469, DOI DOI 10.1561/0700000030
+   World Bank, 2010, MAN URB PRACT MONG B
+   World Health Organization, 2011, WORLD HLTH STAT
+   Zurbrugg C, 2009, DESALINATION, V248, P410, DOI 10.1016/j.desal.2008.05.082
+NR 48
+TC 4
+Z9 4
+U1 3
+U2 15
+PU IWA PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 2043-9083
+J9 J WATER SANIT HYG DE
+JI J. Wate Sanit. Hyg. Dev.
+PY 2014
+VL 4
+IS 3
+BP 437
+EP 448
+DI 10.2166/washdev.2013.240
+PG 12
+WC Water Resources
+SC Water Resources
+GA AO7WR
+UT WOS:000341563800010
+DA 2019-03-26
+ER

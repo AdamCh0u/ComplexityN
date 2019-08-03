@@ -1,0 +1,482 @@
+
+PT J
+AU Engel, D
+   Petsch, S
+   Hagen, H
+   Guhathakurta, S
+AF Engel, Daniel
+   Petsch, Sebastian
+   Hagen, Hans
+   Guhathakurta, Subhrajit
+TI Neighborhood relation diagrams for local comparison of carbon footprints
+   in urban planning
+SO INFORMATION VISUALIZATION
+LA English
+DT Article
+DE Visualization in earth; space; and environmental sciences;
+   geovisualization; geometry-based techniques; Voronoi diagrams;
+   carbon-footprint visualization
+ID CARTOGRAMS; GEOVISUALIZATION
+AB The dreaded effects of climate change have led to a new research focus in many applications. In urban planning, the visualization of carbon footprints has become one of the most sought after aspects. Urban planning data of carbon footprints contains spatial (location) and abstract (statistical indicators) information. Although many techniques for the visualization of such partially spatial data have been successfully applied in the area of geovisualization, the core focus has been on a global depiction of non-spatial information. However, conducting local comparisons, as in the case of comparing neighborhood districts and households, is of particular importance in investigative tasks. Additionally, representing different carbon footprint indicators (multiple non-spatial parameters) and unstructured parameter values (resulting in scaling issues) in a static representation provides an interesting challenge for visualization. This paper describes a novel and generic solution to the above-mentioned issues: a neighborhood relation diagram for the local comparison of non-spatial information in partial spatial data. The technique is based on the geometric computation of Voronoi diagrams according to a weighted neighborhood metric. The shape of spatial regions (e.g. city districts) within this diagram is characterized by a directed and constrained deformation according to the non-spatial (i.e. carbon footprint) relations to neighboring regions. The effectiveness of our method is highlighted in a preliminary study of carbon footprint patterns in downtown Phoenix (Arizona, USA). In this study, neighborhood relation diagrams enable city planners to detect local effects on carbon emissions and their relation to planning projects.
+C1 [Engel, Daniel; Petsch, Sebastian; Hagen, Hans] TU Kaiserslautern, D-67653 Kaiserslautern, Rheinland Pfalz, Germany.
+   [Guhathakurta, Subhrajit] Arizona State Univ, Tempe, AZ USA.
+RP Engel, D (reprint author), TU Kaiserslautern, Gottlieb Daimler Str,Postfach 3049, D-67653 Kaiserslautern, Rheinland Pfalz, Germany.
+EM d_engel@cs.uni-kl.de
+FU German Research Foundation (Deutsche Forschungsgemeinschaft, DFG),
+   International Graduate School (International Research Training Group,
+   IRTG) in Kaiserslautern, Germany [1131]; Arizona State University,
+   United States of America
+FX This work was supported by the German Research Foundation (Deutsche
+   Forschungsgemeinschaft, DFG, grant number 1131) as part of the
+   International Graduate School (International Research Training Group,
+   IRTG) in Kaiserslautern, Germany, and by the Arizona State University,
+   United States of America.
+CR Andrysco N, 2008, IEEE CONF VIS ANAL, P173, DOI 10.1109/VAST.2008.4677372
+   [Anonymous], 2008, COOL CLIM CALC
+   AURENHAMMER F, 1991, COMPUT SURV, V23, P345
+   de Smith MJ, 2004, ENVIRON PLANN B, V31, P85, DOI 10.1068/b29123
+   Hertwich EG, 2009, ENVIRON SCI TECHNOL, V43, P6414, DOI 10.1021/es803496a
+   House DH, 1998, VISUALIZATION '98, PROCEEDINGS, P197, DOI 10.1109/VISUAL.1998.745303
+   Huang L, 2009, INT C MAN SERV SCI M
+   Keim DA, 2004, IEEE T VIS COMPUT GR, V10, P95, DOI 10.1109/TVCG.2004.1260761
+   Keim DA, 2005, EXPLORING GEOVISUALI, P23
+   KERREN A, 2007, LECT NOTES COMPUTER, V4417
+   Kraak MJ, 2003, ISPRS J PHOTOGRAMM, V57, P390, DOI 10.1016/S0924-2716(02)00167-3
+   MacEachren AM, 2004, IEEE COMPUT GRAPH, V24, P13, DOI 10.1109/MCG.2004.1255801
+   Nariya T, 2009, ACM T GRAPH SIGGRAPH, DOI 10.1145/1599301.1599396
+   Okabe A., 2000, SPATIAL TESSELLATION
+   Petsch S, 2009, 8 INT C URB PLANN EN
+   Reitsma R, 2004, 8 INT C INF VIS LOND
+   Scheler I, 2009, C P CORP 09 CAT SPAI
+   Shanbhag P., 2005, P INT FIELD C TEPHR, P28
+   Tobler W, 2004, ANN ASSOC AM GEOGR, V94, P58, DOI 10.1111/j.1467-8306.2004.09401004.x
+   van Kreveld M, 2007, COMP GEOM-THEOR APPL, V37, P175, DOI 10.1016/j.comgeo.2006.06.002
+   Vanegas CA, 2009, IEEE T VIS COMPUT GR, V15, P424, DOI 10.1109/TVCG.2008.193
+   Waddell P, 2002, J AM PLANN ASSOC, V68, P297, DOI 10.1080/01944360208976274
+   Ware C., 2004, INFORM VISUALIZATION
+   Weber CL, 2008, ECOL ECON, V66, P379, DOI 10.1016/j.ecolecon.2007.09.021
+NR 24
+TC 4
+Z9 5
+U1 1
+U2 18
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1473-8716
+EI 1473-8724
+J9 INFORM VISUAL
+JI Inf. Vis.
+PD APR
+PY 2012
+VL 11
+IS 2
+BP 124
+EP 135
+DI 10.1177/1473871611433714
+PG 12
+WC Computer Science, Software Engineering
+SC Computer Science
+GA 936XF
+UT WOS:000303622600003
+DA 2019-03-26
+ER
+
+PT J
+AU Vieux, BE
+   Imgarten, JM
+AF Vieux, B. E.
+   Imgarten, J. M.
+TI On the scale-dependent propagation of hydrologic uncertainty using
+   high-resolution X-band radar rainfall estimates
+SO ATMOSPHERIC RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 8th International Workshop on Precipitation in Urban Areas
+CY DEC 10-13, 2009
+CL St. Moritz, SWITZERLAND
+DE Rainfall; Runoff; S-band; X-band; Radar; Urban and rural flood
+   forecasting; Watershed response; Physics-based; Distributed hydrologic
+   modeling; Vflo
+ID AMPT INFILTRATION PARAMETERS; POLARIMETRIC RADAR; SPATIAL-RESOLUTION;
+   ACCURACY; UTILITY; GREEN
+AB Radar precipitation estimates can improve hydrologic prediction over a range of spatial scales represented by both rural and urban basins. Flooding results from the combination of heavy precipitation and the distributed hydraulic and hydrologic characteristics of the basin. Accuracy and spatial scaling of radar estimated rainfall, and its impact at relevant hydrologic scales is an important determinant of hydrologic prediction accuracy and flood forecasting. Results of simulations using archival radar events are used to demonstrate the sources of uncertainty affecting site-specific flood forecasts within the distributed hydrologic model, Vflo. Radar data used in this analysis are derived from both S-band (NEXRAD/88D) and the Collaborative Adaptive Sensing of the Atmosphere (CASA), polarimetric X-band radars. X-band radars have the capability to provide higher spatial and temporal resolution than the conventional radars operating at S-band. However, compared to S-band, X-band radars have shorter wavelengths and suffer from attenuation, or even total extinction of the radar signal at short ranges from the radar. Degradation of precipitation mapping is a serious concern, especially in heavy precipitation over distances associated with watersheds prone to flooding. Compared to rain gauge accumulations, X-band radar polarimetric rainfall estimates were significantly degraded beyond about 15 km from the radars. With rainfall input derived from X-band radars, uncertainty in runoff volume scales with watershed area as a smooth monotonically decreasing function as area increases due to averaging of random errors in the input. Relative to estimates derived from S-band radar, unreliable hydrograph response was produced using X-band polarimetric rainfall estimates as input to a physics-based distributed hydrologic model, especially for watershed areas less than about 20 km(2). (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Vieux, B. E.; Imgarten, J. M.] Univ Oklahoma, Sch Civil Engn & Environm Sci, Norman, OK 73019 USA.
+RP Vieux, BE (reprint author), Univ Oklahoma, Sch Civil Engn & Environm Sci, 202 W Boyd St,CEC 334, Norman, OK 73019 USA.
+EM bvieux@ou.edu
+CR Anagnostou EN, 2004, J HYDROMETEOROL, V5, P110, DOI 10.1175/1525-7541(2004)005<0110:HREFXP>2.0.CO;2
+   Berne A, 2004, J HYDROL, V299, P166, DOI 10.1016/j.jhydrol.2004.08.002
+   Brotzge J., 2005, MET RAD C ALB NM
+   Collier CG, 1999, PHYS CHEM EARTH PT B, V24, P889, DOI 10.1016/S1464-1909(99)00099-4
+   Doviak R. J., 1993, DOPPLER RADAR WEATHE
+   Gourley JJ, 2005, J HYDROMETEOROL, V6, P115, DOI 10.1175/JHM408.1
+   Gourley JJ, 2006, J HYDROL, V327, P68, DOI 10.1016/j.jhydrol.2005.11.036
+   Kramer S, 2009, WATER SCI TECHNOL, V60, P175, DOI 10.2166/wst.2009.282
+   Matrosov S.Y., 2005, 32 C RAD MET
+   Matrosov SY, 2006, J ATMOS OCEAN TECH, V23, P952, DOI 10.1175/JTECH1887.1
+   Matrosov SY, 2005, J HYDROMETEOROL, V6, P248, DOI 10.1175/JHM424.1
+   Matrosov SY, 2002, J APPL METEOROL, V41, P941, DOI 10.1175/1520-0450(2002)041<0941:XBPRMO>2.0.CO;2
+   McLaughlin David, 2005, P 9 S INT OBS ASS SY
+   RAWLS WJ, 1983, J HYDRAUL ENG-ASCE, V109, P62, DOI 10.1061/(ASCE)0733-9429(1983)109:1(62)
+   RAWLS WJ, 1983, T ASAE, V26, P1747
+   Ryzhkov AV, 2005, J APPL METEOROL, V44, P502, DOI 10.1175/JAM2213.1
+   Vieux B. E., 2004, WATER SCI TECHNOLOGY, V48
+   Vieux BE, 2009, J HYDROL ENG, V14, P671, DOI 10.1061/(ASCE)HE.1943-5584.0000039
+   Vieux BE, 2004, J HYDROL, V299, P217, DOI 10.1016/j.jhydrol.2004.08.005
+   Wang YT, 2010, J ATMOS OCEAN TECH, V27, P1665, DOI 10.1175/2010JTECHA1419.1
+NR 20
+TC 11
+Z9 11
+U1 1
+U2 11
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0169-8095
+J9 ATMOS RES
+JI Atmos. Res.
+PD JAN
+PY 2012
+VL 103
+SI SI
+BP 96
+EP 105
+DI 10.1016/j.atmosres.2011.06.009
+PG 10
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 871ZQ
+UT WOS:000298776600010
+DA 2019-03-26
+ER
+
+PT J
+AU Taylor, JR
+   Lovell, ST
+AF Taylor, John R.
+   Lovell, Sarah Taylor
+TI Mapping public and private spaces of urban agriculture in Chicago
+   through the analysis of high-resolution aerial images in Google Earth
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE GIS; Chicago; Urban agriculture; Mapping; Food system;
+   Photointerpretation
+ID HOME GARDENS; DIVERSITY; HOMEGARDENS; REGION; FARM; CITY; FOOD
+AB Although always a part of city life, urban agriculture has recently attracted increased attention from diverse groups in the United States, which promote it as a strategy for stimulating economic development, increasing food security and access, and combatting obesity and diabetes, among other goals. Developing effective policies and programs at the city or neighborhood level demands as a first step the accurate mapping of existing urban agriculture sites. Mapping efforts in major U.S. cities have been limited in their focus and methodology. Focusing on public sites of food production, such as community gardens, they have overlooked the actual and potential contribution of private spaces, including home food gardens, to local food systems. This paper describes a case study of urban agriculture in Chicago which used the manual analysis of high-resolution aerial images in Google Earth in conjunction with ArcGIS to identify and map public and private spaces of food production. The resulting spatial dataset demonstrates that urban agriculture is an extensive land use type with wide variations in the distribution of sites across the city. Only 13% of sites reported to be community gardening projects by nongovernment organizations and government agencies were determined, through image analysis, to be sites of food production. The production area of home gardens identified by the study is almost threefold that of community gardens. Study results suggest opportunities may exist for scaling up existing production networks including home food gardens and enhancing community food sovereignty by leveraging local knowledges of urban agriculture. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Taylor, John R.] Univ Illinois, Dept Crop Sci, Plant Sci Lab 1105, Urbana, IL 61801 USA.
+RP Taylor, JR (reprint author), Univ Illinois, Dept Crop Sci, Plant Sci Lab 1105, Urbana, IL 61801 USA.
+EM jrtaylo2@illinois.edu; stlovell@Illinois.Edu
+RI Lovell, Sarah/H-4478-2013
+OI Lovell, Sarah/0000-0001-8857-409X
+CR Addo KA, 2010, REMOTE SENS-BASEL, V2, P497, DOI 10.3390/rs2020497
+   Aguilar-Stoen M, 2009, HUM ECOL, V37, P55, DOI 10.1007/s10745-008-9197-y
+   AIRRIESS CA, 1994, GEOGR REV, V84, P16, DOI 10.2307/215778
+   Allen E., 2008, BUILDING CHICAGOS CO
+   ASLA, 2011, HLTH LIV COMM
+   Bassett T.J., 1981, LANDSCAPE, V25, P8
+   Bentley Amy, 1998, EATING VICTORY FOOD
+   Blaschke T, 2010, ISPRS J PHOTOGRAMM, V65, P2, DOI 10.1016/j.isprsjprs.2009.06.004
+   Buchmann C, 2009, HUM ECOL, V37, P705, DOI 10.1007/s10745-009-9283-9
+   Cabalda AB, 2011, J AM DIET ASSOC, V111, P711, DOI 10.1016/j.jada.2011.02.005
+   Calvet-Mir L, 2012, ECOL ECON, V74, P153, DOI 10.1016/j.ecolecon.2011.12.011
+   Calvet-Mir L, 2011, ECON BOT, V65, P146, DOI 10.1007/s12231-011-9156-1
+   Castilla G, 2008, PHOTOGRAMM ENG REM S, V74, P409, DOI 10.14358/PERS.74.4.409
+   City of Chicago, 2011, CIT OWN VAC LAND INV
+   Domene E, 2007, GEOFORUM, V38, P287, DOI 10.1016/j.geoforum.2006.03.004
+   Drescher A. W., 2006, TROPICAL HOMEGARDENS, P317, DOI DOI 10.1007/978-1-4020-4948-4_18
+   Drescher A. W., 2006, 1 THINGS 1 MAPPING U
+   Forster D, 2009, J APPL REMOTE SENS, V3, DOI 10.1117/1.3122364
+   Freire S., 2009, AGR FOOD AVAILABILIT
+   Galluzzi G, 2010, BIODIVERS CONSERV, V19, P3635, DOI 10.1007/s10531-010-9919-5
+   Gaynor A., 2006, HARVEST SUBURBS ENV
+   Gray L, 2011, ANN M ASS AM GEOGR S
+   Greater Chicago Food Depository, 2011, FOOD INS RAT COOK CO
+   GreenNet, 2011, COMM GARD MAP
+   Head L., 2004, GEOGRAPHICAL REV, V94
+   Healthy Places, 2012, FOOD PLAN
+   Hodgson K, 2011, URBAN AGR GROWING HL
+   Kampouraki M., 2008, OBJECT BASED IMAGE A, P555
+   Kortright R, 2011, AGR HUM VALUES, V28, P39, DOI 10.1007/s10460-009-9254-1
+   Kremer P, 2011, APPL GEOGR, V31, P1252, DOI 10.1016/j.apgeog.2011.01.007
+   Kumar BM, 2004, AGROFOREST SYST, V61-2, P135, DOI 10.1023/B:AGFO.0000028995.13227.ca
+   Lawson LJ, 2005, CITY BOUNTIFUL CENTU
+   Library of Congress, 2011, NEWS LIB C APR 18 20
+   Lillesand TM, 2008, REMOTE SENSING IMAGE
+   Martinez Steve, 2010, 97 ERR US DEP AGR EC
+   McClintock N., 2009, CULTIVATING COMMONS
+   McClintock N, 2010, CAMB J REG ECON SOC, V3, P191, DOI 10.1093/cjres/rsq005
+   Mendez VE, 2001, AGROFOREST SYST, V51, P85, DOI 10.1023/A:1010622430223
+   Moore S, 2006, URBAN GEOGR, V27, P174, DOI 10.2747/0272-3638.27.2.174
+   Morton LW, 2008, AGR HUM VALUES, V25, P107, DOI 10.1007/s10460-007-9095-8
+   Nair P. K. R., 2006, TROPICAL HOMEGARDENS
+   National Gardening Association, 2009, IMP HOM COMM GARD AM
+   Nazarea VD, 2005, HEIRLOOM SEEDS THEIR
+   Pudup MB, 2008, GEOFORUM, V39, P1228, DOI 10.1016/j.geoforum.2007.06.012
+   Reyes-Garcia V, 2012, J SUSTAIN AGR, V36, P249, DOI 10.1080/10440046.2011.627987
+   U.S. Census Bureau, 2011, US CENS BUR DEL ILL
+   U. S. Census Bureau, 2010, 2005 2009 AM COMM SU
+   U.S. Forest Service, 2011, STEW MAPP
+   Vitiello D, 2009, COMMUNITY GARDENING
+NR 49
+TC 87
+Z9 90
+U1 13
+U2 216
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD OCT
+PY 2012
+VL 108
+IS 1
+BP 57
+EP 70
+DI 10.1016/j.landurbplan.2012.08.001
+PG 14
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA 017UI
+UT WOS:000309616100007
+DA 2019-03-26
+ER
+
+PT J
+AU Hofmann, M
+   Westermann, JR
+   Kowarik, I
+   van der Meer, E
+AF Hofmann, Mathias
+   Westermann, Janneke R.
+   Kowarik, Ingo
+   van der Meer, Elke
+TI Perceptions of parks and urban derelict land by landscape planners and
+   residents
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+DE Biodiversity; Expert-lay-people comparison; Naturalness; Preferences;
+   Urban green space; Wasteland
+ID ENVIRONMENT QUALITY; HUMAN HEALTH; GREEN SPACE; PREFERENCE; FOREST;
+   BIODIVERSITY; CITY; SUSTAINABILITY; APPRECIATION; SATISFACTION
+AB As urban green spaces are important for residential satisfaction, human preferences are a key criterion in their design. However, preferences may vary between landscape planners and residents, which may result in differences between residents' demands and the actual design. With urban derelict land becoming an important part of the urban green infrastructure, information about the perception and acceptance by residents compared to formal urban parks is important for their planning and design. It was thus examined how different types of urban green spaces are perceived by landscape planners and residents. Criteria for the classification of green spaces used by both participant groups were compared, as were the criteria that influenced preference.
+   Participants sorted and rated photographs of parks and urban derelict land in two different tasks. Hierarchical cluster analyses and multidimensional scaling analyses were used to characterize the participants' perceptual space. By conducting multiple regression analyses the resulting perceptual dimensions were related to preference.
+   The identified perceptual criteria used to distinguish green spaces were degree of canopy closure, artificiality vs. naturalness, prospect, physical accessibility, and beauty. For residents, the degree of canopy closure was the most important criterion for classification; for landscape planners, it was artificiality. Preferences varied between groups: whereas landscape planners preferred rather natural areas with low accessibility and high species richness, the residents showed a greater preference for formal parks.
+   As a practical implication, the study suggests that residents generally accept urban derelict land as recreational areas if a minimum of maintenance and accessibility is provided. When designing green spaces, landscape planners may consider these differences in their preferences compared to residents. (c) 2012 Elsevier GmbH. All rights reserved.
+C1 [Hofmann, Mathias] Tech Univ Dresden, Ctr Interdisciplinary Technol Res, D-01062 Dresden, Germany.
+   [Westermann, Janneke R.; Kowarik, Ingo] Tech Univ Berlin, Dept Ecol, D-12165 Berlin, Germany.
+   [Hofmann, Mathias; van der Meer, Elke] Humboldt Univ, Dept Psychol, D-10099 Berlin, Germany.
+RP Hofmann, M (reprint author), Tech Univ Dresden, Ctr Interdisciplinary Technol Res, D-01062 Dresden, Germany.
+EM mathias.hofmann@tu-dresden.de
+RI Hofmann, Mathias/C-4021-2014
+OI Hofmann, Mathias/0000-0001-7542-0243
+FU postgraduate research and training group "Perspectives on Urban Ecology
+   II - Shrinking Cities" of the German Research Foundation (DFG) [GRK 780]
+FX This study was supported by the postgraduate research and training group
+   "Perspectives on Urban Ecology II - Shrinking Cities" (GRK 780) of the
+   German Research Foundation (DFG). We thank Nadine Winkler for digitizing
+   and sorting the grouping descriptions and two anonymous reviewers for
+   their stimulating comments on a previous version of this paper.
+CR AKAIKE H, 1987, PSYCHOMETRIKA, V52, P317, DOI 10.1007/BF02294359
+   Alvey Alexis A., 2006, Urban Forestry & Urban Greening, V5, P195, DOI 10.1016/j.ufug.2006.09.003
+   Amerigo M, 1997, J ENVIRON PSYCHOL, V17, P47, DOI 10.1006/jevp.1996.0038
+   Appleton J., 1996, EXPERIENCE LANDSCAPE
+   Arnberger Arne, 2006, Urban Forestry & Urban Greening, V4, P135, DOI 10.1016/j.ufug.2006.01.004
+   Bauer N., 2004, WALD HOLZ, V85, P38
+   BERLYNE DE, 1970, PERCEPT PSYCHOPHYS, V8, P279, DOI 10.3758/BF03212593
+   Berto R, 2005, J ENVIRON PSYCHOL, V25, P249, DOI 10.1016/j.jenvp.2005.07.001
+   Bixler RD, 1997, ENVIRON BEHAV, V29, P443, DOI 10.1177/001391659702900401
+   Bjerke Tore, 2006, Urban Forestry & Urban Greening, V5, P35, DOI 10.1016/j.ufug.2006.01.006
+   Bonaiuto M, 2006, EUR REV APPL PSYCHOL, V56, P23, DOI 10.1016/j.erap.2005.02.011
+   Bonaiuto M, 1999, J ENVIRON PSYCHOL, V19, P331, DOI 10.1006/jevp.1999.0138
+   Bonnes M, 2007, J SOC ISSUES, V63, P59, DOI 10.1111/j.1540-4560.2007.00496.x
+   Borg I, 2005, MODERN MULTIDIMENSIO
+   Bromme R., 1995, ARCHITEKT, P451
+   Caula S, 2009, URBAN FOR URBAN GREE, V8, P117, DOI 10.1016/j.ufug.2008.12.004
+   Cohen DA, 2007, AM J PUBLIC HEALTH, V97, P509, DOI 10.2105/AJPH.2005.072447
+   De Sousa CA, 2003, LANDSCAPE URBAN PLAN, V62, P181, DOI 10.1016/S0169-2046(02)00149-4
+   Doick KJ, 2009, URBAN FOR URBAN GREE, V8, P163, DOI 10.1016/j.ufug.2009.05.002
+   Dunstan F, 2005, J ENVIRON PSYCHOL, V25, P293, DOI 10.1016/j.jenvp.2005.07.004
+   Escobedo FJ, 2011, ENVIRON POLLUT, V159, P2078, DOI 10.1016/j.envpol.2011.01.010
+   FENTON DM, 1985, AUST J PSYCHOL, V37, P325, DOI 10.1080/00049538508256409
+   Fischer MA, 2006, ENVIRON BEHAV, V38, P373, DOI 10.1177/0013916505280083
+   Fuller RA, 2007, BIOLOGY LETT, V3, P390, DOI 10.1098/rsbl.2007.0149
+   Gabriel KMA, 2011, ENVIRON POLLUT, V159, P2044, DOI 10.1016/j.envpol.2011.01.016
+   Gobster PH, 2004, LANDSCAPE URBAN PLAN, V68, P147, DOI 10.1016/S0169-2046(03)00162-2
+   Gundersen Vegard Sverre, 2008, Urban Forestry & Urban Greening, V7, P241, DOI 10.1016/j.ufug.2008.05.001
+   Gyllin Mats, 2005, Urban Forestry & Urban Greening, V3, P149, DOI 10.1016/j.ufug.2005.04.004
+   Hagerhall CM, 2000, J ENVIRON PSYCHOL, V20, P83, DOI 10.1006/jevp.1999.0150
+   Hamada S, 2010, URBAN FOR URBAN GREE, V9, P15, DOI 10.1016/j.ufug.2009.10.002
+   Hartig T, 2006, J ENVIRON PSYCHOL, V26, P215, DOI 10.1016/j.jenvp.2006.07.007
+   Hershberger R.G., 1973, MAN ENV SYSTEMS, V3, P371
+   Herzog TR, 2003, ENVIRON BEHAV, V35, P459, DOI 10.1177/0013916503251455
+   Herzog TR, 2002, J ENVIRON PSYCHOL, V22, P295, DOI 10.1006/jevp.235
+   IM SB, 1984, ENVIRON BEHAV, V16, P235, DOI 10.1177/0013916584162005
+   Jain AK, 1999, ACM COMPUT SURV, V31, P264, DOI 10.1145/331499.331504
+   Jorgensen A, 2002, LANDSCAPE URBAN PLAN, V60, P135, DOI 10.1016/S0169-2046(02)00052-X
+   Jorgensen A, 2007, LANDSCAPE URBAN PLAN, V79, P273, DOI 10.1016/j.landurbplan.2006.02.015
+   Jorgensen A, 2010, NAT CULT, V5, P338, DOI 10.3167/nc.2010.050307
+   Kaplan R., 1989, EXPERIENCE NATURE PS
+   Kowarik I, 2005, WILD URBAN WOODLANDS: NEW PERSPECTIVES FOR URBAN FORESTRY, P287, DOI 10.1007/3-540-26859-6_18
+   Kowarik I, 2011, ENVIRON POLLUT, V159, P1974, DOI 10.1016/j.envpol.2011.02.022
+   Kuo FE, 1998, ENVIRON BEHAV, V30, P28, DOI 10.1177/0013916598301002
+   Lafortezza R, 2008, J ENVIRON MANAGE, V89, P257, DOI 10.1016/j.jenvman.2007.01.063
+   Lafortezza R, 2009, URBAN FOR URBAN GREE, V8, P97, DOI 10.1016/j.ufug.2009.02.003
+   Leder H, 2004, BRIT J PSYCHOL, V95, P489, DOI 10.1348/0007126042369811
+   Lee T., 2003, PSYCHOL THEORIES ENV, P27
+   Lindemann-Matthies P, 2007, LANDSCAPE URBAN PLAN, V79, P298, DOI 10.1016/j.landurbplan.2006.03.007
+   Mason J, 2007, LANDSCAPE URBAN PLAN, V80, P153, DOI 10.1016/j.landurbplan.2006.07.002
+   McKeown B., 1988, Q METHODOLOGY
+   Mitchell R, 2008, LANCET, V372, P1655, DOI 10.1016/S0140-6736(08)61689-X
+   Nassauer JI, 1995, LANDSCAPE J, V14, P161, DOI DOI 10.3368/1J.14.2.161
+   Nielsen Anders Busse, 2007, Urban Forestry & Urban Greening, V6, P143, DOI 10.1016/j.ufug.2006.12.002
+   Orians G. H., 2001, B PSYCHOL ARTS, V2, P25
+   Osgood C. E., 1957, MEASUREMENT MEANING
+   Ozguner H, 2006, LANDSCAPE URBAN PLAN, V74, P139, DOI 10.1016/j.landurbplan.2004.10.003
+   R Development Core Team, 2008, R LANG ENV STAT COMP
+   Rautalin M, 2001, LANDSCAPE URBAN PLAN, V53, P85, DOI 10.1016/S0169-2046(00)00142-0
+   Real E, 2000, J ENVIRON PSYCHOL, V20, P355, DOI 10.1006/jevp.2000.0184
+   ROSENBERG S, 1975, MULTIVAR BEHAV RES, V10, P489, DOI 10.1207/s15327906mbr1004_7
+   SAMMON JW, 1969, IEEE T COMPUT, VC 18, P401, DOI 10.1109/T-C.1969.222678
+   SHAFER EL, 1969, J LEISURE RES, V1, P1
+   Spini D., 2002, EUR REV APPL PSYCHOL, V52, P231
+   STAMPS AE, 1990, PERCEPT MOTOR SKILL, V71, P907, DOI 10.2466/pms.1990.71.3.907
+   Stamps AE, 2007, ENVIRON BEHAV, V39, P165, DOI 10.1177/0013916506288053
+   TRENT RB, 1987, LANDSCAPE URBAN PLAN, V14, P225, DOI 10.1016/0169-2046(87)90032-6
+   Tyrvainen L., 2005, URBAN FORESTS TREES, P81, DOI DOI 10.1007/3-540-27684-X
+   Tzoulas K, 2007, LANDSCAPE URBAN PLAN, V81, P167, DOI 10.1016/j.landurbplan.2007.02.001
+   Tzoulas K, 2010, URBAN FOR URBAN GREE, V9, P121, DOI 10.1016/j.ufug.2009.12.001
+   ULRICH RS, 1984, SCIENCE, V224, P420, DOI 10.1126/science.6143402
+   [United Nations Population Division], 2010, WORLD URB PROSP 2009
+   van den Berg AE, 1998, J ENVIRON PSYCHOL, V18, P141, DOI 10.1006/jevp.1998.0080
+   van den Berg AE, 2007, J SOC ISSUES, V63, P79, DOI 10.1111/j.1540-4560.2007.00497.x
+   Van Herzele Ann, 2005, Urban Forestry & Urban Greening, V3, P177, DOI 10.1016/j.ufug.2005.01.002
+   Venables WN, 2002, MODERN APPL STAT S
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   Yli-Pelkonen V., 2005, SUSTAINABILITY SCIEN, V1, P3
+NR 77
+TC 71
+Z9 73
+U1 4
+U2 138
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PY 2012
+VL 11
+IS 3
+BP 303
+EP 312
+DI 10.1016/j.ufug.2012.04.001
+PG 10
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA 007QB
+UT WOS:000308902100008
+DA 2019-03-26
+ER
+
+PT J
+AU Deng, WB
+   Li, W
+   Cai, X
+   Bulou, A
+   Wang, QPA
+AF Deng, Weibing
+   Li, Wei
+   Cai, Xu
+   Bulou, Alain
+   Wang, Qiuping A.
+TI Universal scaling in sports ranking
+SO NEW JOURNAL OF PHYSICS
+LA English
+DT Article
+ID SELF-ORGANIZED CRITICALITY; ZIPFS LAW; EXPLANATION; DISTRIBUTIONS;
+   INDIVIDUALS; CITIES; INCOME
+AB Ranking is a ubiquitous phenomenon in human society. On the web pages of Forbes, one may find all kinds of rankings, such as the world's most powerful people, the world's richest people, the highest-earning tennis players, and so on and so forth. Herewith, we study a specific kind-sports ranking systems in which players' scores and/or prize money are accrued based on their performances in different matches. By investigating 40 data samples which span 12 different sports, we find that the distributions of scores and/or prize money follow universal power laws, with exponents nearly identical for most sports. In order to understand the origin of this universal scaling we focus on the tennis ranking systems. By checking the data we find that, for any pair of players, the probability that the higher-ranked player tops the lower-ranked opponent is proportional to the rank difference between the pair. Such a dependence can be well fitted to a sigmoidal function. By using this feature, we propose a simple toy model which can simulate the competition of players in different matches. The simulations yield results consistent with the empirical findings. Extensive simulation studies indicate that the model is quite robust with respect to the modifications of some parameters.
+C1 [Deng, Weibing; Li, Wei; Cai, Xu] Hua Zhong Cent China Normal Univ, Complex Sci Ctr, Wuhan 430079, Peoples R China.
+   [Deng, Weibing; Li, Wei; Cai, Xu] Hua Zhong Cent China Normal Univ, Inst Particle Phys, Wuhan 430079, Peoples R China.
+   [Deng, Weibing; Wang, Qiuping A.] LUNAM Univ, ISMANS, Lab Phys Stat & Syst Complexes, F-72000 Le Mans, France.
+   [Deng, Weibing; Bulou, Alain; Wang, Qiuping A.] Univ Maine, LPEC, UMR CNRS 6087, F-72085 Le Mans, France.
+   [Li, Wei] Max Planck Inst Math Sci, D-04103 Leipzig, Germany.
+RP Li, W (reprint author), Hua Zhong Cent China Normal Univ, Complex Sci Ctr, Wuhan 430079, Peoples R China.
+EM liwei@mis.mpg.de
+FU National Natural Science Foundation of China [10975057, 10635020,
+   10647125, 10975062]; Programme of Introducing Talents of Discipline to
+   Universities [B08033]; PHC CAI YUAN PEI Programme (LIU JIN OU) [6050,
+   2010008104]; Max Planck Society
+FX WBD would like to acknowledge Cyril Pujos and Laurent Nivanen for
+   fruitful discussions. This work was supported by National Natural
+   Science Foundation of China (grant nos. 10975057, 10635020, 10647125 and
+   10975062), the Programme of Introducing Talents of Discipline to
+   Universities under grant no. B08033, and the PHC CAI YUAN PEI Programme
+   (LIU JIN OU (2010) no. 6050) under grant no. 2010008104. Partial support
+   also comes from the Max Planck Society.
+CR Aoyama H, 2000, FRACTALS, V8, P293, DOI 10.1142/S0218348X0000038X
+   Baek SK, 2011, NEW J PHYS, V13, DOI 10.1088/1367-2630/13/7/073036
+   Baek SK, 2011, NEW J PHYS, V13, DOI 10.1088/1367-2630/13/4/043004
+   BAK P, 1988, PHYS REV A, V38, P364, DOI 10.1103/PhysRevA.38.364
+   BAK P, 1987, PHYS REV LETT, V59, P381, DOI 10.1103/PhysRevLett.59.381
+   Ben-Naim E, 2007, J KOREAN PHYS SOC, V50, P124
+   Ben-Naim E, 2007, EPL-EUROPHYS LETT, V77, DOI 10.1209/0295-5075/77/30005
+   BRADLEY RA, 1952, BIOMETRIKA, V39, P324, DOI 10.2307/2334029
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Dorogovtsev SN, 2008, REV MOD PHYS, V80, P1275, DOI 10.1103/RevModPhys.80.1275
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Kechedzhi KE, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.046138
+   LI WT, 1992, IEEE T INFORM THEORY, V38, P1842, DOI 10.1109/18.165464
+   Marsili M, 1998, PHYS REV LETT, V80, P2741, DOI 10.1103/PhysRevLett.80.2741
+   Massey FJ, 1951, J AM STAT ASSOC, V46, P68
+   MILLER GA, 1958, AM J PSYCHOL, V71, P209, DOI 10.2307/1419208
+   Minnhagen P., 2011, PHYS TODAY
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   NEY H, 1994, COMPUT SPEECH LANG, V8, P1, DOI 10.1006/csla.1994.1001
+   Pareto V., 1971, TRANSLATION MANUALE
+   Pareto V., 1986, COURS EC POLITIQUE
+   Perline R, 1996, PHYS REV E, V54, P220, DOI 10.1103/PhysRevE.54.220
+   Petersen AM, 2011, SCI REP-UK, V1, DOI 10.1038/srep00181
+   Petersen AM, 2011, P NATL ACAD SCI USA, V108, P18, DOI 10.1073/pnas.1016733108
+   Petersen AM, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.036114
+   Radicchi F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017249
+   Radicchi F, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056103
+   SHORROCKS AF, 1983, ECONOMICA, V50, P3, DOI 10.2307/2554117
+   Sornette D, 1999, EUR PHYS J B, V8, P653, DOI 10.1007/s100510050733
+   SQUIRE RA, 1981, SCIENCE, V214, P877, DOI 10.1126/science.7302565
+   Toral R, 2007, COMMUN COMPUT PHYS, V2, P177
+   Zipf G. K., 1932, SELECTED STUDIES PRI
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 34
+TC 6
+Z9 6
+U1 0
+U2 9
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1367-2630
+J9 NEW J PHYS
+JI New J. Phys.
+PD SEP 20
+PY 2012
+VL 14
+AR 093038
+DI 10.1088/1367-2630/14/9/093038
+PG 15
+WC Physics, Multidisciplinary
+SC Physics
+GA 007YS
+UT WOS:000308924900002
+OA DOAJ Gold
+DA 2019-03-26
+ER

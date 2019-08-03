@@ -1,0 +1,500 @@
+
+PT J
+AU Guo, TJ
+   Englehardt, JD
+AF Guo, Tianjiao
+   Englehardt, James D.
+TI Principles for scaling of distributed direct potable water reuse
+   systems: A modeling study
+SO WATER RESEARCH
+LA English
+DT Article
+DE Direct potable water reuse; Hierarchical clustering; Water; Minimum
+   spanning tree
+ID GENETIC ALGORITHMS; DECISION-SUPPORT; TREATMENT PLANTS; MANAGEMENT;
+   DESIGN; OPTIMIZATION; COST; NETWORK; SEWERS
+AB Scaling of direct potable water reuse (DPR) systems involves tradeoffs of treatment facility economy-of-scale, versus cost and energy of conveyance including energy for upgradient distribution of treated water, and retention of wastewater thermal energy. In this study, a generalized model of the cost of DPR as a function of treatment plant scale, assuming futuristic, optimized conveyance networks, was constructed for purposes of developing design principles. Fractal landscapes representing flat, hilly, and mountainous topographies were simulated, with urban, suburban, and rural housing distributions placed by modified preferential growth algorithm. Treatment plants were allocated by agglomerative hierarchical clustering, networked to buildings by minimum spanning tree. Simulations assume advanced oxidation-based DPR system design, with 20-year design life and capability to mineralize chemical oxygen demand below normal detection limits, allowing implementation in regions where disposal of concentrate containing hormones and anti-scalants is not practical. Results indicate that total DPR capital and O&M costs in rural areas, where systems that return nutrients to the land may be more appropriate, are high. However, costs in urban/suburban areas are competitive with current water/wastewater service costs at scales of ca. one plant per 10,000 residences. This size is relatively small, and costs do not increase significantly until plant service areas fall below 100 to 1000 homes. Based on these results, distributed DPR systems are recommended for consideration for urban/suburban water and wastewater system capacity expansion projects. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Guo, Tianjiao; Englehardt, James D.] Univ Miami, Dept Civil Architectural & Environm Engn, Coral Gables, FL 33146 USA.
+RP Guo, TJ (reprint author), Univ Miami, McArthur Engn Bldg,Rm 325,1251 Mem Dr, Coral Gables, FL 33146 USA.
+EM t.guo1@umiami.edu
+OI Englehardt, James/0000-0001-9779-1811; Guo, Tianjiao/0000-0001-9604-905X
+FU US National Science Foundation [1038527]
+FX The partial support of the US National Science Foundation (Award No.
+   1038527) for this work is gratefully acknowledged. Also, Mr. Ken Groce,
+   Cherokee Consulting, Inc. and Dr. Dave MacNavin, Tetra Tech, Inc. are
+   thanked for providing information regarding building code provisions for
+   water and wastewater works; Mr. Jon Baldessari is thanked for providing
+   essential information needed for the case study; and Mr. Todd Ellenburg
+   and colleagues are thanked for their assistance in reproducing the
+   university map.
+CR Abraham DM, 1998, J CONSTR ENG M ASCE, V124, P402, DOI 10.1061/(ASCE)0733-9364(1998)124:5(402)
+   Beraud B, 2007, WATER SCI TECHNOL, V56, P109, DOI 10.2166/wst.2007.592
+   Bondsonline, MUN BONDS
+   Butler D, 2005, ENVIRON MODELL SOFTW, V20, P415, DOI 10.1016/j.envsoft.2004.02.003
+   Cadmus Group Inc, 2006, 2003 DRINK WAT INFR
+   Carter D. L., 2009, 39 INT C ENV SYST JU
+   CDM Smith Inc, 2007, WAT SUPPL COST EST S
+   Chang NB, 2001, CIV ENG ENVIRON SYST, V18, P1, DOI 10.1080/02630250108970290
+   Cohen R., 2004, ENERGY DRAIN HIDDEN
+   Durrenmatt DJ, 2014, WATER RES, V48, P548, DOI 10.1016/j.watres.2013.10.017
+   Engineering Toolbox, WAST WAT FLOW CAP
+   Englehardt JD, 2013, WATER RES, V47, P4680, DOI 10.1016/j.watres.2013.05.026
+   FlexPVC Company, WAT FLOW CHART 1
+   GARDNER M, 1970, SCI AM, V223, P120, DOI 10.1038/scientificamerican1070-120
+   Gillot S., 2007, CITESEERX, DOI 10.1.1.33.8861
+   Guo TJ, 2014, WATER SCI TECHNOL, V69, P223, DOI 10.2166/wst.2013.734
+   Guo Y., 2006, P 5 IWA WORLD WAT C
+   Gupta AK, 2008, ENVIRON PROG, V27, P91, DOI 10.1002/ep.10254
+   Gupta I, 1999, ENVIRON MODELL SOFTW, V14, P437, DOI 10.1016/S1364-8152(98)00089-9
+   Higham D. J., 2005, SOC IND APPL MATH, Vsecond, P107
+   Hinomoto H., 1974, DETERMINATION INVEST
+   Insapipe Industries Ltd, 2014, INS DES DAT
+   Joksimovic D, 2008, DESALINATION, V218, P142, DOI 10.1016/j.desal.2006.04.091
+   Lahnsteiner J, 2007, WATER SCI TECHNOL, V55, P441, DOI 10.2166/wst.2007.022
+   Leitao JP, 2005, WATER SCI TECHNOL, V52, P1
+   Liang L. Y., 2004, Engineering Construction and Architectural Management, V11, P101, DOI 10.1108/09699980410527849
+   Lim SR, 2008, J ENVIRON MANAGE, V88, P564, DOI 10.1016/j.jenvman.2007.03.022
+   Livingston E., 2008, P WATERSMART INN C E
+   Lofquist D., 2012, HOUSEHOLDS FAMILIES
+   LOGANATHAN GV, 1995, J WATER RES PL, V121, P182, DOI 10.1061/(ASCE)0733-9496(1995)121:2(182)
+   Main W. M., 1975, THESIS
+   Makropoulos CK, 2008, ENVIRON MODELL SOFTW, V23, P1448, DOI 10.1016/j.envsoft.2008.04.010
+   Makropoulos CK, 2008, WATER POLICY, V10, P345, DOI 10.2166/wp.2008.014
+   Makropoulos CK, 2010, WATER RESOUR MANAG, V24, P2795, DOI 10.1007/s11269-010-9580-5
+   Makropoulos CK, 2003, J WATER RES PL-ASCE, V129, P69, DOI 10.1061/(ASCE)0733-9496(2003)129:1(69)
+   Malan K. M., 2009, 2009 IEEE C EV COMP
+   Maurer M, 2005, WA SCI TECHNOL, V5, P145
+   Maurer M, 2009, WATER RES, V43, P2121, DOI 10.1016/j.watres.2009.02.008
+   Metcalf & Eddy Inc, 2013, WAST ENG TREATM RES
+   Metzler D. P., 1958, J AM WATER WORKS ASS, V50, P1021
+   Miami-Dade Water and Sewer Department, 2013, COMB WAT SEW BILL FL
+   Miami-Dade Water and Sewer Department, 2013, 2012 COMPR ANN FIN R
+   Moderl M, 2011, WATER RESOUR RES, V47, DOI 10.1029/2009WR008951
+   Mooi E, 2011, CONCISE GUIDE TO MARKET RESEARCH: THE PROCESS, DATA, AND METHODS USING IBM SPSS STATISTICS, P1, DOI 10.1007/978-3-642-12541-6
+   National Research Council, 2011, WAT REUS POT EXP NAT
+   Nzewi EU, 1985, CIV ENG ENVIRON SYST, V2, P132
+   Pennock DM, 2002, P NATL ACAD SCI USA, V99, P5207, DOI 10.1073/pnas.032085699
+   Peterson Product Co, 2014, CAST IR PIP
+   PRIM RC, 1957, AT&T TECH J, V36, P1389, DOI 10.1002/j.1538-7305.1957.tb01515.x
+   Rencher A. C., 2002, METHODS MULTIVARIATE
+   Roberts D., 2011, OPERATIONAL ENERGY E
+   Selby H. W., 1979, United States Patent, Patent No. [US 4145279, 4145279]
+   SHANNON CE, 1948, AT&T TECH J, V27, P379, DOI DOI 10.1002/J.1538-7305.1948.TB01338.X
+   SIMPSON AR, 1994, J WATER RES PL-ASCE, V120, P423, DOI 10.1061/(ASCE)0733-9496(1994)120:4(423)
+   Sitzenfrei R, 2010, WATER SCI TECHNOL, V61, P37, DOI 10.2166/wst.2010.782
+   Tchobanoglous G, 2011, DIRECT POTABLE REUSE
+   The Great Lakes-Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers, 2004, REC STAND WAST FAC P
+   The Great Lakes-Upper Mississippi River Board of State and Provincial Public Health and Environmental Managers, 2007, REC STAND WAT WORKS
+   TYTECA D, 1976, J WATER POLLUT CON F, V48, P2120
+   U.S. Bureau of Economic Analysis, 2013, NIPA TABL 1 1 9 IMPL
+   UN Intergovernmental Panel on Climate Change, 2014, 12 SESS WORK GROUP 3
+   University of Miami, 2014, AUT NET ZER WAT PROJ
+   *US CENS BUR, 2003, 2000 CENS POP HOUS P
+   US Department of Energy, 1998, BAS RES METH CONS SU
+   US Energy Information Administration, 2013, TABL 5 6 AV RET PRIC
+   US EPA, 2006, 815R06015 US EPA OFF
+   Vega E., 2013, COMMUNICATION
+   Vollertsen J, 2002, WATER SCI TECHNOL, V46, P11
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   Wolff G., 2004, WATER AIR MODELS USE
+   Worobetz J., 2014, COMMUNICATION
+   Yates D.F., 1984, ENG OPTIMIZ, V7, P142
+NR 72
+TC 19
+Z9 19
+U1 0
+U2 50
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0043-1354
+J9 WATER RES
+JI Water Res.
+PD MAY 15
+PY 2015
+VL 75
+BP 146
+EP 163
+DI 10.1016/j.watres.2015.02.033
+PG 18
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA CI1KD
+UT WOS:000354502200013
+PM 25768987
+DA 2019-03-26
+ER
+
+PT J
+AU Hristov, H
+   Kuhar, A
+AF Hristov, Hristo
+   Kuhar, Ales
+TI Subjective knowledge as a determinant of young adult consumers wine
+   behaviour
+SO BRITISH FOOD JOURNAL
+LA English
+DT Article
+DE Young adults; Wine; Latent class analysis; Subjective knowledge;
+   Best-worst scaling; Republic of Macedonia
+ID LATENT CLASS ANALYSIS; MARKET; SEGMENTATION; PREFERENCES; ATTRIBUTES;
+   PRODUCT
+AB Purpose - The purpose of this paper is to provide additional insight into how the level of subjective knowledge (SK) related to wine explains differences in the wine-consumption behaviour of young adults. Particular attention was given to information search strategies employed by young adult wine consumers.
+   Design/methodology/approach - A web-based survey was carried out on 287 young urban wine consumers who were recruited in specialised wine shops and at wine festivals. The key variables presenting the consumers' wine searches were measured using the best-worst scaling method. Latent class cluster analysis (LCA) was used to segment the respondents into clusters based on their level of SK of wine.
+   Findings - The study identifies three consumer segments with corresponding levels of SK related to wine. The segments present considerable differences in the wine-consumption-related behaviours and information search strategies.
+   Research limitations/implications - Understanding young adults' SK of wine will assist wine marketers in their efforts to establish marketing strategies for this generational cohort. In addition, research (preferably transnational) is recommended to validate the conclusions and to gain additional understanding of SK as an indicator of wine-related behaviours.
+   Originality/value - This study contributes to a better understanding of the wine-purchasing behaviours of young adults with particular focus on SK related to wine. The results obtained may be applied by winemakers in the development of marketing and promotion strategies geared towards the promising young adult consumer segment.
+C1 [Hristov, Hristo; Kuhar, Ales] Univ Ljubljana, Biotech Fac, Ljubljana, Slovenia.
+RP Hristov, H (reprint author), Univ Ljubljana, Biotech Fac, Ljubljana, Slovenia.
+EM hristovhristo@outlook.com
+CR Agnoli L., 2011, VDQS 18 ANN WIN EC C
+   Agnoli L, 2011, INT J WINE BUS RES, V23, P176, DOI 10.1108/17511061111143025
+   Atkin T., 2012, WINE EC POLICY, V1, P54, DOI DOI 10.1016/J.WEP.2012.08.002
+   Aurier P., 1999, ADV CONSUM RES, V26, P569
+   Barber Nelson, 2008, Journal of Wine Research, V19, P123, DOI 10.1080/09571260802622225
+   Barber N, 2009, J CONSUM MARK, V26, P415
+   BRUCKS M, 1985, J CONSUM RES, V12, P1, DOI 10.1086/209031
+   Bruwer Johan, 2007, Journal of Wine Research, V18, P19, DOI 10.1080/09571260701526865
+   Bruwer J, 2012, J RETAIL CONSUM SERV, V19, P45, DOI 10.1016/j.jretconser.2011.08.008
+   Chaney Isabella, 2000, INT J WINE BUSINESS, V12, P5, DOI DOI 10.1108/EB008706
+   Charters S, 2011, INT J WINE BUS RES, V23, P161, DOI 10.1108/17511061111143016
+   Chrysochou P, 2012, BRIT FOOD J, V114, P516, DOI 10.1108/00070701211219531
+   de Magistris T, 2011, INT J WINE BUS RES, V23, P145, DOI 10.1108/17511061111143007
+   de-Magistris T, 2014, SPAN J AGRIC RES, V12, P529, DOI 10.5424/sjar/2014123-4499
+   Dodd T., 2005, J HOSPITALITY TOURIS, V29, P3, DOI DOI 10.1177/1096348004267518
+   Duarte F, 2010, CIENC TEC VITIVINIC, V25, P63
+   Flynn LR, 1999, J BUS RES, V46, P57, DOI 10.1016/S0148-2963(98)00057-5
+   Forbes S.L., 2008, 4 INT C AC WIN BUS R
+   Fountain J, 2011, INT J WINE BUS RES, V23, P107, DOI 10.1108/17511061111142981
+   Garcia T, 2013, INT J WINE BUS RES, V25, P94, DOI 10.1108/IJWBR-2012-0007
+   Hall J., 2004, INT J WINE MARKETING, V16, P29, DOI DOI 10.1108/EB008777
+   Hammond R., 2013, Journal of Foodservice Business Research, V16, P468, DOI 10.1080/15378020.2013.850381
+   Hardigan PC, 2013, BMC MED INFORM DECIS, V13, DOI 10.1186/1472-6947-13-60
+   Hristov H., 2014, Bulgarian Journal of Agricultural Science, V20, P541
+   Hristov H., 2014, 14 C EUR ASS AGR EC
+   International Organisation of Vine and Wine, 2011, OIV VIN WIN OUTL 201
+   International Organisation of Vine and Wine, 2015, STAT VIT WORLD MARK
+   Jovanov M.T., 2010, YB U G DELCEV, P103
+   Lancaster L. C., 2002, GENERATIONS COLLIDE
+   Letica B., 2006, MACEDONIAN WINE CLUS
+   Li JG, 2011, BRIT FOOD J, V113, P1305, DOI 10.1108/00070701111177700
+   Lin TH, 1997, J EDUC BEHAV STAT, V22, P249, DOI 10.3102/10769986022003249
+   Linzer DA, 2011, J STAT SOFTW, V42, P1
+   Lockshin L, 2011, EUR J MARKETING, V45, P1236, DOI 10.1108/03090561111137697
+   MacDonald JB, 2013, J RETAIL CONSUM SERV, V20, P349, DOI 10.1016/j.jretconser.2013.01.013
+   Marinelli N, 2014, APPETITE, V75, P117, DOI 10.1016/j.appet.2013.12.013
+   McGovern PE, 2003, ANCIENT WINE SEARCH
+   Ministry of Agriculture Forestry and Water Economy, 2010, STRAT VIT W IN PRESS
+   Mueller Loose S., 2013, Food Quality and Preference, V27, P230
+   Mueller S, 2011, INT J WINE BUS RES, V23, P125, DOI 10.1108/17511061111142990
+   Noev N, 2005, EASTERN EUR ECON, V43, P5, DOI 10.2753/EEE0012-8755430601
+   Nylund KL, 2007, STRUCT EQU MODELING, V14, P535, DOI 10.1080/10705510701575396
+   Qenani-Petrela E., 2007, Journal of Food Distribution Research, V38, P119
+   R Development Core Team, 2014, R LANG ENV STAT COMP
+   Ritchie C, 2011, INT J CONTEMP HOSP M, V23, P99, DOI 10.1108/09596111111101698
+   Sailer O., 2004, CROSSDES PACKAGE DES
+   State Statistical Office of Republic of Macedonia, 2015, HOUS CONS REP MAC
+   Taylor D. C., 2008, Journal of Wine Research, V19, P193, DOI 10.1080/09571260902891175
+   Teagle J., 2010, 5 INT AC WIN BUS RES
+   Thach EC, 2006, AGRIBUSINESS, V22, P307, DOI 10.1002/agr.20088
+   Tzimitra-Kalogianni I., 1999, British Food Journal, V101, P884, DOI 10.1108/00070709910301391
+   Veale R, 2008, INT J WINE BUS RES, V20, P352, DOI 10.1108/1751106081091452
+   VERMUNT JK, 2002, APPL LATENT CLASS AN, P89, DOI DOI 10.1017/CBO9780511499531.004
+   Viot C, 2012, INT J WINE BUS RES, V24, P219, DOI 10.1108/17511061211259206
+NR 54
+TC 2
+Z9 2
+U1 3
+U2 15
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0007-070X
+EI 1758-4108
+J9 BRIT FOOD J
+JI Br. Food J.
+PY 2015
+VL 117
+IS 12
+BP 2930
+EP 2946
+DI 10.1108/BFJ-04-2015-0163
+PG 17
+WC Food Science & Technology
+SC Food Science & Technology
+GA CY5UN
+UT WOS:000366473100006
+DA 2019-03-26
+ER
+
+PT J
+AU Rocha, LEC
+   Thorson, AE
+   Lambiotte, R
+AF Rocha, Luis E. C.
+   Thorson, Anna E.
+   Lambiotte, Renaud
+TI The Non-linear Health Consequences of Living in Larger Cities
+SO JOURNAL OF URBAN HEALTH-BULLETIN OF THE NEW YORK ACADEMY OF MEDICINE
+LA English
+DT Article
+DE Urbanization; Population dynamics; Public health; Urban health; Complex
+   systems
+ID LARGE SOCIAL NETWORK; AIR-POLLUTION; SCALING LAWS; POPULATION;
+   URBANIZATION; DEPRESSION; OBESITY
+AB Urbanization promotes economy, mobility, access, and availability of resources, but on the other hand, generates higher levels of pollution, violence, crime, and mental distress. The health consequences of the agglomeration of people living close together are not fully understood. Particularly, it remains unclear how variations in the population size across cities impact the health of the population. We analyze the deviations from linearity of the scaling of several health-related quantities, such as the incidence and mortality of diseases, external causes of death, wellbeing, and health care availability, in respect to the population size of cities in Brazil, Sweden, and the USA. We find that deaths by non-communicable diseases tend to be relatively less common in larger cities, whereas the per capita incidence of infectious diseases is relatively larger for increasing population size. Healthier lifestyle and availability of medical support are disproportionally higher in larger cities. The results are connected with the optimization of human and physical resources and with the non-linear effects of social networks in larger populations. An urban advantage in terms of health is not evident, and using rates as indicators to compare cities with different population sizes may be insufficient.
+C1 [Rocha, Luis E. C.; Lambiotte, Renaud] Univ Namur, Dept Math & NaXys, Namur, Belgium.
+   [Rocha, Luis E. C.; Thorson, Anna E.] Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+RP Rocha, LEC (reprint author), Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+EM luis.rocha@ki.se
+OI Correa Rocha, Luis Enrique/0000-0001-9046-8739; Lambiotte,
+   Renaud/0000-0002-0583-4595
+CR Acuna-Soto R, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023467
+   Afroz R, 2003, ENVIRON RES, V92, P71, DOI 10.1016/S0013-9351(02)00059-2
+   Anderson RM, 1991, INFECT DIS HUMANS DY
+   Antonio FJ, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0111015
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Britton WJ, 2004, LANCET, V363, P1209, DOI 10.1016/S0140-6736(04)15952-7
+   Buch T, 2014, URBAN STUD, V51, P1960, DOI 10.1177/0042098013499796
+   Christakis NA, 2008, NEW ENGL J MED, V358, P2249, DOI 10.1056/NEJMsa0706154
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cyril S, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-513
+   Dalziel BD, 2013, P R SOC B, V280, P1766
+   Eve R. A., 1997, CHAOS COMPLEXITY SOC
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Galea S, 2005, SOC SCI MED, V60, P1017, DOI 10.1016/j.socscimed.2004.06.036
+   Gallos LK, 2012, SCI REP-UK, V2, DOI 10.1038/srep00454
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gubler DJ, 2012, AM J TROP MED HYG, V86, P743, DOI 10.4269/ajtmh.2012.12-0157
+   Jacobs J, 1970, EC CITIES
+   Jahan NK, 2014, BMC PUBLIC HEALTH, V14, DOI 10.1186/1471-2458-14-S2-S8
+   Leon DA, 2008, INT J EPIDEMIOL, V37, P4, DOI 10.1093/ije/dym271
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Malta DC, 2013, CAD SAUDE PUBLICA, V29, P812, DOI 10.1590/S0102-311X2013000400018
+   Martinez J, 2004, DOES LIVING RURAL CO
+   Melo HPM, 2014, SCI REP-UK, V4, DOI 10.1038/srep06239
+   Mitchell M., 2011, COMPLEXITY GUIDED TO
+   National Research Council, 2003, MORT MORB IS CIT LIF
+   O'Malley AJ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036250
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Peen J, 2010, ACTA PSYCHIAT SCAND, V121, P84, DOI 10.1111/j.1600-0447.2009.01438.x
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rydin Y, 2012, LANCET, V379, P2079, DOI 10.1016/S0140-6736(12)60435-8
+   Sarzynski A, 2012, URBAN STUD, V49, P3121, DOI 10.1177/0042098011432557
+   Schlapfer M, 2014, J R SOC INTERFACE, V11
+   Shingleton A, 2010, NAT ED KNOWLEDGE, V3, P2
+   Sornette D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0103023
+   Sundquist K, 2004, BRIT J PSYCHIAT, V184, P293, DOI 10.1192/bjp.184.4.293
+   Um J, 2009, P NATL ACAD SCI USA, V106, P14236, DOI 10.1073/pnas.0901898106
+   UN Department of Economic and Social Affairs Population Division, 2012, WORLD URB PROSP 2011
+   United Nations Department of Economic and Social Affairs Population Division, 2014, WORLD URB PROSP 2014
+   Vigod SN, 2013, CAN MED ASSOC J, V185, P1129, DOI 10.1503/cmaj.122028
+   Vlahov David, 2005, Cad. Saúde Pública, V21, P949, DOI 10.1590/S0102-311X2005000300031
+   Walsh D, 2010, PUBLIC HEALTH, V124, P487, DOI 10.1016/j.puhe.2010.02.006
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+NR 45
+TC 5
+Z9 7
+U1 0
+U2 8
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1099-3460
+EI 1468-2869
+J9 J URBAN HEALTH
+JI J. Urban Health
+PD OCT
+PY 2015
+VL 92
+IS 5
+BP 785
+EP 799
+DI 10.1007/s11524-015-9976-x
+PG 15
+WC Public, Environmental & Occupational Health; Medicine, General &
+   Internal
+SC Public, Environmental & Occupational Health; General & Internal Medicine
+GA CU1AW
+UT WOS:000363252400001
+PM 26245466
+OA Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Prasad, A
+   Kano, M
+   Dagg, KAM
+   Mori, H
+   Senkoro, HH
+   Ardakani, MA
+   Elfeky, S
+   Good, S
+   Engelhardt, K
+   Ross, A
+   Armada, F
+AF Prasad, Amit
+   Kano, Megumi
+   Dagg, Kendra Ann-Masako
+   Mori, Hanako
+   Senkoro, Hawa Hamisi
+   Ardakani, Mohammad Assai
+   Elfeky, Samar
+   Good, Suvajee
+   Engelhardt, Katrin
+   Ross, Alex
+   Armada, Francisco
+TI Prioritizing action on health inequities in cities: An evaluation of
+   Urban Health Equity Assessment and Response Tool (Urban HEART) in 15
+   cities from Asia and Africa
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Health equity; Urbanization; Social determinants of health; Urban HEART;
+   Global health; Urban planning; Asia; Africa
+AB Following the recommendations of the Commission on Social Determinants of Health (2008), the World Health Organization (WHO) developed the Urban Health Equity Assessment and Response Tool (HEART) to support local stakeholders in identifying and planning action on health inequities. The objective of this report is to analyze the experiences of cities in implementing Urban HEART in order to inform how the future development of the tool could support local stakeholders better in addressing health inequities.
+   The study method is documentary analysis from independent evaluations and city implementation reports submitted to WHO. Independent evaluations were conducted in 2011-12 on Urban HEART piloting in 15 cities from seven countries in Asia and Africa: Indonesia, Iran, Kenya, Mongolia, Philippines, Sri Lanka, and Vietnam.
+   Local or national health departments led Urban HEART piloting in 12 of the 15 cities. Other stakeholders commonly engaged included the city council, budget and planning departments, education sector, urban planning department, and the Mayor's office. Ten of the 12 core indicators recommended in Urban HEART were collected by at least 10 of the 15 cities. Improving access to safe water and sanitation was a priority equity-oriented intervention in 12 of the 15 cities, while unemployment was addressed in seven cities.
+   Cities who piloted Urban HEART displayed confidence in its potential by sustaining or scaling up its use within their countries. Engagement of a wider group of stakeholders was more likely to lead to actions for improving health equity. Indicators that were collected were more likely to be acted upon. Quality of data for neighbourhoods within cities was one of the major issues.
+   As local governments and stakeholders around the world gain greater control of decisions regarding their health, Urban HEART could prove to be a valuable tool in helping them pursue the goal of health equity. (C) 2015 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Prasad, Amit; Kano, Megumi; Dagg, Kendra Ann-Masako; Mori, Hanako; Ross, Alex; Armada, Francisco] WHO Ctr Hlth Dev, Kobe, Hyogo, Japan.
+   [Senkoro, Hawa Hamisi] WHO Reg Off Africa, Libreville, Gabon.
+   [Ardakani, Mohammad Assai; Elfeky, Samar] WHO Reg Off Eastern Mediterranean, Cairo, Egypt.
+   [Good, Suvajee] WHO Reg Off South East Asia, New Delhi, India.
+   [Engelhardt, Katrin] WHO Reg Off Western Pacific, Manila, Philippines.
+RP Prasad, A (reprint author), 1-5-1 Wakinohama Kaigandori,9th Floor,IHD Bldg, Kobe, Hyogo 6510073, Japan.
+EM prasada@who.int
+FU World Health Organization [001]
+CR Asadi-Lari M., 2009, OVERVIEW URBAN HEART
+   Basweti M. I., 2009, KENYAAS EXPERIENCE U
+   Centre for Research in Inner City Health, 2014, URB HEART TOR TECHN
+   City of Toronto Social Policy Analysis and Research, 2014, TOR STRONG NEIGHB ST
+   Indonesian Epidemiological Association, 2013, REP DOC EV URB HEART
+   Infore Services, 2013, REP DOC EV URB HEART
+   Mong. Assoc. Environ. Occup. Health, 2011, REP DOC EV URB HEART
+   National Public Health Management Centre and Tabriz University of Medical Sciences, 2013, REP DOC EV URB HEART
+   Nihon Fukushi University, 2012, OLD AD HLTH EQ ASS C
+   Paranaque Urban HEART Team, 2009, FIN FEEDB REP PIL TE
+   Pham Ngoc Thach University of Medicine, 2011, REP DOC EV URB HEART
+   Prasad A, 2013, REV PANAM SALUD PUBL, V34, P407
+   St Michael's Hospital, 2012, URB HEART TOR
+   UN Department of Economic and Social Affairs Population Division, WORLD URB PROSP 2014
+   UN-HABITAT, 2006, STAT WORLDS CIT 2006
+   Univ. Colombo, 2013, REP DOC EV URB HEART
+   University of Philippines, 2013, REP DOC EV URB HEART
+   WHO, 2010, URB HLTH EQ ASS RESP
+   WHO, 2008, CLOS GAP GEN HLTH EQ
+   WHO, 2008, WORLD HLTH REP 2008
+   WHO UN-HABITAT, 2010, HIDD CIT UNM OV HLTH
+   World Health Organization, 2009, 1 M URB HEART AD HOC
+   World Health Organization, 2008, LAUNCH FIN REP COMM
+   World Health Organization, 2009, 2 M URB HEART AD HOC
+   World Health Organization Centre for Health Development, 2008, REP WHO COMM SOC DET
+NR 25
+TC 12
+Z9 12
+U1 4
+U2 37
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD NOV
+PY 2015
+VL 145
+BP 237
+EP 242
+DI 10.1016/j.socscimed.2015.09.031
+PG 6
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA CW5TU
+UT WOS:000365060300031
+PM 26456133
+OA Green Published, Other Gold
+DA 2019-03-26
+ER
+
+PT B
+AU Ndirigwe, J
+   Sindi, K
+   Low, J
+   Shumbusha, D
+   Shingiro, JB
+   Nshimiyimana, JC
+   Hakizimana, S
+   Angsten, A
+AF Ndirigwe, J.
+   Sindi, K.
+   Low, J.
+   Shumbusha, D.
+   Shingiro, J. B.
+   Nshimiyimana, J. C.
+   Hakizimana, S.
+   Angsten, A.
+BE Low, J
+   Nyongesa, M
+   Quinn, S
+   Parker, M
+TI Building a Sustainable Sweetpotato Value Chain: Experience from the
+   Rwanda Sweetpotato Super Foods Project
+SO Potato and Sweetpotato in Africa: Transforming the Value Chains for Food
+   and Nutrition Security
+LA English
+DT Proceedings Paper
+CT 9th Triennial African Potato Association Conference
+CY JUN 30-JUL 04, 2013
+CL Int Potato Ctr, Naivasha, KENYA
+SP African Potato Assoc, Republic of Kenya, Ministry Agr Livestock & Fisheries, Natl Potato Council Kenya
+HO Int Potato Ctr
+DE orange-fleshed sweetpotato (OFSP); propagation; Rwanda; super foods;
+   sweetpotato; value addition
+AB Sweetpotato is widely grown in almost all agroecological zones of Rwanda, where it is prized by most resource-poor farmers as a reliable, low-input, food security crop but with limited commercial potential. The bulkiness, lack of processing technologies and lack of market at the peak of sweetpotato production are reported as major constraints by producers and policy makers for scaling up production. A strategy to promote and make available to farmers disease-free planting material of two elite selected orange-fleshed sweetpotato varieties (Gihingamukungu and Cacearpedo) that yield roots of acceptable consumer quality was initiated and has been adopted by organized farmers' groups in three districts. Processing sweetpotato into products offers the opportunity to increase demand for the crop and create added value. Since 2010, the Rwanda Sweetpotato Super Foods action research project, a collaboration between different stakeholders has been investigating how to connect smallholder sweetpotato producers to agro-processors through effective value chains. Tasty and acceptable sweetpotato products have been developed, processed and promoted among different rural, semi-urban and urban consumers. Farmers in different groups and individual contracted farmers are producing and selling fresh roots. Akarabo Golden Power Biscuits and Mandazi doughnuts are two sweetpotato-based processed products profitably produced and marketed by Urubwitso (SINA) Enterprises.
+C1 [Ndirigwe, J.] Rwanda Agr Board, POB 7231, Kigali, Rwanda.
+   [Low, J.] Int Potato Ctr Subsaharan Africa CIP SSA, Nairobi, Kenya.
+   [Shumbusha, D.; Shingiro, J. B.] RAB, Huye, Rwanda.
+   [Sindi, K.; Nshimiyimana, J. C.] Int Potato Ctr CIP, Kigali, Rwanda.
+   [Hakizimana, S.] Catholic Relief Serv, Kigali, Rwanda.
+   [Angsten, A.] Johns Hopkins Univ, Baltimore, MD 21218 USA.
+RP Ndirigwe, J (reprint author), Rwanda Agr Board, POB 7231, Kigali, Rwanda.
+EM ndrick3@gmail.com; k.sindi@cgiar.org; j.low@cgiar.org; shudam@yahoo.fr;
+   bshingiro2000@yahoo.fr; njclaude5@yahoo.fr; shakizimana@rw.caro.crs.org;
+   anne.angsten@gmail.com
+CR Bovell-Benjamin AC, 2007, ADV FOOD NUTR RES, V52, P1, DOI 10.1016/S1043-4526(06)52001-7
+   Ferris RSB, 2002, SWEET POTATO SUBSECT
+   Food and Agriculture Organization of the United Nations (FAO), 2008, ANN REPORT
+   Institut des Sciences Agronomiques du Rwanda (ISAR), 2006, RAPP ANN
+   Kimura M, 2007, FOOD CHEM, V100, P1734, DOI 10.1016/j.foodchem.2005.10.020
+   Ministry of Agriculture (MINAGRI), 2010, ANN REPORT
+   Ministry of Economics and Finance (MINECOFIN), 2002, ANN REP 2002 MINECOF
+   Ndirigwe J., 2006, THESIS
+   Njeru R.W., 2007, P NAT C AGR RES OUTP, P233
+   Programme d'Appui a la Securite Alimentaire du Rwanda (PASAR), 2002, ANN REPORT
+   Tardif D., 1991, THESIS
+   Thiele G., 2009, UNLEASHING POTENTIAL, P106
+   Tumwegamire S., 2004, African Crop Science Journal, V12, P241
+   World Health Organization, 2009, GLOB PREV VIT A DEF
+NR 14
+TC 0
+Z9 0
+U1 1
+U2 3
+PU CABI PUBLISHING-C A B INT
+PI WALLINGFORD
+PA CABI PUBLISHING, WALLINGFORD 0X10 8DE, OXON, ENGLAND
+BN 978-1-78064-420-2
+PY 2015
+BP 491
+EP 497
+PG 7
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA BF2WG
+UT WOS:000380504000048
+DA 2019-03-26
+ER

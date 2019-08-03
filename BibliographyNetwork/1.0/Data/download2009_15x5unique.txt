@@ -1,0 +1,558 @@
+
+PT J
+AU Rehm, RG
+   Mell, W
+AF Rehm, Ronald G.
+   Mell, William (Ruddy)
+TI A simple model for wind effects of burning structures and topography on
+   wildland-urban interface surface-fire propagation
+SO INTERNATIONAL JOURNAL OF WILDLAND FIRE
+LA English
+DT Article
+CT EastFIRE Conference 2007
+CY JUN 05-08, 2007
+CL Fairfax, VA
+ID SPREAD
+AB The present paper presents a simple model to demonstrate the effect on grass-fire propagation of the winds induced by structural fires in a wildland-urban interface setting. The model combines an empirical formula for wind-driven grass-fire spread and a physics-based analytical solution to the Euler equations to determine the ground-level wind produced by the burning structure. The scaling of the wind is based on the heat release rate of the structural fire as well as other parameters. Also considered are an ambient wind and a topographical wind, assumed to be proportional to the ground slope. Data on grass and structure fires required by the model are discussed. Fire front propagation predicted by this model is illustrated by three examples: a front passing a single burning structure on flat terrain, a front passing a burning structure on a hill, and a front passing several burning structures. The model predicts that a fire front will be accelerated toward the burning structure upon approach and decelerated after passing the structure. Several burning structures multiply the effects of an individual burning structure.
+C1 [Rehm, Ronald G.] Ltd Liability Corp, RGR Consulting, Gaithersburg, MD 20899 USA.
+   [Rehm, Ronald G.; Mell, William (Ruddy)] Natl Inst Stand & Technol, Gaithersburg, MD 20899 USA.
+RP Rehm, RG (reprint author), Ltd Liability Corp, RGR Consulting, Bldg 224,Room B260,100 Bur Dr, Gaithersburg, MD 20899 USA.
+EM ronald.rehm@nist.gov
+CR ALBINI FA, 1984, AM SCI, V72, P590
+   ANDREWS P, 2007, SCI AM           AUG, P47
+   BAUM HR, 1989, FIRE SAFETY SCIENCE - PROCEEDINGS OF THE SECOND INTERNATIONAL SYMPOSIUM, P129
+   BAUM HR, 1994, P COMBUST INST, V25, P1463
+   BERRY A, 2007, FOREST POLICY SMOKE, P1
+   CARLTON D, 2004, BEHAVEPLUS FIRE MODE
+   Cheney NP, 1998, INT J WILDLAND FIRE, V8, P1, DOI 10.1071/WF9980001
+   DOLD J, 2006, 5 INT C FOR FIR RES
+   *ENV LIT COUNC, 2007, FOR FIR
+   Fendell FE, 2001, FOREST FIRES BEHAV E, P171
+   FINNEY MA, 2004, RMRSRP4 USDA FOR SER
+   *GAO, 2005, GAO05380
+   Gustafson EJ, 2005, LANDSCAPE ECOL, V20, P773, DOI 10.1007/s10980-005-2149-7
+   JONES WW, 2004, SPECIAL PUBLICATION, V1030
+   LINN RR, 1997, LA13334T LOS AL NAT
+   McGrattan K, 2007, NIST SPECIAL PUBLICA
+   McGrattan KB, 1996, ATMOS ENVIRON, V30, P4125, DOI 10.1016/1352-2310(96)00151-3
+   Mell W, 2007, INT J WILDLAND FIRE, V16, P1, DOI 10.1071/WF06002
+   MURPHY K, 2007, R5TP025 USDA FOR SER
+   *NAT INT FIR CTR, 2006, HIST SIGN WILDL FIR
+   *NAT INT FIR CTR, 2006, TOT WILDL FIR ACR 19
+   OHLEMILLER T, 1994, COMBUST SCI TECHNOL, V97, P315, DOI 10.1080/00102209408935383
+   Pastor E, 2003, PROG ENERG COMBUST, V29, P139, DOI 10.1016/S0360-1285(03)00017-0
+   Perry GLW, 1998, PROG PHYS GEOG, V22, P222, DOI 10.1191/030913398675585936
+   QUINTIERE JG, 1997, PRINCIPLES FIRE BEHA
+   Radeloff VC, 2005, CONSERV BIOL, V19, P793, DOI 10.1111/j.1523-1739.2005.00387.x
+   REHM RG, 2002, P CAL 2001 WILDF C 1, P126
+   REHM RG, 2006, 06892 GCR NAT I STAN, P1
+   ROTHERMEL R, 1972, INT115 USDA FOR SERV
+   Sethian J., 1999, LEVEL SET METHODS FA
+   Trelles J, 1997, P 5 INT S FIR SAF SC, P911
+   Wolfram S., 1999, MATH BOOK
+NR 32
+TC 10
+Z9 10
+U1 1
+U2 5
+PU CSIRO PUBLISHING
+PI COLLINGWOOD
+PA 150 OXFORD ST, PO BOX 1139, COLLINGWOOD, VICTORIA 3066, AUSTRALIA
+SN 1049-8001
+J9 INT J WILDLAND FIRE
+JI Int. J. Wildland Fire
+PY 2009
+VL 18
+IS 3
+BP 290
+EP 301
+DI 10.1071/WF08087
+PG 12
+WC Forestry
+SC Forestry
+GA 450NE
+UT WOS:000266406600006
+DA 2019-03-26
+ER
+
+PT S
+AU Galster, JC
+AF Galster, Joshua C.
+BE James, LA
+   Rathburn, SL
+   Whittecar, GR
+TI Testing the linear relationship between peak annual river discharge and
+   drainage area using long-term USGS river gauging records
+SO MANAGEMENT AND RESTORATION OF FLUVIAL SYSTEMS WITH BROAD HISTORICAL
+   CHANGES AND HUMAN IMPACTS
+SE Geological Society of America Special Papers
+LA English
+DT Proceedings Paper
+CT Annual Meeting of the Geological-Society-of-America
+CY OCT 28-31, 2007
+CL Denver, CO
+SP Geol Soc Amer
+ID DAMS
+AB River discharge is the fundamental process that operates in a fluvial system. The increase in discharge and drainage area downstream is intuitive, but data sets that describe this increase within individual watersheds are not common. The scaling of discharge and drainage area can be described as Q = kA(c), where Q is river discharge, A is drainage area, and k and c are scaling constants. The variable k is not often illustrative of watershed processes, but the constant c represents the rate at which discharge (Q) increases downstream when compared to drainage area (A). This study compiles the annual peak discharge records of rivers from U. S. Geological Survey (USGS) gauges to determine the rate (c) at which discharge and drainage increase downstream. The peak annual discharge records were selected to represent a variety of watersheds spanning multiple climatic and geographic settings as well as to illustrate the effects of anthropogenic land-use change and river-management practices over the length of the records. It is often assumed that the scaling between discharge and drainage area is linear (c similar to 1), and 16 of these rivers exhibit this behavior over the length of their record. However, most of the rivers studied show nonlinear behavior and/or secular trends in their c values. Eleven rivers have peak annual discharge scaling values (c) of <1, three have c values substantially larger than 1, and ten exhibit secular changes in c over part or all of their records. These nonlinear and changing c values can be attributed to both natural and anthropogenic causes, such as dams, urbanization, and other land-use changes. These c values indicate the need for caution before assuming that discharge and drainage area are linearly related.
+C1 Montclair State Univ, Dept Earth & Environm Studies, Montclair, NJ 07043 USA.
+RP Galster, JC (reprint author), Montclair State Univ, Dept Earth & Environm Studies, 1 Normal Ave, Montclair, NJ 07043 USA.
+EM galsterj@mail.montclair.edu
+CR Bishop P, 2005, EARTH SURF PROC LAND, V30, P767, DOI 10.1002/esp.1191
+   Cinotto P. J., 2003, 034014 US GEOL SURV
+   Dudley R. W., 2005, 20045042 US GEOL SUR
+   Dunne T., 1978, WATER ENV PLANNING
+   Galster JC, 2007, GEOSPHERE, V3, P260, DOI 10.1130/GES00065.1
+   Galster JC, 2006, GEOLOGY, V34, P713, DOI 10.1130/G22633.1
+   Goodrich DC, 1997, WATER RESOUR RES, V33, P2951, DOI 10.1029/97WR01422
+   Graf WL, 2006, GEOMORPHOLOGY, V79, P336, DOI 10.1016/j.geomorph.2006.06.022
+   Gupta VK, 1998, SCALE DEPENDENCE AND SCALE INVARIANCE IN HYDROLOGY, P88, DOI 10.1017/CBO9780511551864.005
+   KOOI H, 1994, J GEOPHYS RES-SOL EA, V99, P12191, DOI 10.1029/94JB00047
+   Magilligan FJ, 2005, GEOMORPHOLOGY, V71, P61, DOI 10.1016/j.geomorph.2004.08.017
+   *NAT CONS, 2005, UPP ET RIV WAT ATL
+   O'Connor JE, 2004, WATER RESOUR RES, V40, DOI 10.1029/2003WR002247
+   Ogden FL, 2003, J HYDROL ENG, V8, P64, DOI 10.1061/(ASCE)1084-0699(2003)8:2(64)
+   Slingerland R. L., 1994, SIMULATING CLASTIC S
+   Solyom PB, 2004, J GEOPHYS RES-EARTH, V109, DOI 10.1029/2003JF000032
+   Tucker GE, 1997, WATER RESOUR RES, V33, P2031, DOI 10.1029/97WR00409
+   Whipple KX, 2004, ANNU REV EARTH PL SC, V32, P151, DOI 10.1146/annurev.earth.32.101802.120356
+NR 18
+TC 2
+Z9 2
+U1 0
+U2 4
+PU GEOLOGICAL SOC AMER INC
+PI BOULDER
+PA 3300 PENROSE PL, PO BOX 9140, BOULDER, CO 80301 USA
+SN 0072-1077
+BN 978-0-8137-2451-5
+J9 GEOL SOC AM SPEC PAP
+PY 2009
+VL 451
+BP 159
+EP 171
+DI 10.1130/2009.2451(11)
+PG 13
+WC Geology; Geosciences, Multidisciplinary
+SC Geology
+GA BMN95
+UT WOS:000273004100012
+DA 2019-03-26
+ER
+
+PT J
+AU Pina, V
+   Torres, L
+   Royo, S
+AF Pina, Vicente
+   Torres, Lourdes
+   Royo, Sonia
+TI E-government evolution in EU local governments: a comparative
+   perspective
+SO ONLINE INFORMATION REVIEW
+LA English
+DT Article
+DE Public administration style; Econometrics; European Union; Local
+   government
+ID CHEMICAL DATABASES; WEBSITE OPENNESS; INFORMATION; WEB; ACCOUNTABILITY;
+   MANAGEMENT; CITIES; SERVICES; RANKING
+AB Purpose - The purpose of this paper is to describe an empirical study of the advances and trends of e-government in transparency, openness and hence accountability in European Union (EU) local governments to determine the extent to which the internet promotes the convergence towards more transparent and accountable government. The paper also tests the extent to which different factors related to the implementation of information and communication technologies (ICTs), the number of inhabitants and the type of public administration style have influenced e-government developments in the cities studied.
+   Design/methodology/approach - A comprehensive content analysis of 75 local government web sites was conducted using a 73-item evaluation questionnaire. The evaluations were performed in 2004 and 2007 and 15 EU countries were covered (five per country). To analyse the evolution of e-government, several techniques were used: tests of difference of means, multidimensional scaling and cluster analysis. The contribution of the different contextual factors to the development of government web sites was tested with OLS regression analysis.
+   Findings - The results show noticeable progress in the application of ICTs and increasing EU local government concern for bringing government closer to citizens and for giving an image of modernity and responsiveness, although few web sites show clear signs of real openness to encouraging citizen dialogue. The evolution of the e-government initiatives analysed shows that, at present, they are still overlapped with the public administration style of each country as an extension of traditional front offices with potential benefits in speed and accessibility.
+   Originality/value - Although a growing number of e-government studies are appearing, previous research has not analysed the evolution of EU local governments from a comparative perspective.
+C1 [Pina, Vicente; Torres, Lourdes; Royo, Sonia] Univ Zaragoza, Dept Accounting & Finance, Zaragoza, Spain.
+RP Royo, S (reprint author), Univ Zaragoza, Dept Accounting & Finance, Zaragoza, Spain.
+EM sroyo@unizar.es
+RI Pina, Vicente/Q-9395-2018; Royo, Sonia/K-5916-2014; Torres,
+   Lourdes/Q-9636-2018
+OI Pina, Vicente/0000-0002-9416-2224; Royo, Sonia/0000-0001-5162-1446;
+   Torres, Lourdes/0000-0003-4623-1448
+FU Spanish National RD Plan [SEJ2007-62215-ECON/FEDER]
+FX This study has been carried out with the financial support of the
+   Spanish National R&D Plan through research project
+   SEJ2007-62215-ECON/FEDER.
+CR *ACC, 2001, RHET VS REAL CLOS GA
+   *ACC, 2003, EGOVERNMENT LEAD ENG
+   Accenture, 2005, LEAD CUST SERV NEW E
+   Accenture, 2004, EGOVERNMENT LEAD HIG
+   Accenture, 2002, EGOVERNMENT LEAD REA
+   Arabie P, 1987, 3 WAY SCALING CLUSTE
+   Bruggemann R, 2003, J CHEM INF COMP SCI, V43, P1771, DOI 10.1021/ci0300083
+   CABA C, 2005, GOVT INFORM Q, V22, P258, DOI DOI 10.1016/J.GIQ.2005.02.002
+   *CAPGEMINI, 2006, ONL AV PUBL SERV IS
+   CapGemini, 2007, US CHALL BENCHM SUPP
+   CARROLL JD, 1980, ANNU REV PSYCHOL, V31, P607, DOI 10.1146/annurev.ps.31.020180.003135
+   *CGE Y, 2005, ONL AV PUBL SERV IS
+   *CGE Y, 2003, OV REP OCT 2001 OCT
+   *CGE Y, 2003, WEB BAS SURV EL PUBL
+   *CGE Y, 2001, WEB BAS SURV EL PUBL
+   *CGE Y, 2002, WEB BAS SURV EL PUBL
+   CLIFT S, 2003, E DEM E GOV PUBL NET
+   CyPRG, 2001, WEB ATTR EV SYST WAE
+   DEMCHAK CC, 2000, HDB PUBL INFORM SYST
+   Dente B., 1988, DYNAMICS I CHANGE LO
+   DIMAGGIO PJ, 1983, AM SOCIOL REV, V48, P147, DOI 10.2307/2095101
+   DIMAGGIO PJ, 2001, NEW I ORG ANAL, P1
+   DUNLEAVY P, 1994, PUBLIC MONEY MANAGE, V14, P9, DOI 10.1080/09540969409387823
+   DUNLEAVY P, 2002, GOVT WEB 2
+   *EIU, 2004, E GOV CENTR EUR RETH
+   Eschenfelder KR, 1997, GOV INFORM Q, V14, P173, DOI 10.1016/S0740-624X(97)90018-6
+   Gandia JL, 2008, ONLINE INFORM REV, V32, P35, DOI 10.1108/14684520810865976
+   Hammerschmid G., 2003, EUR GROUP PUBL ADM A
+   Ho ATK, 2002, PUBLIC ADMIN REV, V62, P434
+   HOLZER M., 2006, DIGITAL GOVERNANCE M
+   HOOD C, 1995, PUBLIC ADMIN, V73, P165, DOI 10.1111/j.1467-9299.1995.tb00822.x
+   *IBM, 2002, IBM END SER BUS GOV
+   JOHNSEN A, 2005, EUR GROUP PUBL ADM A
+   Johnson C. L., 2002, ENHANCING E SERVICE
+   Kaylor C, 2001, GOV INFORM Q, V18, P293, DOI 10.1016/S0740-624X(01)00089-2
+   KICKERT W, 1997, PUBLIC MANAGEMENT AD, P15
+   Kim S., 2003, DIGITAL GOVERNANCE M
+   Kim S.-T., 2008, DIGITAL GOVERNANCE M
+   Koppell JS, 2005, PUBLIC ADMIN REV, V65, P94, DOI 10.1111/j.1540-6210.2005.00434.x
+   Kramer K., 1997, J PUBL ADM RES THEOR, V7, P89
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P115, DOI 10.1007/BF02289694
+   La Porte TM, 2002, ADMIN SOC, V34, P411, DOI 10.1177/0095399702034004004
+   Lerche D, 2002, J CHEM INF COMP SCI, V42, P1086, DOI 10.1021/ci010268p
+   MARKOFF J, 2000, TIMES           0216
+   MELLO J, 2000, BUILDING BETTER BURE
+   MOLINERO CM, 1991, 916 U SOUTH DEP ACC
+   Moya-Anegon F, 2006, J INF SCI, V32, P63, DOI 10.1177/0165551506059226
+   Mutz D. C., 1999, C DECLINE PUBLIC TRU, P79
+   Noordhoek P., 2004, 9 C INT CLAD REF EST
+   Norris DF, 2005, PUBLIC ADMIN REV, V65, P64, DOI 10.1111/j.1540-6210.2005.00431.x
+   NORRIS P, 2004, BUILDING KNOWLEDGE S
+   Nye Joseph S., 1997, WHY PEOPLE DONT TRUS, P1
+   O'Sullivan E, 2007, RES METHODS PUBLIC A
+   OAKLEY K, 2002, E GOV WORKSH STRASB
+   OLIVER F, 1991, CLIN EXP DERMATOL, V16, P1, DOI 10.1111/j.1365-2230.1991.tb00282.x
+   Page B, 2003, ONLINE INFORM REV, V27, P37, DOI 10.1108/14684520310462554
+   PETERS BG, 1999, AM PUBLIC POLICY PRO
+   Pina V., 2007, CRIT PERSPECT, V18, P583, DOI DOI 10.1016/J.CPA.2006.01.012
+   Pollitt C., 2000, PUBLIC MANAGEMENT RE
+   RANEY R, 2000, NY TIMES        0511
+   Restrepo G, 2008, ENVIRON SCI TECHNOL, V42, P2925, DOI 10.1021/es7026289
+   RIBEIRO JA, 2006, 29 ANN EUR ACC ASS C
+   Rodriguez M. P., 2006, INT REV ADM SCI, V72, P269
+   Rogers E.M., 1995, DIFFUSION INNOVATION
+   Rouban L., 1997, PUBLIC MANAGEMENT AD, P141
+   Safizadeh MH, 1996, EUR J OPER RES, V92, P54, DOI 10.1016/0377-2217(95)00190-5
+   Sanderson I, 1996, LOCAL GOV STUD, V22, P59
+   Sanderson I, 2001, PUBLIC ADMIN, V79, P297, DOI 10.1111/1467-9299.00257
+   Schedler K., 2004, INT PUBLIC MANAGEMEN, V5
+   Scott JK, 2006, PUBLIC ADMIN REV, V66, P341, DOI 10.1111/j.1540-6210.2006.00593.x
+   Serrano-Cinca C, 2003, J INTELLECTUAL CAPIT, V4, P249
+   Steyaert J, 2000, SOC SCI COMPUT REV, V18, P3, DOI 10.1177/089443930001800101
+   Stowers GNL, 1999, GOV INFORM Q, V16, P111, DOI 10.1016/S0740-624X(99)80003-3
+   The United Nations, 2003, WORLD PUBL SECT REP
+   Torres L, 2006, GOVERNANCE, V19, P277, DOI 10.1111/j.1468-0491.2006.00315.x
+   Torres L, 2005, GOV INFORM Q, V22, P217, DOI 10.1016/j.giq.2005.02.004
+   Torres L, 2004, AUST J PUBL ADMIN, V63, P99, DOI 10.1111/j.1467-8500.2004.00394.x
+   *UN, 2004, GLOB E GOV RAD REP A
+   UN/ASPA, 2002, BENCHM E GOV GLOB PE
+   United Nations, 2008, UN E GOV SURV 2008 E
+   United Nations, 2005, GLOB E GOV READ REP
+   *USGAO, 2000, GAOAIMD0057
+   Voigt K, 2006, ONLINE INFORM REV, V30, P8, DOI 10.1108/14684520610650273
+   Voigt K, 2002, ONLINE INFORM REV, V26, P172, DOI 10.1108/14684520210432468
+   Welch EW, 2005, J PUBL ADM RES THEOR, V15, P371, DOI 10.1093/jopart/mui02l
+   Welch EW, 2001, J PUBL ADM RES THEOR, V11, P509, DOI 10.1093/oxfordjournals.jpart.a003513
+   West A, 2004, CHEM WORLD-UK, V1, P15
+   Wong W, 2004, GOVERNANCE, V17, P275, DOI 10.1111/j.1468-0491.2004.00246.x
+NR 88
+TC 48
+Z9 48
+U1 3
+U2 29
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 1468-4527
+EI 1468-4535
+J9 ONLINE INFORM REV
+JI Online Inf. Rev.
+PY 2009
+VL 33
+IS 6
+BP 1137
+EP 1168
+DI 10.1108/14684520911011052
+PG 32
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+SC Computer Science; Information Science & Library Science
+GA 545TI
+UT WOS:000273759300008
+DA 2019-03-26
+ER
+
+PT J
+AU Vaughan, IP
+   Diamond, M
+   Gurnell, AM
+   Hall, KA
+   Jenkins, A
+   Milner, NJ
+   Naylor, LA
+   Sear, DA
+   Woodward, G
+   Ormerod, SJ
+AF Vaughan, I. P.
+   Diamond, M.
+   Gurnell, A. M.
+   Hall, K. A.
+   Jenkins, A.
+   Milner, N. J.
+   Naylor, L. A.
+   Sear, D. A.
+   Woodward, G.
+   Ormerod, S. J.
+TI Integrating ecology with hydromorphology: a priority for river science
+   and management
+SO AQUATIC CONSERVATION-MARINE AND FRESHWATER ECOSYSTEMS
+LA English
+DT Review
+DE ecology; geomorphology; hydrology; hydromorphology; rivers; Water
+   Framework Directive
+ID TAGLIAMENTO RIVER; GRAVEL-BED; LONG-TERM; LAND-USE; STREAM; WATER;
+   HABITAT; LANDSCAPE; UNCERTAINTY; SYSTEMS
+AB 1. The assessment of links between ecology and physical habitat has become a major issue in river research and management. Key drivers include Concerns about the conservation implications of human modifications (e.g. abstraction, climate change) and the explicit need to understand the ecological importance of hydromorphology as prescribed by the EU's Water Framework Directive. Efforts are focusing Oil the need to develop 'ecohydromorphology' at the interface between ecology, hydrology and fluvial geomorphology. Here. the scope of this emerging field is defined. some research and development issues are suggsted, and a path for development is sketched Out.
+   2. In the short term. major research priorities are to use existing literature or data better to identify patterns among organisms, ecological functions and river hydromorphological character. Another early priority is to identify model systems or organisms to act as research foci. In the medium term, the investigation of pattern-processes linkages. spatial structuring, scaling relationships and system dynamics will advance mechanistic understanding. The effects of climate change. abstraction and river regulation, eco-hydromorphic resistance/resilience. and responses to environmental disturbances are likely to be management priorities. Large-scale catchment projects. in both rural and urban locations. Should be promoted to concentrate collaborative efforts. to attract financial Support and to raise the profile of eco-hydromorphology.
+   3. Eco-hydromorphological expertise is Currently fragmented across the main coil tributory disciplines (ecology. hydrology. geomorphology, flood risk management, civil engineering), potentially, restricting, research and development. This is paradoxical given the shared vision across these fields for effective river management based on good science with social impact. A range of approaches is advocated to build sufficient. integrated capacity that will deliver science of real management value over the coming decades. Copyright (C) 2008 John Wiley & Sons. Ltd.
+C1 [Vaughan, I. P.; Ormerod, S. J.] Cardiff Univ, Cardiff Sch Biosci, Catchment Res Grp, Cardiff CF10 3US, S Glam, Wales.
+   [Diamond, M.; Hall, K. A.] Environm Agcy, NW Reg, Richard Fairclough House, Warrington WA4 1HG, Cheshire, England.
+   [Gurnell, A. M.] Kings Coll London, Dept Geog, London WC2R 2LS, England.
+   [Jenkins, A.] Ctr Ecol & Hydrol, Wallingford OX10 8BB, Oxon, England.
+   [Milner, N. J.] Univ Bangor, Sch Biol Sci, Environm Agcy, Natl Fisheries Tech Team, Bangor LL57 2UW, Gwynedd, Wales.
+   [Naylor, L. A.] Univ Exeter, Dept Geog, Penryn TR10 9EZ, Cornwall, England.
+   [Sear, D. A.] Univ Southampton, Sch Geog, Highfield SO17 1BJ, Hants, England.
+   [Woodward, G.] Queen Mary Univ London, Sch Biol & Chem Sci, London E1 4NS, England.
+RP Vaughan, IP (reprint author), Cardiff Univ, Cardiff Sch Biosci, Catchment Res Grp, Cardiff CF10 3US, S Glam, Wales.
+EM vaughanip@cardiff.ac.uk
+RI Jenkins, Alan/I-8742-2012; Woodward, Guy/G-7103-2011; Ormerod,
+   Steve/A-4326-2010; Naylor, Larissa/E-7301-2014; Sear, David/J-6333-2012;
+   Vaughan, Ian/A-4782-2010
+OI Ormerod, Steve/0000-0002-8174-302X; Naylor, Larissa/0000-0002-4065-2674;
+   Vaughan, Ian/0000-0002-7263-3822
+FU Natural Environment Research Council [R8-H12-01]; English Nature;
+   Environment Agency; Natural Environment Research Council [CEH010022]
+FX This paper resulted from a worksho (Linking Physical Habitat Structure
+   to Riverine Biodiversity) held as part of the UK Population Biology
+   Network (UK Pop Net), funded by the Natural Environment Research Council
+   (Agreement R8-H12-01) and English Nature. Further funding was provided
+   by the Environment Agency. We wish to thank all of the workshop
+   particicpants for valuable discussion and ideas, as well as Professor
+   Philip Boon and two anonymous referees, all of whose comments enabled us
+   to make valuable improvements to the manuscript.
+CR Allan J. D., 1995, STREAM ECOLOGY STRUC
+   Allan JD, 2004, ANNU REV ECOL EVOL S, V35, P257, DOI 10.1146/annurev.ecolsys.35.120202.110122
+   Arnold CL, 2000, PHOTOGRAMM ENG REM S, V66, P1251
+   Bardonnet A, 2000, CAN J FISH AQUAT SCI, V57, P497, DOI 10.1139/cjfas-57-2-497
+   Battin TJ, 2003, NATURE, V426, P439, DOI 10.1038/nature02152
+   Benda LE, 2002, BIOSCIENCE, V52, P1127, DOI 10.1641/0006-3568(2002)052[1127:HTATWW]2.0.CO;2
+   Birks HH, 1988, CULTURAL LANDSCAPE P
+   Booker DJ, 2004, ECOL MODEL, V177, P157, DOI 10.1016/j.ecolmodel.2004.02.006
+   Bormann F. H., 1979, PATTERN PROCESS FORE
+   BOULTON AJ, 1992, ECOLOGY, V73, P2192, DOI 10.2307/1941467
+   Bradley DC, 2002, FRESHWATER BIOL, V47, P161, DOI 10.1046/j.1365-2427.2002.00770.x
+   Brierley G, 2006, AREA, V38, P165, DOI 10.1111/j.1475-4762.2006.00671.x
+   Brown AG, 2002, FRESHWATER BIOL, V47, P817, DOI 10.1046/j.1365-2427.2002.00907.x
+   BRUNSDEN D, 1979, T I BRIT GEOGR, V4, P463, DOI 10.2307/622210
+   CARTER S P, 1989, Regulated Rivers Research and Management, V4, P191, DOI 10.1002/rrr.3450040211
+   CHAMBERS PA, 1991, ECOL APPL, V1, P249, DOI 10.2307/1941754
+   Clark MJ, 2002, AQUAT CONSERV, V12, P471, DOI 10.1002/aqc.530
+   Clark MJ, 2002, AQUAT CONSERV, V12, P347, DOI 10.1002/aqc.531
+   Clarke SJ, 2003, AQUAT CONSERV, V13, P439, DOI 10.1002/aqc.591
+   Clifford NJ, 2005, HYDROL PROCESS, V19, P3631, DOI 10.1002/hyp.5855
+   Cooper DJ, 2003, J ECOL, V91, P182, DOI 10.1046/j.1365-2745.2003.00766.x
+   Davies NM, 2000, FRESHWATER BIOL, V45, P343, DOI 10.1046/j.1365-2427.2000.00625.x
+   Defra, 2004, MAK SPAC WAT DEV NEW
+   Dent CL, 2002, PHILOS T ROY SOC B, V357, P635, DOI 10.1098/rstb.2001.0991
+   DOWNS PW, 1995, PROF GEOGR, V47, P168, DOI 10.1111/j.0033-0124.1995.00168.x
+   Durance I, 2007, GLOBAL CHANGE BIOL, V13, P942, DOI 10.1111/j.1365-2486.2007.01340.x
+   Durance I, 2006, RIVER RES APPL, V22, P1143, DOI 10.1002/rra.965
+   EDWARDS RW, 1968, P INT C WAT POLL RES, P319
+   EDWARDS RW, 1990, ACID WATERS WALES
+   Ehlers M, 2006, PHOTOGRAMM ENG REM S, V72, P835, DOI 10.14358/PERS.72.7.835
+   Eisen-Hecht JI, 2002, J AM WATER RESOUR AS, V38, P453, DOI 10.1111/j.1752-1688.2002.tb04329.x
+   Eyre MD, 2002, AQUAT CONSERV, V12, P553, DOI 10.1002/aqc.519
+   Fagan WF, 2002, ECOLOGY, V83, P3243, DOI 10.2307/3072074
+   *FBA, 2005, REV FRESHW EC UK
+   Foote KE, 1999, J GEOGR, V98, P108, DOI 10.1080/00221349908978869
+   FRISSELL CA, 1986, ENVIRON MANAGE, V10, P199, DOI 10.1007/BF01867358
+   FULLER IC, 2002, SPECIAL PUBLICATION, V191, P115
+   Gaston KJ, 1999, OIKOS, V84, P353, DOI 10.2307/3546417
+   Gilvear DJ, 2004, RIVER RES APPL, V20, P795, DOI 10.1002/rra.792
+   Graham MH, 2003, ECOLOGY, V84, P2809, DOI 10.1890/02-3114
+   Gran K, 2001, WATER RESOUR RES, V37, P3275, DOI 10.1029/2000WR000203
+   Groffman P, 2006, ECOSYSTEMS, V9, P1, DOI 10.1007/s10021-003-0142-z
+   Gunderson LH, 2000, ANNU REV ECOL SYST, V31, P425, DOI 10.1146/annurev.ecolsys.31.1.425
+   Gurnell AM, 2002, FRESHWATER BIOL, V47, P581, DOI 10.1046/j.1365-2427.2002.00923.x
+   Gurnell AM, 2002, FRESHWATER BIOL, V47, P601, DOI 10.1046/j.1365-2427.2002.00916.x
+   Gurnell AM, 2000, HYDROL PROCESS, V14, P2813, DOI 10.1002/1099-1085(200011/12)14:16/17<2813::AID-HYP120>3.0.CO;2-Q
+   Gustafson EJ, 1998, ECOSYSTEMS, V1, P143, DOI 10.1007/s100219900011
+   Halpern BS, 2006, ECOL LETT, V9, P2, DOI 10.1111/j.1461-0248.2005.00827.x
+   Hannah DM, 2004, HYDROL PROCESS, V18, P3439, DOI 10.1002/hyp.5761
+   Holling C.S., 1973, Annual Rev Ecol Syst, V4, P1, DOI 10.1146/annurev.es.04.110173.000245
+   Hynes H. B. N., 1960, BIOL POLLUTED WATERS
+   Jackson RB, 2001, ECOL APPL, V11, P1027, DOI 10.1890/1051-0761(2001)011[1027:WIACW]2.0.CO;2
+   Johnson PA, 2001, J AM WATER RESOUR AS, V37, P1225, DOI 10.1111/j.1752-1688.2001.tb03634.x
+   JUNK W J, 1989, Canadian Special Publication of Fisheries and Aquatic Sciences, V106, P110
+   Kay AL, 2006, J HYDROL, V318, P163, DOI 10.1016/j.jhydrol.2005.06.013
+   Kruk A, 2003, ANN LIMNOL-INT J LIM, V39, P197, DOI 10.1051/limn/2003016
+   Kuby MJ, 2005, ADV WATER RESOUR, V28, P845, DOI 10.1016/j.advwatres.2004.12.015
+   Lamarre H, 2005, J SEDIMENT RES, V75, P736, DOI 10.2110/jsr.2005.059
+   Lane SN, 2003, EARTH SURF PROC LAND, V28, P249, DOI 10.1002/esp.483
+   Langhans SD, 2006, OECOLOGIA, V147, P501, DOI 10.1007/s00442-005-0282-2
+   Leopold L. B., 1957, US GEOL SURV PROF  B, P39
+   LINDSAY RM, 1993, AM STAT, V47, P217, DOI 10.2307/2684982
+   Lucas PJ, 2000, LIBRARY, V1, P3, DOI 10.1093/library/1.1.3
+   MADSEN TV, 1993, PLANT CELL ENVIRON, V16, P317, DOI 10.1111/j.1365-3040.1993.tb00875.x
+   Malmqvist B, 2002, FRESHWATER BIOL, V47, P679, DOI 10.1046/j.1365-2427.2002.00895.x
+   MARTINEZ PJ, 1994, ENVIRON BIOL FISH, V40, P227, DOI 10.1007/BF00002509
+   Mccaffrey KJW, 2005, J GEOL SOC LONDON, V162, P927, DOI 10.1144/0016-764905-017
+   Melo AS, 2003, CAN J FISH AQUAT SCI, V60, P731, DOI 10.1139/F03-061
+   Morita K, 2002, ECOL MODEL, V155, P85, DOI 10.1016/S0304-3800(02)00128-X
+   Mourato S, 2005, WATER INT, V30, P174, DOI 10.1080/02508060508691858
+   Myers T, 1996, PHYS GEOGR, V17, P431, DOI 10.1080/02723646.1996.10642594
+   Nakano S, 2001, P NATL ACAD SCI USA, V98, P166, DOI 10.1073/pnas.98.1.166
+   Nijboer RC, 2004, HYDROBIOLOGIA, V516, P91, DOI 10.1023/B:HYDR.0000025260.30930.f4
+   Noffke N, 2005, PALAEOGEOGR PALAEOCL, V219, P1, DOI 10.1016/j.palaeo.2004.10.010
+   O'Neill RV, 1989, LANDSCAPE ECOL, V3, P193, DOI 10.1007/BF00131538
+   O'Neill RV, 1988, LANDSCAPE ECOL, V1, P153, DOI 10.1007/BF00162741
+   PARSONS D, 2004, RIVERFLOW2004, P49
+   Parsons M, 2003, J N AM BENTHOL SOC, V22, P105, DOI 10.2307/1467981
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   PECKARSKY BL, 1991, CAN J FISH AQUAT SCI, V48, P1069, DOI 10.1139/f91-126
+   Percival E, 1929, J ECOL, V17, P282, DOI 10.2307/2256044
+   PHILLIPS JD, 1992, GEOMORPHOLOGY, V5, P219, DOI 10.1016/0169-555X(92)90005-9
+   Phillips JD, 2005, PROF GEOGR, V57, P83
+   Poff NL, 1997, BIOSCIENCE, V47, P769, DOI 10.2307/1313099
+   POWER ME, 1987, AM MIDL NAT, V117, P333, DOI 10.2307/2425975
+   Pugesek B. H., 2003, STRUCTURAL EQUATION
+   Rashleigh B, 2005, ECOL MODEL, V187, P247, DOI 10.1016/j.ecolmodel.2005.01.047
+   Raven PJ, 2006, AQUAT CONSERV, V16, P109, DOI 10.1002/aqc.770
+   Reckendorfer W, 1999, FRESHWATER BIOL, V41, P583, DOI 10.1046/j.1365-2427.1999.00412.x
+   Regan HM, 2005, ECOL APPL, V15, P1471, DOI 10.1890/03-5419
+   Riley CFC, 1921, ECOLOGY, V2, P32, DOI 10.2307/1929526
+   Rogers KH, 2006, RIVER RES APPL, V22, P269, DOI 10.1002/rra.910
+   Schiemer F., 2001, Archiv fuer Hydrobiologie Supplement, V135, P509
+   SCHUMM SA, 1979, T I BRIT GEOGR, V4, P485, DOI 10.2307/622211
+   Schumn SA, 1963, US GEOLOGICAL SURV D, P71
+   Sear DA, 2006, CATENA, V66, P169, DOI 10.1016/j.catena.2005.11.009
+   SEAR DA, 1994, AQUAT CONSERV, V4, P169, DOI 10.1002/aqc.3270040207
+   SEAR DA, GRAVEL BED RIVERS DY
+   Sheffer NA, 2003, WATER RESOUR RES, V39, DOI 10.1029/2003WR002468
+   Shipley B., 2000, CAUSE CORRELATION BI
+   Sloan J, 2001, GEOMORPHOLOGY, V36, P129, DOI 10.1016/S0169-555X(00)00037-4
+   Stallins JA, 2006, GEOMORPHOLOGY, V77, P207, DOI 10.1016/j.geomorph.2006.01.005
+   Sutherland WJ, 2006, J APPL ECOL, V43, P599, DOI 10.1111/j.1365-2664.2006.01182.x
+   Sutherland WJ, 2004, TRENDS ECOL EVOL, V19, P305, DOI 10.1016/j.tree.2004.03.018
+   Symstad AJ, 2003, BIOSCIENCE, V53, P89, DOI 10.1641/0006-3568(2003)053[0089:LTALSP]2.0.CO;2
+   Thoms MC, 2006, RIVER RES APPL, V22, P115, DOI 10.1002/rra.900
+   Tiegs SD, 2005, GEOMORPHOLOGY, V69, P14, DOI 10.1016/j.geomorph.2004.12.002
+   Tockner K, 2003, AQUAT SCI, V65, P239, DOI 10.1007/s00027-003-0699-9
+   Tockner K, 2000, HYDROL PROCESS, V14, P2861, DOI 10.1002/1099-1085(200011/12)14:16/17<2861::AID-HYP124>3.0.CO;2-F
+   TOWNSEND CR, 1994, FRESHWATER BIOL, V31, P265, DOI 10.1111/j.1365-2427.1994.tb01740.x
+   van Asselt MBA, 2002, CLIMATIC CHANGE, V54, P75, DOI 10.1023/A:1015783803445
+   van der Nat D, 2002, ECOSYSTEMS, V5, P636, DOI 10.1007/s10021-002-0170-0
+   Vaughan IP, 2005, J APPL ECOL, V42, P487, DOI 10.1111/j.1365-2664.2005.01038.x
+   Vaughan IP, 2003, CONSERV BIOL, V17, P1601, DOI 10.1111/j.1523-1739.2003.00359.x
+   Viles H.A, 1988, BIOGEOMORPHOLOGY
+   Ward James V., 2001, Ecohydrology and Hydrobiology, V1, P25
+   Wassen MJ, 1996, VEGETATIO, V126, P1
+   Wiens JA, 2002, FRESHWATER BIOL, V47, P501, DOI 10.1046/j.1365-2427.2002.00887.x
+   WIENS JA, 1989, FUNCT ECOL, V3, P385, DOI 10.2307/2389612
+   Wiley MJ, 1997, FRESHWATER BIOL, V37, P133, DOI 10.1046/j.1365-2427.1997.00152.x
+   Willis KG, 1999, J ENVIRON MANAGE, V57, P71, DOI 10.1006/jema.1999.0292
+   Wofford JEB, 2005, ECOL APPL, V15, P628, DOI 10.1890/04-0095
+   Woodward G, 2002, FRESHWATER BIOL, V47, P777, DOI 10.1046/j.1365-2427.2002.00908.x
+NR 123
+TC 152
+Z9 155
+U1 15
+U2 168
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1052-7613
+J9 AQUAT CONSERV
+JI Aquat. Conserv.-Mar. Freshw. Ecosyst.
+PD JAN-FEB
+PY 2009
+VL 19
+IS 1
+BP 113
+EP 125
+DI 10.1002/aqc.895
+PG 13
+WC Environmental Sciences; Marine & Freshwater Biology; Water Resources
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology; Water
+   Resources
+GA 396UF
+UT WOS:000262616000013
+OA Green Published, Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Pfeffer, A
+   Das, S
+   Lawles, D
+   Ng, B
+AF Pfeffer, Avi
+   Das, Subrata
+   Lawles, David
+   Ng, Brenda
+TI Factored reasoning for monitoring dynamic team and goal formation
+SO INFORMATION FUSION
+LA English
+DT Article
+DE Particle filtering; Goal detection; Threat detection; Multiagent
+   tracking
+AB We study the problem of monitoring goals, team structure and state of agents, in dynamic systems where teams and goals change over time. The setting for our study is an asymmetric urban warfare environment in which uncoordinated or loosely coordinated units may attempt to attack an important target. The task is to detect a threat Such as an ambush, as early as possible. We attempt to provide decision-makers with early warnings, by simultaneously monitoring the positions of units, the teams to which they belong, and the goals of units. The hope is that we can detect situations in which teams of units simultaneously make movements headed towards a target, and we can detect their goal before they get to the target. By reasoning about teams, we may be able to detect threats sooner than if we reasoned about units individually. We develop a model in which the state space is decomposed into individual units' positions, team assignments and team goals. When a unit belongs to a team it adopts the team's goal. An individual unit's movement depends only on its own goal, but different units interact as they form teams and adopt new goals. We present an algorithm that simultaneously tracks the positions of units, the team structure and team goals. Goals are inferred from two sources: individual units' behavior, which provides information about their goals, and communications by units, which provides evidence about team formation. Our algorithm reasons globally about interactions between units and team formation, and locally about individual units' behavior. We show that our algorithm performs well at the task, scaling to twenty units. It performs significantly better than several alternative algorithms: standard particle filtering, standard factored particle filtering, and an algorithm that performs all reasoning locally within the units. (C) 2008 Elsevier B.V. All rights reserved.
+C1 [Pfeffer, Avi] Harvard Univ, Sch Engn & Appl Sci, Cambridge, MA 02138 USA.
+   [Ng, Brenda] Lawrence Livermore Natl Lab, Livermore, CA USA.
+RP Pfeffer, A (reprint author), Harvard Univ, Sch Engn & Appl Sci, Cambridge, MA 02138 USA.
+EM avi@eecs.harvard.edu
+FU ONR; OSD
+FX This work has been performed under several contracts funded by ONR and
+   OSD, with special thanks to Dr. Wendy Martinez.
+CR BOYEN X, 1998, UNCERTAINTY ARTIFICI
+   DAS S, 2005, INT C INF FUS
+   DEVANEY M, 2003, THESIS COLL COMPUTIN
+   Doucet A., 2001, SEQUENTIAL MONTE CAR
+   HONGENG S, 2001, INT C COMP VIS
+   INTILLE SS, 1999, NAT C ART INT AAAI
+   Isard M, 1998, INT J COMPUT VISION, V29, P5, DOI 10.1023/A:1008078328650
+   KAHN Z, 2004, EUR C COMP VIS ECCV
+   KANAZAWA K, 1995, UNCERTAINTY ARTIFICI
+   LIU X, 2003, INT C COMP VIS
+   NG B, 2002, UNCERTAINTY ARTIFICI
+   SURIA S, 2004, INT C AUT PLANN SCH
+NR 12
+TC 12
+Z9 12
+U1 0
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1566-2535
+J9 INFORM FUSION
+JI Inf. Fusion
+PD JAN
+PY 2009
+VL 10
+IS 1
+SI SI
+BP 99
+EP 106
+DI 10.1016/j.inffus.2008.05.005
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA 368TD
+UT WOS:000260644500008
+DA 2019-03-26
+ER

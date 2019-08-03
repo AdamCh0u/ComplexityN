@@ -1,0 +1,558 @@
+
+PT J
+AU Vergara, M
+   Cushman, SA
+   Urra, F
+   Ruiz-Gonzalez, A
+AF Vergara, Maria
+   Cushman, Samuel A.
+   Urra, Fermin
+   Ruiz-Gonzalez, Aritz
+TI Shaken but not stirred: multiscale habitat suitability modeling of
+   sympatric marten species (Martes martes and Martes foina) in the
+   northern Iberian Peninsula
+SO LANDSCAPE ECOLOGY
+LA English
+DT Article
+DE HSM; Scale dependency; Sampling bias; Niche divergence; Maxent; Pine
+   marten; Stone marten
+ID STONE MARTENS; SAMPLING BIAS; SPATIAL SCALE; CENTRAL SPAIN;
+   DISTRIBUTIONS; MAXENT; SELECTION; PATTERNS; FOREST; CARNIVORES
+AB Multispecies and multiscale habitat suitability models (HSM) are important to identify the environmental variables and scales influencing habitat selection and facilitate the comparison of closely related species with different ecological requirements.
+   This study explores the multiscale relationships of habitat suitability for the pine (Martes martes) and stone marten (M. foina) in northern Spain to evaluate differences in habitat selection and scaling, and to determine if there is habitat niche displacement when both species coexist.
+   We combined bivariate scaling and maximum entropy modeling to compare the multiscale habitat selection of the two martens. To optimize the HSM, the performance of three sampling bias correction methods at four spatial scales was explored. HSMs were compared to explore niche differentiation between species through a niche identity test.
+   The comparison among HSMs resulted in the detection of a significant niche divergence between species. The pine marten was positively associated with cooler mountainous areas, low levels of human disturbance, high proportion of natural forests and well-connected forestry plantations, and medium-extent agroforestry mosaics. The stone marten was positively related to the density of urban areas, the proportion and extensiveness of croplands, the existence of some scrub cover and semi-continuous grasslands.
+   This study outlines the influence of the spatial scale and the importance of the sampling bias corrections in HSM, and to our knowledge, it is the first comparing multiscale habitat selection and niche divergence of two related marten species. This study provides a useful methodological framework for multispecies and multiscale comparatives.
+C1 [Vergara, Maria; Ruiz-Gonzalez, Aritz] Univ Basque Country, Dept Zool & Anim Cell Biol, UPV EHU, C Paseo Univ 7, Vitoria 01006, Spain.
+   [Vergara, Maria; Ruiz-Gonzalez, Aritz] Univ Basque Country, Systemat Biogeog & Populat Dynam Res Grp, UPV EHU, Lascaray Res Ctr, Avda Miguel Unamuno 3, Vitoria 01006, Spain.
+   [Cushman, Samuel A.] US Forest Serv, Rocky Mt Res Stn, 2500 S Pine Knoll Dr, Flagstaff, AZ 86001 USA.
+   [Urra, Fermin] Environm Management Navarre SA, Biodivers Unit, C Padre Adoain 219 Bajo, Pamplona 31015, Spain.
+RP Vergara, M (reprint author), Univ Basque Country, Dept Zool & Anim Cell Biol, UPV EHU, C Paseo Univ 7, Vitoria 01006, Spain.
+EM m1v2r3@hotmail.com
+OI RUIZ GONZALEZ, ARITZ/0000-0001-7409-4634
+FU Basque Government through the Research group on "Systematics,
+   Biogeography and Population Dynamics" [IT317-10, GIC10/76]; Department
+   of Education, Universities and Research of the Basque Government
+   [RBFI-2012-446, DKR-2012-64]; U.S. Forest Service Rocky Mountain
+   Research Station; Habitat section, Department of rural development,
+   environment and local administrations, Navarre Government
+FX This study has been partially funded by the Basque Government through
+   the Research group on "Systematics, Biogeography and Population
+   Dynamics" (Ref. IT317-10; GIC10/76). MV (Ref: RBFI-2012-446) and ARG
+   (Ref: DKR-2012-64) were supported by a PhD and post-doctoral fellowships
+   awarded by the Department of Education, Universities and Research of the
+   Basque Government. U.S. Forest Service Rocky Mountain Research Station
+   supported Cushman's work on this project. The authors wish to thank all
+   the people directly involved in the collection of non-invasive genetic
+   samples and those reporting the tissue specimens and species locations
+   used in this study, including rangers, vets and field researchers and
+   their institutions (Table 51 in Online Appendix). The sampling of
+   Navarre region was supported by the Habitat section, Department of rural
+   development, environment and local administrations, Navarre Government.
+   We are also very grateful to Dr. Jason Brown and Dr. Warren for their
+   useful comments regarding SDMtools and ENMtools, respectively.
+CR Agencia Estatal de Meteorologia (AEMET), 2011, ATL CLIM IB
+   Aguirre-Gutierrez J, 2013, PLOS ONE, DOI [10.1371/journal.pone.0063708, DOI 10.1371/J0URNAL.P0NE.0063708]
+   Anderson RP, 2011, ECOL MODEL, V222, P2796, DOI 10.1016/j.ecolmodel.2011.04.011
+   Anderson RP, 2002, OIKOS, V98, P3, DOI 10.1034/j.1600-0706.2002.t01-1-980116.x
+   Balestrieri A, 2015, ECOL RES, V30, P153, DOI 10.1007/s11284-014-1220-8
+   Balestrieri A, 2011, ACTA THERIOL, V56, P199, DOI 10.1007/s13364-010-0015-8
+   Barrientos R, 2006, ACTA OECOL, V30, P107, DOI 10.1016/j.actao.2006.02.006
+   Bellamy C, 2013, J APPL ECOL, V50, P892, DOI 10.1111/1365-2664.12117
+   Birks J, 2004, MARTENS AND FISHERS (MARTES) IN HUMAN-ALTERED ENVIRONMENTS: AN INTERNATIONAL PERSPECTIVE, P235
+   Bissonette JA, 1995, LANDSCAPE APPROACHES IN MAMMALIAN ECOLOGY AND CONSERVATION, P95
+   Boria RA, 2014, ECOL MODEL, V275, P73, DOI 10.1016/j.ecolmodel.2013.12.012
+   Brainerd SM, 2002, WILDLIFE BIOL, V8, P289
+   Brown JL, 2014, METHODS ECOL EVOL, V5, P694, DOI 10.1111/2041-210X.12200
+   Buskirk Steven W., 1994, P283
+   Cushman SA, 2004, OIKOS, V105, P117, DOI 10.1111/j.0030-1299.2004.12524.x
+   Davison A, 2002, J ZOOL, V257, P141, DOI 10.1017/S0952836902000730
+   Delibes M., 1983, Acta Zoologica Fennica, P229
+   Elith J, 2006, ECOGRAPHY, V29, P129, DOI 10.1111/j.2006.0906-7590.04596.x
+   Elith J, 2011, DIVERS DISTRIB, V17, P43, DOI 10.1111/j.1472-4642.2010.00725.x
+   Elith J, 2010, METHODS ECOL EVOL, V1, P330, DOI 10.1111/j.2041-210X.2010.00036.x
+   ESRI, 2014, ARCGIS
+   Evans JS, 2014, ARCGIS TOOLBOX SURFA
+   Fielding AH, 1997, ENVIRON CONSERV, V24, P38, DOI 10.1017/S0376892997000088
+   Fourcade Y, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0097122
+   Girvetz EH, 2009, LANDSCAPE ECOL, V24, P1315, DOI 10.1007/s10980-009-9384-2
+   Goszczynski J, 2007, CAN J ZOOL, V85, P239, DOI 10.1139/Z06-212
+   Graf RF, 2005, LANDSCAPE ECOL, V20, P703, DOI 10.1007/s10980-005-0063-7
+   Herr J, 2009, J ZOOL, V277, P54, DOI 10.1111/j.1469-7998.2008.00510.x
+   Herrmann M, 1994, MARTENS SABLES FISHE, P283
+   Jimenez-Valverde A, 2011, BIOL INVASIONS, V13, P2785, DOI 10.1007/s10530-011-9963-4
+   Jimenez-Valverde A, 2007, ACTA OECOL, V31, P361, DOI 10.1016/j.actao.2007.02.001
+   JOHNSON DH, 1980, ECOLOGY, V61, P65, DOI 10.2307/1937156
+   Khanum R, 2013, ACTA OECOL, V49, P23, DOI 10.1016/j.actao.2013.02.007
+   Koren M, 2011, ECOL INFORM, V6, P296, DOI 10.1016/j.ecoinf.2011.05.002
+   Kramer-Schadt S, 2013, DIVERS DISTRIB, V19, P1366, DOI 10.1111/ddi.12096
+   Larroque J, 2015, ECOGRAPHY, V38, P1129, DOI 10.1111/ecog.01133
+   Lobo JM, 2008, GLOBAL ECOL BIOGEOGR, V17, P145, DOI 10.1111/j.1466-8238.2007.00358.x
+   LOPEZ-MARTIN J. M., 2007, ATLAS LIBRO ROJO MAM, P302
+   Mateo-Sanchez M. C., 2013, INT J GEOGR INF SYST, V1, P1
+   McGarigal K, 2012, FRAGSTATS V4 SPATIAL
+   Mergey M, 2012, EUR J WILDLIFE RES, V58, P909, DOI 10.1007/s10344-012-0634-2
+   Mergey M, 2011, J MAMMAL, V92, P328, DOI 10.1644/09-MAMM-A-366.1
+   Pearson RG, 2007, J BIOGEOGR, V34, P102, DOI 10.1111/j.1365-2699.2006.01594.x
+   Phillips SJ, 2006, ECOL MODEL, V190, P231, DOI 10.1016/j.ecolmodel.2005.03.026
+   Phillips SJ, 2009, ECOL APPL, V19, P181, DOI 10.1890/07-2153.1
+   Posluszny M, 2007, ANN ZOOL FENN, V44, P269
+   Proulx G, 2004, MARTENS AND FISHERS (MARTES) IN HUMAN-ALTERED ENVIRONMENTS: AN INTERNATIONAL PERSPECTIVE, P21
+   Radosavljevic A, 2014, J BIOGEOGR, V41, P629, DOI 10.1111/jbi.12227
+   Rosalino LM, 2009, MAMMAL REV, V39, P67, DOI 10.1111/j.1365-2907.2008.00134.x
+   Rosellini S, 2008, WILDLIFE RES, V35, P434, DOI 10.1071/WR07030
+   Ruiz-Gonzalez A, 2008, EUR J WILDLIFE RES, V54, P253, DOI 10.1007/s10344-007-0138-7
+   Ruiz-Gonzalez A, 2015, MOL ECOL, V24, P5110, DOI 10.1111/mec.13392
+   Ruiz-Gonzalez A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110552
+   Ruiz-Gonzalez A, 2013, EUR J WILDLIFE RES, V59, P371, DOI 10.1007/s10344-012-0683-6
+   Santos MJ, 2010, EUR J WILDLIFE RES, V56, P275, DOI 10.1007/s10344-009-0317-9
+   Shirk AJ, 2012, BIOL CONSERVATION MA, P269
+   Shirk AJ, 2014, ECOL APPL, V24, P1434, DOI 10.1890/13-1510.1
+   Svenning JC, 2008, J ECOL, V96, P1117, DOI 10.1111/j.1365-2745.2008.01422.x
+   Syfert MM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0055158
+   Thompson CM, 2002, LANDSCAPE ECOL, V17, P569, DOI 10.1023/A:1021501231182
+   Tikhonov A, 2008, IUCN RED LIST THREAT
+   Virgos E, 2000, Z SAUGETIERKD, V65, P375
+   Virgos E, 2002, ACTA OECOL, V23, P231, DOI 10.1016/S1146-609X(02)01142-6
+   Virgos E, 2012, BIOL CONSERVATION MA, P255
+   Warren DL, 2008, EVOLUTION, V62, P2868, DOI 10.1111/j.1558-5646.2008.00482.x
+   Warren DL, 2011, ECOL APPL, V21, P335, DOI 10.1890/10-1171.1
+   Warren DL, 2010, ECOGRAPHY, V33, P607, DOI 10.1111/j.1600-0587.2009.06142.x
+   Wasserman T. N., 2012, RMRSRP94 USDA FOR SE
+   Wellenreuther M, 2012, ECOLOGY, V93, P1353
+   Wereszczuk A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0139852
+   WIENS JA, 1987, OIKOS, V48, P132, DOI 10.2307/3565849
+   Yackulic CB, 2013, METHODS ECOL EVOL, V4, P236, DOI 10.1111/2041-210x.12004
+   Zalewski A, 2006, ECOGRAPHY, V29, P31, DOI 10.1111/j.2005.0906-7590.04313.x
+   Zalewski A, 2004, ECOSCIENCE, V11, P113, DOI 10.1080/11956860.2004.11682815
+NR 74
+TC 11
+Z9 11
+U1 0
+U2 44
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-2973
+EI 1572-9761
+J9 LANDSCAPE ECOL
+JI Landsc. Ecol.
+PD AUG
+PY 2016
+VL 31
+IS 6
+BP 1241
+EP 1260
+DI 10.1007/s10980-015-0307-0
+PG 20
+WC Ecology; Geography, Physical; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Physical Geography; Geology
+GA DR6HZ
+UT WOS:000380004300007
+DA 2019-03-26
+ER
+
+PT J
+AU Waintrub, N
+   Greene, M
+   Ortuzar, JD
+AF Waintrub, Natan
+   Greene, Margarita
+   Ortuzar, Juan de Dios
+TI Designing incentive packages for increased density and social inclusion
+   in the neighbourhood of mass transit stations
+SO HABITAT INTERNATIONAL
+LA English
+DT Article
+DE Densification; Stated choice; Mixed-income housing; Social integration;
+   Incentives packages
+ID ORIENTED DEVELOPMENT; WORST; SANTIAGO; SEGREGATION; CHOICES; MARKET;
+   POLICY; CHILE; CITY
+AB Local and central authorities have long been interested in taking advantage of investments in mass transit to achieve more sustainable urban development. In the case of Santiago de Chile, a highly income segregated metropolis that also suffers an increasing urban sprawl, its underground (Metro) and BRT corridor networks offer a unique chance to revert these malaises. In effect, Santiago's modern transit infrastructure is undercapitalized, there are many areas with little or no development in the vicinity of Metro and BRT stations that could be densified providing housing to the growing population, and hopefully even turned into sub centres with urban equipment, servicing the poorer areas, thus diminishing social and spatial segregation.
+   We sought to understand and measure how different government incentive packages could attract private investment into such areas. We used a combination of stated choice and best-worst scaling data to examine the potential power of various government grants to encourage density development, including social integration, at these locations. Our results allowed us to identify a typology of urban areas that respond differently to the incentive packages. The differentiated analysis of the urban areas, their tendencies and perception of potential real estate developers is a significant first step to design ad hoc strategies to encourage sustainable development in the surroundings of Metro and BRT stations. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Waintrub, Natan] Pontificia Univ Catolica Chile, Dept Transport Engn & Logist, Santiago 4860, Chile.
+   [Greene, Margarita] Pontificia Univ Catolica Chile, Ctr Sustainable Urban Dev CEDEUS, Sch Architecture, Santiago 1916, Chile.
+   [Ortuzar, Juan de Dios] Pontificia Univ Catolica Chile, Ctr Sustainable Urban Dev CEDEUS, Dept Transport Engn & Logist, Santiago 4860, Chile.
+RP Waintrub, N (reprint author), Pontificia Univ Catolica Chile, Dept Transport Engn & Logist, Santiago 4860, Chile.
+EM nwaintrub@uc.cl; mgreenez@uc.cl; jos@ing.puc.cl
+OI Waintrub, Natan/0000-0002-5229-902X
+FU Chilean Fund for the Development of Scientific and Technological
+   Research (FONDECYT Project) [1141096]; Institute in Complex Engineering
+   Systems [ICM: P-004-F, CONICYT: FB016]; CEDEUS [CONICYT/FONDAP/15110020]
+FX We are grateful to Luis I. Rizzi, Joffre Swait, Angelo Guevara, David
+   Hensher, John Rose, Cristhian Figueroa and Rodrigo Mora for their help
+   in the conceptual models and interpretation of results, and to DICTUC
+   S.A. for sharing the databank for developing this project. We also wish
+   to thank the Chilean Fund for the Development of Scientific and
+   Technological Research (FONDECYT Project 1141096), the Institute in
+   Complex Engineering Systems (ICM: P-004-F; CONICYT: FB016) and CEDEUS
+   (CONICYT/FONDAP/15110020), for having partially financed this work.
+   Finally, the useful comments of two anonymous referees were instrumental
+   in producing a better paper.
+CR Baker C., 2005, BOSTON COLL ENV AFFA, V32, P165
+   Balbontin C, 2015, J CHOICE MODEL, V16, P1, DOI 10.1016/j.jocm.2015.09.002
+   Bonet L., 2014, J AM PLANNING UNPUB
+   Borsdorf A., 2016, HABITAT INT IN PRESS
+   Calavita N, 1997, HOUS POLICY DEBATE, V8, P109, DOI 10.1080/10511482.1997.9521249
+   Calavita Nico, 2009, LAND LINES, p[15, 17]
+   Cappellano F, 2014, ADV ENG FORUM, V11, P314, DOI 10.4028/www.scientific.net/AEF.11.314
+   Caussade S, 2005, TRANSPORT RES B-METH, V39, P621, DOI 10.1016/j.trb.2004.07.006
+   CChC, 2013, EST DENS ID POT DENS
+   Cervero R., 2011, STATE ROLES PROVIDIN, P17
+   DICTUC, 2014, EST DENS TORN RED ME
+   Duarte F, 2012, J URBAN PLAN D-ASCE, V138, P183, DOI 10.1061/(ASCE)UP.1943-5444.0000107
+   Ducci M. E., 1997, EURE, V23, P99
+   Flynn TN, 2007, J HEALTH ECON, V26, P171, DOI 10.1016/j.jhealeco.2006.04.002
+   Gilat M, 2003, TRANSPORT RES REC, P102
+   Greene M., 2002, INT PLAN STUD, V7, P55, DOI DOI 10.1080/13563470220112607
+   Hidalgo Dattwyler Rodrigo, 2007, EURE (Santiago), V33, P57, DOI 10.4067/S0250-71612007000100004
+   Huber J, 1996, J MARKETING RES, V33, P307, DOI 10.2307/3152127
+   Iglesias P, 2013, CHOICE MODELLING: THE STATE OF THE ART AND THE STATE OF PRACTICE, P193
+   INE, 2002, CENS 2002 CHIL
+   Lancsar E, 2013, SOC SCI MED, V76, P74, DOI 10.1016/j.socscimed.2012.10.007
+   Louviere J. J., 1997, SEPARATING WEIGHTS S
+   Louviere J. J., 2000, STATED CHOICE METHOD
+   Louviere J, 2013, INT J RES MARK, V30, P292, DOI 10.1016/j.ijresmar.2012.10.002
+   Marley AAJ, 2005, J MATH PSYCHOL, V49, P464, DOI 10.1016/j.jmp.2005.05.003
+   Mattos C., 1999, EURE, V25, P29
+   McFadden D., 1974, J PUBLIC ECON, V3, P303, DOI DOI 10.1016/0047-2727(74)90003-6
+   MINVU, 2013, OP DENS URB EX CUAL
+   O'Sullivan S., 1996, TRANSPORT RES REC, V1538, P19, DOI DOI 10.3141/1538-03
+   Orttizar J., 2011, MODELLING TRANSPORT
+   Ostendorf W, 2001, HOUSING STUD, V16, P371, DOI 10.1080/02673030120049724
+   PNUD, 2002, RES INF DES HUM CHIL
+   Rodriguez Alfredo, 2005, LOS CON TECHO
+   Rose JM, 2009, TRANSPORT REV, V29, P587, DOI 10.1080/01441640902827623
+   Sabatini F, 2000, EURE, V26, P49
+   Sabatini F, 2000, EURE, V26, P95
+   Sabatini F., 2010, CAMINO BICENTENARIO
+   Sabatini F., 2014, INSTRUMENTOS NOTABLE
+   Sabatini F, 2008, EURE, V34, P5, DOI 10.4067/S0250-71612008000300001
+   Schuman H., 1997, RACIAL ATTITUDES AM
+   Squires G. D., 2001, INT SEM SEGR CIT
+   Torres I, 2013, HABITAT INT, V39, P62, DOI 10.1016/j.habitatint.2012.10.007
+   Train KE, 2009, DISCRETE CHOICE METHODS WITH SIMULATION, 2ND EDITION, P1, DOI 10.1017/CBO9780511805271
+   Train K, 2008, TRANSPORT RES B-METH, V42, P191, DOI 10.1016/j.trb.2007.04.012
+   Uitermark J, 2003, URBAN STUD, V40, P531, DOI 10.1080/0042098032000053905
+   Waintrub N., 2015, THESIS PONTIFICIA U
+   Walle V. S., 2004, INT PLANNING STUDIES, V9, P173
+   Wey WM, 2015, HABITAT INT, V47, P158, DOI 10.1016/j.habitatint.2015.01.020
+   Wey WM, 2013, HABITAT INT, V38, P106, DOI 10.1016/j.habitatint.2012.05.004
+   Whitty J., 2013, INT CHOIC MOD C
+   Zheng HW, 2014, HABITAT INT, V41, P272, DOI 10.1016/j.habitatint.2013.08.006
+NR 51
+TC 3
+Z9 3
+U1 2
+U2 46
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0197-3975
+EI 1873-5428
+J9 HABITAT INT
+JI Habitat Int.
+PD JUL
+PY 2016
+VL 55
+BP 133
+EP 147
+DI 10.1016/j.habitatint.2016.03.006
+PG 15
+WC Development Studies; Environmental Studies; Regional & Urban Planning;
+   Urban Studies
+SC Development Studies; Environmental Sciences & Ecology; Public
+   Administration; Urban Studies
+GA DL7GR
+UT WOS:000375809500014
+DA 2019-03-26
+ER
+
+PT S
+AU Molinari, F
+   Concilio, G
+AF Molinari, Francesco
+   Concilio, Grazia
+BE Moffett, S
+   Galbraith, B
+TI Looking for the Seeds of Scalability: A Self-Assessment Framework for
+   Service Innovators
+SO PROCEEDINGS OF THE 17TH EUROPEAN CONFERENCE ON KNOWLEDGE MANAGEMENT
+SE Proceedings of the European Conference on Knowledge Management
+LA English
+DT Proceedings Paper
+CT 17th European Conference on Knowledge Management (ECKM)
+CY SEP 01-02, 2016
+CL Ulster Univ, NORTH IRELAND
+HO Ulster Univ
+DE European Cities; multi-country KM; service innovation; scalability;
+   evaluation framework
+AB This paper presents the results of a comprehensive evaluation exercise conducted in a multi-country service innovation pilot involving four European Cities (Aalborg, DK; Birmingham, UK; Lisbon, PT; and Milan, IT) in the context of a EU funded Smart City project, MyNeighbourhood. We introduce a 7-dimensional framework that was adopted as a theoretical lens to identify "the seeds of scalability" in each pilot environment. We briefly outline and discuss the results of framework implementation, which were shared with the local stakeholders. We believe this framework brings some value, particularly in providing a full picture of the relevant analytical dimensions for innovation scaling, which should be taken into account during the planning and execution of any such action, or simply considered as potential obstacles or enablers in the context of a fully blown evaluation.
+C1 [Molinari, Francesco; Concilio, Grazia] Politecn Milan, Dept Architecture & Urban Studies, Milan, Italy.
+RP Molinari, F (reprint author), Politecn Milan, Dept Architecture & Urban Studies, Milan, Italy.
+EM mail@francescomolinari.it; grazia.concilio@polimi.it
+OI MOLINARI, FRANCESCO/0000-0001-9141-3975
+FU EU
+FX This paper has been financially supported in part by the EU funded CIP
+   (ICT-PSP) project MyNeighbourhood - My City. However, the opinions
+   expressed herein are solely of the authors.
+CR Bezzi C., 2006, EVALUATION, V12, P56
+   Bondi A. B., 2000, Proceedings Second International Workshop on Software and Performance. WOSP2000, P195, DOI 10.1145/350391.350432
+   Clarke J., 2006, Educational Technology, V46, P27
+   European Commission, 2013, POW EUR PUBL SECT IN
+   Foglieni F., P CUM 2015 C POL MIL
+   Holcombe S., 2012, LESSONS PRACTICE ASS
+   Milat AJ, 2013, HEALTH PROMOT INT, V28, P285, DOI 10.1093/heapro/dar097
+   Simmons R., 2010, 9 STEPS DEV SCALING
+   Simmons R., 2009, PRACTICAL GUIDANCE S
+NR 9
+TC 0
+Z9 0
+U1 1
+U2 2
+PU ACAD  CONFERENCES LTD
+PI NR READING
+PA CURTIS FARM, KIDMORE END, NR READING, RG4 9AY, ENGLAND
+SN 2048-8963
+BN 978-1-911218-03-6
+J9 PROC EUR CONF KNOWL
+PY 2016
+BP 629
+EP 638
+PG 10
+WC Business; Management
+SC Business & Economics
+GA BH4FG
+UT WOS:000400276800075
+DA 2019-03-26
+ER
+
+PT J
+AU Williams, J
+AF Williams, Joanna
+TI Can low carbon city experiments transform the development regime?
+SO FUTURES
+LA English
+DT Article
+DE Eco-cities; Transition; Transformation; Urban experiments; Scaling-up;
+   Broadening; Scalar dynamics; Low carbon
+ID TRANSITIONS; PERSPECTIVE
+AB The paper explores the ability of urban transition experiments to transform the development regime in which they are embedded. Using three European case studies - BedZed, Vauban and Hammarby - it investigates the processes of broadening and scaling up within cities, nations and across cities globally; and finds that transition experiments do influence the development regime in which they are embedded. The impact of experiments on the development regime does vary significantly with scale. The innovative components, which are assembled in experiments (cultural, structural and practices) also seem to have differing propensity to influence the development regime at different scales. Thus, cultural innovations have a greater propensity to influence the development regime across all scales, whilst the structural and practice innovations tend to influence the development regime locally and nationally. The case studies also demonstrated the significance of context (historical and geographical) in shaping experiments and influencing the transformation process. This finding suggests that the importance of broadening in the transformation process has been overstated. The experiments show that broadening across national boundaries and for prolonged periods, can result in expanding niche-regimes which become increasingly diverse. But it does not result in transformation. (C) 2016 The Author. Published by Elsevier Ltd.
+C1 [Williams, Joanna] UCL, Bartlett Sch Planning, Room 611,Cent House,14 Upper Woburn Pl, London WC1H 0NN, England.
+RP Williams, J (reprint author), UCL, Bartlett Sch Planning, Room 611,Cent House,14 Upper Woburn Pl, London WC1H 0NN, England.
+EM joanna.williams@ucl.ac.uk
+CR ACT Planning & Land Authority, 2010, PLANN SERV BRANCH UR
+   Bennewitz E., 2013, BYGGINDUSTRIN, V2013, p[18, 16]
+   Bioregional, 2009, BEDZED 7 YEARS IMP U
+   Brick K., 2008, FOLLOW ENV IMPACT HA
+   Building Research Establishment, 2000, ECOHOMES ENV RAT HOM
+   City of Stockholm, 2009, CITY STOCKHOLMS CLIM
+   Coenen L, 2012, RES POLICY, V41, P968, DOI 10.1016/j.respol.2012.02.014
+   Conference Sustainable Cities & Towns, 1994, A CHART 1994 APPR PA
+   Department for Communities and Local Government, 2006, BUILD GREEN FUT ZER
+   Department for Communities and Local Government, 2006, COD SUST HOM STEP CH
+   Doci G, 2015, FUTURES, V66, P85, DOI 10.1016/j.futures.2015.01.002
+   Douthwaite B, 2003, AGR SYST, V78, P243, DOI 10.1016/S0308-521X(03)00128-8
+   European Union, 2002, 200291EC EUR UN
+   European Union, 1999, 199931EC EUR UN
+   Frantzeskaki N, 2009, FUTURES, V41, P593, DOI 10.1016/j.futures.2009.04.009
+   Froberg M., 2013, FINAL REV CENTEC
+   FWTM, 2013, APPR SUST GREEN CIT
+   Geels F, 2006, TECHNOL ANAL STRATEG, V18, P375, DOI 10.1080/09537320600777143
+   Geels FW, 2002, RES POLICY, V31, P1257, DOI 10.1016/S0048-7333(02)00062-8
+   Great Britain, 2008, CLIM CHANG ACT
+   Greater London Authority, 2004, GREEN LIGHT CLEAN PO
+   Hamiduddin I, 2014, COMMUNITY ACTION PLA, P237
+   Howlett M., 2015, FUTURES IN PRESS
+   Hult A., 2014, REG DEV IN POL CHIN
+   ICLEI Local Governments for Sustainability, 2009, LONG TERM STRAT CLIM, V104
+   Kemp R, 2006, TRANSITIE EXPT PRAKT
+   Levinthal D.A., 1998, IND CORP CHANGE, V7, P217, DOI DOI 10.1093/ICC/7.2.217
+   Liu HL, 2014, HABITAT INT, V41, P24, DOI 10.1016/j.habitatint.2013.06.005
+   Loorbach D, 2007, THESIS ERASMUS U ROT
+   Loorbach D, 2010, FUTURES, V42, P237, DOI 10.1016/j.futures.2009.11.009
+   Minx J., 2013, ENV RES LETT, V8
+   NHBC Zero Carbon Hub and PRP Architects, 2015, ZER CARB COMP FUT LO
+   Nooteboom B, 1999, CAMBRIDGE J ECON, V23, P127, DOI 10.1093/cje/23.2.127
+   *OFF DEP PRIM MIN, 2003, SUST COMM BUILD FUT
+   Pandis S., 2013, ENERG POLICY, V59, P716
+   Raven R., 2008, INT J TECHNOL MANAGE, V51, P57
+   Raven R. P. J. M., 2005, THESIS TU EINDHOVEN
+   Rogers E. M, 2005, DIFFUSION INNOVATION
+   Rotmans J, 2006, TRANSITION RENEWABLE
+   Rotmans J, 2005, SOC INNOVATION DREAM, DOI 10.2139/ssrn.878564
+   SKL International, 2012, SYMB APPR CONC FRAM
+   Smith A, 2007, TECHNOL ANAL STRATEG, V19, P427, DOI 10.1080/09537320701403334
+   Sperling Carsten, 2002, SUSTAINABLE URBAN DI
+   Sutton Council, 2009, CLIM ACT PLAN SUTT
+   Sutton Council, 2015, AG DOC COUNC 02 11 2
+   Sutton Council, 2014, ON PLAN SUTT PROGR R
+   Sutton Council, 2009, ON PLAN SUTT ACT PLA
+   Sutton Council, 1996, VIS SUST SUTT LOC AG
+   Taanman M., 2006, INN PRESS C
+   van den Bosch S., 2008, DEEPENING BROADENING
+   Vestbro D., 2002, ARCHITECTURE POLITIC
+   Vreugdenhil H., 2010, THESIS DELFT U
+   Waite R., 2011, ARCHITECTURAL J, V14, P11
+   Williams J., 2011, ZERO CARBON HOMES RO
+   Williams J, 2010, ENERG POLICY, V38, P7604, DOI 10.1016/j.enpol.2009.08.039
+   Williams J, 2013, ENVIRON PLANN B, V40, P683, DOI 10.1068/b38180
+   Yu L, 2014, HABITAT INT, V44, P102, DOI 10.1016/j.habitatint.2014.05.004
+NR 57
+TC 17
+Z9 17
+U1 2
+U2 13
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0016-3287
+EI 1873-6378
+J9 FUTURES
+JI Futures
+PD MAR
+PY 2016
+VL 77
+BP 80
+EP 96
+DI 10.1016/j.futures.2016.02.003
+PG 17
+WC Economics; Regional & Urban Planning
+SC Business & Economics; Public Administration
+GA DK0JV
+UT WOS:000374600000007
+OA Other Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Tchuenche, M
+   Palmer, E
+   Hate, V
+   Thambinayagam, A
+   Loykissoonlal, D
+   Njeuhmeli, E
+   Forsythe, S
+AF Tchuenche, Michel
+   Palmer, Eurica
+   Hate, Vibhuti
+   Thambinayagam, Ananthy
+   Loykissoonlal, Dayanund
+   Njeuhmeli, Emmanuel
+   Forsythe, Steven
+TI The Cost of Voluntary Medical Male Circumcision in South Africa
+SO PLOS ONE
+LA English
+DT Article
+ID SUB-SAHARAN AFRICA; HIV PREVENTION; RISK; TRANSMISSION; METAANALYSIS;
+   ACQUISITION; MEN
+AB Given compelling evidence associating voluntary medical male circumcision (VMMC) with men's reduced HIV acquisition through heterosexual intercourse, South Africa in 2010 began scaling up VMMC. To project the resources needed to complete 4.3 million circumcisions between 2010 and 2016, we (1) estimated the unit cost to provide VMMC; (2) assessed cost drivers and cost variances across eight provinces and VMMC service delivery modes; and (3) evaluated the costs associated with mobilize and motivate men and boys to access VMMC services. Cost data were systematically collected and analyzed using a provider's perspective from 33 Government and PEPFAR-supported (U.S. President's Emergency Plan for AIDS Relief) urban, rural, and peri-urban VMMC facilities. The cost per circumcision performed in 2014 was US$132 (R1,431): higher in public hospitals (US$158 [R1,710]) than in health centers and clinics (US$121 [R1,309]). There was no substantial difference between the cost at fixed circumcision sites and fixed sites that also offer outreach services. Direct labor costs could be reduced by 17% with task shifting from doctors to professional nurses; this could have saved as much as $15 million (R163.20 million) in 2015, when the goal was 1.6 million circumcisions. About $14.2 million (R154 million) was spent on medical male circumcision demand creation in South Africa in 2014-D primarily on personnel, including community mobilizers (36%), and on small and mass media promotions (35%). Calculating the unit cost of VMMC demand creation was daunting, because data on the denominator (number of people reached with demand creation messages or number of people seeking VMMC as a result of demand creation) were not available. Because there are no "dose-response" data on demand creation ($X in demand creation will result in an additional Z% increase in VMMC clients), research is needed to determine the appropriate amount and allocation of demand creation resources.
+C1 [Tchuenche, Michel; Forsythe, Steven] Project SOAR Supporting Operat AIDS Res, Avenir Hlth, Hlth Policy Project, Washington, DC 20253 USA.
+   [Palmer, Eurica] Palladium Consultant, Hlth Policy Project, Johannesburg, South Africa.
+   [Hate, Vibhuti] George Washington Univ, Washington, DC USA.
+   [Thambinayagam, Ananthy; Njeuhmeli, Emmanuel] USAID, Pretoria, South Africa.
+   [Loykissoonlal, Dayanund] Natl Dept Hlth, Pretoria, South Africa.
+   [Njeuhmeli, Emmanuel] USAID, Washington, DE USA.
+RP Tchuenche, M (reprint author), Project SOAR Supporting Operat AIDS Res, Avenir Hlth, Hlth Policy Project, Washington, DC 20253 USA.
+EM JMTchuenche@avenirhealth.org
+FU U.S. President's Emergency Plan for AIDS Relief (PEPFAR); United States
+   Agency for International Development (USAID) [AID-OAA-A-10-00067,
+   AID-OAA-14-00026, AID-OAA-A-14-00046]; PEPFAR; National Department of
+   Health; Alfred Bere (CDC/South Africa)
+FX This manuscript is made possible by the generous support of the American
+   people through the U.S. Presidents Emergency Plan for AIDS Relief
+   (PEPFAR) with the United States Agency for International Development
+   (USAID) under the Cooperative Agreement Health Policy Project, Agreement
+   No. AID-OAA-A-10-00067, beginning September 30, 2010, Cooperative
+   Agreement Project SOAR (Supporting Operational AIDS Research), number
+   AID-OAA-14-00026, and Cooperative Agreement Strengthening High Impact
+   Interventions for an AIDS-free Generation, number AID-OAA-A-14-00046.
+   The Health Policy Project is implemented by Futures Group, in
+   collaboration with Plan International United States of America, Avenir
+   Health (formerly Futures Institute), Partners in Population and
+   Development, Africa Regional Office (PPD ARO), Population Reference
+   Bureau (PRB), RTI International, and the White Ribbon Alliance for Safe
+   Motherhood (WRA). The funder was involved in study design, decision to
+   publish, and preparation of the manuscript. The findings and conclusions
+   in this paper do not necessarily represent the views or positions of
+   PEPFAR, USAID, the South African National Department of Health, or the
+   United States Government.; The Health Policy Project (HPP), in
+   collaboration with the National Department of Health (NDOH), jointly
+   conducted the VMMC costing activity of the PEPFAR-supported sites in
+   South Africa. The HPP costing team would like to acknowledge the support
+   provided by the following: the National Department of Health, especially
+   Dr. Yogan Pillay, Collen Bonnecwe, and Nqeketo Ayanda; PEPFAR,
+   especially Isaac Choge (USAID/South Africa) and Alfred Bere (CDC/South
+   Africa); and all the provincial Department of Health and facility staff
+   who helped collect data. Additional thanks go to Katharine Kripke
+   (HPP/Avenir Health) and Melissa Schnure (HPP/Palladium) for their
+   support and assistance in completing this study. Special thanks also go
+   to the stakeholder engagement and data collection team of senior
+   researchers Dr. Lahla Ngubeni, Professor Welile Shasha, and Benjamin
+   Makhubele and researchers, Fulufhelo Maphiri, Zakes Hlatshwayo, and
+   Theron Dladla.
+CR Auvert B, 2005, PLOS MED, V2, P1112, DOI 10.1371/journal.pmed.0020298
+   Auvert B, 2013, PLOS MED, V10, DOI 10.1371/journal.pmed.1001509
+   Bailey RC, 2007, LANCET, V369, P643, DOI 10.1016/S0140-6736(07)60312-2
+   Bautista-Arredondo S, 2014, BMC HEALTH SERV RES, V14, DOI 10.1186/s12913-014-0599-9
+   Bertrand JT, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0027562
+   Bertrand JT, 2013, SYSTEMATIC MONITORIN
+   Bolinger L, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0084701, DOI 10.1371/JOURNAL.PONE.0084701]
+   Chu K, 2009, PLOS MED, V6, DOI 10.1371/journal.pmed.1000078
+   Dankie B, 2015, 7TH SOUTH AFRICAN AI
+   Duffy K, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0063134
+   Exavery A, 2015, HIV AIDS-RES PALLIAT, V7, P105, DOI 10.2147/HIV.S76694
+   Ford N, 2012, AIDS, V26, P559, DOI 10.1097/QAD.0b013e32834f3264
+   Govender K, 2013, S AFR HLTH REV SAHR
+   Gray R, 2012, AIDS, V26, P609, DOI 10.1097/QAD.0b013e3283504a3f
+   Hankins C, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001127
+   Health Policy Initiative, 2010, COST WORKB
+   HUTCHINSON J, 1855, MED TIMES GAZ, V32, P542
+   Kahn JG, 2006, PLOS MED, V3, P2349, DOI 10.1371/journal.pmed.0030517
+   Kim HY, 2015, GLOBAL HEALTH ACTION, V8, DOI 10.3402/gha.v8.29116
+   Kioko U, 2010, ESTIMATING COSTS IMP
+   Lei JH, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0125436
+   Mahomed O, 2010, COSTING MALE CIRCUMC
+   Mehta SD, 2013, AIDS, V27, P2899, DOI 10.1097/01.aids.0000432444.30308.2d
+   Menon V, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0083925
+   National Department of Health (NDOH), 2012, STRAT PLAN SCAL MED
+   Njeuhmeli E, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001132
+   Patel P, 2014, AIDS, V28, P1509, DOI 10.1097/QAD.0000000000000298
+   RAS GJ, 1983, S AFR MED J, V64, P140
+   Richardson ET, 2014, J INT AIDS SOC, V17, DOI 10.7448/IAS.17.1.19035
+   Shisana O, 2014, AFRICAN NATL HIV P
+   SIEGFRIED N, 2003, COCHRANE DB SYST REV, V3, DOI DOI 10.1002/14651858.CD003362
+   South African National AIDS Committee (SANANC), 2011, NAT STRAT PLAN HIV S
+   UNAIDS, 2011, JOINT STRAT ACT FRAM
+   Uthman OA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009628
+   Weiss HA, 2009, LANCET INFECT DIS, V9, P669, DOI 10.1016/S1473-3099(09)70235-X
+   WHO, 2009, FACTSH VOL MED MAL C
+   World Health Organization, 2015, PROGR BRIEF VOL MED
+   World Health Organization, 2008, OP GUID SCAL MAL CIR
+   Zaiontz C, 2 SAMPLE T TEST UNEQ
+NR 39
+TC 9
+Z9 9
+U1 0
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 26
+PY 2016
+VL 11
+IS 10
+AR e0160207
+DI 10.1371/journal.pone.0160207
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EE4VE
+UT WOS:000389602800005
+PM 27783612
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

@@ -1,0 +1,55 @@
+
+PT B
+AU Wingrave, CA
+   Haciahmetoglu, Y
+   Bowman, DA
+AF Wingrave, Chadwick A.
+   Haciahmetoglu, Yonca
+   Bowman, Doug A.
+BE Kitamura, Y
+   Bowman, D
+   Frohlich, B
+   Sturzlinger, W
+TI Overcoming World In Miniature limitations by a scaled and scrolling WIM
+SO IEEE SYMPOSIUM ON 3D USER INTERFACES 2006, PROCEEDINGS
+LA English
+DT Proceedings Paper
+CT IEEE Symposium on 3D User Interfaces
+CY MAR 25-26, 2006
+CL Alexandria, VA
+SP IEEE Comp Soc, Visualizat & Graph Tech Comm
+DE Virtual Reality; interface design; travel; WIM; SSWIM
+AB The World In Miniature (WIM) technique has effectively allowed users to interact and travel efficiently in Virtual Environments. However, WIM fails to work in worlds with tasks at various levels of scale. Such an example is using the WIM to arrange furniture and then leaving the room to travel the city using the WIM for navigation and wayfinding. To address this problem, scaling and scrolling were added to the WIM to create the Scaled Scrolling World In Miniature (SSWIM). The interface and testbed were iteratively created under expert evaluation and multiple formative user evaluations led to the final design. The WIM and SSWIM were then compared inside three differently sized cities by users who located a sphere and traveled into it to read the label at the sphere's center. Users were administered two standard psychology tests to account for spatial orientation (Cube Comparison Test) and spatial scanning (Maze Tracing Test) factors. The results show that the SSWIM's added functionality, and hence complexity, caused no significant hit in user performance and additionally that users were able to use SSWIM effectively after a short instructional period. To better understand the effect of experience, a follow-up experiment was performed showing performance plateaued after ten to fifteen minutes of use.
+C1 [Wingrave, Chadwick A.; Haciahmetoglu, Yonca; Bowman, Doug A.] Virginia Tech, Ctr Human Comp Interact, Dept Comp Sci, 660 McBryde Hall, Blacksburg, VA 24060 USA.
+RP Wingrave, CA (reprint author), Virginia Tech, Ctr Human Comp Interact, Dept Comp Sci, 660 McBryde Hall, Blacksburg, VA 24060 USA.
+EM cwingrav@vt.edu; yoncah@vt.edu; bowman@vt.edu
+CR BELL B, 2001, P ACM S US INT SOFTW, P101
+   BIER EA, 1993, P 20 ANN C COMP GRAP, P73, DOI DOI 10.1145/166117.166126
+   BURNS E, 2005, P IEEE VIRTUAL REALI
+   Ekstrom R. B., 1976, MANUAL KIT FACTOR RE
+   Kessler GD, 2000, PRESENCE-TELEOP VIRT, V9, P187, DOI 10.1162/105474600566718
+   LaViola Jr Joseph J, 2001, P 2001 S INT 3D GRAP, P9, DOI DOI 10.1145/364338.364339
+   PAUSCH R, 1995, SIGGRAPH 95 C P, P399
+   STOAKLEY C, 1995, CHI, P265
+   Zhai S., 1996, ACM T COMPUT-HUM INT, V3, P254, DOI DOI 10.1145/234526.234532
+NR 9
+TC 3
+Z9 3
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 1-4244-0225-5
+PY 2006
+BP 11
+EP +
+DI 10.1109/TRIDUI.2006.1618264
+PG 2
+WC Computer Science, Cybernetics; Computer Science, Hardware &
+   Architecture; Computer Science, Software Engineering
+SC Computer Science
+GA BEG26
+UT WOS:000237206200002
+DA 2019-03-26
+ER

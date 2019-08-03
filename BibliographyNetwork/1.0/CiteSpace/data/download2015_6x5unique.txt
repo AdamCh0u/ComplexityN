@@ -1,0 +1,421 @@
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI The distance-decay function of geographical gravity model: Power law or
+   exponential law?
+SO CHAOS SOLITONS & FRACTALS
+ID URBAN-GROWTH; CITIES; MIGRATION; CHINA; SIZE
+AB The distance-decay function of the geographical gravity model is originally an inverse power law, which suggests a scaling process in spatial interaction. However, the distance exponent of the model cannot be reasonably explained with the ideas from Euclidean geometry. This results in a dimension dilemma in geographical analysis. Consequently, a negative exponential function was used to replace the inverse power function to serve for a distance-decay function. But a new puzzle arose that the exponential-based gravity model goes against the first law of geography. This paper is devoted for solving these kinds of problems by mathematical reasoning and empirical analysis. New findings are as follows. First, the distance exponent of the gravity model is demonstrated to be a fractal dimension using the geometric measure relation. Second, the similarities and differences between the gravity models and spatial interaction models are revealed using allometric relations. Third, a four-parameter gravity model possesses a symmetrical expression, and we need dual gravity models to describe spatial flows. The observational data of China's cities and regions (29 elements indicative of 841 data points) in 2010 are employed to verify the theoretical inferences. A conclusion can be reached that the geographical gravity model based on power-law decay is more suitable for analyzing large, complex, and scale-free regional and urban systems. This study lends further support to the suggestion that the underlying rationale of fractal structure is entropy maximization. Moreover, it suggests that many dimensional dilemmas of spatial modeling can be solved using the concepts from fractal geometry. (C) 2015 Elsevier Ltd. All rights reserved.
+CR Allen PM, 1997, CITIES REGIONS SELF
+   Arbia G., 1996, GEOGRAPHICAL SYSTEMS, V3, P123
+   Barabasi A. L, 2002, LINKED NEW SCI NETWO
+   Barabasi AL, 2003, SCI AM, V288, P60, DOI 10.1038/scientificamerican0503-60
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   BATTY M, 1992, URBAN STUD, V29, P1043, DOI 10.1080/00420989220081041
+   BATTY M, 1983, REG STUD, V17, P223, DOI 10.1080/09595238300185231
+   Batty M., 1992, GEOGR MAG, V64, P34
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   CAREY HC, 1858, PRINCIPLES SOCIAL SC
+   Casti John L., 1996, WOULD BE WORLDS SIMU
+   Chen Y. G., 2008, FRACTAL URBAN SYSTEM
+   Chen YG, 2015, FRACTALS, V23, DOI 10.1142/S0218348X15500097
+   Chen YG, 2014, CHAOS SOLITON FRACT, V65, P65, DOI 10.1016/j.chaos.2014.04.017
+   Chen YG, 2012, LETT SPAT RESOUR SCI, V5, P65, DOI 10.1007/s12076-011-0076-6
+   Chen YG, 2012, PHYSICA A, V391, P767, DOI 10.1016/j.physa.2011.07.010
+   [陈彦�? Chen Yanguang], 2010, [地理研究, Geographical Research], V29, P2109
+   Chen Yanguang, 2009, Acta Scientiarum Naturalium Universitatis Pekinensis, V45, P333
+   Chen YG, 2009, CHAOS SOLITON FRACT, V41, P603, DOI 10.1016/j.chaos.2008.02.030
+   Chen YG, 2009, CHAOS SOLITON FRACT, V39, P49, DOI 10.1016/j.chaos.2007.01.130
+   Chen YG, 2009, FAR E J DYNAMICAL SY, V11, P251
+   Chen YG, 2008, DISCRETE DYN NAT SOC, V22, P2008
+   Chen YG, 2010, DISCRETE DYN NAT SOC, V22, P2010
+   COLWELL PF, 1982, J REGIONAL SCI, V22, P541, DOI 10.1111/j.1467-9787.1982.tb00775.x
+   CONVERSE PD, 1949, J MARKETING, V14, P379
+   Davis K, 1978, SYSTEMS CITIES, P92
+   Diebold F.X., 2007, ELEMENTS FORECASTING
+   Erlander S, 1980, OPTIMAL SPATIAL INTE
+   Fotheringham A. S., 1989, SPATIAL INTERACTION
+   Frankhauser P., 1994, FRACTALITE STRUCTURE
+   GOULD P, 1972, ANN ASSOC AM GEOGR, V62, P689, DOI 10.1111/j.1467-8306.1972.tb00896.x
+   GRIGG DB, 1977, J HIST GEOGR, V3, P41, DOI 10.1016/0305-7488(77)90143-8
+   Haggett P., 1977, LOCATIONAL ANAL HUMA
+   Haggett P, 2001, GEOGRAPHY GLOBAL SYN
+   Haynes Kingsley E., 1984, GRAVITY SPATIAL INTE
+   HAYNES RM, 1975, GEOGR ANAL, V7, P51
+   Jiang B., 2010, GEOSPATIAL ANAL MODE
+   Kang CG, 2013, INT J GEOGR INF SCI, V27, P431, DOI 10.1080/13658816.2012.689838
+   Kang CG, 2012, PHYSICA A, V391, P1702, DOI 10.1016/j.physa.2011.11.005
+   Komuro N., 2001, SUUGAKU KIRAINA HITO
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   Liu Y, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0086026
+   Liu Y, 2014, T GIS, V18, P89, DOI 10.1111/tgis.12023
+   Mackay JR, 1958, CAN GEOGR, V3, P1
+   Mandelbrot BB, 1983, FRACTAL GEOMETRY NAT
+   Masucci AP, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.022812
+   NIEDERCORN JH, 1969, J REGIONAL SCI, V9, P273, DOI 10.1111/j.1467-9787.1969.tb01340.x
+   OKELLY ME, 1995, GEOGR ANAL, V27, P271
+   Ravenstein E. G., 1885, J ROYAL STATISTICAL, V48, P167, DOI DOI 10.2307/2979181
+   Reilly W. J., 1931, LAW RETAIL GRAVITATI
+   Rybski D, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042114
+   Sen A, 1995, GRAVITY MODELS SPATI
+   Takayasu H., 1990, FRACTALS PHYS SCI
+   Taylor P. J., 1983, QUANTITATIVE METHODS
+   Tobler W, 2004, ANN ASSOC AM GEOGR, V94, P304, DOI 10.1111/j.1467-8306.2004.09402009.x
+   TOBLER WR, 1970, ECON GEOGR, V46, P234, DOI 10.2307/143141
+   vonBERTALANFFY Ludwig, 1973, GEN SYSTEM THEORY FD
+   West BJ, 1999, CHAOS SOLITON FRACT, V10, P1519, DOI 10.1016/S0960-0779(98)00149-0
+   West D, 2013, PHYS LIFE REV, V10, P210, DOI 10.1016/j.plrev.2013.04.006
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Wilson A, 2000, COMPLEX SPATIAL SYST
+   Wilson A. G, 1970, ENTROPY URBAN REGION
+   WILSON AG, 1968, NATURE, V220, P963, DOI 10.1038/220963a0
+   Xiao Y, 2013, PROF GEOGR, V65, P265, DOI 10.1080/00330124.2012.679445
+   Zhou Y.X., 2004, CITY PLANNING REV, V28, P49
+   Zhou YX, 2004, URBAN PLANN, V28, P38
+NR 70
+TC 16
+Z9 17
+SN 0960-0779
+EI 1873-2887
+PD AUG
+PY 2015
+VL 77
+BP 174
+EP 189
+DI 10.1016/j.chaos.2015.05.022
+UT WOS:000358970500019
+ER
+
+PT B
+AU Bojic, I
+   Nizetic-Kosovic, I
+   Belyi, A
+   Sobolevsky, S
+   Podobnik, V
+   Ratti, C
+AF Bojic, Iva
+   Nizetic-Kosovic, Ivana
+   Belyi, Alexander
+   Sobolevsky, Stanislav
+   Podobnik, Vedran
+   Ratti, Carlo
+GP IEEE
+TI Sublinear scaling of country attractiveness observed from Flickr dataset
+SO 2015 IEEE International WIE Conference on Electrical and Computer
+   Engineering (WIECON-ECE)
+CT IEEE International WIE Conference on Electrical and Computer Engineering
+   (WIECON-ECE)
+CY DEC 19-20, 2015
+CL Dhaka, BANGLADESH
+DE human mobility; urban attraction; big data
+ID CITIES
+AB The number of people who decide to share their photographs publicly increases every day, consequently making available new almost real-time insights of human behavior while traveling. Rather than having this statistic once a month or yearly, urban planners and touristic workers now can make decisions almost simultaneously with the emergence of new events. Moreover, these datasets can be used not only to compare how popular different touristic places are, but also predict how popular they should be taking into an account their characteristics. In this paper we investigate how country attractiveness scales with its population and size using number of foreign users taking photographs, which is observed from Flickr dataset, as a proxy for attractiveness. The results showed two things: to a certain extent country attractiveness scales with population, but does not with its size; and unlike in case of Spanish cities, country attractiveness scales sublinearly with population, and not superlinearly.
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bojic I., 2015, ARXIV151003715
+   Grauwin S, 2015, GEOTECH ENVIRON, V13, P363, DOI 10.1007/978-3-319-11469-9_15
+   Lim K. H., 2015, PERSONALIZED T UNPUB
+   Paldino S, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0043-3
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   SHAH RR, 2015, P ACM INT C MULT, P185, DOI DOI 10.1145/2733373.2809932
+   Sobolevsky S, 2015, ARXIV150600036
+   Sobolevsky S, 2015, ARXIV150406003
+   Thomee B., 2015, ARXIV150301817
+NR 12
+TC 2
+Z9 2
+BN 978-1-4673-8786-6
+PY 2015
+BP 305
+EP 308
+UT WOS:000380544500037
+ER
+
+PT J
+AU Kourtit, K
+   Nijkamp, P
+   Scholten, H
+AF Kourtit, Karima
+   Nijkamp, Peter
+   Scholten, Henk
+TI The Future of the New Urban World
+SO INTERNATIONAL PLANNING STUDIES
+AB This paper aims to offer a review of spatial dynamics in a rapidly urbanizing world. After a description of modern urbanization trends three issues are addressed in particular, viz. cities and wealth, urban quality of life, and demographic aspects of cities. The paper is concluded with various policy lessons.
+CR Alberti M, 1996, ENVIRON IMPACT ASSES, V16, P381, DOI 10.1016/S0195-9255(96)00083-2
+   Alonso W., 1964, LOCATION LAND USE
+   Andersson AE, 2011, HANDBOOK OF CREATIVE CITIES, P14
+   Arribas-Bel D, 2013, CITIES, V31, P248, DOI 10.1016/j.cities.2012.06.019
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Birch EL, 2011, CITY 21ST CENTURY, P3
+   Breheny M., 1994, SUSTAINABLE DEV URBA
+   Breheny M., 1993, BUILT ENV, V18, P241
+   Camagni R, 1998, INT J ENVIRON POLLUT, V10, P6, DOI 10.1504/IJEP.1998.002228
+   Capello R., 1999, SUSTAINABLE CITIES E
+   Caragliu A, 2011, J URBAN TECHNOL, V18, P65, DOI 10.1080/10630732.2011.601117
+   CASTELLS M., 2001, RISE NETWORK SOC
+   Crul M, 2012, CHANGING FACE OF WORLD CITIES: YOUNG ADULT CHILDREN OF IMMIGRANTS IN EUROPE AND THE UNITED STATES, P1
+   Dias E. S., P 13 INT C COMP URB
+   Dobbs R., 2011, URBAN WORLD MAPPING
+   Donnay J. P., 1999, GEOGRAPHICAL INFORM, P274
+   Ervin S., 2011, SYSTEM GEODESIGN
+   EU, 2011, URB GOV EU
+   Finco A., 2001, J ENVIRON POL PLAN, V3, P289, DOI DOI 10.1002/JEPP.94
+   Flaxman M., 2010, FUNDAMENTALS GEODESI
+   GEERTMAN S, 1999, ADV SPAT SCI, P69
+   Gheasi M., 2012, UNDOCUMENTED MIGRANT
+   Giannetti M, 2002, EUR ECON REV, V46, P539, DOI 10.1016/S0014-2921(01)00166-0
+   Glaeser E., 2011, TRIUMPH CITY
+   HARRIS B, 1965, J AM I PLANNERS, V31, P90, DOI 10.1080/01944366508978149
+   HARRIS JR, 1970, AM ECON REV, V60, P126
+   Haughton G., 1994, SUSTAINABLE CITIES
+   Hilferink M., 1999, J GEOGRAPHICAL SYSTE, V1, P155, DOI DOI 10.1007/S101090050010
+   Jenks M., 1996, COMPACT CITY SUSTAIN
+   Kabisch N, 2011, POPUL SPACE PLACE, V17, P236, DOI 10.1002/psp.600
+   Kourtit K, 2013, REG SCI POLICY PRACT, V5, P167, DOI 10.1111/rsp3.12002
+   Kresl P., 2011, EUROPEAN CITIES GLOB
+   LEE DB, 1973, J AM I PLANNERS, V39, P163, DOI 10.1080/01944367308977851
+   McHARG I. L., 1971, DESIGN NATURE
+   Mega V, 2010, REGIONAL SYMBIOSIS, V18, P1
+   Mohl P, 2010, REG SCI URBAN ECON, V40, P353, DOI 10.1016/j.regsciurbeco.2010.03.005
+   Mulligan GF, 2005, CITIES, V22, P365, DOI 10.1016/j.cities.2005.07.001
+   Mulligan GF, 2006, GEOGR ANAL, V38, P344, DOI 10.1111/j.1538-4632.2006.00690.x
+   Myers D, 2001, J AM PLANN ASSOC, V67, P365, DOI 10.1080/01944360108976244
+   Neal Z., 2012, THE CONNECTED CITY
+   Newman P. W.G., 1989, CITIES AUTOMOBILE DE
+   Nijkamp P, 2008, J ROMANIAN REGIONAL, V2, P1
+   Nijkamp P, 2011, URBAN EUROPE SCOPING
+   NIJKAMP P., 2012, MIGRATION IMPACT ASS
+   Nijkamp P., 2013, J TRANSPORT GEOGRAPH
+   Nijkamp P., 2013, NEW URBAN WORLD FUTU, P44
+   Nijkamp P., 2012, EUROPEAN PLANNING ST, V21, P291, DOI [10.1080/09654313.2012.716243, DOI 10.1080/09654313.2012.716243]
+   Nijkamp P., 2001, INT J ENV TECHNOLOGY, V1, P303
+   Nijkamp P, 2010, EUR PLAN STUD, V18, P595, DOI 10.1080/09654311003593515
+   OECD, 2011, DIV WE STAND
+   Overman HG, 2002, ECON POLICY, P115
+   Ratcliffe J, 2011, FUTURES, V43, P642, DOI 10.1016/j.futures.2011.05.005
+   Ravetz J, 2011, SUSTAINABLE CITY AND CREATIVITY: PROMOTING CREATIVE URBAN INITIATIVES, P339
+   Sassen S, 1991, GLOBAL CITY
+   Sassen S., 2010, GLOBAL CITIES WORLD, P27
+   Scholten H, 2009, GEOJOURNAL LIB, V96, P1, DOI 10.1007/978-90-481-2620-0
+   Scholten H. J., 2001, RUIMTESCANNER INFORM
+   Smith P. D., 2012, CITY GUIDEBOOK URBAN
+   Steinitz C, 2012, FRAMEWORK GEODESIGN
+   Stillwell J., 2001, LAND USE SIMULATION
+   Stillwell J., 1999, GEOGRAPHICAL INFORM
+   Taylor PJ, 2004, WORLD CITY NETWORK
+   TIEBOUT CM, 1956, J POLIT ECON, V64, P416, DOI 10.1086/257839
+   Toynbee A. J., 1946, STUDY HIST ABRIDGEME
+   Turok I, 2007, CITIES, V24, P165, DOI 10.1016/j.cities.2007.01.007
+   Turok I, 2008, URBAN RES PRACT, V1, P54, DOI 10.1080/17535060701795363
+   UN (United Nations), 2007, STAT WORLD POP
+   United Nations. Department of Economic and Social Affairs, 2011, WORLD URB PROSP 2011
+   Van Poll R, 1997, THESIS
+   van Rooijen T, 2010, PROCD SOC BEHV, V2, P5967, DOI 10.1016/j.sbspro.2010.04.011
+   Verburg PH, 2006, AGR ECOSYST ENVIRON, V114, P39, DOI 10.1016/j.agee.2005.11.024
+   Weiss M. A., 2006, HARVARD COLL EC  FAL, P25
+   Yigitcanlar T, 2012, BUILDING PROSPEROUS KNOWLEDGE CITIES: POLICIES, PLANS AND METRICS, P1
+   Zwick P., 2010, PLANNING, V76, P20
+NR 74
+TC 5
+Z9 5
+SN 1356-3475
+EI 1469-9265
+PY 2015
+VL 20
+IS 1-2
+SI SI
+BP 4
+EP 20
+DI 10.1080/13563475.2014.938716
+UT WOS:000211257600003
+ER
+
+PT J
+AU Bristow, D
+   Kennedy, C
+AF Bristow, David
+   Kennedy, Christopher
+TI Why Do Cities Grow? Insights from Nonequilibrium Thermodynamics at the
+   Urban and Global Scales
+SO JOURNAL OF INDUSTRIAL ECOLOGY
+DE cities; complexity; energy; industrial ecology; thermodynamics; urban
+   metabolism
+ID MAXIMUM-ENTROPY PRODUCTION; ECOLOGICAL ECONOMICS; PRODUCTION PRINCIPLE;
+   LIVING SYSTEMS; EARTH SYSTEM; ENERGY; LAW; EXPLANATION; INFORMATION;
+   METABOLISM
+AB This forum article explores thermodynamic understanding of the growth of cities, including theoretical foundations, observations, and analysis. The general theory of nonequilibrium thermodynamics is reviewed, recognizing differences in interpretation between Prigogine and Schneider and Kay as well as discussing the hypothesis of maximum entropy production. Calculations of exergy gradients in a few cities and settlements, along with measures of anthropogenic heat loss in further cities, support the notion that cities are dissipative structures. The observation that primary energy use per capita increases in Singapore and Hong Kong as they grow is further evidence to support the thermodynamic understanding of the growth of cities, indicative of an increasing rate of entropy production. At the global scale, the strong linear relationship between global urban population and total global energy use, and the distribution of city sizes according to Zipf's law, can be understood as emergent results based on thermodynamics. Parallel results might be derived from models that represent underlying microscale processes, several of which are reviewed. Issues for future research include: development of nonequilibrium thermodynamic models specific to city growth; further study of exergy flows of cities with consistent methodology, including attention to solar energy exchanges in cities; and further exploration of links between thermodynamic and economic models of urban growth.
+CR Adams R. N., 1975, ENERGY STRUCTURE THE
+   AOKI I, 1995, THERMOCHIM ACTA, V250, P359, DOI 10.1016/0040-6031(94)02143-C
+   Aoki I, 2008, ECOL MODEL, V215, P89, DOI 10.1016/j.ecolmodel.2008.02.011
+   Ayres R. U., 2005, Structural Change and Economic Dynamics, V16, P181, DOI 10.1016/j.strueco.2003.10.003
+   Ayres R, 2014, ENERG POLICY, V64, P16, DOI 10.1016/j.enpol.2013.06.001
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Batty Michael., 2013, NEW SCI CITIES
+   Baynes TM, 2012, J IND ECOL, V16, P862, DOI 10.1111/j.1530-9290.2012.00567.x
+   Baynes TM, 2012, CURR OPIN ENV SUST, V4, P458, DOI 10.1016/j.cosust.2012.09.003
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bristow DN, 2013, AMBIO, V42, P41, DOI 10.1007/s13280-012-0350-x
+   Christaller W., 1933, CENTRAL PLACES SO GE
+   Cleveland CJ, 1997, ECOL ECON, V22, P203, DOI 10.1016/S0921-8009(97)00079-7
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   CURRY L, 1964, ANN ASSOC AM GEOGR, V54, P138, DOI 10.1111/j.1467-8306.1964.tb00479.x
+   Dewar R, 2003, J PHYS A-MATH GEN, V36, P631, DOI 10.1088/0305-4470/36/3/303
+   Dewar R. C, 2005, NONEQUILIBRIUM THERM
+   FABER M, 1985, KYKLOS, V38, P599, DOI 10.1111/j.1467-6435.1985.tb01248.x
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Georgescu-Roegen N., 1971, ENTROPY LAW EC PROCE
+   GEORGESCUROEGEN N, 1979, SOUTHERN ECON J, V45, P1023, DOI 10.2307/1056953
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   GLAESER EL, 1992, J POLIT ECON, V100, P1126, DOI 10.1086/261856
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Grubler A., 2012, GLOBAL ENERGY ASSESS, P1307, DOI DOI 10.1017/CBO9780511793677.024
+   Hammond Geoffrey P, 2009, Sustainability, V1, P1195, DOI 10.3390/su1041195
+   Hernando A, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.066105
+   Hoornweg D., 2011, ENVIRON URBAN, V23, P1, DOI DOI 10.1177/0956247810392270
+   Huang SL, 2003, LANDSCAPE URBAN PLAN, V63, P61, DOI 10.1016/S0169-2046(02)00152-4
+   Jacobs J, 1969, EC CITIES
+   Kauffamn S, 2000, INVESTIGATIONS
+   Kay J., 2003, SOME COMMON SL UNPUB
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kennedy CA, 2014, NAT CLIM CHANGE, V4, P343, DOI 10.1038/NCLIMATE2160
+   Kennedy C. A., 2011, EVOLUTION GREAT WORL
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kim E, 2012, REG ENVIRON CHANGE, V12, P295, DOI 10.1007/s10113-011-0275-0
+   Kleidon A, 2010, PHILOS T R SOC B, V365, P1303, DOI 10.1098/rstb.2009.0310
+   KLEIDON A, 2005, NONEQUILIBRIUM THERM
+   Kleidon A, 2009, NATURWISSENSCHAFTEN, V96, P653, DOI 10.1007/s00114-009-0509-x
+   KRUGMAN P, 1993, EUR ECON REV, V37, P293, DOI 10.1016/0014-2921(93)90017-5
+   Krugman P. R., 1996, SELF ORG EC
+   Larsen HN, 2009, ENVIRON SCI POLICY, V12, P791, DOI 10.1016/j.envsci.2009.07.010
+   Lineweaver C. H., 2005, NONEQUILIBRIUM THERM
+   Liu GY, 2012, ECOL INFORM, V10, P2, DOI 10.1016/j.ecoinf.2011.10.001
+   Martinez-Negrete M, 2013, ENERGY SUSTAIN DEV, V17, P463, DOI 10.1016/j.esd.2013.05.004
+   Martyushev LM, 2006, PHYS REP, V426, P1, DOI 10.1016/j.physrep.2005.12.001
+   MASERA OR, 1991, ENERGY, V16, P763, DOI 10.1016/0360-5442(91)90026-I
+   Morris I., 2010, WHY W RULES PATTERNS
+   Mumford Lewis, 1961, CITY HIST
+   Nicolis G, 1977, SELF ORG NONEQUILIBR
+   Pred A. R., 1966, SPATIAL DYNAMICS US
+   PRIGOGIN.I, 1972, PHYS TODAY, V25, P23, DOI 10.1063/1.3071090
+   PRIGOGINE I, 1978, SCIENCE, V201, P777, DOI 10.1126/science.201.4358.777
+   Proops J. L. R., 1985, ENERGY TIME EC PHYS
+   Rees W. E., 2012, SUSTAINABILITY SCI E
+   Reiter S, 2012, J IND ECOL, V16, P829, DOI 10.1111/j.1530-9290.2012.00533.x
+   Ropke I, 2004, ECOL ECON, V50, P293, DOI 10.1016/j.ecolecon.2004.02.012
+   ROSEN KT, 1980, J URBAN ECON, V8, P165, DOI 10.1016/0094-1190(80)90043-1
+   Ruth M., 1993, INTEGRATING EC ECOLO
+   SAWADA Y, 1981, PROG THEOR PHYS, V66, P68, DOI 10.1143/PTP.66.68
+   SCHNEIDER ED, 1994, MATH COMPUT MODEL, V19, P25, DOI 10.1016/0895-7177(94)90188-0
+   Schrodinger E., 1944, WHAT IS LIFE
+   Schulz NB, 2010, ENERG POLICY, V38, P4848, DOI 10.1016/j.enpol.2009.08.066
+   Steger U., 2005, SUSTAINABLE DEV INNO
+   TRIBUS M, 1971, SCI AM, V225, P179, DOI 10.1038/scientificamerican0971-179
+   Visser M, 2013, NEW J PHYS, V15, DOI 10.1088/1367-2630/15/4/043021
+   White L. A, 1959, EVOLUTION CULTURE
+   White Leslie A., 1969, SCI CULTURE STUDY MA
+   ZIEGLER H, 1983, Z ANGEW MATH PHYS, V34, P832, DOI 10.1007/BF00949059
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+   Zipf GK, 1946, AM SOCIOL REV, V11, P677, DOI 10.2307/2087063
+   Zupanovic P, 2010, ENTROPY-SWITZ, V12, P473, DOI 10.3390/e12030473
+NR 76
+TC 16
+Z9 17
+SN 1088-1980
+EI 1530-9290
+PD APR
+PY 2015
+VL 19
+IS 2
+SI SI
+BP 211
+EP 221
+DI 10.1111/jiec.12239
+UT WOS:000353243300007
+ER
+
+PT J
+AU Ribeiro, FL
+AF Ribeiro, Fabiano L.
+TI A Non-phenomenological Model of Competition and Cooperation to Explain
+   Population Growth Behaviors
+SO BULLETIN OF MATHEMATICAL BIOLOGY
+DE Complex systems; Population dynamics (ecology); Pattern formation
+   ecological
+ID DYNAMICS MODEL; GENERAL-MODEL; DENSITY; PLANT; LIFE; LAWS
+AB This paper is an extension of a previous work which proposes a non-phenomenological model of population growth that is based on the interactions among the individuals of a population. In addition to what had already been studied-that the individuals interact competitively-in the present work it is also considered that the individuals interact cooperatively. As a consequence of this new consideration, a richer dynamics is observed. For instance, besides getting the population models already reached from the original version of the model (as the Malthus, Verhulst, Gompertz, Richards, Bertalanffy and power-law growth models), the new formulation also reaches the von Foerster growth model and also a regime of divergence of the population at a finite time. An agent-based model is also presented in order to give support to the analytical results. Moreover, this new approach of the model explains the Allee effect as an emergent behavior of the cooperative and competitive interactions among the individuals. The Allee effect is the characteristic of some populations of increasing the population growth rate in a small-sized population. Whereas the models presented in the literature explain the Allee effect with phenomenological ideas, the model presented here explains this effect by the interactions between the individuals. The model is tested with empirical data to justify its formulation. Another interesting macroscopic emergent behavior from the model proposed is the observation of a regime of population divergence at a finite time. It is interesting that this characteristic is observed in humanity's global population growth. It is shown that in a regime of cooperation, the model fits very well to the human population growth data from 1000 AD to nowadays.
+RI Ribeiro, Fabiano/G-9519-2014
+CR Allee W. C, 1949, PRINCIPLES ANIMAL EC
+   Arruda T-J, 2008, PHYS LETT A, V372, P2578
+   Barberis L, 2011, CHAOS SOLITON FRACT, V44, P1100, DOI 10.1016/j.chaos.2011.09.007
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boccara N., 2003, MODELING COMPLEX SYS
+   Chester M, 2011, OPEN J ECOL, V1, P77
+   Courchamp F, 1999, TREE, V14
+   d'Onofrio A, 2009, CHAOS SOLITON FRACT, V41, P875, DOI 10.1016/j.chaos.2008.04.014
+   dos Santos LS, 2014, THEOR BIOSCI, V133, P117, DOI 10.1007/s12064-014-0199-6
+   Drasdo D, 2003, MATH COMPUT MODEL, V37, P1163, DOI 10.1016/S0895-7177(03)00128-6
+   Edelstein-Keshet L, 2005, MATH MODELS BIOL CLA
+   Falconer K. J., 1990, FRACTAL GEOMETRY MAT
+   FREYER JP, 1985, J CELL PHYSIOL, V124, P516, DOI 10.1002/jcp.1041240323
+   Ghazoul J, 1998, J ECOL, V86, P462, DOI 10.1046/j.1365-2745.1998.00270.x
+   Ginzburg LR, 1972, STUDIES THEORETICAL, P65
+   Gompertz R., 1825, PHILOS T R SOC LOND, V115, P513
+   Gregorczyk A, 1998, J AGRON CROP SCI, V181, P243, DOI 10.1111/j.1439-037X.1998.tb00424.x
+   Gregory SD, 2009, ECOLOGY, V91, P2151, DOI DOI 10.1890/09-1128.1
+   Groom MJ, 1998, AM NAT, V151, P487, DOI 10.1086/286135
+   Guiot C, 2003, J THEOR BIOL, V225, P147, DOI 10.1016/S0022-5193(03)00221-2
+   Haybittle JL, 1998, INT J EPIDEMIOL, V27, P885, DOI 10.1093/ije/27.5.885
+   KADANOFF L, 2000, STAT PHYS STAT DYNAM
+   Kohler TA, 2000, DYNAMICS HUMAN PRIMA
+   Kuehn C, 2011, ARXIV10124340
+   Malthus T, 1798, ESSAY PRINCIPLE POPU
+   Marcel Ausloos, 2012, ARXIV12086179
+   Martinez AS, 2008, PHYSICA A, V387, P5679, DOI 10.1016/j.physa.2008.06.015
+   Martinez AS, 2009, PHYSICA A, V388, P2922, DOI 10.1016/j.physa.2009.03.035
+   Mitchell M., 2011, COMPLEXITY GUIDED TO
+   Mombach JCM, 2002, EUROPHYS LETT, V59, P923, DOI 10.1209/epl/i2002-00244-6
+   Murray JD, 2002, MATH BIOL
+   Ribeiro F, 2014, THEOR BIOSCI, V133, P135, DOI 10.1007/s12064-014-0205-z
+   RICHARDS FJ, 1959, J EXP BOT, V10, P290, DOI 10.1093/jxb/10.2.290
+   Roll J, 1997, CONSERV BIOL, V11, P738, DOI 10.1046/j.1523-1739.1997.96013.x
+   SAVAGEAU MA, 1980, MATH BIOSCI, V48, P267, DOI 10.1016/0025-5564(80)90061-9
+   Sibly RM, 2005, SCIENCE, V309
+   Solomon S, 1999, ARXIVCONDMAT9901250
+   Strzalka D, 2009, ACTA PHYS POLONICA B, V40
+   Strzalka D, 2008, PHYSICA A, V387, P2511, DOI 10.1016/j.physa.2007.12.014
+   Cabella BCT, 2012, PHYSICA A, V391, P1281, DOI 10.1016/j.physa.2011.11.018
+   Cabella BCT, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.061902
+   TSALLIS C, 1988, J STAT PHYS, V52, P479, DOI 10.1007/BF01016429
+   Tsallis C, 1994, QUIM NOVA, V17, P468
+   Verhulst PF, 1847, NOUV MEM ACAD ROY SC, V20, P1
+   VERHULST PF, 1845, NOUVEAUX MEMOIRES AC, V18
+   von Foerster H., 1960, SCIENCE, V132
+   VONBERTALANFFY L, 1957, Q REV BIOL, V32, P217, DOI 10.1086/401873
+   VONBERTALANFFY L, 1960, FUNDAMENTAL ASPECTS, P137
+   West GB, 2001, NATURE, V413, P628, DOI 10.1038/35098076
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Yeomans J.M, 1992, STAT MECH PHASE TRAN
+NR 51
+TC 12
+Z9 13
+SN 0092-8240
+EI 1522-9602
+PD MAR
+PY 2015
+VL 77
+IS 3
+BP 409
+EP 433
+DI 10.1007/s11538-014-0059-z
+UT WOS:000352106100001
+PM 25724311
+ER

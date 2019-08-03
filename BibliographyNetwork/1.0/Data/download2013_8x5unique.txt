@@ -1,0 +1,379 @@
+
+PT J
+AU Jiang, B
+AF Jiang, Bin
+TI Head/Tail Breaks: A New Classification Scheme for Data with a
+   Heavy-Tailed Distribution
+SO PROFESSIONAL GEOGRAPHER
+LA English
+DT Article
+DE data classification; head/tail division rule; hierarchy; natural breaks;
+   scaling
+ID CHOROPLETH MAPS; CLASS INTERVALS; INFORMATION
+AB This article introduces a new classification schemehead/tail breaksto find groupings or hierarchy for data with a heavy-tailed distribution. The heavy-tailed distributions are heavily right skewed, with a minority of large values in the head and a majority of small values in the tail, commonly characterized by a power law, a lognormal, or an exponential function. For example, a country's population is often distributed in such a heavy-tailed manner, with a minority of people (e.g., 20 percent) in the countryside and the vast majority (e.g., 80 percent) in urban areas. This new classification scheme partitions all of the data values around the mean into two parts and continues the process iteratively for the values (above the mean) in the head until the head part values are no longer heavy-tailed distributed. Thus, the number of classes and the class intervals are both naturally determined. I therefore claim that the new classification scheme is more natural than the natural breaks in finding the groupings or hierarchy for data with a heavy-tailed distribution. I demonstrate the advantages of the head/tail breaks method over Jenks's natural breaks in capturing the underlying hierarchy of the data.
+C1 Univ Gavle, Dept Technol & Built Environm, S-80176 Gavle, Sweden.
+RP Jiang, B (reprint author), Univ Gavle, Dept Technol & Built Environm, S-80176 Gavle, Sweden.
+EM bin.jiang@hig.se
+CR Alexander JW, 1943, GEOGR REV, V33, P457, DOI 10.2307/209807
+   Brewer CA, 2002, ANN ASSOC AM GEOGR, V92, P662, DOI 10.1111/1467-8306.00310
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   COULSON MRC, 1987, CARTOGRAPHICA, V24, P16, DOI DOI 10.3138/U7X0-1836-5715-3546
+   EVANS IS, 1977, T I BRIT GEOGR, V2, P98, DOI 10.2307/622195
+   FISHER WD, 1958, J AM STAT ASSOC, V53, P789, DOI 10.2307/2281952
+   JENKS GF, 1963, ANN ASSOC AM GEOGR, V53, P15, DOI 10.1111/j.1467-8306.1963.tb00429.x
+   Jenks GF, 1967, INT YB CARTOGRAPHY, V7, P186
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B., 2010, LAS NAV 20 ANN M COG
+   Jiang B, 2012, INT J GEOGR INF SCI, V26, P215, DOI 10.1080/13658816.2011.575074
+   Jiang B, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/07/P07008
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1033, DOI 10.1080/13658810802004648
+   MacEachren A., 1994, SOME TRUTH MAPS PRIM
+   MILLER GA, 1956, PSYCHOL REV, V63, P81, DOI 10.1037/0033-295X.101.2.343
+   Monmonier M., 1996, LIE MAPS
+   National Weather Service, 2011, NAT OC ATM ADM NAT W
+   Pumain D, 2006, METHODS SER, V3, P1, DOI 10.1007/1-4020-4127-6
+   Salingaros NA, 1999, ENVIRON PLANN B, V26, P909, DOI 10.1068/b260909
+   SCRIPTER MW, 1970, ANN ASSOC AM GEOGR, V60, P385, DOI 10.1111/j.1467-8306.1970.tb00727.x
+   Taleb N.N., 2007, BLACK SWAN IMPACT HI
+   TOBLER WR, 1973, GEOGR ANAL, V5, P262
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 23
+TC 74
+Z9 80
+U1 3
+U2 26
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0033-0124
+J9 PROF GEOGR
+JI Prof. Geogr.
+PD AUG 1
+PY 2013
+VL 65
+IS 3
+BP 482
+EP 494
+DI 10.1080/00330124.2012.700499
+PG 13
+WC Geography
+SC Geography
+GA 159BI
+UT WOS:000320018600011
+HC Y
+HP N
+DA 2019-03-26
+ER
+
+PT S
+AU Rosler, R
+   Liebig, T
+AF Roesler, Roberto
+   Liebig, Thomas
+BE Vandenbroucke, D
+   Bucher, B
+   Crompvoets, J
+TI Using Data from Location Based Social Networks for Urban Activity
+   Clustering
+SO GEOGRAPHIC INFORMATION SCIENCE AT THE HEART OF EUROPE
+SE Lecture Notes in Geoinformation and Cartography
+LA English
+DT Proceedings Paper
+CT 16th AGILE Conference on Geographic Information Science
+CY MAY 14-17, 2013
+CL Leuven, BELGIUM
+SP AGILE, ESRI, Intergraph, Geosparc, Natl Geograph Inst, Arenberg Doctoral Sch, Google
+AB Understanding the spatial and temporal aspects of activities in urban regions is one of the key challenges for the emerging fields of urban computing and emergency management as it provides indispensable insights on the quality of services in urban environments and helps to describe the socio-dynamics of urban districts. This work presents a novel approach to obtain this highly valuable knowledge. We hereby propose a segmentation of a city into clusters based on activity profiles using data from a Location Based Social Network (LBSN). In our approach, a segment is represented by different locations sharing the same temporal distribution of check-ins. We reveal how to describe the topic of the determined segments by modelling the difference to the overall temporal distribution of check-ins of the region. Furthermore, a technique from multidimensional scaling is adopted to compute a classification of all segments and visualize the results. The proposed method was successfully applied to Foursquare data recorded from May to October 2012 in the region of Cologne (Germany) and returns clear patterns separating areas known for different activities like nightlife or daily work. Finally, we discuss different aspects related to the use of data from LBSNs.
+C1 [Roesler, Roberto] Fraunhofer IAIS, D-53757 St Augustin, Germany.
+   [Liebig, Thomas] TU Dortmund Univ, Dept Comp Sci, LS8, D-44221 Dortmund, Germany.
+RP Rosler, R (reprint author), Fraunhofer IAIS, D-53757 St Augustin, Germany.
+EM roberto.roesler@iais.fraunhofer.de; thomas.liebig@tu-dortmund.de
+OI Liebig, Thomas/0000-0002-9841-1101
+CR Andrienko N, 2012, KUNSTL INTELL, V26, P241, DOI 10.1007/s13218-012-0177-4
+   Aubrecht C., 2011, P 7 INT C VIRT CIT T, P57
+   Bawa-Cavia A, 2011, 1 WORKSH PERV URB AP
+   Chen LJ, 2011, IEEE INT C TECHN HOM, P501
+   Cheng Z, 2011, SOCIAL MOBILE WEB
+   Cho Eunjoon, 2011, P 17 ACM SIGKDD INT, DOI [DOI 10.1145/2020408.2020579, 10.1145/2020408.2020579]
+   Cranshaw J, 2012, 6 INT AAAI IN PRESS
+   De Longueville B, 2009, P 2009 INT WORKSH LO, P73, DOI [10.1145/1629890.1629907, DOI 10.1145/1629890.1629907]
+   FRED ALN, 2002, P JOINT IAPR INT WOR, P442
+   Gao H, 2012, ICWSM
+   Goodchild MF, 2007, GEOJOURNAL, V69, P211, DOI 10.1007/s10708-007-9111-y
+   Hongli Luo, 2012, Proceedings of the 2012 IEEE 3rd International Conference on Software Engineering and Service Science (ICSESS), P769, DOI 10.1109/ICSESS.2012.6269580
+   Jain AK, 1999, ACM COMPUT SURV, V31, P264, DOI 10.1145/331499.331504
+   Jiang Shan, 2012, P ACM SIGKDD INT WOR, P95
+   Jin L., 2012, P 2012 ACM WORKSH BU, P25
+   Joseph  Kenneth, 2012, P 2012 ACM C UB COMP, P919, DOI DOI 10.1145/2370216
+   Kindberg T, 2007, IEEE PERVAS COMPUT, V6, P18, DOI 10.1109/MPRV.2007.57
+   Lindqvist J., 2011, P SIGCHI C HUM FACT, DOI [10.1145/1978942.1979295, DOI 10.1145/1978942.1979295]
+   Long  Xuelian, 2012, P 2012 ACM C UB COMP, P927, DOI 10.1145/2370216.2370423
+   Ng A, 2001, NEURAL INFORM PROCES, V14, P849
+   Noulas A., 2011, SOCIAL MOBILE WEB
+   Noulas A., 2011, P 5 INT AAAI C WEBL, P570
+   Pontes T., 2012, P 2012 ACM C UB COMP, P898
+   Reades J, 2007, IEEE PERVAS COMPUT, V6, P30, DOI 10.1109/MPRV.2007.53
+   SAMMON JW, 1969, IEEE T COMPUT, VC 18, P401, DOI 10.1109/T-C.1969.222678
+   Shimada K, 2011, 1 ACIS INT S SOFTW N, P61
+   Thom D, 2012, IEEE PAC VIS SYMP, P41, DOI 10.1109/PacificVis.2012.6183572
+   Todorovski L, 2002, QUALITATIVE CLUSTERI, P141
+   Ye M, 2011, P 19 ACM SIGSPATIAL, P102, DOI DOI 10.1145/2093973.2093989
+NR 29
+TC 17
+Z9 17
+U1 1
+U2 10
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 1863-2246
+BN 978-3-319-00615-4
+J9 LECT NOTES GEOINF CA
+PY 2013
+BP 55
+EP 72
+DI 10.1007/978-3-319-00615-4_4
+PG 18
+WC Computer Science, Information Systems; Geography, Physical
+SC Computer Science; Physical Geography
+GA BGW77
+UT WOS:000324403600004
+DA 2019-03-26
+ER
+
+PT S
+AU Calvillo, CF
+   Sanchez, A
+   Villar, J
+AF Calvillo, C. F.
+   Sanchez, A.
+   Villar, J.
+GP IEEE
+TI Distributed Energy Generation in Smart Cities
+SO 2013 INTERNATIONAL CONFERENCE ON RENEWABLE ENERGY RESEARCH AND
+   APPLICATIONS (ICRERA)
+SE International Conference on Renewable Energy Research and Applications
+LA English
+DT Proceedings Paper
+CT International Conference on Renewable Energy Research and Applications
+   (ICRERA)
+CY OCT 20-23, 2013
+CL Madrid, SPAIN
+SP Int Journal Renewable Energy Res, Comillas Pontif Univ, IEEE, IEEE Power Elect Soc, IEEE Ind Applicat Soc, IBERDROLA, KBSoftware, Asociac Ingenieros ICAI, IEEE Secc Espana, IEEE Spanish Power Elect Ind Elect Joint Chapter, Univ Deusto, iMS, bime, Fraunhofer, INESCTEC, Aalborg Univ, CARTIF, EiC, European Commiss & Inst Elect Informat & Commun Engineers Japan, Natl Assoc Spanish ICAI Engineers
+DE smart city; distributed generation; renewable sources
+ID STORAGE
+AB The smart city is a sustainable and efficient urban center that provides high quality of life to its inhabitants with an optimal management of its resources, where clean and cost effective energy generation is a key issue. Under this setting, distributed generation can provide an adequate tool to deal with energy reliability and to successfully implement renewable sources; nevertheless, selection and scaling of energy systems, considering location, is not a trivial task. Frequently, the stakeholders analyze only one or two "popular" generation systems, and then calculate the output and return of investment in a simplified and approximated approach. This practice could lead the stakeholder to an inadequate technology mix.
+   To tackle this problem, this paper reviews and models most common energy sources for distributed generation in a smart city context. Then, a technical economic analysis is developed for 2 cases, a household and a district, considering not only renewable sources but also efficient non-renewable technologies. The results of the numerical analysis help to assess the more adequate generation systems for a given application, energetic demand, and geographical characteristics. A well-developed analysis is essential for a better understanding of the available technologies and their synergies; as a result, the investors can choose the appropriate solutions, maximizing overall benefits.
+C1 [Calvillo, C. F.; Sanchez, A.; Villar, J.] Comillas Pontifical Univ, Inst Res Technol IIT, Madrid, Spain.
+RP Calvillo, CF (reprint author), Comillas Pontifical Univ, Inst Res Technol IIT, Madrid, Spain.
+EM christian.calvillo@iit.upcomillas.es; alvaro.sanchez@iit.upcomillas.es;
+   jose.villar@iit.upcomillas.es
+OI Villar, Jose/0000-0001-6954-9833; Calvillo,
+   Christian/0000-0002-5495-6601; Sanchez Miralles,
+   Alvaro/0000-0003-0410-511X
+CR Adhikari R. S., 2011, 2011 International Conference on Clean Electrical Power, P461, DOI 10.1109/ICCEP.2011.6036292
+   [Anonymous], 2011, 2010 SOL TECHN MARK
+   [Anonymous], 1998, PROYECT INDEL ATL DE
+   BRAUNSTEIN A, 1986, IEEE T ENERGY CONVER, V1, P31, DOI 10.1109/TEC.1986.4765770
+   Brenden Rubyna K, 2009, PICMET '09 - 2009 Portland International Conference on Management of Engineering & Technology, P2548, DOI 10.1109/PICMET.2009.5261810
+   Chicco G., 2011, 2 INT C BIOENV BIOD
+   Chicco G, 2008, ENERG CONVERS MANAGE, V49, P2069, DOI 10.1016/j.enconman.2008.02.015
+   Chiradeja P., 2005, TRANSM DISTR C EXH A, P1
+   Chourabi H., 2012, 2012 45 HAW INT C SY, P2289
+   EPA US, CHP TECHN
+   European Commission-Joint Research Centre, PHOT GEOGR INF SYST
+   Giraud F, 2001, IEEE T ENERGY CONVER, V16, P1, DOI 10.1109/60.911395
+   Hammons T. J, 2003, POW TECH C P 2003 IE, V1
+   IDAE, ATL EOL ESP
+   IDAE Secretaria General Departamento de Planificacion y Estudios, 2011, AN CONS EN SECT RES
+   Intergovernmental Panel on Climate Change (IPCC), 2011, SPEC REP REN EN SOUR
+   Kalogirou SA, 2004, PROG ENERG COMBUST, V30, P231, DOI 10.1016/j.pecs.2004.02.001
+   Karekezi S., 2004, SECR INT C REN EN BO
+   Keerthipala W. W L, 2000, INT C POW SYST TECHN, V1, P55
+   Manfroi G., 2011, 2011 International Conference on Clean Electrical Power, P466, DOI 10.1109/ICCEP.2011.6036293
+   NUS Consulting Group, 2012, 2011 2012 INT EL NAT
+   Parkinson S., 2012, 2012 IEEE INNOVATIVE, P1
+   SRCC, SOL RAT CERT CORP RA
+   Usaola J, 2012, IET RENEW POWER GEN, V6, P59, DOI 10.1049/iet-rpg.2011.0178
+   Windustry, MUCH DO WIND TURB CO
+   Xin Ai, 2011, 2011 4 INT C EL UT D, P703
+NR 26
+TC 9
+Z9 9
+U1 1
+U2 3
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2377-6897
+BN 978-1-4799-1464-7
+J9 INT CONF RENEW ENERG
+PY 2013
+BP 161
+EP 166
+PG 6
+WC Energy & Fuels
+SC Energy & Fuels
+GA BC5XZ
+UT WOS:000353637100024
+DA 2019-03-26
+ER
+
+PT J
+AU Thomas, I
+   Frankhauser, P
+AF Thomas, Isabelle
+   Frankhauser, Pierre
+TI Fractal dimensions of the built-up footprint: buildings versus roads.
+   Fractal evidence from Antwerp (Belgium)
+SO ENVIRONMENT AND PLANNING B-PLANNING & DESIGN
+LA English
+DT Article
+DE fractal; built-up patterns; road network; Belgium
+ID URBAN; BRUSSELS; DENSITY; GROWTH; SYSTEM; AREAS; FORM
+AB In this paper we explore further the use of fractal dimensions by comparing values for built-up spaces and values for road networks, both being estimated by the same method. This is done in an attempt to explain the differences theoretically and empirically, and to show how far both indices are complementary and useful in urban planning. Empirical analyses are performed at the scale of the townships within the urban region of Antwerp (Belgium). Fractal dimensions, curves of scaling behavior, and concordance analyses are computed and their usefulness explained. We conclude that both dimensions translate subtly different realities and that they should be used with caution in morphological analyses: the fractal dimension for built-up spaces indicates how uniformly buildings fill space when zooming to ever finer scales, while the fractal dimension for networks indicates the extent to which street segments are distributed more or less uniformly in the study area. The two are not the same, as roads can serve spaces that are not built up.
+C1 [Thomas, Isabelle] Catholic Univ Louvain, Ctr Operat Res & Econometr, B-1348 Louvain, Belgium.
+   [Frankhauser, Pierre] Univ Franche Comte, TheMA CNRS UMR 6049, F-25030 Besancon, France.
+RP Thomas, I (reprint author), Catholic Univ Louvain, Ctr Operat Res & Econometr, Voie Roman Pays 34,Box L1-03-01, B-1348 Louvain, Belgium.
+EM isabelle.thomas@uclouvain.be; pierre.frankhauser@univ-fcomte.fr
+OI Frankhauser, Pierre/0000-0001-6600-6972
+CR BATTY M, 1992, URBAN STUD, V29, P1043, DOI 10.1080/00420989220081041
+   Batty M, 1996, ENVIRON PLANN A, V28, P1745, DOI 10.1068/a281745
+   Batty M, 2005, CITIES COMPLEXITY UN
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   BENGUIGUI L, 1992, J PHYS I, V2, P385
+   BENGUIGUI L, 1991, GEOGR ANAL, V23, P362
+   Cavailhes J, 2004, ENVIRON PLANN A, V36, P1471, DOI 10.1068/a36126
+   Cavailhes J, 2011, ANN REGIONAL SCI, V45, P681
+   Chen Y., 2009, INT J URBAN SUSTAINA, V1, P89
+   De Keersmaecker ML, 2003, GEOGR ANAL, V35, P310, DOI 10.1353/geo.2003.0014
+   DONNAY JP, 2001, REMOTE SENSING URBAN
+   FRANKHAUSER P, 2000, STRUCTURE VILLES ENT, P25
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Frankhauser P, 2008, 3 PREDIT, P114
+   Frankhauser P, 2010, MODELS SPATIAL ANAL, P281
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   Frankhauser P, 2008, DYNAMICS COMPLEX URB, P241
+   GEFEN Y, 1984, J PHYS A-MATH GEN, V17, P1277, DOI 10.1088/0305-4470/17/6/024
+   Gouyet J. F., 1992, PHYS STRUCTURES FRAC
+   GRASSBERGER P, 1983, PHYSICA D, V9, P189, DOI 10.1016/0167-2789(83)90298-1
+   Huang JG, 2007, LANDSCAPE URBAN PLAN, V82, P184, DOI 10.1016/j.landurbplan.2007.02.010
+   Kim KS, 2003, CITIES, V20, P31, DOI 10.1016/S0264-2751(02)00094-X
+   Lam N. S. -N., 2002, FRACTALS GEOGRAPHY
+   Lu YM, 2004, ENVIRON PLANN B, V31, P895, DOI 10.1068/b3163
+   Luyten S, 2007, 14 FOD ALG DIR STAT
+   Luyten S., 2007, BELGISCHE STADSGEWES
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   Poelmans L, 2009, LANDSCAPE URBAN PLAN, V93, P10, DOI 10.1016/j.landurbplan.2009.05.018
+   QIN Y, 2004, J GEOGRAPHICAL SCI, V14, P62, DOI DOI 10.1007/BF02841109
+   Riguelle F, 2007, J ECON GEOGR, V7, P193, DOI 10.1093/jeg/lbl025
+   Rodin V, 2000, FRACTALS, V8, P413, DOI 10.1142/S0218348X00000457
+   Shen G., 1997, GEOGRAPHICAL ENV MOD, V1, P221
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Sun Z, 2007, P E ASIA SOC TRANSPO, V6
+   Tannier C, 2005, CYBERGEO
+   Terzi F, 2011, ENVIRON PLANN B, V38, P175, DOI 10.1068/b35096
+   Thibault S., 1995, FLUX, V19, P17
+   Thibault S, 1987, RES REPORT
+   Thomas I, 2011, J GEOGRAPHICAL SYSTE, V4, P189
+   Thomas I, 2009, CYBERGEO EUROPEAN J
+   Thomas I, 2008, LANDSCAPE URBAN PLAN, V84, P99, DOI 10.1016/j.landurbplan.2007.07.002
+   Thomas I, 2007, PAP REG SCI, V86, P287, DOI 10.1111/j.1435-5957.2007.00122.x
+   Thomas I, 2010, ENVIRON PLANN B, V37, P942, DOI 10.1068/b36039
+   Vanneste D, 2008, J HOUS BUILT ENVIRON, V23, P173, DOI 10.1007/s10901-008-9111-3
+   Verhetsel A., 2001, J TRANSP GEOGR, V9, P111
+   Verhetsel A, 2010, J TRANSP LAND USE, V2, P109, DOI DOI 10.5198/jtlu.v2i3.19
+   Vicsek T, 1989, FRACTAL GROWTH PHENO
+NR 48
+TC 6
+Z9 6
+U1 0
+U2 10
+PU PION LTD
+PI LONDON
+PA 207 BRONDESBURY PARK, LONDON NW2 5JN, ENGLAND
+SN 0265-8135
+J9 ENVIRON PLANN B
+JI Environ. Plan. B-Plan. Des.
+PY 2013
+VL 40
+IS 2
+BP 310
+EP 329
+DI 10.1068/b38218
+PG 20
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 111YL
+UT WOS:000316558000008
+DA 2019-03-26
+ER
+
+PT J
+AU Dixon, T
+   Eames, M
+AF Dixon, Tim
+   Eames, Malcolm
+TI Scaling up: the challenges of urban retrofit
+SO BUILDING RESEARCH AND INFORMATION
+LA English
+DT Editorial Material
+C1 [Dixon, Tim] Univ Reading, Sch Construct Management & Engn, Reading RG6 2AH, Berks, England.
+   [Eames, Malcolm] Cardiff Univ, Welsh Sch Architecture, Cardiff CF10 3AX, S Glam, Wales.
+RP Dixon, T (reprint author), Univ Reading, Sch Construct Management & Engn, Reading RG6 2AH, Berks, England.
+EM t.j.dixon@reading.ac.uk; eamesm@cardiff.ac.uk
+OI Dixon, Tim/0000-0002-4513-6337
+FU Engineering and Physical Sciences Research Council [EP/I002162/1]
+CR Alusi A.A., 2011, 11062 HARV BUS SCH
+   Cole RJ, 2012, BUILD RES INF, V40, P1, DOI 10.1080/09613218.2012.617516
+   Dawson R, 2007, PHILOS T R SOC A, V365, P3085, DOI 10.1098/rsta.2007.0008
+   DB Climate Change Advisors (DBCAA)/Rockefeller Foundation, 2012, UD EN EFF RETR MARK
+   Dixon T., 2014, URBAN RETROFITTING M
+   Dixon T., 2013, TECHNOLOGIC IN PRESS
+   Dixoni T., 2012, UK ENERGY WATER WAST
+   Douglas J, 2006, BUILDING RETROFIT
+   Eames M., 2011, 20114 WP RETR 2050
+   Elzen B., 2004, SYSTEM INNOVATION TR, P282
+   Geels F. W., 2008, FEASIBILITY SYSTEMS
+   Habitat UN, 2011, GLOB REP HUM SETTL 2
+   Hodson M, 2010, RES POLICY, V39, P477, DOI 10.1016/j.respol.2010.01.020
+   Joss S, 2013, URBAN RES PRACT, V6, P54, DOI 10.1080/17535069.2012.762216
+   Kelly MJ, 2009, BUILD RES INF, V37, P196, DOI 10.1080/09613210802645924
+   Living Cities, 2010, SCAL BUILD EN RETR U
+   Loveridge D, 2001, INT J TECHNOL MANAGE, V21, P781, DOI 10.1504/IJTM.2001.002950
+   Loveridge Denis, 2009, FORESIGHT ART SCI AN
+   Mansfield J. R., 2002, PROPERTY MANAGEMENT, V20, P23
+   Miles I., 2002, PRACTICAL GUIDE REGI
+   Smith A, 2010, RES POLICY, V39, P435, DOI 10.1016/j.respol.2010.01.023
+   Sustainable Development Commission, 2010, FUT LOC EMP COMM IMP
+   Truffer B, 2012, REG STUD, V46, P1, DOI 10.1080/00343404.2012.646164
+   Wilkinson Sara, 2012, Structural Survey, V30, P398, DOI 10.1108/02630801211288189
+   World Bank, 2011, CIT CLIM CHANG URG A
+NR 25
+TC 16
+Z9 16
+U1 0
+U2 5
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0961-3218
+J9 BUILD RES INF
+JI Build. Res. Informat.
+PD OCT 1
+PY 2013
+VL 41
+IS 5
+SI SI
+BP 499
+EP 503
+DI 10.1080/09613218.2013.812432
+PG 5
+WC Construction & Building Technology
+SC Construction & Building Technology
+GA 184JT
+UT WOS:000321886600001
+OA Bronze
+DA 2019-03-26
+ER

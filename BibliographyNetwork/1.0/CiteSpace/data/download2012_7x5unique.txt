@@ -1,0 +1,307 @@
+
+PT J
+AU Kim, D
+   Son, SW
+   Jeong, H
+AF Kim, Daniel
+   Son, Seung-Woo
+   Jeong, Hawoong
+TI Demographic Studies of Internet Routers
+SO JOURNAL OF THE KOREAN PHYSICAL SOCIETY
+DE Internet router; Scaling relation; Scaling exponent; Demographic study
+AB We investigate the current state of Internet infrastructures by examining the position and the number of routers considering various demographic data. The scaling relation between the router and the population densities is studied in two different scales, one is a worldwide scale and the other is a country scale. We found the number of routers in each country to be proportional to its economic level, and a super-linear scaling relation to exist between the router density and the Internet user density on a worldwide level. From a district analysis of the country level, we found that the scaling exponents change according to economic conditions and the level of Internet development. As the Internet penetration rate increases, the scaling exponent tends to be close to 2/3, indicating that routers are distributed like public facilities.
+RI Son, Seung-Woo/C-6320-2011; Jeong, Hawoong/C-1587-2011
+OI Son, Seung-Woo/0000-0003-2244-0376; Kim, Daniel/0000-0003-4422-341X
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Carpenter BE, 2009, ACM SIGCOMM COMP COM, V39, P6
+   Dhamdhere A., 2008, P 8 ACM SIGCOMM C IN
+   Gastner MT, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016117
+   Gehring V. V., 2004, INTERNET PUBLIC LIFE, P79
+   Lakhina A, 2003, IEEE J SEL AREA COMM, V21, P934, DOI 10.1109/JSAC.2003.814667
+   STEPHAN GE, 1988, J REGIONAL SCI, V28, P29, DOI 10.1111/j.1467-9787.1988.tb01193.x
+   Um J, 2009, P NATL ACAD SCI USA, V106, P14236, DOI 10.1073/pnas.0901898106
+   Yook SH, 2002, P NATL ACAD SCI USA, V99, P13382, DOI 10.1073/pnas.172501399
+NR 9
+TC 2
+Z9 2
+SN 0374-4884
+EI 1976-8524
+PD FEB
+PY 2012
+VL 60
+IS 4
+BP 585
+EP 589
+DI 10.3938/jkps.60.585
+UT WOS:000304099500006
+ER
+
+PT J
+AU Roth, C
+   Kang, SM
+   Batty, M
+   Barthelemy, M
+AF Roth, Camille
+   Kang, Soong Moon
+   Batty, Michael
+   Barthelemy, Marc
+TI A long-time limit for world subway networks
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+DE evolution of networks; urban transportation; spatial networks; core and
+   branch geometry
+ID METRO NETWORKS; SYSTEM
+AB We study the temporal evolution of the structure of the world's largest subway networks in an exploratory manner. We show that, remarkably, all these networks converge to a shape that shares similar generic features despite their geographical and economic differences. This limiting shape is made of a core with branches radiating from it. For most of these networks, the average degree of a node (station) within the core has a value of order 2.5 and the proportion of k = 2 nodes in the core is larger than 60 per cent. The number of branches scales roughly as the square root of the number of stations, the current proportion of branches represents about half of the total number of stations, and the average diameter of branches is about twice the average radial extension of the core. Spatial measures such as the number of stations at a given distance to the barycentre display a first regime which grows as r(2) followed by another regime with different exponents, and eventually saturates. These results-difficult to interpret in the framework of fractal geometry-confirm and yield a natural explanation in the geometric picture of this core and their branches: the first regime corresponds to a uniform core, while the second regime is controlled by the interstation spacing on branches. The apparent convergence towards a unique network shape in the temporal limit suggests the existence of dominant, universal mechanisms governing the evolution of these structures.
+RI Batty, Michael/I-5638-2014
+CR Angeloudis P, 2006, PHYSICA A, V367, P553, DOI 10.1016/j.physa.2005.11.007
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M., 2005, CITIES COMPLEXITY
+   BENGUIGUI L, 1991, GEOGR ANAL, V23, P362
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BON R, 1979, QUAL QUANT, V13, P307
+   Daganzo C. F., 2009, TRANSPORT RES B-METH, V44, P434
+   Derrible S, 2010, PHYSICA A, V389, P3678, DOI 10.1016/j.physa.2010.04.008
+   Derrible S, 2010, TRANSPORTATION, V37, P275, DOI 10.1007/s11116-009-9227-7
+   Gattuso D, 2005, NETW SPAT ECON, V5, P395, DOI 10.1007/s11067-005-6210-5
+   Haggett P, 1969, NETWORK ANAL GEOGRAP
+   Hanson S., 2004, GEOGRAPHY URBAN TRAN
+   Latora V, 2002, PHYSICA A, V314, P109, DOI 10.1016/S0378-4371(02)01089-0
+   Lee K, 2008, PHYSICA A, V387, P6231, DOI 10.1016/j.physa.2008.06.035
+   Naridi I., 1996, BAT94008 FED HIGHW A
+   Niedzielski MA, 2012, ANN ASSOC AM GEOGR, V102, P1409, DOI 10.1080/00045608.2011.601212
+   Ovenden M., 2007, TRANSIT MAPS WORLD
+   Reggiani A, 2009, ADV SPAT SCI, P1, DOI 10.1007/978-3-642-01554-0
+   Reggiani A., 2006, SPATIAL DYNAMICS NET
+   Seaton KA, 2004, PHYSICA A, V339, P635, DOI 10.1016/j.physa.2004.03.019
+   SEIDMAN SB, 1983, SOC NETWORKS, V5, P269, DOI 10.1016/0378-8733(83)90028-X
+   Sienkiewicz J, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.046127
+   von Ferber C, 2009, EUR PHYS J B, V68, P261, DOI 10.1140/epjb/e2009-00090-x
+   Xie F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/j.1538-4632.2007.00707.x
+   Xie F, 2009, COMPUT ENVIRON URBAN, V33, P211, DOI 10.1016/j.compenvurbsys.2008.09.009
+NR 26
+TC 38
+Z9 41
+SN 1742-5689
+EI 1742-5662
+PD OCT 7
+PY 2012
+VL 9
+IS 75
+BP 2540
+EP 2550
+DI 10.1098/rsif.2012.0259
+UT WOS:000308240400015
+PM 22593096
+ER
+
+PT J
+AU Bruce, AI
+   Burd, M
+AF Bruce, Andrew I.
+   Burd, Martin
+TI Allometric scaling of foraging rate with trail dimensions in
+   leaf-cutting ants
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+DE allometry; Atta; foraging; leaf-cutting ants; scaling; traffic flow
+ID ATTA-CEPHALOTES; FORMICIDAE; SELECTION; LAWS; HYMENOPTERA; NETWORKS;
+   COLONIES; BIOLOGY; GROWTH; FOREST
+AB Leaf-cutting ants (Atta spp.) create physical pathways to support the transport of resources on which colony growth and reproduction depend. We determined the scaling relationship between the rate of resource acquisition and the size of the trail system and foraging workforce for 18 colonies of Atta colombica and Atta cephalotes. We examined conventional power-law scaling patterns, but did so in a multivariate analysis that reveals the simultaneous effects of forager number, trail length and trail width. Foraging rate (number of resource-laden ants returning to the nest per unit time) scaled at the 0.93 power of worker numbers, the -1.02 power of total trail length and the 0.65 power of trail width. These scaling exponents indicate that individual performance declines only slightly as more foragers are recruited to the workforce, but that trail length imposes a severe penalty on the foraging rate. A model of mass traffic flow predicts the allometric patterns for workforce and trail length, although the effect of trail width is unexpected and points to the importance of the little-known mechanisms that regulate a colony's investment in trail clearance. These results provide a point of comparison for the role that resource flows may play in allometric scaling patterns in other transport-dependent entities, such as human cities.
+OI Burd, Martin/0000-0002-1175-2596
+CR Banavar JR, 2010, P NATL ACAD SCI USA, V107, P15816, DOI 10.1073/pnas.1009974107
+   BECKERS R, 1989, Psyche (Cambridge), V96, P239, DOI 10.1155/1989/94279
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bonner J. T., 2006, WHY SIZE MATTERS BAC
+   Burd M, 2003, INSECT SOC, V50, P3, DOI 10.1007/s000400300001
+   Burd M, 2002, AM NAT, V159, P283, DOI 10.1086/338541
+   Burd M, 2000, ANIM BEHAV, V60, P781, DOI 10.1006/anbe.2000.1537
+   BURD M, 1995, J INSECT BEHAV, V8, P715, DOI 10.1007/BF01997240
+   Burd M, 2006, PHYSICA A, V372, P124, DOI 10.1016/j.physa.2006.05.004
+   CHERRETT JM, 1972, J ANIM ECOL, V41, P647, DOI 10.2307/3200
+   Farji-Brener AG, 1998, ECOSCIENCE, V5, P271, DOI 10.1080/11956860.1998.11682464
+   Helbing D., 1992, Complex Systems, V6, P391
+   Holldobler B., 1990, ANTS
+   Hou C, 2010, P NATL ACAD SCI USA, V107, P3634, DOI 10.1073/pnas.0908071107
+   Howard JJ, 2001, BEHAV ECOL SOCIOBIOL, V49, P348, DOI 10.1007/s002650000314
+   Isalgue A, 2007, PHYSICA A, V382, P643, DOI 10.1016/j.physa.2007.04.019
+   Jaffe K, 2010, BEHAV ECOL SOCIOBIOL, V64, P1721, DOI 10.1007/s00265-010-1059-0
+   Jun J, 2003, EVOL ECOL RES, V5, P297
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Kost C, 2005, J TROP ECOL, V21, P677, DOI 10.1017/S0266467405002592
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   LEWIS T, 1974, J ANIM ECOL, V43, P129, DOI 10.2307/3162
+   MARTIN MM, 1969, ANN ENTOMOL SOC AM, V62, P1386, DOI 10.1093/aesa/62.6.1386
+   MCARDLE BH, 1988, CAN J ZOOL, V66, P2329, DOI 10.1139/z88-348
+   Peters R.H., 1983, P1
+   RICH PM, 1986, B TORREY BOT CLUB, V113, P241, DOI 10.2307/2996362
+   ROCKWOOD LL, 1976, ECOLOGY, V57, P48, DOI 10.2307/1936397
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Shik JZ, 2010, BEHAV ECOL SOCIOBIOL, V64, P1981, DOI 10.1007/s00265-010-1009-x
+   TRANIELLO JFA, 1989, ANNU REV ENTOMOL, V34, P191, DOI 10.1146/annurev.en.34.010189.001203
+   Waters JS, 2010, AM NAT, V176, P501, DOI 10.1086/656266
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+NR 33
+TC 17
+Z9 17
+SN 0962-8452
+EI 1471-2954
+PD JUN 22
+PY 2012
+VL 279
+IS 1737
+BP 2442
+EP 2447
+DI 10.1098/rspb.2011.2583
+UT WOS:000303888500021
+PM 22337696
+ER
+
+PT J
+AU Johansson, A
+   Batty, M
+   Hayashi, K
+   Al Bar, O
+   Marcozzi, D
+   Memish, ZA
+AF Johansson, Anders
+   Batty, Michael
+   Hayashi, Konrad
+   Al Bar, Osama
+   Marcozzi, David
+   Memish, Ziad A.
+TI Mass Gatherings Health 4 Crowd and environmental management during mass
+   gatherings
+SO LANCET INFECTIOUS DISEASES
+ID AIRLINE TRANSPORTATION; PEDESTRIAN DYNAMICS; EPIDEMICS; EVACUATION;
+   SIMULATION; NETWORKS; CITIES; SAFETY; MODELS; SCALE
+AB Crowds are a feature of large cities, occurring not only at mass gatherings but also at routine events such as the journey to work. To address extreme crowding, various computer models for crowd movement have been developed in the past decade, and we review these and show how they can be used to identify health and safety issues. State-of-the-art models that simulate the spread of epidemics operate on a population level, but the collection of fine-scale data might enable the development of models for epidemics that operate on a microscopic scale, similar to models for crowd movement. We provide an example of such simulations, showing how an individual-based crowd model can mirror aggregate susceptible-infected-recovered models that have been the main models for epidemics so far.
+RI Johansson, Anders/C-5551-2009; Batty, Michael/I-5638-2014
+CR Ahmed QA, 2006, LANCET, V367, P1008, DOI 10.1016/S0140-6736(06)68429-8
+   Al-Abideen HZ, 2005, 6 INT C GLOB CONSTR
+   Al-Bosta S, 2006, WORKSH RES PROGR PRE
+   AlGadhi SAH, 2002, PEDESTRIAN AND EVACUATION DYNAMICS, P3
+   Arbon P, 2007, PREHOSP DISASTER MED, V22, P131, DOI 10.1017/S1049023X00004507
+   Batty M, 2003, URBAN STUD, V40, P1573, DOI 10.1080/0042098032000094432
+   Batty M, 2001, GEOCOMPUTATIONAL MOD, P109
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M., 2003, ADV SPATIAL ANAL CAS, P81
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BLUE VJ, 2000, TRANSPORT RES REC, V1678, P135
+   Burkle FM, 2010, LANCET, V377, P106
+   Burstedde C, 2001, PHYSICA A, V295, P507, DOI 10.1016/S0378-4371(01)00141-8
+   Colizza V, 2006, P NATL ACAD SCI USA, V103, P2015, DOI 10.1073/pnas.0510525103
+   Ebrahim SH, 2009, SCIENCE, V326, P938, DOI 10.1126/science.1183210
+   Fruin JJ., 1971, HIGHWAY RES REC, V355, P1
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Guy SJ, 2010, P 2010 ACM SIGGRAPH
+   Haklay M, 2001, ENVIRON PLANN B, V28, P343, DOI 10.1068/b2758t
+   Halabi WS, 2006, THESIS U NEWCASTLE T
+   Helbing D, 2005, TRANSPORT SCI, V39, P1, DOI 10.1287/trsc.1040.0108
+   Helbing D, 2000, NATURE, V407, P487, DOI 10.1038/35035023
+   Helbing D., 1992, Complex Systems, V6, P391
+   HELBING D, 1995, PHYS REV E, V51, P4282, DOI 10.1103/PhysRevE.51.4282
+   Helbing D, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.046109
+   Helbing D, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.168001
+   Hoogendoorn SP, EXTRACTING MICROSCOP
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Hughes RL, 2003, ANNU REV FLUID MECH, V35, P169, DOI 10.1146/annurev.fluid.35.101101.161136
+   Isella L, 2011, J THEOR BIOL, V271, P166, DOI 10.1016/j.jtbi.2010.11.033
+   Johansson A, 2009, THESIS DRESDEN U TEC
+   Johansson A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.026120
+   Johansson A, 2008, ADV COMPLEX SYST, V11, P497, DOI 10.1142/S0219525908001854
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Khan K, 2009, NEW ENGL J MED, V361, P212, DOI 10.1056/NEJMc0904559
+   Klupfel H., 2007, PEDESTRIAN EVACUATIO, P285
+   KRETZ T, 2007, THESIS U DUISBURG ES, P51101
+   LeBon G, 1896, CROWD STUDY POPULAR
+   LOVAS GG, 1994, TRANSPORT RES B-METH, V28, P429, DOI 10.1016/0191-2615(94)90013-2
+   Mackay C., 1841, EXTRAORDINARY POPULA
+   Mohamed MN, 1995, HAJJ UMRAH A Z
+   Moussaid M, 2011, P NATL ACAD SCI USA, V108, P6884, DOI 10.1073/pnas.1016507108
+   Moussaid M, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010047
+   MUSSE SR, 1998, P ACM S VIRT REAL SO, P115, DOI DOI 10.1145/293701.293716
+   O'Sullivan D, 2000, ENVIRON PLANN A, V32, P1409, DOI 10.1068/a32140
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Predtetschenski W, 1971, PERSONENSTROME GEBAU
+   Preston RJ, 2008, PREHOSP EMERG CARE, V12, P18, DOI 10.1080/10903120701710496
+   Shariata A, 2005, HAJJ REFLECTION ITS
+   Simoes JA, 2007, THESIS U COLL LONDON
+   Slingsby A, 2008, INFORM VISUAL, V7, P210, DOI 10.1057/palgrave.ivs.9500185
+   STILL K, 2000, THESIS U WARWICK
+   Timmermans H, 2009, PEDESTRIAN BEHAVIOR: MODELS, DATA COLLECTION AND APPLICATIONS, P1
+   Treuille A, 2006, ACM T GRAPHIC, V25, P1160, DOI 10.1145/1141911.1142008
+   UN Population Division, WORLD URB PROSP 2007
+   WATTS JM, 1987, FIRE SAFETY J, V12, P237, DOI 10.1016/0379-7112(87)90008-7
+NR 58
+TC 35
+Z9 35
+SN 1473-3099
+EI 1474-4457
+PD FEB
+PY 2012
+VL 12
+IS 2
+BP 150
+EP 156
+DI 10.1016/S1473-3099(11)70287-0
+UT WOS:000299656000024
+PM 22252150
+ER
+
+PT J
+AU O'Neale, DRJ
+   Hendy, SC
+AF O'Neale, Dion R. J.
+   Hendy, Shaun C.
+TI Power Law Distributions of Patents as Indicators of Innovation
+SO PLOS ONE
+ID ZIPFS LAW; GROWTH; FIRMS; CITATIONS; CITIES; MODEL; SIZE
+AB The total number of patents produced by a country (or the number of patents produced per capita) is often used as an indicator for innovation. Here we present evidence that the distribution of patents amongst applicants within many countries is well-described by power laws with exponents that vary between 1.66 (Japan) and 2.37 (Poland). We suggest that this exponent is a useful new metric for studying innovation. Using simulations based on simple preferential attachment-type rules that generate power laws, we find we can explain some of the variation in exponents between countries, with countries that have larger numbers of patents per applicant generally exhibiting smaller exponents in both the simulated and actual data. Similarly we find that the exponents for most countries are inversely correlated with other indicators of innovation, such as research and development intensity or the ubiquity of export baskets. This suggests that in more advanced economies, which tend to have smaller values of the exponent, a greater proportion of the total number of patents are filed by large companies than in less advanced countries. Citation: O'Neale DRJ, Hendy SC (2012) Power Law Distributions of Patents as Indicators of Innovation. PLoS ONE 7(12): e49501. doi:10.1371/journal.pone.0049501
+RI Hendy, Shaun/A-9776-2008
+OI Hendy, Shaun/0000-0003-3468-6517; O'Neale, Dion/0000-0002-3827-3480
+CR Acemoglu D., 2008, INTRO MODERN EC GROW
+   AGHION P, 1992, ECONOMETRICA, V60, P323, DOI 10.2307/2951599
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Blundell R, 1999, REV ECON STUD, V66, P529, DOI 10.1111/1467-937X.00097
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Fujiwara Y, 2004, PHYSICA A, V335, P197, DOI 10.1016/j.physa.2003.12.015
+   Ghiglino C, 2012, J ECON THEORY, V147, P713, DOI 10.1016/j.jet.2011.02.004
+   GLAESER EL, 1992, J POLIT ECON, V100, P1126, DOI 10.1086/261856
+   Goldstein ML, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.026108
+   Hendy SC, 2011, NZ SCI REV, V68, P1
+   Hidalgo CA, 2009, P NATL ACAD SCI USA, V106, P10570, DOI 10.1073/pnas.0900943106
+   JAFFE AB, 1993, Q J ECON, V108, P577, DOI 10.2307/2118401
+   Jones CI, 2005, Q J ECON, V120, P517, DOI 10.1093/qje/120.2.517
+   Lanjouw JO, 1998, J IND ECON, V46, P405, DOI 10.1111/1467-6451.00081
+   Luttmer EGJ, 2007, Q J ECON, V122, P1103, DOI 10.1162/qjec.122.3.1103
+   Luttmer EGJ, 2011, REV ECON STUD, V78, P1042, DOI 10.1093/restud/rdq028
+   Marshall A, 1920, PRINCIPLES EC
+   MITZENMACHER M, 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   OECD, 2006, OECD SCI TECHN IND O
+   Okuyama K, 1999, PHYSICA A, V269, P125, DOI 10.1016/S0378-4371(99)00086-2
+   ROMER PM, 1990, J POLIT ECON, V98, pS71, DOI 10.1086/261725
+   SCHERER FM, 1965, AM ECON REV, V55, P1097
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Tibshirani R. J., 1993, MONOGRAPHS STAT APPL, V57
+   TRAJTENBERG M, 1990, RAND J ECON, V21, P172, DOI 10.2307/2555502
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   YULE GD, 1925, PHYL T ROYAL SOC L B, P213
+NR 31
+TC 4
+Z9 4
+SN 1932-6203
+PD DEC 5
+PY 2012
+VL 7
+IS 12
+AR e49501
+DI 10.1371/journal.pone.0049501
+UT WOS:000312588200007
+PM 23227144
+ER

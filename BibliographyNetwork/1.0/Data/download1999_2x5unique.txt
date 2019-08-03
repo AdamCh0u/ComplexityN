@@ -1,0 +1,578 @@
+
+PT S
+AU Scholl, JF
+   Agre, JR
+   Clare, LP
+   Gill, MC
+AF Scholl, JF
+   Agre, JR
+   Clare, LP
+   Gill, MC
+BE Carapezza, EM
+   Law, DB
+TI A low power impulse signal classifier using the Haar wavelet transform
+SO SENSORS, C31, INFORMATION, AND TRAINING TECHNOLOGIES FOR LAW ENFORCEMENT
+SE Proceedings of SPIE
+LA English
+DT Proceedings Paper
+CT Conference on Sensors, C31, Information, and Training Technologies for
+   Law Enforcement
+CY NOV 03-05, 1998
+CL BOSTON, MA
+SP Soc Photo Opt Instrumentat Engineers, Battelle, Pacific NW Natl Lab
+DE wavelet transforms; surveillance systems; signal classification;
+   wireless sensor networks
+AB Detection and classification of footsteps and other impulsive signals is a critical function of urban surveillance systems. An example is the Wireless Integrated Network Sensor (WINS) system, which is designed to meet this requirement for both law enforcement and military agencies. The detection and classification algorithms should be sufficiently robust to handle a wide variety of environments, but remain of low complexity to allow low power implementation. We present a modified time-domain method for impulse signal classification based on the Haar wavelet transform. The Haar wavelet basis is ideal for short time signals as it provides the best localization in the time domain. Further the Haar transform has the shortest and simplest filter/basis system, with the scaling function filter using the average of two points and the wavelet filter being the difference between two points. Our classification scheme uses the Haar transform of the input signal to obtain the signal envelope, which is described by the decimated low pass filter coefficients. Classification is achieved by comparing the calculated coefficients with a set of pre-computed reference templates. When implemented on many WINS nodes, this simple procedure has the further advantage of being able to do signal source detection in both location and time.
+C1 Rockwell Int Corp, Ctr Sci, Thousand Oaks, CA 91360 USA.
+RP Scholl, JF (reprint author), Rockwell Int Corp, Ctr Sci, 1049 Camino Dos Rios, Thousand Oaks, CA 91360 USA.
+CR Balch A. H., 1984, VERTICAL SEISMIC PRO
+   Bult K, 1996, 1996 INTERNATIONAL SYMPOSIUM ON LOW POWER ELECTRONICS AND DESIGN - DIGEST OF TECHNICAL PAPERS, P17, DOI 10.1109/LPE.1996.542724
+   Calderbank AR, 1998, APPL COMPUT HARMON A, V5, P332, DOI 10.1006/acha.1997.0238
+   Daubechies I., 1992, CBMS NSF REGIONAL C, V61, DOI 10. 1137/1. 9781611970104 .
+   Dong MJ, 1997, 1997 INTERNATIONAL SYMPOSIUM ON LOW POWER ELECTRONICS AND DESIGN, PROCEEDINGS, P173, DOI 10.1109/LPE.1997.621275
+   MEYER Y, 1993, WAVELETS ANAL APPL
+   Saito N., 1994, WAVELETS GEOPHYSICS, V4, P299
+NR 7
+TC 3
+Z9 4
+U1 0
+U2 0
+PU SPIE-INT SOC OPTICAL ENGINEERING
+PI BELLINGHAM
+PA 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN 0277-786X
+BN 0-8194-3043-9
+J9 PROC SPIE
+PY 1999
+VL 3577
+BP 136
+EP 145
+DI 10.1117/12.336958
+PG 10
+WC Engineering, Electrical & Electronic; Optics
+SC Engineering; Optics
+GA BM46J
+UT WOS:000078815100014
+DA 2019-03-26
+ER
+
+PT J
+AU Stanley, HE
+   Amaral, LAN
+   Canning, D
+   Gopikrishnan, P
+   Lee, Y
+   Liu, Y
+AF Stanley, HE
+   Amaral, LAN
+   Canning, D
+   Gopikrishnan, P
+   Lee, Y
+   Liu, Y
+TI Econophysics: Can physicists contribute to the science of economics?
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article; Proceedings Paper
+CT International Workshop on Econophysics and Statistical Finance
+CY SEP 28-30, 1998
+CL UNIV PALERMO, PALERMO, ITALY
+SP Ist Nazl Fisica Mat, Palermo Univ, Dept Energetica & Applicazioni Fisica
+HO UNIV PALERMO
+ID URBAN-GROWTH PATTERNS; TRUNCATED LEVY FLIGHT; STOCK-MARKET; SCALING
+   BEHAVIOR; STOCHASTIC-PROCESS; ULTRASLOW CONVERGENCE; CURRENCY EXCHANGE;
+   FINANCIAL-MARKETS; RANDOM MATRICES; COMPANY GROWTH
+AB Econophysics is a new word, used to describe work being done by physicists in which financial and economic systems are treated as complex systems. Everyone is affected by economic fluctuations, and quantifying fluctuations is a topic that many physicists have contributed to in recent years. Moreover, everyone - rich and poor - would be powerfully affected by a breakdown of the world-wide financial system. Further, it is possible that methods and concepts developed in the study of strongly fluctuation systems might yield new results in economics. Finally, economic systems are complex interacting systems for which a tremendous amount of quantitative data exists, much of it never analyzed. Here we discuss selected recent examples where statistical physicists studying fluctuations have uncovered two new empirical "laws". The first empirical law concerns the histogram giving the relative occurrence probability that a stock experiences a given price change; this histogram decreases as the given price change increases, with an apparent power law tail that describes fluctuations differing by as much as 8 orders of magnitude in this relative occurrence probability. The second empirical law concerns a histogram of size changes of business firms, which has a width that decreases as a power law of the firm size for firms that range over roughly 8 orders of magnitude. In addition to such scaling laws, there appears also the analog of "universality" - e.g., the analogous histogram of country size appears to obey the same scaling law, with the same exponent, as the histogram of firm size. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Boston Univ, Dept Phys, Ctr Polymer Studies, Boston, MA 02215 USA.
+   Harvard Univ, Harvard Inst Int Dev, Cambridge, MA 02138 USA.
+RP Stanley, HE (reprint author), Boston Univ, Dept Phys, Ctr Polymer Studies, 590 Commonwealth Ave, Boston, MA 02215 USA.
+EM hes@bu.edu
+RI Amaral, Luis N./C-5485-2009; Amaral, Luis/A-4980-2008; Canning,
+   David/A-1917-2008
+OI Amaral, Luis/0000-0002-3762-789X; 
+CR Amaral LAN, 1997, J PHYS I, V7, P621
+   Amaral LAN, 1998, PHYS REV LETT, V80, P1385, DOI 10.1103/PhysRevLett.80.1385
+   Arneodo A, 1998, EUR PHYS J B, V2, P277, DOI 10.1007/s100510050250
+   ARNEODO A, CONDMAT9607120
+   Bachelier Louis, 1900, ANN SCI ECOLE NORM S, V17, P21
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   BOUCHAUD JP, 1994, J PHYS I, V4, P863
+   Bouchaud JP, 1998, EUR PHYS J B, V6, P543, DOI 10.1007/s100510050582
+   BOUCHAUD JP, 1997, THEORIE RISQUES FINA
+   BRODY TA, 1981, REV MOD PHYS, V53, P385, DOI 10.1103/RevModPhys.53.385
+   Buldyrev SV, 1997, J PHYS I, V7, P635, DOI 10.1051/jp1:1997181
+   Caldarelli G, 1997, EUROPHYS LETT, V40, P479, DOI 10.1209/epl/i1997-00491-5
+   Challet D, 1998, PHYSICA A, V256, P514, DOI 10.1016/S0378-4371(98)00260-X
+   CHANG I, 1999, PHYSICA A, V264, P1
+   Chowdhury D, 1999, EUR PHYS J B, V8, P477, DOI 10.1007/s100510050714
+   Cizeau P, 1997, PHYSICA A, V245, P441, DOI 10.1016/S0378-4371(97)00417-2
+   CONT R, CONDMAT9712318
+   CONT R, 1998, CONDMAT9705075
+   CONT R, 1997, SCALE INVARIANCE BEY
+   DACOROGNA MM, 1993, J INT MONEY FINANC, V12, P413, DOI 10.1016/0261-5606(93)90004-U
+   Ding Z, 1993, J EMPIR FINANC, V1, P83, DOI DOI 10.1016/0927-5398(93)90006-D
+   DYSON FJ, 1963, J MATH PHYS, V4, P701, DOI 10.1063/1.1704008
+   DYSON FJ, 1962, J MATH PHYS, V3, P140, DOI 10.1063/1.1703773
+   Galluccio S, 1998, PHYSICA A, V259, P449, DOI 10.1016/S0378-4371(98)00332-X
+   Galluccio S, 1996, PHYS REV E, V54, pR4516, DOI 10.1103/PhysRevE.54.R4516
+   Galluccio S, 1997, PHYSICA A, V245, P423, DOI 10.1016/S0378-4371(97)00316-6
+   Ghashghaie S, 1996, NATURE, V381, P767, DOI 10.1038/381767a0
+   Gopikrishnan P, 1998, EUR PHYS J B, V3, P139, DOI 10.1007/s100510050292
+   GOPIKRISHNAN V, UNPUB PHYS REV E
+   Guhr T, 1998, PHYS REP, V299, P190
+   Ivanov PC, 1996, NATURE, V383, P323, DOI 10.1038/383323a0
+   Ivanov PC, 1999, NATURE, V399, P461, DOI 10.1038/20924
+   JOHANSEN A, 1999, INT J MOD PHYS C, V10
+   KEITT T, UNPUB P NAT ACAD SCI
+   Keitt TH, 1998, NATURE, V393, P257, DOI 10.1038/30478
+   KERTESZ J, 1999, ECONOPHYSICS
+   KNOBLER CM, 1997, PHYSICA A, V244
+   KOPONEN I, 1995, PHYS REV E, V52, P1197, DOI 10.1103/PhysRevE.52.1197
+   LALOUX L, CONDMAT9805212
+   LALOUX L, 1999, RISK MAG, P69
+   LAURITSEN K, 1999, INT J THEOR APPL FIN
+   Lee YK, 1998, PHYS REV LETT, V81, P3275, DOI 10.1103/PhysRevLett.81.3275
+   LEVY M, 1994, ECON LETT, V45, P103, DOI 10.1016/0165-1765(94)90065-5
+   Levy M, 1996, INT J MOD PHYS C, V7, P65, DOI 10.1142/S0129183196000077
+   Levy P., 1937, THEORIE ADDITION VAR
+   LIU Y, 1999, PHYS REV E, V60
+   Liu YH, 1997, PHYSICA A, V245, P437, DOI 10.1016/S0378-4371(97)00368-3
+   Lux T, 1998, J ECON BEHAV ORGAN, V33, P143, DOI 10.1016/S0167-2681(97)00088-7
+   Lux T, 1999, NATURE, V397, P498, DOI 10.1038/17290
+   Lux T, 1996, APPL ECON LETT, V3, P701, DOI 10.1080/135048596355691
+   Lux T, 1997, J ECON DYN CONTROL, V22, P1, DOI 10.1016/S0165-1889(97)00061-4
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Mandelbrot B.B., 1963, J BUS, V36, P393
+   Mantegna R. N., 1999, INTRO ECONOPHYSICS C
+   MANTEGNA RN, 1995, PHYS REV E, V52, P2939, DOI 10.1103/PhysRevE.52.2939
+   MANTEGNA RN, 1994, PHYS REV LETT, V73, P2946, DOI 10.1103/PhysRevLett.73.2946
+   MANTEGNA RN, 1991, PHYSICA A, V179, P232
+   Mantegna RN, 1997, PHYSICA A, V239, P255, DOI 10.1016/S0378-4371(96)00484-0
+   Mantegna RN, 1996, NATURE, V383, P587, DOI 10.1038/383587a0
+   MANTEGNA RN, 1995, NATURE, V376, P46, DOI 10.1038/376046a0
+   MANTEGNA RN, CONDMAT9802256
+   Marsili M, 1998, PHYS REV LETT, V80, P2741, DOI 10.1103/PhysRevLett.80.2741
+   Marsili M, 1998, PHYSICA A, V253, P403, DOI 10.1016/S0378-4371(98)00075-2
+   Maslov S, 1999, PHYSICA A, V262, P232, DOI 10.1016/S0378-4371(98)00416-6
+   MATACZ A, 1997, 9728 U SYDN SCH MATH
+   Mehta M L, 1991, RANDOM MATRICES
+   MEHTA ML, 1963, J MATH PHYS, V4, P713, DOI 10.1063/1.1704009
+   Mishima O, 1998, NATURE, V396, P329
+   Pareto V., 1897, COURS EC POLITIQUE
+   PASQUINI M, CONDMAT9810232
+   PASQUINI M, CONDMAT9903334
+   PENG CK, 1992, NATURE, V356, P168, DOI 10.1038/356168a0
+   PENG CK, 1994, PHYS REV E, V49, P1684
+   PLEROU V, UNPUB PHYS REV LETT
+   PLEROU V, 1999, NATURE, V400
+   PODOBNIK B, UNPUB PHYS REV LETT
+   Potters M, 1998, EUROPHYS LETT, V41, P239, DOI 10.1209/epl/i1998-00136-9
+   SHLESINGER MF, 1995, PHYS REV LETT, V74, P4959, DOI 10.1103/PhysRevLett.74.4959
+   Sornette D, 1998, PHYSICA A, V256, P251, DOI 10.1016/S0378-4371(98)00114-9
+   Sornette D, 1996, J PHYS I, V6, P167, DOI 10.1051/jp1:1996135
+   Sornette D, 1998, PHYSICA A, V261, P581, DOI 10.1016/S0378-4371(98)00433-6
+   Stanley HE, 1996, PHYSICA A, V224, P302, DOI 10.1016/0378-4371(95)00409-2
+   Stanley MHR, 1996, NATURE, V379, P804, DOI 10.1038/379804a0
+   Stauffer D, 1998, PHYSICA A, V256, P284, DOI 10.1016/S0378-4371(98)00223-4
+   Stauffer D, 1999, INT J THEOR APPL FIN, V2, P83
+   SUKI B, 1994, NATURE, V368, P615, DOI 10.1038/368615a0
+   Takayasu H, 1997, PHYS REV LETT, V79, P966, DOI 10.1103/PhysRevLett.79.966
+   TAKAYASU H, 1992, PHYSICA A, V184, P127, DOI 10.1016/0378-4371(92)90161-I
+   Takayasu H, 1998, FRACTALS, V6, P67, DOI 10.1142/S0218348X98000080
+   TIMMERMANN A, 1995, NATURE, V376, P18, DOI 10.1038/376018a0
+   Vandewalle N, 1998, PHYSICA A, V255, P201, DOI 10.1016/S0378-4371(98)00115-0
+   Vandewalle N, 1998, EUR PHYS J B, V4, P257, DOI 10.1007/s100510050376
+   Vandewalle N, 1998, INT J MOD PHYS C, V9, P711, DOI 10.1142/S0129183198000613
+   Viswanathan GM, 1996, NATURE, V381, P413, DOI 10.1038/381413a0
+   Wigner E.P, 1956, C NEUTR PHYS TIM OF
+   WIGNER EP, 1951, ANN MATH, V53, P36, DOI 10.2307/1969342
+NR 97
+TC 104
+Z9 113
+U1 0
+U2 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD JUL 1
+PY 1999
+VL 269
+IS 1
+BP 156
+EP 169
+DI 10.1016/S0378-4371(99)00185-5
+PG 14
+WC Physics, Multidisciplinary
+SC Physics
+GA 223NU
+UT WOS:000081847800019
+DA 2019-03-26
+ER
+
+PT B
+AU Valenzuela, CL
+AF Valenzuela, CL
+BE Banzhaf, W
+   Daida, J
+   Eiben, AE
+   Garzon, MH
+   Honavar, V
+   Jakiela, M
+   Smith, RE
+TI Evolutionary divide and conquer (II) for the TSP
+SO GECCO-99: PROCEEDINGS OF THE GENETIC AND EVOLUTIONARY COMPUTATION
+   CONFERENCE
+LA English
+DT Proceedings Paper
+CT Genetic and Evolutionary Computation Conference (GECCO-99) at the 8th
+   International Conference on Genetic Algorithms/4th Annual Genetic
+   Programming Conference
+CY JUL 13-17, 1999
+CL ORLANDO, FL
+SP European Network Excellence Evolutionary Comp, Evolut Artificielle, ICES, Int Soc Adapt Behav, Amer Assoc Artificial Intelligence
+AB Results presented in recent papers demonstrate that it is possible to produce high quality solutions to TSP instances of up to several hundred cities using simple greedy heuristics when a Genetic Algorithm (GA) is used to perturb the city coordinates. The present paper extends the earlier studies to larger problems and a divide and conquer algorithm in the style of Richard Karp. Using a GA to perturb city coordinates in conjunction with a divide and conquer algorithm the feasibility of solving large problems to within a few percent of optimality is demonstrated. The exceptionally rapid execution times of Karp's algorithms together with their almost linear run-time scaling at O(nlogn) set them apart from most other heuristic algorithms.
+C1 George Mason Univ, Dept Comp Sci, Fairfax, VA 22030 USA.
+RP Valenzuela, CL (reprint author), George Mason Univ, Dept Comp Sci, MS 4A5, Fairfax, VA 22030 USA.
+RI Mumford, Christine/D-2592-2010
+OI Mumford, Christine/0000-0002-4514-0272
+CR Baker J. E., 1985, P INT C GEN ALG THEI, P101
+   BRADWELL RA, 1997, 3 INT C ART NEUR NET, P241
+   CAVICCHIO D, 1970, THESIS U MICHIGAN
+   Codenotti B., 1996, INFORMS Journal of Computing, V8, P125, DOI 10.1287/ijoc.8.2.125
+   CODENOTTI B, 1993, P 3 WORKSH ALG DAT S, V709, P253
+   Gorges-Schleuter M., 1990, THESIS U DORTMUND GE
+   HELD M, 1970, OPER RES, V18, P1138, DOI 10.1287/opre.18.6.1138
+   Held M, 1971, MATHEMATICAL PROGRAM, V1, P6, DOI DOI 10.1007/BF01584070
+   HOLLAND JH, 1975, ADAPTATION NATURAL
+   JOHNSON DS, 1996, P 1996 ACM SIAM S
+   JOHNSON DS, 1990, 17 INT C P
+   Karp R. M., 1977, Mathematics of Operations Research, V2, P209, DOI 10.1287/moor.2.3.209
+   Nagata Y., 1997, P 7 INT C GEN ALG, P450
+   Valenzuela CL, 1997, EUR J OPER RES, V102, P157, DOI 10.1016/S0377-2217(96)00214-7
+   VALENZUELA CL, 1997, P 7 INT C GEN ALG SA, P458
+   VALENZUELA CL, 1994, NOVEL GENETIC APPROA, V14, P313
+   VALENZUELA CL, 1995, THESIS U LONDON
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MORGAN KAUFMANN PUB INC
+PI SAN FRANCISCO
+PA 340 PINE STR, 6TH FLR, SAN FRANCISCO, CA 94104-3205 USA
+BN 1-55860-611-4
+PY 1999
+BP 1744
+EP 1749
+PG 6
+WC Computer Science, Theory & Methods
+SC Computer Science
+GA BQ96Q
+UT WOS:000165164700298
+DA 2019-03-26
+ER
+
+PT J
+AU Hemphill, BE
+AF Hemphill, BE
+TI Biological affinities and adaptations of Bronze Age Bactrians: IV. A
+   craniometric investigation of Bactrian origins
+SO AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+LA English
+DT Article
+DE craniometry; phenetic distance; central Asia; Iran; Indus Valley
+ID CENTRAL-ASIA
+AB Discovery of a previously unknown Bronze Age civilization (Oxus civilization) centered on the eases of Central Asia revealed the presence of large, preplanned urban centers immediately above sterile soil. Given the absence of local antecedents, the sudden appearance and proliferation of these Oxus civilization urban centers in the eases of Bactria and Margiana immediately raised the issue of where the inhabitants of these urban centers came from. Three hypotheses have been offered by archaeologists to account for the origins of Oxus civilization populations. These include the early influence model, the late colonization model, and the trichotomy model. Eleven craniometric variables from 12 Aeneolithic and Bronze Age samples, encompassing 657 adults from Central Asia, Iran, and the Indus Valley, are compared to test which if any of these hypotheses are supported by the pattern of phenetic affinities possessed by the Oxus civilization inhabitants of the north Bactrian oasis. Craniometric differences between samples are compared with Mahalanobis generalized distance (d(2)), and patterns of phenetic affinity are assessed with two types of cluster analysis (WPGMA, neighbor-joining method), multidimensional scaling, and principal coordinates analysis. Results of this analysis provide no support for either the late colonization model or the trichotomy model but do offer some support for the early influence model. Nevertheless, it is clear that the early influence model fails to account for a shift in interregional contacts, perhaps from western China to the north around 2000 BC, that appears to have played a major role in the origins of the Oxus civilization inhabitants of the north Bactrian oasis. (C) 1999 Wiley-Liss, Inc.
+C1 Vanderbilt Univ, Dept Anthropol, Nashville, TN 37235 USA.
+RP Hemphill, BE (reprint author), Vanderbilt Univ, Dept Anthropol, 221 Kirkland Hall, Nashville, TN 37235 USA.
+CR ABDULLAEV B, 1979, ISTORIJA MAT KULTURY, V15, P1
+   Askarov A, 1983, DZHARKUTAN
+   ASKAROV A., 1994, B ASIA I, V8, P13
+   Askarov A, 1981, BRONZE AGE CIVILIZAT, P256
+   Askarov A. A., 1977, DREVNEZEMLEDELCHESKA
+   ASKAROV AA, 1988, ASIE CENTRALE SES RA, P103
+   ASKAROV AA, 1974, DREVNYAYA BAKTRIYA, P26
+   ASKAROV AA, 1991, HIST CULTES ASIE CEN, P129
+   Atagarryev E., 1970, E W, V20, P285
+   BERNHARD W, 1967, PAKISTAN ARCHAEOL, V3, P291
+   BISCIONE R, 1977, PLATEAU IRANIEN ASIE, V567, P113
+   Chang Kwang-Chih, 1977, ARCHAEOLOGY ANCIENT
+   DUPREE L, 1973, T AM PHILOS SOC, V62, P1
+   Felsenstein J., 1989, CLADISTICS, V5, P164, DOI DOI 10.1111/J.1096-0031.1989.TB00562.X
+   Francfort H.-P., 1989, FOUILLES SHORTUGHAI
+   FRANCFORT HP, 1981, S ASIAN ARCHAEOLOGY, P191
+   FRANCFORT HP, 1984, S ASIAN ARCHAEOLOGY, P170
+   FRANCFORT HP, 1981, PURATATTVA, V10, P91
+   Gupta P., 1962, MEM ANTHR SUR INDIA, V9, P3
+   GUPTA SP, 1979, ARCHAEOLOGY SOVIET C
+   HAIR JF, 1971, MULTIVARIATE DATA AN
+   HAMBIS L, 1956, ARTS ASIATIQ, V3, P279
+   HARIGAN JA, 1975, CLUSTERING ALGORITHM
+   Hemphill B. E., 1991, HARAPPA EXCAVATIONS, P137
+   Hemphill BE, 1998, AM J PHYS ANTHROPOL, V106, P329, DOI 10.1002/(SICI)1096-8644(199807)106:3<329::AID-AJPA6>3.0.CO;2-H
+   HEMPHILL BE, 1998, 54 U OR, P51
+   HEMPHILL BE, IN PRESS AM J PHYS A
+   HEMPHILL BE, 1997, S ASIAN ARCHAEOLOGY, P863
+   Hiebert F. T., 1994, AM SCH PREHISTORIC R, V42
+   Hiebert Fredrik, 1992, IRAN, V30, P1
+   HIEBERT FT, 1993, INFORMATION B, V19, P186
+   ISAKOV A, 1987, ARCHAEOMETRY, V29, P90, DOI 10.1111/j.1475-4754.1987.tb00400.x
+   ISAKOV A, 1988, PALEORIENT, V14, P31
+   ISAKOV I, 1981, BRONZE AGE CIVILIZAT, P273
+   ISAKOV I, 1994, B ASIA I, V8, P1
+   JUSUPOV K, 1977, KARAK UMSKIE DREVNOS, V5, P72
+   Khlopin I. N., 1964, GEOKSYURSKAYA GRUPPA
+   KHLOPIN IN, 1963, ARKHEOLOGIYA SSSR B, P3
+   KIIATKINA TP, 1987, PALEOANTROPOLOGIYA Z
+   KOHL P., 1982, IRAN ANTIQ, VXVII, P1
+   Kohl Ph. L., 1980, IRAN, V18, P160
+   Kohl PL, 1981, BRONZE AGE CIVILIZAT, V19, pvii
+   Kohl PL, 1992, CHRONOLOGIES OLD WOR, VI, p[I, 179]
+   KOHL PL, 1984, CENTRAL ASIA PALAEOL, P14
+   KONIGSBERG LW, 1993, AM J PHYS ANTHROPOL, V90, P35, DOI 10.1002/ajpa.1330900103
+   KROGMAN WM, 1940, AFEELING NATUURKUNDE, V39, P1
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P115, DOI 10.1007/BF02289694
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V2, P1
+   LAMBERGKARLOVSK.CC, 1993, INF B INT ASS STUD C, V19, P29
+   LAMBERGKARLOVSKY CC, 1994, ANTIQUITY, V68, P398
+   LAMBERGKARLOVSKY CC, 1994, ANTIQUITY, V68, P353
+   LIGABUE G, 1988, BACTRIA ANCIENT OASI
+   LISITSINA GN, 1969, ANTIQUITY, V43, P279, DOI 10.1017/S0003598X00040710
+   LISITSINA GN, 1978, STANOVLENIE RAZVITIE
+   MANTEL N, 1967, CANCER RES, V27, P209
+   Martin R, 1928, LEHRBUCH ANTHR ZWEIT
+   MASIMOV IS, 1981, BRONZE AGE CIVILIZAT, P194
+   MASIMOV IS, 1979, IZVESTIYA AKAD NAUK, V2, P72
+   Masson V.M., 1981, BRONZE AGE CIVILIZAT, P135
+   Masson V. M, 1972, CENTRAL ASIA TURKMEN
+   Masson V. M., 1992, HIST CIVILIZATIONS C, V1, P225
+   MASSON V. M., 1992, HIST CIVILIZATIONS C, V1, P337
+   MASSON VM, 1968, ANTIQUITY, V42, P178, DOI 10.1017/S0003598X00034281
+   MASSON VM, 1981, BRONZE AGE CIVILIZAT, P107
+   MASSON VM, 1989, PERVIE TSIVILIZATSII
+   MASSON VM, 1988, ALTYNDEPE PHILADELPH
+   MASSON VM, 1964, SREDNYAYA AZIYA DREV
+   P'yankova L. T., 1993, INF B INT ASS STUD C, V19, P109
+   PARDINI E, 1977, ESTRATTO ARCH ANTHR, V107, P159
+   PARDINI E, 1976, ESTRATTO ANTICIPATO, V106, P1
+   PARDINI E, 1979, ESTRATTO ARCH ANTHR, V109, P521
+   Pelliot P., 1931, REV ARTS ASIATIQ, VVII, P1
+   ROLF FJ, 1972, SYS ZOOL, V21, P271
+   ROLF FJ, 1994, NTSYS PC NUMERICAL T
+   SAITOU N, 1987, MOL BIOL EVOL, V4, P406
+   Sarianidi V., 1990, DREVNOSTI STRANI MAR
+   SARIANIDI V, 1993, INFORMATION B, V19, P5
+   Sarianidi V.I., 1981, BRONZE AGE CIVILIZAT, P165
+   SARIANIDI VI, 1994, ANN ACAD SC, V271, P667
+   SARIANIDI VI, 1985, IND AUX BALKANS RECU, P417
+   SARIANIDI VI, 1965, PAMYATNIKI POZNEGO E
+   SARIANIDI VI, 1977, DREVNIE ZEMLEDELTSI
+   SARIANIDI VI, 1987, INFO B INT ASS CULT, V13, P44
+   SARIANIDI VI, 1968, ARHEOLOGII, V114, P3
+   SMOUSE PE, 1986, SYST ZOOL, V35, P627, DOI 10.2307/2413122
+   Sneath PHA, 1973, NUMERICAL TAXONOMY
+   TEREKHNOVA NN, 1990, DREVNOSTI STRAINI MA, P177
+   TOSI M, 1973, E W, V8, P21
+   TOSI M, 1988, BACTRIA ANCIENT OASI, P41
+   UDEMURADOV BN, 1988, IZVEST AKAD NAUK TUR, P26
+   UDEMURADOV BN, 1987, IZVESTIYA AKAD NAUK, P26
+   Vinogradov A. V., 1965, SOVETSKAJA ARHEOLOGI, V2, P114
+   VINOGRADOV AV, 1979, DREVNYAYA BAKTRIYA, V2, P7
+   WILKINSON L., 1990, SYSTAT SYSTEM STAT
+NR 94
+TC 8
+Z9 9
+U1 1
+U2 1
+PU WILEY-LISS
+PI NEW YORK
+PA DIV JOHN WILEY & SONS INC, 605 THIRD AVE, NEW YORK, NY 10158-0012 USA
+SN 0002-9483
+J9 AM J PHYS ANTHROPOL
+JI Am. J. Phys. Anthropol.
+PD FEB
+PY 1999
+VL 108
+IS 2
+BP 173
+EP 192
+DI 10.1002/(SICI)1096-8644(199902)108:2<173::AID-AJPA4>3.3.CO;2-V
+PG 20
+WC Anthropology; Evolutionary Biology
+SC Anthropology; Evolutionary Biology
+GA 163DD
+UT WOS:000078386700004
+PM 9988380
+DA 2019-03-26
+ER
+
+PT J
+AU Thulke, HH
+   Grimm, V
+   Muller, MS
+   Staubach, C
+   Tischendorf, L
+   Wissel, C
+   Jeltsch, F
+AF Thulke, HH
+   Grimm, V
+   Muller, MS
+   Staubach, C
+   Tischendorf, L
+   Wissel, C
+   Jeltsch, F
+TI From pattern to practice: a scaling-down strategy for spatially explicit
+   modelling illustrated by the spread and control of rabies
+SO ECOLOGICAL MODELLING
+LA English
+DT Review
+DE ecological modelling; spatially explicit; scales; pattern; fox; rabies;
+   vaccination
+ID FOXES VULPES-VULPES; RED FOXES; HETEROGENEOUS LANDSCAPES;
+   POPULATION-DYNAMICS; DISPERSAL PATTERNS; SIMULATION-MODEL; ECOLOGICAL
+   UNITS; SELF-IDENTITY; URBAN FOXES; GERMANY
+AB A major problem in ecological modelling is finding the appropriate level of resolution when describing the processes and structures of ecological systems. When modelling basic ecological questions, as a rule the best approach is to ignore as much detail as possible in order to obtain general insights. However, for applied problems focusing in particular on ecological systems, there are no clear guidelines for identifying the most appropriate resolution in space, time and the detail of description. Spatially explicit modelling thus has to mainly rely on trial and error in scaling-up from modelling at the local scale to exploration of the model at the global scale. We demonstrate here a modelling strategy that takes the opposite approach: starting at the global scale, with a strategic model of minimum resolution, we proceed step by step to a model addressing applied questions. The strategic model is designed to reproduce a certain pattern observed in nature. As an example, we use the wave-like spreading pattern of rabies. The applied model addresses the question of whether rabies might persist in areas with a high proportion of foxes immunized by oral vaccination. As a consequence of our scaling-down strategy, the resolution of the applied model is not chosen a priori, but emerges from the step by step modelling strategy. During each step of model refinement, one module of the preceding model is described with a slightly increased resolution. This stepwise approach allows both a backward reference to the pattern reproduced by the strategic model and a cross-reference between the coarser and finer version of the module refined. The main potential of the scaling-down strategy is that it leads to efficient models in an efficient way, but since scaling-down is a complement to scaling-up approaches, it might also help to bridge the gap between theoretical and applied ecological modelling. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 UFZ Helmholtz Ctr Environm Res, Dept Ecol Modelling, D-04318 Leipzig, Germany.
+   Fed Res Ctr Virus Dis Anim, Inst Epidemiol, D-16868 Wusterhausen, Germany.
+RP Thulke, HH (reprint author), UFZ Helmholtz Ctr Environm Res, Dept Ecol Modelling, Permoserstr 15, D-04318 Leipzig, Germany.
+EM hanst@oesa.ufz.de
+RI Thulke, Hans-Hermann/I-6923-2013
+OI Thulke, Hans-Hermann/0000-0002-7670-2231; Jeltsch,
+   Florian/0000-0002-4670-6469
+CR ALLEN SH, 1983, J WILDLIFE MANAGE, V47, P860, DOI 10.2307/3808627
+   ALLEN SH, 1993, J WILDLIFE MANAGE, V57, P526, DOI 10.2307/3809277
+   ANDERSON RM, 1981, NATURE, V289, P765, DOI 10.1038/289765a0
+   Ansorge H., 1990, Saeugetierkundliche Informationen, V3, P185
+   Aubert M., 1992, P9
+   Bacon P.J., 1985, P109
+   BACON PJ, 1981, J ENVIRON MANAGE, V13, P195
+   Barlow N. D., 1995, P230, DOI 10.1017/CBO9780511629396.009
+   Berger J., 1976, LECTURE NOTES BIOMAT, V11, P74
+   Brandl Roland, 1994, Zeitschrift fuer Oekologie und Naturschutz, V3, P207
+   Braunschweig A.V., 1980, Biogeographica, V18, P97
+   CAIN ML, 1995, AM NAT, V145, P888, DOI 10.1086/285775
+   Charlton K.M., 1988, P101
+   CURK A, 1991, Veterinarski Arhiv, V61, P19
+   CZARAN T, 1992, TRENDS ECOL EVOL, V7, P38, DOI 10.1016/0169-5347(92)90103-I
+   DAVID JM, 1982, ECOL MODEL, V15, P107, DOI 10.1016/0304-3800(82)90056-4
+   DENBOER PJ, 1996, REGULATION STABILIZA
+   Durrett R., 1995, EPIDEMIC MODELS THEI, P187
+   Englund J., 1980, Biogeographica, V18, P107
+   ERMENTROUT GB, 1993, J THEOR BIOL, V160, P97, DOI 10.1006/jtbi.1993.1007
+   GLENN SM, 1993, J VEG SCI, V4, P157, DOI 10.2307/3236100
+   Goretzki J, 1982, BEITRAGE JAGD WILDFO, V12, P96
+   GORETZKI J, 1995, UNSERE JAGD, V2, P8
+   GORETZKI J, 1997, BEITRAGE JAGD WILDFO, V22, P187
+   GREEN DG, 1989, VEGETATIO, V82, P139, DOI 10.1007/BF00045027
+   Grimm V, 1998, TRENDS ECOL EVOL, V13, P298, DOI 10.1016/S0169-5347(98)01421-9
+   Grimm V, 1999, ECOL MODEL, V115, P129, DOI 10.1016/S0304-3800(98)00188-4
+   GRIMM V, 1994, ECOL MODEL, V75, P641, DOI 10.1016/0304-3800(94)90056-6
+   Grimm V, 1996, SCI TOTAL ENVIRON, V183, P151, DOI 10.1016/0048-9697(95)04966-5
+   GRIMM V, 1996, BEITR JAGD WILDFORSC, V21, P277
+   Grimm Volker, 1996, Senckenbergiana Maritima, V27, P215
+   HARRIS S, 1990, NEW SCI, V128, P20
+   Hengeveld R, 1989, DYNAMICS BIOL INVASI
+   Holling C.S., 1966, SYSTEMS ANAL ECOLOGY, VI, P195
+   JACKSON HC, 1982, COMP IMMUNOL MICROB, V5, P309, DOI 10.1016/0147-9571(82)90053-4
+   Jax K, 1998, OIKOS, V82, P253, DOI 10.2307/3546965
+   Jeltsch F, 1997, P ROY SOC B-BIOL SCI, V264, P495, DOI 10.1098/rspb.1997.0071
+   JELTSCH F, 1994, ECOL MODEL, V75, P111, DOI 10.1016/0304-3800(94)90011-6
+   Jeltsch F, 1997, J VEG SCI, V8, P177, DOI 10.2307/3237346
+   JELTSCH F, 1992, ECOL MODEL, V60, P63, DOI 10.1016/0304-3800(92)90013-5
+   Jeltsch F, 1996, J ECOL, V84, P583, DOI 10.2307/2261480
+   KALLEN A, 1985, J THEOR BIOL, V116, P377, DOI 10.1016/S0022-5193(85)80276-9
+   KAREIVA P, 1995, NATURE, V373, P299, DOI 10.1038/373299a0
+   LEVIN SA, 1992, ECOLOGY, V73, P1943, DOI 10.2307/1941447
+   LEVINS R, 1966, AM SCI, V54, P421
+   Lima SL, 1996, TRENDS ECOL EVOL, V11, P131, DOI 10.1016/0169-5347(96)81094-9
+   LLOYD HG, 1976, ZBL VET MED B, V23, P580
+   LUBINA JA, 1988, AM NAT, V131, P526, DOI 10.1086/284804
+   Macdonald D.W., 1985, P71
+   MacInnes C.D., 1987, P910
+   MARON JL, 1997, SCIENCE, V278, P1616
+   Masson E, 1996, VET RES, V27, P255
+   May RM, 1973, STABILITY COMPLEXITY
+   Meia JS, 1995, CAN J ZOOL, V73, P1960, DOI 10.1139/z95-230
+   MESLIN FM, 1997, 42 WHO MED ZOON JCON, P2
+   Mollison D., 1995, P384, DOI 10.1017/CBO9780511629396.015
+   MOLLISON D, 1991, MATH BIOSCI, V107, P255, DOI 10.1016/0025-5564(91)90009-8
+   MURRAY JD, 1986, PROC R SOC SER B-BIO, V229, P111, DOI 10.1098/rspb.1986.0078
+   MURRAY JD, 1992, J THEOR BIOL, V156, P327, DOI 10.1016/S0022-5193(05)80679-4
+   Nisbet R.M., 1982, MODELLING FLUCTUATIN
+   OKUBO A, 1989, PROC R SOC SER B-BIO, V238, P113, DOI 10.1098/rspb.1989.0070
+   PAINE RT, 1981, ECOL MONOGR, V51, P145, DOI 10.2307/2937261
+   PERRINS J, 1993, J BIOGEOGR, V20, P33, DOI 10.2307/2845737
+   Peters R. H., 1991, CRITIQUE ECOLOGY
+   RATZ A, 1995, INT J WILDLAND FIRE, V5, P25, DOI 10.1071/WF9950025
+   REICHMAN OJ, 1993, ECOLOGY, V74, P1281, DOI 10.2307/1940496
+   Rhodes CJ, 1997, THEOR POPUL BIOL, V52, P101, DOI 10.1006/tpbi.1997.1323
+   SARGEANT AB, 1972, J WILDLIFE MANAGE, V36, P225, DOI 10.2307/3799055
+   SATO K, 1993, ECOLOGY, V74, P1538, DOI 10.2307/1940081
+   SAYERS B M, 1977, Medical Informatics, V2, P11
+   Sayers B.M., 1985, P235
+   SCHENZLE D, 1995, DTSCH TIERARZTL WOCH, V102, P419
+   Schippers P, 1996, ECOGRAPHY, V19, P97, DOI 10.1111/j.1600-0587.1996.tb00160.x
+   SCHLUTER H, 1995, TIERARZTL UMSCHAU, V50, P748
+   SCHLUTER H, 1997, EPIDEMIOL SANTE ANIM, V31, P1
+   Scott Thos. G., 1943, ECOL MONOGR, V13, P427, DOI 10.2307/1948591
+   SELHORST T, 1997, EPIDEMIOL SANTE ANIM, V31, P1
+   SIKES RK, 1970, INFECT DIS, P3
+   SILVERTOWN JW, 1992, INTRO PLANT POPULATI
+   SKELLAM JG, 1951, BIOMETRIKA, V38, P196, DOI 10.1093/biomet/38.1-2.196
+   SMITH GC, 1991, PHILOS T ROY SOC B, V334, P459, DOI 10.1098/rstb.1991.0127
+   Smith GC, 1995, MAMMALIA, V59, P629, DOI 10.1515/mamm.1995.59.4.629
+   SOTRM GL, 1975, WILD CANIDS, P237
+   STARFIELD AM, 1991, BUILDING MODELS CONS, V2
+   STAUBACH C, 1998, P SOC VET EP PREV ME, P40
+   STECK F, 1980, EPIDEMIOL REV, V2, P72
+   Stephan T, 1998, ADV ECOL SCI, V1, P41
+   Stohr K, 1996, VET REC, V139, P32, DOI 10.1136/vr.139.2.32
+   Tackmann K, 1998, EPIDEMIOL INFECT, V120, P101, DOI 10.1017/S0950268897008406
+   THIERY JM, 1995, J ECOL, V83, P497, DOI 10.2307/2261602
+   Thulke HH, 1997, DEUT TIERARZTL WOCH, V104, P492
+   THULKE HH, 1997, EPIDEMIOL SANTE ANIM, V31, P1
+   Tischendorf L, 1998, P ROY SOC B-BIOL SCI, V265, P839, DOI 10.1098/rspb.1998.0368
+   Tischendorf L, 1997, ECOL MODEL, V103, P33, DOI 10.1016/S0304-3800(97)00074-4
+   Toma B, 1977, Adv Virus Res, V21, P1, DOI 10.1016/S0065-3527(08)60760-5
+   TREWHELLA WJ, 1988, J APPL ECOL, V25, P423, DOI 10.2307/2403834
+   Voigt D.R., 1985, P311
+   Wandeler A.I., 1980, Biogeographica, V18, P237
+   WANDELER AI, 1988, REV INFECT DIS, V10, P649
+   WEINER J, 1995, J ECOL, V83, P153, DOI 10.2307/2261159
+   White PCL, 1996, J ANIM ECOL, V65, P121, DOI 10.2307/5705
+   White PCL, 1995, J APPL ECOL, V32, P693, DOI 10.2307/2404809
+   Wiegand K, 1998, ADV ECOL SCI, V1, P63
+   Wiegand T, 1998, ECOL MONOGR, V68, P539, DOI 10.1890/0012-9615(1998)068[0539:ATROEF]2.0.CO;2
+   WISSEL C, 1992, ECOL MODEL, V63, P29, DOI 10.1016/0304-3800(92)90060-R
+   WISSEL C, 1992, ECOL MODEL, V63, P1, DOI 10.1016/0304-3800(92)90058-M
+   Wolfram S, 1986, THEORY APPL CELLULAR
+   Yachi S, 1989, FORMA, V4, P3
+NR 108
+TC 35
+Z9 35
+U1 2
+U2 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3800
+EI 1872-7026
+J9 ECOL MODEL
+JI Ecol. Model.
+PD MAY 17
+PY 1999
+VL 117
+IS 2-3
+BP 179
+EP 202
+DI 10.1016/S0304-3800(98)00198-7
+PG 24
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 211ZQ
+UT WOS:000081192100001
+DA 2019-03-26
+ER

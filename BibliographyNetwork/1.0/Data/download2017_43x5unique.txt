@@ -1,0 +1,516 @@
+
+PT S
+AU Musa, MB
+   Jemain, AA
+AF Musa, Muzirah Binti
+   Jemain, Abdul Aziz
+BE Puteh, M
+   AbdHamid, NZ
+   Adenan, NH
+TI Persistency of Ozone Concentrations in Urban and Suburban Area of
+   Peninsular Malaysia
+SO PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON EDUCATION, MATHEMATICS
+   AND SCIENCE 2016 (ICEMS2016) IN CONJUNCTION WITH INTERNATIONAL
+   POSTGRADUATE CONFERENCE ON SCIENCE AND MATHEMATICS 2016 (IPCSM2016)
+SE AIP Conference Proceedings
+LA English
+DT Proceedings Paper
+CT International Conference on Education, Mathematics and Science (ICEMS)
+CY NOV 19, 2016
+CL Univ Pendidikan Sultan Idris, Fac Sci & Math, Perak, MALAYSIA
+HO Univ Pendidikan Sultan Idris, Fac Sci & Math
+DE Persistency; scaling; Daily ozone maximum; Detrended Moving Average;
+   Detrended Moving Median
+AB This paper investigates the persistency properties of ozone concentrations at eight selected air quality monitoring stations situated in uban and suburban area of Peninsular Malaysia. Daily maximum hourly data of ozone concentration in 19982009, is used in this study. In describing the persistency, the scaling analysis, namely Detrended Moving Median (DMM) method was used to estimate the degree of persistency, known as Hurst estimator, H. This method is the adaptation of the Detrended Moving Average (DMA) method. The finding showed that there are three different scaling regions separated by a critical time scale, n(c1) and n(c2) which is around 8 month and 2 years. For shorter time scale ( n < n(c1)) and larger time scale (n > n(c2)), the ozone concentration are persist and it remain high which the H values are showed between 0.5 < H < 1 for the most of monitoring stations in urban area. While, in suburban area, the persistency of ozone concentration are as similar as result for urban area. But a weakly persistency of ozone concentration are seen on a middle time scale (n(c1) < n < n(c2)). Therefore, these findings provide scaling behaviour and persistence in ozone concentration in the ambient air in urban and suburban area of Peninsular Malaysia.
+C1 [Musa, Muzirah Binti] Univ Pendidikan Sultan Idris, Fak Sains & Matemat, Jabatan Matemat, Tanjong Malim 35900, Perak, Malaysia.
+   [Jemain, Abdul Aziz] Univ Kebangsaan Malaysia, Fak Sains & Teknol, Pusat Pengajian Matemat, Bangi 43600, Selangor, Malaysia.
+RP Musa, MB (reprint author), Univ Pendidikan Sultan Idris, Fak Sains & Matemat, Jabatan Matemat, Tanjong Malim 35900, Perak, Malaysia.
+EM muzirah@fsmt.upsi.edu.my; azizj@ukm.my
+FU Universiti Pendidikan Sultan Idris; Ministry of Higher Education,
+   Malaysia
+FX The authors are grateful to the Air Quality Division of the Department
+   of the Environment, Malaysia, (DOE); Alam Sekitar Sdn Bhd (ASMA) and
+   Assoc. Prof. Dr. Mohd Talib Latif from Universiti Kebangsaan Malaysia
+   for providing the air quality data for this study. Special thanks also
+   to Universiti Pendidikan Sultan Idris, and Ministry of Higher Education,
+   Malaysia for their sponsorship.
+CR Cannon MJ, 1997, PHYSICA A, V241, P606, DOI 10.1016/S0378-4371(97)00252-5
+   Carbone A, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026105
+   Chelani AB, 2009, ATMOS RES, V92, P244, DOI 10.1016/j.atmosres.2008.12.001
+   Varotsos C, 2005, ATMOS ENVIRON, V39, P4041, DOI 10.1016/j.atmosenv.2005.03.024
+   Zhu JL, 2003, ATMOS ENVIRON, V37, P2605, DOI 10.1016/S1352-2310(03)00219-X
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 2 HUNTINGTON QUADRANGLE, STE 1NO1, MELVILLE, NY 11747-4501 USA
+SN 0094-243X
+BN 978-0-7354-1519-5
+J9 AIP CONF PROC
+PY 2017
+VL 1847
+AR UNSP 020015-1
+DI 10.1063/1.4983870
+PG 5
+WC Education, Scientific Disciplines; Mathematics, Interdisciplinary
+   Applications
+SC Education & Educational Research; Mathematics
+GA BJ1BM
+UT WOS:000417369700015
+DA 2019-03-26
+ER
+
+PT J
+AU Gunning, CE
+   Ferrari, MJ
+   Erhardt, EB
+   Wearing, HJ
+AF Gunning, Christian E.
+   Ferrari, Matthew J.
+   Erhardt, Erik B.
+   Wearing, Helen J.
+TI Evidence of cryptic incidence in childhood diseases
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+LA English
+DT Article
+DE disease persistence; stochastic extinction; incomplete observation;
+   measles; pertussis; metapopulation
+ID CRITICAL COMMUNITY SIZE; TIME-SERIES ANALYSIS; SPECIES-RICHNESS;
+   BORDETELLA-PERTUSSIS; RECURRENT EPIDEMICS; INFECTIOUS-DISEASE; MASS
+   VACCINATION; YOUNG INFANTS; MEASLES; DYNAMICS
+AB Persistence and extinction are key processes in infectious disease dynamics that, owing to incomplete reporting, are seldom directly observable. For fully immunizing diseases, reporting probabilities can be readily estimated from demographic records and case reports. Yet reporting probabilities are not sufficient to unambiguously reconstruct disease incidence from case reports. Here, we focus on disease presence (i.e. marginal probability of non-zero incidence), which provides an upper bound on the marginal probability of disease extinction. We examine measles and pertussis in pre-vaccine era United States (US) cities, and describe a conserved scaling relationship between population size, reporting probability and observed presence (i.e. non-zero case reports). We use this relationship to estimate disease presence given perfect reporting, and define cryptic presence as the difference between estimated and observed presence. We estimate that, in early twentieth century US cities, pertussis presence was higher than measles presence across a range of population sizes, and that cryptic presence was common in small cities with imperfect reporting. While the methods employed here are specific to fully immunizing diseases, our results suggest that cryptic incidence deserves careful attention, particularly in diseases with low case counts, poor reporting and longer infectious periods.
+C1 [Gunning, Christian E.; Wearing, Helen J.] Univ New Mexico, Dept Biol, Albuquerque, NM 87131 USA.
+   [Erhardt, Erik B.; Wearing, Helen J.] Univ New Mexico, Dept Math & Stat, Albuquerque, NM 87131 USA.
+   [Ferrari, Matthew J.] Penn State Univ, Ctr Infect Dis Dynam, University Pk, PA 16802 USA.
+RP Gunning, CE (reprint author), Univ New Mexico, Dept Biol, Albuquerque, NM 87131 USA.
+EM research@x14n.org
+FU Bill and Melinda Gates Foundation; RAPIDD Program of the Science and
+   Technology Directorate of the Department of Homeland Security; Program
+   in Interdisciplinary Biological and Biomedical Sciences at the
+   University of New Mexico; National Center for Research Resources (NCRR),
+   component of the National Institutes of Health (NIH) [P20RR018754];
+   National Institute of Biomedical Imaging and Bioengineering (NIBIB),
+   component of the National Institutes of Health (NIH) [T32EB009414]
+FX M.J.F. was supported under a grant from the Bill and Melinda Gates
+   Foundation and the RAPIDD Program of the Science and Technology
+   Directorate of the Department of Homeland Security. C.E.G. was supported
+   by a fellowship in the Program in Interdisciplinary Biological and
+   Biomedical Sciences at the University of New Mexico. This publication
+   was made possible by grant numbers P20RR018754 from the National Center
+   for Research Resources (NCRR), T32EB009414 from the National Institute
+   of Biomedical Imaging and Bioengineering (NIBIB), components of the
+   National Institutes of Health (NIH). Its contents are solely the
+   responsibility of the authors and do not necessarily represent the
+   official views of NCRR, NIBIB or NIH.
+CR ANDERSON RM, 1984, J HYG-CAMBRIDGE, V93, P587, DOI 10.1017/S0022172400065177
+   ANDERSON RM, 1982, SCIENCE, V215, P1053, DOI 10.1126/science.7063839
+   Andersson H, 2000, J MATH BIOL, V41, P559, DOI 10.1007/s002850000060
+   Baron S, 1998, PEDIATR INFECT DIS J, V17, P412, DOI 10.1097/00006454-199805000-00013
+   Bartlett M., 1956, P 3 BERK S MATH STAT, V4, P81, DOI DOI 10.2307/2342553
+   BARTLETT MS, 1960, J R STAT SOC SER A-G, V123, P37, DOI 10.2307/2343186
+   BARTLETT MS, 1957, J R STAT SOC SER A-G, V120, P48, DOI 10.2307/2342553
+   BASS JW, 1987, PEDIATR INFECT DIS J, V6, P141, DOI 10.1097/00006454-198702000-00001
+   Bauch CT, 2003, P ROY SOC B-BIOL SCI, V270, P1573, DOI 10.1098/rspb.2003.2410
+   Baxby D, 1997, REV MED VIROL, V7, P71, DOI 10.1002/(SICI)1099-1654(199707)7:2<71::AID-RMV185>3.0.CO;2-S
+   Bharti N, 2011, SCIENCE, V334, P1424, DOI 10.1126/science.1210554
+   BLACK FL, 1966, J THEOR BIOL, V11, P207, DOI 10.1016/0022-5193(66)90161-5
+   Black RE, 2010, LANCET, V375, P1969, DOI 10.1016/S0140-6736(10)60549-1
+   Blackwood JC, 2013, P NATL ACAD SCI USA, V110, P9595, DOI 10.1073/pnas.1220908110
+   Broutin H, 2010, P ROY SOC B-BIOL SCI, V277, P3239, DOI 10.1098/rspb.2010.0994
+   Chao A, 2009, ECOLOGY, V90, P1125, DOI 10.1890/07-2147.1
+   Cherry JD, 2014, EXPERT REV VACCINES, V13, P1073, DOI 10.1586/14760584.2014.935765
+   Clarkson JA, 1985, J EPIDEMIOL, V14, P153
+   Conlan AJK, 2007, P R SOC B, V274, P1133, DOI 10.1098/rspb.2006.0030
+   Conlan AJK, 2010, J R SOC INTERFACE, V7, P623, DOI 10.1098/rsif.2009.0284
+   CONNOR EF, 1978, ECOL MONOGR, V48, P219, DOI 10.2307/2937300
+   Crowcroft NS, 2003, LANCET INFECT DIS, V3, P413, DOI 10.1016/S1473-3099(03)00669-8
+   de Celles MD, 2016, P ROY SOC B-BIOL SCI, V283, DOI 10.1098/rspb.2015.2309
+   de Greeff SC, 2010, CLIN INFECT DIS, V50, P1339, DOI 10.1086/652281
+   Earn DJD, 2000, SCIENCE, V290, P1360, DOI 10.1126/science.290.5495.1360
+   Earn DJD, 2000, SCIENCE, V287, P667, DOI 10.1126/science.287.5453.667
+   Ferrari MJ, 2013, PHILOS T R SOC B, V368, DOI 10.1098/rstb.2012.0141
+   Ferrari MJ, 2008, NATURE, V451, P679, DOI 10.1038/nature06509
+   FINE PEM, 1982, INT J EPIDEMIOL, V11, P5, DOI 10.1093/ije/11.1.5
+   Gomes MC, 1999, EUR J EPIDEMIOL, V15, P791, DOI 10.1023/A:1007615513441
+   Gotelli NJ, 2001, ECOL LETT, V4, P379, DOI 10.1046/j.1461-0248.2001.00230.x
+   Grenfell BT, 2004, SCIENCE, V303, P327, DOI 10.1126/science.1090727
+   Grenfell BT, 2001, NATURE, V414, P716, DOI 10.1038/414716a
+   Grove RD, 1968, 1968 VITAL STAT RATE
+   Gunning CE, 2014, DRYAD DIGITAL REPOSI
+   Gunning CE, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.0886
+   Gunning CE, 2013, ECOL LETT, V16, P985, DOI 10.1111/ele.12124
+   Hanski I, 1998, NATURE, V396, P41, DOI 10.1038/23876
+   He DH, 2010, J R SOC INTERFACE, V7, P271, DOI 10.1098/rsif.2009.0151
+   Kaliner E, 2014, EUROSURVEILLANCE, V19, DOI 10.2807/1560-7917.ES2014.19.7.20703
+   Katz S, 2004, J INFECT DIS S1, V189, pS243
+   Keeling MJ, 1997, SCIENCE, V275, P65, DOI 10.1126/science.275.5296.65
+   Koelle K, 2006, SCIENCE, V314, P1898, DOI 10.1126/science.1132745
+   Lavine JS, 2011, P NATL ACAD SCI USA, V108, P7259, DOI 10.1073/pnas.1014394108
+   Linder FE, 1900, 1947 VITAL STAT RATE
+   Lloyd AL, 2001, THEOR POPUL BIOL, V60, P59, DOI 10.1006/tpbi.2001.1525
+   Lloyd-Smith JO, 2005, TRENDS ECOL EVOL, V20, P511, DOI 10.1016/j.tree.2005.07.004
+   LONDON WP, 1973, AM J EPIDEMIOL, V98, P453, DOI 10.1093/oxfordjournals.aje.a121575
+   Martinez-Bakker M, 2015, PLOS BIOL, V13, DOI 10.1371/journal.pbio.1002172
+   Mattoo S, 2005, CLIN MICROBIOL REV, V18, P326, DOI 10.1128/CMR.18.2.326-382.2005
+   MCLEAN AR, 1988, EPIDEMIOL INFECT, V100, P419, DOI 10.1017/S0950268800067170
+   MCNEILL WH, 1977, PLAGUES PEOPLES
+   Metcalf CJE, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0074696
+   Metzker B, 2002, EDOEA0203
+   Mulders MN, 2001, VACCINE, V19, P2245, DOI 10.1016/S0264-410X(00)00453-9
+   Nasell I, 2005, THEOR POPUL BIOL, V67, P203, DOI 10.1016/j.tpb.2005.01.002
+   Nasell I, 1999, J ROY STAT SOC B, V61, P309, DOI 10.1111/1467-9868.00178
+   Nguyen HTH, 2008, J R SOC INTERFACE, V5, P403, DOI 10.1098/rsif.2007.1168
+   Noedl H, 2009, NEW ENGL J MED, V361, P540, DOI 10.1056/NEJMc0900231
+   Pedersen JM, 2012, J INQUIRY ACTION ED, V5, P4
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Rahbek C, 2005, ECOL LETT, V8, P224, DOI 10.1111/j.1461-0248.2004.00701.x
+   Roberts L, 2016, SCIENCE, V353, P738, DOI 10.1126/science.353.6301.738
+   Rohani P, 1999, SCIENCE, V286, P968, DOI 10.1126/science.286.5441.968
+   Rohani P, 2002, AM NAT, V159, P469, DOI 10.1086/339467
+   Rohani P, 2000, LANCET, V355, P285, DOI 10.1016/S0140-6736(99)04482-7
+   Schloss PD, 2005, APPL ENVIRON MICROB, V71, P1501, DOI 10.1128/AEM.71.3.1501-1506.2005
+   Scholle SO, 2013, AM NAT, V182, P494, DOI 10.1086/672000
+   Schoumaker B, 2014, DHS METHODOLOGICAL R, V12
+   Setel PW, 2007, LANCET, V370, P1569, DOI 10.1016/S040-6736(07)61307-5
+   Stone L, 2007, NATURE, V446, P533, DOI 10.1038/nature05638
+   Talisuna A, 2012, LANCET INFECT DIS, V12, P888, DOI 10.1016/S1473-3099(12)70241-4
+   U.S. Public Health Service, PUBL HLTH REP
+   UNICEF, 2005, RIGHTS START LIF STA
+   United States Bureau of the Census, 1975, HIST STAT US COL TIM
+   WALTHER BA, 1995, PARASITOL TODAY, V11, P306, DOI 10.1016/0169-4758(95)80047-6
+   Wang B, 2014, J CLIN MICROBIOL, V52, P1838, DOI 10.1128/JCM.03615-13
+   Wassilak SGF, 2014, J INFECT DIS, V210, pS5, DOI 10.1093/infdis/jiu456
+   Wearing HJ, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000647
+   Weiss J, 2013, TELLING TALES TIME, P23
+   Wendelboe AM, 2007, PEDIATR INFECT DIS J, V26, P293, DOI 10.1097/01.inf.0000258699.61464.6d
+   Wendelboe Aaron M, 2005, Pediatr Infect Dis J, V24, pS58, DOI 10.1097/01.inf.0000160914.59160.41
+   World Health Organization: World Health Statistics. Geneva, 2010, WORLD HLTH STAT
+NR 83
+TC 0
+Z9 0
+U1 3
+U2 7
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 0962-8452
+EI 1471-2954
+J9 P ROY SOC B-BIOL SCI
+JI Proc. R. Soc. B-Biol. Sci.
+PD AUG 30
+PY 2017
+VL 284
+IS 1861
+AR 20171268
+DI 10.1098/rspb.2017.1268
+PG 10
+WC Biology; Ecology; Evolutionary Biology
+SC Life Sciences & Biomedicine - Other Topics; Environmental Sciences &
+   Ecology; Evolutionary Biology
+GA FF1MA
+UT WOS:000408662400011
+PM 28855364
+DA 2019-03-26
+ER
+
+PT S
+AU Ma, L
+   Jin, ND
+   Cui, Y
+   Xu, YB
+AF Ma, Lin
+   Jin, Ningdi
+   Cui, Yang
+   Xu, Yubin
+GP IEEE
+TI LTE User Equipment RSRP Difference Elimination Method Using
+   Multidimensional Scaling for LTE Fingerprint-based Positioning System
+SO 2017 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)
+SE IEEE International Conference on Communications
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Communications (ICC)
+CY MAY 21-25, 2017
+CL Paris, FRANCE
+SP IEEE, IEEE France Sect, IEEE Commun Soc
+DE LTE; outdoor positioning; UE RSRP difference; MDS
+AB Currently, with the rapid development of 4G, most urban outdoor areas have been well covered with LTE signal, which provides the possibility to use LTE on land for positioning navigation system as a substitute of global navigation satellite system (GNSS). Because of cost and implementation difficulty, Minimization of Drive Tests (MDT) was proposed in LTE Release 10. It utilizes the LTE user equipment to feedback the measurement report of reference signal receiving power (RSRP) for the network optimization, which makes the LTE fingerprint based positioning system possible. However, due to the mobile diversity, user habit and complicated channel, the user equipment (UE) RSRP difference is a non-ignorable problem that affects the positioning accuracy both in the online phase and offline phase. Therefore, in this paper, we propose an UE RSRP difference elimination method based on Multidimensional Scaling (MDS) algorithm. By using the relative RSRP difference between each two mobile terminals, we eliminate the RSRP difference both in the offline phase and online phase. We implemented the proposed method in a dense urban area and evaluated its performance. The experiment results indicated that the proposed method could effectively eliminate the UE RSRP difference and improve the positioning accuracy for LTE fingerprint-based positioning system.
+C1 [Ma, Lin; Jin, Ningdi; Cui, Yang; Xu, Yubin] Harbin Inst Technol, Commun Res Ctr, Harbin, Heilongjiang, Peoples R China.
+   [Ma, Lin; Jin, Ningdi; Cui, Yang; Xu, Yubin] China Minist Publ Secur, Key Lab Police Wireless Digital Commun, Harbin, Heilongjiang, Peoples R China.
+RP Ma, L (reprint author), Harbin Inst Technol, Commun Res Ctr, Harbin, Heilongjiang, Peoples R China.; Ma, L (reprint author), China Minist Publ Secur, Key Lab Police Wireless Digital Commun, Harbin, Heilongjiang, Peoples R China.
+EM malin@hit.edu.cn
+FU National Natural Science Foundation of China [61571162]; Natural Science
+   Foundation of Hei Longjiang Province China [F2016019]; Postdoctoral
+   Science-Research Development Foundation of Hei Longjiang Province China
+   [LBH-Q12080]; Science and Technology Project of Ministry of China Public
+   Security Foundation [2015GABJC38]
+FX This paper is supported by National Natural Science Foundation of China
+   (61571162), Natural Science Foundation of Hei Longjiang Province China
+   (F2016019), Postdoctoral Science-Research Development Foundation of Hei
+   Longjiang Province China (LBH-Q12080), and Science and Technology
+   Project of Ministry of China Public Security Foundation (2015GABJC38).
+CR Baumann D., 2014, MINIMIZATION DRIVE T, P9
+   Borg I, 2005, MODERN MULTIDIMENSIO
+   Chen CS, 2009, IEICE T COMMUN, VE92B, P396, DOI 10.1587/transcom.E92.B.396
+   Dattorro J., 2005, CONVEX OPTIMIZATION
+   Guan WG, 2010, 2010 IEEE INTERNATIONAL CONFERENCE ON WIRELESS COMMUNICATIONS, NETWORKING AND INFORMATION SECURITY (WCNIS), VOL 1, P126, DOI 10.1109/WCINS.2010.5541749
+   Jiang Y., 2012, INT C ADV MAT MAN PR, P876
+   LIU HC, 2014, INT CONF TELECOMM, P173
+   Ma L., 2015, IEEE GLOB COMM C
+   Mirowski P., 2013, INT C IND POS IND NA
+   Miura A., 2002, Journal of the Communications Research Laboratory, V49, P173
+   Mondal R. U., 2015, INT J COMPUTER TECHN, P1
+   Qi YH, 2006, IEEE T VEH TECHNOL, V55, P1516, DOI 10.1109/TVT.2006.878566
+   Vo QD, 2016, IEEE COMMUN SURV TUT, V18, P491, DOI 10.1109/COMST.2015.2448632
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1550-3607
+BN 978-1-4673-8999-0
+J9 IEEE ICC
+PY 2017
+PG 6
+WC Telecommunications
+SC Telecommunications
+GA BJ4DG
+UT WOS:000424872107021
+DA 2019-03-26
+ER
+
+PT J
+AU MacFarlane, DW
+   Kane, B
+AF MacFarlane, David W.
+   Kane, Brian
+TI Neighbour effects on tree architecture: functional trade-offs balancing
+   crown competitiveness with wind resistance
+SO FUNCTIONAL ECOLOGY
+LA English
+DT Article
+DE allometry; biomechanics; branches; morphological plasticity; open-grown
+   trees
+ID ACER-SACCHARUM; ALLOMETRIC RELATIONSHIPS; MECHANICAL STABILITY; TUNNEL
+   MEASUREMENTS; DRAG RELATIONSHIPS; DYNAMIC PROPERTIES; CONIFEROUS TREES;
+   DECIDUOUS TREES; WOOD DENSITY; LIFE-HISTORY
+AB 1. The architecture of trees is the result of constrained, morphologically plastic growth constrained by an underlying architectural model embedded in their genome, the structure of which can be significantly altered during growth to match the changing environmental conditions to which the tree is exposed. Here, we examined the hypothesis that crowding from neighbours should cause trees to optimize traits for light competition at the expense of wind resistance, with the reverse being true for trees lacking neighbours. Previous studies have examined the influence of light competition or wind resistance on shaping tree architecture, but few, if any, have simultaneously addressed trade-offs for optimizing these traits in response to crowding from neighbouring trees in forests, as compared to open-grown conditions.
+   2. We studied the response of tree-and branch-level architectural traits of temperate, broad-leaved, deciduous tree species of differing shade tolerance and wood strength from multiple locations across the north-eastern United States. Trees ranged in size (4-83 cm diameter at 1.3 m) and crowding conditions (open-and forest-grown) and occupied different canopy positions. The open-grown trees represented a null condition, where the lack of neighbouring trees to shape architectural traits could be contrasted with the influence of different levels of crowding in forests.
+   3. Our results show strong evidence for a tree neighbourhood-induced convergence of architectural traits across species and conditions, even when trees are growing in urban rather than natural forest conditions. After accounting for crowding, the effects of species and sample location contributed very little to explaining variation in architectural traits. One exception was crown dimensions, for which species-specific differences explained about 15% of the residual variation.
+   4. Under open-grown conditions, alleviation of light competition caused trees to develop relatively large crowns and branches and a squat growth form suitable to resist greater wind exposure. By contrast, increasing shading from neighbouring trees caused forest-grown trees to become increasingly more spindly in the main stem, with slender branches sparsely distributed over a disproportionately large crown volume - presumably to maximize light capture. Although the latter is an intrinsically less wind-stable form, it can be adopted to increase light capture because neighbouring trees reduce exposure to the wind, which should greatly reduce the likelihood of stem breakage or uprooting under critical wind pressures.
+C1 [MacFarlane, David W.] Michigan State Univ, Dept Forestry, E Lansing, MI 48824 USA.
+   [Kane, Brian] Univ Massachusetts, Dept Environm Conservat, Amherst, MA 01003 USA.
+RP MacFarlane, DW (reprint author), Michigan State Univ, Dept Forestry, E Lansing, MI 48824 USA.
+EM macfar24@msu.edu
+FU Michigan AgBioResearch, through the USDA National Institute of Food and
+   Agriculture; USDA Forest Service, Northern Research Station, Forest
+   Inventory and Analysis Program [NRS-05]
+FX The authors would like to thank Sam Clark, Garret Dettman and the field
+   crew at Kellogg Forest for the thousands of hours of labour required to
+   collect detailed measurements of tree traits in the forest study, and
+   Nicolette Eicholtz, Robert Golden, Thomas Hancox and Alex Alessi for
+   helping to measure open-grown trees at the University of
+   Massachusetts-Amherst. Part of DWM's time was supported with funds from
+   Michigan AgBioResearch, through the USDA National Institute of Food and
+   Agriculture, with additional support from the USDA Forest Service,
+   Northern Research Station, Forest Inventory and Analysis Program, NRS-05
+   (FIA). The authors declare that we have no conflict of interest related
+   to this manuscript.
+CR Archibald S, 2003, OIKOS, V102, P3, DOI 10.1034/j.1600-0706.2003.12181.x
+   Baker CJ, 1997, J EXP BOT, V48, P1125, DOI 10.1093/jxb/48.5.1125
+   Baral SK, 2017, TREES-STRUCT FUNCT, V31, P105, DOI 10.1007/s00468-016-1459-5
+   Barthelemy D, 2007, ANN BOT-LONDON, V99, P375, DOI 10.1093/aob/mcl260
+   Bechtold WA, 2005, SRS80 USDA FOR SERV
+   Bragg DC, 2003, FOREST ECOL MANAG, V186, P99, DOI 10.1016/S0378-1127(03)00230-5
+   CANNELL MGR, 1989, TREE PHYSIOL, V5, P307, DOI 10.1093/treephys/5.3.307
+   Chambers J. M., 1990, STAT MODELS S, P421
+   Ciftci C, 2013, TREES-STRUCT FUNCT, V27, P1175, DOI 10.1007/s00468-013-0867-z
+   Close Richard E., 1996, Journal of Arboriculture, V22, P187
+   COLE WG, 1994, FOREST ECOL MANAG, V67, P159, DOI 10.1016/0378-1127(94)90014-0
+   Coomes DA, 1998, FUNCT ECOL, V12, P426, DOI 10.1046/j.1365-2435.1998.00211.x
+   CUMMINGS W. H., 1941, JOUR FOREST, V39, P382
+   Dahle GA, 2010, TREES-STRUCT FUNCT, V24, P321, DOI 10.1007/s00468-009-0401-5
+   Damgaard C, 2000, ECOLOGY, V81, P1139, DOI 10.2307/177185
+   Dardick C, 2013, PLANT J, V75, P618, DOI 10.1111/tpj.12234
+   De Jaegere T, 2016, FORESTS, V7, DOI 10.3390/f7030056
+   Dickmann D. I, 2004, MICHIGAN FOREST COMM
+   Eloy C, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.258101
+   Evans LS, 2008, TREES-STRUCT FUNCT, V22, P283, DOI 10.1007/s00468-007-0182-7
+   Fournier M, 2013, J EXP BOT, V64, P4793, DOI 10.1093/jxb/ert279
+   Gardiner B, 2000, ECOL MODEL, V129, P1, DOI 10.1016/S0304-3800(00)00220-9
+   Gardiner B, 2016, PLANT SCI, V245, P94, DOI 10.1016/j.plantsci.2016.01.006
+   Getzin S, 2007, FOREST ECOL MANAG, V242, P165, DOI 10.1016/j.foreco.2007.01.009
+   GIVNISH TJ, 1988, AUST J PLANT PHYSIOL, V15, P63, DOI 10.1071/PP9880063
+   Hale SE, 2015, ENVIRON MODELL SOFTW, V68, P27, DOI 10.1016/j.envsoft.2015.01.016
+   HALLE F, 1978, P209
+   Iida Y, 2011, FUNCT ECOL, V25, P1260, DOI 10.1111/j.1365-2435.2011.01884.x
+   James KR, 2006, AM J BOT, V93, P1522, DOI 10.3732/ajb.93.10.1522
+   James Kenneth R., 2014, Arboriculture & Urban Forestry, V40, P125
+   Jucker T, 2015, FUNCT ECOL, V29, P1078, DOI 10.1111/1365-2435.12428
+   Kane Brian, 2007, Arboriculture & Urban Forestry, V33, P283
+   Kane Brian, 2008, Arboriculture & Urban Forestry, V34, P101
+   Kane B, 2008, CAN J FOREST RES, V38, P1275, DOI 10.1139/X07-225
+   Kane B, 2006, CAN J FOREST RES, V36, P1951, DOI 10.1139/X06-086
+   Kane B, 2014, TREES-STRUCT FUNCT, V28, P151, DOI 10.1007/s00468-013-0938-1
+   Kane B, 2011, CAN J FOREST RES, V41, P321, DOI 10.1139/X10-211
+   Kane Brian, 2008, Arboriculture & Urban Forestry, V34, P308
+   Karl T. R., 1984, HIST CLIMATOLOGY SER
+   KING DA, 1986, ECOLOGY, V67, P980, DOI 10.2307/1939821
+   King DA, 2005, FUNCT ECOL, V19, P445, DOI 10.1111/j.1365-2435.2005.00982.x
+   King DA, 1996, J TROP ECOL, V12, P25, DOI 10.1017/S0266467400009299
+   King DA, 2009, FUNCT ECOL, V23, P284, DOI 10.1111/j.1365-2435.2008.01514.x
+   Kretschmann DE, 2010, WOOD HDB, P5
+   Lines ER, 2012, GLOBAL ECOL BIOGEOGR, V21, P1017, DOI 10.1111/j.1466-8238.2011.00746.x
+   MacFarlane D. W., 2017, DRYAD DIGITAL REPOSI
+   MacFarlane DW, 2016, CAN J FOREST RES, V46, P804, DOI 10.1139/cjfr-2016-0018
+   MacFarlane DW, 2015, FOREST ECOL MANAG, V354, P43, DOI 10.1016/j.foreco.2015.06.038
+   MacFarlane DW, 2014, TREES-STRUCT FUNCT, V28, P807, DOI 10.1007/s00468-014-0993-2
+   Makela A, 2006, ECOLOGY, V87, P2967, DOI 10.1890/0012-9658(2006)87[2967:CRIASI]2.0.CO;2
+   MAYHEAD GJ, 1973, AGR METEOROL, V12, P123, DOI 10.1016/0002-1571(73)90013-7
+   McHale M. R., 2009, Urban Ecosystems, V12, P95, DOI 10.1007/s11252-009-0081-3
+   MCMAHON TA, 1976, J THEOR BIOL, V59, P443, DOI 10.1016/0022-5193(76)90182-X
+   McPherson E. G., 2016, URBAN TREE DATABASE
+   Miesbauer Jason W., 2014, Arboriculture & Urban Forestry, V40, P218
+   Miesbauer JW, 2014, URBAN FOR URBAN GREE, V13, P526, DOI 10.1016/j.ufug.2014.05.002
+   Miyashita A, 2014, FUNCT ECOL, V28, P1321, DOI 10.1111/1365-2435.12290
+   Moore JR, 2004, TREES-STRUCT FUNCT, V18, P195, DOI 10.1007/s00468-003-0295-6
+   Muth CC, 2003, CAN J FOREST RES, V33, P1323, DOI 10.1139/X03-045
+   Nicoll BC, 2006, CAN J FOREST RES, V36, P1871, DOI 10.1139/X06-072
+   Niklas K., 1992, PLANT BIOMECHANICS E
+   NIKLAS KJ, 1995, ANN BOT-LONDON, V75, P217, DOI 10.1006/anbo.1995.1015
+   Paradis E, 2004, BIOINFORMATICS, V20, P289, DOI 10.1093/bioinformatics/btg412
+   Pavlis Michael, 2008, Arboriculture & Urban Forestry, V34, P207
+   Pearcy RW, 2005, NEW PHYTOL, V166, P791, DOI 10.1111/j.1469-8137.2005.01328.x
+   Peltola H, 1999, CAN J FOREST RES, V29, P647, DOI 10.1139/cjfr-29-6-647
+   Peltola HM, 2006, AM J BOT, V93, P1501, DOI 10.3732/ajb.93.10.1501
+   Peterson CJ, 2013, FORESTRY, V86, P201, DOI 10.1093/forestry/cps080
+   PETTY JA, 1981, FORESTRY, V54, P115, DOI 10.1093/forestry/54.2.115
+   Poorter L, 2006, ECOLOGY, V87, P1289, DOI 10.1890/0012-9658(2006)87[1289:AOMTST]2.0.CO;2
+   R Core Team, 2015, R LANG ENV STAT COMP
+   ROTHACHER JACKS., 1954, JOUR FOREST, V52, P169
+   Rudnicki M, 2004, CAN J FOREST RES, V34, P666, DOI [10.1139/x03-233, 10.1139/X03-233]
+   Ryan MG, 2006, PLANT CELL ENVIRON, V29, P367, DOI 10.1111/j.1365-3040.2005.01478.x
+   SCHAETZL RJ, 1989, CAN J FOREST RES, V19, P1, DOI 10.1139/x89-001
+   Sellier D, 2006, TREE PHYSIOL, V26, P799, DOI 10.1093/treephys/26.6.799
+   Sellier D, 2009, AM J BOT, V96, P885, DOI 10.3732/ajb.0800226
+   Sterck FJ, 2006, J ECOL, V94, P1192, DOI 10.1111/j.1365-2745.2006.01162.x
+   Valladares F, 2008, ANNU REV ECOL EVOL S, V39, P237, DOI 10.1146/annurev.ecolsys.39.110707.173506
+   Vollsinger S, 2005, CAN J FOREST RES, V35, P1238, DOI 10.1139/x05-051
+   Weiskittel AR, 2009, FOREST ECOL MANAG, V258, P1695, DOI 10.1016/j.foreco.2009.07.035
+   Williamson GB, 2010, AM J BOT, V97, P519, DOI 10.3732/ajb.0900243
+   Wilson BF, 2000, AM J BOT, V87, P601, DOI 10.2307/2656846
+NR 83
+TC 4
+Z9 4
+U1 7
+U2 37
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0269-8463
+EI 1365-2435
+J9 FUNCT ECOL
+JI Funct. Ecol.
+PD AUG
+PY 2017
+VL 31
+IS 8
+BP 1624
+EP 1636
+DI 10.1111/1365-2435.12865
+PG 13
+WC Ecology
+SC Environmental Sciences & Ecology
+GA FC6UM
+UT WOS:000406977200012
+DA 2019-03-26
+ER
+
+PT J
+AU Buck, KD
+AF Buck, Kyle D.
+TI A Proposed Method for Spatial Data Disaggregation and Interpolation
+SO PROFESSIONAL GEOGRAPHER
+LA English
+DT Article
+DE data interpolation; Florida; nested geographies; principal components
+   analysis; scaling
+ID SOCIAL VULNERABILITY; US CITIES; MANAGEMENT; GROWTH; SEGREGATION;
+   INDICATORS; FRAMEWORK; INDEX
+AB The Model for External Reliance of Localities in (MERLIN) Coastal Management Zones is a proposed solution to allow scaling of variables to smaller, nested geographies. Using a principal components analysis and data normalization techniques, smaller scale data relationships are linked to data relationships within larger geographies and scaling factors are developed for each. In using these relationships, MERLIN will derive a set of variables scaled to a desired geography representing the attributes of the population present. The concept driving MERLIN's development is that correlations between variables at a specific location and level of geography can be tested and applied to other scales for interpolations. This flexibility and relative simplicity of calculation make MERLIN a valuable tool in many types of social research and for data interpolation. In a pilot study, the MERLIN model is applied to counties along the Gulf Coast of Florida to create a well-being index at the census tract level. Results reveal a landscape that better accounts for the localized patterns of values situated within a larger geographic unit.
+C1 [Buck, Kyle D.] US EPA, ORD, NHEERL, Gulf Ecol Div, Gulf Breeze, FL 32561 USA.
+RP Buck, KD (reprint author), US EPA, ORD, NHEERL, Gulf Ecol Div, Gulf Breeze, FL 32561 USA.
+EM kdbuck4@gmail.com
+OI Buck, Kyle/0000-0001-8955-8200; Buck, Kyle/0000-0001-7923-3664
+FU National Oceanic and Atmospheric Administration
+FX The information in this document has been funded wholly (or in part) by
+   the National Oceanic and Atmospheric Administration. It has been
+   subjected to review by the National Centers for Coastal Ocean Science
+   and approved for publication. Approval does not signify that the
+   contents reflect the views of the Administration, nor does mention of
+   trade names or commercial products constitute endorsement or
+   recommendation for use.
+CR Aghion P, 1997, REV ECON STUD, V64, P151, DOI 10.2307/2971707
+   Bowen RE, 2003, OCEAN COAST MANAGE, V46, P299, DOI 10.1016/S0964-5691(03)00008-5
+   Brown JP, 2014, ECON DEV Q, V28, P5, DOI 10.1177/0891242413506610
+   Cheng JQ, 2013, GEOFORUM, V46, P138, DOI 10.1016/j.geoforum.2012.12.020
+   Crossett K., 2013, NATL COASTAL POPULAT
+   Cutter SL, 2003, SOC SCI QUART, V84, P242, DOI 10.1111/1540-6237.8402002
+   Deng CB, 2015, LANDSCAPE URBAN PLAN, V141, P88, DOI 10.1016/j.landurbplan.2015.05.002
+   Dillard M. K., 2013, NOAA TECHNICAL MEMOR, V174, P1
+   Fallah BN, 2007, ANN REGIONAL SCI, V41, P375, DOI 10.1007/s00168-006-0106-2
+   Fong E, 2013, SOC SCI RES, V42, P1061, DOI 10.1016/j.ssresearch.2013.02.001
+   FOTHERINGHAM AS, 1991, ENVIRON PLANN A, V23, P1025, DOI 10.1068/a231025
+   Frazier TG, 2014, APPL GEOGR, V51, P158, DOI 10.1016/j.apgeog.2014.04.004
+   Fruth W. H., 2008, FLOW MONEY ITS IMPAC
+   Gentile JH, 2001, SCI TOTAL ENVIRON, V274, P231, DOI 10.1016/S0048-9697(01)00746-X
+   Hamilton SH, 2015, ENVIRON MODELL SOFTW, V64, P215, DOI 10.1016/j.envsoft.2014.12.005
+   Ives CD, 2015, LAND USE POLICY, V47, P332, DOI 10.1016/j.landusepol.2015.04.002
+   JOHNSTON RJ, 1978, MULTIVARIATE STAT AN
+   Kelble CR, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0070766
+   Levin P. S., 2008, 20 NOAA, V20
+   Levin PS, 2009, PLOS BIOL, V7, P23, DOI 10.1371/journal.pbio.1000014
+   Lichter DT, 2015, ANN AM ACAD POLIT SS, V660, P36, DOI 10.1177/0002716215572995
+   Lichter DT, 2011, ANNU REV SOCIOL, V37, P565, DOI 10.1146/annurev-soc-081309-150208
+   Millennium Ecosystem Assessment (MEA), 2005, EC HUM WELL BEING SY
+   Nakaya T, 2000, ENVIRON PLANN A, V32, P91, DOI 10.1068/a31145
+   Olsen S. B., 2013, OCEAN COAST MANAGE, V46, P347
+   Openshaw S, 1999, GEOGRAPHICAL INFORMA, V1, P267
+   Otoiu A, 2014, ECOL INDIC, V46, P575, DOI 10.1016/j.ecolind.2014.07.019
+   Peck J, 2015, REG STUD, V49, P160, DOI 10.1080/00343404.2014.980801
+   Schmidtlein MC, 2008, RISK ANAL, V28, P1099, DOI 10.1111/j.1539-6924.2008.01072.x
+   Smith ADM, 2007, ICES J MAR SCI, V64, P633, DOI 10.1093/icesjms/fsm041
+   U.S. Congress, 1978, GREAT LAK WAT QUAL A
+   Wong DWS, 1999, ENVIRON PLANN A, V31, P507, DOI 10.1068/a310507
+   Wood NJ, 2010, NAT HAZARDS, V52, P369, DOI 10.1007/s11069-009-9376-1
+NR 33
+TC 1
+Z9 1
+U1 3
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0033-0124
+EI 1467-9272
+J9 PROF GEOGR
+JI Prof. Geogr.
+PY 2017
+VL 69
+IS 1
+BP 70
+EP 79
+DI 10.1080/00330124.2016.1158116
+PG 10
+WC Geography
+SC Geography
+GA EC3LI
+UT WOS:000388027200007
+DA 2019-03-26
+ER

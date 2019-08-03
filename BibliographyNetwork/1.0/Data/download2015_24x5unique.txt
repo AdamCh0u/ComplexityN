@@ -1,0 +1,408 @@
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI POWER-LAW DISTRIBUTIONS BASED ON EXPONENTIAL DISTRIBUTIONS: LATENT
+   SCALING, SPURIOUS ZIPF'S LAW, AND FRACTAL RABBITS
+SO FRACTALS-COMPLEX GEOMETRY PATTERNS AND SCALING IN NATURE AND SOCIETY
+LA English
+DT Article
+DE Inverse Power Law; Exponential Distribution; Latent Scaling; Clark's
+   Law; Zipf's Law; Fractals; Urban Form; City-Size Distribution
+ID URBAN-POPULATION DENSITY; RANK-SIZE RULE; GROWTH PATTERNS; CITIES;
+   MODELS; SETTLEMENTS; PERSPECTIVE; DIMENSION; SYSTEMS; SHAPE
+AB The difference between the inverse power function and the negative exponential function is significant. The former suggests a complex distribution, while the latter indicates a simple distribution. However, the association of the power-law distribution with the exponential distribution has been seldom researched. This paper is devoted to exploring the relationships between exponential laws and power laws from the angle of view of urban geography. Using mathematical derivation and numerical experiments, I reveal that a power-law distribution can be created through a semi-moving average process of an exponential distribution. For the distributions defined in a one-dimension space (e.g. Zipf's law), the power exponent is 1; while for those defined in a two-dimension space (e.g. Clark's law), the power exponent is 2. The findings of this study are as follows. First, the exponential distributions suggest a hidden scaling, but the scaling exponents suggest a Euclidean dimension. Second, special power-law distributions can be derived from exponential distributions, but they differ from the typical power-law distributions. Third, it is the real power-law distributions that can be related with fractal dimension. This study discloses an inherent link between simplicity and complexity. In practice, maybe the result presented in this paper can be employed to distinguish the real power laws from spurious power laws (e.g. the fake Zipf distribution).
+C1 Peking Univ, Coll Urban & Environm Sci, Dept Geog, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Coll Urban & Environm Sci, Dept Geog, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [41171129]
+FX This research was supported financially by the National Natural Science
+   Foundation of China (Grant No. 41171129). The support is gratefully
+   acknowledged. I would like to thank the anonymous reviewers whose
+   constructive comments were helpful in improving the quality of this
+   paper.
+CR Bak P, 1996, NATURE WORKS SCI SEL
+   Barabasi Albert-Laszlo, 2002, LINKED NEW SCI NETWO
+   BATTY M, 1992, URBAN STUD, V29, P1043, DOI 10.1080/00420989220081041
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   BOWMAN KP, 1993, J ATMOS SCI, V50, P1267, DOI 10.1175/1520-0469(1993)050<1267:DAAONE>2.0.CO;2
+   Cadwallader M, 1996, URBAN GEOGRAPHY ANAL
+   CARROLL GR, 1982, PROG HUM GEOG, V6, P1
+   Chen Y.-G., 2008, DISCRETE DYN NAT SOC
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   Chen YG, 2014, FRACTALS, V22, DOI 10.1142/S0218348X14500017
+   Chen YG, 2012, CHAOS SOLITON FRACT, V45, P1404, DOI 10.1016/j.chaos.2012.07.010
+   Chen YG, 2012, DISCRETE DYN NAT SOC, DOI 10.1155/2012/480196
+   Chen YG, 2012, PHYSICA A, V391, P3285, DOI 10.1016/j.physa.2011.12.031
+   Chen YG, 2012, PHYSICA A, V391, P767, DOI 10.1016/j.physa.2011.07.010
+   Chen YG, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0024791
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   Davis K, 1978, SYSTEMS CITIES, P92
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gabaix Xavier, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   Goldenfeld N, 1999, SCIENCE, V284, P87, DOI 10.1126/science.284.5411.87
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Grossman D., 1989, GEOGRAPHICAL RES FOR, V9, P67
+   Gutenberg B, 1954, SEISMICITY EARTH ASS
+   HORTON RE, 1945, GEOL SOC AM BULL, V56, P275, DOI 10.1130/0016-7606(1945)56[275:EDOSAT]2.0.CO;2
+   Jiang B., 2010, GEOSPATIAL ANAL MODE
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   Kaye B. K., 1989, RANDOM WALK FRACTAL
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Longley P, 1997, PAP REG SCI, V76, P409
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   Manrubia SC, 1999, FRACTALS, V7, P1, DOI 10.1142/S0218348X99000025
+   MCDONALD JF, 1989, J URBAN ECON, V26, P361, DOI 10.1016/0094-1190(89)90009-0
+   MILLER GA, 1957, AM J PSYCHOL, V70, P311, DOI 10.2307/1419346
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   PARR JB, 1985, URBAN STUD, V22, P289, DOI 10.1080/00420988520080531
+   PARR JB, 1985, REG STUD, V19, P535, DOI 10.1080/09595238500185521
+   Pillips J. D., 1999, EARTH SURFACE SYSTEM
+   Rodin V, 2000, FRACTALS, V8, P413, DOI 10.1142/S0218348X00000457
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042114
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Sambrook RC, 2001, FRACTALS, V9, P241, DOI 10.1142/S0218348X01000749
+   SCHUMM SA, 1956, GEOL SOC AM BULL, V67, P597, DOI 10.1130/0016-7606(1956)67[597:EODSAS]2.0.CO;2
+   Smeed R.J., 1963, J I HIGHWAY ENG, V10, P5
+   SONIS M, 1984, SOCIO ECON PLAN SCI, V18, P373, DOI 10.1016/0038-0121(84)90046-6
+   STRAHLER AN, 1952, GEOL SOC AM BULL, V63, P1117, DOI 10.1130/0016-7606(1952)63[1117:HAAOET]2.0.CO;2
+   Takayasu H., 1990, FRACTALS PHYS SCI
+   Turcotte D, 1997, FRACTALS CHAOS GEOLO
+   Wang FH, 1999, URBAN STUD, V36, P271, DOI 10.1080/0042098993600
+   WILLIAMS GP, 1997, CHAOS THEORY TAMED
+   ZIELINSKI K, 1979, ENVIRON PLANN A, V11, P629, DOI 10.1068/a110629
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 66
+TC 5
+Z9 5
+U1 0
+U2 14
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0218-348X
+EI 1793-6543
+J9 FRACTALS
+JI Fractals-Complex Geom. Patterns Scaling Nat. Soc.
+PD JUN
+PY 2015
+VL 23
+IS 2
+AR 1550009
+DI 10.1142/S0218348X15500097
+PG 15
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+SC Mathematics; Science & Technology - Other Topics
+GA CJ3JO
+UT WOS:000355379400009
+DA 2019-03-26
+ER
+
+PT J
+AU Dilelio, AS
+   Tomasi, E
+   Thume, E
+   da Silveira, DS
+   Siqueira, FCV
+   Piccini, RX
+   Silva, SM
+   Nunes, BP
+   Facchini, LA
+AF Dilelio, Aliteia Santiago
+   Tomasi, Elaine
+   Thume, Elaine
+   da Silveira, Denise Silva
+   Vinholes Siqueira, Fernando Carlos
+   Piccini, Roberto Xavier
+   Silva, Suele Manjourany
+   Nunes, Bruno Pereira
+   Facchini, Luiz Augusto
+TI Lack of access and continuity of adult health care: a national
+   population-based survey
+SO REVISTA DE SAUDE PUBLICA
+LA English
+DT Article
+DE Adult; Health Services Accessibility; Continuity of Patient Care; Health
+   Inequalities; Equity in Health; Health Surveys
+ID BRAZIL
+AB OBJECTIVE: To describe the lack of access and continuity of health care in adults.
+   METHODS: A cross-sectional population-based study was performed on a sample of 12,402 adults aged 20 to 59 years in urban areas of 100 municipalities of 23 states in the five Brazilian geopolitical regions. Barriers to the access and continuity of health care and were investigated based on receiving, needing and seeking health care (hospitalization and accident/emergency care in the last 12 months; care provided by a doctor, by other health professional or home care in the last three months). Based on the results obtained by the description of the sample, a projection is provided for adults living in Brazilian urban areas.
+   RESULTS: The highest prevalence of lack of access to health services and to provision of care by health professionals was for hospitalization (3.0%), whilst the lowest prevalence was for care provided by a doctor (1.1%). The lack of access to care provided by other health professionals was 2.0%; to accident and emergency services, 2.1%; and to home care, 2.9%. As for prevalences, the greatest absolute lack of access occurred in emergency care (more than 360,000 adults). The main reasons were structural and organizational problems, such as unavailability of hospital beds, of health professionals, of appointments for the type of care needed and charges made for care.
+   CONCLUSIONS: The universal right to health care in Brazil has not yet been achieved. These projections can help health care management in scaling the efforts needed to overcome this problem, such as expanding the infrastructure of health services and the workforce.
+C1 [Dilelio, Aliteia Santiago] Univ Fed Santa Maria, Dept Ciencias Saude, Palmeira Das Missoes, RS, Brazil.
+   [Tomasi, Elaine; Silva, Suele Manjourany; Nunes, Bruno Pereira; Facchini, Luiz Augusto] Univ Fed Pelotas, Programa Posgrad Epidemiol, Pelotas, RS, Brazil.
+   [Thume, Elaine] Univ Fed Pelotas, Programa Posgrad Enfermagem, Pelotas, RS, Brazil.
+   [da Silveira, Denise Silva; Piccini, Roberto Xavier] Univ Fed Pelotas, Fac Med, Pelotas, RS, Brazil.
+   [Vinholes Siqueira, Fernando Carlos] Univ Fed Pelotas, Programa Posgrad Educ Fis, Pelotas, RS, Brazil.
+RP Dilelio, AS (reprint author), Univ Fed Pelotas, Dept Med Social, Ave Duque Caxias,250 3 Andar Fragata, BR-96030001 Pelotas, RS, Brazil.
+EM aliteia@gmail.com
+FU Brazilian Ministry of Health [23110.010118/2007-89]
+FX Research supported by the Brazilian Ministry of Health (Process
+   23110.010118/2007-89).
+CR Andersen RM, 2002, MED CARE RES REV, V59, P384, DOI 10.1177/107755802237808
+   Aranaz Andres Jesus M, 2006, Gac Sanit, V20, P311, DOI 10.1157/13091147
+   Bastos Gisele Alsina Nader, 2011, Rev. bras. epidemiol., V14, P620, DOI 10.1590/S1415-790X2011000400009
+   Cunha Elenice Machado da, 2011, Ciênc. saúde coletiva, V16, P1029, DOI 10.1590/S1413-81232011000700036
+   Esperidião Monique Azevedo, 2006, Cad. Saúde Pública, V22, P1267, DOI 10.1590/S0102-311X2006000600016
+   Facchini LA, 2008, CAD SAUDE PUBLICA, V24, pS159, DOI 10.1590/S0102-311X2008001300020
+   Haggerty JL, 2003, BRIT MED J, V327, P1219, DOI 10.1136/bmj.327.7425.1219
+   Hill AP, 2011, PROMOTING CONTINUITY
+   Massote AW, 2008, METAAVALIACAO ATENCA, P410
+   Mendoza-Sassi R, 2001, Cad Saude Publica, V17, P819, DOI 10.1590/S0102-311X2001000400016
+   Novaes HMD, 1996, CAD SAUDE PUBLICA S2, V12, pS7, DOI [10.1590/S0102-311X1996000600002, DOI 10.1590/S0102-311X1996000600002]
+   Paim J, 2011, LANCET, V377, P1778, DOI 10.1016/S0140-6736(11)60054-8
+   Pereira MG, 2001, EPIDEMIOLOGIA TEORIA, P513
+   Rodrigues Neto JF, 2009, REV BAIANA SAUDE PUB, V33, P561
+   Szwarcwald Célia Landmann, 2008, Rev. bras. epidemiol., V11, P38, DOI 10.1590/S1415-790X2008000500004
+   TRAVASSOS C, 2008, POLITICAS SISTEMA SA, P215
+   Travassos Claudia, 2004, Cad. Saúde Pública, V20, pS190
+   Travassos Claudia, 2006, Ciênc. saúde coletiva, V11, P975, DOI 10.1590/S1413-81232006000400019
+   Turci MA, 2010, J URBAN HEALTH, V87, P994, DOI 10.1007/s11524-010-9499-4
+   Vázquez María Luisa, 2003, Cad. Saúde Pública, V19, P579, DOI 10.1590/S0102-311X2003000200025
+   Victora CG, 2011, LANCET, V377, P2042, DOI 10.1016/S0140-6736(11)60055-X
+   Carret MLV, 2011, CIENC SAUDE COLETIVA, V16, P1069, DOI 10.1590/S1413-81232011000700039
+   Carret MLV, 2009, CAD SAUDE PUBLICA, V25, P7, DOI 10.1590/S0102-311X2009000100002
+NR 23
+TC 3
+Z9 4
+U1 6
+U2 8
+PU REVISTA DE SAUDE PUBLICA
+PI SAO PAULO
+PA FACULDADE SAUDE PUBL DA USP, AV DR ARNALDO 715, 01246-904SP SAO PAULO,
+   BRAZIL
+SN 0034-8910
+EI 1518-8787
+J9 REV SAUDE PUBL
+JI Rev. Saude Publica
+PY 2015
+VL 49
+AR UNSP 31
+DI 10.1590/S0034-8910.2015049005503
+PG 15
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DB2ZJ
+UT WOS:000368378900033
+PM 26061454
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Oster, AM
+   Sternberg, M
+   Lansky, A
+   Broz, D
+   Wejnert, C
+   Paz-Bailey, G
+AF Oster, Alexandra M.
+   Sternberg, Maya
+   Lansky, Amy
+   Broz, Dita
+   Wejnert, Cyprian
+   Paz-Bailey, Gabriela
+TI Population Size Estimates for Men who Have Sex with Men and Persons who
+   Inject Drugs
+SO JOURNAL OF URBAN HEALTH-BULLETIN OF THE NEW YORK ACADEMY OF MEDICINE
+LA English
+DT Article
+DE HIV infection; Men who have sex with men; Persons who inject drugs; Risk
+   factors; Gay and bisexual men
+AB Understanding geographic variation in the numbers of men who have sex with men (MSM) and persons who inject drugs (PWID) is critical to targeting and scaling up HIV prevention programs, but population size estimates are not available at generalizable sub-national levels. We analyzed 1999-2010 National Health and Nutrition Examination Survey data on persons aged 18-59 years. We estimated weighted prevalence of recent (past 12 month) male-male sex and injection drug use by urbanicity (the degree to which a geographic area is urban) and US census region and calculated population sizes. Large metro areas (population a parts per thousand yen1,000,000) had higher prevalence of male-male sex (central areas, 4.4 % of men; fringe areas, 2.5 %) compared with medium/small metro areas (1.4 %) and nonmetro areas (1.1 %). Injection drug use did not vary by urbanicity and neither varied by census region. Three-quarters of MSM, but only half of PWID, resided in large metro areas. Two-thirds of MSM and two-thirds of PWID resided in the South and West. Efforts to reach MSM would benefit from being focused in large metro areas, while efforts to reach PWID should be delivered more broadly. These data allow for more effective allocation of funds for prevention programs.
+C1 [Oster, Alexandra M.; Lansky, Amy; Broz, Dita; Wejnert, Cyprian; Paz-Bailey, Gabriela] Ctr Dis Control & Prevent, Div HIV AIDS Prevent, Natl Ctr HIV AIDS Viral Hepatitis STD & TB Preven, Atlanta, GA 30322 USA.
+   [Sternberg, Maya] Ctr Dis Control & Prevent, Div Sci Lab, Natl Ctr Environm Hlth, Atlanta, GA USA.
+RP Oster, AM (reprint author), Ctr Dis Control & Prevent, Div HIV AIDS Prevent, Natl Ctr HIV AIDS Viral Hepatitis STD & TB Preven, Atlanta, GA 30322 USA.
+EM aoster@cdc.gov
+CR Brady JE, 2008, J URBAN HEALTH, V85, P323, DOI 10.1007/s11524-007-9248-5
+   Centers for Disease Control and Prevention, 2013, HIV SURVEILLANCE S, V18, P1
+   Centers for Disease Control and Prevention, 2013, HIV SURV REP 2011
+   Harris N, 2013, MMWR-MORBID MORTAL W, V62, P757
+   Ingram Deborah D, 2012, Vital Health Stat 2, P1
+   Lansky A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0097596
+   Lieb S, 2011, AIDS BEHAV, V15, P596, DOI 10.1007/s10461-010-9820-y
+   Lieb S, 2011, PUBLIC HEALTH REP, V126, P60, DOI 10.1177/003335491112600110
+   Michaels Stuart, 1994, SOCIAL ORG SEXUALITY
+   Purcell David W, 2012, Open AIDS J, V6, P98, DOI 10.2174/1874613601206010098
+   Substance Abuse and Mental Health Services Administrations (SAMHSA), 2003, INJ DRUG US
+   Substance Abuse and Mental Health Services Administrations (SAMHSA), 2007, DEM GEOGR VAR INJ DR
+   Tempalski B, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064789
+   U.S. Census Bureau, POP EST ENT DAT SET
+   Zipf G, 2013, VITAL HLTH STAT, V1, P1
+NR 15
+TC 13
+Z9 13
+U1 0
+U2 3
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1099-3460
+EI 1468-2869
+J9 J URBAN HEALTH
+JI J. Urban Health
+PD AUG
+PY 2015
+VL 92
+IS 4
+BP 733
+EP 743
+DI 10.1007/s11524-015-9970-3
+PG 11
+WC Public, Environmental & Occupational Health; Medicine, General &
+   Internal
+SC Public, Environmental & Occupational Health; General & Internal Medicine
+GA CO2DS
+UT WOS:000358966100010
+PM 26115985
+OA Green Published
+DA 2019-03-26
+ER
+
+PT B
+AU Vieux, BE
+   Vieux, JE
+AF Vieux, Baxter E.
+   Vieux, Jean E.
+BE Barrett, M
+TI Continuous Distributed Modeling of LID/GI: Scaling from Site to
+   Watershed
+SO LID: IT WORKS IN ALL CLIMATES AND SOILS
+LA English
+DT Proceedings Paper
+CT International Low Impact Development Conference (LID)
+CY JAN 19-21, 2015
+CL Houston, TX
+SP Amer Soc Civil Engineers, Environm & Water Resource Inst, Urban Water Resources Res Council, Low Impact Dev Tech Comm,
+ID ACCURACY
+AB Better insight into the benefits of LID/GI practices can be gained with a continuous distributed physics-based model that allows us to scale-up from the individual practice to watershed response within a single modeling framework. The conservation laws of rainfall-runoff are used to formulate watershed response for prior conditions and post-construction of LID/GI. Weather radar, when properly quality controlled and enhanced for accuracy, accounts for the local/regional weather affecting the natural, urbanized, and/or modified hydrology of the watershed. By using continuous rainfall data, the modeling and our understanding of how practices affect the hydrologic response is extended beyond single frequency-based approaches. Commonly used synthetic hyetographs, such as the SCS Type I, II, or III temporal distributions, are based on the 25-yr storm frequency depths. With actual rainfall time-series, understanding can be gained as to performance given realistic mean inter-event arrival, depth, duration, and intensity from the historic record. Continuous simulation for a typical year or multiple years reveals how these practices will perform under realistic inputs and with physics-based model assumptions. When sizing LID/GI practices and infrastructure, and in particular, detention volume using synthetic hyetographs as model input rather than using continuous actual rainstorms can result in oversizing of outlet works, and reduced settling times, while underestimation of storage volume can result if successive storms are not taken into account.
+C1 [Vieux, Baxter E.; Vieux, Jean E.] Vieux & Associates Inc, 350 David L Boren Blvd,Suite 2500, Norman, OK 73072 USA.
+RP Vieux, BE (reprint author), Vieux & Associates Inc, 350 David L Boren Blvd,Suite 2500, Norman, OK 73072 USA.
+EM baxter.vieux@vieuxinc.com; jean.vieux@vieuxinc.com
+CR Bedient P.B., 2013, HYDROLOGY FLOODPLAIN, P801
+   Fang Z, 2010, J WATER RES PL-ASCE, V136, P597, DOI 10.1061/(ASCE)WR.1943-5452.0000066
+   Looper JP, 2012, J HYDROL, V412, P114, DOI 10.1016/j.jhydrol.2011.05.046
+   Pecher R., 1980, ABWASSERTECHNIK
+   Stahre P., 1990, STORMWATER DETENTION
+   USEPA, 1983, 832R83112 USEPA
+   Vieux B.E., 2004, WATER SCI TECHNOL, V48, P289
+   Vieux BE, 2004, J HYDROL, V299, P217, DOI 10.1016/j.jhydrol.2004.08.005
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 0
+PU AMER SOC CIVIL ENGINEERS
+PI NEW YORK
+PA UNITED ENGINEERING CENTER, 345 E 47TH ST, NEW YORK, NY 10017-2398 USA
+BN 978-0-7844-7902-5
+PY 2015
+BP 285
+EP 294
+PG 10
+WC Engineering, Civil
+SC Engineering
+GA BF4IY
+UT WOS:000381031400029
+DA 2019-03-26
+ER
+
+PT J
+AU Verma, NK
+   Lamb, DW
+AF Verma, Niva Kiran
+   Lamb, David W.
+TI The use of shadows in high spatial resolution, remotely sensed, imagery
+   to estimate the height of individual Eucalyptus trees on undulating land
+SO RANGELAND JOURNAL
+LA English
+DT Article
+DE allometry; Eucalyptus; farm land; scattered trees; shadow; tree height
+ID IKONOS SATELLITE-OBSERVATIONS; BIOMASS ESTIMATION; AERIAL IMAGES; URBAN
+   AREAS; BUILDINGS; FOREST; CLASSIFICATION
+AB The shadows cast by 180 individual Eucalyptus trees, of varying canopy condition, on undulating land in south-eastern Australia were used to infer their heights from 50-cm spatial resolution, multispectral aerial imagery (blue=0.4-0.5 mu m; green=0.5-0.6 mu m; red=0.6-0.7 mu m; near infrared=0.7-1 mu m). A geometrical shadow model was developed incorporating the local slope and aspect of the ground from a digital elevation model at each tree location. A method of deriving 'local tree time' to infer the solar elevation angle, in situations where the image acquisition time is not available, was also developed. Based on a measurement of the shadow length from the geometric centre of the tree crowns, and ignoring the role of the crown periphery in distorting the shadow shape, the tree heights were estimated with a root mean square error of +/- 5.6m (similar to +/- 27%) with some overestimated by as much as 50%. A geometric correction for shadow distortion assuming spherical crown geometry provided an improved estimate with a root mean square error of +/- 4.8m (similar to +/- 23%).
+C1 [Verma, Niva Kiran; Lamb, David W.] Univ New England, Cooperat Res Ctr Spatial Informat, Armidale, NSW 2351, Australia.
+   [Verma, Niva Kiran; Lamb, David W.] Univ New England, Precis Agr Res Grp, Armidale, NSW 2351, Australia.
+   [Verma, Niva Kiran; Lamb, David W.] Univ New England, Sch Sci & Technol, Armidale, NSW 2351, Australia.
+RP Lamb, DW (reprint author), Univ New England, Cooperat Res Ctr Spatial Informat, Armidale, NSW 2351, Australia.
+EM dlamb@une.edu.au
+OI Lamb, David/0000-0002-2917-2231
+FU CRC for Spatial Information (CRCSI) under the Australian Government
+   Cooperative Research Centres Program; CRCSI
+FX This work was partially funded by the CRC for Spatial Information
+   (CRCSI), established and supported under the Australian Government
+   Cooperative Research Centres Program. One of the authors (NKV) wishes to
+   acknowledge the receipt of a Postgraduate 'Top-up' Scholarship from the
+   CRCSI. We would like to thank Ashley Saint and Derek Schneider
+   (UNE-PARG) for their assistance in conducting the field work.
+CR ANDREWS G. S., 1936, FOREST CHRON, V12, P152
+   Apan AA, 1997, INT J REMOTE SENS, V18, P1029, DOI 10.1080/014311697218557
+   Asner GP, 2003, REMOTE SENS ENVIRON, V87, P521, DOI 10.1016/j.rse.2003.08.006
+   Asner GP, 2002, BIOTROPICA, V34, P483, DOI 10.1111/j.1744-7429.2002.tb00568.x
+   Benediktsson JA, 2003, IEEE T GEOSCI REMOTE, V41, P1940, DOI 10.1109/TGRS.2003.814625
+   Congalton R., 2009, ASSESSING ACCURACY R
+   COTTAM G, 1956, ECOLOGY, V37, P451, DOI 10.2307/1930167
+   Dare PM, 2005, PHOTOGRAMM ENG REM S, V71, P169, DOI 10.14358/PERS.71.2.169
+   Greenberg JA, 2005, REMOTE SENS ENVIRON, V97, P15, DOI 10.1016/j.rse.2005.02.015
+   HUERTAS A, 1988, COMPUT VISION GRAPH, V41, P131, DOI 10.1016/0734-189X(88)90016-3
+   Hunter MO, 2013, BIOGEOSCIENCES, V10, P8385, DOI 10.5194/bg-10-8385-2013
+   IRVIN RB, 1989, IEEE T SYST MAN CYB, V19, P1564, DOI 10.1109/21.44071
+   Leblon B, 1996, REMOTE SENS ENVIRON, V58, P322, DOI 10.1016/S0034-4257(96)00079-X
+   Leverett R., 2010, B E NATIVE TREE SOC, V5, P3
+   LIOW YT, 1990, COMPUT VISION GRAPH, V49, P242, DOI 10.1016/0734-189X(90)90139-M
+   Lu DS, 2006, INT J REMOTE SENS, V27, P1297, DOI 10.1080/01431160500486732
+   MacLean C. D., 1961, FOREST CHRON, V37, P160, DOI [10.5558/tfc37160-2, DOI 10.5558/TFC37160-2]
+   Medhurst JL, 2001, TREE PHYSIOL, V21, P989, DOI 10.1093/treephys/21.12-13.989
+   Ozdemir I, 2008, INT J REMOTE SENS, V29, P5643, DOI 10.1080/01431160802082155
+   Rogers E. J., 1949, Journal of Forestry, V47, P182
+   Sandau R., 2000, INT ARCH PHOTOGRA B1, V33, P258
+   SEELY HE, 1929, FOREST CHRON, V5, P24, DOI DOI 10.5558/TFC5024-4
+   Shahtahmassebi A, 2013, CHINESE GEOGR SCI, V23, P403, DOI 10.1007/s11769-013-0613-x
+   Shettigara VK, 1998, PHOTOGRAMM ENG REM S, V64, P35
+   Spurr S. H., 1949, J FOREST, V44, P716
+   Verma NK, 2014, FOREST ECOL MANAG, V326, P125, DOI 10.1016/j.foreco.2014.04.003
+   Verma NK, 2014, PHOTOGRAMM ENG REM S, V80, P461, DOI 10.14358/PERS.80.5.461
+   Verma NK, 2013, INT GEOSCI REMOTE SE, P192, DOI 10.1109/IGARSS.2013.6721124
+   WALRAVEN R, 1978, SOL ENERGY, V20, P393, DOI 10.1016/0038-092X(78)90155-X
+   West G., 2010, P 19 NSW COAST C COA
+NR 30
+TC 2
+Z9 2
+U1 3
+U2 5
+PU CSIRO PUBLISHING
+PI CLAYTON
+PA UNIPARK, BLDG 1, LEVEL 1, 195 WELLINGTON RD, LOCKED BAG 10, CLAYTON, VIC
+   3168, AUSTRALIA
+SN 1036-9872
+EI 1834-7541
+J9 RANGELAND J
+JI Rangeland J.
+PY 2015
+VL 37
+IS 5
+BP 467
+EP 476
+DI 10.1071/RJ15021
+PG 10
+WC Ecology
+SC Environmental Sciences & Ecology
+GA CW7OB
+UT WOS:000365187600004
+DA 2019-03-26
+ER

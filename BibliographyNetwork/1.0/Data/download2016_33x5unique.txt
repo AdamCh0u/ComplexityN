@@ -1,0 +1,489 @@
+
+PT B
+AU Hedayatnia, B
+   Yazdani, M
+   Nguyen, M
+   Block, J
+   Altintas, I
+AF Hedayatnia, Behnam
+   Yazdani, Mehrdad
+   Mai Nguyen
+   Block, Jessica
+   Altintas, Ilkay
+BE Joshi, J
+   Karypis, G
+   Liu, L
+   Hu, X
+   Ak, R
+   Xia, Y
+   Xu, W
+   Sato, AH
+   Rachuri, S
+   Ungar, L
+   Yu, PS
+   Govindaraju, R
+   Suzumura, T
+TI Determining Feature Extractors for Unsupervised Learning on Satellite
+   Images
+SO 2016 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+LA English
+DT Proceedings Paper
+CT 4th IEEE International Conference on Big Data (Big Data)
+CY DEC 05-08, 2016
+CL Washington, DC
+SP IEEE, IEEE Comp Soc, Natl Sci Fdn, Cisco, Huawei, Elsevier, Navigant, Johns Hopkins Whiting Sch Engn
+DE satellite imagery; remote sensing; deep learning; convolutional neural
+   networks; transfer learning
+ID QUALITY-OF-LIFE; URBAN AREAS; REMOTE; CLASSIFICATION; INFORMATION
+AB Advances in satellite imagery presents unprecedented opportunities for understanding natural and social phenomena at global and regional scales. Although the field of satellite remote sensing has evaluated imperative questions to human and environmental sustainability, scaling those techniques to very high spatial resolutions at regional scales remains a challenge. Satellite imagery is now more accessible with greater spatial, spectral and temporal resolution creating a data bottleneck in identifying the content of images. Because satellite images are unlabeled, unsupervised methods allow us to organize images into coherent groups or clusters. However, the performance of unsupervised methods, like all other machine learning methods, depends on features. Recent studies using features from pre-trained networks have shown promise for learning in new datasets. This suggests that features from pre-trained networks can be used for learning in temporally and spatially dynamic data sources such as satellite imagery. It is not clear, however, which features from which layer and network architecture should be used for learning new tasks. In this paper, we present an approach to evaluate the transferability of features from pre-trained Deep Convolutional Neural Networks for satellite imagery. We explore and evaluate different features and feature combinations extracted from various deep network architectures, and systematically evaluate over 2,000 network-layer combinations. In addition, we test the transferability of our engineered features and learned features from an unlabeled dataset to a different labeled dataset. Our feature engineering and learning are done on the unlabeled Draper Satellite Chronology dataset, and we test on the labeled UC Merced Land dataset to achieve near state-of-the-art classification results. These results suggest that even without any or minimal training, these networks can generalize well to other datasets. This method could be useful in the task of clustering unlabeled images and other unsupervised machine learning tasks.
+C1 [Hedayatnia, Behnam] Univ Calif San Diego, Dept Elect & Comp Engn, La Jolla, CA 92093 USA.
+   [Yazdani, Mehrdad; Block, Jessica] Univ Calif San Diego, Calif Inst Telecommun & Informat Technol, La Jolla, CA USA.
+   [Yazdani, Mehrdad] Open Med Inst, Mountain View, CA USA.
+   [Mai Nguyen; Altintas, Ilkay] UC San :Diego, San Diego Supercomp Ctr, La Jolla, CA USA.
+RP Hedayatnia, B (reprint author), Univ Calif San Diego, Dept Elect & Comp Engn, La Jolla, CA 92093 USA.
+EM bhedayat@eng.ucsd.edu; myazdani@ucsd.edu; mhnguyen@sdsc.edu;
+   j.block@eng.ucsd.edu; altintas@sdsc.edu
+FU NSF [1331615, DBI-1062565]; San Diego Supercomputer Center Workflows for
+   Data Science (WorDS) Center of Excellence
+FX The work presented in this paper was supported in part by NSF 1331615
+   under CI, Information Technology Research and SEES Hazards programs, NSF
+   DBI-1062565 under CI Reuse and Advances in Bioinformatics programs, and
+   the San Diego Supercomputer Center Workflows for Data Science (WorDS)
+   Center of Excellence. We would also like to thank Kaggle and Draper
+   Satellite for their dataset.
+CR Belal AA, 2011, EGYPT J REMOTE SENS, V14, P73, DOI 10.1016/j.ejrs.2011.09.001
+   Besussi E, 2010, REMOTE SENS DIGIT IM, V10, P13, DOI 10.1007/978-1-4020-4385-7_2
+   Bhatta B, 2010, APPL GEOGR, V30, P96, DOI 10.1016/j.apgeog.2009.08.001
+   Castelluccio M., 2015, ARXIV150800092
+   Deng J, 2009, PROC CVPR IEEE, P248, DOI 10.1109/CVPRW.2009.5206848
+   Draper, 2016, DRAP SAT IM CHRON
+   Goldblatt R, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8080634
+   Hansen MC, 2013, SCIENCE, V342, P850, DOI 10.1126/science.1244693
+   He KM, 2015, IEEE I CONF COMP VIS, P1026, DOI 10.1109/ICCV.2015.123
+   He Kaiming, 2015, ARXIV151203385
+   Hofmann P., 2008, OBJECT BASED IMAGE A, P531, DOI DOI 10.1007/978-3-540-77058-9
+   Hu F, 2015, REMOTE SENS-BASEL, V7, P14680, DOI 10.3390/rs71114680
+   Jensen R, 2004, ECOL SOC, V9
+   Jia Y., 2014, P 22 ACM INT C MULT, P675, DOI [10.1145/2647868.2654889, DOI 10.1145/2647868.2654889]
+   Krizhevsky A, 2012, ADV NEUR INFORM PROC, V2012, P1097
+   Li G, 2007, INT J REMOTE SENS, V28, P249, DOI 10.1080/01431160600735624
+   Ludascher B, 2006, CONCURR COMP-PRACT E, V18, P1039, DOI 10.1002/cpe.994
+   Meng XR, 2016, J MACH LEARN RES, V17
+   Miller RB, 2003, ENVIRON SCI POLICY, V6, P129, DOI 10.1016/S1462-9011(03)00002-9
+   Mouillot F, 2014, INT J APPL EARTH OBS, V26, P64, DOI 10.1016/j.jag.2013.05.014
+   Oquab M, 2014, PROC CVPR IEEE, P1717, DOI 10.1109/CVPR.2014.222
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Penatti O., 2015, P IEEE C COMP VIS PA, P44
+   Razavian A. Sharif, 2014, P IEEE C COMP VIS PA, P806
+   Sermanet P., 2013, ARXIV13126229
+   Simonyan K., 2014, 14091556 ARXIV, DOI DOI 10.1109/TNN.2010.2066286
+   Szegedy C, 2015, PROC CVPR IEEE, P1, DOI 10.1109/CVPR.2015.7298594
+   Tapiador FJ, 2011, INT J REMOTE SENS, V32, P6437, DOI 10.1080/01431161.2010.512928
+   Wang J., 2014, P 2014 IEEE ACM INT, P16
+   Wang J., 2014, IEEE COMPUTING SCI E, V16, P11
+   Yang Y., 2010, P 18 SIGSPATIAL INT, P270, DOI DOI 10.1145/1869790.1869829
+   Yosinski J., 2014, ADV NEURAL INFORM PR, P3320
+   Zaharia M., 2010, HOTCLOUD, V10, P10, DOI DOI 10.HTTP://DL.ACM.0RG/CITATI0N.CFM?
+NR 33
+TC 3
+Z9 3
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-9005-7
+PY 2016
+BP 2655
+EP 2663
+PG 9
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BH2PL
+UT WOS:000399115002092
+DA 2019-03-26
+ER
+
+PT J
+AU Foresti, L
+   Reyniers, M
+   Seed, A
+   Delobbe, L
+AF Foresti, L.
+   Reyniers, M.
+   Seed, A.
+   Delobbe, L.
+TI Development and verification of a real-time stochastic precipitation
+   nowcasting system for urban hydrology in Belgium
+SO HYDROLOGY AND EARTH SYSTEM SCIENCES
+LA English
+DT Article
+ID CONTINENTAL RADAR IMAGES; PART I; UNCERTAINTY ANALYSIS; RAINFALL
+   FORECASTS; SCALE-DEPENDENCE; BEADS MODEL; ENSEMBLE; RESOLUTION;
+   PREDICTABILITY; FLOW
+AB The Short-Term Ensemble Prediction System (STEPS) is implemented in real-time at the Royal Meteorological Institute (RMI) of Belgium. The main idea behind STEPS is to quantify the forecast uncertainty by adding stochastic perturbations to the deterministic Lagrangian extrapolation of radar images. The stochastic perturbations are designed to account for the unpredictable precipitation growth and decay processes and to reproduce the dynamic scaling of precipitation fields, i.e., the observation that large-scale rainfall structures are more persistent and predictable than small-scale convective cells. This paper presents the development, adaptation and verification of the STEPS system for Belgium (STEPS-BE). STEPS-BE provides in real-time 20-member ensemble precipitation nowcasts at 1 km and 5 min resolutions up to 2 h lead time using a 4 C-band radar composite as input. In the context of the PLURISK project, STEPS forecasts were generated to be used as input in sewer system hydraulic models for nowcasting urban inundations in the cities of Ghent and Leuven. Comprehensive forecast verification was performed in order to detect systematic biases over the given urban areas and to analyze the reliability of probabilistic forecasts for a set of case studies in 2013 and 2014. The forecast biases over the cities of Leuven and Ghent were found to be small, which is encouraging for future integration of STEPS nowcasts into the hydraulic models. Probabilistic forecasts of exceeding 0.5 mm h(-1) are reliable up to 60-90 min lead time, while the ones of exceeding 5.0 mm h(-1) are only reliable up to 30 min. The STEPS ensembles are slightly under-dispersive and represent only 75-90 % of the forecast errors.
+C1 [Foresti, L.; Reyniers, M.; Delobbe, L.] Royal Meteorol Inst Belgium, Brussels, Belgium.
+   [Seed, A.] Bur Meteorol, Melbourne, Vic, Australia.
+RP Foresti, L (reprint author), Royal Meteorol Inst Belgium, Brussels, Belgium.
+EM loris.foresti@gmail.com
+FU Belgian Science Policy Office (BelSPO) project PLURISK: Forecasting and
+   management of rainfall-induced risks in the urban environment
+   [SD/RI/01A]
+FX This research was funded by Belgian Science Policy Office (BelSPO)
+   project PLURISK: Forecasting and management of rainfall-induced risks in
+   the urban environment (SD/RI/01A). We thank Clive Pierce for the
+   detailed discussions about the STEPS implementation and the guidance for
+   various code improvements. We also acknowledge Meteo-France for
+   providing the Avesnois data.
+CR Achleitner S, 2009, WATER SCI TECHNOL, V59, P1145, DOI 10.2166/wst.2009.098
+   Atencia A, 2014, MON WEATHER REV, V142, P4036, DOI 10.1175/MWR-D-13-00117.1
+   Berenguer M, 2005, J HYDROMETEOROL, V6, P532, DOI 10.1175/JHM433.1
+   Berenguer M, 2011, J HYDROL, V404, P226, DOI 10.1016/j.jhydrol.2011.04.033
+   Berne A, 2004, J HYDROL, V299, P166, DOI 10.1016/j.jhydrol.2004.08.002
+   Bowler N. E. H., 2004, 433 FOR RES METOFFIC
+   Bowler NEH, 2004, J HYDROL, V288, P74, DOI 10.1016/j.jhydrol.2003.11.011
+   Bowler NE, 2006, Q J ROY METEOR SOC, V132, P2127, DOI 10.1256/qj.04.100
+   Bruni G, 2015, HYDROL EARTH SYST SC, V19, P691, DOI 10.5194/hess-19-691-2015
+   Cloke HL, 2009, J HYDROL, V375, P613, DOI 10.1016/j.jhydrol.2009.06.005
+   Collier CG, 2009, METEOROL APPL, V16, P35, DOI 10.1002/met.120
+   Dai Q, 2015, HYDROL PROCESS, V29, P66, DOI 10.1002/hyp.10133
+   Ebert EE, 2001, MON WEATHER REV, V129, P2461, DOI 10.1175/1520-0493(2001)129<2461:AOAPMS>2.0.CO;2
+   Ehret U, 2008, INT J RIVER BASIN MA, V6, P323, DOI 10.1080/15715124.2008.9635359
+   Einfalt T, 2004, J HYDROL, V299, P186, DOI 10.1016/j.jhydrol.2004.08.004
+   Ventura JFI, 2013, J APPL METEOROL CLIM, V52, P1817, DOI 10.1175/JAMC-D-12-0179.1
+   Foresti L, 2014, HYDROL EARTH SYST SC, V18, P4671, DOI 10.5194/hess-18-4671-2014
+   Foresti L., 2014, HEUR PROB FOR WORKSH
+   Foresti L, 2015, METEOROL APPL, V22, P141, DOI 10.1002/met.1416
+   Foresti L, 2015, METEOROL APPL, V22, P60, DOI 10.1002/met.1440
+   Germann U, 2004, J APPL METEOROL, V43, P74, DOI 10.1175/1520-0450(2004)043<0074:SDOTPO>2.0.CO;2
+   Germann U, 2002, MON WEATHER REV, V130, P2859, DOI 10.1175/1520-0493(2002)130<2859:SDOTPO>2.0.CO;2
+   Germann U, 2009, Q J ROY METEOR SOC, V135, P445, DOI 10.1002/qj.375
+   Goudenhoofdt E, 2009, HYDROL EARTH SYST SC, V13, P195, DOI 10.5194/hess-13-195-2009
+   Grasso LD, 2000, B AM METEOROL SOC, V81, P579
+   Haiden T, 2011, WEATHER FORECAST, V26, P166, DOI 10.1175/2010WAF2222451.1
+   Hohti H, 2000, PHYS CHEM EARTH PT B, V25, P1323, DOI 10.1016/S1464-1909(00)00202-1
+   Jolliffe I., 2011, FORECAST VERIFICATIO
+   Jordan PW, 2003, J HYDROMETEOROL, V4, P841, DOI 10.1175/1525-7541(2003)004<0841:ASMORM>2.0.CO;2
+   Lewis H, 2015, METEOROL APPL, V22, P90, DOI 10.1002/met.1493
+   Liguori S, 2012, ATMOS RES, V103, P80, DOI 10.1016/j.atmosres.2011.05.004
+   Liguori S, 2013, HYDROL PROCESS, V27, P18, DOI 10.1002/hyp.9468
+   Liguori S, 2012, HYDROL PROCESS, V26, P3842, DOI 10.1002/hyp.8415
+   Metta S, 2009, J HYDROMETEOROL, V10, P1285, DOI 10.1175/2009JHM1120.1
+   Panziera L, 2011, Q J ROY METEOR SOC, V137, P2106, DOI 10.1002/qj.878
+   Pappenberger F, 2006, WATER RESOUR RES, V42, DOI 10.1029/2005WR004820
+   Paschalis A, 2013, WATER RESOUR RES, V49, P8400, DOI 10.1002/2013WR014437
+   Pegram GGS, 2001, HYDROL EARTH SYST SC, V5, P175, DOI 10.5194/hess-5-175-2001
+   Pegram GGS, 2001, J HYDROL, V241, P26, DOI 10.1016/S0022-1694(00)00373-5
+   Pierce C., 2010, 550 FOR R D METOFFIC
+   Pierce C, 2005, ATMOS SCI LETT, V6, P78, DOI 10.1002/asl.102
+   Radhakrishna B, 2012, J ATMOS SCI, V69, P3336, DOI 10.1175/JAS-D-12-029.1
+   Roulin E, 2005, J HYDROMETEOROL, V6, P729, DOI 10.1175/JHM436.1
+   Schellekens J., 2011, ADV GEOSCI, V29, P77, DOI [DOI 10.5194/ADGEO-29-77-2011, DOI 10.5194/ADGE0-29-77-2011]
+   Schertzer D., 1987, J GEOPHYS RES, V92, P9696
+   Seed AW, 2013, WATER RESOUR RES, V49, P6624, DOI 10.1002/wrcr.20536
+   Seed AW, 2003, J APPL METEOROL, V42, P381, DOI 10.1175/1520-0450(2003)042<0381:ADASSA>2.0.CO;2
+   Silvestro F, 2012, NAT HAZARD EARTH SYS, V12, P763, DOI 10.5194/nhess-12-763-2012
+   Silvestro F., 2013, NAT HAZARD EARTH SYS, V1, P7497, DOI [10.5194/nhessd-1-7497-2013, DOI 10.5194/NHESSD-1-7497-2013]
+   Skamarock WC, 2004, MON WEATHER REV, V132, P3019, DOI 10.1175/MWR2830.1
+   Sun JZ, 2014, B AM METEOROL SOC, V95, P409, DOI 10.1175/BAMS-D-11-00263.1
+   Tabary P, 2007, WEATHER FORECAST, V22, P393, DOI 10.1175/WAF1004.1
+   Thielen J, 2009, HYDROL EARTH SYST SC, V13, P125, DOI 10.5194/hess-13-125-2009
+   Thorndahl S, 2013, J HYDROINFORM, V15, P897, DOI 10.2166/hydro.2013.161
+   Turner BJ, 2004, J APPL METEOROL, V43, P231, DOI 10.1175/1520-0450(2004)043<0231:POPFCR>2.0.CO;2
+   Venugopal V, 1999, J GEOPHYS RES-ATMOS, V104, P31599, DOI 10.1029/1999JD900437
+   Verworn H. R., 2009, WATER MANAGE, V162, P159
+   Wang J., 2009, OVERVIEW BEIJING 200
+   Whitaker JS, 1998, MON WEATHER REV, V126, P3292, DOI 10.1175/1520-0493(1998)126<3292:TRBESA>2.0.CO;2
+   Willems P, 2001, J HYDROL, V252, P126, DOI 10.1016/S0022-1694(01)00446-2
+   Willems P, 2001, STOCH ENV RES RISK A, V15, P132, DOI 10.1007/s004770000063
+   Xuan Y, 2009, HYDROL EARTH SYST SC, V13, P293, DOI 10.5194/hess-13-293-2009
+   Xuan Y., 2014, INT S WEATH RAD HYDR
+   Zappa M, 2010, ATMOS SCI LETT, V11, P83, DOI 10.1002/asl.248
+NR 64
+TC 13
+Z9 13
+U1 1
+U2 15
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1027-5606
+EI 1607-7938
+J9 HYDROL EARTH SYST SC
+JI Hydrol. Earth Syst. Sci.
+PY 2016
+VL 20
+IS 1
+BP 505
+EP 527
+DI 10.5194/hess-20-505-2016
+PG 23
+WC Geosciences, Multidisciplinary; Water Resources
+SC Geology; Water Resources
+GA DD1GD
+UT WOS:000369668400029
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Motlhaka, HA
+   Makalela, L
+AF Motlhaka, Hlaviso A.
+   Makalela, Leketi
+TI Translanguaging in an academic writing class: Implications for a
+   dialogic pedagogy
+SO SOUTHERN AFRICAN LINGUISTICS AND APPLIED LANGUAGE STUDIES
+LA English
+DT Article
+ID EFL STUDENTS; WRITERS; PATTERNS; FEEDBACK; L1
+AB Academic writing for second language speakers remains a huge challenge for instructors and students worldwide. However, the rhetorical interface between English and African languages has hardly been explored to develop better translingual pedagogies for programmatic scaling. In this study we sought to explore the use of dialogic pedagogy, where Sesotho and English rhetorical conventions are code-meshed among first-year university students at a large urban university in South Africa. Drawing on the theoretical ideas of Bakhtin and Vygotsky's sociocultural framework, this study is premised on dialogic instruction that is characterised by the teacher's uptake of student ideas, authentic questions and the opportunity for students to modify the topics while using more than one language. Data were collected through metacognitive reflective interview of eight first-year students registered for a Bachelor of Education degree programme. The study found that dialogic instruction facilitates awareness in the students as they construct their desired voices in writing through the use of compensation and social strategies when they translanguage between L1 writing (Sesotho) and L2 writing (English). We argue that translanguaging is a relevant framework for academic literacy and that it provides optimal conditions for dialogic pedagogy in multilingual contexts. Recommendations for further research are considered at the end of the paper.
+C1 [Motlhaka, Hlaviso A.] Univ Venda, Sch Human & Social Sci, Dept English, Thohoyandou, South Africa.
+   [Makalela, Leketi] Univ Witwatersrand, Div Languages Literacies & Literatures, Johannesburg, South Africa.
+RP Motlhaka, HA (reprint author), Univ Venda, Sch Human & Social Sci, Dept English, Thohoyandou, South Africa.
+EM hlaviso.motlhaka@univen.ac.za
+RI Makalela, Leketi/D-7544-2017
+OI Makalela, Leketi/0000-0001-6375-5839
+CR Ahmadian M, 2016, THEORY PRACTICE LANG, V6, P767, DOI [10.17507/tpls.0604.14, DOI 10.17507/TPLS.0604.14]
+   Bakhtin Mikhail M, 1984, PROBLEMS DOSTOEVSKYS
+   Bakhtin MM., 1981, DIALOGIC IMAGINATION, P665
+   Bowers R., 2005, ALBERTA J EDUC RES, V51, P368
+   Burns N., 2007, UNDERSTANDING NURSIN
+   Canagarajah A S, 2013, TRANSLINGUAL PRACTIC
+   Canagarajah A. S., 2011, MOD LANG J, V95, P401, DOI [10.1111/j.1540-4781.2011.01207.x, DOI 10.1111/J.1540-4781.2011.01207.X]
+   Canagarajah AS, 2006, COLL ENGL, V68, P589, DOI 10.2307/25472177
+   Canagarajah AS, 2015, J SECOND LANG WRIT, V27, P122, DOI 10.1016/j.jslw.2014.09.001
+   Canagarajah S, 2016, LANG TEACHING, V49, P438, DOI 10.1017/S0261444816000069
+   Canagarajah S, 2015, APPL LINGUIST REV, V6, P415, DOI 10.1515/applirev-2015-0020
+   Chen P., 2013, ACAD EXCHANGE Q, V17, P145
+   Cook V, 1999, TESOL QUART, V33, P185, DOI 10.2307/3587717
+   Crossley SA, 2016, J SECOND LANG WRIT, V32, P1, DOI 10.1016/j.jslw.2016.01.003
+   Doyle H, 2015, INT J SOCIAL SCI HUM, V5, P887, DOI [10.7763/IJSSH.2015.V5.574, DOI 10.7763/IJSSH.2015.V5.574]
+   Egglezou F, 2016, J MOTHER TONGUE ED, V4, P1
+   Freire P, 2005, TEACHERS CULTURAL WO
+   Garcia O., 2011, PERSPECTIVES, V34, P5
+   Garcia O, 2009, SOCIAL JUSTICE MULTI, P19
+   Grabe W., 1989, RICHNESS WRITING EMP, P263
+   Gunnarson T, 2015, APPLES J APPL LANGUA, V9, P1
+   Gutierrez A, 2008, AUST ASS RES ED INT
+   Han Y, 2015, J SECOND LANG WRIT, V30, P31, DOI 10.1016/j.jslw.2015.08.002
+   Hanjani AM, 2014, SYSTEM, V44, P101, DOI 10.1016/j.system.2014.03.004
+   Hirose K, 2003, J SECOND LANG WRIT, V12, P181, DOI 10.1016/S1060-3743(03)00015-8
+   Hyland K., 2003, 2 LANGUAGE WRITING
+   Kobayashi H, 2013, J SECOND LANG WRIT, V22, P4, DOI 10.1016/j.jslw.2012.11.001
+   Kramsch C, 2000, ANN CON AAAL VAN 12
+   Kubota R., 1998, J SECOND LANG WRIT, V7, P69, DOI DOI 10.1016/S1060-3743(98)90006-6
+   Lantolf J. P., 2015, THEORIES 2 LANGUAGE, P207
+   Lantolf J. P., 2000, LANG TEACHING, V33, P79, DOI DOI 10.1017/S0261444800015329
+   Liu X., 2013, ELECT J FOREIGN LANG, V10, P40
+   Makalela L, 2015, LANG EDUC-UK, V29, P200, DOI 10.1080/09500782.2014.994524
+   Morton J, 2015, J SECOND LANG WRIT, V30, P1, DOI 10.1016/j.jslw.2015.06.007
+   Myhill D, 2016, RES PAP EDUC, V31, P23, DOI 10.1080/02671522.2016.1106694
+   Myles J., 2002, TESL EJ, V6, P1
+   Ortega L., 2010, PRACTICING THEORY 2, P48
+   Petty NJ, 2012, MANUAL THER, V17, P378, DOI 10.1016/j.math.2012.03.004
+   Russell DR, 1997, WRIT COMMUN, V14, P504, DOI 10.1177/0741088397014004004
+   SILVA T, 1993, TESOL QUART, V27, P657, DOI 10.2307/3587400
+   Simeon J, 2016, LEARN CULT SOC INTER, V8, P1, DOI 10.1016/j.lcsi.2015.11.002
+   Stewart T. T., 2013, INT J DIALOGICAL SCI, V7, P91
+   Swain Merrill, 2001, RES PEDAGOGIC TASKS, P99
+   Thompson I, 2013, RES TEACH ENGL, V47, P247
+   Uysal HH, 2008, J SECOND LANG WRIT, V17, P183, DOI 10.1016/j.jslw.2007.11.003
+   Velasco P, 2014, BILING RES J, V37, P6, DOI 10.1080/15235882.2014.893270
+   Wei L, 2014, LANG EDUC-UK, V28, P161, DOI 10.1080/09500782.2013.800549
+   Widodo HP, 2012, INT J INNOVATION ENG, V1, P87
+   Wischgoll A, 2016, FRONT PSYCHOL, V7, DOI 10.3389/fpsyg.2016.00187
+   Yang LX, 2014, J SECOND LANG WRIT, V23, P74, DOI 10.1016/j.jslw.2014.01.003
+   Yu SL, 2014, SYSTEM, V47, P28, DOI 10.1016/j.system.2014.08.007
+NR 51
+TC 4
+Z9 4
+U1 6
+U2 19
+PU NATL INQUIRY SERVICES CENTRE PTY LTD
+PI GRAHAMSTOWN
+PA 19 WORCESTER STREET, PO BOX 377, GRAHAMSTOWN 6140, SOUTH AFRICA
+SN 1607-3614
+EI 1727-9461
+J9 SO AFR LINGUIST APPL
+JI South. Afr. Linguist. Appl. Lang.
+PY 2016
+VL 34
+IS 3
+SI SI
+BP 251
+EP 260
+DI 10.2989/16073614.2016.1250356
+PG 10
+WC Linguistics; Language & Linguistics
+SC Linguistics
+GA EF5ZX
+UT WOS:000390410100007
+DA 2019-03-26
+ER
+
+PT J
+AU Wadley, D
+   Gore, H
+AF Wadley, David
+   Gore, Hunter
+TI Design intervention in architecture and planning: practical explorations
+   and applied outcomes
+SO ARCHITECTURAL SCIENCE REVIEW
+LA English
+DT Article
+DE Design intervention; visual appropriateness; residential apartments;
+   planning schemes; Sydney
+ID RESIDENTIAL FACADES; PREFERENCES
+AB Within architecture and planning, the elements and outcomes of design can be difficult to conceptualize and manage. The problem lies not simply in the range of stakeholders differentially interpreting the functionality and aesthetics of a building, but also in the effect of structures' scaling up from the site, through precinct to the metropolitan level. Incremental assembly of the built environment can promote dislocation of form and dissociation of function without any necessary legibility, integration, or harmony. This article explores the concept of visual appropriateness within frameworks of design intervention constructed by public planning authorities. Having scoped the problem, it searches over 2000 architecture, urban design, and planning references for theoretical' intervention measures, extended to include empirical' ones derived from selected planning schemes. Sorted into 3 thematic groups and 47 individual themes, they are then arranged into two evaluation dimensions within a multi-criteria analysis directed to the case of residential development in seven local government areas in Sydney, Australia. Results confirm that stronger design intervention will characterize areas with denser and more aggressive development activity and potential. The project demonstrates what is involved in contextualizing and translating just one of the several constituents of urban design.
+C1 [Wadley, David; Gore, Hunter] Univ Queensland, Sch Geog Planning & Environm Management, Brisbane, Qld 4072, Australia.
+RP Wadley, D (reprint author), Univ Queensland, Sch Geog Planning & Environm Management, Brisbane, Qld 4072, Australia.
+EM d.wadley@uq.edu.au
+CR Alkhresheh MM, 2012, J ENVIRON PSYCHOL, V32, P234, DOI 10.1016/j.jenvp.2012.02.003
+   Atlas R., 2008, 21 CENTURY SECURITY
+   Baer WC, 1997, J AM PLANN ASSOC, V63, P329, DOI 10.1080/01944369708975926
+   Bentley I., 1985, RESPONSIVE ENV MANUA
+   BOURASSA SC, 1991, AESTHETICS LANDSCAPE
+   Cantacuzino S., 1994, WHAT MAKES GOOD BUIL
+   Carmona M, 1997, DESIGN DIMENSION PLA
+   CARMONA M, 2002, URBAN DES INT, V7, P63, DOI DOI 10.1057/PALGRAVE.UDI.9000069
+   Carmona M, 2007, URBAN DESIGN READER
+   Carmona M., 1999, TOWN PLANN REV, V70, P501, DOI [10.3828/tpr.70.4.08h7043235418742, DOI 10.3828/TPR.70.4.08H7043235418742]
+   Carmona M, 2006, PROG PLANN, V65, P207, DOI 10.1016/j.progress.2006.03.008
+   Charles Prince of Wales, 1989, VIS BRIT PERS VIEW A
+   Daniel J, 2012, SAMPLING ESSENTIALS
+   Donovan J., 1996, PLANNING PRACTICE RE, V11, P303, DOI [10.1080/02697459616870, DOI 10.1080/02697459616870]
+   DORMER P, 1990, MEANINGS MODERN DESI
+   George RV, 2000, J PLAN EDUC RES, V20, P163, DOI 10.1177/0739456X0002000203
+   Gjerde M, 2011, URBAN DES INT, V16, P153, DOI 10.1057/udi.2011.10
+   GOAKES RJ, 1987, DESIGN AESTHETICS TO
+   HABE R, 1989, TOWN PLANN REV, V60, P195, DOI 10.3828/tpr.60.2.a55346r2h145u766
+   Hall A. C., 1996, DESIGN CONTROL NEW A
+   Hall AC, 2010, LIFE DEATH AUSTR BAC
+   Heath T, 2000, ENVIRON BEHAV, V32, P541, DOI 10.1177/00139160021972658
+   HOLCOMBE RG, 1995, PUBLIC POLICY QUALIT
+   Hollander J, 2016, ARCHIT SCI REV, V59, P474, DOI 10.1080/00038628.2016.1221499
+   Hubbard P., 1994, PLANNING PRACTICE RE, V9, P271, DOI [10.1080/02697459408722934, DOI 10.1080/02697459408722934]
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   Johnson BJ, 2016, ARCHIT SCI REV, V59, P449, DOI 10.1080/00038628.2016.1194255
+   Larice M., 2013, URBAN DESIGN READER
+   Lynch K., 1984, GOOD CITY FORM
+   Lynch K., 1960, IMAGE CITY
+   Macdonald E, 2005, J URBAN DES, V10, P13, DOI 10.1080/13574800500062320
+   Madanipour A, 2006, J URBAN DES, V11, P173, DOI 10.1080/13574800600644035
+   Martin C, 2005, CITYSCAPE, V8, P253
+   Mayring P., 2004, COMPANION QUALITATIV, P266
+   Meiss P. V, 1990, ELEMENTS ARCHITECTUR
+   Moughtin Cliff, 1999, URBAN DESIGN ORNAMEN
+   Nasar JL, 2009, J ENVIRON PSYCHOL, V29, P110, DOI 10.1016/j.jenvp.2008.09.003
+   Nasar JL, 1999, J AM PLANN ASSOC, V65, P424, DOI 10.1080/01944369908976072
+   O'Connor Z, 2006, J URBAN DES, V11, P335, DOI 10.1080/13574800600888251
+   Parker G., 2012, CONCEPTS IN PLANNING
+   Punter J., 1994, PLANNING PRACTICE RE, V9, P199
+   Punter John, 2002, INT PLANNING STUDIES, V7, P265, DOI DOI 10.1080/1356347022000027710
+   Pye D., 1964, THE NATURE OF DESIGN
+   ROWLEY A, 1998, J URBAN DESIGN, V3, P151, DOI DOI 10.1080/13574809808724423
+   Sarkissian W., 1986, HOUSING PEOPLE MATTE
+   Scruton Roger, 1979, AESTHETICS ARCHITECT
+   Shirvani H., 1981, URBAN DESIGN REV GUI
+   Smith Peter F., 2003, DYNAMICS DELIGHT ARC
+   Smithies KW, 1981, PRINCIPLES DESIGN AR
+   Stamps A, 2005, J AM PLANN ASSOC, V71, P73, DOI 10.1080/01944360508976406
+   Stamps AE, 1999, ENVIRON BEHAV, V31, P723, DOI 10.1177/00139169921972326
+   Stamps III A. E., 2000, PSYCHOL AESTHETICS B
+   Steven T., 2002, J URBAN DESIGN, V7, P353, DOI [10.1080/1357480022000039385, DOI 10.1080/1357480022000039385]
+   Stimson R. J, 2006, REGIONAL EC DEV ANAL
+   Street Emma, 2011, ARCHITECTURAL DESIGN
+   Taylor M., 1997, Planning Practice + Research, V12, P325, DOI 10.1080/02697459716356
+   Tibbalds F., 1992, MAKING PEOPLE FRIEND
+   Tugnutt A, 1987, MAKING TOWNSCAPE CON
+   White A, 2005, COMPLEMENT THER MED, V13, P54, DOI 10.1016/j.ctim.2004.12.003
+   Woodcock I, 2012, AUST PLAN, V49, P65, DOI 10.1080/07293682.2011.595726
+   Zhang Y, 2009, APPL SOCIAL RES METH, P308
+NR 61
+TC 0
+Z9 0
+U1 0
+U2 9
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0003-8628
+EI 1758-9622
+J9 ARCHIT SCI REV
+JI Archit. Sci. Rev.
+PD DEC
+PY 2016
+VL 59
+IS 6
+SI SI
+BP 482
+EP 495
+DI 10.1080/00038628.2016.1205180
+PG 14
+WC Architecture
+SC Architecture
+GA EA4VM
+UT WOS:000386613600005
+DA 2019-03-26
+ER
+
+PT J
+AU Nekrasova, AK
+   Kossobokov, VG
+AF Nekrasova, A. K.
+   Kossobokov, V. G.
+TI Unified scaling law for earthquakes in Crimea and Northern Caucasus
+SO DOKLADY EARTH SCIENCES
+LA English
+DT Article
+AB This study continues detailed investigations on the construction of regional charts of the parameters of the generalized Guttenberg-Richter Law, which takes into account the properties of the spatiotemporal seismic energy scaling. We analyzed the parameters of the law in the vicinity of the intersections of morphostructural lineaments in Crimea and Greater Caucasus. It was shown that ignoring the fractal character of the spatial distribution of earthquakes in the southern part of the Russian Federation can lead to significant underestimation of the seismic hazard in the largest cities of the region.
+C1 [Nekrasova, A. K.; Kossobokov, V. G.] Russian Acad Sci, Inst Earthquake Predict Theory & Math Geophys, Varshavskoe Sh 2, Moscow 113556, Russia.
+   [Kossobokov, V. G.] Russian Acad Sci, Geophys Ctr, Ul Molodezhnaya 3, Moscow 119296, Russia.
+   [Kossobokov, V. G.] Inst Phys Globe Paris, Paris, France.
+RP Nekrasova, AK (reprint author), Russian Acad Sci, Inst Earthquake Predict Theory & Math Geophys, Varshavskoe Sh 2, Moscow 113556, Russia.
+EM nastia@mitp.ru
+RI Kossobokov, Vladimir/U-7543-2017; Nekrasova, Anastasia/D-4308-2017
+OI Kossobokov, Vladimir/0000-0002-3505-7803; Nekrasova,
+   Anastasia/0000-0003-1639-1088
+FU Russian Science Foundation [15-17-30020]
+FX This work was supported by the Russian Science Foundation, project no.
+   15-17-30020.
+CR [Anonymous], 1983, B SEISMOL SOC AM, V73, P1955
+   Gutenberg B., 1944, B SEISMOL SOC AM, V34, P185, DOI DOI 10.1038/156371A0
+   Gvishiani A. D., 1986, IZV AN SSSR FIZ, P5
+   Keilis-Borok V.I., 1989, VYCHISLITELNAYA SEIS, V22, P28
+   Kossobokov V.G., 2004, VYCHISLITELNAYA SEIS, P160
+   Kossobokov VG, 2011, PROBL ENG SEISMOL, V38, P65
+   Nekrasova A, 2015, ACTA GEOD GEOPHYS, V50, P21, DOI 10.1007/s40328-014-0082-4
+   Nekrasova A, 2011, PURE APPL GEOPHYS, V168, P297, DOI 10.1007/s00024-010-0163-4
+   Nekrasova AK, 2006, DOKL EARTH SCI, V407, P484, DOI 10.1134/S1028334X06030305
+   Nekrasova AK, 2005, DOKL EARTH SCI, V405, P1352
+   Parvez IA, 2014, NAT HAZARDS, V71, P549, DOI 10.1007/s11069-013-0926-1
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 5
+PU MAIK NAUKA/INTERPERIODICA/SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013-1578 USA
+SN 1028-334X
+EI 1531-8354
+J9 DOKL EARTH SCI
+JI Dokl. Earth Sci.
+PD OCT
+PY 2016
+VL 470
+IS 2
+BP 1056
+EP 1058
+DI 10.1134/S1028334X16100032
+PG 3
+WC Geosciences, Multidisciplinary
+SC Geology
+GA EB4IN
+UT WOS:000387334700015
+DA 2019-03-26
+ER

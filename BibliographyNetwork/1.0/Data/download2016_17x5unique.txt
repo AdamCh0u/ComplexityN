@@ -1,0 +1,663 @@
+
+PT J
+AU Chen, TT
+   Wang, RL
+   Dai, B
+   Liu, DX
+   Song, JZ
+AF Chen, Tongtong
+   Wang, Ruili
+   Dai, Bin
+   Liu, Daxue
+   Song, Jinze
+TI Likelihood-Field-Model-Based Dynamic Vehicle Detection and Tracking for
+   Self-Driving
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+LA English
+DT Article
+DE Autonomous land vehicle (ALV); Bayesian filter; likelihood-field-based
+   vehicle measurement model; scaling series algorithm; vehicle detection
+   and tracking
+ID MULTITARGET TRACKING; LIDAR; LOCALIZATION; OBJECTS; SENSOR
+AB Dynamic vehicle detection and tracking is crucial for self-driving in urban environments. The main problem of the previous beam-model-based algorithms is that they cannot detect and track dynamic vehicles that are occluded by other objects. In this paper, we develop a novel dynamic vehicle detection and tracking algorithm to solve this problem for our autonomous land vehicle (ALV), which is equipped with a Velodyne LIDAR and a GPS-aid inertial navigation system. For detection, our improved two-dimensional virtual scan is presented to detect the potential dynamic vehicles with a scan differencing operation. Then, for each potential dynamic vehicle, a novel likelihood-field-based vehicle measurement model is proposed to weight its possible poses. Finally, our newly modified scaling series algorithm and the importance sampling technique are adopted to estimate the initial pose and the corresponding velocity for each vehicle, respectively. The scaling series algorithm coupled with a Bayesian filter (SSBF) was previously used to handle the tactile localization problem in static background scenes. For tracking dynamic vehicles, we improve the SSBF by adding the ego-motion compensation so that the improved algorithm is able to update the pose and velocity for each vehicle in dynamic background scenes. Both the quantitative and qualitative experimental results validate the performance of our dynamic vehicle detection and tracking algorithm on the KITTI datasets and the Velodyne data collected by our ALV in dynamic urban environments.
+C1 [Chen, Tongtong] Natl Univ Def Technol, Coll Mechatron Engn & Automat, Changsha 410073, Hunan, Peoples R China.
+   [Wang, Ruili] Massey Univ, Sch Engn & Adv Technol, Auckland 0632, New Zealand.
+   [Dai, Bin; Liu, Daxue] Natl Univ Def Technol, Unmanned Syst Inst, Changsha 410073, Hunan, Peoples R China.
+   [Song, Jinze] Natl Univ Def Technol, Grad Sch, Changsha 410073, Hunan, Peoples R China.
+RP Chen, TT (reprint author), Natl Univ Def Technol, Coll Mechatron Engn & Automat, Changsha 410073, Hunan, Peoples R China.
+EM chentongtong5208@gmail.com; r.wang@massey.ac.nz; bindai.cs@gmail.com;
+   liudaxue78@gmail.com; nwsac97@gmail.com
+FU National Natural Science Foundation of China [61075043, 61375050]
+FX The work was supported in part by the National Natural Science
+   Foundation of China under Grant 61075043 and Grant 61375050.
+CR Azim A, 2012, 2012 IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV), P802, DOI 10.1109/IVS.2012.6232303
+   Baig Q, 2012, I C CONT AUTOMAT ROB, P656, DOI 10.1109/ICARCV.2012.6485235
+   Chen T., 2015, P 7 INT C IHMSC, P497
+   Chen T., 2015, P 8 INT CISP, P1374
+   Chen TT, 2015, IEEE INT C INTELL TR, P296, DOI 10.1109/ITSC.2015.58
+   Chen TT, 2014, J INTELL ROBOT SYST, V76, P563, DOI 10.1007/s10846-013-9889-4
+   Choi J, 2013, IEEE INT C INTELL TR, P881, DOI 10.1109/ITSC.2013.6728343
+   Coue C, 2006, INT J ROBOT RES, V25, P19, DOI 10.1177/0278364906061158
+   Danescu R, 2011, IEEE T INTELL TRANSP, V12, P1331, DOI 10.1109/TITS.2011.2158097
+   Fortin B, 2015, IEEE T INTELL TRANSP, V16, P1883, DOI 10.1109/TITS.2015.2391131
+   Geiger A, 2013, INT J ROBOT RES, V32, P1231, DOI 10.1177/0278364913491297
+   Gindele T, 2009, IEEE INT VEH SYM, P669, DOI 10.1109/IVS.2009.5164357
+   Granstrom K., 2014, P INT C INF FUSION S, P1
+   Held D, 2016, INT J ROBOT RES, V35, P30, DOI 10.1177/0278364915593399
+   Held D, 2013, IEEE INT CONF ROBOT, P1138, DOI 10.1109/ICRA.2013.6630715
+   Himmelsbach M, 2012, 2012 IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV), P577, DOI 10.1109/IVS.2012.6232181
+   Jungnickel R, 2014, 2014 IEEE 17TH INTERNATIONAL CONFERENCE ON INTELLIGENT TRANSPORTATION SYSTEMS (ITSC), P2310, DOI 10.1109/ITSC.2014.6958060
+   Kaestner R, 2012, IEEE INT CONF ROBOT, P3075, DOI 10.1109/ICRA.2012.6224585
+   Klasing K., 2008, P IEEE INT C ROB AUT, P4043
+   Leonard J, 2008, J FIELD ROBOT, V25, P727, DOI 10.1002/rob.20262
+   Liu Z, 2013, 2013 6TH INTERNATIONAL CONGRESS ON IMAGE AND SIGNAL PROCESSING (CISP), VOLS 1-3, P1006, DOI 10.1109/CISP.2013.6745203
+   Moosmann F., 2013, P IEEE INT C ROB AUT, P1138
+   Moosmann F, 2009, IEEE INT VEH SYM, P215, DOI 10.1109/IVS.2009.5164280
+   Moras J, 2011, IEEE INT VEH SYM, P1122, DOI 10.1109/IVS.2011.5940561
+   Morrison D.D, 1960, P 42 HAW INT C SYST, P1, DOI DOI 10.1109/HICSS.2009.343
+   Negre A, 2014, IEEE INT VEH SYM, P1307, DOI 10.1109/IVS.2014.6856554
+   Petrovskaya A., 2009, P 11 ISER, P79
+   Petrovskaya A, 2011, IEEE T ROBOT, V27, P569, DOI 10.1109/TRO.2011.2138450
+   Petrovskaya A, 2009, AUTON ROBOT, V26, P123, DOI 10.1007/s10514-009-9115-1
+   Rusu R. B., 2011, P IEEE INT C ROB AUT, P1, DOI DOI 10.1109/ICRA.2011.5980567
+   Schutz M., 2014, P IEEE 4 S, P1205
+   Tanzmeister G, 2014, IEEE INT CONF ROBOT, P6090, DOI 10.1109/ICRA.2014.6907756
+   Thrun S., 2005, PROBABILISTICS ROBOT
+   Vu T. D., 2009, P IEEE INT C ROB AUT, P3800
+   Wang CC, 2007, INT J ROBOT RES, V26, P889, DOI 10.1177/0278364907081229
+   Wang DZ, 2015, INT J ROBOT RES, V34, P1039, DOI 10.1177/0278364914562237
+   Wojke N, 2012, IEEE INT CONF ROBOT, P3082, DOI 10.1109/ICRA.2012.6224636
+   Yang Y, 2014, IEEE INT VEH SYM, P394, DOI 10.1109/IVS.2014.6856426
+NR 38
+TC 7
+Z9 7
+U1 6
+U2 36
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1524-9050
+EI 1558-0016
+J9 IEEE T INTELL TRANSP
+JI IEEE Trans. Intell. Transp. Syst.
+PD NOV
+PY 2016
+VL 17
+IS 11
+BP 3142
+EP 3158
+DI 10.1109/TITS.2016.2542258
+PG 17
+WC Engineering, Civil; Engineering, Electrical & Electronic; Transportation
+   Science & Technology
+SC Engineering; Transportation
+GA EC1XQ
+UT WOS:000387902500013
+DA 2019-03-26
+ER
+
+PT J
+AU Zhou, KB
+   Zhou, KB
+   Liu, NA
+   Yuan, XS
+AF Zhou, Kuibin
+   Zhou, Kuibin
+   Liu, Naian
+   Yuan, Xieshang
+TI Effect of Wind on Fire Whirl Over a Line Fire
+SO FIRE TECHNOLOGY
+LA English
+DT Article
+DE Fire whirl; Wind speed; Line fire; Occurrence frequency; Scaling
+   analysis
+ID MODEL
+AB Fire whirls are often reported to occur in wildland and urban fires due to the effect of ambient wind. This paper presents an experimental study on the fire whirls over a line fire with cross wind, focusing on the occurrence frequency of fire whirls. The experimental observations indicated that the fire whirls induced by a line fire may spread beyond the line fire region with the effect of wind. For the effect of cross wind, it is indicated that the cross wind basically increases the occurrence frequency, while the velocity components parallel or perpendicular to the line fire have competitive effects. A scaling law is presented for the critical wind speed inducing fire whirls based on the experimental data in this work and literature. A method is proposed to estimate the magnitude of the fire whirl height under the critical wind speed.
+C1 [Zhou, Kuibin] Nanjing Tech Univ, Coll Safety Sci & Engn, Jiangsu Key Lab Urban & Ind Safety, Nanjing 210009, Jiangsu, Peoples R China.
+   [Zhou, Kuibin; Liu, Naian; Yuan, Xieshang] Univ Sci & Technol China, State Key Lab Fire Sci, Hefei 230026, Anhui, Peoples R China.
+RP Liu, NA (reprint author), Univ Sci & Technol China, State Key Lab Fire Sci, Hefei 230026, Anhui, Peoples R China.
+EM liunai@ustc.edu.cn
+RI Liu, Naian/C-8954-2017
+OI Liu, Naian/0000-0002-9383-9264
+FU National Natural Science Foundation of China [51476156, 51120165001];
+   International Science & Technology Cooperation Program of China
+   [2014DFG72300]; National Basic Research Program of China (973 Program)
+   [2012CB719702]; Fundamental Research Funds for the Central Universities
+   [WK 2320000020]; State Key Laboratory of Fire Science [HZ2013-KF09]
+FX This work was sponsored by the National Natural Science Foundation of
+   China under Grant (51476156 and 51120165001), International Science &
+   Technology Cooperation Program of China (No. 2014DFG72300), and the
+   National Basic Research Program of China (973 Program, No.
+   2012CB719702). Naian Liu was supported by the Fundamental Research Funds
+   for the Central Universities (No. WK 2320000020). Kuibin Zhou was
+   supported by the Open Project of State Key Laboratory of Fire Science
+   (No. HZ2013-KF09).
+CR DESSENS J, 1962, NATURE, V193, P13, DOI 10.1038/193013a0
+   Dupuy JL, 2011, INT J WILDLAND FIRE, V20, P272, DOI 10.1071/WF09075
+   Emori RI, 1982, FIRE TECHNOL, V18, P319, DOI [10. 1007/BF02473115, DOI 10.1007/BF02473115]
+   Kuwana K, 2011, 7 US NAT TECHN M COM
+   Kuwana K, 2008, FIRE SAFETY J, V43, P252, DOI 10.1016/j.firesaf.2007.10.006
+   Kuwana K, 2013, P COMBUST INST, V34, P2625, DOI 10.1016/j.proci.2012.06.092
+   Liu NA, 2007, P COMBUST INST, V31, P2589, DOI 10.1016/j.proci.2006.08.110
+   Shinohara M, 2012, FIRE SAFETY J, V54, P144, DOI 10.1016/j.firesaf.2012.03.009
+   Silvani X, 2012, EXP THERM FLUID SCI, V41, P99, DOI 10.1016/j.expthermflusci.2012.03.021
+   SOMA S, 1991, COMBUST FLAME, V86, P269, DOI 10.1016/0010-2180(91)90107-M
+   Wang P, 2014, FIRE TECHNOL, P1, DOI [10.1007/s10694-014-0435-0, DOI 10.1007/S10694-014-0435-0]
+   Yuan LM, 1996, FIRE SAFETY J, V27, P123, DOI 10.1016/S0379-7112(96)00047-1
+   Zhou K, 2014, FIR SAF SCI P 11 INT
+   Zhou KB, 2014, FIRE TECHNOL, V50, P1573, DOI 10.1007/s10694-013-0360-7
+   Zhou KB, 2013, P COMBUST INST, V34, P2617, DOI 10.1016/j.proci.2012.06.053
+NR 15
+TC 4
+Z9 4
+U1 1
+U2 21
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0015-2684
+EI 1572-8099
+J9 FIRE TECHNOL
+JI Fire Technol.
+PD MAY
+PY 2016
+VL 52
+IS 3
+BP 865
+EP 875
+DI 10.1007/s10694-015-0507-9
+PG 11
+WC Engineering, Multidisciplinary; Materials Science, Multidisciplinary
+SC Engineering; Materials Science
+GA DH9XB
+UT WOS:000373148200014
+DA 2019-03-26
+ER
+
+PT J
+AU Morzillo, AT
+   Kreakie, BJ
+   Netusil, NR
+   Yeakley, JA
+   Ozawa, CP
+   Duncan, SL
+AF Morzillo, Anita T.
+   Kreakie, Betty J.
+   Netusil, Noelwah R.
+   Yeakley, J. Alan
+   Ozawa, Connie P.
+   Duncan, Sally L.
+TI Resident perceptions of natural resources between cities and across
+   scales in the Pacific Northwest
+SO ECOLOGY AND SOCIETY
+LA English
+DT Article
+DE human dimensions; landscape ecology; natural resources; Pacific
+   Northwest; perceptions; urban ecosystems
+ID ENVIRONMENTAL VALUE ORIENTATIONS; RURAL-URBAN DIFFERENCES; STREET TREES;
+   LAND-USE; PUBLIC TRANSPORTATION; METROPOLITAN-AREA; RODENT CONTROL;
+   WATER-QUALITY; GREEN SPACES; ATTITUDES
+AB As the global population becomes increasingly urban, research is needed to explore how local culture, land use, and policy will influence urban natural resource management. We used a broad-scale comparative approach and survey of residents within the Portland (Oregon)-Vancouver (Washington) metropolitan areas, USA, two states with similar geographical and ecological characteristics, but different approaches to land-use planning, to explore resident perceptions about natural resources at three scales of analysis: property level ("at or near my house"), neighborhood ("within a 20-minute walk from my house"), and metro level ("across the metro area"). At the metro-level scale, nonmetric multidimensional scaling revealed that the two cities were quite similar. However, affinity for particular landscape characteristics existed within each city with the greatest difference generally at the property-level scale. Portland respondents expressed affinity for large mature trees, tree-lined streets, public transportation, and proximity to stores and services. Vancouver respondents expressed affinity for plentiful accessible parking. We suggest three explanations that likely are not mutually exclusive. First, respondents are segmented based on preferences for particular amenities, such as convenience versus commuter needs. Second, historical land-use and tax policy legacies may influence individual decisions. Third, more environmentally attuned worldviews may influence an individual's desire to produce environmentally friendly outcomes. Our findings highlight the importance of acknowledging variations in residents' affinities for landscape characteristics across different scales and locations because these differences may influence future land-use policies about urban natural resources.
+C1 [Morzillo, Anita T.] Univ Connecticut, Dept Nat Resources & Environm, Storrs, CT 06269 USA.
+   [Kreakie, Betty J.] US EPA, Off Res & Dev, Natl Hlth & Environm Effects Lab, Atlantic Ecol Div, Washington, DC USA.
+   [Netusil, Noelwah R.] Reed Coll, Dept Econ, Portland, OR USA.
+   [Yeakley, J. Alan] Univ Maryland Baltimore Cty, Dept Geog & Environm Syst, Baltimore, MD 21228 USA.
+   [Ozawa, Connie P.] Portland State Univ, Toulan Sch Urban Studies & Planning, Portland, OR 97207 USA.
+   [Duncan, Sally L.] Oregon State Univ, Sch Publ Policy, Corvallis, OR 97331 USA.
+RP Morzillo, AT (reprint author), Univ Connecticut, Dept Nat Resources & Environm, Storrs, CT 06269 USA.
+OI Yeakley, Jon/0000-0001-9705-095X
+FU National Science Foundation [0948983, 0948826, 0949042]; Oregon State
+   University General Research Fund; Portland State University; Reed
+   College
+FX The Portland-Vancouver ULTRA-Ex efforts include many project personnel
+   from Portland State University, Washington State University - Vancouver,
+   Oregon State University, Reed College, and the US Forest Service Pacific
+   Northwest Research Station, with input from several land management
+   agencies. Thank you to the Portland-Vancouver ULTRA-Ex project team for
+   inspiring this research based on a friendly project meeting quarrel
+   about which of the two cities is better. We individually thank K.
+   Heavener, H. Chang, V. Shandas, J. Kline, S. Bollens, G.
+   Rollwagen-Bollens, P. Thiers, S. Gordon, M. Dresner, A. Phillip, B.
+   Pratt, T. Gibson, M. Smith, J. Bevis, M. Atkinson, A. Mertig, D.
+   Kloster, L. Keener-Eck, three anonymous reviewers, and all
+   Portland-Vancouver residents who completed the survey. This work was
+   supported by the National Science Foundation Grants #0948983, #0948826,
+   and #0949042, Oregon State University General Research Fund, Portland
+   State University, and Reed College. Use of human subjects was approved
+   by Oregon State University (IRB #5022), Portland State University
+   (#111816), Washington State University (#12019), Reed College (#Netusil
+   2012), and University of Connecticut (#H14-194). This paper has not been
+   subjected to formal US EPA review. Therefore, it does not necessarily
+   reflect the views of the Agency. Mention of trade names or commercial
+   products does not constitute endorsement or recommendation for use by
+   the US Government. This is contribution number ORD-012384 of the
+   Atlantic Ecology Division, Office of Research and Development, National
+   Health and Environmental Effects Research Laboratory.
+CR Ahern J, 2013, LANDSCAPE ECOL, V28, P1203, DOI 10.1007/s10980-012-9799-z
+   Alberti M, 2003, BIOSCIENCE, V53, P1169, DOI 10.1641/0006-3568(2003)053[1169:IHIEOA]2.0.CO;2
+   Anable J, 2005, TRANSP POLICY, V12, P65, DOI 10.1016/j.tranpol.2004.11.004
+   Ando AW, 2011, WATER RESOUR RES, V47, DOI 10.1029/2011WR011070
+   Arcury T, 1993, J ENVIRON EDUC, V25, P19, DOI DOI 10.1080/00958964.1993.9941940
+   Balram S, 2005, LANDSCAPE URBAN PLAN, V71, P147, DOI 10.1016/j.landurbplan.2004.02.007
+   Bamberg S, 2007, J ENVIRON PSYCHOL, V27, P190, DOI 10.1016/j.jenvp.2007.04.001
+   Beirao G, 2007, TRANSPORT POLICY, V14, P478, DOI 10.1016/j.tranpol.2007.04.009
+   Belaire JA, 2016, LANDSCAPE ECOL, V31, P401, DOI 10.1007/s10980-015-0256-7
+   Belaire JA, 2014, ECOL APPL, V24, P2132, DOI 10.1890/13-2259.1
+   Berenguer J, 2005, EUR J PSYCHOL ASSESS, V21, P128, DOI 10.1027/1015-5759.21.2.128
+   Berland A, 2014, LANDSCAPE ECOL, V29, P141, DOI 10.1007/s10980-013-9953-2
+   Boone Christopher G., 2010, Urban Ecosystems, V13, P255, DOI 10.1007/s11252-009-0118-7
+   Bopp M, 2011, J PUBLIC HEALTH MAN, V17, pE9, DOI 10.1097/PHH.0b013e31821138de
+   Bright AD, 2000, WILDLIFE SOC B, V28, P218
+   Brown BB, 2009, HEALTH PLACE, V15, P1130, DOI 10.1016/j.healthplace.2009.06.008
+   Camacho-Cervantes M, 2014, URBAN ECOSYST, V17, P761, DOI 10.1007/s11252-014-0343-6
+   Carr LJ, 2011, BRIT J SPORT MED, V45, P1144, DOI 10.1136/bjsm.2009.069609
+   Carrus G, 2008, J ENVIRON PSYCHOL, V28, P51, DOI 10.1016/j.jenvp.2007.09.003
+   Carter NH, 2014, AMBIO, V43, P125, DOI 10.1007/s13280-013-0421-7
+   Champ P. A., 2003, PRIMER NONMARKET VAL
+   Chang H, 2014, HYDROL EARTH SYST SC, V18, P1383, DOI 10.5194/hess-18-1383-2014
+   Chowdhury R. R., 2011, CITIES ENV CATE, V4, P1, DOI DOI 10.15365/CATE.4162011
+   City of Portland, 2009, CIT PORTL MULTN COUN
+   CLARKE KR, 1993, AUST J ECOL, V18, P117, DOI 10.1111/j.1442-9993.1993.tb00438.x
+   Collins JP, 2000, AM SCI, V88, P416
+   Collins SL, 2011, FRONT ECOL ENVIRON, V9, P351, DOI 10.1890/100068
+   Cook EM, 2012, URBAN ECOSYST, V15, P19, DOI 10.1007/s11252-011-0197-0
+   Cortright J., 2009, WALKING WALK WALKABI
+   Dahmus ME, 2014, URBAN ECOSYST, V17, P173, DOI 10.1007/s11252-013-0306-3
+   Dietz T, 2005, ANNU REV ENV RESOUR, V30, P335, DOI 10.1146/annurev.energy.30.050504.144444
+   Dietz T, 1998, ENVIRON BEHAV, V30, P450, DOI 10.1177/001391659803000402
+   Dillman D. A., 2009, INTERNET MAIL MIXED
+   Dixon P, 2003, J VEG SCI, V14, P927, DOI 10.1111/j.1654-1103.2003.tb02228.x
+   Donovan GH, 2010, LANDSCAPE URBAN PLAN, V94, P77, DOI 10.1016/j.landurbplan.2009.07.019
+   Dufrene M, 1997, ECOL MONOGR, V67, P345, DOI 10.1890/0012-9615(1997)067[0345:SAAIST]2.0.CO;2
+   Duha JD, 2008, SCI TOTAL ENVIRON, V400, P238, DOI 10.1016/j.scitotenv.2008.05.002
+   Dunlap RE, 2000, J SOC ISSUES, V56, P425, DOI 10.1111/0022-4537.00176
+   Dutcher DD, 2007, ENVIRON BEHAV, V39, P474, DOI 10.1177/0013916506298794
+   Elmqvist T., 2013, URBANIZATION BIODIVE
+   Everett G, 2016, P I CIVIL ENG-WAT M, V169, P94, DOI 10.1680/wama.14.00076
+   Filion P, 1999, URBAN STUD, V36, P1317, DOI 10.1080/0042098993015
+   Forsyth D. R., 2006, GROUP DYNAMICS
+   Freeman III A. M., 2003, MEASUREMENT ENV RESO
+   FREUDENBURG WR, 1991, SOCIOL INQ, V61, P167, DOI 10.1111/j.1475-682X.1991.tb00274.x
+   Fulton D. C., 1996, HUMAN DIMENSIONS WIL, V1, P24, DOI DOI 10.1080/10871209609359060
+   Geoghegan J, 2002, LAND USE POLICY, V19, P91, DOI 10.1016/S0264-8377(01)00040-0
+   Germann-Chiari C, 2004, FOREST POLICY ECON, V6, P3, DOI 10.1016/S1389-9341(02)00067-9
+   Gidlof-Gunnarsson A, 2007, LANDSCAPE URBAN PLAN, V83, P115, DOI 10.1016/j.landurbplan.2007.03.003
+   Gliner J. A., 2001, HUMAN DIMENSIONS WIL, V6, P291
+   Goddard MA, 2010, TRENDS ECOL EVOL, V25, P90, DOI 10.1016/j.tree.2009.07.016
+   Grahn P, 2010, LANDSCAPE URBAN PLAN, V94, P264, DOI 10.1016/j.landurbplan.2009.10.012
+   Greenbiz, 2008, PORTL NAM AM GREEN C
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Hawcroft LJ, 2010, J ENVIRON PSYCHOL, V30, P143, DOI 10.1016/j.jenvp.2009.10.003
+   Hayes S. P., 1989, BEAUTY HLTH PERMANEN
+   Henwood K, 2001, J ENVIRON PSYCHOL, V21, P125, DOI 10.1006/jevp.2000.0196
+   Hofmann M, 2012, URBAN FOR URBAN GREE, V11, P303, DOI 10.1016/j.ufug.2012.04.001
+   Inglehart R, 2000, AM SOCIOL REV, V65, P19, DOI 10.2307/2657288
+   Kaltenborn BP, 2002, LANDSCAPE URBAN PLAN, V59, P1, DOI 10.1016/S0169-2046(01)00243-2
+   Kinzig AP, 2005, ECOL SOC, V10
+   Kline JD, 2014, LANDSCAPE URBAN PLAN, V131, P51, DOI 10.1016/j.landurbplan.2014.07.013
+   Koval JH, 2004, WILDLIFE SOC B, V32, P232, DOI 10.2193/0091-7648(2004)32[232:AOTMPA]2.0.CO;2
+   Krizek KJ, 2006, J AM PLANN ASSOC, V72, P33, DOI 10.1080/01944360608976722
+   Kruskal J, 1978, MULTIDIMENSIONAL SCA
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P115, DOI 10.1007/BF02289694
+   Landry SM, 2009, ENVIRON PLANN A, V41, P2651, DOI 10.1068/a41236
+   Larsen L, 2006, LANDSCAPE URBAN PLAN, V78, P85, DOI 10.1016/j.landurbplan.2005.06.002
+   Leslie E, 2005, HEALTH PLACE, V11, P227, DOI 10.1016/j.healthplace.2004.05.005
+   Lettman G., 2014, PLANNING PACIFIC NW, P42
+   Leyden KM, 2003, AM J PUBLIC HEALTH, V93, P1546, DOI 10.2105/AJPH.93.9.1546
+   Liu JG, 2013, ECOL SOC, V18, DOI 10.5751/ES-05873-180226
+   LO RH, 2009, J URBANISM INT RES P, V2, P145, DOI DOI 10.1080/17549170903092867
+   Lutzenhiser M, 2001, CONTEMP ECON POLICY, V19, P291, DOI 10.1093/cep/19.3.291
+   Mahan BL, 2000, LAND ECON, V76, P100, DOI 10.2307/3147260
+   Martin Chris A., 2003, Journal of Arboriculture, V29, P9
+   McCormack GR, 2008, PREV MED, V46, P33, DOI 10.1016/j.ypmed.2007.01.013
+   McDonnell M. J, 1997, HUMANS COMPONENTS EC
+   McPhearson T, 2013, ECOSYST SERV, V5, pE11, DOI 10.1016/j.ecoser.2013.06.005
+   Morzillo A. T., 2011, International Journal of Environmental Studies, V68, P107, DOI 10.1080/00207233.2010.527462
+   Morzillo AT, 2014, ECOL SOC, V19, DOI 10.5751/ES-06883-190344
+   Morzillo AT, 2011, ECOSPHERE, V2, DOI 10.1890/ES11-00120.1
+   Morzillo AT, 2011, URBAN ECOSYST, V14, P243, DOI 10.1007/s11252-010-0152-5
+   Morzillo Anita T., 2007, Human Dimensions of Wildlife, V12, P417, DOI 10.1080/10871200701670110
+   MULLER PO, 1982, AM QUART, V34, P262, DOI 10.2307/2712778
+   Needham MD, 2010, J SUSTAIN TOUR, V18, P757, DOI 10.1080/09669581003690486
+   Netusil NR, 2014, WATER RESOUR RES, V50, P4254, DOI 10.1002/2013WR014546
+   Netusil NR, 2010, LAND ECON, V86, P281, DOI 10.3368/le.86.2.281
+   Newman TP, 2016, ENVIRON EDUC RES, V22, P153, DOI 10.1080/13504622.2014.999227
+   Oregon Department of Land Conservation and Development, 2006, OR STAT PLANN GOALS
+   Oregon Legislative Revenue Office, 2015, 2015 OR PUBL FIN BAS
+   Ostrom E, 2010, AM ECON REV, V100, P641, DOI [10.1257/aer.100.3.641, 10.1080/19186444.2010.11658229]
+   Payne LL, 2002, LEISURE SCI, V24, P181, DOI 10.1080/01490400252900149
+   Philen R., 2014, COMP STATE LOCAL TAX
+   PICKETT STA, 1993, HUMANS AS COMPONENTS OF ECOSYSTEMS, P310
+   Pickett STA, 2001, ANNU REV ECOL SYST, V32, P127, DOI 10.1146/annurev.ecolsys.32.081501.114012
+   Pickett STA, 2008, BIOSCIENCE, V58, P139, DOI 10.1641/B580208
+   Polsky C, 2014, P NATL ACAD SCI USA, V111, P4432, DOI 10.1073/pnas.1323995111
+   R Core Team, 2015, R LANG ENV STAT COMP
+   Schipperijn J, 2010, LANDSCAPE URBAN PLAN, V95, P130, DOI 10.1016/j.landurbplan.2009.12.010
+   Schroeder Herbert, 2006, Arboriculture & Urban Forestry, V32, P236
+   Schultz PW, 2001, J ENVIRON PSYCHOL, V21, P327
+   Seto KC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023777
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P16083, DOI 10.1073/pnas.1211658109
+   Shochat E, 2006, TRENDS ECOL EVOL, V21, P186, DOI 10.1016/j.tree.2005.11.019
+   Sidique SF, 2010, RESOUR CONSERV RECY, V54, P163, DOI 10.1016/j.resconrec.2009.07.012
+   Sokal R. R., 1995, BIOMETRY
+   STEEL BS, 1994, SOC NATUR RESOUR, V7, P137, DOI 10.1080/08941929409380852
+   Steinberg RM, 2015, RURAL SOC, V24, P1, DOI 10.1080/10371656.2014.1001478
+   Sterrett J., 2015, PLANNING PACIFIC NW
+   Svoboda E., 2008, POPULAR SCI
+   Taylor MS, 2015, LANDSCAPE URBAN PLAN, V136, P174, DOI 10.1016/j.landurbplan.2014.12.005
+   TIEBOUT CM, 1956, J POLIT ECON, V64, P416, DOI 10.1086/257839
+   Tratalos J, 2007, LANDSCAPE URBAN PLAN, V83, P308, DOI 10.1016/j.landurbplan.2007.05.003
+   Troy AR, 2007, ENVIRON MANAGE, V40, P394, DOI 10.1007/s00267-006-0112-2
+   United Nations Department of Economic and Social Affairs Population Division, 2014, WORLD URB PROSP 2014
+   United States Department of Commerce (USDC), 2014, US CENS BUR DAT AM F
+   VANLIERE KD, 1980, PUBLIC OPIN QUART, V44, P181
+   Vaske JJ, 2001, SOC NATUR RESOUR, V14, P761, DOI 10.1080/089419201753210585
+   Yabiku ST, 2008, ENVIRON BEHAV, V40, P382, DOI 10.1177/0013916507300359
+   Yeakley J. A., 2014, WILD SALMONIDS URBAN, V59-74
+   Yeakley JA, 2014, WILD SALMONIDS URBAN
+   Zhu WX, 2004, BIOGEOCHEMISTRY, V71, P177, DOI 10.1007/s10533-004-9683-2
+   Zick CD, 2009, SOC SCI MED, V69, P1493, DOI 10.1016/j.socscimed.2009.08.032
+NR 124
+TC 0
+Z9 0
+U1 0
+U2 14
+PU RESILIENCE ALLIANCE
+PI WOLFVILLE
+PA ACADIA UNIV, BIOLOGY DEPT, WOLFVILLE, NS B0P 1X0, CANADA
+SN 1708-3087
+J9 ECOL SOC
+JI Ecol. Soc.
+PY 2016
+VL 21
+IS 3
+AR 14
+DI 10.5751/ES-08478-210314
+PG 14
+WC Ecology; Environmental Studies
+SC Environmental Sciences & Ecology
+GA DZ3CB
+UT WOS:000385720400007
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Zhou, Y
+   Huang, XHH
+   Griffith, SM
+   Li, M
+   Li, L
+   Zhou, Z
+   Wu, C
+   Meng, JW
+   Chan, CK
+   Louie, PKK
+   Yu, JZ
+AF Zhou, Yang
+   Huang, X. H. Hilda
+   Griffith, Stephen M.
+   Li, Mei
+   Li, Lei
+   Zhou, Zhen
+   Wu, Cheng
+   Meng, Junwang
+   Chan, Chak K.
+   Louie, Peter K. K.
+   Yu, Jian Zhen
+TI A field measurement based scaling approach for quantification of major
+   ions, organic carbon, and elemental carbon using a single particle
+   aerosol mass spectrometer
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Single particle; PM2.5; Laser ionization; Scaling factor; Ions; OCEC
+ID MIXING STATE; CHEMICAL-COMPOSITION; HONG-KONG; LASER
+   DESORPTION/IONIZATION; DETECTION EFFICIENCIES; INDIVIDUAL PARTICLES;
+   AIRBORNE PARTICLES; URBAN GUANGZHOU; CCN ACTIVITY; TIME
+AB Single Particle Aerosol Mass Spectrometers (SPAMS) have been increasingly deployed for aerosol studies in Asia. To date, SPAMS is most often used to provide unscaled information for both the size and chemical composition of individual particles. The instrument's lack of accuracy is primarily due to only a fraction of particles being detected after collection, and the instrumental sensitivity is un-calibrated for various chemical species in mixed ambient aerosols. During a campaign from January to April 2013 at a coastal site in Hong Kong, the particle number information and ion intensity of major PM2.5 components collected by SPAMS were scaled by comparing with collocated bulk PM2.5 measurements of hourly or higher resolution. The bulk measurements include PM2.5 mass by a SHARP 5030 Monitor, major ions by a Monitor for Aerosols & Gases in ambient Air (MARGA), and organic carbon (OC) and elemental carbon (EC) by a Sunset OCEC analyzer. During the data processing, both transmission efficiency (scaled with the Scanning Mobility Particle Sizer) and hit efficiency conversion were considered, and component ion intensities quantified as peak area (PA) and relative peak area (RPA) were analyzed to track the performance. The comparison between the scaled particle mass assuming a particle density of 1.9 g cm(-3) from SPAMS and PM2.5 concentration showed good correlation (R-2 = 0.81) with a slope of 0.814 +/- 0.004. Regression analysis results suggest an improved scaling performance using RPA compared with PA for most of the major PM2.5 components, including sulfate, nitrate, potassium, ammonium, OC and EC. Thus, we recommend preferentially scaling these species using the RPA. For periods of high K+ concentrations (>1.5 mu g m(-3)), under-estimation of K+ by SPAMS was observed due to exceeding the dynamic range of the acquisition board. When only applying the hit efficiency correction, data for sulfate, nitrate, ammonium, potassium and OC were in reasonably good correlation (R-2 = 0.56-0.79) with the bulk measurements, suggesting semi-quantified data by the hit efficiency correction can be utilized when transmission efficiency correction is not available. More inter-comparisons of this type are needed to assess the inter-instrument variability among different SPAMS instruments. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Zhou, Yang; Huang, X. H. Hilda] Hong Kong Univ Sci & Technol, Inst Environm, Kowloon, Hong Kong, Peoples R China.
+   [Zhou, Yang] Ocean Univ China, Coll Ocean & Atmospher Sci, Key Lab Phys Oceanog, Qingdao 266100, Peoples R China.
+   [Griffith, Stephen M.; Yu, Jian Zhen] Hong Kong Univ Sci & Technol, Dept Chem, Kowloon, Hong Kong, Peoples R China.
+   [Li, Mei; Li, Lei; Zhou, Zhen] Jinan Univ, Inst Atmospher Environm Safety & Pollut Control, Guangzhou 510632, Guangdong, Peoples R China.
+   [Wu, Cheng; Meng, Junwang; Chan, Chak K.; Yu, Jian Zhen] Hong Kong Univ Sci & Technol, Div Environm, Kowloon, Hong Kong, Peoples R China.
+   [Chan, Chak K.] Hong Kong Univ Sci & Technol, Dept Chem & Biomol Engn, Kowloon, Hong Kong, Peoples R China.
+   [Chan, Chak K.] City Univ Hong Kong, Sch Energy & Environm, Kowloon, Hong Kong, Peoples R China.
+   [Louie, Peter K. K.] Hong Kong Environm Protect Dept, Wan Chai, Hong Kong, Peoples R China.
+RP Li, M (reprint author), Jinan Univ, Inst Atmospher Environm Safety & Pollut Control, Guangzhou 510632, Guangdong, Peoples R China.; Yu, JZ (reprint author), Hong Kong Univ Sci & Technol, Div Environm, Kowloon, Hong Kong, Peoples R China.
+EM limei2007@163.com; jian.yu@ust.hk
+RI Yu, Jian/A-9669-2008; wu, cheng/I-3436-2013; Chan, Chak/D-8471-2013
+OI Yu, Jian/0000-0002-6165-6500; wu, cheng/0000-0003-1288-968X; Chan,
+   Chak/0000-0001-9687-8771; ling, li/0000-0003-2335-6969
+FU Environment and Conservation Fund/Woo Wheelock Green Fund [ECWW09EG04];
+   Strategic Priority Research Program (B) of the Chinese Academy of
+   Sciences [XDB05040502]
+FX We are indebted to the late Professor Jiamo Fu for initiating this work.
+   This work was supported by the Environment and Conservation Fund/Woo
+   Wheelock Green Fund (ECWW09EG04) and Strategic Priority Research Program
+   (B) of the Chinese Academy of Sciences (Grant No. XDB05040502). We thank
+   HKEPD for provision of the MARGA and real-time PM<INF>2.5</INF>
+   datasets.
+CR Allen J.O., 2001, SOFTWARE TOOLKIT ANA
+   Allen JO, 2006, AEROSOL SCI TECH, V40, P615, DOI 10.1080/02786820600754623
+   Allen JO, 2000, ENVIRON SCI TECHNOL, V34, P211, DOI 10.1021/es9904179
+   Bhave PV, 2002, ENVIRON SCI TECHNOL, V36, P2154, DOI 10.1021/es0112700
+   Bi XH, 2011, ATMOS ENVIRON, V45, P3447, DOI 10.1016/j.atmosenv.2011.03.034
+   Bian Q, 2014, ATMOS CHEM PHYS, V14, P9013, DOI 10.5194/acp-14-9013-2014
+   Buonanno G, 2009, AEROSOL SCI TECH, V43, P1130, DOI 10.1080/02786820903204078
+   Dall'Osto M, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004747
+   Dall'Osto M, 2006, ENVIRON SCI TECHNOL, V40, P5029, DOI 10.1021/es050951i
+   Dallmann TR, 2014, ATMOS CHEM PHYS, V14, P7585, DOI 10.5194/acp-14-7585-2014
+   DeCarlo PF, 2004, AEROSOL SCI TECH, V38, P1185, DOI 10.1080/027868290903907
+   Ferge T, 2006, ENVIRON SCI TECHNOL, V40, P3327, DOI 10.1021/es050799k
+   Fergenson DP, 2001, ANAL CHEM, V73, P3535, DOI 10.1021/ac010022j
+   Froyd KD, 2010, P NATL ACAD SCI USA, V107, P21360, DOI 10.1073/pnas.1012561107
+   Fu Huai-yu, 2014, Huanjing Kexue, V35, P4070
+   Furutani H, 2008, ATMOS ENVIRON, V42, P3130, DOI 10.1016/j.atmosenv.2007.09.024
+   Griffith SM, 2015, ATMOS ENVIRON, V122, P864, DOI 10.1016/j.atmosenv.2015.02.009
+   Gross DS, 2000, ANAL CHEM, V72, P416, DOI 10.1021/ac990434g
+   Hatch LE, 2014, AEROSOL SCI TECH, V48, P1050, DOI 10.1080/02786826.2014.955907
+   He LY, 2011, J GEOPHYS RES-ATMOS, V116, DOI 10.1029/2010JD014566
+   Healy RM, 2014, ATMOS CHEM PHYS, V14, P6289, DOI 10.5194/acp-14-6289-2014
+   Healy RM, 2013, ATMOS CHEM PHYS, V13, P9479, DOI 10.5194/acp-13-9479-2013
+   Healy RM, 2010, ATMOS CHEM PHYS, V10, P9593, DOI 10.5194/acp-10-9593-2010
+   Healy RM, 2014, J GEOPHYS RES-ATMOS, V119, P9567, DOI 10.1002/2014JD021888
+   Herich H, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD011574
+   Huang XHH, 2014, AEROSOL AIR QUAL RES, V14, P237, DOI 10.4209/aaqr.2013.01.0020
+   Jayne JT, 2000, AEROSOL SCI TECH, V33, P49, DOI 10.1080/027868200410840
+   Jeong CH, 2011, ATMOS CHEM PHYS, V11, P7027, DOI 10.5194/acp-11-7027-2011
+   Lake DA, 2003, ENVIRON SCI TECHNOL, V37, P3268, DOI 10.1021/es026270u
+   Lee BP, 2013, AEROSOL SCI TECH, V47, P1030, DOI 10.1080/02786826.2013.810809
+   Li L, 2014, ATMOS ENVIRON, V94, P323, DOI 10.1016/j.atmosenv.2014.03.048
+   Li L, 2011, INT J MASS SPECTROM, V303, P118, DOI 10.1016/j.ijms.2011.01.017
+   Li M, 2012, CHINESE J ANAL CHEM, V40, P936, DOI 10.1016/S1872-2040(11)60555-0
+   Massoli P, 2015, J GEOPHYS RES-ATMOS, V120, P2575, DOI 10.1002/2014JD022834
+   McMurry PH, 2002, AEROSOL SCI TECH, V36, P227, DOI 10.1080/027868202753504083
+   Meng JW, 2014, ATMOS CHEM PHYS, V14, P10267, DOI 10.5194/acp-14-10267-2014
+   Moffet RC, 2008, ATMOS CHEM PHYS, V8, P4499, DOI 10.5194/acp-8-4499-2008
+   Moffet RC, 2004, AEROSOL SCI TECH, V38, P1123, DOI 10.1080/027868290890344
+   Moffet RC, 2009, P NATL ACAD SCI USA, V106, P11872, DOI 10.1073/pnas.0900040106
+   Morawska L, 1999, ATMOS ENVIRON, V33, P1983, DOI 10.1016/S1352-2310(98)00433-6
+   Murphy DM, 2007, MASS SPECTROM REV, V26, P150, DOI 10.1002/mas.20113
+   Neubauer KR, 1998, ATMOS ENVIRON, V32, P2521, DOI 10.1016/S1352-2310(98)00005-3
+   Onasch TB, 2012, AEROSOL SCI TECH, V46, P804, DOI 10.1080/02786826.2012.663948
+   Prather KA, 2008, ANNU REV ANAL CHEM, V1, P485, DOI 10.1146/annurev.anchem.1.031207.113030
+   Pratt KA, 2009, ENVIRON SCI TECHNOL, V43, P5276, DOI 10.1021/es803189n
+   Qin XY, 2006, ANAL CHEM, V78, P6169, DOI 10.1021/ac060395q
+   Qin XY, 2012, ATMOS ENVIRON, V59, P587, DOI 10.1016/j.atmosenv.2012.05.032
+   Reilly PTA, 2000, AEROSOL SCI TECH, V33, P135, DOI 10.1080/027868200410895
+   Reinard MS, 2007, ATMOS ENVIRON, V41, P9397, DOI 10.1016/j.atmosenv.2007.09.001
+   Reinard MS, 2008, J AM SOC MASS SPECTR, V19, P389, DOI 10.1016/j.jasms.2007.11.017
+   Sioutas C, 1999, AEROSOL SCI TECH, V30, P84, DOI 10.1080/027868299304903
+   Sodeman DA, 2005, ENVIRON SCI TECHNOL, V39, P4569, DOI [10.1021/es0489947, 10.1021/eso0489947]
+   Spencer MT, 2006, AEROSOL SCI TECH, V40, P585, DOI 10.1080/02786820600729138
+   Wenzel RJ, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2001JD001563
+   Wenzel RJ, 2004, RAPID COMMUN MASS SP, V18, P1525, DOI [10.1002/rcm.1509, 10.1002/rcm.1517]
+   Wu C., 2016, EVALUATION LIN UNPUB
+   Yang F, 2009, ATMOS ENVIRON, V43, P3876, DOI 10.1016/j.atmosenv.2009.05.002
+   Zelenyuk A, 2006, ANAL CHEM, V78, P6942, DOI 10.1021/ac061184o
+   Zhang G, 2013, ATMOS CHEM PHYS, V13, P4723, DOI 10.5194/acp-13-4723-2013
+   Zhang GH, 2015, ATMOS RES, V153, P286, DOI 10.1016/j.atmosres.2014.08.016
+   Zhang GH, 2014, ATMOS ENVIRON, V92, P162, DOI 10.1016/j.atmosenv.2014.04.018
+   Zhang GH, 2013, URBAN CLIM, V4, P74, DOI 10.1016/j.uclim.2013.05.002
+   Zhang GH, 2014, CHEMOSPHERE, V95, P9, DOI 10.1016/j.chemosphere.2013.04.046
+   Zhang GH, 2012, ATMOS ENVIRON, V55, P121, DOI 10.1016/j.atmosenv.2012.03.038
+   Zhou Y, 2015, J GEOPHYS RES-ATMOS, V120, P9772, DOI 10.1002/2015JD023531
+NR 65
+TC 6
+Z9 6
+U1 11
+U2 67
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD OCT
+PY 2016
+VL 143
+BP 300
+EP 312
+DI 10.1016/j.atmosenv.2016.08.054
+PG 13
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA DW8VA
+UT WOS:000383932400028
+DA 2019-03-26
+ER
+
+PT J
+AU Rocha, AM
+   Gonzalez-Reyes, A
+   Corronca, J
+   Rodriguez-Artigas, S
+   Doma, I
+   Repp, EY
+   Acosta, X
+AF Mariana Rocha, Alejandra
+   Gonzalez-Reyes, Andrea
+   Corronca, Jose
+   Rodriguez-Artigas, Sandra
+   Doma, Irene
+   Yanina Repp, Elma
+   Acosta, Ximena
+TI Tardigrade diversity: an evaluation of natural and disturbed
+   environments of the province of Salta (Argentina)
+SO ZOOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+LA English
+DT Article; Proceedings Paper
+CT 13th International Symposium on Tardigrada
+CY JUN 23-26, 2015
+CL Univ Modena & Reggio Emilia, Modena, ITALY
+SP Soc Naturalisti & Matematici Modena, Museo Storia Naturale Verona
+HO Univ Modena & Reggio Emilia
+DE beta diversity; biotic homogenization; community changes; nested
+   pattern; rural habitats
+ID MOSS-DWELLING ANIMALS; MEDIUM-SIZED CITY; SOUTH-AMERICA; BIOTIC
+   HOMOGENIZATION; SPECIES ASSEMBLAGES; ALPHA-DIVERSITY; AIR-POLLUTION;
+   EUTARDIGRADA; HETEROTARDIGRADA; MILNESIIDAE
+AB Argentine tardigrades are relatively unknown and, in many cases, unstudied; in the province of Salta in north-western Argentina the lone record of tardigrade dates to the 1980s. Here, we evaluate and compare tardigrade diversity in natural habitats (N), urban environments (U) and rural communities (R) of Yungas. This work seeks to verify the existence of a reduction in tardigrade diversity outside their native habitats and if there is a biotic homogenization in the urban communities. Tardigrade community assemblages were compared between habitats using non-metric multidimensional scaling and a multi-response permutation procedure. Beta diversity was analysed in its component parts, species turnover and nesting, using a modified Raup-Crick test. Gamma diversity was divided into alpha and several beta levels. In total, 2080 eutardigrade and heterotardigrade specimens were registered and showed differences in tardigrade assemblages between habitats; the most diverse habitat was R. The beta diversity partition showed a nesting pattern in the U communities, highlighting faunal homogenization, while species turnover was key in the R and N communities. There was species loss from N to U communities, most markedly between R and U; various forces (both stochastic and deterministic) influence the structure of these communities.
+C1 [Mariana Rocha, Alejandra; Doma, Irene; Yanina Repp, Elma] Univ Nacl La Pampa, Fac Ciencias Exactas & Nat, 151 Uruguay Ave, RA-6300 Santa Rosa, La Pampa, Argentina.
+   [Gonzalez-Reyes, Andrea; Corronca, Jose; Rodriguez-Artigas, Sandra; Acosta, Ximena] Univ Nacl Salta, Fac Ciencias Nat, Inst Estudio Biodiversidad Invertebrados, 5150 Bolivia Ave, RA-4400 Salta, Argentina.
+   [Corronca, Jose; Rodriguez-Artigas, Sandra; Acosta, Ximena] CONICET CCT Salta, Consejo Nacl Invest Cientificas & Tecn Argentina, 5150 Bolivia Ave, RA-4400 Salta, Argentina.
+RP Rocha, AM (reprint author), Univ Nacl La Pampa, Fac Ciencias Exactas & Nat, 151 Uruguay Ave, RA-6300 Santa Rosa, La Pampa, Argentina.
+EM rochaale64@hotmail.com
+CR Adams Lowell W., 2005, P714
+   Baselga A, 2013, BETAPART PARTITIONIN
+   Baselga A, 2010, GLOBAL ECOL BIOGEOGR, V19, P134, DOI 10.1111/j.1466-8238.2009.00490.x
+   Brown AD, 2002, ECOTROPICOS, V15, P147
+   Brown AD, 2006, SITUACION AMBIENTAL, P53
+   Chao A, 2012, USERS GUIDE PROGRAM
+   Chao A., 2010, PROGRAM SPADE SPECIE
+   Chase JM, 2011, ECOSPHERE, V2, DOI 10.1890/ES10-00117.1
+   CLAPS M C, 1984, Acta Zoologica Lilloana, V38, P45
+   Crist TO, 2003, AM NAT, V162, P734, DOI 10.1086/378901
+   de Peluffo MCM, 2006, HYDROBIOLOGIA, V558, P141, DOI 10.1007/s10750-005-1413-9
+   Degma P, 2009, ACTUALCHECKLIST TARD
+   Degma P, 2007, ZOOTAXA, P41, DOI 10.11646/zootaxa.1579.1.2
+   Dufrene M, 1997, ECOL MONOGR, V67, P345, DOI 10.1890/0012-9615(1997)067[0345:SAAIST]2.0.CO;2
+   Feinsinger P., 2003, DISENO ESTUDIOS CAMP
+   GRIGARICK AA, 1983, PAN-PAC ENTOMOL, V59, P64
+   Guidetti R, 2005, ZOOTAXA, P1, DOI 10.11646/zootaxa.845.1.1
+   HAMMER O., 2001, PALAEONTOL ELECTRON, V4, P1, DOI DOI 10.1016/J.BCP.2008.05.025
+   HILL MO, 1973, ECOLOGY, V54, P427, DOI 10.2307/1934352
+   Johansson C, 2011, PAN-PAC ENTOMOL, V87, P86, DOI 10.3956/2010-27.1
+   Jost L, 2006, OIKOS, V113, P363, DOI 10.1111/j.2006.0030-1299.14714.x
+   Jost L, 2007, ECOLOGY, V88, P2427, DOI 10.1890/06-1736.1
+   Krebs C.J, 1999, ECOLOGICAL METHODOLO
+   Londono R, 2015, ZOOTAXA, V3955, P561, DOI 10.11646/zootaxa.3955.4.7
+   Magurran A.E., 2004, MEASURING BIOL DIVER
+   Marcus E.du B.R., 1944, Comunicaciones Zoologicas del Museo de Historia Natural de Montevideo, V1, P1
+   Martinez-Morales MA, 2005, OIKOS, V108, P634, DOI 10.1111/j.0030-1299.2005.13706.x
+   MAUCCI W, 1988, Revista Chilena de Entomologia, V16, P5
+   McCune B, 2011, PC ORD MULTIVARIATE
+   McGeoch MA, 2002, J APPL ECOL, V39, P661, DOI 10.1046/j.1365-2664.2002.00743.x
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   McKinney ML, 1999, TRENDS ECOL EVOL, V14, P450, DOI 10.1016/S0169-5347(99)01679-1
+   MEININGER CA, 1985, URBAN ECOL, V9, P45, DOI 10.1016/0304-4009(85)90016-6
+   Meyer HA, 2013, WEST N AM NATURALIST, V73, P295, DOI 10.3398/064.073.0305
+   Michalczyk L, 2005, NEW ZEAL J ZOOL, V32, P287, DOI 10.1080/03014223.2005.9518420
+   Michalczyk L, 2006, ZOOTAXA, P1
+   Moreno CE, 2011, REV MEX BIODIVERS, V82, P1249
+   Morgan CI, 1977, J ANIM ECOL, V46, P236
+   Musso H, 2002, AVANCES ENERGIAS REN, V6, P17
+   Musso H, 2012, J ARGENT CHEM SOC, V99, P1
+   N McAleece, 1997, BIODIVERSITY PROFESS
+   Nelson D.R., 1987, Collana U.Z.I. Selected Symposia and Monographs, P141
+   NELSON DR, 1982, AM ZOOL, V22, P940
+   Nickel K, 2001, ZOOL ANZ, V240, P505, DOI 10.1078/0044-5231-00060
+   Olden JD, 2006, GLOBAL ECOL BIOGEOGR, V15, P113, DOI 10.1111/j.1466-822x.2006.00214.x
+   Olden JD, 2003, AM NAT, V162, P442, DOI 10.1086/378212
+   Olivo V. I., 2015, Revista de la Facultad de Agronomia (La Plata), V114, P82
+   Ortega V, 2011, THESIS
+   Peluffo J. R., 2007, Animal Biodiversity and Conservation, V30, P43
+   Pereira SG, 2001, 8 ENC GEOGR AM LAT C
+   Pilato G, 2004, J NAT HIST, V38, P1081, DOI 10.1080/0022293031000071541
+   Pilato G, 2002, STUD NEOTROP FAUNA E, V37, P175, DOI 10.1076/snfe.37.2.175.8584
+   Pilato G, 2007, ZOOTAXA, P55
+   Pilato Giovanni, 2003, Zootaxa, V195, P1
+   Pilato Giovanni, 1991, Animalia (Catania), V17, P61
+   Ramazzotti G., 1964, Atti della Societa Italiana di Scienze Naturali, V103, P89
+   Rooney TP, 2007, BIOL CONSERV, V134, P447, DOI 10.1016/j.biocon.2006.07.008
+   Roszkowska M, 2015, ZOOL STUD, V54, DOI 10.1186/s40555-014-0082-7
+   SEMERIA Y, 1982, Bulletin Mensuel de la Societe Linneenne de Lyon, V51, P315
+   SEMERIA Y, 1981, Bulletin Mensuel de la Societe Linneenne de Lyon, V50, P231
+   STEINER WA, 1994, REV SUISSE ZOOL, V101, P699, DOI 10.5962/bhl.part.79925
+   STEINER WA, 1994, REV SUISSE ZOOL, V101, P1017, DOI 10.5962/bhl.part.79937
+   TOTHMERESZ B, 1995, J VEG SCI, V6, P283, DOI 10.2307/3236223
+   Ulrich W, 2009, OIKOS, V118, P3, DOI 10.1111/j.1600-0706.2008.17053.x
+   Veech JA, 2009, PARTITION SOFTWARE H
+   Vicente F, 2013, ZOOTAXA, V3626, P245, DOI 10.11646/zootaxa.3626.2.2
+   Wilson JB, 1996, J ECOL, V84, P527, DOI 10.2307/2261475
+   WRIGHT DH, 1992, OECOLOGIA, V92, P416, DOI 10.1007/BF00317469
+   WRIGHT JC, 1991, J ZOOL, V224, P59, DOI 10.1111/j.1469-7998.1991.tb04788.x
+NR 69
+TC 1
+Z9 1
+U1 4
+U2 23
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0024-4082
+EI 1096-3642
+J9 ZOOL J LINN SOC-LOND
+JI Zool. J. Linn. Soc.
+PD DEC
+PY 2016
+VL 178
+IS 4
+BP 755
+EP 764
+DI 10.1111/zoj.12476
+PG 10
+WC Zoology
+SC Zoology
+GA ED1RO
+UT WOS:000388622800005
+OA Bronze
+DA 2019-03-26
+ER

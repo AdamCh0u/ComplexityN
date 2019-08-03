@@ -1,0 +1,804 @@
+
+PT J
+AU Collins-Elliott, SA
+AF Collins-Elliott, Stephen A.
+TI A Behavioral Analysis of Monetary Exchange and Craft Production in Rural
+   Tuscany via Small Finds from the Roman Peasant Project
+SO JOURNAL OF MEDITERRANEAN ARCHAEOLOGY
+LA English
+DT Article
+DE craft production; exchange; multidimensional scaling; ontology; Roman
+   Tuscany; small finds
+ID EXCAVATIONS; ARCHAEOLOGY
+AB Roman archaeology has long made use of an urban-rural dichotomy to conceptualize and frame questions about the material record, carrying over values of urbanism and rusticity explicit in ancient textual sources. The construction of rural culture deserves articulation not as a received idea, but through comparison of actual assemblages recovered from archaeological contexts in the countryside. Accordingly, this paper uses the small finds from the Roman Peasant Project (2009-2014), a project to study the lives of the ancient inhabitants of the comune of Cinigiano (GR), to investigate behavioral patterns at seven sites in south-central Tuscany. I utilize a computational approach which automates the process of interpreting finds as indices of different behaviors and I compare the socioeconomic landscape of this rural community in two broad periods, the late Republican / Julio-Claudian and Late Antique. I show not only that a formal, quantitative approach to the categorization of finds and comparison of site functionality can be used to measure overall variability in each period, but also that it is possible to assess the behavioral factors that lay behind the makeup of the Roman rural economy in this region. In the earlier period, peasants' lives were distinguished by lower levels of coin circulation and greater variability in site investment, although with a more homogenous lifestyle. In Late Antiquity, craft production and coin-based exchange were much more diffuse throughout society, perhaps indicating diminishing networks of long-term reciprocity and interdependency among different communities as local production and cash transactions became more common.
+C1 [Collins-Elliott, Stephen A.] Univ Tennessee, Dept Class, 1101 McClung Tower, Knoxville, TN 37996 USA.
+RP Collins-Elliott, SA (reprint author), Univ Tennessee, Dept Class, 1101 McClung Tower, Knoxville, TN 37996 USA.
+EM sce@utk.edu
+FU University of Tennessee Professional Development Award; University of
+   Tennessee Humanities Center Fellowship
+FX An earlier version of this paper which used correspondence analysis with
+   the bootstrap was presented at the colloquium 'Small Finds; Writ Large'
+   at the 118th AIA/SCS Joint Annual Meeting in Toronto in 2017, for which
+   I would like to thank the colloquium organizers, Leigh Lieberman and Cat
+   Baker, as well as Lisa Fentress for her insightful and stimulating
+   response. I would also like to thank the anonymous JMA reviewers and
+   editors for their helpful comments. The work was supported by a
+   University of Tennessee Professional Development Award (2016), and it
+   also would not have been possible to complete this research without the
+   award of a University of Tennessee Humanities Center Fellowship
+   (2015-2016). I would also like to extend my thanks to Gabriella Poggesi
+   and the staff of the Soprintendenza per i beni archeologici in Grosseto
+   for their kind accommodation, as well as the directors of the Roman
+   Peasant Project, namely Kim Bowes, Marielena Ghisleni, Cam Grey, and
+   Emanuele Vaccaro, for their permission to study their material. Coins
+   from the 2009 and 2010 seasons were identified by Flavia Marani. My
+   great thanks to John Mitchell for his instruction on small finds, and
+   much gratitude as well to Cara Cugley Coggan for her exceptional
+   assistance during the 2013-2014 seasons. All images and errors are my
+   own.
+CR Aarts J., 2005, ARCHAEOL DIALOG, V12.1, P1, DOI DOI 10.1017/S1380203805211625
+   Adam A. -M, 1984, BRONZES ETRUSQUES IT
+   Akerraz A, 2017, FASTI ONLINE DOCUMEN, V5
+   Alberti B, 2016, ANNU REV ANTHROPOL, V45, P163, DOI 10.1146/annurev-anthro-102215-095858
+   Bench-Capon T., 1999, Database and Expert Systems Applications. 10th International Conference, DEXA'99 (Lecture Notes in Computer Science Vol.1677), P250
+   Bishop M. C., 1988, BAR INT SERIES, V394
+   Boube-Piccot C, 1980, BRONZES ANTIQUES MAR
+   Bowes K, 2015, PLANT BIOSYST, V149, P174, DOI 10.1080/11263504.2014.992997
+   Braund SH, 1989, SATIRE SOC ANCIENT R, P23
+   Caylus A. C. P, 1757, RECUEIL ANTIQUITES S
+   Clarke David, 1978, ANAL ARCHAEOLOGY
+   Cool H. E. M., 2006, J ROMAN ARCHAEOLOGY
+   COWGILL GL, 1977, AM ANTIQUITY, V42, P350, DOI 10.2307/279061
+   de Tibeiro JJS, 2010, BAYESIAN ANAL, V5, P519, DOI 10.1214/10-BA520
+   DeLigt L, 1990, MBAH, V9, P24
+   Dossey L, 2010, PEASANT EMPIRE CHRIS, DOI [10.1525/california/9780520254398.001.0001, DOI 10.1525/CALIFORNIA/9780520254398.001.0001]
+   Ellis S., 2017, EC POMPEII, P293
+   Felici C, 2016, FASTI ONLINE DOCUMEN, V367, P1
+   Feugere M., 2010, LUCERNA, V39, P4
+   Feugere M., 2002, GLADIUS, V22, P73
+   Foxhall L, 2004, CHORA POLIS, V54, P249
+   Foxhall L., 2001, JMA, V14, P216
+   Gardner A, 2007, ROMAN FINDS CONTEXT, P128
+   Ghisleni M, 2009, 5 C NAZ ARCH MED FLO, P243
+   Ghisleni M, 2011, PAP BRIT SCH ROME, V79, P95, DOI 10.1017/S0068246211000067
+   Goodman Penelope, 2007, ROMAN CITY ITS PERIP
+   Grau Mira I, 2013, PAYSAGES RURAUX TERR, P53
+   Greenacre M. J, 2007, CORRES ANAL PRACTICE, DOI [10.1201/9781420011234, DOI 10.1201/9781420011234]
+   Grey C, 2015, J MEDITERR ARCHAEOL, V28, P61
+   Grey C, 2011, CONSTRUCTING COMMUNI, DOI [10.1017/CBO-9780511994739, DOI 10.1017/CBO-9780511994739]
+   Harl K. W, 2015, MONEY PREINDUSTRIAL, P33
+   HARL K.W., 1996, COINAGE ROMAN EC 300
+   Harris WV, 2006, J ROMAN STUD, V96, P1
+   Haselgrove C, 2012, ANNU REV ANTHROPOL, V41, P235, DOI 10.1146/annurev-anthro-092611-145716
+   Hermon S., 2003, DIGITAL HERITAGE ARC, P307
+   HOWGEGO C, 1992, J ROMAN STUD, V82, P1, DOI 10.2307/301282
+   Hoyer D., 2018, I STUDY ANCIENT WORL, V13
+   Kalfoglou Y, 2005, KNOWL ENG REV, V18, P1
+   Katsari C, 2008, MONETARY SYSTEMS GRE, P242, DOI 10.1093/acprof:oso/9780199233359.003.0013
+   Kemmers F, 2011, ARCHAEOL DIALOG, V18, P87, DOI 10.1017/S1380203811000146
+   Launaro A., 2011, PEASANTS SLAVES RURA
+   Lockyear K., 2000, OXFORD J ARCHAEOL, V19, P397, DOI 10.1111/1468-0092.00118
+   Lockyear K, 2013, J ARCHAEOL SCI, V40, P4744, DOI 10.1016/j.jas.2012.08.035
+   McDaniel W. B, 1918, AM J ARCHAEOL, V22, P25, DOI [10.2307/497356, DOI 10.2307/497356]
+   Molm LD, 2007, AM J SOCIOL, V113, P205, DOI 10.1086/517900
+   Morse E. S., 1894, B ESSEX I, V26, P141
+   Muller M, 2002, ROMISCHEN BUNTMETALL
+   Niccolucci F, 2001, BRIT ARCHAEOL REP IN, VS931, P107
+   Orton C. R, 1997, OXFORD J ARCHAEOL, V16, P219, DOI [10.1111/1468-0092.00036, DOI 10.1111/1468-0092.00036]
+   Osborne R, 2001, JMA, V14, P212
+   Osborne R., 1985, ANNU BRIT SCH ATHENS, V80, P119, DOI 10.1017/S006824540000753X
+   Peeples MA, 2012, J ARCHAEOL SCI, V39, P2818, DOI 10.1016/j.jas.2012.04.040
+   Pettegrew D. K., 2001, JMA, V14, P189
+   Pitts M., 2010, FACTA, V4, P125
+   Pitts M, 2008, J ANTHROPOL ARCHAEOL, V27, P493, DOI 10.1016/j.jaa.2008.08.003
+   Purcell N, 1995, URBAN SOC ROMAN ITAL, P151
+   Purcell N., 1987, ANCIENT ROMAN VILLA, P187
+   R Core Team, 2017, R LANG ENV STAT COMP
+   Ramage E. S., 1973, URBANITAS ANCIENT SO
+   Reece R, 1996, COIN FINDS COIN USE, P341
+   Ringrose TJ, 2012, J STAT COMPUT SIM, V82, P1397, DOI 10.1080/00949655.2011.579968
+   Ripolles P. P, 2009, CURS HIST MONETARIA, V13, P105
+   Roppa A., 2013, SAGUNTUM EXTRA, V14
+   Saglio E, 1873, DICT ANTIQUITES GREC, VI, P388
+   Sannibale M, 1998, STUDIA ARCHAEOLOGICA, V92
+   Schorner G, 2012, J ROMAN ARCHAEOLOG S, V88
+   Stevenson S. Y, 1912, BPM, V10, P55, DOI 10.2307/3793697
+   Strobel P, 1889, BULLETTINO PALENTOLO, V15, P11
+   Strobel P, 1888, BULLETTINO PALENTOLO, V14, P92
+   Thibodeau P, 2011, PLAYING THE FARMER: REPRESENTATIONS OF RURAL LIFE IN VERGIL'S GEORGICS, P1, DOI 10.1525/california/9780520268326.001.0001
+   Vaccaro E., 2017, RURAL COMMUNITIES GL, P231
+   Vaccaro E., 2014, HEROM J HELLENISTIC, V3, P225, DOI [10.11116/HEROM.3.5, DOI 10.11116/HEROM.3.5]
+   Vaccaro E, 2009, GEOGRAFIE POPOLAMENT, P285
+   Vaccaro E, 2013, PAP BRIT SCH ROME, V81, P129, DOI 10.1017/S006824621300007X
+   van den Berg RA, 2006, BMC GENOMICS, V7, DOI 10.1186/1471-2164-7-142
+   von Reden S., 2010, MONEY CLASSICAL ANTI, DOI [10.1017/CBO9780511763069, DOI 10.1017/CBO9780511763069]
+   Wasserstein RL, 2016, AM STAT, V70, P129, DOI 10.1080/00031305.2016.1154108
+   White K. D, 1967, AGR IMPLEMENTS ROMAN
+   White KD, 1975, FARM EQUIPMENT ROMAN
+   Witcher R, 2008, PEOPLE LAND POLITICS, P273
+   Witcher R., 2006, PAP BRIT SCH ROME, V74, P39, DOI DOI 10.1017/S0068246200003226
+   Witcher R, 2012, J ROMAN ARCHAEOLOG S, V88, P11
+   Witcher R. E., 2006, ARQUEOLOGIA ESPACIAL, V26, P341
+   Zampieri G., 2000, BRONZI ANTICHI MUSEO
+   Zhu JW, 2012, PHYSCS PROC, V24, P1857, DOI 10.1016/j.phpro.2012.02.273
+NR 85
+TC 0
+Z9 0
+U1 0
+U2 0
+PU EQUINOX PUBLISHING LTD
+PI SHEFFIELD
+PA 415, THE WORKSTATION, 15 PATERNOSTER ROW, SHEFFIELD, S1 2BX, ENGLAND
+SN 0952-7648
+J9 J MEDITERR ARCHAEOL
+JI J. Mediterr. Archaeol.
+PY 2018
+VL 31
+IS 2
+BP 155
+EP 179
+DI 10.1558/jma.38081
+PG 25
+WC Archaeology
+SC Archaeology
+GA HK0OX
+UT WOS:000457600800002
+DA 2019-03-26
+ER
+
+PT J
+AU Wu, D
+   Lin, JC
+   Fasoli, B
+   Oda, T
+   Ye, XX
+   Lauvaux, T
+   Yang, EG
+   Kort, EA
+AF Wu, Dien
+   Lin, John C.
+   Fasoli, Benjamin
+   Oda, Tomohiro
+   Ye, Xinxin
+   Lauvaux, Thomas
+   Yang, Emily G.
+   Kort, Eric A.
+TI A Lagrangian approach towards extracting signals of urban CO2 emissions
+   from satellite observations of atmospheric column CO2 (XCO2):
+   X-Stochastic Time-Inverted Lagrangian Transport model ("X-STILT v1")
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID FOSSIL-FUEL CO2; PARTICLE DISPERSION MODEL; LOS-ANGELES MEGACITY;
+   CARBON-DIOXIDE; MESOSCALE INVERSIONS; RETRIEVAL ALGORITHM; TECHNICAL
+   NOTE; UNCERTAINTY; SURFACE; SYSTEM
+AB Urban regions are responsible for emitting significant amounts of fossil fuel carbon dioxide (FFCO2), and emissions at the finer, city scales are more uncertain than those aggregated at the global scale. Carbon-observing satellites may provide independent top-down emission evaluations and compensate for the sparseness of surface CO2 observing networks in urban areas. Although some previous studies have attempted to derive urban CO2 signals from satellite column-averaged CO2 data (XCO2) using simple statistical measures, less work has been carried out to link upwind emission sources to downwind atmospheric columns using atmospheric models. In addition to Eulerian atmospheric models that have been customized for emission estimates over specific cities, the Lagrangian modeling approach - in particular, the Lagrangian particle dispersion model (LPDM) approach - has the potential to efficiently determine the sensitivity of downwind concentration changes to upwind sources. However, when applying LPDMs to interpret satellite XCO2, several issues have yet to be addressed, including quantifying uncertainties in urban XCO2 signals due to receptor configurations and errors in atmospheric transport and background XCO2.
+   In this study, we present a modified version of the Stochastic Time-Inverted Lagrangian Transport (STILT) model, "XSTILT", for extracting urban XCO2 signals from NASA's Orbiting Carbon Observatory 2 (OCO-2) XCO2 data. X-STILT incorporates satellite profiles and provides comprehensive uncertainty estimates of urban XCO2 enhancements on a per sounding basis. Several methods to initialize receptor/particle setups and determine background XCO2 are presented and discussed via sensitivity analyses and comparisons. To illustrate X-STILT's utilities and applications, we examined five OCO-2 overpasses over Riyadh, Saudi Arabia, during a 2-year time period and performed a simple scaling factor-based inverse analysis. As a result, the model is able to reproduce most observed XCO2 enhancements. Error estimates show that the 68% confidence limit of XCO2 uncertainties due to transport (horizontal wind plus vertical mixing) and emission uncertainties contribute to similar to 33% and similar to 20% of the mean latitudinally integrated urban signals, respectively, over the five overpasses, using meteorological fields from the Global Data Assimilation System (GDAS). In addition, a sizeable mean difference of 0.55 ppm in background derived from a previous study employing simple statistics (regional daily median) leads to a similar to 39% higher mean observed urban signal and a larger posterior scaling factor. Based on our signal estimates and associated error impacts, we foresee X-STILT serving as a tool for interpreting column measurements, estimating urban enhancement signals, and carrying out inverse modeling to improve quantification of urban emissions.
+C1 [Wu, Dien; Lin, John C.; Fasoli, Benjamin] Univ Utah, Dept Atmospher Sci, Salt Lake City, UT 84112 USA.
+   [Oda, Tomohiro] Univ Space Res Assoc, Goddard Earth Sci Technol & Res, Columbia, MD USA.
+   [Oda, Tomohiro] NASA, Global Modeling & Assimilat Off, Goddard Space Flight Ctr, Greenbelt, MD USA.
+   [Ye, Xinxin; Lauvaux, Thomas] Penn State Univ, Dept Meteorol & Atmospher Sci, University Pk, PA 16802 USA.
+   [Yang, Emily G.; Kort, Eric A.] Univ Michigan, Climate & Space Sci & Engn, Ann Arbor, MI 48109 USA.
+RP Wu, D (reprint author), Univ Utah, Dept Atmospher Sci, Salt Lake City, UT 84112 USA.
+EM dien.wu@utah.edu
+RI Kort, Eric/F-9942-2012
+OI Kort, Eric/0000-0003-4940-7541; Lin, John/0000-0003-2794-184X; Yang,
+   Emily/0000-0001-5195-9279; Wu, Dien/0000-0002-2915-5335
+FU National Aeronautics and Space Administration [NNX15AI41G]; National
+   Science Foundation Graduate Research Fellowship [DGE 1256260]; Center
+   for High Performance Computing (CHPC) at the University of Utah
+FX This study is based upon work supported by the National Aeronautics and
+   Space Administration funding under grant no. NNX15AI41G and the National
+   Science Foundation Graduate Research Fellowship under grant no. DGE
+   1256260 to Emily G. Yang. We gratefully acknowledge Thomas Nehrkorn for
+   providing code modifications to facilitate the forward-time box runs,
+   and we thank Derek Mallia, Feng Deng, Arlyn Andrews, and Andy Jacobson
+   for their valuable advice on STILT-based modeling. The OCO-2 data were
+   produced by the OCO-2 project at the Jet Propulsion Laboratory,
+   California Institute of Technology, and obtained from the OCO-2 data
+   archive maintained at the NASA Goddard Earth Science Data and
+   Information Services Center. The authors acknowledge the NOAA Air
+   Resources Laboratory (ARL) for the provision of the GDAS meteorological
+   files used in this publication, which were downloaded from the READY
+   website (http://www.ready.noaa.gov, last access: 1 May 2018).
+   CarbonTracker CT-NRT.v2017 results are provided by NOAA ESRL, Boulder,
+   Colorado, USA from http://carbontracker.noaa.gov (last access: 27 July
+   2017). The support and resources from the Center for High Performance
+   Computing (CHPC) at the University of Utah are gratefully acknowledged.
+CR Andres RJ, 2011, TELLUS B, V63, P309, DOI 10.1111/j.1600-0889.2011.00530.x
+   Andres RJ, 2016, ATMOS CHEM PHYS, V16, P14979, DOI 10.5194/acp-16-14979-2016
+   Andres RJ, 2014, TELLUS B, V66, DOI 10.3402/tellusb.v66.23616
+   [Anonymous], 2014, WORLD URB PROSP 2014
+   Asefi-Najafabady S, 2014, J GEOPHYS RES-ATMOS, V119, DOI 10.1002/2013JD021296
+   Basu S, 2013, ATMOS CHEM PHYS, V13, P8695, DOI 10.5194/acp-13-8695-2013
+   Boden T. A, 2017, GLOBAL REGIONAL NATL, DOI [10.3334/CDIAC/00001_V2017, DOI 10.3334/CDIAC/00001_V2017]
+   Boesch H, 2011, REMOTE SENS-BASEL, V3, P270, DOI 10.3390/rs3020270
+   Brasseur G. P., 2017, MODELING ATMOSPHERIC
+   Cambaliza MOL, 2014, ATMOS CHEM PHYS, V14, P9029, DOI 10.5194/acp-14-9029-2014
+   Ciais P., 2013, CLIMATE CHANGE 2013
+   Crisp D, 2012, ATMOS MEAS TECH, V5, P687, DOI 10.5194/amt-5-687-2012
+   Cui YY, 2017, J GEOPHYS RES-ATMOS, V122, P3686, DOI 10.1002/2016JD026398
+   Deng AJ, 2017, ELEMENTA-SCI ANTHROP, V5, DOI 10.1525/elementa.133
+   Dlugokencky E., 2015, TRENDS ATMOSPHERIC C
+   Duren RM, 2012, NAT CLIM CHANGE, V2, P560, DOI 10.1038/nclimate1629
+   Efron B., 1986, STAT SCI, P54, DOI DOI 10.1214/SS/1177013815
+   Eldering A., 2016, EUR GEOSC UN GEN ASS, V18, P5189
+   Ellis EC, 2008, FRONT ECOL ENVIRON, V6, P439, DOI 10.1890/070062
+   Fasoli B, 2018, GEOSCI MODEL DEV, V11, P2813, DOI 10.5194/gmd-11-2813-2018
+   Feng S, 2016, ATMOS CHEM PHYS, V16, P9019, DOI 10.5194/acp-16-9019-2016
+   Fischer ML, 2017, J GEOPHYS RES-ATMOS, V122, P3653, DOI 10.1002/2016JD025617
+   Fisher JB, 2016, BIOGEOSCIENCES, V13, P4271, DOI 10.5194/bg-13-4271-2016
+   Gately CK, 2017, J GEOPHYS RES-ATMOS, V122, P11242, DOI 10.1002/2017JD027359
+   Gerbig C, 2008, ATMOS CHEM PHYS, V8, P591, DOI 10.5194/acp-8-591-2008
+   Gerbig C, 2006, ATMOS CHEM PHYS, V6, P539
+   Gerbig C, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2003JD003770
+   Gockede M., 2010, J GEOPHYS RES ATMOS, V115
+   Hakkarainen J, 2016, GEOPHYS RES LETT, V43, P11400, DOI 10.1002/2016GL070885
+   Henderson JM, 2015, ATMOS CHEM PHYS, V15, P4093, DOI 10.5194/acp-15-4093-2015
+   Heymann J, 2017, GEOPHYS RES LETT, V44, P1537, DOI 10.1002/2016GL072042
+   Hogue S, 2016, EARTHS FUTURE, V4, P225, DOI 10.1002/2015EF000343
+   Houweling S, 2004, ATMOS CHEM PHYS, V4, P523, DOI 10.5194/acp-4-523-2004
+   Huntzinger DN, 2013, GEOSCI MODEL DEV, V6, P2121, DOI 10.5194/gmd-6-2121-2013
+   Janardanan R, 2016, GEOPHYS RES LETT, V43, P3486, DOI 10.1002/2016GL067843
+   Janssens-Maenhout G., 2017, EARTH SYST SCI DATA, DOI [DOI 10.5194/ESSD-2017-79, 10. 5194/essd-2017-79]
+   Jeong S, 2013, J GEOPHYS RES-ATMOS, V118, P11339, DOI 10.1002/jgrd.50854
+   Kim SY, 2013, ENVIRON SCI TECHNOL, V47, P8316, DOI 10.1021/es4009486
+   Kort EA, 2013, J GEOPHYS RES-ATMOS, V118, P1, DOI 10.1002/jgrd.50135
+   Kort EA, 2012, GEOPHYS RES LETT, V39, DOI 10.1029/2012GL052738
+   Kort EA, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2008GL034031
+   Lauvaux T, 2014, J GEOPHYS RES-ATMOS, V119, P490, DOI 10.1002/2013JD020175
+   Lauvaux T, 2009, BIOGEOSCIENCES, V6, P1089, DOI 10.5194/bg-6-1089-2009
+   Lauvaux T, 2016, J GEOPHYS RES-ATMOS, V121, P5213, DOI 10.1002/2015JD024473
+   Lauvaux T, 2013, J APPL METEOROL CLIM, V52, P2654, DOI 10.1175/JAMC-D-13-038.1
+   Levin I, 2003, GEOPHYS RES LETT, V30, DOI 10.1029/2003GL018477
+   Lin JC, 2006, TELLUS B, V58, P331, DOI 10.1111/j.1600-0889.2006.00202.x
+   Lin JC, 2004, GEOPHYS RES LETT, V31, DOI 10.1029/2004GL020957
+   Lin JC, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2004GL021127
+   Lin JF, 2003, J GEOPHYS RES-SOL EA, V108, DOI 10.1029/2002JB001978
+   Lin JC, 2017, ATMOS CHEM PHYS, V17, P5561, DOI 10.5194/acp-17-5561-2017
+   Liu Y, 2013, CHINESE SCI BULL, V58, P1520, DOI 10.1007/s11434-013-5680-y
+   Luus KA, 2017, GEOPHYS RES LETT, V44, P1564, DOI 10.1002/2016GL070842
+   Macatangay R, 2008, ATMOS CHEM PHYS, V8, P2555, DOI 10.5194/acp-8-2555-2008
+   Mallia DV, 2015, J GEOPHYS RES-ATMOS, V120, P147, DOI 10.1002/2014JD022472
+   Mallia DV, 2017, J APPL METEOROL CLIM, V56, P2845, DOI 10.1175/JAMC-D-16-0351.1
+   Mandrake L, 2013, ATMOS MEAS TECH, V6, P2851, DOI 10.5194/amt-6-2851-2013
+   Marland G, 2008, J IND ECOL, V12, P136, DOI 10.1111/j.1530-9290.2008.00014.x
+   Mitchell LE, 2018, P NATL ACAD SCI USA, V115, P2912, DOI 10.1073/pnas.1702393115
+   Nassar R, 2017, GEOPHYS RES LETT, V44, P10045, DOI 10.1002/2017GL074702
+   Nassar R, 2013, J GEOPHYS RES-ATMOS, V118, P917, DOI 10.1029/2012JD018196
+   O'Dell CW, 2012, ATMOS MEAS TECH, V5, P99, DOI 10.5194/amt-5-99-2012
+   Oda T, 2011, ATMOS CHEM PHYS, V11, P543, DOI 10.5194/acp-11-543-2011
+   Oda T, 2015, UNCERTAINTY ASS FOSS
+   Oda T, 2018, EARTH SYST SCI DATA, V10, P87, DOI 10.5194/essd-10-87-2018
+   Olsen SC, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD003968
+   Pacala S. W, 2010, TECH REP
+   Palmer PI, 2008, PHILOS T R SOC A, V366, P4509, DOI 10.1098/rsta.2008.0176
+   Patra PK, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-13459-0
+   Peters W, 2007, P NATL ACAD SCI USA, V104, P18925, DOI 10.1073/pnas.0708986104
+   Peylin P, 2011, ATMOS CHEM PHYS, V11, P6607, DOI 10.5194/acp-11-6607-2011
+   Rayner PJ, 2010, J GEOPHYS RES-ATMOS, V115, DOI 10.1029/2009JD013439
+   Rayner PJ, 2001, GEOPHYS RES LETT, V28, P175, DOI 10.1029/2000GL011912
+   Reuter M, 2014, ATMOS CHEM PHYS, V14, P13739, DOI 10.5194/acp-14-13739-2014
+   Rodgers C. D., 2000, INVERSE METHODS ATMO
+   Rolph G, 2017, ENVIRON MODELL SOFTW, V95, P210, DOI 10.1016/j.envsoft.2017.06.025
+   Rosenzweig C, 2010, NATURE, V467, P909, DOI 10.1038/467909a
+   Schneising O, 2013, ATMOS CHEM PHYS, V13, P2445, DOI 10.5194/acp-13-2445-2013
+   Seibert P, 2004, ATMOS CHEM PHYS, V4, P51, DOI 10.5194/acp-4-51-2004
+   Shiga YP, 2018, GEOPHYS RES LETT, V45, P1122, DOI 10.1002/2017GL076630
+   Shiga YP, 2014, GEOPHYS RES LETT, V41, P4381, DOI 10.1002/2014GL059684
+   Silva SJ, 2017, REMOTE SENS-BASEL, V9, DOI 10.3390/rs9070744
+   Silva SJ, 2013, GEOPHYS RES LETT, V40, P4971, DOI 10.1002/grl.50954
+   Skamarock WC, 2008, J COMPUT PHYS, V227, P3465, DOI 10.1016/j.jcp.2007.01.037
+   Stein AF, 2015, B AM METEOROL SOC, V96, P2059, DOI 10.1175/BAMS-D-14-00110.1
+   Stephens BB, 2007, SCIENCE, V316, P1732, DOI 10.1126/science.1137004
+   Stohl A, 2005, ATMOS CHEM PHYS, V5, P2461, DOI 10.5194/acp-5-2461-2005
+   Sun Y, 2017, SCIENCE, V358, DOI 10.1126/science.aam5747
+   Sweeney C, 2015, J GEOPHYS RES-ATMOS, V120, P5155, DOI 10.1002/2014JD022591
+   Tollefson J, 2016, NATURE, V533, P446, DOI 10.1038/533446a
+   UNFCCC, NAT INV SUBM 2017
+   Venables W.N., 2002, MODERN APPL STAT S, P271, DOI DOI 10.1007/978-0-387-21706-2_10
+   Verhulst KR, 2017, ATMOS CHEM PHYS, V17, P8313, DOI 10.5194/acp-17-8313-2017
+   Wheeler D, 2008, WORK PAP, P37
+   Wong KW, 2015, ATMOS CHEM PHYS, V15, P241, DOI 10.5194/acp-15-241-2015
+   Worden JR, 2017, ATMOS MEAS TECH, V10, P2759, DOI 10.5194/amt-10-2759-2017
+   Wunch D, 2011, ATMOS CHEM PHYS, V11, P12317, DOI 10.5194/acp-11-12317-2011
+   Wunch D, 2009, GEOPHYS RES LETT, V36, DOI 10.1029/2009GL039825
+   Ye X., 2017, ATMOS CHEM PHYS DISC, P1, DOI [10.5194/acp-2017-1022, DOI 10.5194/ACP-2017-1022]
+   Yokota T, 2009, SOLA, V5, P160, DOI 10.2151/sola.2009-041
+   Zhao CF, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD011671
+   Zuromski LM, 2018, GEOPHYS RES LETT, V45, P7184, DOI 10.1029/2018GL077906
+NR 102
+TC 0
+Z9 0
+U1 7
+U2 7
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD DEC 4
+PY 2018
+VL 11
+IS 12
+BP 4843
+EP 4871
+DI 10.5194/gmd-11-4843-2018
+PG 29
+WC Geosciences, Multidisciplinary
+SC Geology
+GA HC7TY
+UT WOS:000452005700002
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Isman, M
+   Archambault, M
+   Racette, P
+   Konga, CN
+   Llaque, RM
+   Lin, D
+   Iha, K
+   Ouellet-Plamondon, CM
+AF Isman, Margaux
+   Archambault, Maude
+   Racette, Patricia
+   Konga, Charles Noel
+   Llaque, Roxana Miranda
+   Lin, David
+   Iha, Katsunori
+   Ouellet-Plamondon, Claudiane M.
+TI Ecological Footprint assessment for targeting climate change mitigation
+   in cities: A case study of 15 Canadian cities according to census
+   metropolitan areas
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Ecological Footprint; Carbon footprint; Household expenditure; Top-down
+   assessment; Carbon mitigation; Cities; Electricity; Transportation;
+   Services; Goods; Food; Sustainable Consumption
+ID CARBON FOOTPRINT; FOOD-CONSUMPTION; ENERGY; HOUSEHOLDS; PATTERNS; URBAN;
+   FRAMEWORK
+AB As the world moves towards a carbon-free future, cities have been identified as key hubs for change. They have the greatest ability to quickly develop more efficient systems and implement climate change mitigation policies. Moreover, cities will become the destination of a population migration as humanity grows globally to a population of 11 billion. In this case study, we show that the applicability of the Ecological Footprint, an overarching outcome measure of resource consumption, for targeting climate change mitigation in cities. We focus on the carbon Footprint subcomponent of the Ecological Footprint, and further translate and disaggregate the carbon Footprint into detailed classification of individual consumption according to purpose (COICOP) and analyze the Footprint of consumption associated with each of these categories for 15 Canadian cities according to census metropolitan area (CMA), from each province. The Ecological Footprint of CMAs was calculated from the consumption land use matrix (CLUM) of Canada, by scaling results according to the annual national survey of household spending from 2010 to 2015. The expenditure in electricity was also scaled with the carbon intensity factor. Our findings indicate that the carbon Footprint remains the largest contributor of the Ecological Footprint of CMAs. The carbon Footprint associated with housing varied significantly with the source of electricity production. CMAs relying on renewable energy sources have a substantially lower carbon Footprint than those relying on fossil fuel energy. The carbon Footprint associated with the operation of personal transportation was the second largest among all consumption categories. Financial services is the largest share of the carbon Footprint from service consumption. Clothing consumption caused most of the goods' carbon Footprint. A better understanding of urban planning of Canadian CMAs and promoting local consumption will improve carbon mitigation and long-term sustainability. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Isman, Margaux; Archambault, Maude; Racette, Patricia; Konga, Charles Noel; Llaque, Roxana Miranda; Ouellet-Plamondon, Claudiane M.] Ecole Technol Super, 100 Notre Dame Ouest, Montreal, PQ H3C 1K3, Canada.
+   [Lin, David; Iha, Katsunori] Global Footprint Network, 426 17th St,Suite 700, Oakland, CA 94612 USA.
+RP Ouellet-Plamondon, CM (reprint author), Ecole Technol Super, 100 Notre Dame Ouest, Montreal, PQ H3C 1K3, Canada.
+EM claudiane.ouellet-plamondon@etsmtl.ca
+FU Centre interuniversitaire quebecois de statistiques sociales (CIQSS)
+FX The authors thank Samuel Dupere from Statistics Canada for answering
+   questions on the survey of household spending throughout the writing of
+   this paper. Charles Noel Konga and Roxana Miranda Llaque received an
+   entrance scholarship from Centre interuniversitaire quebecois de
+   statistiques sociales (CIQSS).
+CR Aguiar A, 2016, J GLOB ECON ANAL, V1, P181, DOI 10.21642/JGEA.010103AF
+   Association canadienne de l'hydroelectricite, 2015, PRISM EC AN
+   Baabou W, 2017, ENVIRON SCI POLICY, V69, P94, DOI 10.1016/j.envsci.2016.12.013
+   Bellarby J., 2008, COOL FARMING CLIMATE
+   Borucke M, 2013, ECOL INDIC, V24, P518, DOI 10.1016/j.ecolind.2012.08.005
+   Bourdic L, 2012, BUILD RES INF, V40, P518, DOI 10.1080/09613218.2012.690951
+   Canada S., 2009, HUM ACT ENV ANN STAT
+   Cucek L, 2012, J CLEAN PROD, V34, P9, DOI 10.1016/j.jclepro.2012.02.036
+   Daly H., 1990, ECOL ECON, V2, P1
+   de Vries M, 2010, LIVEST SCI, V128, P1, DOI 10.1016/j.livsci.2009.11.007
+   Environment and Climate Change Canada, 2016, CLIM CHANG NAT INV R
+   Environment and Climate Change Canada, 2016, ENV IND GREENH GAS E
+   Ewing BR, 2012, ECOL INDIC, V23, P1, DOI 10.1016/j.ecolind.2012.02.025
+   Galli A, 2017, SCI TOTAL ENVIRON, V578, P383, DOI 10.1016/j.scitotenv.2016.10.191
+   Gill S.E., 2007, BUILT ENV, V33, P115, DOI DOI 10.2148/BENV.33.1.115
+   Glaeser EL, 2010, J URBAN ECON, V67, P404, DOI 10.1016/j.jue.2009.11.006
+   Global Footprint Network, 2016, NAT FOOTPR ACC
+   Global Footprint Network, 2016, CONS LAND US MATR
+   Global Footprint Network, 2009, EC FOOTPR STAND 2009
+   Gouvernment du Canada S. C., 2016, CANSIM 405 0002 GAS
+   Gouvernment of Canada S. C, 2017, CANSIM 326 0021 CONS
+   Government of Canada S. C, 2017, POP CENS METR AR
+   Heinonen J, 2014, ENERG BUILDINGS, V76, P295, DOI 10.1016/j.enbuild.2014.02.079
+   Heinonen J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/025003
+   Jones CM, 2011, ENVIRON SCI TECHNOL, V45, P4088, DOI 10.1021/es102221h
+   Sarralde JJ, 2015, RENEW ENERG, V73, P10, DOI 10.1016/j.renene.2014.06.028
+   Jouaneau C, 2016, EXPANDING BOUNDARIES: SYSTEMS THINKING IN THE BUILT ENVIRONMENT, P544
+   Kitzes J, 2009, ECOL INDIC, V9, P812, DOI 10.1016/j.ecolind.2008.09.014
+   Kuzyk LW, 2011, LOCAL ENVIRON, V16, P871, DOI 10.1080/13549839.2011.615303
+   Lin D., 2016, WORKING GUIDEBOOK NA
+   Lin D., 2015, SUSTAIN ASSESS RENEW, V179
+   Mancini MS, 2016, ECOL INDIC, V61, P390, DOI 10.1016/j.ecolind.2015.09.040
+   Moore D., 2013, METHODOLOGY CALCULAT
+   Nowak David J., 2006, Urban Forestry & Urban Greening, V4, P115, DOI 10.1016/j.ufug.2006.01.007
+   Ottelin J, 2018, J CLEAN PROD, V170, P1523, DOI 10.1016/j.jclepro.2017.09.204
+   Rees W, 1996, ENVIRON IMPACT ASSES, V16, P223, DOI 10.1016/S0195-9255(96)00022-4
+   Rees W., 1992, ENVIRON URBAN, V4, P121, DOI DOI 10.1177/095624789200400212
+   Reseau de Transport de la Capitale, 2016, RTC L ENTR
+   Song GB, 2015, SCI TOTAL ENVIRON, V529, P191, DOI 10.1016/j.scitotenv.2015.05.068
+   Toronto Transit Comission, KNOW YOUR TTC
+   Treu H, 2017, J CLEAN PROD, V161, P127, DOI 10.1016/j.jclepro.2017.05.041
+   Vaillancourt K, 2017, APPL ENERG, V195, P774, DOI 10.1016/j.apenergy.2017.03.104
+   Veeramani A, 2017, J CLEAN PROD, V162, P1398, DOI 10.1016/j.jclepro.2017.06.025
+   Verge XPC, 2013, J DAIRY SCI, V96, P6091, DOI 10.3168/jds.2013-6563
+   WACKERNAGEL M, 1998, LOCAL ENVIRON, V3, P7
+   Weber CL, 2008, ENVIRON SCI TECHNOL, V42, P3508, DOI 10.1021/es702969f
+   Wiedmann T, 2006, ECOL ECON, V56, P28, DOI 10.1016/j.ecolecon.2005.05.012
+   WILSON J, 2005, ECOLOGICAL FOOTPRINT
+NR 48
+TC 9
+Z9 9
+U1 16
+U2 40
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD FEB 10
+PY 2018
+VL 174
+BP 1032
+EP 1043
+DI 10.1016/j.jclepro.2017.10.189
+PG 12
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA FV6YD
+UT WOS:000424727100095
+DA 2019-03-26
+ER
+
+PT J
+AU Quilty, J
+   Adamowski, J
+AF Quilty, John
+   Adamowski, Jan
+TI Addressing the incorrect usage of wavelet-based hydrological and water
+   resources forecasting models for real-world applications with best
+   practices and a new forecasting framework
+SO JOURNAL OF HYDROLOGY
+LA English
+DT Article
+DE Time series; Forecasting; Wavelets; Best practices; Hydrology; Water
+   resources
+ID INPUT VARIABLE SELECTION; SUPPORT VECTOR MACHINE; CONDITIONAL MUTUAL
+   INFORMATION; ARTIFICIAL-INTELLIGENCE MODELS; EXTREME LEARNING-MACHINE;
+   NEURAL-NETWORK; LEVEL FLUCTUATIONS; HYBRID MODELS; LINEAR-REGRESSION;
+   TRANSFORM
+AB Many recent studies propose wavelet-based hydrological and water resources forecasting models that have been incorrectly developed and that cannot properly be used for real-world forecasting problems. The incorrect development of these wavelet-based forecasting models occurs during wavelet decomposition (the process of extracting high- and low-frequency information into different sub-time series known as wavelet and scaling coefficients, respectively) and as a result introduces error into the forecast model inputs. The source of this error is due to the boundary condition that is associated with wavelet decomposition (and the wavelet and scaling coefficients) and is linked to three main issues: 1) using 'future data' (i.e., data from the future that is not available); 2) inappropriately selecting decomposition levels and wavelet filters; and 3) not carefully partitioning calibration and validation data. By not addressing these boundary conditions during wavelet decomposition, incorrectly developed wavelet-based forecasting models often result in much better performance than what is realistically achievable. We demonstrate that the discrete wavelet transform (DWT) multiresolution analysis (DWT-MRA) and maximal overlap discrete wavelet transform (MODWT) multiresolution analysis (MODWT-MRA), two commonly adopted wavelet decomposition methods used in the development of hydrological and water resources wavelet-based forecasting models, suffer from these boundary conditions and cannot be used properly for real-world forecasting. However, by following a proposed set of best (correct) practices, we show that the MODWT and a trous algorithm (AT) can be used to correctly forecast target (e.g., hydrological and water resources) processes in real-world scenarios. In this vein, we contribute a set of best practices, which focusses on deriving "boundary-corrected" wavelet and scaling coefficients from time series data, overcoming the boundary condition issues and providing hydrological and water resources modellers with a justified and coherent strategy for developing wavelet-based forecasting models that may be used for real-world forecasting problems. We coalesce these best practices into a new forecasting framework named Wavelet Data-Driven Forecasting Framework (WDDFF) that uses a combination of input variable selection and data-driven models to convert "boundary-corrected" wavelet and scaling coefficients into forecasts of a target process. Through a real-world urban water demand forecasting experiment in Montreal, Canada, we demonstrate the superiority of WDDFF against benchmark forecasting models such as (non-wavelet-based) random walk, multiple linear regression, extreme learning machine, and second-order Volterra series models. For the same case study, we also show how the WDDFF provides realistic and accurate forecasts while a recently proposed wavelet-based forecasting model that adopts the (invalid) MODWT-MRA for wavelet decomposition provides incorrect and unrealistic forecasts. We conclude that WDDFF is a useful tool for forecasting real-world hydrological and water resources processes that overcomes the limitations of many earlier wavelet-based forecasting methods and should be explored further for forecasting different processes such as streamflow, rainfall, evaporation, etc.
+C1 [Quilty, John; Adamowski, Jan] McGill Univ, Dept Bioresource Engn, 21 111 Lakeshore Rd, Ste Anne De Bellevue, PQ H9X 3V9, Canada.
+RP Quilty, J (reprint author), McGill Univ, Dept Bioresource Engn, 21 111 Lakeshore Rd, Ste Anne De Bellevue, PQ H9X 3V9, Canada.
+EM johnmquilty@gmail.com
+FU NSERC Discovery and Accelerator grants
+FX The authors are grateful to the Associate Editor and anonymous reviewers
+   for their constructive comments that have significantly improved the
+   quality of this work. We thank the City of Montreal for providing the
+   urban water demand data used in this study. Requests for urban water
+   demand and meteorological data used in this study should be made through
+   the City of Montreal or obtained from Environment Canada at
+   climate.weather.gc.ca, respectively. Our appreciation is extended to
+   Maheswaran Rathinasamy for his helpful discussions regarding the a trous
+   algorithm and its relation to the boundary condition problem. Funding
+   for this research was provided by NSERC Discovery and Accelerator grants
+   held by Jan Adamowski.
+CR Adamowski J, 2012, WATER RESOUR RES, V48, DOI 10.1029/2010WR009945
+   Adamowski J, 2011, J HYDROL, V407, P28, DOI 10.1016/j.jhydrol.2011.06.013
+   Adamowski J, 2010, J HYDROL, V390, P85, DOI 10.1016/j.jhydrol.2010.06.033
+   Adaniowski JF, 2008, HYDROL PROCESS, V22, P4877, DOI 10.1002/hyp.7107
+   Adarnowski JF, 2008, J HYDROL, V353, P247, DOI 10.1016/j.jhydrol.2008.02.013
+   Afan HA, 2016, J HYDROL, V541, P902, DOI 10.1016/j.jhydrol.2016.07.048
+   Aggarwal SK, 2008, INT J ENERGY SECT MA, V2, P521, DOI 10.1108/17506220810919054
+   Akrami SA, 2014, NEURAL COMPUT APPL, V25, P1853, DOI 10.1007/s00521-014-1675-0
+   Alizadeh MJ, 2018, J HYDROL, V567, P821, DOI [10.1016/j.jhydrol.2017.03.032, 10.1016/j.jhydrol.2017.01.007]
+   Alizadeh MJ, 2015, MAR POLLUT BULL, V98, P171, DOI 10.1016/j.marpolbul.2015.06.052
+   Alsberg BK, 1998, ANAL CHIM ACTA, V368, P29, DOI 10.1016/S0003-2670(98)00194-9
+   Altunkaynak A, 2003, HYDROL EARTH SYST SC, V7, P235, DOI 10.5194/hess-7-235-2003
+   Altunkaynak A, 2017, J WATER RES PLAN MAN, V143, DOI [10.1061/(ASCE)WR.1943-5452.0000761, 10.1061/(asce)wr.1943-5452.0000761]
+   Andersen CM, 2010, J CHEMOMETR, V24, P728, DOI 10.1002/cem.1360
+   Aussem A., 1998, J COMPUTATIONAL INTE, V6, P5
+   Bachour R, 2016, STOCH ENV RES RISK A, V30, P103, DOI 10.1007/s00477-015-1039-z
+   Bakshi BR, 1999, J CHEMOMETR, V13, P415, DOI 10.1002/(SICI)1099-128X(199905/08)13:3/4<415::AID-CEM544>3.0.CO;2-8
+   Barzegar R, 2018, STOCH ENV RES RISK A, V32, P799, DOI 10.1007/s00477-017-1394-z
+   Barzegar R, 2017, SCI TOTAL ENVIRON, V599, P20, DOI 10.1016/j.scitotenv.2017.04.189
+   Bata M, 2014, ACTA OECON PRAG, V2014, P48
+   Baydaroglu O, 2018, METEOROL ATMOS PHYS, V130, P349, DOI 10.1007/s00703-017-0518-9
+   Belayneh A, 2014, J HYDROL, V508, P418, DOI 10.1016/j.jhydrol.2013.10.052
+   Belayneh A., 2016, ATMOS RES, P172, DOI [10.10164/j.atmosres.2015.12.017, DOI 10.10164/J.ATMOSRES.2015.12.017]
+   Belayneh A., 2015, SUSTAINABLE WATER RE, DOI [10.1007/s40899-015-0040-5, DOI 10.1007/S40899-015-0040-5]
+   Benaouda D, 2006, NEUROCOMPUTING, V70, P139, DOI 10.1016/j.neucom.2006.04.005
+   Bogner K, 2008, ATMOS SCI LETT, V9, P95, DOI 10.1002/asl.180
+   Budu K, 2014, J HYDROL ENG, V19, P1385, DOI 10.1061/(ASCE)HE.1943-5584.0000892
+   Campisi-Pinto S, 2013, WATER RESOUR MANAG, V27, P319, DOI 10.1007/s11269-012-0122-1
+   Cannas B, 2006, PHYS CHEM EARTH, V31, P1164, DOI 10.1016/j.pce.2006.03.020
+   Chen C, 2013, STOCH ENV RES RISK A, V27, P713, DOI 10.1007/s00477-012-0634-5
+   Creaco E, 2016, WATER RESOUR RES, V52, P2403, DOI 10.1002/2015WR017971
+   Crowley PM, 2007, J ECON SURV, V21, P207, DOI 10.1111/j.1467-6419.2006.00502.x
+   Deo RC, 2017, ENVIRON RES, V155, P141, DOI 10.1016/j.envres.2017.01.035
+   Deo RC, 2017, ATMOS RES, V184, P149, DOI 10.1016/j.atmosres.2016.10.004
+   Deo RC, 2017, STOCH ENV RES RISK A, V31, P1211, DOI 10.1007/s00477-016-1265-z
+   Dixit P., 2016, INA LETT, V1, P99, DOI [10.1007/s41403-016-0015-3, DOI 10.1007/S41403-016-0015-3]
+   Djerbouai S, 2016, WATER RESOUR MANAG, V30, P2445, DOI 10.1007/s11269-016-1298-6
+   Du KC, 2017, J HYDROL, V552, P44, DOI 10.1016/j.jhydrol.2017.06.019
+   Ebrahimi H, 2017, GLOBAL PLANET CHANGE, V148, P181, DOI 10.1016/j.gloplacha.2016.11.014
+   Fahimi F, 2017, THEOR APPL CLIMATOL, V128, P875, DOI 10.1007/s00704-016-1735-8
+   Fernando TMKG, 2009, J HYDROL, V367, P165, DOI 10.1016/j.jhydrol.2008.10.019
+   Galelli S, 2013, WATER RESOUR RES, V49, P4295, DOI 10.1002/wrcr.20339
+   Galelli S, 2014, ENVIRON MODELL SOFTW, V62, P33, DOI 10.1016/j.envsoft.2014.08.015
+   Garg A, 2014, COMPUTAT GEOSCI, V18, P45, DOI 10.1007/s10596-013-9381-z
+   Ghazvinei PT, 2017, COMPUT ELECTRON AGR, V140, P48, DOI 10.1016/j.compag.2017.05.033
+   Goyal MK, 2014, EXPERT SYST APPL, V41, P5267, DOI 10.1016/j.eswa.2014.02.047
+   Hastie T., 2009, SPRINGER SERIES STAT
+   He XG, 2015, J HYDROL, V527, P88, DOI 10.1016/j.jhydrol.2015.04.047
+   Huang GB, 2006, NEUROCOMPUTING, V70, P489, DOI 10.1016/j.neucom.2005.12.126
+   Karbasi M, 2018, WATER RESOUR MANAG, V32, P1035, DOI 10.1007/s11269-017-1853-9
+   Kariwala V, 2013, COMPUT CHEM ENG, V54, P1, DOI 10.1016/j.compchemeng.2013.03.006
+   Karthikeyan L, 2013, J HYDROL, V502, P103, DOI 10.1016/j.jhydrol.2013.08.030
+   Khalil B, 2015, HYDROGEOL J, V23, P121, DOI 10.1007/s10040-014-1204-3
+   Kim TW, 2003, J HYDROL ENG, V8, P319, DOI 10.1061/(ASCE)1084-0699(2003)8:6(319)
+   Kisi O, 2016, AGR WATER MANAGE, V169, P162, DOI 10.1016/j.agwat.2016.02.026
+   Kisi O, 2011, KSCE J CIV ENG, V15, P1469, DOI 10.1007/s12205-011-1004-4
+   Koutsoyiannis D, 2008, HYDROLOG SCI J, V53, P142, DOI 10.1623/hysj.53.1.142
+   Kriechbaumer T, 2014, RESOUR POLICY, V39, P32, DOI 10.1016/j.resourpol.2013.10.005
+   Labat D, 1999, STOCH ENV RES RISK A, V13, P337, DOI 10.1007/s004770050055
+   Lee T, 2017, CLIM DYNAM, V49, P3493, DOI 10.1007/s00382-017-3525-0
+   Li BJ, 2014, SCI CHINA TECHNOL SC, V57, P2441, DOI 10.1007/s11431-014-5712-0
+   Li S, 2016, IEEE T POWER SYST, V31, P1788, DOI 10.1109/TPWRS.2015.2438322
+   Maheswaran R, 2012, COMPUT GEOSCI-UK, V46, P284, DOI 10.1016/j.cageo.2011.12.015
+   Maheswaran R, 2012, J HYDROL, V450, P320, DOI 10.1016/j.jhydrol.2012.04.017
+   MALLAT SG, 1989, IEEE T PATTERN ANAL, V11, P674, DOI 10.1109/34.192463
+   Maslova I, 2016, HYDROL PROCESS, V30, P57, DOI 10.1002/hyp.10564
+   Mirbagheri SA, 2010, HYDROLOG SCI J, V55, P1175, DOI 10.1080/02626667.2010.508871
+   Moosavi V, 2013, WATER RESOUR MANAG, V27, P1301, DOI 10.1007/s11269-012-0239-2
+   Moriasi DN, 2007, T ASABE, V50, P885
+   Murtagh F, 2004, DECIS SUPPORT SYST, V37, P475, DOI 10.1016/S0167-9236(03)00092-7
+   Nguyen HT, 2010, ENERGY, V35, P3674, DOI 10.1016/j.energy.2010.05.013
+   Nielsen M, 2001, J APPROX THEORY, V108, P36, DOI 10.1006/jath.2000.3514
+   Nourani V, 2017, STOCH ENV RES RISK A, V31, P1341, DOI 10.1007/s00477-016-1220-z
+   Nourani V, 2014, J HYDROL, V514, P358, DOI 10.1016/j.jhydrol.2014.03.057
+   Nourani V, 2009, ENG APPL ARTIF INTEL, V22, P466, DOI 10.1016/j.engappai.2008.09.003
+   Nourani V, 2009, WATER RESOUR MANAG, V23, P2877, DOI 10.1007/s11269-009-9414-5
+   Olhede S, 2004, P ROY SOC A-MATH PHY, V460, P955, DOI 10.1098/rspa.2003.1199
+   Patil K, 2017, OCEAN DYNAM, V67, P357, DOI 10.1007/s10236-017-1032-9
+   Percival DB, 2011, WATER RESOUR RES, V47, DOI 10.1029/2010WR009657
+   Percival D. B., 2008, NONLINEAR TIME SERIE, P61, DOI [10.1007/978-3-540-78938-3_4, DOI 10.1007/978-3-540-78938-3_4]
+   Percival DB, 2000, WAVELET METHODS TIME
+   Prasad R, 2017, ATMOS RES, V197, P42, DOI 10.1016/j.atmosres.2017.06.014
+   Quilty J, 2016, WATER RESOUR RES, V52, P2299, DOI 10.1002/2015WR016959
+   Rahimikhoob A, 2016, WATER RESOUR MANAG, V30, P3063, DOI 10.1007/s11269-016-1331-9
+   Rajaee T, 2011, SCI TOTAL ENVIRON, V409, P2917, DOI 10.1016/j.scitotenv.2010.11.028
+   Rana M, 2016, NEUROCOMPUTING, V182, P118, DOI 10.1016/j.neucom.2015.12.004
+   Rathinasamy M., 2013, J HYDROL, DOI [10.1016/j.jhydro1.2013.09.025, DOI 10.1016/J.JHYDRO1.2013.09.025]
+   Rathinasamy M, 2014, WATER RESOUR RES, V50, P9721, DOI 10.1002/2013WR014650
+   Ravansalar M, 2015, ENVIRON MONIT ASSESS, V187, DOI 10.1007/s10661-015-4590-7
+   Renaud, 2003, INT J WAVELETS MULTI, V1, P217
+   Renaud O, 2005, IEEE T SYST MAN CY B, V35, P1241, DOI 10.1109/TSMCB.2005.850182
+   Rezaie-Balf M, 2017, J HYDROL, V553, P356, DOI 10.1016/j.jhydrol.2017.08.006
+   Sahay RR, 2014, WATER RESOUR MANAG, V28, P301, DOI 10.1007/s11269-013-0446-5
+   Samadianfard S, 2018, SOIL TILL RES, V175, P37, DOI 10.1016/j.still.2017.08.012
+   Sang YF, 2013, ATMOS RES, V122, P8, DOI 10.1016/j.atmosres.2012.11.003
+   Sehgal V, 2014, WATER RESOUR MANAG, V28, P1733, DOI 10.1007/s11269-014-0584-4
+   SEO Y, 2017, WATER-SUI, V9, P70525, DOI DOI 10.3390/W9070525
+   Shafaei M, 2016, WATER RESOUR MANAG, V30, P79, DOI 10.1007/s11269-015-1147-z
+   Sharma A, 2016, ENVIRON MODELL SOFTW, V83, P271, DOI 10.1016/j.envsoft.2016.05.021
+   Shi B, 2018, SCI TOTAL ENVIRON, V610, P1390, DOI 10.1016/j.scitotenv.2017.08.232
+   Shirmohammadi B, 2013, NAT HAZARDS, V69, P389, DOI 10.1007/s11069-013-0716-9
+   Shoaib M, 2018, WATER RESOUR MANAG, V32, P83, DOI 10.1007/s11269-017-1796-1
+   Shoaib M, 2016, J HYDROL, V535, P211, DOI 10.1016/j.jhydrol.2016.01.076
+   Shoaib M, 2016, J COMPUT CIVIL ENG, V30, DOI 10.1061/(ASCE)CP.1943-5487.0000457
+   Shoaib M, 2015, J HYDROL, V527, P326, DOI 10.1016/j.jhydrol.2015.04.072
+   Solomatine DP, 2008, J HYDROINFORM, V10, P3, DOI 10.2166/hydro.2008.015
+   Stulp F, 2015, NEURAL NETWORKS, V69, P60, DOI 10.1016/j.neunet.2015.05.005
+   Taormina R, 2016, J HYDROL, V542, P18, DOI 10.1016/j.jhydrol.2016.07.045
+   Tiwari MK, 2013, WATER RESOUR RES, V49, P6486, DOI 10.1002/wrcr.20517
+   Tran HD, 2016, J HYDROINFORM, V18, P791, DOI 10.2166/hydro.2016.145
+   Tsimpiris A, 2012, EXPERT SYST APPL, V39, P12697, DOI 10.1016/j.eswa.2012.05.014
+   Voronin S, 2013, ENERGIES, V6, P5897, DOI 10.3390/en6115897
+   Walden AT, 2001, PROG MATH, V202, P627
+   Xiao Y, 2014, J SYST SCI COMPLEX, V27, P225, DOI 10.1007/s11424-014-3305-4
+   Yadav B, 2017, MEASUREMENT, V103, P294, DOI 10.1016/j.measurement.2017.03.003
+   Yang XG, 2014, ARAB J SCI ENG, V39, P6895, DOI 10.1007/s13369-014-1243-z
+   Yaseen Z. M., 2015, J HYDROL, DOI [10.1016/j.jhydro1.2015.10.038, DOI 10.1016/J.JHYDRO1.2015.10.038]
+   Yaseen ZM, 2016, J HYDROL, V542, P603, DOI 10.1016/j.jhydrol.2016.09.035
+   Yu HJ, 2018, WATER RESOUR MANAG, V32, P301, DOI 10.1007/s11269-017-1811-6
+   Yung BB, 2011, CAN J CIVIL ENG, V38, P252, DOI 10.1139/L10-132
+   Zhang XL, 2015, J HYDROL, V530, P137, DOI 10.1016/j.jhydrol.2015.09.047
+   Zhang ZT, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0157243
+   Zhu L, 2014, APPL MATH MODEL, V38, P1859, DOI 10.1016/j.apm.2013.10.002
+NR 123
+TC 4
+Z9 4
+U1 12
+U2 17
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-1694
+EI 1879-2707
+J9 J HYDROL
+JI J. Hydrol.
+PD AUG
+PY 2018
+VL 563
+BP 336
+EP 353
+DI 10.1016/j.jhydrol.2018.05.003
+PG 18
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA GQ2NW
+UT WOS:000441492700027
+DA 2019-03-26
+ER
+
+PT J
+AU John, R
+   Chen, JQ
+   Giannico, V
+   Park, H
+   Xiao, JF
+   Shirkey, G
+   Ouyang, ZT
+   Shao, CL
+   Lafortezza, R
+   Qi, JG
+AF John, Ranjeet
+   Chen, Jiquan
+   Giannico, Vincenzo
+   Park, Hogeun
+   Xiao, Jingfeng
+   Shirkey, Gabriela
+   Ouyang, Zutao
+   Shao, Changliang
+   Lafortezza, Raffaele
+   Qi, Jiaguo
+TI Grassland canopy cover and aboveground biomass in Mongolia and Inner
+   Mongolia: Spatiotemporal estimates and controlling factors
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE Grasslands; Semiarid; MODIS; Cubist; Livestock density; Mongolian
+   Plateau
+ID ECOLOGICAL RESTORATION; SEMIARID ECOSYSTEMS; NORTHERN CHINA; MODIS;
+   DYNAMICS; PLATEAU; WATER; PRECIPITATION; URBANIZATION; PRODUCTIVITY
+AB Temperate and semiarid grasslands comprise 80% of the land area on the Mongolian Plateau and environs, which includes Mongolia (MG), and the province of Inner Mongolia (IM), China. Substantial land cover/use change in the last few decades, driven by a combination of post-liberalization socioeconomic changes and extreme climatic events, has degraded these water-limited grassland's structure and function. Hence, a precise estimation of canopy cover (CC, %) and aboveground biomass (AGB, g m(-2)) is needed. In this study, we analyzed > 1000 field observations with sampling during June, July and August (JJA) in 2006, 2007, 2010 and 2016 in IM and 2010-2012 and 2014-2016 in MG. The field sampling was stratified by the dominant vegetation types on the plateau, including the meadow steppe, the typical steppe, and the desert steppe. Here we used Moderate Resolution Imaging Spectroradiometer (MODIS) derived surface reflectance and vegetation indices optimized for low cover conditions to develop and test predictive models of CC and AGB using observed samples as training and validation data through rule-based regression tree models. We then used the predictive models to estimate spatially-explicit CC and AGB for the plateau over the last decade (2000-2016). Our study demonstrated the effectiveness of our predictive models in up-scaling ground observations to the regional scale across steppe types. Our results showed that model R-2 and RMSE for CC and AGB were 0.74 (13.1%) and 0.62 (85.9 gm(-2)), respectively. The validation R-2 and RMSE for CC and AGB were 0.67 (14.4%) and 0.68 (76.9 gm(-2)), respectively. The mean +/- SD for CC and AGB were 24.9 +/- 23.4% and 155.2 +/- 115.2 g m(-2), respectively. We also found that our scaled up estimates were significantly related to inter-annual climatic variability and anthropogenic drivers especially distance to urban/built-up areas and livestock density. In addition to their direct use in quantifying the spatiotemporal changes in the terrestrial carbon budget, results from these predictive models can help decision makers and rangeland managers plan sustainable livestock practices in the future.
+C1 [John, Ranjeet; Chen, Jiquan; Giannico, Vincenzo; Park, Hogeun; Shirkey, Gabriela; Ouyang, Zutao; Lafortezza, Raffaele; Qi, Jiaguo] Michigan State Univ, Ctr Global Change & Earth Observat, E Lansing, MI 48823 USA.
+   [Giannico, Vincenzo; Lafortezza, Raffaele] Univ Bari Aldo Moro, Dept Agr & Environm Sci, Via Amendola 165-A, I-70126 Bari, Italy.
+   [Xiao, Jingfeng] Univ New Hampshire, Inst Study Earth Oceans & Space, Earth Syst Res Ctr, Durham, NH 03824 USA.
+   [Shao, Changliang] Chinese Acad Agr Sci, Inst Agr Resources & Reg Planning, Beijing 100081, Peoples R China.
+RP John, R (reprint author), Michigan State Univ, Ctr Global Change & Earth Observat, E Lansing, MI 48823 USA.
+EM ranjeetj@msu.edu
+RI Chen, Jiquan/D-1955-2009
+OI Giannico, Vincenzo/0000-0002-9907-3730; John,
+   Ranjeet/0000-0002-0150-8450; Lafortezza, Raffaele/0000-0003-4642-8435;
+   park, hogeun/0000-0001-5591-078X
+FU "Dynamics of Coupled Natural and Human Systems (CNH)" Program of the NSF
+   [1313761]; LCLUC program of NASA [NNX14AD85G]; National Science
+   Foundation (NSF) through Macro Systems Biology [1638688]; NASA through
+   the Carbon Cycle Science Program [NNX14AJ18G]
+FX This study was supported by the "Dynamics of Coupled Natural and Human
+   Systems (CNH)" Program of the NSF (#1313761), and the LCLUC program of
+   NASA (NNX14AD85G). J. Xiao was supported by the National Science
+   Foundation (NSF) through Macro Systems Biology (1638688) and NASA
+   through the Carbon Cycle Science Program (NNX14AJ18G). We acknowledge
+   the help of Ochirbat Batkhishig and Ganzorig Ulgichimeeg, Institute of
+   Geography, Mongolian Academy of Sciences in organizing and supervising
+   fieldwork. We also acknowledge the help of Jianye Xu, Ginger Allington
+   and others for helping with field work, and Brad Peter for constructive
+   suggestions regarding color blind sensitive maps. We thank the three
+   anonymous reviewers for their constructive comments on the manuscript.
+CR Ahlstrom A, 2015, SCIENCE, V348, P895, DOI 10.1126/science.aaa1668
+   Andersen HE, 2005, REMOTE SENS ENVIRON, V94, P441, DOI 10.1016/j.rse.2004.10.013
+   Angerer J., 2008, RANGELANDS, V30, P46, DOI DOI 10.2111/1551-501X(2008)30[46:CCAEOA]2.0.CO;2
+   Angerer J. P., 2012, GOBI FORAGE LIVESTOC
+   Bai YF, 2004, NATURE, V431, P181, DOI 10.1038/nature02850
+   Bai YF, 2008, ECOLOGY, V89, P2140, DOI 10.1890/07-0992.1
+   Blackard JA, 2008, REMOTE SENS ENVIRON, V112, P1658, DOI 10.1016/j.rse.2007.08.021
+   Bosilovich M., 2016, 9 GMAO
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Cao SX, 2011, EARTH-SCI REV, V104, P240, DOI 10.1016/j.earscirev.2010.11.002
+   Chen JQ, 2015, ENVIRON RES LETT, V10, DOI 10.1088/1748-9326/10/8/085003
+   Chen JQ, 2015, BIOSCIENCE, V65, P559, DOI 10.1093/biosci/biv050
+   Chopping M, 2008, REMOTE SENS ENVIRON, V112, P19, DOI 10.1016/j.rse.2006.04.023
+   Eckert S, 2015, J ARID ENVIRON, V113, P16, DOI 10.1016/j.jaridenv.2014.09.001
+   Fan PL, 2016, ENVIRON RES, V144, P96, DOI 10.1016/j.envres.2015.09.020
+   Feng ZM, 2005, LAND USE POLICY, V22, P301, DOI 10.1016/j.landusepol.2004.05.004
+   Fernandez-Gimenez ME, 2017, ANTHROPOCENE, V17, P46, DOI 10.1016/j.ancene.2017.01.003
+   Fernandez-Gimenez ME, 2012, GLOBAL ENVIRON CHANG, V22, P836, DOI 10.1016/j.gloenvcha.2012.07.001
+   Fernandez-Gimenez ME, 1999, J APPL ECOL, V36, P871, DOI 10.1046/j.1365-2664.1999.00447.x
+   Ferner J, 2015, INT J APPL EARTH OBS, V41, P99, DOI 10.1016/j.jag.2015.04.019
+   Gao BC, 1996, REMOTE SENS ENVIRON, V58, P257, DOI 10.1016/S0034-4257(96)00067-3
+   Gao JX, 2012, INT J REMOTE SENS, V33, P4029, DOI 10.1080/01431161.2011.639401
+   Giannico V, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8040339
+   Guan K, 2012, REMOTE SENS ENVIRON, V124, P653, DOI 10.1016/j.rse.2012.06.005
+   Guerschman JP, 2015, REMOTE SENS ENVIRON, V161, P12, DOI 10.1016/j.rse.2015.01.021
+   Halperin J, 2016, REMOTE SENS ENVIRON, V179, P170, DOI 10.1016/j.rse.2016.03.028
+   Hilker T, 2014, GLOBAL CHANGE BIOL, V20, P418, DOI 10.1111/gcb.12365
+   Huang C, 2003, INT J REMOTE SENS, V24, P75, DOI [10.1080/01431160305001, 10.1080/01431160110115032]
+   Huete A, 2002, REMOTE SENS ENVIRON, V83, P195, DOI 10.1016/S0034-4257(02)00096-2
+   Jackson SL, 2015, GEOFORUM, V66, P94, DOI 10.1016/j.geoforum.2015.09.010
+   Jacques DC, 2014, REMOTE SENS ENVIRON, V153, P40, DOI 10.1016/j.rse.2014.07.027
+   Jiang ZY, 2008, REMOTE SENS ENVIRON, V112, P3833, DOI 10.1016/j.rse.2008.06.006
+   John R, 2008, REMOTE SENS ENVIRON, V112, P2018, DOI 10.1016/j.rse.2007.09.013
+   John R, 2016, LANDSCAPE ECOL, V31, P547, DOI 10.1007/s10980-015-0261-x
+   John R, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035033
+   John R, 2013, INT J REMOTE SENS, V34, P2829, DOI 10.1080/01431161.2012.746483
+   Kang MK, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079823
+   Kappas M., 2015, WATER ENV SELENGA BA, P27
+   Karnieli A, 2013, INT J REMOTE SENS, V34, P6243, DOI 10.1080/01431161.2013.793865
+   Khishigbayar J, 2015, J ARID ENVIRON, V115, P100, DOI 10.1016/j.jaridenv.2015.01.007
+   Kim S, 2015, COMMUN STAT APPL MET, V22, P665, DOI 10.5351/CSAM.2015.22.6.665
+   Kuhn M., 2017, PACKAGE CARET
+   Kuhn M., 2017, PACKAGE CUBIST, P13
+   Lehnert LW, 2015, REMOTE SENS ENVIRON, V164, P197, DOI 10.1016/j.rse.2015.04.020
+   Li F., 2014, REMOTE SENS, V6
+   Liang TG, 2016, REMOTE SENS ENVIRON, V186, P164, DOI 10.1016/j.rse.2016.08.014
+   Liu GF, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0077565
+   Lobser SE, 2007, INT J REMOTE SENS, V28, P5079, DOI 10.1080/01431160701253303
+   Lu CX, 2018, J CLEAN PROD, V176, P1213, DOI 10.1016/j.jclepro.2016.03.046
+   Lu Y, 2009, ENVIRON RES LETT, V4, DOI 10.1088/1748-9326/4/4/045023
+   Ma WH, 2010, SCI CHINA LIFE SCI, V53, P841, DOI 10.1007/s11427-010-4020-6
+   Marsett RC, 2006, RANGELAND ECOL MANAG, V59, P530, DOI 10.2111/05-201R.1
+   McIntyre N, 2016, SCI TOTAL ENVIRON, V557, P404, DOI 10.1016/j.scitotenv.2016.03.092
+   Nandintsetseg B, 2007, INT J CLIMATOL, V27, P341, DOI 10.1002/joc.1404
+   NASA JPL, 2013, NASA SHUTTL RAD TOP
+   Park H, 2017, APPL GEOGR, V86, P118, DOI 10.1016/j.apgeog.2017.06.026
+   Poulter B, 2014, NATURE, V509, P600, DOI 10.1038/nature13376
+   Qi J., 2002, EOS T AM GEOPHYS UN, V83, P601, DOI DOI 10.1029/2002E0000411
+   Qi JiaGuo, 2017, Ecological Processes, V6, DOI 10.1186/s13717-017-0087-3
+   Quinlan RJ, 1993, C4 5 PROGRAMS MACHIN
+   Rao MP, 2015, ENVIRON RES LETT, V10, DOI 10.1088/1748-9326/10/7/074012
+   Rasmussen M. S., 1999, GeoJournal, V47, P563, DOI 10.1023/A:1007009614769
+   Reid RS, 2014, ANNU REV ENV RESOUR, V39, P217, DOI 10.1146/annurev-environ-020713-163329
+   Reynolds JF, 2007, SCIENCE, V316, P847, DOI 10.1126/science.1131634
+   Rienecker MM, 2011, J CLIMATE, V24, P3624, DOI 10.1175/JCLI-D-11-00015.1
+   Schaaf C., 2015, MCD43A4 MODIS TERRA, DOI [10.5067/modis/mcd43a4.006, DOI 10.5067/MODIS/MCD43A4.006]
+   Schaaf CB, 2002, REMOTE SENS ENVIRON, V83, P135, DOI 10.1016/S0034-4257(02)00091-3
+   SEN PK, 1968, J AM STAT ASSOC, V63, P1379
+   Shao CL, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/025012
+   Tian HJ, 2015, ECOL ENG, V82, P276, DOI 10.1016/j.ecoleng.2015.04.098
+   TUCKER CJ, 1986, INT J REMOTE SENS, V7, P1395, DOI 10.1080/01431168608948944
+   Uchida E, 2005, LAND ECON, V81, P247, DOI 10.3368/le.81.2.247
+   Walton JT, 2008, PHOTOGRAMM ENG REM S, V74, P1213, DOI 10.14358/PERS.74.10.1213
+   Wang J, 2013, LANDSCAPE ECOL, V28, P725, DOI 10.1007/s10980-013-9865-1
+   Wesche K, 2016, BIODIVERS CONSERV, V25, P2197, DOI 10.1007/s10531-016-1214-7
+   Wesche K, 2010, ACTA OECOL, V36, P234, DOI 10.1016/j.actao.2010.01.003
+   Wylie B, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8110944
+   Xiao JF, 2010, REMOTE SENS ENVIRON, V114, P576, DOI 10.1016/j.rse.2009.10.013
+   Xiao JF, 2008, AGR FOREST METEOROL, V148, P1827, DOI 10.1016/j.agrformet.2008.06.015
+   Xiao XM, 2002, REMOTE SENS ENVIRON, V82, P335, DOI 10.1016/S0034-4257(02)00051-2
+   Xie YC, 2009, ECOL MODEL, V220, P1810, DOI 10.1016/j.ecolmodel.2009.04.025
+   Yin H, 2018, REMOTE SENS ENVIRON, V204, P918, DOI 10.1016/j.rse.2017.08.030
+   Yu FF, 2003, REMOTE SENS ENVIRON, V87, P42, DOI 10.1016/S0034-4257(03)00144-5
+   Zhang C, 2016, REMOTE SENS ENVIRON, V175, P271, DOI 10.1016/j.rse.2016.01.002
+   Zhang FM, 2012, REMOTE SENS ENVIRON, V124, P717, DOI 10.1016/j.rse.2012.06.023
+   Zhang L, 2014, AGR FOREST METEOROL, V184, P71, DOI 10.1016/j.agrformet.2013.09.004
+   Zhao F., 2014, REMOTE SENS, V6
+NR 87
+TC 5
+Z9 5
+U1 40
+U2 58
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0034-4257
+EI 1879-0704
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD AUG
+PY 2018
+VL 213
+BP 34
+EP 48
+DI 10.1016/j.rse.2018.05.002
+PG 15
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic
+   Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science &
+   Photographic Technology
+GA GL7LQ
+UT WOS:000437383600003
+DA 2019-03-26
+ER

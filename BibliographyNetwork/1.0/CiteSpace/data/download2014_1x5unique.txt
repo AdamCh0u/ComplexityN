@@ -1,0 +1,454 @@
+
+PT J
+AU Cavallaro, M
+   Asprone, D
+   Latora, V
+   Manfredi, G
+   Nicosia, V
+AF Cavallaro, M.
+   Asprone, D.
+   Latora, V.
+   Manfredi, G.
+   Nicosia, V.
+TI Assessment of Urban Ecosystem Resilience through Hybrid Social-Physical
+   Complex Networks
+SO COMPUTER-AIDED CIVIL AND INFRASTRUCTURE ENGINEERING
+ID CASCADING FAILURES; SYSTEMS; ROBUSTNESS; FRAMEWORK; FRAGILITY; INTERNET;
+   GROWTH; GRAPHS; ATTACK
+AB One of the most important tasks of urban and hazard planning is to mitigate the damages and minimize the costs of the recovery process after catastrophic events. In this context, the capability of urban systems and communities to recover from disasters is referred to as resilience. Despite the problem of resilience quantification having received a lot of attention, a mathematical definition of the resilience of an urban community, which takes into account the social aspects of an urban environment, has not yet been identified. In this article, we provide and test a methodology for the assessment of urban resilience to catastrophic events which aims at bridging the gap between the engineering and the ecosystem approaches to resilience. We propose to model an urban system by means of different hybrid social-physical complex networks, obtained by enriching the urban street network with additional information about the social and physical constituents of a city, namely citizens, residential buildings, and services. Then, we introduce a class of efficiency measures on these hybrid networks, inspired by the definition of global efficiency given in complex network theory, and we show that these measures can be effectively used to quantify the resilience of an urban system, by comparing their respective values before and after a catastrophic event and during the reconstruction process. As a case study, we consider simulated earthquakes in the city of Acerra, Italy, and we use these efficiency measures to compare the ability of different reconstruction strategies in restoring the original performance of the urban system.
+RI Nicosia, Vincenzo/C-7890-2013
+OI Nicosia, Vincenzo/0000-0003-0636-3278; Manfredi,
+   Gaetano/0000-0002-4860-4511; Asprone, Domenico/0000-0001-5795-8568;
+   Latora, Vito/0000-0002-0984-8038
+CR Ahmad N., 2011, ANAL FRAGILITY FUNCT
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Attoh-Okine NO, 2009, IEEE SYST J, V3, P147, DOI 10.1109/JSYST.2009.2019148
+   Bar-Yam Y., 2003, DYNAMIC COMPLEX SYST
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M, 2007, CITIES COMPLEXITY UN
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Ben-Joseph E., 2003, STREETS SHAPING TOWN
+   Berche B, 2009, EUR PHYS J B, V71, P125, DOI 10.1140/epjb/e2009-00291-3
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Brummitt CD, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.045102
+   Bruneau M, 2003, EARTHQ SPECTRA, V19, P733, DOI 10.1193/1.1623497
+   Buldyrev SV, 2010, NATURE, V464, P1025, DOI 10.1038/nature08932
+   Callaway DS, 2000, PHYS REV LETT, V85, P5468, DOI 10.1103/PhysRevLett.85.5468
+   Cardillo A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066107
+   Cavalieri F, 2012, EARTHQ ENG STRUCT D, V41, P1569, DOI 10.1002/eqe.2220
+   Cohen R, 2001, PHYS REV LETT, V86, P3682, DOI 10.1103/PhysRevLett.86.3682
+   Cohen R, 2000, PHYS REV LETT, V85, P4626, DOI 10.1103/PhysRevLett.85.4626
+   Cosenza E., 2010, LAQUILA PROGETTO C A
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   Dalziell E. P., 2004, INT FOR ENG DEC MAK
+   Dorogovtsev SN, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.025101
+   Folke C, 2006, GLOBAL ENVIRON CHANG, V16, P253, DOI 10.1016/j.gloenvcha.2006.04.002
+   Franchin F., 2013, P 11 INT C STRUCT SA
+   Franchin P, 2013, WOODHEAD PUBL MATER, P465, DOI 10.1533/9780857098986.4.465
+   Gao J., 2011, NAT PHYS, V8, P40, DOI DOI 10.1038/NPHYS2180
+   Gao JX, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.195701
+   Holling C.S., 1973, Annual Rev Ecol Syst, V4, P1, DOI 10.1146/annurev.es.04.110173.000245
+   Holling C. S, 2002, PANARCHY UNDERSTANDI, P25
+   Holling CS, 2001, ECOSYSTEMS, V4, P390, DOI 10.1007/s10021-001-0101-5
+   HOLLING CS, 1986, SUSTAINABLE DEV BIOS, P292
+   HOLLING CS, 1996, ENG ECOLOGICAL CONST, P31
+   Huang XQ, 2013, SCI REP-UK, V3, DOI 10.1038/srep01219
+   Kinney R, 2005, EUR PHYS J B, V46, P101, DOI 10.1140/epjb/e2005-00237-9
+   Kovalenko T., 2013, PLANET RISK, V1, P1
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Li J, 2002, EARTHQUAKE ENG STRUC, V31, P1525, DOI 10.1002/eqe.174
+   Li Y, 2007, WATER RESOUR RES, V43, DOI 10.1029/2006WR005636
+   Lorenz DF, 2013, NAT HAZARDS, V67, P7, DOI 10.1007/s11069-010-9654-y
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Maliszewski PJ, 2012, APPL GEOGR, V32, P668, DOI 10.1016/j.apgeog.2011.08.001
+   Marshall S, 2004, STREETS PATTERNS
+   Morris RG, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.128703
+   Nejat A, 2012, COMPUT-AIDED CIV INF, V27, P748, DOI 10.1111/j.1467-8667.2012.00787.x
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   O'Rourke T. D., 2007, BRIDGE, V37, P22, DOI DOI 10.1109/TIGA.1967.4180765
+   Omer M, 2009, IEEE SYST J, V3, P295, DOI 10.1109/JSYST.2009.2022570
+   Opricovic S, 2002, COMPUT-AIDED CIV INF, V17, P211, DOI 10.1111/1467-8667.00269
+   OSORIO LD, 2011, COMPUT-AIDED CIV INF, V26, P111
+   Ouyang M, 2012, STRUCT SAF, V36-37, P23, DOI 10.1016/j.strusafe.2011.12.004
+   Paul G, 2004, EUR PHYS J B, V38, P187, DOI 10.1140/epjb/e2004-00112-3
+   PIMM SL, 1984, NATURE, V307, P321, DOI 10.1038/307321a0
+   Pinto P. E., 2006, STATE ART METHODS SE, V79
+   PITTS FR, 1965, PROF GEOGR, V17, P15, DOI 10.1111/j.0033-0124.1965.015_m.x
+   Porta S., 2011, URBAN STUD, V49, P1471
+   Reed DA, 2009, IEEE SYST J, V3, P174, DOI 10.1109/JSYST.2009.2017396
+   Salingaros N. A, 2005, PRINCIPLES URBAN STR
+   Satumtira G, 2010, SUSTAINABLE AND RESILIENT CRITICAL INFRASTRUCTURE SYSTEMS: SIMULATION, MODELING, AND INTELLIGENT ENGINEERING, P1, DOI 10.1007/978-3-642-11405-2_1
+   Scellato S, 2006, EUR PHYS J B, V50, P221, DOI 10.1140/epjb/e2006-00066-4
+   Stauffer D., 1994, INTRO PERCOLATION TH
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Tamvakis P., 2013, PROCEDIASOCIAL BEHAV, V74, P261
+   United Nations, 2008, TECHNICAL REPORT
+   United Nations, 2010, TECHNICAL REPORT
+   Vespignani A, 2010, NATURE, V464, P984, DOI 10.1038/464984a
+   Vragovi I., 2005, PHYS REV E, V71
+   Wilson A. G, 1970, ENTROPY URBAN REGION
+NR 70
+TC 27
+Z9 29
+SN 1093-9687
+EI 1467-8667
+PD SEP
+PY 2014
+VL 29
+IS 8
+SI SI
+BP 608
+EP 625
+DI 10.1111/mice.12080
+UT WOS:000340467100004
+ER
+
+PT J
+AU McDonald, RI
+   Weber, K
+   Padowski, J
+   Florke, M
+   Schneider, C
+   Green, PA
+   Gleeson, T
+   Eckman, S
+   Lehner, B
+   Balk, D
+   Boucher, T
+   Grill, G
+   Montgomery, M
+AF McDonald, Robert I.
+   Weber, Katherine
+   Padowski, Julie
+   Floerke, Martina
+   Schneider, Christof
+   Green, Pamela A.
+   Gleeson, Thomas
+   Eckman, Stephanie
+   Lehner, Bernhard
+   Balk, Deborah
+   Boucher, Timothy
+   Grill, Guenther
+   Montgomery, Mark
+TI Water on an urban planet: Urbanization and the reach of urban water
+   infrastructure
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+DE Cities; Cross-basin transfer; Desalination; Groundwater; Surface water;
+   Water security
+ID CLIMATE-CHANGE; FRESH-WATER; SURFACE-WATER; AVAILABILITY; GROUNDWATER;
+   GROWTH; VALIDATION; CITIES; REQUIREMENTS; IRRIGATION
+AB Urban growth is increasing the demand for freshwater resources, yet surprisingly the water sources of the world's large cities have never been globally assessed, hampering efforts to assess the distribution and causes of urban water stress. We conducted the first global survey of the large cities' water sources, and show that previous global hydrologic models that ignored urban water infrastructure significantly overestimated urban water stress. Large cities obtain 78 +/- 3% of their water from surface sources, some of which are far away: cumulatively, large cities moved 504 billion liters a day (184 km(3) yr(-1)) a distance of 27,000 +/- 3800 km, and the upstream contributing area of urban water sources is 41% of the global land surface. Despite this infrastructure, one in four cities, containing $4.8 +/- 0.7 trillion in economic activity, remain water stressed due to geographical and financial limitations. The strategic management of these cities' water sources is therefore important for the future of the global economy. (C) 2014 The Authors. Published by Elsevier Ltd.
+RI Gleeson, Tom/F-2552-2011
+OI Gleeson, Tom/0000-0001-9493-7707; Eckman, Stephanie/0000-0002-8577-4085;
+   Grill, Gunther/0000-0003-4860-3575
+CR Aeschbach-Hertig W, 2012, NAT GEOSCI, V5, P853, DOI [10.1038/NGEO1617, 10.1038/ngeo1617]
+   Alcamo J, 2003, HYDROLOG SCI J, V48, P317, DOI 10.1623/hysj.48.3.317.45290
+   Alcott Emily, 2013, NATURAL ENG SOLUTION
+   Balk D., 2009, GLOBAL MAPPING HUMAN, P145
+   Bartlett S, 2003, ENVIRON URBAN, V15, P57, DOI 10.1177/095624780301500220
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BHATIA R, 1993, WATER RESOURCE POLIC
+   Bradley RM, 2002, J AM WATER WORKS ASS, V94, P52
+   Brown RR, 2009, WATER SCI TECHNOL, V59, P847, DOI 10.2166/wst.2009.029
+   Center for International Earth Science Information Network (CIESIN), 2004, GLOB RUR URB MAPP PR
+   *CGWB, 2011, DYN GROUND WAT RES I, P243
+   CHAU K, 1993, WATER RESOUR DEV, V9, P65, DOI DOI 10.1080/07900629308722574
+   Doll P, 2012, J GEODYN, V59-60, P143, DOI 10.1016/j.jog.2011.05.001
+   Doll P, 2003, J HYDROL, V270, P105, DOI 10.1016/S0022-1694(02)00283-4
+   FALKENMARK M, 1992, POPUL BULL, V47, P2
+   FALKENMARK M, 1974, Ambio, V3, P114
+   Farr TG, 2007, REV GEOPHYS, V45, DOI 10.1029/2005RG000183
+   Fitzhugh TW, 2004, BIOSCIENCE, V54, P741, DOI 10.1641/0006-3568(2004)054[0741:QUTGCA]2.0.CO;2
+   Florke M, 2012, J WATER CLIM CHANGE, V3, P44, DOI 10.2166/wcc.2012.066
+   Florke M, 2013, GLOBAL ENVIRON CHANG, V23, P144, DOI 10.1016/j.gloenvcha.2012.10.018
+   Florke M., 2010, ADV GEOSCI, V27, P79, DOI [10.5194/adgeo-27-79-2010, DOI 10.5194/ADGEO-27-79-2010]
+   Gleeson T, 2012, NATURE, V488, P197, DOI 10.1038/nature11295
+   Gleick PH, 1996, WATER INT, V21, P83, DOI 10.1080/02508069608686494
+   Goodness J., 2013, URBANIZATION BIODIVE
+   Howard G, 2003, DOMESTIC WATER QUANT
+   JAGERS P, 1985, INT STAT REV, V53, P221, DOI 10.2307/1402887
+   Jarvis A., 2008, EOS T AGU, V89, P93, DOI [DOI 10.1029/2008E0100001, 10.1029/2008EO100001]
+   Jenerette GD, 2006, GLOBAL PLANET CHANGE, V50, P202, DOI 10.1016/j.gloplacha.2006.01.004
+   Lederbogen F, 2011, NATURE, V474, P498, DOI 10.1038/nature10190
+   Lehner B, 2004, J HYDROL, V296, P1, DOI 10.1016/j.jhydrol.2004.03.028
+   McDonald R.I., 2013, URBANIZATION BIODIVE
+   McDonald RI, 2008, FRONT ECOL ENVIRON, V6, P99, DOI 10.1890/070038
+   McDonald RI, 2011, AMBIO, V40, P437, DOI 10.1007/s13280-011-0152-6
+   McDonald RI, 2011, P NATL ACAD SCI USA, V108, P6312, DOI 10.1073/pnas.1011615108
+   Montgomery M.R., 2003, CITIES TRANSFORMED D
+   Montgomery MR, 2008, SCIENCE, V319, P761, DOI 10.1126/science.1153012
+   NORDHAUS W, 2012, G ECON DATABASE GRID
+   *OECD, 2012, OECD EC OUTLOOK
+   PADOWSKI JC, 2013, WATER RESOUR RES, V48
+   Poff NL, 2010, FRESHWATER BIOL, V55, P147, DOI 10.1111/j.1365-2427.2009.02204.x
+   Postel SL, 1996, SCIENCE, V271, P785, DOI 10.1126/science.271.5250.785
+   Siebert S, 2005, HYDROL EARTH SYST SC, V9, P535, DOI 10.5194/hess-9-535-2005
+   Siebert S, 2006, IRRIGATION AFRICA EU
+   Smakhtin V, 2004, WATER INT, V29, P307, DOI 10.1080/02508060408691785
+   Smakhtin VU, 2001, J HYDROL, V240, P147, DOI 10.1016/S0022-1694(00)00340-1
+   UNPD, 2011, WORLD URB PROSP 2011
+   van Beek LPH, 2011, WATER RESOUR RES, V47, DOI 10.1029/2010WR009791
+   van Beek LPH, 2009, GLOBAL HYDROLOGICAL
+   Vorosmarty CJ, 2000, SCIENCE, V289, P284, DOI 10.1126/science.289.5477.284
+   Vorosmarty CJ, 1998, J HYDROL, V207, P147, DOI 10.1016/S0022-1694(98)00109-7
+   Wada Y, 2014, EARTH SYST DYNAM, V5, P15, DOI 10.5194/esd-5-15-2014
+   Wada Y, 2012, WATER RESOUR RES, V48, DOI 10.1029/2011WR010562
+   Ward FA, 2008, P NATL ACAD SCI USA, V105, P18215, DOI 10.1073/pnas.0805554105
+   Wisser D, 2010, J HYDROL, V384, P264, DOI 10.1016/j.jhydrol.2009.07.032
+   World Bank, 2011, MULT NEW GLOB EC
+NR 55
+TC 118
+Z9 122
+SN 0959-3780
+EI 1872-9495
+PD JUL
+PY 2014
+VL 27
+BP 96
+EP 105
+DI 10.1016/j.gloenvcha.2014.04.022
+UT WOS:000340990400010
+ER
+
+PT J
+AU Chen, YG
+   Wang, JJ
+AF Chen, Yanguang
+   Wang, Jiejing
+TI Recursive subdivision of urban space and Zipf's law
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+DE Fractals; Hierarchy; Recursive subdivision of space; Space filling;
+   Urban form; Zipf's law
+ID POWER LAWS; SIZE DISTRIBUTION; CITIES; GROWTH; SCALE; MODEL;
+   INTERMITTENCY; DISTRIBUTIONS; POPULATION; DIMENSION
+AB Zipf's law can be used to describe the rank-size distribution of cities in a region. It has seldom been employed to research urban internal structure. In this paper, we demonstrate that the space-filling process within a city follows Zipf's law and can be characterized with the rank-size rule. A model of spatial disaggregation of urban space is presented to depict the spatial regularity of urban growth. By recursive subdivision of space, an urban region can be geometrically divided into two parts, four parts, eight parts, and so on, and form a hierarchy with cascade structure. If we rank these parts by size, the portions will conform to the Zipf distribution. By means of the GIS technique and remote sensing data, the model of recursive subdivision of urban space is applied to three cities in China. The results show that the intra-urban hierarchy complies with Zipf's law, and the values of the rank-size scaling exponent are very close to 1. The significance of this study lies in three aspects. First, it shows that the strict subdivision of space is an efficient approach to revealing spatial order of urban form. Second, it discloses the relationships between the urban space-filling process and the rank-size rule. Third, it suggests a new way of understanding fractals, Zipf's law, and spatial organization of urban evolution. (C) 2013 Elsevier B.V. All rights reserved.
+CR Altmann EG, 2009, PLOS ONE, V4, pA31, DOI 10.1371/journal.pone.0007678
+   Appleby S, 1996, GEOGR ANAL, V28, P147
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Bak P., 1996, NATURE WORKS SCI SEL
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   BERRY B. J. L., 1964, PAPERS REGIONAL SCI, V13, P147, DOI DOI 10.1111/J.1435-5597.1964.TB01283.X
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blasius B, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.218701
+   Bourne I.S., 1978, SYSTEMS CITIES
+   Cancho RFI, 2005, P ROY SOC B-BIOL SCI, V272, P561, DOI 10.1098/rspb.2004.2957
+   Cancho RFI, 2003, P NATL ACAD SCI USA, V100, P788, DOI 10.1073/pnas.0335980100
+   Carlson JM, 1999, PHYS REV E, V60, P1412, DOI 10.1103/PhysRevE.60.1412
+   CARROLL GR, 1982, PROG HUM GEOG, V6, P1
+   Chen Y. G., 2008, FRACTAL URBAN SYSTEM
+   Chen YG, 2012, DISCRETE DYN NAT SOC, DOI 10.1155/2012/480196
+   Chen YG, 2012, PHYSICA A, V391, P3285, DOI 10.1016/j.physa.2011.12.031
+   Chen YG, 2012, CHAOS SOLITON FRACT, V45, P63, DOI 10.1016/j.chaos.2011.10.001
+   Chen YG, 2012, PHYSICA A, V391, P767, DOI 10.1016/j.physa.2011.07.010
+   Chen Y, 2011, PLOS ONE, V6, DOI [10.1371/journal.pone.0018139, 10.1371/journal.pone.0027163]
+   Christaller W., 1966, CENTRAL PLACES SO GE
+   Cordoba JC, 2008, J URBAN ECON, V63, P177, DOI 10.1016/j.jue.2007.01.005
+   Davis K, 1978, SYSTEMS CITIES, P92
+   Feng JA, 2010, ENVIRON PLANN B, V37, P838, DOI 10.1068/b35078
+   Frankhauser P., 1994, FRACTALITE STRUCTURE
+   Furusawa C, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.088102
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 2009, ANNU REV ECON, V1, P255, DOI 10.1146/annurev.economics.050708.142940
+   Gangopadhyay K, 2009, PHYSICA A, V388, P2682, DOI 10.1016/j.physa.2009.03.019
+   GOODCHILD MF, 1987, ANN ASSOC AM GEOGR, V77, P265, DOI 10.1111/j.1467-8306.1987.tb00158.x
+   HAAG G, 1994, CHAOS SOLITON FRACT, V4, P519, DOI 10.1016/0960-0779(94)90063-9
+   Henderson J. V, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   Jia T., 2011, PREPRINT
+   Jiang B., 2010, GEOSPATIAL ANAL MODE
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1033, DOI 10.1080/13658810802004648
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Mandelbrot BB, 1983, FRACTAL GEOMETRY NAT
+   Manrubia SC, 1998, PHYS REV E, V58, P295, DOI 10.1103/PhysRevE.58.295
+   Mayhew S, 1997, OXFORD DICT GEOGRAPH
+   Moura NJ, 2006, PHYSICA A, V367, P441, DOI 10.1016/j.physa.2005.11.038
+   Murcio R, 2011, PHYSICA A, V390, P2895, DOI 10.1016/j.physa.2011.04.002
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Peng GH, 2010, PHYSICA A, V389, P3804, DOI 10.1016/j.physa.2010.05.004
+   Petersen AM, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/38006
+   Podobnik B, 2010, P NATL ACAD SCI USA, V107, P18325, DOI 10.1073/pnas.1011942107
+   Portugali J., 2000, SELF ORG CITY
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Shao J, 2011, EPL-EUROPHYS LETT, V94, DOI 10.1209/0295-5075/94/48001
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   STANLEY MHR, 1995, ECON LETT, V49, P453, DOI 10.1016/0165-1765(95)00696-D
+   Sun J, 2013, REMOTE SENS-BASEL, V5, P454, DOI 10.3390/rs5020454
+   Tannier C, 2011, GEOGR ANAL, V43, P211, DOI 10.1111/j.1538-4632.2011.00814.x
+   Thomas I, 2008, LANDSCAPE URBAN PLAN, V84, P99, DOI 10.1016/j.landurbplan.2007.07.002
+   Vicsek T., 1989, FRACTAL GROWTH PHENO
+   WHITE R, 1994, CHAOS SOLITON FRACT, V4, P563, DOI 10.1016/0960-0779(94)90066-3
+   Zanette DH, 1997, PHYS REV LETT, V79, P523, DOI 10.1103/PhysRevLett.79.523
+   Zhou Yixing, 1995, URBAN GEOGRAPHY
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 65
+TC 6
+Z9 7
+SN 0378-4371
+EI 1873-2119
+PD FEB 1
+PY 2014
+VL 395
+BP 392
+EP 404
+DI 10.1016/j.physa.2013.10.022
+UT WOS:000329881800038
+ER
+
+PT J
+AU Louf, R
+   Barthelemy, M
+AF Louf, Remi
+   Barthelemy, Marc
+TI How congestion shapes cities: from mobility patterns to scaling
+SO SCIENTIFIC REPORTS
+ID EVOLUTION; GROWTH
+AB The recent availability of data for cities has allowed scientists to exhibit scalings which present themselves in the form of a power-law dependence on population of various socio-economical and structural indicators. We propose here a stochastic theory of urban growth which accounts for some of the observed scalings and we confirm these predictions on US and OECD empirical data. In particular, we show that the dependence on population size of the total number of miles driven daily, the total length of the road network, the total traffic delay, the total consumption of gasoline, the quantity of CO2 emitted and the relation between area and population of cities, are all governed by a single parameter which characterizes the sensitivity to congestion. Our results suggest that diseconomies associated with congestion scale superlinearly with population size, implying that -despite polycentrism- cities whose transportation infrastructure rely heavily on traffic sensitive modes are unsustainable.
+OI Louf, Remi/0000-0001-7929-5507
+CR Arcaute E, 2013, ARXIV13011674
+   Barthelemy M., 2011, PHYS REP, V499, P1101
+   Barthelemy M, 2013, SCI REP-UK, V3, DOI 10.1038/srep02153
+   Batty M, 2007, CITIES COMPLEXITY UN
+   Batty M., 2008, SCIENCE, V319
+   Batty M., 2006, NATURE, V444
+   Bettencourt L., 2010, NATURE, V467
+   Bettencourt L. M. A., 2013, SCIENCE, V340
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bouchaud JP, 2008, NATURE, V455, P1181, DOI 10.1038/4551181a
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   DYSON FJ, 1962, J MATH PHYS, V3, P140, DOI 10.1063/1.1703773
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Frasco G. F., 2013, ARXIV13060257
+   FUJITA M, 1982, REG SCI URBAN ECON, V12, P161, DOI 10.1016/0166-0462(82)90031-X
+   Glaeser E. L., 2001, J LABOR ECON, V19
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Marshall S, 2004, STREETS PATTERNS
+   McMillen D. P., 2003, J URBAN ECON, V53
+   Newman P. W., 1989, J AM PLANN ASSOC, V55, P2437
+   Oliveira E. A., 2014, ARXIV14017720
+   Oreskes N, 2004, SCIENCE, V306, P1686, DOI 10.1126/science.1103618
+   Pan W., 2013, NATURE COMMUNICATION, V4, P1961
+   Paulus F, 2006, CYBERGEO EUROPEAN J
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Rozenblat C., 2007, CITIES GLOBALIZATION, P130
+   Rozenfeld H. D., 2008, P NATL ACAD SCI USA, V105
+   Rybski D., 2013, ARXIV13044406
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Soo K. T., 2005, REGIONAL SCI URBAN E, V35
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   United Nations, 2011, WORLD URB PROP 2011
+   Venables A, 1999, SPATIAL EC CITIES RE
+   Wilkerson G., 2013, ARXIV14010207
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 37
+TC 37
+Z9 37
+SN 2045-2322
+PD JUL 3
+PY 2014
+VL 4
+AR 5561
+DI 10.1038/srep05561
+UT WOS:000338422600002
+PM 24990624
+ER
+
+PT J
+AU Ortman, SG
+   Cabaniss, AHF
+   Sturm, JO
+   Bettencourt, LMA
+AF Ortman, Scott G.
+   Cabaniss, Andrew H. F.
+   Sturm, Jennie O.
+   Bettencourt, Luis M. A.
+TI The Pre-History of Urban Scaling
+SO PLOS ONE
+ID CITY SIZE; CITIES; ARCHAEOLOGY; MESOAMERICA; GROWTH; STATE
+AB Cities are increasingly the fundamental socio-economic units of human societies worldwide, but we still lack a unified characterization of urbanization that captures the social processes realized by cities across time and space. This is especially important for understanding the role of cities in the history of human civilization and for determining whether studies of ancient cities are relevant for contemporary science and policy. As a step in this direction, we develop a theory of settlement scaling in archaeology, deriving the relationship between population and settled area from a consideration of the interplay between social and infrastructural networks. We then test these models on settlement data from the Pre-Hispanic Basin of Mexico to show that this ancient settlement system displays spatial scaling properties analogous to those observed in modern cities. Our data derive from over 1,500 settlements occupied over two millennia and spanning four major cultural periods characterized by different levels of agricultural productivity, political centralization and market development. We show that, in agreement with theory, total settlement area increases with population size, on average, according to a scale invariant relation with an exponent in the range 2/3 <= alpha <= 5/6. As a consequence, we are able to infer aggregate socioeconomic properties of ancient societies from archaeological measures of settlement organization. Our findings, from an urban settlement system that evolved independently from its old-world counterparts, suggest that principles of settlement organization are very general and may apply to the entire range of human history.
+OI Cabaniss, Andrew/0000-0003-0884-9503
+CR Adams R. McC, 1966, EVOLUTION URBAN SOC
+   Angel S, 2011, PROGR PLANNING, V75, P53107
+   [Anonymous], 2012, WORLD BAS
+   Arnauld M., 2012, NEIGHBORHOOD SOCIAL
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2013, PROFESSIONAL DIVERSI
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Blanton RE, 1972, PREHISPANIC SETTLEME
+   Chernick M.R., 1999, BOOTSTRAP METHODS PR
+   Childe V. G., 1950, TOWN PLANN REV, V21, P3, DOI DOI 10.3828/TPR.21.1.K853061T614Q42QH
+   Christaller W., 1933, ZENTRALEN ORTE SUDDE
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cowgill GL, 1997, ANNU REV ANTHROPOL, V26, P129, DOI 10.1146/annurev.anthro.26.1.129
+   Cristelli M, 2012, SCI REPORTS, V2, P1
+   DRENNAN RD, 1984, AM ANTHROPOL, V86, P105, DOI 10.1525/aa.1984.86.1.02a00100
+   Evans ST, 2000, TEOTIHUACAN VALLEY 1, V5
+   Feinman G., 1998, ARCHAIC STATES
+   Glaeser EL, 1999, J POLIT ECON, V107, pS225, DOI 10.1086/250109
+   Gorenflo Larry J, 2007, ARCHAEOLOGICAL SETTL
+   Henderson JV, 1977, EC THEORY CITIES
+   JOHNSON GA, 1980, ECON GEOGR, V56, P234, DOI 10.2307/142715
+   JOHNSON GA, 1977, ANNU REV ANTHROPOL, V6, P479, DOI 10.1146/annurev.an.06.100177.002403
+   Johnson GA, 1987, CHANGING ORG URUK AD, P107
+   Kempes CP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020551
+   Marcus J., 2008, ANCIENT CITY NEW PER
+   Marshall A, 1890, PRINCIPLES EC
+   Millon Rene, 1973, TEOTIHUACAN MAP 2
+   Millon Rene, 1973, TEOTIHUACAN MAP 1
+   Mori T, 2008, J REGIONAL SCI, V48, P165, DOI 10.1111/j.1467-9787.2008.00550.x
+   Mumford L., 1961, CITY HIST ITS ORIGIN
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Parsons J. R., 2008, PREHISPANIC SETTLEME
+   Parsons J. R., 1982, PREHISPANIC SETTLEME
+   Parsons Jeffrey R., 1971, PREHISTORIC SETTLEME
+   Parsons JR, 1983, ARCHAEOLOGICAL SETTL
+   Samaniego H., 2009, J TRANSP LAND USE, V1, P2139
+   Sanders W. T., 2007, PREHISPANIC SETTLEME
+   Sanders W. T, 1976, VALLEY MEXICO STUDIE, P101
+   Sanders William T, 1975, TEOTIHUACAN VALLEY 1
+   Sanders William T., 1979, BASIN MEXICO ECOLOGI
+   Sanders WT, 1965, CULTURAL ECOLOGY TEO
+   Sanders WT, 1996, TEOTIHUACAN VALLEY 3, V3
+   Sanders WT, 1987, TEOTIHUACAN VALLEY 2, V4
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   SMITH M. E., 1992, ARCHAEOLOGICAL RES A
+   Smith ME, 2005, J URBAN HIST, V31, P403, DOI 10.1177/0096144204274396
+   Smith ME, 2007, J PLAN HIST, V6, P3, DOI 10.1177/1538513206293713
+   Smith ME, 2012, P NATL ACAD SCI USA, V109, P7617, DOI 10.1073/pnas.1201714109
+   Smith Michael E., 2008, AZTEC CITY STATE CAP
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Trigger B., 2003, UNDERSTANDING EARLY
+   USGS, 2005, ASTER IM
+   Venables A, 1999, SPATIAL EC CITIES RE
+   WRIGHT HT, 1975, AM ANTHROPOL, V77, P267, DOI 10.1525/aa.1975.77.2.02a00020
+   Wright HT, 2001, CULTURAL ACTION URUK, P123
+   Yoffee Norman, 2005, MYTHS ARCHAIC STATE
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 61
+TC 44
+Z9 44
+SN 1932-6203
+PD FEB 12
+PY 2014
+VL 9
+IS 2
+AR e87902
+DI 10.1371/journal.pone.0087902
+UT WOS:000331262600020
+PM 24533062
+ER

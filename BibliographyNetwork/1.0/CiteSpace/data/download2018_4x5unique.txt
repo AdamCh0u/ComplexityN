@@ -1,0 +1,480 @@
+
+PT J
+AU Reis, RC
+   Goncalves, E
+   Taveira, JG
+AF Reis, Raquel Coelho
+   Goncalves, Eduardo
+   Taveira, Juliana Goncalves
+TI Determinants of inventive collaborations in Brazilian interregional and
+   international networks
+SO REVISTA BRASILEIRA DE INOVACAO
+DE Innovation Networks; Co-patenting Activity; Centrality; ZINB; REGIC
+ID INTERORGANIZATIONAL COLLABORATION; KNOWLEDGE PRODUCTION; INNOVATION
+   SYSTEMS; SOCIAL-STRUCTURE; SPILLOVERS; PROXIMITY; CLUSTERS; IMPACT; BUZZ
+AB The paper investigates the regional and structural determinants of the links in social networks of inventive collaboration among regions in Brazil. In order to do this, we make use of a patent applications database that registers collaborations among Brazilian inventors and Brazilian and foreign inventors. As possible determinants of the links in Brazilian co-patenting networks, we take into account variables that capture economic, technological, and demographic density aspects of Brazilian regions, as well as the topology structures of the nodes in the networks. The approach considers the Zero-inflated negative binomial (ZINB) model, which considers the absolute number of interregional links among inventors from different regions. The formation of interregional patenting links was found to have been positively affected by the number of internal links to the region, by the number of inventors, by university and business R&D capacity, and mainly by the degree of centrality of the region. In the case of international networks formed between Brazilian and foreign inventors, the links are positively affected only by R&D capacity, especially industrial, and by the degree of centrality. In addition, the degree of internationalization of a network seems to positively affect the establishment of interregional networks.
+CR Agrawal A, 2006, J ECON GEOGR, V6, P571, DOI 10.1093/jeg/lbl016
+   ARAUJO B. C., 2009, RADAR TECNOLOGIA PRO, P16
+   Audretsch DB, 1998, OXFORD REV ECON POL, V14, P18
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bathelt H, 2004, PROG HUM GEOG, V28, P31, DOI 10.1191/0309132504ph469oa
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Borgatti S. P, 2013, ANAL SOCIAL NETWORKS
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Breschi S, 2010, RES POLICY, V39, P14, DOI 10.1016/j.respol.2009.11.004
+   BURT RS, 1993, SOC NETWORKS, V15, P133, DOI 10.1016/0378-8733(93)90002-3
+   Capaldo A, 2007, STRATEGIC MANAGE J, V28, P585, DOI 10.1002/smj.621
+   Carlino GA, 2007, J URBAN ECON, V61, P389, DOI 10.1016/j.jue.2006.08.003
+   CARVALHO J. R., 2008, REV EC, V9, P87
+   Cassi L, 2015, REG STUD, V49, P936, DOI 10.1080/00343404.2013.816412
+   Cooke P, 1997, RES POLICY, V26, P475, DOI 10.1016/S0048-7333(97)00025-5
+   EBEL H., 2002, PHYS REV, V66
+   ERNST D., 1994, S S COOPERATION GLOB, P89
+   GARCIA R, 2016, XLL ENC NAC CTR POSG
+   Gilsing V, 2008, RES POLICY, V37, P1717, DOI 10.1016/j.respol.2008.08.010
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grillitsch M, 2015, ANN REGIONAL SCI, V54, P299, DOI 10.1007/s00168-014-0655-8
+   Guan JC, 2015, RES POLICY, V44, P545, DOI 10.1016/j.respol.2014.12.007
+   Hassink R, 2005, EUR PLAN STUD, V13, P521, DOI 10.1080/09654310500407134
+   He J, 2014, INT J URBAN REGIONAL, V38, P2174, DOI 10.1111/1468-2427.12007
+   Herstad SJ, 2014, RES POLICY, V43, P495, DOI 10.1016/j.respol.2013.08.003
+   Knoben J, 2006, INT J MANAG REV, V8, P71, DOI 10.1111/j.1468-2370.2006.0012.x
+   LASTRES H. M. M, 2009, PARCERIAS ESTRATEGIC, V5, P237
+   Lobo J, 2008, J URBAN ECON, V63, P871, DOI 10.1016/j.jue.2007.07.005
+   Maggioni MA, 2007, APPLIED EVOLUTIONARY ECONOMICS AND ECONOMIC GEOGRAPHY, P230
+   Marrocu E, 2013, TECHNOL FORECAST SOC, V80, P1484, DOI 10.1016/j.techfore.2013.03.004
+   MATOS R, 2002, 13 ENC NAC EST POP A
+   MATOS R. E. S., 2002, REV BRASILEIRA ESTUD, V19, P49
+   Miguelez E, 2013, REG STUD, V47, P1668, DOI 10.1080/00343404.2011.618803
+   Moreno R, 2005, ENVIRON PLANN A, V37, P1793, DOI 10.1068/a37341
+   Moreno R, 2005, ANN REGIONAL SCI, V39, P715, DOI 10.1007/s00168-005-0021-y
+   Narula R, 2002, RES POLICY, V31, P795, DOI 10.1016/S0048-7333(01)00148-2
+   Owen-Smith J, 2004, ORGAN SCI, V15, P5, DOI 10.1287/orsc.1030.0054
+   Ponds R, 2010, J ECON GEOGR, V10, P231, DOI 10.1093/jeg/lbp036
+   Poot T, 2009, INT J INNOV MANAG, V13, P177, DOI 10.1142/S136391960900225X
+   POWELL W. W., 2010, HDB EC INVENTION, V1, P575
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   ROTHWELL R, 1974, RES POLICY, V3, P258, DOI 10.1016/0048-7333(74)90010-9
+   Roxenhall T, 2013, INT J INNOV MANAG, V17, DOI 10.1142/S1363919613500023
+   Sen P, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.036106
+   Singh J, 2010, MANAGE SCI, V56, P41, DOI 10.1287/mnsc.1090.1072
+   Storper M, 2004, J ECON GEOGR, V4, P351, DOI 10.1093/jnlecg/lbh027
+   VUONG QH, 1989, ECONOMETRICA, V57, P307, DOI 10.2307/1912557
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8
+   Wu J, 2012, RES POLICY, V41, P489, DOI 10.1016/j.respol.2011.09.001
+   ZANIBONI N., 2015, REV EC GESTAO, V15, P159
+NR 53
+TC 0
+Z9 0
+SN 1677-2504
+EI 2178-2822
+PD JUL-DEC
+PY 2018
+VL 17
+IS 2
+BP 287
+EP 316
+DI 10.20396/rbi.v17i2.8649987
+UT WOS:000457371900003
+ER
+
+PT J
+AU Dong, N
+   You, L
+   Cai, WJ
+   Li, G
+   Lin, H
+AF Dong, Na
+   You, Lan
+   Cai, Wenjia
+   Li, Gang
+   Lin, Hui
+TI Land use projections in China under global socioeconomic and emission
+   scenarios: Utilizing a scenario-based land-use change assessment
+   framework
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+DE Land use; GCAM; Scenarios; SSP; Emission; Climate mitigation
+ID CLIMATE-CHANGE MITIGATION; FORE-SCE MODEL; COVER CHANGE;
+   SPATIAL-PATTERN; ECONOMIC-GROWTH; BIOMASS ENERGY; UNITED-STATES; FUTURE;
+   URBAN; BIODIVERSITY
+AB Land-use changes under the shared socioeconomic pathways (SSPs) and the representative concentration pathways (RCPs) have been analyzed globally, but how regional and national land use respond to the global mitigation policies is seldom explored, which poses difficulties in regional environmental adaptation and decision-making. China, as a major food consuming and biofuel production country, would suffer great uncertainties in future land-use dynamics under the global scenarios. Here, we present a scenario-based land-use change assessment framework, integrating Global Change Assessment Model and Future Land Use Simulation Model, to evaluate the potential land use projections of China from 2010 to 2100. Eight scenarios with different combinations of SSPs and radiative forcing targets of RCPs are designed, to analyze the impacts of the global socioeconomic and emission assumptions on regional mitigations and land-use changes. We recalibrated the historical land use data and urban dynamics of China to improve the consistency of modeling results with the actual regional changes. Meanwhile, differences in land use dynamics are demonstrated by spatial downscaling, which are jointly affected by the global assumptions and local driving factors, showing a fierce competition between the crop and forest. We find that the regional crop changes are sensitive to the socioeconomic dynamics as well as the bioenergy production, while different carbon regimes drive the forest changes in unexpected ways. Besides, overall heterogeneous landscape patterns and similar spatial suitability maps are found in distributions of land-use change between the emission and socioeconomic scenarios. The results indicate that this framework embedded with the consideration of anthropogenic managements as well as the detailed interactions of local environments provides an effective way to investigate regional land use response to a range of alternative future pathways.
+CR Alcamo J, 2001, SCENARIOS TOOLS INT
+   Alcamo J, 2008, ENV FUTURES PRACTICE, V2, P123, DOI DOI 10.1016/S1574-101X(08)00406-7
+   [Anonymous], 2014, GDP CURR US WORLD DE
+   Barbier EB, 2014, WIRES CLIM CHANGE, V5, P483, DOI 10.1002/wcc.281
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bildirici ME, 2013, BIOMASS BIOENERG, V50, P19, DOI 10.1016/j.biombioe.2012.09.055
+   Brovkin V, 2013, J CLIMATE, V26, P6859, DOI 10.1175/JCLI-D-12-00623.1
+   Clarke L., 2007, MODEL DOCUMENTATION
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Dellink R, 2017, GLOBAL ENVIRON CHANG, V42, P200, DOI 10.1016/j.gloenvcha.2015.06.004
+   Destek MA, 2017, RENEW ENERG, V111, P757, DOI 10.1016/j.renene.2017.05.008
+   Dietzel C., 2007, Transactions in GIS, V11, P29, DOI 10.1111/j.1467-9671.2007.01031.x
+   Dushku A., 2003, SPATIAL MODELING BAS
+   Edmonds J, 2013, CLIMATIC CHANGE, V118, P29, DOI 10.1007/s10584-012-0678-z
+   FAO, 2010, GLOB FOR RES ASS
+   FAO, 2006, GLOB FOR RES ASS 200
+   FAO & IIASA, 2009, HARMONIZED WORLD SOI
+   Feng JA, 2010, ENVIRON PLANN B, V37, P838, DOI 10.1068/b35078
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   Goldewijk KK, 2001, GLOBAL BIOGEOCHEM CY, V15, P417, DOI 10.1029/1999GB001232
+   Guneralp B, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/1/014025
+   [何春�? He Chunyang], 2004, [地理学报, Acta Geographica Sinica], V59, P599
+   Herold M., 2005, Computers, Environment and Urban Systems, V29, P369, DOI 10.1016/j.compenvurbsys.2003.12.001
+   Humpenoder F, 2015, ENVIRON SCI TECHNOL, V49, P6731, DOI 10.1021/es506201r
+   Hurtt GC, 2011, CLIMATIC CHANGE, V109, P117, DOI 10.1007/s10584-011-0153-2
+   IIASA/FAO, 2012, GLOB AGR EC ZON GAEZ
+   IIASA SSP Database, 2012, SSP DAT
+   IMAGE Team, 2001, IM 2 2 IMPL SRES SCE
+   IPCC, 2007, MIT CLIM CHANG CONTR
+   IPCC, 2013, IPCC 5 ASS REP AR5
+   Kim SH, 2006, ENERG J, P63
+   Kuang WH, 2016, LANDSCAPE URBAN PLAN, V145, P21, DOI 10.1016/j.landurbplan.2015.10.001
+   Kyle P., 2011, GCAM 3 0 AGR LAND US, P58
+   Lai L, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1601063
+   Le Page Y, 2016, GEOSCI MODEL DEV, V9, P3055, DOI 10.5194/gmd-9-3055-2016
+   Li X, 2002, INT J GEOGR INF SCI, V16, P323, DOI 10.1080/13658810210137004
+   Li X, 2017, ANN AM ASSOC GEOGR, V107, P1040, DOI 10.1080/24694452.2017.1303357
+   Li XC, 2016, SCI BULL, V61, P1651, DOI 10.1007/s11434-016-1148-1
+   [梁友�? Liang Youjia], 2011, [地理研究, Geographical Research], V30, P564
+   Liu J Y, 1997, J REMOTE SENS, V1, P225
+   Liu JY, 2014, J GEOGR SCI, V24, P195, DOI 10.1007/s11442-014-1082-6
+   Liu JY, 2010, J GEOGR SCI, V20, P483, DOI 10.1007/s11442-010-0483-4
+   Liu X., 2017, LANDSCAPE URBAN PLAN, DOI [10.1016/j.landtubplan.2017.09.019, DOI 10.1016/J.LANDTUBPLAN.2017.09.019]
+   Luckow P, 2010, INT J GREENH GAS CON, V4, P865, DOI 10.1016/j.ijggc.2010.06.002
+   Melorose J., 2015, ESAPWP241
+   Meyfroidt P, 2013, CURR OPIN ENV SUST, V5, P438, DOI 10.1016/j.cosust.2013.04.003
+   Monfreda C., 2007, CHANGE POLICY, V40, P1
+   Moss RH, 2010, NATURE, V463, P747, DOI 10.1038/nature08823
+   Nachtergaele F., 2010, Proceedings of the 19th World Congress of Soil Science: Soil solutions for a changing world, Brisbane, Australia, 1-6 August 2010. Symposium 1.2.1 Global soil spatial information systems, P34
+   Nakicenovic N., 2000, SPECIAL REPORT WORKI
+   Newbold T, 2015, NATURE, V520, P45, DOI 10.1038/nature14324
+   O'Neill BC, 2017, GLOBAL ENVIRON CHANG, V42, P169, DOI 10.1016/j.gloenvcha.2015.01.004
+   O'Neill BC, 2014, CLIMATIC CHANGE, V122, P387, DOI 10.1007/s10584-013-0905-2
+   Pontius RG, 2001, AGR ECOSYST ENVIRON, V85, P191, DOI 10.1016/S0167-8809(01)00183-9
+   Pontius RG, 2008, ANN REGIONAL SCI, V42, P11, DOI 10.1007/s00168-007-0138-2
+   Pontius RG, 2011, INT J REMOTE SENS, V32, P4407, DOI 10.1080/01431161.2011.552923
+   Popp A, 2017, GLOBAL ENVIRON CHANG, V42, P331, DOI 10.1016/j.gloenvcha.2016.10.002
+   Popp A, 2014, NAT CLIM CHANGE, V4, P1095, DOI 10.1038/NCLIMATE2444
+   Prestele R, 2016, GLOBAL CHANGE BIOL, V22, P3967, DOI 10.1111/gcb.13337
+   Ramankutty N, 1999, GLOBAL BIOGEOCHEM CY, V13, P997, DOI 10.1029/1999GB900046
+   Reilly J, 2012, ENVIRON SCI TECHNOL, V46, P5672, DOI 10.1021/es2034729
+   RESDC, 2014, DAT CTR RES ENV SCI
+   Riahi K., 2015, GLOBAL ENVIRON CHANG, V42, P153, DOI DOI 10.1016/J.GL0ENVCHA.2016.05.009
+   Rounsevell MDA, 2006, AGR ECOSYST ENVIRON, V114, P57, DOI 10.1016/j.agee.2005.11.027
+   Samir KC, 2017, GLOBAL ENVIRON CHANG, V42, P181, DOI 10.1016/j.gloenvcha.2014.06.004
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P16083, DOI 10.1073/pnas.1211658109
+   Sherba JT, 2015, AIMS ENVIRON SCI, V2, P623, DOI 10.3934/environsci.2015.3.623
+   Sleeter BM, 2012, GLOBAL ENVIRON CHANG, V22, P896, DOI 10.1016/j.gloenvcha.2012.03.008
+   Sohl T, 2008, ECOL MODEL, V219, P49, DOI 10.1016/j.ecolmodel.2008.08.003
+   Sohl TL, 2014, ECOL APPL, V24, P1015, DOI 10.1890/13-1245.1
+   Sohl TL, 2012, AGR ECOSYST ENVIRON, V153, P1, DOI 10.1016/j.agee.2012.02.019
+   Sohl TL, 2007, J LAND USE SCI, V2, P103, DOI 10.1080/17474230701218202
+   Solecki WD, 2004, J ENVIRON MANAGE, V72, P105, DOI 10.1016/j.jenvman.2004.03.014
+   Strangers B., 2004, GEOJOURNAL, V61, P381
+   Sun XF, 2012, PROCEDIA ENVIRON SCI, V13, P590, DOI 10.1016/j.proenv.2012.01.050
+   Taylor KE, 2012, B AM METEOROL SOC, V93, P485, DOI 10.1175/BAMS-D-11-00094.1
+   Thomson AM, 2014, GLOBAL ENVIRON CHANG, V24, P143, DOI 10.1016/j.gloenvcha.2013.11.019
+   Thomson AM, 2011, CLIMATIC CHANGE, V109, P77, DOI 10.1007/s10584-011-0151-4
+   Thomson AM, 2010, P NATL ACAD SCI USA, V107, P19633, DOI 10.1073/pnas.0910467107
+   Tubiello FN, 2015, GLOBAL CHANGE BIOL, V21, P2655, DOI 10.1111/gcb.12865
+   UCN & UNEP-WCMC, 2014, WORLD DAT PROT AR WD, P2
+   van Delden H, 2010, ECOL MODEL, V221, P2153, DOI 10.1016/j.ecolmodel.2010.03.023
+   van Vuuren DP, 2014, CLIMATIC CHANGE, V122, P373, DOI 10.1007/s10584-013-0906-1
+   van Vuuren DP, 2011, CLIMATIC CHANGE, V109, P1, DOI 10.1007/s10584-011-0157-y
+   Verburg PH, 2008, ANN REGIONAL SCI, V42, P57, DOI 10.1007/s00168-007-0136-4
+   Verburg PH, 2006, AGR ECOSYST ENVIRON, V114, P39, DOI 10.1016/j.agee.2005.11.024
+   Verburg PH, 1999, ECOL MODEL, V116, P45, DOI 10.1016/S0304-3800(98)00156-2
+   Verburg PH, 2002, ENVIRON MANAGE, V30, P391, DOI 10.1007/s00267-002-2630-x
+   West T. O., 2014, ENV RES LETT, V9
+   Wise M., 2011, GCAM 3 0 AGR LAND US, P20971
+   Wise M, 2009, SCIENCE, V324, P1183, DOI 10.1126/science.1168475
+NR 92
+TC 3
+Z9 3
+SN 0959-3780
+EI 1872-9495
+PD MAY
+PY 2018
+VL 50
+BP 164
+EP 177
+DI 10.1016/j.gloenvcha.2018.04.001
+UT WOS:000436223800014
+ER
+
+PT S
+AU Evseeva, S
+   Kalchenko, O
+   Evseeva, O
+AF Evseeva, Svetlana
+   Kalchenko, Olga
+   Evseeva, Oksana
+BE Ilin, I
+   Kalinina, O
+TI Innovative projects for sustainable development of cities (case of
+   Saint-Petersburg)
+SO INTERNATIONAL SCIENCE CONFERENCE SPBWOSCE-2017 BUSINESS TECHNOLOGIES FOR
+   SUSTAINABLE URBAN DEVELOPMENT
+SE MATEC Web of Conferences
+CT International Scientific Conference on Business Technologies for
+   Sustainable Urban Development (SPbWOSCE)
+CY DEC 20-22, 2017
+CL Peter Great Saint Petersburg Polytechn Univ, Inst Ind Management Econ &
+   Tr, St Petersburg, RUSSIA
+HO Peter Great Saint Petersburg Polytechn Univ, Inst Ind Management Econ & Tr
+AB It is paid a great attention to the problem of sustainable development in modern society. The development of the economy is impossible without the usage of innovative projects in all areas of life. The process of urbanization poses new challenges, so the implementation of innovative projects aimed at sustainable development of cities takes on special significance. The objectives of the current study are definition of the consistency of the United Nations Sustainable Development Goals and ways to achieve the goals by 2030 for Saint-Petersburg; investigation into the experience of implementation of innovative projects for sustainable development in St. Petersburg; identification the consistency of the United Nations Sustainable Development Goals and innovative projects in St. Petersburg. Research methods used in the research are deduction and induction, system analysis, synthesis, comparison and generalization, statistical analysis. The main results include investigation into the experience of St. Petersburg in innovative projects for sustainable development. They showed that the UN's SDGs are reflected in the strategy of economic and social development of St. Petersburg until 2030, but partly; a number of pilot innovative projects in the city aimed at sustainable urban development (United Nations Sustainable Development Goals): Ensure access to water and sanitation for all; Ensure access to affordable, reliable, sustainable and modern energy for all; Make cities inclusive, safe, resilient and sustainable; Ensure sustainable consumption and production patterns. The paper contributes toward the knowledge of sustainable development at the city's level by analysing the experience of innovative projects in St. Petersburg.
+CR Andersen M. M., 2015, R D MAN C, V2015
+   Assembly UN General, 2012, FUT WE WANT RES AD G
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bill AR, 2017, SUSTAINABLE ECONOMIC GROWTH, EDUCATION EXCELLENCE, AND INNOVATION MANAGEMENT THROUGH VISION 2020, VOLS I-VII, P2268
+   Blowers A., 2013, PLANNING SUSTAINABLE
+   Bril A. R., 2017, SMART CITY, V106
+   Glazyev S. Y., 2013, EC SOCIAL CHANGES FA, V1, P18
+   Glukhov VV, 2015, LECT NOTES COMPUT SC, V9247, P543, DOI 10.1007/978-3-319-23126-6_47
+   Hirooka M, 2006, INNOVATION DYNAMISM AND ECONOMIC GROWTH: A NONLINEAR PERSPECTIVE, P1
+   Ivolga A, 2014, EKON POLJOPR, V61, P331
+   Johnson B, 2008, INNOV-MANAG POLICY P, V10, P146, DOI 10.5172/impp.453.10.2-3.146
+   Kutsenko E, 2015, FORESIGHT STI GOV, V9, P32, DOI 10.17323/1995-459X.2015.1.32.55
+   Levi J. M., 2011, P 7 INT C ASECU, P425
+   Malysheva T. V., 2016, INT J EC FINANCIAL I, V6, P185
+   Mieg H. A., 2013, I SOCIAL INNOVATION
+   Nidumolu R, 2009, HARVARD BUS REV, V87, P56
+   Nijkamp Peter, 2014, SUSTAINABLE CITIES E
+   Pearce D., 2013, SUSTAINABLE DEV EC E
+   Punch KF, 2013, INTRO SOCIAL RES QUA
+   Schiederig T, 2012, R&D MANAGE, V42, P180, DOI 10.1111/j.1467-9310.2011.00672.x
+   Warnke P., 2011, 22 ISPIM C, P12
+NR 21
+TC 0
+Z9 0
+SN 2261-236X
+PY 2018
+VL 170
+AR 02007
+DI 10.1051/matecconf/201817002007
+UT WOS:000449660800143
+ER
+
+PT J
+AU Fischer, BB
+   Queiroz, S
+   Vonortas, NS
+AF Fischer, Bruno Brandao
+   Queiroz, Sergio
+   Vonortas, Nicholas S.
+TI On the location of knowledge-intensive entrepreneurship in developing
+   countries: lessons from SAo Paulo, Brazil
+SO ENTREPRENEURSHIP AND REGIONAL DEVELOPMENT
+DE Knowledge-intensive entrepreneurship; geography of innovation;
+   developing countries; entrepreneurial ecosystems
+ID SAMPLE SELECTION BIAS; UNITED-STATES; TECHNOLOGY ENTREPRENEURSHIP;
+   INNOVATION SYSTEMS; START-UPS; CITIES; GROWTH; DETERMINANTS; FIRMS;
+   URBANIZATION
+AB This article empirically appraises the geographical distribution of knowledge-intensive entrepreneurship (KIE) in the settings of an emerging economy. We start from the typical agglomeration approach and then introduce a set of variables related to local market conditions, distance from the economic hub, and knowledge & innovation system to explain KIE location and density on the basis of city-level data in the State of SAo Paulo, Brazil. Findings indicate KIE concentration in and around a few urban areas, providing support to agglomeration economies concepts. There is strong evidence that the local presence of research-oriented universities, access to capital, and business concentration are correlated to KIE emergence and density. Results also indicate the moderating effect of agglomeration diseconomies mainly related to factors of rapid and anarchic expansion of urban centers and the consequences of extreme inequalities in income distribution. This challenges the usability of concepts of entrepreneurial ecosystems from advanced economies if not adapted to the realities of developing countries.
+RI Vonortas, Nicholas/O-6321-2015
+OI Vonortas, Nicholas/0000-0002-6745-4926; Brandao Fischer,
+   Bruno/0000-0003-3878-9097
+CR Acs ZJ, 2004, REG STUD, V38, P911, DOI 10.1080/0034340042000280938
+   Acs ZJ, 2009, SMALL BUS ECON, V32, P15, DOI 10.1007/s11187-008-9157-3
+   Arauzo-Carod JM, 2008, TIJDSCHR ECON SOC GE, V99, P193, DOI 10.1111/j.1467-9663.2008.00453.x
+   Audretsch D. B, 2006, ENTREPRENEURSHIP EC, DOI [10.1093/acprof:oso/9780195183511.001.0001, DOI 10.1093/ACPROF:OSO/9780195183511.001.0001]
+   Bairoch Paul, 1988, CITIES EC DEV DAWN H
+   Baltzopoulos A, 2013, REG STUD, V47, P934, DOI 10.1080/00343404.2011.602335
+   Barberia LG, 2010, GEOFORUM, V41, P951, DOI 10.1016/j.geoforum.2010.07.002
+   Beckman C, 2012, STRATEG ENTREP J, V6, P89, DOI 10.1002/sej.1134
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BIDERMAN CIRO, 2015, Rev. Econ. Polit., V35, P492, DOI 10.1590/0101-31572015v35n03a07
+   Boschma R., 2010, PAPERS EVOLUTIONARY, V10, P1
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Brown R, 2014, TECHNOVATION, V34, P773, DOI 10.1016/j.technovation.2014.07.013
+   Buhaug H, 2013, GLOBAL ENVIRON CHANG, V23, P1, DOI 10.1016/j.gloenvcha.2012.10.016
+   Cala C, 2016, TIJDSCHRIFT EC SOCIA, V108, P768
+   Certo ST, 2016, STRATEGIC MANAGE J, V37, P2639, DOI 10.1002/smj.2475
+   Chauvin JP, 2017, J URBAN ECON, V98, P17, DOI 10.1016/j.jue.2016.05.003
+   Chaves C. V., 2009, SCI PUBL POLICY, V36, P373, DOI DOI 10.3152/030234209X442016
+   Crescenzi R, 2012, J ECON SURV, V26, P517, DOI 10.1111/j.1467-6419.2012.00726.x
+   Cruz S., 2014, 546 U PORT SCH EC MA
+   Cullen JB, 1999, REV ECON STAT, V81, P159, DOI 10.1162/003465399558030
+   Cala CD, 2016, PAP REG SCI, V95, P259, DOI 10.1111/pirs.12128
+   Danley B., 2012, ANAL GEOGRAPHY ENTRE
+   Delgado M, 2010, J ECON GEOGR, V10, P495, DOI 10.1093/jeg/lbq010
+   Di Gregorio D, 2003, RES POLICY, V32, P209, DOI 10.1016/S0048-7333(02)00097-5
+   Dobbs R., 2011, URBAN WORLD MAPPING
+   Duranton G, 2001, AM ECON REV, V91, P1454, DOI 10.1257/aer.91.5.1454
+   Duranton G., 2004, HDB REGIONAL URBAN E, V4, P2063, DOI DOI 10.1016/S1574-0080(04)80005-1
+   Duranton G, 2007, AM ECON REV, V97, P197, DOI 10.1257/aer.97.1.197
+   Ely P., 2015, MISCELLANEA GEOGRAPH, V19, P34
+   Etzkowitz H, 1998, RES POLICY, V27, P823, DOI 10.1016/S0048-7333(98)00093-6
+   Feldman M. P., 2010, HDB EC TECHNICAL CHA, P381
+   Feldman Maryann P., 2001, IND CORP CHANGE, V10, P861, DOI DOI 10.1093/ICC/10.4.861
+   FELDMAN MP, 1994, ANN ASSOC AM GEOGR, V84, P210, DOI 10.1111/j.1467-8306.1994.tb01735.x
+   Fernandes AC, 2010, SCI PUBL POLICY, V37, P485, DOI 10.3152/030234210X512016
+   Ferreira JJ, 2017, ENTREP REGION DEV, V29, P27, DOI 10.1080/08985626.2016.1255431
+   Figueiredo O, 2002, J URBAN ECON, V52, P341, DOI 10.1016/S0094-1190(02)00006-2
+   Fini R, 2011, RES POLICY, V40, P1113, DOI 10.1016/j.respol.2011.05.013
+   Fischer B, 2017, J TECHNOLOGY TRANSFE
+   Fitjar RD, 2011, EUR PLAN STUD, V19, P555, DOI 10.1080/09654313.2011.548467
+   Florida R., 2014, 377 CTR EXC SCI INN
+   Florida R, 2012, ENVIRON PLANN A, V44, P628, DOI 10.1068/a44284
+   Freytag A, 2007, J EVOL ECON, V17, P117, DOI 10.1007/s00191-006-0044-2
+   Fritsch M, 2002, INT REGIONAL SCI REV, V25, P86, DOI 10.1177/016001702762039394
+   Fritsch M, 2008, SMALL BUS ECON, V30, P1, DOI 10.1007/s11187-007-9057-y
+   Ghani E, 2014, REG STUD, V48, P1071, DOI 10.1080/00343404.2013.839869
+   Gilbert BA, 2004, SMALL BUS ECON, V22, P313, DOI 10.1023/B:SBEJ.0000022235.10739.a8
+   Glaeser E, 2007, NATL BUREAU EC RES W
+   Glaeser E, 2017, J URBAN ECON, V98, P1, DOI 10.1016/j.jue.2017.01.003
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Glaeser EL, 2017, OXFORD REV ECON POL, V33, P373, DOI 10.1093/oxrep/grx034
+   Glaeser EL, 2014, J EUR ECON ASSOC, V12, P1154, DOI 10.1111/jeea.12100
+   Glaeser EL, 2010, J URBAN ECON, V67, P150, DOI 10.1016/j.jue.2009.09.008
+   Glaeser EL, 2009, J ECON MANAGE STRAT, V18, P623, DOI 10.1111/j.1530-9134.2009.00225.x
+   Goldstein H, 2006, ECON DEV Q, V20, P22, DOI 10.1177/0891242405283387
+   Gonzalez-Pernia JL, 2015, ENTREP REGION DEV, V27, P555, DOI 10.1080/08985626.2015.1075602
+   Gopakumar G, 2015, MOBILITIES-UK, V10, P304, DOI 10.1080/17450101.2013.857944
+   Guerrero M, 2016, TECHNOLOGICAL FORECA, V119, P294
+   Guo Q, 2016, URBAN STUD, V53, P2584, DOI 10.1177/0042098015595598
+   HECKMAN JJ, 1979, ECONOMETRICA, V47, P153, DOI 10.2307/1912352
+   Henderson V, 2002, WORLD BANK RES OBSER, V17, P89, DOI 10.1093/wbro/17.1.89
+   Henderson V, 1997, REG SCI URBAN ECON, V27, P583, DOI 10.1016/S0166-0462(96)02169-2
+   Hernández Carlos, 2017, Journal of Technology Management & Innovation, V12, P71
+   Tran HT, 2017, ANN REGIONAL SCI, V59, P69, DOI 10.1007/s00168-017-0819-4
+   Huffman D, 2002, ANN REGIONAL SCI, V36, P403, DOI 10.1007/s001680200104
+   Hymel K, 2009, J URBAN ECON, V65, P127, DOI 10.1016/j.jue.2008.11.002
+   Iammarino S, 2005, EUR PLAN STUD, V13, P497, DOI 10.1080/09645310500107084
+   Isenberg DJ, 2010, HARVARD BUS REV, V88, P40
+   Jacobs J, 1969, EC CITIES
+   Jaitman L, 2015, LAT AM ECON REV, V24, DOI 10.1007/s40503-015-0027-5
+   Kibler E, 2013, ENTREP REGION DEV, V25, P293, DOI 10.1080/08985626.2012.721008
+   Kim PH, 2006, SMALL BUS ECON, V27, P5, DOI 10.1007/s11187-006-0007-x
+   Knudsen B, 2008, ANN ASSOC AM GEOGR, V98, P461, DOI 10.1080/00045600701851150
+   Kotkin J, 2014, PROBLEM MEGACITIES
+   KRUGMAN P, 1995, PROC WB ANN CONF DEV, P241
+   Lederman D., 2014, LATIN AM ENTREPRENEU
+   Lerner J, 2009, KAUFF FOUND SER, P1
+   Li MH, 2016, ENTREP REGION DEV, V28, P97, DOI 10.1080/08985626.2015.1109003
+   Lin YT, 2017, J URBAN ECON, V98, P98, DOI 10.1016/j.jue.2016.11.002
+   Malecki Edward J, 2009, International Journal of Entrepreneurship and Small Business, V7, P175, DOI 10.1504/IJESB.2009.022805
+   Malerba F., 2010, DIME AEGISLIEE NTUA
+   Mellander C., 2016, REG STUD, V51, P86
+   Miller DJ, 2017, SMALL BUS ECON, V49, P75, DOI 10.1007/s11187-017-9868-4
+   Moretti E, 2013, IND CORP CHANGE, V22, P339, DOI 10.1093/icc/dts051
+   National Research Council, 1996, M CHALL MEG DEV WORL
+   Naude W, 2008, ENTREP REGION DEV, V20, P111, DOI 10.1080/08985620701631498
+   Puga D, 1998, J REGIONAL SCI, V38, P231, DOI 10.1111/1467-9787.00090
+   Puga D, 2010, J REGIONAL SCI, V50, P203, DOI 10.1111/j.1467-9787.2009.00657.x
+   Radosevic S, 2013, RES POLICY, V42, P1015, DOI 10.1016/j.respol.2013.01.011
+   Rosenthal SS, 2010, J URBAN ECON, V67, P135, DOI 10.1016/j.jue.2009.09.001
+   Salles S, 2011, RES EVALUAT, V20, P159, DOI 10.3152/095820211X12941371876184
+   Santarelli E, 2012, GROWTH CHANGE, V43, P638, DOI 10.1111/j.1468-2257.2012.00601.x
+   Sautet F, 2011, ENTREP THEORY PRACT, V37, P387
+   Saxenian A., 1994, REGIONAL ADVANTAGE C
+   Schaeffer V, 2016, ENTREP REGION DEV, V28, P724, DOI 10.1080/08985626.2016.1247915
+   Sheriff M, 2015, AFR J ECON MANAG STU, V6, P17, DOI 10.1108/AJEMS-10-2012-0064
+   Stam E, 2009, PAPERS EVOLUTIONARY
+   Subrahmanya M., 2017, J DEV ENTREPRENEURSH, V22, P1
+   Tavassoli S, 2016, ENTREP REGION DEV, V28, P746, DOI 10.1080/08985626.2016.1247916
+   Valliere D, 2009, ENTREP REGION DEV, V21, P459, DOI 10.1080/08985620802332723
+   Venables AJ, 2005, J ECON GEOGR, V5, P3, DOI 10.1093/jnlecg/lbh051
+   Wadee AA, 2017, SCI TECHNOL SOC, V22, P284, DOI 10.1177/0971721817702290
+   Wang P., 2005, URBAN DYNAMICS GROWT, P533
+   Wang SW, 2006, SMALL BUS ECON, V27, P313, DOI 10.1007/s11187-005-8722-2
+   Zhao PJ, 2009, INT DEV PLANN REV, V31, P235, DOI 10.3828/idpr.31.3.2
+NR 105
+TC 4
+Z9 4
+SN 0898-5626
+EI 1464-5114
+PY 2018
+VL 30
+IS 5-6
+BP 612
+EP 638
+DI 10.1080/08985626.2018.1438523
+UT WOS:000432156500006
+ER
+
+PT J
+AU Mahjabin, T
+   Garcia, S
+   Grady, C
+   Mejia, A
+AF Mahjabin, Tasnuva
+   Garcia, Susana
+   Grady, Caitlin
+   Mejia, Alfonso
+TI Large cities get more for less: Water footprint efficiency across the US
+SO PLOS ONE
+ID URBAN; METABOLISM; FOOD
+AB Many urban indicators and functional citywide properties have been shown to scale with population due to agglomeration effects. We hypothesize that scaling relations may also exist for water-related urban indicators such as the water footprint. The water footprint is an indicator of water use that measures humans' appropriation of freshwater resources. We analyze the scaling of the water footprint for 65 mid- to large-sized US cities using both empirical estimates and a social interaction network model of city functioning. The network model is used to explain the presence of any scaling exponent in the empirical estimates of the urban water footprint by linking to previous theories of urban scaling. We find that the urban water footprint tends to approximately show sublinear scaling behavior with both population and gross domestic product. Thus, large cities tend to be more water footprint efficient and productive than mid-sized cities, where efficiency and productivity are quantified, in a broad sense, as deviations from a linear scaling exponent. We find the sublinear scaling may be linked to changes in urban economic structure with city size, which lead to large cities shifting water intensive economic activities to less populated regions. In addition, we find that green water contributes to the scaling both positively by transferring the dependence of food consumption on population into the water footprint and negatively by increasing heterogeneity. Overall, the proposed scaling relations allow for the comparison of water footprint efficiency and productivity of cities. Comparing these properties and identifying deviations from the expected behavior has implications for water resources and urban sustainability.
+OI Grady, Caitlin/0000-0002-9151-6664
+CR Ahams IC, 2017, J AM WATER RESOUR AS, V53, P1147, DOI 10.1111/1752-1688.12563
+   Alonso W., 1964, LOCATION LAND USE
+   Angel S, 2005, DYNAMICS GLOBAL URBA
+   Bai XM, 2016, CURR OPIN ENV SUST, V23, P69, DOI 10.1016/j.cosust.2016.11.010
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0022
+   Bettencourt L. M. A., 2016, J R SOC INTERFACE, V13, P1
+   Bettencourt LM, 2013, ARXIV13015919
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bidoglio G., 2018, J HYDROL, DOI [10.1016/j.jhydrol.2017.12.004, DOI 10.1016/J.JHYDROL.2017.12.004]
+   CDM-Smith, 1996, IWR MAIN WAT US COEF
+   Chini CM, 2017, WATER RESOUR RES, V53, P316, DOI 10.1002/2016WR019473
+   Crane P, 2005, SCIENCE, V308, P1225, DOI 10.1126/science.1114165
+   Creutzig F, 2015, P NATL ACAD SCI USA, V112, P6283, DOI 10.1073/pnas.1315545112
+   Dang Q, 2015, WATER RESOUR RES, V51, P973, DOI 10.1002/2014WR015919
+   Decker EH, 2000, ANN REV ENERGY ENV, V25
+   Dermody BJ, 2018, EARTH SYST DYNAM, V9, P103, DOI 10.5194/esd-9-103-2018
+   Facchini A, 2017, APPL ENERG, V186, P86, DOI 10.1016/j.apenergy.2016.09.025
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Fujita M, 1989, URBAN EC THEORY LAND
+   Gomez-Lievano A, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0012
+   Hoekstra AY, 2007, WATER RESOUR MANAG, V21, P35, DOI 10.1007/s11269-006-9039-x
+   Hoekstra AY, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8010020
+   Hoekstra AY, 2012, P NATL ACAD SCI USA, V109, P3232, DOI 10.1073/pnas.1109936109
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kennedy CA, 2015, P NATL ACAD SCI USA
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kenny J. F., 2009, ESTIMATED USE WATER
+   Konar M, 2011, WATER RESOUR RES, V47, DOI 10.1029/2010WR010307
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102007
+   Mekonnen MM, 2011, HYDROL EARTH SYST SC, V15, P1577, DOI 10.5194/hess-15-1577-2011
+   Milan BF, 2017, SUSTAINABLE WATER RE, V3, P479
+   Mubako ST, 2011, FRAMEWORKS ESTIMATIN
+   Mubako S, 2013, ECOL ECON, V93, P230, DOI 10.1016/j.ecolecon.2013.06.005
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   Paterson W, 2015, SUSTAINABILITY-BASEL, V7, P8461, DOI 10.3390/su7078461
+   Ramaswami A, 2016, SCIENCE, V352, P940, DOI 10.1126/science.aaf7160
+   Rushforth RR, 2016, WATER RESOUR RES, V52, P2698, DOI 10.1002/2015WR018006
+   Rushforth RR, 2015, SUSTAINABILITY-BASEL, V7, P8522, DOI 10.3390/su7078522
+   Scanlon BR, 2017, WATER RESOUR RES, V53, P3550, DOI 10.1002/2017WR020889
+   Solley W. B., 1998, ESTIMATED USE WATER
+   Southworth F, 2011, FREIGHT ANAL FRAMEWO
+   U.S. Census Bureau, 2007, COUNT CIT DAT BOOK
+   United Nations Department of Economic and Social Affairs Population Division, 2015, WORLD URB PROSP 2014
+   Vanham D, 2016, SCI TOTAL ENVIRON, V573, P96, DOI 10.1016/j.scitotenv.2016.08.111
+   Vanham D, 2014, WATER SCI TECHNOL, V69, P789, DOI 10.2166/wst.2013.759
+   Venables A, 1999, SPATIAL EC CITIES RE
+   Youn H, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2015.0937
+NR 53
+TC 0
+Z9 0
+SN 1932-6203
+PD AUG 20
+PY 2018
+VL 13
+IS 8
+AR e0202301
+DI 10.1371/journal.pone.0202301
+UT WOS:000442202100024
+PM 30125324
+ER

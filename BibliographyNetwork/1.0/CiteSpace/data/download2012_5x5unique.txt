@@ -1,0 +1,420 @@
+
+PT J
+AU Ruzzenenti, F
+   Picciolo, F
+   Basosi, R
+   Garlaschelli, D
+AF Ruzzenenti, Franco
+   Picciolo, Francesco
+   Basosi, Riccardo
+   Garlaschelli, Diego
+TI Spatial effects in real networks: Measures, null models, and
+   applications
+SO PHYSICAL REVIEW E
+ID TRANSPORTATION NETWORKS; GENERAL-MODEL; FOOD WEBS; DESIGN; GROWTH;
+   TRADE; LIFE
+AB Spatially embedded networks are shaped by a combination of purely topological (space-independent) and space-dependent formation rules. While it is quite easy to artificially generate networks where the relative importance of these two factors can be varied arbitrarily, it is much more difficult to disentangle these two architectural effects in real networks. Here we propose a solution to this problem, by introducing global and local measures of spatial effects that, through a comparison with adequate null models, effectively filter out the spurious contribution of nonspatial constraints. Our filtering allows us to consistently compare different embedded networks or different historical snapshots of the same network. As a challenging application we analyze the World Trade Web, whose topology is known to depend on geographic distances but is also strongly determined by nonspatial constraints (degree sequence or gross domestic product). Remarkably, we are able to detect weak but significant spatial effects both locally and globally in the network, showing that our method succeeds in retrieving spatial information even when nonspatial factors dominate. We finally relate our results to the economic literature on gravity models and trade globalization. DOI: 10.1103/PhysRevE.86.066110
+RI Garlaschelli, Diego/O-4862-2014; Basosi, Riccardo/E-7497-2011
+OI Garlaschelli, Diego/0000-0001-6035-1783; Basosi,
+   Riccardo/0000-0003-1026-7668; Picciolo, Francesco/0000-0002-5595-1140
+CR Anderson JE, 2012, 17835 NAT BUR EC RES
+   Serrano MA, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.048701
+   Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Barrat A., 2008, DYNAMICAL PROCESSES
+   Barthelemy M, 2003, EUROPHYS LETT, V63, P915, DOI 10.1209/epl/i2003-00600-6
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Bebber DP, 2007, P R SOC B, V274, P2307, DOI 10.1098/rspb.2007.0459
+   Bejan A, 2010, PHILOS T R SOC B, V365, P1335, DOI 10.1098/rstb.2009.0302
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bianconi G, 2009, P NATL ACAD SCI USA, V106, P11433, DOI 10.1073/pnas.0811511106
+   Bradde S, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.218701
+   Caldarelli G., 2007, SCALE FREE NETWORKS
+   Duenas M., 2011, LEM WORKING PAPER SE
+   Fath BD, 2001, J THEOR BIOL, V208, P493, DOI 10.1006/jtbi.2000.2234
+   Feenstra RC, 2001, CAN J ECON, V34, P430, DOI 10.1111/0008-4085.00082
+   Garlaschelli D, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.015101
+   Garlaschelli D, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.268701
+   Garlaschelli D, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.188701
+   Garlaschelli D, 2003, NATURE, V423, P165, DOI 10.1038/nature01604
+   Garlaschelli D, 2010, SYMMETRY-BASEL, V2, P1683, DOI 10.3390/sym2031683
+   Garlaschelli D, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/7/073005
+   Garlaschelli D, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.015101
+   Gleditsch KS, 2002, J CONFLICT RESOLUT, V46, P712, DOI 10.1177/002200202236171
+   Kaluza P, 2010, J R SOC INTERFACE, V7, P1093, DOI 10.1098/rsif.2009.0495
+   Krioukov D, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.036106
+   Maslov S, 2002, SCIENCE, V296, P910, DOI 10.1126/science.1065103
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Park J, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.066117
+   Picciolo F., 2012, P 8 INT C SIGN IM TE, P784
+   Queiros-Conde D, 2007, PHYSICA A, V384, P719, DOI 10.1016/j.physa.2007.05.037
+   Roberts ES, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.046103
+   Rocha LAO, 2005, INT COMMUN HEAT MASS, V32, P1281, DOI 10.1016/j.icheatmasstransfer.2005.07.010
+   Ruzzenenti F, 2010, SYMMETRY-BASEL, V2, P1710, DOI 10.3390/sym2031710
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Squartini T, 2012, LECT NOTES COMPUT SC, V7166, P24
+   Squartini T., ARXIV12084208
+   Squartini T, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046118
+   Squartini T, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.046117
+   Squartini T, 2011, NEW J PHYS, V13, DOI 10.1088/1367-2630/13/8/083001
+   Suweis S, 2011, GEOPHYS RES LETT, V38, DOI 10.1029/2011GL046837
+   Tero A, 2010, SCIENCE, V327, P439, DOI 10.1126/science.1177894
+   ULANOWICZ R. E., 2000, GROWTH DEV ECOSYSTEM
+   West GB, 2001, NATURE, V413, P628, DOI 10.1038/35098076
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Woolley-Meza O, 2011, EUR PHYS J B, V84, P589, DOI 10.1140/epjb/e2011-20208-9
+   Zhang JA, 2010, J THEOR BIOL, V264, P760, DOI 10.1016/j.jtbi.2010.03.024
+NR 47
+TC 7
+Z9 7
+SN 2470-0045
+EI 2470-0053
+PD DEC 12
+PY 2012
+VL 86
+IS 6
+AR 066110
+DI 10.1103/PhysRevE.86.066110
+PN 2
+UT WOS:000312296300002
+PM 23368007
+ER
+
+PT J
+AU Baynes, TM
+   Wiedmann, T
+AF Baynes, Timothy M.
+   Wiedmann, Thomas
+TI General approaches for assessing urban environmental sustainability
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+ID INPUT-OUTPUT-ANALYSIS; GREENHOUSE-GAS INVENTORIES; CARBON FOOTPRINTS;
+   FLOW-ANALYSIS; CITY-SCALE; LAND-USE; CITIES; METABOLISM; ENERGY;
+   CONSUMPTION
+AB Urban environmental sustainability assessment is increasingly a part of urban planning, from the perspective of mitigating local and global impacts and for adapting to regional and global resource constraints and anticipated climate events. We examine general techniques under three categories: consumption-based, metabolism-based and complex systems approaches. We sample recent and salient applications at spatial scales ranging from neighbourhoods to metropolitan regions. The scope and strengths of applications in these categories are complementary especially with regards to the attribution of impact. The first approach assesses environmental sustainability as a function of urban consumption, the second uses a more limited concept of consumption but better represents local and trans-boundary production activity and the third attributes cause and effect through quantifying relationships and feedbacks throughout the urban system.
+RI Baynes, Timothy/D-4738-2011; Wiedmann, Thomas/C-9158-2011
+OI Baynes, Timothy/0000-0001-8416-3365; Wiedmann,
+   Thomas/0000-0002-6395-8887
+CR Abou-Abdo T, 2011, IEEE INT S SUST SYST
+   ACF ISA, 2007, CONS ATL
+   Baker Lawrence A., 2007, Urban Ecosystems, V10, P97, DOI 10.1007/s11252-006-0014-3
+   Barles S, 2009, J IND ECOL, V13, P898, DOI 10.1111/j.1530-9290.2009.00169.x
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Baynes T, 2011, ENERG POLICY, V39, P7298, DOI 10.1016/j.enpol.2011.08.053
+   Baynes TM, 2009, J IND ECOL, V13, P214, DOI 10.1111/j.1530-9290.2009.00123.x
+   Baynes TM, 2012, J IND ECOL IN PRESS
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bose, 2010, ENERGY EFFICIENT CIT
+   Carney S, 2009, ENERG POLICY, V37, P4293, DOI 10.1016/j.enpol.2009.05.028
+   Chavez A, 2012, CARBON MANAG, V3, P19, DOI 10.4155/CMT.12.2
+   Chavez A, 2011, CARBON MANAG, V2, P471, DOI 10.4155/CMT.11.38
+   Chen GQ, 2011, COMMUN NONLINEAR SCI, V16, P583, DOI 10.1016/j.cnsns.2010.02.026
+   Codoban N, 2008, J URBAN PLAN D-ASCE, V134, P21, DOI 10.1061/(ASCE)0733-9488(2008)134:1(21)
+   Collins A, 2006, J IND ECOL, V10, P9, DOI 10.1162/jiec.2006.10.3.9
+   Decker EH, 2000, ANNU REV ENERG ENV, V25, P685, DOI 10.1146/annurev.energy.25.1.685
+   Dey C., 2007, WATER WIND ART DEBAT, P280
+   Dhakal S, 2009, ENERG POLICY, V37, P4208, DOI 10.1016/j.enpol.2009.05.020
+   Dodman D, 2011, CURR OPIN ENV SUST, V3, P121, DOI 10.1016/j.cosust.2010.12.013
+   Druckman A, 2008, ENERG POLICY, V36, P3177, DOI 10.1016/j.enpol.2008.03.021
+   Druckman A, 2009, ECOL ECON, V68, P2066, DOI 10.1016/j.ecolecon.2009.01.013
+   DUVIGNEAUD P., 1977, PRODUCTIVITE BELGIQU
+   EUROSTAT, 2001, EC WID MAT FLOW ACC
+   Fernandez JE, 2007, J IND ECOL, V11, P99, DOI 10.1162/jie.2007.1199
+   Greater London Authority Environment Group, 2006, LOND EN CO2 EM INV L
+   Guneralp B, 2012, APPL GEOGR, V32, P40, DOI 10.1016/j.apgeog.2010.11.011
+   Guneralp B, 2008, GLOBAL ENVIRON CHANG, V18, P720, DOI 10.1016/j.gloenvcha.2008.07.004
+   Hall J. A., 2010, ENERGY EFFICIENT CIT
+   Heinonen J, 2011, ENVIRON RES LETT, P6
+   Heinonen J, 2011, INT J LIFE CYCLE ASS, V16, P569, DOI 10.1007/s11367-011-0289-3
+   Hillman T, 2010, ENVIRON SCI TECHNOL, V44, P1902, DOI 10.1021/es9024194
+   Huang SL, 2006, RESOUR CONSERV RECY, V48, P166, DOI 10.1016/j.resconrec.2006.01.005
+   Huang SL, 2003, LANDSCAPE URBAN PLAN, V63, P61, DOI 10.1016/S0169-2046(02)00152-4
+   Hubacek K, 2009, J CLEAN PROD, V17, P1241, DOI 10.1016/j.jclepro.2009.03.011
+   Hunt JD, 2005, TRANSPORT REV, V25, P329, DOI 10.1080/0144164052000336470
+   ICLEI, 2009, INT LOC GOV GHG EM A
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kennedy C, 2012, SUSTAINABILITY SCI E
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kennedy C, 2010, ENERG POLICY, V38, P4828, DOI 10.1016/j.enpol.2009.08.050
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kennedy CA, 2011, URB DEV SER, P15
+   Kennedy S, 2011, ENERG POLICY, V39, P5259, DOI 10.1016/j.enpol.2011.05.038
+   Kenway SJ, 2011, WATER SCI TECHNOL, V63, P1983, DOI 10.2166/wst.2011.070
+   Kenway S, 2011, J IND ECOL, V15, P693, DOI 10.1111/j.1530-9290.2011.00357.x
+   Kenworthy JR, 1999, TRANSPORT RES A-POL, V33, P691, DOI 10.1016/S0965-8564(99)00006-3
+   Larsen HN, 2010, ECOL ECON, V70, P60, DOI 10.1016/j.ecolecon.2010.05.001
+   Larsen HN, 2010, J IND ECOL, V14, P965, DOI 10.1111/j.1530-9290.2010.00295.x
+   Larsen HN, 2009, ENVIRON SCI POLICY, V12, P791, DOI 10.1016/j.envsci.2009.07.010
+   Lebel L, 2007, J IND ECOL, V11, P61, DOI 10.1162/jie.2007.1185
+   Lenzen M, 2004, ECOL ECON, V49, P375, DOI 10.1016/j.ecolecon.2004.01.019
+   Lenzen M., 2003, ECOLOGICAL FOOTPRINT
+   Lenzen M, 2008, URBAN ENERGY TRANSITION: FROM FOSSIL FUELS TO RENEWABLE POWER, P91, DOI 10.1016/B978-0-08-045341-5.00004-9
+   Lenzen M, 2010, J IND ECOL, V14, P73, DOI 10.1111/j.1530-9290.2009.00190.x
+   Li D, 2009, ECOL COMPLEX, V6, P484, DOI 10.1016/j.ecocom.2009.09.002
+   Liu GY, 2011, PROCEDIA ENVIRON SCI, V5, P43, DOI 10.1016/j.proenv.2011.03.046
+   Minx JC, 2009, ECON SYST RES, V21, P187, DOI 10.1080/09535310903541298
+   Minx J.C., 2011, DEV PRAGMATIC APPROA
+   New York City, 2007, INV NEW YORK CIT GRE
+   Newcombe K, 1977, HUM ECOL, P5
+   Newman PWG, 1999, LANDSCAPE URBAN PLAN, V44, P219, DOI 10.1016/S0169-2046(99)00009-2
+   Niza S, 2009, J IND ECOL, V13, P384, DOI 10.1111/j.1530-9290.2009.00130.x
+   Odum H. T, 1996, ENV ACCOUNTING EMERG
+   Oliver-Sola J, 2007, J IND ECOL, V11, P83, DOI 10.1162/jie.2007.1193
+   Oswald F., 2003, NETZSTADT DESIGNING
+   Parshall L, 2010, ENERG POLICY, V38, P4765, DOI 10.1016/j.enpol.2009.07.006
+   Peters GP, 2010, CURR OPIN SUST, V2, P245, DOI 10.1016/j.cosust.2010.05.004
+   Petsch S, 2011, J URBAN TECHNOL, V18, P81, DOI 10.1080/10630732.2011.648436
+   Quinn D., 2007, URBAN METABOLISM ECO
+   Ramaswami A, 2008, ENVIRON SCI TECHNOL, V42, P6455, DOI 10.1021/es702992q
+   Ramaswami A, 2011, ENVIRON SCI TECHNOL, V45, P4205, DOI 10.1021/es201166n
+   RISK & POLICY ANALYSTS (RPA), 2007, REV REC DEV PRACT US
+   Schulz NB, 2007, J IND ECOL, V11, P117, DOI 10.1162/jie.2007.1200
+   Schulz NB, 2010, ENERG POLICY, V38, P4848, DOI 10.1016/j.enpol.2009.08.066
+   Sovacool BK, 2010, ENERG POLICY, V38, P4856, DOI 10.1016/j.enpol.2009.10.001
+   Spiegelman J, 2003, J IND ECOL, V7, P17, DOI DOI 10.1162/108819803766729177
+   Viguie V, 2012, NAT CLIM CHANGE
+   Waddell P, 2002, J AM PLANN ASSOC, V68, P297, DOI 10.1080/01944360208976274
+   Wang X, 2009, J ARID ENVIRON, V73, P894
+   Weisz H, 2010, CURR OPIN SUST, V2, P185, DOI 10.1016/j.cosust.2010.05.010
+   White C, 2010, SUSTAINABILITY PRACT, P73
+   Wiedenhofer D, 2011, URBAN CONSUMPTION, P251
+   Wiedmann T, 2011, ECOLOGICAL FOOTPRINT
+   Wiedmann T., 2008, ECOLOGICAL EC RES TR, V1, P1, DOI DOI 10.1088/978-0-750-31040-6
+   Wiedmann T, 2011, ECOL ECON, V70, P1937, DOI 10.1016/j.ecolecon.2011.06.014
+   Wiedmann T, 2009, ECON SYST RES, V21, P175, DOI 10.1080/09535310903541256
+   Wiedmann TO, 2012, J IND ECOL, V16, P317, DOI 10.1111/j.1530-9290.2011.00436.x
+   WOLMAN A, 1965, SCI AM, V213, P179
+   World Resource Institute/ World Business Council for Sustainable Development (WRI/ WBCSD), 2004, GREENH GAS PROT CORP
+   WRI/WBCSD, 2011, GREENH GAS PROT CORP
+   Wright LA, 2012, CARBON MANAG, V3, P17, DOI 10.4155/CMT.12.3
+   Wright LA, 2011, CARBON MANAG, V2, P49, DOI 10.4155/CMT.10.41
+   Xu M, 2012, ENVIRON SCI TECHNOL, V46, P7928, DOI 10.1021/es3025534
+   Zhang Y, 2010, ECOL MODEL, V221, P1865, DOI 10.1016/j.ecolmodel.2010.05.006
+   Zhang ZY, 2011, ECOL ECON, V70, P2494, DOI 10.1016/j.ecolecon.2011.08.011
+NR 97
+TC 39
+Z9 39
+SN 1877-3435
+PD OCT
+PY 2012
+VL 4
+IS 4
+BP 458
+EP 464
+DI 10.1016/j.cosust.2012.09.003
+UT WOS:000310766600014
+ER
+
+PT J
+AU Page, SE
+AF Page, Scott E.
+TI Aggregation in agent-based models of economies
+SO KNOWLEDGE ENGINEERING REVIEW
+AB Agent-based models are often described as bottom-up because macro-level phenomena emerge from the micro-level interactions of agents. These macro-level phenomena include fixed points, cycles, dynamic patterns, and long transients. In this paper, I explore the link between micro-level characteristics-learning rules, diversity, network structure, and externalities-and the macro-level patterns they produce. I focus on why we need agent-level modeling, on how these models produce emergent phenomenon, and on how agent-based models help understand outcomes of social systems in a way that differs from the analytic, equilibrium approach.
+CR ANDERSON PW, 1972, SCIENCE, V177, P393, DOI 10.1126/science.177.4047.393
+   ANDREONI J, 1995, GAME ECON BEHAV, V10, P39, DOI 10.1006/game.1995.1024
+   Arthur B. W., 1994, INCREASING RETURNS P
+   ARTHUR W, 1997, EC EVOLVING COMPLEX, V2
+   Axelrod R, 1996, COMPUTATIONAL MATH O, V1, P123
+   Axtell R., COMMUNICATION
+   Axtell R, 2003, POSITIVE THEORY EMER
+   Axtell R. J., 1999, EMERGENCE FIRMS POPU
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Bak P., 1996, NATURE WORKS SCI SEL
+   Bankes SC, 2002, P NATL ACAD SCI USA, V99, P7199, DOI 10.1073/pnas.072081299
+   Barabasi L, 2002, LINKED EVERYTHING CO
+   BEDAU MA, 1997, PHILOS PERSPECTIVES, V11, P375, DOI DOI 10.1111/0029-4624.31.S11.17
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   DeMarchi S, 2005, COMPUTATIONAL AND MATHEMATICAL MODELING IN THE SOCIAL SCIENCES, P1, DOI 10.1017/CBO9780511510588
+   Epstein J, 2003, GENERATIVE SOCIAL SC
+   Epstein J. M., 1996, GROWING ARTIFICIAL S
+   Glaeser EL, 1996, Q J ECON, V111, P507, DOI 10.2307/2946686
+   GODE DK, 1993, J POLIT ECON, V101, P119, DOI 10.1086/261868
+   Golman R, 2009, EVOL EC, V20, P49, DOI DOI 10.1007/S00191-009-0136-X
+   Hofbauer J., 2000, SELECTION, V1, P81
+   Hong L, 2001, J ECON THEORY, V97, P123, DOI 10.1006/jeth.2000.2709
+   Howitt P, 2006, HDB COMPUTATIONAL EC, VII
+   HUBERMAN BA, 1993, P NATL ACAD SCI USA, V90, P7716, DOI 10.1073/pnas.90.16.7716
+   IWASA Y, 1987, ECOL MODEL, V37, P287, DOI 10.1016/0304-3800(87)90030-5
+   KIRMAN AP, 1992, J ECON PERSPECT, V6, P117, DOI 10.1257/jep.6.2.117
+   LeBaron B., 2001, QUANT FINANC, V1, P621, DOI DOI 10.1088/1469-7688/1/6/304
+   LeBaron B, 2006, POST WALRASIAN MACROECONOMICS: BEYOND THE DYNAMIC STOCHASTIC GENERAL EQUILIBRIUM MODEL, P221, DOI 10.1017/CBO9780511617751.013
+   Miller JH, 1996, J ECON BEHAV ORGAN, V29, P87, DOI 10.1016/0167-2681(95)00052-6
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   Nirei M, 2006, J ECON THEORY, V127, P309, DOI 10.1016/j.jet.2004.08.006
+   Page S. E., 1997, Computational Economics, V10, P67, DOI 10.1023/A:1008625524072
+   Page S. E., 2008, DIFFERENCE POWER DIV
+   Page SE, 2007, ECON THEOR, V30, P223, DOI 10.1007/s00199-005-0052-8
+   Page SE, 2006, Q J POLIT SCI, V1, P87, DOI 10.1561/100.00000006
+   REITER S, 1977, AM ECON REV, V67, P226
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Tesfatsion L, 1997, EC EVOLVING COMPLEX, P533
+   Vriend NJ, 2000, J ECON DYN CONTROL, V24, P1, DOI 10.1016/S0165-1889(98)00068-2
+   Wolfram S., 2001, NEW KIND SCI
+   Young P, 2001, INDIVIDUAL STRATEGY
+NR 41
+TC 12
+Z9 12
+SN 0269-8889
+PD JUN
+PY 2012
+VL 27
+IS 2
+SI SI
+BP 151
+EP 162
+DI 10.1017/S0269888912000112
+UT WOS:000303835000004
+ER
+
+PT J
+AU Levinson, D
+AF Levinson, David
+TI Network Structure and City Size
+SO PLOS ONE
+ID URBAN STREET NETWORKS; ROAD NETWORKS; TRAFFIC FLOW; AGGLOMERATION;
+   CITIES; RETURNS
+AB Network structure varies across cities. This variation may yield important knowledge about how the internal structure of the city affects its performance. This paper systematically compares a set of surface transportation network structure variables (connectivity, hierarchy, circuity, treeness, entropy, accessibility) across the 50 largest metropolitan areas in the United States. A set of scaling parameters are discovered to show how network size and structure vary with city size. These results suggest that larger cities are physically more inter-connected. Hypotheses are presented as to why this might obtain. This paper then consistently measures and ranks access to jobs across 50 US metropolitan areas. It uses that accessibility measure, along with network structure variables and city size to help explain journey-to-work time and auto mode share in those cities. A 1 percent increase in accessibility reduces average metropolitan commute times by about 90 seconds each way. A 1 percent increase in network connectivity reduces commute time by 0.1 percent. A 1 percent increase in accessibility results in a 0.0575 percent drop in auto mode share, while a 1 percent increase in treeness reduces auto mode share by 0.061 percent. Use of accessibility and network structure measures is important for planning and evaluating the performance of network investments and land use changes.
+RI Levinson, David/A-8554-2012
+OI Levinson, David/0000-0002-4563-2963
+CR ADES AF, 1995, Q J ECON, V110, P195, DOI 10.2307/2118515
+   [Anonymous], EMPLOYMENT HOURS EAR
+   Arbesman S, 2008, ARXIV08094994
+   Barthelemy M, 2010, PATIAL NETWORKS
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Ben-Joseph E., 2003, STREETS SHAPING TOWN
+   Bettencourt L, 2009, METH SER, P221
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Derrible S, 2010, PHYSICA A, V389, P3678, DOI 10.1016/j.physa.2010.04.008
+   Derrible S, 2010, TRANSPORTATION, V37, P275, DOI 10.1007/s11116-009-9227-7
+   Derrible S, 2009, TRANSP RES RECORD, P17, DOI 10.3141/2112-03
+   DOWNS A, 1992, STUCK TRAFFIC COPING
+   El-Geneidy AM, 2006, ACCESS DESTINATIONS
+   Glaeser E, 2008, CITIES AGGLOMERATION
+   Glaeser E., 2011, TRIUMPH CITY
+   Glaeser EL, 2010, J REGIONAL SCI, V50, P221, DOI 10.1111/j.1467-9787.2009.00635.x
+   Glaeser EL, 2009, J ECON MANAGE STRAT, V18, P623, DOI 10.1111/j.1530-9134.2009.00225.x
+   GORDON P, 1991, J AM PLANN ASSOC, V57, P416, DOI 10.1080/01944369108975516
+   GORDON P, 1988, TRANSPORT RES A-POL, V22, P419, DOI 10.1016/0191-2607(88)90045-3
+   Graham D, 2009, TRANSPORTATION, P1
+   Graham DJ, 2008, ANN REGIONAL SCI, V42, P267, DOI 10.1007/s00168-007-0156-0
+   Graham DJ, 2007, J TRANSP ECON POLICY, V41, P317
+   Graham DJ, 2007, J URBAN ECON, V62, P103, DOI 10.1016/j.jue.2006.10.001
+   Haggett P, 1969, NETWORK ANAL GEOGRAP
+   HAMILTON BW, 1982, J POLIT ECON, V90, P1035, DOI 10.1086/261107
+   Helbing D, 2009, METH SER, P433
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1119, DOI 10.1080/13658810701690448
+   Jiang B, 2007, PHYSICA A, V384, P647, DOI 10.1016/j.physa.2007.05.064
+   Jiang B, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/07/P07008
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1033, DOI 10.1080/13658810802004648
+   Kansky Karel Joseph, 1963, STRUCTURE TRANSPORTA
+   Kuehnert C, 2006, PHYSICA A, V363, P96
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levinson D, 2007, NETW SPAT ECON, P1
+   Levinson D, 2011, ENV PLANNING B
+   Levinson D, 1995, TRANSPORT RES REC, V1466, P124
+   Levinson D, 2009, REG SCI URBAN ECON, V39, P732, DOI 10.1016/j.regsciurbeco.2009.07.003
+   Melo PC, 2009, REG SCI URBAN ECON, V39, P332, DOI 10.1016/j.regsciurbeco.2008.12.002
+   Mogridge M., 1987, INT J TRANSP ECON, V14, P283
+   MOGRIDGE M., 1990, TRAVEL TOWNS JAM YES
+   Parthasarathi P., 2010, NETWORK STRUCTURE ME
+   Parthasarathi P, 2010, NETWORK STRUCTURE AC
+   Roth C, 2011, ARXIV11055294
+   Samaniego H, 2008, J TRANSPORT LAND USE, V1
+   Schrank D., 2009, 2009 URBAN MOBILITY
+   Stigler GJ, 1951, J POLIT ECON, V59, P185, DOI 10.1086/257075
+   Strogatz S, 2009, NY TIMES        0519
+   Tomer A., 2011, MISSED OPPORTUNITY T
+   West G, 2010, GLOBAL SUSTAINABILIT, P9
+   Xie F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/j.1538-4632.2007.00707.x
+   Xie F, 2011, TRANSP RES ECON POL, P3, DOI 10.1007/978-1-4419-9804-0
+NR 55
+TC 52
+Z9 54
+SN 1932-6203
+PD JAN 12
+PY 2012
+VL 7
+IS 1
+AR e29721
+DI 10.1371/journal.pone.0029721
+UT WOS:000301357100019
+PM 22253764
+ER
+
+PT J
+AU Kempes, CP
+   Dutkiewicz, S
+   Follows, MJ
+AF Kempes, Christopher P.
+   Dutkiewicz, Stephanie
+   Follows, Michael J.
+TI Growth, metabolic partitioning, and the size of microorganisms
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+DE evolutionary transitions; single cell growth; metabolic ecology;
+   maintenance metabolism; ontogenetic growth
+ID CONTINUOUS-CULTURE; ESCHERICHIA-COLI; CANDIDA-ALBICANS; ONTOGENIC
+   GROWTH; CELL-GROWTH; BODY-SIZE; MODEL; TEMPERATURE; ENERGETICS;
+   EVOLUTION
+AB Population growth rate is a fundamental ecological and evolutionary characteristic of living organisms, but individuals must balance the metabolism devoted to biosynthesis and reproduction against the maintenance of existing structure and other functionality. Here we present a mathematical model that relates metabolic partitioning to the form of growth. The model captures the observed growth trajectory of single cells and individuals for a variety of species and taxa spanning prokaryotes, unicellular eukaryotes, and small multicellular eukaryotes. Our analysis suggests that the per-unit costs of biosynthesis and maintenance are conserved across prokaryotes and eukaryotes. However, the relative metabolic expenditure on growth and maintenance of whole organisms clearly differentiates taxa: prokaryotes spend an increasing fraction of their entire metabolism on growth with increasing cell size, whereas eukaryotes devote a diminishing fraction. These differences allow us to predict the minimum and maximum size for each taxonomic group, anticipating observed evolutionary life-history transitions. The framework provides energetic insights into taxonomic tradeoffs related to growth and metabolism and constrains traits that are important for size-structured modeling of microbial communities and their ecological and biogeochemical effects.
+CR Baird ME, 2004, J MARINE SYST, V50, P199, DOI 10.1016/j.jmarsys.2004.02.002
+   Banavar JR, 2010, P NATL ACAD SCI USA, V107, P15816, DOI 10.1073/pnas.1009974107
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BORAAS ME, 1983, LIMNOL OCEANOGR, V28, P546, DOI 10.4319/lo.1983.28.3.0546
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   Bull AT, 2010, J IND MICROBIOL BIOT, V37, P993, DOI 10.1007/s10295-010-0816-4
+   DeLong JP, 2010, P NATL ACAD SCI USA, V107, P12941, DOI 10.1073/pnas.1007783107
+   Edwards JS, 2001, NAT BIOTECHNOL, V19, P125, DOI 10.1038/84379
+   Falkowski PG, 2008, SCIENCE, V320, P1034, DOI 10.1126/science.1153213
+   FARMER IS, 1976, EUR J BIOCHEM, V67, P115, DOI 10.1111/j.1432-1033.1976.tb10639.x
+   Gillooly JF, 2002, NATURE, V417, P70, DOI 10.1038/417070a
+   Godin M, 2010, NAT METHODS, V7, P387, DOI [10.1038/nmeth.1452, 10.1038/NMETH.1452]
+   HEIJNEN JJ, 1981, BIOTECHNOL BIOENG, V23, P739, DOI 10.1002/bit.260230407
+   HERMAN MA, 1984, J GEN MICROBIOL, V130, P2219
+   Hou C, 2008, SCIENCE, V322, P736, DOI 10.1126/science.1162302
+   Kooijman S. A. L. M., 2000, DYNAMIC ENERGY MASS
+   Lane N, 2010, NATURE, V467, P929, DOI 10.1038/nature09486
+   LEE YK, 1981, J GEN MICROBIOL, V124, P43
+   Litchman E, 2009, P NATL ACAD SCI USA, V106, P2665, DOI 10.1073/pnas.0810891106
+   Lu P, 2007, NAT BIOTECHNOL, V25, P117, DOI 10.1038/nbt1270
+   Mitchison JM, 1971, BIOL CELL CYCLE
+   Moses ME, 2008, AM NAT, V171, P632, DOI 10.1086/587073
+   Moya A, 2009, FEMS MICROBIOL REV, V33, P225, DOI 10.1111/j.1574-6976.2008.00151.x
+   Niklas KJ, 1994, PLANT ALLOMETRY SCAL
+   OLSON RJ, 1986, J GEN MICROBIOL, V132, P1197
+   PIRT SJ, 1965, PROC R SOC SER B-BIO, V163, P224, DOI 10.1098/rspb.1965.0069
+   Reed JL, 2003, J BACTERIOL, V185, P2692, DOI 10.1128/JB.185.9.2692-2699.2003
+   Reshes G, 2008, PHYS BIOL, V5, DOI 10.1088/1478-3975/5/4/046001
+   RESHES G, 2009, BIOPHYS J, V96, P631
+   Sauer U, 1996, APPL ENVIRON MICROB, V62, P3687
+   Savage VM, 2004, AM NAT, V163, P429, DOI 10.1086/381872
+   SHEPHERD MG, 1976, J GEN MICROBIOL, V93, P361, DOI 10.1099/00221287-93-2-361
+   SHULER ML, 1979, ANN NY ACAD SCI, V326, P35, DOI DOI 10.1111/J.1749-6632.1979.TB14150.X
+   TYSON JJ, 1991, P NATL ACAD SCI USA, V88, P7328, DOI 10.1073/pnas.88.16.7328
+   VIDAL J, 1980, MAR BIOL, V56, P111, DOI 10.1007/BF00397129
+   von Stockar U, 2006, J BIOTECHNOL, V121, P517, DOI 10.1016/j.jbiotec.2005.08.012
+   VONBERTALANFFY L, 1957, Q REV BIOL, V32, P217, DOI 10.1086/401873
+   West GB, 2001, NATURE, V413, P628, DOI 10.1038/35098076
+   West GB, 2002, P NATL ACAD SCI USA, V99, P2473, DOI 10.1073/pnas.012579799
+   White CR, 2003, P NATL ACAD SCI USA, V100, P4046, DOI 10.1073/pnas.0436428100
+   WILLIAMS FM, 1967, J THEOR BIOL, V15, P190, DOI 10.1016/0022-5193(67)90200-7
+   Zaslaver A, 2009, PLOS COMPUT BIOL, V5, DOI 10.1371/journal.pcbi.1000545
+NR 42
+TC 33
+Z9 34
+SN 0027-8424
+PD JAN 10
+PY 2012
+VL 109
+IS 2
+BP 495
+EP 500
+DI 10.1073/pnas.1115585109
+UT WOS:000298950200035
+PM 22203990
+ER

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Soft bounds on diffusion produce skewed distributions and Gompertz growth</title>
+<url>http://dx.doi.org/10.1103/PhysRevE.90.032805</url>
+<snippet>Constraints can affect dramatically the behavior of diffusion processes. Recently, we analyzed a natural and a technological system and reported that they perform diffusion-like discrete steps displaying a peculiar constraint, whereby the increments of the diffusing variable are subject to configuration-dependent bounds. This work explores theoretically some of the revealing landmarks of such phenomenology, termed "soft bound." At long times, the system reaches a steady state irreversibly (i.e., violating detailed balance), characterized by a skewed "shoulder" in the density distribution, and by a net local probability flux, which has entropic origin. The largest point in the support of the distribution follows a saturating dynamics, expressed by the Gompertz law, in line with empirical observations. Finally, we propose a generic allometric scaling for the origin of soft bounds. These findings shed light on the impact on a system of such "scaling" constraint and on its possible generating mechanisms. RI Cosentino Lagomarsino, Marco/B-7233-2012 OI Cosentino Lagomarsino, Marco/0000-0003-0235-0445; Gherardi, Marco/0000-0002-7745-8269
+WOS:000342143600004
+</snippet>
+</document>
+
+<document id="2">
+<title>Modeling the Polycentric Transition of Cities</title>
+<url>http://dx.doi.org/10.1103/PhysRevLett.111.198702</url>
+<snippet>Empirical evidence suggests that most urban systems experience a transition from a monocentric to a polycentric organization as they grow and expand. We propose here a stochastic, out-of-equilibrium model of the city, which explains the appearance of subcenters as an effect of traffic congestion. We show that congestion triggers the instability of the monocentric regime and that the number of subcenters and the total commuting distance within a city scale sublinearly with its population, predictions that are in agreement with data gathered for around 9000 U.S. cities between 1994 and 2010. OI Louf, Remi/0000-0001-7929-5507
+WOS:000326604800007
+</snippet>
+</document>
+
+<document id="3">
+<title>Simple Urban Simulation Atop Complicated Models: Multi-Scale Equation-Free Computing of Sprawl Using Geographic Automata</title>
+<url>http://dx.doi.org/10.3390/e15072606</url>
+<snippet>Reconciling competing desires to build urban models that can be simple and complicated is something of a grand challenge for urban simulation. It also prompts difficulties in many urban policy situations, such as urban sprawl, where simple, actionable ideas may need to be considered in the context of the messily complex and complicated urban processes and phenomena that work within cities. In this paper, we present a novel architecture for achieving both simple and complicated realizations of urban sprawl in simulation. Fine-scale simulations of sprawl geography are run using geographic automata to represent the geographical drivers of sprawl in intricate detail and over fine resolutions of space and time. We use Equation-Free computing to deploy population as a coarse observable of sprawl, which can be leveraged to run automata-based models as short-burst experiments within a meta-simulation framework. RI Ghanem, Roger/B-8570-2008 OI Ghanem, Roger/0000-0002-1890-920X
+WOS:000322183300008
+</snippet>
+</document>
+
+<document id="4">
+<title>Epidemic spreading on hierarchical geographical networks with mobile agents</title>
+<url>http://dx.doi.org/10.1016/j.cnsns.2013.09.002</url>
+<snippet>Hierarchical geographical traffic networks are critical for our understanding of scaling laws in human trajectories. Here, we investigate the susceptible-infected epidemic process evolving on hierarchical networks in which agents randomly walk along the edges and establish contacts in network nodes. We employ a metapopulation modeling framework that allows us to explore the contagion spread patterns in relation to multi-scale mobility behaviors. A series of computer simulations revealed that a shifted power-law-like negative relationship between the peak timing of epidemics tau(0) and population density, and a logarithmic positive relationship between tau(0) and the network size, can both be explained by the gradual enlargement of fluctuations in the spreading process. We employ a semi-analytical method to better understand the nature of these relationships and the role of pertinent demographic factors. Additionally, we provide a quantitative discussion of the efficiency of a border screening procedure in delaying epidemic outbreaks on hierarchical networks, yielding a rather limited feasibility of this mitigation strategy but also its non-trivial dependence on population density, infector detectability, and the diversity of the susceptible region. Our results suggest that the interplay between the human spatial dynamics, network topology, and demographic factors can have important consequences for the global spreading and control of infectious diseases. These findings provide novel insights into the combined effects of human mobility and the organization of geographical networks on spreading processes, with important implications for both epidemiological research and health policy. (C) 2013 Elsevier B. V. All rights reserved. RI Zhao, Zhi-Dan/H-1276-2012; Han, Xiao-Pu/E-8401-2010 OI Zhao, Zhi-Dan/0000-0001-9459-7984;
+WOS:000327188800006
+</snippet>
+</document>
+
+<document id="5">
+<title>A triple helix model of medical innovation: Supply, demand, and technological capabilities in terms of Medical Subject Headings</title>
+<url>http://dx.doi.org/10.1016/j.respol.2015.12.004</url>
+<snippet>We develop a model of innovation that enables us to trace the interplay among three key dimensions of the innovation process: (i) demand of and (ii) supply for innovation, and (iii) technological capabilities available to generate innovation in the forms of products, processes, and services. Building on triple helix research, we use entropy statistics to elaborate an indicator of mutual information among these dimensions that can provide indication of reduction of uncertainty. To do so, we focus on the medical context, where uncertainty poses significant challenges to the governance of innovation. We use the Medical Subject Headings (MeSH) of MEDLINE/PubMed to identify publications within the categories "Diseases" (C), "Drugs and Chemicals" (D), "Analytic, Diagnostic, and Therapeutic Techniques and Equipment" (E) and use these as knowledge representations of demand, supply, and technological capabilities, respectively. Three case-studies of medical research areas are used as representative entry perspectives of the medical innovation process. These are: (i) human papilloma virus, (ii) RNA interference, and (iii) magnetic resonance imaging. We find statistically significant periods of synergy among demand, supply, and technological capabilities (C-D-E) that point to three-dimensional interactions as a fundamental perspective for the understanding and governance of the uncertainty associated with medical innovation. Among the pairwise configurations in these contexts, the demand-technological capabilities (C-E) provided the strongest link, followed by the supply-demand (D-C) and the supply-technological capabilities (D-E) channels. (C) 2015 Elsevier B.V. All rights reserved. RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Petersen, Alexander/D-9243-2012 OI Petersen, Alexander/0000-0002-0955-3483; Rotolo, Daniele/0000-0001-8077-9840; Leydesdorff, Loet/0000-0002-7835-3098
+WOS:000370101900007
+</snippet>
+</document>
+
+<document id="6">
+<title>Entangled communities and spatial synchronization lead to criticality in urban traffic</title>
+<url>http://dx.doi.org/10.1038/srep01798</url>
+<snippet>Understanding the relation between patterns of human mobility and the scaling of dynamical features of urban environments is a great importance for todays society. Although recent advancements have shed light on the characteristics of individual mobility, the role and importance of emerging human collective phenomena across time and space are still unclear. In this Article, we show by using two independent data-analysis techniques that the traffic in London is a combination of intertwined clusters, spanning the whole city and effectively behaving as a single correlated unit. This is due to algebraically decaying spatio-temporal correlations, that are akin to those shown by systems near a critical point. We describe these correlations in terms of Taylors law for fluctuations and interpret them as the emerging result of an underlying spatial synchronisation. Finally, our results provide the first evidence for a large-scale spatial human system reaching a self-organized critical state. RI Expert, Paul/E-7697-2012; Polak, John/L-1481-2017 OI Polak, John/0000-0002-3222-483X
+WOS:000318651200001
+</snippet>
+</document>
+
+<document id="7">
+<title>Size, connectivity, and tipping in spatial networks: Theory and empirics</title>
+<url>http://dx.doi.org/10.1016/j.compenvurbsys.2015.08.004</url>
+<snippet>We study the impact of settlement sizes on network connectivity in a spatial setting. First, we develop a model of geometric urban networks that posits a positive relationship between connectivity and size. Empirical evidence is then presented validating the model prediction that local links exhibit super-linear scaling with the exponent greater than 1, while long-range connections scale linearly with the unit exponent The scaling exponents thus suggest that the impact of population size on connectivity is stronger within cities than between cities. We next combine the geometric framework with a computational model of interacting agents to generate a realistic settlement distribution and urban networks from the bottom-up. Calibrated simulation results demonstrate the consistency between hierarchical rank-size distribution and scale-free connectivity. Finally, coupling the spatial network with a tipping diffusion model allows us to consolidate the evolution of network connectivity, city sizes, and social practices in a unified computational framework. (C) 2015 The Authors. Published by Elsevier Ltd.
+WOS:000368306700037
+</snippet>
+</document>
+
+<document id="8">
+<title>Living in Living Cities</title>
+<url>http://dx.doi.org/10.1162/ARTL_a_00112</url>
+<snippet>This article presents an overview of current and potential applications of living technology to some urban problems. Living technology can be described as technology that exhibits the core features of living systems. These features can be useful to solve dynamic problems. In particular, urban problems concerning mobility, logistics, telecommunications, governance, safety, sustainability, and society and culture are presented, and solutions involving living technology are reviewed. A methodology for developing living technology is mentioned, and supraoptimal public transportation systems are used as a case study to illustrate the benefits of urban living technology. Finally, the usefulness of describing cities as living systems is discussed. OI Gershenson, Carlos/0000-0003-0193-3067
+WOS:000324116700008
+</snippet>
+</document>
+
+<document id="9">
+<title>Predicting commuter flows in spatial networks using a radiation model based on temporal ranges</title>
+<url>http://dx.doi.org/10.1038/ncomms6347</url>
+<snippet>Understanding network flows such as commuter traffic in large transportation networks is an ongoing challenge due to the complex nature of the transportation infrastructure and human mobility. Here we show a first-principles based method for traffic prediction using a cost-based generalization of the radiation model for human mobility, coupled with a cost-minimizing algorithm for efficient distribution of the mobility fluxes through the network. Using US census and highway traffic data, we show that traffic can efficiently and accurately be computed from a range-limited, network betweenness type calculation. The model based on travel time costs captures the log-normal distribution of the traffic and attains a high Pearson correlation coefficient (0.75) when compared with real traffic. Because of its principled nature, this method can inform many applications related to human mobility driven flows in spatial networks, ranging from transportation, through urban planning to mitigation of the effects of catastrophic events. RI Ercsey Ravasz, Maria/E-2098-2017; Gonzalez, Marta/E-9456-2011 OI Ercsey Ravasz, Maria/0000-0003-4428-9953; Gonzalez, Marta/0000-0002-8482-0318; Toroczkai, Zoltan/0000-0002-6602-2849
+WOS:000345624200003
+</snippet>
+</document>
+
+<document id="10">
+<title>The Collaborative Image of The City: Mapping the Inequality of Urban Perception</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0068400</url>
+<snippet>A traveler visiting Rio, Manila or Caracas does not need a report to learn that these cities are unequal; she can see it directly from the taxicab window. This is because in most cities inequality is conspicuous, but also, because cities express different forms of inequality that are evident to casual observers. Cities are highly heterogeneous and often unequal with respect to the income of their residents, but also with respect to the cleanliness of their neighborhoods, the beauty of their architecture, and the liveliness of their streets, among many other evaluative dimensions. Until now, however, our ability to understand the effect of a citys built environment on social and economic outcomes has been limited by the lack of quantitative data on urban perception. Here, we build on the intuition that inequality is partly conspicuous to create quantitative measure of a citys contrasts. Using thousands of geo-tagged images, we measure the perception of safety, class and uniqueness; in the cities of Boston and New York in the United States, and Linz and Salzburg in Austria, finding that the range of perceptions elicited by the images of New York and Boston is larger than the range of perceptions elicited by images from Linz and Salzburg. We interpret this as evidence that the cityscapes of Boston and New York are more contrasting, or unequal, than those of Linz and Salzburg. Finally, we validate our measures by exploring the connection between them and homicides, finding a significant correlation between the perceptions of safety and class and the number of homicides in a NYC zip code, after controlling for the effects of income, population, area and age. Our results show that online images can be used to create reproducible quantitative measures of urban perception and characterize the inequality of different cities. OI /0000-0002-6031-5982
+WOS:000322167900010
+</snippet>
+</document>
+
+<document id="11">
+<title>Universal predictability of mobility patterns in cities</title>
+<url>http://dx.doi.org/10.1098/rsif.2014.0834</url>
+<snippet>Despite the long history of modelling human mobility, we continue to lack a highly accurate approach with low data requirements for predicting mobility patterns in cities. Here, we present a population-weighted opportunities model without any adjustable parameters to capture the underlying driving force accounting for human mobility patterns at the city scale. We use various mobility data collected from a number of cities with different characteristics to demonstrate the predictive power of our model. We find that insofar as the spatial distribution of population is available, our model offers universal prediction of mobility patterns in good agreement with real observations, including distance distribution, destination travel constraints and flux. By contrast, the models that succeed in modelling mobility patterns in countries are not applicable in cities, which suggests that there is a diversity of human mobility at different spatial scales. Our model has potential applications in many fields relevant to mobility behaviour in cities, without relying on previous mobility measurements. RI Yan, Xiao-Yong/P-6027-2018 OI Yan, Xiao-Yong/0000-0003-2091-6967
+WOS:000344533800012
+</snippet>
+</document>
+
+<document id="12">
+<title>Sufficient conditions of endemic threshold on metapopulation networks</title>
+<url>http://dx.doi.org/10.1016/j.jtbi.2015.05.024</url>
+<snippet>In this paper, we focus on susceptible-infected-susceptible dynamics on metapopulation networks, where nodes represent subpopulations, and where agents diffuse and interact. Recent studies suggest that heterogeneous networlc structure between elements plays an important role in determining the threshold of infection rate at the onset of epidemics, a fundamental quantity governing the epidemic dynamics. We consider the general case in which the infection rate at each node depends on its population size, as shown in recent empirical observations. We first prove that a sufficient condition for the endemic threshold (i.e., its upper bound), previously derived based on a mean-field approximation of network structure, also holds true for arbitrary networks. We also derive an improved condition showing that networks with the rich-club property (i.e., high connectivity between nodes with a large number of links) are more prone to disease spreading. The dependency of infection rate on population size introduces a considerable difference between this upper bound and estimates based on mean-field approximations, even when degree-degree correlations are considered. We verify the theoretical results with numerical simulations. (C) 2015 Elsevier Ltd. All rights reserved. OI Lambiotte, Renaud/0000-0002-0583-4595
+WOS:000359505200015
+</snippet>
+</document>
+
+<document id="13">
+<title>Competitive dynamics between criminals and law enforcement explains the super-linear scaling of crime in cities</title>
+<url>http://dx.doi.org/10.1057/palcomms.2015.22</url>
+<snippet>While cities have been the engine for innovation and growth for many millennia, they have also endured disproportionately more crime than smaller cities. Similarly to other urban sociological quantities, such as income, gross domestic product (GDP) and number of granted patents, it has been observed that crime scales super-linearly with city size. The default assumption is that super-linear scaling of crime, like other urban attributes, derives from agglomerative effects (that is, increasing returns from potentially more productive connections among criminals). However, crime initiation appears to be generated linearly with the population of a city, and the number of law enforcement officials scales sublinearly with city population. We hypothesize that the observed scaling exponent for net crime in a city is the result of competing dynamics between criminals and law enforcement, each with different scaling exponents, and where criminals win in the numbers game. We propose a simple dynamical model able to accommodate these empirical observations, as well as the potential multiple scaling regimes emerging from the competitive dynamics between crime and law enforcement. Our model is also general enough to be able to correctly account for crime in universities, where university crime does not scale super-linearly, but linearly with enrolment size.
+WOS:000453320600026
+</snippet>
+</document>
+
+<document id="14">
+<title>Uncovering Urban Temporal Patterns from Geo-Tagged Photography</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0165753</url>
+<snippet>We live in a world where digital trails of different forms of human activities compose big urban data, allowing us to detect many aspects of how people experience the city in which they live or come to visit. In this study we propose to enhance urban planning by taking into a consideration individual preferences using information from an unconventional big data source: dataset of geo-tagged photographs that people take in cities which we then use as a measure of urban attractiveness. We discover and compare a temporal behavior of residents and visitors in ten most photographed cities in the world. Looking at the periodicity in urban attractiveness, the results show that the strongest periodic patterns for visitors are usually weekly or monthly. Moreover, by dividing cities into two groups based on which continent they belong to (i.e., North America or Europe), it can be concluded that unlike European cities, behavior of visitors in the US cities in general is similar to the behavior of their residents. Finally, we apply two indices, called "dilatation attractiveness index" and "dilatation index", to our dataset which tell us the spatial and temporal attractiveness pulsations in the city. The proposed methodology is not only important for urban planning, but also does support various business and public stakeholder decision processes, concentrated for example around the question how to attract more visitors to the city or estimate the impact of special events organized there. RI Gonzalez, Marta/E-9456-2011 OI Gonzalez, Marta/0000-0002-8482-0318; /0000-0002-4664-3349; /0000-0003-3720-7462
+WOS:000389587100016
+</snippet>
+</document>
+
+<document id="15">
+<title>Unveiling patterns of international communities in a global city using mobile phone data</title>
+<url>http://dx.doi.org/10.1140/epjds/s13688-015-0041-5</url>
+<snippet>We analyse a large mobile phone activity dataset provided by Telecom Italia for the Telecom Big Data Challenge contest. The dataset reports the international country codes of every call/SMS made and received by mobile phone users in Milan, Italy, between November and December 2013, with a spatial resolution of about 200 meters. We first show that the observed spatial distribution of international codes well matches the distribution of international communities reported by official statistics, confirming the value of mobile phone data for demographic research. Next, we define an entropy function to measure the heterogeneity of the international phone activity in space and time. By comparing the entropy function to empirical data, we show that it can be used to identify the citys hotspots, defined by the presence of points of interests. Eventually, we use the entropy function to characterize the spatial distribution of international communities in the city. Adopting a topological data analysis approach, we find that international mobile phone users exhibit some robust clustering patterns that correlate with basic socio-economic variables. Our results suggest that mobile phone records can be used in conjunction with topological data analysis tools to study the geography of migrant communities in a global city. RI Tizzoni, Michele/H-6442-2016 OI Tizzoni, Michele/0000-0001-7246-2341; Petri, Giovanni/0000-0003-1847-5031
+WOS:000368069900003
+</snippet>
+</document>
+
+<document id="16">
+<title>Human diffusion and city influence</title>
+<url>http://dx.doi.org/10.1098/rsif.2015.0473</url>
+<snippet>Cities are characterized by concentrating population, economic activity and services. However, not all cities are equal and a natural hierarchy at local, regional or global scales spontaneously emerges. In this work, we introduce a method to quantify city influence using geolocated tweets to characterize human mobility. Rome and Paris appear consistently as the cities attracting most diverse visitors. The ratio between locals and non-local visitors turns out to be fundamental for a city to truly be global. Focusing only on urban residents mobility flows, a city-to-city network can be constructed. This network allows us to analyse centrality measures at different scales. New York and London play a central role on the global scale, while urban rankings suffer substantial changes if the focus is set at a regional level. RI Ramasco, Jose J/F-2860-2010; Goncalves, Bruno/A-8541-2009 OI Ramasco, Jose J/0000-0003-2499-6095; Goncalves, Bruno/0000-0001-5644-3749
+WOS:000361084200010
+</snippet>
+</document>
+
+<document id="17">
+<title>Energy and material flows of megacities</title>
+<url>http://dx.doi.org/10.1073/pnas.1504315112</url>
+<snippet>Understanding the drivers of energy and material flows of cities is important for addressing global environmental challenges. Accessing, sharing, and managing energy and material resources is particularly critical for megacities, which face enormous social stresses because of their sheer size and complexity. Here we quantify the energy and material flows through the worlds 27 megacities with populations greater than 10 million people as of 2010. Collectively the resource flows through megacities are largely consistent with scaling laws established in the emerging science of cities. Correlations are established for electricity consumption, heating and industrial fuel use, ground transportation energy use, water consumption, waste generation, and steel production in terms of heating-degree-days, urban form, economic activity, and population growth. The results help identify megacities exhibiting high and low levels of consumption and those making efficient use of resources. The correlation between per capita electricity use and urbanized area per capita is shown to be a consequence of gross building floor area per capita, which is found to increase for lower-density cities. Many of the megacities are growing rapidly in population but are growing even faster in terms of gross domestic product (GDP) and energy use. In the decade from 2001-2011, electricity use and ground transportation fuel use in megacities grew at approximately half the rate of GDP growth. RI Cersosimo, Igor/J-6951-2014; Chen, Bin/A-6951-2012 OI Chen, Bin/0000-0002-5488-6850; Chiu, Anthony Shun Fung/0000-0003-2411-7302; Ibrahim, Nadine/0000-0003-1241-5935
+WOS:000354390600050
+</snippet>
+</document>
+
+<document id="18">
+<title>Scaling of foreign attractiveness for countries and states</title>
+<url>http://dx.doi.org/10.1016/j.apgeog.2016.06.006</url>
+<snippet>Peoples behavior on online social networks, which store geotagged information showing where people were or are at the moment, can provide information about their offline life as well. In this paper we present one possible research direction that can be taken using Flickr dataset of publicly available geo-tagged media objects (e.g., photographs, videos). Namely, our focus is on investigating attractiveness of countries or smaller large-scale composite regions (e.g., US states) for foreign visitors where attractiveness is defined as the absolute number of media objects taken in a certain state or country by its foreign visitors compared to its population size. We also consider it together with attractiveness of the destination for the international migration, measured through publicly available dataset provided by United Nations. By having those two datasets, we are able to look at attractiveness from two different perspectives: short-term and long-term one. As our previous study showed that city attractiveness for Spanish cities follows a superlinear trend, here we want to see if the same law is also applicable to country/state (i.e., composite regions) attractiveness. Finally, we provide one possible explanation for the obtained results. (C) 2016 Elsevier Ltd. All rights reserved. OI /0000-0002-4664-3349
+WOS:000381593000005
+</snippet>
+</document>
+
+<document id="19">
+<title>JIGSAW PERCOLATION: WHAT SOCIAL NETWORKS CAN COLLABORATIVELY SOLVE A PUZZLE?</title>
+<url>http://dx.doi.org/10.1214/14-AAP1041</url>
+<snippet>We introduce a new kind of percolation on finite graphs called jigsaw percolation. This model attempts to capture networks of people who innovate by merging ideas and who solve problems by piecing together solutions. Each person in a social network has a unique piece of a jigsaw puzzle. Acquainted people with compatible puzzle pieces merge their puzzle pieces. More generally, groups of people with merged puzzle pieces merge if the groups know one another and have a pair of compatible puzzle pieces. The social network solves the puzzle if it eventually merges all the puzzle pieces. For an Erdos Renyi social network with n vertices and edge probability p(n), we define the critical value Pc (n) for a connected puzzle graph to be the Pit for which the chance of solving the puzzle equals 1/2. We prove that for the n-cycle (ring) puzzle, p
+WOS:000356910600007
+</snippet>
+</document>
+
+<document id="20">
+<title>Urban characteristics attributable to density-driven tie formation</title>
+<url>http://dx.doi.org/10.1038/ncomms2961</url>
+<snippet>Motivated by empirical evidence on the interplay between geography, population density and societal interaction, we propose a generative process for the evolution of social structure in cities. Our analytical and simulation results predict both super-linear scaling of social-tie density and information contagion as a function of the population. Here we demonstrate that our model provides a robust and accurate fit for the dependency of city characteristics with city-size, ranging from individual-level dyadic interactions (number of acquaintances, volume of communication) to population level variables (contagious disease rates, patenting activity, economic productivity and crime) without the need to appeal to heterogeneity, modularity, specialization or hierarchy. OI Ghoshal, Gourab/0000-0001-7593-5626
+WOS:000323624100029
+</snippet>
+</document>
+
+<document id="21">
+<title>Social Media Fingerprints of Unemployment</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0128692</url>
+<snippet>Recent widespread adoption of electronic and pervasive technologies has enabled the study of human behavior at an unprecedented level, uncovering universal patterns underlying human activity, mobility, and interpersonal communication. In the present work, we investigate whether deviations from these universal patterns may reveal information about the socio-economical status of geographical regions. We quantify the extent to which deviations in diurnal rhythm, mobility patterns, and communication styles across regions relate to their unemployment incidence. For this we examine a country-scale publicly articulated social media dataset, where we quantify individual behavioral features from over 19 million geo-located messages distributed among more than 340 different Spanish economic regions, inferred by computing communities of cohesive mobility fluxes. We find that regions exhibiting more diverse mobility fluxes, earlier diurnal rhythms, and more correct grammatical styles display lower unemployment rates. As a result, we provide a simple model able to produce accurate, easily interpretable reconstruction of regional unemployment incidence from their social-media digital fingerprints alone. Our results show that cost-effective economical indicators can be built based on publicly-available social media datasets. OI MORO, ESTEBAN/0000-0003-2894-1024; Garcia-Herranz, Manuel/0000-0002-4252-4975
+WOS:000355187300120
+</snippet>
+</document>
+
+<document id="22">
+<title>Per capita incidence of sexually transmitted infections increases systematically with urban population size: a cross-sectional study</title>
+<url>http://dx.doi.org/10.1136/sextrans-2014-051932</url>
+<snippet>Objectives Rampant urbanisation rates across the globe demand that we improve our understanding of how infectious diseases spread in modern urban landscapes, where larger and more connected host populations enhance the thriving capacity of certain pathogens. Methods A data-driven approach is employed to study the ability of sexually transmitted diseases (STDs) to thrive in urban areas. The conduciveness of population size of urban areas and their socioeconomic characteristics are used as predictors of disease incidence, using confirmed-case data on STDs in the USA as a case study. Results A superlinear relation between STD incidence and urban population size is found, even after controlling for various socioeconomic aspects, suggesting that doubling the population size of a city results in an expected increase in STD incidence larger than twofold, provided that all other socioeconomic aspects remain fixed. Additionally, the percentage of African-Americans, income inequalities, education and per capita income are found to have a significant impact on the incidence of each of the three STDs studied. Conclusions STDs disproportionately concentrate in larger cities. Hence, larger urban areas merit extra prevention and treatment efforts, especially in low-income and middle-income countries where urbanisation rates are higher. RI Castillo-Chavez, Carlos/E-1412-2014 OI Castillo-Chavez, Carlos/0000-0002-1046-3901
+WOS:000365344800017
+</snippet>
+</document>
+
+<document id="23">
+<title>Scaling: lost in the smog Commentary</title>
+<url>http://dx.doi.org/10.1068/b4105c</url>
+<snippet>
+WOS:000344091800002
+</snippet>
+</document>
+
+<document id="24">
+<title>Elementary processes governing the evolution of road networks</title>
+<url>http://dx.doi.org/10.1038/srep00296</url>
+<snippet>Urbanisation is a fundamental phenomenon whose quantitative characterisation is still inadequate. We report here the empirical analysis of a unique data set regarding almost 200 years of evolution of the road network in a large area located north of Milan (Italy). We find that urbanisation is characterised by the homogenisation of cell shapes, and by the stability throughout time of high-centrality roads which constitute the backbone of the urban structure, confirming the importance of historical paths. We show quantitatively that the growth of the network is governed by two elementary processes: (i) densification, corresponding to an increase in the local density of roads around existing urban centres and (ii) exploration, whereby new roads trigger the spatial evolution of the urbanisation front. The empirical identification of such simple elementary mechanisms suggests the existence of general, simple properties of urbanisation and opens new directions for its modelling and quantitative description. RI Nicosia, Vincenzo/C-7890-2013; strano, emanuele/J-3002-2015 OI Nicosia, Vincenzo/0000-0003-0636-3278; Latora, Vito/0000-0002-0984-8038; Porta, Sergio/0000-0003-1458-9517
+WOS:000300954300001
+</snippet>
+</document>
+
+<document id="25">
+<title>A long-time limit for world subway networks</title>
+<url>http://dx.doi.org/10.1098/rsif.2012.0259</url>
+<snippet>We study the temporal evolution of the structure of the worlds largest subway networks in an exploratory manner. We show that, remarkably, all these networks converge to a shape that shares similar generic features despite their geographical and economic differences. This limiting shape is made of a core with branches radiating from it. For most of these networks, the average degree of a node (station) within the core has a value of order 2.5 and the proportion of k = 2 nodes in the core is larger than 60 per cent. The number of branches scales roughly as the square root of the number of stations, the current proportion of branches represents about half of the total number of stations, and the average diameter of branches is about twice the average radial extension of the core. Spatial measures such as the number of stations at a given distance to the barycentre display a first regime which grows as r(2) followed by another regime with different exponents, and eventually saturates. These results-difficult to interpret in the framework of fractal geometry-confirm and yield a natural explanation in the geometric picture of this core and their branches: the first regime corresponds to a uniform core, while the second regime is controlled by the interstation spacing on branches. The apparent convergence towards a unique network shape in the temporal limit suggests the existence of dominant, universal mechanisms governing the evolution of these structures. RI Batty, Michael/I-5638-2014
+WOS:000308240400015
+</snippet>
+</document>
+
+<document id="26">
+<title>A network framework of cultural history</title>
+<url>http://dx.doi.org/10.1126/science.1240064</url>
+<snippet>The emergent processes driving cultural history are a product of complex interactions among large numbers of individuals, determined by difficult-to-quantify historical conditions. To characterize these processes, we have reconstructed aggregate intellectual mobility over two millennia through the birth and death locations of more than 150,000 notable individuals. The tools of network and complexity theory were then used to identify characteristic statistical patterns and determine the cultural and historical relevance of deviations. The resulting network of locations provides a macroscopic perspective of cultural history, which helps us to retrace cultural narratives of Europe and North America using large-scale visualization and quantitative dynamical tools and to derive historical trends of cultural centers beyond the scope of specific events or narrow time intervals.
+WOS:000339651300044
+</snippet>
+</document>
+
+<document id="27">
+<title>Mass Gatherings Health 4 Crowd and environmental management during mass gatherings</title>
+<url>http://dx.doi.org/10.1016/S1473-3099(11)70287-0</url>
+<snippet>Crowds are a feature of large cities, occurring not only at mass gatherings but also at routine events such as the journey to work. To address extreme crowding, various computer models for crowd movement have been developed in the past decade, and we review these and show how they can be used to identify health and safety issues. State-of-the-art models that simulate the spread of epidemics operate on a population level, but the collection of fine-scale data might enable the development of models for epidemics that operate on a microscopic scale, similar to models for crowd movement. We provide an example of such simulations, showing how an individual-based crowd model can mirror aggregate susceptible-infected-recovered models that have been the main models for epidemics so far. RI Johansson, Anders/C-5551-2009; Batty, Michael/I-5638-2014
+WOS:000299656000024
+</snippet>
+</document>
+
+<document id="28">
+<title>Quantifying long-term evolution of intra-urban spatial interactions</title>
+<url>http://dx.doi.org/10.1098/rsif.2014.1089</url>
+<snippet>Understanding the long-term impact that changes in a city's transportation infrastructure have on its spatial interactions remains a challenge. The difficulty arises from the fact that the real impact may not be revealed in static or aggregated mobility measures, as these are remarkably robust to perturbations. More generally, the lack of longitudinal, cross-sectional data demonstrating the evolution of spatial interactions at a meaningful urban scale also hinders us from evaluating the sensitivity of movement indicators, limiting our capacity to understand the evolution of urban mobility in depth. Using very large mobility records distributed over 3 years, we quantify the impact of the completion of a metro line extension: the Circle Line (CCL) in Singapore. We find that the commonly used movement indicators are almost identical before and after the project was completed. However, in comparing the temporal community structure across years, we do observe significant differences in the spatial reorganization of the affected geographical areas. The completion of CCL enables travellers to re-identify their desired destinations collectively with lower transport cost, making the community structure more consistent. These changes in locality are dynamic and characterized over short timescales, offering us a different approach to identify and analyse the long-term impact of new infrastructures on cities and their evolution dynamics. RI Jin, Jian Gang/G-5636-2012; Sun, Lijun/E-8170-2015; Lee, Der-Horng/H-7080-2012 OI Jin, Jian Gang/0000-0002-8507-1435; Sun, Lijun/0000-0001-9488-0712; Lee, Der-Horng/0000-0001-5428-8810
+WOS:000209931100001
+</snippet>
+</document>
+
+<document id="29">
+<title>Great cities look small</title>
+<url>http://dx.doi.org/10.1098/rsif.2015.0315</url>
+<snippet>Great cities connect people; failed cities isolate people. Despite the fundamental importance of physical, face-to-face social ties in the functioning of cities, these connectivity networks are not explicitly observed in their entirety. Attempts at estimating them often rely on unrealistic over-simplifications such as the assumption of spatial homogeneity. Here we propose a mathematical model of human interactions in terms of a local strategy of maximizing the number of beneficial connections attainable under the constraint of limited individual travelling-time budgets. By incorporating census and openly available online multi-modal transport data, we are able to characterize the connectivity of geometrically and topologically complex cities. Beyond providing a candidate measure of greatness, this model allows one to quantify and assess the impact of transport developments, population growth, and other infrastructure and demographic changes on a city. Supported by validations of gross domestic product and human immunodeficiency virus infection rates across US metropolitan areas, we illustrate the effect of changes in local and city-wide connectivities by considering the economic impact of two contemporary inter- and intra-city transport developments in the UK: High Speed 2 and London Crossrail. This derivation of the model suggests that the scaling of different urban indicators with population size has an explicitly mechanistic origin. RI Barahona, Mauricio/C-3638-2008 OI Barahona, Mauricio/0000-0002-1089-5675
+WOS:000361084200013
+</snippet>
+</document>
+
+<document id="30">
+<title>Understanding the variability of daily travel-time expenditures using GPS trajectory data</title>
+<url>http://dx.doi.org/10.1140/epjds/s13688-015-0055-z</url>
+<snippet>Transportation planning is strongly influenced by the assumption that every individual has a constant daily budget of approximate to 1 hour for his daily mobility. However, recent experimental results are proving this assumption as wrong. Here, we study the differences in daily travel-time expenditures among 24 Italian cities, extracted from a large set of GPS data on vehicles mobility. To understand these variations at the level of individual behaviour, we introduce a trip duration model that allows for a description of the distribution of travel-time expenditures in a given city using two parameters. The first parameter reflects the accessibility of desired destinations, whereas the second one can be associated to a travel-time budget and represents physiological limits due to stress and fatigue. Within the same city, we observe variations in the distributions according to home position, number of mobility days and a drivers average number of daily trips. These results can be interpreted by a stochastic time-consumption model, where the generalised cost of travel times is given by a logarithmic-like function, in agreement with the Weber-Fechner law. Our experimental results show a significant variability in the travel-time budgets in different cities, and for different categories of drivers within the same city. This explicitly clashes with the idea of the existence of a constant travel-time budget and opens new perspectives for the modelling and governance of urban mobility. RI Gallotti, Riccardo/B-6339-2013 OI Gallotti, Riccardo/0000-0002-8088-1973
+WOS:000368069900018
+</snippet>
+</document>
+
+<document id="31">
+<title>A Tale of Many Cities: Universal Patterns in Human Urban Mobility</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0037027</url>
+<snippet>The advent of geographic online social networks such as Foursquare, where users voluntarily signal their current location, opens the door to powerful studies on human movement. In particular the fine granularity of the location data, with GPS accuracy down to 10 meters, and the worldwide scale of Foursquare adoption are unprecedented. In this paper we study urban mobility patterns of people in several metropolitan cities around the globe by analyzing a large set of Foursquare users. Surprisingly, while there are variations in human movement in different cities, our analysis shows that those are predominantly due to different distributions of places across different urban environments. Moreover, a universal law for human mobility is identified, which isolates as a key component the rank-distance, factoring in the number of places between origin and destination, rather than pure physical distance, as considered in some previous works. Building on our findings, we also show how a rank-based movement model accurately captures real human movements in different cities. OI Lambiotte, Renaud/0000-0002-0583-4595; Mascolo, Cecilia/0000-0001-9614-4380
+WOS:000305349600008
+</snippet>
+</document>
+
+<document id="32">
+<title>Comparing and modelling land use organization in cities</title>
+<url>http://dx.doi.org/10.1098/rsos.150449</url>
+<snippet>The advent of geolocated information and communication technologies opens the possibility of exploring how people use space in cities, bringing an important new tool for urban scientists and planners, especially for regions where data are scarce or not available. Here we apply a functional network approach to determine land use patterns from mobile phone records. The versatility of the method allows us to run a systematic comparison between Spanish cities of various sizes. The method detects four major land use types that correspond to different temporal patterns. The proportion of these types, their spatial organization and scaling show a strong similarity between all cities that breaks down at a very local scale, where land use mixing is specific to each urban area. Finally, we introduce a model inspired by Schellings segregation, able to explain and reproduce these results with simple interaction rules between different land uses. RI San Miguel, Maxi/G-3224-2015; Ramasco, Jose J/F-2860-2010 OI San Miguel, Maxi/0000-0001-6237-425X; Ramasco, Jose J/0000-0003-2499-6095; Louail, Thomas/0000-0001-8563-6881
+WOS:000377968100014
+</snippet>
+</document>
+
+<document id="33">
+<title>Law of corresponding states for open collaborations</title>
+<url>http://dx.doi.org/10.1103/PhysRevE.93.042307</url>
+<snippet>We study the relation between number of contributors and product size in Wikipedia and GitHub. In contrast to traditional production, this is strongly probabilistic, but is characterized by two quantitative nonlinear laws: a power-law bound to product size for increasing number of contributors, and the universal collapse of rescaled distributions. A variant of the random-energy model shows that both laws are due to the heterogeneity of contributors, and displays an intriguing finite-size scaling property with no equivalent in standard systems. The analysis uncovers the right intensive densities, enabling the comparison of projects with different numbers of contributors on equal grounds. We use this property to expose the detrimental effects of conflicting interactions in Wikipedia. OI Gherardi, Marco/0000-0002-7745-8269; Cosentino Lagomarsino, Marco/0000-0003-0235-0445
+WOS:000373771700004
+</snippet>
+</document>
+
+<document id="34">
+<title>Cities through the Prism of People's Spending Behavior</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0146291</url>
+<snippet>Scientific studies of society increasingly rely on digital traces produced by various aspects of human activity. In this paper, we exploit a relatively unexplored source of data-anonymized records of bank card transactions collected in Spain by a big European bank, and propose a new classification scheme of cities based on the economic behavior of their residents. First, we study how individual spending behavior is qualitatively and quantitatively affected by various factors such as customers age, gender, and size of his/her home city. We show that, similar to other socioeconomic urban quantities, individual spending activity exhibits a statistically significant superlinear scaling with city size. With respect to the general trends, we quantify the distinctive signature of each city in terms of residents spending behavior, independently from the effects of scale and demographic heterogeneity. Based on the comparison of city signatures, we build a novel classification of cities across Spain in three categories. That classification exhibits a substantial stability over different city definitions and connects with a meaningful socioeconomic interpretation. Furthermore, it corresponds with the ability of cities to attract foreign visitors, which is a particularly remarkable finding given that the classification was based exclusively on the behavioral patterns of city residents. This highlights the far-reaching applicability of the presented classification approach and its ability to discover patterns that go beyond the quantities directly involved in it.
+WOS:000369554000008
+</snippet>
+</document>
+
+<document id="35">
+<title>Scaling of city attractiveness for foreign visitors through big data of human economical and social media activity</title>
+<url>http://dx.doi.org/10.1109/BigDataCongress.2015.92</url>
+<snippet>Scientific studies investigating laws and regularities of human behavior are nowadays increasingly relying on the wealth of widely available digital information produced by human activity. In this paper we use big data created by three different aspects of this activity (i.e., bank card transactions, geotagged photographs and tweets) in Spain for quantifying city attractiveness for foreign visitors. An important finding of this paper is a strong superlinear scaling law of city attractiveness with its population size. The observed scaling exponent stays nearly the same for different ways of defining cities and for different data sources, emphasizing the robustness of our finding. We also consider temporal variation of the scaling exponent in order to reveal seasonal patterns in the attractiveness. Finally, we propose a possible explanatory mechanism for the observed superlinear effect based on a simple discrete choice model.
+WOS:000380443700082
+</snippet>
+</document>
+
+<document id="36">
+<title>Critical tipping point distinguishing two types of transitions in modular network structures</title>
+<url>http://dx.doi.org/10.1103/PhysRevE.92.062805</url>
+<snippet>Modularity is a key organizing principle in real-world large-scale complex networks. The relatively sparse interactions between modules are critical to the functionality of the system and are often the first to fail. We model such failures as site percolation targeting interconnected nodes, those connecting between modules. We find, using percolation theory and simulations, that they lead to a "tipping point" between two distinct regimes. In one regime, removal of interconnected nodes fragments the modules internally and causes the system to collapse. In contrast, in the other regime, while only attacking a small fraction of nodes, the modules remain but become disconnected, breaking the entire system. We show that networks with broader degree distribution might be highly vulnerable to such attacks since only few nodes are needed to interconnect the modules, consequently putting the entire system at high risk. Our model has the potential to shed light on many real-world phenomena, and we briefly consider its implications on recent advances in the understanding of several neurocognitive processes and diseases. OI Kenett, Yoed/0000-0003-3872-7689
+WOS:000365872700013
+</snippet>
+</document>
+
+<document id="37">
+<title>Sublinear scaling of country attractiveness observed from Flickr dataset</title>
+<url>http://dx.doi.org/</url>
+<snippet>The number of people who decide to share their photographs publicly increases every day, consequently making available new almost real-time insights of human behavior while traveling. Rather than having this statistic once a month or yearly, urban planners and touristic workers now can make decisions almost simultaneously with the emergence of new events. Moreover, these datasets can be used not only to compare how popular different touristic places are, but also predict how popular they should be taking into an account their characteristics. In this paper we investigate how country attractiveness scales with its population and size using number of foreign users taking photographs, which is observed from Flickr dataset, as a proxy for attractiveness. The results showed two things: to a certain extent country attractiveness scales with population, but does not with its size; and unlike in case of Spanish cities, country attractiveness scales sublinearly with population, and not superlinearly.
+WOS:000380544500037
+</snippet>
+</document>
+
+<document id="38">
+<title>Topological Properties and Temporal Dynamics of Place Networks in Urban Environments</title>
+<url>http://dx.doi.org/10.1145/2740908.2745402</url>
+<snippet>Understanding the spatial networks formed by the trajectories of mobile users can be beneficial to applications ranging from epidemiology to local search. Despite the potential for impact in a number of fields, several aspects of human mobility networks remain largely unexplored due to the lack of large-scale data at a fine spatiotemporal resolution. Using a longitudinal dataset from the location-based service Foursquare, we perform an empirical analysis of the topological properties of place networks and note their resemblance to online social networks in terms of heavy-tailed degree distributions, triadic closure mechanisms and the small world property. Unlike social networks however, place networks present a mixture of connectivity trends in terms of assortativity that are surprisingly similar to those of the web graph. We take advantage of additional semantic information to interpret how nodes that take on functional roles such as travel hub, or food spot behave in these networks. Finally, motivated by the large volume of new links appearing in place networks over time, we formulate the classic link prediction problem in this new domain. We propose a novel variant of gravity models that brings together three essential elements of inter-place connectivity in urban environments: network-level interactions, human mobility dynamics, and geographic distance. We evaluate this model and find it outperforms a number of baseline predictors and supervised learning algorithms on a task of predicting new links in a sample of one hundred popular cities.
+WOS:000382666600126
+</snippet>
+</document>
+
+<document id="39">
+<title>A Visual Analytics Approach for Extracting Spatio-Temporal Urban Mobility Information from Mobile Network Traffic</title>
+<url>http://dx.doi.org/10.3390/ijgi1030256</url>
+<snippet>In this paper we present a visual analytics approach for deriving spatio-temporal patterns of collective human mobility from a vast mobile network traffic data set. More than 88 million movements between pairs of radio cells-so-called handovers-served as a proxy for more than two months of mobility within four urban test areas in Northern Italy. In contrast to previous work, our approach relies entirely on visualization and mapping techniques, implemented in several software applications. We purposefully avoid statistical or probabilistic modeling and, nonetheless, reveal characteristic and exceptional mobility patterns. The results show, for example, surprising similarities and symmetries amongst the total mobility and people flows between the test areas. Moreover, the exceptional patterns detected can be associated to real-world events such as soccer matches. We conclude that the visual analytics approach presented can shed new light on large-scale collective urban mobility behavior and thus helps to better understand the "pulse" of dynamic urban systems.
+WOS:000209465500003
+</snippet>
+</document>
+
+<document id="40">
+<title>Scaling behaviours in the growth of networked systems and their geometric origins</title>
+<url>http://dx.doi.org/10.1038/srep09767</url>
+<snippet>Two classes of scaling behaviours, namely the super-linear scaling of links or activities, and the sub-linear scaling of area, diversity, or time elapsed with respect to size have been found to prevail in the growth of complex networked systems. Despite some pioneering modelling approaches proposed for specific systems, whether there exists some general mechanisms that account for the origins of such scaling behaviours in different contexts, especially in socioeconomic systems, remains an open question. We address this problem by introducing a geometric network model without free parameter, finding that both super-linear and sub-linear scaling behaviours can be simultaneously reproduced and that the scaling exponents are exclusively determined by the dimension of the Euclidean space in which the network is embedded. We implement some realistic extensions to the basic model to offer more accurate predictions for cities of various scaling behaviours and the Zipf distribution reported in the literature and observed in our empirical studies. All of the empirical results can be precisely recovered by our model with analytical predictions of all major properties. By virtue of these general findings concerning scaling behaviour, our models with simple mechanisms gain new insights into the evolution and development of complex networked systems.
+WOS:000353621400001
+</snippet>
+</document>
+
+<document id="41">
+<title>Constructing cities, deconstructing scaling laws</title>
+<url>http://dx.doi.org/10.1098/rsif.2014.0745</url>
+<snippet>Cities can be characterized and modelled through different urban measures. Consistency within these observables is crucial in order to advance towards a science of cities. Bettencourt et al. have proposed that many of these urban measures can be predicted through universal scaling laws. We develop a framework to consistently define cities, using commuting to work and population density thresholds, and construct thousands of realizations of systems of cities with different boundaries for England and Wales. These serve as a laboratory for the scaling analysis of a large set of urban indicators. The analysis shows that population size alone does not provide us enough information to describe or predict the state of a city as previously proposed, indicating that the expected scaling laws are not corroborated. We found that most urban indicators scale linearly with city size, regardless of the definition of the urban boundaries. However, when nonlinear correlations are present, the exponent fluctuates considerably. RI Hatna, Erez/D-9665-2015
+WOS:000345500000003
+</snippet>
+</document>
+
+<document id="42">
+<title>Time Evolution of Road Networks</title>
+<url>http://dx.doi.org/10.1007/978-3-319-10629-8_38</url>
+<snippet>Urbanization is a fundamental phenomenon which however still remains poorly quantitatively characterized. An important facet of this phenomenon is the road network which co-evolves with other urban structures and we review here the most recent results about the structure and the evolution of these important infrastructures. These studies suggest that the natural evolution of a road network is governed by two elementary processes: (i) densification, which corresponds to an increase in the local density of roads around existing central points and (ii) exploration which consists in new roads triggering the spatial evolution of the urbanization front. However, interventions of central, top-down planning could modify this simple picture of a natural evolution and we will present the example of the street network of Paris (France), which during the nineteenth century experienced large modifications supervised by a central authority, the Haussmann period. In this case, the usual network measures display a smooth behavior and the most important quantitative signatures of central planning are the spatial reorganization of centrality and the modification of the block shape distribution. Such effects can only be obtained by structural modifications at a large-scale level, with the creation of new roads not constrained by the existing geometry. These different results suggest that the evolution of a road network results from the superimposition of continuous, local growth processes and punctual changes operating at large spatial scales, opening new directions for the modelling of these systems.
+WOS:000380446300038
+</snippet>
+</document>
+
+<document id="43">
+<title>World citation and collaboration networks: uncovering the role of geography in science</title>
+<url>http://dx.doi.org/10.1038/srep00902</url>
+<snippet>Modern information and communication technologies, especially the Internet, have diminished the role of spatial distances and territorial boundaries on the access and transmissibility of information. This has enabled scientists for closer collaboration and internationalization. Nevertheless, geography remains an important factor affecting the dynamics of science. Here we present a systematic analysis of citation and collaboration networks between cities and countries, by assigning papers to the geographic locations of their authors affiliations. The citation flows as well as the collaboration strengths between cities decrease with the distance between them and follow gravity laws. In addition, the total research impact of a country grows linearly with the amount of national funding for research &amp; development. However, the average impact reveals a peculiar threshold effect: the scientific output of a country may reach an impact larger than the world average only if the country invests more than about 100,000 USD per researcher annually. RI Fortunato, Santo/C-3586-2009; Kaski, Kimmo/G-8067-2012; Saramaki, Jari/E-5226-2011; Pan, Raj Kumar/B-4352-2010 OI Fortunato, Santo/0000-0002-9039-4730; Pan, Raj Kumar/0000-0001-9803-6332
+WOS:000311898400004
+</snippet>
+</document>
+
+<document id="44">
+<title>Misery loves company: happiness and communication in the city</title>
+<url>http://dx.doi.org/10.1140/epjds/s13688-015-0044-2</url>
+<snippet>The high population density in cities confers many advantages, including improved social interaction and information exchange. However, it is often argued that urban living comes at the expense of reducing happiness. The goal of this research is to shed light on the relationship between urban communication and urban happiness. We analyze geo-located social media posts (tweets) within a major urban center (Milan) to produce a detailed spatial map of urban sentiments. We combine this data with high-resolution mobile communication intensity data among different urban areas. Our results reveal that happy (respectively unhappy) areas preferentially communicate with other areas of their type. This observation constitutes evidence of homophilous communities at the scale of an entire city (Milan), and has implications on interventions that aim to improve urban well-being. OI Alshamsi, Aamena/0000-0001-6846-4627
+WOS:000368069900007
+</snippet>
+</document>
+
+<document id="45">
+<title>How does public opinion become extreme?</title>
+<url>http://dx.doi.org/10.1038/srep10032</url>
+<snippet>We investigate the emergence of extreme opinion trends in society by employing statistical physics modeling and analysis on polls that inquire about a wide range of issues such as religion, economics, politics, abortion, extramarital sex, books, movies, and electoral vote. The surveys lay out a clear indicator of the rise of extreme views. The precursor is a nonlinear relation between the fraction of individuals holding a certain extreme view and the fraction of individuals that includes also moderates, e.g., in politics, those who are "very conservative" versus "moderate to very conservative" ones. We propose an activation model of opinion dynamics with interaction rules based on the existence of individual "stubbornness" that mimics empirical observations. According to our modeling, the onset of nonlinearity can be associated to an abrupt bootstrap-percolation transition with cascades of extreme views through society. Therefore, it represents an early-warning signal to forecast the transition from moderate to extreme views. Moreover, by means of a phase diagram we can classify societies according to the percolative regime they belong to, in terms of critical fractions of extremists and peoples ties. RI Reis, Saulo/E-4154-2013; Andrade, Jose/C-5451-2013; UFC, DF/E-1564-2017; Universidade Federal do Ceara, Physics Department/J-4630-2016; Anteneodo, Celia/C-7179-2013 OI Andrade, Jose/0000-0002-5571-7610; Universidade Federal do Ceara, Physics Department/0000-0002-9247-6780; Anteneodo, Celia/0000-0001-9130-2933
+WOS:000355294100001
+</snippet>
+</document>
+
+<document id="46">
+<title>Globally networked risks and how to respond</title>
+<url>http://dx.doi.org/10.1038/nature12047</url>
+<snippet>Todays strongly connected, global networks have produced highly interdependent systems that we do not understand and cannot control well. These systems are vulnerable to failure at all scales, posing serious threats to society, even when external shocks are absent. As the complexity and interaction strengths in our networked world increase, man-made systems can become unstable, creating uncontrollable situations even when decision-makers are well-skilled, have all data and technology at their disposal, and do their best. To make these systems manageable, a fundamental redesign is needed. A Global Systems Science might create the required knowledge and paradigm shift in thinking.
+WOS:000318221500033
+</snippet>
+</document>
+
+<document id="47">
+<title>Industry in Motion: Using Smart Phones to Explore the Spatial Network of the Garment Industry in New York City</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0086165</url>
+<snippet>Industrial agglomerations have long been thought to offer economic and social benefits to firms and people that are only captured by location within their specified geographies. Using the case study of New York Citys garment industry along with data acquired from cell phones and social media, this study set out to understand the discrete activities underpinning the economic dynamics of an industrial agglomeration. Over a two week period, data was collected by employing the geo-locative capabilities of Foursquare, a social media application, to record every movement of fashion workers employed at fashion design firms located both inside and outside the geographical boundaries of New York Citys Garment District. This unique method of studying worker activity exposed the day-to-day dynamics of an industrial district with a precision thus far undocumented in literature. Our work suggests that having access to the cluster provides almost the same agglomeration economies as residing within its borders.
+WOS:000330829200016
+</snippet>
+</document>
+
+<document id="48">
+<title>Scale-Adjusted Metrics for Predicting the Evolution of Urban Indicators and Quantifying the Performance of Cities</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0134862</url>
+<snippet>More than a half of world population is now living in cities and this number is expected to be two-thirds by 2050. Fostered by the relevancy of a scientific characterization of cities and for the availability of an unprecedented amount of data, academics have recently immersed in this topic and one of the most striking and universal finding was the discovery of robust allometric scaling laws between several urban indicators and the population size. Despite that, most governmental reports and several academic works still ignore these nonlinearities by often analyzing the raw or the per capita value of urban indicators, a practice that actually makes the urban metrics biased towards small or large cities depending on whether we have super or sublinear allometries. By following the ideas of Bettencourt et al. [PLoS ONE 5 (2010) e13541], we account for this bias by evaluating the difference between the actual value of an urban indicator and the value expected by the allometry with the population size. We show that this scale-adjusted metric provides a more appropriate/informative summary of the evolution of urban indicators and reveals patterns that do not appear in the evolution of per capita values of indicators obtained from Brazilian cities. We also show that these scale-adjusted metrics are strongly correlated with their past values by a linear correspondence and that they also display crosscorrelations among themselves. Simple linear models account for 31&#37;-97&#37; of the observed variance in data and correctly reproduce the average of the scale-adjusted metric when grouping the cities in above and below the allometric laws. We further employ these models to forecast future values of urban indicators and, by visualizing the predicted changes, we verify the emergence of spatial clusters characterized by regions of the Brazilian territory where we expect an increase or a decrease in the values of urban indicators. RI Mendes, Renio/F-9261-2017; Ribeiro, Haroldo/C-8614-2012; Alves, Luiz/H-3389-2013 OI Ribeiro, Haroldo/0000-0002-9532-5195; Alves, Luiz/0000-0001-6204-5552; Lenzi, Ervin/0000-0003-3853-1790
+WOS:000360965800002
+</snippet>
+</document>
+
+<document id="49">
+<title>Relationship between socioeconomic flows and social stocks: case study on Japanese air transportation</title>
+<url>http://dx.doi.org/10.1007/s40844-015-0016-z</url>
+<snippet>This article analyses socioeconomic flows and social stocks using governmental statistics data on both air transportation and demographic and economic censuses from a holistic point of view. The network analysis of the Japanese air transportation network consists of 86 domestic airports with 476 connections. Betweenness centrality and PageRank are computed for the network structure. Furthermore, a relationship between socioeconomic flows (passengers and freight) and social stocks (population, the number of workers and the number of firms) is investigated based on governmental statistics data. To determine the relationship, a gravity model, which proposes that a socioeconomic flow between two places is proportional to a power-law relationship among social stocks around the places and their geodesic distance, is assumed. Parameters with the relationship for passengers and freight are estimated, and an adequate radius distance to compute social stocks around Japanese airports is determined. This result can be used to infer socioeconomic flows from social stocks.
+WOS:000369613100004
+</snippet>
+</document>
+
+<document id="50">
+<title>Do Physicists Have Geography Envy? And What Can Geographers Learn from It?</title>
+<url>http://dx.doi.org/10.1080/00045608.2015.1039105</url>
+<snippet>Recent years have seen an increasing amount of work by physicists on topics outside their traditional research domain, including geography. We explore the scope of this development, place it in a historical context dating back at least to statistical physics in the nineteenth century and trace the origins of more recent developments to the roots of computational science after World War II. Our primary purpose is not historical, however. Instead, we are concerned with understanding what geographers can learn from the many recent contributions by physicists to understanding spatiotemporal systems. Drawing on examples of work in this tradition by physicists, we argue that two apparently different modes of investigation are common: model-driven and data-driven approaches. The former is associated with complexity science, whereas the latter is more commonly associated with the fourth paradigm, more recently known as "big data." Both modes share technical strengths and, more important, a capacity for generalization, which is absent from much work in geography. We argue that although some of this research lacks an appreciation of previous geographical contributions, when assessed critically, it nevertheless brings useful new perspectives, new methods, and new ideas to bear on topics central to geography, yet neglected in the discipline. We conclude with some suggestions for how geographers can build on these new approaches, both inside and outside the discipline. OI Manson, Steven/0000-0001-7697-5339
+WOS:000359478600005
+</snippet>
+</document>
+
+<document id="51">
+<title>Race, religion and the city: twitter word frequency patterns reveal dominant demographic dimensions in the United States</title>
+<url>http://dx.doi.org/10.1057/palcomms.2016.10</url>
+<snippet>Recently, numerous approaches have emerged in the social sciences to exploit the opportunities made possible by the vast amounts of data generated by online social networks (OSNs). Having access to information about users on such a scale opens up a range of possibilities-from predicting individuals' demographics and health status to their beliefs and political opinions-all without the limitations associated with often slow and expensive paper-based polls. A question that remains to be satisfactorily addressed, however, is how demography is represented in OSN content-that is, what are the relevant aspects that constitute detectable large-scale patterns in language? Here, we study language use in the United States using a corpus of text compiled from over half a billion geotagged messages from the online microblogging platform Twitter. Our intention is to reveal the most important spatial patterns in language use in an unsupervised manner and relate them to demographics. Our approach is based on Latent Semantic Analysis augmented with the Robust Principal Component Analysis methodology, which permits identification of the data's main sources of variation with an automatic filtering of noise and outliers without influencing results by a priori assumptions. We find spatially correlated patterns that can be interpreted based on the words associated with them. The main language features can be related to slang use, urbanization, travel, religion and ethnicity, the patterns of which are shown to correlate plausibly with traditional census data. Apart from the standard measure of linear correlation, some relations seem to be better explained by Boolean implications, suggesting a threshold-like behaviour where demographic variables influence the users' word use. Our findings validate the concept of demography being represented in OSN language use and show that the traits observed are inherently present in the word frequencies without any previous assumptions about the dataset. They therefore could form the basis of further research focusing on the evaluation of demographic data estimation from other big data sources, or on the dynamical processes that result in the patterns identified here. OI /0000-0003-3720-7462
+WOS:000453326400084
+</snippet>
+</document>
+
+<document id="52">
+<title>Topology and evolution of the network of western classical music composers</title>
+<url>http://dx.doi.org/10.1140/epjds/s13688-015-0039-z</url>
+<snippet>The expanding availability of high-quality, large-scale data from the realm of culture and the arts promises novel opportunities for understanding and harnessing the dynamics of the creation, collaboration, and dissemination processes - fundamentally network phenomena - of artistic works and styles. To this end, in this paper we explore the complex network of western classical composers constructed from a comprehensive CD (Compact Disc) recordings data that represent the centuries-old musical tradition using modern data analysis and modeling techniques. We start with the fundamental properties of the network such as the degree distribution and various centralities, and find how they correlate with composer attributes such as artistic styles and active periods, indicating their significance in the formation and evolution of the network. We also investigate the growth dynamics of the network, identifying superlinear preferential attachment as a major growth mechanism that implies a future of the musical landscape where an increasing concentration of recordings onto highly-recorded composers coexists with the diversity represented by the growth in the sheer number of recorded composers. Our work shows how the network framework married with data can be utilized to advance our understanding of the underlying principles of complexities in cultural systems. RI Park, Juyong/I-2290-2012
+WOS:000368069900002
+</snippet>
+</document>
+
+<document id="53">
+<title>Why Do Cities Grow? Insights from Nonequilibrium Thermodynamics at the Urban and Global Scales</title>
+<url>http://dx.doi.org/10.1111/jiec.12239</url>
+<snippet>This forum article explores thermodynamic understanding of the growth of cities, including theoretical foundations, observations, and analysis. The general theory of nonequilibrium thermodynamics is reviewed, recognizing differences in interpretation between Prigogine and Schneider and Kay as well as discussing the hypothesis of maximum entropy production. Calculations of exergy gradients in a few cities and settlements, along with measures of anthropogenic heat loss in further cities, support the notion that cities are dissipative structures. The observation that primary energy use per capita increases in Singapore and Hong Kong as they grow is further evidence to support the thermodynamic understanding of the growth of cities, indicative of an increasing rate of entropy production. At the global scale, the strong linear relationship between global urban population and total global energy use, and the distribution of city sizes according to Zipfs law, can be understood as emergent results based on thermodynamics. Parallel results might be derived from models that represent underlying microscale processes, several of which are reviewed. Issues for future research include: development of nonequilibrium thermodynamic models specific to city growth; further study of exergy flows of cities with consistent methodology, including attention to solar energy exchanges in cities; and further exploration of links between thermodynamic and economic models of urban growth.
+WOS:000353243300007
+</snippet>
+</document>
+
+<document id="54">
+<title>A universal model for mobility and migration patterns</title>
+<url>http://dx.doi.org/10.1038/nature10856</url>
+<snippet>Introduced in its contemporary form in 1946 (ref. 1), but with roots that go back to the eighteenth century(2), the gravity law(1,3,4) is the prevailing framework with which to predict population movement(3,5,6), cargo shipping volume(7) and inter-city phone calls(8,9), as well as bilateral trade flows between nations(10). Despite its widespread use, it relies on adjustable parameters that vary from region to region and suffers from known analytic inconsistencies. Here we introduce a stochastic process capturing local mobility decisions that helps us analytically derive commuting and mobility fluxes that require as input only information on the population distribution. The resulting radiation model predicts mobility patterns in good agreement with mobility and transport patterns observed in a wide range of phenomena, from long-term migration patterns to communication volume between different regions. Given its parameter-free nature, the model can be applied in areas where we lack previous mobility measurements, significantly improving the predictive accuracy of most of the phenomena affected by mobility and transport processes(11-23). RI Gonzalez, Marta/E-9456-2011 OI Gonzalez, Marta/0000-0002-8482-0318
+WOS:000302343400041
+</snippet>
+</document>
+
+<document id="55">
+<title>A Models Comparison to Estimate Commuting Trips Based on Mobile Phone Data</title>
+<url>http://dx.doi.org/10.1007/978-3-319-18473-9_4</url>
+<snippet>Upon an overall human mobility behavior within the city of Rio de Janeiro, this paper describes a methodology to predict commuting trips based on the mobile phone data. This study is based on the mobile phone data provided by one of the largest mobile carriers in Brazil. Mobile phone data comprises a reasonable variety of information about subscribers usage, including time and location of call activities throughout urban areas. This information was used to build subscribers trajectories, describing then the most relevant characteristics of commuting over time. An Origin-Destination (O-D) matrix was built to support the estimation for the number of commuting trips. Traditional approaches inherited from transportation systems, such as gravity and radiation models - commonly employed to predict the number of trips between locations(regularly upon large geographic scales) - are compared to statistical and data mining techniques such as linear regression, decision tree and artificial neural network. A comparison of these models shows that data mining models may perform slightly better than the traditional approaches from transportation systems when historical information are available. In addition to that, data mining models may be more stable for great variances in terms of the number of trips between locations and upon different geographic scales. Gravity and radiation models work very well based on large geographic scales and they hold a great advantage, they are much easier to be implemented. On the other hand, data mining models offer more flexibility in incorporating additional attributes about locations - such as number of job positions, available entertainments, schools and universities posts, among others -and historical information about the trips over time. OI Ebecken, Nelson/0000-0003-4928-0966; EVSUKOFF, ALEXANDRE/0000-0002-7828-0124
+WOS:000368088400004
+</snippet>
+</document>
+
+<document id="56">
+<title>The anatomy of urban social networks and its implications in the searchability problem</title>
+<url>http://dx.doi.org/10.1038/srep10265</url>
+<snippet>The appearance of large geolocated communication datasets has recently increased our understanding of how social networks relate to their physical space. However, many recurrently reported properties, such as the spatial clustering of network communities, have not yet been systematically tested at different scales. In this work we analyze the social network structure of over 25 million phone users from three countries at three different scales: country, provinces and cities. We consistently find that this last urban scenario presents significant differences to common knowledge about social networks. First, the emergence of a giant component in the network seems to be controlled by whether or not the network spans over the entire urban border, almost independently of the population or geographic extension of the city. Second, urban communities are much less geographically clustered than expected. These two findings shed new light on the widely-studied searchability in self-organized networks. By exhaustive simulation of decentralized search strategies we conclude that urban networks are searchable not through geographical proximity as their country-wide counterparts, but through an homophily-driven community structure. RI Gonzalez, Marta/E-9456-2011 OI Gonzalez, Marta/0000-0002-8482-0318; BENITO ZAFRILLA, ROSA MARIA/0000-0003-3949-8232; Smoreda, Zbigniew/0000-0002-4047-7597
+WOS:000355608200001
+</snippet>
+</document>
+
+<document id="57">
+<title>How congestion shapes cities: from mobility patterns to scaling</title>
+<url>http://dx.doi.org/10.1038/srep05561</url>
+<snippet>The recent availability of data for cities has allowed scientists to exhibit scalings which present themselves in the form of a power-law dependence on population of various socio-economical and structural indicators. We propose here a stochastic theory of urban growth which accounts for some of the observed scalings and we confirm these predictions on US and OECD empirical data. In particular, we show that the dependence on population size of the total number of miles driven daily, the total length of the road network, the total traffic delay, the total consumption of gasoline, the quantity of CO2 emitted and the relation between area and population of cities, are all governed by a single parameter which characterizes the sensitivity to congestion. Our results suggest that diseconomies associated with congestion scale superlinearly with population size, implying that -despite polycentrism- cities whose transportation infrastructure rely heavily on traffic sensitive modes are unsustainable. OI Louf, Remi/0000-0001-7929-5507
+WOS:000338422600002
+</snippet>
+</document>
+
+<document id="58">
+<title>The Scaling of Human Contacts and Epidemic Processes in Metapopulation Networks</title>
+<url>http://dx.doi.org/10.1038/srep15111</url>
+<snippet>We study the dynamics of reaction-diffusion processes on heterogeneous metapopulation networks where interaction rates scale with subpopulation sizes. We first present new empirical evidence, based on the analysis of the interactions of 13 million users on Twitter, that supports the scaling of human interactions with population size with an exponent. ranging between 1.11 and 1.21, as observed in recent studies based on mobile phone data. We then integrate such observations into a reaction-diffusion metapopulation framework. We provide an explicit analytical expression for the global invasion threshold which sets a critical value of the diffusion rate below which a contagion process is not able to spread to a macroscopic fraction of the system. In particular, we consider the Susceptible-Infectious-Recovered epidemic model. Interestingly, the scaling of human contacts is found to facilitate the spreading dynamics. This behavior is enhanced by increasing heterogeneities in the mobility flows coupling the subpopulations. Our results show that the scaling properties of human interactions can significantly affect dynamical processes mediated by human contacts such as the spread of diseases, ideas and behaviors. RI Karsai, Marton/G-3391-2011; Tizzoni, Michele/H-6442-2016; Karsai, Marton/M-6684-2015 OI Karsai, Marton/0000-0001-5752-556X; Tizzoni, Michele/0000-0001-7246-2341; Karsai, Marton/0000-0001-5752-556X; Perra, Nicola/0000-0002-5559-3064
+WOS:000362983600001
+</snippet>
+</document>
+
+<document id="59">
+<title>Building a science of cities</title>
+<url>http://dx.doi.org/10.1016/j.cities.2011.11.008</url>
+<snippet>Our understanding of cities is being transformed by new approaches from the complexity sciences (Batty, 2005). Here we review progress, sketching the background beginning with the systems approach which treated systems as being organised from the top down to that which now dominates where systems are treated as evolving from the bottom up. The switch in thinking we describe is best pictured in the transition from thinking of cities as machines to cities as organisms. We first review developments in the dynamics of cities where the notion of equilibrium has been replaced by a veritable potpourri of different types such as chaos, catastrophes, and bifurcations. We then look at patterns and processes that give rise to morphologies that illustrate fractal patterns and self-similarity. We follow this with ideas about networks and interactions that sustain cities through their transport and then we show how such processes of movement and mobility can give rise to the diffusion and segregation of different spatial activities. In all these developments, ideas about scaling that relate size, shape and scale in space and time are evident and we thus sketch three scaling laws based on rank-size, allometry and gravitation that are central to our synthesis of how spatial processes give rise to physical morphologies. We conclude with notions about how these ideas are being embedded into models that have potential applications to inform policy. (C) 2011 Elsevier Ltd. All rights reserved. RI Batty, Michael/I-5638-2014
+WOS:000300813400003
+</snippet>
+</document>
+
+<document id="60">
+<title>Space-time correlations in urban sprawl</title>
+<url>http://dx.doi.org/10.1098/rsif.2013.0930</url>
+<snippet>Understanding demographic and migrational patterns constitutes a great challenge. Millions of individual decisions, motivated by economic, political, demographic, rational and/or emotional reasons underlie the high complexity of demographic dynamics. Significant advances in quantitatively understanding such complexity have been registered in recent years, as those involving the growth of cities but many fundamental issues still defy comprehension. We present here compelling empirical evidence of a high level of regularity regarding time and spatial correlations in urban sprawl, unravelling patterns about the inertia in the growth of cities and their interaction with each other. By using one of the worlds most exhaustive extant demographic data basis-that of the Spanish Governments Institute INE, with records covering 111 years and (in 2011) 45 million people, distributed among more than 8000 population nuclei-we show that the inertia of city growth has a characteristic time of 15 years, and its interaction with the growth of other cities has a characteristic distance of 80 km. Distance is shown to be the main factor that entangles two cities (60&#37; of total correlations). The power of our current social theories is thereby enhanced. RI Hernando de Castro, Alberto/L-8675-2013 OI Hernando de Castro, Alberto/0000-0003-1180-1068
+WOS:000332384600014
+</snippet>
+</document>
+
+</searchresult>

@@ -1,0 +1,647 @@
+
+PT J
+AU Tameling, D
+   Springer, P
+   Bientinesi, P
+   Ismail, AE
+AF Tameling, Daniel
+   Springer, Paul
+   Bientinesi, Paolo
+   Ismail, Ahmed E.
+TI Multilevel summation for dispersion: A linear-time algorithm for r(-6)
+   potentials
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID MOLECULAR-DYNAMICS SIMULATION; BORN REPULSIVE PARAMETERS; LONG-RANGE
+   CORRECTIONS; PARTICLE MESH EWALD; SURFACE-TENSION; COMPUTER-SIMULATION;
+   ALKALI HALIDES; IONIC SIZES; SUMS; INTERFACE
+AB We have extended the multilevel summation (MLS) method, originally developed to evaluate long-range Coulombic interactions in molecular dynamics simulations [R. D. Skeel, I. Tezcan, and D. J. Hardy, J. Comput. Chem. 23, 673 (2002)], to handle dispersion interactions. While dispersion potentials are formally short-ranged, accurate calculation of forces and energies in interfacial and inhomogeneous systems require long-range methods. The MLS method offers some significant advantages compared to the particle-particle particle-mesh and smooth particle mesh Ewald methods. Unlike mesh-based Ewald methods, MLS does not use fast Fourier transforms and is thus not limited by communication and bandwidth concerns. In addition, it scales linearly in the number of particles, as compared with the O(N logN) complexity of the mesh-based Ewald methods. While the structure of the MLS method is invariant for different potentials, every algorithmic step had to be adapted to accommodate the r(-6) form of the dispersion interactions. In addition, we have derived error bounds, similar to those obtained by Hardy ["Multilevel summation for the fast evaluation of forces for the simulation of biomolecules," Ph.D. thesis, University of Illinois at Urbana-Champaign, 2006] for the electrostatic MLS. Using a prototype implementation, we have demonstrated the linear scaling of the MLS method for dispersion, and present results establishing the accuracy and efficiency of the method. (C) 2014 AIP Publishing LLC.
+C1 [Tameling, Daniel; Springer, Paul; Bientinesi, Paolo; Ismail, Ahmed E.] Rhein Westfal TH Aachen, AICES Grad Sch, D-52062 Aachen, Germany.
+   [Tameling, Daniel; Ismail, Ahmed E.] Rhein Westfal TH Aachen, Fac Mech Engn, D-52062 Aachen, Germany.
+RP Tameling, D (reprint author), Rhein Westfal TH Aachen, AICES Grad Sch, Schinkelstr 2, D-52062 Aachen, Germany.
+EM tameling@aices.rwth-aachen.de; aei@alum.mit.edu
+FU Forschungsgemeinschaft (German Research Foundation) (DFG) [GSC 111]
+FX The authors would like to thank Steve Plimpton, Paul Crozier, and Stan
+   Moore for helpful discussions and information regarding the LAMMPS
+   implementation of MLS for Coulombic potentials. Financial support from
+   the Deutsche Forschungsgemeinschaft (German Research Foundation) (DFG)
+   through Grant No. GSC 111 is gratefully acknowledged.
+CR BARNES J, 1986, NATURE, V324, P446, DOI 10.1038/324446a0
+   Bishop TC, 1997, J COMPUT CHEM, V18, P1785
+   BRANDT A, 1990, J COMPUT PHYS, V90, P348, DOI 10.1016/0021-9991(90)90171-V
+   CHAPELA GA, 1977, J CHEM SOC FARAD T 2, V73, P1133, DOI 10.1039/f29777301133
+   DARDEN T, 1993, J CHEM PHYS, V98, P10089, DOI 10.1063/1.464397
+   Deserno M, 1998, J CHEM PHYS, V109, P7694, DOI 10.1063/1.477415
+   Deserno M, 1998, J CHEM PHYS, V109, P7678, DOI 10.1063/1.477414
+   ESSMANN U, 1995, J CHEM PHYS, V103, P8577, DOI 10.1063/1.470117
+   Ewald PP, 1921, ANN PHYS-BERLIN, V64, P253
+   FUMI FG, 1964, J PHYS CHEM SOLIDS, V25, P31, DOI 10.1016/0022-3697(64)90159-3
+   GREENGARD L, 1987, J COMPUT PHYS, V73, P325, DOI 10.1016/0021-9991(87)90140-9
+   Griebel M., 2007, NUMERICAL SIMULATION
+   Guo MX, 1997, FLUID PHASE EQUILIBR, V130, P19, DOI 10.1016/S0378-3812(96)03206-2
+   Hardy DJ, 2009, PARALLEL COMPUT, V35, P164, DOI 10.1016/j.parco.2008.12.005
+   Hardy David J., 2006, THESIS U ILLINOIS UR
+   Hockney R. W, 1988, COMPUTER SIMULATION
+   in't Veld PJ, 2007, J CHEM PHYS, V127, DOI 10.1063/1.2770730
+   Isele-Holder RE, 2013, J CHEM THEORY COMPUT, V9, P5412, DOI 10.1021/ct4004614
+   Isele-Holder RE, 2012, J CHEM PHYS, V137, DOI 10.1063/1.4764089
+   Ismail AE, 2007, MOL PHYS, V105, P3155, DOI 10.1080/00268970701779663
+   Ismail AE, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2209240
+   Israelachvili JN, 2011, INTERMOLECULAR AND SURFACE FORCES, 3RD EDITION, P1
+   Janecek J, 2006, J PHYS CHEM B, V110, P6264, DOI 10.1021/jp056344z
+   Lorenzen K, 2012, J CHEM THEORY COMPUT, V8, P3628, DOI 10.1021/ct300080n
+   Ou-Yang WZ, 2005, J CHEM PHYS, V123, DOI 10.1063/1.2135775
+   PERRAM JW, 1988, MOL PHYS, V65, P875, DOI 10.1080/00268978800101471
+   PLIMPTON S, 1995, J COMPUT PHYS, V117, P1, DOI 10.1006/jcph.1995.1039
+   Pollock EL, 1996, COMPUT PHYS COMMUN, V95, P93, DOI 10.1016/0010-4655(96)00043-4
+   Sandak B, 2001, J COMPUT CHEM, V22, P717, DOI 10.1002/jcc.1039
+   Shi B, 2006, J CHEM PHYS, V124, DOI 10.1063/1.2199849
+   Skeel RD, 2002, J COMPUT CHEM, V23, P673, DOI 10.1002/jcc.10072
+   Stone A. J., 1997, THEORY INTERMOLECULA
+   Stone JE, 2007, J COMPUT CHEM, V28, P2618, DOI 10.1002/jcc.20829
+   TOSI MP, 1964, J PHYS CHEM SOLIDS, V25, P45, DOI 10.1016/0022-3697(64)90160-X
+   Toukmaji AY, 1996, COMPUT PHYS COMMUN, V95, P73, DOI 10.1016/0010-4655(96)00016-1
+   Wennberg CL, 2013, J CHEM THEORY COMPUT, V9, P3527, DOI 10.1021/ct400140n
+   WILLIAMS DE, 1971, ACTA CRYSTALL A-CRYS, VA 27, P452, DOI 10.1107/S0567739471000998
+NR 37
+TC 16
+Z9 16
+U1 0
+U2 13
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+EI 1089-7690
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD JAN 14
+PY 2014
+VL 140
+IS 2
+AR 024105
+DI 10.1063/1.4857735
+PG 12
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA 292TL
+UT WOS:000329925200006
+PM 24437863
+DA 2019-03-26
+ER
+
+PT J
+AU Williams, CJ
+   Pierson, FB
+   Robichaud, PR
+   Boll, J
+AF Williams, C. Jason
+   Pierson, Frederick B.
+   Robichaud, Peter R.
+   Boll, Jan
+TI Hydrologic and erosion responses to wildfire along the rangeland-xeric
+   forest continuum in the western US: a review and model of hydrologic
+   vulnerability
+SO INTERNATIONAL JOURNAL OF WILDLAND FIRE
+LA English
+DT Article
+DE cheatgrass, climate change, fire effects, grass-fire cycle, Great Basin,
+   hydrologic risk, invasive plants, juniper, pinyon, runoff, sagebrush,
+   wildland-urban interface, woodland encroachment.
+ID SOIL-WATER REPELLENCY; COLORADO FRONT RANGE; CHEATGRASS BROMUS-TECTORUM;
+   POSTFIRE HILLSLOPE EROSION; YELLOWSTONE-NATIONAL-PARK; PINYON-JUNIPER
+   WOODLANDS; DEBRIS-FLOW INITIATION; PONDEROSA PINE FORESTS; LONG-TERM
+   PERSPECTIVE; STORM KING MOUNTAIN
+AB The recent increase in wildfire activity across the rangeland-xeric forest continuum in the western United States has landscape-scale consequences in terms of runoff and erosion. Concomitant cheatgrass (Bromus tectorum L.) invasions, plant community transitions and a warming climate in recent decades along grassland-shrubland-woodland-xeric forest transitions have promoted frequent and large wildfires, and continuance of the trend appears likely if warming climate conditions prevail. These changes potentially increase overall hydrologic vulnerability by spatially and temporally increasing soil exposure to runoff and erosion processes. Plot and hillslope-scale studies demonstrate burning may increase event runoff or erosion by factors of 2-40 over small-plot scales and more than 100-fold over large-plot to hillslope scales. Reports of flooding and debris flow events from rangelands and xeric forests following burning show the potential risk to natural resources, property, infrastructure and human life. We present a conceptual model for evaluating post-fire hydrologic vulnerability and risk. We suggest that post-fire risk assessment of potential hydrologic hazards should adopt a probability-based approach that considers varying site susceptibility in conjunction with a range of potential storms and that determines the hydrologic response magnitudes likely to affect values-at-risk. Our review suggests that improved risk assessment requires better understanding in several key areas including quantification of interactions between varying storm intensities and measures of site susceptibility, the varying effects of soil water repellency, and the spatial scaling of post-fire hydrologic response across rangeland-xeric forest plant communities.
+C1 [Williams, C. Jason; Pierson, Frederick B.] ARS, Northwest Watershed Res Ctr, USDA, Boise, ID 83712 USA.
+   [Williams, C. Jason; Boll, Jan] Univ Idaho, Moscow, ID 83844 USA.
+   [Robichaud, Peter R.] US Forest Serv, Rocky Mt Res Stn, USDA, Moscow, ID 83843 USA.
+   [Boll, Jan] Univ Idaho, Dept Biol & Agr Engn, Moscow, ID 83844 USA.
+RP Williams, CJ (reprint author), ARS, Northwest Watershed Res Ctr, USDA, 800 Pk Blvd,Plaza 4,Suite 105, Boise, ID 83712 USA.
+EM jason.williams@ars.usda.gov
+OI Williams, Jason/0000-0002-6289-4789
+FU Sagebrush Steppe Treatment Evaluation Project (SageSTEP) [66]; US Joint
+   Fire Science Program; Bureau of Land Management; National Interagency
+   Fire Center
+FX This is Contribution Number 66 of the Sagebrush Steppe Treatment
+   Evaluation Project (SageSTEP), funded by the US Joint Fire Science
+   Program, the Bureau of Land Management and the National Interagency Fire
+   Center. The authors are grateful for the numerous recommendations by the
+   Associate Editor and three anonymous reviewers that improved the clarity
+   and content of the paper. The US Department of Agriculture (USDA) is an
+   equal opportunity provider and employer.
+CR Abatzoglou JT, 2011, INT J WILDLAND FIRE, V20, P479, DOI 10.1071/WF10046
+   AGNEW W, 1997, LAND WATER, V41, P27
+   AGUIRRE L, 1991, J RANGE MANAGE, V44, P347, DOI 10.2307/4002397
+   Al-Hamdan OZ, 2013, T ASABE, V56, P539
+   Al-Hamdan OZ, 2012, WATER RESOUR RES, V48, DOI 10.1029/2011WR011464
+   Al-Hamdan OZ, 2012, EARTH SURF PROC LAND, V37, P157, DOI 10.1002/esp.2227
+   Allen EB, 2011, RANGELAND ECOL MANAG, V64, P450, DOI 10.2111/REM-D-09-00159.1
+   Arcenegui V, 2008, CATENA, V74, P219, DOI 10.1016/j.catena.2007.12.008
+   Badia D, 2003, ARID LAND RES MANAG, V17, P23, DOI [10.1080/15324980301595, 10.1080/15324980390169046]
+   Baker WL, 2004, FOREST ECOL MANAG, V189, P1, DOI 10.1016/j.foreco.2003.09.006
+   Balch JK, 2013, GLOBAL CHANGE BIOL, V19, P173, DOI 10.1111/gcb.12046
+   Benavides-Solorio J, 2002, HYDROL PROCESS, V16, P1131
+   Benavides-Solorio J, 2001, HYDROL PROCESS, V15, P2931, DOI 10.1002/hyp.383
+   Benavides-Solorio JDD, 2005, INT J WILDLAND FIRE, V14, P457, DOI 10.1071/WF05042
+   BISDOM EBA, 1993, GEODERMA, V56, P105, DOI 10.1016/0016-7061(93)90103-R
+   Bodi MB, 2013, CATENA, V108, P14, DOI 10.1016/j.catena.2012.04.002
+   Bodi MB, 2012, GEODERMA, V191, P14, DOI 10.1016/j.geoderma.2012.01.006
+   Bodi MB, 2011, GEODERMA, V160, P599, DOI 10.1016/j.geoderma.2010.11.009
+   Bonfils C, 2008, J CLIMATE, V21, P6404, DOI 10.1175/2008JCLI2397.1
+   Bradley BA, 2005, REMOTE SENS ENVIRON, V94, P204, DOI 10.1016/j.rse.2004.08.016
+   Bradley BA, 2009, BIOL INVASIONS, V12, P1
+   Bradley BA, 2009, GLOBAL CHANGE BIOL, V15, P196, DOI 10.1111/j.1365-2486.2008.01709.x
+   Bromberg JE, 2011, INVAS PLANT SCI MANA, V4, P173, DOI 10.1614/IPSM-D-10-00022.1
+   Brooks ML, 2004, BIOSCIENCE, V54, P677, DOI 10.1641/0006-3568(2004)054[0677:EOIAPO]2.0.CO;2
+   Brown TJ, 2004, CLIMATIC CHANGE, V62, P365, DOI 10.1023/B:CLIM.0000013680.07783.de
+   Calkin D. E., 2007, RMRSGTR205 USDA FOR
+   Cannon SH, 1998, ENVIRON GEOL, V35, P210, DOI 10.1007/s002540050307
+   Cannon SH, 2001, HYDROL PROCESS, V15, P3011, DOI 10.1002/hyp.388
+   Cannon SH, 2001, ENVIRON ENG GEOSCI, V7, P321, DOI 10.2113/gseegeosci.7.4.321
+   Cannon SH, 2001, GEOMORPHOLOGY, V39, P171, DOI 10.1016/S0169-555X(00)00108-2
+   Cannon SH, 2008, GEOMORPHOLOGY, V96, P250, DOI 10.1016/j.geomorph.2007.03.019
+   Cannon SH, 2011, NAT HAZARDS, V59, P209, DOI 10.1007/s11069-011-9747-2
+   Cannon SH, 2010, GEOL SOC AM BULL, V122, P127, DOI 10.1130/B26459.1
+   Cawson JG, 2012, INT J WILDLAND FIRE, V21, P857, DOI 10.1071/WF11160
+   Cerda A, 2005, INT J WILDLAND FIRE, V14, P423, DOI 10.1071/WF05044
+   Cerda A, 1998, HYDROL PROCESS, V12, P1031, DOI 10.1002/(SICI)1099-1085(19980615)12:7<1031::AID-HYP636>3.0.CO;2-V
+   Cerda A., 2009, FIRE EFFECTS SOILS R
+   Cerda A, 2008, CATENA, V74, P256, DOI 10.1016/j.catena.2008.03.010
+   Certini G, 2005, OECOLOGIA, V143, P1, DOI 10.1007/s00442-004-1788-8
+   Coconino County, 2011, SCHULTZ FIR FLOOD FA
+   Craddock George W., 1946, PROC UTAH ACAD SCI ARTS AND LETT, V23, P51
+   Davies GM, 2012, ECOL APPL, V22, P1562
+   Davies KW, 2011, BIOL CONSERV, V144, P2573, DOI 10.1016/j.biocon.2011.07.016
+   DeBano L. F., 1966, INT B ASS HYDROLOGIC, V2, P14, DOI [10.1080/, DOI 10.1080/02626666609493457]
+   DEBANO LF, 1970, SOIL SCI SOC AM PRO, V34, P130, DOI 10.2136/sssaj1970.03615995003400010035x
+   DEBANO LF, 1976, SOIL SCI SOC AM J, V40, P779, DOI 10.2136/sssaj1976.03615995004000050043x
+   DeBano LF, 2000, J HYDROL, V231, P195, DOI 10.1016/S0022-1694(00)00194-3
+   DeBano LF, 1998, FIRES EFFECTS ECOSYS
+   Dekker LW, 2001, SOIL SCI SOC AM J, V65, P1667, DOI 10.2136/sssaj2001.1667
+   Doerr SH, 2009, J HYDROL, V371, P12, DOI 10.1016/j.jhydrol.2009.03.011
+   Doerr S.H., 2009, FIRE EFFECTS SOILS R, P197
+   Doerr SH, 2000, EARTH-SCI REV, V51, P33, DOI 10.1016/S0012-8252(00)00011-8
+   Doerr SH, 2004, INT J WILDLAND FIRE, V13, P157, DOI 10.1071/WF03051
+   Duke SE, 2001, WEST N AM NATURALIST, V61, P93
+   Ebel BA, 2012, HYDROL EARTH SYST SC, V16, P1401, DOI 10.5194/hess-16-1401-2012
+   Ebel BA, 2013, VADOSE ZONE J, V12, DOI 10.2136/vzj2012.0089
+   Ebel BA, 2012, WATER RESOUR RES, V48, DOI 10.1029/2012WR012362
+   Ebel BA, 2012, WATER RESOUR RES, V48, DOI 10.1029/2011WR011470
+   Flannigan MD, 2000, SCI TOTAL ENVIRON, V262, P221, DOI 10.1016/S0048-9697(00)00524-6
+   Flannigan MD, 2009, INT J WILDLAND FIRE, V18, P483, DOI 10.1071/WF08187
+   Flerchinger GN, 2000, J HYDROL, V237, P86, DOI 10.1016/S0022-1694(00)00299-7
+   Flerchinger GN, 1998, HYDROL PROCESS, V12, P331, DOI 10.1002/(SICI)1099-1085(199802)12:2<331::AID-HYP580>3.3.CO;2-5
+   Gartner MH, 2012, INT J WILDLAND FIRE, V21, P562, DOI 10.1071/WF10103
+   Gedalof Z, 2005, ECOL APPL, V15, P154, DOI 10.1890/03-5116
+   Getz HL, 2008, AM MIDL NAT, V159, P489, DOI 10.1674/0003-0031(2008)159[489:IIOCBT]2.0.CO;2
+   GIOVANNINI G, 1988, SOIL SCI, V146, P255, DOI 10.1097/00010694-198810000-00006
+   Giovannini G, 1997, SOIL SCI, V162, P479, DOI 10.1097/00010694-199707000-00003
+   Griffith AB, 2010, OECOLOGIA, V164, P821, DOI 10.1007/s00442-010-1749-3
+   Hamilton EL, 1949, CALIFORNIA DEP NATUR
+   HARRIS GA, 1967, ECOL MONOGR, V37, P89, DOI 10.2307/2937337
+   Hester JW, 1997, J RANGE MANAGE, V50, P199, DOI 10.2307/4002381
+   Heyerdahl EK, 2002, HOLOCENE, V12, P597, DOI 10.1191/0959683602hl570rp
+   Heyerdahl EK, 2008, ECOLOGY, V89, P705, DOI 10.1890/06-2047.1
+   Heyerdahl EK, 2008, INT J WILDLAND FIRE, V17, P40, DOI 10.1071/WF07024
+   Hubbert KR, 2006, GEODERMA, V130, P284, DOI 10.1016/j.geoderma.2005.02.001
+   Huffman EL, 2001, HYDROL PROCESS, V15, P2877, DOI 10.1002/hyp.379
+   Hull A. C., 1972, P UTAH ACAD SCI ARTS, V49, P64
+   Hull AC, 1974, USDA AGR RES SERVICE
+   Humphrey LD, 2001, WEST N AM NATURALIST, V61, P85
+   Inbar M, 1998, GEOMORPHOLOGY, V24, P17, DOI 10.1016/S0169-555X(97)00098-6
+   Johansen MP, 2001, HYDROL PROCESS, V15, P2953, DOI 10.1002/hyp.384
+   Jordan A, 2011, CATENA, V84, P136, DOI 10.1016/j.catena.2010.10.007
+   Kaplan S., 1981, RISK ANAL, V1, P11, DOI DOI 10.1111/J.1539-6924.1981.TB01350.X
+   Keane RE, 2008, INT J WILDLAND FIRE, V17, P696, DOI 10.1071/WF07148
+   Keeley JE, 2007, INT J WILDLAND FIRE, V16, P96, DOI 10.1071/WF06052
+   KLADE R. J., 2006, RMRSGTR184 USDA FOR
+   Knapp PA, 1996, GLOBAL ENVIRON CHANG, V6, P37, DOI 10.1016/0959-3780(95)00112-3
+   Knowles N, 2006, J CLIMATE, V19, P4545, DOI 10.1175/JCLI3850.1
+   KRAMMES JS, 1965, WATER RESOUR RES, V1, P283, DOI 10.1029/WR001i002p00283
+   Larsen IJ, 2009, SOIL SCI SOC AM J, V73, P1393, DOI 10.2136/sssaj2007.0432
+   Lebron I, 2007, WATER RESOUR RES, V43, DOI 10.1029/2006WR005398
+   Link SO, 2006, INT J WILDLAND FIRE, V15, P113, DOI 10.1071/WF05001
+   Litschert SE, 2012, FOREST ECOL MANAG, V269, P124, DOI 10.1016/j.foreco.2011.12.024
+   Littell JS, 2010, CLIMATIC CHANGE, V102, P129, DOI 10.1007/s10584-010-9858-x
+   Littell JS, 2009, ECOL APPL, V19, P1003, DOI 10.1890/07-1183.1
+   MacDonald LH, 2004, SOIL SCI SOC AM J, V68, P1729, DOI 10.2136/sssaj2004.1729
+   MACK RN, 1981, AGRO-ECOSYSTEMS, V7, P145, DOI 10.1016/0304-3746(81)90027-5
+   MACK RN, 1983, J ECOL, V71, P69, DOI 10.2307/2259964
+   Madsen MD, 2008, ECOHYDROLOGY, V1, P349, DOI 10.1002/eco.29
+   Marlon JR, 2012, P NATL ACAD SCI USA, V109, pE535, DOI 10.1073/pnas.1112839109
+   Martinez-Mena M, 2000, CATENA, V38, P175, DOI 10.1016/S0341-8162(99)00073-9
+   Mataix-Solera J, 2004, GEODERMA, V118, P77, DOI 10.1016/S0016-7061(03)00185-X
+   Mataix-Solera J, 2011, EARTH-SCI REV, V109, P44, DOI 10.1016/j.earscirev.2011.08.002
+   Mataix-Solera J., 2009, FIRE EFFECTS SOILS R, P133, DOI [10.1201/9781439843338-c5, DOI 10.1201/9781439843338]
+   Mayor AG, 2007, CATENA, V71, P68, DOI 10.1016/j.catena.2006.10.006
+   McCabe GJ, 2005, J HYDROMETEOROL, V6, P476, DOI 10.1175/JHM428.1
+   McGlone C. M., 2009, Ecological Restoration, V27, P37, DOI 10.3368/er.27.1.37
+   McNamara JP, 2005, HYDROL PROCESS, V19, P4023, DOI 10.1002/hyp.5869
+   MELGOZA G, 1991, J RANGE MANAGE, V44, P27, DOI 10.2307/4002633
+   Meyer GA, 2003, FOREST ECOL MANAG, V178, P89, DOI 10.1016/S0378-1127(03)00055-0
+   MEYER GA, 1995, GEOL SOC AM BULL, V107, P1211, DOI 10.1130/0016-7606(1995)107<1211:FAACIY>2.3.CO;2
+   Meyer GA, 2001, HYDROL PROCESS, V15, P3025, DOI 10.1002/hyp.389
+   Miller JD, 2009, ECOSYSTEMS, V12, P16, DOI 10.1007/s10021-008-9201-9
+   Miller ME, 2011, INT J WILDLAND FIRE, V20, P982, DOI 10.1071/WF09142
+   MILLER R. F., 2001, MISCELLANEOUS PUBLIC, P15
+   Miller RF, 2011, STUD AVIAN BIOL, P145
+   Minshall GW, 2001, INT J WILDLAND FIRE, V10, P201, DOI 10.1071/WF01018
+   Moody JA, 2001, HYDROL PROCESS, V15, P2981, DOI 10.1002/hyp.386
+   Moody JA, 2001, EARTH SURF PROC LAND, V26, P1049, DOI 10.1002/esp.253
+   Moody JA, 2012, CATENA, V93, P58, DOI 10.1016/j.catena.2012.01.006
+   Moody JA, 2009, J HYDROL, V379, P291, DOI 10.1016/j.jhydrol.2009.10.015
+   Moody JA, 2009, INT J WILDLAND FIRE, V18, P96, DOI 10.1071/WF07162
+   Morgan P, 2008, ECOLOGY, V89, P717, DOI 10.1890/06-2049.1
+   Mote PW, 2005, B AM METEOROL SOC, V86, P39, DOI 10.1175/BAMS-86-1-39
+   Nayak A, 2010, WATER RESOUR RES, V46, DOI 10.1029/2008WR007525
+   Nearing MA, 2011, T ASABE, V54, P901
+   Neary DG, 2012, GEODERMA, V191, P97, DOI 10.1016/j.geoderma.2012.01.016
+   Neary DG, 1999, FOREST ECOL MANAG, V122, P51, DOI 10.1016/S0378-1127(99)00032-8
+   Nelson NA, 2010, HOLOCENE, V20, P1179, DOI 10.1177/0959683610371992
+   NIFC, 2012, WILDL FIR STAT
+   Onda Y, 2008, CATENA, V72, P13, DOI 10.1016/j.catena.2007.02.003
+   Owens MK, 2006, HYDROL PROCESS, V20, P3179, DOI 10.1002/hyp.6326
+   Parise M, 2012, NAT HAZARDS, V61, P217, DOI 10.1007/s11069-011-9769-9
+   Pederson GT, 2011, J CLIMATE, V24, P1666, DOI 10.1175/2010JCLI3729.1
+   Pierce J, 2008, INT J WILDLAND FIRE, V17, P84, DOI 10.1071/WF07027
+   Pierce JL, 2011, QUATERNARY SCI REV, V30, P628, DOI 10.1016/j.quascirev.2010.11.013
+   Pierce JL, 2004, NATURE, V432, P87, DOI 10.1038/nature03058
+   Pierson FB, 2008, CATENA, V74, P98, DOI 10.1016/j.catena.2008.03.011
+   Pierson FB, 2002, INT J WILDLAND FIRE, V11, P145, DOI 10.1071/WF02037
+   Pierson FB, 2001, HYDROL PROCESS, V15, P2905, DOI 10.1002/hyp.381
+   Pierson FB, 2008, HYDROL PROCESS, V22, P2916, DOI 10.1002/hyp.6904
+   Pierson FB, 2013, RANGELAND ECOL MANAG, V66, P274, DOI 10.2111/REM-D-12-00104.1
+   Pierson FB, 2011, RANGELAND ECOL MANAG, V64, P439, DOI 10.2111/REM-D-09-00147.1
+   Pierson FB, 2010, RANGELAND ECOL MANAG, V63, P614, DOI 10.2111/REM-D-09-00148.1
+   Pierson FB, 2009, EARTH SURF PROC LAND, V34, P193, DOI 10.1002/esp.1703
+   PIETRASZEK JH, 2006, THESIS COLORADO STAT
+   PRICE C, 1994, J CLIMATE, V7, P1484, DOI 10.1175/1520-0442(1994)007<1484:TIOACC>2.0.CO;2
+   RAISON RJ, 1979, PLANT SOIL, V51, P73, DOI 10.1007/BF02205929
+   Regonda SK, 2005, J CLIMATE, V18, P372, DOI 10.1175/JCLI-3272.1
+   Robichaud PR, 2007, CATENA, V71, P229, DOI 10.1016/j.catena.2007.03.003
+   Robichaud PR, 2010, WATER RESOUR RES, V46, DOI 10.1029/2009WR008314
+   Robichaud P. R, 2009, FIRE EFFECTS SOILS R, P299, DOI DOI 10.1201/9781439843338-C10
+   Robichaud PR, 2008, HYDROL PROCESS, V22, P159, DOI 10.1002/hyp.6558
+   Robichaud PR, 2013, CATENA, V105, P93, DOI 10.1016/j.catena.2012.11.016
+   Robichaud PR, 2013, CATENA, V105, P75, DOI 10.1016/j.catena.2012.11.015
+   Robichaud PR, 2013, INT J WILDLAND FIRE, V22, P95, DOI 10.1071/WF11162
+   Robichaud PR, 2009, FIRE ECOLOGY, V5, P115, DOI DOI 10.4996/FIREECOLOGY.0501115
+   Robichaud PR, 2000, RMRSGTR63 USDA FOR S
+   Robichaud PR, 2010, RMRSGTR240 USDA FOR
+   Romme WH, 2009, RANGELAND ECOL MANAG, V62, P203, DOI 10.2111/08-188R1.1
+   Rowe PB, 1948, CALIFORNIA DEP NATUR
+   Running SW, 2006, SCIENCE, V313, P927, DOI 10.1126/science.1130370
+   Sankey JB, 2012, INT J WILDLAND FIRE, V21, P545, DOI 10.1071/WF11092
+   SAVAGE SM, 1972, SOIL SCI SOC AM PRO, V36, P674, DOI 10.2136/sssaj1972.03615995003600040047x
+   Savage SM, 1974, P SOIL SCI SOC AM, V38, P652, DOI [10.2136/SSSAJ1974.03615995003800040033X, DOI 10.2136/SSSAJ1974.03615995003800040033X]
+   Seyfried MS, 2009, HYDROL PROCESS, V23, P858, DOI 10.1002/hyp.7211
+   Shakesby RA, 2011, EARTH-SCI REV, V105, P71, DOI 10.1016/j.earscirev.2011.01.001
+   Shakesby RA, 2006, EARTH-SCI REV, V74, P269, DOI 10.1016/j.earscirev.2005.10.006
+   Shinneman DJ, 2009, INT J WILDLAND FIRE, V18, P191, DOI 10.1071/WF07043
+   SKAU C. M., 1964, FOREST SCI, V10, P283
+   Spigel KM, 2007, HYDROL PROCESS, V21, P998, DOI 10.1002/hyp.6295
+   Spracklen DV, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD010966
+   Stewart IT, 2005, J CLIMATE, V18, P1136, DOI 10.1175/JCLI3321.1
+   Stoof CR, 2011, SOIL SCI SOC AM J, V75, P2283, DOI 10.2136/sssaj2011.0046
+   Stoof CR, 2010, GEODERMA, V159, P276, DOI 10.1016/j.geoderma.2010.08.002
+   Tausch R.J., 1999, P EC MAN PIN JUN COM, P12
+   Taylor AH, 2008, INT J WILDLAND FIRE, V17, P60, DOI 10.1071/WF07033
+   Trenberth KE, 2007, J HYDROMETEOROL, V8, P758, DOI 10.1175/JHM600.1
+   TROMBLE JM, 1983, J RANGE MANAGE, V36, P525, DOI 10.2307/3897960
+   Wagenbrenner JW, 2006, HYDROL PROCESS, V20, P2989, DOI 10.1002/hyp.6146
+   Wagenbrenner JW, 2010, WATER RESOUR RES, V46, DOI 10.1029/2009WR008315
+   Wainwright J, 1999, J ARID ENVIRON, V43, P111, DOI 10.1006/jare.1999.0540
+   Welch B. L., 2005, RMRSGTR144 USDA FOR
+   Westerling AL, 2006, SCIENCE, V313, P940, DOI 10.1126/science.1128834
+   Whitlock C, 2003, FOREST ECOL MANAG, V178, P5, DOI 10.1016/S0378-1127(03)00051-3
+   Whitlock C, 2008, INT J WILDLAND FIRE, V17, P72, DOI 10.1071/WF07025
+   Whitlock C, 2011, QUATERNARY RES, V75, P114, DOI 10.1016/j.yqres.2010.08.013
+   Williams CJ, 2009, HYDROL EARTH SYST SC, V13, P1325, DOI 10.5194/hess-13-1325-2009
+   Williams CJ, 2014, ECOHYDROLOGY, V7, P453, DOI 10.1002/eco.1364
+   Wisdom M. J., 2003, PROTOTYPE REGIONAL A
+   Wondzell SM, 2003, FOREST ECOL MANAG, V178, P75, DOI 10.1016/S0378-1127(03)00054-9
+   Woods SW, 2008, INT J WILDLAND FIRE, V17, P535, DOI 10.1071/WF07040
+   Woods SW, 2007, GEOMORPHOLOGY, V86, P465, DOI 10.1016/j.geomorph.2006.09.015
+   Woods SW, 2010, J HYDROL, V393, P274, DOI 10.1016/j.jhydrol.2010.08.025
+   Wright H. A., 1982, FIRE ECOLOGY US CANA
+   YOUNG JA, 1978, J RANGE MANAGE, V31, P283, DOI 10.2307/3897603
+NR 196
+TC 21
+Z9 21
+U1 2
+U2 72
+PU CSIRO PUBLISHING
+PI COLLINGWOOD
+PA 150 OXFORD ST, PO BOX 1139, COLLINGWOOD, VICTORIA 3066, AUSTRALIA
+SN 1049-8001
+EI 1448-5516
+J9 INT J WILDLAND FIRE
+JI Int. J. Wildland Fire
+PY 2014
+VL 23
+IS 2
+BP 155
+EP 172
+DI 10.1071/WF12161
+PG 18
+WC Forestry
+SC Forestry
+GA AE6KJ
+UT WOS:000334100800001
+DA 2019-03-26
+ER
+
+PT S
+AU Guo, GH
+   Wu, ZF
+   Chen, YB
+AF Guo, Guanhua
+   Wu, Zhifeng
+   Chen, Yingbiao
+BE Weng, Q
+   Gamba, P
+   Xian, G
+   Wang, G
+   Zhu, J
+TI Estimation of subpixel land surface temperature using Landsat TM
+   imagery: a case examination over a heterogeneous urban area
+SO 2014 THIRD INTERNATIONAL WORKSHOP ON EARTH OBSERVATION AND REMOTE
+   SENSING APPLICATIONS (EORSA 2014)
+SE International Workshop on Earth Observation and Remote Sensing
+   Applications
+LA English
+DT Proceedings Paper
+CT 3rd International Workshop on Earth Observation and Remote Sensing
+   Applications (EORSA)
+CY JUN 11-14, 2014
+CL Changsha, PEOPLES R CHINA
+SP Cent S Univ Forestry & Technol Univ, Cent S Univ, Hunan Univ Sci & Technol, Indiana State Univ, IEEE Geoscience & Remote Sensing Soc, Int Soc Photogrammetry & Remote Sensing, Grp Earth Observat, Nat Sci Fdn China
+DE Subpixel LST; Remote sensing index; Landsat TM; Multi-scale; Guangzhou
+ID HEAT-ISLAND; COVER; ALGORITHM; CHINA; INDEX
+AB Land surface temperature is a key surface parameter in urban ecological and environmental studies. This paper took Guangzhou core urban area as the study site and selected Normalized Differential Vegetation Index (NDVI), Normalized Differential Build-up Index (NDBI), Normalized Difference Bareness Index (NDBaI), (Digital Evolution Model) DEM and SLOPE as representative surface characteristics indices in urban, to estimate subpixel land surface temperature (LST). By using correlation analysis and linear regression approaches in multiscale, a subpixel LST estimation model was constructed with the consideration of scale parameter based on Landsat TM. Results found that the multi-scale model preformed a suitable approach in estimating subpixel LST in 90m, 60m and 30m with low RMSE and MAT. Correlation analysis indicated that relationship between LST and those selected surface characteristics indices was scale dependence obviously. Multiple linear regression models of LST and surface characteristics indices changed during scaling. Accuracy of estimation results had highly related to landscape characteristics. For example, Central Business District (CBD) with high density built-up showed higher accuracy compared to the other landscape mainly covered with bare soil. This study may provide a simple but effective method to derive subpixel LST image with higher spatial resolution for studying and monitoring the LST in heterogeneous urban areas.
+C1 [Guo, Guanhua] Chinese Acad Sci, Guangzhou Inst Geochem, Guangzhou, Guangdong, Peoples R China.
+   [Guo, Guanhua; Wu, Zhifeng] Guangdong Inst Ecoenvironm & Soil Sci, Guangzhou, Guangdong, Peoples R China.
+   [Wu, Zhifeng; Chen, Yingbiao] Guangzhou Univ, Sch Geog Sci, Guangzhou, Guangdong, Peoples R China.
+RP Guo, GH (reprint author), Chinese Acad Sci, Guangzhou Inst Geochem, Guangzhou, Guangdong, Peoples R China.
+EM gghgiser@qq.com; gzuwzf@163.com
+CR Chen XL, 2006, REMOTE SENS ENVIRON, V104, P133, DOI 10.1016/j.rse.2005.11.016
+   Giridharan R, 2004, ENERG BUILDINGS, V36, P525, DOI 10.1016/j.enbuild.2003.12.016
+   Kustas WP, 2003, REMOTE SENS ENVIRON, V85, P429, DOI 10.1016/S0034-4257(03)00036-1
+   Lazzarini M, 2013, REMOTE SENS ENVIRON, V130, P136, DOI 10.1016/j.rse.2012.11.007
+   Loheide SP, 2005, REMOTE SENS ENVIRON, V98, P182, DOI 10.1016/j.rse.2005.07.003
+   Nichol JE, 1998, INT J REMOTE SENS, V19, P1639, DOI 10.1080/014311698215153
+   Purevdorj T, 1998, INT J REMOTE SENS, V19, P3519, DOI 10.1080/014311698213795
+   Qin Z, 2001, INT J REMOTE SENS, V22, P3719, DOI 10.1080/01431160010006971
+   SOBRINO JA, 1991, REMOTE SENS ENVIRON, V38, P19, DOI 10.1016/0034-4257(91)90069-I
+   Stathopoulou M, 2004, INT J REMOTE SENS, V25, P2301, DOI 10.1080/01431160310001618725
+   Stathopoulou M, 2009, REMOTE SENS ENVIRON, V113, P2592, DOI 10.1016/j.rse.2009.07.017
+   Weng QH, 2004, REMOTE SENS ENVIRON, V89, P467, DOI 10.1016/j.rse.2003.11.005
+   Wu JG, 2002, ECOL MODEL, V153, P7, DOI 10.1016/S0304-3800(01)00499-9
+   Xiao RB, 2007, J ENVIRON SCI-CHINA, V19, P250, DOI 10.1016/S1001-0742(07)60041-2
+   Yang GJ, 2011, REMOTE SENS ENVIRON, V115, P1202, DOI 10.1016/j.rse.2011.01.004
+   Zha Y, 2003, INT J REMOTE SENS, V24, P583, DOI 10.1080/01431160210144570
+   Zhao H. M., 2005, GEOSCIENCE REMOTE SE, V3, P1666
+   Zhu SY, 2013, INT J REMOTE SENS, V34, P1707, DOI 10.1080/01431161.2012.725957
+NR 18
+TC 0
+Z9 0
+U1 1
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2380-8039
+BN 978-1-4799-4184-1
+J9 INT WORKS EARTH OB
+PY 2014
+PG 5
+WC Engineering, Electrical & Electronic; Remote Sensing
+SC Engineering; Remote Sensing
+GA BE0PM
+UT WOS:000366526900064
+DA 2019-03-26
+ER
+
+PT J
+AU Yaraghi, N
+   Du, AY
+   Sharman, R
+   Gopal, RD
+   Ramesh, R
+   Singh, R
+   Singh, G
+AF Yaraghi, Niam
+   Du, Anna Ye
+   Sharman, Raj
+   Gopal, Ram D.
+   Ramesh, R.
+   Singh, Ranjit
+   Singh, Gurdev
+TI Professional and geographical network effects on healthcare information
+   exchange growth: does proximity really matter?
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+LA English
+DT Article
+ID MULTINATIONAL DIFFUSION; INNOVATION DIFFUSION; CONSUMER DURABLES;
+   PRODUCT DIFFUSION; MODELS; TECHNOLOGY; POPULATION; OPINIONS; IDENTITY;
+   BEHAVIOR
+AB Background and objective We postulate that professional proximity due to common patients and geographical proximity among practice locations are significant factors influencing the adoption of health information exchange (HIE) services by healthcare providers. The objective of this study is to investigate the direct and indirect network effects of these drivers on HIE diffusion.
+   Design Multi-dimensional scaling and clustering are first used to create different clusters of physicians based on their professional and geographical proximities. Extending the Bass diffusion model to capture direct and indirect network effects among groups, the growth of HIE among these clusters is modeled and studied. The network effects among the clusters are investigated using adoption data over a 3-year period for an HIE based in Western New York.
+   Measurement HIE adoption parameters external sources of influence as well as direct and indirect network coefficients are estimated by the extended version of the Bass diffusion model.
+   Results Direct network effects caused by common patients among physicians are much more influential on HIE adoption as compared with previously investigated social contagion and external factors. Professional proximity due to common patients does influence adoption decisions; geographical proximity is also influential, but its effect is more on rural than urban physicians.
+   Conclusions Flow of patients among different groups of physicians is a powerful factor in HIE adoption. Rather than merely following the market trend, physicians appear to be influenced by other physicians with whom they interact with and have common patients,
+C1 [Yaraghi, Niam; Du, Anna Ye; Sharman, Raj; Ramesh, R.] SUNY Buffalo, Dept Management Sci & Syst, Sch Management, Buffalo, NY 14260 USA.
+   [Gopal, Ram D.] Univ Connecticut, Sch Business, Storrs, CT 06269 USA.
+   [Singh, Ranjit; Singh, Gurdev] SUNY Buffalo, Dept Family Med, Buffalo, NY 14203 USA.
+   [Singh, Ranjit; Singh, Gurdev] SUNY Buffalo, UB Patient Safety Res Ctr, Buffalo, NY 14203 USA.
+RP Yaraghi, N (reprint author), SUNY Buffalo, Dept Management Sci & Syst, Buffalo, NY 14260 USA.
+EM niamyara@buffalo.edu
+CR BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bates DW, 2001, J AM MED INFORM ASSN, V8, P299, DOI 10.1136/jamia.2001.0080299
+   Bieszk N, 2003, AM J HEALTH-SYST PH, V60, P360, DOI 10.1093/ajhp/60.4.360
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Chiasson Mike, 2007, Int J Med Inform, V76 Suppl 1, pS89, DOI 10.1016/j.ijmedinf.2006.05.010
+   Coleman J. S., 1966, MED INNOVATION DIFFU
+   Davidson E. J., 2000, Information Technology & People, V13, P196, DOI 10.1108/09593840010377635
+   Dekimpe MG, 2000, J MARKETING RES, V37, P47, DOI 10.1509/jmkr.37.1.47.18722
+   DODSON JA, 1978, MANAGE SCI, V24, P1568, DOI 10.1287/mnsc.24.15.1568
+   Douglas SP, 1997, INT J RES MARK, V14, P379, DOI 10.1016/S0167-8116(97)00026-8
+   Downs SM, 2010, J AM MED INFORM ASSN, V17, P13, DOI 10.1197/jamia.M3295
+   Eric P, 2006, BMC MED INFORM DECIS, V6, P1
+   Evans D, 2003, REV NET EC, V2, P191, DOI DOI 10.2202/1446-9022.1026
+   Evans D. S., 2007, CATALYST CODE STRATE
+   FISCHER CS, 1978, AM J SOCIOL, V84, P151, DOI 10.1086/226744
+   Fontaine P, 2010, ARCH INTERN MED, V170, P622, DOI 10.1001/archinternmed.2010.54
+   Ford EW, 2009, J AM MED INFORM ASSN, V16, P274, DOI 10.1197/jamia.M3042
+   Forman C, 2008, INFORM SYST RES, V19, P291, DOI 10.1287/isre.1080.0193
+   Freidson E., 1988, PROFESSION MED STUDY
+   Gadd CS, 2011, J AM MED INFORM ASSN, V18, P711, DOI 10.1136/amiajnl-2011-000281
+   Gamer A, 2009, PLATFORMS MARKETS IN
+   Ganesh J, 1997, J ACAD MARKET SCI, V25, P214, DOI 10.1177/0092070397253003
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grossman JM, 2008, CREATING SUSTAINABLE
+   Hagerstrand T., 1967, INNOVATION DIFFUSION
+   Herwehe J, 2012, J AM MED INFORM ASSN, V19, P448, DOI 10.1136/amiajnl-2011-000412
+   Hincapie AL, 2011, J AM MED INFORM ASSN, V18, P60, DOI 10.1136/jamia.2010.006502
+   Johnson KB, 2011, J AM MED INFORM ASSN, V18, P690, DOI 10.1136/amiajnl-2011-000308
+   Kumar V, 2002, MARKET SCI, V21, P318, DOI 10.1287/mksc.21.3.318.139
+   Kuperman GJ, 2011, J AM MED INFORM ASSN, V18, P678, DOI 10.1136/amiajnl-2010-000021
+   MAHAJAN V, 1978, MANAGE SCI, V24, P1589, DOI 10.1287/mnsc.24.15.1589
+   MAHAJAN V, 1990, J MARKETING, V54, P1, DOI 10.2307/1252170
+   MAHAJAN V, 1979, TECHNOL FORECAST SOC, V14, P231, DOI 10.1016/0040-1625(79)90079-9
+   Melia K., 1987, LEARNING WORKING OCC
+   Onyile A, 2013, J AM MED INFORM ASSN, V20, pE125, DOI 10.1136/amiajnl-2012-001217
+   Peres R, 2010, INT J RES MARK, V27, P91, DOI 10.1016/j.ijresmar.2009.12.012
+   PETERSON RA, 1978, RES MARKETING, V1, P201
+   Pratt MG, 2006, ACAD MANAGE J, V49, P235, DOI 10.5465/AMJ.2006.20786060
+   Putsis WP, 1997, MARKET SCI, V16, P354, DOI 10.1287/mksc.16.4.354
+   Ramsey J, 1999, MANAGERIAL AUDITING, V14, P329
+   Rogers E. M., 1962, DIFFUSION INNOVATION
+   Shank N, 2012, J AM MED INFORM ASSN, V19, P562, DOI 10.1136/amiajnl-2011-000374
+   STRANG D, 1993, AM J SOCIOL, V99, P614, DOI 10.1086/230318
+   Unertl KM, 2012, J AM MED INFORM ASSN, V19, P392, DOI 10.1136/amiajnl-2011-000432
+   van Everdingen YM, 2005, INT J RES MARK, V22, P293, DOI 10.1016/j.ijresmar.2004.11.003
+   Vest JR, 2010, J AM MED INFORM ASSN, V17, P288, DOI 10.1136/jamia.2010.003673
+   Weyl EG, 2010, AM ECON REV, V100, P1642, DOI 10.1257/aer.100.4.1642
+   Xue M, 2011, MANAGE SCI, V57, P291, DOI 10.1287/mnsc.1100.1187
+   Yaraghi N, 2012, SAS GLOB FOR 2012 C
+   Yaraghi N, 2013, ACM TRANS MANAG INF, V4, DOI 10.1145/2445560.2445561
+NR 50
+TC 8
+Z9 8
+U1 4
+U2 32
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1067-5027
+EI 1527-974X
+J9 J AM MED INFORM ASSN
+JI J. Am. Med. Inf. Assoc.
+PD JUL
+PY 2014
+VL 21
+IS 4
+SI SI
+BP 671
+EP 678
+DI 10.1136/amiajnl-2012-001293
+PG 8
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Health Care Sciences & Services;
+   Information Science & Library Science; Medical Informatics
+SC Computer Science; Health Care Sciences & Services; Information Science &
+   Library Science; Medical Informatics
+GA AJ4QJ
+UT WOS:000337660600020
+PM 24287171
+OA Green Published, Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Yan, XY
+   Zhao, C
+   Fan, Y
+   Di, ZR
+   Wang, WX
+AF Yan, Xiao-Yong
+   Zhao, Chen
+   Fan, Ying
+   Di, Zengru
+   Wang, Wen-Xu
+TI Universal predictability of mobility patterns in cities
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE human mobility; population-weighted opportunities model; city scale;
+   trip distribution model
+ID SCALING LAWS; NETWORKS; TRAVEL; MODEL
+AB Despite the long history of modelling human mobility, we continue to lack a highly accurate approach with low data requirements for predicting mobility patterns in cities. Here, we present a population-weighted opportunities model without any adjustable parameters to capture the underlying driving force accounting for human mobility patterns at the city scale. We use various mobility data collected from a number of cities with different characteristics to demonstrate the predictive power of our model. We find that insofar as the spatial distribution of population is available, our model offers universal prediction of mobility patterns in good agreement with real observations, including distance distribution, destination travel constraints and flux. By contrast, the models that succeed in modelling mobility patterns in countries are not applicable in cities, which suggests that there is a diversity of human mobility at different spatial scales. Our model has potential applications in many fields relevant to mobility behaviour in cities, without relying on previous mobility measurements.
+C1 [Yan, Xiao-Yong; Zhao, Chen; Fan, Ying; Di, Zengru; Wang, Wen-Xu] Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+   [Yan, Xiao-Yong] Shijiazhuang Tiedao Univ, Dept Transportat Engn, Shijiazhuang 050043, Peoples R China.
+   [Wang, Wen-Xu] Arizona State Univ, Sch Elect Comp & Energy Engn, Tempe, AZ 85287 USA.
+RP Wang, WX (reprint author), Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+EM wenxuwang@bnu.edu.cn
+RI Yan, Xiao-Yong/P-6027-2018
+OI Yan, Xiao-Yong/0000-0003-2091-6967
+FU NSFC grant [61304177, 61174150]; Ministry of Education [20110003110027];
+   opening foundation of Institute of Information Economy, Hangzhou Normal
+   University [PD12001003002004]
+FX This work was supported by NSFC grant nos. 61304177 and 61174150,
+   Doctoral Fund of Ministry of Education (20110003110027) and partly
+   supported by the opening foundation of Institute of Information Economy,
+   Hangzhou Normal University (PD12001003002004).
+CR Bagrow JP, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037676
+   Bagrow JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017680
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blondel V. D., 2012, DATA DEV D4D CHALLEN
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Domencich T., 1975, URBAN TRAVEL DEMAND
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Goh S, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.026102
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Han XP, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036117
+   Hasan S, 2013, J STAT PHYS, V151, P304, DOI 10.1007/s10955-012-0645-0
+   Helbing D, 2001, REV MOD PHYS, V73, P1067, DOI 10.1103/RevModPhys.73.1067
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Jambu M, 1991, EXPLORATORY MULTIVAR
+   Jung WS, 2008, EPL-EUROPHYS LETT, V81, DOI 10.1209/0295-5075/81/48005
+   Kaluza P, 2010, J R SOC INTERFACE, V7, P1093, DOI 10.1098/rsif.2009.0495
+   Krings G, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/L07003
+   Lenormand M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045985
+   Liang X, 2013, SCI REP-UK, V3, DOI 10.1038/srep02983
+   Liang X, 2012, PHYSICA A, V391, P2135, DOI 10.1016/j.physa.2011.11.035
+   Lu X, 2012, P NATL ACAD SCI USA, V109, P11576, DOI 10.1073/pnas.1203882109
+   Masucci AP, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.022812
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Orttizar J., 2011, MODELLING TRANSPORT
+   Qin P, 2014, ENVIRON DEV ECON, V19, P92, DOI 10.1017/S1355770X13000314
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Rutherford Alex, 2013, Proc Natl Acad Sci U S A, V110, P6281, DOI 10.1073/pnas.1216338110
+   Scellato S, 2011, ACM KDD11, V11, P1046, DOI [10.1145/2020408.2020575, DOI 10.1145/2020408.2020575]
+   Schneider CM, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0246
+   Simini F, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0060069
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Sorensen T., 1948, BIOL SKRIFTER, V5, P1
+   Stouffer SA, 1940, AM SOCIOL REV, V5, P845, DOI 10.2307/2084520
+   Szell M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00457
+   Truscott J, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002699
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+   YANG Z, 2014, INDIGENIZATION URBAN
+   Zipf GK, 1946, AM SOCIOL REV, V11, P677, DOI 10.2307/2087063
+NR 43
+TC 37
+Z9 39
+U1 5
+U2 36
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD NOV 6
+PY 2014
+VL 11
+IS 100
+AR UNSP 20140834
+DI 10.1098/rsif.2014.0834
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AS8ZQ
+UT WOS:000344533800012
+PM 25232053
+OA Green Published
+DA 2019-03-26
+ER

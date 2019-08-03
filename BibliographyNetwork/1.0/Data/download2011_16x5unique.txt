@@ -1,0 +1,492 @@
+
+PT J
+AU Hirabayashi, S
+   Kroll, CN
+   Nowak, DJ
+AF Hirabayashi, Satoshi
+   Kroll, Charles N.
+   Nowak, David J.
+TI Component-based development and sensitivity analyses of an air pollutant
+   dry deposition model
+SO ENVIRONMENTAL MODELLING & SOFTWARE
+LA English
+DT Article
+DE Air pollutant; Dry deposition; Component-based model; UFORE; Sensitivity
+   analysis
+ID WATER-VAPOR EXCHANGE; SCALING CARBON-DIOXIDE; DECIDUOUS FOREST;
+   ATMOSPHERIC DEPOSITION; SULFUR-DIOXIDE; BOUNDARY-LAYER;
+   ENVIRONMENTAL-MODELS; STOMATAL CONDUCTANCE; SOLAR-RADIATION;
+   NORTH-AMERICA
+AB The Urban Forest Effects-Deposition model (UFORE-D) was developed with a component-based modeling approach. Functions of the model were separated into components that are responsible for user interface, data input/output, and core model functions. Taking advantage of the component-based approach, three UFORE-D applications were developed: a base application to estimate dry deposition at an hourly time step, and two sensitivity analyses based on Monte Carlo simulations with a Latin hypercube sampling (LHS-MC) and a Morris one-at-a-time (MOAT) sensitivity test. With the base application, dry deposition of CO, NO2, O-3, PM10, and SO2 in the city of Baltimore was estimated for 2005. The sensitivity applications were performed to examine UFORE-D model parameter sensitivity. In general, dry deposition velocity was sensitive to temperature and leaf area index (LAI). Temperature had a non-linear effect on all pollutants, while LAI was important to NO2 deposition with a nearly linear effect. PAR and wind speed had limited effects on dry deposition of all pollutants; dry deposition was affected by PAR and wind speed only up to their threshold values. The component-based approach allows for seamless integration of new model elements, and provides model developers with a platform to easily interchange model components. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 [Kroll, Charles N.] SUNY Coll Environm Sci & Forestry, Syracuse, NY 13210 USA.
+   [Hirabayashi, Satoshi] SUNY Coll Environm Sci & Forestry, Davey Tree Expert Co, Syracuse, NY 13210 USA.
+   [Nowak, David J.] SUNY Coll Environm Sci & Forestry, US Forest Serv, NE Res Stn, USDA, Syracuse, NY 13210 USA.
+RP Kroll, CN (reprint author), SUNY Coll Environm Sci & Forestry, 1 Forestry Dr,402 Baker Lab, Syracuse, NY 13210 USA.
+EM satoshi.hirabayashi@davey.com; cnkroll@esf.edu; dnowak@fs.fed.us
+CR Alonso G., 2004, DAT SYS APP
+   Anfossi D, 1995, ENVIRON SOFTW, V10, P263, DOI 10.1016/0266-9838(95)00001-1
+   Argent RM, 2004, ENVIRON MODELL SOFTW, V19, P219, DOI 10.1016/S1364-8152(03)00150-6
+   BALDOCCHI D, 1988, ATMOS ENVIRON, V22, P869, DOI 10.1016/0004-6981(88)90264-8
+   BALDOCCHI D, 1994, TREE PHYSIOL, V14, P1069, DOI 10.1093/treephys/14.7-8-9.1069
+   Baldocchi DD, 2001, ECOL MODEL, V142, P155, DOI 10.1016/S0304-3800(01)00287-3
+   BALDOCCHI DD, 1987, ATMOS ENVIRON, V21, P91, DOI 10.1016/0004-6981(87)90274-5
+   BALDOCCHI DD, 1995, PLANT CELL ENVIRON, V18, P1157, DOI 10.1111/j.1365-3040.1995.tb00626.x
+   Barnsley M. J., 2007, ENV MODELING PRACTIC
+   Bian L, 2000, J ENVIRON MANAGE, V59, P235, DOI 10.1006/jema.2000.0374
+   BIDWELL RGS, 1972, CAN J BOTANY, V50, P1435, DOI 10.1139/b72-174
+   Breuer L, 2003, ECOL MODEL, V169, P237, DOI 10.1016/S0304-3800(03)00274-6
+   Brook JR, 1999, ATMOS ENVIRON, V33, P5053, DOI 10.1016/S1352-2310(99)00251-4
+   Campolongo F, 1997, RELIAB ENG SYST SAFE, V57, P49, DOI 10.1016/S0951-8320(97)00021-5
+   Campolongo F, 2007, ENVIRON MODELL SOFTW, V22, P1509, DOI 10.1016/j.envsoft.2006.10.004
+   Caton BP, 1999, FIELD CROP RES, V62, P129, DOI 10.1016/S0378-4290(99)00010-6
+   Chappell D, 1996, UNDERSTANDING ACTIVE
+   COLBECK I, 1985, ATMOS ENVIRON, V19, P1807, DOI 10.1016/0004-6981(85)90007-1
+   COLLATZ GJ, 1991, AGR FOREST METEOROL, V54, P107, DOI 10.1016/0168-1923(91)90002-8
+   Currie Beth Anne, 2008, Urban Ecosystems, V11, P409, DOI 10.1007/s11252-008-0054-y
+   Davidson CI, 1990, ACID PRECIPITATION, V3, P103
+   Deutsch B., 2005, REGREENING WASHINGTO
+   DYER AJ, 1982, BOUND-LAY METEOROL, V22, P3, DOI 10.1007/BF00128053
+   FARQUHAR GD, 1980, PLANTA, V149, P78, DOI 10.1007/BF00386231
+   Fowler D., 1985, Sulfur dioxide and vegetation. Physiology, ecology and policy issues, P389
+   Fowler D., 1983, PRECIPITATION SCAVEN, P763
+   GARLAND JA, 1977, TELLUS, V29, P445
+   GREENHUT GK, 1983, BOUND-LAY METEOROL, V27, P387, DOI 10.1007/BF02033747
+   HAMBY DM, 1994, ENVIRON MONIT ASSESS, V32, P135, DOI 10.1007/BF00547132
+   HARLEY PC, 1992, PLANT CELL ENVIRON, V15, P271, DOI 10.1111/j.1365-3040.1992.tb00974.x
+   HARLEY PC, 1995, PLANT CELL ENVIRON, V18, P1146, DOI 10.1111/j.1365-3040.1995.tb00625.x
+   HE C, 2002, ENVIRON MODELL SOFTW, V17, P519
+   HELTON JC, 1993, RELIAB ENG SYST SAFE, V42, P327, DOI 10.1016/0951-8320(93)90097-I
+   Hermann AJ, 2002, DEEP-SEA RES PT II, V49, P5945, DOI 10.1016/S0967-0645(02)00328-4
+   Hirabayashi S., 2010, UFORE D MODEL DESCRI
+   HOSKER RP, 1982, ATMOS ENVIRON, V16, P889, DOI 10.1016/0004-6981(82)90175-5
+   KILLUS JP, 1984, REFINEMENTS NUMERICA, V5
+   LEUNING R, 1990, AUST J PLANT PHYSIOL, V17, P159, DOI 10.1071/PP9900159
+   LIEPMANN D, 1985, ECOL MODEL, V30, P13, DOI 10.1016/0304-3800(85)90035-3
+   LORENZ R, 1985, ATMOS ENVIRON, V19, P797, DOI 10.1016/0004-6981(85)90068-X
+   LOVETT GM, 1994, ECOL APPL, V4, P629, DOI 10.2307/1941997
+   LOVETT GM, 1984, J APPL ECOL, V21, P1013, DOI 10.2307/2405064
+   MacDougall M, 2005, ATMOS ENVIRON, V39, P5025, DOI 10.1016/j.atmosenv.2005.05.024
+   MACKERRON DKL, 1985, AGR FOREST METEOROL, V34, P241, DOI 10.1016/0168-1923(85)90024-3
+   Maxwell EL, 1998, SOL ENERGY, V62, P263, DOI 10.1016/S0038-092X(98)00003-6
+   MCMAHON TA, 1979, ATMOS ENVIRON, V13, P571, DOI 10.1016/0004-6981(79)90186-0
+   Meszaros R, 2009, ATMOS ENVIRON, V43, P663, DOI 10.1016/j.atmosenv.2008.09.058
+   MEYERS TP, 1993, J GEOPHYS RES-ATMOS, V98, P12631, DOI 10.1029/93JD00720
+   MONTEITH J.L., 1990, PRINCIPLES ENV PHYS
+   MORRIS MD, 1991, TECHNOMETRICS, V33, P161, DOI 10.2307/1269043
+   *MSDN, 2009, COM CLIENTS SERV
+   Murphy C.E., 1990, ACIDIC PRECIPITATION, V3, P217
+   *NASA, 2009, REM SENS TUT
+   National Climate Data Center (NCDC), 2008, WORLDS LARG ARCH CLI
+   NOAA, 2010, TRENDS ATM CARB DIOX
+   Norman J. M., 1982, BIOMETEOROLOGY INTEG, P65, DOI DOI 10.1016/B978-0-12-332850-2.50009-8
+   NORMAN JM, 1980, PREDICTING PHOTOSYNT, V2, P49
+   Norton JP, 2008, ENVIRON MODELL SOFTW, V23, P963, DOI 10.1016/j.envsoft.2007.11.007
+   Nowak David J., 2006, Urban Forestry & Urban Greening, V4, P115, DOI 10.1016/j.ufug.2006.01.007
+   Nowak DJ, 2000, ATMOS ENVIRON, V34, P1601, DOI 10.1016/S1352-2310(99)00394-5
+   NOWAK DJ, 1998, AIR POLLUTION MODELI, V12, P399
+   NOWAK DJ, 2000, INTEGRATED TOOLS NAT, P714
+   Pataki D. E., 2003, J GEOPHYS RES, V108
+   PEDERSON JR, 1995, ATMOS ENVIRON, V29, P3115, DOI 10.1016/1352-2310(95)00136-M
+   Pohlert T, 2007, ECOL MODEL, V203, P215, DOI 10.1016/j.ecolmodel.2006.11.019
+   RAVALICO JK, 2005, INT C MOD SIM P SOC, P2533
+   Saltelli A, 2000, SENSITIVITY ANAL
+   Simpson D, 2003, WATER AIR SOIL POLL, V143, P123, DOI 10.1023/A:1022890603066
+   SMITH R, 2000, J PHILOS EDUC, V34, pNIL2
+   Taylor G. E., 1988, Assessment of crop loss from air pollutants. Proceedings of an international conference, Raleigh, North Carolina, USA, 25-29 October 1987., P227
+   *US EPA, 2009, TECHN TRANSF NETW TT
+   *US EPA, 1995, PCRAMMET US GUID US
+   van Griensven A, 2006, J HYDROL, V324, P10, DOI 10.1016/j.jhydrol.2005.09.008
+   VANULDEN AP, 1985, J CLIM APPL METEOROL, V24, P1196, DOI 10.1175/1520-0450(1985)024<1196:EOABLP>2.0.CO;2
+   VENKATRAM A, 1980, BOUND-LAY METEOROL, V19, P481, DOI 10.1007/BF00122347
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Weiler M, 2005, J HYDROL, V310, P294, DOI 10.1016/j.jhydrol.2005.01.010
+   WEISS A, 1985, AGR FOREST METEOROL, V34, P205, DOI 10.1016/0168-1923(85)90020-6
+   WESELY ML, 1989, ATMOS ENVIRON, V23, P1293, DOI 10.1016/0004-6981(89)90153-4
+   WHITTAKE.RH, 1967, AM J BOT, V54, P931, DOI 10.2307/2440715
+   Wilson KB, 2001, PLANT CELL ENVIRON, V24, P571, DOI 10.1046/j.0016-8025.2001.00706.x
+   WU Y, 2003, J GEOPHYS RES, V108
+   Zador J, 2005, J PHYS CHEM A, V109, P9795, DOI 10.1021/jp053270i
+   Zhang L, 2003, ATMOS CHEM PHYS, V3, P2067, DOI 10.5194/acp-3-2067-2003
+   Zhang LM, 2002, ATMOS ENVIRON, V36, P537, DOI 10.1016/S1352-2310(01)00447-2
+   Ziehn T, 2008, ATMOS ENVIRON, V42, P1857, DOI 10.1016/j.atmosenv.2007.11.018
+   Zinke P. J., 1967, FOREST HYDROLOGY, P137
+NR 87
+TC 33
+Z9 34
+U1 1
+U2 21
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1364-8152
+EI 1873-6726
+J9 ENVIRON MODELL SOFTW
+JI Environ. Modell. Softw.
+PD JUN
+PY 2011
+VL 26
+IS 6
+BP 804
+EP 816
+DI 10.1016/j.envsoft.2010.11.007
+PG 13
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Environmental; Environmental Sciences
+SC Computer Science; Engineering; Environmental Sciences & Ecology
+GA 737QP
+UT WOS:000288583600012
+DA 2019-03-26
+ER
+
+PT J
+AU Malevergne, Y
+   Pisarenko, V
+   Sornette, D
+AF Malevergne, Yannick
+   Pisarenko, Vladilen
+   Sornette, Didier
+TI Testing the Pareto against the lognormal distributions with the
+   uniformly most powerful unbiased test applied to the distribution of
+   cities
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID SIZE DISTRIBUTION; GIBRATS LAW; EXPONENTIALITY; ALTERNATIVES; POWERLAWS;
+   GROWTH
+AB Fat-tail distributions of sizes abound in natural, physical, economic, and social systems. The lognormal and the power laws have historically competed for recognition with sometimes closely related generating processes and hard-to-distinguish tail properties. This state-of-affair is illustrated with the debate between Eeckhout [Amer. Econ. Rev. 94, 1429 (2004)] and Levy [Amer. Econ. Rev. 99, 1672 (2009)] on the validity of Zipf's law for US city sizes. By using a uniformly most powerful unbiased (UMPU) test between the lognormal and the power-laws, we show that conclusive results can be achieved to end this debate. We advocate the UMPU test as a systematic tool to address similar controversies in the literature of many disciplines involving power laws, scaling, "fat" or "heavy" tails. In order to demonstrate that our procedure works for data sets other than the US city size distribution, we also briefly present the results obtained for the power-law tail of the distribution of personal identity (ID) losses, which constitute one of the major emergent risks at the interface between cyberspace and reality.
+C1 [Malevergne, Yannick] Univ St Etienne, Univ Lyon, F-42023 St Etienne, France.
+   [Malevergne, Yannick] EMLYON Business Sch, F-69134 Ecully, France.
+   [Malevergne, Yannick; Sornette, Didier] ETH, Dept Management Technol & Econ, Zurich, Switzerland.
+   [Pisarenko, Vladilen] Russian Acad Sci, Int Inst Earthquake Predict Theory & Math Geophys, Moscow, Russia.
+   [Sornette, Didier] Univ Geneva, Swiss Finance Inst, CH-1211 Geneva 4, Switzerland.
+RP Malevergne, Y (reprint author), Univ St Etienne, Univ Lyon, Coactis EA 4161, F-42023 St Etienne, France.
+OI malevergne, yannick/0000-0002-7787-4158
+FU ETH Competence Center [CH1-01-08-2]; ETH Zurich Foundation
+FX We acknowledge financial support from the ETH Competence Center "Coping
+   with Crises in Complex Socio-Economic Systems" (CCSS) through ETH
+   Research Grant CH1-01-08-2 and ETH Zurich Foundation.
+CR Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Bak P, 1996, NATURE WORKS SCI SEL
+   Bingham N. H., 1989, REGULAR VARIATION
+   CABRAL LMB, AM EC REV, V93, P1075
+   CHEN Z, SSRN SERIES
+   COMBES PP, SSRN SERIES
+   del Castillo J, 1999, J AM STAT ASSOC, V94, P529, DOI 10.2307/2670173
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gatto R, 2002, STAT PROBABIL LETT, V58, P71, DOI 10.1016/S0167-7152(02)00117-7
+   Hasan R., 2006, P 2 ACM WORKSH STOR, P1
+   HILL BM, 1975, ANN STAT, V3, P1163, DOI 10.1214/aos/1176343247
+   KESTEN H, 1973, ACTA MATH-DJURSHOLM, V131, P207, DOI 10.1007/BF02392040
+   Kolmogorov A. N, 1941, DOKL AKAD NAUK SSSR, V31, P99
+   Lehmann E. L., 2005, TESTING STAT HYPOTHE
+   Lehmann EL, 1994, TESTING STAT HYPOTHE
+   Levy M, 2009, AM ECON REV, V99, P1672, DOI 10.1257/aer.99.4.1672
+   LILLIEFORS HW, 1967, J AM STAT ASSOC, V62, P399, DOI 10.2307/2283970
+   Luttmer EGJ, 2007, Q J ECON, V122, P1103, DOI 10.1162/qjec.122.3.1103
+   Maillart T, 2010, EUR PHYS J B, V75, P357, DOI 10.1140/epjb/e2010-00120-8
+   Rossi-Hansberg E, 2007, REV ECON STUD, V74, P597, DOI 10.1111/j.1467-937X.2007.00432.x
+   Saichev A, 2010, LECT NOTES EC MATH S, V632
+   SORNETTE D, 1994, J PHYS I, V4, P209, DOI 10.1051/jp1:1994133
+   Sornette D, 1998, PHYSICA A, V250, P295, DOI 10.1016/S0378-4371(97)00543-8
+   Sornette D, 2002, INT J MOD PHYS C, V13, P133, DOI 10.1142/S0129183102003036
+   SORNETTE D, 2009, PROBABILITY DISTRIBU, V11, P4300
+   SORNETTE D., 2006, CRITICAL PHENOMENA N
+   STEPHENS MA, 1974, J AM STAT ASSOC, V69, P730, DOI 10.2307/2286009
+NR 28
+TC 48
+Z9 49
+U1 1
+U2 12
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+J9 PHYS REV E
+JI Phys. Rev. E
+PD MAR 22
+PY 2011
+VL 83
+IS 3
+AR 036111
+DI 10.1103/PhysRevE.83.036111
+PN 2
+PG 11
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 738OV
+UT WOS:000288651500002
+PM 21517562
+DA 2019-03-26
+ER
+
+PT J
+AU Weinstock, M
+AF Weinstock, Michael
+TI The Metabolism of the City: The Mathematics of Networks and Urban
+   Surfaces
+SO ARCHITECTURAL DESIGN
+LA English
+DT Article
+ID ALLOMETRIC SCALING LAWS; CITIES; ORGANIZATION; BIOLOGY; ORIGIN; MODEL;
+   SIZE
+CR Adolphe L, 2001, ENVIRON PLANN B, V28, P183, DOI 10.1068/b2631
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   CHANGIZI MA, 2009, COMPLEXITY
+   Codoban N, 2008, J URBAN PLAN D-ASCE, V134, P21, DOI 10.1061/(ASCE)0733-9488(2008)134:1(21)
+   Decker EH, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000934
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Fuller RA, 2009, BIOL LETTERS, V5, P352, DOI 10.1098/rsbl.2009.0010
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   LEVISTRAUSS C, 1955, TRISTES TROPIQUES, P155
+   Niklas K. J., 1994, PLANT ALLOMETRY
+   Peters R.H., 1983, P1
+   Stewart I., 2009, 8 S URB ENV PHOEN AR
+   STEWART I, 2009, 7 INT C URB CLIM YOK
+   UN-HABITAT, STAT WORLDS CIT 2010
+   WEINSTOCK M, 2010, ARCHITECTURE EMERGEN, P130
+   WEINSTOCK M, 2008, AD VERSATILITY VICIS, V78, P26
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   WOLMAN A, 1965, SCI AM, V213, P179
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 23
+TC 4
+Z9 4
+U1 0
+U2 11
+PU WILEY PERIODICALS, INC
+PI SAN FRANCISCO
+PA ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, CA 94104 USA
+SN 0003-8504
+EI 1554-2769
+J9 ARCHIT DESIGN
+JI Archit. Des.
+PD JUL-AUG
+PY 2011
+IS 212
+SI SI
+BP 102
+EP 107
+DI 10.1002/ad.1275
+PG 6
+WC Architecture
+SC Architecture
+GA 811DU
+UT WOS:000294183200019
+DA 2019-03-26
+ER
+
+PT J
+AU Chi, BH
+   Vwalika, B
+   Killam, WP
+   Wamalume, C
+   Giganti, MJ
+   Mbewe, R
+   Stringer, EM
+   Chintu, NT
+   Putta, NB
+   Liu, KC
+   Chibwesha, CJ
+   Rouse, DJ
+   Stringer, JSA
+AF Chi, Benjamin H.
+   Vwalika, Bellington
+   Killam, William P.
+   Wamalume, Chibesa
+   Giganti, Mark J.
+   Mbewe, Reuben
+   Stringer, Elizabeth M.
+   Chintu, Namwinga T.
+   Putta, Nande B.
+   Liu, Katherine C.
+   Chibwesha, Carla J.
+   Rouse, Dwight J.
+   Stringer, Jeffrey S. A.
+TI Implementation of the Zambia Electronic Perinatal Record System for
+   comprehensive prenatal and delivery care
+SO INTERNATIONAL JOURNAL OF GYNECOLOGY & OBSTETRICS
+LA English
+DT Article
+DE Electronic medical record; Newborn care; Perinatal audit; Prenatal care;
+   Sub-Saharan Africa
+ID MATERNAL MORTALITY; SCALING-UP; LUSAKA; AUDIT; CHALLENGES; OBSTETRICS;
+   COUNTRIES; AFRICA; HIV
+AB Objective: To characterize prenatal and delivery care in an urban African setting. Methods: The Zambia Electronic Perinatal Record System (ZEPRS) was implemented to record demographic characteristics, past medical and obstetric history, prenatal care, and delivery and newborn care for pregnant women across 25 facilities in the Lusaka public health sector. Results: From June 1, 2007, to January 31, 2010, 115 552 pregnant women had prenatal and delivery information recorded in ZEPRS. Median gestation age at first prenatal visit was 23 weeks (interquartile range [IQR] 19-26). Syphilis screening was documented in 95 663 (83%) pregnancies: 2449 (2.6%) women tested positive, of whom 1589 (64.9%) were treated appropriately. 111 108 (96%) women agreed to HIV testing, of whom 22% were diagnosed with HIV. Overall, 112 813 (98%) of recorded pregnancies resulted in a live birth, and 2739 (2%) in a stillbirth. The median gestational age was 38 weeks (IQR 35-40) at delivery; the median birth weight of newborns was 3000 g (IQR 2700-3300 g). Conclusion: The results demonstrate the feasibility of using a comprehensive electronic medical record in an urban African setting, and highlight its important role in ongoing efforts to improve clinical care. (C) 2011 International Federation of Gynecology and Obstetrics. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 [Chi, Benjamin H.; Killam, William P.; Giganti, Mark J.; Stringer, Elizabeth M.; Chintu, Namwinga T.; Putta, Nande B.; Liu, Katherine C.; Chibwesha, Carla J.; Rouse, Dwight J.; Stringer, Jeffrey S. A.] Ctr Infect Dis Res Zambia, Lusaka, Zambia.
+   [Chi, Benjamin H.; Killam, William P.; Giganti, Mark J.; Stringer, Elizabeth M.; Liu, Katherine C.; Chibwesha, Carla J.; Stringer, Jeffrey S. A.] Univ Alabama, Dept Obstet & Gynecol, Sch Med, Birmingham, AL 35294 USA.
+   [Vwalika, Bellington] Univ Zambia, Dept Obstet & Gynecol, Sch Med, Lusaka, Zambia.
+   [Wamalume, Chibesa] Lusaka Urban Dist Hlth Management Team, Lusaka, Zambia.
+   [Mbewe, Reuben] Zambian Minist Hlth, Lusaka, Zambia.
+   [Rouse, Dwight J.] Brown Univ, Warren Alpert Med Sch, Dept Obstet & Gynecol, Providence, RI 02912 USA.
+RP Chi, BH (reprint author), Box 34681,1275 Lubuto Rd, Lusaka, Zambia.
+EM bchi@cidrz.org
+FU Bill and Melinda Gates Foundation; Novartis Pharma AG; National
+   Institutes of Health [K01-TW06670, D43-TW001035, P30-AI027767]; Doris
+   Duke Charitable Foundation [2007061]
+FX The ZEPRS was designed, developed, and implemented through support from
+   the Bill and Melinda Gates Foundation. Additional funding was provided
+   by Novartis Pharma AG to evaluate outcomes ascertainment. Investigator
+   salary or trainee support was provided by the National Institutes of
+   Health (K01-TW06670; D43-TW001035; P30-AI027767) and a Clinical
+   Scientist Development Award from the Doris Duke Charitable Foundation
+   (2007061). The funding agencies had no involvement in study design, data
+   collection, data analysis, or manuscript writing.
+CR Ahmed Y, 1999, INT J TUBERC LUNG D, V3, P675
+   Berkowicz DA, 1997, J AM MED INFORM ASSN, P754
+   BUGALHO A, 1993, GYNECOL OBSTET INVES, V36, P239, DOI 10.1159/000292637
+   Campbell OMR, 2006, LANCET, V368, P1284, DOI 10.1016/S0140-6736(06)69381-1
+   Fraser Hamish S F, 2005, Inform Prim Care, V13, P83
+   Garrib A, 2008, SAMJ S AFR MED J, V98, P549
+   Haberman S, 2009, OBSTET GYNECOL, V114, P311, DOI 10.1097/AOG.0b013e3181af2cb0
+   Mate KS, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0005483
+   Otwombe KN, 2007, B WORLD HEALTH ORGAN, V85, P315, DOI 10.2471/BLT.06.033712
+   Pattinson R, 2009, INT J GYNECOL OBSTET, V107, pS113, DOI 10.1016/j.ijgo.2009.07.011
+   Phelan ST, 2008, OBSTET GYN CLIN N AM, V35, pXIII, DOI 10.1016/j.ogc.2008.07.001
+   Ronveaux O, 2005, B WORLD HEALTH ORGAN, V83, P503
+   ROSENFIELD A, 1985, LANCET, V2, P83
+   Schatz JJ, 2008, LANCET, V371, P638, DOI 10.1016/S0140-6736(08)60287-1
+   Slagle T A, 1999, Pediatrics, V103, P266
+   Stanton C, 2006, LANCET, V367, P1487, DOI 10.1016/S0140-6736(06)68586-3
+   Stringer EM, 2008, B WORLD HEALTH ORGAN, V86, P697, DOI 10.2471/BLT.07.045260
+   Stringer EM, 2003, AIDS, V17, P1377, DOI 10.1097/01.aids.0000060395.18106.80
+   Williams Faustine, 2008, Inform Prim Care, V16, P139
+   *ZAMB CENTR STAT O, 2003, 2000 CENS POP HOUS
+   2005, ZAMBIA DEMOGRAPHIC H
+NR 21
+TC 28
+Z9 28
+U1 0
+U2 3
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0020-7292
+J9 INT J GYNECOL OBSTET
+JI Int. J. Gynecol. Obstet.
+PD MAY
+PY 2011
+VL 113
+IS 2
+BP 131
+EP 136
+DI 10.1016/j.ijgo.2010.11.1313
+PG 6
+WC Obstetrics & Gynecology
+SC Obstetrics & Gynecology
+GA 755HQ
+UT WOS:000289920100011
+PM 21315347
+DA 2019-03-26
+ER
+
+PT J
+AU Skilton, MR
+   Maple-Brown, LJ
+   Kapellas, K
+   Celermajer, DS
+   Bartold, M
+   Brown, A
+   O'Dea, K
+   Slade, GD
+   Jamieson, LM
+AF Skilton, Michael R.
+   Maple-Brown, Louise J.
+   Kapellas, Kostas
+   Celermajer, David S.
+   Bartold, Mark
+   Brown, Alex
+   O'Dea, Kerin
+   Slade, Gary D.
+   Jamieson, Lisa M.
+TI The effect of a periodontal intervention on cardiovascular risk markers
+   in Indigenous Australians with periodontal disease: the PerioCardio
+   study
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID ENDOTHELIAL DYSFUNCTION; INFLAMMATION; POPULATION
+AB Background: Indigenous Australians experience an overwhelming burden of chronic disease, including cardiovascular diseases. Periodontal disease (inflammation of the tissues surrounding teeth) is also widespread, and may contribute to the risk of cardiovascular diseases via pathogenic inflammatory pathways. This study will assess measures of vascular health and inflammation in Indigenous Australian adults with periodontal disease, and determine if intensive periodontal therapy improves these measures over a 12 month follow-up. The aims of the study are: (i) to determine whether there is a dose response relationship between extent and severity of periodontal disease and measures of vascular health and inflammation among Indigenous Australian adults with moderate to severe periodontal disease; and (ii) to determine the effects of periodontal treatment on changes in measures of vascular health and inflammation in a cohort of Indigenous Australians.
+   Methods/Design: This study will be a randomised, controlled trial, with predominantly blinded assessment of outcome measures and blinded statistical analysis. All participants will receive the periodontal intervention benefits (with the intervention delayed 12 months in participants who are randomised to the control arm). Participants will be Indigenous adults aged >= 25 years from urban centres within the Top End of the Northern Territory, Australia. Participants assessed to have moderate or severe periodontal disease will be randomised to the study's intervention or control arm. The intervention involves intensive removal of subgingival and supragingival calculus and plaque biofilm by scaling and root-planing. Study visits at baseline, 3 and 12 months, will incorporate questionnaires, non-fasting blood and urine samples, body measurements, blood pressure, periodontal assessment and non-invasive measures of vascular health (pulse wave velocity and carotid intima-media thickness). Primary outcome measures are pulse wave velocity and carotid intima-media thickness.
+   Discussion: The study will assess the periodontal-cardiovascular disease relationship among Indigenous Australian adults with periodontal disease, and the effectiveness of an intervention aimed at improving periodontal and cardiovascular health. Efforts to understand and improve Indigenous oral health and cardiovascular risk may serve as an important means of reducing the gap between Indigenous and non-Indigenous health in Australia.
+C1 [Kapellas, Kostas; Jamieson, Lisa M.] Univ Adelaide, Australian Res Ctr Populat Oral Hlth, Sch Dent, Adelaide, SA, Australia.
+   [Skilton, Michael R.] Univ Sydney, Boden Inst Obes Nutr Exercise & Eating Disorders, Sydney, NSW 2006, Australia.
+   [Maple-Brown, Louise J.] Charles Darwin Univ, Menzies Sch Hlth Res, Darwin, NT 0909, Australia.
+   [Maple-Brown, Louise J.] Royal Darwin Hosp, Div Med, Darwin, NT, Australia.
+   [Celermajer, David S.] Univ Sydney, Dept Med, Sydney, NSW 2006, Australia.
+   [Bartold, Mark] Univ Adelaide, Colgate Australian Clin Dent Res Ctr, Sch Dent, Adelaide, SA, Australia.
+   [Brown, Alex] Baker IDI Heart & Diabet Inst, Alice Springs, NT, Australia.
+   [O'Dea, Kerin] UniSA, Sansom Inst Hlth Res, Adelaide, SA, Australia.
+   [Slade, Gary D.] Univ N Carolina, Dept Dent Ecol, Chapel Hill, NC USA.
+RP Jamieson, LM (reprint author), Univ Adelaide, Australian Res Ctr Populat Oral Hlth, Sch Dent, Adelaide, SA, Australia.
+EM lisa.jamieson@adelaide.edu.au
+RI Jamieson, Lisa/M-5914-2014; O'Dea, Kerin/B-6916-2009
+OI Kapellas, Kostas/0000-0002-3761-9953; Bartold,
+   Peter/0000-0002-5695-3877; Brown, Alex/0000-0003-2112-3918; Skilton,
+   Michael/0000-0003-2793-2388
+FU National Health and Medical Research Council of Australia (NHMRC)
+   [627100, 605837, 1004474, 565260]
+FX The authors gratefully acknowledge the support of PerioCardio study
+   participants, study staff, Danila Dilba Health Services, NT Oral Health
+   Service, Northern Territory Correctional Services, and Wurli Wurlinjang
+   Aboriginal Health Service. The PerioCardio Study was funded by the
+   National Health and Medical Research Council of Australia (NHMRC,
+   Project Grant#627100). LMB is supported by NHMRC fellowship #605837. MRS
+   is supported by NHMRC fellowship #1004474. LJ is supported by NHMRC
+   Career Development Award #565260.
+CR ABS, 2005, HLTH WELF AUSTR AB T
+   *AIHW, 2006, AUSTR HLTH 2006 AUST
+   AIHW Dental Statistics and Research Unit, 2007, AUSTR DENT GEN NAT S
+   Brown Alex, 2005, Heart Lung Circ, V14, P158, DOI 10.1016/j.hlc.2005.04.002
+   Brown A, 2010, HEART LUNG CIRC, V19, P325, DOI 10.1016/j.hlc.2010.02.011
+   D'Aiuto F, 2005, J DENT RES, V84, P269, DOI 10.1177/154405910508400312
+   D'Aiuto F, 2006, AM HEART J, V151, P977, DOI 10.1016/j.ahj.2005.06.018
+   Endean Colin, 2004, Aust J Rural Health, V12, P99, DOI 10.1111/j.1440-1854.2004.00566.x
+   Fifer KM, 2011, J AM COLL CARDIOL, V57, P971, DOI 10.1016/j.jacc.2010.09.056
+   Haraszthy VI, 2000, J PERIODONTOL, V71, P1554, DOI 10.1902/jop.2000.71.10.1554
+   Harford J, 2003, HLTH INDIGENOUS AUST, P313
+   Hongo M, 2008, CIRC J, V72, P722, DOI 10.1253/circj.72.722
+   Joshipura KJ, 2003, STROKE, V34, P47, DOI 10.1161/01.STR.0000052974.79428.0C
+   Katz J, 2001, LANCET, V358, P1998, DOI 10.1016/S0140-6736(01)06989-6
+   Maple-Brown LJ, 2010, BMC PUBLIC HEALTH, V10, DOI 10.1186/1471-2458-10-80
+   Offenbacher Steven, 2005, J Int Acad Periodontol, V7, P39
+   Page RC, 2007, J PERIODONTOL, V78, P1387, DOI 10.1902/jop.2007.060264
+   Pepine CJ, 1998, AM J CARDIOL, V82, p23S, DOI 10.1016/S0002-9149(98)90427-1
+   Piconi S, 2009, FASEB J, V23, P1196, DOI 10.1096/fj.08-119578
+   Roberts-Thomson KF, 2008, MED J AUSTRALIA, V188, P592
+   Seinost G, 2005, AM HEART J, V149, P1050, DOI 10.1016/j.ahj.2004.09.059
+   Soder B, 2007, J PERIODONTAL RES, V42, P361, DOI 10.1111/j.1600-0765.2006.00957.x
+   THORSTENSSON H, 1993, J CLIN PERIODONTOL, V20, P352, DOI 10.1111/j.1600-051X.1993.tb00372.x
+   Tonetti MS, 2007, NEW ENGL J MED, V356, P911, DOI 10.1056/NEJMoa063186
+   Van Dyke Thomas E, 2005, J Int Acad Periodontol, V7, P3
+   Xiong X, 2006, BJOG-INT J OBSTET GY, V113, P135, DOI 10.1111/j.1471-0528.2005.00827.x
+NR 26
+TC 15
+Z9 15
+U1 0
+U2 5
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD SEP 26
+PY 2011
+VL 11
+AR 729
+DI 10.1186/1471-2458-11-729
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 832GN
+UT WOS:000295791700001
+PM 21943132
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

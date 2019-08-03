@@ -1,0 +1,474 @@
+
+PT J
+AU Dong, HG
+   Li, MH
+   Liu, R
+   Wu, CS
+   Wu, JS
+AF Dong, Hongguang
+   Li, Menghui
+   Liu, Ru
+   Wu, Chensheng
+   Wu, Jinshan
+TI Allometric scaling in scientific fields
+SO SCIENTOMETRICS
+DE Allometric scaling law; Subject classification code; PACS; MSC; JEL
+ID BIBLIOMETRIC STATISTICAL PROPERTIES; POWER-LAW DISTRIBUTIONS; SCIENCE
+   SYSTEM; NETWORKS; INDICATORS; INNOVATION; RULES; LIFE
+AB Allometric scaling can reflect underlying mechanisms, dynamics and structures in complex systems; examples include typical scaling laws in biology, ecology and urban development. In this work, we study allometric scaling in scientific fields. By performing an analysis of the outputs/inputs of various scientific fields, including the numbers of publications, citations, and references, with respect to the number of authors, we find that in all fields that we have studied thus far, including physics, mathematics and economics, there are allometric scaling laws relating the outputs/inputs and the sizes of scientific fields. Furthermore, the exponents of the scaling relations have remained quite stable over the years. We also find that the deviations of individual subfields from the overall scaling laws are good indicators for ranking subfields independently of their sizes.
+RI Li, Menghui/E-7613-2011; Wu, Jinshan/C-1203-2010
+OI Li, Menghui/0000-0001-8151-5898; Wu, Jinshan/0000-0001-5014-385X
+CR Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2008, SCIENTOMETRICS, V75, P495, DOI 10.1007/s11192-007-1888-4
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brown J. H., 2000, SCALING BIOL
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Gao X, 2009, J INFORMETR, V3, P321, DOI 10.1016/j.joi.2009.04.004
+   Herrera M, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010355
+   Katz J. S., 2000, SCI PUBL POLICY, V27, P23, DOI [DOI 10.3152/147154300781782156, 10.3152/147154300781782156]
+   Katz JS, 2006, RES POLICY, V35, P893, DOI 10.1016/j.respol.2006.03.007
+   Katz JS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0156150
+   Katz JS, 1999, RES POLICY, V28, P501, DOI 10.1016/S0048-7333(99)00010-4
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levine D. K., 2016, WHAT IS GAME THEORY
+   Milojevic S, 2013, J INFORMETR, V7, P767, DOI 10.1016/j.joi.2013.06.006
+   Milojevic S, 2010, J AM SOC INF SCI TEC, V61, P2417, DOI 10.1002/asi.21426
+   Naroll RS, 1956, GEN SYST, V1, P76
+   NICHOLLS PT, 1987, J AM SOC INFORM SCI, V38, P443, DOI 10.1002/(SICI)1097-4571(198711)38:6<443::AID-ASI4>3.0.CO;2-E
+   Nomaler O, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110805
+   Ortman SG, 2015, SCI ADV, V1, DOI 10.1126/sciadv.1400066
+   Redner S, 1998, EUR PHYS J B, V4, P131, DOI 10.1007/s100510050359
+   van Raan AFJ, 2006, J AM SOC INF SCI TEC, V57, P408, DOI 10.1002/asi.20284
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P565, DOI 10.1002/asi.20765
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P461, DOI 10.1002/asi.20761
+   van Raan AFJ, 2006, J AM SOC INF SCI TEC, V57, P1919, DOI 10.1002/asi.20389
+   van Raan AFJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059384
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+NR 34
+TC 0
+Z9 0
+SN 0138-9130
+EI 1588-2861
+PD JUL
+PY 2017
+VL 112
+IS 1
+BP 583
+EP 594
+DI 10.1007/s11192-017-2333-y
+UT WOS:000403466900031
+ER
+
+PT J
+AU Fedotov, S
+   Stage, H
+AF Fedotov, Sergei
+   Stage, Helena
+TI Anomalous Metapopulation Dynamics on Scale-Free Networks
+SO PHYSICAL REVIEW LETTERS
+ID HETEROGENEOUS NETWORKS; STOCHASTIC MODEL; OF-STAY; DURATION; MOBILITY;
+   SPREAD; TIME; EMERGENCE; RESIDENCE; EVOLUTION
+AB We model transport of individuals across a heterogeneous scale-free network where a few weakly connected nodes exhibit heavy-tailed residence times. Using the empirical law of the axiom of cumulative inertia and fractional analysis, we show that "anomalous cumulative inertia" overpowers highly connected nodes in attracting network individuals. This fundamentally challenges the classical result that individuals tend to accumulate in high-order nodes. The derived residence time distribution has a nontrivial U shape which we encounter empirically across human residence and employment times.
+OI Stage, Helena/0000-0001-9938-8452
+CR Angstmann CN, 2016, MATH MODEL NAT PHENO, V11, P142, DOI 10.1051/mmnp/20161139
+   Angstmann CN, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.022811
+   Angstmann CN, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.032804
+   Anily S, 1999, J BUS ECON STAT, V17, P373, DOI 10.2307/1392295
+   Balcan D, 2011, NAT PHYS, V7, P581, DOI 10.1038/NPHYS1944
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Barabasi AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabasi AL, 2009, SCIENCE, V325, P412, DOI 10.1126/science.1173299
+   Barrat A., 2008, DYNAMICAL PROCESSES
+   Belik V, 2011, PHYS REV X, V1, DOI 10.1103/PhysRevX.1.011001
+   Berry H, 2016, ACTA APPL MATH, V145, P15, DOI 10.1007/s10440-016-0048-3
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   CLARK WAV, 1977, ENVIRON PLANN A, V9, P1357, DOI 10.1068/a091357
+   Colizza V, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.148701
+   Colizza V, 2008, J THEOR BIOL, V251, P450, DOI 10.1016/j.jtbi.2007.11.028
+   Colizza V, 2007, NAT PHYS, V3, P276, DOI 10.1038/nphys560
+   COX DR, 1977, THEORY STOCHASTIC PR
+   Fedotov S, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.062127
+   Fedotov S, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.032104
+   Fedotov S, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.031132
+   FELLER W, 1966, INTRO PROBABILITY TH, V2
+   Godreche C, 2001, J STAT PHYS, V104, P489, DOI 10.1023/A:1010364003250
+   Grenfell BT, 1998, ECOL LETT, V1, P63
+   Guimera R, 2005, P NATL ACAD SCI USA, V102, P7794, DOI 10.1073/pnas.0407994102
+   Hanski I, 1998, NATURE, V396, P41, DOI 10.1038/23876
+   Hollingsworth TD, 2006, NAT MED, V12, P497, DOI 10.1038/nm0506-497
+   Klafter J., 2011, 1 STEPRANDOM WALKS
+   Leventhal GE, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7101
+   Li YH, 2012, IEEE ICC, P2093, DOI 10.1109/ICC.2012.6363915
+   Liu C., 2010, P 33 INT ACM SIGIR C, P379, DOI DOI 10.1145/1835449.1835513
+   MCGINNIS R, 1968, AM SOCIOL REV, V33, P712, DOI 10.2307/2092882
+   Miller K. S., 1993, INTRO FRACTIONAL CAL
+   MOLLOY M, 1995, RANDOM STRUCT ALGOR, V6, P161, DOI 10.1002/rsa.3240060204
+   Morrison P. S., 2015, CCPR WORKING PAPER S
+   MYERS GC, 1967, EUGEN QUART, V14, P121, DOI 10.1080/19485565.1967.9987711
+   Newman M. E. J., 2011, STRUCTURE DYNAMICS N
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.026118
+   Oliveira JG, 2005, NATURE, V437, P1251, DOI 10.1038/4371251a
+   Pastor-Satorras R, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.258701
+   Poletto C, 2013, J THEOR BIOL, V338, P41, DOI 10.1016/j.jtbi.2013.08.032
+   Poletto C, 2012, SCI REP-UK, V2, DOI 10.1038/srep00476
+   Rhodes CJ, 1996, NATURE, V381, P600, DOI 10.1038/381600a0
+   Riley S, 2007, SCIENCE, V316, P1298, DOI 10.1126/science.1134695
+   Ripoll J, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.022809
+   Rosvall M, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5630
+   Shushin AI, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.051108
+   Singer B, 1974, SOCIOL METHODOL, V5, P356
+   Tanaka G, 2012, SCI REP-UK, V2, DOI 10.1038/srep00232
+   Tizzoni M, 2015, SCI REP-UK, V5, DOI 10.1038/srep15111
+   Vazquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   Vazquez A, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.248701
+   Vazquez A, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.158702
+   Vespignani A, 2012, NAT PHYS, V8, P32
+   Yang H, 2015, SCI REP-UK, V5, DOI 10.1038/srep13122
+NR 56
+TC 4
+Z9 4
+SN 0031-9007
+EI 1079-7114
+PD MAR 3
+PY 2017
+VL 118
+IS 9
+AR 098301
+DI 10.1103/PhysRevLett.118.098301
+UT WOS:000396045900021
+PM 28306314
+ER
+
+PT J
+AU Meng, FX
+   Liu, GY
+   Yang, ZF
+   Casazza, M
+   Cui, S
+   Ulgiati, S
+AF Meng, Fanxin
+   Liu, Gengyuan
+   Yang, Zhifeng
+   Casazza, Marco
+   Cui, Shenghui
+   Ulgiati, Sergio
+TI Energy efficiency of urban transportation system in Xiamen, China. An
+   integrated approach
+SO APPLIED ENERGY
+CT 8th Biennial International Workshop on Advances in Energy Studies -
+   Energy and Urban Systems (BIWAES)
+CY MAY 04-07, 2015
+CL Stockholm, SWEDEN
+DE Urban transportation; Energy, exergy and emergy assessment;
+   Environmental sustainability; Cumulative Energy Demand of transport
+ID EXERGY ANALYSIS; ENVIRONMENTAL SUSTAINABILITY; VEHICLE OWNERSHIP; MODEL
+   DEVELOPMENT; METABOLISM; SECTOR; CONSUMPTION; EMERGY; LIFE; CITIES
+AB An integrated life cycle approach framework, including material flow analysis (MFA), Cumulative Energy Demand (CED), exergy analysis (EXA), Emergy Assessment (EMA), and emissions (EMI) has been constructed and applied to examine the energy efficiency of high speed urban bus transportation systems compared to conventional bus transport in the city of Xiamen, Fujian province, China. This paper explores the consistency of the results achieved by means of several evaluation methods, and explores the sustain ability of innovation in urban public transportation systems. The case study dealt with in this paper is a Bus Rapid Transit (BRT) system compared to Normal Bus Transit (NBT). All the analyses have been performed based on a common yearly database of natural resources, material, labor, energy and fuel input flows used in all life cycle phases (resource extraction, processing and manufacturing, use and end of life) of the infrastructure, vehicle and vehicle fuel. Cumulative energy, material and environmental support demands of transport are accounted for. Selected pressure indicators are compared to yield a comprehensive picture of the public transportation system. Results show that Bus Rapid Transit system (BRT) shows much better energy and environmental performance than NBT, as indicated by the set of sustainability indicators calculated by means of our integrated approach. This is because of the higher efficiency of such modality (less affected by traffic, higher vehicle occupancy, suitability for large distance transportation). The study suggests that the higher economic and resource investments performed in order to provide dedicated roads, more modern transport technology and higher speed, translated into a better use of resources and lower environmental pressure, also because of the attraction of an increased number of passengers, who would have otherwise used car transportation modalities. This study also provides a clear evidence that more than one criterion is needed to address a fully reliable and sustainable urban transportation policy. An integrated approach is therefore suggested to support decision making in the presence of complex systems and different kinds of concerns to be taken into proper account. (C) 2016 Elsevier Ltd. All rights reserved.
+RI CAS, KLUEH/G-8978-2016; Casazza, Marco/T-6783-2017
+OI Casazza, Marco/0000-0002-7579-3231
+CR Akisawa A, 1998, APPL ENERG, V61, P25, DOI 10.1016/S0306-2619(98)00036-1
+   [Anonymous], 2006, 140402006 ISO
+   Ayres RU, 2003, ENERGY, V28, P219, DOI 10.1016/S0360-5542(02)00089-0
+   Baral A, 2010, ENVIRON SCI TECHNOL, V44, P800, DOI 10.1021/es902571b
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brown MT, 2004, ECOL MODEL, V178, P201, DOI 10.1016/j.ecolmodel.2004.03.002
+   Brown MT, 1997, ECOL ENG, V9, P51, DOI 10.1016/S0925-8574(97)00033-5
+   Burnham A, 2006, DEV APPL GREET 2 7 T
+   Chen GQ, 2005, ECOL MODEL, V184, P363, DOI 10.1016/j.ecolmodel.2004.10.015
+   CHEN GQ, 2006, COMMUN NONLINEAR SCI, V11, P531, DOI DOI 10.1016/J.CNSNS.2004.11.009
+   Cheng YH, 2015, APPL ENERG, V157, P953, DOI 10.1016/j.apenergy.2015.01.126
+   Cui SH, 2011, CARBON MANAG, V2, P383, DOI 10.4155/CMT.11.32
+   Cui SH, 2010, INT J SUST DEV WORLD, V17, P329, DOI 10.1080/13504509.2010.490657
+   Dai J, 2014, RENEW SUST ENERG REV, V32, P229, DOI 10.1016/j.rser.2014.01.001
+   Densing M, 2012, ENERGY, V47, P137, DOI 10.1016/j.energy.2012.09.011
+   Dincer I, 2004, APPL THERM ENG, V24, P525, DOI 10.1016/j.applthermaleng.2003.10.011
+   Dincer I, 2013, P I MECH ENG A-POWER, V217, P481
+   Dincer I, 2014, ENERG POLICY, V32, P1615
+   Douglas I, 2002, ECOL ECON, V41, P235, DOI 10.1016/S0921-8009(02)00029-0
+   DPES NBSC, 2011, CHIN POP EMPL STAT Y
+   Ediger VS, 2007, ENERG POLICY, V35, P1238, DOI 10.1016/j.enpol.2006.03.021
+   EPA, 2006, GHG EM US TRANSP SEC
+   Ertesvag IS, 2000, ENERGY, V25, P957, DOI 10.1016/S0360-5442(00)00025-6
+   Facanha C, 2007, ENVIRON SCI TECHNOL, V41, P7138, DOI 10.1021/es070989q
+   Federici M, 2008, ENERGY, V33, P760, DOI 10.1016/j.energy.2008.01.010
+   Federici M, 2005, EMERGY ANAL SELECTED, P449
+   FEDERICI M, 2003, ECOLOGICAL INDICATOR, V3, P155, DOI DOI 10.1016/S1470-160X(03)00040-2
+   Fischer-Kowalski M., 1998, J IND ECOL, V2, P107, DOI DOI 10.1162/JIEC.1998.2.4.107
+   Flamm BJ, 2012, TRANSPORT RES D-TR E, V17, P108, DOI 10.1016/j.trd.2011.09.013
+   Forkes J, 2007, RESOUR CONSERV RECY, V52, P74, DOI 10.1016/j.resconrec.2007.02.003
+   Fuglestvedt J, 2008, P NATL ACAD SCI USA, V105, P454, DOI 10.1073/pnas.0702958104
+   Geng Y, 2013, J CLEAN PROD, V58, P82, DOI 10.1016/j.jclepro.2013.06.034
+   Guo Z, 2014, SCI TOTAL ENVIRON, V470, P883, DOI 10.1016/j.scitotenv.2013.10.041
+   Hao H, 2011, ENERG POLICY, V39, P1016, DOI 10.1016/j.enpol.2010.11.039
+   He DQ, 2013, TRANSPORT RES A-POL, V53, P53, DOI 10.1016/j.tra.2013.06.004
+   Huang SL, 1998, J ENVIRON MANAGE, V52, P39, DOI 10.1006/jema.1997.0157
+   Huang Y, 2008, TRANSP RED, V14, P197
+   IEA, 2012, WORLD EN OUTL 2012
+   IEA, 2014, KEY WORLD EN STAT 20
+   Jaber JO, 2008, ENERG POLICY, V36, P2995, DOI 10.1016/j.enpol.2008.04.004
+   Ji X, 2006, ENERG POLICY, V34, P1709, DOI 10.1016/j.enpol.2005.01.012
+   Kennedy C, 2012, ENVIRON POLLUT, V167, P186, DOI 10.1016/j.envpol.2012.04.012
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kim H.T., 2010, INT C 2 COMP ENG TEC, V6, pV6, DOI DOI 10.1371/J0URNAL.PPAT.1000992
+   Koroneos CJ, 2008, RESOUR CONSERV RECY, V52, P700, DOI 10.1016/j.resconrec.2007.09.006
+   LI Q, 2006, ECOL ECON, P35
+   Liu GY, 2011, PROCEDIA ENVIRON SCI, V5, P81, DOI 10.1016/j.proenv.2011.03.052
+   Lou B, 2015, ECOL INDIC, V57, P514, DOI 10.1016/j.ecolind.2015.03.017
+   Marsden G., DEFINING MEASURING P
+   Marx K, 1981, CAPITAL, V3
+   Meng YP, 2010, J TRANSP ENG INF, V8, P28
+   Millo F, 2015, APPL ENERG, V157, P583, DOI 10.1016/j.apenergy.2015.03.131
+   Ministry of Construction PRC, 1991, 3790 CJJ MIN CONSTR
+   NEWMAN PWG, 1996, HUMAN SETTLEMENTS ST
+   Odum H. T, 1996, ENV ACCOUNTING EMERG
+   Pincetl S, 2014, J IND ECOL, V18, P871, DOI 10.1111/jiec.12144
+   Pincetl S, 2012, LANDSCAPE URBAN PLAN, V107, P193, DOI 10.1016/j.landurbplan.2012.06.006
+   Ratanavaraha V, TRANSP POLICY
+   Richardson B. C., 2005, J TRANSP GEOGR, V13, P29, DOI DOI 10.1016/J.JTRANGEO.2004.11.005
+   Saidur R, 2007, ENERG POLICY, V35, P4018, DOI 10.1016/j.enpol.2007.02.008
+   SCHAEFFER R, 1992, ENERGY, V17, P841, DOI 10.1016/0360-5442(92)90102-6
+   Szargut J, 1998, P 1 INT WORKSH ADV E, P77
+   Szargut JT, 2003, ENERGY, V28, P1047, DOI 10.1016/S0360-5442(03)00089-6
+   Taptich MN, 2014, ENVIRON SCI TECHNOL, V48, P13045, DOI 10.1021/es503356c
+   Ulgiati S, 1998, ECOL MODEL, V108, P23, DOI 10.1016/S0304-3800(98)00016-7
+   Verny J., 2007, EUR J TRANSP INFRAST, V7, P113
+   Wang W., 2010, THESIS
+   Warren-Rhodes K, 2001, AMBIO, V30, P429, DOI 10.1639/0044-7447(2001)030[0429:ETITUM]2.0.CO;2
+   [温宗�? WEN Zongguo], 2009, [清华大学学报. 自然科学�?, Journal of Tsinghua University. Science and Technology], V49, P1516
+   WENZEL H, 1997, ENV ASSESSMENT PRODU, V1
+   WOLMAN A, 1965, SCI AM, V213, P179
+   Xiamen City Transportation Commission PRC, 2006, ANN REP DEV TRANSP
+   XMBS, 2011, YB XIAM SPEC EC ZON
+   Yan X, 2009, ENERG POLICY, V37, P658, DOI 10.1016/j.enpol.2008.10.008
+   Zhang LX, 2012, J CLEAN PROD, V28, P33, DOI 10.1016/j.jclepro.2011.10.042
+   Zhang LX, 2013, ECOL ENG, V54, P128, DOI 10.1016/j.ecoleng.2013.01.030
+   Zhang M, 2011, ENERGY, V36, P770, DOI 10.1016/j.energy.2010.12.044
+   Zhang M, 2011, APPL ENERG, V88, P2279, DOI 10.1016/j.apenergy.2010.12.077
+   Zhang Y, 2006, ECOL MODEL, V197, P1, DOI 10.1016/j.ecolmodel.2006.02.032
+   Zhang Y, 2014, ENERG POLICY, V73, P540, DOI 10.1016/j.enpol.2014.04.029
+   Zhang Y, 2014, ECOL MODEL, V272, P188, DOI 10.1016/j.ecolmodel.2013.10.003
+NR 81
+TC 8
+Z9 8
+SN 0306-2619
+EI 1872-9118
+PD JAN 15
+PY 2017
+VL 186
+SI SI
+BP 234
+EP 248
+DI 10.1016/j.apenergy.2016.02.055
+PN 2
+UT WOS:000390075400014
+ER
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI Multi-scaling allometric analysis for urban and regional development
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+DE Allometric growth; Allometric scaling; Fractal dimension; Complex
+   spatial system; Spatio-temporal evolution; Urbanization
+ID ZIPFS LAW; CITIES; GROWTH; SIZE; EVOLUTION; GEOMETRY; SHAPE; LIFE
+AB The concept of allometric growth is based on scaling relations, and it has been applied to urban and regional analysis for a long time. However, most allometric analyses were devoted to the single proportional relation between two elements of a geographical system. Few researches focus on the allometric scaling of multielements. In this paper, a process of multiscaling allometric analysis is developed for the studies on spatio-temporal evolution of complex systems. By means of linear algebra, general system theory, and by analogy with the analytical hierarchy process, the concepts of allometric growth can be integrated with the ideas from fractal dimension. Thus a new methodology of geo-spatial analysis and the related theoretical models emerge. Based on the least squares regression and matrix operations, a simple algorithm is proposed to solve the multiscaling allometric equation. Applying the analytical method of multielement allometry to Chinese cities and regions yields satisfying results. A conclusion is reached that the multiscaling allometric analysis can be employed to make a comprehensive evaluation for the relative levels of urban and regional development, and explain spatial heterogeneity. The notion of multiscaling allometry may enrich the current theory and methodology of spatial analyses of urban and regional evolution. (C) 2016 Elsevier B.V. All rights reserved.
+CR Allen PM, 1997, CITIES REGIONS SELF
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Bak P., 1996, NATURE WORKS SCI SEL
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   Berry B. J. L., 2005, PAPERS REGIONAL SCI, V13, P147, DOI DOI 10.1111/J.1435-5597.1964.TB01283.X
+   Bertalanffy L.von, 1952, Evolution, V6, P387
+   Bertalanffy LV, 1968, GEN SYSTEM THEORY FD
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   CARROLL GR, 1982, PROG HUM GEOG, V6, P1
+   Chen T., 1995, THESIS
+   Chen Y.G., 2008, URBAN DEV STUD, V15, P81
+   Chen Y.G., 1997, B SCI TECHNOLOGY, V13, P233
+   Chen Y. G., 2008, FRACTAL URBAN SYSTEM
+   Chen YG, 2016, PHYSICA A, V443, P555, DOI 10.1016/j.physa.2015.09.083
+   Chen YG, 2014, CHAOS SOLITON FRACT, V65, P65, DOI 10.1016/j.chaos.2014.04.017
+   Chen YG, 2014, FRACTALS, V22, DOI 10.1142/S0218348X14500017
+   Chen YG, 2013, CHAOS SOLITON FRACT, V49, P47, DOI 10.1016/j.chaos.2013.02.006
+   Chen YG, 2012, PHYSICA A, V391, P3285, DOI 10.1016/j.physa.2011.12.031
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   Chen YG, 2009, CHAOS SOLITON FRACT, V41, P615, DOI 10.1016/j.chaos.2008.02.035
+   Chen YG, 2009, CHAOS SOLITON FRACT, V39, P49, DOI 10.1016/j.chaos.2007.01.130
+   Chen Yanguang, 1999, J XINYANG TEACHERS C, V12, P198
+   Chen YG, 1998, B SCI TECH, V14, P395
+   Chen YG, 2012, J GEOGRAPHY GEOLOGY, V4, P118
+   Damuth J, 2001, P NATL ACAD SCI USA, V98, P2113, DOI 10.1073/pnas.051011198
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Feder Jens, 1988, FRACTALS
+   Fotheringham A. S., 1989, SPATIAL INTERACTION
+   Frankhauser P., 1994, FRACTALITE STRUCTURE
+   Frankhauser Pierre, 1998, POPULATION ENGLISH S, V10, P205
+   Golledge R.G., 1972, 10 ASS AM GEOGR TECH, P1
+   Gordon K., 2005, SCI AM, V293, P40
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   Haggett P., 1977, LOCATIONAL ANAL HUMA
+   Haggett P, 2001, GEOGRAPHY GLOBAL SYN
+   He JH, 2006, CHAOS SOLITON FRACT, V27, P864, DOI 10.1016/j.chaos.2005.04.081
+   Henry J., 2002, SCI REVOLUTION ORIGI
+   KAC M, 1969, SCIENCE, V166, P695, DOI 10.1126/science.166.3906.695
+   Kantz H., 1997, NONLINEAR TIME SERIE
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lee T.D., 1988, SYMMETRIES ASYMMETRI
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   LO CP, 1977, ANN ASSOC AM GEOGR, V67, P246, DOI 10.1111/j.1467-8306.1977.tb01137.x
+   Lo CP, 2002, ANN ASSOC AM GEOGR, V92, P225, DOI 10.1111/1467-8306.00288
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   LONGLEY PA, 1989, GEOGR ANAL, V21, P47
+   Longley PA, 1999, APPL GEOGRAPHY PRINC, P605
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Mandelbrot BB, 1983, FRACTAL GEOMETRY NAT
+   Naroll RS, 1956, GEN SYST, V1, P76
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   PACKARD NH, 1980, PHYS REV LETT, V45, P712, DOI 10.1103/PhysRevLett.45.712
+   Portugali J., 2000, SELF ORG CITY
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   PUMAIN D, 1997, GEOJOURNAL, V43, P307
+   Pumain D, 2006, CYBERGEO, V343, P20
+   Saaty TL, 2008, RACSAM REV R ACAD A, V102, P251, DOI 10.1007/BF03191825
+   SAATY TL, 1999, DECISION MAKING LEAD
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Small C. G., 1996, STAT THEORY SHAPE
+   Takayasu H., 1990, FRACTALS PHYS SCI
+   Takens F., 1981, LECT NOTES MATH, V898, P366, DOI [10.1007/BFb0091924, DOI 10.1007/BFB0091924]
+   Tobler W.R., 1969, AREA, V1, P30
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   West GB, 2002, P NATL ACAD SCI USA, V99, P2473, DOI 10.1073/pnas.012579799
+   Williams G. P., 1997, CHAOS THEORY TAMED
+   Wilson A, 2000, COMPLEX SPATIAL SYST
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zhou Yixing, 1995, URBAN GEOGRAPHY
+NR 79
+TC 4
+Z9 5
+SN 0378-4371
+EI 1873-2119
+PD JAN 1
+PY 2017
+VL 465
+BP 673
+EP 689
+DI 10.1016/j.physa.2016.08.008
+UT WOS:000386411700066
+ER
+
+PT J
+AU Bai, XY
+   Hanif, MI
+   Li, FS
+   Hanif, MS
+   Gu, YH
+AF Bai XiuYin
+   Hanif, Muhammad Imran
+   Li Fensheng
+   Hanif, Muhammad Shehzad
+   Gu Yinhua
+TI An empirical study on application and efficiency of gridded management
+   in public service supply of Chinese Government
+SO JOURNAL OF SCIENCE AND TECHNOLOGY POLICY MANAGEMENT
+DE Chinese Government; Gridded management; Public service supply
+ID WATER-USE; CITIES; GROWTH; SECTOR; MODEL
+AB Purpose - Gridded management in the public service supply is still in the experience exploratory stage, and this paper aims to analyze the inherent logic and operation mode of the gridding mechanism of the public supply based on the existing theory study and practices, and verify its efficiency so as to come to the conclusion whether it could be promoted to a wider range.
+   Design/methodology/approach - The methodology applied in this paper was case study/deductive induction.
+   Findings - The grid model in the public service supply needs to be demonstrated completely in theoretical logic and operation principles before it is promoted across the country. Meanwhile, full support of the government is required in terms of service concept, function distribution, technical parameters and infrastructure.
+   Research limitations/implications - The inherent logic and operation mode of the gridding mechanism of the public service supply needs enough practice tests. The practical test of efficiency analysis of the gridding mechanism of the public service supply is not enough.
+   Social implications - This paper validated whether the gridding mechanism that originated from China's urban management can be promoted to all over the country in the public service supply. It provides references for government policy.
+   Originality/value - This paper constructs a gridded management model for public service provision in urban and rural areas on the basis of an analysis of the plight of traditional model of public service provision, thus delivering the same standard of public service for both urban and rural areas through optimization of resource allocation without requiring more supply and fundamental change to the content of service.
+CR Aeschbach-Hertig W, 2012, NAT GEOSCI, V5, P853, DOI [10.1038/NGEO1617, 10.1038/ngeo1617]
+   Alcamo J, 2003, HYDROLOG SCI J, V48, P317, DOI 10.1623/hysj.48.3.317.45290
+   Alcott Emily, 2013, NATURAL ENG SOLUTION
+   Aus der Beek T., 2010, ADV GEOSCI, V27, P79
+   Balk D., 2009, GLOBAL MAPPING HUMAN, P145
+   Bartlett S, 2003, ENVIRON URBAN, V15, P57, DOI 10.1177/095624780301500220
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BGR UNESCO, 2008, GROUNDW RES WORLD
+   BHATIA R, 1993, WATER RESOURCE POLIC
+   Bradley RM, 2002, J AM WATER WORKS ASS, V94, P52
+   Brown RR, 2009, WATER SCI TECHNOL, V59, P847, DOI 10.2166/wst.2009.029
+   Chen R., 2015, SOCIALISM STUDIES
+   [陈述�? Chen Shupeng], 2002, [测绘科学, Science of surveying and mapping], V27, P1
+   Chi Z. R., 2008, SCI TECHNOLOGY PROGR, V1, P43
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P532, DOI 10.2307/258557
+   Ellram L., 1995, J BUSINESS LOGISTICS, V16, P41
+   Ellram L. M., 1996, J BUSINESS LOGISTICS, V15, P93
+   Erlandson D. A., 1993, DOING NATURALISTIC I
+   FALKENMARK M, 1992, POPUL BULL, V47, P2
+   FAO, 2013, AQUASTAT DAT FAO
+   Farr T. G., 2007, REV GEOPHYS, P45, DOI DOI 10.1029/2005RG000183
+   Fitzhugh TW, 2004, BIOSCIENCE, V54, P741, DOI 10.1641/0006-3568(2004)054[0741:QUTGCA]2.0.CO;2
+   Florke M, 2012, J WATER CLIM CHANGE, V3, P44, DOI 10.2166/wcc.2012.066
+   Florke M, 2013, GLOBAL ENVIRON CHANG, V23, P144, DOI 10.1016/j.gloenvcha.2012.10.018
+   Fountain JE, 2014, ROUT INT HANDB, P471
+   Giauque D, 2013, REV PUBLIC PERS ADM, V33, P58, DOI 10.1177/0734371X12443264
+   Gleeson T, 2012, NATURE, V488, P197, DOI 10.1038/nature11295
+   Gong Q., 2005, INFORM TECHNOLOGY, V2, P12
+   Goodness J., 2013, URBANIZATION BIODIVE
+   Han J. J., 2011, THEORY PRACTICE SEZS, V1, P71
+   Jane F. M., 2004, BUILDING VIRTUAL STA, P5
+   Jee Y. S., 2014, GROUP ORGAN MANAGE, V39, P190
+   Jiang A. L., 2013, SHANGHAI URBAN PLANN, V72, P45
+   Kaufman H. F., 1996, PERSPECTIVES AM COMM, P88
+   Kerns C. D., 2000, BUS HORIZONS, V43, P17
+   Kevin D. W., 2014, PUBLIC PERS MANAGE, V43, P240
+   Knemeyer M. A., 2001, INT J PHYS DISTRIB, V32, P455
+   Lederbogen F, 2011, NATURE, V474, P498, DOI 10.1038/nature10190
+   Lehner B, 2004, J HYDROL, V296, P1, DOI 10.1016/j.jhydrol.2004.03.028
+   LEHNER B, 2008, EOS T AGU, V89, P93, DOI DOI 10.1029/2008E0100001
+   Li P., 2014, URBAN STUD, V18, P23
+   Lindh G, 1974, AMBIO, V3, P114, DOI [10.2307/4312063, DOI 10.2307/4312063]
+   Llorens JJ, 2007, PUBLIC PERS MANAGE, V36, P207, DOI 10.1177/009102600703600303
+   Meine P. V., 2005, URBAN MANAGEMENT EME, P91
+   Paille P, 2013, REV PUBLIC PERS ADM, V33, P28, DOI 10.1177/0734371X11433881
+   Richard C., 2005, CITIZEN GOVERNANCE L, P4
+   Song G., 2005, URBAN MANAGEMENT SCI, V7, P105
+   Stephen G., 2008, MGOVERNING NETWORK N, P93
+   Tai D., 2014, J CHEM PHARM RES, V6, P1488
+   VASS AA, 1979, COMMUNITY DEV J, V14, P3, DOI 10.1093/cdj/14.1.3
+   Wan T. W., 2007, INFORM SCI, V3, P26
+   WANG X, 2006, SCI SURVEYING MAPPIN, V31, P117
+   Warren M., 1987, AM COMMUNITY, P241
+   Wei T. D., 2013, STUDY MODEL GRIDDED, P28
+   Wernle B., 2014, AUTOMOTIVE NEWS, V88, P4
+   Yang L. Z., 2015, GEOMATICS WORLD
+   Zhang Z. J., 2002, INFORM TECHNOLOGY CO, P23
+   Zhao Y. Y., 2013, STUDY URBAN SOCIAL G
+   [郑士�? Zheng Shiyuan], 2005, [系统工程, Systems Engineering], V23, P1
+   Zhou M. D., 2005, IMPLEMENTATION DATA
+   Zhu Q. W., 2012, J PUBLIC ADM JPA, V2
+   Zhu X. N., 2010, CHINESE PUBLIC ADM C, V9, P90
+NR 62
+TC 0
+Z9 0
+SN 2053-4620
+EI 1758-5538
+PY 2017
+VL 8
+IS 1
+BP 2
+EP 15
+DI 10.1108/JSTPM-08-2015-0026
+UT WOS:000399079600001
+ER

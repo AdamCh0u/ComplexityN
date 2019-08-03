@@ -1,0 +1,490 @@
+
+PT J
+AU Song, CM
+   Koren, T
+   Wang, P
+   Barabasi, AL
+AF Song, Chaoming
+   Koren, Tal
+   Wang, Pu
+   Barabasi, Albert-Laszlo
+TI Modelling the scaling properties of human mobility
+SO NATURE PHYSICS
+LA English
+DT Article
+ID RANDOM SEARCHES; LEVY FLIGHTS; RANDOM-WALKS; PATTERNS; DIFFUSION;
+   NETWORKS; PREDICTABILITY; EPIDEMICS; OUTBREAKS; DYNAMICS
+AB Individual human trajectories are characterized by fat-tailed distributions of jump sizes and waiting times, suggesting the relevance of continuous-time random-walk (CTRW) models for human mobility. However, human traces are barely random. Given the importance of human mobility, from epidemic modelling to traffic prediction and urban planning, we need quantitative models that can account for the statistical characteristics of individual human trajectories. Here we use empirical data on human mobility, captured by mobile-phone traces, to show that the predictions of the CTRW models are in systematic conflict with the empirical results. We introduce two principles that govern human trajectories, allowing us to build a statistically self-consistent microscopic model for individual human mobility. The model accounts for the empirically observed scaling laws, but also allows us to analytically predict most of the pertinent scaling exponents.
+C1 [Song, Chaoming; Koren, Tal; Wang, Pu; Barabasi, Albert-Laszlo] Northeastern Univ, Dept Phys Biol & Comp Sci, Ctr Complex Network Res, Boston, MA 02115 USA.
+   [Song, Chaoming; Koren, Tal; Wang, Pu; Barabasi, Albert-Laszlo] Dana Farber Canc Inst, Ctr Canc Syst Biol, Boston, MA 02115 USA.
+   [Barabasi, Albert-Laszlo] Harvard Univ, Brigham & Womens Hosp, Sch Med, Dept Med, Boston, MA 02115 USA.
+RP Song, CM (reprint author), Northeastern Univ, Dept Phys Biol & Comp Sci, Ctr Complex Network Res, Boston, MA 02115 USA.
+EM alb@neu.edu
+FU James S. McDonnell Foundation; NSF [DMR-0426737, IIS-0513650]; Defense
+   Threat Reduction Agency Award [HDTRA1-08-1-0027]; US Army Research
+   Laboratory [W911NF-09-2-0053]
+FX We thank M. Gonzales, D. Wang, J. Bagrow and Z. Qu for discussions and
+   continents on the manuscript. This work was supported by the James S.
+   McDonnell Foundation 21st Century Initiatite in Studying Complex
+   Systems; NSF within the Information Technology Research (DMR-0426737),
+   and IIS-0513650 programmes; the Defense Threat Reduction Agency Award
+   HDTRA1-08-1-0027 and the Network Science Collaborative Technology
+   Alliance sponsored by the US Army Research Laboratory under Agreement
+   Number W911NF-09-2-0053.
+CR Balcan D, 2009, BMC MED, V7, DOI 10.1186/1741-7015-7-45
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   ben-Avraham D, 2000, DIFFUSION REACTIONS
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Brown CT, 2007, HUM ECOL, V35, P129, DOI 10.1007/s10745-006-9083-4
+   Ciliberti S, 2000, PHYS REV LETT, V85, P4848, DOI 10.1103/PhysRevLett.85.4848
+   Colizza V, 2007, BMC MED, V5, DOI 10.1186/1741-7015-5-34
+   Drager J, 2000, PHYS REV LETT, V84, P5998, DOI 10.1103/PhysRevLett.84.5998
+   Eggenberger F, 1923, Z ANGEW MATH MECH, V3, P279, DOI 10.1002/zamm.19230030407
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Gabaix X, 2003, NATURE, V423, P267, DOI 10.1038/nature01624
+   GILLIS JE, 1970, J MATH PHYS, V11, P1307, DOI 10.1063/1.1665260
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Krings G, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/L07003
+   LARRALDE H, 1992, PHYS REV A, V45, P7128, DOI 10.1103/PhysRevA.45.7128
+   LARRALDE H, 1992, NATURE, V355, P423, DOI 10.1038/355423a0
+   Lomholt MA, 2008, P NATL ACAD SCI USA, V105, P11055, DOI 10.1073/pnas.0803117105
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   MANTEGNA RN, 1994, PHYS REV LETT, V73, P2946, DOI 10.1103/PhysRevLett.73.2946
+   Metzler R, 2000, PHYS REP, V339, P1, DOI 10.1016/S0370-1573(00)00070-3
+   MONTROLL EW, 1965, J MATH PHYS, V6, P167, DOI 10.1063/1.1704269
+   PRICE DJD, 1976, J AM SOC INFORM SCI, V27, P292, DOI 10.1002/asi.4630270505
+   Raposo EP, 2009, J PHYS A-MATH THEOR, V42, DOI 10.1088/1751-8113/42/43/434003
+   Ratti C, 2004, ENVIRON PLANN B, V31, P297, DOI 10.1068/b2665
+   Redner S., 2001, GUIDE 1 PASSAGE PROC
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Santos MC, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.061114
+   Schiessel H, 1997, PHYS REV E, V56, pR2390, DOI 10.1103/PhysRevE.56.R2390
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   SINAI YG, 1983, THEOR PROBAB APPL+, V27, P256, DOI 10.1137/1127028
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Toroczkai Z, 2007, PHYSICA A, V378, P68, DOI 10.1016/j.physa.2006.11.088
+   Vespignani A, 2009, SCIENCE, V325, P425, DOI 10.1126/science.1171990
+   Viswanathan GM, 2008, PHYS LIFE REV, V5, P133, DOI 10.1016/j.plrev.2008.03.002
+   Viswanathan GM, 1999, NATURE, V401, P911, DOI 10.1038/44831
+   Wang P, 2009, SCIENCE, V324, P1071, DOI 10.1126/science.1167053
+   WEISS G. H., 1994, ASPECTS APPL RANDOM
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+   Yuste SB, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.032101
+NR 40
+TC 405
+Z9 426
+U1 10
+U2 114
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1745-2473
+EI 1745-2481
+J9 NAT PHYS
+JI Nat. Phys.
+PD OCT
+PY 2010
+VL 6
+IS 10
+BP 818
+EP 823
+DI 10.1038/NPHYS1760
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA 672GC
+UT WOS:000283570000027
+HC Y
+HP N
+DA 2019-03-26
+ER
+
+PT J
+AU Lee, DI
+   You, CH
+   Jung, JW
+   Chang, KH
+   Kim, SY
+   Kim, K
+AF Lee, Dong-In
+   You, Cheol-Hwan
+   Jung, Jae-Won
+   Chang, Ki-Ho
+   Kim, Soo Yong
+   Kim, Kyungsik
+TI Multifractal Structures in Temperature and Humidity
+SO JOURNAL OF THE KOREAN PHYSICAL SOCIETY
+LA English
+DT Article
+DE Generalized Hurst exponent; Renyi exponent; Singularity spectrum;
+   Temperature; Humidity
+ID TIME-SERIES
+AB The multifractal structure of the temperature and the humidity is investigated in seven cities of Korea. For our cases, we estimate the generalized Hurst exponent, the Renyi exponent, and the singularity spectrum from tick data of the temperature and the humidity. We mainly discuss the different values of the scaling exponent characterizing the multifractality from the hourly data for thirty years. To analyze the multifractality of the temperature and the humidity; we compare the multifractal properties of seven cities (Gwangju, Mokpo, Busan, Seoul, Cholwon, Gangrung, and Sokcho) from our results and discuss the unusual statistical behavior of each city.
+C1 [Kim, Kyungsik] Pukyong Natl Univ, Dept Phys, Pusan 608737, South Korea.
+   [Lee, Dong-In; You, Cheol-Hwan] Pukyong Natl Univ, Dept Environm Atmospher Sci, Pusan 608737, South Korea.
+   [Jung, Jae-Won; Chang, Ki-Ho] Natl Inst Meteorol Res, Seoul 156720, South Korea.
+   [Kim, Soo Yong] Korea Adv Inst Sci & Technol, Dept Phys, Taejon 305701, South Korea.
+RP Kim, K (reprint author), Pukyong Natl Univ, Dept Phys, Pusan 608737, South Korea.
+EM kskim@pknu.ac.kr
+RI Kim, Soo Yong/C-1944-2011
+FU Korea government(MEST) [2009-0074635]; Korea Foundation for
+   International Cooperation of Science & Technology (KICOS) through Korean
+   Ministry of Education, Science & Technology (MEST) [K20607010000]
+FX This work was supported by the Korea Research Foundation(KRF) grant
+   funded by the Korea government(MEST)(No.2009-0074635) and by the Korea
+   Foundation for International Cooperation of Science & Technology (KICOS)
+   through a grant provided by the Korean Ministry of Education, Science &
+   Technology (MEST) in 2009 (No.K20607010000).
+CR HALSEY TC, 1986, PHYS REV A, V33, P1141, DOI 10.1103/PhysRevA.33.1141
+   Hu K, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.011114
+   Jiang ZQ, 2008, PHYSICA A, V387, P4881, DOI 10.1016/j.physa.2008.04.028
+   Jiang ZQ, 2008, PHYSICA A, V387, P3605, DOI 10.1016/j.physa.2008.02.015
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   Kim JS, 2008, J KOREAN PHYS SOC, V52, P350, DOI 10.3938/jkps.52.350
+   Kim SH, 2009, J KOREAN PHYS SOC, V54, P809, DOI 10.3938/jkps.54.809
+   Lee DI, 2009, J KOREAN PHYS SOC, V55, P2344, DOI 10.3938/jkps.55.2344
+   Lee KE, 2007, J KOREAN PHYS SOC, V50, P178
+   Lee SG, 2008, J KOREAN PHYS SOC, V52, pS209
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   MUZY JF, 1991, PHYS REV LETT, V67, P3515, DOI 10.1103/PhysRevLett.67.3515
+   Norouzzadeh P, 2006, PHYSICA A, V367, P328, DOI 10.1016/j.physa.2005.11.019
+   PALADIN G, 1987, PHYS REP, V156, P147, DOI 10.1016/0370-1573(87)90110-4
+   Parasi G., 1988, P INT SCH TURB PRED
+   Tessier Y., 1996, J GEOPHYS RES, V31D, P427, DOI DOI 10.1029/96JD01799
+   THEILER J, 1992, PHYSICA D, V58, P77, DOI 10.1016/0167-2789(92)90102-S
+   VICSEK T, 1988, FRACTAL GROWTH PHENO
+NR 18
+TC 5
+Z9 5
+U1 0
+U2 0
+PU KOREAN PHYSICAL SOC
+PI SEOUL
+PA 635-4, YUKSAM-DONG, KANGNAM-KU, SEOUL 135-703, SOUTH KOREA
+SN 0374-4884
+EI 1976-8524
+J9 J KOREAN PHYS SOC
+JI J. Korean Phys. Soc.
+PD AUG
+PY 2010
+VL 57
+IS 2
+BP 296
+EP 299
+DI 10.3938/jkps.57.296
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 640BS
+UT WOS:000281022800015
+DA 2019-03-26
+ER
+
+PT J
+AU Bettencourt, LMA
+   Lobo, J
+   Strumsky, D
+   West, GB
+AF Bettencourt, Luis M. A.
+   Lobo, Jose
+   Strumsky, Deborah
+   West, Geoffrey B.
+TI Urban Scaling and Its Deviations: Revealing the Structure of Wealth,
+   Innovation and Crime across Cities
+SO PLOS ONE
+LA English
+DT Article
+ID INCREASING RETURNS; CITY SIZE; LIFE; PRODUCTIVITY; GROWTH
+AB With urban population increasing dramatically worldwide, cities are playing an increasingly critical role in human societies and the sustainability of the planet. An obstacle to effective policy is the lack of meaningful urban metrics based on a quantitative understanding of cities. Typically, linear per capita indicators are used to characterize and rank cities. However, these implicitly ignore the fundamental role of nonlinear agglomeration integral to the life history of cities. As such, per capita indicators conflate general nonlinear effects, common to all cities, with local dynamics, specific to each city, failing to provide direct measures of the impact of local events and policy. Agglomeration nonlinearities are explicitly manifested by the superlinear power law scaling of most urban socioeconomic indicators with population size, all with similar exponents (similar to 1.15). As a result larger cities are disproportionally the centers of innovation, wealth and crime, all to approximately the same degree. We use these general urban laws to develop new urban metrics that disentangle dynamics at different scales and provide true measures of local urban performance. New rankings of cities and a novel and simpler perspective on urban systems emerge. We find that local urban dynamics display long-term memory, so cities under or outperforming their size expectation maintain such (dis)advantage for decades. Spatiotemporal correlation analyses reveal a novel functional taxonomy of U. S. metropolitan areas that is generally not organized geographically but based instead on common local economic models, innovation strategies and patterns of crime.
+C1 [Bettencourt, Luis M. A.; West, Geoffrey B.] Los Alamos Natl Lab, Div Theoret, Los Alamos, NM USA.
+   [Bettencourt, Luis M. A.; West, Geoffrey B.] Los Alamos Natl Lab, CNLS, Los Alamos, NM USA.
+   [Bettencourt, Luis M. A.; West, Geoffrey B.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Lobo, Jose] Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ USA.
+   [Lobo, Jose] Arizona State Univ, WP Carey Sch Business, Tempe, AZ USA.
+   [Strumsky, Deborah] Univ N Carolina, Dept Geog & Earth Sci, Charlotte, NC 28223 USA.
+RP Bettencourt, LMA (reprint author), Los Alamos Natl Lab, Div Theoret, Los Alamos, NM USA.
+EM lmbett@lanl.gov
+RI Strumsky, Deborah/F-5795-2013
+FU James S. McDonnell Foundation 21st Century Science Initiative;
+   Rockefeller Foundation; National Science Foundation [CBET-0939958, PHY
+   0202180]; Los Alamos National Laboratory
+FX This work was partially supported by a James S. McDonnell Foundation
+   21st Century Science Initiative in Studying Complex Systems Research
+   Award (http://www.jsmf.org/programs/cs/), the Rockefeller Foundation
+   (http://www.rockefellerfoundation.org/), the National Science Foundation
+   grants CBET-0939958 and PHY 0202180, and the Los Alamos National
+   Laboratory Laboratory Directed Research and Development (LDRD) program
+   (http://www.lanl.gov/science/ldrd/). The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Anderson RM, 1992, INFECT DIS HUMANS
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Ash C, 2008, SCIENCE, V319, P739, DOI 10.1126/science.319.5864.739
+   Bairoch P, 1991, CITIES EC DEV DAWN H
+   Barenblatt G. I, 2003, SCALING
+   Batty M., 2007, CITIES COMPLEXITY UN
+   BATTY M, 2009, ENVIRON PLANN A, V8, P189
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bogart William T., 1998, EC CITIES SUBURBS
+   Breschi S, 2001, IND CORP CHANGE, V10, P975, DOI DOI 10.1093/ICC/10.4.975
+   Carneiro RL, 2000, P NATL ACAD SCI USA, V97, P12926, DOI 10.1073/pnas.240462397
+   CHOWELL G, 1999, PHYS REV E, V68
+   CHRISTALLER W, 1933, ZENTRALEN ORTE DDEUT
+   Duranton G, 2007, AM ECON REV, V97, P197, DOI 10.1257/aer.97.1.197
+   Enquist BJ, 2009, P NATL ACAD SCI USA, V106, P7046, DOI 10.1073/pnas.0812303106
+   *FBI, FBIS UN CRIM REP
+   Feldman MP, 1999, EUR ECON REV, V43, P409, DOI 10.1016/S0014-2921(98)00047-6
+   FISCHER CS, 1992, DWELL FRIENDS PERSON
+   Florida R. L., 2004, CITIES CREATIVE CLAS
+   Fujita M, 2001, SPATIAL EC CITIES RE
+   Glaeser EL, 2009, J ECON LIT, V47, P983, DOI 10.1257/jel.47.4.983
+   Glaeser Edward L., 2007, 13710 NBER
+   Glaeser EL, 1999, J POLIT ECON, V107, pS225, DOI 10.1086/250109
+   Gottdiener M., 2010, NEW URBAN SOCIOLOGY
+   Hall P. G., 1998, CITIES CIVILIZATION
+   Henderson J. V., 1988, URBAN DEV THEORY FAC
+   Henderson V.J., 2007, REGIONAL SCI URBAN E, V37, P497
+   Hou C, 2010, P NATL ACAD SCI USA, V107, P3634, DOI 10.1073/pnas.0908071107
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   KRUGMAN P, 1991, J POLIT ECON, V99, P483, DOI 10.1086/261763
+   Losch A, 1940, EC LOCATION
+   May RM, 2000, SCIENCE, V290, P2084, DOI 10.1126/science.290.5499.2084
+   MOOMAW RL, 1981, Q J ECON, V96, P675, DOI 10.2307/1880747
+   Mumford L, 1961, CITY HIST ITS ORIGIN
+   *NAT RES COUNC NAT, 2008, UND CRIM TRENDS WORK
+   NEWMAN MEJ, 2005, STRUCTURE DYNAMICS N
+   PUGA D, 2004, HDB REGIONAL URBAN E, P2063
+   SAMANIEGO H, 2009, J TRANSP LAND USE, V1, P21
+   SEGAL D, 1976, REV ECON STAT, V58, P339, DOI 10.2307/1924956
+   Soo KT, 2005, REG SCI URBAN ECON, V35, P239, DOI 10.1016/j.regsciurbeco.2004.04.004
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   UNHABITAT-2009, 2009, STAT WORLDS CIT 2008
+   *US BUR EC AN, GMP INC WAG
+   Waters JS, 2010, AM NAT, V176, P501, DOI 10.1086/656266
+   Wellman B, 1999, NETWORKS GLOBAL VILL
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+NR 50
+TC 143
+Z9 144
+U1 4
+U2 85
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 185 BERRY ST, STE 1300, SAN FRANCISCO, CA 94107 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 10
+PY 2010
+VL 5
+IS 11
+AR e13541
+DI 10.1371/journal.pone.0013541
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 677ZN
+UT WOS:000284036800004
+PM 21085659
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Jenkins, MW
+   Cairncross, S
+AF Jenkins, Marion W.
+   Cairncross, Sandy
+TI Modelling latrine diffusion in Benin: towards a community typology of
+   demand for improved sanitation in developing countries
+SO JOURNAL OF WATER AND HEALTH
+LA English
+DT Article
+DE Africa; behavior change; cluster analysis; innovation adoption;
+   latrines; spatial analysis
+ID HYGIENE
+AB Latrine diffusion patterns across 502 villages in Benin, West Africa, were analysed to explore factors driving initial and increasing levels of household adoption in low-coverage rural areas of sub-Saharan Africa. Variables explaining adoption related to population density, size, infrastructure/services, non-agricultural occupations, road and urban proximity, and the nearby latrine adoption rate, capturing differences in the physical and social environment, lifestyles and latrine exposure involved in stimulating status/prestige and well-being reasons for latrine adoption. Contagion was most important in explaining adoption initiation. Cluster analysis revealed four distinct village typologies of demand for latrines which provide a framework for tailoring promotional interventions to better match the different sanitation demand characteristics of communities in scaling-up sanitation development and promotion programmes.
+C1 [Jenkins, Marion W.] Univ Calif Davis, Dept Civil & Environm Engn, Davis, CA 95616 USA.
+   [Cairncross, Sandy] Univ London London Sch Hyg & Trop Med, Dis Control & Vector Biol Unit, London WC1E 7HT, England.
+RP Jenkins, MW (reprint author), Univ Calif Davis, Dept Civil & Environm Engn, 1 Shields Ave, Davis, CA 95616 USA.
+EM mwjenkins@ucdavis.edu; sandy.cairncross@lshtm.ac.uk
+CR ALIHOUNOU E, 1995, PROJET RECHERCHE OPE
+   Ben-Akiva ME, 1985, DISCRETE CHOICE ANAL
+   BRISCOE J, 1993, WORLD BANK RES OBSER, V8, P47
+   Cairncross S, 1996, TROP MED INT HEALTH, V1, P27, DOI 10.1046/j.1365-3156.1996.d01-9.x
+   Cairncross S., 1992, WATER SANITATION DIS, V9
+   CAIRNCROSS S, 2004, SANITATION HYGIENE S
+   CURTIS V, 1995, SOC SCI MED, V41, P383, DOI 10.1016/0277-9536(94)00341-P
+   Frias J, 2005, HARNESSING MARKET PO
+   GATIGNON H, 1985, J CONSUM RES, V11, P849, DOI 10.1086/209021
+   Hosmer D, 1989, APPL LOGISTIC REGRES
+   INSAE (Institut National de la Statistique et de l'Analyse Economique), 1992, DEUX REC GEN POP HAB
+   Jenkins M. W., 2006, RETHINKING SANITATIO
+   Jenkins M.W., 2004, SANITATION HYGIENE S
+   Jenkins MW, 2007, SOC SCI MED, V64, P2427, DOI 10.1016/j.socscimed.2007.03.010
+   Jenkins MW, 2005, SOC SCI MED, V61, P2446, DOI 10.1016/j.socscimed.2005.04.036
+   KAMUZORA CL, 2001, 24 IUSSP GEN POP C S
+   KAR K, 2003, 184 IDS
+   LAFOND AK, 1995, 5 EHP US AG INT DEV
+   LORR M, 1987, CLUSTER ANAL SOCIAL
+   MORRILL RL, 1979, SPATIAL ORDER INTRO
+   Neter J, 1990, APPL LINEAR STAT MOD
+   Norusis M. J., 1994, SPSS PROFESSIONAL ST
+   O'Loughlin R, 2006, TROP MED INT HEALTH, V11, P1406, DOI 10.1111/j.1365-3156.2006.01689.x
+   Rogers E. M., 1983, DIFFUSION INNOVATION
+   SIMPSONHEBERT M, 1997, PARTICIPATORY HYGIEN
+   *UNICEF, 1997, BETT SAN PROGR UNICE
+   Waterkeyn J, 2005, SOC SCI MED, V61, P1958, DOI 10.1016/j.socsimed.2005.04.012
+   *WELL, 1999, DFID GUID MAN WAT SA
+   WRIGHT A, 1997, STRATEGIC SANITATION
+NR 29
+TC 19
+Z9 19
+U1 0
+U2 17
+PU I W A PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 1477-8920
+J9 J WATER HEALTH
+JI J. Water Health
+PY 2010
+VL 8
+IS 1
+BP 166
+EP 183
+DI 10.2166/wh.2009.111
+PG 18
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Microbiology; Water Resources
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Microbiology; Water Resources
+GA 565QZ
+UT WOS:000275310700018
+PM 20009259
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Corominas-Murtra, B
+   Sole, RV
+AF Corominas-Murtra, Bernat
+   Sole, Ricard V.
+TI Universality of Zipf's law
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID SELF-ORGANIZED CRITICALITY; ALGORITHMIC COMPLEXITY; STOCHASTIC-SYSTEMS;
+   INFORMATION-THEORY; URBAN-DEVELOPMENT; POWER LAWS; 1/F NOISE;
+   DISTRIBUTIONS; PATTERNS; GROWTH
+AB Zipf's law is the most common statistical distribution displaying scaling behavior. Cities, populations or firms are just examples of this seemingly universal law. Although many different models have been proposed, no general theoretical explanation has been shown to exist for its universality. Here, we show that Zipf's law is, in fact, an inevitable outcome of a very general class of stochastic systems. Borrowing concepts from Algorithmic Information Theory, our derivation is based on the properties of the symbolic sequence obtained through successive observations over a system with an ubounded number of possible states. Specifically, we assume that the complexity of the description of the system provided by the sequence of observations is the one expected for a system evolving to a stable state between order and disorder. This result is obtained from a small set of mild, physically relevant assumptions. The general nature of our derivation and its model-free basis would explain the ubiquity of such a law in real systems.
+C1 [Corominas-Murtra, Bernat; Sole, Ricard V.] Univ Pompeu Fabra, ICREA Complex Syst Lab, Barcelona 08003, Spain.
+   [Sole, Ricard V.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Sole, Ricard V.] UPF, CSIC, Inst Biol Evolut, Barcelona 08003, Spain.
+RP Corominas-Murtra, B (reprint author), Univ Pompeu Fabra, ICREA Complex Syst Lab, Parc Recerca Biomed Barcelona Dr,Aiguader 80, Barcelona 08003, Spain.
+RI Sole, Ricard/I-3379-2015
+FU McDonnell Foundation; Santa Fe Institute; ICREA
+FX We thank D. Jou, S. Manrubia, J. Fortuny, and our colleagues at the
+   Complex Systems Lab for their useful comments. We also acknowledge the
+   helpful comments provided by the anonymous referees. This work has been
+   founded by the McDonnell Foundation (B.C.M.) and by the Santa Fe
+   Institute (R.S.).
+CR Abramowitz M., 1965, HDB MATH FUNCTIONS, V55
+   ADAMI C, 1999, INTRO ARTIFICIAL LIF
+   Amaral LAN, 1998, PHYS REV LETT, V80, P1385, DOI 10.1103/PhysRevLett.80.1385
+   ARTHUR BW, 1996, INCREASING RETURNS P
+   Ash R. B., 1990, INFORM THEORY
+   Auerbach F, 1913, PETERMANNS MITT, V59, P74
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   BAK P, 1987, PHYS REV LETT, V59, P381, DOI 10.1103/PhysRevLett.59.381
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   Cancho RFI, 2003, P NATL ACAD SCI USA, V100, P788, DOI 10.1073/pnas.0335980100
+   CHAITIN GJ, 1975, J ACM, V22, P329, DOI 10.1145/321892.321894
+   CHAITIN GJ, 1966, J ACM, V13, P547, DOI 10.1145/321356.321363
+   Cover T. M., 1991, ELEMENTS INFORM THEO
+   Decker EH, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000934
+   Dewey TG, 1996, PHYS REV E, V54, pR39, DOI 10.1103/PhysRevE.54.R39
+   EBELING W, 1991, EUROPHYS LETT, V14, P191, DOI 10.1209/0295-5075/14/3/001
+   EBELING W, 1993, PHYSICA A, V194, P563, DOI 10.1016/0378-4371(93)90386-I
+   FAMILY F, 1989, PHYS REV A, V40, P3836, DOI 10.1103/PhysRevA.40.3836
+   Ferrer i Cancho R., 2002, ADV COMPLEX SYST, V5, P1, DOI DOI 10.1142/S0219525902000468
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 2003, NATURE, V423, P267, DOI 10.1038/nature01624
+   Grunwald P. D., 2003, Journal of Logic, Language and Information, V12, P497, DOI 10.1023/A:1025011119492
+   Grunwald PD, 2008, HBK PHILOS SCI, V8, P281, DOI 10.1016/B978-0-444-51726-5.50013-3
+   Haken H., 1978, SPRINGER SERIES SYNE
+   Harremoes P., 2001, ENTROPY, V3, P191, DOI [DOI 10.3390/E3030191, 10.3390/e3030191]
+   Hernando A, 2009, PHYS LETT A, V374, P18, DOI 10.1016/j.physleta.2009.10.027
+   Huang ZF, 2001, EUR PHYS J B, V20, P601, DOI 10.1007/PL00011114
+   JAYNES ET, 1957, PHYS REV, V106, P620, DOI 10.1103/PhysRev.106.620
+   Jones D. S., 1979, ELEMENTARY INFORM TH
+   Kapur J., 1989, MAXIMUM ENTROPY MODE
+   KASPAR F, 1987, PHYS REV A, V36, P842, DOI 10.1103/PhysRevA.36.842
+   Kawamura K, 2002, J PHYS SOC JPN, V71, P1211, DOI 10.1143/JPSJ.71.1211
+   Kolmogorov A.N., 1965, Problems of Information Transmission, V1, P1
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Krugman P. R, 1996, SELF ORG EC
+   LI WT, 1992, IEEE T INFORM THEORY, V38, P1842, DOI 10.1109/18.165464
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Malcai O, 1999, PHYS REV E, V60, P1299, DOI 10.1103/PhysRevE.60.1299
+   Manrubia SC, 1999, FRACTALS, V7, P1, DOI 10.1142/S0218348X99000025
+   Manrubia SC, 1998, PHYS REV E, V58, P295, DOI 10.1103/PhysRevE.58.295
+   Ming L., 1997, INTRO KOLMOGOROV COM
+   MONTROLL EW, 1982, P NATL ACAD SCI USA, V79, P3380, DOI 10.1073/pnas.79.10.3380
+   Newman M. E. J., 2003, MODELLING EXTINCTION
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Newman MEJ, 1996, PHYS REV E, V54, P6226, DOI 10.1103/PhysRevE.54.6226
+   NICOLIS JS, 1986, REP PROG PHYS, V49, P1109, DOI 10.1088/0034-4885/49/10/002
+   Okuyama K, 1999, PHYSICA A, V269, P125, DOI 10.1016/S0378-4371(99)00086-2
+   Pareto V., 1896, COURS EC POLITIQUE
+   Pathria R. K., 1996, STAT MECH
+   Perline R, 1996, PHYS REV E, V54, P220, DOI 10.1103/PhysRevE.54.220
+   Reed WJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.067103
+   ROZMAN G, 1990, E ASIAN URBANIZATION, P61
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Sole RV, 1996, PHYS REV E, V54, pR42, DOI 10.1103/PhysRevE.54.R42
+   SOLE RV, 2001, SIGNS LIFE COMPLEXIT
+   Solomon S, 1996, INT J MOD PHYS C, V7, P745, DOI 10.1142/S0129183196000624
+   SOLOMONOFF RJ, 1964, INFORM CONTROL, V7, P1, DOI 10.1016/S0019-9958(64)90223-2
+   Stanley HE, 1999, REV MOD PHYS, V71, pS358, DOI 10.1103/RevModPhys.71.S358
+   Stanley HE, 2000, PHYSICA A, V281, P60, DOI 10.1016/S0378-4371(00)00195-3
+   WHITE WH, 1982, J COLLOID INTERF SCI, V87, P204, DOI 10.1016/0021-9797(82)90382-4
+   Zanette DH, 1997, PHYS REV LETT, V79, P523, DOI 10.1103/PhysRevLett.79.523
+   Zanette DH, 2001, PHYSICA A, V295, P1, DOI 10.1016/S0378-4371(01)00046-2
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+   ZUREK WH, 1989, NATURE, V341, P119, DOI 10.1038/341119a0
+NR 65
+TC 34
+Z9 34
+U1 0
+U2 6
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD JUL 1
+PY 2010
+VL 82
+IS 1
+AR 011102
+DI 10.1103/PhysRevE.82.011102
+PN 1
+PG 9
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 620BZ
+UT WOS:000279475300002
+PM 20866560
+OA Green Published
+DA 2019-03-26
+ER

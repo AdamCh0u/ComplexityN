@@ -1,0 +1,455 @@
+
+PT J
+AU Khoshnevis, B
+   Yu, W
+   Lostanlen, Y
+AF Khoshnevis, Behrouz
+   Yu, Wei
+   Lostanlen, Yves
+TI Two-Stage Channel Quantization for Scheduling and Beamforming in Network
+   MIMO Systems: Feedback Design and Scaling Laws
+SO IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS
+LA English
+DT Article
+DE Beamforming; channel quantization and feedback; coordinated multipoint
+   (CoMP); limited-feedback systems; multi-input multi-output (MIMO);
+   multiuser MIMO; network MIMO; scheduling
+ID LIMITED FEEDBACK; OPPORTUNISTIC FEEDBACK; BROADCAST CHANNELS;
+   RESOURCE-ALLOCATION; MULTIUSER DIVERSITY; PERFORMANCE; SELECTION;
+   CAPACITY; OFDM
+AB This paper proposes an efficient two-stage channel quantization and feedback scheme for the downlink limited-feedback network multiple-input multiple-output (MIMO) system. In the first stage, the users report their best set of base-station antenna and physical resource block combinations, and the base-stations schedule the best user for each antenna in each resource block. The scheduled users are then polled in the second stage to feedback their quantized channel vectors. This paper proposes an analytical framework to show that, under a total feedback budget of B bits, the number of bits assigned to the second feedback stage should scale as log B, and in quantizing channel vectors from different base-stations, each user should allocate feedback bits in proportion to the channel magnitudes in dB scale. Under these optimized bit allocations, the overall sum rate of the system is shown to scale double-logarithmically with B, linearly with the total number of antennas, and logarithmically with transmit power, thus achieving both multiuser diversity and spatial multiplexing gains under limited feedback. Finally, realistic wireless propagation model of an urban small-cell deployment is used to show that the proposed scheme can approach the performance of a network MIMO system with full channel state information with only modest amount of channel feedback.
+C1 [Khoshnevis, Behrouz; Yu, Wei] Univ Toronto, Edward S Rogers Sr Dept Elect & Comp Engn, Toronto, ON M5S 3G4, Canada.
+   [Lostanlen, Yves] SIRADEL Canada, Toronto, ON M4P 1E2, Canada.
+RP Khoshnevis, B (reprint author), Univ Toronto, Edward S Rogers Sr Dept Elect & Comp Engn, 10 Kings Coll Rd, Toronto, ON M5S 3G4, Canada.
+EM bkhoshnevis@comm.utoronto.ca; weiyu@comm.utoronto.ca;
+   yves.lostanlen@ieee.org
+FU MITACS Elevate program; SIRADEL Canada
+FX Materials in this paper have been presented in part at IEEE Global
+   Communications Conference (Globecom), Houston, TX, U.S.A., Dec 2011, in
+   part at IEEE International Conference on Communications (ICC), Ottawa,
+   Canada, June 2012, and in part at IEEE Workshop on Signal Processing
+   Advances for Wireless Communications (SPAWC), Cesme, Turkey, June 2012.
+   This work was supported by the MITACS Elevate program and by SIRADEL
+   Canada.
+CR Agarwal R, 2007, IEEE VTS VEH TECHNOL, P606, DOI 10.1109/VETECF.2007.137
+   Agarwal R, 2008, IEEE J SEL AREA COMM, V26, P1462, DOI 10.1109/JSAC.2008.081012
+   Bhagavatula R., 2011, IEEE T SIGNAL PROCES, V59, P808
+   Bhagavatula R, 2011, IEEE T SIGNAL PROCES, V59, P3824, DOI 10.1109/TSP.2011.2146777
+   Caire G., 2010, INF THEOR APPL WORKS, VII, P803
+   Chen JY, 2008, IEEE J SEL AREA COMM, V26, P1451, DOI 10.1109/JSAC.2008.081011
+   Choi J, 2005, IEEE T SIGNAL PROCES, V53, P4125, DOI 10.1109/TSP.2005.857019
+   Corre Y, 2009, IEEE T VEH TECHNOL, V58, P3112, DOI 10.1109/TVT.2009.2016973
+   Gesbert D, 2010, IEEE J SEL AREA COMM, V28, P1380, DOI 10.1109/JSAC.2010.101202
+   Huang K, 2007, IEEE T SIGNAL PROCES, V55, P3879, DOI 10.1109/TSP.2007.894245
+   Huang K, 2009, IEEE T VEH TECHNOL, V58, P152, DOI 10.1109/TVT.2008.925003
+   Jindal N, 2006, IEEE T INFORM THEORY, V52, P5045, DOI 10.1109/TIT.2006.883550
+   Khoshnevis B, 2012, IEEE T SIGNAL PROCES, V60, P367, DOI 10.1109/TSP.2011.2169250
+   Khoshnevis B, 2011, IEEE T SIGNAL PROCES, V59, P2270, DOI 10.1109/TSP.2011.2113178
+   Kim J. S., 2005, P IEEE INT WORKSH SI, P855
+   Lau A. P. T., 2007, IEEE T INFORM THEORY, V53, P2072
+   Lee J. H., 2013, IEEE T WIRE IN PRESS
+   Leinonen J, 2009, IEEE T WIREL COMMUN, V8, P2927, DOI 10.1109/TWC.2009.071374
+   Pande T, 2007, IEEE T SIGNAL PROCES, V55, P2284, DOI 10.1109/TSP.2006.890936
+   Ravindran N, 2008, IEEE ICC, P3684, DOI 10.1109/ICC.2008.693
+   Sharif M, 2005, IEEE T INFORM THEORY, V51, P506, DOI 10.1109/TIT.2004.840897
+   So J, 2009, IEEE T VEH TECHNOL, V58, P4909, DOI 10.1109/TVT.2009.2024019
+   Tang TW, 2007, IEEE T COMMUN, V55, P1020, DOI 10.1109/TCOMM.2007.896013
+   Yoo T, 2007, IEEE J SEL AREA COMM, V25, P1478, DOI [10.1109/JSAC.2007.070920, 10.1109/JSAC.2007.070920.]
+   Zakhour R., 2007, P IEEE INT S PERS IN
+   Zhang J, 2011, IEEE T COMMUN, V59, P803, DOI 10.1109/TCOMM.2011.121410.100144
+NR 26
+TC 14
+Z9 14
+U1 0
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0733-8716
+J9 IEEE J SEL AREA COMM
+JI IEEE J. Sel. Areas Commun.
+PD OCT
+PY 2013
+VL 31
+IS 10
+BP 2028
+EP 2042
+DI 10.1109/JSAC.2013.131006
+PG 15
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA 224IM
+UT WOS:000324877200006
+DA 2019-03-26
+ER
+
+PT J
+AU Gallotti, R
+   Bazzani, A
+   Degli Esposti, M
+   Rambaldi, S
+AF Gallotti, Riccardo
+   Bazzani, Armando
+   Degli Esposti, Mirko
+   Rambaldi, Sandro
+TI Entropic measures of individual mobility patterns
+SO JOURNAL OF STATISTICAL MECHANICS-THEORY AND EXPERIMENT
+LA English
+DT Article
+DE scaling in socio-economic systems; socio-economic networks; stochastic
+   processes
+ID HUMAN TRAVEL; BEHAVIOR; LAWS
+AB Understanding human mobility from a microscopic point of view may represent a fundamental breakthrough for the development of a statistical physics for cognitive systems and it can shed light on the applicability of macroscopic statistical laws for social systems. Even if the complexity of individual behaviors prevents a true microscopic approach, the introduction of mesoscopic models allows the study of the dynamical properties for the non-stationary states of the considered system. We propose to compute various entropy measures of the individual mobility patterns obtained from GPS data that record the movements of private vehicles in the Florence district, in order to point out new features of human mobility related to the use of time and space and to define the dynamical properties of a stochastic model that could generate similar patterns. Moreover, we can relate the predictability properties of human mobility to the distribution of time passed between two successive trips. Our analysis suggests the existence of a hierarchical structure in the mobility patterns which divides the performed activities into three different categories, according to the time cost, with different information contents. We show that a Markov process defined by using the individual mobility network is not able to reproduce this hierarchy, which seems the consequence of different strategies in the activity choice. Our results could contribute to the development of governance policies for a sustainable mobility in modern cities.
+C1 [Gallotti, Riccardo; Bazzani, Armando; Rambaldi, Sandro] Univ Bologna, Dept Phys, I-40126 Bologna, Italy.
+   [Gallotti, Riccardo; Bazzani, Armando; Rambaldi, Sandro] Ist Nazl Fis Nucl, Sez Bologna, Milan, Italy.
+   [Degli Esposti, Mirko] Univ Bologna, Dept Math, I-40126 Bologna, Italy.
+RP Gallotti, R (reprint author), Univ Bologna, Dept Phys, I-40126 Bologna, Italy.
+EM rgallotti@gmail.com; armando.bazzani@bo.infn.it;
+   mirko.degliesposti@unibi.it; sandro.rambaldi@bo.infn.it
+RI Gallotti, Riccardo/B-6339-2013
+OI Gallotti, Riccardo/0000-0002-8088-1973; RAMBALDI,
+   SANDRO/0000-0002-2185-9127
+FU MIUR, Italy [2008T3HFT9_002]
+FX This work has been partially supported by the PRIN-project
+   2008T3HFT9_002 (MIUR, Italy). We thank Octo Telematics S.p.A. for the
+   access to the GPS data base.
+CR Bagrow JP, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037676
+   Bazzani A, 2010, J STAT MECH
+   Benenson I, 2008, COMPUT ENVIRON URBAN, V32, P431, DOI 10.1016/j.compenvurbsys.2008.09.011
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Cover T. M., 2006, ELEMENTS INFORM THEO
+   Gallotti R, 2012, INT J MOD PHYS C, V23, DOI [10.1142/S0129183112500611, DOI 10.1142/S0129183112500611]
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hasan S, 2012, J STAT PHYS, V151, P304, DOI DOI 10.1007/S10955-012-0645-0
+   Kolbl R, 2003, NEW J PHYS, V5, DOI 10.1088/1367-2630/5/1/348
+   Liang X, 2012, PHYSICA A, V391, P2135, DOI 10.1016/j.physa.2011.11.035
+   Newman ME, 2003, SIAM REV, V45, P67
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Phithakkitnukoon S, 2010, LECT NOTES COMPUT SC, V6219, P14, DOI 10.1007/978-3-642-14715-9_3
+   Proekt A, 2012, P NATL ACAD SCI USA, V109, P10564, DOI 10.1073/pnas.1206894109
+   Roth C., 2011, PLOS ONE, V6
+   Schneider C M, 2013, J R SOC INTERFACE, V10
+   Schonfelder S, 2004, ARBEITSBERICHT VERKE, V258
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Vespignani A, 2012, NAT PHYS, V8, P32
+   Zhou T., 2008, SCI MATTERS HUMANITI, P207
+NR 21
+TC 5
+Z9 6
+U1 1
+U2 8
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1742-5468
+J9 J STAT MECH-THEORY E
+JI J. Stat. Mech.-Theory Exp.
+PD OCT
+PY 2013
+AR P10022
+DI 10.1088/1742-5468/2013/10/P10022
+PG 19
+WC Mechanics; Physics, Mathematical
+SC Mechanics; Physics
+GA 250QW
+UT WOS:000326869000023
+DA 2019-03-26
+ER
+
+PT J
+AU Ostwald, MJ
+AF Ostwald, Michael J.
+TI The fractal analysis of architecture: calibrating the box-counting
+   method using scaling coefficient and grid disposition variables
+SO ENVIRONMENT AND PLANNING B-PLANNING & DESIGN
+LA English
+DT Article
+DE fractal analysis; box-counting method; architectural analysis; visual
+   complexity
+ID DIMENSION; IMAGES; IMPLEMENTATION; COMPLEXITY; ALGORITHM; GROWTH
+AB Since the mid-1990s architectural researchers have used the box-counting method to calculate the fractal dimension of a range of buildings and urban forms. While this approach has been widely adopted, there has been little consistency in how the multiple variables in the method have been applied. Furthermore, despite precedents in the sciences, no attempt has been made in architectural or urban analysis to use these parameters to calibrate or refine the method. In this paper the computational version of the box-counting approach is presented along with its methodological variables. Thereafter, nine mathematical fractals with known dimensions are tested using this method to identify the optimal approach to the scaling coefficient and grid disposition variables. Finally, using these new settings, two classic architectural test cases are reexamined: Robie House and the Villa Savoye.
+C1 Univ Newcastle, Sch Architecture & Built Environm, Callaghan, NSW 2308, Australia.
+RP Ostwald, MJ (reprint author), Univ Newcastle, Sch Architecture & Built Environm, Univ Dr, Callaghan, NSW 2308, Australia.
+EM Michael.Ostwald@newcastle.edu.au
+OI Ostwald, Michael/0000-0001-6210-6984
+CR Alber M, 1998, PHYS REV E, V57, P5489, DOI 10.1103/PhysRevE.57.5489
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Bechhoefer W, 1997, WORKING PAPER SERIES, V97
+   Bechhoefer W., 1994, WORKING PAPER SERIES, V61, P1
+   Ben Hamouche M, 2009, NEXUS NETW J, V11, P217, DOI 10.1007/s00004-008-0088-8
+   Blenkinsop TG, 1999, GEOL SOC SPEC PUBL, V155, P141, DOI 10.1144/GSL.SP.1999.155.01.11
+   Bovill C., 1996, FRACTAL GEOMETRY ARC
+   Bovill C, 1997, WORKING PAPER SERIES, V97
+   Buczkowski S, 1998, PATTERN RECOGN, V31, P411, DOI 10.1016/S0031-3203(97)00054-X
+   Burkle-Elizondo G., 2004, NEXUS, P57
+   Burkle-Elizondo Gerardo, 2006, Nonlinear Dynamics Psychol Life Sci, V10, P105
+   Burkle-Elizondo Gerardo, 2001, EMERGENT NATURE PATT, P431
+   Camastra F, 2003, PATTERN RECOGN, V36, P2945, DOI 10.1016/S0031-3203(03)00176-6
+   Chalup SK, 2009, ARCHIT SCI REV, V52, P126, DOI 10.3763/asre.2009.0015
+   CHEN SS, 1993, IEEE T PATTERN ANAL, V15, P1087, DOI 10.1109/34.254066
+   Chen Wei, 2010, 2010 International Conference on Measuring Technology and Mechatronics Automation (ICMTMA 2010), P756, DOI 10.1109/ICMTMA.2010.491
+   Chen WS, 2003, OPT ENG, V42, P2452, DOI 10.1117/1.1585061
+   Cooper J, 2008, ENVIRON PLANN B, V35, P349, DOI 10.1068/b33081
+   Da Silva D, 2006, LECT NOTES COMPUT SC, V4291, P751
+   De Vico G, 2005, MATH BIOSCI INTERACT, P203
+   Dieudonne Jean A, 1994, HIST ALGEBRAIC DIFFE
+   Feder J, 1988, FRACTALS
+   Foroutan-pour K, 1999, APPL MATH COMPUT, V105, P195, DOI 10.1016/S0096-3003(98)10096-6
+   Gorski A Z, 2010, SCIENCE, V24
+   Gozubuyuk Gaye, 2006, ARCHITECTURE COLABOR, P280
+   Grau J, 2006, GEODERMA, V134, P349, DOI 10.1016/j.geoderma.2006.03.009
+   Guarino V, 2010, J MATER SCI-MATER M, V21, P3109, DOI 10.1007/s10856-010-4163-9
+   HUANG Q, 1994, PATTERN RECOGN, V27, P339, DOI 10.1016/0031-3203(94)90112-0
+   Jelinek HF, 2005, MATH BIOSCI INTERACT, P85, DOI 10.1007/3-7643-7412-8_8
+   Jencks C, 1995, ARCHITECTURE JUMPING
+   Kaye B. K., 1989, RANDOM WALK FRACTAL
+   Koch H, 1993, PHARMAZIE, V9, P643
+   Kruger A, 1996, COMPUT PHYS COMMUN, V98, P224, DOI 10.1016/0010-4655(96)00080-X
+   Li J, 2009, PATTERN RECOGN, V42, P2460, DOI 10.1016/j.patcog.2009.03.001
+   Lorenz Wolfgang, 2003, THESIS VIENNA U TECH
+   Lu YM, 2004, ENVIRON PLANN B, V31, P895, DOI 10.1068/b3163
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   Mandelbrot B.B., 1977, FRACTALS FORM CHANCE
+   Mandelbrot Benoit, 1986, BEAUTY FRACTALS IMAG, P151
+   Manning Henry Parker, 1956, GEOMETRY 4 DIMENSION
+   Matsopoulos George, 2000, ADV INFRASTRUCTURES, P425
+   Meisel LV, 1997, PATTERN RECOGN, V30, P1565, DOI 10.1016/S0031-3203(96)00162-8
+   Ostwald Michael J., 2001, NEXUS NETW J, V3, P73, DOI 10.1007/s00004-000-0006-1
+   Ostwald Michael J., 2003, COMMUN COGNITION, V36, P263
+   Ostwald Michael J., 2009, COMPUTING COGNITION, P9
+   Ostwald Michael J., 2010, BUILT ENV DESIGN MAN, P63
+   PEITGEN HO, 1986, BEAUTY FRACTALS IMAG
+   Pierpont James, 1930, B AM MATH SOC, V36, P66
+   POURNEJATIAN NM, 2010, P 7 EUR RAD C 30 SEP, P407
+   Rian IM, 2007, BUILD ENVIRON, V42, P4093, DOI 10.1016/j.buildenv.2007.01.028
+   Roy A, 2007, J GEOPHYS RES, V112
+   Sala N, 2002, MATH BIOSCI INTERAC, P347
+   SARKAR N, 1994, IEEE T SYST MAN CYB, V24, P115, DOI 10.1109/21.259692
+   Shen G., 1997, GEOGRAPHICAL ENV MOD, V1, P221
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   SOMMERVILLE DMY, 1958, INTRO GEOMETRY N DIM
+   Stamps AE, 2002, LANDSCAPE URBAN PLAN, V60, P163, DOI 10.1016/S0169-2046(02)00054-3
+   STANLEY HE, 1988, NATURE, V335, P405, DOI 10.1038/335405a0
+   TAYLOR CC, 1991, J ROY STAT SOC B MET, V53, P353
+   Vaughan J., 2011, ARCHITECTURE SCI ARS, V4, P21
+   Vaughan J, 2010, ARCHIT SCI REV, V53, P323, DOI 10.3763/asre.2010.0024
+   Vaughan Josephine, 2008, NEXUS, P217
+   Voss R, 1988, SCI FRACTAL IMAGES, P27
+   VOSS RF, 1986, PHYS SCRIPTA, VT13, P27, DOI 10.1088/0031-8949/1986/T13/004
+   Xie W, 1997, CHINESE SIGNAL PROCE, V13, P98
+   Yu L, 2005, PATTERN RECOGN, V38, P1791, DOI 10.1016/j.patcog.2005.03.015
+NR 66
+TC 10
+Z9 10
+U1 1
+U2 8
+PU PION LTD
+PI LONDON
+PA 207 BRONDESBURY PARK, LONDON NW2 5JN, ENGLAND
+SN 0265-8135
+J9 ENVIRON PLANN B
+JI Environ. Plan. B-Plan. Des.
+PY 2013
+VL 40
+IS 4
+BP 644
+EP 663
+DI 10.1068/b38124
+PG 20
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 194HN
+UT WOS:000322622100006
+DA 2019-03-26
+ER
+
+PT J
+AU Pavon-Dominguez, P
+   Jimenez-Hornero, FJ
+   de Rave, EG
+AF Pavon-Dominguez, P.
+   Jimenez-Hornero, F. J.
+   Gutierrez de Rave, E.
+TI Evaluation of the temporal scaling variability in forecasting
+   ground-level ozone concentrations obtained from multiple linear
+   regressions
+SO ENVIRONMENTAL MONITORING AND ASSESSMENT
+LA English
+DT Article
+DE Ozone forecasting; Multiple linear regression; Scaling; Multifractal
+ID ARTIFICIAL NEURAL-NETWORKS; SURFACE OZONE; GENERALIZED DIMENSIONS;
+   SINGULARITY SPECTRUM; TROPOSPHERIC OZONE; STRANGE ATTRACTORS;
+   TIME-SERIES; URBAN AREA; PREDICTION; POLLUTION
+AB Ozone is a highly unpredictable pollutant which severely affects living conditions in urban and surrounding areas in the Mediterranean basin. This secondary pollutant periodically reaches extremely high concentrations, damaging human health. Multiple linear regression has been widely used in previous works due to the fact that it is a simple and versatile method for forecasting ozone concentrations. However, these models usually prove their validity using fulfillment of statistical constraints, ignoring other intrinsic characteristics existing in the time series, such as the temporal scaling behavior and the data distribution over different time scales. In previous works, it has been demonstrated that observed ozone time series are of a multifractal nature, meaning that the data distribution can be described by using the multifractal spectrum. This work focuses on the capacity of a forecasting model to reproduce the scaling features existing in an observed time series when several chemical and meteorological explanatory variables are introduced following the stepwise procedure. A comparison between the observed spectrum and the simulated ones for each step is used to check which explanatory variables better reproduce the multifractal nature in real ozone time series. It has been confirmed that a model with few explanatory variables allows reproducing the multifractal nature in the simulated time series with an acceptable accuracy without compromising the values of the coefficient of determination and root-mean-squared error, which were used as performance indicators.
+C1 [Pavon-Dominguez, P.; Jimenez-Hornero, F. J.; Gutierrez de Rave, E.] Univ Cordoba, Dept Graph Engn & Geomat, Cordoba 14071, Spain.
+RP Pavon-Dominguez, P (reprint author), Univ Cordoba, Dept Graph Engn & Geomat, Gregor Mendel Bldg 3rd Floor,Campus Rabanales, Cordoba 14071, Spain.
+EM g22padop@uco.es
+RI Pavon-Dominguez, Pablo/I-8743-2017; Jimenez-Hornero,
+   Francisco/K-8771-2014; Gutierrez de Rave, Eduardo/I-6867-2017
+OI Pavon-Dominguez, Pablo/0000-0002-2913-6492; Jimenez-Hornero,
+   Francisco/0000-0003-4498-8797; Gutierrez de Rave,
+   Eduardo/0000-0002-2091-6708
+FU Consejeria de Innovacion, Ciencia y Empresa (Junta de Andalucia); ERDF;
+   ESF [P08-RNM-3989]; Spanish Ministry of Economy and Competitiveness;
+   ERDF [AGL2009-12936-C03-02, CGL2012-35249-C02-00]
+FX The "sequence-determines-credit" approach has been applied for the
+   authors' order. The authors gratefully acknowledge the support from the
+   Consejeria de Innovacion, Ciencia y Empresa (Junta de Andalucia), ERDF,
+   and ESF Project P08-RNM-3989 and the Spanish Ministry of Economy and
+   Competitiveness and ERDF Projects AGL2009-12936-C03-02 and
+   CGL2012-35249-C02-00.
+CR Abdul-Wahab SA, 2005, ENVIRON MODELL SOFTW, V20, P1263, DOI 10.1016/j.envsoft.2004.09.001
+   Abdul-Wahab SA, 2002, ENVIRON MODELL SOFTW, V17, P219, DOI 10.1016/S1364-8152(01)00077-9
+   Adame JA, 2008, CHEMOSPHERE, V70, P841, DOI 10.1016/j.chemosphere.2007.07.009
+   Barrero MA, 2006, CHEMOMETR INTELL LAB, V80, P67, DOI 10.1016/j.chemolab.2005.07.003
+   Cheng WL, 2001, METEOROL ATMOS PHYS, V78, P11, DOI 10.1007/s007030170002
+   CHHABRA A, 1989, PHYS REV LETT, V62, P1327, DOI 10.1103/PhysRevLett.62.1327
+   CHHABRA AB, 1989, PHYS REV A, V40, P5284, DOI 10.1103/PhysRevA.40.5284
+   Comrie AC, 1997, J AIR WASTE MANAGE, V47, P653, DOI 10.1080/10473289.1997.10463925
+   Directive 2002/3/EC, 2002, OFFICIAL J EUROPEAN
+   Duenas C, 2004, CHEMOSPHERE, V56, P631, DOI 10.1016/j.chemosphere.2004.04.013
+   Evertsz C. J. G., 1992, CHAOS FRACTALS, P922
+   Evtyugina MG, 2006, ATMOS ENVIRON, V40, P6277, DOI 10.1016/j.atmosenv.2006.05.046
+   Feder J, 1988, FRACTALS
+   Feng ZZ, 2008, GLOBAL CHANGE BIOL, V14, P2696, DOI 10.1111/j.1365-2486.2008.01673.x
+   Fernandez-Fernandez MI, 2011, ATMOS ENVIRON, V45, P1946, DOI 10.1016/j.atmosenv.2011.01.027
+   FUENTES JD, 1994, J AIR WASTE MANAGE, V44, P1019
+   Gardner MW, 2000, ATMOS ENVIRON, V34, P171, DOI 10.1016/S1352-2310(99)00315-5
+   Ghazali NA, 2010, ENVIRON MONIT ASSESS, V165, P475, DOI 10.1007/s10661-009-0960-3
+   GRASSBERGER P, 1983, PHYS LETT A, V97, P227, DOI 10.1016/0375-9601(83)90753-3
+   GUICHERIT R, 1977, ATMOS ENVIRON, V11, P145, DOI 10.1016/0004-6981(77)90219-0
+   GUSTEN H, 1988, ATMOS ENVIRON, V22, P1855, DOI 10.1016/0004-6981(88)90074-1
+   GUSTEN H, 1994, SCI TOTAL ENVIRON, V155, P285, DOI 10.1016/0048-9697(94)90507-X
+   Gusten H., 1986, HDB ENV CHEM A, V4A, P53
+   HALSEY TC, 1986, PHYS REV A, V33, P1141, DOI 10.1103/PhysRevA.33.1141
+   HENTSCHEL HGE, 1983, PHYSICA D, V8, P435, DOI 10.1016/0167-2789(83)90235-X
+   Hoek G, 1997, ARCH ENVIRON HEALTH, V52, P455, DOI 10.1080/00039899709602224
+   Jimenez-Hornero FJ, 2010, ENVIRON MONIT ASSESS, V160, P229, DOI 10.1007/s10661-008-0690-y
+   Kalabokas PD, 2000, ATMOS ENVIRON, V34, P5199, DOI 10.1016/S1352-2310(00)00298-3
+   Kravchenko AN, 1999, AGRON J, V91, P1033, DOI 10.2134/agronj1999.9161033x
+   Kucera V, 1995, WATER AIR SOIL POLL, V85, P153, DOI 10.1007/BF00483697
+   Lee CK, 2006, CHEMOSPHERE, V62, P934, DOI 10.1016/j.chemosphere.2005.05.046
+   Leighton P. A., 1961, PHOTOCHEMISTRY AIR P
+   Lengyel A, 2004, CHEMOSPHERE, V57, P889, DOI 10.1016/j.chemosphere.2004.07.043
+   OLSSON J, 1993, J GEOPHYS RES-ATMOS, V98, P23265, DOI 10.1029/93JD02658
+   Prybutok VR, 2000, EUR J OPER RES, V122, P31, DOI 10.1016/S0377-2217(99)00069-7
+   Ribas A, 2004, ATMOS ENVIRON, V38, P985, DOI 10.1016/j.atmosenv.2003.10.045
+   Schlink U, 2006, ENVIRON MODELL SOFTW, V21, P547, DOI 10.1016/j.envsoft.2004.12.002
+   Sillman S, 1999, ATMOS ENVIRON, V33, P1821, DOI 10.1016/S1352-2310(98)00345-8
+   SINGH HB, 1978, ATMOS ENVIRON, V12, P2185, DOI 10.1016/0004-6981(78)90174-9
+   Sousa SIV, 2007, ENVIRON MODELL SOFTW, V22, P97, DOI 10.1016/j.envsoft.2005.12.002
+   Tang XA, 2010, ATMOS ENVIRON, V44, P3833, DOI 10.1016/j.atmosenv.2010.06.026
+   Tsai DH, 2008, J ENVIRON MONITOR, V10, P109, DOI 10.1039/b714479b
+   Wang XK, 2007, ENVIRON POLLUT, V147, P394, DOI 10.1016/j.envpol.2006.05.006
+   Yi JS, 1996, ENVIRON POLLUT, V92, P349, DOI 10.1016/0269-7491(95)00078-X
+NR 44
+TC 1
+Z9 1
+U1 1
+U2 36
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0167-6369
+J9 ENVIRON MONIT ASSESS
+JI Environ. Monit. Assess.
+PD MAY
+PY 2013
+VL 185
+IS 5
+BP 3853
+EP 3866
+DI 10.1007/s10661-012-2834-3
+PG 14
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 117QP
+UT WOS:000316968500022
+PM 22915223
+DA 2019-03-26
+ER
+
+PT J
+AU McCord, GC
+   Liu, A
+   Singh, P
+AF McCord, Gordon C.
+   Liu, Anne
+   Singh, Prabhjot
+TI Deployment of community health workers across rural sub-Saharan Africa:
+   financial considerations and operational assumptions
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID NEONATAL SURVIVAL; CHILD SURVIVAL; SCALING-UP; INTERVENTIONS; COUNTRIES;
+   OUTCOMES; CARE
+AB Objective To provide cost guidance for developing a locally adaptable and nationally scalable community health worker (CHW) system within primary-health-care systems in sub-Saharan Africa.
+   Methods The yearly costs of training, equipping and deploying CHWs throughout rural sub-Saharan Africa were calculated using data from the literature and from the Millennium Villages Project. Model assumptions were such as to allow national governments to adapt the CHW subsystem to national needs and to deploy an average of 1 CHW per 650 rural inhabitants by 2015. The CHW subsystem described was costed by employing geographic information system (GIS) data on population, urban extents, national and subnational disease prevalence, and unit costs (from the field for wages and commodities). The model is easily replicable and configurable. Countries can adapt it to local prices, wages, population density and disease burdens in different geographic areas.
+   Findings The average annual cost of deploying CHWs to service the entire sub-Saharan African rural population by 2015 would be approximately 2.6 billion (i.e. 2600 million) United States dollars (US$). This sum, to be covered both by national governments and by donor partners, translates into US$ 6.86 per year per inhabitant covered by the CHW subsystem and into US$ 2.72 per year per inhabitant. Alternatively, it would take an annual average of US$ 3750 to train, equip and support each CHW.
+   Conclusion Comprehensive CHW subsystems can be deployed across sub-Saharan Africa at cost that is modest compared with the projected costs of the primary-health-care system. Given their documented successes, they offer a strong complement to facility-based care in rural African settings.
+C1 [McCord, Gordon C.] Univ Calif San Diego, San Diego, CA 92103 USA.
+   [Liu, Anne] Columbia Univ, Earth Inst, New York, NY 10115 USA.
+   [Singh, Prabhjot] Columbia Univ, Sch Int & Publ Affairs, New York, NY 10115 USA.
+RP Singh, P (reprint author), Columbia Univ, Sch Int & Publ Affairs, 475 Riverside Dr,Suite 825, New York, NY 10115 USA.
+EM psingh@ei.columbia.edu
+CR [Anonymous], 2006, PNEUM FORG KILL CHIL
+   Bern C, 2004, GLOBAL EPIDEMIOLOGY
+   Bhutta ZA, 2005, PEDIATRICS, V115, P519, DOI 10.1542/peds.2004-1441
+   Bhutta ZA, 2010, GLOBAL EXPERIENCES C
+   Bhutta ZA, 2008, LANCET, V371, P417, DOI 10.1016/S0140-6736(07)61693-6
+   Black RE, 2003, LANCET, V361, P2226, DOI 10.1016/S0140-6736(03)13779-8
+   [Center for International Earth Science Information Network Columbia University International Food Policy Research Institute The World Bank Centro Internacional de Agricultura Tropical], 2004, GLOB RUR URB MAPP PR
+   Claeson M, 2003, LANCET, V362, P323
+   Crigler L, 2011, COMMUNITY HLTH WORKE
+   Darmstadt GL, 2005, LANCET, V365, P977, DOI 10.1016/S0140-6736(05)71088-6
+   de Silva NR, 2003, TRENDS PARASITOL, V19, P547, DOI 10.1016/j.pt.2003.10.002
+   Haines A, 2007, LANCET, V369, P2121, DOI 10.1016/S0140-6736(07)60325-0
+   Hongoro C, 2004, LANCET, V364, P1451, DOI 10.1016/S0140-6736(04)17229-2
+   Hunt S, 2009, LADY HLTH WORKER PRO
+   Knippenberg R, 2005, LANCET, V365, P1087, DOI 10.1016/S0140-6736(05)71145-4
+   Lehmann U, 2007, EVIDENCE INFORM POLI
+   Lewin S, 2010, COCHRANE DB SYST REV
+   Liu A, 2011, MT SINAI J MED, V78, P419, DOI 10.1002/msj.20260
+   Martines J, 2005, LANCET, V365, P1189, DOI 10.1016/S0140-6736(05)71882-1
+   Millennium Project, 2005, INV DEV PRACT PLAN A
+   Mukherjee JS, 2007, AIDS CARE, V19, pS73, DOI 10.1080/09540120601114485
+   Perry H, 2009, EFFECTIVE IS COMMUNI
+   Singh P., 2011, ONE MILLION COMMUNIT
+   Singh S, 2012, ADDING IT COSTS BENE
+   Taskforce on Innovative International Financing for Health Systems, 2009, MOR MON HLTH MOR HLT
+   Teklehaimanot A, 2007, AM J TROP MED HYG, V77, P138, DOI 10.4269/ajtmh.2007.77.138
+   United Nations Agency for International-Development & United Nations Children's Fund & World Health Organization, 2005, DIARRH TREATM GUID I
+   United Nations Children's Fund, 2012, SUPPL CAT
+   Victora CG, 2003, LANCET, V362, P233, DOI 10.1016/S0140-6736(03)13917-7
+   Viswanathan M, 2010, MED CARE, V48, P792, DOI 10.1097/MLR.0b013e3181e35b51
+   World Health Organization, 2005, NEGL TROP DIS PCT DA
+   World Health Organization (WHO), 2001, MACR HLTH INV HLTH E
+NR 32
+TC 49
+Z9 49
+U1 1
+U2 1
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+EI 1564-0604
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD APR
+PY 2013
+VL 91
+IS 4
+BP 244
+EP 253
+DI 10.2471/BLT.12.109660
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 130CH
+UT WOS:000317889800005
+PM 23599547
+OA Bronze, Green Published
+DA 2019-03-26
+ER

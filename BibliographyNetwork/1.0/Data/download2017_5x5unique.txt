@@ -1,0 +1,508 @@
+
+PT J
+AU Busch, J
+   Roelich, K
+   Bale, CSE
+   Knoeri, C
+AF Busch, Jonathan
+   Roelich, Katy
+   Bale, Catherine S. E.
+   Knoeri, Christof
+TI Scaling up local energy infrastructure; An agent-based model of the
+   emergence of district heating networks
+SO ENERGY POLICY
+LA English
+DT Article
+DE Infrastructure; Local energy; Heat networks; Agent-based modelling;
+   Local government; Business models
+ID TRANSITION; SYSTEMS; UK; FRAMEWORK; COMPANIES; PROTOCOL
+AB The potential contribution of local energy infrastructure such as heat networks to the transition to a low carbon economy is increasingly recognised in international, national and municipal policy. Creating the policy environment to foster the scaling up of local energy infrastructure is, however, still challenging; despite national policy action and local authority interest the growth of heat networks in UK cities remains slow. Technoeconomic energy system models commonly used to inform policy are not designed to address institutional and governance barriers. We present an agent-based model of heat network development in UK cities in which policy interventions aimed at the institutional and governance barriers faced by diverse actors can be explored. Three types of project instigators are included municipal, commercial and community which have distinct decision heuristics and capabilities and follow a multi-stage development process. Scenarios of policy interventions developed in a companion modelling approach indicate that the effect of interventions differs between actors depending on their capabilities. Successful interventions account for the specific motivations and capabilities of different actors, provide a portfolio of support along the development process and recognise the important strategic role of local authorities in supporting low carbon energy infrastructure.
+C1 [Busch, Jonathan; Roelich, Katy; Bale, Catherine S. E.; Knoeri, Christof] Univ Leeds, Sch Earth & Environm, Sustainabil Res Inst, Leeds, W Yorkshire, England.
+   [Busch, Jonathan; Roelich, Katy] Univ Leeds, Sch Civil Engn, Inst Resilient Infrastruct, Leeds, W Yorkshire, England.
+   [Bale, Catherine S. E.] Univ Leeds, Sch Chem & Proc Engn, Leeds, W Yorkshire, England.
+   [Knoeri, Christof] Swiss Fed Inst Technol, Dept Management Technol & Econ, Grp Sustainabil & Technol, Zurich, Switzerland.
+RP Busch, J (reprint author), Univ Leeds, Sch Earth & Environm, Sustainabil Res Inst, Leeds, W Yorkshire, England.
+EM j.busch@leeds.ac.uk
+RI Busch, Jonathan/H-2129-2011
+OI Busch, Jonathan/0000-0002-7036-8260; Roelich, Katy/0000-0001-6979-5401
+FU UK Engineering and Physical Sciences Research Council (EPSRC); UK
+   Economic and Social Research Council (ESRC) iBUILD: Infrastructure
+   BUsiness models, valuation and Innovation for Local Delivery' project
+   [EP/K012398/1]; EPSRC [(EP/K022288/1]; Engineering and Physical Sciences
+   Research Council [EP/K012398/1, EP/K022288/1]
+FX The authors would like to thank Ruth Bush and Mark Powell for their
+   significant contribution to the decision theatres. This research is
+   supported by UK Engineering and Physical Sciences Research Council
+   (EPSRC) and UK Economic and Social Research Council (ESRC) iBUILD:
+   Infrastructure BUsiness models, valuation and Innovation for Local
+   Delivery' project (Ref.: EP/K012398/1) and an EPSRC fellowship for CSEB
+   (EP/K022288/1). The authors would like to thank partners in the project
+   at the Universities of Newcastle, Birmingham and Leeds, as well as the
+   stakeholders involved in this research.
+CR Alanne K, 2006, RENEW SUST ENERG REV, V10, P539, DOI 10.1016/j.rser.2004.11.004
+   Bale C.S.E., 2014, EC EVALUATION SYSTEM
+   Bale C.S.E., 2014, SPATIAL MAPPING TOOL
+   Bale C.S.E., 2015, C COMPL SYST 2015 TE
+   Bale CSE, 2012, ENERG POLICY, V48, P242, DOI 10.1016/j.enpol.2012.05.019
+   Bankes S, 2009, COMPUT MQTH ORGAN TH, V15, P8, DOI 10.1007/s10588-008-9046-y
+   Bergman N, 2008, JASSS-J ARTIF SOC S, V11
+   Bousquet F, 2007, OUTLOOK AGR, V36, P57, DOI 10.5367/000000007780223650
+   BRE (Building Research Establishment), 2013, RES BARR DEPL DISTR
+   Burt G., 2012, P IMECHE A, V227, P3
+   Chappin E.J.L., 2008, INFR SYST SERV BUILD, V31, DOI [10.1109/INFRA.2008.5439580, DOI 10.1109/INFRA.2008.5439580]
+   Chesbrough H, 2002, IND CORP CHANGE, V11, P529, DOI 10.1093/icc/11.3.529
+   Department of Energy and Climate Change, 2013, FUT HEAT M CHALL
+   Department of Energy & Climate Change, 2015, HEAT NETW DEL SUPP
+   Department of Energy & Climate Change, 2012, EN CO OBL
+   Deputy Prime Minister's Office HM Treasury Department for Communities and Local Government, 2011, UNL GROWTH CIT
+   Ekins P., 2013, UK ENERGY SYSTEM 205
+   Eppstein MJ, 2011, ENERG POLICY, V39, P3789, DOI 10.1016/j.enpol.2011.04.007
+   Eriksson O, 2007, ENERG POLICY, V35, P1346, DOI 10.1016/j.enpol.2006.04.005
+   Euroheat, 2009, DISTR HEAT COOL STAT
+   Faber A, 2010, ENERG POLICY, V38, P2763, DOI 10.1016/j.enpol.2010.01.008
+   Fouquet R, 1998, ENERGY J, V19, P1
+   Foxon T., 2015, INFRASTRUCT COMPLEXI, V2, P4, DOI DOI 10.1186/S40551-015-0009-4
+   Foxon TJ, 2011, ECOL ECON, V70, P2258, DOI 10.1016/j.ecolecon.2011.07.014
+   Garrod G, 2013, P I CIVIL ENG-ENG SU, V166, P75, DOI 10.1680/ensu.12.00030
+   Gilbert N, 2014, COMPLEXITY, V19, P1, DOI 10.1002/cplx.21550
+   Grimm V, 2005, INDIVIDUAL BASED MOD
+   Grimm V, 2006, ECOL MODEL, V198, P115, DOI 10.1016/j.ecolmodel.2006.04.023
+   Grimm V, 2010, ECOL MODEL, V221, P2760, DOI 10.1016/j.ecolmodel.2010.08.019
+   Guyot P., 2006, J ARTIF SOC SOC SIMU, V9
+   Hall S, 2015, LOCAL ELECT SUPPLY O
+   Hannon MJ, 2013, ENERG POLICY, V61, P1031, DOI 10.1016/j.enpol.2013.06.009
+   Hawkey D., 2011, LOCAL ENGAGEMENT UK
+   Hawkey D, 2013, J CLEAN PROD, V50, P22, DOI 10.1016/j.jclepro.2012.11.018
+   Hecher M, 2016, ECOL ECON, V121, P40, DOI 10.1016/j.ecolecon.2015.11.015
+   Heckbert S, 2010, ANN NY ACAD SCI, V1185, P39, DOI 10.1111/j.1749-6632.2009.05286.x
+   Hicks AL, 2015, J IND ECOL, V19, P285, DOI 10.1111/jiec.12281
+   HM Government, 2012, EL GAS EN CO OBL ORD
+   Holtz G, 2015, ENVIRON INNOV SOC TR, V17, P41, DOI 10.1016/j.eist.2015.05.006
+   Janssen MA, 2006, ECOL SOC, V11
+   Jensen T, 2015, TECHNOL FORECAST SOC, V98, P105, DOI 10.1016/j.techfore.2015.06.006
+   Kempener R, 2009, J IND ECOL, V13, P284, DOI 10.1111/j.1530-9290.2009.00120.x
+   Knoeri C., 2011, J ARTIF SOC SOC SIMU, V14
+   Knoeri C, 2014, JASSS-J ARTIF SOC S, V17, DOI 10.18564/jasss.2528
+   Le Page C., 2015, JASSS-J ARTIF SOC S, V18, P3, DOI DOI 10.18564/JASSS.2550
+   Li FGN, 2015, TECHNOL FORECAST SOC, V100, P290, DOI 10.1016/j.techfore.2015.07.017
+   Ligtvoet A, 2012, J FUTURES STUD, V17, P57
+   Mitchell C, 2010, ENERG POLICY, V38, P2644, DOI 10.1016/j.enpol.2009.05.040
+   Moss S., 2008, JASSS-J ARTIF SOC S, V11, P16
+   O'Brien G, 2010, ENERG POLICY, V38, P7550, DOI 10.1016/j.enpol.2010.03.033
+   Office for National Statistics, OUTP AR OA
+   Ofgem, 2015, REN OBL GUID GEN
+   Ordnance Survey, 2014, ADDRESSBASE PLUS
+   Ove Arup & Partners Ltd, 2011, DEC EN MAST MAN LOC
+   Poyry Faber Maunsell, 2009, POTENTIAL COSTS DIST
+   Realising Transition Pathways Engine Room, 2015, DISTR POW TRANS CIV
+   Robinson SA, 2015, APPL ENERG, V151, P273, DOI 10.1016/j.apenergy.2015.04.071
+   Roelich K., 2014, INT S NEXT GEN INFR
+   Rydin Y, 2013, ENVIRON PLANN A, V45, P634, DOI 10.1068/a45199
+   Rylatt M, 2013, EMERGENCE COMPLEX OR, V15, P1
+   Rylatt R.M., 2015, SMART GRID, V1, P1
+   Seyfang G., 2013, ENERG POLICY, P1
+   Sopha BM, 2011, ENERG POLICY, V39, P2722, DOI 10.1016/j.enpol.2011.02.041
+   Teece DJ, 2010, LONG RANGE PLANN, V43, P172, DOI 10.1016/j.lrp.2009.07.003
+   van Dam K. H., 2013, AGENT BASED MODELLIN
+   Walsh CL, 2013, P I CIVIL ENG-ENG SU, V166, P98, DOI 10.1680/ensu.12.00033
+   Wolf I, 2015, TECHNOL FORECAST SOC, V94, P269, DOI 10.1016/j.techfore.2014.10.010
+NR 67
+TC 7
+Z9 7
+U1 1
+U2 9
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0301-4215
+EI 1873-6777
+J9 ENERG POLICY
+JI Energy Policy
+PD JAN
+PY 2017
+VL 100
+BP 170
+EP 180
+DI 10.1016/j.enpol.2016.10.011
+PG 11
+WC Economics; Energy & Fuels; Environmental Sciences; Environmental Studies
+SC Business & Economics; Energy & Fuels; Environmental Sciences & Ecology
+GA EH6SJ
+UT WOS:000391903900017
+OA Green Published, Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Salimzadeh, H
+   Bishehsari, F
+   Sauvaget, C
+   Amani, M
+   Hamzehloo, G
+   Nikfarjam, A
+   Merat, S
+   Delavari, A
+   Malekzadeh, R
+AF Salimzadeh, Hamideh
+   Bishehsari, Faraz
+   Sauvaget, Catherine
+   Amani, Mohammad
+   Hamzehloo, Gholamreza
+   Nikfarjam, Ali
+   Merat, Shahin
+   Delavari, Alireza
+   Malekzadeh, Reza
+TI Feasibility of Colon Cancer Screening by Fecal Immunochemical Test in
+   Iran
+SO ARCHIVES OF IRANIAN MEDICINE
+LA English
+DT Article
+DE Colorectal cancer; feasibility studies; patient navigation; population
+   screening
+ID COLORECTAL-CANCER; PATIENT NAVIGATION; OCCULT BLOOD; AMERICAN-COLLEGE;
+   RANDOMIZED-TRIAL; BREAST-CANCER; TASK-FORCE; PROGRAM; CARE; ROUNDS
+AB Background: Colorectal cancer (CRC) is the third most common cancer in Iran, where there is no mass screening for the disease yet. We aimed to measure the feasibility of a pilot CRC screening program based on fecal immunochemical test (FIT) in Iranian population and the implications for scaling-up at the national level.
+   Methods: A single quantitative FIT was offered by health navigators to individuals aged between 45 and 75 years in primary health centers in rural and urban areas in Tehran. Participants who had a positive FIT were referred for colonoscopy.
+   Results: A total of 1044 asymptomatic average-risk individuals were enrolled. The mean age (SD) was 54.1 +/- 7.0 years and nearly 63.0% (n = 657) were female. Only a small fraction of the participants had a prior screening practice (2.2%) and were aware of colon cancer (13.7%). In sum, 1002 returned the FIT kit, of whom the stool sample was unsatisfactory for testing in six participants (0.6%). The FIT uptake was 96.0%, positivity rate was 9.1% and the detection rates were 11.9% for adenomas and 7.1% for advanced adenomas. No cancer was detected. The positive predictive value (PPV) of the FIT was about 17% for any colonic neoplasms.
+   Conclusion: This is the first study that reports minimal quality metrics within a CRC screening process. FIT modality as a test of choice for colon cancer screening in average-risk people is a safe and highly acceptable method of screening in Iranian people. The results of the current study may not be limited to Iranians, and could have implications to other developing countries with similar trends of CRC epidemic.
+C1 [Salimzadeh, Hamideh; Amani, Mohammad; Merat, Shahin; Delavari, Alireza; Malekzadeh, Reza] Univ Tehran Med Sci, Shariati Hosp, Digest Oncol Res Ctr, Digest Dis Res Inst, North Kargar Ave,POB 14117-13135, Tehran, Iran.
+   [Bishehsari, Faraz] Rush Univ, Med Ctr, Dept Internal Med, Div Gastroenterol, Chicago, IL 60612 USA.
+   [Sauvaget, Catherine] Int Agcy Res Canc, Early Detect & Prevent Sect, Screening Grp, Lyon, France.
+   [Hamzehloo, Gholamreza; Nikfarjam, Ali] Univ Tehran Med Sci, Hlth Deputy, Tehran, Iran.
+RP Delavari, A (reprint author), Univ Tehran Med Sci, Shariati Hosp, Digest Oncol Res Ctr, Digest Dis Res Inst, North Kargar Ave,POB 14117-13135, Tehran, Iran.
+EM delavari@tums.ac.ir
+FU Digestive Disease Research Institute in Tehran University of Medical
+   Sciences [301/529]
+FX This work was supported by Digestive Disease Research Institute in
+   Tehran University of Medical Sciences (grant number: 301/529).
+CR AlJaberi TM, 1997, DIS COLON RECTUM, V40, P1089, DOI 10.1007/BF02050935
+   Basaleem HO, 2004, SAUDI MED J, V25, P1002
+   Battaglia TA, 2011, CANCER-AM CANCER SOC, V117, P3553, DOI 10.1002/cncr.26267
+   Carey M, 2012, BMC CANCER, V12, DOI 10.1186/1471-2407-12-62
+   Christy SM, 2016, CANCER-AM CANCER SOC, V122, P3288, DOI 10.1002/cncr.30207
+   Consedine NS, 2011, ONCOL NURS FORUM, V38, pE409, DOI 10.1188/11.ONF.E409-E417
+   Delavari A, 2014, BMC GASTROENTEROL, V14, DOI 10.1186/s12876-014-0196-8
+   Ferlay J, 2013, CANC INCIDENCE MORTA
+   Freeman H, 2006, J URBAN HEALTH, V83, P139, DOI 10.1007/s11524-006-9030-0
+   Hewitson P, 2011, BRIT J CANCER, V105, P475, DOI 10.1038/bjc.2011.255
+   Hoepffner N, 2006, ALIMENT PHARM THER, V23, P145, DOI 10.1111/j.1365-2036.2006.02702.x
+   Hunnibell LS, 2012, CLIN J ONCOL NURS, V16, P29, DOI 10.1188/12.CJON.29-36
+   Ibrahim Ezzeldin M, 2008, Saudi J Gastroenterol, V14, P178, DOI 10.4103/1319-3767.43275
+   Jandorf L, 2005, J URBAN HEALTH, V82, P216, DOI 10.1093/jurban/jti046
+   Jemal A, 2011, CA-CANCER J CLIN, V61, P69, DOI 10.3322/caac.20107
+   Jensen CD, 2016, ANN INTERN MED, V164, P456, DOI 10.7326/M15-0983
+   Khuhaprema T, 2008, JPN J CLIN ONCOL, V38, P237, DOI 10.1093/jjco/hyn020
+   Kim NH, 2017, J CLIN GASTROENTEROL, V51, P151, DOI 10.1097/MCG.0000000000000588
+   Levin B, 2008, CA-CANCER J CLIN, V58, P130, DOI 10.3322/CA.2007.0018
+   Lin JS, 2016, JAMA-J AM MED ASSOC, V315, P2576, DOI 10.1001/jama.2016.3332
+   Lo SH, 2015, GUT, V64, P282, DOI 10.1136/gutjnl-2013-306144
+   Malekzadeh R, 2009, ARCH IRAN MED, V12, P161
+   Moosavi S, 2016, CAN J GASTROENTEROL, DOI 10.1155/2016/5914048
+   Park MJ, 2012, SCAND J GASTROENTERO, V47, P461, DOI 10.3109/00365521.2012.668930
+   Paskett ED, 2011, CA-CANCER J CLIN, V61, P237, DOI 10.3322/caac.20111
+   Percac-Lima S, 2012, J IMMIGR MINOR HEALT, V14, P727, DOI 10.1007/s10903-011-9539-5
+   Pignone M, 2002, ANN INTERN MED, V137, P132, DOI 10.7326/0003-4819-137-2-200207160-00015
+   Pourshams A, 2010, INT J EPIDEMIOL, V39, P52, DOI 10.1093/ije/dyp161
+   Rex DK, 2009, AM J GASTROENTEROL, V104, P739, DOI 10.1038/ajg.2009.104
+   Robinson-White S, 2010, CANCER NURS, V33, P127, DOI 10.1097/NCC.0b013e3181c40401
+   Sahin MK, 2017, J COMMUN HEALTH, V42, P101, DOI 10.1007/s10900-016-0235-1
+   Salimzadeh H, 2016, GASTROENTEROLOGY, V150, pS455, DOI 10.1016/S0016-5085(16)31574-8
+   Salimzadeh H, 2014, J BEHAV MED, V37, P1019, DOI 10.1007/s10865-013-9533-6
+   Salimzadeh H, 2012, INT J PREVENTIVE MED, V3, P29
+   Stegeman I, 2015, CANCER EPIDEMIOL, V39, P388, DOI 10.1016/j.canep.2015.03.012
+   Su TT, 2013, BMC CANCER, V13, DOI 10.1186/1471-2407-13-376
+   Sung JJY, 2015, GUT, V64, P121, DOI 10.1136/gutjnl-2013-306503
+   Sung JJY, 2005, LANCET ONCOL, V6, P871, DOI 10.1016/S1470-2045(05)70422-8
+   Telford Jennifer, 2016, CMAJ Open, V4, pE668, DOI 10.9778/cmajo.20160047
+   Tepes B, 2017, J CLIN GASTROENTEROL, V51, pE52, DOI 10.1097/MCG.0000000000000662
+   Trojan J, 2002, Z GASTROENTEROL, V40, P921, DOI 10.1055/s-2002-35415
+   Veettil SK, 2017, ASIAN J SURG, V40, P481, DOI 10.1016/j.asjsur.2016.07.005
+   Weber JJ, 2012, ANN SURG ONCOL, V19, P3251, DOI 10.1245/s10434-012-2527-8
+   Wong MCS, 2015, CLIN GASTROENTEROL H, V13, P1472, DOI 10.1016/j.cgh.2015.02.021
+   Young GP, 2015, DIGEST DIS SCI, V60, P609, DOI 10.1007/s10620-014-3445-3
+NR 45
+TC 1
+Z9 1
+U1 2
+U2 3
+PU ACAD MEDICAL SCIENCES I R IRAN
+PI TEHRAN
+PA PO BOX 19395-5655, TEHRAN, 00000, IRAN
+SN 1029-2977
+EI 1735-3947
+J9 ARCH IRAN MED
+JI Arch. Iran. Med.
+PD DEC
+PY 2017
+VL 20
+IS 12
+BP 726
+EP 733
+PG 8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA GA2VH
+UT WOS:000428183300002
+PM 29664311
+DA 2019-03-26
+ER
+
+PT J
+AU Bliss, SM
+   Lennox, RJ
+   Midwood, JD
+   Cooke, SJ
+AF Bliss, S. M.
+   Lennox, R. J.
+   Midwood, J. D.
+   Cooke, S. J.
+TI Temporally stable and distinct fish assemblages between stream and
+   earthen stormwater drain reaches in an urban watershed
+SO URBAN ECOSYSTEMS
+LA English
+DT Article
+DE Stormwater management; Earthen surface drain; Urbanization; Non-metric
+   multidimensional scaling; Redundancy analysis; Backpack electrofishing
+ID MULTIPLE SPATIAL SCALES; LAND-USE; COMMUNITY STRUCTURE; URBANIZATION;
+   HABITAT; WINTER; CHANNELIZATION; LANDSCAPE; CONNECTIVITY; DEGRADATION
+AB Streams and rivers have essential roles in landscape connectivity; however, urban watersheds are frequently modified to drain stormwater from urban areas. To determine whether an earthen stormwater drain in an urban landscape provides fish habitat temporally, we compared the fish assemblage among three reaches of a contiguous urbanized watershed in Kanata, Ontario, Canada. Watts Creek is connected to an earthen municipal surface stormwater drain (herein Kizell Drain), before discharging into the Ottawa River. We delineated transects in three reaches of the system, in Watts, in the Drain, and below their confluence (Main) and assessed the fish community using single-pass electrofishing repeated across eight months covering all seasons. Fish community composition was compared among reaches using non-metric multidimensional scaling (NMDS) and permutated multivariate analyses of variance (perMANOVA). Sign association tests identified indicator species driving assemblage patterns among reaches. Redundancy analysis (RDA) was used to assess the influence of physical characteristics of the transects on fish assemblage structure. Finally, fish assemblage measures were separated by month and temporal comparisons of fish assemblage were performed with NMDS and perMANOVA. Over the year, fish assemblages were distinct among the three reaches, and appear to be significantly influenced by temperature, undercut banks, and riparian vegetation type. Biotic homogenization in the Drain can be attributed to degraded physical features associated with channel modification in stormwater drains. Despite management and jurisdictional differences between streams and stormwater drains, evidence that earthen stormwater drains can maintain fish assemblages temporally demonstrates their biological potential and need to be considered as interconnected fish habitat elements within the overall watershed.
+C1 [Bliss, S. M.; Lennox, R. J.; Midwood, J. D.; Cooke, S. J.] Carleton Univ, Dept Biol, Fish Ecol & Conservat Physiol Lab, 1125 Colonel By Dr, Ottawa, ON K1S 5B6, Canada.
+RP Bliss, SM (reprint author), Carleton Univ, Dept Biol, Fish Ecol & Conservat Physiol Lab, 1125 Colonel By Dr, Ottawa, ON K1S 5B6, Canada.
+EM bliss.shireen@gmail.com
+OI Cooke, Steven/0000-0002-5407-0659; Lennox, Robert/0000-0003-1010-0577
+FU National Capital Commission through the Fish Ecology and Conservation
+   Physiology Laboratory; Ontario Graduate Scholarship from the Province of
+   Ontario; Carleton University; Canadian Council on Animal Care [B10-12]
+FX For field assistance, we are grateful to K. Stamplecoskie, A.
+   Muhametsafina, E. Samson, S. Bower, T. Prystay, B. Allen, other members
+   of the Fish Ecology and Conservation Physiology Laboratory, and M.
+   Caputo along with summer interns from the National Capital Commission.
+   We thank the Ontario Ministry of Natural Resources and the National
+   Capital Commission for kindly providing research permits. Project
+   funding was provided primarily by the National Capital Commission while
+   additional support was through the Fish Ecology and Conservation
+   Physiology Laboratory (S.J.C.). S.M. Bliss was supported by an Ontario
+   Graduate Scholarship from the Province of Ontario and Carleton
+   University. This project was conducted in accordance with the guidelines
+   of the Canadian Council on Animal Care administered by the Carleton
+   University Animal Care Committee (B10-12). All data can be made
+   available upon reasonable request for the purposes of verification by
+   contacting the corresponding author.
+CR BALON EK, 1981, ENVIRON BIOL FISH, V6, P377, DOI 10.1007/BF00005769
+   Bayless J, 1967, EFFECTS CHANNELIZATI
+   Bliss SM, 2015, HYDROBIOLOGIA, V742, P327, DOI 10.1007/s10750-014-1996-0
+   Booth DB, 1997, J AM WATER RESOUR AS, V33, P1077, DOI 10.1111/j.1752-1688.1997.tb04126.x
+   BROOKER MP, 1985, GEOGR J, V151, P63, DOI 10.2307/633280
+   BROOKES A, 1983, SCI TOTAL ENVIRON, V27, P97, DOI 10.1016/0048-9697(83)90149-3
+   Brown LR, 2005, AM FISH S S, V47, P1
+   Brown RS, 2011, FISHERIES, V36, P8, DOI 10.1577/03632415.2011.10389052
+   Coker GA, 2001, MORPHOLOGICAL ECOLOG
+   CUNJAK RA, 1988, CAN J FISH AQUAT SCI, V45, P443, DOI 10.1139/f88-053
+   CUNJAK RA, 1986, ENVIRON BIOL FISH, V17, P53, DOI 10.1007/BF00000401
+   Cunjak RA, 1996, CAN J FISH AQUAT SCI, V53, P267, DOI 10.1139/cjfas-53-S1-267
+   DANIELS RB, 1960, AM J SCI, V258, P161, DOI 10.2475/ajs.258.3.161
+   De Caceres M, 2009, ECOLOGY, V90, P3566
+   DJOKIC D, 1991, HYDROL PROCESS, V5, P115, DOI 10.1002/hyp.3360050109
+   Dudgeon D, 2006, BIOL REV, V81, P163, DOI 10.1017/S1464793105006950
+   Fitzgerald DG, 1999, ECOTOXICOLOGY, V8, P33, DOI 10.1023/A:1008853413528
+   Freeman MC, 2007, J AM WATER RESOUR AS, V43, P5, DOI 10.1111/j.1752-1688.2007.00002.x
+   Hansen RD, 1971, STREAM CHANNELIZATIO, V2, P29
+   Helms Brian S., 2005, Urban Ecosystems, V8, P39, DOI 10.1007/s11252-005-1418-1
+   Holm E., 2009, ROM FIELD GUIDE FRES
+   Hynes H.B.N., 1970, ECOLOGY RUNNING WATE, V555
+   Kaushal SS, 2012, URBAN ECOSYST, V15, P409, DOI 10.1007/s11252-012-0226-7
+   KELLER EA, 1978, ENVIRON GEOL, V2, P119, DOI 10.1007/BF02380474
+   KLINGER SA, 1982, ENVIRON BIOL FISH, V7, P113, DOI 10.1007/BF00001781
+   Konrad CP, 2005, AM FISH S S, V47, P157
+   LeBlanc RT, 1997, J ENVIRON MANAGE, V49, P445, DOI 10.1006/jema.1996.0106
+   Legendre P, 2001, OECOLOGIA, V129, P271, DOI 10.1007/s004420100716
+   LEWIS WM, 1970, COPEIA, P319, DOI 10.2307/1441653
+   Marchetti MP, 2001, ECOL APPL, V11, P530, DOI 10.2307/3060907
+   Meador MR, 2005, AM FISH S S, V47, P409
+   Oksanen J., 2016, VEGAN COMMUNITY ECOL, P4, DOI DOI 10.4135/9781412971874.N145
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   POFF NL, 1989, CAN J FISH AQUAT SCI, V46, P1805, DOI 10.1139/f89-228
+   R Core Development Team, 2014, R FDN STAT COMP AUST
+   Rahel FJ, 2010, AM FISH S S, V73, P311
+   Roy AH, 2008, ENVIRON MANAGE, V42, P344, DOI 10.1007/s00267-008-9119-1
+   SCHLOSSER IJ, 1991, BIOSCIENCE, V41, P704, DOI 10.2307/1311765
+   Schweizer PE, 2005, AM MIDL NAT, V153, P293, DOI 10.1674/0003-0031(2005)153[0293:AVIFAO]2.0.CO;2
+   Stammler KL, 2008, CAN J FISH AQUAT SCI, V65, P509, DOI 10.1139/F07-183
+   Stanfield LW, 2012, J GREAT LAKES RES, V38, P196, DOI 10.1016/j.jglr.2012.02.008
+   Stantec Consulting Ltd, 2011, WATTS CREEK WAT WAT
+   Stephenson JM, 2009, FRESHWATER BIOL, V54, P2139, DOI 10.1111/j.1365-2427.2008.02142.x
+   Urban MC, 2006, DIVERS DISTRIB, V12, P337, DOI 10.1111/j.1366-9516.2005.00226.x
+   Van Buren MA, 2000, WATER RES, V34, P1359, DOI 10.1016/S0043-1354(99)00244-4
+   Walsh CJ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045814
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Walsh CJ, 2001, FRESHWATER BIOL, V46, P535, DOI 10.1046/j.1365-2427.2001.00690.x
+   Wang LZ, 1997, FISHERIES, V22, P6, DOI 10.1577/1548-8446(1997)022<0006:IOWLUO>2.0.CO;2
+   Wang LZ, 2003, BIOLOGICAL RESPONSE SIGNATURES: INDICATOR PATTERNS USING AQUATIC COMMUNITIES, P227
+   Wang LZ, 2001, ENVIRON MANAGE, V28, P255, DOI 10.1007/s0026702409
+   WEAVER LA, 1994, T AM FISH SOC, V123, P162, DOI 10.1577/1548-8659(1994)123<0162:UOAWAH>2.3.CO;2
+   Wentworth CK, 1922, J GEOL, V30, P377, DOI 10.1086/622910
+   Wichert GA, 1998, ENVIRON MANAGE, V22, P425, DOI 10.1007/s002679900117
+   Wichert Gordon A., 1994, Water Pollution Research Journal of Canada, V29, P599
+   Wood PJ, 1997, ENVIRON MANAGE, V21, P203, DOI 10.1007/s002679900019
+NR 56
+TC 0
+Z9 0
+U1 1
+U2 24
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1083-8155
+EI 1573-1642
+J9 URBAN ECOSYST
+JI Urban Ecosyst.
+PD OCT
+PY 2017
+VL 20
+IS 5
+BP 1045
+EP 1055
+DI 10.1007/s11252-017-0663-4
+PG 11
+WC Biodiversity Conservation; Ecology; Environmental Sciences; Urban
+   Studies
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Urban
+   Studies
+GA FH9GQ
+UT WOS:000411519400009
+DA 2019-03-26
+ER
+
+PT S
+AU Havko, J
+   Mitasova, V
+   Pavlenko, T
+   Titko, M
+   Kovacova, J
+AF Havko, Jan
+   Mitasova, Veronika
+   Pavlenko, Tomas
+   Titko, Michal
+   Kovacova, Jana
+BE Bujnak, J
+   Guagliano, M
+TI Financing the disaster resilient city in the Slovak Republic
+SO 12TH INTERNATIONAL SCIENTIFIC CONFERENCE OF YOUNG SCIENTISTS ON
+   SUSTAINABLE, MODERN AND SAFE TRANSPORT
+SE Procedia Engineering
+LA English
+DT Proceedings Paper
+CT 12th International Scientific Conference of Young Scientists on
+   Sustainable, Modern and Safe Transport
+CY MAY 31-JUN 02, 2017
+CL High Tatras, SLOVAKIA
+SP Univ Zilina
+DE disaster resilient city; crisis management; financing resilient city
+AB This paper presents a framework for scaling climate change adaptation in cities in the Slovak Republic. The framework specifically focuses on the requirements of financial resources mobilizing for climate change adaptation and other urban risk reduction. An article is elaborated through the resilient city concept, an ability of urban areas and their individual assets to perform a basics service for stakeholders under a wide range of condition. The purpose of the article is to identify and analyze funding resources for disaster resilient city in the European Union. (C) 2017 The Authors. Published by Elsevier Ltd.
+C1 [Havko, Jan; Mitasova, Veronika; Pavlenko, Tomas; Titko, Michal; Kovacova, Jana] Univ Zilina, Fac Secur Engn, Zilina 01026, Slovakia.
+RP Havko, J (reprint author), Univ Zilina, Fac Secur Engn, Zilina 01026, Slovakia.
+EM jan.havko@fbi.uniza.sk
+OI Titko, Michal/0000-0003-4025-8842
+FU  [IGP201602]
+FX This work support internal grant IGP201602 Application of resilient city
+   concept in Zilina city
+CR Betakova J., 2015, THE SUSTAINABLE CITY, VX, P251
+   Brugmann J, 2012, ENVIRON URBAN, V24, P215, DOI 10.1177/0956247812437130
+   European Commission, 2016, EU STRAT AD CLIM CHA
+   Havko J., 2015, MANAZMENT TEORIA VYU, P67
+   Hochrainer S, 2006, MACROECONOMIC RISK M
+   Hochrainer-Stigler S, 2014, GLOBAL ENVIRON CHANG, V25, P87, DOI 10.1016/j.gloenvcha.2014.01.011
+   Klucka J., 2013, EKONOMIKA KRIZOVEHO, V1
+   Klucka J, 2015, RESILIENCE ORG TEORI, P265
+   Ministry of environment of the Slovak Republic, 2014, STRAT AD SLOV REP NE
+   Ministry of environment of the Slovak Republic, 2015, INF PRIEB NASL POV U
+   Polednak P., 2011, RIESENIE PRIRODNYCH
+   Pollner J., 2012, FINANCIAL FISCAL INS
+   UNIDSR, 2009, TERM DIS RISK RED
+   UNIDSR, 2016, MAK CIT RES MY CIT I
+   UNIDSR, 2012, MAK CIT MOR RES HDB
+   UNISDR, 2015, SEND FRAM
+   UNISDR, 2007, HYOG FRAM
+NR 17
+TC 0
+Z9 0
+U1 1
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-7058
+J9 PROCEDIA ENGINEER
+PY 2017
+VL 192
+BP 301
+EP 306
+DI 10.1016/j.proeng.2017.06.052
+PG 6
+WC Engineering, Multidisciplinary; Transportation Science & Technology
+SC Engineering; Transportation
+GA BI0MB
+UT WOS:000404958000052
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Correa, CG
+   Contreras, MY
+AF Garcia Correa, Concepcion
+   Yanez Contreras, Martha
+TI Intergenerational educational mobility in urban and rural areas in
+   Colombia: Equal opportunities?
+SO SOPHIA-EDUCACION
+LA Spanish
+DT Article
+DE education; Colombia; equal opportunities; social mobility
+AB This article presents the results of measuring intergenerational educational mobility in urban and rural areas in Colombia. Using transitional matrices, it was found evidence of intergenerational educational mobility in both urban and rural areas in Colombia, which, however, is more restricted for the case of rural zones. In fact, the possibility of scaling higher levels of education is greater for children with parents with higher education, and it is stressed if they belong to urban areas, which means that educational opportunities in Colombia are limited, not only by the conditioning of the educational level of the parents, but also by the area to which persons belong.
+C1 [Garcia Correa, Concepcion; Yanez Contreras, Martha] Univ Cartagena, Grp Invest Econ & Gest Med Ambiente, Cartagena, Colombia.
+   [Yanez Contreras, Martha] Univ Cartagena, Econ & Econ Medio Ambiente & Recursos Nat, Cartagena, Colombia.
+RP Correa, CG (reprint author), Univ Cartagena, Grp Invest Econ & Gest Med Ambiente, Cartagena, Colombia.
+EM cgarciac@unicartagena.edu.co; myanezc@unicartagena.edu.co
+CR Andersen L., 2001, 433 INT DEV BANK, P1
+   AZEVEDO VIVIANE M. R, 2010, RAE, V25, P7, DOI 10.4067/S0718-88702010000200002
+   Behrman JN, 2001, ECONOMIA, V2, P1
+   Bonilla L., 2010, REV EC ROSARIO, V13, P191
+   Cartagena K., 2003, ESTUDIOS EC DESARROL, V3, P27
+   Cartagena K., 2005, ENS POLIT ECON, P208
+   Gaviria, 2002, FEDESARROLLO, P1
+   Gaviria A, 2006, DOCUMENTO CEDE, P1
+   Mediavilla, 2010, REV ESPANOLA EDUCACI, P287
+   Nina E, 1999, PLANEACION INFORM DE, P129
+   Parra R., 2013, POLITICAS QUE CIERRA
+   PNUD P. d., 2010, INFORM REGIONAL DESA, P1
+   Sanchez H A., 2004, MOVILIDAD INTERGENER, P1
+   Tenjo J., 2004, DOCUMENTOS EC, P1
+   Uribe C, 2005, UNIV HUMANIST, V59, P36
+   Uribe Mallarino Consuelo, 2006, Pap.polit., V11, P69
+   Yanez M., 2013, ANALISIS PERSPECTIVA, V9
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 11
+PU UNIV LA GRAN COLOMBIA
+PI QUINDIO
+PA CARRERA 14, NO 7-46, ARMENIA, QUINDIO, 00000, COLOMBIA
+SN 1794-8932
+EI 2339-3084
+J9 SOPHIA-EDUC
+JI Sophia-Educ.
+PY 2017
+VL 13
+IS 1
+BP 27
+EP 33
+DI 10.18634/sophiaj.13v.1i.366
+PG 7
+WC Education & Educational Research
+SC Education & Educational Research
+GA EO3VU
+UT WOS:000396623400004
+OA Other Gold
+DA 2019-03-26
+ER

@@ -1,0 +1,526 @@
+
+PT J
+AU Yan, XY
+   Wang, WX
+   Gao, ZY
+   Lai, YC
+AF Yan, Xiao-Yong
+   Wang, Wen-Xu
+   Gao, Zi-You
+   Lai, Ying-Cheng
+TI Universal model of individual and population mobility on diverse spatial
+   scales
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID PATTERNS
+AB Studies of human mobility in the past decade revealed a number of general scaling laws. However, to reproduce the scaling behaviors quantitatively at both the individual and population levels simultaneously remains to be an outstanding problem. Moreover, recent evidence suggests that spatial scales have a significant effect on human mobility, raising the need for formulating a universal model suited for human mobility at different levels and spatial scales. Here we develop a general model by combining memory effect and population-induced competition to enable accurate prediction of human mobility based on population distribution only. A variety of individual and collective mobility patterns such as scaling behaviors and trajectory motifs are accurately predicted for different countries and cities of diverse spatial scales. Our model establishes a universal underlying mechanism capable of explaining a variety of human mobility behaviors, and has significant applications for understanding many dynamical processes associated with human mobility.
+C1 [Yan, Xiao-Yong; Gao, Zi-You] Beijing Jiaotong Univ, Inst Transportat Syst Sci & Engn, Beijing 100044, Peoples R China.
+   [Wang, Wen-Xu] Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+   [Wang, Wen-Xu] Beijing Normal Univ, Ctr Complex Res, Beijing 100875, Peoples R China.
+   [Lai, Ying-Cheng] Arizona State Univ, Sch Elect Comp & Energy Engn, Tempe, AZ 85287 USA.
+RP Gao, ZY (reprint author), Beijing Jiaotong Univ, Inst Transportat Syst Sci & Engn, Beijing 100044, Peoples R China.; Wang, WX (reprint author), Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.; Wang, WX (reprint author), Beijing Normal Univ, Ctr Complex Res, Beijing 100875, Peoples R China.; Lai, YC (reprint author), Arizona State Univ, Sch Elect Comp & Energy Engn, Tempe, AZ 85287 USA.
+EM wenxuwang@bnu.edu.cn; zygao@bjtu.edu.cn; Ying-Cheng.Lai@asu.edu
+RI Yan, Xiao-Yong/P-6027-2018
+OI Yan, Xiao-Yong/0000-0003-2091-6967
+FU NSFC [71621001, 71671015, 71631002]; Vannevar Bush Faculty Fellowship
+   program - Basic Research Office of the Assistant Secretary of Defense
+   for Research and Engineering; Office of Naval Research
+   [N00014-16-1-2828]
+FX X.-Y.Y. was supported by NSFC under grant nos. 71621001 and 71671015.
+   W.-X.W. was supported by NSFC under grant no. 71631002. Z.-Y.G. was
+   supported by NSFC under grant no. 71621001. Y.-C.L. would like to
+   acknowledge support from the Vannevar Bush Faculty Fellowship program
+   sponsored by the Basic Research Office of the Assistant Secretary of
+   Defense for Research and Engineering and funded by the Office of Naval
+   Research through grant no. N00014-16-1-2828. We are grateful to
+   Professor T. Zhou for providing us the Sina Weibo data, and to Dr C.
+   Zhao for data processing.
+CR Appleby S, 1996, GEOGR ANAL, V28, P147
+   Balcan D, 2011, NAT PHYS, V7, P581, DOI 10.1038/NPHYS1944
+   Belik V, 2011, PHYS REV X, V1, DOI 10.1103/PhysRevX.1.011001
+   Berlingerio Michele, 2013, Machine Learning and Knowledge Discovery in Databases. European Conference, ECML PKDD 2013. Proceedings: LNCS 8190, P663, DOI 10.1007/978-3-642-40994-3_50
+   Blondel VD, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0046-0
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Cho E, 2011, P 17 ACM SIGKDD INT
+   Deville P, 2016, P NATL ACAD SCI USA, V113, P7047, DOI 10.1073/pnas.1525443113
+   Deville P, 2014, P NATL ACAD SCI USA, V111, P15888, DOI 10.1073/pnas.1408439111
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Frias-Martinez E., 2011, IEEE 3 INT C PRIV SE, P57
+   Gallotti R, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms12600
+   Goh S, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.026102
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Han XP, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036117
+   Hou L, 2014, SCI REP-UK, V4, DOI 10.1038/srep06560
+   Hu YQ, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/38006
+   Jiang S, 2013, P ACM INT C UND NETW, P57
+   Lenormand M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0045985
+   Levandoski JJ, 2012, PROC INT CONF DATA, P450, DOI 10.1109/ICDE.2012.54
+   Lima A, 2015, SCI REP-UK, V5, DOI 10.1038/srep10650
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Pappalardo L, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms9166
+   Ren YH, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms6347
+   Saramaki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Scepanovic S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0124160
+   Schneider CM, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0246
+   Simini F, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0060069
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Szell M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00457
+   Tizzoni M, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003716
+   Wesolowski A, 2012, SCIENCE, V338, P267, DOI 10.1126/science.1223467
+   WYLLYS RE, 1981, LIBR TRENDS, V30, P53
+   Yan XY, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0834
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+   Zhao YM, 2016, NEW J PHYS, V18, DOI 10.1088/1367-2630/18/5/053025
+   Zhao ZD, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.050802
+   Zhao ZD, 2013, SCI REP-UK, V3, DOI 10.1038/srep03472
+   Zipf GK, 1946, AM SOCIOL REV, V11, P677, DOI 10.2307/2087063
+NR 41
+TC 15
+Z9 15
+U1 11
+U2 22
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD NOV 21
+PY 2017
+VL 8
+AR 1639
+DI 10.1038/s41467-017-01892-8
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FN5HX
+UT WOS:000416039000007
+PM 29158475
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT S
+AU Sun, YX
+   Meng, QY
+   Sun, ZH
+   Zhang, JH
+   Zhang, LL
+AF Sun, Yunxiao
+   Meng, Qingyan
+   Sun, Zhenhui
+   Zhang, Jiahui
+   Zhang, Linlin
+BE Jiang, Y
+   Gong, H
+   Chen, W
+   Li, J
+TI Assessing the impacts of grain sizes on landscape pattern of urban green
+   space
+SO AOPC 2017: OPTICAL SENSING AND IMAGING TECHNOLOGY AND APPLICATIONS
+SE Proceedings of SPIE
+LA English
+DT Proceedings Paper
+CT Annual Conference of the Chinese-Society-for-Optical-Engineering (CSOE)
+   on Applied Optics and Photonics China (AOPC) - Optical Sensing and
+   Imaging Technology and Applications
+CY JUN 04-06, 2017
+CL Beijing, PEOPLES R CHINA
+SP SPIE, Chinese Soc Opt Engn, Chinese Soc Astronaut, Photoelectron Technol Comm, CHIA, Acad & Res, Dept Cooperat & Coordinat Ind, Sci & Technol Low Light Level Night Vis Lab, Sci & Technol Electro Opt Informat Secur Control Lab, Opt Soc Korea, Opt & Photon Soc Singapore, European Opt Soc, Opt Soc Japan
+DE Remote sensing; Urban green space; Landscape pattern; Effect of grain
+   size
+ID DIFFERENCE; INDEX; AREAS
+AB As an important part of the city, urban green space (UGS) plays an essential role in enhancing human well-being by virtue of multiple environmental, social and economic benefits. Study on landscape pattern of UGS is a focal point and hotspot in landscape ecology. The latest studies demonstrated that landscape metrics provides an effective method in quantifying UGS pattern. However, the study of the scale effect of landscape metrics should be strengthened. The objective of scale related research in UGS is to determine the appropriate scale in the measurement and evaluation of UGS and to find the underlying mechanisms by use of the selected scales. This study aims to identify the scale characteristics and scale domain of UGS pattern, and provide basic information for pattern analysis and scaling in UGS research.
+   In this paper, taking the central urban area of Szekesfehervar in Hungary as an example, we firstly extracted UGS from WordView-2 multi-spectral image (2m), then obtained a series of grain sizes by upscaling, and finally calculated and analyzed the characteristics of different landscape metrics with varying grain sizes. In this study, both the Normalized Difference Vegetation Index (NDVI) and the Normalized Difference Green Index (NDGI) were used to ensure the accuracy of the green space extraction in high spatial resolution image. On the basis of green space extraction, the green space patterns at different grain sizes were obtain by the assembly of grid cells. A total of 20 grain sizes were selected in this paper, ranging from 2 m to 40 m with a step size of 2 m. Landscape metrics both under class and landscape levels, including Patch Density (PD), Percentage of Landscape (PLAND), Mean Perimeter-Area Fractal Dimension (FRAC_MN), Division Index (DIVISION), Cohesion Index (COHESION), and Shannon's Evenness Index (SHEI) were calculated.
+   The results demonstrated that with the increase of grain size, the landscape metrics under class level and landscape level were significantly affected by the grain size, and there was obvious critical grain size. On the whole, 16 m is the critical grain size of the green space pattern, and the suitable grain size for landscape metrics calculation of UGS ranges from 2 m to 16 m. The responding curves were varied by landscape metrics. Some metrics had clear changing trend and obvious turning grain size, while the others also had obvious turning grain size, but without clear changing trend. According to scale inflexions and responding curves discussed in the paper, scale domains of landscape metrics were confirmed. Generally, from 2 m to 16 m was the scale domain of UGS pattern, which means that related ecological model of UGS can be scaled across this scale extent by ordinary transformation. The study of impacts of changing scale on UGS can provide a reference for understanding the ecological benefits of UGS and optimizing the green space pattern.
+C1 [Sun, Yunxiao; Meng, Qingyan; Sun, Zhenhui; Zhang, Jiahui; Zhang, Linlin] Chinese Acad Sci, Inst Remote Sensing & Digital Earth, Beijing 100101, Peoples R China.
+   [Sun, Yunxiao; Sun, Zhenhui; Zhang, Jiahui; Zhang, Linlin] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+RP Meng, QY (reprint author), Chinese Acad Sci, Inst Remote Sensing & Digital Earth, Beijing 100101, Peoples R China.
+EM sunyx@radi.ac.cn; mengqy@radi.ac.cn; sunzh@radi.ac.cn;
+   zhangjh09@radi.ac.cn; zhangll@radi.ac.cn
+FU Study on Urban Green Space Index Retrieval Model based on Airborne
+   LiDAR, China National Natural Science Foundation [41471310]; Remote
+   Sensing Evaluation of Urban Green Space Landscape Pattern based on LIDAR
+   and Multi-spectral data, Natural Science Foundation of Hainan Province
+   [2017CXTD015]
+FX This research received funding from the following projects:; 1. Project
+   Name: Study on Urban Green Space Index Retrieval Model based on Airborne
+   LiDAR, China National Natural Science Foundation, with Project No.
+   41471310.; 2. Project Name: Remote Sensing Evaluation of Urban Green
+   Space Landscape Pattern based on LIDAR and Multi-spectral data, Natural
+   Science Foundation of Hainan Province, with Project No. 2017CXTD015
+CR Baranyai G., 2012, ANAL DIMENSIONS MOSA, P8
+   Bolund P, 1999, ECOL ECON, V29, P293, DOI 10.1016/S0921-8009(99)00013-0
+   De Ridder K, 2004, SCI TOTAL ENVIRON, V334, P489, DOI 10.1016/j.scitotenv.2004.04.054
+   Fan XW, 2016, ISPRS J PHOTOGRAMM, V121, P177, DOI 10.1016/j.isprsjprs.2016.09.008
+   Fu BL, 2017, ECOL INDIC, V73, P105, DOI 10.1016/j.ecolind.2016.09.020
+   GOWARD SN, 1991, REMOTE SENS ENVIRON, V35, P257, DOI 10.1016/0034-4257(91)90017-Z
+   Gupta K, 2012, LANDSCAPE URBAN PLAN, V105, P325, DOI 10.1016/j.landurbplan.2012.01.003
+   Hofmann P, 2011, REMOTE SENS-BASEL, V3, P1088, DOI 10.3390/rs3061088
+   Nowak DJ, 2002, ENVIRON POLLUT, V116, P381, DOI 10.1016/S0269-7491(01)00214-7
+   Onishi A, 2010, URBAN FOR URBAN GREE, V9, P323, DOI 10.1016/j.ufug.2010.06.002
+   Schopfer E., 2009, REMOTE SENSING SPATI, V27, P1
+   Sun H, 2011, COMPUT ELECTRON AGR, V75, P176, DOI 10.1016/j.compag.2010.11.001
+NR 12
+TC 0
+Z9 0
+U1 7
+U2 8
+PU SPIE-INT SOC OPTICAL ENGINEERING
+PI BELLINGHAM
+PA 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN 0277-786X
+EI 1996-756X
+BN 978-1-5106-1406-2; 978-1-5106-1405-5
+J9 PROC SPIE
+PY 2017
+VL 10462
+AR UNSP 104623J
+DI 10.1117/12.2285177
+PN 1
+PG 7
+WC Remote Sensing; Optics; Imaging Science & Photographic Technology
+SC Remote Sensing; Optics; Imaging Science & Photographic Technology
+GA BJ4UM
+UT WOS:000425515000125
+DA 2019-03-26
+ER
+
+PT J
+AU Wen, CY
+   Juan, YH
+   Yang, AS
+AF Wen, Chih-Yung
+   Juan, Yu-Hsuan
+   Yang, An-Shik
+TI Enhancement of city breathability with half open spaces in ideal urban
+   street canyons
+SO BUILDING AND ENVIRONMENT
+LA English
+DT Article
+DE City breathability; Urban street canyons; Half open spaces; Arcade;
+   Computational fluid dynamics
+ID POLLUTANT DISPERSION; VENTILATION EFFICIENCY; NATURAL VENTILATION;
+   CROSS-VENTILATION; PEDESTRIAN LEVEL; WIND ENVIRONMENT; CFD SIMULATION;
+   HONG-KONG; AIR-FLOW; DENSITY
+AB The design guidelines for assessing the wind environment at the pedestrian level have become increasingly important in urban planning over the past few decades. The purpose of this study is therefore to conduct computational fluid dynamics simulations to examine the flow behavior of the aeration around the buildings, with and without an arcade design in an ideal situation in urban street canyons. The results suggest the effectiveness of adopting an arcade design to sustain a stable wind environment and improve the flow aeration over areas with urban street canyons. Computations are also carried out to examine the ventilation performance of the pedestrian pathway layer by varying the parameters of building height, canyon width, and height and width of the arcade. The simulated results are then further processed by using a multivariable regression analysis on a group of dimensionless parameters as well as visualization with the scaling law on arcade structures to facilitate a design for arcade buildings that would enhance city breathability. This correlation which uses multiple dimensionless parameters will act as a reference for future arcade designs. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Wen, Chih-Yung] Hong Kong Polytech Univ, Dept Mech Engn, Kowloon, Hong Kong, Peoples R China.
+   [Juan, Yu-Hsuan; Yang, An-Shik] Natl Taipei Univ Technol, Dept Energy & Refrigerating Air Conditioning Engn, 1,Sec 3,Chung Hsiao E Rd, Taipei 106, Taiwan.
+RP Yang, AS (reprint author), Natl Taipei Univ Technol, Dept Energy & Refrigerating Air Conditioning Engn, 1,Sec 3,Chung Hsiao E Rd, Taipei 106, Taiwan.
+EM asyang@nlutedu.tw
+RI Wen, Chih-yung/M-1763-2015
+OI Wen, Chih-yung/0000-0002-1181-8786
+FU National Science Council, Taiwan, ROC [MOST 105-2221-E-027-098]
+FX This paper represents part of the results obtained under the support of
+   the National Science Council, Taiwan, ROC (Contract No. MOST
+   105-2221-E-027-098).
+CR Abd Razak A, 2013, BUILD ENVIRON, V59, P56, DOI 10.1016/j.buildenv.2012.08.007
+   Ahmad K, 2005, J WIND ENG IND AEROD, V93, P697, DOI 10.1016/j.jweia.2005.04.002
+   Ali-Toudert F, 2007, SOL ENERGY, V81, P742, DOI 10.1016/j.solener.2006.10.007
+   [Anonymous], 2013, ANSYS FLUENT THEORY, P15
+   Bady M, 2008, BUILD ENVIRON, V43, P1991, DOI 10.1016/j.buildenv.2007.11.013
+   Blocken B, 2015, BUILD ENVIRON, V91, P219, DOI 10.1016/j.buildenv.2015.02.015
+   Blocken B, 2014, J WIND ENG IND AEROD, V129, P69, DOI 10.1016/j.jweia.2014.03.008
+   BROWN MJ, 2001, INT SOC ENV HYDR C T
+   Bu Z, 2009, BUILD ENVIRON, V44, P1501, DOI 10.1016/j.buildenv.2008.08.002
+   Buccolieri R, 2015, URBAN CLIM, V13, P73, DOI 10.1016/j.uclim.2015.06.002
+   Buccolieri R, 2010, ATMOS ENVIRON, V44, P1894, DOI 10.1016/j.atmosenv.2010.02.022
+   Cheng H, 2007, J WIND ENG IND AEROD, V95, P715, DOI 10.1016/j.jweia.2007.01.004
+   Coider W. J., 2005, ENVIRON FLUID MECH, V5, P443
+   da Graca GC, 2012, ENERG BUILDINGS, V50, P177, DOI 10.1016/j.enbuild.2012.03.037
+   Di Sabatino S, 2007, ATMOS ENVIRON, V41, P8316, DOI 10.1016/j.atmosenv.2007.06.052
+   Durrani F, 2015, BUILD ENVIRON, V92, P167, DOI 10.1016/j.buildenv.2015.04.027
+   Giridharan R, 2007, BUILD ENVIRON, V42, P3669, DOI 10.1016/j.buildenv.2006.09.011
+   Grimmond CSB, 1999, J APPL METEOROL, V38, P1262, DOI 10.1175/1520-0450(1999)038<1262:APOUAD>2.0.CO;2
+   Hang J, 2013, BUILD ENVIRON, V70, P318, DOI 10.1016/j.buildenv.2013.09.002
+   Hang J, 2012, BUILD ENVIRON, V56, P346, DOI 10.1016/j.buildenv.2012.03.023
+   Hang JA, 2010, BOUND-LAY METEOROL, V136, P129, DOI 10.1007/s10546-010-9490-3
+   Hang J, 2010, BUILD ENVIRON, V45, P1353, DOI 10.1016/j.buildenv.2009.11.019
+   Hang J, 2009, ATMOS ENVIRON, V43, P6011, DOI 10.1016/j.atmosenv.2009.08.029
+   Hang J, 2009, BUILD ENVIRON, V44, P1714, DOI 10.1016/j.buildenv.2008.11.013
+   Hang J, 2009, ATMOS ENVIRON, V43, P869, DOI 10.1016/j.atmosenv.2008.10.040
+   Hanjalic K, 2008, J WIND ENG IND AEROD, V96, P1537, DOI 10.1016/j.jweia.2008.02.054
+   Hargreaves DM, 2007, J WIND ENG IND AEROD, V95, P355, DOI 10.1016/j.jweia.2006.08.002
+   Hiyama K., 2012, VENTILATING CITIES A, P135
+   Hu TT, 2013, J WIND ENG IND AEROD, V112, P39, DOI 10.1016/j.jweia.2012.11.002
+   JANG DS, 1986, NUMER HEAT TRANSFER, V10, P209, DOI 10.1080/10407798608552506
+   Kataoka K, 2009, SCI TOTAL ENVIRON, V407, P3112, DOI 10.1016/j.scitotenv.2008.09.015
+   Kato S, 1997, J WIND ENG IND AEROD, V67-8, P573, DOI 10.1016/S0167-6105(97)00101-3
+   Kim T, 2010, BUILD ENVIRON, V45, P1329, DOI 10.1016/j.buildenv.2009.11.016
+   Li XX, 2006, ATMOS ENVIRON, V40, P5640, DOI 10.1016/j.atmosenv.2006.04.055
+   Li XX, 2009, ATMOS ENVIRON, V43, P2410, DOI 10.1016/j.atmosenv.2009.02.022
+   Lien F. -S., BOUNDARY LAYER METEO, V112, P427
+   Lien FS, 2004, BOUND-LAY METEOROL, V112, P427, DOI 10.1023/B:BOUN.0000030654.15263.35
+   Lin M, 2014, BUILD ENVIRON, V79, P152, DOI 10.1016/j.buildenv.2014.05.008
+   Liu CH, 2005, ATMOS ENVIRON, V39, P1567, DOI 10.1016/j.atmosenv.2004.08.036
+   Luo ZW, 2011, ATMOS ENVIRON, V45, P5946, DOI 10.1016/j.atmosenv.2011.04.010
+   Meroney RN, 1996, J WIND ENG IND AEROD, V62, P37, DOI 10.1016/S0167-6105(96)00057-8
+   Mirzaei PA, 2012, BUILD ENVIRON, V47, P410, DOI 10.1016/j.buildenv.2011.06.007
+   Montazeri H, 2015, J WIND ENG IND AEROD, V146, P102, DOI 10.1016/j.jweia.2015.07.007
+   Ng E, 2009, BUILD ENVIRON, V44, P1478, DOI 10.1016/j.buildenv.2008.06.013
+   OKE TR, 1988, ENERG BUILDINGS, V11, P103, DOI 10.1016/0378-7788(88)90026-6
+   Raithby G.D, 1984, NUMERICAL HEAT TRANS, V7, P147
+   Ramponi R, 2012, BUILD ENVIRON, V53, P34, DOI 10.1016/j.buildenv.2012.01.004
+   Ramponi R, 2015, BUILD ENVIRON, V92, P152, DOI 10.1016/j.buildenv.2015.04.018
+   Salim SM, 2011, J WIND ENG IND AEROD, V99, P103, DOI 10.1016/j.jweia.2010.12.002
+   WANG H., 2015, EURASIP J WIREL COMM, V2015, P1, DOI DOI 10.1016/J.TPLANTS.2015.04.003
+   WIERINGA J, 1992, J WIND ENG IND AEROD, V41, P357, DOI 10.1016/0167-6105(92)90434-C
+   Wong MS, 2010, BUILD ENVIRON, V45, P1880, DOI 10.1016/j.buildenv.2010.02.019
+   Yang A. -S., 2016, URBAN FORESTRY URBAN
+   Yang AS, 2016, APPL ENERG, V171, P213, DOI 10.1016/j.apenergy.2016.03.007
+   Yang AS, 2014, APPL THERM ENG, V70, P219, DOI 10.1016/j.applthermaleng.2014.05.017
+   Yang AS, 2016, J MECH FIRSTVIEW, P1
+   Yim SHL, 2009, ATMOS ENVIRON, V43, P4982, DOI 10.1016/j.atmosenv.2009.07.002
+   Zhang AS, 2005, J WIND ENG IND AEROD, V93, P891, DOI 10.1016/j.jweia.2005.09.001
+NR 58
+TC 19
+Z9 19
+U1 5
+U2 26
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-1323
+EI 1873-684X
+J9 BUILD ENVIRON
+JI Build. Environ.
+PD FEB
+PY 2017
+VL 112
+BP 322
+EP 336
+DI 10.1016/j.buildenv.2016.11.048
+PG 15
+WC Construction & Building Technology; Engineering, Environmental;
+   Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA EN9BX
+UT WOS:000396296800028
+DA 2019-03-26
+ER
+
+PT J
+AU Gao, PC
+   Liu, Z
+   Liu, G
+   Zhao, HR
+   Xie, XX
+AF Gao, Peichao
+   Liu, Zhao
+   Liu, Gang
+   Zhao, Hongrui
+   Xie, Xiaoxiao
+TI Unified Metrics for Characterizing the Fractal Nature of Geographic
+   Features
+SO ANNALS OF THE AMERICAN ASSOCIATION OF GEOGRAPHERS
+LA English
+DT Article
+DE fractal; head/tail breaks; heavy-tailed distribution; ht-index; scaling
+   structure
+ID URBAN FORM; MAP GENERALIZATION; HEAD/TAIL BREAKS; SELF-SIMILARITY;
+   DIMENSION; SPACE; HETEROGENEITY; CITIES; SCALE
+AB The term fractal is used to describe an object displaying self-similarity at different scales. This self-similarity can be measured by either the power-law exponent or the ht-index, which is a recently proposed method for characterizing the fractal nature of geographic features. Although increasingly popular in geography, the ht-index is not sensitive to changes or evolutions of fractals, limiting its usefulness as an alternative fractal dimension to the power-law exponent. Two improvements to the ht-index were suggested in the literature, namely, the cumulative rate of growth (the CRG index) and the ratio of areas in a rank-size plot (the RA index). The CRG index is sensitive but not monotonic, however, with respect to the evolution of fractals. The RA index is both sensitive and monotonic but not interpretable in fractal terms. In this article, two novel metrics, referred to as unified metrics, are proposed by combining advantages of the ht-index and all of its improvements, being simultaneously easy to interpret, monotonic with respect to the evolution of fractals, and sensitive to changes in the evolution. The usefulness of unified metrics was demonstrated by both numerical experiments and case studies. Given that the idea behind the ht-index has led to a relaxed, emerging popular definition of fractals, the proposed unified metrics have great potential to be used as the standard fractal dimension along with such a definition.
+C1 [Gao, Peichao; Liu, Zhao; Zhao, Hongrui; Xie, Xiaoxiao] Tsinghua Univ, Dept Civil Engn, Inst Geomat, Beijing, Peoples R China.
+   [Liu, Gang] Chengdu Univ Technol, Coll Earth Sci, Chengdu, Sichuan, Peoples R China.
+RP Gao, PC (reprint author), Tsinghua Univ, Dept Civil Engn, Inst Geomat, Beijing, Peoples R China.
+EM peichao.gao@connect.polyu.hk; liuz@mail.tsinghua.edu.cn;
+   liuganggis@sina.com; zhr@tsinghua.edu.cn; xiexx15@mails.tsinghua.edu.cn
+RI Gao, Peichao/H-2638-2016
+OI Gao, Peichao/0000-0003-1714-779X; Liu, Gang/0000-0002-8856-8746
+FU National Natural Science Foundation of China [41471383, 41571414,
+   41401434]
+FX This work was supported by the National Natural Science Foundation of
+   China (Nos. 41471383, 41571414, and 41401434).
+CR Ahmed W, 2010, ANN ASSOC AM GEOGR, V100, P621, DOI 10.1080/00045601003794965
+   Chen Y., 2008, FRACTAL URBAN SYSTEM
+   Chen Y. G., 2012, DISCRETE DYN NAT SOC, V2012, P1
+   Chen Y. G., 2015, FRACTALS, V23, P1
+   Chen YG, 2017, PHYSICA A, V465, P673, DOI 10.1016/j.physa.2016.08.008
+   Chen YG, 2014, FRACTALS, V22, DOI 10.1142/S0218348X14500017
+   Chen YG, 2013, ENVIRON PLANN B, V40, P884, DOI 10.1068/b36155
+   Chen YG, 2013, CHAOS SOLITON FRACT, V49, P47, DOI 10.1016/j.chaos.2013.02.006
+   Chen YG, 2011, COMPUT ENVIRON URBAN, V35, P442, DOI 10.1016/j.compenvurbsys.2011.05.008
+   Chen YG, 2009, CHAOS SOLITON FRACT, V41, P615, DOI 10.1016/j.chaos.2008.02.035
+   Chen YG, 1998, B SCI TECH, V14, P395
+   Costa L. H. M., 2000, INT C RES NETW PAR
+   Falconer Kenneth, 2013, FRACTALS VERY SHORT
+   Gao PC, 2016, PROF GEOGR, V68, P533, DOI 10.1080/00330124.2015.1099448
+   Gao PC, 2016, ISPRS INT J GEO-INF, V5, DOI 10.3390/ijgi5030034
+   Goodchild M.F., 2001, MODELLING SCALE GEOG, P3
+   GOODCHILD MF, 1987, ANN ASSOC AM GEOGR, V77, P265, DOI 10.1111/j.1467-8306.1987.tb00158.x
+   He J., 2015, INT C INT EARTH OBS
+   Jiang B., 2017, ANN GIS, V23, P67
+   Jiang B, 2015, GEOJOURNAL, V80, P1, DOI 10.1007/s10708-014-9537-y
+   Jiang B, 2015, PROF GEOGR, V67, P295, DOI 10.1080/00330124.2014.968886
+   Jiang B, 2015, INT J GEOGR INF SCI, V29, P159, DOI 10.1080/13658816.2014.953165
+   Jiang B, 2015, CITIES, V43, P69, DOI 10.1016/j.cities.2014.11.013
+   Jiang B, 2014, ANN ASSOC AM GEOGR, V104, P530, DOI 10.1080/00045608.2013.834239
+   Jiang B, 2013, ANN ASSOC AM GEOGR, V103, P844, DOI 10.1080/00045608.2013.765773
+   Jiang B, 2013, PROF GEOGR, V65, P482, DOI 10.1080/00330124.2012.700499
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1033, DOI 10.1080/13658810802004648
+   Kane G, 2005, SCI AM, V293, P40, DOI 10.1038/scientificamerican0705-40
+   Koch H. V., 1904, ARK MATEMATIK ASTRON, V1, P681
+   Kwan MP, 2008, APPL GEOGR, V28, P110, DOI 10.1016/j.apgeog.2007.07.002
+   Landi C., 2012, IEEE INT EN C EXH FL
+   Leung Y, 2011, ANN ASSOC AM GEOGR, V101, P1221, DOI 10.1080/00045608.2011.592733
+   Li SN, 2016, ISPRS J PHOTOGRAMM, V115, P119, DOI 10.1016/j.isprsjprs.2015.10.012
+   Li ZL, 2007, CARTOGR J, V44, P80, DOI 10.1179/000870407X173913
+   Liu G, 2016, INT J MOD PHYS B, V30, DOI 10.1142/S0217979216501435
+   Lo CP, 2002, ANN ASSOC AM GEOGR, V92, P225, DOI 10.1111/1467-8306.00288
+   Long Y., 2015, GEOSPATIAL ANAL SUPP
+   Long Y, 2016, APPL GEOGR, V75, P36, DOI 10.1016/j.apgeog.2016.08.002
+   Long Y, 2016, ANN AM ASSOC GEOGR, V106, P96, DOI 10.1080/00045608.2015.1095062
+   Lu Chun-Liang, 2013, INT J INTELLIGENT IN, V4, P70
+   Ma D, 2015, ISPRS INT GEO-INF, V4, P535, DOI 10.3390/ijgi4020535
+   MANDELBROT B, 1967, SCIENCE, V156, P636, DOI 10.1126/science.156.3775.636
+   Mandelbrot B.B., 1977, FRACTALS FORM CHANCE
+   MANDELBROT BB, 1985, PHYS SCRIPTA, V32, P257, DOI 10.1088/0031-8949/32/4/001
+   Marcinczak S, 2015, ANN ASSOC AM GEOGR, V105, P183, DOI 10.1080/00045608.2014.968977
+   MARK DM, 1984, J INT ASS MATH GEOL, V16, P671, DOI 10.1007/BF01033029
+   Menger K, 1927, P AMSTERDAM, V29, P476
+   Musa SI, 2017, GEOCARTO INT, V32, P813, DOI 10.1080/10106049.2016.1213891
+   Ni J., 2013, MATH PROBL ENG, V2013, P1
+   Ontoy Dexter S., 2014, Biodiversity Journal, V5, P387
+   PHILLIPS JD, 1986, ANN ASSOC AM GEOGR, V76, P50, DOI 10.1111/j.1467-8306.1986.tb00103.x
+   Sierpinski W, 1916, CR HEBD ACAD SCI, V162, P629
+   Sutton PC, 2010, PROF GEOGR, V62, P119, DOI 10.1080/00330120903405006
+   Tannier C, 2011, GEOGR ANAL, V43, P211, DOI 10.1111/j.1538-4632.2011.00814.x
+   Tian K., 2015, POSTGRESQL FUNCTION
+   Torrens PM, 2012, ANN ASSOC AM GEOGR, V102, P35, DOI 10.1080/00045608.2011.595658
+   Turner MG, 2005, ANNU REV ECOL EVOL S, V36, P319, DOI 10.1146/annurev.ecolsys.36.102003.152614
+   Winsberg E, 2003, PHILOS SCI, V70, P105, DOI 10.1086/367872
+   Xu Zu-xin, 2005, Journal of Tongji University (Natural Science), V33, P482
+   [徐祖�? Xu Zuxin], 2005, [同济大学学报. 自然科学�?, Journal of Tongji University], V33, P321
+   Yuan YH, 2016, INT J GEOGR INF SCI, V30, P1594, DOI 10.1080/13658816.2016.1143555
+   Zhang H, 2012, ANN ASSOC AM GEOGR, V102, P350, DOI 10.1080/00045608.2011.620505
+   Zhang L, 2011, WATER RESOUR RES, V47, DOI 10.1029/2011WR010711
+NR 63
+TC 4
+Z9 4
+U1 1
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 2469-4452
+EI 2469-4460
+J9 ANN AM ASSOC GEOGR
+JI Ann. Am. Assoc. Geogr.
+PY 2017
+VL 107
+IS 6
+BP 1315
+EP 1331
+DI 10.1080/24694452.2017.1310022
+PG 17
+WC Geography
+SC Geography
+GA FK8PJ
+UT WOS:000413770400005
+DA 2019-03-26
+ER
+
+PT J
+AU Gaur, A
+   Simonovic, SP
+AF Gaur, Abhishek
+   Simonovic, Slobodan P.
+TI Accessing vulnerability of land-cover types to climate change using
+   physical scaling downscaling model
+SO INTERNATIONAL JOURNAL OF CLIMATOLOGY
+LA English
+DT Article
+DE land cover; physical scaling; forest cover; climate change; Saskatchewan
+ID URBAN HEAT-ISLAND; SURFACE-TEMPERATURE; GLOBAL CLIMATE; IMPACT;
+   PRECIPITATION; URBANIZATION; SCENARIOS; CANADA; TOKYO
+AB The objective of this study is to investigate the vulnerability of different land-cover types to climate change. To this end, land-cover specific temperature change factors are quantified for the southern Saskatchewan region using a novel statistical downscaling model: physical scaling (SP). SP model considers large-scale climate and regional physical characteristics like land-cover, elevation in its formulation and hence can be used to predict future temperature for different land-cover types under changing large-scale climatic and land-cover conditions. The model is validated by assessing its ability to downscale North American Regional Reanalysis (NARR) derived surface (skin) temperature from an initial resolution of 32 km to 500 m. The downscaled NARR data are evaluated using a cross-validation approach over the period 2006-2013 with reference to MODerate-resolution Imaging Spectroradiometer (MODIS) derived surface temperature estimates and satisfactory model performance is obtained (average RMSE=0.03 K). The validated model is used to predict future surface temperature across the study region. Future land-cover projections are derived by downscaling land-use projections for Representative Concentration Pathways (RCPs) 2.6 and 8.5 made by integrated assessment models: IMAGE and MESSAGE, respectively. An analysis of land-cover specific temperature changes between historical (2006-2013) and future (2081-2100) timelines indicate variations of up to 2K between different land-cover classes. Vulnerability pattern of different land-cover classes differ significantly between day-and night-time. Further, variations of upto 1K in projected changes are observed among different forest cover types. Closed shrubland is obtained as the most vulnerable forest-cover class whereas evergreen broadleaf forest is found to be the least vulnerable.
+C1 [Gaur, Abhishek; Simonovic, Slobodan P.] Western Univ, Dept Civil & Environm Engn, Facil Intelligent Decis Support, Spencer Engn Bldg,Room 3112, London, ON, Canada.
+RP Gaur, A (reprint author), Western Univ, Dept Civil & Environm Engn, Facil Intelligent Decis Support, Spencer Engn Bldg,Room 3112, London, ON, Canada.
+EM abhishek.gaur1988@gmail.com
+OI Gaur, Abhishek/0000-0002-0141-6054
+FU Natural Sciences and Engineering Research Council
+FX The work presented in this paper is supported by the Natural Sciences
+   and Engineering Research Council grant to the second author. The
+   remotely sensed land-cover and surface temperature products are
+   retrieved, courtesy of the NASA EOSDIS Land Processes Distributed Active
+   Archive Center (LP DAAC), USGS/Earth Resources Observation and Science
+   (EROS) Center, Sioux Falls, South Dakota. Lastly we want to thank the
+   two anonymous reviewers whose constructive comments on an earlier
+   version of the paper helped us improve it considerably.
+CR Adachi SA, 2012, J APPL METEOROL CLIM, V51, P1441, DOI 10.1175/JAMC-D-11-0137.1
+   Alexandru A, 2016, CLIM DYNAM, V47, P1197, DOI 10.1007/s00382-015-2896-3
+   Argueso D, 2014, CLIM DYNAM, V42, P2183, DOI 10.1007/s00382-013-1789-6
+   CollinsM Knutti R, 2013, CLIMATE CHANGE 2013
+   Dendoncker N, 2006, J LAND USE SCI, V1, P63, DOI 10.1080/17474230601058302
+   Ezber Y, 2007, INT J CLIMATOL, V27, P667, DOI 10.1002/joc.1420
+   Fall S, 2010, INT J CLIMATOL, V30, P1980, DOI 10.1002/joc.1996
+   Fowler HJ, 2007, INT J CLIMATOL, V27, P1547, DOI 10.1002/joc.1556
+   Friedl MA, 2010, REMOTE SENS ENVIRON, V114, P168, DOI 10.1016/j.rse.2009.08.016
+   Ge JJ, 2010, INT J CLIMATOL, V30, P1994, DOI 10.1002/joc.2093
+   Georgescu M, 2013, NAT CLIM CHANGE, V3, P37, DOI 10.1038/nclimate1656
+   Goldewijk KK, 2011, GLOBAL ECOL BIOGEOGR, V20, P73, DOI 10.1111/j.1466-8238.2010.00587.x
+   Goldewijk KK, 2010, HOLOCENE, V20, P565, DOI 10.1177/0959683609356587
+   Hale RC, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2006GL026358
+   Hale RC, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009548
+   Hamdi R, 2014, INT J CLIMATOL, V34, P978, DOI 10.1002/joc.3734
+   Hopkinson RF, 2011, J APPL METEOROL CLIM, V50, P1654, DOI 10.1175/2011JAMC2684.1
+   Hu YS, 2010, INT J CLIMATOL, V30, P1382, DOI 10.1002/joc.1984
+   Hurtt GC, 2011, CLIMATIC CHANGE, V109, P117, DOI 10.1007/s10584-011-0153-2
+   Hutchinson MF, 2009, J APPL METEOROL CLIM, V48, P725, DOI 10.1175/2008JAMC1979.1
+   Kirtman B, 2013, CLIMATE CHANGE 2013
+   Kusaka H, 2012, J METEOROL SOC JPN, V90B, P47, DOI 10.2151/jmsj.2012-B04
+   Lemonsu A, 2015, URBAN CLIM, V14, P586, DOI 10.1016/j.uclim.2015.10.007
+   LOWRY WP, 1977, J APPL METEOROL, V16, P129, DOI 10.1175/1520-0450(1977)016<0129:EEOUEO>2.0.CO;2
+   McCarthy MP, 2012, INT J CLIMATOL, V32, P1875, DOI 10.1002/joc.2402
+   McFadden DL, 1978, BEHAV TRAVEL MODELIN
+   Mesinger F, 2006, B AM METEOROL SOC, V87, P343, DOI 10.1175/BAMS-87-3-343
+   Mohsin T, 2012, THEOR APPL CLIMATOL, V108, P105, DOI 10.1007/s00704-011-0516-7
+   OKE TR, 1982, Q J ROY METEOR SOC, V108, P1, DOI 10.1002/qj.49710845502
+   OKE TR, 1987, BOUNDARY LAYER CLIMA
+   Pielke RA, 2011, WIRES CLIM CHANGE, V2, P828, DOI 10.1002/wcc.144
+   Qiao Z., 2014, ADV METEOROL, DOI DOI 10.1155/2014/187169
+   Rinner C, 2011, REMOTE SENS-BASEL, V3, P1251, DOI 10.3390/rs3061251
+   Roth M, 2012, SINGAPORE J TROP GEO, V33, P381, DOI 10.1111/sjtg.12003
+   Salathe EP, 2005, INT J CLIMATOL, V25, P419, DOI 10.1002/joc.1125
+   Salathe EP, 2003, INT J CLIMATOL, V23, P887, DOI 10.1002/joc.922
+   Schoof JT, 2013, GEOGR COMPASS, V7, P249, DOI 10.1111/gec3.12036
+   Sherba JT, 2015, AIMS ENVIRON SCI, V2, P623, DOI 10.3934/environsci.2015.3.623
+   Stewart ID, 2000, CAN GEOGR-GEOGR CAN, V44, P271, DOI 10.1111/j.1541-0064.2000.tb00709.x
+   Stocker T. F., 2013, CLIM CHANG 2013 PHYS
+   Verburg P. H., 2004, GeoJournal, V61, P309, DOI 10.1007/s10708-004-4946-y
+   Verburg P.H., 2004, COMPUTERS ENV URBAN, V28, P667, DOI DOI 10.1016/J.C0MPENVURBSYS.2003.07.001
+   West TO, 2014, ENVIRON RES LETT, V9, P1
+   Wilby RL, 2002, ENVIRON MODELL SOFTW, V17, P147
+   Wood AW, 2004, CLIMATIC CHANGE, V62, P189, DOI 10.1023/B:CLIM.0000013685.99609.9e
+   Wood SN, 2000, J ROY STAT SOC B, V62, P413, DOI 10.1111/1467-9868.00240
+   Woodall CW, 2010, FOREST ECOL MANAG, V259, P1447, DOI 10.1016/j.foreco.2010.01.018
+   Woodall CW, 2009, FOREST ECOL MANAG, V257, P1434, DOI 10.1016/j.foreco.2008.12.013
+NR 48
+TC 1
+Z9 1
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0899-8418
+EI 1097-0088
+J9 INT J CLIMATOL
+JI Int. J. Climatol.
+PD MAY
+PY 2017
+VL 37
+IS 6
+BP 2901
+EP 2912
+DI 10.1002/joc.4887
+PG 12
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA EZ6SU
+UT WOS:000404849200008
+DA 2019-03-26
+ER

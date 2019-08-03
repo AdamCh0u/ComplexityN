@@ -1,0 +1,601 @@
+
+PT J
+AU Demuzere, M
+   Bechtel, B
+   Mills, G
+AF Demuzere, Matthias
+   Bechtel, Benjamin
+   Mills, Gerald
+TI Global transferability of local climate zone models
+SO URBAN CLIMATE
+LA English
+DT Article
+DE Local climate zones; Transferability; Google Earth Engine; WUDAPT; Urban
+   form and morphology
+AB Using the cloud-computing resources of Google's Earth Engine (EE) and a range of satellite sensors (input features) this paper for the first time explores the potential of up-scaling the current Local Climate Zone mapping efforts to regional and global scales. Using a transferability framework, we test whether information from one city contains valuable information to categorise a different city, simultaneously exploring the role of the input features and the characteristics of individual cities. It was found that the accuracies of the EE approach are comparable to the standard WUDAPT method, making EE a viable alternative approach. The results from the city-to-city experiments are generally poor when compared to the single city benchmark experiments, indicating that the collection of site-specific training areas remains relevant. However, LCZ mapping accuracies are considerably improved when a) the source of the training data is from a city in the same ecoregion as the city of interest and b) if the training areas from several cities are combined. These results support the claim that the LCZ framework is a universal urban typology and indicate that, provided a continued optimisation of input features and quality of training areas, up-scaling to regional or global levels is feasible.
+C1 [Demuzere, Matthias] Univ Ghent, Lab Hydrol & Water Management, Ghent, Belgium.
+   [Demuzere, Matthias] Kode, Ghent, Belgium.
+   [Bechtel, Benjamin] Univ Hamburg, Inst Geog, Hamburg, Germany.
+   [Mills, Gerald] Univ Coll Dublin, Sch Geog, Dublin, Ireland.
+RP Demuzere, M (reprint author), Univ Ghent, Lab Hydrol & Water Management, Ghent, Belgium.
+EM mdemuzere@gmail.com; benjamin.bechtel@uni-hamburg.de;
+   gerald.mills@ucd.ie
+RI ; Bechtel, Benjamin/H-9853-2014
+OI Demuzere, Matthias/0000-0003-3237-4077; Bechtel,
+   Benjamin/0000-0001-8802-7934
+FU Cluster of Excellence 'CliSAP', University of Hamburg, through the
+   German Science Foundation (DFG) [EXC177]
+FX We acknowledge all WUDAPT contributors for providing the training areas
+   of our cities of interest, i.e. Oscar Brousse, Niall Buckley, Maria De
+   Fatima Andrade, Guillaume Dumas, Yueyi Feng, Micheal Foley, Luke Gebert,
+   Alvaro Lentz, Chao Ren, Deepak Thapa, and Monika Tomaszewsk. We also
+   like to thank thank Stijn Decubber for the fruitful discussion on the
+   machine learning approach and stratified sampling, as well as Noel
+   Gorelick and Stef Lhermitte for continuous Earth Engine technical
+   support. This work was partly supported by the Cluster of Excellence
+   'CliSAP' (EXC177), University of Hamburg, funded through the German
+   Science Foundation (DFG). We thank USGS and NASA for the free Landsat
+   data, the Copernicus programme of ESA for the Sentinel data and the
+   National Centers for Environmental Information at the National Oceanic
+   and Atmospheric Administration (NOAA) for the DMSP-OLS data, all
+   acquired via Google Earth Engine.
+CR ANSELIN L, 1995, GEOGR ANAL, V27, P93, DOI 10.1111/j.1538-4632.1995.tb00338.x
+   Bechtel B., 2017, URBAN SCI, V1
+   Bechtel B., 2018, URBAN CLIMATE
+   Bechtel B, 2016, IEEE J-STARS, V9, P3097, DOI 10.1109/JSTARS.2016.2531420
+   Bechtel B, 2015, ISPRS INT GEO-INF, V4, P199, DOI 10.3390/ijgi4010199
+   Behnamian A, 2017, IEEE GEOSCI REMOTE S, V14, P1988, DOI 10.1109/LGRS.2017.2745049
+   Best MJ, 2015, B AM METEOROL SOC, V96, P805, DOI 10.1175/BAMS-D-14-00122.1
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Ching J., 2018, B AM METEOROLOGICAL
+   Conrad O, 2015, GEOSCI MODEL DEV, V8, P1991, DOI 10.5194/gmd-8-1991-2015
+   Demuzere M, 2017, Q J ROY METEOR SOC, V143, P1581, DOI 10.1002/qj.3028
+   Demuzere M., PLOS ONE
+   Esch T, 2017, ISPRS J PHOTOGRAMM, V134, P30, DOI 10.1016/j.isprsjprs.2017.10.012
+   Gonzalez H., 2010, SIGMOD C, P1061
+   Gorelick N, 2017, REMOTE SENS ENVIRON, V202, P18, DOI 10.1016/j.rse.2017.06.031
+   Guyon I., 2003, Journal of Machine Learning Research, V3, P1157, DOI 10.1162/153244303322753616
+   Hsu FC, 2015, REMOTE SENS-BASEL, V7, P1855, DOI 10.3390/rs70201855
+   Hu JL, 2018, ISPRS INT J GEO-INF, V7, DOI 10.3390/ijgi7090379
+   Jackson TL, 2010, ANN ASSOC AM GEOGR, V100, P848, DOI 10.1080/00045608.2010.497328
+   Kaloustian N, 2016, PROCEDIA ENGINEER, V169, P216, DOI 10.1016/j.proeng.2016.10.026
+   Koppel K, 2017, INT J REMOTE SENS, V38, P6298, DOI 10.1080/01431161.2017.1353160
+   Oke T.R., 2017, URBAN CLIMATES
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Pesaresi M., 2016, OPERATING PROCEDURE
+   Qiu C., 2018, REMOTE SENS, P1
+   Schneider A, 2010, REMOTE SENS ENVIRON, V114, P1733, DOI 10.1016/j.rse.2010.03.003
+   Simard M, 2011, J GEOPHYS RES-BIOGEO, V116, DOI 10.1029/2011JG001708
+   Stewart ID, 2012, B AM METEOROL SOC, V93, P1879, DOI 10.1175/BAMS-D-11-00019.1
+   Tuia D, 2017, IEEE GEOSC REM SEN M, V5, P70, DOI 10.1109/MGRS.2016.2645380
+   United Nations, 2016, EC SOC AFF, V29
+   Verdonck ML, 2017, INT J APPL EARTH OBS, V62, P102, DOI 10.1016/j.jag.2017.05.017
+   Yokoya N., 2018, IEEE J-STARS, V11, P1
+   Zhang QL, 2015, REMOTE SENS-BASEL, V7, P11887, DOI 10.3390/rs70911887
+NR 33
+TC 1
+Z9 1
+U1 1
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2212-0955
+J9 URBAN CLIM
+JI Urban CLim.
+PD MAR
+PY 2019
+VL 27
+BP 46
+EP 63
+DI 10.1016/j.uclim.2018.11.001
+PG 18
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA HK8ZM
+UT WOS:000458278400004
+DA 2019-03-26
+ER
+
+PT J
+AU Gudipudi, R
+   Rybski, D
+   Ludeke, MKB
+   Zhou, B
+   Liu, Z
+   Kropp, JP
+AF Gudipudi, Ramana
+   Rybski, Diego
+   Luedeke, Matthias K. B.
+   Zhou, Bin
+   Liu, Zhu
+   Kropp, Juergen P.
+TI The efficient, the intensive, and the productive: Insights from urban
+   Kaya scaling
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Sustainable cities; Urban CO2 emissions; Urban scaling; Kaya Identity;
+   Urban Kaya relation
+ID CO2 EMISSIONS; ENERGY USE; URBANIZATION; CITIES; POPULATION; GROWTH
+AB Urban areas play an unprecedented role in potentially mitigating climate change and supporting sustainable development. In light of the rapid urbanisation in many parts on the globe, it is crucial to understand the relationship between settlement size and CO2 emission efficiency of cities. Recent literature on urban scaling properties of emissions as a function of population size has led to contradictory results and more importantly, lacked an in-depth investigation of the essential factors and causes explaining such scaling properties. Therefore, in analogy to the well-established Kaya Identity, we develop a relation combining the involved exponents. We demonstrate that application of this Urban Kaya Relation will enable a comprehensive understanding about the intrinsic factors determining emission efficiencies in large cities by applying it to a global dataset of 61 cities. Contrary to traditional urban scaling studies which use Ordinary Least Squares (OLS) regression, we show that the Reduced Major Axis (RMA) is necessary when complex relations among scaling exponents are to be investigated. RMA is given by the geometric mean of the two OLS slopes obtained by interchanging the dependent and independent variable. We discuss the potential of the Urban Kaya Relation in mainstreaming local actions for climate change mitigation.
+C1 [Gudipudi, Ramana; Rybski, Diego; Luedeke, Matthias K. B.; Zhou, Bin; Kropp, Juergen P.] Potsdam Inst Climate Impact Res, D-14473 Potsdam, Germany.
+   [Zhou, Bin] Ben Gurion Univ Negev, Jacob Blaustein Inst Desert Res, Swiss Inst Dryland Environm & Energy Res, Desert Architecture & Urban Planning Unit, Beer Sheva, Israel.
+   [Liu, Zhu] Tsinghua Univ, Dept Earth Syst Sci, Beijing 100084, Peoples R China.
+   [Liu, Zhu] CALTECH, Resnick Sustainabil Inst, Pasadena, CA 91125 USA.
+   [Liu, Zhu] Univ East Anglia, Tyndall Ctr, Norwich NR4TJ, Norfolk, England.
+   [Liu, Zhu] Univ East Anglia, Sch Int Dev, Norwich NR4TJ, Norfolk, England.
+   [Kropp, Juergen P.] Univ Potsdam, Dept Geo & Environm Sci, D-14476 Potsdam, Germany.
+RP Rybski, D (reprint author), Potsdam Inst Climate Impact Res, D-14473 Potsdam, Germany.
+EM ca-dr@rybski.de
+OI Rybski, Diego/0000-0001-6125-7705
+FU European Community [308497]; NSFC [71874079, 41501605]; Green Talents
+   Program by the German Federal Ministry of Education and Research (BMBF)
+FX The research leading to these results has received funding from the
+   European Community's Seventh Framework Programme under Grant Agreement
+   No. 308497 (Project RAMSES). Zhu Liu acknowledges support by NSFC
+   (71874079, 41501605) and the Green Talents Program held by the German
+   Federal Ministry of Education and Research (BMBF).
+CR Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   [Anonymous], 2014, NON TRADITIONAL REF
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   BABU GJ, 1992, COMMUN STAT SIMULAT, V21, P533, DOI 10.1080/03610919208813034
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Batty M, 2011, ENVIRON PLANN A, V43, P765, DOI 10.1068/a43403
+   Bettencourt L. M. A, 2016, J ROYAL SOC INTERFAC, V13, P116
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brown JH, 2011, BIOSCIENCE, V61, P19, DOI 10.1525/bio.2011.61.1.7
+   CDP Worldwide, 2016, NON TRADITIONAL REF
+   Chertow M., 2001, J IND ECOL, V4, P13, DOI DOI 10.1162/10881980052541927
+   Costa L, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0029262
+   Cottineau C, 2017, COMPUT ENVIRON URBAN, V63, P80, DOI 10.1016/j.compenvurbsys.2016.04.006
+   Creutzig F, 2015, P NATL ACAD SCI USA, V112, P6283, DOI 10.1073/pnas.1315545112
+   Department of Economic and Social Affairs, 2014, TECH REP
+   Dietz T, 1997, P NATL ACAD SCI USA, V94, P175, DOI 10.1073/pnas.94.1.175
+   Dodman D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016
+   Fluschnik T, 2016, ISPRS INT J GEO-INF, V5, DOI 10.3390/ijgi5070110
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Glaeser EL, 2010, J URBAN ECON, V67, P404, DOI 10.1016/j.jue.2009.11.006
+   Grubler A, 2013, GLOBAL ENERGY ASSESS, P1307, DOI DOI 10.4324/9780203066782
+   Gudipudi R, 2016, ENERG POLICY, V91, P352, DOI 10.1016/j.enpol.2016.01.015
+   Hoomweg D., 2011, URBAN, V23, P207, DOI DOI 10.1177/
+   Horta-Bernus R, 2015, J URBAN TECHNOL, V22, P3, DOI 10.1080/10630732.2014.955340
+   ICLEI, 2009, TECH REP
+   ISOBE T, 1990, ASTROPHYS J, V364, P104, DOI 10.1086/169390
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Leitao JC, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150649
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Martinez-Zarzoso I, 2011, ECOL ECON, V70, P1344, DOI 10.1016/j.ecolecon.2011.02.009
+   Mohajeri N, 2015, TRANSPORT RES D-TR E, V35, P116, DOI 10.1016/j.trd.2014.11.025
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Poumanyvong P, 2010, ECOL ECON, V70, P434, DOI 10.1016/j.ecolecon.2010.09.029
+   Raupach MR, 2007, P NATL ACAD SCI USA, V104, P10288, DOI 10.1073/pnas.0700609104
+   Ribeiro FL, 2017, ROY SOC OPEN SCI, V4, DOI 10.1098/rsos.160926
+   Rybski D., ARXIV160901217PHYSIC
+   Rybski D, 2017, ENVIRON PLAN B-URBAN, V44, P425, DOI 10.1177/0265813516638340
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Satterthwaite D, 2008, ENVIRON URBAN, V20, P539, DOI 10.1177/0956247808096127
+   Satterthwaite D, 2009, ENVIRON URBAN, V21, P545, DOI 10.1177/0956247809344361
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Seto KC, 2014, TECH REP
+   Shan Y., 2016, ATMOS CHEM PHYS DISC, V2016, P1
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   United Nations, 2014, TECH REP
+   Yakubo K, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022803
+   Zhang N, 2017, ENERG POLICY, V107, P678, DOI 10.1016/j.enpol.2017.03.072
+   Zhou B, NON TRADITIONAL REF
+NR 51
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD FEB 15
+PY 2019
+VL 236
+BP 155
+EP 162
+DI 10.1016/j.apenergy.2018.11.054
+PG 8
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA HL4SD
+UT WOS:000458712500014
+DA 2019-03-26
+ER
+
+PT J
+AU Ndabi, J
+   Nevill, AM
+   Sandercock, GRH
+AF Ndabi, Joyce
+   Nevill, Alan M.
+   Sandercock, Gavin R. H.
+TI Cross-cultural comparisons of aerobic and muscular fitness in Tanzanian
+   and English youth: An allometric approach
+SO PLOS ONE
+LA English
+DT Article
+ID PHYSICAL-ACTIVITY QUESTIONNAIRE; SCHOOL-AGE-CHILDREN; BODY-SIZE;
+   NUTRITION TRANSITION; MOTOR-PERFORMANCE; STRENGTH; ADOLESCENTS;
+   SCHOOLCHILDREN; VARIABLES; OBESITY
+AB Comparisons of physical fitness measures between children or within group measures over time are potentially confounded by differences in body size. We compared measures of strength (handgrip) and aerobic fitness (running-speed [20m shuttle-run]) of 10.0-15.9 year-olds from Dar es Salaam, Tanzania (n = 977) with schoolchildren from England (n = 1014) matched for age and sex. Differences in fitness were analyzed using general linear models, with allometric scaling for body size (mass and stature) and further adjustments for physical activity. Mean handgrip of Tanzanians was lower than English youth (F= 165.0, P<0.001, eta(2)(p) =.079). The difference became trivial when run-speed was scaled for body size (eta(2)(p)=.008). Running-speed of the English children was higher than in Tanzanians (F= 16.0, P<0.001, eta(2)(p) =.014). Allometric scaling for accentuated this between-county difference in running-speed (eta(2)(p)=.019) but when adjusted for physical activity between-country differences in running-speed were trivial (eta(2)(p)=.008). These data contradict those studies showing poor muscular fitness in African youth and highlight the need for appropriate scaling techniques to avoid confounding by differences in body size. In contrast to those from rural areas, our sample of contemporary urban Tanzanians were less aerobically fit than European youth. Differences were independent of body size. Lower aerobic fitness of urban Tanzanian youth may be due to reported physical activity levels lower than those of English youth and lower still than previously reported in rural Tanzania.
+C1 [Ndabi, Joyce] Univ Dar Es Salaam, Dept Phys Educ & Sports Sci, Dar Es Salaam, Tanzania.
+   [Nevill, Alan M.] Univ Essex, Sch Sport Exercise & Rehabil Sci, Colchester, Essex, England.
+   [Sandercock, Gavin R. H.] Univ Wolverhampton, Fac Educ Hlth & Wellbeing, Walsall, W Midlands, England.
+RP Sandercock, GRH (reprint author), Univ Wolverhampton, Fac Educ Hlth & Wellbeing, Walsall, W Midlands, England.
+EM gavins@essex.ac.uk
+OI Nevill, Alan/0000-0003-0506-3652
+FU Tanzania Commission for Science and Technology [DB03405]
+FX GS and AN received no funding for this study. JN was funded by the
+   Tanzania Commission for Science and Technology (DB03405). The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Aandstad A, 2006, BRIT J SPORT MED, V40, P287, DOI 10.1136/bjsm.2005.020040
+   Adamo KB, 2011, INT J PEDIATR OBES, V6, pE225, DOI 10.3109/17477166.2010.543683
+   Valdivia AB, 2015, SCAND J MED SCI SPOR, V25, pe155, DOI 10.1111/sms.12231
+   dos Santos FK, 2016, ANN HUM BIOL, V43, P191, DOI 10.3109/03014460.2015.1024738
+   Fairclough S, 2005, HEALTH EDUC RES, V20, P14, DOI 10.1093/her/cyg101
+   Forum WE, 2015, WORLD EC FORUM
+   Heroux M, 2013, ISRN Obes, V2013, P134835, DOI 10.1155/2013/134835
+   Hill A, 2010, TANZ 45 ISOCARP C 20
+   Jaric S, 2003, EXERC SPORT SCI REV, V31, P8, DOI 10.1097/00003677-200301000-00003
+   Jinabhai CC, 2003, EUR J CLIN NUTR, V57, P358, DOI 10.1038/sj.ejcn.1601534
+   Jurimae T, 2009, HOMO, V60, P225, DOI 10.1016/j.jchb.2008.05.004
+   Keding G, 2016, WORLD REV NUTR DIET, V115, P68, DOI 10.1159/000442073
+   Keding GB, 2011, FOOD NUTR BULL, V32, P218, DOI 10.1177/156482651103200306
+   Kowalski KC, 1997, PEDIATR EXERC SCI, V9, P342, DOI 10.1123/pes.9.4.342
+   Lang JJ, 2018, BRIT J SPORT MED, V52, DOI 10.1136/bjsports-2016-096224
+   Maletnlema TN, 2002, PUBLIC HEALTH NUTR, V5, P163, DOI 10.1079/PHN2001289
+   MALINA RM, 1987, AM J PHYS ANTHROPOL, V73, P489, DOI 10.1002/ajpa.1330730411
+   Mbalilaki JA, 2007, NUTR METAB CARDIOVAS, V17, P344, DOI 10.1016/j.numecd.2006.03.003
+   Mkalawa C. C., 2014, URBAN PLAN TRANSP RE, V2, P423
+   Muthuri SK, 2014, INT J ENV RES PUB HE, V11, P3327, DOI 10.3390/ijerph110303327
+   Nevill A, 2009, PEDIATR EXERC SCI, V21, P220, DOI 10.1123/pes.21.2.220
+   Nevill AM, 2005, YEARB PHYS ANTHROPOL, V48, P141, DOI 10.1002/ajpa.20356
+   Nevill AM, 1998, J APPL PHYSIOL, V84, P963
+   Nevill AM, 2004, ANN HUM BIOL, V31, P436, DOI 10.1080/03014460410001723996
+   Prista A, 2003, AM J CLIN NUTR, V77, P952
+   Prista A, 2009, PEDIATR EXERC SCI, V21, P384, DOI 10.1123/pes.21.4.384
+   Silva S, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149493
+   Unwin N, 2010, BMC PUBLIC HEALTH, V10, DOI 10.1186/1471-2458-10-272
+   Voss C, 2013, PEDIATR INT, V55, P498, DOI 10.1111/ped.12092
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 15
+PY 2019
+VL 14
+IS 2
+AR e0211414
+DI 10.1371/journal.pone.0211414
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA HL5KT
+UT WOS:000458766300007
+PM 30768600
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Benson, AR
+   Koeser, AK
+   Morgenrotha, J
+AF Benson, Andrew R.
+   Koeser, Andrew K.
+   Morgenrotha, Justin
+TI A test of tree protection zones: Responses of Quercus virginiana Mill
+   trees to root severance treatments
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+DE Allometry; Arboriculture; Best management practice; Chlorophyll
+   fluorescence; Construction damage; Leaf water potential; Photosynthesis;
+   Pipe model; Root protection Area; Root pruning; Sapwood; Stomatal
+   conductance; Tree growth; Tree protection; Urban Forest; Urban tree;
+   Water stress
+ID LEAF WATER RELATIONS; APPLE-TREES; RESISTIVITY TOMOGRAPHY; ECOSYSTEM
+   SERVICES; PINUS-RADIATA; URBAN FOREST; GROWTH; DROUGHT; SAPWOOD; STRESS
+AB A suite of best management practice documents (BMPs) providing procedures to protect trees are available around the world. An underpinning component of these texts is the provision of a tree protection zone (TPZ), the purpose of which is to define an area of ground surrounding the tree to be excluded from development activities. TPZs 12 times the trunk diameter are common in BMPs, however, the principles of the TPZ have not been extensively tested. The objective of this study was to test the suitability of TPZs by monitoring the responses of trees to different root removal treatments. Mature Quercus virginiana Mill trees (n = 18) were exposed to five root pruning treatments consisting of a circular trench around each tree. Trenches were established with radial offsets from the tree base between 3 and 15 times the trunk diameter in increments of three, plus control. Roots were severed manually, and their diameters measured to obtain a total cross-sectional area of severed roots, which were expressed as ratios of whole trunk cross-sectional areas (Ar-(1)) as well as conductive sapwood areas (As-(1)). AT and As ratios were regressed against physiological (predawn leaf water potential (Psi), stomatal conductance (g(s)) and chlorophyll fluorescence) and growth (trunk diameter, shoot extension and specific leaf area) responses. Ar-(1) was a significant predictor of Psi (p < 0.0001), trunk diameter growth (p <= 0.01), specific leaf area (p <= 0.001) and shoot extension (p <= 0.001), although model strength varied (R-2 = 0.75, 0.47, 0.57, 0.58 respectively). Significant (p <= 0.05) differences were observed in W between control trees and all treatments except 15 x. Growth responses were affected for one or more treatments between 3x and 9 x. The results reveal that a TPZ defined by 12 times the trunk diameter was insufficient to adequately avoid short-term physiological perturbations in Quercus virginiana.
+C1 [Benson, Andrew R.; Morgenrotha, Justin] Univ Canterbury, New Zealand Sch Forestry, Private Bag 4800, Christchurch, New Zealand.
+   [Koeser, Andrew K.] Univ Florida, Dept Environm Hort, CLCE, IFAS,Gulf Coast Res & Educ Ctr, Wimauma, FL 33598 USA.
+RP Morgenrotha, J (reprint author), Univ Canterbury, New Zealand Sch Forestry, Private Bag 4800, Christchurch, New Zealand.
+EM justin.morgenroth@canterbury.ac.nz; morgenroth@canterbury.ac.nz
+OI morgenroth, justin/0000-0002-2747-7349
+FU Tree Research and Endowment Fund [John Z. Duling Grant]
+FX This work was supported by the Tree Research and Endowment Fund [John Z.
+   Duling Grant].
+CR Ameglio T, 1999, PLANT SOIL, V207, P155, DOI 10.1023/A:1026415302759
+   Amoroso G, 2011, ACTA HORTIC, V923, P247
+   Amoroso G, 2010, HORTSCIENCE, V45, P1824
+   Auckland Council, 2018, AUCKL UN PLAN OP PAR
+   Baines C, 1994, J ARBORICULT, V18, P231
+   Benson AR, 2019, URBAN FOR URBAN GREE, V38, P64, DOI 10.1016/j.ufug.2018.11.006
+   Benson Andrew R, 2018, Tree Physiol, DOI 10.1093/treephys/tpy092
+   Bieker D, 2010, SILVA FENN, V44, P267, DOI 10.14214/sf.153
+   British Standards Institute, 2012, BS58372012
+   Brzostek ER, 2014, GLOBAL CHANGE BIOL, V20, P2531, DOI 10.1111/gcb.12528
+   Cavender-Bares J, 2007, TREE PHYSIOL, V27, P611, DOI 10.1093/treephys/27.4.611
+   Cermak J, 2000, PLANT SOIL, V219, P103, DOI 10.1023/A:1004736310417
+   Coder K. D, 1996, CONSTRUCTION DAMAGE
+   Coder K. D, 2010, U GEORGIA WARNELL SC, P88
+   Costello L. R, 2017, BEST MANAGEMENT PRAC
+   COUTTS MP, 1987, CAN J FOREST RES, V17, P761, DOI 10.1139/x87-122
+   COUTTS MP, 1983, PLANT SOIL, V71, P171, DOI 10.1007/BF02182653
+   Day Susan D., 2010, Arboriculture & Urban Forestry, V36, P149
+   Despot David, 2003, Journal of Arboriculture, V29, P267
+   DesRochers A, 2009, FOREST ECOL MANAG, V258, P2062, DOI 10.1016/j.foreco.2009.07.059
+   Dong TF, 2016, TREE PHYSIOL, V36, P807, DOI 10.1093/treephys/tpw025
+   EPRON D, 1992, PLANT CELL ENVIRON, V15, P809, DOI 10.1111/j.1365-3040.1992.tb02148.x
+   Ferree DC, 1999, HORTSCIENCE, V34, P1064
+   Fini A, 2015, URBAN FOR URBAN GREE, V14, P664, DOI 10.1016/j.ufug.2015.06.011
+   Fini A, 2013, ACTA HORTIC, V990, P487
+   Fini A, 2013, J ARID ENVIRON, V89, P21, DOI 10.1016/j.jaridenv.2012.10.009
+   Fite K, 2008, BEST MANAGEMENT PRAC
+   Gerhold Henry D., 2003, Journal of Arboriculture, V29, P322
+   Ghani MA, 2009, TREES-STRUCT FUNCT, V23, P197, DOI 10.1007/s00468-008-0269-9
+   GILMAN E F, 1989, Arboricultural Journal, V13, P25
+   Gould PJ, 2008, ANN FOREST SCI, V65, DOI 10.1051/forest:2008067
+   Grabosky Jason, 2007, Urban Forestry & Urban Greening, V6, P159, DOI 10.1016/j.ufug.2007.06.002
+   Guyot A, 2013, TREE PHYSIOL, V33, P187, DOI 10.1093/treephys/tps128
+   HAMILTON W D, 1989, Arboricultural Journal, V13, P249
+   HANSEN P, 1971, PHYSIOL PLANTARUM, V25, P469, DOI 10.1111/j.1399-3054.1971.tb01475.x
+   HANSEN P, 1967, PHYSIOL PLANTARUM, V20, P1103, DOI 10.1111/j.1399-3054.1967.tb08398.x
+   Harris R. W., 2004, ARBORICULTURE INTEGR, P258
+   Hay R. L, 1978, CARBOHYDRATE RELATIO
+   James KR, 2008, AGR FOREST METEOROL, V148, P1055, DOI 10.1016/j.agrformet.2008.02.003
+   James KR, 2006, AM J BOT, V93, P1522, DOI 10.3732/ajb.93.10.1522
+   Jim CY, 2003, CITIES, V20, P87, DOI 10.1016/S0264-2751(02)00096-3
+   Kaipiainen L, 1985, CROP PHYSL FOREST TR, P32
+   Khan ZU, 1998, NEW ZEAL J CROP HORT, V26, P291, DOI 10.1080/01140671.1998.9514066
+   Kubiske ME, 1996, TREES-STRUCT FUNCT, V11, P76, DOI 10.1007/s004680050062
+   Lin CJ, 2012, SILVA FENN, V46, P415, DOI 10.14214/sf.440
+   Littell JS, 2008, ECOL MONOGR, V78, P349, DOI 10.1890/07-0712.1
+   Liu F, 2004, SCI HORTIC-AMSTERDAM, V102, P15, DOI 10.1016/j.scienta.2003.11.014
+   Lo Gullo MA, 1988, NEW PHYTOL, V108, P267, DOI DOI 10.1111/J.1469-8137.1988.TB04162.X
+   Lubczynski MW, 2017, ECOHYDROLOGY, V10, DOI 10.1002/eco.1856
+   Lyford W. H, 1980, DEV ROOT SYSTEM NO R
+   Matheny N. P, 1998, TREES DEV TECHNICAL
+   Mattheck C, 1994, BODY LANGUAGE TREES
+   MONK CD, 1987, CASTANEA, V52, P256
+   Niklas KJ, 2000, TREES-STRUCT FUNCT, V14, P230, DOI 10.1007/s004680050008
+   North EA, 2017, URBAN FOR URBAN GREE, V24, P116, DOI 10.1016/j.ufug.2017.03.029
+   NZArb, 2011, GUIDELINE TREE PROTE
+   OERTLI JJ, 1990, ACTA OECOL, V11, P281
+   OERTLI JJ, 1989, STRUCTURAL AND FUNCTIONAL RESPONSES TO ENVIRONMENTAL STRESSES : WATER SHORTAGE, P73
+   Pallardy SG, 2008, PHYSIOLOGY OF WOODY PLANTS, 3RD EDITION, P1
+   Peper Paula J., 2001, Journal of Arboriculture, V27, P306
+   PIGOTT CD, 1993, J ECOL, V81, P557, DOI 10.2307/2261534
+   Pretzsch H, 2016, TREES-STRUCT FUNCT, V30, P1761, DOI 10.1007/s00468-016-1406-5
+   PRIESTLEY CA, 1963, ANN BOT-LONDON, V27, P435, DOI 10.1093/oxfordjournals.aob.a083860
+   Pryor Mathew, 2016, Arboricultural Journal, V38, P2, DOI 10.1080/03071375.2016.1157401
+   R Core Team, 2018, R LANG ENV STAT COMP
+   Randrup T. B., 2001, Urban Ecosystems, V5, P209, DOI 10.1023/A:1024046004731
+   Reed J, 2017, FOREST POLICY ECON, V84, P62, DOI 10.1016/j.forpol.2017.01.012
+   Richards DR, 2017, ECOL INDIC, V77, P31, DOI 10.1016/j.ecolind.2017.01.028
+   Rigg GB, 1931, AM J BOT, V18, P391, DOI 10.2307/2435874
+   Riley CB, 2018, URBAN FOR URBAN GREE, V29, P367, DOI 10.1016/j.ufug.2017.01.004
+   ROOK DA, 1971, J APPL ECOL, V8, P477, DOI 10.2307/2402884
+   Sade N, 2012, PLANT SIGNAL BEHAV, V7, P767, DOI 10.4161/psb.20505
+   SALLEO S, 1990, ANN BOT-LONDON, V65, P259, DOI 10.1093/oxfordjournals.aob.a087932
+   Salmond JA, 2016, ENVIRON HEALTH-GLOB, V15, DOI 10.1186/s12940-016-0103-6
+   Sandfort S, 1986, J ARBORICULT, V12, P141
+   Scholz T, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10030712
+   Shinozaki K., 1964, JAPANESE J ECOL, V14, P97, DOI DOI 10.18960/SEITAI.14.3_97
+   Shinozaki K., 1964, JAPANESE J ECOL, V14, P133, DOI DOI 10.1046/J.1365-2435.2002.00626.X
+   Smiley E. Thomas, 2014, Arboriculture & Urban Forestry, V40, P230
+   Smiley E. Thomas, 2008, Arboriculture & Urban Forestry, V34, P123
+   Standards Australia, 2009, AS49702009 STAT AUST
+   STRONG WL, 1983, CAN J FOREST RES, V13, P1164, DOI 10.1139/x83-155
+   STRUVE DK, 1992, CAN J FOREST RES, V22, P1441, DOI 10.1139/x92-194
+   Sudmeyer RA, 2004, TREE PHYSIOL, V24, P1333, DOI 10.1093/treephys/24.12.1333
+   The Forestry Commission and Natural England, 2018, ANC WOODL VET TREES
+   The Government of the Hong Kong Special Administrative Region, 2015, GUID TREE PRES DUR D
+   Thomson J, 1997, ARBORICULTURAL J, V21, P137
+   Tubbs C. H., 1977, NC225 USD FOR SERV R, P4
+   Vander Weit W.J., 1986, J ARBORICULT, V12, P129
+   VERTESSY RA, 1995, TREE PHYSIOL, V15, P559, DOI 10.1093/treephys/15.9.559
+   Vogt Jess, 2015, Arboriculture & Urban Forestry, V41, P293
+   Wajja-Musukwe TN, 2008, TREE PHYSIOL, V28, P233, DOI 10.1093/treephys/28.2.233
+   Wang HL, 2016, ECOHYDROLOGY, V9, P83, DOI 10.1002/eco.1612
+   Wang YF, 2014, AGR WATER MANAGE, V135, P84, DOI 10.1016/j.agwat.2013.12.017
+   Wang YP, 2016, SUSTAIN CITIES SOC, V27, P122, DOI 10.1016/j.scs.2016.04.013
+   Watson Gary W., 1998, Journal of Arboriculture, V24, P47
+   Zwack JA, 1998, J AM SOC HORTIC SCI, V123, P371
+NR 97
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER GMBH
+PI MUNICH
+PA HACKERBRUCKE 6, 80335 MUNICH, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PD FEB
+PY 2019
+VL 38
+BP 54
+EP 63
+DI 10.1016/j.ufug.2018.10.015
+PG 10
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA HN2ZK
+UT WOS:000460053300006
+DA 2019-03-26
+ER
+
+PT J
+AU Wilson, C
+   Pettifor, H
+   Cassar, E
+   Kerr, L
+   Wilson, M
+AF Wilson, Charlie
+   Pettifor, Hazel
+   Cassar, Emma
+   Kerr, Laurie
+   Wilson, Mark
+TI The potential contribution of disruptive low-carbon innovations to 1.5
+   degrees C climate mitigation
+SO ENERGY EFFICIENCY
+LA English
+DT Article
+DE Consumers; Mitigation; Energy end-use; Innovation
+ID ENERGY; TECHNOLOGIES; INDUSTRY; POLICIES
+AB This paper investigates the potential for consumer-facing innovations to contribute emission reductions for limiting warming to 1.5 degrees C. First, we show that global integrated assessment models which characterise transformation pathways consistent with 1.5 degrees C mitigation are limited in their ability to analyse the emergence of novelty in energy end-use. Second, we introduce concepts of disruptive innovation which can be usefully applied to the challenge of 1.5 degrees C mitigation. Disruptive low-carbon innovations offer novel value propositions to consumers and can transform markets for energy-related goods and services while reducing emissions. Third, we identify 99 potentially disruptive low-carbon innovations relating to mobility, food, buildings and cities, and energy supply and distribution. Examples at the fringes of current markets include car clubs, mobility-as-a-service, prefabricated high-efficiency retrofits, internet of things, and urban farming. Each of these offers an alternative to mainstream consumer practices. Fourth, we assess the potential emission reductions from subsets of these disruptive low-carbon innovations using two methods: a survey eliciting experts' perceptions and a quantitative scaling-up of evidence from early-adopting niches to matched segments of the UK population. We conclude that disruptive low-carbon innovations which appeal to consumers can help efforts to limit warming to 1.5 degrees C.
+C1 [Wilson, Charlie; Pettifor, Hazel; Cassar, Emma; Kerr, Laurie; Wilson, Mark] Univ East Anglia, Tyndall Ctr Climate Change Res, Norwich NR1 7TJ, Norfolk, England.
+   [Wilson, Charlie] Int Inst Appl Syst Anal, A-2361 Laxenburg, Austria.
+RP Wilson, C (reprint author), Univ East Anglia, Tyndall Ctr Climate Change Res, Norwich NR1 7TJ, Norfolk, England.
+EM charlie.wilson@uea.ac.uk
+FU ERC [678799]; UK Department of Business, Energy and Industrial Strategy
+   (BEIS); UK Science & Innovation Network
+FX This research was supported by ERC Starting Grant no. 678799 for the
+   SILCI project (Social Influence and Disruptive Low Carbon Innovation).
+   Additional support was provided from the UK Department of Business,
+   Energy and Industrial Strategy (BEIS) as part of the project
+   'Implications of global warming of 1.5 degrees C and 2 degrees C
+   project'. The workshops were funded by the UK Science & Innovation
+   Network and coorganised with Future Earth.
+CR [Anonymous], 2015, HARVARD BUS REV, V93, P22
+   [Anonymous], 2016, LOW CARB TECHN PARTN
+   [Anonymous], 2016, ENERGY REVOLUTION FU
+   [Anonymous], 2017, EM GAP REP 2017
+   [Anonymous], 2017, FIN UK GREENH GAS EM, P1990
+   [Anonymous], 2015, POP DENS TABL
+   [Anonymous], 2017, CLEAN GROWTH STRAT L
+   [Anonymous], 2016, NEW SCI
+   [Anonymous], 2015, NAT UNB DEC CONS
+   [Anonymous], 2017, BUILD OUR IND STRAT
+   [Anonymous], 2015, TOP 10 URB INN
+   [Anonymous], 2013, UNL LOW CARB INN
+   [Anonymous], 2013, 8 GREAT TECHN
+   [Anonymous], 2016, SHAR MOB LIV CIT
+   [Anonymous], 2017, M CARB BUDG CLOS POL
+   [Anonymous], 2013, CLIM SMART AGR
+   [Anonymous], 2011, ECONOMIST
+   Arbib J, 2017, RETHINKX SECTOR DISR
+   Aschemann-Witzel J, 2017, APPETITE, V116, P246, DOI 10.1016/j.appet.2017.05.013
+   Axsen J, 2013, ENERG POLICY, V61, P532, DOI 10.1016/j.enpol.2013.05.122
+   Bauer N, 2017, GLOBAL ENVIRON CHANG, V42, P316, DOI 10.1016/j.gloenvcha.2016.07.006
+   Beaudin M, 2015, RENEW SUST ENERG REV, V45, P318, DOI 10.1016/j.rser.2015.01.046
+   Bento N, 2016, ENVIRON INNOV SOC TR, V21, P95, DOI 10.1016/j.eist.2016.04.004
+   Christensen CM, 1997, INNOVATORS DILEMMA
+   Clarke L, 2014, ASSESSING TRANSFORMA
+   Costanza R, 2017, ECOL ECON, V131, P543, DOI 10.1016/j.ecolecon.2016.09.023
+   Dietz T, 2009, P NATL ACAD SCI USA, V106, P18452, DOI 10.1073/pnas.0908738106
+   Dixon T, 2014, TECHNOL FORECAST SOC, V89, P131, DOI 10.1016/j.techfore.2013.08.027
+   Dotsika F, 2017, TECHNOL FORECAST SOC, V119, P114, DOI 10.1016/j.techfore.2017.03.020
+   Fares RL, 2017, NAT ENERGY, V2, DOI 10.1038/nenergy.2017.1
+   Farmer JD, 2016, RES POLICY, V45, P647, DOI 10.1016/j.respol.2015.11.001
+   Freeman GM, 2017, ENERG POLICY, V106, P183, DOI 10.1016/j.enpol.2017.03.052
+   Frenken K, 2017, PHILOS T R SOC A, V375, DOI 10.1098/rsta.2016.0367
+   Gebler M, 2014, ENERG POLICY, V74, P158, DOI 10.1016/j.enpol.2014.08.033
+   Geels FW, 2018, ENERGY RES SOC SCI, V37, P224, DOI 10.1016/j.erss.2017.10.010
+   Govindarajan V, 2006, J PROD INNOVAT MANAG, V23, P12, DOI 10.1111/j.1540-5885.2005.00176.x
+   Green J, 2017, ENERG POLICY, V105, P283, DOI 10.1016/j.enpol.2017.02.004
+   Grubler A, 2014, ENERGY TECHNOLOGY INNOVATION: LEARNING FROM HISTORICAL SUCCESSES AND FAILURES, P1
+   Hang CC, 2015, TECHNOVATION, V39-40, P83, DOI 10.1016/j.technovation.2014.11.005
+   Hargreaves T, 2017, SMART HOMES THEIR US, P91
+   Hertz FD, 2017, APPETITE, V114, P232, DOI 10.1016/j.appet.2017.03.016
+   Innovation M, 2017, CLEAN EN R D FOC AR
+   ITF (International Transport Forum), 2015, URB MOB SYST UPGR SH
+   Jacobs P, 2015, ENERGIESPRONG TRANSI
+   Johansson T. B., 2012, GLOBAL ENERGY ASSESS
+   King A, 2017, NATURE, V544, pS21, DOI 10.1038/544S21a
+   King D., 2015, GLOBAL APOLLO PROGRA
+   King D, 2017, SCIENCE, V355, P111, DOI 10.1126/science.aam7088
+   Kramer GJ, 2018, ENERGY RES SOC SCI, V37, P247, DOI 10.1016/j.erss.2017.10.047
+   Kramer GJ, 2009, NATURE, V462, P568, DOI 10.1038/462568a
+   Kulak M, 2013, LANDSCAPE URBAN PLAN, V111, P68, DOI 10.1016/j.landurbplan.2012.11.007
+   Lambert C, 2014, HARVARD MAG, V2014, P38
+   Luderer G, 2016, DEEP DECARBONISATION
+   McDowall W, 2018, ENERGY RES SOC SCI, V37, P243, DOI 10.1016/j.erss.2017.10.049
+   McKinsey, 2013, DISRUPTIVE TECHNOLOG
+   McKinsey, 2012, EN INN 10 DISR TECHN, V1, P10
+   Midttun A, 2017, ENERG POLICY, V108, P330, DOI 10.1016/j.enpol.2017.05.046
+   Moore S, 2016, DISRUPTED DECADE 4 D
+   Mundaca L, 2010, ANNU REV ENV RESOUR, V35, P305, DOI 10.1146/annurev-environ-052810-164840
+   Perchard E, 2016, RESOURCE MAGAZINE, P1
+   Prettenthaler FE, 1999, ECOL ECON, V28, P443, DOI 10.1016/S0921-8009(98)00109-8
+   Pye S, 2017, NAT ENERGY, V2, DOI 10.1038/nenergy.2017.24
+   Riahi K, 2012, ENERGY PATHWAYS SUST
+   Ribeiro SK, 2012, ENERGY END USE TRANS
+   Roby H, 2014, TRANSPORT RES A-POL, V69, P20, DOI 10.1016/j.tra.2014.08.022
+   Rogelj J, 2015, NAT CLIM CHANGE, V5, P519, DOI 10.1038/nclimate2572
+   Rogers E. M, 2003, DIFFUSION INNOVATION
+   Ropke I, 2010, ENERG POLICY, V38, P1764, DOI 10.1016/j.enpol.2009.11.052
+   Ruan Y, 2014, TECHNOVATION, V34, P785, DOI 10.1016/j.technovation.2014.09.003
+   Sathaye J, 2013, ANNU REV ENV RESOUR, V38, P137, DOI 10.1146/annurev-environ-083111-092115
+   Schot J, 2016, NAT ENERGY, V1, DOI 10.1038/NENERGY.2016.54
+   Seba T., 2014, CLEAN DISRUPTION ENE
+   Seto KC, 2016, ANNU REV ENV RESOUR, V41, P425, DOI 10.1146/annurev-environ-110615-085934
+   Sorrell S, 2015, RENEW SUST ENERG REV, V47, P74, DOI 10.1016/j.rser.2015.03.002
+   Sprei F, 2018, ENERGY RES SOC SCI, V37, P238, DOI 10.1016/j.erss.2017.10.029
+   Springmann M, 2016, P NATL ACAD SCI USA, V113, P4146, DOI 10.1073/pnas.1523119113
+   Stankovic L, 2016, APPL ENERG, V183, P1565, DOI 10.1016/j.apenergy.2016.09.087
+   Sussams L., 2017, EXPECT UNEXPECTED DI
+   Tuomisto HL, 2011, ENVIRON SCI TECHNOL, V45, P6117, DOI 10.1021/es200130u
+   Tyfield David, 2010, Journal of Knowledge-Based Innovation in China, V2, P269, DOI 10.1108/17561411011077909
+   Tyfield D, 2010, GAME CHANGING CHINA
+   Tyfield D, 2018, ENERGY RES SOC SCI, V37, P266, DOI 10.1016/j.erss.2017.10.024
+   Unruh GC, 2000, ENERG POLICY, V28, P817, DOI 10.1016/S0301-4215(00)00070-7
+   Vogel G, 2008, SCIENCE, V319, P752, DOI 10.1126/science.319.5864.752
+   Wainstein ME, 2016, J CLEAN PROD, V126, P572, DOI 10.1016/j.jclepro.2016.02.095
+   Wilson C, 2017, DISRUPTIVE LOW CARBO
+   Wilson C, 2018, ENERGY RES SOC SCI, V37, P216, DOI 10.1016/j.erss.2017.10.053
+   Wilson C, 2018, ENERGY RES SOC SCI, V37, P211, DOI 10.1016/j.erss.2017.10.032
+   Wilson C, 2014, ENERGY TECHNOLOGY INNOVATION: LEARNING FROM HISTORICAL SUCCESSES AND FAILURES, P11
+   Wilson C, 2012, NAT CLIM CHANGE, V2, P780, DOI 10.1038/NCLIMATE1576
+NR 90
+TC 1
+Z9 1
+U1 1
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1570-646X
+EI 1570-6478
+J9 ENERG EFFIC
+JI Energy Effic.
+PD FEB
+PY 2019
+VL 12
+IS 2
+SI SI
+BP 423
+EP 440
+DI 10.1007/s12053-018-9679-8
+PG 18
+WC Green & Sustainable Science & Technology; Energy & Fuels; Environmental
+   Studies
+SC Science & Technology - Other Topics; Energy & Fuels; Environmental
+   Sciences & Ecology
+GA HK5VU
+UT WOS:000458037500005
+OA Green Published, Other Gold
+DA 2019-03-26
+ER

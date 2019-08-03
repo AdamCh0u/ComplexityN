@@ -1,0 +1,856 @@
+
+PT J
+AU Smith, RL
+   Xu, BW
+   Switzer, P
+AF Smith, Richard L.
+   Xu, Baowei
+   Switzer, Paul
+TI Reassessing the relationship between ozone and short-term mortality in
+   US urban communities
+SO INHALATION TOXICOLOGY
+LA English
+DT Article
+DE Confounding; Effect modifiers; Exposure-response relationship;
+   Multi-city time series; NMMAPS; Ozone metric; Regional and spatial
+   variability
+ID PARTICULATE AIR-POLLUTION; UNITED-STATES; TIME-SERIES; BACKGROUND OZONE;
+   ASSOCIATION; TEMPERATURE; EXPOSURES; CITIES; METAANALYSIS; PARTICLES
+AB Time-series studies that use daily mortality and ambient ozone concentrations exhibit estimates of ozone effects that are variable across cities. We investigate this intercity variability, as well as the sensitivity of the ozone-mortality associations to modeling assumptions and choice of daily ozone metric, based on reanalysis of data from the National Morbidity, Mortality and Air Pollution Study (NMMAPS). Previous work from NMMAPS reported a statistically significant association between ambient 24-h ozone and short-term mortality when averaged across 98 U.S. cities. Separation of ozone health associations from effects due to weather and co-pollutants is central to their interpretation. We examined the sensitivity of city-specific ozone-mortality estimates to adjustments for confounders and effect modifiers, showing substantial sensitivity. We examined ozone-mortality associations in different concentration ranges, finding a larger incremental effect in higher ranges, but also larger uncertainty. Alternative ozone exposure metrics defined by maximum 8-h averages or 1-h maxima show different ozone-mortality associations that cannot be explained by simple scaling relationships. The emphasis in earlier studies based on NMMAPS has been on the reporting of "national" effects, together with prediction intervals that suggest that these national values are precisely estimated. Our view is that ozone-mortality associations, based on time-series epidemiologic analyses of daily data from multiple cities, reveal still-unexplained inconsistencies and show sensitivity to modeling choices and data selection that contribute to serious uncertainties when epidemiological results are used to discern the nature and magnitude of possible ozone-mortality relationships or are applied to risk assessment.
+C1 [Smith, Richard L.; Xu, Baowei] Univ N Carolina, Chapel Hill, NC 27599 USA.
+   [Switzer, Paul] Stanford Univ, Dept Stat, Stanford, CA 94305 USA.
+RP Smith, RL (reprint author), Univ N Carolina, Chapel Hill, NC 27599 USA.
+EM rls@email.unc.edu
+CR Adams WC, 2006, INHAL TOXICOL, V18, P127, DOI 10.1080/08958370500306107
+   Adams WC, 2002, INHAL TOXICOL, V14, P745, DOI 10.1080/08958370290084610
+   Bell ML, 2008, AM J EPIDEMIOL, V167, P986, DOI 10.1093/aje/kwm396
+   Bell ML, 2007, ENVIRON HEALTH PERSP, V115, P1591, DOI 10.1289/ehp.10108
+   Bell ML, 2006, ENVIRON HEALTH PERSP, V114, P532, DOI 10.1289/ehp.8816
+   Bell ML, 2005, EPIDEMIOLOGY, V16, P436, DOI 10.1097/01.ede.0000165817.40152.85
+   Bell ML, 2004, JAMA-J AM MED ASSOC, V292, P2372, DOI 10.1001/jama.292.19.2372
+   Cressie N, 1993, STAT SPATIAL DATA
+   Curriero FC, 2002, AM J EPIDEMIOL, V155, P80, DOI 10.1093/aje/155.1.80
+   Dominici F, 2000, J ROY STAT SOC A STA, V163, P263, DOI 10.1111/1467-985X.00170
+   Dominici F, 2006, JAMA-J AM MED ASSOC, V295, P1127, DOI 10.1001/jama.295.10.1127
+   Dominici F, 2002, J AM STAT ASSOC, V97, P100, DOI 10.1198/016214502753479266
+   DOMINICI F, 2003, REVISED ANAL TIME SE, P9
+   Everson PJ, 2000, J ROY STAT SOC B, V62, P399, DOI 10.1111/1467-9868.00239
+   Fiore A, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2003JD003855
+   Fiore AM, 2002, J GEOPHYS RES-ATMOS, V107, DOI 10.1029/2001JD000982
+   Franklin M, 2008, ENVIRON HEALTH PERSP, V116, P453, DOI 10.1289/ehp.10777
+   Gryparis A, 2004, AM J RESP CRIT CARE, V170, P1080, DOI 10.1164/rccm.200403-333OC
+   HARVILLE DA, 1974, BIOMETRIKA, V61, P383, DOI 10.1093/biomet/61.2.383
+   Huang Y, 2005, ENVIRONMETRICS, V16, P547, DOI 10.1002/env.721
+   Ito K, 2005, EPIDEMIOLOGY, V16, P446, DOI 10.1097/01.ede.0000165821.90114.7f
+   Johnson T, 2005, J EXPO ANAL ENV EPID, V15, P329, DOI 10.1038/sj.jea.7500409
+   KOUTRAKIS P, 2005, HLTH EFFECTS I RES R, V131, P1
+   Krewski D, 2000, REANALYSIS HARVARD 6
+   Levy JI, 2005, EPIDEMIOLOGY, V16, P458, DOI 10.1097/01.ede.0000165820.08301.b3
+   NRC, 2008, EST MORT RISK RED EC
+   Oltmans SJ, 2008, ATMOS ENVIRON, V42, P6020, DOI 10.1016/j.atmosenv.2008.03.034
+   Ostro B, 2006, ENVIRON HEALTH PERSP, V114, P29, DOI 10.1289/ehp.8335
+   Peng RD, 2006, J R STAT SOC A STAT, V169, P179, DOI 10.1111/j.1467-985X.2006.00410.x
+   R Development Core Team, 2007, R LANG ENV STAT COMP
+   Ren C, 2008, ENVIRON INT, V34, P451, DOI 10.1016/j.envint.2007.10.001
+   Samet JM, 2000, NEW ENGL J MED, V343, P1742, DOI 10.1056/NEJM200012143432401
+   SAMET JM, 2000, NATL MORBIDITY MORTA
+   Sarnat SE, 2006, ENVIRON HEALTH PERSP, V114, P649, DOI 10.1289/ehp.8422
+   Schwartz J, 2005, AM J RESP CRIT CARE, V171, P627, DOI 10.1164/rccm.200407.933OC
+   Stein ML., 1999, INTERPOLATION SPATIA
+   Vedal S, 2003, ENVIRON HEALTH PERSP, V111, P45, DOI 10.1289/ehp.5276
+   Weschler CJ, 2006, ENVIRON HEALTH PERSP, V114, P1489, DOI 10.1289/ehp.9256
+   Weschler CJ, 2000, INDOOR AIR, V10, P269, DOI 10.1034/j.1600-0668.2000.010004269.x
+NR 39
+TC 55
+Z9 56
+U1 1
+U2 18
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0895-8378
+EI 1091-7691
+J9 INHAL TOXICOL
+JI Inhal. Toxicol.
+PD SEP
+PY 2009
+VL 21
+SU 2
+BP 37
+EP 61
+DI 10.1080/08958370903161612
+PG 25
+WC Toxicology
+SC Toxicology
+GA 500BE
+UT WOS:000270271200002
+PM 19731973
+DA 2019-03-26
+ER
+
+PT J
+AU Iscen, CF
+   Altin, A
+   Senoglu, B
+   Yavuz, HS
+AF Iscen, Cansu Filik
+   Altin, Arzu
+   Senoglu, Birdal
+   Yavuz, H. Serhan
+TI Evaluation of surface water quality characteristics by using
+   multivariate statistical techniques: A case study of the Euphrates river
+   basin, Turkey
+SO ENVIRONMENTAL MONITORING AND ASSESSMENT
+LA English
+DT Article
+DE Euphrates river basin; Factor analysis; Multidimensional scaling;
+   Statistical techniques; Water quality
+AB The surface water quality of the Euphrates river basin in Turkey are evaluated by using the multivariate statistical techniques known as factor analysis (FA) and multidimensional scaling (MDS) analysis. When FA was applied to the water quality data obtained from the 15 different surface water quality monitoring stations, two factors were identified, which were responsible from the 86.02% of the total variance of the water quality in the Euphrates river basin. The first factor called the urban land use factor explained 44.20% of the total variance and the second factor called the agricultural use factor explained 41.81% of the total variance. MDS technique showed that electrical conductivity (EC), percent sodium (Na%) and total salt are the most important variables causing difference in the water quality analysis.
+C1 [Altin, Arzu] Eskisehir Osmangazi Univ, Fac Arts & Sci, Dept Stat, TR-26480 Meselik, Eskisehir, Turkey.
+   [Iscen, Cansu Filik] Eskisehir Osmangazi Univ, Fac Educ, Dept Elementary Educ, TR-26480 Meselik, Eskisehir, Turkey.
+   [Senoglu, Birdal] Ankara Univ, Fac Sci, Dept Stat, TR-06100 Ankara, Turkey.
+   [Yavuz, H. Serhan] Eskisehir Osmangazi Univ, Dept Elect & Elect Engn, TR-26480 Meselik, Eskisehir, Turkey.
+RP Altin, A (reprint author), Eskisehir Osmangazi Univ, Fac Arts & Sci, Dept Stat, TR-26480 Meselik, Eskisehir, Turkey.
+EM cfilik@ogu.edu.tr; aaltin@ogu.edu.tr; senoglu@science.ankara.edu.tr;
+   hsyavuz@ogu.edu.tr
+CR ALATON IA, 2004, SITUATION URBAN WAST
+   Altinbilek D, 2004, INT J WATER RESOUR D, V20, P15, DOI 10.1080/07900620310001635584
+   ANDERSON EV, 1986, CHEM ENG NEWS   0414, P18
+   BALTACI F, 2000, ANALIZ METOTLARI ICM
+   Beaumont P., 1992, MIDDLE E EUROPE INTE, P183
+   Boyacioglu H, 2007, ENVIRON MONIT ASSESS, V131, P371, DOI 10.1007/s10661-006-9482-4
+   Boyacioglu H, 2006, WATER SA, V32, P389
+   JACOBSEN T, 2004, LANDOWNERS MANUAL GU
+   Johnson RA, 2002, APPL MULTIVARIATE ST
+   Kruskal J, 1978, MULTIDIMENSIONAL SCA
+   LINDEMAN MA, 2004, GEOLOGICAL SOC AM AB, V36, P184
+   Saffran K., 2001, EXCERPT PUBLICATION
+   SEN Z, 2002, SUSUZ TOPLUMLAR ICIN
+   *SPSS, 2006, SPSS13
+   Tosun H, 2007, ENG GEOL, V89, P155, DOI 10.1016/j.enggeo.2006.10.003
+NR 15
+TC 10
+Z9 10
+U1 0
+U2 13
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0167-6369
+EI 1573-2959
+J9 ENVIRON MONIT ASSESS
+JI Environ. Monit. Assess.
+PD APR
+PY 2009
+VL 151
+IS 1-4
+BP 259
+EP 264
+DI 10.1007/s10661-008-0267-9
+PG 6
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 413ZD
+UT WOS:000263832800024
+PM 18491209
+DA 2019-03-26
+ER
+
+PT J
+AU Barthelemy, M
+   Flammini, A
+AF Barthelemy, Marc
+   Flammini, Alessandro
+TI Co-evolution of Density and Topology in a Simple Model of City Formation
+SO NETWORKS & SPATIAL ECONOMICS
+LA English
+DT Article
+DE Networks; City formation and evolution; Urban economics
+ID URBAN-GROWTH PATTERNS; TRANSPORTATION NETWORKS; SPATIAL STRUCTURE;
+   STREET NETWORKS; SCALING LAWS; BETWEENNESS; CENTRALITY; GRAPHS; SIZE;
+   SET
+AB We study the influence that population density and the road network have on each others' growth and evolution. We use a simple model of formation and evolution of city roads which reproduces the most important empirical features of street networks in cities. Within this framework, we explicitly introduce the topology of the road network and analyze how it evolves and interact with the evolution of population density. We show that accessibility issues -pushing individuals to get closer to high centrality nodes- lead to high density regions and the appearance of densely populated centers. In particular, this model reproduces the empirical fact that the density profile decreases exponentially from a core district. In this simplified model, the size of the core district depends on the relative importance of transportation and rent costs.
+C1 [Barthelemy, Marc] Ctr Etud Bruyeres Le Chatel, Dept Phys Theor & Appl, CEA, F-91680 Bruyeres Le Chatel, France.
+   [Barthelemy, Marc] Ecole Hautes Etud Sci Sociales, Ctr Anal & Math Sociales, CAMS, CNRS EHESS,UMR 8557, F-75270 Paris 06, France.
+   [Flammini, Alessandro] Indiana Univ, Sch Informat, Bloomington, IN 47408 USA.
+RP Barthelemy, M (reprint author), Ctr Etud Bruyeres Le Chatel, Dept Phys Theor & Appl, CEA, BP12, F-91680 Bruyeres Le Chatel, France.
+EM marc.barthelemy@gmail.com
+RI barthelemy, marc/B-3942-2008
+CR Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   BALL P, 1998, SELF MADE TAPESTRY P
+   Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Banavar JR, 2000, PHYS REV LETT, V84, P4745, DOI 10.1103/PhysRevLett.84.4745
+   Barthelemy M, 2004, EUR PHYS J B, V38, P163, DOI 10.1140/epjb/e2004-00111-4
+   Barthelemy M, 2003, PHYSICA A, V319, P633, DOI 10.1016/S0378-4371(02)01382-1
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M, 2005, CITIES COMPLEXITY
+   Bejan A, 1998, PHYSICA A, V255, P211, DOI 10.1016/S0378-4371(98)00085-5
+   Bern M. W., 1989, Scientific American, V260, P66
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brueckner Jan K., 1987, HDB REGIONAL URBAN E, V2, P821, DOI DOI 10.1016/S1574-0080(87)80006-8
+   Buhl J, 2006, EUR PHYS J B, V49, P513, DOI 10.1140/epjb/e2006-00085-1
+   Cardillo A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066107
+   Christaller W, 1966, CENTRAL PLACES SO GE
+   CONIGLIO A, 1989, PHYS REV LETT, V62, P3054, DOI 10.1103/PhysRevLett.62.3054
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   DERRIDA B, 1987, J PHYS A-MATH GEN, V20, P5273, DOI 10.1088/0305-4470/20/15/039
+   DIXIT AK, 1977, AM ECON REV, V67, P297
+   DOYLE G, 1989, RANDOM WALK ELECT NE
+   DUPLANTIER B, 1989, J STAT PHYS, V54, P581, DOI 10.1007/BF01019770
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Fujita M., 1999, SPATIAL EC CITIES RE
+   Gastner MT, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016117
+   Gerke S, 2004, COMB PROBAB COMPUT, V13, P165, DOI 10.1017/S0963548303005947
+   Goh KI, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.278701
+   GOODMAN AC, 1988, J URBAN ECON, V23, P327, DOI 10.1016/0094-1190(88)90022-8
+   GRAHAM RL, 1985, ANN HIST COMPUT, V7, P43
+   Itzykson C., 1989, STAT FIELD THEORY, V2
+   JAROMCZYK JW, 1992, P IEEE, V80, P1502, DOI 10.1109/5.163414
+   Jensen P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.035101
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Kalapala V, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.026130
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levinson D, 2008, J ECON GEOGR, V8, P55, DOI 10.1093/jeg/lbm038
+   Levinson D, 2006, TRANSPORT SCI, V40, P179, DOI 10.1287/trsc.1050.0132
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Maritan A, 1996, SCIENCE, V272, P984, DOI 10.1126/science.272.5264.984
+   Orlin J., 1993, NETWORK FLOWS
+   Porta S, 2006, ENVIRON PLANN B, V33, P705, DOI 10.1068/b32045
+   Price ND, 2004, NAT REV MICROBIOL, V2, P886, DOI 10.1038/nrmicro1023
+   Rodriguez-Iturbe I., 1997, FRACTAL RIVER BASINS
+   ROSWALL M, 2005, ARXIVCONDMAT0407054
+   Runions A, 2005, ACM T GRAPHIC, V24, P702, DOI 10.1145/1073204.1073251
+   SAMANIEGO H, 2007, ACC DEST 2 C MINN AU
+   SCELLATO S, 2006, ARXIVPHYS0511063
+   SCHWARTZ M, 1986, TELECOMMUNICATION NE
+   Stevens PS, 1974, PATTERNS NATURE
+   TOUSSAINT GT, 1980, PATTERN RECOGN, V12, P261, DOI 10.1016/0031-3203(80)90066-7
+   *UN POP DIV, 2008, UN POP DIV HOM
+   Wartenberg C. M., 1966, VONTHUNENS ISOLATED
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+NR 53
+TC 35
+Z9 35
+U1 1
+U2 24
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1566-113X
+J9 NETW SPAT ECON
+JI Netw Spat. Econ.
+PD SEP
+PY 2009
+VL 9
+IS 3
+BP 401
+EP 425
+DI 10.1007/s11067-008-9068-5
+PG 25
+WC Operations Research & Management Science; Transportation Science &
+   Technology
+SC Operations Research & Management Science; Transportation
+GA 480IP
+UT WOS:000268727700006
+DA 2019-03-26
+ER
+
+PT J
+AU Pautasso, M
+AF Pautasso, Marco
+TI Geographical genetics and the conservation of forest trees
+SO PERSPECTIVES IN PLANT ECOLOGY EVOLUTION AND SYSTEMATICS
+LA English
+DT Review
+DE Dendrology; Evolutionary history; Global change; Isolation by distance;
+   Plant biodiversity; Scale extent and grain
+ID CHLOROPLAST DNA VARIATION; SPRUCE PICEA-ABIES; FRAXINUS-EXCELSIOR-L.;
+   BEECH FAGUS-SYLVATICA; AMPLIFIED POLYMORPHIC DNA; WIND-POLLINATED TREE;
+   PINUS-SYLVESTRIS L.; OAKS QUERCUS SPP.; MICROSATELLITE ANALYSIS REVEALS;
+   ENDANGERED TROPICAL TREE
+AB Trees are key ecosystem engineers. Many analyses of the genetic diversity of forest trees over substantial parts of their distributional ranges are appearing. These studies are of relevance for forest and landscape management, the inventory of botanical genetic resources and the conservation biology of rare, endemic, relictual, and endangered tree species. This review focuses on (i) recent investigations of the influence of human disturbances, (ii) comparative analyses of closely related and hybridizing species, (iii) reconstructions of refugia and of the spread of tree populations during the postglacial, (iv) studies of both range-wide and range-edge genetic patterns, and (v) assessments of the role of tree genetic diversity in the face of future climate warming. There is a need to include more tropical and austral trees in genetic analyses, as most studies have dealt with the relatively species-poor Palaearctic and Nearctic regions. Further studies are also needed on the role of tree genetic diversity in variations in phenology, resistance to insect defoliators and fungal pathogens, reactions to increased CO,, and ozone concentrations, growth, mortality rates and other traits. Most macroecological and scaling patterns of species richness still need to be studied for genetic diversity. Open research questions in this rapidly evolving field involve invasion biology, island biogeography, and urban ecology. There is a need for more knowledge transfer from the many studies of tree genetic diversity to the day-to-day management of trees and forests. (C) 2009 Rabel Foundation, ETH Zurich. Published by Elsevier GmbH. All rights reserved.
+C1 Univ London Imperial Coll Sci Technol & Med, Div Biol, Ascot SL5 7PY, Berks, England.
+RP Pautasso, M (reprint author), Univ London Imperial Coll Sci Technol & Med, Div Biol, Silwood Pk Campus, Ascot SL5 7PY, Berks, England.
+EM m.pautasso@ic.ac.uk
+OI Pautasso, Marco/0000-0003-1850-6416
+CR Aas G., 1997, AFZ/Der Wald, Allgemeine Forst Zeitschrift fur Waldwirtschaft und Umweltvorsorge, V52, P960
+   Aas G, 1993, ANN SCI FOR S1, V50, p107s
+   Abbott RJ, 2000, SCIENCE, V289, P1343, DOI 10.1126/science.289.5483.1343
+   Achere V, 2005, MOL ECOL, V14, P3191, DOI 10.1111/j.1365-294X.2005.02646.x
+   Adekunle VAJ, 2006, J TROP FOR SCI, V18, P91
+   Afzal-Rafii Z, 2007, MOL ECOL, V16, P723, DOI 10.1111/j.1365-294X.2006.03183.x
+   Aguilar R, 2006, ECOL LETT, V9, P968, DOI 10.1111/j.1461-0248.2006.00927.x
+   Aguinagalde I, 2005, J BIOGEOGR, V32, P329, DOI 10.1111/j.1365-2699.2004.01178.x
+   Aide TM, 1998, J BIOGEOGR, V25, P695, DOI 10.1046/j.1365-2699.1998.2540695.x
+   Aizawa M, 2007, MOL ECOL, V16, P3393, DOI 10.1111/j.1365-294X.2007.03391.x
+   Aizawa M, 2008, J BIOGEOGR, V35, P1295, DOI 10.1111/j.1365-2699.2008.01880.x
+   Aldrich PR, 2005, J HERED, V96, P627, DOI 10.1093/jhered/esi115
+   Aldrich PR, 1998, MOL ECOL, V7, P933, DOI 10.1046/j.1365-294x.1998.00396.x
+   Alfonso-Corrado C, 2004, EVOL ECOL, V18, P585, DOI 10.1007/s10682-004-5145-5
+   Allnutt TR, 2003, BIOL CONSERV, V114, P245, DOI 10.1016/S0006-3207(03)00044-2
+   Ally D, 2007, J HERED, V98, P73, DOI 10.1093/jhered/esl048
+   Anacker BL, 2008, NEW PHYTOL, V177, P756, DOI 10.1111/j.1469-8137.2007.02297.x
+   Anderson LL, 2006, P NATL ACAD SCI USA, V103, P12447, DOI 10.1073/pnas.0605310103
+   Andre T, 2008, FOREST ECOL MANAG, V255, P340, DOI 10.1016/j.foreco.2007.09.055
+   Andrianoelina O, 2006, BIODIVERS CONSERV, V15, P1109, DOI 10.1007/s10531-004-2178-6
+   Angelone S, 2007, MOL ECOL, V16, P1291, DOI 10.1111/j.1365-294X.2006.03202.x
+   Arnaud-Haond S, 2006, MOL ECOL, V15, P3515, DOI 10.1111/j.1365-294X.2006.02997.x
+   Assogbadjo AE, 2006, ANN BOT-LONDON, V97, P819, DOI [10.1093/aob/mcl043, 10.1093/aob/mc1043]
+   Avise JC, 2008, P NATL ACAD SCI USA, V105, P11564, DOI 10.1073/pnas.0801924105
+   Azevedo NCR, 2007, J HERED, V98, P646, DOI 10.1093/jhered/esm074
+   Bacles CFE, 2008, HEREDITY, V101, P368, DOI 10.1038/hdy.2008.66
+   Bacles CFE, 2005, EVOLUTION, V59, P979, DOI 10.1554/04-653
+   Bacles CFE, 2004, MOL ECOL, V13, P573, DOI 10.1046/j.1365-294X.2004.02093.x
+   Bartish IV, 2006, MOL ECOL, V15, P4065, DOI 10.1111/j.1365-294X.2006.03079.x
+   Baucom RS, 2005, CONSERV GENET, V6, P39, DOI 10.1007/s10592-004-7718-9
+   Bawa KS, 1998, CLIMATIC CHANGE, V39, P473, DOI 10.1023/A:1005360223639
+   Bednorz L, 2006, SILVAE GENET, V55, P197, DOI 10.1515/sg-2006-0027
+   Bekessy SA, 2002, HEREDITY, V88, P243, DOI [10.1038/sj.hdy.6800033, 10.1038/sj/hdy/6800033]
+   Belletti P, 2008, EUR J FOREST RES, V127, P103, DOI 10.1007/s10342-007-0187-1
+   Belletti P, 2007, CAN J FOREST RES, V37, P395, DOI 10.1139/X06-242
+   Belletti P, 2005, SILVAE GENET, V54, P9, DOI 10.1515/sg-2005-0002
+   Belmonte J, 2008, INT J BIOMETEOROL, V52, P675, DOI 10.1007/s00484-008-0160-9
+   Belokon MM, 2005, RUSS J GENET+, V41, P1268, DOI 10.1007/s11177-005-0228-0
+   BERGMANN F, 1990, GENETICA, V82, P1, DOI 10.1007/BF00057667
+   Besnard G, 2007, HEREDITY, V99, P649, DOI 10.1038/sj.hdy.6801051
+   Bhagwat SA, 2008, J BIOGEOGR, V35, P464, DOI 10.1111/j.1365-2699.2007.01861.x
+   Bilgen BB, 2007, BIOLOGIA, V62, P697, DOI 10.2478/s11756-007-0127-z
+   de Lacerda AE, 2008, FOREST ECOL MANAG, V255, P1034, DOI 10.1016/j.foreco.2007.10.009
+   Bittencourt JVM, 2007, HEREDITY, V99, P580, DOI 10.1038/sj.hdy.6801019
+   Born C, 2008, P ROY SOC B-BIOL SCI, V275, P2171, DOI 10.1098/rspb.2008.0446
+   Born C, 2008, MOL ECOL, V17, P2041, DOI 10.1111/j.1365-294X.2008.03685.x
+   Botkin DB, 2007, BIOSCIENCE, V57, P227, DOI 10.1641/B570306
+   Bottin L, 2005, MOL ECOL, V14, P1979, DOI 10.1111/j.1365-294X.2005.02576.x
+   Boys J, 2005, AM J BOT, V92, P833, DOI 10.3732/ajb.92.5.833
+   Bradshaw RHW, 2004, FOREST ECOL MANAG, V197, P203, DOI 10.1016/j.foreco.2004.05.025
+   BreitenbachDorfer M, 1997, PLANT SYST EVOL, V206, P259, DOI 10.1007/BF00987951
+   Bridle JR, 2007, TRENDS ECOL EVOL, V22, P140, DOI 10.1016/j.tree.2006.11.002
+   Bucci G, 2007, MOL ECOL, V16, P2137, DOI 10.1111/j.1365-294X.2007.03275.x
+   Buiteveld J, 2007, FOREST ECOL MANAG, V247, P98, DOI 10.1016/j.foreco.2007.04.018
+   Buiteveld J, 2006, FOREST ECOL MANAG, V228, P160, DOI 10.1016/j.foreco.2006.03.017
+   Burban C, 2003, MOL ECOL, V12, P1487, DOI 10.1046/j.1365-294X.2003.01817.x
+   Burga CA, 2001, VEG HIST ARCHAEOBOT, V10, P151, DOI 10.1007/PL00006927
+   Butaud JF, 2005, J BIOGEOGR, V32, P1763, DOI 10.1111/j.1365-2699.2005.01330.x
+   Butcher PA, 2009, TREE GENET GENOMES, V5, P189, DOI 10.1007/s11295-008-0169-6
+   Byrne M, 2002, J EVOLUTION BIOL, V15, P576, DOI 10.1046/j.1420-9101.2002.00429.x
+   Byrne M, 2008, CONSERV GENET, V9, P97, DOI 10.1007/s10592-007-9311-5
+   Camarero JJ, 2007, ARCT ANTARCT ALP RES, V39, P210, DOI 10.1657/1523-0430(2007)39[210:ROPURT]2.0.CO;2
+   Cannon CH, 2003, J BIOGEOGR, V30, P211, DOI 10.1046/j.1365-2699.2003.00829.x
+   Cardoso MA, 1998, MOL ECOL, V7, P601, DOI 10.1046/j.1365-294x.1998.00363.x
+   Cardoso SRS, 2005, BIODIVERS CONSERV, V14, P1047, DOI 10.1007/s10531-004-8409-z
+   Cascante A, 2002, CONSERV BIOL, V16, P137, DOI 10.1046/j.1523-1739.2002.00317.x
+   Casiva PV, 2004, AM J BOT, V91, P58, DOI 10.3732/ajb.91.1.58
+   Cavers S, 2003, MOL ECOL, V12, P1451, DOI 10.1046/j.1365-294X.2003.01810.x
+   Cavers S, 2003, CONSERV GENET, V4, P571, DOI 10.1023/A:1025692321860
+   Cespedes M, 2003, MOL ECOL, V12, P3201, DOI 10.1046/j.1365-294X.2003.01986.x
+   Charlesworth D, 2003, PHILOS T R SOC B, V358, P1051, DOI 10.1098/rstb.2003.1296
+   Cheddadi R, 2006, GLOBAL ECOL BIOGEOGR, V15, P271, DOI [10.1111/j.1466-822x.2006.00226.x, 10.1111/j.1466-822X.2006.00226.x]
+   Chen KM, 2008, MOL ECOL, V17, P4276, DOI 10.1111/j.1365-294X.2008.03911.x
+   Chen Z, 2001, CAN J FOREST RES, V31, P1691, DOI 10.1139/cjfr-31-10-1691
+   Cheng YP, 2005, MOL ECOL, V14, P2075, DOI 10.1111/j.1365-294X.2005.02567.x
+   Chiang YC, 2006, MOL ECOL, V15, P765, DOI 10.1111/j.1365-294X.2005.02833.x
+   Chokchaichamnankit P, 2008, J TROP FOR SCI, V20, P8
+   Christensen NL, 1996, ECOL APPL, V6, P665, DOI 10.2307/2269460
+   Chung JD, 2004, MOL PHYLOGENET EVOL, V33, P791, DOI 10.1016/j.ympev.2004.08.011
+   Chung MY, 2004, CAN J BOT, V82, P1402, DOI [10.1139/B04-100, 10.1139/b04-100]
+   Cloutier D, 2007, MOL ECOL, V16, P797, DOI 10.1111/j.1365-294X.2006.03193.x
+   Cloutier D, 2005, SILVAE GENET, V54, P270, DOI 10.1515/sg-2005-0039
+   Coart E, 2005, CONSERV GENET, V6, P259, DOI 10.1007/s10592-004-7833-7
+   Coates DJ, 2006, CONSERV GENET, V7, P931, DOI 10.1007/s10592-006-9136-7
+   Coelho AC, 2006, SILVAE GENET, V55, P105, DOI 10.1515/sg-2006-0016
+   Collignon AM, 2002, CAN J FOREST RES, V32, P266, DOI 10.1139/X01-198
+   Comes HP, 1998, TRENDS PLANT SCI, V3, P432, DOI 10.1016/S1360-1385(98)01327-2
+   Conte L, 2004, PLANT BIOSYST, V138, P279, DOI 10.1080/11263500400015515
+   Cottrell JE, 2005, FOREST ECOL MANAG, V206, P71, DOI 10.1016/j.foreco.2004.10.052
+   Cottrell JE, 2003, FOREST ECOL MANAG, V176, P287, DOI 10.1016/S0378-1127(02)00289-X
+   Craft KJ, 2007, FOREST ECOL MANAG, V239, P13, DOI 10.1016/j.foreco.2006.11.005
+   Craft KJ, 2002, AM J BOT, V89, P1792, DOI 10.3732/ajb.89.11.1792
+   Curtu AL, 2007, PLANT BIOLOGY, V9, P116, DOI 10.1055/s-2006-924542
+   Curtu AL, 2007, BMC EVOL BIOL, V7, DOI 10.1186/1471-2148-7-218
+   Dagher-Kharrat MB, 2007, TREE GENET GENOMES, V3, P275, DOI 10.1007/s11295-006-0065-x
+   Dawson IK, 1999, MOL ECOL, V8, P151, DOI 10.1046/j.1365-294X.1999.00518.x
+   Dawson W, 2008, BIODIVERS CONSERV, V17, P1979, DOI 10.1007/s10531-008-9345-0
+   Dayanandan S, 1999, MOL ECOL, V8, P1585, DOI 10.1046/j.1365-294x.1999.00735.x
+   de Casas RR, 2007, FLORA, V202, P488, DOI 10.1016/j.flora.2006.10.006
+   de Heredia UL, 2007, J BIOGEOGR, V34, P1505, DOI 10.1111/j.1365-2699.2007.01715.x
+   de la Torre A, 2008, FOREST ECOL MANAG, V255, P334, DOI 10.1016/j.foreco.2007.09.058
+   Degen B, 2006, BIOL CONSERV, V131, P386, DOI 10.1016/j.biocon.2006.02.014
+   Deguilloux MF, 2004, ANN FOREST SCI, V61, P825, DOI 10.1051/forest:2004078
+   Demesure B, 1996, EVOLUTION, V50, P2515, DOI 10.1111/j.1558-5646.1996.tb03638.x
+   DENSLOW JS, 1987, ANNU REV ECOL SYST, V18, P431, DOI 10.1146/annurev.es.18.110187.002243
+   Dering M, 2008, SILVA FENN, V42, P327, DOI 10.14214/sf.240
+   Dick CW, 2007, MOL ECOL, V16, P3039, DOI 10.1111/j.1365-294X.2007.03341.x
+   Dick CW, 2003, AM NAT, V162, P691, DOI 10.1086/379795
+   Dick CW, 2003, MOL ECOL, V12, P753, DOI 10.1046/j.1365-294X.2003.01760.x
+   Duminil J, 2006, MOL ECOL, V15, P3505, DOI 10.1111/j.1365-294X.2006.03040.x
+   DumolinLapegue S, 1997, GENETICS, V146, P1475
+   Dunphy BK, 2007, AM J BOT, V94, P1786, DOI 10.3732/ajb.94.11.1786
+   Eckert AJ, 2008, MOL ECOL, V17, P1983, DOI 10.1111/j.1365-294X.2008.03722.x
+   El-Kassaby YA, 2003, THEOR APPL GENET, V107, P598, DOI 10.1007/s00122-003-1291-3
+   Ennos RA, 1999, SYST ASSOC SPEC VOL, V57, P1
+   Fady B, 2008, CONSERV GENET, V9, P85, DOI 10.1007/s10592-007-9310-6
+   Farwig N, 2008, CONSERV GENET, V9, P317, DOI 10.1007/s10592-007-9343-x
+   Fenberg PB, 2008, MOL ECOL, V17, P209, DOI 10.1111/j.1365-294X.2007.03522.x
+   Fernandez JF, 2007, BIOTROPICA, V39, P72, DOI 10.1111/j.1744-7429.2006.00219.x
+   Fernandez-Manjarres JF, 2006, MOL ECOL, V15, P3245, DOI 10.1111/j.1365-294X.2006.02975.x
+   Ferrazzini D, 2007, ANN FOREST SCI, V64, P159, DOI 10.1051/forest:2006100
+   Ferris C, 1998, HEREDITY, V80, P584, DOI 10.1046/j.1365-2540.1998.00342.x
+   Feyissa T, 2007, GENET RESOUR CROP EV, V54, P947, DOI 10.1007/s10722-006-9155-8
+   Fineschi S, 2005, ANN FOREST SCI, V62, P79, DOI 10.1051/forest:2004085
+   Fineschi S, 2002, CONSERV GENET, V3, P145, DOI 10.1023/A:1015222230887
+   Finkeldey R., 2001, Schweizerische Zeitschrift fur Forstwesen, V152, P162, DOI 10.3188/szf.2001.0162
+   Finkeldey R, 2004, FOREST ECOL MANAG, V197, P231, DOI 10.1016/j.foreco.2004.05.036
+   Finkeldey R, 2003, THEOR APPL GENET, V106, P346, DOI 10.1007/s00122-002-1002-5
+   Fontaine C, 2004, HEREDITY, V93, P639, DOI 10.1038/sj.hdy.6800591
+   FOWLER D P, 1977, Canadian Journal of Forest Research, V7, P343, DOI 10.1139/x77-043
+   Franceschinelli EV, 2007, J TROP ECOL, V23, P361, DOI 10.1017/S0266467407004099
+   Franjic J, 2006, ACTA SOC BOT POL, V75, P123
+   Freeman JS, 2001, AUST J BOT, V49, P585, DOI 10.1071/BT00094
+   Fromm M, 2003, HEREDITY, V91, P337, DOI 10.1038/sj.hdy.6800325
+   Fu YQ, 2003, ANN BOT-LONDON, V92, P223, DOI 10.1093/aob/mcg126
+   FURNIER GR, 1986, AM J BOT, V73, P1009, DOI 10.2307/2444119
+   Gamache I, 2003, MOL ECOL, V12, P891, DOI 10.1046/j.1365-294X.2003.01800.x
+   Gao LM, 2007, MOL ECOL, V16, P4684, DOI 10.1111/j.1365-294X.2007.03537.x
+   Gapare WJ, 2008, CONSERV GENET, V9, P411, DOI 10.1007/s10592-007-9353-8
+   Gapare WJ, 2005, MOL ECOL, V14, P2659, DOI 10.1111/j.1365-294X.2005.02633.x
+   Garnier-Gere PH, 2001, CONSERV BIOL, V15, P1632, DOI 10.1046/j.1523-1739.2001.00180.x
+   Geburek T, 1997, BIODIVERS CONSERV, V6, P1639, DOI 10.1023/A:1018330906758
+   Geburek T, 2008, CONSERV BIOL, V22, P267, DOI 10.1111/j.1523-1739.2008.00900.x
+   Gehrig-Fasel J, 2007, J VEG SCI, V18, P571, DOI 10.1658/1100-9233(2007)18[571:TLSITS]2.0.CO;2
+   GENTRY AH, 1992, OIKOS, V63, P19, DOI 10.2307/3545512
+   Gerwein JB, 2006, RHODORA, V108, P1, DOI 10.3119/05-9.1
+   GIANNINI R, 1991, SILVAE GENET, V40, P160
+   Gibson JP, 2008, AM J BOT, V95, P588, DOI 10.3732/ajb.2007316
+   Gillespie TW, 2000, PLANT ECOL, V147, P37, DOI 10.1023/A:1009848525399
+   Glaubitz JC, 2003, THEOR APPL GENET, V107, P422, DOI 10.1007/s00122-003-1262-8
+   Glaubitz JC, 2003, CONSERV GENET, V4, P275, DOI 10.1023/A:1024025331750
+   Godbout J, 2005, MOL ECOL, V14, P3497, DOI 10.1111/j.1365-294X.2005.02674.x
+   Godbout J, 2008, MOL ECOL, V17, P2463, DOI 10.1111/j.1365-294X.2008.03761.x
+   Gomory D, 2007, PLANT SYST EVOL, V266, P253, DOI 10.1007/s00606-007-0535-0
+   Gomory D, 2007, BOT J LINN SOC, V154, P165, DOI 10.1111/j.1095-8339.2007.00666.x
+   Gong W, 2008, MOL PHYLOGENET EVOL, V48, P1094, DOI 10.1016/j.ympev.2008.05.003
+   Gonzalez-Astorga J, 2005, ANN BOT-LONDON, V95, P999, DOI 10.1093/aob/mci106
+   Gonzalez-Astorga J, 2004, ANN BOT-LONDON, V93, P521, DOI 10.1093/aob/mch070
+   Gonzalez-Martinez SC, 2006, NEW PHYTOL, V170, P227, DOI 10.1111/j.1469-8137.2006.01686.x
+   Gonzalez-Martinez SC, 2004, FOREST ECOL MANAG, V197, P103, DOI 10.1016/j.foreco.2004.05.008
+   Gonzalez-Rodriguez A, 2004, MOL ECOL, V13, P3467, DOI 10.1111/j.1365-294X.2004.02344.x
+   Gram WK, 2001, ECOLOGY, V82, P2012
+   Grant EHC, 2007, ECOL LETT, V10, P165, DOI 10.1111/j.1461-0248.2006.01007.x
+   Gregorius HR, 2003, PERSPECT PLANT ECOL, V5, P209, DOI 10.1078/1433-8319-00035
+   Grivet D, 2003, CONSERV GENET, V4, P47, DOI 10.1023/A:1021804009832
+   Grivet D, 2008, MOL ECOL, V17, P139, DOI 10.1111/j.1365-294X.2007.03498.x
+   Grivet D, 2006, MOL ECOL, V15, P4085, DOI [10.1111/j.1365-294X.2006.03083.x, 10.1111/j.1365-294X.2006.03083.X]
+   Gugerli F, 2007, ANN BOT-LONDON, V99, P713, DOI 10.1093/aob/mcm006
+   Gugerli F, 2001, MOL ECOL, V10, P1255, DOI 10.1046/j.1365-294X.2001.01279.x
+   Gugger PF, 2008, J BIOGEOGR, V35, P1665, DOI 10.1111/j.1365-2699.2008.01915.x
+   Guisan A, 2007, ECOL MONOGR, V77, P615, DOI 10.1890/06-1060.1
+   Hall D, 2007, EVOLUTION, V61, P2849, DOI 10.1111/j.1558-5646.2007.00230.x
+   Hall P, 1996, CONSERV BIOL, V10, P757, DOI 10.1046/j.1523-1739.1996.10030757.x
+   Hamann A, 2004, FOREST ECOL MANAG, V197, P295, DOI 10.1016/j.foreco.2004.05.020
+   Hampe A, 2005, ECOL LETT, V8, P461, DOI 10.1111/j.1461-0248.2005.00739.x
+   Hamrick JL, 2006, APPL VEG SCI, V9, P51, DOI 10.1658/1402-2001(2006)9[51:COGDIO]2.0.CO;2
+   Hamrick JL, 2004, FOREST ECOL MANAG, V197, P323, DOI 10.1016/j.foreco.2004.05.023
+   Hanaoka S, 2007, CAN J BOT, V85, P404, DOI 10.1139/B07-036
+   Hansen EM, 2008, BOREAL ENVIRON RES, V13, P33
+   Hansen OK, 2005, TREE GENET GENOMES, V1, P116, DOI 10.1007/s11295-005-0016-y
+   Hanson TR, 2008, MOL ECOL, V17, P2060, DOI 10.1111/j.1365-294X.2008.03726.x
+   Hardig TM, 2000, MOL ECOL, V9, P9, DOI 10.1046/j.1365-294X.2000.00757.x
+   Hardy OJ, 2006, MOL ECOL, V15, P559, DOI 10.1111/j.1365-294X.2005.02785.x
+   Hawley GJ, 2005, CAN J FOREST RES, V35, P143, DOI 10.1139/x04-148
+   Hebel I, 2006, SILVAE GENET, V55, P38, DOI 10.1515/sg-2006-0006
+   Hermy M, 2007, ECOL RES, V22, P361, DOI 10.1007/s11284-007-0354-3
+   Hertel H, 1996, ANN SCI FOREST, V53, P761, DOI 10.1051/forest:19960252
+   Heuertz M, 2004, MOL ECOL, V13, P3437, DOI 10.1111/j.1365-294X.2004.02333.x
+   Heuertz M, 2006, MOL ECOL, V15, P2131, DOI 10.1111/j.1365-294X.2006.02897.x
+   Heuertz M, 2004, EVOLUTION, V58, P976
+   Heuertz M, 2001, MOL ECOL, V10, P1615, DOI 10.1046/j.1365-294X.2001.01300.x
+   Heuertz M, 2006, GENETICS, V174, P2095, DOI 10.1534/genetics.106.065102
+   Hewitt G, 2000, NATURE, V405, P907, DOI 10.1038/35016000
+   Hewitt GM, 1996, BIOL J LINN SOC, V58, P247, DOI 10.1111/j.1095-8312.1996.tb01434.x
+   Hilfiker K, 2004, CAN J BOT, V82, P219, DOI [10.1139/B03-136, 10.1139/b03-136]
+   Hirayama K, 2007, BIOL CONSERV, V136, P315, DOI 10.1016/j.biocon.2006.12.004
+   Hoebee SE, 2007, HEREDITY, V99, P47, DOI 10.1038/sj.hdy.6800962
+   Holdenrieder O, 2004, TRENDS ECOL EVOL, V19, P446, DOI 10.1016/j.tree.2004.06.003
+   Holderegger R, 2005, TREES-STRUCT FUNCT, V19, P742, DOI 10.1007/s00468-005-0006-6
+   Holderegger R, 2008, BIOSCIENCE, V58, P199, DOI 10.1641/B580306
+   Honnay O, 2007, CONSERV BIOL, V21, P823, DOI 10.1111/j.1523-1739.2006.00646.x
+   Hosius B, 2006, EUR J FOREST RES, V125, P407, DOI 10.1007/s10342-006-0136-4
+   Hosius B, 2001, ALLG FORST JAGDZTG, V172, P87
+   Howard DJ, 1997, EVOLUTION, V51, P747, DOI 10.1111/j.1558-5646.1997.tb03658.x
+   Hu LJ, 2008, ANN BOT-LONDON, V102, P195, DOI 10.1093/aob/mcn074
+   Hughes AR, 2008, ECOL LETT, V11, P609, DOI 10.1111/j.1461-0248.2008.01179.x
+   Isagi Y, 2007, ECOL RES, V22, P382, DOI 10.1007/s11284-007-0360-5
+   Iwasaki T, 2006, J PLANT RES, V119, P539, DOI 10.1007/s10265-006-0010-y
+   Jactel H, 2007, ECOL LETT, V10, P835, DOI 10.1111/j.1461-0248.2007.01073.x
+   Jansson R, 2008, ECOL LETT, V11, P173, DOI 10.1111/j.1461-0248.2007.01138.x
+   Jaramillo-Correa JP, 2005, GENETICS, V171, P1951, DOI 10.1534/genetics.105.042770
+   Jaramillo-Correa JP, 2004, MOL ECOL, V13, P2735, DOI 10.1111/j.1365-294X.2004.02258.x
+   Jaramillo-Correa JP, 2008, MOL ECOL, V17, P2476, DOI 10.1111/j.1365-294X.2008.03762.x
+   Jaramillo-Correa JP, 2006, MOL ECOL, V15, P2787, DOI 10.1111/j.1365-294X.2006.02974.x
+   Jones ME, 2006, CONSERV GENET, V7, P691, DOI 10.1007/s10592-005-9104-7
+   Jump AS, 2007, MOL ECOL, V16, P925, DOI 10.1111/j.1365-294X.2006.03203.x
+   Jump AS, 2006, P NATL ACAD SCI USA, V103, P8096, DOI 10.1073/pnas.0510127103
+   Kado T, 2008, TREE GENET GENOMES, V4, P133, DOI 10.1007/s11295-007-0094-0
+   Kado T, 2006, GENES GENET SYST, V81, P103, DOI 10.1266/ggs.81.103
+   Karhu A, 1996, THEOR APPL GENET, V93, P215, DOI 10.1007/BF00225748
+   Kelleher CT, 2005, ANN BOT-LONDON, V96, P1237, DOI 10.1093/aob/mci275
+   Kettle CJ, 2007, MOL ECOL, V16, P3581, DOI 10.1111/j.1365-294X.2007.03419.x
+   Kettle CJ, 2008, BIOL CONSERV, V141, P1953, DOI 10.1016/j.biocon.2008.05.008
+   Khasa DP, 2006, MOL ECOL, V15, P3907, DOI 10.1111/j.1365-294X.2006.03066.x
+   Khatab IA, 2008, GENES GENET SYST, V83, P55, DOI 10.1266/ggs.83.55
+   Kim SH, 2006, SILVAE GENET, V55, P7, DOI 10.1515/sg-2006-0002
+   Kim ZS, 2005, SILVAE GENET, V54, P235, DOI 10.1515/sg-2005-0034
+   King RA, 1998, MOL ECOL, V7, P1151
+   King RA, 2000, BIOL J LINN SOC, V70, P147, DOI 10.1006/bijl.1999.0392
+   Kinloch BB, 2004, PHYTOPATHOLOGY, V94, P751, DOI 10.1094/PHYTO.2004.94.7.751
+   Kobashi S, 2006, J PLANT RES, V119, P265, DOI 10.1007/s10265-006-0271-5
+   Konig AO, 2002, FOREST ECOL MANAG, V156, P147, DOI 10.1016/S0378-1127(01)00640-5
+   KONNERT M, 1995, PLANT SYST EVOL, V196, P19, DOI 10.1007/BF00985333
+   Kramer AT, 2008, CONSERV BIOL, V22, P878, DOI 10.1111/j.1523-1739.2008.00944.x
+   Kramer K, 2008, ECOL MODEL, V216, P333, DOI 10.1016/j.ecolmodel.2008.05.004
+   Kreft H, 2008, ECOL LETT, V11, P116, DOI 10.1111/j.1461-0248.2007.01129.x
+   Kremer A, 2002, ANN FOR SCI, V59, P777, DOI 10.1051/forest:2002065
+   Kremer A, 2002, FOREST ECOL MANAG, V156, P75, DOI 10.1016/S0378-1127(01)00635-1
+   KREMER A, 1994, GENET SEL EVOL, V26, pS105, DOI 10.1051/gse:19940708
+   Kwon JA, 2002, MOL ECOL, V11, P991, DOI 10.1046/j.1365-294X.2002.01497.x
+   Labra M, 2006, FLORA, V201, P468, DOI 10.1016/j.flora.2005.10.004
+   Lande R, 1996, EVOLUTION, V50, P434, DOI 10.1111/j.1558-5646.1996.tb04504.x
+   Lang P, 1999, ACTA BOT SIN, V41, P651
+   Lang P, 2007, MOL PHYLOGENET EVOL, V43, P49, DOI 10.1016/j.ympev.2006.07.022
+   Lang P, 2006, TREE GENET GENOMES, V2, P132, DOI 10.1007/s11295-006-0036-2
+   Lara-Gomez G, 2005, ALLG FORST JAGDZTG, V176, P97
+   Le Corre V, 1998, HEREDITY, V80, P464, DOI 10.1046/j.1365-2540.1998.00313.x
+   Ledig FT, 2006, CONSERV GENET, V7, P383, DOI 10.1007/s10592-005-9049-x
+   LEDIG FT, 1992, OIKOS, V63, P87, DOI 10.2307/3545518
+   Lee CT, 2002, BIOL CONSERV, V104, P107, DOI 10.1016/S0006-3207(01)00159-8
+   Lefevre F, 2004, FOREST ECOL MANAG, V197, P257, DOI 10.1016/j.foreco.2004.05.017
+   Lexer C, 2007, NEW PHYTOL, V173, P673
+   Li J, 2007, FOREST ECOL MANAG, V243, P94, DOI 10.1016/j.foreco.2007.02.012
+   Lian C, 2008, MOL ECOL, V17, P2948, DOI 10.1111/j.1365-294X.2008.03802.x
+   Liesebach M, 2002, FORSTWISS CENTRALBL, V121, P130
+   Lipow SR, 2004, CONSERV BIOL, V18, P412, DOI 10.1111/j.1523-1739.2004.00072.x
+   Lise Y, 2007, SILVA FENN, V41, P211, DOI 10.14214/sf.291
+   Loacker K, 2007, FLORA, V202, P70, DOI 10.1016/j.flora.2006.03.003
+   Longauer R, 2004, ENVIRON POLLUT, V130, P85, DOI 10.1016/j.envpol.2003.10.023
+   Lonsdale D, 2008, EUR J FOREST RES, V127, P1, DOI 10.1007/s10342-007-0182-6
+   Lowe AJ, 2005, HEREDITY, V95, P255, DOI 10.1038/sj.hdy.6800725
+   Lozano-Garcia S, 2005, QUATERNARY RES, V64, P70, DOI 10.1016/j.yqres.2005.02.010
+   Lubchenco J, 1998, SCIENCE, V279, P491, DOI 10.1126/science.279.5350.491
+   Luck GW, 2007, BIOL REV, V82, P607, DOI 10.1111/j.1469-185X.2007.00028.x
+   Lumaret R, 2005, ANN BOT-LONDON, V96, P853, DOI 10.1093/aob/mci237
+   Maghuly F, 2007, TREE GENET GENOMES, V3, P199, DOI 10.1007/s11295-006-0055-z
+   Magni CR, 2005, MOL ECOL, V14, P513, DOI 10.1111/j.1365-294X.2005.02400.x
+   Magri D, 2006, NEW PHYTOL, V171, P199, DOI 10.1111/j.1469-8137.2006.01740.x
+   Magri D, 2008, J BIOGEOGR, V35, P450, DOI 10.1111/j.1365-2699.2007.01803.x
+   Major JE, 2007, TREE PHYSIOL, V27, P353, DOI 10.1093/treephys/27.3.353
+   Maliouchenko O, 2007, J BIOGEOGR, V34, P1601, DOI 10.1111/j.13653-2699.2007.01729.x
+   Manel S, 2003, TRENDS ECOL EVOL, V18, P189, DOI 10.1016/S0169-5347(03)00008-9
+   Manos PS, 1999, MOL PHYLOGENET EVOL, V12, P333, DOI 10.1006/mpev.1999.0614
+   MANOS PS, 1987, SYST BOT, V12, P365, DOI 10.2307/2419259
+   MARCHELLI P, 2006, CONSERV GENET, V7, P591, DOI DOI 10.1007/S10592-005-9069-6
+   Marquardt PE, 2007, CAN J FOREST RES, V37, P2652, DOI 10.1139/X07-114
+   Marshall HD, 2002, THEOR APPL GENET, V104, P367, DOI 10.1007/s001220100687
+   Mathiasen P, 2007, CONSERV BIOL, V21, P232, DOI 10.1111/j.1523-1739.2006.00565.x
+   Mattioni C, 2008, TREE GENET GENOMES, V4, P563, DOI 10.1007/s11295-008-0132-6
+   Matyas G, 2001, THEOR APPL GENET, V102, P12, DOI 10.1007/s001220051613
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   McLachlan JS, 2005, ECOLOGY, V86, P2088, DOI 10.1890/04-1036
+   Meister J, 2007, NORD J BOT, V25, P217, DOI 10.1111/j.2008.0107-055X.00110.x
+   Mejnartowicz L, 2008, ACTA SOC BOT POL, V77, P105
+   Meloni M, 2007, J BIOGEOGR, V34, P929, DOI 10.1111/j.1365-2699.2006.01668.x
+   Meng LH, 2007, MOL ECOL, V16, P4128, DOI 10.1111/j.1365-294X.2007.03459.x
+   Mimura M, 2007, AM J BOT, V94, P991, DOI 10.3732/ajb.94.6.991
+   Monteleone I, 2006, SILVA FENN, V40, P391, DOI 10.14214/sf.476
+   Morand ME, 2002, MOL ECOL, V11, P377, DOI 10.1046/j.1365-294X.2002.01461.x
+   Morris AB, 2008, MOL ECOL, V17, P3889, DOI 10.1111/j.1365-294X.2008.03875.x
+   Mosseler A, 2003, THEOR APPL GENET, V106, P931, DOI [10.1007/s00122-003-1331-z, 10.1007/s00122-002-1156-1]
+   Muir G, 2000, NATURE, V405, P1016, DOI 10.1038/35016640
+   Muir G, 2005, MOL ECOL, V14, P549, DOI 10.1111/j.365-294X2004.02418.x
+   Muir G, 2001, MOL BIOL EVOL, V18, P112, DOI 10.1093/oxfordjournals.molbev.a003785
+   MULLER B, 1999, THESIS ETH ZURICH
+   Muller SD, 2007, J BIOGEOGR, V34, P876, DOI 10.1111/j.1365-2699.2006.01665.x
+   Muller-Starck G., 1995, Forest Genetics, V2, P121
+   MullerStarck G, 1995, SILVAE GENET, V44, P356
+   Myking T, 2006, SCAND J FOREST RES, V21, P99, DOI 10.1080/02827580500539265
+   Nasri N, 2008, PLANT SYST EVOL, V271, P1, DOI 10.1007/s00606-007-0594-2
+   Navarro C, 2005, SILVAE GENET, V54, P293, DOI 10.1515/sg-2005-0042
+   Navascues M, 2007, FOREST ECOL MANAG, V244, P122, DOI 10.1016/j.foreco.2007.04.009
+   Naydenov KD, 2006, BIOCHEM SYST ECOL, V34, P562, DOI 10.1016/j.bse.2006.01.011
+   Naydenov KD, 2005, BIOCHEM SYST ECOL, V33, P1226, DOI 10.1016/j.bse.2005.07.011
+   Naydenov KD, 2005, BIOCHEM SYST ECOL, V33, P133, DOI 10.1016/j.bse.2004.06.017
+   Naydenov K, 2007, BMC EVOL BIOL, V7, DOI 10.1186/1471-2148-7-233
+   Neale DB, 2008, CURR OPIN PLANT BIOL, V11, P149, DOI 10.1016/j.pbi.2007.12.004
+   Newton AC, 2002, HEREDITY, V89, P191, DOI 10.1038/sj.hdy.6800113
+   Newton AC, 1999, TRENDS ECOL EVOL, V14, P140, DOI 10.1016/S0169-5347(98)01555-9
+   Newton AC, 2008, ORYX, V42, P195, DOI 10.1017/S003060530800759X
+   Nightingale JM, 2008, ECOL APPL, V18, P93, DOI 10.1890/07-0693.1
+   Novick RR, 2003, MOL ECOL, V12, P2885, DOI 10.1046/j.1365-294X.2003.01951.x
+   Nunez-Avila MC, 2006, AUST J BOT, V54, P733, DOI 10.1071/BT06022
+   O'Brien EK, 2007, J APPL ECOL, V44, P583, DOI 10.1111/j.1365-2664.2007.01313.x
+   O'Connell LM, 2006, HEREDITY, V97, P418, DOI 10.1038/sj.hdy.6800886
+   Oddou-Muratorio S, 2004, MOL ECOL, V13, P3689, DOI 10.1111/j.1365-294X.2004.02373.x
+   Oddou-Muratorio S, 2008, MOL ECOL, V17, P2743, DOI 10.1111/j.1365-294X.2008.03783.x
+   Ohsawa T, 2007, INT J PLANT SCI, V168, P333, DOI 10.1086/510413
+   Ohsawa T, 2006, SILVAE GENET, V55, P160, DOI 10.1515/sg-2006-0023
+   Ohsawa T, 2008, GLOBAL ECOL BIOGEOGR, V17, P152, DOI 10.1111/j.1466-8238.2007.00357.x
+   Okaura T, 2002, HEREDITY, V88, P322, DOI [10.1038/sj.hdy.6800048, 10.1038/sj/hdy/6800048]
+   Okaura T, 2007, GENES GENET SYST, V82, P465, DOI 10.1266/ggs.82.465
+   Pakkad G, 2008, FOREST ECOL MANAG, V255, P1067, DOI 10.1016/j.foreco.2007.10.021
+   Palme AE, 2002, MOL ECOL, V11, P1769, DOI 10.1046/j.1365-294X.2002.01581.x
+   Palme AE, 2003, MOL ECOL, V12, P201, DOI 10.1046/j.1365-294X.2003.01724.x
+   Palme AE, 2003, HEREDITY, V91, P465, DOI 10.1038/sj.hdy.6800307
+   Paludan-Muller G, 1999, NEW PHYTOL, V144, P261, DOI 10.1046/j.1469-8137.1999.00518.x
+   Paoletti E, 2007, THESCIENTIFICWORLDJO, V7, P1, DOI 10.1100/tsw.2007.52
+   Parmentier I, 2007, J ECOL, V95, P1058, DOI 10.1111/j.1365-2745.2007.01273.x
+   Pastorino MJ, 2004, BIOCHEM SYST ECOL, V32, P993, DOI 10.1016/j.bse.2004.03.002
+   Pautasso M, 2005, ECOL STUD-ANAL SYNTH, V176, P263
+   Pautasso M, 2007, BOT HELV, V117, P15, DOI 10.1007/s00035-007-0786-y
+   Pautasso M, 2007, ECOL LETT, V10, P16, DOI 10.1111/j.1461-0248.2006.00993.x
+   Payn KG, 2008, TREE GENET GENOMES, V4, P519, DOI 10.1007/s11295-007-0128-7
+   Payn KG, 2007, AUST J BOT, V55, P673, DOI 10.1071/BT07056
+   Peakall R, 2003, MOL ECOL, V12, P2331, DOI 10.1046/j.1365-294X.2003.01926.x
+   Peng XL, 2007, TREES-STRUCT FUNCT, V21, P457, DOI 10.1007/s00468-007-0138-y
+   Perry DA, 1998, ANNU REV ECOL SYST, V29, P435, DOI 10.1146/annurev.ecolsys.29.1.435
+   Persson H, 2004, PLANT SYST EVOL, V244, P157, DOI 10.1007/s00606-003-0073-3
+   Pertoldi C, 2007, BIODIVERS CONSERV, V16, P4147, DOI 10.1007/s10531-007-9212-4
+   Petit RJ, 2008, SCIENCE, V320, P1450, DOI 10.1126/science.1155457
+   Petit RJ, 2006, ANNU REV ECOL EVOL S, V37, P187, DOI 10.1146/annurev.ecolsys.37.091305.110215
+   Petit RJ, 2004, FOREST ECOL MANAG, V197, P117, DOI 10.1016/j.foreco.2004.05.009
+   Petit RJ, 2002, FOREST ECOL MANAG, V156, P49, DOI 10.1016/S0378-1127(01)00634-X
+   Petit RJ, 2003, SCIENCE, V300, P1563, DOI 10.1126/science.1083264
+   PETIT RJ, 1993, THEOR APPL GENET, V87, P122, DOI 10.1007/BF00223755
+   Petit RJ, 2005, MOL ECOL, V14, P689, DOI 10.1111/j.1365-294X.2004.02410.x
+   Petit RJ, 2004, NEW PHYTOL, V161, P151, DOI 10.1046/j.1469-8137.2003.00944.x
+   Petit RJ, 1997, P NATL ACAD SCI USA, V94, P9996, DOI 10.1073/pnas.94.18.9996
+   Petit RJ, 2002, FOREST ECOL MANAG, V156, P5, DOI 10.1016/S0378-1127(01)00645-4
+   PETIT RJ, 1993, ANN SCI FOREST, V50, P41
+   Pichot C, 2008, GENETICS, V178, P379, DOI 10.1534/genetics.107.080572
+   Pither R, 2003, HEREDITY, V91, P307, DOI 10.1038/sj.hdy.6800299
+   Pospiskova M, 2006, CAN J FOREST RES, V36, P1067, DOI 10.1139/X06-003
+   Potenko VV, 2007, RUSS J GENET+, V43, P387, DOI 10.1134/S1022795407040060
+   Potter KM, 2008, NEW FOREST, V35, P131, DOI 10.1007/s11056-007-9067-2
+   Premoli AC, 2003, J HERED, V94, P218, DOI 10.1093/jhered/esg052
+   Provan J, 2008, CONSERV GENET, V9, P1521, DOI 10.1007/s10592-007-9484-y
+   Pye MG, 2004, CONSERV GENET, V5, P619, DOI 10.1007/s10592-003-1857-2
+   Pyhajarvi T, 2008, TREE GENET GENOMES, V4, P247, DOI 10.1007/s11295-007-0105-1
+   Quiroga MP, 2007, J BIOGEOGR, V34, P447, DOI 10.1111/j.1365-2699.2006.01613.x
+   Rajora OP, 2000, MOL ECOL, V9, P339, DOI 10.1046/j.1365-294x.2000.00886.x
+   Rajora OP, 2001, EUPHYTICA, V118, P197, DOI 10.1023/A:1004150525384
+   Ramos ACS, 2007, ANN BOT-LONDON, V100, P1219, DOI 10.1093/aob/mcm221
+   Ran JH, 2006, MOL PHYLOGENET EVOL, V41, P405, DOI 10.1016/j.ympev.2006.05.039
+   Rasmussen KK, 2008, CONSERV GENET, V9, P1533, DOI 10.1007/s10592-007-9492-y
+   Raspe O, 2000, MOL ECOL, V9, P1113, DOI 10.1046/j.1365-294x.2000.00977.x
+   Rathbone DA, 2007, AUST J BOT, V55, P513, DOI 10.1071/BT06203
+   Rehfeldt GE, 2002, GLOBAL CHANGE BIOL, V8, P912, DOI 10.1046/j.1365-2486.2002.00516.x
+   Reich PB, 2008, ECOL LETT, V11, P588, DOI 10.1111/j.1461-0248.2008.01172.x
+   Reis AMM, 2004, GENET RESOUR CROP EV, V51, P529, DOI 10.1023/B:GRES.0000024159.48644.e6
+   Rendell S, 2003, MOL ECOL, V12, P2681, DOI 10.1046/j.1365-294X.2003.01934.x
+   Reusch TBH, 2007, MOL ECOL, V16, P3973, DOI 10.1111/j.1365-294X.2007.03454.x
+   Ribeiro RA, 2005, ANN BOT-LONDON, V95, P1171, DOI 10.1093/aob/mci128
+   Richardson BA, 2008, PHYTOPATHOLOGY, V98, P413, DOI 10.1094/PHYTO-98-4-0413
+   Riddle BR, 2008, PROG PHYS GEOG, V32, P173, DOI 10.1177/0309133308093822
+   Ritland K, 2005, CAN J BOT, V83, P1478, DOI 10.1139/b05-114
+   Rivera-Ocasio E, 2006, CONSERV GENET, V7, P251, DOI 10.1007/s10592-005-9022-8
+   Robertson A, 2004, HEREDITY, V93, P487, DOI 10.1038/sj.hdy.6800528
+   Robledo-Arnuncio JJ, 2005, J BIOGEOGR, V32, P595, DOI 10.1111/j.1365-2699.2004.01196.x
+   Rodrigues ASL, 2007, ANNU REV ECOL EVOL S, V38, P713, DOI 10.1146/annurev.ecolsys.38.091206.095737
+   Rogers DL, 2006, BIODIVERS CONSERV, V15, P779, DOI 10.1007/s10531-004-1066-4
+   Rogers DL, 2000, CAN J BOT, V78, P1408, DOI 10.1139/cjb-78-11-1408
+   Rosen MA, 1997, INT J ENERG RES, V21, P643, DOI 10.1002/(SICI)1099-114X(19970610)21:7<643::AID-ER284>3.0.CO;2-I
+   Rossetto M, 2008, TELOPEA, V12, P47
+   Rowden A, 2004, CONSERV GENET, V5, P475, DOI 10.1023/B:COGE.0000041028.02423.c0
+   Ruedinger MCD, 2008, CAN J FOREST RES, V38, P1199, DOI 10.1139/X07-215
+   Ruiz E, 2007, TAXON, V56, P1221, DOI 10.2307/25065913
+   Sander T, 2000, MOL ECOL, V9, P1349, DOI 10.1046/j.1365-294x.2000.01014.x
+   Savolainen O, 2007, ANNU REV ECOL EVOL S, V38, P595, DOI 10.1146/annurev.ecolsys.38.091206.095646
+   Schaberg PG, 2008, FOREST ECOL MANAG, V256, P855, DOI 10.1016/j.foreco.2008.06.038
+   Scherer-Lorenzen M, 2007, PERSPECT PLANT ECOL, V9, P53, DOI 10.1016/j.ppees.2007.08.002
+   Schiller G, 2004, ISR J PLANT SCI, V52, P315, DOI 10.1560/XMP3-XK58-XY9R-6E2W
+   Schiller G, 2003, ISRAEL J PLANT SCI, V51, P1, DOI 10.1560/4G87-1U7A-9D7V-HDH0
+   Schiller G, 2006, ISR J PLANT SCI, V54, P137, DOI 10.1560/IJPS_54_2_137
+   SCHNABEL A, 1990, SYST BOT, V15, P240, DOI 10.2307/2419179
+   Scotti I, 2000, MOL ECOL, V9, P699, DOI 10.1046/j.1365-294x.2000.00911.x
+   Sebbenn AM, 2008, FOREST ECOL MANAG, V254, P335, DOI 10.1016/j.foreco.2007.08.009
+   Semaan MT, 2008, TREE GENET GENOMES, V4, P757, DOI 10.1007/s11295-008-0148-y
+   Semerikov VL, 2007, RUSS J ECOL+, V38, P147, DOI 10.1134/S1067413607030010
+   Semerikov VL, 2003, AM J BOT, V90, P1113, DOI 10.3732/ajb.90.8.1113
+   Setsuko S, 2007, AM J BOT, V94, P128, DOI 10.3732/ajb.94.1.128
+   Shachak M, 2008, BIOSCIENCE, V58, P209, DOI 10.1641/B580307
+   Shanjani PS, 2004, SILVAE GENET, V53, P193, DOI 10.1515/sg-2004-0035
+   Shapcott A, 1998, J TROP ECOL, V14, P595, DOI 10.1017/S026646749800042X
+   Shapcott A, 2007, BOT J LINN SOC, V154, P589, DOI 10.1111/j.1095-8339.2007.00676.x
+   Shen L, 2005, HEREDITY, V94, P396, DOI 10.1038/sj.hdy.6800616
+   Shih FL, 2006, INT J PLANT SCI, V167, P863, DOI 10.1086/504923
+   Silva MB, 2008, FOREST ECOL MANAG, V255, P1548, DOI 10.1016/j.foreco.2007.11.012
+   Smulders MJM, 2008, FOREST ECOL MANAG, V255, P1388, DOI 10.1016/j.foreco.2007.10.063
+   Sniezko RA, 2006, CAN J PLANT PATHOL, V28, pS270, DOI 10.1080/07060660609507384
+   Soares TN, 2008, GENETICA, V132, P9, DOI 10.1007/s10709-007-9144-7
+   Soltis DE, 2006, MOL ECOL, V15, P4261, DOI 10.1111/j.1365-294X.2006.03061.x
+   Soranzo N, 2000, MOL ECOL, V9, P1205, DOI 10.1046/j.1365-294x.2000.00994.x
+   Sork VL, 2006, LANDSCAPE ECOL, V21, P821, DOI 10.1007/s10980-005-5415-9
+   Spinnler D, 2003, BASIC APPL ECOL, V4, P467, DOI 10.1078/1439-1791-00175
+   St Clair JB, 2005, ANN BOT-LONDON, V96, P1199, DOI 10.1093/aob/mci278
+   STARKE R, 1993, ALLG FORST JAGDZTG, V164, P181
+   Stecconi M, 2004, ANN BOT-LONDON, V94, P775, DOI 10.1093/aob/mch205
+   STEINHOFF RJ, 1983, CAN J FOREST RES, V13, P1122, DOI 10.1139/x83-150
+   Stewart JR, 2001, TRENDS ECOL EVOL, V16, P608, DOI 10.1016/S0169-5347(01)02338-2
+   Strong WL, 2005, J BIOGEOGR, V32, P1043, DOI 10.1111/j.1365-2699.2004.01223.x
+   Su GH, 2007, MAR BIOL, V150, P321, DOI 10.1007/s00227-006-0357-6
+   Sun K, 2006, BIOCHEM GENET, V44, P186, DOI 10.1007/s10528-006-9025-2
+   Sun WB, 2006, BIODIVERS CONSERV, V15, P1303, DOI 10.1007/s10531-005-3873-7
+   Suvanto LI, 2005, MOL ECOL, V14, P2851, DOI 10.1111/j.1365-294X.2005.02634.x
+   Svenning JC, 2007, ECOL LETT, V10, P453, DOI 10.1111/j.1461-0248.2007.01038.x
+   Svenning JC, 2007, GLOBAL ECOL BIOGEOGR, V16, P234, DOI 10.1111/j.1466-822x.2006.00280.x
+   Taberlet P, 1998, MOL ECOL, V7, P453, DOI 10.1046/j.1365-294x.1998.00289.x
+   Takahashi T, 2008, FOREST ECOL MANAG, V255, P2820, DOI 10.1016/j.foreco.2008.01.055
+   Tang SQ, 2008, GENETICA, V133, P21, DOI 10.1007/s10709-007-9178-x
+   TAYLOR GE, 1994, J ENVIRON QUAL, V23, P63, DOI 10.2134/jeq1994.00472425002300010011x
+   Taylor KJ, 2005, AUST J BOT, V53, P437, DOI 10.1071/BT04215
+   Terrab A, 2006, AM J BOT, V93, P1274, DOI 10.3732/ajb.93.9.1274
+   Thomas DT, 2008, INT J PLANT SCI, V169, P647, DOI 10.1086/533605
+   Tollefsrud MM, 2008, MOL ECOL, V17, P4134, DOI 10.1111/j.1365-294X.2008.03893.x
+   Tomback DF, 2007, PHYS GEOGR, V28, P397, DOI 10.2747/0272-3646.28.5.397
+   Torres-Diaz C, 2007, ANN BOT-LONDON, V100, P75, DOI 10.1093/aob/mcm073
+   Tovar-Sanchez E, 2008, BOTANY, V86, P228, DOI 10.1139/B07-128
+   Tripiana V, 2007, CAN J FOREST RES, V37, P773, DOI 10.1139/X06-260
+   Troupin D, 2006, MOL ECOL, V15, P3617, DOI 10.1111/j.1365-294X.2006.03047.x
+   Truong C, 2007, J EVOLUTION BIOL, V20, P369, DOI 10.1111/j.1420-9101.2006.01190.x
+   Tsuda Y, 2005, MOL ECOL, V14, P3929, DOI 10.1111/j.1365-294X.2005.02715.x
+   Tsumura Y, 2007, HEREDITY, V99, P161, DOI [10.1038/sj.hdy.6800978, 10.1038/sj.dhy.6800978]
+   Ueno S, 2005, CONSERV GENET, V6, P563, DOI 10.1007/s10592-005-9011-y
+   Vakkari P, 2006, GENETICA, V127, P231, DOI 10.1007/s10709-005-4014-7
+   Valbuena-Carabana M, 2008, FOREST ECOL MANAG, V254, P225, DOI 10.1016/j.foreco.2007.08.001
+   van Loo M, 2008, NEW PHYTOL, V177, P506, DOI 10.1111/j.1469-8137.2007.02266.x
+   Varga Z, 2008, MOL ECOL, V17, P2101, DOI 10.1111/j.1365-294X.2008.03744.x
+   Vaughan SP, 2007, FOREST ECOL MANAG, V242, P419, DOI 10.1016/j.foreco.2007.01.059
+   Vaxevanidou Z, 2006, BIOL CONSERV, V129, P451, DOI 10.1016/j.biocon.2005.11.012
+   Vellend M, 2005, AM NAT, V166, P199, DOI 10.1086/431318
+   Vellend M, 2005, ECOL LETT, V8, P767, DOI 10.1111/j.1461-0248.2005.00775.x
+   Vendramin GG, 2000, GENOME, V43, P68, DOI 10.1139/gen-43-1-68
+   Vendramin GG, 2008, EVOLUTION, V62, P680, DOI 10.1111/j.1558-5646.2007.00294.x
+   Victory ER, 2006, AM J BOT, V93, P118, DOI 10.3732/ajb.93.1.118
+   Vieira FD, 2008, BIODIVERS CONSERV, V17, P2305, DOI 10.1007/s10531-008-9367-7
+   Voigt FA, 2009, J BIOGEOGR, V36, P242, DOI 10.1111/j.1365-2699.2008.02002.x
+   Wachowiak W, 2008, PLANT SYST EVOL, V271, P29, DOI 10.1007/s00606-007-0609-z
+   Wachowiak W, 2005, FLORA, V200, P563, DOI 10.1016/j.flora.2005.06.007
+   Wachowiak W, 2006, FLORA, V201, P307, DOI 10.1016/j.flora.2005.08.004
+   Wang HW, 2006, MOL ECOL, V15, P4109, DOI 10.1111/j.1365-294X.2006.03086.x
+   Wang XR, 2003, INT J PLANT SCI, V164, P711, DOI 10.1086/376811
+   Wang XR, 2001, SCAND J FOREST RES, V16, P199, DOI 10.1080/028275801750285857
+   Wang YH, 2005, PLANT SCI, V168, P707, DOI 10.1016/j.plantsci.2004.10.002
+   Wehenkel C, 2007, SILVAE GENET, V56, P101, DOI 10.1515/sg-2007-0016
+   Wehenkel C, 2006, PLANT ECOL, V185, P151, DOI 10.1007/s11258-005-9091-2
+   White GM, 1999, MOL ECOL, V8, P1899, DOI 10.1046/j.1365-294x.1999.00790.x
+   Whitham TG, 2008, SCIENCE, V320, P492, DOI 10.1126/science.1153918
+   Williams DA, 2007, BIOL CONSERV, V138, P256, DOI 10.1016/j.biocon.2007.04.024
+   Williams JH, 2001, HEREDITY, V87, P680, DOI 10.1046/j.1365-2540.2001.00968.x
+   Wisdom MJ, 2008, FOREST ECOL MANAG, V255, P2085, DOI 10.1016/j.foreco.2007.12.027
+   Woo LS, 2008, ANN FOREST SCI, V65, DOI 10.1051/forest:2008006
+   Wright JP, 2006, BIOSCIENCE, V56, P203, DOI 10.1641/0006-3568(2006)056[0203:TCOOAE]2.0.CO;2
+   Xia T, 2008, SILVAE GENET, V57, P85, DOI 10.1515/sg-2008-0014
+   Xu SQ, 2008, TREE GENET GENOMES, V4, P859, DOI 10.1007/s11295-008-0158-9
+   Yaacobi G, 2007, P ROY SOC B-BIOL SCI, V274, P2409, DOI 10.1098/rspb.2007.0674
+   Yamada H, 2006, J PLANT RES, V119, P69, DOI 10.1007/s10265-005-0242-2
+   YANG RC, 1992, FOREST CHRON, V68, P720, DOI 10.5558/tfc68720-6
+   Yao XH, 2007, NEW PHYTOL, V176, P472, DOI 10.1111/j.1469-8137.2007.02175.x
+   YING W, 2007, FRONT BIOL CHINA, V2, P187
+   ZANETTO A, 1995, HEREDITY, V75, P506, DOI 10.1038/hdy.1995.167
+   Zelener N, 2005, TREE PHYSIOL, V25, P1457, DOI 10.1093/treephys/25.11.1457
+   Zeng J, 2003, EUPHYTICA, V134, P33, DOI 10.1023/A:1026113506563
+   Zhang XJ, 2006, SILVA FENN, V40, P407, DOI 10.14214/sf.326
+   Zhang ZY, 2005, BIOCHEM GENET, V43, P239, DOI 10.1007/s10528-005-5215-6
+   Zheng JW, 2005, J INTEGR PLANT BIOL, V47, P1184, DOI 10.1111/j.1744-7909.2005.00143.x
+   Zhou JZ, 2008, P NATL ACAD SCI USA, V105, P7768, DOI 10.1073/pnas.0709016105
+   Ziegenhagen B, 2008, CONSERV GENET, V9, P373, DOI 10.1007/s10592-007-9349-4
+NR 489
+TC 60
+Z9 62
+U1 8
+U2 130
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 1433-8319
+J9 PERSPECT PLANT ECOL
+JI Perspect. Plant Ecol. Evol. Syst.
+PY 2009
+VL 11
+IS 3
+BP 157
+EP 189
+DI 10.1016/j.ppees.2009.01.003
+PG 33
+WC Plant Sciences; Ecology
+SC Plant Sciences; Environmental Sciences & Ecology
+GA 486HF
+UT WOS:000269186200001
+DA 2019-03-26
+ER
+
+PT B
+AU Daka, ER
+   Moslen, M
+   Ekeh, CA
+AF Daka, Erema R.
+   Moslen, Miebaka
+   Ekeh, Calista A.
+BE Li, SC
+   Wang, YJ
+   Cao, FX
+   Huang, P
+   Zhang, Y
+TI Assessing the Impact of Urban/Industrial Activities on Benthic
+   Communities of Two Creeks of the Upper Bonny Estuary, Niger Delta Using
+   Univariate and Multivariate Techniques
+SO PROGRESS IN ENVIRONMENTAL SCIENCE AND TECHNOLOGY, VOL II, PTS A AND B
+LA English
+DT Proceedings Paper
+CT International Symposium on Environmental Science and Technology
+CY JUN 02-05, 2009
+CL Shanghai, PEOPLES R CHINA
+SP Chinese Soc Environm Sci, Beijing Inst Technol, Donghua Univ, Key Lab Explos Sci & Technol
+DE benthos; polychaetes; pollution; Bonny Estuary; cluster analysis;
+   diversity indices
+ID SEDIMENT; POLLUTION
+AB Two creeks in the upper Bonny Estuary on Southern Nigeria, were studied. The Azuabie creek receives drainage inputs from an industrial layout and other coastal sources, while the Obufe creek runs parallel to earlier with less anthropogenic influence. The objective of this study is to assess to the impacts of urban/industrial activities on the macrofaunal benthos. Eight sites were sampled for faunal identification and enumeration. Analysis of Variance (ANOVA) tests were performed on univariate faunal indices (Shannon-Weiner, Margalef, Simpson's and Pielou) as well as individual genera. Polychaetes were found to have the highest numerical abundance, with Streblospio having the highest densities at Stn AB and AA (waste dump and abattoir areas) in Azuabie creek. Nephtys sp, Nereis sp, Lumbrinereis sp and Notomastus sp were found to be numerically high at Stns OA, OB, OC, OD and AD than AC, AB and AA. Cluster analysis and Multidimensional Scaling (MDS) ordination based on Bray-Curtis similarities of fauna discriminated the sites into two broad groups. The three polluted sites in Azuabie creek clustered together, while the less contaminated site in that creek formed one cluster with the four sites in Obufe creek. Both univariate and multivariate statistical tests led to comparable inferences.
+C1 [Daka, Erema R.; Moslen, Miebaka; Ekeh, Calista A.] Rivers State Univ Sci & Technol, Dept Appl & Environm Biol, Port Harcourt, Nigeria.
+RP Daka, ER (reprint author), Rivers State Univ Sci & Technol, Dept Appl & Environm Biol, PMB 5080, Port Harcourt, Nigeria.
+EM eremadaka@yahoo.com
+CR BAYNE BL, 1988, MAR ECOL PROG SER, V46, P278
+   Belan TA, 2003, MAR POLLUT BULL, V46, P1111, DOI 10.1016/S0025-326X(03)00242-X
+   BELAN TA, 2003, MAR ENVIRON RES, V57, P89
+   CANFIELD TJ, 1994, ENVIRON TOXICOL CHEM, V13, P1999, DOI 10.1897/1552-8618(1994)13[1999:UOBICS]2.0.CO;2
+   Clark R B., 1997, MARINE POLLUTION
+   Cruz-Motta JJ, 2004, MAR POLLUT BULL, V48, P270, DOI 10.1016/j.marpolbul.2003.08.002
+   Daka ER, 2007, B ENVIRON CONTAM TOX, V78, P515, DOI 10.1007/s00128-007-9151-5
+   Day J.W., 1989, ESTUARINE ECOLOGY
+   DAY JH, 1967, MONOGRAPH POLYCHATES
+   EBERE N, 2002, THESIS RIVERS STATE
+   FAUCHALD K, 1977, POLYCHAETE WORMS DEF
+   Giberto DA, 2004, ESTUAR COAST SHELF S, V61, P1, DOI 10.1016/j.ecss.2004.03.015
+   IKOMAH FB, 2005, AFRICAN J ENV POLLUT, V4, P62
+   Pearson T.H., 1978, Oceanography and Marine Biology an Annual Review, V16, P229
+   RYGG B, 1985, MAR ECOL PROG SER, V25, P83, DOI 10.3354/meps025083
+   SNOWDEN RJ, 1990, MAR BIOL, V105, P51, DOI 10.1007/BF01344270
+   *UNEP, 1995, UNEPIOCFAOIMOIAEA PU, V64
+   *UNESCO, 1986, IOC WORKSH BIOL EFF
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SCIENCE PRESS BEIJING
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100707, PEOPLES R CHINA
+BN 978-7-03-024459-8
+PY 2009
+BP 607
+EP 612
+PG 6
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA BLX18
+UT WOS:000271258000107
+DA 2019-03-26
+ER

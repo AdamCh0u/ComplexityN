@@ -1,0 +1,547 @@
+
+PT J
+AU Zhu, Y
+   Chan, KL
+   Lam, YF
+   Horbanski, M
+   Pohler, D
+   Boll, J
+   Lipkowitsch, I
+   Ye, S
+   Wenig, M
+AF Zhu, Ying
+   Chan, Ka Lok
+   Lam, Yun Fat
+   Horbanski, Martin
+   Poehler, Denis
+   Boll, Johannes
+   Lipkowitsch, Ivo
+   Ye, Sheng
+   Wenig, Mark
+TI Analysis of spatial and temporal patterns of on-road NO2 concentrations
+   in Hong Kong
+SO ATMOSPHERIC MEASUREMENT TECHNIQUES
+LA English
+DT Article
+ID ENHANCED ABSORPTION SPECTROMETER; NITROGEN-DIOXIDE; SECONDARY AEROSOL;
+   EXHAUST PLUME; AIR-POLLUTION; CE-DOAS; EMISSIONS; GLYOXAL; SIMULATIONS;
+   RETRIEVAL
+AB In this paper we present an investigation of the spatial and temporal variability of street-level concentrations of NO2 in Hong Kong as an example of a densely populated megacity with heavy traffic. For the study we use a combination of open-path remote sensing and in situ measurement techniques that allows us to separate temporal changes and spatial patterns and analyse them separately. Two measurement campaigns have been conducted, one in December 2010 and one in March 2017. Each campaign lasted for a week which allowed us to examine diurnal cycles, weekly patterns as well as spatially resolved long-term changes. We combined a long-path differential optical absorption spectroscopy (DOAS) instrument with a cavity-enhanced DOAS and applied several normalizations to the data sets in order to make the different measurement routes comparable. For the analysis of long-term changes we used the entire unfiltered data set and for the comparison of spatial patterns we filtered out the accumulation of NO2 when stopping at traffic lights for focusing on the changes of NO2 spatial distribution instead of comparing traffic flow patterns. For the generation of composite maps the diurnal cycle has been normalized by scaling the mobile data with coinciding citywide path-averaged measurement results. An overall descending trend from 2010 to 2017 could be observed, consistent with the observations of the Ozone Monitoring Instrument (OMI) and the Environment Protection Department (EPD) air quality monitoring network data. However, long-term difference maps show pronounced spatial structures with some areas, e.g. around subway stations, revealing an increasing trend. We could also show that the weekend effect, which for the most part of Hong Kong shows reduced NO2 concentrations on Sundays and to a lesser degree on Saturdays, is reversed around shopping malls. Our study shows that spatial differences have to be considered when discussing citywide trends and can be used to put local point measurements into perspective. The resulting data set provides a better insight into on-road NO2 characteristics in Hong Kong, which helps to identify heavily polluted areas and represents a useful database for urban planning and the design of pollution control measures.
+C1 [Zhu, Ying; Chan, Ka Lok; Boll, Johannes; Lipkowitsch, Ivo; Ye, Sheng; Wenig, Mark] Ludwig Maximilians Univ Munchen, Meteorol Inst, Munich, Germany.
+   [Chan, Ka Lok] German Aerosp Ctr DLR, Remote Sensing Technol Inst, Oberpfaffenhofen, Germany.
+   [Lam, Yun Fat] City Univ Hong Kong, Sch Energy & Environm, Hong Kong, Peoples R China.
+   [Lam, Yun Fat] City Univ Hong Kong, Guy Carpenter Climate Change Ctr, Hong Kong, Peoples R China.
+   [Horbanski, Martin; Poehler, Denis] Heidelberg Univ, Inst Environm Phys, Heidelberg, Germany.
+RP Chan, KL (reprint author), Ludwig Maximilians Univ Munchen, Meteorol Inst, Munich, Germany.; Chan, KL (reprint author), German Aerosp Ctr DLR, Remote Sensing Technol Inst, Oberpfaffenhofen, Germany.
+EM lok.chan@lmu.de
+OI LAM, Yun Fat Nicky/0000-0002-5917-0907; Horbanski,
+   Martin/0000-0001-7451-7019
+FU German Academic Exchange Service (DAAD) Programme des Projektbezogenen
+   Personenaustauschs (PPP) [57334317]; Germany/Hong Kong Joint Research
+   Scheme - Research Grants Council of Hong Kong [G-CityU104/16]; German
+   Academic Exchange Service [G-CityU104/16]; Research Grants Council of
+   the Hong Kong Special Administrative Region, China [CityU 11305817]
+FX The work described in this paper was jointly supported by the German
+   Academic Exchange Service (DAAD) Programme des Projektbezogenen
+   Personenaustauschs (PPP) (project ID: 57334317), the Germany/Hong Kong
+   Joint Research Scheme sponsored by the Research Grants Council of Hong
+   Kong and the German Academic Exchange Service (reference no.
+   G-CityU104/16), and the Research Grants Council of the Hong Kong Special
+   Administrative Region, China (project no. CityU 11305817). We thank
+   Annette Schutt, Teng Fei, Song Hao, Willy Ying for helping with the
+   organization of the measurement campaign.
+CR Bond DW, 2001, J GEOPHYS RES-ATMOS, V106, P27701, DOI 10.1029/2000JD000191
+   Bucsela EJ, 2013, ATMOS MEAS TECH, V6, P2607, DOI 10.5194/amt-6-2607-2013
+   Carslaw DC, 2005, ATMOS ENVIRON, V39, P4793, DOI 10.1016/j.atmosenv.2005.06.023
+   Chan KL, 2018, SCI TOTAL ENVIRON, V619, P1545, DOI 10.1016/j.scitotenv.2017.10.153
+   Chan KL, 2012, ATMOS MEAS TECH, V5, P901, DOI 10.5194/amt-5-901-2012
+   Chan KL, 2017, SCI TOTAL ENVIRON, V580, P974, DOI 10.1016/j.scitotenv.2016.12.052
+   Chang YH, 2016, ATMOS CHEM PHYS, V16, P3577, DOI 10.5194/acp-16-3577-2016
+   Dallmann TR, 2011, ENVIRON SCI TECHNOL, V45, P10773, DOI 10.1021/es202609q
+   Fiedler SE, 2003, CHEM PHYS LETT, V371, P284, DOI 10.1016/S0009-2614(03)00263-X
+   Franco V., 2014, REAL WORLD EXHAUST E
+   Fu XW, 2017, ATMOS ENVIRON, V165, P111, DOI 10.1016/j.atmosenv.2017.06.031
+   Hermans C, 1999, ENVIRON SCI POLLUT R, V6, P151, DOI 10.1007/BF02987620
+   Huang RJ, 2014, NATURE, V514, P218, DOI 10.1038/nature13774
+   Jang MS, 2001, ENVIRON SCI TECHNOL, V35, P3626, DOI 10.1021/es010676+
+   Kaspar J, 2003, CATAL TODAY, V77, P419, DOI 10.1016/S0920-5861(02)00384-X
+   Kaur S, 2007, ATMOS ENVIRON, V41, P4781, DOI 10.1016/j.atmosenv.2007.02.002
+   Keuken M, 2009, ATMOS ENVIRON, V43, P4780, DOI 10.1016/j.atmosenv.2008.07.G43
+   Kraus S., 2005, THESIS
+   Krotkov NA, 2017, ATMOS MEAS TECH, V10, P3133, DOI 10.5194/amt-10-3133-2017
+   Kuhlmann G, 2015, ATMOS CHEM PHYS, V15, P5627, DOI 10.5194/acp-15-5627-2015
+   Langridge JM, 2006, ANALYST, V131, P916, DOI 10.1039/b605636a
+   Lau CF, 2015, ATMOS ENVIRON, V122, P171, DOI 10.1016/j.atmosenv.2015.09.048
+   Levelt PF, 2006, IEEE T GEOSCI REMOTE, V44, P1093, DOI 10.1109/TGRS.2006.872333
+   Liu H, 2012, ENVIRON SCI TECHNOL, V46, P5660, DOI 10.1021/es301778b
+   Longley I, 2015, AIR QUAL ATMOS HLTH, V8, P591, DOI 10.1007/s11869-014-0305-4
+   Marchenko S, 2015, J GEOPHYS RES-ATMOS, V120, P5670, DOI 10.1002/2014JD022913
+   Min KE, 2016, ATMOS MEAS TECH, V9, P423, DOI 10.5194/amt-9-423-2016
+   Mock P., 2014, EUROPEAN VEHICLE MAR
+   Muilwijk C, 2016, ATMOS ENVIRON, V147, P470, DOI 10.1016/j.atmosenv.2016.10.022
+   Ning Z, 2012, ATMOS ENVIRON, V61, P265, DOI 10.1016/j.atmosenv.2012.07.047
+   Pastorello C., 2016, TECH REP
+   Platt U, 2009, ATMOS MEAS TECH, V2, P713, DOI 10.5194/amt-2-713-2009
+   Rakowska A, 2014, ATMOS ENVIRON, V98, P260, DOI 10.1016/j.atmosenv.2014.08.073
+   Rothman LS, 2003, J QUANT SPECTROSC RA, V82, P5, DOI 10.1016/S0022-4073(03)00146-8
+   Rotman DA, 2001, J GEOPHYS RES-ATMOS, V106, P1669, DOI 10.1029/2000JD900463
+   SOLOMON S, 1987, J GEOPHYS RES-ATMOS, V92, P8311, DOI 10.1029/JD092iD07p08311
+   Thalman R, 2010, ATMOS MEAS TECH, V3, P1797, DOI 10.5194/amt-3-1797-2010
+   Tian LW, 2011, ENVIRON GEOCHEM HLTH, V33, P623, DOI 10.1007/s10653-011-9375-5
+   Uhrner U, 2007, ATMOS ENVIRON, V41, P7440, DOI 10.1016/j.atmosenv.2007.05.057
+   Vandaele AC, 2002, J GEOPHYS RES-ATMOS, V107, DOI 10.1029/2001JD000971
+   Venables DS, 2006, ENVIRON SCI TECHNOL, V40, P6758, DOI 10.1021/es061076j
+   Vogt R, 2003, ENVIRON SCI TECHNOL, V37, P4070, DOI 10.1021/es0300315
+   Volkamer R, 2005, J PHOTOCH PHOTOBIO A, V172, P35, DOI 10.1016/j.jphotochem.2004.11.011
+   Washenfelder RA, 2008, ATMOS CHEM PHYS, V8, P7779, DOI 10.5194/acp-8-7779-2008
+   Westerdahl D, 2005, ATMOS ENVIRON, V39, P3597, DOI 10.1016/j.atmosenv.2005.02.034
+   Zhang RY, 2003, P NATL ACAD SCI USA, V100, P1505, DOI 10.1073/pnas.252763799
+NR 46
+TC 0
+Z9 0
+U1 3
+U2 3
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1867-1381
+EI 1867-8548
+J9 ATMOS MEAS TECH
+JI Atmos. Meas. Tech.
+PD DEC 19
+PY 2018
+VL 11
+IS 12
+BP 6719
+EP 6734
+DI 10.5194/amt-11-6719-2018
+PG 16
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA HE9BX
+UT WOS:000453742800001
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Boeing, G
+AF Boeing, Geoff
+TI Measuring the complexity of urban form and design
+SO URBAN DESIGN INTERNATIONAL
+LA English
+DT Article
+DE City planning; Complexity theory; Fractals; Resilience; Street network;
+   Urban form
+ID FRACTAL DIMENSION; SPACE SYNTAX; CENTRALITY; CONNECTIVITY; DIVERSITY;
+   FRAMEWORK; DENSITY; QUALITY; SYSTEMS; GROWTH
+AB Complex systems have become a popular lens for analyzing cities, and complexity theory has many implications for urban performance and resilience. This paper develops a typology of measures and indicators for assessing the physical complexity of the built environment at the scale of urban design. It extends quantitative measures from city planning, network science, ecosystems studies, fractal geometry, statistical physics, and information theory to the analysis of urban form and qualitative human experience. Metrics at multiple scales are scattered throughout diverse bodies of literature and have useful applications in analyzing the adaptive complexity that both evolves and results from local design processes. In turn, they enable urban designers to assess resilience, adaptability, connectedness, and livability with an advanced toolkit. The typology developed here applies to empirical research of various neighborhood types and design standards. It includes temporal, visual, spatial, scaling, and connectivity measures of the urban form. Today, prominent urban design movements openly embrace complexity but must move beyond metaphor and inspiration to formalize what "complexity" is and how we can use it to assess both the world as-is as well as proposals for how it could be instead.
+C1 [Boeing, Geoff] Northeastern Univ, Sch Publ Policy & Urban Affairs, 360 Huntington Ave,360Y Renaissance Pk, Boston, MA 02115 USA.
+RP Boeing, G (reprint author), Northeastern Univ, Sch Publ Policy & Urban Affairs, 360 Huntington Ave,360Y Renaissance Pk, Boston, MA 02115 USA.
+EM g.boeing@northeastern.edu
+RI Boeing, Geoff/O-9769-2016
+OI Boeing, Geoff/0000-0003-1851-6411
+CR Alexander C, 2003, KATARXIS, V3, P1
+   Appleton J., 1975, EXPERIENCE LANDSCAPE
+   Barabasi AL, 2007, IEEE CONTR SYST MAG, V27, P33, DOI 10.1109/MCS.2007.384127
+   Barnett J., 2011, CITY DESIGN
+   Barthelemy M, 2004, EUR PHYS J B, V38, P163, DOI 10.1140/epjb/e2004-00111-4
+   Barthelemy M, 2013, SCI REP-UK, V3, DOI 10.1038/srep02153
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M, 2005, CITIES COMPLEXITY
+   Batty M, 2017, LANDSCAPE URBAN PLAN, V166, P4, DOI 10.1016/j.landurbplan.2016.06.002
+   Beineke LW, 2002, DISCRETE MATH, V252, P31, DOI 10.1016/S0012-365X(01)00180-7
+   Bettencourt L., 2014, DECODING THE CITY
+   Biddulph M, 2012, J URBAN DES, V17, P1, DOI 10.1080/13574809.2011.646251
+   Boarnet M. G, 2001, TRAVEL BY DESIGN
+   Boeing G, 2018, ENVIRON PLANN B, DOI [10.1177/2399808318784595, DOI 10.1177/2399808318784595]
+   Boeing G, 2018, ARXIV180800600
+   Boeing G, 2017, COMPUT ENVIRON URBAN, V65, P126, DOI 10.1016/j.compenvurbsys.2017.05.004
+   Boeing G, 2016, SYSTEMS, V4, DOI 10.3390/systems4040037
+   Bordoloi R, 2013, PROCD SOC BEHV, V104, P563, DOI 10.1016/j.sbspro.2013.11.150
+   Bourdic L, 2012, BUILD RES INF, V40, P518, DOI 10.1080/09613218.2012.690951
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Byrne D., 2003, PLANNING THEORY, V2, P171, DOI DOI 10.1177/147309520323002
+   Carlson C, 2012, J URBAN HEALTH, V89, P270, DOI 10.1007/s11524-011-9652-8
+   Cavalcante A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087097
+   Cervero R, 1997, TRANSPORT RES D-TR E, V2, P199, DOI 10.1016/S1361-9209(97)00009-6
+   Chettiparamb A., 2006, PLANNING THEORY, V5, P71, DOI DOI 10.1177/1473095206061022
+   Clifton K., 2008, J URBAN, V1, P17, DOI [10.1080/17549170801903496, DOI 10.1080/17549170801903496]
+   Congress for the New Urbanism, 2015, NEW URB EMBR COMPL
+   Cooper J, 2013, ENVIRON PLANN B, V40, P43, DOI 10.1068/b38010
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   Cuthbert A.R., 2007, URBAN DES INT, V12, P177, DOI DOI 10.1057/PALGRAVE.UDI.9000200
+   de Roo G., 2010, PLANNERS ENCOUNTER C, P19
+   Dovey K, 2016, URBAN DES INT, V21, P1, DOI 10.1057/udi.2015.28
+   Duany A., 2001, THE LEXICON OF NEW U
+   Dumbaugh E, 2011, J AM PLANN ASSOC, V77, P69, DOI 10.1080/01944363.2011.536101
+   Elsheshtawy Y, 1997, J ARCHIT PLAN RES, V14, P301
+   Ewing R, 2013, METR PLANN DES, P1, DOI 10.5822/978-1-61091-209-9
+   Ewing R, 2010, J AM PLANN ASSOC, V76, P265, DOI 10.1080/01944361003766766
+   Ewing R, 2009, J URBAN DES, V14, P65, DOI 10.1080/13574800802451155
+   Fishman R, 2011, ROUTL COMPANIONS, P30
+   Fukahori K., 2015, URBAN STUD RES, V2015, P1, DOI [10.1155/2015/173862, DOI 10.1155/2015/173862]
+   Gershenson C, 2012, COMPLEXITY, V18, P29, DOI 10.1002/cplx.21424
+   Gibson J. J., 1979, ECOLOGICAL APPROACH
+   Glaeser E, 2011, TRIUMPH CITY
+   Goldstein J., 1999, EMERGENCE, V1, P49, DOI DOI 10.1207/S15327000EM0101_4
+   HAGE P, 1995, SOC NETWORKS, V17, P57, DOI 10.1016/0378-8733(94)00248-9
+   Hall P, 1996, CITIES TOMORROW
+   Hayek UW, 2015, LANDSCAPE URBAN PLAN, V142, P47, DOI 10.1016/j.landurbplan.2015.05.010
+   Hillier B, 1976, ENVIRON PLANN B, V3, P147, DOI DOI 10.1068/B030147
+   Holston J., 1989, THE MODERNIST CITY
+   Innes J. E., 2010, PLANNING COMPLEXITY
+   Innes J E, 2000, PLANNING THEORY PRAC, V1, P173, DOI DOI 10.1080/14649350020008378
+   Innes JE, 1999, J AM PLANN ASSOC, V65, P412, DOI 10.1080/01944369908976071
+   JACOBS A, 1987, J AM PLANN ASSOC, V53, P112, DOI 10.1080/01944368708976642
+   Jacobs A., 1995, GREAT STREETS
+   Jacobs J, 1969, EC CITIES
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2016, PHYSICA A, V463, P475, DOI 10.1016/j.physa.2016.07.038
+   Jiang B, 2014, ANN ASSOC AM GEOGR, V104, P530, DOI 10.1080/00045608.2013.834239
+   Karimi K, 2012, URBAN DES INT, V17, P297, DOI 10.1057/udi.2012.19
+   Knight P. L., 2015, J URBANISM INT RES P, V8, P241, DOI [10.1080/17549175.2014.909515, DOI 10.1080/17549175.2014.909515]
+   Krafta R., 2018, URBAN SCI, V2, P86, DOI [10.3390/urbansci2030086, DOI 10.3390/URBANSCI2030086]
+   Krasny ME, 2014, ECOSYST SERV, V7, P177, DOI 10.1016/j.ecoser.2013.11.002
+   Kuper R, 2017, LANDSCAPE URBAN PLAN, V157, P407, DOI 10.1016/j.landurbplan.2016.09.002
+   Lloyd S, 2001, IEEE CONTR SYST MAG, V21, P7, DOI 10.1109/MCS.2001.939938
+   Macdonald E., 2002, J URBAN DESIGN, V7, P117, DOI DOI 10.1080/1357480022000012203
+   Macdonald E, 2005, J URBAN DES, V10, P13, DOI 10.1080/13574800500062320
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Marshall S., 2011, BUILT ENV, V37, P409
+   Marshall S, 2012, COMPLEXITY THEORIES, P191
+   Marshall S, 2012, URBAN DES INT, V17, P257, DOI 10.1057/udi.2012.22
+   Masucci AP, 2009, EUR PHYS J B, V71, P259, DOI 10.1140/epjb/e2009-00290-4
+   McGreevy M, 2017, PLAN THEOR, V16, P169, DOI 10.1177/1473095216631587
+   Moudon A. V, 1992, J PLAN LIT, V6, P331, DOI DOI 10.1177/088541229200600401
+   Murcio R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0133780
+   O'Sullivan D, 2014, HDB REGIONAL SCI, P1253
+   O'Sullivan D, 2015, ANN ASSOC AM GEOGR, V105, P704, DOI 10.1080/00045608.2015.1039105
+   Ode A, 2010, LANDSCAPE RES, V35, P111, DOI 10.1080/01426390903414935
+   Opsahl T, 2009, SOC NETWORKS, V31, P155, DOI 10.1016/j.socnet.2009.02.002
+   Parrott L, 2010, ECOL INDIC, V10, P1069, DOI 10.1016/j.ecolind.2010.03.014
+   Peter C, 2014, SUSTAINABILITY-BASEL, V6, P1594, DOI 10.3390/su6031594
+   Pettigrew TF, 2006, J PERS SOC PSYCHOL, V90, P751, DOI 10.1037/0022-3514.90.5.751
+   Porta S, 2006, ENVIRON PLANN B, V33, P705, DOI 10.1068/b32045
+   Portugali J, 2006, ENVIRON PLANN A, V38, P647, DOI 10.1068/a37260
+   Proulx R, 2008, ECOL INDIC, V8, P270, DOI 10.1016/j.ecolind.2007.02.005
+   Pugh J, 2014, AREA, V46, P313, DOI 10.1111/area.12118
+   Ratti C, 2004, ENVIRON PLANN B, V31, P487, DOI 10.1068/b3019
+   Rauws W. S., 2012, COMPLEXITY THEORIES, P207
+   Rauws W, 2017, DISP, V53, P32, DOI 10.1080/02513625.2017.1316539
+   Roy A, 2005, J AM PLANN ASSOC, V71, P147, DOI 10.1080/01944360508976689
+   Salat S, 2010, INT J SUSTAINABLE BU, V1, P160, DOI DOI 10.5390/SUSB.2010.1.2.160
+   Sanders I, 2008, NEW URBANISM DESIGNI, P275
+   Schwarz N, 2010, LANDSCAPE URBAN PLAN, V96, P29, DOI 10.1016/j.landurbplan.2010.01.007
+   Scott J., 1998, SEEING STATE
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Shiner JS, 1999, PHYS REV E, V59, P1459, DOI 10.1103/PhysRevE.59.1459
+   Siodla J, 2015, J URBAN ECON, V89, P48, DOI 10.1016/j.jue.2015.07.001
+   Skrimizea E, 2019, PLAN THEOR, V18, P122, DOI 10.1177/1473095218780515
+   Song Y, 2004, J AM PLANN ASSOC, V70, P210, DOI 10.1080/01944360408976371
+   Song Y, 2013, COMPUT ENVIRON URBAN, V42, P1, DOI 10.1016/j.compenvurbsys.2013.08.001
+   Song Y, 2013, LANDSCAPE URBAN PLAN, V116, P73, DOI 10.1016/j.landurbplan.2013.04.002
+   Sussman A, 2015, COGNITIVE ARCHITECTURE: DESIGNING FOR HOW WE RESPOND TO THE BUILT ENVIRONMENT, P1
+   Talen E., 2003, J URBAN DESIGN, V8, P195, DOI DOI 10.1080/1357480032000155141
+   Tsai YH, 2005, URBAN STUD, V42, P141, DOI 10.1080/004209804200309748
+   Turnbull Laura, 2018, Appl Netw Sci, V3, P11, DOI 10.1007/s41109-018-0067-2
+   Tveit M, 2006, LANDSCAPE RES, V31, P229, DOI 10.1080/01426390600783269
+   Urban D, 2001, ECOLOGY, V82, P1205, DOI 10.1890/0012-9658(2001)082[1205:LCAGTP]2.0.CO;2
+   Waddell P., 2018, APPL URB MOD S CAMBR
+   Wang FH, 2011, J TRANSP GEOGR, V19, P285, DOI 10.1016/j.jtrangeo.2010.01.004
+   Wells J, 2014, COMPLEXITY SUSTAINAB
+   Yamu C, 2016, ENVIRON PLANN B, V43, P1019, DOI 10.1177/0265813515607858
+   Yeh AGO, 2001, PHOTOGRAMM ENG REM S, V67, P83
+   Zhong C, 2017, URBAN STUD, V54, P437, DOI 10.1177/0042098015601599
+NR 114
+TC 1
+Z9 1
+U1 6
+U2 6
+PU PALGRAVE MACMILLAN LTD
+PI BASINGSTOKE
+PA BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE RG21 6XS, HANTS, ENGLAND
+SN 1357-5317
+EI 1468-4519
+J9 URBAN DES INT
+JI Urban Des. Int.
+PD NOV
+PY 2018
+VL 23
+IS 4
+BP 281
+EP 292
+DI 10.1057/s41289-018-0072-1
+PG 12
+WC Architecture; Regional & Urban Planning; Urban Studies
+SC Architecture; Public Administration; Urban Studies
+GA HG8UI
+UT WOS:000455279400003
+DA 2019-03-26
+ER
+
+PT J
+AU Soti, A
+   Bokanyi, E
+   Vattay, G
+AF Soti, Attila
+   Bokanyi, Eszter
+   Vattay, Gabor
+TI Urban Scaling of Football Followership on Twitter
+SO ACTA POLYTECHNICA HUNGARICA
+LA English
+DT Article
+DE urban scaling; Twitter; social media; football
+AB Social sciences have an important challenge today to take advantage of new research opportunities provided by large amounts of data generated by online social networks. Because of its marketing value, sports clubs are also motivated in creating and maintaining a stable audience in social media. In this paper, we analyze followers of prominent footballs clubs on Twitter by obtaining their home locations. We then measure how city size is connected to the number of followers using the theory of urban scaling. The results show that the scaling exponents of club followers depend on the income of a country. These findings could be used to understand the structure and potential growth areas of global football audiences.
+C1 [Soti, Attila] Szechenyi Istvan Univ, Doctoral Sch Reg Sci & Business Adm, Gyor, Hungary.
+   [Bokanyi, Eszter; Vattay, Gabor] Eotvos Lorand Univ, Dept Phys Complex Syst, Budapest, Hungary.
+RP Soti, A (reprint author), Szechenyi Istvan Univ, Doctoral Sch Reg Sci & Business Adm, Gyor, Hungary.
+EM attila.soti@complex.elte.hu; ebokanyi@complex.elte.hu;
+   vattay@complex.elte.hu
+FU National Research, Development and Innovation Office of Hungary
+   [KH125280]
+FX The authors thank the support of the National Research, Development and
+   Innovation Office of Hungary (grant no. KH125280).
+CR Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   [Anonymous], 2018, TECH REP
+   Bettencourt L. M. A., 2013, 2013010037 SFI, P37
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bojic I, 2016, APPL GEOGR, V73, P47, DOI 10.1016/j.apgeog.2016.06.006
+   Bokanyi E, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0192913
+   Bruns A., 2014, TWITTER AND SOC, P263, DOI DOI 10.3726/978-1-4539-1170-9
+   Cottineau C., 2018, DEFINING URBAN CLUST
+   Cottineau C, 2017, COMPUT ENVIRON URBAN, V63, P80, DOI 10.1016/j.compenvurbsys.2016.04.006
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Hanley Q. S., 2016, PLOS ONE, V11, P25
+   Hatna E., 2015, J ROYAL SOC INTERFAC, V12, P3
+   Dobos L, 2013, INT CONF COGN INFO, P289, DOI 10.1109/CogInfoCom.2013.6719259
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Oliveira M, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183110
+   Price J., 2013, Soccer and Society, V14, P446, DOI 10.1080/14660970.2013.810431
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Schlapfer M., 2015, URBAN SKYLINES BUILD, P1
+   Twitter, 2018, TECH REP
+   Yakubo K, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022803
+   Youn H, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2015.0937
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BUDAPEST TECH
+PI BUDAPEST
+PA BECSI UT 96-B, BUDAPEST, H-1034, HUNGARY
+SN 1785-8860
+J9 ACTA POLYTECH HUNG
+JI Acta Polytech. Hung.
+PY 2018
+VL 15
+IS 5
+SI SI
+BP 239
+EP 250
+PG 12
+WC Engineering, Multidisciplinary
+SC Engineering
+GA GZ0LW
+UT WOS:000449055300014
+DA 2019-03-26
+ER
+
+PT J
+AU Millar, K
+   Patel, S
+   Munson, M
+   Vesel, L
+   Subbiah, S
+   Jones, RM
+   Little, S
+   Papageorghiou, AT
+   Villar, J
+   Wegner, MN
+   Pearson, N
+   Muigai, F
+   Ongeti, C
+   Langer, A
+AF Millar, Kathryn
+   Patel, Suha
+   Munson, Meghan
+   Vesel, Linda
+   Subbiah, Shalini
+   Jones, Rachel M.
+   Little, Sarah
+   Papageorghiou, Aris T.
+   Villar, Jose
+   Wegner, Mary Nell
+   Pearson, Nick
+   Muigai, Faith
+   Ongeti, Catherine
+   Langer, Ana
+TI INTERGROWTH-21st Gestational Dating and Fetal and Newborn Growth
+   Standards in Peri-Urban Nairobi, Kenya: Quasi-Experimental
+   Implementation Study Protocol
+SO JMIR RESEARCH PROTOCOLS
+LA English
+DT Article
+DE ultrasound; gestational age; fetal growth; health care quality;
+   anthropometry
+ID LAST-MENSTRUAL-PERIOD; INTERNATIONAL STANDARDS; AGE INFANTS; PROJECT;
+   ULTRASOUND; PREGNANCY; PRETERM; MORTALITY; COUNTRIES; RECORDS
+AB Background: The burden of preterm birth, fetal growth impairment, and associated neonatal deaths disproportionately falls on low-and middle-income countries where modern obstetric tools are not available to date pregnancies and monitor fetal growth accurately. The INTERGROWTH-21st gestational dating, fetal growth monitoring, and newborn size at birth standards make this possible.
+   Objective: To scale up the INTERGROWTH-21st standards, it is essential to assess the feasibility and acceptability of their implementation and their effect on clinical decision-making in a low-resource clinical setting.
+   Methods: This study protocol describes a pre-post, quasi-experimental implementation study of the standards at Jacaranda Health, a maternity hospital in peri-urban Nairobi, Kenya. All women with viable fetuses receiving antenatal and delivery services, their resulting newborns, and the clinicians caring for them from March 2016 to March 2018 are included. The study comprises a 12-month preimplementation phase, a 12-month implementation phase, and a 5-month post-implementation phase to be completed in August 2018. Quantitative clinical and qualitative data collected during the preimplementation and implementation phases will be assessed. A clinician survey was administered eight months into the implementation phase, month 20 of the study. Implementation outcomes include quantitative and qualitative analyses of feasibility, acceptability, adoption, appropriateness, fidelity, and penetration of the standards. Clinical outcomes include appropriateness of referral and effect of the standards on clinical care and decision-making. Descriptive analyses will be conducted, and comparisons will be made between pre- and postimplementation outcomes. Qualitative data will be analyzed using thematic coding and compared across time. The study was approved by the Amref Ethics and Scientific Review Committee (Kenya) and the Harvard University Institutional Review Board. Study results will be shared with stakeholders through conferences, seminars, publications, and knowledge management platforms.
+   Results: From October 2016 to February 2017, over 90% of all full-time Jacaranda clinicians (26/28) received at least one of the three aspects of the INTERGROWTH-21st training: gestational dating ultrasound, fetal growth monitoring ultrasound, and neonatal anthropometry standards. Following the training, implementation and evaluation of the standards in Jacaranda Health's clinical workflow will take place from March 2017 through March 5, 2018. Data analysis will be finalized, and results will be shared by August 2018.
+   Conclusions: The findings of this study will have major implications on the national and global scale up of the INTERGROWTH-21st standards and on the process of scaling up global standards in general, particularly in limited-resource settings.
+C1 [Millar, Kathryn] Univ Calif San Francisco, Sch Nursing, Dept Family Hlth Care Nursing, Room N411Y,2 Koret Way, San Francisco, CA 94143 USA.
+   [Patel, Suha] Brigham & Womens Hosp, Div Global Obstet & Gynecol, 75 Francis St, Boston, MA 02115 USA.
+   [Munson, Meghan; Subbiah, Shalini; Jones, Rachel M.; Little, Sarah; Pearson, Nick; Ongeti, Catherine] Jacaranda Hlth, Nairobi, Kenya.
+   [Vesel, Linda; Wegner, Mary Nell; Langer, Ana] Harvard TH Chan Sch Publ Hlth, Dept Global Hlth & Populat, Women & Hlth Initiat, Boston, MA USA.
+   [Papageorghiou, Aris T.; Villar, Jose] Univ Oxford, Nuffield Dept Obstet & Gynaecol, Oxford Maternal & Perinatal Heath Inst, Oxford, England.
+   [Muigai, Faith] PharmAccess Fdn SafeCare, Nairobi, Kenya.
+RP Millar, K (reprint author), Univ Calif San Francisco, Sch Nursing, Dept Family Hlth Care Nursing, Room N411Y,2 Koret Way, San Francisco, CA 94143 USA.
+EM katie.millar@ucsf.edu
+OI Subbiah, Shalini/0000-0002-4192-3798; Jones, Rachel
+   M./0000-0002-4004-154X; Patel, Suha/0000-0003-0763-4826
+FU Bill AMP; Melinda Gates Foundation [OPP1142163]
+FX This work was supported by the Bill & Melinda Gates Foundation through
+   grant number OPP1142163.
+CR Albu AR, 2014, J MED LIFE, V7, P150
+   [Anonymous], 2010, INTERGROWTH 21 INT F
+   [Anonymous], 2012, NVIVO QUAL DAT AN SO
+   Barre N, 2011, J PEDIATR-US, V158, P766, DOI 10.1016/j.jpeds.2010.10.032
+   de Onis M, 2012, ANTHROPOMETRY HDB
+   Dietz PM, 2007, PAEDIATR PERINAT EP, V21, P62, DOI 10.1111/j.1365-3016.2007.00862.x
+   Gardosi J, 1997, BRIT J OBSTET GYNAEC, V104, P792, DOI 10.1111/j.1471-0528.1997.tb12022.x
+   Guerra CC, 2014, ACTA PAEDIATR, V103, pE1, DOI 10.1111/apa.12430
+   Harris PA, 2009, J BIOMED INFORM, V42, P377, DOI 10.1016/j.jbi.2008.08.010
+   Harris RD, 2009, J ULTRAS MED, V28, P1067, DOI 10.7863/jum.2009.28.8.1067
+   Katz J, 2013, LANCET, V382, P417, DOI 10.1016/S0140-6736(13)60993-9
+   Kongnyuy EJ, 2007, TROP DOCT, V37, P70, DOI 10.1258/004947507780609310
+   Lawn JE, 2005, LANCET, V365, P891, DOI 10.1016/S0140-6736(05)71048-5
+   Lee ACC, 2017, PEDIATRICS, V140, DOI 10.1542/peds.2017-1423
+   Lee ACC, 2017, BMJ-BRIT MED J, V358, DOI 10.1136/bmj.j3677
+   Mongelli M, 1996, AM J OBSTET GYNECOL, V174, P278, DOI 10.1016/S0002-9378(96)70408-8
+   Morgan J, 2017, PREGNANCY DATING
+   Ohuma EO, 2013, BMC MED RES METHODOL, V13, DOI 10.1186/1471-2288-13-151
+   Papageorghiou A, 2010, INTERGROWTH 21 INT F
+   Papageorghiou AT, 2016, ULTRASOUND OBST GYN, V48, P719, DOI 10.1002/uog.15894
+   Papageorghiou AT, 2014, ULTRASOUND OBST GYN, V44, P641, DOI 10.1002/uog.13448
+   Papageorghiou AT, 2016, BMJ-BRIT MED J, V355, DOI 10.1136/bmj.i5662
+   Papageorghiou AT, 2014, LANCET, V384, P869, DOI 10.1016/S0140-6736(14)61490-2
+   Papageorghiou AT, 2009, INTERGROWTH 21 INT F
+   Proctor E, 2011, ADM POLICY MENT HLTH, V38, P65, DOI 10.1007/s10488-010-0319-7
+   Qin C, 2008, AM J EPIDEMIOL, V167, P646, DOI 10.1093/aje/kwm345
+   Royal College of Obstetricians & Gynaecologists, 2014, INV MAN SMALL FOR GE
+   Schieve LA, 2016, ANN EPIDEMIOL, V26, P267, DOI 10.1016/j.annepidem.2016.02.012
+   StataCorp, 2017, STAT STAT SOFTW REL
+   Takeuchi A, 2016, BRAIN DEV-JPN, V38, P529, DOI 10.1016/j.braindev.2015.12.013
+   THADDEUS S, 1994, SOC SCI MED, V38, P1091, DOI 10.1016/0277-9536(94)90226-7
+   Uauy R, 2013, BJOG-INT J OBSTET GY, V120, P3, DOI 10.1111/1471-0528.12057
+   United Nations Inter-Agency Group for Child Mortality Estimation (UN IGME), 2017, LEV TRENDS CHILD MOR
+   Villar J, 2013, BJOG-INT J OBSTET GY, V120, P9, DOI 10.1111/1471-0528.12047
+   Villar J, 2002, WHO ANTENATAL CARE R
+   Villar J, 2015, LANCET GLOB HEALTH, V3, pE681, DOI 10.1016/S2214-109X(15)00163-1
+   Villar J, 2014, LANCET DIABETES ENDO, V2, P781, DOI 10.1016/S2213-8587(14)70121-4
+   Villar J, 2014, LANCET, V384, P857, DOI 10.1016/S0140-6736(14)60932-6
+   Wingate MS, 2007, ANN EPIDEMIOL, V17, P425, DOI 10.1016/j.annepidem.2007.01.035
+   World Health Organisation, 2016, WHO REC ANT CAR POS
+NR 40
+TC 1
+Z9 1
+U1 1
+U2 1
+PU JMIR PUBLICATIONS, INC
+PI TORONTO
+PA 59 WINNERS CIRCLE, TORONTO, ON M4L 3Y7, CANADA
+SN 1929-0748
+J9 JMIR RES PROTOC
+JI JMIR RES. Protoc.
+PD JUN
+PY 2018
+VL 7
+IS 6
+AR e10293
+DI 10.2196/10293
+PG 10
+WC Health Care Sciences & Services
+SC Health Care Sciences & Services
+GA GM5GG
+UT WOS:000438160400024
+PM 29934289
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Thiripurasundari, C
+   Sumathy, V
+   Thiruvengadam, C
+AF Thiripurasundari, C.
+   Sumathy, V.
+   Thiruvengadam, C.
+TI An FPGA implementation of novel smart antenna algorithm in tracking
+   systems for smart cities
+SO COMPUTERS & ELECTRICAL ENGINEERING
+LA English
+DT Article
+DE Beamforming; MUSIC; MSR-CORDIC; RLS; DOA
+ID CORDIC ALGORITHM; TRANSFORM; ARCHITECTURE
+AB The area of digital signal processing (DSP) faces a great challenge in suppressing the noise and interference in the transmitting signal. A huge number of applications are in need of such control methods for good audio communication, etc., and the most widespread method for achieving this is through COordinate Rotation Digital Computer (CORDIC) based on QRD-RLS. However, this method requires several iterations for its calculations, and therefore in order to reduce the complexity of the calculations and for faster calculation with a minimum number of iterations, a modified CORDIC based on the QRD-RLS algorithm for the purpose of beamforming is proposed in this paper and named mixed scaling rotation coordinate rotation digital computer (MSR-CORDIC). In this work, beamforming and direction of arrival (DOA) estimation will be achieved using the MSR-CORDIC and MUSIC algorithms respectively. The proposed algorithm is developed using Verilog HDL and implemented using the Xilinx field-programmable gate array (FPGA). In all cases, the proposed algorithm shows remarkable improvement compared with the conventional SCC (space code correlator) beamforming algorithm. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Thiripurasundari, C.] Anna Univ, ECE Dept, Madha Engn Coll, Madras, Tamil Nadu, India.
+   [Sumathy, V.] Govt Coll Technol, ECE Dept, Coimbatore, Tamil Nadu, India.
+   [Thiruvengadam, C.] Anna Univ, ECE Dept, Anjalai Anim Mahalingam Engn Coll, Madras, Tamil Nadu, India.
+RP Thiripurasundari, C (reprint author), Anna Univ, ECE Dept, Madha Engn Coll, Madras, Tamil Nadu, India.
+EM rndthiripurasundari@gmail.com
+CR Brandstein M., 2013, MICROPHONE ARRAYS SI
+   CAPON J, 1969, P IEEE, V57, P1408, DOI 10.1109/PROC.1969.7278
+   CHANG LW, 1991, IEEE T SIGNAL PROCES, V39, P2411, DOI 10.1109/78.97996
+   DESPAIN AM, 1974, IEEE T COMPUT, VC 23, P993, DOI 10.1109/T-C.1974.223800
+   Dikmese S, 2009, MICROWAVES ANTENNAS, V4, P593
+   Frank G., 2006, SMART ANTENNAS WIREL
+   Haykin S, 2005, NEURAL COMPUT, V17, P1875, DOI 10.1162/0899766054322964
+   HU YH, 1990, INT CONF ACOUST SPEE, P1575, DOI 10.1109/ICASSP.1990.115721
+   HU YH, 1990, IEEE T ACOUST SPEECH, V38, P352, DOI 10.1109/29.103071
+   Jamel TM, 2013, INT SIGN PROC C 2013, V2, P1
+   KO CC, 1990, IEE PROC-F, V137, P377, DOI 10.1049/ip-f-2.1990.0056
+   Lavate T B, 2010, Proceedings of the 2010 Second International Conference on Computer and Network Technology (ICCNT 2010), P308, DOI 10.1109/ICCNT.2010.45
+   Li JQ, 2005, IEEE T WIREL COMMUN, V4, P538, DOI 10.1109/TWC.2004.843023
+   Lin CH, 2005, IEEE T CIRCUITS-I, V52, P2385, DOI 10.1109/TCSI.2005.853908
+   Liu HT, 2012, IEEE T ANTENN PROPAG, V60, P1540, DOI 10.1109/TAP.2011.2180300
+   Mani VV, 2008, 2008 INTERNATIONAL ITG WORKSHOP ON SMART ANTENNAS, P311, DOI 10.1109/WSA.2008.4475575
+   Mishra V, 2014, IT BUS IND GOV CSIBI, V8, P1
+   Qun Y, 2010, INT C 2010, V8, P1372
+   Song X, ICMMT 07 INT C, V18, P1
+   SUNG TY, 1987, IEEE T AERO ELEC SYS, V23, P215, DOI 10.1109/TAES.1987.313375
+   VAIDYANATHAN PP, 1985, IEEE T CIRCUITS SYST, V32, P673, DOI 10.1109/TCS.1985.1085774
+   Wazenski M, 1996, IEEE J OCEANIC ENG, V21, P94, DOI 10.1109/48.485205
+   Wu CS, 2001, IEEE T CIRCUITS-II, V48, P548, DOI 10.1109/82.943326
+NR 23
+TC 1
+Z9 1
+U1 5
+U2 13
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-7906
+EI 1879-0755
+J9 COMPUT ELECTR ENG
+JI Comput. Electr. Eng.
+PD JAN
+PY 2018
+VL 65
+BP 59
+EP 66
+DI 10.1016/j.compeleceng.2017.06.009
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science,
+   Interdisciplinary Applications; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA FW1QK
+UT WOS:000425074300006
+DA 2019-03-26
+ER

@@ -1,0 +1,457 @@
+
+PT J
+AU Zhao, YM
+   Zeng, A
+   Yan, XY
+   Wang, WX
+   Lai, YC
+AF Zhao, Yi-Ming
+   Zeng, An
+   Yan, Xiao-Yong
+   Wang, Wen-Xu
+   Lai, Ying-Cheng
+TI Unified underpinning of human mobility in the real world and cyberspace
+SO NEW JOURNAL OF PHYSICS
+LA English
+DT Article
+DE human mobility; scaling law; memory-based random walk
+ID SCALING LAWS; PATTERNS; MEMORY; DIVERSITY; EMERGENCE; NETWORKS
+AB Human movements in the real world and in cyberspace affect not only dynamical processes such as epidemic spreading and information diffusion but also social and economical activities such as urban planning and personalized recommendation in online shopping. Despite recent efforts in characterizing and modeling human behaviors in both the real and cyber worlds, the fundamental dynamics underlying human mobility have not been well understood. We develop a minimal, memory-based random walk model in limited space for reproducing, with a single parameter, the key statistical behaviors characterizing human movements in both cases. The model is validated using relatively big data from mobile phone and online commerce, suggesting memory-based random walk dynamics as the unified underpinning for human mobility, regardless of whether it occurs in the real world or in cyberspace.
+C1 [Zhao, Yi-Ming; Zeng, An; Wang, Wen-Xu] Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.
+   [Yan, Xiao-Yong] Beijing Jiaotong Univ, Inst Syst Sci, Beijing 100044, Peoples R China.
+   [Yan, Xiao-Yong] Univ Elect Sci & Technol China, Big Data Res Ctr, Chengdu 611731, Peoples R China.
+   [Lai, Ying-Cheng] Arizona State Univ, Sch Elect Comp & Energy Engn, Tempe, AZ 85287 USA.
+RP Zeng, A (reprint author), Beijing Normal Univ, Sch Syst Sci, Beijing 100875, Peoples R China.; Yan, XY (reprint author), Beijing Jiaotong Univ, Inst Syst Sci, Beijing 100044, Peoples R China.; Yan, XY (reprint author), Univ Elect Sci & Technol China, Big Data Res Ctr, Chengdu 611731, Peoples R China.
+EM anzeng@bnu.edu.cn; yanxy@bjtu.edu.cn
+RI Yan, Xiao-Yong/P-6027-2018
+OI Yan, Xiao-Yong/0000-0003-2091-6967
+FU National Science Foundation of China [61573064, 61074116, 11547188];
+   Youth Scholars Program of Beijing Normal University [2014NT38];
+   Fundamental Research Funds for the Central Universities Beijing Nova
+   Programme, China; National Natural Science Foundation of China
+   [61304177]; Fundamental Research Funds of BJTU [2015RC042]
+FX This work is supported by National Science Foundation of China (Grant
+   No. 61573064, 61074116 and 11547188), the Youth Scholars Program of
+   Beijing Normal University (grant No. 2014NT38), and the Fundamental
+   Research Funds for the Central Universities Beijing Nova Programme,
+   China. XYY acknowledges the support from the National Natural Science
+   Foundation of China (Grant No. 61304177) and the Fundamental Research
+   Funds of BJTU (Grant No. 2015RC042).
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Belik V, 2011, PHYS REV X, V1, DOI 10.1103/PhysRevX.1.011001
+   Ben-Naim E, 2012, EPL-EUROPHYS LETT, V97, DOI 10.1209/0295-5075/97/48003
+   Berlingerio Michele, 2013, Machine Learning and Knowledge Discovery in Databases. European Conference, ECML PKDD 2013. Proceedings: LNCS 8190, P663, DOI 10.1007/978-3-642-40994-3_50
+   Blondel VD, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0046-0
+   Blumenstock J E, 2012, TECH INT DEV
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Calabrese F, 2010, LECT NOTES COMPUT SC, V6030, P22, DOI 10.1007/978-3-642-12654-3_2
+   Cattuto C, 2006, EUROPHYS LETT, V76, P208, DOI 10.1209/epl/i2006-10263-9
+   Cattuto C, 2006, EUR PHYS J C, V46, P33, DOI 10.1140/epjcd/s2006-03-004-4
+   Deville P, 2014, P NATL ACAD SCI USA, V111, P15888, DOI 10.1073/pnas.1408439111
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Frias-Martinez E., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P57, DOI 10.1109/PASSAT/SocialCom.2011.142
+   Goh KI, 2008, EPL-EUROPHYS LETT, V81, DOI 10.1209/0295-5075/81/48002
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hou L, 2014, SCI REP-UK, V4, DOI 10.1038/srep06560
+   Hu YQ, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/38006
+   Jiang S., 2013, P 2 ACM SIGKDD INT W
+   Kovanen L, 2013, P NATL ACAD SCI USA, V110, P18070, DOI 10.1073/pnas.1307941110
+   Levandoski JJ, 2012, PROC INT CONF DATA, P450, DOI 10.1109/ICDE.2012.54
+   Lima A, 2015, SCI REP-UK, V5, DOI 10.1038/srep10650
+   Newman M. E. J., 2010, NETWORKS INTRO
+   Pappalardo L, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms9166
+   Saramaki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Scepanovic S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0124160
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Smoreda Z, 2000, SOC PSYCHOL QUART, V63, P238, DOI 10.2307/2695871
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Szell M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00457
+   Tizzoni M, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003716
+   Wesolowski A, 2012, SCIENCE, V338, P267, DOI 10.1126/science.1223467
+   Yamasaki K, 2005, P NATL ACAD SCI USA, V102, P9424, DOI 10.1073/pnas.0502613102
+   Yan XY, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0834
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+   Zhao Z D, 2012, SCI REP, V3, P3472
+   Zhao ZD, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.050802
+   Zipf GK, 1946, AM SOCIOL REV, V11, P677, DOI 10.2307/2087063
+NR 40
+TC 5
+Z9 6
+U1 0
+U2 9
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1367-2630
+J9 NEW J PHYS
+JI New J. Phys.
+PD MAY 26
+PY 2016
+VL 18
+AR 053025
+DI 10.1088/1367-2630/18/5/053025
+PG 8
+WC Physics, Multidisciplinary
+SC Physics
+GA DN6NI
+UT WOS:000377191500002
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Frey, R
+   Powell, L
+   Gott, M
+AF Frey, Rosemary
+   Powell, Lawrence
+   Gott, Merryn
+TI "Both sides now"-A scale for assessing health care providers'
+   intercultural communication comfort regarding traditional and
+   non-traditional palliative care
+SO EUROPEAN JOURNAL OF INTEGRATIVE MEDICINE
+LA English
+DT Article
+DE Palliative care; Comfort; Communication; Intercultural; Measurement
+   scale
+ID CULTURAL COMPETENCE; DEATH ANXIETY; UNDERGRADUATE; MEDICINE; LEVEL;
+   SENSITIVITY; CHALLENGES; DIVERSITY; ATTITUDES; EXPOSURE
+AB Introduction: Interacting with patients and families from cultures who hold differing views on health and illness involves increased feelings of strangeness and decreased feelings of familiarity. The purpose of this study was the development of the 'Intercultural Palliative Care Comfort' (IPCCC) scale and evaluation of its psychometric properties.
+   Method: The design of this component of the research is scale development. The IPCCC was administered via web survey to 598 clinical staff at one urban acute hospital in New Zealand.
+   Results: Exploratory factor analyses revealed two primary factors, which accounted for 62% of the variance: Traditional Palliative Care Topics (alpha = 0.98); Non-Traditional Palliative Care Topics (alpha = 0.95). Multidimensional scaling (MDS) was used to triangulate these results. Construct validity was supported.
+   Conclusion: The IPCCC shows promise in identifying areas of concern particularly in assessing communication comfort in dealing with Non-Traditional (religious and cultural) aspects of culturally safe and culturally competent care. (C) 2016 Elsevier GmbH. All rights reserved.
+C1 [Frey, Rosemary] Univ Auckland, Sch Nursing Med & Hlth Sci, Private Bag 92019, Auckland 1142, New Zealand.
+   [Powell, Lawrence] Auckland Univ Technol, Culture & Soc, 55 Wellesley St, Auckland 1010, New Zealand.
+   [Gott, Merryn] Univ Auckland, Sch Nursing, Hlth Sci, Fac Med & Hlth Sci, Private Bag 92019, Auckland 1142, New Zealand.
+RP Frey, R (reprint author), Univ Auckland, Sch Nursing Med & Hlth Sci, Private Bag 92019, Auckland 1142, New Zealand.
+EM r.frey@auckland.ac.nz; larry.powell@aut.ac.nz; m.gott@auckland.ac.nz
+FU Health Research Council of New Zealand [10/815]
+FX The study was funded by the Health Research Council of New Zealand
+   [reference: 10/815].
+CR Adames HY, 2014, PALLIAT SUPPORT CARE, V12, P149, DOI 10.1017/S147895151300028X
+   Altshuler L, 2003, INT J INTERCULT REL, V27, P387, DOI 10.1016/S0147-1767(03)00029-4
+   Arber A, 2001, Int J Palliat Nurs, V7, P597
+   Barna L. M, 1994, INTERCULTURAL COMMUN, P337
+   Bauman AE, 2003, MED J AUSTRALIA, V179, P253
+   Bryman A., 2005, QUANTITATIVE DATA AN
+   Buss Mary Kathleen, 2005, J Palliat Med, V8, P363, DOI 10.1089/jpm.2005.8.363
+   Capstick S, 2009, SOC SCI MED, V68, P1341, DOI 10.1016/j.socscimed.2009.01.002
+   Cattell R., 1966, HDB MULTIVARIATE EXP, P174
+   Chiarelli PE, 2014, J PALLIAT MED, V17, P152, DOI 10.1089/jpm.2013.0158
+   Clark K, 2010, AUST FAM PHYSICIAN, V39, P210
+   CROWNE DP, 1960, J CONSULT PSYCHOL, V24, P349, DOI 10.1037/h0047358
+   Deffner JM, 2005, J NURSES PROF DEV, V21, P19, DOI 10.1097/00124645-200501000-00005
+   DeSouza R, 2008, J RES NURS, V13, P125, DOI 10.1177/1744987108088637
+   DeVellis R., 2003, SCALE DEV THEORY APP
+   DeVellis RF, 2006, MED CARE, V44, pS50, DOI 10.1097/01.mlr.0000245426.10853.30
+   Dumont J., 2008, HLTH WORKING PAPERS
+   Durie M. H., 2001, CULTURAL COMPETENCE
+   Ellman MS, 2012, J PALLIAT MED, V15, P1240, DOI 10.1089/jpm.2012.0038
+   Fabrigar LR, 1999, PSYCHOL METHODS, V4, P272, DOI 10.1037/1082-989X.4.3.272
+   Feldstein BD, 2008, CLIN GERONTOLOGIST, V31, P71, DOI 10.1080/07317110801947185
+   Field A. P., 2005, DISCOVERING STAT USI
+   Florea M., 2012, CONT INNOVATIVE PRAC
+   Frey R, 2013, HEALTH SOC CARE COMM, V21, P519, DOI 10.1111/hsc.12038
+   Frey R, 2011, BMJ SUPPORT PALLIAT, V1, P19, DOI [10.1136/bmjspcare-2011-000028, 10.1136/bmjspcare-2011-000088]
+   Frey RA, 2013, BMJ SUPPORT PALLIAT, V3, P114, DOI 10.1136/bmjspcare-2012-000306
+   Gable R. K., 1993, INSTRUMENT DEV AFFEC
+   Galvin R, 2002, HEALTH, V6, P107, DOI 10.1177/136345930200600201
+   Geertz Clifford, 1973, INTERPRETATION CULTU
+   Goodyear RK, 2005, J COUNS PSYCHOL, V52, P236, DOI 10.1037/0022-0167.52.2.236
+   Gorsuch R. L., 1983, FACTOR ANAL
+   Gudykunst B., 1997, COMMUNICATING STRANG
+   GUTTMAN L, 1968, PSYCHOMETRIKA, V33, P469, DOI 10.1007/BF02290164
+   Hair J., 1998, MULTIVARIATE DATA AN
+   Hall S., 2004, ANN REV PUBLIC HLTH, V2004
+   Helmen C. G., 2007, CULTURE HLTH ILLNESS
+   Hladik J., 2014, ASIAN SOC SCI, V10, P162
+   Hoyt WT, 2006, COUNS PSYCHOL, V34, P769, DOI 10.1177/001100006287389
+   Hudelson P, 2010, EVAL HEALTH PROF, V33, P452, DOI 10.1177/0163278710370157
+   JACKSON DN, 1961, EDUC PSYCHOL MEAS, V21, P771, DOI 10.1177/001316446102100402
+   Jones D, 2000, PERS REV, V29, P364, DOI 10.1108/00483480010324715
+   Kai J, 2011, BRIT J CANCER, V105, P918, DOI 10.1038/bjc.2011.318
+   Kai J, 2001, MED EDUC, V35, P250, DOI 10.1046/j.1365-2923.2001.00871.x
+   Kai J, 2007, PLOS MED, V4, P1766, DOI 10.1371/journal.pmed.0040323
+   Kaplan R. M., 2001, PSYCHOL TESTING PRIN
+   Kemmler G, 2002, QUAL LIFE RES, V11, P223, DOI 10.1023/A:1015207400490
+   KIMCHI J, 1991, NURS RES, V40, P364
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P1, DOI 10.1007/BF02289565
+   Landmark Bjorg T, 2004, Palliat Support Care, V2, P157
+   Lowenthal K. M., 2001, INTRO PSYCHOL TESTS
+   MacLeod RD, 2003, MED EDUC, V37, P51, DOI 10.1046/j.1365-2923.2003.01412.x
+   Mason SR, 2010, PALLIATIVE MED, V24, P306, DOI 10.1177/0269216309351867
+   McKeowen K., 2008, NATL AUDIT END OF LI
+   Morgan G. A., 2008, SPSS INTERMEDIATE ST
+   Mulder SF, 2009, PALLIATIVE MED, V23, P360, DOI 10.1177/0269216308100250
+   N. Z. Statistics, 2010, SUBN POP PROJ 2006 B
+   N. Z. Statistics, 2006, QUICKSTATS CULT ID
+   N. Z. Statistics, 2012, NAT POP PROJ 2011 BA
+   Nakazawa Y, 2012, JPN J CLIN ONCOL, V42, P432, DOI 10.1093/jjco/hys022
+   National Audit Office, 2008, NAT AUD OFF VAL MON
+   New Zealand Ministry of Health, 2001, NZ PALL CAR STRAT
+   Ngo-Metzger Q, 2007, J GEN INTERN MED, V22, P324, DOI 10.1007/s11606-007-0340-z
+   O'Leary-Kelly SW, 1998, J OPER MANAG, V16, P387, DOI 10.1016/S0272-6963(98)00020-5
+   Otis-Green S, 2009, J CANCER EDUC, V24, P120, DOI 10.1080/08858190902854616
+   Palliative Care Council of New Zealand, 2011, NAT HLTH NEEDS ASS P
+   Peck MR, 2009, J SOC WORK END-LIFE, V5, P49, DOI 10.1080/15524250903173892
+   Schouten BC, 2006, PATIENT EDUC COUNS, V64, P21, DOI 10.1016/j.pec.2005.11.014
+   SCHUESSLER K, 1978, US SOC PSYCHOL, V41, P224, DOI 10.2307/3033559
+   Shapiro J, 2003, MED TEACH, V25, P327
+   Shipman C., 2008, BMJ-BRIT MED J, V337, P8
+   Street RL, 2009, PATIENT EDUC COUNS, V74, P295, DOI 10.1016/j.pec.2008.11.015
+   Sumpter DF, 2011, J PROF NURS, V27, P43, DOI 10.1016/j.profnurs.2010.09.005
+   Tabachnik BG, 1983, USING MULTIVARIATE S
+   TAKANE Y, 1977, PSYCHOMETRIKA, V42, P7, DOI 10.1007/BF02293745
+   Ulrey KL, 2001, HEALTH COMMUN, V13, P449, DOI 10.1207/S15327027HC1304_06
+   Williams JA, 2011, J GEN INTERN MED, V26, P1265, DOI 10.1007/s11606-011-1781-y
+   Wiseman Richard L., 2002, HDB INT INTERCULTURA, P207
+   Wittenberg E, 2015, J HOSP PALLIAT NURS, V17, P257, DOI 10.1097/NJH.0000000000000160
+NR 78
+TC 0
+Z9 0
+U1 0
+U2 9
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1876-3820
+EI 1876-3839
+J9 EUR J INTEGR MED
+JI Eur. J. Integr. Med.
+PD JUN
+PY 2016
+VL 8
+IS 3
+BP 250
+EP 259
+DI 10.1016/j.eujim.2015.12.005
+PG 10
+WC Integrative & Complementary Medicine
+SC Integrative & Complementary Medicine
+GA DT8JI
+UT WOS:000381735900018
+DA 2019-03-26
+ER
+
+PT J
+AU Bai, T
+   Heath, RW
+AF Bai, Tianyang
+   Heath, Robert W., Jr.
+TI Analyzing Uplink SINR and Rate in Massive MIMO Systems Using Stochastic
+   Geometry
+SO IEEE TRANSACTIONS ON COMMUNICATIONS
+LA English
+DT Article
+DE Massive MIMO; SINR; achievable rate; performance evaluation; stochastic
+   geometry
+ID CELLULAR NETWORKS; PERFORMANCE ANALYSIS; WIRELESS NETWORKS; ZF
+   RECEIVERS; COVERAGE; ANTENNAS; HETNETS; SDMA
+AB This paper proposes a stochastic geometry framework to analyze the signal-to-noise-and-interference ratio (SINR) and rate performance in a large-scale uplink massive multiple-input and multiple-output (MIMO) network. Based on the model, expressions are derived for spatial average SINR distributions over user and base station distributions with maximum ratio combining (MRC) and zero-forcing (ZF) receivers. We show that, using massive MIMO, the uplink SINR in certain urban marcocell scenarios is limited by interference. In the interference-limited regime, the results reveal that for MRC receivers, a superlinear (polynomial) scaling law between the number of base station antennas and scheduled users per cell preserves the uplink signal-to-interference ratio (SIR) distribution, while a linear scaling applies to ZF receivers. ZF receivers are shown to outperform MRC receivers in the SIR coverage, and the performance gap is quantified in terms of the difference in the number of antennas to achieve the same SIR distribution. Numerical results verify the analysis. It is found that the optimal compensation fraction in fractional power control to optimize rate is generally different for MRC and ZF receivers. Besides, simulations show that the scaling results derived from the proposed framework apply to the networks, where base stations are distributed according to a hexagonal lattice.
+C1 [Bai, Tianyang; Heath, Robert W., Jr.] Univ Texas Austin, Austin, TX 78701 USA.
+   [Bai, Tianyang] Qualcomm Flar Technol Inc, Bridgewater, NJ 08807 USA.
+RP Bai, T (reprint author), Qualcomm Flar Technol Inc, Bridgewater, NJ 08807 USA.
+EM tybai@utexas.edu; rheath@utexas.edu
+FU National Science Foundation through the Division of Computing and
+   Communication Foundations [1218338, 1319556, 1514257]
+FX This work was supported by the National Science Foundation through the
+   Division of Computing and Communication Foundations under Grant Nos.
+   1218338, 1319556, and 1514257. A conference version of this paper was
+   presented at the 2015 IEEE Global Conference on Communications [1]. The
+   associate editor coordinating the review of this paper and approving it
+   for publication was M. Di Renzo.
+CR Alzer H, 1997, MATH COMPUT, V66, P771, DOI 10.1090/S0025-5718-97-00814-4
+   Andrews JG, 2011, IEEE T COMMUN, V59, P3122, DOI 10.1109/TCOMM.2011.100411.100541
+   [Anonymous], 2010, 36814 3GPP TR
+   Aris R, 1999, MATH MODELING CHEM E
+   Atzeni I, 2015, IEEE INT CONF COMM, P1030, DOI 10.1109/ICCW.2015.7247312
+   Baccelli F., 2009, STOCHASTIC GEOMETRY, V1
+   Bai T., 2015, P IEEE GLOB C DEC, P1
+   Bai TY, 2014, 2014 IEEE GLOBAL CONFERENCE ON SIGNAL AND INFORMATION PROCESSING (GLOBALSIP), P602, DOI 10.1109/GlobalSIP.2014.7032188
+   Bai TY, 2015, IEEE INT WORK SIGN P, P620, DOI 10.1109/SPAWC.2015.7227112
+   Bai TY, 2015, IEEE T WIREL COMMUN, V14, P1100, DOI 10.1109/TWC.2014.2364267
+   Bjornson E., 2015, DEPLOYING DENSE NETW
+   Bjornson E., 2014, MASSIVE MIMO MAXIMAL
+   Boccardi F, 2014, IEEE COMMUN MAG, V52, P74, DOI 10.1109/MCOM.2014.6736746
+   Chandrasekhar V, 2009, IEEE T WIREL COMMUN, V8, P5314, DOI 10.1109/TWC.2009.090241
+   Dhillon HS, 2013, IEEE T WIREL COMMUN, V12, P5208, DOI 10.1109/TWC.2013.090513.130142
+   ElSawy H, 2014, IEEE T WIREL COMMUN, V13, P4454, DOI 10.1109/TWC.2014.2316519
+   Goldsmith A., 2005, WIRELESS COMMUNICATI
+   Ngo HQ, 2013, IEEE T VEH TECHNOL, V62, P4471, DOI 10.1109/TVT.2013.2265720
+   Hoydis J, 2013, IEEE J SEL AREA COMM, V31, P160, DOI 10.1109/JSAC.2013.130205
+   Kiessling M., 2003, P 4 IEEE WORKSH SIGN, P383
+   Kountouris M, 2012, IEEE T WIREL COMMUN, V11, P2730, DOI 10.1109/TWC.2012.051712.110357
+   Krishnan N, 2014, IEEE T WIREL COMMUN, V13, P4360, DOI 10.1109/TWC.2014.2320914
+   Larsson EG, 2014, IEEE COMMUNICATIONS, V2, P186
+   Li C, 2013, IEEE GLOB COMM CONF, P3867, DOI 10.1109/GLOCOM.2013.6831676
+   Li Y, 2012, IEEE GLOB COMM CONF, P4500, DOI 10.1109/GLOCOM.2012.6503827
+   Liang N, 2015, IEEE WCNC, P310, DOI 10.1109/WCNC.2015.7127488
+   Lu L, 2014, IEEE J-STSP, V8, P742, DOI 10.1109/JSTSP.2014.2317671
+   Madhusudhanan P, 2013, 2013 11TH INTERNATIONAL SYMPOSIUM ON MODELING & OPTIMIZATION IN MOBILE, AD HOC & WIRELESS NETWORKS (WIOPT), P15
+   Marzetta TL, 2010, IEEE T WIREL COMMUN, V9, P3590, DOI 10.1109/TWC.2010.092810.091092
+   Ngo H. Q., 2014, P 22 EUR SIGN PROC C, P76
+   Novlan TD, 2013, IEEE T WIREL COMMUN, V12, P2669, DOI 10.1109/TWC.2013.050613.120325
+   Singh S, 2015, IEEE T WIREL COMMUN, V14, P5360, DOI 10.1109/TWC.2015.2437378
+   Tse D., 2005, FUNDAMENTALS WIRELES
+   Wu YP, 2015, IEEE T WIREL COMMUN, V14, P6550, DOI 10.1109/TWC.2015.2456174
+   Xiaofeng W., 2006, P IEEE VTC2006 FALL, P1, DOI DOI 10.1109/ICIEA.2006.257224
+   Yang H, 2013, IEEE J SEL AREA COMM, V31, P172, DOI 10.1109/JSAC.2013.130206
+NR 36
+TC 25
+Z9 25
+U1 2
+U2 10
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0090-6778
+EI 1558-0857
+J9 IEEE T COMMUN
+JI IEEE Trans. Commun.
+PD NOV
+PY 2016
+VL 64
+IS 11
+BP 4592
+EP 4606
+DI 10.1109/TCOMM.2016.2591007
+PG 15
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA ED5EG
+UT WOS:000388873800012
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Grindrod, P
+   Lee, TE
+AF Grindrod, P.
+   Lee, T. E.
+TI Comparison of social structures within cities of very different sizes
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE social networks; modularity; scaling
+AB People make a city, making each city as unique as the combination of its inhabitants. However, some cities are similar and some cities are inimitable. We examine the social structure of 10 different cities using Twitter data. Each city is decomposed to its communities. We show that in many cases one city can be thought of as an amalgamation of communities from another city. For example, we find the social network of Manchester is very similar to the social network of a virtual city of the same size, where the virtual city is composed of communities from the Bristol network. However, we cannot create Bristol from Manchester since Bristol contains communities with a social structure that are not present in Manchester. Some cities, such as Leeds, are outliers. That is, Leeds contains a particularly wide range of communities, meaning we cannot build a similar city from communities outside of Leeds. Comparing communities from different cities, and building virtual cities that are comparable to real cities, is a novel approach to understand social networks. This has implications when using social media to inform or advise residents of a city.
+C1 [Grindrod, P.; Lee, T. E.] Univ Oxford, Math Inst, Oxford OX2 6GG, England.
+RP Lee, TE (reprint author), Univ Oxford, Math Inst, Oxford OX2 6GG, England.
+EM tamsin.lee@maths.ox.ac.uk
+FU RCUK Digital Economy The HORIZON Hub [EP/G065802/1]
+FX P.G. and T.L. were funded by RCUK Digital Economy The HORIZON Hub,
+   EP/G065802/1.
+CR Batty M, 2005, CITIES COMPLEXITY UN
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brown Marilyn A., 2009, POLICY SOC, V27, P285, DOI DOI 10.1016/J.POLSOC.2009.01.001
+   Coleman J. S., 1964, INTRO MATH SOCIOLOGY
+   Danon L., 2005, J STAT MECH-THEORY E, V2005, DOI DOI 10.1088/1742-5468/2005/09/P09008
+   Dodman D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016
+   Efron B., 1994, INTRO BOOTSTRAP
+   Fischer C. S., 1982, DWELL FRIENDS PERSON
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056117
+   Newman M. E. J., 2010, NETWORKS INTRO
+   Onnela JP, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.036104
+   Porter M.A., 2009, NOT AM MATH SOC, V56, P1082, DOI DOI 10.1063/1.3194108
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 18
+TC 4
+Z9 4
+U1 0
+U2 1
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD FEB
+PY 2016
+VL 3
+IS 2
+AR 150526
+DI 10.1098/rsos.150526
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DO7NJ
+UT WOS:000377969000012
+PM 26998323
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT B
+AU Zhang, N
+   Li, HM
+   Lu, M
+   Ke, MM
+AF Zhang Nan
+   Li Hongmin
+   Lu Min
+   Ke Mingmin
+BE Xu, B
+TI Understanding the Human-Bus Interaction Patterns Based on IC Card Data
+SO 2016 IEEE INFORMATION TECHNOLOGY, NETWORKING, ELECTRONIC AND AUTOMATION
+   CONTROL CONFERENCE (ITNEC)
+LA English
+DT Proceedings Paper
+CT IEEE Information Technology, Networking, Electronic and Automation
+   Control Conference (ITNEC)
+CY MAY 20-22, 2016
+CL Chongqing, PEOPLES R CHINA
+SP IEEE
+DE IC card data; human dynamics; power-law distribution; time granularity
+ID HUMAN DYNAMICS; HEAVY TAILS
+AB The study of power-law scaling characteristics of real-life networks, which deviates from the Poisson process, has gained the focus from scholars. Most researches put the emphasis on the mobility patterns of passengers in a public transport network, but ignore the work patterns between the bus and passengers, which also plays an important role in urban planning, traffic forecasting and the spread of biological and mobile viruses. In this paper, we take the IC card payment behavior on a bus as the empirical object. By applying logarithmic binning to the construction of distribution plots, we found that the statistical variables display a power-law distribution at both the micro and macro levels, and the exponent of them are 2.36 and 2.8 when the time granularity is one minute. Further investigations suggest that the distribution of the frequency of the inter-event time present the same characteristic at both the micro and macro levels when the time granularity is one second. However, the distributions at the same level differ from each other when the time granularity changes. There must be some reasons result in the differences.
+C1 [Zhang Nan; Li Hongmin; Lu Min; Ke Mingmin] CAEP, Inst Syst Engn, Mianyang, Peoples R China.
+RP Zhang, N (reprint author), CAEP, Inst Syst Engn, Mianyang, Peoples R China.
+EM wlzhangn@caep.cn; lihm@caep.cn; lum@caep.cn; wlkemm@caep.cn
+CR Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Dezso Z, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066132
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grabowski A, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.066110
+   Grinstein G, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.130201
+   Homer M. W., 2001, J TRANSP GEOGR, V9, P255, DOI DOI 10.1016/S0966-6923(01)00019-9
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Kitamura R, 2000, TRANSPORTATION, V27, P25, DOI 10.1023/A:1005259324588
+   Kleban S.D., 2003, SUP 2003 ACM IEEE C, P28
+   Malmgren RD, 2009, SCIENCE, V325, P1696, DOI 10.1126/science.1174562
+   Malmgren RD, 2008, P NATL ACAD SCI USA, V105, P18153, DOI 10.1073/pnas.0800332105
+   Masoliver J, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.021112
+   Nakamura T, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.138103
+   Oliveira JG, 2005, NATURE, V437, P1251, DOI 10.1038/4371251a
+   PAXSON V, 1995, IEEE ACM T NETWORK, V3, P226, DOI 10.1109/90.392383
+   Vazquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   Vazquez A, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.248701
+   Wang P, 2011, EPL-EUROPHYS LETT, V94, DOI 10.1209/0295-5075/94/18005
+   Wei H., 2009, CHINESE PHYS LETT, V26
+   Zhou T, 2008, EPL-EUROPHYS LETT, V82, DOI 10.1209/0295-5075/82/28002
+NR 20
+TC 0
+Z9 0
+U1 1
+U2 3
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-9194-8
+PY 2016
+BP 981
+EP 985
+PG 5
+WC Automation & Control Systems; Computer Science, Hardware & Architecture;
+   Computer Science, Information Systems
+SC Automation & Control Systems; Computer Science
+GA BG5II
+UT WOS:000389505000203
+DA 2019-03-26
+ER

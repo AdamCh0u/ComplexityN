@@ -1,0 +1,459 @@
+
+PT J
+AU Papalexakis, E
+   Hooi, B
+   Pelechrinis, K
+   Faloutsos, C
+AF Papalexakis, Evangelos
+   Hooi, Bryan
+   Pelechrinis, Konstantinos
+   Faloutsos, Christos
+TI Power-Hop: A Pervasive Observation for Real Complex Networks
+SO PLOS ONE
+ID DYNAMICS; GROWTH
+AB Complex networks have been shown to exhibit universal properties, with one of the most consistent patterns being the scale-free degree distribution, but are there regularities obeyed by the r-hop neighborhood in real networks? We answer this question by identifying another power-law pattern that describes the relationship between the fractions of node pairs C(r) within r hops and the hop count r. This scale-free distribution is pervasive and describes a large variety of networks, ranging from social and urban to technological and biological networks. In particular, inspired by the definition of the fractal correlation dimension D-2 on a point-set, we consider the hop-count r to be the underlying distance metric between two vertices of the network, and we examine the scaling of C(r) with r. We find that this relationship follows a power-law in real networks within the range 2 <= r <= d, where d is the effective diameter of the network, that is, the 90-th percentile distance. We term this relationship as power-hop and the corresponding power-law exponent as power-hop exponent h. We provide theoretical justification for this pattern under successful existing network models, while we analyze a large set of real and synthetic network datasets and we show the pervasiveness of the power-hop.
+CR Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Chakrabarti D., 2004, SIAM SDM 2004
+   Cho E., 2011, ACM SIGKDD 2011
+   Decker EH, 2000, ANNU REV ENERG ENV, V25, P685, DOI 10.1146/annurev.energy.25.1.685
+   Eguiluz VM, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.055102
+   FALOUTSOS M, 1999, COMPUT COMMUN REV, V29, P251, DOI DOI 10.1145/316194.316229
+   Girardet H, 1996, GAIA ATLAS CITIES NE
+   Goh KI, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.018701
+   Huberman BA, 1999, NATURE, V401, P131
+   Lacasa L, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.168703
+   Leskovec J., 2005, ECML PKDD 2005
+   Leskovec J., 2007, ACM T KNOWL DISCOV D, V1, P2, DOI DOI 10.1145/1217299.1217301
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Miller J. G., 1978, LIVING SYSTEMS
+   Newman M. E., 2010, NETWORKS INTRO
+   Newman MEJ, 1999, PHYS REV E, V60, P7332, DOI 10.1103/PhysRevE.60.7332
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Redner S, 1998, EUR PHYS J B, V4, P131, DOI 10.1007/s100510050359
+   Rozenfeld AF, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.218701
+   Serrano MA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.078701
+   Song CM, 2005, NATURE, V433, P392, DOI 10.1038/nature03248
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Svirejeva-Hopkins A, 2004, ECOL MODEL, V173, P295, DOI 10.1016/j.ecolmodel.2003.09.022
+   Vazquez A, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.046111
+   Viswanath B., 2009, P WORKSH ONL SOC NET, DOI [10.1145/1592665.1592675, DOI 10.1145/1592665.1592675]
+   Wang X. F., 2003, IEEE CIRCUITS SYSTEM, V3, P6, DOI DOI 10.1109/MCAS.2003.1228503
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 29
+TC 1
+Z9 1
+SN 1932-6203
+PD MAR 14
+PY 2016
+VL 11
+IS 3
+AR e0151027
+DI 10.1371/journal.pone.0151027
+UT WOS:000372570600043
+PM 26974560
+ER
+
+PT J
+AU Okulicz-Kozaryn, A
+AF Okulicz-Kozaryn, Adam
+TI Natural Sprawl
+SO ADMINISTRATION & SOCIETY
+DE city; sprawl; population density; nature; health; happiness; U; S;
+   Counties
+ID INCOME INEQUALITY; URBAN SPRAWL; RESIDENTIAL PREFERENCES;
+   PHYSICAL-ACTIVITY; HEALTH; LIFE; CITY; HAPPINESS
+AB Sprawling and leapfrogging suburbs, as opposed to compact central cities, appear peaceful, clean, and safe. They appear happy and healthy. On the other hand, suburbs look and feel fake, dull, and alienating. Which one is happier and healthier, sprawling or compact areas? I discuss pros and cons of sprawling and compact counties drawing on social and natural sciences. I also perform a simple quantitative exerciseI regress several wellbeing/health measures on sprawl and density at county level. Sprawl is measured with Ewing's index. Sprawling and low-density counties are healthier in terms of mentally and physically healthy days than non-sprawling counties, controlling for many predictors of health. I interpret it as the advantage of low-density living close to nature. Given rather unaesthetic nature of American suburbia, I argue that if we left more nature in suburbs, people living there would be even happier.
+CR ADAMS RE, 1992, J COMMUNITY PSYCHOL, V20, P353, DOI 10.1002/1520-6629(199210)20:4<353::AID-JCOP2290200409>3.0.CO;2-Z
+   BERRY BJL, 1976, SOCIETY, V13, P54, DOI 10.1007/BF02734813
+   Berry BJL, 2011, URBAN GEOGR, V32, P871, DOI 10.2747/0272-3638.32.6.871
+   Berry BJL, 2009, CITIES, V26, P117, DOI 10.1016/j.cities.2009.01.005
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bok D., 2010, POLITICS HAPPINESS W
+   Dreier P., 2005, STUDIES GOVT PUBLIC
+   Duany A., 2001, SUBURBAN NATION RISE
+   Easterlin R. A., 1974, NATIONS HOUSEHOLDS E, V89, P98
+   Eid J, 2008, J URBAN ECON, V63, P385, DOI 10.1016/j.jue.2007.12.002
+   ENGELS F, 1987, CONDITION WORKING CL
+   Ewing R, 2003, AM J HEALTH PROMOT, V18, P47, DOI 10.4278/0890-1171-18.1.47
+   Ewing R, 2005, EXERC SPORT SCI REV, V33, P69, DOI 10.1097/00003677-200504000-00003
+   Fassio O, 2013, SOC INDIC RES, V110, P479, DOI 10.1007/s11205-011-9940-4
+   Florida R., 2008, WHOS YOUR CITY
+   Frank R. H., 2005, EC HAPPINESS
+   Fromm E, 1964, HEART MAN ITS GENIUS, V12
+   Frumkin H, 2002, PUBLIC HEALTH REP, V117, P201, DOI 10.1093/phr/117.3.201
+   Frumkin P, 2001, AM J PREV MED, V20, P234, DOI 10.1016/S0749-3797(00)00317-2
+   FUGUITT GV, 1990, DEMOGRAPHY, V27, P589, DOI 10.2307/2061572
+   FUGUITT GV, 1975, DEMOGRAPHY, V12, P491, DOI 10.2307/2060831
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Helliwell J., 2010, W15911 NBER
+   Hobbs F., 2002, DEMOGRAPHIC TRENDS 2, V4
+   Jacobs J., 1993, DEATH LIFE GREAT AM
+   Kahneman D, 2004, SCIENCE, V306, P1776, DOI 10.1126/science.1103572
+   Kawachi I, 1997, BMJ-BRIT MED J, V314, P1037, DOI 10.1136/bmj.314.7086.1037
+   Kawachi I, 1997, AM J PUBLIC HEALTH, V87, P1491, DOI 10.2105/AJPH.87.9.1491
+   Kawachi I., 2006, HLTH NATIONS WHY INE
+   Lawless NM, 2011, SOC INDIC RES, V101, P341, DOI 10.1007/s11205-010-9667-7
+   Le Corbusier, 1931, NEW ARCHITECTURE
+   Lederbogen F, 2011, NATURE, V474, P498, DOI 10.1038/nature10190
+   Luttmer E., 2008, AM ECON J-ECON POLIC, V3, P157
+   Luttmer EFF, 2001, J POLIT ECON, V109, P500, DOI 10.1086/321019
+   Lynch J, 2004, MILBANK Q, V82, P5, DOI 10.1111/j.0887-378X.2004.00302.x
+   Mayer FS, 2009, ENVIRON BEHAV, V41, P607, DOI 10.1177/0013916508319745
+   O'Sullivan A., 2009, URBAN EC
+   Pretty J., 2012, EARTH ONLY ENDURES R
+   Putnam R. D, 2001, BOWLING ALONE COLLAP
+   Rehdanz K, 2005, ECOL ECON, V52, P111, DOI 10.1016/j.ecolecon.2004.06.015
+   Reynolds K. A, 2002, MOTHER EARTH NEWS, V2002, P128
+   Smith Adam, 1776, INQUIRY NATURE CAUSE
+   Stutzer A., 2003, IZA DISCUSSION PAPER
+   Subramanian SV, 2002, J URBAN HEALTH, V79, pS21, DOI 10.1093/jurban/79.suppl_1.S21
+   Veblen T, 2005, CONSPICUOUS CONSUMPT, V38
+   Veblen T., 2005, THEORY LEISURE CLASS
+   West G., 2011, SURPRISING MATH CITI
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Zimmerman FJ, 2006, J EPIDEMIOL COMMUN H, V60, P513, DOI 10.1136/jech.2005.040154
+NR 50
+TC 1
+Z9 1
+SN 0095-3997
+EI 1552-3039
+PD NOV
+PY 2016
+VL 48
+IS 9
+BP 1128
+EP 1150
+DI 10.1177/0095399714527755
+UT WOS:000385814100006
+ER
+
+PT J
+AU Haken, H
+   Portugali, J
+AF Haken, Hermann
+   Portugali, Juval
+TI Information and Selforganization: A Unifying Approach and Applications
+SO ENTROPY
+DE synergetics; Shannon information; pragmatic and semantic information;
+   order parameter; slaving principle; pattern formation/recognition;
+   synergetic computer; quasiattractors; ambivalent/hybrid images; saccadic
+   eye movements; consciousness; urban dynamics; exploratory behavior
+ID RECEPTIVE-FIELDS; MATHEMATICAL-THEORY; AMBIGUOUS PATTERNS;
+   PHASE-TRANSITIONS; PERCEPTION; CORTEX; LASER; PACE; COMMUNICATION;
+   CITIES
+AB Selforganization is a process by which the interaction between the parts of a complex system gives rise to the spontaneous emergence of patterns, structures or functions. In this interaction the system elements exchange matter, energy and information. We focus our attention on the relations between selforganization and information in general and the way they are linked to cognitive processes in particular. We do so from the analytical and mathematical perspective of the "second foundation of synergetics" and its "synergetic computer" and with reference to several forms of information: Shannon's information that deals with the quantity of a message irrespective of its meaning, semantic and pragmatic forms of information that deal with the meaning conveyed by messages and information adaptation that refers to the interplay between Shannon's information and semantic or pragmatic information. We first elucidate the relations between selforganization and information theoretically and mathematically and then by means of specific case studies.
+CR ACKLEY DH, 1985, COGNITIVE SCI, V9, P147
+   [Anonymous], 1976, GEN SYSTEM THEORY FD
+   Anselmi F., 2014, ARXIV13114158V5
+   Aristotle, METAPHYSICS, P8
+   Ashby WR, 1947, PSYCHOMETRIKA, V12, P135, DOI 10.1007/BF02295994
+   ATMANSPACHER H, 1990, CAN J PHYS, V68, P728, DOI 10.1139/p90-105
+   Atmanspacher H., 2015, REPROD PRINCIPLES PR, P233
+   Benard H., 1900, REV GEN SCI PURES AP, V11, P1309
+   Benard H, 1900, REV GEN SCI PURES AP, V11, P1261
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BORNSTEIN MH, 1976, NATURE, V259, P557, DOI 10.1038/259557a0
+   BORSELLINO A, 1972, KYBERNETIK, V10, P139, DOI 10.1007/BF00290512
+   Busemeyer J. R., 2012, QUANTUM MODELS COGNI
+   Coco MI, 2015, COGN PROCESS, V16, P131, DOI 10.1007/s10339-014-0642-0
+   Crick F., 1990, Seminars in the Neurosciences, V2, P263
+   CRICK F, 1990, COLD SH Q B, V55, P953
+   DEGIORGIO V, 1970, PHYS REV A-GEN PHYS, V2, P1170, DOI 10.1103/PhysRevA.2.1170
+   Dehaene S, 2001, COGNITION, V79, P1, DOI 10.1016/S0010-0277(00)00123-2
+   Dehaene S., 2014, CONSCIOUSNESS BRAIN
+   DITZINGER T, 1990, BIOL CYBERN, V63, P453, DOI 10.1007/BF00199577
+   DITZINGER T, 1989, BIOL CYBERN, V61, P279, DOI 10.1007/BF00203175
+   Epstein D, 1988, BEAUTY BRAIN BIOL AS
+   Findlay JM, 2009, VISION RES, V49, P1267, DOI 10.1016/j.visres.2008.07.005
+   Floridi L., 2015, SEMANTIC CONCEPTIONS
+   Floridi Luciano, 2011, PHILOS INFORM
+   Freeman WJ, 2005, CLIN NEUROPHYSIOL, V116, P1118, DOI 10.1016/j.clinph.2004.12.003
+   Freiwald WA, 2010, SCIENCE, V330, P845, DOI 10.1126/science.1194908
+   FRISTON KJ, 2012, FRONT PSYCHOL, V3
+   FUCHS A, 1988, BIOL CYBERN, V60, P17
+   Gibson J. J, 1979, ECOLOGICAL APPROACH
+   Gigerenzer G, 2015, SIMPLY RATIONAL DECI
+   Golani I, 1997, J MOTOR BEHAV, V29, P99, DOI 10.1080/00222899709600825
+   Golani I, 1999, APPL ANIM BEHAV SCI, V65, P191, DOI 10.1016/S0168-1591(99)00085-4
+   Gordon G, 2014, J NEUROSCI, V34, P12646, DOI 10.1523/JNEUROSCI.1872-14.2014
+   Graben P., 2006, MIND MATTER, V4, P131
+   GRAHAM R, 1970, Z PHYS, V237, P31, DOI 10.1007/BF01400474
+   Gray C.M., 1987, IBRO ABSTR NEUROSC S, V22, p1301P
+   Gray CM, 1999, NEURON, V24, P31, DOI 10.1016/S0896-6273(00)80820-X
+   Guckenheimer J., 2002, NONLINEAR OSCILLATIO
+   HAKEN H, 1990, SPRINGER SERIES SYNE, V45, P2
+   HAKEN H, 1964, Z PHYS, V181, P96, DOI 10.1007/BF01383921
+   Haken H, 2003, J ENVIRON PSYCHOL, V23, P385, DOI 10.1016/S0272-4944(03)00003-3
+   HAKEN H, 1985, BIOL CYBERN, V51, P347, DOI 10.1007/BF00336922
+   Haken H, 1996, PRINCIPLES BRAIN FUN
+   HAKEN H, 2002, BRAIN DYNAMICS
+   Haken H., 1983, ADV SYNERGETICS
+   Haken H, 2006, INFORM SELF ORG MACR
+   Haken H., 1996, GEOJOURNAL LIB, P45
+   Haken H., 2015, INFORM ADAPTATION IN
+   Haken H., 2003, SYNERGETICS INTRO AD
+   Haken H., 1979, PATTERN FORMATION DY, P2
+   Haken H., 1977, SYNERGETICS INTRO NO
+   Haken Hermann, 2004, SYNERGETIC COMPUTERS
+   Heinzle J, 2010, PSYCHOL REV, V117, P808, DOI 10.1037/a0019575
+   Henderson JM, 2003, TRENDS COGN SCI, V7, P498, DOI 10.1016/j.tics.2003.09.006
+   HEPP K, 1994, PERG S NEUR, P65
+   Hinton G, 2014, COGNITIVE SCI, V38, P1078, DOI 10.1111/cogs.12049
+   Huang GT, 2007, NEW SCI, V193, P35, DOI 10.1016/S0262-4079(07)60809-4
+   HUBEL DH, 1962, J PHYSIOL-LONDON, V160, P106, DOI 10.1113/jphysiol.1962.sp006837
+   HUBEL DH, 1965, J NEUROPHYSIOL, V28, P229
+   HUBEL DH, 1959, J PHYSIOL-LONDON, V148, P574, DOI 10.1113/jphysiol.1959.sp006308
+   JAYNES ET, 1957, PHYS REV, V106, P620, DOI 10.1103/PhysRev.106.620
+   JAYNES ET, 1957, PHYS REV, V108, P171, DOI 10.1103/PhysRev.108.171
+   Kandel E. R., 2012, AGE INSIGHT QUEST UN
+   KANDEL ER, 1979, BEHAV BIOL APLYSIA C
+   Karl F, 2012, ENTROPY-SWITZ, V14, P2100, DOI 10.3390/e14112100
+   Klyubin A.S., 2005, P 2005 IEEE C EV COM
+   Kohler W., 1940, DYNAMICS PSYCHOL
+   Kosslyn S. M., 1980, IMAGE MIND
+   KOSSLYN SM, 1978, J EXP PSYCHOL HUMAN, V4, P47, DOI 10.1037/0096-1523.4.1.47
+   KULLBACK S, 1987, AM STAT, V41, P340
+   Latimer KW, 2015, SCIENCE, V349, P184, DOI 10.1126/science.aaa4056
+   Leopold DA, 1999, TRENDS COGN SCI, V3, P254, DOI 10.1016/S1364-6613(99)01332-7
+   Levine RV, 1999, J CROSS CULT PSYCHOL, V30, P178, DOI 10.1177/0022022199030002003
+   Livingstone M., 2002, VISION ART BIOL SEEI
+   MATURANA HUMBERTO R., 1960, JOUR GEN PHYSIOL, V43, P129, DOI 10.1085/jgp.43.6.129
+   MILGRAM S, 1970, SCIENCE, V167, P1461, DOI 10.1126/science.167.3924.1461
+   Nicolis G, 1977, SELF ORG NONEQUILIBR
+   Oliva A, 1997, COGNITIVE PSYCHOL, V34, P72, DOI 10.1006/cogp.1997.0667
+   PASLACK R, 1991, URGESCHICHTE SELBSTO
+   Pelster A., 2016, SELF ORG COMPLEX SYS
+   Pomplun M, 1996, PERCEPTION, V25, P931, DOI 10.1068/p250931
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   Pylyshyn Zenon W., 1984, COMPUTATION COGNITIO
+   RISKEN H, 1965, Z PHYS, V186, P85, DOI 10.1007/BF01383512
+   SCHMIDT RC, 1990, J EXP PSYCHOL HUMAN, V16, P227, DOI 10.1037//0096-1523.16.2.227
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   SHEPARD RN, 1971, SCIENCE, V171, P701, DOI 10.1126/science.171.3972.701
+   SHEPARD RN, 1970, COGNITIVE PSYCHOL, V1, P1, DOI 10.1016/0010-0285(70)90002-2
+   Singer W, 1999, NEURON, V24, P49, DOI 10.1016/S0896-6273(00)80821-1
+   Tononi G, 2012, ARCH ITAL BIOL, V150, P56, DOI 10.4449/aib.v149i5.1388
+   Van der Stigchel S, 2011, J EYE MOVEMENT RES, V4
+   von Foerster H., 2003, UNDERSTING UNDERS
+   Walker R., 2012, SCHOLARPEDIA, V7, P5095, DOI DOI 10.4249/SCH0LARPEDIA.5095
+   WALMSLEY DJ, 1989, ENVIRON BEHAV, V21, P123, DOI 10.1177/0013916589212001
+   Wertheimer M, 1922, PSYCHOL FORSCH, V1, P47, DOI 10.1007/BF00410385
+   Wertheimer M, 1923, PSYCHOL FORSCH, V4, P301, DOI 10.1007/BF00410640
+   Wheatstone C., 1838, PHILOS T ROY SOC LON, V128, P371, DOI DOI 10.1098/RSTL.1838.0019
+   Wiener N., 1948, CYBERNETICS CONTROL
+   Wilson R. A., 2011, EMBODIED COGNITION
+   Yarbus A. L., 1967, EYE MOVEMENTS VISION
+   Yaski O, 2011, BEHAV BRAIN RES, V225, P449, DOI 10.1016/j.bbr.2011.07.055
+   Yaski O, 2011, ANIM COGN, V14, P655, DOI 10.1007/s10071-011-0400-y
+NR 103
+TC 5
+Z9 6
+SN 1099-4300
+PD JUN
+PY 2016
+VL 18
+IS 6
+AR 197
+DI 10.3390/e18060197
+UT WOS:000378843200004
+ER
+
+PT J
+AU Petersen, AM
+   Rotolo, D
+   Leydesdorff, L
+AF Petersen, Alexander M.
+   Rotolo, Daniele
+   Leydesdorff, Loet
+TI A triple helix model of medical innovation: Supply, demand, and
+   technological capabilities in terms of Medical Subject Headings
+SO RESEARCH POLICY
+DE Innovation model; Triple helix; Uncertainty; Redundancy; Synergy; Mutual
+   information; Medical innovation; Medical Subject Headings;
+   MEDLINE/PubMed
+ID INFORMATION; SCIENCE; SYSTEMS; LAWS; UNCERTAINTY; EMERGENCE; PATTERNS;
+   POLICY; GROWTH; CANCER
+AB We develop a model of innovation that enables us to trace the interplay among three key dimensions of the innovation process: (i) demand of and (ii) supply for innovation, and (iii) technological capabilities available to generate innovation in the forms of products, processes, and services. Building on triple helix research, we use entropy statistics to elaborate an indicator of mutual information among these dimensions that can provide indication of reduction of uncertainty. To do so, we focus on the medical context, where uncertainty poses significant challenges to the governance of innovation. We use the Medical Subject Headings (MeSH) of MEDLINE/PubMed to identify publications within the categories "Diseases" (C), "Drugs and Chemicals" (D), "Analytic, Diagnostic, and Therapeutic Techniques and Equipment" (E) and use these as knowledge representations of demand, supply, and technological capabilities, respectively. Three case-studies of medical research areas are used as representative 'entry perspectives' of the medical innovation process. These are: (i) human papilloma virus, (ii) RNA interference, and (iii) magnetic resonance imaging. We find statistically significant periods of synergy among demand, supply, and technological capabilities (C-D-E) that point to three-dimensional interactions as a fundamental perspective for the understanding and governance of the uncertainty associated with medical innovation. Among the pairwise configurations in these contexts, the demand-technological capabilities (C-E) provided the strongest link, followed by the supply-demand (D-C) and the supply-technological capabilities (D-E) channels. (C) 2015 Elsevier B.V. All rights reserved.
+RI Zuluaga Gaviria, Jennifer Daniela/T-2321-2017; Petersen,
+   Alexander/D-9243-2012
+OI Petersen, Alexander/0000-0002-0955-3483; Rotolo,
+   Daniele/0000-0001-8077-9840; Leydesdorff, Loet/0000-0002-7835-3098
+CR Abramson N., 1963, INFORM THEORY CODING
+   Agarwal P, 2009, NAT REV DRUG DISCOV, V8, P865, DOI 10.1038/nrd2973
+   Agarwal P, 2008, BRIEF BIOINFORM, V9, P479, DOI 10.1093/bib/bbn035
+   Amaral LAN, 1998, PHYS REV LETT, V80, P1385, DOI 10.1103/PhysRevLett.80.1385
+   Andersen E., 1994, EVOLUTIONARY EC POST
+   ANDERSEN ES, 1992, ARTIFICIAL EC EVOLUT
+   Serrano MA, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0005372
+   Arthur W. Brian, 2009, NATURE TECHNOLOGY
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blume S. S., 1992, IND INSIGHT DYNAMICS
+   Blumm N, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.128701
+   Boulding K, 1978, ECODYNAMICS NEW THEO
+   Braczyk H., 1998, REGIONAL INNOVATION
+   BRADSHAW G, 1991, PROGRAM OF THE THIRTEENTH ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, P605
+   Brooks D.R., 1986, EVOLUTION AS ENTROPY
+   Cancho RFI, 2003, P NATL ACAD SCI USA, V100, P788, DOI 10.1073/pnas.0335980100
+   Carlsson B, 2006, RES POLICY, V35, P56, DOI 10.1016/j.respol.2005.08.003
+   Chen CM, 2006, J AM SOC INF SCI TEC, V57, P359, DOI 10.1002/asi.20317
+   Consoli D, 2016, MED INNOVATION SCI T
+   COWAN R. Y., 1997, IND CORP CHANGE, V6, P595, DOI DOI 10.1093/ICC/6.3.595
+   DOSI G, 1982, RES POLICY, V11, P147, DOI 10.1016/0048-7333(82)90016-6
+   Etzkowitz H, 2000, RES POLICY, V29, P109, DOI 10.1016/S0048-7333(99)00055-4
+   Fire A, 1998, NATURE, V391, P806, DOI 10.1038/35888
+   Freeman C., 1997, EC IND INNOVATION
+   Freeman C, 1987, TECHNOLOGY POLICY EC
+   GARNER WR, 1956, PSYCHOMETRIKA, V21, P219, DOI 10.1007/BF02289132
+   Gelijns AC, 2001, J HEALTH POLIT POLIC, V26, P913, DOI 10.1215/03616878-26-5-913
+   GRILICHES Z, 1994, AM ECON REV, V84, P1
+   Hamilton AJ, 1999, SCIENCE, V286, P950, DOI 10.1126/science.286.5441.950
+   Haussecker D, 2015, SCIENCE, V347, P1069, DOI 10.1126/science.1252967
+   Haussecker D, 2012, MOL THER-NUCL ACIDS, V1, DOI 10.1038/mtna.2011.9
+   Heaps H. S., 1978, INFORM RETRIEVAL COM
+   Hogarth S, 2012, SOCIOL HEALTH ILL, V34, P234, DOI 10.1111/j.1467-9566.2011.01411.x
+   Horne Z, 2015, P NATL ACAD SCI USA, V112, P10321, DOI 10.1073/pnas.1504019112
+   Ivanova IA, 2014, TECHNOL FORECAST SOC, V86, P143, DOI 10.1016/j.techfore.2013.08.022
+   Jakulin A, 2005, THESIS U LJUBLJANA L
+   Khalil E., 1996, EVOLUTION ORDER COMP, DOI 10.4324/9780080939063
+   Kline S. J., 1986, POSITIVE SUM STRATEG, P275
+   Krippendorff K, 2009, INT J GEN SYST, V38, P669, DOI 10.1080/03081070902993160
+   Krippendorff K, 2009, INT J GEN SYST, V38, P189, DOI 10.1080/03081070802621846
+   LAUTERBUR PC, 1973, NATURE, V242, P190, DOI 10.1038/242190a0
+   Leydesdorff L, 1998, J SOCIAL EVOLUTIONAR, V21, P173
+   Leydesdorff L, 2014, J ASSOC INF SCI TECH, V65, P386, DOI 10.1002/asi.22973
+   Leydesdorff L, 2014, SCIENTOMETRICS, V99, P27, DOI 10.1007/s11192-013-1079-4
+   Leydesdorff L, 2012, J AM SOC INF SCI TEC, V63, P2239, DOI 10.1002/asi.22715
+   Leydesdorff L, 2011, J AM SOC INF SCI TEC, V62, P846, DOI 10.1002/asi.21509
+   Lundavall B-A, 1988, TECHNICAL CHANGE EC, P349
+   Lundin P, 2011, NAT BIOTECHNOL, V29, P493, DOI 10.1038/nbt.1885
+   Malerba F., 2004, SECTORAL INNOVATION
+   Marinova D, 2003, INT HDB INNOVATION, P44
+   Martin BR, 2012, RES POLICY, V41, P1219, DOI 10.1016/j.respol.2012.03.012
+   Maturana H, 2000, SYST RES BEHAV SCI, V17, P459, DOI 10.1002/1099-1743(200009/10)17:5<459::AID-SRES371>3.0.CO;2-I
+   MCGILL WJ, 1954, PSYCHOMETRIKA, V19, P97
+   McLuhan Marshal, 1964, UNDERSTANDING MEDIA
+   Mutschke P, 2001, SCIENTOMETRICS, V52, P487, DOI 10.1023/A:1014256102041
+   National Library of Medicine, 2015, C JUST FY 2015
+   Nelson R. R, 1982, EVOLUTIONARY THEORY
+   Nelson RR, 2011, RES POLICY, V40, P1339, DOI 10.1016/j.respol.2011.06.014
+   NELSON RR, 1977, RES POLICY, V6, P36, DOI 10.1016/0048-7333(77)90029-4
+   Nelson RR, 1993, NATL SYSTEMS INNOVAT
+   Newell Allen, 1972, HUMAN PROBLEM SOLVIN
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Nightingale P, 2003, IND CORP CHANGE, V12, P477, DOI 10.1093/icc/12.3.477
+   PEREZ C, 1983, FUTURES, V15, P357, DOI 10.1016/0016-3287(83)90050-2
+   Petersen AM, 2012, SCI REP-UK, V2, DOI 10.1038/srep00943
+   Petersen AM, 2012, SCI REP-UK, V2, DOI 10.1038/srep00313
+   Petersen AM, 2014, P NATL ACAD SCI USA, V111, P15316, DOI 10.1073/pnas.1323111111
+   Price DJ, 1963, LITTLE SCI BIG SCI
+   Puglisi A, 2008, P NATL ACAD SCI USA, V105, P7936, DOI 10.1073/pnas.0802485105
+   Rotolo D., 2016, J ASS INF SCI TECHNO
+   Rotolo D, 2015, RES POLICY, V44, P1827, DOI 10.1016/j.respol.2015.06.006
+   Schot J, 2007, J EVOL ECON, V17, P605, DOI 10.1007/s00191-007-0057-5
+   Scudellari M, 2013, NATURE, V503, P330, DOI 10.1038/503330a
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   Shi F, 2015, SOC NETWORKS, V43, P73, DOI 10.1016/j.socnet.2015.02.006
+   Stephan PE, 1996, J ECON LIT, V34, P1199
+   Stirling A, 2007, EMBO REP, V8, P309, DOI 10.1038/sj.embor.7400953
+   Sung JJ, 2006, TECHNOL ANAL STRATEG, V18, P345, DOI 10.1080/09537320600777119
+   Theil H., 1972, STAT DECOMPOSITION A
+   Ulanowicz RE, 2009, ECOL MODEL, V220, P1886, DOI 10.1016/j.ecolmodel.2009.04.015
+   Von Hippel E., 1988, SOURCES INNOVATION
+   Yao LX, 2015, NAT BIOTECHNOL, V33, P807, DOI 10.1038/nbt.3276
+   Yeung R. W., 2008, INFORM THEORY NETWOR
+   Yockey Hubert P., 2005, INFORM THEORY EVOLUT
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+   zur Hausen H, 1987, Appl Pathol, V5, P19
+   ZURHAUSEN H, 1976, CANCER RES, V36, P794
+NR 88
+TC 14
+Z9 14
+SN 0048-7333
+EI 1873-7625
+PD APR
+PY 2016
+VL 45
+IS 3
+BP 666
+EP 681
+DI 10.1016/j.respol.2015.12.004
+UT WOS:000370101900007
+ER
+
+PT J
+AU Chen, YG
+   Wang, JJ
+AF Chen, Yanguang
+   Wang, Jiejing
+TI Describing Urban Evolution with the Fractal Parameters Based on
+   Area-Perimeter Allometry
+SO DISCRETE DYNAMICS IN NATURE AND SOCIETY
+ID SPATIOTEMPORAL EVOLUTION; CELLULAR-AUTOMATA; LAND-USE; DIMENSION; FORM;
+   MORPHOLOGY; CITIES; GROWTH; DYNAMICS; SHAPE
+AB The area-perimeter allometric scaling is an important approach for researching fractal cities, and the basic ideas and models have been researched for a long time. However, the fractal parameters based on this scaling relation have not been efficiently utilized in urban studies. This paper is devoted to developing a description method of urban evolution using the fractal parameter sets based on the area-perimeter measure relation. The novelty of this methodology is as follows: first, the form dimension and boundary dimension are integrated to characterize the urban structure and texture; second, the global and local parameters are combined to characterize an urban system and individual cities; third, an entire analytical process based on the area-perimeter scaling is illustrated. Two discoveries are made in this work: first, a dynamic proportionality factor can be employed to estimate the local boundary dimension; second, the average values of the local fractal parameters are approximately equal to the corresponding global fractal parameters of cities. By illustrating how to carry out the area-perimeter scaling analysis of Chinese cities in Yangtze River Delta in the case of remote sensing images with low resolution, we propose a possible new approach to exploring fractal systems of cities.
+CR ADDISON PS, 1997, FRACTALS CHAOS ILLUS
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   BATTY M, 1988, ENVIRON PLANN B, V15, P461, DOI 10.1068/b150461
+   BATTY M, 1991, ENVIRON PLANN A, V23, P511, DOI 10.1068/a230511
+   Batty M, 1999, DISCRETE DYN NAT SOC, V3, P109, DOI 10.1155/S1026022699000151
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Benguigui L, 2006, ENVIRON PLANN B, V33, P269, DOI 10.1068/b31118
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   Benguigui L, 2001, ENVIRON PLANN B, V28, P447, DOI 10.1068/b2703
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Chang X.L., 1998, ACTA ECOLOGICA SINIC, V18, P225
+   Chang X. L., 1996, J DESERT RES, V16, P222
+   Chen T., 1995, THESIS NE NORMAL U C
+   Chen YG, 2013, ENVIRON PLANN B, V40, P884, DOI 10.1068/b36155
+   Chen YG, 2013, CHAOS SOLITON FRACT, V54, P150, DOI 10.1016/j.chaos.2013.07.010
+   Chen YG, 2013, CHAOS SOLITON FRACT, V49, P47, DOI 10.1016/j.chaos.2013.02.006
+   Chen YG, 2011, COMPUT ENVIRON URBAN, V35, P442, DOI 10.1016/j.compenvurbsys.2011.05.008
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/974917
+   Chen YG, 2009, CHAOS SOLITON FRACT, V39, P49, DOI 10.1016/j.chaos.2007.01.130
+   Chen YG, 2010, DISCRETE DYN NAT SOC, V22, P2010
+   CHENG QM, 1995, MATH GEOL, V27, P69, DOI 10.1007/BF02083568
+   De Keersmaecker ML, 2003, GEOGR ANAL, V35, P310, DOI 10.1353/geo.2003.0014
+   Feder Jens, 1988, FRACTALS
+   Feng JA, 2010, ENVIRON PLANN B, V37, P838, DOI 10.1068/b35078
+   Frankhauser P., 1994, FRACTICAL ASPECTS UR
+   Frankhauser Pierre, 1998, POPULATION ENGLISH S, V10, P205
+   Haggett P., 1977, LOCATIONAL ANAL HUMA
+   Henry J., 2002, SCI REVOLUTION ORIGI
+   Imre AR, 2006, APPL MATH COMPUT, V173, P443, DOI 10.1016/j.amc.2005.04.042
+   Imre AR, 2004, ACTA BIOTHEOR, V52, P41, DOI 10.1023/B:ACBI.0000015911.56850.0f
+   Kane G, 2005, SCI AM, V293, P40, DOI 10.1038/scientificamerican0705-40
+   Kaye B. K., 1989, RANDOM WALK FRACTAL
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   LONGLEY PA, 1989, COMPUT GEOSCI, V15, P167, DOI 10.1016/0098-3004(89)90032-0
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   LONGLEY PA, 1989, GEOGR ANAL, V21, P47
+   Luo H., 2014, DISCRETE DYN NAT SOC, V2014
+   Mandelbrot BB, 1983, FRACTAL GEOMETRY NAT
+   Richard J. A., 2013, REMOTE SENSING DIGIT
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Song Y., 2012, AREAL RES DEV, V31, P45
+   Takayasu H., 1990, FRACTALS PHYS SCI
+   Thomas I, 2008, LANDSCAPE URBAN PLAN, V84, P99, DOI 10.1016/j.landurbplan.2007.07.002
+   Thomas I, 2007, PAP REG SCI, V86, P287, DOI 10.1111/j.1435-5957.2007.00122.x
+   Thomas I, 2010, ENVIRON PLANN B, V37, P942, DOI 10.1068/b36039
+   [王新�? Wang Xinsheng], 2005, [地理学报, Acta Geographica Sinica], V60, P392
+   WHITE R, 1994, CHAOS SOLITON FRACT, V4, P563, DOI 10.1016/0960-0779(94)90066-3
+   White R, 1998, DISCRETE DYN NAT SOC, V2, P111, DOI 10.1155/S1026022698000090
+   Yang D. L., 1998, CALAMITY REFORM CHIN
+   Zhu X. H., 2007, FRACTAL FRACTAL DIME
+NR 52
+TC 0
+Z9 0
+SN 1026-0226
+EI 1607-887X
+PY 2016
+AR 4863907
+DI 10.1155/2016/4863907
+UT WOS:000371514500001
+ER

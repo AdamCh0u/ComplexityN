@@ -1,0 +1,425 @@
+
+PT J
+AU Barthelemy, M
+AF Barthelemy, Marc
+TI From paths to blocks: New measures for street patterns
+SO ENVIRONMENT AND PLANNING B-URBAN ANALYTICS AND CITY SCIENCE
+DE Network graphs; network structure; space syntax; street networks; urban
+   morphology
+ID URBAN ROAD NETWORKS; SPATIAL NETWORKS; PLANAR MAPS; CITIES; BETWEENNESS;
+   CENTRALITY
+AB The street network is an important aspect of cities and contains crucial information about their organization and evolution. Characterizing and comparing various street networks could then be helpful for a better understanding of the mechanisms governing the formation and evolution of these systems. Their characterization is however not easy: there are no simple tools to classify planar networks and most of the measures developed for complex networks are not useful when space is relevant. Here, we describe recent efforts in this direction and new methods adapted to spatial networks. We will first discuss measures based on the structure of shortest paths, among which the betweenness centrality. In particular for time-evolving road networks, we will show that the spatial distribution of the betweenness centrality is able to reveal the impact of important structural transformations. Shortest paths are however not the only relevant ones. In particular, they can be very different from those with the smallest number of turns-the simplest paths. The statistical comparison of the lengths of the shortest and simplest paths provides a nontrivial and nonlocal information about the spatial organization of planar graphs. We define the simplicity index as the average ratio of these lengths and the simplicity profile characterizes the simplicity at different scales. Measuring these quantities on artificial (roads, highways, railways) and natural networks (leaves, insect wings) show that there are fundamental differences-probably related to their different function-in the organization of urban and biological systems: there is a clear hierarchy of the lengths of straight lines in biological cases, but they are randomly distributed in urban systems. The paths are however not enough to fully characterize the spatial pattern of planar networks such as streets and roads. Another promising direction is to analyze the statistics of blocks of the planar network. More precisely, we can use the conditional probability distribution of the shape factor of blocks with a given area, and define what could constitute the fingerprint of a city. These fingerprints can then serve as a basis for a classification of cities based on their street patterns. This method applied on more than 130 cities in the world leads to four broad families of cities characterized by different abundances of blocks of a certain area and shape. This classification will be helpful for identifying dominant mechanisms governing the formation and evolution of street patterns.
+CR Al Sayed K, 2009, P 7 INT SPAC SYNT S
+   Aldous DJ, 2010, STAT SCI, V25, P275, DOI 10.1214/10-STS335
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Barthelemy M, 2004, EUR PHYS J B, V38, P163, DOI 10.1140/epjb/e2004-00111-4
+   Barthelemy M, 2013, SCI REPORTS, V3
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M., 2005, CITIES COMPLEXITY
+   Ben-Joseph E., 2003, STREETS SHAPING TOWN
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bouttier J, 2004, ELECTRON J COMB, V11
+   Cardillo A., 2006, PHYS REV E, V73
+   Chan SHY, 2011, EUR PHYS J B, V84, P563, DOI 10.1140/epjb/e2011-10889-3
+   Clark J., 1991, 1 LOOK GRAPH THEORY, V1
+   Courtat T, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036106
+   Crucitti P, 2006, PHYS REV E, V73
+   Fialkowski M, 2008, LANDSCAPE ECOLOGY, V23
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gastner MT, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/01/P01015
+   Haggett P, 1969, NETWORK ANAL GEOGRAP
+   Hillier B., 1984, SOCIAL LOGIC SPACE
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2007, PHYSICA A, V384, P647, DOI 10.1016/j.physa.2007.05.064
+   Jonsson P., 1997, QUANTUM GEOMETRY STA
+   Jordan David P., 1995, TRANSFORMING PARIS L
+   Katifori E, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037994
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Louf R, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0924
+   Marshall S., 2006, STREETS AND PATTERNS
+   Masucci AP, 2009, EUR PHYS J B, V71, P259, DOI 10.1140/epjb/e2009-00290-4
+   Mileyko Y, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036715
+   Penn A, 2003, ENVIRON BEHAV, V35, P30, DOI 10.1177/0013916502238864
+   Perna A, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.066106
+   Porta S, 2011, URBAN STUDIES
+   Porta S, 2006, ENVIRON PLANN B, V33, P705, DOI 10.1068/b32045
+   Porta S, 2006, PHYSICA A, V369, P853, DOI 10.1016/j.physa.2005.12.063
+   Ramalho CE, 2012, TRENDS ECOL EVOL, V27, P179, DOI 10.1016/j.tree.2011.10.008
+   Rosvall M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.028701
+   Shpuza E, 2009, P 7 INT SPAC SYNT S
+   Strano E, 2013, ENVIRON PLANN B, V40, P1071, DOI 10.1068/b38216
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   Turner BL, 2007, P NATL ACAD SCI USA, V104, P20666, DOI 10.1073/pnas.0704119104
+   TUTTE WT, 1963, CANADIAN J MATH, V15, P249, DOI 10.4153/CJM-1963-029-x
+   Venerandi A, 2014, ARXIV14112984
+   Viana MP, 2013, SCI REP-UK, V3, DOI 10.1038/srep03495
+   Xie F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/j.1538-4632.2007.00707.x
+   Xie F, 2009, COMPUT ENVIRON URBAN, V33, P211, DOI 10.1016/j.compenvurbsys.2008.09.009
+NR 47
+TC 2
+Z9 3
+SN 2399-8083
+EI 2399-8091
+PD MAR
+PY 2017
+VL 44
+IS 2
+BP 256
+EP 271
+DI 10.1177/0265813515599982
+UT WOS:000397517300004
+ER
+
+PT J
+AU Pincetl, S
+AF Pincetl, Stephanie
+TI Cities in the age of the Anthropocene: Climate change agents and the
+   potential for mitigation
+SO ANTHROPOCENE
+DE Anthropocene; Cities; Globalization; Fossil fuels; Well-being; Ethics
+ID URBAN METABOLISM; CITY; INFRASTRUCTURE; SUSTAINABILITY; GLOBALIZATION;
+   POLITICS; ECOLOGY; GROWTH; STATE; WATER
+AB Cities are human creations where many of the emissions causing climate change originate. Every aspect of daily life in cities, which spans buildings, transit, food, energy, and water, relies on fossil fuels that materially contribute to climate change. This paper explores the need for research to better uncover the processes driving urbanization in order to develop novel ways to mitigate climate impacts on Earth. Areas of fruitful research include better quantification of teleconnections between cities and their hinterlands and coupling those to the socio-economic drivers and organization of those relationships; the financialization of much urban policy; understanding where cities fit in the global economic order and their role in generating economic growth, and the ways in which they are also seen as leaders of sustainability and climate actions, but constrained in so-doing by the nested and tiered layers of institutions they operate within. This paper concludes by outlining ways for cities to transition toward nurturing human well-being and reducing their impacts on planetary processes resulting in the proposed new Earth epoch - the Anthropocene. (c) 2017 Elsevier Ltd. All rights reserved.
+CR Angelo H, 2015, INT J URBAN REGIONAL, V39, P16, DOI 10.1111/1468-2427.12105
+   [Anonymous], THOUGHT ANC TIM END
+   Bawden T., 2016, INDEPENDENT
+   Beatley T., 1998, ECOLOGY PLACE PLANNI
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Birch EL, 2008, CITY 21ST CENTURY, P1
+   Bostic H, 2017, ANTHROPOCENE, V18, P105, DOI 10.1016/j.ancene.2017.06.002
+   Brenner N., 1998, FIXITY MOTION ACCUMU
+   Bridge G, 2013, ENERG POLICY, V53, P331, DOI 10.1016/j.enpol.2012.10.066
+   Bulkeley H., 2014, HOUSING RECONFIGURAT
+   Bulkeley H., 2011, CITIES LOW CARBON TR
+   Bulkeley H, 2014, GLOBAL ENVIRON CHANG, V25, P31, DOI 10.1016/j.gloenvcha.2014.01.009
+   Cartier C, 2015, TERRIT POLIT GOV, V3, P294, DOI 10.1080/21622671.2015.1005125
+   Cerny PG, 1997, GOV OPPOS, V32, P251, DOI 10.1111/j.1477-7053.1997.tb00161.x
+   Chakrabarty D, 2009, CRIT INQUIRY, V35, P197, DOI 10.1086/596640
+   Cousins JJ, 2015, GEOFORUM, V58, P38, DOI 10.1016/j.geoforum.2014.10.011
+   Dale Jamieson Dale, 2014, REASON DARK TIME WHY
+   Davis M, 2006, PLANET SLUMS
+   Derudder B, 2012, INTERNATIONAL HANDBOOK OF GLOBALIZATION AND WORLD CITIES, P1
+   Dobson A, 2003, CITIZENSHIP ENV
+   EPSTEIN G.A., 2005, FINANCIALIZATION WOR
+   Evans J, 2016, EXPT CITY
+   Graedel T.E., 2011, PROSPECTS URBAN MINI, P43
+   Gurney KR, 2015, NATURE, V525, P179, DOI 10.1038/525179a
+   Hackworth J., 2007, NEOLIBERAL CITY GOVE
+   Harvey David, 1989, URBAN EXPERIENCE
+   Hodgson G., 2015, CONCEPTUALIZING CAPI
+   Isenhour C, 2015, NEW DIRECTION SUSTAI, P1, DOI 10.1017/CBO9781139923316
+   Jessop B, 1998, INT SOC SCI J, V50, P29, DOI 10.1111/1468-2451.00107
+   Jessop B., 2016, STATE PRESENT FUTURE
+   Jonas AEG, 2018, PROG HUM GEOG, V42, P350, DOI 10.1177/0309132516679897
+   Jonas AEG, 2013, GEOPOLITICS, V18, P284, DOI 10.1080/14650045.2012.723290
+   Keil R, 2003, URBAN GEOGR, V24, P723, DOI 10.2747/0272-3638.24.8.723
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kennedy C., 2009, P CIT CLIM CHANG RES, P28
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Krueger R., 2017, URBAN THEORY NEW CRI
+   Lefebvre H, 2003, URBAN REVOLUTION
+   Lefebvre H., 1979, URBAN REVOLUTION
+   Liu JG, 2015, SCIENCE, V347, DOI 10.1126/science.1258832
+   Marcotullio PJ, 2013, CLIMATIC CHANGE, V121, P621, DOI 10.1007/s10584-013-0977-z
+   Marsh J.P., 1865, MAN NATURE
+   McDonald R., 2015, SOLUTIONS J, V6, P60
+   McDonald RI, 2014, GLOBAL ENVIRON CHANG, V27, P96, DOI 10.1016/j.gloenvcha.2014.04.022
+   McNeill J. R, 2000, SOMETHING NEW SUN EN
+   Newbold T, 2016, SCIENCE, V353, P288, DOI 10.1126/science.aaf2201
+   Newman PWG, 1999, LANDSCAPE URBAN PLAN, V44, P219, DOI 10.1016/S0169-2046(99)00009-2
+   Pain K., 2012, INT HDB GLOBALIZATIO, P89
+   Piketty Thomas, 2014, CAPITAL 21 CENTURY
+   Pincetl S., 2015, J IND ECOL
+   Pincetl S, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8090842
+   Pincetl S, 2014, J IND ECOL, V18, P871, DOI 10.1111/jiec.12144
+   Pincetl S, 2012, LANDSCAPE URBAN PLAN, V107, P193, DOI 10.1016/j.landurbplan.2012.06.006
+   Pinson G, 2016, TERRIT POLIT GOV, V4, P137, DOI 10.1080/21622671.2016.1166982
+   Polese M, 2005, URBAN STUD, V42, P1429, DOI 10.1080/00420980500150839
+   Porse E, 2016, ENERG POLICY, V96, P179, DOI 10.1016/j.enpol.2016.06.002
+   ROSSI U, 2017, CITIES GLOBAL CAPITA
+   Ruddiman WF, 2007, REV GEOPHYS, V45, DOI 10.1029/2006RG000207
+   Sassen S, 2000, CITIES WORLD EC
+   Scott A. J., 2001, GLOBAL CITY REGIONS, P11
+   Scott AJ, 2001, EUR PLAN STUD, V9, P813, DOI 10.1080/09654310120079788
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P7687, DOI 10.1073/pnas.1117622109
+   Smil V., 2014, MAKING MODERN WORLD
+   Solecki W, 2015, URBAN CLIM, V14, P116, DOI 10.1016/j.uclim.2015.07.001
+   Steffen W, 2015, ANTHROPOCENE REV, V2, P81, DOI 10.1177/2053019614564785
+   Storper M, 2013, KEYS TO THE CITY: HOW ECONOMICS, INSTITUTIONS, SOCIAL INTERACTIONS, AND POLITICS SHAPE DEVELOPMENT, P1
+   Storper M., 1995, EUROPEAN URBAN REGIO, V2, P191, DOI DOI 10.1177/096977649500200301
+   UNEP, 2016, GLOB MAT FLOWS RES P
+   Unruh GC, 2000, ENERG POLICY, V28, P817, DOI 10.1016/S0301-4215(00)00070-7
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Vlahov D, 2007, J URBAN HEALTH, V84, pI16, DOI 10.1007/s11524-007-9169-3
+   While A, 2010, T I BRIT GEOGR, V35, P76, DOI 10.1111/j.1475-5661.2009.00362.x
+   Wilson Edward, 1996, SEARCH OF NATURE
+   WOLMAN A, 1965, SCI AM, V213, P179
+   World Commission on Environment and Development (WCED), 1987, OUR COMM FUT
+   2014, CLIMATE CHANGE 2014, P1
+NR 76
+TC 5
+Z9 5
+SN 2213-3054
+PD DEC
+PY 2017
+VL 20
+BP 74
+EP 82
+DI 10.1016/j.ancene.2017.08.001
+UT WOS:000423549300008
+ER
+
+PT J
+AU Shpuza, E
+AF Shpuza, Ermal
+TI Relative size measures of urban form based on allometric subtraction
+SO ENVIRONMENT AND PLANNING B-URBAN ANALYTICS AND CITY SCIENCE
+DE Relativization; allometric scaling; body condition; residual index;
+   street network
+ID BODY CONDITION; SPACE SYNTAX; STREET NETWORKS; CONFIGURATION; EQUATION;
+   GROWTH; SHAPE; MISCALCULATION; UNIVERSALITY; ADJUSTMENT
+AB One of the most common relativization techniques in life sciences quantifies body condition based on residuals from the linear regression in the log-log plot of body mass against a linear measure of size. Given the network-based analogy between organisms and cities, the method is applied to comparative urban studies to formulate relativized allometric measures based on the allometry to size of metric and topological measures of street networks. The analysis of a sample of 70 cities from a confined region considered in three historical stages demonstrates that the more allometric scaling of a measure to size diverges from the linear, the more allometric measures show discrepancy to the existing relativization methods that are based on mean measures and ratios between measures. Allometric measures reflect the dynamics of specific regional samples of cities and therefore also differ from relativization methods that relate measures that grow exponentially with size against static theoretical yardsticks. The comparison involving two additional samples of cities from other regions suggests that the proposed allometric measures can be used to approximate size-invariant measures for cities with unknown allometry more reliably than existing relativization measures. The method can be applied to formulate relativized indices for any measure that displays allometry to size in various scales of the built environment.
+CR ALBERCH P, 1979, PALEOBIOLOGY, V5, P296
+   ALBRECHT GH, 1993, AM J PHYS ANTHROPOL, V91, P441, DOI 10.1002/ajpa.1330910404
+   Barthelemy M., 2013, SCI REPORTS, P1
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty Michael., 2013, NEW SCI CITIES
+   BERGHAUSER PONT M., 2010, SPACEMATRIX SPACE DE
+   Bertalanffy L, 1951, THEORETISCHE BIOL
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bookstein F. L., 1978, LECT NOTES BIOMATHEM, V24
+   Branch M, 1997, ATLAS RARE CITY MAPS
+   Carvalho R, 2004, PHYSICA A, V332, P539, DOI 10.1016/j.physa.2003.10.024
+   Conroy-Dalton R, 2007, P 6 INT SPAC SYNT S
+   Dalton N, 2005, P 5 INT SPAC SYBT S, P103
+   DESIMONE G, 1995, J AM COLL CARDIOL, V25, P1056, DOI 10.1016/0735-1097(94)00540-7
+   GAI and IGM, 1955, AER PHOT
+   Garcia-Berthou E, 2001, J ANIM ECOL, V70, P708, DOI 10.1046/j.1365-2656.2001.00524.x
+   Goethe JW, 1817, MORPHOLOGIE, V1, P7
+   GOULD SJ, 1975, CONTRIB PRIMATOL, V5, P244
+   Green AJ, 2001, ECOLOGY, V82, P1473, DOI 10.2307/2680003
+   HAFLEY WL, 1969, BIOSCIENCE, V19, P974, DOI 10.2307/1294972
+   Harvey P. H., 1991, COMP METHOD EVOLUTIO
+   HEUSNER AA, 1982, RESP PHYSIOL, V48, P1, DOI 10.1016/0034-5687(82)90046-9
+   HILLIER B, 1993, ENVIRON PLANN B, V20, P29, DOI 10.1068/b200029
+   Hillier B, 2004, ENVIRON PLANN B, V31, P501, DOI 10.1068/b3019a
+   HILLIER B, 1989, EKISTICS, V56, P5
+   Hillier B., 1987, ARCHITECTURE COMPORT, V3, P233
+   Hillier B., 1984, SOCIAL LOGIC SPACE
+   Hillier B., 1993, HARVARD ARCHITECTURE, V9, P8
+   Huxley J. S., 1932, PROBLEMS RELATIVE GR
+   Jacobs A, 1996, GREAT STREETS
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Jakob EM, 1996, OIKOS, V77, P61, DOI 10.2307/3545585
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2007, PHYSICA A, V384, P647, DOI 10.1016/j.physa.2007.05.064
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   KRONMAL RA, 1993, J ROY STAT SOC A STA, V156, P379, DOI 10.2307/2983064
+   Kruger M, 1989, EUR C RESPR MAN URB, P1
+   Kruger M, 2012, J SPACE SYNTAX, V3, P194
+   Leaman A., 1976, ENVIRON PLANN B, V3, P147, DOI [DOI 10.1068/B030147, 10.1068/b030147]
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   March L, 1971, GEOMETRY ENV INTRO S
+   MEDEIROS Vera Alarcon B, 2006, THESIS
+   Mohajeri N, 2015, TRANSPORT RES D-TR E, V35, P116, DOI 10.1016/j.trd.2014.11.025
+   Naroll RS, 1956, GEN SYST, V1, P76
+   NEVILL AM, 1995, J APPL PHYSIOL, V79, P1027
+   Ostwald MJ, 2011, NEXUS NETW J, V13, P445, DOI 10.1007/s00004-011-0075-3
+   Penn A, 2003, ENVIRON BEHAV, V35, P30, DOI 10.1177/0013916502238864
+   PEPONIS J, 1989, EKISTICS, V56, P43
+   PEPONIS J, 1985, HUM RELAT, V38, P357, DOI 10.1177/001872678503800405
+   Peponis J, 2000, COMP SPATIAL A UNPUB
+   Peponis J, 2008, ENVIRON PLANN B, V35, P881, DOI 10.1068/b33088
+   Portugali J, 2012, COMPLEXITY THEORIES
+   Ratti C, 2004, ENVIRON PLANN B, V31, P487, DOI 10.1068/b3019
+   REIST JD, 1986, CAN J ZOOL, V64, P1363, DOI 10.1139/z86-203
+   Rode P, 2014, ENVIRON PLANN B, V41, P138, DOI 10.1068/b39065
+   Rohrer F, 1921, MUNCHEN MED WOCHEN, V68, P580
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Schulte-Hostedde AI, 2001, CAN J ZOOL, V79, P1021, DOI 10.1139/cjz-79-6-1021
+   Shpuza E, 2014, ENVIRON PLANN B, V41, P450, DOI 10.1068/b39109
+   Shpuza E, 2011, AI EDAM, V25, P357, DOI 10.1017/S0890060411000217
+   Siksna A., 1997, URBAN MORPHOL, V1, P19
+   SMITH RJ, 1984, J THEOR BIOL, V108, P131, DOI 10.1016/S0022-5193(84)80174-5
+   SOUTHWORTH M, 1993, J AM PLANN ASSOC, V59, P271, DOI 10.1080/01944369308975880
+   Steadman P, 2004, ENVIRON PLANN B, V31, P483, DOI 10.1068/b3104ed
+   Steadman P, 1979, EVOLUTION DESIGNS BI
+   Steadman P., 1983, ARCHITECTURAL MORPHO
+   Steadman P, 2014, ENVIRON PLANN B, V41, P341, DOI 10.1068/b39141
+   Steadman P, 2010, ENVIRON PLANN B, V37, P197, DOI 10.1068/b35102t
+   Stewart JQ, 1947, GEOGR REV, V37, P461, DOI 10.2307/211132
+   TANNER JM, 1949, J APPL PHYSIOL, V2, P1
+   TEKLENBURG JAF, 1993, ENVIRON PLANN B, V20, P347, DOI 10.1068/b200347
+   Thompson D. A., 1961, GROWTH FORM ABRIDGED
+   Turner A, 2010, UCL DEPTHMAP SPATIAL
+   White R, 1997, ENVIRON PLANN B, V24, P323, DOI 10.1068/b240323
+   ZAR JH, 1968, BIOSCIENCE, V18, P1118, DOI 10.2307/1294589
+NR 78
+TC 0
+Z9 0
+SN 2399-8083
+EI 2399-8091
+PD JAN
+PY 2017
+VL 44
+IS 1
+BP 141
+EP 159
+DI 10.1177/0265813515611420
+UT WOS:000397516900008
+ER
+
+PT J
+AU Bergesen, JD
+   Suh, S
+   Baynes, TM
+   Musango, JK
+AF Bergesen, Joseph D.
+   Suh, Sangwon
+   Baynes, Timothy M.
+   Musango, Josephine Kaviti
+TI Environmental and natural resource implications of sustainable urban
+   infrastructure systems
+SO ENVIRONMENTAL RESEARCH LETTERS
+DE life cycle assessment; urban metabolism; bus rapid transit;
+   decarbonization; district energy; green buildings
+ID LIFE-CYCLE ASSESSMENT; CITIES; EMISSIONS; IMPACTS; ENERGY; GAS
+AB As cities grow, their environmental and natural resource footprints also tend to grow to keep up with the increasing demand on essential urban services such as passenger transportation, commercial space, and thermal comfort. The urban infrastructure systems, or socio-technical systems providing these services are the major conduits through which natural resources are consumed and environmental impacts are generated.
+   This paper aims to gauge the potential reductions in environmental and resources footprints through urban transformation, including the deployment of resource-efficient socio-technical systems and strategic densification. Using hybrid life cycle assessment approach combined with scenarios, we analyzed the greenhouse gas (GHG) emissions, water use, metal consumption and land use of selected socio-technical systems in 84 cities from the present to 2050. The socio-technical systems analyzed are: (1) bus rapid transit with electric buses, (2) green commercial buildings, and (3) district energy. We developed a baseline model for each city considering gross domestic product, population density, and climate conditions. Then, we overlaid three scenarios on top of the baseline model: (1) decarbonization of electricity, (2) aggressive deployment of resource-efficient socio-technical systems, and (3) strategic urban densification scenarios to each city and quantified their potentials in reducing the environmental and resource impacts of cities by 2050.
+   The results show that, under the baseline scenario, the environmental and natural resource footprints of all 84 cities combined would increase 58%-116% by 2050. The resource-efficient scenario along with strategic densification, however, has the potential to curve down GHG emissions to 17% below the 2010 level in 2050. Such transformation can also limit the increase in all resource footprints to less than 23% relative to 2010. This analysis suggests that resource-efficient urban infrastructure and decarbonization of electricity coupled with strategic densification have a potential to mitigate resources and environmental footprints of growing cities.
+RI Baynes, Timothy/D-4738-2011
+OI Baynes, Timothy/0000-0001-8416-3365; Suh, Sangwon/0000-0001-8290-6276
+CR [Anonymous], 2010, EC DAT V2 2
+   Baiocchi G, 2010, J IND ECOL, V14, P50, DOI 10.1111/j.1530-9290.2009.00216.x
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BizEE Degree Days, 2016, BIZEE DEGR DAYS WEAT
+   Chester M, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/1/015041
+   Chow TT, 2004, APPL ENERG, V79, P275, DOI 10.1016/j.apenergy.2004.01.002
+   Cooney G, 2013, J IND ECOL, V17, P689, DOI 10.1111/jiec.12024
+   Deru M, 2011, NRELTP550046861
+   Eckelman MJ, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/021004
+   Eriksson O, 2007, ENERG POLICY, V35, P1346, DOI 10.1016/j.enpol.2006.04.005
+   Eudy L., 2016, FOOTHILL TRANSIT BAT
+   Fahlen E, 2012, ENERG CONVERS MANAGE, V60, P115, DOI 10.1016/j.enconman.2012.02.009
+   Gibon T, 2015, ENVIRON SCI TECHNOL, V49, P11218, DOI 10.1021/acs.est.5b01558
+   Goedkoop M., 2009, RECIPE 2008 LIFE CYC
+   Goldstein B, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035024
+   Hawkins TR, 2013, J IND ECOL, V17, P53, DOI 10.1111/j.1530-9290.2012.00532.x
+   Heinonen J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035050
+   Heinonen J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/025003
+   Heinonen J, 2011, INT J LIFE CYCLE ASS, V16, P569, DOI 10.1007/s11367-011-0289-3
+   Heinonen J, 2011, ENVIRON RES LETT, V6, DOI 10.1088/1748-9326/6/1/014018
+   Hertwich E. G., 2015, GREEN ENERGY CHOICES
+   Hertwich EG, 2015, P NATL ACAD SCI USA, V112, P6277, DOI 10.1073/pnas.1312753111
+   Huppes G, 2006, J IND ECOL, V10, P129, DOI 10.1162/jiec.2006.10.3.129
+   International Energy Agency, 2013, TRANS SUST BUILD STR
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   Jones CM, 2011, ENVIRON SCI TECHNOL, V45, P4088, DOI 10.1021/es102221h
+   Kennedy CA, 2014, NAT CLIM CHANGE, V4, P343, DOI 10.1038/NCLIMATE2160
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kennedy CA, 2015, P NATL ACAD SCI USA, V112, P5985, DOI 10.1073/pnas.1504315112
+   Kenworthy J, 2001, UITP MILLENNIUM CITI
+   Knutsson D, 2006, ENERGY, V31, P278, DOI 10.1016/j.energy.2005.02.005
+   lEA, 2012, EN TECHN PERSP 2012
+   Levinson H, 2003, 90 TCRP, V1
+   Minx J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035039
+   OECD, 2016, GDP LONG TERM FOR IN
+   Oliver-Sola J, 2009, ENERG POLICY, V37, P4711, DOI 10.1016/j.enpol.2009.06.025
+   Seto KC, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, P923
+   Singh S, 2015, ENVIRON POLLUT, V203, P271, DOI 10.1016/j.envpol.2015.03.039
+   Suh S, 2004, ECOL ECON, V48, P451, DOI 10.1016/j.ecolecon.2003.10.013
+   Suh S., 2017, GREEN TECHNOLOGY CHO
+   Suh SW, 2014, ENVIRON SCI TECHNOL, V48, P2551, DOI 10.1021/es4040792
+   Swilling M, 2013, CITY LEVEL DECOUPLIN
+   Taptich MN, 2016, J IND ECOL, V20, P329, DOI 10.1111/jiec.12391
+   Tukker A, 2013, ECON SYST RES, V25, P50, DOI 10.1080/09535314.2012.761952
+   UNEP, 2015, DISTR EN CIT UNL POT
+   UNFCCC, 2015, FCCCCP2015L9REV1
+   United Nations Department for Economic and Social Affairs (UN DESA), 2014, WORLD URB PROSP 2014
+   United Nations Population Division, 2015, ESAPWP241 UN POP DIV
+   USGBC, 2016, GREEN BUILD FACTS
+NR 49
+TC 1
+Z9 1
+SN 1748-9326
+PD DEC
+PY 2017
+VL 12
+IS 12
+AR 125009
+DI 10.1088/1748-9326/aa98ca
+UT WOS:000417925700003
+ER
+
+PT J
+AU Hasan, S
+   Wang, XM
+   Khoo, YB
+   Foliente, G
+AF Hasan, Samiul
+   Wang, Xiaoming
+   Khoo, Yong Bing
+   Foliente, Greg
+TI Accessibility and socio-economic development of human settlements
+SO PLOS ONE
+ID CITIES; GROWTH; INFRASTRUCTURE; CONNECTIVITY; RESILIENCE; AUSTRALIA;
+   NETWORKS
+AB Access to facilities, services and socio-economic opportunities plays a critical role in the growth and decline of cities and human settlements. Previous attempts to explain changes in socio-economic indicators by differences in accessibility have not been convincing as countries with highly developed transport infrastructure have only seen marginal benefits of infrastructure improvements. Australia offers an ideal case for investigating the effects of accessibility on development since it is seen as home to some of the most liveable cities in the world while, at the same time, it also has some of the most isolated settlements. We investigate herein the connectivity and accessibility of all 1814 human settlements (population centers exceeding 200 persons) in Australia, and how they relate to the socio-economic characteristics of, and opportunities in, each population center. Assuming population as a proxy indicator of available opportunities, we present a simple ranking metric for a settlement using the number of population and the distance required to access all other settlements (and the corresponding opportunities therein). We find a strikingly unequal distribution of access to opportunities in Australia, with a marked prominence of opportunities in capital cities in four of the eight states. The two largest cities of Sydney and Melbourne have a dominant position across all socio-economic indicators, compared to all the other cities. In general, we observe across all the settlements that a decrease in access to opportunities is associated with relatively greater socio-economic disadvantage including increased median age and unemployment rate and decreased median household income. Our methodology can be used to better understand the potential benefits of improved accessibility based on infrastructure development, especially for remote areas and for cities and towns with many socio-economically disadvantaged population.
+RI Wang, Xiaoming/A-3804-2008
+OI Wang, Xiaoming/0000-0002-1088-8862; Hasan, Samiul/0000-0002-5828-3352
+CR Alsnih R, 2003, TRANSPORT RES A-POL, V37, P903, DOI 10.1016/S0965-8564(03)00073-9
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Australian Bureau of Statistics, 2013, TECHN PAP SOC IND AR
+   Banister D., 2001, J TRANSP GEOGR, V9, P209, DOI DOI 10.1016/S0966-6923(01)00013-8
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Behrens K, 2014, ECON J, V124, P1371, DOI 10.1111/ecoj.12099
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Biehl D., 1991, INFRASTRUCTURE REGIO, V1, P9
+   Brelsford C., 2017, P NATL ACAD SCI USA, DOI 10.1073/pnas.160603311428461489
+   Martin JC, 2007, TRANSPORT REV, V27, P551, DOI 10.1080/01441640701322610
+   Commonwealth of Australia, 2015, OUR N OUR FUT WHIT P
+   Condeco-Melhorado A., 2014, ACCESSIBILITY SPATIA
+   Demurger S, 2001, J COMP ECON, V29, P95, DOI 10.1006/jcec.2000.1693
+   Department of Health and Aged Cared (DHAC), 2001, MEAS REM ACC REM IND
+   DUNCOMBE W, 2001, INT J POPULATION GEO, V7, P281, DOI DOI 10.1002/IJPG.227
+   Economist Intelligence Unit, 2015, GLOB LIV RANK
+   FOTHERINGHAM AS, 1989, PAP REG SCI ASSOC, V67, P55, DOI 10.1007/BF01934667
+   FRIEDMANN J, 1986, DEV CHANGE, V17, P69, DOI 10.1111/j.1467-7660.1986.tb00231.x
+   Fullerton B, 1988, REGIONAL IMPACT COMM, P88
+   Gray I., 2001, FUTURE REGIONAL AUST
+   Handy S. L., 1993, REGIONAL VERSUS LOCA
+   Handy SL, 1997, ENVIRON PLANN A, V29, P1175, DOI 10.1068/a291175
+   HANSEN WG, 1959, J AM I PLANNERS, V25, P73, DOI 10.1080/01944365908978307
+   Litman T.A., 2010, DICT TRANSPORTANAL, P1
+   Luck GW, DEMOGRAPHIC CHANGE A, P353
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   McKenzie FH, 2011, RANGELAND J, V33, P353, DOI 10.1071/RJ11024
+   National Rural Health Alliance Inc, 2013, SNAPSH POV RUR REG A
+   Reggiani A, 2015, TRANSPORT RES A-POL, V81, P4, DOI 10.1016/j.tra.2014.12.012
+   Reggiani A, 2012, NECTAR SER TRANSP, P15
+   Rietveld P, 1993, EUROPEAN TRANSPORT E, P130
+   Sarkar S, 2016, ENV PLAN B
+   Smith MS, 2008, RANGELAND J, V30, P3, DOI 10.1071/RJ07063
+   Sornette D., 2009, SWISS FINANC I RES P
+   Taylor MAP, 2012, TRANSPORT RES A-POL, V46, P761, DOI 10.1016/j.tra.2012.02.008
+   United Nations Department of Economic and Social Affairs Population Division, 2015, WORLD URB PROSP 2014
+   Vickerman R, 1999, REG STUD, V33, P1, DOI 10.1080/00343409950118878
+   VICKERMAN RW, 1994, J COMMON MARK STUD, V32, P1, DOI 10.1111/j.1468-5965.1994.tb00482.x
+NR 39
+TC 1
+Z9 1
+SN 1932-6203
+PD JUN 21
+PY 2017
+VL 12
+IS 6
+AR e0179620
+DI 10.1371/journal.pone.0179620
+UT WOS:000404118300042
+PM 28636630
+ER

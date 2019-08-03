@@ -1,0 +1,599 @@
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI Multi-scaling allometric analysis for urban and regional development
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Allometric growth; Allometric scaling; Fractal dimension; Complex
+   spatial system; Spatio-temporal evolution; Urbanization
+ID ZIPFS LAW; CITIES; GROWTH; SIZE; EVOLUTION; GEOMETRY; SHAPE; LIFE
+AB The concept of allometric growth is based on scaling relations, and it has been applied to urban and regional analysis for a long time. However, most allometric analyses were devoted to the single proportional relation between two elements of a geographical system. Few researches focus on the allometric scaling of multielements. In this paper, a process of multiscaling allometric analysis is developed for the studies on spatio-temporal evolution of complex systems. By means of linear algebra, general system theory, and by analogy with the analytical hierarchy process, the concepts of allometric growth can be integrated with the ideas from fractal dimension. Thus a new methodology of geo-spatial analysis and the related theoretical models emerge. Based on the least squares regression and matrix operations, a simple algorithm is proposed to solve the multiscaling allometric equation. Applying the analytical method of multielement allometry to Chinese cities and regions yields satisfying results. A conclusion is reached that the multiscaling allometric analysis can be employed to make a comprehensive evaluation for the relative levels of urban and regional development, and explain spatial heterogeneity. The notion of multiscaling allometry may enrich the current theory and methodology of spatial analyses of urban and regional evolution. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Chen, Yanguang] Peking Univ, Dept Geog, Coll Environm Sci, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Dept Geog, Coll Environm Sci, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [41590843, 41671167]
+FX This research was sponsored by the National Natural Science Foundation
+   of China (Grant Nos. 41590843 & 41671167). Many thanks to the four
+   anonymous reviewers, whose interesting constructive comments are helpful
+   for improving the quality of this paper.
+CR Allen PM, 1997, CITIES REGIONS SELF
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Bak P, 1996, NATURE WORKS SCI SEL
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M, 2005, CITIES COMPLEXITY UN
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   Berry B. J. L., 2005, PAPERS REGIONAL SCI, V13, P147, DOI DOI 10.1111/J.1435-5597.1964.TB01283.X
+   Bertalanffy L, 1968, GEN SYSTEM THEORY FD
+   Bertalanffy L.von, 1952, Evolution, V6, P387
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   CARROLL GR, 1982, PROG HUM GEOG, V6, P1
+   Chen T., 1995, THESIS
+   Chen Y., 2008, FRACTAL URBAN SYSTEM
+   Chen Y.G., 2008, URBAN DEV STUD, V15, P81
+   Chen Y.G., 1997, B SCI TECHNOLOGY, V13, P233
+   Chen YG, 2016, PHYSICA A, V443, P555, DOI 10.1016/j.physa.2015.09.083
+   Chen YG, 2014, CHAOS SOLITON FRACT, V65, P65, DOI 10.1016/j.chaos.2014.04.017
+   Chen YG, 2014, FRACTALS, V22, DOI 10.1142/S0218348X14500017
+   Chen YG, 2013, CHAOS SOLITON FRACT, V49, P47, DOI 10.1016/j.chaos.2013.02.006
+   Chen YG, 2012, PHYSICA A, V391, P3285, DOI 10.1016/j.physa.2011.12.031
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   Chen YG, 2009, CHAOS SOLITON FRACT, V41, P615, DOI 10.1016/j.chaos.2008.02.035
+   Chen YG, 2009, CHAOS SOLITON FRACT, V39, P49, DOI 10.1016/j.chaos.2007.01.130
+   Chen Yanguang, 1999, J XINYANG TEACHERS C, V12, P198
+   Chen YG, 1998, B SCI TECH, V14, P395
+   Chen YG, 2012, J GEOGRAPHY GEOLOGY, V4, P118
+   Damuth J, 2001, P NATL ACAD SCI USA, V98, P2113, DOI 10.1073/pnas.051011198
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Feder J, 1988, FRACTALS
+   Fotheringham A.S., 1989, SPATIAL INTERACTION
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   Golledge R.G., 1972, 10 ASS AM GEOGR TECH, P1
+   Gordon K., 2005, SCI AM, V293, P40
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   Haggett P., 1977, LOCATIONAL ANAL HUMA
+   Haggett P, 2001, GEOGRAPHY GLOBAL SYN
+   He JH, 2006, CHAOS SOLITON FRACT, V27, P864, DOI 10.1016/j.chaos.2005.04.081
+   Henry J., 2002, SCI REVOLUTION ORIGI
+   KAC M, 1969, SCIENCE, V166, P695, DOI 10.1126/science.166.3906.695
+   Kantz H., 1997, NONLINEAR TIME SERIE
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lee T.D., 1988, SYMMETRIES ASYMMETRI
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   LO CP, 1977, ANN ASSOC AM GEOGR, V67, P246, DOI 10.1111/j.1467-8306.1977.tb01137.x
+   Lo CP, 2002, ANN ASSOC AM GEOGR, V92, P225, DOI 10.1111/1467-8306.00288
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   LONGLEY PA, 1989, GEOGR ANAL, V21, P47
+   Longley PA, 1999, APPL GEOGRAPHY PRINC, P605
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Naroll RS, 1956, GEN SYST, V1, P76
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   PACKARD NH, 1980, PHYS REV LETT, V45, P712, DOI 10.1103/PhysRevLett.45.712
+   Portugali J., 2000, SELF ORG CITY
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   PUMAIN D, 1997, GEOJOURNAL, V43, P307
+   Pumain D, 2006, CYBERGEO, V343, P20
+   Saaty T. L, 1999, DECISION MAKING LEAD
+   Saaty TL, 2008, RACSAM REV R ACAD A, V102, P251, DOI 10.1007/BF03191825
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Small CG, 1996, STAT THEORY SHAPE
+   Takayasu H., 1990, FRACTALS PHYS SCI
+   Takens F., 1981, LECT NOTES MATH, V898, P366, DOI DOI 10.1007/BFB0091924
+   Tobler W.R., 1969, AREA, V1, P30
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   West GB, 2002, P NATL ACAD SCI USA, V99, P2473, DOI 10.1073/pnas.012579799
+   WILLIAMS GP, 1997, CHAOS THEORY TAMED
+   Wilson A. G., 2000, COMPLEX SPATIAL SYST
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zhou Yixing, 1995, URBAN GEOGRAPHY
+NR 79
+TC 5
+Z9 6
+U1 1
+U2 21
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD JAN 1
+PY 2017
+VL 465
+BP 673
+EP 689
+DI 10.1016/j.physa.2016.08.008
+PG 17
+WC Physics, Multidisciplinary
+SC Physics
+GA EA2GV
+UT WOS:000386411700066
+DA 2019-03-26
+ER
+
+PT J
+AU Aguacil, S
+   Lufkin, S
+   Reya, E
+   Cuchi, A
+AF Aguacil, Sergi
+   Lufkin, Sophie
+   Reya, Emmanuel
+   Cuchi, Albert
+TI Application of the cost-optimal methodology to urban renewal projects at
+   the territorial scale based on statistical data-A case study in Spain
+SO ENERGY AND BUILDINGS
+LA English
+DT Article
+DE Cost-optimal methodology; cost-effective strategies; Urban renewal;
+   Sustainable retrofit; Environmental assessment; Decision-making tool;
+   Residential building; Sustainable architecture
+ID ZERO-ENERGY BUILDINGS; RESIDENTIAL BUILDINGS; MULTIOBJECTIVE
+   OPTIMIZATION; OFFICE BUILDINGS; PERFORMANCE; STOCK; RENOVATION;
+   STRATEGIES; RETROFIT; DESIGN
+AB As tomorrow's cities are already largely built, many strategies stress the importance of urban renewal processes to address current energy issues. This paper focuses on the Spanish residential building stock built until 2001, which has a low level of energy performance.
+   Considering the current economic crisis, the future lies in renovating the built environment, which holds a significant energy-saving potential. This potential is here quantified by applying the cost-optimal methodology, initially proposed by the Energy Performance of Buildings Directive, and which calculates cost-optimal levels of minimum energy performance requirements at the building and component scale.
+   The originality of our study lies in the application of this methodology at the territorial scale, comparing different retrofitting scenarios by scaling-up building-scale results through an archetypal approach. We also describe an Excel-based tool allowing two types of studies: (i) at the building scale, for one archetype in a particular climatic zone; (ii) at the territorial scale, to have an overview of all building archetypes and climatic zones simultaneously. Results include economic aspects, energy consumption and savings and associated emissions.
+   The outcome can help construction-sector firms adapt their business plan, while also providing stake-holders with decision-support to promote a sustainable renewal of the building stock. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Aguacil, Sergi; Lufkin, Sophie; Reya, Emmanuel] Ecole Polytech Fed Lausanne, LAST, Lausanne, Switzerland.
+   [Cuchi, Albert] Univ Politecn Cataluna, Valles Sch Architecture ETSAV, Res Grp Architecture Energy & Environm AIEM, Dept Architectural Technol, Barcelona, Spain.
+RP Aguacil, S (reprint author), Ecole Polytech Fed Lausanne, LAST, Lausanne, Switzerland.
+EM sergi.aguacil@epfl.ch
+RI Cuchi, Albert/K-8712-2017
+OI Cuchi, Albert/0000-0001-7767-0908; Aguacil Moreno,
+   Sergi/0000-0003-4606-474X
+FU National Research Programme "Energy Turnaround" of the Swiss National
+   Science Foundation (SNSF) [NRP 70]
+FX The authors would like to express their gratitude to the National
+   Research Programme "Energy Turnaround" (NRP 70) of the Swiss National
+   Science Foundation (SNSF) for their financial support to the ACTIVE
+   INTERFACES research project, which represents a continuation of certain
+   reflexions undertaken within the framework of this study.
+CR Aelenei L, 2015, ENERGY PROCEDIA, P2022
+   Aguacil S., 2013, EVALUATION COST OPTI
+   Aguacil S., 2016, SUSTAIN BUILT ENV 20, P234
+   Akbari H., 2012, ENERGY BUILD, V55, P889
+   [Anonymous], 2011, PLAN AH EF EN 2011 2, P268
+   [Anonymous], 2011, PRINC NEARL ZER EN B
+   Ruiz PA, 2014, ENERG BUILDINGS, V80, P158, DOI 10.1016/j.enbuild.2014.05.020
+   Asadi E, 2012, BUILD ENVIRON, V56, P370, DOI 10.1016/j.buildenv.2012.04.005
+   Ascione F, 2015, ENERG BUILDINGS, V88, P78, DOI 10.1016/j.enbuild.2014.11.058
+   Ashrafian T, 2016, ENERG BUILDINGS, V120, P58, DOI 10.1016/j.enbuild.2016.03.074
+   Attia S, 2013, ENERG BUILDINGS, V60, P110, DOI 10.1016/j.enbuild.2013.01.016
+   Ballarini I, 2014, ENERG POLICY, V68, P273, DOI 10.1016/j.enpol.2014.01.027
+   Bermejo P., 2014, LA RAZON, P44
+   Bourrelle JS, 2013, ENERG BUILDINGS, V65, P84, DOI 10.1016/j.enbuild.2013.05.038
+   BPIE, 2013, IMPL COST OPT METH E
+   BPIE (Building Performance Institute Europe), 2015, NEARL ZER EN BUILD D, P8
+   BPIE (Buildings Performance Institute Europe), 2011, EUR BUILD MICR COUNT
+   Comision Europea, 2014, ENERGIA
+   Comunidad de Madrid, 2011, GUIA EST PASSIVHAUS, P203
+   Congedo PM, 2015, ENERGY, V91, P967, DOI 10.1016/j.energy.2015.08.078
+   Corrado V, 2014, ENRGY PROCED, V45, P443, DOI 10.1016/j.egypro.2014.01.048
+   Cuchi A., 2012, GTR REPORT 2012 NATL
+   Cuchi A., 2014, GTR REPORT 2014 STRA
+   Cuchi A., 2012, SCENARIOS REDUCTION
+   Cuchi A., 2011, GTR REPORT 2011 NATL
+   CYPE Ingenieross, 2016, DAT CONSTR PROD SYST
+   D'Agostino D, 2015, J BUILD ENG, V1, P20, DOI 10.1016/j.jobe.2015.01.002
+   Dall'O' G, 2012, SUSTAIN CITIES SOC, V4, P12, DOI 10.1016/j.scs.2012.01.004
+   Dascalaki EG, 2011, ENERG BUILDINGS, V43, P3400, DOI 10.1016/j.enbuild.2011.09.002
+   de Vasconcelos AB, 2016, ENERG BUILDINGS, V111, P12, DOI 10.1016/j.enbuild.2015.11.006
+   de Vasconcelos AB, 2015, APPL ENERG, V140, P316, DOI 10.1016/j.apenergy.2014.11.035
+   Domingo-Irigoyen S, 2015, ENRGY PROCED, V78, P2385, DOI 10.1016/j.egypro.2015.11.194
+   eceee, 2011, COST OPT BUILD PERF
+   EFINOVATIC, 2016, CE3X
+   Enseling A., 2012, IMPLEMENTING COST OP
+   European Commission, 2011, COMO2011885, P23
+   European Commission, 2015, EUROSTAT PROD CONSTR
+   Fabbri K, 2014, ENRGY PROCED, V45, P379, DOI 10.1016/j.egypro.2014.01.041
+   Flourentzou F, 2002, ENERG BUILDINGS, V34, P185, DOI 10.1016/S0378-7788(01)00106-2
+   Fokaides PA, 2014, ENERG BUILDINGS, V68, P203, DOI 10.1016/j.enbuild.2013.09.006
+   Gangolells M, 2016, J CLEAN PROD, V112, P3895, DOI 10.1016/j.jclepro.2015.05.105
+   Gangolells M, 2012, BUILD RES INF, V40, P645, DOI 10.1080/09613218.2012.698069
+   Hernandez P, 2010, ENERG BUILDINGS, V42, P815, DOI 10.1016/j.enbuild.2009.12.001
+   I. U. The Economist, 2013, THE ECONOMIST, P1
+   IDAE, 2011, EN PERF RAT EX BUILD
+   IEA, 2013, TRANS SUST BUILD
+   Institute Nacional de Estadistica, 2001, 2001 POP HOUS CENS
+   Instituto Nacional de Estadistica, 2011, 2011 POP HOUS CENS
+   Intelligent Energy Europe, 2016, TYP APPR BUILD STOCK
+   Jakob M, 2006, ENERG POLICY, V34, P172, DOI 10.1016/j.enpol.2004.08.039
+   Kapsalaki M, 2012, ENERG BUILDINGS, V55, P765, DOI 10.1016/j.enbuild.2012.10.022
+   Kovacic I, 2015, J CLEAN PROD, V88, P349, DOI 10.1016/j.jclepro.2014.04.080
+   Kurnitski J., 2011, REHVA J, P36
+   lEA, 2010, EN PERF CERT BUILD P, P64
+   Lee S. H., 2014, REV EXISTING ENERGY
+   MINETUR Current state of the energy certification of buildings, 2015, CURR STAT EN CERT BU
+   National Energy Commission, 2016, MONTHL B EL EC IND 2
+   Panao MJNO, 2013, ENERG BUILDINGS, V61, P161, DOI 10.1016/j.enbuild.2013.02.031
+   Parekh A., 2005, 9 INT IBPSA C MONTR, P921
+   Pikas E, 2015, ENERG BUILDINGS, V86, P151, DOI 10.1016/j.enbuild.2014.10.004
+   Pikas E, 2014, ENERG BUILDINGS, V74, P30, DOI 10.1016/j.enbuild.2014.01.039
+   Pombo O, 2016, ENERG BUILDINGS, V116, P384, DOI 10.1016/j.enbuild.2016.01.019
+   Rey E., 2015, BUILDING INTEGRATED
+   Schwehr R, 2010, BUILDING TYPOLOGY MO, P11
+   SFOE, 2015, EN STRAT 2050
+   Spanish building regulation, 2013, SPAN BUILD REG DOC B, V2013, P1
+   Spanish government, 2013, REG REN URB, P47964
+   Steskens P., 2015, ENERGY PROCEDIA, P997
+   Stocker E, 2015, ENERG BUILDINGS, V100, P20, DOI 10.1016/j.enbuild.2015.04.005
+   Suisse Energie, 2016, SOC 2000 WATTS
+   Swan LG, 2009, RENEW SUST ENERG REV, V13, P1819, DOI 10.1016/j.rser.2008.09.033
+   Triami Media Euribor-rates, 2016, TRIAMI MEDIA
+   Uihlein A, 2010, ENERG BUILDINGS, V42, P791, DOI 10.1016/j.enbuild.2009.11.016
+   Zaca I, 2015, ENERG BUILDINGS, V102, P250, DOI 10.1016/j.enbuild.2015.04.038
+NR 74
+TC 1
+Z9 1
+U1 4
+U2 17
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7788
+EI 1872-6178
+J9 ENERG BUILDINGS
+JI Energy Build.
+PD JUN 1
+PY 2017
+VL 144
+BP 42
+EP 60
+DI 10.1016/j.enbuild.2017.03.047
+PG 19
+WC Construction & Building Technology; Energy & Fuels; Engineering, Civil
+SC Construction & Building Technology; Energy & Fuels; Engineering
+GA EU9XM
+UT WOS:000401393000004
+DA 2019-03-26
+ER
+
+PT J
+AU Chrispim, MC
+   Tarpeh, WA
+   Salinas, DTP
+   Nolasco, MA
+AF Chrispim, Mariana C.
+   Tarpeh, William A.
+   Salinas, Delhi T. P.
+   Nolasco, Marcelo A.
+TI The sanitation and urban agriculture nexus: urine collection and
+   application as fertilizer in Sao Paulo, Brazil
+SO JOURNAL OF WATER SANITATION AND HYGIENE FOR DEVELOPMENT
+LA English
+DT Article
+DE fertilizer; nexus; source separation; urine
+ID SOURCE-SEPARATED URINE; PLANT-GROWTH; NITROGEN; SOILS; WATER;
+   PHOSPHORUS; BORON; LAND; CORN; TERM
+AB Separately collected urine is an attractive potential fertilizer because of its high nutrient content, lowcost, and inherent linkage of urbanwastewatermanagement and peri-urban agriculture. Urine from waterless urinals was applied to corn and lettuce plants to examine the impact of urine application rates and frequency on plant growth and soil parameters. In both corn and lettuce experiments, urine application significantly (p < 0.05) increased growth and leaf production relative to control plants. More frequent applications led to lower soil cation exchange capacities for corn and higher soil nitrogen content for both crops. Based on preliminary implementation calculations, waterless urinals at the University of Sao Paulo (USP), School of Arts, Sciences, and Humanities campus could lead to over 1,500 m(3) of water saved and 360 m3 of urine produced on an annual basis. These experiments and modeling results are discussed in the context of scaling up urban urine collection, transport, and fertilization in Sao Paulo, Brazil.
+C1 [Chrispim, Mariana C.; Salinas, Delhi T. P.; Nolasco, Marcelo A.] Univ Sao Paulo, Sch Arts Sci & Humanities, 1000 Arlindo Bettio Ave, BR-03828000 Sao Paulo, SP, Brazil.
+   [Tarpeh, William A.] Univ Calif Berkeley, Dept Civil & Environm Engn, 410 OBrien Hall, Berkeley, CA 94720 USA.
+RP Nolasco, MA (reprint author), Univ Sao Paulo, Sch Arts Sci & Humanities, 1000 Arlindo Bettio Ave, BR-03828000 Sao Paulo, SP, Brazil.
+EM mnolasco@usp.br
+RI Paiva, Delhi/G-2975-2013
+OI Paiva, Delhi/0000-0003-4086-4762; Nolasco, Marcelo/0000-0002-1408-2954
+FU Sao Paulo State Research Foundation, Brazil [FAPESP-Processes]
+   [2010/18241-6, 2010/50653-2]
+FX The authors thank the Sao Paulo State Research Foundation, Brazil
+   [FAPESP-Processes: 2010/18241-6 and 2010/50653-2] for supporting this
+   work. We also acknowledge the University of Sao Paulo for providing
+   space and the necessary support to conduct the study and the people who
+   used the waterless urinal for the current study. Prof. Marcelo Nolasco
+   is very grateful to Prof. Kara Nelson and her Research Group for the
+   necessary assistance during the preparation of this paper while he was
+   Visiting Scholar at the CEE, University of California Berkeley, USA. The
+   authors declare no conflicting financial interests in presenting this
+   research.
+CR Akpan-Idiok AU, 2012, RESOUR CONSERV RECY, V62, P14, DOI 10.1016/j.resconrec.2012.02.003
+   [Anonymous], 2013, EPA832F13002
+   Berndtsson JC, 2006, BUILD ENVIRON, V41, P427, DOI 10.1016/j.buildenv.2005.02.006
+   Bischel HN, 2015, WATER RES, V85, P57, DOI 10.1016/j.watres.2015.08.022
+   Bond T, 2013, WATER SCI TECHNOL, V67, P935, DOI 10.2166/wst.2013.628
+   Botto M. P., 2013, REV ELETRONICA GEST, V1, P98
+   BOUMAN OT, 1995, SOIL SCI SOC AM J, V59, P1488, DOI 10.2136/sssaj1995.03615995005900050039x
+   BUSO GSC, 1988, PLANT SOIL, V111, P67, DOI 10.1007/BF02182038
+   Caldarelli Carlos Eduardo, 2012, Nova econ., V22, P141, DOI 10.1590/S0103-63512012000100005
+   Cardoso GT, 2017, PROCEDIA ENVIRON SCI, V37, P528, DOI 10.1016/j.proenv.2017.03.028
+   Chrispim MC, 2017, J CLEAN PROD, V142, P290, DOI 10.1016/j.jclepro.2016.07.162
+   Coelho A. M., 2011, SOIL FERTILITY NUTR
+   COOK WP, 1991, HORTSCIENCE, V26, P250
+   DRANGERT JO, 1998, GEOJOURNAL, V45, P201, DOI DOI 10.1023/A:1006968110875
+   Etter B, 2011, WATER RES, V45, P852, DOI 10.1016/j.watres.2010.10.007
+   FAO, 2004, FERT US CROP BRAZ
+   FERREIRA A. C. B., 2001, SCI AGR, V58, P131, DOI DOI 10.1590/S0103-90162001000100020
+   Galvao J. R., 2009, REV CIENCIA AGRARIA, V52, P137
+   Gensch R., 2011, URINE LIQUID FERTILI
+   Guadarrama R., 2002, P 1 INT C EC SAN NAN
+   Gutser R, 2005, J PLANT NUTR SOIL SC, V168, P439, DOI 10.1002/jpln.200520510
+   Guzha E, 2005, PHYS CHEM EARTH, V30, P840, DOI 10.1016/j.pce.2005.08.028
+   IAC, 2005, 200 IAC CTR AN TECHN
+   IBGE, 2011, ATL SAN, V3
+   Larsen T. A, 2007, NOMIXA NEW APPROACH
+   LEPSCH IF, 1994, SOIL USE MANAGE, V10, P34, DOI 10.1111/j.1475-2743.1994.tb00455.x
+   Liang B, 2006, SOIL SCI SOC AM J, V70, P1719, DOI 10.2136/sssaj2005.0383
+   MEACHAM SL, 1995, AM J CLIN NUTR, V61, P341
+   MENGEL DB, 1974, AGRON J, V66, P399, DOI 10.2134/agronj1974.00021962006600030019x
+   Morgan P., 2005, P 3 INT C EC SAN DUR
+   MUNNS R, 1993, AUST J PLANT PHYSIOL, V20, P425, DOI 10.1071/PP9930425
+   MUNNS R, 1993, PLANT CELL ENVIRON, V16, P15, DOI 10.1111/j.1365-3040.1993.tb00840.x
+   Petridis A, 2013, COMMUN SOIL SCI PLAN, V44, P733, DOI 10.1080/00103624.2013.748125
+   Pradhan SK, 2007, J AGR FOOD CHEM, V55, P8657, DOI 10.1021/jf0717891
+   Reuters, 2015, DROUGHT ENDS BRAZ SA
+   Rose C, 2015, CRIT REV ENV SCI TEC, V45, P1827, DOI 10.1080/10643389.2014.1000761
+   Rossi L, 2009, J ENVIRON MANAGE, V90, P1909, DOI 10.1016/j.jenvman.2009.01.006
+   ROTH GW, 1990, J ENVIRON QUAL, V19, P243, DOI 10.2134/jeq1990.00472425001900020008x
+   Sala FC, 2012, HORTIC BRAS, V30, P187, DOI 10.1590/S0102-05362012000200002
+   Sano EE, 2010, ENVIRON MONIT ASSESS, V166, P113, DOI 10.1007/s10661-009-0988-4
+   Udert KM, 2006, WATER SCI TECHNOL, V54, P413, DOI 10.2166/wst.2006.921
+   United Nations, 2015, WORLD URB PROSP 2014
+   World Health Organization (WHO), 2006, GUID SAF US WAST EXC
+NR 43
+TC 4
+Z9 4
+U1 3
+U2 15
+PU IWA PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 2043-9083
+J9 J WATER SANIT HYG DE
+JI J. Wate Sanit. Hyg. Dev.
+PD SEP
+PY 2017
+VL 7
+IS 3
+BP 455
+EP 465
+DI 10.2166/washdev.2017.163
+PG 11
+WC Water Resources
+SC Water Resources
+GA FH5ZF
+UT WOS:000411250500012
+DA 2019-03-26
+ER
+
+PT J
+AU Chai, TF
+   Kim, HC
+   Pan, L
+   Lee, P
+   Tong, D
+AF Chai, Tianfeng
+   Kim, Hyun-Cheol
+   Pan, Li
+   Lee, Pius
+   Tong, Daniel
+TI Impact of Moderate Resolution Imaging Spectroradiometer Aerosol Optical
+   Depth and AirNow PM2.5 assimilation on Community Multi-scale Air Quality
+   aerosol predictions over the contiguous United States
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+ID MODIS SATELLITE RETRIEVALS; CMAQ MODELING SYSTEM; OPTIMAL INTERPOLATION;
+   CHEMISTRY MODELS; EASTERN CANADA; FORECASTS; BIAS; EMISSIONS; CHINA;
+   OZONE
+AB In this study, Moderate Resolution Imaging Spectroradiometer (MODIS) Aerosol Optical Depth (AOD) and AirNow PM2.5 measurements are assimilated into the Community Multi-scale Air Quality (CMAQ) model using an optimal interpolation (OI) method. Over a 30 day test period in July 2011, three assimilation configurations were used in which MODIS AOD and AirNow PM2.5 measurements were first assimilated separately before being assimilated simultaneously. The background error covariance is estimated using both the National Meteorological Center approach and the Hollingsworth-Lnnberg method. The AOD observations from Terra are assimilated at 17Z and the Aqua AOD observations are assimilated at 20Z each day. AirNow PM2.5 measurements are assimilated 4 times a day at 00Z, 06Z, 12Z, and 18Z. Model performances are measured by the daily averaged and domain-averaged biases and the root-mean-square errors (RMSEs) obtained by comparing the predictions with the AirNow PM2.5 observations that were not assimilated. Either assimilating the MODIS AOD or assimilating the AirNow PM2.5 alone helps PM2.5 predictions over the entire 30 days. The case that assimilates the observations from both sources has the best performance. While the CMAQ PM2.5 results exhibit exaggerated diurnal variations compared to the AirNow measurements, this is not as severe at rural sites as at urban or suburban sites. It was also found that assimilating the total AOD observations is more beneficial for correcting the PM2.5 underestimations than directly assimilating the AirNow PM2.5 measurements every 6 h. While the simple approach of applying the AOD scaling factors uniformly throughout the vertical columns proved effective, it is liable to produce substantial errors. This is demonstrated by a high-AOD event.
+C1 [Chai, Tianfeng; Kim, Hyun-Cheol; Pan, Li; Lee, Pius; Tong, Daniel] NOAA, Air Resources Lab, Ctr Weather & Climate Predict, College Pk, MD 20740 USA.
+   [Chai, Tianfeng; Kim, Hyun-Cheol; Pan, Li; Tong, Daniel] Univ Maryland, Cooperat Inst Climate & Satellites, College Pk, MD 20742 USA.
+   [Tong, Daniel] George Mason Univ, Ctr Spatial Informat Sci & Syst, Fairfax, VA 22030 USA.
+RP Chai, TF (reprint author), NOAA, Air Resources Lab, Ctr Weather & Climate Predict, College Pk, MD 20740 USA.; Chai, TF (reprint author), Univ Maryland, Cooperat Inst Climate & Satellites, College Pk, MD 20742 USA.
+EM Tianfeng.Chai@NOAA.gov
+RI Chai, Tianfeng/E-5577-2010; Kim, Hyun/G-1315-2012; Tong,
+   Daniel/A-8255-2008
+OI Chai, Tianfeng/0000-0003-3520-2641; Kim, Hyun/0000-0003-3968-6145; Tong,
+   Daniel/0000-0002-4255-4568
+FU NOAA grant (Cooperative Institute for Climate and Satellites-CICS) at
+   the NOAA Air Resources Laboratory [NA09NES4400006]; University of
+   Maryland
+FX This study was supported by NOAA grant NA09NES4400006 (Cooperative
+   Institute for Climate and Satellites-CICS) at the NOAA Air Resources
+   Laboratory in collaboration with the University of Maryland. MODIS AOD
+   data are available at modis-atmos.gsfc.nasa.gov/MOD04_L2/. To access the
+   AirNow PM<INF>2.5</INF> measurements, please submit request via
+   airnowapi.org.
+CR Adhikary B, 2008, ATMOS ENVIRON, V42, P8600, DOI 10.1016/j.atmosenv.2008.08.031
+   Baek J, 2011, J GEOPHYS RES-ATMOS, V116, DOI 10.1029/2011JD015911
+   Bocquet M, 2015, ATMOS CHEM PHYS, V15, P5325, DOI 10.5194/acp-15-5325-2015
+   Byun D, 2006, APPL MECH REV, V59, P51, DOI 10.1115/1.2128636
+   Carlton AG, 2010, ENVIRON SCI TECHNOL, V44, P8553, DOI 10.1021/es100636q
+   Carmichael GR, 2008, J COMPUT PHYS, V227, P3540, DOI 10.1016/j.jcp.2007.02.024
+   Chai T, 2013, GEOSCI MODEL DEV, V6, P1831, DOI 10.5194/gmd-6-1831-2013
+   Chai TF, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007763
+   Chai TF, 2017, ATMOS CHEM PHYS, V17, P2865, DOI 10.5194/acp-17-2865-2017
+   Chai TF, 2014, SPRINGER PR COMPLEX, P581, DOI 10.1007/978-3-319-04379-1__96
+   Chai TF, 2009, ATMOS ENVIRON, V43, P5046, DOI 10.1016/j.atmosenv.2009.06.052
+   Chow JC, 2004, CHEMOSPHERE, V54, P185, DOI 10.1016/j.chemosphere.2003.07.004
+   Dee DP, 2005, Q J ROY METEOR SOC, V131, P3323, DOI 10.1256/qj.05.137
+   Dee DP, 1998, Q J ROY METEOR SOC, V124, P269, DOI 10.1002/qj.49712454512
+   Delfino RJ, 2005, ENVIRON HEALTH PERSP, V113, P934, DOI 10.1289/ehp.7938
+   Djalalova I, 2015, ATMOS ENVIRON, V108, P76, DOI 10.1016/j.atmosenv.2015.02.021
+   Dominici F, 2006, JAMA-J AM MED ASSOC, V295, P1127, DOI 10.1001/jama.295.10.1127
+   Doraiswamy P, 2010, J AIR WASTE MANAGE, V60, P1293, DOI 10.3155/1047-3289.60.11.1293
+   Draxier RR, 1998, AUST METEOROL MAG, V47, P295
+   Drury E, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009573
+   Franklin JE, 2014, ATMOS CHEM PHYS, V14, P8449, DOI 10.5194/acp-14-8449-2014
+   Gorline JL, 2009, ENVIRON FLUID MECH, V9, P109, DOI 10.1007/s10652-008-9090-7
+   Griffin D, 2013, ATMOS CHEM PHYS, V13, P10227, DOI 10.5194/acp-13-10227-2013
+   Holben BN, 1998, REMOTE SENS ENVIRON, V66, P1, DOI 10.1016/S0034-4257(98)00031-5
+   Hyer EJ, 2011, ATMOS MEAS TECH, V4, P379, DOI 10.5194/amt-4-379-2011
+   Janjic ZI, 2003, METEOROL ATMOS PHYS, V82, P271, DOI 10.1007/s00703-001-0587-6
+   Kaiser JW, 2012, BIOGEOSCIENCES, V9, P527, DOI 10.5194/bg-9-527-2012
+   Kang D, 2010, GEOSCI MODEL DEV, V3, P309, DOI 10.5194/gmd-3-309-2010
+   Kang DW, 2010, ATMOS ENVIRON, V44, P2203, DOI 10.1016/j.atmosenv.2010.03.017
+   Kleist DT, 2009, WEATHER FORECAST, V24, P1691, DOI 10.1175/2009WAF2222201.1
+   Lee P, 2017, WEATHER FORECAST, V32, P343, DOI 10.1175/WAF-D-15-0163.1
+   Lee P, 2011, ATMOSPHERE-BASEL, V2, P464, DOI 10.3390/atmos2030464
+   Levy RC, 2013, ATMOS MEAS TECH, V6, P2989, DOI 10.5194/amt-6-2989-2013
+   Levy R. C., 2009, ALGORITHM REMOTE SEN
+   Liu ZQ, 2011, J GEOPHYS RES-ATMOS, V116, DOI 10.1029/2011JD016159
+   Luo C, 2011, ATMOS ENVIRON, V45, P5119, DOI 10.1016/j.atmosenv.2011.06.029
+   McKeen S, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007608
+   Mebust MR, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2001JD001410
+   Morris R, 2005, J AIR WASTE MANAGE, V55, P1683, DOI 10.1080/10473289.2005.10464764
+   Morris RE, 2006, ATMOS ENVIRON, V40, P4960, DOI 10.1016/j.atmonsenv.2005.09.088
+   Morris RE, 2005, J AIR WASTE MANAGE, V55, P1694, DOI 10.1080/10473289.2005.10464765
+   Otte TL, 2005, WEATHER FORECAST, V20, P367, DOI 10.1175/WAF855.1
+   Pagowski M, 2014, GEOSCI MODEL DEV, V7, P1621, DOI 10.5194/gmd-7-1621-2014
+   Palmer PI, 2013, ATMOS CHEM PHYS, V13, P6239, DOI 10.5194/acp-13-6239-2013
+   Pan L, 2014, ATMOS ENVIRON, V95, P610, DOI 10.1016/j.atmosenv.2014.06.020
+   Remer LA, 2005, J ATMOS SCI, V62, P947, DOI 10.1175/JAS3385.1
+   Robichaud A, 2014, ATMOS CHEM PHYS, V14, P1769, DOI 10.5194/acp-14-1769-2014
+   Saide PE, 2013, ATMOS CHEM PHYS, V13, P10425, DOI 10.5194/acp-13-10425-2013
+   Sandu A, 2011, ATMOSPHERE-BASEL, V2, P426, DOI 10.3390/atmos2030426
+   Schwartz CS, 2012, J GEOPHYS RES-ATMOS, V117, DOI 10.1029/2011JD017383
+   Schwartz J, 2000, EPIDEMIOLOGY, V11, P6, DOI 10.1097/00001648-200001000-00004
+   Schwede D., 2005, 4 ANN CMAS MOD 3 US
+   Seidel DJ, 2015, ATMOS ENVIRON, V115, P192, DOI 10.1016/j.atmosenv.2015.05.065
+   Sofowote U, 2015, ATMOS POLLUT RES, V6, P1, DOI 10.5094/APR.2015.001
+   Sun YL, 2006, ENVIRON SCI TECHNOL, V40, P3148, DOI 10.1021/es051533g
+   Tang YH, 2015, J AIR WASTE MANAGE, V65, P1206, DOI 10.1080/10962247.2015.1062439
+   Tong DQ, 2012, ATMOS ENVIRON, V47, P560, DOI 10.1016/j.atmosenv.2011.10.070
+   Wang J, 2010, REMOTE SENS ENVIRON, V114, P2575, DOI 10.1016/j.rse.2010.05.034
+   Wang Y, 2016, GEOPHYS RES LETT, V43, P9931, DOI 10.1002/2016GL070204
+   Xing J, 2015, ATMOS CHEM PHYS, V15, P2723, DOI 10.5194/acp-15-2723-2015
+   Xu XG, 2013, J GEOPHYS RES-ATMOS, V118, P6396, DOI 10.1002/jgrd.50515
+   Zhang JL, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006898
+   Zhang JL, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009065
+   Zhang L, 2015, ATMOS CHEM PHYS, V15, P10281, DOI 10.5194/acp-15-10281-2015
+NR 64
+TC 2
+Z9 2
+U1 2
+U2 15
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 2169-8996
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD MAY 27
+PY 2017
+VL 122
+IS 10
+BP 5399
+EP 5415
+DI 10.1002/2016JD026295
+PG 17
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA EY6YT
+UT WOS:000404131500022
+DA 2019-03-26
+ER
+
+PT J
+AU Tambo, E
+   Fouad, AM
+   Khater, EIM
+AF Tambo, Ernest
+   Fouad, Ahmed Mohamed
+   Khater, Emad I. M.
+TI Strengthening community emergency preparedness and response in threats
+   and epidemics disasters prevention and management in Saudi Arabia
+SO INTERNATIONAL JOURNAL OF EMERGENCY MANAGEMENT
+LA English
+DT Article
+DE emergency; community; preparedness; resilience; mitigation; threats;
+   epidemics; Saudi Arabia
+ID PUBLIC-HEALTH EMERGENCIES; CARE COALITIONS; INJURIES; IMPACT;
+   PERSPECTIVE; EDUCATION; PATTERNS; WORKERS; EUROPE; CRISIS
+AB Background: Increasing natural and man-made threats to communities and disaster vulnerabilities have been linked to globalisation, increasing urbanisation and climate changes. This review paper analyses the changing trend and pattern in natural and man-made evolving emergencies threats and disasters vulnerability, towards robust and effective emergency community-based preparedness, emergency response policy and programs in Saudi Arabia. Method: A systematic review was performed to assess community emergency readiness in man-made or natural threats and epidemics disasters in the Kingdom. Findings: Our results showed that man-made disasters were the most reported cause of fatality with over 3979 deaths from 1975 to April, 2016. Substantially, Saudi Arabia government commitment and investment efforts have been devoted to ensure adequate emergency management. However, the level of community emergency preparedness culture for all types of risk assessment and management still requires urgent attention in the context of emerging global health threats and epidemics. This paper provides a set of lessons learnt that are useful to foster and scale-up further policy-makers and emergency planners proactive emergency preparedness capacity, and communities resilience initiatives. Leveraging on aggregate annual Hajj and Umrah pilgrimage or mass gathering lessons learnt, global emergency response experiences and best practices are assets in scaling-up proactive and practical community/public and regional emergency security resilience. Conclusion: Strengthening evidence-based comprehensive sustained Saudi innovative community-based emergency partnerships, community surveillance and preparedness, resilient measures and best practices against threats and disasters is advocated.
+C1 [Tambo, Ernest; Fouad, Ahmed Mohamed; Khater, Emad I. M.] Jeddah Governorate, Publ Hlth Pests Lab, Biochem & Mol Biol Unit, Jeddah 21452, Saudi Arabia.
+   [Khater, Emad I. M.] Ain Shams Univ, Dept Entomol, Fac Sci, Cairo 11566, Egypt.
+RP Tambo, E (reprint author), Jeddah Governorate, Publ Hlth Pests Lab, Biochem & Mol Biol Unit, Jeddah 21452, Saudi Arabia.
+EM tambo0711@gmail.com; ahmadfoad3@hotmail.com; eikhater@yahoo.com
+CR Achour N, 2015, INT J EMERG MANAG, V11, P1
+   Achour N, 2016, ENVIRON HAZARDS-UK, V15, P74, DOI 10.1080/17477891.2016.1139539
+   Aguilera JF, 2002, EMERG INFECT DIS, V8, P761, DOI 10.3201/eid0808.010422
+   Al-Habib A, 2013, ANN SAUDI MED, V33, P351, DOI 10.5144/0256-4947.2013.351
+   Al-rousan TM, 2015, AM J PUBLIC HEALTH, V105, pS621, DOI 10.2105/AJPH.2013.301559r
+   Al-Sebaei MO, 2015, SAUDI MED J, V36, P335, DOI 10.15537/smj.2015.3.10047
+   Al-suwian A., 2001, POTENTIAL PETROCHEMI
+   Aldehaim AY, 2016, TELEMED E-HEALTH, V22, P223, DOI 10.1089/tmj.2015.0062
+   Alexander D, 2002, DISASTER PREVENTION, V11, P209, DOI DOI 10.1108/09653560210435803
+   Alfred D, 2015, NURSE EDUC PRACT, V15, P82, DOI 10.1016/j.nepr.2014.08.001
+   Alghamdi M, 2015, BEHAV RES THER, V66, P64, DOI 10.1016/j.brat.2015.01.008
+   Alghnam S, 2014, INJURY, V45, P1693, DOI 10.1016/j.injury.2014.05.029
+   Almulla A., 2008, ALWAQT NEWSPAPER
+   Almuneef MA, 2014, CHILD ABUSE NEGLECT, V38, P527, DOI 10.1016/j.chiabu.2013.08.001
+   ALTUKHI MH, 1990, SAUDI MED J, V11, P1
+   Bachmann DJ, 2015, PREHOSP DISASTER MED, V30, P486, DOI 10.1017/S1049023X15005099
+   Bajow Nidaa, 2015, Am J Disaster Med, V10, P145, DOI 10.5055/ajdm.2015.0197
+   Bawazir W, 2013, STUD HEALTH TECHNOL, V192, P1216, DOI 10.3233/978-1-61499-289-9-1216
+   Buehler JW, 2009, BIOSECUR BIOTERROR, V7, P165, DOI 10.1089/bsp.2009.0013
+   Burkle FM, 2015, DISASTER MED PUBLIC, V9, P44, DOI 10.1017/dmp.2014.95
+   Burkle FM, 2008, DISASTER MED PUBLIC, V2, P192, DOI 10.1097/DMP.0b013e3181809455
+   Clarke S, 2014, MED ED ONLINE, V19, P25771
+   Cohen O, 2015, GLOBAL HEALTH ACTION, V8, DOI 10.3402/gha.v8.28871
+   Cormier S, 2015, DISASTER MED PUBLIC, V9, P712, DOI 10.1017/dmp.2015.146
+   Dhaffar KO, 2005, SAUDI MED J, V26, P357
+   Disaster Preparedness and Readiness Advisory Council (DPRAC), 2016, PEDIATRICS, V137, P1
+   Epping-Jordan JE, 2015, INT J MENT HEALTH SY, V9, DOI 10.1186/s13033-015-0007-9
+   Gursky EA, 2014, BIOSECUR BIOTERROR, V12, P310, DOI 10.1089/bsp.2014.0025
+   Heidaranlu E., 2015, PLOS CURR, V14, P7
+   Hokkam E, 2015, WORLD J EMERG MED, V6, P48, DOI 10.5847/wjem.j.1920-8642.2015.01.009
+   Hunter JC, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079457
+   Hupert N, 2015, DISASTER MED PUBLIC, V9, P717, DOI 10.1017/dmp.2015.144
+   International Disaster Database, 2010, SAUD AR PROF NAT DIS
+   Jiao ML, 2015, BMC HEALTH SERV RES, V15, DOI 10.1186/s12913-015-1003-0
+   Khorram-Manesh A, 2015, DISASTER MED PUBLIC, V9, P245, DOI 10.1017/dmp.2015.9
+   Lansdowne K, 2015, PREHOSP DISASTER MED, V30, P320, DOI 10.1017/S1049023X15004641
+   Lerner EB, 2007, PREHOSP EMERG CARE, V11, P137, DOI 10.1080/10903120701204714
+   Maben J, 2010, INT J NURS STUD, V47, P392, DOI 10.1016/j.ijnurstu.2009.07.008
+   Memish ZA, 2013, J EPIDEMIOL GLOB HEA, V3, P123, DOI 10.1016/j.jegh.2013.03.004
+   Ministry of Interior, 2001, CONC STRUCT ORG CIV
+   Morton Melinda J, 2011, Am J Disaster Med, V6, P187
+   NOWEIR MH, 1993, ENVIRON MONIT ASSESS, V27, P35, DOI 10.1007/PL00020684
+   Parent Jeffery L, 2015, J Mich Dent Assoc, V97, P34
+   Peleg K, 2015, DISASTER MED PUBLIC, V9, P650, DOI 10.1017/dmp.2015.107
+   Pines JM, 2011, ACAD EMERG MED, V18, P1358, DOI 10.1111/j.1553-2712.2011.01235.x
+   Revere D, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-337
+   Sahar Liora, 2015, Online J Public Health Inform, V7, pe212, DOI 10.5210/ojphi.v7i2.5873
+   Sobelson Robyn K, 2015, J Emerg Manag, V13, P349, DOI 10.5055/jem.2015.0247
+   Song Minsun, 2015, J Emerg Manag, V13, P327, DOI 10.5055/jem.2015.0245
+   Stergachis A, 2011, DISASTER MED PUBLIC, V5, P300, DOI 10.1001/dmp.2011.77
+   Stewart-Evans J, 2014, ENVIRON INT, V72, P30, DOI 10.1016/j.envint.2014.03.012
+   Sundareswaran M., 2015, PLOS CURR, V18, P7
+   Tambo E, 2015, J PREV INFECT CONTRO, V1, P2
+   Tambo E., 2016, AUSTIN J INFECT DIS, V3, P1018
+   Xu WL, 2015, BMJ OPEN, V5, DOI 10.1136/bmjopen-2015-008479
+NR 55
+TC 0
+Z9 0
+U1 2
+U2 2
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA
+PA WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215
+   GENEVA, SWITZERLAND
+SN 1471-4825
+EI 1741-5071
+J9 INT J EMERG MANAG
+JI Int. J. Emerg. Manag.
+PY 2017
+VL 13
+IS 3
+BP 288
+EP 303
+PG 16
+WC Management
+SC Business & Economics
+GA FV5FT
+UT WOS:000424604700008
+DA 2019-03-26
+ER

@@ -1,0 +1,399 @@
+
+PT J
+AU Gao, L
+   Miao, YN
+   Qin, YH
+   Zhao, XM
+   Gao, ZY
+AF Gao, Liang
+   Miao, Yanan
+   Qin, Yuhao
+   Zhao, Xiaomei
+   Gao, Zi-You
+TI Finding topological center of a geographic space via road network
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Topological center; Road-cycle detection; Road networks; Computational
+   efficiency
+ID POPULATION; CITIES; PERSPECTIVE; GROWTH; AREA; LAWS
+AB Previous studies show that the center of a geographic space is of great importance in urban and regional studies, including study of population distribution, urban growth modeling, and scaling properties of urban systems, etc. But how to well define and how to efficiently extract the center of a geographic space are still largely unknown. Recently, Jiang et al. have presented a definition of topological center by their block detection (BD) algorithm. Despite the fact that they first introduced the definition and discovered the 'true center', in human minds, their algorithm left several redundancies in its traversal process. Here, we propose an alternative road-cycle detection (RCD) algorithm to find the topological center, which extracts the outmost road-cycle recursively. To foster the application of the topological center in related research fields, we first reproduce the BD algorithm in Python (pyBD), then implement the RCD algorithm in two ways: the ArcPy implementation (arcRCD) and the Python implementation (pyRCD). After the experiments on twenty-four typical road networks, we find that the results of our RCD algorithm are consistent with those of Jiang's BD algorithm. We also find that the RCD algorithm is at least seven times more efficient than the BD algorithm on all the ten typical road networks. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Gao, Liang; Miao, Yanan; Qin, Yuhao; Zhao, Xiaomei; Gao, Zi-You] Beijing Jiaotong Univ, State Key Lab Rail Traff Control & Safety, Beijing 100044, Peoples R China.
+   [Gao, Liang; Miao, Yanan; Qin, Yuhao; Zhao, Xiaomei; Gao, Zi-You] Beijing Jiaotong Univ, Inst Syst Sci, Beijing 100044, Peoples R China.
+   [Gao, Liang; Miao, Yanan; Qin, Yuhao; Zhao, Xiaomei; Gao, Zi-You] Beijing Jiaotong Univ, MOE Key Lab Urban Transportat Complex Syst Theory, Beijing 100044, Peoples R China.
+RP Gao, L (reprint author), 3 Shangyuan Cun, Beijing 100044, Peoples R China.
+EM lianggao@bjtu.edu.cn
+FU State Key Laboratory of Rail Traffic Control and Safety, Beijing
+   Jiaotong University [RCS2014ZTY8]; National Basic Research Program of
+   China (973 Program) [2012CB725400]; National Natural Science Foundation
+   of China [71101009, 71131001]
+FX The authors thank Richard Sears for his warm help in English grammar and
+   style improvement, and thank all the anonymous referees for their
+   inspiring comments. This work is supported by the State Key Laboratory
+   of Rail Traffic Control and Safety (Contract No. RCS2014ZTY8), Beijing
+   Jiaotong University, the National Basic Research Program of China (973
+   Program) No. 2012CB725400, and the National Natural Science Foundation
+   of China (71101009, 71131001).
+CR Barthelemy M., 2011, PHYS REP, V499, P1101
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   BURGESS Ernest W., 1924, PUBLICATIONS AM SOCI, V18, P85
+   Burgess W., 1933, ZENTRALEN ORTE SUDDE
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   Gudmundsson A, 2013, SCI REP-UK, V3, DOI 10.1038/srep03324
+   Harris CD, 1945, ANN AM ACAD POLIT SS, V242, P7, DOI 10.1177/000271624524200103
+   Hoyt Homer, 1939, STRUCTURE GROWTH RES
+   Jiang B., 2013, CROWDSOURCING GEOGRA, P125, DOI DOI 10.1007/978-94-007-4587-2_8
+   Jiang B, 2012, INT J GEOGR INF SCI, V26, P215, DOI 10.1080/13658816.2011.575074
+   Lu J, 2012, LANDSCAPE URBAN PLAN, V105, P74, DOI 10.1016/j.landurbplan.2011.11.024
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Millward H, 2008, ENVIRON PLANN A, V40, P283, DOI 10.1068/a38498
+   Openshaw S, 2003, ENVIRON PLANN A, V35, P1389, DOI 10.1068/a35295b
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+NR 17
+TC 0
+Z9 0
+U1 5
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD FEB 1
+PY 2015
+VL 419
+BP 128
+EP 133
+DI 10.1016/j.physa.2014.10.018
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA AX6EZ
+UT WOS:000347017300016
+DA 2019-03-26
+ER
+
+PT J
+AU Halsnaes, K
+   Kaspersen, PS
+   Drews, M
+AF Halsnaes, Kirsten
+   Kaspersen, Per Skougaard
+   Drews, Martin
+TI Key drivers and economic consequences of high-end climate scenarios:
+   uncertainties and risks
+SO CLIMATE RESEARCH
+LA English
+DT Article
+DE Climate scenarios; Extremes; Risks; Damage and welfare costs;
+   Uncertainties
+ID ADAPTATION STRATEGIES
+AB The consequences of high-end climate scenarios and the risks of extreme events involve a number of critical assumptions and methodological challenges related to key uncertainties in climate scenarios and modelling, impact analysis, and economics. A methodological framework for integrated analysis of extreme events and damage costs is developed and applied to a case study of urban flooding for the medium sized Danish city of Odense. Moving from our current climate to higher atmospheric greenhouse gas (GHG) concentrations including a 2 degrees, 4 degrees, and a high-end 6 degrees C scenario implies that the frequency of extreme events increase beyond scaling, and in combination with economic assumptions we find a very wide range of risk estimates for urban precipitation events. A sensitivity analysis addresses 32 combinations of climate scenarios, damage cost curve approaches, and economic assumptions, including risk aversion and equity represented by discount rates. Major impacts of alternative assumptions are investigated. As a result, this study demonstrates that in terms of decision making the actual expectations concerning future climate scenarios and the economic assumptions applied are very important in determining the risks of extreme climate events and, thereby, of the level of cost-effective adaptation seen from the society's point of view.
+C1 [Halsnaes, Kirsten; Kaspersen, Per Skougaard; Drews, Martin] Tech Univ Denmark, Dept Engn Management, Climate Change & Sustainable Dev Grp, DK-2800 Lyngby, Denmark.
+RP Halsnaes, K (reprint author), Tech Univ Denmark, Dept Engn Management, Climate Change & Sustainable Dev Grp, Bldg 426, DK-2800 Lyngby, Denmark.
+EM khal@dtu.dk
+RI Drews, Martin/E-8081-2017; Halsnas, Kirsten/E-8722-2017
+OI Drews, Martin/0000-0002-3532-4780; Halsnas, Kirsten/0000-0001-9106-9190;
+   Kaspersen, Per Skougaard/0000-0002-1709-0183
+FU Danish Strategic Research Council for the Centre for Regional Change in
+   the Earth System (CRES) [DSF-EnMi 09-066868]
+FX The present study was funded by a grant from the Danish Strategic
+   Research Council for the Centre for Regional Change in the Earth System
+   (CRES) under contract no: DSF-EnMi 09-066868. CRES is a
+   multidisciplinary climate research platform, including key Danish
+   stakeholders and practitioners with a need for improved climate
+   information.
+CR Arnbjerg-Nielsen K, 2015, CLIM RES, V64, P73, DOI 10.3354/cr01299
+   Arnbjerg-Nielsen K, 2009, WATER SCI TECHNOL, V60, P273, DOI 10.2166/wst.2009.298
+   Arrow K., 1996, CLIMATE CHANGE 1995, P127
+   Arrow KJ, 1965, ASPECTS THEORY RISK, P90
+   Christensen JH, 2003, NATURE, V421, P805, DOI 10.1038/421805a
+   Christensen OB, 2015, CLIM RES, V64, P25, DOI 10.3354/cr01286
+   Collins M, 2012, NAT CLIM CHANGE, V2, P403, DOI 10.1038/NCLIMATE1414
+   Davis SA, 1992, 92R3 US ARM CORPS EN
+   Field CB, 2012, SPEC REP WORK GROUPS
+   Forsikring & Pension (Danish Insurance Association), 2014, ERST VANDSK
+   Gregersen IB, 2014, OPD KLIM DIM REGN SP
+   Hawkins E, 2011, CLIM DYNAM, V37, P407, DOI 10.1007/s00382-010-0810-6
+   Hawkins E, 2009, B AM METEOROL SOC, V90, P1095, DOI 10.1175/2009BAMS2607.1
+   IPCC, 2005, GUID NOT LEAD AUTH I
+   Jongman B, 2012, NAT HAZARD EARTH SYS, V12, P3733, DOI 10.5194/nhess-12-3733-2012
+   Kolstad C, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, P207
+   Meinshausen M, 2011, CLIMATIC CHANGE, V109, P213, DOI 10.1007/s10584-011-0156-z
+   Miljoministeriet (Danish Ministry of the Environment), 2014, KORTF
+   Prather M., 2013, CLIMATE CHANGE 2013
+   Refsgaard JC, 2013, MITIG ADAPT STRAT GL, V18, P337, DOI 10.1007/s11027-012-9366-6
+   Sunyer MA, 2014, HYDROL EARTH SYST SC, V11, P6167, DOI DOI 10.5194/HESSD-11-6167-2014
+   Taylor KE, 2012, B AM METEOROL SOC, V93, P485, DOI 10.1175/BAMS-D-11-00094.1
+   van der Linden P., 2009, ENSEMBLES CLIMATE CH
+   Weitzman ML, 2011, REV ENV ECON POLICY, V5, P275, DOI 10.1093/reep/rer006
+   Wilby RL, 2010, WEATHER, V65, P180, DOI 10.1002/wea.543
+   Zhou Q, 2012, J HYDROL, V414, P539, DOI 10.1016/j.jhydrol.2011.11.031
+NR 26
+TC 6
+Z9 6
+U1 0
+U2 8
+PU INTER-RESEARCH
+PI OLDENDORF LUHE
+PA NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY
+SN 0936-577X
+EI 1616-1572
+J9 CLIM RES
+JI Clim. Res.
+PY 2015
+VL 64
+IS 1
+BP 85
+EP 98
+DI 10.3354/cr01308
+PG 14
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA CL0FS
+UT WOS:000356616300008
+OA Bronze
+DA 2019-03-26
+ER
+
+PT S
+AU De Rosa, A
+AF De Rosa, A.
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI FROM "LEARNING BY DOING "TO "CREATING BY SHARING" EXPERIENCES: ARE
+   PEOPLE THE FUNDAMENTAL CONNECTIVE TISSUE IN ENHANCING CREATIVITY IN THE
+   PROJECT FORMAT OF THE WORKSHOP?
+SO INTED2015: 9TH INTERNATIONAL TECHNOLOGY, EDUCATION AND DEVELOPMENT
+   CONFERENCE
+SE INTED Proceedings
+LA English
+DT Proceedings Paper
+CT 9th International Technology, Education and Development Conference
+   (INTED)
+CY MAR 02-04, 2015
+CL Madrid, SPAIN
+DE workshop; education; design strategy; design tools; cognitive theory;
+   learning; making sharing; creative communities
+AB In this paper I would like to describe the potentialities of the workshop (ws) format in design education - thanks to experiences I attended both as teaching assistant and as participant - in order to gather:
+   Key features of this kind of practices
+   Psychological (inner and environmental) aspects that increase the results' level
+   Adjustment of usual teaching methodologies Increase of tutoring capacities
+   The goal is to support this approach, especially in design education and practice.
+   One of the fundamental component of education is time: have time to learn means have time to let information be received, understood and, finally, learned. The last means that this information is not only memorized, but is also knowledge ready to be used. Each notion follow this linear path and crosses a multitude of others where categorizations, comparisons and value scaling composed everyone knowledge.
+   [Graphics]
+   What happens in design schools, where students are asked to acquire information and to made project at the same time? More then other courses, design education is not linear in the passage from "learning" to "doing" (practicing) but stays in constant balance between acquirements and practices. Furthermore, learning and doing phases related to a specific notion do not run their binary simultaneously: very often occurred that a project asked to be aware of an aspect (i.e. how a specific material can be used) before that notion has been received and, vice versa, a notion is acquired when there is no awareness of how it can be employed. That can cause a sense of unsuitableness in controlling the wide design range, which crosses cultural (social, historical, anthropological aspects) and scientific knowledge. Thus, the time to learn extends in lifelong education training.
+   [Graphics]
+   So, how can be the ws format useful in design education and practice? A ws is a short project experience, generally 4 to 7 days long, where people working on the same topic or interested on a given topic met in a define place to reach a common goal (create a project, reflect actively). Sometimes people already know the other participants since the ws is hosted in the same institution attended; more often the ws is in other cities/countries (generally the place is strongly related to the topic). Participants have in common the study/work field.
+   The constant aspect is that people are quickly introduced in a unknown and limited* context from three points of view:
+   Place: country-areas-inner resources available
+   Time: start/end closed
+   Social composition of the group [staff + participants].
+   (* That will not change along the days)
+   This sort of shared isolation where the context hold steady is an important element. Unknown space, a limited time and a social composition where one's behaviour/role is not immediately codified, compose the exceptional condition in which concentration and creativity are intensified. This gathering depends on many aspects: direct confrontation, a unique occasion to check one's capabilities, competition, the need to find solutions to the topic given, fast project realization (prototype), be innovative, the need to bring out one's capacities. Teaching methods change too: tutors are asked to propose specific design strategies and tools that could support fast processes.
+   Finally, the goal asked have to be full of meaning but, of course, not perfect: in this way, ws format generates high level outputs thanks to the perfect dosage of abstraction, temporariness and learning through making.
+C1 [De Rosa, A.] Politecn Milan, Sch Design, Milan, Italy.
+RP De Rosa, A (reprint author), Politecn Milan, Sch Design, Milan, Italy.
+CR [Anonymous], 2015, MAKER PEDAGOGY
+   Florida R., 2005, CITIES CREATIVE CLAS
+   Jegou F., 2003, SUSTAINABLE EVERYDAY
+   Jegou F., 2008, COLLABORATIVE SERVIC
+   Mari E., 1974, PROPOSTA AUTOPROGETT
+   Thackara J., 2005, BUBBLE DESIGNING COM
+   Wenger E., 1998, COMMUNITIES PRACTICE
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION A& DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1079
+BN 978-84-606-5763-7
+J9 INTED PROC
+PY 2015
+BP 7672
+EP 7678
+PG 7
+WC Education & Educational Research
+SC Education & Educational Research
+GA BH1XF
+UT WOS:000398586307099
+DA 2019-03-26
+ER
+
+PT J
+AU Ortman, SG
+   Cabaniss, AHF
+   Sturm, JO
+   Bettencourt, LMA
+AF Ortman, Scott G.
+   Cabaniss, Andrew H. F.
+   Sturm, Jennie O.
+   Bettencourt, Luis M. A.
+TI Settlement scaling and increasing returns in an ancient society
+SO SCIENCE ADVANCES
+LA English
+DT Article
+AB A key property of modern cities is increasing returns to scale-the finding that many socioeconomic outputs increase more rapidly than their population size. Recent theoretical work proposes that this phenomenon is the result of general network effects typical of human social networks embedded in space and, thus, is not necessarily limited to modern settlements. We examine the extent to which increasing returns are apparent in archaeological settlement data from the pre-Hispanic Basin of Mexico. We review previous work on the quantitative relationship between population size and average settled area in this society and then present a general analysis of their patterns of monument construction and house sizes. Estimated scaling parameter values and residual statistics support the hypothesis that increasing returns to scale characterized various forms of socioeconomic production available in the archaeological record and are found to be consistent with key expectations from settlement scaling theory. As a consequence, these results provide evidence that the essential processes that lead to increasing returns in contemporary cities may have characterized human settlements throughout history, and demonstrate that increasing returns do not require modern forms of political or economic organization.
+C1 [Ortman, Scott G.] Univ Colorado, Dept Anthropol, Boulder, CO 80309 USA.
+   [Ortman, Scott G.; Cabaniss, Andrew H. F.; Bettencourt, Luis M. A.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Cabaniss, Andrew H. F.] Univ North Carolina Chapel Hill, Dept Class, Chapel Hill, NC 27599 USA.
+   [Sturm, Jennie O.] Univ New Mexico, Dept Anthropol, Albuquerque, NM 87131 USA.
+RP Ortman, SG (reprint author), Univ Colorado, Dept Anthropol, Boulder, CO 80309 USA.
+EM scott.ortman@colorado.edu
+OI ORTMAN, SCOTT/0000-0003-0709-5287
+FU John Templeton Foundation [15705]; Army Research Office Minerva Program
+   [W911NF1210097]; Bill and Melinda Gates Foundation [OPP1076282];
+   National Science Foundation [1005075]; Santa Fe Institute Omidyar
+   Postdoctoral Fellows program
+FX This research was partially supported by the John Templeton Foundation
+   (grant 15705), the Army Research Office Minerva Program (grant
+   W911NF1210097), the Bill and Melinda Gates Foundation (grant
+   OPP1076282), the National Science Foundation (grant 1005075), and the
+   Santa Fe Institute Omidyar Postdoctoral Fellows program.
+CR Aguilar-Moreno M, 2005, HDB LIFE AZTEC WORLD
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2014, P IEEE, V102, P1878, DOI 10.1109/JPROC.2014.2367132
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Blanton RE, 1972, PREHISPANIC SETTLEME
+   Calnek Edward, 2003, URBANISMO ENMESOAMER, P149
+   CARNEIRO RL, 1967, SOUTHWEST J ANTHROP, V23, P234, DOI 10.1086/soutjanth.23.3.3629251
+   Carneiro RL, 2000, P NATL ACAD SCI USA, V97, P12926, DOI 10.1073/pnas.240462397
+   Charlton T. H., 1997, ARCHAEOLOGY CITY STA, P169
+   Chick G., 1997, CROSS-CULT RES, V31, P275, DOI DOI 10.1177/106939719703100401
+   Evans S. T., 2000, TEOTIHUACAN VALLEY P, V5
+   Finsten Laura M, 1993, ANCIENT MESOAMERICA
+   Flannery KV, 2002, AM ANTIQUITY, V67, P417, DOI 10.2307/1593820
+   Fujita M, 2001, SPATIAL EC CITIES RE
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gorenflo LJ, 2007, ARCHAEOLOGICAL SETTL
+   Haggett P., 1969, NETWORK ANAL GEOGRAP
+   HELSLEY RW, 1990, REG SCI URBAN ECON, V20, P189, DOI 10.1016/0166-0462(90)90004-M
+   Hirth Kenneth G., 2000, ANCIENT URBANISM XOC
+   Hodge M., 1996, AZTEC IMPERIAL STRAT, P17
+   Hodge M. G., 1997, ARCHAEOLOGY CITY STA, P209
+   HODGE Mary G., 1994, EC POLITIES AZTEC RE, P43
+   Kintigh KW, 2014, AM ANTIQUITY, V79, P5, DOI 10.7183/0002-7316.79.1.5
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Manzanilla L, 1996, LAT AM ANTIQ, V7, P228, DOI DOI 10.2307/971576
+   Millon Rene, 1973, TEOTIHUACAN MAP
+   MONTROLL EW, 1982, P NATL ACAD SCI USA, V79, P3380, DOI 10.1073/pnas.79.10.3380
+   Morris I., 2010, WHY W RULES NOW
+   Murakami T., 2010, THESIS
+   NAROLL R, 1956, AM ANTHROPOL, V58, P687, DOI 10.1525/aa.1956.58.4.02a00080
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   Parsons J. R., 2008, PREHISPANIC SETTLEME
+   Parsons J. R., 1982, PREHISPANIC SETTLEME
+   Parsons Jeffrey R., 1971, PREHISTORIC SETTLEME
+   Parsons JR, 1983, ARCHAEOLOGICAL SETTL
+   Piketty T, 2014, SCIENCE, V344, P838, DOI 10.1126/science.1251936
+   Samaniego H., 2009, J TRANSP LAND USE, V1, P2139
+   Sanders W. T., 2008, AZTEC WORLD, P67
+   Sanders W. T., 2007, PREHISPANIC SETTLEME
+   Sanders W. T, 1976, VALLEY MEXICO STUDIE, P101
+   Sanders W. T., 1987, TEOTIHUACAN VALLEY P, V4
+   Sanders W. T., 1975, TEOTIHUACAN VALLEY P, V2
+   Sanders W. T., 1996, TEOTIHUACAN VALLEY P, V3
+   Sanders W. T., 1979, BASIN MEXICO ECOLOGI
+   Smith ME, 2008, AZTEC CITY STATE CAP
+   Smith ME, 2012, P NATL ACAD SCI USA, V109, P7617, DOI 10.1073/pnas.1201714109
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+NR 50
+TC 22
+Z9 22
+U1 3
+U2 4
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 2375-2548
+J9 SCI ADV
+JI Sci. Adv.
+PD FEB
+PY 2015
+VL 1
+IS 1
+AR e1400066
+DI 10.1126/sciadv.1400066
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V0V2Q
+UT WOS:000216590300006
+PM 26601129
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Batty, M
+AF Batty, Michael
+TI Competition in the Built Environment: Scaling Laws for Cities,
+   Neighbourhoods and Buildings
+SO NEXUS NETWORK JOURNAL
+LA English
+DT Article
+DE Scaling; Power laws; Random growth; City populations; Rank size;
+   Building heights
+ID POWER LAWS
+AB Built environments at any spatial scale are represented as sets of like objects-cities, neighbourhoods, buildings but also components such as streets, parks, etc.,-which are distributed spatially according to certain rules that we are only just beginning to detect and measure. Unlike normally distributed attributes of the population, these urban elements often scale according to forces that determine large numbers of small elements and a small number of large ones. While many objects evolve from small to large, not all objects can be large as resources as well as physical limits determine the distribution of their sizes. The theory behind such size distributions is referred to as scaling and the shape of such distributions is quite well-defined by various power and exponential laws. As objects grow and evolve, or are even designed, their form changes qualitatively due to the forces of competition and the constraints on space. Here we explore these ideas for cities, neighbourhoods in towns, and buildings, specifically high buildings, revealing that there are both important differences as well as similarities in their form, function, and structure.
+C1 [Batty, Michael] UCL, Ctr Adv Spatial Anal, 90 Tottenham Court Rd, London W1T 4TJ, England.
+RP Batty, M (reprint author), UCL, Ctr Adv Spatial Anal, 90 Tottenham Court Rd, London W1T 4TJ, England.
+EM m.batty@ucl.ac.uk
+FU Economic and Social Research Council [ES/L011840/1]
+CR Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M, 2015, GEOCOMPUTATION PRACT, P40
+   Batty M., 2013, NEW SCI CITIES
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cristelli M., 2012, SCI REPORTS
+   Doyle J, 2000, PHYS REV LETT, V84, P5656, DOI 10.1103/PhysRevLett.84.5656
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Jacobs J, 1969, EC CITIES
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   March L, 2011, NEXUS NETW J, V13, P5, DOI 10.1007/s00004-011-0054-8
+   Mohajeri N, 2014, NEXUS NETW J, V16, P417, DOI 10.1007/s00004-014-0191-y
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Pisarenko VF, 2012, EUR PHYS J-SPEC TOP, V205, P95, DOI 10.1140/epjst/e2012-01564-8
+   Schumpeter J. A, 1939, BUSINESS CYCLES
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Steadman P., 2011, BUILD RES INF, V37, P455
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 19
+TC 2
+Z9 2
+U1 2
+U2 10
+PU KIM WILLIAMS BOOKS
+PI TORINO
+PA CORSO REGINA MARGHERITA, 72, TORINO, 10153, ITALY
+SN 1590-5896
+EI 1522-4600
+J9 NEXUS NETW J
+JI Nexus Netw. J.
+PD DEC
+PY 2015
+VL 17
+IS 3
+BP 831
+EP 850
+DI 10.1007/s00004-015-0268-2
+PG 20
+WC Architecture; History & Philosophy Of Science
+SC Architecture; History & Philosophy of Science
+GA DD8TO
+UT WOS:000370200000007
+OA Bronze
+DA 2019-03-26
+ER

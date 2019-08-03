@@ -1,0 +1,451 @@
+
+PT J
+AU Jiang, B
+   Liu, XT
+AF Jiang, Bin
+   Liu, Xintao
+TI Scaling of geographic space from the perspective of city and field
+   blocks and using volunteered geographic information
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+LA English
+DT Article
+DE power law distribution; scaling of geographic space; data-intensive
+   geospatial computing; street networks
+ID LAWS; NETWORKS; GROWTH
+AB Scaling of geographic space refers to the fact that for a large geographic area its small constituents or units are much more common than the large ones. This article develops a novel perspective to the scaling of geographic space using large street networks involving both cities and countryside. Given a street network of an entire country, we decompose the street network into individual blocks, each of which forms a minimum ring or cycle such as city blocks and field blocks. The block sizes demonstrate the scaling property, that is, far more small blocks than large ones. Interestingly, we find that the mean of all the block sizes can easily separate between small and large blocks -a high percentage (e.g., 90%) of smaller ones and a low percentage (e.g., 10%) of larger ones. Based on this regularity, termed as the head/tail division rule, we propose an approach to delineating city boundaries by grouping the smaller blocks. The extracted city sizes for the three largest European countries (France, Germany, and United Kingdom) exhibit power law distributions. We further define the concept of border number as a topological distance of a block far from the outmost border to map the center(s) of the country and the city. We draw an analogy between a country (or a city or geographic space in general) and a complex organism like the human body or the human brain to further elaborate on the power of this block perspective in reflecting the structure or patterns of geographic space.
+C1 [Jiang, Bin; Liu, Xintao] Univ Gavle, Dept Technol & Built Environm, Div Geomat, Gavle, Sweden.
+RP Jiang, B (reprint author), Univ Gavle, Dept Technol & Built Environm, Div Geomat, Gavle, Sweden.
+EM bin.jiang@hig.se
+RI Liu, Xintao/F-6744-2017
+OI Liu, Xintao/0000-0002-7323-9878
+CR Anselin L., 2006, ENCY HUMAN GEOGRAPHY, P452
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Bennett J., 2010, OPENSTREETMAP BE YOU
+   Blum H., 1967, MODELS PERCEPTION SP, P362
+   Borruso G., 2003, T GIS, V7, P177, DOI DOI 10.1111/1467-9671.00139
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Crandall D., 2009, 18 INT WORLD WID WEB
+   Goodchild MF, 2004, ANN ASSOC AM GEOGR, V94, P300, DOI 10.1111/j.1467-8306.2004.09402008.x
+   Goodchild MF, 2007, GEOJOURNAL, V69, P211, DOI 10.1007/s10708-007-9111-y
+   Haklay M, 2008, IEEE PERVAS COMPUT, V7, P12, DOI 10.1109/MPRV.2008.80
+   Jenks GF, 1967, INT YB CARTOGRAPHY, V7, P186
+   Jiang B., 2010, INT J GEOGRAPHICAL I, Vx, pxx
+   Jiang B., 2010, NAV 20 ANN M COGN LI
+   Jiang B, 2007, PHYSICA A, V384, P647, DOI 10.1016/j.physa.2007.05.064
+   Jiang B, 2010, INT J GEOGR INF SCI, V24, P545, DOI 10.1080/13658810902950351
+   Kalapala V, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.026130
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Leymarie FF, 2008, COMPUT IMAGING VIS, V37, P327
+   Lynch K., 1960, IMAGE CITY
+   Openshaw S., 1984, MODIFIABLE AREAL UNI
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Steadman P, 2006, CONSTR MANAG ECON, V24, P755, DOI 10.1080/01446190600601966
+   SUTTON P, 2003, REMOTE SENS ENVIRON, V86, P370
+   Thurstain-Goodwin M., 2000, T GIS, V4, P305, DOI DOI 10.1111/1467-9671.00058
+   TOBLER WR, 1970, ECON GEOGR, V46, P234, DOI 10.2307/143141
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 28
+TC 39
+Z9 44
+U1 3
+U2 35
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1365-8816
+J9 INT J GEOGR INF SCI
+JI Int. J. Geogr. Inf. Sci.
+PY 2012
+VL 26
+IS 2
+BP 215
+EP 229
+DI 10.1080/13658816.2011.575074
+PG 15
+WC Computer Science, Information Systems; Geography; Geography, Physical;
+   Information Science & Library Science
+SC Computer Science; Geography; Physical Geography; Information Science &
+   Library Science
+GA 896ZU
+UT WOS:000300611200002
+DA 2019-03-26
+ER
+
+PT J
+AU Hoang, CT
+   Tchiguirinskaia, I
+   Schertzer, D
+   Arnaud, P
+   Lavabre, J
+   Lovejoy, S
+AF Hoang, C. T.
+   Tchiguirinskaia, I.
+   Schertzer, D.
+   Arnaud, P.
+   Lavabre, J.
+   Lovejoy, S.
+TI Assessing the high frequency quality of long rainfall series
+SO JOURNAL OF HYDROLOGY
+LA English
+DT Article
+DE Long time series; High resolution data; Frequency quality; Scaling
+   analysis; Operational hydrology
+ID UNIVERSAL MULTIFRACTALS; URBAN HYDROLOGY; STATISTICS; CLOUDS; ERRORS;
+   GAUGES; MODEL
+AB High resolution, long and reliable rainfall time series are extremely important to assess reliable statistics, e.g. the Depth-Duration-Frequency curves that have been widely used to define design rainfalls and rainfall drainage network dimensioning. The potential consequences of changes in measuring and recording techniques have been somewhat discussed in the literature with respect to a possible corresponding introduction of artificial inhomogeneities in time series. In this paper, we show how to detect another artificiality: most of the rainfall time series have a lower recording frequency than that is assumed, furthermore the effective high-frequency limit often depends on the recording year due to algorithm changes. This question is particularly important for operational hydrology, because we show that an error on the effective recording high frequency introduces biases in the corresponding statistics. We developed a simple automatic procedure to assess this frequency period by period and station by station on a large database. The scaling analysis of these time series also shows the influence of high frequency limitations on the scaling behaviour, leading to possible misinterpretation of the significance of characteristic scales and scale-dependent hydrological quantities. (C) 2012 Published by Elsevier BM.
+C1 [Hoang, C. T.; Tchiguirinskaia, I.; Schertzer, D.] Univ Paris Est, Lab Eau Environm Syst Urbains, Ecole Ponts ParisTech, F-77455 Marne La Vallee 2, France.
+   [Tchiguirinskaia, I.; Arnaud, P.; Lavabre, J.] Irstea, HOAX, Aix En Provence, France.
+   [Schertzer, D.] Meteo France, CNRM, Paris, France.
+   [Lovejoy, S.] McGill Univ, Dept Phys, Montreal, PQ, Canada.
+RP Tchiguirinskaia, I (reprint author), Univ Paris Est, Lab Eau Environm Syst Urbains, Ecole Ponts ParisTech, 6-8 Ave Blaise Pascal, F-77455 Marne La Vallee 2, France.
+EM Tuan.Hoang@enpc.fr; loulia.Tchiguirinskaia@enpc.fr
+RI Lovejoy, Shaun/E-8019-2011; Arnaud, Patrick/N-2786-2016
+OI Lovejoy, Shaun/0000-0002-9367-3137; Arnaud, Patrick/0000-0003-4291-5949
+FU Regional Research Network on Sustainable Development R2DS; Veolia; Ecole
+   des Ponts
+FX We thank A. Bardossy (Editor), E. Kahya (Associate Editor) and two
+   anonymous Referees for their valuable comments and suggestions that
+   greatly helped us to improve our manuscript. We highly acknowledge
+   enlightening discussions with Ph. Dandin and J.M. Veysseire who also
+   facilitated the access to the rainfall data of Meteo-France in the
+   framework of the project "Multiplicity of Scales in Hydrology and
+   Meteorology (Meteo-France - Ecole des Ponts ParisTech). Partial
+   financial supports from the Regional Research Network on Sustainable
+   Development R2DS (project GARP-3C) and from the Chair "Hydrology for
+   Resilient Cities" (sponsored by Veolia) of Ecole des Ponts are highly
+   acknowledged.
+CR Arnaud P, 1999, HYDROLOG SCI J, V44, P433, DOI 10.1080/02626669909492238
+   Aronica GT, 2005, ATMOS RES, V77, P114, DOI 10.1016/j.jatmosres.2004.10.025
+   Berggren K., 2007, URBAN DRAINAGE CLIMA
+   BERNDTSSON R, 1988, J HYDROL, V100, P293, DOI 10.1016/0022-1694(88)90189-8
+   Berne A, 2004, J HYDROL, V299, P166, DOI 10.1016/j.jhydrol.2004.08.002
+   De Lima M.I.P., 1998, THESIS WAGENINGEN AG
+   Fankhauser R, 1998, WATER SCI TECHNOL, V37, P121, DOI 10.1016/S0273-1223(98)00324-2
+   Fankhauser R, 1997, WATER SCI TECHNOL, V36, P7, DOI 10.1016/S0273-1223(97)00625-2
+   Hittinger F., 2008, THESIS I NATL POLYTE
+   Hoang C.T., 2008, THESIS U P M CURIE P
+   Kolmogorov A. N, 1941, P USSR ACAD SCI, V30, P299
+   Kundu PK, 2006, J HYDROL, V322, P49, DOI 10.1016/j.jhydrol.2005.02.031
+   Kvicera V., 2005, 3 FIN WORKSH COST280, P1
+   La Barbera P, 2002, WATER SCI TECHNOL, V45, P1
+   Lavalle D., 1992, TOPOLOGICAL ASPECTS, P463
+   Obukhov A. M., 1941, IZV AN SSSR       GG, P453
+   Ogden FL, 2000, J HYDROL, V228, P82, DOI 10.1016/S0022-1694(00)00146-3
+   Olofsson M., 2007, CLIMATE CHANGE URBAN
+   Petersen C. G., 1992, URBAN WATER, V73, P1445
+   Pincon B., 2000, UNE INTRO SCILAB
+   SCHERTZER D, 1992, PHYSICA A, V185, P187, DOI 10.1016/0378-4371(92)90455-Y
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Schertzer D, 1997, J APPL METEOROL, V36, P1296, DOI 10.1175/1520-0450(1997)036<1296:UMDECO>2.0.CO;2
+   Schertzer D., 1987, ANN MATH QUE, V11, P139
+   Schilling W, 1991, ATMOS RES, V27, P5, DOI 10.1016/0169-8095(91)90003-F
+   SCHMITT F, 1992, PHYS REV LETT, V68, P305, DOI 10.1103/PhysRevLett.68.305
+   Tchiguirinskaia I., 2004, SCALES HYDROLOGY WAT, V287
+   TESSIER Y, 1993, J APPL METEOROL, V32, P223, DOI 10.1175/1520-0450(1993)032<0223:UMTAOF>2.0.CO;2
+NR 28
+TC 8
+Z9 8
+U1 1
+U2 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-1694
+EI 1879-2707
+J9 J HYDROL
+JI J. Hydrol.
+PD MAY 17
+PY 2012
+VL 438
+BP 39
+EP 51
+DI 10.1016/j.jhydrol.2012.01.044
+PG 13
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA 948MF
+UT WOS:000304506600005
+DA 2019-03-26
+ER
+
+PT J
+AU Mazzeo, NA
+   Venegas, LE
+   Dezzutti, M
+AF Mazzeo, Nicolas A.
+   Venegas, Laura E.
+   Dezzutti, Mariana
+TI Air pollution in a street canyon estimated considering different
+   parameterisations of vehicle-induced turbulence
+SO INTERNATIONAL JOURNAL OF ENVIRONMENT AND POLLUTION
+LA English
+DT Article
+DE street canyon; traffic-produced turbulence; TPT; traffic pollution;
+   urban air pollution
+ID URBAN DISPERSION MODELS
+AB Leeward air pollutant concentrations (C) are estimated by incorporating four parameterisations of traffic-produced turbulence (TPT) into the scaling of C inside a street canyon. Three parameterisations consider expressions previously introduced by other authors, based on a theoretical formulation of TPT and a semi-empirical approach already incorporated in an operational street model. The fourth scheme introduces an empirical expression of TPT derived from four full-scale street canyon datasets. Hourly NOx concentrations are calculated for an asymmetric street canyon in Buenos Aires, using meteorological observations at local airport and modelled background concentrations. Statistical indicators show that the performance of the four schemes is satisfactory.
+C1 [Mazzeo, Nicolas A.; Venegas, Laura E.; Dezzutti, Mariana] Natl Technol Univ, Avellaneda Reg Fac, Dept Chem Engn, Natl Sci & Technol Res Council CONICET, RA-1874 Avellaneda, Buenos Aires, Argentina.
+RP Venegas, LE (reprint author), Natl Technol Univ, Avellaneda Reg Fac, Dept Chem Engn, Natl Sci & Technol Res Council CONICET, Av Ramon Franco 5050, RA-1874 Avellaneda, Buenos Aires, Argentina.
+EM nmazzeo@fra.utn.edu.ar; lvenegas@fra.utn.edu.ar; ymariana@gmail.com
+FU Project CONICET [PIP-0304]
+FX This study has been supported by Project CONICET PIP-0304. Authors
+   gratefully acknowledge the European Research Network on Optimisation of
+   Modelling for Traffic Pollution in Streets (TRAPOS) for the datasets
+   used to obtain expression (7).
+CR BERKOWICZ R, 2002, WATER AIR SOIL POLL, V2, P311
+   Berkowicz R., 1997, MODELLING TRAFFIC PO
+   Chang JC, 2004, METEOROL ATMOS PHYS, V87, P167, DOI 10.1007/s00703-003-0070-7
+   Di Sabatino S, 2003, ENVIRON FLUID MECH, V3, P129, DOI 10.1023/A:1022063608237
+   GCBA-ACOM, 2006, MAP ESTR RUID CIUD A
+   Kastner-Klein P, 2003, ENVIRON FLUID MECH, V3, P145, DOI 10.1023/A:1022049224166
+   Kastner-Klein P, 2000, INT J ENVIRON POLLUT, V14, P496
+   Kastner-Klein P., 2001, P 3 INT C URB AIR QU
+   Kondo H, 2009, ATMOS ENVIRON, V43, P4137, DOI 10.1016/j.atmosenv.2009.05.047
+   Mazzeo Nicolas A., 2010, Air Quality, P23
+   Mazzeo NA, 2011, INT J ENVIRON POLLUT, V47, P290, DOI 10.1504/IJEP.2011.047343
+   Mazzeo N.A., 2003, P 4 INT C URB AIR QU, P159
+   Solazzo E, 2007, ATMOS ENVIRON, V41, P5357, DOI 10.1016/j.atmosenv.2007.02.017
+   Vachon G., 2002, WATER AIR SOIL POLL, V2, P127
+   Venegas Laura E., 2011, Air Quality-Models and Applications, P261
+   Venegas L.E., 2012, INT J ENV P IN PRESS
+NR 16
+TC 1
+Z9 1
+U1 0
+U2 3
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA
+PA WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215
+   GENEVA, SWITZERLAND
+SN 0957-4352
+J9 INT J ENVIRON POLLUT
+JI Int. J. Environ. Pollut.
+PY 2012
+VL 50
+IS 1-4
+SI SI
+BP 120
+EP 129
+DI 10.1504/IJEP.2012.051186
+PG 10
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 091SQ
+UT WOS:000315070500013
+DA 2019-03-26
+ER
+
+PT J
+AU Studds, CE
+   DeLuca, WV
+   Baker, ME
+   King, RS
+   Marra, PP
+AF Studds, Colin E.
+   DeLuca, William V.
+   Baker, Matthew E.
+   King, Ryan S.
+   Marra, Peter P.
+TI Land Cover and Rainfall Interact to Shape Waterbird Community
+   Composition
+SO PLOS ONE
+LA English
+DT Article
+ID CHESAPEAKE BAY; COASTAL URBANIZATION; NITROGEN EXPORT; UNITED-STATES;
+   RIVER ESTUARY; MARINE; ABUNDANCE; NUTRIENT; USA; CLIMATE
+AB Human land cover can degrade estuaries directly through habitat loss and fragmentation or indirectly through nutrient inputs that reduce water quality. Strong precipitation events are occurring more frequently, causing greater hydrological connectivity between watersheds and estuaries. Nutrient enrichment and dissolved oxygen depletion that occur following these events are known to limit populations of benthic macroinvertebrates and commercially harvested species, but the consequences for top consumers such as birds remain largely unknown. We used non-metric multidimensional scaling (MDS) and structural equation modeling (SEM) to understand how land cover and annual variation in rainfall interact to shape waterbird community composition in Chesapeake Bay, USA. The MDS ordination indicated that urban subestuaries shifted from a mixed generalist-specialist community in 2002, a year of severe drought, to generalist-dominated community in 2003, of year of high rainfall. The SEM revealed that this change was concurrent with a sixfold increase in nitrate-N concentration in subestuaries. In the drought year of 2002, waterbird community composition depended only on the direct effect of urban development in watersheds. In the wet year of 2003, community composition depended both on this direct effect and on indirect effects associated with high nitrate-N inputs to northern parts of the Bay, particularly in urban subestuaries. Our findings suggest that increased runoff during periods of high rainfall can depress water quality enough to alter the composition of estuarine waterbird communities, and that this effect is compounded in subestuaries dominated by urban development. Estuarine restoration programs often chart progress by monitoring stressors and indicators, but rarely assess multivariate relationships among them. Estuarine management planning could be improved by tracking the structure of relationships among land cover, water quality, and waterbirds. Unraveling these complex relationships may help managers identify and mitigate ecological thresholds that occur with increasing human land cover.
+C1 [Studds, Colin E.; Marra, Peter P.] Smithsonian Inst, Natl Zool Pk, Migratory Bird Ctr, Smithsonian Conservat Biol Inst, Washington, DC 20008 USA.
+   [DeLuca, William V.] Univ Massachusetts, Dept Environm Conservat, Amherst, MA 01003 USA.
+   [Baker, Matthew E.] Univ Maryland, Dept Geog & Environm Syst, Baltimore, MD 21201 USA.
+   [King, Ryan S.] Baylor Univ, Dept Biol, Ctr Reservoir & Aquat Syst, Waco, TX 76798 USA.
+RP Studds, CE (reprint author), Univ Queensland, Sch Biol Sci, Brisbane, Qld, Australia.
+EM c.studds@uq.edu.au
+RI Studds, Colin/C-3701-2012
+OI Studds, Colin/0000-0001-5715-1692; Marra, Peter/0000-0002-0508-7577;
+   DeLuca, William/0000-0002-5099-2293; Baker, Matthew/0000-0001-5069-0204
+FU United States Environmental Protection Agency's (USEPA) Science to
+   Achieve Results (STAR) Estuarine and Great Lakes (EaGLe) program
+   [R-82868401]; USEPA
+FX This study was funded by a grant from the United States Environmental
+   Protection Agency's (USEPA) Science to Achieve Results (STAR) Estuarine
+   and Great Lakes (EaGLe) program to the Atlantic Slope Consortium, USEPA
+   Agreement #R-82868401. Although the research described in this article
+   was funded by the USEPA, it was not subjected to the Agency's peer and
+   policy review and therefore does not necessarily reflect the views of
+   the Agency and no official endorsement should be inferred. The funders
+   has no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Acker JG, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2004GL021852
+   Arbuckle J. L., 2010, AMOS VERSION 19
+   Bollen KA, 1993, TESTING STRUCTURAL E
+   Boyer EW, 2002, BIOGEOCHEMISTRY, V57, P137, DOI 10.1023/A:1015709302073
+   Brinker DF, 2007, WATERBIRDS, V30, P93, DOI 10.1675/1524-4695(2007)030[0093:CSITCB]2.0.CO;2
+   Bulleri F, 2010, J APPL ECOL, V47, P26, DOI 10.1111/j.1365-2664.2009.01751.x
+   Bundy MH, 2003, ESTUARIES, V26, P365, DOI 10.1007/BF02695974
+   Chesapeake Bay Foundation, 2010, 2010 STAT BAY
+   Chesney E. J., 1989, POPULATION BIOL BAY, P184
+   Connell Des W, 1984, CHEM ECOTOXICOLOGY P
+   DeLuca WV, 2008, BIOL CONSERV, V141, P2669, DOI 10.1016/j.biocon.2008.07.023
+   DeLuca WV, 2004, WETLANDS, V24, P837, DOI 10.1672/0277-5212(2004)024[0837:IOLUOT]2.0.CO;2
+   Diaz RJ, 2008, SCIENCE, V321, P926, DOI 10.1126/science.1156401
+   Easterling DR, 2000, SCIENCE, V289, P2068, DOI 10.1126/science.289.5487.2068
+   Erwin RM, 1996, ESTUARIES, V19, P213, DOI 10.2307/1352226
+   Essington TE, 2010, ECOSYSTEMS, V13, P1035, DOI 10.1007/s10021-010-9372-z
+   FAITH DP, 1989, BIOL CONSERV, V50, P77, DOI 10.1016/0006-3207(89)90006-2
+   Fear JM, 2007, ESTUAR COAST, V30, P1027, DOI 10.1007/BF02841393
+   Haas K, 2007, ECOLOGY, V88, P2915, DOI 10.1890/06-1981.1
+   Howarth RW, 2006, BIOGEOCHEMISTRY, V79, P163, DOI 10.1007/s10533-006-9010-1
+   Howarth RW, 2002, ESTUARIES, V25, P656, DOI 10.1007/BF02804898
+   Jordan TE, 2003, ESTUARIES, V26, P226, DOI 10.1007/BF02695964
+   Jung S, 2003, ESTUAR COAST SHELF S, V58, P335, DOI 10.1016/S0272-7714(03)00085-4
+   Kaushal SS, 2008, ENVIRON SCI TECHNOL, V42, P5872, DOI 10.1021/es800264f
+   Kennish MJ, 2002, ENVIRON CONSERV, V29, P78, DOI 10.1017/S0376892902000061
+   King RS, 2004, ENVIRON SCI TECHNOL, V38, P6546, DOI 10.1021/es049059m
+   King RS, 2005, ECOL APPL, V15, P137, DOI 10.1890/04-0481
+   King RS, 2007, ESTUAR COAST, V30, P469, DOI 10.1007/BF02819393
+   Kloskowski J, 2010, NATURWISSENSCHAFTEN, V97, P673, DOI 10.1007/s00114-010-0684-9
+   Langland M. J., 2004, 20045259 US GEOL SUR
+   Lawrie RA, 2010, ESTUAR COAST SHELF S, V87, P237, DOI 10.1016/j.ecss.2010.01.020
+   Lotze HK, 2006, SCIENCE, V312, P1806, DOI 10.1126/science.1128035
+   Lyons JE, 2008, J WILDLIFE MANAGE, V72, P1683, DOI 10.2193/2008-141
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   Miller DC, 2002, MAR BIOL, V140, P287, DOI 10.1007/s002270100702
+   Mitsch W. J, 2000, WETLANDS
+   Nichols JD, 2000, AUK, V117, P393, DOI 10.1642/0004-8038(2000)117[0393:ADOAFE]2.0.CO;2
+   O'Connell TJ, 2000, ECOL APPL, V10, P1706, DOI 10.1890/1051-0761(2000)010[1706:BGAIOE]2.0.CO;2
+   Oksanen J., 2011, VEGAN COMMUNITY ECOL
+   Paerl HW, 2009, ESTUAR COAST, V32, P593, DOI 10.1007/s12237-009-9158-8
+   Paracuellos M, 2004, WATERBIRDS, V27, P446, DOI 10.1675/1524-4695(2004)027[0446:FATDOA]2.0.CO;2
+   PRESTON SD, 1999, 994054 US GEOL SURV
+   R Develompment Core Team, 2011, R LANG ENV STAT COMP
+   Rabalais NN, 2009, ICES J MAR SCI, V66, P1528, DOI 10.1093/icesjms/fsp047
+   Ronicke H, 2008, FUND APPL LIMNOL, V172, P111, DOI 10.1127/1863-9135/2008/0172-0111
+   Rudstam LG, 2004, ECOL APPL, V14, P149, DOI 10.1890/03-5010
+   Seo Dong Cheol, 2008, Archives of Agronomy and Soil Science, V54, P249, DOI 10.1080/03650340701679075
+   Shields CA, 2008, WATER RESOURCES RES, V44
+   Shipley B., 2000, CAUSE CORRELATION BI
+   Somers CM, 2007, WATERBIRDS, V30, P241, DOI 10.1675/1524-4695(2007)30[241:IBDCAH]2.0.CO;2
+   Thorpe AS, 2011, J APPL ECOL, V48, P275, DOI 10.1111/j.1365-2664.2011.01972.x
+   Thrush SF, 2008, ECOL APPL, V18, P12, DOI 10.1890/07-0436.1
+   Traut AH, 2004, LANDSCAPE URBAN PLAN, V69, P69, DOI 10.1016/j.landurbplan.2003.08.009
+   United States Enivronmental Protection Agency (USEPA), 2000, MULT LAND CHAR CONS
+   Vaquer-Sunyer R, 2008, P NATL ACAD SCI USA, V105, P15452, DOI 10.1073/pnas.0803833105
+   Wazniak CE, 2007, ECOL APPL, V17, pS64, DOI 10.1890/05-1554.1
+NR 56
+TC 10
+Z9 10
+U1 0
+U2 59
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 27
+PY 2012
+VL 7
+IS 4
+AR e35969
+DI 10.1371/journal.pone.0035969
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 959TJ
+UT WOS:000305336000093
+PM 22558286
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Potts, JR
+   Harris, S
+   Giuggioli, L
+AF Potts, Jonathan R.
+   Harris, Stephen
+   Giuggioli, Luca
+TI Territorial Dynamics and Stable Home Range Formation for Central Place
+   Foragers
+SO PLOS ONE
+LA English
+DT Article
+ID FOXES VULPES-VULPES; DIFFUSION
+AB Uncovering the mechanisms behind territory formation is a fundamental problem in behavioural ecology. The broad nature of the underlying conspecific avoidance processes are well documented across a wide range of taxa. Scent marking in particular is common to a large range of terrestrial mammals and is known to be fundamental for communication. However, despite its importance, exact quantification of the time-scales over which scent cues and messages persist remains elusive. Recent work by the present authors has begun to shed light on this problem by modelling animals as random walkers with scent-mediated interaction processes. Territories emerge as dynamic objects that continually change shape and slowly move without settling to a fixed location. As a consequence, the utilisation distribution of such an animal results in a slowly increasing home range, as shown for urban foxes (Vulpes vulpes). For certain other species, however, home ranges reach a stable state. The present work shows that stable home ranges arise when, in addition to scent-mediated conspecific avoidance, each animal moves as a central place forager. That is, the animal's movement has a random aspect but is also biased towards a fixed location, such as a den or nest site. Dynamic territories emerge but the probability distribution of the territory border locations reaches a steady state, causing stable home ranges to emerge from the territorial dynamics. Approximate analytic expressions for the animal's probability density function are derived. A programme is given for using these expressions to quantify both the strength of the animal's movement bias towards the central place and the time-scale over which scent messages persist. Comparisons are made with previous theoretical work modelling central place foragers with conspecific avoidance. Some insights into the mechanisms behind allometric scaling laws of animal space use are also given.
+C1 [Potts, Jonathan R.; Giuggioli, Luca] Univ Bristol, Bristol Ctr Complex Sci, Bristol, Avon, England.
+   [Potts, Jonathan R.; Harris, Stephen; Giuggioli, Luca] Univ Bristol, Sch Biol Sci, Bristol, Avon, England.
+   [Giuggioli, Luca] Univ Bristol, Dept Engn Math, Bristol, Avon, England.
+RP Potts, JR (reprint author), Univ Bristol, Bristol Ctr Complex Sci, Bristol, Avon, England.
+EM jonathan.potts.08@bristol.ac.uk
+RI Giuggioli, Luca/J-2881-2012
+OI Potts, Jonathan/0000-0002-8564-2904
+FU EPSRC [EP/E501214/1]; Dulverton Trust
+FX This work was partially supported by the EPSRC grant number EP/E501214/1
+   http://www.epsrc.ac.uk (LG and JRP) and the Dulverton Trust
+   http://www.dulverton.org/ (SH). No additional external funding received
+   for this study. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Adams ES, 2001, ANNU REV ECOL SYST, V32, P277, DOI 10.1146/annurev.ecolsys.32.081501.114034
+   BARLOW GW, 1974, ANIM BEHAV, V22, P876, DOI 10.1016/0003-3472(74)90010-4
+   Borger L, 2008, ECOL LETT, V11, P637, DOI 10.1111/j.1461-0248.2008.01182.x
+   Briscoe BK, 2002, B MATH BIOL, V64, P261, DOI 10.1006/bulm.2001.0273
+   Brown JL, 1970, ANNU REV ECOL SYST, V1, P23962
+   DURRETT R, 1994, THEOR POPUL BIOL, V46, P363, DOI 10.1006/tpbi.1994.1032
+   Foerster CR, 2002, BIOTROPICA, V34, P423
+   Gautestad AO, 2005, AM NAT, V165, P44, DOI 10.1086/426673
+   Giuggioli L, 2005, B MATH BIOL, V67, P1135, DOI 10.1016/j.bulm.2005.01.003
+   Giuggioli L, 2012, J R SOC INTERFACE, V9, P1529, DOI 10.1098/rsif.2011.0797
+   Giuggioli L, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.061138
+   Giuggioli L, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1002008
+   HARRIS S, 1990, MAMMAL REV, V20, P97, DOI 10.1111/j.1365-2907.1990.tb00106.x
+   Harris T. E., 1965, J APPL PROBAB, V2, P323, DOI DOI 10.2307/3212197
+   HOLGATE P, 1971, STAT ECOLOGY SAMPLIN, P1
+   Hurst Jane L., 2005, P219, DOI 10.1017/CBO9780511610363.014
+   Jetz W, 2004, SCIENCE, V306, P266, DOI 10.1126/science.1102138
+   Kac M, 1947, AM MATH MONTHLY, V54
+   KANG K, 1985, PHYS REV A, V32, P435, DOI 10.1103/PhysRevA.32.435
+   Kenkre VM, 2007, EUR PHYS J B, V55, P461, DOI 10.1140/epjb/e2007-00074-x
+   Landim C, 1992, ANN PROBAB, V20, P20631
+   LEWIS MA, 1993, NATURE, V366, P738, DOI 10.1038/366738a0
+   Maude G, 2010, THESIS U BRISTOL
+   McKane AJ, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.041902
+   Montroll E. W., 1987, Fluctuation phenomena, P61
+   Moon P, 1969, PARTIAL DIFFERENTIAL
+   Moorcroft P., 2006, MECH HOME RANGE ANAL
+   Moorcroft PR, 2006, P ROY SOC B, V273
+   Okubo A., 2002, DIFFUSION ECOLOGICAL
+   Potts JR, 2011, J PHYS A-MATH THEOR, V44, DOI 10.1088/1751-8113/44/48/485003
+   Risken  H., 1996, FOKKER PLANCK EQUATI
+   Soulsbury CD, 2011, J MAMMAL, V92, P190, DOI 10.1644/09-MAMM-A-187.1
+   SPENCER SR, 1990, ECOLOGY, V71, P1817, DOI 10.2307/1937590
+   van Kampen N. G., 1981, STOCHASTIC PROCESSES
+   Van Moorter B, 2009, OIKOS, V118, P641, DOI 10.1111/j.1600-0706.2008.17003.x
+   WHITE PCL, 1994, J ANIM ECOL, V63, P315, DOI 10.2307/5550
+NR 36
+TC 19
+Z9 19
+U1 1
+U2 34
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 30
+PY 2012
+VL 7
+IS 3
+AR e34033
+DI 10.1371/journal.pone.0034033
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 959UC
+UT WOS:000305339100101
+PM 22479510
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

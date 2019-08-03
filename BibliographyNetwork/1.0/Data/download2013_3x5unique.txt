@@ -1,0 +1,471 @@
+
+PT J
+AU Sfetsos, A
+   Vlachogiannis, D
+AF Sfetsos, Athanasios
+   Vlachogiannis, Diamando
+TI An analysis of ozone variation in the Greater Athens Area using Granger
+   Causality
+SO ATMOSPHERIC POLLUTION RESEARCH
+LA English
+DT Article
+DE Granger Causality; ozone; NOx; Athens
+ID GROUND-LEVEL OZONE; AIR-POLLUTION; MATRIX FACTORIZATION; EXPOSURE
+   ASSESSMENT; TIME-SERIES; PATTERNS; GREECE; MODEL; POLLUTANTS; NETWORK
+AB Air pollution in urban areas is a topic of interest for many researchers as it impacts negatively the human health, the environment and the quality of life. As part of the effort in exploring ways for efficient and timely assessment of the urban air pollution patterns and their association with the local meteorology and photochemistry, an advanced statistical approach is proposed for the analysis of the spatiotemporal ozone (O-3) variations and interdependencies to other pollutants. The focus of the work is placed on the investigation and determination of the causality between the local and regional factors causing the observed ozone variability, by applying a holistic methodology on multiple-year meteorological data and air pollution monitoring data, referenced in Athens (Greece). The methodology includes the Positive Matrix Factorization (PMF), for data scaling and reduction, a k-means clustering algorithm, for determining groups of data with common properties, and importantly, the Granger Causality test, for obtaining the causal links between the ozone and nitrogen oxides as well as the local meteorological conditions. The methodology revealed six dominant combined patterns of weather and air pollution. The application of the Granger Causality allowed the determination of relationships across the pollution patterns of dispersed geographic locations and the interdependence of those with the local meteorological conditions and photochemistry effects.
+C1 [Sfetsos, Athanasios; Vlachogiannis, Diamando] Natl Ctr Sci Res Demokritos, Environm Res Lab, Aghia Paraskevi 15310, Attikis, Greece.
+RP Sfetsos, A (reprint author), Natl Ctr Sci Res Demokritos, Environm Res Lab, Aghia Paraskevi 15310, Attikis, Greece.
+EM ts@ipta.demokritos.gr
+FU EC FP7 [229773]
+FX This work was supported partially by EC FP7 under Grant Agreement No
+   229773 (PERL).
+CR Al-Alawi SM, 2008, ENVIRON MODELL SOFTW, V23, P396, DOI 10.1016/j.envsoft.2006.08.007
+   Aleksandropoulou V, 2011, WATER AIR SOIL POLL, V219, P507, DOI 10.1007/s11270-010-0724-2
+   Avino P, 2008, ATMOS ENVIRON, V42, P4138, DOI 10.1016/j.atmosenv.2008.01.024
+   Ballesta PP, 2008, ATMOS ENVIRON, V42, P5350, DOI 10.1016/j.atmosenv.2008.02.047
+   Fann N, 2012, RISK ANAL, V32, P81, DOI 10.1111/j.1539-6924.2011.01630.x
+   GRANGER CWJ, 1969, ECONOMETRICA, V37, P424, DOI 10.2307/1912791
+   Greene JS, 1999, THEOR APPL CLIMATOL, V62, P163, DOI 10.1007/s007040050081
+   GRUBBS FE, 1969, TECHNOMETRICS, V11, P1, DOI 10.2307/1266761
+   Gvozdic V, 2011, ENVIRON MODEL ASSESS, V16, P491, DOI 10.1007/s10666-011-9256-4
+   Jain AK, 1999, ACM COMPUT SURV, V31, P264, DOI 10.1145/331499.331504
+   KALLOS G, 1993, BOUND-LAY METEOROL, V62, P163, DOI 10.1007/BF00705553
+   Kanaroglou PS, 2005, ATMOS ENVIRON, V39, P2399, DOI 10.1016/j.atmosenv.2004.06.049
+   Kassomenos PA, 2005, INT J CLIMATOL, V25, P1651, DOI 10.1002/joc.1188
+   Kim DJ, 2001, IEICE T INF SYST, VE84D, P281
+   Lee DD, 1999, NATURE, V401, P788, DOI 10.1038/44565
+   MEECC (Ministry of Environment Energy and Climate Change), 2011, ANN REP AIR POLL 201
+   Movassaghi K., 2012, CHEM CENTRAL J, V6, pS2
+   Ozbay B, 2011, ATMOS RES, V102, P57, DOI 10.1016/j.atmosres.2011.06.005
+   PAATERO P, 1994, ENVIRONMETRICS, V5, P111, DOI 10.1002/env.3170050203
+   Pitard A, 1999, ENVIRONMETRICS, V10, P53, DOI 10.1002/(SICI)1099-095X(199901/02)10:1<53::AID-ENV335>3.0.CO;2-G
+   Progiou AG, 2011, SCI TOTAL ENVIRON, V410, P1, DOI 10.1016/j.scitotenv.2011.09.050
+   Seinfeld J. H., 2006, ATMOSPHERIC CHEM PHY
+   Sfetsos A, 2010, ATMOS RES, V98, P500, DOI 10.1016/j.atmosres.2010.08.021
+   Shahgedanova M, 1999, WATER AIR SOIL POLL, V112, P107, DOI 10.1023/A:1005043916123
+   Sindosi OA, 2003, ENVIRON TECHNOL, V24, P947, DOI 10.1080/09593330309385633
+   Vardoulakis S, 2008, ATMOS ENVIRON, V42, P3949, DOI 10.1016/j.atmosenv.2006.12.021
+   Vogel B, 1999, J GEOPHYS RES-ATMOS, V104, P3605, DOI 10.1029/1998JD100075
+   Wang QX, 2008, SCI TOTAL ENVIRON, V391, P143, DOI 10.1016/j.scitotenv.2007.10.058
+   Yakovleva E, 1999, ENVIRON SCI TECHNOL, V33, P3645, DOI 10.1021/es981122i
+   Zhang GP, 2003, NEUROCOMPUTING, V50, P159, DOI 10.1016/S0925-2312(01)00702-0
+NR 30
+TC 4
+Z9 5
+U1 1
+U2 11
+PU TURKISH NATL COMMITTEE AIR POLLUTION RES & CONTROL-TUNCAP
+PI BUCA
+PA DOKUZ EYLUL UNIV, DEPT ENVIRONMENTAL ENGINEERING, TINAZTEPE CAMPUS,
+   BUCA, IZMIR 35160, TURKEY
+SN 1309-1042
+J9 ATMOS POLLUT RES
+JI Atmos. Pollut. Res.
+PD JUL
+PY 2013
+VL 4
+IS 3
+BP 290
+EP 297
+DI 10.5094/APR.2013.032
+PG 8
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 178ED
+UT WOS:000321426000007
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Elliott, JR
+   Frickel, S
+AF Elliott, James R.
+   Frickel, Scott
+TI The Historical Nature of Cities: A Study of Urbanization and Hazardous
+   Waste Accumulation
+SO AMERICAN SOCIOLOGICAL REVIEW
+LA English
+DT Article
+DE environment; industrial hazards; risk; urbanization
+ID ENVIRONMENTAL JUSTICE; POLITICAL-ECONOMY; TOXIC-WASTE; INEQUALITY;
+   PATTERNS; US; GENTRIFICATION; BROWNFIELDS; PORTLAND; OREGON
+AB Endemic uncertainties surrounding urban industrial waste raise important theoretical and methodological challenges for understanding the historical nature of cities. Our study advances a synthetic framework for engaging these challenges by extending theories of modern risk society and classic urban ecology to investigate the accumulation of industrial hazards over time and space. Data for our study come from a unique longitudinal dataset containing geospatial and organizational information on more than 2,800 hazardous manufacturing sites operating between 1956 and 2006 in Portland, Oregon. We pair these site data with historical data from the U.S. population census and the Oregon Department of Environmental Quality (DEQ) to examine the historical accumulation of hazardous parcels in relation to changing patterns of industrial land use, neighborhood composition, new residential development, and environmental regulation. Results indicate that historical accumulation of hazardous sites is scaling up in ways that exhibit little regard for shifting neighborhood demographics or existing regulatory policies as sites merge into larger, more contiguous industrialized areas of historically generated hazards, creating the environmental conditions of urban risk society.
+C1 [Elliott, James R.] Univ Oregon, Eugene, OR 97403 USA.
+   [Frickel, Scott] Washington State Univ, Pullman, WA 99164 USA.
+RP Elliott, JR (reprint author), Univ Oregon, Dept Sociol, Eugene, OR 97403 USA.
+EM elliott@uoregon.edu
+CR ABBOTT C, 1983, PORTLAND PLANNING PO
+   Abbott Carl, 2008, PORTLANDS WORKING RI
+   Abbott Carl, 2001, GREATER PORTLAND URB
+   Adjo Amekudzi, 1998, PUBLIC WORKS MANAGEM, V2, P231
+   [Anonymous], 1970, NEIGHB CHANG DAT
+   Anselin L, 1998, STAT TEXTB MONOG, V155, P237
+   Auyero J, 2008, AM SOCIOL REV, V73, P357, DOI 10.1177/000312240807300301
+   Beck U., 1992, RISK SOC NEW MODERNI
+   Beck U., 1994, REFLEXIVE MODERNIZAT
+   Beck Ulrich, 2009, WORLD RISK
+   Blonigen BA, 2007, EUR ECON REV, V51, P1303, DOI 10.1016/j.euroecorev.2006.08.006
+   Bogue Donald, 1950, ICPSR02931, DOI 10.3886/ICPSR02931.v1
+   Bowen WM, 1995, ANN ASSOC AM GEOGR, V85, P641, DOI 10.1111/j.1467-8306.1995.tb01818.x
+   Braun B, 2005, PROG HUM GEOG, V29, P635, DOI 10.1191/0309132505ph574pr
+   Bullard Robert, 2000, SPRAWL CITY RACE POL
+   Cable S, 2008, AM SOCIOL REV, V73, P380, DOI 10.1177/000312240807300302
+   Chi GQ, 2009, DEMOGRAPHY, V46, P405, DOI 10.1353/dem.0.0059
+   Cliff A. D., 1981, SPATIAL PROCESSES MO
+   Coffin S. L., 2003, Environmental Practice, V5, P34
+   COLTEN CE, 1996, ROAD LOVE CANAL MANA
+   Craig Colten, 1990, PROF GEOGR, V42, P143
+   Cronon W., 1991, NATURES METROPOLIS C
+   Dietrich Gary N., 1981, TOXIC HAZARDOUS WAST, V3, P1
+   Downey L, 2005, SOC FORCES, V83, P971, DOI 10.1353/sof.2005.0026
+   Downey L, 2007, URBAN STUD, V44, P953, DOI 10.1080/00420980701256013
+   Eckerd A, 2011, URBAN AFF REV, V47, P31, DOI 10.1177/1078087410379720
+   Fletcher Thomas H., 2003, LOVE CANAL ENV JUSTI
+   Gibson K, 2002, CITIES, V19, P425, DOI 10.1016/S0264-2751(02)00075-6
+   Grant D, 2010, AM SOCIOL REV, V75, P479, DOI 10.1177/0003122410374822
+   Grant DS, 2002, AM SOCIOL REV, V67, P389
+   Guignet D, 2010, CITYSCAPE, V12, P7
+   Harris CD, 1945, ANN AM ACAD POLIT SS, V242, P7, DOI 10.1177/000271624524200103
+   Harvey D., 1996, JUSTICE NATURE GEOGR
+   Hawkins K, 1984, ENV ENFORCEMENT REGU
+   Hays Samuel P., 1987, BEAUTY HLTH PERMANEN
+   HERNES G, 1976, AM J SOCIOL, V82, P513, DOI 10.1086/226352
+   Heynen N, 2006, NATURE CITIES URBAN
+   Hovey Bradshaw, 1998, UTOPIAN STUDIES, V9, P68
+   Howard Aldrich, 1975, URBAN AFF REV, V10, P327
+   Hoyt Homer, 1939, STRUCTURE GROWTH RES
+   Huber William T., 2007, URBAN GEOGR, V28, P705
+   Jun MJ, 2004, URBAN STUD, V41, P1333, DOI 10.1080/0042098042000214824
+   KRIEG EJ, 1995, AM J ECON SOCIOL, V54, P1, DOI 10.1111/j.1536-7150.1995.tb02622.x
+   Krieg EJ, 1998, SOCIOL FORUM, V13, P3, DOI 10.1023/A:1022147712682
+   Lang William, 2010, CITIES NATURE AM W, P96
+   Leigh NG, 2000, J URBAN TECHNOL, V7, P1, DOI 10.1080/713684132
+   Leo C, 1998, J URBAN AFF, V20, P363, DOI 10.1111/j.1467-9906.1998.tb00428.x
+   Litt JS, 2002, J URBAN HEALTH, V79, P464, DOI 10.1093/jurban/79.4.464
+   Logan J, 1987, URBAN FORTUNES POLIT
+   Markowitz G., 2002, DECEIT DENIAL DEADLY
+   Miller T., 2000, 12 RUTG U NAT CTR NE
+   Mohai P, 2009, ANNU REV ENV RESOUR, V34, P405, DOI 10.1146/annurev.environ.082508-094348
+   MOLOTCH H, 1976, AM J SOCIOL, V82, P309, DOI 10.1086/226311
+   MORAN PAP, 1950, BIOMETRIKA, V37, P17, DOI 10.2307/2332142
+   NOONAN F, 1992, RISK ANAL, V12, P245, DOI 10.1111/j.1539-6924.1992.tb00672.x
+   Oregon Department of Environmental Quality (DEQ), 2011, ENV CLEAN SIT INF
+   Page G.W, 1997, CONTAMINATED SITES E
+   Park R, 1925, CITY SUGGESTIONS STU
+   PARK RE, 1936, AM SOCIOL REV, V1, P171
+   Pellow D., 2007, RESISTING GLOBAL TOX
+   Renn Ortwin, 2001, RISK UNCERTAINTY RAT
+   Robbins William, 2004, LANDSCAPES CONFLICT
+   Rudel TK, 2011, ANNU REV SOCIOL, V37, P221, DOI 10.1146/annurev.soc.012809.102639
+   Rudel TK, 2011, ANN ASSOC AM GEOGR, V101, P609, DOI 10.1080/00045608.2011.560062
+   Rudel Thomas K., 1989, SITUATIONS STRATEGIE
+   Sadd JL, 2011, INT J ENV RES PUB HE, V8, P1441, DOI 10.3390/ijerph8051441
+   Saha R, 2005, SOC PROBL, V52, P618, DOI 10.1525/sp.2005.52.4.618
+   Slovic P., 2000, PERCEPTION RISK
+   Smith Chad, 2005, THESIS WASHINGTON ST
+   STROUD E, 1999, RADICAL HIST REV, V74, P65
+   Szasz Andrew, 1994, ECOPOPULISM TOXIC WA
+   Tarr Joel A, 1996, SEARCH ULTIMATE SINK
+   U.S. Census Bureau, 2010, 1 US CENS BUR
+   Uri Avin, 2003, PLANNING, P22
+   Voss PR, 2006, POPUL RES POLICY REV, V25, P369, DOI 10.1007/s11113-006-9007-4
+   Walker P. A., 2011, PLANNING PARADISE PO
+   Weil D, 1997, GOVT REGULATION EMPL, P429
+   Wernstedt K., 2004, 0446 RES FUT
+   Woodruff TJ, 2009, ENVIRON RES, V109, P311, DOI 10.1016/j.envres.2008.12.012
+   ZUKIN S, 1987, ANNU REV SOCIOL, V13, P129, DOI 10.1146/annurev.so.13.080187.001021
+   Zunz Olivier, 2000, CHANGING FACE INEQUA
+NR 81
+TC 26
+Z9 26
+U1 3
+U2 62
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0003-1224
+J9 AM SOCIOL REV
+JI Am. Sociol. Rev.
+PD AUG
+PY 2013
+VL 78
+IS 4
+BP 521
+EP 543
+DI 10.1177/0003122413493285
+PG 23
+WC Sociology
+SC Sociology
+GA 193UZ
+UT WOS:000322588300001
+DA 2019-03-26
+ER
+
+PT J
+AU Dallman, A
+   Di Sabatino, S
+   Fernando, HJS
+AF Dallman, A.
+   Di Sabatino, S.
+   Fernando, H. J. S.
+TI Flow and turbulence in an industrial/suburban roughness canopy
+SO ENVIRONMENTAL FLUID MECHANICS
+LA English
+DT Article
+DE Urban effects; Turbulence scales; Thermal stratification; Nocturnal
+   boundary layer; Morphometric analyses
+ID ATMOSPHERIC BOUNDARY-LAYER; STRATIFIED SHEAR-FLOW; URBAN CANOPY;
+   FLUID-MECHANICS; COMPLEX TERRAIN; WIND PROFILES; DISPERSION; HEIGHT;
+   APPLICABILITY; PHOENIX
+AB A field study conducted to investigate the flow and turbulence structure of the urban boundary layer (UBL) over an industrial/suburban area is described. The emphasis was on morning and evening transition periods, but some measurements covered the entire diurnal cycle. The data analysis incorporated the dependence of wind direction on morphometric parameters of the urban canopy. The measurements of heat and momentum fluxes showed the possibility of a constant flux layer above the height , wherein the Monin-Obukhov Similarity Theory (MOST) is valid; here is the averaged building height. For the nocturnal boundary layer, the mean velocity and temperature profiles obeyed classical MOST scaling up to , where is the Obukhov length scale, beyond which stronger stratification may disrupt the occurrence of constant fluxes. For unstable and neutral cases, MOST scaling described the mean data well up to the maximum measured height . Available MOST functions, however, could not describe the measured turbulence structure, indicating the influence of additional governing parameters. Alternative turbulence parameterizations were tested, and some were found to perform well. Calculation of integral length scales for convective and neutral cases allowed a phenomenological description of eddy characteristics within and above the urban canopy layer. The development of a significant nocturnal surface inversion occurred only on certain days, for which a criterion was proposed. The nocturnal UBL exhibited length scale relationships consistent with the evening collapse of the convective boundary layer and maintenance of buoyancy-affected turbulence overnight. The length and velocity scales so identified are useful in parameterizing turbulent dispersion coefficients in different diurnal phases of the UBL.
+C1 [Dallman, A.; Di Sabatino, S.; Fernando, H. J. S.] Univ Notre Dame, Environm Fluid Dynam Labs, Dept Civil & Environm Engn & Earth Sci, Notre Dame, IN 46556 USA.
+   [Di Sabatino, S.] Univ Salento, Lab Micrometeorol, Dipartimento Sci & Tecnol Biol & Ambientali, Lecce, Italy.
+   [Fernando, H. J. S.] Univ Notre Dame, Dept Aerosp & Mech Engn, Notre Dame, IN 46556 USA.
+RP Dallman, A (reprint author), Univ Notre Dame, Environm Fluid Dynam Labs, Dept Civil & Environm Engn & Earth Sci, Notre Dame, IN 46556 USA.
+EM ardallm@gmail.com
+RI Fernando, Harindra/N-5339-2014
+OI Fernando, Harindra/0000-0002-9638-0698; DI SABATINO,
+   SILVANA/0000-0003-2716-9247
+FU Arizona Department of Environmental Quality of the Hermoso Park Study;
+   Office of Naval Research [N00014-11-1-0709]
+FX The experiments described in this paper were funded by the Arizona
+   Department of Environmental Quality as part of the Hermoso Park Study.
+   The data were analyzed with the support of the National Science
+   Foundation CMG Program and the Office of Naval Research Award
+   #N00014-11-1-0709, Mountain Terrain Atmospheric Modeling and
+   Observations (MATERHORN) Program. The authors are grateful to Dr. Laura
+   Leo for assistance in the morphometric analysis and to the students at
+   Arizona State University for their help in setting up the equipment and
+   running balloon flights.
+CR Allwine KJ, 2002, B AM METEOROL SOC, V83, P521, DOI 10.1175/1520-0477(2002)083<0521:OOUAMF>2.3.CO;2
+   Allwine KJ, 2004, B AM METEOROL SOC, V83, P745
+   ANDRE JC, 1978, J ATMOS SCI, V35, P1861, DOI 10.1175/1520-0469(1978)035<1861:MTHEOT>2.0.CO;2
+   Andrews MJ, 2012, HDB ENV FLUID DYN, V1, P107
+   Arnold SJ, 2004, SCI TOTAL ENVIRON, V332, P139, DOI 10.1016/j.scitotenv.2004.04.020
+   Baik JJ, 2003, J APPL METEOROL, V42, P1636, DOI 10.1175/1520-0450(2003)042<1636:ACMFSU>2.0.CO;2
+   Barenblatt G. I., 1996, SCALING SELF SIMILAR
+   Batchelor G. K, 1967, INTRO FLUID DYNAMICS
+   Belcher SE, 2003, J FLUID MECH, V488, P369, DOI 10.1017/S0022112003005019
+   Brazel AJ, 2005, J APPL METEOROL, V44, P99, DOI 10.1175/JAM-2180.1
+   Britter RE, 2003, ANNU REV FLUID MECH, V35, P469, DOI 10.1146/annurev.fluid.35.101101.161147
+   Britter RE, 2012, HDB ENV FLUID DYN, V2, P85
+   BROST RA, 1978, J ATMOS SCI, V35, P1427, DOI 10.1175/1520-0469(1978)035<1427:AMSOTS>2.0.CO;2
+   Businger J.A, 1974, ADV GEOPHYSICS     A, V18, P73
+   Ching JS, 2004, P 5 S URB ENV VANC A
+   Cionco RM, 1965, J APPL METEOROL, V4, P517, DOI [10.1175/1520-0450(1965)004<0517:AMMFAF>2.0.CO;2, 10.1175/1520-0450(1965), DOI 10.1175/1520-0450(1965)004<0517:AMMFAF>2.0.CO;2, 10.1175/1520-0450(1965)004&LT;0517:AMMFAF&GT;2.0.CO;2]
+   Clarke JF, 1982, EXPT STUDY TURBULENC
+   DEARDORFF JW, 1983, J PHYS OCEANOGR, V13, P988, DOI 10.1175/1520-0485(1983)013<0988:AMLMLE>2.0.CO;2
+   DESILVA IPD, 1992, J FLUID MECH, V240, P601
+   Di Sabatino S, 2008, BOUND-LAY METEOROL, V127, P131, DOI 10.1007/s10546-007-9250-1
+   Di Sabatino S, 2010, J APPL METEOROL CLIM, V49, P1377, DOI 10.1175/2010JAMC2117.1
+   Dobbins R. A., 1977, Boundary-Layer Meteorology, V11, P39
+   Ellis AW, 2000, CLIMATE RES, V15, P13, DOI 10.3354/cr015013
+   Fernando HJS, 2010, B AM METEOROL SOC, V91, P1475, DOI 10.1175/2010BAMS2770.1
+   Fernando HJS, 2010, ANNU REV FLUID MECH, V42, P365, DOI 10.1146/annurev-fluid-121108-145459
+   Fernando HJS, 2001, ENVIRON FLUID MECH, V1, P107, DOI 10.1023/A:1011504001479
+   Fernando HJS, 2005, PHYS FLUIDS, V17, DOI 10.1063/1.1949203
+   Fernando HJS, 2003, PHYS FLUIDS, V15, P3164, DOI 10.1063/1.1602076
+   Fernando HJS, 2010, PHYS FLUIDS, V22
+   Fernando HJS, 2013, BOUND-LAY METEOROL, DOI [10.1007/s10546-012-9795-5, DOI 10.1007/S10546-012-9795-5]
+   GIBSON CH, 1982, J PHYS OCEANOGR, V12, P374, DOI 10.1175/1520-0485(1982)012<0374:AIFMPI>2.0.CO;2
+   GIBSON CH, 1991, J GEOPHYS RES-OCEANS, V96, P12549, DOI 10.1029/91JC00186
+   Grimmond CSB, 1999, J APPL METEOROL, V38, P1262, DOI 10.1175/1520-0450(1999)038<1262:APOUAD>2.0.CO;2
+   Grimmond CSB, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004936
+   Hang J, 2012, BUILD ENVIRON, V56, P346, DOI 10.1016/j.buildenv.2012.03.023
+   HANNA S, 2002, WIND FLOW VAPOR CLOU
+   Hicks BB, 2012, J APPL METEOROL CLIM, V51, P205, DOI 10.1175/JAMC-D-11-015.1
+   Higgins CW, 2012, BOUND-LAY METEOROL, V143, P379, DOI 10.1007/s10546-012-9701-1
+   HOPFINGER EJ, 1982, J FLUID MECH, V114, P157, DOI 10.1017/S0022112082000081
+   HUNT JCR, 1984, J FLUID MECH, V138, P161, DOI 10.1017/S0022112084000070
+   Hunt JCR, 2003, J ATMOS SCI, V60, P2169, DOI 10.1175/1520-0469(2003)060<2169:UTDFOG>2.0.CO;2
+   Kaimal J C, 1994, ATMOSPHERIC BOUNDARY
+   KARLSSON S, 1986, BOUND-LAY METEOROL, V34, P333, DOI 10.1007/BF00120987
+   Kastner-Klein P, 2004, BOUND-LAY METEOROL, V111, P55, DOI 10.1023/B:BOUN.0000010994.32240.b1
+   KITAIGORODSKI SA, 1960, B ACAD SCI USSR    G, V3, P284
+   KITAIGORODSKII S A, 1988, Tellus Series A Dynamic Meteorology and Oceanography, V40, P419
+   Kitaigorodskii S. A., 1988, Tellus, Series A (Dynamic Meteorology and Oceanography), V40A, P434
+   Lee SM, 2003, ENVIRON FLUID MECH, V3, P331, DOI 10.1023/A:1023680216173
+   LENSCHOW DH, 1994, J ATMOS OCEAN TECH, V11, P661, DOI 10.1175/1520-0426(1994)011<0661:HLILEW>2.0.CO;2
+   Li K, 2007, ENVIRON SCI TECHNOL, V41, P5130, DOI 10.1021/es062481d
+   MacDonald RW, 1998, ATMOS ENVIRON, V32, P3845, DOI 10.1016/S1352-2310(98)80006-X
+   Macdonald RW, 2000, BOUND-LAY METEOROL, V97, P25, DOI 10.1023/A:1002785830512
+   Mestayer PG, 2005, BOUND-LAY METEOROL, V114, P315, DOI 10.1007/s10546-004-9241-4
+   Moraes OLL, 2005, ATMOS ENVIRON, V39, P3103, DOI 10.1016/j.atmosenv.2005.01.046
+   NIEUWSTADT FTM, 1981, BOUND-LAY METEOROL, V20, P3, DOI 10.1007/BF00119920
+   NOH Y, 1991, PHYS FLUIDS A-FLUID, V3, P422, DOI 10.1063/1.858098
+   Oke T. R, 1988, BOUNDARY LAYER CLIMA
+   Pahlow M, 2001, BOUND-LAY METEOROL, V99, P225, DOI 10.1023/A:1018909000098
+   Panofsky H. A., 1977, Boundary-Layer Meteorology, V11, P355, DOI 10.1007/BF02186086
+   Pelliccioni A, 2012, ENVIRON FLUID MECH, V12, P405, DOI 10.1007/s10652-012-9246-3
+   Perez IA, 2005, SOL ENERGY, V78, P809, DOI 10.1016/j.solener.2004.08.024
+   Pollard R. T., 1973, Geophysical Fluid Dynamics, V4, P381
+   Quan LH, 2009, METEOROL ATMOS PHYS, V104, P29, DOI 10.1007/s00703-008-0012-5
+   Ratti C, 2006, THEOR APPL CLIMATOL, V84, P77, DOI 10.1007/s00704-005-0146-z
+   Rossby  C.G., 1935, PAP PHYS OCEANOGR ME, V3, P1, DOI DOI 10.1575/1912/1157
+   Rotach MW, 2005, THEOR APPL CLIMATOL, V81, P231, DOI 10.1007/s00704-004-0117-9
+   Roth M, 2000, Q J ROY METEOR SOC, V126, P941, DOI 10.1256/smsqj.56408
+   Settles GS, 2006, ANNU REV FLUID MECH, V38, P87, DOI 10.1146/annurev.fluid.38.050304.092111
+   UNEP, ESAPWP220 UNEP POP D
+   Vickers D, 2004, J APPL METEOROL, V43, P1736, DOI 10.1175/JAM2160.1
+   Wang Y, 2007, J APPL METEOROL CLIM, V46, P2098, DOI 10.1175/2006JAMC1283.1
+   Wilson JD, 2008, BOUND-LAY METEOROL, V129, P353, DOI 10.1007/s10546-008-9319-5
+   Wood CR, 2010, BOUND-LAY METEOROL, V137, P77, DOI 10.1007/s10546-010-9516-x
+   Wood CR, 2009, B AM METEOROL SOC, V90, P955, DOI 10.1175/2009BAMS2638.1
+   YU T, 1978, J APPL METEOROL, V17, P28, DOI 10.1175/1520-0450(1978)017<0028:DHOTNB>2.0.CO;2
+   Zilitinkevich S, 2002, Q J ROY METEOR SOC, V128, P25, DOI 10.1256/00359000260498770
+   Zilitinkevich S. S., 1972, Boundary-Layer Meteorology, V3, P141, DOI 10.1007/BF02033914
+NR 77
+TC 10
+Z9 10
+U1 1
+U2 41
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1567-7419
+J9 ENVIRON FLUID MECH
+JI Environ. Fluid Mech.
+PD JUN
+PY 2013
+VL 13
+IS 3
+BP 279
+EP 307
+DI 10.1007/s10652-013-9274-7
+PG 29
+WC Environmental Sciences; Mechanics; Meteorology & Atmospheric Sciences;
+   Oceanography; Water Resources
+SC Environmental Sciences & Ecology; Mechanics; Meteorology & Atmospheric
+   Sciences; Oceanography; Water Resources
+GA 143NU
+UT WOS:000318875100005
+DA 2019-03-26
+ER
+
+PT J
+AU Ziegler, R
+   Karanja, BHK
+   Dietsche, C
+AF Ziegler, Rafael
+   Karanja, Benson H. K.
+   Dietsche, Christian
+TI Toilet Monuments: An Investigation of Innovation for Human Development
+SO JOURNAL OF HUMAN DEVELOPMENT AND CAPABILITIES
+LA English
+DT Article
+DE Innovation; Replication; Conversion factors; Sanitation; Capabilities
+AB The article reviews the role of capability innovations, defined as the carrying out of new combinations of capabilities, in human development. Drawing on a recognized social innovation in sanitationthe ikotoilets of Kenya's Ecotactthe article makes a threefold argument. Firstly, indirect conversion factors are an important element in the success or failure of an innovation. In our sanitation case study, these factors help to explain why the public toilets in urban centres are a success story and those in the slums a story of difficulty. Secondly, not to take into account direct and indirect conversion factors is to commit explanatory commodity fetishism. Goods are taken as given. However, they are the product of human design, including options for capability impact, and this accordingly needs to be taken into account. Thirdly, applying the capabilities approach to innovation suggests that it is fruitful to distinguish analytically two different scaling strategies regarding the replication of capability innovations, which the article calls the lab' and the family' strategies.
+C1 [Ziegler, Rafael] Ernst Moritz Arndt Univ Greifswald, Res Grp GETIDOS, Greifswald, Germany.
+   [Dietsche, Christian] Inst Ecol Econ Res IOW, Berlin, Germany.
+RP Ziegler, R (reprint author), Ernst Moritz Arndt Univ Greifswald, Res Grp GETIDOS, Greifswald, Germany.
+RI Santos, Maria/E-8450-2014; Adianto, Joko/K-9546-2014
+OI Adianto, Joko/0000-0002-3048-5462; Ziegler, Rafael/0000-0002-7156-7042
+CR Appadurai A., 2004, CULTURE PUBLIC ACTIO, P59
+   Bloom PN, 2010, SOC ENTREP, P11
+   Calhoun C., 1992, HABERMAS PUBLIC SPHE
+   de Herdt T., 2008, C CHANG ROL AG DEV L
+   Dietsche C., 2012, OKOLOGISCHES WIRTSCH, V1, P37
+   Elkington J, 2010, SOC ENTREP, P83
+   Ganly K., 2009, OKOLOGISCHE WIRTSCHA, V2, P15
+   Hussain K., 2010, PROVIDING ADEQUATE S
+   Karugu W., 2011, ECOTACT AFFORDABLE S
+   Ministry of Water and Irrigation, 2006, MILL DEV GOALS NEEDS
+   Nussbaum M., 2011, CREATING CAPABILITIE
+   Nussbaum Martha, 2006, FRONTIERS JUSTICE DI
+   Oosterlaken I, 2009, DES ISSUES, V25, P91, DOI 10.1162/desi.2009.25.4.91
+   Rawls J., 1971, THEORY JUSTICE
+   Robeyns I., 2005, J HUMAN DEV, V6, P93, DOI DOI 10.1080/146498805200034266
+   Schumpeter J., 1934, THEORY EC DEV
+   Seelos C., 2010, 840 IESE
+   Sen A., 1999, DEV FREEDOM
+   Swedberg R., 2009, INTRO SOCIAL ENTEPRE, P155
+   *UN DEP EC SOC AFF, 2010, MILL DEV GOALS REP
+   UNDP, 2006, HUM DEV REP 2006
+   Yujuico E., 2008, SOCIO-ECON REV, V6, P493
+   Ziegler R., 2012, CAPABILITY APPROACH, P232
+   Ziegler R, 2010, J SOC ENTREP, V1, P255, DOI 10.1080/19420676.2010.511818
+NR 24
+TC 3
+Z9 3
+U1 3
+U2 15
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1945-2829
+J9 J HUM DEV CAPABIL
+JI J. Hum. Dev. Capab.
+PD AUG 1
+PY 2013
+VL 14
+IS 3
+BP 420
+EP 440
+DI 10.1080/19452829.2012.693070
+PG 21
+WC Development Studies
+SC Development Studies
+GA 176RL
+UT WOS:000321321700005
+DA 2019-03-26
+ER
+
+PT B
+AU Jayech, K
+   Trimech, N
+   Mahjoub, MA
+   Ben Amara, NE
+AF Jayech, Khaoula
+   Trimech, Nesrine
+   Mahjoub, Mohamed Ali
+   Ben Amara, Najoua Essoukri
+GP IEEE
+TI Dynamic Hierarchical Bayesian Network for Arabic Handwritten Word
+   Recognition
+SO 2013 FOURTH INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION
+   TECHNOLOGY AND ACCESSIBILITY (ICTA)
+LA English
+DT Proceedings Paper
+CT 4th International Conference on Information and Communication Technology
+   and Accessibility (ICTA)
+CY OCT 24-26, 2013
+CL Hammamet, TUNISIA
+DE Arabic handwriting recognition; Dynamic Bayesian network; Hierarchical
+   Bayesian network; OCR; IFN/ENIT database
+AB This paper presents a new probabilistic graphical model used to model and recognize words representing the names of Tunisian cities. In fact, this work is based on a dynamic hierarchical Bayesian network. The aim is to find the best model of Arabic handwriting to reduce the complexity of the recognition process by permitting the partial recognition. Actually, we propose a segmentation of the word based on smoothing the vertical histogram projection using different width values to reduce the error of segmentation. Then, we extract the characteristics of each cell using the Zernike and HU moments, which are invariant to rotation, translation and scaling. Our approach is tested using the IFN/ENIT database, and the experiment results are very promising.
+C1 [Jayech, Khaoula; Trimech, Nesrine; Mahjoub, Mohamed Ali; Ben Amara, Najoua Essoukri] Univ Sousse, Natl Sch Engn Sousse, Res Unit SAGE, Sousse Erriadh 4023, Tunisia.
+RP Jayech, K (reprint author), Univ Sousse, Natl Sch Engn Sousse, Res Unit SAGE, BP 264, Sousse Erriadh 4023, Tunisia.
+EM jayech_k@yahoo.fr; nesrine.trimech@gmail.com;
+   medali.mahjoub@ipeim.rnu.tn; najoua.benamara@eniso.rnu.tn
+CR AlKhateeb JH, 2011, PATTERN RECOGN LETT, V32, P1081, DOI 10.1016/j.patrec.2011.02.006
+   Benouareth A, 2008, EURASIP J ADV SIG PR, DOI 10.1155/2008/247354
+   El-Hajj Mohamad R., 2009, PATTERN ANAL MACHINE, V31
+   Faber V., 1994, CLUSTERING CONTINIOU, V22
+   FORNEY GD, 1973, P IEEE, V61, P268, DOI 10.1109/PROC.1973.9030
+   Hallouli K, 2002, INT C PATT RECOG, P147, DOI 10.1109/ICPR.2002.1047816
+   Hallouli K., 2003, RESEAU BAYESIEN DYNA
+   Jayech K., JOURN FRANC RES BAYE
+   Kan C, 2002, PATTERN RECOGN, V35, P143, DOI 10.1016/S0031-3203(00)00179-5
+   Kessentini, 2008, P 19 INT C PATT REC
+   Mahjoub M.A., JOURN FRANC RES BAYE
+   Mahjoub M.A, 2010, C RECH INF APPL CORI
+   Murphy K.P., 2002, THESIS U CALIFORNIA
+   Parvez MT, 2013, PATTERN RECOGN, V46, P141, DOI 10.1016/j.patcog.2012.07.012
+   Tlemsani R., 2007, 4 INT C SCI EL TECHN
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+PY 2013
+PG 6
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA BB2CX
+UT WOS:000341665000027
+DA 2019-03-26
+ER

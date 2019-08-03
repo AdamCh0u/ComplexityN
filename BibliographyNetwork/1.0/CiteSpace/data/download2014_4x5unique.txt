@@ -1,0 +1,601 @@
+
+PT J
+AU Melo, HPM
+   Moreira, AA
+   Batista, E
+   Makse, HA
+   Andrade, JS
+AF Melo, Hygor Piaget M.
+   Moreira, Andre A.
+   Batista, Elcio
+   Makse, Hernan A.
+   Andrade, Jose S., Jr.
+TI Statistical Signs of Social Influence on Suicides
+SO SCIENTIFIC REPORTS
+ID CITIES; MODEL
+AB By treating the suicide as a social fact, Durkheim envisaged that suicide rates should be determined by the connections between people and society. Under the same framework, he considered that crime is bound up with the fundamental conditions of all social life. The social effect on the occurrence of homicides has been previously substantiated, and confirmed here, in terms of a superlinear scaling relation: by doubling the population of a Brazilian city results in an average increment of 135% in the number of homicides, rather than the expected isometric increase of 100%, as found, for example, for the mortality due to car crashes. Here we present statistical signs of the social influence on the suicide occurrence in cities. Differently from homicides (superlinear) and fatal events in car crashes (isometric), we find sublinear scaling behavior between the number of suicides and city population, with allometric power-law exponents, beta = 0.84 +/- 0.02 and 0.87 +/- 0.01, for all cities in Brazil and US counties, respectively. Also for suicides in US, but using the Metropolitan Statistical Areas (MSAs), we obtain beta = 0.88 +/- 0.01.
+RI UFC, DF/E-1564-2017; Universidade Federal do Ceara, Physics
+   Department/J-4630-2016; Andrade, Jose/C-5451-2013; Moreira, Andre
+   Auto/C-5290-2013
+OI Universidade Federal do Ceara, Physics Department/0000-0002-9247-6780;
+   Andrade, Jose/0000-0002-5571-7610; Moreira, Andre
+   Auto/0000-0003-1046-5218
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Changizi MA, 2002, J THEOR BIOL, V218, P215, DOI 10.1006/yjtbi.3070
+   Durkheim Emile, 1897, EMILE SUICIDE ETUDE
+   Fowler J. H., 2008, BMJ-BRIT MED J, V337, P23, DOI DOI 10.1136/BMJ.A2338
+   Hill AL, 2010, P ROY SOC B-BIOL SCI, V277, P3827, DOI 10.1098/rspb.2010.1217
+   KLEIBER M, 1947, PHYSIOL REV, V27, P511
+   Kleiber M., 1961, FIRE LIFE INTRO ANIM
+   Montgomery DC, 1992, INTRO LINEAR REGRESS
+   Nadaraya E. A., 1964, THEOR PROBAB APPL, V9, P141, DOI DOI 10.1137/1109020
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Schlpafer M., 2013, ARXIV12105215V2
+   Schmidt-Nielsen K, 1984, SCALING WHY IS ANIMA
+   Stanley H. E., 1987, INTRO PHASE TRANSITI
+   Watson G. S., 1964, SANKHYA A, V26, P359, DOI DOI 10.2307/25049340
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+NR 19
+TC 12
+Z9 12
+SN 2045-2322
+PD SEP 1
+PY 2014
+VL 4
+AR 6239
+DI 10.1038/srep06239
+UT WOS:000341441400001
+PM 25174706
+ER
+
+PT J
+AU Ribeiro, F
+   Cabella, BCT
+   Martinez, AS
+AF Ribeiro, Fabiano
+   Troca Cabella, Brenno Caetano
+   Martinez, Alexandre Souto
+TI Richards-like two species population dynamics model
+SO THEORY IN BIOSCIENCES
+DE Complex systems; Population dynamics (ecology); Pattern formation
+   ecological
+ID GROWTH-MODELS; TUMOR-GROWTH; EXPONENTIAL FUNCTIONS; PRISONERS-DILEMMA;
+   PATTERNS; SYSTEMS; SUPERTRANSIENTS; DETERMINANTS; VIRUSES; HISTORY
+AB The two-species population dynamics model is the simplest paradigm of inter- and intra-species interaction. Here, we present a generalized Lotka-Volterra model with intraspecific competition, which retrieves as particular cases, some well-known models. The generalization parameter is related to the species habitat dimensionality and their interaction range. Contrary to standard models, the species coupling parameters are general, not restricted to non-negative values. Therefore, they may represent different ecological regimes, which are derived from the asymptotic solution stability analysis and are represented in a phase diagram. In this diagram, we have identified a forbidden region in the mutualism regime, and a survival/extinction transition with dependence on initial conditions for the competition regime. Also, we shed light on two types of predation and competition: weak, if there are species coexistence, or strong, if at least one species is extinguished.
+RI Cabella, Brenno/G-6169-2012; Martinez, Alexandre/B-4539-2008; Ribeiro,
+   Fabiano/G-9519-2014
+OI Cabella, Brenno/0000-0003-2214-645X; Martinez,
+   Alexandre/0000-0002-4395-0511; 
+CR Araujo RP, 2004, B MATH BIOL, V66, P1039, DOI 10.1016/j.bulm.2003.11.002
+   Arruda TJ, 2008, PHYS LETT A, V372, P2578, DOI 10.1016/j.physleta.2007.12.020
+   Barberis L, 2011, CHAOS SOLITON FRACT, V44, P1100, DOI 10.1016/j.chaos.2011.09.007
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BOMZE IM, 1995, BIOL CYBERN, V72, P447, DOI 10.1007/BF00201420
+   CAVALIERI LF, 1995, J THEOR BIOL, V175, P231, DOI 10.1006/jtbi.1995.0135
+   Cross SS, 1997, J PATHOL, V182, P1
+   d'Onofrio A, 2009, CHAOS SOLITON FRACT, V41, P875, DOI 10.1016/j.chaos.2008.04.014
+   dos Santos LS, 2014, THEOR BIOSCI, V133, P117, DOI 10.1007/s12064-014-0199-6
+   Edelstein-Keshet L, 2005, MATH MODELS BIOL
+   Espindola AL, 2011, J STAT MECH-THEORY E, V2011, pP5003
+   Espindola AL, 2012, INT J MOD PHY C, V23
+   Espindola AL, 2014, PHYSICA A, V400, P80
+   FOWLER CW, 1981, ECOLOGY, V62, P602, DOI 10.2307/1937727
+   GAVRILETS S, 1995, P ROY SOC B-BIOL SCI, V261, P233, DOI 10.1098/rspb.1995.0142
+   Gompertz B., 1825, PHILOS T R SOC A, V115, P153
+   Gould H, 2006, INTRO COMPUTER SIMUL
+   Guiot C, 2003, J THEOR BIOL, V225, P147, DOI 10.1016/S0022-5193(03)00221-2
+   Harrison MA, 2001, J THEOR BIOL, V213, P53, DOI 10.1006/jtbi.2001.2404
+   Hastings A, 2004, TRENDS ECOL EVOL, V19, P39, DOI 10.1016/j.tree.2003.09.007
+   Imre AR, 2004, ACTA BIOTHEOR, V52, P41, DOI 10.1023/B:ACBI.0000015911.56850.0f
+   Kaitala V, 1999, J THEOR BIOL, V197, P331, DOI 10.1006/jtbi.1998.0878
+   Kozusko F, 2007, CELL PROLIFERAT, V40, P824, DOI 10.1111/j.1365-2184.2007.00474.x
+   LAI YC, 1995, PHYS LETT A, V200, P418, DOI 10.1016/0375-9601(95)00224-Q
+   LAI YC, 1995, PHYS REV E, V51, P2902, DOI 10.1103/PhysRevE.51.2902
+   LAI YC, 1995, PHYS REV LETT, V74, P5208, DOI 10.1103/PhysRevLett.74.5208
+   Martinez AS, 2008, PHYSICA A, V387, P5679, DOI 10.1016/j.physa.2008.06.015
+   Martinez AS, 2009, PHYSICA A, V388, P2922, DOI 10.1016/j.physa.2009.03.035
+   Mombach JCM, 2002, EUROPHYS LETT, V60, P489, DOI 10.1209/epl/i2002-00668-x
+   Mombach JCM, 2002, EUROPHYS LETT, V59, P923, DOI 10.1209/epl/i2002-00244-6
+   Motoike IN, 2005, CHAOS SOLITON FRACT, V24, P107, DOI 10.1016/j.chaos.2004.07.021
+   Murray JD, 2002, MATH BIOL
+   Novozhilov AS, 2006, BIOL DIRECT, V1, DOI 10.1186/1745-6150-1-6
+   NOWAK MA, 1991, SCIENCE, V254, P963, DOI 10.1126/science.1683006
+   Pereira MA, 2008, INT J MOD PHYS C, V19, P187, DOI 10.1142/S0129183108012017
+   Pereira MA, 2010, J THEOR BIOL, V265, P346, DOI 10.1016/j.jtbi.2010.05.022
+   Ribeiro F, 2014, NONPHENOMENOLOGICAL
+   RICHARDS FJ, 1959, J EXP BOT, V10, P290, DOI 10.1093/jxb/10.2.290
+   Saether BE, 2002, SCIENCE, V295, P2070
+   SAVAGEAU MA, 1979, P NATL ACAD SCI USA, V76, P5413, DOI 10.1073/pnas.76.11.5413
+   Sibly RM, 2002, PHILOS T ROY SOC B, V357, P1153, DOI 10.1098/rstb.2002.1117
+   Silby RM, 2005, SCIENCE, V309, P607
+   Strzalka D, 2008, PHYSICA A, V387, P2511, DOI 10.1016/j.physa.2007.12.014
+   Strzalka D, 2009, ACTA PHYS POL B, V40, P41
+   Tokeshi M, 2012, HYDROBIOLOGIA, V685, P2747
+   Cabella BCT, 2012, PHYSICA A, V391, P1281, DOI 10.1016/j.physa.2011.11.018
+   Cabella BCT, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.061902
+   TSALLIS C, 1988, J STAT PHYS, V52, P479, DOI 10.1007/BF01016429
+   Tsallis C, 1994, QUIM NOVA, V17, P468
+   Tsoularis A, 2002, MATH BIOSCI, V179, P21, DOI 10.1016/S0025-5564(02)00096-2
+   VON FOERSTER HEINZ, 1960, SCIENCE, V132, P1291, DOI 10.1126/science.132.3436.1291
+   West GB, 2001, NATURE, V413, P628, DOI 10.1038/35098076
+   Wodarz D, 2005, COMPUTATIONAL BIOLOGY OF CANCER: LECTURE NOTES AND MATHEMATICAL MODELING, P1, DOI 10.1142/9789812701367
+   Wodarz D, 2001, CANCER RES, V61, P3501
+   Yeomans J.M, 1992, STAT MECH PHASE TRAN
+NR 55
+TC 6
+Z9 8
+SN 1431-7613
+EI 1611-7530
+PD DEC
+PY 2014
+VL 133
+IS 3-4
+BP 135
+EP 143
+DI 10.1007/s12064-014-0205-z
+UT WOS:000344791500003
+PM 25112794
+ER
+
+PT J
+AU Hutyra, LR
+   Duren, R
+   Gurney, KR
+   Grimm, N
+   Kort, EA
+   Larson, E
+   Shrestha, G
+AF Hutyra, Lucy R.
+   Duren, Riley
+   Gurney, Kevin R.
+   Grimm, Nancy
+   Kort, Eric A.
+   Larson, Elisabeth
+   Shrestha, Gyami
+TI Urbanization and the carbon cycle: Current capabilities and research
+   outlook from the natural sciences perspective
+SO EARTHS FUTURE
+ID GREENHOUSE-GAS EMISSIONS; ATMOSPHERIC CO2 INVERSIONS; UNITED-STATES;
+   CLIMATE-CHANGE; METROPOLITAN-AREA; DIOXIDE EMISSIONS; URBAN
+   ENVIRONMENTS; HUMAN-SETTLEMENTS; PIPELINE LEAKS; METHANE LEAKS
+AB This paper explores the urban carbon cycle from the natural sciences perspective, identifying key knowledge gaps and priority areas for future research. The combination of large, concentrated carbon fluxes and rapid change makes cities key elements of the carbon cycle and offers the potential for them to serve as "first responders" for climate action. Estimates of urban-scale carbon fluxes are significantly more uncertain than at larger spatial scales, in part because past studies have mostly avoided local/urban scales where the mix of anthropogenic and natural fluxes is complex and difficult to observationally isolate. To develop effective emission reduction policies, we need to understand emission sources and how they may be changing. Such improved quantification and understanding of underlying processes at the urban scale will not only provide policy-relevant information and improve the understanding of urban dynamics and future scenarios, but will also translate into better global-scale anthropogenic flux estimates, and advance our understanding of carbon cycle and climate feedbacks across multiple scales. Understanding the relationship between urbanization and urban carbon flows requires intellectual integration with research communities beyond the natural sciences. Cities can serve as interdisciplinary process laboratories that are sufficiently constrained in both spatial and governance scale to support truly integrated research by the natural sciences, social sciences, and engineering. A thoughtfully crafted science research agenda that is grounded in sustained, dense observations relevant to estimating urban carbon fluxes and their controlling processes and is focused on a statistically significant sample of cities will advance our understanding of the carbon cycle.
+RI Kort, Eric/F-9942-2012; Grimm, Nancy/D-2840-2009
+OI Kort, Eric/0000-0003-4940-7541; Grimm, Nancy/0000-0001-9374-660X;
+   Larson, Elisabeth/0000-0001-6588-1038; Shrestha,
+   Gyami/0000-0001-7150-8731
+CR Ackerman KV, 2008, ENVIRON SCI TECHNOL, V42, P5688, DOI 10.1021/es800221q
+   Alongi DM, 2002, ENVIRON CONSERV, V29, P331, DOI 10.1017/S0376892902000231
+   ARUP, 2011, CLIM ACT MEG C40 CIT
+   Baker DF, 2010, ATMOS CHEM PHYS, V10, P4145, DOI 10.5194/acp-10-4145-2010
+   Baldasano JM, 1999, ATMOS ENVIRON, V33, P3765
+   Baldocchi DD, 2003, GLOBAL CHANGE BIOL, V9, P479, DOI 10.1046/j.1365-2486.2003.00629.x
+   Bang C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011061
+   Battin TJ, 2009, NAT GEOSCI, V2, P598, DOI 10.1038/ngeo618
+   Baynes TM, 2012, CURR OPIN ENV SUST, V4, P458, DOI 10.1016/j.cosust.2012.09.003
+   Betsill MM, 2006, GLOBAL GOV, V12, P141, DOI 10.1163/19426720-01202004
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brandt AR, 2014, SCIENCE, V343, P733, DOI 10.1126/science.1247045
+   Breon F. M., 2014, ATMOS CHEM PHYS DISC, V14, P9647, DOI [10.5194/acpd-14-9647-2014, DOI 10.5194/ACPD-14-9647-2014]
+   Briber BM, 2013, LAND, V2, P304, DOI 10.3390/land2030304
+   Brioude J, 2013, ATMOS CHEM PHYS, V13, P3661, DOI 10.5194/acp-13-3661-2013
+   Brondfield MN, 2012, ENVIRON POLLUT, V170, P113, DOI 10.1016/j.envpol.2012.06.003
+   BSI, 2013, PAS2070 BSI
+   Buchwitz M., 2013, ATMOS MEAS TECH DISC, V6, P4769
+   Buyantuyev A, 2009, J ARID ENVIRON, V73, P512, DOI 10.1016/j.jaridenv.2008.12.015
+   Buyantuyev A, 2012, LANDSCAPE URBAN PLAN, V105, P149, DOI 10.1016/j.landurbplan.2011.12.013
+   Cambaliza M. O., 2013, ATMOS CHEM PHYS DISC, V13, P29895, DOI DOI 10.5194/ACPD-13-29895-2013
+   Canadell JG, 2007, P NATL ACAD SCI USA, V104, P18866, DOI 10.1073/pnas.0702737104
+   Cerveny RS, 1998, NATURE, V394, P561, DOI 10.1038/29043
+   Chavez A, 2012, J IND ECOL, V16, P814, DOI 10.1111/j.1530-9290.2012.00546.x
+   Chavez A, 2011, CARBON MANAG, V2, P471, DOI 10.4155/CMT.11.38
+   Churkina G, 2010, GLOBAL CHANGE BIOL, V16, P135, DOI 10.1111/j.1365-2486.2009.02002.x
+   CLARK JS, 1997, SEDIMENT RECORDS BIO, P23
+   Cohen JB, 2014, J GEOPHYS RES-ATMOS, V119, P307, DOI 10.1002/2013JD019912
+   Cole JJ, 2007, ECOSYSTEMS, V10, P171, DOI 10.1007/s10021-006-9013-8
+   Cole JJ, 2001, MAR FRESHWATER RES, V52, P101, DOI 10.1071/MF00084
+   Coutts AM, 2007, ATMOS ENVIRON, V41, P51, DOI 10.1016/j.atmosenv.2006.08.030
+   Davies ZG, 2011, J APPL ECOL, V48, P1125, DOI 10.1111/j.1365-2664.2011.02021.x
+   Day TA, 2002, AGR FOREST METEOROL, V110, P229, DOI 10.1016/S0168-1923(01)00288-X
+   Dewan AM, 2009, APPL GEOGR, V29, P390, DOI 10.1016/j.apgeog.2008.12.005
+   Dhakal S, 2010, ENERG POLICY, V38, P4753, DOI 10.1016/j.enpol.2009.12.001
+   Duren RM, 2012, NAT CLIM CHANGE, V2, P560, DOI 10.1038/nclimate1629
+   Ehrenfeld JG, 2000, ECOL ENG, V15, P253, DOI 10.1016/S0925-8574(00)00080-X
+   Energy Information Administration (EIA), 2013, DOEEIA0484 OFF EN AN
+   ENTING I, 2002, INVERSE PROBLEMS ATM
+   Environmental Protection Agency, 2011, INV US GREENH GAS EM
+   Fenn ME, 2003, BIOSCIENCE, V53, P391, DOI 10.1641/0006-3568(2003)053[0391:NEDAMI]2.0.CO;2
+   Fissore C, 2011, ECOL APPL, V21, P619, DOI 10.1890/10-0386.1
+   Fleming PD, 2004, ENERG POLICY, V32, P761, DOI 10.1016/S0301-4215(02)00339-7
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Galloway JN, 2003, BIOSCIENCE, V53, P341, DOI 10.1641/0006-3568(2003)053[0341:TNC]2.0.CO;2
+   Gately CK, 2013, ENVIRON SCI TECHNOL, V47, P2423, DOI 10.1021/es304238v
+   Golubiewski NE, 2006, ECOL APPL, V16, P555, DOI 10.1890/1051-0761(2006)016[0555:UIGCPE]2.0.CO;2
+   Goulias K. G., 2011, P IEEE FOR INT SUST, P164
+   Graven HD, 2009, TELLUS B, V61, P536, DOI 10.1111/j.1600-0889.2009.00421.x
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Grimmond CSB, 2002, ENVIRON POLLUT, V116, pS243, DOI 10.1016/S0269-7491(01)00256-1
+   Gurney KR, 2012, ENVIRON SCI TECHNOL, V46, P12194, DOI 10.1021/es3011282
+   Gurney KR, 2009, ENVIRON SCI TECHNOL, V43, P5535, DOI 10.1021/es900806c
+   Gurney KR, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2004JD005373
+   Gurney KR, 2007, EOS T AGU, V88, P542, DOI DOI 10.1029/2007E0490008
+   Hall SJ, 2011, ECOL APPL, V21, P640, DOI 10.1890/10-0758.1
+   Heiple S, 2008, ENERG BUILDINGS, V40, P1426, DOI 10.1016/j.enbuild.2008.01.005
+   Herrera JC, 2010, TRANSPORT RES C-EMER, V18, P568, DOI 10.1016/j.trc.2009.10.006
+   Hillman T, 2010, ENVIRON SCI TECHNOL, V44, P1902, DOI 10.1021/es9024194
+   Hoesly R, 2012, ENVIRON SCI TECHNOL, V46, P4283, DOI 10.1021/es203943q
+   Hsu YK, 2010, ATMOS ENVIRON, V44, P1, DOI 10.1016/j.atmosenv.2009.10.002
+   Hutyra LR, 2011, LANDSCAPE URBAN PLAN, V103, P83, DOI 10.1016/j.landurbplan.2011.06.004
+   Hutyra LR, 2011, GLOBAL CHANGE BIOL, V17, P783, DOI 10.1111/j.1365-2486.2010.02238.x
+   Imhoff ML, 2004, REMOTE SENS ENVIRON, V89, P434, DOI 10.1016/j.rse.2003.10.015
+   Jackson RB, 2014, ENVIRON SCI TECHNOL, V48, P2051, DOI 10.1021/es404474x
+   Kaye JP, 2008, ECOL APPL, V18, P132, DOI 10.1890/06-1952.1
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Keirstead J, 2012, ENERG POLICY, V46, P253, DOI 10.1016/j.enpol.2012.03.058
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Key R, 2012, PROC SPIE, V8515, DOI 10.1117/12.930257
+   Kirschke S, 2013, NAT GEOSCI, V6, P813, DOI [10.1038/NGEO1955, 10.1038/ngeo1955]
+   Kort EA, 2013, J GEOPHYS RES-ATMOS, V118, P1, DOI 10.1002/jgrd.50135
+   Kort EA, 2012, GEOPHYS RES LETT, V39, DOI 10.1029/2012GL052738
+   Kuhlbusch T. A. J., 1996, BIOMASS BURNING GLOB, P161
+   Lauvaux T, 2009, GEOPHYS RES LETT, V36, DOI 10.1029/2009GL039574
+   Le Quere C, 2013, EARTH SYST SCI DATA, V5, P165, DOI 10.5194/essd-5-165-2013
+   Lee K, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2006GL027207
+   Levin I, 2003, GEOPHYS RES LETT, V30, DOI 10.1029/2003GL018477
+   Liu SD, 2011, CHEMOSPHERE, V82, P223, DOI 10.1016/j.chemosphere.2010.10.017
+   Lohse KA, 2008, SCI TOTAL ENVIRON, V402, P95, DOI 10.1016/j.scitotenv.2008.04.044
+   Lutsey N, 2008, ENERG POLICY, V36, P673, DOI 10.1016/j.enpol.2007.10.018
+   Marcotullio PJ, 2014, EARTHS FUTURE, V2, P496, DOI 10.1002/2014EF000257
+   MARLAND G, 1984, TELLUS B, V36, P232, DOI 10.1111/j.1600-0889.1984.tb00245.x
+   Masiello CA, 1998, SCIENCE, V280, P1911, DOI 10.1126/science.280.5371.1911
+   Masiello CA, 2004, MAR CHEM, V92, P201, DOI 10.1016/j.marchem.2004.06.043
+   Mays KL, 2009, ENVIRON SCI TECHNOL, V43, P7816, DOI 10.1021/es901326b
+   McClain ME, 2003, ECOSYSTEMS, V6, P301, DOI 10.1007/s10021-003-0161-9
+   McElmurry SP, 2014, ENVIRON SCI TECHNOL, V48, P45, DOI 10.1021/es402664t
+   McGranahan G, 2007, ENVIRON URBAN, V19, P17, DOI 10.1177/0956247807076960
+   McKain K, 2012, P NATL ACAD SCI USA, V109, P8423, DOI 10.1073/pnas.1116645109
+   Mcleod E, 2011, FRONT ECOL ENVIRON, V9, P552, DOI 10.1890/110004
+   McPherson G, 2005, J FOREST, V103, P411
+   Miller CE, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007659
+   Miller E. J., 2004, Computers, Environment and Urban Systems, V28, P9, DOI 10.1016/S0198-9715(02)00044-3
+   Miller JB, 2012, J GEOPHYS RES-ATMOS, V117, DOI 10.1029/2011JD017048
+   Mitsch WJ, 2013, AQUAT SCI, V75, P133, DOI 10.1007/s00027-012-0262-7
+   Nassar R, 2013, J GEOPHYS RES-ATMOS, V118, P917, DOI 10.1029/2012JD018196
+   Nehrkorn T, 2013, J APPL METEOROL CLIM, V52, P323, DOI 10.1175/JAMC-D-12-061.1
+   Nejadkoorki F, 2008, SCI TOTAL ENVIRON, V406, P269, DOI 10.1016/j.scitotenv.2008.07.055
+   Newman S, 2013, ATMOS CHEM PHYS, V13, P4359, DOI 10.5194/acp-13-4359-2013
+   Ngo N. S., 2008, Urban Ecosystems, V11, P121, DOI 10.1007/s11252-008-0051-1
+   Nowak DJ, 2002, ENVIRON POLLUT, V116, P381, DOI 10.1016/S0269-7491(01)00214-7
+   Nowak DJ, 2001, J FOREST, V99, P37
+   NRC: (National Research Council), 2010, VER GREENH GAS EM ME
+   OKE TR, 1982, Q J ROY METEOR SOC, V108, P1, DOI 10.1002/qj.49710845502
+   Parshall L, 2010, ENERG POLICY, V38, P4765, DOI 10.1016/j.enpol.2009.07.006
+   Pataki DE, 2006, GLOBAL CHANGE BIOL, V12, P2092, DOI 10.1111/j.1365-2486.2006.01242.x
+   Pataki DE, 2011, FRONT ECOL ENVIRON, V9, P27, DOI 10.1890/090220
+   Penner JE, 1998, CLIM DYNAM, V14, P839, DOI 10.1007/s003820050259
+   Peylin P, 2011, ATMOS CHEM PHYS, V11, P6607, DOI 10.5194/acp-11-6607-2011
+   Phillips NG, 2013, ENVIRON POLLUT, V173, P1, DOI 10.1016/j.envpol.2012.11.003
+   Pickett STA, 2011, J ENVIRON MANAGE, V92, P331, DOI 10.1016/j.jenvman.2010.08.022
+   Pincetl S, 2014, J IND ECOL, V18, P871, DOI 10.1111/jiec.12144
+   Pouyat RV, 2006, J ENVIRON QUAL, V35, P1566, DOI 10.2134/jeq2005.0215
+   Prinn RG, 2000, J GEOPHYS RES-ATMOS, V105, P17751, DOI 10.1029/2000JD900141
+   Pszenny A. A. P., 2003, ATMOSPHERIC CHEM CHA
+   Raciti SM, 2014, SCI TOTAL ENVIRON, V500, P72, DOI 10.1016/j.scitotenv.2014.08.070
+   Raciti SM, 2012, ECOL APPL, V22, P1015, DOI 10.1890/11-1250.1
+   Ramaswami A, 2008, ENVIRON SCI TECHNOL, V42, P6455, DOI 10.1021/es702992q
+   Ramaswami A, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035011
+   Rao P, 2014, BIOGEOCHEMISTRY, V121, P229, DOI 10.1007/s10533-013-9861-1
+   Rawlins BG, 2008, SOIL USE MANAGE, V24, P47, DOI 10.1111/j.1475-2743.2007.00132.x
+   Raymond PA, 2013, NATURE, V503, P355, DOI 10.1038/nature12760
+   Rayner PJ, 2010, J GEOPHYS RES-ATMOS, V115, DOI 10.1029/2009JD013439
+   Regnier P, 2013, NAT GEOSCI, V6, P597, DOI [10.1038/ngeo1830, 10.1038/NGEO1830]
+   Reich PB, 1987, TREE PHYSIOL, V3, P63, DOI 10.1093/treephys/3.1.63
+   Richardson AD, 2010, PHILOS T R SOC B, V365, P3227, DOI 10.1098/rstb.2010.0102
+   Richardson I, 2010, ENERG BUILDINGS, V42, P1878, DOI 10.1016/j.enbuild.2010.05.023
+   Rosenzweig C, 2010, NATURE, V467, P909, DOI 10.1038/467909a
+   Schakenbach J, 2006, J AIR WASTE MANAGE, V56, P1576, DOI 10.1080/10473289.2006.10464565
+   Schuh AE, 2013, GLOBAL CHANGE BIOL, V19, P1424, DOI 10.1111/gcb.12141
+   Schulz NB, 2010, ENERG POLICY, V38, P4848, DOI 10.1016/j.enpol.2009.08.066
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P16083, DOI 10.1073/pnas.1211658109
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P7687, DOI 10.1073/pnas.1117622109
+   Shimoda Y, 2007, ENERGY, V32, P1617, DOI 10.1016/j.energy.2007.01.007
+   Shrestha Gyami, 2010, Sustainability, V2, P294, DOI 10.3390/su2010294
+   Shu YQ, 2011, ATMOS ENVIRON, V45, P634, DOI 10.1016/j.atmosenv.2010.10.037
+   Silva SJ, 2013, GEOPHYS RES LETT, V40, P4971, DOI 10.1002/grl.50954
+   Small C, 2004, CURR ANTHROPOL, V45, P269, DOI 10.1086/382255
+   Sovacool BK, 2010, ENERG POLICY, V38, P4856, DOI 10.1016/j.enpol.2009.10.001
+   Sparks N, 2010, ATMOS ENVIRON, V44, P5287, DOI 10.1016/j.atmosenv.2010.07.048
+   Strong C, 2011, J GEOPHYS RES-ATMOS, V116, DOI 10.1029/2011JD015693
+   Tranvik LJ, 2009, LIMNOL OCEANOGR, V54, P2298, DOI 10.4319/lo.2009.54.6_part_2.2298
+   Turnbull JC, 2011, ATMOS CHEM PHYS, V11, P705, DOI 10.5194/acp-11-705-2011
+   Turnbull JC, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2005GL024213
+   United Nations Department of Economic and Social Affairs (UNDESA), 2012, ESAPWP224 UNDESA
+   Vaalgamaa S, 2013, J PALEOLIMNOL, V50, P191, DOI 10.1007/s10933-013-9713-y
+   VandeWeghe JR, 2007, J IND ECOL, V11, P133, DOI 10.1162/jie.2007.1220
+   Vesala T, 2008, TELLUS B, V60, P188, DOI 10.1111/j.1600-0889.2007.00312.x
+   Vine E, 1999, MITIG ADAPT STRAT GL, V4, P43, DOI DOI 10.1023/A:1009651316596
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Wang HK, 2009, SCI TOTAL ENVIRON, V407, P1947, DOI 10.1016/j.scitotenv.2008.11.008
+   Weiss RF, 2011, PHILOS T R SOC A, V369, P1925, DOI 10.1098/rsta.2011.0006
+   Wennberg PO, 2012, ENVIRON SCI TECHNOL, V46, P9282, DOI 10.1021/es301138y
+   WOFSY SC, 1993, SCIENCE, V260, P1314, DOI 10.1126/science.260.5112.1314
+   Worden H. M., 2012, GEOPHYS RES LETT, V39, DOI [10.1029/2012GL052395, DOI 10.1029/2012GL052395]
+   WRI/WBCSD, 2011, GREENH GAS PROT CORP
+   Wright LA, 2011, CARBON MANAG, V2, P49, DOI 10.4155/CMT.10.41
+   Wright LA, 2011, CARBON MANAG, V2, P61, DOI 10.4155/CMT.10.39
+   Wunch D, 2011, ATMOS CHEM PHYS, V11, P12317, DOI 10.5194/acp-11-12317-2011
+   Wunch D, 2009, GEOPHYS RES LETT, V36, DOI 10.1029/2009GL039825
+   Wunch D, 2011, PHILOS T R SOC A, V369, P2087, DOI 10.1098/rsta.2010.0240
+   Zhang C, 2008, ECOSYSTEMS, V11, P1211, DOI 10.1007/s10021-006-0126-x
+   Zhang C, 2013, ECOL MODEL, V250, P81, DOI 10.1016/j.ecolmodel.2012.09.020
+   Zhang XY, 2004, GLOBAL CHANGE BIOL, V10, P1133, DOI 10.1111/j.1529-8817.2003.00784.x
+   Zhao TT, 2012, LANDSCAPE ECOL, V27, P1149, DOI 10.1007/s10980-012-9766-8
+   Zhou WQ, 2011, LANDSCAPE URBAN PLAN, V102, P54, DOI 10.1016/j.landurbplan.2011.03.009
+NR 168
+TC 46
+Z9 47
+SN 2328-4277
+PD OCT
+PY 2014
+VL 2
+IS 10
+BP 473
+EP 495
+DI 10.1002/2014EF000255
+UT WOS:000358136100002
+ER
+
+PT B
+AU Peiravian, F
+   Kermanshah, A
+   Derrible, S
+AF Peiravian, Farideddin
+   Kermanshah, Amirhassan
+   Derrible, Sybil
+GP IEEE
+BE Lin, J
+   Hu, XH
+   Chang, W
+   Nambiar, R
+   Aggarwal, C
+   Cercone, N
+   Honavar, V
+   Huan, J
+   Mobasher, B
+   Pyne, S
+TI Spatial Data Analysis of Complex Urban Systems
+SO 2014 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+CT IEEE International Conference on Big Data
+CY OCT 27-30, 2014
+CL Washington, DC
+DE spatial data; GIS; complex analysis; urban systems; transportation
+   networks
+ID PUBLIC TRANSPORTATION SYSTEM; FRACTAL DIMENSION; GEOMETRY; GROWTH;
+   CITIES
+AB Cities are complex systems that are constantly evolving to better allow people to connect with one another. Moreover, and similar to countless natural phenomena, cities exhibit inherent orders that can be captured and expressed through complex analyses of their components. Using a variety of large datasets, this work offers a ring-buffer approach to analyze the spatial characteristics of four components of Chicago urban system, namely: roads, intersections, buildings, and population+ employment. The complex nature of these four components manifests itself in power-law relationships, represented by their fractal dimensions. Results show that road length and number of intersections, and to a larger degree, population+ employment count and building gross floor area exhibit significantly similar properties. The proposed method could further be used to analyze large demographic, socio-economic, and other geospatial datasets with the aim to study their impacts on relevant urban systems characteristics, including mobility, connectivity, and accessibility to name a few.
+CR Appleby S, 1996, GEOGR ANAL, V28, P147
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   BENGUIGUI L, 1995, ENVIRON PLANN A, V27, P1147, DOI 10.1068/a271147
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Chen YG, 2010, INT J URBAN SUSTAIN, V1, P89, DOI 10.1080/19463131003661025
+   Chen YG, 2010, DISCRETE DYN NAT SOC, V22, P2010
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Derrible S, 2010, J T RES BOARD, V2146, P43, DOI [10.3141/2146-06, DOI 10.3141/2146-06]
+   Derrible S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040575
+   Derrible S, 2009, TRANSP RES RECORD, P17, DOI 10.3141/2112-03
+   Domenech A, 2009, PHYSICA A, V388, P4658, DOI 10.1016/j.physa.2009.07.036
+   Frankhauser P, 1998, DISCRETE DYN NAT SOC, V2, P127, DOI 10.1155/S1026022698000107
+   Frankhauser Pierre, 1998, POPULATION ENGLISH S, V10, P205
+   Friedrich A, 1994, FRACTALS, V2, P469, DOI 10.1142/S0218348X94000673
+   Hillier B, 1984, SOCIAL LOGIC SPACE, V1
+   Kennedy C. A., 2011, EVOLUTION GREAT WORL
+   Kim KS, 2003, CITIES, V20, P31, DOI 10.1016/S0264-2751(02)00094-X
+   LEVINSON D, 2011, J TRANSPORT LAND USE, V4
+   Levinson D., 2007, J ECON GEOGR, V8, P55
+   Levinson D, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029721
+   Lu YM, 2004, ENVIRON PLANN B, V31, P895, DOI 10.1068/b3163
+   Mandelbrot B. B., 2004, FRACTALS CHAOS MANDE
+   Rasband S. N., 1990, CHAOTIC DYNAMICS NON
+   Rodin V, 2000, FRACTALS, V8, P413, DOI 10.1142/S0218348X00000457
+   Samaniego H, 2008, J TRANSPORT LAND USE, V1
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Terzi F, 2011, ENVIRON PLANN B, V38, P175, DOI 10.1068/b35096
+   Wong D.W.S., 1990, GEOGR ANN B, V72, P89
+NR 32
+TC 0
+Z9 0
+BN 978-1-4799-5666-1
+PY 2014
+UT WOS:000380462900229
+ER
+
+PT J
+AU Wu, JG
+AF Wu, Jianguo
+TI Urban ecology and sustainability: The state-of-the-science and future
+   directions
+SO LANDSCAPE AND URBAN PLANNING
+DE Urban ecology; Urban sustainability; Urban growth patterns;
+   Biodiversity; Ecosystem services; Human well-being
+ID PHOENIX METROPOLITAN REGION; LAND-USE CHANGE; ECOSYSTEM SERVICES;
+   LANDSCAPE ECOLOGY; URBANIZATION; CITIES; SYSTEMS; USA; VEGETATION;
+   DYNAMICS
+AB Ecosystems and landscapes around the world have become increasingly domesticated through urbanization. Cities have been the engines of socioeconomic development but also the centers of major environmental problems since the industrial revolution. Numerous studies have shown that our urban ecosystems and landscapes are on an unsustainable trajectory. Global sustainability depends critically on cities, and urban ecology can and needs to play a key role in the transition toward sustainability. In this paper, I review different definitions and perspectives of urban ecology, discuss major advances and key issues, and propose a framework to help move the field forward. After almost 90 years of development, urban ecology has evolved into a truly transdisciplinary enterprise that integrates ecological, geographical, planning, and social sciences. The most salient thrust of current research activities in the field is the emerging urban sustainability paradigm which focuses on urban ecosystem services and their relations to human well-being. While urbanization is complex in many ways, we do know a lot about its patterns, processes, and effects. More specifically, we know a great deal about urban growth patterns in space and time, the underlying drivers and mechanisms, and myriad effects of urbanization on biodiversity, ecological processes, and ecosystem services. Compared to their ancient counterparts, contemporary cities tend to be bigger in physical size and ecological footprint, faster in growth rate in terms of both population and urbanized land, and more irregular in landscape composition and configuration. As coevolving human-environment systems, cities are spatially heterogeneous, complex adaptive systems. As such, the dynamic trajectory of cities can never be fully predicted or controlled, but can and should be influenced or guided in more desirable directions through planning and design activities that are based on urban ecological knowledge and sustainability principles. (C) 2014 Elsevier B.V. All rights reserved.
+CR Abbott A, 2012, NATURE, V490, P162, DOI 10.1038/490162a
+   Adams C. C., 1940, ECOL MONOGR, V10, P309
+   Adams CC, 1935, ECOLOGY, V16, P316, DOI 10.2307/1930072
+   Ahern J, 2013, LANDSCAPE ECOL, V28, P1203, DOI 10.1007/s10980-012-9799-z
+   Ahern J, 2011, LANDSCAPE URBAN PLAN, V100, P341, DOI 10.1016/j.landurbplan.2011.02.021
+   Alberti M, 1996, ENVIRON IMPACT ASSES, V16, P381, DOI 10.1016/S0195-9255(96)00083-2
+   Alberti M, 2008, ADV URBAN ECOLOGY IN
+   Batty M, 2005, ENVIRON PLANN A, V37, P1373, DOI 10.1068/a3784
+   BATTY M, 1989, ENVIRON PLANN A, V21, P1447, DOI 10.1068/a211447
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Batty M, 2006, COMPLEXITY AND CO-EVOLUTION: CONTINUITY AND CHANGE IN SOCIO-ECONOMIC SYSTEMS, P61
+   Berling-Wolff S, 2004, ECOL RES, V19, P119, DOI 10.1111/j.1440-1703.2003.00611.x
+   BERRY B.J.L, 1977, CONT URBAN ECOLOGY
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bolund P, 1999, ECOL ECON, V29, P293, DOI 10.1016/S0921-8009(99)00013-0
+   BURGESS E.W, 1925, CITY, P47, DOI DOI 10.1007/978-0-387-73412-5_5
+   Buyantuyev A, 2009, J ARID ENVIRON, V73, P512, DOI 10.1016/j.jaridenv.2008.12.015
+   Buyantuyev A, 2012, LANDSCAPE URBAN PLAN, V105, P149, DOI 10.1016/j.landurbplan.2011.12.013
+   Buyantuyev A, 2010, LANDSCAPE URBAN PLAN, V94, P206, DOI 10.1016/j.landurbplan.2009.10.005
+   Buyantuyev A, 2010, LANDSCAPE ECOL, V25, P17, DOI 10.1007/s10980-009-9402-4
+   Chappell M.J., 2013, LANDSCAPE ECOLOGY, V28, P1631
+   Chen XQ, 2009, LANDSCAPE ECOL, V24, P1015, DOI 10.1007/s10980-009-9350-z
+   Christaller W., 1933, CENTRAL PLACES SO GE
+   Clark KH, 2013, LANDSCAPE ECOL, V28, P1649, DOI 10.1007/s10980-013-9903-z
+   Collins JP, 2000, AM SCI, V88, P416
+   Costanza R, 1997, NATURE, V387, P253, DOI 10.1038/387253a0
+   COSTANZA R, 1992, CONSERV BIOL, V6, P37, DOI 10.1046/j.1523-1739.1992.610037.x
+   Cumming GS, 2013, LANDSCAPE ECOL, V28, P1139, DOI 10.1007/s10980-012-9725-4
+   Cumming GS, 2011, LANDSCAPE ECOL, V26, P899, DOI 10.1007/s10980-011-9623-1
+   Daniel TC, 2012, P NATL ACAD SCI USA, V109, P8812, DOI 10.1073/pnas.1114773109
+   Davis M, 2011, NATURE, V474, P153, DOI 10.1038/474153a
+   de Groot RS, 2002, ECOL ECON, V41, P393, DOI 10.1016/S0921-8009(02)00089-7
+   De Young R., 2012, LOCALIZATION READER
+   Douglas I, 2011, ROUTLEDGE HANDBOOK OF URBAN ECOLOGY, P1
+   Faeth SH, 2005, BIOSCIENCE, V55, P399, DOI 10.1641/0006-3568(2005)055[0399:TDIUC]2.0.CO;2
+   Flanagan W G., 1993, CONT URBAN SOCIOLOGY
+   Forman RTT, 2008, LANDSCAPE ECOL, V23, P251, DOI 10.1007/s10980-008-9209-8
+   Forman RTT, 2008, URBAN REGIONS ECOLOG
+   FORMAN RTT, 1995, LAND MOSAICS ECOLOGY, P632
+   Gaston K. J., 2010, URBAN ECOL, P318
+   Glaeser E, 2011, SCIENCE, V333, P592, DOI 10.1126/science.1209264
+   Golley F. B., 1991, LANDSCAPE URBAN PLAN, V21, P3
+   Gottdiener M., 2010, NEW URBAN SOCIOLOGY
+   Grimm N.B., 2013, LONG TERM SOCIOECOLO, P217
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Grimm NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2
+   Gross M, 2002, J HIST BEHAV SCI, V38, P27, DOI 10.1002/jhbs.1095
+   Harris CD, 1945, ANN AM ACAD POLIT SS, V242, P7, DOI 10.1177/000271624524200103
+   Hawley A. H., 1950, HUMAN ECOLOGY THEORY
+   Herold M, 2003, REMOTE SENS ENVIRON, V86, P286, DOI 10.1016/S0034-4257(03)00075-0
+   HOLLINGSHEAD A. B., 1940, ECOL MONOGR, V10, P354, DOI 10.2307/1948510
+   Hope D, 2003, P NATL ACAD SCI USA, V100, P8788, DOI 10.1073/pnas.1537557100
+   Hoyt H., 1939, STRUCTURE GROWTH RES
+   IVERSON LR, 2000, URBAN ECOSYST, V4, P105, DOI DOI 10.1023/A:1011307327314
+   Jenerette GD, 2007, LANDSCAPE ECOL, V22, P353, DOI 10.1007/s10980-006-9032-z
+   Jenerette GD, 2006, GLOBAL CHANGE BIOL, V12, P1532, DOI 10.1111/j.1365-2486.2006.01182.x
+   Jenerette GD, 2011, ECOL APPL, V21, P2637, DOI 10.1890/10-1493.1
+   Jenerette GD, 2010, LANDSCAPE ECOL, V25, P657, DOI 10.1007/s10980-010-9457-2
+   Jenerette GD, 2001, LANDSCAPE ECOL, V16, P611, DOI 10.1023/A:1013170528551
+   Jones K, 2013, FILM COMMENT, V49, P28
+   Kates RW, 2001, SCIENCE, V292, P641, DOI 10.1126/science.1059386
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kellert S. R., 1993, BIOPHILIA HYPOTHESIS
+   Kennedy DP, 2011, NATURE, V474, P452, DOI 10.1038/474452a
+   Kennedy J. J., 1998, Unasylva (English ed.), V49, P16
+   Kuo FE, 2001, ENVIRON BEHAV, V33, P343, DOI 10.1177/00139160121973025
+   Lederbogen F, 2011, NATURE, V474, P498, DOI 10.1038/nature10190
+   Lee YC, 2013, LANDSCAPE ECOL, V28, P1151, DOI 10.1007/s10980-012-9706-7
+   Levin S, 2013, ENVIRON DEV ECON, V18, P111, DOI 10.1017/S1355770X12000460
+   Li C, 2013, LANDSCAPE ECOL, V28, P1875, DOI 10.1007/s10980-013-9933-6
+   Li JX, 2011, REMOTE SENS ENVIRON, V115, P3249, DOI 10.1016/j.rse.2011.07.008
+   LOCKWOOD JL, 2001, BIOTIC HOMOGENIZATIO
+   Loucks O.L, 1994, ECOLOGICAL CITY, P49
+   Luck M, 2002, LANDSCAPE ECOL, V17, P327, DOI 10.1023/A:1020512723753
+   Lundy L, 2011, PROG PHYS GEOG, V35, P653, DOI 10.1177/0309133311422464
+   Maclaren VW, 1996, J AM PLANN ASSOC, V62, P184, DOI 10.1080/01944369608975684
+   Marzluff John M., 2005, Urban Ecosystems, V8, P157, DOI 10.1007/s11252-005-4378-6
+   Matthews RB, 2007, LANDSCAPE ECOL, V22, P1447, DOI 10.1007/s10980-007-9135-1
+   McDonnell M. J., 2009, ECOLOGY CITIES TOWNS, P714
+   McDonnell MJ, 2011, URBAN ECOLOGY: PATTERNS, PROCESSES, AND APPLICATIONS, P5
+   MCDONNELL MJ, 1990, ECOLOGY, V71, P1232, DOI 10.2307/1938259
+   McIntyre NE, 2011, ROUTLEDGE HANDBOOK OF URBAN ECOLOGY, P7
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Millennium Ecosystem Assessment, 2005, EC HUM WELL BEING CU
+   Miller RW, 1997, URBAN FORESTRY PLANN
+   Milne E, 2009, LANDSCAPE ECOL, V24, P1145, DOI 10.1007/s10980-009-9392-2
+   Musacchio LR, 2011, LANDSCAPE ECOL, V26, P1, DOI 10.1007/s10980-010-9562-2
+   Musacchio LR, 2009, LANDSCAPE ECOL, V24, P993, DOI 10.1007/s10980-009-9396-y
+   Myint SW, 2010, GISCI REMOTE SENS, V47, P301, DOI 10.2747/1548-1603.47.3.301
+   Nassauer JI, 2008, LANDSCAPE ECOL, V23, P633, DOI 10.1007/s10980-008-9226-7
+   Nassauer JI, 2014, LANDSCAPE URBAN PLAN, V125, P245, DOI 10.1016/j.landurbplan.2013.10.008
+   Neil Kaesha, 2006, Urban Ecosystems, V9, P243, DOI 10.1007/s11252-006-9354-2
+   Neil KL, 2010, J ARID ENVIRON, V74, P440, DOI 10.1016/j.jaridenv.2009.10.010
+   Newman P., 2009, RESILIENT CITIES RES
+   Niemela J., 2011, URBAN ECOLOGY PATTER, P374
+   Niemela J, 2011, URBAN ECOLOGY: PATTERNS, PROCESSES, AND APPLICATIONS, P1
+   Odum H.T., 1983, SYSTEMS ECOLOGY INTR
+   OKE TR, 1982, Q J ROY METEOR SOC, V108, P1, DOI 10.1002/qj.49710845502
+   OKE TR, 1995, NATO ADV SCI INST SE, V277, P81
+   Park R. E., 1925, CITY
+   PARK Robert E, 1929, CHICAGO EXPT SOCIAL, P1
+   Pataki DE, 2011, FRONT ECOL ENVIRON, V9, P27, DOI 10.1890/090220
+   Pickett STA, 2011, J ENVIRON MANAGE, V92, P331, DOI 10.1016/j.jenvman.2010.08.022
+   Pickett S. T. A., 1997, URBAN ECOSYST, V1, P185, DOI DOI 10.1023/A:1018531712889
+   Pickett STA, 2006, AUSTRAL ECOL, V31, P114, DOI 10.1111/j.1442-9993.2006.01586.x
+   Pickett STA, 2001, ANNU REV ECOL SYST, V32, P127, DOI 10.1146/annurev.ecolsys.32.081501.114012
+   Platt Rutherford H., 1994, ECOLOGICAL CITY PRES
+   Potschin M, 2013, LANDSCAPE ECOL, V28, P1053, DOI 10.1007/s10980-012-9756-x
+   Potschin MB, 2006, LANDSCAPE URBAN PLAN, V75, P155, DOI 10.1016/j.landurbplan.2005.03.006
+   Pouyat RV, 2008, LANDSCAPE ECOL, V23, P1187, DOI 10.1007/s10980-008-9288-6
+   Ramalho CE, 2012, TRENDS ECOL EVOL, V27, P179, DOI 10.1016/j.tree.2011.10.008
+   Raudsepp-Hearne C, 2010, BIOSCIENCE, V60, P576, DOI 10.1525/bio.2010.60.8.4
+   REBELE F, 1994, GLOBAL ECOL BIOGEOGR, V4, P173, DOI 10.2307/2997649
+   Resilience Alliance, 2007, RES PROSP URB RES RE
+   Schaich H, 2010, GAIA, V19, P269, DOI 10.14512/gaia.19.4.9
+   Schneider A, 2008, URBAN STUD, V45, P659, DOI 10.1177/0042098007087340
+   Schneider A, 2010, REMOTE SENS ENVIRON, V114, P1733, DOI 10.1016/j.rse.2010.03.003
+   Seto KC, 2010, ANNU REV ENV RESOUR, V35, P167, DOI 10.1146/annurev-environ-100809-125336
+   Shen WJ, 2008, ECOSYSTEMS, V11, P138, DOI 10.1007/s10021-007-9085-0
+   Shochat E, 2006, TRENDS ECOL EVOL, V21, P186, DOI 10.1016/j.tree.2005.11.019
+   Standish R. J., 2013, LANDSCAPE ECOLOGY, V28, P213
+   STEARNS F, 1970, SCIENCE, V170, P1006, DOI 10.1126/science.170.3961.1006
+   Stearns Forrest, 1974, URBAN ECOSYSTEM HOLI
+   Sukopp H., 1990, URBAN ECOLOGY PLANTS, P2
+   Sukopp Herbert, 2002, Preslia (Prague), V74, P373
+   Swaffield S, 2013, LANDSCAPE ECOL, V28, P1193, DOI 10.1007/s10980-012-9765-9
+   Termorshuizen JW, 2009, LANDSCAPE ECOL, V24, P1037, DOI 10.1007/s10980-008-9314-8
+   Tratalos J, 2007, LANDSCAPE URBAN PLAN, V83, P308, DOI 10.1016/j.landurbplan.2007.05.003
+   Turner BL, 2010, LAND USE POLICY, V27, P170, DOI 10.1016/j.landusepol.2009.03.006
+   UK NATIONAL ECOSYSTEM ASSESSMENT, 2011, UK NAT EC ASS SYNTH
+   Ulrich R., 1984, SCIENCE, P224, DOI [10.1126/science.6143402, DOI 10.1126/SCIENCE.6143402]
+   Verburg PH, 2009, LANDSCAPE ECOL, V24, P1167, DOI 10.1007/s10980-009-9355-7
+   Von Thunen J.H, 1825, ISOLIERTE STAAT BEZI
+   Voogt J. A., 2002, ENCY GLOBAL ENV CHAN, V3, P660
+   Weiland U., 2011, APPL URBAN ECOLOGY G, P240
+   Wilson E. O., 1984, BIOPHILIA
+   WILSON FD, 1984, ANNU REV SOCIOL, V10, P283
+   Wolch JR, 2014, LANDSCAPE URBAN PLAN, V125, P234, DOI 10.1016/j.landurbplan.2014.01.017
+   World Commission For Environment and Development WCED, 1987, OUR COMMON FUTURE
+   WU J, 2008, LANDSCAPE J, V27, P41, DOI DOI 10.3368/LJ.27.1.41
+   Wu J. G., 2013, RESILIENCE URBAN ECO
+   Wu J. G., 2011, APPL URBAN ECOLOGY G, P35
+   Wu JG, 2002, ECOL MODEL, V153, P7, DOI 10.1016/S0304-3800(01)00499-9
+   Wu JG, 2006, LANDSCAPE ECOL, V21, P1, DOI 10.1007/s10980-006-7195-2
+   Wu JG, 1995, Q REV BIOL, V70, P439, DOI 10.1086/419172
+   Wu JG, 2013, LANDSCAPE ECOL, V28, P999, DOI 10.1007/s10980-013-9894-9
+   Wu JG, 2011, ECOL COMPLEX, V8, P1, DOI 10.1016/j.ecocom.2010.03.002
+   Wu JG, 2010, LANDSCAPE ECOL, V25, P1147, DOI 10.1007/s10980-010-9524-8
+   Wu JG, 2010, LANDSCAPE ECOL, V25, P1, DOI 10.1007/s10980-009-9444-7
+   Xiang WN, 2013, LANDSCAPE URBAN PLAN, V110, P1, DOI 10.1016/j.landurbplan.2012.11.006
+   Young RF, 2010, URBAN FOR URBAN GREE, V9, P313, DOI 10.1016/j.ufug.2010.06.007
+   Zhang C, 2013, ECOL MODEL, V250, P81, DOI 10.1016/j.ecolmodel.2012.09.020
+   Zipperer WC, 2000, ECOL APPL, V10, P685, DOI 10.2307/2641038
+NR 156
+TC 175
+Z9 190
+SN 0169-2046
+EI 1872-6062
+PD MAY
+PY 2014
+VL 125
+SI SI
+BP 209
+EP 221
+DI 10.1016/j.landurbplan.2014.01.018
+UT WOS:000336465700021
+ER

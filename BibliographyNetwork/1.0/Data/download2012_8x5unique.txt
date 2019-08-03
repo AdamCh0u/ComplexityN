@@ -1,0 +1,504 @@
+
+PT J
+AU Jamriska, M
+   DuBois, TC
+   Skvortsov, A
+AF Jamriska, M.
+   DuBois, T. C.
+   Skvortsov, A.
+TI Statistical characterisation of bio-aerosol background in an urban
+   environment
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Aerosol; Biobackground; Biodetection; Model; Algorithm; Turbulent mixing
+ID AIRBORNE BIOLOGICAL PARTICLES; REAL-TIME MEASUREMENT; PERFORMANCE
+   EVALUATION; FLUORESCENCE-SPECTRA; UVAPS; SIZE; BIOAEROSOLS; NUMBER;
+   SPORES; MASS
+AB In this paper we statistically characterise the bio-aerosol background in an urban environment To do this we measure concentration levels of naturally occurring microbiological material in the atmosphere over several days. Naturally occurring bio-aerosols can be considered as noise, as they mask the presence of signals coming from biological material of interest (such as an intentionally released biological agent). Analysis of this 'biobackground' was undertaken in the 1-10 mu m size range and a 3-9% contribution was found to be biological in origin values which are in good agreement with other studies reported in the literature. A model based on the physics of turbulent mixing and dispersion was developed and validated against this analysis. The Gamma distribution (the basis of our model) is shown to comply with the scaling laws of the concentration moments of our data, which enables us to universally characterise both biological and non-biological material in the atmosphere. An application of this model is proposed to build a framework for the development of novel algorithms for bio-aerosol detection and rapid characterisation. Crown Copyright (C) 2012 Published by Elsevier Ltd. All rights reserved.
+C1 [Jamriska, M.; DuBois, T. C.; Skvortsov, A.] Def Sci & Technol Org, Fishermans Bend, Vic 3207, Australia.
+RP Jamriska, M (reprint author), Def Sci & Technol Org, 506 Lorimer St, Fishermans Bend, Vic 3207, Australia.
+EM milan.jamriska@dsto.defence.gov.au
+RI DuBois, Timothy/H-2001-2013
+OI DuBois, Timothy/0000-0002-2866-1412
+FU DSTO Task [07/086, 07/301]
+FX This work was supported by DSTO Task 07/086 (Civilian Counter Terrorism
+   and National Security-Public Safety Program) and DSTO Task 07/301
+   (BioCERP, Bio-surveillance).
+CR Agranovski V, 2005, J AEROSOL SCI, V36, P665, DOI 10.1016/j.jaerosci.2004.12.005
+   Agranovski V, 2004, AEROSOL SCI TECH, V38, P354, DOI 10.1080/02786820490437505
+   Agranovski V, 2003, J AEROSOL SCI, V34, P1711, DOI 10.1016/S0021-8502(03)00191-5
+   Agranovski V, 2003, J AEROSOL SCI, V34, P301, DOI 10.1016/S0021-8502(02)00181-7
+   Ariya PA, 2009, INT REV PHYS CHEM, V28, P1, DOI 10.1080/01442350802597438
+   Baron P. A., 2005, AEROSOL MEASUREMENT
+   Bauer H, 2008, ATMOS ENVIRON, V42, P5542, DOI 10.1016/j.atmosenv.2008.03.019
+   Boulet C.A., 1996, 652 SR INF HOLD OP D
+   Brosseau LM, 2000, AEROSOL SCI TECH, V32, P545, DOI 10.1080/027868200303461
+   Bureau of Transport and Regional Economics (BTRE), 2007, 71 BTRE
+   Burrows SM, 2009, ATMOS CHEM PHYS, V9, P9263, DOI 10.5194/acp-9-9263-2009
+   Buteau S, 2010, PROC SPIE, V7838, DOI 10.1117/12.864685
+   Coz E, 2010, ATMOS ENVIRON, V44, P3952, DOI 10.1016/j.atmosenv.2010.07.007
+   Duplat J, 2008, J FLUID MECH, V617, P51, DOI 10.1017/S0022112008003789
+   Dycor, 2011, CFLAPS SPEC SHEET
+   Dycor, 2011, CFLAPS FLUOR AER PAR
+   ENG J, 1989, BIOPHYS J, V55, P621, DOI 10.1016/S0006-3495(89)82859-0
+   Environmental Protection Agency, 2009, VICT AIR QUAL 2009 A
+   Falkovich G, 2001, REV MOD PHYS, V73, P913, DOI 10.1103/RevModPhys.73.913
+   Gabey A., 2009, ATMOS CHEM PHYS DISC, V9, P18965
+   Hairston PP, 1997, J AEROSOL SCI, V28, P471, DOI 10.1016/S0021-8502(96)00448-X
+   Harrison RM, 2004, ATMOS ENVIRON, V38, P4531, DOI 10.1016/j.atmosenv.2004.05.022
+   Hill S. C, 2009, ARLTR4722
+   Hill SC, 1999, FIELD ANAL CHEM TECH, V3, P221, DOI 10.1002/(SICI)1520-6521(1999)3:4/5<221::AID-FACT2>3.3.CO;2-Z
+   Ho J, 2005, J AEROSOL SCI, V36, P701, DOI 10.1016/j.jaerosci.2004.11.019
+   Ho J., 1998, DEFENSE RES ESTABLIS, V1504, P1
+   Ho J, 1999, AEROBIOLOGIA, V15, P281, DOI [10.1023/A:1007647522397, DOI 10.1023/A:1007647522397]
+   Huffman JA, 2010, ATMOS CHEM PHYS, V10, P3215, DOI 10.5194/acp-10-3215-2010
+   Jaenicke R, 2007, ENVIRON CHEM, V4, P217, DOI 10.1071/EN07021
+   Jamriska M, 2008, ATMOS ENVIRON, V42, P2369, DOI 10.1016/j.atmosenv.2007.12.038
+   Jensen J.G., 2007, EFFECT ATMOSPHERIC B
+   Kanaani H, 2008, J AEROSOL SCI, V39, P175, DOI 10.1016/j.jaerosci.2007.10.007
+   Keywood MD, 1999, ATMOS ENVIRON, V33, P2907, DOI 10.1016/S1352-2310(99)00102-8
+   Laflamme C, 2005, FRONT BIOSCI-LANDMRK, V10, P1647, DOI 10.2741/1648
+   Lebedev VV, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.036301
+   Mejia JF, 2007, ATMOS ENVIRON, V41, P1064, DOI 10.1016/j.atmosenv.2006.09.020
+   Morawska L, 1999, ATMOS ENVIRON, V33, P1983, DOI 10.1016/S1352-2310(98)00433-6
+   Peters TM, 2003, J AEROSOL SCI, V34, P627, DOI 10.1016/S0021-8502(03)00030-2
+   Pinnick R.G., 2009, ATMOSPHERIC CHEM PHY, V9, pC6744
+   Pinnick RG, 1998, AEROSOL SCI TECH, V28, P95, DOI 10.1080/02786829808965514
+   Pitz M, 2003, ENVIRON SCI TECHNOL, V37, P4336, DOI 10.1021/es034322p
+   Poschl U, 2005, ANGEW CHEM INT EDIT, V44, P7520, DOI 10.1002/anie.200501122
+   Semler D.D., 2004, CI C CHEM BIOL DEF R
+   SETLOW B, 1977, J BACTERIOL, V132, P444
+   Sivaprakasam V, 2004, OPT EXPRESS, V12, P4457, DOI 10.1364/OPEX.12.004457
+   Skvortsov A, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036303
+   Skvortsov A, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.056304
+   TRW Systems and Information Technology Group, 2001, PRIM BIOL DET TECHN
+   Tsai CJ, 2004, AEROSOL SCI TECH, V38, P467, DOI 10.1080/02786820490460725
+   TSI, 2011, APS SPEC SHEET
+   Venaille A, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.234506
+   Villermaux E, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.184501
+   Yee E, 1997, ATMOS ENVIRON, V31, P991, DOI 10.1016/S1352-2310(96)00255-5
+   Yee E, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.036306
+   Yee E, 2009, ENVIRON FLUID MECH, V9, P389, DOI 10.1007/s10652-008-9113-4
+NR 55
+TC 6
+Z9 6
+U1 0
+U2 16
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD JUL
+PY 2012
+VL 54
+BP 439
+EP 448
+DI 10.1016/j.atmosenv.2012.02.049
+PG 10
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 971JQ
+UT WOS:000306200600052
+DA 2019-03-26
+ER
+
+PT J
+AU Moret, MA
+   Antonio, LQ
+   Pereira, HBB
+AF Moret, Marcelo A.
+   Antonio, Liliane Q.
+   Pereira, Hernane B. B.
+TI Classical and fractal analysis of vehicle demand on the ferry-boat
+   system
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Tsallis statistics; Fokker-Planck equation; Demand analysis
+ID NONEXTENSIVE STATISTICAL-MECHANICS; DETRENDED FLUCTUATION ANALYSIS;
+   LONG-RANGE CORRELATIONS; UNIVERSAL PERSISTENCE; MODEL; DYNAMICS;
+   ENTROPY; MULTIFRACTALITY; TRANSITION; SIMULATION
+AB Transportation problems are important complex systems because of the increased number of vehicles in cities. In this paper, we study time series of vehicle demand by using the ferry-boat system between Salvador city and Itaparica island, in Bahia, Brazil. We compare the traditional demand analysis (ARIMA method) with the self-affine ones (the scaling exponent alpha and the density of crossing points rho). In addition, taking into account the inherent self-affine behavior we study the stationary states of this dynamic process by using a nonlinear Fokker-Planck equation. The present findings indicate that the scaling exponent alpha describes some properties of flux of vehicles using the ferry-boat system. The behavior of alpha gives an alternative explanation about demand analysis, and the nonlinear Fokker-Planck equation presents a solution close to the stationary behavior of this complex dynamical analysis. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Moret, Marcelo A.; Antonio, Liliane Q.; Pereira, Hernane B. B.] CIMATEC, SENAI, Programa Modelagem Computac, BR-41650010 Salvador, BA, Brazil.
+   [Moret, Marcelo A.] Univ Estadual Feira de Santana, Dept Fis, BR-44031460 Feira de Santana, BA, Brazil.
+   [Pereira, Hernane B. B.] Univ Estadual Feira de Santana, Dept Ciencias Exatas, BR-44031460 Feira de Santana, BA, Brazil.
+RP Moret, MA (reprint author), CIMATEC, SENAI, Programa Modelagem Computac, BR-41650010 Salvador, BA, Brazil.
+EM mamoret@gmail.com
+RI Moret, Marcelo A./O-3485-2018; Pereira, Hernane/D-6693-2012
+OI Moret, Marcelo A./0000-0003-0051-6309; Pereira,
+   Hernane/0000-0001-7476-9267
+FU CNPq (Brazilian federal grant agency); COMAB
+FX We wish to thank the CNPq (Brazilian federal grant agency) for financial
+   support and the COMAB (operator of the ferryboat system).
+CR Agostini FP, 2006, J COMPUT CHEM, V27, P1142, DOI 10.1002/jcc.20428
+   Anteneodo C, 2003, J MATH PHYS, V44, P5194, DOI 10.1063/1.1617365
+   Boghosian BM, 1996, PHYS REV E, V53, P4754, DOI 10.1103/PhysRevE.53.4754
+   Borland L, 1999, EUR PHYS J B, V12, P285, DOI 10.1007/s100510051006
+   Brockfeld E, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.056132
+   Chowdhury D, 2000, PHYS REP, V329, P199, DOI 10.1016/S0370-1573(99)00117-9
+   CURADO EME, 1991, J PHYS A-MATH GEN, V24, P3187
+   CURADO EMF, 1991, J PHYS A-MATH GEN, V24, pL69, DOI 10.1088/0305-4470/24/2/004
+   DeVoe RG, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.063001
+   Douglas P, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.110601
+   Fang WF, 2003, PHYSICA A, V321, P633
+   Figueiredo PH, 2010, PHYSICA A, V389, P2090, DOI 10.1016/j.physa.2009.11.045
+   Filho ANS, 2008, INT J MOD PHYS C, V19, P665, DOI 10.1142/S0129183108012388
+   Helbing D, 2001, REV MOD PHYS, V73, P1067, DOI 10.1103/RevModPhys.73.1067
+   Ivanov PC, 1999, NATURE, V399, P461, DOI 10.1038/20924
+   KERNER BS, 2001, NETW SPAT ECON, V1, P35
+   Kirchner A, 2002, PHYSICA A, V312, P260, DOI 10.1016/S0378-4371(02)00857-9
+   Koscielny-Bunde E, 1998, PHYS REV LETT, V81, P729, DOI 10.1103/PhysRevLett.81.729
+   Liu B, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.055003
+   Liu YH, 1999, PHYS REV E, V60, P1390, DOI 10.1103/PhysRevE.60.1390
+   Lyra ML, 1998, PHYS REV LETT, V80, P53, DOI 10.1103/PhysRevLett.80.53
+   Makikallio TH, 1999, AM J CARDIOL, V83, P880, DOI 10.1016/S0002-9149(98)01068-6
+   MANTEGNA RN, 1995, NATURE, V376, P46, DOI 10.1038/376046a0
+   Matsoukas C, 2000, J GEOPHYS RES-ATMOS, V105, P29165, DOI 10.1029/2000JD900419
+   Montanari A, 2000, WATER RESOUR RES, V36, P1249, DOI 10.1029/2000WR900012
+   Moret MA, 2006, PHYSICA A, V363, P260, DOI 10.1016/j.physa.2005.08.062
+   Moret MA, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.041104
+   Moret MA, 2002, BIOPHYS J, V82, P1123, DOI 10.1016/S0006-3495(02)75471-4
+   Moret MA, 1998, PHYS REV E, V57, pR2535, DOI 10.1103/PhysRevE.57.R2535
+   Moret MA, 1998, J COMPUT CHEM, V19, P647, DOI 10.1002/(SICI)1096-987X(19980430)19:6<647::AID-JCC6>3.3.CO;2-E
+   Moret MA, 2010, PHYSICA A, V389, P854, DOI 10.1016/j.physa.2009.10.024
+   Morettin P.A., 2004, ANDLISE SERIES TEPOR
+   Nagatani T, 2002, REP PROG PHYS, V65, P1331, DOI 10.1088/0034-4885/65/9/203
+   Nagatani T, 2007, PHYSICA A, V383, P613, DOI 10.1016/j.physa.2007.05.002
+   O'Loan OJ, 1998, PHYS REV E, V58, P1404, DOI 10.1103/PhysRevE.58.1404
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   PENG CK, 1992, NATURE, V356, P168, DOI 10.1038/356168a0
+   Pickup RM, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.097202
+   Plastino AR, 2004, ASTROPHYS SPACE SCI, V290, P275, DOI 10.1023/B:ASTR.0000032529.67037.21
+   PLASTINO AR, 1993, PHYS LETT A, V174, P384, DOI 10.1016/0375-9601(93)90195-6
+   Platino A.R., 1995, PHYSICA A, V222, P347
+   Platino A.R., 1999, BRAZ J PHYS, V29, P79
+   Safonov LA, 2002, CHAOS, V12, P1006, DOI 10.1063/1.1507903
+   Talkner P, 2000, PHYS REV E, V62, P150, DOI 10.1103/PhysRevE.62.150
+   Tomer E, 2000, PHYS REV LETT, V84, P382, DOI 10.1103/PhysRevLett.84.382
+   TSALLIS C, 1988, J STAT PHYS, V52, P479, DOI 10.1007/BF01016429
+   Tsallis C, 1999, PHYS LETT A, V257, P93, DOI 10.1016/S0375-9601(99)00270-4
+   Tsallis C, 1999, BRAZ J PHYS, V29, P1, DOI 10.1590/S0103-97331999000100002
+   Tsallis C, 2009, BRAZ J PHYS, V39, P337, DOI 10.1590/S0103-97332009000400002
+   Vandewalle N, 1998, PHYS REV E, V58, P6832, DOI 10.1103/PhysRevE.58.6832
+   Zebende GF, 2004, PHYSICA A, V342, P322, DOI 10.1016/j.physa.2004.01.071
+   Zebende GF, 2005, PHYSICA A, V349, P452, DOI 10.1016/j.physa.2004.10.027
+NR 52
+TC 2
+Z9 2
+U1 0
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD FEB 15
+PY 2012
+VL 391
+IS 4
+BP 1657
+EP 1661
+DI 10.1016/j.physa.2011.10.016
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA 894XB
+UT WOS:000300459700072
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Andrews, JO
+   Tingen, MS
+   Jarriel, SC
+   Caleb, M
+   Simmons, A
+   Brunson, J
+   Mueller, M
+   Ahluwalia, JS
+   Newman, SD
+   Cox, MJ
+   Magwood, G
+   Hurman, C
+AF Andrews, Jeannette O.
+   Tingen, Martha S.
+   Jarriel, Stacey Crawford
+   Caleb, Maudesta
+   Simmons, Alisha
+   Brunson, Juanita
+   Mueller, Martina
+   Ahluwalia, Jasjit S.
+   Newman, Susan D.
+   Cox, Melissa J.
+   Magwood, Gayenell
+   Hurman, Christina
+TI Application of a CBPR Framework to Inform a Multi-level Tobacco
+   Cessation Intervention in Public Housing Neighborhoods
+SO AMERICAN JOURNAL OF COMMUNITY PSYCHOLOGY
+LA English
+DT Article
+DE Community-based participatory research; Partnerships; Smoking cessation;
+   Multi-level interventions; RCT
+ID SMOKING-CESSATION; AFRICAN-AMERICANS; HEALTH PROMOTION; COMMUNITY;
+   WOMEN; PROGRAMS; SCIENCE; SMOKERS; POLICY
+AB African American women in urban, high poverty neighborhoods have high rates of smoking, difficulties with quitting, and disproportionate tobacco-related health disparities. Prior research utilizing conventional "outsider driven" interventions targeted to individuals has failed to show effective cessation outcomes. This paper describes the application of a community-based participatory research (CBPR) framework to inform a culturally situated, ecological based, multi-level tobacco cessation intervention in public housing neighborhoods. The CBPR framework encompasses problem identification, planning and feasibility/pilot testing, implementation, evaluation, and dissemination. There have been multiple partners in this process including public housing residents, housing authority administrators, community health workers, tenant associations, and academic investigators. The advisory process has evolved from an initial small steering group to our current institutional community advisory boards. Our decade-long CBPR journey produced design innovations, promising preliminary outcomes, and a full-scaled implementation study in two states. Challenges include sustaining engagement with evolving study partners, maintaining equity and power in the partnerships, and long-term sustainability of the intervention. Implications include applicability of the framework with other CBPR partnerships, especially scaling up evolutionary grassroots involvement to multi-regional partnerships.
+C1 [Andrews, Jeannette O.; Mueller, Martina; Newman, Susan D.; Cox, Melissa J.; Magwood, Gayenell] Med Univ S Carolina, Coll Nursing, Charleston, SC 29426 USA.
+   [Tingen, Martha S.] Georgia Hlth Sci Univ, Child Hlth Discovery Inst, Augusta, GA USA.
+   [Tingen, Martha S.] Georgia Hlth Sci Univ, Georgia Prevent Inst, Augusta, GA USA.
+   [Ahluwalia, Jasjit S.] Univ Minnesota, Sch Med, Dept Med, Minneapolis, MN 55455 USA.
+   [Simmons, Alisha; Brunson, Juanita; Hurman, Christina] Sister Sister, Charleston, SC USA.
+   [Jarriel, Stacey Crawford; Caleb, Maudesta] Sister Sister, Augusta, GA USA.
+RP Andrews, JO (reprint author), Med Univ S Carolina, Coll Nursing, 99 Jonathon Lucas St,MSC 160, Charleston, SC 29426 USA.
+EM andrewj@musc.edu
+OI Magwood, Gayenell/0000-0002-2451-4888
+FU NHLBI NIH HHS [R01 HL090951, 5R01HL090951-03]; NCRR NIH HHS
+   [UL1RR029882, UL1 RR029882]
+CR Ahluwalia JS, 2006, ADDICTION, V101, P883, DOI 10.1111/j.1360-0443.2006.01461.x
+   Andrews J. O., 2011, PROGR COMMUNITY HLTH, V52, P183
+   Andrews J. O., 2010, HLTH ED RES
+   Andrews J. O., 2004, DISS ABSTR INT, V65
+   Andrews JO, 2007, RES NURS HEALTH, V30, P45, DOI 10.1002/nur.20174
+   Andrews JO, 2007, ETHNIC DIS, V17, P331
+   Andrews JO, 2004, J NURS SCHOLARSHIP, V36, P358, DOI 10.1111/j.1547-5069.2004.04064.x
+   Andrews JO, 2005, S ONLINE J NURS RES, V6, P2
+   Baldwin D, 1996, ADV NURS SCI, V19, P27, DOI 10.1097/00012272-199612000-00005
+   Barrera M., 2011, AM J COMMUNITY PSYCH
+   *CDC, 2003, PATHW FREED WINN FIG
+   Fiore M, 2008, TREATING TOBACCO USE
+   Fisher EB, 1998, AM J PUBLIC HEALTH, V88, P1658, DOI 10.2105/AJPH.88.11.1658
+   Glanz K, 2008, HLTH BEHAV HLTH ED T
+   Grady G, 1998, AM J PREV MED, V14, P130
+   Israel BA, 1998, ANNU REV PUBL HEALTH, V19, P173, DOI 10.1146/annurev.publhealth.19.1.173
+   Israel BA, 2008, COMMUNITY BASED PART
+   Israel BA, 2006, J URBAN HEALTH, V83, P1022, DOI 10.1007/s11524-006-9110-1
+   Kretzmann J. P., 2003, BUILDING COMMUNITIES
+   Lacey L., 1992, AM J PUBLIC HEALTH, V82, P99
+   Lee D, 2007, ADDICT BEHAV, V32, P332, DOI 10.1016/j.addbeh.2006.05.002
+   MANFREDI C, 1992, AM J PUBLIC HEALTH, V82, P267, DOI 10.2105/AJPH.82.2.267
+   MCLEROY KR, 1988, HEALTH EDUC QUART, V15, P351, DOI 10.1177/109019818801500401
+   Minkler M., 2005, J URBAN HEALTH, V82, P12, DOI DOI 10.1093/JURBAN/JTI034
+   Newman S., 2011, PREVENTING CHRONIC D, V8, P3
+   Office of Behavioral and Social Sciences research, 2011, COMM BAS PART RES
+   Shediac-Rizkallah MC, 1998, HEALTH EDUC RES, V13, P87, DOI 10.1093/her/13.1.87
+   Stokols D, 1996, AM J HEALTH PROMOT, V10, P282, DOI 10.4278/0890-1171-10.4.282
+   Tervalon M, 1998, J HEALTH CARE POOR U, V9, P117
+   Trickett EJ, 2011, AM J PUBLIC HEALTH, V101, P1410, DOI 10.2105/AJPH.2010.300113
+   Trickett EJ, 2011, AM J COMMUN PSYCHOL, V47, P58, DOI 10.1007/s10464-010-9369-y
+   Webb MS, 2008, PSYCHOL ADDICT BEHAV, V22, P592, DOI 10.1037/a0012968
+   Yonas MA, 2006, J URBAN HEALTH, V83, P1004, DOI 10.1007/s11524-009-9114-x
+NR 33
+TC 30
+Z9 30
+U1 1
+U2 18
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0091-0562
+J9 AM J COMMUN PSYCHOL
+JI Am. J. Community Psychol.
+PD SEP
+PY 2012
+VL 50
+IS 1-2
+BP 129
+EP 140
+DI 10.1007/s10464-011-9482-6
+PG 12
+WC Public, Environmental & Occupational Health; Psychology,
+   Multidisciplinary; Social Work
+SC Public, Environmental & Occupational Health; Psychology; Social Work
+GA 985MX
+UT WOS:000307271900011
+PM 22124619
+OA Green Accepted
+DA 2019-03-26
+ER
+
+PT J
+AU Cossu, R
+   Dell'Acqua, F
+   Polli, DA
+   Rogolino, G
+AF Cossu, Roberto
+   Dell'Acqua, Fabio
+   Polli, Diego Aldo
+   Rogolino, Giovanni
+TI SAR-Based Seismic Damage Assessment in Urban Areas: Scaling Down
+   Resolution, Scaling Up Computational Performance
+SO IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE
+   SENSING
+LA English
+DT Article
+DE Seismic damage assessment; synthetic aperture radar; urban areas
+ID MULTITEMPORAL SAR; SATELLITE IMAGES; IRAN EARTHQUAKE; DISASTERS; HAZARDS
+AB Earth Observation (EO) is becoming increasingly important in the support operations after a destructive event, as an earthquake can be. Remote sensing is proving to be very useful for identifying damage and planning support activities. Although the use of optical data because of easier visual interpretation is preferred-where possible-radar sensors can be a valuable tool for damage detection due to their extreme versatility and operability under all-weather conditions. The previous work of our research group has found a link between some selected texture measures computed on radar maps over single blocks of an urban area and the damage found in these neighborhoods. The study was conducted on 1-m resolution Spotlight images at high resolution (VHR) produced by COSMO-SkyMed, a valuable yet scarce resource. This paper reports on research aimed at probing whether and to what extent the method developed on 1-m resolution data can be transferred to more widely available, lower resolution ENVISAT ASAR data acquired in stripmap mode.
+C1 [Dell'Acqua, Fabio; Polli, Diego Aldo] Univ Pavia, Informat & Ind Engn Dept, I-27100 Pavia, Italy.
+   [Dell'Acqua, Fabio] European Ctr Training & Res Earthquake Engn, Aerosp Sect, I-27100 Pavia, Italy.
+   [Cossu, Roberto] European Space Agency ESRIN, Earth Observat Sci Applicat & Future Technol Dept, I-00044 Rome, Italy.
+   [Rogolino, Giovanni] European Space Agency ESRIN, Earth Observat Sci Applicat & Future Technol Dept, Frascati, Italy.
+RP Dell'Acqua, F (reprint author), Univ Pavia, Informat & Ind Engn Dept, Via Palestro 3, I-27100 Pavia, Italy.
+EM fabio.del-lacqua@unipv.it
+RI Dell'Acqua, Fabio/L-5498-2013; chen, zhu/K-5923-2013
+OI Dell'Acqua, Fabio/0000-0002-0044-2998; 
+FU European Space Agency; Italian Civil Protection Department Piano
+   Esecutivo; Italian Space Agency [2246]; EU
+FX This work was supported in part by the European Space Agency through the
+   ESA Student Placement programme, the Italian Civil Protection Department
+   through the funding of the "Piano Esecutivo" to the EUCENTRE, by the
+   Italian Space Agency through contract ID 2246 of the COSMO/SkyMed AO
+   issued in 2007, and by the EU in the framework of the GMES FP7 project
+   "SAFER."
+CR Aoki H., 1998, P 19 AS C REM SENS C, P1
+   Brunner D., IEEE J SEL TOPICS AP, V2, P33
+   Chesnel A.-L., 2008, P IGARSS BOST MASS J, V3, P1252
+   Chesnel AL, 2007, INT GEOSCI REMOTE SE, P3736
+   Chini M, 2008, IEEE T GEOSCI REMOTE, V46, P1812, DOI 10.1109/TGRS.2008.916223
+   Chini M, 2009, IEEE T GEOSCI REMOTE, V47, P145, DOI 10.1109/TGRS.2008.2002695
+   Dell'Acqua F, 2009, ISPRS J PHOTOGRAMM, V64, P482, DOI 10.1016/j.isprsjprs.2008.09.006
+   Dell'Acqua F, 2009, PROGETTAZIONE SISMIC, P85
+   Dell'Acqua F., 2011, P EARSEL S PRAG CZEC
+   Dell'Acqua F., IEEE J SEL TOPICS AP, VPP, P1
+   Dell'Acqua F, 2010, INT GEOSCI REMOTE SE, P1347, DOI 10.1109/IGARSS.2010.5653973
+   DellOrletta F., 2009, P JOINT URB REM SENS, P1
+   Eguchi RT, 2010, GEOTECH ENVIRON, V2, P295, DOI 10.1007/978-90-481-2238-7_15
+   Gamba P, 2007, IEEE T GEOSCI REMOTE, V45, P1582, DOI 10.1109/TGRS.2006.885392
+   Grunthal G., 1998, EUROPEAN SEISMIC SCA
+   HARALICK RM, 1973, IEEE T SYST MAN CYB, VSMC3, P610, DOI 10.1109/TSMC.1973.4309314
+   Hoffmann J, 2007, INT J REMOTE SENS, V28, P1199, DOI 10.1080/01431160600928567
+   Inglada J, 2007, IEEE T GEOSCI REMOTE, V45, P1432, DOI 10.1109/TGRS.2007.893568
+   Ito Y., 2000, P 19 ISPRS C AMST NE, V33, P156
+   Joyce KE, 2009, PROG PHYS GEOG, V33, P183, DOI 10.1177/0309133309339563
+   Linke J., 2012, IEEE J-STARS, V4, P265
+   Matsuoka M, 2004, EARTHQ SPECTRA, V20, P975, DOI 10.1193/1.1774182
+   Matsuoka M, 2002, INT GEOSCI REMOTE SE, P2042, DOI 10.1109/IGARSS.2002.1026438
+   Matsuoka M, 2004, P 25 AS C REM SENS, P841
+   Polli D., 2010, P ESA LIV PLAN PROGR
+   Saito K, 2004, EARTHQ SPECTRA, V20, P145, DOI 10.1193/1.1650865
+   Sakamoto M, 2004, INT GEOSCI REMOTE SE, P1418
+   Stramondo S, 2006, INT J REMOTE SENS, V27, P4433, DOI 10.1080/01431160600675895
+   Vogelmann J. E., 2012, IEEE J-STARS, V4, P252
+   Voigt S, 2007, IEEE T GEOSCI REMOTE, V45, P1520, DOI 10.1109/TGRS.2007.895830
+   YAMAKAKI F, 2004, P IGARSS, V4, P2280
+   Yonezawa C, 2001, INT J REMOTE SENS, V22, P1585, DOI 10.1080/01431160118187
+NR 32
+TC 11
+Z9 12
+U1 1
+U2 16
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1939-1404
+J9 IEEE J-STARS
+JI IEEE J. Sel. Top. Appl. Earth Observ. Remote Sens.
+PD AUG
+PY 2012
+VL 5
+IS 4
+SI SI
+BP 1110
+EP 1117
+DI 10.1109/JSTARS.2012.2185926
+PG 8
+WC Engineering, Electrical & Electronic; Geography, Physical; Remote
+   Sensing; Imaging Science & Photographic Technology
+SC Engineering; Physical Geography; Remote Sensing; Imaging Science &
+   Photographic Technology
+GA 980VK
+UT WOS:000306922100005
+DA 2019-03-26
+ER
+
+PT J
+AU Brown, J
+   Fraehlich, C
+AF Brown, Jason
+   Fraehlich, Cheryl
+TI Assets for Employment in Aboriginal Community-Based Human Services
+   Agencies
+SO ADULT EDUCATION QUARTERLY
+LA English
+DT Article
+DE Aboriginal; human services; employment
+ID SUBSTANCE USE; EXPERIENCES; DISEASE; CANADA; WOMEN
+AB The purpose of the present study was to explore the prior educational and employment experiences of staff members in urban Aboriginal human services agencies. A total of 44 individuals employed by one of three community sites within one Canadian inner city generated 85 unique responses to the question: "What were your employment and education experiences before you got this job?" Multidimensional scaling and cluster analysis of independent grouping of the responses by 16 participants revealed five underlying themes: formal education, helping others, holder of cultural knowledge, life experiences, and on-the-job training. These results were compared and contrasted with the available literature.
+C1 [Brown, Jason] Univ Western Ontario, Fac Educ, Counselling Psychol Program, London, ON N6G 1G7, Canada.
+   [Fraehlich, Cheryl] Univ Manitoba, Dept Family Social Sci, Winnipeg, MB, Canada.
+RP Brown, J (reprint author), Univ Western Ontario, Fac Educ, Counselling Psychol Program, 1137 Western Rd, London, ON N6G 1G7, Canada.
+EM jbrow97@uwo.ca
+CR Aboriginal Justice Inquiry of Manitoba, 2000, INQ ISS
+   Anand SS, 2001, LANCET, V358, P1147, DOI 10.1016/S0140-6736(01)06255-9
+   Battiste M., 2004, ANIMATING SITES POST
+   Battiste M., 2010, ED CANADA, V50, P14
+   Beimers D, 2007, FAM SOC, V88, P391, DOI 10.1606/1044-3894.3648
+   Belanger Y, 2002, AM INDIAN Q, V26, P393
+   Brown D., 2002, COMMUNICATION   0606
+   Brown D., 2003, CANADIAN HR REPORTER, V16, P9
+   Brown J., COMMUNITY D IN PRESS
+   Canadian Labour and Business Centre, 2004, WORKF PROF NAT RES S
+   Chansonneuve D., 2005, RECLAIMING CONNECTIO
+   Chapin M. H., 2004, COLL STUDENT J, V38, P273
+   Clarke J, 2008, HEALTH SOC CARE COMM, V16, P96, DOI 10.1111/j.1365-2524.2007.00731.x
+   Clarkson L., 1992, OUR RESPONSIBILITY 7
+   Cooke M., 2007, BMC INT HEALTH HUM R, V7, P1, DOI DOI 10.1186/1472-698X-7-9
+   DICKASON Olive, 1993, CANADAS 1 NATIONS HI
+   Dockstator M., 1993, THESIS YORK U TORONT
+   Fraser S. J., 2002, THESIS DALHOUSIE U H
+   Gabriel C, 2006, CAN J POLIT SCI, V39, P187
+   Gao N, 2009, J VOCAT REHABIL, V31, P45, DOI 10.3233/JVR-2009-0471
+   Gibb J. L., 2003, ASIA PACIFIC J HUMAN, V41, P371, DOI DOI 10.1177/1038411103041003008
+   Gold PB, 2004, SUBST USE MISUSE, V39, P2425, DOI 10.1081/LSUM-200034667
+   Haley-Lock A, 2007, ADMIN SOC WORK, V31, P41, DOI 10.1300/J147v31n03_04
+   Hart D., 2001, J VOCATIONAL REHABIL, V16, P145
+   Iwasaki Y, 2004, ETHNIC HEALTH, V9, P189, DOI 10.1080/1355785042000222888
+   Kirmayer L., 2006, AUSTR PSYCHIAT, V11, P15
+   Koss MP, 2003, AM J PREV MED, V25, P238, DOI 10.1016/S0749-3797(03)00195-8
+   Kunz J. L., 2000, UNEQUAL ACCESS CANAD
+   Laughlin J., 2010, REDEFINING SUCCESS A
+   McCracken M., 2005, WOMEN ENV INT MAGAZI, V37, P22
+   Mendelson M, 2006, ABORIGINAL PEOPLES P
+   O'Connell JM, 2007, ADDICT BEHAV, V32, P3142, DOI 10.1016/j.addbeh.2007.07.012
+   Pendakur K., 2008, METROPOLIS BRIT COLU
+   RAMIREZ R, 1990, COMMUNITY DEV J, V25, P131, DOI 10.1093/cdj/25.2.131
+   Saylors K, 2006, AM INDIAN ALASKA NAT, V13, P32
+   Silver Jim., 2006, THEIR OWN VOICES BUI
+   Stephens DL, 2005, RES DEV DISABIL, V26, P469, DOI 10.1016/j.ridd.2003.12.003
+   Trochim W. M., 1987, CONCEPT SYSTEMS
+   TROCHIM WMK, 1989, EVAL PROGRAM PLANN, V12, P87, DOI 10.1016/0149-7189(89)90027-X
+   TROCHIM WMK, 1989, EVAL PROGRAM PLANN, V12, P1, DOI 10.1016/0149-7189(89)90016-5
+   Wade J, 2006, CHILD FAMILY SOCIAL, V11, P199, DOI DOI 10.1111/J.1365-2206.2006.00428.X
+   Waldram JB, 2006, ABORIGINAL HLTH CANA
+   Wesley-Esquimaux Cynthia C., 2004, HIST TRAUMA ABORIGIN
+   Weston J., 2002, J SOCIAL WORK, V2, P83
+   Wilson D., 2010, INCOME GAP ABORIGINA
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0741-7136
+J9 ADULT EDUC QUART
+JI Adult Educ. Q.
+PD AUG
+PY 2012
+VL 62
+IS 3
+BP 287
+EP 303
+DI 10.1177/0741713611418357
+PG 17
+WC Education & Educational Research
+SC Education & Educational Research
+GA 960UT
+UT WOS:000305417500005
+DA 2019-03-26
+ER

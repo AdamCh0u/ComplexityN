@@ -1,0 +1,514 @@
+
+PT J
+AU Hubbard, BE
+   Sheridan, MF
+   Carrasco-Nunez, G
+   Diaz-Castellon, R
+   Rodriguez, SR
+AF Hubbard, Bernard E.
+   Sheridan, Michael F.
+   Carrasco-Nunez, Gerardo
+   Diaz-Castellon, Rodolfo
+   Raul Rodriguez, Sergio
+TI Comparative lahar hazard mapping at volcan Citlaltepetl, Mexico using
+   SRTM, ASTER and DTED-1 digital topographic data
+SO JOURNAL OF VOLCANOLOGY AND GEOTHERMAL RESEARCH
+LA English
+DT Article
+DE SRTM; ASTER; DTED-1; LAHARZ flow model; debris avalanches; lahars;
+   volcan Citlaltepetl; hazard zones
+ID PICO-DE-ORIZABA; SHUTTLE RADAR; ACCURACY ASSESSMENT; ELEVATION MODELS;
+   EASTERN MEXICO; FLOW MODEL; MISSION; ICE; VALIDATION; HEIGHT
+AB In this study, we evaluated and compared the utility of spaceborne SRTM and ASTER DEMs with baseline DTED-l "bald-earth" topography for mapping lahar inundation hazards from volcan Citlaltepetl, Mexico, a volcano which has had a history of producing debris flows of various extents. In particular, we tested the utility of these topographic datasets for resolving ancient valley-filling deposits exposed around the flanks of the volcano, for determining their magnitude using paleohydrologic methods and for forecasting their inundation limits in the future. We also use the three datasets as inputs to a GIS stream inundation flow model, LAHARZ, and compare the results.
+   In general all three datasets, with spatial resolution of 90 m or better, were capable of resolving debris flow and lahar deposits at least 3 x 10(6) m(3) in volume or larger. Canopy- and slope-related height errors in the ASTER and SRTM DEMs limit their utility for measuring valley-filling cross-sectional area and deriving flow magnitude for the smallest deposits using a cross-sectional area to volume scaling equation. Height errors in the ASTER and SRTN4 DEMs also causes problems in resolving stream valley hydrography which controls lahar flow paths and stream valley morphology which controls lahar filling capacity. However, both of the two spaceborne DEM datasets are better than DTED-l at resolving fine details in stream hydrography and erosional morphologies of volcaniclastics preserved in the valleys around the more humid, eastern flanks of the volcanic range.
+   The results of LAHARZ flow inundation modeling using all three DEMs as inputs are remarkably similar and co-validate one another. For example, at Citlaltepetl all lahar simulations show that the city of Orizaba is the most vulnerable to flows similar in magnitude to, or larger than, one that occurred in 1920. Many of the other cities and towns illustrated are built higher up on terrace deposits of older debris flows, and are safe from all but the largest flows, which occur less frequently.
+   Finally, ASTERs 60 km swath width and 8% duty cycle presents a challenge for mapping lahar inundation hazards at E-W oriented stream valleys in low-latitude areas with persistent cloud cover. However, its continued operations enhances its utility as a means for updating the continuous but one-time coverage of SRTM, and for filling voids in the SRTM dataset such as those that occur along steep-sided valleys prone to hazards from future lahars. (c) 2006 Elsevier B.V All rights reserved.
+C1 US Geol Survey, Reston, VA 20192 USA.
+   SUNY Buffalo, Buffalo, NY 14260 USA.
+   Univ Nacl Autonoma Mexico, Ctr Geociencias, Juriquilla 76230, Queretaro, Mexico.
+   Inst Geol, Mexico City 04510, DF, Mexico.
+   Univ Veracruzana, Ctr Ciencias Tierra, Xalapa 91090, Veracruz, Mexico.
+RP Hubbard, BE (reprint author), US Geol Survey, Reston, VA 20192 USA.
+EM bhubbard@usgs.gov
+OI Rodriguez Elizarraras, Sergio Raul/0000-0002-5673-7242
+CR BOHME R, 1993, INVENTORY WORLD TOPO
+   BOLSTAD PV, 1994, PHOTOGRAMM ENG REM S, V60, P1327
+   Carrasco-Nunez G, 1999, J VOLCANOL GEOTH RES, V88, P47, DOI 10.1016/S0377-0273(98)00110-3
+   Carrasco-Nunez G, 2000, GEOL SOC AM SPEC PAP, P247, DOI DOI 10.1130/0-8137-2334-5.247
+   CARRASCONUNEZ G, 1993, J VOLCANOL GEOTH RES, V59, P35, DOI 10.1016/0377-0273(93)90076-4
+   CARRASCONUNEZ G, J VOLCANOLOGY GEOTHE, DOI DOI 10.1016/J.VOLGEORES.2006.04.025
+   Carroll D, 1997, HEALTH PSYCHOL, V16, P131, DOI 10.1037/0278-6133.16.2.131
+   CRAUSAZ W, 1993, GEOLOGY ARCHAEOLOGY
+   De la Cruz-Reyna S, 2002, J VOLCANOL GEOTH RES, V113, P307, DOI 10.1016/S0377-0273(01)00263-3
+   Eckert S, 2005, INT J REMOTE SENS, V26, P1943, DOI 10.1080/0143116042000298306
+   Fujisada H, 1995, P SOC PHOTO-OPT INS, V2583, P16, DOI 10.1117/12.228565
+   Goel N. S., 1988, REMOTE SENS REV, V4, P1
+   GRISWOLD J, 2003, GEOL SOC AM ABSTR, V35, P79
+   Hensley S, 2000, P SOC PHOTO-OPT INS, V4152, P179, DOI 10.1117/12.410596
+   Hirano A, 2003, ISPRS J PHOTOGRAMM, V57, P356, DOI 10.1016/S0924-2716(02)00164-8
+   HOSKULDSSON A, 1993, B VOLCANOL, V55, P571, DOI 10.1007/BF00301810
+   HUBBARD BE, 2001, THESIS STATE U NEW Y
+   HUDSON WD, 1991, PHOTOGRAMM ENG REM S, V57, P79
+   *INEGI, 2005, INTR CART
+   *INEGI, 1983, UN SUL VEG
+   *ISDA, 1978, USDA AGR HDB, V308
+   Iverson RM, 1998, GEOL SOC AM BULL, V110, P972, DOI 10.1130/0016-7606(1998)110<0972:ODOLIH>2.3.CO;2
+   JENSON SK, 1988, PHOTOGRAMM ENG REM S, V54, P1593
+   Kellndorfer J, 2004, REMOTE SENS ENVIRON, V93, P339, DOI 10.1016/j.rse.2004.07.017
+   Kover T., 1993, GEOL SOC AM ABSTR, V25, P268
+   Lang H., 1999, ALGORITHM THEORETICA
+   Lauer W., 1973, Arctic and Alpine Research, V5, P99
+   Lillesand T. M., 2004, REMOTE SENSING IMAGE
+   Macias JL, 2005, J VOLCANOL GEOTH RES, V141, P327, DOI 10.1016/j.jvolgeores.2004.10.005
+   MALIN MC, 1982, SCIENCE, V217, P637, DOI 10.1126/science.217.4560.637
+   MAUNE DF, 1996, INTRO DIGITAL ELEVAT, pCH6
+   *NAT GEOSP INT AG, 1996, MILPRF89020A
+   Negendank J.F.W., 1985, GEOFIS INT, V24, P477
+   Palacios D, 1999, GEOMORPHOLOGY, V28, P95, DOI 10.1016/S0169-555X(98)00098-1
+   *PCI, 2001, GEOM ORTH SAT PROJ M
+   PIERSON TC, 1987, REV ENG GEOL GEOL SO, V7, P1, DOI DOI 10.1130/REG7-P1
+   Rabus B, 2003, ISPRS J PHOTOGRAMM, V57, P241, DOI 10.1016/S0924-2716(02)00124-7
+   RODRIGUEZ S, 1998, THESIS U NACL AUTONO
+   SAYNWITTGENSTEI.L, 1981, PHOTOGRAMMETRIC ENG, V47, P792
+   Schilling S. P, 1998, 98638 US GEOL SURV
+   SCOTT KM, 2001, US GEOLOGICAL SURVEY, V1630
+   SCOTT KM, 1995, SU GEOL SUREVY HYDRO
+   SCOTT KM, 1995, US GEOL SURVEY PROFE, V1547
+   Sheridan MF, 2005, J VOLCANOL GEOTH RES, V139, P89, DOI 10.1016/j.jvolgeors.2004.06.011
+   Sheridan MF, 2004, NAT HAZARDS, V33, P209, DOI 10.1023/B:NHAZ.0000037028.89829.d1
+   SHERIDAN MF, 2002, I GEOLOGY GEOPHYS GE
+   SHERIDAN MF, 2004, P IAVCEI 2004 GEN AS
+   SIEBE C, 1993, J VOLCANOL GEOTH RES, V59, P1, DOI 10.1016/0377-0273(93)90075-3
+   Stevens NF, 2004, REMOTE SENS ENVIRON, V90, P405, DOI 10.1016/j.rse.2004.01.012
+   Stevens NF, 2003, J VOLCANOL GEOTH RES, V119, P89, DOI 10.1016/S0377-0273(02)00307-4
+   Sun G, 2003, REMOTE SENS ENVIRON, V88, P401, DOI 10.1016/j.rse.2003.09.001
+   TILLING RI, 1989, REV GEOPHYS, V27, P237, DOI 10.1029/RG027i002p00237
+   Torres R, 2004, J VOLCANOL GEOTH RES, V138, P371, DOI 10.1016/j.jvolgeores.2004.08.005
+   Toutin T, 2002, IEEE T GEOSCI REMOTE, V40, P2241, DOI 10.1109/TGRS.2002.802878
+   TOUTIN T, 1995, ADV REMOTE SENSING, V4, P110
+   *USGS, 2003, SEAML SHUTT RAD TOP
+   USGS (United States Geological Survey), 1986, 86004 USGS
+   Vallance J. W., 2000, ENCY VOLCANOES, P601
+   Wadge G., 1988, International Journal of Geographical Information Systems, V2, P143, DOI 10.1080/02693798808927890
+   Welch R, 1998, IEEE T GEOSCI REMOTE, V36, P1282, DOI 10.1109/36.701078
+   WOLF M, 1992, GEOPHYS RES LETT, V19, P2325, DOI 10.1029/92GL01886
+   ZEBKER HA, 1986, J GEOPHYS RES-SOLID, V91, P4993, DOI 10.1029/JB091iB05p04993
+   Zimbelman DR, 2004, B VOLCANOL, V66, P66, DOI 10.1007/s00445-003-0296-8
+NR 63
+TC 54
+Z9 62
+U1 0
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0377-0273
+J9 J VOLCANOL GEOTH RES
+JI J. Volcanol. Geotherm. Res.
+PD FEB 1
+PY 2007
+VL 160
+IS 1-2
+BP 99
+EP 124
+DI 10.1016/j.jvolgeores.2006.09.005
+PG 26
+WC Geosciences, Multidisciplinary
+SC Geology
+GA 136IF
+UT WOS:000244215100006
+DA 2019-03-26
+ER
+
+PT J
+AU Teklehaimanot, A
+   McCord, GC
+   Sachs, JD
+AF Teklehaimanot, Awash
+   McCord, Gordon C.
+   Sachs, Jeffrey D.
+TI Scaling up malaria control in Africa: An economic and epidemiological
+   assessment
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+ID INSECTICIDE-TREATED NETS; GLOBAL DISTRIBUTION; MORBIDITY; POPULATION;
+   MORTALITY
+AB This paper estimates the number of people at risk of contracting malaria in Africa using GIS methods and the disease's epidemiologic characteristics. It then estimates yearly costs of covering the population at risk with the package of interventions (differing by level of malaria endemicity and differing for rural and urban populations) for malaria as recommended by the UN Millennium Project. These projected costs are calculated assuming a ramp-up of coverage to full coverage by 2008, and then projected out through 2015 to give a year-by-year cost of meeting the Millennium Development Goal for reducing the burden of malaria by 75%. We conclude that the cost of comprehensive malaria control for Africa is US$3.0 billion per year on average, or around US$4.02 per African at risk.
+C1 [Teklehaimanot, Awash; McCord, Gordon C.; Sachs, Jeffrey D.] Columbia Univ, Earth Inst Columbia Univ, New York, NY USA.
+RP Teklehaimanot, A (reprint author), 2910 Broadway,MC 3277 Hogan Hall,110B, New York, NY 10025 USA.
+EM awash@ei.columbia.edu
+CR ALEMAYEHU T, 1998, ETHIOP J HLTH DEV, V12, P203
+   *AM RED CROSS CORE, 2004, MAL CAS STUD PARTN A
+   Breman JG, 2004, AM J TROP MED HYG, V71, P1
+   BRYCE J, 1994, B WORLD HEALTH ORGAN, V72, P371
+   *CIESIN IPFRI CIAT, 2004, GLOB RUR URB MAPP PR
+   Craig MH, 1999, PARASITOL TODAY, V15, P105, DOI 10.1016/S0169-4758(99)01396-4
+   Curtis C, 2003, LANCET INFECT DIS, V3, P304, DOI 10.1016/S1473-3099(03)00612-1
+   GRABOWSKY M, 2003, P ANN M AM SOC TROP
+   GREENWOOD B, 1992, PARASITOL TODAY, V8, P381
+   Hay SI, 2004, LANCET INFECT DIS, V4, P327, DOI 10.1016/S1473-3099(04)01043-6
+   KISZEWSKI A, 2007, B WORLD HEALTH ORGAN, V85, P569
+   Kiszewski AE, 2004, AM J TROP MED HYG, V71, P128, DOI 10.4269/ajtmh.2004.71.128
+   LENGELER C, 2004, COCHRANE DATABASE RE
+   Lysenko A. J., 1968, ITOGI NAUKI MEDICINS, P25
+   Maxwell CA, 2002, TROP MED INT HEALTH, V7, P1003, DOI 10.1046/j.1365-3156.2002.00966.x
+   Nevill CG, 1996, TROP MED INT HEALTH, V1, P139
+   *NOV, 2006, NOV ANN IN IMPR ACC
+   *RBM, 2006, ACTS PROC WHO UNICEF
+   Snow RW, 2003, TRENDS PARASITOL, V19, P363, DOI 10.1016/S1471-4922(03)00168-5
+   Snow RW, 1999, B WORLD HEALTH ORGAN, V77, P624
+   Snow RW, 2005, NATURE, V434, P214, DOI 10.1038/nature03342
+   *UN MILL PROJ, 2005, COM GRIPS MAL NEW MI
+   *WHO, 1996, WKLY EPIDEMIOL REC, V71, P17
+   *WHO, 2005, ROL LAB DIAGN SUPP M
+   *WHO, 2006, GUID TREAT MAL
+   *WHO AFRO, 2002, CLIN BEHAV SOC FACT
+   *WHO RBM UNICEF PS, 2004, SOURC PRIC SEL PROD
+   *WHO UNICEF, 2003, AFR MAL REP 2003
+NR 28
+TC 35
+Z9 35
+U1 1
+U2 14
+PU AMER SOC TROP MED & HYGIENE
+PI MCLEAN
+PA 8000 WESTPARK DR, STE 130, MCLEAN, VA 22101 USA
+SN 0002-9637
+J9 AM J TROP MED HYG
+JI Am. J. Trop. Med. Hyg.
+PD DEC
+PY 2007
+VL 77
+IS 6
+SU S
+BP 138
+EP 144
+DI 10.4269/ajtmh.2007.77.138
+PG 7
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 249FJ
+UT WOS:000252212600023
+PM 18165486
+DA 2019-03-26
+ER
+
+PT J
+AU Isalgue, A
+   Coch, H
+   Serra, R
+AF Isalgue, Antonio
+   Coch, Helena
+   Serra, Rafael
+TI Scaling laws and the modern city
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE scaling laws; cities; complex systems; transportation
+ID CONSTRUCTAL THEORY; NETWORKS
+AB The inter-relations and the complexity of modern urban spaces are difficult to analyse in a way that allows improving living conditions or help to ascertain optimal decisions for saving energy or improving sustainability. Carefully designed decisions and guidelines might produce unexpected results because of particularities, or complex sets of reactions from residents or economic counterparts. Complexity tends to increase with size, such as when, for instance, services tend to concentrate in large agglomerations, and transportation needs take on critical importance. Complex systems such as living organisms are known to follow approximate relationships as scaling laws between the variables that describe them. Some of these kinds of relationships are tested in relation to modern developed urban spaces, in which it is possible to find a reasonable continuity with the types of scales seen in living organisms, and some preliminary conclusions are drawn. (C) 2007 Elsevier B.V. All rights reserved.
+C1 Univ Politecn Catalunya, Sch Architecture, AiEM, E-08028 Barcelona, Spain.
+RP Isalgue, A (reprint author), Univ Politecn Catalunya, Sch Architecture, AiEM, Diagonal 649, E-08028 Barcelona, Spain.
+EM antonio.isalgue@upc.edu
+RI isalgue, antonio/M-2459-2014; Coch, Helena/I-2153-2017
+OI isalgue, antonio/0000-0002-4354-5831; Coch, Helena/0000-0001-9524-8057
+CR Bejan A, 2006, J EXP BIOL, V209, P238, DOI 10.1242/jeb.01974
+   Bejan A., 2000, SHAPE STRUCTURE ENG
+   Buchanan M, 2007, NAT PHYS, V3, P7, DOI 10.1038/nphys492
+   Burd M, 2006, PHYSICA A, V372, P124, DOI 10.1016/j.physa.2006.05.004
+   Carvalho R, 2004, PHYSICA A, V332, P539, DOI 10.1016/j.physa.2003.10.024
+   COCH H, 2006, WORLD REN EN C WREC
+   Guimera R, 2007, NAT PHYS, V3, P63, DOI 10.1038/nphys489
+   Kleiber M., 1975, FIRE LIFE INTRO ANIM
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Reis AH, 2006, INT J HEAT MASS TRAN, V49, P1857, DOI 10.1016/j.ijheatmasstransfer.2005.10.037
+   SALINGAROS NA, 2005, 5 BIENN TOWNS TOWN P
+   West GB, 2004, PHYS TODAY, V57, P36, DOI 10.1063/1.1809090
+   West GB, 2002, P NATL ACAD SCI USA, V99, P2473, DOI 10.1073/pnas.012579799
+NR 13
+TC 17
+Z9 18
+U1 1
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD AUG 15
+PY 2007
+VL 382
+IS 2
+BP 643
+EP 649
+DI 10.1016/j.physa.2007.04.019
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA 192JW
+UT WOS:000248198800027
+DA 2019-03-26
+ER
+
+PT J
+AU Tsukahara, K
+   Sugata, K
+   Osanai, O
+   Ohuchi, A
+   Miyauchi, Y
+   Takizawa, M
+   Hotta, M
+   Kitahara, T
+AF Tsukahara, Kazue
+   Sugata, Keiichi
+   Osanai, Osamu
+   Ohuchi, Atsushi
+   Miyauchi, Yuki
+   Takizawa, Minoru
+   Hotta, Mitsuyuki
+   Kitahara, Takashi
+TI Comparison of age-related changes in facial wrinkles and sagging in the
+   skin of Japanese, Chinese and Thai women
+SO JOURNAL OF DERMATOLOGICAL SCIENCE
+LA English
+DT Article
+DE skin; wrinkle; sag; face; aging; scale
+ID HAIRLESS MOUSE SKIN; TRANS RETINOIC-ACID; CUTANEOUS PHOTODAMAGE;
+   PHOTOGRAPHIC SCALE; FEMALES; LIGHT; COLOR; MICE
+AB Background: Differences in skin aging features between Asians and Caucasians are commonly known, whereas little is known about such differences in various Asian populations.
+   Objective: A survey was carried out in Tokyo, Shanghai and Bangkok to identify specific features of skin aging in each population and to evaluate whether our conventional photo scale is an appropriate tool. for this type of comparative study.
+   Methods: Eighty-seven women residing in Tokyo, 100 women residing in Shanghai, and 90 women residing in Bangkok were examined by a specialist. Facial wrinkles (forehead, glabella, upper eyelid, crow's feet, tower eyelid, cheek, nasolabial groove and mouth corner) and cheek sagging were evaluated using photo scales previously obtained from Japanese subjects. Comparisons were made according to 10-year age groups.
+   Results: Women in Bangkok showed the most severe level of wrinkles, followed by those in Shanghai in the three groups. Significant differences were observed between Thai and Japanese women in the intensity of wrinkles at many facial sites. Chinese women had significantly more severe wrinkles in the area around the eyes compared to Japanese women, while Thai women had significantly more severe wrinkles in the lower halves of their faces compared to Chinese women. In cheek sagging scores, significant differences were observed between Japanese and Thai women in their 30s and 50s, but not between Japanese and Chinese women or between Chinese and Thai women in all age groups.
+   Conclusion: These results indicate variations in skin aging features among women from three Asian cities thereby suggesting the diversity of Asian skin. Our scaling method proved to be appropriate for facial wrinkles, but required modification to compare cheek sagging among Asian populations. (c) 2007 Japanese Society for Investigative Dermatology. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 Kao Corp, Biol Sci Lab, Haga, Tochigi 3213497, Japan.
+RP Tsukahara, K (reprint author), Kao Corp, Biol Sci Lab, 2606 Akabane, Haga, Tochigi 3213497, Japan.
+EM tsukahara.kazue@kao.co.jp
+CR Akazaki S, 2002, BRIT J DERMATOL, V147, P689, DOI 10.1046/j.1365-2133.2002.04874.x
+   Alaluf S, 2002, PIGM CELL RES, V15, P119, DOI 10.1034/j.1600-0749.2002.1o072.x
+   BISSETT DL, 1987, PHOTOCHEM PHOTOBIOL, V46, P367, DOI 10.1111/j.1751-1097.1987.tb04783.x
+   CHAQOUR B, 1995, J PHOTOCH PHOTOBIO B, V28, P125, DOI 10.1016/1011-1344(94)07080-8
+   CHATTERJEE R, 1990, PHOTOCHEM PHOTOBIOL, V51, P91, DOI 10.1111/j.1751-1097.1990.tb01688.x
+   CHEN S, 1992, J INVEST DERMATOL, V98, P248, DOI 10.1111/1523-1747.ep12556066
+   Endo N, 2001, J SOC COSMET CHEM JP, V35, P219
+   Fisher GJ, 1996, NATURE, V379, P335, DOI 10.1038/379335a0
+   Friedman PM, 2002, DERMATOL SURG, V28, P199, DOI 10.1046/j.1524-4725.2002.02832.x
+   GRIFFITHS CEM, 1992, ARCH DERMATOL, V128, P347, DOI 10.1001/archderm.128.3.347
+   GROVE GL, 1989, J AM ACAD DERMATOL, V21, P631, DOI 10.1016/S0190-9622(89)70230-9
+   Hillebrand GG, 2001, J DERMATOL SCI, V27, pS42
+   Imokawa G, 1993, COSMET TOILETRIES, V108, P65
+   Jaspers S, 1999, SKIN RES TECHNOL, V5, P195, DOI 10.1111/j.16000846.1999.tb00131.x
+   Kawada Akira, 1993, Journal of Dermatology (Tokyo), V20, P514
+   Kligman AM, 1988, J CUT AGING COSMET D, V1, P1
+   KLIGMAN LH, 1989, J INVEST DERMATOL, V93, P210, DOI 10.1111/1523-1747.ep12277573
+   LARNIER C, 1994, BRIT J DERMATOL, V130, P167, DOI 10.1111/j.1365-2133.1994.tb02895.x
+   Lee JH, 1999, PHOTODERMATOL PHOTO, V15, P231, DOI 10.1111/j.1600-0781.1999.tb00095.x
+   LEMPERLE G, 2001, PLAST RECONSTR SURG, V108, P1738
+   Li L, 2006, ARCH DERMATOL RES, V297, P412, DOI 10.1007/s00403-005-0628-y
+   MURAKAMI M, 1997, J JPN COSMET SCI SOC, V21, P190
+   Nagashima H, 1999, PHOTODERMATOL PHOTO, V15, P2, DOI 10.1111/j.1600-0781.1999.tb00044.x
+   Neocleous V, 1997, PHOTOCHEM PHOTOBIOL, V66, P676, DOI 10.1111/j.1751-1097.1997.tb03206.x
+   Nouveau-Richard S, 2005, J DERMATOL SCI, V40, P187, DOI 10.1016/j.jdermsci.2005.06.006
+   SCHWARTZ E, 1993, PHOTOCHEM PHOTOBIOL, V58, P841, DOI 10.1111/j.1751-1097.1993.tb04981.x
+   Takema Y, 1996, Exp Dermatol, V5, P145, DOI 10.1111/j.1600-0625.1996.tb00109.x
+   TSUJI T, 1986, BRIT J DERMATOL, V114, P329, DOI 10.1111/j.1365-2133.1986.tb02824.x
+   Tsukahara K, 2000, J COSMET SCI, V51, P127
+   Tsukahara K, 2004, J COSMET SCI, V55, P373
+   Tsukahara K., 2000, International Journal of Cosmetic Science, V22, P247, DOI 10.1046/j.1467-2494.2000.00033.x
+   WARREN R, 1991, J AM ACAD DERMATOL, V25, P751, DOI 10.1016/S0190-9622(08)80964-4
+   Yin L, 2001, PHOTODERMATOL PHOTO, V17, P178, DOI 10.1034/j.1600-0781.2001.170407.x
+   Zimbler M S, 2001, Facial Plast Surg Clin North Am, V9, P179
+NR 34
+TC 32
+Z9 37
+U1 0
+U2 4
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0923-1811
+J9 J DERMATOL SCI
+JI J. Dermatol. Sci.
+PD JUL
+PY 2007
+VL 47
+IS 1
+BP 19
+EP 28
+DI 10.1016/j.jdermsci.2007.03.007
+PG 10
+WC Dermatology
+SC Dermatology
+GA 188UD
+UT WOS:000247943900003
+PM 17499481
+DA 2019-03-26
+ER
+
+PT J
+AU Wang, F
+   Weber, P
+   Yamasaki, K
+   Havlin, S
+   Stanley, HE
+AF Wang, F.
+   Weber, P.
+   Yamasaki, K.
+   Havlin, S.
+   Stanley, H. E.
+TI Statistical regularities in the return intervals of volatility
+SO EUROPEAN PHYSICAL JOURNAL B
+LA English
+DT Review
+ID STOCK-MARKET VOLATILITY; URBAN-GROWTH PATTERNS; STOCHASTIC-PROCESS;
+   FINANCIAL-MARKETS; PRICE CHANGES; TIME-SERIES; NUCLEOTIDE-SEQUENCES;
+   SPECULATIVE PRICES; FLUCTUATIONS; BEHAVIOR
+AB We discuss recent results concerning statistical regularities in the return intervals of volatility in financial markets. In particular, we show how the analysis of volatility return intervals, defined as the time between two volatilities larger than a given threshold, can help to get a better understanding of the behavior of financial time series. We find scaling in the distribution of return intervals for thresholds ranging over a factor of 25, from 0.6 to 15 standard deviations, and also for various time windows from one minute up to 390 min (an entire trading day). Moreover, these results are universal for different stocks, commodities, interest rates as well as currencies. We also analyze the memory in the return intervals which relates to the memory in the volatility and find two scaling regimes, l < l* with alpha(1) = 0.64 +/- 0.02 and l > l with alpha(2) = 0.92 +/- 0.04; these exponent values are similar to results of Liu et al. for the volatility. As an application, we use the scaling and memory properties of the return intervals to suggest a possibly useful method for estimating risk.
+C1 Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.
+   Boston Univ, Dept Phys, Boston, MA 02215 USA.
+   Univ Cologne, Inst Theoret Phys, D-50937 Cologne, Germany.
+   Tokyo Inst Informat Sci, Dept Environm Sci, Chiba 2658501, Japan.
+   Bar Ilan Univ, Minerva Ctr, IL-52900 Ramat Gan, Israel.
+   Bar Ilan Univ, Dept Phys, IL-52900 Ramat Gan, Israel.
+RP Wang, F (reprint author), Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.
+EM fzwang@bu.edu
+RI Wang, Fengzhong/C-7762-2009
+CR Admati AR, 1988, REV FINANC STUD, V1, P3, DOI 10.1093/rfs/1.1.3
+   Altmann EG, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.056106
+   Ashkenazy Y, 2001, PHYS REV LETT, V86, P1900, DOI 10.1103/PhysRevLett.86.1900
+   Bachelier Louis, 1900, ANN SCI ECOLE NORM S, V17, P21
+   Bak P, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.178501
+   Baptista MS, 2001, PHYS PLASMAS, V8, P4455, DOI 10.1063/1.1401117
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   BLATTBERG RC, 1974, J BUS, V47, P244, DOI 10.1086/295634
+   Boffetta G, 1999, PHYS REV LETT, V83, P4662, DOI 10.1103/PhysRevLett.83.4662
+   BOLLERSLEV T, 1992, J ECONOMETRICS, V52, P5, DOI 10.1016/0304-4076(92)90064-X
+   Bouchaud J. P., 2003, THEORY FINANCIAL RIS
+   BULDYREV SV, 1993, BIOPHYS J, V65, P2673, DOI 10.1016/S0006-3495(93)81290-6
+   BULDYREV SV, 1993, PHYS REV E, V47, P4514, DOI 10.1103/PhysRevE.47.4514
+   Bunde A, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.048701
+   Bunde A, 2000, PHYS REV LETT, V85, P3736, DOI 10.1103/PhysRevLett.85.3736
+   Bunde A, 2004, PHYSICA A, V342, P308, DOI 10.1016/j.physa.2004.01.069
+   BUNDE A, 1994, FRACTALS SCI
+   Bunde A., 2003, NONEXTENSIVE ENTROPY
+   CHAN K, 1991, REV FINANC STUD, V4, P657, DOI 10.1093/rfs/4.4.657
+   Chen Z, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.041107
+   Chen Z, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.011104
+   Cizeau P, 1997, PHYSICA A, V245, P441, DOI 10.1016/S0378-4371(97)00417-2
+   CLARK PK, 1973, ECONOMETRICA, V41, P135, DOI 10.2307/1913889
+   Constantin M, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.051106
+   Cont R., 1998, THESIS U PARIS 11
+   Corral A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.108501
+   COX JC, 1979, J FINANC ECON, V7, P229, DOI 10.1016/0304-405X(79)90015-1
+   COX JC, 1976, J FINANC ECON, V3, P145, DOI 10.1016/0304-405X(76)90023-4
+   DACOROGNA MM, 1993, J INT MONEY FINANC, V12, P413, DOI 10.1016/0261-5606(93)90004-U
+   Davidsen J, 2004, GEOPHYS RES LETT, V31, DOI 10.1029/2004GL020892
+   Davidsen J, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.026120
+   Ding Z, 1993, J EMPIR FINANC, V1, P83, DOI DOI 10.1016/0927-5398(93)90006-D
+   EICHNER F, 2006, PHYS REV E, V73
+   Eisler Z, 2006, EUR PHYS J B, V51, P145, DOI 10.1140/epjb/e2006-00189-6
+   FAMA EF, 1965, J BUS, V38, P34, DOI 10.1086/294743
+   FAMA EF, 1963, J BUS, V36, P420, DOI 10.1086/294633
+   Farmer JD, 2004, QUANT FINANC, V4, P383, DOI 10.1080/14697680400008627
+   FARMER JD, 2004, QUANT FINANC, V4, pC8
+   Gabaix X, 2003, NATURE, V423, P267, DOI 10.1038/nature01624
+   Gabaix X, 2006, Q J ECON, V121, P461, DOI 10.1162/qjec.2006.121.2.461
+   GALLANT AR, 1992, REV FINANC STUD, V5, P199, DOI 10.1093/rfs/5.2.199
+   Giardina I, 2001, PHYSICA A, V299, P28, DOI 10.1016/S0378-4371(01)00280-1
+   Gopikrishnan P, 1998, EUR PHYS J B, V3, P139, DOI 10.1007/s100510050292
+   Gopikrishnan P, 1999, PHYS REV E, V60, P5305, DOI 10.1103/PhysRevE.60.5305
+   Gopikrishnan P, 2000, PHYS REV E, V62, pR4493, DOI 10.1103/PhysRevE.62.R4493
+   Granger CWJ, 1996, J ECONOMETRICS, V73, P61, DOI 10.1016/0304-4076(95)01733-X
+   Gutenberg B, 1954, SEISMICITY EARTH ASS
+   HARRIS L, 1986, J FINANC ECON, V16, P99, DOI 10.1016/0304-405X(86)90044-9
+   Hu K, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.011114
+   Ivanov PC, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.056107
+   Johnson N, 2003, FINANCIAL MARKET COM
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   Keitt TH, 1998, NATURE, V393, P257, DOI 10.1038/30478
+   Keitt TH, 2002, PHILOS T R SOC B, V357, P627, DOI 10.1098/rstb.2001.1013
+   Klafter J, 1995, LECT NOTES PHYS, V450, P196, DOI 10.1007/3-540-59222-9_35
+   KOPONEN I, 1995, PHYS REV E, V52, P1197, DOI 10.1103/PhysRevE.52.1197
+   LEBARON B, 1992, J BUS, V65, P199, DOI 10.1086/296565
+   Levy P., 1937, THEORIE ADDITION VAR
+   Lillo F, 2000, PHYS REV E, V62, P6126, DOI 10.1103/PhysRevE.62.6126
+   Lillo F, 2003, NATURE, V421, P129, DOI 10.1038/421129a
+   Liu YH, 1997, PHYSICA A, V245, P437, DOI 10.1016/S0378-4371(97)00368-3
+   Liu YH, 1999, PHYS REV E, V60, P1390, DOI 10.1103/PhysRevE.60.1390
+   Livina VN, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.208501
+   Loretan M., 1994, J EMPIR FINANC, V1, P211, DOI DOI 10.1016/0927-5398(94)90004-3
+   Lux T., 2002, SCI DISASTER CLIMATE, P373
+   Lux T., 1996, APPL FINANCIAL EC, V6, P463, DOI DOI 10.1080/
+   LUX T, 2000, INT J THEORETICAL AP, V3, DOI DOI 10.1142/S0219024900000826
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   MANDELBROT B, 1963, J BUS, V36, P394, DOI 10.1086/294632
+   Mantegna R. N., 2000, INTRO ECONOPHYSICS C
+   MANTEGNA RN, 1995, PHYS REV E, V52, P2939, DOI 10.1103/PhysRevE.52.2939
+   MANTEGNA RN, 1994, PHYS REV LETT, V73, P2946, DOI 10.1103/PhysRevLett.73.2946
+   Mantegna RN, 1997, PHYSICA A, V239, P255, DOI 10.1016/S0378-4371(96)00484-0
+   Mantegna RN, 1996, NATURE, V383, P587, DOI 10.1038/383587a0
+   MANTEGNA RN, 1995, NATURE, V376, P46, DOI 10.1038/376046a0
+   MANTEGNA RN, 1997, P INT SCH PHYS ENRIC
+   MULLER UA, 1998, PRACTICAL GUIDE HEAV, P83
+   OFFICER RR, 1972, J AM STAT ASSOC, V67, P807, DOI 10.2307/2284641
+   Pagan A., 1996, J EMPIR FINANC, V3, P15, DOI DOI 10.1016/0927-5398(95)00020-8
+   Pareto V., 1897, COURS EC POLITIQUE
+   Pasquini M, 1999, ECON LETT, V65, P275, DOI 10.1016/S0165-1765(99)00159-7
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   PENG CK, 1995, CHAOS, V5, P82, DOI 10.1063/1.166141
+   PENG CK, 1992, NATURE, V356, P168, DOI 10.1038/356168a0
+   PENG CK, 1993, PHYS REV LETT, V70, P1343, DOI 10.1103/PhysRevLett.70.1343
+   Plerou V, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.046131
+   Plerou V, 2004, QUANT FINANC, V4, pC11, DOI 10.1088/1469-7688/4/1/C02
+   Plerou V, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.027104
+   Plerou V, 1999, NATURE, V400, P433
+   Plerou V, 1999, PHYS REV E, V60, P6519, DOI 10.1103/PhysRevE.60.6519
+   Plerou V, 2000, PHYS REV E, V62, pR3023, DOI 10.1103/PhysRevE.62.R3023
+   Plerou V, 2001, QUANT FINANC, V1, P262, DOI 10.1088/1469-7688/1/2/308
+   Podobnik B, 2000, EUROPHYS LETT, V50, P711, DOI 10.1209/epl/i2000-00540-7
+   Potters M, 2003, PHYSICA A, V324, P133, DOI 10.1016/S0378-4371(02)01896-4
+   PRAETZ PD, 1972, J BUS, V45, P49, DOI 10.1086/295425
+   Rosenow B, 2002, INT J MOD PHYS C, V13, P419, DOI 10.1142/S012918310200322X
+   Scafetta N, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.138501
+   SCHWERT GW, 1989, J FINANC, V44, P1115, DOI 10.2307/2328636
+   Stanley HE, 1999, REV MOD PHYS, V71, pS358, DOI 10.1103/RevModPhys.71.S358
+   Stanley HE, 1971, INTRO PHASE TRANSITI
+   SUKI B, 1994, NATURE, V368, P615, DOI 10.1038/368615a0
+   Turcotte DL, 1992, FRACTALS CHAOS GEOLO
+   VODENSKA I, IN PRESS
+   Wang FZ, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.026117
+   Weber P, 2006, QUANT FINANC, V6, P7, DOI 10.1080/14697680500168008
+   Weber P, 2005, QUANT FINANC, V5, P357, DOI 10.1080/14697680500244411
+   WOOD RA, 1985, J FINANC, V40, P723, DOI 10.1111/j.1540-6261.1985.tb04996.x
+   Xu LM, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.051101
+   Yamasaki K, 2005, P NATL ACAD SCI USA, V102, P9424, DOI 10.1073/pnas.0502613102
+   YAMASAKI K, 2005, P 3 NIKK EC RES WORK, P43
+NR 111
+TC 41
+Z9 41
+U1 0
+U2 8
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1434-6028
+EI 1434-6036
+J9 EUR PHYS J B
+JI Eur. Phys. J. B
+PD JAN
+PY 2007
+VL 55
+IS 2
+BP 123
+EP 133
+DI 10.1140/epjb/e2006-00356-9
+PG 11
+WC Physics, Condensed Matter
+SC Physics
+GA 137QE
+UT WOS:000244306300002
+DA 2019-03-26
+ER

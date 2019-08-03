@@ -1,0 +1,456 @@
+
+PT J
+AU Liu, XT
+   Ban, YF
+AF Liu, Xintao
+   Ban, Yifang
+TI Uncovering Spatio-Temporal Cluster Patterns Using Massive Floating Car
+   Data
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+LA English
+DT Article
+DE spatio-temporal cluster; floating car data; scaling and urban mobility
+   patterns
+AB In this paper, we explore spatio-temporal clusters using massive floating car data from a complex network perspective. We analyzed over 85 million taxicab GPS points (floating car data) collected in Wuhan, Hubei, China. Low-speed and stop points were selected to generate spatio-temporal clusters, which indicated the typical stop-and-go movement pattern in real-world traffic congestion. We found that the sizes of spatio-temporal clusters exhibited a power law distribution. This implies the presence of a scaling property; i.e., they can be naturally divided into a strong hierarchical structure: long time-duration ones (a low percentage) whose values lie above the mean value and short ones (a high percentage) whose values lie below. The spatio-temporal clusters at different levels represented the degree of traffic congestions, for example the higher the level, the worse the traffic congestions. Moreover, the distribution of traffic congestions varied spatio-temporally and demonstrated a multinuclear structure in urban road networks, which suggested there is a correlation to the corresponding internal mobile regularities of an urban system.
+C1 [Liu, Xintao; Ban, Yifang] Royal Inst Technol KTH, Div Geoinformat, SE-10044 Stockholm, Sweden.
+RP Liu, XT (reprint author), Royal Inst Technol KTH, Div Geoinformat, SE-10044 Stockholm, Sweden.
+EM xintao@kth.se; yifang@kth.se
+RI Liu, Xintao/F-6744-2017
+OI Liu, Xintao/0000-0002-7323-9878
+CR Adamic L. A., ZIPF POWER LAWS PARE
+   Adamic L, 2011, NATURE, V474, P164, DOI 10.1038/474164a
+   Bazzani A, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/05/P05001
+   Bogorny V, 2009, INT J GEOGR INF SCI, V23, P1245, DOI 10.1080/13658810802231449
+   Cao HP, 2007, IEEE T KNOWL DATA EN, V19, P453, DOI 10.1109/TKDE.2007.1002
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Dhingra S.L., 2008, P TRAFF FLOW THEOR C
+   Greenberg H, 1958, MATH ANAL TRAFFIC FL
+   Greenshields B.D., 1952, STAT APPL TRAFFIC HI
+   Hagerstrand T., 1970, PAPERS REGIONAL SCI, V24, P1, DOI DOI 10.1007/BF01936872
+   HAIGHT FA, 1958, OPER RES, V6, P813, DOI 10.1287/opre.6.6.813
+   Helbing D, 2004, CONTEMP PHYS, V45, P405, DOI 10.1080/00107510410001715944
+   Helbing D, 2001, ENVIRON PLANN B, V28, P361, DOI 10.1068/b2697
+   Hoque M.A., 2012, P IEEE INT C COMP NE
+   Hwang SY, 2008, ISDA 2008: EIGHTH INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS DESIGN AND APPLICATIONS, VOL 1, PROCEEDINGS, P111, DOI 10.1109/ISDA.2008.121
+   [�?-弗朗瓦·杜�? Jean Francois Doulet], 2004, [城市规划汇刊, Urban Planning Forum], P90
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1217, DOI 10.1080/13658816.2011.585613
+   Kalnis P, 2005, LECT NOTES COMPUT SC, V3633, P364
+   Kerner BS, 1999, PHYS WORLD, V12, P25
+   Kerner BS, 1998, PHYS REV LETT, V81, P3797, DOI 10.1103/PhysRevLett.81.3797
+   Li Q, 2011, INT J GEOGR INF SCI, V25, P1303, DOI 10.1080/13658816.2011.577746
+   Liu X., 2012, INT J GEOMAT GEOSCI, V2, P415
+   Nagatani T, 2002, REP PROG PHYS, V65, P1331, DOI 10.1088/0034-4885/65/9/203
+   Rosswog James, 2008, 2008 IEEE International Conference on Data Mining Workshops, P448, DOI 10.1109/ICDMW.2008.93
+   Rozenfeld H.D., 2009, AM ECON REV, V101, P2205, DOI DOI 10.1257/AER.101.5.2205)
+   Spaccapietra S, 2008, DATA KNOWL ENG, V65, P126, DOI 10.1016/j.datak.2007.10.008
+   Yan Z., 2010, P 7 EXT SEM WEB C ES
+NR 27
+TC 16
+Z9 16
+U1 1
+U2 15
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2220-9964
+J9 ISPRS INT J GEO-INF
+JI ISPRS Int. Geo-Inf.
+PD JUN
+PY 2013
+VL 2
+IS 2
+BP 371
+EP 384
+DI 10.3390/ijgi2020371
+PG 14
+WC Geography, Physical; Remote Sensing
+SC Physical Geography; Remote Sensing
+GA V40FY
+UT WOS:000209465700006
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Reifel, KM
+   Corcoran, AA
+   Cash, C
+   Shipe, R
+   Jones, BH
+AF Reifel, Kristen M.
+   Corcoran, Alina A.
+   Cash, Curtis
+   Shipe, Rebecca
+   Jones, Burton H.
+TI Effects of a surfacing effluent plume on a coastal phytoplankton
+   community
+SO CONTINENTAL SHELF RESEARCH
+LA English
+DT Article
+DE Akashiwo sanguinea; Cochlodinium sp.; Lingulodinium polyedrum; Coastal
+   water quality; Wastewater; Pacific Ocean
+ID HARMFUL ALGAL BLOOMS; SANTA-MONICA BAY; DINOFLAGELLATE
+   AKASHIWO-SANGUINEA; SOUTHERN CALIFORNIA BIGHT; STORMWATER PLUMES; RED
+   TIDE; WATER-QUALITY; EUTROPHICATION; COCHLODINIUM; USA
+AB Urban runoff and effluent discharge from heavily populated coastal areas can negatively impact water quality, beneficial uses, and coastal ecosystems. The planned release of treated wastewater (i.e. effluent) from the City of Los Angeles Hyperion Wastewater Treatment Plant, located in Playa del Rey, California, provided an opportunity to study the effects of an effluent discharge plume from its initial release until it could no longer be detected in the coastal ocean. Non-metric multi-dimensional scaling analysis of phytoplankton community structure revealed distinct community groups based on salinity, temperature, and CDOM concentration. Three dinoflagellates (Lingulodinium polyedrum, Cochlodinium sp., Akashiwo sanguinea) were dominant (together >50% abundance) prior to the diversion. Cochlodinium sp. became dominant (65-90% abundance) within newly surfaced wastewater, and A. sanguinea became dominant or co-dominant as the effluent plume aged and mixed with ambient coastal water. Localized blooms of Cochlodinium sp. and A. sanguinea (chlorophyll a up to 100 mg m(-3) and densities between 100 and 2000 cells mL(-1)) occurred 4-7 days after the diversion within the effluent plume. Although both Cochlodinium sp. and A. sanguinea have been occasionally reported from California waters, blooms of these species have only recently been observed along the California coast. Our work supports the hypothesis that effluent and urban runoff discharge can stimulate certain dinoflagellate blooms. All three dinoflagellates have similar ecophysiological characteristics; however, small differences in morphology, nutrient preferences, and environmental requirements may explain the shift in dinoflagellate composition. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Reifel, Kristen M.; Jones, Burton H.] Univ So Calif, Dept Biol Sci, Los Angeles, CA 90089 USA.
+   [Corcoran, Alina A.] Univ Calif Los Angeles, Dept Ecol & Evolutionary Biol, Los Angeles, CA 90095 USA.
+   [Cash, Curtis] City Los Angeles Environm Monitoring Div, Playa Del Rey, CA 90293 USA.
+   [Shipe, Rebecca] Univ Calif Los Angeles, Inst Environm & Sustainabil, Los Angeles, CA 90095 USA.
+   [Jones, Burton H.] King Abdullah Univ Sci & Technol, Red Sea Res Ctr, Thuwal, Saudi Arabia.
+RP Reifel, KM (reprint author), Oregon State Univ, Dept Plant Pathol, Corvallis, OR 97331 USA.
+EM kmreifel@gmail.com
+RI Reifel, Kristen/J-7052-2014
+OI Reifel, Kristen/0000-0002-2394-9185; Jones, Burton/0000-0002-9599-1593
+FU NASA Oceans & Ice Research Project Award through the NASA Earth Systems
+   Science Fellowship Program [NRA-04-OES-02]; NASA Oceans & Ice Research
+   Project Award through the USC Sea Grant [NNX06AF70H]
+FX The authors thank the City of Los Angeles Environmental Monitoring
+   Division for providing logistical support, ship time, and ship crew. We
+   also thank the captains and crew of the MV Marine Surveyor and the RV
+   Sea World. The City of Los Angeles (M. Dojiri, B. Brantley), USC (D.
+   Caron, A. Schnetzer, Z. Zheng), SCCWRP (D. Diehl), NASA JPL (B. Holt),
+   and UCSD (E. Terrill) were involved in the planning, implementation,
+   field component, and sample/data processing of this project. Lastly, we
+   would like to thank two anonymous reviewers for their comments and
+   suggestions. This work was supported in part by a NASA Oceans & Ice
+   Research Project Award (NRA-04-OES-02), through the NASA Earth Systems
+   Science Fellowship Program (NNX06AF70H), and through USC Sea Grant.
+CR Ahn JH, 2005, ENVIRON SCI TECHNOL, V39, P5940, DOI 10.1021/es0501464
+   Anderson DM, 2008, HARMFUL ALGAE, V8, P39, DOI 10.1016/j.hal.2008.08.017
+   [Anonymous], 2012, COMP NATURAL ANTHR N
+   Boss ES, 2007, HYDROBIOLOGIA, V574, P149, DOI 10.1007/s10750-006-2609-3
+   BRAY J. ROGER, 1957, ECOL MONOGR, V27, P325, DOI 10.2307/1942268
+   Caron DA, 2010, WATER RES, V44, P385, DOI 10.1016/j.watres.2009.06.051
+   Clarke AL, 2006, LIMNOL OCEANOGR, V51, P385, DOI 10.4319/lo.2006.51.1_part_2.0385
+   CLARKE KR, 1993, MAR ECOL PROG SER, V92, P205, DOI 10.3354/meps092205
+   CLESCERI LS, 1998, STANDARD METHODS EXA
+   Cloern JE, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2005GL023321
+   Coble P.G., 2004, OCEANOGRAPHY, V17, P50, DOI DOI 10.5670/0CEAN0G.2004.47
+   Corcoran AA, 2010, J SEA RES, V63, P129, DOI 10.1016/j.seares.2009.11.006
+   Curtiss CC, 2008, HARMFUL ALGAE, V7, P337, DOI 10.1016/j.hal.2007.12.012
+   Dagg MJ, 2003, J MARINE SYST, V43, P133, DOI 10.1016/j.marsys.2003.09.002
+   Dalkey Ann, 1996, Bulletin Southern California Academy of Sciences, V95, P17
+   Davies-Colley RJ, 2001, J AM WATER RESOUR AS, V37, P1085, DOI 10.1111/j.1752-1688.2001.tb03624.x
+   De'Ath G, 2002, ECOLOGY, V83, P1105, DOI 10.2307/3071917
+   DiGiacomo PM, 2004, MAR POLLUT BULL, V49, P1013, DOI 10.1016/j.marpolbul.2004.07.016
+   Du XN, 2011, HARMFUL ALGAE, V10, P784, DOI 10.1016/j.hal.2011.06.011
+   Faust M.A., 2002, IDENTIGYING HARMFUL
+   GEESEY GG, 1993, ECOLOGY SO CALIFORNI, P190
+   Glibert Patricia M., 2005, Oceanography, V18, P136
+   Glibert PM, 2006, BIOGEOCHEMISTRY, V77, P441, DOI 10.1007/s10533-005-3070-5
+   Gregorio Dominic E., 2000, Bulletin Southern California Academy of Sciences, V99, P147
+   Hasle G. R., 1978, PHYTOPLANKTON MANUAL
+   Heisler J, 2008, HARMFUL ALGAE, V8, P3, DOI 10.1016/j.hal.2008.08.006
+   Horner RA, 1997, LIMNOL OCEANOGR, V42, P1076, DOI 10.4319/lo.1997.42.5_part_2.1076
+   Hu CM, 2004, GEOPHYS RES LETT, V31, DOI 10.1029/2004GL020382
+   Iwataki M, 2008, HARMFUL ALGAE, V7, P271, DOI 10.1016/j.hal.2007.12.003
+   Jessup DA, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004550
+   Jickells TD, 1998, SCIENCE, V281, P217, DOI 10.1126/science.281.5374.217
+   Jones BH, 2002, CONT SHELF RES, V22, P945, DOI 10.1016/S0278-4343(01)00114-5
+   Kahru M., 2004, EOS, V85, P465, DOI DOI 10.1029/2004E0450002
+   Kim HJ, 2009, PROG OCEANOGR, V82, P137, DOI 10.1016/j.pocean.2009.05.002
+   Kudela RM, 2008, HARMFUL ALGAE, V7, P278, DOI 10.1016/j.hal.2007.12.016
+   Kudela RM, 2012, HARMFUL ALGAE, V14, P71, DOI 10.1016/j.hal.2011.10.015
+   Kudela RM, 2008, HARMFUL ALGAE, V8, P103, DOI 10.1016/j.hal.2008.08.019
+   Kudela RM, 2000, AQUAT MICROB ECOL, V21, P31, DOI 10.3354/ame021031
+   Lotze HK, 2006, SCIENCE, V312, P1806, DOI 10.1126/science.1128035
+   LUND J. W. G., 1958, HYDROBIOLOGIA, V11, P143, DOI 10.1007/BF00007865
+   Lyon G.S., 2011, SO CALIFORNIA COASTA, P223
+   Matsubara T, 2007, J EXP MAR BIOL ECOL, V342, P226, DOI 10.1016/j.jembe.2006.09.013
+   McGowan J., 2008, REG WORKSH HARMF ALG, pB
+   National Research Council, 1990, MON SO CAL COAST WAT
+   Nezlin NP, 2008, ESTUAR COAST SHELF S, V80, P141, DOI 10.1016/j.ecss.2008.07.012
+   Nezlin NP, 2007, ESTUAR COAST SHELF S, V71, P250, DOI 10.1016/j.ecss.2006.07.016
+   Nezlin NP, 2004, CONT SHELF RES, V24, P1053, DOI 10.1016/j.csr.2004.03.012
+   Petrenko A.A., 1997, J GEOPHYS RES C, V102, P25
+   Pfaff J.D., 1993, 3000 US EPA OFF WAT
+   Ramos PA, 2007, CONT SHELF RES, V27, P583, DOI 10.1016/j.csr.2006.11.017
+   Reifel KM, 2009, CONT SHELF RES, V29, P1821, DOI 10.1016/j.csr.2009.06.011
+   Riegman R, 1995, WATER SCI TECHNOL, V32, P63, DOI 10.1016/0273-1223(95)00682-6
+   Rines JEB, 2010, CONT SHELF RES, V30, P66, DOI 10.1016/j.csr.2009.11.001
+   Roesler C.S., 2008, P153
+   Ryan JP, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2008GL034081
+   Schiff KC, 2000, MAR POLLUT BULL, V41, P76, DOI 10.1016/S0025-326X(00)00103-X
+   Schnetzer A, 2007, HARMFUL ALGAE, V6, P372, DOI 10.1016/j.hal.2006.11.004
+   Shipe RF, 2008, CONT SHELF RES, V28, P2584, DOI 10.1016/j.csr.2008.08.003
+   Sidio L.A., 2007, EFFLUENT QUALITY SAN, P1
+   Siegel DA, 2002, J GEOPHYS RES-OCEANS, V107, DOI 10.1029/2001JC000965
+   Slade WH, 2010, J ATMOS OCEAN TECH, V27, P1733, DOI 10.1175/2010JTECHO755.1
+   Smayda TJ, 2010, PROG OCEANOGR, V85, P71, DOI 10.1016/j.pocean.2010.02.005
+   Smayda TJ, 2010, PROG OCEANOGR, V85, P92, DOI 10.1016/j.pocean.2010.02.006
+   Smayda TJ, 2002, J OCEANOGR, V58, P281, DOI 10.1023/A:1015861725470
+   Staehr PA, 2009, HYDROBIOLOGIA, V620, P191, DOI 10.1007/s10750-008-9628-1
+   Stein ED, 2009, MAR POLLUT BULL, V59, P91, DOI 10.1016/j.marpolbul.2009.02.025
+   Strickland J. D., 1968, PRACTICAL HDB SEAWAT
+   Sullivan JM, 2006, APPL OPTICS, V45, P5294, DOI 10.1364/AO.45.005294
+   THOMPSON GB, 1981, MAR POLLUT BULL, V12, P168, DOI 10.1016/0025-326X(81)90229-0
+   Turner JT, 2009, MAR ECOL PROG SER, V376, P103, DOI 10.3354/meps07783
+   Warrick JA, 2007, CONT SHELF RES, V27, P2427, DOI 10.1016/j.csr.2007.06.015
+   Washburn L, 2003, MAR ENVIRON RES, V56, P103, DOI 10.1016/S141-1136(02)00327-6
+NR 72
+TC 20
+Z9 21
+U1 0
+U2 38
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0278-4343
+J9 CONT SHELF RES
+JI Cont. Shelf Res.
+PD JUN 1
+PY 2013
+VL 60
+BP 38
+EP 50
+DI 10.1016/j.csr.2013.04.012
+PG 13
+WC Oceanography
+SC Oceanography
+GA 174QW
+UT WOS:000321171500004
+DA 2019-03-26
+ER
+
+PT J
+AU Nasar, JL
+   Holloman, CH
+AF Nasar, Jack L.
+   Holloman, Christopher H.
+TI Playground Characteristics to Encourage Children to Visit and Play
+SO JOURNAL OF PHYSICAL ACTIVITY & HEALTH
+LA English
+DT Article
+DE perception; physical activity; gender; equipment; seats; naturalness;
+   upkeep; infrastructure
+ID PHYSICAL-ACTIVITY; PUBLIC PARKS; WALKING; HEALTH; PERCEPTIONS; SCHOOL;
+   URBAN
+AB Background: The research sought to find the salient perceived characteristics of playgrounds for African-American children and their parents, and to test effects of changes in those characteristics on playground choice. Methods: Thirty-one African-American children and their parents sorted 15 photographs of playgrounds for similarity. Nonmetric multidimensional scaling on the similarity scores and correlations between the resulting dimensions and judged characteristics of each playground revealed salient perceived characteristics. Study 2 had 40 African-American children and their parents view pairs of photographs, manipulated on the salient characteristics, and pick the one to play on (child question) or for the child to play on (parent question). A third study inventoried and observed children's activities in 14 playgrounds. Results: Study 1 found seats, fence, playground type, and softness of surface as salient perceived characteristics of the playground. Study 2 found that participants were more likely to pick playgrounds with equipment and playgrounds with a softer surface. Study 3 found higher levels of physical activity for playground settings with equipment. Conclusions: The findings confirm correlational findings on the desirability of equipment and safety. Communities need to test the effects of changes in playgrounds.
+C1 [Nasar, Jack L.] Ohio State Univ, Dept City & Reg Planning, Columbus, OH 43210 USA.
+   [Holloman, Christopher H.] Ohio State Univ, Dept Stat Consulting Serv, Columbus, OH 43210 USA.
+RP Nasar, JL (reprint author), Ohio State Univ, Dept City & Reg Planning, Columbus, OH 43210 USA.
+RI Nasar, Jack/C-5580-2012
+CR Bedimo-Rung AL, 2005, AM J PREV MED, V28, P159, DOI 10.1016/j.ampre.2004.10.024
+   Brown BB, 2007, ENVIRON BEHAV, V39, P34, DOI 10.1177/0013916506295569
+   Calfras KJ, 1994, EXERC SCI, V6, P406
+   Coen SE, 2006, HEALTH PLACE, V12, P361, DOI 10.1016/j.healthplace.2005.02.001
+   Cohen DA, 2007, AM J PUBLIC HEALTH, V97, P509, DOI 10.2105/AJPH.2005.072447
+   Cohen DA, 2006, PEDIATRICS, V118, pE1381, DOI 10.1542/peds.2006-1226
+   COX F, 1994, MULTIDIMENSIONAL SCA
+   Davison KK, 2006, INT J BEHAV NUTR PHY, V3, DOI 10.1186/1479-5868-3-19
+   Day K, 2006, J AM PLANN ASSOC, V72, P88, DOI 10.1080/01944360608976726
+   Farley TA, 2008, J PHYS ACT HEALTH, V5, P319, DOI 10.1123/jpah.5.2.319
+   Kaczynski AT, 2007, LEISURE SCI, V29, P315, DOI 10.1080/01490400701394865
+   Kahneman D, 2011, THINKING FAST THINKI
+   Kann L, 1998, MMWR CDC Surveill Summ, V47, P1
+   Lee C, 2004, J PLAN LIT, V19, P147, DOI 10.1177/0885412204267680
+   McKenzie T.L, 2006, SOPARC SYSTEM OBSERV
+   McMillan TE, 2005, J PLAN LIT, V19, P440, DOI 10.1177/0885412204274173
+   Michael Y, 2006, J AGING PHYS ACTIV, V14, P302, DOI 10.1123/japa.14.3.302
+   Owen N, 2004, AM J PREV MED, V27, P67, DOI 10.1016/j.amepre.2004.03.006
+   Potwarka LR, 2008, J COMMUN HEALTH, V33, P344, DOI 10.1007/s10900-008-9104-x
+   Saelens BE, 2008, MED SCI SPORT EXER, V40, pS550, DOI [10.1249/MSS.0b013e31817e67a4, 10.1249/MSS.0b013e31817c67a4]
+   Saint-Maurice PF, 2011, J PHYS ACT HEALTH, V8, P1108, DOI 10.1123/jpah.8.8.1108
+   Sallis JF, 2000, MED SCI SPORT EXER, V32, P963
+   Shepard RN, 2001, BEHAV BRAIN SCI, V24, P581
+   STAMPS AE, 1993, J ENVIRON MANAGE, V38, P115, DOI 10.1006/jema.1993.1033
+   Stanley RM, 2013, J PHYS ACT HEALTH, V10, P33, DOI 10.1123/jpah.10.1.33
+   *US DEP HHS, 2000, HLTH PEOPL 2010
+   US Department of Health and Human Services, 1996, REP SURG GEN PHYS AC
+   Veitch J, 2006, HEALTH PLACE, V12, P383, DOI 10.1016/j.healthplace.2005.02.009
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 19
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 1543-3080
+EI 1543-5474
+J9 J PHYS ACT HEALTH
+JI J. Phys. Act. Health
+PD NOV
+PY 2013
+VL 10
+IS 8
+BP 1201
+EP 1208
+DI 10.1123/jpah.10.8.1201
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 270GJ
+UT WOS:000328306600017
+PM 23220790
+DA 2019-03-26
+ER
+
+PT J
+AU Rego, CRC
+   Frota, HO
+   Gusmao, MS
+AF Rego, C. R. C.
+   Frota, H. O.
+   Gusmao, M. S.
+TI Multifractality of Brazilian rivers
+SO JOURNAL OF HYDROLOGY
+LA English
+DT Article
+DE Brazilian rivers; Multifractality; Water level; MF-DFA
+ID DETRENDED FLUCTUATION ANALYSIS; AMAZON BASIN; RAINY-SEASON; TIME-SERIES;
+   PRECIPITATION; VARIABILITY; STREAMFLOW; RAINFALL; PACIFIC; RUNOFF
+AB We use the Multifractal Detrended Fluctuation Analysis (MF-DFA) to study the complex water fluctuations of some of the principal Brazilian rivers. We obtain the generalized Hurst exponents for the series of water level of 16 hydrological stations, situated in cities of different climatic zones in Brazil. From this analysis, we can state that all the series analyzed demonstrate multifractality and nonstationary behavior. This paper shows that it is possible to treat the Brazilian river water levels from the multifractal perspective and thereby to have a better understanding of the complex behavior of the scaling laws present within these series. (c) 2013 Elsevier B.V. All rights reserved.
+C1 [Rego, C. R. C.; Frota, H. O.; Gusmao, M. S.] Univ Fed Amazonas, BR-69077000 Manaus, Amazonas, Brazil.
+RP Gusmao, MS (reprint author), Univ Fed Amazonas, Av Gen Rodrigo Octavio Jordao,Ramos 300,Caroado 1, BR-69077000 Manaus, Amazonas, Brazil.
+EM mgusmao@ufam.edu.br
+FU CAPES
+FX This research is partially supported by CAPES, Brazilian Funding Agency.
+   The authors thank CPRM (the Brazilian Geological Service) in Amazon for
+   making available the data used in this article. We also thank the
+   geographer Joao Rodrigo Leitao dos Reis for the excellent map
+   illustration and Professor Dr. Puspitapallab Chaudhuri for reading and
+   reviewing our manuscript.
+CR Amarasekera KN, 1997, J HYDROL, V200, P24, DOI 10.1016/S0022-1694(96)03340-9
+   Chianca CV, 2005, PHYSICA A, V357, P447, DOI 10.1016/j.physa.2005.03.047
+   Diaz AF, 1998, J CLIMATE, V11, P251, DOI 10.1175/1520-0442(1998)011<0251:RBPAIU>2.0.CO;2
+   Driscoll NW, 1998, SCIENCE, V282, P436, DOI 10.1126/science.282.5388.436
+   Falconer K, 2003, FRACTAL GEOMETRY MAT
+   Feder J, 1988, FRACTALS
+   HURST HE, 1951, T AM SOC CIV ENG, V116, P770
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   Kantelhardt JW, 2003, PHYSICA A, V330, P240, DOI 10.1016/j.physa.2003.08.019
+   Koscielny-Bunde E, 2006, J HYDROL, V322, P120, DOI 10.1016/j.jhydrol.2005.03.004
+   Liebmann B, 2001, J CLIMATE, V14, P4308, DOI 10.1175/1520-0442(2001)014<4308:IVOTRS>2.0.CO;2
+   Livina VN, 2011, IN EXTREMIS: DISRUPTIVE EVENTS AND TRENDS IN CLIMATE AND HYDROLOGY, P267, DOI 10.1007/978-3-642-14863-7_13
+   LOVEJOY S, 1985, TELLUS A, V37, P209, DOI 10.1111/j.1600-0870.1985.tb00423.x
+   Marengo JA, 2005, CLIM DYNAM, V24, P11, DOI 10.1007/s00382-004-0461-6
+   Marengo JA, 2001, J CLIMATE, V14, P833, DOI 10.1175/1520-0442(2001)014<0833:OAEOTR>2.0.CO;2
+   MECHOSO CR, 1992, J CLIMATE, V5, P1535, DOI 10.1175/1520-0442(1992)005<1535:SISSAA>2.0.CO;2
+   Paegle J. N., 2002, J CLIMATE, V15, P1390
+   Pandey G, 1998, J HYDROL, V208, P62, DOI 10.1016/S0022-1694(98)00148-6
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   PENG CK, 1995, CHAOS, V5, P82, DOI 10.1063/1.166141
+   POTTER C, 2004, EARTH INTERACT, V8, P1
+   Robertson AW, 2001, GEOPHYS RES LETT, V28, P4235, DOI 10.1029/2000GL012197
+   Tessier Y, 1996, J GEOPHYS RES-ATMOS, V101, P26427, DOI 10.1029/96JD01799
+   Thomas D. M., 1970, GEN STREAMFLOW CHARA
+   Uvo CB, 1998, J CLIMATE, V11, P551, DOI 10.1175/1520-0442(1998)011<0551:TRBTPA>2.0.CO;2
+   Vorosmarty CJ, 2000, BIOSCIENCE, V50, P753, DOI 10.1641/0006-3568(2000)050[0753:ADOTTW]2.0.CO;2
+   Yu ZG, 2001, PHYS REV E, V63
+   Zhang Q, 2008, HYDROL PROCESS, V22, P4997, DOI 10.1002/hyp.7119
+NR 28
+TC 8
+Z9 9
+U1 0
+U2 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-1694
+J9 J HYDROL
+JI J. Hydrol.
+PD JUL 12
+PY 2013
+VL 495
+BP 208
+EP 215
+DI 10.1016/j.jhydrol.2013.04.046
+PG 8
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA 177VV
+UT WOS:000321404400018
+DA 2019-03-26
+ER
+
+PT J
+AU Brintnell, ES
+   Sommer, RW
+   Kuncoro, B
+   Setiawan, GP
+   Bailey, P
+AF Brintnell, E. Sharon
+   Sommer, Ryan W.
+   Kuncoro, Bambang
+   Setiawan, G. Pandu
+   Bailey, Patricia
+TI The expression of depression among Javanese patients with major
+   depressive disorder: A concept mapping study
+SO TRANSCULTURAL PSYCHIATRY
+LA English
+DT Article
+DE cluster analysis; concept mapping; culture; depression; Indonesia;
+   symptomatology
+ID STUDENTS
+AB In this study, we explored the presentation of clinical depression in Java, Indonesia. Interviews were conducted with 20 Javanese patients (male and female) with major depressive disorder from both lower and higher socioeconomic levels. The recruited participants came from provincial and private mental health hospitals in the cities of Solo, Yogykarta (Jogja), Jakarta, and Malang on the island of Java, Indonesia. Concept mapping methodology using multidimensional scaling and hierarchical cluster analysis was used to identify underlying themes in the expression of depressive phenomena in this Indonesian population. The results identified themes that grouped into six clusters: interpersonal relationships, hopelessness, physical/somatic, poverty of thought, discourage, and defeat. Findings give support to the view that culture influences the expression of Indonesian depressive phenomenology, which nevertheless has some common roots with Western clinical pictures of the disorder. Cultural influences may mask symptoms of the disorder to clinicians. Diagnostic and assessment tools must be carefully selected to ensure they address culturally specific expressions of depression.
+C1 [Brintnell, E. Sharon] Univ Alberta, Edmonton, AB T6G 2G4, Canada.
+   [Sommer, Ryan W.] Glenrose Rehabil Hosp, Edmonton, AB T5G 0B7, Canada.
+   [Bailey, Patricia] Norquest Coll, Edmonton, AB, Canada.
+RP Brintnell, ES (reprint author), Univ Alberta, Fac Rehabil Med, 3-06 Corbett Hall, Edmonton, AB T6G 2G4, Canada.
+EM sharon.brintnell@ualberta.ca; ryan.sommer@albertahealthservices.ca
+CR Almeida JAS, 2007, CHEMOMETR INTELL LAB, V87, P208, DOI 10.1016/j.chemolab.2007.01.005
+   APA, 2000, DIAGN STAT MAN MENT
+   Baetz M, 2004, J NERV MENT DIS, V192, P818, DOI 10.1097/01.nmd.0000146735.73827.85
+   Beatty Andrew, 1999, VARIETIES JAVANESE R
+   BRANDT ME, 1986, INT J INTERCULT REL, V10, P321, DOI 10.1016/0147-1767(86)90016-7
+   Brislin R. W., 1986, FIELD METHODS CROSS, P137, DOI DOI 10.1016/J.IJINTREL.2011.08.001
+   BRISLIN RW, 1970, J CROSS CULT PSYCHOL, V1, P185, DOI 10.1177/135910457000100301
+   CHENG TA, 1989, PSYCHOL MED, V19, P697, DOI 10.1017/S0033291700024296
+   Chiu Edmond, 2004, Australas Psychiatry, V12 Suppl, pS4
+   Concept System The, CONC SYST VERS 3
+   DAUGHTRY D, 1993, J COUNS PSYCHOL, V40, P316, DOI 10.1037/0022-0167.40.3.316
+   Daughtry D., 1991, CONCEPT MAPPING COUN
+   DAVISON ML, 1986, J COUNS DEV, V65, P178, DOI 10.1002/j.1556-6676.1986.tb01309.x
+   de Jong K, 2005, PLOS MED, V2, P486, DOI 10.1371/journal.pmed.0020179
+   FITZGERALD LF, 1987, J COUNS PSYCHOL, V34, P469, DOI 10.1037//0022-0167.34.4.469
+   Fry AJ, 1996, J ADV NURS, V23, P1147, DOI 10.1046/j.1365-2648.1996.13511.x
+   Geertz C., 1960, RELIG JAVA
+   Heider K., 1991, LANDSCAPES EMOTION M
+   Hickie I., 2004, AUSTRALAS PSYCHIATRY, V12, P38
+   Houben VJH, 2003, ANN AM ACAD POLIT SS, V588, P149, DOI 10.1177/0002716203255394
+   HU TW, 2004, AUSTR PSYCHIAT, V12, P11
+   Kaplan HI, 1998, SYNOPSIS PSYCHIAT
+   Kleinman A. M., 1981, NORMAL ABNORMAL BEHA, pxiii
+   Knish S., 1994, THESIS U ALBERTA CAN
+   Kurihara T, 2000, PSYCHIAT CLIN NEUROS, V54, P547, DOI 10.1046/j.1440-1819.2000.00751.x
+   Lee M. S., 2004, AUSTRALAS PSYCHIATRY, V12, P28
+   MARSELLA AJ, 1985, CULTURE DEPRESSION, P299
+   Mulder N, 1998, MYSTICISM JAVA IDEOL
+   ROSENBERG S, 1975, MULTIVAR BEHAV RES, V10, P489, DOI 10.1207/s15327906mbr1004_7
+   Sartorius Norman, 2004, Australas Psychiatry, V12 Suppl, pS1
+   Simon GM, 2009, AM ETHNOL, V36, P258, DOI 10.1111/j.1548-1425.2009.01134.x
+   Tanaka-Matsumi J., 2001, HDB CULTURE PSYCHOL, P265
+   Trochim W. M. K., 1989, EVAL PROGRAM PLANN, V12, P187
+   Williamson F. H. A., 1996, THESIS U ALBERTA CAN
+   Wong Eunice C, 2003, Cultur Divers Ethnic Minor Psychol, V9, P88, DOI 10.1037/1099-9809.9.1.88
+   World Federation for Mental Health, 2012, DEPR GLOB CRIS
+   World Health Organization, 2001, CONQ DEPR YOU CAN GE
+NR 37
+TC 5
+Z9 5
+U1 0
+U2 10
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1363-4615
+EI 1461-7471
+J9 TRANSCULT PSYCHIATRY
+JI Transcult. Psychiatry
+PD AUG
+PY 2013
+VL 50
+IS 4
+BP 579
+EP 598
+DI 10.1177/1363461513501709
+PG 20
+WC Anthropology; Psychiatry
+SC Anthropology; Psychiatry
+GA 224LB
+UT WOS:000324885800006
+PM 24047957
+DA 2019-03-26
+ER

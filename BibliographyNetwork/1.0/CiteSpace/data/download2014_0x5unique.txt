@@ -1,0 +1,592 @@
+
+PT J
+AU Bettencourt, LMA
+AF Bettencourt, Luis M. A.
+TI Impact of Changing Technology on the Evolution of Complex Informational
+   Networks
+SO PROCEEDINGS OF THE IEEE
+DE Collaborative work; communication networks; complex networks;
+   distributed computing; intelligent systems; learning systems; urban
+   areas; Wikipedia; World Wide Web (WWW)
+ID CITIES; PRODUCTIVITY; KNOWLEDGE; DIVERSITY; ORIGINS; SCIENCE; GROWTH;
+   SPACE; LIFE
+AB We live in an era of increasing connectivity in human societies and in technology. These structural changes in the ways we interact with each other and with increasingly ubiquitous computational and communication devices have been formalized in research across several disciplines through the dynamics of complex informational networks. Complex networks are (mathematical) graphs, connecting nodes (people, computers) via edges (relationships, wires). While much progress in methods for network analysis has been achieved, the fundamental principles that drive network growth in human societies and in worldwide computer networks remain rather obscure. Mechanistic models for the origin of certain structural graph elements have now become common, but the formal connection between large empirical studies of network evolution and fundamental concepts of information, learning, and social theory remains only latent. To address these issues, I argue here that the most interesting aspect of the dynamics of informational networks in complex systems is that they are the physical manifestations of processes of evolution, inference, and learning, from natural ecosystems, to cities and to online environments. I formalize the general problem of learning and computation in network environments in terms of average structural network changes and propose a conceptual framework to explain the transition from initially static, undifferentiated, and information-poor environments to dynamical, richly diverse, and interconnected systems. I illustrate these ideas empirically by providing examples from cities, and from global computer networks and webs of documents. I finish with an overview of expected changes to urban form and function and to computational hardware under likely technological scenarios.
+CR Achlioptas D, 2009, SCIENCE, V323, P1453, DOI 10.1126/science.1167782
+   ANDERSON PW, 1972, SCIENCE, V177, P393, DOI 10.1126/science.177.4047.393
+   Arrow K. J., 1974, LIMITS ORG
+   ARROW KJ, 1962, REV ECON STUD, V29, P155, DOI 10.2307/2295952
+   Arthur W. B., 2011, NATURE TECHNOLOGY WH
+   Arthur W.B., 1994, INCREASING RETURNS P
+   Barro R., 2003, EC GROWTH
+   BECKER GS, 1992, Q J ECON, V107, P1137, DOI 10.2307/2118383
+   Bettencourt L.M.A, 2013, 201303008 SFI
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bollen J, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004803
+   Boserup Ester, 1981, POPULATION TECHNOLOG
+   Botsman R., 2010, WHATS MINE IS YOURS
+   Carneiro RL, 2000, P NATL ACAD SCI USA, V97, P12926, DOI 10.1073/pnas.240462397
+   Castells Manuel, 1996, RISE NETWORK SOC
+   Duranton G, 2000, URBAN STUD, V37, P533, DOI 10.1080/0042098002104
+   DURKHEIM E, DIVISION LABOR SOC
+   Easterley W., 2002, ELUSIVE QUEST GROWTH
+   Ericsson KA, 2006, CAMBRIDGE HANDBOOK OF EXPERTISE AND EXPERT PERFORMANCE, P1, DOI 10.2277/ 0521600812
+   Florida R, 2004, CITIES CREATIVE CLAS
+   Frank SA, 1997, EVOLUTION, V51, P1712, DOI 10.1111/j.1558-5646.1997.tb05096.x
+   Glaeser EL, 2010, J REGIONAL SCI, V50, P221, DOI 10.1111/j.1467-9787.2009.00635.x
+   Goldstein B., 2013, TRANSPARENCY OPEN DA
+   Hall P., 1998, CITIES CIVILIZATION
+   Hayek FA, 1945, AM ECON REV, V35, P519
+   Hidalgo CA, 2007, SCIENCE, V317, P482, DOI 10.1126/science.1144581
+   Hilbert M, 2011, SCIENCE, V332, P60, DOI 10.1126/science.1200970
+   Holler J, 2014, FROM MACHINE-TO-MACHINE TO THE INTERNET OF THINGS: INTRODUCTION TO A NEW AGE OF INTELLIGENCE, P1
+   Holston James., 2008, INSURGENT CITIZENSHI
+   Jacobs J., 1970, EC CITIES
+   Jacobs J, 2000, NATURE EC
+   Jaines E. T., 2003, PROBABILITY THEORY L
+   Johnson A., 2000, EVOLUTION HUMAN SOC
+   KIRSCH S, 1995, ENVIRON PLANN D, V13, P529, DOI 10.1068/d130529
+   Kline MA, 2010, P ROY SOC B-BIOL SCI, V277, P2559, DOI 10.1098/rspb.2010.0452
+   Kolko J., 1999, CITIES GLOBAL INFORM, P73
+   MacKay D. J. C., 2003, INFORM THEORY INFERE
+   Mumford L., 1961, CITY HIST ITS ORIGIN
+   Naeem S, 1998, CONSERV BIOL, V12, P39, DOI 10.1046/j.1523-1739.1998.96379.x
+   Nagy B, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0052669
+   *NAT RES COUNC, 1999, OUR COMM JOURN TRANS
+   Newman M. E., 2010, NETWORKS INTRO
+   Page SE, 2007, DIFFERENCE: HOW THE POWER OF DIVERSITY CREATES BETTER GROUPS, FIRMS, SCHOOLS, AND SOCIETIES, P1
+   Pearl J., CAUSALITY MODELS REA
+   Pons-Novell J., 2010, J URBAN TECHNOL, V13, P109
+   ROMER PM, 1994, J ECON PERSPECT, V8, P3, DOI 10.1257/jep.8.1.3
+   Rosenthal SS, 2001, J URBAN ECON, V50, P191, DOI 10.1006/juec.2001.2230
+   Russel S., 2009, ARTIFICIAL INTELLIGE
+   Schlapfer M., 2014, J ROY SOC 1, V6
+   Simon H. A., 1969, SCI ARTIFICIAL
+   Sinai T, 2004, J URBAN ECON, V56, P1, DOI 10.1016/j.jue.2004.04.001
+   Smith A., 1776, INQUIRY NATURE CAUSE
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Tapscott D., 2010, WIKINOMICS MASS COLL
+   Tompson E. G. T., RESILIENCE WAKE SUPE
+   Tranos E, 2013, J REGIONAL SCI, V53, P855, DOI 10.1111/jors.12021
+   Weber M, 1947, THEORY SOCIAL EC ORG
+   Wikipedia, METC LAW
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Wu F, 2007, P NATL ACAD SCI USA, V104, P17599, DOI 10.1073/pnas.0704916104
+   Zhu PY, 2012, ANN REGIONAL SCI, V48, P619, DOI 10.1007/s00168-011-0460-6
+NR 63
+TC 10
+Z9 10
+SN 0018-9219
+EI 1558-2256
+PD DEC
+PY 2014
+VL 102
+IS 12
+SI SI
+BP 1878
+EP 1891
+DI 10.1109/JPROC.2014.2367132
+UT WOS:000345524100003
+ER
+
+PT J
+AU Marcotullio, PJ
+   Sarzynski, A
+   Albrecht, J
+   Schulz, N
+AF Marcotullio, Peter J.
+   Sarzynski, Andrea
+   Albrecht, Jochen
+   Schulz, Niels
+TI A Top-Down Regional Assessment of Urban Greenhouse Gas Emissions in
+   Europe
+SO AMBIO
+DE Europe; Urban; Greenhouse gas emissions; Regional assessment; EDGAR
+ID CITIES; INVENTORIES; MEGACITIES; CITY; IMPACT; LIFE
+AB This paper provides an account of urban greenhouse gas (GHG) emissions from 40 countries in Europe and examines covariates of emissions levels. We use a "top-down" analysis of emissions as spatially reported in the Emission Dataset for Global Atmospheric Research supplemented by Carbon Monitoring for Action from 1153 European cities larger than 50 000 population in 2000 (comprising > 81 % of the total European urban population). Urban areas are defined spatially and demographically by the Global Rural Urban Mapping Project. We compare these results with "bottom-up" carbon accounting method results for cities in the region. Our results suggest that direct (Scopes 1 and 2) GHG emissions from urban areas range between 44 and 54 % of total anthropogenic emissions for the region. While individual urban GHG footprints vary from bottom-up studies, both the mean differences and the regional energy-related GHG emission share support previous findings. Correlation analysis indicates that the urban GHG emissions in Europe are mainly influenced by population size, density, and income and not by biophysical conditions. We argue that these data and methods of analysis are best used at the regional or higher scales.
+OI Marcotullio, Peter/0000-0001-8133-1204; Sarzynski,
+   Andrea/0000-0001-9941-5764
+CR Amstel A. Van, 1999, ENVIRON SCI POLICY, V2, P275, DOI [10.1016/S1462-9011(99)00019-2, DOI 10.1016/S1462-9011(99)00019-2]
+   Bader N., 2009, SURVEYS PERSPECTIVES, V2, P7
+   Baldasano JM, 1999, ATMOS ENVIRON, V33, P3765, DOI 10.1016/S1352-2310(99)00086-2
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brown M. A., 2008, SHRINKING CARBON FOO
+   Bulkeley H, 2013, ROUTL CRIT INTRO URB, P1
+   Butler TM, 2008, ATMOS ENVIRON, V42, P703, DOI 10.1016/j.atmosenv.2007.09.060
+   Butler TM, 2009, ENVIRON CHEM, V6, P219, DOI 10.1071/EN08110
+   Carney S., 2009, GREENHOUSE GAS INVEN
+   de Sherbinin A., 2005, WORKSH HELD 21 23 SE
+   Dhakal S., 2004, URBAN ENERGY USE GRE
+   Dhakal S, 2010, CURR OPIN SUST, V2, P277, DOI 10.1016/j.cosust.2010.05.007
+   Dodman D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016
+   Duren RM, 2012, NAT CLIM CHANGE, V2, P560, DOI 10.1038/nclimate1629
+   Elvidge CD, 1997, PHOTOGRAMM ENG REM S, V63, P727
+   European Commission, 2003, EUR COMM IND LOC SUS
+   European Commission, 2010, EUR EC FOR SPRING 20
+   European Commission JRC (JRC)/Netherlands EAA (PBL), 2009, EM DAT GLOB ATM RES
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Greater London Authority, 2010, DEL LOND EN FUT
+   Grubler A., 2012, ENERGIZING SUSTAINAB, P1
+   Grubler A., 2012, GLOBAL ENERGY ASSESS, P1307, DOI DOI 10.1017/CBO9780511793677.024
+   Guerois M, 2008, ENVIRON PLANN A, V40, P2186, DOI 10.1068/a39382
+   Haase D, 2008, NAT CULT, V3, P1, DOI 10.3167/nc.2008.030101
+   Hillman T, 2010, ENVIRON SCI TECHNOL, V44, P1902, DOI 10.1021/es9024194
+   Hoornweg D, 2011, ENVIRON URBAN, V23, P207, DOI 10.1177/0956247810392270
+   ICLEI and C40 Cities Climate Leadership Group and World Resources Institute, 2012, GLOB PROT COMM SCAL
+   International Energy Agency (IEA), 2008, WORLD EN OUTL 2008
+   Jenks M., 1996, COMPACT CITY SUSTAIN
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kennedy CA, 2011, URB DEV SER, P15
+   Marcotullio PJ, 2012, GLOBAL ENVIRON CHANG, V22, P944, DOI 10.1016/j.gloenvcha.2012.07.002
+   Newman P., 1999, SUST CIT
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   Nuissl H, 2009, LAND USE POLICY, V26, P414, DOI 10.1016/j.landusepol.2008.05.006
+   OLIVIER JGJ, 1994, ENVIRON MONIT ASSESS, V31, P93, DOI 10.1007/BF00547184
+   Olivier JGJ, 1998, ENVIRON POLLUT, V102, P135, DOI 10.1016/S0269-7491(98)80026-2
+   Parshall L, 2010, ENERG POLICY, V38, P4765, DOI 10.1016/j.enpol.2009.07.006
+   Ramaswami A, 2008, ENVIRON SCI TECHNOL, V42, P6455, DOI 10.1021/es702992q
+   Romero-Lankao P., 2009, AMBIO, V38, P236, DOI DOI 10.1579/0044-7447-38.4.236
+   Satterthwaite D, 2008, ENVIRON URBAN, V20, P539, DOI 10.1177/0956247808096127
+   Schneider A., 2009, ENVIRON RES LETT, V4, P1, DOI DOI 10.1088/1748-9326/4/4/044003
+   Schulz NB, 2010, ENERG POLICY, V38, P4848, DOI 10.1016/j.enpol.2009.08.066
+   Sovacool BK, 2010, ENERG POLICY, V38, P4856, DOI 10.1016/j.enpol.2009.10.001
+   UN, 2010, WORLD URB PROSP 2009
+   United Nations, 2005, WORLD POP PROSP 2004
+   Urban Land Institute & Ernst & Young, 2011, INFR 2011 STRAT PRIO
+   US EIA, 2013, INT EN STAT TOT CARB
+   WBCSD and WRI, 2004, CORP ACC REP STAND
+   York R, 2003, ECOL ECON, V46, P351, DOI 10.1016/S0921-8009(03)00188-5
+NR 51
+TC 6
+Z9 6
+SN 0044-7447
+EI 1654-7209
+PD NOV
+PY 2014
+VL 43
+IS 7
+BP 957
+EP 968
+DI 10.1007/s13280-013-0467-6
+UT WOS:000343659300013
+PM 24375400
+ER
+
+PT J
+AU Cunningham, SW
+   Kwakkel, JH
+AF Cunningham, S. W.
+   Kwakkel, J. H.
+TI Tipping points in science: A catastrophe model of scientific change
+SO JOURNAL OF ENGINEERING AND TECHNOLOGY MANAGEMENT
+DE Scientometrics; Diffusion modeling; Scientific growth; Logistic;
+   Catastrophe
+ID FORECASTING EMERGING TECHNOLOGIES; DYNAMIC CAPABILITIES; KNOWLEDGE;
+   GROWTH; POPULATION; INNOVATION; EVOLUTION
+AB In this paper we discuss the capabilities for scientific knowledge to demonstrate explosive growth in short periods of time. In one notable example the field of engineering and technology management grew more rapidly in the 4 years after 1980 than it was expected to grow for the next 40 years. We provide 22 examples drawn widely from science, demonstrating that this phenomena is pervasive throughout science. We propose a new model, based on the idea of folds from mathematical catastrophe theory, a phenomenon that is more popularly known as tipping points. This model is then fit using non-linear regression in the presence of Poisson noise. While the tipping point does not occur in all fields of science, in those cases where it does occur the resultant model overwhelmingly supports the idea of catastrophic growth within scientific knowledge. We describe the differential equations underlying the fold catastrophe and relate these equations to a process of communication and interaction. We relate this dynamic to other word of mouth models such as the Bass diffusion model. We further discuss why scientific, and to a lesser extent news, articles are subject to this behavior while the same phenomenon is unlikely to occur when solely measuring the sales of a physical product. We provide evidence of the phenomenon in one brief sociological sketch of scientific activity. Finally, we discuss the relevance of the model in terms of innovation forecasting. In particular, we evaluate the possibility for ex ante anticipation of the bifurcation point. (C) 2014 Elsevier B.V. All rights reserved.
+RI Kwakkel, Jan/D-9680-2013
+OI Kwakkel, Jan/0000-0001-9447-2954
+CR AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Arnold V. I, 1976, CATASTROPHE THEORY
+   ARNOLD VI, 1994, ENCY MATH SCI
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bengisu M, 2006, TECHNOL FORECAST SOC, V73, P835, DOI 10.1016/j.techfore.2005.09.001
+   Bensman SJ, 2005, J AM SOC INF SCI TEC, V56, P189, DOI 10.1002/asi.20108
+   Berenson M. L., 1998, NORMAL APPROXIMATION
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boyack K. W., 2007, P ISSI 2007 11 INT C, V1, P112
+   Cunningham SW, 2011, TECHNOL FORECAST SOC, V78, P346, DOI 10.1016/j.techfore.2010.11.001
+   Daim TU, 2006, TECHNOL FORECAST SOC, V73, P981, DOI 10.1016/j.techfore.2006.04.004
+   FISHER JC, 1971, TECHNOL FORECAST SOC, V3, P75, DOI 10.1016/S0040-1625(71)80005-7
+   FOERSTER HV, 1960, SCIENCE, V132, P1291
+   Fuhr D, 2004, J UNIVERS COMPUT SCI, V10, P176
+   Garfield E, 2004, J INF SCI, V30, P119, DOI 10.1177/0165551504042802
+   Gladwell M., 2002, TIPPING POINT LITTLE
+   Guckenheimer J, 2005, MOSC MATH J, V5, P91, DOI 10.17323/1609-4514-2005-5-1-91-103
+   Han CS, 2010, SCIENTOMETRICS, V84, P391, DOI 10.1007/s11192-009-0119-6
+   Hicks DM, 1996, SCI TECHNOL HUM VAL, V21, P379, DOI 10.1177/016224399602100401
+   Hubbell Stephen P., 2001, V32, pi
+   Hunter JD, 2007, COMPUT SCI ENG, V9, P90, DOI 10.1109/MCSE.2007.55
+   Lariviere V, 2008, J AM SOC INF SCI TEC, V59, P288, DOI 10.1002/asi.20744
+   Malerba F, 2002, RES POLICY, V31, P247, DOI 10.1016/S0048-7333(01)00139-1
+   Maleszewska M., 2013, NATURE, V500, P113
+   Mendez V, 2011, MATH BIOSCI, V232, P78, DOI 10.1016/j.mbs.2011.04.005
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Miranda LCM, 2010, TECHNOL FORECAST SOC, V77, P699, DOI 10.1016/j.techfore.2010.01.006
+   Mitchell M, 2009, COMPLEXITY GUIDED TO
+   Noyons E. C. M., 1988, J AM SOC INFORM SCI, V49, P61
+   Pearl R, 1920, P NATL ACAD SCI USA, V6, P275, DOI 10.1073/pnas.6.6.275
+   Perone C. S., 2009, ACM SIGEVOLUTION, V4, P12, DOI DOI 10.1145/1656395.1656397
+   Petersen AM, 2012, SCI REP-UK, V2, DOI 10.1038/srep00313
+   Porter A. L., 1991, FORECASTING MANAGEME
+   Price D.S., 1961, SCI BABYLON
+   Price DJ, 1963, LITTLE SCI BIG SCI
+   PRICE DJD, 1976, J AM SOC INFORM SCI, V27, P292, DOI 10.1002/asi.4630270505
+   PRICE DJD, 1983, CC/SOC BEHAV SCI, P18
+   Reid EOF, 1997, INFORM PROCESS MANAG, V33, P91, DOI 10.1016/S0306-4573(96)00052-0
+   RIP A, 1984, SCIENTOMETRICS, V6, P381, DOI 10.1007/BF02025827
+   Roper A. T., 2011, FORECASTING MANAGEME
+   Schmoch U, 2007, RES POLICY, V36, P1000, DOI 10.1016/j.respol.2006.11.008
+   Teece DJ, 1997, STRATEGIC MANAGE J, V18, P509, DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z
+   Van Den Besselaar P, 2006, SCIENTOMETRICS, V68, P377, DOI 10.1007/s11192-006-0118-9
+   Van Rossum G., 1995, PYTHON REFERENCE MAN
+   Verhulst P. F., 1838, CORRES MATH PHYSIQUE, V10, P113
+   ZITT M, 1991, SCIENTOMETRICS, V22, P229, DOI 10.1007/BF02019282
+   Zollo M, 2002, ORGAN SCI, V13, P339, DOI 10.1287/orsc.13.3.339.2780
+   Zucker LG, 2002, MANAGE SCI, V48, P138, DOI 10.1287/mnsc.48.1.138.14274
+NR 48
+TC 5
+Z9 5
+SN 0923-4748
+EI 1879-1719
+PD APR-JUN
+PY 2014
+VL 32
+SI SI
+BP 185
+EP 205
+DI 10.1016/j.jengtecman.2014.01.002
+UT WOS:000338613700012
+ER
+
+PT J
+AU Marcotullio, PJ
+   Hughes, S
+   Sarzynski, A
+   Pincetl, S
+   Pena, LS
+   Romero-Lankao, P
+   Runfola, D
+   Seto, KC
+AF Marcotullio, Peter J.
+   Hughes, Sara
+   Sarzynski, Andrea
+   Pincetl, Stephanie
+   Sanchez Pena, Landy
+   Romero-Lankao, Patricia
+   Runfola, Daniel
+   Seto, Karen C.
+TI Urbanization and the carbon cycle: Contributions from social science
+SO EARTHS FUTURE
+ID GREENHOUSE-GAS EMISSIONS; HOUSEHOLD ENERGY-REQUIREMENTS; CLIMATE-CHANGE;
+   UNITED-STATES; ELECTRICITY CONSUMPTION; DEVELOPING-COUNTRIES; CO2
+   EMISSIONS; SUSTAINABLE CONSUMPTION; ENVIRONMENTAL-IMPACT;
+   ECONOMIC-DEVELOPMENT
+AB This paper outlines the contributions of social science to the study of interactions between urbanization patterns and processes and the carbon cycle, and identifies gaps in knowledge and priority areas for future social scientific research contributions. While previously studied as a unidimensional process, we conceptualize urbanization as a multidimensional, social and biophysical process driven by continuous changes across space and time in various subsystems including biophysical, built environment, and socio-institutional (e.g., economic, political, demographic, behavioral, and sociological). We review research trends and findings focused on the socio-institutional subsystem of the urbanization process, and particularly the dynamics, relationships, and predictions relevant to energy use and greenhouse gas emissions. Our findings suggest that a multidimensional perspective of urbanization facilitates a wider spectrum of research relevant to carbon cycle dynamics, even within the socio-institutional subsystem. However, there is little consensus around the details and mechanisms underlying the relationship between urban socio-institutional subsystems and the carbon cycle. We argue that progress in understanding the relationship between urbanization and the carbon cycle may be achieved if social scientists work collaboratively with each other as well as with scientists from other disciplines. From this review, we identify research priorities where collaborative social scientific efforts are necessary in conjunction with other disciplinary approaches to generate a more complete understanding of urbanization as a process and its relationship to the carbon cycle.
+RI Seto, Karen/C-2722-2008
+OI Sarzynski, Andrea/0000-0001-9941-5764; Marcotullio,
+   Peter/0000-0001-8133-1204
+CR Abrahamse W, 2005, J ENVIRON PSYCHOL, V25, P273, DOI 10.1016/j.jenvp.2005.08.002
+   Abrahamse W, 2009, J ECON PSYCHOL, V30, P711, DOI 10.1016/j.joep.2009.05.006
+   Allcott H, 2011, J PUBLIC ECON, V95, P1082, DOI 10.1016/j.jpubeco.2011.03.003
+   Anas A, 1998, J ECON LIT, V36, P1426
+   Annez P. C., 2009, URBANIZATION GROWTH, V1, P1
+   [Anonymous], 2014, URBAN DEV
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   Aylett A, 2013, URBAN STUD, V50, P1386, DOI 10.1177/0042098013480968
+   Bader N., 2009, SURVEYS PERSPECTIVES, V2, P7
+   Bailis R, 2005, SCIENCE, V308, P98, DOI 10.1126/science.1106881
+   Baiocchi G, 2010, J IND ECOL, V14, P50, DOI 10.1111/j.1530-9290.2009.00216.x
+   Berry B. J. L, 1973, HUMAN CONSEQUENCES U
+   Berry BJL, 1970, GEOGRAPHIC PERSPECTI
+   Betsill MM, 2006, GLOBAL GOV, V12, P141, DOI 10.1163/19426720-01202004
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boyko CT, 2011, PROG PLANN, V76, P1, DOI 10.1016/j.progress.2011.07.001
+   BRADSHAW YW, 1989, AM SOCIOL REV, V54, P986, DOI 10.2307/2095719
+   Brown K. W, 2004, POSITIVE PSYCHOL PRA, P105
+   Brown KW, 2005, SOC INDIC RES, V74, P349, DOI 10.1007/s11205-004-8207-8
+   Brown KW, 2003, J PERS SOC PSYCHOL, V84, P822, DOI 10.1037/0022-3514.84.4.822
+   BROWN L., 2001, ECOECONOMY BUILDING
+   Brown M. A., 2008, SHRINKING CARBON FOO
+   Bulkeley H, 2013, ROUTL CRIT INTRO URB, P1
+   Bulkeley H., 2003, CITIES CLIMATE CHANG
+   Bulkeley H, 2010, ANNU REV ENV RESOUR, V35, P229, DOI 10.1146/annurev-environ-072809-101747
+   Caro RA, 1975, POWER BROKER R MOSES
+   Castells M, 1977, URBAN QUESTION MARXI
+   CHAMPION T, 2001, HDB URBAN STUDIES, P143, DOI 10.4135/9781848608375.n9
+   Chester M. V., 2014, ERATHS FUTURE
+   Ciccone A, 1996, AM ECON REV, V86, P54
+   Cohen C, 2005, ENERG POLICY, V33, P555, DOI 10.1016/j.enpol.2003.08.021
+   Cohen JE, 2010, P AM PHILOS SOC, V154, P158
+   Curran SR, 2004, POPUL ENVIRON, V26, P107, DOI 10.1007/s11111-004-0837-x
+   Dalton M, 2008, ENERG ECON, V30, P642, DOI 10.1016/j.eneco.2006.07.002
+   Davis JC, 2003, J URBAN ECON, V53, P98, DOI 10.1016/S0094-1190(02)00504-1
+   Davis SJ, 2010, SCIENCE, V329, P1330, DOI 10.1126/science.1188566
+   de Sherbinin A., 2007, POLICY PAPERS SERIES, V3
+   Dey C., 2007, WATER WIND ART DEBAT, P280
+   Dhakal S., 2004, URBAN ENERGY USE GRE
+   Dickinson J., 2012, INVENTORY NEW YORK C
+   Douglas Ian, 2013, CITIES ENV HIST
+   EHRLICH PR, 1971, SCIENCE, V171, P1212, DOI 10.1126/science.171.3977.1212
+   EPA, 2014, URB MAPS NPDES MS4 P
+   Ewing R, 2001, TRANSPORT RES REC, P87, DOI 10.3141/1780-10
+   Ewing R, 2010, J AM PLANN ASSOC, V76, P265, DOI 10.1080/01944361003766766
+   Fang WS, 2012, ENERG POLICY, V51, P558, DOI 10.1016/j.enpol.2012.08.068
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Friedman J., 1982, INT J URBAN REGIONAL, V6, P309, DOI [DOI 10.1111/J.1468-2427.1982.TB00384.X, 10.1111/j.1468-2427.1982.tb00384.x]
+   GCIF, 2014, GLOB CIT IND FAC
+   Geels FW, 2014, THEOR CULT SOC, V31, P21, DOI 10.1177/0263276414531627
+   Gilbert A., 1992, CITIES POVERTY DEV U
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Glaeser EL, 1998, J ECON PERSPECT, V12, P139, DOI 10.1257/jep.12.2.139
+   Gordon P, 1998, BROOKINGS REV, V16, P23
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Gross M., 2006, 740 PARK STORY WORLD
+   GROSSMAN GM, 1995, Q J ECON, V110, P353, DOI 10.2307/2118443
+   Grubler A., 2012, GLOBAL ENERGY ASSESS, P1307, DOI DOI 10.1017/CBO9780511793677.024
+   Aguilar AG, 2011, LAND USE POLICY, V28, P649, DOI 10.1016/j.landusepol.2010.11.002
+   Gurney KR, 2009, ENVIRON SCI TECHNOL, V43, P5535, DOI 10.1021/es900806c
+   Harris CD, 1945, ANN AM ACAD POLIT SS, V242, P7, DOI 10.1177/000271624524200103
+   Harvey D, 1973, SOCIAL JUSTICE CITY
+   Harvey David, 1989, URBAN EXPERIENCE
+   Heinonen J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/025003
+   Hillman T, 2010, ENVIRON SCI TECHNOL, V44, P1902, DOI 10.1021/es9024194
+   Hoornweg D, 2011, ENVIRON URBAN, V23, P207, DOI 10.1177/0956247810392270
+   Hoselitz BF, 1955, ECON DEV CULT CHANGE, V3, P278, DOI 10.1086/449689
+   Hough M, 1984, CITY FORM NATURAL PR
+   Hughes S, 2013, ECOL SOC, V18, DOI 10.5751/ES-05929-180448
+   Hutyra LR, 2014, EARTHS FUTURE, V2, P473, DOI 10.1002/2014EF000255
+   Jackson T, 2005, MOTIVATING SUSTAINAB
+   Jessop B, 1990, STATE THEORY PUTTING
+   Jiang ZJ, 2012, ENERG POLICY, V49, P608, DOI 10.1016/j.enpol.2012.07.002
+   Jonas AEG, 2007, INT J URBAN REGIONAL, V31, P169, DOI 10.1111/j.1468-2427.2007.00711.x
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   JONES DW, 1991, ENERG POLICY, V19, P621, DOI 10.1016/0301-4215(91)90094-5
+   Jones G. A., 2005, CONTINUING DEBATE UR
+   JORGENSON AK, 2005, POPUL ENVIRON, V32, P27
+   Jorgenson AK, 2012, AM J SOCIOL, V118, P1, DOI 10.1086/665990
+   Jorgenson AK, 2010, ORGAN ENVIRON, V23, P189, DOI 10.1177/1086026610368376
+   Ju CB, 2011, URBAN STUD, V48, P811, DOI 10.1177/0042098009360686
+   Kahn ME, 2009, ANNU REV RESOUR ECON, V1, P333, DOI 10.1146/annurev.resource.050708.144249
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kennedy CA, 2011, URB DEV SER, P15
+   Knox PL, 2005, URBANIZATION INTRO U
+   KRAFT J, 1978, J ENERGY DEV, V3, P401
+   Lankao PR, 2007, ENVIRON URBAN, V19, P159, DOI 10.1177/0956247807076915
+   Lariviere I, 1999, ENERG ECON, V21, P53, DOI 10.1016/S0140-9883(98)00007-3
+   Lawhon M, 2012, PROG HUM GEOG, V36, P354, DOI 10.1177/0309132511427960
+   Lebel L, 2007, J IND ECOL, V11, P61, DOI 10.1162/jie.2007.1185
+   Lefebvre H., 1970, URBAN REVOLUTION
+   Lenzen M, 2006, ENERGY, V31, P181, DOI 10.1016/j.energy.2005.01.009
+   Lenzen M, 2004, ECOL ECON, V49, P375, DOI 10.1016/j.ecolecon.2004.01.019
+   Lewis P. G., 1996, SHPING SUBURBIA POLI
+   Liddle B, 2004, POPUL ENVIRON, V26, P23, DOI 10.1023/B:POEN.0000039951.37276.f3
+   Liddle B, 2010, POPUL ENVIRON, V31, P317, DOI 10.1007/s11111-010-0101-5
+   Liddle B, 2014, GLOBAL ENVIRON CHANG, V24, P42, DOI 10.1016/j.gloenvcha.2013.11.013
+   Liddle B, 2014, POPUL ENVIRON, V35, P286, DOI 10.1007/s11111-013-0198-4
+   Liddle B, 2011, DEMOGR RES, V24, P749, DOI 10.4054/DemRes.2011.24.30
+   Lipton Michael, 1977, WHY POOR PEOPLE STAY
+   Liu JG, 2003, NATURE, V421, P530, DOI 10.1038/nature01359
+   Lo F.-C., 2001, GLOBALIZATION SUSTAI
+   LO FC, 1998, GLOBALIZATION WORLD
+   Logan John R., 1987, URBAN FORTUNES POLIT
+   Loughran DS, 2004, ENERGY J, V25, P19
+   Marcotullio P. J., 2013, AMBIO, DOI [10.1007/s13280-13013-10467-13286, DOI 10.1007/S13280-13013-10467-13286]
+   Marcotullio P. J., 2013, CHANGING ENV HUMAN S, P375
+   Marcotullio PJ, 2013, CLIMATIC CHANGE, V121, P621, DOI 10.1007/s10584-013-0977-z
+   Martinez-Zarzoso I, 2011, ECOL ECON, V70, P1344, DOI 10.1016/j.ecolecon.2011.02.009
+   McGranahan G, 2014, URBAN GROWTH IN EMERGING ECONOMIES: LESSONS FROM THE BRICS, P1
+   McGranahan G., 2001, CITIZENS RISK URBAN
+   McGranahan G, 2014, URBAN GROWTH IN EMERGING ECONOMIES: LESSONS FROM THE BRICS, P55
+   McIntyre N.E., 2000, URBAN ECOSYST, V4, P5, DOI DOI 10.1023/A:1009540018553
+   Menz T, 2012, ENERG ECON, V34, P842, DOI 10.1016/j.eneco.2011.07.016
+   Midden CJH, 2007, J SOC ISSUES, V63, P155, DOI 10.1111/j.1540-4560.2007.00501.x
+   Milesi C, 2005, ENVIRON MANAGE, V36, P426, DOI 10.1007/s00267-004-0316-2
+   Minx J., 2013, ENVIRON RES LETT, V8, DOI [10.1088/1748-9326/1088/1083/035039, DOI 10.1088/1748-9326/1088/1083/035039]
+   Montgomery M.R., 2003, CITIES TRANSFORMED D
+   Montgomery MR, 2008, SCIENCE, V319, P761, DOI 10.1126/science.1153012
+   Mumford L., 1961, CITY HIST ITS ORIGIN
+   Newman P, 1999, SUSTAINABILITY CITIE
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   O'Neill B. C., 2010, P NATL ACAD SCI USA, V107, P17
+   O'Neill BC, 2012, ENERG ECON, V34, pS339, DOI 10.1016/j.eneco.2012.04.004
+   O'Neill BC, 2002, POPUL DEV REV, V28, P53
+   Oleson KW, 2008, J APPL METEOROL CLIM, V47, P1061, DOI 10.1175/2007JAMC1598.1
+   Owen D., 2009, GREEN METROPOLIS WHY
+   Ozturk I, 2010, ENERG POLICY, V38, P340, DOI 10.1016/j.enpol.2009.09.024
+   Pachauri S, 2004, ENERG POLICY, V32, P1723, DOI 10.1016/S0301-4215(03)00162-9
+   Pachauri S, 2002, ENERG POLICY, V30, P511, DOI 10.1016/S0301-4215(01)00119-7
+   Pachauri S, 2008, ENERG POLICY, V36, P4022, DOI 10.1016/j.enpol.2008.06.016
+   PARIKH J, 1995, GLOBAL ENVIRON CHANG, V5, P87, DOI 10.1016/0959-3780(95)00015-G
+   Park R., 1927, CITY
+   Parnell S, 2011, GLOBAL ENVIRON CHANG, V21, pS12, DOI 10.1016/j.gloenvcha.2011.09.014
+   Parshall L, 2010, ENERG POLICY, V38, P4765, DOI 10.1016/j.enpol.2009.07.006
+   Pataki DE, 2006, GLOBAL CHANGE BIOL, V12, P2092, DOI 10.1111/j.1365-2486.2006.01242.x
+   Pataki DE, 2011, FRONT ECOL ENVIRON, V9, P27, DOI 10.1890/090220
+   Payne JE, 2010, J ECON STUD, V37, P53, DOI 10.1108/01443581011012261
+   Payne JE, 2010, APPL ENERG, V87, P723, DOI 10.1016/j.apenergy.2009.06.034
+   Poumanyvong P, 2010, ECOL ECON, V70, P434, DOI 10.1016/j.ecolecon.2010.09.029
+   Quigley JM, 1998, J ECON PERSPECT, V12, P127, DOI 10.1257/jep.12.2.127
+   Ramaswami A, 2012, J IND ECOL, V16, P783, DOI 10.1111/j.1530-9290.2012.00569.x
+   Ramaswami A, 2011, ENVIRON SCI TECHNOL, V45, P4205, DOI 10.1021/es201166n
+   Romero-Lankao P, 2014, EARTHS FUTURE, V2, P515, DOI 10.1002/2014EF000258
+   Romero-Lankao P, 2013, ENVIRON PLANN C, V31, P785, DOI 10.1068/c12173
+   Runfola DM, 2014, LAND, V3, P131, DOI 10.3390/land3010131
+   Sager F., 2004, GOVERNANCE, V18, P227
+   Sanne C, 2002, ECOL ECON, V42, P273, DOI 10.1016/S0921-8009(02)00086-1
+   Sassen S, 2006, CITIES WORLD EC
+   Satterthwaite D., 2007, REP THEME URBAN CHAN
+   Satterthwaite D, 2009, ENVIRON URBAN, V21, P545, DOI 10.1177/0956247809344361
+   Scheffer M, 2012, SCIENCE, V338, P344, DOI 10.1126/science.1225244
+   Scheffer M, 2010, NATURE, V467, P411, DOI 10.1038/467411a
+   Scheffer M, 2009, NATURE, V461, P53, DOI 10.1038/nature08227
+   Schneider A, 2009, ENVIRON RES LETT, V4, DOI 10.1088/1748-9326/4/4/044003
+   Schultz PW, 2007, PSYCHOL SCI, V18, P429, DOI 10.1111/j.1467-9280.2007.01917.x
+   Schulz NB, 2010, ENERG POLICY, V38, P4848, DOI 10.1016/j.enpol.2009.08.066
+   Scott J., 2000, UNDERSTANDING CONT S, P126, DOI DOI 10.4135/9781446218310.N9
+   Seto KC, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, P923
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P7687, DOI 10.1073/pnas.1117622109
+   Seto KC, 2014, RETHINKING GLOBAL LA
+   Shen L, 2005, CITIES, V22, P287, DOI 10.1016/j.cities.2005.05.007
+   Solecki W, 2013, ENVIRONMENT, V55, P12, DOI 10.1080/00139157.2013.748387
+   Sovacool BK, 2010, ENERG POLICY, V38, P4856, DOI 10.1016/j.enpol.2009.10.001
+   Spangenberg JH, 2002, ECOL ECON, V43, P127, DOI 10.1016/S0921-8009(02)00212-4
+   Spirn Anne Whiston, 1984, GRANITE GARDEN URBAN
+   Srinivas H, 2000, GLOBAL ENVIRON CHANG, V10, P233, DOI 10.1016/S0959-3780(00)00030-3
+   Steg L, 2008, ENERG POLICY, V36, P4449, DOI 10.1016/j.enpol.2008.09.027
+   Steinberger J., 2013, ENERGIZING SUSTAINAB, P41
+   Stern PC, 2000, J SOC ISSUES, V56, P407, DOI 10.1111/0022-4537.00175
+   Stoker G., 1998, THEORIES URBAN POLIT, P54
+   Stone B, 2009, ENVIRON SCI TECHNOL, V43, P9052, DOI 10.1021/es902150g
+   Stone C. N., 1989, REGIME POLITICS GOVE
+   Sugar L, 2012, J IND ECOL, V16, P552, DOI 10.1111/j.1530-9290.2012.00481.x
+   Tarr J. A., 1988, TECHNOLOGY RISE NETW
+   Taylor P. J., 2004, WORLD CITY NETWORK G
+   Thogersen J, 2002, J ECON PSYCHOL, V23, P605, DOI 10.1016/S0167-4870(02)00120-4
+   Thompson WS, 1929, AM J SOCIOL, V34, P959, DOI 10.1086/214874
+   Timberlake M, 1985, URBANIZATION WORLD E
+   Tisdale H, 1942, SOC FORCES, V20, P311, DOI 10.2307/3005615
+   Todaro M. P., 1997, EC DEV
+   Transportation Research Board, 2009, DRIV BUILT ENV EFF C
+   UN-Habitat, 2003, WAT SAN WORLDS CIT
+   United Nations, 2012, WORLD URB PROSP 2012
+   USGS, 2014, EARTHEXPLORER
+   VANCE JE, 1970, MERCHANTS WORLD GEOG
+   VRINGER K, 1995, ENERG POLICY, V23, P893, DOI 10.1016/0301-4215(95)00072-Q
+   WEBER AF, 1899, GROWTH CITIES 19 CEN
+   Weber Bk. Max, 1966, CITY
+   Weber CL, 2008, ECOL ECON, V66, P379, DOI 10.1016/j.ecolecon.2007.09.021
+   Weisz H, 2010, CURR OPIN SUST, V2, P185, DOI 10.1016/j.cosust.2010.05.010
+   Wier M., 2001, ECON SYST RES, V13, P259, DOI DOI 10.1080/09537320120070149
+   WILKES RE, 1995, J CONSUM RES, V22, P27, DOI 10.1086/209433
+   WILLIAMSON JG, 1965, ECON DEV CULT CHANGE, V13, P1, DOI 10.1086/450136
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   World Bank, 2009, WORLD DEV REP 2009
+   York R, 2003, ECOL ECON, V46, P351, DOI 10.1016/S0921-8009(03)00188-5
+   Zarnikau J, 2003, ENERG POLICY, V31, P1661, DOI 10.1016/S0301-4215(02)00232-X
+   ZELINSKY W, 1971, GEOGR REV, V61, P219, DOI 10.2307/213996
+NR 199
+TC 22
+Z9 23
+SN 2328-4277
+PD OCT
+PY 2014
+VL 2
+IS 10
+BP 496
+EP 514
+DI 10.1002/2014EF000257
+UT WOS:000358136100003
+ER
+
+PT J
+AU Sornette, D
+   Maillart, T
+   Ghezzi, G
+AF Sornette, Didier
+   Maillart, Thomas
+   Ghezzi, Giacomo
+TI How Much Is the Whole Really More than the Sum of Its Parts? 1 boxed
+   plus 1=2.5: Superlinear Productivity in Collective Group Actions
+SO PLOS ONE
+ID POWER-LAW DISTRIBUTIONS; ZIPFS LAW; PERFORMANCE; MODELS; TEAMS; ABILITY;
+   SYSTEM; GROWTH; CITIES; LEVEL
+AB In a variety of open source software projects, we document a superlinear growth of production intensity (R similar to c(beta)) as a function of the number of active developers c, with a median value of the exponent beta similar or equal to 4/3, with large dispersions of beta from slightly less than 1 up to 3. For a typical project in this class, doubling of the group size multiplies typically the output by a factor 2(beta)=2.5, explaining the title. This superlinear law is found to hold for group sizes ranging from 5 to a few hundred developers. We propose two classes of mechanisms, interaction-based and large deviation, along with a cascade model of productive activity, which unifies them. In this common framework, superlinear productivity requires that the involved social groups function at or close to criticality, or in a "superradiance" mode, in the sense of the appearance of a cooperative process and order involving a collective mode of developers defined by the build up of correlation between the contributions of developers. In addition, we report the first empirical test of the renormalization of the exponent of the distribution of the sizes of first generation events into the renormalized exponent of the distribution of clusters resulting from the cascade of triggering over all generation in a critical branching process in the non-meanfield regime. Finally, we document a size effect in the strength and variability of the superlinear effect, with smaller groups exhibiting widely distributed superlinear exponents, some of them characterizing highly productive teams. In contrast, large groups tend to have a smaller superlinearity and less variability.
+CR Ait-Sahalia Y, 2010, NATL BUREAU EC RES W, V15850
+   ANDERSON PW, 1963, PHYS REV, V130, P439, DOI 10.1103/PhysRev.130.439
+   ANDERSON PW, 1972, SCIENCE, V177, P393, DOI 10.1126/science.177.4047.393
+   Arthur W.B., 1994, INCREASING RETURNS P
+   Baldwin A, 2012, WORKSH EC INF SEC WE
+   Benedict M. G., 1996, SUPER RADIANCE MULTI
+   Benkler Y., 2002, YALE LAW J, V112
+   Bettencourt LMA, 2010, PLOS ONE, V5
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   BOUCHAUD JP, 1990, PHYS REP, V195, P127, DOI 10.1016/0370-1573(90)90099-N
+   Cardy JL, 1988, CURRENT PHYS SERIES, V2
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Coase RH, 1937, ECONOMICA-NEW SER, V4, P386, DOI 10.1111/j.1468-0335.1937.tb00002.x
+   Cohen SG, 1997, J MANAGE, V23, P239, DOI 10.1177/014920639702300303
+   Crane R, 2008, P NATL ACAD SCI USA, V105, P15649, DOI 10.1073/pnas.0803685105
+   Crowston K., 2005, 1 MONDAY, V10
+   Daley DJ, 2003, INTRO THEORY POINT P
+   Damoiseaux JS, 2009, BRAIN STRUCT FUNCT, V213, P525, DOI 10.1007/s00429-009-0208-6
+   Deschatres F, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.016112
+   DICKE RH, 1954, PHYS REV, V93, P99, DOI 10.1103/PhysRev.93.99
+   Domb C, 1979, PHASE TRANSITIONS CR, V1-20
+   Ennen E, 2010, J MANAGE, V36, P207, DOI 10.1177/0149206309350083
+   Filimonov V, 2014, J INT MONEY FINANC, V42, P174, DOI 10.1016/j.jimonfin.2013.08.010
+   Filimonov V, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.056108
+   Galam S, 2012, WHAT IS SOCIOPHYSICS
+   Gordon K, 1924, J EXP PSYCHOL, V7, P398, DOI 10.1037/h0074666
+   Gowers T, 2009, NATURE, V461, P879, DOI 10.1038/461879a
+   Grimmett GR, 1994, PROBABILITY PHASE TR, V420
+   GROSS M, 1982, PHYS REP, V93, P301, DOI 10.1016/0370-1573(82)90102-8
+   Halfaker A, 2013, AM BEHAV SCI, V57, P664, DOI 10.1177/0002764212469365
+   Harris T. E., 2002, THEORY BRANCHING PRO
+   HAWKES AG, 1974, J APPL PROBAB, V11, P493, DOI 10.2307/3212693
+   Helmstetter A, 2002, J GEOPHYS RES-SOL EA, V107, DOI 10.1029/2001JB0001580
+   Helmstetter AS, 2003, GEOPHYS RES LETT, V30, DOI 10.1029/2003GL017670
+   Humphrey G, 1924, J EDUC PSYCHOL, V15, P401, DOI 10.1037/h0070207
+   INGHAM AG, 1974, J EXP SOC PSYCHOL, V10, P371, DOI 10.1016/0022-1031(74)90033-X
+   JOHN S, 1995, PHYS REV LETT, V74, P3419, DOI 10.1103/PhysRevLett.74.3419
+   Jorgensen S. E, 2012, INTRO SYSTEMS ECOLOG
+   Krugman P. R., 1996, SELF ORG EC
+   LAUGHLIN PR, 1966, J EXP SOC PSYCHOL, V2, P407, DOI 10.1016/0022-1031(66)90032-1
+   Liggett T. M, 2005, INTERACTING PARTICLE
+   Lin Y, 2006, ADV INTERDISCIPLINAR, V12, P53
+   Madey G, 2002, AM C INF SYST AMCIS2, P1806
+   Maillart T, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.056101
+   Maillart T, 2008, PHYS REV LETT, V101
+   Malevergne Y, 2013, J ECON DYN CONTROL, V37, P1195, DOI 10.1016/j.jedc.2013.02.004
+   Mohler GO, 2011, J AM STAT ASSOC, V106, P100, DOI 10.1198/jasa.2011.ap09546
+   Neuman GA, 1999, J APPL PSYCHOL, V84, P376, DOI 10.1037/0021-9010.84.3.376
+   O'Mahony S, 2007, ACAD MANAGE J, V50, P1079
+   Ostrom E., 1990, GOVERNING COMMONS EV
+   Raasch C, 2009, R&D MANAGE, V39, P382, DOI 10.1111/j.1467-9310.2009.00567.x
+   Ramsden JJ, 2000, PHYSICA A, V277, P220, DOI 10.1016/S0378-4371(99)00572-5
+   Sacramento GA, 2006, ADV INTERDISCIPLINAR, V12, P81
+   Saichev A, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.046123
+   Saichev A, 2005, PURE APPL GEOPHYS, V162, P1113, DOI 10.1007/s00024-004-2663-6
+   Saichev A, 2014, PHYS REV E, V89
+   Saichev A., 2009, LECT NOTES EC MATH S
+   Saichev AI, 2011, EUR PHYS J B, V83, P271, DOI 10.1140/epjb/e2011-20298-3
+   Saichev AI, 2010, EUR PHYS J B, V75, P343, DOI 10.1140/epjb/e2010-00121-7
+   Saichev AI, 2013, EUROPEAN PHYS J B, V86, P1
+   Shaw ME, 1932, AM J PSYCHOL, V44, P491, DOI 10.2307/1415351
+   Smith A, 1776, WEALTH NATIONS
+   Sornette D., 2006, SPRINGER SERIES SYNE
+   Sornette D., 2004, PHYS REV LETT, V93
+   SUNDSTROM E, 1990, AM PSYCHOL, V45, P120, DOI 10.1037//0003-066X.45.2.120
+   Toulouse G, 1978, REV FRANCAISE SOCIOL, V19
+   TZINER A, 1985, J APPL PSYCHOL, V70, P85, DOI 10.1037//0021-9010.70.1.85
+   Woolley AW, 2010, SCIENCE, V330, P686, DOI 10.1126/science.1193147
+   Wuchty S, 2007, SCIENCE, V316, P1036, DOI 10.1126/science.1136099
+   Zhang QZ, 2011, PHYSICA A, V390, P4124, DOI 10.1016/j.physa.2011.06.063
+   Zhou WX, 2005, P ROY SOC B-BIOL SCI, V272, P439, DOI 10.1098/rspb.2004.2970
+NR 73
+TC 10
+Z9 10
+SN 1932-6203
+PD AUG 1
+PY 2014
+VL 9
+IS 8
+AR e103023
+DI 10.1371/journal.pone.0103023
+UT WOS:000339819800014
+PM 25084157
+ER

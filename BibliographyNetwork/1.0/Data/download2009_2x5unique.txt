@@ -1,0 +1,537 @@
+
+PT J
+AU Shimizu, E
+   Inoue, R
+AF Shimizu, Eihan
+   Inoue, Ryo
+TI A new algorithm for distance cartogram construction
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+LA English
+DT Article
+DE distance cartogram; time-space map; visualization
+ID TIME-SPACE MAPS; TRANSFORMATIONS
+AB A distance cartogram is a diagram that visualizes the proximity indices between points in a network, such as time-distances between cities. The Euclidean distances between the points on the distance cartogram represent the given proximity indices. This is a useful visualization tool for the level of service of transport, e.g. difference in the level of service between regions or points in a network and its improvement in the course of time. The two previously proposed methodsmultidimensional scaling (MDS) and network time-space mappinghave certain advantages and disadvantages. However, we observe that these methods are essentially the same, and the merits of both these methods can be combined to formulate a generalized solution. In this study, we first formulate the time-space mapping problem, which includes the key features of both of the above stated methods, and propose a generalized solution. We then apply this solution to the time-distances of Japan's railway networks to confirm its applicability.
+C1 [Shimizu, Eihan; Inoue, Ryo] Univ Tokyo, Dept Civil Engn, Tokyo 113, Japan.
+RP Inoue, R (reprint author), Univ Tokyo, Dept Civil Engn, 7-3-1 Hongo, Tokyo 113, Japan.
+EM rinoue@civil.t.u-tokyo.ac.jp
+RI Inoue, Ryo/B-7032-2008
+OI Inoue, Ryo/0000-0002-0106-9777
+CR Ahmed N, 2007, J TRANSP GEOGR, V15, P2, DOI 10.1016/j.jtrangeo.2005.11.004
+   ANGEL S, 1972, GEOGR ANAL, V4, P350
+   AXHAUSEN KW, 2006, ARBEITSBERICHTE VERK, V342
+   Cox T. F., 2001, MULTIDIMENSIONAL SCA
+   DORLING D, 1991, THESIS U NEWCASTLE
+   EWING G, 1974, CAN GEOGR-GEOGR CAN, V18, P161
+   KOTOH H, 1997, THEORY APPL GIS, V5, P1
+   MASUYA Y, 1995, J INFRASTRUCTURE PLA, P567
+   Monmonier M., 1977, MAPS DISTORTION MEAN
+   MULLER JC, 1978, CAN GEOGR-GEOGR CAN, V22, P195, DOI 10.1111/j.1541-0064.1978.tb01012.x
+   SHIMIZU E, 1992, SEL P 6 WORLD C TRAN, P219
+   SPIEKERMANN K, 1994, ENVIRON PLANN B, V21, P653, DOI 10.1068/b210653
+   Tobler W, 2004, ANN ASSOC AM GEOGR, V94, P58, DOI 10.1111/j.1467-8306.2004.09401004.x
+NR 13
+TC 15
+Z9 19
+U1 1
+U2 12
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1365-8816
+EI 1362-3087
+J9 INT J GEOGR INF SCI
+JI Int. J. Geogr. Inf. Sci.
+PY 2009
+VL 23
+IS 11
+BP 1453
+EP 1470
+AR PII 902656707
+DI 10.1080/13658810802186882
+PG 18
+WC Computer Science, Information Systems; Geography; Geography, Physical;
+   Information Science & Library Science
+SC Computer Science; Geography; Physical Geography; Information Science &
+   Library Science
+GA 515ZT
+UT WOS:000271512100005
+DA 2019-03-26
+ER
+
+PT J
+AU Lin, GCS
+AF Lin, George C. S.
+TI Scaling-up Regional Development in Globalizing China: Local Capital
+   Accumulation, Land-centred Politics, and Reproduction of Space
+SO REGIONAL STUDIES
+LA English
+DT Article; Proceedings Paper
+CT 103rd Annual Conference of the Association-of-American-Geographers
+CY APR 17-22, 2007
+CL San Francisco, CA
+SP Assoc Amer Geographers
+DE Regional development; Political economy; Land use; China; Pearl River
+   Delta
+ID ENDOGENOUS GROWTH THEORY; POST-MAO CHINA; ECONOMIC-DEVELOPMENT; LEARNING
+   REGION; STATE POLICY; RIVER DELTA; ECOLOGY; COMPETITIVENESS;
+   TRANSFORMATION; GOVERNANCE
+AB Lin G. C. S. Scaling-up regional development in globalizing China: local capital accumulation, land-centred politics, and reproduction of space, Regional Studies. Drawing on insights from political economy and Third World political ecology, this study identifies a new process of regional development in globalizing southern China where municipalities have engaged in a land-based and city-centred development as a means of original capital accumulation. Global capitalism and reshuffling of the socialist political economy have given rise to a strategy to scale-up the urban region and reproduce space for locally controlled development. Subsequent gain in growth and competitiveness has been accompanied by increased inequality and social discontents. Greater attention needs to be devoted to the social and political origins of regional development.
+   [GRAPHICS]
+C1 Univ Hong Kong, Dept Geog, Hong Kong, Hong Kong, Peoples R China.
+RP Lin, GCS (reprint author), Univ Hong Kong, Dept Geog, Pokfulam Rd, Hong Kong, Hong Kong, Peoples R China.
+EM gcslin@hkucc.hku.hk
+CR Armstrong W, 1985, THEATRES ACCUMULATIO
+   Bathelt H, 2004, PROG HUM GEOG, V28, P31, DOI 10.1191/0309132504ph469oa
+   Blaikie P., 1987, LAND DEGRADATION SOC
+   Boudeville J. R., 1966, PROBLEMS REGIONAL EC
+   Brookfield H.C., 1975, INTERDEPENDENT DEV
+   BRYANT RL, 1992, POLIT GEOGR, V11, P12, DOI 10.1016/0962-6298(92)90017-N
+   Cardoso Fernando H., 1979, DEPENDENCY DEV LATIN
+   Cartier C., 2001, GLOBALIZING S CHINA
+   CHAN M, 2005, S CHINA MORNING 1213
+   *CHIN STAT STAT BU, 2006, CHIN STAT YB 2006
+   CODY E, 2005, WASHINGTON POST 1208
+   Coe NM, 2004, T I BRIT GEOGR, V29, P468, DOI 10.1111/j.0020-2754.2004.00142.x
+   Cooke P., 1998, ASS EC FIRMS REGIONS
+   Crafts N, 1996, OXFORD REV ECON POL, V12, P30, DOI 10.1093/oxrep/12.2.30
+   DARWENT DF, 1969, ENVIRON PLANN, V1, P5, DOI 10.1068/a010005
+   Fan CC, 1997, INT J URBAN REGIONAL, V21, P620, DOI 10.1111/1468-2427.00105
+   FAN CC, 1995, ANN ASSOC AM GEOGR, V85, P421, DOI 10.1111/j.1467-8306.1995.tb01807.x
+   FLORIDA R, 1995, FUTURES, V27, P527, DOI 10.1016/0016-3287(95)00021-N
+   Frank A., 1967, CAPITALISM UNDERDEVE
+   FRENCH H, 2005, NY TIMES        1209
+   Friedmann J., 1979, TERRITORY FUNCTION E
+   Friedmann J., 1966, REGIONAL DEV POLICY
+   FU Y, 2006, CHINA EC DAILY  0718
+   Glassman J, 2006, PROG HUM GEOG, V30, P608, DOI 10.1177/0309132506070172
+   *GPPLO, 1992, GUANGD 1990 RENK PUC
+   *GUAND STAT BUR, 2005, GUANGD STAT YB
+   *GUAND STAT BUR, 2003, GUANGD STAT YB
+   *GUAND STAT BUR, 2001, GUANGD STAT YB
+   *GUAND STAT BUR, 1991, GUANGD STAT YB
+   *GUAND STAT BUR, 2006, GUANGD STAT YB
+   *GUAND STAT BUR, 2004, GUANGD STAT YB
+   *GUAND STAT BUR, 2002, GUANGD STAT YB
+   HARVEY D, 1989, GEOGR ANN B, V71, P3, DOI 10.2307/490503
+   Harvey D, 2003, NEW IMPERIALISM
+   Hettne B., 1995, DEV THEORY THREE WOR
+   Hirschman A. O., 1958, STRATEGY EC DEV
+   Hsing YT, 2006, PAC REV, V19, P103, DOI 10.1080/09512740500417772
+   HSING YT, 2006, CHINA QUART, V187, P1
+   JOHNSON GE, 1999, HIST DICT GUANGZHOU
+   Krugman P., 1991, GEOGRAPHY TRADE
+   Krugman P., 1995, DEV GEOGRAPHY EC THE
+   Li X., 2005, GUANGZHOUSHI Z UNPUB
+   Lin G. C. S., 1997, RED CAPITALISM S CHI
+   Lin GCS, 2003, LAND USE POLICY, V20, P87, DOI 10.1016/S0264-8377(03)00007-3
+   Lin GCS, 2005, ANN ASSOC AM GEOGR, V95, P411, DOI 10.1111/j.1467-8306.2005.00467.x
+   Lin GCS, 2009, ROUTL CONTEMP CHINA, P1
+   Lin GCS, 2007, ROUT STUD CHINA TRAN, V29, P1
+   Lin GCS, 2002, URBAN GEOGR, V23, P57, DOI 10.2747/0272-3638.23.1.57
+   Lin GCS, 2001, PROF GEOGR, V53, P56, DOI 10.1111/0033-0124.00269
+   Lin GCS, 1999, INT J URBAN REGIONAL, V23, P670, DOI 10.1111/1468-2427.00222
+   LIN GCS, 2004, EURASIAN GEOGR ECON, V45, P8
+   Lin GCS, 2007, URBAN STUD, V44, P1827, DOI 10.1080/00420980701426673
+   Lin JJ, 2007, CEREB CORTEX, V17, P2007, DOI 10.1093/cercor/bhl109
+   Logan J, 1987, URBAN FORTUNES POLIT
+   Lu LC, 2007, TIJDSCHR ECON SOC GE, V98, P225, DOI 10.1111/j.1467-9663.2007.00393.x
+   LUCAS RE, 1988, J MONETARY ECON, V22, P3, DOI 10.1016/0304-3932(88)90168-7
+   Ma LJC, 2005, POLIT GEOGR, V24, P477, DOI 10.1016/j.polgeo.2004.10.005
+   MacLeod G, 2001, INT J URBAN REGIONAL, V25, P804, DOI 10.1111/1468-2427.00345
+   MALMBERG A, 1997, INTERDEPENDENT UNEVE, P119
+   Martin R, 1998, ECON GEOGR, V74, P201, DOI 10.2307/144374
+   *MIN FIN PEOPL REP, 1997, FIN YB CHIN
+   *MIN FIN PEOPL REP, 1993, FIN YB CHIN
+   *MIN FIN PEOPL REP, 2005, FIN YB CHIN
+   *MIN LAND RES PEOP, 2004, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 2002, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 2001, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 2005, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 1994, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 1997, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 2000, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 1996, CHIN LAND RES ALM
+   *MIN LAND RES PEOP, 2003, CHIN LAND RES ALM
+   Ministry of Land and Resource of the People's Republic of China, 1999, CHIN LAND RES ALM
+   Morgan K, 1997, REG STUD, V31, P491, DOI 10.1080/00343409750132289
+   Myrdal G., 1957, EC THEORY UNDERDEVEL
+   Perroux F, 1950, Q J ECON, V64, P89, DOI 10.2307/1881960
+   Ping X., 2006, WORKING PAPER SERIES
+   Plummer P, 2001, ENVIRON PLANN A, V33, P219, DOI 10.1068/a339a
+   Polanyi K., 1944, GREAT TRANSFORMATION
+   Population Census Office under the State Council Department of Population Social and Science and Technology Statistics National Bureau of Statistics of China, 2002, TAB 2000 POP CENS PE
+   PORTER M., 1998, COMPETITION
+   Porter Michael E, 1990, COMPETITIVE ADVANTAG
+   RICHARDSON H, 1969, ELEMENTS REGIONAL EC
+   ROMER PM, 1994, J ECON PERSPECT, V8, P3, DOI 10.1257/jep.8.1.3
+   ROSTOW WW, 1960, STAGE EC GROWTH NON
+   Saxenian A., 1994, REGIONAL ADVANTAGE C
+   Scott AJ, 2003, REG STUD, V37, P579, DOI 10.1080/0034340032000108697
+   Scott Allen J., 1998, REGIONS WORLD EC COM
+   Simmie J, 2003, REG STUD, V37, P607, DOI 10.1080/0034340032000108714
+   SKINNER GW, 1985, J ASIAN STUD, V44, P271, DOI 10.2307/2055923
+   Stone C. N, 1989, REGIME POLITICS GOVE
+   Storper M., 1997, REGIONAL WORLD TERRI
+   Walker PA, 2005, PROG HUM GEOG, V29, P73, DOI 10.1191/0309132505ph530pr
+   Walker PA, 2003, PROG HUM GEOG, V27, P7, DOI 10.1191/0309132503ph410oa
+   WANG WM, 2006, CHINA REAL ESTA 0806
+   Wei Y. D., 2000, REGIONAL DEV CHINA S
+   Wei YHD, 2007, ECON GEOGR, V83, P421
+   Wolfe DA, 2004, URBAN STUD, V41, P1071, DOI 10.1080/00420980410001675832
+   Wu F, 2007, URBAN DEV POST REFOR
+   Xu J, 2005, INT J URBAN REGIONAL, V29, P283, DOI 10.1111/j.1468-2427.2005.00585.x
+   Yeung G, 2002, REG STUD, V36, P627, DOI 10.1080/00343400220146786
+   Yeung HW, 2006, REG STUD ASS ANN C L
+   Yeung HWC, 2003, ECON GEOGR, V79, P107
+   Zhang JX, 2006, REG STUD, V40, P3, DOI 10.1080/00343400500449085
+   2006, 21 CENTURY EC N 0904
+NR 105
+TC 59
+Z9 60
+U1 4
+U2 35
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0034-3404
+EI 1360-0591
+J9 REG STUD
+JI Reg. Stud.
+PY 2009
+VL 43
+IS 3
+BP 429
+EP 447
+AR PII 910191589
+DI 10.1080/00343400802662625
+PG 19
+WC Economics; Environmental Studies; Geography; Regional & Urban Planning
+SC Business & Economics; Environmental Sciences & Ecology; Geography;
+   Public Administration
+GA 428CF
+UT WOS:000264824900006
+DA 2019-03-26
+ER
+
+PT J
+AU Bitner, A
+   Holyst, R
+   Fialkowski, M
+AF Bitner, Agnieszka
+   Holyst, Robert
+   Fialkowski, Marcin
+TI From complex structures to complex processes: Percolation theory applied
+   to the formation of a city
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+DE lattice theory; percolation
+ID URBAN-GROWTH PATTERNS; SIZE DISTRIBUTION; SCALING LAWS; POWER LAWS;
+   ZIPFS LAW; CRITICALITY; POPULATION; SYSTEMS; CITIES
+AB We investigate the morphology of the spatial pattern resulting from the division of land into the parcels that is observed in the centers of the cities, by analyzing the distribution function of the parcel areas. A simple model based on a two-dimensional bond percolation is employed to mimic the process of the formation of the city. The model reproduces the empirical distribution of the parcel areas that is found to exhibit the power law with the exponent tau=2.0. We argue that the city emerges from a collection of separated settlements in a process that can be described as a structural phase transition.
+C1 [Holyst, Robert; Fialkowski, Marcin] Polish Acad Sci, Inst Phys Chem, PL-01224 Warsaw, Poland.
+   [Bitner, Agnieszka] Univ Agr, Dept Appl Math, PL-30059 Krakow, Poland.
+   [Holyst, Robert] Cardinal Stefan Wyszynski Univ, Coll Sci, Dept Math & Nat Sci, PL-01815 Warsaw, Poland.
+RP Fialkowski, M (reprint author), Polish Acad Sci, Inst Phys Chem, Kasprzaka 44-25, PL-01224 Warsaw, Poland.
+EM fialkows@ichf.edu.pl
+FU European Regional Development Fund [TEAM/2008-2/2]; Foundation for
+   Polish Science
+FX This work was supported by the Ministry of Science and Higher Education
+   as a scientific project (2007-2010). This project was operated within
+   the Foundation for Polish Science Team Programme co-financed by the
+   European Regional Development Fund Grant No. TEAM/2008-2/2. R. H.
+   acknowledges support from the Foundation for Polish Science.
+CR Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   Cardillo A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066107
+   Cardy J, 2003, J STAT PHYS, V110, P1, DOI 10.1023/A:1021069209656
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   Fialkowski M, 2008, LANDSCAPE ECOL, V23, P1013, DOI 10.1007/s10980-008-9268-x
+   Gabaix Xavier, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   GLASS L, 1971, NATURE, V233, P67, DOI 10.1038/233067a0
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Manrubia SC, 1999, FRACTALS, V7, P1, DOI 10.1142/S0218348X99000025
+   Marsili M, 1998, PHYS REV LETT, V80, P2741, DOI 10.1103/PhysRevLett.80.2741
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   RAPAPORT DC, 1992, J STAT PHYS, V66, P679, DOI 10.1007/BF01060089
+   Reed WJ, 2002, J REGIONAL SCI, V42, P1, DOI 10.1111/1467-9787.00247
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Stauffer D., 1994, INTRO PERCOLATION TH
+   Volchenkov D, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.026104
+   WEAIRE D, 1984, CONTEMP PHYS, V25, P59, DOI 10.1080/00107518408210979
+   Zanette DH, 1997, PHYS REV LETT, V79, P523, DOI 10.1103/PhysRevLett.79.523
+   Zipf G. K., 1951, HUMAN BEHAV PRINCIPL
+NR 25
+TC 11
+Z9 11
+U1 0
+U2 9
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD SEP
+PY 2009
+VL 80
+IS 3
+AR 037102
+DI 10.1103/PhysRevE.80.037102
+PN 2
+PG 4
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 501LN
+UT WOS:000270383500085
+PM 19905248
+DA 2019-03-26
+ER
+
+PT J
+AU Ellis, EC
+   Neerchal, N
+   Peng, K
+   Xiao, HS
+   Wang, HQ
+   Yan, ZA
+   Li, SC
+   Wu, JX
+   Jiao, JG
+   Hua, OY
+   Cheng, X
+   Yang, LZ
+AF Ellis, Erle Christopher
+   Neerchal, Nagaraj
+   Peng, Kui
+   Xiao, Hong Sheng
+   Wang, Hongqing
+   Yan Zhuang
+   Li, Shou Cheng
+   Wu, Jun Xi
+   Jiao, Jia Guo
+   Hua Ouyang
+   Cheng, Xu
+   Yang, Lin Zhang
+TI Estimating Long-Term Changes in China's Village Landscapes
+SO ECOSYSTEMS
+LA English
+DT Article
+DE human dominated ecosystems; land-use and land-cover change; China;
+   anthropogenic biomes; ecological history; landscape ecology; up-scaling;
+   regional change; ecotope mapping; agriculture
+ID LAND-USE CHANGE; TEMPORAL PATTERNS; CARBON STORAGE; DESIGN; ENVIRONMENT;
+   ECOSYSTEMS; SCIENCE; FORESTS; SYSTEMS; IMAGERY
+AB Over the past 50 years, China's ancient agricultural village landscapes have been transformed by unprecedented social, technological, and ecological changes. Although these dense anthropogenic mosaics of croplands, settlements, and other used lands cover more than 2 million square kilometers across China, the nature of these changes and their environmental impacts remain poorly understood because their spatial scale is generally too small to measure accurately using conventional land-change methods. Here, we investigate the regional consequences of fine-scale landscape changes across China's village regions from 1945 to 2002 using high-resolution, field-validated ecological mapping of a regionally stratified sample of village landscapes at five sites across China, with uncertainties estimated using model-based resampling and Monte Carlo methods. From 1945 to 2002, built surface areas increased by about 7% (90% credible interval = 2-17%) across China's village regions, an increase equivalent to about three times the total urban area of China in 2000. Although this striking result is explained by a near doubling of already large village populations and by lower housing density per capita in rural areas, two unexpected changes were also observed: a 9% net increase (-4% to +21%) in regional cover by closed canopy trees and an 11% net decline (-30% to +3%) in annual crops. These major regional changes were driven primarily by intensive fine-scale land-transformation processes including tree planting and regrowth around new buildings, cropland abandonment, and by the adoption of perennial crops and improved forestry practices. Moreover, the fragmentation, heterogeneity, and complexity of village landscapes increased over time. By coupling regional sampling and upscaling with observations in the field, this study revealed that fine-scale land-change processes in anthropogenic landscapes have the potential for globally significant environmental consequences that are not anticipated, measured, or explained by conventional coarser resolution approaches to global and regional change measurement or modeling.
+C1 [Ellis, Erle Christopher; Wang, Hongqing] Univ Maryland, Dept Geog & Environm Sci, Baltimore, MD 21250 USA.
+   [Neerchal, Nagaraj; Yan Zhuang] Univ Maryland, Dept Math Stat, Baltimore, MD 21250 USA.
+   [Peng, Kui; Hua Ouyang] Chinese Acad Sci, Inst Geog Sci & Nat Resources Res, Beijing 100101, Peoples R China.
+   [Peng, Kui] Univ Sci & Technol Beijing, Met & Ecol Engn Sch, Beijing 100083, Peoples R China.
+   [Xiao, Hong Sheng] S China Agr Univ, Inst Trop & Subtrop Ecol, Guangzhou 510642, Guangdong, Peoples R China.
+   [Wang, Hongqing] Univ Louisiana, Inst Coastal Ecol & Engn, Lafayette, LA 70504 USA.
+   [Li, Shou Cheng] Sichuan Agr Univ, Agron Coll, Yaan 625014, Sichuan, Peoples R China.
+   [Wu, Jun Xi; Cheng, Xu] China Agr Univ, Dept Agron & Agroecol, Beijing 100094, Peoples R China.
+   [Jiao, Jia Guo; Yang, Lin Zhang] Chinese Acad Sci, Inst Soil Sci, Nanjing 210008, Peoples R China.
+RP Ellis, EC (reprint author), Univ Maryland, Dept Geog & Environm Sci, 1000 Hilltop Circle, Baltimore, MD 21250 USA.
+EM ece@umbc.edu
+RI ; Ellis, Erle/B-8264-2008
+OI Wang, Hongqing/0000-0002-2977-7732; Ellis, Erle/0000-0002-2006-3362
+CR Achard F, 2002, SCIENCE, V297, P999, DOI 10.1126/science.1070656
+   Binford MW, 2004, P NATL ACAD SCI USA, V101, P11517, DOI 10.1073/pnas.0402593101
+   Brewer KRW, 1999, INT STAT REV, V67, P35
+   Cochran W. G., 1977, SAMPLING TECHNIQUES
+   de Boor C., 1978, PRACTICAL GUIDE SPLI
+   EFRON B, 1991, SCIENCE, V253, P390, DOI 10.1126/science.253.5018.390
+   Ellis EC, 2006, INT J REMOTE SENS, V27, P4731, DOI 10.1080/01431160600735632
+   Ellis EC, 2006, REMOTE SENS ENVIRON, V100, P457, DOI 10.1016/j.rse.2005.11.002
+   Ellis EC, 2000, ECOL APPL, V10, P1057, DOI 10.2307/2641017
+   Ellis EC, 2004, GEOPH MONOG SERIES, V153, P303, DOI 10.1029/153GM23
+   Ellis EC, 2008, FRONT ECOL ENVIRON, V6, P439, DOI 10.1890/070062
+   Fang JY, 2001, SCIENCE, V292, P2320, DOI 10.1126/science.1058629
+   FISCHER G, 2000, FAO LAND WATER DIGIT, V11
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   Frolking S, 1999, GLOBAL ECOL BIOGEOGR, V8, P407, DOI 10.1046/j.1365-2699.1999.00157.x
+   Fylstra D, 1998, INTERFACES, V28, P29, DOI 10.1287/inte.28.5.29
+   GALLEGO FJ, 1994, SURV METHODOL, V20, P107
+   Gibbard S, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2005GL024550
+   Grimm NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2
+   HAN CR, 1989, J APPL ECOL, V26, P803
+   Heilig GK, 1997, POPUL DEV REV, V23, P139, DOI 10.2307/2137464
+   Houghton RA, 2002, SCI CHINA SER C, V45, P10
+   HOUGHTON RA, 2003, GLOBAL BIOGEOCHEM CY, V17
+   Kauppi PE, 2006, P NATL ACAD SCI USA, V103, P17574, DOI 10.1073/pnas.0608343103
+   Liu JG, 2005, NATURE, V435, P1179, DOI 10.1038/4351179a
+   Liu JG, 2007, SCIENCE, V317, P1513, DOI 10.1126/science.1144004
+   Liu JY, 2003, SCI CHINA SER D, V46, P373
+   Liu JY, 2005, REMOTE SENS ENVIRON, V98, P442, DOI 10.1016/j.rse.2005.08.012
+   Liu YX, 2005, J HIGH ENERGY PHYS
+   *NAT GEOSP INT AG, 2004, SHUTTL RAD TOP MISS
+   NOSS RF, 1990, CONSERV BIOL, V4, P355, DOI 10.1111/j.1523-1739.1990.tb00309.x
+   Ozdogan M, 2006, REMOTE SENS ENVIRON, V103, P203, DOI 10.1016/j.rse.2006.04.004
+   Rindfuss RR, 2004, P NATL ACAD SCI USA, V101, P13976, DOI 10.1073/pnas.0401545101
+   Schreuder HT, 2001, ENVIRON MONIT ASSESS, V66, P281, DOI 10.1023/A:1006316418865
+   Seto KC, 2005, LANDSCAPE ECOL, V20, P871, DOI 10.1007/s10980-005-5238-8
+   Tian YZ, 2005, ECOL MODEL, V189, P72, DOI 10.1016/j.ecolmodel.2005.03.012
+   Turner BL, 2007, P NATL ACAD SCI USA, V104, P20666, DOI 10.1073/pnas.0704119104
+   Verburg PH, 2000, ECOSYSTEMS, V3, P369, DOI 10.1007/s100210000033
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Wang H, 2005, INT J REMOTE SENS, V26, P1893, DOI 10.1080/01431160512331326684
+   Willmott C. J., 2001, TERRESTRIAL AIR TEMP
+   Wu JX, 2009, AGR ECOSYST ENVIRON, V129, P523, DOI 10.1016/j.agee.2008.11.008
+   Wulder MA, 2004, BIOSCIENCE, V54, P511, DOI 10.1641/0006-3568(2004)054[0511:HSRRSD]2.0.CO;2
+   YOUNG FW, 1981, PSYCHOMETRIKA, V46, P357, DOI 10.1007/BF02293796
+   YOUNG FW, 1976, PSYCHOMETRIKA, V41, P505, DOI 10.1007/BF02296972
+   Zhang JY, 2005, ADV ATMOS SCI, V22, P343
+   ZHANG W, 2000, J REMOTE SENS, V4, P304
+   Zhao JZ, 2003, J ENVIRON SCI-CHINA, V15, P520
+NR 48
+TC 20
+Z9 27
+U1 0
+U2 54
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1432-9840
+EI 1435-0629
+J9 ECOSYSTEMS
+JI Ecosystems
+PD FEB
+PY 2009
+VL 12
+IS 2
+BP 279
+EP 297
+DI 10.1007/s10021-008-9222-4
+PG 19
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 411SY
+UT WOS:000263672100007
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI Analogies between urban hierarchies and river networks: Fractals,
+   symmetry, and self-organized criticality
+SO CHAOS SOLITONS & FRACTALS
+LA English
+DT Article
+ID CELLULAR-AUTOMATA; LANDSCAPE EVOLUTION; CHANNEL NETWORKS; CITY
+   HIERARCHIES; BRAIDED RIVERS; CENTRAL PLACE; SYSTEMS; DYNAMICS; MODELS;
+   SIZE
+AB A pair of nonlinear programming models is built to explain the fractal structure of systems of cities and those of rivers. The hierarchies of cities can be characterized by a set of exponential functions, which is identical in form to the Horton-Strahler's laws of the river networks. Four power laws can be derived front these exponential functions. The evolution of both systems of cities and rivers are then represented as nonlinear dual programming models: to maximize information entropy subject to a certain energy use or to minimize energy dissipation subject to certain information capacity. The optimal solutions of the programming problems are just the exponential equations associated with scaling relations. By doing so, fractals and the self-organized criticality marked by the power laws are interpreted using the idea from the entropy-maximization principle, which gives further weight to the suggestion that optimality of the system as a whole defines the dynamical origin of fractal forms in both nature and society. (C) 2007 Elsevier Ltd. All rights reserved.
+C1 Peking Univ, Dept Geog, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Dept Geog, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [40771061, 40335051]
+FX The financial support from the National Natural Science Foundation of
+   China (Grant Nos. 40771061, 40335051) is gratefully acknowledged.
+CR Andersson C, 2002, ENVIRON PLANN B, V29, P841, DOI 10.1068/b12813
+   ARLINGHAUS SL, 1985, GEOGR ANN B, V67, P83, DOI 10.2307/490419
+   ARLINGHAUS SL, 1990, SOLSTICE ELECT J GEO, V1
+   Bak P, 1996, NATURE WORKS SCI SEL
+   Banavar Jr, 2001, J STAT PHYS, V104, P1, DOI 10.1023/A:1010397325029
+   BARBERA PL, 1989, WATER RESOUR RES, V25, P735
+   Batty M, 1998, ENVIRON PLANN A, V30, P1943, DOI 10.1068/a301943
+   Batty M, 1999, DISCRETE DYN NAT SOC, V3, P109, DOI 10.1155/S1026022699000151
+   BATTY M, 1992, GEOGR MAG, V64, P35
+   Batty M, 1994, FRACTAL CITIES GEOME
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   Bekenstein JD, 2003, SCI AM, V289, P58, DOI 10.1038/scientificamerican0803-58
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   Bossomaier T., 1998, PATTERNS SAND COMPUT
+   Brillouin L., 1956, SCI INFORM THEORY
+   Buchanan Mark, 2000, UBIQUITY SCI HIST WH
+   Chen Y, 2004, CHAOS SOLITON FRACT, V22, P793, DOI 10.1016/j.chaos.2004.02.059
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   Chen YG, 2006, ENVIRON PLANN B, V33, P345, DOI 10.1068/b31131
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   Chen YG, 2002, PROG NAT SCI, V12, P208
+   CHEN YG, CHAOS SOLIT IN PRESS
+   CHEN YG, 2001, ADV EARTH SCI, V16, P178, DOI DOI 10.3321/J.ISSN:1001-8166.2001.02.006
+   CURRY L, 1964, ANN ASSOC AM GEOGR, V54, P138, DOI 10.1111/j.1467-8306.1964.tb00479.x
+   Davis K, 1978, SYSTEMS CITIES, P92
+   DENDRINOS DS, 1994, CHAOS SOLITON FRACT, V4, P497, DOI 10.1016/0960-0779(94)90061-2
+   El Naschie MS, 2000, CHAOS SOLITON FRACT, V11, P1479
+   FOTHERINGHAM AS, 1989, PAP REG SCI ASSOC, V67, P55, DOI 10.1007/BF01934667
+   Foufoula-Georgiou E, 1998, WATER RESOUR RES, V34, P863, DOI 10.1029/98WR00216
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   Goldenfeld N, 1999, SCIENCE, V284, P87, DOI 10.1126/science.284.5411.87
+   Guida M, 2007, CHAOS SOLITON FRACT, V31, P527, DOI 10.1016/j.chaos.2006.02.007
+   Gutenberg B, 1954, SEISMICITY EARTH ASS
+   Hack J. T., 1957, US GEOL SURVEY PRO B, P45
+   HORTON RE, 1945, GEOL SOC AM BULL, V56, P275, DOI 10.1130/0016-7606(1945)56[275:EDOSAT]2.0.CO;2
+   Hung CP, 2005, FRACTALS, V13, P57, DOI 10.1142/S0218348X05002738
+   Karlinger MR, 1994, FRACTALS, V2, P557, DOI 10.1142/S0218348X94000788
+   KAUFFMAN SA, 1990, PHYSICA D, V42, P135, DOI 10.1016/0167-2789(90)90071-V
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Lam N. S. N., 1993, FRACTALS GEOGRAPHY
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Matsuba I, 2003, CHAOS SOLITON FRACT, V16, P151, DOI 10.1016/S0960-0779(02)00313-2
+   Nagatani T, 1993, FRACTALS, V1, P247, DOI 10.1142/S0218348X93000253
+   PIETRONERO L, 1995, CHAOS SOLITON FRACT, V6, P471, DOI 10.1016/0960-0779(95)80054-K
+   PILLIPS JD, 1998, EARTH SURFACE SYSTEM
+   PILLIPS JD, 1999, ANN AM GEOGR, V89, P466
+   Portugali J., 2000, SELF ORG CITY
+   Richards A, 2002, GEOGRAPHY, V87, P99
+   Rigon R, 1998, WATER RESOUR RES, V34, P3181, DOI 10.1029/98WR02287
+   Rinaldo A, 1996, PHYS REV LETT, V76, P3364, DOI 10.1103/PhysRevLett.76.3364
+   Rinaldo A, 1998, ANNU REV EARTH PL SC, V26, P289, DOI 10.1146/annurev.earth.26.1.289
+   Rodriguez-Iturbe  Ignacio, 2001, FRACTAL RIVER BASINS
+   RYABKO BY, 1986, PROBL PEREDACHI INF, V22, P16
+   Sanders L, 1997, ENVIRON PLANN B, V24, P287, DOI 10.1068/b240287
+   Sapozhnikov VB, 1996, WATER RESOUR RES, V32, P1109, DOI 10.1029/96WR00161
+   Sapozhnikov VB, 1999, WATER RESOUR RES, V35, P843, DOI 10.1029/98WR02744
+   SCHUMM SA, 1956, GEOL SOC AM BULL, V67, P597, DOI 10.1130/0016-7606(1956)67[597:EODSAS]2.0.CO;2
+   STEWART JQ, 1958, J REGIONAL SCI, V1, P99, DOI 10.1111/j.1467-9787.1958.tb01366.x
+   Stolum HH, 1996, SCIENCE, V271, P1710, DOI 10.1126/science.271.5256.1710
+   STOLUM HH, 1997, PHYS REV E, V56, P710
+   STRAHLER AN, 1952, GEOL SOC AM BULL, V63, P1117, DOI 10.1130/0016-7606(1952)63[1117:HAAOET]2.0.CO;2
+   TARBOTON DG, 1988, WATER RESOUR RES, V24, P1317, DOI 10.1029/WR024i008p01317
+   Troutman BM, 2005, FRACTALS, V13, P265, DOI 10.1142/S0218348X05002945
+   Turcotte D, 1997, FRACTALS CHAOS GEOLO
+   WHITE R, 1993, ENVIRON PLANN A, V25, P1175, DOI 10.1068/a251175
+   White R, 1997, ENVIRON PLANN B, V24, P323, DOI 10.1068/b240323
+   WHITE R, 1994, CHAOS SOLITON FRACT, V4, P563, DOI 10.1016/0960-0779(94)90066-3
+   WILLIAMS GP, 1997, CHAOS THEORY TAMED
+   Wilson A. G., 2000, COMPLEX SPATIAL SYST
+   Wilson AG, 1970, ENTROPY URBAN REGION
+   WOLDENBERG MJ, 1967, J REGIONAL SCI, V7, P129, DOI 10.1111/j.1467-9787.1967.tb01429.x
+   Woldenberg MJ, 1979, PHILOS GEOGRAPHY, P429
+   WOLDENBERG MJ, 1973, EKISTICS, V36, P282
+NR 74
+TC 10
+Z9 11
+U1 1
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-0779
+J9 CHAOS SOLITON FRACT
+JI Chaos Solitons Fractals
+PD MAY 30
+PY 2009
+VL 40
+IS 4
+BP 1766
+EP 1778
+DI 10.1016/j.chaos.2007.09.059
+PG 13
+WC Mathematics, Interdisciplinary Applications; Physics, Multidisciplinary;
+   Physics, Mathematical
+SC Mathematics; Physics
+GA 454AH
+UT WOS:000266653500019
+DA 2019-03-26
+ER

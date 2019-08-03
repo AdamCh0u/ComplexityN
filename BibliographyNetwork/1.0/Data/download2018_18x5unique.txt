@@ -1,0 +1,523 @@
+
+PT B
+AU Muratchaev, S
+   Bakhtin, A
+   Volkov, A
+   Ivanov, V
+   Baskakov, A
+AF Muratchaev, Said
+   Bakhtin, Alexander
+   Volkov, Alexey
+   Ivanov, Vadim
+   Baskakov, Aleksandr
+GP IEEE
+TI Modeling the Process of Network Scaling for LoRaWan Basen on NS3
+SO PROCEEDINGS OF THE 2018 IEEE CONFERENCE OF RUSSIAN YOUNG RESEARCHERS IN
+   ELECTRICAL AND ELECTRONIC ENGINEERING (EICONRUS)
+LA English
+DT Proceedings Paper
+CT IEEE Conference of Russian Young Researchers in Electrical and
+   Electronic Engineering (ElConRus)
+CY JAN 29-FEB 01, 2018
+CL Saint Petersburg Electrotechn Univ LETI, RUSSIA
+SP Natl Res Univ Elect Technol MIET
+HO Saint Petersburg Electrotechn Univ LETI
+DE Lora; Internet of things; energy efficient technology
+AB LoRa technology combines the LoRa modulation method in wireless networks LPWAN and the open LoRaWAN protocol. LoRa technology provides inter-machine interaction (M2M) for distances up to 15 km with minimal power consumption, which provides several years of battery life on one AA battery. The range of applications of this technology is huge: from home automation and Internet of things (IoT) to industry and Smart Cities. In this article, we will examine the efficiency of the LoRaWan protocol for a different number of devices.
+C1 [Muratchaev, Said; Bakhtin, Alexander; Volkov, Alexey; Ivanov, Vadim; Baskakov, Aleksandr] Natl Res Univ Elect Technol MIET, Moscow, Russia.
+RP Muratchaev, S (reprint author), Natl Res Univ Elect Technol MIET, Moscow, Russia.
+EM said.muratchaev@gmail.com; bah@miee.ru; leshvol@mail.ru;
+   vadimmivanovv@gmail.com; ab.zhelp@ya.ru
+CR Adelantado F, 2017, IEEE COMMUN MAG, V55, P34, DOI 10.1109/MCOM.2017.1600613
+   Alliance L, 2015, LORAWAN SPECIFICATIO
+   Alliance L. R., 2015, CISC VIS NETW IND GL
+   Kim D. Y., 2015, J PLATFORM TECHNOLOG, V3, P3
+   McGrew D, 2015, NIST LIGHTW CRYPT WO, V2015
+   Mikhaylov K., 2016, EUR WIR 2016 22 EUR, P1
+   Neumann P., 2016, P IEEE 12 INT C WIR, P1, DOI DOI 10.1109/WIMOB.2016.7763213
+   Taneja M, 2016, 2016 IEEE NETSOFT CONFERENCE AND WORKSHOPS (NETSOFT), P441, DOI 10.1109/NETSOFT.2016.7502482
+   Wixted AJ, 2016, IEEE SENSOR
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-4340-2
+PY 2018
+BP 1309
+EP 1312
+PG 4
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BL4HD
+UT WOS:000450337100310
+DA 2019-03-26
+ER
+
+PT J
+AU Oliveira, EA
+   Furtado, V
+   Andrade, JS
+   Makse, HA
+AF Oliveira, Erneson A.
+   Furtado, Vasco
+   Andrade, Jose S.
+   Makse, Hernan A.
+TI A worldwide model for boundaries of urban settlements
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE science of cities; urban settlements; city clustering algorithm; Zipf's
+   law
+ID CITY SIZE DISTRIBUTION; ZIPFS LAW; GROWTH PATTERNS; CITIES; POPULATION;
+   PERSPECTIVE
+AB The shape of urban settlements plays a fundamental role in their sustainable planning. Properly defining the boundaries of cities is challenging and remains an open problem in the science of cities. Here, we propose a worldwide model to define urban settlements beyond their administrative boundaries through a bottom-up approach that takes into account geographical biases intrinsically associated with most societies around the world, and reflected in their different regional growing dynamics. The generality of the model allows one to study the scaling laws of cities at all geographical levels: countries, continents and the entire world. Our definition of cities is robust and holds to one of the most famous results in social sciences: Zipf's law. According to our results, the largest cities in the world are not in line with what was recently reported by the United Nations. For example, we find that the largest city in the world is an agglomeration of several small settlements close to each other, connecting three large settlements: Alexandria, Cairo and Luxor. Our definition of cities opens the doors to the study of the economy of cities in a systematic way independently of arbitrary definitions that employ administrative boundaries.
+C1 [Oliveira, Erneson A.; Furtado, Vasco] Univ Fortaleza, Programa Pos Grad Informat Aplicada, BR-60811905 Fortaleza, Ceara, Brazil.
+   [Oliveira, Erneson A.] Univ Fortaleza, BR-60811905 Fortaleza, Ceara, Brazil.
+   [Oliveira, Erneson A.; Andrade, Jose S.; Makse, Hernan A.] Univ Fed Ceara, Dept Fis, Campus Pici, BR-60451970 Fortaleza, Ceara, Brazil.
+   [Makse, Hernan A.] CUNY City Coll, Levich Inst, New York, NY 10031 USA.
+   [Makse, Hernan A.] CUNY City Coll, Phys Dept, New York, NY 10031 USA.
+RP Oliveira, EA (reprint author), Univ Fortaleza, Programa Pos Grad Informat Aplicada, BR-60811905 Fortaleza, Ceara, Brazil.; Oliveira, EA (reprint author), Univ Fortaleza, BR-60811905 Fortaleza, Ceara, Brazil.; Oliveira, EA (reprint author), Univ Fed Ceara, Dept Fis, Campus Pici, BR-60451970 Fortaleza, Ceara, Brazil.
+EM erneson@fisica.ufc.br
+RI Universidade Federal do Ceara, Physics Department/J-4630-2016; Andrade,
+   Jose/C-5451-2013
+OI Universidade Federal do Ceara, Physics Department/0000-0002-9247-6780;
+   Andrade, Jose/0000-0002-5571-7610
+FU CNPq; CAPES; FUNCAP; NSF; ARL [W911NF-09-2-0053]; NIH-NIBIB
+   [1R01EB022720]; NIH-NCI [U54CA137788/U54CA132378]; NSF-IIS [1515022]
+FX We gratefully acknowledge funding by CNPq, CAPES, FUNCAP, NSF, ARL
+   Cooperative Agreement no. W911NF-09-2-0053 (the ARL Network Science
+   CTA), NIH-NIBIB 1R01EB022720, NIH-NCI U54CA137788/U54CA132378 and
+   NSF-IIS 1515022.
+CR Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arcaute E, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150691
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Batty M., 2013, NEW SCI CITIES
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Caminha C, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0171609
+   Center for International Earth Science Information Network (CIESIN)/Columbia University International Food Policy Research Institute (IFPRI) The World Bank Centro Internacional de Agricultura Tropical (CIAT)., 2011, GLOB RUR URB MAPP PR
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cordoba JC, 2008, J URBAN ECON, V63, P177, DOI 10.1016/j.jue.2007.01.005
+   Cottineau C, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183919
+   Duranton G, 2014, HBK ECON, P781, DOI 10.1016/B978-0-444-53540-5.00005-7
+   Fluschnik T, 2016, ISPRS INT J GEO-INF, V5, DOI 10.3390/ijgi5070110
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Frasco GF, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.011008
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gallos LK, 2012, SCI REP-UK, V2, DOI 10.1038/srep00454
+   Gallos LK, 2012, P NATL ACAD SCI USA, V109, P2825, DOI 10.1073/pnas.1106612109
+   Gehad A., 2003, DETERIORATED SOILS E
+   Giesen K, 2012, REV DEV, P107
+   Giesen K, 2011, J ECON GEOGR, V11, P667, DOI 10.1093/jeg/lbq019
+   Giesen K, 2010, J URBAN ECON, V68, P129, DOI 10.1016/j.jue.2010.03.007
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Hanley QS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149546
+   Hernando A, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0930
+   Ioannides Y, 2013, J URBAN ECON, V73, P18, DOI 10.1016/j.jue.2012.06.005
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   Li XT, 2015, PALGR COMMUN, V1, DOI 10.1057/palcomms.2015.17
+   Linux Kernel Organization, 2017, ZRAM COMPR RAM BAS B
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Masucci AP, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0763
+   Melo HPM, 2014, SCI REP-UK, V4, DOI 10.1038/srep06239
+   Murcio R, 2013, CHAOS SOLITON FRACT, V48, P22, DOI 10.1016/j.chaos.2013.01.001
+   National Aeronautics and Space Administration (NASA), 2016, VIS INFR IM RAD SUIT
+   Okuyama K, 1999, PHYSICA A, V269, P125, DOI 10.1016/S0378-4371(99)00086-2
+   Oliveira EA, 2018, DRYAD DIGITAL REPOSI, DOI [10.5061/dryad.968nq8n, DOI 10.5061/DRYAD.968NQ8N]
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Operti FG, 2018, PHYSICA A, V492, P1088, DOI 10.1016/j.physa.2017.11.039
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042114
+   Snyder J. P., 1987, MAP PROJECTIONS WORK
+   Sornette D, 1996, J GEOPHYS RES-SOL EA, V101, P13883, DOI 10.1029/96JB00177
+   United Nations, 2016, WORLDS CITIES 2016
+   Watanabe T, 2015, EC INTERFIRM NATWORK
+   West G. B, 2017, SCALE UNIVERSAL LAWS
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 55
+TC 0
+Z9 0
+U1 1
+U2 4
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD MAY
+PY 2018
+VL 5
+IS 5
+AR 180468
+DI 10.1098/rsos.180468
+PG 15
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GH5TA
+UT WOS:000433498000124
+PM 29892464
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Soule, EK
+   Maloney, SF
+   Guy, MC
+   Eissenberg, T
+   Fagan, P
+AF Soule, Eric K.
+   Maloney, Sarah F.
+   Guy, Mignonne C.
+   Eissenberg, Thomas
+   Fagan, Pebbles
+TI User-identified electronic cigarette behavioral strategies and device
+   characteristics for cigarette smoking reduction
+SO ADDICTIVE BEHAVIORS
+LA English
+DT Article
+DE Electronic cigarettes; Smoking cessation; Smoking reduction;
+   Perceptions; Concept mapping
+ID NICOTINE DELIVERY-SYSTEMS; PUFF TOPOGRAPHY; REASONS; CESSATION; TOBACCO;
+   PREVALENCE; ATTITUDES; ASSOCIATION; PERCEPTIONS; KNOWLEDGE
+AB Background: There is limited evidence on how cigarette smokers use electronic cigarettes (ECIGs) for smoking cessation and reduction. This study used concept mapping, a participatory mixed-methods research approach, to identify ECIG use behaviors and device characteristics perceived to be associated with cigarette smoking cessation or reduction.
+   Methods: Current ECIG users aged 18-64 were recruited from seven cities selected randomly from U.S. census tract regions. Participants were invited to complete concept mapping tasks: brainstorming, sorting and rating (n = 72). During brainstorming, participants generated statements in response to a focus prompt ("A SPECIFIC WAY I HAVE USED electronic cigarettes to reduce my cigarette smoking or a SPECIFIC WAY electronic cigarettes help me reduce my cigarette smoking is...") and then sorted and rated the statements. Multidimensional scaling and hierarchical cluster analyses were used to generate a cluster map that was interpreted by the research team.
+   Results: Eight thematic clusters were identified: Convenience, Perceived Health Effects, Ease of Use, Versatility and Variety, Advantages of ECIGs over Cigarettes, Cigarette Substitutability, Reducing Harms to Self and Others, and Social Benefits. Participants generated several statements that related to specific behavioral strategies used when using ECIGs for smoking reduction/complete switching behaviors such as making rapid transitions from smoking to ECIG use or using certain ECIG liquids or devices. Former smokers rated the Perceived Health Effects cluster and several behavioral strategy statements higher than current smokers.
+   Conclusions: These results help to identify ECIG use behaviors and characteristics perceived by ECIG users to aid in cigarette smoking cessation or reduction.
+C1 [Soule, Eric K.; Maloney, Sarah F.; Guy, Mignonne C.; Eissenberg, Thomas; Fagan, Pebbles] Virginia Commonwealth Univ, Ctr Study Tobacco Prod, Med Coll Virginia Campus, Richmond, VA 23298 USA.
+   [Soule, Eric K.; Maloney, Sarah F.; Eissenberg, Thomas] Virginia Commonwealth Univ, Dept Psychol, POB 980205, Richmond, VA 23298 USA.
+   [Guy, Mignonne C.] Virginia Commonwealth Univ, Dept African Amer Studies, POB 842509, Richmond, VA 23284 USA.
+   [Fagan, Pebbles] Univ Arkansas Med Sci, Fay W Boozman Coll Publ Hlth, Dept Hlth Behav & Hlth Educ, 4301 West Markham St 820, Little Rock, AR 72205 USA.
+RP Soule, EK (reprint author), Virginia Commonwealth Univ, Ctr Study Tobacco Prod, Dept Psychol, POB 980205, Richmond, VA 23298 USA.
+EM eksoule@vcu.edu; maloneysf@mymail.vcu.edu; mguy@vcu.edu;
+   teissenb@vcu.edu; pfagan@uams.edu
+OI Eissenberg, Thomas/0000-0002-8277-5437
+FU National Institute on Drug Abuse of the National Institutes of Health
+   [P50DA036105]; Center for Tobacco Products of the U.S. Food and Drug
+   Administration
+FX This research was supported by the National Institute on Drug Abuse of
+   the National Institutes of Health under Award Number P50DA036105 and the
+   Center for Tobacco Products of the U.S. Food and Drug Administration.
+   The content is solely the responsibility of the authors and does not
+   necessarily represent the official views of the National Institutes of
+   Health or the Food and Drug Administration.
+CR Adkison SE, 2013, AM J PREV MED, V44, P207, DOI 10.1016/j.amepre.2012.10.018
+   Adriaens K, 2014, INT J ENV RES PUB HE, V11, P11220, DOI 10.3390/ijerph111111220
+   Al-Delaimy WK, 2015, AM J PUBLIC HEALTH, V105, P1213, DOI 10.2105/AJPH.2014.302482
+   Berg CJ, 2015, NICOTINE TOB RES, V17, P245, DOI 10.1093/ntr/ntu103
+   Biener L, 2015, NICOTINE TOB RES, V17, P127, DOI 10.1093/ntr/ntu200
+   Breland A, 2017, ANN NY ACAD SCI, V1394, P5, DOI 10.1111/nyas.12977
+   Brown J, 2014, ADDICT BEHAV, V39, P1120, DOI 10.1016/j.addbeh.2014.03.009
+   Bullen C, 2013, LANCET, V382, P1629, DOI 10.1016/S0140-6736(13)61842-5
+   Caponnetto P, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066317
+   Davison M., 1983, MULTIDIMENSIONAL SCA
+   Glasser AM, 2017, AM J PREV MED, V52, pE33, DOI 10.1016/j.amepre.2016.10.036
+   Goniewicz ML, 2013, DRUG ALCOHOL REV, V32, P133, DOI 10.1111/j.1465-3362.2012.00512.x
+   Grana RA, 2014, JAMA INTERN MED, V174, P812, DOI 10.1001/jamainternmed.2014.187
+   Hiler M, 2017, EXP CLIN PSYCHOPHARM, V25, P380, DOI 10.1037/pha0000140
+   Hummel K, 2015, INT J DRUG POLICY, V26, P601, DOI 10.1016/j.drugpo.2014.12.009
+   Hyland A, 2017, TOB CONTROL, V26, P371, DOI 10.1136/tobaccocontrol-2016-052934
+   Inoue-Choi M, 2018, INT J CANCER, V142, P271, DOI 10.1002/ijc.31059
+   Kadimpati S, 2015, MAYO CLIN PROC, V90, P71, DOI 10.1016/j.mayocp.2014.11.005
+   Kalkhoran S, 2016, LANCET RESP MED, V4, P116, DOI 10.1016/S2213-2600(15)00521-4
+   Kane M, 2007, CONCEPT MAPPING PLAN
+   Kralikova E, 2013, CHEST, V144, P1609, DOI 10.1378/chest.12-2842
+   Kruskal J, 1978, MULTIDIMENSIONAL SCA
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P1, DOI 10.1007/BF02289565
+   Li J, 2015, ADDICT BEHAV, V45, P245, DOI 10.1016/j.addbeh.2015.02.006
+   Mark KS, 2015, J ADDICT MED, V9, P266, DOI 10.1097/ADM.0000000000000128
+   McMillen RC, 2015, NICOTINE TOB RES, V17, P1195, DOI 10.1093/ntr/ntu213
+   McRobbie H, 2014, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD010216.pub2
+   Pearson JL, 2015, NICOTINE TOB RES, V17, P1219, DOI 10.1093/ntr/ntu269
+   Pepper JK, 2014, INT J ENV RES PUB HE, V11, P10345, DOI 10.3390/ijerph111010345
+   Peters EN, 2015, AM J ADDICTION, V24, P233, DOI 10.1111/ajad.12206
+   Richardson A, 2014, AM J PUBLIC HEALTH, V104, P1437, DOI 10.2105/AJPH.2013.301804
+   Rosas SR, 2012, EVAL PROGRAM PLANN, V35, P236, DOI 10.1016/j.evalprogplan.2011.10.003
+   ROSENBERG S, 1975, MULTIVAR BEHAV RES, V10, P489, DOI 10.1207/s15327906mbr1004_7
+   Sharapova S. R., 2017, AM J PREV MED, P30532
+   Soule EK, 2017, PSYCHOL ADDICT BEHAV, V31, P343, DOI 10.1037/adb0000263
+   Soule EK, 2016, DRUG ALCOHOL DEPEN, V166, P168, DOI 10.1016/j.drugalcdep.2016.07.007
+   Soule EK, 2016, NICOTINE TOB RES, V18, P678, DOI 10.1093/ntr/ntv246
+   Soule EK, 2016, ADDICT BEHAV, V56, P41, DOI 10.1016/j.addbeh.2016.01.008
+   Stein MD, 2015, J SUBST ABUSE TREAT, V52, P73, DOI 10.1016/j.jsat.2014.11.002
+   Talih S, 2015, NICOTINE TOB RES, V17, P150, DOI 10.1093/ntr/ntu174
+   Trochim WMK, 2003, TOB CONTROL, V12, P140, DOI 10.1136/tc.12.2.140
+   TROCHIM WMK, 1989, EVAL PROGRAM PLANN, V12, P1, DOI 10.1016/0149-7189(89)90016-5
+   Tseng TY, 2016, NICOTINE TOB RES, V18, P1937, DOI 10.1093/ntr/ntw017
+   U. S. Department of Health and Human Services, 2016, CIG US AM YOUTH YOUN
+   Vickerman K. A., 2017, TOBACCO CONTROL
+   Vickerman KA, 2013, NICOTINE TOB RES, V15, P1787, DOI 10.1093/ntr/ntt061
+   Wagener TL, 2017, TOB CONTROL, V26, pE23, DOI 10.1136/tobaccocontrol-2016-053041
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   Weller S. C, 1988, SYSTEMATIC DATA COLL
+   Zhu SH, 2017, BMJ-BRIT MED J, V358, DOI 10.1136/bmj.j3262
+NR 50
+TC 1
+Z9 1
+U1 0
+U2 13
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0306-4603
+EI 1873-6327
+J9 ADDICT BEHAV
+JI Addict. Behav.
+PD APR
+PY 2018
+VL 79
+BP 93
+EP 101
+DI 10.1016/j.addbeh.2017.12.010
+PG 9
+WC Psychology, Clinical; Substance Abuse
+SC Psychology; Substance Abuse
+GA FW8IB
+UT WOS:000425574000015
+PM 29272713
+DA 2019-03-26
+ER
+
+PT J
+AU Tsobgny-Tsague, NF
+   Lontchi-Yimagou, E
+   Nana, ARN
+   Tankeu, AT
+   Katte, JC
+   Dehayem, MY
+   Bengondo, CM
+   Sobngwi, E
+AF Tsobgny-Tsague, Nadia-Flore
+   Lontchi-Yimagou, Eric
+   Nana, Arnel Redon Nana
+   Tankeu, Aurel T.
+   Katte, Jean Claude
+   Dehayem, Mesmin Y.
+   Bengondo, Charles Messanga
+   Sobngwi, Eugene
+TI Effects of nonsurgical periodontal treatment on glycated haemoglobin on
+   type 2 diabetes patients (PARODIA 1 study): a randomized controlled
+   trial in a sub-Saharan Africa population
+SO BMC ORAL HEALTH
+LA English
+DT Article
+DE Periodontitis; Diabetes; Non-surgical periodontal treatment; HbA1c;
+   Inflammation; Glycemic control
+ID METABOLIC-CONTROL; GLYCEMIC CONTROL; INFLAMMATORY MARKERS; SYSTEMIC
+   MARKERS; CLINICAL-TRIAL; MELLITUS; DISEASE; THERAPY; COMPLICATIONS;
+   UPDATE
+AB Background: There is a burglar association between diabetes and periodontitis. Many studies has shown that periodontitis treatment can help improving glycemic control in diabetes patients but little evidence of non-surgical treatment benefit is available in sub Saharan african diabetes patients. We aimed to assess the effects of non-surgical periodontal treatment (NSPT) of chronic periodontitis on glycaemic control in poorly controlled type 2 diabetes patients (T2D) in a sub-Saharan Africa urban setting.
+   Methods: A total of 34 poorly controlled T2D patients with chronic periodontitis aged 51.4 +/- 8.8 years (mean +/- SD), with known duration of diabetes of 55.5 +/- 42.6 months, and HbA1c of 9.3 +/- 1.3% were randomly assigned to two groups. The treatment group (Group 1, n = 17) received immediate ultrasonic scaling, scaling and root planning along with subgingival 10% povidone iodine irrigation, whereas the control group (Group 2, n = 17) was assigned to receive delayed periodontal treatment 3 months later. Pharmacological treatment was unchanged and all participants received the same standardized education session on diabetes management and dental hygiene. The primary outcome was the 3-month change in HbA1c from baseline. Plaque index (PI), gingival bleeding index (GBI), pocket depth (PD), clinical attachment loss (CAL) were also assessed prior to, at 6 and 12 weeks after enrolment.
+   Results: Two subjects in each group were excluded from the study. Data were analyzed on thirty patients (15 per group). Non-surgical periodontal treatment with education for better dental hygiene (group 1) significantly improved all periodontal parameters whereas education only (group 2) improved only the plaque index among all periodontal parameters. Immediate non-surgical periodontal treatment induced a reduction of HbA1c levels by 3.0 +/- 2.4 points from 9.7 +/- 1.6% at baseline to 6.7 +/- 2.0% 3 months after NSPT, (p < 0.001) but the change was not significant in group 2, from mean 8.9 +/- 0.9% at baseline vs 8.1 +/- 2.6% after 3 months (p = 0.24).
+   Conclusion: Non-surgical periodontal treatment markedly improved glycaemic control with an attributable reduction of 2.2 points of HbA1c in poorly controlled T2D patients in a sub Saharan setting.
+C1 [Tsobgny-Tsague, Nadia-Flore; Nana, Arnel Redon Nana; Bengondo, Charles Messanga] Univ Yaounde I, Fac Med & Biomed Sci, Dept Periodontol Oral & Maxillofacial Surg, Yaounde, Cameroon.
+   [Tsobgny-Tsague, Nadia-Flore; Nana, Arnel Redon Nana; Tankeu, Aurel T.; Dehayem, Mesmin Y.; Sobngwi, Eugene] Yaounde Cent Hosp, Natl Obes Ctr, Yaounde, Cameroon.
+   [Lontchi-Yimagou, Eric] Albert Einstein Coll Med, Diabet Res & Training Ctr, Dept Med, Div Endocrinol, Bronx, NY 10467 USA.
+   [Lontchi-Yimagou, Eric; Katte, Jean Claude; Sobngwi, Eugene] Univ Yaounde I, Biotechnol Ctr, Lab Mol Med & Metab, Yaounde, Cameroon.
+   [Tankeu, Aurel T.; Dehayem, Mesmin Y.; Sobngwi, Eugene] Univ Yaounde I, Fac Med & Biomed Sci, Dept Internal Med & Specialties, Yaounde, Cameroon.
+   [Katte, Jean Claude] Univ Yaounde I, Fac Med & Biomed Sci, Dept Publ Hlth, Yaounde, Cameroon.
+   [Bengondo, Charles Messanga] Yaounde Teaching Hosp, Dent Surg Unit, Yaounde, Cameroon.
+RP Sobngwi, E (reprint author), Yaounde Cent Hosp, Natl Obes Ctr, Yaounde, Cameroon.; Sobngwi, E (reprint author), Univ Yaounde I, Biotechnol Ctr, Lab Mol Med & Metab, Yaounde, Cameroon.; Sobngwi, E (reprint author), Univ Yaounde I, Fac Med & Biomed Sci, Dept Internal Med & Specialties, Yaounde, Cameroon.
+EM sobngwieugene@yahoo.fr
+CR AINAMO J, 1975, INT DENT J, V25, P229
+   Al-Mubarak S, 2002, J CLIN PERIODONTOL, V29, P295, DOI 10.1034/j.1600-051X.2002.290404.x
+   Almaghlouth AA, 2014, CLIN ORAL INVEST, V18, P2113, DOI 10.1007/s00784-014-1187-4
+   American Diabetes Association. Implications of the United Kingdom Prospective Diabetes Study, 2002, DIABETES CARE, V25, pS28, DOI 10.2337/diacare.25.2007.S28
+   Chen L, 2012, J PERIODONTOL, V83, P435, DOI 10.1902/jop.2011.110327
+   D'Aiuto F, 2005, J DENT RES, V84, P269, DOI 10.1177/154405910508400312
+   Demmer RT, 2010, DIABETES CARE, V33, P1037, DOI 10.2337/dc09-1778
+   Eke PI, 2012, J PERIODONTOL, V83, P1449, DOI 10.1902/jop.2012.110664
+   Engebretson SP, 2013, JAMA-J AM MED ASSOC, V310, P2523, DOI 10.1001/jama.2013.282431
+   Genco RJ, 2005, J PERIODONTOL, V76, P2075, DOI 10.1902/jop.2005.76.11-S.2075
+   Guariguata L, 2014, DIABETES RES CLIN PR, V103, P137, DOI 10.1016/j.diabres.2013.11.002
+   Hotamisligil GS, 2000, INT J OBESITY, V24, pS23, DOI 10.1038/sj.ijo.0801497
+   Hungund Shital, 2012, J Indian Soc Periodontol, V16, P16, DOI 10.4103/0972-124X.94598
+   IDF (International Diabetes Federation), 2013, IDF DIABETES ATLAS
+   Iwamoto Y, 2003, J PERIODONTOL, V74, P1231, DOI 10.1902/jop.2003.74.8.1231
+   KARJALAINEN KM, 1994, J PERIODONTOL, V65, P1067, DOI 10.1902/jop.1994.65.11.1067
+   Katagiri S, 2009, DIABETES RES CLIN PR, V83, P308, DOI 10.1016/j.diabres.2008.10.016
+   Khader YS, 2006, J DIABETES COMPLICAT, V20, P59, DOI 10.1016/j.jdiacomp.2005.05.006
+   Kiran M, 2005, J CLIN PERIODONTOL, V32, P266, DOI 10.1111/j.1600-051X.2005.00658.x
+   LOE H, 1993, DIABETES CARE, V16, P329, DOI 10.2337/diacare.16.1.329
+   Lontchi-Yimagou E, 2013, CURR DIABETES REP, V13, P435, DOI 10.1007/s11892-013-0375-y
+   Loos BG, 2005, J PERIODONTOL, V76, P2106, DOI 10.1902/jop.2005.76.11-S.2106
+   Loos BG, 2000, J PERIODONTOL, V71, P1528, DOI 10.1902/jop.2000.71.10.1528
+   Chavarry NGM, 2009, ORAL HLTH PREV DENT, V7, P107
+   Moeintaghavi A, 2012, AUST DENT J, V57, P31, DOI 10.1111/j.1834-7819.2011.01652.x
+   Munenaga Y, 2013, DIABETES RES CLIN PR, V100, P53, DOI 10.1016/j.diabres.2013.01.028
+   Navarro-Sanchez AB, 2007, J CLIN PERIODONTOL, V34, P835, DOI 10.1111/j.1600-051X.2007.01127
+   OLEARY TJ, 1972, J PERIODONTOL, V43, P38, DOI 10.1902/jop.1972.43.1.38
+   Peer N, 2014, DIABETES RES CLIN PR, V103, P197, DOI 10.1016/j.diabres.2013.11.006
+   Quirynen M, 2002, PERIODONTOL 2000, V28, P72, DOI 10.1034/j.1600-0757.2002.280104.x
+   Rateischak K, EPIDEMIOLOGY INDICES
+   Renvert S, 1998, J CLIN PERIODONTOL, V25, P153, DOI 10.1111/j.1600-051X.1998.tb02421.x
+   Salvi GE, 1997, J PERIODONTOL, V68, P127, DOI 10.1902/jop.1997.68.2.127
+   Salvi GE, 2008, J CLIN PERIODONTOL, V35, P398, DOI 10.1111/j.1600-051X.2008.01282.x
+   Saremi A, 2005, DIABETES CARE, V28, P27, DOI 10.2337/diacare.28.1.27
+   Sobngwi E, 2012, DIABETES RES CLIN PR, V95, P30, DOI 10.1016/j.diabres.2011.10.018
+   Stewart JE, 2001, J CLIN PERIODONTOL, V28, P306, DOI 10.1034/j.1600-051x.2001.028004306.x
+   Stratton IM, 2000, BRIT MED J, V321, P405, DOI 10.1136/bmj.321.7258.405
+   Sun WL, 2010, ARCH ORAL BIOL, V55, P970, DOI 10.1016/j.archoralbio.2010.08.001
+   Thorstensson H, 1996, J CLIN PERIODONTOL, V23, P194, DOI 10.1111/j.1600-051X.1996.tb02076.x
+   Tsai C, 2002, COMMUNITY DENT ORAL, V30, P182, DOI 10.1034/j.1600-0528.2002.300304.x
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 4
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6831
+J9 BMC ORAL HEALTH
+JI BMC Oral Health
+PD FEB 26
+PY 2018
+VL 18
+AR 28
+DI 10.1186/s12903-018-0479-5
+PG 8
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA FX8EO
+UT WOS:000426324200001
+PM 29482543
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU van Doren, D
+   Driessen, PPJ
+   Runhaar, H
+   Giezen, M
+AF van Doren, Didi
+   Driessen, Peter P. J.
+   Runhaar, Hens
+   Giezen, Mendel
+TI Scaling-up low-carbon urban initiatives: Towards a better understanding
+SO URBAN STUDIES
+LA English
+DT Article
+DE built environment; drivers; initiatives; low-carbon urban development;
+   scaling-up
+ID PROPERTY DEVELOPMENT; GRASS-ROOTS; BARRIERS; CITIES; BUILDINGS; CLIMATE;
+   OPPORTUNITIES; INCENTIVES; GOVERNANCE; POLICY
+AB In cities worldwide, low-carbon urban initiatives (LCUIs) are realised by pioneers that prove that climate mitigation strategies can be integrated in urban development trajectories. Practitioners and scholars reflect on the need to scale-up such initiatives in order to accelerate the transition to low-carbon cities. Yet, limited conceptual clarity exists regarding the meaning of the concept of scaling-up' and the factors driving this process. This article aims to contribute to practice and theory on low-carbon urban development by presenting a taxonomy on the concept of scaling-up. Moreover, an explanatory framework is presented consisting of factors expected to contribute to the impact and scaling-up of LCUIs. Two case studies were conducted to illustrate the explanatory framework. The studies are illustrative but suggest that the explanatory framework allows for a systematic understanding of how the impact of former initiatives can be explained, and how their scaling-up can be promoted.
+C1 [van Doren, Didi; Driessen, Peter P. J.; Runhaar, Hens] Univ Utrecht, Heidelberglaan 2, NL-3584 CS Utrecht, Netherlands.
+   [Runhaar, Hens] Wageningen Univ & Res Ctr, Wageningen, Netherlands.
+   [Giezen, Mendel] Univ Amsterdam, Amsterdam, Netherlands.
+RP van Doren, D (reprint author), Univ Utrecht, Heidelberglaan 2, NL-3584 CS Utrecht, Netherlands.
+EM d.vandoren@uu.nl
+RI Driessen, Peter/M-6751-2013; Giezen, Mendel/N-4545-2013
+OI Driessen, Peter/0000-0002-0724-6666; Giezen, Mendel/0000-0002-4210-1833
+FU Climate-KIC
+FX This paper is based on a PhD project by the first author, titled
+   Scaling-up low-carbon urban development initiatives, funded by
+   Climate-KIC.
+CR Agentschap NL, 2010, GUIDANCE SOLAR PROJE
+   Ang SL, 2008, PROP MANAG, V26, P331, DOI 10.1108/02637470810913478
+   Azevedo I, 2013, ENERG POLICY, V61, P894, DOI 10.1016/j.enpol.2013.06.065
+   Baek C, 2012, RENEW SUST ENERG REV, V16, P3939, DOI 10.1016/j.rser.2012.03.046
+   Bai XM, 2010, ENVIRON SCI POLICY, V13, P312, DOI 10.1016/j.envsci.2010.03.011
+   Beck F, 2004, ENCY ENERGY, V5, P365, DOI DOI 10.1016/B0-12-176480-X/00488-5
+   Betsill MM, 2006, GLOBAL GOV, V12, P141, DOI 10.1163/19426720-01202004
+   Betsill Michele M., 2001, LOCAL ENVIRON, V6, P393, DOI DOI 10.1080/13549830120091699
+   Bomberg E, 2012, ENERG POLICY, V51, P435, DOI 10.1016/j.enpol.2012.08.045
+   Brown HS, 2008, TECHNOL FORECAST SOC, V75, P107, DOI 10.1016/j.techfore.2006.05.014
+   Bulkeley H, 2009, REP PREP WORLD BANK
+   Bulkeley H, 2013, T I BRIT GEOGR, V38, P361, DOI 10.1111/j.1475-5661.2012.00535.x
+   Cash DW, 2006, ECOL SOC, V11
+   Chmutina K, 2014, SUSTAIN CITIES SOC, V10, P122, DOI 10.1016/j.scs.2013.07.001
+   COLLIER U, 1997, LOCAL ENV, V2, P39, DOI DOI 10.1080/13549839708725511
+   Cooke R, 2007, RENEW ENERG, V32, P2320, DOI 10.1016/j.renene.2006.12.004
+   Corfee-Morlot J, 2009, CITIES CLIMATE CHANG
+   Douthwaite B, 2003, AGR SYST, V78, P243, DOI 10.1016/S0308-521X(03)00128-8
+   Dowson M, 2012, ENERG POLICY, V50, P294, DOI 10.1016/j.enpol.2012.07.019
+   Farreny R, 2011, ENVIRON PLANN A, V43, P1118, DOI 10.1068/a43551
+   Feige A, 2011, BUILD RES INF, V39, P504, DOI 10.1080/09613218.2011.589788
+   Femenias P., 2004, THESIS
+   Geels F, 2011, ROUT STUD HUMAN GEOG, V35, P13
+   Gibson CC, 2000, ECOL ECON, V32, P217, DOI 10.1016/S0921-8009(99)00092-0
+   Gillespie S, 2004, SCALING COMMUNITY DR
+   GWL terrein, 2010, GWL TERR URB ECOAREA
+   Hoffman AJ, 2008, ORGAN ENVIRON, V21, P390, DOI 10.1177/1086026608326129
+   Hwang BG, 2012, SUSTAIN DEV, V20, P335, DOI 10.1002/sd.492
+   IIRR (International Institute of Rural Reconstruction), 2001, WORKSH HIGHL CGIAR N
+   Kemp R, 1998, TECHNOL ANAL STRATEG, V10, P175, DOI 10.1080/09537329808524310
+   Kickert Walter J. M., 1997, MANAGING COMPLEX NET, P1
+   Lawhon M, 2012, PROG HUM GEOG, V36, P354, DOI 10.1177/0309132511427960
+   Middlemiss L, 2010, ENERG POLICY, V38, P7559, DOI 10.1016/j.enpol.2009.07.003
+   Mulugetta Y, 2010, ENERG POLICY, V38, P7541, DOI 10.1016/j.enpol.2010.05.050
+   Noordhollands Dagblad, 2012, NOORDH          1203
+   North D. C, 1990, I I CHANGE EC PERFOR
+   Painuly JP, 2001, RENEW ENERG, V24, P73, DOI 10.1016/S0960-1481(00)00186-5
+   Perez-Lombard L, 2008, ENERG BUILDINGS, V40, P394, DOI 10.1016/j.enbuild.2007.03.007
+   Rogers E.M., 1995, DIFFUSION INNOVATION
+   Romero-Lankao P, 2012, EUR PLAN STUD, V20, P7, DOI 10.1080/09654313.2011.638496
+   Rotmans J, 2006, TRANSITION RENEWABLE, P15
+   Schimschar S, 2011, ENERG POLICY, V39, P3346, DOI 10.1016/j.enpol.2011.03.029
+   Schneider DC, 2001, BIOSCIENCE, V51, P545, DOI 10.1641/0006-3568(2001)051[0545:TROTCO]2.0.CO;2
+   Schreurs M. A., 2008, Journal of Environment & Development, V17, P343, DOI 10.1177/1070496508326432
+   Seyfang G, 2012, ENVIRON PLANN C, V30, P381, DOI 10.1068/c10222
+   Smith A, 2007, TECHNOL ANAL STRATEG, V19, P427, DOI 10.1080/09537320701403334
+   Smith N., 1990, UNEVEN DEV NATURE CA
+   Stiess I, 2013, J CLEAN PROD, V48, P250, DOI 10.1016/j.jclepro.2012.09.041
+   Sullivan R, 2013, CLIM POLICY, V13, P514, DOI 10.1080/14693062.2012.745113
+   Swyngedouw E, 1997, GEOGRAPHIES EC, P167
+   Tuominen P, 2012, ENERG BUILDINGS, V51, P48, DOI 10.1016/j.enbuild.2012.04.015
+   UNEP, 2009, BUILD CLIM CHANG
+   Urban F, 2013, LOW CARBON DEV KEY I, P3
+   UVIN P, 1995, WORLD DEV, V23, P927, DOI 10.1016/0305-750X(95)00028-B
+   Uvin P, 2000, WORLD DEV, V28, P1409, DOI 10.1016/S0305-750X(00)00037-1
+   van Bueren EM, 2002, ENVIRON PLANN B, V29, P75, DOI 10.1068/b2785
+   van der Waals JFM, 2003, ENVIRON PLANN C, V21, P411, DOI 10.1068/c0037j
+   Van Hall A, 2000, DEMONSTRATION PROJEC
+   Verhoef L, 2009, CITY SUN REFLECTIONS
+   Walker G, 2008, ENERG POLICY, V36, P4401, DOI 10.1016/j.enpol.2008.09.032
+   Williams J, 2013, ENVIRON PLANN B, V40, P683, DOI 10.1068/b38180
+   Williams K, 2007, SUSTAIN DEV, V15, P135, DOI 10.1002/sd.308
+   Woolthuis RK, 2013, J CLEAN PROD, V50, P91, DOI 10.1016/j.jclepro.2012.11.031
+   *WORLD BANK, 2003, 26031 WORLD BANK
+   Yao RM, 2005, RENEW ENERG, V30, P1973, DOI 10.1016/j.renene.2005.01.013
+   Zhang XL, 2011, BUILD ENVIRON, V46, P2153, DOI 10.1016/j.buildenv.2011.04.031
+NR 66
+TC 7
+Z9 7
+U1 4
+U2 7
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0042-0980
+EI 1360-063X
+J9 URBAN STUD
+JI Urban Stud.
+PD JAN
+PY 2018
+VL 55
+IS 1
+BP 175
+EP 194
+DI 10.1177/0042098016640456
+PG 20
+WC Environmental Studies; Urban Studies
+SC Environmental Sciences & Ecology; Urban Studies
+GA FQ5AS
+UT WOS:000418371200009
+DA 2019-03-26
+ER

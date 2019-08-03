@@ -1,0 +1,426 @@
+
+PT J
+AU Singh, A
+   Vainchtein, D
+   Weiss, H
+AF Singh, Abhinav
+   Vainchtein, Dmitri
+   Weiss, Howard
+TI Schelling's Segregation Model: Parameters, scaling, and aggregation
+SO DEMOGRAPHIC RESEARCH
+LA English
+DT Article
+ID NEIGHBORHOOD RACIAL SEGREGATION; RESIDENTIAL SEGREGATION; PREFERENCES;
+   DYNAMICS; DIMENSIONS; CONTEXT
+AB Thomas Schelling proposed a simple spatial model to illustrate how, even with relatively mild assumptions on each individual's nearest neighbor preferences, an integrated city would likely unravel to a segregated city, even if all individuals prefer integration. This agent based lattice model has become quite influential amongst social scientists, demographers, and economists. Aggregation relates to individuals coming together to form groups and Schelling equated global aggregation with segregation. Many authors assumed that the segregation which Schelling observed in simulations on very small cities persists for larger, realistic sized cities. We describe how different measures can be used to quantify the segregation and unlock its dependence on city size, disparate neighbor comfortability threshold, and population density. We develop highly efficient simulation algorithms and quantify aggregation in large cities based on thousands of trials. We identify distinct scales of global aggregation. In particular, we show that for the values of disparate neighbor comfortability threshold used by Schelling, the striking global aggregation Schelling observed is strictly a small city phenomenon. We also discover several scaling laws for the aggregation measures. Along the way we prove that in the Schelling model, in the process of evolution, the total perimeter of the interface between the different agents always decreases, which provides a useful analytical tool to study the evolution.
+C1 [Singh, Abhinav] Georgia Tech, Sch Phys, Atlanta, GA USA.
+   [Vainchtein, Dmitri] Space Res Inst, Moscow, Russia.
+   [Vainchtein, Dmitri] Temple Univ, Dept Mech Engn, Philadelphia, PA 19122 USA.
+   [Weiss, Howard] Georgia Tech, Sch Math, Atlanta, GA USA.
+   [Singh, Abhinav; Weiss, Howard] Georgia Tech, Ctr Nonlinear Sci, Atlanta, GA USA.
+RP Singh, A (reprint author), Georgia Tech, Sch Phys, Atlanta, GA USA.
+EM abhinav.singh@gatech.edu; dmitri@temple.edu; weiss@math.gatech.edu
+RI Vainchtein, Dmitri/A-6620-2012
+OI Singh, Abhinav/0000-0003-4608-1638
+CR BENENSON I, 2006, 9 AGILE INT C GEOGR
+   Bruch EE, 2006, AM J SOCIOL, V112, P667, DOI 10.1086/507856
+   *BUSINESSLOCATE, 2009, OCC RAT
+   CLARK WAV, 1992, DEMOGRAPHY, V29, P451, DOI 10.2307/2061828
+   CLARK WAV, 1991, DEMOGRAPHY, V28, P1, DOI 10.2307/2061333
+   CLARK WAV, 1986, POPUL RES POLICY REV, V5, P95, DOI 10.1007/BF00137176
+   Clark WAV, 2008, P NATL ACAD SCI USA, V105, P4109, DOI 10.1073/pnas.0708155105
+   Duncan OD, 1955, AM SOCIOL REV, V20, P210, DOI 10.2307/2088328
+   Fossett M, 2006, J MATH SOCIOL, V30, P185, DOI 10.1080/0022500500544052
+   Gerhold S, 2008, COMMUN NONLINEAR SCI, V13, P2236, DOI 10.1016/j.cnsns.2007.04.023
+   Laurie AJ, 2003, URBAN STUD, V40, P2687, DOI 10.1080/0042098032000146849
+   Massey DS, 1996, SOCIOL METHOD RES, V25, P172, DOI 10.1177/0049124196025002002
+   MASSEY DS, 1990, AM J SOCIOL, V96, P329, DOI 10.1086/229532
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   Oliphant T.E., 2006, GUIDE NUMPY
+   Pollicott M, 2001, ADV APPL MATH, V27, P17, DOI 10.1006/aama.2001.0722
+   PORTUGALI J, 1994, GEOGR ANAL, V26, P321, DOI 10.1111/j.1538-4632.1994.tb00329.x
+   Sander R., 2000, P WORKSH SIM SOC AG, P108
+   SCHELLING TC, 1969, AM ECON REV, V59, P488
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   SCHELLING TC, 1971, PUBLIC INTEREST, P61
+   Schelling TC, 2006, MICROMOTIVES MACROBE
+   SIMON B, 1993, STAT MECH LATTICE GA
+   SINGH A, 2009, SCHELLINGS SEGREGATI
+   Vinkovic D, 2006, P NATL ACAD SCI USA, V103, P19261, DOI 10.1073/pnas.0609371103
+   Weisbuch G., 2002, Complexity, V7, P55, DOI 10.1002/cplx.10031
+   Young H. P., 1998, INDIVIDUAL STRATEGY
+   Zhang JF, 2004, J ECON BEHAV ORGAN, V54, P533, DOI 10.1016/j.jebo.2003.03.005
+NR 28
+TC 20
+Z9 20
+U1 0
+U2 11
+PU MAX PLANCK INST DEMOGRAPHIC RESEARCH
+PI ROSTOCK
+PA KONRAD-ZUSE-STR1, ROSTOCK, 18057, GERMANY
+SN 1435-9871
+J9 DEMOGR RES
+JI Demogr. Res.
+PD SEP 15
+PY 2009
+VL 21
+BP 342
+EP +
+AR 12
+DI 10.4054/DemRes.2009.21.12
+PG 25
+WC Demography
+SC Demography
+GA 494DW
+UT WOS:000269791000001
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, YG
+   Lin, JY
+AF Chen, Yanguang
+   Lin, Jingyi
+TI Modeling the self-affine structure and optimization conditions of city
+   systems using the idea from fractals
+SO CHAOS SOLITONS & FRACTALS
+LA English
+DT Article
+ID CENTRAL PLACE; ORGANIZED CRITICALITY; CELLULAR-AUTOMATA; URBAN SYSTEMS;
+   SIZE; CITIES; FORM; HIERARCHIES; DYNAMICS; GEOMETRY
+AB This paper demonstrates self-affine fractal structure of city systems by means of theoretical and empirical analyses. A Cobb-Douglas-type function (C-D function) of city systems is derived from a general urban response equation, and the partial scaling exponent of the C-D function proved to be the fractal dimension reflecting the self-affine features of city systems. As a case, the self-affine fractal model is applied to the city of Zhengzhou, China, and the result is satisfying. A fractal parameter equation indicative of structural optimization conditions is then obtained from the C-D function. The equation suggests that priority should be given to the development of the urban element with a lower fractal dimension, or a higher partial scaling exponent, for utility maximization. Moreover, the fractal dimensions of different urban elements tend to become equivalent to each other in the long term. Accordingly, it is self-similar fractals rather than self-affine fractals that represent the optimal structure of city systems under ideal conditions. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Chen, Yanguang; Lin, Jingyi] Peking Univ, Coll Urban & Environm Sci, Dept Geog, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Coll Urban & Environm Sci, Dept Geog, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [40771061]
+FX The authors would like to acknowledge the financial supports from the
+   National Natural Science Foundation of China (Grant No. 40771061).
+CR ARLINGHAUS SL, 1989, GEOGR ANAL, V21, P103
+   ARLINGHAUS SL, 1985, GEOGR ANN B, V67, P83, DOI 10.2307/490419
+   BATTY M, 1992, URBAN STUD, V29, P1043, DOI 10.1080/00420989220081041
+   BATTY M, 1995, NATURE, V377, P574, DOI 10.1038/377574a0
+   BATTY M, 1989, ENVIRON PLANN A, V21, P1447, DOI 10.1068/a211447
+   Batty M, 1994, FRACTAL CITIES GEOME
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   Berry B., 1964, PAPERS REGIONAL SCI, V13, P149, DOI [10.1007/BF01942566, DOI 10.1007/BF01942566]
+   Bertalanffy L. von, 1968, GEN SYSTEM THEORY FD
+   Chen Y, 2004, CHAOS SOLITON FRACT, V22, P793, DOI 10.1016/j.chaos.2004.02.059
+   Chen Y., 2008, FRACTAL URBAN SYSTEM
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   Chen YG, 2006, ENVIRON PLANN B, V33, P345, DOI 10.1068/b31131
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   De Keersmaecker ML, 2003, GEOGR ANAL, V35, P310, DOI 10.1353/geo.2003.0014
+   DENDRINOS DS, 1994, CHAOS SOLITON FRACT, V4, P497, DOI 10.1016/0960-0779(94)90061-2
+   [冯健 Feng Jian], 2003, [地理学报, Acta Geographica Sinica], V58, P343
+   FOTHERINGHAM AS, 1989, PAP REG SCI ASSOC, V67, P55, DOI 10.1007/BF01934667
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   Jiang YW, 2006, RARE METALS, V25, P204, DOI 10.1016/S1001-0521(08)60082-0
+   Jullien R, 1987, AGGREGATION FRACTAL
+   Kaye B. K., 1989, RANDOM WALK FRACTAL
+   Knox P. L., 1998, HUMAN GEOGRAPHY PLAC
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Matsuba I, 2003, CHAOS SOLITON FRACT, V16, P151, DOI 10.1016/S0960-0779(02)00313-2
+   Naroll RS, 1956, GEN SYST, V1, P76
+   Smeed R.J., 1963, J I HIGHWAY ENG, V10, P5
+   TOBLER WR, 1970, ECON GEOGR, V46, P234, DOI 10.2307/143141
+   Vicsek T, 1989, FRACTAL GROWTH PHENO
+   WHITE R, 1993, ENVIRON PLANN A, V25, P1175, DOI 10.1068/a251175
+   WHITE R, 1994, CHAOS SOLITON FRACT, V4, P563, DOI 10.1016/0960-0779(94)90066-3
+NR 34
+TC 9
+Z9 11
+U1 1
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-0779
+J9 CHAOS SOLITON FRACT
+JI Chaos Solitons Fractals
+PD JUL 30
+PY 2009
+VL 41
+IS 2
+BP 615
+EP 629
+DI 10.1016/j.chaos.2008.02.035
+PG 15
+WC Mathematics, Interdisciplinary Applications; Physics, Multidisciplinary;
+   Physics, Mathematical
+SC Mathematics; Physics
+GA 462TO
+UT WOS:000267379700009
+DA 2019-03-26
+ER
+
+PT B
+AU Velagapudi, P
+   Wang, HD
+   Scerri, P
+   Lewis, M
+   Sycara, K
+AF Velagapudi, Prasanna
+   Wang, Huadong
+   Scerri, Paul
+   Lewis, Michael
+   Sycara, Katia
+GP IEEE
+TI Scaling Effects for Streaming Video vs. Static Panorama in Multirobot
+   Search
+SO 2009 IEEE-RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+LA English
+DT Proceedings Paper
+CT IEEE RSJ International Conference on Intelligent Robots and Systems
+CY OCT 10-15, 2009
+CL St Louis, MO
+SP IEEE Robot & Automat Soc (RA), Robot Soc Japan (RSJ), Soc Instruments & Control Engn, IEEE Ind Elect Soc, Inst Control, Robot & Syst Korea, ABB, Barrett Technol, Inc, Willow Garage, ROBOTIS, Aldebaran Robot
+ID RESCUE
+AB Camera guided teleoperation has long been the preferred mode for controlling remote robots with other modes such as asynchronous control only used when unavoidable. Because controlling multiple robots places additional demands on the operator we hypothesized that removing the forced pace for reviewing camera video might reduce workload and improve performance. In an earlier experiment participants operated four teams performing a simulated urban search and rescue (USAR) task using a conventional streaming video plus map interface or an experimental interface without streaming video but with the ability to store panoramic images on the map to be viewed at leisure. Operators were more accurate in marking victims on maps using the conventional interface; however, ancillary measures suggested that the asynchronous interface succeeded in reducing temporal demands for switching between robots. This raised the possibility that the asynchronous interface might perform better if teams were larger. In this experiment we evaluate the usefulness of asynchronous video for teams of 4, 8, or 12 robots. Operators in the two conditions were equally successful in finding victims, however, the streaming video maintained its advantage for accuracy in locating victims.
+C1 [Velagapudi, Prasanna; Scerri, Paul; Sycara, Katia] Carnegie Mellon Univ, Inst Robot, Pittsburgh, PA 15213 USA.
+   [Wang, Huadong; Lewis, Michael] Univ Pittsburgh, Sch Informat Sci, Pittsburgh, PA 15260 USA.
+RP Velagapudi, P (reprint author), Carnegie Mellon Univ, Inst Robot, Pittsburgh, PA 15213 USA.
+EM pkv@cs.cmu.edu; ml@sis.pitt.edu
+FU AFOSR [FA9550- 07-1-0039, FA FA9550-08-1-0356]
+FX This research has been sponsored in part by AFOSR FA9550- 07-1-0039 and
+   AFOSR FA FA9550-08-1-0356.
+CR Balakirsky S, 2007, J FIELD ROBOT, V24, P943, DOI 10.1002/rob.20212
+   BRUEMMER DJ, 2005, P HICSS KON HI
+   Casper J, 2003, IEEE T SYST MAN CY B, V33, P367, DOI 10.1109/TSMCB.2003.811794
+   DARKEN IR, 2001, P M I ITSEC ORL FL
+   Fiala M., 2005, P IEEE RSJ INT C INT, P3798
+   Fong T, 2001, AUTON ROBOT, V11, P9, DOI 10.1023/A:1011295826834
+   HUMPHREY C, 2007, P 2 ACM IEEE INT C H
+   Kubey R, 2002, SCI AM, V286, P74, DOI 10.1038/scientificamerican0202-74
+   Lewis M, 2007, IEEE T SYST MAN CY A, V37, P94, DOI 10.1109/TSMCA.2006.886353
+   Lewis M, 2007, J COGN ENG DECIS MAK, V1, P98, DOI 10.1177/155534340700100105
+   MCGOVERN DE, 1990, 900299 SAND SAND NAT
+   MILGRAM P, 1997, P INT C ART REAL TEL
+   MURPHY JR, 1995, P 1995 INT C SYST MA
+   NIELSEN CW, 2006, P 2006 HUM ROB INT C
+   PAUSCH R, 1993, IEEE S RES FRONT VIR
+   RICKS BW, 2004, INT C INT ROB SYST I
+   SCERRI P, RECENT DEV COOPERATI, P451
+   SHIROMA N, 2004, P 2004 IEEE INT WORK
+   TAN DS, 2001, CHI 2001 C HUM FACT
+   VELAGAPUDI P, 2008, P 1 INT C ADV COMP H
+   Volpe R, 1999, INT J ROBOT RES, V18, P669, DOI 10.1177/02783649922066493
+   WANG H, 2009, 2009 C HUM ROB INT H
+   WANG J, 2007, P 2007 INT C SYST MA
+   WANG J, 2007, 2007 HUM ROB INT C
+   Wickens CD, 1999, ENG PSYCHOL HUMAN PE
+   Wood SB, 2004, P SIGCHI C HUM FACT, P231
+   Yanco H., 2006, P PERMIS
+   YANCO HA, 2004, P IEEE C SYST MAN CY
+NR 28
+TC 5
+Z9 5
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-3803-7
+PY 2009
+BP 5874
+EP +
+DI 10.1109/IROS.2009.5354342
+PG 2
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Robotics
+SC Computer Science; Engineering; Robotics
+GA BSQ11
+UT WOS:000285372903121
+DA 2019-03-26
+ER
+
+PT J
+AU Arbesman, S
+   Kleinberg, JM
+   Strogatz, SH
+AF Arbesman, Samuel
+   Kleinberg, Jon M.
+   Strogatz, Steven H.
+TI Superlinear scaling for innovation in cities
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+DE econophysics; socio-economic effects
+ID NETWORKS
+AB Superlinear scaling in cities, which appears in sociological quantities such as economic productivity and creative output relative to urban population size, has been observed, but not been given a satisfactory theoretical explanation. Here we provide a network model for the superlinear relationship between population size and innovation found in cities, with a reasonable range for the exponent.
+C1 [Arbesman, Samuel] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+   [Kleinberg, Jon M.; Strogatz, Steven H.] Cornell Univ, Ithaca, NY 14853 USA.
+RP Arbesman, S (reprint author), Harvard Univ, Sch Med, Dept Hlth Care Policy, 180 Longwood Ave, Boston, MA 02115 USA.
+EM arbesman@hcp.med.harvard.edu; kleinber@cs.cornell.edu; shs7@cornell.edu
+RI Strogatz, Steven/A-1641-2014
+OI Strogatz, Steven/0000-0003-2923-3118; Arbesman,
+   Samuel/0000-0001-5851-6067
+FU National Science Foundation [DMS-0412757]
+FX We thank Geoffrey West, Luis Bettencourt, Stephen Ellner, and Adam
+   Siepel for helpful discussions. Research supported in part by National
+   Science Foundation Grant No. DMS-0412757 to S. H. S.
+CR Alexander C., 1988, DESIGN MODERNISM, P67
+   ARBESMAN S, 2008, THESIS CORNELL U
+   Aristotle, 1998, POLITICS
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BETTENCOURT MA, 2008, EUR PHYS J B, V63, P285
+   Clauset A, 2008, NATURE, V453, P98, DOI 10.1038/nature06830
+   COLLINS M, 2005, BOSTON GLOBE MAG
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Jacobs J., 2001, DEATH LIFE GREAT AM
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   KLEINBERG J, 2001, ADV NEURAL INFORM PR, V296, P431
+   Leskovec J, 2005, P 11 ACM SIGKDD INT, P177, DOI DOI 10.1145/1081870.1081893
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Whitfield J, 2006, BEAT HEART LIFE ENER
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 16
+TC 37
+Z9 37
+U1 1
+U2 12
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD JAN
+PY 2009
+VL 79
+IS 1
+AR 016115
+DI 10.1103/PhysRevE.79.016115
+PN 2
+PG 5
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 401XR
+UT WOS:000262976900021
+PM 19257115
+DA 2019-03-26
+ER
+
+PT J
+AU Jaffar, S
+   Amuron, B
+   Foster, S
+   Birungi, J
+   Levin, J
+   Namara, G
+   Nabiryo, C
+   Ndembi, N
+   Kyomuhangi, R
+   Opio, A
+   Bunnell, R
+   Tappero, JW
+   Mermin, J
+   Coutinho, A
+   Grosskurth, H
+AF Jaffar, Shabbar
+   Amuron, Barbara
+   Foster, Susan
+   Birungi, Josephine
+   Levin, Jonathan
+   Namara, Geoffrey
+   Nabiryo, Christine
+   Ndembi, Nicaise
+   Kyomuhangi, Rosette
+   Opio, Alex
+   Bunnell, Rebecca
+   Tappero, Jordan W.
+   Mermin, Jonathan
+   Coutinho, Alex
+   Grosskurth, Heiner
+CA Jinja Trial Team
+TI Rates of virological failure in patients treated in a home-based versus
+   a facility-based HIV-care model in Jinja, southeast Uganda: a
+   cluster-randomised equivalence trial
+SO LANCET
+LA English
+DT Article
+ID ACTIVE ANTIRETROVIRAL THERAPY; RESOURCE-LIMITED SETTINGS; SCALING-UP;
+   EARLY MORTALITY; FOLLOW-UP; 1ST YEAR; AFRICA; ADULTS; PROGRAM; OUTCOMES
+AB Background Identification of new ways to increase access to antiretroviral therapy in Africa is an urgent priority. We assessed whether home-based HIV care was as effective as was facility-based care.
+   Methods We undertook a cluster-randomised equivalence trial in Jinja, Uganda. 44 geographical areas in nine strata, defined according to ratio of urban and rural participants and distance from the clinic, were randomised to home-based or facility-based care by drawing sealed cards from a box. The trial was integrated into normal service delivery. All patients with WHO stage IV or late stage III disease or CD4-cell counts fewer than 200 cells per mu L who started antiretroviral therapy between Feb 15, 2005, and Dec 19, 2006, were eligible, apart from those living on islands. Follow-up continued until Jan 31, 2009. The primary endpoint was virological failure, defined as RNA more than 500 copies per mL after 6 months of treatment. The margin of equivalence was 9% (equivalence limits 0.69-1.45). Analyses were by intention to treat and adjusted for baseline CD4-cell count and study stratum. This trial is registered at http://isrctn.org, number ISRCTN 17184129.
+   Findings 859 patients (22 clusters) were randomly assigned to home and 594 (22 clusters) to facility care. During the first year, 93 (11%) receiving home care and 66 (11%) receiving facility care died, 29 (3%) receiving home and 36 (6%) receiving facility care withdrew, and 8 (1%) receiving home and 9 (2%) receiving facility care were lost to follow-up. 117 of 729 (16%) in home care had virological failure versus 80 of 483 (17%) in facility care: rates per 100 person-years were 8.19 (95% CI 6.84-9.82) for home and 8.67 (6.96-10.79) for facility care (rate ratio [RR] 1.04, 0.78-1.40; equivalence shown). Two patients from each group were immediately lost to follow-up. Mortality rates were similar between groups (0.95 [0.71-1.28]). 97 of 857 (11%) patients in home and 75 of 592 (13%) in facility care were admitted at least once (0.91, 0.64-1.28).
+   Interpretation This home-based HIV-care strategy is as effective as is a clinic-based strategy, and therefore could enable improved and equitable access to HIV treatment, especially in areas with poor infrastructure and access to clinic care.
+C1 [Jaffar, Shabbar; Grosskurth, Heiner] Univ London London Sch Hyg & Trop Med, Dept Epidemiol & Populat Hlth, London WC1E 7HT, England.
+   [Amuron, Barbara; Levin, Jonathan; Namara, Geoffrey; Ndembi, Nicaise; Kyomuhangi, Rosette; Grosskurth, Heiner] MRC, Uganda Virus Res Inst, Uganda Res Unit AIDS, Entebbe, Uganda.
+   [Foster, Susan] Boston Univ, Sch Publ Hlth, Dept Int Hlth, Boston, MA USA.
+   [Birungi, Josephine; Nabiryo, Christine] AIDS Support Org, Kampala, Uganda.
+   [Opio, Alex] Minist Hlth, Dept Natl Dis Control, Kampala, Uganda.
+   [Bunnell, Rebecca; Mermin, Jonathan] US Ctr Dis Control & Prevent, Nairobi, Kenya.
+   [Tappero, Jordan W.] US Ctr Dis Control & Prevent, Entebbe, Uganda.
+   [Coutinho, Alex] Mulago Hosp, Infect Dis Inst, Kampala, Uganda.
+RP Jaffar, S (reprint author), Univ London London Sch Hyg & Trop Med, Dept Epidemiol & Populat Hlth, Keppel St, London WC1E 7HT, England.
+EM shabbar.jaffar@lshtm.ac.uk
+RI Mermin, Jonathan/J-9847-2012
+OI Grosskurth, Heiner/0000-0001-9960-7280; Jaffar,
+   Shabbar/0000-0002-9615-1588
+FU NCHHSTP CDC HHS [IU01-PS000065-01, U01 PS000065]; Medical Research
+   Council [G0700837]
+CR Amuron Barbara, 2007, Open AIDS J, V1, P21, DOI 10.2174/1874613600701010021
+   Amuron B, 2009, BMC PUBLIC HEALTH, V9, DOI 10.1186/1471-2458-9-290
+   Bedelu M, 2007, J INFECT DIS S3, V196, P464
+   Braitstein P, 2006, LANCET, V367, P817
+   Coetzee D, 2004, AIDS, V18, P887, DOI [10.1097/01.aids.0000125925.87797.38, 10.1097/00002030-200406003-00006]
+   Etard JF, 2006, AIDS, V20, P1181, DOI 10.1097/01.aids.0000226959.87471.01
+   Ferradini L, 2006, LANCET, V367, P1335, DOI 10.1016/S0140-6736(06)68580-2
+   Fielding KL, 2008, BMC INFECT DIS, V8, DOI 10.1186/1471-2334-8-93
+   Gilks CF, 2006, LANCET, V368, P505, DOI 10.1016/S0140-6736(06)69158-7
+   Gimbel-Sherr Sarah O, 2007, Hum Resour Health, V5, P7, DOI 10.1186/1478-4491-5-7
+   Hardon AP, 2007, AIDS CARE, V19, P658, DOI 10.1080/09540120701244943
+   Harries AD, 2006, LANCET, V367, P1870, DOI 10.1016/S0140-6736(06)68809-0
+   Jaffar S, 1999, VACCINE, V18, P633, DOI 10.1016/S0264-410X(99)00277-7
+   Jaffar S, 2008, TROP MED INT HEALTH, V13, P795, DOI 10.1111/j.1365-3156.2008.02068.x
+   Laurent C, 2002, AIDS, V16, P1363, DOI 10.1097/00002030-200207050-00008
+   Lawn SD, 2008, AIDS, V22, P1897, DOI 10.1097/QAD.0b013e32830007cd
+   Marazzi MC, 2008, AIDS RES HUM RETROV, V24, P555, DOI 10.1089/aid.2007.0217
+   MEDINALARA A, 2009, 5 IAS C HIV PATH TRE
+   Mermin J, 2008, LANCET, V371, P752, DOI 10.1016/S0140-6736(08)60345-1
+   Miles K, 2007, B WORLD HEALTH ORGAN, V85, P555, DOI 10.2471/BLT.06.033076
+   Rosen S, 2007, PLOS MED, V4, P1691, DOI 10.1371/journal.pmed.0040298
+   Stringer JSA, 2006, JAMA-J AM MED ASSOC, V296, P782, DOI 10.1001/jama.296.7.782
+   Toure S, 2008, AIDS, V22, P873, DOI 10.1097/QAD.0b013e3282f768f8
+   *UN GEN ASS, 2006, 60262 UN GEN ASS
+   Ware NC, 2009, PLOS MED, V6, P39, DOI 10.1371/journal.pmed.1000011
+   Weidle PJ, 2006, LANCET, V368, P1587, DOI 10.1016/S0140-6736(06)69118-6
+   *WHO, 2008, UN ACC SCAL PRIOR HI
+   World Health Organization, INT STAT CLASS DIS R
+   World Health Organization, 2008, WORLD HLTH REP PRIM
+   World Health Organization (WHO), 2007, TREAT TRAIN RET TASK
+   Zachariah R, 2009, T ROY SOC TROP MED H, V103, P549, DOI 10.1016/j.trstmh.2008.09.019
+   2006, AIDS, V20, P1391
+NR 32
+TC 148
+Z9 149
+U1 0
+U2 8
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PD DEC-JAN
+PY 2009
+VL 374
+IS 9707
+BP 2080
+EP 2089
+DI 10.1016/S0140-6736(09)61674-3
+PG 10
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 537OO
+UT WOS:000273122900031
+PM 19939445
+OA Green Published
+DA 2019-03-26
+ER

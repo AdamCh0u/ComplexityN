@@ -1,0 +1,317 @@
+
+PT J
+AU Sagl, G
+   Loidl, M
+   Beinat, E
+AF Sagl, Guenther
+   Loidl, Martin
+   Beinat, Euro
+TI A Visual Analytics Approach for Extracting Spatio-Temporal Urban
+   Mobility Information from Mobile Network Traffic
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+DE visual analytics; urban dynamics; urban mobility; social sensing; big
+   data; collective human behavior; spatio-temporal patterns; geographic
+   information science
+AB In this paper we present a visual analytics approach for deriving spatio-temporal patterns of collective human mobility from a vast mobile network traffic data set. More than 88 million movements between pairs of radio cells-so-called handovers-served as a proxy for more than two months of mobility within four urban test areas in Northern Italy. In contrast to previous work, our approach relies entirely on visualization and mapping techniques, implemented in several software applications. We purposefully avoid statistical or probabilistic modeling and, nonetheless, reveal characteristic and exceptional mobility patterns. The results show, for example, surprising similarities and symmetries amongst the total mobility and people flows between the test areas. Moreover, the exceptional patterns detected can be associated to real-world events such as soccer matches. We conclude that the visual analytics approach presented can shed new light on large-scale collective urban mobility behavior and thus helps to better understand the "pulse" of dynamic urban systems.
+CR Andrienko G, 2007, INT J GEOGR INF SCI, V21, P839, DOI 10.1080/13658810701349011
+   Andrienko G, 2010, J LOCAT BASED SERV, V4, P200, DOI 10.1080/17489725.2010.532816
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Calabrese F, 2010, LECT NOTES COMPUT SC, V6030, P22, DOI 10.1007/978-3-642-12654-3_2
+   Di Lorenzo G, 2011, IEEE INT C INTELL TR, P1069, DOI 10.1109/ITSC.2011.6082974
+   Edwards C, 2010, NEW ELECTRON, V43, P19
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Goodchild MF, 2007, GEOJOURNAL, V69, P211, DOI 10.1007/s10708-007-9111-y
+   Keim D., 2010, MASTERING INFORM AGE, P182
+   Kohlhammer J, 2011, PROCEDIA COMPUT SCI, V7, P117, DOI 10.1016/j.procs.2011.12.035
+   Martino M, 2010, IUI 2010, P357
+   Mateos P., 2006, DYNAMIC MOBILE GIS I, P189
+   Phithakkitnukoon S, 2010, LECT NOTES COMPUT SC, V6219, P14, DOI 10.1007/978-3-642-14715-9_3
+   Rae A, 2009, COMPUT ENVIRON URBAN, V33, P161, DOI 10.1016/j.compenvurbsys.2009.01.007
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   Rubio A., 2010, P AAAI 2010 SPRING S
+   Sagl G., 2012, GI FORUM 2012 GEOVIS, P54
+   Sevtsuk A, 2010, J URBAN TECHNOL, V17, P41, DOI 10.1080/10630731003597322
+   Shoval N, 2007, ENVIRON PLANN B, V34, P191, DOI 10.1068/b3402com
+   Shoval N, 2007, ANN TOURISM RES, V34, P141, DOI 10.1016/j.annals.2006.07.007
+   Yihong Yuan, 2012, Geographic Information Science. Proceedings of the 7th International Conference (GIScience 2012), P354, DOI 10.1007/978-3-642-33024-7_26
+   Yuan YH, 2012, COMPUT ENVIRON URBAN, V36, P118, DOI 10.1016/j.compenvurbsys.2011.07.003
+NR 23
+TC 17
+Z9 17
+SN 2220-9964
+PD DEC
+PY 2012
+VL 1
+IS 3
+BP 256
+EP 271
+DI 10.3390/ijgi1030256
+UT WOS:000209465500003
+ER
+
+PT J
+AU Encarnacao, S
+   Gaudiano, M
+   Santos, FC
+   Tenedorio, JA
+   Pacheco, JM
+AF Encarnacao, Sara
+   Gaudiano, Marcos
+   Santos, Francisco C.
+   Tenedorio, Jose A.
+   Pacheco, Jorge M.
+TI Fractal cartography of urban areas
+SO SCIENTIFIC REPORTS
+ID GROWTH; DIMENSION; CITIES; SCALE; CITY
+AB In a world in which the pace of cities is increasing, prompt access to relevant information is crucial to the understanding and regulation of land use and its evolution in time. In spite of this, characterization and regulation of urban areas remains a complex process, requiring expert human intervention, analysis and judgment. Here we carry out a spatio-temporal fractal analysis of a metropolitan area, based on which we develop a model which generates a cartographic representation and classification of built-up areas, identifying (and even predicting) those areas requiring the most proximate planning and regulation. Furthermore, we show how different types of urban areas identified by the model co-evolve with the city, requiring policy regulation to be flexible and adaptive, acting just in time. The algorithmic implementation of the model is applicable to any built-up area and simple enough to pave the way for the automatic classification of urban areas worldwide.
+RI Santos, Francisco/D-2394-2010; Pacheco, Jorge/B-6116-2008
+OI Santos, Francisco/0000-0002-9103-2862; Pacheco,
+   Jorge/0000-0002-2579-8499; Encarnacao, Sara/0000-0001-8262-2927;
+   Tenedorio, Jose Antonio/0000-0003-3047-0807
+CR Alfasi N, 2004, CITIES, V21, P29, DOI 10.1016/j.cities.2003.10.007
+   ARLINGHAUS SL, 1985, GEOGR ANN B, V67, P83, DOI 10.2307/490419
+   Barnsley M.F., 1988, FRACTALS EVERYWHERE
+   Batty M, 1996, ENVIRON PLANN A, V28, P1745, DOI 10.1068/a281745
+   BATTY M, 1987, ENVIRON PLANN B, V14, P123, DOI 10.1068/b140123
+   Batty M., 2005, CITIES COMPLEXITY
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   BENGUIGUI L, 1995, ENVIRON PLANN A, V27, P1147, DOI 10.1068/a271147
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BUNDE A, 1994, FRACTALS SCI
+   CULLING WEH, 1987, EARTH SURF PROC LAND, V12, P369, DOI 10.1002/esp.3290120404
+   Falconer K., 2003, FRACTAL GEOMETRY MAT
+   Frankhauser Pierre, 2008, DYNAMICS COMPLEX URB, P213, DOI [10.1007/978-3-7908-1937-3_11, DOI 10.1007/978-3-7908-1937-3_11]
+   GILBERT LE, 1989, PURE APPL GEOPHYS, V131, P241, DOI 10.1007/BF00874489
+   Goodchild M, 1989, ACCURACY SPATIAL DAT
+   Goodchild M. F., 1980, MATH GEOL, V12, P85, DOI DOI 10.1007/BF01035241
+   GOODCHILD MF, 1987, ANN ASSOC AM GEOGR, V77, P265, DOI 10.1111/j.1467-8306.1987.tb00158.x
+   Hall P., 2002, CITIES TOMORROW INTE
+   Kibria M.S., 2009, 3D GEOINFORMATION SC, P379, DOI DOI 10.1007/978-3-540-87395-2_24
+   KLINKENBERG B, 1992, GEOMORPHOLOGY, V5, P5, DOI 10.1016/0169-555X(92)90055-S
+   KLINKENBERG B, 1992, EARTH SURF PROC LAND, V17, P217, DOI 10.1002/esp.3290170303
+   Lagarias A., 2007, CYBERGEO EUROPEAN J, V391
+   Lu YM, 2004, ENVIRON PLANN B, V31, P895, DOI 10.1068/b3163
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   MARK DM, 1984, J INT ASS MATH GEOL, V16, P671, DOI 10.1007/BF01033029
+   Pereira M., 2008, CAD METROPOLE, V20, P107
+   Portugali J., 2000, SELF ORG CITY
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   Pumain D, 2006, METHODS SER, V3, P1, DOI 10.1007/1-4020-4127-6
+   Rozenfeld H. D., 2011, AM ECON REV, V101, P560
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   STANLEY HE, 1988, NATURE, V335, P405, DOI 10.1038/335405a0
+   Tannier C., 2005, CYBERGEO EUROPEAN J, V307
+NR 36
+TC 12
+Z9 12
+SN 2045-2322
+PD JUL 24
+PY 2012
+VL 2
+AR 527
+DI 10.1038/srep00527
+UT WOS:000306710300002
+PM 22829981
+ER
+
+PT J
+AU Derrible, S
+AF Derrible, Sybil
+TI Network Centrality of Metro Systems
+SO PLOS ONE
+ID TRANSPORTATION NETWORKS; COMPLEX NETWORKS; PUBLIC TRANSPORT;
+   GRAPH-THEORY; BETWEENNESS; DYNAMICS; GROWTH; CITIES; SUBWAY
+AB Whilst being hailed as the remedy to the world's ills, cities will need to adapt in the 21st century. In particular, the role of public transport is likely to increase significantly, and new methods and technics to better plan transit systems are in dire need. This paper examines one fundamental aspect of transit: network centrality. By applying the notion of betweenness centrality to 28 worldwide metro systems, the main goal of this paper is to study the emergence of global trends in the evolution of centrality with network size and examine several individual systems in more detail. Betweenness was notably found to consistently become more evenly distributed with size (i.e. no "winner takes all") unlike other complex network properties. Two distinct regimes were also observed that are representative of their structure. Moreover, the share of betweenness was found to decrease in a power law with size (with exponent 1 for the average node), but the share of most central nodes decreases much slower than least central nodes (0.87 vs. 2.48). Finally the betweenness of individual stations in several systems were examined, which can be useful to locate stations where passengers can be redistributed to relieve pressure from overcrowded stations. Overall, this study offers significant insights that can help planners in their task to design the systems of tomorrow, and similar undertakings can easily be imagined to other urban infrastructure systems (e.g., electricity grid, water/wastewater system, etc.) to develop more sustainable cities.
+CR [Anonymous], 2011, NATL GEOGRAPHIC MAGA
+   APTA, 2011, POT IMP GAS PRIC INC
+   Banavar JR, 2000, PHYS REV LETT, V84, P4745, DOI 10.1103/PhysRevLett.84.4745
+   Barthelemy M, 2004, EUR PHYS J B, V38, P163, DOI 10.1140/epjb/e2004-00111-4
+   Batty M., 2005, CITIES COMPLEXITY UN
+   BAVELAS A, 1950, J ACOUST SOC AM, V22, P723
+   Bavelas A, 1948, HUM ORGAN, V7, P16
+   Berche B, 2009, EUR PHYS J B, V71, P125, DOI 10.1140/epjb/e2009-00291-3
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bilbao-Ubillos J, 2008, TRANSPORT RES A-POL, V42, P1098, DOI 10.1016/j.tra.2008.03.015
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Curtis C, 2011, TRANSPORT REV, V31, P179, DOI 10.1080/01441647.2010.525330
+   Danila B, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.046114
+   Derrible S, 2010, THESIS U TORONTO TOR
+   Derrible S, 2011, TRANSPORT REV, V31, P495, DOI 10.1080/01441647.2010.543709
+   Derrible S, 2010, TRANSP RES RECORD, P43, DOI 10.3141/2146-06
+   Derrible S, 2010, PHYSICA A, V389, P3678, DOI 10.1016/j.physa.2010.04.008
+   Derrible S, 2010, TRANSPORTATION, V37, P275, DOI 10.1007/s11116-009-9227-7
+   Derrible S, 2009, TRANSP RES RECORD, P17, DOI 10.3141/2112-03
+   Dickens M, 2011, 2011 PUBLIC TRANSPOR
+   Ferber C.V., 2009, EUR PHYS J B, V68, P261
+   Forkenbrock D. J., 2001, GUIDEBOOK ASSESSING
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Glaeser EL, 2010, J REGIONAL SCI, V50, P221, DOI 10.1111/j.1467-9787.2009.00635.x
+   Kennedy C. A., 2011, EVOLUTION GREAT WORL
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Laird JJ, 2005, TRANSP POLICY, V12, P537, DOI 10.1016/j.tranpol.2005.07.003
+   Latora V, 2002, PHYSICA A, V314, P109, DOI 10.1016/S0378-4371(02)01089-0
+   LEAVITT HJ, 1951, J ABNORM SOC PSYCH, V46, P38, DOI 10.1037/h0057189
+   Levinson D, 2006, TRANSPORT SCI, V40, P179, DOI 10.1287/trsc.1050.0132
+   Levinson D, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029721
+   Newman MEJ, 2006, STRUCTURE DYNAMICS N
+   Northridge ME, 2011, J URBAN HEALTH, V88, P582, DOI 10.1007/s11524-011-9558-5
+   Oosterhaven J., 2003, TRANSPORT PROJECTS P
+   Ovenden M., 2007, TRANSIT MAPS WORLD
+   Pandit A., 2011, POW SYST C EXP PSCE, P1, DOI [10.1109/PSCE.2011.5772587, DOI 10.1109/PSCE.2011.5772587]
+   Parthasarathi P, 2012, ENVIRON PLANN B, V39, P137, DOI 10.1068/b36139
+   Porta S, 2009, ENVIRON PLANN B, V36, P450, DOI 10.1068/b34098
+   Roth C., 2012, J ROYAL SOC INTERFAC
+   Samaniego H, 2008, J TRANSPORT LAND USE, V1
+   Sienkiewicz J., 2005, PHYS REV E, V72, P1
+   Smith M, 2010, NODEXL FREE OPEN NET
+   Strogatz Steven, 2009, NY TIMES
+   Taylor BW, 2007, INTRO MANAGEMENT SCI
+   TCRP, 1999, US PUBL TRANSP RED E
+   TED, 2012, TED PRIZ WISH BIG EN
+   Teodorovic D, 1986, TRANSPORTATION NETWO
+   von Ferber C, 2007, PHYSICA A, V380, P585, DOI 10.1016/j.physa.2007.02.101
+   Vuchic V.R., 1999, TRANSPORTATION LIVAB
+   Wang FH, 2011, J TRANSP GEOGR, V19, P285, DOI 10.1016/j.jtrangeo.2010.01.004
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Xie F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/j.1538-4632.2007.00707.x
+   Xie F, 2009, NETW SPAT ECON, V9, P291, DOI 10.1007/s11067-007-9037-4
+NR 56
+TC 45
+Z9 46
+SN 1932-6203
+PD JUL 6
+PY 2012
+VL 7
+IS 7
+AR e40575
+DI 10.1371/journal.pone.0040575
+UT WOS:000306461800108
+PM 22792373
+ER
+
+PT J
+AU Gomez-Lievano, A
+   Youn, H
+   Bettencourt, LMA
+AF Gomez-Lievano, Andres
+   Youn, HyeJin
+   Bettencourt, Luis M. A.
+TI The Statistics of Urban Scaling and Their Connection to Zipf's Law
+SO PLOS ONE
+ID DISTRIBUTIONS; CITIES
+AB Urban scaling relations characterizing how diverse properties of cities vary on average with their population size have recently been shown to be a general quantitative property of many urban systems around the world. However, in previous studies the statistics of urban indicators were not analyzed in detail, raising important questions about the full characterization of urban properties and how scaling relations may emerge in these larger contexts. Here, we build a self-consistent statistical framework that characterizes the joint probability distributions of urban indicators and city population sizes across an urban system. To develop this framework empirically we use one of the most granular and stochastic urban indicators available, specifically measuring homicides in cities of Brazil, Colombia and Mexico, three nations with high and fast changing rates of violent crime. We use these data to derive the conditional probability of the number of homicides per year given the population size of a city. To do this we use Bayes' rule together with the estimated conditional probability of city size given their number of homicides and the distribution of total homicides. We then show that scaling laws emerge as expectation values of these conditional statistics. Knowledge of these distributions implies, in turn, a relationship between scaling and population size distribution exponents that can be used to predict Zipf's exponent from urban indicator statistics. Our results also suggest how a general statistical theory of urban indicators may be constructed from the stochastic dynamics of social interaction processes in cities.
+OI Youn, Hyejin/0000-0002-6190-4412
+CR ANSCOMBE FJ, 1950, BIOMETRIKA, V37, P358
+   Bacon E, 1976, DESIGN OF CITIES
+   Baek SK, 2011, NEW J PHYS, V13, DOI 10.1088/1367-2630/13/4/043004
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Fischer C. S., 1984, URBAN EXPERIENCE
+   Flanagan W. G., 2010, URBAN SOCIOLOGY IMAG
+   Frank SA, 2009, J EVOLUTION BIOL, V22, P1563, DOI 10.1111/j.1420-9101.2009.01775.x
+   Fujita M., 2001, SPATIAL EC CITIES RE
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gaviria A, 2000, J DEV ECON, V61, P1, DOI 10.1016/S0304-3878(99)00059-0
+   Goertzel T, 2009, HOMICIDE STUD, V13, P398, DOI 10.1177/1088767909348711
+   Hall P, 1976, CITIES CIVILIZATION
+   MANDELBROT B, 1961, INFORM CONTROL, V4, P300, DOI 10.1016/S0019-9958(61)80025-9
+   MONTROLL EW, 1982, P NATL ACAD SCI USA, V79, P3380, DOI 10.1073/pnas.79.10.3380
+   Mumford L., 1961, CITY HIST ITS ORIGIN
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   O'Sullivan A, 2006, URBAN EC
+   Olver F. W. J., 2010, NIST HDB MATH FUNCTI
+   Pinker S., 2011, BETTER ANGELS OUR NA
+   REDNER S, 1990, AM J PHYS, V58, P267, DOI 10.1119/1.16497
+   Saichev A, 2010, LECT NOTES EC MATH S, V632
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Soo KT, 2005, REG SCI URBAN ECON, V35, P239, DOI 10.1016/j.regsciurbeco.2004.04.004
+   Sornette D., 2006, SPRINGER SERIES SYNE
+   The World Bank, 2011, CON SEC DEV REP
+   Valle-Jones D, 2011, VIOLENT DEATHS MEXIC
+   World Bank, 2011, VIOL CIT UND SUPP CO
+NR 30
+TC 39
+Z9 40
+SN 1932-6203
+PD JUL 18
+PY 2012
+VL 7
+IS 7
+AR e40393
+DI 10.1371/journal.pone.0040393
+UT WOS:000306548900023
+PM 22815745
+ER
+
+PT J
+AU Lyons, WB
+   Harmon, RS
+AF Lyons, W. Berry
+   Harmon, Russell S.
+TI WHY URBAN GEOCHEMISTRY?
+SO ELEMENTS
+DE megacities; urban geochemistry; hydrogeochemistry; urbanization;
+   sustainable cities; urban areas; population growth; geochemical change
+ID GREENLAND ICE; POLLUTION; WATER; MEGACITIES; LANDSCAPE; SEARCH; CITIES;
+   METALS
+AB In a very short period of time, the majority of the human population has become urban, and by 2050 two out of every three people in the world will live in cities. Urban areas are extremely important socially, economically, and culturally, but they also have a profound impact on the environment. In that context, this issue of Elements considers the geochemical significance of 21st-century cities and some of the unprecedented challenges they face.
+CR Albanese S, 2012, ELEMENTS, V8, P423, DOI 10.2113/gselements.8.6.423
+   Angel S, 2005, DYNAMICS GLOBAL URBA
+   Bain DJ, 2012, ELEMENTS, V8, P435, DOI 10.2113/gselements.8.6.435
+   Barber LB, 2006, ENVIRON SCI TECHNOL, V40, P475, DOI 10.1021/es051270q
+   Bellucci F, 2012, ELEMENTS, V8, P445, DOI 10.2113/gselements.8.6.445
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blacksmith Institute, 2007, ANN REPORT
+   BOYLE EA, 1994, GEOCHIM COSMOCHIM AC, V58, P3227, DOI 10.1016/0016-7037(94)90050-7
+   Crutzen PJ, 2002, NATURE, V415, P23, DOI 10.1038/415023a
+   Diamond Miriam L, 2007, Environ Sci Technol, V41, P3796, DOI 10.1021/es072542n
+   Dodman D., 2009, ANAL REV INTERACTION
+   Filippelli GM, 2012, ELEMENTS, V8, P439, DOI 10.2113/gselements.8.6.439
+   Grimm NB, 2008, FRONT ECOL ENVIRON, V6, P264, DOI 10.1890/070147
+   Hong SM, 1996, SCIENCE, V272, P246, DOI 10.1126/science.272.5259.246
+   Horner R.R., 1994, FUNDAMENTALS URBAN R
+   Hubacek K, 2009, J CLEAN PROD, V17, P1241, DOI 10.1016/j.jclepro.2009.03.011
+   Jartun M., 2011, FRONT GEOCHEM, P221
+   Kaushal SS, 2012, URBAN ECOSYST, V15, P409, DOI 10.1007/s11252-012-0226-7
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Klee RJ, 2004, ANNU REV ENV RESOUR, V29, P69, DOI 10.1146/annurev.energy.29.042203.104034
+   Kulaksiz S, 2011, APPL GEOCHEM, V26, P1877, DOI 10.1016/j.apgeochem.2011.06.011
+   Landsberg H, 1981, INT GEOPHYS SERIES, V28
+   Li XD, 2001, APPL GEOCHEM, V16, P1361, DOI 10.1016/S0883-2927(01)00045-2
+   Mage D, 1996, ATMOS ENVIRON, V30, P681, DOI 10.1016/1352-2310(95)00219-7
+   Mumford Lewis, 1956, MANS ROLE CHANGING F, P382
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Plumlee GS, 2012, ELEMENTS, V8, P451, DOI 10.2113/gselements.8.6.451
+   Radkau J., 2008, NATURE POWER GLOBAL
+   Rauch JN, 2009, GLOBAL BIOGEOCHEM CY, V23, DOI 10.1029/2008GB003376
+   Sanudo-Wilhelmy SA, 1999, ENVIRON SCI TECHNOL, V33, P3477, DOI 10.1021/es981130z
+   Scheyer JM, 2005, URBAN SOIL PRIMER
+   UN. United Nations. Department of Economic and Social Affairs, 2012, WORLD URB PROSP 2011
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Wong CSC, 2006, ENVIRON POLLUT, V142, P1, DOI 10.1016/j.envpol.2005.09.004
+   Wong CI, 2012, ELEMENTS, V8, P429, DOI 10.2113/gselements.8.6.429
+   World Bank, 2011, 660821 WORLD BANK
+NR 38
+TC 11
+Z9 11
+SN 1811-5209
+PD DEC
+PY 2012
+VL 8
+IS 6
+BP 417
+EP 422
+DI 10.2113/gselements.8.6.417
+UT WOS:000313232200004
+ER

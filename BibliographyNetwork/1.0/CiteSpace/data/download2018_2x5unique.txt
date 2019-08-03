@@ -1,0 +1,475 @@
+
+PT J
+AU Pande, S
+   Pandit, A
+AF Pande, Saket
+   Pandit, Akshay
+TI Hydro-social metabolism: scaling of birth rate with regional water use
+SO PALGRAVE COMMUNICATIONS
+ID POPULATION-GROWTH; FERTILITY; CITIES
+AB Population growth is often intuitively linked with proportionally higher use of fresh water resources. However, this implies that water use per capita does not change with population growth. We not only find that birth rates of regions are negatively related with its water use per capita (i.e., higher birth rate is associated with lower water use), but also that birth rates scale with the latter with a negative power. We use population and water with drawal data from 1950 to 2005 at irregular 5-year intervals; with virtual water content, virtual water trade and agricultural production data from 1960 to 2000 for the seven continents to investigate the scaling relationship and interpret it through the lens of metabolism theory. Our analysis reveals that the scaling exponent lies between -1/3 and -1/2. Deviations from the power relationship are observed for Europe and Africa, which are attributed to lower than expected and higher than expected birth rates, respectively. Europe's deviation from the average scaling relationship may be due to the higher rate of return on human capital in industrialized countries. But why Africa deviates, while other developing and developed regions follow the power relationship more closely, remains a puzzle.
+CR Alcott B, 2005, ECOL ECON, V54, P9, DOI 10.1016/j.ecolecon.2005.03.020
+   Alvarez IC, 2017, J STAT SOFTW, V76, P1, DOI 10.18637/jss.v076.i06
+   Banavar JR, 2002, P NATL ACAD SCI USA, V99, P10506, DOI 10.1073/pnas.162216899
+   Bauch CT, 2008, OIKOS, V117, P1824, DOI 10.1111/j.1600-0706.2008.17063.x
+   BECKER GS, 1990, J POLIT ECON, V98, pS12, DOI 10.1086/261723
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bonhommeau S, 2013, P NATL ACAD SCI USA, V110, P20617, DOI 10.1073/pnas.1305827110
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   Burger JR, 2017, SCI REP-UK, V7, DOI 10.1038/srep43869
+   Burger O, 2011, SCI REP-UK, V1, DOI 10.1038/srep00056
+   Chertow M. R., 2000, J IND ECOL, V4, P13, DOI DOI 10.1162/10881980052541927
+   Dalin C, 2012, P NATL ACAD SCI USA, V109, P5989, DOI 10.1073/pnas.1203176109
+   Fontana R, 2016, NUTRIENTS, V8, DOI 10.3390/nu8020087
+   Food and Agriculture Organization of the United Nations, 2011, GLOBAL FOOD LOSSES F
+   Hanasaki N, 2010, J HYDROL, V384, P232, DOI 10.1016/j.jhydrol.2009.09.028
+   Hoekstra A. Y, 2002, VALUE WATER RES REPO, V11
+   Hou C, 2008, SCIENCE, V322, P736, DOI 10.1126/science.1162302
+   Kaplan H, 1996, YEARB PHYS ANTHROPOL, V39, P91
+   Konar M, 2012, WATER RESOUR RES, V48, DOI 10.1029/2012WR011959
+   Konar M, 2011, WATER RESOUR RES, V47, DOI 10.1029/2010WR010307
+   Lim L. L., 2009, POPUL B U NATION COM, P203
+   Lutz W, 2006, INT J ANDROL, V29, P25, DOI 10.1111/j.1365-2605.2005.00639.x
+   Mace R, 2008, SCIENCE, V319, P764, DOI 10.1126/science.1153960
+   Moses ME, 2003, ECOL LETT, V6, P295, DOI 10.1046/j.1461-0248.2003.00446.x
+   Pande S, 2014, HYDROL EARTH SYST SC, V18, P3239, DOI 10.5194/hess-18-3239-2014
+   Savage VM, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000171
+   Savage VM, 2004, AM NAT, V163, P429, DOI 10.1086/381872
+   Sears L, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10051590
+   Shiklomanov IA, 2003, WORLD WATER RESOURCE
+   Srinivasan V., 2017, Water Security, V1, P12, DOI 10.1016/j.wasec.2017.03.001
+   United Nations Department of Economic and Social Affairs, 2018, STAT DIV NAT ACC MAI
+   United Nations Department of Economic and Social Affairs, 2015, POP DIV WORLD POP PR
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zimmer D, 2003, VIRT WAT TRAD P INT, V12
+NR 35
+TC 0
+Z9 0
+SN 2055-1045
+PD JUL 10
+PY 2018
+VL 4
+AR UNSP 85
+DI 10.1057/s41599-018-0140-6
+UT WOS:000441072700002
+ER
+
+PT J
+AU Oliveira, EA
+   Furtado, V
+   Andrade, JS
+   Makse, HA
+AF Oliveira, Erneson A.
+   Furtado, Vasco
+   Andrade, Jose S.
+   Makse, Hernan A.
+TI A worldwide model for boundaries of urban settlements
+SO ROYAL SOCIETY OPEN SCIENCE
+DE science of cities; urban settlements; city clustering algorithm; Zipf's
+   law
+ID CITY SIZE DISTRIBUTION; ZIPFS LAW; GROWTH PATTERNS; CITIES; POPULATION;
+   PERSPECTIVE
+AB The shape of urban settlements plays a fundamental role in their sustainable planning. Properly defining the boundaries of cities is challenging and remains an open problem in the science of cities. Here, we propose a worldwide model to define urban settlements beyond their administrative boundaries through a bottom-up approach that takes into account geographical biases intrinsically associated with most societies around the world, and reflected in their different regional growing dynamics. The generality of the model allows one to study the scaling laws of cities at all geographical levels: countries, continents and the entire world. Our definition of cities is robust and holds to one of the most famous results in social sciences: Zipf's law. According to our results, the largest cities in the world are not in line with what was recently reported by the United Nations. For example, we find that the largest city in the world is an agglomeration of several small settlements close to each other, connecting three large settlements: Alexandria, Cairo and Luxor. Our definition of cities opens the doors to the study of the economy of cities in a systematic way independently of arbitrary definitions that employ administrative boundaries.
+RI Universidade Federal do Ceara, Physics Department/J-4630-2016; Andrade,
+   Jose/C-5451-2013
+OI Universidade Federal do Ceara, Physics Department/0000-0002-9247-6780;
+   Andrade, Jose/0000-0002-5571-7610
+CR Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arcaute E, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150691
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Batty Michael., 2013, NEW SCI CITIES
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Caminha C, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0171609
+   Center for International Earth Science Information Network (CIESIN)/Columbia University International Food Policy Research Institute (IFPRI) The World Bank Centro Internacional de Agricultura Tropical (CIAT)., 2011, GLOB RUR URB MAPP PR
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cordoba JC, 2008, J URBAN ECON, V63, P177, DOI 10.1016/j.jue.2007.01.005
+   Cottineau C, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0183919
+   Duranton G, 2014, HBK ECON, P781, DOI 10.1016/B978-0-444-53540-5.00005-7
+   Fluschnik T, 2016, ISPRS INT J GEO-INF, V5, DOI 10.3390/ijgi5070110
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Frasco GF, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.011008
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gallos LK, 2012, SCI REP-UK, V2, DOI 10.1038/srep00454
+   Gallos LK, 2012, P NATL ACAD SCI USA, V109, P2825, DOI 10.1073/pnas.1106612109
+   Gehad A., 2003, DETERIORATED SOILS E
+   Giesen K, 2012, REV DEV, P107
+   Giesen K, 2011, J ECON GEOGR, V11, P667, DOI 10.1093/jeg/lbq019
+   Giesen K, 2010, J URBAN ECON, V68, P129, DOI 10.1016/j.jue.2010.03.007
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Hanley QS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149546
+   Hernando A, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0930
+   Ioannides Y, 2013, J URBAN ECON, V73, P18, DOI 10.1016/j.jue.2012.06.005
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   Li XT, 2015, PALGR COMMUN, V1, DOI 10.1057/palcomms.2015.17
+   Linux Kernel Organization, 2017, ZRAM COMPR RAM BAS B
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Masucci AP, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0763
+   Melo HPM, 2014, SCI REP-UK, V4, DOI 10.1038/srep06239
+   Murcio R, 2013, CHAOS SOLITON FRACT, V48, P22, DOI 10.1016/j.chaos.2013.01.001
+   National Aeronautics and Space Administration (NASA), 2016, VIS INFR IM RAD SUIT
+   Okuyama K, 1999, PHYSICA A, V269, P125, DOI 10.1016/S0378-4371(99)00086-2
+   Oliveira EA, 2018, DRYAD DIGITAL REPOSI, DOI [10.5061/dryad.968nq8n, DOI 10.5061/DRYAD.968NQ8N]
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Operti FG, 2018, PHYSICA A, V492, P1088, DOI 10.1016/j.physa.2017.11.039
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042114
+   Snyder J., 1987, MAP PROJECTIONS WORK
+   Sornette D, 1996, J GEOPHYS RES-SOL EA, V101, P13883, DOI 10.1029/96JB00177
+   United Nations, 2016, WORLDS CITIES 2016
+   Watanabe T, 2015, EC INTERFIRM NATWORK
+   West G. B., 2017, SCALE UNIVERSAL LAWS
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 55
+TC 0
+Z9 0
+SN 2054-5703
+PD MAY
+PY 2018
+VL 5
+IS 5
+AR 180468
+DI 10.1098/rsos.180468
+UT WOS:000433498000124
+PM 29892464
+ER
+
+PT J
+AU Bischof, S
+   Harth, A
+   Kampgen, B
+   Polleres, A
+   Schneider, P
+AF Bischof, Stefan
+   Harth, Andreas
+   Kaempgen, Benedikt
+   Polleres, Axel
+   Schneider, Patrik
+TI Enriching integrated statistical open city data by combining equational
+   knowledge and missing value imputation
+SO JOURNAL OF WEB SEMANTICS
+DE Open data; Linked Data; Data cleaning; Data integration
+ID WEB; ONTOLOGIES
+AB Several institutions collect statistical data about cities, regions, and countries for various purposes. Yet, while access to high quality and recent such data is both crucial for decision makers and a means for achieving transparency to the public, all too often such collections of data remain isolated and not reuseable, let alone comparable or properly integrated. In this paper we present the Open City Data Pipeline, a focused attempt to collect, integrate, and enrich statistical data collected at city level worldwide, and re-publish the resulting dataset in a re-useable manner as Linked Data. The main features of the Open City Data Pipeline are: (i) we integrate and cleanse data from several sources in a modular and extensible, always up-to-date fashion; (ii) we use both Machine Learning techniques and reasoning over equational background knowledge to enrich the data by imputing missing values, (iii) we assess the estimated accuracy of such imputations per indicator. Additionally, (iv) we make the integrated and enriched data, including links to external data sources, such as DBpedia, available both in a web browser interface and as machine-readable Linked Data, using standard vocabularies such as QB and PROV.
+   Apart from providing a contribution to the growing collection of data available as Linked Data, our enrichment process for missing values also contributes a novel methodology for combining rule-based inference about equational knowledge with inferences obtained from statistical Machine Learning approaches. While most existing works about inference in Linked Data have focused on ontological reasoning in RDFS and OWL, we believe that these complementary methods and particularly their combination could be fruitfully applied also in many other domains for integrating Statistical Linked Data, independent from our concrete use case of integrating city data. (C) 2017 Elsevier B.V. All rights reserved.
+OI Bischof, Stefan/0000-0001-9521-8907
+CR Ambite J. L., 2007, INT SEM WEB C ISWC
+   Angles R, 2008, LECT NOTES COMPUT SC, V5318, P114, DOI 10.1007/978-3-540-88564-1_8
+   Auer Soren, 2012, The Semantic Web. 11th International Semantic Web Conference (ISWC 2012). Proceedings, P1, DOI 10.1007/978-3-642-35173-0_1
+   Baader F., 2003, DESCRIPTION LOGIC HD
+   Berners-Lee T., 2006, LINKED DATA W3C DESI
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bevington PR, 2003, DATA REDUCTION ERROR
+   Bischof Stefan, 2013, Semantic Web: Semantics and Big Data. Proceedings of 10th International Conference (ESWC 2013): LNCS 7882, P335
+   Bischof S, 2015, LECT NOTES COMPUT SC, V9367, P57, DOI 10.1007/978-3-319-25010-6_4
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Buhi ER, 2008, AM J HEALTH BEHAV, V32, P83
+   Buswell S., 2004, TECHNICAL REPORT
+   Cal A., 2002, INF SYST, V29
+   Calvanese D., 2001, INT J COOPERATIVE IN, V10
+   Cyganiak Richard, 2014, W3C RECOMMENDATION
+   Diamantini C., 2013, ADV INF SYST ENG WOR
+   Eiter T, 2005, 19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05), P90
+   Esteves D, 2015, P 11 INT C SEM SYST, P169
+   Euzenat J., 2013, ONTOLOGY MATCHING
+   Fernandez J.D., 2015, P 11 INT C SEM SYST, P192
+   Gearon P, 2013, SPARQL 1 1 UPDATE
+   Genesereth M. R., 2010, DATA INTEGRATION REL
+   Golfarelli M, 2009, DATA WAREHOUSE DESIG
+   Gray J, 1997, DATA MIN KNOWL DISC, V1, P29, DOI 10.1023/A:1009726021843
+   Haarslev V., 2001, DESCRIPTION LOGICS, V49
+   Han J, 2012, MOR KAUF D, P1
+   Harris S., 2013, SPARQL 1 1 QUERY LAN
+   Hausenblas M., 2009, 6 EUR SEM WEB C ESWC
+   Hodgson R, 2011, QUDT QUANTITIES UNIT
+   Hogan A., 2011, EXPLOITING RDFS OWL
+   Hummer W., 2003, 6 ACM INT WORKSH DAT
+   Ianni G, 2009, J LOGIC COMPUT, V19, P671, DOI 10.1093/logcom/exn043
+   Isele R., 2010, 9 INT SEM WEB C ISWC
+   Kampgen B., 2012, 9 EXT SEM WEB C ESWC
+   Kampgen B., 2014, 19 INT C KNOWL ENG K
+   Kampgen B., 2013, 10 EXT SEM WEB C ESW
+   Kampgen B., 2013, USE CASES LESSONS DA
+   Kay M., 2010, XQUERY 1 0 XPATH 2 0
+   Keet CM, 2015, J WEB SEMANT, V32, P43, DOI 10.1016/j.websem.2015.01.001
+   Klein M, 2001, LINKOPING ELECT ARTI, V6
+   KU HH, 1966, J RES NBS C ENG INST, VC 70, P263, DOI 10.6028/jres.070C.025
+   Lange C, 2013, SEMANT WEB, V4, P119, DOI 10.3233/SW-2012-0059
+   Lebo T, 2013, PROV O PROV ONTOLOGY
+   Perez JM, 2008, IEEE T KNOWL DATA EN, V20, P940, DOI 10.1109/TKDE.2007.190746
+   Miner R. R., 2014, W3C RECOMMENDATION
+   Neumaier S, 2016, ACM J DATA INF QUAL, V8, DOI 10.1145/2964909
+   Neumaier S, 2016, LECT NOTES COMPUT SC, V9981, P428, DOI 10.1007/978-3-319-46523-4_26
+   Ngomo ACN, 2014, LECT NOTES COMPUT SC, V8714, P1, DOI 10.1007/978-3-319-10587-1_1
+   Niinimaki M, 2009, LECT NOTES COMPUT SC, V5530, P97
+   Office for Official Publications of the European Communities, 2004, URB AUD METH HDB
+   Parsia Bijan, 2012, OWL 2 WEB ONTOLOGY L
+   Paulheim H., 2012, P WIMS 2012, P31
+   Paulheim H, 2017, SEMANT WEB, V8, P489, DOI 10.3233/SW-160218
+   Perry M., 2012, OGC GEOSPARQL GEOGRA
+   Polleres Axel, 2013, Journal of Applied Non-Classical Logic, V23, P159, DOI 10.1080/11663081.2013.798992
+   Polleres A, 2007, LECT NOTES COMPUT SC, V4803, P878
+   Polleres Axel, 2013, LECT NOTES COMPUTER, V8067, P91, DOI DOI 10.1007/978-3-642-39784-4_2
+   Posada-Sanchez M., 2016, 12 INT C SEM SYST SE
+   R Development Core Team, 2009, R LANG ENV STAT COMP
+   Raskin RG, 2005, COMPUT GEOSCI-UK, V31, P1119, DOI 10.1016/j.cageo.2004.12.004
+   Rijgersberg H, 2013, SEMANT WEB, V4, P3, DOI 10.3233/SW-2012-0069
+   Roweis S, 1998, ADV NEUR IN, V10, P626
+   Sanchez VD, 2003, NEUROCOMPUTING, V55, P5, DOI 10.1016/S0925-2312(03)00373-4
+   Santos Henrique, 2017, The Semantic Web. 14th International Conference, ESWC 2017. Proceedings: LNCS 10250, P94, DOI 10.1007/978-3-319-58451-5_7
+   Schreiber G., 2014, RDF 1 1 PRIMER
+   Siegel M., 1994, ACM T DATABASE SYSTE, V19
+   Stadler C, 2012, SEMANT WEB, V3, P333, DOI 10.3233/SW-2011-0052
+   Stadtmuller S., 2013, 22 INT C WORLD WID W
+   Switzer F. S., 2008, HDB RES METHODS IND, P310
+   U. S. Census Bureau, 2007, COUNT CIT DAT BOOK 2
+   Vassiliadis P., 1999, ACM SIGMOD RECORD, V28
+   Vrandecic D., 2010, WEB SCI C WEBSCI
+   WEST M, 1985, J AM STAT ASSOC, V80, P73, DOI 10.2307/2288042
+   Witten IH, 2011, MOR KAUF D, P1
+NR 74
+TC 0
+Z9 0
+SN 1570-8268
+PD JAN
+PY 2018
+VL 48
+BP 22
+EP 47
+DI 10.1016/j.websem.2017.09.003
+UT WOS:000425886000002
+ER
+
+PT J
+AU de Paulo, AF
+   Porto, GS
+AF de Paulo, Alex Fabianne
+   Porto, Geciane Silveira
+TI Evolution of collaborative networks of solar energy applied technologies
+SO JOURNAL OF CLEANER PRODUCTION
+DE Technological cooperation; Technological routes; Emerging technology;
+   Sustainable technologies; Solar energy
+ID CITATION NETWORK; OPEN INNOVATION; TRAJECTORIES; DYNAMICS; SYSTEMS;
+   INFORMATION; INDUSTRY; CHINA; CELLS
+AB This paper proposes to investigate solar energy applied patents published between 1997 and 2016. Social network analysis and Source path link count algorithms are used as a method to identify technological routes, trends, promising technologies, cooperation features and market of interest protection. Patents applied in Japan and Brazil were selected for analysis of several issues, showing two different contexts when it comes to innovation in solar energy. Mapping these issues can support governments, companies and universities in their decisions about solar energy applications, offering data of the most relevant technologies, their owners, relationships between them, as well as their marketing protection coverage through reliable and replicable metrics. It enables an analysis of competitive technological intelligence and can be used as a tool for Research and Development manager's decisions of future efforts and investments. Companies can observe in a simplified way, standards that are followed and adopted by scientists and market, bringing a possibility of increasing technological knowledge that previously had only empirical means. In addition, government can understand the dynamic of solar energy development from/to their countries and propose policies that improve the use of solar energy in an urban environment. Also, a set of recommendations based on findings was provided to construct a better environment for cooperation and to improve solar energy researches. (C) 2018 Elsevier Ltd. All rights reserved.
+OI Porto, Geciane/0000-0001-6104-3627
+CR Abulrub A.H.G., 2012, PROCEDIA SOCIAL BEHA, V41, P130, DOI DOI 10.1016/J.SBSPR0.2012.04.017
+   Agrawal A, 2014, J URBAN ECON, V81, P149, DOI 10.1016/j.jue.2014.03.003
+   Althoff Philippi Daniela, 2015, Journal of Technology Management & Innovation, V10, P17, DOI 10.4067/S0718-27242015000100002
+   Altuntas S, 2015, TECHNOL FORECAST SOC, V96, P202, DOI 10.1016/j.techfore.2015.03.011
+   Bastian M., 2009, P INT AAAI C WEBL SO, V8, P361, DOI DOI 10.1136/QSHC.2004.010033
+   Batagelj V, 2013, SCIENTOMETRICS, V96, P845, DOI 10.1007/s11192-012-0940-1
+   Bekkers R, 2012, TECHNOL FORECAST SOC, V79, P1192, DOI 10.1016/j.techfore.2012.01.009
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   BID Banco Interamericano de Desarrollo, 2014, TOP 10 DEV NAT INV C
+   BLONDEL VD, 2008, J STAT MECH THEO OCT
+   Brandes U, 2001, J MATH SOCIOL, V25, P163, DOI 10.1080/0022250X.2001.9990249
+   Brin S, 1998, COMPUT NETWORKS ISDN, V30, P107, DOI 10.1016/S0169-7552(98)00110-X
+   Bruck P, 2016, SCIENTOMETRICS, V107, P1465, DOI 10.1007/s11192-016-1899-0
+   Carlino GA, 2007, J URBAN ECON, V61, P389, DOI 10.1016/j.jue.2006.08.003
+   Chen ZS, 2018, J CLEAN PROD, V174, P1274, DOI 10.1016/j.jclepro.2017.11.045
+   Chiesa V, 1998, R&D MANAGE, V28, P199, DOI 10.1111/1467-9310.00096
+   Choe H, 2013, RENEW SUST ENERG REV, V26, P492, DOI 10.1016/j.rser.2013.05.037
+   Choi C, 2007, TECHNOL FORECAST SOC, V74, P1296, DOI 10.1016/j.techfore.2006.10.008
+   Crescenzi R, 2007, J ECON GEOGR, V7, P673, DOI 10.1093/jeg/lbm030
+   Creutzig F, 2017, NAT ENERGY, V2, DOI 10.1038/nenergy.2017.140
+   de Paulo AF, 2017, ENERG POLICY, V108, P228, DOI 10.1016/j.enpol.2017.06.007
+   Devabhaktuni V, 2013, RENEW SUST ENERG REV, V19, P555, DOI 10.1016/j.rser.2012.11.024
+   Dincer F, 2011, RENEW SUST ENERG REV, V15, P713, DOI 10.1016/j.rser.2010.09.026
+   Dong BS, 2012, SCIENTOMETRICS, V93, P1101, DOI 10.1007/s11192-012-0730-9
+   Egghe L, 2002, SCIENTOMETRICS, V55, P349, DOI 10.1023/A:1020458612014
+   Etzkowitz H, 2000, RES POLICY, V29, P109, DOI 10.1016/S0048-7333(99)00055-4
+   Ferreira A, 2018, RENEW SUST ENERG REV, V81, P181, DOI 10.1016/j.rser.2017.06.102
+   Fontana R, 2009, ECON INNOV NEW TECH, V18, P311, DOI 10.1080/10438590801969073
+   Gallagher K. S., 2014, THE GLOBALIZATION OF, DOI [10.1086/681747, DOI 10.1086/681747]
+   Guo Y, 2010, R&D MANAGE, V40, P195, DOI 10.1111/j.1467-9310.2010.00600.x
+   Hall B. H., 2010, ROLE PATENT PROTECTI, DOI [10.3386/w16323, DOI 10.3386/W16323]
+   Holtz G., 2017, J CLEAN PROD, DOI [10.1016/jjclepro.2017.12.137, DOI 10.1016/JJCLEPRO.2017.12.137]
+   HUMMON NP, 1989, SOC NETWORKS, V11, P39, DOI 10.1016/0378-8733(89)90017-8
+   Ileperuma OA, 2013, MATER TECHNOL, V28, P65, DOI 10.1179/1753555712Y.0000000043
+   INSNA Internacional Network for Social Network Analysis, 2016, WHAT IS SOC NETW AN
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Laura L, 2003, LECT NOTES COMPUT SC, V2832, P703
+   Leonzio G, 2017, RENEW SUST ENERG REV, V70, P492, DOI 10.1016/j.rser.2016.11.117
+   Lewis NS, 2016, SCIENCE, V351, DOI 10.1126/science.aad1920
+   Li ZL, 2017, J CLEAN PROD, V162, P61, DOI 10.1016/j.jclepro.2017.05.200
+   Linares I. M. P., 2016, IAMOT 2016
+   Luan C., 2012, 17 INT C SCI TECHN I
+   Malinowski M, 2017, P IEEE, V105, P2132, DOI 10.1109/JPROC.2017.2690343
+   Momeni A, 2016, TECHNOL FORECAST SOC, V104, P16, DOI 10.1016/j.techfore.2015.12.003
+   Newman M, 2010, NETWORKS INTRO, DOI [10.1093/acprof:oso/9780199206650.001.0001, DOI 10.1093/ACPROF:OSO/9780199206650.001.0001]
+   OECD, 2011, OECD GREEN GROWTH ST, DOI [10.1787/22229523, DOI 10.1787/22229523]
+   Pereira CG, 2018, NAT BIOTECHNOL, V36, P585, DOI 10.1038/nbt.4178
+   Pereira CG, 2018, METHODS MOL BIOL, V1674, P15, DOI 10.1007/978-1-4939-7312-5_2
+   Petroni G, 2012, INT J HUM RESOUR MAN, V23, P147, DOI 10.1080/09585192.2011.561250
+   Porto G., 2012, ROTAS TECNOLOGICAS S
+   Porto G.S., 2014, EC BAIXO CARBONO IMP, V1, P59
+   Porto G. S., 2013, GESTAO INOVACAO EMPR, P364
+   Prabhakaran T, 2015, TECHNOL FORECAST SOC, V91, P124, DOI 10.1016/j.techfore.2014.02.003
+   Reuters T., 2016, TECHNICAL REPORT
+   Rotolo D, 2015, RES POLICY, V44, P1827, DOI 10.1016/j.respol.2015.06.006
+   Salter AJ, 2001, RES POLICY, V30, P509, DOI 10.1016/S0048-7333(00)00091-3
+   Sternitzke C, 2008, WORLD PAT INF, V30, P115, DOI 10.1016/j.wpi.2007.08.003
+   Verborgh R, 2013, USING OPENREFINE
+   Verspagen B, 2007, ADV COMPLEX SYST, V10, P93, DOI 10.1142/S0219525907000945
+   Villarreal O, 2015, J ENG TECHNOL MANAGE, V35, P71, DOI 10.1016/j.jengtecman.2014.10.002
+   Wasserman S., 1994, SOCIAL NETWORK ANAL, V8, P857, DOI [10.1017/CB09780511815478, DOI 10.1017/CB09780511815478, 10.1017/CBO9780511815478]
+   WIPO, 2017, INT PAT CLASS IPC
+   Zou HY, 2017, RENEW SUST ENERG REV, V69, P197, DOI 10.1016/j.rser.2016.11.053
+NR 64
+TC 1
+Z9 1
+SN 0959-6526
+EI 1879-1786
+PD DEC 10
+PY 2018
+VL 204
+BP 310
+EP 320
+DI 10.1016/j.jclepro.2018.08.344
+UT WOS:000448092500028
+ER
+
+PT J
+AU Wiedenhofer, D
+   Smetschka, B
+   Akenji, L
+   Jalas, M
+   Haberl, H
+AF Wiedenhofer, Dominik
+   Smetschka, Barbara
+   Akenji, Lewis
+   Jalas, Mikko
+   Haberl, Helmut
+TI Household time use, carbon footprints, and urban form: a review of the
+   potential contributions of everyday living to the 1.5 degrees C climate
+   target
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+ID GREENHOUSE-GAS EMISSIONS; PRO-ENVIRONMENTAL BEHAVIOR; CO2 EMISSIONS;
+   SOCIOECONOMIC-FACTORS; ENERGY DEMAND; SUSTAINABLE CONSUMPTION;
+   MULTIVARIATE-ANALYSIS; ACTIVITY PATTERNS; SOCIAL PRACTICES; UK
+   HOUSEHOLDS
+AB The 1.5 degrees C mitigation challenge for urban areas goes far beyond decarbonizing the cities' energy supply and needs to enable and incentivize carbon-free everyday living. Reviewing recent literature, we find that dense and mixed urban form enables lower direct emissions from mobility and housing, while income is the major driver of total household carbon footprints; importantly, these effects are not linear. The available urban infrastructure, services and societal arrangements, for example on work, all influence how households use their time, which goods and services they consume in everyday life and their subsequent carbon footprints and potential rebound effects. We conclude that changes in household consumption, time use and urban form are crucial for a 1.5 degrees C future. We further identify a range of issues for which a time use perspective could open up new avenues for research and policy.
+OI Smetschka, Barbara/0000-0002-7609-984X; Akenji,
+   Lewis/0000-0003-4422-8819; Wiedenhofer, Dominik/0000-0001-7418-3477
+CR Abrahamse W, 2009, J ECON PSYCHOL, V30, P711, DOI 10.1016/j.joep.2009.05.006
+   Akenji L, 2016, J CLEAN PROD, V132, P1, DOI 10.1016/j.jclepro.2016.03.071
+   Akenji L, 2014, J CLEAN PROD, V63, P13, DOI 10.1016/j.jclepro.2013.05.022
+   Ala-Mantila S, 2016, J CLEAN PROD, V135, P356, DOI 10.1016/j.jclepro.2016.05.156
+   Ala-Mantila S, 2014, ECOL ECON, V104, P129, DOI 10.1016/j.ecolecon.2014.04.019
+   Aleksandrowicz L, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0165797
+   Antal M, 2014, ENERG POLICY, V68, P585, DOI 10.1016/j.enpol.2013.11.016
+   Asara V, 2015, SUSTAIN SCI, V10, P375, DOI 10.1007/s11625-015-0321-9
+   Baiocchi G, 2015, GLOBAL ENVIRON CHANG, V34, P13, DOI 10.1016/j.gloenvcha.2015.06.001
+   Baur AH, 2014, J URBAN PLAN DEV, V140, DOI 10.1061/(ASCE)UP.1943-5444.0000165
+   Beloin-Saint-Pierre D, 2017, J CLEAN PROD, V163, pS223, DOI 10.1016/j.jclepro.2016.09.014
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brand U, 2017, INT ENCY GEOGRAPHY P, P1
+   Buchs M, 2013, ECOL ECON, V90, P114, DOI 10.1016/j.ecolecon.2013.03.007
+   Buhl J, 2016, SUSTAIN SCI, V11, P261, DOI 10.1007/s11625-015-0322-8
+   Chabrol M, 2016, ENERGY RES SOC SCI, V13, P194, DOI 10.1016/j.erss.2015.12.017
+   Chai A, 2015, ECOL ECON, V116, P95, DOI 10.1016/j.ecolecon.2015.04.013
+   Chitnis M, 2014, ECOL ECON, V106, P12, DOI 10.1016/j.ecolecon.2014.07.003
+   Chitnis M, 2013, ENERG POLICY, V55, P234, DOI 10.1016/j.enpol.2012.12.008
+   Cosme I, 2017, J CLEAN PROD, V149, P321, DOI 10.1016/j.jclepro.2017.02.016
+   Craig L, 2016, SOC INDIC RES, V125, P271, DOI 10.1007/s11205-014-0833-1
+   Crary Jonathan, 2014, 24 7 LATE CAPITALISM
+   Creutzig F, 2016, ANNU REV ENV RESOUR, V41, P173, DOI 10.1146/annurev-environ-110615-085428
+   Creutzig F, 2016, NAT CLIM CHANGE, V6, P1054, DOI 10.1038/nclimate3169
+   Creutzig F, 2015, P NATL ACAD SCI USA, V112, P6283, DOI 10.1073/pnas.1315545112
+   Davies A., 2014, CHALLENGING CONSUMPT
+   De Lauretis S, 2017, APPL ENERG, V206, P634, DOI 10.1016/j.apenergy.2017.08.180
+   Dodson J, 2018, THEOR PRACT URB SUST, P233, DOI 10.1007/978-981-10-4792-3_13
+   Druckman A, 2016, TAKING STOCK IND ECO, P181
+   Druckman A, 2012, ECOL ECON, V84, P153, DOI 10.1016/j.ecolecon.2012.09.008
+   Freire-Gonzalez J, 2017, ENERG POLICY, V102, P270, DOI 10.1016/j.enpol.2016.12.002
+   Fremstad A, 2018, ECOL ECON, V145, P137, DOI 10.1016/j.ecolecon.2017.08.024
+   Frenken K, 2017, ENVIRON INNOV SOC TR, V23, P3, DOI 10.1016/j.eist.2017.01.003
+   Fuchs D, 2016, J CLEAN PROD, V132, P298, DOI 10.1016/j.jclepro.2015.02.006
+   Gill B, 2018, ECOL ECON, V145, P160, DOI 10.1016/j.ecolecon.2017.09.004
+   Gillingham K, 2016, REV ENV ECON POLICY, V10, P68, DOI 10.1093/reep/rev017
+   Guneralp B, 2017, P NATL ACAD SCI USA, V114, P8945, DOI 10.1073/pnas.1606035114
+   Haselsteiner E, 2015, SUSTAINABILITY-BASEL, V7, P8022, DOI 10.3390/su7068022
+   Heinonen J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035050
+   Heinonen J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/025003
+   Hubacek Klaus, 2017, Energy, Ecology and Environment, V2, P361, DOI 10.1007/s40974-017-0072-9
+   Hubacek K, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-00919-4
+   Hubacek K, 2016, J IND ECOL, V20, P382, DOI 10.1111/jiec.12463
+   Huber M, 2015, GEOGR COMPASS, V9, P327, DOI 10.1111/gec3.12214
+   Irfany MI, 2016, ENVIRON ECON POLICY, V18, P459, DOI 10.1007/s10018-015-0119-0
+   Isenhour C, 2016, J CLEAN PROD, V134, P320, DOI 10.1016/j.jclepro.2014.12.037
+   Ivanova D, 2017, ENVIRON RES LETT, V12, DOI 10.1088/1748-9326/aa6da9
+   Ivanova D, 2016, J IND ECOL, V20, P526, DOI 10.1111/jiec.12371
+   Jackson T., 2017, PROSPERITY GROWTH FD
+   Jalas M, 2017, J CLEAN PROD, DOI [10.1016/.jclepro.2017.03.034, DOI 10.1016/.JCLEPRO.2017.03.034]
+   Jalas M, 2015, ECOL ECON, V113, P51, DOI 10.1016/j.ecolecon.2015.02.016
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   Kasser T, 2017, PHILOS T R SOC A, V375, DOI 10.1098/rsta.2016.0369
+   King LC, 2017, ECOL ECON, V132, P124, DOI 10.1016/j.ecolecon.2016.10.011
+   Kuijer L, 2017, ENERGY RES SOC SCI, V28, P77, DOI 10.1016/j.erss.2017.04.010
+   Kurz T, 2015, WIRES CLIM CHANGE, V6, P113, DOI 10.1002/wcc.327
+   Lenzen M, 2006, ENERGY, V31, P181, DOI 10.1016/j.energy.2005.01.009
+   Lorek S, 2014, J CLEAN PROD, V63, P33, DOI 10.1016/j.jclepro.2013.08.045
+   Melo PC, 2018, ECOL ECON, V145, P170, DOI 10.1016/j.ecolecon.2017.09.006
+   Millward-Hopkins J, 2017, REG ENVIRON CHANGE, V17, P1467, DOI 10.1007/s10113-017-1112-x
+   Minx J, 2010, HDB INPUT OUTPUT EC, P819
+   Minx J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035039
+   Moore T, 2017, BUILD RES INF, V45, P443, DOI 10.1080/09613218.2016.1139906
+   Moran D, 2017, CARBON FOOTPRINTS CO
+   Nassen J, 2015, ENVIRON PLANN C, V33, P726, DOI 10.1068/c12239
+   Nassen J, 2015, J IND ECOL, V19, P480, DOI 10.1111/jiec.12168
+   O'Rourke D, 2015, ANNU REV ENV RESOUR, V40, P233, DOI 10.1146/annurev-environ-102014-021224
+   Ottelin J, 2018, J CLEAN PROD, V170, P1523, DOI 10.1016/j.jclepro.2017.09.204
+   Ottelin J, 2015, ENVIRON SCI TECHNOL, V49, P9574, DOI 10.1021/acs.est.5b02140
+   Ottelin J, 2014, J TRANSP GEOGR, V41, P1, DOI 10.1016/j.jtrangeo.2014.08.004
+   Poom A, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8090799
+   Pullinger M, 2014, ECOL ECON, V103, P11, DOI 10.1016/j.ecolecon.2014.04.009
+   Ramaswami A, 2016, SCIENCE, V352, P940, DOI 10.1126/science.aaf7160
+   Rau H., 2015, INT ENCY SOCIAL BEHA
+   Reisch LA, 2015, TIME POLICIES SUSTAI
+   Ringhofer L, 2016, HUMAN ENVIRON INTERA, P519
+   Rinkinen J, 2017, BUILD RES INF, V45, P293, DOI 10.1080/09613218.2016.1143299
+   Rogelj J, 2015, NAT CLIM CHANGE, V5, P519, DOI 10.1038/nclimate2572
+   Schor J. B., 2010, PLENITUDE NEW EC TRU
+   Serino MNV, 2017, ASIAN ECON J, V31, P165, DOI 10.1111/asej.12119
+   Shao QL, 2016, J CLEAN PROD, V125, P227, DOI 10.1016/j.jclepro.2016.03.037
+   Shao QL, 2017, J CLEAN PROD, V147, P319, DOI 10.1016/j.jclepro.2017.01.115
+   Shove E, 2015, EUR J SOC THEORY, V18, P274, DOI 10.1177/1368431015579964
+   Shove E, 2014, THEOR CULT SOC, V31, P41, DOI 10.1177/0263276414536746
+   Shove E, 2014, CONTEMP SOC SCI, V9, P415, DOI 10.1080/21582041.2012.692484
+   Shove E, 2010, ENVIRON PLANN A, V42, P1273, DOI 10.1068/a42282
+   Smetschka B, 2016, HUMAN ENVIRON INTERA, P505, DOI 10.1007/978-3-319-33326-7_26
+   Southerton D, 2005, SOCIOL REV, V53, P215, DOI 10.1111/j.1467-954X.2005.00511.x
+   Steg L, 2014, J ENVIRON PSYCHOL, V38, P104, DOI 10.1016/j.jenvp.2014.01.002
+   Torriti J, 2017, ENERGY RES SOC SCI, V25, P37, DOI 10.1016/j.erss.2016.12.004
+   Wang SJ, 2017, APPL ENERG, V185, P189, DOI 10.1016/j.apenergy.2016.10.052
+   Weiss M, 2017, ECOL ECON, V137, P220, DOI 10.1016/j.ecolecon.2017.01.014
+   Wiedenhofer D, 2017, NAT CLIM CHANGE, V7, P75, DOI [10.1038/NCLIMATE3165, 10.1038/nclimate3165]
+   Wiedenhofer D, 2013, ENERG POLICY, V63, P696, DOI 10.1016/j.enpol.2013.07.035
+   Wiedmann TO, 2016, J IND ECOL, V20, P676, DOI 10.1111/jiec.12346
+   Wilson J, 2013, J IND ECOL, V17, P880, DOI 10.1111/jiec.12057
+   Zhang XL, 2015, J CLEAN PROD, V103, P873, DOI 10.1016/j.jclepro.2015.04.024
+NR 97
+TC 3
+Z9 3
+SN 1877-3435
+EI 1877-3443
+PD FEB
+PY 2018
+VL 30
+BP 7
+EP 17
+DI 10.1016/j.cosust.2018.02.007
+UT WOS:000444521500003
+ER

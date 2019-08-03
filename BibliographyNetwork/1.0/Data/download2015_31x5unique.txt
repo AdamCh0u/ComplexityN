@@ -1,0 +1,640 @@
+
+PT J
+AU Gang, Z
+   Ying-Bao, Y
+   Xu, B
+   Qi-Yuan, P
+AF Gang, Z.
+   Ying-Bao, Y.
+   Xu, B.
+   Qi-Yuan, P.
+TI On the topological properties of urban complex supply chain network of
+   agricultural products in mainland China
+SO TRANSPORTATION LETTERS-THE INTERNATIONAL JOURNAL OF TRANSPORTATION
+   RESEARCH
+LA English
+DT Article
+DE Supply chain network; Power-law; Exponent; Disassortative
+ID WORLD-WIDE-WEB; SCALE-FREE CHARACTERISTICS; POWER-LAW DISTRIBUTION;
+   SOCIAL NETWORKS; DYNAMICS; DISEASE
+AB Based on the complex network theory, we investigated the urban supply chain network of agricultural products in mainland China. Our research shows that the degree distribution of the urban supply chain network of agricultural products in mainland China follows the power-law behavior, and the network has scale-free and high disassortative properties. In this paper, the scaling exponent of the degree distribution of the network is calculated with two methods, the degree correlations of the network are studied, and the assortativity coefficient of the network is calculated. The network displayed high disassortativity in its degree. These properties found in the urban supply chain network of agricultural products in mainland China are very different from other social networks.
+C1 [Gang, Z.; Ying-Bao, Y.] Nanjing Univ Aeronaut & Astronaut, Coll Civil Aviat, Nanjing 210016, Jiangsu, Peoples R China.
+   [Gang, Z.; Xu, B.] Huaiyin Inst Technol, Fac Transportat Engn, Huaian 223003, Peoples R China.
+   [Qi-Yuan, P.] Southwest Jiaotong Univ, Sch Transportat & Logist, Chengdu 610031, Peoples R China.
+RP Gang, Z (reprint author), Nanjing Univ Aeronaut & Astronaut, Coll Civil Aviat, Nanjing 210016, Jiangsu, Peoples R China.
+EM gangzhaonuaa@126.com
+FU Philosophy and Social Science Foundation for University in Jiangsu
+   province [2012SJB630006]; National Natural Science Foundation of China
+   [51308246]
+FX This work has been supported by Philosophy and Social Science Foundation
+   for University in Jiangsu province under Grant No. 2012SJB630006, and
+   National Natural Science Foundation of China under Grant No. 51308246.
+CR Adamic LA, 2000, SCIENCE, V287, DOI 10.1126/science.287.5461.2115a
+   Albert R, 1999, NATURE, V401, P130
+   Andrade JS, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.079901
+   Apicella CL, 2012, NATURE, V481, P497, DOI 10.1038/nature10736
+   Barabasi AL, 2000, PHYSICA A, V281, P69, DOI 10.1016/S0378-4371(00)00018-2
+   Barabasi AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabasi AL, 2011, NAT REV GENET, V12, P56, DOI 10.1038/nrg2918
+   Barabasi AL, 2009, SCIENCE, V325, P412, DOI 10.1126/science.1173299
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Cancho RFI, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.046119
+   Catanzaro M, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.037101
+   DAVIS GF, 2001, SMALL WORLD CORPORAT
+   Fell DA, 2000, NAT BIOTECHNOL, V18, P1121, DOI 10.1038/81025
+   Goldstein ML, 2004, EUR PHYS J B, V41, P255, DOI 10.1140/epjb/e2004-00316-5
+   Guelzim N, 2002, NAT GENET, V31, P60, DOI 10.1038/ng873
+   Guo JL, 2010, CHINESE PHYS LETT, V27, DOI 10.1088/0256-307X/27/3/038901
+   HELBING D, 2006, PHYSICA A, V363, P11
+   Huang J., 2007, J SYSTEMS SCI INFORM, V5, P327
+   Jaffe A. B., 2002, PATENTS CITATIONS IN
+   Jeong H, 2000, NATURE, V407, P651, DOI 10.1038/35036627
+   Jeong H, 2001, NATURE, V411, P41, DOI 10.1038/35075138
+   Jordano P, 2003, ECOL LETT, V6, P69, DOI 10.1046/j.1461-0248.2003.00403.x
+   Jung S, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.056101
+   Kalapala V, 2003, STRUCTURE US ROAD NE
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Latora V, 2002, PHYSICA A, V314, P109, DOI 10.1016/S0378-4371(02)01089-0
+   Laumanns M, 2006, PHYSICA A, V363, P24, DOI 10.1016/j.physa.2006.01.045
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.026118
+   Orosz G, 2010, PHILOS T R SOC A, V368, P4455, DOI 10.1098/rsta.2010.0205
+   Pastor-Satorras R, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.258701
+   Pathak S. D., 2005, THESIS VANDERBILT U
+   Pathak SD, 2007, IEEE T ENG MANAGE, V54, P662, DOI 10.1109/TEM.2007.906856
+   Ravasz E, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026112
+   Shang MS, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/48006
+   Shaw LB, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.046120
+   Sun HJ, 2005, MOD PHYS LETT B, V19, P841, DOI 10.1142/S0217984905008797
+   Wang X. F., 2012, NETWORK SCI INTRO
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+   White EP, 2008, ECOLOGY, V89, P905, DOI 10.1890/07-1288.1
+   Wu XY, 2008, PHYSICA A, V387, P623, DOI 10.1016/j.physa.2007.09.039
+   Xuan Q, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.036101
+   Yoo J, 2011, PHYSICA A, V390, P4571, DOI 10.1016/j.physa.2011.06.047
+   Zhou T, 2007, INT J MOD PHYS C, V18, P297, DOI 10.1142/S0129183107010437
+NR 46
+TC 2
+Z9 2
+U1 7
+U2 31
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1942-7867
+EI 1942-7875
+J9 TRANSP LETT
+JI Transp. Lett.
+PD SEP
+PY 2015
+VL 7
+IS 4
+DI 10.1179/1942787515Y.0000000007
+PG 8
+WC Transportation; Transportation Science & Technology
+SC Transportation
+GA CT1ZE
+UT WOS:000362601000002
+DA 2019-03-26
+ER
+
+PT J
+AU Brown, J
+   Cumming, O
+   Bartram, J
+   Cairncross, S
+   Ensink, J
+   Holcomb, D
+   Knee, J
+   Kolsky, P
+   Liang, KD
+   Liang, S
+   Nala, R
+   Norman, G
+   Rheingans, R
+   Stewart, J
+   Zavale, O
+   Zuin, V
+   Schmidt, WP
+AF Brown, Joe
+   Cumming, Oliver
+   Bartram, Jamie
+   Cairncross, Sandy
+   Ensink, Jeroen
+   Holcomb, David
+   Knee, Jackie
+   Kolsky, Peter
+   Liang, Kaida
+   Liang, Song
+   Nala, Rassul
+   Norman, Guy
+   Rheingans, Richard
+   Stewart, Jill
+   Zavale, Olimpio
+   Zuin, Valentina
+   Schmidt, Wolf-Peter
+TI A controlled, before-and-after trial of an urban sanitation intervention
+   to reduce enteric infections in children: research protocol for the
+   Maputo Sanitation (MapSan) study, Mozambique
+SO BMJ OPEN
+LA English
+DT Article
+ID GASTROINTESTINAL PATHOGEN PANEL; SOURCE TRACKING METHODS; MIDDLE-INCOME
+   SETTINGS; YOUNG-CHILDREN; DEVELOPING-COUNTRIES; PERUVIAN CHILDREN;
+   DIARRHEAL DISEASE; FECAL POLLUTION; GENETIC-MARKERS; ENVIRONMENTAL
+   ENTEROPATHY
+AB Introduction: Access to safe sanitation in low-income, informal settlements of Sub-Saharan Africa has not significantly improved since 1990. The combination of a high faecal-related disease burden and inadequate infrastructure suggests that investment in expanding sanitation access in densely populated urban slums can yield important public health gains. No rigorous, controlled intervention studies have evaluated the health effects of decentralised (non-sewerage) sanitation in an informal urban setting, despite the role that such technologies will likely play in scaling up access.
+   Methods and analysis: We have designed a controlled, before-and-after (CBA) trial to estimate the health impacts of an urban sanitation intervention in informal neighbourhoods of Maputo, Mozambique, including an assessment of whether exposures and health outcomes vary by localised population density. The intervention consists of private pour-flush latrines (to septic tank) shared by multiple households in compounds or household clusters. We will measure objective health outcomes in approximately 760 children (380 children with household access to interventions, 380 matched controls using existing shared private latrines in poor sanitary conditions), at 2 time points: immediately before the intervention and at follow-up after 12 months. The primary outcome is combined prevalence of selected enteric infections among children under 5 years of age. Secondary outcome measures include soil-transmitted helminth (STH) reinfection in children following baseline deworming and prevalence of reported diarrhoeal disease. We will use exposure assessment, faecal source tracking, and microbial transmission modelling to examine whether and how routes of exposure for diarrhoeagenic pathogens and STHs change following introduction of effective sanitation.
+   Ethics: Study protocols have been reviewed and approved by human subjects review boards at the London School of Hygiene and Tropical Medicine, the Georgia Institute of Technology, the University of North Carolina at Chapel Hill, and the Ministry of Health, Republic of Mozambique.
+C1 [Brown, Joe; Knee, Jackie] Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA.
+   [Cumming, Oliver; Cairncross, Sandy; Ensink, Jeroen; Schmidt, Wolf-Peter] London Sch Hyg & Trop Med, Dept Dis Control, London WC1, England.
+   [Bartram, Jamie; Holcomb, David; Kolsky, Peter; Liang, Kaida; Stewart, Jill] Univ N Carolina, Dept Environm Sci & Engn, Gillings Sch Global Publ Hlth, Chapel Hill, NC USA.
+   [Liang, Song; Rheingans, Richard] Univ Florida, Dept Environm & Global Hlth, Gainesville, FL USA.
+   [Nala, Rassul] Minist Hlth, Maputo, Mozambique.
+   [Norman, Guy] Water & Sanitat Urban Poor, London, England.
+   [Zavale, Olimpio] Hlth Res Dev, Maputo, Mozambique.
+   [Zuin, Valentina] Stanford Univ, Emmett Interdisciplinary Program Environm & Resou, Palo Alto, CA 94304 USA.
+RP Brown, J (reprint author), Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA.
+EM joe.brown@ce.gatech.edu
+RI Stewart, Jill/T-6862-2018; Holcomb, David/C-9463-2015
+OI Stewart, Jill/0000-0002-3474-5233; Holcomb, David/0000-0003-4055-7164
+FU United States Agency for International Development under Translating
+   Research into Action [GHS-A-00-09-00015-00]
+FX This study was funded by the United States Agency for International
+   Development under Translating Research into Action, Cooperative
+   Agreement No. GHS-A-00-09-00015-00.
+CR African Population and Health Research Center, 2002, POP HLTH DYN NAIR IN
+   Ajjampur SSR, 2010, AM J TROP MED HYG, V83, P1110, DOI [10.4269/ajtmh.2010.09-0644, 10.4269/ajtmh.2010.09.0644]
+   Albonico M., 2008, PLOS NEGLECT TROP D, V2, pe126, DOI DOI 10.1371/J0URNAL.PNTD.0000126
+   Anderson RM, 1991, INFECT DIS HUMANS DY
+   Arnold BF, 2013, BMJ OPEN, V3, DOI 10.1136/bmjopen-2013-003476
+   Arnold BF, 2013, AM J EPIDEMIOL, V177, P361, DOI 10.1093/aje/kws281
+   Augusto G, 2009, AM J TROP MED HYG, V81, P799, DOI 10.4269/ajtmh.2009.08-0344
+   BAQUI AH, 1991, INT J EPIDEMIOL, V20, P1057, DOI 10.1093/ije/20.4.1057
+   Barreto ML, 2010, ENVIRON HEALTH PERSP, V118, P1637, DOI 10.1289/ehp.1002058
+   Bartelt LA, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002125
+   Bartram J, 2010, PLOS MED, V7, DOI 10.1371/journal.pmed.1000367
+   Beckmann C, 2014, INFECTION, V42, P961, DOI 10.1007/s15010-014-0656-7
+   Berkman DS, 2002, LANCET, V359, P564, DOI 10.1016/S0140-6736(02)07744-9
+   Bernhard AE, 2000, APPL ENVIRON MICROB, V66, P1587, DOI 10.1128/AEM.66.4.1587-1594.2000
+   Bhutta ZA, 1999, ARCH DIS CHILD, V80, P438, DOI 10.1136/adc.80.5.438
+   Bitran R, 2005, DIR DEV, P179
+   Blackett I, 2014, MISSING LINK SANITAT
+   Boehm AB, 2013, WATER RES, V47, P6812, DOI 10.1016/j.watres.2012.12.046
+   Boisson Sophie, 2014, BMC Res Notes, V7, P486, DOI 10.1186/1756-0500-7-486
+   Cairncross S, 2010, INT J EPIDEMIOL, V39, P193, DOI 10.1093/ije/dyq035
+   Cameron L, 2013, IMPACT EVALUATION SE, V83
+   Checkley W, 1998, AM J EPIDEMIOL, V148, P497
+   Checkley W, 1997, AM J EPIDEMIOL, V145, P156
+   Checkley W, 2002, J PEDIATR-US, V140, P210, DOI 10.1067/mpd.2002.121820
+   Checkley W, 2004, LANCET, V363, P112, DOI 10.1016/S0140-6736(03)15261-0
+   Claas EC, 2013, J MICROBIOL BIOTECHN, V23, P1041, DOI 10.4014/jmb.1212.12042
+   Clasen T, 2014, LANCET GLOB HEALTH, V2, pE645, DOI 10.1016/S2214-109X(14)70307-9
+   Coulliette AD, 2009, ENVIRON SCI TECHNOL, V43, P3728, DOI 10.1021/es803183f
+   Curtale F., 1998, Parassitologia (Rome), V40, P251
+   Dangour AD, 2013, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD009382.pub2
+   de Onis Mercedes, 2004, Food Nutr Bull, V25, pS27
+   Devamani C, 2014, INT J ENV RES PUB HE, V11, P11846, DOI 10.3390/ijerph111111846
+   Dick LK, 2005, APPL ENVIRON MICROB, V71, P3184, DOI 10.1128/AEM.71.6.3184-3191.2005
+   Elijah IE, 2011, BEST PRACT RES CL EN, V25, P759, DOI 10.1016/j.beem.2011.06.002
+   Esrey SA, 1996, AM J EPIDEMIOL, V143, P608
+   Exley JLR, 2015, ENVIRON SCI TECHNOL, V49, P1086, DOI 10.1021/es503945x
+   Field KG, 2003, ENVIRON MONIT ASSESS, V81, P313, DOI 10.1023/A:1021349629950
+   Fink G, 2014, DEMOGRAPHY, V51, P1175, DOI 10.1007/s13524-014-0302-0
+   Fonseca AM, 2014, J INFECT DEV COUNTR, V8, P786, DOI 10.3855/jidc.3916
+   Fotso Jean-Christophe, 2006, Int J Equity Health, V5, P9, DOI 10.1186/1475-9276-5-9
+   Fotso JC, 2007, HEALTH PLACE, V13, P205, DOI 10.1016/j.healthplace.2006.01.004
+   Fuller JA, 2014, AM J TROP MED HYG, V91, P173, DOI 10.4269/ajtmh.13-0503
+   Galli G, 2014, SYSTEMIC CHANGE URBA, P36
+   Galli G., 2014, SYSTEMIC CHANGE URBA
+   Goldfarb DM, 2014, J CLIN MICROBIOL, V52, P3922, DOI 10.1128/JCM.01894-14
+   Guerrant RL, 2013, NAT REV GASTRO HEPAT, V10, P220, DOI 10.1038/nrgastro.2012.239
+   Halliez MCM, 2013, WORLD J GASTROENTERO, V19, P8974, DOI 10.3748/wjg.v19.i47.8974
+   Hammer J, 2013, IMPACT EVALUATION SE, VIE 103.
+   Hayes RJ, 1999, INT J EPIDEMIOL, V28, P319, DOI 10.1093/ije/28.2.319
+   Heijnen M, 2014, TROP MED INT HEALTH, V19, P1334, DOI 10.1111/tmi.12375
+   Heijnen M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0093300
+   Hubbard AE, 2010, EPIDEMIOLOGY, V21, P467, DOI 10.1097/EDE.0b013e3181caeb90
+   Humphrey JH, 2009, LANCET, V374, P1032, DOI 10.1016/S0140-6736(09)60950-8
+   Jia TW, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001621
+   Johnston C, 2013, ENVIRON SCI TECHNOL, V47, P13621, DOI 10.1021/es403753k
+   Kirkpatrick BD, 2006, CLIN INFECT DIS, V43, P604, DOI 10.1086/506565
+   Kolahi AA, 2009, T ROY SOC TROP MED H, V103, P500, DOI 10.1016/j.trstmh.2008.10.016
+   Kosek M, 2013, AM J TROP MED HYG, V88, P390, DOI 10.4269/ajtmh.2012.12-0549
+   Kotloff KL, 2013, LANCET, V382, P209, DOI 10.1016/S0140-6736(13)60844-2
+   Kreader CA, 1998, APPL ENVIRON MICROB, V64, P4103
+   Kwiringira J, 2014, BMC PUBLIC HEALTH, V14, DOI 10.1186/1471-2458-14-624
+   Lee G, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002036
+   Levine MM, 2012, CLIN INFECT DIS, V55, pS303, DOI 10.1093/cid/cis789
+   Liang S, 2005, TROP MED INT HEALTH, V10, P263, DOI 10.1111/j.1365-3156.2005.01386.x
+   Liang S, 2007, P NATL ACAD SCI USA, V104, P7110, DOI 10.1073/pnas.0701878104
+   Lunn PG, 2000, P NUTR SOC, V59, P147, DOI 10.1017/S0029665100000173
+   Luthi C., 2009, INT J URBAN SUSTAINA, V1, P49
+   Mara D, 2010, PLOS MED, V7, DOI 10.1371/journal.pmed.1000363
+   MASON PR, 1986, T ROY SOC TROP MED H, V80, P88, DOI 10.1016/0035-9203(86)90204-X
+   Mattioli MC, 2013, ENVIRON SCI TECHNOL, V47, P355, DOI 10.1021/es303878d
+   McCormick BJJ, SERIES OLD HERBORN U, V27
+   McGranahan G, 2015, WORLD DEV, V68, P242, DOI 10.1016/j.worlddev.2014.12.008
+   McKay S, 2010, INT HEALTH, V2, P172, DOI 10.1016/j.inhe.2010.07.006
+   Mengelle C, 2013, CLIN MICROBIOL INFEC, V19, pE458, DOI 10.1111/1469-0691.12255
+   MOCK NB, 1993, SOC SCI MED, V36, P807, DOI 10.1016/0277-9536(93)90041-2
+   Naghavi M, 2015, LANCET, V385, P117, DOI 10.1016/S0140-6736(14)61682-2
+   de Snyder VNS, 2011, J URBAN HEALTH, V88, P1183, DOI 10.1007/s11524-011-9609-y
+   Ngure FM, 2014, ANN NY ACAD SCI, V1308, P118, DOI 10.1111/nyas.12330
+   Ngure FM, 2013, AM J TROP MED HYG, V89, P709, DOI 10.4269/ajtmh.12-0568
+   Nhampossa T, 2013, AM J TROP MED HYG, V89, P41, DOI 10.4269/ajtmh.12-0754
+   Ninh NX, 1996, AM J CLIN NUTR, V63, P514
+   Norman G., EVALUATING HLTH IMPA
+   Norman G, 2010, LANCET INFECT DIS, V10, P536, DOI 10.1016/S1473-3099(10)70123-7
+   Patel A, 2014, J CLIN MICROBIOL, V52, P3068, DOI 10.1128/JCM.01393-14
+   Patil SR, 2014, PLOS MED, V11, DOI 10.1371/journal.pmed.1001709
+   Pedersen SH, 2014, PLOS NEGLECT TROP D, V8, DOI 10.1371/journal.pntd.0003072
+   Petri WA, 2008, J CLIN INVEST, V118, P1277, DOI 10.1172/JCI34005
+   Phiri K, 2000, ANN TROP MED PARASIT, V94, P381, DOI 10.1080/00034983.2000.11813553
+   Pickering AJ, 2012, ENVIRON SCI TECHNOL, V46, P5736, DOI 10.1021/es300022c
+   Prendergast AJ, 2014, PAEDIATR INT CHILD H, V34, P250, DOI 10.1179/2046905514Y.0000000158
+   Prendergast AJ, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0086928
+   Pruss-Ustun A, 2014, TROP MED INT HEALTH, V19, P894, DOI 10.1111/tmi.12329
+   Pullan RL, 2012, PARASITE VECTOR, V5, DOI 10.1186/1756-3305-5-81
+   Rappelli P, 2005, FEMS IMMUNOL MED MIC, V43, P67, DOI 10.1016/j.femsim.2004.07.006
+   Ravaillon M, 2007, NEW EVIDENCE URBANIZ
+   Reeves BC, 2011, COCHRANE HDB SYSTEMA
+   Ryan ET, 2013, J INFECT DIS, V208, P1732, DOI 10.1093/infdis/jit509
+   Sahn DE, 2003, J AFR ECON, V12, P564, DOI 10.1093/jae/12.4.564
+   Schmidt WP, 2011, INT J EPIDEMIOL, V40, P1678, DOI 10.1093/ije/dyr152
+   Smith LC, 2004, WHY IS CHILD MALNUTR
+   SORVILLO F, 1994, EPIDEMIOL INFECT, V113, P313, DOI 10.1017/S0950268800051748
+   Stewart JR, 2013, WATER RES, V47, P6829, DOI 10.1016/j.watres.2013.04.063
+   Strunz EC, 2014, PLOS MED, V11, DOI 10.1371/journal.pmed.1001620
+   Taniuchi M, 2013, J INFECT DIS, V208, P1794, DOI 10.1093/infdis/jit507
+   Tumwebaze IKaM, 2014, J WATER SANIT HYG DE, V4, P12
+   UN-HABITAT, 2014, STAT AFR CIT REIM SU
+   UN- HABITAT, 2003, CHALL SLUMS
+   UNICEF's Innocenti Research Centre, 2002, INN DIG, V10
+   Van de Poel E, 2007, SOC SCI MED, V65, P1986, DOI 10.1016/j.socscimed.2007.06.032
+   WAGNER E G, 1958, Monogr Ser World Health Organ, V39, P1
+   Wang D, 2013, WATER RES, V47, P6849, DOI 10.1016/j.watres.2013.02.058
+   Wang D, 2010, WATER RES, V44, P4760, DOI 10.1016/j.watres.2010.07.076
+   WaterAid, 2013, CIT WID URB PLANN SA
+   WHO, 2004, TRAIN MAN DIAGN INT, V43
+   WHO/UN-WATER, 2014, UN WAT GLOB AN ASS S
+   WHO & UNICEF, 2014, PROGR SAN DRINK WAT
+   Wolf J, 2014, TROP MED INT HEALTH, V19, P928, DOI 10.1111/tmi.12331
+   Wulan N, 2015, FASEB J S1, V29
+   Ziegelbauer K, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001162
+   Zuin V, 2011, J WATER HEALTH, V9, P773, DOI 10.2166/wh.2011.031
+NR 120
+TC 14
+Z9 14
+U1 2
+U2 30
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2044-6055
+J9 BMJ OPEN
+JI BMJ Open
+PY 2015
+VL 5
+IS 6
+AR e008215
+DI 10.1136/bmjopen-2015-008215
+PG 11
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA CU4EO
+UT WOS:000363479900097
+PM 26088809
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT S
+AU Sobolevsky, S
+   Bojic, I
+   Belyi, A
+   Sitko, I
+   Hawelka, B
+   Arias, JM
+   Ratti, C
+AF Sobolevsky, Stanislav
+   Bojic, Iva
+   Belyi, Alexander
+   Sitko, Izabela
+   Hawelka, Bartosz
+   Murillo Arias, Juan
+   Ratti, Carlo
+BE Barbara, C
+   Khan, L
+TI Scaling of city attractiveness for foreign visitors through big data of
+   human economical and social media activity
+SO 2015 IEEE INTERNATIONAL CONGRESS ON BIG DATA - BIGDATA CONGRESS 2015
+SE IEEE International Congress on Big Data
+LA English
+DT Proceedings Paper
+CT IEEE International Congress on Big Data
+CY JUN 27-JUL 02, 2015
+CL New York, NY
+SP IEEE, IEEE Comp Soc, Serv Comp, Serv Soc, Comp Cloud, Serv Comp, BIG Data, Hp, IBM, ERICSSON, SAP, IBM Res, HUAWEI, OMG Object Management Grp, IEEE Cloud Comp, Business Proc Integrat & Management, IT Profess, Intl Journal Web Serv Res, Comp Now Access Discover Engage, IEEE Transact Serv Comp
+DE human mobility; urban attraction; Flickr; Twitter; bank cards;
+   superlinear scaling; discrete-choice model
+ID MOBILE PHONE DATA; CITIES; PATTERNS
+AB Scientific studies investigating laws and regularities of human behavior are nowadays increasingly relying on the wealth of widely available digital information produced by human activity. In this paper we use big data created by three different aspects of this activity (i.e., bank card transactions, geotagged photographs and tweets) in Spain for quantifying city attractiveness for foreign visitors. An important finding of this paper is a strong superlinear scaling law of city attractiveness with its population size. The observed scaling exponent stays nearly the same for different ways of defining cities and for different data sources, emphasizing the robustness of our finding. We also consider temporal variation of the scaling exponent in order to reveal seasonal patterns in the attractiveness. Finally, we propose a possible explanatory mechanism for the observed superlinear effect based on a simple discrete choice model.
+C1 [Sobolevsky, Stanislav; Bojic, Iva; Belyi, Alexander; Ratti, Carlo] MIT, SENSEable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Sitko, Izabela; Hawelka, Bartosz] Salzburg Univ, Salzburg, Austria.
+   [Murillo Arias, Juan] BBVA, New Technol, Madrid, Spain.
+RP Sobolevsky, S (reprint author), MIT, SENSEable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM stanly@mit.edu; ivabojic@mit.edu; abely@mit.edu;
+   izabela.sitko@sbg.ac.at; bartosz.hawelka@sbg.ac.at;
+   juan.murillo.arias@bbva.com; ratti@mit.edu
+CR Amini A, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds31
+   Bagchi M, 2005, TRANSP POLICY, V12, P464, DOI 10.1016/j.tranpol.2005.06.008
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Calabrese F, 2006, NETWORKS COMMUNICATI, V20, P247
+   Franzin-Garrec Martine, 2013, Soins, P1
+   Girardin F., 2009, INT J SPATIAL DATA I, V4, P175
+   Girardin F, 2008, IEEE PERVAS COMPUT, V7, P36, DOI 10.1109/MPRV.2008.71
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grauwin S, 2015, GEOTECH ENVIRON, V13, P363, DOI 10.1007/978-3-319-11469-9_15
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Hoteit S, 2014, COMPUT NETW, V64, P296, DOI 10.1016/j.comnet.2014.02.011
+   Java A., 2007, P 9 WEBKDD 1 SNA KDD, V2007, P56, DOI DOI 10.1145/1348549.1348556
+   Kang C., 2013, P 2 ACM SIGKDD INT W, P1
+   Kung KS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096180
+   Lathia N., 2012, LECT NOTES COMPUTER, V7319, P91
+   Lehto X. Y., 2004, Journal of Vacation Marketing, V10, P320, DOI 10.1177/135676670401000404
+   Oh J.Y., 2004, J VACAT MARK, V10, P308, DOI DOI 10.1177/135676670401000403
+   Paldino S., 2015, ARXIV150305502, P1
+   Pei T, 2014, INT J GEOGR INF SCI, V28, P1988, DOI 10.1080/13658816.2014.913794
+   Quercia Daniele, 2010, Proceedings 2010 10th IEEE International Conference on Data Mining (ICDM 2010), P971, DOI 10.1109/ICDM.2010.152
+   Ratti C, 2006, ENVIRON PLANN B, V33, P727, DOI 10.1068/b32047
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   Rosenbaum M. S., 2005, J VACAT MARK, V11, P235, DOI DOI 10.1177/1356766705055710
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Santi P, 2014, P NATL ACAD SCI USA, V111, P13290, DOI 10.1073/pnas.1403657111
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Sinkiene J, 2010, PUBLIC POLICY ADMIN, V31, P147
+   Sobolevsky S., 2015, ARXIV150503854, P1
+   Sobolevsky S., 2014, P 2 ASE INT C BIG DA, P1
+   SOBOLEVSKY S, 2014, P IEEE INT C BIG DAT, P136, DOI DOI 10.1109/BIGDATA.CONGRESS.2014.28
+   Sobolevsky S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081707
+   Spirn A. W., 1998, LANGUAGE LANDSCAPE
+   Szell M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089052
+   UNCLES M, 1995, MARKET SCI, V14, pG71, DOI 10.1287/mksc.14.3.G71
+   Yuksel A, 2004, TOURISM MANAGE, V25, P751, DOI 10.1016/j.tourman.2003.09.012
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 40
+TC 14
+Z9 14
+U1 2
+U2 5
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2379-7703
+BN 978-1-4673-7278-7
+J9 IEEE INT CONGR BIG
+PY 2015
+BP 600
+EP 607
+DI 10.1109/BigDataCongress.2015.92
+PG 8
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BF1XS
+UT WOS:000380443700082
+DA 2019-03-26
+ER
+
+PT J
+AU Mendez, N
+   Ferrando, A
+AF Mendez, Nuria
+   Ferrando, Agustina
+TI An analysis of the importance of taxonomic level in the assessment of
+   annelid communities in a Mexican lagoon
+SO BULLETIN OF MARINE SCIENCE
+LA English
+DT Article
+ID SUBLITTORAL BENTHIC COMMUNITIES; CALIFORNIA BIGHT MACROBENTHOS;
+   ASSESSING POLLUTION IMPACTS; SAO SEBASTIAO CHANNEL; GULF-OF-MEXICO;
+   POLYCHAETE COMMUNITIES; TROPHIC STRUCTURE; ORGANIC-MATTER; SOFT BOTTOMS;
+   SUFFICIENCY
+AB Assessing taxonomic sufficiency (TS) is useful for developing rapid and reliable procedures in marine impact assessment and monitoring. The coastal lagoon Estero de Urias has been subjected to the effects of several anthropogenic activities (shrimp farms, a thermoelectric plant, a slaughterhouse, a fish processing factory, a harbor, and urban sewage) for several decades, thus it is a candidate for TS application. The characterization of this lagoon through the study of soft-bottom annelids has identified zones subjected to different degrees of organic pollution, which lead to the need for monitoring. TS involves the identification of taxa to higher taxonomic levels than species (e.g., genus or family) without losing statistically relevant information. This study investigated the degree to which reduced taxonomy can be used to detect anthropogenic effects in a lagoon through the analyses of published and unpublished data of polychaetes and oligochaetes. Multidimensional scaling (MDS) ordinations, pairwise Spearman correlation tests, "secondstage" MDS ordination, analysis of similarity (ANOSIM), and BIO-ENV analyses revealed that, in general, results obtained at species, genus, and family levels followed similar patterns. Analyses performed at the genus and family levels were as effective as those performed at the species level and followed similar trends to those found in previous studies. Therefore, further analyses using family-level data are recommended for monitoring and characterization of this tropical coastal lagoon.
+C1 [Mendez, Nuria] Univ Nacl Autonoma Mexico, Inst Ciencias Mar & Limnol, Unidad Acad Mazatlan, Mazatlan 82040, Sinaloa, Mexico.
+   [Ferrando, Agustina] Univ Nacl Autonoma Mexico, Posgrad Ciencias Mar & Limnol, Mazatlan 82040, Sinaloa, Mexico.
+RP Mendez, N (reprint author), Univ Nacl Autonoma Mexico, Inst Ciencias Mar & Limnol, Unidad Acad Mazatlan, Av Joel Montes Camarena S-N, Mazatlan 82040, Sinaloa, Mexico.
+EM nuri@ola.icmyl.unam.mx
+FU Mexican Government
+FX We are grateful to the Mexican Government for the scholarship to the
+   second author, and to S Rendon and T Villalobos for their assistance
+   during field work. MA Tovar helped during sampling and sabellids
+   identification. V Papiol helped us with the PRIMER program and J Marlatt
+   revised the written English.
+CR AGARD JBR, 1993, MAR ECOL PROG SER, V92, P233, DOI 10.3354/meps092233
+   Ajmal-Khan S., 2006, CURR SCI, V91, P29
+   Baldo F., 1999, Boletin Instituto Espanol de Oceanografia, V15, P489
+   Bevilacqua S, 2009, MAR POLLUT BULL, V58, P1850, DOI 10.1016/j.marpolbul.2009.07.018
+   BRAY J. ROGER, 1957, ECOL MONOGR, V27, P325, DOI 10.2307/1942268
+   CLARKE KR, 1988, MAR ECOL PROG SER, V46, P213, DOI 10.3354/meps046213
+   CLARKE KR, 1993, MAR ECOL PROG SER, V92, P205, DOI 10.3354/meps092205
+   CLARKE KR, 1993, AUST J ECOL, V18, P117, DOI 10.1111/j.1442-9993.1993.tb00438.x
+   Clarke KR, 2001, CHANGES MARINE COMMU
+   Dauvin JC, 2003, MAR POLLUT BULL, V46, P552, DOI 10.1016/S0025-326X(03)00033-X
+   DEAN WE, 1974, J SEDIMENT PETROL, V44, P242
+   Dernie KM, 2003, J EXP MAR BIOL ECOL, V285, P415, DOI 10.1016/S0022-0981(02)00541-5
+   Dominguez-Castanedo N, 2007, MAR ECOL-EVOL PERSP, V28, P161, DOI 10.1111/j.1439-0485.2007.00178.x
+   Drake P, 1999, MAR POLLUT BULL, V38, P1038, DOI 10.1016/S0025-326X(99)00135-6
+   ELLIS D, 1985, MAR POLLUT BULL, V16, P459, DOI 10.1016/0025-326X(85)90362-5
+   Fauchald K., 1979, Oceanography and Marine Biology an Annual Review, V17, P193
+   Ferrando A, 2011, SCI MAR, V75, P351, DOI 10.3989/scimar.2011.75n2351
+   Ferrando A, 2010, SCI MAR, V74, P345, DOI 10.3989/scimar.2010.74n2345
+   FERRARO SP, 1995, ENVIRON TOXICOL CHEM, V14, P1031, DOI 10.1897/1552-8618(1995)14[1031:TLSFAP]2.0.CO;2
+   FERRARO SP, 1990, MAR ECOL PROG SER, V67, P251, DOI 10.3354/meps067251
+   Fiori CS, 2001, CONTAMINATED SOIL SE, P34
+   Folk R.L., 1965, PETROLOGY SEDIMENTAR
+   Gambi M.C., 1985, Oebalia, V11, P223
+   Gamito S, 2008, ESTUAR COAST SHELF S, V77, P710, DOI 10.1016/j.ecss.2007.11.013
+   Gesteira JLG, 2003, MAR POLLUT BULL, V46, P562, DOI 10.1016/S0025-326X(03)00034-1
+   GRAY JS, 1990, MAR ECOL PROG SER, V66, P285, DOI 10.3354/meps066285
+   Hernandez-Arana HA, 2003, ESTUAR COAST SHELF S, V58, P825, DOI 10.1016/S0272-7714(03)00188-4
+   HILY C, 1990, OCEANOL ACTA, V13, P107
+   Hobson K. D., 1981, CANADIAN B FISHERIES, V209, P1
+   Hutchings P, 1998, BIODIVERS CONSERV, V7, P1133, DOI 10.1023/A:1008871430178
+   Karakassis I, 2000, MAR ECOL PROG SER, V203, P247, DOI 10.3354/meps203247
+   Kruskal J, 1978, MULTIDIMENSIONAL SCA
+   Marrero A., 2013, INT J ENV SCI ENG RE, V4, P29
+   Maurer D, 2000, MAR POLLUT BULL, V40, P98, DOI 10.1016/S0025-326X(99)00235-0
+   Mendez N, 2002, OCEANOL ACTA, V25, P139, DOI 10.1016/S0399-1784(02)01193-3
+   Mendez N, 1998, B MAR SCI, V63, P167
+   Muniz P, 1999, MAR BIOL, V134, P517, DOI 10.1007/s002270050567
+   Muniz P, 2000, MAR ECOL-P S Z N I, V21, P145, DOI 10.1046/j.1439-0485.2000.00696.x
+   Muniz Pablo, 2005, Ocean Science Journal, V40, P17
+   Muniz Pablo, 1999, Oebalia, V24, P39
+   Napierala M. A, 2012, WHAT IS BONFERRONI C
+   Ochoa-Izaguirre MJ, 2002, BOT MAR, V45, P130, DOI 10.1515/BOT.2002.014
+   Olsgard F, 1997, MAR ECOL PROG SER, V149, P173, DOI 10.3354/meps149173
+   Olsgard Frode, 2000, Journal of Aquatic Ecosystem Stress and Recovery, V7, P25, DOI 10.1023/A:1009967313147
+   Pearson T.H., 1978, Oceanography and Marine Biology an Annual Review, V16, P229
+   Snelgrove PVR, 1995, OCEANUS, V38, P25
+   SOMERFIELD PJ, 1995, MAR ECOL PROG SER, V127, P113, DOI 10.3354/meps127113
+   Terlizzi A, 2003, MAR POLLUT BULL, V46, P556, DOI 10.1016/S0025-326X(03)00066-3
+   Underwood AJ, 2000, J EXP MAR BIOL ECOL, V250, P51, DOI 10.1016/S0022-0981(00)00179-9
+   Venturini N, 2011, J MARINE SYST, V88, P526, DOI 10.1016/j.jmarsys.2011.07.002
+   WARWICK RM, 1988, MAR POLLUT BULL, V19, P259, DOI 10.1016/0025-326X(88)90596-6
+NR 51
+TC 1
+Z9 1
+U1 1
+U2 16
+PU ROSENSTIEL SCH MAR ATMOS SCI
+PI MIAMI
+PA 4600 RICKENBACKER CAUSEWAY, MIAMI, FL 33149 USA
+SN 0007-4977
+EI 1553-6955
+J9 B MAR SCI
+JI Bull. Mar. Sci.
+PD OCT
+PY 2015
+VL 91
+IS 4
+BP 419
+EP 431
+DI 10.5343/bms.2015.1014
+PG 13
+WC Marine & Freshwater Biology; Oceanography
+SC Marine & Freshwater Biology; Oceanography
+GA CW2KV
+UT WOS:000364822000002
+DA 2019-03-26
+ER
+
+PT J
+AU Doussard, M
+AF Doussard, Marc
+TI Equity Planning Outside City Hall: Rescaling Advocacy to Confront the
+   Sources of Urban Problems
+SO JOURNAL OF PLANNING EDUCATION AND RESEARCH
+LA English
+DT Article
+DE equity planning; economic development; inequality; low-wage work;
+   political scale; Chicago
+ID ECONOMIC-DEVELOPMENT; GRASS-ROOTS; SCALE; POLITICS; CHICAGO; POLICY;
+   REGIONALISM; REFLECTIONS; AGREEMENTS; JUSTICE
+AB Focusing on progressive economic development policy and the institutional form of the community-labor coalitionan alliance between labor unions and urban advocacy organizationsthis article assesses the potential to scale equity planning up to political scales at which redistributive policy is both more effective and more likely to be enacted. I investigate when and why scaling up works through a comparison of two differently scaled campaigns to raise wages in Chicago's service industries. The results indicate that equity planners in City Hall can expand their ability to address structural economic problems by allying with nationally organized activist organizations.
+C1 Univ Illinois, Dept Urban & Reg Planning, Champaign, IL 61820 USA.
+RP Doussard, M (reprint author), Univ Illinois, Dept Urban & Reg Planning, 210 Temple Hoyne Buell,611 Taft Dr, Champaign, IL 61820 USA.
+EM mdouss1@illinois.edu
+FU University of Illinois at Urbana-Champaign Campus Research Board;
+   College of Fine and Applied Arts Creative Research Awards
+FX The author disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: This research
+   was supported by grants from the University of Illinois at
+   Urbana-Champaign Campus Research Board, and the College of Fine and
+   Applied Arts Creative Research Awards. These funding sources represent
+   no interests that potentially conflict with the article's finding, as
+   their sole purpose is to support academic research.
+CR Alex Hertel-Fernandez, 2013, WASHINGTON POST
+   Allegretto S. A, 2013, FAST FOOD POVERTY WA
+   Bencimino A., 2013, CRAINS CHICAGO  0426
+   Bernhardt A., 2009, BROKEN LAWS UNPROTEC
+   Born B, 2006, J PLAN EDUC RES, V26, P195, DOI 10.1177/0739456X06291389
+   Brenner N, 2000, INT J URBAN REGIONAL, V24, P361, DOI 10.1111/1468-2427.00234
+   Christopherson S, 2007, ROUTL STUD ECON GEOG, P1
+   City of Chicago, 1984, CHIC WORKS TOG
+   Clark J, 2009, J PLAN EDUC RES, V28, P341, DOI 10.1177/0739456X08327371
+   CLAVEL P, 1986, PROGRESSIVE CITY PLA
+   Clavel P., 1994, REINVENTING CITIES E
+   Clavel Pierre, 2010, ACTIVISTS CITY HALL
+   DAVIDOFF P, 1965, J AM I PLANNERS, V31, P331, DOI 10.1080/01944366508978187
+   DAVIDOFF P, 1982, J AM PLANN ASSOC, V48, P179, DOI 10.1080/01944368208976537
+   Doussard M., 2013, DEGRADED WORK STRUGG
+   DREIER P, 1991, URBAN AFF REV, V26, P354, DOI 10.1177/004208169102600303
+   Dreier Peter, 2004, PLACE MATTERS METROP
+   Dube A, 2010, REV ECON STAT, V92, P945, DOI 10.1162/REST_a_00039
+   Eidelson J., 2013, FAST FOOD STRIKES MA
+   EISINGER PK, 1973, AM POLIT SCI REV, V67, P11, DOI 10.2307/1958525
+   Executive Office of the Mayor, 2013, MAY GRAY VET LARG RE
+   Fainstein S. S., 2010, JUST CITY
+   Figueroa M, 2011, COMMUNITY WORKFORCE
+   Fitzgerald J., 2002, EC REVITALIZATION CA
+   Fitzgerald J., 2006, MOVING NEW EC CAREER
+   Gary Strauss, 2013, US TODAY        0820
+   Greenhouse Steven, 2012, NY TIMES
+   Gupta A., 2013, THE GUARDIAN    1111
+   Herod A, 2008, GEOGRAPHIES POWER PL
+   Hinz G., 2006, CRAINS CHICAGO  0724
+   Hollander J., 2009, PROGR PLANNING, V72, P223
+   Imbroscio DL, 2006, URBAN AFF REV, V42, P224, DOI 10.1177/1078087406291444
+   Janice Fine, 2006, WORKER CTR ORG COMMU
+   Jayaraman Saru, 2013, KITCHEN DOOR
+   Jayaraman Sarumathi, 2005, NEW URBAN IMMIGRANT
+   KRUMHOLZ N, 1994, J AM PLANN ASSOC, V60, P150, DOI 10.1080/01944369408975565
+   KRUMHOLZ N, 1975, J AM I PLANNERS, V41, P298, DOI 10.1080/01944367508977672
+   Krumholz N., 1990, MAKING EQUITY PLANNI
+   Lester TW, 2014, J URBAN AFF, V36, P783, DOI 10.1111/juaf.12075
+   Lester TW, 2012, J PLAN EDUC RES, V32, P331, DOI 10.1177/0739456X12451599
+   Logan J, 1987, URBAN FORTUNES POLIT
+   Luce S., 2012, DISCOUNTED JOBS RETA
+   Luce S., 2004, FIGHTING LIVING WAGE
+   Malizia E. E., 1998, UNDERSTANDING LOCAL
+   Maxwell T., 2006, CHICAGO TRIBUNE 0726
+   Mehta C., 2004, EC IMPACT WAL MART A
+   Meyer DS, 2004, SOC FORCES, V82, P1457, DOI 10.1353/sof.2004.0082
+   Miles M. B., 1994, QUALITATIVE DATA ANA
+   Milkman Ruth, 2006, LA STORY IMMIGRANT W
+   Mishel Lawrence, 2012, STATE WORKING AM
+   Olivo A., 2004, CHICAGO TRIBUNE 0523
+   Orlando D., 2013, NEW YORK BUSINE 1015
+   Peck J, 2014, CAMB J REG ECON SOC, V7, P17, DOI 10.1093/cjres/rst018
+   PIVEN FF, 1970, SOC POLICY, V1, P32
+   Rast J, 1999, REMAKING CHICAGO POL
+   Schrock G, 2013, ECON DEV Q, V27, P163, DOI 10.1177/0891242413477187
+   Shropshire C., 2013, CHICAGO TRIBUNE 0424
+   Sites W, 2007, ENVIRON PLANN A, V39, P2632, DOI 10.1068/a38339
+   Spielman F., 2014, CHICAGO SUN TIM 1201
+   Swanstrom T, 2009, J PLAN EDUC RES, V28, P355, DOI 10.1177/0739456X08324684
+   Swyngedouw E, 2003, ANTIPODE, V35, P898, DOI 10.1111/j.1467-8330.2003.00364.x
+   The Public Law Center, 2011, SUMM IND COMM BEN AG
+   Theodore N., 2006, HIDDEN PUBLIC COST L
+   Thompson L., 2013, SEATTLE TIMES
+   Towers G, 2000, PROF GEOGR, V52, P23, DOI 10.1111/0033-0124.00202
+   Turkewitz Julie, 2013, NY TIMES
+   U. S. Department of Labor Wage and Hour Division, 2013, MIN WAG LAWS STAT
+   Washburn G., 2006, CHICAGO TRIBUNE 0802
+   Washburn Gary, 2006, CHICAGO TRIBUNE 0912
+   WIEWEL W, 1989, COMMUNITY DEV J, V24, P111, DOI 10.1093/cdj/24.2.111
+   Wolf-Powers L, 2010, J AM PLANN ASSOC, V76, P141, DOI 10.1080/01944360903490923
+   Yin R. K., 2008, CASE STUDY RES DESIG, V5
+NR 72
+TC 7
+Z9 7
+U1 1
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0739-456X
+EI 1552-6577
+J9 J PLAN EDUC RES
+JI J. Plan. Educ. Res.
+PD SEP
+PY 2015
+VL 35
+IS 3
+BP 296
+EP 306
+DI 10.1177/0739456X15580021
+PG 11
+WC Regional & Urban Planning; Urban Studies
+SC Public Administration; Urban Studies
+GA CP7SZ
+UT WOS:000360089700005
+DA 2019-03-26
+ER

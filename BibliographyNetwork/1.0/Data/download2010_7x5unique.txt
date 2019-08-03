@@ -1,0 +1,340 @@
+
+PT S
+AU Somieski, A
+   Hollenstein, C
+   Favey, E
+   Schmid, C
+AF Somieski, A.
+   Hollenstein, Ch.
+   Favey, E.
+   Schmid, C.
+GP ION
+TI Low-Cost Sensor Fusion Dead Reckoning using a Single-Frequency GNSS
+   Receiver Combined with Gyroscope and Wheel Tick Measurements
+SO PROCEEDINGS OF THE 23RD INTERNATIONAL TECHNICAL MEETING OF THE SATELLITE
+   DIVISION OF THE INSTITUTE OF NAVIGATION (ION GNSS 2010)
+SE Institute of Navigation Satellite Division Proceedings of the
+   International Technical Meeting
+LA English
+DT Proceedings Paper
+CT 23rd International Technical Meeting of the Satellite Division of the
+   Institute-of-Navigation (ION GNSS-2010)
+CY SEP 21-24, 2010
+CL Portland, OR
+AB In recent years, many automotive navigation systems have been developed estimating the position and motion of a vehicle by combining GNSS measurements with data from other sensors, such as inertial sensors or odometers. The usage of measurements provided by attached sensors and/or the vehicle's CAN-bus not only improves the GNSS solution but also enables dead reckoning during periods of GNSS unavailability. This paper describes an embedded solution of Sensor Fusion Dead Reckoning (SFDR) utilizing a low-cost single-frequency GNSS receiver and MEMS gyroscope + wheel tick (GWT) information.
+   On the basis of tick and gyroscope measurements from a single wheel the vehicle speed and heading rate can be calculated. In order to achieve optimal dead reckoning performance, the GNSS and sensor measurements are combined using a tightly-coupled extended Kalman filter allowing for continuous and automatic calibration of unknown sensor parameters, such as bias and scaling factor of the gyroscope and the scaling factor for the wheel ticks representing the wheel's radius. Since the temperature dependent drift of the gyroscope bias during GNSS outages can degrade the dead reckoning performance significantly, the temperature and gyroscope bias are simultaneously measured during vehicle halt and a Temperature Compensation Table (TCT) is updated continuously.
+   The performance of the presented low-cost "gyro + wheel tick" solution is evaluated by means of road tests carried out with a specially equipped test vehicle comprising a high-precision navigation system used as reference. Numerous road tests with different driving scenarios under varying environmental conditions were carried out, such as fast drive on a curved freeway, slow driving maneuvers in an underground parking garage, drive through tunnels and urban canyons. In addition, a large number of GNSS outages were simulated in order to study, improve and tune the dead reckoning performance as well as to analyze its accuracies statistically. The GWT results are also compared to the Differential Wheel Tick (DWT) Dead Reckoning technology, which derives the heading rate from the tick measurements of the left and right wheel. First statistical analyses show that the GWT dead reckoning solution performs more than twice as accurate as the DWT solution. In addition, GWT sensor fusion significantly outperforms a GPS-only solution, especially in difficult environments, such as urban canyons.
+C1 [Somieski, A.; Hollenstein, Ch.; Favey, E.; Schmid, C.] U Blox AG, GNSS Software, Thalwil, Switzerland.
+RP Somieski, A (reprint author), U Blox AG, GNSS Software, Thalwil, Switzerland.
+CR Carlson C. R., 2004, Navigation. Journal of the Institute of Navigation, V51, P13
+   CARLSON CR, 2002, P AVEC2002 6 INT S A
+   HOLLENSTEIN C, 2008, P ION GNSS 21 INT TE
+   SOMIESKI A, 2008, P ION GNSS 21 INT TE
+   TRAVIS W, 2005, P ION GNSS 18 INT TE
+   *U BLOX AG, 2010, GPSG6HW10028 UBLOX A
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 5
+PU INST NAVIGATION
+PI WASHINGTON
+PA 815 15TH ST NW, STE 832, WASHINGTON, DC 20005 USA
+SN 2331-5911
+EI 2331-5954
+J9 I NAVIG SAT DIV INT
+PY 2010
+BP 1645
+EP 1652
+PG 8
+WC Remote Sensing
+SC Remote Sensing
+GA BUY82
+UT WOS:000290734901069
+DA 2019-03-26
+ER
+
+PT J
+AU Mohamed, HH
+   Hassib, GH
+AF Mohamed, Haggag H.
+   Hassib, Gaber H.
+TI Determination of the earthquake source parameters at Tushka area and its
+   surroundings, Aswan, South Egypt
+SO JOURNAL OF AFRICAN EARTH SCIENCES
+LA English
+DT Article
+DE Tushka area; Seismic moment; Stress drop; Source parameter
+ID TECTONIC STRESS; GROUND MOTION; CALIFORNIA; SPECTRUM; SEISMICITY; MOMENT
+AB In the last few years, Tushka area received a special attention from the Egyptian government to construct new projects, cities and cultivation of more new areas. No historical earthquakes are known in the Tushka area. The spectral analysis was performed to obtain the source parameters of some earthquakes with magnitude MD ranging between 2.0 and 3.7 located in and around the area. The source parameters were determined using the MAG software program. The derived corner frequency f(o) for P- and S-waves show values between 3.9-10.7 and 3.7-12.5 Hz respectively, the seismic moment M-o ranged from 7.77 x 10(11) to 1.77 x 10(14) dyne/cm, the source radii r spanned from 49.2 to 136.5 m, the stress drop Delta delta varied from 1.17 to 778.3 bar and the seismic energy E ranged from 6.42 x 105 to 1.24 x 10(11) J.
+   Some scaling relations between the different obtained source parameters were made such as: M-o-M-D M-o-Delta delta, M-o-E, and moment magnitude M-w-M-D in order to deduce the empirical relations for these parameters that can help in turn in the fast calculation of the different source parameters for the earthquakes in the area. (C) 2010 Published by Elsevier Ltd.
+C1 [Mohamed, Haggag H.; Hassib, Gaber H.] Aswan Earthquake Res Ctr, Aswan, Egypt.
+RP Mohamed, HH (reprint author), Aswan Earthquake Res Ctr, POB 152, Aswan, Egypt.
+EM haggaghm@yahoo.com
+CR ABERCROMBIE R, 1993, GEOPHYS RES LETT, V20, P1511, DOI 10.1029/93GL00367
+   AKI K, 1967, J GEOPHYS RES, V72, P1217, DOI 10.1029/JZ072i004p01217
+   Badawy A, 2001, J GEODYN, V31, P87, DOI 10.1016/S0264-3707(00)00020-X
+   Badawy A, 2000, J SEISMOL, V4, P49, DOI 10.1023/A:1009878410608
+   BADAWY A, 1995, ACTA GEOD GEOPHYS HU, V30, P349
+   BOORE DM, 1987, B SEISMOL SOC AM, V77, P440
+   BOORE DM, 1984, B SEISMOL SOC AM, V74, P1615
+   BRUNE JN, 1970, J GEOPHYS RES, V75, P4997, DOI 10.1029/JB075i026p04997
+   BRUNE JN, 1971, J GEOPHYS RES, V76, P5002
+   Bullen K. E., 1993, INTRO THEORY SEISMOL
+   FLETCHER JB, 1982, J GEOPHYS RES, V87, P6931, DOI 10.1029/JB087iB08p06931
+   FLETCHER JB, 1980, B SEISMOL SOC AM, V70, P735
+   HANKS TC, 1979, J GEOPHYS RES, V84, P2348, DOI 10.1029/JB084iB05p02348
+   HANKS TC, 1977, PURE APPL GEOPHYS, V115, P441, DOI 10.1007/BF01637120
+   Iio Y., 1986, Journal of Physics of the Earth, V34, P127
+   IIO Y, 1992, B SEISMOL SOC AM, V82, P2391
+   ISHIDA M, 1980, B SEISMOL SOC AM, V70, P509
+   MCGUIRE RK, 1980, B SEISMOL SOC AM, V70, P1907
+   NIEWIADOMSKI J, 2002, COMMUNICATION
+   Pandey Y, 2001, P INDIAN AS-EARTH, V110, P171
+   Prochazkova A.D, 1980, PUBL INS GEOPHYS P A, VA-9, P135
+   Prochazkova A.D, 1979, GEOPHYS POL, V460, P63
+   Prochazkova A.D, 1976, GEOFYSIKALINI SBORNI, V457, P185
+   STEKETEE JA, 1958, CAN J PHYS, V36, P1168, DOI 10.1139/p58-123
+   VINOGRADOV SD, 1978, PURE APPL GEOPHYS, V116, P888, DOI 10.1007/BF00876544
+   ZOBIN VM, 1995, TECTONOPHYSICS, V248, P207, DOI 10.1016/0040-1951(94)00273-C
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1464-343X
+EI 1879-1956
+J9 J AFR EARTH SCI
+JI J. Afr. Earth Sci.
+PD OCT
+PY 2010
+VL 58
+IS 3
+BP 553
+EP 560
+DI 10.1016/j.jafrearsci.2010.05.013
+PG 8
+WC Geosciences, Multidisciplinary
+SC Geology
+GA 663YX
+UT WOS:000282927200010
+DA 2019-03-26
+ER
+
+PT J
+AU Jones-Smith, JC
+   Popkin, BM
+AF Jones-Smith, Jessica C.
+   Popkin, Barry M.
+TI Understanding community context and adult health changes in China:
+   Development of an urbanicity scale
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE China; Urban/rural; China health and nutrition survey; Urbanicity scale;
+   Obesity; Overweight; BMI; Methodology
+ID DEVELOPING-COUNTRIES; URBANIZATION; MIGRATION; DISEASES; CITIES
+AB The classification of places as either urban or rural is typically based on an absolute threshold of population and/or population density. However, conceptual definitions of urbanization and urbanicity encompass dimensions beyond solely population size and population density. Multiple important distinguishing urban characteristics beyond population size have been described. The crude classification of places as urban or rural coupled with infrequent updates to this information creates a measure that is prone to misclassification error. An improved measure of urbanicity would draw information from the domains that characterize urban and rural places, would be sensitive to changes over time, and would represent gradations on the continuum from rural to urban environments. The goal of the current study was to develop such a scale from existing data, test whether the scale was reliable and valid, and assess whether it provided information beyond what could be determined from the traditional urban/rural dichotomous variable. We utilized established scaling procedures from the psychometric literature to construct and evaluate a multicomponent scale to measure urban features on a continuum in China. We also provided an example of its potential contribution to health research by examining its relationship with the adult body mass index (BMI). Because the scale was constructed and tested using established scaling procedures and using a wide array of variables, it represents an improvement over previous attempts at such a scale and will provide a reliable and valid measurement tool for researchers in this arena. We demonstrate that the scale predicts the incidence of overweight/obesity populations in China, but it promises to be most useful for other economic, demographic, social welfare, and health outcomes. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 [Popkin, Barry M.] Univ N Carolina, Dept Nutr, Chapel Hill, NC 27516 USA.
+   Univ N Carolina, Carolina Populat Ctr, Chapel Hill, NC 27516 USA.
+RP Popkin, BM (reprint author), Univ N Carolina, Dept Nutr, Univ Sq,CB 8120 123 W Franklin St, Chapel Hill, NC 27516 USA.
+EM popkin@unc.edu
+OI popkin, barry/0000-0001-9495-9324
+FU NCI NIH HHS [R01 CA121152]; NICHD NIH HHS [R01-HD30880, R24 HD050924,
+   R01 HD038700, R01 HD030880, R01-HD38700]; NIDDK NIH HHS [DK056350, P30
+   DK056350]
+CR Allender S, 2008, J URBAN HEALTH, V85, P938, DOI 10.1007/s11524-008-9325-4
+   Angrist JD, 2009, MOSTLY HARMLESS ECONOMETRICS: AN EMPIRICISTS COMPANION, P1
+   Batal M, 2006, PUBLIC HEALTH NUTR, V9, P313, DOI 10.1079/PHN2006860
+   Brockerhoff M, 1998, POPUL DEV REV, V24, P75, DOI 10.2307/2808123
+   Champion AG, 2004, NEW FORMS URBANIZATI
+   Dahly DL, 2007, SOC SCI MED, V64, P1407, DOI 10.1016/j.socscimed.2006.11.019
+   DeVellis R., 2003, SCALE DEV THEORY APP
+   Fotso Jean-Christophe, 2006, Int J Equity Health, V5, P9, DOI 10.1186/1475-9276-5-9
+   Friedman J., 2005, CHINAS URBAN TRANSIT
+   HAUSMAN JA, 1978, ECONOMETRICA, V46, P1251, DOI 10.2307/1913827
+   HECKMAN JJ, 1979, ECONOMETRICA, V47, P153, DOI 10.2307/1912352
+   Hinde PRA, 1996, J BIOSOC SCI, V28, P347
+   Hu XUJ, 2008, LANCET, V372, P1717, DOI 10.1016/S0140-6736(08)61360-4
+   JOHANSSON SR, 1987, POP STUD-J DEMOG, V41, P207, DOI 10.1080/0032472031000142776
+   Ma LJC, 2002, ENVIRON PLANN A, V34, P1545, DOI 10.1068/a34192
+   McDade TW, 2001, SOC SCI MED, V53, P55, DOI 10.1016/S0277-9536(00)00313-0
+   Mendez MA, 2005, AM J CLIN NUTR, V81, P714
+   MENDEZ MA, 2005, GLOBALIZATION FOOD S, P55
+   Monda KL, 2007, SOC SCI MED, V64, P858, DOI 10.1016/j.socscimed.2006.10.019
+   Montgomery M. R., 2005, HDB URBAN HLTH POPUL
+   *NAT RES COUNC, 2003, PAN URB POP DYN
+   Netemeyer R.G., 2003, SCALING PROCEDURES I
+   POPKIN BM, 1982, SCIENCE, V218, P1088, DOI 10.1126/science.7146896
+   Popkin BM, 2009, INT J EPIDEMIOLOGY
+   Poston DL, 1998, RES RUR SOC, V7, P227
+   PRESTON SH, 1978, POP STUD-J DEMOG, V32, P275, DOI 10.2307/2173562
+   Rondinelli D. A., 1983, SECONDARY CITIES DEV
+   RONDINELLI DA, 1987, GEOGR REV, V77, P408, DOI 10.2307/214281
+   Shen JF, 1995, GEOFORUM, V26, P395, DOI 10.1016/0016-7185(95)00044-5
+   Van de Poel E, 2007, SOC SCI MED, V65, P1986, DOI 10.1016/j.socscimed.2007.06.032
+   Van de Poel E, 2009, ECON HUM BIOL, V7, P200, DOI 10.1016/j.ehb.2009.05.004
+   Vlahov D, 2002, J URBAN HEALTH, V79, pS1, DOI 10.1093/jurban/79.suppl_1.S1
+   [WHO FAO], 2003, EXP CONS DIET NUTR P
+   Willett Walter, 1998, NUTR EPIDEMIOLOGY
+   Yang XS, 1999, INT MIGR REV, V33, P929, DOI 10.2307/2547358
+   Zhu Y., 2004, NEW FORMS URBANIZATI
+NR 36
+TC 111
+Z9 121
+U1 7
+U2 37
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD OCT
+PY 2010
+VL 71
+IS 8
+BP 1436
+EP 1446
+DI 10.1016/j.socscimed.2010.07.027
+PG 11
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 665DG
+UT WOS:000283014800010
+PM 20810197
+OA Green Accepted
+DA 2019-03-26
+ER
+
+PT B
+AU Horta-Bernus, R
+   Rosas-Casals, M
+   Valverde, S
+AF Horta-Bernus, R.
+   Rosas-Casals, M.
+   Valverde, S.
+GP IEEE
+TI Discerning Electricity Consumption Patterns from Urban Allometric
+   Scaling
+SO 2010 COMPLEXITY IN ENGINEERING: COMPENG 2010, PROCEEDINGS
+LA English
+DT Proceedings Paper
+CT International Conference on Complexity in Engineering (COMPENG 2010)
+CY FEB 22-24, 2010
+CL Rome, ITALY
+SP IEEE Italy Sect, IEEE Comp Soc, AEIT
+DE allometry; electricity consumption; power law; cities
+ID BIOLOGY; ORIGIN; LAWS
+AB Allometric scaling relations are characteristic of all living organisms. Metabolic and heart rates, lifespan and many other physiological properties vary with body mass in systematic and interrelated ways, which usually take the form of a power law. Scaling laws have been recently observed also in the metabolic rate of a particular kind of living system: the city. Scaling exponents of urban indicators present a remarkable variability, mainly associated with fundamentally different underlying dynamics. In this paper allometric scaling is used to detect dissimilar behaviors in one particularly important urban indicator: electricity consumption. Different scaling relations between electricity consumption and economical and social sectors found in southern Spain region of Andalucia, indicate variability in these sectors' basal energy consumption processes. The usefulness of these findings for urban modeling is finally outlined and some practical implications are suggested.
+C1 [Horta-Bernus, R.; Rosas-Casals, M.] Univ Politecn Cataluna, Catedra UNESCO Sostenibilitat, Campus Terrassa C Colom 1, Barcelona 08222, Spain.
+   [Valverde, S.] Univ Pompeu Fabra, ICREA Complex Syst Lab, PRBB, Barcelona 08003, Spain.
+RP Horta-Bernus, R (reprint author), Univ Politecn Cataluna, Catedra UNESCO Sostenibilitat, Campus Terrassa C Colom 1, Barcelona 08222, Spain.
+EM horta@ee.upc.edu; rosas@mmt.upc.edu; svalver@gmail.com
+RI Rosas, Marti/M-2389-2014; Valverde, Sergi/J-3275-2012
+OI Rosas, Marti/0000-0002-5243-2601; Valverde, Sergi/0000-0002-2150-9610
+FU ICREA
+CR BETTENCOURT LMA, 2008, COMMUNICATION
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Savage VM, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000171
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   WUP, 2009, WORLD URBANIZATION P
+   ZHU X, 2009, LECT NOTES I COMPUTE, V4
+NR 7
+TC 1
+Z9 1
+U1 0
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+BN 978-0-7695-3974-4
+PY 2010
+BP 49
+EP 51
+DI 10.1109/COMPENG.2010.29
+PG 3
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA BPA16
+UT WOS:000278287100011
+DA 2019-03-26
+ER
+
+PT J
+AU Thomas, I
+   Frankhauser, P
+   Frenay, B
+   Verleysen, M
+AF Thomas, Isabelle
+   Frankhauser, Pierre
+   Frenay, Benoit
+   Verleysen, Michel
+TI Clustering patterns of urban built-up areas with curves of fractal
+   scaling behaviour
+SO ENVIRONMENT AND PLANNING B-PLANNING & DESIGN
+LA English
+DT Article
+ID DIMENSION; BRUSSELS
+AB Fractal dimension is an index which can be used to characterize urban areas. The use of the curve of scaling behaviour is less common. However, its shape gives local information about the morphology of the built-up area. This paper suggests a method based on a k-medoid for clustering these curves. It is applied to forty-nine wards of European cities, and shows that the curves add interesting intraward information to our knowledge of the spatial variation of the urban texture. Moreover, morphological similarities are observed between cities: living, architectural, and planning trends are not specific to individual cities.
+C1 [Thomas, Isabelle] Catholic Univ Louvain, FRS FNRS, CORE, B-1348 Louvain, Belgium.
+   [Thomas, Isabelle] Catholic Univ Louvain, Dept Geog, B-1348 Louvain, Belgium.
+   [Frankhauser, Pierre] Univ Franche Comte, THEMA, CNRS, UMR 6049, F-25030 Besancon, France.
+   [Frenay, Benoit; Verleysen, Michel] Catholic Univ Louvain, Machine Learning Grp, B-1348 Louvain, Belgium.
+   [Verleysen, Michel] Univ Paris 01, SAMOS MATISSE, F-75231 Paris 05, France.
+RP Thomas, I (reprint author), Catholic Univ Louvain, FRS FNRS, CORE, Voie Roman Pays 34, B-1348 Louvain, Belgium.
+EM isabelle.thomas@uclouvain.be; pierre.frankhauser@univ-fcomte.fr;
+   Benoit.Frenay@uclouvain.be; michel.verleysen@uclouvain.be
+OI Frankhauser, Pierre/0000-0001-6600-6972
+CR BATTY M, 1991, ENVIRON PLANN A, V23, P511, DOI 10.1068/a230511
+   Batty M, 2005, CITIES COMPLEXITY UN
+   Bishop C, 2006, PATTERN RECOGNITION
+   Conzen MP, 2001, URBAN MORPHOL, V5, P3
+   De Keersmaecker ML, 2003, GEOGR ANAL, V35, P310, DOI 10.1353/geo.2003.0014
+   Frankhauser P, 2008, DYNAMICS COMPLEX URB, P213, DOI [10.1007/978-3-7908-1937-3_11, DOI 10.1007/978-3-7908-1937-3_11]
+   Frankhauser P., 2004, EUROPEAN CITIES INSI, P79
+   FRANKHAUSER P, 1998, POPULATION, V4, P205
+   Frankhauser P, 1998, DISCRETE DYN NAT SOC, V2, P127, DOI 10.1155/S1026022698000107
+   GOUYET JF, 1996, PHYS STRUCTURES FRAC
+   GRASSBERGER P, 1983, PHYSICA D, V9, P189, DOI 10.1016/0167-2789(83)90298-1
+   Halley JM, 2004, ECOL LETT, V7, P254, DOI 10.1111/j.1461-0248.2004.00568.x
+   Lam N. S. -N., 2002, FRACTALS GEOGRAPHY
+   LEDUC A, 1994, LANDSCAPE ECOL, V9, P279, DOI 10.1007/BF00129239
+   LEVY A, 1999, URBAN MORPHOL, V32, P79
+   Lorenz Wolfgang, 2003, FRACTALS FRACTAL ARC
+   PALMER MW, 1988, VEGETATIO, V75, P91, DOI 10.1007/BF00044631
+   Salingaros N. A., 2003, CONNECTING FRACTAL C
+   Tannier C., 2005, CYBERGEO, P307
+   THOMAS I, 2009, ERSA 2009 C LODZ ASR
+   Thomas I., 2008, CYBERGEO, P413
+   Thomas I, 2007, PAP REG SCI, V86, P287, DOI 10.1111/j.1435-5957.2007.00122.x
+NR 22
+TC 17
+Z9 17
+U1 1
+U2 8
+PU PION LTD
+PI LONDON
+PA 207 BRONDESBURY PARK, LONDON NW2 5JN, ENGLAND
+SN 0265-8135
+J9 ENVIRON PLANN B
+JI Environ. Plan. B-Plan. Des.
+PD SEP
+PY 2010
+VL 37
+IS 5
+BP 942
+EP 954
+DI 10.1068/b36039
+PG 13
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 686UC
+UT WOS:000284720200013
+DA 2019-03-26
+ER

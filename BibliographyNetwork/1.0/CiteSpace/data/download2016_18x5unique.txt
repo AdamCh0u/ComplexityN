@@ -1,0 +1,89 @@
+
+PT J
+AU Moses, M
+   Bezerra, G
+   Edwards, B
+   Brown, J
+   Forrest, S
+AF Moses, Melanie
+   Bezerra, George
+   Edwards, Benjamin
+   Brown, James
+   Forrest, Stephanie
+TI Energy and time determine scaling in biological and computer designs
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+DE scaling; networks; metabolism; computer architecture; evolutionary
+   transitions
+ID RENTS RULE; ECOLOGY; GROWTH; LIFE; TRANSITIONS; NETWORKS; ANIMALS; SIZE
+AB Metabolic rate in animals and power consumption in computers are analogous quantities that scale similarly with size. We analyse vascular systems of mammals and on-chip networks of microprocessors, where natural selection and human engineering, respectively, have produced systems that minimize both energy dissipation and delivery times. Using a simple network model that simultaneously minimizes energy and time, our analysis explains empirically observed trends in the scaling of metabolic rate in mammals and power consumption and performance in microprocessors across several orders of magnitude in size. Just as the evolutionary transitions from unicellular to multicellular animals in biology are associated with shifts in metabolic scaling, our model suggests that the scaling of power and performance will change as computer designs transition to decentralized multi-core and distributed cyber-physical systems. More generally, a single energy-time minimization principle may govern the design of many complex systems that process energy, materials and information.
+   This article is part of the themed issue 'The major synthetic evolutionary transitions'.
+CR Azizi O, 2010, CONF PROC INT SYMP C, P26
+   BAKOGLU HB, 1990, CIRCUITS INTERCONNEC
+   Banavar JR, 2010, P NATL ACAD SCI USA, V107, P15816, DOI 10.1073/pnas.1009974107
+   Banavar JR, 2002, P NATL ACAD SCI USA, V99, P10506, DOI 10.1073/pnas.162216899
+   Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Banavar JR, 2000, PHYS REV LETT, V84, P4745, DOI 10.1103/PhysRevLett.84.4745
+   Bassett DS, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000748
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bezerra G.B.P., 2010, P ACM IEEE INT WORKS, P3
+   Bingham BD, 2008, PROCEEDINGS OF THE 2008 INTERNATIONAL SYMPOSIUM ON PARALLEL AND DISTRIBUTED PROCESSING WITH APPLICATIONS, P143, DOI 10.1109/ISPA.2008.127
+   Brown JH, 2011, BIOSCIENCE, V61, P19, DOI 10.1525/bio.2011.61.1.7
+   Buchanan M, 2016, NAT PHYS, V12, P200, DOI 10.1038/nphys3685
+   Burnside WR, 2012, BIOL REV, V87, P194, DOI 10.1111/j.1469-185X.2011.00192.x
+   Christie P, 2000, IEEE T VLSI SYST, V8, P639, DOI 10.1109/92.902258
+   DeLong JP, 2010, P NATL ACAD SCI USA, V107, P12941, DOI 10.1073/pnas.1007783107
+   DENNARD RH, 1974, IEEE J SOLID-ST CIRC, VSC 9, P256, DOI 10.1109/JSSC.1974.1050511
+   Dodds PS, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.048702
+   Donath W., 1979, CIRCUITS SYSTEMS IEE, V26, P272, DOI [DOI 10.1109/TCS.1979.1084635, 10.1109/TCS.1979.1084635]
+   DONATH WE, 1981, IBM J RES DEV, V25, P152, DOI 10.1147/rd.252.0152
+   Farmer JD, 2016, RES POLICY, V45, P647, DOI 10.1016/j.respol.2015.11.001
+   Flanagan TP, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0070888
+   Haberl H, 2007, P NATL ACAD SCI USA, V104, P12942, DOI 10.1073/pnas.0704243104
+   Holldobler B., 1990, ANTS
+   Horowitz M., 2005, EL DEV M 2005 IEDM I, p[7, 15]
+   Horowitz M., 1994, LOW POW EL 1994 IEEE, P8, DOI DOI 10.1109/LPE.1994.573184
+   Hou C, 2010, P NATL ACAD SCI USA, V107, P3634, DOI 10.1073/pnas.0908071107
+   KLEIBER M, 1947, PHYSIOL REV, V27, P511
+   Kolokotrones T, 2010, NATURE, V464, P753, DOI 10.1038/nature08920
+   Koomey JG, 2011, IEEE ANN HIST COMPUT, V33, P46, DOI 10.1109/MAHC.2010.28
+   LINDSTEDT SL, 1981, Q REV BIOL, V56, P1, DOI 10.1086/412080
+   Lotka AJ, 1956, ELEMENTS MATH BIOL
+   Mandelbrot BB, 1983, FRACTAL GEOMETRY NAT
+   MCARDLE BH, 1988, CAN J ZOOL, V66, P2329, DOI 10.1139/z88-348
+   Meunier D., 2010, FRONTIERS NEUROSCIEN, V4, P1, DOI DOI 10.3389/FNINS.2010.00200
+   Moore GE, 1998, P IEEE, V86, P82, DOI 10.1109/JPROC.1998.658762
+   Moses ME, 2003, ECOL LETT, V6, P295, DOI 10.1046/j.1461-0248.2003.00446.x
+   Moses ME, 2012, METAB ECOL A, P293, DOI [10.1002/9781119968535.ch24, DOI 10.1002/9781119968535.CH24]
+   Moses ME, 2008, J R SOC INTERFACE, V5, P1469, DOI 10.1098/rsif.2008.0091
+   Newberry MG, 2015, PLOS COMPUT BIOL, V11, DOI 10.1371/journal.pcbi.1004455
+   Ning T. H., 2007, IEEE SOLID STATE CIR, V12, P27, DOI DOI 10.1109/N-SSC.2007.4785538
+   Odum H T, 1971, ENV POWER SOC
+   Ozaktas HM, 2004, J PARALLEL DISTR COM, V64, P1360, DOI 10.1016/j.jpdc.2004.07.006
+   Reda S, 2009, 11TH INTERNATIONAL WORKSHOP ON SYSTEM-LEVEL INTERCONNECT PREDICTION (SLIP 09), P37
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   SIBLY RM, 1991, FUNCT ECOL, V5, P184, DOI 10.2307/2389256
+   Sole RV, 2013, COMPLEXITY, V18, P15, DOI 10.1002/cplx.21436
+   Tainter JA, 2003, CONSERV ECOL, V7
+   Thompson DW, 1942, GROWTH FORM
+   Waldrop MM, 2016, NATURE, V530, P144, DOI 10.1038/530144a
+   Waters JS, 2010, AM NAT, V176, P501, DOI 10.1086/656266
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   West GB, 2002, P NATL ACAD SCI USA, V99, P2473, DOI 10.1073/pnas.012579799
+   Wilhelm N, 1995, WHY WIRE DELAYS WILL
+   Yang X, 2001, P INT WORKSH SYST LE, P25
+   Zarkesh-Ha P., 2010, P SLIP 2010, P9
+   Zhang K, 2000, P NATL ACAD SCI USA, V97, P5621, DOI 10.1073/pnas.090504197
+NR 56
+TC 3
+Z9 3
+SN 0962-8436
+EI 1471-2970
+PD AUG 19
+PY 2016
+VL 371
+IS 1701
+AR 20150446
+DI 10.1098/rstb.2015.0446
+UT WOS:000384460600009
+PM 27431524
+ER

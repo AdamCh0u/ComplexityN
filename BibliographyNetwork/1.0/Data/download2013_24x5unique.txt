@@ -1,0 +1,458 @@
+
+PT J
+AU Jiang, P
+   Tung, YK
+AF Jiang, Peishi
+   Tung, Yeou-Koung
+TI Establishing rainfall depth-duration-frequency relationships at daily
+   raingauge stations in Hong Kong
+SO JOURNAL OF HYDROLOGY
+LA English
+DT Article
+DE Rainfall IDF/DDF; Scaling model; Cluster analysis; Uncertainty analysis;
+   GEV; WLS
+AB Rainfall intensity (depth)-duration-frequency (IDF/DDF) relationships provide information essential for urban stormwater drainage system design and other hydrosystem infrastructures. For catchments where drainage areas are small, rainfall DDF relationships with short duration can be established based on rainfall records from automatic raingauges. Due to the progression of technology development, wide spread installation of automatic raingauges does not happen until 2-3 decades ago. Therefore, record lengths at majority of automatic raingauges are relatively short and the derived rainfall DDF relationships on the basis of at-site frequency analysis are potentially subject to significant sampling error. On the other hand, many conventional raingauges exist long before automatic raingauges were deployed. However, daily rainfall data with long records at conventional raingauges are of limited use to establish rainfall DDF relationships in areas with small catchment size like Hong Kong where design storm duration significantly shorter than 24-h are needed. This study presents a practical methodological framework to derive rainfall DDF relationships with short duration at conventional raingauge locations. The core components of the framework include the scaling model of rainfalls of different durations, the establishment of relationship between annual maximum daily rainfall and rolling-time 1440 min rainfall, the quantification of statistical features of estimated annual maximum 1440 min rainfalls, and the assessment of uncertainty of derived rainfall DDF relationships at conventional raingauges. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Jiang, Peishi; Tung, Yeou-Koung] Hong Kong Univ Sci & Technol, Dept Civil & Environm Engn, Hong Kong, Hong Kong, Peoples R China.
+RP Jiang, P (reprint author), Hong Kong Univ Sci & Technol, 705AT Tower A,Clear Water Bay, Kowloon, Hong Kong, Peoples R China.
+EM shixijps@gmail.com
+FU Hong Kong Research Grant Council [620110]
+FX The authors wish to acknowledge the auspice of Hong Kong Research Grant
+   Council (Project no. 620110) for the support of this study. The
+   gratitude is also extended to Hong Kong Observatory, Drainage Services
+   Department, and Geotechnical Engineering Office of Hong Kong Government
+   for providing the rainfall data used in the study. Constructed comments
+   on the manuscript by the reviewers are highly appreciated.
+CR Alpaydin E., 2004, CLUSTERING INTRO MAC, P149
+   Bara M, 2009, CONTRIB GEOPHYS GEOD, V39, P187, DOI DOI 10.2478/V10189-010-0010-8
+   Borga M, 2005, NAT HAZARDS, V36, P221, DOI 10.1007/s11069-004-4550-y
+   Burlando P, 1996, J HYDROL, V187, P45, DOI 10.1016/S0022-1694(96)03086-7
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1
+   Drainage Services Department, 2000, STORMW DRAIN MAN PLA
+   Hosking J. R. M, 2005, REGIONAL FREQUENCY A
+   Koutsoyiannis D, 1998, J HYDROL, V206, P118, DOI 10.1016/S0022-1694(98)00097-3
+   MacQueen J. B., 1967, P 5 BERK S MATH STAT, P281
+   ROSENBLUETH E, 1981, APPL MATH MODEL, V5, P329, DOI 10.1016/S0307-904X(81)80054-6
+   Tung Y., 2005, APPROXIMATION METHOD, P163
+   Tung Y.K., 2012, 1061 R D HKSAR DRAIN
+   Van Nguyen V.T.V., 2000, INT EUR AS WORKSH EC, P52
+   Xu YP, 2009, STOCH ENV RES RISK A, V23, P697, DOI 10.1007/s00477-008-0250-6
+NR 14
+TC 5
+Z9 6
+U1 1
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-1694
+EI 1879-2707
+J9 J HYDROL
+JI J. Hydrol.
+PD NOV 11
+PY 2013
+VL 504
+BP 80
+EP 93
+DI 10.1016/j.jhydrol.2013.09.037
+PG 14
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA 274FN
+UT WOS:000328592300007
+DA 2019-03-26
+ER
+
+PT J
+AU Sanjurjo-Sanchez, J
+   Vazquez, EV
+AF Sanjurjo-Sanchez, J.
+   Vidal Vazquez, E.
+TI Characterizing Weathering of Granite Buildings by Multifractal Analysis
+   of Mercury Intrusion Porosimetry
+SO VADOSE ZONE JOURNAL
+LA English
+DT Article
+ID REPUBLIC-OF-KOREA; SIZE DISTRIBUTIONS; FRACTAL APPROACH; IMAGE-ANALYSIS;
+   PARTICLE-SIZE; STONE PAGODA; PORE; SOIL; DECAY
+AB Weathering of stone materials in urban settings causes significant damage to heritage buildings due to the effects of air pollution and other factors related to the building environment (water transfer, interaction with binders, etc.). The assessment of weathering of rock surfaces requires the use of high resolution techniques, and this task is even more difficult if relatively short periods of time are considered. We explored the joint use of elemental chemical analysis, mercury intrusion porosimetry, and multifractal analysis of pore size distributions (PSDs) to assess the surface weathering of a granite rock widely used in the built heritage in NW Spain. The scaling properties of all PSDs obtained by mercury injection porosimetry could be fitted reasonably well with multifractal models. Generalized dimension spectrum, D-q, lead to a better definition of multifractal scaling than singularity spectrum, f(alpha) versus alpha. Statistical analysis shows a weak association of weathering with building age considering some chemical elements and several multifractal parameters. Building age has a tendency to decrease Al2O3, P2O3, D-10, (D-10-D-10), and alpha(0), while it suggest building age has a tendency to increase MnO, Cl, SO3, D-1, D-2, and D-10. Our results show that multifractal analysis of PSDs may be an appropriate tool for rock pore size distribution and also a suitable indicator for assessing weathering.
+C1 [Sanjurjo-Sanchez, J.; Vidal Vazquez, E.] Univ A Coruna, Univ Inst Geol, La Coruna 15071, Spain.
+RP Sanjurjo-Sanchez, J (reprint author), Univ A Coruna, Univ Inst Geol, A Zapateira S-N, La Coruna 15071, Spain.
+EM jsanjurjo@udc.es
+RI Sanjurjo-Sanchez, Jorge/E-4404-2011
+OI Sanjurjo-Sanchez, Jorge/0000-0002-7559-8647
+CR Alves C, 1996, CR ACAD SCI II A, V323, P397
+   Amoroso G. G., 1983, STONE DECAY CONSERVA
+   ANDERSON AN, 1998, ADV AGRON, V63, P2
+   BARTOLI F, 1991, J SOIL SCI, V42, P167, DOI 10.1111/j.1365-2389.1991.tb00399.x
+   Baveye P, 1998, FRACTALS SOIL SCI
+   Begonha A, 2002, CATENA, V49, P57, DOI 10.1016/S0341-8162(02)00016-4
+   Bird N, 2006, J HYDROL, V322, P211, DOI 10.1016/jjhydro1.2005.02.039
+   Caniego J., 2001, FRACTALS, V9, P305, DOI DOI 10.1142/S0218348X0100066X
+   CHHABRA A, 1989, PHYS REV LETT, V62, P1327, DOI 10.1103/PhysRevLett.62.1327
+   Dathe A, 2001, GEODERMA, V103, P203, DOI 10.1016/S0016-7061(01)00077-5
+   Dathe A, 2006, GEODERMA, V134, P318, DOI 10.1016/j.geoderma.2006.03.024
+   Feder J, 1988, FRACTALS
+   FIES JC, 1992, SOIL SCI SOC AM J, V56, P1062, DOI 10.2136/sssaj1992.03615995005600040009x
+   Gouyet JF, 1996, PHYS FRACTAL STRUCTU
+   Grau J, 2006, GEODERMA, V134, P349, DOI 10.1016/j.geoderma.2006.03.009
+   Gupta AS, 2001, B ENG GEOL ENVIRON, V60, P201, DOI DOI 10.1007/S100640100113
+   HALSEY TC, 1986, PHYS REV A, V33, P1141, DOI 10.1103/PhysRevA.33.1141
+   HANSEN JP, 1988, PHYS REV B, V38, P2635, DOI 10.1103/PhysRevB.38.2635
+   HENTSCHEL HGE, 1983, PHYSICA D, V8, P435, DOI 10.1016/0167-2789(83)90235-X
+   KATSUBE TJ, 1983, CAN MINERAL, V21, P637
+   KATZ AJ, 1985, PHYS REV LETT, V54, P1325, DOI 10.1103/PhysRevLett.54.1325
+   Kim S., 2003, B ENG GEOL ENVIRON, V62, P207, DOI DOI 10.1007/S10064-003-0192-7
+   KROHN CE, 1988, J GEOPHYS RES-SOLID, V93, P3297, DOI 10.1029/JB093iB04p03297
+   Lee CH, 2007, ENVIRON GEOL, V52, P1193, DOI 10.1007/s00254-006-0558-9
+   Lee DS, 2009, ENVIRON GEOL, V58, P197, DOI 10.1007/s00254-008-1508-5
+   Menendez I, 2005, ECOL MODEL, V182, P323, DOI 10.1016/j.ecolmodel.2004.04.009
+   Meunier A, 2007, CLAY MINER, V42, P415, DOI 10.1180/claymin.2007.042.4.01
+   Miranda JGV, 2006, GEODERMA, V134, P373, DOI 10.1016/j.geoderma.2006.03.014
+   Nicholson DT, 2001, EARTH SURF PROC LAND, V26, P819, DOI 10.1002/esp.228
+   Pachepsky Y, 1996, GEODERMA, V74, P305, DOI 10.1016/S0016-7061(96)00073-0
+   Perfect E, 1995, SOIL TILL RES, V36, P1, DOI 10.1016/0167-1987(96)81397-3
+   Perrier E, 1999, GEODERMA, V88, P137, DOI 10.1016/S0016-7061(98)00102-5
+   Posadas AND, 2003, SOIL SCI SOC AM J, V67, P1361, DOI 10.2136/sssaj2003.1361
+   Renyi A., 1995, ACTA MATH ACAD SCI H, V6, P285, DOI DOI 10.1007/BF02024393
+   Rodriguez-Navarro C, 1999, EARTH SURF PROC LAND, V24, P191, DOI 10.1002/(SICI)1096-9837(199903)24:3<191::AID-ESP942>3.0.CO;2-G
+   Sanjurjo Sanchez J., 2009, Water, Air, and Soil Pollution, V204, P53, DOI 10.1007/s11270-009-0025-9
+   Sanjurjo-Sanchez J, 2012, ENV CHEM SUSTAINABLE, P47, DOI [10.1007/978-94-007-2439-6_2, DOI 10.1007/978-94-007-2439-6_2]
+   Sanjurjo- Sanchez J, 2011, CONSTR BUILD MATER, V25, P813, DOI [10.1016/ j.conbuildmat.2010.07.001, DOI 10.1016/J.CONBUILDMAT.2010.07.001]
+   Sanjurjo-Sanchez J, 2012, ENVIRON CHEM LETT, V10, P131, DOI 10.1007/s10311-011-0346-y
+   Sanjurjo-Sanchez J, 2012, GEOMORPHOLOGY, V138, P231, DOI 10.1016/j.geomorph.2011.09.008
+   *SAS I, 1999, STAT AN SYST US GUID
+   SAUCIER A, 1993, PHYSICA A, V199, P350, DOI 10.1016/0378-4371(93)90054-8
+   Tarquis AM, 2003, SCALING METHODS IN SOIL PHYSICS, P19
+   Urosevic M, 2013, ENG GEOL, V154, P131, DOI 10.1016/j.enggeo.2012.12.013
+   Vazquez EV, 2008, VADOSE ZONE J, V7, P500, DOI 10.2136/vzj2007.0011
+NR 45
+TC 4
+Z9 4
+U1 2
+U2 22
+PU SOIL SCI SOC AMER
+PI MADISON
+PA 677 SOUTH SEGOE ROAD, MADISON, WI 53711 USA
+SN 1539-1663
+J9 VADOSE ZONE J
+JI Vadose Zone J.
+PD AUG
+PY 2013
+VL 12
+IS 3
+DI 10.2136/vzj2012.0204
+PG 10
+WC Environmental Sciences; Soil Science; Water Resources
+SC Environmental Sciences & Ecology; Agriculture; Water Resources
+GA 201RV
+UT WOS:000323161600011
+DA 2019-03-26
+ER
+
+PT J
+AU Stalter, D
+   Magdeburg, A
+   Quednow, K
+   Botzat, A
+   Oehlmann, J
+AF Stalter, Daniel
+   Magdeburg, Axel
+   Quednow, Kristin
+   Botzat, Alexandra
+   Oehlmann, Joerg
+TI Do Contaminants Originating from State-of-the-Art Treated Wastewater
+   Impact the Ecological Quality of Surface Waters?
+SO PLOS ONE
+LA English
+DT Article
+ID AQUATIC INVERTEBRATES; OXYGEN DEFICIENCY; POLYCYCLIC MUSKS; STREAMS;
+   PHARMACEUTICALS; EFFLUENT; RIVERS; MACROINVERTEBRATES; SENSITIVITY;
+   GERMANY
+AB Since the 1980s, advances in wastewater treatment technology have led to considerably improved surface water quality in the urban areas of many high income countries. However, trace concentrations of organic wastewater-associated contaminants may still pose a key environmental hazard impairing the ecological quality of surface waters. To identify key impact factors, we analyzed the effects of a wide range of anthropogenic and environmental variables on the aquatic macroinvertebrate community. We assessed ecological water quality at 26 sampling sites in four urban German lowland river systems with a 0-100% load of state-of-the-art biological activated sludge treated wastewater. The chemical analysis suite comprised 12 organic contaminants (five phosphor organic flame retardants, two musk fragrances, bisphenol A, nonylphenol, octylphenol, diethyltoluamide, terbutryn), 16 polycyclic aromatic hydrocarbons, and 12 heavy metals. Non-metric multidimensional scaling identified organic contaminants that are mainly wastewater-associated (i.e., phosphor organic flame retardants, musk fragrances, and diethyltoluamide) as a major impact variable on macroinvertebrate species composition. The structural degradation of streams was also identified as a significant factor. Multiple linear regression models revealed a significant impact of organic contaminants on invertebrate populations, in particular on Ephemeroptera, Plecoptera, and Trichoptera species. Spearman rank correlation analyses confirmed wastewater-associated organic contaminants as the most significant variable negatively impacting the biodiversity of sensitive macroinvertebrate species. In addition to increased aquatic pollution with organic contaminants, a greater wastewater fraction was accompanied by a slight decrease in oxygen concentration and an increase in salinity. This study highlights the importance of reducing the wastewater-associated impact on surface waters. For aquatic ecosystems in urban areas this would lead to: (i) improvement of the ecological integrity, (ii) reduction of biodiversity loss, and (iii) faster achievement of objectives of legislative requirements, e.g., the European Water Framework Directive.
+C1 [Stalter, Daniel; Magdeburg, Axel; Oehlmann, Joerg] Goethe Univ Frankfurt, Div Biol Sci, Dept Aquat Ecotoxicol, D-60054 Frankfurt, Germany.
+   [Quednow, Kristin] Goethe Univ Frankfurt, Inst Atmospher & Environm Sci, D-60054 Frankfurt, Germany.
+   [Botzat, Alexandra] Univ Marburg, Fac Biol, Dept Ecol Conservat Ecol, Marburg, Germany.
+RP Stalter, D (reprint author), Univ Queensland, Natl Res Ctr Environm Toxicol, Brisbane, Qld, Australia.
+EM d.stalter@uq.edu.au
+RI Oehlmann, Jorg/B-4565-2010; Magdeburg, Axel/G-5609-2011
+OI Oehlmann, Jorg/0000-0002-6075-2701; 
+FU Hessian Ministry for Science and the Arts (Germany)
+FX This work was supported by grants of the Hessian Ministry for Science
+   and the Arts (Germany). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR AQEM, 2006, ASTERICS SOFTW MAN V
+   Artola-Garicano E, 2003, ENVIRON TOXICOL CHEM, V22, P1086, DOI 10.1897/1551-5028(2003)022<1086:BAATOP>2.0.CO;2
+   Beasley G, 2002, PROG PHYS GEOG, V26, P236, DOI 10.1191/0309133302pp334ra
+   Beketov MA, 2004, RUSS J ECOL+, V35, P200, DOI 10.1023/B:RUSE.0000025972.29638.46
+   [BMU Bundesministerium fuer Umwelt Naturschutz und Reaktorsicherheit [German Federal Ministry for the Environment Nature Conservation and Nuclear Safety]], 2007, WAST FLOW PROC GERM
+   Borja A, 2008, ECOL INDIC, V8, P331, DOI 10.1016/j.ecolind.2007.05.004
+   Brack Werner, 2009, Integrated Environmental Assessment and Management, V5, P5, DOI 10.1897/IEAM_2008-024.1
+   Buerge IJ, 2003, ENVIRON SCI TECHNOL, V37, P5636, DOI 10.1021/es0300721
+   Bundschuh M, 2011, ENVIRON POLLUT, V159, P244, DOI 10.1016/j.envpol.2010.08.030
+   Clements WH, 2000, ECOL APPL, V10, P626, DOI 10.1890/1051-0761(2000)010[0626:HMSBCI]2.0.CO;2
+   Coimbra CN, 1996, ENVIRON POLLUT, V94, P301, DOI 10.1016/S0269-7491(96)00091-7
+   Crawley M, 2007, R BOOK
+   Daughton CG, 2003, ENVIRON HEALTH PERSP, V111, P757, DOI 10.1289/ehp.5947
+   Daughton CG, 1999, ENVIRON HEALTH PERSP, V107, P907, DOI 10.2307/3434573
+   Diaz RJ, 2004, J ENVIRON MANAGE, V73, P165, DOI 10.1016/j.jenvman.2004.06.004
+   [DIN Fachgruppe Wasserchemie der GDCh und Normenausschuss Wasserwesen (NAW) DIN Deutsches Institut fur Normung e.V.], 1996, DTSCH VERF WASS ABW, V1
+   [DIN Fachgruppe Wasserchemie der GDCh und Normenausschuss Wasserwesen (NAW) DIN Deutsches Institut fur Normung e.V.], 1987, DTSCH VERF WASS ABW, V1
+   EC, 2003, 37 EC EUR UN EUR CHE
+   EC, 2000, EUR COMM IUCLID DAT
+   EC, 2002, 10 EC EUR UN EUR CHE
+   Ehlert T, 2002, INT REV HYDROBIOL, V87, P151, DOI 10.1002/1522-2632(200205)87:2/3<151::AID-IROH151>3.0.CO;2-A
+   Erichson P., 2006, MULTIVARIATE ANAL ME
+   Fahrenberger G, 1986, HESSISCHES RIED BERG
+   Ginebreda A, 2010, ENVIRON INT, V36, P153, DOI 10.1016/j.envint.2009.10.003
+   Haase P., 2006, INFORMATIONSTEXT OPE
+   Haase P., 2004, STANDARDISIERUNG ERF
+   Hakanson L., 1983, PRINCIPLES LAKE SEDI
+   Hering D, 2004, HYDROBIOLOGIA, V516, P1, DOI 10.1023/B:HYDR.0000025255.70009.a5
+   Hollender J, 2009, ENVIRON SCI TECHNOL, V43, P7862, DOI 10.1021/es9014629
+   Jacobsen D, 2003, FRESHWATER BIOL, V48, P2025, DOI 10.1046/j.1365-2427.2003.01140.x
+   Jenkins M, 2003, SCIENCE, V302, P1175, DOI 10.1126/science.1088666
+   Jobling S, 2003, AQUAT TOXICOL, V65, P205, DOI 10.1016/S0166-445X(03)00134-6
+   Karlson K, 2002, OCEANOGR MAR BIOL, V40, P427
+   Kefford BJ, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035224
+   Kefford BJ, 2011, ENVIRON POLLUT, V159, P302, DOI 10.1016/j.envpol.2010.08.025
+   Koh YKK, 2009, ENVIRON SCI TECHNOL, V43, P6646, DOI 10.1021/es901612v
+   Laursen AE, 2004, FRESHWATER BIOL, V49, P1448, DOI 10.1111/j.1365-2427.2004.01280.x
+   Liess M, 2005, ENVIRON TOXICOL CHEM, V24, P954, DOI 10.1897/03-652.1
+   Linke S, 1999, FRESHWATER BIOL, V42, P575, DOI 10.1046/j.1365-2427.1999.00492.x
+   Liu ZH, 2009, SCI TOTAL ENVIRON, V407, P731, DOI 10.1016/j.scitotenv.2008.08.039
+   MacDonald DD, 1996, ECOTOXICOLOGY, V5, P253, DOI 10.1007/BF00118995
+   Magdeburg A, 2012, CHEMOSPHERE, V88, P1008, DOI 10.1016/j.chemosphere.2012.04.017
+   Nentwig G, 2007, ARCH ENVIRON CON TOX, V52, P163, DOI 10.1007/s00244-005-7190-7
+   Oehlmann J, 2006, ENVIRON HEALTH PERSP, V114, P127, DOI 10.1289/ehp.8065
+   Oetken M, 2005, ARCH ENVIRON CON TOX, V49, P353, DOI 10.1007/s00244-004-0211-0
+   Oksanen J., 2011, VEGAN COMMUNITY ECOL
+   Parrott JL, 2005, ENVIRON TOXICOL, V20, P131, DOI 10.1002/tox.20087
+   Pond GJ, 2010, HYDROBIOLOGIA, V641, P185, DOI 10.1007/s10750-009-0081-6
+   Pottgiesser T, 2003, MAP GERMAN STREAM TY
+   Quednow K, 2008, ENVIRON POLLUT, V152, P476, DOI 10.1016/j.envpol.2007.05.032
+   Quednow K, 2008, CLEAN-SOIL AIR WATER, V36, P70, DOI 10.1002/clen.200700023
+   Quednow K, 2007, J ENVIRON MONITOR, V9, P1337, DOI 10.1039/b711854f
+   Quednow K, 2009, ENVIRON SCI POLLUT R, V16, P630, DOI 10.1007/s11356-009-0169-6
+   Ricciardi A, 1999, CONSERV BIOL, V13, P1220, DOI 10.1046/j.1523-1739.1999.98380.x
+   Schwarzenbach RP, 2006, SCIENCE, V313, P1072, DOI 10.1126/science.1127291
+   Spanhoff B, 2007, RESTOR ECOL, V15, P317, DOI 10.1111/j.1526-100X.2007.00216.x
+   Stalter D, 2011, WATER RES, V45, P1015, DOI 10.1016/j.watres.2010.10.008
+   Stalter D, 2010, WATER RES, V44, P2610, DOI 10.1016/j.watres.2010.01.023
+   Stalter D, 2010, WATER RES, V44, P439, DOI 10.1016/j.watres.2009.07.025
+   Triebskorn R, 2007, ANAL BIOANAL CHEM, V387, P1405, DOI 10.1007/s00216-006-1033-x
+   UNSD, 2010, ENV IND INL WAT RES
+   Vaughan IP, 2012, GLOBAL CHANGE BIOL, V18, P2184, DOI 10.1111/j.1365-2486.2012.02662.x
+   Von Der Ohe PC, 2004, ENVIRON TOXICOL CHEM, V23, P150
+   Weemaes M, 2011, WATER SCI TECHNOL, V63, P72, DOI 10.2166/wst.2011.011
+   WHO, 1998, ENV HLTH CRIT, V209
+   WHO, 2000, ENV HLTH CRIT, V218
+   Zumbroich T, 1999, STRUKTURGUETE FLIESS
+   1982, FED REG, V47, P52309
+NR 68
+TC 28
+Z9 28
+U1 4
+U2 139
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 8
+PY 2013
+VL 8
+IS 4
+AR e60616
+DI 10.1371/journal.pone.0060616
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 130FG
+UT WOS:000317898000043
+PM 23593263
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Ramage, BS
+   Roman, LA
+   Dukes, JS
+AF Ramage, Benjamin S.
+   Roman, Lara A.
+   Dukes, Jeffrey S.
+TI Relationships between urban tree communities and the biomes in which
+   they reside
+SO APPLIED VEGETATION SCIENCE
+LA English
+DT Article
+DE Anthropogenic biome; Climate; Ecoregion; Hardiness zone; Landscape
+   trees; Non-metric multidimensional scaling; Urban ecology; Urban forest;
+   Urban vegetation
+ID COMPOSITIONAL SIMILARITY; BIOTIC HOMOGENIZATION; FOREST DEVELOPMENT;
+   ECOSYSTEMS; LANDSCAPE; DIVERSITY; CONTINENTS; MANAGEMENT; VEGETATION;
+   FLORAS
+AB Questions Climate strongly influences the composition of natural plant communities, but a variety of human activities might release plants in urban areas from some of these climatic constraints. (1) After controlling for minimum temperature, is urban tree species composition related to biome? (2) Do any such patterns result solely from the presence of native species in urban floras? (3) Which climatic, demographic and economic variables are predictive of urban tree species composition? Location Continental USA. Methods We investigated patterns of tree species composition in small cities across the continental USA, specifically exploring relationships to surrounding biomes and their accompanying temperature and precipitation regimes, as well as to key demographic and economic variables. We estimated urban tree species composition by surveying tree experts in randomly selected cities that were stratified by minimum temperature (i.e. hardiness zone) and biome, and constrained to similar population sizes. We then used non-metric multidimensional scaling to investigate relationships between urban tree species composition, biome classification, native status, individual climate variables and several anthropogenic factors. Results We found that urban tree communities were consistently related to the surrounding biome, even after controlling for minimum temperatures. These communities could also be predicted by several individual climatic variables (in models that focused solely on the role of climate as well as models that simultaneously considered key anthropogenic factors). In addition, most of these general patterns were still present when we exclusively examined non-native species. We were unable to identify specific climatic and anthropogenic variables of broad importance because the most predictive variables were highly dependent upon the specific analysis. Conclusions Our results demonstrate that, despite substantial human influence, urban tree communities (including their non-native components) are related to the same climate factors that shape wildland plant communities.
+C1 [Ramage, Benjamin S.; Roman, Lara A.] Univ Calif Berkeley, Dept Environm Sci Policy & Management, Berkeley, CA 94720 USA.
+   [Dukes, Jeffrey S.] Purdue Univ, Dept Forestry & Nat Resources, W Lafayette, IN 47907 USA.
+   [Dukes, Jeffrey S.] Purdue Univ, Dept Biol Sci, W Lafayette, IN 47907 USA.
+RP Ramage, BS (reprint author), Univ Calif Berkeley, Dept Environm Sci Policy & Management, Berkeley, CA 94720 USA.
+EM bsramage@berkeley.edu; lararoman@berkeley.edu; jsdukes@purdue.edu
+RI Dukes, Jeffrey/C-9765-2009
+OI Dukes, Jeffrey/0000-0001-9482-7743; Ramage, Benjamin/0000-0003-0734-9064
+CR Alberti M, 2003, BIOSCIENCE, V53, P1169, DOI 10.1641/0006-3568(2003)053[1169:IHIEOA]2.0.CO;2
+   BAILEY RG, 1996, ECOSYSTEM GEOGRAPHY
+   Brenzel K. N., 2007, SUNSET W GARDEN BOOK
+   Buchholz S, 2009, EUR J ENTOMOL, V106, P667, DOI 10.14411/eje.2009.083
+   Burns RM, 1990, AGR HDB, V1
+   Cathey H. M., 1990, USDA MISCELLANEOUS P, V1475
+   Chiarucci A, 2010, J VEG SCI, V21, P1172, DOI 10.1111/j.1654-1103.2010.01218.x
+   DENEVAN WM, 1992, ANN ASSOC AM GEOGR, V82, P369, DOI 10.1111/j.1467-8306.1992.tb01965.x
+   Dirr M, 1998, MANUAL WOODY LANDSCA
+   Ellis EC, 2008, FRONT ECOL ENVIRON, V6, P439, DOI 10.1890/070062
+   Grove J. M., 1997, URBAN ECOSYST, V1, P259, DOI DOI 10.1023/A:1018591931544
+   Hammond World Atlas Corporation, 2000, HAMM NEW CENT WORLD
+   Harris R. W., 2003, ARBORICULTURE INTEGR
+   Helms Brian S., 2005, Urban Ecosystems, V8, P39, DOI 10.1007/s11252-005-1418-1
+   Hope D, 2003, P NATL ACAD SCI USA, V100, P8788, DOI 10.1073/pnas.1537557100
+   Iakovoglou Valasia, 2002, Journal of Arboriculture, V28, P59
+   La Sorte FA, 2008, GLOBAL ECOL BIOGEOGR, V17, P363, DOI 10.1111/j.1466-8238.2007.00369.x
+   La Sorte FA, 2007, GLOBAL CHANGE BIOL, V13, P913, DOI 10.1111/j.1365-2486.2007.01329.x
+   LOEB RE, 1992, FOREST ECOL MANAG, V49, P293, DOI 10.1016/0378-1127(92)90142-V
+   Lombardo JA, 2008, NAT AREA J, V28, P363, DOI 10.3375/0885-8608(2008)28[363:FMACWD]2.0.CO;2
+   Martin CA, 2004, LANDSCAPE URBAN PLAN, V69, P355, DOI 10.1016/j.landurbplan.2003.10.034
+   MCBRIDE J, 1976, URBAN ECOL, V2, P1, DOI 10.1016/0304-4009(76)90002-4
+   McBride JR, 2012, URBAN FOR URBAN GREE, V11, P113, DOI 10.1016/j.ufug.2011.07.007
+   MCBRIDE JR, 1986, URBAN ECOL, V9, P245, DOI 10.1016/0304-4009(86)90003-3
+   McDonald R, 2005, BIOL CONSERV, V126, P24, DOI 10.1016/j.biocon.2005.05.008
+   McIntyre N.E., 2000, URBAN ECOSYST, V4, P5, DOI DOI 10.1023/A:1009540018553
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   McKinney ML, 1999, TRENDS ECOL EVOL, V14, P450, DOI 10.1016/S0169-5347(99)01679-1
+   National Climatic Data Center, 2003, US CLIM NORM
+   Nowak David J., 1993, Journal of Arboriculture, V19, P313
+   Nowak David J., 2004, Urban Forestry & Urban Greening, V2, P139, DOI 10.1078/1618-8667-00030
+   Phillips Jr L.E., 1993, URBAN TREES
+   Pickett S. T. A., 1997, URBAN ECOSYST, V1, P185, DOI DOI 10.1023/A:1018531712889
+   PORTER EE, 2001, URBAN ECOSYST, V5, P131, DOI DOI 10.1023/A:1022391721622
+   Qian H, 2006, ECOL LETT, V9, P1293, DOI 10.1111/j.1461-0248.2006.00982.x
+   Quinn G. P, 2002, EXPT DESIGN DATA ANA
+   Scheffer M, 2001, NATURE, V413, P591, DOI 10.1038/35098000
+   Taylor M., 1948, TAYLORS ENCY GARDENI
+   Thomas R. W., 1992, TREES SHRUBS
+   Trowbridge P. J., 2004, TREES URBAN LANGUAGE
+   United States Census Bureau, 2000, 1 US CENS BUR
+   United States Forest Service, 1995, DESCR EC US
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Warren CR, 2007, PROG HUM GEOG, V31, P427, DOI 10.1177/0309132507079499
+   Winter M, 2010, GLOBAL ECOL BIOGEOGR, V19, P332, DOI 10.1111/j.1466-8238.2010.00520.x
+   Zipperer WC, 1997, URBAN ECOSYST, V1, P229, DOI DOI 10.1023/A:1018587830636
+   Zmyslony J, 1998, LANDSCAPE URBAN PLAN, V40, P295, DOI 10.1016/S0169-2046(97)00090-X
+NR 47
+TC 18
+Z9 18
+U1 0
+U2 70
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1402-2001
+J9 APPL VEG SCI
+JI Appl. Veg. Sci.
+PD JAN
+PY 2013
+VL 16
+IS 1
+BP 8
+EP 20
+DI 10.1111/j.1654-109X.2012.01205.x
+PG 13
+WC Plant Sciences; Ecology; Forestry
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry
+GA 051WT
+UT WOS:000312159400003
+DA 2019-03-26
+ER
+
+PT J
+AU Mantovani, MC
+   Ribeiro, HV
+   Lenzi, EK
+   Picoli, S
+   Mendes, RS
+AF Mantovani, M. C.
+   Ribeiro, H. V.
+   Lenzi, E. K.
+   Picoli, S., Jr.
+   Mendes, R. S.
+TI Engagement in the electoral processes: Scaling laws and the role of
+   political positions
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID ELECTIONS; DYNAMICS; UNIVERSALITY; DEMOCRACY; BEHAVIOR; NETWORKS;
+   PARTIES; MODEL
+AB We report on a statistical analysis of the engagement in the electoral processes of all Brazilian cities by considering the number of party memberships and the number of candidates for mayor and councillor. By investigating the relationships between the number of party members and the population of voters, we have found that the functional forms of these relationships are well described by sublinear power laws (allometric scaling) surrounded by a multiplicative log-normal noise. We have observed that this pattern is quite similar to those we previously reported for the relationships between the number of candidates (mayor and councillor) and population of voters [Europhys. Lett. 96, 48001 (2011)], suggesting that similar universal laws may be ruling the engagement in the electoral processes. We also note that the power-law exponents display a clear hierarchy, where the more influential is the political position the smaller is the value of the exponent. We have also investigated the probability distributions of the number of candidates (mayor and councillor), party memberships, and voters. The results indicate that the most influential positions are characterized by distributions with very short tails, while less influential positions display an intermediate power-law decay before showing an exponential-like cutoff. We discuss the possibility that, in addition to the political power of the position, limitations in the number of available seats can also be connected with this changing of behavior. We further believe that our empirical findings point out to an under-representation effect, where the larger the city is, the larger are the obstacles for more individuals to become directly engaged in the electoral process.
+C1 [Mantovani, M. C.; Ribeiro, H. V.; Lenzi, E. K.; Picoli, S., Jr.; Mendes, R. S.] Univ Estadual Maringa, Dept Fis, BR-87020900 Maringa, Parana, Brazil.
+   [Mantovani, M. C.; Ribeiro, H. V.; Lenzi, E. K.; Picoli, S., Jr.; Mendes, R. S.] Univ Estadual Maringa, Natl Inst Sci & Technol Complex Syst, BR-87020900 Maringa, Parana, Brazil.
+   [Mantovani, M. C.] Univ Tecnol Fed Parana, BR-87301006 Campo Mourao, Parana, Brazil.
+RP Mantovani, MC (reprint author), Univ Estadual Maringa, Dept Fis, Ave Colombo 5790, BR-87020900 Maringa, Parana, Brazil.
+EM hvr@dfi.uem.br
+RI Ribeiro, Haroldo/C-8614-2012; Mendes, Renio/F-9261-2017
+OI Ribeiro, Haroldo/0000-0002-9532-5195; Lenzi, Ervin/0000-0003-3853-1790
+FU Capes; CNPq; Fundacao Araucaria [113/2013]
+FX We thank Capes, CNPq, and Fundacao Araucaria for financial support.
+   H.V.R. is especially grateful to Fundacao Araucaria for financial
+   support under Grant No. 113/2013.
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Araripe LE, 2009, PHYSICA A, V388, P4167, DOI 10.1016/j.physa.2009.06.023
+   Araripe LE, 2006, INT J MOD PHYS C, V17, P1809, DOI 10.1142/S0129183106010200
+   Araujo NAM, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012446
+   Ben-Naim E, 2005, EUROPHYS LETT, V69, P671, DOI 10.1209/epl/i2004-10421-1
+   Bernardes AT, 2002, EUR PHYS J B, V25, P123, DOI 10.1140/e10051-002-0013-y
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Borghesi C, 2010, EUR PHYS J B, V75, P395, DOI 10.1140/epjb/e2010-00151-1
+   Borghesi C, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0039916
+   Borghesi C, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036289
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Chatterjee A, 2013, SCI REP-UK, V3, DOI 10.1038/srep01049
+   Conte R, 2012, EUR PHYS J-SPEC TOP, V214, P325, DOI 10.1140/epjst/e2012-01697-8
+   Costa RN, 2003, PHYSICA A, V322, P698, DOI 10.1016/S0378-4371(02)01823-X
+   Costa RN, 1999, PHYS REV E, V60, P1067, DOI 10.1103/PhysRevE.60.1067
+   Fortunato S, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.138701
+   Galam S, 2012, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-1-4614-2032-3
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gonzalez MC, 2004, INT J MOD PHYS C, V15, P45, DOI 10.1142/S0129183104005577
+   Halu A, 2013, EPL-EUROPHYS LETT, V102, DOI 10.1209/0295-5075/102/16002
+   Klimek P, 2012, P NATL ACAD SCI USA, V109, P16469, DOI 10.1073/pnas.1210722109
+   Lyra ML, 2003, EUROPHYS LETT, V62, P131, DOI 10.1209/epl/i2003-00371-6
+   Mantovani MC, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/48001
+   Travieso G, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036112
+   Tumminello M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058910
+   Vespignani A, 2012, NAT PHYS, V8, P32
+NR 26
+TC 10
+Z9 10
+U1 0
+U2 13
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+J9 PHYS REV E
+JI Phys. Rev. E
+PD AUG 26
+PY 2013
+VL 88
+IS 2
+AR 024802
+DI 10.1103/PhysRevE.88.024802
+PG 5
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 207DC
+UT WOS:000323576400019
+PM 24032971
+DA 2019-03-26
+ER

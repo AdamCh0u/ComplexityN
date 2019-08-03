@@ -1,0 +1,489 @@
+
+PT J
+AU Ratto, G
+   Maronna, R
+   Berri, G
+AF Ratto, Gustavo
+   Maronna, Ricardo
+   Berri, Guillermo
+TI Analysis of Wind Roses Using Hierarchical Cluster and Multidimensional
+   Scaling Analysis at La Plata, Argentina
+SO BOUNDARY-LAYER METEOROLOGY
+LA English
+DT Article
+DE Cluster analysis; Multidimensional scaling; Wind rose analysis
+ID AIR; WINTERTIME; PATTERNS; REGION; URBAN; CITY; SO2
+AB Knowledge of frequency wind patterns is very important for air pollution modelling, especially in a city like La Plata (approximately 850,000 inhabitants) with high vehicular and industrial activities and no air monitoring network. An hourly wind analysis was carried out on data from two local weather stations (points A and J). An initial result was that, in spite of differences in data quality, the local weather stations observations were consistent with local and regional National Meteorological Service (NMS) monthly based observations. Two non conventional multivariate statistical methods were employed to further analyse hourly data at points A and J. Hierarchical cluster resulted in a good summarising tool to visualise prevailing hourly winds. Resultant vectors emerging from the clustering process showed good similarity between sites and seasons; this allowed a further visualization of the average diurnal wind development. Multidimensional scaling (MDS) permitted a pairwise comparison of a large number of hourly wind roses. These wind roses were more similar to each other in colder seasons and at site A (the one that is closer to the river) than in warmer seasons and at site J. Most of the observed variations regarding seasons and sites revealed by cluster and MDS analysis are explained in terms of the sea-land breeze circulations. The methodology applied proved to be of utility for simplifying the analysis of high dimensional data with numerous observations.
+C1 [Ratto, Gustavo] CIOp Ctr Invest Opt, RA-1900 La Plata, Argentina.
+   [Ratto, Gustavo] Univ Nacl La Plata, Fac Ingn, La Plata, Argentina.
+   [Maronna, Ricardo] Univ Nacl La Plata, Fac Ciencias Exactas, Dept Matemat, La Plata, Argentina.
+   [Berri, Guillermo] SMN, Buenos Aires, DF, Argentina.
+   [Berri, Guillermo] CONICET Consejo Nacl Invest Cient & Tecn, Buenos Aires, DF, Argentina.
+RP Ratto, G (reprint author), CIOp Ctr Invest Opt, CC124, RA-1900 La Plata, Argentina.
+EM gustavratto@gmail.com
+RI lyp, maggie/G-1471-2011
+FU CONICET [PID 5505]; ANPCYT [PICTS 00899, 21407]; University of Buenos
+   Aires at Buenos Aires, Argentina [X-018]
+FX This research was partially supported by Grants: PID 5505 from CONICET,
+   PICTS 00899 AND 21407 from ANPCYT and X-018 from the University of
+   Buenos Aires at Buenos Aires, Argentina. The authors are grateful to UTN
+   for the data from the monitoring site Point A and to Agronomic Engineers
+   Marcelo Asborno and Martin Pardi from the Experimental Station "Julio
+   Hirschhorn" of UNLP for the data at Point J. Our particular thanks to
+   Dr. Jorge Reyna Almandos and Engineer Fabian Videla for their
+   contributions to this article.
+CR Beaver S, 2006, J APPL METEOROL CLIM, V45, P1710, DOI 10.1175/JAM2437.1
+   Berri GJ, 2010, J APPL METEOROL CLIM, V49, P1293, DOI 10.1175/2010JAMC2370.1
+   CONRAD V, 1950, METHODS CLIMATOLOGY
+   Cox T. F., 2001, MULTIDIMENSIONAL SCA
+   Darby LS, 2005, J APPL METEOROL, V44, P1788, DOI 10.1175/JAM2320.1
+   Davison M., 1983, MULTIDIMENSIONAL SCA
+   Ratto GE, 2010, WATER AIR SOIL POLL, V208, P243, DOI 10.1007/s11270-009-0163-0
+   Escudero L.F, 1977, RECONOCIMIENTO PATRO
+   ESCUDERO LA, 2001, B SOC CUBANA METEORO, V7
+   Figueras S., 2001, ANALISIS CONGLOMERAD
+   Kaufmann P, 1999, J APPL METEOROL, V38, P1131, DOI 10.1175/1520-0450(1999)038<1131:CACOWW>2.0.CO;2
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P1, DOI 10.1007/BF02289565
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P115, DOI 10.1007/BF02289694
+   Macedo Isabela Maria, 2006, Braz. j. oceanogr., V54, P147, DOI 10.1590/S1679-87592006000200005
+   Mazzeo NA, 2005, ATMOS ENVIRON, V39, P3055, DOI 10.1016/j.atmosenv.2005.01.029
+   Olcese LE, 2002, ATMOS ENVIRON, V36, P299, DOI 10.1016/S1352-2310(01)00336-3
+   PETCHENESHKY T, 1998, GESTION CALIDAD AIRE
+   PULIFATO E, 2007, 2 C PROIMCA SAN NIC, P114
+   Ratto G, 2006, ENVIRON MONIT ASSESS, V121, P327, DOI 10.1007/s10661-005-9127-z
+   Ratto G, 2009, ENVIRON MONIT ASSESS, V149, P229, DOI 10.1007/s10661-008-0197-6
+   Rehwagen M, 2005, SCI TOTAL ENVIRON, V348, P199, DOI 10.1016/j.scitotenv.2004.12.050
+   Romesburg C., 2004, CLUSTER ANAL RES
+   *SMN, 2000, EST CLIM 1991 2000
+   TAKAHASHI K, 2007, P 1 WORKSH EM RES OP
+   Timm NH., 2002, APPL MULTIVARIATE AN
+   Wilks D. S., 1995, STAT METHODS ATMOSPH
+   WMO, 1983, 100 WMO
+NR 27
+TC 10
+Z9 11
+U1 1
+U2 12
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-8314
+J9 BOUND-LAY METEOROL
+JI Bound.-Layer Meteor.
+PD DEC
+PY 2010
+VL 137
+IS 3
+BP 477
+EP 492
+DI 10.1007/s10546-010-9539-3
+PG 16
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 681QK
+UT WOS:000284331700008
+DA 2019-03-26
+ER
+
+PT J
+AU Mehta, R
+   Kundu, D
+   Chakrabarty, S
+   Bharati, P
+AF Mehta, R.
+   Kundu, D.
+   Chakrabarty, S.
+   Bharati, P.
+TI Periodontal conditions and treatment in urban and rural population of
+   West Bengal, India
+SO ASIAN PACIFIC JOURNAL OF TROPICAL MEDICINE
+LA English
+DT Article
+DE Periodontal diseases; Treatment needs; Urban and rural population; Age
+   group; Gender
+ID CPITN; DISEASE; HEALTH
+AB Objective: To search adequate epidemiological data on periodontal conditions for the planning of oral health programs in Indian population, and to determine the prevalence of periodontal diseases, in regards to age and gender of urban and rural population in West Bengal, India. Methods: 22 542 subjects aged 15 years onwards, representative of rural and urban areas of West Bengal were examined for their periodontal conditions using the community periodontal index (CPI). Results: Supra and/or sub gingival calculus dominated as the most frequent score (score 2) among males (76.51%) and females (76.58%), which was least affected in young age group and higher in rural population. Severity of highest score were significant (P<0.001) according to their gender, age group and habitation and had independent effects (P<0.001) on it. Mean number of sextants affected by scores 1, 2, 3, & 4 were more in the rural areas. Assessed treatment needed was predominantly type II (Scaling and improved oral hygiene). Conclusions: The severe periodontal condition (Score 2, 3 and 4) is observed among rural males in older age group more than its urban counterparts of West Bengal, India.
+C1 [Chakrabarty, S.; Bharati, P.] Indian Stat Inst, Biol Anthropol Unit, Kolkata 700108, W Bengal, India.
+   [Mehta, R.; Kundu, D.] Dr R Ahmed Dent Coll & Hosp, Dept Periodontia, Kolkata, W Bengal, India.
+RP Bharati, P (reprint author), Indian Stat Inst, Biol Anthropol Unit, 203 BT Rd, Kolkata 700108, W Bengal, India.
+EM bharati@isical.ac.in
+CR Ainamo J, 1987, Int Dent J, V37, P173
+   AINAMO J, 1982, INT DENT J, V32, P281
+   Corbet EF, 2002, PERIODONTOL 2000, V29, P122, DOI 10.1034/j.1600-0757.2002.290107.x
+   Dini E L, 1994, Int Dent J, V44, P309
+   FLORESDEJACOBY L, 1991, COMMUNITY DENT ORAL, V19, P127, DOI 10.1111/j.1600-0528.1991.tb00127.x
+   HOHLFELD M, 1993, J CLIN PERIODONTOL, V20, P551, DOI 10.1111/j.1600-051X.1993.tb00770.x
+   MAITY AK, 1994, COMMUNITY DENT ORAL, V22, P60, DOI 10.1111/j.1600-0528.1994.tb01571.x
+   MARKKANEN H, 1983, COMMUNITY DENT ORAL, V11, P25, DOI 10.1111/j.1600-0528.1983.tb01350.x
+   MIYAZAKI H, 1987, AUST DENT J, V32, P11
+   OLEARY T, 1967, J PERIODONTOL, V38, P617, DOI 10.1902/jop.1967.38.6_part2.617
+   Petersen PE, 2003, COMMUNITY DENT ORAL, V31, P3, DOI 10.1046/j..2003.com122.x
+   Petersen PE, 2005, J PERIODONTOL, V76, P2187, DOI 10.1902/jop.2005.76.12.2187
+   PILOT T, 1986, COMMUNITY DENT ORAL, V14, P310, DOI 10.1111/j.1600-0528.1986.tb01079.x
+   Rao S P, 1993, Indian Pediatr, V30, P759
+   SANEI AS, 2005, ARCH IRAN MED, V8, P290
+   SINGH GPI, 2005, INDIAN J COMMUN MED, V30, P127
+   SODER PO, 1994, COMMUNITY DENT ORAL, V22, P106, DOI 10.1111/j.1600-0528.1994.tb01582.x
+   Strohmenger L, 1991, Int Dent J, V41, P313
+   World Health Organization, 1997, OR HLTH SURV BAS MET
+NR 19
+TC 2
+Z9 2
+U1 0
+U2 0
+PU WOLTERS KLUWER MEDKNOW PUBLICATIONS
+PI MUMBAI
+PA WOLTERS KLUWER INDIA PVT LTD , A-202, 2ND FLR, QUBE, C T S  NO 1498A-2
+   VILLAGE MAROL, ANDHERI EAST, MUMBAI, 400059, INDIA
+SN 1995-7645
+EI 2352-4146
+J9 ASIAN PAC J TROP MED
+JI Asian Pac. J. Trop. Med.
+PD FEB
+PY 2010
+VL 3
+IS 2
+BP 152
+EP 157
+DI 10.1016/S1995-7645(10)60058-2
+PG 6
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 664WK
+UT WOS:000282994300018
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Goddard, MA
+   Dougill, AJ
+   Benton, TG
+AF Goddard, Mark A.
+   Dougill, Andrew J.
+   Benton, Tim G.
+TI Scaling up from gardens: biodiversity conservation in urban environments
+SO TRENDS IN ECOLOGY & EVOLUTION
+LA English
+DT Review
+ID BIRD SPECIES RICHNESS; AVIAN ASSEMBLAGES; PRIVATE GARDENS; NATIVE
+   PLANTS; GLOBAL CHANGE; GREEN SPACES; LAND-USE; LANDSCAPE; ECOLOGY;
+   URBANIZATION
+AB As urbanisation increases globally and the natural environment becomes increasingly fragmented, the importance of urban green spaces for biodiversity conservation grows. In many countries, private gardens are a major component of urban green space and can provide considerable biodiversity benefits. Gardens and adjacent habitats form interconnected networks and a landscape ecology framework is necessary to understand the relationship between the spatial configuration of garden patches and their constituent biodiversity. A scale-dependent tension is apparent in garden management, whereby the individual garden is much smaller than the unit of management needed to retain viable populations. To overcome this, here we suggest mechanisms for encouraging 'wildlife-friendly' management of collections of gardens across scales from the neighbourhood to the city.
+C1 [Goddard, Mark A.; Benton, Tim G.] Univ Leeds, Inst Integrat & Comparat Biol, Leeds LS2 9JT, W Yorkshire, England.
+   [Dougill, Andrew J.] Univ Leeds, Sustainabil Res Inst, Sch Earth & Environm, Leeds LS2 9JT, W Yorkshire, England.
+RP Goddard, MA (reprint author), Univ Leeds, Inst Integrat & Comparat Biol, Leeds LS2 9JT, W Yorkshire, England.
+EM bsmag@leeds.ac.uk
+RI Goddard, Mark/D-1166-2010; Benton, Tim/C-6493-2009
+OI Goddard, Mark/0000-0002-2283-6752; Benton, Tim/0000-0002-7448-1973;
+   Dougill, Andrew/0000-0002-3422-8228
+FU University of Leeds Earth and Biosphere Institute
+FX M.G. is funded by a University of Leeds Earth and Biosphere Institute
+   scholarship. The authors thank Jacobus Biesmeijer for intellectual input
+   into this project and five anonymous referees for helpful comments on
+   earlier versions of the manuscript.
+CR Akinnifesi Festus Kehinde, 2010, Urban Ecosystems, V13, P129, DOI 10.1007/s11252-009-0108-9
+   Alberti M, 2005, INT REGIONAL SCI REV, V28, P168, DOI 10.1177/0160017605275160
+   Alberti M, 2003, BIOSCIENCE, V53, P1169, DOI 10.1641/0006-3568(2003)053[1169:IHIEOA]2.0.CO;2
+   Andersson E, 2007, ECOL APPL, V17, P1267, DOI 10.1890/06-1116.1
+   Baker PJ, 2005, MAMMAL REV, V35, P302, DOI 10.1111/j.1365-2907.2005.00071.x
+   Beckerman AP, 2007, ANIM CONSERV, V10, P320, DOI 10.1111/j.1469-1795.2007.00115.x
+   Bellehumeur C, 1998, LANDSCAPE ECOL, V13, P15, DOI 10.1023/A:1007903325977
+   Benton TG, 2003, TRENDS ECOL EVOL, V18, P182, DOI 10.1016/S0169-5347(03)00011-9
+   Berkes F, 2004, CONSERV BIOL, V18, P621, DOI 10.1111/j.1523-1739.2004.00077.x
+   Bernholt H, 2009, AGROFOREST SYST, V77, P159, DOI 10.1007/s10457-009-9236-8
+   Bino G, 2008, INT J REMOTE SENS, V29, P3675, DOI 10.1080/01431160701772534
+   Borgstrom ST, 2006, ECOL SOC, V11
+   Bradley CA, 2007, TRENDS ECOL EVOL, V22, P95, DOI 10.1016/j.tree.2006.11.001
+   Breuste J, 2008, LANDSCAPE ECOL, V23, P1139, DOI 10.1007/s10980-008-9273-0
+   Burghardt KT, 2009, CONSERV BIOL, V23, P219, DOI 10.1111/j.1523-1739.2008.01076.x
+   Cadenasso ML, 2007, FRONT ECOL ENVIRON, V5, P80, DOI 10.1890/1540-9295(2007)5[80:SHIUER]2.0.CO;2
+   Campoccia A, 2009, SOL ENERGY, V83, P287, DOI 10.1016/j.solener.2008.08.001
+   Cannon AR, 2005, J APPL ECOL, V42, P659, DOI 10.1111/j.1365-2664.2005.01050.x
+   Carrier JA, 2003, BIOL CONSERV, V111, P395, DOI 10.1016/S0006-3207(02)00308-7
+   Chamberlain DE, 2007, BIRD STUDY, V54, P87
+   Chamberlain DE, 2004, ECOGRAPHY, V27, P589, DOI 10.1111/j.0906-7590.2004.03984.x
+   Clayton S, 2007, J ENVIRON PSYCHOL, V27, P215, DOI 10.1016/j.jenvp.2007.06.001
+   Clergeau P, 2006, TRENDS ECOL EVOL, V21, P660, DOI 10.1016/j.tree.2006.09.006
+   Colding J, 2007, LANDSCAPE URBAN PLAN, V81, P46, DOI 10.1016/j.landurbplan.2006.10.016
+   Colding J, 2006, AMBIO, V35, P237, DOI 10.1579/05-A-098R.1
+   COOPER CB, 2007, ECOL SOC, V12
+   Corbet SA, 2001, ANN BOT-LONDON, V87, P219, DOI 10.1006/anbo.2000.1322
+   Daniels GD, 2006, BIOL CONSERV, V133, P326, DOI 10.1016/j.biocon.2006.06.011
+   Davies ZG, 2009, BIOL CONSERV, V142, P761, DOI 10.1016/j.biocon.2008.12.016
+   DEGRAAF RM, 1986, URBAN ECOL, V9, P399, DOI 10.1016/0304-4009(86)90012-4
+   Dougill AJ, 2006, J AGR ECON, V57, P259, DOI 10.1111/j.1477-9552.2006.00051.x
+   EMLEN JT, 1974, CONDOR, V76, P184, DOI 10.2307/1366729
+   Evans KL, 2009, IBIS, V151, P19, DOI 10.1111/j.1474-919X.2008.00898.x
+   Fernandez-Juricic E, 2000, CONSERV BIOL, V14, P513, DOI 10.1046/j.1523-1739.2000.98600.x
+   Fetridge ED, 2008, ANN ENTOMOL SOC AM, V101, P1067, DOI 10.1603/0013-8746-101.6.1067
+   French K, 2005, BIOL CONSERV, V121, P545, DOI 10.1016/j.biocon.2004.06.004
+   Fuller RA, 2008, DIVERS DISTRIB, V14, P131, DOI 10.1111/j.1472-4642.2007.00439.x
+   Fuller RA, 2007, BIOLOGY LETT, V3, P390, DOI 10.1098/rsbl.2007.0149
+   Gaston KJ, 2007, BIODIVERS CONSERV, V16, P3227, DOI 10.1007/s10531-007-9174-6
+   Gaston KJ, 2005, BIODIVERS CONSERV, V14, P395, DOI 10.1007/s10531-004-6066-x
+   GASTON KJ, 2007, BR WILDL, V77, P171
+   Gerber E, 2008, BIOL CONSERV, V141, P646, DOI 10.1016/j.biocon.2007.12.009
+   Germaine SS, 1998, ECOL APPL, V8, P680, DOI 10.2307/2641259
+   Gonzalez-Garcia A, 2008, HUM ECOL, V36, P291, DOI 10.1007/s10745-007-9155-0
+   Gonzalez-Garcia A, 2009, BIODIVERS CONSERV, V18, P1909, DOI 10.1007/s10531-008-9564-4
+   Gordon A, 2009, LANDSCAPE URBAN PLAN, V91, P183, DOI 10.1016/j.landurbplan.2008.12.011
+   Goulson D, 2002, OECOLOGIA, V130, P267, DOI [10.1007/s00442-002-1042-1, 10.1007/s004420100803]
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Gross H, 2007, J ENVIRON PSYCHOL, V27, P225, DOI 10.1016/j.jenvp.2007.04.003
+   Grove JM, 2006, ECOSYSTEMS, V9, P578, DOI 10.1007/s10021-006-0116-z
+   Hostetler M, 2003, LANDSCAPE URBAN PLAN, V62, P55, DOI 10.1016/S0169-2046(02)00096-8
+   Hostetler Mark, 2001, P139
+   Hostetler Mark, 2000, Urban Ecosystems, V4, P25, DOI 10.1023/A:1009587719462
+   Kadlec T, 2008, LANDSCAPE URBAN PLAN, V85, P1, DOI 10.1016/j.landurbplan.2007.07.007
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kinzig AP, 2005, ECOL SOC, V10
+   Kirkpatrick J, 2009, LANDSCAPE URBAN PLAN, V93, P103, DOI 10.1016/j.landurbplan.2009.06.009
+   Loram A, 2008, J VEG SCI, V19, P321, DOI 10.3170/2007-8-18373
+   Loram A, 2008, ENVIRON MANAGE, V42, P361, DOI 10.1007/s00267-008-9097-3
+   Loram A, 2007, LANDSCAPE ECOL, V22, P601, DOI 10.1007/s10980-006-9051-9
+   Loss SR, 2009, BIOL CONSERV, V142, P2578, DOI 10.1016/j.biocon.2009.06.004
+   Luck GW, 2009, ECOSYSTEMS, V12, P604, DOI 10.1007/s10021-009-9244-6
+   Magle SB, 2009, LANDSCAPE ECOL, V24, P267, DOI 10.1007/s10980-008-9304-x
+   Maiteny P., 2002, ENVIRON EDUC RES, V8, P299, DOI [10.1080/13504620220145447, DOI 10.1080/13504620220145447]
+   Marco A, 2008, CR BIOL, V331, P452, DOI 10.1016/j.crvi.2008.03.007
+   Martin CA, 2004, LANDSCAPE URBAN PLAN, V69, P355, DOI 10.1016/j.landurbplan.2003.10.034
+   Mathieu R, 2007, LANDSCAPE URBAN PLAN, V81, P179, DOI 10.1016/j.landurbplan.2006.11.009
+   Mcdonald RI, 2008, BIOL CONSERV, V141, P1695, DOI 10.1016/j.biocon.2008.04.025
+   McDonnell MJ, 2008, LANDSCAPE ECOL, V23, P1143, DOI 10.1007/s10980-008-9253-4
+   McFrederick QS, 2006, BIOL CONSERV, V129, P372, DOI 10.1016/j.biocon.2005.11.004
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   Melles S., 2005, URBAN HABITATS, V1, P25
+   Mennis J, 2006, PHOTOGRAMM ENG REM S, V72, P911, DOI 10.14358/PERS.72.8.911
+   Miller JR, 2005, TRENDS ECOL EVOL, V20, P430, DOI 10.1016/j.tree.2005.05.013
+   Miotk P, 1996, ZOOL ANZ, V235, P101
+   Mitchell R, 2008, LANCET, V372, P1655, DOI 10.1016/S0140-6736(08)61689-X
+   Mockford EJ, 2009, P ROY SOC B-BIOL SCI, V276, P2979, DOI 10.1098/rspb.2009.0586
+   Niinemets U, 2008, TRENDS PLANT SCI, V13, P60, DOI 10.1016/j.tplants.2007.11.009
+   Osborne JL, 2008, J APPL ECOL, V45, P784, DOI 10.1111/j.1365-2664.2007.01359.x
+   OWEN J., 1991, ECOLOGY GARDEN 1 15
+   Palomino D, 2006, LANDSCAPE URBAN PLAN, V77, P276, DOI 10.1016/j.landurbplan.2005.04.003
+   Parker K, 2008, LANDSCAPE URBAN PLAN, V86, P47, DOI 10.1016/j.landurbplan.2007.12.007
+   Parris KM, 2006, J ANIM ECOL, V75, P757, DOI 10.1111/j.1365-2656.2006.01096.x
+   Partecke J, 2007, ECOLOGY, V88, P882, DOI 10.1890/06-1105
+   Pautasso M, 2007, ECOL LETT, V10, P16, DOI 10.1111/j.1461-0248.2006.00993.x
+   Raymond L, 2008, SOC NATUR RESOUR, V21, P483, DOI 10.1080/08941920801905203
+   Robinson J, 2008, FUTURES, V40, P70, DOI 10.1016/j.futures.2007.06.007
+   Rudd H, 2002, RESTOR ECOL, V10, P368, DOI 10.1046/j.1526-100X.2002.02041.x
+   Sadler JP, 2006, J BIOGEOGR, V33, P1126, DOI 10.1111/j.1365-2699.2006.01476.x
+   Shen WJ, 2008, ECOSYSTEMS, V11, P138, DOI 10.1007/s10021-007-9085-0
+   Shochat E, 2006, TRENDS ECOL EVOL, V21, P186, DOI 10.1016/j.tree.2005.11.019
+   Sims V, 2008, DIVERS DISTRIB, V14, P387, DOI 10.1111/j.1472-4642.2007.00444.x
+   Slabbekoorn H, 2008, MOL ECOL, V17, P72, DOI 10.1111/j.1365-294X.2007.03487.x
+   Smith RM, 2006, BIODIVERS CONSERV, V15, P2515, DOI 10.1007/s10531-005-2784-y
+   Smith RM, 2006, BIODIVERS CONSERV, V15, P2415, DOI 10.1007/s10531-004-5014-0
+   Sperling Corinne D., 2010, Urban Ecosystems, V13, P223, DOI 10.1007/s11252-009-0114-y
+   THOMPSON PS, 1993, BIRD STUDY, V40, P120, DOI 10.1080/00063659309477137
+   Troy AR, 2007, ENVIRON MANAGE, V40, P394, DOI 10.1007/s00267-006-0112-2
+   UNFPA-United Nations Population Fund, 2007, STAT WORLD POP 2007
+   van Heezik Y, 2008, LANDSCAPE URBAN PLAN, V87, P223, DOI 10.1016/j.landurbplan.2008.06.004
+   Wania A, 2006, LANDSCAPE URBAN PLAN, V75, P97, DOI 10.1016/j.landurbanplan.2004.12.006
+   Warren PS, 2008, BIOL CONSERV, V141, P3, DOI 10.1016/j.biocon.2007.10.005
+   Weng YC, 2007, LANDSCAPE URBAN PLAN, V81, P341, DOI 10.1016/j.landurbplan.2007.01.009
+   Whelan RJ, 2006, BIOL CONSERV, V128, P493, DOI 10.1016/j.biocon.2005.10.016
+   White JG, 2005, LANDSCAPE URBAN PLAN, V71, P123, DOI 10.1016/j.landurbplan.2004.02.006
+   Zhou WQ, 2009, SOC NATUR RESOUR, V22, P744, DOI 10.1080/08941920802074330
+   Zmyslony J, 1998, LANDSCAPE URBAN PLAN, V40, P295, DOI 10.1016/S0169-2046(97)00090-X
+NR 107
+TC 429
+Z9 451
+U1 52
+U2 692
+PU ELSEVIER SCIENCE LONDON
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0169-5347
+J9 TRENDS ECOL EVOL
+JI Trends Ecol. Evol.
+PD FEB
+PY 2010
+VL 25
+IS 2
+BP 90
+EP 98
+DI 10.1016/j.tree.2009.07.016
+PG 9
+WC Ecology; Evolutionary Biology; Genetics & Heredity
+SC Environmental Sciences & Ecology; Evolutionary Biology; Genetics &
+   Heredity
+GA 558ST
+UT WOS:000274767100007
+PM 19758724
+HC Y
+HP N
+DA 2019-03-26
+ER
+
+PT J
+AU Zheng, HY
+   Song, WG
+   Satoh, K
+AF Zheng, Hongyang
+   Song, Weiguo
+   Satoh, Kohyu
+TI Detecting long-range correlations in fire sequences with Detrended
+   fluctuation analysis
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Forest fire; Urban fire; Long-range correlation; Detrended fluctuation
+   analysis
+ID SELF-ORGANIZED CRITICALITY; POWER-LAW DISTRIBUTION; TIME-SERIES; SCALING
+   PROPERTIES; FOREST-FIRES; WILDFIRES
+AB The spatial-temporal power-law distributions are found in many natural systems, which have self-similarity and fractal behavior. By analyzing the time series of such systems, we could expect to explore and understand the underlying mechanisms. In this paper, the Detrended fluctuation analysis (DFA) is used to analyze the long-range correlations of forest and urban fires in Japan and China. It is found that the interevent time series of both forest and urban fires have the persistent long-range power-law correlations, and they all have two scaling exponents, alpha(1) and alpha(2) which are both bigger than 0.5 and smaller than 1.0, despite the different regions and countries. For forest fires, 0.61 < alpha(1) < 0.73, 0.87 < alpha(2) < 0.98 and for urban fires, 0.52 < alpha(1) < 0.61, 0.59 < alpha(2) < 0.88. The result Suggests that fires have self-similarity characteristics. The occurrence of forest fires may have connection with the weather fluctuations, which have significant effects on the ignition and have the similar temporal correlations. it is shown that the interval sequences of urban fires closely resemble that of white noise in small timescale, and the correlations are weaker than that of forest fires. Human behavior and human density may affect the long-range correlation in some way. This seems to be helpful to understand the complexity of fire system in temporal aspect. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Zheng, Hongyang; Song, Weiguo; Satoh, Kohyu] Univ Sci & Technol China, State Key Lab Fire Sci, Hefei 230026, Peoples R China.
+RP Song, WG (reprint author), Univ Sci & Technol China, State Key Lab Fire Sci, Hefei 230026, Peoples R China.
+EM wgsong@ustc.edu.cn
+FU China National Natural Science Foundation [30400344]; National Science &
+   Technology Pillar Program [2006BAK01A02-06]; R&D Special Fund for Public
+   Welfare Industry [200704027]
+FX The study is supported by China National Natural Science Foundation (No.
+   30400344), National Science & Technology Pillar Program
+   (2006BAK01A02-06) and R&D Special Fund for Public Welfare Industry
+   (forestry, 200704027).
+CR ALVAREZRAMIREZ J, 2009, PHYS REV E, V79, P5103
+   Boffetta G, 1999, PHYS REV LETT, V83, P4662, DOI 10.1103/PhysRevLett.83.4662
+   Carbone A, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026105
+   Carbone A, 2004, PHYSICA A, V340, P544, DOI 10.1016/j.physa.2004.05.004
+   Carbone A, 2007, PHYSICA A, V384, P21, DOI 10.1016/j.physa.2007.04.105
+   Christensen K, 2003, P NATL ACAD SCI USA, V100, P4352, DOI 10.1073/pnas.0630527100
+   Corral A, 2004, PHYSICA A, V340, P590, DOI 10.1016/j.physa.2004.05.010
+   CORRAL A, 2004, PHYS REV LETT, V92
+   CORRAL A, 2008, PHYS REV E, V77, P5103
+   Elsner JB, 1999, J CLIMATE, V12, P427, DOI 10.1175/1520-0442(1999)012<0427:FINAHF>2.0.CO;2
+   Evett RR, 2008, AGR FOREST METEOROL, V148, P1478, DOI 10.1016/j.agrformet.2008.05.002
+   Fraedrich K., 2003, PHYS REV LETT, V90
+   Gopikrishnan P, 2000, PHYSICA A, V287, P362, DOI 10.1016/S0378-4371(00)00375-7
+   Koscielny-Bunde E, 1998, PHYS REV LETT, V81, P729, DOI 10.1103/PhysRevLett.81.729
+   Malamud BD, 2005, P NATL ACAD SCI USA, V102, P4694, DOI 10.1073/pnas.0500880102
+   Matsoukas C, 2000, J GEOPHYS RES-ATMOS, V105, P29165, DOI 10.1029/2000JD900419
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   PENG CK, 1995, CHAOS, V5, P82, DOI 10.1063/1.166141
+   Peters O., 2002, PHYS REV LETT, V88
+   Ricotta C, 1999, ECOL MODEL, V119, P73, DOI 10.1016/S0304-3800(99)00057-5
+   Ricotta C, 2006, ECOL MODEL, V197, P512, DOI 10.1016/j.ecolmodel.2006.03.029
+   Song WG, 2003, FIRE SAFETY J, V38, P453, DOI 10.1016/S0379-7112(02)00084-X
+   Song WG, 2001, ECOL MODEL, V145, P61, DOI 10.1016/S0304-3800(01)00383-0
+   SONG WG, 2007, PHYS REV E, V75, P5103
+   Stanley HE, 1999, PHYSICA A, V270, P309, DOI 10.1016/S0378-4371(99)00230-7
+   Talkner P, 2000, PHYS REV E, V62, P150, DOI 10.1103/PhysRevE.62.150
+   Telesca L, 2005, ECOL MODEL, V185, P531, DOI 10.1016/j.ecolmodel.2005.01.009
+   Telesca L, 2007, PHYSICA A, V384, P516, DOI 10.1016/j.physa.2007.05.041
+   Telesca L, 2007, PHYSICA A, V377, P279, DOI 10.1016/j.physa.2006.10.092
+   Telesca L, 2010, ECOL MODEL, V221, P90, DOI 10.1016/j.ecolmodel.2009.01.019
+   VATTAY G, 1994, PHYS REV LETT, V73, P768, DOI 10.1103/PhysRevLett.73.768
+   Wang J, 2010, ECOL MODEL, V221, P85, DOI 10.1016/j.ecolmodel.2009.03.007
+   Song WG, 2006, ECOL MODEL, V196, P527, DOI 10.1016/j.ecolmodel.2006.02.033
+   Zheng HY, 2008, PHYSICA A, V387, P2091, DOI 10.1016/j.physa.2007.11.020
+NR 34
+TC 7
+Z9 7
+U1 0
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD FEB 15
+PY 2010
+VL 389
+IS 4
+BP 837
+EP 842
+DI 10.1016/j.physa.2009.10.022
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA 544XR
+UT WOS:000273694300021
+DA 2019-03-26
+ER
+
+PT J
+AU Fang, J
+   Shi, J
+   Chen, XQ
+   Qin, Z
+AF Fang, Jun
+   Shi, Jing
+   Chen, Xi-Qun
+   Qin, Zheng
+TI A TWO-DIMENSIONAL CA TRAFFIC MODEL WITH DYNAMIC ROUTE CHOICES BETWEEN
+   RESIDENCE AND WORKPLACE
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS C
+LA English
+DT Article
+DE Cellular automata; BML; residence-workplace; dynamic route choices;
+   origin-destination
+ID SELF-ORGANIZATION; FLOW MODEL; TRANSITION; SYSTEMS; JAM
+AB The Biham, Middleton and Levine (BML) model is extended to describe dynamic route choices between the residence and work place in cities. The traffic dynamic in the city with a single work place is studied from the velocity diagram, arrival time probability distribution, destination arrival rate and convergence time. The city with double work places is also investigated to compare with a single work place within the framework of four modes of urban growth. The transitional region is found in the velocity diagrams where the system undergoes a continuous transition from a moving phase to a completely jamming phase. We perform a finite-size scaling analysis of the critical density from a statistical point of view and the order parameter of this jamming transition is estimated. It is also found that statistical properties of urban traffic are greatly influenced by the urban area, work place area and urban layout.
+C1 [Fang, Jun; Qin, Zheng] Tsinghua Univ, Dept Comp Sci & Technol, Beijing 100084, Peoples R China.
+   [Shi, Jing] Tsinghua Univ, Inst Transportat Engn, Beijing 100084, Peoples R China.
+   [Chen, Xi-Qun] Tsinghua Univ, Dept Civil Engn, Beijing 100084, Peoples R China.
+RP Fang, J (reprint author), Tsinghua Univ, Dept Comp Sci & Technol, Beijing 100084, Peoples R China.
+EM fangjun06@mails.tsinghua.edu.cn; jingshi@tsinghua.edu.cn;
+   chenxq04@mails.tsinghua.edu.cn; qingzh@tsinghua.edu.cn
+RI ZJU, ITE/M-7798-2015; Chen, Xiqun (Michael)/D-9847-2015
+OI Chen, Xiqun (Michael)/0000-0001-8285-084X
+FU National Key Technology RD Program [2009BAG13A05]; Key Science and
+   Technology Programs of Dongguan City [200910814006]
+FX This work is financially supported by the National Key Technology R&D
+   Program (Grant No. 2009BAG13A05) and the Key Science and Technology
+   Programs of Dongguan City (Grant No. 200910814006). We thank L.Li from
+   the key 973 project at the ITS Laboratory of Tsinghua University for
+   help and discussions. We are thankful to B. Leng at the School of
+   Computer Science and Engineering of Beihang University (BUAA) for his
+   instructing in academic writing. We also thank J. X. Zhang and J .K.
+   Xing for setting up the computing environment for our simulations.
+CR Belbasi S, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/07/P07021
+   Benyoussef A, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.0261XX
+   BIHAM O, 1992, PHYS REV A, V46, pR6124, DOI 10.1103/PhysRevA.46.R6124
+   Brockfeld E, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.056132
+   Chowdhury D, 2000, PHYS REP, V329, P199, DOI 10.1016/S0370-1573(99)00117-9
+   Chowdhury D, 1999, PHYS REV E, V59, pR1311, DOI 10.1103/PhysRevE.59.R1311
+   Helbing D, 2001, REV MOD PHYS, V73, P1067, DOI 10.1103/RevModPhys.73.1067
+   Huang DW, 2007, CHINESE J PHYS, V45, P708
+   In-nani J., 2007, PHYSICA A, V378, P485
+   MARTINEZ FC, 1995, PHYS REV E, V51, pR835, DOI 10.1103/PhysRevE.51.R835
+   Moussa N, 2007, INT J MOD PHYS C, V18, P1047, DOI 10.1142/S012918310701111X
+   Moussa N, 2009, INT J MOD PHYS B, V23, P169, DOI 10.1142/S021797920904953X
+   NAGATANI T, 1993, J PHYS SOC JPN, V62, P2656, DOI 10.1143/JPSJ.62.2656
+   NAGATANI T, 1995, J PHYS SOC JPN, V64, P1421, DOI 10.1143/JPSJ.64.1421
+   Shi X Q, 2007, PHYSICA A, V385, P659
+   Shi Y, 1999, COMMUN THEOR PHYS, V31, P85
+   Spyropoulou I, 2007, TRANSPORT RES C-EMER, V15, P175, DOI 10.1016/j.trc.2007.04.001
+   Toledo BA, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.016107
+   Torok J, 1996, PHYSICA A, V231, P515, DOI 10.1016/0378-4371(96)00144-6
+NR 19
+TC 4
+Z9 4
+U1 1
+U2 20
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0129-1831
+J9 INT J MOD PHYS C
+JI Int. J. Mod. Phys. C
+PD FEB
+PY 2010
+VL 21
+IS 2
+BP 221
+EP 237
+DI 10.1142/S0129183110015075
+PG 17
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+SC Computer Science; Physics
+GA 567TI
+UT WOS:000275469100006
+DA 2019-03-26
+ER

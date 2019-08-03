@@ -1,0 +1,3902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">WASTE MANAGE</data>
+  <data key="label">WASTE MANAGE</data>
+  <data key="author">Waste M</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">WASTE MANAGE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="1">
+  <data key="name">ECOL ECON</data>
+  <data key="label">ECOL ECON</data>
+  <data key="author">Ecol E</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">ECOL ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">83</data>
+  <data key="centrality">0.021378387165292924</data>
+</node>
+<node id="2">
+  <data key="name">ECON GEOGR</data>
+  <data key="label">ECON GEOGR</data>
+  <data key="author">Econ G</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">ECON GEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+  <data key="centrality">0.03069477019081869</data>
+</node>
+<node id="3">
+  <data key="name">PHYS REV E</data>
+  <data key="label">PHYS REV E</data>
+  <data key="author">Phys REVE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">PHYS REV E</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">181</data>
+  <data key="centrality">4.014720642355303E-4</data>
+</node>
+<node id="4">
+  <data key="name">BIOL REV</data>
+  <data key="label">BIOL REV</data>
+  <data key="author">Biol REV</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">BIOL REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="5">
+  <data key="name">BIOMETRICS</data>
+  <data key="label">BIOMETRICS</data>
+  <data key="author">BIOMETRICS</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">BIOMETRICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="6">
+  <data key="name">URBAN STUD</data>
+  <data key="label">URBAN STUD</data>
+  <data key="author">Urban S</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">URBAN STUD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">124</data>
+  <data key="centrality">0.01251254600200736</data>
+</node>
+<node id="7">
+  <data key="name">GLOBAL CHANGE BIOL</data>
+  <data key="label">GLOBAL CHANGE BIOL</data>
+  <data key="author">Global CB</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">GLOBAL CHANGE BIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="8">
+  <data key="name">PHILOS T ROY SOC B</data>
+  <data key="label">PHILOS T ROY SOC B</data>
+  <data key="author">Philos TROYSOCB</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">PHILOS T ROY SOC B</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="9">
+  <data key="name">CITIES THEIR VITAL S</data>
+  <data key="label">CITIES THEIR VITAL S</data>
+  <data key="author">Cities TVS</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">CITIES THEIR VITAL S</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="10">
+  <data key="name">EVERY DROP COUNTS EN</data>
+  <data key="label">EVERY DROP COUNTS EN</data>
+  <data key="author">Every DCEN</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">EVERY DROP COUNTS EN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="11">
+  <data key="name">J URBAN HEALTH</data>
+  <data key="label">J URBAN HEALTH</data>
+  <data key="author">J UH</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">J URBAN HEALTH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="12">
+  <data key="name">PROG HUM GEOG</data>
+  <data key="label">PROG HUM GEOG</data>
+  <data key="author">Prog HUMG</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">PROG HUM GEOG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="13">
+  <data key="name">LANDSCAPE ECOL</data>
+  <data key="label">LANDSCAPE ECOL</data>
+  <data key="author">Landscape E</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">LANDSCAPE ECOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">27</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="14">
+  <data key="name">AM J POLIT SCI</data>
+  <data key="label">AM J POLIT SCI</data>
+  <data key="author">Am JPSCI</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">AM J POLIT SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="15">
+  <data key="name">EUR PHYS J B</data>
+  <data key="label">EUR PHYS J B</data>
+  <data key="author">Eur PJB</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">EUR PHYS J B</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">88</data>
+  <data key="centrality">0.014988291163873657</data>
+</node>
+<node id="16">
+  <data key="name">ECOSYSTEMS</data>
+  <data key="label">ECOSYSTEMS</data>
+  <data key="author">ECOSYSTEMS</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ECOSYSTEMS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">26</data>
+  <data key="centrality">0.020114865850229733</data>
+</node>
+<node id="17">
+  <data key="name">AM ANTIQUITY</data>
+  <data key="label">AM ANTIQUITY</data>
+  <data key="author">Am A</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">AM ANTIQUITY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="18">
+  <data key="name">CITIES CREATIVE CLAS</data>
+  <data key="label">CITIES CREATIVE CLAS</data>
+  <data key="author">Cities CC</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">CITIES CREATIVE CLAS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="19">
+  <data key="name">FRESHWATER BIOL</data>
+  <data key="label">FRESHWATER BIOL</data>
+  <data key="author">Freshwater B</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">FRESHWATER BIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="20">
+  <data key="name">TECHNICAL REPORT</data>
+  <data key="label">TECHNICAL REPORT</data>
+  <data key="author">Technical R</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">TECHNICAL REPORT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="21">
+  <data key="name">IND CORP CHANGE</data>
+  <data key="label">IND CORP CHANGE</data>
+  <data key="author">Ind CC</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">IND CORP CHANGE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="22">
+  <data key="name">AGR SYST</data>
+  <data key="label">AGR SYST</data>
+  <data key="author">Agr S</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">AGR SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="23">
+  <data key="name">WORLD POP PROSP 2008</data>
+  <data key="label">WORLD POP PROSP 2008</data>
+  <data key="author">World POPP2</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">WORLD POP PROSP 2008</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="24">
+  <data key="name">J CLEAN PROD</data>
+  <data key="label">J CLEAN PROD</data>
+  <data key="author">J CP</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J CLEAN PROD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+  <data key="centrality">0.001672800267648043</data>
+</node>
+<node id="25">
+  <data key="name">J POLIT ECON</data>
+  <data key="label">J POLIT ECON</data>
+  <data key="author">J PE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J POLIT ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">47</data>
+  <data key="centrality">0.005085312813650051</data>
+</node>
+<node id="26">
+  <data key="name">J CLIMATE</data>
+  <data key="label">J CLIMATE</data>
+  <data key="author">J C</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">J CLIMATE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="27">
+  <data key="name">CORRES MATH PHYSIQUE</data>
+  <data key="label">CORRES MATH PHYSIQUE</data>
+  <data key="author">Corres MP</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">CORRES MATH PHYSIQUE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="28">
+  <data key="name">GEOGR ANAL</data>
+  <data key="label">GEOGR ANAL</data>
+  <data key="author">Geogr A</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">GEOGR ANAL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">52</data>
+  <data key="centrality">0.012780194044831049</data>
+</node>
+<node id="29">
+  <data key="name">ECOL MODEL</data>
+  <data key="label">ECOL MODEL</data>
+  <data key="author">Ecol M</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ECOL MODEL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+  <data key="centrality">0.011371696235623875</data>
+</node>
+<node id="30">
+  <data key="name">BIOL LETTERS</data>
+  <data key="label">BIOL LETTERS</data>
+  <data key="author">Biol L</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">BIOL LETTERS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="31">
+  <data key="name">SCIENTOMETRICS</data>
+  <data key="label">SCIENTOMETRICS</data>
+  <data key="author">SCIENTOMETRICS</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SCIENTOMETRICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+  <data key="centrality">6.691201070592172E-5</data>
+</node>
+<node id="32">
+  <data key="name">REGIONAL SCI URBAN E</data>
+  <data key="label">REGIONAL SCI URBAN E</data>
+  <data key="author">*REGIONALSCIURBANE</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">REGIONAL SCI URBAN E</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="33">
+  <data key="name">FUTURES</data>
+  <data key="label">FUTURES</data>
+  <data key="author">FUTURES</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">FUTURES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="34">
+  <data key="name">J REGIONAL SCI</data>
+  <data key="label">J REGIONAL SCI</data>
+  <data key="author">*JREGIONALSCI</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J REGIONAL SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">54</data>
+  <data key="centrality">0.03472733352446724</data>
+</node>
+<node id="35">
+  <data key="name">EUROPHYS LETT</data>
+  <data key="label">EUROPHYS LETT</data>
+  <data key="author">Europhys L</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">EUROPHYS LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="36">
+  <data key="name">AM NAT</data>
+  <data key="label">AM NAT</data>
+  <data key="author">Am NAT</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">AM NAT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+  <data key="centrality">1.3382402141184343E-4</data>
+</node>
+<node id="37">
+  <data key="name">TRIUMPH CITY OUR GRE</data>
+  <data key="label">TRIUMPH CITY OUR GRE</data>
+  <data key="author">Triumph COURGRE</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">TRIUMPH CITY OUR GRE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="38">
+  <data key="name">GEOFORUM</data>
+  <data key="label">GEOFORUM</data>
+  <data key="author">GEOFORUM</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">GEOFORUM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="39">
+  <data key="name">CAN J CIVIL ENG</data>
+  <data key="label">CAN J CIVIL ENG</data>
+  <data key="author">Can JCENG</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CAN J CIVIL ENG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="40">
+  <data key="name">EUR J OPER RES</data>
+  <data key="label">EUR J OPER RES</data>
+  <data key="author">Eur JORES</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">EUR J OPER RES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="41">
+  <data key="name">HABITAT INT</data>
+  <data key="label">HABITAT INT</data>
+  <data key="author">Habitat INT</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">HABITAT INT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="42">
+  <data key="name">BIOSCIENCE</data>
+  <data key="label">BIOSCIENCE</data>
+  <data key="author">BIOSCIENCE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">BIOSCIENCE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">56</data>
+  <data key="centrality">0.07691647480785668</data>
+</node>
+<node id="43">
+  <data key="name">ENVIRON URBAN</data>
+  <data key="label">ENVIRON URBAN</data>
+  <data key="author">Environ U</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON URBAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">40</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="44">
+  <data key="name">WATER RESOUR RES</data>
+  <data key="label">WATER RESOUR RES</data>
+  <data key="author">Water RRES</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">WATER RESOUR RES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="45">
+  <data key="name">J URBAN TECHNOL</data>
+  <data key="label">J URBAN TECHNOL</data>
+  <data key="author">J UT</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">J URBAN TECHNOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="46">
+  <data key="name">URBAN DYNAMICS</data>
+  <data key="label">URBAN DYNAMICS</data>
+  <data key="author">Urban D</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">URBAN DYNAMICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="47">
+  <data key="name">SOC FORCES</data>
+  <data key="label">SOC FORCES</data>
+  <data key="author">Soc F</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SOC FORCES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="48">
+  <data key="name">J AM WATER RESOUR AS</data>
+  <data key="label">J AM WATER RESOUR AS</data>
+  <data key="author">J AMWRAS</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">J AM WATER RESOUR AS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="49">
+  <data key="name">TECHNOL SOC</data>
+  <data key="label">TECHNOL SOC</data>
+  <data key="author">Technol SOC</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">TECHNOL SOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="50">
+  <data key="name">URBAN AFF REV</data>
+  <data key="label">URBAN AFF REV</data>
+  <data key="author">Urban AFFREV</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">URBAN AFF REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="51">
+  <data key="name">J ECON GEOGR</data>
+  <data key="label">J ECON GEOGR</data>
+  <data key="author">J EG</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">J ECON GEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">30</data>
+  <data key="centrality">0.02554254537443925</data>
+</node>
+<node id="52">
+  <data key="name">POPUL ENVIRON</data>
+  <data key="label">POPUL ENVIRON</data>
+  <data key="author">Popul E</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">POPUL ENVIRON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="53">
+  <data key="name">COMPUTERS</data>
+  <data key="label">COMPUTERS</data>
+  <data key="author">COMPUTERS</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">COMPUTERS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="54">
+  <data key="name">J ECON DYN CONTROL</data>
+  <data key="label">J ECON DYN CONTROL</data>
+  <data key="author">J EDYNC</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">J ECON DYN CONTROL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="55">
+  <data key="name">ENVIRON MANAGE</data>
+  <data key="label">ENVIRON MANAGE</data>
+  <data key="author">Environ M</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON MANAGE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.001672800267648043</data>
+</node>
+<node id="56">
+  <data key="name">URBAN ECOSYSTEMS</data>
+  <data key="label">URBAN ECOSYSTEMS</data>
+  <data key="author">Urban E</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">Urban Ecosystems</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="57">
+  <data key="name">PHYSICA D</data>
+  <data key="label">PHYSICA D</data>
+  <data key="author">Physica D</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">PHYSICA D</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="58">
+  <data key="name">NATURE</data>
+  <data key="label">NATURE</data>
+  <data key="author">NATURE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">NATURE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">364</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="59">
+  <data key="name">ECON J</data>
+  <data key="label">ECON J</data>
+  <data key="author">Econ J</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ECON J</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="60">
+  <data key="name">ECOLOGY</data>
+  <data key="label">ECOLOGY</data>
+  <data key="author">ECOLOGY</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ECOLOGY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">44</data>
+  <data key="centrality">0.009568417530946805</data>
+</node>
+<node id="61">
+  <data key="name">SCI REP-UK</data>
+  <data key="label">SCI REP-UK</data>
+  <data key="author">Sci R</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SCI REP-UK</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">134</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="62">
+  <data key="name">PHYSICA A</data>
+  <data key="label">PHYSICA A</data>
+  <data key="author">Physica A</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">PHYSICA A</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">182</data>
+  <data key="centrality">0.03733690401589683</data>
+</node>
+<node id="63">
+  <data key="name">URBAN GEOGR</data>
+  <data key="label">URBAN GEOGR</data>
+  <data key="author">Urban G</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">URBAN GEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+  <data key="centrality">0.001672800267648043</data>
+</node>
+<node id="64">
+  <data key="name">J URBAN ECON</data>
+  <data key="label">J URBAN ECON</data>
+  <data key="author">J UE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J URBAN ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">97</data>
+  <data key="centrality">0.026858481494588332</data>
+</node>
+<node id="65">
+  <data key="name">HILGARDIA</data>
+  <data key="label">HILGARDIA</data>
+  <data key="author">HILGARDIA</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">HILGARDIA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="66">
+  <data key="name">MEGALOPOLIS URBANIZE</data>
+  <data key="label">MEGALOPOLIS URBANIZE</data>
+  <data key="author">Megalopolis U</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">MEGALOPOLIS URBANIZE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="67">
+  <data key="name">NAT PHYS</data>
+  <data key="label">NAT PHYS</data>
+  <data key="author">Nat P</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">NAT PHYS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">30</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="68">
+  <data key="name">LAND ECON</data>
+  <data key="label">LAND ECON</data>
+  <data key="author">Land E</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">LAND ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="69">
+  <data key="name">TECHNOL FORECAST SOC</data>
+  <data key="label">TECHNOL FORECAST SOC</data>
+  <data key="author">Technol FSOC</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">TECHNOL FORECAST SOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="70">
+  <data key="name">APPL GEOGR</data>
+  <data key="label">APPL GEOGR</data>
+  <data key="author">Appl G</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">APPL GEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="71">
+  <data key="name">CENTRAL PLACES SO GE</data>
+  <data key="label">CENTRAL PLACES SO GE</data>
+  <data key="author">Central PSOGE</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">CENTRAL PLACES SO GE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="72">
+  <data key="name">SIAM REV</data>
+  <data key="label">SIAM REV</data>
+  <data key="author">Siam REV</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SIAM REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">55</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="73">
+  <data key="name">POPUL DEV REV</data>
+  <data key="label">POPUL DEV REV</data>
+  <data key="author">Popul DEVREV</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">POPUL DEV REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="74">
+  <data key="name">NEW J PHYS</data>
+  <data key="label">NEW J PHYS</data>
+  <data key="author">New JP</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">NEW J PHYS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="75">
+  <data key="name">AMBIO</data>
+  <data key="label">AMBIO</data>
+  <data key="author">AMBIO</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">AMBIO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">54</data>
+  <data key="centrality">0.05901862393657114</data>
+</node>
+<node id="76">
+  <data key="name">SCALE UNIVERSAL LAWS</data>
+  <data key="label">SCALE UNIVERSAL LAWS</data>
+  <data key="author">Scale UL</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SCALE UNIVERSAL LAWS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="77">
+  <data key="name">ECOL APPL</data>
+  <data key="label">ECOL APPL</data>
+  <data key="author">Ecol A</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ECOL APPL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.021940448292923357</data>
+</node>
+<node id="78">
+  <data key="name">J ROY STAT SOC A STA</data>
+  <data key="label">J ROY STAT SOC A STA</data>
+  <data key="author">J ROYSSOCASTA</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J ROY STAT SOC A STA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="79">
+  <data key="name">SELF ORG COMPLEX ECO</data>
+  <data key="label">SELF ORG COMPLEX ECO</data>
+  <data key="author">Self ORGCECO</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SELF ORG COMPLEX ECO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="80">
+  <data key="name">J KOREAN PHYS SOC</data>
+  <data key="label">J KOREAN PHYS SOC</data>
+  <data key="author">J KPSOC</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J KOREAN PHYS SOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="81">
+  <data key="name">CITIES WEALTH NATION</data>
+  <data key="label">CITIES WEALTH NATION</data>
+  <data key="author">Cities WN</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">CITIES WEALTH NATION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="82">
+  <data key="name">DYNAMICS GLOBAL URBA</data>
+  <data key="label">DYNAMICS GLOBAL URBA</data>
+  <data key="author">Dynamics GU</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">DYNAMICS GLOBAL URBA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="83">
+  <data key="name">SOC SCI MED</data>
+  <data key="label">SOC SCI MED</data>
+  <data key="author">Soc SCIMED</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SOC SCI MED</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="84">
+  <data key="name">ANN NY ACAD SCI</data>
+  <data key="label">ANN NY ACAD SCI</data>
+  <data key="author">Ann NYASCI</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">ANN NY ACAD SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="85">
+  <data key="name">PROF GEOGR</data>
+  <data key="label">PROF GEOGR</data>
+  <data key="author">Prof G</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">PROF GEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="86">
+  <data key="name">ENERGY</data>
+  <data key="label">ENERGY</data>
+  <data key="author">ENERGY</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">ENERGY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="87">
+  <data key="name">CITIES COMPLEXITY UN</data>
+  <data key="label">CITIES COMPLEXITY UN</data>
+  <data key="author">Cities CUN</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">CITIES COMPLEXITY UN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="88">
+  <data key="name">EC CITIES</data>
+  <data key="label">EC CITIES</data>
+  <data key="author">Ec C</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">EC CITIES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="89">
+  <data key="name">NAT GEOSCI</data>
+  <data key="label">NAT GEOSCI</data>
+  <data key="author">Nat G</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">NAT GEOSCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="90">
+  <data key="name">SUSTAINABILITY-BASEL</data>
+  <data key="label">SUSTAINABILITY-BASEL</data>
+  <data key="author">SUSTAINABILITY-BASEL</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SUSTAINABILITY-BASEL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="91">
+  <data key="name">METHODS SER</data>
+  <data key="label">METHODS SER</data>
+  <data key="author">Methods SER</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">METHODS SER</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="92">
+  <data key="name">ENVIRON POLLUT</data>
+  <data key="label">ENVIRON POLLUT</data>
+  <data key="author">Environ P</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON POLLUT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">25</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="93">
+  <data key="name">CHAOS</data>
+  <data key="label">CHAOS</data>
+  <data key="author">CHAOS</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">CHAOS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="94">
+  <data key="name">ENVIRON PLANN A</data>
+  <data key="label">ENVIRON PLANN A</data>
+  <data key="author">Environ PA</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON PLANN A</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">72</data>
+  <data key="centrality">0.007561057209769154</data>
+</node>
+<node id="95">
+  <data key="name">CLIMATE CHANGE 2007</data>
+  <data key="label">CLIMATE CHANGE 2007</data>
+  <data key="author">Climate C2</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CLIMATE CHANGE 2007</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="96">
+  <data key="name">STAT WORLDS CIT 2008</data>
+  <data key="label">STAT WORLDS CIT 2008</data>
+  <data key="author">Stat WCIT2</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">STAT WORLDS CIT 2008</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="97">
+  <data key="name">SCI TOTAL ENVIRON</data>
+  <data key="label">SCI TOTAL ENVIRON</data>
+  <data key="author">Sci TE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SCI TOTAL ENVIRON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="98">
+  <data key="name">ENVIRON PLANN B</data>
+  <data key="label">ENVIRON PLANN B</data>
+  <data key="author">Environ PB</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON PLANN B</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">102</data>
+  <data key="centrality">0.013583138173302109</data>
+</node>
+<node id="99">
+  <data key="name">PAP REG SCI</data>
+  <data key="label">PAP REG SCI</data>
+  <data key="author">Pap REGSCI</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">PAP REG SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="100">
+  <data key="name">APPL ENERG</data>
+  <data key="label">APPL ENERG</data>
+  <data key="author">Appl E</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">APPL ENERG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+  <data key="centrality">0.005085312813650051</data>
+</node>
+<node id="101">
+  <data key="name">ENTROPY URBAN REGION</data>
+  <data key="label">ENTROPY URBAN REGION</data>
+  <data key="author">Entropy UR</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ENTROPY URBAN REGION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="102">
+  <data key="name">J TRANSP GEOGR</data>
+  <data key="label">J TRANSP GEOGR</data>
+  <data key="author">J TG</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">J TRANSP GEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="103">
+  <data key="name">WORLD DEV</data>
+  <data key="label">WORLD DEV</data>
+  <data key="author">World DEV</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">WORLD DEV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="104">
+  <data key="name">ECOL LETT</data>
+  <data key="label">ECOL LETT</data>
+  <data key="author">Ecol L</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ECOL LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+  <data key="centrality">0.014988290398126464</data>
+</node>
+<node id="105">
+  <data key="name">J AM PLANN ASSOC</data>
+  <data key="label">J AM PLANN ASSOC</data>
+  <data key="author">J AMPA</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">J AM PLANN ASSOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">57</data>
+  <data key="centrality">0.003278688524590164</data>
+</node>
+<node id="106">
+  <data key="name">J EXP BIOL</data>
+  <data key="label">J EXP BIOL</data>
+  <data key="author">J EXPB</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">J EXP BIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="107">
+  <data key="name">P 9 ACM INT C MULT</data>
+  <data key="label">P 9 ACM INT C MULT</data>
+  <data key="author">P 9ACMINTCM</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P 9 ACM INT C MULT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="108">
+  <data key="name">J IND ECOL</data>
+  <data key="label">J IND ECOL</data>
+  <data key="author">J INDE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J IND ECOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">58</data>
+  <data key="centrality">0.005085312813650051</data>
+</node>
+<node id="109">
+  <data key="name">ROY SOC OPEN SCI</data>
+  <data key="label">ROY SOC OPEN SCI</data>
+  <data key="author">Roy SOCOSCI</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ROY SOC OPEN SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="110">
+  <data key="name">J R SOC INTERFACE</data>
+  <data key="label">J R SOC INTERFACE</data>
+  <data key="author">J RSOCI</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J R SOC INTERFACE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">109</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="111">
+  <data key="name">SCI AM</data>
+  <data key="label">SCI AM</data>
+  <data key="author">Sci AM</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SCI AM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">34</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="112">
+  <data key="name">SCI CULTURE</data>
+  <data key="label">SCI CULTURE</data>
+  <data key="author">Sci C</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SCI CULTURE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="113">
+  <data key="name">COURS EC POLITIQUE</data>
+  <data key="label">COURS EC POLITIQUE</data>
+  <data key="author">Cours ECP</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">COURS EC POLITIQUE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="114">
+  <data key="name">LANDSCAPE URBAN PLAN</data>
+  <data key="label">LANDSCAPE URBAN PLAN</data>
+  <data key="author">Landscape UP</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">LANDSCAPE URBAN PLAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">90</data>
+  <data key="centrality">0.007627969220475076</data>
+</node>
+<node id="115">
+  <data key="name">J URBAN PLAN D-ASCE</data>
+  <data key="label">J URBAN PLAN D-ASCE</data>
+  <data key="author">J UPD</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J URBAN PLAN D-ASCE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="116">
+  <data key="name">DISCRETE DYN NAT SOC</data>
+  <data key="label">DISCRETE DYN NAT SOC</data>
+  <data key="author">Discrete DYNNATSOC</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">DISCRETE DYN NAT SOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="117">
+  <data key="name">NEW SCI CITIES</data>
+  <data key="label">NEW SCI CITIES</data>
+  <data key="author">New SCIC</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">NEW SCI CITIES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">35</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="118">
+  <data key="name">SCI ADV</data>
+  <data key="label">SCI ADV</data>
+  <data key="author">Sci ADV</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SCI ADV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="119">
+  <data key="name">URB POP DEV ENV</data>
+  <data key="label">URB POP DEV ENV</data>
+  <data key="author">Urb POPDEVENV</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">URB POP DEV ENV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="120">
+  <data key="name">TRANSPORT RES C-EMER</data>
+  <data key="label">TRANSPORT RES C-EMER</data>
+  <data key="author">Transport RESC</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">TRANSPORT RES C-EMER</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="121">
+  <data key="name">CITIES AUTOMOBILE DE</data>
+  <data key="label">CITIES AUTOMOBILE DE</data>
+  <data key="author">Cities ADE</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CITIES AUTOMOBILE DE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="122">
+  <data key="name">ANNU REV ENV RESOUR</data>
+  <data key="label">ANNU REV ENV RESOUR</data>
+  <data key="author">Annu REVENVR</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">ANNU REV ENV RESOUR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">32</data>
+  <data key="centrality">0.026005353246416365</data>
+</node>
+<node id="123">
+  <data key="name">J STAT MECH-THEORY E</data>
+  <data key="label">J STAT MECH-THEORY E</data>
+  <data key="author">J SME</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J STAT MECH-THEORY E</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">32</data>
+  <data key="centrality">0.010103713616594179</data>
+</node>
+<node id="124">
+  <data key="name">Q J ECON</data>
+  <data key="label">Q J ECON</data>
+  <data key="author">Q JE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">Q J ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">96</data>
+  <data key="centrality">0.06790900219240568</data>
+</node>
+<node id="125">
+  <data key="name">GLOBAL ENVIRON CHANG</data>
+  <data key="label">GLOBAL ENVIRON CHANG</data>
+  <data key="author">Global EC</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">GLOBAL ENVIRON CHANG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">72</data>
+  <data key="centrality">0.03149882878456359</data>
+</node>
+<node id="126">
+  <data key="name">COMPUT ENVIRON URBAN</data>
+  <data key="label">COMPUT ENVIRON URBAN</data>
+  <data key="author">Comput EU</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT ENVIRON URBAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">28</data>
+  <data key="centrality">0.03797368143625027</data>
+</node>
+<node id="127">
+  <data key="name">CITIES URBAN LIFE</data>
+  <data key="label">CITIES URBAN LIFE</data>
+  <data key="author">Cities UL</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">CITIES URBAN LIFE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="128">
+  <data key="name">ANNU REV ENERG ENV</data>
+  <data key="label">ANNU REV ENERG ENV</data>
+  <data key="author">Annu REVEENV</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ANNU REV ENERG ENV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="129">
+  <data key="name">ECOL INDIC</data>
+  <data key="label">ECOL INDIC</data>
+  <data key="author">Ecol I</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ECOL INDIC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="130">
+  <data key="name">MATH MOD METH APPL S</data>
+  <data key="label">MATH MOD METH APPL S</data>
+  <data key="author">Math MODMAS</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">MATH MOD METH APPL S</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="131">
+  <data key="name">CONTEMP PHYS</data>
+  <data key="label">CONTEMP PHYS</data>
+  <data key="author">Contemp P</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CONTEMP PHYS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="132">
+  <data key="name">STRATEGIC MANAGE J</data>
+  <data key="label">STRATEGIC MANAGE J</data>
+  <data key="author">Strategic MJ</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">STRATEGIC MANAGE J</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="133">
+  <data key="name">STORMWATER</data>
+  <data key="label">STORMWATER</data>
+  <data key="author">STORMWATER</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">STORMWATER</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="134">
+  <data key="name">J TRANSLAND USE</data>
+  <data key="label">J TRANSLAND USE</data>
+  <data key="author">J TUSE</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J TRANSLAND USE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="135">
+  <data key="name">CITIES EC DEV DAWN H</data>
+  <data key="label">CITIES EC DEV DAWN H</data>
+  <data key="author">Cities ECDEVDH</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">CITIES EC DEV DAWN H</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="136">
+  <data key="name">DEMOGRAPHY</data>
+  <data key="label">DEMOGRAPHY</data>
+  <data key="author">DEMOGRAPHY</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">DEMOGRAPHY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="137">
+  <data key="name">J ECON LIT</data>
+  <data key="label">J ECON LIT</data>
+  <data key="author">J ELIT</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">J ECON LIT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="138">
+  <data key="name">J ECON PERSPECT</data>
+  <data key="label">J ECON PERSPECT</data>
+  <data key="author">J EP</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J ECON PERSPECT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">40</data>
+  <data key="centrality">0.005085312813650051</data>
+</node>
+<node id="139">
+  <data key="name">BIOMETRIKA</data>
+  <data key="label">BIOMETRIKA</data>
+  <data key="author">BIOMETRIKA</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">BIOMETRIKA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="140">
+  <data key="name">PHYS TODAY</data>
+  <data key="label">PHYS TODAY</data>
+  <data key="author">Phys T</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">PHYS TODAY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="141">
+  <data key="name">RES POLICY</data>
+  <data key="label">RES POLICY</data>
+  <data key="author">Res P</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">RES POLICY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">66</data>
+  <data key="centrality">0.001672800267648043</data>
+</node>
+<node id="142">
+  <data key="name">ORGAN SCI</data>
+  <data key="label">ORGAN SCI</data>
+  <data key="author">Organ SCI</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">ORGAN SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="143">
+  <data key="name">TRANSPORT RES A-POL</data>
+  <data key="label">TRANSPORT RES A-POL</data>
+  <data key="author">Transport RESA</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">TRANSPORT RES A-POL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="144">
+  <data key="name">PHYS REV LETT</data>
+  <data key="label">PHYS REV LETT</data>
+  <data key="author">Phys REVL</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">PHYS REV LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">127</data>
+  <data key="centrality">0.010103714127092309</data>
+</node>
+<node id="145">
+  <data key="name">BIOL CONSERV</data>
+  <data key="label">BIOL CONSERV</data>
+  <data key="author">Biol C</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">BIOL CONSERV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+  <data key="centrality">0.019542768022295383</data>
+</node>
+<node id="146">
+  <data key="name">PLOS ONE</data>
+  <data key="label">PLOS ONE</data>
+  <data key="author">Plos ONE</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">PLOS ONE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">296</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="147">
+  <data key="name">INT J GEOGR INF SCI</data>
+  <data key="label">INT J GEOGR INF SCI</data>
+  <data key="author">Int JGINFSCI</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">INT J GEOGR INF SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">45</data>
+  <data key="centrality">0.031656072230672475</data>
+</node>
+<node id="148">
+  <data key="name">J HYDR ENG DIV-ASCE</data>
+  <data key="label">J HYDR ENG DIV-ASCE</data>
+  <data key="author">J HENGD</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">J HYDR ENG DIV-ASCE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="149">
+  <data key="name">ECOL COMPLEX</data>
+  <data key="label">ECOL COMPLEX</data>
+  <data key="author">Ecol C</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ECOL COMPLEX</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="150">
+  <data key="name">FRACTAL GEOMETRY NAT</data>
+  <data key="label">FRACTAL GEOMETRY NAT</data>
+  <data key="author">Fractal GNAT</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">FRACTAL GEOMETRY NAT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="151">
+  <data key="name">TRANSPORT RES D-TR E</data>
+  <data key="label">TRANSPORT RES D-TR E</data>
+  <data key="author">Transport RESDE</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">TRANSPORT RES D-TR E</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="152">
+  <data key="name">ENVIRON RES LETT</data>
+  <data key="label">ENVIRON RES LETT</data>
+  <data key="author">Environ RESL</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON RES LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">34</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="153">
+  <data key="name">OIKOS</data>
+  <data key="label">OIKOS</data>
+  <data key="author">OIKOS</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">OIKOS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="154">
+  <data key="name">CITIES CIVILIZATION</data>
+  <data key="label">CITIES CIVILIZATION</data>
+  <data key="author">Cities C</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">CITIES CIVILIZATION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="155">
+  <data key="name">NAT CLIM CHANGE</data>
+  <data key="label">NAT CLIM CHANGE</data>
+  <data key="author">Nat CC</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">NAT CLIM CHANGE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">24</data>
+  <data key="centrality">0.00896620943459351</data>
+</node>
+<node id="156">
+  <data key="name">MANAGE SCI</data>
+  <data key="label">MANAGE SCI</data>
+  <data key="author">Manage SCI</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">MANAGE SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="157">
+  <data key="name">J ENVIRON MANAGE</data>
+  <data key="label">J ENVIRON MANAGE</data>
+  <data key="author">J EM</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">J ENVIRON MANAGE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+  <data key="centrality">0.0020910003485189867</data>
+</node>
+<node id="158">
+  <data key="name">ANNU REV ECOL SYST</data>
+  <data key="label">ANNU REV ECOL SYST</data>
+  <data key="author">Annu REVES</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ANNU REV ECOL SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.002358648396328007</data>
+</node>
+<node id="159">
+  <data key="name">J N AM BENTHOL SOC</data>
+  <data key="label">J N AM BENTHOL SOC</data>
+  <data key="author">J NAMBSOC</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J N AM BENTHOL SOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="160">
+  <data key="name">P ROY SOC B-BIOL SCI</data>
+  <data key="label">P ROY SOC B-BIOL SCI</data>
+  <data key="author">P ROYSOCBSCI</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">P ROY SOC B-BIOL SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">41</data>
+  <data key="centrality">0.0335898293743727</data>
+</node>
+<node id="161">
+  <data key="name">EUR PLAN STUD</data>
+  <data key="label">EUR PLAN STUD</data>
+  <data key="author">Eur PS</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">EUR PLAN STUD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="162">
+  <data key="name">SPATIAL EC CITIES RE</data>
+  <data key="label">SPATIAL EC CITIES RE</data>
+  <data key="author">Spatial ECCRE</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SPATIAL EC CITIES RE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.001672800267648043</data>
+</node>
+<node id="163">
+  <data key="name">LECT NOTES ARTIF INT</data>
+  <data key="label">LECT NOTES ARTIF INT</data>
+  <data key="author">Lect NAINT</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES ARTIF INT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="164">
+  <data key="name">CITIES COMPLEXITY</data>
+  <data key="label">CITIES COMPLEXITY</data>
+  <data key="author">Cities C</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">CITIES COMPLEXITY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="165">
+  <data key="name">MICROBES INFECT</data>
+  <data key="label">MICROBES INFECT</data>
+  <data key="author">Microbes I</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">MICROBES INFECT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="166">
+  <data key="name">PHILOS T R SOC A</data>
+  <data key="label">PHILOS T R SOC A</data>
+  <data key="author">Philos TRSOCA</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PHILOS T R SOC A</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="167">
+  <data key="name">PHILOS T R SOC B</data>
+  <data key="label">PHILOS T R SOC B</data>
+  <data key="author">Philos TRSOCB</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">PHILOS T R SOC B</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">19</data>
+  <data key="centrality">4.68384074941452E-4</data>
+</node>
+<node id="168">
+  <data key="name">J LAND USE SCI</data>
+  <data key="label">J LAND USE SCI</data>
+  <data key="author">J LUSESCI</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">J LAND USE SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="169">
+  <data key="name">HUMAN BEHAV PRINCIPL</data>
+  <data key="label">HUMAN BEHAV PRINCIPL</data>
+  <data key="author">Human BP</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">HUMAN BEHAV PRINCIPL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">42</data>
+  <data key="centrality">0.06574551450564096</data>
+</node>
+<node id="170">
+  <data key="name">LAND USE POLICY</data>
+  <data key="label">LAND USE POLICY</data>
+  <data key="author">Land USEP</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">LAND USE POLICY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="171">
+  <data key="name">CURR ANTHROPOL</data>
+  <data key="label">CURR ANTHROPOL</data>
+  <data key="author">Curr A</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">CURR ANTHROPOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="172">
+  <data key="name">ENVIRON IMPACT ASSES</data>
+  <data key="label">ENVIRON IMPACT ASSES</data>
+  <data key="author">Environ IA</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON IMPACT ASSES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="173">
+  <data key="name">COMPLEXITY</data>
+  <data key="label">COMPLEXITY</data>
+  <data key="author">COMPLEXITY</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">COMPLEXITY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="174">
+  <data key="name">SCIENCE</data>
+  <data key="label">SCIENCE</data>
+  <data key="author">SCIENCE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SCIENCE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">443</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="175">
+  <data key="name">P NATL ACAD SCI USA</data>
+  <data key="label">P NATL ACAD SCI USA</data>
+  <data key="author">P NASCIUSA</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">P NATL ACAD SCI USA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">635</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="176">
+  <data key="name">J BIOGEOGR</data>
+  <data key="label">J BIOGEOGR</data>
+  <data key="author">J B</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J BIOGEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="177">
+  <data key="name">WATER SCI TECHNOL</data>
+  <data key="label">WATER SCI TECHNOL</data>
+  <data key="author">Water SCIT</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">WATER SCI TECHNOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="178">
+  <data key="name">J ANIM ECOL</data>
+  <data key="label">J ANIM ECOL</data>
+  <data key="author">J AE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J ANIM ECOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="179">
+  <data key="name">ANN REGIONAL SCI</data>
+  <data key="label">ANN REGIONAL SCI</data>
+  <data key="author">*ANNREGIONALSCI</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">ANN REGIONAL SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="180">
+  <data key="name">RISE CREATIVE CLASS</data>
+  <data key="label">RISE CREATIVE CLASS</data>
+  <data key="author">Rise CC</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">RISE CREATIVE CLASS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="181">
+  <data key="name">AM J PREV MED</data>
+  <data key="label">AM J PREV MED</data>
+  <data key="author">Am JPMED</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">AM J PREV MED</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="182">
+  <data key="name">RENEW SUST ENERG REV</data>
+  <data key="label">RENEW SUST ENERG REV</data>
+  <data key="author">Renew SEREV</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">RENEW SUST ENERG REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="183">
+  <data key="name">LANCET</data>
+  <data key="label">LANCET</data>
+  <data key="author">LANCET</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">LANCET</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="184">
+  <data key="name">TRIUMPH CITY</data>
+  <data key="label">TRIUMPH CITY</data>
+  <data key="author">Triumph C</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">TRIUMPH CITY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="185">
+  <data key="name">J THEOR BIOL</data>
+  <data key="label">J THEOR BIOL</data>
+  <data key="author">J TB</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J THEOR BIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="186">
+  <data key="name">TRENDS ECOL EVOL</data>
+  <data key="label">TRENDS ECOL EVOL</data>
+  <data key="author">Trends EE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">TRENDS ECOL EVOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">46</data>
+  <data key="centrality">0.08542990995594076</data>
+</node>
+<node id="187">
+  <data key="name">POPULATION TECHNOLOG</data>
+  <data key="label">POPULATION TECHNOLOG</data>
+  <data key="author">Population T</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">POPULATION TECHNOLOG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="188">
+  <data key="name">CITY</data>
+  <data key="label">CITY</data>
+  <data key="author">CITY</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CITY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="189">
+  <data key="name">REV ECON STAT</data>
+  <data key="label">REV ECON STAT</data>
+  <data key="author">Rev ES</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">REV ECON STAT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+  <data key="centrality">0.005085312813650051</data>
+</node>
+<node id="190">
+  <data key="name">RESOUR CONSERV RECY</data>
+  <data key="label">RESOUR CONSERV RECY</data>
+  <data key="author">Resour CR</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">RESOUR CONSERV RECY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="191">
+  <data key="name">REG SCI URBAN ECON</data>
+  <data key="label">REG SCI URBAN ECON</data>
+  <data key="author">Reg SCIUE</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">REG SCI URBAN ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">39</data>
+  <data key="centrality">0.03810415974665183</data>
+</node>
+<node id="192">
+  <data key="name">BIODIVERS CONSERV</data>
+  <data key="label">BIODIVERS CONSERV</data>
+  <data key="author">Biodivers C</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">BIODIVERS CONSERV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="193">
+  <data key="name">SOC NETWORKS</data>
+  <data key="label">SOC NETWORKS</data>
+  <data key="author">Soc N</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SOC NETWORKS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="194">
+  <data key="name">WORLD CITIES URBAN F</data>
+  <data key="label">WORLD CITIES URBAN F</data>
+  <data key="author">World CUF</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">WORLD CITIES URBAN F</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="195">
+  <data key="name">ADV PHYS</data>
+  <data key="label">ADV PHYS</data>
+  <data key="author">Adv P</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ADV PHYS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="196">
+  <data key="name">AM J SOCIOL</data>
+  <data key="label">AM J SOCIOL</data>
+  <data key="author">Am JS</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">AM J SOCIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">50</data>
+  <data key="centrality">0.010036801605888258</data>
+</node>
+<node id="197">
+  <data key="name">AM ECON REV</data>
+  <data key="label">AM ECON REV</data>
+  <data key="author">Am EREV</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">AM ECON REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">137</data>
+  <data key="centrality">0.014988290398126464</data>
+</node>
+<node id="198">
+  <data key="name">WORLD URB PROSP 2014</data>
+  <data key="label">WORLD URB PROSP 2014</data>
+  <data key="author">World URBP2</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">WORLD URB PROSP 2014</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="199">
+  <data key="name">STRUCTURE DYNAMICS N</data>
+  <data key="label">STRUCTURE DYNAMICS N</data>
+  <data key="author">Structure DN</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">STRUCTURE DYNAMICS N</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="200">
+  <data key="name">FRACTAL CITIES GEOME</data>
+  <data key="label">FRACTAL CITIES GEOME</data>
+  <data key="author">Fractal CG</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">FRACTAL CITIES GEOME</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">32</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="201">
+  <data key="name">ANN ASSOC AM GEOGR</data>
+  <data key="label">ANN ASSOC AM GEOGR</data>
+  <data key="author">Ann AAMG</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">ANN ASSOC AM GEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">25</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="202">
+  <data key="name">DEATH LIFE GREAT AM</data>
+  <data key="label">DEATH LIFE GREAT AM</data>
+  <data key="author">Death LGAM</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">DEATH LIFE GREAT AM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="203">
+  <data key="name">CURR OPIN ENV SUST</data>
+  <data key="label">CURR OPIN ENV SUST</data>
+  <data key="author">Curr OENVS</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">CURR OPIN ENV SUST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">18</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="204">
+  <data key="name">ATMOS ENVIRON</data>
+  <data key="label">ATMOS ENVIRON</data>
+  <data key="author">Atmos E</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ATMOS ENVIRON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.027034682819140562</data>
+</node>
+<node id="205">
+  <data key="name">FRONT ECOL ENVIRON</data>
+  <data key="label">FRONT ECOL ENVIRON</data>
+  <data key="author">Front EE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">FRONT ECOL ENVIRON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">36</data>
+  <data key="centrality">0.010535296240392119</data>
+</node>
+<node id="206">
+  <data key="name">EC LOCATION</data>
+  <data key="label">EC LOCATION</data>
+  <data key="author">Ec L</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">EC LOCATION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="207">
+  <data key="name">NAT COMMUN</data>
+  <data key="label">NAT COMMUN</data>
+  <data key="author">Nat C</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">NAT COMMUN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">48</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="208">
+  <data key="name">REG STUD</data>
+  <data key="label">REG STUD</data>
+  <data key="author">Reg S</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">REG STUD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">38</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="209">
+  <data key="name">INT REGIONAL SCI REV</data>
+  <data key="label">INT REGIONAL SCI REV</data>
+  <data key="author">*INTREGIONALSCIREV</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">INT REGIONAL SCI REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="210">
+  <data key="name">EUR ECON REV</data>
+  <data key="label">EUR ECON REV</data>
+  <data key="author">Eur EREV</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">EUR ECON REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="211">
+  <data key="name">SUSTAIN SCI</data>
+  <data key="label">SUSTAIN SCI</data>
+  <data key="author">Sustain SCI</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SUSTAIN SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="212">
+  <data key="name">THESIS</data>
+  <data key="label">THESIS</data>
+  <data key="author">THESIS</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">THESIS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">42</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="213">
+  <data key="name">PROG PLANN</data>
+  <data key="label">PROG PLANN</data>
+  <data key="author">Prog P</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">PROG PLANN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="214">
+  <data key="name">ENVIRON SCI TECHNOL</data>
+  <data key="label">ENVIRON SCI TECHNOL</data>
+  <data key="author">Environ SCIT</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON SCI TECHNOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">77</data>
+  <data key="centrality">0.022699899695796208</data>
+</node>
+<node id="215">
+  <data key="name">P 11 IEEE INT C COMP</data>
+  <data key="label">P 11 IEEE INT C COMP</data>
+  <data key="author">P 11IINTCC</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P 11 IEEE INT C COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="216">
+  <data key="name">AM SOCIOL REV</data>
+  <data key="label">AM SOCIOL REV</data>
+  <data key="author">Am SREV</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">AM SOCIOL REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+  <data key="centrality">0.029106724657075946</data>
+</node>
+<node id="217">
+  <data key="name">URBAN ECOSYST</data>
+  <data key="label">URBAN ECOSYST</data>
+  <data key="author">Urban E</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">URBAN ECOSYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="218">
+  <data key="name">J APPL ECOL</data>
+  <data key="label">J APPL ECOL</data>
+  <data key="author">J AE</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">J APPL ECOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="219">
+  <data key="name">CONSERV BIOL</data>
+  <data key="label">CONSERV BIOL</data>
+  <data key="author">Conserv B</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">CONSERV BIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+  <data key="centrality">0.005085312813650051</data>
+</node>
+<node id="220">
+  <data key="name">INT J URBAN REGIONAL</data>
+  <data key="label">INT J URBAN REGIONAL</data>
+  <data key="author">*INTJURBANREGIONAL</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">INT J URBAN REGIONAL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="221">
+  <data key="name">ECOL SOC</data>
+  <data key="label">ECOL SOC</data>
+  <data key="author">Ecol SOC</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">ECOL SOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+  <data key="centrality">0.010103713616594179</data>
+</node>
+<node id="222">
+  <data key="name">ENERG POLICY</data>
+  <data key="label">ENERG POLICY</data>
+  <data key="author">Energ P</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ENERG POLICY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">59</data>
+  <data key="centrality">0.01711274673803948</data>
+</node>
+<node id="223">
+  <data key="name">UNDERST COMPLEX SYST</data>
+  <data key="label">UNDERST COMPLEX SYST</data>
+  <data key="author">Underst CS</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">UNDERST COMPLEX SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="224">
+  <data key="name">CITIES</data>
+  <data key="label">CITIES</data>
+  <data key="author">CITIES</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CITIES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">66</data>
+  <data key="centrality">0.009300769488123119</data>
+</node>
+<node id="225">
+  <data key="name">GLOBAL ECOL BIOGEOGR</data>
+  <data key="label">GLOBAL ECOL BIOGEOGR</data>
+  <data key="author">Global EB</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">GLOBAL ECOL BIOGEOGR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="226">
+  <data key="name">COMPLEXITY THEORIES</data>
+  <data key="label">COMPLEXITY THEORIES</data>
+  <data key="author">Complexity T</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">COMPLEXITY THEORIES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="227">
+  <data key="name">CHINESE PHYS LETT</data>
+  <data key="label">CHINESE PHYS LETT</data>
+  <data key="author">Chinese PL</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CHINESE PHYS LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="228">
+  <data key="name">J HYDROL</data>
+  <data key="label">J HYDROL</data>
+  <data key="author">J H</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">J HYDROL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="229">
+  <data key="name">PSYCHOL REV</data>
+  <data key="label">PSYCHOL REV</data>
+  <data key="author">Psychol REV</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PSYCHOL REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="230">
+  <data key="name">SCALING</data>
+  <data key="label">SCALING</data>
+  <data key="author">SCALING</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SCALING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">6.691201070592172E-5</data>
+</node>
+<node id="231">
+  <data key="name">REV ECON STUD</data>
+  <data key="label">REV ECON STUD</data>
+  <data key="author">Rev ES</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">REV ECON STUD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="232">
+  <data key="name">ECONOMETRICA</data>
+  <data key="label">ECONOMETRICA</data>
+  <data key="author">ECONOMETRICA</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ECONOMETRICA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="233">
+  <data key="name">WORLD URB PROSP 2007</data>
+  <data key="label">WORLD URB PROSP 2007</data>
+  <data key="author">World URBP2</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">WORLD URB PROSP 2007</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="234">
+  <data key="name">WORLD URB PROSP 2005</data>
+  <data key="label">WORLD URB PROSP 2005</data>
+  <data key="author">World URBP2</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">WORLD URB PROSP 2005</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="235">
+  <data key="name">J MONETARY ECON</data>
+  <data key="label">J MONETARY ECON</data>
+  <data key="author">J ME</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J MONETARY ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="236">
+  <data key="name">HDB REGIONAL URBAN E</data>
+  <data key="label">HDB REGIONAL URBAN E</data>
+  <data key="author">*HDBREGIONALURBANE</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">HDB REGIONAL URBAN E</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+  <data key="centrality">0.012436712430288419</data>
+</node>
+<node id="237">
+  <data key="name">PLOS COMPUT BIOL</data>
+  <data key="label">PLOS COMPUT BIOL</data>
+  <data key="author">Plos CB</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">PLOS COMPUT BIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="238">
+  <data key="name">EPL-EUROPHYS LETT</data>
+  <data key="label">EPL-EUROPHYS LETT</data>
+  <data key="author">Epl-europhys L</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">EPL-EUROPHYS LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="239">
+  <data key="name">INT J LIFE CYCLE ASS</data>
+  <data key="label">INT J LIFE CYCLE ASS</data>
+  <data key="author">Int JLCASS</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">INT J LIFE CYCLE ASS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="240">
+  <data key="name">REV MOD PHYS</data>
+  <data key="label">REV MOD PHYS</data>
+  <data key="author">Rev MODP</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">REV MOD PHYS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+  <data key="centrality">0.005085313068899115</data>
+</node>
+<node id="241">
+  <data key="name">PHYS REP</data>
+  <data key="label">PHYS REP</data>
+  <data key="author">Phys REP</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">PHYS REP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">55</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="242">
+  <data key="name">AM J BOT</data>
+  <data key="label">AM J BOT</data>
+  <data key="author">Am JBOT</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">AM J BOT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="243">
+  <data key="name">NETW SPAT ECON</data>
+  <data key="label">NETW SPAT ECON</data>
+  <data key="author">Netw SE</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">NETW SPAT ECON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="244">
+  <data key="name">CHAOS SOLITON FRACT</data>
+  <data key="label">CHAOS SOLITON FRACT</data>
+  <data key="author">Chaos SF</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">CHAOS SOLITON FRACT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+  <data key="centrality">2.0073603211776515E-4</data>
+</node>
+<node id="245">
+  <data key="name">WORLD URB PROSP 2011</data>
+  <data key="label">WORLD URB PROSP 2011</data>
+  <data key="author">World URBP2</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">WORLD URB PROSP 2011</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<edge source="0" target="190">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="1" target="58">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="1" target="90">
+  <data key="weight">0.5640760660171509</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="1" target="125">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="1" target="222">
+  <data key="weight">0.502518892288208</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="2" target="51">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">9</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="2" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="2" target="169">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="3" target="15">
+  <data key="weight">0.7784989476203918</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="62">
+  <data key="weight">0.7504788041114807</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="3" target="144">
+  <data key="weight">0.9128709435462952</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="6" target="94">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="6" target="98">
+  <data key="weight">0.5527707934379578</data>
+  <data key="slice">7</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="6" target="105">
+  <data key="weight">0.5017452239990234</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="6" target="121">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="7" target="42">
+  <data key="weight">0.8944271802902222</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="9" target="94">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="10" target="100">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="13" target="114">
+  <data key="weight">0.7396002411842346</data>
+  <data key="slice">7</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="14" target="230">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="15" target="57">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="62">
+  <data key="weight">0.6362847685813904</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="15" target="240">
+  <data key="weight">0.7559289336204529</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="16" target="22">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="16" target="29">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="16" target="75">
+  <data key="weight">0.5714285969734192</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="16" target="157">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="17" target="171">
+  <data key="weight">0.8017837405204773</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="20" target="40">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="21" target="230">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="24" target="98">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="24" target="194">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="25" target="37">
+  <data key="weight">0.6681531071662903</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="25" target="104">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="28" target="74">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="28" target="98">
+  <data key="weight">0.48795002698898315</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="28" target="162">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="28" target="224">
+  <data key="weight">0.6299408078193665</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="29" target="204">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="31" target="156">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="31" target="193">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="32" target="162">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="34" target="191">
+  <data key="weight">0.6172134280204773</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="34" target="216">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="34" target="236">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="36" target="60">
+  <data key="weight">0.7302967309951782</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="36" target="167">
+  <data key="weight">0.7171371579170227</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="42" target="122">
+  <data key="weight">0.5714285969734192</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="42" target="124">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="42" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="42" target="219">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="43" target="221">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="47" target="160">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="48" target="148">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="51" target="64">
+  <data key="weight">0.6471502184867859</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="55" target="114">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="55" target="168">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="56" target="114">
+  <data key="weight">0.8944271802902222</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="59" target="138">
+  <data key="weight">0.6681531071662903</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="60" target="185">
+  <data key="weight">0.5892556309700012</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="60" target="186">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="62" target="144">
+  <data key="weight">0.8333333134651184</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="62" target="169">
+  <data key="weight">0.800000011920929</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="63" target="88">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="63" target="94">
+  <data key="weight">0.5</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="64" target="191">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="64" target="236">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="67" target="144">
+  <data key="weight">0.6024640798568726</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="141">
+  <data key="weight">0.6054055094718933</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="70" target="213">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="71" target="98">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="72" target="169">
+  <data key="weight">0.6390096545219421</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="75" target="125">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="75" target="186">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="75" target="221">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="77" target="122">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="77" target="145">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="77" target="158">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="80" target="240">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="83" target="130">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="84" target="145">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="87" target="226">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="91" target="244">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="94" target="141">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="96" target="189">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="100" target="222">
+  <data key="weight">0.7276068925857544</data>
+  <data key="slice">9</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="104" target="160">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="104" target="178">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="105" target="188">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="105" target="212">
+  <data key="weight">0.3636363744735718</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="106" target="173">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="108" target="111">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="108" target="214">
+  <data key="weight">0.7826237678527832</data>
+  <data key="slice">7</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="108" target="222">
+  <data key="weight">0.6092718243598938</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="114" target="129">
+  <data key="weight">0.6024640798568726</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="114" target="224">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">11</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="116" target="244">
+  <data key="weight">0.8333333134651184</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="120" target="123">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="122" target="152">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">7</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="122" target="205">
+  <data key="weight">0.8944271802902222</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="123" target="216">
+  <data key="weight">0.5</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="123" target="227">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="124" target="169">
+  <data key="weight">0.7144345045089722</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="124" target="197">
+  <data key="weight">0.9128709435462952</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="125" target="155">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">9</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="126" target="145">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="126" target="147">
+  <data key="weight">3.7500001326407073E-7</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="126" target="204">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="128" target="214">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="134" target="207">
+  <data key="weight">0.4444444477558136</data>
+  <data key="slice">9</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="135" target="154">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="137" target="210">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="138" target="196">
+  <data key="weight">0.5976142883300781</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="139" target="197">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="144" target="241">
+  <data key="weight">0.5499719381332397</data>
+  <data key="slice">9</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="147" target="191">
+  <data key="weight">0.6681531071662903</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="150" target="244">
+  <data key="weight">0.75</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="155" target="214">
+  <data key="weight">0.5330017805099487</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="157" target="158">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="160" target="167">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="160" target="186">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="160" target="237">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="161" target="208">
+  <data key="weight">0.75</data>
+  <data key="slice">4</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="164" target="243">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="174" target="175">
+  <data key="weight">0.9393364191055298</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="176" target="219">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="186" target="205">
+  <data key="weight">0.7833494544029236</data>
+  <data key="slice">7</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="189" target="197">
+  <data key="weight">0.5202659964561462</data>
+  <data key="slice">10</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="192" target="221">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="196" target="216">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="201" target="232">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="204" target="214">
+  <data key="weight">9.999999974752427E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="205" target="225">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="214" target="222">
+  <data key="weight">0.771516740322113</data>
+  <data key="slice">6</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="215" target="242">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="224" target="233">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="235" target="236">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">5</data>
+  <data key="year">2011</data>
+</edge>
+</graph>
+</graphml>

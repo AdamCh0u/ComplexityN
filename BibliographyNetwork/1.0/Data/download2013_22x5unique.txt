@@ -1,0 +1,592 @@
+
+PT J
+AU Lamsal, LN
+   Martin, RV
+   Parrish, DD
+   Krotkov, NA
+AF Lamsal, L. N.
+   Martin, R. V.
+   Parrish, D. D.
+   Krotkov, N. A.
+TI Scaling Relationship for NO2 Pollution and Urban Population Size: A
+   Satellite Perspective
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+LA English
+DT Article
+ID OZONE MONITORING INSTRUMENT; FINE PARTICULATE MATTER; UNITED-STATES;
+   NITROGEN-DIOXIDE; AIR-POLLUTION; NORTH-AMERICA; GLOBAL BURDEN;
+   POWER-PLANTS; EMISSIONS; MORTALITY
+AB Concern is growing about the effects of urbanization on air pollution and health. Nitrogen dioxide (NO2) released primarily from combustion processes, such as traffic, is a short-lived atmospheric pollutant that serves as an air-quality indicator and is itself a health concern. We derive a global distribution of ground-level NO2 concentrations from tropospheric NO2 columns retrieved from the Ozone Monitoring Instrument (OMI). Local scaling factors from a three-dimensional chemistry-transport model (GEOS-Chem) are used to relate the OMI NO2 columns to ground-level concentrations. The OMI-derived surface NO2 data are significantly correlated (r = 0.69) with in situ surface measurements. We examine how the OMI-derived ground-level NO2 concentrations, OMI NO2 columns, and bottom-up NOx emission inventories relate to urban population. Emission hot spots, such as power plants, are excluded to focus on urban relationships. The correlation of surface NO2 with population is significant for the three countries and one continent examined here: United States (r = 0.71), Europe (r = 0.67), China (r = 0.69), and India (r = 0.59). Urban NO2 pollution, like other urban properties, is a power law scaling function of the population size: NO2 concentration increases proportional to population raised to an exponent. The value of the exponent varies by region from 0.36 for India to 0.66 for China, reflecting regional differences in industrial development and per capita emissions. It has been generally established that energy efficiency increases and, therefore, per capita NO emissions decrease with urban population; here, we show how outdoor ambient NO2 concentrations depend upon urban population in different global regions.
+C1 [Lamsal, L. N.] Univ Space Res Assoc, Goddard Earth Sci Technol & Res, Columbia, MD 21044 USA.
+   [Lamsal, L. N.; Krotkov, N. A.] NASA, Goddard Space Flight Ctr, Greenbelt, MD 20771 USA.
+   [Martin, R. V.] Dalhousie Univ, Dept Phys & Atmospher Sci, Halifax, NS B3H 4R2, Canada.
+   [Martin, R. V.] Harvard Smithsonian Ctr Astrophys, Cambridge, MA 02138 USA.
+   [Parrish, D. D.] NOAA, Earth Syst Res Lab, Div Chem Sci, Boulder, CO 80305 USA.
+RP Lamsal, LN (reprint author), Univ Space Res Assoc, Goddard Earth Sci Technol & Res, Columbia, MD 21044 USA.
+EM lok.lamsal@nasa.gov
+RI Krotkov, Nickolay/E-1541-2012; Martin, Randall/C-1205-2014; Manager, CSD
+   Publications/B-2789-2015; Chem, GEOS/C-5595-2014; Parrish,
+   David/E-8957-2010
+OI Krotkov, Nickolay/0000-0001-6170-6750; Martin,
+   Randall/0000-0003-2632-8402; Parrish, David/0000-0001-6312-2724
+FU NASA's Earth Science Directorate Atmospheric Composition Program;
+   Natural Sciences and Engineering Research Council of Canada
+FX We thank Aaron van Donkelaar for performing the GEOS-Chem nested
+   simulation. The work was supported by NASA's Earth Science Directorate
+   Atmospheric Composition Program and the Natural Sciences and Engineering
+   Research Council of Canada.
+CR Anenberg SC, 2010, ENVIRON HEALTH PERSP, V118, P1189, DOI 10.1289/ehp.0901220
+   [Anonymous], 2012, PLOS MED, V9
+   Bechle MJ, 2011, ENVIRON SCI TECHNOL, V45, P4914, DOI 10.1021/es103866b
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bey I, 2001, J GEOPHYS RES-ATMOS, V106, P23073, DOI 10.1029/2001JD000807
+   Boersma KF, 2011, ATMOS MEAS TECH, V4, P1905, DOI 10.5194/amt-4-1905-2011
+   Boersma KF, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD008816
+   Boersma KF, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD003962
+   Brunekreef B, 2002, LANCET, V360, P1233, DOI 10.1016/S0140-6736(02)11274-8
+   Brunekreef B, 2007, J EXPO SCI ENV EPID, V17, pS61, DOI 10.1038/sj.jes.7500628
+   Bucsela EJ, 2013, ATMOS MEAS TECH DISC, V6, P1361, DOI [10.5194/amtd-6-1361-2013, DOI 10.5194/AMTD-6-1361-2013]
+   Burnett RT, 2004, ARCH ENVIRON HEALTH, V59, P228, DOI 10.3200/AEOH.59.5.228-236
+   Chow J, 2003, SCIENCE, V302, P1528, DOI 10.1126/science.1091939
+   Cyrys J, 2012, ATMOS ENVIRON, V62, P374, DOI 10.1016/j.atmosenv.2012.07.080
+   Dunlea EJ, 2007, ATMOS CHEM PHYS, V7, P2691, DOI 10.5194/acp-7-2691-2007
+   GROSJEAN D, 1985, ENVIRON SCI TECHNOL, V19, P862, DOI 10.1021/es00139a016
+   Hudman RC, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007912
+   Jerrett M, 2009, ENVIRON HEALTH PERSP, V117, P772, DOI 10.1289/ehp.11533
+   Krzyzanowski M, 2008, AIR QUAL ATMOS HLTH, V1, P7, DOI 10.1007/s11869-008-0008-9
+   Kuhns H, 2005, J AIR WASTE MANAGE, V55, P677, DOI 10.1080/10473289.2005.10464648
+   Lamsal LN, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009235
+   Lamsal LN, 2011, GEOPHYS RES LETT, V38, DOI 10.1029/2010GL046476
+   Lamsal LN, 2010, J GEOPHYS RES-ATMOS, V115, DOI 10.1029/2009JD013351
+   Levelt PF, 2006, IEEE T GEOSCI REMOTE, V44, P1093, DOI 10.1109/TGRS.2006.872333
+   Lim SS, 2012, LANCET, V380, P2224, DOI 10.1016/S0140-6736(12)61766-8
+   Lu WM, 2007, EUR J OPER RES, V183, P882, DOI 10.1016/j.ejor.2006.10.027
+   Lu ZF, 2012, ENVIRON SCI TECHNOL, V46, P7463, DOI 10.1021/es300831w
+   Martin RV, 2008, ATMOS ENVIRON, V42, P7823, DOI 10.1016/j.atmosenv.2008.07.018
+   Martin RV, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007831
+   Martin RV, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006680
+   Martin RV, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2003JD003453
+   Mathers C., 2009, GLOB HLTH RISKS MORT
+   Novotny EV, 2011, ENVIRON SCI TECHNOL, V45, P4407, DOI 10.1021/es103578x
+   OLIVIER JGJ, 2001, CLIMATE SYSTEM, P33
+   Organisation for Economic Co-operation and Development (OECD), 2012, ENV OUTL 2050 CONS I
+   Palmer PI, 2001, J GEOPHYS RES-ATMOS, V106, P14539, DOI 10.1029/2000JD900772
+   Park RJ, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD004473
+   Parrish DD, 2009, SCIENCE, V326, P674, DOI 10.1126/science.1176064
+   Platt U., 1994, AIR MONITORING SPECT, P27
+   Pope CA, 2009, NEW ENGL J MED, V360, P376, DOI 10.1056/NEJMsa0805646
+   Samoli E, 2006, EUR RESPIR J, V27, P1129, DOI 10.1183/09031936.06.00143905
+   Socioeconomic Data Applications Center (SEDAC), 2009, GRIDD POP WORLD VERS
+   Steinbacher M, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007971
+   UN Department of Economic and Social Affairs Population Division, 2012, WORLD URB PROSP 2011
+   United States Environmental Protection Agency (U.S. EPA), 1975, EPA600475003 ENV MON
+   United States Environmental Protection Agency (U.S. EPA), 2008, TECHNICAL REPORT
+   van Donkelaar A, 2008, ATMOS CHEM PHYS, V8, P2999, DOI 10.5194/acp-8-2999-2008
+   van Donkelaar A, 2012, ENVIRON SCI TECHNOL, V46, P11971, DOI 10.1021/es3025319
+   van Donkelaar A, 2010, ENVIRON HEALTH PERSP, V118, P847, DOI 10.1289/ehp.0901623
+   Wang SW, 2012, ATMOS CHEM PHYS, V12, P4429, DOI 10.5194/acp-12-4429-2012
+   WINER AM, 1974, ENVIRON SCI TECHNOL, V8, P1118, DOI 10.1021/es60098a004
+   Zhang L, 2011, ATMOS ENVIRON, V45, P6769, DOI 10.1016/j.atmosenv.2011.07.054
+   Zhang Q, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2007JD008684
+NR 53
+TC 59
+Z9 63
+U1 6
+U2 111
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0013-936X
+J9 ENVIRON SCI TECHNOL
+JI Environ. Sci. Technol.
+PD JUL 16
+PY 2013
+VL 47
+IS 14
+BP 7855
+EP 7861
+DI 10.1021/es400744g
+PG 7
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA 186QS
+UT WOS:000322059800036
+PM 23763377
+DA 2019-03-26
+ER
+
+PT J
+AU Rupnik, PJ
+   Benedetti, L
+   Preusser, F
+   Bavec, M
+   Vrabec, M
+AF Rupnik, Petra Jamsek
+   Benedetti, Lucilla
+   Preusser, Frank
+   Bavec, Milos
+   Vrabec, Marko
+TI Geomorphic evidence of recent activity along the Vodice thrust fault in
+   the Ljubljana Basin (Slovenia) - a preliminary study
+SO ANNALS OF GEOPHYSICS
+LA English
+DT Article
+ID EASTERN SOUTHERN ALPS; WESTERN-SLOVENIA; TECTONICS; EARTHQUAKES; SYSTEM
+AB We investigated two prominent, E-W trending scarps in Quaternary sediments, located close to the town of Vodice in the Ljubljana Basin (central Slovenia). By using detailed geomorphological analysis of the scarps, field surveying, and structural observations of deformed Quaternary sediments, we conclude that the scarps are the surface expression of a N-dipping thrust fault that has been active during the Quaternary. From Optically Stimulated Luminescence and Infrared Stimulated Luminescence dating of deformed Quaternary sediments we estimate a slip rate of 0.1 to 0.3 mm a(-1) in the last 133 ka. Using the published empirical fault-scaling relationships, we estimate that an earthquake of magnitude 5.9 to 6.5 may be expected on the Vodice thrust fault. The fault may, therefore, present a major seismic hazard for the densely populated and urbanised region of central Slovenia.
+C1 [Rupnik, Petra Jamsek; Bavec, Milos] Geol Survey Slovenia, Ljubljana, Slovenia.
+   [Benedetti, Lucilla] Aix Marseille Univ, Ctr Europeen Rech & Enseignement Geosci Environm, Aix En Provence, France.
+   [Preusser, Frank] Stockholm Univ, Dept Phys Geog & Quaternary Geol, S-10691 Stockholm, Sweden.
+   [Vrabec, Marko] Univ Ljubljana, Fac Nat Sci & Engn, Dept Geol, Ljubljana, Slovenia.
+RP Rupnik, PJ (reprint author), Geol Survey Slovenia, Ljubljana, Slovenia.
+EM petra.jamsek@geo-zs.si
+FU Slovenian Research Agency [L1-2383]; Slovenian Environment Agency
+   [J6-4016]; Young Researcher Grant [1000-09-310068]
+FX This work was funded by the Slovenian Research Agency, through the
+   project L1-2383 Seismotectonic model of the Ljubljana Basin (cofounded
+   by the Slovenian Environment Agency), the project J6-4016 The adaptation
+   patterns of human activities to the environmental changes after Last
+   Glacial Maximum in Slovenia, the programme P1 - 0011 Regional geology
+   and the Young Researcher Grant (contract 1000-09-310068). We also
+   acknowledge SPOT image and the ISIS program for the satellite images. We
+   are grateful to A. Moulin, R. Finkel, I. Mrak, J. Atanackov, B. Milanic
+   and J. Horvat for help in the field. We thank to Slovenian Academy of
+   Sciences and Arts, the publisher of monograph where the photo and
+   profile of the Lokarje anticline were taken from (Sifrer, 1961), for
+   their permission to publish this material. We are grateful to Vanja
+   Kastelic, Bruno Tomljenovic and the Associate Editor (Christoph
+   Grutzner) for their reviews and comments that improved the manuscript.
+CR AVOUAC JP, 1993, J GEOPHYS RES-SOL EA, V98, P21773, DOI 10.1029/93JB02172
+   Bajc J, 2001, GEOPHYS RES LETT, V28, P1839, DOI 10.1029/2000GL011973
+   Basili R, 2013, EUROPEAN DATABASE SE, DOI [10.6092/INGV.IT-SHARE-EDSF, DOI 10.6092/INGV.IT-SHARE-EDSF]
+   Bavec M., 2012, GEOPH RES ABSTR, V14, P1
+   Benedetti L, 2000, J GEOPHYS RES-SOL EA, V105, P739, DOI 10.1029/1999JB900222
+   Benedetti L., 2003, J GEOPHYS RES, V108, P2238, DOI DOI 10.1029/2001JB001546
+   Burrato P, 2008, TECTONOPHYSICS, V453, P157, DOI 10.1016/j.tecto.2007.07.009
+   Camassi R, 2011, J SEISMOL, V15, P191, DOI 10.1007/s10950-010-9220-9
+   Carman M., 2010, EARTHQ 2009 EARS LJU, P65
+   Castaldini D., 1991, QUATERNARIO, V4, P333
+   Cecic I., 1998, INVESTIGATION EARTHQ, P1
+   Drobne F., 1960, KAMNISKI ZBORNIK, V6, P163
+   Fitzko F, 2005, TECTONOPHYSICS, V404, P77, DOI 10.1016/j.tecto.2005.05.003
+   Galadini F, 2005, GEOPHYS J INT, V161, P739, DOI 10.1111/j.1365-246X.2005.02571.x
+   Gosar A, 2010, B EARTHQ ENG, V8, P571, DOI 10.1007/s10518-009-9113-x
+   Jemec M, 2013, NAT HAZARDS, V67, P1011, DOI 10.1007/s11069-011-9882-9
+   Kastelic V, 2008, J STRUCT GEOL, V30, P963, DOI 10.1016/j.jsg.2008.03.009
+   Kastelic V., 2006, EARTHQ 2004 EARS LJU, P78
+   Kastelic V, 2012, TECTONICS, V31, DOI 10.1029/2011TC003022
+   Komac B., 2011, UJMA, V25, P157
+   KOMAC M, 2006, GEOLOGIJA, V49, P295, DOI DOI 10.5474/GE0L0GIJA.2006.022
+   Lapajne J., 1989, UJMA, V3, P55
+   Lozar Stopar M., 2011, EARTHQ 2010 EARS LJU, P71
+   Lozar Stopar M., 2012, EARTHQ 2011 EARS LJU, P58
+   Lozar Stopar M., 2007, EARTHQ 2005 EARS LJU, P57
+   McCalpin JP, 2009, INT GEOPHYS SER, V95, P1, DOI 10.1016/S0074-6142(09)95001-X
+   Poljak M, 2000, PURE APPL GEOPHYS, V157, P37, DOI 10.1007/PL00001099
+   Poljak M., 2010, GEOACTA SPEC PUB, V3, P15
+   Ribaric V., 1982, SEISMICITY SLOVENIA, P1
+   Sifrer M., 1961, BASIN KAMNISKA BISTR, P1
+   Stopar M., 2008, EARTHQ 2007 EARS LJU, P48
+   Verbic T, 2006, RAZPRAVE 4 RAZREDA S, V47-2, P101
+   Vrabec M, 2006, GEOL CARPATH, V57, P57
+   Vrabec M, 2006, NATO SCI S SS IV EAR, V61, P151
+   Vrabec M., 2001, THESIS U LJUBLJANA, P1
+   Weber J, 2010, TECTONOPHYSICS, V483, P214, DOI 10.1016/j.tecto.2009.09.001
+   WELLS DL, 1994, B SEISMOL SOC AM, V84, P974
+   Zivcic M., 2009, CATALOGUE EARTHQUAKE
+   Zlebnik L., 1971, GEOLOGIJA, V14, P5
+   Zupancic P., 2001, GEOLOGIJA, V44, P169
+NR 40
+TC 4
+Z9 4
+U1 0
+U2 2
+PU IST NAZIONALE DI GEOFISICA E VULCANOLOGIA
+PI ROME
+PA VIA VIGNA MURATA 605, ROME, 00143, ITALY
+SN 1593-5213
+EI 2037-416X
+J9 ANN GEOPHYS-ITALY
+JI Ann. Geophys.
+PY 2013
+VL 56
+IS 6
+SI SI
+AR S0680
+DI 10.4401/ag-6252
+PG 8
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA AH0TT
+UT WOS:000335834000012
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Takahashi, ELH
+   Rosa, FRT
+   Langeani, F
+   Nakaghi, LSO
+AF Takahashi, Erico L. H.
+   Rosa, Fabricio R. T.
+   Langeani, Francisco
+   Nakaghi, Laura S. O.
+TI Spatial and seasonal patterns in fish assemblage in Corrego Rico, upper
+   Parana River basin
+SO NEOTROPICAL ICHTHYOLOGY
+LA English
+DT Article
+DE Dam effects; Diversity; Ecology; Mogi Guacu River
+ID STREAM FISH; HABITAT FRAGMENTATION; SOUTHERN BRAZIL; MATO-GROSSO;
+   SAO-PAULO; DIVERSITY; COMMUNITY; WATER; FLOODPLAIN; ICHTHYOFAUNA
+AB The upper Parana River basin drains areas of intensive industry and agriculture, suffering negative impacts. The Corrego Rico flows through sugar cane fields and receives urban wastewater. The aim of this work is to describe and to compare the fish assemblage structure in Corrego Rico. Six standardized bimonthly samples were collected between August 2008 and June 2009 in seven different stretches of Corrego Rico. Fishes were collected with an experimental seine and sieves, euthanized, fixed in formalin and preserved in ethanol for counting and identification. Data were recorded for water parameters, instream habitat and riparian features within each stretch. Non-metric multidimensional scaling, species richness and diversity analysis were performed to examine spatial and seasonal variation in assemblage structure. Fish assemblage structure was correlated with instream habitat and water parameters. The fish assemblage was divided in three groups: upper, middle and lower reaches. High values of richness and diversity were observed in the upper and lower stretches due to connectivity with a small lake and Mogi Guacu River, respectively. Middle stretches showed low values of richness and diversity suggesting that a small dam in the middle stretch negatively impacts the fish assemblage. Seasonal differences in fish assemblage structure were observed only in the lower stretches.
+C1 [Takahashi, Erico L. H.] Univ Fed Amazonas, Inst Ciencias Exatas & Tecnol, BR-69103128 Itacoatiara, Amazonas, Brazil.
+   [Rosa, Fabricio R. T.; Langeani, Francisco; Nakaghi, Laura S. O.] Univ Estadual Paulista, Ctr Aquicultura UNESP CAUNESP, BR-14884900 Jaboticabal, SP, Brazil.
+   [Langeani, Francisco] Univ Estadual Paulista, Inst Biociencias Letras & Ciencias Exatas, Dept Bot & Zool, Lab Ictiol, BR-15054000 Sao Jose Do Rio Preto, SP, Brazil.
+   [Nakaghi, Laura S. O.] Univ Estadual Paulista, Fac Ciencias Agra & Vet, Dept Morfol & Fisiol Anim, BR-14884900 Jaboticabal, SP, Brazil.
+RP Takahashi, ELH (reprint author), Univ Fed Amazonas, Inst Ciencias Exatas & Tecnol, Ave Nossa Senhora Rosario 3863, BR-69103128 Itacoatiara, Amazonas, Brazil.
+EM ericolht@yahoo.com.br
+RI Langeani, Francisco/B-7880-2012; NAKAGHI, LAURA/J-3721-2014; Takahashi,
+   Erico/E-4925-2014
+OI Langeani, Francisco/0000-0001-7376-4798; 
+FU Conselho Nacional de Desenvolvimento Cienticfico e Tecnologico (CNPq)
+FX We thanks to Marcelo Assuncao, Nivaldo Nascimento and students from
+   UNESP Jabotical for help in the samples. We thank Kirk Winemiller for
+   suggestions, and English improvement. We thank Conselho Nacional de
+   Desenvolvimento Cienticfico e Tecnologico (CNPq) for funding. We thank
+   reviewers for helpful and valuable suggestions.
+CR Abes SD, 2001, HYDROBIOLOGIA, V445, P217
+   Abilhoa V, 2008, REV BRAS ZOOL, V25, P238, DOI 10.1590/S0101-81752008000200012
+   Agostinho AA, 2007, AQUAT ECOSYST HEALTH, V10, P174, DOI 10.1080/14634980701341719
+   Agostinho AA, 2002, RIVER RES APPL, V18, P299, DOI 10.1002/rra.674
+   Agostinho Angelo Antonio, 2003, P19
+   Allan J. D., 2007, STREAM ECOLOGY STRUC
+   ANGERMEIER PL, 1989, ECOLOGY, V70, P1450, DOI 10.2307/1938204
+   Apone Fernando, 2008, Biota Neotrop., V8, P93, DOI 10.1590/S1676-06032008000100012
+   Aranha Jose Marcelo R., 1993, Revista Brasileira de Zoologia, V10, P453
+   Barrella W, 2003, RIVER RES APPL, V19, P59, DOI 10.1002/rra.697
+   Benstead JP, 1999, ECOL APPL, V9, P656, DOI 10.2307/2641152
+   Borges M. J., 2003, REV BRASILEIRA RECUR, V8, P161
+   Britski H. A., 1972, POLUICAO PISICULTURA, P73
+   Burns MDM, 2006, NEOTROP ICHTHYOL, V4, P69, DOI 10.1590/S1679-62252006000100006
+   Casatti L., 2006, Braz. J. Biol., V66, P681, DOI 10.1590/S1519-69842006000400012
+   Casatti L, 2006, ENVIRON MANAGE, V38, P974, DOI 10.1007/s00267-005-0212-4
+   Casatti Lilian, 2002, Biota Neotrop., V2, P1, DOI 10.1590/S1676-06032002000200012
+   Casatti Lilian, 1998, Ichthyological Exploration of Freshwaters, V9, P229
+   Casatti Lilian, 2005, Biota Neotrop., V5, P75, DOI 10.1590/S1676-06032005000100009
+   Cunico AM, 2006, REV BRAS ZOOL, V23, P1101, DOI 10.1590/S0101-81752006000400018
+   da Silva EF, 2007, REV BRAS ZOOL, V24, P482, DOI 10.1590/S0101-81752007000200029
+   Eaton A. D., 1995, STANDARD METHODS EXA
+   Ferreira CDP, 2006, REV BRAS ZOOL, V23, P642, DOI 10.1590/S0101-81752006000300006
+   GARAVELLO J. C., 2003, IHERINGIA SER ZOOL, V93, P127
+   Gillette DP, 2005, COPEIA, P539, DOI 10.1643/CE-04-135R2
+   Gosset C, 2006, ECOL FRESHW FISH, V15, P247, DOI 10.1111/j.1600-0633.2006.00144.x
+   Gunkel G, 2007, WATER AIR SOIL POLL, V180, P261, DOI 10.1007/s11270-006-9268-x
+   Hammer O., 2001, PAST PALEONTOLOGICAL
+   HORTON R.E., 1945, GEOL SOC AM BULL, V56, P275
+   Isaak DJ, 2007, ECOL APPL, V17, P352, DOI 10.1890/05-1949
+   Khan FA, 2005, BOT REV, V71, P449, DOI 10.1663/0006-8101(2005)071[0449:EAEV]2.0.CO;2
+   KRAMER DL, 1980, CAN J ZOOL, V58, P1984, DOI 10.1139/z80-273
+   Langeani Francisco, 2005, Neotrop. ichthyol., V3, P305, DOI 10.1590/S1679-62252005000200009
+   Lowe-McConnell RH, 1987, ECOLOGICAL STUDIES T
+   Magurran A. E., 1988, ECOLOGICAL DIVERSITY
+   Martinelli LA, 2008, ECOL APPL, V18, P885, DOI 10.1890/07-1813.1
+   McCune B., 2006, PC ORD MULTIVARIATE
+   Meschiatti A.J., 2009, Acta Limnologica Brasiliensia, V21, P135
+   NAIMAN RJ, 1988, J N AM BENTHOL SOC, V7, P289, DOI 10.2307/1467295
+   PENCZAK T, 1994, HYDROBIOLOGIA, V294, P243, DOI 10.1007/BF00021297
+   Perez-Junior OR, 2007, IHERINGIA SER ZOOL, V97, P328, DOI 10.1590/S0073-47212007000300018
+   POFF NL, 1995, ECOLOGY, V76, P606, DOI 10.2307/1941217
+   Pringle CM, 2000, BIOSCIENCE, V50, P807, DOI 10.1641/0006-3568(2000)050[0807:REOHAO]2.0.CO;2
+   Ribeiro AC, 2006, NEOTROP ICHTHYOL, V4, P225, DOI 10.1590/S1679-62252006000200009
+   Sousa R, 2008, AQUAT CONSERV, V18, P98, DOI 10.1002/aqc.838
+   Strahler A., 1957, T AM GEOPHYS UNION, V38, P913, DOI [10.1029/TR038i006p00913, DOI 10.1029/TR038I006P00913]
+   Súarez Yzel Rondon, 2006, Iheringia, Sér. Zool., V96, P197, DOI 10.1590/S0073-47212006000200009
+   Suarez Yzel Rondon, 2007, Acta Scientiarum Biological Sciences, V29, P145
+   Sullivan SMP, 2009, J FISH BIOL, V74, P1394, DOI 10.1111/j.1095-8649.2009.02205.x
+   Taylor CM, 2006, CAN J FISH AQUAT SCI, V63, P43, DOI 10.1139/F05-203
+   Taylor CM, 1997, OECOLOGIA, V110, P560, DOI 10.1007/s004420050196
+   Taylor CM, 2001, ECOLOGY, V82, P2320, DOI 10.2307/2680234
+   Thomaz SM, 2007, HYDROBIOLOGIA, V579, P1, DOI 10.1007/s10750-006-0285-y
+   Tiemann JS, 2004, T AM FISH SOC, V133, P705, DOI 10.1577/T03-058.1
+   USEPA, 1997, VOL STREAM MON METH
+   Valerio SB, 2007, HYDROBIOLOGIA, V583, P241, DOI 10.1007/s10750-006-0533-1
+   VANNOTE RL, 1980, CAN J FISH AQUAT SCI, V37, P130, DOI 10.1139/f80-017
+   Walters DM, 2003, FRESHWATER BIOL, V48, P1950, DOI 10.1046/j.1365-2427.2003.01137.x
+   Winemiller KO, 2000, T AM FISH SOC, V129, P451, DOI 10.1577/1548-8659(2000)129<0451:FASIRT>2.0.CO;2
+NR 59
+TC 3
+Z9 4
+U1 0
+U2 20
+PU SOC BRASILEIRA ICTIOLOGIA
+PI SAO PAULO
+PA UNIV SAO PAULO, DEPT FISIOLOGIA-IB, RUA DO MATAO, TRAVESSA 14 N 321, SAO
+   PAULO, SP 05508-900, BRAZIL
+SN 1679-6225
+J9 NEOTROP ICHTHYOL
+JI Neotrop. Ichthyol.
+PD JAN-MAR
+PY 2013
+VL 11
+IS 1
+BP 143
+EP 152
+DI 10.1590/S1679-62252013000100017
+PG 10
+WC Zoology
+SC Zoology
+GA 130SJ
+UT WOS:000317939200017
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Meless, GD
+   Aka-Dago-Akribi, H
+   Cacou, C
+   Eboua, TF
+   Aka, AE
+   Oga, AM
+   Bouah, B
+   Eugene, M
+   Moh, C
+   Arrive, E
+   Timite-Konan, M
+   Leroy, V
+AF Meless, Guanga David
+   Aka-Dago-Akribi, Hortense
+   Cacou, Chantal
+   Eboua, Tanoh Francois
+   Aka, Addi Edmond
+   Oga, Aime Maxime
+   Bouah, Belinda
+   Eugene, Messou
+   Moh, Corinne
+   Arrive, Elise
+   Timite-Konan, Marguerite
+   Leroy, Valeriane
+CA PRADO-CI Study Grp
+TI Notification of HIV status disclosure and its related factors in
+   HIV-infected adolescents in 2009 in the Aconda program (CePReF, CHU
+   Yopougon) in Abidjan, Cote d'Ivoire, The PRADO-CI Study
+SO JOURNAL OF THE INTERNATIONAL AIDS SOCIETY
+LA English
+DT Article
+DE adolescents and youth; sub-Saharan Africa; antiretroviral treatment;
+   disclosure; HIV; prevention
+ID ANTIRETROVIRAL THERAPY ADHERENCE; DIAGNOSIS DISCLOSURE; POSITIVE
+   CHILDREN; SCALING-UP; HEALTH; UGANDA; DETERMINANTS; OUTCOMES; WORKERS;
+   ADULTS
+AB Introduction: We studied the frequency of documentation of disclosure of HIV status in medical charts and its correlates among HIV-infected adolescents in 2009, in Abidjan, Cote d'Ivoire.
+   Methods: The PRADO-CI is a cross-sectional study aimed at studying HIV-infected adolescents' social, psychological, and behavioural difficulties and their determinants in Abidjan, Cote d'Ivoire. In this study, we present specific analyses on disclosure. All HIV-infected adolescents aged 13-21 years and followed at least once in 2009 in two urban HIV-care centres in Abidjan (Cepref and Yopougon Teaching Hospital) were enrolled in the study. Standardized data were extracted from medical records to document if there was notification of disclosure of HIV status in the medical record. Frequency of notification of HIV disclosure was estimated with its 95% confidence interval (CI) and correlates were analyzed using logistic regression.
+   Results: In 2009, 229 adolescents were included: 126 (55%) males; 93% on antiretroviral therapy (ART), 61% on cotrimoxazole prophylaxis. Their median age was 15 years at the time of the study. Among the 193 patients for whom information on HIV status disclosure was documented (84%), only 63 (32.6%; 95% CI = 26.0-39.3%) were informed of their status. The proportion of adolescents informed increased significantly with age: 19% for 13-15 years, 33% for 16-18 years and 86% for 19-21 years (p <0.0001). Adolescents on ART tended to be more likely to be informed of their HIV status (34.5%) than those not treated (13.3%) (p = 0.11). Those on cotrimoxazole were significantly more likely to be informed (39.6%) than those not (21.9%) (p = 0.01). Disclosure was significantly higher in adolescents with a history of ART regimen change (p = 0.003) and in those followed in the Cepref (48.4%) compared to the Yopougon Teaching Hospital (24.8%), (p = 0.001). In multivariate analyses, disclosed HIV status was significantly higher in those followed-up in the Cepref compared to the other centre: adjusted odds ratio (aOR) = 3.5 (95% CI: 1.1-10.9), and among older adolescents compared to those aged 13-15 years: [16-18 years] aOR = 4.2 (95% CI: 1.5-11.5) and [ > 18 years]: aOR = 22.1 (95% CI: 5.2-93.5).
+   Conclusions: HIV disclosure rate was low among Ivoirian HIV adolescents and was site- and age-dependent. There is a need for practical interventions to support HIV disclosure to adolescents which provides age-appropriate information about the disease.
+C1 [Meless, Guanga David; Oga, Aime Maxime] Programme PACCI, Abidjan, Cote Ivoire.
+   [Aka-Dago-Akribi, Hortense; Cacou, Chantal; Bouah, Belinda; Moh, Corinne] Univ Cocody, Dept Psychol, Abidjan, Cote Ivoire.
+   [Eboua, Tanoh Francois; Timite-Konan, Marguerite] CHU Yopougon, Serv Pediat, Abidjan, Cote Ivoire.
+   [Aka, Addi Edmond; Eugene, Messou] CePReF, Ctr Prise Charge Rech & Format, Abidjan, Cote Ivoire.
+   [Arrive, Elise; Leroy, Valeriane] Univ Bordeaux Segalen, Inst Publ Hlth, INSERM, U897, F-33076 Bordeaux, France.
+   [Arrive, Elise; Leroy, Valeriane] Univ Bordeaux Segalen, Inst Publ Hlth, F-33076 Bordeaux, France.
+RP Leroy, V (reprint author), Univ Bordeaux Segalen, ISPED, INSERM, U897, 146 Rue Leo Saignat, F-33076 Bordeaux, France.
+EM valeriane.leroy@isped.u-bordeaux2.fr
+RI Leroy, Valeriane/F-8129-2013
+OI Leroy, Valeriane/0000-0003-3542-8616
+FU United States President's Emergency Plan for AIDS Relief (PEPFAR),
+   through the Elizabeth Glaser Paediatric AIDS Foundation (EGPAF,
+   Washington DC, USA); French GIP ESTHER; Cote d'Ivoire Ministry of Public
+   Health; SIDACTION, Ensemble contre le Sida; UNICEF, Abidjan, Cote
+   d'Ivoire
+FX The authors acknowledge all of the children and families followed up in
+   the participating paediatric centres. We acknowledge Karen Malateste
+   (ISPED) for her data management support. The Aconda program was funded
+   by the United States President's Emergency Plan for AIDS Relief
+   (PEPFAR), through the Elizabeth Glaser Paediatric AIDS Foundation
+   (EGPAF, Washington DC, USA), with additional support from the French GIP
+   ESTHER and the Cote d'Ivoire Ministry of Public Health. The authors give
+   special thanks to Sophie Desmonde for her helpful reading. We warmly
+   thank Sidaction-Ensemble contre le Sida and Thomas Munyuzangabo,
+   HIV&AIDS and Adolescents Programme, UNICEF Cote d'Ivoire, Abidjan for
+   their funding support to the PRADO-Ci Study.; The PRACO-CI study was
+   funded by SIDACTION, Ensemble contre le Sida and UNICEF, Abidjan, Cote
+   d'Ivoire. The content of this publication is solely the responsibility
+   of the authors and does not necessarily represent the official views of
+   any of these institutions. The funders had no role in study design, data
+   collection and analysis, decision to publish or preparation of this
+   article.
+CR Abebe W, 2012, AIDS CARE, V24, P1097, DOI 10.1080/09540121.2012.656565
+   Anaky MF, 2010, B WORLD HEALTH ORGAN, V88, P490, DOI 10.2471/BLT.09.068015
+   ANECCA [African network for the care of children affected by HIV/AIDS HoPAiA] Reseau Africain pour les soins aux enfants affectes par le SIDA, 2006, MAN SIDA PED AFR
+   [Anonymous], 2011, UNAIDS WORLD AIDS DA
+   Arrive E, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0033690
+   Arun S, 2009, INDIAN J PEDIATR, V76, P805, DOI 10.1007/s12098-009-0177-z
+   Bakanda C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019261
+   Bhattacharya M, 2011, J TROP PEDIATRICS, V57, P405, DOI 10.1093/tropej/fmq115
+   Biadgilign S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017572
+   Bikaako-Kajura W, 2006, AIDS BEHAV, V10, pS85, DOI 10.1007/s10461-006-9141-3
+   Brown BJ, 2011, AIDS CARE, V23, P1053, DOI 10.1080/09540121.2011.554523
+   Calabrese SK, 2012, AIDS CARE, V24, P1092, DOI 10.1080/09540121.2012.699670
+   De Bacts AJ, 2008, SOC SCI MED, V66, P479, DOI 10.1016/j.socscimed.2007.08.028
+   Ding H, 2009, ARCH PEDIAT ADOL MED, V163, P1100, DOI 10.1001/archpediatrics.2009.204
+   Foster C, 2010, EXPERT REV ANTI-INFE, V8, P1403, DOI 10.1586/ERI.10.129
+   Foster C, 2007, CURR OPIN HIV AIDS, V2, P431, DOI 10.1097/COH.0b013e3282ced150
+   Foster SD, 2010, AIDS CARE, V22, P35, DOI 10.1080/09540120903500027
+   Gerson A C, 2001, J Pediatr Health Care, V15, P161, DOI 10.1067/mph.2001.114835
+   Haberer JE, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018505
+   Heeren GA, 2012, VULNERABLE CHILD YOU, V7, P47, DOI 10.1080/17450128.2012.656733
+   Kallem S, 2011, AIDS BEHAV, V15, P1121, DOI 10.1007/s10461-010-9741-9
+   Menon A, 2007, JAIDS-J ACQ IMM DEF, V46, P349, DOI 10.1097/QAI.0b013e3181565df0
+   Michaud PA, 2009, J ADOLESCENT HEALTH, V44, P356, DOI 10.1016/j.jadohealth.2008.08.004
+   Moodley K, 2006, SAMJ S AFR MED J, V96, pA201
+   Musisi S, 2009, East Afr Med J, V86, P16
+   Nachega JB, 2009, JAIDS-J ACQ IMM DEF, V51, P65, DOI 10.1097/QAI.0b013e318199072e
+   Oberdorfer P, 2006, J PAEDIATR CHILD H, V42, P283, DOI 10.1111/j.1440-1754.2006.00855.x
+   Republique de Cote d'Ivoire, 2006, GUID PRIS CHARG PED
+   Rouet F, 2005, J CLIN MICROBIOL, V43, P2709, DOI 10.1128/JCM.43.6.2709-2717.2005
+   Rudy BJ, 2001, J ADOLESCENT HEALTH, V29, P39, DOI 10.1016/S1054-139X(01)00288-9
+   Rujumba J, 2010, J INT AIDS SOC, V13, DOI 10.1186/1758-2652-13-9
+   Toure S, 2008, AIDS, V22, P873, DOI 10.1097/QAD.0b013e3282f768f8
+   UNAIDS, 2010, UNAIDS REP GLOB AIDS
+   Vaz L. M., 2011, J DEV BEHAV PEDIAT
+   Vreeman RC, 2010, AIDS PATIENT CARE ST, V24, P639, DOI 10.1089/apc.2010.0079
+   WHO, 2010, ANT THER HIV INF INF
+   Wilson CM, 2010, JAIDS-J ACQ IMM DEF, V54, pS5, DOI 10.1097/QAI.0b013e3181e243a1
+   World Health Organization, 2006, ANT THER HIV INF INF
+   World Health Organization, 2011, GUID HIV DISCL COUNS
+NR 39
+TC 7
+Z9 7
+U1 1
+U2 12
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1758-2652
+J9 J INT AIDS SOC
+JI J. Int. AIDS Soc.
+PD JUN 18
+PY 2013
+VL 16
+AR 18569
+DI 10.7448/IAS.16.1.18569
+PG 7
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 167CE
+UT WOS:000320607200001
+PM 23782475
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Soto, EJ
+   La Vincente, S
+   Clark, A
+   Firth, S
+   Morgan, A
+   Dettrick, Z
+   Dayal, P
+   Aldaba, BM
+   Kosen, S
+   Kraft, AD
+   Panicker, R
+   Prasai, Y
+   Trisnantoro, L
+   Varghese, B
+   Widiati, Y
+AF Soto, Eliana Jimenez
+   La Vincente, Sophie
+   Clark, Andrew
+   Firth, Sonja
+   Morgan, Alison
+   Dettrick, Zoe
+   Dayal, Prarthna
+   Aldaba, Bernardino M.
+   Kosen, Soewarta
+   Kraft, Aleli D.
+   Panicker, Rajashree
+   Prasai, Yogendra
+   Trisnantoro, Laksono
+   Varghese, Beena
+   Widiati, Yulia
+CA Investment Case Team India
+TI Investment case for improving maternal and child health: results from
+   four countries
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Maternal; Newborn and Child Health; Evidence-based Planning; Scaling-up
+   Interventions; Equity
+ID INTERVENTIONS; IMPACT; LIVES
+AB Background: Without addressing the constraints specific to disadvantaged populations, national health policies such as universal health coverage risk increasing equity gaps. Health system constraints often have the greatest impact on disadvantaged populations, resulting in poor access to quality health services among vulnerable groups.
+   Methods: The Investment Cases in Indonesia, Nepal, Philippines, and the state of Orissa in India were implemented to support evidence-based sub-national planning and budgeting for equitable scale-up of quality MNCH services. The Investment Case framework combines the basic setup of strategic problem solving with a decision-support model. The analysis and identification of strategies to scale-up priority MNCH interventions is conducted by in-country planners and policymakers with facilitation from local and international research partners.
+   Results: Significant variation in scaling-up constraints, strategies, and associated costs were identified between countries and across urban and rural typologies. Community-based strategies have been considered for rural populations served predominantly by public providers, but this analysis suggests that the scaling-up of maternal, newborn, and child health services requires health system interventions focused on 'getting the basics right'. These include upgrading or building facilities, training and redistribution of staff, better supervision, and strengthening the procurement of essential commodities. Some of these strategies involve substantial early capital expenditure in remote and sparsely populated districts. These supply-side strategies are not only the 'best buys', but also the 'required buys' to ensure the quality of health services as coverage increases. By contrast, such public supply strategies may not be the 'best buys' in densely populated urbanised settings, served by a mix of public and private providers. Instead, robust regulatory and supervisory mechanisms are required to improve the accessibility and quality of services delivered by the private sector. They can lead to important maternal mortality reductions at relatively low costs.
+   Conclusions: National strategies that do not take into consideration the special circumstances of disadvantaged areas risk disempowering local managers and may lead to a "business-as-usual" acceptance of unreachable goals. To effectively guide health service delivery at a local level, national plans should adopt typologies that reflect the different problems and strategies to scale up key MNCH interventions.
+C1 [Soto, Eliana Jimenez; Firth, Sonja; Dettrick, Zoe] Univ Queensland, Sch Populat Hlth, Herston, Qld 4006, Australia.
+   [La Vincente, Sophie] Univ Melbourne, Royal Childrens Hosp, Ctr Int Child Hlth, Murdoch Childrens Res Inst, Parkville, Vic 3052, Australia.
+   [Clark, Andrew] London Sch Hyg & Trop Med, Dept Hlth Serv Res & Policy, London WC1H 9SH, England.
+   [Morgan, Alison; Dayal, Prarthna] Univ Melbourne, Nossal Inst Global Hlth, Carlton, Vic 3010, Australia.
+   [Aldaba, Bernardino M.; Kraft, Aleli D.] Univ Philippines, UPecon Fdn Inc, UP Sch Econ, Quezon City 1101, Philippines.
+   [Kosen, Soewarta] Natl Inst Hlth Res & Dev, Ctr Hlth Syst & Policy Res & Dev, Jakarta 10560, Indonesia.
+   [Panicker, Rajashree; Varghese, Beena] Publ Hlth Fdn India PHFI 4, Inst Area, New Delhi 110070, India.
+   [Prasai, Yogendra] New ERA, Kathmandu, Nepal.
+   [Trisnantoro, Laksono; Widiati, Yulia] Gadjah Mada Univ, Ctr Hlth Serv Management, Fac Med, Yogyakarta 55281, Indonesia.
+RP Soto, EJ (reprint author), Univ Queensland, Sch Populat Hlth, 4th Floor,Public Hlth Bldg,Herston Rd, Herston, Qld 4006, Australia.
+EM e.jimenez@sph.uq.edu.au
+RI Dettrick, Zoe/I-1479-2017
+OI Dettrick, Zoe/0000-0003-1091-1820; Morgan, Alison/0000-0001-5380-1619
+FU Bill and Melinda Gates Foundation [52125]; Australian Agency for
+   International Development (AusAID) [47734]
+FX This work was supported by grants from the Bill and Melinda Gates
+   Foundation [Grant number: 52125] and the Australian Agency for
+   International Development (AusAID) [Deed number: 47734].
+CR [Anonymous], 2007, MICR EXC
+   Boschi-Pinto C, 2010, INT J EPIDEMIOL, V39, P3, DOI 10.1093/ije/dyq018
+   Darmstadt GL, 2008, HEALTH POLICY PLANN, V23, P101, DOI 10.1093/heapol/czn001
+   Gericke CA, 2005, B WORLD HEALTH ORGAN, V83, P285
+   Government of India Second Administrative Reforms Commission, 2008, REP 2 COMM REV MISS, P1
+   Government of Orissa, 2010, NAT RUR HLTH MISS PR
+   International Institute for Population Science, 2007, NAT FAM HLTH SURV NF, P1
+   Jimenez-Soto E, 2012, PLOS MED, V9, P1
+   La Vincente S, 2013, HEALTH RES POLICY SY, V11, DOI 10.1186/1478-4505-11-3
+   Lavado RF, 2008, ARE MATERNAL CHILD C, P22
+   Lim SS, 2010, LANCET, V375, P2009, DOI 10.1016/S0140-6736(10)60744-1
+   Mangham LJ, 2010, HEALTH POLICY PLANN, V25, P85, DOI 10.1093/heapol/czp066
+   Mulholland EK, 2008, B WORLD HEALTH ORGAN, V86, P399, DOI 10.2471/BLT.07.044545
+   Nguyen K-H, 2011, INDONESIA EQUITY REP
+   Philip Morris International, 2008, 20080029 PHIL DEP HL, P13
+   Reddy KS, 2011, LANCET, V377, P760, DOI 10.1016/S0140-6736(10)61960-5
+   Soucat A, 2002, MARGINAL BUDGETING B
+   TANAHASHI T, 1978, B WORLD HEALTH ORGAN, V56, P295
+   The Partnership for Maternal Newborn and Child Health, 2011, GLOB REV KEY INT REL
+   United Nations Children's Fund, 2011, LEV TRENDS CHILD MOR
+   VanAken JE, 2007, PROBLEM-SOLVING IN ORGANIZATIONS: A METHODOLOGICAL HANDBOOK FOR BUSINESS STUDENTS, P1, DOI 10.1017/CBO9780511618413
+   WHO, 2010, TRENDS MAT MORT 1990
+   Winfrey W, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-S3-S32
+NR 23
+TC 8
+Z9 8
+U1 0
+U2 23
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUN 21
+PY 2013
+VL 13
+AR 601
+DI 10.1186/1471-2458-13-601
+PG 14
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 176CF
+UT WOS:000321280100001
+PM 23800035
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

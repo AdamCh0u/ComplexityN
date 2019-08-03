@@ -1,0 +1,532 @@
+
+PT J
+AU Cerqueti, R
+   Ausloos, M
+AF Cerqueti, Roy
+   Ausloos, Marcel
+TI Cross ranking of cities and regions: population versus income
+SO JOURNAL OF STATISTICAL MECHANICS-THEORY AND EXPERIMENT
+LA English
+DT Article
+DE critical phenomena of socio-economic systems; scaling in socio-economic
+   systems
+ID CITY SIZE DISTRIBUTIONS; ZIPFS LAW; ECONOMIC-GEOGRAPHY; KENDALLS TAU;
+   URBAN-GROWTH; POWER LAWS; AGGLOMERATION; PARETO; DISCONTINUITIES;
+   HIERARCHY
+AB This paper explores the relationship between the inner economical structure of communities and their population distribution through a rank-rank analysis of official data, along statistical physics ideas within two techniques. The data is taken on Italian cities. The analysis is performed both at a global (national) and at a more local (regional) level in order to distinguish 'macro' and 'micro' aspects. First, the rank-size rule is found not to be a standard power law, as in many other studies, but a doubly decreasing power law. Next, the Kendall tau and the Spearman. rank correlation coefficients which measure pair concordance and the correlation between fluctuations in two rankings, respectively,-as a correlation function does in thermodynamics, are calculated for finding rank correlation (if any) between demography and wealth. Results show non only global disparities for the whole (country) set, but also (regional) disparities, when comparing the number of cities in regions, the number of inhabitants in cities and that in regions, as well as when comparing the aggregated tax income of the cities and that of regions. Different outliers are pointed out and justified. Interestingly, two classes of cities in the country and two classes of regions in the country are found. 'Common sense' social, political, and economic considerations sustain the findings. More importantly, the methods show that they allow to distinguish communities, very clearly, when specific criteria are numerically sound. A specific modeling for the findings is presented, i.e. for the doubly decreasing power law and the two phase system, based on statistics theory, e.g. urn filling. The model ideas can be expected to hold when similar rank relationship features are observed in fields. It is emphasized that the analysis makes more sense than one through a Pearson. value-value correlation analysis
+C1 [Cerqueti, Roy] Univ Macerata, Dept Econ & Law, I-62100 Macerata, Italy.
+   [Ausloos, Marcel] Royal Netherlands Acad Arts & Sci, eHumanities Grp, NL-1096 CJ Amsterdam, Netherlands.
+   [Ausloos, Marcel] GRAPES, B-4031 Angleur Liege, Belgium.
+   [Ausloos, Marcel] Univ Leicester, Sch Management, Leicester LE1 7RH, Leics, England.
+RP Cerqueti, R (reprint author), Univ Macerata, Dept Econ & Law, Via Crescimbeni 20, I-62100 Macerata, Italy.
+EM roy.cerqueti@unimc.it; marcel.ausloos@ulg.ac.be
+CR Abramowitz M., 1970, HDB MATH FUNCTIONS
+   Ausloos M, 2013, SCIENTOMETRICS, V95, P895, DOI 10.1007/s11192-012-0936-x
+   Ausloos M., 2014, J APPL QUANT METHODS, V9, P1
+   Ausloos M, 2014, INT J MOD PHYS C, V25, DOI 10.1142/S0129183114500600
+   Ausloos M, 2014, PHYS SCRIPTA, V89, DOI 10.1088/0031-8949/89/10/108002
+   Ausloos M, 2014, CENT EUR J PHYS, V12, P773, DOI 10.2478/s11534-014-0505-4
+   Balboaca S. D., 2006, LEONARDO J SCI, P179
+   Baldwin R. E., 2003, EC GEOGRAPHY PUBLIC
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   BERRY BJL, 1961, ECON DEV CULT CHANGE, V9, P573, DOI 10.1086/449923
+   Bettencourt LMA, 2008, EUR PHYS J B, V63, P285, DOI 10.1140/epjb/e2008-00250-6
+   Bland M, 1995, INTRO MED STAT, P205
+   Bonett DG, 2000, PSYCHOMETRIKA, V65, P23, DOI 10.1007/BF02294183
+   Bosker M, 2008, REG SCI URBAN ECON, V38, P330, DOI 10.1016/j.regsciurbeco.2008.04.002
+   Brosio G, 2002, PUBLIC CHOICE, V112, P259, DOI 10.1023/A:1019985022106
+   Calderoni F, 2001, GLOBAL CRIME, V12, P41
+   Chakrabarti B. K., 2013, ECONOPHYSICS INCOME
+   Cordoba JC, 2008, J URBAN ECON, V63, P177, DOI 10.1016/j.jue.2007.01.005
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   de Groot HLF, 2009, ELGAR ORIG REF, P256
+   Dimitrova Z I, 2013, ARXIV13090079
+   Dobkins LH, 2001, REG SCI URBAN ECON, V31, P701
+   Fiorio C. V., 2005, G EC ANN EC, V64, P247
+   Fisher ME, 1998, REV MOD PHYS, V70, P653, DOI 10.1103/RevModPhys.70.653
+   Fujita M, 2005, PAP REG SCI, V84, P377, DOI 10.1111/j.1435-5957.2005.00021.x
+   Fujita M., 1999, SPATIAL EC CITIES RE
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gabaix X, 2004, HDB REGIONAL URBAN E, V4
+   Galbiati R, 2012, J PUBLIC ECON, V96, P485, DOI 10.1016/j.jpubeco.2012.01.003
+   Garmestani AS, 2008, J ECON BEHAV ORGAN, V68, P209, DOI 10.1016/j.jebo.2008.03.011
+   Garmestani AS, 2007, URBAN STUD, V44, P1997, DOI 10.1080/00420980701471935
+   Gibrat R., 1931, INEGALITES EC APPL I
+   Giesen K, 2011, J ECON GEOGR, V11, P667, DOI 10.1093/jeg/lbq019
+   Gradshteyn I. S., 2000, TABLE INTEGRALS SERI
+   GUERINPACE F, 1995, URBAN STUD, V32, P551, DOI 10.1080/00420989550012960
+   Hare T S, 2000, ARCHAEOLOGY COMMUNIT, V78
+   Hays W. L., 1988, STATISTICS
+   Hsieh JJ, 2010, COMPUT STAT DATA AN, V54, P1613, DOI 10.1016/j.csda.2010.01.015
+   Ioannides Y, 2013, J URBAN ECON, V73, P18, DOI 10.1016/j.jue.2012.06.005
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Kendall MG, 1938, BIOMETRIKA, V30, P81, DOI 10.1093/biomet/30.1-2.81
+   Krugman P., 1991, GEOGRAPHY TRADE
+   KUBO R, 1966, REP PROG PHYS, V29, P255, DOI 10.1088/0034-4885/29/1/306
+   KUBO R, 1957, J PHYS SOC JPN, V12, P570, DOI 10.1143/JPSJ.12.570
+   Matlaba V.J., 2013, REV URBAN REG DEV ST, V25, P129
+   Melo PC, 2009, REG SCI URBAN ECON, V39, P332, DOI 10.1016/j.regsciurbeco.2008.12.002
+   Melucci M., 2007, SIGIR Forum, V41, P18, DOI 10.1145/1273221.1273223
+   Mills ES, 1994, URBAN EC
+   Mori T, 2011, J REGIONAL SCI, V51, P694, DOI 10.1111/j.1467-9787.2011.00715.x
+   Neary JP, 2001, J ECON LIT, V39, P536, DOI 10.1257/jel.39.2.536
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Nitsch V, 2005, J URBAN ECON, V57, P86, DOI 10.1016/j.jue.2004.09.002
+   Ottaviano GIP, 1998, WORLD ECON, V21, P707, DOI 10.1111/1467-9701.00160
+   Peng GH, 2010, PHYSICA A, V389, P3804, DOI 10.1016/j.physa.2010.05.004
+   Pianegonda S, 2004, PHYSICA A, V342, P193, DOI 10.1016/j.physa.2004.04.078
+   Rappaport J, 2008, REG SCI URBAN ECON, V38, P533, DOI 10.1016/j.regsciurbeco.2008.02.001
+   Raschke M, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.037102
+   Reed WJ, 2002, J REGIONAL SCI, V42, P1, DOI 10.1111/1467-9787.00247
+   Rezapour M, 2013, STAT METHODOL, V15, P55, DOI 10.1016/j.stamet.2013.05.001
+   Rose C, 2002, MATH STAT MATH, P107
+   ROSEN KT, 1980, J URBAN ECON, V8, P165, DOI 10.1016/0094-1190(80)90043-1
+   Salkind N. J., 2007, ENCY MEASUREMENT STA
+   Schmitz RJ, 2013, NATURE, V495, P193, DOI 10.1038/nature11968
+   Semboloni F, 2008, EUR PHYS J B, V63, P295, DOI 10.1140/epjb/e2008-00203-1
+   SHEPPARD E, 1985, GEOGR ANAL, V17, P47
+   Skipper R K, 2011, MCNAIR SCHOLARS UNDE, V3, P217
+   Song SF, 2002, URBAN STUD, V39, P2317, DOI 10.1080/0042098022000033890
+   Soo KT, 2007, URBAN STUD, V44, P1, DOI 10.1080/00420980601023869
+   Spearman C, 1904, AM J PSYCHOL, V15, P201, DOI 10.2307/1412107
+   Stallings J, 2013, P NATL ACAD SCI USA, V110, P9680, DOI 10.1073/pnas.1220184110
+   Stanley H. E., 1971, PHASE TRANSITIONS CR
+   STANLEY HE, 1999, REV MOD PHYS, V71, P358
+   THOMPSON CJ, 1971, MATH STAT MECH
+   VERHULST PF, 1845, NOUVEAUX MEMOIRES AC, V18
+   Vitanov N K, 2014, BULGARIAN CITIES NEW
+   Wessa P, 2012, KENDALL TAU RANK COR
+   Yang B, 2010, BMC BIOINFORMATICS, V11, DOI 10.1186/1471-2105-11-S2-S5
+   Yule G U, 1922, PHIL T R SOC, V213, P21
+   Zhou YB, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/3/033033
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 81
+TC 3
+Z9 3
+U1 0
+U2 10
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1742-5468
+J9 J STAT MECH-THEORY E
+JI J. Stat. Mech.-Theory Exp.
+PD JUL
+PY 2015
+AR P07002
+DI 10.1088/1742-5468/2015/07/P07002
+PG 27
+WC Mechanics; Physics, Mathematical
+SC Mechanics; Physics
+GA CP6FH
+UT WOS:000359979700003
+DA 2019-03-26
+ER
+
+PT J
+AU Jiang, PS
+   Tung, YK
+AF Jiang, Peishi
+   Tung, Yeou-Koung
+TI Incorporating daily rainfalls to derive rainfall DDF relationships at
+   ungauged sites in Hong Kong and quantifying their uncertainty
+SO STOCHASTIC ENVIRONMENTAL RESEARCH AND RISK ASSESSMENT
+LA English
+DT Article
+DE Annual maximum daily-time rainfall; Rainfall DDF; Ordinary kriging;
+   Harr's PPE method; Ungauged sites
+ID BOUNDED RANDOM CASCADES; MULTISCALING PROPERTIES; MULTIFRACTAL
+   FRAMEWORK; MESOSCALE RAINFALL; FREQUENCY-ANALYSIS; MODEL; PRECIPITATION;
+   DISTRIBUTIONS; RIVER
+AB Rainfall depth-duration-frequency (DDF) relationships are essential inputs for the design and management of various hydrosystem infrastructures (e.g., urban drainages, dams, dykes, etc.). In many cases, rainfall DDF relationships are required at a location where there is no gauge. However, due to the presence of intrinsic randomness of the precipitation process, limited rainfall record, and spatial interpolation, the derived DDF relationships at ungauged sites are subject to uncertainty. This is especially true in Hong Kong with regard to record length. To enhance the utilization of available rainfall data, a daily precipitation-based DDF generation framework for conventional rain gauges in Hong Kong has been developed by the authors utilizing a scaling model. In this article, the methodological framework is extended to derive rainfall DDF relationships at ungauged sites. Owing to the nonlinearity and complexity of the modeling process, exact statistical features of derived DDF relationships are difficult to obtain. In this study, Harr's probabilistic point estimation method, known for its computational simplicity and accuracy, is applied to quantify the uncertainty features of rainfall DDF relationships derived for ungauged sites in Hong Kong. For illustration, four locations in different geographical locations in Hong Kong are considered. The results show that the uncertainty associated with the estimated statistical moments of annual maximum daily rainfall is significant in contributing to the overall uncertainty of derived rainfall DDF relationships.
+C1 [Jiang, Peishi; Tung, Yeou-Koung] Hong Kong Univ Sci & Technol, Dept Civil Environm Engn, Kowloon, Hong Kong, Peoples R China.
+RP Tung, YK (reprint author), Hong Kong Univ Sci & Technol, Dept Civil Environm Engn, Kowloon, Hong Kong, Peoples R China.
+EM cetung@ust.hk
+FU Hong Kong Research Grant Council [620110, 619712]
+FX The authors wish to acknowledge the support of the study by the Hong
+   Kong Research Grant Council (project nos. 620110 and 619712).
+   Constructive comments and advice from the reviewers and editors are
+   highly appreciated. Gratitude is also extended to the Hong Kong
+   Observatory, Drainage Services Department and Geotechnical Engineering
+   Office of the Hong Kong Government for providing the rainfall data used
+   in the study.
+CR Bara M, 2009, CONTRIB GEOPHYS GEOD, V39, P187, DOI DOI 10.2478/V10189-010-0010-8
+   Bernard MM, 1932, T ASCE, V96, P592
+   Berthouex PM, 1975, MATH MODELING WATER, P405
+   Bougadis J, 2006, HYDROL PROCESS, V20, P3747, DOI 10.1002/hyp.6386
+   Burlando P, 1996, J HYDROL, V187, P45, DOI 10.1016/S0022-1694(96)03086-7
+   Castro JJ, 2004, PHYSICA A, V338, P206, DOI 10.1016/j.physa.2004.02.043
+   CHANG CH, 1995, APPL MATH MODEL, V19, P95
+   Chow V.T., 1988, APPL HYDROLOGY
+   Cortis A, 2009, STOCH ENV RES RISK A, V23, P897, DOI 10.1007/s00477-008-0272-0
+   Deidda R, 2004, WATER RESOUR RES, V40, DOI 10.1029/2003WR002574
+   Deidda R, 1999, WATER RESOUR RES, V35, P1853, DOI 10.1029/1999WR900036
+   Deidda R, 2000, WATER RESOUR RES, V36, P1779, DOI 10.1029/2000WR900038
+   Deidda R, 2006, J HYDROL, V322, P2, DOI 10.1016/j.jhydrol.2005.02.036
+   Drainage Services Department (DSD) HKGSAR, 2013, STORMW DRAIN MAN PLA
+   Franceschini S, 2010, ADV WATER RESOUR, V33, P493, DOI 10.1016/j.advwatres.2010.02.001
+   Gerold LA, 2005, J HYDROL ENG, V10, P450, DOI 10.1061/(ASCE)1084-0699(2005)10:6(450)
+   GUPTA VK, 1990, J GEOPHYS RES-ATMOS, V95, P1999, DOI 10.1029/JD095iD03p01999
+   GUPTA VK, 1993, J APPL METEOROL, V32, P251, DOI 10.1175/1520-0450(1993)032<0251:ASAOMR>2.0.CO;2
+   HARR ME, 1989, APPL MATH MODEL, V13, P313, DOI 10.1016/0307-904X(89)90075-9
+   Huard D, 2010, STOCH ENV RES RISK A, V24, P337, DOI 10.1007/s00477-009-0323-1
+   Isaaks E. H., 1989, APPL GEOSTATISTICS
+   Jiang P, 2013, ASCE EWRI C CINC
+   Jiang P, 2013, J HYDROL, V504, P80, DOI 10.1016/j.jhydrol.2013.09.037
+   Langousis A, 2007, WATER RESOUR RES, V43, DOI 10.1029/2006WR005245
+   Langousis A, 2013, STOCH ENV RES RISK A, V27, P1525, DOI 10.1007/s00477-013-0687-0
+   Langousis A, 2009, CHAOS SOLITON FRACT, V39, P1182, DOI 10.1016/j.chaos.2007.06.004
+   Li M, 2010, STOCH ENV RES RISK A, V24, P117, DOI 10.1007/s00477-009-0305-3
+   Menabde M, 1997, WATER RESOUR RES, V33, P2823, DOI 10.1029/97WR02006
+   Menabde M, 2000, WATER RESOUR RES, V36, P3293, DOI 10.1029/2000WR900197
+   Nguyen VTV, 2002, WATER SCI TECHNOL, V45, P75
+   Nhat LM, 2007, ANN DISASTER PREV RE, V50, P33
+   Olsson J, 1998, HYDROL EARTH SYST SC, V2, P19, DOI 10.5194/hess-2-19-1998
+   Over TM, 1996, J GEOPHYS RES-ATMOS, V101, P26319, DOI 10.1029/96JD02033
+   Salvadori G, 2001, STOCH ENV RES RISK A, V15, P261, DOI 10.1007/s004770100070
+   Salvadori G, 2001, J GEOPHYS RES-ATMOS, V106, P24063, DOI 10.1029/2001JD900091
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Sherman C. W., 1931, T AM SOC CIVIL ENG, V95, P951
+   Singh VP, 1992, ELEMENTARY HYDROLOGY
+   Tung Y. -K., 2006, HYDROSYSTEMS ENG UNC
+   Veneziano D, 2006, WATER RESOUR RES, V42, DOI 10.1029/2005WR004716
+   Veneziano D, 2005, WATER RESOUR RES, V41, P31
+   Veneziano D., 2010, SCALING FRACTALS HYD
+   Veneziano D, 2009, WATER RESOUR RES, V45, DOI 10.1029/2009WR008257
+   Veneziano D, 2007, WATER RESOUR RES, V43, DOI 10.1029/2007WR006040
+   Wilson M. B. Wong, 2012, TECHNICAL REPORT
+   Xu YP, 2009, STOCH ENV RES RISK A, V23, P697, DOI 10.1007/s00477-008-0250-6
+   Yu PS, 2004, J HYDROL, V295, P108, DOI 10.1016/j.jhydrol.2004.03.003
+   Yu PS, 2001, J HYDROL, V244, P43, DOI 10.1016/S0022-1694(01)00328-6
+   ZOPPOU C, 1993, J HYDRAUL ENG-ASCE, V119, P1300, DOI 10.1061/(ASCE)0733-9429(1993)119:11(1300)
+NR 49
+TC 1
+Z9 1
+U1 0
+U2 7
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1436-3240
+EI 1436-3259
+J9 STOCH ENV RES RISK A
+JI Stoch. Environ. Res. Risk Assess.
+PD JAN
+PY 2015
+VL 29
+IS 1
+BP 45
+EP 62
+DI 10.1007/s00477-014-0915-2
+PG 18
+WC Engineering, Environmental; Engineering, Civil; Environmental Sciences;
+   Statistics & Probability; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Mathematics; Water
+   Resources
+GA AU0SS
+UT WOS:000345335400005
+DA 2019-03-26
+ER
+
+PT J
+AU Arcaute, E
+   Hatna, E
+   Ferguson, P
+   Youn, H
+   Johansson, A
+   Batty, M
+AF Arcaute, Elsa
+   Hatna, Erez
+   Ferguson, Peter
+   Youn, Hyejin
+   Johansson, Anders
+   Batty, Michael
+TI Constructing cities, deconstructing scaling laws
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE power-laws; scaling laws; urban indicators; city boundaries
+ID URBAN-GROWTH PATTERNS; ZIPFS LAW; POWER-LAW; DRAGON-KINGS;
+   DISTRIBUTIONS; PERSPECTIVE; CITY
+AB Cities can be characterized and modelled through different urban measures. Consistency within these observables is crucial in order to advance towards a science of cities. Bettencourt et al. have proposed that many of these urban measures can be predicted through universal scaling laws. We develop a framework to consistently define cities, using commuting to work and population density thresholds, and construct thousands of realizations of systems of cities with different boundaries for England and Wales. These serve as a laboratory for the scaling analysis of a large set of urban indicators. The analysis shows that population size alone does not provide us enough information to describe or predict the state of a city as previously proposed, indicating that the expected scaling laws are not corroborated. We found that most urban indicators scale linearly with city size, regardless of the definition of the urban boundaries. However, when nonlinear correlations are present, the exponent fluctuates considerably.
+C1 [Arcaute, Elsa; Hatna, Erez; Ferguson, Peter; Johansson, Anders; Batty, Michael] UCL, CASA, London, England.
+   [Hatna, Erez] Johns Hopkins Univ, Ctr Adv Modeling, Baltimore, MD 21209 USA.
+   [Youn, Hyejin] Univ Oxford, Inst New Econ Thinking, Oxford Martin Sch, Oxford, England.
+   [Youn, Hyejin] Santa Fe Inst, Santa Fe, MN 87501 USA.
+   [Johansson, Anders] Univ Bristol, Dept Civil Engn, Bristol, Avon, England.
+RP Arcaute, E (reprint author), UCL, CASA, London, England.
+EM e.arcaute@ucl.ac.uk
+RI Hatna, Erez/D-9665-2015
+FU ERC [249393-ERC-2009-AdG]; National Institute of Health [DP1OD003874];
+   Rockefeller Foundation; James McDonnell Foundation [220020195];
+   Engineering and Physical Sciences Research Council [EP/G057737/1]
+FX E.A., E.H., P.F., A.J. and M.B. acknowledge the support of ERC grant no.
+   249393-ERC-2009-AdG. E.H. acknowledges support from J. M. Epstein's NIH
+   Director's Pioneer Award, number DP1OD003874 from the National Institute
+   of Health. Useful discussions with Luis Bettencourt, and Geoffrey West
+   of the Santa Fe Institute, and Jose Lobo of Arizona State University
+   helped clarify many issues. H.Y. acknowledges the support of grants from
+   the Rockefeller Foundation and the James McDonnell Foundation (no.
+   220020195).
+CR Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   EEA, 2002, COR LAND COV UPD 200
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   Fluschnik T, 2014, SIZE DISTRIBUTION SC
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Frasco GF, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.011008
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Giesen K, 2011, J ECON GEOGR, V11, P667, DOI 10.1093/jeg/lbq019
+   Giesen K, 2010, J URBAN ECON, V68, P129, DOI 10.1016/j.jue.2010.03.007
+   Jefferson M, 1939, GEOGR REV, V29, P226, DOI 10.2307/209944
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   KLEIBER M, 1947, PHYSIOL REV, V27, P511
+   Lane D, 2009, METHODS SER, V7, P1, DOI 10.1007/978-1-4020-9663-1
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Murcio R, 2013, CHAOS SOLITON FRACT, V48, P22, DOI 10.1016/j.chaos.2013.01.001
+   Office for National Statistics, 2001, CENS SPEC WORKPL STA
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pisarenko VF, 2012, EUR PHYS J-SPEC TOP, V205, P95, DOI 10.1140/epjst/e2012-01564-8
+   Reades J, 2014, REG STUD, V48, P105, DOI 10.1080/00343404.2013.856515
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D, 2014, CITIES NUCL SUSTAINA
+   Rybski D, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042114
+   Sornette D., 2009, INT J TERRASPACE SCI, V2, P1, DOI DOI 10.1016/J.PHYSA.2010.03.014
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Yukalov VI, 2012, EUR PHYS J-SPEC TOP, V205, P53, DOI 10.1140/epjst/e2012-01561-y
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 37
+TC 56
+Z9 57
+U1 2
+U2 32
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD JAN 6
+PY 2015
+VL 12
+IS 102
+AR 20140745
+DI 10.1098/rsif.2014.0745
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AU3GI
+UT WOS:000345500000003
+PM 25411405
+OA Green Published, Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU McKinney, O
+   Modeste, NN
+   Lee, JW
+   Gleason, PC
+AF McKinney, Ogbochi
+   Modeste, Naomi N.
+   Lee, Jerry W.
+   Gleason, Peter C.
+TI Predicting Malawian women's intention to adhere to antiretroviral
+   therapy
+SO JOURNAL OF PUBLIC HEALTH RESEARCH
+LA English
+DT Article
+DE Antiretroviral therapy; adherence; theory of planned behaviour; women;
+   food insecurity
+ID PLANNED BEHAVIOR; HIV-INFECTION; APPLICABILITY; NUTRITION; HUNGER; KENYA
+AB Background. With the increase in scaling up of antiretroviral therapy (ART), knowledge of the need for adherence to ART is pivotal for successful treatment outcomes.
+   Design and Methods. A cross-sectional study was carried out between October and December 2013. We administered theory of planned behaviour (TPB) and adherence questionnaires to 358 women aged 18-49 years, from a rural and urban ART-clinics in southern Malawi. Hierarchical linear regression models were used to predict intentions to adhere to ART.
+   Results. Regression models show that attitude (beta= 0.47), subjective norm (beta= 0.31) and perceived behavioural control (beta= 0.12) explain 55% of the variance in intentions to adhere to ART. The relationship between both food insecurity and perceived side effects with intentions to adhere to ART is mediated by attitude, subjective norm, and perceived behavioural control. Household (r= 0.20) and individual (r= 0.21) food insecurity were positively and significantly correlated with perceived behavioural control. Household food insecurity had a negative correlation with perceived side effects (r=-0.11). Perceived side effects were positively correlated with attitude (r= 0.25). There was no statistically significant relationship between intentions to adhere to ART in the future and one month self-report of past month adherence. These interactions suggest that attitude predicted adherence only when food insecurity is high or perception of side effects is strong.
+   Conclusions. This study shows that modification might be needed when using TPB constructs in resource constraint environments.
+C1 [McKinney, Ogbochi; Modeste, Naomi N.; Lee, Jerry W.; Gleason, Peter C.] Loma Linda Univ, Sch Publ Hlth, Loma Linda, CA 92350 USA.
+RP McKinney, O (reprint author), Loma Linda Univ, Sch Publ Hlth, 24951 North Circle Dr,Nichol Hall, Loma Linda, CA 92350 USA.
+EM bochi_mckinney@live.com
+OI McKinney, Ogbochi/0000-0002-3778-318X
+CR Abah S, 2005, ESSENTIAL DRUGS MONI, V34, P16
+   AJZEN I, 1991, ORGAN BEHAV HUM DEC, V50, P179, DOI 10.1016/0749-5978(91)90020-T
+   Ajzen I., 2006, CONSTRUCTING TPB QUE
+   Ammassari A, 2001, J ACQ IMMUN DEF SYND, V28, P445
+   [Anonymous], GLOB HLTH OBS DAT RE
+   Arnsten JH, 2001, CLIN INFECT DIS, V33, P1417, DOI 10.1086/323201
+   Atkinson Mark J, 2004, Health Qual Life Outcomes, V2, P12, DOI 10.1186/1477-7525-2-12
+   Au JT, 2006, AIDS, V20, P2116, DOI 10.1097/01.aids.0000247580.16073.1b
+   Byron E, 2008, FOOD NUTR BULL, V29, P87, DOI 10.1177/156482650802900202
+   Campbell C, 2003, LETTING THEM DIE HIV, P214
+   Center for Disease Control and Prevention. Medication adherence, 2013, CDCS NOON C MARCH AT
+   Fincham D, 2008, S AFR J CLIN NUTR, V21
+   Harrigan PR, 2005, J INFECT DIS, V191, P1325, DOI 10.1086/428852
+   Hayes A. F., 2012, PROCESS VERSATILE CO
+   Janepanish P, 2011, AIDS CARE, V23, P460, DOI 10.1080/09540121.2010.516336
+   Kagee A, 2006, S AFR J PSYCHOL, V36, P699, DOI 10.1177/008124630603600404
+   Kamera H., 2011, EFFECT HOME FOLLOW V
+   KENDALL A, 1995, J NUTR, V125, P2793
+   Malawi Ministry of Health, 2008, TREATM AIDS GUID US
+   McKinney O., 2014, AIDS RES TREAT, V2014
+   Mills EJ, 2008, HIV MED, V9, P849, DOI 10.1111/j.1468-1293.2008.00643.x
+   Ministery of Health and Population, 2007, HIV SYPH SER SURV NA
+   Ngwira N, 2013, MALAWI STRATEGIC COU
+   Omer S, 2010, ETHIOP J HEALTH DEV, V24, P96
+   Orrell C, 2003, AIDS, V17, P1369, DOI [10.1097/00002030-200306130-00011, 10.1097/01.aids.0000060398.18106.f6]
+   Oyugi JH, 2004, JAIDS-J ACQ IMM DEF, V36, P1100, DOI 10.1097/00126334-200408150-00014
+   Paterson DL, 2000, ANN INTERN MED, V133, P21, DOI 10.7326/0003-4819-133-1-200007040-00004
+   Rachlis BS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018948
+   RADIMER KL, 1990, J NUTR, V120, P1544, DOI 10.1093/jn/120.suppl_11.1544
+   Reuters, 2008, REUTERS
+   Saal W, 2012, J HEALTH PSYCHOL, V17, P362, DOI 10.1177/1359105311416875
+   Sanjobo N, 2008, SAHARA J-J SOC ASP H, V5, P136, DOI 10.1080/17290376.2008.9724912
+   Skovdal M, 2011, INT J HEALTH PLAN M, V26, P296, DOI 10.1002/hpm.1082
+   Unge C, 2008, AIDS CARE, V20, P146, DOI 10.1080/09540120701513677
+   UNICEF, COUNTR STAT
+   Van Lange P. M., 2012, HDB THEORIES SOCIAL, V1, P438, DOI DOI 10.4135/9781446249215.N22
+   Weiser S., 2014, FOOD INSECURITY IMPL
+   White KM, 2010, PREV MED, V51, P325, DOI 10.1016/j.ypmed.2010.07.003
+   World Food Programme (WFP), 2012, WORLD HUNG COUNTR BR
+NR 39
+TC 1
+Z9 1
+U1 1
+U2 3
+PU PAGEPRESS PUBL
+PI PAVIA
+PA MEDITGROUP, VIA G BELLI, 4, PAVIA, 27100, ITALY
+SN 2279-9028
+EI 2279-9036
+J9 J PUBLIC HEALTH RES
+JI J. Public Health Res.
+PY 2015
+VL 4
+IS 2
+AR 533
+DI 10.4081/jphr.2015.533
+PG 8
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA CN3VQ
+UT WOS:000358356500004
+PM 26425494
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Stueve, KM
+   Hollenhorst, TP
+   Kelly, JR
+   Johnson, LB
+   Host, GE
+AF Stueve, Kirk M.
+   Hollenhorst, Tom P.
+   Kelly, John R.
+   Johnson, Lucinda B.
+   Host, George E.
+TI High-resolution maps of forest-urban watersheds present an opportunity
+   for ecologists and managers
+SO LANDSCAPE ECOLOGY
+LA English
+DT Article
+DE Aerial photography; LiDAR; Green infrastructure; Impervious surfaces;
+   Object-based image analysis; Scaling
+ID REMOTE-SENSING DATA; GREEN INFRASTRUCTURE; LAND-COVER; LIDAR DATA;
+   LANDSCAPE; ACCURACY; AREAS; CLASSIFICATION; IMAGERY; PATTERN
+AB Green infrastructure may improve water quality and mitigate flooding in forest-urban watersheds, but reliably quantifying all benefits is challenging because most land cover maps depend on moderate- to low-resolution data. Complex and spatially heterogeneous landscapes that typify forest-urban watersheds are not fully represented with these types of data. Hence important questions concerning how green infrastructure influences water quality and quantity at different spatial scales remain unanswered.
+   Demonstrate the feasibility of creating novel high-resolution land cover maps across entire watersheds and highlight deficiencies of standard land cover products.
+   We used object-based image analysis (OBIA) to create high-resolution (0.5 m) land cover maps and detect tree canopy overlapping impervious surfaces for a representative forest-urban watershed in Duluth, MN, USA. Unbiased estimates of accuracy and area were calculated and compared with similar metrics for the 30-m National Land Cover Database (NLCD).
+   Mapping accuracies for the high-resolution land cover and canopy overlap maps were similar to 90 %. Error-adjusted estimates of area indicated that impervious surfaces comprised similar to 21 % of the watershed, tree canopy overlapped similar to 10 % of impervious surfaces, and that three high-resolution land cover classes differed significantly from similar NLCD classes.
+   OBIA can efficiently generate high-resolution land cover products of entire watersheds that are appropriate for research and inclusion in the decision-making process of managers. Metrics derived from these products will likely differ from standard land cover maps and may produce new insights, especially when considering the unprecedented opportunity to evaluate fine-scale spatial heterogeneity across watersheds.
+C1 [Stueve, Kirk M.; Johnson, Lucinda B.; Host, George E.] Univ Minnesota, Nat Resources Res Inst, Duluth, MN 55811 USA.
+   [Hollenhorst, Tom P.; Kelly, John R.] US EPA, Midcontinent Ecol Div, Duluth, MN 55804 USA.
+RP Stueve, KM (reprint author), Univ Minnesota, Nat Resources Res Inst, 5013 Miller Trunk Highway, Duluth, MN 55811 USA.
+EM kstueve@biogeography.us
+FU US Environmental Protection Agency's Mid-Continent Ecology Division;
+   Department of Biology at the University of Minnesota Duluth; US
+   Environmental Protection Agency
+FX We are especially grateful for funding and support from the cooperative
+   agreement between the US Environmental Protection Agency's Mid-Continent
+   Ecology Division and the Department of Biology at the University of
+   Minnesota Duluth. Although the research described in the article has
+   been funded partly by the US Environmental Protection Agency, it has not
+   been subjected to any EPA review and therefore does not necessarily
+   reflect the views of the Agency, and no official endorsement should be
+   inferred. Richard Bunten and the City of Duluth provided access to
+   high-resolution aerial photography that was used in our analysis. Paul
+   Meysembourg and Richard Axler from the Natural Resources Research
+   Institute at the University of Minnesota Duluth also delivered technical
+   support and advice throughout various stages of the Project. This is
+   contribution number 580 from the Center for Water and the Environment,
+   Natural Resources Research Institute, University of Minnesota Duluth.
+CR Asadian Y, 2009, WATER QUAL RES J CAN, V44, P16
+   Asner GP, 2011, FRONT ECOL ENVIRON, V9, P434, DOI 10.1890/100179
+   Chen YH, 2009, ADV SPACE RES, V43, P1101, DOI 10.1016/j.asr.2008.11.008
+   Congalton R, 2002, MANUAL GEOSPATIAL SC
+   Ellis EC, 2008, FRONT ECOL ENVIRON, V6, P439, DOI 10.1890/070062
+   Felson AJ, 2013, BIOSCIENCE, V63, P882, DOI 10.1525/bio.2013.63.11.7
+   Gill S.E., 2007, BUILT ENV, V33, P115, DOI DOI 10.2148/BENV.33.1.115
+   Guan HY, 2013, INT J REMOTE SENS, V34, P5166, DOI 10.1080/01431161.2013.788261
+   Haidary A, 2013, WATER RESOUR MANAG, V27, P2217, DOI 10.1007/s11269-013-0284-5
+   Hodgson ME, 2003, PHOTOGRAMM ENG REM S, V69, P973, DOI 10.14358/PERS.69.9.973
+   Huang CQ, 2010, REMOTE SENS ENVIRON, V114, P183, DOI 10.1016/j.rse.2009.08.017
+   Inkilainen ENM, 2013, LANDSCAPE URBAN PLAN, V119, P91, DOI 10.1016/j.landurbplan.2013.07.002
+   King Kristen L., 2013, Arboriculture & Urban Forestry, V39, P62
+   LEVIN SA, 1992, ECOLOGY, V73, P1943, DOI 10.2307/1941447
+   Mas JF, 2014, GEOGR J, V14, P10
+   Mathieu R, 2007, LANDSCAPE URBAN PLAN, V81, P179, DOI 10.1016/j.landurbplan.2006.11.009
+   McPherson EG, 2011, LANDSCAPE URBAN PLAN, V99, P40, DOI 10.1016/j.landurbplan.2010.08.011
+   Minnesota Pollution Control Agency, 2012, IMP WAT LIST
+   Myint SW, 2011, REMOTE SENS ENVIRON, V115, P1145, DOI 10.1016/j.rse.2010.12.017
+   Nixon SW, 2009, HYDROBIOLOGIA, V629, P5, DOI 10.1007/s10750-009-9759-z
+   O'Neill R.V., 1986, HIERARCHICAL CONCEPT
+   Olofsson P, 2013, REMOTE SENS ENVIRON, V129, P122, DOI 10.1016/j.rse.2012.10.031
+   Opitz D, 2008, OBJECT BASED IMAGE A, P153
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Schneider A, 2010, REMOTE SENS ENVIRON, V114, P1733, DOI 10.1016/j.rse.2010.03.003
+   Shao GF, 2008, LANDSCAPE ECOL, V23, P505, DOI 10.1007/s10980-008-9215-x
+   Stueve KM, 2011, REMOTE SENS ENVIRON, V115, P3202
+   Tzoulas K, 2007, LANDSCAPE URBAN PLAN, V81, P167, DOI 10.1016/j.landurbplan.2007.02.001
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Wickham JD, 2013, REMOTE SENS ENVIRON, V130, P294, DOI 10.1016/j.rse.2012.12.001
+   Zhou W, 2008, INT J REMOTE SENS, V29, P3119, DOI 10.1080/01431160701469065
+   Zhou WQ, 2008, SENSORS-BASEL, V8, P1613, DOI 10.3390/s8031613
+NR 32
+TC 1
+Z9 1
+U1 1
+U2 50
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-2973
+EI 1572-9761
+J9 LANDSCAPE ECOL
+JI Landsc. Ecol.
+PD FEB
+PY 2015
+VL 30
+IS 2
+BP 313
+EP 323
+DI 10.1007/s10980-014-0127-7
+PG 11
+WC Ecology; Geography, Physical; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Physical Geography; Geology
+GA AZ3ML
+UT WOS:000348131500010
+OA Bronze
+DA 2019-03-26
+ER

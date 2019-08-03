@@ -1,0 +1,432 @@
+
+PT J
+AU Tizzoni, M
+   Sun, KY
+   Benusiglio, D
+   Karsai, M
+   Perra, N
+AF Tizzoni, Michele
+   Sun, Kaiyuan
+   Benusiglio, Diego
+   Karsai, Marton
+   Perra, Nicola
+TI The Scaling of Human Contacts and Epidemic Processes in Metapopulation
+   Networks
+SO SCIENTIFIC REPORTS
+ID INFECTIOUS-DISEASES; HUMAN MOBILITY; PATTERNS; MODELS; COMMUNICATION;
+   TRANSMISSION; FORECAST; DENSITY; SYSTEMS; IMPACT
+AB We study the dynamics of reaction-diffusion processes on heterogeneous metapopulation networks where interaction rates scale with subpopulation sizes. We first present new empirical evidence, based on the analysis of the interactions of 13 million users on Twitter, that supports the scaling of human interactions with population size with an exponent. ranging between 1.11 and 1.21, as observed in recent studies based on mobile phone data. We then integrate such observations into a reaction-diffusion metapopulation framework. We provide an explicit analytical expression for the global invasion threshold which sets a critical value of the diffusion rate below which a contagion process is not able to spread to a macroscopic fraction of the system. In particular, we consider the Susceptible-Infectious-Recovered epidemic model. Interestingly, the scaling of human contacts is found to facilitate the spreading dynamics. This behavior is enhanced by increasing heterogeneities in the mobility flows coupling the subpopulations. Our results show that the scaling properties of human interactions can significantly affect dynamical processes mediated by human contacts such as the spread of diseases, ideas and behaviors.
+RI Karsai, Marton/G-3391-2011; Tizzoni, Michele/H-6442-2016; Karsai,
+   Marton/M-6684-2015
+OI Karsai, Marton/0000-0001-5752-556X; Tizzoni,
+   Michele/0000-0001-7246-2341; Karsai, Marton/0000-0001-5752-556X; Perra,
+   Nicola/0000-0002-5559-3064
+CR ANDERSON RM, 1992, INFECT DIS HUMANS
+   Apolloni A, 2013, BMC INFECT DIS, V13, DOI 10.1186/1471-2334-13-176
+   Bailey N.T.J., 1975, MATH THEORY INFECT D
+   Bajardi P, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016591
+   Balcan D, 2011, NAT PHYS, V7, P581, DOI 10.1038/NPHYS1944
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Balcan D, 2009, BMC MED, V7, DOI 10.1186/1741-7015-7-45
+   Ball F, 1997, ANN APPL PROBAB, V7, P46
+   Barrat A, 2004, P NATL ACAD SCI USA, V101, P3747, DOI 10.1073/pnas.0400087101
+   Barrat A., 2008, DYNAMICAL PROCESSES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Calabrese F., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P223, DOI 10.1109/PASSAT/SocialCom.2011.247
+   Calabrese F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020814
+   Catanzaro M, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.027103
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Cohen R., 2010, COMPLEX NETWORKS STR
+   Colizza V, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.148701
+   Colizza V, 2008, J THEOR BIOL, V251, P450, DOI 10.1016/j.jtbi.2007.11.028
+   Colizza V, 2007, NAT PHYS, V3, P276, DOI 10.1038/nphys560
+   Dalziel BD, 2014, PLOS PATHOG, V10, DOI 10.1371/journal.ppat.1004455
+   Easley David, 2010, NETWORKS CROWDS MARK
+   European open data portal, 2000, URB MORPH ZON
+   Ferguson NM, 2005, NATURE, V437, P209, DOI 10.1038/nature04017
+   Gallos LK, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.138301
+   Goncalves B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022656
+   Gong YW, 2014, PHYSICA A, V416, P208, DOI 10.1016/j.physa.2014.08.056
+   Grabowicz PA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092196
+   Grabowicz PA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029358
+   Hanski I. A., 1997, METAPOPULATION BIOL
+   Holland MD, 2008, NATURE, V456, P792, DOI 10.1038/nature07395
+   Hu H, 2013, MATH BIOSCI, V244, P125, DOI 10.1016/j.mbs.2013.04.013
+   Huberman B., 2009, 1 MONDAY, V14
+   Hufnagel L, 2004, P NATL ACAD SCI USA, V101, P15124, DOI 10.1073/pnas.0308344101
+   Keeling MJ, 2008, MODELING INFECT DIS
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Liu SY, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.032805
+   Lund H, 2013, J STAT PHYS, V151, P367, DOI 10.1007/s10955-013-0690-3
+   Mastrandrea R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0136497
+   Mata A. S., 2013, PHYS REV E, V88
+   Meloni S, 2011, SCI REP-UK, V1, DOI 10.1038/srep00062
+   Merler S, 2011, PLOS COMPUT BIOL, V7, DOI 10.1371/journal.pcbi.1002205
+   Mossong J, 2008, PLOS MED, V5, P381, DOI 10.1371/journal.pmed.0050074
+   Nakao H, 2010, NAT PHYS, V6, P544, DOI 10.1038/NPHYS1651
+   Newman M. E., 2010, NETWORKS INTRO
+   Okabe A., 2000, SPATIAL TESSELLATION
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/179
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Poletto C, 2013, J THEOR BIOL, V338, P41, DOI 10.1016/j.jtbi.2013.08.032
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Shen CS, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.036114
+   Socioeconomic Data and Applications Center (SEDAC), GRIDD POP WORLD GPW
+   Takaguchi T, 2015, J THEOR BIOL, V380, P134, DOI 10.1016/j.jtbi.2015.05.024
+   Takhteyev Y, 2012, SOC NETWORKS, V34, P73, DOI 10.1016/j.socnet.2011.05.006
+   Tanaka G, 2014, SCI REP-UK, V4, DOI 10.1038/srep05522
+   Tizzoni M, 2012, BMC MED, V10, DOI 10.1186/1741-7015-10-165
+   Wang L, 2013, SCI REP-UK, V3, DOI 10.1038/srep01468
+NR 59
+TC 8
+Z9 8
+SN 2045-2322
+PD OCT 19
+PY 2015
+VL 5
+AR 15111
+DI 10.1038/srep15111
+UT WOS:000362983600001
+PM 26478209
+ER
+
+PT B
+AU Quinn, CP
+AF Quinn, Colin P.
+BE Goodale, N
+   Andrefsky, W
+TI SIGNALS IN STONE: EXPLORING THE ROLE OF SOCIAL INFORMATION EXCHANGE,
+   CONSPICUOUS CONSUMPTION, AND COSTLY SIGNALING THEORY IN LITHIC ANALYSIS
+SO LITHIC TECHNOLOGICAL SYSTEMS AND EVOLUTIONARY THEORY
+CT Symposium on Lithic Technological Systems - Evolutionary Approaches to
+   Understanding Stone Technologies as a Byproduct of Human Behavior held
+   at the 74th Annual Meeting of the Society-for-American-Archaeology
+CY APR 23, 2009
+CL Atlanta, GA
+ID EVOLUTIONARY ARCHAEOLOGY; KIMBERLEY POINTS; CALIFORNIA; ASCENDANCE;
+   STYLE; WORK; RECIPROCITY; SELECTION; HANDICAP; FORAGERS
+CR Akerman K, 2008, AUST ABORIG STUD, P70
+   Barton C., 1997, ARCHAEOLOGICAL PAPER, P141
+   Bernstein David J., 1984, BAR INT SERIES, V226, P203
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bird RB, 2002, EVOL HUM BEHAV, V23, P297
+   Bliege Bird Rebecca, 2005, CURR ANTHROPOL, V46, P221, DOI DOI 10.1086/427115)
+   Boone JL, 1998, CURR ANTHROPOL, V39, pS141, DOI 10.1086/204693
+   Boyd R, 1985, CULTURE EVOLUTIONARY
+   BROWN JA, 2006, LEADERSHIP POLITY MI, P197
+   Casey Joanna, 1998, GENDER AFRICAN PREHI, P83
+   Chilton E. S., 1999, MAT MEANING CRITICAL, P118
+   Codding BF, 2007, AM ANTIQUITY, V72, P349, DOI 10.2307/40035818
+   Dawkins R., 1978, P282
+   DAWKINS R, 1987, BLIND WATCHMAKER
+   Dunnell R., 1980, ADV ARCHAEOLOGICAL M, V3, P35, DOI 10.1016/B978-0-12-003103-0.50007-1
+   Durham W. H., 1991, COEVOLUTION GENES CU
+   Earle Timothy, 2004, RETHINKING MAT ENGAG, P153
+   Ellis Christopher, 2009, PAINTING BROAD BRUSH, P319
+   Fowler M., 1999, MOUND 72 AREA DEDICA, P101
+   Fowler M, 1999, MOUND 72 AREA DEDICA
+   Fried M. H, 1967, EVOLUTION POLITICAL
+   Gero J. M, 1989, TIME ENERGY STONE TO, P92
+   Gintis H, 2003, EVOL HUM BEHAV, V24, P153, DOI 10.1016/S1090-5138(02)00157-5
+   Gintis H, 2001, J THEOR BIOL, V213, P103, DOI 10.1006/jtbi.2001.2406
+   Gintis H, 2000, J THEOR BIOL, V206, P169, DOI 10.1006/jtbi.2000.2111
+   GRAFEN A, 1990, J THEOR BIOL, V144, P517, DOI 10.1016/S0022-5193(05)80088-8
+   Harper D. G. C., 1995, JOURNAL OF THEORETIC, V177, P305, DOI DOI 10.1006/JTBI.1995.0248
+   Harrison R, 2006, CURR ANTHROPOL, V47, P63, DOI 10.1086/497673
+   Harrison R., 2002, J SOCIAL ARCHAEOLOGY, V2, P352, DOI DOI 10.1177/146960530200200304
+   HASSON O, 1994, J THEOR BIOL, V167, P223, DOI 10.1006/jtbi.1994.1065
+   Hawkes K, 2002, EVOL ANTHROPOL, V11, P58, DOI 10.1002/evan.20005
+   HAWKES K, 1993, CURR ANTHROPOL, V34, P341, DOI 10.1086/204182
+   HAWKES K, 1991, ETHOL SOCIOBIOL, V12, P29, DOI 10.1016/0162-3095(91)90011-E
+   Hawkes K., 1990, RISK UNCERTAINTY TRI, P145
+   Henrich Joseph, 2007, PAPERS EC EVOLUTION, V721, P1
+   Hildebrandt WR, 2003, AM ANTIQUITY, V68, P790, DOI 10.2307/3557074
+   Hildebrandt WR, 2002, AM ANTIQUITY, V67, P231, DOI 10.2307/2694565
+   Hodgson D, 2009, ANTIQUITY, V83, P195, DOI 10.1017/S0003598X00098197
+   Holm Lena, 1994, CURRENT SWEDISH ARCH, V2, P151
+   Hughes R.E., 1978, J CALIFORNIA ANTHR, V5, P53
+   Kantner John, 2003, ESSENTIAL TENSIONS A, P67
+   KAPLAN H, 1985, CURR ANTHROPOL, V26, P223, DOI 10.1086/203251
+   Kelly R, 2000, SOCIAL THEORY ARCHAE, P63
+   Kohn M, 1999, ANTIQUITY, V73, P518
+   Krebs J. R., 1984, BEHAV ECOLOGY EVOLUT, P380
+   Kroeber AL, 1905, AM ANTHROPOL, V7, P690
+   Lyman RL, 1998, CURR ANTHROPOL, V39, P615, DOI 10.1086/204786
+   Lyman RL, 2001, CURR ANTHROPOL, V42, P408, DOI 10.1086/320477
+   Machin Anna J., 2008, ANTIQUITY, V82, P761
+   Mauss M., 1924, GIFT FORMS FUNCTIONS
+   McGuire KR, 2007, AM ANTIQUITY, V72, P358, DOI 10.2307/40035819
+   McGuire KR, 2005, AM ANTIQUITY, V70, P695, DOI 10.2307/40035870
+   MEHRINGER PJ, 1990, NATL GEOGR RES, V6, P495
+   Mithen S, 2008, ANTIQUITY, V82, P766, DOI 10.1017/S0003598X00097374
+   NEIMAN FD, 1997, REDISCOVERING DARWIN, P267
+   Ohtsubo Y, 2009, EVOL HUM BEHAV, V30, P114, DOI 10.1016/j.evolhumbehav.2008.09.004
+   Ostrom E, 2009, SCIENCE, V325, P419, DOI 10.1126/science.1172133
+   Parker-Pearson M, 1999, ARCHAEOLOGY DEATH BU
+   Pauketat TR, 2004, ANTIQUITY, V78, P779
+   Plourde AM, 2008, HUM NATURE-INT BIOS, V19, P374, DOI 10.1007/s12110-008-9050-4
+   Preston B., 2000, MATTER MAT MODERN CU, P22
+   Quinn Colin P, 2006, J NW ANTHR, V41, P207
+   RINDOS D, 1980, CURR ANTHROPOL, V21, P751, DOI 10.1086/202569
+   Robb JE, 1998, ANNU REV ANTHROPOL, V27, P329, DOI 10.1146/annurev.anthro.27.1.329
+   Robb John E., 1999, 26 CTR ARCH INV
+   Rust HN, 1905, AM ANTHROPOL, V7, P688, DOI 10.1525/aa.1905.7.4.02a00150
+   Sackett J. R., 1982, J ANTHROPOL ARCHAEOL, V1, P59, DOI [10.1016/0278-4165(82)90008-3, DOI 10.1016/0278-4165(82)90008-3]
+   SACKETT JR, 1985, AM ANTIQUITY, V50, P154, DOI 10.2307/280642
+   Smith E. A., 2001, BEHAV ECOL SOCIOBIOL, V50, P9, DOI [DOI 10.1007/S002650100338, DOI 10.1007/S002650100338)]
+   Smith E. A., 2000, ADAPTATION HUMAN BEH, P27
+   Smith EA, 2000, EVOL HUM BEHAV, V21, P245, DOI 10.1016/S1090-5138(00)00031-3
+   Smith EA, 2004, HUM NATURE-INT BIOS, V15, P343, DOI 10.1007/s12110-004-1013-9
+   SMITH EA, 1992, EVOLUTIONARY ECOLOGY, P25
+   Sosis R, 2003, HUM NATURE-INT BIOS, V14, P91, DOI 10.1007/s12110-003-1000-6
+   Thompson Lucy, 1916, AM INDIAN
+   VanPool Todd L., 2003, ESSENTIAL TENSIONS A, P89
+   Veblen T, 1994, THEORY LEISURE CLASS
+   Waguespack NM, 2009, ANTIQUITY, V83, P786, DOI 10.1017/S0003598X00098999
+   WIESSNER P, 1985, AM ANTIQUITY, V50, P160, DOI 10.2307/280643
+   WIESSNER P, 1983, AM ANTIQUITY, V48, P253, DOI 10.2307/280450
+   Wilk R. R, 1996, EC CULTURES FDN EC A
+   WILK RR, 1989, HOUSEHOLD EC RECONSI, P23
+   Wobst M.H., 1977, ANTHR PAPERS, V61
+   ZAHAVI A, 1975, J THEOR BIOL, V53, P205, DOI 10.1016/0022-5193(75)90111-3
+NR 84
+TC 5
+Z9 5
+BN 978-1-107-02646-9
+PY 2015
+BP 198
+EP 221
+UT WOS:000372066200011
+ER
+
+PT J
+AU Bellomo, N
+   Colasuonno, F
+   Knopoff, D
+   Soler, J
+AF Bellomo, Nicola
+   Colasuonno, Francesca
+   Knopoff, Damian
+   Soler, Juan
+TI FROM A SYSTEMS THEORY OF SOCIOLOGY TO MODELING THE ONSET AND EVOLUTION
+   OF CRIMINALITY
+SO NETWORKS AND HETEROGENEOUS MEDIA
+CT Workshop on Model and Control of Social Dynamcs
+CY OCT 06-09, 2014
+CL Rutgers Univ, Dept Math Sci, Camden, NJ
+HO Rutgers Univ, Dept Math Sci
+DE Kinetic theory; active particles; stochastic games; system theory
+   sociology; social systems; criminality
+ID NONLINEAR-INTERACTIONS; MATHEMATICAL-THEORY; OPINION FORMATION;
+   COMPLEX-SYSTEMS; BLACK SWAN; DYNAMICS; NETWORKS; BEHAVIOR; CRIME;
+   EXISTENCE
+AB This paper proposes a systems theory approach to the modeling of onset and evolution of criminality in a territory. This approach aims at capturing the complexity features of social systems. Complexity is related to the fact that individuals have the ability to develop specific heterogeneously distributed strategies, which depend also on those expressed by the other individuals. The modeling is developed by methods of generalized kinetic theory where interactions and decisional processes are modeled by theoretical tools of stochastic game theory.
+RI Faculty of, Sciences, KAU/E-7305-2017; Juan, Soler/L-4627-2014; Bellomo,
+   Nicola/B-3431-2010
+OI Juan, Soler/0000-0002-8683-5994; Bellomo, Nicola/0000-0002-5989-1608
+CR Arlotti L, 2012, APPL MATH LETT, V25, P490, DOI 10.1016/j.aml.2011.09.043
+   Arthur W., 1997, STUDIES SCI COMPLEXI, VXXVII
+   Baily K. D., 1994, SOCIOLOGY NEW SYSTEM
+   Ball P., 2012, WHY SOC COMPLEX MATT
+   Ballerini M, 2008, P NATL ACAD SCI USA, V105, P1232, DOI 10.1073/pnas.0711437105
+   Bellomo N, 2007, MATH MOD METH APPL S, V17, P1675, DOI 10.1142/S0218202507002431
+   Bellomo N, 2013, MATH MOD METH APPL S, V23, P1861, DOI 10.1142/S021820251350053X
+   Bellomo N, 2012, MATH MOD METH APPL S, V22, DOI 10.1142/S0218202511400069
+   BELLOMO N, 2000, MODELING APPL SCI KI
+   Bellomo N, 2013, KINET RELAT MOD, V6, P459, DOI 10.3934/krm.2013.6.459
+   Bellomo N, 2012, MATH MOD METH APPL S, V22, DOI 10.1142/S0218202512300049
+   Bellouquid A, 2013, MATH MOD METH APPL S, V23, P949, DOI 10.1142/S0218202512500650
+   Berenji B., 2014, PLOS ONE, V9
+   Berestycki H, 2014, SIAM J MATH ANAL, V46, P691, DOI 10.1137/130922744
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bissell JJ, 2014, MATH MOD METH APPL S, V24, P719, DOI 10.1142/S0218202513500656
+   Colasuonno F, 2013, CONTEMP MATH, V594, P155, DOI 10.1090/conm/594/11789
+   D'Orsogna M., 2014, PHYS LIFE REV, V12, P1
+   D'Orsogna MR, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0061458
+   Davies T., 2013, SCI REPORT
+   De Angelis E, 2014, MATH MOD METH APPL S, V24, DOI 10.1142/S0218202514500353
+   De Lillo S, 2009, MATH MOD METH APPL S, V19, P1405, DOI 10.1142/S0218202509003838
+   Dolfin M, 2014, MATH MOD METH APPL S, V24, DOI 10.1142/S0218202514500237
+   During B, 2009, P ROY SOC A-MATH PHY, V465, P3687, DOI 10.1098/rspa.2009.0239
+   Fajnzylber P, 2002, J LAW ECON, V45, P1, DOI 10.1086/338347
+   Felson M, 2010, EUR J APPL MATH, V21, P275, DOI 10.1017/S0956792510000070
+   Harrendorf S., 2010, INT STAT CRIME JUSTI
+   Helbing D, 2010, QUANTITATIVE SOCIODYNAMICS: STOCHASTIC METHODS AND MOODELS OF SOCIAL INTERACTION PROCESSES, SECOND EDITION, P1, DOI 10.1007/978-3-642-11546-2
+   Hsieh C., 1993, CRIMINAL JUSTICE REV, V18, P182, DOI DOI 10.1177/073401689301800203
+   JAGER E, 1992, SIAM J APPL MATH, V52, P1442
+   Kirman AP, 2000, LECT NOTES ECON MATH, V484, P33
+   Knopoff D, 2014, MATH MOD METH APPL S, V24, DOI 10.1142/S0218202513400137
+   Knopoff D, 2013, MATH MOD METH APPL S, V23, P541, DOI 10.1142/S0218202512500558
+   Marsan GA, 2008, KINET RELAT MOD, V1, P249
+   May RM, 2004, SCIENCE, V303, P790, DOI 10.1126/science.1094442
+   McCalla SG, 2013, J STAT PHYS, V151, P673, DOI 10.1007/s10955-012-0678-4
+   Mohler GO, 2012, SIAM J APPL MATH, V72, P163, DOI 10.1137/100794080
+   Nowak M. A., 2006, EVOLUTIONARY DYNAMIC
+   Nuno J.C., 2011, DISCRETE CONTINUOU S, V4, P193, DOI DOI 10.3934/DCDSS.2011.4.193
+   Ormerod P., 2005, 151 IEA, V151, P1
+   OTHMER HG, 1988, J MATH BIOL, V26, P263, DOI 10.1007/BF00277392
+   Pareschi L, 2013, INTERACTING MULTIAGE
+   Pucci P, 2014, DISCRETE CONT DYN-S, V7, P807, DOI 10.3934/dcdss.2014.7.807
+   Short MB, 2008, MATH MOD METH APPL S, V18, P1249, DOI 10.1142/S0218202508003029
+   Short MB, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.066114
+   Simon H.A., 1997, MODELS BOUNDED RATIO, V3
+   Tetlock PE, 2003, TRENDS COGN SCI, V7, P320, DOI 10.1016/S1364-6613(03)00135-9
+NR 47
+TC 19
+Z9 19
+SN 1556-1801
+EI 1556-181X
+PD SEP
+PY 2015
+VL 10
+IS 3
+SI SI
+BP 421
+EP 441
+DI 10.3934/nhm.2015.10.421
+UT WOS:000361612400002
+ER
+
+PT J
+AU Loof, H
+   Nabavi, P
+AF Loof, Hans
+   Nabavi, Pardis
+TI Knowledge spillovers, productivity and patent
+SO ANNALS OF REGIONAL SCIENCE
+ID RESEARCH-AND-DEVELOPMENT; DATA MODELS; INNOVATION; TECHNOLOGY; CITIES;
+   GROWTH; AGGLOMERATION; EQUILIBRIUM; ADVANTAGES; FIRMS
+AB We examine potential heterogeneity in the capacity to benefit from knowledge spillovers in metropolitan areas between foreign-owned and domestic multinational enterprises, and between small and large firms. The study is restricted to R&D firms in the manufacturing sector and utilizes an unbalanced sample of 1073 Swedish firms covering a 16-year period with close to 11,000 observations. We apply linear and nonlinear approaches to test the importance of knowledge spillovers on labour productivity and patent applications. The overall result shows that not all R&D firms benefit from knowledge spillovers as a result of their presence in an agglomeration area.
+RI Loof, Hans/C-2137-2017
+OI Loof, Hans/0000-0002-5871-8571
+CR Acemoglu D, 2007, ECONOMETRICA, V75, P1371, DOI 10.1111/j.1468-0262.2007.00797.x
+   Aghion P, 2015, ECON J, V125, P533, DOI 10.1111/ecoj.12199
+   ARELLANO M, 1995, J ECONOMETRICS, V68, P29, DOI 10.1016/0304-4076(94)01642-D
+   Belderbos R., 2012, INNOVATION GROWTH R, P160
+   BERNSTEIN JI, 1989, REV ECON STUD, V56, P249, DOI 10.2307/2297460
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2014, P IEEE, V102, P1878, DOI 10.1109/JPROC.2014.2367132
+   Bloom N, 2013, ECONOMETRICA, V81, P1347, DOI 10.3982/ECTA9466
+   BLUNDELL R, 1995, ECON J, V105, P333, DOI 10.2307/2235494
+   Blundell R, 1998, J ECONOMETRICS, V87, P115, DOI 10.1016/S0304-4076(98)00009-8
+   Cassiman B, 2006, MANAGE SCI, V52, P68, DOI 10.1287/rrmsc.1050.0470
+   Cassiman B, 2002, AM ECON REV, V92, P1169, DOI 10.1257/00028280260344704
+   COHEN WM, 1989, ECON J, V99, P569, DOI 10.2307/2233763
+   Combes PP, 2012, ECONOMETRICA, V80, P2543, DOI 10.3982/ECTA8442
+   Glaeser EL, 2009, J ECON LIT, V47, P983, DOI 10.1257/jel.47.4.983
+   JAFFE AB, 1986, AM ECON REV, V76, P984
+   Le Bas C, 2002, RES POLICY, V31, P589
+   Loof H, 2014, WORKING PAPER SERIES
+   Lychagin S., 2010, 16188 NBER
+   NICKELL S, 1981, ECONOMETRICA, V49, P1417, DOI 10.2307/1911408
+   PATEL P, 1991, J INT BUS STUD, V22, P1, DOI 10.1057/palgrave.jibs.8490289
+   Pinkse J, 2010, J REGIONAL SCI, V50, P103, DOI 10.1111/j.1467-9787.2009.00645.x
+   Romer P. M., 1990, CARNEGIE-ROCHESTER C, V32, P251, DOI DOI 10.1016/0167-2231(90)90028-J
+   ROMER PM, 1986, J POLIT ECON, V94, P1002, DOI 10.1086/261420
+   Roodman D, 2009, STATA J, V9, P86, DOI 10.1177/1536867X0900900106
+   Wolff E, 2012, INNOVATION GROWTH R
+NR 26
+TC 1
+Z9 1
+SN 0570-1864
+EI 1432-0592
+PD OCT
+PY 2015
+VL 55
+IS 1
+BP 249
+EP 263
+DI 10.1007/s00168-015-0681-1
+UT WOS:000364031400010
+ER
+
+PT J
+AU von Wirth, T
+   Gret-Regamey, A
+   Stauffacher, M
+AF von Wirth, Timo
+   Gret-Regamey, Adrienne
+   Stauffacher, Michael
+TI Mediating Effects Between Objective and Subjective Indicators of Urban
+   Quality of Life: Testing Specific Models for Safety and Access
+SO SOCIAL INDICATORS RESEARCH
+DE Urban quality of life; Structural equation model; Safety; Accessibility;
+   GIS; Switzerland
+ID SATISFACTION; CITY; DETERMINANTS; PERCEPTIONS; ENVIRONMENT; INDEXES;
+   POLICY
+AB Enhancing the urban quality of life (QoL) is an explicit policy goal of many countries, yet it is rarely studied using models that relate objective measures of the urban environment to the subjective evaluations of residents. It thus often remains unclear how planning interventions in the urban environment may influence residents' satisfaction with their living conditions. In particular, during periods of significant urban growth, such as those recently observed in Switzerland, which result in diverse, unwanted threats to the local QoL (e.g., loss of green spaces, traffic congestions, and fear of crime). This study uses data from a sample of 1,693 residents that participated in a postal survey about urban QoL. The responses were combined with objective attributes of residential conditions, using geographic information systems. Structural equation models were calibrated to examine the direct and indirect effects of important indicators of urban QoL, namely safety in public spaces and access to central urban facilities. The study sheds further light on the mediating effects between objective characteristics and subjective evaluations that influence the urban QoL. The results showed predominantly low correlations between objective characteristics and subjective evaluations of urban QoL, which confirmed the findings of the few previous studies on this topic. Surprisingly, this study also found a strong link between objective access and perceived accessibility. This relation was explained by the spatial scope of the study region and suggested that the scale discordance theory should be tested in future research. The findings implied that variations in objective measures do not reliably represent differences as evaluated by residents.
+RI Stauffacher, Michael/A-1504-2009
+OI Stauffacher, Michael/0000-0001-9724-6741
+CR Acock AC, 2005, J MARRIAGE FAM, V67, P1012, DOI 10.1111/j.1741-3737.2005.00191.x
+   Adriaensen F, 2003, LANDSCAPE URBAN PLAN, V64, P233, DOI 10.1016/S0169-2046(02)00242-6
+   Angur M.G., 2004, ALLIANCE J BUS RES, P47
+   Arbuckle J. L., 2011, IBM SPSS AMOS 20 0 U
+   Archibugi F, 2001, SOC INDIC RES, V54, P209, DOI 10.1023/A:1011017200876
+   Ballas D, 2013, CITIES, V32, pS39, DOI 10.1016/j.cities.2013.04.009
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Batty M, 2013, SCIENCE, V340, P1418, DOI 10.1126/science.1239870
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Burby RJ, 2003, J AM PLANN ASSOC, V69, P33, DOI 10.1080/01944360308976292
+   Byrne Barbara M, 2010, STRUCTURAL EQUATION
+   Campbell A, 1976, QUALITY AM LIFE PERC
+   Cicerchia A, 1999, SOC INDIC RES, V46, P273
+   Costanza R, 2007, ECOL ECON, V61, P267, DOI 10.1016/j.ecolecon.2006.02.023
+   Coulton CJ, 2001, AM J COMMUN PSYCHOL, V29, P371, DOI 10.1023/A:1010303419034
+   Crespo R, 2013, ENVIRON PLANN B, V40, P664, DOI 10.1068/b38093
+   Cummins RA, 2000, SOC INDIC RES, V52, P55, DOI 10.1023/A:1007027822521
+   Cummins RA, 2005, J INTELL DISABIL RES, V49, P699, DOI 10.1111/j.1365-2788.2005.00738.x
+   Cummins RA, 1996, SOC INDIC RES, V38, P303, DOI 10.1007/BF00292050
+   DAVIS EE, 1991, SOC INDIC RES, V25, P103, DOI 10.1007/BF00286160
+   Diener E., 2006, APPL RES QUAL LIFE, V7, P397, DOI [DOI 10.1007/S11482-006-9007-X, 10.1007/s11482-006-9007-x]
+   Evans S, 2002, INT REV PSYCHIATR, V14, P203, DOI 10.1080/09540260220145028
+   Fotheringham A. S., 2003, GEOGRAPHICALLY WEIGH
+   Giles-Corti B, 2002, SOC SCI MED, V54, P1793, DOI 10.1016/S0277-9536(01)00150-2
+   Grudin J., 2002, PDC 2002. Proceedings of the Participatory Design Conference, P144
+   Hagerty MR, 2001, SOC INDIC RES, V55, P1, DOI 10.1023/A:1010811312332
+   Hu LT, 1999, STRUCT EQU MODELING, V6, P1, DOI 10.1080/10705519909540118
+   Jeffres L. W., 1995, NEW DIMENSIONS MARKE, P227
+   Kitchen P, 2010, SOC INDIC RES, V95, P33, DOI 10.1007/s11205-009-9449-2
+   LANCE CE, 1995, SOC INDIC RES, V34, P69, DOI 10.1007/BF01078968
+   LEE T, 1980, SOC INDIC RES, V8, P47, DOI 10.1007/BF00364601
+   Liao PS, 2009, SOC INDIC RES, V91, P99, DOI 10.1007/s11205-008-9327-3
+   Loukaitou-Sideris A, 2006, J PLAN LIT, V20, P219, DOI 10.1177/0885412205282770
+   Loukaitou-Sideris A, 2001, ENVIRON PLANN B, V28, P255, DOI 10.1068/b2642r
+   Lu M, 1999, GROWTH CHANGE, V30, P264, DOI 10.1111/0017-4815.00113
+   Marans R. W., 2011, SOCIAL INDICATORS RE, V45, P1
+   McCrea R, 2011, SOCIAL INDICATORS RE, P55
+   McCrea R., 2011, INVESTIGATING QUALIT, V45, P77
+   McCrea R., 2006, APPL RES QUAL LIFE, V1, P79, DOI DOI 10.1007/S11482-006-9002-2
+   Michalos AC, 2000, SOC INDIC RES, V50, P245, DOI 10.1023/A:1006930019814
+   Noll H. H., 2002, ADV SOCIOLOGICAL KNO
+   Oswald AJ, 2010, SCIENCE, V327, P576, DOI 10.1126/science.1180606
+   ROGERSON RJ, 1989, ENVIRON PLANN A, V21, P1655, DOI 10.1068/a211655
+   Schafer JL, 2002, PSYCHOL METHODS, V7, P147, DOI 10.1037//1082-989X.7.2.147
+   Schumacher M., 2004, HELSINKI NICOSIA PUC
+   Sirgy M. J., 2008, APPL RES QUAL LIFE, V3, P81, DOI [10.1007/s11482-008-9048-4, DOI 10.1007/S11482-008-9048-4]
+   Sirgy M. J., 2012, PSYCHOL QUALITY LIFE, V50, P303
+   Sirgy MJ, 2002, SOC INDIC RES, V59, P79, DOI 10.1023/A:1016021108513
+   Statistical Office Canton Zurich, 2013, CANT COMM STAT
+   Steiger JH, 2007, PERS INDIV DIFFER, V42, P893, DOI 10.1016/j.paid.2006.09.017
+   Swiss Federal Statistical Office (BfS), 2013, FED POP STAT SWITZ
+   TALEN E, 2002, PLANNING PRACTICE RE, V17, P257, DOI DOI 10.1080/026974502200005634
+   WHO, 2010, HIDD CIT UNM OV HLTH
+   Zapf W, 1984, LEBENSQUALITAT BUNDE, P13
+   Zenker S, 2013, CITIES, V31, P156, DOI 10.1016/j.cities.2012.02.006
+   Zurcher Planungsgruppe Limmattal (ZPL), 2012, FACTS FIG ZPL
+NR 56
+TC 10
+Z9 10
+SN 0303-8300
+EI 1573-0921
+PD MAY
+PY 2015
+VL 122
+IS 1
+BP 189
+EP 210
+DI 10.1007/s11205-014-0682-y
+UT WOS:000352228900011
+ER

@@ -1,0 +1,426 @@
+
+PT J
+AU Henriques, E
+AF Henriques, Eurica
+TI Regularity for the porous medium equation with variable exponent: The
+   singular case
+SO JOURNAL OF DIFFERENTIAL EQUATIONS
+LA English
+DT Article
+DE porous medium equation; singular PDEs; regularity theory; intrinsic
+   scaling
+ID NONLINEARITY
+AB We extend to the singular case the results of [E. Henriques, J.M. Urbano, Intrinsic scaling for PDEs with an exponential nonlinearity, Indiana Univ. Math. J. 55 (5) (2006) 1701-1721] concerning the regularity of weak solutions of the porous medium equation with variable exponent. The method of intrinsic scaling is used to show that local weak solutions are locally continuous. (C) 2008 Published by Elsevier Inc.
+C1 Dept Matemat, P-5001801 Vila Real, Portugal.
+RP Henriques, E (reprint author), Dept Matemat, Apartado 1013, P-5001801 Vila Real, Portugal.
+EM eurica@utad.pt
+OI Henriques, Eurica/0000-0003-0844-5277
+CR ANTONTSEV S, HDB DIFFERE IN PRESS
+   ANTONTSEV S, 2006, INT SER NUMER MATH, V154
+   Antontsev SN, 2005, NONLINEAR ANAL-THEOR, V60, P515, DOI 10.1016/j.na.2004.09.026
+   Di Benedetto E, 1993, DEGENERATE PARABOLIC
+   Di Benedetto E., 2004, HDB DIFFERENTIAL EQU, V1, P169
+   Henriques E, 2006, INDIANA U MATH J, V55, P1701, DOI 10.1512/iumj.2006.55.2715
+NR 6
+TC 4
+Z9 4
+U1 0
+U2 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-0396
+J9 J DIFFER EQUATIONS
+JI J. Differ. Equ.
+PD MAY 15
+PY 2008
+VL 244
+IS 10
+BP 2578
+EP 2601
+DI 10.1016/j.jde.2007.12.015
+PG 24
+WC Mathematics
+SC Mathematics
+GA 306YO
+UT WOS:000256284600007
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Barthelemy, M
+   Flammini, A
+AF Barthelemy, Marc
+   Flammini, Alessandro
+TI Modeling urban street patterns
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID SCALING LAWS; NETWORKS; GROWTH; SIZE
+AB Urban street patterns form planar networks whose empirical properties cannot be accounted for by simple models such as regular grids or Voronoi tesselations. Striking statistical regularities across different cities have been recently empirically found, suggesting that a general and detail-independent mechanism may be in action. We propose a simple model based on a local optimization process combined with ideas previously proposed in studies of leaf pattern formation. The statistical properties of this model are in good agreement with the observed empirical patterns. Our results thus suggest that in the absence of a global design strategy, the evolution of many different transportation networks indeed follows a simple universal mechanism.
+C1 [Barthelemy, Marc] Ctr Etud Bruyeres Le Chatel, CEA, Dept Phys Theor & Appl, F-91680 Bruyeres Le Chatel, France.
+   [Barthelemy, Marc] Ecole Hautes Etud Sci Sociales, CNRS, UMR 8557, CAMS, Paris 8, France.
+   [Flammini, Alessandro] Indiana Univ, Sch Informat, Bloomington, IN 47408 USA.
+RP Barthelemy, M (reprint author), Ctr Etud Bruyeres Le Chatel, CEA, Dept Phys Theor & Appl, BP 12, F-91680 Bruyeres Le Chatel, France.
+RI Flammini, alessandro/A-8887-2009; barthelemy, marc/B-3942-2008
+CR BALL P, 1998, SELF MADE TAPESTRY P
+   Banavar JR, 2003, NATURE, V421, P713, DOI 10.1038/421713b
+   BARTHELEMY M, UNPUB
+   Batty M, 2005, CITIES COMPLEXITY
+   Bejan A, 1998, PHYSICA A, V255, P211, DOI 10.1016/S0378-4371(98)00085-5
+   Buhl J, 2006, EUR PHYS J B, V49, P513, DOI 10.1140/epjb/e2006-00085-1
+   Cardillo A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066107
+   Chorley R.J., 1969, NETWORK ANAL GEOGRAP
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   CONIGLIO A, 1989, PHYS REV LETT, V62, P3054, DOI 10.1103/PhysRevLett.62.3054
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   DUPLANTIER B, 1989, J STAT PHYS, V54, P581, DOI 10.1007/BF01019770
+   Gastner MT, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016117
+   Gerke S, 2004, COMB PROBAB COMPUT, V13, P165, DOI 10.1017/S0963548303005947
+   JENSEN P, 2006, PHYS REV E, V74
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levinson D, 2006, TRANSPORT SCI, V40, P179, DOI 10.1287/trsc.1050.0132
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   RODRIGUEZITURBE.I, 1997, FRACTAL RIVER BASINS
+   Runions A, 2005, ACM T GRAPHIC, V24, P702, DOI 10.1145/1073204.1073251
+   Scellato S, 2006, EUR PHYS J B, V50, P221, DOI 10.1140/epjb/e2006-00066-4
+   SCHWARTZ M, 1986, TELECOMMUNICATION NE
+   Stevens PS, 1974, PATTERNS NATURE
+   West GB, 2003, NATURE, V421, P713, DOI 10.1038/421713a
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+NR 27
+TC 111
+Z9 114
+U1 0
+U2 34
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD APR 4
+PY 2008
+VL 100
+IS 13
+AR 138702
+DI 10.1103/PhysRevLett.100.138702
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA 283XR
+UT WOS:000254670300086
+PM 18518005
+DA 2019-03-26
+ER
+
+PT J
+AU Marchant, T
+   Nathan, R
+   Jones, C
+   Mponda, H
+   Bruce, J
+   Sedekia, Y
+   Schellenberg, J
+   Mshinda, H
+   Hanson, K
+AF Marchant, Tanya
+   Nathan, Rose
+   Jones, Caroline
+   Mponda, Hadji
+   Bruce, Jane
+   Sedekia, Yovitha
+   Schellenberg, Joanna
+   Mshinda, Hassan
+   Hanson, Kara
+TI Individual, facility and policy level influences on national coverage
+   estimates for intermittent preventive treatment of malaria in pregnancy
+   in Tanzania
+SO MALARIA JOURNAL
+LA English
+DT Article
+ID INSECTICIDE-TREATED NETS; COMMUNITY-BASED DELIVERY;
+   SULFADOXINE-PYRIMETHAMINE; PRESUMPTIVE TREATMENT; ANTENATAL CARE;
+   WESTERN KENYA; ZAMBIAN WOMEN; SCALING-UP; BURDEN; DISTRICT
+AB Background: Delivery of two doses of intermittent preventive treatment of malaria during pregnancy (IPTp) is a key strategy to reduce the burden of malaria in pregnancy in sub-Saharan Africa. However, different settings have reported coverage levels well below the target 80%. Antenatal implementation guidelines in Tanzania recommend IPTp first dose to be given at the second antenatal visit, and second dose at the third visit. This investigation measured coverage of IPTp at national level in Tanzania and examined the role of individual, facility, and policy level influences on achieved coverage.
+   Methods: Three national household and linked reproductive and child health (RCH) facility surveys were conducted July-August 2005, 2006, and 2007 in 210 clusters sampled using two-stage cluster sampling from 21 randomly selected districts. Female residents who reported a livebirth in the previous year were asked questions about malaria prevention during that pregnancy and individual characteristics including education, pregnancy history, and marital status. The RCH facility serving each cluster was also surveyed, and information collected about drug stocks, health education delivery, and the timing of antenatal care delivery by clinic users.
+   Results: The national IPTp coverage had declined over the survey period being 71% for first dose in 2005 falling to 65% in 2007 (chi(2) 2.9, p = 0.05), and 38% for second dose in 2005 but 30% in 2007 (chi(2) 4.4, p = 0.01). There was no evidence of any individual factors being associated with second dose coverage beyond living in an urban area. Availability of sulphadoxine-pyrimethamine at RCH had decreased year on year from 85% of clinics in stock in 2005 to 60% in 2007 (chi(2) 20.6, p < 0.001). This reduction was evident in rural but not urban clinics. If safety recommendations and national antenatal care guidelines for IPTp delivery were followed, in 2007 only 76% of pregnant women could have received IPTp first dose and only 46% could have received second dose.
+   Conclusion: There is scope to improve IPTp first and second dose coverage at national scale within existing systems by improving stock at RCH, and by revising the existing guidelines to recommend delivery of IPTp after quickening, rather than at a pre-defined antenatal visit.
+C1 [Marchant, Tanya; Hanson, Kara] London Sch Hyg & Trop Med, Dept Publ Hlth & Policy, London WC1, England.
+   [Jones, Caroline; Bruce, Jane; Schellenberg, Joanna] London Sch Hyg & Trop Med, Dept Infect & Trop Dis, London WC1, England.
+   [Nathan, Rose; Mponda, Hadji; Sedekia, Yovitha; Mshinda, Hassan] Ifakara Hlth Inst, Dar Es Salaam, Tanzania.
+RP Marchant, T (reprint author), London Sch Hyg & Trop Med, Dept Publ Hlth & Policy, Keppel St, London WC1, England.
+EM tanya.marchant@lshtm.ac.uk; rosenathan2001@yahoo.co.uk;
+   caroline.jones@lshtm.ac.uk; mpondah@yahoo.com; jane.bruce@lshtm.ac.uk;
+   Sedekiay@yahoo.co.uk; joanna.schellenberg@lshtm.ac.uk;
+   Hassan_Mshinda@yahoo.co.uk; Kara.Hanson@lshtm.ac.uk
+FU Tanzania Ministry of Health and Social Welfare; Bill and Melinda Gates
+   Foundation; UK Department for International Development; Royal
+   Netherlands Embassy in 2005/06; United States President's Malaria
+   Initiative in 2007
+FX We are grateful to the National Malaria Control Programme and the TNVS
+   implementing partners. Karen Kramer and Christian Lengeler made
+   important contributions to the overall design of the surveys. Thanks are
+   especially due to Dr Alex Mwita, Dr Renata Mandike and Nick Brown for
+   their continued support to the evaluation process. This paper is
+   published with the permission of the Director of the Tanzanian National
+   Institute for Medical Research. No conflict of interest is declared.
+   This work was supported by the Tanzania Ministry of Health and Social
+   Welfare through a grant from the Global Fund to flight AIDS, TB and
+   Malaria, the Gates Malaria Partnership funded by the Bill and Melinda
+   Gates Foundation, and Population Services International, supported by
+   the UK Department for International Development and the Royal
+   Netherlands Embassy in 2005/06, and by the United States President's
+   Malaria Initiative in 2007.
+CR Anders K, 2008, MALARIA J, V7, DOI 10.1186/1475-2875-7-79
+   [Anonymous], MILL DEV GOALS
+   Briand V, 2007, MALARIA J, V6, DOI 10.1186/1475-2875-6-160
+   Crawley J, 2007, LANCET INFECT DIS, V7, P145, DOI 10.1016/S1473-3099(07)70026-9
+   Desai M, 2007, LANCET INFECT DIS, V7, P93, DOI 10.1016/S1473-3099(07)70021-X
+   *DHS, TANZ DEM HLTH SURV 2
+   Gikandi PW, 2008, TROP MED INT HEALTH, V13, P208, DOI 10.1111/j.1365-3156.2007.01992.x
+   Gill CJ, 2007, J INFECT DIS, V196, P1577, DOI 10.1086/522137
+   Guyatt HL, 2001, AM J TROP MED HYG, V64, P36, DOI 10.4269/ajtmh.2001.64.36
+   Hamer DH, 2007, J INFECT DIS, V196, P1585, DOI 10.1086/522142
+   Hanson K, 2008, BMC PUBLIC HEALTH, V8, DOI 10.1186/1471-2458-8-205
+   *JHPIEGO, FOC MIP OV FOC ANT C
+   Kiwuwa MS, 2008, MALARIA J, V7, DOI 10.1186/1475-2875-7-44
+   Mbonye AK, 2008, PUBLIC HEALTH, V122, P516, DOI 10.1016/j.puhe.2007.07.024
+   Mbonye AK, 2008, INT J INFECT DIS, V12, P22, DOI 10.1016/j.ijid.2006.10.008
+   Menendez C, 2007, LANCET INFECT DIS, V7, P126, DOI 10.1016/S1473-3099(07)70024-5
+   Ministry of Health and Social Welfare, 2006, NAT GUID MAL DIAGN T
+   Mubyazi G, 2005, MALARIA J, V4, DOI 10.1186/1475-2875-4-31
+   Nganda RY, 2004, MALARIA J, V3, DOI 10.1186/1475-2875-3-42
+   *ORC MACR, MEAS DHS STAT COMP
+   Ouma PO, 2007, TROP MED INT HEALTH, V12, P953, DOI 10.1111/j.1365-3156.2007.01876.x
+   Peters PJ, 2007, DRUG SAFETY, V30, P481, DOI 10.2165/00002018-200730060-00003
+   Roll Back Malaria, 2006, GUID COR POP COV IND
+   Sirima SB, 2006, AM J TROP MED HYG, V75, P205, DOI 10.4269/ajtmh.2006.75.205
+   Steketee RW, 2008, AM J TROP MED HYG, V79, P45, DOI 10.4269/ajtmh.2008.79.45
+   Steketee RW, 2001, AM J TROP MED HYG, V64, P28, DOI 10.4269/ajtmh.2001.64.28
+   Tarimo S Donath, 2007, East Afr J Public Health, V4, P80
+   Vallely A, 2007, MALARIA J, V6, DOI 10.1186/1475-2875-6-16
+   van Eijk AM, 2004, TROP MED INT HEALTH, V9, P351, DOI 10.1111/j.1365-3156.2004.01196.x
+   Verhoeff FH, 1999, ANN TROP MED PARASIT, V93, pS25, DOI 10.1080/00034989957718
+   *WHO, TECHN EXP GROUP M IN
+   World Health Organization, MAL PREGN GUID MEAS
+   World Health Organization, GLOB STRAT PLAN 2005
+NR 33
+TC 23
+Z9 23
+U1 0
+U2 0
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1475-2875
+J9 MALARIA J
+JI Malar. J.
+PD DEC 18
+PY 2008
+VL 7
+AR 260
+DI 10.1186/1475-2875-7-260
+PG 8
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA 409ZI
+UT WOS:000263543900002
+PM 19094198
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT S
+AU Jaenicke, H
+   Lengkeek, A
+AF Jaenicke, H.
+   Lengkeek, A.
+BE Oh, D
+   Kubota, C
+   Mitra, SK
+   Park, H
+   Shigyo, M
+   Shahak, Y
+TI Marketing the products of underutilized crops - Challenges and
+   opportunities for pro-poor economic development
+SO PROCEEDINGS OF THE INTERNATIONAL SYMPOSIUM ON CULTIVATION AND
+   UTILIZATION OF ASIAN, SUB-TROPICAL, AND UNDERUTILIZED HORTICULTURAL
+   CROPS
+SE Acta Horticulturae
+LA English
+DT Proceedings Paper
+CT International Symposium on Cultivation and Utilization of Asian,
+   Sub-Tropical, and Underutilized Horticultural Crops
+CY AUG 13-19, 2006
+CL Seoul, SOUTH KOREA
+SP Korean Soc Hort Sci, Agr & Fishery Marketing Corp, Arg R& D Promot Ctr, Cheonan Pear Hort & Agr Cooperat, Daegu Kyungbook Apple Growers Agr, Cooperat Union, Dongmaru Agr Cooperat, Garden Life, Gyeonggi Province, Hankuk Orchard Pole Syst, Hort Technol, Hyunmyung Farm, Ihlshin Chem Co Ltd, Iontech Co, J Agro, Korea Rural Comm & Agr Corpat, Korea Agr Mat Ind Assoc, Korea Agr Rockwool Co, Korea Fruit Growers Assoc, Korea Pressed Flower Art Assoc, Korea Res Fdn, Korea Sci & Engn Fdn, Korea WG Postharvest Study, Korean Assoc Strawberry Study, Korean Federat Sci & Technol Soc, Korean Flower Res Study, Korean Seed Assoc, Korean Wildflower Res Assoc, Minist Agr & Forestry, Minist Culture & Tourism, Minist Sci & Technol, Minist Gardening, Natl Agr Cooperat Federat, Natl Hort Res Inst, Nongsan Trading Co Ltd, Nongwoo Bio Co Ltd, PARU, Pulkkotnala, Rural Dev Adm, Sakata Korea Co Ltd, Samick LMS Co Ltd, Samrange ATI, Scotts Korea, Seminis Korea, Seowon Con Ltd, Seoul Convent & Visitors Bur, Seoul Fruit & Vegetable Co Ltd, SPL, Turfgrass Soc Korea
+DE micro-enterprises; market development; pro poor chain management;
+   entrepreneurship
+AB The usefulness of underutilized crops is widely recognised in their contribution to poverty alleviation. Underutilized crops - those that are not staple or mainstream industrial species - feature high in the diet and daily consumption for nutritional, medicinal, energy or other purposes of the rural and urban poor. Promoting underutilized crops contributes to the stability and risk management of farming systems, the conservation of agro biodiversity, but also to strengthening the cultural identity and local empowerment of farmers in the use of what is too often labelled as "backward" and "unmodern". Underutilized crops also form a reservoir of species and varieties readily available to be selected by the market for medium or large up scaling of the production. The potential of many of these species to enter domestic, regional or even international markets is high. Development of stronger links with the private sector and civil society in particular in the commercialisation of underutilized crops for and by smallholder producers, thereby integrating three dimensions of sustainability - People, Planet and Profit (social, ecological and economic sustainability), can provide useful lessons. Projects demonstrate that with entrepreneurship, strong and fair partnerships between producers, dealers, consumers and other stakeholders in the production to consumption chain, and through a participatory integrated learning approach by all partners, commercialisation of underutilized crops can work for poor people. However, these examples are few and it is expected that more efficient underutilized crop promotion will result in increased impact potential of these species.
+C1 [Jaenicke, H.] ICUC, POB 2075, Colombo, Sri Lanka.
+   [Lengkeek, A.] Royal Trop Inst KIT, NL-1090 HA Amsterdam, Netherlands.
+RP Jaenicke, H (reprint author), ICUC, POB 2075, Colombo, Sri Lanka.
+CR ABEYRATHNE AHM, 1 ICUC GALL HOR DIV
+   ALAM G, 2005, NEWSLETTER MED PLANT, V11
+   *ATDP, 2005, HORT MARK ASS STUD L
+   BELT J, 2003, ROYAL TROPICAL I B, V350
+   GREURE G, 2006, 154 IFPRIEPT
+   *KIT FAID MALI IIP, 2006, CHIN EMP SUPP AFR FA, P212
+   MARSHALL E, 2006, COMMERCIALIZATION NO, P136
+   NAUTIYAL MC, 1996, ALPINE GARDEN GLANCE
+   NDOYE O, 2004, COMMERCIALISING INDI, P2
+   NUSSBAUM R, 2002, GROUP CERTIFICATION
+   Nussbaum R., 2000, ANAL CURRENT FSC ACC
+   PRESCOTTALLEN R, 1990, CONSERV BIOL, V4, P365, DOI 10.1111/j.1523-1739.1990.tb00310.x
+   VANNOORDWIJK M, 2002, LIMITS ADAPTATION EX
+   WALKER DJ, 2005, AGR MAKING MARKETS W, P86
+   1987, RED DATA BOOK INDIAN, P350
+NR 15
+TC 5
+Z9 5
+U1 1
+U2 5
+PU INT SOC HORTICULTURAL SCIENCE
+PI LEUVEN 1
+PA PO BOX 500, 3001 LEUVEN 1, BELGIUM
+SN 0567-7572
+BN 978-90-6605-467-7
+J9 ACTA HORTIC
+PY 2008
+VL 770
+BP 87
+EP +
+PG 3
+WC Plant Sciences; Horticulture
+SC Plant Sciences; Agriculture
+GA BIC96
+UT WOS:000258490300009
+DA 2019-03-26
+ER
+
+PT J
+AU Pautasso, M
+   Weisberg, PJ
+AF Pautasso, Marco
+   Weisberg, Peter J.
+TI Negative density-area relationships: the importance of the zeros
+SO GLOBAL ECOLOGY AND BIOGEOGRAPHY
+LA English
+DT Article
+DE human biogeography; land-use patterns; macroecology; plot area effect;
+   presence-absence; sampling size; scaling of abundances; spatial
+   autocorrelation; study grain; urban density functions
+ID TROPICAL RAIN-FOREST; UNITED-STATES; POPULATION-DENSITY; SPECIES
+   RICHNESS; SCALE DEPENDENCE; URBAN AREAS; LAND-USE; ABUNDANCE; SIZE;
+   CONSERVATION
+AB Aim Estimates of abundances and densities of birds and mammals have often been shown to be scale dependent, in that population sizes over large areas are overestimated if extrapolated from surveys of small plots. Previous tests of the mechanisms suggested to cause this decelerating scaling pattern found evidence of a biased choice of small plots in patches of homogeneous habitat. Here we show that negative density-area relationships can also arise as result of not considering plots where individuals of the species or assemblage of interest are absent in surveys of differing spatial resolution.
+   Location We took a complete census of violets (Viola spp.) in 800 m(2) of chalk grassland in Wye, Kent, UK, and used human population censuses for Finnish, Swiss and Italian municipalities, English districts, states of the USA and European countries.
+   Methods We used mixed models of logarithmically transformed number of individuals or densities as a function of area.
+   Results The census of violets shows that by increasing the survey resolution and by not considering plots without individuals, the effectively occupied area diminishes and a negative density-area relationship arises. The finding that negative density-area relationships are also common for people is evidence that the non-random choice of plots in population surveys of varying areas can be responsible for many observed negative density-area relationships. The shallower slope of the people-administrative area relationship for Switzerland and Finland compared with Italy, as well as for England and the USA compared with Europe, confirms that less than proportionate individuals-area relationships can be the consequence of larger plot areas containing a higher proportion of areas without individuals.
+   Main conclusions Densities should be reported together with the effective areas for which they were estimated. It should be clearly conveyed whether or not plots where the surveyed species was absent were included in the density estimation.
+C1 [Pautasso, Marco] Imperial Coll London, Div Biol, Ashford TN25 5AH, Kent, England.
+   [Weisberg, Peter J.] Univ Nevada, Dept Nat Resources & Environm, Reno, NV 89557 USA.
+RP Pautasso, M (reprint author), Imperial Coll London, Div Biol, High St, Ashford TN25 5AH, Kent, England.
+EM m.pautasso@ic.ac.uk
+OI Pautasso, Marco/0000-0003-1850-6416
+CR Allen AP, 2000, J BIOGEOGR, V27, P889, DOI 10.1046/j.1365-2699.2000.00453.x
+   Balmford A, 2001, SCIENCE, V291, P2616, DOI 10.1126/science.291.5513.2616
+   Barabesi L, 1998, ENVIRON ECOL STAT, V5, P353
+   Bellehumeur C, 1997, PLANT ECOL, V130, P89, DOI 10.1023/A:1009763830908
+   BEST RH, 1974, URBAN STUD, V11, P201, DOI 10.1080/00420987420080351
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Buckland ST, 2000, BIOMETRICS, V56, P1, DOI 10.1111/j.0006-341X.2000.00001.x
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   CRAIG J, 1978, URBAN STUD, V15, P101, DOI 10.1080/713702295
+   Diggle PJ, 2003, STAT ANAL SPATIAL PO
+   du Rau PD, 2003, ANIM CONSERV, V6, P379, DOI 10.1017/S1367943003003457
+   Elton C, 1932, J ANIM ECOL, V1, P69, DOI 10.2307/996
+   ELTON C, 1933, ECOLOGY ANIMALS
+   Fonseca JW, 2000, PROF GEOGR, V52, P504, DOI 10.1111/0033-0124.00242
+   Gaston KJ, 1999, J APPL ECOL, V36, P191, DOI 10.1046/j.1365-2664.1999.00401.x
+   Goslee SC, 2006, PLANT ECOL, V187, P203, DOI 10.1007/s11258-005-3495-x
+   Gotmark F, 2003, BIODIVERS CONSERV, V12, P1271, DOI 10.1023/A:1023000224642
+   Green RE, 2005, SCIENCE, V307, P550, DOI 10.1126/science.1106049
+   GREIGSMITH P, 1984, QUANTITATIVE PLANT E
+   Guernier V, 2004, PLOS BIOL, V2, P740, DOI 10.1371/journal/pbio.0020141
+   Gunton RM, 2007, J ECOL, V95, P435, DOI 10.1111/j.1365-2745.2007.01226.x
+   GUPTA P, 2006, ATMOS ENVIRON, V40, P588
+   HAILA Y, 1988, ORNIS SCAND, V19, P88, DOI 10.2307/3676456
+   He FL, 2002, LANDSCAPE ECOL, V17, P559, DOI 10.1023/A:1021514104193
+   Holdenrieder O, 2004, TRENDS ECOL EVOL, V19, P446, DOI 10.1016/j.tree.2004.06.003
+   Hoskins W.G., 1955, MAKING ENGLISH LANDS
+   HUANG J, 2007, IN PRESS LANDSCAPE U
+   Imhoff ML, 2004, NATURE, V429, P870, DOI 10.1038/nature02619
+   KAIN RJP, 2004, ENCLOSURE MAPS ENGLA
+   Karanth KU, 1998, ECOLOGY, V79, P2852
+   Kauppi PE, 2006, P NATL ACAD SCI USA, V103, P17574, DOI 10.1073/pnas.0608343103
+   Keeling HC, 2007, GLOBAL ECOL BIOGEOGR, V16, P618, DOI 10.1111/j.1466-8238.2007.00314.x
+   Kolb A, 2006, GLOBAL ECOL BIOGEOGR, V15, P237, DOI 10.1111/j.1466-822x.2005.00210.x
+   Luck GW, 2007, J BIOGEOGR, V34, P201, DOI 10.1111/j.1365-2699.2006.01575.x
+   Lutz W, 2006, POPUL ENVIRON, V28, P69, DOI 10.1007/s11111-007-0037-6
+   MacKenzie D.I., 2006, OCCUPANCY ESTIMATION
+   MAHMASSANI HS, 1988, TRANSPORTATION, V15, P233, DOI 10.1007/BF00837583
+   MASSEY DS, 1977, DEMOGRAPHY, V14, P351, DOI 10.2307/2060791
+   Matter SF, 2003, ECOL MODEL, V169, P103, DOI 10.1016/j.ecolmodel.2003.07.002
+   Matter SF, 2003, AM MIDL NAT, V150, P26, DOI 10.1674/0003-0031(2003)150[0026:TEOIHA]2.0.CO;2
+   McGill BJ, 2006, SCIENCE, V314, P770, DOI 10.1126/science.1134920
+   McKinney ML, 2002, GLOBAL ECOL BIOGEOGR, V11, P343, DOI 10.1046/j.1466-822X.2002.00293.x
+   McKinney ML, 2005, ANIM CONSERV, V8, P135, DOI 10.1017/S1367943005001939
+   MCNAUGHTON SJ, 1973, GEN ECOLOGY
+   Nee S, 2002, OIKOS, V99, P545, DOI 10.1034/j.1600-0706.2002.11637.x
+   Pandit R, 2007, BIODIVERS CONSERV, V16, P235, DOI 10.1007/s10531-006-9140-8
+   Pautasso M, 2006, GLOBAL ECOL BIOGEOGR, V15, P303, DOI 10.1111/j.1466-822x.2006.00222.x
+   Pautasso M, 2007, ECOL LETT, V10, P16, DOI 10.1111/j.1461-0248.2006.00993.x
+   PENNINGTON M, 1983, BIOMETRICS, V39, P281, DOI 10.2307/2530830
+   Pisani C, 2002, ENVIRONMETRICS, V13, P155, DOI 10.1002/env.506
+   Pollock KH, 2002, ENVIRONMETRICS, V13, P105, DOI 10.1002/env.514
+   Pottier N, 2005, APPL GEOGR, V25, P1, DOI 10.1016/j.apgeog.2004.11.003
+   ROSSO R, 1991, WATER RESOUR RES, V27, P381, DOI 10.1029/90WR02404
+   Scherner E.R., 1981, Oekologie der Voegel, V3, P145
+   SCHONEWALDCOX C, 1991, CONSERV BIOL, V5, P491, DOI 10.1111/j.1523-1739.1991.tb00356.x
+   Smallwood KS, 2001, ANN ZOOL FENN, V38, P149
+   Smallwood KS, 1999, SOUTHWEST NAT, V44, P73
+   STEPHAN GE, 1971, AM SOCIOL REV, V36, P451, DOI 10.2307/2093085
+   STEPHAN GE, 1972, AM SOCIOL REV, V37, P365, DOI 10.2307/2093475
+   STEWART JQ, 1958, J REGIONAL SCI, V1, P99, DOI 10.1111/j.1467-9787.1958.tb01366.x
+   Stohlgren TJ, 2005, ECOLOGY, V86, P2298, DOI 10.1890/04-1195
+   Sutherland WJ, 2006, ECOLOGICAL CENSUS TECHNIQUES: A HANDBOOK, 2ND EDITION, P1, DOI 10.2277/ 0521606365
+   Sutton P, 2001, INT J REMOTE SENS, V22, P3061, DOI 10.1080/01431160010007015
+   Terrell JE, 2006, J BIOGEOGR, V33, P2088, DOI 10.1111/j.1365-2699.2006.01581.x
+   Thompson WL, 1998, MONITORING VERTEBRAT
+   Tobler W, 1997, Int J Popul Geogr, V3, P203
+   Watts RD, 2007, SCIENCE, V316, P736, DOI 10.1126/science.1138141
+   WELLS TCE, 1967, J BRIT GRASSLAND SOC, V22, P277
+   Witmer GW, 2005, WILDLIFE RES, V32, P259, DOI 10.1071/WR04003
+   WRIGHT DH, 1991, J BIOGEOGR, V18, P463, DOI 10.2307/2845487
+   Wright SJ, 2006, BIOTROPICA, V38, P287, DOI 10.1111/j.1744-7429.2006.00154.x
+NR 71
+TC 12
+Z9 12
+U1 0
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1466-822X
+EI 1466-8238
+J9 GLOBAL ECOL BIOGEOGR
+JI Glob. Ecol. Biogeogr.
+PD MAR
+PY 2008
+VL 17
+IS 2
+BP 203
+EP 210
+DI 10.1111/j.1466-8238.2007.00354.x
+PG 8
+WC Ecology; Geography, Physical
+SC Environmental Sciences & Ecology; Physical Geography
+GA 259UI
+UT WOS:000252966000006
+DA 2019-03-26
+ER

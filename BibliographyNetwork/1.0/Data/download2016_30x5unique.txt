@@ -1,0 +1,464 @@
+
+PT J
+AU Colak, S
+   Lima, A
+   Gonzalez, MC
+AF Colak, Serdar
+   Lima, Antonio
+   Gonzalez, Marta C.
+TI Understanding congested travel in urban areas
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID HUMAN MOBILITY; SPATIAL STRUCTURE; SCALING LAWS; PATTERNS; CITIES;
+   GAMES; NETWORKS; TRANSPORTATION; MODEL
+AB Rapid urbanization and increasing demand for transportation burdens urban road infrastructures. The interplay of number of vehicles and available road capacity on their routes determines the level of congestion. Although approaches to modify demand and capacity exist, the possible limits of congestion alleviation by only modifying route choices have not been systematically studied. Here we couple the road networks of five diverse cities with the travel demand profiles in the morning peak hour obtained from billions of mobile phone traces to comprehensively analyse urban traffic. We present that a dimensionless ratio of the road supply to the travel demand explains the percentage of time lost in congestion. Finally, we examine congestion relief under a centralized routing scheme with varying levels of awareness of social good and quantify the benefits to show that moderate levels are enough to achieve significant collective travel time savings.
+C1 [Colak, Serdar; Lima, Antonio; Gonzalez, Marta C.] MIT, Dept Civil & Environm Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Lima, Antonio] Univ Birmingham, Sch Comp Sci, Edgbaston B15 2TT, W Midlands, England.
+   [Gonzalez, Marta C.] MIT, Engn Syst Div, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+RP Gonzalez, MC (reprint author), MIT, Dept Civil & Environm Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA.; Gonzalez, MC (reprint author), MIT, Engn Syst Div, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM martag@mit.edu
+RI Gonzalez, Marta/E-9456-2011
+OI Gonzalez, Marta/0000-0002-8482-0318; Lima, Antonio/0000-0002-4473-5311
+FU World Bank; Ford; Department of Transportation's grant of the New
+   England UTC Y25; MIT Portugal Program; MIT-Brazil; Center for Complex
+   Engineering Systems at KACST-MIT; Vest Scholarship
+FX We thank Saurabh Amin for stimulating discussions and helpful
+   suggestions and Airsage for the data provided. The research was partly
+   funded by the World Bank, Ford, the Department of Transportation's grant
+   of the New England UTC Y25, the MIT Portugal Program, the MIT-Brazil
+   seed Grants Program and the Center for Complex Engineering Systems at
+   KACST-MIT, and A.L. was funded by the Vest Scholarship.
+CR Ahuja R. K., 1993, NETWORK FLOWS THEORY
+   Alexander L, 2015, TRANSPORT RES C-EMER, V58, P240, DOI 10.1016/j.trc.2015.02.018
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Balmer M., 2008, AGENT BASED SIMULATI
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Beckmann M, 1956, STUDIES EC TRANSPORT
+   Bertaud A, 2003, SPATIAL ORG CITIES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Blondel VD, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0046-0
+   Boyce DE, 2005, PAP REG SCI, V84, P85, DOI 10.1111/j.1435-5957.2005.00005.x
+   Braess D, 2005, TRANSPORT SCI, V39, P446, DOI 10.1287/trsc.1050.0127
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Chen PA, 2008, EC'08: PROCEEDINGS OF THE 2008 ACM CONFERENCE ON ELECTRONIC COMMERCE, P140
+   Colak S, 2015, TRANSPORT RES REC, P126, DOI 10.3141/2526-14
+   Correa JR, 2008, GAME ECON BEHAV, V64, P457, DOI 10.1016/j.geb.2008.01.001
+   de Montjoye YA, 2013, SCI REP-UK, V3, DOI 10.1038/srep01376
+   Glaeser E. L., 1991, 3787 NAT BUR EC RES
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hernando A, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0930
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Louail T, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7007
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Monderer D, 1996, GAME ECON BEHAV, V14, P124, DOI 10.1006/game.1996.0044
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Ortuzar J., 1994, MODELLING TRANSPORT
+   Pigou AC, 2013, EC WELFARE
+   Ren YH, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms6347
+   Rosvall M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.028701
+   Roughgarden T, 2004, GAME ECON BEHAV, V47, P389, DOI 10.1016/j.geb.2003.06.004
+   Roughgarden T, 2002, J ACM, V49, P236, DOI 10.1145/506147.506153
+   Roughgarden T, 2005, SELFISH ROUTING PRIC
+   Schneider CM, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0246
+   Sheffi Y, 1985, URBAN TRANSPORTATION
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   SMITH MJ, 1979, TRANSPORT RES B-METH, V13, P237, DOI 10.1016/0191-2615(79)90015-8
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Stouffer SA, 1940, AM SOCIOL REV, V5, P845, DOI 10.2307/2084520
+   Toole JL, 2015, TRANSPORT RES C-EMER, V58, P162, DOI 10.1016/j.trc.2015.04.022
+   VANHUYCK JB, 1990, AM ECON REV, V80, P234
+   VICKREY WS, 1969, AM ECON REV, V59, P251
+   Wang P, 2012, SCI REP-UK, V2, DOI 10.1038/srep01001
+   Wardrop J. G., 1952, P I CIVIL ENG, P325, DOI [DOI 10.1680/IPEDS.1952.11259, 10.1680/ipeds.1952.11259]
+   Yan XY, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0834
+   Youn H, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.128701
+NR 48
+TC 38
+Z9 39
+U1 5
+U2 45
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD MAR
+PY 2016
+VL 7
+AR 10793
+DI 10.1038/ncomms10793
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DG6IO
+UT WOS:000372187800001
+PM 26978719
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Nikfarjam, A
+   Shokoohi, M
+   Shahesmaeili, A
+   Haghdoost, AA
+   Baneshi, MR
+   Haji-Maghsoudi, S
+   Rastegari, A
+   Nasehi, AA
+   Memaryan, N
+   Tarjoman, T
+AF Nikfarjam, Ali
+   Shokoohi, Mostafa
+   Shahesmaeili, Armita
+   Haghdoost, Ali Akbar
+   Baneshi, Mohammad Reza
+   Haji-Maghsoudi, Saiedeh
+   Rastegari, Azam
+   Nasehi, Abbas Ali
+   Memaryan, Nadereh
+   Tarjoman, Termeh
+TI National population size estimation of illicit drug users through the
+   network scale-up method in 2013 in Iran
+SO INTERNATIONAL JOURNAL OF DRUG POLICY
+LA English
+DT Article
+DE Drug use; Iran; Network scale up; Prevalence; Size estimation
+ID PEOPLE; RISK
+AB Background: For a better understanding of the current situation of drug use in Iran, we utilized the network scale-up approach to estimate the prevalence of illicit drug use in the entire country.
+   Methods: We implemented a self-administered, street-based questionnaire to 7535 passersby from the general public over 18 years of age by street based random walk quota sampling (based on gender, age and socio-economic status) from 31 provinces in Iran. The sample size in each province was approximately 400, ranging from 200 to 1000. In each province 75% of sample was recruited from the capital and the remaining 25% was recruited from one of the large cities of that province through stratified sampling. The questionnaire comprised questions on demographic information as well as questions to measure the total network size of participants as well as the network size in each of seven drug use groups including Opium, Shire (combination of Opium residue and pure opium), Crystal Methamphetamine, heroin/crack (which in Iranian context is a cocaine-free drug that mostly contains heroin, codeine, morphine and caffeine with or without other drugs), Hashish, Methamphetamine/LSD/ecstasy, and injecting drugs. The estimated size for each group was adjusted for transmission and barrier ratios.
+   Results: The most common type of illicit drug used was opium with the prevalence of 1500 per 100,000 population followed by shire (660), crystal methamphetamine (590), hashish (470), heroin/crack (350), methamphetamine, LSD and ecstasy (300) and injecting drugs (280). All types of substances were more common among men than women. The use of opium, shire and injecting drugs was more common in individuals over 30 whereas the use of stimulants and hashish was largest among individuals between 18 and 30 years of age.
+   Conclusion: It seems that younger individuals and women are more desired to use new synthetic drugs such as crystal methamphetamine. Extending the preventive programs especially in youth as like as scaling up harm reduction services would be the main priorities in prevention and control of substance use in Iran. Because of poor service coverage and high stigma in women, more targeted programs in this affected population are needed. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Nikfarjam, Ali] Minist Hlth, Supervisor Res & Dev Emergency Med Ctr, Tehran, Iran.
+   [Shokoohi, Mostafa; Shahesmaeili, Armita; Haghdoost, Ali Akbar] Kerman Univ Med Sci, Reg Knowledge Hub, Kerman, Iran.
+   [Shokoohi, Mostafa; Shahesmaeili, Armita; Haghdoost, Ali Akbar] Kerman Univ Med Sci, Inst Futures Studies Hlth, WHO Collaborating Ctr HIV Surveillance, Kerman, Iran.
+   [Shokoohi, Mostafa] Univ Western Ontario, Schulich Sch Med & Dent, Epidemiol & Biostat, London, ON, Canada.
+   [Baneshi, Mohammad Reza; Haji-Maghsoudi, Saiedeh; Rastegari, Azam] Kerman Univ Med Sci, Res Ctr Modeling Hlth, Inst Futures Studies Hlth, Biostat & Epidemiol Dept,Hlth Sch, Kerman, Iran.
+   [Nasehi, Abbas Ali] Iran Helal Inst Appl Sci & Technol, Tehran, Iran.
+   [Memaryan, Nadereh] Iran Univ Med Sci, Sch Behav Sci & Mental Hlth, Tehran, Iran.
+   [Tarjoman, Termeh] Minist Hlth, Tehran, Iran.
+RP Shahesmaeili, A (reprint author), Kerman Univ Med Sci, Reg Knowledge Hub, Kerman, Iran.; Shahesmaeili, A (reprint author), Kerman Univ Med Sci, Inst Futures Studies Hlth, WHO Collaborating Ctr HIV Surveillance, Kerman, Iran.
+EM a.shahesmaeili@gmail.com
+RI baneshi, mohammad reza/C-2586-2017
+OI baneshi, mohammad reza/0000-0002-6405-8688; Memaryan,
+   Nadereh/0000-0002-2067-1755; Haghdoost, AliAkbar/0000-0003-4628-4849
+FU Ministry of Health and Medical Education, Tehran, Iran
+FX This work was supported by Ministry of Health and Medical Education,
+   Tehran, Iran.
+CR Alam-Mehrjerdi Z., 2014, J SUBST USE, P1, DOI [10.3109/14659891.2014.966344, DOI 10.3109/14659891.2014.966344]
+   Alam-mehrjerdi Z., 2015, ASIAN J PSYCHIAT
+   Bernard H. R., 1989, THE SMALL WORLD, P159
+   Bernard HR, 2010, SEX TRANSM INFECT, V86, pI11, DOI 10.1136/sti.2010.044446
+   Dolan K, 2011, J WOMENS HEALTH, V20, P1687, DOI 10.1089/jwh.2010.2694
+   Ezoe S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0031184
+   Farhoudian A, 2014, IRAN J PHARM RES, V13, P337
+   Guo W, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0071796
+   Haghdoost AA, 2013, IRAN RED CRESCENT ME, V15, P500, DOI 10.5812/ircmj.7673
+   Iranian Ministry of Health and Medical Education, 2015, AIDS PROGR REP
+   Islamic Republic News Agency, 2015, ED FIGHT ADD 8 SCH
+   JOHNSEN EC, 1995, SOC NETWORKS, V17, P167, DOI 10.1016/0378-8733(95)00261-L
+   Kadushin C, 2006, J DRUG ISSUES, V36, P417, DOI 10.1177/002204260603600209
+   Kazemifar AM, 2011, J ADDICT RES THER, V2, P107, DOI DOI 10.4172/2155-6105.1000107
+   Khademi H., 2012, BMJ-BRIT MED J, V344
+   Killworth PD, 1998, SOC NETWORKS, V20, P23, DOI 10.1016/S0378-8733(96)00305-X
+   Maghsoudi A, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110917
+   McCormick TH, 2010, J AM STAT ASSOC, V105, P59, DOI 10.1198/jasa.2009.ap08518
+   Midanik LT, 2003, DRUG ALCOHOL DEPEN, V72, P209, DOI 10.1016/S0376-8716(03)00204-7
+   Moghadam M. D., 2013, J RES HLTH, V3, P527
+   Moghanibashi-Mansourieh A, 2014, ADDICTION, V109, P854, DOI 10.1111/add.12505
+   Moldova UNAIDS Country Office, 2010, SIZ EST HIGH RISK GR
+   Narenjiha H., 2007, RAPID SITUATION ASSE
+   Nasirian M, 2012, J RES HEALTH SCI, V12, P81
+   Noori R., 2011, SITUATION ANAL WOMEN
+   Paniotto V, 2009, ESTIMATING SIZE POPU
+   Rahnama R, 2014, INT J DRUG POLICY, V25, P717, DOI 10.1016/j.drugpo.2014.05.013
+   Rastegari A., 2014, ESTIMATION ANN INCID
+   Rastegari Azam, 2013, Glob J Health Sci, V5, P217, DOI 10.5539/gjhs.v5n4p217
+   Razzaghi E, 1999, RAPID SITUATION ASSE
+   Russell K, 2008, BMC PEDIATR, V8, DOI 10.1186/1471-2431-8-48
+   Salganik MJ, 2011, AM J EPIDEMIOL, V174, P1190, DOI 10.1093/aje/kwr246
+   Salganik MJ, 2011, SOC NETWORKS, V33, P70, DOI 10.1016/j.socnet.2010.10.006
+   Sarrami H., 2013, Q J RES ADDICTION, V7, P29
+   Shariatirad S, 2013, INT J DRUG POLICY, V24, P636, DOI [10.1016/j.drugpo.2013.05.003, 10.1016/j.drugpo.2013.04.003]
+   Shelley GA, 2006, HUM ORGAN, V65, P430, DOI 10.17730/humo.65.4.08mwg9d3nfy8w9th
+   Shokoohi M, 2012, INT J PREVENTIVE MED, V3, P471
+   Tafreshi H., 2012, RAZI J, V23, P49
+   Tavakoli M, 2014, ARCH REHABIL, V14, P30
+   UNODC, 2011, TECHN COOP PROGR ISL
+NR 40
+TC 18
+Z9 18
+U1 1
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0955-3959
+EI 1873-4758
+J9 INT J DRUG POLICY
+JI Int. J. Drug Policy
+PD MAY
+PY 2016
+VL 31
+BP 147
+EP 152
+DI 10.1016/j.drugpo.2016.01.013
+PG 6
+WC Substance Abuse
+SC Substance Abuse
+GA DN8FE
+UT WOS:000377313800020
+PM 26980349
+OA Green Published
+DA 2019-03-26
+ER
+
+PT S
+AU Bahria
+   Brikke, F
+   Vairavamoorthy, K
+AF Bahria
+   Brikke, F.
+   Vairavamoorthy, K.
+BE Jagerskog, A
+TI Managing Change to Implement Integrated Urban Water Management in
+   African Cities
+SO AT THE CONFLUENCE 2015 - SELECTION FROM THE 2015 WORLD WATER WEEK IN
+   STOCKHOLM
+SE Aquatic Procedia
+LA English
+DT Proceedings Paper
+CT Annual World Water Week on Water for Development
+CY AUG 23-28, 2015
+CL Stockholm, SWEDEN
+DE integrated urban water management; Africa; sustainable urban water use;
+   managing change; lessons learned
+AB With increasing pressures from global changes (urbanization, climate change, etc.), cities in Africa will experience difficulties in efficiently managing water resources. Most of the urbanization in Africa over the next 30 years will occur in fast-growing small towns that lack mature infrastructure. This offers a unique opportunity to implement innovative solutions based on integrated urban water management (IUWM). While IUWM approaches have been widely reported in the literature, their application has been limited. This paper describes the African Water Facility's experience in applying the approach to three projects, in the Seychelles, Zimbabwe and Democratic Republic of Congo, which illustrate the types of challenges faced in different institutional frameworks and contexts (such as islands, a small town and a megacity). The paper identifies the critical issues for improving uptake and scaling up, including strong leadership, the commitment of government and the institutions involved, and a formal programme of capacity building and technical assistance. (C) 2015 The Authors. Published by Elsevier B.V.
+C1 [Bahria] African Water Facil, Tunis, Tunisia.
+   [Brikke, F.] Global Water Partnership, Themat Focal Point Urban Water Secur, Stockholm, Sweden.
+   [Vairavamoorthy, K.] Int Water Management Inst, Appl Res, Colombo, Sri Lanka.
+RP Bahria (reprint author), African Water Facil, Tunis, Tunisia.
+EM akica.bahri@gmail.com
+CR African Water Facility (AWF), 2015, DEV INT URB WAT MAN
+   African Water Facility (AWF), 2014, SEYCH INT COMPR SAN
+   African Water Facility (AWF), 2015, DEV MAST PLAN INT UR
+   Bahri A., 2012, INTEGRATED URBAN WAT
+   Howe C., 2012, SUSTAINABLE WATER MA
+   Jacobsen M, 2013, DIR DEV, P1, DOI 10.1596/978-0-8213-9721-3
+   Moddemeyer S., 2010, WATER, V21, P13
+   Multikanga H. E., 2009, AM WATER WORKS ASS J, V101, P57
+   Pinkham R., 1999, 21 CENTURY WATER SYS
+   Tsegaye S., 2012, WATER FRONT SELECTIO, P42
+   Twumasi Y. A., 2002, 2002 IEEE INT GEOSC, V5, P2874
+   UN-HABITAT, 2008, STAT AFR CIT FRAM AD
+   [United Nations Department of Economic and Social Affairs Population Division UNDESA], 2014, WORLD URB PROSP HIGH
+   WHO/ UNICEF, 2014, PROGR DRINK WAT SAN
+NR 14
+TC 3
+Z9 3
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2214-241X
+J9 AQUAT PR
+PY 2016
+VL 6
+BP 3
+EP 14
+DI 10.1016/j.aqpro.2016.06.002
+PG 12
+WC Engineering, Environmental; Environmental Sciences; Environmental
+   Studies; Regional & Urban Planning; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Public Administration;
+   Water Resources
+GA BG2SX
+UT WOS:000387673500001
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Xiao, C
+   Wu, PL
+   Zhang, LX
+   Song, LC
+AF Xiao, Chan
+   Wu, Peili
+   Zhang, Lixia
+   Song, Lianchun
+TI Robust increase in extreme summer rainfall intensity during the past
+   four decades observed in China
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID HOURLY PRECIPITATION EXTREMES; EASTERN CHINA; TEMPERATURE; TRENDS;
+   IMPACT
+AB Global warming increases the moisture holding capacity of the atmosphere and consequently the potential risks of extreme rainfall. Here we show that maximum hourly summer rainfall intensity has increased by about 11.2% on average, using continuous hourly gauge records for 1971-2013 from 721 weather stations in China. The corresponding event accumulated precipitation has on average increased by more than 10% aided by a small positive trend in events duration. Linear regression of the 95th percentile daily precipitation intensity with daily mean surface air temperature shows a negative scaling of -9.6%/K, in contrast to a positive scaling of 10.6%/K for hourly data. This is made up of a positive scaling below the summer mean temperature and a negative scaling above. Using seasonal means instead of daily means, we find a consistent scaling rate for the region of 6.7-7%/K for both daily and hourly precipitation extremes, about 10% higher than the regional Clausius-Clapeyron scaling of 6.1%/K based on a mean temperature of 24.6 degrees C. With up to 18% further increase in extreme precipitation under continuing global warming towards the IPCC's 1.5 degrees C target, risks of flash floods will exacerbate on top of the current incapability of urban drainage systems in a rapidly urbanizing China.
+C1 [Xiao, Chan; Song, Lianchun] China Meteorol Adm, Beijing Climate Ctr, Beijing, Peoples R China.
+   [Wu, Peili] Met Off Hadley Ctr, Exeter, Devon, England.
+   [Zhang, Lixia] Chinese Acad Sci, Inst Atmospher Phys, LASG, Beijing, Peoples R China.
+   [Zhang, Lixia] Nanjing Univ Informat Sci & Technol, Collaborat Innovat Ctr Forecast & Evaluat Meteoro, Nanjing, Jiangsu, Peoples R China.
+RP Wu, PL (reprint author), Met Off Hadley Ctr, Exeter, Devon, England.
+EM peili.wu@metoffice.gov.uk
+OI Wu, Peili/0000-0001-7908-7062
+FU UK-China Research & Innovation Partnership Fund through Met Office
+   Climate Science for Service Partnership (CSSP) China as part of Newton
+   Fund; National Natural Science Foundation of China [41405089, 41305072]
+FX This work was supported by the UK-China Research & Innovation
+   Partnership Fund through the Met Office Climate Science for Service
+   Partnership (CSSP) China as part of the Newton Fund and the National
+   Natural Science Foundation of China under Grant No. 41405089 and
+   41305072.
+CR Alexander LV, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006290
+   Berg P, 2013, NAT GEOSCI, V6, P181, DOI 10.1038/ngeo1731
+   Chan SC, 2016, NAT GEOSCI, V9, P24, DOI [10.1038/ngeo2596, 10.1038/NGEO2596]
+   Donat MG, 2016, NAT CLIM CHANGE, V6, P508, DOI [10.1038/nclimate2941, 10.1038/NCLIMATE2941]
+   Fu YF, 2016, SCI REP-UK, V6, DOI 10.1038/srep33044
+   Groisman PY, 2005, J CLIMATE, V18, P1326, DOI 10.1175/JCLI3339.1
+   Hallegatte S, 2013, NAT CLIM CHANGE, V3, P802, DOI [10.1038/NCLIMATE1979, 10.1038/nclimate1979]
+   Held IM, 2006, J CLIMATE, V19, P5686, DOI 10.1175/JCLI3990.1
+   Jones RH, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL045081
+   Kendon EJ, 2014, NAT CLIM CHANGE, V4, P570, DOI [10.1038/nclimate2258, 10.1038/NCLIMATE2258]
+   Kharin VV, 2013, CLIMATIC CHANGE, V119, P345, DOI 10.1007/s10584-013-0705-8
+   Lenderink G, 2011, HYDROL EARTH SYST SC, V15, P3033, DOI 10.5194/hess-15-3033-2011
+   Lenderink G, 2008, NAT GEOSCI, V1, P511, DOI 10.1038/ngeo262
+   Lepore C, 2015, GEOPHYS RES LETT, V42, P74, DOI 10.1002/2014GL062247
+   Liu R, 2015, ADV ATMOS SCI, V32, P1027, DOI 10.1007/s00376-015-5002-1
+   Ma SM, 2015, J CLIMATE, V28, P6960, DOI 10.1175/JCLI-D-15-0011.1
+   Miao CY, 2016, SCI REP-UK, V6, DOI 10.1038/srep22543
+   Min SK, 2011, NATURE, V470, P378, DOI 10.1038/nature09763
+   NMIC (National Meteorological Information Center), 2013, QUAL ASS REP CHIN NA
+   NMIC (National Meteorological Information Center), 2012, ASS REP CHIN NAT MET
+   O'Gorman PA, 2009, P NATL ACAD SCI USA, V106, P14773, DOI 10.1073/pnas.0907610106
+   Stephens GL, 2008, J CLIMATE, V21, P6141, DOI 10.1175/2008JCLI2144.1
+   Stocker TF, 2013, CLIMATE CHANGE 2013
+   [孙激 Sun Wei], 2014, [热带气象学报, Journal of Tropical Meteorology], V30, P932
+   Trenberth KE, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2005GL022760
+   Trenberth KE, 2003, B AM METEOROL SOC, V84, P1205, DOI 10.1175/BAMS-84-9-1205
+   Utsumi N, 2011, GEOPHYS RES LETT, V38, DOI 10.1029/2011GL048426
+   Wu PL, 2013, NAT CLIM CHANGE, V3, P807, DOI [10.1038/nclimate1932, 10.1038/NCLIMATE1932]
+   Wu PL, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL043730
+   Wu YJ, 2007, INT J CLIMATOL, V27, P1059, DOI 10.1002/joc.1464
+   Yin J, 2015, STOCH ENV RES RISK A, V29, P1063, DOI 10.1007/s00477-014-0939-7
+   Yu RC, 2012, J CLIMATE, V25, P6851, DOI 10.1175/JCLI-D-11-00656.1
+   Yu RC, 2007, GEOPHYS RES LETT, V34, DOI 10.1029/2007GL030315
+   Zhai PM, 2005, J CLIMATE, V18, P1096, DOI 10.1175/JCLI-3318.1
+   Zhang H, 2011, ADV ATMOS SCI, V28, P1177, DOI 10.1007/s00376-011-0020-0
+   Zhang Q., 2016, TORRENTIAL RAIN DISA, V35, P182, DOI DOI 10.3969/J.ISSN.1004-9045.2016.02.011.(IN
+   Zheng Z, 2016, HYDROL PROCESS, V30, P1149, DOI 10.1002/hyp.10717
+   Zhou BT, 2016, INT J CLIMATOL, V36, P1051, DOI 10.1002/joc.4400
+   Zhou BT, 2014, J CLIMATE, V27, P6591, DOI 10.1175/JCLI-D-13-00761.1
+NR 39
+TC 9
+Z9 9
+U1 1
+U2 46
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD DEC 5
+PY 2016
+VL 6
+AR 38506
+DI 10.1038/srep38506
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA ED9HL
+UT WOS:000389180700001
+PM 27917927
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Pan, Y
+   Chamecki, M
+AF Pan, Y.
+   Chamecki, M.
+TI A scaling law for the shear-production range of second-order structure
+   functions
+SO JOURNAL OF FLUID MECHANICS
+LA English
+DT Article
+DE shear layer turbulence; turbulence theory; turbulent boundary layers
+ID ORDER STRUCTURE FUNCTIONS; BOUNDARY-LAYERS; DRAG REDUCTION;
+   MIXING-LAYER; CORN CANOPY; TURBULENCE; VEGETATION; STATISTICS;
+   SIMULATION; SUBLAYER
+AB Dimensional analysis suggests that the dissipation length scale (l(c) = u(star)(3)/is an element of) is the appropriate scale for the shear-production range of the second-order streamwise structure function in neutrally stratified turbulent shear flows near solid boundaries, including smooth-and rough-wall boundary layers and shear layers above canopies (e.g. crops, forests and cities). These flows have two major characteristics in common: (i) a single velocity scale, i.e. the friction velocity (u(star)) and (ii) the presence of large eddies that scale with an external length scale much larger than the local integral length scale. No assumptions are made about the local integral scale, which is shown to be proportional to l(is an element of) for the scaling analysis to be consistent with Kolmogorov's result for the inertial subrange. Here is an element of is the rate of dissipation of turbulent kinetic energy (TKE) that represents the rate of energy cascade in the inertial subrange. The scaling yields a log-law dependence of the second-order streamwise structure function on (r/l(is an element of)), where r is the streamwise spatial separation. This scaling law is confirmed by large-eddy simulation (LES) results in the roughness sublayer above a model canopy, where the imbalance between local production and dissipation of TKE is much greater than in the inertial layer of wall turbulence and the local integral scale is affected by two external length scales. Parameters estimated for the log-law dependence on (r/l(is an element of)) are in reasonable agreement with those reported for the inertial layer of wall turbulence. This leads to two important conclusions. Firstly, the validity of the l(is an element of)-scaling is extended to shear flows with a much greater imbalance between production and dissipation, indicating possible universality of the shear-production range in flows near solid boundaries. Secondly, from a modelling perspective, l(is an element of) is the appropriate scale to characterize turbulence in shear flows with multiple externally imposed length scales.
+C1 [Pan, Y.; Chamecki, M.] Penn State Univ, Dept Meteorol, 503 Walker Bldg, University Pk, PA 16802 USA.
+RP Chamecki, M (reprint author), Penn State Univ, Dept Meteorol, 503 Walker Bldg, University Pk, PA 16802 USA.
+EM chamecki@psu.edu
+RI Pan, Ying/A-3908-2015
+FU National Science Foundation (NSF) [AGS1005363]
+FX This research is supported by the National Science Foundation (NSF)
+   grant AGS1005363.
+CR Alben S, 2002, NATURE, V420, P479, DOI 10.1038/nature01232
+   Bou-Zeid E, 2005, PHYS FLUIDS, V17, DOI 10.1063/1.1839152
+   Bou-Zeid E, 2010, J FLUID MECH, V665, P480, DOI 10.1017/S0022112010004015
+   Chamecki M., 2013, PHYS FLUIDS, V25, P1
+   Davidson PA, 2014, J FLUID MECH, V752, P140, DOI 10.1017/jfm.2014.286
+   Davidson PA, 2009, PHYS FLUIDS, V21, DOI 10.1063/1.3140075
+   Davidson PA, 2006, J FLUID MECH, V550, P51, DOI 10.1017/S0022112005008001
+   Davidson PA., 2004, TURBULENCE INTRO SCI
+   de Silva CM, 2015, J FLUID MECH, V769, P654, DOI 10.1017/jfm.2015.122
+   Gleicher SC, 2014, AGR FOREST METEOROL, V194, P118, DOI 10.1016/j.agrformet.2014.03.020
+   Gosselin F, 2010, J FLUID MECH, V650, P319, DOI 10.1017/S0022112009993673
+   Horst TW, 2006, BOUND-LAY METEOROL, V119, P375, DOI 10.1007/s10546-005-9015-7
+   JACKSON PS, 1981, J FLUID MECH, V111, P15, DOI 10.1017/S0022112081002279
+   Kaimal J C, 1994, ATMOSPHERIC BOUNDARY
+   Kolmogorov A., 1941, DOKL AKAD NAUK SSSR, V39, P299, DOI DOI 10.1098/RSPA.1991.0075
+   LIU SW, 1994, J FLUID MECH, V275, P83, DOI 10.1017/S0022112094002296
+   Muschinski A, 1996, J FLUID MECH, V325, P239, DOI 10.1017/S0022112096008105
+   Pan Y, 2016, BOUND-LAY METEOROL, V160, P63, DOI 10.1007/s10546-016-0137-x
+   Pan Y, 2014, PHYS FLUIDS, V26, DOI 10.1063/1.4898395
+   Pan Y, 2014, J FLUID MECH, V753, P499, DOI 10.1017/jfm.2014.379
+   PERRY AE, 1986, J FLUID MECH, V165, P163, DOI 10.1017/S002211208600304X
+   Poggi D, 2004, BOUND-LAY METEOROL, V111, P565, DOI 10.1023/B:BOUN.0000016576.05621.73
+   Pope S., 2000, TURBULENT FLOWS
+   RAUPACH MR, 1981, ANNU REV FLUID MECH, V13, P97, DOI 10.1146/annurev.fl.13.010181.000525
+   Raupach MR, 1996, BOUND-LAY METEOROL, V78, P351, DOI 10.1007/BF00120941
+   ROGERS MM, 1994, PHYS FLUIDS, V6, P903, DOI 10.1063/1.868325
+   SCOTTI A, 1993, PHYS FLUIDS A-FLUID, V5, P2306, DOI 10.1063/1.858537
+   SHAW R H, 1974, Boundary-Layer Meteorology, V5, P429, DOI 10.1007/BF00123490
+   Tennekes  H., 1972, 1 COURSE TURBULENCE
+   THOM AS, 1971, Q J ROY METEOR SOC, V97, P414, DOI 10.1002/qj.49709741404
+   TOWNSEND AA, 1958, J FLUID MECH, V3, P361, DOI 10.1017/S0022112058000045
+   van Hout R, 2007, J ATMOS SCI, V64, P2805, DOI 10.1175/JAS3989.1
+   WILSON JD, 1982, BOUND-LAY METEOROL, V24, P495, DOI 10.1007/BF00120736
+NR 33
+TC 8
+Z9 8
+U1 2
+U2 9
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0022-1120
+EI 1469-7645
+J9 J FLUID MECH
+JI J. Fluid Mech.
+PD AUG
+PY 2016
+VL 801
+BP 459
+EP 474
+DI 10.1017/jfm.2016.427
+PG 16
+WC Mechanics; Physics, Fluids & Plasmas
+SC Mechanics; Physics
+GA DS8FD
+UT WOS:000381017900019
+DA 2019-03-26
+ER

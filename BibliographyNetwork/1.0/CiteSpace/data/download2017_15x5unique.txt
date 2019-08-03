@@ -1,0 +1,415 @@
+
+PT J
+AU Zeng, F
+   Li, X
+   Li, K
+AF Zeng, Fang
+   Li, Xiang
+   Li, Ke
+TI Modeling complexity in engineered infrastructure system: Water
+   distribution network as an example
+SO CHAOS
+ID GROWTH; POPULATION; CITIES; AREAS
+AB The complex topology and adaptive behavior of infrastructure systems are driven by both self-organization of the demand and rigid engineering solutions. Therefore, engineering complex systems requires a method balancing holism and reductionism. To model the growth of water distribution networks, a complex network model was developed following the combination of local optimization rules and engineering considerations. The demand node generation is dynamic and follows the scaling law of urban growth. The proposed model can generate a water distribution network (WDN) similar to reported real-world WDNs on some structural properties. Comparison with different modeling approaches indicates that a realistic demand node distribution and co-evolvement of demand node and network are important for the simulation of real complex networks. The simulation results indicate that the efficiency of water distribution networks is exponentially affected by the urban growth pattern. On the contrary, the improvement of efficiency by engineering optimization is limited and relatively insignificant. The redundancy and robustness, on another aspect, can be significantly improved through engineering methods. Published by AIP Publishing.
+OI Li, Xiang/0000-0002-9851-6376
+CR Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bhave P. R., 2006, ANAL WATER DISTRIBUT, P8
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   CRAIG J, 1978, URBAN STUD, V15, P101, DOI 10.1080/713702295
+   Csanyi G, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.016122
+   De Corte A, 2014, WATER RESOUR MANAG, V28, P333, DOI 10.1007/s11269-013-0485-y
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290, DOI DOI 10.1234/12345678
+   FABRIKANT A, 2002, P 29 INT C AUT LANG, P110
+   Falconer K., 2004, FRACTAL GEOMETRY MAT
+   Frank James E., 1989, COSTS ALTERNATIVE DE
+   Frankhauser P., 2004, REPORT COST ACTION 1, V2, P79
+   Gastner MT, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/01/P01015
+   GRAHAM RL, 1985, ANN HIST COMPUT, V7, P43
+   Mair M., 2012, Proceedings of the World Environmental and Water Resources Congress 2012: Crossing Boundaries, P3147, DOI 10.1061/9780784412312.315
+   Mandelbrot BB, 1983, FRACTAL GEOMETRY NAT
+   Marshall JD, 2007, URBAN STUD, V44, P1889, DOI 10.1080/00420980701471943
+   Masucci AP, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.012805
+   Nelson A. C, 2004, NEW METROPOLIS OPPOR
+   Ottino JM, 2004, NATURE, V427, P399, DOI 10.1038/427399a
+   Pumain D., 2004, 0402002 SANT FE I, P26
+   Ravasz E, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026112
+   Rouse WB, 2007, SYST ENG, V10, P260, DOI 10.1002/sys.20076
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Silva E. A., 2002, Computers, Environment and Urban Systems, V26, P525, DOI 10.1016/S0198-9715(01)00014-X
+   Waddell P, 2002, J AM PLANN ASSOC, V68, P297, DOI 10.1080/01944360208976274
+   Walski T. M., 2013, WORLD ENV WAT RES C
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Yazdani A, 2012, J WATER RES PL-ASCE, V138, P153, DOI 10.1061/(ASCE)WR.1943-5452.0000159
+   Yazdani A, 2011, CHAOS, V21, DOI 10.1063/1.3540339
+   Yook SH, 2002, P NATL ACAD SCI USA, V99, P13382, DOI 10.1073/pnas.172501399
+NR 35
+TC 1
+Z9 1
+SN 1054-1500
+EI 1089-7682
+PD FEB
+PY 2017
+VL 27
+IS 2
+AR 023105
+DI 10.1063/1.4975762
+UT WOS:000395058600006
+PM 28249393
+ER
+
+PT J
+AU Rodriguez-Huerta, E
+   Rosas-Casals, M
+   Sorman, AH
+AF Rodriguez-Huerta, Edgar
+   Rosas-Casals, Marti
+   Sorman, Alevgul H.
+TI A societal metabolism approach to job creation and renewable energy
+   transitions in Catalonia
+SO ENERGY POLICY
+DE MuSIASEM; Energy transitions; Energy planning; Catalonia
+ID INTEGRATED ASSESSMENT; EROI; MODELS; IMPACT; POLICY
+AB This paper examines the feasibility of renewable energy transition scenarios and employment requirements on a backdrop of the objectives as described by the energy and climate change plan in Catalonia (PECAC 2012-2020). The analysis uses the Multi-Scale Integrated Analysis of Societal and Ecosystem Metabolism (MuSIASEM) approach as a framework for bringing together information regarding the demographic change, allocation of working hours, as well as mapping energy flows metabolized through the different compartments of the socio-economic system. Results indicate that the implementation of the energy plan in Catalonia would result in an increase in the overall energy metabolic rate by 2020, meaning 10% more energy is to be consumed per hour available in society. We conclude that this increase is linked to the need for greater primary energy sources for a transition to renewable energy sources, as well as the need for increasing skilled jobs to perform these tasks in the energy sector. For the case of Catalonia, we conclude that this would correlate to a requirement between 8000 and 23,000 new jobs that will imply a shifting in current metabolic patterns should such a transition take place.
+CR Alcantara V, 2004, ENERG POLICY, V32, P177, DOI 10.1016/S0301-4215(02)00263-X
+   Aleldett K., 2003, MINER ENERGY RAW MAT, V18, P153
+   APPA, 2013, EST IMP MACR EN REN
+   Ayres R.U., 1997, IND METABOLISM WORK
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   CCOO, 2009, EN REN EMPL CAT 2008
+   Chontanawat J., 2006, SURREY ENERGY EC DIS, V113, P1
+   Correa-Lopez M., 2012, ESTUD EC APL, V30, P1
+   Crespo Cuaresma J., 2015, EC SYST
+   Diaz-Maurin F., 2013, REF MODUL EARTH SYST
+   ECOTEC IDAE ESD, 1998, IMP REN EMPL GROWTH
+   Estelle SM, 2010, COMPUT OPER RES, V37, P1087, DOI 10.1016/j.cor.2009.09.015
+   Fischer-Kowalski M., 2000, ECOLOGIA POLITICA, V19, P21
+   Fischer-Kowalski M., 1998, IND ECOL, V2
+   Fix B., 2015, ENERGY ANAL TORONTO
+   Folch R., 2005, ENERGIA HORIZONTE
+   Georgescu-Roegen N., 1971, ENTROPY LAW EC PROCE
+   Giampietro M, 2000, POPUL ENVIRON, V22, P109, DOI 10.1023/A:1026691623300
+   Giampietro M., 1998, BIOECONOMICS SUSTAIN
+   Giampietro M., 2012, METABOLIC PATTERN SO
+   Giampietro M., 1997, DYNAMIC MODEL SOCIOE
+   Giampietro M., 2000, POPULATION ENV
+   GONZALEZ DE MOLINA Manuel, 2011, METABOLISMOS NATURAL
+   Gonzalez Velez J.M., 2009, CULT ENERGETICA, V172, P15
+   GRANGER CWJ, 1969, ECONOMETRICA, V37, P424, DOI 10.2307/1912791
+   Haberl H, 2011, SUSTAIN DEV, V19, P1, DOI 10.1002/sd.410
+   Hall CAS, 2014, ENERG POLICY, V64, P141, DOI 10.1016/j.enpol.2013.05.049
+   Hall CAS, 2009, ENERGIES, V2, P25, DOI 10.3390/en20100025
+   Heinberg R., 2007, PUBLIC POLICY RES, V14, P197
+   IASTE, 2014, SOC MET
+   IDAE, 2014, INF EST EN REN WWW D
+   IDAE-ISTAS, 2011, EMPL AS IMP EN REN E
+   Inman M, 2013, SCI AM, V308, P58, DOI 10.1038/scientificamerican0413-58
+   Institut Catala d'Energia, 2016, DAT SEG PECAC 2012 2
+   Institut Catala d'Energia, 2012, PLA EN CANV CLIM CAT
+   Institut d'Estadistica de Catalunya, 2014, ID EPA CAT 2014 TABL
+   Institut d'Estadistica de Catalunya, 2013, ID CUENT EC AN CAT B
+   Institut d'Estadistica de Catalunya, 2011, PROJ POBL ACT 2021 2
+   Institut d'Estadistica de Catalunya, 2011, ID CENS POBL VIV POB
+   Institut d'Estadistica de Catalunya, 2014, TATTL POBL OC
+   Institut d'Estadistica de Catalunya, 2011, ID ENQ TEMPS WWW DOC
+   Institut d'Estadistica de Catalunya, 2014, ID DEM CAL VID POBL
+   Instituto Catalan de Energia, 2016, EST EN AN CAT
+   Instituto para la Diversificacion y Ahorro de Energia IDAE, 2011, FACT CONV EN FIN EN
+   Instituto para la Diversificacion y Ahorro de la Energia [IDAE], 2011, PLAN EN REN 2011 202
+   International Energy Agency, 2014, STATISTICS
+   International Renewable Energy Agency, 2011, REN EN JOBS STAT PRO
+   Iychettira KK, 2017, ENERG POLICY, V106, P169, DOI 10.1016/j.enpol.2017.03.051
+   Jiang W, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8080826
+   King CW, 2011, SUSTAINABILITY-BASEL, V3, P1810, DOI 10.3390/su3101810
+   Kogel T, 2005, J DEV ECON, V76, P147, DOI 10.1016/j.jdeveco.2003.11.003
+   Kovacic Z, 2017, ENERG POLICY, V100, P377, DOI 10.1016/j.enpol.2016.06.047
+   Lambert J., 2012, COLL ENV SCI FOR
+   Lambert JG, 2014, ENERG POLICY, V64, P153, DOI 10.1016/j.enpol.2013.07.001
+   Li K, 2016, APPL ENERG, V168, P351, DOI 10.1016/j.apenergy.2016.01.104
+   Llera E, 2013, RENEW SUST ENERG REV, V21, P262, DOI 10.1016/j.rser.2012.12.053
+   Sastresa EL, 2010, RENEW SUST ENERG REV, V14, P679, DOI [10.1016/j.rser.2009.10017, 10.1016/j.rser.2009.10.017]
+   Luderer G., 2011, DESCRIPTION REMIND R
+   MacKay D., 2009, SUSTAINABLE ENERGY H
+   Martinez Magana J., 2004, ESTUDIO DIAGNOSTICO
+   Martinez-Alier, 1987, ECOLOGICAL EC EC ENV
+   Maure A., 2010, POLITICA ENERGETICA
+   Max-Neef Manfred, 1993, DESARROLLO ESCALA HU
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Odum HT, 2006, ENERGY, V31, P21, DOI 10.1016/j.energy.2004.05.012
+   Pfaffenberger W., 2006, CASE STUDY PAPER 200
+   Polimeni JM, 2007, JEVONS PARADOX MYTH
+   Ramos-Martin J., 2008, WHY CATALONIA WILL S
+   Ramos-Martin J, 2009, ENERG POLICY, V37, P4658, DOI 10.1016/j.enpol.2009.06.028
+   Red Electrica de Espana, 2016, CAP CON MAX ADM GEN
+   Red Electrica de Espana, 2016, CAP CON GEN REN COG
+   SIMS CA, 1972, AM ECON REV, V62, P540
+   Singh V., 2001, WORK GOES RENEWABLE
+   Smil V., 2003, ENERGY CROSSROADS GL
+   Smil V., 2008, ENERGY NATURE SOC GE
+   Sommer M. W, 2014, EMPLOYMENT EFFECTS R
+   Sorman A.H., 2014, DEGROWTH VOCABULARY, P160
+   Sorman AH, 2013, J CLEAN PROD, V38, P80, DOI 10.1016/j.jclepro.2011.11.059
+   Stehfest E, 2014, INTEGRATED ASSESSMEN
+   Sustainlabour OIT, 2012, EMPL VERD DES SOST C
+   Tainter J. A., 1990, COLLAPSE COMPLEX SOC
+   Toledo Víctor M., 2013, Relac. Estud. hist. soc., V34, P41
+   Ulanowicz RE, 1986, GROWTH DEV
+   Wei M, 2010, ENERG POLICY, V38, P919, DOI 10.1016/j.enpol.2009.10.044
+   Wilkerson JT, 2015, ENERG POLICY, V76, P18, DOI 10.1016/j.enpol.2014.10.011
+   YU ESH, 1984, ENERG ECON, V6, P186, DOI 10.1016/0140-9883(84)90015-X
+   Zeng SH, 2016, ENERGIES, V9, DOI 10.3390/en9050329
+   Zeng SH, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8040324
+NR 88
+TC 2
+Z9 2
+SN 0301-4215
+EI 1873-6777
+PD SEP
+PY 2017
+VL 108
+BP 551
+EP 564
+DI 10.1016/j.enpol.2017.06.024
+UT WOS:000406725800051
+ER
+
+PT J
+AU Frenken, K
+AF Frenken, Koen
+TI Political economies and environmental futures for the sharing economy
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL
+   AND ENGINEERING SCIENCES
+DE sharing economy; circular economy; access economy; peer-to-peer markets;
+   sustainable consumption; collaborative consumption
+ID CONSUMPTION; INNOVATION; CAPITALISM; LIFE
+AB The sudden rise of the sharing economy has sparked an intense public debate about its definition, its effects and its future regulation. Here, I attempt to provide analytical guidance by defining the sharing economy as the practice that consumers grant each other temporary access to their under-utilized physical assets. Using this definition, the rise of the sharing economy can be understood as occurring at the intersection of three salient economic trends: peer-topeer exchange, access over ownership and circular business models. I shortly discuss some of the environmental impacts of online sharing platforms and then articulate three possible futures of the sharing economy: a capitalist future cumulating in monopolistic super-platforms allowing for seamless services, a state-led future that shifts taxation from labour to capital and redistributes the gains of sharing from winners to losers, and a citizen-led future based on cooperatively owned platforms under democratic control. The nature and size of the social and environmental impacts are expected to differ greatly in each of the three scenarios.
+CR Airbnb, 2014, ENV IMP HOM
+   [Anonymous], 2015, ECONOMIST
+   Belk R, 2007, ANN AM ACAD POLIT SS, V611, P126, DOI 10.1117/0002716206298483
+   Belk R, 2014, ANTHROPOLOGIST, V18, P7
+   Belk R, 2014, J BUS RES, V67, P1595, DOI 10.1016/j.jbusres.2013.10.001
+   Belk R, 2010, J CONSUM RES, V36, P715, DOI 10.1086/612649
+   Benkler Y, 2004, YALE LAW J, V114, P273, DOI 10.2307/4135731
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BlaBlaCar, BLABLACAR CONTR CLIM
+   Botsman R., 2010, WHATS MINE IS YOURS
+   Chen TD, 2016, TRANSPORT RES D-TR E, V47, P276, DOI 10.1016/j.trd.2016.05.012
+   Dolvik JE, 2017, TEMANORD, V2017, P508
+   Einav L, 2016, ANNU REV ECON, V8, P615, DOI 10.1146/annurev-economics-080315-015334
+   European Commission, 2016, COM2016356 EUR COMM
+   Frenken K., 2015, GUARDIAN
+   Frenken K, 2017, ENVIRON INNOV SOC TR, V23, P3, DOI 10.1016/j.eist.2017.01.003
+   Ghisellini P, 2016, J CLEAN PROD, V114, P11, DOI 10.1016/j.jclepro.2015.09.007
+   Goodwin P, 2013, TRANSPORT REV, V33, P243, DOI 10.1080/01441647.2013.804133
+   Groote J, 2016, ECON TRANSP, V6, P25, DOI [doi:10.1016/j.ecotra.2016.07.001, DOI 10.1016/J.ECOTRA.2016.07.001]
+   Hatzopoulos V, 2017, COMMON MKT LAW REV, V54, P81
+   Hobrink S, 2014, THESIS
+   John NA, 2013, NEW MEDIA SOC, V15, P167, DOI 10.1177/1461444812450684
+   Kostakis V, 2016, ENVIRON INNOV SOC TR, V18, P82, DOI 10.1016/j.eist.2015.08.002
+   Martin CJ, 2016, ECOL ECON, V121, P149, DOI 10.1016/j.ecolecon.2015.11.027
+   Martin CJ, 2015, ECOL ECON, V118, P240, DOI 10.1016/j.ecolecon.2015.08.001
+   McLaren D, 2015, URBAN IND ENVIRON, P1
+   Meelen T, 2015, FAST CO         0114
+   Munzel K, 2017, INNOVATION STUDIES U
+   Nijland H., 2015, IMPACT CAR SHARING M
+   Orange R., 2016, GUARDIAN
+   Piketty Thomas, 2014, CAPITAL 21 CENTURY
+   Polanyi K., 1977, LIVELIHOOD MAN
+   Ritzer G, 2010, J CONSUM CULT, V10, P13, DOI 10.1177/1469540509354673
+   Schneider N, 2016, OURS HACK OWN RISE P
+   Scholz T., 2014, MEDIUM          1204
+   Schor J., DEBATING SHARING EC
+   Schor J., CAMBRIDGE J IN PRESS
+   Schor JB, 2016, POETICS, V54, P66, DOI 10.1016/j.poetic.2015.11.001
+   ShareNL, 2015, MIL IMP KANS DEEL
+   Srnicek N, 2016, PLATFORM CAPITALISM
+   Sundararajan A., 2016, SHARING EC END EMPLO
+   Truffer B., 2003, INNOVATION-ABINGDON, V16, P139, DOI DOI 10.1080/13511610304517)
+   Van de Glind P, 2015, COLLABORATIVE C 0601
+   Van Doorn N., 2017, CULTURE DIGITAL 0207
+   Warzel C., 2015, BUZZFEEDNEWS    0108
+NR 45
+TC 23
+Z9 23
+SN 1364-503X
+EI 1471-2962
+PD JUN 13
+PY 2017
+VL 375
+IS 2095
+AR 20160367
+DI 10.1098/rsta.2016.0367
+UT WOS:000400238600006
+PM 28461431
+ER
+
+PT J
+AU de Wit, LA
+   Croll, DA
+   Tershy, B
+   Newton, KM
+   Spatz, DR
+   Holmes, ND
+   Kilpatrick, AM
+AF de Wit, Luz A.
+   Croll, Donald A.
+   Tershy, Bernie
+   Newton, Kelly M.
+   Spatz, Dena R.
+   Holmes, Nick D.
+   Kilpatrick, A. Marm
+TI Estimating Burdens of Neglected Tropical Zoonotic Diseases on Islands
+   with Introduced Mammals
+SO AMERICAN JOURNAL OF TROPICAL MEDICINE AND HYGIENE
+ID INFECTIOUS-DISEASES; TOXOPLASMA-GONDII; COSTING ERADICATIONS; CANINE
+   RABIES; GLOBAL BURDEN; LEPTOSPIROSIS; DYNAMICS; LIFE; CONSERVATION;
+   ZOONOSES
+AB Many neglected tropical zoonotic pathogens are maintained by introduced mammals, and on islands the most common introduced species are rodents, cats, and dogs. Management of introduced mammals, including control or eradication of feral populations, which is frequently done for ecological restoration, could also reduce or eliminate the pathogens these animals carry. Understanding the burden of these zoonotic diseases is crucial for quantifying the potential public health benefits of introduced mammal management. However, epidemiological data are only available from a small subset of islands where these introduced mammals co-occur with people. We examined socioeconomic and climatic variables as predictors for disease burdens of angiostrongyliasis, leptospirosis, toxoplasmosis, toxocariasis, and rabies from 57 islands or island countries. We found strong correlates of disease burden for leptospirosis, Toxoplasma gondii infection, angiostrongyliasis, and toxocariasis with more than 50% of the variance explained, and an average of 57% (range = 32-95%) predictive accuracy on out-of-sample data. We used these relationships to provide estimates of leptospirosis incidence and T. gondii seroprevalence infection on islands where nonnative rodents and cats are present. These predicted estimates of disease burden could be used in an initial assessment of whether the costs of managing introduced mammal reservoirs might be less than the costs of perpetual treatment of these diseases on islands.
+CR Aguirre-Munoz A, 2008, AMBIO, V37, P101, DOI 10.1579/0044-7447(2008)37[101:HCIMEF]2.0.CO;2
+   Altizer S, 2006, ECOL LETT, V9, P467, DOI 10.1111/j.1461-0248.2005.00879.x
+   Atkinson I. A. E., 1985, CONSERVATION ISLAND, P35
+   Barcellos C, 2000, INT J ENVIRON HEAL R, V10, P301, DOI 10.1080/0960312002001500
+   Beltran RS, 2014, RESTOR ECOL, V22, P790, DOI 10.1111/rec.12144
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bonds MH, 2012, PLOS BIOL, V10, DOI 10.1371/journal.pbio.1001456
+   Brent RJ, 2015, APPL ECON, V2011, P1413
+   Centers for Disease Control and Prevention (CDC), 2015, DIS CAN BE SPREAD PE
+   Chanteau S, 1998, EMERG INFECT DIS, V4, P101, DOI 10.3201/eid0401.980114
+   Cleaveland S, 2006, VET MICROBIOL, V117, P43, DOI 10.1016/j.vetmic.2006.04.009
+   Costa F, 2015, PLOS NEGLECT TROP D, V9, DOI 10.1371/journal.pntd.0003898
+   Dabritz HA, 2010, ZOONOSES PUBLIC HLTH, V57, P34, DOI 10.1111/j.1863-2378.2009.01273.x
+   Dabritz HA, 2007, JAVMA-J AM VET MED A, V231, P1676, DOI 10.2460/javma.231.11.1676
+   Desvars A, 2011, EPIDEMIOL INFECT, V139, P167, DOI 10.1017/S0950268810002074
+   Donlan CJ, 2007, ANIM CONSERV, V10, P154, DOI 10.1111/j.1469-1795.2007.00101.x
+   Dubey JP, 1998, INT J PARASITOL, V28, P1019, DOI 10.1016/S0020-7519(98)00023-X
+   Easterbrook JD, 2005, VECTOR-BORNE ZOONOT, V5, P296, DOI 10.1089/vbz.2005.5.296
+   Flores-Ibarra M, 2004, PREV VET MED, V62, P79, DOI 10.1016/j.prevetmed.2003.10.002
+   Gideon, 2016, GID INF DIS DAT
+   Gotteland C, 2014, VET PARASITOL, V205, P629, DOI 10.1016/j.vetpar.2014.08.003
+   Hampson K., 2015, PLOS NEGLECT TROP D, V9, P1
+   Hampson K, 2009, PLOS BIOL, V7, P462, DOI 10.1371/journal.pbio.1000053
+   Hijmans R. J., 2015, WORLDCLIM GLOBAL CLI
+   Howald G, 2007, CONSERV BIOL, V21, P1258, DOI 10.1111/j.1523-1739.2007.00755.x
+   INSEE, 2015, EC PROD INT BRUTS RE
+   IUCN, 2015, IUCN RED LIST THREAT
+   Jones HP, 2016, P NATL ACAD SCI USA, V113, P4033, DOI 10.1073/pnas.1521179113
+   King L, 2011, CAUSES IMPACTS NEGLE, P342
+   Lavers JL, 2010, BIOL INVASIONS, V12, P3839, DOI 10.1007/s10530-010-9776-x
+   Levy JK, 2008, J VET INTERN MED, V22, P60, DOI 10.1111/j.1939-1676.2007.0034.x
+   Martens EP, 2006, EPIDEMIOLOGY, V17, P260, DOI 10.1097/01.ede.0000215160.88317.cb
+   Martins TLF, 2006, ANIM CONSERV, V9, P439, DOI 10.1111/j.1469-1795.2006.00058.x
+   Molyneux D, 2011, PARASITE VECTOR, V4, DOI 10.1186/1756-3305-4-106
+   Morand S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090032
+   Murray CJL, 2012, LANCET, V380, P2197, DOI 10.1016/S0140-6736(12)61689-4
+   Murtaugh PA, 2009, ECOL LETT, V12, P1061, DOI 10.1111/j.1461-0248.2009.01361.x
+   Nogales M, 2004, CONSERV BIOL, V18, P310, DOI 10.1111/j.1523-1739.2004.00442.x
+   Oppel S, 2011, CONSERV BIOL, V25, P232, DOI 10.1111/j.1523-1739.2010.01601.x
+   Ostfeld RS, 2000, CONSERV BIOL, V14, P722, DOI 10.1046/j.1523-1739.2000.99014.x
+   Overgaauw PAM, 2013, VET PARASITOL, V193, P398, DOI 10.1016/j.vetpar.2012.12.035
+   Patronek GJ, 1997, J AM VET MED ASSOC, V210, P637
+   Pender RJ, 2013, BIOL INVASIONS, V15, P213, DOI 10.1007/s10530-012-0280-3
+   Phillips RA, 2010, EMU, V110, pI, DOI 10.1071/MUv110n4_ED
+   R Core Team, 2014, R LANG ENV STAT COMP
+   Reardon JT, 2012, NEW ZEAL J ECOL, V36, P141
+   Reaser JK, 2007, ENVIRON CONSERV, V34, P98, DOI 10.1017/S0376892907003815
+   Reis RB, 2008, PLOS NEGLECT TROP D, V2, DOI 10.1371/journal.pntd.0000228
+   Ringler D, 2015, BIOL CONSERV, V185, P75, DOI 10.1016/j.biocon.2014.12.014
+   Rushby JF, 2001, HEALTH POLICY PLANN, V16, P326, DOI 10.1093/heapol/16.3.326
+   Sterne JAC, 2009, BMJ-BRIT MED J, V339, DOI 10.1136/bmj.b2393
+   The CIA World Factbook, 2016, CIA WORLD FACTBOOK L
+   The World Bank Group, 2016, WORLD BANK OP DAT
+   Threatened Island Biodiversity Database Partners, 2014, THREAT ISL BIOD DAT
+   Torchin ME, 2003, NATURE, V421, P628, DOI 10.1038/nature01346
+   Torgerson PR, 2013, B WORLD HEALTH ORGAN, V91, P501, DOI 10.2471/BLT.12.111732
+   Torgerson PR, 2003, RES VET SCI, V74, P191, DOI 10.1016/S0034-5288(03)00006-7
+   Townsend SE, 2013, PLOS NEGLECT TROP D, V7, DOI 10.1371/journal.pntd.0002372
+   Traweger D, 2006, J PEST SCI, V79, P113, DOI 10.1007/s10340-006-0123-z
+   UNdata, 2015, UNDATA CONTR PROF
+   United Nations Children's Emergency Fund, 2014, MIGR PROF COMM SET I
+   Victoriano AFB, 2009, BMC INFECT DIS, V9, DOI 10.1186/1471-2334-9-147
+   Wang QP, 2008, LANCET INFECT DIS, V8, P621, DOI 10.1016/S1473-3099(08)70229-9
+   Wolfe ND, 2005, EMERG INFECT DIS, V11, P1822, DOI 10.3201/eid1112.040789
+   World Health Organization, 2006, INF CONS GLOB BURD L
+   World Health Organization, 2016, ZOON VET PUBL HLTH
+NR 66
+TC 3
+Z9 4
+SN 0002-9637
+EI 1476-1645
+PY 2017
+VL 96
+IS 3
+BP 749
+EP 757
+DI 10.4269/ajtmh.16-0573
+UT WOS:000401761600036
+PM 28138052
+ER
+
+PT J
+AU Hoornweg, D
+   Pope, K
+AF Hoornweg, Daniel
+   Pope, Kevin
+TI Population predictions for the world's largest cities in the 21st
+   century
+SO ENVIRONMENT AND URBANIZATION
+DE 21st century; cities; population projection; urban areas
+ID CLIMATE-CHANGE
+AB We project populations to 2100 for the world's larger cities. Three socioeconomic scenarios with various levels of sustainability and global cooperation are evaluated, and individual best fit projections made for each city using global urbanization forecasts. In 2010, 757 million people resided in the 101 largest cities - 11 per cent of the world's population. By the end of the century, world population is projected to range from 6.9 billion to 13.1 billion, with 15 per cent to 23 per cent of people residing in the 101 largest cities (1.6 billion to 2.3 billion). The disparate effects of socioeconomic pathways on regional distribution of the world's 101 largest cities in the 21st century are examined by changes in population rank for 2010, 2025, 2050, 2075 and 2100. Socioeconomic pathways are assessed based on their influence on the world's largest cities. Two aspects of the projections raise concerns about reliability: the unlikely degree of growth of cities suggested for Africa and the growth of cities in coastal settings (and likely global immigration). Trends and the effect of sustainable development on regional distribution of large cities throughout the 21st century are discussed.
+OI Hoornweg, Daniel/0000-0002-2340-7204
+CR Arnell N, 2011, FRAMEWORK NEW GENERA
+   Arouri ME, 2014, ECON BULL, V34, P1247
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Blackburn S, 2014, GLOBAL CHANGE, V82, P8
+   Chandler T., 1987, 4000 YEARS URBAN GRO
+   Cobbinah PB, 2015, CITIES, V47, P62, DOI 10.1016/j.cities.2015.03.013
+   Cohen B, 2006, TECHNOL SOC, V28, P63, DOI 10.1016/j.techsoc.2005.10.005
+   Duren RM, 2012, NAT CLIM CHANGE, V2, P560, DOI 10.1038/nclimate1629
+   Galaz V, 2012, CURR OPIN ENV SUST, V4, P80, DOI 10.1016/j.cosust.2012.01.006
+   Gerland P, 2014, SCIENCE, V346, P234, DOI 10.1126/science.1257469
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Hallegatte S, 2013, NAT CLIM CHANGE, V3, P802, DOI [10.1038/nclimate1979, 10.1038/NCLIMATE1979]
+   Harrison J, 2014, URBAN STUD, V51, P2249, DOI 10.1177/0042098013500699
+   HAYDEN D., 2003, BUILDING SUBURBIA GR
+   Hinkel J, 2014, P NATL ACAD SCI USA, V111, P3292, DOI 10.1073/pnas.1222469111
+   Hoornweg D, 2016, AMBIO
+   Hoornweg D, 2015, THESIS
+   Hoornweg D., 2013, URBAN DEV SERIES KNO
+   International Institute for Applied Systems Analysis-Science for Global Insight, 2012, SSP DAT
+   Jiang L, 2011, SSP URBANIZATION PRO
+   Kennedy CA, 2015, P NATL ACAD SCI USA, V112, P5985, DOI 10.1073/pnas.1504315112
+   Kriegler E, 2012, GLOBAL ENVIRON CHANG, V22, P807, DOI 10.1016/j.gloenvcha.2012.05.005
+   Lutz W K C S, 2011, SSP POPULATION PROJE
+   Meadows D. H., 2008, THINKING SYSTEMS PRI
+   Mercier J., 2009, ADMIN THEORY PRAXIS, V31, P145
+   Moss RH, 2010, NATURE, V463, P747, DOI 10.1038/nature08823
+   O'Neill BC, 2012, WORKSH NAT US NEW SO
+   Ostrom E, 2014, ANN ECON FINANC, V15, P97
+   Potts D, 2012, WORLD DEV, V40, P1382, DOI 10.1016/j.worlddev.2011.12.004
+   Potts D, 2009, ENVIRON URBAN, V21, P253, DOI 10.1177/0956247809103026
+   Racki J, 2014, GLOBAL J EMERGING MA, V61, P15
+   Samir KC, 2010, DEMOGR RES, V22, P383, DOI 10.4054/DemRes.2010.22.15
+   United Nations, 2012, WORLD URB PROSP THE
+   United Nations, 2001, POP ENV DEV THE CONC
+   Vojnovic I, 2014, CITIES, V41, pS30, DOI 10.1016/j.cities.2014.06.002
+NR 37
+TC 9
+Z9 9
+SN 0956-2478
+EI 1746-0301
+PD APR
+PY 2017
+VL 29
+IS 1
+BP 195
+EP 216
+DI 10.1177/0956247816663557
+UT WOS:000400086300012
+ER

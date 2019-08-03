@@ -1,0 +1,354 @@
+
+PT J
+AU Zhang, J
+   Li, XT
+   Wang, XR
+   Wang, WX
+   Wu, LF
+AF Zhang, Jiang
+   Li, Xintong
+   Wang, Xinran
+   Wang, Wen-Xu
+   Wu, Lingfei
+TI Scaling behaviours in the growth of networked systems and their
+   geometric origins
+SO Scientific Reports
+ID CITIES; DYNAMICS; COMPLEX; SIZE; LAWS
+AB Two classes of scaling behaviours, namely the super-linear scaling of links or activities, and the sub-linear scaling of area, diversity, or time elapsed with respect to size have been found to prevail in the growth of complex networked systems. Despite some pioneering modelling approaches proposed for specific systems, whether there exists some general mechanisms that account for the origins of such scaling behaviours in different contexts, especially in socioeconomic systems, remains an open question. We address this problem by introducing a geometric network model without free parameter, finding that both super-linear and sub-linear scaling behaviours can be simultaneously reproduced and that the scaling exponents are exclusively determined by the dimension of the Euclidean space in which the network is embedded. We implement some realistic extensions to the basic model to offer more accurate predictions for cities of various scaling behaviours and the Zipf distribution reported in the literature and observed in our empirical studies. All of the empirical results can be precisely recovered by our model with analytical predictions of all major properties. By virtue of these general findings concerning scaling behaviour, our models with simple mechanisms gain new insights into the evolution and development of complex networked systems.
+CR Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Barabasi A.-L., 1995, FRACTAL CONCEPTS SUR
+   Barabasi AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Brown J. H., 2000, SCALING BIOL
+   Cattuto C, 2007, P NATL ACAD SCI USA, V104, P1461, DOI 10.1073/pnas.0610487104
+   Cattuto C, 2009, P NATL ACAD SCI USA, V106, P10511, DOI 10.1073/pnas.0901136106
+   Changizi MA, 2001, J THEOR BIOL, V211, P277, DOI 10.1006/jtbi.2001.2346
+   Dodds PS, 2000, ANNU REV EARTH PL SC, V28, P571, DOI 10.1146/annurev.earth.28.1.571
+   Dorogovtsev S. N., 2002, ARXIVCONDMAT0204102
+   Dreyer O, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.038101
+   Elvidge CD, 2009, ENERGIES, V2, P595, DOI 10.3390/en20300595
+   Enquist BJ, 2002, NATURE, V419, P610, DOI 10.1038/nature01069
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Heaps H. S., 1978, INFORM RETRIEVAL COM
+   Jacob E., 2013, ALGORITHMS MODELS WE, V8305, P14
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   Leskovec  J., 2005, P 11 ACM SIGKDD INT, P177, DOI [10.1145/1081870.1081893, DOI 10.1145/1081870.1081893]
+   Leskovec J, 2010, J MACH LEARN RES, V11, P985
+   Li DQ, 2011, NAT PHYS, V7, P481, DOI [10.1038/nphys1932, 10.1038/NPHYS1932]
+   MARTINEZ ND, 1994, AM NAT, V144, P935, DOI 10.1086/285719
+   Mattick JS, 2005, SCIENCE, V307, P856, DOI 10.1126/science.1103737
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Papadopoulos F., 2014, IEEE ACM T NETWORKIN
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Penrose M, 2003, RANDOM GEOMETRIC GRA
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Vicsek T., 1992, FRACTAL GROWTH PHENO
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Williams RJ, 2000, NATURE, V404, P180, DOI 10.1038/35004572
+   Wu LF, 2011, EUR PHYS J B, V83, P283, DOI 10.1140/epjb/e2011-20187-9
+   Wu LF, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.026113
+   Zhang K, 2000, P NATL ACAD SCI USA, V97, P5621, DOI 10.1073/pnas.090504197
+NR 40
+TC 3
+Z9 3
+SN 2045-2322
+PD APR 29
+PY 2015
+VL 5
+AR 9767
+DI 10.1038/srep09767
+UT WOS:000353621400001
+PM 25924057
+ER
+
+PT J
+AU Grekousis, G
+   Mountrakis, G
+AF Grekousis, George
+   Mountrakis, Giorgos
+TI Sustainable Development under Population Pressure: Lessons from
+   Developed Land Consumption in the Conterminous US
+SO PLOS ONE
+ID URBAN CONTAINMENT POLICIES; UNITED-STATES; GROWTH MANAGEMENT; CITIES;
+   IMPACTS; AREAS; SIZE; URBANIZATION; ECOSYSTEMS; LANDSCAPE
+AB Population growth will result in a significant anthropogenic environmental change worldwide through increases in developed land (DL) consumption. DL consumption is an important environmental and socioeconomic process affecting humans and ecosystems. Attention has been given to DL modeling inside highly populated cities. However, modeling DL consumption should expand to non-metropolitan areas where arguably the environmental consequences are more significant. Here, we study all counties within the conterminous U.S. and based on satellite-derived product (National Land Cover Dataset 2001) we calculate the associated DL for each county. By using county population data from the 2000 census we present a comparative study on DL consumption and we propose a model linking population with expected DL consumption. Results indicate distinct geographic patterns of comparatively low and high consuming counties moving from east to west. We also demonstrate that the relationship of DL consumption with population is mostly linear, altering the notion that expected population growth will have lower DL consumption if added in counties with larger population. Added DL consumption is independent of a county's starting population and only dependent on whether the county belongs to a Metropolitan Statistical Area (MSA). In the overlapping MSA and non-MSA population range there is also a constant DL efficiency gain of approximately 20km(2) for a given population for MSA counties which suggests that transitioning from rural to urban counties has significantly higher benefits in lower populations. In addition, we analyze the socioeconomic composition of counties with extremely high or low DL consumption. High DL consumption counties have statistically lower Black/African American population, higher poverty rate and lower income per capita than average in both NMSA and MSA counties. Our analysis offers a baseline to investigate further land consumption strategies in anticipation of growing population pressures.
+OI Grekousis, George/0000-0003-2837-2335
+CR Alig RJ, 2004, LANDSCAPE URBAN PLAN, V69, P219, DOI 10.1016/j.landurbplan.2003.07.004
+   Alig RJ, 2010, PNWGTR815 USDA
+   Amstrong PJ, 2012, SUSTAINABLE CITY 7 U, V1, P11
+   [Anonymous], 2001, NAT LAND COV DAT 200
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2013, SCIENCE, V340, P1418, DOI 10.1126/science.1239870
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bloom DE, 2008, SCIENCE, V319, P772, DOI 10.1126/science.1153057
+   Carruthers JI, 2002, URBAN STUD, V39, P1959, DOI 10.1080/0042098022000011317
+   Center Heinz, 2008, STAT NAT EC 2008 MEA
+   Clark WC, 2010, 196 CTR INT DEV
+   DeFries R, 2010, P NATL ACAD SCI USA, V107, P19627, DOI 10.1073/pnas.1011163107
+   DeFries RS, 2010, NAT GEOSCI, V3, P178, DOI 10.1038/NGEO756
+   Eurostat, 2007, MEAS PROGR MOR SUST
+   Fitch CA, 2003, HIST METHOD, V36, P41, DOI 10.1080/01615440309601214
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   GARREAU JOEL, 1991, EDGE CITY LIFE NEW F
+   Glaeser E, 2011, SCIENCE, V333, P592, DOI 10.1126/science.1209264
+   Glasmeier Martin R., 2008, CAMB J REG ECON SOC, V1, P1
+   Grekousis G, 2013, CITIES, V30, P193, DOI 10.1016/j.cities.2012.03.006
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Hollander Justin B., 2009, POLLUTED DANGEROUS A
+   Homer C, 2004, PHOTOGRAMM ENG REM S, V70, P829, DOI 10.14358/PERS.70.7.829
+   Kareiva P, 2007, SCIENCE, V316, P1866, DOI 10.1126/science.1140170
+   Kitzes J, 2007, SCI ENV SOC, V4, P11
+   Kroll F, 2010, LAND USE POLICY, V27, P726, DOI 10.1016/j.landusepol.2009.10.001
+   Lambin E. F., 2009, RECENT ADV REMOTE SE
+   Lambin EF, 2011, P NATL ACAD SCI USA, V108, P3465, DOI 10.1073/pnas.1100480108
+   Lutz W, 2012, SCIENCE, V335, P918, DOI 10.1126/science.335.6071.918-a
+   MANN HB, 1947, ANN MATH STAT, V18, P50, DOI 10.1214/aoms/1177730491
+   McConnell V, 2006, J URBAN ECON, V59, P440, DOI 10.1016/j.jue.2005.12.005
+   McDonald RI, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009509
+   Minnesota Population Center, 2011, NAT HIST GEOGR INF S
+   Myers D, 2004, BUILD RES INF, V32, P285, DOI 10.1080/0961321042000221061
+   PENDALL R, 2002, HOLDING LINE URBAN C
+   Pickett ST., 1989, SPACE FOR TIME SUBST, P110
+   Pielke RA, 2005, SCIENCE, V310, P1625, DOI 10.1126/science.1120529
+   Prieler S, 2005, BUILT UP ASS LAND AR
+   Radeloff VC, 2010, P NATL ACAD SCI USA, V107, P940, DOI 10.1073/pnas.0911131107
+   Schetke S, 2012, ENVIRON IMPACT ASSES, V32, P195, DOI 10.1016/j.eiar.2011.08.008
+   Schwarz N, 2010, LANDSCAPE URBAN PLAN, V96, P29, DOI 10.1016/j.landurbplan.2010.01.007
+   Seto KC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023777
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P16083, DOI 10.1073/pnas.1211658109
+   Sleeter BM, 2013, GLOBAL ENVIRON CHANG, V23, P733, DOI 10.1016/j.gloenvcha.2013.03.006
+   Solecki W, 2013, ENVIRONMENT, V55, P12, DOI 10.1080/00139157.2013.748387
+   Spotila J., 2000, FED REGISTER, V65, P82228
+   STEIN SM, 2005, PNWGTR636 USDA FOR S
+   Turner BL, 2007, P NATL ACAD SCI USA, V104, P20666, DOI 10.1073/pnas.0704119104
+   U. S. Census Bureau U. S. Department of Commerce, 2003, CART BOUND FIL
+   U.S. Department of Commerce Census Bureau, 2013, TABL 1 INT PROJ RANK
+   UNPF, 2007, STAT WORLD POP 2007
+   US Census Bureau, 2000, 2000 CENS POP HOUS
+   USDA, 2007, SUMM REP 2007 NAT RE
+   Van Ginkel H., 2008, NATURE, V456, P32, DOI DOI 10.1038/TWAS08.32A
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Wassmer RW, 2006, J REGIONAL SCI, V46, P25, DOI 10.1111/j.0022-4146.2006.00432.x
+   White EM, 2009, LANDSCAPE URBAN PLAN, V89, P37, DOI 10.1016/j.landurbplan.2008.09.004
+   William A, 2000, COMPANION CITY
+   Woo M, 2011, URBAN STUD, V48, P3511, DOI 10.1177/0042098011399594
+NR 61
+TC 13
+Z9 13
+SN 1932-6203
+PD MAR 25
+PY 2015
+VL 10
+IS 3
+AR e0119675
+DI 10.1371/journal.pone.0119675
+UT WOS:000351880000035
+PM 25806525
+ER
+
+PT B
+AU Barthelemy, M
+AF Barthelemy, Marc
+BE Chraibi, M
+   Boltes, M
+   Schadschneider, A
+   Seyfried, A
+TI Time Evolution of Road Networks
+SO TRAFFIC AND GRANULAR FLOW '13
+CT Traffic and Granular Flow
+CY SEP 25-27, 2013
+CL Julich, GERMANY
+ID TRANSPORTATION NETWORKS; STREET NETWORKS; GROWTH; CITIES; CENTRALITY;
+   EMERGENCE; PATTERNS; LIFE; CITY
+AB Urbanization is a fundamental phenomenon which however still remains poorly quantitatively characterized. An important facet of this phenomenon is the road network which co-evolves with other urban structures and we review here the most recent results about the structure and the evolution of these important infrastructures. These studies suggest that the natural evolution of a road network is governed by two elementary processes: (i) 'densification', which corresponds to an increase in the local density of roads around existing central points and (ii) 'exploration' which consists in new roads triggering the spatial evolution of the urbanization front. However, interventions of central, top-down planning could modify this simple picture of a natural evolution and we will present the example of the street network of Paris (France), which during the nineteenth century experienced large modifications supervised by a central authority, the 'Haussmann period'. In this case, the usual network measures display a smooth behavior and the most important quantitative signatures of central planning are the spatial reorganization of centrality and the modification of the block shape distribution. Such effects can only be obtained by structural modifications at a large-scale level, with the creation of new roads not constrained by the existing geometry. These different results suggest that the evolution of a road network results from the superimposition of continuous, local growth processes and punctual changes operating at large spatial scales, opening new directions for the modelling of these systems.
+CR Angel S, 2005, DYNAMICS GLOBAL URBA
+   Barthelemy M, 2013, SCI REP-UK, V3, DOI 10.1038/srep02153
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M., 2005, CITIES COMPLEXITY
+   Batty M, 2009, TOWN PLAN REV, V80, P551, DOI 10.3828/tpr.2009.12
+   Batty Michael., 2013, NEW SCI CITIES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Buhl J, 2006, EUR PHYS J B, V49, P513, DOI 10.1140/epjb/e2006-00085-1
+   Cardillo A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.066107
+   Courtat T, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036106
+   Crucitti P, 2006, PHYS REV E, V73
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Fujita M., 2001, SPATIAL EC CITIES RE
+   Geddes P., 1949, CITIES IN EVOLUTION, V27
+   Glaeser E, 2011, SCIENCE, V333, P592, DOI 10.1126/science.1209264
+   Haggett P, 1969, NETWORK ANAL GEOGRAP
+   Hillier B., 1984, SOCIAL LOGIC SPACE
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jordan David P., 1995, TRANSFORMING PARIS L
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Louail T, 2014, ARXIV14014540
+   Louf R., 2014, ARXIV14018200
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Marshall S., 2006, STREETS AND PATTERNS
+   Masucci AP, 2009, EUR PHYS J B, V71, P259, DOI 10.1140/epjb/e2009-00290-4
+   Mumford Lewis, 1961, CITY HIST
+   Porta S, 2006, ENVIRON PLANN B, V33, P705, DOI 10.1068/b32045
+   Porta S, 2012, URBAN STUD, V49, P1471, DOI 10.1177/0042098011422570
+   Roth C, 2012, J R SOC INTERFACE, V9, P2540, DOI 10.1098/rsif.2012.0259
+   Samuels I., 2012, URBAN FORMS
+   Scellato S, 2006, EUR PHYS J B, V50, P221, DOI 10.1140/epjb/e2006-00066-4
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   Turner BL, 2007, P NATL ACAD SCI USA, V104, P20666, DOI 10.1073/pnas.0704119104
+   UN-Habitat, 2010, PLANN SUST CIT
+   Xie F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/j.1538-4632.2007.00707.x
+   Xie F, 2009, NETW SPAT ECON, V9, P291, DOI 10.1007/s11067-007-9037-4
+   Yerra BM, 2005, ANN REGIONAL SCI, V39, P541, DOI 10.1007/s00168-005-0230-4
+NR 39
+TC 3
+Z9 3
+BN 978-3-319-10629-8
+PY 2015
+BP 317
+EP 337
+DI 10.1007/978-3-319-10629-8_38
+UT WOS:000380446300038
+ER
+
+PT J
+AU hUallachain, BO
+   Kane, K
+   Kenyon, S
+AF hUallachain, Breandan O.
+   Kane, Kevin
+   Kenyon, Sean
+TI Invention in the United States City System
+SO ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+DE central place theory; city system; invention; urban hierarchy; teoria de
+   las plazas centrales; sistema de ciudades; invencion; jerarquia urbana
+ID RESEARCH-AND-DEVELOPMENT; ECONOMIC-GEOGRAPHY; KNOWLEDGE PRODUCTION;
+   AGGLOMERATION ECONOMIES; INNOVATION SYSTEMS; TACIT KNOWLEDGE; SIZE;
+   BIOTECHNOLOGY; SPILLOVERS; HIERARCHY
+AB This article draws on several empirical regularities underlying central place theory (CPT) to enhance understanding of the uneven distribution of invention in the U.S. city system, especially the immense array of specializations that comprise national technological advance. CPT depicts city systems as collections of places in which functions expand in number as city size increases. Small cities have few functions and large cities many. A long-term hierarchical system is successively inclusive if large cities have all of the functions of smaller cities and some additional ones. The functions investigated here are 399 patent classes distributed across 366 U.S. metropolitan areas in the period from 2000 to 2011. Evidence is strong that patent classes with large numbers of awards are widely spread across the city system. This leads to the average sizes of places active in generating patents in the robust classes to be significantly smaller compared with the average sizes of areas that generate patents in unusual classes. Small cities are tied to national technological advance through the generation of patents in the most active and ubiquitous inventive specialties. Inventors in large cities are more likely to invent in unusual domains. Bigger areas are significantly more diversified compared with smaller ones. The system is not, however, strictly successively inclusive. Whereas 88.3 percent of all patent class-area pairs are generated in at least 50 percent of equally sized and bigger areas, only 20.5 percent of pairs are 100 percent strictly hierarchical. ????????(CPT)?????????,???????????????????,?????????????????????????????????,?????????????????????????????,?????????????????????????????????????,?????????????????????????,? 2000 ?? 2011 ???,?????????????,??????????????????????,???????????,????????????????????????????????????,???????????????????????????????????????????????????,?????????????????,?????????????????????????????,???????????????????????????????????????????,???????????????????????,????????????,??????????? Este articulo se apoya en varias regularidades empiricas que estan en el trasfondo de la teoria de las plazas centrales (TPC), para mejorar la comprension de la desigual distribucion de las invenciones en el sistema de ciudades de los EE.UU., especialmente del inmenso surtido de especializaciones que componen el avance tecnologico nacional. La TPC representa los sistemas de ciudades como colecciones de lugares en los que las funciones se expanden en numero a medida que el tamano de la ciudad aumenta. Las ciudades pequenas tienen pocas funciones en tanto que las grandes suelen tener muchas. Un sistema jerarquico de largo alcance es sucesivamente inclusivo si las ciudades grandes tienen todas las funciones de las ciudades mas pequenas, mas unas cuantas adicionales. Las funciones que aqui se investigan son 399 clases de patentes distribuidas en 366 areas metropolitanas de los EE.UU., en el periodo comprendido entre los anos 2000 y 2011. Hay fuerte evidencia de que las clases de patentes distinguidas con un gran numero de galardones se hallan ampliamente distribuidas dentro del sistema de ciudades. Esto conduce a que los tamanos promedio de lugares activos en generar patentes en las clases solidas sean significativamente mas pequenos comparados con los tamanos promedio de areas que generan patentes de clases poco usuales. Las ciudades pequenas se hallan atadas al avance tecnologico nacional a traves de la generacion de patentes en las especialidades de inventiva mas activas y ubicuas.
+   Es muy probable que los inventores de las ciudades grandes contribuyan sus inventos en esferas poco usuales. Las areas mas grandes son significativamente mas diversificadas en comparacion con las areas mas pequenas. Sin embargo, en sentido estricto, el sistema no es sucesivamente inclusivo. Mientras el 88.3 por ciento de todos los pares de patentes por clase-area se generan como minimo en el 50 por ciento de las areas de igual tamano o mas grandes, solamente el 20.5 por ciento de los pares son 100 por ciento estrictamente jerarquicos.
+CR Abel JR, 2014, GROWTH CHANGE, V45, P499, DOI 10.1111/grow.12067
+   Anselin L, 1997, J URBAN ECON, V42, P422, DOI 10.1006/juec.1997.2032
+   ANSELIN L, 2005, GEOGR ANAL, V38, P5, DOI DOI 10.1111/J.0016-7363.2005.00671.X
+   Asheim B. T., 2005, OXFORD HDB INNOVATIO, P291, DOI DOI 10.1093/OXFORDHB/9780199286805.003.0011
+   Audretsch DB, 1996, AM ECON REV, V86, P630
+   Barnes TJ, 2013, ANN ASSOC AM GEOGR, V103, P669, DOI 10.1080/00045608.2011.653732
+   Belussi F, 2012, REG STUD, V46, P165, DOI 10.1080/00343404.2010.497133
+   Belussi F, 2010, RES POLICY, V39, P710, DOI 10.1016/j.respol.2010.01.014
+   BERRY B, 1967, GEOGRAPHY MARKET CTR
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Breschi S., 1997, SYSTEMS INNOVATION T, P130
+   Buesa M, 2010, RES POLICY, V39, P722, DOI 10.1016/j.respol.2010.02.016
+   Cantner U, 2010, TECHNOVATION, V30, P496, DOI 10.1016/j.technovation.2010.04.002
+   Carlino GA, 2007, J URBAN ECON, V61, P389, DOI 10.1016/j.jue.2006.08.003
+   Carlsson B, 1991, J EVOLUTIONARY EC, V1, P93, DOI DOI 10.1007/BF01224915
+   Charlot S., 2014, J ECON GEOGR, DOI [10.1093/jgeg/lbu035, DOI 10.1093/JGEG/LBU035]
+   Christaller W., 1933, ZENTRALEN ORTE SUDDE
+   Cooke P, 1997, RES POLICY, V26, P475, DOI 10.1016/S0048-7333(97)00025-5
+   COOKE P, 1993, ENVIRON PLANN D, V11, P543, DOI 10.1068/d110543
+   Cooke P, 1998, ASS EC FIRMS REGIONS
+   Crescenzi R., 2007, J ECON GEOGR, V7, P693
+   Crescenzi R, 2012, J ECON SURV, V26, P517, DOI 10.1111/j.1467-6419.2012.00726.x
+   D'Agostino G., 2013, REG STUD, V49, P1514
+   D'Allura G. M., 2012, BUSINESS SYSTEM REV, V1, P139, DOI DOI 10.7350/BSR.A12.2012
+   Doloreux D., 2002, TECHNOL SOC, V24, P243, DOI DOI 10.1016/S0160-791X(02)00007-6
+   Duranton G., 2004, HDB REGIONAL URBAN E, V4, P2063, DOI DOI 10.1016/S1574-0080(04)80005-1
+   Feldman MP, 2010, ECON GEOGR, V86, P147
+   Florida R, 2002, ANN ASSOC AM GEOGR, V92, P743, DOI 10.1111/1467-8306.00314
+   Fontes M, 2005, EUR PLAN STUD, V13, P899, DOI 10.1080/09654310500188498
+   Fox J, 2008, APPL REGRESSION ANAL
+   Gertler MS, 2003, J ECON GEOGR, V3, P75, DOI 10.1093/jeg/3.1.75
+   Gilding M, 2008, RES POLICY, V37, P1132, DOI 10.1016/j.respol.2008.04.004
+   Heimeriks G, 2014, J ECON GEOGR, V14, P339, DOI 10.1093/jeg/lbs052
+   Howells JRL, 2002, URBAN STUD, V39, P871, DOI 10.1080/00420980220128354
+   Hsu WT, 2012, ECON J, V122, P903, DOI 10.1111/j.1468-0297.2012.02518.x
+   HUALLACHAIN B, 1999, J REGIONAL SCI, V39, P613, DOI DOI 10.1111/0022-4146.00152
+   Huallachain BO, 2007, J ECON GEOGR, V7, P737, DOI 10.1093/jeg/lbm027
+   HUallachain BO, 2014, ANN REGIONAL SCI, V52, P799, DOI 10.1007/s00168-014-0610-8
+   hUallachain BO, 2012, ECON GEOGR, V88, P165, DOI 10.1111/j.1944-8287.2012.01146.x
+   Leamer EE, 2001, J INT BUS STUD, V32, P641, DOI 10.1057/palgrave.jibs.84909988
+   LOSCH A, 1954, RAUMLICHE ORDNUNG WI
+   Malerba F, 2002, RES POLICY, V31, P247, DOI 10.1016/S0048-7333(01)00139-1
+   Maliszewski PJ, 2012, PAP REG SCI, V91, P743, DOI 10.1111/j.1435-5957.2012.00422.x
+   Markusen A., 1996, J ECON GEOGR, V72, P293, DOI DOI 10.2307/144402
+   Mori T, 2008, J REGIONAL SCI, V48, P165, DOI 10.1111/j.1467-9787.2008.00550.x
+   Mulligan G. F., 2012, ANN REGIONAL SCI, V48, P406
+   Parr JB, 2002, INT REGIONAL SCI REV, V25, P151, DOI 10.1177/016001702762481221
+   Parr JB, 2014, REG STUD, V48, P1926, DOI 10.1080/00343404.2013.799759
+   Pred A., 1977, CITY SYSTEMS ADV EC
+   Pred A. R, 1973, URBAN GROWTH CIRCULA
+   Rodriguez-Pose A, 2008, REG STUD, V42, P51, DOI 10.1080/00343400701654186
+   Scott AJ, 2009, J ECON GEOGR, V9, P207, DOI 10.1093/jeg/lbn051
+   Sonn JW, 2011, URBAN STUD, V48, P2180, DOI 10.1177/0042098010382679
+   Storper M, 2013, KEYS TO THE CITY: HOW ECONOMICS, INSTITUTIONS, SOCIAL INTERACTIONS, AND POLITICS SHAPE DEVELOPMENT, P1
+   Todtling F, 2005, RES POLICY, V34, P1203, DOI 10.1016/j.respol.2005.01.018
+   U. S. Patent Office, 2014, PAT US METR MICR AR
+   ULLMAN E, 1958, PAPERS P REGIONAL SC, V4, P179, DOI DOI 10.1111/J. 1435-5597. 1958. TB01629. X
+   US Census, 2014, POP EST METR MICR ST
+   Youn H., 2014, SYSTEMATIC STRUCTURE
+NR 62
+TC 0
+Z9 0
+SN 0004-5608
+EI 1467-8306
+PD NOV 2
+PY 2015
+VL 105
+IS 6
+BP 1300
+EP 1323
+DI 10.1080/00045608.2015.1074497
+UT WOS:000362947900010
+ER
+
+PT B
+AU Sato, AH
+AF Sato, Aki-Hiro
+BE Ho, H
+   Ooi, BC
+   Zaki, MJ
+   Hu, XH
+   Haas, L
+   Kumar, V
+   Rachuri, S
+   Yu, SP
+   Hsiao, MHI
+   Li, J
+   Luo, F
+   Pyne, S
+   Ogan, K
+TI Microdata Analysis of the Accommodation Survey in Japanese Tourism
+   Statistics
+SO PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA
+CT IEEE International Conference on Big Data
+CY OCT 29-NOV 01, 2015
+CL Santa Clara, CA
+DE micro-data of government statistics; Accommodation Survey in Japanese
+   Tourism Statistics; travel and tourism; grid square statistics (JIS
+   X0410)
+AB The Accommodation Survey in Japanese Tourism Statistics is a quarterly survey conducted by the Japan Tourism Agency of the Ministry of Land, Infrastructure, Transport and Tourism. The aim of the survery is to capture a whole picture of monthly travel and tourism trends in Japan and obtain data to inform for Japanese tourism policies. Data collected include the total number of travelers, the number of foreign travelers with their nationality and the number of Japanese travelers with their residential prefecture. These data are collected from hotels, inns, and other private and public accommodations listed in the establishment frame database defined in Article 27 of the Statistics Act. In this study, the 1-km grid square statistics data were generated by using micro-data from 50,802 accommodations that took place from January 2013 to June 2014 (18 months); use of this data is in accordance with Article 33 of the Statistics Act. These data were analyzed for spatio-temporal patterns of Japanese travel trends. The 1-km grid square statistics data were computed by converting postal addresses into geographical information expressed as latitude and longitude and encoding it into 1-km grid square code standardized in JIS X0410. The relationships between the total number of travelers and the total number of foreign travelers in each 1-km grid square were clarified. It was confirmed that the power-law relationship between the number of travelers and the number of foreign travelers exists. The power-law exponent is greater than 1 for 15 months of the observation period. This implies that foreign travelers tend to choose accommodations concentrated in several areas, including areas in which Japanese travelers frequently visit and stay. Furthermore, Japanese travelers tend to stay in some areas close to their residence prefecture.
+OI Sato, Aki-Hiro/0000-0001-7410-6324
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Friedman J, 2013, ENVIRONMETRICS, V24, P306, DOI 10.1002/env.2213
+   Ministry of Internal Affairs and Communications in Japan Statistics Bureau, 2015, GRID SQUAR STAT
+NR 3
+TC 1
+Z9 1
+BN 978-1-4799-9925-5
+PY 2015
+BP 2700
+EP 2708
+UT WOS:000380404600338
+ER

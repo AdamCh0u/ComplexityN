@@ -1,0 +1,506 @@
+
+PT J
+AU Gherardi, M
+   Lagomarsino, MC
+AF Gherardi, Marco
+   Lagomarsino, Marco Cosentino
+TI Characterizing the size and shape of sea ice floes
+SO SCIENTIFIC REPORTS
+ID BRITTLE SOLIDS; SCALING THEORY; FRAGMENTATION; FRACTURE; DISTRIBUTIONS;
+   MODELS; ANTARCTICA; ZONE
+AB Monitoring drift ice in the Arctic and Antarctic regions directly and by remote sensing is important for the study of climate, but a unified modeling framework is lacking. Hence, interpretation of the data, as well as the decision of what to measure, represent a challenge for different fields of science. To address this point, we analyzed, using statistical physics tools, satellite images of sea ice from four different locations in both the northern and southern hemispheres, and measured the size and the elongation of ice floes (floating pieces of ice). We find that (i) floe size follows a distribution that can be characterized with good approximation by a single length scale delta l, which we discuss in the framework of stochastic fragmentation models, and (ii) the deviation of their shape from circularity is reproduced with remarkable precision by a geometric model of coalescence by freezing, based on random Voronoi tessellations, with a single free parameter sigma expressing the shape disorder. Although the physical interpretations remain open, this advocates the parameters delta l and sigma as two independent indicators of the environment in the polar regions, which are easily accessible by remote sensing.
+OI Cosentino Lagomarsino, Marco/0000-0003-0235-0445; Gherardi,
+   Marco/0000-0002-7745-8269
+CR [Anonymous], QUICKBIRD IM PROD
+   Astrom JA, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.245506
+   Astrom JA, 2006, ADV PHYS, V55, P247, DOI 10.1080/00018730600731907
+   Banavar JR, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.068104
+   Ben-Naim E, 2000, PHYS LETT A, V275, P48, DOI 10.1016/S0375-9601(00)00570-3
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bhattacharjee SM, 2001, J PHYS A-MATH GEN, V34, P6375, DOI 10.1088/0305-4470/34/33/302
+   Caracciolo S, 2011, J PHYS A-MATH THEOR, V44, DOI 10.1088/1751-8113/44/11/115004
+   CHENG Z, 1988, PHYS REV LETT, V60, P2450, DOI 10.1103/PhysRevLett.60.2450
+   Chmel A, 2005, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2005/02/P02002
+   DigitalGlobe Inc, GEOEYE 1 DAT SHEET
+   dos Santos FPM, 2007, PHYSICA A, V374, P680, DOI 10.1016/j.physa.2006.08.058
+   Dumont D, 2011, J GEOPHYS RES-OCEANS, V116, DOI 10.1029/2010JC006682
+   Feltham DL, 2005, PHILOS T R SOC A, V363, P1677, DOI 10.1098/rsta.2005.1601
+   Fineberg J, 1999, PHYS REP, V313, P1, DOI 10.1016/S0370-1573(98)00085-4
+   Gherardi M, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.032128
+   Gherardi M, 2013, P NATL ACAD SCI USA, V110, P21054, DOI 10.1073/pnas.1311124110
+   Gherardi M, 2010, J STAT PHYS, V140, P1115, DOI 10.1007/s10955-010-0031-8
+   GILVARRY JJ, 1961, J APPL PHYS, V32, P391, DOI 10.1063/1.1736016
+   Giometto A, 2013, P NATL ACAD SCI USA, V110, P4646, DOI 10.1073/pnas.1301552110
+   Hafver A, 2014, EPL-EUROPHYS LETT, V105, DOI 10.1209/0295-5075/105/56004
+   Herman A, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.056104
+   Herman A, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.066123
+   Hopkins MA, 2004, J GEOPHYS RES-OCEANS, V109, DOI 10.1029/2003JC001855
+   Hulbe CL, 2010, J GLACIOL, V56, P459, DOI 10.3189/002214310792447743
+   Hunter JD, 2007, COMPUT SCI ENG, V9, P90, DOI 10.1109/MCSE.2007.55
+   Inoue J., 2004, GEOPHYS RES LETT, V31
+   Kekalainen P, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.026112
+   Keulen N, 2007, J STRUCT GEOL, V29, P1282, DOI 10.1016/j.jsg.2007.04.003
+   Kok JF, 2011, P NATL ACAD SCI USA, V108, P1016, DOI 10.1073/pnas.1014798108
+   Korsnes R, 2004, PHYSICA A, V331, P291, DOI 10.1016/S0378-4371(03)00627-7
+   Krapivsky PL, 2004, J PHYS A-MATH GEN, V37, P2863, DOI 10.1088/0305-4470/37/8/002
+   Kun F, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.025504
+   Lin PK, 2007, PHYS REV E, V76, DOI 10.1103/PhysRevE.76.011806
+   Nihashi S, 2005, J GEOPHYS RES-OCEANS, V110, DOI 10.1029/2003JC002235
+   O'Brien DP, 2003, ICARUS, V164, P334, DOI 10.1016/S0019-1035(03)00145-3
+   Okabe Atsuyuki, 1992, SPATIAL TESSELLATION
+   Perovich DK, 2002, J GEOPHYS RES-OCEANS, V107, DOI 10.1029/2000JC000449
+   Portyankina G, 2012, J GEOPHYS RES-PLANET, V117, DOI 10.1029/2011JE003917
+   Raghavachary S., 2002, ACM SIGGRAPH 2002 C, P187
+   Redner S., 1990, P NATO ASI DIS FRACT
+   Selinger P., 2011, POTRACE POLYGON BASE
+   Shekhawat A, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.185505
+   Strano E., 2012, SCI REP, V2
+   Timar G, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.095502
+   Toyota T, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2005GL024556
+   Toyota T, 2011, DEEP-SEA RES PT II, V58, P1182, DOI 10.1016/j.dsr2.2010.10.034
+   Weiss J, 2004, CR PHYS, V5, P735, DOI 10.1016/j.crhy.2004.09.005
+   Weiss J, 2001, ENG FRACT MECH, V68, P1975, DOI 10.1016/S0013-7944(01)00034-0
+   Williams TD, 2013, OCEAN MODEL, V71, P81, DOI 10.1016/j.ocemod.2013.05.010
+NR 50
+TC 6
+Z9 7
+SN 2045-2322
+PD MAY 27
+PY 2015
+VL 5
+AR 10226
+DI 10.1038/srep10226
+UT WOS:000355533400001
+PM 26014797
+ER
+
+PT J
+AU Kennedy, CA
+   Stewart, I
+   Facchini, A
+   Cersosimo, I
+   Mele, R
+   Chen, B
+   Uda, M
+   Kansal, A
+   Chiu, A
+   Kim, KG
+   Dubeux, C
+   La Rovere, EL
+   Cunha, B
+   Pincetl, S
+   Keirstead, J
+   Barles, S
+   Pusaka, S
+   Gunawan, J
+   Adegbile, M
+   Nazariha, M
+   Hoque, S
+   Marcotullio, PJ
+   Otharan, FG
+   Genena, T
+   Ibrahim, N
+   Farooqui, R
+   Cervantes, G
+   Sahin, AD
+AF Kennedy, Christopher A.
+   Stewart, Iain
+   Facchini, Angelo
+   Cersosimo, Igor
+   Mele, Renata
+   Chen, Bin
+   Uda, Mariko
+   Kansal, Arun
+   Chiu, Anthony
+   Kim, Kwi-gon
+   Dubeux, Carolina
+   La Rovere, Emilio Lebre
+   Cunha, Bruno
+   Pincetl, Stephanie
+   Keirstead, James
+   Barles, Sabine
+   Pusaka, Semerdanta
+   Gunawan, Juniati
+   Adegbile, Michael
+   Nazariha, Mehrdad
+   Hoque, Shamsul
+   Marcotullio, Peter J.
+   Gonzalez Otharan, Florencia
+   Genena, Tarek
+   Ibrahim, Nadine
+   Farooqui, Rizwan
+   Cervantes, Gemma
+   Sahin, Ahmet Duran
+TI Energy and material flows of megacities
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+DE sustainability; sustainable development; urbanization; urban metabolism;
+   industrial ecology
+ID URBAN METABOLISM; GLOBAL CHANGE; CITIES; WATER; CONSUMPTION; FOOTPRINTS;
+   WASTE; PEAK
+AB Understanding the drivers of energy and material flows of cities is important for addressing global environmental challenges. Accessing, sharing, and managing energy and material resources is particularly critical for megacities, which face enormous social stresses because of their sheer size and complexity. Here we quantify the energy and material flows through the world's 27 megacities with populations greater than 10 million people as of 2010. Collectively the resource flows through megacities are largely consistent with scaling laws established in the emerging science of cities. Correlations are established for electricity consumption, heating and industrial fuel use, ground transportation energy use, water consumption, waste generation, and steel production in terms of heating-degree-days, urban form, economic activity, and population growth. The results help identify megacities exhibiting high and low levels of consumption and those making efficient use of resources. The correlation between per capita electricity use and urbanized area per capita is shown to be a consequence of gross building floor area per capita, which is found to increase for lower-density cities. Many of the megacities are growing rapidly in population but are growing even faster in terms of gross domestic product (GDP) and energy use. In the decade from 2001-2011, electricity use and ground transportation fuel use in megacities grew at approximately half the rate of GDP growth.
+RI Cersosimo, Igor/J-6951-2014; Chen, Bin/A-6951-2012
+OI Chen, Bin/0000-0002-5488-6850; Chiu, Anthony Shun
+   Fung/0000-0003-2411-7302; Ibrahim, Nadine/0000-0003-1241-5935
+CR [Anonymous], 2008, NANFANG RIBAO   0806
+   Barles S, 2009, J IND ECOL, V13, P898, DOI 10.1111/j.1530-9290.2009.00169.x
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Batty Michael., 2013, NEW SCI CITIES
+   Baynes TM, 2012, CURRENT OPINIONS ENV, V4, P1
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bristow D, 2015, J IND ECOL, V19, P211, DOI 10.1111/jiec.12239
+   Brunner PH, 2004, PRACTICAL HDB MAT FL
+   Derrible S, 2010, PHYSICA A, V389, P3678, DOI 10.1016/j.physa.2010.04.008
+   Earth Policy Institute, 2012, GROSS WORLD PROD 195
+   Echenique MH, 2012, J AM PLANN ASSOC, V78, P121, DOI 10.1080/01944363.2012.666731
+   European Environmental Agency, 2013, MAN MUN SOL WAST REV
+   Eurostat, 2013, EUR EC WID MAT FLOW
+   Freire M., 2001, CHALLENGE URBAN GOVT
+   Georgescu M, 2014, P NATL ACAD SCI USA, V111, P2909, DOI 10.1073/pnas.1322280111
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Grubler A, 1998, TECHNOLOGY GLOBAL CH
+   Grubler A., 2012, GLOBAL ENERGY ASSESS, P1307, DOI DOI 10.1017/CBO9780511793677.024
+   Hoornweg D., 2013, BUILDING SUSTAINABIL
+   Hoornweg D, 2015, J IND ECOL, V19, P117, DOI 10.1111/jiec.12165
+   Hoornweg D, 2013, NATURE, V502, P615, DOI 10.1038/502615a
+   Hoornweg Daniel, 2012, URBAN DEV SERIES KNO
+   Jenerette GD, 2006, ECOL ECON, V57, P346, DOI 10.1016/j.ecolecon.2005.04.016
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kennedy C, 2014, ECOL INDIC, V47, P7, DOI 10.1016/j.ecolind.2014.07.039
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kennedy C, 2010, ENERG POLICY, V38, P4828, DOI 10.1016/j.enpol.2009.08.050
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kim E, 2012, REG ENVIRON CHANGE, V12, P295, DOI 10.1007/s10113-011-0275-0
+   Kraas F, 2007, GEOGR J, V173, P79, DOI 10.1111/j.1475-4959.2007.232_2.x
+   Liddle B, 2014, GLOBAL ENVIRON CHANG, V24, P42, DOI 10.1016/j.gloenvcha.2013.11.013
+   Liu GY, 2012, ECOL INFORM, V10, P2, DOI 10.1016/j.ecoinf.2011.10.001
+   Mulder E, 2008, WORLD SCI, V6, P2
+   Parrish DD, 2009, SCIENCE, V326, P674, DOI 10.1126/science.1176064
+   Population Reference Bureau, 2010, WORLD POP DAT
+   Rickwood P, 2008, URBAN POLICY RES, V26, P57, DOI 10.1080/08111140701629886
+   Rockstrom J, 2009, NATURE, V461, P472, DOI 10.1038/461472a
+   Sorensen A., 2011, MEGACITIES URBAN FOR
+   Stratmann B, 2011, J DEV SOC, V27, P229, DOI 10.1177/0169796X1102700402
+   Tokyo Metropolitan Government, 2010, BUR WAT LEAK PREV GU
+   UN, 2006, WORLD URB PROSP 2005
+   UN. United Nations. Department of Economic and Social Affairs, 2012, WORLD URB PROSP 2011
+   United Nations Council on Trade and Development (UNCTAD), 2006, REV MAR TRANSP
+   Varis O, 2006, INT J WATER RESOUR D, V22, P377, DOI 10.1080/07900620600684550
+   Varis O, 2006, INT J WATER RESOUR D, V22, P199, DOI 10.1080/07900620600648399
+   Weisz H, 2010, CURR OPIN SUST, V2, P185, DOI 10.1016/j.cosust.2010.05.010
+   World Economic Forum, 2014, WORLD EC FOR GLOB RI
+NR 49
+TC 90
+Z9 92
+SN 0027-8424
+PD MAY 12
+PY 2015
+VL 112
+IS 19
+BP 5985
+EP 5990
+DI 10.1073/pnas.1504315112
+UT WOS:000354390600050
+PM 25918371
+ER
+
+PT J
+AU Hsiehchen, D
+   Espinoza, M
+   Hsieh, A
+AF Hsiehchen, David
+   Espinoza, Magdalena
+   Hsieh, Antony
+TI The Cooperative Landscape of Multinational Clinical Trials
+SO PLOS ONE
+ID INTERNATIONAL COLLABORATION; NETWORK STRUCTURE; SCIENCE; CITIES; GROWTH
+AB The scale and nature of cooperative efforts spanning geopolitical borders in clinical research have not been elucidated to date. In a cross-sectional study of 110,428 interventional trials registered in Clinicaltrials.gov, we characterized the evolution, trial demographics, and network properties of multinational clinical research. We reveal that the relative growth of international collaboratives has remained stagnant in the last two decades, although clinical trials have evolved to become much larger in scale. Multinational clinical trials are also characterized by higher patient enrollments, industry funding, and specific clinical disciplines including oncology and infectious disease. Network analyses demonstrate temporal shifts in collaboration patterns between countries and world regions, with developing nations now collaborating more within themselves, although Europe remains the dominant contributor to multinational clinical trials worldwide. Performances in network centrality measures also highlight the differential contribution of nations in the global research network. A city-level clinical trial network analysis further demonstrates how collaborative ties decline with physical distance. This study clarifies evolving themes and highlights potential growth mechanisms and barriers in multinational clinical trials, which may be useful in evaluating the role of national and local policies in organizing transborder efforts in clinical endeavors.
+CR Aad G, 2012, PHYS LETT B, V716, P1, DOI 10.1016/j.physletb.2012.08.020
+   Adams J, 2012, NATURE, V490, P335, DOI 10.1038/490335a
+   Adams J, 2013, NATURE, V497, P557, DOI 10.1038/497557a
+   Albert R, 2000, NATURE, V406, P378, DOI 10.1038/35019019
+   Bach PB, 2007, JAMA-J AM MED ASSOC, V297, P953, DOI 10.1001/jama.297.9.953
+   Barabasi AL, 2000, PHYSICA A, V281, P69, DOI 10.1016/S0378-4371(00)00018-2
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabasi AL, 2009, SCIENCE, V325, P412, DOI 10.1126/science.1173299
+   Baur M, 2002, LECT NOTES COMPUT SC, V2265, P463
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Butler D, 2014, NATURE, V513, P13, DOI 10.1038/513013a
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cohen MS, 2011, NEW ENGL J MED, V365, P493, DOI 10.1056/NEJMoa1105243
+   Dunham I, 2012, NATURE, V489, P57, DOI 10.1038/nature11247
+   Farkouh ME, 2012, NEW ENGL J MED, V367, P2375, DOI 10.1056/NEJMoa1211585
+   Guimera R, 2005, SCIENCE, V308, P697, DOI 10.1126/science.1106340
+   Hand E, 2014, SCIENCE, V346, P1442, DOI 10.1126/science.346.6216.1442
+   Hodi FS, 2010, NEW ENGL J MED, V363, P711, DOI 10.1056/NEJMoa1003466
+   Jones CW, 2013, BMJ-BRIT MED J, V347, DOI 10.1136/bmj.f6104
+   Katsnelson A, 2012, NATURE, V481, P250, DOI 10.1038/481250a
+   Krzywinski M, 2009, GENOME RES, V19, P1639, DOI 10.1101/gr.092759.109
+   Landherr A, 2010, BUS INFORM SYST ENG+, V2, P371, DOI 10.1007/s12599-010-0127-3
+   Leydesdorff L, 2008, J INFORMETR, V2, P317, DOI 10.1016/j.joi.2008.07.003
+   Milojevic S, 2014, P NATL ACAD SCI USA, V111, P3984, DOI 10.1073/pnas.1309723111
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Pan RK, 2012, SCI REP-UK, V2, DOI [10.1038/srep00902, 10.1038/srep00551]
+   Reardon S, 2014, NATURE, V506, P143, DOI 10.1038/506143a
+   Wagner CS, 2005, RES POLICY, V34, P1608, DOI 10.1016/j.respol.2005.08.002
+NR 29
+TC 3
+Z9 3
+SN 1932-6203
+PD JUN 23
+PY 2015
+VL 10
+IS 6
+AR UNSP e0130930
+DI 10.1371/journal.pone.0130930
+UT WOS:000356901900069
+PM 26103155
+ER
+
+PT J
+AU Kaushal, SS
+   McDowell, WH
+   Wollheim, WM
+   Newcomer Johnson, TA
+   Mayer, PM
+   Belt, KT
+   Pennino, MJ
+AF Kaushal, Sujay S.
+   McDowell, William H.
+   Wollheim, Wilfred M.
+   Newcomer Johnson, Tamara A.
+   Mayer, Paul M.
+   Belt, Kenneth T.
+   Pennino, Michael J.
+TI Urban Evolution: The Role of Water
+SO WATER
+ID STREAM RESTORATION; UNITED-STATES; LONG-TERM; PRESSURE CONTROL; RIVER
+   SYSTEMS; LAND-USE; ANTIBIOTIC-RESISTANCE; ECOSYSTEM METABOLISM;
+   FUTURE-DIRECTIONS; ECOLOGICAL THEORY
+AB The structure, function, and services of urban ecosystems evolve over time scales from seconds to centuries as Earth's population grows, infrastructure ages, and sociopolitical values alter them. In order to systematically study changes over time, the concept of "urban evolution" was proposed. It allows urban planning, management, and restoration to move beyond reactive management to predictive management based on past observations of consistent patterns. Here, we define and review a glossary of core concepts for studying urban evolution, which includes the mechanisms of urban selective pressure and urban adaptation. Urban selective pressure is an environmental or societal driver contributing to urban adaptation. Urban adaptation is the sequential process by which an urban structure, function, or services becomes more fitted to its changing environment or human choices. The role of water is vital to driving urban evolution as demonstrated by historical changes in drainage, sewage flows, hydrologic pulses, and long-term chemistry. In the current paper, we show how hydrologic traits evolve across successive generations of urban ecosystems via shifts in selective pressures and adaptations over time. We explore multiple empirical examples including evolving: (1) urban drainage from stream burial to stormwater management; (2) sewage flows and water quality in response to wastewater treatment; (3) amplification of hydrologic pulses due to the interaction between urbanization and climate variability; and (4) salinization and alkalinization of fresh water due to human inputs and accelerated weathering. Finally, we propose a new conceptual model for the evolution of urban waters from the Industrial Revolution to the present day based on empirical trends and historical information. Ultimately, we propose that water itself is a critical driver of urban evolution that forces urban adaptation, which transforms the structure, function, and services of urban landscapes, waterways, and civilizations over time.
+RI McDowell, William/E-9767-2010; Newcomer Johnson, Tamara/D-1045-2013
+OI McDowell, William/0000-0002-8739-9047; Newcomer Johnson,
+   Tamara/0000-0002-2496-7641; Mayer, Paul/0000-0002-8550-1386
+CR Alberti M, 2003, BIOSCIENCE, V53, P1169, DOI 10.1641/0006-3568(2003)053[1169:IHIEOA]2.0.CO;2
+   Araujo L, 2006, WATER RESOUR MANAG, V20, P133, DOI 10.1007/s11269-006-4635-3
+   Bain DJ, 2012, BIOSCIENCE, V62, P575, DOI 10.1525/bio.2012.62.6.8
+   Barles S, 2007, HYDROL EARTH SYST SC, V11, P1757, DOI 10.5194/hess-11-1757-2007
+   Barnes RT, 2009, CHEM GEOL, V266, P318, DOI 10.1016/j.chemgeo.2009.06.018
+   Baum R, 2013, ENVIRON SCI TECHNOL, V47, P1994, DOI 10.1021/es304284f
+   Beaulieu JJ, 2014, BIOGEOCHEMISTRY, V121, P107, DOI 10.1007/s10533-014-9971-4
+   Belt K.T., 2012, P WATER ENV FED, V15, P262
+   Belt KT, 2007, J WATER HEALTH, V5, P395, DOI 10.2166/wh.2007.035
+   Bernhardt ES, 2008, ANN NY ACAD SCI, V1134, P61, DOI 10.1196/annals.1439.014
+   Bernhardt ES, 2011, ECOL APPL, V21, P1926, DOI 10.1890/10-1574.1
+   Bernhardt ES, 2005, SCIENCE, V308, P636, DOI 10.1126/science.1109769
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bhatt MP, 2014, ENVIRON EARTH SCI, V71, P911, DOI 10.1007/s12665-013-2494-9
+   Billen G, 1999, SCI TOTAL ENVIRON, V243, P43, DOI 10.1016/S0048-9697(99)00327-7
+   Blake Nelson Manfred, 1956, WATER CITIES HIST UR
+   Booth DB, 1997, J AM WATER RESOUR AS, V33, P1077, DOI 10.1111/j.1752-1688.1997.tb04126.x
+   Boynton WR, 2008, ESTUAR COAST, V31, P623, DOI 10.1007/s12237-008-9052-9
+   Broadhead AT, 2013, WATER RES, V47, P4752, DOI 10.1016/j.watres.2013.05.020
+   Brown RR, 2009, WATER SCI TECHNOL, V59, P839, DOI 10.2166/wst.2009.028
+   Bukaveckas PA, 2007, ENVIRON SCI TECHNOL, V41, P1570, DOI 10.1021/es061618x
+   Carey RO, 2014, ENVIRON SCI TECHNOL, V48, P7756, DOI 10.1021/es500252j
+   Chen NW, 2012, SCI TOTAL ENVIRON, V431, P357, DOI 10.1016/j.scitotenv.2012.05.072
+   Childers DL, 2014, LANDSCAPE URBAN PLAN, V125, P320, DOI 10.1016/j.landurbplan.2014.01.022
+   Collins KA, 2010, ECOL ENG, V36, P1507, DOI 10.1016/j.ecoleng.2010.03.015
+   Connor NP, 2014, APPL GEOCHEM, V47, P209, DOI 10.1016/j.apgeochem.2014.06.012
+   Cooper CA, 2014, BIOGEOCHEMISTRY, V121, P149, DOI 10.1007/s10533-014-9968-z
+   Corsi SR, 2015, SCI TOTAL ENVIRON, V508, P488, DOI 10.1016/j.scitotenv.2014.12.012
+   Costanza R, 2007, AMBIO, V36, P522, DOI 10.1579/0044-7447(2007)36[522:SOCWCW]2.0.CO;2
+   Craig LS, 2008, FRONT ECOL ENVIRON, V6, P529, DOI 10.1890/070080
+   Cui SH, 2013, P NATL ACAD SCI USA, V110, P2052, DOI 10.1073/pnas.1221638110
+   Cun C, 1997, SCI TOTAL ENVIRON, V208, P59, DOI 10.1016/S0048-9697(97)00277-5
+   Daley ML, 2009, J N AM BENTHOL SOC, V28, P929, DOI 10.1899/09-052.1
+   Dang XH, 2013, WATER-SUI, V5, P643, DOI 10.3390/w5020643
+   Darwin C., 1859, ORIGIN SPECIES
+   Davies PJ, 2010, URBAN WATER J, V7, P233, DOI 10.1080/1573062X.2010.484502
+   De Feo G, 2013, WATER-SUI, V5, P1996, DOI 10.3390/w5041996
+   Deo RP, 2013, WATER-SUI, V5, P1346, DOI 10.3390/w5031346
+   Dermody BJ, 2014, HYDROL EARTH SYST SC, V18, P5025, DOI 10.5194/hess-18-5025-2014
+   Dietz ME, 2007, WATER AIR SOIL POLL, V186, P351, DOI 10.1007/s11270-007-9484-z
+   Drury B, 2013, APPL ENVIRON MICROB, V79, P1897, DOI 10.1128/AEM.03527-12
+   Elmore AJ, 2008, FRONT ECOL ENVIRON, V6, P308, DOI 10.1890/070101
+   Fecarotta O, 2015, WATER RESOUR MANAG, V29, P699, DOI 10.1007/s11269-014-0836-3
+   Filoso S, 2011, ECOL APPL, V21, P1989, DOI 10.1890/10-0854.1
+   Fincher LM, 2009, J ENVIRON QUAL, V38, P997, DOI 10.2134/jeq2008.0077
+   Galloway JN, 2008, SCIENCE, V320, P889, DOI 10.1126/science.1136674
+   Garcia-Fresca B, 2005, REV ENG GEOL, V16, P123, DOI 10.1130/2005.4016(11)
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Grimm NB, 2005, J N AM BENTHOL SOC, V24, P626, DOI 10.1899/0887-3593(2005)024\[0626:NRATIU\]2.0.CO;2
+   Groffman PM, 2014, FRONT ECOL ENVIRON, V12, P74, DOI 10.1890/120374
+   Groffman PM, 2004, ECOSYSTEMS, V7, P393, DOI 10.1007/s10021-003-0039-x
+   Grove JM, 2014, ENVIRON MANAGE, V54, P402, DOI 10.1007/s00267-014-0310-2
+   Hager GW, 2013, FRONT ECOL ENVIRON, V11, P28, DOI 10.1890/120069
+   Herz RK, 2002, WA SCI TECHNOL, V2, P51
+   Hope AJ, 2014, BIOGEOCHEMISTRY, V121, P167, DOI 10.1007/s10533-013-9900-y
+   Hopkins KG, 2014, LANDSCAPE ECOL, V29, P413, DOI 10.1007/s10980-013-9972-z
+   Howe A.J., 1910, GEOLOGY BUILDING STO
+   Jackson RB, 2001, ECOL APPL, V11, P1027, DOI 10.1890/1051-0761(2001)011[1027:WIACW]2.0.CO;2
+   Janke BD, 2014, BIOGEOCHEMISTRY, V121, P209, DOI 10.1007/s10533-013-9926-1
+   Johnson T. A. N., 2014, Biogeochemistry, V121, P81, DOI 10.1007/s10533-014-9999-5
+   Jones DK, 2014, GEOMORPHOLOGY, V219, P42, DOI 10.1016/j.geomorph.2014.04.038
+   Kaushal SS, 2006, ECOL APPL, V16, P299, DOI 10.1890/05-0134
+   Kaushal SS, 2005, P NATL ACAD SCI USA, V102, P13517, DOI 10.1073/pnas.0506414102
+   Kaushal SS, 2008, ENVIRON SCI TECHNOL, V42, P5872, DOI 10.1021/es800264f
+   Kaushal SS, 2008, ECOL APPL, V18, P789, DOI 10.1890/07-1159.1
+   Kaushal SS, 2014, BIOGEOCHEMISTRY, V121, P1, DOI 10.1007/s10533-014-0014-y
+   Kaushal SS, 2014, BIOGEOCHEMISTRY, V121, P23, DOI 10.1007/s10533-014-9979-9
+   Kaushal SS, 2014, J AM WATER RESOUR AS, V50, P585, DOI 10.1111/jawr.12204
+   Kaushal SS, 2013, ENVIRON SCI TECHNOL, V47, P10302, DOI 10.1021/es401046s
+   Kaushal SS, 2012, URBAN ECOSYST, V15, P409, DOI 10.1007/s11252-012-0226-7
+   Kaushal SS, 2011, ENVIRON SCI TECHNOL, V45, P8225, DOI 10.1021/es200779e
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   King RS, 2011, ECOL APPL, V21, P2833, DOI 10.1890/10-0882.1
+   Lake PS, 2007, FRESHWATER BIOL, V52, P597, DOI 10.1111/j.1365-2427.2006.01709.x
+   Larson EK, 2012, URBAN ECOSYST, V15, P71, DOI 10.1007/s11252-011-0208-1
+   Leopold L. B., 1968, HYDROLOGY URBAN LAND
+   Lepori F, 2005, J APPL ECOL, V42, P228, DOI 10.1111/j.1365-2664.2004.00965.x
+   Li HB, 2012, CHEMOSPHERE, V88, P1161, DOI 10.1016/j.chemosphere.2012.03.061
+   Liberatore S, 2009, WATER RESOUR MANAG, V23, P1479, DOI 10.1007/s11269-008-9337-6
+   LIKENS GE, 1972, ENVIRONMENT, V14, P33, DOI 10.1080/00139157.1972.9933001
+   Lofrano G, 2013, WATER-SUI, V5, P1662, DOI 10.3390/w5041662
+   Lookingbill TR, 2009, ECOL SOC, V14
+   Maal-Bared R, 2013, SCI TOTAL ENVIRON, V443, P315, DOI 10.1016/j.scitotenv.2012.10.106
+   Mays L, 2013, WATER-SUI, V5, P1916, DOI 10.3390/w5041916
+   McDonald RI, 2014, GLOBAL ENVIRON CHANG, V27, P96, DOI 10.1016/j.gloenvcha.2014.04.022
+   McDowell WH, 2001, FOREST ECOL MANAG, V154, P443, DOI 10.1016/S0378-1127(01)00514-X
+   McMillan SK, 2014, J AM WATER RESOUR AS, V50, P626, DOI 10.1111/jawr.12205
+   Melosi Martin, 2000, SANITARY CITY URBAN
+   Meybeck M, 2003, PHILOS T R SOC B, V358, P1935, DOI 10.1098/rstb.2003.1379
+   Morse NB, 2014, ECOL SOC, V19, DOI 10.5751/ES-06192-190212
+   Newcomer TA, 2012, ECOL MONOGR, V82, P449, DOI 10.1890/12-0458.1
+   O'Driscoll M, 2010, WATER-SUI, V2, P605, DOI 10.3390/w2030605
+   Palmer MA, 1997, RESTOR ECOL, V5, P291, DOI 10.1046/j.1526-100X.1997.00543.x
+   Palmer MA, 2014, ANNU REV ECOL EVOL S, V45, P247, DOI 10.1146/annurev-ecolsys-120213-091935
+   Passeport E, 2013, ENVIRON MANAGE, V51, P392, DOI 10.1007/s00267-012-9970-y
+   Pastore CL, 2010, ENVIRON SCI TECHNOL, V44, P8798, DOI 10.1021/es102672c
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Pennino MJ, 2014, BIOGEOCHEMISTRY, V121, P247, DOI 10.1007/s10533-014-9958-1
+   Pickett STA, 2011, J ENVIRON MANAGE, V92, P331, DOI 10.1016/j.jenvman.2010.08.022
+   Pickett STA, 2011, URBAN ECOSYST, V14, P319, DOI 10.1007/s11252-011-0166-7
+   Pincetl S., 2010, LOCAL ENV, V15, P43
+   Potter JD, 2014, BIOGEOCHEMISTRY, V121, P271, DOI 10.1007/s10533-013-9914-5
+   Pouyat RV, 2007, SOIL SCI SOC AM J, V71, P1010, DOI 10.2136/sssaj2006.0164
+   Pouyat RV, 2006, J ENVIRON QUAL, V35, P1566, DOI 10.2134/jeq2005.0215
+   Pouyat RV, 2003, POTENTIAL US FOREST
+   Prasad MBK, 2013, APPL GEOCHEM, V31, P209, DOI 10.1016/j.apgeochem.2013.01.006
+   Raciti SM, 2011, ECOSYSTEMS, V14, P287, DOI 10.1007/s10021-010-9409-3
+   Ramirez A, 2014, ECOL SOC, V19, DOI 10.5751/ES-06481-190245
+   Raymond PA, 2008, NATURE, V451, P449, DOI 10.1038/nature06505
+   Redman CL, 2005, POPUL ENVIRON, V26, P505, DOI 10.1007/s11111-005-0010-1
+   Rosi-Marshall EJ, 2012, ECOSYSTEMS, V15, P867, DOI 10.1007/s10021-012-9553-z
+   Roy AH, 2009, J N AM BENTHOL SOC, V28, P911, DOI 10.1899/08-178.1
+   Ruhl HA, 2010, P NATL ACAD SCI USA, V107, P16566, DOI 10.1073/pnas.1003590107
+   Selvaraj KK, 2013, WATER SCI TECHNOL, V68, P2067, DOI 10.2166/wst.2013.447
+   Sivirichi GM, 2011, J ENVIRON MONITOR, V13, P288, DOI 10.1039/c0em00055h
+   Spiller M, 2015, WATER RESOUR MANAG, V29, P1979, DOI 10.1007/s11269-015-0923-0
+   Spiller M, 2013, WATER RESOUR MANAG, V27, P75, DOI 10.1007/s11269-012-0161-7
+   Steele MK, 2014, ECOL APPL, V24, P1070, DOI 10.1890/13-0983.1
+   Steele MK, 2014, ECOSYSTEMS, V17, P685, DOI 10.1007/s10021-014-9751-y
+   Stets EG, 2014, SCI TOTAL ENVIRON, V488, P280, DOI 10.1016/j.scitotenv.2014.04.054
+   Sunderland D, 1999, Urban History, V26, P349, DOI 10.1017/S0963926899000322
+   TARR JA, 1984, TECHNOL CULT, V25, P226, DOI 10.2307/3104713
+   Tarr JA, 2002, J URBAN HIST, V28, P511, DOI 10.1177/0096144202028005001
+   *UN POP DIV, 2002, WORLD URB PROSP 2001
+   United Nations World Water Assessment Programme, 2010, WAT SUST URB HUM SET
+   Utz RM, 2011, ECOL APPL, V21, P402, DOI 10.1890/09-1786.1
+   Vorosmarty CJ, 2013, CURR OPIN ENV SUST, V5, P539, DOI 10.1016/j.cosust.2013.10.005
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P690, DOI 10.1899/0887-3593(2005)024\\[0690:SRIUCT\\]2.0.CO;2
+   Walski T, 2006, J AM WATER WORKS ASS, V98, P147
+   Wang KJ, 2006, CEMENT CONCRETE COMP, V28, P173, DOI 10.1016/j.cemconcomp.2005.07.006
+   Wang RY, 2014, HYDROL PROCESS, V28, P5530, DOI 10.1002/hyp.10057
+   Webb RH, 2014, REQUIEM SANTA CRUZ E
+   Wenger SJ, 2009, J N AM BENTHOL SOC, V28, P1080, DOI 10.1899/08-186.1
+   Wild TC, 2011, WATER ENVIRON J, V25, P412, DOI 10.1111/j.1747-6593.2010.00236.x
+   Wollheim WM, 2015, ESTUAR COAST, V38, pS19, DOI 10.1007/s12237-013-9646-8
+   WOLMAN A, 1965, SCI AM, V213, P179
+   WOLMAN MG, 1967, WATER RESOUR RES, V3, P451, DOI 10.1029/WR003i002p00451
+   Wu JG, 2014, LANDSCAPE URBAN PLAN, V125, P209, DOI 10.1016/j.landurbplan.2014.01.018
+   Xiao M, 2014, RENEW SUST ENERG REV, V40, P633, DOI 10.1016/j.rser.2014.07.147
+   Zhu WX, 2004, BIOGEOCHEMISTRY, V71, P177, DOI 10.1007/s10533-004-9683-2
+NR 142
+TC 21
+Z9 22
+SN 2073-4441
+PD AUG
+PY 2015
+VL 7
+IS 8
+BP 4063
+EP 4087
+DI 10.3390/w7084063
+UT WOS:000360628400004
+ER
+
+PT J
+AU Gallotti, R
+   Bazzani, A
+   Rambaldi, S
+AF Gallotti, Riccardo
+   Bazzani, Armando
+   Rambaldi, Sandro
+TI Understanding the variability of daily travel-time expenditures using
+   GPS trajectory data
+SO EPJ DATA SCIENCE
+DE human mobility; individual travel behaviour; duration model; travel time
+   budget; time perception; value of time; Weber-Fechner law
+ID MOBILITY PATTERNS; BEHAVIOR; GROWTH; CITIES
+AB Transportation planning is strongly influenced by the assumption that every individual has a constant daily budget of approximate to 1 hour for his daily mobility. However, recent experimental results are proving this assumption as wrong. Here, we study the differences in daily travel-time expenditures among 24 Italian cities, extracted from a large set of GPS data on vehicles mobility. To understand these variations at the level of individual behaviour, we introduce a trip duration model that allows for a description of the distribution of travel-time expenditures in a given city using two parameters. The first parameter reflects the accessibility of desired destinations, whereas the second one can be associated to a travel-time budget and represents physiological limits due to stress and fatigue. Within the same city, we observe variations in the distributions according to home position, number of mobility days and a driver's average number of daily trips. These results can be interpreted by a stochastic time-consumption model, where the generalised cost of travel times is given by a logarithmic-like function, in agreement with the Weber-Fechner law. Our experimental results show a significant variability in the travel-time budgets in different cities, and for different categories of drivers within the same city. This explicitly clashes with the idea of the existence of a constant travel-time budget and opens new perspectives for the modelling and governance of urban mobility.
+RI Gallotti, Riccardo/B-6339-2013
+OI Gallotti, Riccardo/0000-0002-8088-1973
+CR Axhausen KW, 2008, ENVIRON PLANN B, V35, P981, DOI 10.1068/b3316t
+   Bazzani A, 2011, IEEE INT C PRIV SEC
+   Bazzani A, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/05/P05001
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Cervero R, 2011, TRAVEL TIME SAVINGS
+   Cheng Z, 2011, ICWSM, V2011, P81
+   Dehaene S, 2003, TRENDS COGN SCI, V7, P145, DOI 10.1016/S1364-6613(03)00055-X
+   Domencich T., 1975, URBAN TRAVEL DEMAND
+   Gallotti R, 2012, INT J MOD PHYS C, V23, DOI [10.1142/S0129183112500611, DOI 10.1142/S0129183112500611]
+   Gallotti R., 2013, THESIS
+   Gallotti R., 2015, ARXIV150903752
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   HANSEN WG, 1959, J AM I PLANNERS, V25, P73, DOI 10.1080/01944365908978307
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Helbing D, 2010, QUANTITATIVE SOCIODYNAMICS: STOCHASTIC METHODS AND MOODELS OF SOCIAL INTERACTION PROCESSES, SECOND EDITION, P1, DOI 10.1007/978-3-642-11546-2
+   [隽志�? Juan Zhicai], 2010, [交�?�运输系统工程与信息, Journal of Transporation Systems Engineering & Information Technology], V10, P62
+   Kolbl R., 2003, NEW J PHYS, V5, P481
+   Kung KS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096180
+   Lenormand M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105184
+   Liang X, 2012, SCI REP, V3, P2983
+   Liang X, 2012, PHYSICA A, V391, P2135, DOI 10.1016/j.physa.2011.11.035
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   MARCHETTI C, 1994, TECHNOL FORECAST SOC, V47, P75, DOI 10.1016/0040-1625(94)90041-8
+   Metz D, 2008, TRANSPORT REV, V28, P321, DOI 10.1080/01441640701642348
+   Milthorpe F, 2007, P 30 AUSTR TRANSP RE
+   Mokhtarian PL, 2004, TRANSPORT RES A-POL, V38, P643, DOI 10.1016/j.tra.2003.12.004
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Proekt A, 2012, P NATL ACAD SCI USA, V109, P10564, DOI 10.1073/pnas.1206894109
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Stopher PR, 2011, ITLSWP1104 U SYDN
+   Takahashi T, 2008, PHYSICA A, V387, P2066, DOI 10.1016/j.physa.2007.11.047
+   Toole-Holt L, 2005, TRANSPORT RES REC, P45
+   van Wee B, 2006, J TRANSP GEOGR, V14, P109, DOI 10.1016/j.jtrangeo.2005.06.003
+   Vespignani A, 2012, NAT PHYS, V8, P32
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+   Zahavi Y, 1974, TRAVELTIME BUDGET MO
+NR 36
+TC 8
+Z9 8
+SN 2193-1127
+PD DEC
+PY 2015
+VL 4
+IS 1
+AR 18
+DI 10.1140/epjds/s13688-015-0055-z
+UT WOS:000368069900018
+ER

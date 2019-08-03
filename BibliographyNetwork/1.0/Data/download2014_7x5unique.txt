@@ -1,0 +1,544 @@
+
+PT J
+AU Turner, SWD
+   Marlow, D
+   Ekstrom, M
+   Rhodes, BG
+   Kularathna, U
+   Jeffrey, PJ
+AF Turner, Sean W. D.
+   Marlow, David
+   Ekstroem, Marie
+   Rhodes, Bruce G.
+   Kularathna, Udaya
+   Jeffrey, Paul J.
+TI Linking climate projections to performance: A yield- based decision
+   scaling assessment of a large urban water resources system
+SO WATER RESOURCES RESEARCH
+LA English
+DT Article
+DE water resources planning; Australia; decision scaling; yield analysis;
+   eWater Source; bottom-up climate impact assessment
+ID CHANGE UNCERTAINTY; PLANNING METHODS; MANAGEMENT; VARIABILITY;
+   PREDICTIONS; DYNAMICS; IMPACTS; BASIN; CYCLE
+AB Despite a decade of research into climate change impacts on water resources, the scientific community has delivered relatively few practical methodological developments for integrating uncertainty into water resources system design. This paper presents an application of the decision scaling methodology for assessing climate change impacts on water resources system performance and asks how such an approach might inform planning decisions. The decision scaling method reverses the conventional ethos of climate impact assessment by first establishing the climate conditions that would compel planners to intervene. Climate model projections are introduced at the end of the process to characterize climate risk in such a way that avoids the process of propagating those projections through hydrological models. Here we simulated 1000 multisite synthetic monthly streamflow traces in a model of the Melbourne bulk supply system to test the sensitivity of system performance to variations in streamflow statistics. An empirical relation was derived to convert decision-critical flow statistics to climatic units, against which 138 alternative climate projections were plotted and compared. We defined the decision threshold in terms of a system yield metric constrained by multiple performance criteria. Our approach allows for fast and simple incorporation of demand forecast uncertainty and demonstrates the reach of the decision scaling method through successful execution in a large and complex water resources system. Scope for wider application in urban water resources planning is discussed.
+C1 [Turner, Sean W. D.; Jeffrey, Paul J.] Cranfield Univ, Cranfield Water Sci Inst, Bedford, England.
+   [Marlow, David; Ekstroem, Marie] CSIRO, Land & Water Div, Canberra, ACT, Australia.
+   [Rhodes, Bruce G.; Kularathna, Udaya] Melbourne Water, Melbourne, Vic, Australia.
+RP Turner, SWD (reprint author), Cranfield Univ, Cranfield Water Sci Inst, Bedford, England.
+EM sean.turner@cranfield.ac.uk
+RI Marlow, David/C-5297-2011; Jeffrey, Paul/A-1934-2010; Ekstrom,
+   Marie/B-9225-2012
+OI Ekstrom, Marie/0000-0001-9716-2337; Jeffrey, Paul/0000-0001-6618-0815;
+   Turner, Sean W D/0000-0003-4400-9800
+FU UK Engineering and Physical Sciences Research Council; United Utilities
+   PLC; Anglian Water; Severn Trent Water through the STREAM Industrial
+   Doctorate Centre; Engineering and Physical Sciences Research Council
+   [1037784]
+FX This work was financially supported by the UK Engineering and Physical
+   Sciences Research Council, United Utilities PLC, Anglian Water and
+   Severn Trent Water through the STREAM Industrial Doctorate Centre. We
+   thank the Commonwealth Scientific and Industrial Research Organisation
+   (CSIRO) for facilitating the study and Melbourne Water for providing the
+   necessary data. Any opinions, findings, and conclusions or
+   recommendations expressed in this paper are those of the authors and do
+   not reflect the views of any of the organizations mentioned above.
+CR Adamson D, 2009, AUST J AGR RESOUR EC, V53, P345, DOI 10.1111/j.1467-8489.2009.00451.x
+   Allen MR, 2002, NATURE, V419, P224, DOI 10.1038/nature01092
+   Barsugli JJ, 2012, J WATER RES PL-ASCE, V138, P389, DOI 10.1061/(ASCE)WR.1943-5452.0000188
+   Ben-Haim Y., 2006, INFO GAP DECISION TH
+   Borison A, 2008, 20 WSAA
+   Brown C., 2011, TREATISE WATER SCI, P189
+   Brown C., 2012, EOS T AGU, V93, P401, DOI [10.1029/2012EO410001, DOI 10.1029/2012E0410001]
+   Brown C, 2012, WATER RESOUR RES, V48, DOI 10.1029/2011WR011212
+   Brown C, 2011, J AM WATER RESOUR AS, V47, P524, DOI 10.1111/j.1752-1688.2011.00552.x
+   Daron JD, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/034021
+   Dessai S, 2013, WATER RESOUR MANAG, V27, P943, DOI 10.1007/s11269-012-0254-3
+   Dessai S, 2009, ADAPTING TO CLIMATE CHANGE: THRESHOLDS, VALUES, GOVERNANCE, P64
+   Erlanger P., 2005, 14 WSAA
+   Feser F, 2011, B AM METEOROL SOC, V92, P1181, DOI 10.1175/2011BAMS3061.1
+   Fiering M. B., 1997, REFLECTIONS HYDROLOG, P16
+   Fowler HJ, 2007, INT J CLIMATOL, V27, P1547, DOI 10.1002/joc.1556
+   Ghile YB, 2014, CLIMATIC CHANGE, V122, P97, DOI 10.1007/s10584-013-1008-9
+   Giorgi F, 2008, GLOBAL PLANET CHANGE, V63, P90, DOI 10.1016/j.gloplacha.2007.09.005
+   Hall JW, 2012, RISK ANAL, V32, P1657, DOI 10.1111/j.1539-6924.2012.01802.x
+   Hallegatte S., 2012, 6193 WORLD BANK OFF
+   Held IM, 2006, J CLIMATE, V19, P5686, DOI 10.1175/JCLI3990.1
+   Jeuland M., 2013, 1305 EFD DP
+   Kelley P., 2012, SOURCE SCI REFERENCE
+   Korteling B, 2013, WATER RESOUR MANAG, V27, P1149, DOI 10.1007/s11269-012-0164-4
+   Koutsoyiannis D, 2011, J AM WATER RESOUR AS, V47, P481, DOI 10.1111/j.1752-1688.2011.00543.x
+   Lane W. L., 1979, APPL STOCHASTIC TECH
+   Lempert RJ, 2010, TECHNOL FORECAST SOC, V77, P960, DOI 10.1016/j.techfore.2010.04.007
+   Lins F. H., 2011, J AM WATER RESOUR AS, V47, P475, DOI [10.1111/j.1752-1688.2011.00542.x, DOI 10.1111/J.1752-1688.2011.00542.X]
+   Maass A., 1962, DESIGN WATER RESOURC
+   MATALAS NC, 1977, CLIMATE CLIMATIC CHA, P99
+   Matalas NC, 2012, J WATER RES PL-ASCE, V138, P311, DOI 10.1061/(ASCE)WR.1943-5452.0000215
+   Matrosov ES, 2013, J HYDROL, V494, P43, DOI 10.1016/j.jhydrol.2013.03.006
+   Matrosov ES, 2013, WATER RESOUR MANAG, V27, P1123, DOI 10.1007/s11269-012-0118-x
+   McMahon TA, 2007, ADV WATER RESOUR, V30, P1873, DOI 10.1016/j.advwatres.2007.02.004
+   McMahon TA, 2011, J HYDROMETEOROL, V12, P135, DOI 10.1175/2010JHM1288.1
+   Meehl GA, 2007, B AM METEOROL SOC, V88, P1383, DOI 10.1175/BAMS-88-9-1383
+   Moody P, 2013, WATER RESOUR RES, V49, P3576, DOI 10.1002/wrcr.20228
+   Nakienovi N, 2000, EMISSIONS SCENARIOS
+   Nilsen V, 2011, J WATER CLIM CHANGE, V2, P260, DOI 10.2166/wcc.2011.042
+   Ricketts J. H., 2007, WEB BASED VERSION OZ
+   Salas JD, 2013, J AM WATER RESOUR AS, V49, P475, DOI 10.1111/jawr.12026
+   Salas JD, 2012, J WATER RES PLAN MAN, V138, P385, DOI 10.1061/(ASCE)WR.1943-5452.0000279
+   Stainforth DA, 2007, PHILOS T R SOC A, V365, P2145, DOI 10.1098/rsta.2007.2074
+   Stainforth DA, 2005, NATURE, V433, P403, DOI 10.1038/nature03301
+   Stakhiv EZ, 2011, J AM WATER RESOUR AS, V47, P1183, DOI 10.1111/j.1752-1688.2011.00589.x
+   Steinschneider S, 2013, WATER RESOUR RES, V49, P7205, DOI 10.1002/wrcr.20528
+   Sveinsson O. G. N, 2007, 11 COL STAT U
+   Sveinsson OGB, 2003, J HYDROMETEOROL, V4, P489, DOI 10.1175/1525-7541(2003)004<0489:MTDOLV>2.0.CO;2
+   van Dijk AIJM, 2013, WATER RESOUR RES, V49, P1040, DOI 10.1002/wrcr.20123
+   Vidal JP, 2008, INT J CLIMATOL, V28, P843, DOI 10.1002/joc.1593
+   Vogel R M, 2001, RISK RELIABILITY UNC, P101
+   Waage MD, 2011, J AM WATER RESOUR AS, V47, P535, DOI 10.1111/j.1752-1688.2011.00547.x
+   Weaver CP, 2013, WIRES CLIM CHANGE, V4, P39, DOI 10.1002/wcc.202
+   Whetton P, 2012, CLIMATIC CHANGE, V115, P433, DOI 10.1007/s10584-012-0471-z
+   Wilby RL, 2010, HYDROLOG SCI J, V55, P1090, DOI 10.1080/02626667.2010.513212
+NR 55
+TC 26
+Z9 26
+U1 0
+U2 30
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0043-1397
+EI 1944-7973
+J9 WATER RESOUR RES
+JI Water Resour. Res.
+PD APR
+PY 2014
+VL 50
+IS 4
+BP 3553
+EP 3567
+DI 10.1002/2013WR015156
+PG 15
+WC Environmental Sciences; Limnology; Water Resources
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology; Water
+   Resources
+GA AH3LV
+UT WOS:000336026000045
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Jung, HS
+   Park, SW
+AF Jung, Hyung-Sup
+   Park, Sung-Whan
+TI Multi-Sensor Fusion of Landsat 8 Thermal Infrared (TIR) and Panchromatic
+   (PAN) Images
+SO SENSORS
+LA English
+DT Article
+DE thermal infrared (TIR); panchromatic (PAN); data fusion; Landsat 8;
+   surface temperature
+ID SATELLITE
+AB Data fusion is defined as the combination of data from multiple sensors such that the resulting information is better than would be possible when the sensors are used individually. The multi-sensor fusion of panchromatic (PAN) and thermal infrared (TIR) images is a good example of this data fusion. While a PAN image has higher spatial resolution, a TIR one has lower spatial resolution. In this study, we have proposed an efficient method to fuse Landsat 8 PAN and TIR images using an optimal scaling factor in order to control the trade-off between the spatial details and the thermal information. We have compared the fused images created from different scaling factors and then tested the performance of the proposed method at urban and rural test areas. The test results show that the proposed method merges the spatial resolution of PAN image and the temperature information of TIR image efficiently. The proposed method may be applied to detect lava flows of volcanic activity, radioactive exposure of nuclear power plants, and surface temperature change with respect to land-use change.
+C1 [Jung, Hyung-Sup; Park, Sung-Whan] Univ Seoul, Dept Geoinformat, Seoul 130743, South Korea.
+RP Jung, HS (reprint author), Univ Seoul, Dept Geoinformat, 90 Jeonnong Dong, Seoul 130743, South Korea.
+EM hsjung@uos.ac.kr; psh5759@uos.ac.kr
+OI Jung, Hyung-Sup/0000-0003-2335-8438
+FU Space Core Technology Development Program through the National Research
+   Foundation of Korea - Ministry of Science, ICT and Future Planning
+   [NRF-2014M1A3A3A03034798]
+FX This work was supported in part by the Space Core Technology Development
+   Program through the National Research Foundation of Korea funded by the
+   Ministry of Science, ICT and Future Planning under Grant
+   NRF-2014M1A3A3A03034798.
+CR Aiazzi B, 2007, IEEE T GEOSCI REMOTE, V45, P3230, DOI 10.1109/TGRS.2007.901007
+   Choi J, 2011, IEEE T GEOSCI REMOTE, V49, P295, DOI 10.1109/TGRS.2010.2051674
+   Choi M, 2006, IEEE T GEOSCI REMOTE, V44, P1672, DOI 10.1109/TGRS.2006.869923
+   Dong J, 2009, SENSORS-BASEL, V9, P7771, DOI 10.3390/s91007771
+   Guo LJ, 1998, INT J REMOTE SENS, V19, P2477, DOI 10.1080/014311698214578
+   Han L, 2014, SENSORS-BASEL, V14, P10187, DOI 10.3390/s140610187
+   Hu J, 2013, IEEE T GEOSCI REMOTE, V51, P4226, DOI 10.1109/TGRS.2012.2227759
+   Huang XP, 2012, SENSORS-BASEL, V12, P10326, DOI 10.3390/s120810326
+   Irons JR, 2012, REMOTE SENS ENVIRON, V122, P11, DOI 10.1016/j.rse.2011.08.026
+   Jensen J.R., 2006, REMOTE SENSING ENV E, P37
+   Kishore D.D., 2001, P IEEE ISPRS JOINT W
+   Liggins M.E., 2008, HDB MULTISENSORY DAT, P1
+   Roerdink J. B. T. M., 2000, Fundamenta Informaticae, V41, P187
+   Tan J, 2014, SENSORS-BASEL, V14, P9046, DOI 10.3390/s140509046
+   Wang K, 2010, SENSORS-BASEL, V10, P9647, DOI 10.3390/s101109647
+   Waske B, 2007, IEEE T GEOSCI REMOTE, V45, P3858, DOI 10.1109/TGRS.2007.898446
+   Yao XF, 2013, SENSORS-BASEL, V13, P3109, DOI 10.3390/s130303109
+   Zhang JX, 2010, INT J IMAGE DATA FUS, V1, P5, DOI 10.1080/19479830903561035
+   Zhang XF, 2014, IEEE T GEOSCI REMOTE, V52, P5230, DOI 10.1109/TGRS.2013.2287513
+NR 19
+TC 8
+Z9 9
+U1 0
+U2 15
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD DEC
+PY 2014
+VL 14
+IS 12
+BP 24425
+EP 24440
+DI 10.3390/s141224425
+PG 16
+WC Chemistry, Analytical; Electrochemistry; Instruments & Instrumentation
+SC Chemistry; Electrochemistry; Instruments & Instrumentation
+GA AX2SK
+UT WOS:000346794300112
+PM 25529207
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Yakubo, K
+   Saijo, Y
+   Korosak, D
+AF Yakubo, K.
+   Saijo, Y.
+   Korosak, D.
+TI Superlinear and sublinear urban scaling in geographical networks
+   modeling cities
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID MOBILE COMMUNICATION-NETWORKS; SIZE; LAWS; SYSTEMS; GROWTH; CITY
+AB Using a geographical scale-free network to describe relations between people in a city, we explain both superlinear and sublinear allometric scaling of urban indicators that quantify activities or performances of the city. The urban indicator Y(N) of a city with the population size N is analytically calculated by summing up all individual activities produced by person-to-person relationships. Our results show that the urban indicator scales superlinearly with the population, namely, Y(N) alpha N-beta with beta > 1, if Y(N) represents a creative productivity and the indicator scales sublinearly (beta < 1) if Y(N) is related to the degree of infrastructure development. These results coincide with allometric scaling observed in real-world urban indicators. We also show how the scaling exponent beta depends on the strength of the geographical constraint in the network formation.
+C1 [Yakubo, K.; Saijo, Y.] Hokkaido Univ, Dept Appl Phys, Sapporo, Hokkaido 0608628, Japan.
+   [Korosak, D.] Univ Maribor, SI-2000 Maribor, Slovenia.
+RP Yakubo, K (reprint author), Hokkaido Univ, Dept Appl Phys, Sapporo, Hokkaido 0608628, Japan.
+EM yakubo@eng.hokudai.ac.jp; dean.korosak@um.si
+FU Japan Society for the Promotion of Science [25390113]; South East Europe
+   Transnational Cooperation Programme; Centre for Open Innovation and
+   Research of the University of Maribor; European Regional Development
+   Fund
+FX This work was supported by a Grant-in-Aid for Scientific Research (No.
+   25390113) from Japan Society for the Promotion of Science, by the
+   project SEETechnology "Co-operation of SEE science parks for the
+   promotion of transnational market uptake of R&D results and technologies
+   by SMEs" cofunded by South East Europe Transnational Cooperation
+   Programme, and by the operation entitled "Centre for Open Innovation and
+   Research of the University of Maribor." The last operation is cofunded
+   by the European Regional Development Fund and conducted within the
+   framework of the Operational Programme for Strengthening Regional
+   Development Potentials, development priority 1: "Competitiveness of
+   companies and research excellence," priority axis 1.1: "Encouraging
+   competitive potential of enterprises and research excellence." Numerical
+   calculations in this work were performed in part on the facilities of
+   the Supercomputer Center, Institute for Solid State Physics, University
+   of Tokyo.
+CR Adamic L, 2005, SOC NETWORKS, V27, P187, DOI 10.1016/j.spcnet.2005.01.007
+   Adamic LA., 2000, Q J ELECT COMMERCE, V1, P5, DOI DOI 10.2139/SSRN.166108
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Arbesman S, 2011, PHYSICA A, V390, P2155, DOI 10.1016/j.physa.2011.02.013
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arnold B. C., 2008, PARETO GEN PARETO DI
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabasi Albert-Laszlo, NETWORK SCI
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Bettencourt LMA, 2008, EUR PHYS J B, V63, P285, DOI 10.1140/epjb/e2008-00250-6
+   Bettencourt L. M. A., 2013, 201301004 SANT I
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bild D.R., ARXIV14022671
+   Boguna M, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.058701
+   Boguna M, 2009, NAT PHYS, V5, P74, DOI [10.1038/nphys1130, 10.1038/NPHYS1130]
+   Cha M, 2010, ICWSM, V4, P10
+   Changizi MA, 2010, COMPLEXITY, V15, P11, DOI 10.1002/cplx.20288
+   Chen YG, 2010, INT J URBAN SUSTAIN, V1, P89, DOI 10.1080/19463131003661025
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   Chen YG, 2009, CHAOS SOLITON FRACT, V39, P49, DOI 10.1016/j.chaos.2007.01.130
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Glaeser EL, 1999, J POLIT ECON, V107, pS225, DOI 10.1086/250109
+   Goldenberg J., ARXIV09063202
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Krioukov D, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.036106
+   Krioukov D, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.035101
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Lamsal LN, 2013, ENVIRON SCI TECHNOL, V47, P7855, DOI 10.1021/es400744g
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   LINDSTEDT SL, 1981, Q REV BIOL, V56, P1, DOI 10.1086/412080
+   Lo CP, 2002, ANN ASSOC AM GEOGR, V92, P225, DOI 10.1111/1467-8306.00288
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Masuda N, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.036108
+   Morita S, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.035104
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   O'Boyle E, 2012, PERS PSYCHOL, V65, P79, DOI 10.1111/j.1744-6570.2011.01239.x
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Pareto V., 1897, COURS EC POLITIQUE
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Serrano MA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.078701
+   Smeed R.J., 1963, J I HIGHWAY ENG, V10, P5
+   Stauffer D., 1994, INTRO PERCOLATION TH
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Wu LF, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.026113
+   Yakubo K, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.066111
+   Yook SH, 2002, P NATL ACAD SCI USA, V99, P13382, DOI 10.1073/pnas.172501399
+NR 56
+TC 11
+Z9 11
+U1 2
+U2 17
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+EI 1550-2376
+J9 PHYS REV E
+JI Phys. Rev. E
+PD AUG 4
+PY 2014
+VL 90
+IS 2
+AR 022803
+DI 10.1103/PhysRevE.90.022803
+PG 10
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA AM6VP
+UT WOS:000340003700009
+PM 25215777
+OA Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Shpuza, E
+AF Shpuza, Ermal
+TI Allometry in the syntax of street networks: evolution of Adriatic and
+   Ionian coastal cities 1800-2010
+SO ENVIRONMENT AND PLANNING B-PLANNING & DESIGN
+LA English
+DT Article
+DE allometric scaling; urban form; street network growth; space syntax
+ID URBAN ROAD NETWORKS; SPACE SYNTAX; SCALING LAWS; AXIAL LINES; SIZE;
+   UNIVERSALITY; GROWTH; SHAPE; CITY; SETTLEMENTS
+AB Urban growth is discussed according to the impact of size on metric and topological space syntax measures that describe street networks. The quantitative analysis of three historical stages of cities on the Adriatic and Ionian coastline is supported by a unique database of historical maps and axial map representations. The empirical evidence demonstrates strong and significant allometric relationships of total length of lines to the area of urbanized territory, and total length, total connectivity, overall depth, total choice (betweenness), and total depth entropy to axial map size. In this paper allometric equations are derived for the measures and it is shown that comparative analysis based on means of measures traditionally used in space syntax does not comply with the observed ontogenetic relationships. The allometric trends of length to area and of connectivity to network size are shown to have sublinear scaling exponents, whereas allometric relationships of length, depth, choice, and entropy to network size are expressed with superlinear exponents. The comparison among three historical stages shows that allometry of depth to axial map size maintains statistical equivalence at the ontogenetic scale that transcends various types of street patterns, growth models, and physiographic conditions. In contrast, allometric relationships of depth, choice, and entropy to size reveal distinct universality classes between cities on the Italian and Balkan coasts, and between cities with and without gridiron street patterns.
+C1 Southern Polytech State Univ, Dept Architecture, Marietta, GA 30060 USA.
+RP Shpuza, E (reprint author), Southern Polytech State Univ, Dept Architecture, 1100 South Marietta Pkwy, Marietta, GA 30060 USA.
+EM ermal@morphostudio.net
+CR Al-Sayed K, 2009, P 7 INT SPAC SYNT S, P11
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Azimzadeh M, 2001, P 3 INT SPAC SYNT S, P511
+   Barthelemy M, 2004, EUR PHYS J B, V38, P163, DOI 10.1140/epjb/e2004-00111-4
+   Batty M, 2004, ENVIRON PLANN B, V31, P615, DOI 10.1068/b2985
+   Batty M, 1996, ENVIRON PLANN A, V28, P1745, DOI 10.1068/a281745
+   Batty M, 2004, 75 WP CASA U COLL LO
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2011, ENVIRON PLANN B, V38, P753, DOI 10.1068/b3805ed
+   Benguigui L, 2006, ENVIRON PLANN B, V33, P269, DOI 10.1068/b31118
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BON R, 1979, QUAL QUANT, V13, P307
+   Buhl J, 2006, EUR PHYS J B, V49, P513, DOI 10.1140/epjb/e2006-00085-1
+   Calabi D, 1984, PLANNING URBAN GROWT, P37
+   Carvalho R, 2004, PHYSICA A, V332, P539, DOI 10.1016/j.physa.2003.10.024
+   Chan SHY, 2011, EUR PHYS J B, V84, P563, DOI 10.1140/epjb/e2011-10889-3
+   Chandler Tertius, 1987, 4000 YEARS URBAN GRO
+   Chen YG, 2012, PHYSICA A, V391, P767, DOI 10.1016/j.physa.2011.07.010
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   Griffiths S., 2011, J SPACE SYNTAX, V2, P73
+   Griffiths S, 2010, URBAN MORPHOL, V14, P85
+   Gutkind E A, 1969, INT HIST CITY DEV, VIV
+   Hanson J, 1989, THESIS U LONDON
+   HILLIER B, 1993, ENVIRON PLANN B, V20, P29, DOI 10.1068/b200029
+   HILLIER B, 1989, EKISTICS, V56, P5
+   HILLIER B, 1987, ENVIRON PLANN B, V14, P363, DOI 10.1068/b140363
+   Hillier B., 1996, SPACE IS MACHINE
+   Hillier Bill, 1984, SOCIAL LOGIC SPACE
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2007, PHYSICA A, V384, P647, DOI 10.1016/j.physa.2007.05.064
+   Jiang B, 2010, INT J GEOGR INF SCI, V24, P545, DOI 10.1080/13658810902950351
+   Karadimou-Yerolympou A, 1999, POLEIS KAI POLEODOMI, V1
+   Karimi K., 2000, URBAN DES INT, V5, P221
+   Kubat AS, 1999, URBAN MORPHOL, V3, P28
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Marshall S., 2005, STREETS PATTERNS
+   Marshall S, 2009, CITIES DESIGN EVOLUT
+   Moudon A.V., 1997, URBAN MORPHOL, V1, P3
+   Narol R S, 1956, GEN SYSTEMS YB, V1, P780
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Penn A, 1998, ENVIRON PLANN B, V25, P59, DOI 10.1068/b250059
+   PEPONIS J, 1989, EKISTICS, V56, P43
+   Peponis J., 2002, HDB ENV PSYCHOL
+   Peponis J, 2008, ENVIRON PLANN B, V35, P881, DOI 10.1068/b33088
+   Read S., 2000, URBAN DES INT, V5, P209
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Schlapfer M, 2012, 12105215 ARXIV CORN
+   Shannon C.E., 1948, MATH THEORY COMMUNIC
+   Shpuza E, 2011, AI EDAM, V25, P357, DOI 10.1017/S0890060411000217
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   Thompson D. W., 1942, GROWTH FORM
+   Tsakopoulos P, 1986, THESIS U PARIS 10 NA
+   Turner A, 2005, ENVIRON PLANN B, V32, P425, DOI 10.1068/b31097
+   Turner A., 2001, P 3 INT SPAC SYNT S
+   Turner A, 2010, UCL DEPTHMAP SPATIAL
+   Volchenkov D, 2008, PHYSICA A, V387, P2353, DOI 10.1016/j.physa.2007.11.049
+   Wassenhoven L., 1984, PLANNING URBAN GROWT, P5
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Xie F, 2009, COMPUT ENVIRON URBAN, V33, P211, DOI 10.1016/j.compenvurbsys.2008.09.009
+   Zar JH., 2009, BIOSTATISTICAL ANAL
+NR 64
+TC 5
+Z9 5
+U1 2
+U2 9
+PU PION LTD
+PI LONDON
+PA 207 BRONDESBURY PARK, LONDON NW2 5JN, ENGLAND
+SN 0265-8135
+EI 1472-3417
+J9 ENVIRON PLANN B
+JI Environ. Plan. B-Plan. Des.
+PY 2014
+VL 41
+IS 3
+BP 450
+EP 471
+DI 10.1068/b39109
+PG 22
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA AI1FD
+UT WOS:000336594800006
+DA 2019-03-26
+ER
+
+PT J
+AU Ortman, SG
+   Cabaniss, AHF
+   Sturm, JO
+   Bettencourt, LMA
+AF Ortman, Scott G.
+   Cabaniss, Andrew H. F.
+   Sturm, Jennie O.
+   Bettencourt, Luis M. A.
+TI The Pre-History of Urban Scaling
+SO PLOS ONE
+LA English
+DT Article
+ID CITY SIZE; CITIES; ARCHAEOLOGY; MESOAMERICA; GROWTH; STATE
+AB Cities are increasingly the fundamental socio-economic units of human societies worldwide, but we still lack a unified characterization of urbanization that captures the social processes realized by cities across time and space. This is especially important for understanding the role of cities in the history of human civilization and for determining whether studies of ancient cities are relevant for contemporary science and policy. As a step in this direction, we develop a theory of settlement scaling in archaeology, deriving the relationship between population and settled area from a consideration of the interplay between social and infrastructural networks. We then test these models on settlement data from the Pre-Hispanic Basin of Mexico to show that this ancient settlement system displays spatial scaling properties analogous to those observed in modern cities. Our data derive from over 1,500 settlements occupied over two millennia and spanning four major cultural periods characterized by different levels of agricultural productivity, political centralization and market development. We show that, in agreement with theory, total settlement area increases with population size, on average, according to a scale invariant relation with an exponent in the range 2/3 <= alpha <= 5/6. As a consequence, we are able to infer aggregate socioeconomic properties of ancient societies from archaeological measures of settlement organization. Our findings, from an urban settlement system that evolved independently from its old-world counterparts, suggest that principles of settlement organization are very general and may apply to the entire range of human history.
+C1 [Ortman, Scott G.] Univ Colorado, Dept Anthropol, Boulder, CO 80309 USA.
+   [Ortman, Scott G.; Cabaniss, Andrew H. F.; Bettencourt, Luis M. A.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Cabaniss, Andrew H. F.] Univ N Carolina, Class Dept, Chapel Hill, NC USA.
+   [Sturm, Jennie O.] Univ New Mexico, Dept Anthropol, Albuquerque, NM 87131 USA.
+RP Ortman, SG (reprint author), Univ Colorado, Dept Anthropol, Boulder, CO 80309 USA.
+EM scott.ortman@colorado.edu
+OI Cabaniss, Andrew/0000-0003-0884-9503
+FU National Science Foundation [1005075, 103522]; James S. McDonnell
+   Foundation [220020195]; John Templeton Foundation [15705]; Rockefeller
+   Foundation; Bryan J. and June B. Zwan Foundation
+FX Funded by National Science Foundation (1005075 and 103522); James S.
+   McDonnell Foundation (220020195); John Templeton Foundation (15705);
+   Rockefeller Foundation; Bryan J. and June B. Zwan Foundation. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Adams R. M., 1966, EVOLUTION URBAN SOC
+   Angel S, 2011, PROGR PLANNING, V75, P53107
+   [Anonymous], 2012, WORLD BAS
+   Arnauld M., 2012, NEIGHBORHOOD SOCIAL
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2013, PROFESSIONAL DIVERSI
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Blanton RE, 1972, PREHISPANIC SETTLEME
+   Chernick M.R., 1999, BOOTSTRAP METHODS PR
+   Childe V. G., 1950, TOWN PLANN REV, V21, P3, DOI DOI 10.3828/TPR.21.1.K853061T614Q42QH
+   Christaller W., 1933, ZENTRALEN ORTE SUDDE
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cowgill GL, 1997, ANNU REV ANTHROPOL, V26, P129, DOI 10.1146/annurev.anthro.26.1.129
+   Cristelli M, 2012, SCI REPORTS, V2, P1
+   DRENNAN RD, 1984, AM ANTHROPOL, V86, P105, DOI 10.1525/aa.1984.86.1.02a00100
+   Evans ST, 2000, TEOTIHUACAN VALLEY 1, V5
+   Feinman GM, 1998, ARCHAIC STATES
+   Fujita M., 1999, SPATIAL EC CITIES RE
+   Glaeser EL, 1999, J POLIT ECON, V107, pS225, DOI 10.1086/250109
+   Gorenflo LJ, 2007, ARCHAEOLOGICAL SETTL
+   Henderson JV, 1977, EC THEORY CITIES
+   JOHNSON GA, 1980, ECON GEOGR, V56, P234, DOI 10.2307/142715
+   JOHNSON GA, 1977, ANNU REV ANTHROPOL, V6, P479, DOI 10.1146/annurev.an.06.100177.002403
+   Johnson GA, 1987, CHANGING ORG URUK AD, P107
+   Kempes CP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020551
+   Marcus J., 2008, ANCIENT CITY NEW PER
+   MARSHALL A., 1890, PRINCIPLES EC
+   Millon Rene, 1973, TEOTIHUACAN MAP 2
+   Millon Rene, 1973, TEOTIHUACAN MAP 1
+   Mori T, 2008, J REGIONAL SCI, V48, P165, DOI 10.1111/j.1467-9787.2008.00550.x
+   Mumford L, 1961, CITY HIST ITS ORIGIN
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Parsons J. R., 2008, PREHISPANIC SETTLEME
+   Parsons J. R., 1982, PREHISPANIC SETTLEME
+   Parsons Jeffrey R., 1971, PREHISTORIC SETTLEME
+   Parsons JR, 1983, ARCHAEOLOGICAL SETTL
+   Samaniego H., 2009, J TRANSP LAND USE, V1, P2139
+   Sanders W. T., 1965, CULTURAL ECOLOGY TEO
+   Sanders W. T., 1996, TEOTIHUACAN VALLEY 3, V3
+   Sanders W. T., 2007, PREHISPANIC SETTLEME
+   Sanders W. T, 1976, VALLEY MEXICO STUDIE, P101
+   Sanders W. T., 1979, BASIN MEXICO ECOLOGI
+   Sanders William T, 1975, TEOTIHUACAN VALLEY 1
+   Sanders WT, 1987, TEOTIHUACAN VALLEY 2, V4
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   SMITH M. E., 1992, ARCHAEOLOGICAL RES A
+   Smith ME, 2005, J URBAN HIST, V31, P403, DOI 10.1177/0096144204274396
+   Smith ME, 2008, AZTEC CITY STATE CAP
+   Smith ME, 2007, J PLAN HIST, V6, P3, DOI 10.1177/1538513206293713
+   Smith ME, 2012, P NATL ACAD SCI USA, V109, P7617, DOI 10.1073/pnas.1201714109
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Trigger Bruce, 2003, UNDERSTANDING EARLY
+   USGS, 2005, ASTER IM
+   WRIGHT HT, 1975, AM ANTHROPOL, V77, P267, DOI 10.1525/aa.1975.77.2.02a00020
+   Wright HT, 2001, CULTURAL ACTION URUK, P123
+   Yoffee N., 2005, MYTHS ARCHAIC STATE
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 61
+TC 44
+Z9 44
+U1 1
+U2 43
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 12
+PY 2014
+VL 9
+IS 2
+AR e87902
+DI 10.1371/journal.pone.0087902
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AA7FJ
+UT WOS:000331262600020
+PM 24533062
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

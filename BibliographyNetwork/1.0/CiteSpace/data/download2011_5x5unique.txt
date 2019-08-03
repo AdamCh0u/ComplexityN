@@ -1,0 +1,233 @@
+
+PT J
+AU Wu, LF
+AF Wu, L. F.
+TI The accelerating growth of online tagging systems
+SO EUROPEAN PHYSICAL JOURNAL B
+ID NETWORKS; LAW
+AB Research on the growth of online tagging systems not only is interesting in its own right, but also yields insights for website management and semantic web analysis. Traditional models that describing the growth of online systems can be divided between linear and nonlinear versions. Linear models, including the BA model [A.L. Barabasi, R. Albert, Science 286, 509 (1999)], assume that the average activity of users is a constant independent of population. Hence the total activity is a linear function of population. On the contrary, nonlinear models suggest that the average activity is affected by the size of the population and the total activity is a nonlinear function of population. In the current study, supporting evidences for the nonlinear growth assumption are obtained from data on Internet users' tagging behavior. A power law relationship between the number of new tags (F) and the population (P), which can be expressed as F similar to P(gamma) (gamma > 1), is found. I call this pattern accelerating growth and find it relates the to time-invariant heterogeneity in individual activities. I also show how a greater heterogeneity leads to a faster growth.
+CR Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Cattuto C, 2009, P NATL ACAD SCI USA, V106, P10511, DOI 10.1073/pnas.0901136106
+   de Blasio BF, 2007, P NATL ACAD SCI USA, V104, P10762, DOI 10.1073/pnas.0611337104
+   GORLITZ O, 2008, P 7 INT C PEER TO PE, V1, P19
+   HENDERSON T, 2001, P 9 ACM INT C MULT, V1, P212
+   Krapivsky PL, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.036118
+   Lu L, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014139
+   Mattick JS, 2005, SCIENCE, V307, P856, DOI 10.1126/science.1103737
+   Miyazima S, 2000, PHYSICA A, V278, P282, DOI 10.1016/S0378-4371(99)00546-4
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Rodriguez M, 2008, AM J BOT, V95, P1523, DOI 10.3732/ajb.0800161
+   SCHWEITZER F, 2010, 10008 CCSS
+   Serrano MA, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.038701
+   Smith DMD, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/181
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Wu F., 2009, P 11 IEEE INT C COMP, V4, P409, DOI DOI 10.1109/CSE.2009.430
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+NR 20
+TC 6
+Z9 6
+SN 1434-6028
+PD SEP
+PY 2011
+VL 83
+IS 2
+BP 283
+EP 287
+DI 10.1140/epjb/e2011-20187-9
+UT WOS:000296633500019
+ER
+
+PT J
+AU Wu, LF
+   Zhang, J
+AF Wu, Lingfei
+   Zhang, Jiang
+TI Accelerating growth and size-dependent distribution of human online
+   activities
+SO PHYSICAL REVIEW E
+ID SCALING LAWS; NETWORKS
+AB Research on human online activities usually assumes that total activity T increases linearly with active population P, that is, T alpha P-gamma (gamma = 1). However, we find examples of systems where total activity grows faster than active population. Our study shows that the power law relationship T alpha P-gamma (gamma > 1) is in fact ubiquitous in online activities such as microblogging, news voting, and photo tagging. We call the pattern "accelerating growth" and find it relates to a type of distribution that changes with system size. We show both analytically and empirically how the growth rate gamma associates with a scaling parameter b in the size-dependent distribution. As most previous studies explain accelerating growth by power law distribution, the model of size-dependent distribution is worth further exploration.
+RI Zhang, Jiang/A-3156-2012
+CR BARABASI AL, 1999, PHYS REV E, V286, P65103
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   CATTUTO C, 2009, P NATL ACAD SCI USA, V286, P509
+   GORLITZ O, 2008, P 7 INT WORKSH PEER
+   HENDERSON T, 2001, P 9 ACM INT C MULT, V1, P212
+   Isalgue A, 2007, PHYSICA A, V382, P643, DOI 10.1016/j.physa.2007.04.019
+   Lerman K., 2010, P 4 INT C WEBL SOC M
+   Lu L, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014139
+   Marsili M, 1998, PHYS REV LETT, V80, P2741, DOI 10.1103/PhysRevLett.80.2741
+   Martinez-Mekler G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004791
+   Rocha LEC, 2010, P NATL ACAD SCI USA, V107, P5706, DOI 10.1073/pnas.0914080107
+   Rodriguez M, 2008, AM J BOT, V95, P1523, DOI 10.3732/ajb.0800161
+   Shen Yang, 2009, J INF COMP SCI, V6, P683
+   Stella AL, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/02/P02018
+   TESSONE C, ARXIV10071330PHYSICS
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Wu F., 2009, P 11 IEEE INT C COMP, V4, P409, DOI DOI 10.1109/CSE.2009.430
+   WU L, ARXIV11011042PHYSICS
+   Zhang JA, 2011, CHINESE PHYS LETT, V28, DOI 10.1088/0256-307X/28/3/038901
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zhang JA, 2010, J THEOR BIOL, V264, P760, DOI 10.1016/j.jtbi.2010.03.024
+NR 21
+TC 8
+Z9 8
+SN 1539-3755
+PD AUG 15
+PY 2011
+VL 84
+IS 2
+AR 026113
+DI 10.1103/PhysRevE.84.026113
+PN 2
+UT WOS:000294061600003
+PM 21929070
+ER
+
+PT J
+AU Sassen, S
+   Dotan, N
+AF Sassen, Saskia
+   Dotan, Natan
+TI Delegating, not returning, to the biosphere: How to use the multi-scalar
+   and ecological properties of cities
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+DE Sustainability; Rupture; Delegating; In-between space; Knowledge; Third
+   natures
+ID POLITICS; JUSTICE; GROWTH; LIFE
+AB Our aim is to theorize the shifting relationship between cities and the biosphere in ways that can incorporate vanguard scientific, technical and social innovations. We specify that the city (a) generates third natures - specific new environments - such as heat islands, that today are destructive of the biosphere, and (b) that the city has systemic properties that correspond to those of the biosphere, but today are mostly flattened out of action through the ruptures that dominate today's articulation between cities and biosphere. That is to say, our specific project agrees with the problematizing of the category "nature," which pertains to our presence in the biosphere. But we do not take Harvey's more absolute statement that the city itself is nature nor do we confine our analysis only to Latourian natures-cultures. Our analysis is less centered in the work of correcting a false binary, as is the case with both Latour and Harvey, notwithstanding their different objects of study. We focus on the complex in-between space that is the site of both the transactions between city and biosphere, as well as the site of the ruptures that characterize these transactions. (C) 2011 Published by Elsevier Ltd.
+CR [Anonymous], 2002, SCIENCE, V297, P1654
+   Balani K, 2009, NANOTECHNOLOGY, V20, DOI 10.1088/0957-4484/20/30/305707
+   Beddoe R, 2009, P NATL ACAD SCI USA, V106, P2483, DOI 10.1073/pnas.0812570106
+   BENET F, 1963, COMP STUD SOC HIST, V6, P1, DOI 10.1017/S001041750000195X
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bookchin M., 1978, ANTIPODE, V1011, P21, DOI [10.1111/j.1467-8330.1978.tb00113.x, 10. 1111/j. 1467-8330. 1985. tb00337. x, DOI 10.1111/J.1467-8330.1978.TB00113.X]
+   BURGESS E., 1925, CITY
+   Callon M, 1998, LAWS MARKETS
+   Daly H., 1977, STEADY STATE EC EC B
+   Davis K, 1955, AM J SOCIOL, V60, P429, DOI 10.1086/221602
+   Deleuze G., 1987, 1000 PLATEAUS CAPITA
+   Fryzuk MD, 2004, NATURE, V427, P498, DOI 10.1038/427498a
+   Furlong K, 2011, PROG HUM GEOG, V35, P460, DOI 10.1177/0309132510380488
+   Gandy M, 2005, INT J URBAN REGIONAL, V29, P1003, DOI 10.1111/j.1468-2427.2005.00635_5.x
+   Gandy M., 2006, NATURE CITIES
+   Garcia J, 2000, J APPL PHYCOL, V12, P331, DOI 10.1023/A:1008146421368
+   Girardet H, 2008, CITIES PEOPLE PLANET
+   Haraway DJ, 1991, SIMIANS CYBORGS WOME
+   Harvey D., 1993, REAL PROBLEMS FALSE
+   Harvey D., 1996, JUSTICE NATURE GEOGR
+   Heynen N., 2006, NATURE CITIES
+   Hillier J, 2009, INT J URBAN REGIONAL, V33, P640, DOI 10.1111/j.1468-2427.2009.00861.x
+   Hinchliffe S, 2006, SCI CULTURE, V15, P123, DOI DOI 10.1080/09505430600707988
+   Jonkers HM, 2007, SPRINGER SER MATER S, V100, P195, DOI 10.1007/978-1-4020-6250-6_9
+   Kaika M, 2003, ANTIPODE, V35, P919, DOI 10.1111/j.1467-8330.2003.00365.x
+   Latour B., 1993, WE HAVE NEVER BEEN M
+   Latour B, 2005, REASSEMBLING SOCIAL
+   Latour B, 2004, POLITICS NATURE BRIN
+   Law J., 2004, METHOD
+   McGranahan Gordon J., 2007, SCALING URBAN ENV CH
+   Mol Arthur P. J., 2000, ECOLOGICAL MODERNISA
+   Morello-Frosch R., 2009, CLIMATE GAP INEQUALI
+   NASA Earth Observatory, 2011, CARB CYCL
+   Odum H T, 1971, ENV POWER SOC
+   Panthani MG, 2008, J AM CHEM SOC, V130, P16770, DOI 10.1021/ja805845q
+   Pathak B, 1999, ENVIRON URBAN, V11, P1
+   PIMENTEL P, 2005, NATURAL RESOURCES RE, V14, P65
+   Robbins P, 2003, ANTIPODE, V35, P955, DOI 10.1111/j.1467-8330.2003.00366.x
+   Safi M.A., 1998, SANITATION WATER ALL
+   Sassen S, 2001, GLOBAL CITY
+   Sassen S., 2005, J INT AFF, V58, P11
+   Sassen S, 2008, TERRITORY AUTHORITY
+   Sassen S., 2010, S A P I EN S, V2
+   Sassen S., 2004, EOLSS ENCY ENV, V14
+   Sassen S, 2010, THEOR CULT SOC, V27, P33, DOI 10.1177/0263276410380938
+   Satterthwaite D., 1999, EARTHSCAN READER SUS, P80
+   Satterthwaite D, 2007, HUMAN SETTLEMENTS DI
+   Shapouri, 1995, ESTIMATING NET ENERG, P721
+   Shin'ichi A., 2002, LOOK JAPAN, V48, P556
+   Simone A., 1997, CHALLENGE SUSTAINABL
+   Steinhagen C, 2009, J AM CHEM SOC, V131, P12554, DOI 10.1021/ja905922j
+   Swyngedouw E, 2003, ANTIPODE, V35, P898, DOI 10.1111/j.1467-8330.2003.00364.x
+   Swyngedouw E., 2006, SCI CULTURE, V15, P105, DOI DOI 10.1080/09505430600707970
+   Turney T., 2009, FUTURE MAT PERFORMAN
+   Wald M., 2009, NY TIMES        0629
+   Watts J., 2009, GUARDIAN        0629
+   West G., 2010, GLOBAL SUSTAINABILIT
+   White D., 2006, SCI CULTURE, V15, P95
+   Williams Raymond, 1973, COUNTRY CITY
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Yolo County Planning and Public Works Dept, 2006, FULL SCAL BIOR LANDF
+NR 62
+TC 19
+Z9 20
+SN 0959-3780
+EI 1872-9495
+PD AUG
+PY 2011
+VL 21
+IS 3
+SI SI
+BP 823
+EP 834
+DI 10.1016/j.gloenvcha.2011.03.018
+UT WOS:000293549000007
+ER
+
+PT J
+AU Zhang, JA
+   Wang, YG
+AF Zhang Jiang
+   Wang You-Gui
+TI Size Dependency of Income Distribution and Its Implications
+SO CHINESE PHYSICS LETTERS
+ID STATISTICAL-MECHANICS; SCALING LAWS; FAMILY NAMES; GROWTH; WEALTH; CITY
+AB We systematically study the size dependency of income distributions, i.e. income distribution versus the population of a country. Using the generalized Lotka-Volterra model to fit the empirical income data for 1996-2007 in the U.S.A., we find an important parameter lambda that can scale with a beta power of the size (population) of the U.S.A. in that year. We point out that the size dependency of income distributions, which is a very important property but seldom addressed in previous studies, has two non-trivial implications: (1) the allometric growth pattern, i.e. the power-law relationship between population and GDP in different years, can be mathematically derived from the size-dependent income distributions and also supported by the empirical data; (2) the connection with the anomalous scaling for the probability density function in critical phenomena, since the re-scaled form of the income distributions has asymptotically exactly the same mathematical expression for the limit distribution of the sum of many correlated random variables.
+RI Zhang, Jiang/A-3156-2012
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   ANH H, 2007, J KOREAN PHYS SOC, V51, P1812
+   Baldovin F, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.020101
+   Bernhardsson S, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/12/123015
+   BETTENCOURT LM, 2007, NATL ACAD SCI US, V104, P7301
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   BLANCHARD O, 2000, MACROENCONOMICS
+   Brown J. H., 2000, SCALING BIOL
+   Chatterjee A, 2004, PHYSICA A, V335, P155, DOI 10.1016/j.pliysa.2003.11.014
+   Clementi F, 2005, PHYSICA A, V350, P427, DOI 10.1016/j.physa.2004.11.038
+   Dragulescu A, 2001, PHYSICA A, V299, P213
+   Isalgue A, 2007, PHYSICA A, V382, P643, DOI 10.1016/j.physa.2007.04.019
+   Kim BJ, 2005, PHYSICA A, V347, P683, DOI 10.1016/j.physa.2004.08.028
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Lu L, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014139
+   Malcai O, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.031102
+   Miyazima S, 2000, PHYSICA A, V278, P282, DOI 10.1016/S0378-4371(99)00546-4
+   Ning D, 2007, CHINESE PHYS LETT, V24, P2434, DOI 10.1088/0256-307X/24/8/076
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   PARETO V, 1964, COURS DCONOMIE POLIT
+   RICHMOND P, 2006, ECONOPHYS SOCIOPHYS
+   ROEHNER B, 1984, INT J SYST SCI, V15, P917, DOI 10.1080/00207728408926612
+   Silva AC, 2005, EUROPHYS LETT, V69, P304, DOI 10.1209/epl/i2004-10330-3
+   Stella AL, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/02/P02018
+   van Leijenhorst DC, 2005, INFORM SCIENCES, V170, P263, DOI 10.1016/j.ins.2004.03.006
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   WU LF, 2011, ALLOMETRIC SCA UNPUB
+   Xu Y, 2010, CHINESE PHYS LETT, V27, DOI 10.1088/0256-307X/27/7/078901
+   Yakovenko VM, 2009, REV MOD PHYS, V81, P1703, DOI 10.1103/RevModPhys.81.1703
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zipf G. K., 1932, SELECTED STUDIES PRI
+NR 31
+TC 2
+Z9 2
+SN 0256-307X
+EI 1741-3540
+PD MAR
+PY 2011
+VL 28
+IS 3
+AR 038901
+DI 10.1088/0256-307X/28/3/038901
+UT WOS:000288120900062
+ER

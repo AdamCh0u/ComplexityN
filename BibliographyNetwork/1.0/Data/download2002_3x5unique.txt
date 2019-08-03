@@ -1,0 +1,458 @@
+
+PT J
+AU Wu, JG
+   David, JL
+AF Wu, JG
+   David, JL
+TI A spatially explicit hierarchical approach to modeling complex
+   ecological systems: theory and applications
+SO ECOLOGICAL MODELLING
+LA English
+DT Article
+DE complex systems modeling; hierarchical patch dynamics; hierarchical
+   modeling; scaling; urban landscape ecology
+ID SELF-ORGANIZED CRITICALITY; ECOSYSTEMS; DYNAMICS; SCALE; GRASSLAND;
+   AGGREGATION; VARIABILITY; DISTURBANCE; SIMULATION; FRAMEWORK
+AB Ecological systems are generally considered among the most complex because they are characterized by a large number of diverse components, nonlinear interactions, scale multiplicity, and spatial heterogeneity. Hierarchy theory, as well as empirical evidence, suggests that complexity often takes the form of modularity in structure and functionality. Therefore, a hierarchical perspective can be essential to understanding complex ecological systems. But, how can such hierarchical approach help us with modeling spatially heterogeneous, nonlinear dynamic systems like landscapes, be they natural or human-dominated? In this paper, we present a spatially explicit hierarchical modeling approach to studying the patterns and processes of heterogeneous landscapes. We first discuss the theoretical basis for the modeling approach-the hierarchical patch dynamics (HPD) paradigm and the scaling ladder strategy, and then describe the general structure of a hierarchical urban landscape model (HPDM-PHX) which is developed using this modeling approach. In addition, we introduce a hierarchical patch dynamics modeling platform (HPD-MP), a software package that is designed to facilitate the development of spatial hierarchical models. We then illustrate the utility of HPD-MP through two examples: a hierarchical cellular automata model of land use change and a spatial multi-species population dynamics model. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Arizona State Univ, Dept Plant Biol, Tempe, AZ 85287 USA.
+RP Wu, JG (reprint author), Arizona State Univ, Dept Plant Biol, POB 871601, Tempe, AZ 85287 USA.
+EM jingle@asu.edu
+RI WU, Jingle/A-4055-2009; Wu, Jianguo/G-6267-2010
+CR Ahl V, 1996, HIERARCHY THEORY VIS
+   Allen T. F. H., 1982, HIERARCHY PERSPECTIV
+   Anderson J. R., 1976, LAND USE LAND COVER
+   BAK P, 1988, PHYS REV A, V38, P364, DOI 10.1103/PhysRevA.38.364
+   BAK P, 1991, SCI AM, V264, P46, DOI 10.1038/scientificamerican0191-46
+   Bak P, 1996, NATURE WORKS SCI SEL
+   BALDOCCHI DD, 1993, SCALING PHYSL PROCES, P77, DOI DOI 10.1016/B978-0-12-233440-5.50011-7
+   BLASCHKE T, 2002, MULTIFUNCTIONAL LAND
+   Booch G., 1994, OBJECT ORIENTED ANAL
+   Breuste J., 1998, URBAN ECOLOGY
+   Brown S. A., 1993, Computers in Physics, V7, P304
+   Collins JP, 2000, AM SCI, V88, P416
+   Cullinan VI, 1997, LANDSCAPE ECOL, V12, P273, DOI 10.1023/A:1007962415318
+   De Berg M, 2000, COMPUTATIONAL GEOMET
+   EHLERINGER JR, 1993, SCALING PHYSL PROCES
+   Hay GJ, 2001, LANDSCAPE ECOL, V16, P471, DOI 10.1023/A:1013101931793
+   HOLLING CS, 1992, ECOL MONOGR, V62, P447, DOI 10.2307/2937313
+   *HPS, 1996, INTR SYST THINK HIGH
+   IWASA Y, 1987, ECOL MODEL, V37, P287, DOI 10.1016/0304-3800(87)90030-5
+   IWASA Y, 1989, IMA J MATH APPL MED, V6, P1
+   J Wu, 1999, CANADIAN J REMOTE SE, V25, P367, DOI DOI 10.1080/07038992.1999.10874736
+   JARVIS PG, 1995, PLANT CELL ENVIRON, V18, P1079, DOI 10.1111/j.1365-3040.1995.tb00620.x
+   Jenerette GD, 2001, LANDSCAPE ECOL, V16, P611, DOI 10.1023/A:1013170528551
+   Jensen H., 1998, SELF ORG CRITICALITY
+   Jorgensen S.E., 1995, COMPLEX ECOLOGY PART, pxvii
+   Jorgensen SE, 1998, ECOL MODEL, V111, P261, DOI 10.1016/S0304-3800(98)00104-5
+   Kirchner JW, 1998, NATURE, V395, P337, DOI 10.1038/26384
+   Knowles-Yanez K., 1999, HIST LAND USE PHASE, V1
+   Koestler A, 1967, GHOST MACHINE
+   Levin S.A., 1999, FRAGILE DOMINIONS CO
+   LEVIN SA, 1974, P NATL ACAD SCI USA, V71, P2744, DOI 10.1073/pnas.71.7.2744
+   Li H, 1997, SCALE REMOTE SENSING, P211
+   MCINTIRE CD, 1978, ECOL MONOGR, V48, P167, DOI 10.2307/2937298
+   Middleton B, 1999, WETLAND RESTORATION
+   MITCHELL M, 1994, SFI S SCI C, V19, P497
+   MORRISON P, 1966, MODULE PROPORTION SY, P1
+   MULLER F, 1992, ECOL MODEL, V63, P215, DOI 10.1016/0304-3800(92)90070-U
+   O'Neill R., 1991, ECOLOGICAL HETEROGEN, P85
+   O'Neill R.V., 1986, HIERARCHICAL CONCEPT
+   ONEILL EG, 1991, ENVIRON POLLUT, V73, P271, DOI 10.1016/0269-7491(91)90054-Z
+   ORourke J, 1998, COMPUTATIONAL GEOMET
+   Overton WS, 1975, SYSTEMS ANAL SIMULAT, P117
+   PARTON WJ, 1987, SOIL SCI SOC AM J, V51, P1173, DOI 10.2136/sssaj1987.03615995005100050015x
+   PARTON WJ, 1993, GLOBAL BIOGEOCHEM CY, V7, P785, DOI 10.1029/93GB02042
+   PARTON WJ, 1988, BIOGEOCHEMISTRY, V5, P109, DOI 10.1007/BF02180320
+   Pattee H. H., 1973, HIERARCHY THEORY CHA
+   Pickett S. T. A., 1999, ECOSYSTEMS WORLD, V16, P707
+   Pickett S. T. A., 1997, URBAN ECOSYST, V1, P185, DOI DOI 10.1023/A:1018531712889
+   Pickett S. T. A., 1985, ECOLOGY NATURAL DIST
+   Prigogine I., 1997, END CERTAINTY TIME C
+   Raup David M., 1997, COMPLEXITY, V2, P30
+   Reynolds J., 1999, INTEGRATING HYDROLOG, P273
+   Reynolds J. F., 1996, V120, P293
+   REYNOLDS JF, 1993, SCALING PHYSL PROCES, P127
+   REYNOLDS JF, 1997, PLANT FUNCTIONAL TYP, P195
+   ROSENBROCK HH, 1960, COMPUT J, V3, P175, DOI 10.1093/comjnl/3.3.175
+   ROWE JS, 1988, LANDSCAPE ECOLOGY MA, P35
+   Salthe S. N., 1985, EVOLVING HIERARCHICA
+   SALTHE SN, 1991, INT J GEN SYST, V18, P251, DOI 10.1080/03081079108935149
+   Schimel DS, 1997, ECOL MONOGR, V67, P251, DOI 10.1890/0012-9615(1997)067[0251:CSVIEP]2.0.CO;2
+   SCHMIDT LJ, 2000, UNIVERSAL LANGUAGE H
+   Simon H. A, 1972, HUMAN PROBLEM SOLVIN
+   Simon HA, 1973, HIERARCHY THEORY CHA, P1
+   Simon Herbert A., 1962, P AM PHILOS SOC, V106, P467, DOI DOI 10.2307/985254
+   Sole RV, 1999, TRENDS ECOL EVOL, V14, P156, DOI 10.1016/S0169-5347(98)01518-3
+   SWANSON FJ, 1988, BIOSCIENCE, V38, P92, DOI 10.2307/1310614
+   Valentine JW, 1996, PALEOBIOLOGY, V22, P23
+   VANGARDINGEN PR, 1997, SCALING UP CELL LAND
+   Whyte L. L., 1969, HIERARCHICAL STRUCTU
+   Wilson D, 1969, HIERARCHICAL STRUCTU, P287
+   Woldenberg MJ, 1979, PHILOS GEOGRAPHY, P429
+   WOODCOCK C, 1992, INT J REMOTE SENS, V13, P3167, DOI 10.1080/01431169208904109
+   WOODMANSEE RG, 1990, CHANGING LANDSCAPES, P57
+   Wu J, 2000, GEOGRAPHIC INFORM SC, V6, P6, DOI DOI 10.1080/10824000009480529
+   Wu J.A., 2000, GEOGRAPHIC INFORMATI, V6, P1, DOI DOI 10.1080/10824000009480528
+   Wu JG, 1997, ECOL MODEL, V101, P325, DOI 10.1016/S0304-3800(97)00056-2
+   Wu JG, 2000, ECOL MODEL, V134, P283, DOI 10.1016/S0304-3800(00)00353-7
+   WU JG, 1994, ECOL MONOGR, V64, P447, DOI 10.2307/2937145
+   Wu JG, 1995, Q REV BIOL, V70, P439, DOI 10.1086/419172
+   Wu JG, 2000, LANDSCAPE ECOLOGY PA
+   Zipperer WC, 2000, ECOL APPL, V10, P685, DOI 10.2307/2641038
+NR 81
+TC 256
+Z9 292
+U1 3
+U2 106
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3800
+EI 1872-7026
+J9 ECOL MODEL
+JI Ecol. Model.
+PD JUL 15
+PY 2002
+VL 153
+IS 1-2
+BP 7
+EP 26
+AR PII S0304-3800(01)00499-9
+DI 10.1016/S0304-3800(01)00499-9
+PG 20
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 571QK
+UT WOS:000176728000002
+DA 2019-03-26
+ER
+
+PT J
+AU Del Guasta, M
+AF Del Guasta, M
+TI Daily cycles in urban aerosols observed in Florence (Italy) by means of
+   an automatic 532-1064 nm LIDAR
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE LIDAR; urban aerosol; particulate; remote sensing; PBL
+ID NOCTURNAL BOUNDARY-LAYER; TO-BACKSCATTER RATIO; SIZE DISTRIBUTIONS;
+   PARTICLE-SIZE; EXTINCTION; ATMOSPHERE; SITE
+AB An unattended light detection and ranging (LIDAR) operating at 532-1064nm was used for the continuous monitoring of the planetary boundary layer (PBL) of Florence (Italy). This was the first time that such a well-established remote-sensing technique has been used in Italy as a monitoring tool for the long-term study of urban aerosols: time-height-backscatter plots were used for the interpretation of the PBL dynamics and the vertical distribution of the aerosols, while the aerosol backscatter and its wavelength dependency were used to estimate the mass concentration and the median size of the aerosols 40 in above the ground. The marked wavelength dependency shown by traffic-related aerosols permitted a distinction between fresh urban and background/rural aerosols. In summer, the aerosol mass concentration and the backscatter Angstrom coefficient showed well-defined and very similar daily cycles with a marked peak in the morning and shallow minima in the afternoon. The morning mass peak was produced by small particles (0.05-0.1mum mode diameter), while there was a prevalence of larger particles in the afternoon. The observed cycles were the result of a coupling between the traffic cycle and the daily surface-wind cycle: fresh urban aerosols produced in town were advected above the LIDAR in the morning by the persisting nighttime breeze. The reversal of the breeze in the late morning was responsible for the low-aerosol concentration observed in the afternoon, when rural air containing a low concentration of relatively large aerosols reached the LIDAR, and dilution of urban aerosol through turbulent mixing occurred. By assuming an exponential decay of aerosol concentration with height, the LIDAR-derived scaling height showed a minimum (100-200m) in the afternoon, in coincidence with the advection of air from the suburbs. The mass concentration variations were found to be strictly correlated with traffic at night and in the early morning, when the local breeze brought the urban plume above the LIDAR site, The high temporal resolution of the LIDAR made it possible to follow the aerosol mass variations with a 5 min resolution, last enough to follow the rapid aerosol peak evolution in the morning: the peak mass concentration was 5-10 times larger than during the rest of the day, suggesting the inadequacy of the daily averaged aerosol mass measurements carried out at present by the local authorities. (C) 2002 Published by Elsevier Science Ltd.
+C1 CNR, IROE, I-50127 Florence, Italy.
+RP Del Guasta, M (reprint author), CNR, IROE, Via Panciatichi 64, I-50127 Florence, Italy.
+CR Ackermann J, 1998, J ATMOS OCEAN TECH, V15, P1043, DOI 10.1175/1520-0426(1998)015<1043:TETBRO>2.0.CO;2
+   Anderson TL, 2000, J GEOPHYS RES-ATMOS, V105, P26907, DOI 10.1029/2000JD900400
+   Collis R. T. H., 1976, LASER MONITORING ATM, P71
+   Del Guasta M, 2000, J AEROSOL SCI, V31, P1469
+   DELGUASTA M, 1998, TRATM0198 IROE, P11
+   DEVARA PCS, 1994, ENVIRON POLLUT, V85, P97, DOI 10.1016/0269-7491(94)90242-9
+   Di Girolamo P, 1999, APPL OPTICS, V38, P4585, DOI 10.1364/AO.38.004585
+   Harris J.S., 2001, J AEROSOL SCI, V32, P749
+   Harrison RM, 1999, ATMOS ENVIRON, V33, P309, DOI 10.1016/S1352-2310(98)00164-2
+   KENT GS, 1978, APPL OPTICS, V17, P3763, DOI 10.1364/AO.17.003763
+   KLETT JD, 1981, APPL OPTICS, V20, P211, DOI 10.1364/AO.20.000211
+   KUHLBUSCH JAC, 2001, ATMOSHERIC ENV, V35, pS13
+   LI CS, 1993, ATMOS ENVIRON B-URB, V27, P413, DOI 10.1016/0957-1272(93)90018-2
+   Maricq M.M., 1998, ENVIRON SCI TECHNOL, V32, P2033
+   MCMURRY PH, 1989, ATMOS ENVIRON, V23, P497, DOI 10.1016/0004-6981(89)90593-3
+   MEASURES RM, 1988, LASER REMOTE CHEM AN, P49
+   Menut L., 1997, ADV ATMOSPHERIC REMO, P15
+   OKADA K, 1985, ATMOS ENVIRON, V19, P743, DOI 10.1016/0004-6981(85)90062-9
+   PENNDORF R, 1957, J OPT SOC AM, V47, P176, DOI 10.1364/JOSA.47.000176
+   PINNICK RG, 1983, J GEOPHYS RES-OCEANS, V88, P6787, DOI 10.1029/JC088iC11p06787
+   PRADEEP S, 1995, J GEOPHYS RES, V100, P18755
+   PRUPPACHER HR, 1978, MICROPHYSICS CLOUDS, P713
+   SHETTLE EP, 1979, 676 AIR FORC GEOPH L, P94
+   Stull R. B, 1988, INTRO BOUNDARY LAYER, DOI [10.1007/978-94-009-3027-8, DOI 10.1007/978-94-009-3027-8]
+   Turco RP, 1999, J GEOPHYS RES-ATMOS, V104, P19227, DOI 10.1029/1999JD900321
+   Wehner B, 2002, ATMOS ENVIRON, V36, P2215, DOI 10.1016/S1352-2310(02)00174-7
+   WEHNER B, 2000, J AEROSOL SCI     S1, V31, P566
+   WILLEKE K, 1993, AEROSOL MEASUREMENT, P310
+NR 28
+TC 23
+Z9 23
+U1 3
+U2 18
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD JUN
+PY 2002
+VL 36
+IS 17
+BP 2853
+EP 2865
+AR PII S1352-2310(02)00136-X
+DI 10.1016/S1352-2310(02)00136-X
+PG 13
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 573UG
+UT WOS:000176849300006
+DA 2019-03-26
+ER
+
+PT B
+AU Davis, CH
+   Wang, XY
+AF Davis, CH
+   Wang, XY
+GP IEEE
+   IEEE
+   IEEE
+TI Urban land cover classification from high resolution multi-spectral
+   IKONOS imagery
+SO IGARSS 2002: IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM
+   AND 24TH CANADIAN SYMPOSIUM ON REMOTE SENSING, VOLS I-VI, PROCEEDINGS:
+   REMOTE SENSING: INTEGRATING OUR VIEW OF THE PLANET
+SE IEEE International Symposium on Geoscience and Remote Sensing (IGARSS)
+LA English
+DT Proceedings Paper
+CT IEEE International Geoscience and Remote Sensing Symposium (IGARSS
+   2002)/24th Canadian Symposium on Remote Sensing
+CY JUN 24-28, 2002
+CL TORONTO, CANADA
+SP IEEE, IEEE, Geosci & Remote Sensing Soc, Canadian Remote Sensing Soc, Univ Waterloo, Natl Resouces Candad, Canadian Space Agcy, Environm Canada, Natl Aeronaut & Space Adm, Natl Ocean & Atmospher Adm, Off Naval Res, Natl Space Dev Agcy Japan, Natl Polar-Orbit Environm Satellite Syst, Ball Aerosp & Technol, Int Union Radio Sci
+AB We analyzed the effectiveness of generating urban land cover maps from IKONOS imagery. 1-m PAN and 4-m MS IKONOS images were combined to produce two pan-sharpened MS images (PS-MS) with 1m resolution. The fusion was done with the original 11-bit data and also by scaling the original data to only 8-bits. A parallelepiped supervised classification algorithm was used to process the two PS-MS images as well as the original 4-m MS image. Seven urban land cover classes were used in this study: woods, grass, water, bare soil, commercial building, impervious, and shadow. The classification accuracy was assessed using 256 pixels that were randomly distributed throughout the test site and were independent of the training sites used by the supervised classification algorithm. The results show that classification accuracies on the order of 75-80% are obtained. The best results are obtained using the 4-band 11-bit 1-m PS-MS image, and this yielded an overall accuracy of 83%.
+C1 Univ Missouri, Dept Elect & Comp Engn, Columbia, MO 65211 USA.
+RP Davis, CH (reprint author), Univ Missouri, Dept Elect & Comp Engn, 349 EBW, Columbia, MO 65211 USA.
+CR DAVIS CH, 2002, IN PRESS INT J REMOT
+   Vrabel J, 2000, PHOTOGRAMM ENG REM S, V66, P73
+NR 2
+TC 3
+Z9 3
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 0-7803-7536-X
+J9 INT GEOSCI REMOTE SE
+PY 2002
+BP 1204
+EP 1206
+PG 3
+WC Computer Science, Artificial Intelligence; Geosciences,
+   Multidisciplinary; Instruments & Instrumentation; Remote Sensing;
+   Imaging Science & Photographic Technology
+SC Computer Science; Geology; Instruments & Instrumentation; Remote
+   Sensing; Imaging Science & Photographic Technology
+GA BV48S
+UT WOS:000179116800395
+DA 2019-03-26
+ER
+
+PT J
+AU Uitermark, J
+AF Uitermark, J
+TI Re-scaling, 'scale fragmentation' and the regulation of antagonistic
+   relationships
+SO PROGRESS IN HUMAN GEOGRAPHY
+LA English
+DT Article
+DE after-Fordism; regulation; scale; scale fragmentation; The Netherlands
+ID ECONOMIC-DEVELOPMENT; CONTEMPORARY EUROPE; URBAN GOVERNANCE; POLITICS;
+   STATE; SPACE; GLOBALIZATION; ENTREPRENEURIALISM; NEOLIBERALISM;
+   REGIONALISM
+AB Recent years have seen the emergence of what might be called a 're-scaling' literature. This paper tries to combine this literature with insights from regulation theory in order to identify some of the ways in which antagonistic relationships are regulated in the after-Fordist period. It is argued that re-scaling not only affects (anti-)regulatory forces by manipulating the power distribution among different agents but also manipulates the ways in which agents perceive their own positionality. The propositions are illustrated with evidence from The Netherlands.
+C1 Univ Amsterdam, Dept Geog & Planning, Fac Social & Behav Sci, NL-1018 VZ Amsterdam, Netherlands.
+RP Uitermark, J (reprint author), Minervalaan 17B, NL-1077 NJ Amsterdam, Netherlands.
+RI Uitermark, Justus/D-8702-2013
+CR Aglietta M, 1979, THEORY CAPITALIST RE
+   Bauman Z, 1998, GLOBALIZATION HUMAN
+   Brenner N, 2000, EUR URBAN REG STUD, V7, P319, DOI 10.1177/096977640000700403
+   Brenner N, 1998, REV INT POLIT ECON, V5, P1, DOI 10.1080/096922998347633
+   Brenner N, 1999, URBAN STUD, V36, P431, DOI 10.1080/0042098993466
+   Brenner N, 1999, THEOR SOC, V28, P39, DOI 10.1023/A:1006996806674
+   COLLINGE C, 1999, ENVIRON PLANN D, V17, P554
+   Cox K. R., 1989, POWER GEOGRAPHY, P61
+   COX KR, 1995, URBAN STUD, V32, P213, DOI 10.1080/00420989550013059
+   COX KR, 1993, ENVIRON PLANN D, V11, P433, DOI 10.1068/d110433
+   COX KR, 1988, ANN ASSOC AM GEOGR, V78, P307, DOI 10.1111/j.1467-8306.1988.tb00209.x
+   CROTTY J, 2000, J RADICAL POLITICAL, V32, P361
+   Delsen L., 2000, EXIT POLDERMODEL SOC
+   DEVOS C, 2001, RES PUBLICA, V43, P81
+   Dijkink G, 2000, TIJDSCHR ECON SOC GE, V91, P219, DOI 10.1111/1467-9663.00111
+   DUNFORD M, 1994, T I BRIT GEOGR, V19, P163, DOI 10.2307/622752
+   Dunford M, 1997, GEOGRAPHIES EC, P259
+   Esping-Andersen G., 1990, 3 WORLDS WELFARE CAP
+   GARODNICK DR, 2000, U PENN LAW REV, V143, P1733
+   GOODWIN M, 1993, ENVIRON PLANN D, V11, P67, DOI 10.1068/d110067
+   Goodwin M., 1997, RECONSTRUCTING URBAN, P13
+   Gramsci A., 1971, SELECTIONS PRISON NO
+   Halkier H, 1998, REGIONAL DEV AGENCIE
+   HARVEY D, 1989, GEOGR ANN B, V71, P3, DOI 10.2307/490503
+   Harvey D., 1985, LIMITS CAPITAL
+   HARVEY D, 2000, SPACES HOSE
+   Harvey D., 1996, JUSTICE NATURE GEOGR
+   Harvey D., 1982, LIMITS CAPITAL
+   Harvey David, 1985, URBANIZATION CAPITAL
+   HEROD A, 1997, GEOGRAPHIES EC, P186
+   HILLS J, 1995, J ROWNTREE FDN INQUI, V2
+   HOWITT R, 2002, COMPANION POLITICAL
+   Hubbard Phil, 1998, ENTREPRENEURIAL CITY
+   Jessop B, 2000, INT J URBAN REGIONAL, V24, P323, DOI 10.1111/1468-2427.00251
+   JESSOP B, 1994, POSTFORDISM READER, P251
+   JESSOP B., 1997, J POLIT PHILOS, V5, P287, DOI DOI 10.1111/1467-9760.00036
+   JONAS AEG, 1994, ENVIRON PLANN D, V12, P257
+   Jones M, 1999, T I BRIT GEOGR, V24, P295, DOI 10.1111/j.0020-2754.1999.00295.x
+   JONES M, 2001, UNPUB RISE REGIONAL
+   LEITNER H, 1993, URBAN GEOGR, V14, P57, DOI 10.2747/0272-3638.14.1.57
+   Lipietz A, 1992, CITIES REGIONS NEW E, P309
+   Lipietz A., 1986, PRODUCTION WORK TERR, P16
+   LOOPMANS M, 2000, AGORA, V16, P24
+   LOVERING J, 1995, MANAGING CITIES, P109
+   Lovering J, 1999, INT J URBAN REGIONAL, V23, P379, DOI 10.1111/1468-2427.00202
+   MacLeod G, 1999, EUR URBAN REG STUD, V6, P231, DOI 10.1177/096977649900600304
+   MacLeod G, 1999, PROG HUM GEOG, V23, P503, DOI 10.1191/030913299669861026
+   MacLeod G, 1997, PROG HUM GEOG, V21, P530, DOI 10.1191/030913297670298941
+   Marshall T. H, 1963, CLASS CITIZENSHIP SO
+   Marston SA, 2000, PROG HUM GEOG, V24, P219, DOI 10.1191/030913200674086272
+   Massey D., 1993, MAPPING FUTURES LOCA, P59
+   Neocleous M., 1996, ADM CIVIL SOC THEORY
+   PECK J, 1994, AREA, V26, P317
+   Peck J, 2001, POLIT GEOGR, V20, P427, DOI 10.1016/S0962-6298(00)00069-X
+   PECK J, 1998, UNRULY WORLD GLOBALI, P95
+   PRZEWORSKI, 1987, CAPITALISM SOCIAL DE
+   Rodriguez-Pose A, 1999, TIJDSCHR ECON SOC GE, V90, P363
+   Sadler D, 2000, T I BRIT GEOGR, V25, P135, DOI 10.1111/j.0020-2754.2000.00135.x
+   Scott A., 1995, COMPETITION CHANGE, V1, P51
+   SCOTT AJ, 1988, INT J URBAN REGIONAL, V12, P171, DOI 10.1111/j.1468-2427.1988.tb00448.x
+   Scott AJ, 1996, FUTURES, V28, P391, DOI 10.1016/0016-3287(96)00016-X
+   Scott Allen J., 1998, REGIONS WORLD EC COM
+   Smith N., 1996, NEW URBAN FRONTIER G
+   Smith N., 1995, COMPETITIVE EUROPEAN, P59
+   Smith N, 1993, MAPPING FUTURES LOCA, P87
+   Storper M., 1997, REGIONAL WORLD TERRI
+   Swyngedouw E, 1996, URBAN STUD, V33, P1499, DOI 10.1080/0042098966772
+   Swyngedouw E, 2000, ENVIRON PLANN D, V18, P63, DOI 10.1068/d9s
+   Swyngedouw E, 1997, GEOGRAPHIES EC, P167
+   Swyngedouw E., 1992, CITIES REGIONS NEW E, P39
+   SWYNGEDOUW E, 1997, URBAN STUD, P137
+   SWYNGEDOUW EA, 1989, GEOGR ANN B, V71, P31, DOI 10.2307/490505
+   SWYNGEDOUW EA, 1992, T I BRIT GEOGR, V17, P417, DOI 10.2307/622708
+   TERHORST P, 1995, POLIT GEOGR, V14, P343, DOI 10.1016/0962-6298(95)95718-D
+   Terhorst P, 1998, TIJDSCHR ECON SOC GE, V89, P467, DOI 10.1111/1467-9663.00043
+   THRIFT N, 1994, URBAN STUD, V31, P365, DOI 10.1080/00420989420080381
+   UITERMARK J, 1999, AGORA, V15, P26
+   UITERMARK J, 2000, AGORA, V16, P10
+   UITERMARK J, 2000, ROOILIJN, V33, P467
+   Vallone P. F., 1995, CITIES CITIES BUSINE
+   Zukin S., 1995, CULTURES CITIES
+NR 81
+TC 60
+Z9 61
+U1 0
+U2 7
+PU ARNOLD, HODDER HEADLINE PLC
+PI LONDON
+PA 338 EUSTON ROAD, LONDON NW1 3BH, ENGLAND
+SN 0309-1325
+J9 PROG HUM GEOG
+JI Prog. Hum. Geogr.
+PD DEC
+PY 2002
+VL 26
+IS 6
+BP 743
+EP 765
+DI 10.1191/0309132502ph401oa
+PG 23
+WC Geography
+SC Geography
+GA 624UL
+UT WOS:000179780000002
+DA 2019-03-26
+ER
+
+PT J
+AU Middleton, B
+AF Middleton, B
+TI Winter burning and the reduction of Cornus sericea in sedge meadows in
+   southern Wisconsin
+SO RESTORATION ECOLOGY
+LA English
+DT Article
+DE Carex stricta; cattle grazing; Cornus sericea; disturbance dynamics;
+   fen; shrub carr; succession
+ID TALLGRASS PRAIRIE; WILLAMETTE VALLEY; TEMPORAL CHANGES; SEED BANKS;
+   FIRE; WETLAND; DYNAMICS; COMMUNITIES; OREGON; DATES
+AB To control shrubs, which are increasing in dominance in wetlands worldwide, winter burning may be an important tool, especially from the perspective of minimizing urban hazards. The goal of this project was to determine if winter burning was successful in reducing the dominance (mean percentage cover and maximum height) of Cornus sericea in sedge meadows in southern Wisconsin, where shrubs proliferated after cattle were excluded. Experimental burn and control plots were set up within sedge meadows, including an ungrazed "reference" site that had been little, if ever, grazed and a "historically grazed" site, a recovery site that had not been grazed by cattle since 1973. None of the dominant species including C. sericea was significantly affected by burning for either mean percentage cover or maximum height (analysis of variance: no burning x species interaction). Both mean percentage cover and maximum height were only weakly related to burning (28.1 and 14.3% of the variability contributed to the cumulative percentage of the coefficient of determination, respectively) at both sites based on non-metric multidimensional scaling analysis. Although species richness increased in burned plots in 1999 and 2000, no differences were apparent between pre-burned and unburned plots in 1997 and unburned plots in 1999 and 2000 (analysis of variance: year x burning interaction). After burning in the ungrazed site, herbaceous species appeared that had not been detected for decades, including Chelone glabra and Lathyrus palustris. Exotic species were present in both the ungrazed reference and recovery site. Although winter burning treatments did not reduce the dominance of woody shrub species in the site recovering from cattle grazing, burning was useful in stimulating the maintenance of species richness in the ungrazed sedge meadow.
+C1 So Illinois Univ, Dept Plant Biol, Carbondale, IL 62901 USA.
+RP Middleton, B (reprint author), USGS, Natl Wetlands Res Ctr, 700 Cajundome Blvd, Lafayette, LA 70506 USA.
+RI Middleton, Beth/D-1778-2014
+OI Middleton, Beth/0000-0002-1220-2326
+CR Agee JK, 1996, WEED TECHNOL, V10, P417
+   Aide TM, 1994, RESTOR ECOL, V2, P219
+   Anderson R. C, 1990, FIRE N AM TALLGRASS, P8
+   Bedford BL, 1974, WETLANDS DANE COUNTY
+   Bowles M, 1996, NAT AREA J, V16, P275
+   BRAGG TB, 1982, ECOLOGY, V63, P7, DOI 10.2307/1937024
+   Brower JE, 1998, FIELD LAB METHODS GE
+   Clark DL, 2001, WETLANDS, V21, P135, DOI 10.1672/0277-5212(2001)021[0135:FMAHRO]2.0.CO;2
+   Curtis JT, 1959, VEGETATION WISCONSIN
+   DAMMAN AHW, 1987, 85716 US FISH WILDL
+   Daubenmire RF, 1968, ADV ECOL RES, P209
+   DELACRUZ AA, 1980, EFFECTS WINTER FIRE
+   Dumortier M, 1996, ECOSCIENCE, V3, P190, DOI 10.1080/11956860.1996.11682330
+   GIBSON DJ, 1993, J APPL ECOL, V30, P247, DOI 10.2307/2404626
+   Gleason H.A., 1991, MANUAL VASCULAR PLAN
+   Hobbs R.J., 1993, P65
+   HOBBS RJ, 1984, J ECOL, V72, P241, DOI 10.2307/2260016
+   HULBERT LC, 1988, ECOLOGY, V69, P46, DOI 10.2307/1943159
+   JACKSON HT, 1961, MAMMALS WISCONSIN
+   JEAN M, 1991, ENVIRON MANAGE, V15, P241, DOI 10.1007/BF02393855
+   JOHNSON SR, 1995, CAN J BOT, V73, P84, DOI 10.1139/b95-011
+   Jutila HM, 1997, ANN BOT FENN, V34, P245
+   KIRK R, 1990, STAT INTRO
+   KNAPP AK, 1986, BIOSCIENCE, V36, P662, DOI 10.2307/1310387
+   Kost MA, 2000, NAT AREA J, V20, P36
+   Liegel K., 1988, Transactions of the Wisconsin Academy of Sciences, Arts and Letters, V76, P47
+   Maret MP, 2000, J VEG SCI, V11, P307, DOI 10.2307/3236811
+   Middleton B, 2002, PLANT ECOL, V161, P89, DOI 10.1023/A:1020361021072
+   MIDDLETON BA, 1991, AQUAT BOT, V40, P239, DOI 10.1016/0304-3770(91)90061-9
+   Mitchell RB, 1996, J RANGE MANAGE, V49, P131, DOI 10.2307/4002682
+   Pendergrass KL, 1998, RESTOR ECOL, V6, P303, DOI 10.1046/j.1526-100X.1998.06311.x
+   PRINCE H, 1997, WETLANDS AM MIDWEST
+   REUTER DD, 1986, RESTORATION MANAGEME, V4, P29
+   ROONEY SC, 1990, RESTORATION MANAGEME, V8, P40
+   *SAS AN SYST, 2002, SAS JMP JMP STAT VER
+   STREATFEILD R, 1995, THESIS OREGON STATE
+   *USDA, 2002, INT TAX INF SYST
+   VANDERVALK AG, 1988, VEGETATIO, V76, P3
+   VANDERVALK AG, 1986, AQUAT BOT, V24, P13, DOI 10.1016/0304-3770(86)90113-0
+   Vermeer J. G., 1992, FENS BOGS NETHERLAND, P433
+   VINTON MA, 1993, AM MIDL NAT, V129, P10, DOI 10.2307/2426430
+   VOGL RJ, 1977, RECOVERY RESTORATION, P261
+   Wade D., 1980, FIRE S FLORIDA ECOSY
+   Walker P. J., 1995, Rangeland Journal, V17, P46, DOI 10.1071/RJ9950046
+   WILLIAMS RJ, 1987, AUST J BOT, V35, P413, DOI 10.1071/BT9870413
+NR 45
+TC 12
+Z9 14
+U1 0
+U2 20
+PU BLACKWELL PUBLISHING INC
+PI MALDEN
+PA 350 MAIN ST, MALDEN, MA 02148 USA
+SN 1061-2971
+J9 RESTOR ECOL
+JI Restor. Ecol.
+PD DEC
+PY 2002
+VL 10
+IS 4
+BP 723
+EP 730
+DI 10.1046/j.1526-100X.2002.01053.x
+PG 8
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 619TN
+UT WOS:000179493700013
+DA 2019-03-26
+ER

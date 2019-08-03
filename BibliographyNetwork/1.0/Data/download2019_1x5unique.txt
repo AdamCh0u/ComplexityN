@@ -1,0 +1,515 @@
+
+PT J
+AU Dai, Y
+   Chen, L
+   Zhang, P
+   Xiao, YC
+   Shen, ZY
+AF Dai, Ying
+   Chen, Lei
+   Zhang, Pu
+   Xiao, Yuechen
+   Shen, Zhenyao
+TI Scaling Effects of Elevation Data on Urban Nonpoint Source Pollution
+   Simulations
+SO ENTROPY
+LA English
+DT Article
+DE DEM data; scale effect; urban pollution; nonpoint source pollution;
+   information entropy
+ID WATER-QUALITY; LANDSCAPE PATTERN; RAINFALL-RUNOFF; DEM RESOLUTIONS;
+   ENTROPY THEORY; MODEL; SWAT; IDENTIFICATION; VARIABILITY; AREAS
+AB The scale effects of digital elevation models (DEM) on hydrology and nonpoint source (NPS) pollution simulations have been widely reported for natural watersheds but seldom studied for urban catchments. In this study, the scale effect of DEM data on the rainfall-runoff and NPS pollution was studied in a typical urban catchment in China. Models were constructed based on the DEM data of nine different resolutions. The conventional model performance indicators and the information entropy method were applied together to evaluate the scale effects. Based on the results, scaling effects and a resolution threshold of DEM data exist for urban NPS pollution simulations. Compared with natural watersheds, the urban NPS pollution simulations were primarily affected by the local terrain due to the overall flat terrain and dense sewer inlet distribution. The overland process simulation responded more sensitively than the catchment outlet, showing prolonged times of concentration for impervious areas with decreasing DEM resolution. The diverse spatial distributions and accumulation magnitudes of pollutants could lead to different simulation responses to scaling effects. This paper provides information about the specific characteristics of the scale effects of DEM data in a typical urban catchment, and these results can be extrapolated to other similar catchments as a reference for data collection.
+C1 [Dai, Ying; Chen, Lei; Zhang, Pu; Xiao, Yuechen; Shen, Zhenyao] Beijing Normal Univ, Sch Environm, State Key Lab Water Environm Simulat, Beijing 100875, Peoples R China.
+RP Chen, L (reprint author), Beijing Normal Univ, Sch Environm, State Key Lab Water Environm Simulat, Beijing 100875, Peoples R China.
+EM kelly_dai_ying@sina.com; chenlei1982bnu@bnu.edu.cn;
+   zhang0820104069@163.com; 201621180010@mail.bnu.edu.cn; zyshen@bnu.edu.cn
+OI Shen, Zhenyao/0000-0002-6620-1943
+FU State Key Program of National Natural Science Foundation of China
+   [41530635]; Fund for Innovative Research Group of the National Natural
+   Science Foundation of China [51721093]; Open Foundation of the State Key
+   Laboratory of Urban and Regional Ecology of China [SKLURE2017-2-2];
+   Interdisciplinary Research Funds of Beijing Normal University; Beijing
+   Normal University
+FX This research was funded by the State Key Program of National Natural
+   Science Foundation of China (No. 41530635), the Fund for Innovative
+   Research Group of the National Natural Science Foundation of China (No.
+   51721093), the Open Foundation of the State Key Laboratory of Urban and
+   Regional Ecology of China (No. SKLURE2017-2-2), and the
+   Interdisciplinary Research Funds of Beijing Normal University. The
+   authors want to thank the logistics department of Beijing Normal
+   University for their support during monitoring and other basic data
+   collection.
+CR Ai YT, 2017, MECH SYST SIGNAL PR, V88, P123, DOI 10.1016/j.ymssp.2016.11.019
+   Chang CL, 2017, WATER ENVIRON RES, V89, P732, DOI [10.2175/106143017X14902968254665, 10.2175/106143017x14902968254665]
+   CHEN L, 2017, ENTROPY-SWITZ, V19, DOI DOI 10.3390/E19060265
+   Chen L, 2018, J HYDROL, V559, P110, DOI 10.1016/j.jhydrol.2018.02.034
+   Dai Y, 2019, J HYDROL, V568, P929, DOI 10.1016/j.jhydrol.2018.11.029
+   Dai Y, 2018, ENVIRON SCI POLLUT R, V25, P14799, DOI 10.1007/s11356-018-1377-8
+   Ercan MB, 2016, ENVIRON MODELL SOFTW, V84, P112, DOI 10.1016/j.envsoft.2016.06.017
+   Fatichi S, 2016, J HYDROL, V537, P45, DOI 10.1016/j.jhydrol.2016.03.026
+   He ZG, 2014, WATER RESOUR+, V41, P604, DOI 10.1134/S0097807814050170
+   Jang JH, 2018, J HYDROL, V562, P168, DOI 10.1016/j.jhydrol.2018.05.010
+   Jha R, 2008, KSCE J CIV ENG, V12, P281, DOI 10.1007/s12205-008-0281-z
+   Krebs G, 2014, J HYDROL, V512, P482, DOI 10.1016/j.jhydrol.2014.03.013
+   LEIPNIK R, 1959, IRE T INFORM THEOR, V5, P184, DOI 10.1109/TIT.1959.1057523
+   Mogheir Y, 2004, HYDROL PROCESS, V18, P2579, DOI 10.1002/hyp.1466
+   Morgan A, 2016, PROCEDIA ENGINEER, V154, P853, DOI 10.1016/j.proeng.2016.07.453
+   Randhir TO, 2011, J HYDROL, V404, P1, DOI 10.1016/j.jhydrol.2011.03.019
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   Shen ZY, 2013, AGR WATER MANAGE, V118, P93, DOI 10.1016/j.agwat.2012.12.005
+   Shen ZY, 2015, ECOL INDIC, V48, P417, DOI 10.1016/j.ecolind.2014.08.019
+   Shin HS, 2017, DESALIN WATER TREAT, V70, P86, DOI 10.5004/dwt.2017.11450
+   Singh KR, 2019, SCI TOTAL ENVIRON, V647, P1444, DOI 10.1016/j.scitotenv.2018.07.463
+   Singh VP, 2000, WATER SA, V26, P1
+   Thomas IA, 2017, INT J APPL EARTH OBS, V54, P38, DOI 10.1016/j.jag.2016.08.012
+   Wang HL, 2015, WATER RESOUR MANAG, V29, P1505, DOI 10.1007/s11269-014-0890-x
+   Wang L, 2011, ENVIRON POLLUT, V159, P1932, DOI 10.1016/j.envpol.2011.03.019
+   Xiang CY, 2017, ECOL ENG, V99, P400, DOI 10.1016/j.ecoleng.2016.11.028
+   Xu F, 2016, J HYDROL, V540, P355, DOI 10.1016/j.jhydrol.2016.06.019
+   Zhang PP, 2014, WATER RES, V53, P132, DOI 10.1016/j.watres.2014.01.018
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1099-4300
+J9 ENTROPY-SWITZ
+JI Entropy
+PD JAN
+PY 2019
+VL 21
+IS 1
+AR 53
+DI 10.3390/e21010053
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA HM8OI
+UT WOS:000459740300053
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Feng, YJ
+   Chen, LJ
+   Chen, XJ
+AF Feng Yongjiu
+   Chen Lijuan
+   Chen Xinjun
+TI The impact of spatial scale on local Moran's I clustering of annual
+   fishing effort for Dosidicus gigas offshore Peru
+SO JOURNAL OF OCEANOLOGY AND LIMNOLOGY
+LA English
+DT Article
+DE Dosidicus gigas; fishing effort; high-high (HH) cluster; scale impact;
+   local Moran's I
+ID NEON FLYING SQUID; WINTER-SPRING COHORT; OMMASTREPHES-BARTRAMII;
+   SUBTROPICAL REGION; CARBON DENSITY; URBAN SOILS; FISHERIES; HOTSPOTS;
+   GIS; ABUNDANCE
+AB The spatial scale (fishing grid) of fisheries research affects the observed spatial patterns of fisheries resources such as catch-per-unit-effort (CPUE) and fishing effort. We examined the scale impact of high value (Ht-I) clusters of the annual fishing effort for Dosidicus gigas offshore Peru from 2009 to 2012. For a multi-scale analysis, the original commercial fishery data were tessellated to twelve spatial scales from 6' to 72' with an interval of 6'. Under these spatial scales, D. gigas clusters were identified using the Anselin Local Moran's I. Statistics including the number of points, mean CPUE, standard deviation (SD), skewness, kurtosis, area and centroid were calculated for these fili clusters. We found that the z-score of global Moran's I and the number of points for HH clusters follow a power law scaling relationship from 2009 to 2012. The mean effort and its SD also follow a power law scaling relationship from 2009 to 2012. The skewness follows a linear scaling relationship in 2010 and 2011 but fluctuates with spatial scale in 2009 and 2012; kurtosis follows a logarithmic scale relationship in 2009, 2011 and 2012 but a linear scale relationship in 2010. Cluster area follows a power law scaling relationship in 2010 and 2012, a linear scaling relationship in 2009, and a quadratic scaling relationship in 2011. Based on the peaks of Moran's I indices and the multi-scale analysis, we conclude that the optimum scales are 12' in 2009-2011 and 6' in 2012, while the coarsest allowable scales are 48' in 2009, 2010 and 2012, and 60' in 2011. Our research provides the best spatial scales for conducting spatial analysis of this pelagic species, and provides a better understanding of scaling behavior for the fishing effort of D. gigas in the offshore Peruvian waters.
+C1 [Feng Yongjiu] Tongji Univ, Coll Surveying & Geoinformat, Shanghai 200092, Peoples R China.
+   [Feng Yongjiu] Qingdao Natl Lab Marine Sci & Technol, Lab Marine Fisheries Sci & Food Prod Proc, Qingdao 266235, Peoples R China.
+   [Feng Yongjiu; Chen Xinjun] Shanghai Ocean Univ, Natl Distant Water Fisheries Engn Res Ctr, Shanghai 201306, Peoples R China.
+   [Feng Yongjiu; Chen Xinjun] Shanghai Ocean Univ, Minist Educ, Key Lab Sustainable Exploitat Ocean Fisheries Res, Shanghai 201306, Peoples R China.
+   [Chen Lijuan] Univ Queensland, Sch Earth & Environm Sci, Brisbane, Qld 4072, Australia.
+   [Chen Lijuan] Chinese Acad Sci, Northwest Inst Ecoenvironm & Resources, Key Lab Ecohydrol Inland River Basin, Lanzhou 730000, Gansu, Peoples R China.
+RP Feng, YJ (reprint author), Tongji Univ, Coll Surveying & Geoinformat, Shanghai 200092, Peoples R China.; Feng, YJ (reprint author), Qingdao Natl Lab Marine Sci & Technol, Lab Marine Fisheries Sci & Food Prod Proc, Qingdao 266235, Peoples R China.; Feng, YJ; Chen, XJ (reprint author), Shanghai Ocean Univ, Natl Distant Water Fisheries Engn Res Ctr, Shanghai 201306, Peoples R China.; Feng, YJ; Chen, XJ (reprint author), Shanghai Ocean Univ, Minist Educ, Key Lab Sustainable Exploitat Ocean Fisheries Res, Shanghai 201306, Peoples R China.
+EM yjfeng@shou.edu.cn; xjchen@shou.edu.cn
+FU National Natural Science Foundation of China [41406146]; Laboratory for
+   Marine Fisheries Science and Food Production Processes at Qingdao
+   National Laboratory for Marine Science and Technology of China
+   [2017-1A02]; Shanghai Universities First-class Disciplines
+   Project-Fisheries (A)
+FX Supported by the National Natural Science Foundation of China (No.
+   41406146), the Laboratory for Marine Fisheries Science and Food
+   Production Processes at Qingdao National Laboratory for Marine Science
+   and Technology of China (No. 2017-1A02), and the Shanghai Universities
+   First-class Disciplines Project-Fisheries (A)
+CR ANSELIN L, 1995, GEOGR ANAL, V27, P93, DOI 10.1111/j.1538-4632.1995.tb00338.x
+   Anselin L, 1996, SPATIAL ANAL PERSPEC, P111
+   Anselin L, 2004, EXPLORING SPATIAL DA
+   Aswani S, 2006, HUM ORGAN, V65, P81, DOI 10.17730/humo.65.1.4y2q0vhe4l30n0uj
+   Batty M., 2005, REPRESENTING GIS, P149
+   Bigelow KA, 2002, FISH OCEANOGR, V11, P143, DOI 10.1046/j.1365-2419.2002.00196.x
+   Cabanellas-Reboredo M, 2011, FISH RES, V110, P435, DOI 10.1016/j.fishres.2011.05.013
+   Cao J, 2009, MAR ECOL PROG SER, V381, P119, DOI 10.3354/meps07969
+   Carocci F, 2009, GEOGRAPHIC INFORM SY
+   Chang K T, 2015, INTRO GEOGRAPHIC INF
+   Chen CS, 2003, FISH RES, V63, P349, DOI 10.1016/S0165-7836(03)00101-2
+   Chen XJ, 2007, ICES J MAR SCI, V64, P1152, DOI 10.1093/icesjms/fsm103
+   Chen Xin-jun, 2003, Journal of Fisheries of China, V27, P334
+   Chen XJ, 2008, FISH RES, V92, P221, DOI 10.1016/j.fishres.2008.01.011
+   Cliff A. D., 1981, SPATIAL PROCESSES
+   Close CH, 2006, J ENVIRON MANAGE, V78, P341, DOI 10.1016/j.jenvman.2005.04.027
+   Feng YJ, 2018, ACTA OCEANOL SIN, V37, P67, DOI 10.1007/s13131-018-1212-6
+   Feng YJ, 2017, CHIN J OCEANOL LIMN, V35, P921, DOI 10.1007/s00343-017-6036-2
+   Feng YJ, 2017, J OCEAN U CHINA, V16, P490, DOI 10.1007/s11802-017-3214-y
+   Feng YJ, 2016, FISH RES, V183, P1, DOI 10.1016/j.fishres.2016.05.006
+   Feng YJ, 2015, ECOL INDIC, V53, P18, DOI 10.1016/j.ecolind.2015.01.020
+   Fu WJ, 2014, BIOGEOSCIENCES, V11, P2401, DOI 10.5194/bg-11-2401-2014
+   Fu WJ, 2015, FORESTS, V6, P1966, DOI 10.3390/f6061966
+   Fu WJ, 2011, J PLANT NUTR SOIL SC, V174, P785, DOI 10.1002/jpln.201000422
+   Garcia-Charton JA, 2004, MAR BIOL, V144, P161, DOI 10.1007/s00227-003-1170-0
+   GILLIS DM, 1993, CAN J FISH AQUAT SCI, V50, P323, DOI 10.1139/f93-038
+   Guidetti P, 2003, MAR BIOL, V143, P1135, DOI 10.1007/s00227-003-1163-z
+   Guinet C, 2001, MAR ECOL PROG SER, V219, P251, DOI 10.3354/meps219251
+   Harford WJ, 2015, FISH RES, V165, P42, DOI 10.1016/j.fishres.2014.12.024
+   Khormi H M, 2015, MODELLING INTERACTIO
+   Levine N, 2015, CRIMESTAT SPATIAL ST
+   Liu BL, 2013, CHIN J OCEANOL LIMN, V31, P523, DOI 10.1007/s00343-013-2182-3
+   Martin K S, 2004, GIS MARINE FISHERIES
+   Meaden G J, 2013, ADV GEOGRAPHIC INFOR
+   Meaden G J, 1991, GEOGRAPHICAL INFORM
+   Meaden G J., 2001, P 1 INT S GIS FISH S, P3
+   Meentemeyer V, 1987, SCALE EFFECTS LANDSC
+   Mitchell A., 2005, ESRI GUIDE GIS ANAL, V2
+   ORD JK, 1995, GEOGR ANAL, V27, P286, DOI 10.1111/j.1538-4632.1995.tb00912.x
+   Peeters A, 2015, COMPUT ELECTRON AGR, V111, P140, DOI 10.1016/j.compag.2014.12.011
+   Punt AE, 2000, FISH RES, V45, P129, DOI 10.1016/S0165-7836(99)00106-X
+   Rao K V, 1973, DISTRIBUTION PATTERN
+   Santos AMP, 2000, FISH RES, V49, P1, DOI 10.1016/S0165-7836(00)00201-0
+   Saul SE, 2013, FISH RES, V143, P12, DOI 10.1016/j.fishres.2013.01.002
+   SOKAL RR, 1978, BIOL J LINN SOC, V10, P229, DOI 10.1111/j.1095-8312.1978.tb00014.x
+   SQUIRES D, 1987, J ENVIRON ECON MANAG, V14, P268, DOI 10.1016/0095-0696(87)90020-9
+   Tian SQ, 2009, MAR FRESHWATER RES, V60, P1273, DOI 10.1071/MF09087
+   Turner MG, 1989, LANDSCAPE ECOL, V3, P153, DOI 10.1007/BF00131534
+   Waluda CM, 2004, REMOTE SENS ENVIRON, V91, P129, DOI 10.1016/j.rse.2004.02.006
+   Wang Y G, 2005, RESOURCE BIOL EC OCE
+   WIENS JA, 1989, FUNCT ECOL, V3, P385, DOI 10.2307/2389612
+   Wu J G, 2004, ECOLOGY, V19, P125, DOI [10.1023/B:LAND.0000021711.40074.ae, DOI 10.1023/B:LAND.0000021711.40074.AE]
+   [徐冰 Xu Bing], 2011, [中国海洋大学学报. 自然科学�?, Journal of Ocean University of China], V41, P43
+   [杨铭�? Yang Mingxia], 2013, [生�?�学�?, Acta Ecologica Sinica], V33, P6427
+   Yu W, 2016, FISH RES, V175, P103, DOI 10.1016/j.fishres.2015.11.026
+   Yu W, 2015, ACTA OCEANOL SIN, V34, P43, DOI 10.1007/s13131-015-0707-7
+   Yuan YM, 2018, APPL GEOCHEM, V88, P167, DOI 10.1016/j.apgeochem.2017.07.011
+   Zainuddin M, 2004, DETECTION POTENTIAL
+   Zhang CS, 2008, SCI TOTAL ENVIRON, V398, P212, DOI 10.1016/j.scitotenv.2008.03.011
+   Zhao KL, 2014, ENVIRON SCI POLLUT R, V21, P7165, DOI 10.1007/s11356-014-2638-9
+NR 60
+TC 0
+Z9 0
+U1 2
+U2 2
+PU SCIENCE PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING, 100717, PEOPLES R CHINA
+SN 2096-5508
+EI 2523-3521
+J9 J OCEANOL LIMNOL
+JI J. Oceanol. Limnol.
+PD JAN
+PY 2019
+VL 37
+IS 1
+BP 330
+EP 343
+DI 10.1007/s00343-019-7316-9
+PG 14
+WC Limnology; Oceanography
+SC Marine & Freshwater Biology; Oceanography
+GA HM2OA
+UT WOS:000459304100031
+DA 2019-03-26
+ER
+
+PT J
+AU Perret, L
+   Basley, J
+   Mathis, R
+   Piquet, T
+AF Perret, Laurent
+   Basley, Jeremy
+   Mathis, Romain
+   Piquet, Thibaud
+TI The Atmospheric Boundary Layer Over Urban-Like Terrain: Influence of the
+   Plan Density on Roughness Sublayer Dynamics
+SO BOUNDARY-LAYER METEOROLOGY
+LA English
+DT Article
+DE Atmospheric boundary layer; Hot-wire anemometry; Roughness sublayer;
+   Urban canopy; Wind tunnel
+ID TURBULENT ORGANIZED STRUCTURES; REYNOLDS-NUMBER; AMPLITUDE-MODULATION;
+   NUMERICAL-SIMULATION; FLOW; SMOOTH; SIMILARITY; SURFACES; FEATURES;
+   ARRAYS
+AB We investigate the effect of the packing density of cubical roughness elements on the characteristics of both the roughness sublayer and the overlying turbulent boundary layer, in the context of atmospheric flow over urban areas. This is based on detailed wind-tunnel hot-wire measurements of the streamwise velocity component with three wall-roughness configurations and two freestream flow speeds. The packing densities are chosen so as to obtain the three near-wall flow regimes observed in urban canopy flows, namely isolated-wake, wake-interference and skimming-flow regimes. Investigation of the wall-normal profiles of the one-point statistics up to third order demonstrates the impossibility of finding a unique set of parameters enabling the collapse of all configurations, except for the mean streamwise velocity component. However, spectral analysis of the streamwise velocity component provides insightful information. Using the temporal frequency corresponding to the peak in the pre-multiplied energy spectrum as an indicator of the most energetic flow structures at each wall-normal location, it is shown that three main regions exist, in which different scaling applies. Finally, scale decomposition reveals that the flow in the roughness sublayer results from a large-scale intrinsic component of the boundary layer combined with canopy-induced dynamics. Their relative importance plays a key role in the energy distribution and influences the near-canopy flow regime and its dynamics, therefore suggesting complex interactions between the near-wall scales and those from the overlying boundary layer.
+C1 [Perret, Laurent; Basley, Jeremy; Piquet, Thibaud] Cent Nantes, CNRS, UMR 6598, LHEEA, Nantes, France.
+   [Basley, Jeremy] Imperial Coll London, Dept Aeronaut, London, England.
+   [Mathis, Romain] Univ Toulouse, IMFT, CNRS, Toulouse, France.
+RP Perret, L (reprint author), Cent Nantes, CNRS, UMR 6598, LHEEA, Nantes, France.
+EM laurent.perret@ec-nantes.fr
+FU French National Research Agency [URBANTURB ANR-14-CE22-0012-01]
+FX The authors acknowledge the financial support of the French National
+   Research Agency through the research Grant URBANTURB
+   ANR-14-CE22-0012-01.
+CR Ahn J, 2013, INT J HEAT FLUID FL, V44, P394, DOI 10.1016/j.ijheatfluidflow.2013.07.010
+   Alfredsson PH, 2010, EUR J MECH B-FLUID, V29, P403, DOI 10.1016/j.euromechflu.2010.07.006
+   Anderson W, 2016, J FLUID MECH, V789, P567, DOI 10.1017/jfm.2015.744
+   Anderson W, 2015, J TURBUL, V16, P809, DOI 10.1080/14685248.2015.1031241
+   Baars WJ, 2016, PHYS REV FLUIDS, V1, DOI 10.1103/PhysRevFluids.1.054406
+   Basley J, 2018, J FLUID MECH, V850, P584, DOI 10.1017/jfm.2018.458
+   Bendat J. S., 2000, RANDOM DATA ANAL MEA
+   Blackman K, 2018, BOUND-LAY METEOROL, V169, P537, DOI 10.1007/s10546-018-0378-y
+   Blackman K, 2017, PHYS FLUIDS, V29, DOI 10.1063/1.4997205
+   Blackman K, 2016, PHYS FLUIDS, V28, DOI 10.1063/1.4962938
+   Castro IP, 2015, J FLUID MECH, V770, P289, DOI 10.1017/jfm.2015.168
+   Castro IP, 2013, J FLUID MECH, V727, P119, DOI 10.1017/jfm.2013.252
+   Castro IP, 2006, BOUND-LAY METEOROL, V118, P109, DOI 10.1007/s10546-005-5747-7
+   Cheng H, 2002, BOUND-LAY METEOROL, V104, P229, DOI 10.1023/A:1016060103448
+   Coceal O, 2007, J FLUID MECH, V589, P375, DOI 10.1017/S002211200700794X
+   COMTEBELLOT G, 1971, J FLUID MECH, V48, P273, DOI 10.1017/S0022112071001599
+   DeGraaff DB, 2000, J FLUID MECH, V422, P319, DOI 10.1017/S0022112000001713
+   Dennis DJC, 2011, J FLUID MECH, V673
+   Ebner RL, 2016, J FLUID MECH, V792, P435, DOI 10.1017/jfm.2016.83
+   Flack KA, 2007, PHYS FLUIDS, V19, DOI 10.1063/1.2757708
+   Grimmond CSB, 1999, J APPL METEOROL, V38, P1262, DOI 10.1175/1520-0450(1999)038<1262:APOUAD>2.0.CO;2
+   Hultmark M, 2010, MEAS SCI TECHNOL, V21, DOI 10.1088/0957-0233/21/10/105404
+   Hutchins N, 2007, J FLUID MECH, V579, P1, DOI 10.1017/S0022112006003946
+   Hutchins N, 2009, J FLUID MECH, V635, P103, DOI 10.1017/S0022112009007721
+   Hutchins N, 2012, BOUND-LAY METEOROL, V145, P273, DOI 10.1007/s10546-012-9735-4
+   Inagaki A, 2008, J FLUID MECH, V615, P101, DOI 10.1017/S0022112008003765
+   Inagaki A, 2010, BOUND-LAY METEOROL, V135, P209, DOI 10.1007/s10546-010-9477-0
+   JACKSON PS, 1981, J FLUID MECH, V111, P15, DOI 10.1017/S0022112081002279
+   Jimenez J, 2004, ANNU REV FLUID MECH, V36, P173, DOI 10.1146/annurev.fluid.36.050802.122103
+   Kaimal J C, 1994, ATMOSPHERIC BOUNDARY
+   Kanda M, 2006, BOUND-LAY METEOROL, V118, P151, DOI 10.1007/s10546-005-5294-2
+   Kanda M, 2004, BOUND-LAY METEOROL, V112, P343, DOI 10.1023/B:BOUN.0000027909.40439.7c
+   Lee JH, 2011, J FLUID MECH, V669, P397, DOI 10.1017/S0022112010005082
+   Lee J, 2012, J TURBUL, V13, P1, DOI 10.1080/14685248.2012.684387
+   MacDonald RW, 1998, ATMOS ENVIRON, V32, P1857, DOI 10.1016/S1352-2310(97)00403-2
+   Marusic I, 2010, PHYS FLUIDS, V22, DOI 10.1063/1.3453711
+   Marusic I, 2013, J FLUID MECH, V716, DOI 10.1017/jfm.2012.511
+   Mathis R, 2009, J FLUID MECH, V628, P311, DOI 10.1017/S0022112009006946
+   Mehdi F, 2013, J FLUID MECH, V731, DOI 10.1017/jfm.2013.385
+   Nadeem M, 2015, INT J HEAT FLUID FL, V56, P16, DOI 10.1016/j.ijheatfluidflow.2015.06.006
+   Perret L, 2013, 8 INT S TURB SHEAR F, V3, P1
+   Perret L, 2018, EXP FLUIDS, V59, DOI 10.1007/s00348-018-2611-3
+   Placidi M, 2015, J FLUID MECH, V782, P541, DOI 10.1017/jfm.2015.552
+   Placidi M, 2017, BOUND-LAY METEOROL, V22, P1
+   Reynolds RT, 2008, EXP FLUIDS, V45, P141, DOI 10.1007/s00348-008-0470-z
+   Rivet C, 2014, THESIS
+   Savory E, 2013, METEOROL ATMOS PHYS, V121, P1, DOI 10.1007/s00703-013-0254-8
+   Schultz MP, 2007, J FLUID MECH, V580, P381, DOI 10.1017/S0022112007005502
+   Smits AJ, 2011, ANNU REV FLUID MECH, V43, P353, DOI 10.1146/annurev-fluid-122109-160753
+   Snyder WH, 2002, J WIND ENG IND AEROD, V90, P41, DOI 10.1016/S0167-6105(01)00114-3
+   Squire DT, 2016, J FLUID MECH, V795, P210, DOI 10.1017/jfm.2016.196
+   Takimoto H, 2013, BOUND-LAY METEOROL, V147, P217, DOI 10.1007/s10546-012-9790-x
+   Tennekes  H., 1972, 1 COURSE TURBULENCE
+   Townsend A. A., 1976, STRUCTURE TURBULENT
+NR 54
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-8314
+EI 1573-1472
+J9 BOUND-LAY METEOROL
+JI Bound.-Layer Meteor.
+PD FEB
+PY 2019
+VL 170
+IS 2
+BP 205
+EP 234
+DI 10.1007/s10546-018-0396-9
+PG 30
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA HJ1NQ
+UT WOS:000456930600002
+DA 2019-03-26
+ER
+
+PT J
+AU Nie, Q
+   Wu, JJ
+   Yan, XY
+   Liu, JH
+   Wang, J
+AF Nie, Qi
+   Wu, Jian-Jun
+   Yan, Xiao-Yong
+   Liu, Jin-Hu
+   Wang, Jun
+TI Human migration patterns in China with the resume data
+SO MODERN PHYSICS LETTERS B
+LA English
+DT Article
+DE Human migration; asymmetry structure; gravity model
+AB Researches on the human mobility have made great progress in many aspects, but the long-term and long-distance migration behavior is lack of in-depth and extensive research because of the difficulty in accessing to household data. In this paper, we use the resume data to discover the human migration behavior on the large-scale scope. It is found that the asymmetry in the flow structure which reflects the influence of population competition is caused by the difference of attractiveness among cities. This flow structure can be approximately described by the gravity model of spatial economics. Besides, the value of scaling exponent of distance function in the gravity model is less than the value of short-term travel behavior. It means that, compared with the short-term travel behavior, the long-term human migration behavior is less sensitive. Moreover, the scaling coefficients of each variable in the gravity model are investigated. The result shows that the economic level is the main factor of migration.
+C1 [Nie, Qi; Wu, Jian-Jun; Yan, Xiao-Yong] Beijing Jiaotong Univ, State Key Lab Rail Traff Control & Safety, Beijing, Peoples R China.
+   [Yan, Xiao-Yong; Liu, Jin-Hu; Wang, Jun] Univ Elect Sci & Technol China, Big Data Res Ctr, Chengdu, Sichuan, Peoples R China.
+RP Wu, JJ (reprint author), Beijing Jiaotong Univ, State Key Lab Rail Traff Control & Safety, Beijing, Peoples R China.
+EM jjwu1@bjtu.edu.cn; yanxy@bjtu.edu.cn
+FU China National Funds for Distinguished Young Scientists [71525002]; NSFC
+   [71822102, 71890972, 71890970, 71671015]
+FX This work was supported by the "China National Funds for Distinguished
+   Young Scientists" (71525002), NSFC (71822102, 71890972, 71890970 and
+   71671015).
+CR Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Blumenstock J, 2015, SCIENCE, V350, P1073, DOI 10.1126/science.aac4420
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Candia J, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/22/224015
+   Cho E., 2011, P 17 ACM SIGKDD INT, P1082, DOI DOI 10.1145/2020408.2020579
+   Ortuzar JD, 2011, MODELLING TRANSPORT, 4TH EDITION, P1
+   Deville P, 2014, SCI REP-UK, V4, DOI 10.1038/srep04770
+   Ding R, 2018, PHYSICA A, V503, P800, DOI 10.1016/j.physa.2018.02.059
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   HYMAN GM, 1969, ENVIRON PLANN, V1, P105, DOI 10.1068/a010105
+   Jiang B, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.021136
+   Levandoski JJ, 2012, PROC INT CONF DATA, P450, DOI 10.1109/ICDE.2012.54
+   Li R., 2018, NONLINEAR DYNAM, DOI [10.1007/s11071-018-4722-z, DOI 10.1007/S11071-018-4722-Z]
+   Li ZG, 2016, INT J MOD PHYS C, V27, DOI 10.1142/S0129183116500662
+   Marguta R, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.1317
+   Murphy E, 2012, TRANSPORT RES A-POL, V46, P91, DOI 10.1016/j.tra.2011.09.017
+   Pappalardo L, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms9166
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Rouhani SJ, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7771
+   Sorensen T., 1957, BIOL SKRIFTER KONGEL, V5, P1
+   Toole J, 2015, J R SOC INTERFACE, V12, P266
+   Xu Y, 2015, TRANSPORTATION, V42, P625, DOI 10.1007/s11116-015-9597-y
+   Yan XY, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-01892-8
+   Yuan YH, 2016, INT J GEOGR INF SCI, V30, P1594, DOI 10.1080/13658816.2016.1143555
+   Zhao YM, 2016, NEW J PHYS, V18, DOI 10.1088/1367-2630/18/5/053025
+   Zhao ZD, 2015, CHAOS, V25, DOI 10.1063/1.4922302
+   Zhu WT, 2015, IEEE NUCL SCI CONF R
+   Zipf GK, 1946, AM SOCIOL REV, V11, P677, DOI 10.2307/2087063
+NR 29
+TC 0
+Z9 0
+U1 3
+U2 3
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0217-9849
+EI 1793-6640
+J9 MOD PHYS LETT B
+JI Mod. Phys. Lett. B
+PD FEB 10
+PY 2019
+VL 33
+IS 4
+AR 1950029
+DI 10.1142/S0217984919500295
+PG 14
+WC Physics, Applied; Physics, Condensed Matter; Physics, Mathematical
+SC Physics
+GA HM2XS
+UT WOS:000459335200001
+DA 2019-03-26
+ER
+
+PT J
+AU Galuszka, J
+AF Galuszka, Jakub
+TI What makes urban governance co-productive? Contradictions in the current
+   debate on co-production
+SO PLANNING THEORY
+LA English
+DT Article
+DE civil society; co-production; institutionalisation; the urban poor;
+   urban governance; urban planning
+ID PARTICIPATION; TRANSFORMATION; DELIVERY; POLITICS; LESSONS; ACCESS;
+   STATE; CITY
+AB Following a number of prominent concepts in urban planning, like participatory planning or self-help housing, co-production has started to gain momentum in the global South context. While it is has been long discussed as a means of service provision, the term is more and more often used in the broader sense of urban governance and policy planning. This understanding goes beyond the aspect of scaling-up successful co-productive infrastructure focused projects; rather, it indicates a different format of engagement for prompting urban stakeholders into planning citywide urban solutions. This article discusses the distinction between the different levels of co-production and their inter-linkages, and it investigates the relevance of positioning co-production as a factor framing urban governance. This includes a discussion on three main contradictions that can be identified within the current discussion on co-production. Finally, it identifies a set of arguments for elaborating the role of co-production in a policy and urban governance setting.
+C1 [Galuszka, Jakub] Tech Univ Berlin, Habitat Unit, Str 17 Juni 152, D-10623 Berlin, Germany.
+RP Galuszka, J (reprint author), Tech Univ Berlin, Habitat Unit, Str 17 Juni 152, D-10623 Berlin, Germany.
+EM jakub.galuszka@tu-berlin.de
+FU Deutscher Akademischer Austauschdienst/Bundesministeriums fur
+   wirtschaftliche Zusammenarbeit und Entwicklung
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: The
+   publication was supported by the Deutscher Akademischer
+   Austauschdienst/Bundesministeriums fur wirtschaftliche Zusammenarbeit
+   und Entwicklung.
+CR Ackerman J, 2004, WORLD DEV, V32, P447, DOI 10.1016/j.worlddev.2003.06.015
+   Albrechts L, 2013, PLAN THEOR, V12, P46, DOI 10.1177/1473095212452722
+   Anciano F, 2018, J ASIAN AFR STUD, V53, P593, DOI 10.1177/0021909617709487
+   Appadurai A, 2001, ENVIRON URBAN, V13, P23, DOI 10.1177/095624780101300203
+   Ballesteros MM, 2015, PIDS DISCUSSION PAPE
+   Banana E, 2015, ENVIRON URBAN, V27, P35, DOI 10.1177/0956247815569683
+   Boonyabancha S, 2015, LOCAL ACTION GLOBAL, P17
+   Bovaird T, 2013, WERE ALL THIS TOGETH
+   Bovaird T, 2007, PUBLIC ADMIN REV, V67, P846, DOI 10.1111/j.1540-6210.2007.00773.x
+   Bradlow BH, 2013, THESIS
+   Brandsen T, 2006, PUBLIC MANAG REV, V8, P493, DOI 10.1080/14719030601022874
+   BURGESS R, 1978, WORLD DEV, V6, P1105, DOI 10.1016/0305-750X(78)90067-0
+   Castells M., 1983, CITY GRASSROOTS CROS
+   Cooke B., 2001, PARTICIPATION NEW TY
+   Cornwall A, 2004, IDS BULL-I DEV STUD, V35, P1
+   Cornwall Andrea, 2008, COMMUNITY DEV J, V43, P269, DOI DOI 10.1093/CDJ/BSN010
+   Fernandes E, 2007, SOC LEGAL STUD, V16, P201, DOI 10.1177/0964663907076529
+   Fung A, 2006, PUBLIC ADMIN REV, V66, P66, DOI 10.1111/j.1540-6210.2006.00667.x
+   Fung Archon, 2003, DEEPENING DEMOCRACY
+   Galuszka J, 2017, URBAN PERSPECTIVES C, P64
+   Greene M, 2008, ENVIRON URBAN, V20, P89, DOI 10.1177/0956247808089150
+   Healey P., 1997, COLLABORATIVE PLANNI
+   Healey P., 2003, PLANNING THEORY, V2, P101, DOI DOI 10.1177/14730952030022002
+   Herrle P, 2015, LOCAL ACTION GLOBAL, P17
+   Huchzermeyer M, 2003, INT J URBAN REGIONAL, V27, P591, DOI 10.1111/1468-2427.00468
+   Huchzermeyer M, 2016, CURR OPIN ENV SUST, V20, P73, DOI 10.1016/j.cosust.2016.07.003
+   Hutchison J., 2007, DEMOCRATIZATION, V14, P853, DOI DOI 10.1080/13510340701635696
+   Joshi A, 2004, J DEV STUD, V40, P31, DOI 10.1080/00220380410001673184
+   Karaos AM, 2015, LOCAL ACTION GLOBAL, P107
+   Karki TK, 2017, PLAN THEOR, V16, P186, DOI 10.1177/1473095215602043
+   Lemanski C, 2017, INT DEV PLANN REV, V39, P15, DOI 10.3828/idpr.2017.2
+   Lipietz B, 2016, RETHINKING PRECARIOU
+   McMichael G, 2014, ENVIRON URBAN, V26, P389, DOI 10.1177/0956247814539431
+   Miraftab F, 2009, PLAN THEOR, V8, P32, DOI 10.1177/1473095208099297
+   Mitlin D, 2006, 64 CPRC U MANCH, V64
+   Mitlin D, 2004, EMPOWERING SQUATTER, P278
+   Mitlin D, 2008, ENVIRON URBAN, V20, P339, DOI 10.1177/0956247808096117
+   Moser SC, 2016, CURR OPIN ENV SUST, V20, P106, DOI 10.1016/j.cosust.2016.10.007
+   Odendaal N, 2012, CITIES, V29, P174, DOI 10.1016/j.cities.2011.10.001
+   Ostrom E, 1996, WORLD DEV, V24, P1073, DOI 10.1016/0305-750X(96)00023-X
+   Papeleras R, 2012, ENVIRON URBAN, V24, P463, DOI 10.1177/0956247812453247
+   Pieterse E., 2008, CITY FUTURES C CRISI
+   Pithouse R, 2010, TRIALOG J PLANNING B, V104, P48
+   Rigon A, 2017, ENVIRON URBAN, V29, P581, DOI 10.1177/0956247817700339
+   Shand W, 2015, EXPLORING I CHANGE C
+   Siame G, 2016, 17 N AERUS C 2016 GO
+   Sihlongonyane MF, 2009, DEV PRACT, V19, P136, DOI 10.1080/09614520802689378
+   Szescilo D, 2015, CROAT COMP PUBLIC AD, V15, P373
+   Turner JFC, 1972, FREEDOM BUILD DWELLE
+   Turner JFC, 1977, HOUSING PEOPLE AUTON
+   Vasudevan A, 2015, PROG HUM GEOG, V39, P338, DOI 10.1177/0309132514531471
+   Voorberg WH, 2015, PUBLIC MANAG REV, V17, P1333, DOI 10.1080/14719037.2014.930505
+   Watson V., 2006, PLANNING THEORY, V5, P31, DOI DOI 10.1177/1473095206061020
+   Watson V, 2014, PLAN THEORY PRACT, V15, P62, DOI 10.1080/14649357.2013.866266
+   Watson V, 2009, URBAN STUD, V46, P2259, DOI 10.1177/0042098009342598
+   WHITAKER GP, 1980, PUBLIC ADMIN REV, V40, P240, DOI 10.2307/975377
+NR 56
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1473-0952
+EI 1741-3052
+J9 PLAN THEOR
+JI Plan. Theory
+PD FEB
+PY 2019
+VL 18
+IS 1
+BP 143
+EP 160
+DI 10.1177/1473095218780535
+PG 18
+WC Regional & Urban Planning
+SC Public Administration
+GA HK1AU
+UT WOS:000457637900009
+DA 2019-03-26
+ER

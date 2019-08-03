@@ -1,0 +1,582 @@
+
+PT J
+AU Friess, DA
+   Richards, DR
+   Phang, VXH
+AF Friess, Daniel A.
+   Richards, Daniel R.
+   Phang, Valerie X. H.
+TI Mangrove forests store high densities of carbon across the tropical
+   urban landscape of Singapore
+SO URBAN ECOSYSTEMS
+LA English
+DT Article
+DE Above-ground biomass; Blue carbon; Carbon emissions; Remote sensing;
+   Soil carbon
+ID ECOSYSTEM SERVICE VALUES; ABOVEGROUND BIOMASS; COASTAL HABITATS; GROUND
+   BIOMASS; BLUE CARBON; ALLOMETRY; PRODUCTIVITY; MODELS; STOCKS; CO2
+AB Tropical forested ecosystems provide multiple ecosystem services to rural and urban landscapes, with carbon storage gaining particular attention. Deforestation due to rural-urban transitions may lead to a reduction in carbon storage ability. Coastal mangrove forests are particularly at risk from deforestation due to their location in the rapidly urbanizing coastal zone, and the city state of Singapore is an extreme example, losing as much as 90 % of its original mangrove cover due to land reclamation and reservoir construction. Knowledge of mangrove ecosystem services may allow better conservation, restoration and incorporation of remaining mangrove patches into the urban landscape. Focusing on the regulating ecosystem service of carbon storage, mangrove carbon stocks have been estimated for Singapore using a combination of field and remote sensing techniques. Biomass carbon showed substantial spatial variation, with old, contiguous mangrove patches containing a higher density of biomass carbon than fragmented, river-fringing or restored mangroves. In total, national biomass carbon equated to 116,117.1 megagrams of carbon (Mg C), and a coarse estimate of the total carbon stock (including soil carbon) suggests that Singapore's mangroves may store 450,571.7 Mg C. While lower than other regional estimates focused on natural, oceanic mangroves, this is a significant carbon stock for a disturbed, urban mangrove system, and may be equivalent to the average annual carbon emissions of 621,000 residents. This analysis, alongside a review of other urban forest studies, highlights the importance of forested ecosystems such as mangroves in providing a carbon storage ecosystem service to urban areas.
+C1 [Friess, Daniel A.; Richards, Daniel R.; Phang, Valerie X. H.] Natl Univ Singapore, Dept Geog, 1 Arts Link, Singapore 117570, Singapore.
+RP Friess, DA; Richards, DR (reprint author), Natl Univ Singapore, Dept Geog, 1 Arts Link, Singapore 117570, Singapore.
+EM dan.friess@nus.edu.sg; d.r.richards@nus.edu.sg
+OI Richards, Daniel/0000-0002-8196-8421
+FU National University of Singapore [R-109-000-141-133]; Ministry of
+   Education, Govt. of Singapore [R-109-000-147-112]
+FX This study was funded by the National University of Singapore
+   (R-109-000-141-133) and the Ministry of Education, Govt. of Singapore
+   (R-109-000-147-112). Field data collection was conducted under research
+   permits NP/RP936 and NP/RP13-007a. We thank the Park Managers and staff
+   at Sungei Buloh Wetland Reserve, Pasir Ris and Pulau Ubin for their
+   assistance with site access and data collection. We also thank staff of
+   the National Biodiversity Centre, National Parks Board. The Singapore
+   national mangrove data layer was used with the permission of the
+   National Parks Board. B Thompson, XY Tan, MK Leong, DM Taylor, A
+   Bhardwaj, S Song, WK Lee, L Lin, and J Xie (all National University of
+   Singapore) and D Lee (National Parks Board) assisted with field data
+   collection.
+CR Alongi DM, 2016, WETL ECOL MANAG, V24, P3, DOI 10.1007/s11273-015-9446-y
+   Alongi DM, 2014, ANNU REV MAR SCI, V6, P195, DOI 10.1146/annurev-marine-010213-135020
+   Balke T, 2016, EARTH SURF PROC LAND, V41, P231, DOI 10.1002/esp.3841
+   Barbier EB, 2011, ECOL MONOGR, V81, P169, DOI 10.1890/10-1510.1
+   Bird M, 2004, APPL GEOGR, V24, P181, DOI 10.1016/j.apgeog.2004.04.002
+   Brander LM, 2012, ECOSYST SERV, V1, P62, DOI 10.1016/j.ecoser.2012.06.003
+   Breuste J, 2013, URBAN ECOSYST, V16, P675, DOI 10.1007/s11252-013-0337-9
+   Burnham KP, 2002, MODEL SELECTION MULT
+   Chave J, 2005, OECOLOGIA, V145, P87, DOI 10.1007/s00442-005-0100-x
+   Chave J, 2014, GLOBAL CHANGE BIOL, V20, P3177, DOI 10.1111/gcb.12629
+   Chave J, 2009, ECOL LETT, V12, P351, DOI 10.1111/j.1461-0248.2009.01285.x
+   CLOUGH BF, 1989, FOREST ECOL MANAG, V27, P117, DOI 10.1016/0378-1127(89)90034-0
+   Comley BWT, 2005, AUST J BOT, V53, P431, DOI 10.1071/BT04162
+   CORLETT RT, 1992, J BIOGEOGR, V19, P411, DOI 10.2307/2845569
+   Davies ZG, 2011, J APPL ECOL, V48, P1125, DOI 10.1111/j.1365-2664.2011.02021.x
+   Davis SJ, 2010, P NATL ACAD SCI USA, V107, P5687, DOI 10.1073/pnas.0906974107
+   Department of Statistics, 2015, GROSS DOM PROD GDP I
+   Department of Statistics Singapore, 2015, POP TRENDS 2015
+   Dobbs C, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0113000
+   Donato DC, 2011, NAT GEOSCI, V4, P293, DOI [10.1038/NGEO1123, 10.1038/ngeo1123]
+   Everard M, 2014, AQUAT CONSERV, V24, P256, DOI 10.1002/aqc.2433
+   Faulkner Stephen, 2004, Urban Ecosystems, V7, P89, DOI 10.1023/B:UECO.0000036269.56249.66
+   Grubler A, 2007, TECHNOL FORECAST SOC, V74, P980, DOI 10.1016/j.techfore.2006.05.023
+   Guntenspergen G.R., 1999, Urban Ecosystems, V2, P187, DOI 10.1023/A:1009589820939
+   Harris D, 2001, SOIL SCI SOC AM J, V65, P1853, DOI 10.2136/sssaj2001.1853
+   IPCC, 2014, CLIMATE CHANGE 2014
+   Jachowski NRA, 2013, APPL GEOGR, V45, P311, DOI 10.1016/j.apgeog.2013.09.024
+   Ngo KM, 2013, FOREST ECOL MANAG, V296, P81, DOI 10.1016/j.foreco.2013.02.004
+   Kauffman J. B, 2012, PROTOCOLS MEASUREMEN
+   Keen MC, 2012, INT EC J, V26, P189
+   Komiyama A, 2005, J TROP ECOL, V21, P471, DOI 10.1017/S0266467405002476
+   Komiyama A, 2008, AQUAT BOT, V89, P128, DOI 10.1016/j.aquabot.2007.12.006
+   Kremer P, 2015, ECOSYST SERV, V12, P149, DOI 10.1016/j.ecoser.2015.01.008
+   Lai S, 2015, OCEAN COAST MANAGE, V103, P78, DOI 10.1016/j.ocecoaman.2014.11.006
+   Lee SK, 1996, HYDROBIOLOGIA, V319, P23, DOI 10.1007/BF00020968
+   Lundy L, 2011, PROG PHYS GEOG, V35, P653, DOI 10.1177/0309133311422464
+   Mcleod E, 2011, FRONT ECOL ENVIRON, V9, P552, DOI 10.1890/110004
+   Mohren GMJ, 2012, CURR OPIN ENV SUST, V4, P686, DOI 10.1016/j.cosust.2012.10.002
+   Murdiyarso D, 2015, NAT CLIM CHANGE, V5, P1089, DOI [10.1038/nclimate2734, 10.1038/NCLIMATE2734]
+   Nagy RC, 2014, URBAN ECOSYST, V17, P255, DOI 10.1007/s11252-013-0312-5
+   NEA, 2014, SING 3 NAT COMM UN F
+   Phang VXH, 2015, EARTH SURF PROC LAND, V40, P1387, DOI 10.1002/esp.3745
+   Poungparn S., 2002, TROPICS, V12, P35, DOI DOI 10.3759/TROPICS.12.35
+   Proisy C, 2007, REMOTE SENS ENVIRON, V109, P379, DOI 10.1016/j.rse.2007.01.009
+   PUTZ FE, 1986, FOREST ECOL MANAG, V17, P211, DOI 10.1016/0378-1127(86)90113-1
+   Ray R, 2011, ATMOS ENVIRON, V45, P5016, DOI 10.1016/j.atmosenv.2011.04.074
+   Simpson W. T., 1996, METHOD ESTIMATE DRY
+   Small C, 2003, J COASTAL RES, V19, P584
+   Smith Thomas J. III, 2006, Wetlands Ecology and Management, V14, P409, DOI 10.1007/s11273-005-6243-z
+   Soares MLG, 2005, ESTUAR COAST SHELF S, V65, P1, DOI 10.1016/j.ecss.2005.05.001
+   Spalding M.D., 2010, WORLD ATLAS MANGROVE
+   STEINKE TD, 1995, HYDROBIOLOGIA, V295, P159, DOI 10.1007/BF00029123
+   Tan PY, 2009, CARBON STORAGE SEQUE
+   Teo S, 2011, NAT SINGAP, V4, P263
+   The World Bank, 2015, WORLD DEV IND CO2 EM
+   Thiagarajah J, 2015, AMBIO, V44, P666, DOI 10.1007/s13280-015-0647-7
+   Thompson BS, 2014, ECOSYST SERV, V8, P128, DOI 10.1016/j.ecoser.2014.03.004
+   URA, 2014, URA MAST PLAN 2014 O
+   Urban Redevelopment Authority URA, 2013, HIGH QUAL LIV ENV AL
+   Wilcox R., 2012, INTRO ROBUST ESTIMAT
+   Yang S., 2011, P NAT SOC SING C NAT, P99
+   Yee A. T. K., 2011, Gardens' Bulletin (Singapore), V63, P205
+   Young RF, 2013, URBAN ECOSYST, V16, P703, DOI 10.1007/s11252-013-0287-2
+   Zanne A., 2009, GLOBAL WOOD DENSITY
+NR 64
+TC 13
+Z9 13
+U1 5
+U2 65
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1083-8155
+EI 1573-1642
+J9 URBAN ECOSYST
+JI Urban Ecosyst.
+PD JUN
+PY 2016
+VL 19
+IS 2
+BP 795
+EP 810
+DI 10.1007/s11252-015-0511-3
+PG 16
+WC Biodiversity Conservation; Ecology; Environmental Sciences; Urban
+   Studies
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Urban
+   Studies
+GA DV1HF
+UT WOS:000382671000017
+DA 2019-03-26
+ER
+
+PT J
+AU Zimmerer, KS
+   Vaca, HLR
+AF Zimmerer, Karl S.
+   Vaca, Hector Luis Rojas
+TI Fine-grain spatial patterning and dynamics of land use and
+   agrobiodiversity amid global changes in the Bolivian Andes
+SO Regional Environmental Change
+LA English
+DT Article
+DE Agrobiodiversity; Resilience; Spatial externalities; Landscape scale;
+   Smallholder social-ecological system; Bolivian Andes; Land use; Land
+   cover change; Migration; Peri-urban
+ID GENETIC-RESOURCES CONSERVATION; FOOD SECURITY; AGRICULTURAL
+   SUSTAINABILITY; CONSERVING AGROBIODIVERSITY; EMPIRICAL-ANALYSIS;
+   PRODUCTION SYSTEMS; ECOSYSTEM FUNCTION; AGRO-BIODIVERSITY; SOUTHERN
+   YUCATAN; PERUVIAN ANDES
+AB Our research addresses the gap in scientific research on the fine-grain spatial patterns and social-ecological interactions of land use and agrobiodiversity. The spatial dimension of agrobiodiversity dynamics potentially strengthens the social-ecological resilience and food security of smallholders by buffering risk and vulnerability. Our research integrates the scientific theories, concepts, and methods of spatial externalities, social-ecological interactions, geospatial land and global change sciences, and political ecology. We designed a case study of the Arbieto-Tarata landscape in the Bolivian Andes that comprises a globally significant agrobiodiversity hot spot of Andean maize. The Arbieto-Tarata landscape, which contains nearly 8000 fields at 2500-2800 masl, is representative of mixed-use smallholder agri-food systems amid global changes. Our research predicts spatial spillover and edge effects of combined social and environmental factors leading to the clustering of same-crop fields. Findings reveal significant levels of the predicted clustering between 2006 and 2012. The degree of this clustering is found to differ among geographic and environmental sub-areas reflecting fine-grain variation of local causal linkages. Extra-local causal linkages include high levels of migration, water resource shortages, and urbanization. Results show the influences of informal and formal coordination in the spatial clustering of same-crop fields. This field-level coordination improves the efficiency of resource allocations and lowers costs of production. It enables the viability of high-agrobiodiversity Andean maize in smallholder land use and agri-food systems amid global changes. The article discusses the broader policy and scientific implications of these findings including scaling up and support of the social-ecological resilience of agrobiodiversity globally.
+C1 [Zimmerer, Karl S.] Earth & Environm Syst Inst, University Pk, PA 16802 USA.
+   [Zimmerer, Karl S.] Penn State Inst Energy & Environm, University Pk, PA 16802 USA.
+   [Zimmerer, Karl S.] GeoSyntheSES Lab Geog Synth Social Ecol Sustainab, University Pk, PA 16802 USA.
+   [Zimmerer, Karl S.] Penn State Univ, Dept Geog, 302 Walker Bldg, University Pk, PA 16802 USA.
+   [Vaca, Hector Luis Rojas] Univ Mayor San Simon, Ctr Cultura & Pensamiento, Calle Jordan, Cochabamba 3700, Bolivia.
+RP Zimmerer, KS (reprint author), Earth & Environm Syst Inst, University Pk, PA 16802 USA.; Zimmerer, KS (reprint author), Penn State Inst Energy & Environm, University Pk, PA 16802 USA.; Zimmerer, KS (reprint author), GeoSyntheSES Lab Geog Synth Social Ecol Sustainab, University Pk, PA 16802 USA.; Zimmerer, KS (reprint author), Penn State Univ, Dept Geog, 302 Walker Bldg, University Pk, PA 16802 USA.
+EM ksz2@psu.edu; hirvna@yahoo.es
+FU NSF BSC [0240962]; HSD [0948816]
+FX Research support in phases I (2002-2006) and II (2009-2012) was provided
+   through NSF BSC 0240962 (U Wisconsin-Madison) and HSD 0948816 (PSU),
+   respectively. Thanks for conceptual and methodological inputs to S de
+   Haan, J Carney, S Brush, C Almekinders, D Lewis, B Barham, J Burt, A
+   Burnicki, and W Doolittle; for research assistance to Q Di, D Retchless,
+   M Bell, T Tennessen, J Centellas, and field teams in Bolivia and
+   Wisconsin; and to Steve Vanek for the drafting of figures. Significant
+   parts were presented in meetings: AAG (Los Angeles, 2012); AAAS
+   (Chicago, 2014), and GLP (Berlin, 2014). Feedback and insights were
+   received from O. Coomes, BL Turner, E Lambin, R DeFries, K McSweeney, J
+   van Etten, P Gepts, L Schneider, and T Rudel. Focus on resilience and
+   agrobiodiversity was advanced in the Workshop on Resilience and
+   Development (Dept. Rural Sociology, Cornell University, 2014) and the
+   "The Public and Private Lives of Plant Genetic Resources" session
+   organized by S. Chapman and V. Nazarea at the 2013 AAA meeting
+   (Chicago). Comments of W. Wolford, C. Barrett, M Walsh-Dilley, and A.
+   Gold are gratefully acknowledged.
+CR ALMEKINDERS CJM, 1995, NETH J AGR SCI, V43, P127
+   Anselin L, 2010, ADV SPAT SCI, P1, DOI 10.1007/978-3-642-01976-0_1
+   AVILA Gonzalo, 1998, CATALOGO RECURSOS GE
+   Avila Lara G, 2008, MAIZ MEJORAMIENTO GE
+   Baker L, 2013, SUSTAINABILITY-BASEL, V5, P2495, DOI 10.3390/su5062495
+   Bebbington A, 2001, ECUMENE, V8, P414, DOI 10.1191/096746001701557101
+   Bellon MR, 2004, WORLD DEV, V32, P159, DOI 10.1016/j.worlddev.2003.04.007
+   Bellon MR, 2001, WORLD DEV, V29, P799, DOI 10.1016/S0305-750X(01)00013-4
+   Bennett EM, 2007, FRONT ECOL ENVIRON, V5, P191, DOI 10.1890/1540-9295(2007)5[191:TFOPSI]2.0.CO;2
+   Birol E, 2006, ENVIRON RESOUR ECON, V34, P439, DOI 10.1007/s10640-006-0009-9
+   Brandolini A., 1970, Genetic resources in plants-their exploration and conservation., P273
+   Brannstrom C, 2014, LAND CHANGE SCI POLI
+   BRUNCKHORST D, 2008, LANDSCAPE ANAL VISUA, P253
+   Brush SB, 2007, AGR ECOSYST ENVIRON, V121, P211, DOI 10.1016/j.agee.2006.12.018
+   Brush SB, 2004, FARMERS BOUNTY LOCAT
+   Burt J. E., 2009, ELEMENTARY STAT GEOG
+   Cassman KG, 1999, P NATL ACAD SCI USA, V96, P5952, DOI 10.1073/pnas.96.11.5952
+   Chowdhury RR, 2006, ANN ASSOC AM GEOGR, V96, P302, DOI 10.1111/j.1467-8306.2006.00479.x
+   Collet C, 2010, DISCRETE SPATIAL DIS
+   Cunningham SA, 2013, AGR ECOSYST ENVIRON, V173, P20, DOI 10.1016/j.agee.2013.04.007
+   De Boef WS, 2012, J SUSTAIN AGR, V36, P788, DOI 10.1080/10440046.2012.695329
+   de Haan S, 2014, C NAC REC GEN AGR SA
+   de Haan S, 2010, MT RES DEV, V30, P222, DOI 10.1659/MRD-JOURNAL-D-10-00020.1
+   DeFries RS, 2004, FRONT ECOL ENVIRON, V2, P249, DOI 10.1890/1540-9295(2004)002[0249:LCBHNA]2.0.CO;2
+   Diaz B. E., 1960, RACES MAIZE BOLIVIA
+   Direccion de Estadisticas Economicas-Bolivia, 2009, ENC NAC AGR 2008
+   Dove Michael R., 1985, SWIDDEN AGR INDONESI
+   Engels JMM, 2006, GENET RESOUR CROP EV, V53, P1675, DOI 10.1007/s10722-005-1215-y
+   Fischer J, 2006, FRONT ECOL ENVIRON, V4, P80, DOI 10.1890/1540-9295(2006)004[0080:BEFART]2.0.CO;2
+   Foley JA, 2011, NATURE, V478, P337, DOI 10.1038/nature10452
+   Fonte SJ, 2012, ADV AGRON, V116, P125, DOI 10.1016/B978-0-12-394277-7.00004-X
+   Garnett T, 2013, SCIENCE, V341, P33, DOI 10.1126/science.1234485
+   Gepts P, 2006, CROP SCI, V46, P2278, DOI 10.2135/cropsci2006.03.0169gas
+   Godfray HCJ, 2010, SCIENCE, V327, P812, DOI 10.1126/science.1185383
+   GOODMAN MM, 1983, MAYDICA, V28, P169
+   GROBMAN A., 1961, RACES MAIZE PERU THE
+   Haller A, 2014, LAND USE POLICY, V38, P239, DOI 10.1016/j.landusepol.2013.11.010
+   Harlan J. R., 1992, CROPS MAN
+   Hawkes JG, 1990, POTATO EVOLUTION BIO
+   Hijmans RJ, 2000, CONSERV BIOL, V14, P1755, DOI 10.1046/j.1523-1739.2000.98543.x
+   HLPE, 2013, INV SMALLH AGR FOOD
+   INIAF (Instituto Nacional de Innovacion Agropecuaria y Forestal), 2013, INIAF FORT PROD VAR
+   INIAF (Instituto Nacional de Innovacion Agropecuaria y Forestal), 2014, C NAC REC GEN AGR
+   Irwin EG, 2002, J ECON GEOGR, V2, P31, DOI 10.1093/jeg/2.1.31
+   Jackson LE, 2007, AGR ECOSYST ENVIRON, V121, P196, DOI 10.1016/j.agee.2006.12.017
+   Jackson LE, 2012, GLOBAL ENVIRON CHANG, V22, P623, DOI 10.1016/j.gloenvcha.2012.05.002
+   Jarvis DI, 2008, P NATL ACAD SCI USA, V105, P5326, DOI 10.1073/pnas.0800607105
+   Johns T, 2006, P NUTR SOC, V65, P182, DOI 10.1079/PNS2006494
+   Johnston RJ, 2002, LAND ECON, V78, P481, DOI 10.2307/3146848
+   Jones AD, 2014, FOOD POLICY, V46, P1, DOI 10.1016/j.foodpol.2014.02.001
+   Lambin EF, 2001, GLOBAL ENVIRON CHANG, V11, P261, DOI 10.1016/S0959-3780(01)00007-3
+   Lansing JS., 2009, PRIESTS PROGRAMMERS
+   Lerner AM, 2015, REG ENVIRON CHANGE, V15, P1421, DOI 10.1007/s10113-014-0699-4
+   Lewis DJ, 2011, LAND ECON, V87, P250, DOI 10.3368/le.87.2.250
+   Lewis DJ, 2008, WORLD DEV, V36, P1813, DOI 10.1016/j.worlddev.2007.10.017
+   Matchett K, 2006, J HIST BIOL, V39, P345, DOI 10.1007/s10739-006-0007-3
+   McCord PF, 2015, LAND USE POLICY, V42, P738, DOI 10.1016/j.landusepol.2014.10.012
+   Momsen JH, 2007, SINGAPORE J TROP GEO, V28, P1, DOI 10.1111/j.1467-9493.2006.00272.x
+   Ochoa C. M., 1990, POTATOES S AM BOLIVI
+   Ostrom E, 2009, SCIENCE, V325, P419, DOI 10.1126/science.1172133
+   Oyarzun PJ, 2013, ECOL FOOD NUTR, V52, P515, DOI 10.1080/03670244.2013.769099
+   Parker DC, 2007, ECOL ECON, V60, P821, DOI 10.1016/j.ecolecon.2006.02.002
+   Plieninger T., 2012, RESILIENCE CULTURAL
+   Polreich S, 2014, BRIDGING GAP INCREAS
+   Postigo JC, 2008, HUM ECOL, V36, P535, DOI 10.1007/s10745-008-9186-1
+   Postigo JC, 2014, J ETHNOBIOL, V34, P383, DOI 10.2993/0278-0771-34.3.383
+   Pretty J, 2008, PHILOS T R SOC B, V363, P447, DOI 10.1098/rstb.2007.2163
+   Produccion Estadistica (DIMPE)-Colombia, 2011, RES ENC NAC AGR ENA
+   Reid WV, 1998, TRENDS ECOL EVOL, V13, P275, DOI 10.1016/S0169-5347(98)01363-9
+   Richards P, 2007, IDS BULL-I DEV STUD, V38, P21
+   Robbins P, 2003, HUM ECOL, V31, P233, DOI 10.1023/A:1023932829887
+   Rojas Vaca HL, 2001, POBLACION TERRITORIO
+   Rudel TK, 2005, GLOBAL ENVIRON CHANG, V15, P23, DOI 10.1016/j.gloenvcha.2004.11.001
+   RUSHTON G, 1969, ANN ASSOC AM GEOGR, V59, P391, DOI 10.1111/j.1467-8306.1969.tb00678.x
+   Sanchez JJ, 2000, MAYDICA, V45, P185
+   Scherr SJ, 2008, PHILOS T R SOC B, V363, P477, DOI 10.1098/rstb.2007.2165
+   Schneider LC, 2010, BIOTROPICA, V42, P41, DOI 10.1111/j.1744-7429.2009.00569.x
+   Sevilla R, 1993, CORN CULTURE PREHIST, P218
+   Sietz D, 2012, REG ENVIRON CHANGE, V12, P489, DOI 10.1007/s10113-011-0246-5
+   Sietz D, 2011, GLOBAL ENVIRON CHANG, V21, P431, DOI 10.1016/j.gloenvcha.2010.11.005
+   Sistema de Consulta de Cuadros Estadisticos-Peru, 2013, 4 CENS NAC AGR 2012
+   Skarbo K, 2014, HUM ECOL, V42, P711, DOI 10.1007/s10745-014-9685-1
+   Smale M, 2004, GENET RESOUR CROP EV, V51, P121, DOI 10.1023/B:GRES.0000020678.82581.76
+   Snapp SS, 2010, P NATL ACAD SCI USA, V107, P20840, DOI 10.1073/pnas.1007199107
+   Turner BL, 2007, P NATL ACAD SCI USA, V104, P20666, DOI 10.1073/pnas.0704119104
+   van Etten Jacob, 2007, Plant Genetic Resources Characterization and Utilization, V5, P57, DOI 10.1017/S147926210767230X
+   Vavilov N., 1992, ORIGIN GEOGRAPHY CUL
+   Vigouroux Y, 2008, AM J BOT, V95, P1240, DOI 10.3732/ajb.0800097
+   Yarnall K, 2010, J LAT AM GEOGR, V9, P107, DOI 10.1353/lag.0.0083
+   Young KR, 2006, PROF GEOGR, V58, P436, DOI 10.1111/j.1467-9272.2006.00580.x
+   Young KR, 2006, CLIMATIC CHANGE, V78, P63, DOI 10.1007/s10584-006-9091-9
+   Young KR, 2009, ANN MO BOT GARD, V96, P492, DOI 10.3417/2008035
+   Young OR, 2006, GLOBAL ENVIRON CHANG, V16, P304, DOI 10.1016/j.gloenvcha.2006.03.004
+   Zimmerer K. S., 1996, CHANGING FORTUNES BI
+   Zimmerer KS, 2015, RESILIENCE, V3, P183, DOI 10.1080/21693293.2015.1072311
+   Zimmerer KS, 2015, CURR OPIN ENV SUST, V14, P49, DOI 10.1016/j.cosust.2015.03.004
+   Zimmerer KS, 2014, ECOL SOC, V19, DOI 10.5751/ES-06316-190201
+   Zimmerer KS, 2013, P NATL ACAD SCI USA, V110, P2769, DOI 10.1073/pnas.1216294110
+   Zimmerer KS, 2010, ANNU REV ENV RESOUR, V35, P137, DOI 10.1146/annurev-environ-040309-113840
+   Zimmerer KS, 2001, GEOGR REV, V91, P725, DOI 10.2307/3594729
+   Zimmerer KS, 1998, BIOSCIENCE, V48, P445, DOI 10.2307/1313242
+NR 101
+TC 6
+Z9 6
+U1 2
+U2 28
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1436-3798
+EI 1436-378X
+J9 REG ENVIRON CHANGE
+JI Reg. Envir. Chang.
+PD DEC
+PY 2016
+VL 16
+IS 8
+SI SI
+BP 2199
+EP 2214
+DI 10.1007/s10113-015-0897-8
+PG 16
+WC Environmental Sciences; Environmental Studies
+SC Environmental Sciences & Ecology
+GA ED6IK
+UT WOS:000388959100004
+DA 2019-03-26
+ER
+
+PT J
+AU Campos, P
+   Troncoso, L
+   Lund, PD
+   Cuevas, C
+   Fissore, A
+   Garcia, R
+AF Campos, Pablo
+   Troncoso, Lorena
+   Lund, Peter D.
+   Cuevas, Cristian
+   Fissore, Adelqui
+   Garcia, Rodrigo
+TI Potential of distributed photovoltaics in urban Chile
+SO SOLAR ENERGY
+LA English
+DT Article
+DE Sustainable energy; Photovoltaics; Distributed energy; Urban energy;
+   Grid-parity
+ID ENERGY RESOURCE ASSESSMENT; SOLAR POWER-PLANTS; NORTHERN CHILE; ROOFS;
+   CHINA; COST
+AB In this article, we present an updated potential of distributed photovoltaics in cities in Chile, which is one of the most promising regions for solar energy utilization because of high insolation, high energy costs and rapid urbanization. The study is based on detailed analysis of the spatio-temporal solar potential including load matching in a southern Chilean city, which is then extrapolated to all cities with more than 15,000 inhabitants. In addition, we estimate the cost-effectiveness of such solar city schemes. Our results show that in the city of Concepcion PV could cover up to 90% of the annual electricity demand. On national scale, cities could on average produce 83% of their annual electricity demand, but in the northern part this could exceed even 100%. If scaling the PV yield from distributed PV in cities to whole Chile that would correspond to 22% of country's electricity demand. The cost (LCOE) of PV in cities seems to be cost-effective against grid electricity, i.e. in the Chilean context PV has already reached grid-parity in cities. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Campos, Pablo; Troncoso, Lorena; Lund, Peter D.] Aalto Univ, Sch Sci, 4 Otakaari St,Box 14100, FI-00076 Espoo, Finland.
+   [Campos, Pablo; Cuevas, Cristian; Fissore, Adelqui] Univ Concepcion, Dept Ingn Mecan, Fac Ingn, Casilla 160-C, Concepcion, Chile.
+   [Troncoso, Lorena; Garcia, Rodrigo] Univ Bio Bio, Dept Diseno & Teoria Arquitectura, Avda Collao 1202, Concepcion, Chile.
+RP Campos, P (reprint author), Univ Concepcion, Dept Ingn Mecan, Fac Ingn, Casilla 160-C, Concepcion, Chile.
+EM pcamposb@udec.cl
+RI Lund, Peter/E-7563-2012
+OI Lund, Peter/0000-0002-4819-3847; Troncoso Valencia,
+   lorena/0000-0003-1661-8019
+FU Assessment of solar potential in urban areas - CONICYT Chile [AKA-ERNC
+   007]; Academy of Finland [269795]
+FX The authors acknowledge the financial assistance of the project AKA-ERNC
+   007: Assessment of solar potential in urban areas, funded by CONICYT
+   Chile and Academy of Finland (Project 269795).
+CR Alonso-Tristan C., 2014, ENERGY POWER ENG, V6, P292
+   Araya-Munoz D, 2014, ENERG BUILDINGS, V69, P62, DOI 10.1016/j.enbuild.2013.10.014
+   Axaopoulos P., 2013, EUR SCI J, V9
+   CGE Distribucion S.A., 2014, TAR SUM EL
+   CNE PNUD UTFSM, 2008, IRR SOL TERR REP CHI
+   Comision de Estudios Habitacionales y Urbanos, INF EST ED 30, V30
+   Comision Nacional de Energia, 1998, OP REAL SIST EL NAC
+   Comision Permanente de Recursos Naturales Bienes Nacionales y Medio Ambiente de la Camara de Diputados, COMP PREC EL CHIL PA
+   Comite Corfo, 2015, REP ERNC
+   de Chile Generadoras A.G., 2015, B MERCADO ELECT
+   del Sol F, 2013, RENEW SUST ENERG REV, V19, P489, DOI 10.1016/j.rser.2012.11.038
+   Energy Information Administration, 2013, INT EN OUTL
+   Escobar RA, 2014, RENEW ENERG, V71, P324, DOI 10.1016/j.renene.2014.05.013
+   ESRI, 2011, ARCGIS DESKT REL 10
+   Freitas S, 2015, RENEW SUST ENERG REV, V41, P915, DOI 10.1016/j.rser.2014.08.060
+   Garcia R., 2016, CHILE J GREEN BUILD, V11, P118
+   Gautam BR, 2015, ENERG BUILDINGS, V86, P735, DOI 10.1016/j.enbuild.2014.10.038
+   Global Energy Network Institute, 2001, REN EN POT CHIL
+   Hanel M, 2013, RENEW ENERG, V49, P96, DOI 10.1016/j.renene.2012.01.056
+   IEA-PVPS, 2014, TREND 2014 PHOT APPL
+   Institute Nacional de Estadisticas, 2010, CHIL MED AMB INF ANN
+   Instituto Nacional de Estadisticas, 2008, DISTR CONS EN CHIL
+   Kosir M, 2014, ENERG POLICY, V69, P443, DOI 10.1016/j.enpol.2014.01.045
+   Li DP, 2015, SOL ENERGY, V111, P225, DOI 10.1016/j.solener.2014.10.045
+   Molina A., 2012, EXPLORADOR RECURSO S
+   Redweik P, 2013, SOL ENERGY, V97, P332, DOI 10.1016/j.solener.2013.08.036
+   Servert JF, 2014, ENRGY PROCED, V49, P1885, DOI 10.1016/j.egypro.2014.03.200
+   Soto W.D., 2005, SOL ENERGY, P78
+   U. EIA, 2013, UPD CAP COST EST UT
+   United Nations, 2014, WORLD URB PROSP 2014
+   United Nations Environment Programme, 2001, VIS CHANG REC EFF PO
+   Woodhouse S., 2011, REN EN POT CHIL
+   Yuan JH, 2014, ENERGY, V78, P939, DOI 10.1016/j.energy.2014.10.091
+   Zhang F, 2015, ENERG POLICY, V81, P43, DOI 10.1016/j.enpol.2015.02.010
+   Zhao XG, 2015, ENERGY, V88, P572, DOI 10.1016/j.energy.2015.05.084
+NR 35
+TC 10
+Z9 10
+U1 1
+U2 16
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0038-092X
+J9 SOL ENERGY
+JI Sol. Energy
+PD OCT
+PY 2016
+VL 135
+BP 43
+EP 49
+DI 10.1016/j.solener.2016.05.043
+PG 7
+WC Energy & Fuels
+SC Energy & Fuels
+GA DV3AN
+UT WOS:000382793500005
+DA 2019-03-26
+ER
+
+PT J
+AU Azevedo, SM
+   Saba, H
+   Miranda, JGV
+   Nascimento Filho, AS
+   Moret, MA
+AF Azevedo, S. M.
+   Saba, H.
+   Miranda, J. G. V.
+   Nascimento Filho, A. S.
+   Moret, M. A.
+TI Self-affinity in the dengue fever time series
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS C
+LA English
+DT Article
+DE Detrended fluctuation analysis; epidemic process; subdiffusive behavior
+ID LONG-RANGE CORRELATIONS; DETRENDED FLUCTUATION ANALYSIS; PERSISTENCE
+AB Dengue is a complex public health problem that is common in tropical and subtropical regions. This disease has risen substantially in the last three decades, and the physical symptoms depict the self-affine behavior of the occurrences of reported dengue cases in Bahia, Brazil. This study uses detrended fluctuation analysis (DFA) to verify the scale behavior in a time series of dengue cases and to evaluate the long-range correlations that are characterized by the power law alpha exponent for different cities in Bahia, Brazil. The scaling exponent (alpha) presents different long-range correlations, i.e. uncorrelated, anti-persistent, persistent and diffusive behaviors. The long-range correlations highlight the complex behavior of the time series of this disease. The findings show that there are two distinct types of scale behavior. In the first behavior, the time series presents a persistent alpha exponent for a one-month period. For large periods, the time series signal approaches subdiffusive behavior. The hypothesis of the long-range correlations in the time series of the occurrences of reported dengue cases was validated. The observed self-affinity is useful as a forecasting tool for future periods through extrapolation of the alpha exponent behavior. This complex system has a higher predictability in a relatively short time (approximately one month), and it suggests a new tool in epidemiological control strategies. However, predictions for large periods using DFA are hidden by the subdiffusive behavior.
+C1 [Azevedo, S. M.; Nascimento Filho, A. S.; Moret, M. A.] Programa Modelagem Computac SENAI Cimatec, Salvador, BA, Brazil.
+   [Azevedo, S. M.] Univ Estadual Feira de Santana, Feira De Santana, BA, Brazil.
+   [Saba, H.; Miranda, J. G. V.; Moret, M. A.] Univ Estado Bahia, Salvador, BA, Brazil.
+RP Moret, MA (reprint author), Programa Modelagem Computac SENAI Cimatec, Salvador, BA, Brazil.; Moret, MA (reprint author), Univ Estado Bahia, Salvador, BA, Brazil.
+EM stelamariaa@gmail.com; hcardoso@uneb.br; vivasm@gmail.com;
+   aloisio.nascimento@gmail.com; mamoret@gmail.com
+RI Moret, Marcelo A./O-3485-2018
+OI Moret, Marcelo A./0000-0003-0051-6309; Saba, Hugo/0000-0001-8402-6416
+FU CNPq [306571/2011-0, 448303/2014-0, 304454/2014-1, 458549/2014-2];
+   Coordination of Improvement of Higher Education Personnel (CAPES);
+   National Petroleum Agency (ANP), SENAI-MCTI, FINEP
+FX This work received partial financial support from CNPq (Grant Numbers
+   306571/2011-0, 448303/2014-0, 304454/2014-1, 458549/2014-2), the
+   Coordination of Improvement of Higher Education Personnel (CAPES) and
+   the National Petroleum Agency (ANP) PRH-55, SENAI-MCTI, FINEP.
+CR Barrera R, 2006, AM J TROP MED HYG, V74, P290, DOI 10.4269/ajtmh.2006.74.290
+   Bashan A, 2008, PHYSICA A, V387, P5080, DOI 10.1016/j.physa.2008.04.023
+   Braga IA, 2007, EPIDEMIOL SERV SAUDE, V16, P113
+   Costa RL, 2003, PHYSICA A, V329, P231, DOI 10.1016/S0378-4371(03)00607-1
+   Farrar J, 2007, TROP MED INT HEALTH, V12, P695, DOI 10.1111/j.1365-3156.2007.01838
+   Figueiredo PH, 2010, PHYSICA A, V389, P2682, DOI 10.1016/j.physa.2010.03.021
+   Filho ANS, 2008, INT J MOD PHYS C, V19, P665, DOI 10.1142/S0129183108012388
+   Galhardo CEC, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/10/103005
+   Hausdorff JM, 1996, J APPL PHYSIOL, V80, P1448
+   Horstick O, 2010, T ROY SOC TROP MED H, V104, P379, DOI 10.1016/j.trstmh.2009.07.027
+   Ivanov PC, 1996, NATURE, V383, P323, DOI 10.1038/383323a0
+   Ivanova K, 1999, PHYSICA A, V274, P349, DOI 10.1016/S0378-4371(99)00312-X
+   Ivanova K, 2000, EUROPHYS LETT, V52, P40, DOI 10.1209/epl/i2000-00401-5
+   Kantelhardt JW, 2001, PHYSICA A, V295, P441, DOI 10.1016/S0378-4371(01)00144-3
+   Liu YH, 1997, PHYSICA A, V245, P437, DOI 10.1016/S0378-4371(97)00368-3
+   Malamud BD, 1999, J STAT PLAN INFER, V80, P173, DOI 10.1016/S0378-3758(98)00249-3
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Moret MA, 2014, PHYS LETT A, V378, P494, DOI 10.1016/j.physleta.2013.12.030
+   Moret MA, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.041104
+   Padmanabha H, 2012, PLOS NEGLECT TROP D, V6, DOI 10.1371/journal.pntd.0001799
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   PENG CK, 1992, NATURE, V356, P168, DOI 10.1038/356168a0
+   Pongpan S, 2013, ISRN PEDIAT, V2013, DOI DOI 10.1155/2013/845876
+   Rigau-Perez JG, 1998, LANCET, V352, P971, DOI 10.1016/S0140-6736(97)12483-7
+   Saba H, 2014, PHYSICA A, V413, P205, DOI 10.1016/j.physa.2014.06.045
+   Saba H, 2014, BMC PUBLIC HEALTH, V14, DOI 10.1186/1471-2458-14-1085
+   Secretaria de Vigilancia em Saude, 2012, B EVIDEMIOLOGICO DEN, V43, P11
+   Siwy Z, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.031907
+   Zebende GF, 2004, PHYSICA A, V342, P322, DOI 10.1016/j.physa.2004.01.071
+   Zebende GF, 2005, PHYSICA A, V349, P452, DOI 10.1016/j.physa.2004.10.027
+   Zheng HY, 2008, PHYSICA A, V387, P2091, DOI 10.1016/j.physa.2007.11.020
+NR 31
+TC 3
+Z9 3
+U1 0
+U2 9
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0129-1831
+EI 1793-6586
+J9 INT J MOD PHYS C
+JI Int. J. Mod. Phys. C
+PD DEC
+PY 2016
+VL 27
+IS 12
+AR 1650143
+DI 10.1142/S0129183116501436
+PG 9
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+SC Computer Science; Physics
+GA ED9ZA
+UT WOS:000389231200005
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI The evolution of Zipf's law indicative of city development
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE City-size distribution; Zipf's law; Generalized 2(n) rule;
+   Self-organized criticality; Fractal dimension; Urbanization
+ID SELF-ORGANIZED CRITICALITY; SIZE DISTRIBUTIONS; CITIES; HIERARCHY;
+   SYSTEMS; MODEL
+AB Zipf's law of city-size distributions can be expressed by three types of mathematical models: one-parameter form, two-parameter form, and three-parameter form. The one-parameter and one of the two-parameter models are familiar to urban scientists. However, the three-parameter model and another type of two-parameter model have not attracted attention. This paper is devoted to exploring the conditions and scopes of application of these Zipf models. By mathematical reasoning and empirical analysis, new discoveries are made as follows. First, if the size distribution of cities in a geographical region cannot be described with the one- or two-parameter model, maybe it can be characterized by the three-parameter model with a scaling factor and a scale-translational factor. Second, all these Zipf models can be unified by hierarchical scaling laws based on cascade structure. Third, the patterns of city-size distributions seem to evolve from three-parameter mode to two-parameter mode, and then to one-parameter mode. Four-year census data of Chinese cities are employed to verify the three-parameter Zipf's law and the corresponding hierarchical structure of rank-size distributions. This study is revealing for people to understand the scientific laws of social systems and the property of urban development. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Chen, Yanguang] Peking Univ, Dept Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Dept Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [41171129]
+FX This research was sponsored by the National Natural Science Foundation
+   of China (Grant No. 41171129). The support is gratefully acknowledged. I
+   would like to thank Dr. Jiejing Wang for data processing of China's city
+   population and the anonymous reviewer whose constructive comments were
+   helpful in improving the quality of this paper.
+CR Aitchison  J., 1957, LOGNORMAL DISTRIBUTI
+   Anderson G, 2005, REG SCI URBAN ECON, V35, P756, DOI 10.1016/j.regsciurbeco.2005.01.003
+   Auerbach F, 1913, PETERMANNS MITT, V59, P74
+   Bak P, 1996, NATURE WORKS SCI SEL
+   Batty M, 1999, DISCRETE DYN NAT SOC, V3, P109, DOI 10.1155/S1026022699000151
+   Batty M, 1994, FRACTAL CITIES GEOME
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   Behravesh N., 2008, SPIN FREE EC NO NONS
+   Benguigui L, 2007, COMPUT ENVIRON URBAN, V31, P648, DOI 10.1016/j.compenvurbsys.2006.11.002
+   Benguigui L, 2007, PHYSICA A, V384, P613, DOI 10.1016/j.physa.2007.05.059
+   Carroll C., 1982, PROGR HUMAN GEOGRAPH, V6, P1
+   Chen Y, 2004, CHAOS SOLITON FRACT, V22, P793, DOI 10.1016/j.chaos.2004.02.059
+   Chen Y., 1993, ECON GEOGR, V13, P48
+   Chen Y.G., 2001, J CENTRAL CHINA NORM, V35, P229
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   Chen YG, 2014, PHYSICA A, V402, P266, DOI 10.1016/j.physa.2014.01.061
+   Chen YG, 2012, PHYSICA A, V391, P3285, DOI 10.1016/j.physa.2011.12.031
+   Chen YG, 2012, CHAOS SOLITON FRACT, V45, P63, DOI 10.1016/j.chaos.2011.10.001
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   Davis K, 1978, SYSTEMS CITIES, P92
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gabaix X, 2011, J BUS ECON STAT, V29, P24, DOI 10.1198/jbes.2009.06157
+   Gabaix Xavier, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   Gangopadhyay K, 2009, PHYSICA A, V388, P2682, DOI 10.1016/j.physa.2009.03.019
+   Gell-Mann M., 1994, QUARK JAGUAR ADVENTU
+   Jiang B., 2015, INT J GEOGR INF SCI, V25, P1269
+   Jiang B., 2010, GEOSPATIAL ANAL MODE
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   Kauffman SA., 1993, ORIGIN ORDER SELF OR
+   Knox P. L., 2009, PLACES REGIONS GLOBA
+   KRONE RM, 1980, SYSTEMS ANAL POLICY
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Liang J.S., 1999, J BEIJING U, V35, P132
+   Lotka A. J., 1925, ELEMENTS PHYS BIOL
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   Mandelbrot B.B., 1965, MATH EXPLORATIONS BE, P272
+   Portugali J., 2000, SELF ORG CITY
+   Sassen S., 1991, GLOBAL CITY NEW YORK
+   Singer HW, 1936, ECON J, V46, P254, DOI 10.2307/2225228
+   Taylor PJ, 2001, GEOGR ANAL, V33, P181, DOI 10.1111/j.1538-4632.2001.tb00443.x
+   WINIWARTER P, 1983, SPECULAT SCI TECHNOL, V6, P103
+   Ye XY, 2012, ANN REGIONAL SCI, V49, P135, DOI 10.1007/s00168-011-0442-8
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zhou Y.X., 2004, CITY PLANNING REV, V28, P49
+   Zhou Yixing, 1995, URBAN GEOGRAPHY
+   Zhou YX, 2004, URBAN PLANN, V28, P38
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 50
+TC 10
+Z9 12
+U1 0
+U2 20
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD FEB 1
+PY 2016
+VL 443
+BP 555
+EP 567
+DI 10.1016/j.physa.2015.09.083
+PG 13
+WC Physics, Multidisciplinary
+SC Physics
+GA CW5QX
+UT WOS:000365052700056
+DA 2019-03-26
+ER

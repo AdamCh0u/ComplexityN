@@ -1,0 +1,497 @@
+
+PT J
+AU Qubbaj, MR
+   Shutters, ST
+   Muneepeerakul, R
+AF Qubbaj, Murad R.
+   Shutters, Shade T.
+   Muneepeerakul, Rachata
+TI Living in a Network of Scaling Cities and Finite Resources
+SO BULLETIN OF MATHEMATICAL BIOLOGY
+LA English
+DT Article
+DE Sustainability; Scaling; Urban networks; Population-resource dynamics
+ID SUSTAINABILITY; GROWTH; URBAN; TRANSPORTATION; ORIGINS; TRADE
+AB Many urban phenomena exhibit remarkable regularity in the form of nonlinear scaling behaviors, but their implications on a system of networked cities has never been investigated. Such knowledge is crucial for our ability to harness the complexity of urban processes to further sustainability science. In this paper, we develop a dynamical modeling framework that embeds population-resource dynamics-a generalized Lotka-Volterra system with modifications to incorporate the urban scaling behaviors-in complex networks in which cities may be linked to the resources of other cities and people may migrate in pursuit of higher welfare. We find that isolated cities (i.e., no migration) are susceptible to collapse if they do not have access to adequate resources. Links to other cities may help cities that would otherwise collapse due to insufficient resources. The effects of inter-city links, however, can vary due to the interplay between the nonlinear scaling behaviors and network structure. The long-term population level of a city is, in many settings, largely a function of the city's access to resources over which the city has little or no competition. Nonetheless, careful investigation of dynamics is required to gain mechanistic understanding of a particular city-resource network because cities and resources may collapse and the scaling behaviors may influence the effects of inter-city links, thereby distorting what topological metrics really measure.
+C1 [Qubbaj, Murad R.; Shutters, Shade T.] Arizona State Univ, Sch Sustainabil, Tempe, AZ 85287 USA.
+   [Shutters, Shade T.] Arizona State Univ, Ctr Social Dynam & Complex, Tempe, AZ 85287 USA.
+   [Muneepeerakul, Rachata] Arizona State Univ, Sch Sustainabil & Math, Computat & Modeling Sci Ctr, Tempe, AZ 85287 USA.
+RP Qubbaj, MR (reprint author), Arizona State Univ, Sch Sustainabil, Tempe, AZ 85287 USA.
+EM murad.qubbaj@asu.edu
+FU NSF [GEO-1115054]
+FX The authors wish to thank two reviewers for their useful comments.
+   M.R.Q. and R.M. also acknowledge the support from NSF grant GEO-1115054.
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Alves LGA, 2013, PHYSICA A, V392, P2672, DOI 10.1016/j.physa.2013.02.002
+   Barrat A., 2013, DYNAMICAL PROCESSES
+   BATTY M, 1995, NATURE, V377, P574, DOI 10.1038/377574a0
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bulkeley H., 2003, CITIES CLIMATE CHANG
+   Castles S, 2002, INT MIGR REV, V36, P1143, DOI 10.1111/j.1747-7379.2002.tb00121.x
+   Colizza V, 2006, P NATL ACAD SCI USA, V103, P2015, DOI 10.1073/pnas.0510525103
+   Colunga-Garcia M, 2009, J ECON ENTOMOL, V102, P237, DOI 10.1603/029.102.0133
+   D'Odorico P, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL043167
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Kates RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/pnas.1231331100
+   Lenzen M, 2012, NATURE, V486, P109, DOI 10.1038/nature11145
+   Lobo J, 2008, J URBAN ECON, V63, P871, DOI 10.1016/j.jue.2007.07.005
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Muneepeerakul R, 2012, ECOL ECON, V77, P123, DOI 10.1016/j.ecolecon.2012.02.017
+   Neal Z, 2011, URBAN STUD, V48, P2733, DOI 10.1177/0042098010388954
+   Neal ZP, 2013, METROP MOD LIFE, P1
+   Pickett STA, 2008, ANNU REV ECOL SYST, V32, P99
+   Rees W, 1996, ENVIRON IMPACT ASSES, V16, P223, DOI 10.1016/S0195-9255(96)00022-4
+   ROMER PM, 1994, J ECON PERSPECT, V8, P3, DOI 10.1257/jep.8.1.3
+   Samet RH, 2013, FUTURES, V47, P49, DOI 10.1016/j.futures.2013.01.006
+   Seto KC, 2010, ANNU REV ENV RESOUR, V35, P167, DOI 10.1146/annurev-environ-100809-125336
+   Trombulak SC, 2000, CONSERV BIOL, V14, P18, DOI 10.1046/j.1523-1739.2000.99084.x
+   UNFPA-United Nations Population Fund, 2007, STAT WORLD POP 2007
+   van den Bergh JCJM, 1999, ECOL ECON, V29, P61, DOI 10.1016/S0921-8009(99)00032-4
+   Vanderheiden S, 2008, POLIT STUD-LONDON, V56, P435, DOI 10.1111/j.1467-9248.2007.00691.x
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Wolf S. R., 2007, FORUM PUBLIC POLICY
+   Yamamoto A. T., 2006, URBAN CRISIS CULTURE
+   Young Robert F., 2009, Urban Ecosystems, V12, P311, DOI 10.1007/s11252-009-0095-x
+NR 35
+TC 5
+Z9 5
+U1 2
+U2 23
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0092-8240
+EI 1522-9602
+J9 B MATH BIOL
+JI Bull. Math. Biol.
+PD FEB
+PY 2015
+VL 77
+IS 2
+SI SI
+BP 390
+EP 407
+DI 10.1007/s11538-014-9949-3
+PG 18
+WC Biology; Mathematical & Computational Biology
+SC Life Sciences & Biomedicine - Other Topics; Mathematical & Computational
+   Biology
+GA CB0QH
+UT WOS:000349331100010
+PM 24722889
+DA 2019-03-26
+ER
+
+PT J
+AU Liang, Y
+AF Liang, Ying
+TI Correlations Between Health-Related Quality of Life and Interpersonal
+   Trust: Comparisons Between Two Generations of Chinese Rural-to-Urban
+   Migrants
+SO SOCIAL INDICATORS RESEARCH
+LA English
+DT Article
+DE SF-36; HRQOL; Interpersonal trust; Rural-to-urban migrants; Two
+   generations; Comparisons
+ID SELF-RATED HEALTH; CONSTRUCT-VALIDITY; SCALING ASSUMPTIONS; AGING
+   PEOPLE; HUKOU SYSTEM; SURVEY SF-36; POPULATION; VALIDATION; MIGRATION;
+   WORKERS
+AB The new generation of Chinese rural-to-urban migrants, who were born after the 1980s, has played an increasingly significant role in the development of China. This paper explores the correlations between interpersonal trust and health-related quality of life (HRQOL) of Chinese rural-to-urban migrants by comparing two generations. A survey (N = 769) was conducted on rural-to-urban migrants in Wuhan in 2012. Significant differences between the two generations emerged in terms of education, working hours, and other factors. First-generation migrants reported a higher level of trust in family, relatives, and neighbors compared with new-generation migrants. The new generation had better physical health and worse mental health. Confirmatory factor analysis and structural equation model were employed. Results indicated that the new generation obtained more path coefficients that passed the significance tests; that is, interpersonal trust obtained more significant correlations with the new generation. The coefficient between workmate trust and vitality among new-generation migrants was the largest (5.293, P < 0.001), whereas the coefficient between family trust and vitality among first-generation migrants was the smallest (1.639, P < 0.05). The correlations between the six domains of interpersonal trust and HRQOL were balanced. The different backgrounds in upbringing, occupational and living conditions, changed values, and psychological characteristics were associated with these. This study highlighted the need to address the psychological concerns, treatment, and intervention of the new generation of Chinese rural-to-urban migrants.
+C1 Nanjing Univ, Sch Social & Behav Sci, Dept Social Work & Social Policy, Nanjing 210008, Jiangsu, Peoples R China.
+RP Liang, Y (reprint author), Nanjing Univ, Sch Social & Behav Sci, Dept Social Work & Social Policy, Nanjing 210008, Jiangsu, Peoples R China.
+EM njulucy79@gmail.com
+FU National Natural Science Foundation of China [71173099, 71473117]; New
+   urbanization and social governance collaborative innovation center,
+   Jiangsu province; Program for New Century Excellent Talents in
+   University [NCET-11-0228]; key project of the National Social Science
+   Fund entitled Social stability risk assessment of major policies and
+   projects [11AZD108]
+FX This paper is supported by the General Program of National Natural
+   Science Foundation of China (71173099 & 71473117), the projects funded
+   by "New urbanization and social governance collaborative innovation
+   center, Jiangsu province", the Program for New Century Excellent Talents
+   in University (NCET-11-0228) and the key project of the National Social
+   Science Fund entitled Social stability risk assessment of major policies
+   and projects (11AZD108). The authors also want to thank Peiyi Lu, a
+   student of Sun Yat-sen University, for her contribution to this study.
+CR Aguilera MB, 2003, SOC FORCES, V82, P671, DOI 10.1353/sof.2004.0001
+   Anagnostopoulos F, 2005, QUAL LIFE RES, V14, P1959, DOI 10.1007/s11136-005-3866-8
+   Bhugra D, 2004, ACTA PSYCHIAT SCAND, V109, P243, DOI 10.1046/j.0001-690X.2003.00246.x
+   Brussaard J H, 2001, Public Health Nutr, V4, P659
+   Buchcik J, 2013, INT J MIGR HEALTH SO, V9, P170, DOI 10.1108/IJMHSC-09-2013-0033
+   Byrne B., 2010, STRUCTURAL EQUATION
+   Calderon J., 2012, EXPLORING POLICY ROU, V2, P1
+   Chan J, 2010, ASIA PAC J, V37, P1
+   Chan KW, 1999, CHINA QUART, P818
+   Chen XG, 2011, HUM ORGAN, V70, P22, DOI 10.17730/humo.70.1.k76047734m703500
+   Cheng ZM, 2013, HABITAT INT, V39, P246, DOI 10.1016/j.habitatint.2012.11.007
+   CRONBACH LJ, 1951, PSYCHOMETRIKA, V16, P297, DOI DOI 10.1007/BF02310555
+   Davies A. A., 2006, EPIDEMIOLOGY COMMUNI, V60, P424
+   Fei Xiaotong, 1992, SOIL FDN CHINESE SOC
+   Franzini L, 2008, SOC SCI MED, V67, P1959, DOI 10.1016/j.socscimed.2008.09.030
+   Fuh JL, 2000, QUAL LIFE RES, V9, P675, DOI 10.1023/A:1008993821633
+   Goodburn C, 2009, INT J EDUC DEV, V29, P495, DOI 10.1016/j.ijedudev.2009.04.005
+   Herreros F, 2009, POLIT STUD-LONDON, V57, P337, DOI 10.1111/j.1467-9248.2008.00738.x
+   Hesketh T, 2008, PUBLIC HEALTH REP, V123, P189, DOI 10.1177/003335490812300211
+   Kaplan RM, 1982, HEALTH PSYCHOL, V1, P61, DOI DOI 10.1037/0278-6133.1.1.61
+   Keller SD, 1998, J CLIN EPIDEMIOL, V51, P1179, DOI 10.1016/S0895-4356(98)00110-3
+   Kwong J, 2011, J YOUTH STUD, V14, P871, DOI 10.1080/13676261.2011.607435
+   Lam CLK, 2005, J CLIN EPIDEMIOL, V58, P815, DOI 10.1016/j.jclinepi.2004.12.008
+   Lam CLK, 1998, J CLIN EPIDEMIOL, V51, P1139, DOI 10.1016/S0895-4356(98)00105-X
+   Li L, 2003, J EPIDEMIOL COMMUN H, V57, P259, DOI 10.1136/jech.57.4.259
+   Liang Y, 2014, SOC INDIC RES, V119, P943, DOI 10.1007/s11205-013-0525-2
+   Liang Y, 2014, SOC INDIC RES, V118, P1249, DOI 10.1007/s11205-013-0471-z
+   Liang Y, 2015, SOC INDIC RES, V120, P277, DOI 10.1007/s11205-014-0585-y
+   Liang Y, 2015, SOC INDIC RES, V120, P835, DOI 10.1007/s11205-014-0620-z
+   Liang Y, 2014, SOC INDIC RES, V116, P307, DOI 10.1007/s11205-013-0280-4
+   Liang Y, 2014, INT J EQUITY HEALTH, V13, DOI 10.1186/1475-9276-13-5
+   Lin DH, 2011, COMMUNITY MENT HLT J, V47, P171, DOI 10.1007/s10597-009-9278-4
+   Lindert J, 2008, EUR PSYCHIAT, V23, pS14, DOI 10.1016/S0924-9338(08)70057-9
+   Liu Y, 2012, HABITAT INT, V36, P192, DOI 10.1016/j.habitatint.2011.08.008
+   Loge JH, 1998, SCAND J SOC MED, V26, P250
+   Mokkink LB, 2010, QUAL LIFE RES, V19, P539, DOI 10.1007/s11136-010-9606-8
+   Montazeri A, 2005, QUAL LIFE RES, V14, P875, DOI 10.1007/s11136-004-1014-5
+   Muthen B, 2002, BEHAVIORMETRIKA, V21, P81, DOI DOI 10.2333/BHMK.29.81
+   Ngai P, 2010, MOD CHINA, V36, P493, DOI 10.1177/0097700410373576
+   Nielsen SS, 2010, INT J PUBLIC HEALTH, V55, P357, DOI 10.1007/s00038-010-0145-4
+   Nummela O, 2008, HEALTH PLACE, V14, P243, DOI 10.1016/j.healthplace.2007.06.006
+   Nummela O, 2012, SOC SCI MED, V74, P1639, DOI 10.1016/j.socscimed.2012.02.010
+   Nummela O, 2009, ARCH GERONTOL GERIAT, V49, P339, DOI 10.1016/j.archger.2008.11.010
+   Peng YC, 2010, BMC HEALTH SERV RES, V10, DOI 10.1186/1472-6963-10-69
+   Research Group of All China Federation of Trade Unions, 2010, RES REP PROBL NEW GE
+   SULLIVAN M, 1995, SOC SCI MED, V41, P1349, DOI 10.1016/0277-9536(95)00125-Q
+   Sun IY, 2013, SOC SCI RES, V42, P1737, DOI 10.1016/j.ssresearch.2013.08.002
+   TORRANCE GW, 1987, J CHRON DIS, V40, P593, DOI 10.1016/0021-9681(87)90019-1
+   Ullmann SH, 2011, SOC SCI MED, V73, P421, DOI 10.1016/j.socscimed.2011.05.037
+   Wang C. G, 2003, SOCIAL SCI CHINA ENG, V2003, P160
+   Wang HM, 2009, SOC SCI MED, V68, P133, DOI 10.1016/j.socscimed.2008.09.038
+   Wang XZ, 2008, SOC SCI CHINA, V29, P136, DOI 10.1080/02529200802288542
+   WARE JE, 1992, MED CARE, V30, P473, DOI 10.1097/00005650-199206000-00002
+   Ware JE, 2000, SPINE, V25, P3130, DOI 10.1097/00007632-200012150-00008
+   Wu XG, 2007, AM J SOCIOL, V113, P415, DOI 10.1086/518905
+   Yip W, 2007, SOC SCI MED, V64, P35, DOI 10.1016/j.socscimed.2006.08.027
+   Yuan XJ, 2013, INT J INTERCULT REL, V37, P354, DOI 10.1016/j.ijintrel.2012.10.002
+   Yue ZS, 2010, ENVIRON PLANN A, V42, P545, DOI 10.1068/a42161
+   Zhu Y, 2014, HABITAT INT, V42, P147, DOI 10.1016/j.habitatint.2013.12.002
+   Zimmerman C, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001034
+NR 60
+TC 27
+Z9 28
+U1 11
+U2 101
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0303-8300
+EI 1573-0921
+J9 SOC INDIC RES
+JI Soc. Indic. Res.
+PD SEP
+PY 2015
+VL 123
+IS 3
+BP 677
+EP 700
+DI 10.1007/s11205-014-0755-y
+PG 24
+WC Social Sciences, Interdisciplinary; Sociology
+SC Social Sciences - Other Topics; Sociology
+GA CP7OX
+UT WOS:000360078700003
+DA 2019-03-26
+ER
+
+PT J
+AU Islam, Z
+   Sarker, AR
+   Anwar, S
+   Kabir, H
+   Gazi, R
+AF Islam, Ziaul
+   Sarker, Abdur Razzaque
+   Anwar, Shahela
+   Kabir, Humayun
+   Gazi, Rukhsana
+TI Costs of integrating demand-based reproductive health commodity model
+   into the Government and NGO service delivery systems in Bangladesh: a
+   supply side perspective
+SO SPRINGERPLUS
+LA English
+DT Article
+DE Cost; Reproductive health; Service delivery
+ID CARE
+AB To estimate additional total cost and average cost of integrating the demand-based reproductive health commodity model into the existing Government and NGO facilities in Bangladesh. Activity based cost analysis was conducted during 2006-2008 in two low performing rural sub-districts (Nabigong and Raipur sub-district) and one urban slum area in Dhaka city, Bangladesh. Activity-based cost data were collected using ingredient approach, which comprised of listing all types of inputs by activity, quantities and prices for each input. Total cost was presented according to capital and recurrent items. The supply side perspective was considered for entire analysis. The total cost of integrating demand-based reproductive health commodity (DBRHC) model into the Government and NGO service delivery system was estimated to BDT 18,667,634 (US$274,524). The proportion of capital cost was 59 % and the recurrent cost was 41 % of the total cost. The average cost per beneficiaries was BDT 230 (US$3.38) only for introducing this model into the existing health system. The built-in interventions of DBRHC model were doable at low-cost at the selected Government and NGO settings at the grass-root level. The model has potential of further cost containment during scaling up-if the intervention costs are adjusted with the existing functionaries of the Government and NGOs.
+C1 [Islam, Ziaul; Sarker, Abdur Razzaque; Anwar, Shahela; Kabir, Humayun; Gazi, Rukhsana] Int Ctr Diarrhoeal Dis Res, Ctr Equ & Hlth Syst, Hlth Econ & Financing Res Grp, GPO Box 128, Dhaka 1000, Bangladesh.
+RP Sarker, AR (reprint author), Int Ctr Diarrhoeal Dis Res, Ctr Equ & Hlth Syst, Hlth Econ & Financing Res Grp, GPO Box 128, Dhaka 1000, Bangladesh.
+EM arazzaque@icddrb.org
+FU Government of Australia; Government of Bangladesh; Government of Canada;
+   Government of Sweden; Government of UK
+FX icddr,b is thankful to the Governments of Australia, Bangladesh, Canada,
+   Sweden and the UK for providing core/unrestricted support. The authors
+   would also like to the thank health economics and financing research
+   groups for their comments on an earlier draft of the manuscript. icddr,b
+   acknowledges with gratitude the commitment of CIDA/UNFPA and NIPORT to
+   its research efforts. The research protocol of this study was approved
+   by the Institutional Review Board of the icddr,b.
+CR Ahmed SM, 2011, HUM RESOUR HEALTH, V9, DOI 10.1186/1478-4491-9-3
+   [Anonymous], 1994, INT C POP DEV ICPD 5
+   Balabanova D., 2011, GOOD HLTH LOW COST 2
+   BDHS, 2013, BANGL DEM HLTH SURV
+   BDHS, 2009, BANGL DEM HLTH SURV
+   Creese A, 1994, COST ANAL PRIMARY HL
+   Drummond MF, 2005, METHOD EC EVALUATION
+   Gazi R, 2014, BMC PUBLIC HEALTH, V2014, P478
+   Gazi R, 2009, DEMAND BASED REPROD
+   Gazi R, 2013, INT J PUBLIC HLTH HU, V3, P021
+   Islam Z, 2010, MANOSHI WORKING PAPE
+   Kabir H, 2014, REPROD HLTH, V2014, P54
+   Kabir H, 2013, REPROD HEALTH, V10, DOI 10.1186/1742-4755-10-31
+   Khan SH, 2005, COST EFFECT RESOUR A, V3, P1, DOI [10.1186/1478-7547-3-1, DOI 10.1186/1478-7547-3-1]
+   Koenig MA, 2007, INT FAM PLAN PERSPEC, V33, P75, DOI 10.1363/3307507
+   Oxford, 2005, SOC SECT PERF SURV H
+   Pitchforth E, 2006, QUAL SAF HEALTH CARE, V15, P214, DOI 10.1136/qshc.2005.017285
+   Sarker Bidhan Krishna, 2013, Cost Eff Resour Alloc, V11, P28, DOI 10.1186/1478-7547-11-28
+   UNDP, 2013, BANGL PROGR MDGS
+   UNFPA, 2007, INCR ACC REPR HLTH S
+NR 20
+TC 1
+Z9 1
+U1 0
+U2 6
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2193-1801
+J9 SPRINGERPLUS
+JI SpringerPlus
+PD DEC 23
+PY 2015
+VL 4
+DI 10.1186/s40064-015-1610-6
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DB7TR
+UT WOS:000368719700004
+PM 26722628
+OA Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Coffin, DW
+AF Coffin, Douglas W.
+TI Some observations towards improved predictive models for box compression
+   strength
+SO TAPPI JOURNAL
+LA English
+DT Article
+ID CORRUGATED BOARD; STIFFNESS
+AB A McKee-Urbanik type equation for box compression testing (BCT) strength prediction was evaluated using the box data of McKee, Gander, and Wachuta and the tube strength data of Batelka and Smith. Instead of separating BCT into separate panel loads, an effective width was deemed adequate for the data set. Although not much can be done to improve the fit of the McKee data over the McKee formula, the fit of the tube data was slightly better than previously reported in the literature. Unlike previous literature, the fitting parameters used in the model directly target the uncertainty we have in predicting a critical buckling load for a panel (K = edge restraint, kappa = twisting resistance, alpha = relative scaling). The lack of ability to improve the McKee data set is attributed to the variety of boxes tested and the dependence of BCT on unmeasured properties. The century-old take-home message reiterated in this paper is that focused research is needed to replace estimated or fitted parameters with independently measured quantities, which should result in a decrease in the number of boxes with unsatisfactory predictions of BCT.
+   Application: This paper provides analysis demonstrating that additional improvement in box compression test strength (BCT) prediction should result from the inclusion of additional characterizations of corrugated board and keen observations of box failures.
+C1 Miami Univ, Dept Chem & Paper Engn, Oxford, OH 45056 USA.
+RP Coffin, DW (reprint author), Miami Univ, Dept Chem & Paper Engn, Oxford, OH 45056 USA.
+EM coffindw@miamioh.edu
+CR American Paper Products Company advertisement, 1911, EGG REPORTER, V17, P40
+   BATELKA JJ, 1993, PACKAGE COMPRESSION
+   BAUM GA, 1981, TAPPI, V64, P97
+   Carlson D. A., 2002, CORRUGATING INT, V4, P7
+   Chalmers IR, 2007, APPITA J, V60, P357
+   Corrugated Fibre Company Official News, 1917, FIBRE CONTAINERS, V2, P15
+   Frank B., 2007, CORRUGATED INT, V9, P7
+   Frank B, 2014, PACKAG TECHNOL SCI, V27, P105, DOI 10.1002/pts.2019
+   Heimerl G. J., 1947, 1480 NAT ADV COMM AE
+   Interstate Commerce Commission, 1914, 28 INT COMM COMM 1, P130
+   Little J. R., 1943, PAPER TRADE J TAPPI, V116, P275
+   Malcolmson J. D., 1936, FIBRE CONTAINERS, V21, P14
+   Malcolmson J. D., 1920, CHEM AGE, V28, P321
+   McKee R. C., 1963, PAPERBOARD PACKAGING, V48, P149
+   PETERSON WS, 1982, TAPPI, V65, P108
+   Popil RE, 2008, APPITA J, V61, P307
+   Popil RE, 2012, BIORESOURCES, V7, P2553
+   Renman M, 1996, EXP MECH, V36, P262, DOI 10.1007/BF02318017
+   The Fibre Box Association, CORR COMM FOOT PRINT
+   Thompson & Norris Co, 1915, AM STATIONER, V78, P4
+   Urbanik T. J., 1997, MECH CELLULOSIC AMD, V221, P93
+   Urbanik T. J., 1997, MECH CELLULOSIC MAT, V77, P93
+   Urbanik TJ, 2006, WOOD FIBER SCI, V38, P399
+   URBANIK TJ, 1996, PRESSURE VESSELS PIP, V343, P85
+NR 24
+TC 1
+Z9 1
+U1 0
+U2 4
+PU TECH ASSOC PULP PAPER IND INC
+PI NORCROSS
+PA 15 TECHNOLOGY PARK SOUTH, NORCROSS, GA 30092 USA
+SN 0734-1415
+J9 TAPPI J
+JI TAPPI J.
+PD AUG
+PY 2015
+VL 14
+IS 8
+BP 537
+EP 545
+PG 9
+WC Materials Science, Paper & Wood
+SC Materials Science
+GA CS9RH
+UT WOS:000362428400005
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, GX
+   Zhu, XY
+   Sha, WM
+   Iwasaki, T
+   Seko, H
+   Saito, K
+   Iwai, H
+   Ishii, S
+AF Chen, Guixing
+   Zhu, Xinyue
+   Sha, Weiming
+   Iwasaki, Toshiki
+   Seko, Hiromu
+   Saito, Kazuo
+   Iwai, Hironori
+   Ishii, Shoken
+TI Toward Improved Forecasts of Sea-Breeze Horizontal Convective Rolls at
+   Super High Resolutions. Part I: Configuration and Verification of a
+   Down-Scaling Simulation System (DS3)
+SO MONTHLY WEATHER REVIEW
+LA English
+DT Article
+ID LARGE-EDDY SIMULATION; PLANETARY BOUNDARY-LAYER; WEATHER PREDICTION
+   MODELS; COLD-AIR OUTBREAK; SECONDARY CIRCULATIONS; NUMERICAL-SIMULATION;
+   COHERENT STRUCTURES; MESOSCALE MODEL; DOPPLER LIDAR; TURBULENCE
+AB Horizontal convective rolls (HCRs) that develop in sea breezes greatly influence local weather in coastal areas. In this study, the authors present a realistic simulation of sea-breeze HCRs over an urban-scale area at a resolution of a few meters. An advanced Down-Scaling Simulation System (DS3) is built to derive the analyzed data using a nonhydrostatic model and data assimilation scheme that drive a building-resolving computational fluid dynamics (CFD) model. The mesoscale-analyzed data well capture the inland penetration of the sea breeze in northeastern Japan. The CFD model reproduces the HCRs over Sendai Airport in terms of their coastal initiation, inland growth, streamwise orientation, specific locations, roll wavelength, secondary flows, and regional differences due to complex surfaces. The simulated HCRs agree fairly well with those observed by dual-Doppler lidar and heliborne sensors. Both the simulation and observation analyses suggest that roll updrafts typically originate in the narrow bands of low-speed streaks and warm air near the ground. The HCRs are primarily driven and sustained by a combination of wind shear and buoyancy forces within the slightly unstable sea-breeze layer. In contrast, the experiment without data assimilation exhibits a higher deficiency in the reproduction of roll characteristics. The findings highlight that CFD modeling, given reliable mesoscale weather and surface conditions, aids in high-precision forecasting of HCRs at unprecedented high resolutions, which may help determine the roll structure, dynamics, and impacts on local weather.
+C1 [Chen, Guixing; Zhu, Xinyue; Sha, Weiming; Iwasaki, Toshiki] Tohoku Univ, Grad Sch Sci, Dept Geophys, Sendai, Miyagi 980, Japan.
+   [Seko, Hiromu; Saito, Kazuo] Meteorol Res Inst, Tsukuba, Ibaraki 305, Japan.
+   [Seko, Hiromu; Saito, Kazuo] Japan Agcy Marine Earth Sci & Technol, Yokohama, Kanagawa, Japan.
+   [Iwai, Hironori; Ishii, Shoken] Natl Inst Informat & Commun Technol, Tokyo, Japan.
+RP Chen, GX (reprint author), Sun Yat Sen Univ, Dept Atmospher Sci, 135 Xingangxi Rd, Guangzhou 510275, Guangdong, Peoples R China.
+EM guixing_chen@yahoo.com
+RI Chen, Guixing/B-6270-2013
+OI Chen, Guixing/0000-0002-3112-0668; Iwasaki, Toshiki/0000-0003-2110-0687
+FU Strategic Programs for Innovative Research (SPIRE) - Japan Ministry of
+   Education, Culture, Sports, Science and Technology (MEXT); MEXT through
+   NICT [19204046]; MEXT through ENRI [19204046]; MEXT through JAXA
+   [19204046]; MEXT through Tohoku University [19204046]
+FX The authors thank the three anonymous reviewers for their helpful
+   comments and constructive suggestions. This study was supported by the
+   Strategic Programs for Innovative Research (SPIRE) funded by the Japan
+   Ministry of Education, Culture, Sports, Science and Technology (MEXT).
+   The numerical calculations were performed using the K computer at RIKEN
+   Advanced Institute for Computational Science (Proposals hp120282,
+   hp130012, and hp140220) and the supercomputing resource SX-9 at the
+   Cyberscience Center, Tohoku University. The observational data were
+   collected in a field experiment funded by the MEXT (PI: Prof. T.
+   Iwasaki, 19204046) through the collaboration of NICT, ENRI, JAXA, and
+   Tohoku University.
+CR ASAI T, 1964, J METEOR SOC JAPAN, V42, P245
+   Asai T, 1970, J METEOR SOC JAPAN, V48, P129, DOI DOI 10.2151/JMSJ1965.48.2_129
+   Ashie Y, 2011, INT J CLIMATOL, V31, P174, DOI 10.1002/joc.2226
+   Atkinson BW, 1996, REV GEOPHYS, V34, P403, DOI 10.1029/96RG02623
+   Baik JJ, 2009, J APPL METEOROL CLIM, V48, P1667, DOI 10.1175/2009JAMC2066.1
+   Beare RJ, 2014, BOUND-LAY METEOROL, V151, P39, DOI 10.1007/s10546-013-9881-3
+   Castillo MC, 2011, BOUND-LAY METEOROL, V140, P453, DOI 10.1007/s10546-011-9614-4
+   Chen GX, 2015, MON WEATHER REV, V143, P1873, DOI 10.1175/MWR-D-14-00230.1
+   Ching J, 2014, MON WEATHER REV, V142, P3284, DOI 10.1175/MWR-D-13-00318.1
+   DEARDORFF JW, 1972, J ATMOS SCI, V29, P91, DOI 10.1175/1520-0469(1972)029<0091:NIONAU>2.0.CO;2
+   DEARDORFF JW, 1969, J FLUID MECH, V35, P7, DOI 10.1017/S0022112069000942
+   Dorrestijn J, 2013, THEOR COMP FLUID DYN, V27, P133, DOI 10.1007/s00162-012-0281-y
+   Eito H, 2010, J METEOROL SOC JPN, V88, P625, DOI 10.2151/jmsj.2010-402
+   ETLING D, 1993, BOUND-LAY METEOROL, V65, P215, DOI 10.1007/BF00705527
+   Foster RC, 2006, BOUND-LAY METEOROL, V120, P229, DOI 10.1007/s10546-005-9054-0
+   Gryschka M, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2005GL022872
+   HAYASE T, 1992, J COMPUT PHYS, V98, P108, DOI 10.1016/0021-9991(92)90177-Z
+   Inagaki A, 2012, BOUND-LAY METEOROL, V142, P207, DOI 10.1007/s10546-011-9671-8
+   Inagaki A, 2010, BOUND-LAY METEOROL, V135, P209, DOI 10.1007/s10546-010-9477-0
+   Ishii S, 2007, J METEOROL SOC JPN, V85, P797, DOI 10.2151/jmsj.85.797
+   Iwai H, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2008GL034571
+   Kanda M, 2004, BOUND-LAY METEOROL, V112, P343, DOI 10.1023/B:BOUN.0000027909.40439.7c
+   Kang SL, 2011, MON WEATHER REV, V139, P2901, DOI 10.1175/MWR-D-10-05037.1
+   KELLY RD, 1984, J ATMOS SCI, V41, P1816, DOI 10.1175/1520-0469(1984)041<1816:HRABLI>2.0.CO;2
+   Khanna S, 1998, J ATMOS SCI, V55, P710, DOI 10.1175/1520-0469(1998)055<0710:TDBASI>2.0.CO;2
+   Komatsubara T., 2005, P 13 COH LAS RAD C, P140
+   KRISTOVICH DAR, 1993, BOUND-LAY METEOROL, V63, P293, DOI 10.1007/BF00710463
+   KROPFLI RA, 1978, J APPL METEOROL, V17, P669, DOI 10.1175/1520-0450(1978)017<0669:PHRITU>2.0.CO;2
+   KUETTNER JP, 1987, Q J ROY METEOR SOC, V113, P445, DOI 10.1256/smsqj.47602
+   KUO HL, 1963, PHYS FLUIDS, V6, P195, DOI 10.1063/1.1706719
+   LEMONE MA, 1973, J ATMOS SCI, V30, P1077, DOI 10.1175/1520-0469(1973)030<1077:TSADOH>2.0.CO;2
+   LEMONE MA, 1976, J ATMOS SCI, V33, P1308, DOI 10.1175/1520-0469(1976)033<1308:MOTEBL>2.0.CO;2
+   LEONARD BP, 1979, COMPUT METHOD APPL M, V19, P59, DOI 10.1016/0045-7825(79)90034-3
+   LILLY DK, 1962, TELLUS, V14, P148, DOI 10.3402/tellusa.v14i2.9537
+   Lin CL, 1997, PHYS FLUIDS, V9, P3235, DOI 10.1063/1.869439
+   Liu AQ, 2004, GEOPHYS RES LETT, V31, DOI 10.1029/2003GL018530
+   Liu HZ, 2011, ADV ATMOS SCI, V28, P477, DOI 10.1007/s00376-010-9229-6
+   Maronga B, 2013, BOUND-LAY METEOROL, V146, P17, DOI 10.1007/s10546-012-9748-z
+   Matayoshi N., 2005, AIAA ATM FLIGHT MECH, P2005
+   Miao SG, 2008, ATMOS RES, V89, P298, DOI 10.1016/j.atmosres.2008.02.013
+   Miller STK, 2003, REV GEOPHYS, V41, DOI 10.1029/2003RG000124
+   Mirocha J, 2014, MON WEATHER REV, V142, P806, DOI 10.1175/MWR-D-13-00064.1
+   Miyoshi T, 2006, SOLA, V2, P128, DOI 10.2151/sola.2006-033
+   MOENG CH, 1994, J ATMOS SCI, V51, P999, DOI 10.1175/1520-0469(1994)051<0999:ACOSAB>2.0.CO;2
+   MOENG CH, 1986, J ATMOS SCI, V43, P2886, DOI 10.1175/1520-0469(1986)043<2886:LESOAS>2.0.CO;2
+   Munoz-Esparza D, 2014, BOUND-LAY METEOROL, V153, P409, DOI 10.1007/s10546-014-9956-9
+   Newsom R, 2008, BOUND-LAY METEOROL, V127, P111, DOI 10.1007/s10546-007-9243-0
+   Oda R., 2010, 9 S URB ENV, V10.1
+   Oda R., 2012, P 8 INT C URB CLIM, P295
+   ORLANSKI I, 1976, J COMPUT PHYS, V21, P251, DOI 10.1016/0021-9991(76)90023-1
+   Park SB, 2013, J APPL METEOROL CLIM, V52, P1348, DOI 10.1175/JAMC-D-12-0162.1
+   Patankar S. V., 1980, NUMERICAL HEAT TRANS
+   PENNELL WT, 1974, J ATMOS SCI, V31, P1308, DOI 10.1175/1520-0469(1974)031<1308:AESOTS>2.0.CO;2
+   Prabha TV, 2007, BOUND-LAY METEOROL, V123, P239, DOI 10.1007/s10546-006-9137-6
+   Raasch S, 2001, BOUND-LAY METEOROL, V101, P31, DOI 10.1023/A:1019297504109
+   Rao PA, 1999, MON WEATHER REV, V127, P1808, DOI 10.1175/1520-0493(1999)127<1808:HRMOTC>2.0.CO;2
+   Saito K, 2006, MON WEATHER REV, V134, P1266, DOI 10.1175/MWR3120.1
+   Saito K, 2013, J PHYS CONF SER, V454, DOI 10.1088/1742-6596/454/1/012073
+   Saito K., 2012, ATMOSPHERIC MODEL AP, P85, DOI DOI 10.5772/35368
+   Saito K, 2007, J METEOROL SOC JPN, V85B, P271, DOI 10.2151/jmsj.85B.271
+   Seko H., 2013, DATA ASSIMILATION AT, P197
+   Seko H, 2011, TELLUS A, V63, P402, DOI 10.1111/j.1600-0870.2010.00508.x
+   Sha W., 2008, METEOROLOGICAL RES N, V219, P21
+   Sha W., 2002, KAIYO MON, V2, P107
+   SHA WM, 1991, J ATMOS SCI, V48, P1649, DOI 10.1175/1520-0469(1991)048<1649:ANSOSB>2.0.CO;2
+   Shin HH, 2013, J ATMOS SCI, V70, P3248, DOI 10.1175/JAS-D-12-0290.1
+   SIMPSON JE, 1969, Q J ROY METEOR SOC, V95, P758, DOI 10.1002/qj.49709540609
+   Smagorinsky J., 1963, MON WEATHER REV, V91, P99, DOI [DOI 10.1175/1520-0493(1963)091<0099:GCEWTP>2.3.CO;2, 10.1175/1520-0493(1963)091]
+   Stull R.B., 1988, INTRO BOUNDARY LAYER
+   Weckwerth TM, 1996, MON WEATHER REV, V124, P769, DOI 10.1175/1520-0493(1996)124<0769:TVWTCB>2.0.CO;2
+   Weckwerth TM, 1997, MON WEATHER REV, V125, P505, DOI 10.1175/1520-0493(1997)125<0505:HCRDTE>2.0.CO;2
+   Wyngaard JC, 2004, J ATMOS SCI, V61, P1816, DOI 10.1175/1520-0469(2004)061<1816:TNMITT>2.0.CO;2
+   WYNGAARD JC, 1992, BOUND-LAY METEOROL, V60, P1, DOI 10.1007/BF00122059
+   Young GS, 2002, B AM METEOROL SOC, V83, P997, DOI 10.1175/1520-0477(2002)083<0997:RSWAMA>2.3.CO;2
+NR 74
+TC 9
+Z9 9
+U1 0
+U2 0
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0027-0644
+EI 1520-0493
+J9 MON WEATHER REV
+JI Mon. Weather Rev.
+PD MAY
+PY 2015
+VL 143
+IS 5
+BP 1849
+EP 1872
+DI 10.1175/MWR-D-14-00212.1
+PG 24
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA CH5RW
+UT WOS:000354094000021
+DA 2019-03-26
+ER

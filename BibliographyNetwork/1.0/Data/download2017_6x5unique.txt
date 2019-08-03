@@ -1,0 +1,455 @@
+
+PT J
+AU Brummer, AB
+   Savage, VM
+   Enquist, BJ
+AF Brummer, Alexander Byers
+   Savage, Van M.
+   Enquist, Brian J.
+TI A general model for metabolic scaling in self-similar asymmetric
+   networks
+SO PLOS COMPUTATIONAL BIOLOGY
+LA English
+DT Article
+ID VASCULAR SYSTEM; HUMAN-HEART; BIOLOGY; ORGANISMS; PRINCIPLE; ANIMALS;
+   GROWTH; CITIES; PLANTS; SIZE
+AB How a particular attribute of an organism changes or scales with its body size is known as an allometry. Biological allometries, such as metabolic scaling, have been hypothesized to result from selection to maximize how vascular networks fill space yet minimize internal transport distances and resistances. The West, Brown, Enquist (WBE) model argues that these two principles (space-filling and energy minimization) are (i) general principles underlying the evolution of the diversity of biological networks across plants and animals and (ii) can be used to predict how the resulting geometry of biological networks then governs their allometric scaling. Perhaps the most central biological allometry is how metabolic rate scales with body size. A core assumption of the WBE model is that networks are symmetric with respect to their geometric properties. That is, any two given branches within the same generation in the network are assumed to have identical lengths and radii. However, biological networks are rarely if ever symmetric. An open question is: Does incorporating asymmetric branching change or influence the predictions of the WBE model? We derive a general network model that relaxes the symmetric assumption and define two classes of asymmetrically bifurcating networks. We show that asymmetric branching can be incorporated into the WBE model. This asymmetric version of the WBE model results in several theoretical predictions for the structure, physiology, and metabolism of organisms, specifically in the case for the cardiovascular system. We show how network asymmetry can now be incorporated in the many allometric scaling relationships via total network volume. Most importantly, we show that the 3/4 metabolic scaling exponent from Kleiber's Law can still be attained within many asymmetric networks.
+C1 [Brummer, Alexander Byers] Univ Arizona, Dept Phys, Tucson, AZ 85721 USA.
+   [Brummer, Alexander Byers; Enquist, Brian J.] Univ Arizona, Dept Ecol & Evolutionary Biol, Tucson, AZ USA.
+   [Savage, Van M.] UCLA, David Geffen Sch Med, Dept Biomath, Los Angeles, CA USA.
+   [Savage, Van M.] UCLA, Dept Ecol & Evolutionary Biol, Los Angeles, CA USA.
+   [Savage, Van M.; Enquist, Brian J.] Santa Fe Inst, Santa Fe, NM USA.
+RP Brummer, AB (reprint author), Univ Arizona, Dept Phys, Tucson, AZ 85721 USA.
+EM brummera@email.arizona.edu
+FU National Science Foundation Emerging Frontiers Grant [0742800]; National
+   Science Foundation Emerging Frontiers Collaborative Research Grant
+   [1065861]; National Science Foundation Division of Biological
+   Infrastructure Career Grant [1254159]
+FX BJE and VMS acknowledge support by the National Science Foundation
+   Emerging Frontiers Grant #0742800
+   (https://www.nsf.gov/awardsearch/showAward?AWD_ID=0742800). BJE was also
+   supported by the National Science Foundation Emerging Frontiers
+   Collaborative Research Grant #1065861
+   (https://www.nsf.gov/awardsearch/showAward?AWD_ID=1065861). VMS was also
+   supported by the National Science Foundation Division of Biological
+   Infrastructure Career Grant #1254159
+   (http://nsf.gov/awardsearch/showAward?AWD_ID=1254159). The funders had
+   no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript
+CR Banavar JR, 2014, P NATL ACAD SCI USA, V111, P3332, DOI 10.1073/pnas.1401336111
+   Bentley LP, 2013, ECOL LETT, V16, P1069, DOI 10.1111/ele.12127
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Dodds PS, 2001, J THEOR BIOL, V209, P9, DOI 10.1006/jtbi.2000.2238
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Enquist BJ, 2003, NATURE, V423, P639, DOI 10.1038/nature01671
+   Fetter A. L., 2003, THEORETICAL MECH PAR
+   Gillooly JF, 2001, SCIENCE, V293, P2248, DOI 10.1126/science.1061967
+   Glazier DS, 2010, BIOL REV, V85, P111, DOI 10.1111/j.1469-185X.2009.00095.x
+   Glazier DS, 2005, BIOL REV, V80, P611, DOI 10.1017/S1464793105006834
+   Gore AV, 2012, CSH PERSPECT MED, V2, DOI 10.1101/cshperspect.a006684
+   Herman AB, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022973
+   Hunt D, 2016, PHYS REV E, V93, DOI 10.1103/PhysRevE.93.062305
+   Isaac NJB, 2010, ECOL LETT, V13, P728, DOI 10.1111/j.1461-0248.2010.01461.x
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Kolokotrones T, 2010, NATURE, V464, P753, DOI 10.1038/nature08920
+   Kozlowski J, 2004, FUNCT ECOL, V18, P283, DOI 10.1111/j.0269-8463.2004.00830.x
+   MANDELBROT B, 1967, SCIENCE, V156, P636, DOI 10.1126/science.156.3775.636
+   Mandelbrot BE., 1983, FRACTAL GEOMETRY NAT, V173
+   MCMAHON T, 1973, SCIENCE, V179, P1201, DOI 10.1126/science.179.4079.1201
+   Metzger RJ, 2008, NATURE, V453, P745, DOI 10.1038/nature07005
+   Moses ME, 2008, AM NAT, V171, P632, DOI 10.1086/587073
+   Murray CD, 1926, P NATL ACAD SCI USA, V12, P207, DOI 10.1073/pnas.12.3.207
+   Murray CD, 1926, J GEN PHYSIOL, V9, P835, DOI 10.1085/jgp.9.6.835
+   Newberry MG, 2015, PLOS COMPUT BIOL, V11, DOI 10.1371/journal.pcbi.1004455
+   Price CA, 2007, P NATL ACAD SCI USA, V104, P13204, DOI 10.1073/pnas.0702242104
+   Ritchie ME., 2009, SCALE HETEROGENEITY
+   Rubner M., 1883, Z BIOL, V19, P535
+   Savage VM, 2010, P NATL ACAD SCI USA, V107, P22722, DOI 10.1073/pnas.1012194108
+   Savage VM, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000171
+   Savage VM, 2004, FUNCT ECOL, V18, P257, DOI 10.1111/j.0269-8463.2004.00856.x
+   Schmidt-Nielsen K., 1984, SCALING WHY IS ANIMA
+   Smith DD, 2014, NEW PHYTOL, V201, P217, DOI 10.1111/nph.12487
+   Tekin E, 2016, PLOS COMPUTATIONAL B, V11, P1
+   Turcotte DL, 1998, J THEOR BIOL, V193, P577, DOI 10.1006/jtbi.1998.0723
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   West GB, 2002, P NATL ACAD SCI USA, V99, P2473, DOI 10.1073/pnas.012579799
+   West GB, 2009, P NATL ACAD SCI USA, V106, P7040, DOI 10.1073/pnas.0812294106
+   ZAMIR M, 1988, J GEN PHYSIOL, V91, P725, DOI 10.1085/jgp.91.5.725
+   ZAMIR M, 1978, J GEN PHYSIOL, V72, P837, DOI 10.1085/jgp.72.6.837
+   Zamir M, 2000, SFI S SCI C, P129
+   ZAMIR M, 1976, J THEOR BIOL, V62, P227, DOI 10.1016/0022-5193(76)90058-8
+   Zamir M, 2000, PHYS PULSATILE FLOW
+NR 45
+TC 9
+Z9 9
+U1 4
+U2 23
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1553-734X
+EI 1553-7358
+J9 PLOS COMPUT BIOL
+JI PLoS Comput. Biol.
+PD MAR
+PY 2017
+VL 13
+IS 3
+AR e1005394
+DI 10.1371/journal.pcbi.1005394
+PG 25
+WC Biochemical Research Methods; Mathematical & Computational Biology
+SC Biochemistry & Molecular Biology; Mathematical & Computational Biology
+GA EQ4FY
+UT WOS:000398031900024
+PM 28319153
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Lioris, J
+   Pedarsani, R
+   Tascikaraoglu, FY
+   Varaiya, P
+AF Lioris, Jennie
+   Pedarsani, Ramtin
+   Tascikaraoglu, Fatma Yildiz
+   Varaiya, Pravin
+TI Platoons of connected vehicles can double throughput in urban roads
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Saturation flow rate; Connected vehicles; Adaptive cruise control;
+   Platooning; Connected vehicles; Intersection capacity
+ID INTERSECTION MANAGEMENT
+AB Intersections are the bottlenecks of the urban road system because an intersection's capacity is only a fraction of the maximum flows that the roads connecting to the intersection can carry. This capacity can be increased if vehicles cross the intersections in platoons rather than one by one as they do today. Platoon formation is enabled by connected vehicle technology. This paper assesses the potential mobility benefits of platooning. It argues that saturation flow rates, and hence intersection capacity, can be doubled or tripled by platooning. The argument is supported by the analysis of three queuing models and by the simulation of a road network with 16 intersections and 73 links. The queuing analysis and the simulations reveal that a signalized network with fixed time control will support an increase in demand by a factor of (say) two or three if all saturation flows are increased by the same factor, with no change in the control. Furthermore, despite the increased demand, vehicles will experience the same delay and travel time. The same scaling improvement is achieved when the fixed time control is replaced by the max pressure adaptive control. Part of the capacity increase can alternatively be used to reduce queue lengths and the associated queuing delay by decreasing the cycle time. Impediments to the control of connected vehicles to achieve platooning at intersections appear to be small. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Lioris, Jennie] Ecole Ponts ParisTech, Champs Sur Marne, France.
+   [Pedarsani, Ramtin] Univ Calif Santa Barbara, Elect & Comp Engn, Santa Barbara, CA 93106 USA.
+   [Tascikaraoglu, Fatma Yildiz] Yildiz Tech Univ, Control & Automat Engn, Istanbul, Turkey.
+   [Varaiya, Pravin] Univ Calif Berkeley, Elect Engn & Comp Sci, Berkeley, CA 94720 USA.
+RP Varaiya, P (reprint author), Univ Calif Berkeley, Elect Engn & Comp Sci, Berkeley, CA 94720 USA.
+EM Jennie.lioris@cermics.enpc.fr; r.pedarsani@gmail.com;
+   fayildiz@yildiz.edu.tr; varaiya@berkeley.edu
+OI Yildiz Tascikaraoglu, Fatma/0000-0003-1866-2515
+FU California Department of Transportation UCTC Award [65A0529 T0041]
+FX This research was supported by the California Department of
+   Transportation UCTC Award 65A0529 T0041. We thank Rene Sanchez of Sensys
+   Networks for the data in Fig. 2, and Alex A. Kurzhanskiy, Gabriel Gomes,
+   Roberto Horowitz, Sam Coogan and others in the Berkeley Friday Arterial
+   seminar for stimulating discussions.
+CR Anokye M., 2013, AM INT J CONT RES, V3, P23
+   Bezzina D., 2015, 812171 DOT HS NAT HI
+   Day C. M., 2014, TECHNICAL REPORT
+   Dresner K, 2008, J ARTIF INTELL RES, V31, P591, DOI 10.1613/jair.2502
+   FHWA, TRAFF CONTR SYST HDB
+   Gandhi A., 2013, SIGMETRICS 13
+   Hafner MR, 2013, IEEE T INTELL TRANSP, V14, P1162, DOI 10.1109/TITS.2013.2252901
+   Harding J., 2014, 812014 DOT HS NAT HI
+   Huang S, 2012, IEEE T INTELL TRANSP, V13, P1201, DOI 10.1109/TITS.2012.2186442
+   Jin Q, 2013, IEEE INT C INTELL TR, P1462, DOI 10.1109/ITSC.2013.6728436
+   Kianfar R, 2012, IEEE T INTELL TRANSP, V13, P994, DOI 10.1109/TITS.2012.2186513
+   Kouvelas A, 2014, TRANSPORT RES REC, P133, DOI 10.3141/2421-15
+   Latouche  G., 1999, INTRO MATRIX ANAL ME
+   Lioris J., 2014, 12 IFAC IEEE INT WOR
+   Milanes V, 2014, IEEE T INTELL TRANSP, V15, P296, DOI 10.1109/TITS.2013.2278494
+   Muralidharan A, 2016, TRANSPORT RES C-EMER, V68, P101, DOI 10.1016/j.trc.2016.02.017
+   Muralidharan A, 2015, TRANSPORT RES B-METH, V73, P81, DOI 10.1016/j.trb.2014.12.002
+   Muralidharan A, 2014, 2014 IEEE 17TH INTERNATIONAL CONFERENCE ON INTELLIGENT TRANSPORTATION SYSTEMS (ITSC), P780, DOI 10.1109/ITSC.2014.6957784
+   NAHSRC, AUT HIGHW DEM 97
+   Ploeg J, 2011, IEEE INT C INTELL TR, P260, DOI 10.1109/ITSC.2011.6082981
+   RioRios J. A, 2017, IEEE T INTELL TRANSP, V17, P74, DOI [10.1080/15305058.2016.1231193, DOI 10.1080/15305058.2016.1231193]
+   Shladover S., 2013, WHY AUTOMATED VEHICL
+   Soh A.C., 2012, MODELLING MULTILANE
+   Tascikaraoglu F. Y., 2015, POINTQ MODEL ARTERIA
+   Trasportation Research Board, 2010, HIGHWAY CAPACITY MAN
+   USDOT, 2015, CONN VEH RES US
+   Varaiya P, 2013, TRANSPORT RES C-EMER, V36, P177, DOI 10.1016/j.trc.2013.08.014
+   Wolterink W.K., AUTOMATED MERGING CO
+   Yoshida J., 2014, EE TIMES
+   Zhang R., 2015, CONTROL ROBOTIC MOBI
+NR 30
+TC 28
+Z9 28
+U1 4
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD APR
+PY 2017
+VL 77
+BP 292
+EP 305
+DI 10.1016/j.trc.2017.01.023
+PG 14
+WC Transportation Science & Technology
+SC Transportation
+GA ER5WV
+UT WOS:000398875600017
+DA 2019-03-26
+ER
+
+PT J
+AU Cheng, L
+   Karney, BW
+AF Cheng, Likwan
+   Karney, Bryan W.
+TI Organization and scaling in water supply networksnn
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID GROWTH; ENERGY; SYSTEMS; ORIGINS; CITIES; WORLD; LIFE
+AB Public water supply is one of the society's most vital resources and most costly infrastructures. Traditional concepts of these networks capture their engineering identity as isolated, deterministic hydraulic units, but overlook their physics identity as related entities in a probabilistic, geographic ensemble, characterized by size organization and property scaling. Although discoveries of allometric scaling in natural supply networks (organisms and rivers) raised the prospect for similar findings in anthropogenic supplies, so far such a finding has not been reported in public water or related civic resource supplies. Examining an empirical ensemble of large number and wide size range, we show that water supply networks possess self-organized size abundance and theory-explained allometric scaling in spatial, infrastructural, and resource-and emission-flow properties. These discoveries establish scaling physics for water supply networks and may lead to novel applications in resource and jurisdiction-scale water governance.
+C1 [Cheng, Likwan] City Colleges Chicago, Phys Sci Dept, Chicago, IL 60601 USA.
+   [Karney, Bryan W.] Univ Toronto, Dept Civil Engn, Toronto, ON M5S 1A4, Canada.
+RP Cheng, L (reprint author), City Colleges Chicago, Phys Sci Dept, Chicago, IL 60601 USA.
+EM lcheng6@ccc.edu
+CR Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   American Water Works Association (AWWA), 2012, BUR NO LONG CONFR AM
+   Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M., 2013, NEW SCI CITIES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   City of Ashland, 2004, COMPR PLAN 2004 2024
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Corson F, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.048703
+   Darveau CA, 2002, NATURE, V417, P166, DOI 10.1038/417166a
+   Dodds PS, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.048702
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Environment Canada, 2011, 2011 MUN WAT US REP
+   Filion YR, 2003, J AM WATER WORKS ASS, V95, P119
+   Hu D, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.138701
+   Karney B. W., 2000, WATER DISTRIBUTION H
+   Kennedy CA, 2015, P NATL ACAD SCI USA, V112, P5985, DOI 10.1073/pnas.1504315112
+   Larsen TA, 2016, SCIENCE, V352, P928, DOI 10.1126/science.aad8641
+   Louf R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102007
+   Martinez-Mekler G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004791
+   National Renewable Energy Laboratory, 2013, LIF CYCL ASS HARM
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Plappally AK, 2012, RENEW SUST ENERG REV, V16, P4818, DOI 10.1016/j.rser.2012.05.022
+   Racoviceanu AI, 2007, J INFRASTRUCT SYST, V13, P261, DOI 10.1061/(ASCE)1076-0342(2007)13:4(261)
+   RINALDO A, 1993, PHYS REV LETT, V70, P822, DOI 10.1103/PhysRevLett.70.822
+   Rodriguez-Iturbe I, 2011, P NATL ACAD SCI USA, V108, P11751, DOI 10.1073/pnas.1107561108
+   Ronellenfitsch H, 2016, PHYS REV LETT, V117, DOI 10.1103/PhysRevLett.117.138301
+   Saal DS, 2013, REV NETW ECON, V12, P93, DOI 10.1515/rne-2012-0004
+   Saavedra S, 2011, NATURE, V478, P233, DOI 10.1038/nature10433
+   Sack L, 2012, NAT COMMUN, V3, DOI 10.1038/ncomms1835
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Sedlak D., 2014, WATER 4 0 PRESENT FU
+   Tero A, 2010, SCIENCE, V327, P439, DOI 10.1126/science.1177894
+   United States Census Bureau, 2010, CENS URB RUR CLASS U
+   United States Environmental Protection Agency, 2013, DRINK WAT INFR NEEDS
+   US Department of Energy, 2014, WAT EN NEX CHALL OPP
+   US Energy Information Administration, 2013, STAT EL PROF
+   US Energy Information Administration, 2013, EL POW SAL REV EN EF
+   Vorosmarty CJ, 2015, SCIENCE, V349, P478, DOI 10.1126/science.aac6009
+   West G. B, 2017, SCALE UNIVERSAL LAWS
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Yazdani A, 2011, CHAOS, V21, DOI 10.1063/1.3540339
+   Zhang J, 2015, SCI REP-UK, V5, DOI 10.1038/srep09767
+NR 46
+TC 2
+Z9 2
+U1 4
+U2 7
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD DEC 29
+PY 2017
+VL 96
+IS 6
+AR 062317
+DI 10.1103/PhysRevE.96.062317
+PG 8
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA FR4DA
+UT WOS:000419014700004
+DA 2019-03-26
+ER
+
+PT B
+AU Jacquet, P
+   Popescu, D
+AF Jacquet, Philippe
+   Popescu, Dalia
+GP IEEE
+TI Self-similarity in urban wireless networks: Hyperfractals
+SO 2017 15TH INTERNATIONAL SYMPOSIUM ON MODELING AND OPTIMIZATION IN
+   MOBILE, AD HOC, AND WIRELESS NETWORKS (WIOPT)
+LA English
+DT Proceedings Paper
+CT 15th International Symposium on Modeling and Optimization in Mobile, Ad
+   Hoc, and Wireless Networks (WiOpt)
+CY MAY 15-19, 2017
+CL Paris, FRANCE
+AB We introduce a model of Poisson patterns of fixed and mobile nodes on lines designed for urban wireless networks. The pattern obeys to "Hyperfractal" rules of dimension larger than 2. The hyperfractal pattern is best suitable for capturing the traffic over the streets and highways in a city. We show that the network capacity under ad hoc routing algorithms scales much better than with the classic uniform Poisson shot model. The scaling effect depends on the hyperfractal dimensions. We show this results in two different routing models: nearest neighbor routing with no collision, minimum delay routing model assuming slotted Aloha and signal to interference ratio (SIR) capture condition, power-path loss and Rayleigh fading The novelty of the model is that, in addition to capturing the irregularity and variability of the node configuration, it exploits self-similarity, a characteristic of urban wireless networks.
+C1 [Jacquet, Philippe; Popescu, Dalia] Nokia Bell Labs, Paris, France.
+   [Popescu, Dalia] INRIA, Rocquencourt, France.
+RP Jacquet, P (reprint author), Nokia Bell Labs, Paris, France.
+EM philippe.jacquet@nokia-bell-labs.com;
+   dalia-georgiana.herculea@nokia-bell-labs.com
+CR Baccelli F., 2009, STOCHASTIC GEOMETRY
+   Blaszczyszyn B., 2015, IEEE T WIRELESS COMM
+   Flajolet P, 1995, THEORETICAL COMPUTER
+   Gupta P, 2000, IEEE T INFORM THEORY, V46, P388, DOI 10.1109/18.825799
+   Herculea D., 2016, HOTPOST
+   Jacquet P., THEORETICAL COMPUTER
+   Jacquet P., 2013, MASCOTS
+   Jacquet P, 2015, IEEE INT SYMP INFO, P166, DOI 10.1109/ISIT.2015.7282438
+   Karabacak M., 2014, VTC
+   Malik S., 2011, WIRELESS DAYS
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-3-9018-8290-6
+PY 2017
+PG 6
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA BI6YH
+UT WOS:000413806500078
+DA 2019-03-26
+ER
+
+PT J
+AU Gao, L
+   Zhan, WF
+   Huang, F
+   Quan, JL
+   Lu, XM
+   Wang, F
+   Ju, WM
+   Zhou, J
+AF Gao, Lun
+   Zhan, Wenfeng
+   Huang, Fan
+   Quan, Jinling
+   Lu, Xiaoman
+   Wang, Fei
+   Ju, Weimin
+   Zhou, Ji
+TI Localization or Globalization? Determination of the Optimal Regression
+   Window for Disaggregation of Land Surface Temperature
+SO IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
+LA English
+DT Article
+DE Disaggregation; global regression strategy (GWS); land surface
+   temperature (LST); local regression strategy (LWS); moving-window size
+   (MWS); thermal remote sensing
+ID URBAN HEAT-ISLAND; THERMAL-INFRARED DATA; WATER TEMPERATURE;
+   SOIL-MOISTURE; ASTER DATA; IMAGERY; ALGORITHM; MODIS; CHINA;
+   EVAPOTRANSPIRATION
+AB The past decade has witnessed the disaggregation of remotely sensed land surface temperature (DLST), which aims for the generation of high temporal and spatial resolution land surface temperature (LST) and which has steadily evolved into a relatively independent subfield of thermal remote sensing. Limited by Tobler's first law of geography, DLST methods require a regression between LSTs and scaling factors using image pixels within a globalized or a localized regression window. Recommendations regarding the selection of the regression window have been provided, but they are mainly subjective and based on highly specific examples. In this context, 100 DLST samples with diversified land cover types and climates were employed to assess the global window strategy (GWS) and the local window strategy (LWS). To optimize disaggregation accuracy and computational complexity, the assessments show that the optimal moving-window size (MWS) for the LWS can be estimated by the resolution ratio between pre- and postdisaggregated LSTs. To identify the better strategy between the GWS and the LWS, an indirect criterion based on aggregation-disaggregation (ICAD) was formulated, which determines the better strategy from medium to high resolution according to the associated performances from low to medium resolution. Validations demonstrate that the accuracy predicted by the ICAD achieves 72%, and in cases in which predictions are incorrect, the performances of the GWS and the LWS are similar. Further evidences indicate that the use of historical high-resolution LSTs improves the LWS by using a locally varying MWS. These findings are able to guide researchers in choosing the most suitable regression window for any particular DLST.
+C1 [Gao, Lun; Zhan, Wenfeng; Huang, Fan; Lu, Xiaoman; Wang, Fei; Ju, Weimin] Nanjing Univ, Int Inst Earth Syst Sci, Jiangsu Prov Key Lab Geog Informat Sci & Technol, Nanjing 210023, Jiangsu, Peoples R China.
+   [Zhan, Wenfeng] Jiangsu Ctr Collaborat Innovat Geog Informat Reso, Nanjing 210023, Jiangsu, Peoples R China.
+   [Quan, Jinling] Chinese Acad Sci, Inst Geog Sci & Nat Resources Res, State Key Lab Resources & Environm Informat Syst, Beijing 100101, Peoples R China.
+   [Zhou, Ji] Univ Elect Sci & Technol, Sch Resources & Environm, Chengdu 611731, Peoples R China.
+   [Zhou, Ji] Univ Elect Sci & Technol, Informat Geosci Res Ctr, Chengdu 611731, Peoples R China.
+RP Zhan, WF (reprint author), Nanjing Univ, Int Inst Earth Syst Sci, Jiangsu Prov Key Lab Geog Informat Sci & Technol, Nanjing 210023, Jiangsu, Peoples R China.
+EM gaolun724@foxmail.com; zhanwenfeng@nju.edu.cn; huangfan2311@163.com;
+   quanjinlin_@126.com; luxmnju@163.com; essiwf@163.com;
+   juweimin@nju.edu.cn; jzhou233@uestc.edu.cn
+RI Huang, Fan/E-1592-2017; Zhan, Wenfeng/I-1137-2014
+OI Huang, Fan/0000-0002-1409-2167; Zhan, Wenfeng/0000-0001-7487-821X
+FU National 863 Plan Grant [2013AA122801]; National Natural Science
+   Foundation of China [41301360, 41671420]; Natural Science Foundation of
+   Jiangsu Province [BK20130566, BK20130568]; DengFeng Program-B of Nanjing
+   University
+FX This work was supported in part by the National 863 Plan under Grant
+   2013AA122801, by the National Natural Science Foundation of China under
+   Grant 41301360 and Grant 41671420, and by the Natural Science Foundation
+   of Jiangsu Province under Grant BK20130566 and Grant BK20130568. The
+   work of W. Zhan was supported by the DengFeng Program-B of Nanjing
+   University. (Corresponding author: Wenfeng Zhan.)
+CR Agam N, 2007, REMOTE SENS ENVIRON, V107, P545, DOI 10.1016/j.rse.2006.10.006
+   Anderson MC, 2012, REMOTE SENS ENVIRON, V122, P50, DOI 10.1016/j.rse.2011.08.025
+   Bechtel B, 2012, REMOTE SENS-BASEL, V4, P3184, DOI 10.3390/rs4103184
+   Chen XH, 2012, IEEE GEOSCI REMOTE S, V9, P549, DOI 10.1109/LGRS.2011.2174453
+   Chen YH, 2014, IEEE T GEOSCI REMOTE, V52, P5952, DOI 10.1109/TGRS.2013.2294031
+   Cheng J, 2011, IEEE T GEOSCI REMOTE, V49, P1473, DOI 10.1109/TGRS.2010.2076818
+   Deng CB, 2013, INT J APPL EARTH OBS, V23, P155, DOI 10.1016/j.jag.2013.01.001
+   Dominguez A, 2011, REMOTE SENS ENVIRON, V115, P1772, DOI 10.1016/j.rse.2011.03.008
+   Duzgun S, 2011, INT J COAL GEOL, V86, P1, DOI 10.1016/j.coal.2011.02.001
+   Eckmann TC, 2009, INT J REMOTE SENS, V30, P5851, DOI 10.1080/01431160902748531
+   Immerzeel WW, 2009, REMOTE SENS ENVIRON, V113, P362, DOI 10.1016/j.rse.2008.10.004
+   Jeganathan C, 2011, INT J APPL EARTH OBS, V13, P178, DOI 10.1016/j.jag.2010.11.001
+   Jia SF, 2011, REMOTE SENS ENVIRON, V115, P3069, DOI 10.1016/j.rse.2011.06.009
+   Jiang WG, 2011, CHINESE GEOGR SCI, V21, P159, DOI 10.1007/s11769-011-0455-3
+   Jing LH, 2010, INT J REMOTE SENS, V31, P6459, DOI 10.1080/01431160903439841
+   Keramitsoglou I, 2013, IEEE GEOSCI REMOTE S, V10, P1253, DOI 10.1109/LGRS.2013.2257668
+   Kustas WP, 2003, REMOTE SENS ENVIRON, V85, P429, DOI 10.1016/S0034-4257(03)00036-1
+   Liang SL, 2001, REMOTE SENS ENVIRON, V76, P213, DOI 10.1016/S0034-4257(00)00205-4
+   Liu DS, 2012, IEEE GEOSCI REMOTE S, V9, P690, DOI 10.1109/LGRS.2011.2178814
+   Liu JianGuo, 1998, International Journal of Remote Sensing, V19, P2477
+   Maimaitiyiming M, 2014, ISPRS J PHOTOGRAMM, V89, P59, DOI 10.1016/j.isprsjprs.2013.12.010
+   Matheron G., 1963, ECON GEOL, V58, P1246, DOI [DOI 10.2113/GSECONGEO.58.8.1246, 10.2113/gsecongeo.58.8.1246]
+   Merlin O, 2005, IEEE T GEOSCI REMOTE, V43, P2036, DOI 10.1109/TGRS.2005.853192
+   Merlin O, 2010, REMOTE SENS ENVIRON, V114, P2305, DOI 10.1016/j.rse.2010.05.007
+   Mukherjee S, 2014, ADV SPACE RES, V54, P655, DOI 10.1016/j.asr.2014.04.013
+   Nichol J, 2009, PHOTOGRAMM ENG REM S, V75, P547, DOI 10.14358/PERS.75.5.547
+   Qin Z, 2001, INT J REMOTE SENS, V22, P3719, DOI 10.1080/01431160010006971
+   Sentlinger GI, 2008, REMOTE SENS ENVIRON, V112, P1678, DOI 10.1016/j.rse.2007.08.019
+   Singh RK, 2014, REMOTE SENS-BASEL, V6, P10483, DOI 10.3390/rs61110483
+   Stathopoulou M, 2009, REMOTE SENS ENVIRON, V113, P2592, DOI 10.1016/j.rse.2009.07.017
+   Teggi S, 2014, REMOTE SENS ENVIRON, V142, P122, DOI 10.1016/j.rse.2013.11.011
+   Teggi S, 2012, INT J REMOTE SENS, V33, P3063, DOI 10.1080/01431161.2011.627888
+   Themessl MJ, 2011, INT J CLIMATOL, V31, P1530, DOI 10.1002/joc.2168
+   TOM VT, 1985, OPT ENG, V24, P1026, DOI 10.1117/12.7973623
+   Wang KC, 2009, REMOTE SENS ENVIRON, V113, P1556, DOI 10.1016/j.rse.2009.03.009
+   WOODCOCK CE, 1987, REMOTE SENS ENVIRON, V21, P311, DOI 10.1016/0034-4257(87)90015-0
+   Zaksek K, 2012, REMOTE SENS ENVIRON, V117, P114, DOI 10.1016/j.rse.2011.05.027
+   Zhan WF, 2014, ENVIRON SCI TECHNOL, V48, P12134, DOI [10.1021/es5021185, 10.1021/es50211851]
+   Zhan WF, 2013, REMOTE SENS ENVIRON, V131, P119, DOI 10.1016/j.rse.2012.12.014
+   Zhan WF, 2012, INT J APPL EARTH OBS, V18, P23, DOI 10.1016/j.jag.2012.01.003
+   Zhan WF, 2011, IEEE T GEOSCI REMOTE, V49, P773, DOI 10.1109/TGRS.2010.2060342
+   Zhou J, 2015, REMOTE SENS-BASEL, V7, P7126, DOI 10.3390/rs70607126
+   Zhou J, 2013, INT J REMOTE SENS, V34, P7568, DOI 10.1080/01431161.2013.821576
+   Zhukov B, 1999, IEEE T GEOSCI REMOTE, V37, P1212, DOI 10.1109/36.763276
+NR 44
+TC 4
+Z9 4
+U1 4
+U2 23
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0196-2892
+EI 1558-0644
+J9 IEEE T GEOSCI REMOTE
+JI IEEE Trans. Geosci. Remote Sensing
+PD JAN
+PY 2017
+VL 55
+IS 1
+BP 477
+EP 490
+DI 10.1109/TGRS.2016.2608987
+PG 14
+WC Geochemistry & Geophysics; Engineering, Electrical & Electronic; Remote
+   Sensing; Imaging Science & Photographic Technology
+SC Geochemistry & Geophysics; Engineering; Remote Sensing; Imaging Science
+   & Photographic Technology
+GA EH1LJ
+UT WOS:000391527900038
+DA 2019-03-26
+ER

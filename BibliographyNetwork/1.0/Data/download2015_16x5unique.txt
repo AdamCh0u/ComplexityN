@@ -1,0 +1,537 @@
+
+PT B
+AU Chen, TT
+   Dai, B
+   Liu, DX
+   Song, JZ
+AF Chen, Tongtong
+   Dai, Bin
+   Liu, Daxue
+   Song, Jinze
+BE Liang, J
+   Zeng, B
+   Wang, L
+   Shao, L
+   Hui, X
+   Tao, Z
+   Lin, S
+TI Likelihood-field-model-based Vehicle Tracking with Velodyne
+SO 2015 8th International Congress on Image and Signal Processing (CISP)
+LA English
+DT Proceedings Paper
+CT Proceedings 2015 8 International Congress on Image and Signal Processing
+   (CISP)
+CY OCT 14-16, 2015
+CL Shenyang, PEOPLES R CHINA
+DE Vehicle tracking; Likelihood-field model; ALV
+ID MULTITARGET TRACKING
+AB Vehicle tracking is an important module for an Autonomous Land Vehicle (ALV) navigation in urban environments. In this paper, we propose a novel vehicle tracking module with a Bayesian filter based on the likelihood field model for our ALV, which is equipped with a Velodyne LIDAR and an Inertial Navigation System (INS). At each time step t, Scaling Series importance sampling algorithm is ran on the associated measurements of each tracker with an uniform prior to obtain a weighted particle set. Each particle represents a possible prior pose of the tracker in the current scan. Then for each particle, its weight is adjusted with the weighted particles at time step t - 1 via Bayesian recursion equation to capture the vehicle dynamic model. These final weighted particles approximate the posterior belief of the corresponding tracker and the one with the maximum weight is chosen as the output of the tracking result at time step t. Both the quantitative and qualitative performance of our vehicle tracking algorithm is validated on the Velodyne data collected by our ALV in various environments.
+C1 [Chen, Tongtong; Dai, Bin; Liu, Daxue] Natl Univ Def Technol, Coll Mechatron Engn & Automat, Changsha, Hunan, Peoples R China.
+   [Song, Jinze] Natl Univ Def Technol, Grad Sch, Changsha, Hunan, Peoples R China.
+RP Chen, TT (reprint author), Natl Univ Def Technol, Coll Mechatron Engn & Automat, Changsha, Hunan, Peoples R China.
+EM bindai.cs@gmail.com; nwsac97@gmail.com
+CR Baig Q, 2012, I C CONT AUTOMAT ROB, P656, DOI 10.1109/ICARCV.2012.6485235
+   Chen T., 2015, 7 INT C INT HUM MACH, P497
+   Chen TT, 2015, IEEE INT C INTELL TR, P296, DOI 10.1109/ITSC.2015.58
+   Chen TT, 2014, J INTELL ROBOT SYST, V76, P563, DOI 10.1007/s10846-013-9889-4
+   Choi J, 2013, IEEE INT C INTELL TR, P881, DOI 10.1109/ITSC.2013.6728343
+   Coue C, 2006, INT J ROBOT RES, V25, P19, DOI 10.1177/0278364906061158
+   Danescu R, 2011, IEEE T INTELL TRANSP, V12, P1331, DOI 10.1109/TITS.2011.2158097
+   Gindele T, 2009, IEEE INT VEH SYM, P669, DOI 10.1109/IVS.2009.5164357
+   Granstrom K., 2014, 17 INT C INF FUS, P1
+   Himmelsbach M, 2012, 2012 IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV), P577, DOI 10.1109/IVS.2012.6232181
+   Jungnickel R, 2014, 2014 IEEE 17TH INTERNATIONAL CONFERENCE ON INTELLIGENT TRANSPORTATION SYSTEMS (ITSC), P2310, DOI 10.1109/ITSC.2014.6958060
+   Klasing K, 2008, IEEE INT CONF ROBOT, P4043, DOI 10.1109/ROBOT.2008.4543832
+   Liu Z, 2013, 2013 6TH INTERNATIONAL CONGRESS ON IMAGE AND SIGNAL PROCESSING (CISP), VOLS 1-3, P1006, DOI 10.1109/CISP.2013.6745203
+   Morris D. D., 2009, 14 INT C ROB APPL, P1
+   Negre A, 2014, IEEE INT VEH SYM, P1307, DOI 10.1109/IVS.2014.6856554
+   Petrovskaya A., 2008, ROBOTICS SCI SYSTEMS, P25
+   Petrovskaya A., 2011, THESIS
+   Rusu RB, 2011, IEEE INT C ROB AUT I, P1, DOI DOI 10.1109/ICRA.2011.5980567
+   Schutz M., 2014, IEEE INT VEH S IV, P1205
+   Schutz M., 2013, 16 INT C INF FUS
+   Tanzmeister G, 2014, IEEE INT CONF ROBOT, P6090, DOI 10.1109/ICRA.2014.6907756
+   Thrun S., 2005, PROBABILISTICS ROBOT
+   Vu T.-D., 2009, ICRA, P3800
+   Wojke N, 2012, IEEE INT CONF ROBOT, P3082, DOI 10.1109/ICRA.2012.6224636
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-9098-9
+PY 2015
+BP 1566
+EP 1571
+PG 6
+WC Engineering, Electrical & Electronic; Imaging Science & Photographic
+   Technology
+SC Engineering; Imaging Science & Photographic Technology
+GA BF2US
+UT WOS:000380502000295
+DA 2019-03-26
+ER
+
+PT J
+AU Loh, P
+   Shear, B
+AF Loh, Penn
+   Shear, Boone
+TI Solidarity economy and community development: emerging cases in three
+   Massachusetts cities
+SO COMMUNITY DEVELOPMENT
+LA English
+DT Article
+DE democratic community development; solidarity economy; transformative
+   community development
+AB Solidarity economy (SE) is a set of theories and practices that engenders ethical economic relationships and new possibilities for democratic and transformative community development. SE advances democratic community development by providing an alternative to capitalist ideology from which the core goals of solidarity and agency can be imagined, identified, and realized. Further, it advances a set of concrete economic practices that enact these goals while sustaining people and the planet. Politically, SE is a movement that can build power within and across scales and win supportive policy and public resources. Using the development of SE in Boston, Worcester, and Springfield, Massachusetts as examples, the article discusses the possibilities and challenges for SE projects to negotiate across differing values and politics, racial and class divides, and the challenge of accessing startup capital and building finance. SE suggests trajectories of "scaling up," where local and regional efforts might be part of a strategy for deeper political-economic transformation. How SE expands depends on how actors in particular places and times take advantage of opportunities and overcome ideological, economic, and political challenges.
+C1 [Loh, Penn] Tufts Univ, Urban & Environm Policy & Planning, Medford, MA 02155 USA.
+   [Shear, Boone] Univ Massachusetts, Dept Anthropol, Amherst, MA 01003 USA.
+RP Loh, P (reprint author), Tufts Univ, Urban & Environm Policy & Planning, Medford, MA 02155 USA.
+EM penn.loh@tufts.edu
+CR Allard Jenna, 2008, SOLIDARITY EC BUILDI, P1
+   Altuna-Gabilondo L., 2013, UN RES I SOCIAL DEV
+   Anderson CR, 2014, J AGRIC FOOD SYST CO, V4, P3, DOI 10.5304/jafscd.2014.043.017
+   Benner Chris, 2011, J COMMUNITY DEV SOC, V42, P437
+   Bhattacharyya Jnanabrata, 2004, J COMMUNITY DEV SOC, V34, P5, DOI DOI 10.1080/15575330409490110
+   Bohan S., 2012, CONTRA COSTA TI 0303
+   Brenner N, 2002, CITIES, V19, P3, DOI 10.1016/S0264-2751(01)00042-7
+   Buck P. D., 2001, WORKED BONE RACE CLA
+   Burke BJ, 2014, J POLIT ECOL, V21, P127
+   Clark J, 2009, J PLAN EDUC RES, V28, P341, DOI 10.1177/0739456X08327371
+   Conaty P., 2012, RESILIENCE IMPERATIV
+   Cornwell J, 2012, ANTIPODE, V44, P725, DOI 10.1111/j.1467-8330.2011.00939.x
+   DeFilippis J, 2001, HOUS POLICY DEBATE, V12, P781, DOI 10.1080/10511482.2001.9521429
+   DeFilippis J., 2010, CONTESTING COMMUNITY
+   DeFilippis James, 2004, UNMAKING GOLIATH COM
+   Earle E., 2012, THESIS
+   Escobar A, 2001, POLIT GEOGR, V20, P139, DOI 10.1016/S0962-6298(00)00064-0
+   Escobar A, 1995, ENCOUNTERING DEV
+   Flora C., 2008, RURAL COMMUNITIES LE
+   Fraser JC, 2003, URBAN AFF REV, V38, P417, DOI 10.1177/1078087402238808
+   Gibson-Graham J. K., 1996, END CAPITALISM WE KN
+   Gibson-Graham J. K., 2013, TAKE BACK EC
+   Gibson-Graham JK, 2006, POSTCAPITALIST POLIT
+   Graeber D., 2010, WORKING PAPER SERIES, V6
+   Graham J., 2009, SOCIAL EC INT PERSPE, P37
+   Grasseni C, 2014, J POLIT ECOL, V21, P178
+   Grec S., 2012, GREEN SOLIDARI UNPUB
+   Green J. J., 2009, SO RURAL SOCIOLOGY, V24, P149
+   Hancock M, 2008, SOLIDARITY EC BUILDI, P228
+   Hanna T. M., 2014, GRASSROOTS EC ORG, V17
+   Harvey D, 2005, BRIEF HIST NEOLIBERA
+   Holbrook R. S., 2013, BAYVIEW NATL BL 0730
+   Holland Dorothy, 2007, LOCAL DEMOCRACY SIEG
+   Hustedde R. J., 2002, COMMUNITY DEV, V33, P1
+   Iuviene N., 2010, SUSTAINABLE EC DEMOC
+   Kawano E., 2013, UN RES I SOCIAL DEV
+   Kennedy P. L., 2012, BU TODAY        1220
+   Kirkpatrick LO, 2007, POLIT SOC, V35, P329, DOI 10.1177/0032329207300395
+   Klein N., 2014, THIS CHANGES EVERYTH
+   Laville J., 2010, HUMAN EC CITIZENS GU, P225
+   Loh P., 2010, COLAB RADIO     0811
+   Loxley John, 2007, TRANSFORMING REFORMI, P7
+   Majee W, 2011, J COMMUNITY PRACT, V19, P48, DOI 10.1080/10705422.2011.550260
+   Majee W, 2010, COMMUNITY DEV, V41, P417, DOI 10.1080/15575330.2010.488741
+   MARQUEZ B, 1993, ECON DEV Q, V7, P287
+   Marx Karl, 1978, MARX ENGELS READER, P203
+   Mauss Marcel, 1990, GIFT FORM REASON EXC
+   Medoff P., 1994, STREETS OF HOPE
+   Mendell M., 2009, SOCIAL EC INT PERSPE, P176
+   Miller E., 2010, SOLIDARITY EC, P25
+   Miller E., 2006, DOLLARS SENSE, V266
+   Miller E, 2013, RETHINK MARXISM, V25, P518, DOI 10.1080/08935696.2013.842697
+   Neamtan N., 2007, SOLIDARITY EC BUILDI, P268
+   Nembhard JG, 2014, COLLECTIVE COURAGE: A HISTORY OF AFRICAN AMERICAN COOPERATIVE ECONOMIC THOUGHT AND PRACTICE, P1
+   Polanyi K., 2001, GREAT TRANSFORMATION
+   Porter M., 1995, REV BLACK POLITICAL, V24, P303
+   Purcell M, 2006, URBAN STUD, V43, P1921, DOI 10.1080/00420980600897826
+   Quinones Jr B. R., 2008, NONPATRIARCHAL EC IS, P17
+   Rose F., 2014, COMMUNITIES BANKING, V25, P17
+   Safri M, 2015, ORGANIZATION, V22, P924, DOI 10.1177/1350508414528741
+   Shipp SC, 1996, J ECON ISSUES, V30, P79, DOI 10.1080/00213624.1996.11505767
+   Solidarity and Green Economy Alliance (SAGE), SAGE PRINC
+   Stoecker R, 1997, J URBAN AFF, V19, P1, DOI 10.1111/j.1467-9906.1997.tb00392.x
+   Swanstrom T, 2006, URBAN AFF REV, V42, P249, DOI 10.1177/1078087406291445
+   Witherell Rob, 2013, INT J LABOUR RES, V5, P251
+   Wright EO, 2013, AM SOCIOL REV, V78, P1, DOI 10.1177/0003122412468882
+   Zeuli K, 2004, COMMUNITY DEV, V35, P17
+   Zizek S., 2008, VIOLENCE
+NR 68
+TC 10
+Z9 10
+U1 1
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1557-5330
+EI 1944-7485
+J9 COMMUNITY DEV
+JI Community Dev.
+PY 2015
+VL 46
+IS 3
+SI SI
+BP 244
+EP 260
+DI 10.1080/15575330.2015.1021362
+PG 17
+WC Development Studies
+SC Development Studies
+GA V86ER
+UT WOS:000212572000006
+DA 2019-03-26
+ER
+
+PT J
+AU Zajic, D
+   Fernando, HJS
+   Brown, MJ
+   Pardyjak, ER
+AF Zajic, Dragan
+   Fernando, Harindra J. S.
+   Brown, Michael J.
+   Pardyjak, Eric R.
+TI On flows in simulated urban canopies
+SO ENVIRONMENTAL FLUID MECHANICS
+LA English
+DT Article; Proceedings Paper
+CT 1st Symposium on Urban Fluid Mechanics (UFM)
+CY AUG, 2014
+CL ASME Conf, Chicago, IL
+HO ASME Conf
+DE Urban canopy; Urban canyon; Flow adjustment; Turbulence scale; Field
+   experiment
+ID AVENUE STREET CANYON; TURBULENCE CHARACTERISTICS; BOUNDARY-LAYER; MEAN
+   FLOW; ROUGHNESS SUBLAYER; VELOCITY PROFILE; OBSTACLE ARRAYS; WIND-FIELD;
+   DISPERSION; STATISTICS
+AB Flow and turbulence within building canopies continue to be a topic of profound interest in the context of pedestrian comfort, wind loading, contaminant dispersion and energy usage in populated urban areas. Many experimental studies have been reported on this topic, but they either deal with wind/water tunnel measurements (at low Reynolds numbers) or complex urban building clusters (where the results are site dependent and difficult to interpret). To avert such problems, an instrumented mock building cluster made of a regular array of man-sized objects (shipping containers) placed in the atmospheric boundary layer was used to investigate spatial flow adjustment, flow patterns (as a function of approach angle) and turbulence within the building canopy. A new scaling is proposed for the characteristic canopy velocity based on the approach flow and canopy morphology, which was found to perform well when evaluated against experimental data. The flow adjustment at the leading and trailing edges of the canopy was found to be in good agreement with the formulation of Belcher et al. (J Fluid Mech 488:369-398, 2003). The results have applications to developing simple and fast contaminant transport and dispersion models that can be used in conjunction with emergency response.
+C1 [Zajic, Dragan] West Desert Test Ctr, Meteorol Div, Dugway, UT 84022 USA.
+   [Fernando, Harindra J. S.] Univ Notre Dame, Environm Fluid Dynam Labs, Civil & Environm Engn & Earth Sci, Notre Dame, IN 46556 USA.
+   [Brown, Michael J.] Los Alamos Natl Lab, Los Alamos, NM 87545 USA.
+   [Pardyjak, Eric R.] Univ Utah, Dept Mech Engn, Salt Lake City, UT 84112 USA.
+RP Zajic, D (reprint author), West Desert Test Ctr, Meteorol Div, Dugway, UT 84022 USA.
+EM draganzajic@gmail.com
+RI Fernando, Harindra/N-5339-2014
+OI Fernando, Harindra/0000-0002-9638-0698; Pardyjak,
+   Eric/0000-0002-0180-0857; Brown, Michael J./0000-0002-8069-0835
+FU NSF (CMG) [0934592]; ARO (Geosciences); Center for Environmental Fluid
+   Dynamics at Arizona State University
+FX The authors are very grateful to Mr. Christopher Biltoft, Dr. Marko
+   Princevac and Dr. Matthew A. Nelson for their help during field
+   measurements and data processing. This research was supported by the NSF
+   (CMG; Grant #0934592) and ARO (Geosciences). The work was carried out
+   when the first two authors were at the Center for Environmental Fluid
+   Dynamics at Arizona State University, the support of which is gratefully
+   acknowledged. The authors are very thankful to anonymous reviewers for
+   helpful suggestions and comments on the manuscript.
+CR Addepalli B, 2013, ENV FLUID MECH UNPUB
+   Addepalli B, 2013, BOUND-LAY METEOROL, V148, P133, DOI 10.1007/s10546-013-9810-5
+   Allwine K.J., 2006, PNNL15969
+   Allwine KJ, 2002, B AM METEOROL SOC, V83, P521, DOI 10.1175/1520-0477(2002)083<0521:OOUAMF>2.3.CO;2
+   Allwine KJ, 2007, PNNL16696
+   Belcher SE, 2003, J FLUID MECH, V488, P369, DOI 10.1017/S0022112003005019
+   Bentham T, 2003, ATMOS ENVIRON, V37, P2037, DOI 10.1016/S1352-2310(03)00123-7
+   Biltoft CA, 2002, 4 S URB ENV AM MET S
+   Britter S, 2003, ANNU REV FLUID MECH, V35, P469
+   Brown M, 2004, 5 S URB ENV AM MET S
+   Brown MJ, 2000, ADV AIR POLLUT SER, V9, P193
+   Camelli F, 2005, 43 AIAA AER SCI M EX
+   Castillo MC, 2011, BOUND-LAY METEOROL, V140, P453, DOI 10.1007/s10546-011-9614-4
+   Chen RR, 1996, J ATMOS SCI, V53, P62, DOI 10.1175/1520-0469(1996)053<0062:PMODHI>2.0.CO;2
+   Christen A, 2002, 4 S URB ENV NORF MAY
+   CIONCO R M, 1972, Boundary-Layer Meteorology, V3, P255, DOI 10.1007/BF02033923
+   Cionco RM, 1965, J APPL METEOROL, V4, P517, DOI [10.1175/1520-0450(1965)004<0517:AMMFAF>2.0.CO;2, 10.1175/1520-0450(1965), DOI 10.1175/1520-0450(1965)004<0517:AMMFAF>2.0.CO;2, 10.1175/1520-0450(1965)004&LT;0517:AMMFAF&GT;2.0.CO;2]
+   Clarke C., 1982, 600S382062 EPA
+   Dallman A, 2013, ENVIRON FLUID MECH, V13, P279, DOI 10.1007/s10652-013-9274-7
+   Dallman A, 2013, J FLUID MECH UNPUB
+   Di Sabatino S, 2008, BOUND-LAY METEOROL, V127, P131, DOI 10.1007/s10546-007-9250-1
+   Di Sabatino S, 2010, J APPL METEOROL CLIM, V49, P1377, DOI 10.1175/2010JAMC2117.1
+   Dupont S, 2004, BOUND-LAY METEOROL, V113, P111, DOI 10.1023/B:BOUN.0000037327.19159.ac
+   Feigenwinter C, 1999, THEOR APPL CLIMATOL, V62, P51, DOI 10.1007/s007040050074
+   Fernando HJS, 2010, ANNU REV FLUID MECH, V42, P365, DOI 10.1146/annurev-fluid-121108-145459
+   Fernando HJS, 2010, PHYS FLUIDS, V22
+   Finnigan J, 2000, ANNU REV FLUID MECH, V32, P519, DOI 10.1146/annurev.fluid.32.1.519
+   Finnigan J. J., 1985, The forest-atmosphere interaction. Proceedings of the forest environmental measurements conference held at Oak Ridge, Tennessee, October 23-28, 1983, P443
+   Grimmond CSB, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004936
+   Hanna SR, 2001, ATMOS ENVIRON, V35, P2223, DOI 10.1016/S1352-2310(00)00284-3
+   Hanna SR, 2001, ATMOS ENVIRON, V35, P2231, DOI 10.1016/S1352-2310(00)00481-7
+   Higgins CW, 2012, BOUND-LAY METEOROL, V143, P379, DOI 10.1007/s10546-012-9701-1
+   HOGSTROM U, 1982, BOUND-LAY METEOROL, V23, P449, DOI 10.1007/BF00116272
+   HUNTER LJ, 1990, ENERG BUILDINGS, V15, P315, DOI DOI 10.1016/0378-7788(90)90004-3
+   HUSSAIN M, 1980, J WIND ENG IND AEROD, V6, P207, DOI 10.1016/0167-6105(80)90002-1
+   Inagaki A, 2008, J FLUID MECH, V615, P101, DOI 10.1017/S0022112008003765
+   JACKSON PS, 1981, J FLUID MECH, V111, P15, DOI 10.1017/S0022112081002279
+   Kaimal J C, 1994, ATMOSPHERIC BOUNDARY
+   Kanda M, 2007, J APPL METEOROL CLIM, V46, P1067, DOI 10.1175/JAM2500.1
+   Kastner-Klein P, 2004, BOUND-LAY METEOROL, V111, P55, DOI 10.1023/B:BOUN.0000010994.32240.b1
+   Kim JJ, 2003, J WIND ENG IND AEROD, V91, P309, DOI 10.1016/S0167-6105(02)00395-1
+   Klein P, 2007, INT J CLIMATOL, V27, P1887, DOI 10.1002/joc.1581
+   Klein P, 2007, J APPL METEOROL CLIM, V46, P851, DOI 10.1175/JAM2494.1
+   KOTSOVINOS NE, 1991, PHYS FLUIDS A-FLUID, V3, P163, DOI 10.1063/1.857875
+   KUNDU PK, 1991, J GEOPHYS RES-OCEANS, V96, P4855, DOI 10.1029/90JC02108
+   LEE IY, 1994, ATMOS ENVIRON, V28, P2343, DOI 10.1016/1352-2310(94)90488-X
+   Leonardi S, 2010, J FLUID MECH, V651, P519, DOI 10.1017/S002211200999423X
+   Lettau H. H, 1969, J APPL METEOROL, V8, P828, DOI DOI 10.1175/1520-0450(1969)008<0828:NOARPE>2.0.CO;2
+   Louka P, 2000, ATMOS ENVIRON, V34, P2613, DOI 10.1016/S1352-2310(99)00477-X
+   Louka P, 1999, THESIS U READING
+   MacDonald RW, 1998, ATMOS ENVIRON, V32, P1857, DOI 10.1016/S1352-2310(97)00403-2
+   Macdonald RW, 2000, BOUND-LAY METEOROL, V97, P25, DOI 10.1023/A:1002785830512
+   Martilli A, 2002, BOUND-LAY METEOROL, V104, P261, DOI 10.1023/A:1016099921195
+   MILES J, 1986, PHYS FLUIDS, V29, P3470, DOI 10.1063/1.865812
+   Milliez M, 2008, BOUND-LAY METEOROL, V127, P241, DOI 10.1007/s10546-008-9266-1
+   MULHEARN P J, 1978, Boundary-Layer Meteorology, V15, P109, DOI 10.1007/BF00165509
+   Nelson MA, 2007, J APPL METEOROL CLIM, V46, P2038, DOI 10.1175/2006JAMC1427.1
+   Nelson MA, 2007, J APPL METEOROL CLIM, V46, P2055, DOI 10.1175/2006JAMC1290.1
+   OIKAWA S, 1995, BOUND-LAY METEOROL, V74, P289, DOI 10.1007/BF00712122
+   Oke T. R, 1988, BOUNDARY LAYER CLIMA
+   Oke T.R., 1976, ATMOSPHERE, V14, P268, DOI [10.1080/00046973.1976.9648422, DOI 10.1080/00046973.1976.9648422]
+   Oke TR, 1988, ENERGY BUILD, V11, P103, DOI [10.1016/ 0378- 7788( 88) 90026- 6, DOI 10.1016/0378-7788(88)90026-6]
+   Princevac M, 2005, J FLUID MECH, V533, P259, DOI 10.1017/S0022112005004441
+   Princevac M, 2010, J WIND ENG IND AEROD, V98, P377, DOI 10.1016/j.jweia.2009.11.001
+   Ramamurthy P, 2007, J APPL METEOROL CLIM, V46, P2074, DOI 10.1175/2007JAMC1296.1
+   RAUPACH MR, 1982, BOUND-LAY METEOROL, V22, P79, DOI 10.1007/BF00128057
+   ROTACH MW, 1995, ATMOS ENVIRON, V29, P1473, DOI 10.1016/1352-2310(95)00084-C
+   ROTACH MW, 1993, BOUND-LAY METEOROL, V66, P75, DOI 10.1007/BF00705460
+   Rotach MW, 1993, BOUND-LAY METEOROL, V66, P1
+   Roth M, 2000, Q J ROY METEOR SOC, V126, P941, DOI 10.1256/smsqj.56408
+   Strang EJ, 2001, J FLUID MECH, V428, P349, DOI 10.1017/S0022112000002706
+   Takimoto H, 2011, BOUND-LAY METEOROL, V140, P295, DOI 10.1007/s10546-011-9612-6
+   United Nations Secretariat (Population Division of the Department of Economic and Social Affairs), 2006, WORLD POP PROSP
+   Wang BC, 2009, INT J HEAT FLUID FL, V30, P3, DOI 10.1016/j.ijheatfluidflow.2008.09.008
+   Warner T, 2007, B AM METEOROL SOC, V88, P167, DOI 10.1175/BAMS-88-2-167
+   Wood CR, 2009, B AM METEOROL SOC, V90, P955, DOI 10.1175/2009BAMS2638.1
+   Yee E, 2004, BOUND-LAY METEOROL, V111, P363, DOI 10.1023/B:BOUN.0000016496.83909.ee
+   Zajic D, 2011, J APPL METEOROL CLIM, V50, P203, DOI 10.1175/2010JAMC2525.1
+   Zhang YW, 2013, NAT GEOSCI, V6, P506, DOI 10.1038/ngeo1869
+NR 79
+TC 8
+Z9 8
+U1 0
+U2 23
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1567-7419
+EI 1573-1510
+J9 ENVIRON FLUID MECH
+JI Environ. Fluid Mech.
+PD APR
+PY 2015
+VL 15
+IS 2
+BP 275
+EP 303
+DI 10.1007/s10652-013-9311-6
+PG 29
+WC Environmental Sciences; Mechanics; Meteorology & Atmospheric Sciences;
+   Oceanography; Water Resources
+SC Environmental Sciences & Ecology; Mechanics; Meteorology & Atmospheric
+   Sciences; Oceanography; Water Resources
+GA CI0ZI
+UT WOS:000354468800004
+DA 2019-03-26
+ER
+
+PT J
+AU von Allmen, EI
+   Sperry, JS
+   Bush, SE
+AF von Allmen, Erica I.
+   Sperry, John S.
+   Bush, Susan E.
+TI Contrasting whole-tree water use, hydraulics, and growth in a
+   co-dominant diffuse-porous vs. ring-porous species pair
+SO TREES-STRUCTURE AND FUNCTION
+LA English
+DT Article
+DE Water use efficiency; Ecological wood anatomy; Xylem structure and
+   function; Hydraulic architecture; Metabolic scaling; Tree ecophysiology
+ID OAK QUERCUS-GAMBELII; XYLEM EMBOLISM; SAP FLOW; ALLOMETRIC
+   RELATIONSHIPS; VULNERABILITY CURVES; DECIDUOUS FOREST; LEVEL MODEL;
+   URBAN TREES; AREA; CONDUCTANCE
+AB Key message Greater transport capacity of diffuse-vs. ring-porous stem networks translated into greater water use by the diffuse-porous co-dominant, but similar growth indicated higher water use efficiency of the ring-porous species.
+   Coexistence of diffuse-vs. ring-porous trees in north-temperate deciduous forests implies a complementary ecology. The contrasting stem anatomies may result in divergent patterns of water use, and consequences for growth rate are unknown. We investigated tree hydraulics and growth rates in two co-dominants: diffuse-porous Acer grandidentatum ("maple") and ring-porous Quercus gambelii ("oak"). Our goals were (1) document any differences in seasonal water use and its basis in divergent stem anatomy and (2) compare annual growth rates and hence growth-based water use efficiencies. At maximum transpiration, maple trees used more than double the water than oak trees. Maple also had more leaf area per basal area, resulting in similar water use per leaf area between species. Maple had ca. double the tree hydraulic conductance than oak owing to greater conductance of its diffuse-porous stem network (leaf-and root system conductances were less different between species). Water use in maple increased with vapor pressure deficit (VPD), whereas in oak it decreased very slightly indicating a more sensitive stomatal response. Seasonably stable water use and xylem pressure in oak suggested a deeper water source. Although maple used more water, both species exhibited similar annual biomass growth of the above-ground shoot network, indicating greater growth-based water use efficiency of oak shoots. In sum, water use in maple exceeded that in oak and was more influenced by soil and atmospheric water status. The low and stable water use of oak was associated with a greater efficiency in exchanging water for shoot growth.
+C1 [von Allmen, Erica I.] Univ Hawaii, Dept Bot, Honolulu, HI 96822 USA.
+   [Sperry, John S.; Bush, Susan E.] Univ Utah, Dept Biol, Salt Lake City, UT 84112 USA.
+RP Sperry, JS (reprint author), Univ Utah, Dept Biol, Salt Lake City, UT 84112 USA.
+EM j.sperry@utah.edu
+FU National Science Foundation [ATB-0742800, IBN-0743148]
+FX We thank Henry Grover and Andy Crowl for field assistance, and Kevin
+   Hultine for technical support of sapflow measurements and calibrations,
+   and Duncan Smith and Mairgereth Christman for technical help in the
+   laboratory. Fred Adler (University of Utah) assisted with data analysis
+   and interpretation. The authors were supported from National Science
+   Foundation grant ATB-0742800; JSS and EIV received additional funding
+   from National Science Foundation grant-IBN-0743148.
+CR Alder NN, 1996, OECOLOGIA, V105, P293, DOI 10.1007/BF00328731
+   BARBOUR MG, 1988, N AM TERRESTRIAL VEG
+   Bartelink HH, 1997, ANN SCI FOREST, V54, P39, DOI 10.1051/forest:19970104
+   Bond-Lamberty B, 2002, CAN J FOREST RES, V32, P1441, DOI 10.1139/X02-063
+   Bovard BD, 2005, TREE PHYSIOL, V25, P31, DOI 10.1093/treephys/25.1.31
+   Bush SE, 2008, OECOLOGIA, V156, P13, DOI 10.1007/s00442-008-0966-5
+   Bush SE, 2010, TREE PHYSIOL, V30, P1545, DOI 10.1093/treephys/tpq096
+   Calvo-Alvarado JC, 2008, TREE PHYSIOL, V28, P1601, DOI 10.1093/treephys/28.11.1601
+   Cochard H, 2010, PLANT CELL ENVIRON, V33, P1543, DOI 10.1111/j.1365-3040.2010.02163.x
+   Davis SD, 1999, AM J BOT, V86, P1367, DOI 10.2307/2656919
+   EHLERINGER JR, 1992, GREAT BASIN NAT, V52, P95
+   Enquist BJ, 2001, NATURE, V410, P655, DOI 10.1038/35070500
+   Enquist BJ, 2000, SFI S SCI C, P167
+   Fownes J. H., 1992, Journal of Tropical Forest Science, V4, P317
+   GASSON P, 1985, IAWA BULL, V6, P219, DOI 10.1163/22941932-90000941
+   Genet H, 2009, OECOLOGIA, V105, P435
+   GRANIER A, 1985, ANN SCI FOREST, V42, P193, DOI 10.1051/forest:19850204
+   Hacke U, 1996, OECOLOGIA, V105, P435, DOI 10.1007/BF00330005
+   Hacke UG, 2006, TREE PHYSIOL, V26, P689, DOI 10.1093/treephys/26.6.689
+   Holtta T, 2011, PLANT CELL ENVIRON, V34, P1819, DOI 10.1111/j.1365-3040.2011.02377.x
+   Jaquish LL, 2001, AM J BOT, V88, P206, DOI 10.2307/2657011
+   Lens F, 2010, NEW PHYTOL, V190, P709
+   Litvak E, 2012, TREE PHYSIOL, V32, P373, DOI 10.1093/treephys/tps015
+   Meinzer FC, 2005, FUNCT ECOL, V19, P558, DOI 10.1111/j.1365-2435.2005.01017.x
+   Meinzer FC, 2001, TREE PHYSIOL, V21, P19, DOI 10.1093/treephys/21.1.19
+   Meinzer FC, 2013, TREE PHYSIOL, V33, P345, DOI 10.1093/treephys/tpt012
+   Mencuccini M, 2002, TREE PHYSIOL, V22, P553, DOI 10.1093/treephys/22.8.553
+   Mencuccini M, 2003, PLANT CELL ENVIRON, V26, P163, DOI 10.1046/j.1365-3040.2003.00991.x
+   Mencuccini M, 1996, PLANT CELL ENVIRON, V19, P939, DOI 10.1111/j.1365-3040.1996.tb00458.x
+   NEILSON RP, 1983, J BIOGEOGR, V10, P275, DOI 10.2307/2844738
+   Niklas KJ, 2004, P NATL ACAD SCI USA, V101, P15661, DOI [10.1073/pnas.0405857101, 10.1073/pnas.0405827101]
+   Pataki DE, 2003, ADV WATER RESOUR, V26, P1267, DOI 10.1016/j.advwatres.2003.08.001
+   PHILLIPS SL, 1995, TREES-STRUCT FUNCT, V9, P214
+   Sack L, 2002, J EXP BOT, V53, P2177, DOI 10.1093/jxb/erf069
+   Sack Lawren, 2005, P93, DOI 10.1016/B978-012088457-5/50007-1
+   Sperry JS, 2012, FUNCT ECOL, V26, P1054, DOI 10.1111/j.1365-2435.2012.02022.x
+   Sperry JS, 2012, PLANT CELL ENVIRON, V35, P601, DOI 10.1111/j.1365-3040.2011.02439.x
+   SPERRY JS, 1988, AM J BOT, V75, P1212, DOI 10.2307/2444104
+   Taneda H, 2008, TREE PHYSIOL, V28, P1641, DOI 10.1093/treephys/28.11.1641
+   TIEDEMANN AR, 1987, AM J BOT, V74, P1065, DOI 10.2307/2443947
+   von Allmen EI, 2012, FUNCT ECOL, V26, P1066, DOI 10.1111/j.1365-2435.2012.02021.x
+   WANG J, 1992, FUNCT ECOL, V6, P469, DOI 10.2307/2389285
+   Warton DI, 2006, BIOL REV, V81, P259, DOI 10.1017/S1464793106007007
+   Zeppel M, 2013, ECOHYDROLOGY, V6, P889, DOI 10.1002/eco.1377
+   Zimmermann M. H., 1983, XYLEM STRUCTURE ASCE
+NR 45
+TC 7
+Z9 8
+U1 3
+U2 77
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0931-1890
+EI 1432-2285
+J9 TREES-STRUCT FUNCT
+JI Trees-Struct. Funct.
+PD JUN
+PY 2015
+VL 29
+IS 3
+BP 717
+EP 728
+DI 10.1007/s00468-014-1149-0
+PG 12
+WC Forestry
+SC Forestry
+GA CI1EF
+UT WOS:000354484000009
+DA 2019-03-26
+ER
+
+PT J
+AU Jagoda, P
+   Gilliam, M
+   McDonald, P
+   Russell, C
+AF Jagoda, Patrick
+   Gilliam, Melissa
+   McDonald, Peter
+   Russell, Christopher
+TI Worlding through Play Alternate Reality Games, Large-Scale Learning, and
+   The Source
+SO AMERICAN JOURNAL OF PLAY
+LA English
+DT Article
+DE alternate reality games; gamification; scaling; teaching STEM (science,
+   technology, engineering, and mathematics); twenty-first-century
+   literacy; worlding through play
+AB Gamification-the use of game mechanics in conventionally nongame activities has received attention in the field of education. Games, however, are not reducible to the common mechanisms of gamification that target extrinsic motivation, and may also include elements such as role playing, world making, and collective storytelling. Ilere, the authors discuss the potential learning benefits of largescale and situated alternate reality games (ARGs) that complicate conventional gamified systems. They also explore the scaling up of improvisational modes of play in these games from intimate groups to large collectives exceeding the size of typical classrooms. They use a case study of The Source (2013), an ARG they designed (with funding from the National Science Foundation) for urban youth of color from the South Side of Chicago in an out-of-school setting using play across several platforms. The Source aimed to promote the academic areas of STEM (science, technology, engineering, and mathematics), as well as twenty-first-century literacies and social justice. The authors argue that such ARGs facilitate learning by engaging semifictional and immersive play made flexible and extensible through game forms. They suggest that, although designers determine the challenges in an ARG, the players shape the experience and shared game world through collaborative actions.
+EM patrick.jagoda@uchicago.edu
+OI McDonald, Peter/0000-0001-5371-3539
+CR [Anonymous], 2011, EXP UND MIN PART AM
+   [Anonymous], 2013, SOURCE
+   Battles J, 2011, J WEB LIBRARIANSH, V5, P114, DOI 10.1080/19322909.2011.569922
+   Bawden D, 2002, LEARN PUBL, V15, P297, DOI 10.1087/095315102760319279
+   Bennett A., 2004, ALL STUDENTS REACHIN
+   Bonsignore Elizabeth, 2012, P 10 INT C LEARN SCI, V1, P251
+   Bonsignore Elizabeth, 2012, INT J LEARNING MEDIA, V4, P25, DOI DOI 10.1162/IJLM_A_00086
+   Chess S, 2014, NEW MEDIA SOC, V16, P1002, DOI 10.1177/1461444813497554
+   Cunningham C, 2011, NEW MEDIA SOC, V13, P1373, DOI 10.1177/1461444811410397
+   Davidson C., 2011, NOW YOU SEE IT BRAIN
+   Davis C-S., 1996, EQUITY EQUATION FOST
+   Dewey J., 1916, DEMOCRACY ED
+   Felicia Patrick, 2011, HDB RES IMPROVING LE, P240
+   Garcia Antero, 2009, MM 09, P1073
+   Gee J. P., 2007, WHAT VIDEO GAMES HAV
+   Gee Jmes P., 2004, SITUATED LANGUAGE LE
+   Groh F., 2012, RES TRENDS MEDIA INF, V4, P39
+   Hansen Derek, 2013, C HUMAN FACTORS COMP
+   Hayles NK, 2014, CRIT INQUIRY, V40, P220, DOI 10.1086/677374
+   Hilton M., 2012, ED LIFE WORK DEV TRA
+   Hoffman K., 2003, STATUS TRENDS ED BLA
+   Holland W., 2003, VIDEO GAME THEORY RE, P25
+   Isaacs S, 1929, THE NURSERY YEARS
+   Jagoda P, 2013, BOUNDARY TWO, V40, P113, DOI 10.1215/01903659-2151821
+   Jenkins Henry, 2006, CONVERGENCE CULTURE
+   Kaiser Matthew, 2012, WORLD PLAY PORTRAITS
+   Kim Jeffrey, 2009, 1 MONDAY, V14, P1
+   Lindau ST, 2011, PREV MED, V52, P200, DOI 10.1016/j.ypmed.2011.01.001
+   Livingstone S., 2002, YOUNG PEOPLE NEW MED
+   Logan John R., 2011, PRESISTENCE SEGREGAT
+   Massumi B, 2002, PARABLES VIRTUAL MOV
+   McGonigal J., 2011, REALITY IS BROKEN WH
+   McGonigal J., 2003, P 5 INT DIG ARTS CUL, P110
+   Outlier Research and Evaluation Center for Elementary Mathematics and Science Education, 2013, OUTC SOURC
+   Paharia R, 2013, LOYALTY 3 0 REVOLUTI
+   Pelletier Caroline, 2009, INT J LEARNING MEDIA, V1, P83, DOI DOI 10.1162/IJLM.2009.0006
+   Pictureofsounds, 2013, DEC PAST STOR
+   Ratto M, 2011, INFORM SOC, V27, P252, DOI 10.1080/01972243.2011.583819
+   Salen K, 2007, J ED MULTIMEDIA HYPE, V16, P301
+   Stenros Jaakko, 2009, PERVASIVE GAMES THEO
+   Sutton-Smith B, 1997, AMBIGUITY PLAY
+   Sutton-Smith Brian, 1971, CHILDS PLAY, P252
+   Thomas Douglas, 2011, NEW CULTURE LEARNING
+   Urban W. J., 2009, AM ED HIST
+   Vygotsky L. S., 1978, MIND SOC DEV HIGHER
+   Watson Jeff, 2013, P DIGRA 2013 DEFRAGG, P1
+   Wilkofsky Gruen Associates, 2012, GLOB ENT MED OUTL 20
+   Wilson R., 2007, WORLDING PROJECT DOI
+   Young MF, 2012, REV EDUC RES, V82, P61, DOI 10.3102/0034654312436980
+   Zimmerman Eric, 2009, VIDEO GAME THEORY RE, V2, P23
+NR 50
+TC 3
+Z9 3
+U1 1
+U2 9
+PU STRONG
+PI ROCHESTER
+PA ONE MANHATTAN SQ, ROCHESTER, NY 14607 USA
+SN 1938-0399
+EI 1938-0402
+J9 AM J PLAY
+JI Amer. J. Play
+PD FAL
+PY 2015
+VL 8
+IS 1
+BP 74
+EP 100
+PG 27
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+GA CV5DD
+UT WOS:000364285900004
+DA 2019-03-26
+ER

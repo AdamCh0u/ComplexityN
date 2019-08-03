@@ -1,0 +1,530 @@
+
+PT J
+AU Pretzsch, H
+   Biber, P
+   Uhl, E
+   Dahlhausen, J
+   Rotzer, T
+   Caldentey, J
+   Koike, T
+   van Con, T
+   Chavanne, A
+   Seifert, T
+   du Toit, B
+   Farnden, C
+   Pauleit, S
+AF Pretzsch, Hans
+   Biber, Peter
+   Uhl, Enno
+   Dahlhausen, Jens
+   Roetzer, Thomas
+   Caldentey, Juan
+   Koike, Takayoshi
+   van Con, Tran
+   Chavanne, Aurelia
+   Seifert, Thomas
+   du Toit, Ben
+   Farnden, Craig
+   Pauleit, Stephan
+TI Crown size and growing space requirement of common tree species in urban
+   centres, parks, and forests
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+DE Crown cross section area; Crown radius; Size growth; Solitary growth;
+   Tree allometry; Urban trees
+ID FAGUS-SYLVATICA L.; GENERAL QUANTITATIVE THEORY; QUANTILE REGRESSION;
+   CARBON STORAGE; UNITED-STATES; RAIN-FOREST; ALLOMETRY; STANDS;
+   SEQUESTRATION; EFFICIENCY
+AB Tree crown size determines among others tree's growth, carbon sequestration, shading, filtering of fine air particulates, and risk of wind-breaking. The dependence of crown size on species, resource supply, and tree age complicates an accurate evaluation of a tree's space requirement, and its size-dependent functions and services in urban as well as in forested areas.
+   Based on a world-wide dataset of tree crown measurements of 22 common urban tree species we first derived species-specific crown radius-stem diameter relationships for open grown conditions. By cluster analysis we then assigned the 22 species to 5 crown extension types and developed mean relationships of tree height, crown radius, crown projection area, and crown volume depending on tree diameter for each type. This allometric analysis yielded auxiliary relationships which can be used for estimating the species-specific crown size and dynamics at a given tree dimension. We discuss how the results can support the choice and initial spacing of particular species and the assessment and prognosis of their functions and services. (C) 2015 The Authors. Published by Elsevier GmbH.
+C1 [Pretzsch, Hans; Biber, Peter; Uhl, Enno; Dahlhausen, Jens; Roetzer, Thomas] Tech Univ Munich, Ctr Life & Food Sci Weihenstephan, Chair Forest Growth & Yield Sci, D-85354 Freising Weihenstephan, Germany.
+   [Caldentey, Juan] Univ Chile, Dept Silvicultura & Conservac Nat, Santiago, Chile.
+   [Koike, Takayoshi] Hokkaido Univ, Dept Forest Sci, Sapporo, Hokkaido 0608589, Japan.
+   [van Con, Tran] Vietnamese Acad Forest Sci, Hanoi, Vietnam.
+   [Chavanne, Aurelia] DEVE Maine Paris, F-75012 Paris, France.
+   [Seifert, Thomas; du Toit, Ben] Univ Stellenbosch, Fac AgriSci, Dept Forest & Wood Sci, ZA-7602 Matieland, South Africa.
+   [Farnden, Craig] Syncrude Canada Ltd, Edmonton, AB T6N 1H4, Canada.
+   [Pauleit, Stephan] Tech Univ Munich, Ctr Life & Food Sci Weihenstephan, Chair Strateg Landscape Planning & Management, D-85354 Freising Weihenstephan, Germany.
+RP Pretzsch, H (reprint author), Tech Univ Munich, Ctr Life & Food Sci Weihenstephan, Chair Forest Growth & Yield Sci, Hans Carl von Carlowitz Pl 2, D-85354 Freising Weihenstephan, Germany.
+EM hans.pretzsch@lrz.tum.de
+OI Seifert, Thomas/0000-0002-9611-6272; Pretzsch, Hans/0000-0002-4958-1868;
+   Pauleit, Stephan/0000-0002-0056-6720
+FU AUDI environmental foundation; Bavarian State Ministry for Environment
+   and Health [TUF01UF-64971]; Bavarian State Ministry for Nutrition,
+   Agriculture and Forestry [7831-23953-2014]
+FX Thanks to the AUDI environmental foundation for funding the project
+   "Response of urban trees on climate change" and to the Bavarian State
+   Ministry for Environment and Health for funding the project "Urban trees
+   under climate change: their growth, functions & services, and
+   perspectives" (TUF01UF-64971). We further wish to thank the Bavarian
+   State Ministry for Nutrition, Agriculture and Forestry for permanent
+   support of the project W 07 "Long-term experimental plots for forest
+   growth and yield research" (7831-23953-2014). While the first two
+   projects provided records for urban trees, the latter contributed
+   information on trees in forests. Thanks are also due to Ulrich Kern for
+   graphical artwork, and anonymous reviewers for their helpful criticism.
+CR Alves LF, 2002, J TROP ECOL, V18, P245, DOI 10.1017/S026646740200216X
+   Armson D, 2012, URBAN FOR URBAN GREE, V11, P245, DOI 10.1016/j.ufug.2012.05.002
+   Bayer D, 2013, TREES-STRUCT FUNCT, V27, P1035, DOI 10.1007/s00468-013-0854-4
+   Beckett KP, 1998, ENVIRON POLLUT, V99, P347, DOI 10.1016/S0269-7491(98)00016-5
+   Berry R, 2013, BUILD ENVIRON, V69, P91, DOI 10.1016/j.buildenv.2013.07.009
+   Binkley D, 2013, FOREST ECOL MANAG, V288, P5, DOI 10.1016/j.foreco.2011.11.002
+   Bosch-Cano F, 2011, ENVIRON RES, V111, P619, DOI 10.1016/j.envres.2011.04.001
+   Calfapietra C, 2013, ENVIRON POLLUT, V183, P71, DOI 10.1016/j.envpol.2013.03.012
+   Carinanos P, 2014, LANDSCAPE URBAN PLAN, V123, P134, DOI 10.1016/j.landurbplan.2013.12.009
+   Choi J, 2001, FOREST ECOL MANAG, V152, P235, DOI 10.1016/S0378-1127(00)00606-X
+   Declet-Barreto J, 2013, URBAN ECOSYST, V16, P617, DOI 10.1007/s11252-012-0278-8
+   Dieler J, 2013, FOREST ECOL MANAG, V295, P97, DOI 10.1016/j.foreco.2012.12.049
+   Dobbs C, 2014, ECOL INDIC, V43, P44, DOI 10.1016/j.ecolind.2014.02.007
+   Enquist BJ, 2009, P NATL ACAD SCI USA, V106, P7046, DOI 10.1073/pnas.0812303106
+   Everitt B. S., 2009, HDB STAT ANAL USING, p376p
+   FORGY EW, 1965, BIOMETRICS, V21, P768
+   Forrester D. I., 2013, FOR ECOL MANAGE
+   Genet A, 2011, FOREST ECOL MANAG, V261, P1188, DOI 10.1016/j.foreco.2010.12.034
+   Gratani L, 2007, LANDSCAPE URBAN PLAN, V81, P282, DOI 10.1016/j.landurbplan.2007.01.006
+   Hartigan J. A., 1979, Applied Statistics, V28, P100, DOI 10.2307/2346830
+   Hasenauer H, 1997, FOREST ECOL MANAG, V96, P197, DOI 10.1016/S0378-1127(97)00057-1
+   Hasenauer H, 1996, FOREST ECOL MANAG, V84, P49, DOI 10.1016/0378-1127(96)03768-1
+   Heldens W., 2013, REMOTE SENSING DIGIT, P17
+   Hutyra LR, 2011, LANDSCAPE URBAN PLAN, V103, P83, DOI 10.1016/j.landurbplan.2011.06.004
+   Huxley J. S., 1932, PROBLEMS RELATIVE GR
+   Ishii HT, 2004, FOREST SCI, V50, P342
+   Jennings SB, 1999, FORESTRY, V72, P59, DOI 10.1093/forestry/72.1.59
+   Koenker R, 2001, J ECON PERSPECT, V15, P143, DOI 10.1257/jep.15.4.143
+   Koenker R., 2013, QUANTREG QUANTILE RE
+   Leuzinger S, 2010, AGR FOREST METEOROL, V150, P56, DOI 10.1016/j.agrformet.2009.08.006
+   Lin BS, 2010, HORTSCIENCE, V45, P83
+   Lloyd S., 1982, IEEE T INFORMATION T, V28, P128, DOI DOI 10.1109/TIT.1982.1056489
+   MacQueen  J., 1967, P 5 BERK S MATH STAT, V1, P281, DOI DOI 10.1234/12345678
+   McHale M. R., 2009, Urban Ecosystems, V12, P95, DOI 10.1007/s11252-009-0081-3
+   McPherson E. G., 1997, Urban Ecosystems, V1, P49, DOI 10.1023/A:1014350822458
+   Monserud RA, 1999, CAN J FOREST RES, V29, P521, DOI 10.1139/cjfr-29-5-521
+   Niklas KJ, 2004, BIOL REV, V79, P871, DOI 10.1017/S1464793104006499
+   Nowak DJ, 2014, ENVIRON POLLUT, V193, P119, DOI 10.1016/j.envpol.2014.05.028
+   Nowak DJ, 2013, ENVIRON POLLUT, V178, P229, DOI 10.1016/j.envpol.2013.03.019
+   Nowak DJ, 2002, ENVIRON POLLUT, V116, P381, DOI 10.1016/S0269-7491(01)00214-7
+   Oliveira S, 2011, BUILD ENVIRON, V46, P2186, DOI 10.1016/j.buildenv.2011.04.034
+   Osunkoya OO, 2007, AM J BOT, V94, P1951, DOI 10.3732/ajb.94.12.1951
+   Peper Paula J., 2001, Journal of Arboriculture, V27, P306
+   Pretzsch H, 2005, PLANT BIOLOGY, V7, P628, DOI 10.1055/s-2005-865965
+   Pretzsch H., 2012, FOREST SCI
+   Pretzsch H., 2011, OECOLOGIA, V169, P637
+   Pretzsch H., 2014, FOR ECOL MANAGE
+   Pretzsch H, 2009, FOREST DYNAMICS, GROWTH AND YIELD: FROM MEASUREMENT TO MODEL, P1, DOI 10.1007/978-3-540-88307-4_1
+   Preuhsler T., 1979, FORSTL FORSCHUNGSBER, V45
+   Price CA, 2010, NEW PHYTOL, V188, P696, DOI 10.1111/j.1469-8137.2010.03442.x
+   Purves DW, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000870
+   PUTZ FE, 1984, AM MIDL NAT, V112, P24, DOI 10.2307/2425452
+   R Core Team, 2014, R LANG ENV STAT COMP
+   Rohle H., 1985, Forstarchiv, V56, P238
+   Rollie H., 1986, FORSTARCHIV, V57, P67
+   Rust S, 2014, URBAN FOR URBAN GREE, V13, P336, DOI 10.1016/j.ufug.2013.12.003
+   Saebo A, 2012, SCI TOTAL ENVIRON, V427, P347, DOI 10.1016/j.scitotenv.2012.03.084
+   Sailor DJ, 1998, ATMOS ENVIRON, V32, P43, DOI 10.1016/S1352-2310(97)00178-7
+   Souch C. A., 1993, Journal of Arboriculture, V19, P303
+   Teissier G, 1934, ACTA SCI IND, V95
+   Troxel B, 2013, URBAN FOR URBAN GREE, V12, P144, DOI 10.1016/j.ufug.2013.02.006
+   Tyrvainen L., 2005, PLANNING, P95
+   Urban J., 2010, Folia Oecologica, V37, P103
+   West GB, 2009, P NATL ACAD SCI USA, V106, P7040, DOI 10.1073/pnas.0812294106
+   Yin S, 2011, ENVIRON POLLUT, V159, P2155, DOI 10.1016/j.envpol.2011.03.009
+NR 65
+TC 38
+Z9 40
+U1 0
+U2 35
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PY 2015
+VL 14
+IS 3
+BP 466
+EP 479
+DI 10.1016/j.ufug.2015.04.006
+PG 14
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA CT8LZ
+UT WOS:000363069400003
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT B
+AU Nidhi
+   Lobiyal, DK
+AF Nidhi
+   Lobiyal, D. K.
+BE Krishnan, N
+   Karthikeyan, M
+TI Data Collection and Analysis of Macroscopic Real-Time Urban Traffic Flow
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND
+   COMPUTING RESEARCH (ICCIC)
+LA English
+DT Proceedings Paper
+CT 2015 IEEE International Conference on Computational Intelligence and
+   Research (ICCIC)
+CY DEC 10-12, 2015
+CL Vickram Coll Engn, Madurai, INDIA
+SP IEEE, IEEE Podhigai Sub Sect Madras Sect, IEEE Signal Proc, Computat Intelligence & Comp Joint Soc Chapter Madras Sect
+HO Vickram Coll Engn
+DE Real time traffic flow; Macroscopic flow-density realization; Urban are
+AB The study has been conducted on the small real world area of JNU where the traffic trends were monitored manually. One month data has been taken into consideration for analyzing the macroscopic traffic flow of JNU. The traffic patterns were observed from the four different entrance/exist gates. In this, the realistic car mobility covering one month, 24 hour traffic in a span of 1019.38 acres region has been analyzed. Further, the real world behavior such as low traffic at night and high peak Incoming traffic at around 9:00 AM and outgoing at around 5:00 PM, excluding weekends, has been observed. The density and speed was calculated by the given flow of vehicular traffic. Later, the realization of traffic stream model i.e. flow-density relation was discussed. In this, the importance of scaling factor in case of less data availability came into picture.
+C1 [Nidhi; Lobiyal, D. K.] Jawaharlal Nehru Univ, Sch Comp & Syst Sci, New Delhi, India.
+RP Nidhi (reprint author), Jawaharlal Nehru Univ, Sch Comp & Syst Sci, New Delhi, India.
+EM nidhi.nidhi@fulbrightmail.org; lobiyal@gmail.com
+CR Abadi A., 2015, IEEE T INTELLIGENT T, V16
+   [Anonymous], 2004, REP TRAFF DAT COLL A
+   Chawathe S.S., 2004, IEEE INT TRANSP SYST
+   Hall F., TRAFFIC STREAM CHARA
+   Hartenstein H, 2010, VEHICULAR APPL INTER
+   Huang C.M., 2010, WIRELESS ARCHITECTUR
+   Huang W., 2014, IEEE T INTELLIGENT T, V15
+   Kim S.H., 2013, LNCS, V7813, P150
+   Maerivoet S., 2008, TRAFFIC FLOW THEORY
+   Nidhi D.K. Lobiyal, 2012, LECT NOTES I COMPUTE, V84, P477
+   Nidhi D.K. Lobiyal, 2012, INT J WIRELESS MOBIL
+   Sen R., 2013, ACCURATE SPEED DENSI
+   Uppor S. S., 2013, IEEE T MOBILE COMPUT
+   Woensel T. V., 2006, ASIA PACIFIC J OPERA
+   Zhou H., 2015, IEEE T INTELLIGENT T, V16
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 3
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4799-7849-6
+PY 2015
+BP 432
+EP 437
+PG 6
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BF2DB
+UT WOS:000380457000088
+DA 2019-03-26
+ER
+
+PT J
+AU Jim, CY
+   Zhang, H
+AF Jim, C. Y.
+   Zhang, Hao
+TI Urbanization effects on spatial-temporal differentiation of tree
+   communities in high-density residential areas
+SO URBAN ECOSYSTEMS
+LA English
+DT Article
+DE Biotic homogenization; Floristic diversity; Native species adoption;
+   Public housing estate; Urban biodiversity; Urbanization effect
+ID HONG-KONG; UNITED-STATES; REHABILITATED QUARRIES; SPECIES-DIVERSITY;
+   CLIMATE-CHANGE; URBAN FOREST; BIODIVERSITY; FLORA; CITY; CONSERVATION
+AB The changing mode of urban development through time can bring a varied landscape mosaic accompanied by spatial-temporal differentiation of urban vegetation. Hong Kong as an ultra-compact city generates intense interactions between trees and urban fabric to highlight urbanization effects on tree communities. The study areas cover public housing estates which accommodate about half of the 7.26 million population. Thirteen site factors related to estate, landform and habitat traits were measured or computed as surrogate urbanization effects. Species composition and diversity of tree communities in 102 estates were assessed by field surveys, including four estate groups: older or newer ones situated respectively in urban core or new towns. They contain 48,823 trees belonging to 232 species with heavy exotic representation. Total tree density and native tree density in newer estates were significantly higher than older ones. Differences in species richness and diversity and native species richness between older and newer estates were not significant, expressing to a certain extent the floristic-homogenization phenomenon. Multi-response Permutation Procedures (MRPP) results showed significant difference in species composition between older and newer estates, which could be explained by variations in development age, density, town plan and pre-urbanization land cover. Nonmetric Multidimensional Scaling (NMDS) results found tree distribution patterns in four estate groups strongly associated with estate area, open space area, estate population, estate age, Shannon index (H') at planting strip and tree pit, and tree site quality index. Urban-forest management could be improved by adopting more native species and providing high-quality and spacious planting sites to accommodate more and larger trees. The research methods and findings could be used by policy makers and planners in similar large and developing cities to evaluate, design, maintain and enhance urban biodiversity.
+C1 [Jim, C. Y.; Zhang, Hao] Univ Hong Kong, Dept Geog, Hong Kong, Hong Kong, Peoples R China.
+RP Jim, CY (reprint author), Univ Hong Kong, Dept Geog, Pokfulam Rd, Hong Kong, Hong Kong, Peoples R China.
+EM hragjcy@hku.hk
+OI Jim, C.Y./0000-0003-4052-8363
+FU Hong Kong Housing Authority
+FX We acknowledge with gratitude the research grants kindly awarded by the
+   Hong Kong Housing Authority. Special thanks are due to the Department of
+   Geography, the University of Hong Kong, for access to the digital
+   spatial data purchased from the Hong Kong Government. Thanks are due to
+   postgraduate students of the South China Agricultural University for
+   providing field work assistance.
+CR Allen HD, 2006, LAND DEGRAD DEV, V17, P249, DOI 10.1002/ldr.716
+   Angold PG, 2006, SCI TOTAL ENVIRON, V360, P196, DOI 10.1016/j.scitotenv.2005.08.035
+   Bertin RI, 2002, RHODORA, V104, P325
+   Burton E, 2002, ENVIRON PLANN B, V29, P219, DOI 10.1068/b2713
+   Byrne Loren B., 2007, Urban Ecosystems, V10, P255, DOI 10.1007/s11252-007-0027-6
+   Census and Statistics Department, 2014, HONG KONG ANN DIG ST
+   Chapin FS, 2000, NATURE, V405, P234, DOI 10.1038/35012241
+   Chocholouskova Z, 2003, FLORA, V198, P366, DOI 10.1078/0367-2530-00109
+   COLWELL R. K., 2012, ESTIMATES STAT ESTIM
+   Craul P. J., 1992, URBAN SOIL LANDSCAPE
+   DeCandido R, 2004, J TORREY BOT SOC, V131, P243, DOI 10.2307/4126954
+   Dehnen-Schmutz K, 2007, CONSERV BIOL, V21, P224, DOI 10.1111/j.1523-1739.2006.00538.x
+   Duffy JE, 2009, FRONT ECOL ENVIRON, V7, P437, DOI 10.1890/070195
+   Dwyer J. F., 1992, Journal of Arboriculture, V18, P227
+   Fang CF, 2005, LANDSCAPE URBAN PLAN, V71, P29, DOI 10.1016/j.landurbplan.2004.01.005
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   Freedman B, 1996, CAN FIELD NAT, V110, P675
+   Gaffin SR, 2012, NAT CLIM CHANGE, V2, P704, DOI 10.1038/nclimate1685
+   Gustafsson L, 2005, SILVA FENN, V39, P191, DOI 10.14214/sf.383
+   Hong Kong Herbarium, 2012, CHECK LIST HONG KONG
+   Hong Kong Housing Authority, 2014, HOUS FIG 2014
+   Hong Kong Observatory, 2015, CLIM HONG KONG INTRO
+   Jim CY, 2008, LANDSCAPE URBAN PLAN, V84, P312, DOI 10.1016/j.landurbplan.2007.09.001
+   Jim CY, 2008, SPRINGER SER ENV MAN, P118, DOI 10.1007/978-0-387-71425-7_9
+   Jim CY, 2013, ECOL ENG, V57, P324, DOI 10.1016/j.ecoleng.2013.04.039
+   Jim CY, 2013, URBAN FOR URBAN GREE, V12, P171, DOI 10.1016/j.ufug.2013.02.001
+   Jim CY, 1998, LANDSCAPE URBAN PLAN, V42, P29, DOI 10.1016/S0169-2046(98)00072-3
+   Jim CY, 2000, CITIES, V17, P271, DOI 10.1016/S0264-2751(00)00023-8
+   JIM CY, 1993, LANDSCAPE URBAN PLAN, V23, P119, DOI 10.1016/0169-2046(93)90112-Q
+   Jim CY, 2001, FOREST ECOL MANAG, V146, P99, DOI 10.1016/S0378-1127(00)00449-7
+   JIM CY, 2004, ACTA HORTIC, V643, P123
+   Jones HP, 2012, NAT CLIM CHANGE, V2, P504, DOI 10.1038/NCLIMATE1463
+   Jooss R, 2009, LANDSCAPE URBAN PLAN, V93, P218, DOI 10.1016/j.landurbplan.2009.07.009
+   Kareiva P, 2007, SCIENCE, V316, P1866, DOI 10.1126/science.1140170
+   Konijnendijk Cecil C., 2006, Urban Forestry & Urban Greening, V4, P93, DOI 10.1016/j.ufug.2005.11.003
+   Kowarik I, 2011, ENVIRON POLLUT, V159, P1974, DOI 10.1016/j.envpol.2011.02.022
+   KUNICK W, 1987, LANDSCAPE URBAN PLAN, V14, P57, DOI 10.1016/0169-2046(87)90006-5
+   Kuo FE, 2001, ENVIRON BEHAV, V33, P343, DOI 10.1177/0013916501333002
+   Lam CY, 2011, NEW GEOGRAPHY HONG K, VI, P7
+   Mack RN, 2002, ANN MO BOT GARD, V89, P176, DOI 10.2307/3298562
+   Mack RN, 2001, BIOSCIENCE, V51, P95, DOI 10.1641/0006-3568(2001)051[0095:HAGPDG]2.0.CO;2
+   Magurran A. E., 1988, ECOLOGICAL DIVERSITY
+   Martin CA, 2004, ACTA HORTIC, P97, DOI 10.17660/ActaHortic.2004.639.11
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Muller N., 2010, URBAN BIODIVERSITY D, P3
+   Nowak DJ, 2002, URBAN FORESTS TREES, P22
+   Olden JD, 2006, BIOL CONSERV, V127, P261, DOI 10.1016/j.biocon.2005.04.027
+   Peck J. E., 2010, MULTIVARIATE ANAL CO
+   Peterson G, 1998, ECOSYSTEMS, V1, P6, DOI 10.1007/s100219900002
+   Pickett STA, 2011, J ENVIRON MANAGE, V92, P331, DOI 10.1016/j.jenvman.2010.08.022
+   PIELOU EC, 1966, J THEOR BIOL, V13, P131, DOI 10.1016/0022-5193(66)90013-0
+   Planning Department, 2014, PLANN DEP ANN REP
+   Pysek P, 1998, J BIOGEOGR, V25, P155, DOI 10.1046/j.1365-2699.1998.251177.x
+   Reichard SH, 2001, BIOSCIENCE, V51, P103, DOI 10.1641/0006-3568(2001)051[0103:HAAPOI]2.0.CO;2
+   Ricketts T, 2003, CONSERV ECOL, V8
+   Shannon E. C., 1963, MATH THEORY COMMUNIC
+   Smart Alan, 2006, SHEK KIP MEI MYTH SQ
+   Standley LA, 2003, RHODORA, V105, P354
+   Sullivan JJ, 2005, NEW ZEAL J ECOL, V29, P1
+   Tait CJ, 2005, ECOL APPL, V15, P346, DOI 10.1890/04-0920
+   Thompson K, 2003, J VEG SCI, V14, P71, DOI 10.1658/1100-9233(2003)014[0071:UDGIPS]2.0.CO;2
+   Tratalos J, 2007, LANDSCAPE URBAN PLAN, V83, P308, DOI 10.1016/j.landurbplan.2007.05.003
+   Tregear T. R., 1959, DEV HONG KONG KOWLOO
+   Walker JS, 2009, FRONT ECOL ENVIRON, V7, P465, DOI 10.1890/080084
+   Werner P, 2007, SHRINKING CITIES EFF, P57
+   Werner P., 2009, URBAN BIODIVERSITY D, DOI 10.1002/9781444318654.ch7
+   Whitford V, 2001, LANDSCAPE URBAN PLAN, V57, P91, DOI 10.1016/S0169-2046(01)00192-X
+   Wittig Ruediger, 2004, Urban Ecosystems, V7, P323, DOI 10.1007/s11252-005-6833-9
+   Wu JG, 2011, ECOL COMPLEX, V8, P1, DOI 10.1016/j.ecocom.2010.03.002
+   Zaman Q., 2000, COMPACT CITIES SUSTA, P255
+   Zerbe S, 2003, LANDSCAPE URBAN PLAN, V62, P139, DOI 10.1016/S0169-2046(02)00145-7
+   Zhang H, 2013, INT J SUST DEV WORLD, V20, P484, DOI 10.1080/13504509.2013.818590
+   Zhang H, 2013, ECOL ENG, V55, P43, DOI 10.1016/j.ecoleng.2013.02.002
+   Zhang H, 2013, RESTOR ECOL, V21, P166, DOI 10.1111/j.1526-100X.2012.00906.x
+   Zhang H, 2011, ECOL ENG, V37, P1104, DOI 10.1016/j.ecoleng.2010.05.010
+   Zhang LQ, 2006, LANDSCAPE URBAN PLAN, V78, P449, DOI 10.1016/j.landurbplan.2005.12.004
+   Zhou DQ, 2012, LANDSCAPE URBAN PLAN, V108, P91, DOI 10.1016/j.landurbplan.2012.08.004
+   Zhuang XY, 1997, J TROP ECOL, V13, P857, DOI 10.1017/S0266467400011032
+   ZHUANG XY, 1997, MEM H K NAT HIST SOC, V1, P69
+NR 81
+TC 3
+Z9 4
+U1 5
+U2 70
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1083-8155
+EI 1573-1642
+J9 URBAN ECOSYST
+JI Urban Ecosyst.
+PD DEC
+PY 2015
+VL 18
+IS 4
+BP 1081
+EP 1101
+DI 10.1007/s11252-015-0455-7
+PG 21
+WC Biodiversity Conservation; Ecology; Environmental Sciences; Urban
+   Studies
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Urban
+   Studies
+GA CX6NK
+UT WOS:000365817600004
+DA 2019-03-26
+ER
+
+PT J
+AU Sim, A
+   Yaliraki, SN
+   Barahona, M
+   Stumpf, MPH
+AF Sim, Aaron
+   Yaliraki, Sophia N.
+   Barahona, Mauricio
+   Stumpf, Michael P. H.
+TI Great cities look small
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE infrastructure; population models; social networks
+ID MOBILITY; IMPACT; LIFE
+AB Great cities connect people; failed cities isolate people. Despite the fundamental importance of physical, face-to-face social ties in the functioning of cities, these connectivity networks are not explicitly observed in their entirety. Attempts at estimating them often rely on unrealistic over-simplifications such as the assumption of spatial homogeneity. Here we propose a mathematical model of human interactions in terms of a local strategy of maximizing the number of beneficial connections attainable under the constraint of limited individual travelling-time budgets. By incorporating census and openly available online multi-modal transport data, we are able to characterize the connectivity of geometrically and topologically complex cities. Beyond providing a candidate measure of greatness, this model allows one to quantify and assess the impact of transport developments, population growth, and other infrastructure and demographic changes on a city. Supported by validations of gross domestic product and human immunodeficiency virus infection rates across US metropolitan areas, we illustrate the effect of changes in local and city-wide connectivities by considering the economic impact of two contemporary inter- and intra-city transport developments in the UK: High Speed 2 and London Crossrail. This derivation of the model suggests that the scaling of different urban indicators with population size has an explicitly mechanistic origin.
+C1 [Sim, Aaron; Barahona, Mauricio] Univ London Imperial Coll Sci Technol & Med, Dept Math, London SW7 2AZ, England.
+   [Yaliraki, Sophia N.] Univ London Imperial Coll Sci Technol & Med, Dept Chem, London SW7 2AZ, England.
+   [Sim, Aaron; Stumpf, Michael P. H.] Univ London Imperial Coll Sci Technol & Med, Dept Life Sci, London SW7 2AZ, England.
+RP Barahona, M (reprint author), Univ London Imperial Coll Sci Technol & Med, Dept Math, London SW7 2AZ, England.
+EM m.barahona@imperial.ac.uk; m.stumpf@imperial.ac.uk
+RI Barahona, Mauricio/C-3638-2008
+OI Barahona, Mauricio/0000-0002-1089-5675
+FU EPSRC [EP/I017267/1]; Engineering and Physical Sciences Research Council
+   [EP/I017267/1, EP/K039946/1]
+FX This project has been funded by EPSRC grant number EP/I017267/1 under
+   the Mathematics Underpinning the Digital Economy programme.
+CR [Anonymous], 2001, JONAH
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Basu S, 2001, P IEEE INT WORKSH CU
+   Batty M., 2013, NEW SCI CITIES
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Burchardi KB, 2013, Q J ECON, V128, P1219, DOI 10.1093/qje/qjt009
+   Cattuto C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011596
+   Cho E, 2011, FRIENDSHIP MOBILITY
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Gleeson JP, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.026106
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   Kung KS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096180
+   Laidlaw Z., 2005, COLONIAL CONNECTIONS
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Louf R, 2014, MOBILITY PATTERNS SC
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Mokhtarian PL, 2004, TRANSPORT RES A-POL, V38, P643, DOI 10.1016/j.tra.2003.12.004
+   Nee S, 2005, SCIENCE, V309, P1236, DOI 10.1126/science.1114488
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Patel P, 2014, AIDS, V28, P1509, DOI 10.1097/QAD.0000000000000298
+   Penrose M. D., 2003, RANDOM GEOMETRIC GRA
+   Pentland A, 2007, PHYSICA A, V378, P59, DOI 10.1016/j.physa.2006.11.046
+   Rosenberg NA, 2002, NAT REV GENET, V3, P380, DOI 10.1038/nrg795
+   Rozenfeld H.D., 2009, AM ECON REV, V101, P2205, DOI DOI 10.1257/AER.101.5.2205)
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Savitch HV, 2010, CITIES, V27, P42, DOI 10.1016/j.cities.2009.11.012
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Stouffer SA, 1940, AM SOCIOL REV, V5, P845, DOI 10.2307/2084520
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   SUGDEN R, 1991, ECON J, V101, P751, DOI 10.2307/2233854
+   Toole JL, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.1128
+   Wang D, 2011, HUMAN MOBILITY SOCIA
+   Watts DJ, 2007, HARVARD BUS REV, V85, P22
+   Wu L, 2008, P INT C INF SYST PAR
+NR 41
+TC 8
+Z9 8
+U1 0
+U2 11
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD AUG 6
+PY 2015
+VL 12
+IS 109
+AR 20150315
+DI 10.1098/rsif.2015.0315
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CR1KR
+UT WOS:000361084200013
+PM 26179988
+OA Other Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Lozano, JJM
+   Ortega, MV
+   Tristancho, SLZ
+AF Martinez Lozano, Jose Joaquin
+   Vergel Ortega, Mawency
+   Zafra Tristancho, Sandra Liliana
+TI VALID INSTRUMENT FOR MEASURING QUALITY OF LIFE IN YOUTH: VIHDA
+SO LOGOS CIENCIA & TECNOLOGIA
+LA Spanish
+DT Article
+DE quality of life; capabilities; test validity; youth; reliability
+AB The article presents the validity and reliability of VIDHAB instrument, its objective is to evaluate the quality of urban life of the youth of the municipality of Cucuta, Colombia. Follows a descriptive study design validation through multidimensional scaling factor analysis, construct validity, and face. The study population were people aged 18-28 in Cucuta, the sample comprised 1180 habitants. Results: a scale of 57 items was obtained. Factor analysis showed dimensions of life satisfaction, quality of public space, poverty rate, perception of public space; Internal consistency was adequate (Cronbach's alpha 0.81 to 0.89), overall intraclass correlation coefficient of 0.967 (95%, from 0.933 to 0.984), average sum of differences in items - 1.3 (SD: 8.5) and Kappa indices above 0.86 shows high agreement among experts. Conclusion: VIDHAB is a valid and reliable for the context Cucuta, Colombia instrument.
+C1 [Martinez Lozano, Jose Joaquin; Vergel Ortega, Mawency] Univ Francisco Paula Santander, Grp Invest Euler, Cucuta, Colombia.
+RP Lozano, JJM (reprint author), Univ Francisco Paula Santander, Grp Invest Euler, Cucuta, Colombia.
+EM josemartinez@ufps.edu.co; mawency@ufps.edu.co;
+   sandra.zafra@correo.policia.gov.co
+CR Alkire S., 2009, 32 OPHI U OXF OXF DE
+   ALLY M, 2014, RUSC-UNIV KNOWL SOC, V11, P142, DOI DOI 10.7238/rusc.v11i1.2033
+   Alvarez-Garcia D, 2014, EDUC XX1, V17, P337, DOI 10.5944/educxx1.17.1.11494
+   Andrews F. M., 1976, SOCIAL INDICATORS WE
+   Angulo R., 2011, ARCH EC, V382, P4
+   Belsley D.A., 2004, REGRESSION DIAGNOSTI
+   Benavides Vanegas F., 2011, REV LOGOS CIENCIA TE, V3, P149, DOI [10.22335/rlct.v3i1.133, DOI 10.22335/RLCT.V3I1.133]
+   Benet Rodriguez M., 2015, REV LOGOS CIENCIA TE, V7, P94
+   Bonilla L., 2009, ENS POLIT ECON, V27, P99
+   Bourguignon F., 2002, THE POVERTY
+   Brown J, 2004, MODELS QUALITY LIFE
+   Campbell A., 1976, QUALITY AM LIFE PERC
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Departamento Administrativo Nacional de Estadisticas, 2012, ENC CAL VID
+   Garson G.D., 2011, STRUCTURAL EQUATION
+   Gonzalez J., 2010, AGLOMERACION RENDIMI
+   González Jorge Iván, 2011, Rev.econ.inst., V13, P89
+   Gough I., 2008, PAPELES RELACIONES E, V100, P176
+   Hair J., 1999, ANALISIS MULTIVARIAN
+   Hosmer D., 2000, COMMUNICATIONS STAT, V10, P1043
+   Huertas Diaz O., 2014, REV LOGOS CIENCIA TE, V5, P232, DOI DOI 10.22335/RLCT.V5I2.112
+   James F., 1984, MEASURES ECONOMETRIC, V52, P761
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Lopez-Carmona JM, 2006, SALUD PUBLICA MEXICO, V48, P200, DOI 10.1590/s0036-36342006000300004
+   Navarro Diaz L., 2013, REV LOGOS CIENCIA TE, V5, P75, DOI [10.22335/rlct.v5i1.8, DOI 10.22335/RLCT.V5I1.8]
+   Nussbaum M., 2004, LA CALIDAD DE VIDA
+   POPPER KR, 1965, LOGIC SCI DISCOVERY
+   Prieto-Flores ME, 2008, REV ESP SALUD PUBLIC, V82, P301, DOI [10.1590/S1135-57272008000300006, 10.1590/s1135-57272008000300006]
+   Programa de las Naciones Unidas para el Desarrollo, 2010, VERD RIQ NAC CAM DES
+   Rojo F., 2011, DETERMINANTES SUBJET
+   SECOLSKY C, 1987, J EDUC MEAS, V24, P82, DOI 10.1111/j.1745-3984.1987.tb00265.x
+   Sen A., 2004, DESARROLLO LIBERTAD
+   SILVERA SARMIENTO Astelio, 2013, REV LOGOS CIENCIA TE, V4, P62
+   Tonon G., 2007, FACULTAD CIENCIAS SO, V6, P15
+   Vergel M., 2015, S INT ED PED FORM SU
+   Vergel Ortega M., 2014, REV LOGOS CIENCIA TE, V6, P165, DOI [http://dx.doi.org/10.22335/rct.v6il.361, DOI 10.22335/RLCT.V6I1.361]
+   Witkin S., 2012, SOCIAL CONSTRUCTION
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 0
+PU POLICIA NAC COLOMBIA
+PI BOGOTA
+PA CENTRO INVESTIGACIONES CRIMINOLOGICAS DIJIN, AVE EL DORADO 75-25,
+   BOGOTA, 00000, COLOMBIA
+SN 2145-549X
+EI 2422-4200
+J9 LOGOS CIENC TECNOL
+JI Logos Cienc. Tecnol.
+PD JUL-DEC
+PY 2015
+VL 7
+IS 1
+BP 17
+EP 26
+PG 10
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+GA VC8DI
+UT WOS:000434626600003
+OA DOAJ Gold
+DA 2019-03-26
+ER

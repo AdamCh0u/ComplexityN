@@ -1,0 +1,409 @@
+
+PT J
+AU Cristiano, E
+   ten Veldhuis, MC
+   Gaitan, S
+   Rodriguez, SO
+   van de Giesen, NV
+AF Cristiano, Elena
+   ten Veldhuis, Marie-Claire
+   Gaitan, Santiago
+   Rodriguez, Susana Ochoa
+   van de Giesen, Nick
+TI Critical scales to explain urban hydrological response: an application
+   in Cranbrook, London
+SO HYDROLOGY AND EARTH SYSTEM SCIENCES
+LA English
+DT Article
+ID RADAR RAINFALL DATA; TEMPORAL VARIABILITY; CATCHMENT RESPONSE;
+   SPATIAL-RESOLUTION; RUNOFF; TIME; IMPACT; SENSITIVITY; IMPERVIOUSNESS;
+   MOTION
+AB Rainfall variability in space and time, in relation to catchment characteristics and model complexity, plays an important role in explaining the sensitivity of hydrological response in urban areas. In this work we present a new approach to classify rainfall variability in space and time and we use this classification to investigate rainfall aggregation effects on urban hydrological response. Nine rainfall events, measured with a dual polarimetric X-Band radar instrument at the CAESAR site (Cabauw Experimental Site for Atmospheric Research, NL), were aggregated in time and space in order to obtain different resolution combinations. The aim of this work was to investigate the influence that rainfall and catchment scales have on hydrological response in urban areas. Three dimensionless scaling factors were introduced to investigate the interactions between rainfall and catchment scale and rainfall input resolution in relation to the performance of the model. Results showed that (1) rainfall classification based on cluster identification well represents the storm core, (2) aggregation effects are stronger for rainfall than flow, (3) model complexity does not have a strong influence compared to catchment and rainfall scales for this case study, and (4) scaling factors allow the adequate rainfall resolution to be selected to obtain a given level of accuracy in the calculation of hydrological response.
+C1 [Cristiano, Elena; ten Veldhuis, Marie-Claire; Gaitan, Santiago; van de Giesen, Nick] Delft Univ Technol, Dept Water Management, POB 5048, NL-2600 GA Delft, Netherlands.
+   [Gaitan, Santiago] IBM Corp, Innovat Engine BeNeLux, Environm Analyt, Amsterdam, Netherlands.
+   [Rodriguez, Susana Ochoa] RPS Water, Derby, England.
+RP Cristiano, E (reprint author), Delft Univ Technol, Dept Water Management, POB 5048, NL-2600 GA Delft, Netherlands.
+EM e.cristiano@tudelft.nl
+RI van de Giesen, Nick/B-5010-2008; ten Veldhuis, Johanna/D-1011-2015
+OI van de Giesen, Nick/0000-0002-7200-3353; ten Veldhuis,
+   Johanna/0000-0001-9572-2193; Ochoa-Rodriguez,
+   Susana/0000-0002-1790-0211; Cristiano, Elena/0000-0002-0725-3014
+FU EU INTERREG IVB RainGain Project
+FX The authors would like to thank Innovyze for providing a InfoWorks
+   licence. This study was funded by the EU INTERREG IVB RainGain Project.
+CR Berne A, 2004, J HYDROL, V299, P166, DOI 10.1016/j.jhydrol.2004.08.002
+   Berne A, 2013, ADV WATER RESOUR, V51, P357, DOI 10.1016/j.advwatres.2012.05.005
+   Bruni G, 2015, HYDROL EARTH SYST SC, V19, P691, DOI 10.5194/hess-19-691-2015
+   Cristiano E., 2017, RAINFALL CLUSTERING, DOI [10.5281/zenodo.1069327, DOI 10.5281/ZENODO.1069327]
+   Cristiano E, 2017, HYDROL EARTH SYST SC, V21, P3859, DOI 10.5194/hess-21-3859-2017
+   Deidda R, 2000, WATER RESOUR RES, V36, P1779, DOI 10.1029/2000WR900038
+   Einfalt T, 2004, J HYDROL, V299, P186, DOI 10.1016/j.jhydrol.2004.08.004
+   Emmanuel I, 2012, J HYDROL, V430, P162, DOI 10.1016/j.jhydrol.2012.02.013
+   FABRY F, 1994, J HYDROL, V161, P415, DOI 10.1016/0022-1694(94)90138-4
+   FAURES JM, 1995, J HYDROL, V173, P309, DOI 10.1016/0022-1694(95)02704-S
+   Fletcher TD, 2013, ADV WATER RESOUR, V51, P261, DOI 10.1016/j.advwatres.2012.09.001
+   Fonstad MA, 2013, EARTH SURF PROC LAND, V38, P421, DOI 10.1002/esp.3366
+   Gericke OJ, 2014, HYDROLOG SCI J, V59, P1935, DOI 10.1080/02626667.2013.866712
+   Gires A, 2012, J HYDROL, V442, P117, DOI 10.1016/j.jhydrol.2012.04.005
+   Gires A, 2011, HYDROLOG SCI J, V56, P380, DOI 10.1080/02626667.2011.564174
+   KNMI: Koninklijk Nederlands Meteorologisch Instituut, 2011, NEERSL
+   KOLMOGOROV AN, 1962, J FLUID MECH, V13, P82, DOI 10.1017/S0022112062000518
+   Kottek M, 2006, METEOROL Z, V15, P259, DOI 10.1127/0941-2948/2006/0130
+   Krajewski WF, 2002, ADV WATER RESOUR, V25, P1387, DOI 10.1016/S0309-1708(02)00062-3
+   Leijnse H, 2007, WATER RESOUR RES, V43, DOI 10.1029/2006WR005631
+   Lobligeois F, 2014, HYDROL EARTH SYST SC, V18, P575, DOI 10.5194/hess-18-575-2014
+   Marchi L, 2009, HYDROL PROCESS, V23, P2714, DOI 10.1002/hyp.7362
+   Marsan D, 1996, J GEOPHYS RES-ATMOS, V101, P26333, DOI 10.1029/96JD01840
+   Mayer H, 1999, COMPUT VIS IMAGE UND, V74, P138, DOI 10.1006/cviu.1999.0750
+   MCCUEN RH, 1984, J HYDRAUL ENG-ASCE, V110, P887, DOI 10.1061/(ASCE)0733-9429(1984)110:7(887)
+   Morin E, 2001, J HYDROL, V252, P85, DOI 10.1016/S0022-1694(01)00451-6
+   Musy A, 2010, HYDROLOGY SCI NATURE
+   Niemczynowicz J., 1999, Urban Water, V1, P1, DOI 10.1016/S1462-0758(99)00009-6
+   NIEMCZYNOWICZ J, 1988, J HYDROL, V104, P311, DOI 10.1016/0022-1694(88)90172-2
+   Ochoa-Rodriguez S, 2015, J HYDROL, V531, P389, DOI 10.1016/j.jhydrol.2015.05.035
+   OGDEN FL, 1995, WATER RESOUR RES, V31, P1543, DOI 10.1029/95WR00519
+   OGDEN FL, 1994, J HYDROL, V158, P1, DOI 10.1016/0022-1694(94)90043-4
+   Otto T, 2011, IEEE GEOSCI REMOTE S, V8, P988, DOI 10.1109/LGRS.2011.2145354
+   Pina R., 2016, WATER, V8, P2073
+   Pina R., 2014, 13 INT C URB DRAIN S
+   Rafieeinasab A, 2015, J HYDROL, V531, P370, DOI 10.1016/j.jhydrol.2015.08.045
+   RINEHART RE, 1978, NATURE, V273, P287, DOI 10.1038/273287a0
+   Salvadore E, 2015, J HYDROL, V529, P62, DOI 10.1016/j.jhydrol.2015.06.028
+   Schaake J., 1967, J HYDRAULICS DIVISIO, V93, P353
+   Schilling W, 1991, ATMOS RES, V27, P5, DOI 10.1016/0169-8095(91)90003-F
+   Simoes NE, 2015, WATER-SUI, V7, P3396, DOI 10.3390/w7073396
+   Singh VP, 1997, HYDROL PROCESS, V11, P1649, DOI 10.1002/(SICI)1099-1085(19971015)11:12<1649::AID-HYP495>3.0.CO;2-1
+   Smith AB, 2012, WATER RESOUR RES, V48, DOI 10.1029/2012WR011976
+   Smith JA, 2002, J HYDROMETEOROL, V3, P267, DOI 10.1175/1525-7541(2002)003<0267:TRHOEF>2.0.CO;2
+   Smith MB, 2004, J HYDROL, V298, P267, DOI 10.1016/j.jhydrol.2004.03.039
+   Syed KH, 2003, J HYDROL, V271, P1, DOI 10.1016/S0022-1694(02)00311-6
+   ten Veldhuis MC, 2017, HYDROL EARTH SYST SC, V21, P1991, DOI 10.5194/hess-21-1991-2017
+   Thorndahl S, 2017, HYDROL EARTH SYST SC, V21, P1359, DOI 10.5194/hess-21-1359-2017
+   Tokarczyk P, 2015, HYDROL EARTH SYST SC, V19, P4215, DOI 10.5194/hess-19-4215-2015
+   van de Beek CZ, 2010, HYDROL EARTH SYST SC, V14, P205, DOI 10.5194/hess-14-205-2010
+   Wang LP, 2015, J HYDROL, V531, P408, DOI 10.1016/j.jhydrol.2015.05.049
+   Yang L, 2016, WATER RESOUR RES, V52, P4571, DOI 10.1002/2015WR018326
+   Yao L, 2016, ECOL INDIC, V60, P893, DOI 10.1016/j.ecolind.2015.08.041
+   Zoppou C, 2001, ENVIRON MODELL SOFTW, V16, P195, DOI 10.1016/S1364-8152(00)00084-0
+NR 54
+TC 0
+Z9 0
+U1 2
+U2 5
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1027-5606
+EI 1607-7938
+J9 HYDROL EARTH SYST SC
+JI Hydrol. Earth Syst. Sci.
+PD APR 23
+PY 2018
+VL 22
+IS 4
+BP 2425
+EP 2447
+DI 10.5194/hess-22-2425-2018
+PG 23
+WC Geosciences, Multidisciplinary; Water Resources
+SC Geology; Water Resources
+GA GD7YH
+UT WOS:000430728800001
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Fernandez, JD
+   Giner, JPR
+AF Duran Fernandez, Jose
+   Romera Giner, Juan Pedro
+TI TOKYO, ANTI-DISASTER CITY
+SO EN BLANCO-REVISTA DE ARQUITECTURA
+LA English
+DT Article
+DE Endurance; Tokyo; Setagaya; Taishido; Machizukuri
+AB In Tokyo, the shadow of earthquakes and their devastating fires has hovered over the city since its founding, but it has become darker since the Great Kanto Earthquake in 1923 and longer since the American bombings during the Second World War. For this powerful reason, the creation of a safe city prevails as the vital key of the city's construction. In this article, the urban mechanisms, which impose a slow transformation process of the city, used to fight against the urban vulnerability are studied aiming to keep its almost ten million inhabitants out of harm's way. The methodology used consists of a scaling analysis of the city from top to bottom. From a wide view of the city of Tokyo, the study descends to Setagaya City and finally approaches Taishido District, last step of the urban project. This article is a summary of nine short texts and an epilogue which, along with their respective ten graphic documents, build the body of research. Thus, the readers are faced with a graphic essay made up of short chapters which will immerse them in the devastating events of the urban past of Tokyo and will shed light on a promising future.
+C1 [Duran Fernandez, Jose; Romera Giner, Juan Pedro] Univ Politecn Valencia, Valencia, Spain.
+RP Fernandez, JD (reprint author), Univ Politecn Valencia, Valencia, Spain.
+CR [Anonymous], 2013, 10 EARTHQ OCC JAP
+   Lerner Jaime, 2011, ACUPUNTURA URBANA
+   Sorensen A., 2002, MAKING URBAN JAPAN C
+   Tokyo Metropolitan Government, 1985, PLANN TOK 1985
+   Tokyo Metropolitan Government, 2011, TOK VIS 2020 DRIV CH
+NR 5
+TC 0
+Z9 0
+U1 2
+U2 2
+PU UNIV POLITECNICA VALENCIA, EDITORIAL UPV
+PI VALENCIA
+PA CAMINO VERA S-N, VALENCIA, 46022, SPAIN
+SN 1888-5616
+EI 2445-1215
+J9 BLANCO
+JI Blanco
+PY 2018
+VL 10
+IS 24
+BP 115
+EP 122
+DI 10.4995/eb.2018.8004
+PG 8
+WC Architecture
+SC Architecture
+GA GP5JY
+UT WOS:000440910900011
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Murphy, E
+   Hankerson, S
+AF Murphy, Eleanor
+   Hankerson, Sidney
+TI Beliefs about causes of major depression: Clinical and treatment
+   correlates among African Americans in an urban community
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE Blacks; causal attributions; cluster analysis; depression; illness
+   perceptions
+ID MENTAL-ILLNESS; BIOGENETIC EXPLANATIONS; SUPERNATURAL CAUSES;
+   NATIONAL-SURVEY; HEALTH; QUESTIONNAIRE; PERCEPTIONS; STIGMA; DISORDERS;
+   GOODNESS
+AB ObjectivesMajor depression is increasingly viewed in the United States public as a medical disorder with biological and psychosocial causes. Yet little is known about how causal attributions about depression vary among low-income racial minorities. This study examined beliefs about causes of depression and their demographic, clinical and treatment correlates in a lower income African American sample.
+   MethodVolunteers (N=110) aged 24-79 years, who participated in a family study of depression, completed a 45-item questionnaire on their beliefs about the causes of depression. We used multidimensional scaling (MDS) to cluster items into causal domains and multivariate regression analyses to test associations of causal domains with demographic and clinical characteristics and treatments received.
+   ResultsThree causal domains, conceptualized as Eastern culture/supernatural (ECS), Western culture/natural/psychosocial (WCN-P), and /neurobiological (WCN-N) attributions, were derived from MDS clusters. WCN-P was most commonly endorsed (50%-91%) and ECS least endorsed as causes of depression (10-44%). This pattern held across gender, age, educational levels, and diagnostic category. WCN-N items were moderately endorsed, with some distinction between genetic causes and other biological causes. WCN-N was positively associated with medication as opposed to other forms of treatment (B=1.17; p=.049).
+   ConclusionAmong low-income African Americans, beliefs about causes of depression are varied but broadly consistent explanatory models that include a combination of psychosocial causes with genetic/biological contributions. For certain individuals, supernatural and natural causal attributions may coexist without dissonance. Causal attributions may be associated with types of treatment accepted and have implications for treatment compliance and adherence.
+C1 [Murphy, Eleanor; Hankerson, Sidney] New York State Psychiat Inst & Hosp, 1051 Riverside Dr,Unit 24, New York, NY 10032 USA.
+RP Murphy, E (reprint author), New York State Psychiat Inst & Hosp, 1051 Riverside Dr,Unit 24, New York, NY 10032 USA.
+EM em713@cumc.columbia.edu
+FU National Institute of Minority Health and Health Disparities
+   [1K22MD006140]; National Institute of Mental Health [1K23MH102540]
+FX This study was made possible with funding support from the National
+   Institute of Minority Health and Health Disparities 1K22MD006140 (P.I.,
+   Murphy, E.) and the National Institute of Mental Health 1K23MH102540
+   (P.I., Hankerson, S). We have no conflicts of interest. We thank Ruth
+   Ottman for her valuable feedback and edits of the manuscript.
+CR Agency for Healthcare Research and Quality, 2012, 2012 NAT HLTH DISP R
+   Alvidrez J, 2008, J HEALTH CARE POOR U, V19, P874, DOI 10.1353/hpu.0.0058
+   American Psychiatric Association, 1994, DIAGN STAT MAN MENT
+   Angermeyer MC, 2011, BRIT J PSYCHIAT, V199, P367, DOI 10.1192/bjp.bp.110.085563
+   Bhui K, 2006, J CLIN PSYCHIAT, V67, P964, DOI 10.4088/JCP.v67n0614
+   Blumner KH, 2009, PSYCHIAT SERV, V60, P306, DOI 10.1176/appi.ps.60.3.306
+   Cooper LA, 2003, MED CARE, V41, P479, DOI 10.1097/00005650-200304000-00004
+   Corrigan P, 2004, AM PSYCHOL, V59, P614, DOI 10.1037/0003-066X.59.7.614
+   Dinos S., 2017, BJPSYCH ADV, V23, P106
+   Duca L., 2015, EMPIRE TAKES STEP RI
+   Economic Innovation Group, 2016, 2016 DISTR COMM IND, P2016
+   EISENBRUCH M, 1990, J NERV MENT DIS, V178, P712, DOI 10.1097/00005053-199011000-00007
+   Fortune G, 2004, BRIT J CLIN PSYCHOL, V43, P347, DOI 10.1348/0144665042388955
+   Gary Faye A, 2005, Issues Ment Health Nurs, V26, P979, DOI 10.1080/01612840500280638
+   Givens JL, 2007, GEN HOSP PSYCHIAT, V29, P182, DOI 10.1016/j.genhosppsych.2006.11.002
+   Hout MC, 2013, WIRES COGN SCI, V4, P93, DOI 10.1002/wcs.1203
+   Hudson CG, 2005, AM J ORTHOPSYCHIAT, V75, P3, DOI 10.1037/0002-9432.75.1.3
+   Jackson JS, 2004, INT J METH PSYCH RES, V13, P289, DOI 10.1002/mpr.182
+   Kishore Jugal, 2011, Indian J Psychiatry, V53, P324, DOI 10.4103/0019-5545.91906
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P1, DOI 10.1007/BF02289565
+   Kvaale EP, 2013, SOC SCI MED, V96, P95, DOI 10.1016/j.socscimed.2013.07.017
+   LANDRINE H, 1994, J BEHAV MED, V17, P181, DOI 10.1007/BF01858104
+   Lebowitz MS, 2014, CLIN PSYCHOL-SCI PR, V21, P67, DOI 10.1111/cpsp.12056
+   Lebowitz MS, 2013, J CONSULT CLIN PSYCH, V81, P518, DOI 10.1037/a0031730
+   Legare CH, 2012, CHILD DEV, V83, P779, DOI 10.1111/j.1467-8624.2012.01743.x
+   MACCALLUM R, 1981, APPL PSYCH MEAS, V5, P377, DOI 10.1177/014662168100500311
+   Metzl Jonathan, 2009, PROTEST PSYCHOSIS SC
+   Moss-Morris R, 2002, PSYCHOL HEALTH, V17, P1, DOI 10.1080/08870440290001494
+   Murdoch G. P., 1978, CULTURAL ILLNESS HLT, V9
+   MURDOCK GP, 1978, ETHNOLOGY, V17, P449, DOI 10.2307/3773194
+   Murphy E, 2009, PSYCHIATRY, V72, P177, DOI 10.1521/psyc.2009.72.2.177
+   NURNBERGER JI, 1994, ARCH GEN PSYCHIAT, V51, P849
+   Pescosolido BA, 2010, AM J PSYCHIAT, V167, P1321, DOI 10.1176/appi.ajp.2010.09121743
+   Petrie KJ, 2008, J MENT HEALTH, V17, P559, DOI 10.1080/09638230802523047
+   Phelan JC, 2006, PSYCHIAT SERV, V57, P382, DOI 10.1176/appi.ps.57.3.382
+   Razali SM, 1996, ACTA PSYCHIAT SCAND, V94, P229, DOI 10.1111/j.1600-0447.1996.tb09854.x
+   Schnittker J, 2003, J HEALTH SOC BEHAV, V44, P506, DOI 10.2307/1519796
+   Schnittker J, 2000, SOC FORCES, V78, P1101, DOI 10.2307/3005943
+   Stefanovics EA, 2016, J NERV MENT DIS, V204, P169, DOI 10.1097/NMD.0000000000000422
+   Thompson M., 2010, MAD BAD RACE CLASS G
+   United States Census Bureau, 2016, INC POV US 2015
+   White R. C., 2015, EMPIRE NEW MODEL BIP
+   Williams DR, 2007, ARCH GEN PSYCHIAT, V64, P305, DOI 10.1001/archpsyc.64.3.305
+   Witteman C, 2011, J MENT HEALTH, V20, P115, DOI 10.3109/09638237.2010.507685
+   YOUNG FW, 1978, BEHAV RES METH INSTR, V10, P451, DOI 10.3758/BF03205177
+NR 45
+TC 0
+Z9 0
+U1 3
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9762
+EI 1097-4679
+J9 J CLIN PSYCHOL
+JI J. Clin. Psychol.
+PD APR
+PY 2018
+VL 74
+IS 4
+BP 594
+EP 607
+DI 10.1002/jclp.22523
+PG 14
+WC Psychology, Clinical
+SC Psychology
+GA GA4VC
+UT WOS:000428330400007
+PM 29077209
+DA 2019-03-26
+ER
+
+PT S
+AU Rajan, S
+   Sathiyanarayanan, M
+   Prashant, S
+   Prashant, SB
+   Nataraj, PL
+AF Rajan, Sharanya
+   Sathiyanarayanan, Mithileysh
+   Prashant, Surekha
+   Prashant, S. B.
+   Nataraj, P. L.
+GP IEEE
+TI Prevention of Avoidable Blindness and Improving Eye Healthcare System in
+   India
+SO 2018 10TH INTERNATIONAL CONFERENCE ON COMMUNICATION SYSTEMS & NETWORKS
+   (COMSNETS)
+SE International Conference on Communication Systems and Networks
+LA English
+DT Proceedings Paper
+CT 10th International Conference on Communication Systems and Networks
+   (COMSNETS)
+CY JAN 03-07, 2018
+CL Bangalore, INDIA
+DE eyecare; eye diseases; technology; human factors; healthcare
+AB As per Indian Government's initiative (as on 2017), there will be a promising healthcare assistance to every citizen and reduction in the healthcare expenses with the help of state governments. In the recent announcement by our Honourable Prime Minister Narendra Modi, six major steps have been taken by the government to provide better healthcare system in India. One of the primary requirements is the "Door-to-Door Screening for Chronic Diseases" and more attention to be considered on the healthcare initiatives for the urban poor. From eye healthcare perspective, there is always a constant need to build strong eye healthcare models and systems in India as eye disorders causing impaired vision or blindness are emerging into an epidemic and have been listed as one of the major public health problems encountered worldwide. To develop a healthier India with best practices in the healthcare sector across the country and to enable their rapid scaling up for maximum benefit, Nayonika Eye Care Charitable Trust (NECT) has developed an eye healthcare model to serve the needy and take innovative healthcare measures to prevent "Avoidable Blindness" and make India "Avoidable Blind-free Nation" by implementing towards VISION 2020.
+C1 [Rajan, Sharanya; Sathiyanarayanan, Mithileysh; Prashant, Surekha; Prashant, S. B.; Nataraj, P. L.] Govt Karnataka, NECT India UK US & Canada, Hlth & Family Welf Serv, Bangalore, Karnataka, India.
+RP Rajan, S (reprint author), Govt Karnataka, NECT India UK US & Canada, Hlth & Family Welf Serv, Bangalore, Karnataka, India.
+EM Sharu.Rajan043@gmail.com; S.Mithileysh@gmail.com;
+   Nayonika_eyecare@yahoo.com; Dirhfw@gmail.com
+CR [Anonymous], 2016, VIS IMP BLINDN
+   Balarajan Y, 2011, LANCET, V377, P505, DOI 10.1016/S0140-6736(10)61894-6
+   Bhan N, 2016, INT J EQUITY HEALTH, V15, DOI 10.1186/s12939-016-0457-y
+   Gupta R. P., 2016, HLTH CARE REFORMS IN
+   Imtiaz SA, 2017, J MED SYST, V41, DOI 10.1007/s10916-017-0695-6
+   Lodhia V, 2016, JMIR MHEALTH UHEALTH, V4, P72, DOI 10.2196/mhealth.4746
+   Majumdar A, 2015, J CLIN DIAGN RES, V9, pLE6, DOI 10.7860/JCDR/2015/11555.5573
+   Pascolini D, 2012, BRIT J OPHTHALMOL, V96, P614, DOI 10.1136/bjophthalmol-2011-300539
+   Reddy KS, 2011, LANCET, V377, P760, DOI 10.1016/S0140-6736(10)61960-5
+   Sathiyanarayanan M., 2017, COMM SYST NETW COMSN
+   Sathiyanarayanan M., 2017, P INT C SMART TECHN
+   Sathiyanarayanan M., 2016, COMM SYST NETW COMSN, P1
+   Sathiyanarayanan M., 2016, P 4 INT C ADV COMP N
+   Singh R, 2016, ANN NEUROSCI, V23, P197, DOI 10.1159/000449479
+   Singh V, 2017, INDIAN J OPHTHALMOL, V65, P500, DOI 10.4103/ijo.IJO_676_15
+   Thylefors B, 1998, Community Eye Health, V11, P1
+   Vashist P, 2017, INDIAN J OPHTHALMOL, V65, P92, DOI 10.4103/ijo.IJO_869_16
+   World Health Organization (WHO), 2013, UN EYE HLTH GLOB ACT
+   Zvornicanin Edita, 2014, Acta Inform Med, V22, P206, DOI 10.5455/aim.2014.22.206-209
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2155-2487
+BN 978-1-5386-1182-1
+J9 INT CONF COMMUN SYST
+PY 2018
+BP 665
+EP 670
+PG 6
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BL2GB
+UT WOS:000448917000117
+DA 2019-03-26
+ER
+
+PT S
+AU Sohn, J
+   Vega, GC
+   Birkved, M
+AF Sohn, Joshua
+   Vega, Giovanna Croxatto
+   Birkved, Morten
+BE Laurent, A
+   Leclerc, A
+   Niero, M
+   Dong, Y
+   Olsen, SI
+   Owsianiak, M
+   Bey, N
+   Ryberg, M
+   Hauschild, MZ
+TI A Methodology Concept for Territorial Metabolism - Life Cycle
+   Assessment: Challenges and Opportunities in Scaling from Urban to
+   Territorial Assessment
+SO 25TH CIRP LIFE CYCLE ENGINEERING (LCE) CONFERENCE
+SE Procedia CIRP
+LA English
+DT Proceedings Paper
+CT 25th CIRP Life Cycle Engineering (LCE) Conference
+CY APR 30-MAY 02, 2018
+CL Copenhagen, DENMARK
+SP CIRP, Tech Univ Denmark, Management Engn Dept, Quantitat Sustainabil Assessment Div
+DE Urban Metabolism; Environmental Assessment; Regional Scale; Territorial
+   Metabolism
+ID DYNAMIC ASSESSMENT; INSULATION; LEVEL
+AB To allow for the assessment of regional-scale geographically non-contiguous production system derived environmental impacts, a combined method of Territorial Metabolism Life Cycle Assessment (TM-LCA) is proposed. by creating a two-pronged framework for the development of background system modelling, the TM-LCA method allows for process-based environmental impact modeling at a regional scale utilizing the concept of a production territory for the assessment of changes to durable production systems, such as energy infrastructure and agricultural systems. The TM-LCA framework creates the opportunity for direct assessment of environmental impacts, incorporation of system dynamics, and the use of multi-criteria decision analysis, which might be difficult or impossible to implement in other regional scale environmental impact assessment frameworks. (C) 2018 The Authors. Published by Elsevier B.V.
+C1 [Sohn, Joshua; Vega, Giovanna Croxatto; Birkved, Morten] Tech Univ Denmark, Management Engn Div Quantitat Sustainabil Assessm, Lyngby, Denmark.
+RP Sohn, J (reprint author), Tech Univ Denmark, Management Engn Div Quantitat Sustainabil Assessm, Lyngby, Denmark.
+EM JSoh@dtu.dk
+RI Birkved, Morten/O-8585-2018
+OI Birkved, Morten/0000-0001-6989-1647
+FU European Union's Horizon 2020 research and innovation program [688338]
+FX This project has received funding from the European Union's Horizon 2020
+   research and innovation program under grant agreement No 688338
+CR [Anonymous], 2006, 140402006 ISO
+   [Anonymous], 2003, INT J LIFE CYCLE ASS
+   [Anonymous], 2006, 140402006 ISO
+   [Anonymous], 2016, J CLEAN PROD
+   Goldstein B, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035024
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kitzes J, 2013, RESOURCES-BASEL, V2, P489, DOI 10.3390/resources2040489
+   Laurent A, 2012, ENVIRON SCI TECHNOL, V46, P4100, DOI 10.1021/es204163f
+   Mazzi A, 2017, ENVIRON IMPACT ASSES, V63, P59, DOI 10.1016/j.eiar.2016.11.004
+   Nitschelm L, 2016, J CLEAN PROD, V112, P2472, DOI 10.1016/j.jclepro.2015.09.138
+   Sohn JL, 2017, J CLEAN PROD, V162, P449, DOI 10.1016/j.jclepro.2017.06.058
+   Sohn JL, 2017, J CLEAN PROD, V142, P3243, DOI 10.1016/j.jclepro.2016.10.145
+   Wernet G, 2016, INT J LIFE CYCLE ASS, V21, P1218, DOI 10.1007/s11367-016-1087-8
+NR 13
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2212-8271
+J9 PROC CIRP
+PY 2018
+VL 69
+BP 89
+EP 93
+DI 10.1016/j.procir.2017.10.005
+PG 5
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Engineering, Industrial
+SC Science & Technology - Other Topics; Engineering
+GA BK3KI
+UT WOS:000435141900016
+OA Other Gold, Green Published
+DA 2019-03-26
+ER

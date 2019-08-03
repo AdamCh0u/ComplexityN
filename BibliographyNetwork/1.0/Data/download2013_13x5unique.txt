@@ -1,0 +1,447 @@
+
+PT J
+AU Jones, B
+   Das, P
+   Chalabi, Z
+   Davies, M
+   Hamilton, I
+   Lowe, R
+   Milner, J
+   Ridley, I
+   Shrubsole, C
+   Wilkinson, P
+AF Jones, Benjamin
+   Das, Payel
+   Chalabi, Zaid
+   Davies, Michael
+   Hamilton, Ian
+   Lowe, Robert
+   Milner, James
+   Ridley, Ian
+   Shrubsole, Clive
+   Wilkinson, Paul
+TI The Effect of Party Wall Permeability on Estimations of Infiltration
+   from Air Leakage
+SO INTERNATIONAL JOURNAL OF VENTILATION
+LA English
+DT Article
+DE infiltration; air leakage; permeability; energy; dwelling; apartment;
+   house; multifamily; modelling; CONTAM; AIDA; standard assessment
+   procedure
+ID EXPOSURE; LONDON
+AB The importance of reducing adventitious infiltration in order to save energy is highlighted by the relevant building standards of many countries. This operational infiltration is often inferred via the measurement of the air leakage rate at a pressure differential of 50 Pascals. Some building codes, such as the UK's Standard Assessment Procedure, assume a simple relationship between the air leakage rate and mean infiltration rate during the heating season, the so-called leakage-infiltration ratio, which is scaled to account for the physical and environmental properties of a dwelling. The scaling does not take account of the permeability of party walls in conjoined dwellings and so cannot be used to differentiate between the infiltration of unconditioned ambient air that requires heating, and conditioned air from an adjacent dwelling that does not. This article evaluates the leakage infiltration ratio afresh using a theoretical model of adventitious infiltration for a conjoined dwelling. The model is used to predict the mean infiltration rate during the heating season for an apartment and a terraced house located in 14 different UK cities for two extreme assumptions of party wall permeability. The first assumption is that party walls are permeable - this results in a predicted leakage-infiltration ratio that is significantly greater than that used by building codes to evaluate the energy and environmental performance of dwellings. The second assumption is that party walls are impermeable - this results in a predicted leakage-infiltration ratio close to that used by building codes. Knowledge of party wall permeability is not provided by a standard measurement of air leakage but is shown to be vital for making informed decisions on the implementation of energy efficiency measures. These findings have significant energy and health implications and should be of great interest to the policy makers of any country with a large number of conjoined dwellings.
+C1 [Jones, Benjamin; Das, Payel; Chalabi, Zaid; Davies, Michael; Hamilton, Ian; Shrubsole, Clive] UCL, Bartlett Sch Grad Studies, London WC1H 0NN, England.
+   [Chalabi, Zaid; Milner, James; Wilkinson, Paul] London Sch Hyg & Trop Med, London WC1H 9SH, England.
+   [Lowe, Robert] UCL, UCL Energy Inst, London WC1H 0NN, England.
+   [Ridley, Ian] RMIT Univ, Sch Property Construct & Project Management, Melbourne, Vic 3001, Australia.
+RP Jones, B (reprint author), UCL, Bartlett Sch Grad Studies, Cent House,14 Upper Woburn Pl, London WC1H 0NN, England.
+RI Shrubsole, Clive/L-7783-2018
+OI Shrubsole, Clive/0000-0003-1212-3668; RIDLEY, Ian
+   Alexander/0000-0001-9240-5088; Hamilton, Ian/0000-0003-2582-2361; Jones,
+   Benjamin/0000-0002-5606-9379; Das, Payel/0000-0002-3239-4222; Milner,
+   James/0000-0003-0304-639X
+FU European Commission [265325]
+FX The authors are grateful to the European Commission for its funding of
+   the PURGE project by its 7th Framework Programme under grant agreement
+   number 265325. They are also grateful to Elina Manelius of Tampere
+   University of Technology, Finland, for her guidance on Finnish building
+   regulations.
+CR Bohac D. L., 2007, P 10 INT C THERM PER
+   BSI, 1991, BS5925 BSI
+   BSI, 2000, EN13829 BSI
+   CIBSE, 2000, TM23 2000 TEST BUILD
+   CIBSE, 2006, GUID ENV DES
+   CIBSE, 2002, GUID J WEATH SOL ILL
+   Department for Communities and Local Government (DCLG), 2010, ENGL HOUS SURV HEADL
+   Dimitroulopoulou C, 2012, BUILD ENVIRON, V47, P109, DOI 10.1016/j.buildenv.2011.07.016
+   Etheridge David, 2012, NATURAL VENTILATION
+   Fernandez-Aguera J, 2011, PROCEDIA ENGINEER, V21, P98, DOI 10.1016/j.proeng.2011.11.1992
+   FEUSTEL HE, 1990, ENERG BUILDINGS, V14, P103, DOI 10.1016/0378-7788(90)90030-M
+   Hamilton IG, 2011, BUILD SERV ENG RES T, V32, P85, DOI 10.1177/0143624410394532
+   Lowe RJ, 2000, BUILD SERV ENG RES T, V21, P179
+   Lyberg MD, 1997, BUILD ENVIRON, V32, P95, DOI 10.1016/S0360-1323(96)00048-0
+   MathWorks, 2011, MATLAB VERS 7 12 0 6
+   MoEoF, 2012, NAT BUILD COD FI D5
+   Oikonomou E, 2012, BUILD ENVIRON, V57, P223, DOI 10.1016/j.buildenv.2012.04.002
+   Orme M., 2002, VENTILATION MODELLIN
+   Pacheco-Torgal F, 2012, BUILD ENVIRON, V58, P270, DOI 10.1016/j.buildenv.2012.08.004
+   Persily A, 2010, INDOOR AIR, V20, P473, DOI 10.1111/j.1600-0668.2010.00669.x
+   SHERMAN MH, 1987, ENERG BUILDINGS, V10, P81, DOI 10.1016/0378-7788(87)90008-9
+   Shrubsole C, 2012, ATMOS ENVIRON, V62, P336, DOI 10.1016/j.atmosenv.2012.08.047
+   Stephen R.K., 1998, AIRTIGHTNESS UK DWEL
+   Swami M.V., 1987, PROCEDURES CALCULATI
+   Walton G.N., 2005, 7251 NISTIR
+   Younes C, 2012, J BUILD PHYS, V35, P267, DOI 10.1177/1744259111423085
+   Yun JC, 2012, 33 AIVC C 2 TIGHTVEN
+NR 27
+TC 13
+Z9 13
+U1 0
+U2 8
+PU VEETECH LTD
+PI CONVENTRY
+PA 7A BARCLAYS VENTURE CENTRE, UNIV WARWICK SCI PARK, SIR WILLIAM LYONS RD,
+   CONVENTRY, CV4 7EZ, ENGLAND
+SN 1473-3315
+J9 INT J VENT
+JI Int. J. Vent.
+PD JUN
+PY 2013
+VL 12
+IS 1
+BP 17
+EP 29
+PG 13
+WC Construction & Building Technology; Energy & Fuels
+SC Construction & Building Technology; Energy & Fuels
+GA 288IM
+UT WOS:000329605200002
+DA 2019-03-26
+ER
+
+PT J
+AU Huq, P
+   Franzese, P
+AF Huq, Pablo
+   Franzese, Pasquale
+TI Measurements of Turbulence and Dispersion in Three Idealized Urban
+   Canopies with Different Aspect Ratios and Comparisons with a Gaussian
+   Plume Model
+SO BOUNDARY-LAYER METEOROLOGY
+LA English
+DT Article
+DE Dispersion length scales; Gaussian plume model; Obstacle arrays; Urban
+   canopy; Urban dispersion experiments; Water tunnel
+ID ATMOSPHERIC BOUNDARY-LAYER; WIND-TUNNEL; LARGE ARRAY; MEAN FLOW;
+   ROUGHNESS; OBSTACLES; AREAS; WATER; SIMULATIONS; METEOROLOGY
+AB Water-tunnel measurements of velocity, turbulence and scalar concentration for three model urban canopies with aspect ratios A (r) of building height-to-width of 0.25, 1 and 3 are presented. The measurements for the canopies with A (r) = 1 and 3 are new, while the measurements for A (r) = 0.25 were previously published. A passive scalar was continuously released from a near-ground point source, and the concentration was measured at several distances from the source and at different heights above the ground. Plume spreads, concentration and distance from the source were non-dimensionalized using length, time and velocity scales reflecting the geometry of the buildings. The scaling collapses the data for all aspect ratios and is valid when the vertical extent of the plume is smaller than the canopy height. The observed plume spreads are compared with analytical relations, which predict linear growth in both transverse and vertical directions. The observed mean concentration is compared with a Gaussian dispersion model that predicts a -2 power-law decay with distance from the source.
+C1 [Huq, Pablo] Univ Delaware, Coll Earth Ocean & Environm, Newark, DE 19716 USA.
+   [Franzese, Pasquale] Ecol & Environm Inc, Lancaster, NY 14086 USA.
+RP Franzese, P (reprint author), Ecol & Environm Inc, Lancaster, NY 14086 USA.
+EM huq@udel.edu; pfranzese@ene.com
+FU National Science Foundation [AGS 0849190, 0849191]
+FX This work was initiated while P.F. was affiliated with George Mason
+   University. This material is partly based upon work supported by the
+   National Science Foundation under Grants AGS 0849190 and 0849191.
+CR Biltoft C.A., 2001, WDTCFR01121 US ARM D
+   CASTRO IP, 1977, J FLUID MECH, V79, P307, DOI 10.1017/S0022112077000172
+   Castro IP, 2006, BOUND-LAY METEOROL, V118, P109, DOI 10.1007/s10546-005-5747-7
+   CHEAH SC, 1983, ATMOS ENVIRON, V17, P1439, DOI 10.1016/0004-6981(83)90297-4
+   Cheng H, 2002, BOUND-LAY METEOROL, V104, P229, DOI 10.1023/A:1016060103448
+   Chin HNS, 2005, MON WEATHER REV, V133, P2043, DOI 10.1175/MWR2962.1
+   Coceal O, 2006, BOUND-LAY METEOROL, V121, P491, DOI 10.1007/s10546-006-9076-2
+   Collier CG, 2006, Q J ROY METEOR SOC, V132, P1, DOI 10.1256/qj.05.199
+   COUNIHAN J, 1969, ATMOS ENVIRON, V3, P197, DOI 10.1016/0004-6981(69)90008-0
+   Delle Monache L, 2009, ATMOS ENVIRON, V43, P5807, DOI 10.1016/j.atmosenv.2009.07.051
+   Dobre A, 2005, ATMOS ENVIRON, V39, P4647, DOI 10.1016/j.atmosenv.2005.04.015
+   Franzese P, 2011, BOUND-LAY METEOROL, V139, P395, DOI 10.1007/s10546-011-9593-5
+   Gailis RM, 2006, BOUND-LAY METEOROL, V119, P289, DOI [10.1007/s10546-005-9029-1, 10.1007/s10546-005-9029-I]
+   Golden J, 1961, THESIS NEW YORK U NE
+   Grimmond CSB, 1999, J APPL METEOROL, V38, P1262, DOI 10.1175/1520-0450(1999)038<1262:APOUAD>2.0.CO;2
+   Grimmond CSB, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004936
+   HALL DJ, 1998, 24498 CR BUILD RES E
+   Hanna SR, 2003, ATMOS ENVIRON, V37, P5069, DOI 10.1016/j.atmosenv.2003.08.014
+   Hanna S, 2007, BOUND-LAY METEOROL, V125, P441, DOI [10.1007/s10546-007-9197-2, 10.1007/S10546-007-9197-2]
+   HUNT JCR, 1979, Q J ROY METEOR SOC, V105, P423, DOI 10.1002/qj.49710544407
+   Huq P, 1997, ATMOS ENVIRON, V31, P2011, DOI 10.1016/S1352-2310(97)00281-1
+   Huq P, 2007, J APPL METEOROL CLIM, V46, P368, DOI 10.1175/JAM2469.1
+   Kastner-Klein P, 2004, BOUND-LAY METEOROL, V111, P55, DOI 10.1023/B:BOUN.0000010994.32240.b1
+   Luhar AK, 2006, ATMOS ENVIRON, V40, P6541, DOI 10.1016/j.atmosenv.2006.05.067
+   Macdonald R.W., 2002, FLOW DISPERSION DATA
+   MacDonald RW, 1998, ATMOS ENVIRON, V32, P1857, DOI 10.1016/S1352-2310(97)00403-2
+   Macdonald RW, 2000, BOUND-LAY METEOROL, V97, P25, DOI 10.1023/A:1002785830512
+   Macdonald RW, 2000, 20001 U WAT DEP MECH
+   Mestayer PG, 2005, BOUND-LAY METEOROL, V114, P315, DOI 10.1007/s10546-004-9241-4
+   Milliez M, 2007, BOUND-LAY METEOROL, V122, P321, DOI 10.1007/s10546-006-9110-4
+   Molina MJ, 2004, J AIR WASTE MANAGE, V54, P644, DOI 10.1080/10473289.2004.10470936
+   OKE TR, 1987, BOUNDARY LAYER CLIMA
+   Rajaratnam  N., 1976, TURBULENT JETS
+   ROTACH MW, 1995, ATMOS ENVIRON, V29, P1473, DOI 10.1016/1352-2310(95)00084-C
+   Rotach MW, 2005, THEOR APPL CLIMATOL, V81, P231, DOI 10.1007/s00704-004-0117-9
+   Roth M, 2000, Q J ROY METEOR SOC, V126, P941, DOI 10.1256/smsqj.56408
+   Schlichting H, 1968, BOUNDARY LAYER THEOR
+   Snyder W. H., 1981, EPA600881009
+   Snyder WH, 2002, J WIND ENG IND AEROD, V90, P41, DOI 10.1016/S0167-6105(01)00114-3
+   Taylor G. I, 1921, P LOND MATH SOC, V151, P196, DOI [DOI 10.1112/PLMS/S2-20.1.196, 10.1112/plms/s2-20.1.196]
+   Yee E, 2006, BOUND-LAY METEOROL, V121, P389, DOI 10.1007/s10546-006-9084-2
+NR 41
+TC 16
+Z9 17
+U1 1
+U2 39
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-8314
+J9 BOUND-LAY METEOROL
+JI Bound.-Layer Meteor.
+PD APR
+PY 2013
+VL 147
+IS 1
+BP 103
+EP 121
+DI 10.1007/s10546-012-9780-z
+PG 19
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 098RX
+UT WOS:000315567500006
+DA 2019-03-26
+ER
+
+PT S
+AU Swarup, S
+   Lum, K
+   Barrett, CL
+   Bisset, K
+   Eubank, SG
+   Marathe, MV
+   Stretz, P
+AF Swarup, Samarth
+   Lum, Kristian
+   Barrett, Christopher L.
+   Bisset, Keith
+   Eubank, Stephen G.
+   Marathe, Madhav V.
+   Stretz, Paula
+BE Chen, J
+   Cuzzocrea, A
+   Yang, LT
+TI A Synthetic Information Approach to Urban-scale Disaster Modeling
+SO 2013 IEEE 16TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE AND
+   ENGINEERING (CSE 2013)
+SE IEEE International Conference on Computational Science and Engineering
+LA English
+DT Proceedings Paper
+CT IEEE 16th International Conference on Computational Science and
+   Engineering (CSE)
+CY DEC 03-05, 2013
+CL Sydney, AUSTRALIA
+SP IEEE, Univ Technol Sydney, CSIRO, IEEE Tech Comm Scalable Comp, IEEE Comp Soc
+AB We describe a large-scale simulation of a hypothetical nuclear detonation in an urban region. Simulating such a complex scenario requires modeling the population and its interactions with interdependent infrastructures such as transportation, communications, and healthcare. Our work represents the first model of a behaving human population, resolved to the individual level, where agents make decisions based on their health state, environmental conditions, and (informational) awareness. This "big simulation" approach requires a large amount of carefully curated data at the input, which is combined into a "synthetic information" model. The simulation is database-driven in a novel architecture that enables scaling, and it produces large amounts of data that in turn require advanced analytics in order to extract policy-relevant conclusions. We present results from a spatio-temporal analysis that draw out the connections between spatial variations in population behaviors and health outcomes.
+C1 [Swarup, Samarth; Lum, Kristian; Barrett, Christopher L.; Bisset, Keith; Eubank, Stephen G.; Marathe, Madhav V.; Stretz, Paula] Virginia Tech, Virginia Bioinformat Inst, Network Dynam & Simulat Sci Lab, Blacksburg, VA 24061 USA.
+RP Swarup, S (reprint author), Virginia Tech, Virginia Bioinformat Inst, Network Dynam & Simulat Sci Lab, Blacksburg, VA 24061 USA.
+EM swarup@vbi.vt.edu; klum@vbi.vt.edu; cbarrett@vbi.vt.edu;
+   kbisset@vbi.vt.edu; seubank@vbi.vt.edu; mmarathe@vbi.vt.edu;
+   pstretz@vbi.vt.edu
+RI Eubank, Stephen/D-7497-2011
+OI Eubank, Stephen/0000-0002-7177-309X
+CR Adiga A., 2013, WORKSH MULT INT NETW
+   [Anonymous], 2007, CORR
+   [Anonymous], 2013, INT C SOC COMP BEH C
+   Barrett C, 2001, LAUR001725
+   Barrett C., 2013, P 2013 WINT SIM C
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Beckman RJ, 1996, TRANSPORT RES A-POL, V30, P415, DOI 10.1016/0965-8564(96)00004-3
+   Bos, 2010, NATL SECURITY STAFF
+   Buddemeier B. R., 2011, LLNLTR512111
+   Collier N., 2011, RISK ANAL, P81
+   Gray J., 1993, T PROCESSING
+   Guterbock TM, 2010, POPULATION BEHAV DIR
+   Haas PJ, 2011, PROC VLDB ENDOW, V4, P1486
+   Heber G., 2007, CORR
+   KOENKER R, 1978, ECONOMETRICA, V46, P33, DOI 10.2307/1913643
+   Koenker R., 2009, QUANTREG QUANTILE RE
+   Lasker R., 2004, REDEFINING READINESS
+   Lasker R.D., 2007, PUBLICS KNOWLEDGE WE
+   Lewis B, 2013, J PUBLIC HEALTH MAN, V19, pS42, DOI 10.1097/PHH.0b013e31829398eb
+   Lum K, 2012, BAYESIAN ANAL, V7, P235, DOI 10.1214/12-BA708
+   North MJ, 2013, COMPLEX ADAPT SYST M, V1, DOI 10.1186/2194-3206-1-3
+   Parikh N., 2012, AAAI FALL S SOC NETW
+   Parikh N., 2013, P INT C AUT AG MULT
+   R Core Team, 2013, R LANG ENV STAT COMP
+   Robinson A., 2010, ORMS TODAY, V37
+   Sutton RS, 1999, ARTIF INTELL, V112, P181, DOI 10.1016/S0004-3702(99)00052-1
+   Wein LM, 2010, RISK ANAL, V30, P1315, DOI 10.1111/j.1539-6924.2010.01430.x
+   White W., 2007, P ACM SIGMOD INT C M
+NR 28
+TC 1
+Z9 1
+U1 0
+U2 7
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1949-0828
+J9 IEEE INT C COMPUT
+PY 2013
+BP 1105
+EP 1112
+DI 10.1109/CSE.2013.161
+PG 8
+WC Computer Science, Theory & Methods
+SC Computer Science
+GA BC3TK
+UT WOS:000351950300154
+DA 2019-03-26
+ER
+
+PT S
+AU Chen, F
+   Xing, JH
+   Cao, ZW
+AF Chen, Feng
+   Xing, Jihong
+   Cao, Zhangwei
+BE Tang, X
+   Zhong, W
+   Zhuang, D
+   Li, C
+   Liu, Y
+TI The Research Of Architectural Reclaimed Water Technique
+SO PROGRESS IN ENVIRONMENTAL PROTECTION AND PROCESSING OF RESOURCE, PTS 1-4
+SE Applied Mechanics and Materials
+LA English
+DT Proceedings Paper
+CT International Conference on Sustainable Energy and Environmental
+   Engineering (ICSEEE 2012)
+CY DEC 29-30, 2012
+CL Guangzhou, PEOPLES R CHINA
+SP Guangdong Univ Business Studies
+DE MBR; Reclaimed Water; Architectural
+AB Water resources is the important strategic resources, and how to realize the sustainable is the world's theme, is the foundation of human survival. The purpose of this study is: useing building wastewater as the research object, using MBR (membrane bioreactor) technology as the sewage processing.Through the analysis on the actual case,put forward the reclaimed water process and operation cost accounting.It appears that the costs of water reuse is 0.83 yuan per ton, is in a very low level. The technology is in the actual water reuse processing, and have the reality significance.
+   The concept of zhongshui comes from the name of Japan's "Zhong Shui Dao" in the 1960s, a waterway system in which the water quality between water supply and drainage. Building reclaimed water takes a large proportion in the urban grey water recycling and it has played an important role in easing the water shortage problem. However, there still exists many problems in the water reuse technology, thus affect its wider applications. Mainly includes: water quality appears odor, scaling, supply instability, affecting the majority of users about the concerns of its safety; the processing costs are relatively high and differs slightly with the water price. How to build a stable, safe, effective, low-cost construction process water reuse system is the most urgent problem. Based on the construction waste research, we can use the MBRtechnology for sewage treatment and achieve reclaimed water reuse in the buildings.
+EM chf_chenfeng@126.com; lj2088755@163.com; token@126.com
+CR Fu W X, 2004, BUILDING WATER SAVIN
+   Hao X D, 2006, SUSTAINABLE SEWAGE W
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 12
+PU TRANS TECH PUBLICATIONS LTD
+PI STAFA-ZURICH
+PA LAUBLSRUTISTR 24, CH-8717 STAFA-ZURICH, SWITZERLAND
+SN 1660-9336
+BN 978-3-03785-649-9
+J9 APPL MECH MATER
+PY 2013
+VL 295-298
+BP 1885
+EP 1888
+DI 10.4028/www.scientific.net/AMM.295-298.1885
+PG 4
+WC Engineering, Environmental; Engineering, Petroleum; Environmental
+   Sciences; Mining & Mineral Processing
+SC Engineering; Environmental Sciences & Ecology; Mining & Mineral
+   Processing
+GA BFO98
+UT WOS:000320828201040
+DA 2019-03-26
+ER
+
+PT J
+AU Lobo, J
+   Strumsky, D
+   Rothwell, J
+AF Lobo, J.
+   Strumsky, D.
+   Rothwell, J.
+TI Scaling of patenting with urban population size: evidence from global
+   metropolitan areas
+SO SCIENTOMETRICS
+LA English
+DT Article
+DE Urban scaling; Patenting; Global metropolitan areas; Superlinearity
+ID TECHNOLOGICAL-CHANGE; CITY SIZE; INNOVATION; CITIES; GROWTH;
+   PRODUCTIVITY; DENSITY; AGGLOMERATION; LOCALIZATION; INDICATORS
+AB Larger agglomerations of individuals create a social environment can sustain a larger repertoire of intellectual capabilities, thereby facilitating the creation and recombination of ideas, and increasing the likelihood that interactions among individuals will occur through which new ideas are generated and shared. Relatedly, cities have long been the privileged setting for invention and innovation. These two phenomena are brought together in the superlinear scaling relationship whereby urban inventive output (measured through patenting) increases more than proportionally with increasing population size. We revisit the relationship between urban population size and patenting using data for a global set of metropolitan areas in the OECD and show, for the first time, that the superlinear scaling between patenting and population size observed for US metropolitan areas holds for urban areas across a variety of urban and economic systems. In fact the scaling relationships established for the US metropolitan system and for the global metropolitan system are remarkably similar.
+C1 [Lobo, J.] Arizona State Univ, Tempe, AZ 85287 USA.
+   [Strumsky, D.] Univ N Carolina, Charlotte, NC 28223 USA.
+   [Rothwell, J.] Brookings Inst, Washington, DC 20036 USA.
+RP Lobo, J (reprint author), Arizona State Univ, Tempe, AZ 85287 USA.
+EM jose.lobo@asu.edu; dstrumsky@uncc.edu; jrothwell@brookings.edu
+CR Acs ZJ, 2002, RES POLICY, V31, P1069, DOI 10.1016/S0048-7333(01)00184-6
+   Algaze Guillermo, 2008, ANCIENT MESOPOTAMIA
+   Arbesman S, 2011, PHYSICA A, V390, P2155, DOI 10.1016/j.physa.2011.02.013
+   ARROW KJ, 1962, REV ECON STUD, V29, P155, DOI 10.2307/2295952
+   Bairoch P., 1988, CITIES EC DEV DAWN H
+   Barenblatt G. I, 2003, SCALING
+   Bettencourt L. M. A., 2012, 1209014 SANTA FE I S
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Boserup Ester, 1981, POPULATION TECHNOLOG
+   Boyd R, 2011, P NATL ACAD SCI USA, V108, P10918, DOI 10.1073/pnas.1100290108
+   Brock W., 1999, IND CORP CHANGE, V8, P409, DOI DOI 10.1093/ICC/8.3.409
+   Carlin GA, 1979, J REGIONAL SCI, V19, P343
+   Carlino GA, 2007, J URBAN ECON, V61, P389, DOI 10.1016/j.jue.2006.08.003
+   Carneiro RL, 2000, P NATL ACAD SCI USA, V97, P12926, DOI 10.1073/pnas.240462397
+   CARNEIRO RL, 1962, SOUTHWEST J ANTHROP, V18, P149, DOI 10.1086/soutjanth.18.2.3629014
+   Chave E., 2003, ENVIRON RESOUR ECON, V26, P527
+   Criscuolo P, 2006, SCIENTOMETRICS, V66, P23, DOI 10.1007/s11192-006-0003-6
+   Diamond J., 1997, GUNS GERMS STEEL
+   DIAMOND JM, 1978, NATURE, V273, P185, DOI 10.1038/273185a0
+   DUMOND DE, 1965, SOUTHWEST J ANTHROP, V21, P302, DOI 10.1086/soutjanth.21.4.3629434
+   Duranton G., 2010, EC CLUSTERS EVIDENCE
+   Duranton G, 2011, J URBAN ECON, V69, P56, DOI 10.1016/j.jue.2010.08.004
+   EMBER M, 1963, ETHNOLOGY, V2, P228, DOI 10.2307/3772821
+   Forman C, 2008, J ECON MANAGE STRAT, V17, P295, DOI 10.1111/j.1530-9134.2008.00179.x
+   Gabaix X, 2009, ANNU REV ECON, V1, P255, DOI 10.1146/annurev.economics.050708.142940
+   Glaeser E, 2011, TRIUMPH CITY
+   GRILICHES Z, 1990, J ECON LIT, V28, P1661
+   Hall P. G., 1998, CITIES CIVILIZATION
+   Hasan I, 2010, RES POLICY, V39, P1264, DOI 10.1016/j.respol.2010.07.005
+   Jacobs J., 1984, CITIES WEALTH NATION
+   Jaffe A. B., 2002, PATENTS CITATIONS IN
+   JAFFE AB, 1993, Q J ECON, V108, P577, DOI 10.2307/2118401
+   Jones CI, 2010, AM ECON J-MACROECON, V2, P224, DOI 10.1257/mac.2.1.224
+   Katz JS, 2006, RES POLICY, V35, P893, DOI 10.1016/j.respol.2006.03.007
+   Klasen S, 2006, J POPUL ECON, V19, P611, DOI 10.1007/s00148-005-0031-1
+   Kline MA, 2010, P ROY SOC B-BIOL SCI, V277, P2559, DOI 10.1098/rspb.2010.0452
+   Knudsen B, 2008, ANN ASSOC AM GEOGR, V98, P461, DOI 10.1080/00045600701851150
+   KREMER M, 1993, Q J ECON, V108, P681, DOI 10.2307/2118405
+   Lee R D, 1988, Math Popul Stud, V1, P265
+   LEE RD, 1987, DEMOGRAPHY, V24, P443, DOI 10.2307/2061385
+   Lobo J, 2008, J URBAN ECON, V63, P871, DOI 10.1016/j.jue.2007.07.005
+   Maraut S., 2008, OECD REGPAT DATABASE
+   Marx M, 2009, MANAGE SCI, V55, P875, DOI 10.1287/mnsc.1080.0985
+   Mokyr J, 1990, LEVEL RICHES TECHNOL
+   MOOMAW RL, 1981, Q J ECON, V96, P675, DOI 10.2307/1880747
+   Mumford Louis, 1968, CITY HIST ITS ORIGIN
+   NARIN F, 1994, SCIENTOMETRICS, V30, P147, DOI 10.1007/BF02017219
+   NAROLL R, 1956, AM ANTHROPOL, V58, P687, DOI 10.1525/aa.1956.58.4.02a00080
+   OECD, 2011, PAT REG, DOI [DOI 10.1787/DATA-00509-EN, 10.1787/data-00509-en]
+   Price D. J. S., 1969, P ISRAEL ACAD SCI HU, V4, P1
+   Puga D, 2010, J REGIONAL SCI, V50, P203, DOI 10.1111/j.1467-9787.2009.00657.x
+   RAUCH JE, 1993, J URBAN ECON, V34, P380, DOI 10.1006/juec.1993.1042
+   Redman C., 1979, RISE CIVILIZATION EA
+   Romer PM, 2010, AM ECON REV, V100, P94, DOI 10.1257/aer.100.2.94
+   Sedgley N, 2011, AM J ECON SOCIOL, V70, P86, DOI 10.1111/j.1536-7150.2010.00764.x
+   SEGAL D, 1976, REV ECON STAT, V58, P339, DOI 10.2307/1924956
+   SHEFER D, 1973, J REGIONAL SCI, V13, P55, DOI 10.1111/j.1467-9787.1973.tb00377.x
+   Shennan S. J., 2002, GENES MEMES HUMAN HI
+   SIMON J, 1977, EC POPULATION GROWTH
+   Simon J. L., 1986, THEORY POPULATION EC
+   Spufford P, 2003, POWER PROFIT MERCHAN
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   USLANER EM, 1976, AM J POLIT SCI, V20, P125, DOI 10.2307/2110513
+   van Zeebroeck N, 2011, ECON INNOV NEW TECH, V20, P539, DOI 10.1080/10438591003668646
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+NR 67
+TC 0
+Z9 0
+U1 5
+U2 31
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0138-9130
+J9 SCIENTOMETRICS
+JI Scientometrics
+PD SEP
+PY 2013
+VL 96
+IS 3
+BP 819
+EP 828
+DI 10.1007/s11192-013-0970-3
+PG 10
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science
+SC Computer Science; Information Science & Library Science
+GA 205IL
+UT WOS:000323437400011
+DA 2019-03-26
+ER

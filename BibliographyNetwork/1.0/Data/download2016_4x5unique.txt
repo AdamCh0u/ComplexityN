@@ -1,0 +1,557 @@
+
+PT J
+AU Mesdaghinia, A
+   Nodehi, RN
+   Nasseri, S
+   Imran, SA
+   Samadi, MT
+   Hadi, M
+AF Mesdaghinia, Alireza
+   Nodehi, Ramin Nabizadeh
+   Nasseri, Simin
+   Imran, Syed A.
+   Samadi, Mohammad Taghi
+   Hadi, Mahdi
+TI Potential for iron release in drinking water distribution system: a case
+   study of Hamedan city, Iran
+SO DESALINATION AND WATER TREATMENT
+LA English
+DT Article
+DE Drinking water; Water distribution system; Iron release; Corrosion index
+ID CORROSION CONTROL; PRACTICAL APPROACH; CACO3 FILMS; PHOSPHATE
+   INHIBITORS; PLANT OPERATORS; POTABLE WATER; TAP WATER; RED WATER;
+   DEPOSITION; PIPES
+AB Blending of water from different sources into an urban drinking water distribution system can have unintended impacts, such as corrosion and/or release of corrosion by-products from pipe surfaces. Hamedan, a city in west Iran, receives water from four different sources that have different physical and chemical characteristics. The potential for iron release from iron distribution pipes due to in situ blending of different sources was investigated in this study. A dedicated software was developed to calculate the corrosion indices of different blends expected in different zones of Hamedan's water distribution system. The calculated corrosion indices, and iron release were verified and correlated to actual conditions through water sampling conducted in different zones of the city. The Langelier index (LI), Ryznar stability index (RSI or RI), Puckorius scaling index (PSI), and the calcium carbonate precipitation potential were found to be -0.60 +/- 0.30, 8.63 +/- 0.57, 8.18 +/- 0.34, and -10.95 +/- 6.9mg CaCO3/L, respectively. Alkalinity, pH, and carbonate ion were identified as the important parameters that have a role in the control of iron release. Significant linear correlations of LI, RI, and PSI to iron concentration were observed in samples collected from different zones of the distribution system. The spatial correlation between iron concentration and corrosion indices in different zones of the water distribution system was determined using ordinary Kriging interpolation. These indices indicated a wide variation of corrosive potential in different zones of the distribution system. Therefore, these corrosion indices can be used to estimate, monitor, and minimize the potential for iron release from distribution systems.
+C1 [Mesdaghinia, Alireza; Nasseri, Simin; Hadi, Mahdi] Univ Tehran Med Sci, CWQR, IER, 8th Floor,Gol Bldg,North Karegar St,Enghelab Sq, Tehran, Iran.
+   [Nodehi, Ramin Nabizadeh] Univ Tehran Med Sci, Sch Publ Hlth, Dept Environm Hlth Engn, 5th Floor,Poor E Sina St, Tehran, Iran.
+   [Imran, Syed A.] Aquastruct Solut Inc, 150A-2 Res Dr, Regina, SK S4S 7H9, Canada.
+   [Samadi, Mohammad Taghi] Hamadan Univ Med Sci, Hlth Sci Res Ctr, Sch Publ Hlth, Mahdiyeh St, Hamadan, Iran.
+RP Hadi, M (reprint author), Univ Tehran Med Sci, CWQR, IER, 8th Floor,Gol Bldg,North Karegar St,Enghelab Sq, Tehran, Iran.
+EM mesdaghinia@tums.ac.ir; rnabizadeh@tums.ac.ir; naserise@tums.ac.ir;
+   syed.imran@aquastructure.ca; samadi@umsha.ac.ir; hadi_rfm@yahoo.com
+RI Samadi, Mohammadtaghi/O-5634-2017; Hadi, Mahdi/Q-7956-2017; mesdaghinia,
+   alireza/O-3721-2017
+OI mesdaghinia, alireza/0000-0002-1305-9525; nasseri,
+   simin/0000-0003-4498-5617; samadi, mohamad taghi/0000-0001-6797-3745
+FU Hamadan University of Medical Sciences
+FX The authors acknowledge the supports provided by Hamadan University of
+   Medical Sciences. The support of Tehran University of Medical Sciences
+   for providing research facilities is also acknowledged.
+CR Abdanfaraz Consulting Engineers, 1 2 PHAS STUD AB AB, V1, P1383
+   Al-Rawaifeh AE, 2007, DESALINATION, V206, P322, DOI 10.1016/j.desal.2006.01.039
+   Al-Rawajfeh AE, 2009, DESALIN WATER TREAT, V7, P191, DOI 10.5004/dwt.2009.700
+   Ala'a Hamed Emran A.-H., 2012, J BABYLON U ENG SCI, V20, P1180
+   Alshehri AA, 2009, DESALIN WATER TREAT, V8, P211, DOI 10.5004/dwt.2009.675
+   American Water Works Association Research Foundation (AWWARF), 1996, INT CORR WAT DISTR S
+   Benefield L.D., 1982, PROCESS CHEM WATER W
+   Berghult B, 1999, J WATER SUPPLY RES T, V48, P44
+   Broo AE, 2001, WA SCI TECHNOL, V1, P11
+   Bum M., DESALIN WAT IN PRESS, P1
+   CEO of Hamedan Province Water and Wastewater company, 35 WAT DISTR SHYST I
+   Cheng R. C., 2010, IDA J DESALIN WATER, V2, P24
+   Choi YS, 2005, J ALLOY COMPD, V391, P162, DOI 10.1016/j.jallcom.2004.07.081
+   CRUSE H, 1974, J AM WATER WORKS ASS, V66, P479
+   Dietrich AM, 2004, WATER SCI TECHNOL, V49, P55
+   EPA, 2009, 816F090004 EPA
+   ESRI, 2009, ARCVIEW GIS VER 9 3
+   Ferguson J. L., 1996, INTERNAL CORROSION W
+   Friedman L. C., 1982, QUALITY ASSURANCE PR
+   Gebbie P., 2000, 63 ANN WAT IND ENG O
+   Hadi M., 2009, 12 NAT C ENV HLTH
+   Imran SA, 2005, J ENVIRON ENG, V131, P1514, DOI [10.1061/(ASCE)0733-9372(2005)131:11(1514), 10.1061/ASCE)0733-9372(2005)131:11(1514)]
+   Imran SA, 2006, J AM WATER WORKS ASS, V98, P107
+   Imran SA, 2009, J AM WATER WORKS ASS, V101, P82
+   Kemmer F.N, 1988, NALCO WATER HDB
+   KIRMEYER GJ, 1983, J AM WATER WORKS ASS, V75, P78
+   LALEZARY S, 1984, J AM WATER WORKS ASS, V76, P83
+   Langelier W. F, 1936, J AM WATER WORKS ASS, V28, P1500
+   Loewenthal RE, 2004, WATER SCI TECHNOL, V49, P9
+   Loewenthal RE, 1976, CARBONATE CHEM AQUAT
+   LOEWENTHAL RE, 1986, SOFTENING STABILIZAT
+   LOEWENTHAL RE, 2003, 1 IWA C SCAL CORR WA
+   LUDWIG H, 1986, DESALINATION, V58, P135, DOI 10.1016/0011-9164(86)85018-4
+   Maeng M, 2015, DESALIN WATER TREAT, V54, P1233, DOI 10.1080/19443994.2014.917991
+   McNeill LS, 2000, J ENVIRON ENG-ASCE, V126, P1096, DOI 10.1061/(ASCE)0733-9372(2000)126:12(1096)
+   McNeill LS, 2001, J AM WATER WORKS ASS, V93, P88
+   MERRILL DT, 1977, J AM WATER WORKS ASS, V69, P592
+   MERRILL DT, 1978, J AM WATER WORKS ASS, V70, P12
+   MERRILL DT, 1977, J AM WATER WORKS ASS, V69, P634
+   Michael R. S., 1982, WATER RES, V16, P1455
+   Millette J. R., 1908, J AWWA, V72, P262
+   MULLEN ED, 1980, J AM WATER WORKS ASS, V72, P286
+   Oliver M. A., 1990, International Journal of Geographical Information Systems, V4, P313, DOI 10.1080/02693799008941549
+   Olyaie E., 2010, WATER SOIL SCI, V3, P199
+   PUCKORIUS PR, 1991, CORROSION, V47, P280, DOI 10.5006/1.3585256
+   R Core Team, 2013, R LANG ENV STAT COMP
+   Rice E., 2012, STANDARD METHODS EXA
+   Rooklidge SJ, 2002, WATER RES, V36, P2689, DOI 10.1016/S0043-1354(01)00493-6
+   ROSSUM JR, 1983, J AM WATER WORKS ASS, V75, P95
+   Ryznar J.W., 1944, J AM WATER WORKS ASS, V36, P472
+   Sarin P, 2003, J AM WATER WORKS ASS, V95, P85
+   Schock M., 1999, WATER QUALITY TREATM, P1
+   Singley J. E., 1985, CORROSION PERVENTION
+   SINGLEY JE, 1981, J AM WATER WORKS ASS, V73, P578
+   Tan H., DESALIN WAT IN PRESS, P1
+   TAYLOR JS, 2005, EFFECTS BLENDING DIS
+   Vreeburg JHG, 2007, WATER RES, V41, P519, DOI 10.1016/j.watres.2006.09.028
+   Water Research Centre, 1981, 167 TR WAT RES CTR
+   Water resources studies office, 1999, BAL SHEET REP HAM DA
+   Zare Abyaneh H., 2010, J ENV SCI TECHNOL, V12, P89
+NR 60
+TC 2
+Z9 2
+U1 0
+U2 31
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1944-3994
+EI 1944-3986
+J9 DESALIN WATER TREAT
+JI Desalin. Water Treat.
+PD JUL 2
+PY 2016
+VL 57
+IS 31
+BP 14461
+EP 14472
+DI 10.1080/19443994.2015.1066269
+PG 12
+WC Engineering, Chemical; Water Resources
+SC Engineering; Water Resources
+GA DI4YH
+UT WOS:000373504800016
+DA 2019-03-26
+ER
+
+PT J
+AU Kripke, K
+   Chimbwandira, F
+   Mwandi, Z
+   Matchere, F
+   Schnure, M
+   Reed, J
+   Castor, D
+   Sgaier, S
+   Njeuhmeli, E
+AF Kripke, Katharine
+   Chimbwandira, Frank
+   Mwandi, Zebedee
+   Matchere, Faustin
+   Schnure, Melissa
+   Reed, Jason
+   Castor, Delivette
+   Sgaier, Sema
+   Njeuhmeli, Emmanuel
+TI Voluntary Medical Male Circumcision for HIV Prevention in Malawi:
+   Modeling the Impact and Cost of Focusing the Program by Client Age and
+   Geography
+SO PLOS ONE
+LA English
+DT Article
+ID TRIAL; HIV/AIDS; MEN
+AB Background
+   In 2007, the World Health Organization (WHO) recommended scaling up voluntary medical male circumcision (VMMC) in priority countries with high HIV prevalence and low male circumcision (MC) prevalence. According to the Joint United Nations Programme on HIV/AIDS (UNAIDS), an estimated 5.8 million males had undergone VMMC by the end of 2013. Implementation experience has raised questions about the need to refocus VMMC programs on specific subpopulations for the greatest epidemiological impact and programmatic effectiveness. As Malawi prepared its national operational plan for VMMC, it sought to examine the impacts of focusing on specific subpopulations by age and region.
+   Methods
+   We used the Decision Makers' Program Planning Toolkit, Version 2.0, to study the impact of scaling up VMMC to different target populations of Malawi. National MC prevalence by age group from the 2010 Demographic and Health Survey was scaled according to the MC prevalence for each district and then halved, to adjust for over-reporting of circumcision. In-country stakeholders advised a VMMC unit cost of $100, based on implementation experience. We derived a cost of $451 per patient-year for antiretroviral therapy from costs collected as part of a strategic planning exercise previously conducted in-country by UNAIDS.
+   Results
+   Over a fifteen-year period, circumcising males ages 10-29 would avert 75% of HIV infections, and circumcising males ages 10-34 would avert 88% of infections, compared to the current strategy of circumcising males ages 15-49. The Ministry of Health's South West and South East health zones had the lowest cost per HIV infection averted. Moreover, VMMC met WHO's definition of cost-effectiveness (that is, the cost per disability-adjusted life-year [DALY] saved was less than three times the per capita gross domestic product) in all health zones except Central East. Comparing urban versus rural areas in the country, we found that circumcising men in urban areas would be both cost-effective and cost-saving, with a VMMC cost per DALY saved of $120 USD and with 15 years of VMMC implementation resulting in lifetime HIV treatment costs savings of $331 million USD.
+   Conclusions
+   Based on the age analyses and programmatic experience, Malawi's VMMC operational plan focuses on males ages 10-34 in all districts in the South East and South West zones, as well as Lilongwe (an urban district in the Central zone). This plan covers 14 of the 28 districts in the country.
+C1 [Kripke, Katharine] Avenir Hlth, Hlth Policy Project, Washington, DC USA.
+   [Chimbwandira, Frank] Minist Hlth, Lilongwe, Malawi.
+   [Mwandi, Zebedee] US Agcy Int Dev, Lilongwe, Malawi.
+   [Matchere, Faustin] US Dept Def, Lilongwe, Malawi.
+   [Schnure, Melissa] Futures Grp Inc, Hlth Policy Project, Washington, DC USA.
+   [Reed, Jason; Castor, Delivette; Njeuhmeli, Emmanuel] USAID, Washington, DC USA.
+   [Sgaier, Sema] Bill & Melinda Gates Fdn, Seattle, WA USA.
+   [Sgaier, Sema] Univ Washington, Seattle, WA USA.
+RP Kripke, K (reprint author), Avenir Hlth, Hlth Policy Project, Washington, DC USA.
+EM kkripke@avenirhealth.org
+FU American people through the U.S. President's Emergency Plan for AIDS
+   Relief (PEPFAR); U.S. Agency for International Development (USAID)
+   [AID-OAA-A-10-00067, AID-OAA-14-00026]
+FX This manuscript is made possible by the generous support of the American
+   people through the U.S. President's Emergency Plan for AIDS Relief
+   (PEPFAR) with the U.S. Agency for International Development (USAID)
+   under the Cooperative Agreement Health Policy Project, Agreement No.
+   AID-OAA-A-10-00067, beginning September 30, 2010, and Cooperative
+   Agreement Project SOAR (Supporting Operational AIDS Research), number
+   AID-OAA-14-00026. The Health Policy Project is implemented by Futures
+   Group, in collaboration with Plan International USA, Avenir Health
+   (formerly Futures Institute), Partners in Population and Development,
+   Africa Regional Office (PPD ARO), Population Reference Bureau (PRB), RTI
+   International, and the White Ribbon Alliance for Safe Motherhood (WRA).
+   The funder was involved in study design, decision to publish, and
+   preparation of the manuscript. The findings and conclusions in this
+   paper do not necessarily represent the views or positions of PEPFAR,
+   USAID, or the U.S. Government.
+CR Anderson SJ, 2014, LANCET, V384, P249, DOI 10.1016/S0140-6736(14)61053-9
+   Auvert B, 2005, PLOS MED, V2, P1112, DOI 10.1371/journal.pmed.0020298
+   Awad S, 2015, INVESTIGATING UNPUB
+   Awad S, 2015, REEVALUATION V UNPUB
+   Bailey RC, 2007, LANCET, V369, P643, DOI 10.1016/S0140-6736(07)60312-2
+   Bautista-Arredondo S, 2008, AIDS, V22, pS67, DOI 10.1097/01.aids.0000327625.69974.08
+   Bautista-Arredondo S, 2010, CURR OPIN HIV AIDS, V5, P232, DOI 10.1097/COH.0b013e32833860d3
+   Bengo J, 2010, SITUATION ANAL MALE
+   Bertozzi SM, 2008, LANCET, V372, P831, DOI [10.1016/S0140-6736(08)60889-2, 10.1016/S01406736(08)60889-2]
+   Bollinger LA, 2012, RETHINKHIV: SMARTER WAYS TO INVEST IN ENDING HIV IN SUB-SAHARAN AFRICA, P74
+   Futures Institute, 2011, GOALS MAN MOD EST EF
+   Government of Malawi National AIDS Commission., 2014, NAT HIV PREV STRAT 2
+   Government of Malawi National AIDS Commission, 2014, VOL MED MAL CIRC STR
+   Government of Malawi National AIDS Commission, 2014, NAT STRAT PLAN HIV A
+   Gray RH, 2007, LANCET, V369, P657, DOI 10.1016/S0140-6736(07)60313-4
+   Haacker M, 2016, PLOS MED IN PRESS
+   Kripke K., 2015, AGE TARGETING UNPUB
+   Malawi National Statistical Office, 2010, MAL DEM HLTH SURV 20
+   Njeuhmeli E, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001132
+   Schwartlander B, 2011, LANCET, V377, P2031, DOI 10.1016/S0140-6736(11)60702-2
+   Stover J, 2014, AIDS, V28, pS427, DOI 10.1097/QAD.0000000000000483
+   Thomas AG, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0027561
+   UNAIDS, 2014, LOC EP ISS BRIEF
+   WHO, 2007, NEW DAT MAL CIRC HIV
+   WHO and UNAIDS, 2011, JOINT STRAT ACT FRAM
+   World Bank, 2012, GDP PER CAP CURR USD
+   World Health Organization, COST EFF STRAT PLANN
+NR 27
+TC 10
+Z9 11
+U1 1
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 13
+PY 2016
+VL 11
+IS 7
+AR e0156521
+DI 10.1371/journal.pone.0156521
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DQ9CP
+UT WOS:000379508300002
+PM 27410474
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Alonzo, M
+   McFadden, JP
+   Nowak, DJ
+   Roberts, DA
+AF Alonzo, Michael
+   McFadden, Joseph P.
+   Nowak, David J.
+   Roberts, Dar A.
+TI Mapping urban forest structure and function using hyperspectral imagery
+   and lidar data
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+ID LEAF-AREA INDEX; AIRBORNE LIDAR; MEDITERRANEAN FOREST; CARBON STORAGE;
+   UNITED-STATES; TREE; VEGETATION; BIOMASS; AVIRIS; SEATTLE
+AB Cities measure the structure and function of their urban forest resource to optimize forest management and the provision of ecosystem services. Measurements made using plot sampling methods yield useful results including citywide or land-use level estimates of species counts, leaf area, biomass, and air pollution reduction. However, these quantities are statistical estimates made over large areas and thus are not spatially explicit. Maps of forest structure and function at the individual tree crown scale can enhance management decision-making and improve understanding of the spatial distribution of ecosystem services relative to humans and infrastructure. In this research we used hyperspectral imagery and waveform lidar data to directly map urban forest species, leaf area index (LAI), and carbon storage in downtown Santa Barbara, California. We compared these results to estimates produced using field-plot sampling and the i-Tree Eco model. Remote sensing methods generally reduced uncertainty in species-level canopy cover estimates compared to field-plot methods. This was due to high classification accuracy for species with large canopies (e.g., Platanus racemosa with similar to 90% average accuracy, Pinus pinea at similar to 93%, Quercus agrifolia at similar to 83%) and high standard error of the plot-based estimates due to the uneven distribution of canopy throughout the city. Average LAI in canopy, based on lidar measurements was 4.47 while field measurements and allometry resulted in an LAI of 5.57. Citywide carbon storage, based on lidar measurements and allometry was estimated at 50,991 metric tons (t) and 55,900 t from plot-sampling. As others have noted, carbon density varied substantially by development intensity based largely on differences in fractional cover but less so when only evaluating canopy biomass. Using separate biomass equations for each leaf type (broadleaf, needleleaf, palm) resulted in a more accurate carbon map but a less accurate citywide estimate. (C) 2016 Elsevier GmbH. All rights reserved.
+C1 [Alonzo, Michael] NASA, Goddard Space Flight Ctr, Greenbelt, MD 20771 USA.
+   [McFadden, Joseph P.; Roberts, Dar A.] Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA.
+   [Nowak, David J.] SUNY Coll Environm Sci & Forestry, US Forest Serv, USDA, Northern Res Stn,Moon Lib 5, Syracuse, NY 13210 USA.
+RP Alonzo, M (reprint author), NASA, Goddard Space Flight Ctr, Greenbelt, MD 20771 USA.
+EM michael.g.alonzo@nasa.gov
+FU EPA-STAR Fellowship [FP-91768801-0]; National Science Foundation
+   [BCS-0948914]; Garden Club of America Fellowship in Urban Forestry
+FX This research was funded by the first author's EPA-STAR Fellowship
+   (FP-91768801-0), the National Science Foundation (BCS-0948914), and the
+   Garden Club of America Fellowship in Urban Forestry. Special thanks to
+   Robert Hoehn, Alexis Ellis, and Satoshi Hirabayashi for their work
+   customizing, running, and communicating i-Tree Eco sub-models.
+CR Alberti M, 2005, INT REGIONAL SCI REV, V28, P168, DOI 10.1177/0160017605275160
+   Alberti M., 1999, J PLANN ED RES
+   Alonzo M, 2015, REMOTE SENS ENVIRON, V162, P141, DOI 10.1016/j.rse.2015.02.025
+   Alonzo M, 2014, REMOTE SENS ENVIRON, V148, P70, DOI 10.1016/j.rse.2014.03.018
+   Alonzo M, 2013, REMOTE SENS LETT, V4, P513, DOI 10.1080/2150704X.2013.764027
+   CHEN JM, 1992, PLANT CELL ENVIRON, V15, P421, DOI 10.1111/j.1365-3040.1992.tb00992.x
+   Churkina G, 2010, GLOBAL CHANGE BIOL, V16, P135, DOI 10.1111/j.1365-2486.2009.02002.x
+   CONGALTON RG, 1991, REMOTE SENS ENVIRON, V37, P35, DOI 10.1016/0034-4257(91)90048-B
+   Drake JB, 2002, REMOTE SENS ENVIRON, V79, P305, DOI 10.1016/S0034-4257(01)00281-4
+   Escobedo FJ, 2009, LANDSCAPE URBAN PLAN, V90, P102, DOI 10.1016/j.landurbplan.2008.10.021
+   Ferraz A, 2012, REMOTE SENS ENVIRON, V121, P210, DOI 10.1016/j.rse.2012.01.020
+   Green RO, 1998, REMOTE SENS ENVIRON, V65, P227, DOI 10.1016/S0034-4257(98)00064-9
+   Gromke C, 2009, BOUND-LAY METEOROL, V131, P19, DOI 10.1007/s10546-008-9301-2
+   Herold M, 2004, REMOTE SENS ENVIRON, V91, P304, DOI 10.1016/j.rse.2004.02.013
+   Heynen N, 2006, URBAN AFF REV, V42, P3, DOI 10.1177/1078087406290729
+   Hirabayashi S, 2011, ENVIRON MODELL SOFTW, V26, P804, DOI 10.1016/j.envsoft.2010.11.007
+   Hutyra LR, 2011, GLOBAL CHANGE BIOL, V17, P783, DOI 10.1111/j.1365-2486.2010.02238.x
+   Jensen JR, 1999, PHOTOGRAMM ENG REM S, V65, P611
+   Kokaly RF, 2009, REMOTE SENS ENVIRON, V113, pS78, DOI 10.1016/j.rse.2008.10.018
+   Kuo FE, 2001, ENVIRON BEHAV, V33, P343, DOI 10.1177/0013916501333002
+   Lacan Igor, 2008, Urban Forestry & Urban Greening, V7, P291, DOI 10.1016/j.ufug.2008.06.002
+   MacFaden SW, 2012, J APPL REMOTE SENS, V6, DOI 10.1117/1.JRS.6.063567
+   Manning WJ, 2008, INT J SUST DEV WORLD, V15, P362, DOI 10.3843/SusDev.15.4:12
+   McCarthy Heather R., 2010, Urban Ecosystems, V13, P393, DOI 10.1007/s11252-010-0127-6
+   McHale M. R., 2009, Urban Ecosystems, V12, P95, DOI 10.1007/s11252-009-0081-3
+   McPherson EG, 2011, LANDSCAPE URBAN PLAN, V99, P40, DOI 10.1016/j.landurbplan.2010.08.011
+   McPherson EG, 1999, PSW171 USDA FOR SERV
+   Morani A, 2014, ENVIRON POLLUT, V195, P202, DOI 10.1016/j.envpol.2014.08.031
+   Muss JD, 2011, REMOTE SENS ENVIRON, V115, P824, DOI 10.1016/j.rse.2010.11.008
+   Nowak D. J., 2013, URBAN ECOSYST
+   Nowak D. J., 2010, RESOURCE B USDA FOR, VNRS-47
+   Nowak D. J., 1996, FOR SCI, V42
+   Nowak D. J., 2006, RESOUR B USDA FOR SE, V1
+   Nowak DJ, 2014, ENVIRON POLLUT, V193, P119, DOI 10.1016/j.envpol.2014.05.028
+   Nowak DJ, 2012, URBAN FOR URBAN GREE, V11, P374, DOI 10.1016/j.ufug.2012.02.005
+   Nowak David J., 2008, Arboriculture & Urban Forestry, V34, P347
+   Nowak David J., 2008, Arboriculture & Urban Forestry, V34, P386
+   Nowak DJ, 2002, ENVIRON POLLUT, V116, P381, DOI 10.1016/S0269-7491(01)00214-7
+   Peters Emily B., 2010, Urban Ecosystems, V13, P443, DOI 10.1007/s11252-010-0128-5
+   Pillsbury NH, 1998, TREE VOLUME EQUATION
+   Popescu SC, 2007, BIOMASS BIOENERG, V31, P646, DOI 10.1016/j.biombioe.2007.06.022
+   Raciti SM, 2014, SCI TOTAL ENVIRON, V500, P72, DOI 10.1016/j.scitotenv.2014.08.070
+   Richardson JJ, 2014, URBAN FOR URBAN GREE, V13, P152, DOI 10.1016/j.ufug.2013.07.003
+   Richter R., 2002, INT J REMOTE SENS, V23, P37
+   Roberts DA, 2004, ECOSYSTEMS, V7, P545, DOI 10.1007/s10021-004-0144-5
+   Santamour F. S., 1990, P 7 C METR TREE IMPR, P57
+   Schwarz K, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0122051
+   Simpson JR, 2002, ENERG BUILDINGS, V34, P1067, DOI 10.1016/S0378-7788(02)00028-2
+   Sprugel D. G., 1983, ECOLOGY
+   URBAN J, 1992, Journal of Arboriculture, V18, P85
+   Ustin SL, 2009, REMOTE SENS ENVIRON, V113, pS67, DOI 10.1016/j.rse.2008.10.019
+   Wang J, 2008, J AM WATER RESOUR AS, V44, P75, DOI 10.1111/j.1752-1688.2007.00139.x
+   Welch R., 1982, INT J REMOTE SENS, V3, P1982
+   White RH, 2010, INT J WILDLAND FIRE, V19, P213, DOI 10.1071/WF07128
+   WOODCOCK CE, 1987, REMOTE SENS ENVIRON, V21, P311, DOI 10.1016/0034-4257(87)90015-0
+   Xiao Q, 2004, INT J REMOTE SENS, V25, P5637, DOI 10.1080/01431160410001735094
+   Xiao Qingfu, 2002, Urban Ecosystems, V6, P291, DOI 10.1023/B:UECO.0000004828.05143.67
+   Zhang CY, 2012, PHOTOGRAMM ENG REM S, V78, P1079, DOI 10.14358/PERS.78.10.1079
+NR 58
+TC 19
+Z9 19
+U1 7
+U2 53
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PD JUN 1
+PY 2016
+VL 17
+BP 135
+EP 147
+DI 10.1016/j.ufug.2016.04.003
+PG 13
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA DY2HL
+UT WOS:000384913600015
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Wang, CJ
+   Wu, LF
+AF Wang, Cheng-Jun
+   Wu, Lingfei
+TI The scaling of attention networks
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Attention dynamics; Complex networks; Online behavior; Scaling; Power
+   law
+ID POWER LAWS; CITIES; DYNAMICS; SYSTEMS; ORIGIN; SIZE
+AB We use clicks as a proxy of collective attention and construct networks to study the temporal dynamics of attention. In particular we collect the browsing records of millions of users on 1000 Web forums in two months. In the constructed networks, nodes are threads and edges represent the switch of users between threads in an hour. The investigated network properties include the number of threads N, the number of users UV, and the number of clicks, PV. We find scaling functions PV similar to UV theta 1, PV similar to N-theta 3, and UV similar to N-theta 2, in which the scaling exponents are always greater than 1. This means that (1) the studied networks maintain a self-similar flow structure in time, i.e., large networks are simply the scale-up versions of small networks; and (2) large networks are more "productive", in the sense that an average user would generate more clicks in the larger systems. We propose a revised version of Zipf's law to quantify the time-invariant flow structure of attention networks and relate it to the observed scaling properties. We also demonstrate the applied consequences of our research: forum-classification based on scaling properties. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Wang, Cheng-Jun] Nanjing Univ, Sch Journalism & Commun, Nanjing 210093, Jiangsu, Peoples R China.
+   [Wu, Lingfei] Arizona State Univ, Ctr Behav Inst & Environm, Tempe, AZ 85281 USA.
+RP Wu, LF (reprint author), Arizona State Univ, Ctr Behav Inst & Environm, Tempe, AZ 85281 USA.
+EM wlf850927@gmail.com
+FU National Science Foundation [1210856]; National Social Science
+   Foundation of China [15CXW017]; China Postdoctoral Science Foundation
+   [2015M571722]; Fundamental Research Funds for the Central Universities
+   [2062015008]
+FX L.W. acknowledges the financial support for this work from the National
+   Science Foundation, grant number 1210856. CJ.W. acknowledges the
+   financial support for this work from the National Social Science
+   Foundation of China, grant number 15CXW017, the China Postdoctoral
+   Science Foundation, grant number 2015M571722, and the Fundamental
+   Research Funds for the Central Universities, grant number 2062015008.
+CR Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   Bollen J, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004803
+   Cattuto C, 2009, P NATL ACAD SCI USA, V106, P10511, DOI 10.1073/pnas.0901136106
+   Cristelli M., 2012, SCI REP, V2
+   Dreyer O., 2001, PHYS REV LETT, V87
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   Lehmann Janette, 2012, P 21 INT C WORLD WID, P251, DOI [DOI 10.1145/2187836.2187871, 10.1145/2187836.2187871]
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Sasahara K, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0061823
+   SIMON HA, 1973, PUBLIC ADMIN REV, V33, P268, DOI 10.2307/974804
+   Wang J, 2010, SIGIR 2010: PROCEEDINGS OF THE 33RD ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH DEVELOPMENT IN INFORMATION RETRIEVAL, P881
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Wu F, 2007, P NATL ACAD SCI USA, V104, P17599, DOI 10.1073/pnas.0704916104
+   Wu L., 2013, EUR PHYS J B, V86, P1
+   Wu L., 2011, PHYS REV E, V84
+   Wu LF, 2011, EUR PHYS J B, V83, P283, DOI 10.1140/epjb/e2011-20187-9
+   Wu LF, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102646
+   Zhang J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0072525
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 23
+TC 3
+Z9 3
+U1 1
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD APR 15
+PY 2016
+VL 448
+BP 196
+EP 204
+DI 10.1016/j.physa.2015.12.081
+PG 9
+WC Physics, Multidisciplinary
+SC Physics
+GA DE8MV
+UT WOS:000370891000019
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Burholt, V
+   Roberts, MS
+   Musselwhite, CBA
+AF Burholt, Vanessa
+   Roberts, Matthew Steven
+   Musselwhite, Charles Brian Alexander
+TI Older People's External Residential Assessment Tool (OPERAT): a
+   complementary participatory and metric approach to the development of an
+   observational environmental measure
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Environment; Residence characteristics; Neighbourhood; Community;
+   Domicile; Aged; Environment and public health; Environment design;
+   Environment policy
+ID PHYSICAL-ACTIVITY; NEIGHBORHOOD ENVIRONMENT; BUILT ENVIRONMENT;
+   MENTAL-HEALTH; ADULTS; DEMENTIA; PLACE; CRIME; IMPAIRMENT; PREVALENCE
+AB Background: The potential for environmental interventions to improve health and wellbeing has assumed particular importance in the face of unprecedented population ageing. However, presently observational environmental assessment tools are unsuitable for 'all ages'. This article describes the development of the Older People's External Residential Assessment Tool (OPERAT).
+   Methods: Potential items were identified through review and consultation with an Expert Advisory Group. Items were ranked according the importance ascribed to them by older people who responded to a survey distributed by 50+ forum in Wales (N= 545). 40 highly ranked items were selected for the OPERAT pilot. An observational assessment was conducted in 405 postcodes in Wales. Items validated with data from a survey of older residents (N= 500) in the postcode areas were selected for statistical modelling (Kendall's Tau-b, p <.05). Data reduction techniques (exploratory factor analysis with Geomin rotation) identified the underlying factor structure of OPERAT. Items were weighted (Thurstone scaling approach) and scores calculated for each domain. Internal consistency: all items were tested for scale-domain total correlation (Spearman's rank). Construct validity: correlation analysis examined the associations between domains and the extent to which participants enjoyed living in the area, felt that it was a desirable place to live, or felt safe at night or during the day (Spearman's rank). Usability: analysis of variance compared mean OPERAT domain scores between neighbourhoods that were homogenous in terms of (a) deprivation (quintiles of the Townsend Index) and (b) geographic settlement type. Inter-rater reliability: Krippendorff's alpha was used to evaluate inter-rater consistency in ten postcode areas.
+   Results: A four factor model was selected as the best interpretable fit to the data. The domains were named Natural Elements, Incivilities and Nuisance; Navigation and Mobility; and Territorial Functioning. Statistical tests demonstrated good internal consistency, convergent validity, utility and inter-rater reliability.
+   Conclusions: Participatory approaches to research and robust statistical testing are not mutually exclusive. OPERAT can be used to assess the suitability of external residential environments for older people with different physical and cognitive capacities, living in rural or urban areas. OPERAT can be used to help plan residential environments that are friendly for all ages.
+C1 [Burholt, Vanessa; Roberts, Matthew Steven; Musselwhite, Charles Brian Alexander] Swansea Univ, Coll Human & Hlth Sci, Ctr Innovat Ageing, Singleton Pk, Swansea SA2 8PP, W Glam, Wales.
+RP Burholt, V (reprint author), Swansea Univ, Coll Human & Hlth Sci, Ctr Innovat Ageing, Singleton Pk, Swansea SA2 8PP, W Glam, Wales.
+EM v.burholt@swansea.ac.uk
+RI Burholt, Vanessa/O-9960-2016
+OI Burholt, Vanessa/0000-0002-6789-127X; Musselwhite,
+   Charles/0000-0002-4831-2092
+FU Health and Care Research Wales [NISCHR-SC-12-13]
+FX Older People's External Residential Assessment Tool (OPERAT) study was
+   funded by the National Institute for Social Care and Health Research
+   (NISCHR-SC-12-13) now called Health and Care Research Wales.
+CR Abdullah A, 2013, EUR STUD REV, DOI [10.5539/res.v5n5p30, DOI 10.5539/RES.V5N5P30]
+   Ageing Well in Wales, AG WELL WAL 2014 19
+   Andresen EM, 2008, BMC PUBLIC HEALTH, V8, DOI 10.1186/1471-2458-8-35
+   Balfour JL, 2002, AM J EPIDEMIOL, V155, P507, DOI 10.1093/aje/155.6.507
+   Bibby P., 2013, URBAN RURAL AREA DEF
+   Biggs S, 2015, AGE FRIENDLY CITIES, P259
+   Blackman T, 2003, DISABIL SOC, V18, P357, DOI 10.1080/0968759032000052914
+   Braun V., 2006, QUALITATIVE RES PSYC, V3, P2, DOI [10.1191/1478088706qp063oa, DOI 10.1191/1478088706QP0630A]
+   Brownson RC, 2009, AM J PREV MED, V36, pS99, DOI 10.1016/j.amepre.2009.01.005
+   Brubaker C E, 1986, J Rehabil Res Dev, V23, P55
+   Buffel T, 2012, CRIT SOC POLICY, V32, P597, DOI 10.1177/0261018311430457
+   Burholt V, 2006, ENVIRON PLANN A, V38, P1095, DOI 10.1068/a3767
+   Burholt V, 2012, ENVIRON PLANN A, V44, P2901, DOI 10.1068/a4543
+   Burholt Vanessa, 2005, Eur J Ageing, V2, P109, DOI 10.1007/s10433-005-0028-3
+   Burton EJ, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-839
+   Caughy MO, 2001, HEALTH PLACE, V7, P225, DOI 10.1016/S1353-8292(01)00012-0
+   Cramer J. S., 2008, BIOPHILIC DESIGN, P335
+   Day K, 2006, AM J PREV MED, V30, P144, DOI 10.1016/j.amepre.2005.09.017
+   De Donder L., 2011, FEELINGS UNSAFETY LA
+   Dodge R, 2012, INT J WELLBEING, V2, P222, DOI DOI 10.5502/IJW.V2I3.4
+   Dunstan F, 2005, J ENVIRON PSYCHOL, V25, P293, DOI 10.1016/j.jenvp.2005.07.004
+   Durand CP, 2011, OBES REV, V12, pe173, DOI 10.1111/j.1467-789X.2010.00826.x
+   Edelman LS, 2013, NURS RES, V62, P286, DOI 10.1097/NNR.0b013e3182987b32
+   Edward H, 2013, ACAD MED, V88, P282
+   Freire P, 1970, PEDAGOGY OPPRESSED
+   Furr-Holden CDM, 2010, EVALUATION REV, V34, P159, DOI 10.1177/0193841X10368493
+   Hartig T, 2014, ANNU REV PUBL HEALTH, V35, P207, DOI 10.1146/annurev-publhealth-032013-182443
+   Hayes AF, 2007, COMMUN METHODS MEAS, V1, P77, DOI 10.1080/19312450709336664
+   Heath G. W., 2006, J PHYS ACT HEALTH, V3, P55, DOI DOI 10.1123/JPAH.3.SL.S55
+   HM Government, 2010, HLTH LIV HLTH PEOPL
+   KAISER HF, 1960, EDUC PSYCHOL MEAS, V20, P141, DOI 10.1177/001316446002000116
+   Kaplan R., 1989, EXPERIENCE NATURE PS
+   Katyal NK, 2002, YALE LAW J, DOI [10.2139/ssrn.290756, DOI 10.2139/SSRN.290756]
+   Kirchner CE, 2008, AM J PREV MED, V34, P349, DOI 10.1016/j.amepre.2008.01.005
+   Kline P., 1986, HDB TEST CONSTRUCTIO
+   Krippendorff K., 2004, CONTENT ANAL INTRO I
+   Kruger DJ, 2007, AM J COMMUN PSYCHOL, V40, P261, DOI 10.1007/s10464-007-9139-7
+   Kurtz EM, 1998, JUSTICE Q, V15, P121
+   Lorenc T, 2012, HEALTH PLACE, V18, P757, DOI 10.1016/j.healthplace.2012.04.001
+   Madanipour A, 2004, J URBAN DESIGN, V9, P267, DOI DOI 10.1016/J.HEALTHPLACE.2010.03.003
+   Maller C, 2006, HEALTH PROMOT INT, V21, P45, DOI 10.1093/heapro/dai032
+   Matthews FE, 2013, LANCET, V382, P1405, DOI 10.1016/S0140-6736(13)61570-6
+   McCormack GR, 2011, INT J BEHAV NUTR PHY, V8, DOI 10.1186/1479-5868-8-125
+   Mitchell L, 2003, ENVIRON PLANN B, V30, P605, DOI 10.1068/b29100
+   Munoz B, 1999, ANN EPIDEMIOL, V9, P53, DOI 10.1016/S1047-2797(98)00026-X
+   Newman O, 1972, DEFENSIBLE SPACE PEO
+   Noguchi-Shinohara M, 2013, J ALZHEIMERS DIS, V37, P691, DOI 10.3233/JAD-130398
+   Nummela O, 2011, J CLIN EPIDEMIOL, V64, P1418, DOI 10.1016/j.jclinepi.2011.04.003
+   Office for National Statistics ( UK), 2012, POP AG UK ITS CONST
+   Parkhurst G, 2014, COUNTRYSIDE CONNECTION: OLDER PEOPLE, COMMUNITY AND PLACE IN RURAL BRITAIN, P125
+   PERKINS DD, 1992, J ENVIRON PSYCHOL, V12, P21, DOI 10.1016/S0272-4944(05)80294-4
+   Pikora TJ, 2002, AM J PREV MED, V23, P187, DOI 10.1016/S0749-3797(02)00498-1
+   Rantakokko M, 2012, AGE AGEING, V41, P118, DOI 10.1093/ageing/afr136
+   RYAN CO, 2014, INT J ARCHIT RES, V8, P62
+   Saelens BE, 2008, MED SCI SPORT EXER, V40, pS550, DOI [10.1249/MSS.0b013e31817e67a4, 10.1249/MSS.0b013e31817c67a4]
+   Schaefer-McDaniel N, 2010, SOC SCI MED, V70, P277, DOI 10.1016/j.socscimed.2009.10.018
+   Sheehan B., 2006, DEMENTIA, V5, P271, DOI DOI 10.1177/1471301206062254
+   TAYLOR RB, 1984, J RES CRIME DELINQ, V21, P303, DOI 10.1177/0022427884021004003
+   Thurstone LL, 1928, AM J SOCIOL, V33, P529, DOI 10.1086/214483
+   Townsend P, 1988, HLTH DEPRIVATION INE
+   Webber SC, 2010, GERONTOLOGIST, V50, P443, DOI 10.1093/geront/gnq013
+   Welsh Government, 2013, STRAT OLD PEOPL WAL
+   Welsh Government, 2014, WELSH IND MULT DEPR
+   *WHO, 2007, AG LIF COURS
+   WILSON JQ, 1989, CRITICAL ISSUES POLI
+   Yen IH, 2009, AM J PREV MED, V37, P455, DOI 10.1016/j.amepre.2009.06.022
+   ZENK S, 2005, METHODS COMMUNITY BA, P167
+NR 67
+TC 2
+Z9 2
+U1 1
+U2 11
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD SEP 29
+PY 2016
+VL 16
+AR 1022
+DI 10.1186/s12889-016-3681-x
+PG 14
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DX4TW
+UT WOS:000384375000004
+PM 27682428
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

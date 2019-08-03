@@ -1,0 +1,555 @@
+
+PT J
+AU Agbazo, M
+   Koton'Gobi, G
+   Kounouhewa, B
+   Alamou, E
+   Afouda, A
+AF Agbazo, M.
+   Koton'Gobi, G.
+   Kounouhewa, B.
+   Alamou, E.
+   Afouda, A.
+TI Estimation of IDF Curves of Extreme Rainfall by Simple Scaling in
+   Northern Oueme Valley, Benin Republic (West Africa)
+SO EARTH SCIENCES RESEARCH JOURNAL
+LA English
+DT Article
+DE Simple scaling; IDF curves; annual maximum rainfall; frequency analysis;
+   Oueme Valley
+ID TIME STRUCTURE; INTENSITY; PRECIPITATION; MODEL; DISTRIBUTIONS; FORMULAS
+AB Rainfall intensity-duration-frequency (IDF) curves are of particular importance in water resources management, for example, in urban hydrology, for the design of hydraulic structures and the estimation of the flash flood risk in small catchments. IDF curves describe rainfall intensity as a function of duration and return period, and they are significant for water resources planning, as well as for the design of hydraulic constructions and structures. In this study, scaling properties of extreme rainfall are examined to establish the scaling behavior of statistical non-central moment over different durations. IDF curves and equations are set up for all stations by using the parameter obtained from scaling behavior, the location and scale parameters mu 24 and sigma 24 of the Gumbel distribution (EVI) sample of annual maximum 1440 min rainfall data. In another hand, we have established the IDF curves for ten selected rain gauge stations in the Northern (Oueme Valley) parts of Benin Republic, West Africa by using the simple scaling approach. Analysis of rainfall intensities (5 min and 1440 min rainfall data) from the ten rainfall stations shows that rainfall in north-Benin displays scales invariance property from 5 min to 1440 min. For time scaling, the statistical properties of rainfall follow the hypothesis of simple scaling. Therefore, the simple scaling model applies to the rainfall in (Oueme Valley). Hence, the simple scaling model is thought to be a viable approach to estimate IDF curves of hourly and sub-hourly rainfall form rainfall projections. The obtained scaling exponents are less than 1 and range from 0.23 to 0.59. The empirical model shows that the scaling procedure is a good estimator as it is more efficient and gives more accurate estimates compared with the observed rainfall than the traditional method which only consists the Gumbel model in all stations for lower return periods (T<5 years) but not for higher return periods.
+C1 [Agbazo, M.] Univ Abomey Calavi, CIPMA Chair Unesco, Int Chair Phys Math & Applicat, BP 526, Benin, Benin.
+   [Koton'Gobi, G.; Kounouhewa, B.] Univ Abomey Calavi, Radiat Phys Lab LPR, BP 526, Calavi, Benin.
+   [Alamou, E.; Afouda, A.] Univ Abomey Calavi, Appl Hydrol Lab LHA, BP 526, Calavi, Benin.
+RP Agbazo, M (reprint author), Univ Abomey Calavi, CIPMA Chair Unesco, Int Chair Phys Math & Applicat, BP 526, Benin, Benin.
+EM agbazomedard@yahoo.fr
+RI Delgado, Michelle/H-5736-2018
+FU International Foundation for Science (IFS)
+FX The authors would like to thank the General Directorate of AMMA for
+   providing the data. We also thank the anonymous reviewers for their
+   suggestions to improve the manuscript. We also thank the International
+   Foundation for Science (IFS) for its financial support.
+CR Acar R., 2008, 198202 JSIR, P198
+   ANNIASINGAM V, 1978, J HYDROL, V37, P223
+   Bara M., 2007, 20 C YOUNG HYDR
+   Bara M., 2009, METEOROLOGICAL J, V11, P153
+   Bell F.C., 1969, ASAE, V95, P951
+   Bendjoudi H, 1997, CR ACAD SCI II A, V325, P323, DOI 10.1016/S1251-8050(97)81379-1
+   Bernard MM, 1932, T ASCE, V96, P592
+   Bougadis J., 2006, HP, P3747
+   Burlando P, 1996, J HYDROL, V187, P45, DOI 10.1016/S0022-1694(96)03086-7
+   Ceresetti D., 2011, WEATHER FORECASTING
+   CHEN C, 1983, J HYDRAUL ENG-ASCE, V109, P1603, DOI 10.1061/(ASCE)0733-9429(1983)109:12(1603)
+   Danida Rapport final, 2008, APPR IMP CHANG CLIM
+   De Michele C, 2002, WATER SCI TECHNOL, V45, P83
+   Descroix L, 2009, J HYDROL, V375, P90, DOI 10.1016/j.jhydrol.2008.12.012
+   Endreny TA, 2009, J HYDROL, V371, P182, DOI 10.1016/j.jhydrol.2009.03.027
+   Garcia-Bartual R, 2001, PHYS CHEM EARTH PT B, V26, P675, DOI 10.1016/S1464-1909(01)00068-5
+   Ghanmi H., 2014, THESIS
+   Gumbel E. J., 1958, THESIS
+   GUPTA VK, 1990, J GEOPHYS RES-ATMOS, V95, P1999, DOI 10.1029/JD095iD03p01999
+   Hoang C. T, 2008, THESIS
+   Hubert P, 2002, IAHS-AISH P, P51
+   KOUTSOYIANNIS D, 1993, WATER RESOUR RES, V29, P2345, DOI 10.1029/93WR00395
+   LANDWEHR JM, 1979, WATER RESOUR RES, V15, P1055, DOI 10.1029/WR015i005p01055
+   Lawin E.A., 2007, THESIS
+   Le Barbe L., 1993, SURFACE WATER RESOUR
+   MARIEN JL, 1986, WATER RESOUR RES, V22, P475, DOI 10.1029/WR022i004p00475
+   Menabde M, 1999, WATER RESOUR RES, V35, P335, DOI 10.1029/1998WR900012
+   Mohymont B, 2006, HYDROLOG SCI J, V51, P239, DOI 10.1623/hysj.51.2.239
+   Mohymont B, 2004, NAT HAZARD EARTH SYS, V4, P375, DOI 10.5194/nhess-4-375-2004
+   Molnar P, 2005, ATMOS RES, V77, P137, DOI 10.1016/j.atmosres.2004.10.024
+   Molnar P, 2008, WATER RESOUR RES, V44, DOI 10.1029/2007WR006142
+   Nhat L., 2007, ANN J HYDRAUL ENG, V51, P73
+   Nhat L.M., 2006, ANN OF DISAS
+   Nhat L.M., 2008, ANN OF DISAS, V50, P33
+   Okonkwo G.I., 2010, AGR ENG INT CIGR J, V12, P22
+   OLSSON J, 1992, J HYDROL, V137, P261, DOI 10.1016/0022-1694(92)90060-9
+   Oyegoke S., 2008, ENV RES J, V2, P7
+   Ozger M, 2010, J HYDROL, V395, P279, DOI 10.1016/j.jhydrol.2010.10.039
+   Panthou G, 2014, HYDROL EARTH SYST SC, V18, P5093, DOI 10.5194/hess-18-5093-2014
+   Panthou G, 2013, THESIS
+   RODRIGUEZ-ITURBE I, 1984, WATER RESOUR RES, V20, P1611, DOI 10.1029/WR020i011p01611
+   Rosso R., 1990, AEGS, P23
+   Sherman CW, 1931, ASCE, V95, P951
+   SIVAPALAN M, 1987, WATER RESOUR RES, V23, P1289, DOI 10.1029/WR023i007p01289
+   SMITH JA, 1992, WATER RESOUR RES, V28, P2993, DOI 10.1029/92WR01718
+   Soro G E, 2010, Journal of Applied Sciences, V10, P704
+   SORO GE, 2008, EUR J SCI RES, V21, P394
+   Takara, 2005, REPORT DATA AVAILIAB
+   Van de Vyver H, 2010, HYDROLOG SCI J, V55, P555, DOI 10.1080/02626661003747390
+   Van Nguyen VT, 1996, ADV MODELING MANAGEM
+   Veneziano D., 1996, J GEOPHYS RES, V101, P371
+   Veneziano D., 2002, WATER RESOURCES RES, V38
+   WAYMIRE E, 1984, WATER RESOUR RES, V20, P1453, DOI 10.1029/WR020i010p01453
+   WAYMIRE E, 1981, WATER RESOUR RES, V17, P1261, DOI 10.1029/WR017i005p01261
+   Willems P, 2000, J HYDROL, V233, P189, DOI 10.1016/S0022-1694(00)00233-X
+   World Bank, 2009, REP STAT DIS RISK RE
+   Yu PS, 2004, J HYDROL, V295, P108, DOI 10.1016/j.jhydrol.2004.03.003
+   Zannou B. A., 2011, THESIS
+NR 58
+TC 2
+Z9 2
+U1 0
+U2 8
+PU UNIV NACIONAL DE COLOMBIA
+PI BOGOTA
+PA EDIFICIO MANUAL ANCIZAR AA, BOGOTA, 14490, COLOMBIA
+SN 1794-6190
+J9 EARTH SCI RES J
+JI Earth Sci. Res. J.
+PD MAR
+PY 2016
+VL 20
+IS 1
+BP D1
+EP D7
+DI 10.15446/esrj.v20n1.49405
+PG 7
+WC Geosciences, Multidisciplinary
+SC Geology
+GA DV2UN
+UT WOS:000382777500005
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT S
+AU Sudiarta, IN
+   Suardana, IW
+AF Sudiarta, I. Nyoman
+   Suardana, I. Wayan
+BE Siswanto, VK
+   Kurniawati, UF
+TI Tourism destination planning strategy: analysis and implementation of
+   marketing city tour in Bali
+SO CITIES 2015: INTELLIGENT PLANNING TOWARDS SMART CITIES
+SE Procedia Social and Behavioral Sciences
+LA English
+DT Proceedings Paper
+CT International Conference on Intelligent Planning Towards Smart City
+CY NOV 03-04, 2015
+CL Sepuluh Nopember Inst Technol, Dept Urban & Reg Planning, Surabaya,
+   INDONESIA
+HO Sepuluh Nopember Inst Technol, Dept Urban & Reg Planning
+DE planning strategy; tourism destination; city tour; analysis; marketing
+AB This study aims to investigate the characteristics of domestic tourists visiting Bali, the position of the competition among 12 tourist destinations in Bali and the preference of the tourists to twelfth tourist destinations in Bali. The research used purposive sampling methode with total sample of 100 who visited tourist attraction in Bali. The analyzed data used Multi Dimensional Scaling. Data were analyzed using descriptive statistical analysis Multidimensional Scaling. The result of analysis were characteristics of the respondents who visited 12 tourist attractions in Bali came from 27 cities in Indonesia. They were highly interested in Sanur and Kuta, followed by Nusa Dua and Jimbaran. The positions of tourist attractions could be grouped into four relative positions; two groups of tourist attractions were positioned to have similarities or proximities and two groups were positioned to be different or less similar. (C) 2016 The Authors. Published by Elsevier Ltd.
+C1 [Sudiarta, I. Nyoman; Suardana, I. Wayan] Udayana Univ, Fac Tourism, Denpasar 80225, Bali, Indonesia.
+RP Sudiarta, IN (reprint author), Udayana Univ, Fac Tourism, Denpasar 80225, Bali, Indonesia.
+EM sudiarta.nyoman@yahoo.co.id
+CR COOPER C, 1993, TOURISM PRNCIPLES PR
+   DANKELLER K, 2009, MANAJEMEN PEMASARAN
+   DOLNICAR S, 2002, ANAL INT CITY TOURIS
+   ECHTNER CM, 2003, J TOURISM STUDIES, V17, P37
+   Gunn C. A., 1994, TOURISM PLANNING BAS
+   Hair J., 1998, MULTIVARIATE DATA AN
+   Hall C. M., 2008, TOURISM PLANNING POL
+   HSU C., 2008, TOURISM MARKETING AS
+   Inskeep E., 1991, TOURISM PLANNING INT
+   Jennings G., 2001, TOURISM RES
+   Kotler P, 2000, MANAJEMEN PEMASARAN
+   Kotler P., 2010, MARKETING HOSPITALIT
+   Malhotra NK, 2002, BASIC MARKETING RES
+   MILL, 2012, THE TOURISM SYSTEM
+   MILL, 2009, THE TOURISM SYSTEM
+   Prideaux B, 2006, MANAGING TOURISM AND HOSPITALITY SERVICES: THEORY AND INTERNATIONAL APPLICATIONS, P1, DOI 10.1079/9781845930127.0000
+   Ritchie J. R. B., 2010, REV ADM PUBLICA, V44, P1049
+   Santoso S, 2011, STRUCTURAL EQUATION
+   TJIPTONO F, 1997, STRATEGI PEMASARAN
+   *UNWTO, 2012, WORLD TOUR BAR, V10
+   Veal A. J., 2002, LEISURE TOURISM POLI
+   Wijaya Tony, 2010, THESIS
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-0428
+J9 PROCD SOC BEHV
+PY 2016
+VL 227
+BP 664
+EP 670
+DI 10.1016/j.sbspro.2016.06.130
+PG 7
+WC Urban Studies
+SC Urban Studies
+GA BG2DO
+UT WOS:000387276800090
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Cesaretti, R
+   Lobo, J
+   Bettencourt, LMA
+   Ortman, SG
+   Smith, ME
+AF Cesaretti, Rudolf
+   Lobo, Jose
+   Bettencourt, Luis M. A.
+   Ortman, Scott G.
+   Smith, Michael E.
+TI Population-Area Relationship for Medieval European Cities
+SO PLOS ONE
+LA English
+DT Article
+ID ENGLAND; INSTITUTIONS; MERCHANTS; ECONOMY; GROWTH
+AB Medieval European urbanization presents a line of continuity between earlier cities and modern European urban systems. Yet, many of the spatial, political and economic features of medieval European cities were particular to the Middle Ages, and subsequently changed over the Early Modern Period and Industrial Revolution. There is a long tradition of demographic studies estimating the population sizes of medieval European cities, and comparative analyses of these data have shed much light on the long-term evolution of urban systems. However, the next step-to systematically relate the population size of these cities to their spatial and socioeconomic characteristics-has seldom been taken. This raises a series of interesting questions, as both modern and ancient cities have been observed to obey area-population relationships predicted by settlement scaling theory. To address these questions, we analyze a new dataset for the settled area and population of 173 European cities from the early fourteenth century to determine the relationship between population and settled area. To interpret this data, we develop two related models that lead to differing predictions regarding the quantitative form of the population-area relationship, depending on the level of social mixing present in these cities. Our empirical estimates of model parameters show a strong densification of cities with city population size, consistent with patterns in contemporary cities. Although social life in medieval Europe was orchestrated by hierarchical institutions (e.g., guilds, church, municipal organizations), our results show no statistically significant influence of these institutions on agglomeration effects. The similarities between the empirical patterns of settlement relating area to population observed here support the hypothesis that cities throughout history share common principles of organization that self-consistently relate their socioeconomic networks to structured urban spaces.
+C1 [Cesaretti, Rudolf; Smith, Michael E.] Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ 85281 USA.
+   [Lobo, Jose] Arizona State Univ, Sch Sustainabil, Tempe, AZ 85281 USA.
+   [Bettencourt, Luis M. A.; Ortman, Scott G.] Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.
+   [Ortman, Scott G.] Univ Colorado Boulder, Dept Anthropol, Boulder, CO 80309 USA.
+RP Cesaretti, R (reprint author), Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ 85281 USA.
+EM Rudolf.Cesaretti@asu.edu
+OI Cesaretti, Rudolf/0000-0002-7003-1211
+FU Arizona State University Santa Fe Institute Center for Biosocial Complex
+   Systems; Scott Ortman's James S. McDonnell Foundation [220020438]; Luis
+   Bettencourt's John Templeton Foundation [15705]
+FX The (joint) Arizona State University Santa Fe Institute Center for
+   Biosocial Complex Systems funded Rudolf Cesaretti's data collection and
+   analysis, and preparation of the manuscript, through a Research
+   Assistantship. Scott Ortman's James S. McDonnell Foundation Grant (grant
+   #220020438; www.jsmf.org) assisted in this ongoing research program and
+   paid for publication fees. This research builds off of work undertaken
+   via Luis Bettencourt's John Templeton Foundation Grant (grant #15705;
+   www.templeton.org), and therefore assisted in making this research a
+   reality.
+CR Abu Lughod Janet L., 1989, EUROPEAN HEGEMONY WO
+   Allen P, 1996, CITIES REGIONS SELF
+   Allen Robert C, 2009, BRIT IND REVOLUTION
+   Alonso W, 1964, LOCATION LAND USE
+   Ammann H, 1969, STADT MITTELALTERS, P408
+   Bairoch P, 1991, CITIES EC DEV DAWN H
+   Bairoch P., 1988, POPULATION VILLES EU
+   Balchin PN, 2008, URBAN DEV RENAISSANC
+   Barley MW, 1976, PLANS TOPOGRAPHY MED, P57
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Bellavitis Anna, 2004, ITALY AGE RENAISSANC, P184
+   Beloch KJ, 1961, BEVOLKERUNGSGESCHICH
+   Beresford M W, 1967, NEW TOWNS MIDDLE AGE
+   Bettencourt LMA, 2013, 201301004 SANT FE I
+   Bettencourt LMA, 2015, 201506020 SANT FE I
+   Bettencourt LMA, 2013, 1301004 SANT FE I
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Blockmans W, 2008, NEW CAMBRIDGE MEDIEV, VV, P405
+   Braudel F., 1979, WHEELS COMMERCE
+   Braudel F, 1979, PERSPECTIVE WORLD
+   Braudel F, 1979, STRUCTURE EVERYDAY L
+   Bretagnolle A, 1997, EUROPEAN J GEOGRAPHY, V61
+   Britnell R., 2000, TRADE URBAN HINTERLA
+   BRITNELL RH, 1991, ECON HIST REV, V44, P21
+   Britnell RH, 2000, CAMBRIDGE URBAN HIST, VI, P313
+   Britnell RH, 1993, COMMERCIALIZATION EN
+   Britnell RH, 2000, CAMBRIDGE URBAN HIST, VI, P105
+   Caille J, 1998, URBAN RURAL COMMUNIT, P51
+   Campbell B. M. S., 1993, MEDIEVAL CAPITAL ITS
+   Campbell BMS, 2008, ECON HIST REV, V61, P896, DOI 10.1111/j.1468-0289.2007.00407.x
+   Carpentier E., 1996, FRANCE 11 15 SIECLE
+   Carter Harold, 1983, INTRO URBAN HIST GEO
+   Challier MCT, 2011, REV EUROP STUD, V3, P13
+   Chandler Tertius, 1987, 4000 YEARS URBAN GRO
+   Clark D., 2003, URBAN WORLD GLOBAL C
+   Clark P., 2009, EUROPEAN CITIES TOWN
+   Conzen MRG, 2004, THINKING URBAN FORM
+   Cox E, 2008, NEW CAMBRIDGE MEDIEV, VV, P358
+   CREIGHTON O, 2005, MEDIEVAL TOWN WALLS
+   Cuenca Esteban J, 2004, EXCEPTIONALISM IND B
+   Davids K, 2014, INNOVATION AND CREATIVITY IN LATE MEDIEVAL AND EARLY MODERN EUROPEAN CITIES, P1
+   DE VRIES J., 1984, EUROPEAN URBANIZATIO
+   DELONG JB, 1993, J LAW ECON, V36, P671, DOI 10.1086/467294
+   Dobson B, 2000, CAMBRIDGE URBAN HIST, VI, P273
+   Duranton G., 2004, HDB REGIONAL URBAN E, V4, P2063, DOI DOI 10.1016/S1574-0080(04)80005-1
+   Dyer A, 2000, CAMBRIDGE URBAN HIST, VI, P741
+   Dyer C. C., 2000, CAMBRIDGE URBAN HIST, VI, P505
+   Edwards J, 2012, EXPLOR ECON HIST, V49, P131, DOI 10.1016/j.eeh.2011.12.002
+   Engels F, 1952, CONDITION WORKING CL
+   EPSTEIN SR, 1993, ECON HIST REV, V46, P453
+   Epstein Steven A., 1991, WAGE LABOR GUILDS ME
+   Fenwick C., 1998, POLL TAXES 1377 1379
+   Franco Franceschi, 2004, ITALY AGE RENAISSANC, P124
+   Fujita M, 2001, SPATIAL EC CITIES RE
+   Geremek Bronislaw, 1987, MARGINS SOC LATE MED
+   Gies J, 1969, LIFE MEDIEVAL CITY
+   Glaeser EL, 2004, PAP REG SCI, V83, P197, DOI 10.1007/s10110-003-0183-x
+   Glasscock REE, 1975, LAY SUBSIDY 1334
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   HADWIN JF, 1983, ECON HIST REV, V36, P200
+   Haggett P., 1969, NETWORK ANAL GEOGRAP
+   Hauser PM, 1965, STUDY URBANIZATION
+   Heers J., 1990, VILLE MOYEN AGE OCCI
+   Henrich J, 2016, SECRET OF OUR SUCCESS: HOW CULTURE IS DRIVING HUMAN EVOLUTION, DOMESTICATING OUR SPECIES, AND MAKING US SMARTER, P1
+   Hilton RH, 1995, ENGLISH FRENCH TOWNS
+   Jones CI, 2010, AM ECON J-MACROECON, V2, P224, DOI 10.1257/mac.2.1.224
+   Jordan WC, 2008, NEW CAMBRIDGE MEDIEV, VV, P279
+   Jordan William Chester, 1996, GREAT FAMINE NO EURO
+   Kander A., 2014, POWER PEOPLE ENERGY
+   Keene D, 2000, CAMBRIDGE URBAN HIST, P187
+   Keene DJ, 1976, PLANS TOPOGRAPHY MED, P71
+   Kent D., 2004, ITALY AGE RENAISSANC, P165
+   Kermode J., 2000, CAMBRIDGE URBAN HIST, VI, P441
+   King D. J, 1983, CASTELLARIUM ANGLICA
+   Klasen S, 2006, J POPUL ECON, V19, P611, DOI 10.1007/s00148-005-0031-1
+   Kriedte Peter, 1981, IND IND RURAL IND GE
+   Lenski Gerhard E, 1966, POWER PRIVILEGE THEO
+   Lilley K., 2000, TOWNS IN DECLINE AD, P235
+   Lilley K D, 2002, URBAN LIFE MIDDLE AG
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Lopez Robert S., 1971, COMMERCIAL REVOLUTIO
+   Malanima P, 2005, ITALIAN URBAN POPULA, P1300
+   Malanima P, 2012, AGRARIAN CHANGE CRIS
+   Malanima P, 2009, JB GESCH LANDLICHEN, P18
+   Malanima P, 2005, EUR REV ECON HIST, V9, P97, DOI 10.1017/S1361491604001327
+   Martines L, 1988, POWER IMAGINATION CI
+   MENDELS FF, 1972, J ECON HIST, V32, P241, DOI 10.1017/S0022050700075495
+   Michaud F, 1998, URBAN RURAL COMMUNIT, P275
+   Mokyr J., 1992, LEVER RICHES TECHNOL
+   Mols R, 1955, INTRO DEMOGRAPHIE HI, VII
+   MOLS Roger, 1954, INTRO DEMOGRAPHIE HI
+   Munro JH, 2012, STUDIES MEDIEVAL REN, V3, P45
+   Nicholas D, 1987, METAMORPHOSIS MEDIEV
+   Nicholas D., 1997, LATER MEDIEVAL CITY
+   Nicholas D, 1997, GROWTH MEDIEVAL CITY
+   Nicholas D., 1992, MEDIEVAL FLANDERS
+   Nicholas David, 2003, URBAN EUROPE 1100 17
+   Nightingale P, 2000, PAST PRESENT, P36
+   Nightingale P, 2002, WORD IMAGE NUMBER CO
+   Nightingale P., 2002, CREDIT DEBT MEDIEVAL, P89
+   Nightingale P., 2004, MEDIEVAL MONEY MATTE, P51
+   Nightingale P., 2000, TRADE URBAN HINTERLA, P83
+   O'Sullivan A, 2011, URBAN EC
+   Ogilvie S, 1996, PROTOINDUSTRIALIZATI
+   Ogilvie S, 2014, J ECON PERSPECT, V28, P169, DOI 10.1257/jep.28.4.169
+   Ortman SG, 2016, J ARCHAEOL SCI, V73, P94, DOI 10.1016/j.jas.2016.07.012
+   Ortman SG, 2015, SCI ADV, V1, DOI 10.1126/sciadv.1400066
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   Palliser D. M., 2000, CAMBRIDGE URBAN HIST, VI, P600
+   Paulus F, 2006, CYBERGEO EUROPEAN J
+   Pirenne H, 1927, VILLES MOYEN AGE ESS
+   Pirenne H, 1946, MEDIEVAL CITIES THEI
+   Pirenne Henry, 1937, EC SOCIAL HIST MEDIE
+   Postan MM, 1972, MEDIEVAL EC SOC EC H
+   Pounds N., 2005, THE MEDIEVAL CITY
+   Pumain D., 2000, GEOGR ANN B, V82B, P73, DOI [10.1111/1468-0467.00075, DOI 10.1111/J.0435-3684.2000.00075.X]
+   R Core Team, 2015, R LANG ENV STAT COMP
+   Rawcliffe Carole, 2004, MEDIEVAL NORWICH, P157
+   Reyerson K, 1998, URBAN RURAL COMMUNIT, P253
+   Rigby SH, 2000, CAMBRIDGE URBAN HIST, VI
+   Rollo-Koster J, 1998, URBAN RURAL COMMUNIT, P73
+   RUSSELL JC, 1948, BRIT MEDIEVAL POPULA
+   Russell Josiah Cox, 1972, MEDIEVAL REGIONS THE
+   Rutledge E, 1995, URBAN HIST, V22, P7
+   Rutledge E., 1988, URBAN HIST, P15
+   SCHOFIELD J., 2000, CAMBRIDGE URBAN HIST, P371
+   Schofield J, 2003, MEDIEVAL TOWNS ARCHA
+   Shapiro C, 1999, INFORM RULES STRATEG
+   Sjoberg Gideon, 1960, PREINDUSTRIAL CITY P
+   Spufford P, 2003, POWER PROFIT MERCHAN
+   Strange W, 2008, NEW PALGRAVE DICT EC
+   Thunen J. H. von, 1966, ISOLATED STATE ENGLI
+   Tonnies F, 1887, GEMEINSCHAFT GESELLS
+   Van Bavel B. J. P., 2010, MANORS MARKETS EC SO
+   Wallerstein I., 1989, 2 ERA GREAT EXPANSIO
+   Weber M, 1968, CITY
+   Weber M., 1964, WIRTSCHAFT GESELLSCH
+   Weber Max, 1978, EC SOC OUTLINE INTER
+   White R., 2015, MODELING CITIES REGI
+   Williamson Oliver E., 1991, NATURE FIRM ORIGINS
+   Wolfe M, 2009, WALLED TOWNS AND THE SHAPING OF FRANCE: FROM THE MEDIEVAL TO THE EARLY MODERN ERA, P1, DOI 10.1057/9780230101128
+   Wrigley E. A., 2010, ENERGY ENGLISH IND R
+   Wrigley E. A., 2004, POVERTY PROGR POPULA
+   Zeileis A, 2005, J STAT SOFTW, V14
+   Zorzi Andrea, 2004, ITALY AGE RENAISSANC, P145
+NR 146
+TC 8
+Z9 8
+U1 1
+U2 12
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 5
+PY 2016
+VL 11
+IS 10
+AR e0162678
+DI 10.1371/journal.pone.0162678
+PG 27
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DZ2UN
+UT WOS:000385697200019
+PM 27706192
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Hanley, QS
+   Lewis, D
+   Ribeiro, HV
+AF Hanley, Quentin S.
+   Lewis, Dan
+   Ribeiro, Haroldo V.
+TI Rural to Urban Population Density Scaling of Crime and Property
+   Transactions in English and Welsh Parliamentary Constituencies (vol 11,
+   e0149546, 2016)
+SO PLOS ONE
+LA English
+DT Correction
+RI Ribeiro, Haroldo/C-8614-2012
+OI Ribeiro, Haroldo/0000-0002-9532-5195; Hanley,
+   Quentin/0000-0002-8189-9550
+CR Hanley QS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149546
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 3
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 2
+PY 2016
+VL 11
+IS 12
+AR e0167605
+DI 10.1371/journal.pone.0167605
+PG 1
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EE3TF
+UT WOS:000389520600046
+PM 27911927
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Conti, R
+   Pezzolesi, L
+   Pistocchi, R
+   Torri, C
+   Massoli, P
+   Fabbri, D
+AF Conti, Roberto
+   Pezzolesi, Laura
+   Pistocchi, Rossella
+   Torri, Cristian
+   Massoli, Patrizio
+   Fabbri, Daniele
+TI Photobioreactor cultivation and catalytic pyrolysis of the microalga
+   Desmodesmus communis (Chlorophyceae) for hydrocarbons production by
+   HZSM-5 zeolite cracking
+SO BIORESOURCE TECHNOLOGY
+LA English
+DT Article
+DE Desmodesmus communis; Catalytic pyrolysis; HZSM-5; Py-GC-MS; Column
+   photobioreactor
+ID URBAN WASTE-WATER; SCENEDESMUS-OBLIQUUS; PROTEINACEOUS BIOMASS;
+   FLUIDIZED-BED; NITROGEN; ALGAE; OIL; REMOVAL; FUELS; TEMPERATURE
+AB The study evaluated the growth of Desmodesmus communis on column photobioreactor and its thermo-chemical treatment by catalytic pyrolysis using HZSM-5 zeolite. D. communis showed good results in terms of growth (0.05g L-1 d(-1)). Analytical pyrolysis of original algae and derived bio-oil mixed with zeolite was used as a screening method in order to gather information on the cracking process. Preparative pyrolysis on bench scale reactor was performed on algae biomass over a zeolite bed at 1:10 ratio (wt/wt). Py-GC-MS of biomass/catalyst mixture showed that the denitrogenation/deoxygenation increased with increasing zeolite load from 1:5 to 1:20 ratio and became significant at 1:10 ratio. The composition observed by analytical pyrolysis was featured by the predominance of alkylated monoaromatic hydrocarbons. The scaling-up to bench scale confirmed the results obtained with analytical pyrolysis in terms of monoaromatic hydrocarbons. However, low yield of catalytic oil (8% by weight) was observed. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Conti, Roberto; Pistocchi, Rossella; Torri, Cristian; Fabbri, Daniele] Univ Bologna, Ctr Interdipartimentale Ric Ind, Energia Ambiente, Via St Alberto 163, I-48123 Ravenna, Italy.
+   [Pezzolesi, Laura; Pistocchi, Rossella] Univ Bologna, Dipartimento Sci Biol Geol & Ambientali BiGeA, Via St Alberto 163, I-48123 Ravenna, Italy.
+   [Torri, Cristian; Fabbri, Daniele] Univ Bologna, Dipartimento Chim Giacomo Ciamician, Via Selmi 2, I-40126 Bologna, Italy.
+   [Massoli, Patrizio] CNR, Ist Motori, Via Marconi 8, I-80125 Naples, Italy.
+RP Conti, R (reprint author), Univ Bologna, Ctr Interdipartimentale Ric Ind, Energia Ambiente, Via St Alberto 163, I-48123 Ravenna, Italy.
+EM roberto.conti5@unibo.it
+RI Torri, Cristian/A-2769-2011
+OI Torri, Cristian/0000-0001-5233-6786; PISTOCCHI,
+   ROSSELLA/0000-0003-1304-6270; Conti, Roberto/0000-0001-5617-7559; Conti,
+   Rena/0000-0002-4190-1839; PEZZOLESI, LAURA/0000-0002-6260-2715
+FU Italian Ministry of Economic Development of the program Agreement
+   MISE-CNR "Ricerca di Sistema Elettrico"
+FX This research was partially supported by the Italian Ministry of
+   Economic Development of the program Agreement MISE-CNR "Ricerca di
+   Sistema Elettrico".
+CR Anand V, 2016, J ANAL APPL PYROL, V118, P298, DOI 10.1016/j.jaap.2016.02.013
+   Arumugam M, 2013, BIORESOURCE TECHNOL, V131, P246, DOI 10.1016/j.biortech.2012.12.159
+   Babich IV, 2011, BIOMASS BIOENERG, V35, P3199, DOI 10.1016/j.biombioe.2011.04.043
+   Barreiro DL, 2013, BIOMASS BIOENERG, V53, P113, DOI 10.1016/j.biombioe.2012.12.029
+   Basu S, 2015, ALGAL RES, V12, P249, DOI 10.1016/j.algal.2015.09.010
+   Blokker P, 1998, ORG GEOCHEM, V29, P1453, DOI 10.1016/S0146-6380(98)00111-9
+   Cabello J, 2015, BIORESOURCE TECHNOL, V181, P128, DOI 10.1016/j.biortech.2015.01.034
+   Carlson TR, 2008, CHEMSUSCHEM, V1, P397, DOI 10.1002/cssc.200800018
+   Chagas BME, 2016, FUEL, V179, P124, DOI 10.1016/j.fuel.2016.03.076
+   Chen WH, 2015, BIORESOURCE TECHNOL, V184, P314, DOI 10.1016/j.biortech.2014.11.050
+   Chen WH, 2014, BIORESOURCE TECHNOL, V169, P258, DOI 10.1016/j.biortech.2014.06.086
+   Chen Y, 2015, RSC ADV, V5, P18673, DOI 10.1039/c4ra13359e
+   CHIAVARI G, 1992, J ANAL APPL PYROL, V24, P123, DOI 10.1016/0165-2370(92)85024-F
+   Diaz-Rey MR, 2015, CATAL TODAY, V257, P177, DOI 10.1016/j.cattod.201.04.035
+   Du ZY, 2013, BIORESOURCE TECHNOL, V130, P777, DOI 10.1016/j.biortech.2012.12.115
+   Du ZY, 2012, BIORESOURCE TECHNOL, V120, P13, DOI 10.1016/j.biortech.2012.06.007
+   Fabbri D, 2007, FUEL, V86, P690, DOI 10.1016/j.fuel.2006.09.003
+   Fabbri D, 2012, J ANAL APPL PYROL, V95, P145, DOI 10.1016/j.jaap.2012.02.001
+   French R, 2010, FUEL PROCESS TECHNOL, V91, P25, DOI 10.1016/j.fuproc.2009.08.011
+   Harman-Ware AE, 2013, RENEW ENERG, V60, P625, DOI 10.1016/j.renene.2013.06.016
+   Iliopoulou EF, 2014, GREEN CHEM, V16, P662, DOI 10.1039/c3gc41575a
+   Jae J, 2011, J CATAL, V279, P257, DOI 10.1016/j.jcat.2011.01.019
+   Kim SW, 2014, BIORESOURCE TECHNOL, V162, P96, DOI 10.1016/j.biortech.2014.03.136
+   Knicker H, 2010, ORG GEOCHEM, V41, P947, DOI 10.1016/j.orggeochem.2010.04.007
+   Li X, 2010, ECOL ENG, V36, P379, DOI 10.1016/j.ecoleng.2009.11.003
+   Lin QA, 2011, BIORESOURCE TECHNOL, V102, P1615, DOI 10.1016/j.biortech.2010.09.008
+   Lorenzetti C, 2016, FUEL, V166, P446, DOI 10.1016/j.fuel.2015.10.051
+   Mandal S, 2011, APPL ENVIRON MICROB, V77, P374, DOI 10.1128/AEM.01205-10
+   Mante OD, 2014, GREEN CHEM, V16, P3364, DOI 10.1039/c4gc00555d
+   Marcilla A, 2008, MICROPOR MESOPOR MAT, V109, P420, DOI 10.1016/j.micromeso.2007.05.040
+   Martinez ME, 2000, BIORESOURCE TECHNOL, V73, P263, DOI 10.1016/S0960-8524(99)00121-2
+   Mukarakate C, 2014, GREEN CHEM, V16, P1444, DOI 10.1039/c3gc42065e
+   Mullen CA, 2010, FUEL PROCESS TECHNOL, V91, P1446, DOI 10.1016/j.fuproc.2010.05.022
+   Naik SN, 2010, RENEW SUST ENERG REV, V14, P578, DOI 10.1016/j.rser.2009.10.003
+   Obeid W, 2015, ORG GEOCHEM, V85, P89, DOI 10.1016/j.orggeochem.2015.04.001
+   Pan P, 2010, BIORESOURCE TECHNOL, V101, P4593, DOI 10.1016/j.biortech.2010.01.070
+   PATTERSON GW, 1971, LIPIDS, V6, P120, DOI 10.1007/BF02531327
+   Pegallapati AK, 2013, RENEW ENERG, V56, P129, DOI 10.1016/j.renene.2012.09.052
+   Rathmann R, 2010, RENEW ENERG, V35, P14, DOI 10.1016/j.renene.2009.02.025
+   Samori G, 2014, APPL BIOCHEM BIOTECH, V173, P74, DOI 10.1007/s12010-014-0792-7
+   Samori C, 2013, GREEN CHEM, V15, P353, DOI 10.1039/c2gc36730k
+   Samori G, 2013, WATER RES, V47, P791, DOI 10.1016/j.watres.2012.11.006
+   Thangalazhy-Gopakumar S, 2012, BIORESOURCE TECHNOL, V118, P150, DOI 10.1016/j.biortech.2012.05.080
+   Torri C, 2012, ENERG FUEL, V26, P658, DOI 10.1021/ef201417e
+   Torri C, 2010, J ANAL APPL PYROL, V88, P7, DOI 10.1016/j.jaap.2010.02.005
+   Vitolo S, 1999, FUEL, V78, P1147, DOI 10.1016/S0016-2361(99)00045-9
+   Wang KG, 2013, GREEN CHEM, V15, P675, DOI 10.1039/c3gc00031a
+   WILLIAMS PT, 1994, BIOMASS BIOENERG, V7, P223, DOI 10.1016/0961-9534(94)00064-Z
+   Yoo C, 2010, BIORESOURCE TECHNOL, V101, pS71, DOI 10.1016/j.biortech.2009.03.030
+   Zhao GL, 2012, BIORESOURCE TECHNOL, V114, P466, DOI 10.1016/j.biortech.2012.02.129
+NR 50
+TC 2
+Z9 2
+U1 3
+U2 22
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0960-8524
+EI 1873-2976
+J9 BIORESOURCE TECHNOL
+JI Bioresour. Technol.
+PD DEC
+PY 2016
+VL 222
+BP 148
+EP 155
+DI 10.1016/j.biortech.2016.10.002
+PG 8
+WC Agricultural Engineering; Biotechnology & Applied Microbiology; Energy &
+   Fuels
+SC Agriculture; Biotechnology & Applied Microbiology; Energy & Fuels
+GA DZ9ZV
+UT WOS:000386243600018
+PM 27721094
+DA 2019-03-26
+ER

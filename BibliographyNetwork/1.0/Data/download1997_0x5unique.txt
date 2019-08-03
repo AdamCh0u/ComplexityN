@@ -1,0 +1,314 @@
+
+PT B
+AU Bertero, VV
+AF Bertero, VV
+BE Fajfar, P
+   Krawinkler, H
+TI Performance-based seismic engineering: A critical review of proposed
+   guidelines
+SO SEISMIC DESIGN METHODOLOGIES FOR THE NEXT GENERATION OF CODES
+LA English
+DT Proceedings Paper
+CT International Workshop on Seismic Design Methodologies for the Next
+   Generation of Codes
+CY JUN 24-27, 1997
+CL BLED, SLOVENIA
+SP US Slovenian Joint Board Sci & Technol Cooperat, US Natl Sci Fdn, US Natl Inst Stand & Technol, Republ Slovenia, Min Sci & Technol, Univ Ljubljana, Slovenian Acad Sci & Arts, Republ Slovenia, Min Environm & Phys Planning, World Seismic Safety Initat, Kinemetr, Slovenian Natl Bldg, Civil Engn Inst, IMOS, SGP Primorje
+AB In the introduction, this paper reviews the lessons learned from significant earthquakes that have recently occurred regarding the seismic risks in urban areas, concluding that these risks are increasing rather than decreasing and that one of the most effective ways to reverse such situation in future significant earthquakes that can occur under or near urban areas is through first the development of more reliable seismic standards and code provisions than those currently available, and then their stringent implementation for the complete engineering (design, construction, maintenance,and monitoring of the occupancy) of new civil engineering facilities and for the evaluation of the seismic vulnerability and upgrading of existing hazardous facilities. It is emphasized the need for a comprehensive approach for development and implementation of the next and more reliable generation of standards and codes which include consideration of all the aspects involved in the engineering of the earthquake-resistant facilities. A promising approach for such needed development is what has been proposed as Performance-Based Seismic Engineering (P-B SE). After a brief discussion of what is understood by P-B SE, this paper is devoted to its main objective - that is, first to present an overview of the main issues involved in the development of reliable P-B SE code provisions (that can be implemented effectively) and that the experts from each of the different areas should then discuss and collaborate in finding the solutions or at least address the directions toward their solutions. Emphasis is placed on the main issues involved in the development of new reliable methodologies for Performance-Based Earthquake-Resistant Design (P-B EO-RD) of new buildings and for the seismic upgrading of existing buildings. To facilitate the attainment of the above objectives, the paper presents a critical review of the first two resource documents that have been published in the USA regarding: (1) the development of a conceptual framework for P-B SE and the different methodologies that have been proposed for the application of such framework to the design, construction, and maintenance of new buildings, with emphasis on P-B EQ-RD of new buildings [SEAOC vision 2000 Committee Report, 1995]; and (2) on the NEHRP Guidelines for the Seismic Rehabilitation of Buildings [1996]. From this review the following main observations are made.
+   First, there is a need to recognize that the buildings are subjected not only to excitations due to the potential sources of seismic hazards but to other types of excitations which are acting before, during, and after the seismic excitations, thus it is proposed to change P-B SE and P-B EQ-RD with "Performance-Based Engineering (P-BE)" and "Performance-Based Design (P-BD)" when the seismic excitations are significant. The reason for the need to consider at the same time the critical combinations of all possible excitations that can act simultaneously with the seismic excitations is the fact that usually it is necessary to accept damage (inelastic behavior) under moderate and particulary major levels of EQ hazards whose prediction cannot be reliably obtained considering the effects of the different excitations independently. The effects of gravity excitations acting together with severe seismic excitations are discussed and illustrated through an example.
+   Secondly, there is a need for reaching an agreement regarding: first, on what is understood by P-BE by reviewing the definitions that have already been proposed and improving them until a concise but precise definition of P-BE is formulated and agreed upon; and then on what constitutes an optimal comprehensive conceptual framework for P-BE, and an efficient Performance Design Objective Matrix (PDOM), recommending that these be done in the light of the framework and PDOM proposed by the SEAOC Vision 2000 Committee. It is also pointed out the urgent need of complementing the formulations of the PDOM with a three dimensional chart which indicates the life-cycle costs for each performance design objective.
+   Thirdly, the role and importance of conducting a thorough and reliable Site Suitability Analysis (SSA) is something that has not been emphasized enough in the seismic codes that are presently enforced as well as in the new proposed conceptual framework and guidelines for P-BE. To conduct such analysis it is necessary to obtain the following information and make the following identifications: (I) site location and site conditions (soil profile and topography); (ii) identification of the seismic activity at the regions and site of the facility (locations of the EO sources, and EQ mechanisms); (iii) information of sources of potential hazards at the site and their damage potential; (iv) identification of the potential seismic hazards that may control EQ-RD at the different desired levels of building performance (limit states of mechanical behavior) [Earthquake Ground Motions(EQGMs), surface fault rupture, soil failures (liquefaction, landslides, lateral spreading, differential compaction, etc.), tsunamis, floods, fires, and other potential hazards that can be created by adjacent facilities]. There is a need to not only develop conceptual guidelines regarding how to conduct the SSA but also numerical methodologies to quantify such guidelines so a reliable decision can be made regarding the suitability of the selected site. Even in the case that the only important potential source of seismic hazards is the EQGMs, the current code methodology of using just a general acceleration response spectrum constructed by plotting mapped response acceleration parameters is not enough. There is a need for deriving response spectra for the Energy Input (E-1) and its associated energy parameters, and a more reliable microzonation of urban areas than those which are currently present.
+   Fourthly, for successful practical implementation of P-B EQ-RD and therefore P-BE, it is necessary first to improve not only the way that the PDOM is defined but also the reliability with which: the different performance levels (limit states) are quantified; and the so-called levels of design EQs are established and their demands on the entire building system are estimated. For the case that the main potential source of potential EQ hazards are due to the ground shaking (EQGMs) and that these can have different types of time history (from impulsive to periodic with long duration), it is of the utmost importance to recognize that these different types of EQGM time histories can result in completely different performance demands. These demands cannot be obtained from using just one specified general linear elastic pseudo-acceleration response spectrum from which the design spectra for all the different levels of design EQs can be obtained by just modifying (scaling) the given general response spectrum as it has been recommended in the NEHRP Guidelines. The need for considering the different types of time histories of the EQGMs and the use of energy concepts to formulate reliable design EQs are discussed in detail. Secondly, to facilitate the proper selection of the minimum performance design objectives (which should be made by the client in consultation with the designer or team of designers), it is highly desirable to prepare three-dimensional charts where the total expected life-cycle cost for each of the performance design objectives is plotted. Furthermore, it has to be made clear that for achieving a proper P-B EQ-RD it is necessary to consider for each EQ hazard (design) level, a desirable performance and no matter how the design is conducted (for one, two, three, or four performance design objectives), the acceptability checks (analyses) should be conducted for all the selected minimum performance design objectives. The proper selection of the performance design objectives is the key step in the conceptual framework for P-B EQ-RD because such selection sets the design criteria that should be followed throughout the entire design process.
+   Fifthly, there is a need to emphasize the importance of starting the EQ-RD process with an efficient conceptual overall design of the entire building system. To facilitate the achievement of such a conceptual design, it is necessary to formulate reliable guidelines. Although the Vision 2000 report contains certain guidelines, there is a need to improve them, particularly including guidelines that have been derived from stochastic studies of the importance of designing structures with overstrength, ductility, and redundancy and of their interdependence. From analysis of the results obtained in some of the studies that have been conducted, it is shown that in view of the large Coefficient of Variation (COV) in the estimation of the demands (particularly due to the uncertainties in predicting the time history of the critical EQGMs) to take advantage of the redundancy against the effects of the EQGMs it is necessary to provide the structure with high overstrength and ductility and/or to reduce as much as possible the COVs in the prediction of the demands. It is also highly desirable to formulate more reliable guidelines on how to select the configuration, structural layout, and particularly structural system, foundation, and non-structural components, considering from the start the advantages and disadvantages of using the conventional (or traditional) strategies or approaches to EQ-RD as well as the innovative strategies of controlling the response of the entire facility. It is recommended that these selections be based on Energy Concepts through the use of the Energy Balance Equation. A flowchart of the different approaches (strategies) and of the techniques and devices available is proposed to guide the selection of a proper strategy (system) and technique according to the type of critical EQGM controlling the design at each desired performance level.
+C1 Univ Calif Berkeley, Earthquake Engn Res Ctr, Berkeley, CA 94720 USA.
+RP Bertero, VV (reprint author), Univ Calif Berkeley, Earthquake Engn Res Ctr, Berkeley, CA 94720 USA.
+RI Johnson, Marilyn/E-7209-2011
+NR 0
+TC 14
+Z9 18
+U1 1
+U2 13
+PU A A BALKEMA PUBLISHERS
+PI LEIDEN
+PA SCHIPHOLWEG 107C, PO BOX 447, 2316 XC LEIDEN, NETHERLANDS
+BN 90-5410-928-9
+PY 1997
+BP 1
+EP 31
+PG 31
+WC Construction & Building Technology; Engineering, Civil; Engineering,
+   Geological
+SC Construction & Building Technology; Engineering
+GA BK68L
+UT WOS:000073075400001
+DA 2019-03-26
+ER
+
+PT J
+AU Kukkonen, J
+   Harkonen, J
+   Valkonen, E
+   Karppinen, A
+   Rantakrans, E
+AF Kukkonen, J
+   Harkonen, J
+   Valkonen, E
+   Karppinen, A
+   Rantakrans, E
+TI Regulatory dispersion modelling in Finland
+SO INTERNATIONAL JOURNAL OF ENVIRONMENT AND POLLUTION
+LA English
+DT Article; Proceedings Paper
+CT 4th Workshop on Harmonization with Atmospheric Dispersion Modelling for
+   Regulatory Purposes
+CY MAY 06-09, 1996
+CL OOSTENDE, BELGIUM
+SP Initiat Harmonizat Atmospher Dispers Modelling Regulatory Purposes
+DE car pollution; Finland; odorous compounds
+ID POLLUTION
+AB We present a review of regulatory atmospheric dispersion models and their application to environmental impact assessment (EIA) in Finland. The following regulatory models are available: the urban dispersion modelling system, models for dispersion of vehicular pollution, the air pollution information system, and the dispersion model for odorous compounds. All of these models are connected to a meteorological pre-processing model, based on atmospheric boundary-layer scaling. We will also discuss the application of these models in EIA, and the research needs for model development in general.
+C1 Finnish Meteorol Inst, FIN-00810 Helsinki, Finland.
+RP Kukkonen, J (reprint author), Finnish Meteorol Inst, Sahaajankatu 20 E, FIN-00810 Helsinki, Finland.
+RI Karppinen, Ari/J-9860-2013
+CR Benson P. E., 1984, FHWACATL8415 CAL DEP
+   BREMER P, 1995, P 10 WORLD CLEAN AIR, V2, P258
+   BREMER P, 1993, FINNISH METEORLOGICA, V15
+   HANNA SR, 1986, ATMOS ENVIRON, V20, P1131, DOI 10.1016/0004-6981(86)90145-9
+   HARKONEN J, 1995, INT J ENVIRON POLLUT, V5, P602
+   Harkonen J., 1996, FINNISH METEOROLOGIC, V23
+   HERTEL O, 1989, A131 DMU LUFT NAT EN
+   Hertel O, 1989, LUFTA129 DMU NAT ENV
+   HERTEL O, 1989, LUFTA135 DMU NAT ENV
+   ILVESSALO P, 1995, P 10 WORLD CLEAN AIR, V3, P527
+   KARPPINEN A, 1997, DISPERSION MODELLING
+   KUKKONEN J, 1995, P 10 WORLD CLEAN AIR, V2, P243
+   LUHAR AK, 1989, ATMOS ENVIRON, V23, P555, DOI 10.1016/0004-6981(89)90004-8
+   POHJOLA V, 1995, P 10 WORLD CLEAN AIR, V3, P518
+   SAVUNEN T, 1995, P 10 WORLD CLEAN AIR, V2, P267
+   VALKONEN E, 1995, INT J ENVIRON POLLUT, V5, P557
+   VALKONEN E, 1996, IN PRESS SCI TOTAL E
+   VANULDEN AP, 1985, J CLIM APPL METEOROL, V24, P1196, DOI 10.1175/1520-0450(1985)024<1196:EOABLP>2.0.CO;2
+   WALDEN J, 1995, P 10 WORLD CLEAN AIR, V2, P268
+   YAMARTINO RJ, 1986, ATMOS ENVIRON, V20, P2137, DOI 10.1016/0004-6981(86)90307-0
+NR 20
+TC 3
+Z9 3
+U1 0
+U2 0
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA AEROPORT
+PA WORLD TRADE CENTER BLDG 110 AVE LOUSIS CASAI CP 306, CH-1215 GENEVA
+   AEROPORT, SWITZERLAND
+SN 0957-4352
+J9 INT J ENVIRON POLLUT
+JI Int. J. Environ. Pollut.
+PY 1997
+VL 8
+IS 3-6
+BP 782
+EP 788
+PG 7
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA YU270
+UT WOS:000071699500062
+DA 2019-03-26
+ER
+
+PT J
+AU Rotach, MW
+   de Haan, P
+AF Rotach, MW
+   de Haan, P
+TI On the urban aspect of the Copenhagen dataset
+SO INTERNATIONAL JOURNAL OF ENVIRONMENT AND POLLUTION
+LA English
+DT Article; Proceedings Paper
+CT 4th Workshop on Harmonization with Atmospheric Dispersion Modelling for
+   Regulatory Purposes
+CY MAY 06-09, 1996
+CL OOSTENDE, BELGIUM
+SP Initiat Harmonizat Atmospher Dispers Modelling Regulatory Purposes
+DE rough surfaces; roughness sublayer; urban dispersion modelling; urban
+   turbulence
+ID TURBULENCE CHARACTERISTICS; SURFACE; MODEL; DISPERSION
+AB It was one of the findings from the model validation exercise during the third workshop 1994 in Mol that there was a common tendency for all models under consideration to underestimate the observed concentrations in the case of the Copenhagen dataset. It is argued here that this is due to the fact that this experiment was performed over a rough suburban surface. In such circumstances, a roughness sublayer covers the lower part of the surface layer wherein surface: layer scaling cannot be valid owing to the presence of roughness elements and the resulting disturbances of the flow. A two-dimensional (u and w) Lagrangian stochastic dispersion model is used to demonstrate the effect of the modified turbulence structure within the urban roughness sublayer for the example of the Copenhagen dataset. If a roughness sublayer is included by modifying the turbulence and flow structure in the lowest metres of the domain according to observed (urban) roughness sublayer characteristics, it is shown that the model performance is considerably improved. The overall performance measures (such as rms difference, fractional bias, etc.) become significantly better when taking the roughness sublayer into account. Similarly, it is shown that the evolution of ground-level concentrations with distance from the source is simulated more realistically for most of the individual experiments.
+C1 Swiss Fed Inst Technol GIETH, CH-8057 Zurich, Switzerland.
+RP Rotach, MW (reprint author), Swiss Fed Inst Technol GIETH, Winterthurerstr 190, CH-8057 Zurich, Switzerland.
+RI Rotach, Mathias/E-9938-2018; de Haan, Peter/B-8239-2008
+OI Rotach, Mathias/0000-0003-2283-309X; 
+CR BOWNE NE, 1970, J APPL METEOROL, V8, P1072
+   Brook R. R., 1972, Journal of Applied Meteorology, V11, P443, DOI 10.1175/1520-0450(1972)011<0443:TMOTIA>2.0.CO;2
+   Clarke C., 1982, 600S382062 EPA
+   GRYNING SE, 1984, J CLIM APPL METEOROL, V23, P651, DOI 10.1175/1520-0450(1984)023<0651:ADFESI>2.0.CO;2
+   HOGSTROM U, 1982, BOUND-LAY METEOROL, V23, P449, DOI 10.1007/BF00116272
+   OIKAWA S, 1995, BOUND-LAY METEOROL, V74, P289, DOI 10.1007/BF00712122
+   OLESEN HR, 1995, INT J ENVIRON POLLUT, V5, P761
+   RAUPACH MR, 1991, APPL MECH REV, V44, P1, DOI DOI 10.1115/1.3119492
+   Rotach MW, 1996, Q J ROY METEOR SOC, V122, P367, DOI 10.1002/qj
+   ROTACH MW, 1993, BOUND-LAY METEOROL, V65, P1, DOI 10.1007/BF00708816
+   ROTACH MW, 1993, BOUND-LAY METEOROL, V66, P75, DOI 10.1007/BF00705460
+   ROTACH MW, 1996, P C FLOW DISP GROUPS
+   ROTH M, 1993, Q J ROY METEOR SOC, V119, P1071, DOI 10.1256/smsqj.51310
+   STEYN DG, 1982, BOUND-LAY METEOROL, V22, P183, DOI 10.1007/BF00118252
+   TASSONE C, 1994, P 20 INT TECHN M AIR, P99
+NR 15
+TC 5
+Z9 5
+U1 0
+U2 0
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA AEROPORT
+PA WORLD TRADE CENTER BLDG 110 AVE LOUSIS CASAI CP 306, CH-1215 GENEVA
+   AEROPORT, SWITZERLAND
+SN 0957-4352
+J9 INT J ENVIRON POLLUT
+JI Int. J. Environ. Pollut.
+PY 1997
+VL 8
+IS 3-6
+BP 279
+EP 286
+PG 8
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA YU270
+UT WOS:000071699500006
+DA 2019-03-26
+ER
+
+PT J
+AU Rotach, MW
+AF Rotach, MW
+TI Towards a meteorological pre-processor for dispersion models in an urban
+   environment
+SO INTERNATIONAL JOURNAL OF ENVIRONMENT AND POLLUTION
+LA English
+DT Article; Proceedings Paper
+CT 4th Workshop on Harmonization with Atmospheric Dispersion Modelling for
+   Regulatory Purposes
+CY MAY 06-09, 1996
+CL OOSTENDE, BELGIUM
+SP Initiat Harmonizat Atmospher Dispers Modelling Regulatory Purposes
+DE dispersion modelling; rough surfaces; urban air pollution; urban
+   turbulence
+ID TURBULENCE CHARACTERISTICS; BOUNDARY-LAYER; SURFACE; STATISTICS; AREA
+AB The main results from an extensive observational study in an urban roughness sublayer are presented and discussed in view of possible applications in the context of meteorological pn-processing for dispersion modelling. These findings mainly concern the turbulence structure, the height variation of Reynolds stress, and the implications for scaling within the upper part of the roughness sublayer (i.e. above roof level). In order to estimate average flow and dispersion parameters closer to the surface (i.e. within the canopy) from information above roof level, characteristic scaled profiles extending down to about a mid canyon level may be used. Using the above information, a method to estimate meteorological parameters in an urban environment crucially depends on the knowledge of a friction velocity in the inertial sub-layer, i.e. at the upper end of the roughness sublayer. This can be inferred from on-site measurements within the roughness sublayer (if available) by using the height dependence of Reynolds stress, or by relating remote (e.g. airport) measurements to the urban surface using information on the different surface roughness. Once this friction velocity is established, the local scaling approach within the upper part of the roughness sublayer allows - in conjunction with the stress profile - the determination of dispersion parameters, such as the velocity variances at any height within the roughness sublayer above roof level. Finally, the characteristic scaled profiles may be used if information on dispersion parameters is required closer to the surface.
+C1 Swiss Fed Inst Technol, CH-8057 Zurich, Switzerland.
+RP Rotach, MW (reprint author), Swiss Fed Inst Technol, Winterthurerstr 190, CH-8057 Zurich, Switzerland.
+CR BOTTEMA M, 1995, 18 SUB MESO EC CENTR
+   Bowne N. E., 1970, J APPL METEOROL, V18, P1072
+   Brook R. R., 1972, Journal of Applied Meteorology, V11, P443, DOI 10.1175/1520-0450(1972)011<0443:TMOTIA>2.0.CO;2
+   Clarke C., 1982, 600S382062 EPA
+   GRYNING SE, 1984, J CLIM APPL METEOROL, V23, P651, DOI 10.1175/1520-0450(1984)023<0651:ADFESI>2.0.CO;2
+   HANNA SR, 1992, BOUND-LAY METEOROL, V58, P229, DOI 10.1007/BF02033826
+   HOGSTROM U, 1982, BOUND-LAY METEOROL, V23, P449, DOI 10.1007/BF00116272
+   LO AK, 1979, BOUND-LAY METEOROL, V17, P465, DOI 10.1007/BF00118611
+   OIKAWA S, 1995, BOUND-LAY METEOROL, V74, P289, DOI 10.1007/BF00712122
+   OKE TR, 1988, PROG PHYS GEOG, V12, P471, DOI 10.1177/030913338801200401
+   RAUPACH MR, 1989, PHILOS T ROY SOC B, V324, P175, DOI 10.1098/rstb.1989.0043
+   RAUPACH MR, 1991, APPL MECH REV, V44, P1, DOI DOI 10.1115/1.3119492
+   ROTACH MW, 1995, ATMOS ENVIRON, V29, P1473, DOI 10.1016/1352-2310(95)00084-C
+   ROTACH MW, 1993, BOUND-LAY METEOROL, V65, P1, DOI 10.1007/BF00708816
+   ROTACH MW, 1993, BOUND-LAY METEOROL, V66, P75, DOI 10.1007/BF00705460
+   ROTACH MW, 1994, BOUND-LAY METEOROL, V67, P187, DOI 10.1007/BF00705513
+   ROTACH MW, 1996, IN PRESS P C FLOW DI
+   ROTACH MW, 1991, THESIS ETH ZURICH
+   ROTH M, 1993, Q J ROY METEOR SOC, V119, P1105, DOI 10.1256/smsqj.51311
+   SCHMID HP, 1990, Q J ROY METEOR SOC, V116, P965, DOI 10.1002/qj.49711649409
+   SORBJAN Z, 1986, BOUND-LAY METEOROL, V34, P377, DOI 10.1007/BF00120989
+   STEYN DG, 1982, BOUND-LAY METEOROL, V22, P183, DOI 10.1007/BF00118252
+NR 22
+TC 5
+Z9 5
+U1 0
+U2 0
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA
+PA WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215
+   GENEVA, SWITZERLAND
+SN 0957-4352
+J9 INT J ENVIRON POLLUT
+JI Int. J. Environ. Pollut.
+PY 1997
+VL 8
+IS 3-6
+BP 548
+EP 556
+PG 9
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA YU270
+UT WOS:000071699500036
+DA 2019-03-26
+ER
+
+PT J
+AU Frankhauser, P
+AF Frankhauser, P
+TI The fractal approach. A new tool for the spatial analysis of urban
+   agglomerations
+SO POPULATION
+LA French
+DT Article
+AB Fractal geometry is a new approach for the study of spatial distributions. The basic model is a law of hierarchical distribution corresponding to Pareto's law which is familiar to urban geographers and demographers. The methods of fractal analysis can be used to study the spatial organization of human activities across scales. The regularities and the discontinuities in the distributions can then be identified. These discontinuities can be spatially situated. Applying this concept to urbanized areas has shown that districts can be defined and classified according to their scaling relations, thereby allowing development of a typology of locational patterns. This observation reveals the existence of a principle of self-similarity in land-use patterns. An examination of time series shows that despite the apparent Fragmentation of these urban tissues, : urbanization is often accompanied by structured development.
+   Subsequent research will need to employ complementary morphological measures, such as measures of space filling and of population distribution, which could be used to validate the simulation models based on fractal geometry.
+RP Frankhauser, P (reprint author), UNIV FRANCHE COMTE,32 RUE MEGEVAND,F-25030 BESANCON,FRANCE.
+OI Frankhauser, Pierre/0000-0001-6600-6972
+CR Appelby S., 1996, GEOGRAPHICAL ANAL
+   BATTY M, 1996, ENV PLANNING A, V28
+   Batty M., 1992, URBAN STUDIES, V29
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Brunet R., 1990, GEOGRAPHIE UNIVERSEL, V1
+   BUSSIERE R, 1981, SYSTEMES EVOLUTIFS U
+   Feder J, 1988, FRACTALS
+   Francois N., 1997, THESIS U PARIS 1
+   FRANCOIS N, 1995, ANN RECHERCHE URBAIN, V67
+   FRANKHAUSER P, 1996, ACT 22 C ASRDLF BERL
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   FRANKHAUSER P, 1994, REV EC POLITIQUE DYN
+   FRANKHAUSER P, 1996, THESIS U FRANCHE COM
+   FRANKHAUSER P, 1997, SPATIAL ANAL BIODEMO
+   GOUYET JF, 1992, PHYSIQUE STRUCTURES
+   GUERINPACE F, 1990, THESIS U PARIS 7
+   GUERINPACE F, 1995, ACT PREMIERES RECONT, P157
+   Le Bras H., 1993, PLANETE VILLAGE
+   MAKSE A, 1995, NATURE, P377
+   NICHOLIS G, 1985, Z VIERTE KATEGORIE K
+   Pumain D., 1989, ECONOMICA
+   Pumain D., 1982, ECONOMICA
+   REYMOND H, 1981, PROBLEMATIQUES GEOGR
+   SCHROEDER M, 1994, SPEKTRUM WISENSCHAFT
+   Vicsek T, 1989, FRACTAL GROWTH PHENO
+   Weidlich W, 1988, INTERREGIONAL MIGRAT
+   White R., 1994, CHAOS SOLITONS FRACT, V4
+   WHITE R, 1993, ENV PLANNING A, V25
+   White R., 1991, 7 EUR C THEOR QUANT
+   WHITE R, 1994, GEOGRAPHICAL SYSTEMS
+   WHITE RW, 1993, 8 EUR C THEOR QUANT
+   ZIELINSKI K, 1980, ENV PLANNING A, V12
+NR 32
+TC 13
+Z9 13
+U1 1
+U2 7
+PU INST NAT ETUD DEMOGRAPHIQUES
+PI PARIS CEDEX 14
+PA 27 RUE DU COMMANDEUR, 75675 PARIS CEDEX 14, FRANCE
+SN 0032-4663
+J9 POPULATION
+JI Population
+PD JUL-AUG
+PY 1997
+VL 52
+IS 4
+BP 1005
+EP 1040
+DI 10.2307/1534622
+PG 36
+WC Demography
+SC Demography
+GA YJ653
+UT WOS:A1997YJ65300009
+DA 2019-03-26
+ER

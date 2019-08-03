@@ -1,0 +1,448 @@
+
+PT S
+AU Nagaraj, S
+   Hsieh, F
+   Pengoria, D
+   Raghavendra, MR
+   Schamberger, M
+   Honig, M
+AF Nagaraj, Shirish
+   Hsieh, Frank
+   Pengoria, Deepak
+   Raghavendra, M. R.
+   Schamberger, Mark
+   Honig, Michael
+GP IEEE
+TI Coordinated Beamforming in Clustered HetNets: System Design and
+   Performance Evaluation
+SO 2014 IEEE WIRELESS COMMUNICATIONS AND NETWORKING CONFERENCE WORKSHOPS
+   (WCNCW)
+SE IEEE Wireless Communications and Networking Conference Workshops
+LA English
+DT Proceedings Paper
+CT IEEE Wireless Communications and Networking Conference (WCNC)
+CY APR 06-09, 2014
+CL Istanbul, TURKEY
+SP IEEE
+ID NETWORKS
+AB In this paper, we consider interference issues arising in HetNets where the small-cells are deployed in closely-spaced clusters. Such dense deployments pose an important challenge for scaling throughput proportional to the number of cells, since inter-cell interference becomes a key bottleneck for achieving high capacity. We examine key design issues around the use of coordinated beamforming (CBF) strategies for mitigating intersmall- cell interference in such clustered layouts. In particular, we show that system planning of the sounding reference signal (SRS), along with multi-user channel estimation approaches, are critical to realize the benefits of CBF. We also develop key notions of beneficiary sets and co-operative clusters for enabling such interference mitigation in cellular networks. Through extensive and detailed system simulations, we showcase the benefits of the proposed system designs for two use cases: (1) a dense urban Micro-cellular deployment, and (2) a clustered small-cell Stadium deployment. System parameter optimization of SRS power control and co-operative cluster size are also developed. Significant capacity gains are observed for both these deployments using the proposed system design in clustered small-cell topologies.
+C1 [Nagaraj, Shirish; Hsieh, Frank; Pengoria, Deepak; Raghavendra, M. R.; Schamberger, Mark] Nokia Solut & Networks, Arlington, IL 60004 USA.
+   [Honig, Michael] Northwestern Univ, Dept Elect & Comp Engn, Evanston, IL 60208 USA.
+RP Nagaraj, S (reprint author), Nokia Solut & Networks, Arlington, IL 60004 USA.
+EM shirish.nagaraj@nsn.com; mh@eecs.northwestern.edu
+CR Ayach O. E., 2012, ARXIV12064755V1
+   Cadambe V. R., 2008, IEEE T INF THEORY, V54
+   Codreanu M., 2007, IEEE T SIGNAL PROCES, V55
+   Gomadam K., 2011, IEEE T INF THEORY, V57
+   Gomadam K. S., 2008, IEEE GLOBECOM
+   Jose J, 2011, IEEE T WIREL COMMUN, V10, P2640, DOI 10.1109/TWC.2011.060711.101155
+   Khandekar A., 2010, P IEEE EUR WIR C APR
+   Peters S. W., 2010, ARXIV10020424V2
+   Sadek M., 2007, IEEE T WIRELESS COMM, V6
+   Schmidt DA, 2013, IEEE T SIGNAL PROCES, V61, P3476, DOI 10.1109/TSP.2013.2257761
+   Zhijun R., 2010, INT C BIOM ENG COMP, P1
+   Zhuang BN, 2011, INT CONF ACOUST SPEE, P3356
+NR 12
+TC 1
+Z9 1
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2167-8189
+BN 978-1-4799-3086-9
+J9 IEEE WIREL COMMUNN
+PY 2014
+BP 70
+EP +
+PG 2
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA BC0SH
+UT WOS:000349466400013
+DA 2019-03-26
+ER
+
+PT J
+AU Lagerkvist, CJ
+   Kokko, S
+   Karanja, N
+AF Lagerkvist, Carl Johan
+   Kokko, Suvi
+   Karanja, Nancy
+TI Health in perspective: framing motivational factors for personal
+   sanitation in urban slums in Nairobi, Kenya, using anchored best-worst
+   scaling
+SO JOURNAL OF WATER SANITATION AND HYGIENE FOR DEVELOPMENT
+LA English
+DT Article
+DE anchored best-worst scaling; factor importance; motivation; personal
+   sanitation; slums
+ID BAYESIAN-ANALYSIS; HYGIENE; DISGUST; DEMAND; MODELS
+AB Severe health, safety and environmental hazards are being created by the growing population of urban poor in low-income countries due to lack of access to sanitation and to inadequate existing sanitation systems. We developed a multi-faceted motivational framework to examine the constituents that explain user motivation regarding a personalised sanitation system. In 2012 we interviewed slum dwellers in Nairobi, Kenya, to estimate individual motivational factor importance rankings from anchored best-worst scaling (ABWS) using hierarchical Bayesian methods. We found that personal safety, avoidance of discomfort with shared toilets, cleanliness and convenience for children were ranked of highest importance. Motivational factors related to health were only relatively highly ranked. Thus factors contributing to overall individual wellbeing, beyond health benefits, drive adoption and use of the low-cost personal sanitation solution studied. This suggests that non-health benefits of low-cost sanitation solutions should be better acknowledged and communicated to raise awareness and encourage adoption of improved sanitation in urban slums. These findings may help develop policies to promote personal sanitation, improve public health and safety and reduce environmental risks.
+C1 [Lagerkvist, Carl Johan; Kokko, Suvi] Swedish Univ Agr Sci, Dept Econ, S-75007 Uppsala, Sweden.
+   [Karanja, Nancy] Univ Nairobi, Dept Land Resource Management & Agr Technol, Nairobi 00100, Kenya.
+RP Lagerkvist, CJ (reprint author), Swedish Univ Agr Sci, Dept Econ, POB 7013, S-75007 Uppsala, Sweden.
+EM carl-johan.lagerkvist@slu.se
+OI Lagerkvist, Carl Johan/0000-0003-1191-9445
+FU Swedish University of Agricultural Sciences
+FX Senior authorship is shared by Carl Johan Lagerkvist and Suvi Kokko.
+   This research was funded by core research funding from the Swedish
+   University of Agricultural Sciences.
+CR Aiello A.E., 2008, AM J INFECT CONTROL, V36, P128
+   Amnesty International, 2010, RISK RAP REACH TOIL
+   Biran A, 2011, TROP MED INT HEALTH, V16, P854, DOI 10.1111/j.1365-3156.2011.02764.x
+   Cairncross S., 1992, SANITATION WATER SUP
+   Carolini GY, 2012, AM J PUBLIC HEALTH, V102, P256, DOI 10.2105/AJPH.2011.300399
+   Curtis V, 2001, PERSPECT BIOL MED, V44, P17, DOI 10.1353/pbm.2001.0001
+   Dangert J-O, 2004, ECOSANRES PUBLICATIO
+   Dellstrom Rosenqvist L. E, 2005, J ENVIRON PSYCHOL, V25, P335
+   Flynn TN, 2007, J HEALTH ECON, V26, P171, DOI 10.1016/j.jhealeco.2006.04.002
+   HAUSER JR, 1978, OPER RES, V26, P406, DOI 10.1287/opre.26.3.406
+   Isunju JB, 2011, PUBLIC HEALTH, V125, P368, DOI 10.1016/j.puhe.2011.03.008
+   Jenkins M. W., 2006, RETHINKING SANITATIO
+   Jenkins MW, 2007, SOC SCI MED, V64, P2427, DOI 10.1016/j.socscimed.2007.03.010
+   Jenkins MW, 2005, SOC SCI MED, V61, P2446, DOI 10.1016/j.socscimed.2005.04.036
+   Joshi D, 2011, ENVIRON URBAN, V23, P91, DOI 10.1177/0956247811398602
+   Katukiza AY, 2010, SCI TOTAL ENVIRON, V409, P52, DOI 10.1016/j.scitotenv.2010.09.032
+   Kenya National Bureau of Statistics, 2010, KEN POP HOUS CENS
+   Lagerkvist CJ, 2012, FOOD QUAL PREFER, V25, P29, DOI 10.1016/j.foodqual.2012.01.002
+   Marley AAJ, 2005, J MATH PSYCHOL, V49, P464, DOI 10.1016/j.jmp.2005.05.003
+   Peepoople, 2012, URB SLUMS
+   Phillips ML, 1998, BRIT J PSYCHIAT, V172, P373, DOI 10.1192/bjp.172.5.373
+   Potoglou D, 2011, SOC SCI MED, V72, P1717, DOI 10.1016/j.socscimed.2011.03.027
+   Seaman SR, 2001, BIOMETRIKA, V88, P1073, DOI 10.1093/biomet/88.4.1073
+   Whaley L, 2011, J WATER SANIT HYG DE, V1, P20, DOI 10.2166/washdev.2011.015
+   WSP, 2012, EC IMP POOR SAN AFR
+NR 26
+TC 5
+Z9 5
+U1 0
+U2 16
+PU IWA PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 2043-9083
+J9 J WATER SANIT HYG DE
+JI J. Wate Sanit. Hyg. Dev.
+PY 2014
+VL 4
+IS 1
+BP 108
+EP 119
+DI 10.2166/washdev.2013.069
+PG 12
+WC Water Resources
+SC Water Resources
+GA AB8XH
+UT WOS:000332072800012
+DA 2019-03-26
+ER
+
+PT S
+AU Bjornham, O
+   Burman, J
+   Parmhed, O
+   Fureby, C
+AF Bjornham, Oscar
+   Burman, Jan
+   Parmhed, Oskar
+   Fureby, Christer
+BE Steyn, DG
+   Builtjes, PJH
+   Timmermans, RMA
+TI Crisis Management Modeling and Simulation Laboratory
+SO AIR POLLUTION MODELING AND ITS APPLICATION XXII
+SE NATO Science for Peace and Security Series C-Environmental Security
+LA English
+DT Proceedings Paper
+CT 32nd NATO/SPS International Technical Meeting on Air Pollution Modeling
+   and its Application
+CY MAY 07-11, 2012
+CL Utrecht, NETHERLANDS
+SP N Atlantic Treaty Org Sci Peace & Secur, TNO, VVM, Univ British Columbia, Earth, Environm & Life Sci, Univ British Columbia, Space Sci, Environm Canada, European Assoc Sci Air Pollut
+DE Crowd simulation; Urban modelling; Multi-model; Crisis management
+AB Transports of substances to or from Seveso classified facilities are always a dangerous link in today's industrial societies. Despite the risk of serious accidents, it is common that these transports use routes that pass through densely populated urban areas. We present a computational concept employing a multi-model simulation platform that allows for simulation of diverse scenarios. This platform allows us to simulate severe incidents in a city including leakage from either a stationary or moving transport vehicle, dispersion of the released substance, and finally the injury panorama of the affected population. Different scenarios of leakage are studied in combination with various environmental conditions regarding parameters such as wind strength and direction. The dispersion model utilizes a synthetic 3D model of the city in which the wind driven convective fields spread the released substance. In this model, a large number of virtual habitants are allowed to walk on the streets following individual paths while obeying a set of predetermined rules of behaviour. Each individual accumulates an individual dose of the agent by inhaling the harmful substance and is subject to injury scaling from no harm at all to lethal injury. The total expected injury panorama of the population in the city, for the current scenario, is finally obtained from the statistics of the synthetic actors that represent the real population.
+C1 [Bjornham, Oscar; Burman, Jan] Swedish Def Res Agcy, Cementvagen 20, S-90621 Umea, Sweden.
+   [Parmhed, Oskar; Fureby, Christer] Swedish Def Res Agcy, Grindsjon Res Ctr, S-14725 Tumba, Sweden.
+RP Bjornham, O (reprint author), Swedish Def Res Agcy, Cementvagen 20, S-90621 Umea, Sweden.
+EM oscar.bjornham@foi.se; jan.burman@foi.se; oskar.parmhed@foi.se;
+   christer.fureby@foi.se
+CR Finney D. J., 1971, PROBIT ANAL
+   Fureby C, 2008, PROG AEROSP SCI, V44, P381, DOI 10.1016/j.paerosci.2008.07.003
+   Tolt G, 2006, SPIE DEF SEC S LAS R, V6214
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1871-4668
+BN 978-94-007-5576-5; 978-94-007-5577-2
+J9 NATO SCI PEACE SECUR
+JI NATO Sci. Peace Secur. Ser. C- Environ. Secur.
+PY 2014
+BP 759
+EP 763
+DI 10.1007/978-94-007-5577-2_129
+PG 5
+WC Geochemistry & Geophysics; Public, Environmental & Occupational Health;
+   Meteorology & Atmospheric Sciences
+SC Geochemistry & Geophysics; Public, Environmental & Occupational Health;
+   Meteorology & Atmospheric Sciences
+GA BA9HI
+UT WOS:000339389900128
+DA 2019-03-26
+ER
+
+PT J
+AU Bertrand, C
+   Janzen, DH
+   Hallwachs, W
+   Burns, JM
+   Gibson, JF
+   Shokralla, S
+   Hajibabaei, M
+AF Bertrand, Claudia
+   Janzen, Daniel H.
+   Hallwachs, Winnie
+   Burns, John M.
+   Gibson, Joel F.
+   Shokralla, Shadi
+   Hajibabaei, Mehrdad
+TI Mitochondrial and nuclear phylogenetic analysis with Sanger and
+   next-generation sequencing shows that, in Area de Conservacion
+   Guanacaste, northwestern Costa Rica, the skipper butterfly named Urbanus
+   belli (family Hesperiidae) comprises three morphologically cryptic
+   species
+SO BMC EVOLUTIONARY BIOLOGY
+LA English
+DT Article
+DE Lepidoptera; Intragenomic variation; Non-metric multi-dimensional
+   scaling; Phylogeny; DNA barcoding
+ID INTERNAL TRANSCRIBED SPACER; PARASITOID FLIES DIPTERA; DNA BARCODES;
+   WOLBACHIA; ITS2; LEPIDOPTERA; TACHINIDAE; INFERENCE; TAXONOMY; SYSTEM
+AB Background: Skipper butterflies (Hesperiidae) are a relatively well-studied family of Lepidoptera. However, a combination of DNA barcodes, morphology, and natural history data has revealed several cryptic species complexes within them. Here, we investigate three DNA barcode lineages of what has been identified as Urbanus belli (Hesperiidae, Eudaminae) in Area de Conservacion Guanacaste (ACG), northwestern Costa Rica.
+   Results: Although no morphological traits appear to distinguish among the three, congruent nuclear and mitochondrial lineage patterns show that "Urbanus belli" in ACG is a complex of three sympatric species. A single strain of Wolbachia present in two of the three cryptic species indicates that Urbanus segnestami Burns (formerly Urbanus belliDHJ01), Urbanus bernikerni Burns (formerly Urbanus belliDHJ02), and Urbanus ehakernae Burns (formerly Urbanus belliDHJ03) may be biologically separated by Wolbachia, as well as by their genetics. Use of parallel sequencing through 454-pyrosequencing improved the utility of ITS2 as a phylogenetic marker and permitted examination of the intra-and interlineage relationships of ITS2 variants within the species complex. Interlineage, intralineage and intragenomic compensatory base pair changes were discovered in the secondary structure of ITS2.
+   Conclusion: These findings corroborate the existence of three cryptic species. Our confirmation of a novel cryptic species complex, initially suggested by DNA barcode lineages, argues for using a multi-marker approach coupled with next-generation sequencing for exploration of other suspected species complexes.
+C1 [Bertrand, Claudia; Gibson, Joel F.; Shokralla, Shadi; Hajibabaei, Mehrdad] Univ Guelph, Biodivers Inst Ontario, Guelph, ON N1G 2W1, Canada.
+   [Bertrand, Claudia; Gibson, Joel F.; Shokralla, Shadi; Hajibabaei, Mehrdad] Univ Guelph, Dept Integrat Biol, Guelph, ON N1G 2W1, Canada.
+   [Janzen, Daniel H.; Hallwachs, Winnie] Univ Penn, Dept Biol, Philadelphia, PA 19104 USA.
+   [Burns, John M.] Smithsonian Inst, Natl Museum Nat Hist, Dept Entomol, Washington, DC 20013 USA.
+   [Shokralla, Shadi] Mansoura Univ, Dept Microbiol, Mansoura 35516, Egypt.
+RP Hajibabaei, M (reprint author), Univ Guelph, Biodivers Inst Ontario, Guelph, ON N1G 2W1, Canada.
+EM mhajibab@uoguelph.ca
+OI Gibson, Joel/0000-0001-7786-0066
+FU U.S. National Science Foundation [BSR 9024770, DEB 9306296, 9400829,
+   9705072, 0072730, 0515699]; Wege Foundation; International Conservation
+   Fund of Canada; Jessie B. Cox Charitable Trust; Blue Moon Fund;
+   Guanacaste Dry Forest Conservation Fund; Permian Global; University of
+   Pennsylvania; Government of Canada through Genome Canada; Ontario
+   Genomics Institute through the Biomonitoring 2.0 project [OGI-050];
+   Natural Sciences and Engineering Research Council of Canada; Area de
+   Conservacion Guanacaste
+FX We gratefully acknowledge the team of ACG parataxonomists [13,60] who
+   found and reared the specimens used in this study, and the team of
+   biodiversity managers who keep the ACG forests that host these
+   butterflies alive. We thank Karie Darrow for preparing Figure 3 and
+   Donald Harvey for dissecting many genitalia. We also thank Teresa Crease
+   and Alex Smith for providing advice and editorial assistance in the
+   early stages of this research. The study has been supported by U.S.
+   National Science Foundation grants BSR 9024770 and DEB 9306296, 9400829,
+   9705072, 0072730, 0515699, and grants from the Wege Foundation,
+   International Conservation Fund of Canada, Jessie B. Cox Charitable
+   Trust, Blue Moon Fund, Guanacaste Dry Forest Conservation Fund, Permian
+   Global, Area de Conservacion Guanacaste, and University of Pennsylvania
+   (DHJ). This project was funded by the Government of Canada through
+   Genome Canada and the Ontario Genomics Institute (OGI-050) through the
+   Biomonitoring 2.0 project (www.biomonitoring2.org) (MH) and by a
+   Discovery Grant from Natural Sciences and Engineering Research Council
+   of Canada (MH).
+CR Alvarez I, 2003, MOL PHYLOGENET EVOL, V29, P417, DOI 10.1016/S1055-7903(03)00208-2
+   ARNHEIM N, 1980, P NATL ACAD SCI-BIOL, V77, P7323, DOI 10.1073/pnas.77.12.7323
+   Baldo L, 2006, APPL ENVIRON MICROB, V72, P7098, DOI 10.1128/AEM.00731-06
+   Behere GT, 2007, BMC EVOL BIOL, V7, DOI 10.1186/1471-2148-7-117
+   Bertrand C, DRYAD DIGITAL REPOSI, DOI [10.5061/dryad.pj561, DOI 10.5061/DRYAD.PJ561]
+   Bickford D, 2007, TRENDS ECOL EVOL, V22, P148, DOI 10.1016/j.tree.2006.11.004
+   Bidochka MJ, 2001, APPL ENVIRON MICROB, V67, P1335, DOI 10.1128/AEM.67.3.1335-1342.2001
+   Bordenstein Sr, 2003, CONT T ENT, P283
+   BRAY JR, 1957, ECOL MONOGR, V27, P326
+   Burns John M., 2007, Journal of the Lepidopterists' Society, V61, P138
+   Burns JM, 2008, P NATL ACAD SCI USA, V105, P6350, DOI 10.1073/pnas.0712181105
+   CHO SW, 1995, MOL BIOL EVOL, V12, P650
+   Clarke K, 2006, PRIMER V6 USER MANUA
+   Coleman AW, 2009, MOL PHYLOGENET EVOL, V50, P197, DOI 10.1016/j.ympev.2008.10.008
+   Coleman AW, 2003, TRENDS GENET, V19, P370, DOI 10.1016/S0168-9525(03)00118-5
+   Dobson SL, 1999, INSECT BIOCHEM MOLEC, V29, P153, DOI 10.1016/S0965-1748(98)00119-2
+   Edgar RC, 2011, BIOINFORMATICS, V27, P2194, DOI 10.1093/bioinformatics/btr381
+   Ehrmann Geo. A., 1907, Canadian Entomologist, V39
+   Evans W.H., 1952, CATALOGUE AM HESPE 2
+   Ewing B, 1998, GENOME RES, V8, P186, DOI 10.1101/gr.8.3.186
+   Ewing B, 1998, GENOME RES, V8, P175, DOI 10.1101/gr.8.3.175
+   Fisher BL, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0001787
+   Geller JB, 1999, CONSERV BIOL, V13, P661, DOI 10.1046/j.1523-1739.1999.97470.x
+   Grishin NV, 2013, J LEPID SOC, V67, P161
+   GUTELL RR, 1994, MICROBIOL REV, V58, P10
+   HAYWARD KENNETH J., 1935, ANALES SOC CIENT ARGENTINA, V119, P256
+   Hebert PDN, 2004, P NATL ACAD SCI USA, V101, P14812, DOI 10.1073/pnas.0406166101
+   Hebert PDN, 2003, P ROY SOC B-BIOL SCI, V270, pS96, DOI 10.1098/rsbl.2003.0025
+   Hershkovitz MA, 1999, SYST ASSOC SPEC VOL, V57, P268
+   Janzen DH, 2012, INVERTEBR SYST, V26, P478, DOI 10.1071/IS12038
+   Janzen DH, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019874
+   Janzen DH, 2009, MOL ECOL RESOUR, V9, P1, DOI 10.1111/j.1755-0998.2009.02628.x
+   Janzen DH, 2013, AREA CONSERVACION GU
+   Kircher M, 2010, BIOESSAYS, V32, P524, DOI 10.1002/bies.200900181
+   Larkin MA, 2007, BIOINFORMATICS, V23, P2947, DOI 10.1093/bioinformatics/btm404
+   Li WZ, 2006, BIOINFORMATICS, V22, P1658, DOI 10.1093/bioinformatics/btl158
+   Mayol M, 2001, MOL PHYLOGENET EVOL, V19, P167, DOI 10.1006/mpev.2001.0934
+   Muller T, 2007, RNA, V13, P1469, DOI 10.1261/rna.617107
+   Nazari V, 2007, MOL PHYLOGENET EVOL, V42, P131, DOI 10.1016/j.ympev.2006.06.022
+   Nylander JAA, 2004, MRMODELTEST V2 PROGR
+   Onyabe DY, 1999, INSECT MOL BIOL, V8, P435, DOI 10.1046/j.1365-2583.1999.00134.x
+   Ratnasingham S, 2007, MOL ECOL NOTES, V7, P355, DOI 10.1111/j.1471-8286.2006.01678.x
+   Ronquist F, 2003, BIOINFORMATICS, V19, P1572, DOI 10.1093/bioinformatics/btg180
+   Russell JA, 2009, EVOLUTION, V63, P624, DOI 10.1111/j.1558-5646.2008.00579.x
+   Schmieder R, 2011, BIOINFORMATICS, V27, P863, DOI 10.1093/bioinformatics/btr026
+   Schoch CL, 2012, P NATL ACAD SCI USA, V109, P6241, DOI 10.1073/pnas.1117018109
+   Schultz J, 2005, RNA, V11, P361, DOI 10.1261/rna.7204505
+   Seibel Philipp N, 2008, BMC Res Notes, V1, P91, DOI 10.1186/1756-0500-1-91
+   Smith MA, 2007, P NATL ACAD SCI USA, V104, P4967, DOI 10.1073/pnas.0700050104
+   Smith MA, 2006, P NATL ACAD SCI USA, V103, P3657, DOI 10.1073/pnas.0511318103
+   Song JY, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0043971
+   STEINHAUSER SR, 1981, B ALLYN MUSEUM, V62, P1
+   Swofford D. L, 2002, PAUP PHYLOGENETIC AN
+   Tamura K, 2007, MOL BIOL EVOL, V24, P1596, DOI 10.1093/molbev/msm092
+   Tan DSH, 2010, ZOOL SCR, V39, P51, DOI 10.1111/j.1463-6409.2009.00408.x
+   WERREN JH, 1995, P ROY SOC B-BIOL SCI, V262, P197, DOI 10.1098/rspb.1995.0196
+   Werren JH, 2008, NAT REV MICROBIOL, V6, P741, DOI 10.1038/nrmicro1969
+   WHITE TJ, 1990, PCR PROTOCOLS GUIDE, V18, P315, DOI DOI 10.1016/B978-0-12-372180-8.50042-1
+   Wolf M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066726
+   Yao H, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013102
+NR 60
+TC 15
+Z9 16
+U1 1
+U2 36
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2148
+J9 BMC EVOL BIOL
+JI BMC Evol. Biol.
+PD JUL 9
+PY 2014
+VL 14
+AR 153
+DI 10.1186/1471-2148-14-153
+PG 18
+WC Evolutionary Biology; Genetics & Heredity
+SC Evolutionary Biology; Genetics & Heredity
+GA AM0DI
+UT WOS:000339513100001
+PM 25005355
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Tavares, AO
+   dos Santos, PP
+AF Tavares, Alexandre Oliveira
+   dos Santos, Pedro Pinto
+TI Re-scaling risk governance using local appraisal and community
+   involvement
+SO JOURNAL OF RISK RESEARCH
+LA English
+DT Article
+DE risk governance; municipal level; appraisal; communication; emergency
+   planning
+ID EMERGENCY MANAGEMENT; CLIMATE-CHANGE; POLICY; GOVERNMENT; HAZARDS; GIS
+AB This paper describes a risk governance model applied on a local scale, showing the advantages and constraints found during its application. The risk governance model, built on a municipal scale, results from the application of the International Risk Governance Council framework. The model is characterised by the cyclicity between the assessment and management spheres, assuming communication to be essential in all stages. Its application in central Portugal is rooted in a specific knowledge of hazards and their impacts, the human and financial constraints, and the expectations of citizens and stakeholders. The results show that preformatted management solutions derived from national civil protection stakeholders can be adapted to a local physical, social and institutional context. It was found that this depends significantly on the stakeholders' concerns assessment, as this allows the subsequent risk management options to be adapted and legitimised. As a result, more appropriate land-use regulations and mitigation strategies are being designed, which are related to urban planning, road design, risk sensitisation and communication tools. However, two features are likely to lead to an overlapping of competences and conflicts concerning responsibility for decision-making in the actual civil protection structure: the current constraints on resources on an operational level and the potentially inadequate representation of stakeholders on a strategic level.
+C1 [Tavares, Alexandre Oliveira; dos Santos, Pedro Pinto] Univ Coimbra, Ctr Social Studies, Coimbra, Portugal.
+   [Tavares, Alexandre Oliveira] Univ Coimbra, Dept Earth Sci, Coimbra, Portugal.
+RP Tavares, AO (reprint author), Univ Coimbra, Ctr Social Studies, Coimbra, Portugal.
+EM atavares@ci.uc.pt
+RI Tavares, Alexandre/M-4168-2014; Santos, Pedro Pinto/D-7076-2014
+OI Tavares, Alexandre/0000-0003-1621-6183; Santos, Pedro
+   Pinto/0000-0001-9785-0180
+CR Adger WN, 2000, PROG HUM GEOG, V24, P347, DOI 10.1191/030913200701540465
+   ANPC, 2009, TECHN SPEC NOT 9
+   ANPC, 2008, TECHN SPEC NOT 3
+   Apel H, 2009, NAT HAZARDS, V49, P79, DOI 10.1007/s11069-008-9277-8
+   Aven T, 2010, RISK GOV SOC, V16, P1, DOI 10.1007/978-3-642-13926-0
+   Beck U., 1992, RISK SOC NEW MODERNI
+   Bhattamishra R, 2010, WORLD DEV, V38, P923, DOI 10.1016/j.worlddev.2009.12.017
+   Birkmann J., 2007, Environmental Hazards, V7, P20, DOI 10.1016/j.envhaz.2007.04.002
+   Boholm A, 2012, J RISK RES, V15, P1, DOI 10.1080/13669877.2011.587886
+   Cash DW, 2006, ECOL SOC, V11
+   Chen K, 2003, ENVIRON MANAGE, V31, P546, DOI 10.1007/s00267-002-2747-y
+   Corfee-Morlot J, 2011, CLIMATIC CHANGE, V104, P169, DOI 10.1007/s10584-010-9980-9
+   Crosier M., 2005, LANDSLIDE RISK ASSES, P1
+   Cutter SL, 2003, SOC SCI QUART, V84, P242, DOI 10.1111/1540-6237.8402002
+   Emergency Management Australia (EMA), 2004, EM RISK MAN APPL GUI
+   Fekete A, 2010, NAT HAZARDS, V55, P729, DOI 10.1007/s11069-009-9445-5
+   Fischer F., 2003, REFRAMING PUBLIC POL
+   Flez C, 2004, ENVIRON MANAGE, V34, P353, DOI 10.1007/s00267-004-2777-8
+   GRAY PCR, 1998, COMMUNICATING RISKS
+   Greiving S., 2006, J ENVIRON PLANN MAN, V49, P1, DOI [10.1080/09640560500372800, DOI 10.1080/09640560500372800]
+   Guzzetti F, 2006, GEOMORPHOLOGY, V81, P166, DOI 10.1016/j.geomorph.2006.04.007
+   Handmer J., 2007, HDB DISASTERS EM POL
+   Henstra D, 2010, CAN PUBLIC ADMIN, V53, P241, DOI 10.1111/j.1754-7121.2010.00128.x
+   Hoppner C., 2010, RISK COMMUNICATION N
+   IDEHLG, 2006, FRAM MAJ EM MAN WORK
+   Juliao R. P., 2009, GUIA METODOLOGICO PA
+   Kasperson J. X., 2001, GLOBAL ENV RISK, P1
+   Klinke A, 2012, J RISK RES, V15, P273, DOI 10.1080/13669877.2011.636838
+   Lan HX, 2007, COMPUT GEOSCI-UK, V33, P262, DOI 10.1016/j.cageo.2006.05.013
+   Liu WH, 2011, MAR POLICY, V35, P105, DOI 10.1016/j.marpol.2010.08.006
+   Measham TG, 2011, MITIG ADAPT STRAT GL, V16, P889, DOI 10.1007/s11027-011-9301-2
+   Mendes J. M., 2009, RELIABILITY RISK SAF, V3, P445
+   Mendes Jose Manuel, 2008, SAFETY RELIABILITY R, V2, P1577
+   Moar M., 2010, ADMIN SOC, V42, P315
+   OEM, 2008, HAZ AN METH
+   Palm J., 2007, J CONTING CRISIS MAN, V15, P173, DOI DOI 10.1111/J.1468-5973.2007.00525.X
+   Parker D, 2007, NAT HAZARDS, V43, P397, DOI 10.1007/s11069-007-9137-y
+   Pelling M, 2008, ENVIRON PLANN A, V40, P867, DOI 10.1068/a39148
+   Renn O, 2006, LAND USE POLICY, V23, P34, DOI 10.1016/j.landusepol.2004.08.005
+   Renn O., 2005, 1 IRGC
+   Santos P. P., 2012, RISCOS SEGURANCA SUS, P221
+   Santos P. P., 2010, MOD SIST GEOL, P363
+   Sapountzaki K, 2011, NAT HAZARDS, V59, P1445, DOI 10.1007/s11069-011-9843-3
+   Schmidt-Thome P, 2007, MANAG ENVIRON QUAL, V18, P329, DOI 10.1108/14777830710731770
+   Somers S, 2009, PUBLIC ADMIN REV, V69, P181, DOI 10.1111/j.1540-6210.2008.01963.x
+   Stromgren M, 2010, SAFETY SCI, V48, P288, DOI 10.1016/j.ssci.2009.11.009
+   Tavares A. O., 2010, PROSPECTIVA PLANEAME, V17, P33
+   Tavares A. O., 2010, RISK MODELS APPL SEL, P73
+   van Asselt MBA, 2011, J RISK RES, V14, P431, DOI 10.1080/13669877.2011.553730
+   Veil SR, 2009, PUBLIC RELAT REV, V35, P449, DOI 10.1016/j.pubrev.2009.06.004
+   Voss M, 2010, NAT HAZARDS, V55, P657, DOI 10.1007/s11069-010-9498-5
+   WAUGH WL, 1996, DISASTER MANAGEMENT, P344
+   Weichselgartner J, 2010, GLOBAL ENVIRON CHANG, V20, P266, DOI 10.1016/j.gloenvcha.2009.11.006
+NR 53
+TC 14
+Z9 14
+U1 2
+U2 34
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1366-9877
+EI 1466-4461
+J9 J RISK RES
+JI J. Risk Res.
+PY 2014
+VL 17
+IS 7
+BP 923
+EP 949
+DI 10.1080/13669877.2013.822915
+PG 27
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+GA AL3ZH
+UT WOS:000339071000008
+DA 2019-03-26
+ER

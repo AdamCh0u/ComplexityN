@@ -1,0 +1,574 @@
+
+PT J
+AU Gupta, AK
+   Zhang, XC
+   Andrews, JG
+AF Gupta, Abhishek K.
+   Zhang, Xinchen
+   Andrews, Jeffrey G.
+TI SINR and Throughput Scaling in Ultradense Urban Cellular Networks
+SO IEEE WIRELESS COMMUNICATIONS LETTERS
+LA English
+DT Article
+DE Cellular networks; stochastic geometry; ultra-dense networks; scaling
+   laws
+ID PATH LOSS; MODELS; COMMUNICATION; SYSTEM; 5G
+AB We consider a dense urban cellular network where the base stations (BSs) are stacked vertically as well as extending infinitely in the horizontal plane, resulting in a greater than two dimensional (2D) deployment. We use a dual-slope path loss model that is well supported empirically, wherein a "close-in" pathloss exponent alpha(0) is used for distances less than a corner distance R-c, and then changes to alpha(1) > alpha(0) outside R-c. We extend recent 2D coverage probability and potential throughput results to d dimensions, and prove that if the close-in path loss exponent alpha(0) < d, then the SINR eventually decays to zero. For example, alpha(0) <= 3 results in an eventual SINR of 0 for all users in a 3D network, which is a troubling fact. We also show that the potential (i.e. best case) aggregate throughput decays to zero for alpha(0) < d/2. Both of these scaling results also hold for the more realistic case that we term 3D(+), where there are no BSs below the user, as in a dense urban network with the user on or near the ground.
+C1 [Gupta, Abhishek K.; Andrews, Jeffrey G.] Univ Texas Austin, Dept Elect & Comp Engn, Wireless Networking & Commun Grp, Austin, TX 78712 USA.
+   [Zhang, Xinchen] Qualcomm Inc, San Diego, CA 92121 USA.
+RP Gupta, AK (reprint author), Univ Texas Austin, Dept Elect & Comp Engn, Wireless Networking & Commun Grp, Austin, TX 78712 USA.
+EM g.kr.abhishek@utexas.edu; xzhang7@alumni.nd.edu; jandrews@ece.utexas.edu
+OI Gupta, Abhishek Kumar/0000-0002-4282-7407
+CR 3GPP TR 36.814-900 3rd Generation Partnership Project, 2010, 36814900 3GPP TR
+   Andrews JG, 2014, IEEE J SEL AREA COMM, V32, P1065, DOI 10.1109/JSAC.2014.2328098
+   Andrews JG, 2011, IEEE T COMMUN, V59, P3122, DOI 10.1109/TCOMM.2011.100411.100541
+   Bai TY, 2015, IEEE T WIREL COMMUN, V14, P1100, DOI 10.1109/TWC.2014.2364267
+   Chang Y., 2014, P IEEE INT S PERS IN, P222
+   ERCEG V, 1992, IEEE COMMUN MAG, V30, P56, DOI 10.1109/35.141584
+   FEUERSTEIN MJ, 1994, IEEE T VEH TECHNOL, V43, P487, DOI 10.1109/25.312809
+   Ganti R. K., ASYMPTOTICS APPROXIM
+   Guo AJ, 2015, IEEE T COMMUN, V63, P962, DOI 10.1109/TCOMM.2014.2387170
+   Haenggi M, 2005, IEEE T INFORM THEORY, V51, P3584, DOI 10.1109/TIT.2005.855610
+   Hampton JR, 2006, IEEE T ANTENN PROPAG, V54, P644, DOI 10.1109/TAP.2005.863099
+   HASHEMI H, 1993, P IEEE, V81, P943, DOI 10.1109/5.231342
+   Kyosti P, 2007, FP6 EC
+   Madhusudhanan P, 2014, IEEE T WIREL COMMUN, V13, P6684, DOI 10.1109/TWC.2014.2362516
+   Rappaport TS, 2013, IEEE ACCESS, V1, P335, DOI 10.1109/ACCESS.2013.2260813
+   Sarkar TK, 2003, IEEE ANTENN PROPAG M, V45, P51, DOI 10.1109/MAP.2003.1232163
+   Zhang XC, 2015, IEEE T COMMUN, V63, P1881, DOI 10.1109/TCOMM.2015.2413412
+NR 17
+TC 24
+Z9 24
+U1 0
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2162-2337
+EI 2162-2345
+J9 IEEE WIREL COMMUN LE
+JI IEEE Wirel. Commun. Lett.
+PD DEC
+PY 2015
+VL 4
+IS 6
+BP 605
+EP 608
+DI 10.1109/LWC.2015.2472404
+PG 4
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA DO3UH
+UT WOS:000377706800008
+DA 2019-03-26
+ER
+
+PT J
+AU Tagwireyi, P
+   Sullivan, SMP
+AF Tagwireyi, Paradzayi
+   Sullivan, S. Mazeika P.
+TI Riverine Landscape Patch Heterogeneity Drives Riparian Ant Assemblages
+   in the Scioto River Basin, USA
+SO PLOS ONE
+LA English
+DT Article
+ID HYMENOPTERA-FORMICIDAE; HABITAT; COMMUNITIES; ECOLOGY; FLOODPLAIN;
+   DIVERSITY; URBANIZATION; FOREST; INVERTEBRATES; BIODIVERSITY
+AB Although the principles of landscape ecology are increasingly extended to include riverine landscapes, explicit applications are few. We investigated associations between patch heterogeneity and riparian ant assemblages at 12 riverine landscapes of the Scioto River, Ohio, USA, that represent urban/developed, agricultural, and mixed (primarily forested, but also wetland, grassland/fallow, and exurban) land-use settings. Using remotely-sensed and ground-collected data, we delineated riverine landscape patch types (crop, grass/herbaceous, gravel, lawn, mudflat, open water, shrub, swamp, and woody vegetation), computed patch metrics (area, density, edge, richness, and shape), and conducted coordinated sampling of surface-active Formicidae assemblages. Ant density and species richness was lower in agricultural riverine landscapes than at mixed or developed reaches (measured using S [total number of species], but not using Menhinick's Index [D-M]), whereas ant diversity (using the Berger-Park Index [D-BP]) was highest in agricultural reaches. We found no differences in ant density, richness, or diversity among internal riverine landscape patches. However, certain characteristics of patches influenced ant communities. Patch shape and density were significant predictors of richness (S: R-2 = 0.72; D-M: R-2 = 0.57). Patch area, edge, and shape emerged as important predictors of D-BP (R-2 = 0.62) whereas patch area, edge, and density were strongly related to ant density (R-2 = 0.65). Non-metric multidimensional scaling and analysis of similarities distinguished ant assemblage composition in grass and swamp patches from crop, gravel, lawn, and shrub as well as ant assemblages in woody vegetation patches from crop, lawn, and gravel (stress = 0.18, R-2 = 0.64). These findings lend insight into the utility of landscape ecology to river science by providing evidence that spatial habitat patterns within riverine landscapes can influence assemblage characteristics of riparian arthropods.
+C1 [Tagwireyi, Paradzayi; Sullivan, S. Mazeika P.] Ohio State Univ, Sch Environm & Nat Resources, Columbus, OH 43210 USA.
+RP Tagwireyi, P (reprint author), Univ Zimbabwe, Dept Geog & Environm Sci, Geoinformat & Earth Observat Ctr, POB MP 167, Harare, Zimbabwe.
+EM tagwireyi.1@buckeyemail.osu.edu
+RI Sullivan, Mazeika/C-8261-2012
+OI Sullivan, Mazeika/0000-0003-2341-5316
+FU Ohio Agricultural Research and Development Center
+FX Support for this research was provided by state and federal funds
+   appropriated to The Ohio State University, and The Ohio Agricultural
+   Research and Development Center (SMPS).
+CR Alberts JM, 2013, SCI TOTAL ENVIRON, V463, P42, DOI 10.1016/j.scitotenv.2013.05.065
+   Andersen A. N., 1997, CONSERV ECOL, V1, P8, DOI DOI 10.5751/ES-00014-010108
+   Ballinger A, 2007, OECOLOGIA, V152, P227, DOI 10.1007/s00442-006-0648-0
+   BAXTER MJ, 1995, APPL STAT-J ROY ST C, V44, P513, DOI 10.2307/2986142
+   BAYLEY PB, 1995, BIOSCIENCE, V45, P153, DOI 10.2307/1312554
+   BERGER WH, 1970, SCIENCE, V168, P1345, DOI 10.1126/science.168.3937.1345
+   BRUDER KW, 1972, ANN ENTOMOL SOC AM, V65, P358, DOI 10.1093/aesa/65.2.358
+   Buczkowski G, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0041729
+   Burt TP, 2005, PROG PHYS GEOG, V29, P297, DOI 10.1191/0309133305pp450ra
+   Carbonneau P, 2012, GEOMORPHOLOGY, V137, P74, DOI 10.1016/j.geomorph.2010.09.030
+   Church M, 2002, GEOMORPHOLOGY, V45, P1
+   Church M, 2002, FRESHWATER BIOL, V47, P541, DOI 10.1046/j.1365-2427.2002.00919.x
+   Coovert G, 2005, B OHIO BIOL SURVEY, V15, P1
+   ELKIE PC, 1999, PATCH ANAL USERS MAN
+   Fisher BL, 2007, ANTS N AM GUIDE GENE
+   Fletcher RJ, 2007, CAN J ZOOL, V85, P1017, DOI 10.1139/Z07-100
+   Framenau VW, 2002, AUST J ZOOL, V50, P103, DOI 10.1071/ZO01039
+   Goebel PC, 2012, WETLANDS, V32, P679, DOI 10.1007/s13157-012-0300-1
+   Gollan JR, 2011, ECOL INDIC, V11, P1517, DOI 10.1016/j.ecolind.2009.09.007
+   Gomez C, 2013, ECOGRAPHY, V36, P1193, DOI 10.1111/j.1600-0587.2013.00289.x
+   Hammond PM, 1998, RIPARIAN FLOODPLAIN, P237
+   Hering D, 2004, RIVER RES APPL, V20, P445, DOI 10.1002/rra.759
+   Hering D, 1997, OECOLOGIA, V111, P261, DOI 10.1007/s004420050234
+   Holmes KL, 2011, J FOREST, V109, P233
+   Holway DA, 2006, BIOL CONSERV, V127, P319, DOI 10.1016/j.biocon.2005.05.016
+   Hufkens K, 2009, ECOL RES, V24, P977, DOI 10.1007/s11284-009-0584-7
+   Ivanov K, 2011, BIOL INVASIONS, V13, P1945, DOI 10.1007/s10530-011-0021-z
+   Ives CD, 2013, LANDSCAPE URBAN PLAN, V110, P155, DOI 10.1016/j.landurbplan.2012.11.005
+   Jarolimek I, 1999, BIOLOGIA, V54, P405
+   Johansen K, 2010, REMOTE SENS ENVIRON, V114, P2679, DOI 10.1016/j.rse.2010.06.004
+   Johnston CA, 2001, SOIL SCI SOC AM J, V65, P557, DOI 10.2136/sssaj2001.652557x
+   JUNK W J, 1989, Canadian Special Publication of Fisheries and Aquatic Sciences, V106, P110
+   Karl T., 1984, REGIONAL NATL MONTHL
+   Kaspari M, 2000, P ROY SOC B-BIOL SCI, V267, P485, DOI 10.1098/rspb.2000.1026
+   Kawula R., 2009, FLORIDA LAND COVER C
+   KIM HH, 1992, INT J REMOTE SENS, V13, P2319, DOI 10.1080/01431169208904271
+   King JR, 2006, J ANIM ECOL, V75, P1370, DOI 10.1111/j.1365-2656.2006.01161.x
+   Lambeets K, 2008, J ANIM ECOL, V77, P1162, DOI 10.1111/j.1365-2656.2008.01443.x
+   Latterell JJ, 2006, FRESHWATER BIOL, V51, P523, DOI 10.1111/j.1365-2427.2006.01513.x
+   Lessard JP, 2005, CAN ENTOMOL, V137, P215
+   Lude A, 1999, ENTOMOL GEN, V24, P75
+   MAC ARTHUR ROBERT H., 1967
+   MACARTHUR R, 1961, ECOLOGY, V42, P594, DOI 10.2307/1932254
+   Magurran A.E., 2004, MEASURING BIOL DIVER
+   McGarigal K, 2012, FRAGSTATS V4 SPATIAL
+   McGlynn TP, 1999, J BIOGEOGR, V26, P535, DOI 10.1046/j.1365-2699.1999.00310.x
+   McKinney ML, 1999, TRENDS ECOL EVOL, V14, P450, DOI 10.1016/S0169-5347(99)01679-1
+   Menke SB, 2011, URBAN ECOSYST, V14, P135, DOI 10.1007/s11252-010-0150-7
+   Menke SB, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009194
+   Mitchell CE, 2002, ECOL APPL, V12, P1364, DOI 10.2307/3099977
+   Muller J, 2009, J APPL ECOL, V46, P897, DOI 10.1111/j.1365-2664.2009.01677.x
+   NLCD, 2006, NATL LAND COVER DATA
+   Ohio Division of Geological Survey, 1998, PHYS REG OH
+   Orrock JL, 2011, LANDSCAPE ECOL, V26, P1361, DOI 10.1007/s10980-011-9656-5
+   Paetzold A, 2008, J APPL ECOL, V45, P894, DOI 10.1111/j.1365-2664.2008.01463.x
+   Pecarevic M, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013222
+   Petal J.M., 1976, Polish ecol Stud, V2, P209
+   Poole GC, 2002, FRESHWATER BIOL, V47, P641, DOI 10.1046/j.1365-2427.2002.00922.x
+   R Development Core team, 2010, R LANG ENV STAT COMP
+   Rencher A. C, 1995, METHODS MULTIVARIATE
+   Retana J, 2000, OECOLOGIA, V123, P436, DOI 10.1007/s004420051031
+   Richards K, 2002, FRESHWATER BIOL, V47, P559, DOI 10.1046/j.1365-2427.2002.00920.x
+   Ries L, 2004, ANNU REV ECOL EVOL S, V35, P491, DOI 10.1146/annurev.ecolsys.35.112202.130148
+   ROGERS JC, 1993, OHIO J SCI, V93, P51
+   Sadler JP, 2004, BIOL CONSERV, V118, P41, DOI 10.1016/j.biocon.2003.07.007
+   Sanders NJ, 2003, P NATL ACAD SCI USA, V100, P2474, DOI 10.1073/pnas.0437913100
+   Scheifer MC, 2002, OHIO B, V47
+   STAMPS JA, 1987, AM NAT, V129, P533, DOI 10.1086/284656
+   Steiner FM, 2008, DIVERS DISTRIB, V14, P538, DOI 10.1111/j.1472-4642.2008.00472.x
+   Sullivan SMP, 2007, LANDSCAPE ECOL, V22, P1169, DOI 10.1007/s10980-007-9097-3
+   Sullivan SMP, 2008, CAN J FISH AQUAT SCI, V65, P2667, DOI 10.1139/F08-165
+   Thompson Bill, 2007, Urban Ecosystems, V10, P43, DOI 10.1007/s11252-006-0013-4
+   Thorp JH, 2014, FRESHWATER BIOL, V59, P200, DOI 10.1111/fwb.12237
+   Thorp JH, 2006, RIVER RES APPL, V22, P123, DOI 10.1002/rra.901
+   Underwood EC, 2006, BIOL CONSERV, V132, P166, DOI 10.1016/j.biocon.2006.03.022
+   US Census Bureau, 2011, GUID STAT LOC CENS G
+   Vierling KT, 2011, ECOL APPL, V21, P577, DOI 10.1890/09-2155.1
+   Ward D, 2008, PAC SCI, V62, P473, DOI 10.2984/1534-6188(2008)62[473:EPAIAH]2.0.CO;2
+   Ward JV, 2001, FRESHWATER BIOL, V46, P807, DOI 10.1046/j.1365-2427.2001.00713.x
+   Ward JV, 2002, LANDSCAPE ECOL, V17, P35, DOI 10.1023/A:1015277626224
+   Ward JV, 2002, FRESHWATER BIOL, V47, P517, DOI 10.1046/j.1365-2427.2002.00893.x
+   Ward JV, 1999, REGUL RIVER, V15, P125, DOI 10.1002/(SICI)1099-1646(199901/06)15:1/3<125::AID-RRR523>3.0.CO;2-E
+   White D, 2005, RIVERS N AM, P375
+   Wiens J. A., 1995, MOSAIC LANDSCAPES EC, P1
+   Wiens JA, 2002, FRESHWATER BIOL, V47, P501, DOI 10.1046/j.1365-2427.2002.00887.x
+   Yasuda M, 2009, LANDSCAPE URBAN PLAN, V92, P276, DOI 10.1016/j.landurbplan.2009.05.008
+NR 86
+TC 7
+Z9 7
+U1 3
+U2 50
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 20
+PY 2015
+VL 10
+IS 4
+AR e0124807
+DI 10.1371/journal.pone.0124807
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CG3XA
+UT WOS:000353211700125
+PM 25894540
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Wilde, HD
+   Gandhi, KJK
+   Colson, G
+AF Wilde, H. Dayton
+   Gandhi, Kamal J. K.
+   Colson, Gregory
+TI State of the science and challenges of breeding landscape plants with
+   ecological function
+SO HORTICULTURE RESEARCH
+LA English
+DT Review
+ID SOUTHEASTERN UNITED-STATES; NATIVE PLANTS; EXPERIMENTAL AUCTIONS;
+   COMMUNITY STRUCTURE; DISEASE RESISTANCE; GENETIC DIVERSITY; MOLECULAR
+   MARKERS; GREEN-REVOLUTION; INVASIVE PLANTS; INDUSTRY SURVEY
+AB Exotic plants dominate esthetically-managed landscapes, which cover 30-40 million hectares in the United States alone. Recent ecological studies have found that landscaping with exotic plant species can reduce biodiversity on multiple trophic levels. To support biodiversity in urbanized areas, the increased use of native landscaping plants has been advocated by conservation groups and US federal and state agencies. A major challenge to scaling up the use of native species in landscaping is providing ornamental plants that are both ecologically functional and economically viable. Depending on ecological and economic constraints, accelerated breeding approaches could be applied to ornamental trait development in native plants. This review examines the impact of landscaping choices on biodiversity, the current status of breeding and selection of native ornamental plants, and the interdisciplinary research needed to scale up landscaping plants that can support native biodiversity.
+C1 [Wilde, H. Dayton] Univ Georgia, Dept Hort, Athens, GA 30602 USA.
+   [Gandhi, Kamal J. K.] Univ Georgia, Daniel B Warnell Sch Forestry & Nat Resources, Athens, GA 30602 USA.
+   [Colson, Gregory] Univ Georgia, Dept Agr & Appl Econ, Athens, GA 30602 USA.
+RP Wilde, HD (reprint author), Univ Georgia, Dept Hort, Athens, GA 30602 USA.
+EM dwilde@uga.edu
+OI Colson, Gregory/0000-0002-9863-4399
+CR Aguilar-Martinez JA, 2007, PLANT CELL, V19, P458, DOI 10.1105/tpc.106.048934
+   Alig RJ, 2004, LANDSCAPE URBAN PLAN, V69, P219, DOI 10.1016/j.landurbplan.2003.07.004
+   An LiJun, 2008, Acta Horticulturae Sinica, V35, P1573
+   [Anonymous], 1935, MISSOURI BOT GARDEN, V23, P77
+   [Anonymous], 2014, NAT PLANT PARTN UD M
+   [Anonymous], 2009, US Plant Patent, Patent No. 19971
+   [Anonymous], 2014, USDA NAT AGR STAT SE
+   Armitage AM, 2006, ARMITAGES NATIVE PLA
+   Arus P, 2000, ACTA HORTIC, P91, DOI 10.17660/ActaHortic.2000.508.11
+   Ashikari M, 2002, BREEDING SCI, V52, P143, DOI 10.1270/jsbbs.52.143
+   Ault J, 2003, ACTA HORTIC, P37, DOI 10.17660/ActaHortic.2003.624.4
+   Aurelle D, 2010, MOL ECOL RESOUR, V10, P751, DOI 10.1111/j.1755-0998.2010.02871.x
+   Bailey J. S., 1942, PROC AMER SOC HORT SCI, V40, P248
+   Ballard M, 2013, ENVIRON ENTOMOL, V42, P851, DOI 10.1603/EN12315
+   Bezemer TM, 2014, ANNU REV ENTOMOL, V59, P119, DOI 10.1146/annurev-ento-011613-162104
+   Blair RB, 1999, ECOL APPL, V9, P164, DOI 10.2307/2641176
+   Bower A, 2010, ECOL APPL, V24, P913
+   Brand Mark, 2009, Arnoldia (Jamaica Plain), V67, P14
+   Brummer EC, 2011, FRONT ECOL ENVIRON, V9, P561, DOI 10.1890/100225
+   Brzuszek RF, 2007, HORTTECHNOLOGY, V17, P78
+   Brzuszek RF, 2010, HORTTECHNOLOGY, V20, P462
+   Brzuszek RF, 2009, HORTTECHNOLOGY, V19, P168
+   Bulley SM, 2005, PLANT BIOTECHNOL J, V3, P215, DOI 10.1111/j.1467-7652.2005.00119.x
+   Burghardt KT, 2013, DIVERS DISTRIB, V19, P1553, DOI 10.1111/ddi.12122
+   Burghardt KT, 2010, ECOSPHERE, V1, DOI 10.1890/ES10-00032.1
+   Burghardt KT, 2009, CONSERV BIOL, V23, P219, DOI 10.1111/j.1523-1739.2008.01076.x
+   Callicot JB, 1999, FEDERAL HIGHWAY ADM, VFHWA-EP-03-005
+   Cappuccino N, 2005, BIOL LETTERS, V1, P435, DOI 10.1098/rsbl.2005.0341
+   Chace JF, 2006, LANDSCAPE URBAN PLAN, V74, P46, DOI 10.1016/j.landurbplan.2004.08.007
+   Chappell M, 2008, J AM SOC HORTIC SCI, V133, P374
+   Chen YH, 2013, J AM SOC HORTIC SCI, V138, P12
+   Chong KY, 2014, BIOL CONSERV, V171, P299, DOI 10.1016/j.biocon.2014.01.037
+   Connors CH, 1920, P AM SOC HORTIC SCI, V16, P24
+   Cook-Patton SC, 2014, ECOLOGY, V95, P1642, DOI 10.1890/13-0782.1
+   Cooper CB, 2007, ECOL SOC, V12
+   Czarnecki DM, 2008, J AM SOC HORTIC SCI, V133, P234
+   Davis M, 2011, BIOSCIENCE, V61, P501, DOI 10.1525/bio.2011.61.7.2
+   Davis M, 2011, NATURE, V474, P153, DOI 10.1038/474153a
+   Debener T, 2014, PLANT SCI, V228, P107, DOI 10.1016/j.plantsci.2014.04.005
+   DeVore JL, 2014, ECOLOGY, V95, P1724, DOI 10.1890/13-1715.1
+   Dietzsch AC, 2011, OECOLOGIA, V167, P469, DOI 10.1007/s00442-011-1987-z
+   Dirlewanger E, 2004, P NATL ACAD SCI USA, V101, P9891, DOI 10.1073/pnas.0307937101
+   Dobres M. S., 2008, FLORICULTURE ORNAMEN, P1
+   EHRLICH PR, 1964, EVOLUTION, V18, P586, DOI 10.2307/2406212
+   Elias AA, 2012, PLANT PHYSIOL, V160, P1130, DOI 10.1104/pp.112.200741
+   Ellis EC, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0030535
+   Flemer W., 1979, US Plant Patent, Patent No. 4458
+   Forister ML, 2012, AM NAT, V179, P805, DOI 10.1086/665647
+   Galimba KD, 2012, P NATL ACAD SCI USA, V109, pE2267, DOI 10.1073/pnas.1203686109
+   Goddard MA, 2010, TRENDS ECOL EVOL, V25, P90, DOI 10.1016/j.tree.2009.07.016
+   Granbom M, 2006, AUK, V123, P97, DOI 10.1642/0004-8038(2006)123[0097:FLDBIA]2.0.CO;2
+   Greenstone MH, 2013, P 24 USDA INT RES FO, P32
+   Hadziabdic D, 2010, GENETICA, V138, P1047, DOI 10.1007/s10709-010-9490-8
+   Hall Charles R., 2011, Journal of Environmental Horticulture, V29, P14
+   Hawkes CV, 2006, PLANT SOIL, V281, P369, DOI 10.1007/s11104-005-4826-3
+   Heleno RH, 2009, CONSERV BIOL, V23, P410, DOI 10.1111/j.1523-1739.2008.01129.x
+   Helfand GE, 2006, LANDSCAPE URBAN PLAN, V78, P229, DOI 10.1016/j.landurbplan.2005.08.001
+   Hengstum T, 2014, J ECOL, V102, P4
+   Heywood V., 2001, ACTA HORTIC, V598, P43
+   Hinson R. A., 2012, Journal of Agricultural and Applied Economics, V44, P173
+   HOOPER VH, 2008, LANDSCAPE J, V27, P127
+   Ibiza VP, 2010, BMC GENOMICS, V11, DOI 10.1186/1471-2164-11-631
+   Ikin K, 2013, DIVERS DISTRIB, V19, P294, DOI 10.1111/j.1472-4642.2012.00937.x
+   Iwata H, 2012, PLANT J, V69, P116, DOI 10.1111/j.1365-313X.2011.04776.x
+   Janz N, 2011, ANNU REV ECOL EVOL S, V42, P71, DOI 10.1146/annurev-ecolsys-102710-145024
+   Johnson G. R., 2004, Native Plants Journal, V5, P131, DOI 10.2979/NPJ.2004.5.2.131
+   Jones JR., 2008, J AM RHODODENDRON SO, V62, P130
+   Jones TA, 2013, EVOL APPL, V6, P1109, DOI 10.1111/eva.12090
+   Jung S, 2014, NUCLEIC ACIDS RES, V42, pD1237, DOI 10.1093/nar/gkt1012
+   Kauth PJ, 2011, HORTTECHNOLOGY, V21, P779
+   Keeler MS, 2008, OECOLOGIA, V156, P559, DOI 10.1007/s00442-008-1005-2
+   Kendle AD, 2000, LANDSCAPE URBAN PLAN, V47, P19, DOI 10.1016/S0169-2046(99)00070-5
+   Kramer MG, 2013, 231K13001 EPA, P38
+   Krauss SL, 2013, ECOL EVOL, V3, P2138, DOI 10.1002/ece3.595
+   Lerman SB, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0043497
+   Lerman SB, 2011, ECOL APPL, V21, P1327, DOI 10.1890/10-0423.1
+   Lieurance D, 2013, BIOL INVASIONS, V15, P1713, DOI 10.1007/s10530-012-0402-y
+   Lindgren DT, 2007, HORTSCIENCE, V42, P494
+   Liu ZX, 2013, PLANT CELL REP, V32, P227, DOI 10.1007/s00299-012-1357-2
+   Loomis JD, 2014, BIOL INVASIONS, V16, P89, DOI 10.1007/s10530-013-0505-0
+   Martin LJ, 2011, BIOL REV, V86, P407, DOI 10.1111/j.1469-185X.2010.00152.x
+   Martin T, 2006, CAN J BOT, V84, P767, DOI [10.1139/B-06-031, 10.1139/B06-031]
+   Martin-Trillo M, 2011, PLANT J, V67, P701, DOI 10.1111/j.1365-313X.2011.04629.x
+   Matteson KC, 2011, INSECT CONSERV DIVER, V4, P89, DOI 10.1111/j.1752-4598.2010.00103.x
+   McKay JK, 2005, RESTOR ECOL, V13, P432, DOI 10.1111/j.1526-100X.2005.00058.x
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   McKinney ML, 2002, BIOSCIENCE, V52, P883, DOI 10.1641/0006-3568(2002)052[0883:UBAC]2.0.CO;2
+   Mgobozi MP, 2008, J APPL ECOL, V45, P1189, DOI 10.1111/j.1365-2664.2008.01486.x
+   Miller SA, 2011, RESTOR ECOL, V19, P268, DOI 10.1111/j.1526-100X.2010.00702.x
+   Moncada KM, 2007, CROP SCI, V47, P2379, DOI 10.2135/cropsci2007.02.0082
+   Mummey DL, 2006, PLANT SOIL, V288, P81, DOI 10.1007/s11104-006-9091-6
+   Nagy LR, 2005, ECOLOGY, V86, P675, DOI 10.1890/04-0155
+   NeSmith DS, 2011, HORTSCIENCE, V46, P1560
+   Nickerson C, 2011, USDA EC RES SERV, VEIB-89
+   Nitasaka E, 2003, PLANT J, V36, P522, DOI 10.1046/j.1365-313X.2003.01896.x
+   Norcini J, 2006, ENH1045 U FLOR I FOO
+   Olsen KM, 2013, ANNU REV PLANT BIOL, V64, P47, DOI 10.1146/annurev-arplant-050312-120048
+   OMERNIK JM, 1987, ANN ASSOC AM GEOGR, V77, P118, DOI 10.1111/j.1467-8306.1987.tb00149.x
+   Oudshoorn HG., 2012, US Plant Patent, Patent No. 22918
+   Paker Y, 2014, LANDSCAPE URBAN PLAN, V122, P186, DOI 10.1016/j.landurbplan.2013.10.005
+   Pashley CH, 2006, J HERED, V97, P381, DOI 10.1093/jhered/esl013
+   Perre P, 2011, URBAN ECOSYST, V14, P711, DOI 10.1007/s11252-011-0179-2
+   Pnueli L, 1998, DEVELOPMENT, V125, P1979
+   Pooler MR, 1997, HORTSCIENCE, V32, P290
+   Potter KM, 2012, NEW FOREST, V43, P581, DOI 10.1007/s11056-012-9322-z
+   Pozzi Carlo, 2009, V6, P235, DOI 10.1007/978-0-387-77491-6_11
+   Qian H, 2006, ECOL LETT, V9, P1293, DOI 10.1111/j.1461-0248.2006.00982.x
+   Ranney TG, 2006, HORTSCIENCE, V41, P1386
+   Reichard SH, 2001, BIOSCIENCE, V51, P103, DOI 10.1641/0006-3568(2001)051[0103:HAAPOI]2.0.CO;2
+   Sands Don, 2008, Ecological Management & Restoration, V9, P4, DOI 10.1111/j.1442-8903.2008.00382.x
+   Shochat E, 2010, BIOSCIENCE, V60, P199, DOI 10.1525/bio.2010.60.3.6
+   Shulaev V, 2008, PLANT PHYSIOL, V147, P985, DOI 10.1104/pp.107.115618
+   Simberloff D, 2011, NATURE, V475, P36, DOI 10.1038/475036a
+   Skelley K., 2014, US Plant Patent application, Patent No. 20140026268
+   Smith NR, 2007, J AM SOC HORTIC SCI, V132, P90
+   Stanton KM, 2014, HORTIC RES-ENGLAND, V1, DOI 10.1038/hortres.2014.33
+   Stireman JO, 2014, OECOLOGIA, V176, P207, DOI 10.1007/s00442-014-3014-7
+   Studer A, 2011, NAT GENET, V43, P1160, DOI 10.1038/ng.942
+   Tadiello A, 2009, J EXP BOT, V60, P651, DOI 10.1093/jxb/ern313
+   Tallamy DW, 2009, CONSERV BIOL, V23, P941, DOI 10.1111/j.1523-1739.2009.01202.x
+   Tallamy DW, 2004, CONSERV BIOL, V18, P1689, DOI 10.1111/j.1523-1739.2004.00512.x
+   Tallamy DW, 2007, BRINGING NATURE HOME
+   Tang SX, 2003, THEOR APPL GENET, V106, P990, DOI 10.1007/s00122-002-1127-6
+   Tani E, 2009, PLANT PHYSIOL BIOCH, V47, P690, DOI 10.1016/j.plaphy.2009.03.013
+   Tenczar EG, 2007, HORTSCIENCE, V42, P1396
+   Tian ZX, 2010, P NATL ACAD SCI USA, V107, P8563, DOI 10.1073/pnas.1000088107
+   Till B. J., 2014, GENOMICS PLANT GENET, P349, DOI [10.1007/978-94-007-7572-5_14, DOI 10.1007/978-94-007-7572-5_14]
+   van Heezik YM, 2012, ECOL SOC, V17, DOI 10.5751/ES-04712-170134
+   van Nocker S, 2014, HORTIC RES-ENGLAND, V1, DOI 10.1038/hortres.2014.22
+   Van Tuyl JM, 2003, ACTA HORTIC, P13, DOI 10.17660/ActaHortic.2003.612.1
+   Vanholme B, 2013, NEW PHYTOL, V198, P765, DOI 10.1111/nph.12179
+   Vogel KP, 2005, RANGELAND ECOL MANAG, V58, P315, DOI 10.2111/1551-5028(2005)58[315:PAREAC]2.0.CO;2
+   Wadl PA, 2012, J AM SOC HORTIC SCI, V137, P189
+   Wadl PA, 2011, MOL BREEDING, V27, P409, DOI 10.1007/s11032-011-9551-4
+   Wadl PA, 2008, J AM SOC HORTIC SCI, V133, P783
+   Wang HX, 2014, MOL BREEDING, V34, P143, DOI 10.1007/s11032-014-0025-3
+   Wang NA, 2010, BMC PLANT BIOL, V10, DOI 10.1186/1471-2229-10-137
+   Wang XW, 2009, EUPHYTICA, V165, P165, DOI 10.1007/s10681-008-9802-6
+   Werner DJ, 2011, US Plant Patent, Patent No. 22097
+   Williams AV, 2014, TRENDS PLANT SCI, V19, P529, DOI 10.1016/j.tplants.2014.03.011
+   Windham MT, 2002, US Plant Patent, Patent No. 13098
+   Xiao JH, 2006, PLANT GROWTH REGUL, V50, P179, DOI 10.1007/s10725-006-9117-3
+   Yamane H, 2011, SCI HORTIC-AMSTERDAM, V129, P844, DOI 10.1016/j.scienta.2011.05.013
+   Yue CY, 2012, HORTSCIENCE, V47, P1091
+   Yue CY, 2011, AGR ECON-BLACKWELL, V42, P195, DOI 10.1111/j.1574-0862.2010.00510.x
+   Zhang F, 2011, EUPHYTICA, V177, P15, DOI 10.1007/s10681-010-0239-3
+   Zhang L, 2008, J GENET GENOMICS, V35, P365, DOI 10.1016/S1673-8527(08)60053-3
+   Zhang ZH, 2008, EUPHYTICA, V159, P59, DOI 10.1007/s10681-007-9457-8
+NR 148
+TC 4
+Z9 4
+U1 3
+U2 23
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2052-7276
+J9 HORTIC RES-ENGLAND
+JI Hortic. Res.-England
+PD JAN 28
+PY 2015
+VL 2
+AR 14069
+DI 10.1038/hortres.2014.69
+PG 8
+WC Plant Sciences; Horticulture
+SC Plant Sciences; Agriculture
+GA CQ6DP
+UT WOS:000360694900001
+PM 26504560
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Lee, YL
+   Hu, HY
+   Chou, P
+   Chu, DC
+AF Lee, Ya-Ling
+   Hu, Hsiao-Yun
+   Chou, Pesus
+   Chu, Dachen
+TI Dental prophylaxis decreases the risk of acute myocardial infarction: a
+   nationwide population-based study in Taiwan
+SO CLINICAL INTERVENTIONS IN AGING
+LA English
+DT Article
+DE periodontal disease; acute myocardial infarction; dental prophylaxis;
+   dental scaling
+ID C-REACTIVE PROTEIN; CORONARY-HEART-DISEASE; PERIODONTAL-DISEASE;
+   CARDIOVASCULAR-DISEASE; VASCULAR-DISEASE; ORAL INFECTIONS;
+   ISCHEMIC-STROKE; ASSOCIATION; HEALTH; EPIDEMIOLOGY
+AB Purpose: To investigate the association between periodontal disease (PD) and acute myocardial infarction (AMI), and evaluate the effect of dental prophylaxis on the incidence rate (IR) of AMI.
+   Methods: The Longitudinal Health Insurance Database 2000 from the National Health Insurance program was used to identify 511,630 patients with PD and 208,713 without PD during 2000-2010. Subjects with PD were grouped according to treatment (dental prophylaxis, intensive treatment, and PD without treatment). The IRs of AMI during the 10-year follow-up period were compared among groups. Cox regression analysis adjusted for age, sex, socioeconomic status, residential urbanicity, and comorbidities was used to evaluate the effect of PD treatment on the incidence of AMI.
+   Results: The IR of AMI among subjects without PD was 0.19%/ year. Among those with PD, the IR of AMI was lowest in the dental prophylaxis group (0.11%/ year), followed by the intensive treatment (0.28%/ year) and PD without treatment (0.31%/ year; P<0.001) groups. Cox regression showed that the hazard ratio (HR) for AMI was significantly lower in the dental prophylaxis group (HR = 0.90, 95% confidence interval = 0.86-0.95) and higher in the intensive treatment (HR = 1.09, 95% confidence interval = 1.03-1.15) and PD without treatment (HR = 1.23, 95% confidence interval = 1.13-1.35) groups than in subjects without PD.
+   Conclusion: PD is associated with a higher risk of AMI, which can be reduced by dental prophylaxis to maintain periodontal health.
+C1 [Lee, Ya-Ling] Taipei City Hosp, Dept Dent, Taipei, Taiwan.
+   [Lee, Ya-Ling; Hu, Hsiao-Yun; Chou, Pesus; Chu, Dachen] Natl Yang Ming Univ, Inst Publ Hlth, Taipei 112, Taiwan.
+   [Lee, Ya-Ling; Hu, Hsiao-Yun; Chou, Pesus; Chu, Dachen] Natl Yang Ming Univ, Community Med Res Ctr, Taipei 112, Taiwan.
+   [Hu, Hsiao-Yun] Taipei City Hosp, Dept Educ & Res, Taipei, Taiwan.
+   [Chu, Dachen] Natl Taipei Univ Nursing & Hlth Sci, Dept Hlth Care Management, Taipei, Taiwan.
+   [Chu, Dachen] Taipei City Hosp, Dept Neurosurg, Taipei, Taiwan.
+RP Chu, DC (reprint author), Taipei City Hosp, Zhongxing Branch, 145 Zheng Zhou Rd, Taipei, Taiwan.
+EM DAD57@tpech.gov.tw
+CR Albandar JM, 2011, J PERIODONTOL, V82, P337, DOI 10.1902/jop.2011.100638
+   Albandar JM, 2002, PERIODONTOL 2000, V29, P7, DOI 10.1034/j.1600-0757.2002.290101.x
+   Andriankaja OM, 2006, J PERIODONTOL, V77, P1067, DOI 10.1902/jop.2006.050276
+   Andriankaja OM, 2007, EUR J EPIDEMIOL, V22, P699, DOI 10.1007/s10654-007-9166-6
+   Arbes SJ, 1999, J DENT RES, V78, P1777, DOI 10.1177/00220345990780120301
+   Bahekar AA, 2007, AM HEART J, V154, P830, DOI 10.1016/j.ahj.2007.06.037
+   Chen ZY, 2012, AM J MED, V125, P568, DOI 10.1016/j.amjmed.2011.10.034
+   de Oliveira C, 2010, BMJ-BRIT MED J, V340, DOI 10.1136/bmj.c2451
+   Deliargyris EN, 2004, AM HEART J, V147, P1005, DOI 10.1016/j.ahj.2003.12.022
+   Desvarieux M, 2005, CIRCULATION, V111, P576, DOI 10.1161/01.CIR.0000154582.37101.15
+   Desvarieux M, 2003, STROKE, V34, P2120, DOI 10.1161/01.STR.0000085086.50957.22
+   Di Napoli M, 2005, STROKE, V36, P1316, DOI 10.1161/01.STR.0000165929.78756.ed
+   Dietrich T, 2008, CIRCULATION, V117, P1668, DOI 10.1161/CIRCULATIONAHA.107.711507
+   Dogan B, 2005, J PERIODONTOL, V76, P740, DOI 10.1902/jop.2005.76.5.740
+   Dorn BR, 1999, INFECT IMMUN, V67, P5792
+   Dorn JM, 2010, J PERIODONTOL, V81, P502, DOI 10.1902/jop.2009.090499
+   Dye BA, 2007, VITAL HLTH STAT, V248, P1
+   Emingil G, 2000, J PERIODONTOL, V71, P1882, DOI 10.1902/jop.2000.71.12.1882
+   Geerts SO, 2004, J PERIODONTOL, V75, P1274, DOI 10.1902/jop.2004.75.9.1274
+   Greenland P, 2003, JAMA-J AM MED ASSOC, V290, P891, DOI 10.1001/jama.290.7.891
+   Gunupati S, 2011, J PERIODONTOL, V82, P1657, DOI 10.1902/jop.2011.110002
+   Howell TH, 2001, J AM COLL CARDIOL, V37, P445, DOI 10.1016/S0735-1097(00)01130-X
+   Hujoel PP, 2000, JAMA-J AM MED ASSOC, V284, P1406, DOI 10.1001/jama.284.11.1406
+   Humphrey LL, 2008, J GEN INTERN MED, V23, P2079, DOI 10.1007/s11606-008-0787-6
+   Julian DG, 1997, EUR HEART J, V18, P394
+   Kiechl S, 2001, CIRCULATION, V103, P1064, DOI 10.1161/01.CIR.103.8.1064
+   Kodovazenitis G, 2011, J DENT, V39, P849, DOI 10.1016/j.jdent.2011.09.005
+   Lee YL, 2013, STROKE, V44, P1026, DOI 10.1161/STROKEAHA.111.000076
+   Lockhart PB, 2012, CIRCULATION, V125, P2520, DOI 10.1161/CIR.0b013e31825719f3
+   Loesche W J, 1998, Ann Periodontol, V3, P161, DOI 10.1902/annals.1998.3.1.161
+   Lowe G D, 2001, Ann Periodontol, V6, P1, DOI 10.1902/annals.2001.6.1.1
+   MATTILA KJ, 1989, BRIT MED J, V298, P779, DOI 10.1136/bmj.298.6676.779
+   Mustapha IZ, 2007, J PERIODONTOL, V78, P2289, DOI 10.1902/jop.2007.070140
+   Noack B, 2001, J PERIODONTOL, V72, P1221, DOI 10.1902/jop.2000.72.9.1221
+   Paster BJ, 2001, J BACTERIOL, V183, P3770, DOI 10.1128/JB.183.12.3770-3783.2001
+   Petersen PE, 2005, J PERIODONTOL, V76, P2187, DOI 10.1902/jop.2005.76.12.2187
+   Pihlstrom BL, 2005, LANCET, V366, P1809, DOI 10.1016/S0140-6736(05)67728-8
+   Ridker PM, 2008, J PERIODONTOL, V79, P1544, DOI 10.1902/jop.2008.080249
+   Roger VL, 2012, CIRCULATION, V125, pE2, DOI 10.1161/CIR.0b013e31823ac046
+   Sanz M, 2010, EUR HEART J SUPPL, V12, pB3, DOI 10.1093/eurheartj/suq003
+   Scannapieco Frank A, 2003, Ann Periodontol, V8, P38, DOI 10.1902/annals.2003.8.1.38
+   Socransky S, 2005, PERIODONTOLOGY, V38, P9
+   Stein JM, 2009, J PERIODONTOL, V80, P1581, DOI 10.1902/jop.2009.090170
+   Stein JM, 2009, J PERIODONTOL, V80, P1095, DOI 10.1902/jop.2009.080639
+   Willershausen B, 2009, J ENDODONT, V35, P626, DOI 10.1016/j.joen.2009.01.012
+   Wu TJ, 2000, AM J EPIDEMIOL, V151, P273
+   Wu TJ, 2000, ARCH INTERN MED, V160, P2749, DOI 10.1001/archinte.160.18.2749
+   Yeboah J, 2012, JAMA-J AM MED ASSOC, V308, P788, DOI 10.1001/jama.2012.9624
+NR 48
+TC 4
+Z9 4
+U1 2
+U2 12
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1178-1998
+J9 CLIN INTERV AGING
+JI Clin. Interv. Aging
+PY 2015
+VL 10
+BP 175
+EP 182
+DI 10.2147/CIA.S67854
+PG 8
+WC Geriatrics & Gerontology
+SC Geriatrics & Gerontology
+GA AY1TN
+UT WOS:000347375000002
+PM 25609934
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT S
+AU Huang, Y
+   Chen, M
+   Cai, ZP
+   Guan, X
+   Ohtsuki, T
+   Zhang, Y
+AF Huang, Yan
+   Chen, Min
+   Cai, Zhipeng
+   Guan, Xin
+   Ohtsuki, Tomoaki
+   Zhang, Yan
+GP IEEE
+TI Graph Theory Based Capacity Analysis for Vehicular Ad Hoc Networks
+SO 2015 IEEE GLOBAL COMMUNICATIONS CONFERENCE (GLOBECOM)
+SE IEEE Global Communications Conference
+LA English
+DT Proceedings Paper
+CT IEEE Global Telecommunications Conference (GLOBECOM)
+CY DEC 06-10, 2015
+CL San Diego, CA
+SP IEEE, QUALCOMM, Keysight Technologies, Huawei, Natl Instruments, Intel, InterDigital, LG Elect, IEEE Big Data, IEEE Stand Assoc, ViaSat, IEEE Commun Soc
+ID WIRELESS NETWORKS
+AB Vehicular ad hoc networks (VANETs) which are deployed along roads make traffic systems safer and efficient. Existing theoretical results on capacity scaling laws provide insights and guidance for the design and deployment of VANETs. In this paper, we propose a novel fundamental framework RVWNM (Real Vehicular Wireless Network Model), which enables a more realistic capacity analysis in VANETs. We first introduce a Euclidean planar graph which can be constructed from any real map of urban area, and represents the practical geometry structure of the urban area. Then, an interference relationship graph is abstracted from the Euclidean planar graph which considers the transmission interference relations among the nodes in the network. Finally, we analyze theoretically the interference relationships in the interference relationship graph. As far as we know, we are the first to use a practical geometry structure to calculate the asymptotic capacity of VANETs. To verify the feasibility of RVWNM, we calculate the asymptotic capacity of urban area VANETs with the consideration of social-proximity based mobility of vehicles.
+C1 [Huang, Yan] Heilongjiang Univ, Sch Elect Engn, Harbin 150080, Heilongjiang, Peoples R China.
+   [Chen, Min] Huazhong Univ Sci & Technol, Sch Comp Sci & Technol, Wuhan 430074, Peoples R China.
+   [Huang, Yan; Cai, Zhipeng] Georgia State Univ, Dept Comp Sci, Atlanta, GA 30303 USA.
+   [Guan, Xin] Heilongjiang Univ, Sch Informat Sci & Technol, Harbin 150080, Heilongjiang, Peoples R China.
+   [Ohtsuki, Tomoaki] Keio Univ, Grad Sch Sci & Technol, Yokohama, Kanagawa 2238522, Japan.
+   [Zhang, Yan] Univ Oslo, Simula Res Lab, Oslo, Norway.
+   [Zhang, Yan] Univ Oslo, Dept Informat, Oslo, Norway.
+RP Huang, Y (reprint author), Heilongjiang Univ, Sch Elect Engn, Harbin 150080, Heilongjiang, Peoples R China.
+EM chnhuangyan@gmail.com; minchen@ieee.org; zhipeng.cai@gmail.com;
+   guanxin.hlju@gmail.com; ohtsuki@ics.keio.ac.jp; yanzhang@simula.no
+CR Alfano G, 2010, IEEE ACM T NETWORK, V18, P1624, DOI 10.1109/TNET.2010.2048719
+   Cai ZP, 2009, THEOR COMPUT SCI, V410, P5415, DOI 10.1016/j.tcs.2009.05.013
+   Cheng XZ, 2008, WIREL NETW, V14, P347, DOI 10.1007/s11276-006-0724-8
+   Cheng XZ, 2003, NETWORKS, V42, P202, DOI 10.1002/net.10097
+   Ding M., 2005, INFOCOM
+   Garetto M, 2010, IEEE T INFORM THEORY, V56, P5016, DOI 10.1109/TIT.2010.2059510
+   Groemer H., 1960, MATH Z, V73
+   Gupta P, 2000, IEEE T INFORM THEORY, V46, P388, DOI 10.1109/18.825799
+   Li XY, 2010, IEEE ACM T NETWORK, V18, P1145, DOI 10.1109/TNET.2009.2037431
+   Lu N., 2012, P IEEE INFOCOM
+   Mao GQ, 2012, IEEE ACM T NETWORK, V20, P408, DOI 10.1109/TNET.2011.2160650
+   Neely M. J., 2005, IEEE T INFORM THEORY, V51
+   Pishro-Nik H., 2007, P ALL C
+   Rohatgi V. K., 2011, INTRO PROBABILITY ST
+   Sarafijanovic-Djukic N., 2006, P IEEE SECON
+   Trudeau R.J., 1994, INTRO GRAPH THEORY
+   Zheng X., 2014, 15 ACM INT S MOB AD
+NR 17
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2334-0983
+BN 978-1-4799-5952-5
+J9 IEEE GLOB COMM CONF
+PY 2015
+DI 10.1109/GLOCOM.2015.7417561
+PG 5
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA BF5OL
+UT WOS:000382389303137
+DA 2019-03-26
+ER

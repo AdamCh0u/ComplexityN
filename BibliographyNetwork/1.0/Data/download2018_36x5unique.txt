@@ -1,0 +1,599 @@
+
+PT J
+AU Barros, LM
+   Martins, RT
+   Ferreira-Keppler, RL
+   Gutjahr, ALN
+AF Barros, L. M.
+   Martins, R. T.
+   Ferreira-Keppler, R. L.
+   Gutjahr, A. L. N.
+TI Fresh and Dry Mass Estimates of Hermetia illucens (Linnaeus, 1758)
+   (Diptera: Stratiomyidae) Larvae Associated with Swine Decomposition in
+   Urban Area of Central Amazonia
+SO NEOTROPICAL ENTOMOLOGY
+LA English
+DT Article
+DE Allometry; biomass; insects; morphometry; regression models
+ID LENGTH-WEIGHT RELATIONSHIPS; BLACK SOLDIER-FLY; TRICHOPTERA
+   CALAMOCERATIDAE; POSTMORTEM INTERVAL; BODY LENGTH; BIOMASS; INSECT;
+   MACROINVERTEBRATES; INVERTEBRATES; PRESERVATION
+AB Information on biomass is substantial for calculating growth rates and may be employed in the medicolegal and economic importance of Hermetia illucens (Linnaeus, 1758). Although biomass is essential to understanding many ecological processes, it is not easily measured. Biomass may be determined by directly weighing or indirectly through regression models of fresh/dry mass versus body dimensions. In this study, we evaluated the association between morphometry and fresh/dry mass of immature H. illucens using linear, exponential, and power regression models. We measured width and length of the cephalic capsule, overall body length, and width of the largest abdominal segment of 280 larvae. Overall body length and width of the largest abdominal segment were the best predictors for biomass. Exponential models best fitted body dimensions and biomass (both fresh and dry), followed by power and linear models. In all models, fresh and dry biomass were strongly correlated (> 75%). Values estimated by the models did not differ from observed ones, and prediction power varied from 27 to 79%. Accordingly, the correspondence between biomass and body dimensions should facilitate and motivate the development of applied studies involving H. illucens in the Amazon region.
+C1 [Barros, L. M.; Martins, R. T.; Ferreira-Keppler, R. L.] Inst Nacl Pesquisas Amazonia INPA, Coordenacao Biodiversidade, Manaus, Amazonas, Brazil.
+   [Martins, R. T.] Univ Fed Goias UFG, Programa Posgrad Ecol & Evolucao, Goiania, Go, Brazil.
+   [Gutjahr, A. L. N.] Univ Estado Para UEPA, Dept Ciencias Nat, Belem, Para, Brazil.
+RP Barros, LM (reprint author), Inst Nacl Pesquisas Amazonia INPA, Coordenacao Biodiversidade, Manaus, Amazonas, Brazil.
+EM barrosluana222@gmail.com
+FU Coordenacao de aperfeicoamento de Pessoal de Nivel Superior - CAPES;
+   Programa de Apoio a Fixacao de Doutores no Amazonas-FIXAM/AM (FAPEAM);
+   Programa Nacional de Pos-Doutorado - PNPD/CAPES Programa de Posgraduacao
+   em Ecologia e Evolucao - PPGEE/UFG fellowships; Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq) [306081/2013-0]
+FX We thank Leo Rossi for photography acquisition. LMB received a
+   scholarship from Coordenacao de aperfeicoamento de Pessoal de Nivel
+   Superior - CAPES. RTM received a fellowship from the Programa de Apoio a
+   Fixacao de Doutores no Amazonas-FIXAM/AM (FAPEAM) and Programa Nacional
+   de Pos-Doutorado - PNPD/CAPES Programa de Posgraduacao em Ecologia e
+   Evolucao - PPGEE/UFG fellowships. RLFK received a research fellowship
+   (proc. 306081/2013-0) from the Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq). "Sistematica Integrada de Insetos
+   Aquaticos, com enfase em Simuliidae (Diptera: Nematocera) na America do
+   Sul," Proequipamentos Institucional/CAPES, and INCT/ADAPTA I I
+   (CNPq/FAPEAM) projects supported the invertebrate sample collection,
+   laboratory analyses, and stereomicroscope acquisition.
+CR Becker B, 2009, AQUAT INSECT, V31, P227, DOI 10.1080/01650420902787549
+   BELINIC I, 1992, PERIOD BIOL, V94, P47
+   Benecke M, 2001, FORENSIC SCI INT, V120, P155, DOI 10.1016/S0379-0738(01)00424-8
+   Benke AC, 1999, J N AM BENTHOL SOC, V18, P308, DOI 10.2307/1468447
+   Berg MP, 2000, EUR J SOIL BIOL, V36, P127, DOI 10.1016/S1164-5563(00)01055-4
+   Beserra EB, 2009, NEOTROP ENTOMOL, V38, P847, DOI 10.1590/S1519-566X2009000600020
+   Brady CJ, 2006, AUST J ENTOMOL, V45, P187, DOI 10.1111/j.1440-6055.2006.00533.x
+   Burgherr P, 1997, ARCH HYDROBIOL, V139, P101
+   de Brito JG, 2015, REV BRAS ENTOMOL, V59, P332, DOI 10.1016/j.rbe.2015.09.003
+   DERMOTT RM, 1974, CAN J ZOOL, V52, P1243, DOI 10.1139/z74-165
+   Diener S, 2011, WASTE BIOMASS VALORI, V2, P357, DOI 10.1007/s12649-011-9079-1
+   Ganihar SR, 1997, J BIOSCIENCE, V22, P219, DOI 10.1007/BF02704734
+   GOWING G, 1984, AUST J ECOL, V9, P5, DOI 10.1111/j.1442-9993.1984.tb01612.x
+   Gruner Daniel S., 2003, Pacific Science, V57, P325, DOI 10.1353/psc.2003.0021
+   Hawkins JW, 1997, CAN J ZOOL, V75, P501, DOI 10.1139/z97-061
+   Johnson MD, 2000, ENTOMOL NEWS, V111, P270
+   Kennedy TA, 2016, BIOSCIENCE, V66, P561, DOI 10.1093/biosci/biw059
+   Knapp M, 2012, ENTOMOL EXP APPL, V143, P185, DOI 10.1111/j.1570-7458.2012.01247.x
+   LEUVEN RSEW, 1985, HYDROBIOLOGIA, V127, P151, DOI 10.1007/BF00004193
+   LORD WD, 1994, J FORENSIC SCI, V39, P215
+   Martins RT, 2014, ZOOLOGIA-CURITIBA, V31, P337, DOI 10.1590/S1984-46702014000400005
+   May B. M., 1961, New Zealand Journal of Science Wellington, V4, P55
+   Nguyen TTX, 2013, J MED ENTOMOL, V50, P898, DOI 10.1603/ME12260
+   Oliveira Fernanda, 2015, Journal of Entomology and Zoology Studies, V3, P147
+   Pujol-Luz JR, 2008, J FORENSIC SCI, V53, P476, DOI 10.1111/j.1556-4029.2008.00659.x
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Radtke MG, 2005, ANN ENTOMOL SOC AM, V98, P548, DOI 10.1603/0013-8746(2005)098[0548:VALMAP]2.0.CO;2
+   ROGERS LE, 1976, ANN ENTOMOL SOC AM, V69, P387, DOI 10.1093/aesa/69.2.387
+   ROGERS LE, 1977, ANN ENTOMOL SOC AM, V70, P51, DOI 10.1093/aesa/70.1.51
+   Sharma R, 2015, EGYPT J FORENSIC SCI, V5, P1, DOI DOI 10.1016/J.EJFS.2013.04.002
+   STORK NE, 1988, BIOL J LINN SOC, V35, P321, DOI 10.1111/j.1095-8312.1988.tb00474.x
+   Tomberlin J. K., 2015, Journal of Insects as Food and Feed, V1, P307, DOI 10.3920/JIFF2015.0098
+   Tomberlin JK, 2005, J FORENSIC SCI, V50, P152
+   Tomberlin JK, 2002, ANN ENTOMOL SOC AM, V95, P379, DOI 10.1603/0013-8746(2002)095[0379:SLHTOB]2.0.CO;2
+   TUCKER JW, 1984, COPEIA, P981
+   von Schiller D, 2005, ARCH HYDROBIOL, V164, P325, DOI 10.1127/0003-9136/2005/0164-0325
+   Wardhaugh CW, 2013, AUST J ENTOMOL, V52, P291, DOI 10.1111/aen.12032
+   Wetzel MA, 2005, HELGOLAND MAR RES, V59, P206, DOI 10.1007/s10152-005-0220-z
+   Zar JH, 2010, BIOSTAT ANAL, P435
+NR 39
+TC 0
+Z9 0
+U1 9
+U2 12
+PU ENTOMOLOGICAL SOC BRASIL
+PI LONDRINA,
+PA CAIXA POSTAL 481, 86001-970 LONDRINA,, PR, BRAZIL
+SN 1519-566X
+EI 1678-8052
+J9 NEOTROP ENTOMOL
+JI Neotrop. Entomol.
+PD AUG
+PY 2018
+VL 47
+IS 4
+BP 478
+EP 483
+DI 10.1007/s13744-017-0544-9
+PG 6
+WC Entomology
+SC Entomology
+GA GI5DJ
+UT WOS:000434390900006
+PM 28776180
+DA 2019-03-26
+ER
+
+PT J
+AU Depersin, J
+   Barthelemy, M
+AF Depersin, Jules
+   Barthelemy, Marc
+TI From global scaling to the dynamics of individual cities
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE science of cities; scaling; dynamics of cities; urban modeling; traffic
+   congestion
+ID URBAN; CONGESTION
+AB Scaling has been proposed as a powerful tool to analyze the properties of complex systems and in particular for cities where it describes how various properties change with population. The empirical study of scaling on a wide range of urban datasets displays apparent nonlinear behaviors whose statistical validity and meaning were recently the focus of many debates. We discuss here another aspect, which is the implication of such scaling forms on individual cities and how they can be used for predicting the behavior of a city when its population changes. We illustrate this discussion in the case of delay due to traffic congestion with a dataset of 101 US cities in the years 1982-2014. We show that the scaling form obtained by agglomerating all of the available data for different cities and for different years does display a nonlinear behavior, but which appears to be unrelated to the dynamics of individual cities when their population grows. In other words, the congestion-induced delay in a given city does not depend on its population only, but also on its previous history. This strong path dependency prohibits the existence of a simple scaling form valid for all cities and shows that we cannot always agglomerate the data for many different systems. More generally, these results also challenge the use of transversal data for understanding longitudinal series for cities.
+C1 [Depersin, Jules; Barthelemy, Marc] Commissariat Energie Atom CEA Saclay, Inst Phys Theor, F-91191 Gif Sur Yvette, France.
+   [Barthelemy, Marc] Ecole Hautes Etud Sci Sociales, Ctr Anal & Math Sociales, F-75006 Paris, France.
+RP Barthelemy, M (reprint author), Commissariat Energie Atom CEA Saclay, Inst Phys Theor, F-91191 Gif Sur Yvette, France.; Barthelemy, M (reprint author), Ecole Hautes Etud Sci Sociales, Ctr Anal & Math Sociales, F-75006 Paris, France.
+EM marc.barthelemy@ipht.fr
+CR Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Barthelemy M., 2016, STRUCTURE DYNAMICS C
+   Barthelemy M, 2016, ENVIRON PLANN B, V43, P800, DOI 10.1177/0265813516649955
+   Batty M., 2013, NEW SCI CITIES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bouchaud JP, 1997, SPIN GLASSES RANDOM, P161
+   Chang YS, 2017, TRANSPORT POLICY, V59, P54, DOI 10.1016/j.tranpol.2017.07.002
+   Cottineau C, 2017, COMPUT ENVIRON URBAN, V63, P80, DOI 10.1016/j.compenvurbsys.2016.04.006
+   Fielding SM, 2000, J RHEOL, V44, P323, DOI 10.1122/1.551088
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Glaeser EL, 2010, J URBAN ECON, V67, P404, DOI 10.1016/j.jue.2009.11.006
+   Leitao JC, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150649
+   Lomax T, 2015, APPENDIX A METHODOLO
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Patterson-Lomba O, 2015, SEX TRANSM INFECT, V91, P610, DOI 10.1136/sextrans-2014-051932
+   Pumain D, 2004, SCALING LAWS URBAN S
+   Rybski D, 2017, ENVIRON PLAN B-URBAN, V44, P425, DOI 10.1177/0265813516638340
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Sasaki M, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.104405
+   Shalizi CR, 2011, ARXIV11024101
+   Texas A& M Transportation Institute, 2015, EXC SPREADSH 101 URB
+   Thisse JF, 2014, J ECON LIT, V52, P805, DOI 10.1257/jel.52.3.805
+   Youn H, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2015.0937
+NR 27
+TC 1
+Z9 1
+U1 3
+U2 9
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAR 6
+PY 2018
+VL 115
+IS 10
+BP 2317
+EP 2322
+DI 10.1073/pnas.1718690115
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FY2UK
+UT WOS:000426671900054
+PM 29463762
+DA 2019-03-26
+ER
+
+PT J
+AU Feng, YH
+   Wu, SF
+   Wu, PX
+   Su, SL
+   Weng, M
+   Bian, M
+AF Feng, Yuhao
+   Wu, Shufan
+   Wu, Peixin
+   Su, Shiliang
+   Weng, Min
+   Bian, Meng
+TI Spatiotemporal characterization of megaregional poly-centrality:
+   Evidence for new urban hypotheses and implications for polycentric
+   policies
+SO LAND USE POLICY
+LA English
+DT Article
+DE Polycentric structure; Megaregion; Urban expansion; Land use change
+   modeling
+ID MEGA-CITY-REGIONS; TRANSPORTATION NETWORK; COUNTER-URBANIZATION; SPATIAL
+   STRUCTURE; CITIES; EMPLOYMENT; CHINA; SUBCENTERS; DYNAMICS; CENTERS
+AB Poly-centrality is an essential feature of megaregions and is generally considered an important source of megaregional vitality and competitiveness. Numerous studies have highlighted the growing trends of polycentrality across different megaregions worldwide. However, with accelerated urbanization, some observations suggest that the existing polycentric urban theories must be improved and that decision-makers require more knowledge on the potential trends, spatial characteristics and influencing factors of polycentric development to implement sustainable regional governance under this context. This paper proposes a series of hypotheses on spatiotemporal dynamics of polycentric megaregion evolution and verifies them in an empirical study on the Megaregion around Hangzhou Bay (MAHB). A new algorithm, which is applicable for long time series data, is proposed to evaluate and monitor the status of polycentric development in MAHB. In particular, landscape metrics and average nearest neighbor analysis are employed in the first stage of our algorithm which is designed to implement data compression. Then, the gravity model, minimum spanning tree (MST) and weighed betweenness centrality indicator form the second stage which aims to construct and explore the polycentric megaregional network. Results show that: (1) the speed and patterns of built-up land expansion significantly affect the number and distribution of megaregion centers; (2) the value of poly-centrality reaches a maximum in approximately 2013 and then declines, which can be well fitted by a Gaussian curve; and (3) the variation of poly-centrality is successively dominated by an increase and decrease in the number of centers with urbanization. This paper renews the assumptions in current polycentric evolution models and provides evidences for single-peaked change of megaregion center number instead of "wave-like", "scaling-up" or monotonous change proposed in existing urban theories. The proposed algorithm and assumed mechanisms can also be applied to model and explore poly-centrality dynamics of other megaregions around the world. The results are believed to provide critical implications for polycentric policies.
+C1 [Feng, Yuhao; Wu, Shufan; Wu, Peixin; Su, Shiliang; Weng, Min] Wuhan Univ, Sch Resource & Environm Sci, Wuhan, Hubei, Peoples R China.
+   [Su, Shiliang] Beijing Key Lab Urban Spatial Informat Engn, Beijing, Peoples R China.
+   [Su, Shiliang] Wuhan Univ, Collaborat Innovat Ctr Geospatial Technol, Wuhan, Hubei, Peoples R China.
+   [Bian, Meng] Wuhan Univ, Sch Remote Sensing & Informat Engn, Wuhan, Hubei, Peoples R China.
+RP Su, SL (reprint author), 129 Luoyu Rd, Wuhan, Hubei, Peoples R China.
+EM shiliangsu@whu.edu.cn
+FU Open Research Fund Program of Beijing Key Laboratory of Urban Spatial
+   Information Engineering [2017101]; Fundamental Research Funds for the
+   Central Universities [2042018kf0223]
+FX We appreciate the comments from two anonymous reviewers. Funding support
+   for this study includes the Open Research Fund Program of Beijing Key
+   Laboratory of Urban Spatial Information Engineering (No. 2017101) and
+   the Fundamental Research Funds for the Central Universities (No.
+   2042018kf0223).
+CR ADB (Asian Development Bank), 2009, PEOPL REP CHIN FAC P
+   Aguilera A, 2004, URBAN PUBLIC EC REV, V1, P93
+   Alvarez-Socorro AJ, 2015, SCI REP-UK, V5, DOI 10.1038/srep17095
+   Anas A, 1998, J ECON LIT, V36, P1426
+   Arndt M, 2000, URBAN STUD, V37, P1903, DOI 10.1080/00420980050162157
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   BAVELAS A, 1950, J ACOUST SOC AM, V22, P723
+   Beaverstock JV, 2000, ANN ASSOC AM GEOGR, V90, P123, DOI 10.1111/0004-5608.00188
+   BERRY BJL, 1980, ANN AM ACAD POLIT SS, V451, P13, DOI 10.1177/000271628045100103
+   BERRY BJL, 1993, GEOGR ANAL, V25, P1
+   BMCUP (Beijing Municipal Commission of Urban Planning), 2017, BEIJ URB OV PLANN 20
+   Boyce R. R., 1966, BRIT COLUMBIA GEOGRA, V7, P31
+   Burger MJ, 2011, CITIES, V28, P160, DOI 10.1016/j.cities.2010.11.006
+   Burger MJ, 2014, EUR PLAN STUD, V22, P816, DOI 10.1080/09654313.2013.771619
+   Caruso G, 2017, LANDSCAPE URBAN PLAN, V163, P80, DOI 10.1016/j.landurbplan.2017.03.003
+   Cervero R, 1997, ENVIRON PLANN A, V29, P865, DOI 10.1068/a290865
+   [陈崇�? Chen Chongcheng], 2005, [地球信息科学, Geo-information Science], V7, P89
+   Clarke KC, 1997, ENVIRON PLANN B, V24, P247, DOI 10.1068/b240247
+   Comin M. N., 2013, METHODS MULTILEVEL A, P177, DOI DOI 10.1007/978-94-007-6677-8
+   De Goei B, 2010, REG STUD, V44, P1149, DOI 10.1080/00343400903365102
+   Dietzel C, 2005, INT J GEOGR INF SCI, V19, P175, DOI 10.1080/13658810410001713407
+   Dietzel C, 2005, ENVIRON PLANN B, V32, P231, DOI 10.1068/b31148
+   Dijkstra E. W., 1959, NUMER MATH, V1, P269, DOI [DOI 10.1007/BF01386390, 10.1007/BF01386390]
+   [丁小�? Ding Xiaoyan], 2013, [地理与地理信息科�?, Geography and Geo-information Science], V29, P83
+   Ducruet C., 2013, METHODS MULTILEVEL A, P121
+   Eastman J. R., 2009, IDRISI TAIGA GUIDE G
+   ESRI, 2012, ARCGIS DESKT REL 10
+   Fall A, 2007, ECOSYSTEMS, V10, P448, DOI 10.1007/s10021-007-9038-7
+   FIELDING AJ, 1982, PROG PLANN, V17, P1, DOI 10.1016/0305-9006(82)90006-X
+   Florida R, 2008, CAMB J REG ECON SOC, V1, P459, DOI 10.1093/cjres/rsn018
+   FLOYD RW, 1962, COMMUN ACM, V5, P345, DOI 10.1145/367766.368168
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Galster G, 2001, HOUS POLICY DEBATE, V12, P681, DOI 10.1080/10511482.2001.9521426
+   GIULIANO G, 1991, REG SCI URBAN ECON, V21, P163, DOI 10.1016/0166-0462(91)90032-I
+   GORDON P, 1986, ENVIRON PLANN A, V18, P161, DOI 10.1068/a180161
+   GORDON P, 1991, J AM PLANN ASSOC, V57, P416, DOI 10.1080/01944369108975516
+   Green N, 2007, URBAN STUD, V44, P2077, DOI 10.1080/00420980701518941
+   GRIFFITH DA, 1981, J URBAN ECON, V9, P298, DOI 10.1016/0094-1190(81)90029-2
+   Guimera R, 2005, P NATL ACAD SCI USA, V102, P7794, DOI 10.1073/pnas.0407994102
+   Hajrasouliha AH, 2017, URBAN GEOGR, V38, P420, DOI 10.1080/02723638.2016.1165386
+   Hall P, 2006, POLYCENTRIC METROPOL, P3
+   Hennemann S, 2014, ENVIRON PLANN B, V41, P392, DOI 10.1068/b39108
+   Jiao JJ, 2017, J TRANSP GEOGR, V60, P257, DOI 10.1016/j.jtrangeo.2017.03.010
+   KATZ L, 1953, PSYCHOMETRIKA, V18, P39
+   Kramar H, 2013, GEOGR POL, V86, P183, DOI 10.7163/GPol.2013.18
+   Krings G, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/L07003
+   Kruskal J. B, 1956, P AM MATH SOC, V7, P48, DOI DOI 10.1090/S0002-9939-1956-0078686-7
+   Lambregts B., 2006, POLYCENTRIC METROPOL, P137
+   Lee B, 2007, J REGIONAL SCI, V47, P479, DOI 10.1111/j.1467-9787.2007.00517.x
+   Liu XP, 2010, LANDSCAPE ECOL, V25, P671, DOI 10.1007/s10980-010-9454-5
+   Liu XJ, 2016, REG STUD, V50, P1302, DOI 10.1080/00343404.2015.1004535
+   Liu XJ, 2016, LANDSCAPE URBAN PLAN, V151, P10, DOI 10.1016/j.landurbplan.2016.03.007
+   Lv ZQ, 2011, ENVIRON EARTH SCI, V62, P1131, DOI 10.1007/s12665-010-0602-7
+   Mansury Y, 2015, COMPUT ENVIRON URBAN, V54, P428, DOI 10.1016/j.compenvurbsys.2015.08.004
+   Masucci AP, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.022812
+   MCDONALD JF, 1990, ENVIRON PLANN A, V22, P1561, DOI 10.1068/a221561
+   MCDONALD JF, 1994, URBAN STUD, V31, P201, DOI 10.1080/00420989420080201
+   MCDONALD JF, 1987, J URBAN ECON, V21, P242, DOI 10.1016/0094-1190(87)90017-9
+   McMillen DP, 2003, J URBAN ECON, V53, P321, DOI 10.1016/S0094-1190(03)00026-3
+   McMillen DP, 2003, URBAN STUD, V40, P57, DOI 10.1080/0042098032000035527
+   Meentemeyer RK, 2013, ANN ASSOC AM GEOGR, V103, P785, DOI 10.1080/00045608.2012.707591
+   Meijers E, 2008, EUR PLAN STUD, V16, P1313, DOI 10.1080/09654310802401805
+   Meijers EJ, 2010, ENVIRON PLANN A, V42, P1383, DOI 10.1068/a42151
+   Mitchell A., 2005, ESRI GUIDE GIS ANAL, V2, P88
+   NDRC (National Development and Reform Commission), 2016, REG PLANN YANGTZ RIV
+   NDRC (National Development and Reform Commission), 2010, REG PLANN YANGTZ RIV
+   NORTHAM RM, 1963, ANN ASSOC AM GEOGR, V53, P50, DOI 10.1111/j.1467-8306.1963.tb00432.x
+   Ortega AA, 2015, CITIES, V48, P130, DOI 10.1016/j.cities.2015.07.002
+   Ostrom E, 2010, GLOBAL ENVIRON CHANG, V20, P550, DOI 10.1016/j.gloenvcha.2010.07.004
+   Ostrom V., 1981, POLYCENTRICITY LOCAL, P52
+   Pain K., 2006, POLYCENTRIC METROPOL, P125
+   Pickard B, 2017, LAND, V6, DOI 10.3390/land6030052
+   Piraveenan M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0053095
+   Polanyi M., 1951, LOGIC LIBERTY, P154
+   Pontius RG, 2006, GEOMOD MODELING
+   Rozenblat C., 2013, HDB THEORETICAL QUAN, P431
+   RPA (Regional Plan Association), 2006, AM 2050 PROSP
+   RPA (Regional Plan Association), 2008, AM 2050 INFR VIS 21
+   Schneider A, 2008, URBAN STUD, V45, P659, DOI 10.1177/0042098007087340
+   SEERA (South East England Regional Assembly), 2005, S E PLAN REG SPAT ST
+   Su SL, 2017, LAND USE POLICY, V63, P1, DOI 10.1016/j.landusepol.2017.01.014
+   Sun PL, 2016, J GEOGR SCI, V26, P272, DOI 10.1007/s11442-016-1268-1
+   Sun Y, 2018, ECOL INDIC, V87, P302, DOI 10.1016/j.ecolind.2017.12.038
+   Sykora L, 2009, URBAN RES PRACT, V2, P233, DOI 10.1080/17535060903319095
+   Taylor PJ, 2008, REG STUD, V42, P1079, DOI 10.1080/00343400701874214
+   Thompson N, 2015, J URBAN PLAN DEV, V141, DOI 10.1061/(ASCE)UP.1943-5444.0000244
+   Tsai YH, 2005, URBAN STUD, V42, P141, DOI 10.1080/004209804200309748
+   Tullock Gordon, 1965, POLITICS BUREAUCRACY
+   Urban D, 2001, ECOLOGY, V82, P1205, DOI 10.1890/0012-9658(2001)082[1205:LCAGTP]2.0.CO;2
+   Van der Laan L, 1998, REG STUD, V32, P235, DOI 10.1080/00343409850119733
+   Vasanen A, 2013, TIJDSCHR ECON SOC GE, V104, P410, DOI 10.1111/tesg.12029
+   VILE MJC, 1967, CONSTITUTIONALISM SE
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Wen YY, 2016, CAMB J REG ECON SOC, V9, P589, DOI 10.1093/cjres/rsw023
+   Wu B., 2016, CHINA LAND COVER
+   Wu J., 2007, LANDSCAPE ECOLOGY PA
+   Wu JG, 2011, ECOL COMPLEX, V8, P1, DOI 10.1016/j.ecocom.2010.03.002
+   Wu K, 2013, J URBAN PLAN DEV, V139, P258, DOI 10.1061/(ASCE)UP.1943-5444.0000120
+   Yu XJ, 2007, LANDSCAPE URBAN PLAN, V79, P96, DOI 10.1016/j.landurbplan.2006.03.008
+   Yue WZ, 2010, ENVIRON PLANN A, V42, P563, DOI 10.1068/a42116
+   Zhang QW, 2016, HABITAT INT, V58, P89, DOI 10.1016/j.habitatint.2016.10.003
+   Zhao MX, 2017, ERDE, V148, P1, DOI 10.12854/erde-148-26
+   Zhao MX, 2011, PROCED EARTH PLAN SC, V2, P309, DOI 10.1016/j.proeps.2011.09.048
+   Zhen F, 2013, CHINESE GEOGR SCI, V23, P274, DOI 10.1007/s11769-013-0595-8
+NR 105
+TC 1
+Z9 1
+U1 27
+U2 27
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-8377
+EI 1873-5754
+J9 LAND USE POLICY
+JI Land Use Pol.
+PD SEP
+PY 2018
+VL 77
+BP 712
+EP 731
+DI 10.1016/j.landusepol.2018.06.022
+PG 20
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA GQ9DW
+UT WOS:000442067100066
+DA 2019-03-26
+ER
+
+PT J
+AU Cepeda, JA
+   Eritsyan, K
+   Vickerman, P
+   Lyubimova, A
+   Shegay, M
+   Odinokova, V
+   Beletsky, L
+   Borquez, A
+   Hickman, M
+   Beyrer, C
+   Martin, NK
+AF Cepeda, Javier A.
+   Eritsyan, Ksenia
+   Vickerman, Peter
+   Lyubimova, Alexandra
+   Shegay, Marina
+   Odinokova, Veronika
+   Beletsky, Leo
+   Borquez, Annick
+   Hickman, Matthew
+   Beyrer, Chris
+   Martin, Natasha K.
+TI Potential impact of implementing and scaling up harm reduction and
+   antiretroviral therapy on HIV prevalence and mortality and overdose
+   deaths among people who inject drugs in two Russian cities: a modelling
+   study
+SO LANCET HIV
+LA English
+DT Article
+ID COST-EFFECTIVENESS; EASTERN-EUROPE; ST-PETERSBURG; CENTRAL-ASIA;
+   HEPATITIS-C; USERS; TRANSMISSION; METAANALYSIS; COVERAGE; HEROIN
+AB Background Most new HIV infections among people who inject drugs (PWID) in eastern Europe and central Asia occur in Russia, where PWID have a high risk of overdose. In Russia, use of opioid agonist therapy (OAT) is prohibited, and coverage of needle and syringe programmes (NSPs) and antiretroviral therapy (ART) is poor. We aimed to assess the effects that scaling up harm reduction (ie, use of OAT and coverage of NSPs) and use of ART might have on HIV incidence and the frequency of fatal overdoses among PWID in two cities in the Ural Federal District and Siberian Federal District, where the prevalence of HIV is high or increasing in PWID.
+   Methods In this modelling study, we developed a dynamic deterministic model that simulated transmission of HIV through injection drug use and sex among PWID. We calibrated this model to HIV prevalence data among PWID in two Russian cities: Omsk (which has high but increasing prevalence of HIV among PWID) and Ekaterinburg (which has very high but stable prevalence of HIV). The source data were from research studies supported by the Global Fund to Fight AIDS, Tuberculosis, and Malaria and US Centers for Disease Control and Prevention and surveillance studies from WHO and regional AIDS centres. We modelled the effects of no intervention scale-up (no use of harm reduction measures and 30% of HIV-positive PWID receiving ART) versus combinations of scaling up of OAT, receipt of high coverage of NSPs, and use of ART on the incidence of HIV infections, mortality from HIV, and the frequency of fatal overdoses from 2018 to 2028.
+   Findings Without intervention, HIV prevalence among PWID in Omsk could increase from 30% in 2018 to 36% (2.5-97.5 percentile interval 22-52) in 2028 and remain high in Ekaterinburg, estimated at 60% (57-67) in 2028. Scaling up OAT to 50% coverage for a duration of 2 years could prevent 35% of HIV infections and 19% of deaths associated with HIV in Omsk and 20% (11-29) of HIV infections and 10% (4-14) of deaths associated with HIV in Ekaterinburg. Further, this scaling up could prevent 33% of overdose deaths over the next 10 years. Scaling up of NSPs and OAT to 50% coverage and tripling recruitment to ART (reaching about 65% of HIV-positive PWID) could prevent 58% (46-69) of HIV infections and 45% (36-54) of deaths associated with HIV in Omsk and 38% (26-50) of HIV infections and 32% (23-41) of deaths associated with HIV in Ekaterinburg by 2028.
+   Interpretation Legalisation of OAT and increased use of ART and NSPs for PWID are urgently needed to prevent HIV and fatal overdose among PWID in Russia. Copyright (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Cepeda, Javier A.; Beletsky, Leo; Borquez, Annick; Martin, Natasha K.] Univ Calif San Diego, Div Infect Dis & Global Publ Hlth, San Diego, CA 92093 USA.
+   [Eritsyan, Ksenia; Lyubimova, Alexandra; Odinokova, Veronika] NGO Stellit, St Petersburg, Russia.
+   [Eritsyan, Ksenia] Natl Res Univ Higher Sch Econ, Dept Sociol, St Petersburg, Russia.
+   [Vickerman, Peter; Hickman, Matthew; Martin, Natasha K.] Univ Bristol, Bristol Med Sch, Populat Hlth Sci, Bristol, Avon, England.
+   [Shegay, Marina] Russian Hlth Care Fdn, Moscow, Russia.
+   [Beletsky, Leo] Northeastern Univ, Sch Law, Boston, MA 02115 USA.
+   [Beletsky, Leo] Northeastern Univ, Bouve Coll Hlth Sci, Boston, MA 02115 USA.
+   [Beyrer, Chris] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Epidemiol, Baltimore, MD USA.
+RP Cepeda, JA (reprint author), Univ Calif San Diego, San Diego, CA 92093 USA.
+EM jacepeda@ucsd.edu
+OI Vickerman, Peter/0000-0002-8291-5890; Hickman,
+   Matthew/0000-0001-9864-459X
+FU National Institutes of Health; Elton John AIDS Foundation
+FX National Institutes of Health and Elton John AIDS Foundation.
+CR Altice FL, 2016, LANCET, V388, P1228, DOI 10.1016/S0140-6736(16)30856-X
+   [Anonymous], 2009, TECHN GUID COUNTR SE
+   Aspinall EJ, 2014, INT J EPIDEMIOL, V43, P235, DOI 10.1093/ije/dyt243
+   Bekker LG, 2018, LANCET, V392, P312, DOI [10.1016/S0140-6736(18)31070-5, 10.1016/s0140-6736(18)31070-5]
+   Bernard CL, 2017, PLOS MED, V14, DOI 10.1371/journal.pmed.1002312
+   Coffin P, 2008, OVERDOSE MAJOR CAUSE
+   Coffin Phillip O, 2013, J Med Econ, V16, P1051, DOI 10.3111/13696998.2013.811080
+   Degenhardt L, 2017, LANCET GLOB HEALTH, V5, pE1192, DOI 10.1016/S2214-109X(17)30375-3
+   Degenhardt L, 2011, ADDICTION, V106, P32, DOI 10.1111/j.1360-0443.2010.03140.x
+   Eritsyan K, 2013, BMJ OPEN, V3, DOI 10.1136/bmjopen-2013-002645
+   Hammett TM, 2014, BMC HEALTH SERV RES, V14, DOI 10.1186/1472-6963-14-261
+   Heimer R, 2018, CURR HIV-AIDS REP, V15, P259, DOI 10.1007/s11904-018-0395-y
+   Hoskins R., 2016, RUSSIAS SILENT HIV E
+   Idrisov B, 2017, SUBST ABUSE TREAT PR, V12, DOI 10.1186/s13011-016-0087-9
+   Krupitsky E, 2010, CURR PSYCHIAT REP, V12, P448, DOI 10.1007/s11920-010-0135-5
+   Kumaranayake L, 2004, ADDICTION, V99, P1565, DOI 10.1111/j.1360-0443.2004.00899.x
+   Larney S, 2017, LANCET GLOB HEALTH, V5, pE1208, DOI [10.1016/s2214-109x(17)30373-x, 10.1016/S2214-109X(17)30373-X]
+   Leonteva A, 2011, EKATERINBURG OMSK OR, P65
+   Long EF, 2006, AIDS, V20, P2207, DOI 10.1097/QAD.0b013e328010c7d0
+   Low AJ, 2016, CLIN INFECT DIS, V63, P1094, DOI 10.1093/cid/ciw416
+   MacArthur GJ, 2012, BMJ-BRIT MED J, V345, DOI 10.1136/bmj.e5945
+   Mathers BM, 2010, LANCET, V375, P1014, DOI 10.1016/S0140-6736(10)60232-2
+   Mills HL, 2013, DRUG ALCOHOL DEPEN, V133, P242, DOI 10.1016/j.drugalcdep.2013.04.028
+   Ministry of Health of the Russian Federation, 2017, CLIN REC HIV INF AD
+   Palmateer NE, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0104515
+   Pasechnik O, 2016, 5 E EUR CENTR AS AID
+   Platt L, 2017, COCHRANE DB SYST REV, V9
+   Pokrovsky VV, 2017, DEMOGRAPHIC REV, V1, P65
+   Saranga A, 2008, INT J DRUG POLICY, V19, pS25, DOI 10.1016/j.drugpo.2007.11.008
+   Springer SA, 2018, JAIDS-J ACQ IMM DEF, V78, P43, DOI [10.1097/QAI.0000000000001634, 10.1097/qai.0000000000001634]
+   Stimson GV, 2005, INT J DRUG POLICY, V16, pS7, DOI 10.1016/j.drugpo.2005.02.007
+   Vickerman P, 2006, SEX TRANSM DIS, V33, pS89, DOI 10.1097/01.olq.0000221335.80508.fa
+   Vickerman P, 2014, INT J DRUG POLICY, V25, P1163, DOI 10.1016/j.drugpo.2014.09.013
+   WHO, 2015, GUID START ANT THER
+   Wolfe D, 2007, INT J DRUG POLICY, V18, P246, DOI 10.1016/j.drugpo.2007.01.012
+NR 35
+TC 2
+Z9 2
+U1 3
+U2 3
+PU ELSEVIER INC
+PI SAN DIEGO
+PA 525 B STREET, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 2352-3018
+J9 LANCET HIV
+JI Lancet HIV
+PD OCT
+PY 2018
+VL 5
+IS 10
+BP E578
+EP E587
+DI 10.1016/S2352-3018(18)30168-1
+PG 10
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA GW2GA
+UT WOS:000446699800018
+PM 30033374
+DA 2019-03-26
+ER
+
+PT J
+AU Luan, XL
+   Buyantuev, A
+   Baur, AH
+   Kleinschmit, B
+   Wang, HJ
+   Wei, S
+   Liu, MS
+   Xu, C
+AF Luan, Xia-li
+   Buyantuev, Alexander
+   Baur, Albert Hans
+   Kleinschmit, Birgit
+   Wang, Haijun
+   Wei, Sheng
+   Liu, Maosong
+   Xu, Chi
+TI Linking greenhouse gas emissions to urban landscape structure: the
+   relevance of spatial and thematic resolutions of land use/cover data
+SO LANDSCAPE ECOLOGY
+LA English
+DT Article
+DE Climate change; Landscape pattern; Landscape metrics; Remote sensing;
+   Scale; Scaling
+ID PATTERN METRICS; CHANGING SCALE; GHG EMISSIONS; COVER DATA; FORM;
+   ENERGY; CONSUMPTION; INDICATORS; CITIES
+AB Emissions of greenhouse gases in urban areas play an important role in climate change. Increasing attention has been given to urban landscape structure-emission relationships (SERs). However, it remains unknown if and to what extent SERs are dependent on observational scale.
+   To assess how changing observational scales (in terms of spatial and thematic resolutions) of urban landscape structure affect SERs.
+   We examined correlations between 16 landscape metrics and greenhouse gas emissions across 52 European cities, through (1) systematic manipulation of spatial and thematic resolutions of the urban land use/cover (ULUC) dataset, and (2) comparison between available standard ULUC datasets with different spatial resolutions.
+   Our analyses showed that the observed SERs significantly depend on both thematic and spatial resolutions of the ULUC data. For the 16 landscape metrics, we found diverse spatial/thematic scaling relations exhibiting monotonic, hump-shaped or scale-invariant trends. For different landscape metrics, the SERs were strongest at different spatial scales, suggesting that there is no consistent scaling relation over those observational scales.
+   SERs are highly sensitive to spatial and thematic resolutions of landscape data. To avoid the problem of 'ecological fallacy,' important caveats should be taken for interpretations based on single landscape metrics. Particular consideration should be paid to metrics that are easily interpretable, predictable in scaling behaviors, and important for shaping SERs, such as PLAND, ED, and LPI. Systematic investigations on scaling behaviors of SERs over well-defined scale domains are encouraged in future studies linking greenhouse gas emissions and urban landscape structure.
+C1 [Luan, Xia-li; Liu, Maosong; Xu, Chi] Nanjing Univ, Sch Life Sci, Nanjing 210023, Jiangsu, Peoples R China.
+   [Buyantuev, Alexander] SUNY Albany, Dept Geog & Planning, 1400 Washington Ave, Albany, NY 12222 USA.
+   [Baur, Albert Hans] Sustainable AG, Corneliusstr 10, D-80469 Munich, Germany.
+   [Kleinschmit, Birgit] Tech Univ Berlin, Dept Landscape Architecture & Environm Planning, Geoinformat Environm Planning Lab, Berlin, Germany.
+   [Wang, Haijun] Chinese Acad Sci, Inst Hydrobiol, State Key Lab Freshwater Ecol & Biotechnol, Wuhan 430072, Hubei, Peoples R China.
+   [Wei, Sheng] Nanjing Univ, Sch Architecture & Urban Planning, Nanjing 210023, Jiangsu, Peoples R China.
+   [Wei, Sheng] Jiangsu Inst Urban Planning & Design, Nanjing 210036, Jiangsu, Peoples R China.
+RP Xu, C (reprint author), Nanjing Univ, Sch Life Sci, Nanjing 210023, Jiangsu, Peoples R China.
+EM xuchi@nju.edu.cn
+OI Xu, Chi/0000-0002-1841-9032
+FU National Key R&D Program of China [2017YFC0506200]; National Natural
+   Science Foundation of China [31770512]; Fundamental Research Funds for
+   the Central Universities [020814380089]
+FX We thank three anonymous reviewers for their valuable comments to an
+   earlier version of this manuscript. C.X. thanks Yiqing Xu for his great
+   inspiration. This study is supported by The National Key R&D Program of
+   China (2017YFC0506200), National Natural Science Foundation of China
+   (31770512), and the Fundamental Research Funds for the Central
+   Universities (020814380089).
+CR Anderson WP, 1996, URBAN STUD, V33, P7, DOI 10.1080/00420989650012095
+   Bailey D, 2007, LANDSCAPE ECOL, V22, P461, DOI 10.1007/s10980-006-9035-9
+   Bailey D, 2007, ECOL INDIC, V7, P692, DOI 10.1016/j.ecolind.2006.08.001
+   Barton K., 2018, MUMIN MULTI MODEL IN
+   Baur AH, 2015, LANDSCAPE ECOL, V30, P1195, DOI 10.1007/s10980-015-0169-5
+   Baur AH, 2015, SCI TOTAL ENVIRON, V520, P49, DOI 10.1016/j.scitotenv.2015.03.030
+   Baur AH, 2014, J URBAN PLAN DEV, V140, DOI 10.1061/(ASCE)UP.1943-5444.0000165
+   Borrego C, 2006, ENVIRON MODELL SOFTW, V21, P461, DOI 10.1016/j.envsoft.2004.07.009
+   Burnham KP, 2002, J WILDLIFE MANAGE, V67, P175
+   Buyantuyev A, 2007, LANDSCAPE ECOL, V22, P7, DOI 10.1007/s10980-006-9010-5
+   Buyantuyev A, 2010, LANDSCAPE URBAN PLAN, V94, P206, DOI 10.1016/j.landurbplan.2009.10.005
+   Chen J, 2015, ISPRS J PHOTOGRAMM, V103, P7, DOI 10.1016/j.isprsjprs.2014.09.002
+   Chen XH, 2016, SCI CHINA EARTH SCI, V59, P2295, DOI 10.1007/s11430-016-5291-y
+   Chen YM, 2011, LANDSCAPE URBAN PLAN, V102, P33, DOI 10.1016/j.landurbplan.2011.03.007
+   Cohen J., 2003, APPL MULTIPLE REGRES
+   Congalton R., 2009, ASSESSING ACCURACY R
+   Crowley TJ, 2000, SCIENCE, V289, P270, DOI 10.1126/science.289.5477.270
+   Dhakal S, 2010, CURR OPIN SUST, V2, P277, DOI 10.1016/j.cosust.2010.05.007
+   EEA, 2010, URB ATL
+   EEA, 2011, MAPP GUID EUR URB AT
+   EEA (European Environmental Agency), 2016, COR LAND COV 2006 RA
+   Environmental Systems Research Institute (ESRI), 2013, ARCGIS DESKT 10 2
+   ESA (European Space Agency), 2008, GLOB LAND COV PROD 2
+   Eurostat, 2015, CENS UN
+   Field CT, 2014, GENDER AMER CULT, P1
+   Hoornweg D, 2011, URB DEV SER, P1, DOI 10.1596/978-0-8213-8493-0
+   Lee S, 2014, ENERG POLICY, V68, P534, DOI 10.1016/j.enpol.2014.01.024
+   Li H, 2006, SCALING UNCERTAINTY
+   Li HB, 2004, LANDSCAPE ECOL, V19, P389, DOI 10.1023/B:LAND.0000030441.15628.d6
+   Liu ZF, 2014, LANDSCAPE ECOL, V29, P763, DOI 10.1007/s10980-014-0034-y
+   Makido Y, 2012, URBAN CLIM, V2, P55, DOI 10.1016/j.uclim.2012.10.006
+   Martins H, 2012, ATMOS ENVIRON, V54, P60, DOI 10.1016/j.atmosenv.2012.02.075
+   Melillo J. M., 2014, CLIMATE CHANGE IMPAC
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   Norman J, 2006, J URBAN PLAN D-ASCE, V132, P10, DOI 10.1061/(ASCE)0733-9488(2006)132:1(10)
+   Openshaw S., 1979, STAT APPL SPATIAL SC, P127
+   Ou JP, 2013, LANDSCAPE ECOL, V28, P1889, DOI 10.1007/s10980-013-9943-4
+   Pachauri R. K., 2014, SYNTHESIS REPORT, P151
+   R Core T., 2016, R LANG ENV STAT COMP
+   Rempel RS, 2012, ONTARIO MINISTRY NAT
+   Rodriguez MC, 2016, RENEW SUST ENERG REV, V53, P1, DOI 10.1016/j.rser.2015.07.190
+   Saura S, 2001, PHOTOGRAMM ENG REM S, V67, P1027
+   Schwarz N, 2010, LANDSCAPE URBAN PLAN, V96, P29, DOI 10.1016/j.landurbplan.2010.01.007
+   Shao G, 2001, CAN J REMOTE SENS, V27, P35
+   Shen WJ, 2004, ECOGRAPHY, V27, P459, DOI 10.1111/j.0906-7590.2004.03799.x
+   Simova P, 2012, APPL GEOGR, V34, P385, DOI 10.1016/j.apgeog.2012.01.003
+   Tateishi R., 2014, J GEOGR GEOL, V6, P99, DOI [10.5539/jgg.v6n3p99, DOI 10.5539/JGG.V6N3P99]
+   Tateishi R, 2011, INT J DIGIT EARTH, V4, P22, DOI 10.1080/17538941003777521
+   Thomlinson JR, 1999, REMOTE SENS ENVIRON, V70, P16, DOI 10.1016/S0034-4257(99)00055-3
+   Tischendorf L, 2001, LANDSCAPE ECOL, V16, P235, DOI 10.1023/A:1011112719782
+   Turner MG, 1989, LANDSCAPE ECOL, V3, P153, DOI 10.1007/BF00131534
+   Wu J, 2006, ECOLOGY, V88, P267
+   Wu J, 2000, GEOGRAPHIC INFORM SC, V6, P6, DOI DOI 10.1080/10824000009480529
+   Wu JG, 2004, LANDSCAPE ECOL, V19, P125, DOI 10.1023/B:LAND.0000021711.40074.ae
+   Wu JG, 2002, LANDSCAPE ECOL, V17, P761, DOI 10.1023/A:1022995922992
+   Xu C, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0143014
+   Xu C, 2012, LANDSCAPE ECOL, V27, P1063, DOI 10.1007/s10980-012-9764-x
+   Zhou WQ, 2014, LANDSCAPE ECOL, V29, P153, DOI 10.1007/s10980-013-9950-5
+   Zuur Alain F., 2009, P1
+NR 59
+TC 0
+Z9 0
+U1 2
+U2 4
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-2973
+EI 1572-9761
+J9 LANDSCAPE ECOL
+JI Landsc. Ecol.
+PD JUL
+PY 2018
+VL 33
+IS 7
+BP 1211
+EP 1224
+DI 10.1007/s10980-018-0661-9
+PG 14
+WC Ecology; Geography, Physical; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Physical Geography; Geology
+GA GM4TN
+UT WOS:000438116500015
+OA Other Gold
+DA 2019-03-26
+ER

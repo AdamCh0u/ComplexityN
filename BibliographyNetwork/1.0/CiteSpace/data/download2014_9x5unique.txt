@@ -1,0 +1,463 @@
+
+PT J
+AU Huang, J
+   Connors, RD
+   Maher, MJ
+AF Huang, Jie
+   Connors, Richard D.
+   Maher, Mike J.
+TI Modeling Network Growth with Scaling Laws in a Linear Monocentric City
+SO TRANSPORTATION RESEARCH RECORD
+ID URBAN ROAD NETWORKS; LAND-USE; EQUILIBRIUM; CONGESTION; CHOICE; CITIES
+AB Scaling relationships have been observed across urban systems and appear to reveal global emergent properties that may help to characterize, understand, and predict urban growth. Empirical urban studies that show scaling laws relating the growth in population to that of the transportation network warrant theoretical investigation. Such scaling phenomena are considered in the context of a linear monocentric city. Commuters are distributed from the city boundary to the common destination (the central business district), and two modes (railway and car) are available along the corridor. Two scenarios of urban growth are considered: vertical and horizontal. Road capacity and corridor length both increase alongside the population growth. Within these scenarios, growth is constrained to follow a scaling law and the evolution of network performance is examined. The results suggest that different long-term evolution trajectories may exist depending on the scaling-law and network features. On this basis, theoretical limits need to be investigated on the possible evolutionary pathways for a city whose growth is dependent on its transport system.
+CR Arnott R, 2011, TRANSPORT RES B-METH, V45, P743, DOI 10.1016/j.trb.2011.01.004
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Geroliminis N, 2008, TRANSPORT RES B-METH, V42, P759, DOI 10.1016/j.trb.2008.02.002
+   Glaeser EL, 1998, J ECON PERSPECT, V12, P139, DOI 10.1257/jep.12.2.139
+   Gubins S, 2014, J URBAN ECON, V80, P51, DOI 10.1016/j.jue.2013.09.001
+   HO HW, 2006, J TRANSPORTATION SYS, V6, P53
+   JEHIEL P, 1993, TRANSPORT SCI, V27, P16, DOI 10.1287/trsc.27.1.16
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levinson D, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029721
+   Li ZC, 2012, TRANSPORT RES B-METH, V46, P30, DOI 10.1016/j.trb.2011.08.002
+   Liu TL, 2009, TRANSPORT RES B-METH, V43, P692, DOI 10.1016/j.trb.2009.01.001
+   TAGUCHI A, 1982, MATH PROGRAM STUD, V20, P178
+   Tong CO, 1997, TRANSPORTATION, V24, P295, DOI 10.1023/A:1004987422746
+   Tsekeris T, 2013, J URBAN ECON, V76, P1, DOI 10.1016/j.jue.2013.01.002
+   Verhoef ET, 2005, J URBAN ECON, V58, P367, DOI 10.1016/j.jue.2005.06.003
+   Wang JYT, 2004, TRANSPORT RES B-METH, V38, P709, DOI 10.1016/j.trb.2003.10.002
+NR 17
+TC 0
+Z9 0
+SN 0361-1981
+EI 2169-4052
+PY 2014
+IS 2466
+BP 134
+EP 143
+DI 10.3141/2466-15
+UT WOS:000352118300016
+ER
+
+PT J
+AU Hanley, QS
+   Khatun, S
+   Yosef, A
+   Dyer, RM
+AF Hanley, Quentin S.
+   Khatun, Suniya
+   Yosef, Amal
+   Dyer, Rachel-May
+TI Fluctuation Scaling, Taylor's Law, and Crime
+SO PLOS ONE
+ID POWER-LAW; SPATIAL DISTRIBUTIONS; VARIANCE; DEPENDENCE; DYNAMICS;
+   DENSITY; GROWTH
+AB Fluctuation scaling relationships have been observed in a wide range of processes ranging from internet router traffic to measles cases. Taylor's law is one such scaling relationship and has been widely applied in ecology to understand communities including trees, birds, human populations, and insects. We show that monthly crime reports in the UK show complex fluctuation scaling which can be approximated by Taylor's law relationships corresponding to local policing neighborhoods and larger regional and countrywide scales. Regression models applied to local scale data from Derbyshire and Nottinghamshire found that different categories of crime exhibited different scaling exponents with no significant difference between the two regions. On this scale, violence reports were close to a Poisson distribution (alpha = 1.057 +/- 0.026) while burglary exhibited a greater exponent (alpha = 1.292 +/- 0.029) indicative of temporal clustering. These two regions exhibited significantly different pre-exponential factors for the categories of anti-social behavior and burglary indicating that local variations in crime reports can be assessed using fluctuation scaling methods. At regional and countrywide scales, all categories exhibited scaling behavior indicative of temporal clustering evidenced by Taylor's law exponents from 1.43 +/- 0.12 (Drugs) to 2.094 +/- 0081 (Other Crimes). Investigating crime behavior via fluctuation scaling gives insight beyond that of raw numbers and is unique in reporting on all processes contributing to the observed variance and is either robust to or exhibits signs of many types of data manipulation.
+OI Hanley, Quentin/0000-0002-8189-9550; Dyer,
+   Rachel-May/0000-0002-5577-6864
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Alves LGA, 2013, PHYSICA A, V392, P2672, DOI 10.1016/j.physa.2013.02.002
+   [Anonymous], 2014, POLICE FORCE AREA DA
+   [Anonymous], 2014, 268 OFF NAT STAT
+   [Anonymous], 2013, REGION COUNTRY PROFI
+   [Anonymous], 2014, MONTHLY FIGURES DEAT
+   [Anonymous], 2013, DERBYSHIRE CONSTABUL
+   [Anonymous], 2013, NOTTINGHAMSHIRE POLI
+   BARNETT A, 1981, OPER RES, V29, P346, DOI 10.1287/opre.29.2.346
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Cattadori IM, 2003, OIKOS, V100, P439, DOI 10.1034/j.1600-0706.2003.12072.x
+   Chen P, 2013, SECUR J, V26, P1, DOI 10.1057/sj.2011.4
+   Cohen JE, 2013, GENUS, V69
+   Cohen JE, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2012.2955
+   de Menezes MA, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.028701
+   Eisler Z, 2008, ADV PHYS, V57, P89, DOI 10.1080/00018730801893043
+   Gaffeo E, 2012, ECOL COMPLEX, V11, P109, DOI 10.1016/j.ecocom.2012.05.001
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Johnson SD, 2004, BRIT J CRIMINOL, V44, P55, DOI 10.1093/bjc/44.1.55
+   Keeling M, 1999, PHILOS T ROY SOC B, V354, P769, DOI 10.1098/rstb.1999.0429
+   Kendal WS, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.066115
+   Kilpatrick AM, 2003, NATURE, V422, P65, DOI 10.1038/nature01471
+   Maltz MD, 1996, J QUANT CRIMINOL, V12, P3, DOI 10.1007/BF02354470
+   MORTARA L, 1981, P SOC PHOTO-OPT INST, V290, P28
+   PERRY JN, 1985, J ANIM ECOL, V54, P931, DOI 10.2307/4388
+   Perry JN, 1981, J ROYAL STATISTICA C, V30, P254
+   Petri G, 2013, SCIENTIFIC REPORTS, V3, P1
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   SAWYER AJ, 1989, RES POPUL ECOL, V31, P11, DOI 10.1007/BF02515802
+   Smith HF, 1938, J AGR SCI, V28, P1, DOI 10.1017/S0021859600050516
+   Sperline RP, 2005, APPL SPECTROSC, V59, P1315, DOI 10.1366/000370205774783250
+   TAYLOR LR, 1961, NATURE, V189, P732, DOI 10.1038/189732a0
+   TAYLOR LR, 1984, ANNU REV ENTOMOL, V29, P321, DOI 10.1146/annurev.en.29.010184.001541
+   TAYLOR LR, 1978, J ANIM ECOL, V47, P383, DOI 10.2307/3790
+   YAMAMURA K, 1990, OIKOS, V59, P121, DOI 10.2307/3545131
+NR 36
+TC 12
+Z9 12
+SN 1932-6203
+PD OCT 1
+PY 2014
+VL 9
+IS 10
+AR e109004
+DI 10.1371/journal.pone.0109004
+UT WOS:000343729600086
+PM 25271781
+ER
+
+PT B
+AU Zagow, M
+AF Zagow, Maged
+BE Brandeis, A
+TI Urban Revitalization through studying the patterns of activities and its
+   geometries in cities
+SO PROCEEDINGS OF THE 50TH ISOCARP CONGRESS: URBAN TRANSFORMATIONS: CITIES
+   AND WATER
+CT 50th ISOCARP Congress
+CY SEP 23-26, 2014
+CL Gdynia, POLAND
+ID STATE ECONOMIC-DEVELOPMENT; COMPETITION; METABOLISM; TRANSPORT;
+   NETWORKS; SEARCH; GROWTH; POLICY; CITY
+AB Despite the availability of detailed data for describing cities, there is a shortage of tools that enable standardized analyses of urban areas, associated with future needs. Many regions are struggling to maintain standards of living. Rural municipalities, schools, and health boards are unable to invest in necessary infrastructure. We are particularly interested in whether and how the distribution of these activities is affected by the spatial configuration of the built environment the physical pattern of urban infrastructure, the spacing and sizes of urban geometry and circulation routes. Community connectivity theory encourages supporting Community Economic Development initiatives that create social, economic, and environmental sustainability.
+   We argue that understanding social & economic networks patterns in urban settings is not only important for improving urban zoning theory, but also essential for designing economically, socially, and environmentally sustainable urban neighborhoods. The objective of this research is to contribute a standardized method for the social & economic networks patterns and the urban consumption analysis including material, water and energy consumption can be quantified, with properties that can be described mathematically.
+   This research investigates patterns that emerge in cities socially and economically and proposes a link between these patterns and future plans a domain that has received relatively little attention in recent decades. Building an alternative paradigm that includes three elements: Context, Economy and Sociology by linking the economic and social theories with the practice of urban planning. Major attention is paid to the integration of economic and noneconomic activities in the community connectivity approach.
+CR Affolderbach J. G. M., 2008, RES DECISIONS MAPPIN
+   Alexander C, 1964, NOTES SYNTHESIS FORM
+   Alexander Stahle A. H. C. S. a. L.B., 2012, PLACE SYNTAX TOOL PS
+   [Anonymous], 2000, ENERGY MAT FLOW URBA
+   [Anonymous], 2006, REINVENTING PLANNING
+   Audirac Ivonne, 1997, RURAL SUSTAINABLE DE
+   Backhaus J. S., 2003, THEORY EC DEV, P61
+   Batty M., 2008, EUROPEAN PHYS J, P12
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Beauregard R., 1993, THEORIES LOCAL EC DE, P267
+   Benjamin J. D. G. W. B., 1992, J URBAN ECON, P299
+   BERRY B, 1967, GEOGRAPHY MARKET CTR
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boothroyd P., 1993, J PLAN EDUC RES, V12, P230
+   Bouchard M. F. C., 2006, CANADIAN RES CHAIR S, P6
+   Bouchard M. G.-M. S., 2008, PORTRAIT STAT EC SOC
+   Bouchard M. G.-M. S., 2008, RES CHAIR CANADA SOC
+   Bradshaw TK, 1999, ECON DEV Q, V13, P229, DOI 10.1177/089124249901300303
+   Brand S., 2006, CITY PLANET
+   Branzi A., 2010, ECOLOGICAL URBANISM, P114
+   Brown MJ, 2007, BUILDING POWERFUL CO
+   Brueckner J. K, 1993, J REAL STATE EC FINA, V7, P5
+   BRUECKNER JK, 1993, J REAL ESTATE FINANC, V7, P5, DOI 10.1007/BF01096932
+   Buber Martin, 1996, PATHS UTOPIA
+   Carter C. C. a. K. D. V., 2005, J REAL ESTATE RES, V27
+   Chicago c. o., 2014, CITY CHICAGO DATA PO
+   Christaller W., 1966, CENTRAL PLACES SO GE
+   Christenson J. A. J. J., 1993, COMMUNITY DEV AM, P3
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   Coleman Patrick, 1984, ROUSSEAUS POLITICAL
+   Conteras R., 2009, CONCEPT DEV GOT STAR
+   Council M. P., 2000, EC TRADE FREIGHT TRA
+   Crane R., 1995, J PLAN EDUC RES, P117
+   Cranmer SJ, 2011, POLIT ANAL, V19, P66, DOI 10.1093/pan/mpq037
+   Cumbers A, 2004, URBAN STUD, V41, P959, DOI 10.1080/00420980410001675896
+   Davis L., 1971, I CHANGE AM EC GROWT
+   de Nooy W., 2012, GRAPH THEORETICAL AP
+   Decker E., 2007, PLOS ONE
+   Dent NJH, 1992, ROUSSEAU DICT
+   Domer Dennis, 1997, A CALDWELL LIFE WORK
+   Doxiades KA, 1968, EKISTICS INTRO SCI H
+   DUANY A, 1991, TOWNS TOWN MAKING PR
+   DUDEY M, 1990, AM ECON REV, V80, P1092
+   EATON BC, 1982, ECON J, V92, P56, DOI 10.2307/2232256
+   EATON BC, 1975, REV ECON STUD, V42, P27, DOI 10.2307/2296817
+   Ebenstein Alan, 2002, INTRO POLITICAL THIN
+   EISINGER P, 1995, ECON DEV Q, V9, P146
+   Eisinger Peter, 1988, ROLE ENTREPRENEURIAL
+   Eppli M., 1996, J REAL ESTATE RES, P459
+   EWING R, 1997, AM PLANNING ASS J AM, V63, P107
+   Fermon Nicole, 1997, DOMESTICATING PASSIO
+   Fern'andez D. Q, 2010, ESTIMATING MAT USAGE
+   Fernandez-Quijada D, 2012, INT J CULT POLICY, V18, P378, DOI 10.1080/10286632.2011.591489
+   Feser Edwardje, 2000, REG STUD, P1
+   Flora C. B., 1990, SOCIOLOGICAL PRACTIC, P197
+   FLORA CB, 1993, ANN AM ACAD POLIT SS, V529, P48, DOI 10.1177/0002716293529001005
+   Flora JL, 1998, RURAL SOCIOL, V63, P481, DOI 10.1111/j.1549-0831.1998.tb00689.x
+   Fourier Charles, 1971, DESIGN UTOPIA SELECT
+   Frank L., 1994, TRANSPORT RES REC, V1466, P44
+   Garnier T., 1939, CITE IND ETUDE CONST
+   Garreau Joel, 1992, EDGE CITY LIFE NEW F
+   GBCSE, 2009, GUID LEED NEIGHB DEV
+   Glaeser E. L. W. R. K., 2009, CLUSTERS ENTERPRENEU
+   Glaeser EL, 2004, PAP REG SCI, V83, P197, DOI 10.1007/s10110-003-0183-x
+   Gleeson Brendan, 1998, GEOGRAPHIES DISABILI
+   GOODWIN NR, 1997, HUMAN WELL BEING EC, P1
+   Gosh J., 2013, FINANCIAL MARKET FEB, P63
+   Gottdiener M., 1985, SOCIAL PRODUCTION UR
+   Grim sley R., 1983, JJ ROUSSEAU SUSSEX
+   Grosz E., 1995, SPACE TIME PERVERSIO
+   Guldmann F. W. a. J.-M., 1996, ELSEVIER SCI, P245
+   HABRAKEN N. J., 1998, STRUCTURE ORDINARY F
+   Halebsky S. G. J., 1999, J REGIONAL ANAL POLI, P85
+   Hall P., 2002, CITIES OF TOMORROW
+   Harvey D, 1973, SOCIAL JUSTICE CITY
+   Healey P, 1997, COLLABORATIVE PLANNI
+   Hedstrom P. R. S. a. C. S., 2000, MESOLEVEL NETWORKS D
+   Heidegger M., 1993, BUILDING DWELLING TH
+   Hertz D. K., 2014, CITY NOTES
+   Hillier B., 1996, SPACE IS MACHINE CON
+   Hoehner CM, 2005, AM J PREV MED, V28, P105, DOI 10.1016/j.amepre.2004.10.023
+   Holtzclaw J., 1994, USING RESIDENTIAL PA
+   Hotelling H, 1929, ECON J, V39, P41, DOI 10.2307/2224214
+   HOWARD Ebenezer, 1902, GARDEN CITIES TOMORR
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Johannison B., 1990, ENTREP REGION DEV, P71
+   Johansson B, 2004, PAP REG SCI, V83, P165, DOI 10.1007/s10110-003-0181-z
+   Jones C, 2011, J ORGAN BEHAV, V32, P413, DOI 10.1002/job.694
+   Kelly A., 1988, HEAD HEART HAND DIME
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kenworthy P. N. a. J., 1991, CITIES AUTOMOBILE DE
+   Kockelman R. C. a. K., 1997, TRANSPORT RES D-TR E, P199
+   Koolhaas R., 2001, GREAT LEAP FORWARD P
+   Krizek KJ, 2003, J PLAN EDUC RES, V22, P270, DOI 10.1177/0739456X02250315
+   Krugmari P., 1991, J POLITICAL EC, P183
+   Lefebvre H, 1974, PRODUCTION ESPACE
+   Lerner A. K. a. J., 2012, DOING WELL DOING GOO
+   Levi-Strauss C, 1963, STRUCTURAL ANTHR
+   Lewis M., 2006, MAPPING SOCIAL EC BC
+   Li Kun X. Y.-m. L. S.-I. H. a. L. W.-j., 2009, IEEE
+   Lopez J., 2000, SOCIAL STRUCTURE
+   Losch A., 1954, EC LOCATION
+   LOVAN R, 2004, PARTICIPATORY GOVERN
+   Lynch K., 1984, GOOD CITY FORM
+   Lynch K., 1996, RECONSIDERING IMAGE
+   Marcouiller D. W., 2005, Amenities and rural development: theory, methods and public policy, P6
+   Marquez M. A. R. J., 2003, AUSTRALASIAN J REGIO, P5
+   Marshall JD, 2007, URBAN STUD, V44, P1889, DOI 10.1080/00420980701471943
+   MARTIN L., 1972, URBAN SPACE STRUCTUR
+   MCCANN P., 2001, URBAN REGIONAL EC
+   McDowell G. R., 1995, RURAL DEV STRATEGIES, P269
+   McKinsey Global Institute, 2011, URB WORLD MAPP EC PO
+   Mehaffy M., 2004, NEW SCI ARCHITECTURE
+   Merton RK, 1938, AM SOCIOL REV, V3, P672, DOI 10.2307/2084686
+   Messing A., 2009, J SOCIOLOGY SELF KNO, P155
+   Mumford L., 1937, ARCHITECTURAL RECORD
+   Nations U., 2007, WORLD URBANIZATION P
+   Network C. C. E. D., 2010, WHAT IS CED
+   Newman D., 2005, INTRO SOCIOLOGY, P134
+   Newman MEJ, 2006, STRUCTURE DYNAMICS N
+   Newman P, 1999, SUSTAINABILITY CITIE
+   Nienaber S., 2007, BRIT J MANAGE, V18, P61
+   OSullivan A., 2003, URBAN EC
+   Pendola R. a. S. G., 2008, ENVIRON BEHAV, P545
+   Peng Hu W. J. J. Y. a. Y. R., 2010, ANAL SPATIAL TEMPORA
+   Pincetl S, 2012, LANDSCAPE URBAN PLAN, V107, P193, DOI 10.1016/j.landurbplan.2012.06.006
+   Popper K, 1959, LOGIC SCI DISCOVERY
+   Porta S., 2005, ENVIRONMENT AND PLAN, V35, P705
+   PORTER ME, 1995, HARVARD BUS REV, V73, P55
+   Programme U. N. I-I. S, 2012, SMALL TOWN DEV APPRO
+   Putnam R. D., 2000, BAWLING ALONE COLLAP
+   PUTNAM RD, 1995, J DEMOCRACY, V0006
+   Quinn D., URBAN METABOLISM ECO
+   Rang R. E. a. F., 2008, HOUSING POLICY DEBAT
+   Reese L. A. F. D., 1996, ECON DEV Q, P280
+   Rietveld P, 2004, PAP REG SCI, V83, P229, DOI 10.1007/s10110-003-0184-9
+   Ron Schaffer S. C. D. a. D. W. M., 2004, COMMUNITY EC LINKING
+   Ron Shaffer S. D., 2006, ECON DEV Q, P59
+   ROSSI A., 1984, ARCHITECTURE CITY
+   Rundle A. A. V. D. R., AM J HLTH P IN PRESS
+   Ruttier F.-K. a., 1999, J IND ECOLOGY
+   Saalman H., 1971, HAUSSMANN PADS TRANS
+   Sampson R. J., 2013, GREAT AM CITY CHICAG
+   Scott JC, 1999, SEEING STATE CERTAIN
+   Scott W. R., 2003, NETWORKS ORG
+   Seminar S., 2007, SOCIAL CAPITAL PRIME
+   SEN A, 1983, ECON J, V93, P745, DOI 10.2307/2232744
+   Shaffer R, 2004, COMMUNITY EC LINKING
+   Sheffrin A. O. a. S. M., 2005, EC PRINCIPLES ACTION
+   SHIN YE, 2009, J TRANSPORTATION RES, P69, DOI DOI 10.3141/2110-09
+   Sitte C., 1965, CITY PLANNING ACCORD
+   Smith M. K., 2001, WHAT IS COMMUNITY
+   Sorkin M, 2011, ALL MAP WRITING BUIL
+   Southcott C., 2008, SOCIAL EC RES NETWOR
+   STOHR W, 1989, ENTREP REGION DEV, V1, P293
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Swanson L. E., 1996, Rural development research: a foundation for policy., P103
+   Talen E, 2002, J PLAN EDUC RES, V22, P36, DOI 10.1177/0739456X0202200104
+   Thisse F. F., 2002, EC AGGLOMERATION
+   Tonnies Ferdinand, 1887, GEMEINSCHAFT GESELLS
+   Troprnan John E., 2000, TACTICS TECHNIQUES C
+   Turner RS, 1999, ECON DEV Q, V13, P15, DOI 10.1177/089124249901300103
+   UN DESA, 2010, WORLD URB PROSP 2009
+   UN-HABITAT, 2010, PLANN SUST CIT UN HA
+   Wang Y. Q., 2002, REMOTE SENSING MODEL
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Watson G. B., 2003, COMPANION CITY
+   Webber M., 1963, ORDER DIVERSITY COMM
+   Weber M., 1921, CONCEPTS CATEGORIES
+   Wehn Uta, 1998, KNOWLEDGE SOC INFORM
+   Weiss G., 2008, PHILOS CITY CLASSIC, P225
+   Wellman B., 2008, CONTEMP SOCIOL, p[221, 37]
+   West L. B., 2010, NATURE, P912
+   Wolman, 1965, SCI AM
+   World Bank, 2009, RESH EC GEOGR
+   World Bank, 2002, CIT MOV WORLD BANK U
+   Zegras C. P., 2004, TRANSPORTATION RES R
+NR 177
+TC 0
+Z9 0
+BN 978-94-90354-30-5
+PY 2014
+BP 726
+EP 751
+UT WOS:000360101000061
+ER
+
+PT J
+AU Blonder, B
+   Sloat, L
+   Enquist, BJ
+   McGill, B
+AF Blonder, Benjamin
+   Sloat, Lindsey
+   Enquist, Brian J.
+   McGill, Brian
+TI Separating Macroecological Pattern and Process: Comparing Ecological,
+   Economic, and Geological Systems
+SO PLOS ONE
+ID UNIVERSAL SPECIES-AREA; ABUNDANCE DISTRIBUTIONS; COMMUNITY STRUCTURE;
+   STOCHASTIC-THEORY; TROPICAL FORESTS; BETA-DIVERSITY; BIODIVERSITY;
+   MODELS; SCALES; GROWTH
+AB Theories of biodiversity rest on several macroecological patterns describing the relationship between species abundance and diversity. A central problem is that all theories make similar predictions for these patterns despite disparate assumptions. A troubling implication is that these patterns may not reflect anything unique about organizational principles of biology or the functioning of ecological systems. To test this, we analyze five datasets from ecological, economic, and geological systems that describe the distribution of objects across categories in the United States. At the level of functional form ('first-order effects'), these patterns are not unique to ecological systems, indicating they may reveal little about biological process. However, we show that mechanism can be better revealed in the scale-dependency of first-order patterns ('second-order effects'). These results provide a roadmap for biodiversity theory to move beyond traditional patterns, and also suggest ways in which macroecological theory can constrain the dynamics of economic systems.
+RI McGill, Brian/A-3476-2008
+OI McGill, Brian/0000-0002-0850-1913; Enquist, Brian/0000-0002-6124-7096;
+   Sloat, Lindsey/0000-0002-2986-9725
+CR Allen AP, 2001, ECOL LETT, V4, P1, DOI 10.1046/j.1461-0248.2001.00194.x
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brown JH, 2011, BIOSCIENCE, V61, P19, DOI 10.1525/bio.2011.61.1.7
+   Chave J, 2002, AM NAT, V159, P1, DOI 10.1086/324112
+   Chave J, 2002, THEOR POPUL BIOL, V62, P153, DOI 10.1006/tpbi.2002.1597
+   Condit R, 2000, SCIENCE, V288, P1414, DOI 10.1126/science.288.5470.1414
+   CONNOR EF, 1979, AM NAT, V113, P791, DOI 10.1086/283438
+   Decker EH, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000934
+   GASTON KJ, 1993, OIKOS, V66, P172, DOI 10.2307/3545211
+   GAUCH HG, 1972, ECOLOGY, V53, P446, DOI 10.2307/1934231
+   Haldane AG, 2011, NATURE, V469, P351, DOI 10.1038/nature09659
+   Harte J, 2008, ECOLOGY, V89, P2700, DOI 10.1890/07-1369.1
+   Harte J, 2013, AM NAT, V181, P282, DOI 10.1086/668821
+   Harte J, 2009, ECOL LETT, V12, P789, DOI 10.1111/j.1461-0248.2009.01328.x
+   He FL, 2000, AM NAT, V156, P553, DOI 10.1086/303403
+   Holyoak M, 2006, ECOLOGY, V87, P1370, DOI 10.1890/0012-9658(2006)87[1370:REEWNC]2.0.CO;2
+   Hubbell Stephen P., 2001, V32, pi
+   MACARTHUR R, 1960, AM NAT, V94, P25, DOI 10.1086/282106
+   MacArthur R. H., 1969, Biological Journal of the Linnean Society, V1, P19, DOI 10.1111/j.1095-8312.1969.tb01809.x
+   MACARTHUR RH, 1965, BIOL REV, V40, P510, DOI 10.1111/j.1469-185X.1965.tb00815.x
+   Martiny JBH, 2011, P NATL ACAD SCI USA, V108, P7850, DOI 10.1073/pnas.1016308108
+   May R. M., 1975, ECOLOGY EVOLUTION CO
+   McGill B, 2003, OIKOS, V102, P679, DOI 10.1034/j.1600-0706.2003.12617.x
+   McGill BJ, 2007, ECOL LETT, V10, P995, DOI 10.1111/j.1461-0248.2007.01094.x
+   McGill BJ, 2011, AM J BOT, V98, P481, DOI 10.3732/ajb.1000509
+   McGill BJ, 2010, SCIENCE, V328, P575, DOI 10.1126/science.1188528
+   McGill BJ, 2010, ECOL LETT, V13, P627, DOI 10.1111/j.1461-0248.2010.01449.x
+   McGill BJ, 2010, OIKOS, V119, P591, DOI 10.1111/j.1600-0706.2009.17771.x
+   McKane A, 2000, PHYS REV E, V62, P8466, DOI 10.1103/PhysRevE.62.8466
+   Morlon H, 2008, ECOL LETT, V11, P904, DOI 10.1111/j.1461-0248.2008.01202.x
+   Nekola JC, 2007, ECOL LETT, V10, P188, DOI 10.1111/j.1461-0248.2006.01003.x
+   Plotkin JB, 2000, J THEOR BIOL, V207, P81, DOI 10.1006/jtbi.2000.2158
+   PRESTON FW, 1962, ECOLOGY, V43, P185, DOI 10.2307/1931976
+   PRESTON FW, 1960, ECOLOGY, V41, P611, DOI 10.2307/1931793
+   Pueyo S, 2006, OIKOS, V112, P392, DOI 10.1111/j.0030-1299.2006.14188.x
+   Rosindell J, 2013, OIKOS, V122, P1101, DOI 10.1111/j.1600-0706.2012.20751.x
+   Rosindell J, 2009, ECOLOGY, V90, P1743, DOI 10.1890/08-0661.1
+   Stanley MHR, 1996, NATURE, V379, P804, DOI 10.1038/379804a0
+   Storch D, 2008, FOLIA GEOBOT, V43, P329, DOI 10.1007/s12224-008-9015-8
+   Storch D, 2012, NATURE, V488, P78, DOI 10.1038/nature11226
+   SUGIHARA G, 1980, AM NAT, V116, P770, DOI 10.1086/283669
+   Tilman D, 2004, P NATL ACAD SCI USA, V101, P10854, DOI 10.1073/pnas.0403458101
+   Weir JT, 2007, SCIENCE, V315, P1574, DOI 10.1126/science.1135590
+   Wiens JJ, 2011, Q REV BIOL, V86, P75, DOI 10.1086/659883
+NR 44
+TC 4
+Z9 4
+SN 1932-6203
+PD NOV 10
+PY 2014
+VL 9
+IS 11
+AR e112850
+DI 10.1371/journal.pone.0112850
+UT WOS:000344816700099
+PM 25383874
+ER
+
+PT J
+AU Oliveira, EA
+   Andrade, JS
+   Makse, HA
+AF Oliveira, Erneson A.
+   Andrade, Jose S., Jr.
+   Makse, Hernan A.
+TI Large cities are less green
+SO SCIENTIFIC REPORTS
+ID URBAN-GROWTH PATTERNS; GIBRATS LAW; ECONOMIC-GROWTH; ZIPFS LAW;
+   POPULATION; REGRESSION
+AB We study how urban quality evolves as a result of carbon dioxide emissions as urban agglomerations grow. We employ a bottom-up approach combining two unprecedented microscopic data on population and carbon dioxide emissions in the continental US. We first aggregate settlements that are close to each other into cities using the City Clustering Algorithm (CCA) defining cities beyond the administrative boundaries. Then, we use data on CO2 emissions at a fine geographic scale to determine the total emissions of each city. We find a superlinear scaling behavior, expressed by a power-law, between CO2 emissions and city population with average allometric exponent beta = 1.46 across all cities in the US. This result suggests that the high productivity of large cities is done at the expense of a proportionally larger amount of emissions compared to small cities. Furthermore, our results are substantially different from those obtained by the standard administrative definition of cities, i.e. Metropolitan Statistical Area (MSA). Specifically, MSAs display isometric scaling emissions and we argue that this discrepancy is due to the overestimation of MSA areas. The results suggest that allometric studies based on administrative boundaries to define cities may suffer from endogeneity bias.
+RI Andrade, Jose/C-5451-2013; UFC, DF/E-1564-2017; Universidade Federal do
+   Ceara, Physics Department/J-4630-2016
+OI Andrade, Jose/0000-0002-5571-7610; Universidade Federal do Ceara,
+   Physics Department/0000-0002-9247-6780
+CR [Anonymous], 2013, VULC PROJ
+   Bento AM, 2006, J URBAN ECON, V59, P121, DOI 10.1016/j.jue.2005.09.004
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brownstone D, 2009, J URBAN ECON, V65, P91, DOI 10.1016/j.jue.2008.09.002
+   Center for International Earth Science Information Network (CIESIN) Columbia University International Food Policy Research Institute (IFPRI) The World Bank Centro Internacional de Agricultura Tropical (CIAT), 2011, GLOB RUR URB MAPP PR
+   Dodman D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016
+   Duranton G., 2012, IN PRESS
+   Duranton Gilles, 2013, DELINEATING METROPOL
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   Eeckhout J, 2009, AM ECON REV, V99, P1676, DOI 10.1257/aer.99.4.1676
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Gabaix Xavier, 1999, Q J ECON, V114, P738
+   Gaigne D., 2012, J URBAN ECON, V72, P123
+   Gallos LK, 2012, SCI REP-UK, V2, DOI 10.1038/srep00454
+   Giesen K., 2012, FRENCH OVERALL CITY
+   Giesen K, 2011, J ECON GEOGR, V11, P667, DOI 10.1093/jeg/lbq019
+   Giesen K, 2010, J URBAN ECON, V68, P129, DOI 10.1016/j.jue.2010.03.007
+   GLAESER E. L, 2010, AGGLOMERATION EC
+   Glaeser EL, 2010, J URBAN ECON, V67, P404, DOI 10.1016/j.jue.2009.11.006
+   GROSSMAN GM, 1995, Q J ECON, V110, P353, DOI 10.2307/2118443
+   Hardle W., 1990, APPL NONPARAMETRIC R
+   Huxley J. S., 1936, Nature London, V137, P780, DOI 10.1038/137780b0
+   Ioannides Y, 2013, J URBAN ECON, V73, P18, DOI 10.1016/j.jue.2012.06.005
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Kahn M. E., 2006, GREEN CITIES URBAN G
+   Kleiber M., 1961, FIRE LIFE INTRO ANIM
+   Krugman P. R., 1996, SELF ORG EC
+   Kuznets S, 1955, AM ECON REV, V45, P1
+   Levy M, 2009, AM ECON REV, V99, P1672, DOI 10.1257/aer.99.4.1672
+   Li Q, 2004, STAT SINICA, V14, P485
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Montgomery D.C., 2006, INTRO LINEAR REGRESS
+   Nadaraya E. A., 1964, THEOR PROBAB APPL, V9, P141, DOI DOI 10.1137/1109020
+   Press W. H., 2007, NUMERICAL RECIPES AR
+   Puga D, 2010, J REGIONAL SCI, V50, P203, DOI 10.1111/j.1467-9787.2009.00657.x
+   Racine J, 2004, J ECONOMETRICS, V119, P99, DOI 10.1016/S0304-4076(03)00157-X
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D., 2013, CITIES NUCL SUSTAINA
+   Silverman B. W., 1986, DENSITY ESTIMATION S
+   U. S. Census Bureau, 2013, SMALL AR INC POV EST
+   U.S. Census Bureau, 2013, PRE 2010 CART BOUND
+   U.S. Census Bureau, 2013, CART BOUND FIL
+   Watson G. S., 1964, SANKHYA A, V26, P359, DOI DOI 10.2307/25049340
+NR 47
+TC 38
+Z9 38
+SN 2045-2322
+PD FEB 28
+PY 2014
+VL 4
+AR 4235
+DI 10.1038/srep04235
+UT WOS:000332016000002
+PM 24577263
+ER

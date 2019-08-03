@@ -1,0 +1,427 @@
+
+PT B
+AU Ye, W
+   Li, Y
+AF Ye, W.
+   Li, Y.
+BE Chan, F
+   Marinova, D
+   Anderssen, RS
+TI A method of applying daily GCM outputs in assessing climate change
+   impact on multiple day extreme precipitation for Brisbane River
+   Catchment
+SO 19TH INTERNATIONAL CONGRESS ON MODELLING AND SIMULATION (MODSIM2011)
+LA English
+DT Proceedings Paper
+CT MSSANZ 19th Biennial Congress on Modelling and Simulation (MODSIM)
+CY DEC 12-16, 2011
+CL Perth, AUSTRALIA
+SP CSIRO, Australian Govt, Bur Meteorol, Per Convent & Exhibit Ctr, Perth Convent Bur, Curtin Univ, Australian Math Soc, Australian & New Zealand Ind & Appl Math, Australian Math Sci Inst, Maralte Publishers, Econ Soc Australian, HEMA Consulting, Simulat Australia, Stat Soc Australia Inc, Modelling & Simulat Soc Australia & New Zealand Inc, Int Assoc Math & Comp Simulat
+DE Climate change; impact assessment; extreme precipitation event; flood
+ID TEMPERATURE; PROJECTIONS; ENSEMBLE
+AB Urban river floods are normally caused by consecutive days of extreme precipitation. It is expected that climate change will have significant impact on extreme precipitation because the warming atmosphere will alter the precipitation pattern by changing the global/regional hydrological cycle. The Intergovernmental Panel on Climate Change (IPCC) finds that there is a tendency for an increase in daily heavy precipitation events in many regions in the world, including some in which the mean precipitation is projected to decrease. Currently, the General Circulation Model (GCM) is still the most reliable tool for generating the future climate change scenarios, but GCM is still facing with the problems in simulating daily precipitation at regional or local scales, particularly in extreme precipitation events simulation, due to its coarse spatial resolution and the current incomplete understanding of the climate system. The poor performance in regional/local precipitation simulation makes it difficult of direct using GCM outputs in climate change impact on extreme precipitation change studies, because extreme precipitation event is most likely a localised phenomenon. Recently, research efforts have been put into the downscaling the GCM to support localised impact assessment. However, such downscaling models are either complex so computational demanding (dynamic downscaling) or require extensive of observed data (statistical downscaling). That has leads to a limited availability of model results which in most cases are not sufficient to fulfil a localised impact assessment needs.
+   Since the publication of IPCC AR4, many GCM daily simulation outputs have become publically available, which provide an opportunity to study the change impact on total precipitation amount at daily bases, either for one day or multiple days. Given that the direct application of GCM simulation data in assessing climate change impact on extreme precipitation is yet to be examined, the important question is then how to make use of the daily GCM results in order to obtain local daily precipitation statistics and their changes in the future. This is of major importance for the extreme precipitation properties since the upper tail of the precipitation distribution suffers most from the coarse resolution representation in the GCMs. Thus the focus of this study was given to examine the climate change impact on the extreme precipitation by linking the GCM daily simulation results with the local extreme precipitation observations based on a statistical approach. Due to the current incomplete understanding of the climate system, the GCM's precipitation generation mechanism is associated with high uncertainties. Pattern scaling has been proved to be an economic and efficient method to cope with such uncertainties in generating the range of future climate change scenarios from different GCMs. Based on this method, together with a GCM-ensemble probabilistic prediction, we developed a future extreme events generation method that is capable of addressing the range of uncertainties that caused by different GCM precipitation generation mechanisms. The method was applied to the study the climate change impact on the Brisbane River rainfall and flooding. Since the historical flooding in Brisbane River were caused by multiple-day (typically 4 - 7 consecutive day) extreme rainfall, the method was applied to analysis the 5-day maximum total rainfall for the 17 long term historical observation stations in the catchment. The results reveal a reinforced trend toward more intense extreme precipitation events into the future under climate change. The shortening of return periods for extreme precipitation events and greater intensity of such events has implications for planning and decision making of durable infrastructure along with emergency services planning, landuse regulation and building codes. This relates not only to possible flood mitigation strategies such as the potential need for additional flood mitigating infrastructure but also for the current built environment.
+C1 [Ye, W.] Univ Waikato, Sch Sci & Engn, Waikato, New Zealand.
+RP Ye, W (reprint author), Univ Waikato, Sch Sci & Engn, Waikato, New Zealand.
+EM weiye@waikato.ac.nz
+CR Alexander LV, 2009, INT J CLIMATOL, V29, P417, DOI 10.1002/joc.1730
+   Castillo E., 1988, EXTREME VALUE THEORY
+   Davison A. C., 1997, BOOTSTRAP METHODS TH
+   Kharin VV, 2007, J CLIMATE, V20, P1419, DOI 10.1175/JCLI4066.1
+   Leadbetter M., 1983, EXTREMES RELATED PRO
+   Leemans R, 2004, GLOBAL ENVIRON CHANG, V14, P219, DOI 10.1016/j.gloenvcha.2004.04.009
+   Mitchell TD, 2003, CLIMATIC CHANGE, V60, P217, DOI 10.1023/A:1026035305597
+   Palmer TN, 2002, NATURE, V415, P512, DOI 10.1038/415512a
+   Press W. H., 1997, NUMERICAL RECIPES C
+   Ruosteenoja K, 2007, CLIMATIC CHANGE, V81, P193, DOI 10.1007/s10584-006-9222-3
+   Santer B.D., 1990, 47 MPI
+   Task Group on Data and Scenario Support for Impact and Climate Assessment (TGICA), 2007, INT PAN CLIM CHANG G
+   Tebaldi C, 2006, CLIMATIC CHANGE, V79, P185, DOI 10.1007/s10584-006-9051-4
+   Wigley TML, 2002, J CLIMATE, V15, P2945, DOI 10.1175/1520-0442(2002)015<2945:RFLWPI>2.0.CO;2
+NR 14
+TC 0
+Z9 0
+U1 1
+U2 9
+PU MODELLING & SIMULATION SOC AUSTRALIA & NEW ZEALAND INC
+PI CHRISTCHURCH
+PA MSSANZ, CHRISTCHURCH, 00000, NEW ZEALAND
+BN 978-0-9872143-1-7
+PY 2011
+BP 3678
+EP 3683
+PG 6
+WC Computer Science, Interdisciplinary Applications; Operations Research &
+   Management Science; Mathematics, Applied
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA BDU79
+UT WOS:000314989303093
+DA 2019-03-26
+ER
+
+PT J
+AU Bloom, JD
+   Hinrichs, CC
+AF Bloom, J. Dara
+   Hinrichs, C. Clare
+TI Moving local food through conventional food system infrastructure: Value
+   chain framework comparisons and insights
+SO RENEWABLE AGRICULTURE AND FOOD SYSTEMS
+LA English
+DT Article
+DE differentiation; distribution; local food; regional food system; value
+   chain
+ID SUPPLY CHAINS; EMBEDDEDNESS; COMMUNITY; MARKET
+AB There is growing recognition that the direct marketing initiatives favored by many local food activists and proponents often lack the capacity to meet rapidly expanding consumer demand for local food. To address these needs, some food systems researchers have identified a role for 'transitional' food systems that piggyback on the pre-existing, conventional local food system infrastructure, while moving toward the social and economic benefits of direct marketing. This paper uses a value chain model (based on business management studies and adapted to the context of agrifood enterprises) as a framework for investigating how actors who are accustomed to working within the logic of the traditional produce industry incorporate local food into their overall operations. Using a qualitative comparative case study approach, the paper examines how features of the value chain structure and governance mechanisms operate in two food distribution networks that are transitioning toward localization in a rural and an urban region of Pennsylvania, respectively. Case study analysis focuses on conventional wholesale produce distributors as the link between local producers and local buyers. Interviews with the distributors, producers and buyers reveal the sources and outcomes of challenges affecting how the distributors organize their purchasing and selling of local produce. Network practices, in turn, have equity implications as distributors struggle to pay producers enough to maintain their economic viability, while still making local produce accessible to a wide range of consumers. Policy-makers and practitioners seeking to support the 'scaling up' of local and regional food systems should consider targeted development of technical infrastructure in processing and distribution, as well as outreach on appropriate shared ownership models. Future research should be longitudinal to determine the longer-term role and contribution of the conventional food system infrastructure in transitioning to more sustainable local and regional food systems.
+C1 [Bloom, J. Dara; Hinrichs, C. Clare] Penn State Univ, Dept Agr Econ & Rural Sociol, University Pk, PA 16802 USA.
+RP Bloom, JD (reprint author), Penn State Univ, Dept Agr Econ & Rural Sociol, Armsby Bldg, University Pk, PA 16802 USA.
+EM jdb439@psu.edu
+RI Wiskerke, 1/H-5399-2011; Rishbeth, Clare/H-2151-2011
+OI Hinrichs, C. Clare/0000-0003-4750-5885
+FU Center for Rural Pennsylvania
+FX This research was supported in part by a grant from the Center for Rural
+   Pennsylvania, a legislative agency of the Pennsylvania General Assembly.
+   Information provided in this paper does not necessarily reflect the
+   views of individual board members or the Center for Rural Pennsylvania.
+CR Archer DW, 2008, RENEW AGR FOOD SYST, V23, P272, DOI 10.1017/S174217050700169X
+   BLOOM JD, 2009, THESIS PENNSYLVANIA
+   Brasier KJ, 2007, COMMUNITY DEV, V38, P8, DOI 10.1080/15575330709489826
+   CLANCY K, 2009, P NE REG CTR RUR DEV
+   Delind LB, 2006, J AGR ENVIRON ETHIC, V19, P121, DOI 10.1007/s10806-005-1803-z
+   Doel C, 1999, ENVIRON PLANN A, V31, P69, DOI 10.1068/a310069
+   DuPuis M., 2005, J RURAL STUD, V21, P359
+   Friedmann H, 2007, AGR HUM VALUES, V24, P389, DOI 10.1007/s10460-006-9040-2
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   HINRICHS C, 2008, FARM SCH PROGRAM PEN
+   Hinrichs CC, 2003, J RURAL STUD, V19, P33, DOI 10.1016/S0743-0167(02)00040-2
+   Hinrichs CC, 2000, J RURAL STUD, V16, P295, DOI 10.1016/S0743-0167(99)00063-7
+   Ilbery B, 2005, ENVIRON PLANN A, V37, P823, DOI 10.1068/a3717
+   Izumi B, 2009, AGR HUM VALUES, V27, P335, DOI [10.1007/s10460-009-9221-x, DOI 10.1007/S10460-009-9221-X]
+   King R. P., 2010, ERR99 USDA EC RES SE
+   Lyson TA, 2008, FOOD HEALTH ENVIRON, V3, P1
+   MARSDEN T, 2000, SOCIOL RURALIS, V40, P425
+   Martinez S., 2010, ERR97 USDA EC RES SE
+   PAINTER K, 2008, 215 USDA RUR DEV COO
+   RAUB W, 1990, AM J SOCIOL, V96, P626, DOI 10.1086/229574
+   Renting H, 2003, ENVIRON PLANN A, V35, P393, DOI 10.1068/a3510
+   Stevenson GW, 2008, FOOD HEALTH ENVIRON, V3, P119
+   STEVENSON S, 2009, MIDSCALE FOOD VALUE
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   Welsh R, 2009, AGR HUM VALUES, V26, P21, DOI 10.1007/s10460-008-9184-3
+   Winter M, 2003, J RURAL STUD, V19, P23, DOI 10.1016/S0743-0167(02)00053-0
+NR 26
+TC 65
+Z9 65
+U1 1
+U2 68
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1742-1705
+EI 1742-1713
+J9 RENEW AGR FOOD SYST
+JI Renew. Agr. Food Syst.
+PD MAR
+PY 2011
+VL 26
+IS 1
+BP 13
+EP 23
+DI 10.1017/S1742170510000384
+PG 11
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA 729GL
+UT WOS:000287936600003
+DA 2019-03-26
+ER
+
+PT J
+AU Hsu, HM
+   Lin, CY
+   Guenther, A
+   Tribbia, JJ
+   Liu, SC
+AF Hsu, H-m
+   Lin, C-Y
+   Guenther, A.
+   Tribbia, J. J.
+   Liu, S. C.
+TI Air-chemistry "turbulence": power-law scaling and statistical regularity
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+LA English
+DT Article
+ID LONG-RANGE CORRELATIONS; WAVE-NUMBER SPECTRA; PACIFIC EXPLORATORY
+   MISSIONS; KINETIC-ENERGY SPECTRUM; TRACE GASES; COMMERCIAL AIRCRAFT;
+   DNA-SEQUENCES; TIME-SERIES; NEW-ENGLAND; TEMPERATURE
+AB With the intent to gain further knowledge on the spectral structures and statistical regularities of surface atmospheric chemistry, the chemical gases (NO, NO2, NOx, CO, SO2, and O-3) and aerosol (PM10) measured at 74 air quality monitoring stations over the island of Taiwan are analyzed for the year of 2004 at hourly resolution. They represent a range of surface air quality with a mixed combination of geographic settings, and include urban/rural, coastal/inland, plain/hill, and industrial/agricultural locations. In addition to the well-known semi-diurnal and diurnal oscillations, weekly, and intermediate (20 similar to 30 days) peaks are also identified with the continuous wavelet transform (CWT). The spectra indicate power-law scaling regions for the frequencies higher than the diurnal and those lower than the diurnal with the average exponents of -5/3 and -1, respectively. These dual-exponents are corroborated with those with the detrended fluctuation analysis in the corresponding time-lag regions. These exponents are mostly independent of the averages and standard deviations of time series measured at various geographic settings, i.e., the spatial inhomogeneities. In other words, they possess dominant universal structures. After spectral coefficients from the CWT decomposition are grouped according to the spectral bands, and inverted separately, the PDFs of the reconstructed time series for the high-frequency band demonstrate the interesting statistical regularity, -3 power-law scaling for the heavy tails, consistently. Such spectral peaks, dual-exponent structures, and power-law scaling in heavy tails are important structural information, but their relations to turbulence and mesoscale variability require further investigations. This could lead to a better understanding of the processes controlling air quality.
+C1 [Hsu, H-m; Guenther, A.; Tribbia, J. J.] Natl Ctr Atmospher Res, Boulder, CO 80307 USA.
+   [Lin, C-Y; Liu, S. C.] Acad Sinica, Res Ctr Environm Changes, Taipei 115, Taiwan.
+RP Hsu, HM (reprint author), Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA.
+EM hsu@ucar.edu
+RI Guenther, Alex/B-1617-2008; Lin, CY/K-6503-2014
+OI Guenther, Alex/0000-0001-6283-8288; 
+FU Research Center for Environmental Changes, Academia Sinica; National
+   Science Foundation; National Research Council [NSC
+   99-2111-M-001-007-MY3]
+FX Discussions with Rob Frehlich, Adrian Tuck, and Christine Wiedinmyer
+   have been very much appreciated. We gratefully acknowledge the review
+   comments from Zhong-Wei Yan and an anonymous reviewer. HH has enjoyed
+   the hospitality and support provided by the Research Center for
+   Environmental Changes, Academia Sinica when he visited AC/RCEC. The
+   National Center for Atmospheric Research is operated by the University
+   Corporation for Atmospheric Research under sponsorship from the National
+   Science Foundation. CYL acknowledges the support from the National
+   Research Council (NSC 99-2111-M-001-007-MY3).
+CR Bachmeier AS, 1996, J GEOPHYS RES-ATMOS, V101, P1655, DOI 10.1029/95JD02799
+   BULDYREV SV, 1995, PHYS REV E, V51, P5084, DOI 10.1103/PhysRevE.51.5084
+   Cho JYN, 1999, J GEOPHYS RES-ATMOS, V104, P16297, DOI 10.1029/1999JD900068
+   Cho JYN, 1999, J GEOPHYS RES-ATMOS, V104, P5697, DOI 10.1029/98JD01825
+   Emmons LK, 2010, GEOSCI MODEL DEV, V3, P43, DOI 10.5194/gmd-3-43-2010
+   FARGE M, 1992, ANNU REV FLUID MECH, V24, P395, DOI 10.1146/annurev.fl.24.010192.002143
+   Fast JD, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006721
+   GAGE K. S., 2004, ATMOSPHERIC TURBULEN, P223
+   GAGE KS, 1986, J ATMOS SCI, V43, P729, DOI 10.1175/1520-0469(1986)043<0729:TIOAWS>2.0.CO;2
+   Grell GA, 2005, ATMOS ENVIRON, V39, P6957, DOI 10.1016/j.atmosenv.2005.04.027
+   Gusten H, 1998, ATMOS ENVIRON, V32, P1195, DOI 10.1016/S1352-2310(97)00195-7
+   HASTIE DR, 1993, ATMOS ENVIRON A-GEN, V27, P533, DOI 10.1016/0960-1686(93)90210-P
+   Hausdorff JM, 1996, J APPL PHYSIOL, V80, P1448
+   Heneghan C, 2000, PHYS REV E, V62, P6103, DOI 10.1103/PhysRevE.62.6103
+   Hsu HM, 2006, J ATMOS SCI, V63, P2355, DOI 10.1175/JAS3752.1
+   IPCC, 2001, CLIM CHANG 2001 SCI
+   Jolliffe I. T., 2003, FORECAST VERIFICATIO
+   Kalnay E, 1996, B AM METEOROL SOC, V77, P437, DOI 10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2
+   Kestin TS, 1998, J CLIMATE, V11, P2258, DOI 10.1175/1520-0442(1998)011<2258:TFVOEA>2.0.CO;2
+   Kim KY, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL043233
+   KOLMOGOROV AN, 1941, P ROY SOC LOND A MAT, V26, P115
+   Lau KM, 1995, B AM METEOROL SOC, V76, P2391, DOI 10.1175/1520-0477(1995)076<2391:CSDUWT>2.0.CO;2
+   LILLY DK, 1983, J ATMOS SCI, V40, P749, DOI 10.1175/1520-0469(1983)040<0749:STATMV>2.0.CO;2
+   LILLY DK, 1989, J ATMOS SCI, V46, P2026, DOI 10.1175/1520-0469(1989)046<2026:TDTGBE>2.0.CO;2
+   Lin CY, 2005, ATMOS ENVIRON, V39, P6066, DOI 10.1016/j.atmosenv.2005.06.046
+   Lin CY, 2004, TERR ATMOS OCEAN SCI, V15, P759, DOI 10.3319/TAO.2004.15.5.759(ADSE)
+   Lindborg E, 1999, J FLUID MECH, V388, P259, DOI 10.1017/S0022112099004851
+   MADDEN RA, 1994, MON WEATHER REV, V122, P814, DOI 10.1175/1520-0493(1994)122<0814:OOTDTO>2.0.CO;2
+   Mallat S., 1999, WAVELET TOUR SIGNAL
+   Mao HT, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004913
+   MEYERS SD, 1993, MON WEATHER REV, V121, P2858, DOI 10.1175/1520-0493(1993)121<2858:AITWAI>2.0.CO;2
+   Miller MJ, 2008, J COMPUT PHYS, V227, P3429, DOI 10.1016/j.jcp.2008.01.001
+   MORLET J, 1982, GEOPHYSICS, V47, P203, DOI 10.1190/1.1441328
+   NASTROM GD, 1985, J ATMOS SCI, V42, P950, DOI 10.1175/1520-0469(1985)042<0950:ACOAWS>2.0.CO;2
+   NASTROM GD, 1984, NATURE, V310, P36, DOI 10.1038/310036a0
+   PENG CK, 1993, PHYS REV E, V47, P3730, DOI 10.1103/PhysRevE.47.3730
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   PENG CK, 1995, CHAOS, V5, P82, DOI 10.1063/1.166141
+   PENG CK, 1992, NATURE, V356, P168, DOI 10.1038/356168a0
+   Seinfeld J. H., 2006, ATMOSPHERIC CHEM PHY
+   Solomon S, 2007, CLIMATE CHANGE 2007: THE PHYSICAL SCIENCE BASIS, P19
+   Stephens S, 2008, ATMOS CHEM PHYS, V8, P5313, DOI 10.5194/acp-8-5313-2008
+   Talbot R, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2004JD005449
+   Torrence C, 1998, B AM METEOROL SOC, V79, P61, DOI 10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2
+   Tuck A. F, 2008, ATMOSPHERIC TURBULEN
+   Wilks D. S., 1995, STAT METHODS ATMOSPH
+   Wornell G. W., 1996, SIGNAL PROCESSING FR
+NR 47
+TC 7
+Z9 7
+U1 0
+U2 2
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1680-7316
+J9 ATMOS CHEM PHYS
+JI Atmos. Chem. Phys.
+PY 2011
+VL 11
+IS 16
+BP 8395
+EP 8413
+DI 10.5194/acp-11-8395-2011
+PG 19
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 813YL
+UT WOS:000294406300011
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Hull, RB
+   Nelson, K
+AF Hull, R. Bruce
+   Nelson, Katie
+TI Wildland-Urban Interface Forest Entrepreneurs: A Look at a New Trend
+SO JOURNAL OF FORESTRY
+LA English
+DT Article
+DE parcelization; urbanization; green infrastructure; small scale
+ID NEW-YORK
+AB Wildland-Urban interface forest (WUIF) entrepreneurs are finding a niche in fragmenting forests. Most successful entrepreneurs are either scaling down from their forestry and logging backgrounds or scaling up from green industry. They are skilled in some aspects of working with WUIF owners but often need additional tools, including people and marketing skills, business plans based on hourly fee structure, and technical skills such as amenity silviculture and ecology. Successful entrepreneurs emphasize amenity and environmental qualities, offer diverse services and/or are well networked with complementary businesses, have an appropriate suite of equipment, charge by hour and job rather than commission, and have excellent people skills. A thriving WUIF service provider industry is needed for society to have the capacity to manage its urbanizing forest estate.
+C1 [Hull, R. Bruce] Virginia Tech 3024, Virginia Tech, Dept Forest Resources & Environm Conservat, Blacksburg, VA 24061 USA.
+   [Nelson, Katie] US Forest Serv, Big Bear Lake, CA USA.
+RP Hull, RB (reprint author), Virginia Tech 3024, Virginia Tech, Dept Forest Resources & Environm Conservat, Blacksburg, VA 24061 USA.
+EM hullrb@vt.edu; katieleanelson@gmail.com
+CR Alig RJ, 2004, J FOREST, V102, P19
+   Babbie E., 2007, PRACTICE SOCIAL RES
+   Barlow SA, 1998, J FOREST, V96, P10
+   Brown DG, 2005, ECOL APPL, V15, P1851, DOI 10.1890/03-5220
+   Butler BJ, 2004, J FOREST, V102, P4
+   Egan AF, 2000, J FOREST, V98, P26
+   *FOR BAY PROGR, 2010, HLTH WOODL PARTN
+   Germain RH, 2007, J FOREST, V105, P403
+   Hull RB, 2004, J FOREST, V102, P14
+   *INT S, 2010, CHANG ROL WUI PROF D
+   KAYS J, 2006, WOODS YOUR BACKYARD
+   KENDRA A, 2005, FOREST SCI, V51, P1
+   McDonald RI, 2008, FRONT ECOL ENVIRON, V6, P99, DOI 10.1890/070038
+   Munsell JF, 2007, J FOREST, V105, P398
+   NELSON K, 2009, SMALL SCALE AMENITY
+   Strauss A. L., 1998, BASICS QUALITATIVE R
+   WEAR DN, 2007, SRS99 US FOR SERV S
+NR 17
+TC 5
+Z9 5
+U1 0
+U2 15
+PU SOC AMER FORESTERS
+PI BETHESDA
+PA 5400 GROSVENOR LANE, BETHESDA, MD 20814 USA
+SN 0022-1201
+J9 J FOREST
+JI J. For.
+PD APR-MAY
+PY 2011
+VL 109
+IS 3
+BP 136
+EP 140
+PG 5
+WC Forestry
+SC Forestry
+GA 764BA
+UT WOS:000290602200004
+DA 2019-03-26
+ER
+
+PT J
+AU Choko, AT
+   Desmond, N
+   Webb, EL
+   Chavula, K
+   Napierala-Mavedzenge, S
+   Gaydos, CA
+   Makombe, SD
+   Chunda, T
+   Squire, SB
+   French, N
+   Mwapasa, V
+   Corbett, EL
+AF Choko, Augustine Talumba
+   Desmond, Nicola
+   Webb, Emily L.
+   Chavula, Kondwani
+   Napierala-Mavedzenge, Sue
+   Gaydos, Charlotte A.
+   Makombe, Simon D.
+   Chunda, Treza
+   Squire, S. Bertel
+   French, Neil
+   Mwapasa, Victor
+   Corbett, Elizabeth L.
+TI The Uptake and Accuracy of Oral Kits for HIV Self-Testing in High HIV
+   Prevalence Setting: A Cross-Sectional Feasibility Study in Blantyre,
+   Malawi
+SO PLOS MEDICINE
+LA English
+DT Article
+ID CHI-SQUARED TESTS; ANTIRETROVIRAL THERAPY; EMERGENCY-DEPARTMENT;
+   RANDOMIZED-TRIAL; HOME; ACCEPTABILITY; PROPORTIONS; PREVENTION;
+   STRATEGIES; BOTSWANA
+AB Background: Although HIV testing and counseling (HTC) uptake has increased dramatically in Africa, facility-based services are unlikely to ever meet ongoing need to the full. A major constraint in scaling up community and home-based HTC services is the unacceptability of receiving HTC from a provider known personally to prospective clients. We investigated the potential of supervised oral HIV self-testing from this perspective.
+   Methods and Findings: Adult members of 60 households and 72 members of community peer groups in urban Blantyre, Malawi, were selected using population-weighted random cluster sampling. Participants were offered self-testing plus confirmatory HTC (parallel testing with two rapid finger-prick blood tests), standard HTC alone, or no testing. 283 (95.6%) of 298 selected adults participated, including 136 (48.0%) men. 175 (61.8%) had previously tested (19 known HIV positive), although only 64 (21.5%) within the last year. HIV prevalence was 18.5%. Among 260 (91.9%) who opted to self-test after brief demonstration and illustrated instructions, accuracy was 99.2% (two false negatives). Although 98.5% rated the test "not hard at all to do," 10.0% made minor procedural errors, and 10.0% required extra help. Most participants indicated willingness to accept self-test kits, but not HTC, from a neighbor (acceptability 94.5% versus 46.8%, p = 0.001).
+   Conclusions: Oral supervised self-testing was highly acceptable and accurate, although minor errors and need for supervisory support were common. This novel option has potential for high uptake at local community level if it can be supervised and safely linked to counseling and care.
+C1 [Choko, Augustine Talumba; Desmond, Nicola; Chavula, Kondwani; Chunda, Treza; Mwapasa, Victor; Corbett, Elizabeth L.] Malawi Liverpool Wellcome Trust Clin Res Programm, Blantyre, Malawi.
+   [Desmond, Nicola; Squire, S. Bertel] Univ Liverpool, Liverpool Sch Trop Med, Liverpool L3 5QA, Merseyside, England.
+   [Webb, Emily L.] London Sch Hyg & Trop Med, Dept Infect Dis Epidemiol, London WC1, England.
+   [Napierala-Mavedzenge, Sue; French, Neil] London Sch Hyg & Trop Med, Fac Epidemiol & Populat Hlth, London WC1, England.
+   [Gaydos, Charlotte A.] Johns Hopkins Univ, Dept Med, Div Infect Dis, Baltimore, MD USA.
+   [Makombe, Simon D.] Minist Hlth, HIV Unit, Lilongwe, Malawi.
+   [Corbett, Elizabeth L.] London Sch Hyg & Trop Med, Fac Infect & Trop Dis, London WC1, England.
+RP Choko, AT (reprint author), Malawi Liverpool Wellcome Trust Clin Res Programm, Blantyre, Malawi.
+EM augutc@gmail.com
+RI French, Neil/A-2994-2012
+OI Webb, Emily/0000-0002-4019-7456; Squire, Stephen/0000-0001-7173-9038;
+   Desmond, Nicola/0000-0002-2874-8569; Corbett,
+   Elizabeth/0000-0002-3552-3181; French, Neil/0000-0003-4814-8293
+FU Wellcome Trust; London School of Hygiene & Tropical Medicine; Medical
+   Research Council [G0700837]
+FX The study was funded by the Wellcome Trust, and sponsored by the London
+   School of Hygiene & Tropical Medicine and hosted by the Malawi-Liverpool
+   Wellcome Trust, Blantyre - Malawi. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Agresti A, 1998, AM STAT, V52, P119, DOI 10.2307/2685469
+   Angotti N, 2009, SOC SCI MED, V68, P2263, DOI 10.1016/j.socscimed.2009.02.041
+   Branson BM, 1998, JAMA-J AM MED ASSOC, V280, P1699, DOI 10.1001/jama.280.19.1699
+   Bwambale FM, 2008, BMC PUBLIC HEALTH, V8, DOI 10.1186/1471-2458-8-263
+   Campbell S, 2006, J CLIN MICROBIOL, V44, P3473, DOI 10.1128/JCM.01511-06
+   De Cock KM, 2009, B WORLD HEALTH ORGAN, V87, P488, DOI 10.2471/BLT.09.067330
+   Ganguli Ishani, 2009, Curr HIV/AIDS Rep, V6, P217
+   Gaydos CA, 2009, INF DIS SOC AM 47 AN
+   Gaydos CA, 2011, ANN EMERG MED, V58, pS74, DOI 10.1016/j.annemergmed.2011.03.029
+   Granich RM, 2009, LANCET, V373, P48, DOI 10.1016/S0140-6736(08)61697-9
+   Helleringer S, 2009, JAIDS-J ACQ IMM DEF, V51, P185, DOI 10.1097/QAI.0b013e31819c1726
+   Lee VJ, 2007, JAIDS-J ACQ IMM DEF, V45, P449, DOI 10.1097/QAI.0b013e318095a3f3
+   Lugada E, 2010, JAIDS-J ACQ IMM DEF, V55, P245, DOI 10.1097/QAI.0b013e3181e9e069
+   Makwiza I, 2009, INT J EQUITY HEALTH, V8, DOI 10.1186/1475-9276-8-13
+   National AIDS and STD Control Programme, 2008, GUID HIV TEST COUNS
+   National Statistical Office Malawi, 2004, MAL INT HOUS SURV QU
+   Negin J, 2009, TROP MED INT HEALTH, V14, P849, DOI 10.1111/j.1365-3156.2009.02304.x
+   Obare F, 2009, SEX TRANSM INFECT, V85, P139, DOI 10.1136/sti.2008.030320
+   Obermeyer CM, 2007, AM J PUBLIC HEALTH, V97, P1762, DOI 10.2105/AJPH.2006.096263
+   Odhiambo J, 2008, INT J TUBERC LUNG D, V12, pS63
+   RAO JNK, 1981, J AM STAT ASSOC, V76, P221, DOI 10.2307/2287815
+   RAO JNK, 1984, ANN STAT, V12, P46, DOI 10.1214/aos/1176346391
+   Rosen S, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001056
+   Spielberg F, 2005, JAIDS-J ACQ IMM DEF, V38, P348
+   Spielberg F, 2004, LANCET INFECT DIS, V4, P640, DOI 10.1016/S1473-3099(04)01150-8
+   Spielberg F, 2003, JAIDS-J ACQ IMM DEF, V32, P318, DOI 10.1097/00126334-200303010-00012
+   Steingart KR, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001062
+   Terwee CB, 2007, J CLIN EPIDEMIOL, V60, P34, DOI 10.1016/j.jclinepi.2006.03.012
+   Topp SM, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0011522
+   UNAIDS, 1998, LOOK DEEP HIV EP QUE
+   UNGASS, 2008, UNGASS COUNTR PROGR
+   Walensky RP, 2008, ANN INTERN MED, V149, P153, DOI 10.7326/0003-4819-149-3-200808050-00003
+   Weiser SD, 2006, PLOS MED, V3, P1013, DOI 10.1371/journal.pmed.0030261
+   Wolfe WR, 2008, AM J PUBLIC HEALTH, V98, P1865, DOI 10.2105/AJPH.2007.122044
+   World Health Organization, 2009, WHO MON INT MON TUB
+   World Health Organization, 2009, HIV TEST TREATM PREV
+   World Health Organization (WHO), 2010, UN ACC 2010
+   Wright AA, 2006, NEW ENGL J MED, V354, P437, DOI 10.1056/NEJMp058302
+NR 38
+TC 131
+Z9 134
+U1 1
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1549-1676
+J9 PLOS MED
+JI PLos Med.
+PD OCT
+PY 2011
+VL 8
+IS 10
+AR e1001102
+DI 10.1371/journal.pmed.1001102
+PG 11
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 841YZ
+UT WOS:000296552400003
+PM 21990966
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

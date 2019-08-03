@@ -1,0 +1,4205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">MOSES ME</data>
+  <data key="label">MOSES ME, 2003, ECOL LETT, V6, P295, DOI 10.1046/J.1461-0248.2003.00446.X</data>
+  <data key="author">MOSES ME, 2003, ECOL LETT, V6, P295, DOI 10.1046/J.1461-0248.2003.00446.X</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0016001783691079819</data>
+</node>
+<node id="1">
+  <data key="name">KAUPPI PE</data>
+  <data key="label">KAUPPI PE, 2006, P NATL ACAD SCI USA, V103, P17574, DOI 10.1073/PNAS.0608343103</data>
+  <data key="author">KAUPPI PE, 2006, P NATL ACAD SCI USA, V103, P17574, DOI 10.1073/PNAS.0608343103</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.006963321615841763</data>
+</node>
+<node id="2">
+  <data key="name">stormwater management</data>
+  <data key="label">stormwater management</data>
+  <data key="author">stormwater management</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">4.771577835739808E-4</data>
+</node>
+<node id="3">
+  <data key="name">allometry</data>
+  <data key="label">allometry</data>
+  <data key="author">allometry</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0034747557424665643</data>
+</node>
+<node id="4">
+  <data key="name">DODMAN D</data>
+  <data key="label">DODMAN D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016</data>
+  <data key="author">DODMAN D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.00583206584918269</data>
+</node>
+<node id="5">
+  <data key="name">PAN W</data>
+  <data key="label">PAN W, 2013, NAT COMMUN, V4, P0, DOI 10.1038/NCOMMS2961</data>
+  <data key="author">PAN W, 2013, NAT COMMUN, V4, P0, DOI 10.1038/NCOMMS2961</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+  <data key="centrality">4.208406448856858E-4</data>
+</node>
+<node id="6">
+  <data key="name">ROZENFELD HD</data>
+  <data key="label">ROZENFELD HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/PNAS.0807435105</data>
+  <data key="author">ROZENFELD HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/PNAS.0807435105</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+  <data key="centrality">0.008744636869709681</data>
+</node>
+<node id="7">
+  <data key="name">network</data>
+  <data key="label">network</data>
+  <data key="author">network</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">71</data>
+  <data key="centrality">0.14820227360265642</data>
+</node>
+<node id="8">
+  <data key="name">ROZENFELD HD</data>
+  <data key="label">ROZENFELD HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/AER.101.5.2205</data>
+  <data key="author">ROZENFELD HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/AER.101.5.2205</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="9">
+  <data key="name">communication</data>
+  <data key="label">communication</data>
+  <data key="author">communication</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.004681415260659104</data>
+</node>
+<node id="10">
+  <data key="name">GONZALEZ MC</data>
+  <data key="label">GONZALEZ MC, 2008, NATURE, V453, P779, DOI 10.1038/NATURE06958</data>
+  <data key="author">GONZALEZ MC, 2008, NATURE, V453, P779, DOI 10.1038/NATURE06958</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">26</data>
+  <data key="centrality">0.028401983170141528</data>
+</node>
+<node id="11">
+  <data key="name">emergence</data>
+  <data key="label">emergence</data>
+  <data key="author">emergence</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.00923701376287323</data>
+</node>
+<node id="12">
+  <data key="name">human mobility</data>
+  <data key="label">human mobility</data>
+  <data key="author">human mobility</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">5.066698884011628E-4</data>
+</node>
+<node id="13">
+  <data key="name">GROFFMAN PM</data>
+  <data key="label">GROFFMAN PM, 2005, J N AM BENTHOL SOC, V24, P613, DOI 10.1899/04-026.1</data>
+  <data key="author">GROFFMAN PM, 2005, J N AM BENTHOL SOC, V24, P613, DOI 10.1899/04-026.1</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="14">
+  <data key="name">HOLME P</data>
+  <data key="label">HOLME P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/J.SOCNET.2004.01.077</data>
+  <data key="author">HOLME P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/J.SOCNET.2004.01.077</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.004681415260659104</data>
+</node>
+<node id="15">
+  <data key="name">GRIMM NB</data>
+  <data key="label">GRIMM NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2</data>
+  <data key="author">GRIMM NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2</data>
+  <data key="year">2000</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="16">
+  <data key="name">origin</data>
+  <data key="label">origin</data>
+  <data key="author">origin</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.005527406841639645</data>
+</node>
+<node id="17">
+  <data key="name">KENNEDY C</data>
+  <data key="label">KENNEDY C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/ES900213P</data>
+  <data key="author">KENNEDY C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/ES900213P</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+  <data key="centrality">0.04597994342815777</data>
+</node>
+<node id="18">
+  <data key="name">MILINSKI M</data>
+  <data key="label">MILINSKI M, 2006, P NATL ACAD SCI USA, V103, P3994, DOI 10.1073/PNAS.0504902103</data>
+  <data key="author">MILINSKI M, 2006, P NATL ACAD SCI USA, V103, P3994, DOI 10.1073/PNAS.0504902103</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.00953404692081175</data>
+</node>
+<node id="19">
+  <data key="name">ASH C</data>
+  <data key="label">ASH C, 2008, SCIENCE, V319, P739, DOI 10.1126/SCIENCE.319.5864.739</data>
+  <data key="author">ASH C, 2008, SCIENCE, V319, P739, DOI 10.1126/SCIENCE.319.5864.739</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.06017132294736289</data>
+</node>
+<node id="20">
+  <data key="name">KENNEDY CA</data>
+  <data key="label">KENNEDY CA, 2015, P NATL ACAD SCI USA, V112, P5985, DOI 10.1073/PNAS.1504315112</data>
+  <data key="author">KENNEDY CA, 2015, P NATL ACAD SCI USA, V112, P5985, DOI 10.1073/PNAS.1504315112</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">0.018852531348583453</data>
+</node>
+<node id="21">
+  <data key="name">WALSH CJ</data>
+  <data key="label">WALSH CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2</data>
+  <data key="author">WALSH CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="22">
+  <data key="name">cellular automata</data>
+  <data key="label">cellular automata</data>
+  <data key="author">cellular automata</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.004393690314462033</data>
+</node>
+<node id="23">
+  <data key="name">SOVACOOL BK</data>
+  <data key="label">SOVACOOL BK, 2010, ENERG POLICY, V38, P4856, DOI 10.1016/J.ENPOL.2009.10.001</data>
+  <data key="author">SOVACOOL BK, 2010, ENERG POLICY, V38, P4856, DOI 10.1016/J.ENPOL.2009.10.001</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="24">
+  <data key="name">dynamics</data>
+  <data key="label">dynamics</data>
+  <data key="author">dynamics</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">34</data>
+  <data key="centrality">0.06969750699877081</data>
+</node>
+<node id="25">
+  <data key="name">habitat</data>
+  <data key="label">habitat</data>
+  <data key="author">habitat</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">4.771577835739808E-4</data>
+</node>
+<node id="26">
+  <data key="name">innovation</data>
+  <data key="label">innovation</data>
+  <data key="author">innovation</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">61</data>
+  <data key="centrality">0.14088221622564245</data>
+</node>
+<node id="27">
+  <data key="name">ZHANG JA</data>
+  <data key="label">ZHANG JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/J.PHYSA.2010.06.059</data>
+  <data key="author">ZHANG JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/J.PHYSA.2010.06.059</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="28">
+  <data key="name">ARBESMAN S</data>
+  <data key="label">ARBESMAN S, 2009, PHYS REV E, V79, P0, DOI 10.1103/PHYSREVE.79.016115</data>
+  <data key="author">ARBESMAN S, 2009, PHYS REV E, V79, P0, DOI 10.1103/PHYSREVE.79.016115</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.002673718585702013</data>
+</node>
+<node id="29">
+  <data key="name">GOMEZ-LIEVANO A</data>
+  <data key="label">GOMEZ-LIEVANO A, 2012, PLOS ONE, V7, P0, DOI 10.1371/JOURNAL.PONE.0040393</data>
+  <data key="author">GOMEZ-LIEVANO A, 2012, PLOS ONE, V7, P0, DOI 10.1371/JOURNAL.PONE.0040393</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+  <data key="centrality">0.0010858588310641033</data>
+</node>
+<node id="30">
+  <data key="name">landscape</data>
+  <data key="label">landscape</data>
+  <data key="author">landscape</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="31">
+  <data key="name">urban</data>
+  <data key="label">urban</data>
+  <data key="author">urban</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="32">
+  <data key="name">SAMANIEGO H</data>
+  <data key="label">SAMANIEGO H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29</data>
+  <data key="author">SAMANIEGO H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">2.9473135571095565E-4</data>
+</node>
+<node id="33">
+  <data key="name">SCHEFFER M</data>
+  <data key="label">SCHEFFER M, 2012, SCIENCE, V338, P344, DOI 10.1126/SCIENCE.1225244</data>
+  <data key="author">SCHEFFER M, 2012, SCIENCE, V338, P344, DOI 10.1126/SCIENCE.1225244</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="34">
+  <data key="name">china</data>
+  <data key="label">china</data>
+  <data key="author">china</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.011657171139170315</data>
+</node>
+<node id="35">
+  <data key="name">LU L</data>
+  <data key="label">LU L, 2010, PLOS ONE, V5, P0, DOI 10.1371/JOURNAL.PONE.0014139</data>
+  <data key="author">LU L, 2010, PLOS ONE, V5, P0, DOI 10.1371/JOURNAL.PONE.0014139</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="36">
+  <data key="name">KAUSHAL SS</data>
+  <data key="label">KAUSHAL SS, 2005, P NATL ACAD SCI USA, V102, P13517, DOI 10.1073/PNAS.0506414102</data>
+  <data key="author">KAUSHAL SS, 2005, P NATL ACAD SCI USA, V102, P13517, DOI 10.1073/PNAS.0506414102</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="37">
+  <data key="name">evolution</data>
+  <data key="label">evolution</data>
+  <data key="author">evolution</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">29</data>
+  <data key="centrality">0.04546524876415647</data>
+</node>
+<node id="38">
+  <data key="name">BROWN DG</data>
+  <data key="label">BROWN DG, 2008, GEOFORUM, V39, P805, DOI 10.1016/J.GEOFORUM.2007.02.010</data>
+  <data key="author">BROWN DG, 2008, GEOFORUM, V39, P805, DOI 10.1016/J.GEOFORUM.2007.02.010</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">4.833323496186043E-4</data>
+</node>
+<node id="39">
+  <data key="name">density</data>
+  <data key="label">density</data>
+  <data key="author">density</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="40">
+  <data key="name">BERNHARDT ES</data>
+  <data key="label">BERNHARDT ES, 2007, FRESHWATER BIOL, V52, P738, DOI 10.1111/J.1365-2427.2006.01718.X</data>
+  <data key="author">BERNHARDT ES, 2007, FRESHWATER BIOL, V52, P738, DOI 10.1111/J.1365-2427.2006.01718.X</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="41">
+  <data key="name">BARENBLATT GI</data>
+  <data key="label">BARENBLATT GI, 2003, SCALING, V0, P0</data>
+  <data key="author">BARENBLATT GI, 2003, SCALING, V0, P0</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.008399626652430485</data>
+</node>
+<node id="42">
+  <data key="name">scaling</data>
+  <data key="label">scaling</data>
+  <data key="author">scaling</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.008078467260440682</data>
+</node>
+<node id="43">
+  <data key="name">KAYE JP</data>
+  <data key="label">KAYE JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/J.TREE.2005.12.006</data>
+  <data key="author">KAYE JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/J.TREE.2005.12.006</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="44">
+  <data key="name">BATTY M</data>
+  <data key="label">BATTY M, 2012, CITIES, V29, P0, DOI 10.1016/J.CITIES.2011.11.008</data>
+  <data key="author">BATTY M, 2012, CITIES, V29, P0, DOI 10.1016/J.CITIES.2011.11.008</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="45">
+  <data key="name">WANG LZ</data>
+  <data key="label">WANG LZ, 2001, ENVIRON MANAGE, V28, P255, DOI 10.1007/S0026702409</data>
+  <data key="author">WANG LZ, 2001, ENVIRON MANAGE, V28, P255, DOI 10.1007/S0026702409</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="46">
+  <data key="name">sprawl</data>
+  <data key="label">sprawl</data>
+  <data key="author">sprawl</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="47">
+  <data key="name">complex network</data>
+  <data key="label">complex network</data>
+  <data key="author">complex network</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.017139971987972902</data>
+</node>
+<node id="48">
+  <data key="name">land use</data>
+  <data key="label">land use</data>
+  <data key="author">land use</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">0.031316141763666115</data>
+</node>
+<node id="49">
+  <data key="name">LIU JY</data>
+  <data key="label">LIU JY, 2005, AMBIO, V34, P450, DOI 10.1639/0044-7447(2005)034[0450:SPADFO]2.0.CO;2</data>
+  <data key="author">LIU JY, 2005, AMBIO, V34, P450, DOI 10.1639/0044-7447(2005)034[0450:SPADFO]2.0.CO;2</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0035416519997985233</data>
+</node>
+<node id="50">
+  <data key="name">city</data>
+  <data key="label">city</data>
+  <data key="author">city</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">290</data>
+  <data key="centrality">0.2883213370956337</data>
+</node>
+<node id="51">
+  <data key="name">scale</data>
+  <data key="label">scale</data>
+  <data key="author">scale</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="52">
+  <data key="name">OLIVEIRA EA</data>
+  <data key="label">OLIVEIRA EA, 2014, SCI REP-UK, V4, P0, DOI 10.1038/SREP04235</data>
+  <data key="author">OLIVEIRA EA, 2014, SCI REP-UK, V4, P0, DOI 10.1038/SREP04235</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+  <data key="centrality">0.007712627833929764</data>
+</node>
+<node id="53">
+  <data key="name">BATTY M</data>
+  <data key="label">BATTY M, 2008, SCIENCE, V319, P769, DOI 10.1126/SCIENCE.1151419</data>
+  <data key="author">BATTY M, 2008, SCIENCE, V319, P769, DOI 10.1126/SCIENCE.1151419</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">88</data>
+  <data key="centrality">0.08922395655274719</data>
+</node>
+<node id="54">
+  <data key="name">law</data>
+  <data key="label">law</data>
+  <data key="author">law</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">22</data>
+  <data key="centrality">0.06423147251783323</data>
+</node>
+<node id="55">
+  <data key="name">GROFFMAN PM</data>
+  <data key="label">GROFFMAN PM, 2004, ECOSYSTEMS, V7, P393, DOI 10.1007/S10021-003-0039-X</data>
+  <data key="author">GROFFMAN PM, 2004, ECOSYSTEMS, V7, P393, DOI 10.1007/S10021-003-0039-X</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="56">
+  <data key="name">spread</data>
+  <data key="label">spread</data>
+  <data key="author">spread</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">4.633561171817057E-4</data>
+</node>
+<node id="57">
+  <data key="name">UNITED N</data>
+  <data key="label">UNITED N, 2008, WORLD URB PROSP 2007, V0, P0</data>
+  <data key="author">UNITED N, 2008, WORLD URB PROSP 2007, V0, P0</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">5.563307379067107E-4</data>
+</node>
+<node id="58">
+  <data key="name">scaling law</data>
+  <data key="label">scaling law</data>
+  <data key="author">scaling law</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.008906227428743169</data>
+</node>
+<node id="59">
+  <data key="name">pattern</data>
+  <data key="label">pattern</data>
+  <data key="author">pattern</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">28</data>
+  <data key="centrality">0.011442292557603399</data>
+</node>
+<node id="60">
+  <data key="name">WEST GB</data>
+  <data key="label">WEST GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/JEB.01589</data>
+  <data key="author">WEST GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/JEB.01589</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.012073753919893716</data>
+</node>
+<node id="61">
+  <data key="name">SCELLATO S</data>
+  <data key="label">SCELLATO S, 2006, EUR PHYS J B, V50, P221, DOI 10.1140/EPJB/E2006-00066-4</data>
+  <data key="author">SCELLATO S, 2006, EUR PHYS J B, V50, P221, DOI 10.1140/EPJB/E2006-00066-4</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="62">
+  <data key="name">impact</data>
+  <data key="label">impact</data>
+  <data key="author">impact</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">4.771577835739808E-4</data>
+</node>
+<node id="63">
+  <data key="name">UN</data>
+  <data key="label">UN, 2007, URB POP DEV ENV, V0, P0</data>
+  <data key="author">UN, 2007, URB POP DEV ENV, V0, P0</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">7.836398902059257E-4</data>
+</node>
+<node id="64">
+  <data key="name">ARCAUTE E</data>
+  <data key="label">ARCAUTE E, 2015, J R SOC INTERFACE, V12, P0, DOI 10.1098/RSIF.2014.0745</data>
+  <data key="author">ARCAUTE E, 2015, J R SOC INTERFACE, V12, P0, DOI 10.1098/RSIF.2014.0745</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+  <data key="centrality">0.04524351692663572</data>
+</node>
+<node id="65">
+  <data key="name">FRAGKIAS M</data>
+  <data key="label">FRAGKIAS M, 2013, PLOS ONE, V8, P0, DOI 10.1371/JOURNAL.PONE.0064727</data>
+  <data key="author">FRAGKIAS M, 2013, PLOS ONE, V8, P0, DOI 10.1371/JOURNAL.PONE.0064727</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+  <data key="centrality">0.04373951381169895</data>
+</node>
+<node id="66">
+  <data key="name">SCHLAPFER M</data>
+  <data key="label">SCHLAPFER M, 2014, J R SOC INTERFACE, V11, P0, DOI 10.1098/RSIF.2013.0789</data>
+  <data key="author">SCHLAPFER M, 2014, J R SOC INTERFACE, V11, P0, DOI 10.1098/RSIF.2013.0789</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">20</data>
+  <data key="centrality">0.02783278396389044</data>
+</node>
+<node id="67">
+  <data key="name">EECKHOUT J</data>
+  <data key="label">EECKHOUT J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303</data>
+  <data key="author">EECKHOUT J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0016759490573742828</data>
+</node>
+<node id="68">
+  <data key="name">STRANO E</data>
+  <data key="label">STRANO E, 2012, SCI REP-UK, V2, P0, DOI 10.1038/SREP00296</data>
+  <data key="author">STRANO E, 2012, SCI REP-UK, V2, P0, DOI 10.1038/SREP00296</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.0018248660843973316</data>
+</node>
+<node id="69">
+  <data key="name">power law</data>
+  <data key="label">power law</data>
+  <data key="author">power law</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+  <data key="centrality">0.03900524160873463</data>
+</node>
+<node id="70">
+  <data key="name">SOLE R</data>
+  <data key="label">SOLE R, 2006, SELF ORG COMPLEX ECO, V0, P0</data>
+  <data key="author">SOLE R, 2006, SELF ORG COMPLEX ECO, V0, P0</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">5.165318627495411E-4</data>
+</node>
+<node id="71">
+  <data key="name">GRIMM NB</data>
+  <data key="label">GRIMM NB, 2008, SCIENCE, V319, P756, DOI 10.1126/SCIENCE.1150195</data>
+  <data key="author">GRIMM NB, 2008, SCIENCE, V319, P756, DOI 10.1126/SCIENCE.1150195</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">19</data>
+  <data key="centrality">0.08675360278157163</data>
+</node>
+<node id="72">
+  <data key="name">distribution</data>
+  <data key="label">distribution</data>
+  <data key="author">distribution</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.002850003582079056</data>
+</node>
+<node id="73">
+  <data key="name">BETTENCOURT LMA</data>
+  <data key="label">BETTENCOURT LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/PNAS.0610172104</data>
+  <data key="author">BETTENCOURT LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/PNAS.0610172104</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">335</data>
+  <data key="centrality">0.020067769130974102</data>
+</node>
+<node id="74">
+  <data key="name">BETTENCOURT L</data>
+  <data key="label">BETTENCOURT L, 2010, NATURE, V467, P912, DOI 10.1038/467912A</data>
+  <data key="author">BETTENCOURT L, 2010, NATURE, V467, P912, DOI 10.1038/467912A</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">93</data>
+  <data key="centrality">0.05546163024981159</data>
+</node>
+<node id="75">
+  <data key="name">BETTENCOURT LMA</data>
+  <data key="label">BETTENCOURT LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/J.RESPOL.2006.09.026</data>
+  <data key="author">BETTENCOURT LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/J.RESPOL.2006.09.026</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+  <data key="centrality">0.01973156046543075</data>
+</node>
+<node id="76">
+  <data key="name">united states</data>
+  <data key="label">united states</data>
+  <data key="author">united states</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+  <data key="centrality">0.14241278141983282</data>
+</node>
+<node id="77">
+  <data key="name">FRAGKIAS M</data>
+  <data key="label">FRAGKIAS M, 2009, COMPUT ENVIRON URBAN, V33, P189, DOI 10.1016/J.COMPENVURBSYS.2008.08.005</data>
+  <data key="author">FRAGKIAS M, 2009, COMPUT ENVIRON URBAN, V33, P189, DOI 10.1016/J.COMPENVURBSYS.2008.08.005</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0035416519997985233</data>
+</node>
+<node id="78">
+  <data key="name">ORTMAN SG</data>
+  <data key="label">ORTMAN SG, 2014, PLOS ONE, V9, P0, DOI 10.1371/JOURNAL.PONE.0087902</data>
+  <data key="author">ORTMAN SG, 2014, PLOS ONE, V9, P0, DOI 10.1371/JOURNAL.PONE.0087902</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0016546703700602216</data>
+</node>
+<node id="79">
+  <data key="name">population</data>
+  <data key="label">population</data>
+  <data key="author">population</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+  <data key="centrality">0.01949110370098559</data>
+</node>
+<node id="80">
+  <data key="name">ALVES LGA</data>
+  <data key="label">ALVES LGA, 2013, PLOS ONE, V8, P0, DOI 10.1371/JOURNAL.PONE.0069580</data>
+  <data key="author">ALVES LGA, 2013, PLOS ONE, V8, P0, DOI 10.1371/JOURNAL.PONE.0069580</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.002203877958835977</data>
+</node>
+<node id="81">
+  <data key="name">GABAIX X</data>
+  <data key="label">GABAIX X, 2003, NATURE, V423, P267, DOI 10.1038/NATURE01624</data>
+  <data key="author">GABAIX X, 2003, NATURE, V423, P267, DOI 10.1038/NATURE01624</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.002103984079865056</data>
+</node>
+<node id="82">
+  <data key="name">system</data>
+  <data key="label">system</data>
+  <data key="author">system</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">41</data>
+  <data key="centrality">0.13485612484213405</data>
+</node>
+<node id="83">
+  <data key="name">zipfs law</data>
+  <data key="label">zipfs law</data>
+  <data key="author">zipfs law</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+  <data key="centrality">0.037273848686911186</data>
+</node>
+<node id="84">
+  <data key="name">water quality</data>
+  <data key="label">water quality</data>
+  <data key="author">water quality</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">4.771577835739808E-4</data>
+</node>
+<node id="85">
+  <data key="name">COHEN B</data>
+  <data key="label">COHEN B, 2004, WORLD DEV, V32, P23, DOI 10.1016/J.WORLDDEV.2003.04.008</data>
+  <data key="author">COHEN B, 2004, WORLD DEV, V32, P23, DOI 10.1016/J.WORLDDEV.2003.04.008</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="86">
+  <data key="name">growth</data>
+  <data key="label">growth</data>
+  <data key="author">growth</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">203</data>
+  <data key="centrality">0.22975561914365153</data>
+</node>
+<node id="87">
+  <data key="name">KOSSINETS G</data>
+  <data key="label">KOSSINETS G, 2006, SCIENCE, V311, P88, DOI 10.1126/SCIENCE.1116869</data>
+  <data key="author">KOSSINETS G, 2006, SCIENCE, V311, P88, DOI 10.1126/SCIENCE.1116869</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.014604378360279991</data>
+</node>
+<node id="88">
+  <data key="name">LILJEROS F</data>
+  <data key="label">LILJEROS F, 2003, MICROBES INFECT, V5, P189, DOI 10.1016/S1286-4579(02)00058-8</data>
+  <data key="author">LILJEROS F, 2003, MICROBES INFECT, V5, P189, DOI 10.1016/S1286-4579(02)00058-8</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="89">
+  <data key="name">WEST GB</data>
+  <data key="label">WEST GB, 2017, SCALE UNIVERSAL LAWS, V0, P0</data>
+  <data key="author">WEST GB, 2017, SCALE UNIVERSAL LAWS, V0, P0</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+  <data key="centrality">0.0034643498826618033</data>
+</node>
+<node id="90">
+  <data key="name">NEWMAN MEJ</data>
+  <data key="label">NEWMAN MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444</data>
+  <data key="author">NEWMAN MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">3.1859604256951116E-4</data>
+</node>
+<node id="91">
+  <data key="name">urbanization</data>
+  <data key="label">urbanization</data>
+  <data key="author">urbanization</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">40</data>
+  <data key="centrality">0.4393535715160947</data>
+</node>
+<node id="92">
+  <data key="name">PAUL MJ</data>
+  <data key="label">PAUL MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/ANNUREV.ECOLSYS.32.081501.114040</data>
+  <data key="author">PAUL MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/ANNUREV.ECOLSYS.32.081501.114040</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="93">
+  <data key="name">GLAESER E</data>
+  <data key="label">GLAESER E, 2011, TRIUMPH CITY, V0, P0</data>
+  <data key="author">GLAESER E, 2011, TRIUMPH CITY, V0, P0</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="94">
+  <data key="name">conservation</data>
+  <data key="label">conservation</data>
+  <data key="author">conservation</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="95">
+  <data key="name">LEWIS DB</data>
+  <data key="label">LEWIS DB, 2006, GLOBAL CHANGE BIOL, V12, P703, DOI 10.1111/J.1365-2486.2006.01126.X</data>
+  <data key="author">LEWIS DB, 2006, GLOBAL CHANGE BIOL, V12, P703, DOI 10.1111/J.1365-2486.2006.01126.X</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="96">
+  <data key="name">HATT BE</data>
+  <data key="label">HATT BE, 2004, ENVIRON MANAGE, V34, P112, DOI 10.1007/S00267-004-0221-8</data>
+  <data key="author">HATT BE, 2004, ENVIRON MANAGE, V34, P112, DOI 10.1007/S00267-004-0221-8</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="97">
+  <data key="name">climate change</data>
+  <data key="label">climate change</data>
+  <data key="author">climate change</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+  <data key="centrality">0.05579704976032587</data>
+</node>
+<node id="98">
+  <data key="name">life</data>
+  <data key="label">life</data>
+  <data key="author">life</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">65</data>
+  <data key="centrality">0.05741745361611862</data>
+</node>
+<node id="99">
+  <data key="name">ISALGUE A</data>
+  <data key="label">ISALGUE A, 2007, PHYSICA A, V382, P643, DOI 10.1016/J.PHYSA.2007.04.019</data>
+  <data key="author">ISALGUE A, 2007, PHYSICA A, V382, P643, DOI 10.1016/J.PHYSA.2007.04.019</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">0.012659900322474394</data>
+</node>
+<node id="100">
+  <data key="name">size</data>
+  <data key="label">size</data>
+  <data key="author">size</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+  <data key="centrality">0.19602962119438103</data>
+</node>
+<node id="101">
+  <data key="name">KAUFMANN RK</data>
+  <data key="label">KAUFMANN RK, 2007, J CLIMATE, V20, P2299, DOI 10.1175/JCLI4109.1</data>
+  <data key="author">KAUFMANN RK, 2007, J CLIMATE, V20, P2299, DOI 10.1175/JCLI4109.1</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0035416519997985233</data>
+</node>
+<node id="102">
+  <data key="name">BATTY M</data>
+  <data key="label">BATTY M, 2005, CITIES COMPLEXITY UN, V0, P0</data>
+  <data key="author">BATTY M, 2005, CITIES COMPLEXITY UN, V0, P0</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">8.059214441408466E-4</data>
+</node>
+<node id="103">
+  <data key="name">energy</data>
+  <data key="label">energy</data>
+  <data key="author">energy</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+  <data key="centrality">0.01251026419127365</data>
+</node>
+<node id="104">
+  <data key="name">model</data>
+  <data key="label">model</data>
+  <data key="author">model</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">79</data>
+  <data key="centrality">0.06872613363727392</data>
+</node>
+<node id="105">
+  <data key="name">agglomeration</data>
+  <data key="label">agglomeration</data>
+  <data key="author">agglomeration</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">0.04723603734464356</data>
+</node>
+<node id="106">
+  <data key="name">BARTHELEMY M</data>
+  <data key="label">BARTHELEMY M, 2011, PHYS REP, V499, P1, DOI 10.1016/J.PHYSREP.2010.11.002</data>
+  <data key="author">BARTHELEMY M, 2011, PHYS REP, V499, P1, DOI 10.1016/J.PHYSREP.2010.11.002</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">26</data>
+  <data key="centrality">0.02748439385460756</data>
+</node>
+<node id="107">
+  <data key="name">LOBO J</data>
+  <data key="label">LOBO J, 2013, PLOS ONE, V8, P0, DOI 10.1371/JOURNAL.PONE.0058407</data>
+  <data key="author">LOBO J, 2013, PLOS ONE, V8, P0, DOI 10.1371/JOURNAL.PONE.0058407</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+  <data key="centrality">0.006572084751790877</data>
+</node>
+<node id="108">
+  <data key="name">KATES RW</data>
+  <data key="label">KATES RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/PNAS.1231331100</data>
+  <data key="author">KATES RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/PNAS.1231331100</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0027753959227733043</data>
+</node>
+<node id="109">
+  <data key="name">BETTENCOURT LMA</data>
+  <data key="label">BETTENCOURT LMA, 2010, PLOS ONE, V5, P0, DOI 10.1371/JOURNAL.PONE.0013541</data>
+  <data key="author">BETTENCOURT LMA, 2010, PLOS ONE, V5, P0, DOI 10.1371/JOURNAL.PONE.0013541</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">97</data>
+  <data key="centrality">0.06480789496550546</data>
+</node>
+<node id="110">
+  <data key="name">CRANE P</data>
+  <data key="label">CRANE P, 2005, SCIENCE, V308, P1225, DOI 10.1126/SCIENCE.1114165</data>
+  <data key="author">CRANE P, 2005, SCIENCE, V308, P1225, DOI 10.1126/SCIENCE.1114165</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0034356787000313273</data>
+</node>
+<node id="111">
+  <data key="name">sustainability</data>
+  <data key="label">sustainability</data>
+  <data key="author">sustainability</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">36</data>
+  <data key="centrality">0.04395720445789581</data>
+</node>
+<node id="112">
+  <data key="name">BATTY M</data>
+  <data key="label">BATTY M, 2013, NEW SCI CITIES, V0, P0</data>
+  <data key="author">BATTY M, 2013, NEW SCI CITIES, V0, P0</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">35</data>
+  <data key="centrality">0.017574523617167118</data>
+</node>
+<node id="113">
+  <data key="name">BATTY M</data>
+  <data key="label">BATTY M, 2006, NATURE, V444, P592, DOI 10.1038/NATURE05302</data>
+  <data key="author">BATTY M, 2006, NATURE, V444, P592, DOI 10.1038/NATURE05302</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+  <data key="centrality">5.292148254914388E-4</data>
+</node>
+<node id="114">
+  <data key="name">FLORIDA R</data>
+  <data key="label">FLORIDA R, 2004, CITIES CREATIVE CLAS, V0, P0</data>
+  <data key="author">FLORIDA R, 2004, CITIES CREATIVE CLAS, V0, P0</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.006311431943795569</data>
+</node>
+<node id="115">
+  <data key="name">XIE F</data>
+  <data key="label">XIE F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/J.1538-4632.2007.00707.X</data>
+  <data key="author">XIE F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/J.1538-4632.2007.00707.X</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">5.998325136492731E-4</data>
+</node>
+<node id="116">
+  <data key="name">CLAUSET A</data>
+  <data key="label">CLAUSET A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111</data>
+  <data key="author">CLAUSET A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+  <data key="centrality">0.0405050558738472</data>
+</node>
+<node id="117">
+  <data key="name">management</data>
+  <data key="label">management</data>
+  <data key="author">management</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.004668839132161836</data>
+</node>
+<node id="118">
+  <data key="name">BETTENCOURT LMA</data>
+  <data key="label">BETTENCOURT LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/SCIENCE.1235823</data>
+  <data key="author">BETTENCOURT LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/SCIENCE.1235823</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">138</data>
+  <data key="centrality">0.015520923921309882</data>
+</node>
+<node id="119">
+  <data key="name">ANGEL S</data>
+  <data key="label">ANGEL S, 2011, PROG PLANN, V75, P53, DOI 10.1016/J.PROGRESS.2011.04.001</data>
+  <data key="author">ANGEL S, 2011, PROG PLANN, V75, P53, DOI 10.1016/J.PROGRESS.2011.04.001</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="120">
+  <data key="name">economic geography</data>
+  <data key="label">economic geography</data>
+  <data key="author">economic geography</data>
+  <data key="year">-1</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.009390648988078119</data>
+</node>
+<node id="121">
+  <data key="name">CLARK WC</data>
+  <data key="label">CLARK WC, 2003, P NATL ACAD SCI USA, V100, P8059, DOI 10.1073/PNAS.1231333100</data>
+  <data key="author">CLARK WC, 2003, P NATL ACAD SCI USA, V100, P8059, DOI 10.1073/PNAS.1231333100</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0040368511703265594</data>
+</node>
+<edge source="0" target="3">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="0" target="7">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="0" target="41">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="0" target="54">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="0" target="60">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="0" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="0" target="86">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="0" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="1" target="18">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="1" target="36">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="1" target="76">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="1" target="94">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="1" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="1" target="108">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="2" target="25">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="2" target="45">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="2" target="48">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="2" target="62">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="2" target="84">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="2" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="2" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="3" target="7">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="41">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="50">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="54">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="60">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="69">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="4" target="49">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="4" target="71">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="4" target="77">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="4" target="86">
+  <data key="weight">0.4364357888698578</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="4" target="97">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="4" target="101">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="5" target="10">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="5" target="66">
+  <data key="weight">0.004000000189989805</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="5" target="106">
+  <data key="weight">0.35856857895851135</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="6" target="8">
+  <data key="weight">0.6546536684036255</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="6" target="52">
+  <data key="weight">0.5103103518486023</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="6" target="79">
+  <data key="weight">0.6761233806610107</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="6" target="83">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="6" target="100">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="6" target="109">
+  <data key="weight">0.3500700294971466</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="6" target="116">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="6" target="118">
+  <data key="weight">0.43915504217147827</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="7" target="10">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="7" target="24">
+  <data key="weight">0.0032732682302594185</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="7" target="26">
+  <data key="weight">0.00288675120100379</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="7" target="27">
+  <data key="weight">0.5</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="7" target="35">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="7" target="37">
+  <data key="weight">0.0028347333427518606</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="7" target="41">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="7" target="51">
+  <data key="weight">0.5</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="7" target="53">
+  <data key="weight">0.4622501730918884</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="7" target="54">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="7" target="58">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="7" target="59">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="7" target="60">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="7" target="71">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="7" target="73">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="7" target="74">
+  <data key="weight">0.004000000189989805</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="7" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="7" target="82">
+  <data key="weight">0.0035634832456707954</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="7" target="99">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="7" target="100">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="7" target="102">
+  <data key="weight">0.5</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="7" target="104">
+  <data key="weight">0.31139957904815674</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="7" target="109">
+  <data key="weight">0.29250895977020264</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="7" target="112">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="8" target="52">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="8" target="116">
+  <data key="weight">0.40089187026023865</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="9" target="14">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="9" target="26">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="9" target="47">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="9" target="87">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="9" target="88">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="10" target="12">
+  <data key="weight">0.5976142883300781</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="10" target="31">
+  <data key="weight">0.2857142984867096</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="10" target="53">
+  <data key="weight">0.4242640733718872</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="10" target="59">
+  <data key="weight">0.547722578048706</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="10" target="68">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="10" target="74">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="10" target="82">
+  <data key="weight">0.2519763112068176</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="10" target="106">
+  <data key="weight">0.35856857895851135</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="11" target="18">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="11" target="24">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="11" target="26">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="11" target="56">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="11" target="73">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="11" target="81">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="11" target="82">
+  <data key="weight">0.006666666828095913</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="11" target="87">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="12" target="59">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="12" target="66">
+  <data key="weight">0.35856857895851135</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="13" target="15">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="13" target="21">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="13" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="13" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="13" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="13" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="13" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="13" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="14" target="26">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="14" target="47">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="14" target="87">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="14" target="88">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="15" target="21">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="15" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="54">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="60">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="16" target="75">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="81">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="100">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="16" target="104">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="110">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="114">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="17" target="19">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="17" target="23">
+  <data key="weight">0.75</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="17" target="34">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="17" target="50">
+  <data key="weight">0.5222329497337341</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="17" target="57">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="17" target="63">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="17" target="98">
+  <data key="weight">0.25</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="17" target="103">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="17" target="104">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="18" target="24">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="18" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="18" target="87">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="18" target="108">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="19" target="41">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="19" target="49">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="19" target="50">
+  <data key="weight">0.5222329497337341</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="19" target="57">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="19" target="63">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="19" target="77">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="19" target="86">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="19" target="97">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="19" target="101">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="19" target="117">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="19" target="121">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="20" target="91">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="20" target="97">
+  <data key="weight">0.27216553688049316</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="20" target="103">
+  <data key="weight">0.4629100561141968</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="20" target="106">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="21" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="21" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="21" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="21" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="21" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="21" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="22" target="37">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="22" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="22" target="48">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="22" target="50">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="22" target="53">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="22" target="83">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="22" target="86">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="23" target="34">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="24" target="37">
+  <data key="weight">0.0024999999441206455</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="24" target="47">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="24" target="56">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="24" target="58">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="24" target="72">
+  <data key="weight">0.003380616893991828</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="24" target="73">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="24" target="79">
+  <data key="weight">0.008164966478943825</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="24" target="80">
+  <data key="weight">0.003380616893991828</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="24" target="82">
+  <data key="weight">0.31448546051979065</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="24" target="86">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="24" target="87">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="24" target="104">
+  <data key="weight">0.23904572427272797</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="25" target="45">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="25" target="48">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="25" target="62">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="25" target="84">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="25" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="25" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="26" target="37">
+  <data key="weight">0.0015811388147994876</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="26" target="50">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="26" target="56">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="26" target="75">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="26" target="76">
+  <data key="weight">0.0019802949391305447</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="26" target="81">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="26" target="82">
+  <data key="weight">0.004444444552063942</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="26" target="87">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="26" target="97">
+  <data key="weight">0.002425356302410364</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="26" target="98">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="26" target="100">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="26" target="104">
+  <data key="weight">0.5</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="26" target="105">
+  <data key="weight">0.006708204280585051</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="26" target="114">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="27" target="35">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="27" target="58">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="27" target="99">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="28" target="53">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="28" target="64">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="28" target="66">
+  <data key="weight">0.3872983455657959</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="28" target="73">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="28" target="74">
+  <data key="weight">0.32732683420181274</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="28" target="79">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="28" target="86">
+  <data key="weight">0.4364357888698578</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="29" target="64">
+  <data key="weight">0.5698028802871704</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="29" target="74">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="29" target="75">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="29" target="86">
+  <data key="weight">0.3571428656578064</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="29" target="100">
+  <data key="weight">0.34188172221183777</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="29" target="109">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="30" target="86">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">12</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="31" target="82">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="32" target="53">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="32" target="54">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="32" target="82">
+  <data key="weight">0.25</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="33" target="71">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="33" target="76">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="33" target="97">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="34" target="86">
+  <data key="weight">0.3253956735134125</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="35" target="58">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="35" target="99">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="36" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="36" target="108">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="37" target="38">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="37" target="54">
+  <data key="weight">0.18257418274879456</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="37" target="65">
+  <data key="weight">0.15811388194561005</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="37" target="70">
+  <data key="weight">0.008164966478943825</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="37" target="73">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="37" target="86">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="37" target="91">
+  <data key="weight">0.0027216554153710604</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="37" target="112">
+  <data key="weight">0.13363061845302582</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="38" target="50">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="38" target="53">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="38" target="83">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="38" target="86">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="39" target="46">
+  <data key="weight">0.5</data>
+  <data key="slice">12</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="39" target="50">
+  <data key="weight">0.5</data>
+  <data key="slice">12</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="40" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="40" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="41" target="54">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="41" target="75">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="41" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="41" target="86">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="41" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="42" target="64">
+  <data key="weight">0.5241424441337585</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="42" target="65">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="42" target="67">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="42" target="83">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="42" target="99">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="42" target="107">
+  <data key="weight">0.4285714328289032</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="42" target="111">
+  <data key="weight">0.32732683420181274</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="43" target="55">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="43" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="43" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="43" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="45" target="62">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="45" target="84">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="45" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="45" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="46" target="50">
+  <data key="weight">0.5</data>
+  <data key="slice">12</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="47" target="87">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="47" target="88">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="47" target="98">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="48" target="53">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="48" target="62">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="48" target="82">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="48" target="84">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="48" target="91">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="49" target="71">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="49" target="77">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="49" target="97">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="49" target="101">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="49" target="105">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="49" target="117">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="49" target="120">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="50" target="53">
+  <data key="weight">0.6761233806610107</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="50" target="54">
+  <data key="weight">0.005345224868506193</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="50" target="60">
+  <data key="weight">0.005345224868506193</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="50" target="61">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="50" target="64">
+  <data key="weight">0.3442651927471161</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="50" target="66">
+  <data key="weight">0.36742347478866577</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="50" target="67">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="50" target="69">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="50" target="71">
+  <data key="weight">0.005345224868506193</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="50" target="73">
+  <data key="weight">0.42008402943611145</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="50" target="74">
+  <data key="weight">0.42479538917541504</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="50" target="75">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="50" target="82">
+  <data key="weight">0.00436435779556632</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="50" target="83">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="50" target="86">
+  <data key="weight">0.5714285969734192</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="50" target="90">
+  <data key="weight">0.43852901458740234</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="50" target="98">
+  <data key="weight">0.0039477101527154446</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="50" target="100">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="50" target="103">
+  <data key="weight">0.005393598694354296</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="50" target="105">
+  <data key="weight">0.0037499999161809683</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="50" target="106">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="50" target="109">
+  <data key="weight">0.43852901458740234</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="50" target="111">
+  <data key="weight">0.004454353824257851</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="50" target="114">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="50" target="116">
+  <data key="weight">0.3674047291278839</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="50" target="117">
+  <data key="weight">0.005345224868506193</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="50" target="118">
+  <data key="weight">0.4198911190032959</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="51" target="53">
+  <data key="weight">0.5547001957893372</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="51" target="102">
+  <data key="weight">0.5</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="52" target="53">
+  <data key="weight">0.3952847123146057</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="52" target="65">
+  <data key="weight">0.5039526224136353</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="52" target="74">
+  <data key="weight">0.42874646186828613</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="52" target="109">
+  <data key="weight">0.4728662371635437</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="52" target="112">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="52" target="116">
+  <data key="weight">0.375</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="53" target="69">
+  <data key="weight">0.46829289197921753</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="53" target="73">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="53" target="74">
+  <data key="weight">0.3704792857170105</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="53" target="82">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="53" target="83">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="53" target="86">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="53" target="99">
+  <data key="weight">0.00632455525919795</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="53" target="102">
+  <data key="weight">0.004160251468420029</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="53" target="109">
+  <data key="weight">0.3458572328090668</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="53" target="113">
+  <data key="weight">0.374634325504303</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="53" target="116">
+  <data key="weight">0.3952847123146057</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="53" target="118">
+  <data key="weight">0.5291502475738525</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="54" target="60">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="54" target="61">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="54" target="64">
+  <data key="weight">0.4193139374256134</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="54" target="69">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="54" target="75">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="54" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="54" target="86">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="54" target="98">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="54" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="54" target="104">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="54" target="106">
+  <data key="weight">0.004472136031836271</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="54" target="110">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="54" target="114">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="55" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="55" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="55" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="56" target="81">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="57" target="63">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="57" target="103">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="58" target="60">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="58" target="79">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="58" target="99">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="58" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="59" target="68">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="59" target="82">
+  <data key="weight">0.3396831154823303</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="59" target="104">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="59" target="106">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="60" target="69">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="60" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="60" target="99">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="60" target="104">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="62" target="84">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="62" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="62" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="63" target="121">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="64" target="65">
+  <data key="weight">0.4622501730918884</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="64" target="79">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="64" target="86">
+  <data key="weight">0.3888888955116272</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="64" target="91">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="64" target="107">
+  <data key="weight">0.5698028802871704</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="64" target="109">
+  <data key="weight">0.5449492335319519</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="64" target="118">
+  <data key="weight">0.5128225684165955</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="65" target="71">
+  <data key="weight">0.003162277629598975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="65" target="76">
+  <data key="weight">0.003162277629598975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="65" target="78">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="65" target="97">
+  <data key="weight">0.003162277629598975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="65" target="109">
+  <data key="weight">0.31980106234550476</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="65" target="111">
+  <data key="weight">0.1666666716337204</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="65" target="112">
+  <data key="weight">0.4444444477558136</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="66" target="74">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="66" target="100">
+  <data key="weight">0.0033541021402925253</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="66" target="109">
+  <data key="weight">0.5368754863739014</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="66" target="118">
+  <data key="weight">0.3913118839263916</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="67" target="83">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="67" target="99">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="68" target="86">
+  <data key="weight">0.41522741317749023</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="68" target="106">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="72">
+  <data key="weight">0.547722578048706</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="79">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="80">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="83">
+  <data key="weight">0.6172134280204773</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="105">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="69" target="113">
+  <data key="weight">0.5</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="116">
+  <data key="weight">0.36927446722984314</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="69" target="120">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="70" target="71">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="70" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="71" target="76">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="71" target="77">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="71" target="91">
+  <data key="weight">0.527046263217926</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="71" target="97">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="71" target="101">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="71" target="111">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="71" target="117">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="72" target="79">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="72" target="83">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="72" target="113">
+  <data key="weight">0.547722578048706</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="72" target="116">
+  <data key="weight">0.4045199155807495</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="73" target="74">
+  <data key="weight">0.4252658784389496</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="73" target="75">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="73" target="79">
+  <data key="weight">0.3900947570800781</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="73" target="82">
+  <data key="weight">0.004082483239471912</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="73" target="86">
+  <data key="weight">0.48507124185562134</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="73" target="98">
+  <data key="weight">0.004850712604820728</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="73" target="104">
+  <data key="weight">0.0042008403688669205</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="73" target="109">
+  <data key="weight">0.45749571919441223</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="118">
+  <data key="weight">0.3908679783344269</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="74" target="80">
+  <data key="weight">0.2828427255153656</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="74" target="82">
+  <data key="weight">0.26311740279197693</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="74" target="83">
+  <data key="weight">0.35856857895851135</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="74" target="89">
+  <data key="weight">0.5202659964561462</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="74" target="98">
+  <data key="weight">0.41403934359550476</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="74" target="104">
+  <data key="weight">0.24494896829128265</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="74" target="109">
+  <data key="weight">0.5070925354957581</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="74" target="112">
+  <data key="weight">0.42874646186828613</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="74" target="115">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="74" target="118">
+  <data key="weight">0.2860387861728668</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="75" target="86">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="75" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="75" target="105">
+  <data key="weight">0.004472136031836271</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="75" target="110">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="75" target="114">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="76" target="91">
+  <data key="weight">0.0024999999441206455</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="76" target="94">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="76" target="97">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="76" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="76" target="108">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="76" target="111">
+  <data key="weight">0.1666666716337204</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="77" target="97">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="77" target="101">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="77" target="105">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="77" target="117">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="77" target="120">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="78" target="89">
+  <data key="weight">0.4285714328289032</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="78" target="107">
+  <data key="weight">0.4285714328289032</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="79" target="82">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="79" target="83">
+  <data key="weight">0.5070925354957581</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="79" target="99">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="79" target="113">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="80" target="109">
+  <data key="weight">0.5393598675727844</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="80" target="118">
+  <data key="weight">0.4045199155807495</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="81" target="104">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="82" target="86">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="82" target="91">
+  <data key="weight">0.0023570226039737463</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="82" target="104">
+  <data key="weight">0.2864459455013275</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="82" target="111">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="83" target="86">
+  <data key="weight">0.35093119740486145</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="83" target="90">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="83" target="99">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="83" target="100">
+  <data key="weight">0.800000011920929</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="83" target="104">
+  <data key="weight">0.5393598675727844</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="83" target="116">
+  <data key="weight">0.4558423161506653</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="84" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="84" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="85" target="105">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="85" target="120">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="86" target="91">
+  <data key="weight">0.00632455525919795</data>
+  <data key="slice">12</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="86" target="98">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="86" target="100">
+  <data key="weight">0.005345224868506193</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="86" target="109">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="86" target="112">
+  <data key="weight">0.3517632484436035</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="86" target="114">
+  <data key="weight">0.007071067579090595</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="86" target="116">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="86" target="118">
+  <data key="weight">0.39192476868629456</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="87" target="88">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="89" target="112">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="90" target="100">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="90" target="104">
+  <data key="weight">0.4045199155807495</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="90" target="109">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="90" target="116">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="91" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="91" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="91" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="91" target="100">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="91" target="111">
+  <data key="weight">0.0022360680159181356</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="91" target="119">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="92" target="95">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="94" target="100">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="97" target="98">
+  <data key="weight">0.16903084516525269</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="97" target="101">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="97" target="105">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="97" target="117">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="97" target="120">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="98" target="100">
+  <data key="weight">0.0035355337895452976</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="98" target="104">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="98" target="106">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="98" target="109">
+  <data key="weight">0.3757345676422119</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="98" target="111">
+  <data key="weight">0.00288675120100379</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="98" target="112">
+  <data key="weight">0.40089187026023865</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="100" target="104">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="100" target="109">
+  <data key="weight">0.34299716353416443</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="100" target="114">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="100" target="116">
+  <data key="weight">0.006000000052154064</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="100" target="118">
+  <data key="weight">0.5128225684165955</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="101" target="105">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="101" target="117">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="101" target="120">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="102" target="104">
+  <data key="weight">0.45226702094078064</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="103" target="104">
+  <data key="weight">0.13363061845302582</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="104" target="109">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="105" target="120">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="106" target="115">
+  <data key="weight">0.004999999888241291</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="107" target="109">
+  <data key="weight">0.390360027551651</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="107" target="118">
+  <data key="weight">0.48304590582847595</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="108" target="110">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="109" target="112">
+  <data key="weight">0.4170288145542145</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="109" target="115">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="109" target="116">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="109" target="118">
+  <data key="weight">0.4545454680919647</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="110" target="114">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="111" target="121">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="112" target="116">
+  <data key="weight">0.30151134729385376</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="113" target="116">
+  <data key="weight">0.4923659563064575</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+</graph>
+</graphml>

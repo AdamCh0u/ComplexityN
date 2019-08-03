@@ -1,0 +1,398 @@
+
+PT J
+AU Goh, S
+   Lee, K
+   Choi, M
+   Fortin, JY
+AF Goh, Segun
+   Lee, Keumsook
+   Choi, MooYoung
+   Fortin, Jean-Yves
+TI Emergence of Criticality in the Transportation Passenger Flow: Scaling
+   and Renormalization in the Seoul Bus System
+SO PLOS ONE
+LA English
+DT Article
+ID SELF-ORGANIZED CRITICALITY; COMPLEX NETWORKS; HUMAN MOBILITY; POWER
+   LAWS; MODEL; PATTERNS
+AB Social systems have recently attracted much attention, with attempts to understand social behavior with the aid of statistical mechanics applied to complex systems. Collective properties of such systems emerge from couplings between components, for example, individual persons, transportation nodes such as airports or subway stations, and administrative districts. Among various collective properties, criticality is known as a characteristic property of a complex system, which helps the systems to respond flexibly to external perturbations. This work considers the criticality of the urban transportation system entailed in the massive smart card data on the Seoul transportation network. Analyzing the passenger flow on the Seoul bus system during one week, we find explicit power-law correlations in the system, that is, power-law behavior of the strength correlation function of bus stops and verify scale invariance of the strength fluctuations. Such criticality is probed by means of the scaling and renormalization analysis of the modified gravity model applied to the system. Here a group of nearby (bare) bus stops are transformed into a (renormalized) "block stop'' and the scaling relations of the network density turn out to be closely related to the fractal dimensions of the system, revealing the underlying structure. Specifically, the resulting renormalized values of the gravity exponent and of the Hill coefficient give a good description of the Seoul bus system: The former measures the characteristic dimensionality of the network whereas the latter reflects the coupling between distinct transportation modes. It is thus demonstrated that such ideas of physics as scaling and renormalization can be applied successfully to social phenomena exemplified by the passenger flow.
+C1 [Goh, Segun; Choi, MooYoung] Seoul Natl Univ, Dept Phys & Astron, Seoul, South Korea.
+   [Goh, Segun; Choi, MooYoung] Seoul Natl Univ, Ctr Theoret Phys, Seoul, South Korea.
+   [Lee, Keumsook] Sungshin Womens Univ, Dept Geog, Seoul, South Korea.
+   [Fortin, Jean-Yves] CNRS, Inst Jean Lamour, Dept Phys Matiere & Mat, UMR 7198, Vandoeuvre Les Nancy, France.
+RP Lee, K (reprint author), Sungshin Womens Univ, Dept Geog, Seoul, South Korea.
+EM kslee@sungshin.ac.kr; mychoi@snu.ac.kr
+OI Choi, MooYoung/0000-0001-8070-7716
+FU National Research Foundation of Korea [NRF-2013017764/1,
+   2012R1A2A4A01004419, 2011-0012331]
+FX This work was supported by the National Research Foundation of Korea
+   (Grant Nos. NRF-2013017764/1, 2012R1A2A4A01004419, and 2011-0012331).
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR BAK P, 1987, PHYS REV LETT, V59, P381, DOI 10.1103/PhysRevLett.59.381
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M, 1999, DISCRETE DYN NAT SOC, V3, P109, DOI 10.1155/S1026022699000151
+   BINDER K, 1981, Z PHYS B CON MAT, V43, P119, DOI 10.1007/BF01293604
+   Blagus N, 2012, PHYSICA A, V391, P2794, DOI 10.1016/j.physa.2011.12.055
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Chen YG, 2008, CHAOS SOLITON FRACT, V35, P85, DOI 10.1016/j.chaos.2006.05.018
+   Daqing L., 2011, NAT PHYS, V7, P481, DOI DOI 10.1038/NPHYS1932
+   Fraiman D, 2012, FRONT PHYSIOL, V3, DOI 10.3389/fphys.2012.00307
+   Goh S, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.026102
+   Goldenfeld N., 1992, LECT PHASE TRANSITIO
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   GRASSBERGER P, 1983, PHYSICA D, V9, P189, DOI 10.1016/0167-2789(83)90298-1
+   Guimera R, 2004, EUR PHYS J B, V38, P381, DOI 10.1140/epjb/e2004-00131-0
+   Haimovici A, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.178101
+   Jung WS, 2008, EPL-EUROPHYS LETT, V81, DOI 10.1209/0295-5075/81/48005
+   Kardar M., 2007, STAT PHYS FIELDS
+   Kim BJ, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.168701
+   Kitzbichler MG, 2009, PLOS COMPUT BIOL, V5, DOI 10.1371/journal.pcbi.1000314
+   Lee K, 2008, PHYSICA A, V387, P6231, DOI 10.1016/j.physa.2008.06.035
+   Lee K, 2011, J PHYS A-MATH THEOR, V44, DOI 10.1088/1751-8113/44/11/115007
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   MA SK, 1976, PHYS REV LETT, V37, P461, DOI 10.1103/PhysRevLett.37.461
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Newman MEJ, 1999, PHYS LETT A, V263, P341, DOI 10.1016/S0375-9601(99)00757-4
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Official web site for the Seoul traffic system, 2013, TRANSP MOD SHAR
+   Ohira T, 1998, PHYS REV E, V58, P193, DOI 10.1103/PhysRevE.58.193
+   Petri G, 2013, SCI REP-UK, V3, DOI 10.1038/srep01798
+   Radicchi F, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.148701
+   Rhee I, 2011, IEEE ACM T NETWORK, V19, P630, DOI 10.1109/TNET.2011.2120618
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Shen Y, 2003, CLIN NEUROPHYSIOL, V114, P199, DOI 10.1016/S1388-2457(02)00338-3
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Solow AR, 2005, ECOL LETT, V8, P361, DOI 10.1111/j.1461-0248.2005.00738.x
+   Song CM, 2005, NATURE, V433, P392, DOI 10.1038/nature03248
+   SWENDSEN RH, 1979, PHYS REV LETT, V42, P859, DOI 10.1103/PhysRevLett.42.859
+   Truscott J, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002699
+   Viboud C, 2006, SCIENCE, V312, P447, DOI 10.1126/science.1125237
+NR 41
+TC 7
+Z9 7
+U1 1
+U2 44
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 5
+PY 2014
+VL 9
+IS 3
+AR e89980
+DI 10.1371/journal.pone.0089980
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AC4GP
+UT WOS:000332479400037
+PM 24599221
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Megiddo, I
+   Colson, AR
+   Nandi, A
+   Chatterjee, S
+   Prinja, S
+   Khera, A
+   Laxminarayan, R
+AF Megiddo, Itamar
+   Colson, Abigail R.
+   Nandi, Arindam
+   Chatterjee, Susmita
+   Prinja, Shankar
+   Khera, Ajay
+   Laxminarayan, Ramanan
+TI Analysis of the Universal Immunization Programme and introduction of a
+   rotavirus vaccine in India with IndiaSim
+SO VACCINE
+LA English
+DT Article
+ID COST-EFFECTIVENESS; MEASLES; IMPACT; MORTALITY; COUNTRIES; PERTUSSIS;
+   CHILDREN; DIARRHEA; BURDEN; MODEL
+AB Background and objectives: India has the highest under-five death toll globally, approximately 20% of which is attributed to vaccine-preventable diseases. India's Universal Immunization Programme (UIP) is working both to increase immunization coverage and to introduce new vaccines. Here, we analyze the disease and financial burden alleviated across India's population (by wealth quintile, rural or urban area, and state) through increasing vaccination rates and introducing a rotavirus vaccine.
+   Methods: We use IndiaSim, a simulated agent-based model (ABM) of the Indian population (including socio-economic characteristics and immunization status) and the health system to model three interventions. In the first intervention, a rotavirus vaccine is introduced at the current DPT3 immunization coverage level in India. In the second intervention, coverage of three doses of rotavirus and DPT and one dose of the measles vaccine are increased to 90% randomly across the population. In the third, we evaluate an increase in immunization coverage to 90% through targeted increases in rural and urban regions (across all states) that are below that level at baseline. For each intervention, we evaluate the disease and financial burden alleviated, costs incurred, and the cost per disability-adjusted life-year (DALY) averted.
+   Results: Baseline immunization coverage is low and has a large variance across population segments and regions. Targeting specific regions can approximately equate the rural and urban immunization rates. Introducing a rotavirus vaccine at the current DPT3 level (intervention one) averts 34.7 (95% uncertainty range [UR], 31.7-37.7) deaths and $215,569 (95% UR, $207,846-$223,292) out-of-pocket (OOP) expenditure per 100,000 under-five children. Increasing all immunization rates to 90% (intervention two) averts an additional 22.1 (95% UR, 18.6-25.7) deaths and $45,914 (95% UR, $37,909-$53,920) 00P expenditure. Scaling up immunization by targeting regions with low coverage (intervention three) averts a slightly higher number of deaths and 00P expenditure. The reduced burden of rotavirus diarrhea is the primary driver of the estimated health and economic benefits in all intervention scenarios. All three interventions are cost saving.
+   Conclusion: Improving immunization coverage and the introduction of a rotavirus vaccine significantly alleviates disease and financial burden in Indian households. Population subgroups or regions with low existing immunization coverage benefit the most from the intervention. Increasing coverage by targeting those subgroups alleviates the burden more than simply increasing coverage in the population at large. (C) 2014 Published by Elsevier Ltd.
+C1 [Megiddo, Itamar; Colson, Abigail R.; Nandi, Arindam; Laxminarayan, Ramanan] Ctr Dis Dynam Econ & Policy, Washington, DC 20036 USA.
+   [Colson, Abigail R.; Laxminarayan, Ramanan] Princeton Univ, Princeton Environm Inst, Princeton, NJ 08544 USA.
+   [Chatterjee, Susmita; Laxminarayan, Ramanan] Publ Hlth Fdn India, New Delhi, India.
+   [Prinja, Shankar] Postgrad Inst Med Educ & Res, Sch Publ Hlth, Chandigarh 160012, India.
+   [Khera, Ajay] Govt India, Ministor Hlth & Family Welf, New Delhi, India.
+RP Laxminarayan, R (reprint author), Ctr Dis Dynam Econ & Policy, Washington, DC 20036 USA.
+EM ramanan@cddep.org
+RI Megiddo, Itamar/N-9839-2015; Colson, Abigail/H-6441-2017
+OI Megiddo, Itamar/0000-0001-8391-6660; Colson,
+   Abigail/0000-0002-3241-5855; Nandi, Arindam/0000-0002-3967-2424
+FU Bill and Melinda Gates Foundation through the Disease Control Priorities
+   project at the University of Washington [720165]; Grand Challenges
+   Canada through the Saving Brains project; Johns Hopkins University
+   [2002067649]
+FX Funding: This work was funded by the Bill and Melinda Gates Foundation
+   through the Disease Control Priorities project at the University of
+   Washington (grant no. 720165), Grand Challenges Canada through the
+   Saving Brains project, and Johns Hopkins University (purchase order no.
+   2002067649) through the cost-effectiveness of rotavirus vaccination in
+   India grant. The funders had no role in study design, writing the
+   report, the decision to submit, or data collection, analysis, and
+   interpretation.
+CR [Anonymous], 2014, COUNTR INTR MAPS LIS
+   [Anonymous], 2013, WHO LIF EXP LIF TABL
+   Awofeso N, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-358
+   Banerjee AV, 2010, BMJ-BRIT MED J, V340, DOI 10.1136/bmj.c2220
+   Bhandari N, 2014, LANCET, V6736, P1
+   Bitragunta S, 2008, EMERG INFECT DIS, V14, P1144, DOI 10.3201/eid1407.071167
+   Constenla D, 2014, ESTIMATING EC IMPACT
+   Crowcroft NS, 2003, LANCET INFECT DIS, V3, P413, DOI 10.1016/S1473-3099(03)00669-8
+   Esposito DH, 2011, CLIN INFECT DIS, V52, P171, DOI 10.1093/cid/ciq094
+   Global Burden of Disease Study, 2010, GLOBAL BURDEN DIS ST
+   Gupta SK, 2012, INDIAN PEDIATR, V49, P707, DOI 10.1007/s13312-012-0151-0
+   Hamborsky J, 2012, EPIDEMIOLOGY PREVENT
+   Heininger U, 1998, PEDIATRICS, V102, P546, DOI 10.1542/peds.102.3.546
+   IIPS, 2010, DISTR LEV HOUS FAC S
+   Laxminarayan R, 2011, HEALTH AFFAIR, V30, P1096, DOI 10.1377/hlthaff.2011.0405
+   Liu L, 2012, LANCET, V6736, P1, DOI DOI 10.1016/S0140-6736(12)60560-1
+   Madhi SA, 2014, LANCET, V6736, P12
+   Megiddo I, 2014, ESTIMATING HLT UNPUB
+   Modi B, 2013, NATL J MED RES, V3, P104
+   Morris SK, 2012, B WORLD HEALTH ORGAN, V90, P720, DOI 10.2471/BLT.12.101873
+   National Sample Survey Organisation, 2004, NAT SAMPL SURV 2004
+   Patel AR, 2010, VACCINE, V28, P604, DOI 10.1016/j.vaccine.2009.10.108
+   Patel J C, 1999, Indian J Med Sci, V53, P393
+   Pramanik S, 2014, SMALL AREA EST UNPUB
+   Press Information Bureau, 2013, STAT PER CAP INC GRO
+   Prinja S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0091781
+   Rheingans R, 2012, VACCINE, V30, pA15, DOI 10.1016/j.vaccine.2012.01.018
+   Rose J, 2009, BMJ-BRIT MED J, V339, DOI 10.1136/bmj.b3653
+   Simons E, 2012, LANCET, V379, P2173, DOI 10.1016/S0140-6736(12)60522-4
+   Streefland PH, 1999, B WORLD HEALTH ORGAN, V77, P722
+   Sudfeld CR, 2010, INT J EPIDEMIOL, V39, P48, DOI 10.1093/ije/dyq021
+   Swaminathan Soumya, 2004, Indian J Pediatr, V71, P1083, DOI 10.1007/BF02829819
+   Tate JE, 2009, VACCINE, V27, pF18, DOI 10.1016/j.vaccine.2009.08.098
+   United Nations Children's Fund, 2009, COV EV SURV
+   Verguet S, 2013, VACCINE, V31, P4902, DOI 10.1016/j.vaccine.2013.07.014
+   Walker CLF, 2012, BMC PUBLIC HEALTH, V12, DOI 10.1186/1471-2458-12-220
+   WHO and UNICEF, 2012, COUNTD 2015 MAT NEWB
+   World Health Organization, 2006, WKLY EPIDEMIOL REC, V81, P24
+   World Health Organization, 2000, M FUT DIR ROT VACC R
+   [World Health Organization UNICEF World Bank], 2009, STAT WORLDS VACC IMM
+   World Health Organization, 2014, WHO EST DIS BURD COS
+   World Health Organization, 2013, WHO VACC PREV DIS MO
+   World Health Organization. United Nations Children's Fund, 2005, GEN GLOB IMM VIS STR
+   World Health Organization (WHO), 2003, WHO GUID COST EFF AN
+NR 44
+TC 20
+Z9 20
+U1 1
+U2 12
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-410X
+EI 1873-2518
+J9 VACCINE
+JI Vaccine
+PD AUG 11
+PY 2014
+VL 32
+SU 1
+BP A151
+EP A161
+DI 10.1016/j.vaccine.2014.04.080
+PG 11
+WC Immunology; Medicine, Research & Experimental
+SC Immunology; Research & Experimental Medicine
+GA AO0CU
+UT WOS:000340977500028
+PM 25091670
+OA Green Published, Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Huang, J
+   Connors, RD
+   Maher, MJ
+AF Huang, Jie
+   Connors, Richard D.
+   Maher, Mike J.
+TI Modeling Network Growth with Scaling Laws in a Linear Monocentric City
+SO TRANSPORTATION RESEARCH RECORD
+LA English
+DT Article
+ID URBAN ROAD NETWORKS; LAND-USE; EQUILIBRIUM; CONGESTION; CHOICE; CITIES
+AB Scaling relationships have been observed across urban systems and appear to reveal global emergent properties that may help to characterize, understand, and predict urban growth. Empirical urban studies that show scaling laws relating the growth in population to that of the transportation network warrant theoretical investigation. Such scaling phenomena are considered in the context of a linear monocentric city. Commuters are distributed from the city boundary to the common destination (the central business district), and two modes (railway and car) are available along the corridor. Two scenarios of urban growth are considered: vertical and horizontal. Road capacity and corridor length both increase alongside the population growth. Within these scenarios, growth is constrained to follow a scaling law and the evolution of network performance is examined. The results suggest that different long-term evolution trajectories may exist depending on the scaling-law and network features. On this basis, theoretical limits need to be investigated on the possible evolutionary pathways for a city whose growth is dependent on its transport system.
+C1 [Huang, Jie; Connors, Richard D.; Maher, Mike J.] Univ Leeds, Inst Transport Studies, Leeds LS2 9JT, W Yorkshire, England.
+RP Huang, J (reprint author), Univ Leeds, Inst Transport Studies, 34-40 Univ Rd, Leeds LS2 9JT, W Yorkshire, England.
+EM tsjh@leeds.ac.uk
+CR Arnott R, 2011, TRANSPORT RES B-METH, V45, P743, DOI 10.1016/j.trb.2011.01.004
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Geroliminis N, 2008, TRANSPORT RES B-METH, V42, P759, DOI 10.1016/j.trb.2008.02.002
+   Glaeser EL, 1998, J ECON PERSPECT, V12, P139, DOI 10.1257/jep.12.2.139
+   Gubins S, 2014, J URBAN ECON, V80, P51, DOI 10.1016/j.jue.2013.09.001
+   Ho HW, 2006, J TRANSPORTATION SYS, V6, P53
+   JEHIEL P, 1993, TRANSPORT SCI, V27, P16, DOI 10.1287/trsc.27.1.16
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levinson D, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029721
+   Li ZC, 2012, TRANSPORT RES B-METH, V46, P30, DOI 10.1016/j.trb.2011.08.002
+   Liu TL, 2009, TRANSPORT RES B-METH, V43, P692, DOI 10.1016/j.trb.2009.01.001
+   TAGUCHI A, 1982, MATH PROGRAM STUD, V20, P178
+   Tong CO, 1997, TRANSPORTATION, V24, P295, DOI 10.1023/A:1004987422746
+   Tsekeris T, 2013, J URBAN ECON, V76, P1, DOI 10.1016/j.jue.2013.01.002
+   Verhoef ET, 2005, J URBAN ECON, V58, P367, DOI 10.1016/j.jue.2005.06.003
+   Wang JYT, 2004, TRANSPORT RES B-METH, V38, P709, DOI 10.1016/j.trb.2003.10.002
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 4
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0361-1981
+EI 2169-4052
+J9 TRANSPORT RES REC
+JI Transp. Res. Record
+PY 2014
+IS 2466
+BP 134
+EP 143
+DI 10.3141/2466-15
+PG 10
+WC Engineering, Civil; Transportation; Transportation Science & Technology
+SC Engineering; Transportation
+GA CE8TZ
+UT WOS:000352118300016
+DA 2019-03-26
+ER
+
+PT J
+AU Sun, RY
+AF Sun, Ruoyan
+TI Migration-driven aggregation behaviors in job markets with direct
+   foreign immigration
+SO PHYSICS LETTERS A
+LA English
+DT Article
+DE Job market; Modelling; Migration; Aggregation behavior; Scaling law
+ID STEADY-STATE; KINETICS; GROWTH; POPULATION; MODELS
+AB This Letter introduces a new set of rate equations describing migration-driven aggregation behaviors in job markets with direct foreign immigration. We divide the job market into two groups: native and immigrant. A reversible migration of jobs exists in both groups. The interaction between two groups creates a birth and death rate for the native job market. We find out that regardless of initial conditions or the rates, the total number of cities with either job markets decreases. This indicates a more concentrated job markets for both groups in the future. On the other hand, jobs available for immigrants increase over time but the ones for natives are uncertain. The native job markets can either expand or shrink or remain constant due to combined effects of birth and death rates. Finally, we test our analytical results with the population data of all counties in the US from 2000 to 2011. (C) 2014 Elsevier B.V. All rights reserved.
+C1 Univ Michigan, Sch Publ Hlth, Ann Arbor, MI 48109 USA.
+RP Sun, RY (reprint author), Univ Michigan, Sch Publ Hlth, Ann Arbor, MI 48109 USA.
+CR Baker RE, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.041905
+   Ben-Naim E, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.031104
+   Bossis G, 2013, PHYSICA A, V392, P1567, DOI 10.1016/j.physa.2012.11.029
+   Boyer GR, 1997, ECON HIST REV, V50, P697, DOI 10.1111/1468-0289.00075
+   Bramoulle Y, 2010, LABOUR ECON, V17, P188, DOI 10.1016/j.labeco.2009.09.011
+   Burger M, 2007, NONLINEAR ANAL-REAL, V8, P939, DOI 10.1016/j.nonrwa.2006.04.002
+   Colato A, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.011901
+   Daitoh I, 2010, J ECON DYN CONTROL, V34, P696, DOI 10.1016/j.jedc.2009.11.004
+   Fujishima S, 2013, J ECON DYN CONTROL, V37, P1168, DOI 10.1016/j.jedc.2013.02.001
+   Gordienko YG, 2014, PHYSICA A, V412, P1, DOI 10.1016/j.physa.2014.06.028
+   Gordienko YG, 2012, INT J MOD PHYS B, V26, DOI 10.1142/S0217979212500105
+   Hoze N, 2014, PHYS LETT A, V378, P531, DOI 10.1016/j.physleta.2013.12.019
+   Ispolatov S, 1998, EUR PHYS J B, V2, P267, DOI 10.1007/s100510050249
+   Ke JH, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.050102
+   Kwon S, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.031132
+   Leyvraz F, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.068301
+   Leyvraz F, 2003, PHYS REP, V383, P95, DOI 10.1016/S0370-1573(03)00241-2
+   Lin ZQ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.031103
+   Lin ZQ, 2005, COMMUN THEOR PHYS, V43, P837
+   Mandelman FS, 2012, J MONETARY ECON, V59, P196, DOI 10.1016/j.jmoneco.2012.01.004
+   Peri G, 2011, J INT ECON, V84, P1, DOI 10.1016/j.jinteco.2011.02.002
+   Sun RY, 2013, ECON MODEL, V30, P36, DOI 10.1016/j.econmod.2012.08.013
+   Sun RY, 2011, APPL MATH COMPUT, V218, P280, DOI 10.1016/j.amc.2011.05.056
+   Tabata M, 2009, NONLINEAR ANAL-REAL, V10, P639, DOI 10.1016/j.nonrwa.2007.10.020
+   Wang HF, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.046108
+   Xu L, 2007, MATH POPUL STUD, V14, P193, DOI 10.1080/08898480701426258
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+EI 1873-2429
+J9 PHYS LETT A
+JI Phys. Lett. A
+PD SEP 5
+PY 2014
+VL 378
+IS 43
+BP 3177
+EP 3181
+DI 10.1016/j.physleta.2014.09.010
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA AS3YX
+UT WOS:000344212000006
+DA 2019-03-26
+ER
+
+PT S
+AU Chatzigavriil, A
+   Roger, K
+   Kumar, S
+AF Chatzigavriil, Athina
+   Roger, Kris
+   Kumar, Sunil
+BE Orngreen, R
+   Levinsen, KT
+TI Learning Pedagogies and On-Line Assessments in Higher Education:
+   Innovations and Challenges
+SO PROCEEDINGS OF THE 13TH EUROPEAN CONFERENCE ON E-LEARNING (ECEL 2014)
+SE Proceedings on the European Conference of e-Learning
+LA English
+DT Proceedings Paper
+CT 13th European Conference on e-Learning (ECEL)
+CY OCT 30-31, 2014
+CL Aalborg Univ, Copenhagen, DENMARK
+HO Aalborg Univ
+DE learning pedagogy; online assessment; qualitative outputs; technological
+   challenges and scaling-up
+AB The increasing interest in online teaching, learning and assessment is based on the notion that current and future generations of students in higher education are and will be increasingly attuned to digital forms of communication and assessment (Prensky, 2001; Buckingham & Willett 2013). Hard pure disciplines tend to make more use of objective online assessment techniques (such as online quizzes and tests) than soft pure or qualitative disciplines (Smith et al, 2008). Furthermore, online exam assessments tend to be 'output' oriented; they act as final tests aimed at replacing traditional end of course handwritten assessments. In other words, summative exam assessments provide no opportunity for individual and generic feedback. In this context, the key question is: can pedagogies of face-to-face teaching and learning be enhanced by innovative (formative) forms of online exam type assessments? This case study reports on a three-year pilot online formative exam type assessment (2011-12 to 2013-14). The pilot ran in conjunction with a ten week face-to-face course (SA4H7) entitled 'Urbanisation and Social Policy in the Global South' offered by Dr Sunil Kumar in the Department of Social Policy and was supported by the Centre for Learning Technology, London School of Economics and Political Science. The case study critically reflects on how the incorporation of a formative online essay based exam assessment has enhanced the pedagogy of face-to-face learning offered by the course. The case study, in four sections, begins with a discussion of the pedagogies of teaching and learning and the role that online formative exam type assessments play in its enhancement. Second, it critically discusses the opportunities and challenges of designing and running online assessments. Ranging from the choice of platform to the anonymous extraction of student responses, a number of practical, technical and logistical issues had to be assessed and dealt with. These are discussed all along with the solutions provided before and after the assessment process. Third, it reports user perspectives by drawing on focus group discussions held in each of the three years. Despite being a small scale pilot, a wealth of information emerged. These ranged from practical issues such as technical requirements (e.g. spellcheck, keyboard noise management etc.) and accountability in using students own devices (BYOD), to more substantial online assessment information (e.g. changes in cognitive processes/approaches in answering questions when typed in compared to handwritten exams and stress/nerves leading up to online exam). Fourth and finally, the case study reflects on the key opportunities and challenges in integrating the pedagogies of face-to-face teaching and learning with online exam types of assessment that incorporate both individual and generic feedback. The discussion will cover the limitations of the pilot as well as key issues in scaling up online assessments at the LSE. Some of the lessons learned may be of value to others in higher education with an interest in similar assessment formats.
+C1 [Chatzigavriil, Athina; Roger, Kris; Kumar, Sunil] Univ London London Sch Econ & Polit Sci, London WC2A 2AE, England.
+RP Chatzigavriil, A (reprint author), Univ London London Sch Econ & Polit Sci, Houghton St, London WC2A 2AE, England.
+EM a.chatzigavriil@lse.ac.uk
+CR [Anonymous], 2013, ICE BOOKL
+   Buckingham David, 2013, DIGITAL GENERATIONS
+   Hartley J., 2001, NEW TECHNOLOGY WRITI
+   Mogey N, 2008, J COMPUT ASSIST LEAR, V24, P39, DOI [10.1111/j.1365-2729.2007.00243.x, 10.1111/J.1365-2729.2007.00243.X]
+   Mogey N., 2010, RES LEARNING TECHNOL, V18, P29
+   Prensky M., 2001, HORIZON, V9, P1, DOI DOI 10.1108/10748120110424816
+   Smith, 2008, INTERNET HIGH EDUC, V11, P152, DOI DOI 10.1016/J.IHEDUC.2008.06.008
+   The Integrate Project, 2010, INT PROJ TECHN ENH S, P21
+NR 8
+TC 0
+Z9 0
+U1 1
+U2 6
+PU ACAD  CONFERENCES LTD
+PI NR READING
+PA CURTIS FARM, KIDMORE END, NR READING, RG4 9AY, ENGLAND
+SN 2048-8637
+BN 978-1-910309-69-8
+J9 PROC EUR CONF ELEARN
+PY 2014
+BP 139
+EP 146
+PG 8
+WC Education & Educational Research
+SC Education & Educational Research
+GA BC2XL
+UT WOS:000351434400018
+DA 2019-03-26
+ER

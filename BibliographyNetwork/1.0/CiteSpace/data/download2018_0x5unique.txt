@@ -1,0 +1,614 @@
+
+PT J
+AU Fang, Y
+   Ceola, S
+   Paik, K
+   McGrath, G
+   Rao, PSC
+   Montanari, A
+   Jawitz, JW
+AF Fang, Yu
+   Ceola, Serena
+   Paik, Kyungrock
+   McGrath, Gavan
+   Rao, P. Suresh C.
+   Montanari, Alberto
+   Jawitz, James W.
+TI Globally Universal Fractal Pattern of Human Settlements in River
+   Networks
+SO EARTHS FUTURE
+DE river basins; cities; power law
+ID STREAM ORDER; COASTAL ZONES; CLIMATE; CITIES; WATER; GEOMORPHOLOGY;
+   URBANIZATION; BIODIVERSITY; ECOSYSTEMS; HYDROLOGY
+AB River networks play a key role in the spatial organization of human settlements. Both river networks and human settlements have been found to exhibit regular self-similar patterns, but little is known about the generalized spatial patterns of human settlements embedded within river networks. Here based on night light data, we find a universal fractal structure at the global scale, with both robust Hortonian scaling relationships with the extent of human settlements and statistically significant power law scaling of the power spectra of human area functions. Globally, we find consistent patterns of power law preferential downstream clustering of human settlements across all six populated continents, typically up to 40% of the maximum flow length. This downstream clustering suggests an optimum distribution of humans in large river basins for trade, transport, and natural resource utilization but with attendant implications for human impacts on rivers. Recognition of such spatial patterns helps generalize assessments of human impacts on rivers, with direct implications for management of water quality and biological diversity in river networks.
+RI Montanari, Alberto/B-5427-2009; Paik, Kyungrock/A-4844-2011
+OI Montanari, Alberto/0000-0001-7428-0410; Paik,
+   Kyungrock/0000-0002-4311-3510; McGrath, Gavan/0000-0002-5020-3813
+CR BEECHER HA, 1988, ENVIRON BIOL FISH, V22, P193, DOI 10.1007/BF00005381
+   BERRY BJL, 1961, ECON DEV CULT CHANGE, V9, P573, DOI 10.1086/449923
+   Bertuzzo E, 2007, WATER RESOUR RES, V43, DOI 10.1029/2006WR005533
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Campos D, 2006, THEOR POPUL BIOL, V69, P88, DOI 10.1016/j.tpb.2005.09.001
+   Carrara F, 2012, P NATL ACAD SCI USA, V109, P5761, DOI 10.1073/pnas.1119651109
+   Ceola S, 2015, WATER RESOUR RES, V51, P7064, DOI 10.1002/2015WR017482
+   Ceola S, 2014, GEOPHYS RES LETT, V41, P7184, DOI 10.1002/2014GL061859
+   Cohen B, 2006, TECHNOL SOC, V28, P63, DOI 10.1016/j.techsoc.2005.10.005
+   CRUNKILTON RL, 1991, HYDROBIOLOGIA, V224, P155, DOI 10.1007/BF00008465
+   Decker EH, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000934
+   Dodds PS, 2000, ANNU REV EARTH PL SC, V28, P571, DOI 10.1146/annurev.earth.28.1.571
+   Dunn WC, 2011, LANDSCAPE ECOL, V26, P983, DOI 10.1007/s10980-011-9622-2
+   Ellis EC, 2008, FRONT ECOL ENVIRON, V6, P439, DOI 10.1890/070062
+   Fang Y, 2018, SCI DATA, V5, DOI 10.1038/sdata.2018.67
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Gao H, 2014, GEOPHYS RES LETT, V41, P7916, DOI 10.1002/2014GL061668
+   Grimm NB, 2008, FRONT ECOL ENVIRON, V6, P264, DOI 10.1890/070147
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Hirabayashi Y, 2013, NAT CLIM CHANGE, V3, P816, DOI [10.1038/NCLIMATE1911, 10.1038/nclimate1911]
+   HORTON RE, 1945, GEOL SOC AM BULL, V56, P275, DOI 10.1130/0016-7606(1945)56[275:EDOSAT]2.0.CO;2
+   Hutchinson M. F., 2008, GEODATA 9 2 DEM VERS
+   Jarvis A., 2008, EOS T AGU, V89, P93, DOI [DOI 10.1029/2008E0100001, 10.1029/2008EO100001]
+   Kang SJ, 2008, J ENVIRON QUAL, V37, P808, DOI 10.2134/jeq2007.0011
+   KIRCHNER JW, 1993, GEOLOGY, V21, P591, DOI 10.1130/0091-7613(1993)021<0591:SIOHSL>2.3.CO;2
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Kummu M, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020578
+   Leopold L. B., 1953, HYDRAULIC GEOMETRY S, V252
+   MARANI M, 1994, GEOPHYS RES LETT, V21, P2123, DOI 10.1029/94GL01933
+   Miyamoto H, 2011, ENVIRON MANAGE, V47, P885, DOI 10.1007/s00267-011-9653-0
+   Moussa R, 2008, WATER RESOUR RES, V44, DOI 10.1029/2007WR006118
+   Nicholls RJ, 2010, SCIENCE, V328, P1517, DOI 10.1126/science.1185782
+   Peckham SD, 1999, WATER RESOUR RES, V35, P2763, DOI 10.1029/1999WR900154
+   PLATTS WS, 1979, FISHERIES, V4, P5, DOI 10.1577/1548-8446(1979)004<0005:RASOFP>2.0.CO;2
+   RODRIGUEZ-ITURBE I, 1992, GEOPHYS RES LETT, V19, P889, DOI 10.1029/92GL00938
+   Rodriguez-Iturbe I, 2001, FRACTAL RIVER BASINS
+   Schmidt C, 2017, ENVIRON SCI TECHNOL, V51, P12246, DOI 10.1021/acs.est.7b02368
+   Sivapalan M, 2018, HYDROL EARTH SYST SC, V22, P1665, DOI 10.5194/hess-22-1665-2018
+   Sivapalan M, 2012, HYDROL PROCESS, V26, P1270, DOI 10.1002/hyp.8426
+   Small C, 2003, J COASTAL RES, V19, P584
+   Small C, 2004, CURR ANTHROPOL, V45, P269, DOI 10.1086/382255
+   Stein JL, 2014, HYDROL EARTH SYST SC, V18, P1917, DOI 10.5194/hess-18-1917-2014
+   Stenger-Kovacs C, 2014, HYDROBIOLOGIA, V721, P67, DOI 10.1007/s10750-013-1649-8
+   United Nations Environment Programme, 2016, SNAPSH WORLDS WAT QU
+   US Geological Survey, 2010, HYDRO1K EL DER DAT
+   Van Drecht G, 2009, GLOBAL BIOGEOCHEM CY, V23, DOI 10.1029/2009GB003458
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Vorosmarty CJ, 2010, NATURE, V467, P555, DOI 10.1038/nature09440
+NR 50
+TC 0
+Z9 0
+SN 2328-4277
+PD AUG
+PY 2018
+VL 6
+IS 8
+BP 1134
+EP 1145
+DI 10.1029/2017EF000746
+UT WOS:000444074000007
+ER
+
+PT J
+AU Algaze, G
+AF Algaze, Guillermo
+TI Entropic Cities The Paradox of Urbanism in Ancient Mesopotamia
+SO CURRENT ANTHROPOLOGY
+ID ECONOMIC-GROWTH; HITTITE PLAGUE; SETTLEMENT; EVOLUTION; 4TH;
+   CIRCULATION; RETHINKING; TRANSITION; STRATEGIES; EMERGENCE
+AB The growth of cities in antiquity is paradoxical: before modern health and sanitation standards, early urban dwellers suffered high mortality as a result of epidemics and chronic diseases arising, respectively, from propinquity and poor sanitation. At the same time, lower-status individuals within those cities would have endured depressed birth rates because, typically, many toiled in partially or fully dependent occupations not conducive to early marriage or stable families. The interplay between these compounding forces implies that early cities would not have been viable over the long term and could not have grown without a continual flow of immigrants. The early cities of Mesopotamia were no exception. In an earlier publication, I argued that the growth of the first centers that emerged in the alluvial lowlands of the Tigris and Euphrates Rivers during the fourth millennium BC was predicated on migratory inflows that took place, in part, in the context of self-amplifying cycles whereby the replacement of imported commodities with locally made, mass-produced substitutes catalyzed increases in specialization, employment, market size, and trade (Smithian growth). In this article, I expand on these ideas, explore their applicability to later periods of Mesopotamian history, and consider further iterations of substitution-fueled growth cycles in those periods.
+CR Abrahamson Mark, 2005, URBAN ENCLAVES IDENT
+   Acemoglu D, 2012, WHY NATIONS FAIL ORI
+   ADAMS RM, 1978, P AM PHILOS SOC, V122, P329
+   ADAMS RM, 1957, ARCHAEOLOGY, V10, P270
+   Adams Robert M., 1966, LAND BEHIND BAGHDAD
+   Adams Robert M., 2006, J ECON SOC HIST ORIE, V49, P134
+   Al Quntar S., 2011, PALEORIENT, V37.2, P151, DOI DOI 10.3406/PALEO.2011.5428
+   Algaze Guillermo, 1993, URUK WORLD SYSTEM
+   Algaze Guillermo, 2006, STRUCTURE DYNAMICS E, V1, P2
+   Algaze Guillermo, 2008, ANCIENT MESOPOTAMIA
+   Amiet Pierre, 1977, SYRIA, V54, P89, DOI DOI 10.3406/SYRIA.1977.6625
+   Amiet Pierre, 1961, GLYPTIQUE MESOPOTAMI
+   Anastasiou E, 2014, LANCET INFECT DIS, V14, P553, DOI 10.1016/S1473-3099(14)70794-7
+   Archi Alphonso, 1999, HIST EPIGRAPHICAL BI, P45
+   Arnauld M., 2012, NEIGHBORHOOD SOCIAL
+   ARROW KJ, 1962, REV ECON STUD, V29, P155, DOI 10.2307/2295952
+   Arthur Brian, 2009, NATURE TECHNOLOGY
+   Ataman Bekir Kemal, 1992, J ECON SOC HIST ORIE, V35, P187
+   Aurenche Oliver, 1981, MAISON ORIENTALE ARC
+   Bartash V, 2015, Z ASSYRIOL VORDERASI, V105, P131, DOI 10.1515/za-2015-0012
+   Benco N. L., 1992, PALEORIENT, V18, P119
+   Berg M, 2004, PAST PRESENT, P85
+   Bernbeck R., 1999, FLUCHPUNKT URUK ARCH, P296
+   Bet-Shlimon A, 2012, J URBAN HIST, V38, P914, DOI 10.1177/0096144212449143
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Biskowski M, 2017, ARCHAEOL ANTHROP SCI, V9, P29, DOI 10.1007/s12520-016-0421-1
+   Blanton R, 2008, FUND ISSUE ARCHAEOL, P1, DOI 10.1007/978-0-387-73877-2
+   Blanton RE, 2011, WORLD ARCHAEOL, V43, P505, DOI 10.1080/00438243.2011.607722
+   Boehmer Reiner M., 1990, BAGHDADER MITTEILUNG, V21, P49
+   Boehmer Reiner M., 1999, URUK FRUHESTE SIEGEL
+   Brandes Mark A., 1979, SIEGELABROLLUNGEN AR
+   Brereton G, 2016, CAMB ARCHAEOL J, V26, P191, DOI 10.1017/S0959774316000032
+   Bruton HJ, 1998, J ECON LIT, V36, P903
+   Cai YY, 2014, PAC ECON REV, V19, P401, DOI 10.1111/1468-0106.12046
+   Cammett M, 2015, POLITICAL EC MIDDLE
+   Carter E, 1985, IRAQ, V47, P222
+   Cesaretti R, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0162678
+   Chen CB, 2016, CHINA REV, V16, P9
+   Childe V. G., 1950, TOWN PLANN REV, V21, P3, DOI DOI 10.3828/TPR.21.1.K853061T614Q42QH
+   Clark G, 2007, PRINC ECON HIST W WO
+   Cohen Mark Nathan, 1989, HLTH RISE CIVILIZATI
+   Colantoni Carlo, 2017, DAWN HIST ANCIENT NE, P95
+   Coleman M, 1997, TROP MED INT HEALTH, V2, P603, DOI 10.1046/j.1365-3156.1997.d01-329.x
+   Cresswell T, 2006, MOVE MOBILITY MODERN
+   Crosby Alfred, 1993, GERMS SEEDS ANIMALS
+   de Genouillac Henri, 1934, FOUILLES DE TELLOH
+   De Ligt Luuk, 2013, OXFORD HDB CITIES WO, P147
+   Delleur JW, 2003, J HYDRAUL ENG-ASCE, V129, P563, DOI 10.1061/(ASCE)0733-9429(2003)129:8(563)
+   Delougaz P., 1996, CHOGHA MISH
+   Dyson T, 2011, POPUL DEV REV, V37, P34, DOI 10.1111/j.1728-4457.2011.00377.x
+   Emberling G, 2015, CAMBRIDGE WORLD HISTORY, VOL III: EARLY CITIES IN COMPARATIVE PERSPECTIVE, 4000 BCE-1200 CE, P300
+   Emberling G, 2015, CAMBRIDGE WORLD HISTORY, VOL III: EARLY CITIES IN COMPARATIVE PERSPECTIVE, 4000 BCE-1200 CE, P253
+   Emberling Geoff, 1999, MAT SYMBOLS CULTURE, P277
+   Emberling Geoff, 2011, REV G ALGAZE ANCIENT
+   Englund R. K., 2009, CUNEIFORM DIGITAL LI, V2009, P4
+   Englund Robert, 1995, B SUMERIAN AGR, V8, P32
+   Erdkamp P, 2016, EXPLOR ECON HIST, V60, P1, DOI 10.1016/j.eeh.2015.11.004
+   Evans JM, 2007, AM J ARCHAEOL, V111, P599, DOI 10.3764/aja.111.4.599
+   EWALD PW, 1993, SCI AM, V268, P86, DOI 10.1038/scientificamerican0493-86
+   FINLAY R, 1981, PAST PRESENT, P169
+   Fisher K. D., 2014, MAKING ANCIENT CITIE, P1
+   Forbes Robert J., 1957, STUDIES ANCIENT TECH, V5
+   Frangipane M., 2016, ARCHEO NIL, V26, P9
+   Frangipane M., 2017, APPROPRIATING INNOVA
+   Frangipane M., 2007, ARSLANTEPE, V5
+   Frangipane M., 2010, STUDI PREISTORIA ORI, P11
+   Galley Christine, 1998, DEMOGRAPHY EARLY MOD
+   Gelb Ignace J., 1972, REV ASSYRIOLOGIE ARC, V66, P1
+   Gelb Ignace J., 1973, J NEAR E STUDIES, V32-1, P70
+   George Andrew R., 2015, IRAQ, V77, P75
+   George Andrew R., 1992, ORIENTALIA LOVANIENS
+   Gibson McGuire, 1972, CITY AREA KISH
+   Goldstone JA, 2002, J WORLD HIST, V13, P323, DOI 10.1353/jwh.2002.0034
+   Good Irene, 2012, COMPANION ARCHAEOLOG, P336
+   Graunt John, 1662, OBSERVATIONS BILLS M
+   Guest Evan, 1966, FLORA IRAQ, V1
+   Heimpel Wolfgang, 2011, CUSAS, P75
+   Heinrich Ernst, 1936, KLEINFUNDE ARCHAISCH
+   Helwing B, 2009, TUBA-AR-TURK ACAD SC, V12, P209
+   Hinnebusch BJ, 2016, INFECT IMMUN, V84, P1932, DOI 10.1128/IAI.00188-16
+   Hirschman A. O., 1958, STRATEGY EC DEV
+   Hopkins Keith, 2009, DYNAMICS ANCIENT EMP, P178
+   Hritz C, 2010, J FIELD ARCHAEOL, V35, P184, DOI 10.1179/009346910X12707321520477
+   Isin E., 2002, DISTINKTION, V4, P7
+   Jacobs J, 1969, EC CITIES
+   Jacobsen Thorkild, 1978, TREASURES DARKNESS H
+   Janusek John Wayne, 2008, ANCIENT TIWANAKU
+   Jedwab R, 2015, EXPLOR ECON HIST, V58, P1, DOI 10.1016/j.eeh.2015.09.002
+   Johnson G., 1988, ORIGINI, V14, P595
+   Jones E. L., 2000, GROWTH RECURRING EC
+   Jordan Julius, 1932, VORLAUGIGER BERICHT, V3, P1
+   KARPAT KH, 1978, INT J MIDDLE E STUD, V9, P237
+   Kelly M, 1997, Q J ECON, V112, P939, DOI 10.1162/003355397555398
+   Kendall EJ, 2013, AM J PHYS ANTHROPOL, V150, P210, DOI 10.1002/ajpa.22194
+   Kenoyer JM, 2013, J ARCHAEOL SCI, V40, P2286, DOI 10.1016/j.jas.2012.12.040
+   Kenoyer JM, 2003, SCI AM, V289, P66
+   Kilgrove Kristina, 2016, PLOS ONE, V11
+   Kinnier Wilson J. V., 1967, DIS ANTIQUITY, P191
+   Kitikidou K, 2011, CIENC FLOREST, V21, P125, DOI 10.5902/198050982755
+   Koldewey Robert, 1914, EXCAVATIONS BABYLON
+   Kouchoukos Nicholas, 2007, SETTLEMENT SOC ESSAY, P1
+   Krugman P, 1995, DEV GEOGRAPHY EC THE
+   Larsen Mogens Trolle, 1987, CTR PERIPHERY ANCIEN, P47
+   Lawrence D, 2015, ANTIQUITY, V89, P328, DOI 10.15184/aqy.2014.44
+   Leeson Peter T., 2014, ANARCHY UNBOUND WHY
+   LEVEY M, 1958, ISIS, V49, P336, DOI 10.1086/348678
+   Lloyd Seton, 1943, J NEAR E STUDIES, V2, P131
+   Lo Cascio Elio, 2006, URBANISM PREINDUSTRI, P52
+   Mann M, 2008, STUD COMP INT DEV, V43, P355, DOI 10.1007/s12116-008-9027-7
+   Margueron Jean-Claude, 1992, B SUMERIAN ARCHITECT, V6, P79
+   Martin Harriet P., 1983, IRAQ, V45, P24
+   Martin-Serradilla JI, 2008, MED HYPOTHESES, V71, P154, DOI [10.1016/j.mehy.2008.01.019, 10.1016/j.mehy.2008.0.1.019]
+   Massey D, 2005, FOR SPACE
+   McCorriston J, 1997, CURR ANTHROPOL, V38, P517, DOI 10.1086/204643
+   McMahon A, 2015, SANITATION, LATRINES AND INTESTINAL PARASITES IN PAST POPULATIONS, P19
+   McMahon A, 2013, ORIGINI, V35, P83
+   McMahon Augusta, 2013, 100 JAHRE ARCHAOLOGI, P65
+   McNeill William Hardy., 1976, PLAGUES PEOPLES
+   Moorey P. R, 1994, ANCIENT MESOPOTAMIAN
+   Morris I, 2013, MEASURE OF CIVILIZATION: HOW SOCIAL DEVELOPMENT DECIDES THE FATE OF NATIONS, P1
+   Myrdal Gunnar, 1970, CHALLENGE WORLD POVE
+   Neumann Hans, 1987, HANDWERK MESOPOTAMIE
+   Nissen H. J., 1993, ARCHAIC BOOKKEEPING
+   Nissen HJ, 2015, CAMBRIDGE WORLD HISTORY, VOL III: EARLY CITIES IN COMPARATIVE PERSPECTIVE, 4000 BCE-1200 CE, P113
+   Nissen Hans-Jang, 2013, URUK 5000 JAHRE MEGA, P107
+   Nissen Hans-Jorg, 1988, EARLY HIST ANCIENT N
+   Ortman S. G., 2015, 201511044 SFI
+   Ortman SG, 2016, J ARCHAEOL SCI, V73, P94, DOI 10.1016/j.jas.2016.07.012
+   Ortman SG, 2015, SCI ADV, V1, DOI 10.1126/sciadv.1400066
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   Owen David, 2011, CORNELL U STUDIES AS, V6
+   Park R. E., 1925, CITY
+   Parkinson WA, 2013, AM J ARCHAEOL, V117, P413, DOI 10.3764/aja.117.3.0413
+   Persson K. G., 2015, EC HIST EUROPE KNOWL
+   Persson KG, 2008, EUR REV ECON HIST, V12, P165, DOI 10.1017/S1361491608002219
+   Pollock Susan, 2001, URUK MESOPOTAMIA ITS, P191
+   Pollock Susan, 2013, MOBILITAT WISSENSTRA, P83
+   Pollock Susan, 2017, INTERPLAY PEOPLE TEC, P205
+   Porter A., 2012, MOBILE PASTORALISM F
+   Postel-Vinay Gilles, 1994, LABOUR MARKET EVOLUT, P64
+   Postgate N., 1994, CAMB ARCHAEOL J, V4, P47
+   Potts Daniel T., 1997, MESOPOTAMIAN CIVILIZ
+   Powell M. A., 1996, J ECON SOC HIST ORIE, V39, P224
+   Powell Marvin A., 1992, B SUMERIAN AGR, V6, P99
+   Pryor F. L., 2005, EC SYSTEMS FORAGING
+   Pryor F. L., 1977, ORIGINS EC COMP STUD
+   Quezel P, 2000, ECOLOGY, BIOGEOGRAPHY AND MANAGEMENT OF PINUS HALEPENSIS AND P BRUTIA FOREST ECOSYSTEMS IN THE MEDITERRANEAN BASIN, P1
+   Radner K., 2009, STUDIA ORIENTALIA, V106, P221
+   Rashidi Jennifer Susan, 2011, THESIS
+   Rasmussen S, 2015, CELL, V163, P571, DOI 10.1016/j.cell.2015.10.009
+   Sampson R. J., 2012, GREAT AMERICAN CITY
+   Scurlock JoAnn, 2005, DIAGNOSES ASSYRIAN B
+   Seeborg Michael C., 2000, J SOCIO-ECON, V29, P39, DOI DOI 10.1016/S1053-5357(00)00052-4
+   Selz G., 2014, STUDIES EC SOCIAL HI, P239
+   SHARLIN A, 1978, PAST PRESENT, P126
+   Sherratt Andrew, 2000, WORLD SYSTEM HIST SO, P115
+   Sherratt Andrew, 2004, ARCHAEOLOGICAL PERSP, P79
+   Smith A, 1776, WEALTH NATIONS
+   Smith ME, 2010, J ANTHROPOL ARCHAEOL, V29, P137, DOI 10.1016/j.jaa.2010.01.001
+   Smith Michael E., 2017, COMING TOGETHER COMP
+   Sollberger Edmond, 1971, INSCRIPTIONS ROYALES
+   Solow R. M., 1997, LEARNING LEARNING DO
+   Soltysiak Arkadiusz, 2012, ANN I ARCHAEOLOGY U, V10, P91
+   Stark BL, 2016, J ANTHROPOL ARCHAEOL, V41, P263, DOI 10.1016/j.jaa.2016.01.008
+   Stein G., 1994, CHIEFDOMS EARLY STAT, P35
+   Steinkeller Piotr, 2013, REV ASSYRIOLOGIE ARC, V107, P131
+   Steinkeller Piotr, 2017, DAWN HIST ANCIENT NE, P535
+   Steinkeller Piotr, 2015, LABOR ANCIENT WORLD, P1
+   Steinkeller Piotr, 2013, 21 CENTURY BC 21 CEN, P347
+   Steinkeller Piotr, 2007, SETTLEMENT SOC ESSAY, P185
+   Steinkeller Piotr, 1980, ORIENS ANTIQUUS, V19, P79
+   Stol Marten, 2007, DIS IN BABYLONIA, P1
+   Stone EC, 1998, SCIENCE, V280, P2091, DOI 10.1126/science.280.5372.2091
+   Stone Elizabeth C., 2004, ANATOMY MESOPOTAMIAN
+   Stone Elizabeth C., 2017, DAWN HIST ANCIENT NE, P567
+   Storey Glenn R., 2006, URBANISM PREINDUSTRI, P1
+   Tallon Francoise, 1987, METALLURGIE SUSIENNE
+   Tamari S., 2016, CITY TERRITORY ARCHI, V3, P1, DOI [10.1186/s40410-016-0031-3, DOI 10.1186/S40410-016-0031-3]
+   Thornton CP, 2009, J WORLD PREHIST, V22, P301, DOI 10.1007/s10963-009-9019-1
+   Trevisanato SI, 2007, MED HYPOTHESES, V69, P1371, DOI 10.1016/j.mehy.2007.03.012
+   Ur J, 2011, IRAQ, V73, P1
+   Ur J, 2014, CAMB ARCHAEOL J, V24, P249, DOI 10.1017/S095977431400047X
+   Ur JA, 2010, J ARCHAEOL RES, V18, P387, DOI 10.1007/s10814-010-9041-y
+   Ur Jason A., 2014, PRELUDES URBANISM LA, P49
+   Ur Jason A., 2010, URBANISM CULTURAL LA
+   Urry J, 2007, MOBILITIES
+   Van de Mieroop Marc, 1992, BSA, V6, P155
+   van Ess Margarete, 2013, URUK 5000 JAHRE MEGA, P128
+   Vanstiphout Herman L. J., 2003, EPICS SUMERIAN KINGS
+   Waetzoldt Hartmut, 2011, GARSANA STUDIES, P405
+   Waetzoldt Hartmut, 1972, UNTERSUCHUNGEN NEUSU
+   Weil D., 2012, EC GROWTH
+   Wengrow David, 2010, WHAT MAKES CIVILIZAT
+   Wilkinson TJ, 2014, J WORLD PREHIST, V27, P43, DOI 10.1007/s10963-014-9072-2
+   Wilkinson T. J., 2002, AKKADICA, V123, P89
+   Wilkinson T.J., 2003, ARCHAEOLOGICAL LANDS
+   Wilkinson Tony, 2013, MODELS MESOPOTAMIAN, V2013, P34
+   Winter Irene, 2009, ART ANCIENT NEAR E, V2, P291
+   Wolfe ND, 2007, NATURE, V447, P279, DOI 10.1038/nature05775
+   Woods R, 2003, POPUL DEV REV, V29, P29, DOI 10.1111/j.1728-4457.2003.00029.x
+   Wright Henry T., 1975, BRIT I PERSIAN STUDI, V13, P129
+   Wright Henry T., 1981, HEARTLAND CITIES, P295
+   Wright RP, 2016, GENDERED LABOR IN SPECIALIZED ECONOMIES: ARCHAEOLOGICAL PERSPECTIVES ON FEMALE AND MALE WORK, P369, DOI 10.5876/9781607324836.c012
+   Wrigley E. A., 1989, POPULATION HIST ENGL
+   WRIGLEY EA, 1985, J INTERDISCIPL HIST, V15, P683, DOI 10.2307/204276
+   Yener A., 2000, DOMESTICATION METALS
+   Yoffee Norman, 1981, EXPLAINING TRADE ANC
+NR 209
+TC 1
+Z9 1
+SN 0011-3204
+EI 1537-5382
+PD FEB
+PY 2018
+VL 59
+IS 1
+BP 23
+EP 54
+DI 10.1086/695983
+UT WOS:000424209100002
+ER
+
+PT J
+AU Barrera, PP
+   Carreon, JR
+   de Boer, HJ
+AF Barrera, Paola Pulido
+   Carreon, Jesus Rosales
+   de Boer, Hugo J.
+TI A multi-level framework for metabolism in urban energy systems from an
+   ecological perspective
+SO RESOURCES CONSERVATION AND RECYCLING
+DE Urban metabolism; Multilevel organization; Metabolic theory of ecology;
+   Regulation; Urban energy systems
+ID ALLOMETRIC SCALING LAWS; POPULATION-DENSITY; BODY-SIZE; TEMPERATURE;
+   ECOSYSTEMS; BIOLOGY; DESIGN; ORGANISMS; EVOLUTION; POLICIES
+AB Cities have become the main centres of consumption and transformation of resources. As cities are still growing in terms of physical size, number of inhabitants and total energy consumption, unique challenges present themselves in order to safeguard a healthy urban living environment, while preventing resource shortages and pollution. The concept of urban metabolism may contribute to sustainable growth of cities as it can be used to understand emergent patterns in flows of energy and materials in the urban environment. The concept of urban metabolism draws upon an analogy with the biological meaning of metabolism, as it occurs in organisms and ecosystems. Here we present a review of the interpretation of urban metabolism in the context of urban energy dynamics and assess the validity of the proposed analogy with biology. Based on this analogy, we propose a conceptual framework for the role of urban metabolism in urban energy systems. Our review highlights that urban energy systems show a hierarchical organization comparable to ecological systems. However, the emergent patterns that result from the dynamics within urban systems differ from those occurring within ecological systems. We suggest that, in contrast to biological systems, urban energy systems lack energetic constraints at the lowest level of organisation that could enable the resource-efficient regulation of energy requirements at larger scales. The proposed framework highlights that low-level resource supply regulations may contribute to introduce scale-dependent relationships that increase energy use efficiency as cities grow.
+CR Aksoy UT, 2006, BUILD ENVIRON, V41, P1742, DOI 10.1016/j.buildenv.2005.07.011
+   Assimakopoulos MN, 2007, RENEW ENERG, V32, P1805, DOI 10.1016/j.renene.2006.08.003
+   Bar-Yam Y., 2011, CONC EM NECSI
+   Batty M, 2009, ENCY COMPLEXITY SYST, P1041, DOI DOI 10.1007/978-0-387-30440-3_69.
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   Brown JH, 2003, P NATL ACAD SCI USA, V100, P1467, DOI 10.1073/pnas.0630310100
+   Calder W. A., 2001, ENCY LIFE SCI
+   Camaren P., 2012, SUSTAINABLE RESOURCE
+   Carroll SB, 2001, NATURE, V409, P1102, DOI 10.1038/35059227
+   Chapin III F. S., 2011, PRINCIPLES TERRESTRI
+   Cohen J. E, 1991, ECOL INT B, V19, P1
+   Conan M., 2000, ENV LANDSCAPE ARCHIT
+   Creutzig F, 2015, P NATL ACAD SCI USA, V112, P6283, DOI 10.1073/pnas.1315545112
+   DAMUTH J, 1981, NATURE, V290, P699, DOI 10.1038/290699a0
+   DAMUTH J, 1987, BIOL J LINN SOC, V31, P193, DOI 10.1111/j.1095-8312.1987.tb01990.x
+   Decker EH, 2000, ANNU REV ENERG ENV, V25, P685, DOI 10.1146/annurev.energy.25.1.685
+   Dieleman F, 2004, BUILT ENV, V30, P308, DOI DOI 10.2148/BENV.30.4.308.57151
+   Eidlin E., 2010, ACCESS MAG, P1
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Enquist BJ, 2003, NATURE, V423, P639, DOI 10.1038/nature01671
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Gillooly JF, 2001, SCIENCE, V293, P2248, DOI 10.1126/science.1061967
+   Gillooly JF, 2002, NATURE, V417, P70, DOI 10.1038/417070a
+   Gladek E, 2014, CIRCULAR BUIKSLOTERH
+   Golubiewski N, 2012, AMBIO, V41, P751, DOI 10.1007/s13280-011-0232-7
+   Grubler A., 2012, GLOBAL ENERGY ASSESS, P1307, DOI DOI 10.1017/CBO9780511793677.024
+   Gunderson L. H., 2001, PANARCHY UNDERSTANDI
+   Haas R, 2008, ENERG POLICY, V36, P4012, DOI 10.1016/j.enpol.2008.06.028
+   Hong SH, 2009, BUILD ENVIRON, V44, P1228, DOI 10.1016/j.buildenv.2008.09.003
+   Jenny H., 1941, FACTORS SOIL FORMATI
+   Jo JH, 2010, ENERG POLICY, V38, P7951, DOI 10.1016/j.enpol.2010.09.016
+   Jo JH, 2010, BUILD ENVIRON, V45, P453, DOI 10.1016/j.buildenv.2009.07.001
+   Kampf JH, 2007, ENERG BUILDINGS, V39, P445, DOI 10.1016/j.enbuild.2006.09.002
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kennedy C, 2014, ECOL INDIC, V47, P7, DOI 10.1016/j.ecolind.2014.07.039
+   KLEIBER M, 1947, PHYSIOL REV, V27, P511
+   Lane D., 2009, COMPLEXITY PERSPECTI, P197
+   Lane D, 2006, METHODS SER, V3, P81
+   LEOPOLD LB, 1994, P AM PHILOS SOC, V138, P31
+   Levin SA, 1998, ECOSYSTEMS, V1, P431, DOI 10.1007/s100219900037
+   Liu JR, 2005, POPUL ENVIRON, V26, P325, DOI 10.1007/s11111-005-3345-8
+   Meadows D. H., 2008, THINKING SYSTEMS PRI
+   NEWCOMBE K, 1978, AMBIO, V7, P3
+   Odum E. P., 1959, FUNDAMENTALS ECOLOGY
+   PATTEN BC, 1981, AM NAT, V118, P886, DOI 10.1086/283881
+   Peters R. H., 1986, ECOLOGICAL IMPLICATI
+   Pillai IR, 2007, SOL ENERGY, V81, P162, DOI 10.1016/j.solener.2006.04.009
+   Rapoport E., 2011, INTERDISCIPLINARY PE
+   Rutter P, 2012, ENERG POLICY, V50, P72, DOI 10.1016/j.enpol.2012.03.072
+   Savage VM, 2004, FUNCT ECOL, V18, P257, DOI 10.1111/j.0269-8463.2004.00856.x
+   Savage VM, 2004, AM NAT, V163, P429, DOI 10.1086/381872
+   Seto KC, 2009, CURR OPIN ENV SUST, V1, P89, DOI 10.1016/j.cosust.2009.07.012
+   SHARP RP, 1982, P NATL ACAD SCI USA, V79, P4477, DOI 10.1073/pnas.79.14.4477
+   Stenzel T, 2008, ENERG POLICY, V36, P2645, DOI 10.1016/j.enpol.2008.03.007
+   Swilling M., 2012, JUST TRANSITIONS EXP
+   TURNER MG, 1990, LANDSCAPE ECOL, V4, P21, DOI 10.1007/BF02573948
+   Weber C., 2010, 23 INT C EFF COST OP
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   WOLMAN A, 1965, SCI AM, V213, P179
+   Yezioro A, 2006, RENEW ENERG, V31, P1011, DOI [10.1016/j.renene.2005.05.015, 10.1016/j.renen.2005.05.015]
+NR 64
+TC 3
+Z9 3
+SN 0921-3449
+EI 1879-0658
+PD MAY
+PY 2018
+VL 132
+BP 230
+EP 238
+DI 10.1016/j.resconrec.2017.05.005
+UT WOS:000428828300023
+ER
+
+PT J
+AU Wu, WJ
+   Zhao, HR
+   Jiang, SL
+AF Wu, Wenjia
+   Zhao, Hongrui
+   Jiang, Shulong
+TI A Zipf's Law-Based Method for Mapping Urban Areas Using NPP-VIIRS
+   Nighttime Light Data
+SO REMOTE SENSING
+DE urban areas; Zipf's law; social interactions; nighttime light (NTL)
+   data; NPP-VIIRS
+ID POWER-LAW; DMSP-OLS; SATELLITE DATA; CITY LIGHTS; CITIES; DYNAMICS;
+   CHINA; MAP; DISTRIBUTIONS; NIGHTLIGHTS
+AB A significant difficulty in urban studies is obtaining urban areas. Nighttime light (NTL) data provide efficient approaches to map urban areas. Previous methods have utilized visual particularities of cities with ancillary data to obtain the optimal thresholds. How cities behave differently from rural areas should be considered. A Zipf's law-based method is proposed to bootstrap the optimal threshold based on the statistical properties of a Zipf's law model on continuous thresholds at the country scale. In our method, the Zipf's law model is utilized to quantify fractal, self-organized, and agglomeration behaviors of cities. The three-phase cluster dynamics are discovered and the abrupt transition between Phase 1 and Phase 2 denotes the rural-urban demarcation point. The urban areas are derived by the proposed method from the Suomi National Polar-Orbiting Partnership Visible Infrared Imaging Radiometer Suite (NPP-VIIRS) NTL data in 2013 in China. An accuracy assessment is conducted to compare it with the GlobeLand30-2010 data and the overall accuracy has directly confirmed the effectiveness of the method. The validation using point of interest (POI) data verifies that the urban areas show strong responses to social interactions and production with R-2 values of 0.91 and 0.92, respectively, implying that the city areas extracted by our method can be a proxy for human activities. Comparisons with existing methods validate the effectiveness and high degree of automation of the proposed method in mapping urban areas at the country level. According to our analyses, the Zipf's law-based method shows great potential to provide a universal criterion to map urban areas from the perspective of the behaviors of urban systems without ancillary data, and a valuable tool for spatial and temporal urban studies.
+CR Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Batty M, 2013, NEW SCIENCE OF CITIES, P1
+   Batty M, 1994, FRACTAL CITIES A GEO
+   Berry B., 1964, PAPERS REGIONAL SCI, V13, P149, DOI [10.1007/BF01942566, DOI 10.1007/BF01942566]
+   Berry BJL, 2012, CITIES, V29, pS17, DOI 10.1016/j.cities.2011.11.007
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Chen J, 2015, ISPRS J PHOTOGRAMM, V103, P7, DOI 10.1016/j.isprsjprs.2014.09.002
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   DENNETT DC, 1991, J PHILOS, V88, P27, DOI 10.2307/2027085
+   Dou Y., 2017, URBAN LAND EXTRACTIO, V9, P175, DOI [10.3390/rs9020175, DOI 10.3390/RS9020175]
+   Elvidge C. D., 2013, P ASIA PACIFIC ADV N, V35, P62, DOI DOI 10.7125/APAN.35.7
+   Elvidge CD, 1997, PHOTOGRAMM ENG REM S, V63, P727
+   Elvidge CD, 2017, INT J REMOTE SENS, V38, P5860, DOI 10.1080/01431161.2017.1342050
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gao PC, 2017, ANN AM ASSOC GEOGR, V107, P1315, DOI 10.1080/24694452.2017.1310022
+   Goldstein ML, 2004, EUR PHYS J B, V41, P255, DOI 10.1140/epjb/e2004-00316-5
+   Goodchild MF, 2007, INT J SPAT DATA INFR, V2, P24
+   He CY, 2006, CHINESE SCI BULL, V51, P1614, DOI 10.1007/s11434-006-2006-3
+   He CY, 2014, GLOBAL CHANGE BIOL, V20, P2886, DOI 10.1111/gcb.12553
+   Henderson M, 2003, INT J REMOTE SENS, V24, P595, DOI 10.1080/01431160210144534
+   Imhoff ML, 1997, REMOTE SENS ENVIRON, V61, P361
+   Jiang B, 2015, INT J GEOGR INF SCI, V29, P498, DOI 10.1080/13658816.2014.988715
+   Jiang B, 2015, PROF GEOGR, V67, P295, DOI 10.1080/00330124.2014.968886
+   Jiang B, 2015, CITIES, V43, P69, DOI 10.1016/j.cities.2014.11.013
+   Jiang B, 2014, ANN ASSOC AM GEOGR, V104, P530, DOI 10.1080/00045608.2013.834239
+   Jing WL, 2015, REMOTE SENS-BASEL, V7, P12419, DOI 10.3390/rs70912419
+   Li QT, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8070578
+   Li XT, 2015, PALGR COMMUN, V1, DOI 10.1057/palcomms.2015.17
+   Li XC, 2017, INT J REMOTE SENS, V38, P6030, DOI 10.1080/01431161.2016.1274451
+   Li XC, 2015, REMOTE SENS ENVIRON, V166, P78, DOI 10.1016/j.rse.2015.06.007
+   Liu XP, 2015, REMOTE SENS-BASEL, V7, P17168, DOI 10.3390/rs71215863
+   Liu ZF, 2012, LANDSCAPE URBAN PLAN, V106, P62, DOI 10.1016/j.landurbplan.2012.02.013
+   Long Y, 2016, APPL GEOGR, V75, P36, DOI 10.1016/j.apgeog.2016.08.002
+   Long Y, 2016, ANN AM ASSOC GEOGR, V106, P96, DOI 10.1080/00045608.2015.1095062
+   Louf R., 2015, THESIS
+   Ma D, 2015, ISPRS INT GEO-INF, V4, P535, DOI 10.3390/ijgi4020535
+   Ma T, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8020094
+   Ma T, 2015, REMOTE SENS ENVIRON, V158, P453, DOI 10.1016/j.rse.2014.11.022
+   Milesi C, 2003, REMOTE SENS ENVIRON, V86, P401, DOI 10.1016/S0034-4257(03)00081-6
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Ontoy Dexter S., 2014, Biodiversity Journal, V5, P387
+   Portugali J, 2012, SELF ORG CITY
+   Pumain D, 2004, SCALING LAWS URBAN S
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Sharma RC, 2016, INT J DIGIT EARTH, V9, P1004, DOI 10.1080/17538947.2016.1168879
+   Shi KF, 2014, REMOTE SENS-BASEL, V6, P1705, DOI 10.3390/rs6021705
+   Shi KF, 2014, REMOTE SENS LETT, V5, P358, DOI 10.1080/2150704X.2014.905728
+   [舒松 SHU Song], 2011, [遥感�?术与应用, Remote Sensing Technology and Application], V26, P169
+   Small C, 2011, REMOTE SENS ENVIRON, V115, P269, DOI 10.1016/j.rse.2010.08.021
+   Soo KT, 2005, REG SCI URBAN ECON, V35, P239, DOI 10.1016/j.regsciurbeco.2004.04.004
+   Sutton P., 1997, Computers, Environment and Urban Systems, V21, P227, DOI 10.1016/S0198-9715(97)01005-3
+   Xie YH, 2016, REMOTE SENS ENVIRON, V187, P1, DOI 10.1016/j.rse.2016.10.002
+   Yang Y, 2013, J APPL REMOTE SENS, V7, DOI 10.1117/1.JRS.7.073535
+   Yu BL, 2015, IEEE J-STARS, V8, P1217, DOI 10.1109/JSTARS.2015.2399416
+   Yu BL, 2014, INT J GEOGR INF SCI, V28, P2328, DOI 10.1080/13658816.2014.922186
+   Zhou YY, 2015, ENVIRON RES LETT, V10, DOI 10.1088/1748-9326/10/5/054011
+   Zhou YY, 2014, REMOTE SENS ENVIRON, V147, P173, DOI 10.1016/j.rse.2014.03.004
+   Zipf G., 2012, HUMAN BEHAV PRINCIPL
+NR 60
+TC 0
+Z9 0
+SN 2072-4292
+PD JAN
+PY 2018
+VL 10
+IS 1
+AR 130
+DI 10.3390/rs10010130
+UT WOS:000424092300128
+ER
+
+PT J
+AU Zhao, SQ
+   Liu, SG
+   Xu, CX
+   Yuan, WP
+   Sun, Y
+   Yan, WD
+   Zhao, MF
+   Henebry, GM
+   Fang, JY
+AF Zhao, Shuqing
+   Liu, Shuguang
+   Xu, Chunxue
+   Yuan, Wenping
+   Sun, Yan
+   Yan, Wende
+   Zhao, Meifang
+   Henebry, Geoffrey M.
+   Fang, Jingyun
+TI Contemporary evolution and scaling of 32 major cities in China
+SO ECOLOGICAL APPLICATIONS
+DE evolution of cities; horizontal scaling; power scaling; scaling laws;
+   temporal scaling; urban attributes; urban ecosystems; urban
+   sustainability
+ID RURAL-URBAN MIGRATION; LAND-USE; TIME-SERIES; CITY-SIZE; URBANIZATION;
+   GROWTH; EXPANSION; ENVIRONMENT; DYNAMICS; ECOLOGY
+AB Most of the planet's population currently lives in urban areas, and urban land expansion is one of the most dramatic forms of land conversion. Understanding how cities evolve temporally, spatially, and organizationally in a rapidly urbanizing world is critical for sustainable development. However, few studies have examined the coevolution of urban attributes in time and space simultaneously and the adequacy of power law scaling across cities and through time, particularly in countries that have experienced abrupt, widespread, political and economic changes. Here, we show the temporal coevolution of multiple physical, demographic, socioeconomic, and environmental attributes in individual cities, and the cross-city scaling of urban attributes at six time points (i.e., 1978, 1990, 1995, 2000, 2005, and 2010) in 32 major Chinese cities. We found that power law scaling could adequately characterize both the cross-city scaling of urban attributes across cities and the longitudinal scaling describing the temporal coevolution of urban attributes within individual cities. The cross-city scaling properties demonstrated substantial changes over time signifying evolved social and economic forces. A key finding was that the cross-city linear or superlinear scaling of urban area with population contradicts the theoretical sublinear power law scaling proposed between infrastructure and population. Furthermore, the cross-city scaling between area and population transitioned from linear to superlinear over time, and the superlinear scaling in recent times suggests decreased infrastructure efficiency. Our results demonstrate a diseconomy of scale in urban areal expansion that indicates a significant waste of land resources in the urbanization process. Future planning efforts should focus on policies that increase urban land use efficiency before continuing expansion.
+CR Alberti M, 2015, TRENDS ECOL EVOL, V30, P114, DOI 10.1016/j.tree.2014.11.007
+   Angel S, 2011, PROG PLANN, V75, P53, DOI 10.1016/j.progress.2011.04.001
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Bagan H, 2012, REMOTE SENS ENVIRON, V127, P210, DOI 10.1016/j.rse.2012.09.011
+   Bai XM, 2014, NATURE, V509, P158, DOI 10.1038/509158a
+   Bai XM, 2012, ENVIRON SCI TECHNOL, V46, P132, DOI 10.1021/es202329f
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2013, SCIENCE, V340, P1418, DOI 10.1126/science.1239870
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bloom DE, 2008, SCIENCE, V319, P772, DOI 10.1126/science.1153057
+   Cao GZ, 2008, CHINA WORLD ECON, V16, P19, DOI 10.1111/j.1749-124X.2008.00104.x
+   Chan KW, 2014, EURASIAN GEOGR ECON, V55, P1, DOI 10.1080/15387216.2014.925410
+   Chan KW, 1999, CHINA QUART, P818
+   Chen J, 2007, CATENA, V69, P1, DOI 10.1016/j.catena.2006.04.019
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   Deng XZ, 2015, LAND USE POLICY, V45, P1, DOI 10.1016/j.landusepol.2015.01.007
+   Eaton J, 1997, REG SCI URBAN ECON, V27, P443, DOI 10.1016/S0166-0462(97)80005-1
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   Fan CC, 1999, INT MIGR REV, V33, P954, DOI 10.2307/2547359
+   Florida Richard., 2005, CITIES CREATIVE CLAS
+   Gibrat R., 1931, INEGALITES EC
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Huang QX, 2015, LANDSCAPE URBAN PLAN, V137, P138, DOI 10.1016/j.landurbplan.2015.01.004
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   Jiang L, 2013, LAND USE POLICY, V35, P33, DOI 10.1016/j.landusepol.2013.04.011
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   KLEIBER M, 1947, PHYSIOL REV, V27, P511
+   Leitao JC, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150649
+   Li SJ, 2013, GEOJOURNAL, V78, P615, DOI 10.1007/s10708-012-9455-9
+   Lin GCS, 2007, URBAN STUD, V44, P1827, DOI 10.1080/00420980701426673
+   Lin GCS, 2015, URBAN STUD, V52, P1962, DOI 10.1177/0042098013513644
+   Lin GCS, 2011, URBAN GEOGR, V32, P50, DOI 10.2747/0272-3638.32.1.50
+   Liu JG, 2005, NATURE, V435, P1179, DOI 10.1038/4351179a
+   Liu YS, 2014, LAND USE POLICY, V40, P6, DOI 10.1016/j.landusepol.2013.03.013
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   LUCAS RE, 1988, J MONETARY ECON, V22, P3, DOI 10.1016/0304-3932(88)90168-7
+   McPhearson T, 2016, BIOSCIENCE, V66, P198, DOI 10.1093/biosci/biw002
+   PICKETT S T A, 1989, P110
+   Pickett STA, 2005, ECOSYSTEMS, V8, P225, DOI 10.1007/s10021-004-0098-7
+   Poncet S, 2006, REG SCI URBAN ECON, V36, P385, DOI 10.1016/j.regsciurbeco.2005.11.003
+   R Development Core Team, 2013, R LANG ENV STAT COMP
+   Ramalho CE, 2012, TRENDS ECOL EVOL, V27, P179, DOI 10.1016/j.tree.2011.10.008
+   ROMER PM, 1986, J POLIT ECON, V94, P1002, DOI 10.1086/261420
+   Rosenthal S., 2004, HDB REGIONAL URBAN E, V4, P2119, DOI DOI 10.1016/S1574-0080(04)80006-3
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Schneider A, 2014, ENVIRON RES LETT, V9, DOI 10.1088/1748-9326/9/2/024008
+   Schneider A, 2009, ENVIRON RES LETT, V4, DOI 10.1088/1748-9326/4/4/044003
+   Segal D., 1976, REV ECON STAT, V33, P9
+   Seto KC, 2010, ANNU REV ENV RESOUR, V35, P167, DOI 10.1146/annurev-environ-100809-125336
+   Seto KC, 2005, LANDSCAPE ECOL, V20, P871, DOI 10.1007/s10980-005-5238-8
+   Shepard W., 2015, GHOST CITIES CHINA
+   State Statistical Bureau (SSB), 2015, CHIN STAT YB
+   Strano E, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0159465
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Tan MH, 2005, LAND USE POLICY, V22, P187, DOI 10.1016/j.landusepol.2004.03.003
+   United Nations Department of Economic and Social Affairs, 2015, WORLD URB PROSP 2014
+   Xu J, 2008, TOWN PLAN REV, V79, P157, DOI 10.3828/tpr.79.2-3.2
+   Ye XY, 2012, ANN REGIONAL SCI, V49, P135, DOI 10.1007/s00168-011-0442-8
+   Zhang KH, 2003, CHINA ECON REV, V14, P386, DOI 10.1016/j.chieco.2003.09.018
+   Zhao SQ, 2006, FRONT ECOL ENVIRON, V4, P341, DOI 10.1890/1540-9295(2006)004[0341:ECORUE]2.0.CO;2
+   Zhao SQ, 2016, P NATL ACAD SCI USA, V113, P6313, DOI 10.1073/pnas.1602312113
+   Zhao SQ, 2015, LANDSCAPE ECOL, V30, P1541, DOI 10.1007/s10980-015-0211-7
+   Zhao SQ, 2015, ENVIRON SCI TECHNOL, V49, P9600, DOI 10.1021/acs.est.5b00065
+   Zhou DC, 2014, REMOTE SENS ENVIRON, V152, P51, DOI 10.1016/j.rse.2014.05.017
+   Zhu Z, 2014, REMOTE SENS ENVIRON, V144, P152, DOI 10.1016/j.rse.2014.01.011
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 69
+TC 1
+Z9 1
+SN 1051-0761
+EI 1939-5582
+PD SEP
+PY 2018
+VL 28
+IS 6
+BP 1655
+EP 1668
+DI 10.1002/eap.1760
+UT WOS:000443555100023
+PM 29869352
+ER

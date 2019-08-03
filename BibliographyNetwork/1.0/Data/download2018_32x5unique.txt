@@ -1,0 +1,543 @@
+
+PT J
+AU Nguyen, LH
+   Nghiem, SV
+   Henebry, GM
+AF Nguyen, Lan H.
+   Nghiem, Son V.
+   Henebry, Geoffrey M.
+TI Expansion of major urban areas in the US Great Plains from 2000 to 2009
+   using satellite scatterometer data
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE Urbanization; QuikSCAT; Dense Sampling Method; Impervious surface;
+   LandScan
+ID LAND-COVER CLASSIFICATION; METROPOLITAN-AREA; LIGHT; URBANIZATION;
+   ABUNDANCE; GROWTH; NIGHT; VEGETATION; CLIMATE; IMPACT
+AB A consistent dataset delineating and characterizing changes in urban environments will be valuable for socio-economic and environmental research and for sustainable urban development. Remotely sensed data have been long used to map urban extent and infrastructure at various spatial and spectral resolutions. Although many datasets and approaches have been tried, there is not yet a universal way to map urban extents across the world. Here we combined a microwave scatterometer (QuikSCAT) dataset at similar to 1 km posting with percent impervious surface area (%ISA) data from the National Land Cover Dataset (NLCD) that was generated from Landsat data, and ambient population data from the LandScan product to characterize and quantify growth in nine major urban areas in the US Great Plains from 2000 to 2009. Nonparametric Mann-Kendall trend tests on backscatter time series from urban areas show significant expanding trends in eight of nine urban areas with p-values ranging 0.032 to 0.001. The sole exception is Houston, which has a substantial non-urban backscatter at the northeastern edge of the urban core. Strong power law scaling relationships between ambient population and either urban area or backscatter power (r(2) of 0.96 in either model) with sub-linear exponents (beta of 0.911 and 0.866, respectively) indicate urban areas become more compact with more vertical built-up structure than lateral expansion to accommodate the increased population. Increases in backscatter and %ISA datasets between 2001 and 2006 show agreement in both magnitude and direction for all urban areas except Minneapolis-St. Paul (MSP), likely due to the presence of many lakes and ponds throughout the MSP metropolitan area. We conclude discussing complexities in the backscatter data caused by large metal structures and rainfall.
+C1 [Nguyen, Lan H.; Henebry, Geoffrey M.] South Dakota State Univ, Geospatial Sci Ctr Excellence, Brookings, SD 57007 USA.
+   [Henebry, Geoffrey M.] South Dakota State Univ, Dept Nat Resource Management, Brookings, SD 57007 USA.
+   [Nghiem, Son V.] CALTECH, Jet Prop Lab, 4800 Oak Grove Dr, Pasadena, CA 91109 USA.
+RP Henebry, GM (reprint author), South Dakota State Univ, Geospatial Sci Ctr Excellence, Brookings, SD 57007 USA.
+EM geoffrey.henebry@sdstate.edu
+OI Henebry, Geoffrey/0000-0002-8999-2709
+FU NASA [NNX12AM89G, NNX14AJ32G]; NASA Land-Cover and Land-Use Change
+   (LCLUC)
+FX Funds were available to support in part this research and its
+   publication from NASA grants NNX12AM89G and NNX14AJ32G to GMH. The
+   research carried out at the Jet Propulsion Laboratory, California
+   Institute of Technology, was supported by the NASA Land-Cover and
+   Land-Use Change (LCLUC) Program.
+CR ADAMS JB, 1986, J GEOPHYS RES-SOLID, V91, P8098, DOI 10.1029/JB091iB08p08098
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bhaduri B. L., 2002, GEOINFORMATICS, V5, P4
+   Boehm C., 2006, 1 EARSEL WORKSH SIG
+   Bounoua L, 2015, ENVIRON RES LETT, V10, DOI 10.1088/1748-9326/10/8/084010
+   Brakenridge G. R., 2005, EOS T AM GEOPHYS UN, V86, P185, DOI [10.1029/2005EO190001, DOI 10.1029/2005EO190001]
+   Chen Y, 2007, INT J REMOTE SENS, V28, P4645, DOI 10.1080/01431160500444731
+   Dell'Acqua F., 2009, GLOBAL MAPPING HUMAN, P309
+   Dell'Acqua F, 2006, INT J REMOTE SENS, V27, P3797, DOI 10.1080/01431160600557572
+   Dobson JE, 2000, PHOTOGRAMM ENG REM S, V66, P849
+   Doll C. N. H, 2008, CIESIN THEMATIC GUID
+   Esch T, 2013, IEEE GEOSCI REMOTE S, V10, P1617, DOI 10.1109/LGRS.2013.2272953
+   Fang CL, 2015, SUSTAINABILITY-BASEL, V7, P15570, DOI 10.3390/su71115570
+   Ferri S, 2014, INT GEOSCI REMOTE SE, P1160, DOI 10.1109/IGARSS.2014.6946636
+   Friedl MA, 2010, REMOTE SENS ENVIRON, V114, P168, DOI 10.1016/j.rse.2009.08.016
+   Fry JA, 2011, PHOTOGRAMM ENG REM S, V77, P859
+   Gamba P., 2002, REMOTE SENS SPAT INF, V34, P55
+   Hansen MC, 2000, INT J REMOTE SENS, V21, P1331, DOI 10.1080/014311600210209
+   Henderson F. M., 1998, MAN REMOTE SENS, V2, P759
+   Herold M., 2003, 22 EARSEL S GEOINF E, P4
+   Hilburn KA, 2006, J APPL METEOROL CLIM, V45, P382, DOI 10.1175/JAM2357.1
+   Homer C, 2007, PHOTOGRAMM ENG REM S, V73, P337
+   Huang QX, 2014, REMOTE SENS-BASEL, V6, P6844, DOI 10.3390/rs6086844
+   Huang XM, 2016, REMOTE SENS ENVIRON, V175, P92, DOI 10.1016/j.rse.2015.12.042
+   Imhoff ML, 2010, REMOTE SENS ENVIRON, V114, P504, DOI 10.1016/j.rse.2009.10.008
+   Jacobson MZ, 2015, J GEOPHYS RES-ATMOS, V120, P5740, DOI 10.1002/2014JD023008
+   Kaufmann RK, 2007, J CLIMATE, V20, P2299, DOI 10.1175/JCLI4109.1
+   Li X., 2014, REMOTE SENS, V6
+   Lu DS, 2004, PHOTOGRAMM ENG REM S, V70, P1053, DOI 10.14358/PERS.70.9.1053
+   Mackun P., 2011, POPULATION DISTRIBUT
+   Masek JG, 2000, INT J REMOTE SENS, V21, P3473, DOI 10.1080/014311600750037507
+   Masetti M., 2015, EOS T AM GEOPHYS UN, V96, P13, DOI DOI 10.1029/2015E0037575
+   Myint SW, 2011, REMOTE SENS ENVIRON, V115, P1145, DOI 10.1016/j.rse.2010.12.017
+   Nghiem SV, 2015, INT GEOSCI REMOTE SE, P83, DOI 10.1109/IGARSS.2015.7325703
+   Nghiem SV, 2009, ISPRS J PHOTOGRAMM, V64, P367, DOI 10.1016/j.isprsjprs.2009.01.004
+   Nghiem S. V., 2001, D23049 JET PROP LAB, P23
+   Nghiem S. V, 2014, ENCY REMOTE SENSING, P869
+   Nghiem S.V., 2012, REMOTE SENSING DROUG, P197
+   Nghiem SV, 2004, J GREAT LAKES RES, V30, P148, DOI 10.1016/S0380-1330(04)70337-8
+   Nghiem SV, 1997, IEEE T GEOSCI REMOTE, V35, P581, DOI 10.1109/36.581972
+   Pu RL, 2008, REMOTE SENS ENVIRON, V112, P939, DOI 10.1016/j.rse.2007.07.005
+   Rose A. N., 2014, POP ASS AM ANN M BOS
+   Rykhus R., 2007, SCI STORMS USGS RESP, V1306, P49
+   Schneider A, 2009, ENVIRON RES LETT, V4, DOI 10.1088/1748-9326/4/4/044003
+   Schneider A, 2010, REMOTE SENS ENVIRON, V114, P1733, DOI 10.1016/j.rse.2010.03.003
+   Sertel E., 2015, INT J ENV GEOINFORMA, V2, P63, DOI DOI 10.30897/ijegeo.303545
+   Seto KC, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, P923
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P16083, DOI 10.1073/pnas.1211658109
+   Seto S, 2007, J ATMOS OCEAN TECH, V24, P1693, DOI 10.1175/JTECH2088.1
+   Shi KF, 2014, REMOTE SENS LETT, V5, P358, DOI 10.1080/2150704X.2014.905728
+   Small C, 2005, INT J REMOTE SENS, V26, P661, DOI 10.1080/01431160310001654950
+   Small C, 2001, INT J REMOTE SENS, V22, P1305, DOI 10.1080/01431160151144369
+   Small C, 2005, REMOTE SENS ENVIRON, V96, P277, DOI 10.1016/j.rse.2005.02.002
+   Small C., 2016, 2 EUR ASS REM SENS L
+   Small C, 2013, INT J APPL EARTH OBS, V22, P40, DOI 10.1016/j.jag.2012.02.009
+   Small C, 2011, REMOTE SENS ENVIRON, V115, P269, DOI 10.1016/j.rse.2010.08.021
+   SMITH MO, 1990, REMOTE SENS ENVIRON, V31, P1, DOI 10.1016/0034-4257(90)90074-V
+   Soergel U., 2003, INT ARCH PHOTOGRAMME, V34, P59
+   Soh MB, 2012, PROCD SOC BEHV, V42, P291, DOI 10.1016/j.sbspro.2012.04.193
+   Stevenazzi S, 2017, J ENVIRON MANAGE, V187, P365, DOI 10.1016/j.jenvman.2016.10.057
+   Stevenazzi S, 2015, HYDROGEOL J, V23, P631, DOI 10.1007/s10040-015-1236-3
+   Takaku Junichi, 2014, 2014 IEEE Geoscience and Remote Sensing Symposium. (IGARSS). Proceedings, P4784, DOI 10.1109/IGARSS.2014.6947564
+   Tanbenbock H., 2012, CAN J REMOTE SENS, V38, P211
+   Tournadre J, 2003, J GEOPHYS RES-OCEANS, V108, DOI 10.1029/2002JC001428
+   United Nations. Department or Economic and Social Affairs Population Division, 2014, STESASERA352 UN POP
+   Wu CS, 2003, REMOTE SENS ENVIRON, V84, P493, DOI 10.1016/S0034-4257(02)00136-0
+   Xian G, 2011, PHOTOGRAMM ENG REM S, V77, P758
+   Yan WY, 2015, REMOTE SENS ENVIRON, V158, P295, DOI 10.1016/j.rse.2014.11.001
+   Yuan F, 2005, REMOTE SENS ENVIRON, V98, P317, DOI 10.1016/j.rse.2005.08.006
+   Yusuf S, 2001, CIRCULATION, V104, P2746, DOI 10.1161/hc4601.099487
+   Zha Y, 2003, INT J REMOTE SENS, V24, P583, DOI 10.1080/01431160210144570
+   Zhang Q, 2003, INT J REMOTE SENS, V24, P4137, DOI 10.1080/0143116031000070445
+   Zhang Q, 2013, REMOTE SENS-BASEL, V5, P3476, DOI 10.3390/rs5073476
+   Zhou LM, 2004, P NATL ACAD SCI USA, V101, P9540, DOI 10.1073/pnas.0400357101
+   Zhou SX, 2017, IEEE GEOSCI REMOTE S, V14, P891, DOI 10.1109/LGRS.2017.2686419
+   Zhou Y, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/4/044024
+NR 77
+TC 2
+Z9 2
+U1 7
+U2 17
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0034-4257
+EI 1879-0704
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD JAN
+PY 2018
+VL 204
+BP 524
+EP 533
+DI 10.1016/j.rse.2017.10.004
+PG 10
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic
+   Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science &
+   Photographic Technology
+GA FQ6HK
+UT WOS:000418464400039
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Mukherjee, S
+   Saran, A
+   Stone, D
+   Mishra, V
+AF Mukherjee, Sourav
+   Aadhar, Saran
+   Stone, Daithi
+   Mishra, Vimal
+TI Increase in extreme precipitation events under anthropogenic warming in
+   India
+SO WEATHER AND CLIMATE EXTREMES
+LA English
+DT Article
+ID 26 JULY 2005; FUTURE PROJECTIONS; CLIMATE MODELS; FLOOD RISK; RAINFALL;
+   HUMIDITY; MUMBAI
+AB India has witnessed some of the most devastating extreme precipitation events, which have affected urban transportation, agriculture, and infrastructure. Despite the profound implications and damage due to extreme precipitation events, the influence of anthropogenic warming on the intensity and frequency of extreme precipitation events over India remains poorly constrained. Here using the gridded observations and simulations from the Coupled model intercomparison project 5 (CMIP5) and Climate of 20th century plus (C20C+) detection and attribution (D&A) project, we show that the frequency and intensity of extreme precipitation events have increased in India during the last few decades. Along with the extreme precipitation, dew point temperature has also increased during 1979-2015. The scaling relationship between extreme precipitation and dew point temperature shows a super (more than 7% increase per unit rise in dew point temperature) Clausius-Clapeyron (C-C) relationship for the majority of south India. Moreover, southern and central India show a higher (10%/degrees C) scaling relationship than north India (3.5%/degrees C). Our analysis using the Hist (historic) and HistNat (historic natural) simulations from the CMIP5 and C20C+ projects confirms an increase in the frequency of extreme precipitation events under the anthropogenic warming. Moreover, we show that 1-5 day precipitation maxima at 5-500 year return period increases (10-30%) under the anthropogenic warming. The frequency of precipitation extremes is projected to rise more prominently in southern and central India in the mid and end of the 21st century under the representative concentration pathway (RCP) 8.5. Our results show a significant contribution of anthropogenic warming in the rise of the frequency of extreme precipitation, which has implications for infrastructure, agriculture, and water resources in India.
+C1 [Mukherjee, Sourav; Aadhar, Saran; Mishra, Vimal] IIT, Civil Engn, Gandhinagar, India.
+   [Stone, Daithi] Lawrence Berkeley Natl Lab, Computat Res, Berkeley, CA 94720 USA.
+RP Mishra, V (reprint author), IIT, Civil Engn, Gandhinagar, India.
+EM vmishra@iitgn.ac.in
+OI Aadhar, Saran/0000-0003-1645-4093
+FU BELMONT Forum; Ministry of Earth Sciences (MoES)
+FX Authors acknowledge the data availability from C20C+, CMIP5,
+   ERA-Interim, and IMD. The funding from BELMONT Forum and Ministry of
+   Earth Sciences (MoES) is appricated. The comments and suggestions from
+   the three reviewers and the editor (Xubin Zhang) helped in improving the
+   present work.
+CR Ali H, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-01306-1
+   Allen MR, 2002, NATURE, V419, P224, DOI 10.1038/nature01092
+   [Anonymous], 2014, RAPIDLY ASSESSING FL
+   Bao JW, 2017, NAT CLIM CHANGE, V7, P128, DOI [10.1038/nclimate3201, 10.1038/NCLIMATE3201]
+   Bates B, 2008, TECHNICAL PAPER INTE, P210, DOI [10.1016/j.jmb.2010.08.039, DOI 10.1016/J.JMB.2010.08.039]
+   Bohra AK, 2006, CURR SCI INDIA, V90, P1188
+   Bollasina MA, 2011, SCIENCE, V334, P502, DOI 10.1126/science.1204994
+   Dai A, 2006, J CLIMATE, V19, P4605, DOI 10.1175/JCLI3884.1
+   Dee DP, 2011, Q J ROY METEOR SOC, V137, P553, DOI 10.1002/qj.828
+   Fisher B. S., 2007, CLIMATE CHANGE 2007, P82
+   Folland C., 2014, CLIVAR EXCHANGE, V19, P57, DOI DOI 10.1016/J.0CEM0D.2013.10.005.GRIFFIES
+   Ghosh S, 2012, NAT CLIM CHANGE, V2, P86, DOI 10.1038/NCLIMATE1327
+   Guhathakurta P, 2011, J EARTH SYST SCI, V120, P359, DOI 10.1007/s12040-011-0082-5
+   Hennessy KJ, 1997, CLIM DYNAM, V13, P667, DOI 10.1007/s003820050189
+   Jayasankar CB, 2015, GEOPHYS RES LETT, V42, P3513, DOI 10.1002/2015GL063659
+   Kendall M. G., 1975, RANK CORRELATION MET
+   Kotteswaran C. S., 2015, DECCAN CHRONICLE
+   Krishnan R, 2016, CLIM DYNAM, V47, P1007, DOI 10.1007/s00382-015-2886-5
+   Kumar A, 2008, Q J ROY METEOR SOC, V134, P1897, DOI 10.1002/qj.325
+   Kumari BP, 2007, GEOPHYS RES LETT, V34, DOI 10.1029/2007GL031133
+   Lee JY, 2014, CLIM DYNAM, V42, P101, DOI 10.1007/s00382-012-1564-0
+   Lenderink G, 2011, HYDROL EARTH SYST SC, V15, P3033, DOI 10.5194/hess-15-3033-2011
+   Lenderink G, 2010, ENVIRON RES LETT, V5, DOI 10.1088/1748-9326/5/2/025208
+   Mann HB, 1945, ECONOMETRICA, V13, P245, DOI 10.2307/1907187
+   Maurer EP, 2002, J CLIMATE, V15, P3237, DOI 10.1175/1520-0442(2002)015<3237:ALTHBD>2.0.CO;2
+   Min SK, 2011, NATURE, V470, P378, DOI 10.1038/nature09763
+   Mishra V, 2016, GEOPHYS RES LETT, V43, P12102, DOI 10.1002/2016GL071407
+   Mishra V, 2014, J GEOPHYS RES-ATMOS, V119, P9301, DOI 10.1002/2014JD021636
+   Mishra V, 2012, GEOPHYS RES LETT, V39, DOI 10.1029/2012GL052790
+   Mondal A, 2015, J HYDROL, V529, P1161, DOI 10.1016/j.jhydrol.2015.09.030
+   Pai DS, 2014, MAUSAM, V65, P1
+   Pall P, 2007, CLIM DYNAM, V28, P351, DOI 10.1007/S00382-006-0180-2
+   Pall P, 2011, NATURE, V470, P382, DOI 10.1038/nature09762
+   Pfahl S, 2017, NAT CLIM CHANGE, V7, P423, DOI [10.1038/nclimate3287, 10.1038/NCLIMATE3287]
+   Rajeevan M, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2008GL035143
+   Roxy MK, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms8423
+   Sanford T, 2014, NAT CLIM CHANGE, V4, P164, DOI 10.1038/nclimate2148
+   SEN PK, 1968, J AM STAT ASSOC, V63, P1379
+   Shah R, 2014, J HYDROMETEOROL, V15, P1575, DOI 10.1175/JHM-D-13-0103.1
+   Shah RD, 2016, J HYDROMETEOROL, V17, P1781, DOI 10.1175/JHM-D-15-0050.1
+   Shah RD, 2015, J HYDROMETEOROL, V16, P327, DOI 10.1175/JHM-D-14-0041.1
+   Sherwood SC, 2010, REV GEOPHYS, V48, DOI 10.1029/2009RG000301
+   Singh D, 2014, NAT CLIM CHANGE, V4, P456, DOI [10.1038/nclimate2208, 10.1038/NCLIMATE2208]
+   Singh P, 2008, HYDROL PROCESS, V22, P2982, DOI 10.1002/hyp.6871
+   Soden BJ, 2006, J CLIMATE, V19, P3354, DOI 10.1175/JCLI3799.1
+   Sun DZ, 1996, J CLIMATE, V9, P665, DOI 10.1175/1520-0442(1996)009<0665:ACOMAO>2.0.CO;2
+   Trenberth KE, 2003, B AM METEOROL SOC, V84, P1205, DOI 10.1175/BAMS-84-9-1205
+   Turner AG, 2009, ATMOS SCI LETT, V10, P152, DOI 10.1002/asl.223
+   van Oldenborgh G. J., 2016, HYDROL EARTH SYST SC, P1, DOI [10.5194/hess-2016-308, DOI 10.5194/HESS-2016-308]
+   Vittal H, 2016, SCI REP-UK, V6, DOI 10.1038/srep31039
+   Wang GL, 2017, NAT CLIM CHANGE, V7, P268, DOI [10.1038/NCLIMATE3239, 10.1038/nclimate3239]
+   Willett KM, 2007, NATURE, V449, P710, DOI 10.1038/nature06207
+   Zhang XB, 2017, NAT GEOSCI, V10, P255, DOI 10.1038/NGEO2911
+NR 53
+TC 5
+Z9 5
+U1 2
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2212-0947
+J9 WEATHER CLIM EXTREME
+JI Weather Clim. Extremes
+PD JUN
+PY 2018
+VL 20
+BP 45
+EP 53
+DI 10.1016/j.wace.2018.03.005
+PG 9
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA GL7FP
+UT WOS:000437362800004
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Jagger, P
+   Das, I
+AF Jagger, Pamela
+   Das, Ipsita
+TI Implementation and scale-up of a biomass pellet and improved cookstove
+   enterprise in Rwanda
+SO ENERGY FOR SUSTAINABLE DEVELOPMENT
+LA English
+DT Article
+DE Africa; Cookstoves; Household air pollution; Implementation science;
+   Renewable energy; Solid fuel
+ID ENERGY
+AB This paper reviews the experience of a for-profit firm in Rwanda promoting biomass pellets and a fan micro-gasification improved cookstove as a clean cooking alternative to charcoal. Consumers purchase locally produced biomass pellets and receive the improved cookstove on a lease basis. The cost of the pellets and stove(s) is lower than the cost of cooking with charcoal in the urban setting where our study takes place. Inyenyeri has been piloting its business model since 2012. Using data from an ongoing quantitative impact evaluation study, focus group discussions, and a series of key informant interviews, we chronicle the firm's experience with stove choice, pellet production, and marketing, highlighting lessons for the design of private sector-led clean cooking interventions.
+   We find that 38% of households marketed to as part of our ongoing impact evaluation study adopted the pellet and stove system, but that approximately 45% of those who adopted suspended contracts after signing up. The firm's experience with stove choice, pellet production, pricing structures, and customer service strategies have influenced implementation, adoption rates, and scale-up. Customer preferences for specific stove attributes and willingness of stove manufacturers to modify stoves for local conditions have influenced both the firm's choice of stove and customer satisfaction. In 2015 the firm transitioned customers from the Philips stove to the Mimi Moto, a decision which created confusion among consumers, and affected adoption rates. Despite the challenge of establishing and scaling-up pellet production in central Africa, the firm increased production 400% between 2014 and 2017 to reach 800,000 kg/year. Importing and maintaining pelletizing equipment in Rwanda is costly, the supply of feedstock irregualar, and undercapitalization of the firm have affected production. With respect to marketing, after experimenting with a sign-up fee and a minimum monthly purchase of pellets, the firm has decided to transition to a pay-as-you-go system to reduce perceived risk by consumers. A high-level of customer service including in-home visits, free in-home repair, and home delivery of pellets are major innovations. The long pilot phase and the evolutionary nature of the firm's activities illustrate both the complexity of building a market for clean cooking, and the time required to understand nascent markets and consumer demand. (C) 2018 The Authors. Published by Elsevier Inc.
+C1 [Jagger, Pamela; Das, Ipsita] Univ North Carolina Chapel Hill, Dept Publ Policy, CB 3435,Abernethy Hall, Chapel Hill, NC 27516 USA.
+   [Jagger, Pamela; Das, Ipsita] Univ North Carolina Chapel Hill, Carolina Populat Ctr, CB 3435,Abernethy Hall, Chapel Hill, NC 27516 USA.
+   [Jagger, Pamela] Univ North Carolina Chapel Hill, Carolina Populat Ctr, CB 8120,123 West Franklin St, Chapel Hill, NC 27516 USA.
+   [Jagger, Pamela; Das, Ipsita] Univ North Carolina Chapel Hill, FUEL Lab, CB 8120,123 West Franklin St, Chapel Hill, NC 27516 USA.
+RP Jagger, P (reprint author), Univ North Carolina Chapel Hill, Dept Publ Policy, CB 3435,Abernethy Hall, Chapel Hill, NC 27516 USA.; Jagger, P (reprint author), Univ North Carolina Chapel Hill, Carolina Populat Ctr, CB 3435,Abernethy Hall, Chapel Hill, NC 27516 USA.
+EM pjagger@unc.edu; ipsitad@live.unc.edu
+OI Jagger, Pamela/0000-0001-7148-432X
+FU Clean Cooking Implementation Science Network (ISN); United States
+   National Institutes of Health Common Fund program for Global Health;
+   United Nations Foundation/Global Alliance for Clean Cookstoves
+   [UNF-15-708]; National Institutes of Health/National Institute of
+   Environmental Health Sciences [R01ES023861]; Carolina Population Center
+   [P2C HD050924]
+FX This research was led by the University of North Carolina at Chapel
+   Hill, United States (UNC-CH) in collaboration with Laterite Africa. The
+   owners, management and staff of Inyenyeri were instrumental in
+   supporting this research, including dedicating countless hours to
+   interviews and providing contextual information to support this study.
+   This work was supported in part through the Clean Cooking Implementation
+   Science Network (ISN) with funds from the United States National
+   Institutes of Health Common Fund program for Global Health. Funding for
+   this study was also provided by the United Nations Foundation/Global
+   Alliance for Clean Cookstoves (UNF-15-708): Evaluating Sustained
+   Adoption of Inyenyeri's Improved Stove and Fuel Initiative in Rwanda,
+   and the National Institutes of Health/National Institute of
+   Environmental Health Sciences (R01ES023861): The Health and Poverty
+   Effects of a Large-scale Cookstove Initiative in Rwanda. We are grateful
+   to the Carolina Population Center (P2C HD050924) and for general
+   support.
+CR Bailis R, 2015, NAT CLIM CHANGE, V5, P266, DOI [10.1038/nclimate2491, 10.1038/NCLIMATE2491]
+   Barstow CK, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092403
+   Chen LJ, 2009, RENEW SUST ENERG REV, V13, P2689, DOI 10.1016/j.rser.2009.06.025
+   Clark ML, 2013, ENVIRON HEALTH PERSP, V121, P1120, DOI 10.1289/ehp.1206429
+   Colorado State University (CSU), 2015, MIM MOT WBT 4 2 3 RE
+   Das I, 2018, ENVIRON RES LETT, V13, DOI 10.1088/1748-9326/aab047
+   Forouzanfar MH, 2015, LANCET, V386, P2287, DOI 10.1016/S0140-6736(15)00128-2
+   GACC, 2018, IWA TIERS PERF
+   Government of Rwanda, 2016, MIN INFR SUST EN ALL
+   Government of Rwanda, 2016, ADV REQ EXPR INT CON
+   Jagger P., 2018, ECOHEALTH
+   Jagger P, 2016, ENERG POLICY, V92, P409, DOI 10.1016/j.enpol.2016.02.034
+   Jetter J, 2012, ENVIRON SCI TECHNOL, V46, P10827, DOI 10.1021/es301693f
+   Lewis JJ, 2012, ENVIRON HEALTH PERSP, V120, P637, DOI 10.1289/ehp.1104194
+   Naghavi M, 2017, LANCET, V390, P1151, DOI 10.1016/S0140-6736(17)32152-9
+   National Institute of Statistics of Rwanda, 2017, RPHC4 POP PROJ
+   Ndegwa G, 2011, RURAL, V45, P26
+   Seguin R, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0203775
+   World Bank, 2015, EN AFR ACH LESS AFR
+   World Bank, 2014, CLEAN IMPR COOK SUB
+   World Population Review, 2018, RWAND POP 2018
+NR 21
+TC 1
+Z9 1
+U1 8
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0973-0826
+J9 ENERGY SUSTAIN DEV
+JI Energy Sustain Dev.
+PD OCT
+PY 2018
+VL 46
+SI SI
+BP 32
+EP 41
+DI 10.1016/j.esd.2018.06.005
+PG 10
+WC Green & Sustainable Science & Technology; Energy & Fuels
+SC Science & Technology - Other Topics; Energy & Fuels
+GA GP6DV
+UT WOS:000440968400004
+PM 30449968
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Reed, M
+   Keech, D
+AF Reed, Matt
+   Keech, Daniel
+TI The "Hungry Gap': Twitter, local press reporting and urban agriculture
+   activism
+SO RENEWABLE AGRICULTURE AND FOOD SYSTEMS
+LA English
+DT Article
+DE urban agriculture; Bristol; food activism; social networks; social media
+ID FOOD; MEDIA; PERSONALIZATION; TECHNOLOGY; MOVEMENTS; POLITICS; SCIENCE;
+   FUTURE
+AB This paper is concerned with how urban food activists related to the media during 2015, when Bristol was the European Green Capital (EGC), how they represented themselves and how others represented their agenda. Our intention is to inform the debates on urban agriculture (UA) and, more specifically, to contribute to discussions about scaling up' UA. To achieve this, we adopt a form of analysis that rests on Castells' insights about contemporary protest movements, the media and the role of communication technologies in constituting social power. By using Bristol, a city with a well-developed and studied urban agriculture movement, we suggest new areas for consideration that focus on the importance of communication in the development of the movement. Our study relied only on publicly available data; newspaper reports about the EGC and a sample of the social media used by the urban food networks in the city. We found that the mass media was mainly concerned with reporting topics other than food and that urban food was not a salient issue in their coverage. The Twitter network we analyzed was a loose constellation of different communities, which shared materials that were mostly concerned with creating a shared, normative picture of urban food. By considering the structure of these forms of media, we can observe the assembly of the forms of communication and their content. The paper concludes that the self-representation of urban food networks at that time reveals a narrow focus of interest. This emphasis may have contributed to the lack of connection within the city between potential allies. Our conclusion supports similar research findings in neighboring communities, which have observed the limited connections of urban food networks to the circuits of power and influence.
+C1 [Reed, Matt; Keech, Daniel] Univ Gloucestershire, Countryside & Community Res Inst, Gloucester, England.
+RP Reed, M (reprint author), Univ Gloucestershire, Countryside & Community Res Inst, Gloucester, England.
+EM mreed@glos.ac.uk
+FU European Union's Seventh Framework Programme (FP7) [312126]
+FX This work was supported by the European Union's Seventh Framework
+   Programme (FP7) [grant number 312126].
+CR [Anonymous], 2015, BRISTOL POST    0312
+   Bennett WL, 2012, ANN AM ACAD POLIT SS, V644, P20, DOI 10.1177/0002716212451428
+   Bennett WL, 2011, INFORM COMMUN SOC, V14, P770, DOI 10.1080/1369118X.2011.579141
+   Bristol City Council, 2013, GOOD FOOD PLAN BRIST
+   Brunori G, 2014, LANDSCAPE RES, V39, P141, DOI 10.1080/01426397.2014.891725
+   Burch D, 2009, AGR HUM VALUES, V26, P267, DOI 10.1007/s10460-009-9219-4
+   Carey J., 2011, WHO FEEDS BRISTOL RE
+   Carey J, 2013, INT PLAN STUD, V18, P111, DOI 10.1080/13563475.2013.750938
+   Castells M, 2012, NETWORKS OUTRAGE HOP
+   Castells M., 2011, COMMUNICATION POWER
+   Conover M., 2011, P 5 INT AAAI C WEBL
+   Conover MD, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds6
+   Cook G, 2009, TEXT TALK, V29, P151, DOI 10.1515/TEXT.2009.007
+   Crossley N, 1999, SOCIOLOGY, V33, P809, DOI 10.1177/S0038038599000516
+   Crossley N, 2009, POETICS, V37, P24, DOI 10.1016/j.poetic.2008.10.002
+   della Porta Donatella, 2006, SOCIAL MOVEMENTS INT
+   DiGrazia J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0079449
+   Fligstein N, 2010, EUROCLASH EU EUROPEA
+   Franklin A, 2015, LOCAL ENVIRON, V20, P940, DOI 10.1080/13549839.2013.879852
+   Hardman M, 2014, LAND USE POLICY, V39, P400, DOI 10.1016/j.landusepol.2014.02.022
+   Hess DJ, 2005, SCI TECHNOL HUM VAL, V30, P515, DOI 10.1177/0162243905276499
+   Hollows J, 2010, EUR J CULT STUD, V13, P307, DOI 10.1177/1367549410363197
+   Hollows Joanne, 2003, INT J CULTURAL STUD, V6, P229, DOI DOI 10.1177/13678779030062005
+   Hollstein B, 2011, SAGE HDB SOCIAL NETW, P404, DOI DOI 10.4135/9781446294413.N27
+   Hooghe L, 2009, BRIT J POLIT SCI, V39, P1, DOI 10.1017/S0007123408000409
+   Kang J, 2012, J BROADCAST ELECTRON, V56, P562, DOI 10.1080/08838151.2012.732142
+   Kirwan J, 2013, GLOBAL ENVIRON CHANG, V23, P830, DOI 10.1016/j.gloenvcha.2012.12.004
+   Lockie S, 2006, GOING ORGANIC: MOBILIZING NETWORKS FOR ENVIRONMENTALLY RESPONSIBLE FOOD PRODUCTION, P1, DOI 10.1079/9781845931322.0000
+   Maslen C., 2013, FOOD POVERTY WHAT DO
+   Melucci A, 2000, SOC SCI INFORM, V39, P507, DOI 10.1177/053901800039004001
+   Miller D, 1999, SOC SCI MED, V49, P1239, DOI 10.1016/S0277-9536(99)00163-X
+   Moragues-Faus A, 2015, ENVIRON PLANN A, V47, P1558, DOI 10.1177/0308518X15595754
+   Morgan K., 2014, 2 NATURE URBAN AGR D, P18
+   Morgan K, 2015, URBAN STUD, V52, P1379, DOI 10.1177/0042098014534902
+   Newton J, 2012, GEOFORUM, V43, P585, DOI 10.1016/j.geoforum.2011.12.003
+   Obach B.K., 2015, ORGANIC STRUGGLE MOV
+   Obach BK, 2014, AGR HUM VALUES, V31, P307, DOI 10.1007/s10460-013-9477-z
+   Opitz I, 2016, AGR HUM VALUES, V33, P341, DOI 10.1007/s10460-015-9610-2
+   Papacharissi Z, 2002, NEW MEDIA SOC, V4, P9, DOI 10.1177/14614440222226244
+   Pudup MB, 2008, GEOFORUM, V39, P1228, DOI 10.1016/j.geoforum.2007.06.012
+   Reed M., 2017, GARDENING CYBERSPACE, P1, DOI [10. 1080/01426397. 2017. 1336517, DOI 10.1080/01426397.2017.1336517]
+   Reed M., 2013, CITY REGION REPORT S
+   Reed Matthew, 2010, REBELS SOIL RISE GLO
+   Scott J., 2011, SAGE HDB SOCIAL NETW
+   Sonnino R, 2016, GEOGR J, V182, P190, DOI 10.1111/geoj.12129
+   Specht K, 2014, AGR HUM VALUES, V31, P33, DOI 10.1007/s10460-013-9448-4
+   Taylor JR, 2014, AGR HUM VALUES, V31, P285, DOI 10.1007/s10460-013-9475-1
+   Urbact, 2015, SUST FOOD URB COMM D
+NR 48
+TC 1
+Z9 1
+U1 25
+U2 25
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1742-1705
+EI 1742-1713
+J9 RENEW AGR FOOD SYST
+JI Renew. Agr. Food Syst.
+PD DEC
+PY 2018
+VL 33
+IS 6
+SI SI
+BP 558
+EP 568
+DI 10.1017/S1742170517000448
+PG 11
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA GX2OC
+UT WOS:000447557700007
+DA 2019-03-26
+ER
+
+PT J
+AU Yang, QQ
+   Dai, Q
+   Han, DW
+   Zhu, XH
+   Zhang, SL
+AF Yang, Qiqi
+   Dai, Qiang
+   Han, Dawei
+   Zhu, Xuehong
+   Zhang, Shuliang
+TI Impact of the Storm Sewer Network Complexity on Flood Simulations
+   According to the Stroke Scaling Method
+SO WATER
+LA English
+DT Article
+DE storm sewer network; flood simulation; stroke; sensitivity;
+   generalization
+ID RADAR RAINFALL UNCERTAINTY; DIFFUSION-WAVE TREATMENT; MODEL; CATCHMENT;
+   RUNOFF; RESOLUTION; SIZE; AGGREGATION; PARAMETERS; BASIN
+AB For urban watersheds, the storm sewer network provides indispensable data for flood modeling but often needs to be simplified to balance the conflict between the large amount of data and current computing power. The sensitivity of a flood simulation to the data precision of a storm sewer network needs to be explored to develop reasonable generalization strategies. In this study, the impact of using the stroke scaling method to generalize a storm sewer network on a flood simulation was analyzed in terms of the total inflow of the outfalls and flood results. The results of the three study basins showed that different complexities of a sewer network did not have a significant effect on the outfall's total inflow for an area with a single drainage system but did for an area with multiple drainage systems. In addition, serious flooding was mainly distributed at the backbone pipes, which can be identified with the simplified sewer network. Several effective generalization strategies were developed for sewer networks that consider the distribution characteristics of the drainage system and application requirements. This study is theoretically important for better understanding the data sensitivity of flood modeling and simulation and practically important for improving the modeling efficiency and the accuracy of urban flood simulation.
+C1 [Yang, Qiqi; Dai, Qiang; Zhu, Xuehong; Zhang, Shuliang] Nanjing Normal Univ, Key Lab Virtual Geog Environm, Minist Educ, Nanjing 210023, Jiangsu, Peoples R China.
+   [Yang, Qiqi; Dai, Qiang; Han, Dawei] Univ Bristol, Dept Civil Engn, Water & Environm Management Res Ctr, Bristol BS8 1TR, Avon, England.
+   [Yang, Qiqi; Dai, Qiang; Zhu, Xuehong; Zhang, Shuliang] Jiangsu Ctr Collaborat Innovat Geog Informat Reso, Nanjing 210023, Jiangsu, Peoples R China.
+RP Dai, Q; Zhang, SL (reprint author), Nanjing Normal Univ, Key Lab Virtual Geog Environm, Minist Educ, Nanjing 210023, Jiangsu, Peoples R China.; Dai, Q (reprint author), Univ Bristol, Dept Civil Engn, Water & Environm Management Res Ctr, Bristol BS8 1TR, Avon, England.; Dai, Q; Zhang, SL (reprint author), Jiangsu Ctr Collaborat Innovat Geog Informat Reso, Nanjing 210023, Jiangsu, Peoples R China.
+EM yangqiqi_gis@163.com; q.dai@bristol.ac.uk; d.han@bristol.ac.uk;
+   zhuxuehong816@163.com; zhangshuliang@njnu.edu.cn
+OI Yang, Qiqi/0000-0002-2938-1586
+FU Newton Fund via Natural Environment Research Council (NERC) and Economic
+   and Social Research Council (ESRC) [NE/N012143/1]; National Natural
+   Science Foundation of China [41771424, 41501429]; Top-notch Academic
+   Programs Project of Jiangsu Higher Education Institutions (TAPP);
+   University Natural Science Project of Jiangsu Province [16KJA170001]
+FX This study was supported by Newton Fund via Natural Environment Research
+   Council (NERC) and Economic and Social Research Council (ESRC)
+   (NE/N012143/1), and the National Natural Science Foundation of China
+   (Nos.: 41771424, 41501429), and the Top-notch Academic Programs Project
+   of Jiangsu Higher Education Institutions (TAPP), and the University
+   Natural Science Project of Jiangsu Province (Grant No. 16KJA170001).
+CR Akhter MS, 2016, WATER-SUI, V8, DOI 10.3390/w8110511
+   Cambez M., 2008, P 11 INT C URB DRAIN
+   Carpenter TM, 2004, J HYDROL, V298, P202, DOI 10.1016/j.hydrol.2004.03.036
+   Cen G, 1998, ADV WATER SCI, V9, P41
+   Chaplot V, 2005, J HYDROL, V312, P207, DOI 10.1016/j.jhydrol.2005.02.017
+   Chaubey I, 2005, HYDROL PROCESS, V19, P621, DOI 10.1002/hyp.5607
+   Chen YB, 2015, ENVIRON RES, V139, P3, DOI 10.1016/j.envres.2015.02.028
+   Choi K., 2002, URBAN WATER, V4, P31, DOI DOI 10.1016/S1462-0758(01)00072-3
+   Cleveland T.G., 2009, WORLD ENV WATER RES, P1
+   Croci S, 2014, PROCEDIA ENGINEER, V70, P389, DOI 10.1016/j.proeng.2014.02.044
+   Czubski K., 2013, INT J GEOINFORM, V9, DOI [10.1007/s11274-015-1903-5, DOI 10.1007/S11274-015-1903-5]
+   Dai Q, 2015, ATMOS RES, V161, P93, DOI 10.1016/j.atmosres.2015.04.002
+   Elliott AH, 2009, J HYDROL ENG, V14, P975, DOI 10.1061/(ASCE)HE.1943-5584.0000064
+   Eslamian S, 2014, HDB ENG HYDROLOGY MO
+   Ghosh I, 2012, J HYDROL ENG, V17, P129, DOI 10.1061/(ASCE)HE.1943-5584.0000405
+   Hammond MJ, 2015, URBAN WATER J, V12, P14, DOI 10.1080/1573062X.2013.857421
+   Hsu MH, 2000, J HYDROL, V234, P21, DOI 10.1016/S0022-1694(00)00237-7
+   Hunter NM, 2008, P I CIVIL ENG-WAT M, V161, P13, DOI 10.1680/wama.2008.161.1.13
+   Hutchins MG, 2017, WIRES WATER, V4, DOI 10.1002/wat2.1177
+   Kang RS, 2006, GEOMORPHOLOGY, V79, P488, DOI 10.1016/j.geomorph.2006.06.034
+   Krebs G, 2014, J HYDROL, V512, P482, DOI 10.1016/j.jhydrol.2014.03.013
+   Lhomme J, 2004, J HYDROL, V299, P203, DOI 10.1016/j.jhydrol.2004.08.006
+   Li ZL, 2010, INT J GEOGR INF SCI, V24, P1631, DOI 10.1080/13658811003766936
+   Madsen H, 2002, WATER RESOUR RES, V38, DOI 10.1029/2001WR001125
+   Mancipe-Munoz NA, 2014, J WATER RES PLAN MAN, V140, DOI 10.1061/(ASCE)WR.1943-5452.0000382
+   Mendes J, 2016, WATER RESOUR MANAG, V30, P5671, DOI 10.1007/s11269-016-1509-1
+   Nania LS, 2015, J HYDROL ENG, V20, DOI 10.1061/(ASCE)HE.1943-5584.0001080
+   Park SY, 2008, DESALINATION, V226, P328, DOI 10.1016/j.desal.2007.02.115
+   Peterson EW, 2006, J HYDROL, V329, P294, DOI 10.1016/j.jhydrol.2006.02.017
+   Porta S, 2006, ENVIRON PLANN B, V33, P705, DOI 10.1068/b32045
+   Rossman L. A., 2010, STORM WATER MANAGEME
+   Sharifan RA, 2010, PROCEDIA SOCIAL BEHA, V2, P7739, DOI DOI 10.1016/J.SBSPRO.2010.05.205
+   Shen J., 2014, ELECT J GEOTECH ENG, V20, P6095
+   Thomson R.C., 1999, P ACT OTT ICA 1999 O
+   Tripathi MP, 2006, HYDROL PROCESS, V20, P1137, DOI 10.1002/hyp.5927
+   Waga A., 2015, ANN WARS U LIFE SCI, V47, P305, DOI [10.1515/sggw-2015-0033, DOI 10.1515/SGGW-2015-0033]
+   Willems P, 2012, ATMOS RES, V103, P106, DOI 10.1016/j.atmosres.2011.04.003
+   Yu D, 2006, HYDROL PROCESS, V20, P1541, DOI 10.1002/hyp.5935
+   Yu D, 2006, HYDROL PROCESS, V20, P1567, DOI 10.1002/hyp.5936
+   Yu DP, 2015, J HYDROL, V524, P385, DOI 10.1016/j.jhydrol.2015.02.040
+   Yu PS, 2001, J HYDROL, V244, P43, DOI 10.1016/S0022-1694(01)00328-6
+   Zappa M, 2011, ATMOS RES, V100, P246, DOI 10.1016/j.atmosres.2010.12.005
+   Zevenbergen C., 2012, RESILIENCE URBAN RIS, P73
+   ZHANG WH, 1994, WATER RESOUR RES, V30, P1019, DOI 10.1029/93WR03553
+   Zhao DQ, 2009, ENVIRON EARTH SCI, V59, P465, DOI 10.1007/s12665-009-0045-1
+   Zhu JX, 2018, WATER-SUI, V10, DOI 10.3390/w10050622
+NR 46
+TC 0
+Z9 0
+U1 2
+U2 7
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2073-4441
+J9 WATER-SUI
+JI Water
+PD MAY
+PY 2018
+VL 10
+IS 5
+AR 645
+DI 10.3390/w10050645
+PG 19
+WC Water Resources
+SC Water Resources
+GA GJ3LO
+UT WOS:000435196700111
+OA DOAJ Gold
+DA 2019-03-26
+ER

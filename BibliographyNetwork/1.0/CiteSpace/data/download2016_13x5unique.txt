@@ -1,0 +1,476 @@
+
+PT J
+AU Dalziel, BD
+   Le Corre, M
+   Cote, SD
+   Ellner, SP
+AF Dalziel, Benjamin D.
+   Le Corre, Mael
+   Cote, Steeve D.
+   Ellner, Stephen P.
+TI Detecting collective behaviour in animal relocation data, with
+   application to migrating caribou
+SO METHODS IN ECOLOGY AND EVOLUTION
+DE animal movement; caribou; collective behaviour; flocking; group
+   dynamics; statistical test for collective behaviour; swarming
+ID INTERACTION RULES; GROUP NAVIGATION; DECISION-MAKING; DYNAMICS; SCALE;
+   MOVEMENT; PATTERN; WRONGS; MODELS; CITIES
+AB 1. Collective behaviour can allow populations to have emergent responses to uncertain environments, driven by simple interactions among nearby individuals. High-throughput ethological studies, where individual behaviour is closely observed in each member of a population (typically in the laboratory or by simulation), have revealed that collective behaviour in populations requires only rudimentary cognitive abilities in individuals and could therefore represent a widespread adaptation to life in an uncertain world. However, the ecological significance of collective behaviour is not yet well understood, as most studies to date have been confined to specialized situations that allow intensive monitoring of individual behaviour.
+   2. Here, we describe a way to screen for collective behaviour in ecological data that is sampled at a coarser resolution than the underlying behavioural processes. We develop and test the method in the context of a well-studied model for collective movement in a noisy environmental gradient. The large-scale distribution patterns associated with collective behaviour are difficult to distinguish from the aggregated responses of independent individuals in this setting because independent individuals also align to track the gradient. However, we show that collective idiosyncratic deviations from the mean gradient direction have high predictive value for detecting collective behaviour. We describe a method of testing for these deviations using the average normalized velocity of the population.
+   3. We demonstrate the method using data from satellite tracking collars on the migration patterns of caribou (Rangifer tarandus), recovering evidence that collective behaviour is a key driver of caribou migration patterns. We find moreover that the relative importance of collective behaviour fluctuates seasonally, concurrent with the timing of migration and reproduction.
+   4. Collective behaviour is a potentially widespread dynamic property of populations that can, in some cases, be detected in coarsely sampled ecological data.
+OI Dalziel, Benjamin/0000-0002-9674-2783
+CR Aplin LM, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.1016
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Berdahl A, 2013, SCIENCE, V339, P574, DOI 10.1126/science.1225883
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bode NWF, 2012, AM NAT, V179, P621, DOI 10.1086/665005
+   Boulet M, 2007, MOL ECOL, V16, P4223, DOI 10.1111/j.1365-294X.2007.03476.x
+   CLARK CW, 1986, THEOR POPUL BIOL, V30, P45, DOI 10.1016/0040-5809(86)90024-9
+   Codling EA, 2007, ECOLOGY, V88, P1864, DOI 10.1890/06-0854.1
+   Couturier S, 2010, J WILDLIFE MANAGE, V74, P395, DOI 10.2193/2008-384
+   Couzin ID, 2011, SCIENCE, V334, P1578, DOI 10.1126/science.1210280
+   Couzin ID, 2005, NATURE, V433, P513, DOI 10.1038/nature03236
+   Couzin ID, 2002, J THEOR BIOL, V218, P1, DOI 10.1006/yjtbi.3065
+   Delgado M. M., 2014, METHODS ECOLOGY EVOL, V5, P1
+   Ellner S., 2013, P ROYAL SOC B, V280
+   Eriksson A, 2010, BEHAV ECOL, V21, P1106, DOI 10.1093/beheco/arq118
+   Farine DR, 2014, ANIM BEHAV, V95, P173, DOI 10.1016/j.anbehav.2014.07.008
+   Franks NR, 2002, PHILOS T R SOC B, V357, P1567, DOI 10.1098/rstb.2002.1066
+   Gautrais J, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002678
+   Grunbaum D, 1998, EVOL ECOL, V12, P503, DOI 10.1023/A:1006574607845
+   Handegard NO, 2012, CURR BIOL, V22, P1213, DOI 10.1016/j.cub.2012.04.050
+   Hastie T, 2008, ELEMENTS STAT LEARNI
+   Huse G, 2002, J FISH BIOL, V60, P571, DOI 10.1006/jfbi.2002.1874
+   Ioannou CC, 2012, SCIENCE, V337, P1212, DOI 10.1126/science.1218919
+   Jorgensen HBH, 2005, MOL ECOL, V14, P3219, DOI 10.1111/j.1365-294X.2005.02658.x
+   Langrock R, 2014, METHODS ECOL EVOL, V5, P190, DOI 10.1111/2041-210X.12155
+   Le Henaff D, 1976, INVENTAIRE AERIEN TE
+   LEVIN SA, 1992, ECOLOGY, V73, P1943, DOI 10.2307/1941447
+   Lewis M. A., 2014, J ROYAL SOC INTERFAC, V11
+   Machta BB, 2013, SCIENCE, V342, P604, DOI 10.1126/science.1238723
+   Mann RP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022827
+   Mitbavkar S, 2004, MAR BIOL, V145, P9, DOI 10.1007/s00227-004-1300-3
+   Nagy M, 2013, P NATL ACAD SCI USA, V110, P13049, DOI 10.1073/pnas.1305552110
+   Nagy M, 2010, NATURE, V464, P890, DOI 10.1038/nature08891
+   Okubo A., 2001, DIFFUSION ECOLOGICAL
+   Olson R. S., 2013, J ROYAL SOC INTERFAC, V10
+   Ovaskainen O, 2006, P NATL ACAD SCI USA, V103, P12781, DOI 10.1073/pnas.0603994103
+   Pascual M, 2011, THEOR ECOL-NETH, V4, P211, DOI 10.1007/s12080-011-0116-2
+   PATLAK CLIFFORD S., 1953, BULL MATH BIOPHYS, V15, P311, DOI 10.1007/BF02476407
+   Perony N, 2012, PLOS COMPUT BIOL, V8, DOI 10.1371/journal.pcbi.1002786
+   Post E, 2008, PHILOS T R SOC B, V363, P2369, DOI 10.1098/rstb.2007.2207
+   Saigusa T, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.018101
+   Simons AM, 2004, TRENDS ECOL EVOL, V19, P453, DOI 10.1016/j.tree.2004.07.001
+   SKELLAM JG, 1951, BIOMETRIKA, V38, P196, DOI 10.2307/2332328
+   Sumpter DJT, 2012, INTERFACE FOCUS, V2, P764, DOI 10.1098/rsfs.2012.0031
+   Taillon J, 2012, BIOL CONSERV, V147, P163, DOI 10.1016/j.biocon.2011.12.027
+   Torney C, 2009, P NATL ACAD SCI USA, V106, P22055, DOI 10.1073/pnas.0907929106
+   VICSEK T, 1995, PHYS REV LETT, V75, P1226, DOI 10.1103/PhysRevLett.75.1226
+   Vicsek T, 2001, NATURE, V411, P421, DOI 10.1038/35078161
+   Vicsek T, 2012, PHYS REP, V517, P71, DOI 10.1016/j.physrep.2012.03.004
+NR 49
+TC 11
+Z9 11
+SN 2041-210X
+EI 2041-2096
+PD JAN
+PY 2016
+VL 7
+IS 1
+BP 30
+EP 41
+DI 10.1111/2041-210X.12437
+UT WOS:000370955900004
+ER
+
+PT J
+AU Larondelle, N
+   Frantzeskaki, N
+   Haase, D
+AF Larondelle, Neele
+   Frantzeskaki, Niki
+   Haase, Dagmar
+TI Mapping transition potential with stakeholder- and policy-driven
+   scenarios in Rotterdam City
+SO ECOLOGICAL INDICATORS
+DE Land-use scenarios; Rotterdam; Transition detection; Urban; Visions;
+   Places for transition experiments
+ID LOW-CARBON CITIES; ECOSYSTEM SERVICES; SUSTAINABILITY TRANSITIONS; GREEN
+   ROOF; URBAN; IMPACTS; GERMANY; URBANIZATION; NETHERLANDS; ENVIRONMENT
+AB This paper introduces a mapping approach to identify hot- and hard-spots for sustainability transition in cities by analyzing different stakeholder- and policy-driven land-use scenarios in Rotterdam City, the Netherlands. Rotterdam's sustainability office initiated a knowledge co-production process in which visions and transition pathways for the sustainable and resilient future of Rotterdam, considering existing challenges and opportunities, were co-created. These scenarios were analyzed using a straightforward scenario approach to spatially identify, map and analyze change. By mapping change, trade-offs and synergies between different land-use options among the scenarios, this study disentangles the complexity of a stakeholder co-production process and is able to discover crucial transition areas. Furthermore, multiple urban ecosystem services were valued for each scenario, and environmental impacts could be detected for all of the different visions. The mapping approach applied is a good method to communicate the consequences of induced land-use change back to stakeholders and decision-makers and thus contributes to the visual loop of real co-design. Identifying the hot-spots of change enables attention to be drawn to the most rewarding areas for transition, and moreover, it shows areas in which different visions are not conflicting but rather cross-benefiting each other. Additionally, hard-spots or areas in which existing visions contradict each other show that careful mediation and the revision of change options might be the way to go. (C) 2016 Elsevier Ltd. All rights reserved.
+OI Larondelle, Neele/0000-0003-2064-1713; Frantzeskaki,
+   Niki/0000-0002-6983-448X
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bowler DE, 2010, LANDSCAPE URBAN PLAN, V97, P147, DOI 10.1016/j.landurbplan.2010.05.006
+   Bulkeley H., 2012, T I BR GEOGR, P1
+   Coenen L, 2012, EUR PLAN STUD, V20, P367, DOI 10.1080/09654313.2012.651802
+   Cotter M, 2014, ECOL INDIC, V36, P779, DOI 10.1016/j.ecolind.2013.01.017
+   Cowling RM, 2008, P NATL ACAD SCI USA, V105, P9483, DOI 10.1073/pnas.0706559105
+   Davies ZG, 2011, J APPL ECOL, V48, P1125, DOI 10.1111/j.1365-2664.2011.02021.x
+   Doick KJ, 2009, URBAN FOR URBAN GREE, V8, P163, DOI 10.1016/j.ufug.2009.05.002
+   European Commission, 2011, MAPP GUID EUR URB AT
+   Florida R., 2003, CITY COMMUNITY, V2, P3, DOI DOI 10.1111/1540-6040.00034
+   Frantzeskaki N., 2016, ENV SCI POLLICY
+   Frantzeskaki N, 2014, AMBIO, V43, P542, DOI 10.1007/s13280-014-0512-0
+   Frantzeskaki N, 2014, J CLEAN PROD, V65, P406, DOI 10.1016/j.jclepro.2013.09.023
+   Frantzeskaki N, 2009, FUTURES, V41, P593, DOI 10.1016/j.futures.2009.04.009
+   Gautam BR, 2015, ENERG BUILDINGS, V86, P735, DOI 10.1016/j.enbuild.2014.10.038
+   Gemeente Rotterdam, 2011, ROTT EUR GREEN CAP 2
+   Gemeente Rotterdam, 2013, UITW VIS OP RUIMT BI
+   Gemeente Rotterdam, 2012, ISS OCC 5 INT ARCH B
+   Gemeente Rotterdam, 2012, FOOD CIT STIM STADSL
+   Gemeente Rotterdam, 2012, PROGR DUURZ
+   Gemeente Rotterdam IABR Fabric JCFO TNO, 2014, URB MET SUST DEV ROT
+   Grin J, 2010, TRANSITIONS SUSTAINA
+   Guneralp B, 2013, CURR OPIN ENV SUST, V5, P445, DOI 10.1016/j.cosust.2013.08.003
+   Haase D., 2015, REFLECTIONS BLUE ECO
+   Haase D, 2014, LANDSCAPE URBAN PLAN, V132, P159, DOI 10.1016/j.landurbplan.2014.09.003
+   International Energy Agency IEA, 2002, POT BUILD INT PHOT
+   Jhagroe S, 2015, ENVIRON INNOV SOC TR, V15, P65, DOI 10.1016/j.eist.2014.07.001
+   Khan J, 2013, J CLEAN PROD, V50, P133, DOI 10.1016/j.jclepro.2012.11.045
+   Konijnendijk C. C, 2013, BENEFITS URBAN PARKS
+   Kremer P, 2011, APPL GEOGR, V31, P1252, DOI 10.1016/j.apgeog.2011.01.007
+   Larondelle N, 2014, GLOBAL ENVIRON CHANG, V26, P119, DOI 10.1016/j.gloenvcha.2014.04.008
+   Larondelle N, 2012, ECOL INDIC, V18, P567, DOI 10.1016/j.ecolind.2012.01.008
+   Lauf S., 2014, ECOL INDIC
+   Lehmann S, 2012, SUSTAIN CITIES SOC, V3, P1, DOI 10.1016/j.scs.2011.08.001
+   Lenhart J., 2015, J CLEAN PROD, P1
+   Loorbach D, 2010, GOVERNANCE, V23, P161, DOI 10.1111/j.1468-0491.2009.01471.x
+   Luo HB, 2015, ECOL INDIC, V49, P247, DOI 10.1016/j.ecolind.2014.10.016
+   Mancilla EE, 2014, ENDOCR PRACT, V21, P1
+   Markard J, 2012, RES POLICY, V41, P955, DOI 10.1016/j.respol.2012.02.013
+   McCormick K, 2013, J CLEAN PROD, V50, P1, DOI 10.1016/j.jclepro.2013.01.003
+   McIntosh B.S., 2009, BRIDGING GAPS DESIGN, P33
+   McKinney ML, 2002, BIOSCIENCE, V52, P883, DOI 10.1641/0006-3568(2002)052[0883:UBAC]2.0.CO;2
+   McPhearson T., 2014, ECOSYST SERV, P1
+   McPhearson T, 2013, ECOSYST SERV, V5, pE11, DOI 10.1016/j.ecoser.2013.06.005
+   Neuvonen A., 2014, METROPOLITAN VISION
+   Nevens F, 2013, J CLEAN PROD, V50, P111, DOI 10.1016/j.jclepro.2012.12.001
+   Nuissl H, 2009, LAND USE POLICY, V26, P414, DOI 10.1016/j.landusepol.2008.05.006
+   Porter N, 2015, TECHNOL FORECAST SOC, V90, P525, DOI 10.1016/j.techfore.2014.02.010
+   Prager K, 2012, LAND USE POLICY, V29, P244, DOI 10.1016/j.landusepol.2011.06.012
+   Rahman SRA, 2015, PROCD SOC BEHV, V170, P128, DOI 10.1016/j.sbspro.2015.01.022
+   Rall EL, 2011, LANDSCAPE URBAN PLAN, V100, P189, DOI 10.1016/j.landurbplan.2010.12.004
+   Ruckelshaus M., 2013, ECOL EC
+   Ryan C, 2013, J CLEAN PROD, V50, P189, DOI 10.1016/j.jclepro.2012.11.029
+   Scherba A, 2011, BUILD ENVIRON, V46, P2542, DOI 10.1016/j.buildenv.2011.06.012
+   Schroter D, 2005, SCIENCE, V310, P1333, DOI 10.1126/science.1115233
+   Schwarz N, 2011, ENVIRON IMPACT ASSES, V31, P97, DOI 10.1016/j.eiar.2010.02.002
+   Seto KC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023777
+   Seto KC, 2010, CURR OPIN SUST, V2, P127, DOI 10.1016/j.cosust.2010.07.003
+   Seto KC, 2009, CURR OPIN ENV SUST, V1, P89, DOI 10.1016/j.cosust.2009.07.012
+   Singh R, 2015, SOL ENERGY, V115, P589, DOI 10.1016/j.solener.2015.03.016
+   Soste L., 2014, TECHNOL FORECAST SOC
+   Strohbach M.W., 2010, ESTIMATING CARBON ST
+   Sutherland WJ, 2013, NATURE, V503, P335, DOI 10.1038/503335a
+   Uyarra E, 2013, J CLEAN PROD, V50, P101, DOI 10.1016/j.jclepro.2012.11.046
+   van Buuren A, 2009, PUBLIC MANAG REV, V11, P375, DOI 10.1080/14719030902798289
+   Van den Bosch S., 2010, THESIS
+   van der Lugt LM, 2014, J TRANSP GEOGR, V41, P197, DOI 10.1016/j.jtrangeo.2014.09.008
+   Van Eijndhoven J, 2013, CONNECTIVE CAPACITY, P172
+   VanWynsberghe R, 2003, FUTURES, V35, P203, DOI 10.1016/S0016-3287(02)00054-X
+   Volker S, 2013, SOC SCI MED, V91, P141, DOI 10.1016/j.socscimed.2013.04.016
+   Whiteman G, 2011, BUS STRATEG ENVIRON, V20, P251, DOI 10.1002/bse.691
+   Wiek A, 2014, SUSTAIN SCI, V9, P497, DOI 10.1007/s11625-013-0208-6
+NR 72
+TC 8
+Z9 8
+SN 1470-160X
+EI 1872-7034
+PD NOV
+PY 2016
+VL 70
+SI SI
+BP 630
+EP 643
+DI 10.1016/j.ecolind.2016.02.028
+UT WOS:000388785200057
+ER
+
+PT J
+AU Espinoza, M
+   Hsieh, A
+   Hsiehchen, D
+AF Espinoza, Magdalena
+   Hsieh, Antony
+   Hsiehchen, David
+TI Systematic characterization of gastrointestinal clinical trials
+SO DIGESTIVE AND LIVER DISEASE
+DE Clinical trials; Disease burden; Gastrointestinal diseases; Trial
+   designs
+ID RANDOMIZED CONTROLLED-TRIALS; DEVELOPMENT SUCCESS RATES; INVESTIGATIONAL
+   DRUGS; GLOBAL BURDEN; CLINICALTRIALS.GOV; GASTROENTEROLOGY; HEPATOLOGY;
+   DISEASE; QUALITY; REGISTRATION
+AB Background: Clinical guidelines are commonly based on inadequate evidence, suggesting deficiencies in the present portfolio of clinical research.
+   Aims: To investigate characteristics of clinical trials examining gastrointestinal (GI) diseases registered in ClinicalTrials.gov.
+   Methods: A cross-sectional analysis of 13,647 GI trials and 111,535 non-GI trials initiated between January 1997 and September 2013 was performed. Entries were sorted by operational status, purpose, interventions, trial design, and epochs to identify trends and interactions in trial properties.
+   Results: The global production of GI trials has remained static in recent years and a majority of research efforts are focused on a few diseases. While GI trials are generally produced by highly populated US states and countries, they are also seldom larger than 500 patients. The likelihood of using data monitoring committees, randomization, and double blinding in GI trials has increased over time, though a substantial fraction of GI trials still do not employ rigorous trial designs. While levels of GI trials correlate with disease burden, the explained variance of GI trials by disease burden worldwide is poor.
+   Conclusion: GI trials are chiefly concentrated in few diseases and highly populated regions, exhibit heterogeneous trends and methodologies, and are sensitive to disease burdens, though more so within North America than worldwide. (C) 2016 Editrice Gastroenterologica Italiana S.r.l. Published by Elsevier Ltd. All rights reserved.
+CR [Anonymous], 1988, CONTROL CLIN TRIALS, V9, P137
+   Bai Y, 2009, HEPATOLOGY, V49, P2108, DOI 10.1002/hep.22861
+   Bernardez-Pereira S, 2014, AM HEART J, V168, P213, DOI 10.1016/j.ahj.2014.04.013
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brown LD, 2001, STAT SCI, V16, P101
+   Califf RM, 2012, JAMA-J AM MED ASSOC, V307, P1838, DOI 10.1001/jama.2012.3424
+   Chan AW, 2014, LANCET, V383, P257, DOI 10.1016/S0140-6736(13)62296-5
+   Colli A, 2014, HEPATOLOGY, V60, P408, DOI 10.1002/hep.26948
+   De Angelis C, 2004, NEW ENGL J MED, V351, P1250, DOI 10.1056/NEJMe048225
+   DiMasi JA, 2013, CLIN PHARMACOL THER, V94, P329, DOI 10.1038/clpt.2013.117
+   DiMasi JA, 2010, CLIN PHARMACOL THER, V87, P272, DOI 10.1038/clpt.2009.295
+   Gluud C, 1998, J HEPATOL, V29, P321, DOI 10.1016/S0168-8278(98)80021-4
+   Gluud LL, 2005, AM J GASTROENTEROL, V100, P2431, DOI 10.1111/j.1572-0241.2005.00327.x
+   Hackshaw A, 2008, EUR RESPIR J, V32, P1141, DOI 10.1183/09031936.00136408
+   Hay M, 2014, NAT BIOTECHNOL, V32, P40, DOI 10.1038/nbt.2786
+   Hughes S, 2014, PHARM STAT, V13, P179, DOI 10.1002/pst.1615
+   Inthout J, 2012, STAT METHODS MED RES
+   Ioannidis JPA, 2011, JAMA-J AM MED ASSOC, V305, P2200, DOI 10.1001/jama.2011.713
+   Ioannidis JPA, 2005, JAMA-J AM MED ASSOC, V294, P218, DOI 10.1001/jama.294.2.218
+   Kasenda B, 2014, JAMA-J AM MED ASSOC, V311, P1045, DOI 10.1001/jama.2014.1361
+   Kjaergard LL, 1999, HEPATOLOGY, V30, P1134, DOI 10.1002/hep.510300510
+   Kjaergard LL, 2002, AM J GASTROENTEROL, V97, P2708
+   Kjaergard LL, 2002, GASTROENTEROLOGY, V122, P1157, DOI 10.1053/gast.2002.32390
+   Koenig F, 2015, BIOMETRICAL J, V57, P8, DOI 10.1002/bimj.201300283
+   Kola I, 2004, NAT REV DRUG DISCOV, V3, P711, DOI 10.1038/nrd1470
+   Li Xiao-Qian, 2013, Scand J Gastroenterol, V48, P1474, DOI 10.3109/00365521.2013.845909
+   McDonald AM, 2006, TRIALS, V7, DOI 10.1186/1745-6215-7-9
+   Murray CJL, 2012, LANCET, V380, P2197, DOI 10.1016/S0140-6736(12)61689-4
+   Myers AC, 2015, RSC ADV, V5, P11627, DOI [10.1016/S0140-6736(12)61728-0, 10.1039/c4ra15101a]
+   Rifai N, 2014, CLIN CHEM, V60, P1146, DOI 10.1373/clinchem.2014.226100
+   Ross JS, 2012, BMJ-BRIT MED J, V344, DOI 10.1136/bmj.d7292
+   Ross JS, 2009, PLOS MED, V6, DOI 10.1371/journal.pmed.1000144
+   Scott FI, 2012, AM J GASTROENTEROL, V107, P496, DOI 10.1038/ajg.2011.450
+   Sharma N, 2004, GUT, V53, P58, DOI 10.1136/gut.2003.034371
+   Siontis GCM, 2015, J CLIN EPIDEMIOL, V68, P25, DOI 10.1016/j.jclinepi.2014.09.007
+   Strom BL, 2014, NEW ENGL J MED, V371, P2052, DOI 10.1056/NEJMp1411794
+   Tzoulaki I, 2014, J CLIN EPIDEMIOL, V67, P571, DOI 10.1016/j.jclinepi.2013.10.021
+   Tzoulaki I, 2011, BMJ-BRIT MED J, V343, DOI 10.1136/bmj.d6829
+   Wagner JL, 1999, J NATL CANCER I, V91, P847, DOI 10.1093/jnci/91.10.847
+   Wang JL, 2011, BMC MED RES METHODOL, V11, DOI 10.1186/1471-2288-11-110
+   YUSUF S, 1984, STAT MED, V3, P409, DOI 10.1002/sim.4780030421
+   Zarin DA, 2005, NEW ENGL J MED, V353, P2779, DOI 10.1056/NEJMsa053234
+NR 42
+TC 0
+Z9 0
+SN 1590-8658
+EI 1878-3562
+PD MAY
+PY 2016
+VL 48
+IS 5
+BP 480
+EP 488
+DI 10.1016/j.dld.2016.01.003
+UT WOS:000373721200004
+PM 26847963
+ER
+
+PT J
+AU Valverde, S
+AF Valverde, Sergi
+TI Major transitions in information technology
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+DE transition; software; innovation; technology; networks; evolution
+ID INNOVATION; NETWORKS; HISTORY; DESIGN; GROWTH; EVOLUTION; DIFFUSION;
+   PATTERNS; INDUSTRY; SEARCH
+AB When looking at the history of technology, we can see that all inventions are not of equal importance. Only a few technologies have the potential to start a new branching series (specifically, by increasing diversity), have a lasting impact in human life and ultimately became turning points. Technological transitions correspond to times and places in the past when a large number of novel artefact forms or behaviours appeared together or in rapid succession. Why does that happen? Is technological change continuous and gradual or does it occur in sudden leaps and bounds? The evolution of information technology (IT) allows for a quantitative and theoretical approach to technological transitions. The value of information systems experiences sudden changes (i) when we learn how to use this technology, (ii) when we accumulate a large amount of information, and (iii) when communities of practice create and exchange free information. The coexistence between gradual improvements and discontinuous technological change is a consequence of the asymmetric relationship between complexity and hardware and software. Using a cultural evolution approach, we suggest that sudden changes in the organization of ITs depend on the high costs of maintaining and transmitting reliable information.
+   This article is part of the themed issue 'The major synthetic evolutionary transitions'.
+CR ABERNATHY WJ, 1978, TECHNOL REV, V80, P40
+   ALLEN RC, 1983, J ECON BEHAV ORGAN, V4, P1, DOI 10.1016/0167-2681(83)90023-9
+   Aoki K, 2015, THEOR POPUL BIOL, V100, P6, DOI 10.1016/j.tpb.2014.11.006
+   Arthur B. W., 2009, NATURE TECHNOLOGY WH
+   Arthur WB, 2006, COMPLEXITY, V11, P23, DOI 10.1002/cplx.20130
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   Atkinson P, 2010, J DES HIST, V23, P163, DOI 10.1093/jdh/epq010
+   Atkinson Paul, 2005, J DESIGN HIST, V18, P191, DOI DOI 10.1093/JDH/EPI024
+   Auerswald P, 2000, J ECON DYN CONTROL, V24, P389, DOI 10.1016/S0165-1889(98)00091-8
+   Baldwin C. Y., 2000, DESIGN RULES, V1
+   Basalla G, 1988, EVOLUTION TECHNOLOGY
+   Beinhocker Eric, 2006, THE ORIGIN OF WEALTH
+   BELL CG, 1984, COMPUTER, V17, P14
+   Bell G, 2008, COMMUN ACM, V51, P86, DOI 10.1145/1327452.1327453
+   Bentley A, 2011, J EVOLUT PSYCHOL, V9, P125, DOI [10.1556/JEP.9.2011.18.1, DOI 10.1556/JEP.9.2011.18.1]
+   Bentley RA, 2012, FRONT PSYCHOL, V3, DOI 10.3389/fpsyg.2012.00569
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boehm B. W., 1981, SOFTWARE ENG EC
+   Brooks F., 1995, MYTHICAL MAN MONTH E
+   BROOKS FP, 1987, COMPUTER, V20, P10
+   Buchanan M., 2007, SOCIAL ATOM WHY RICH
+   Challet D, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.046109
+   Challet D, 2005, INT J RELIAB QUAL SA, V12, P521, DOI 10.1142/S0218539305001999
+   Collard M, 2013, CURR ANTHROPOL, V54, pS388, DOI 10.1086/673881
+   D'Aveni R., 1994, HYPERCOMPETITION
+   Derex M, 2013, NATURE, V503, P389, DOI 10.1038/nature12774
+   DOSI G, 1982, RES POLICY, V11, P147, DOI 10.1016/0048-7333(82)90016-6
+   Dyson G., 2012, TURINGS CATHEDRAL OR
+   Enquist M, 2007, J THEOR BIOL, V246, P129, DOI 10.1016/j.jtbi.2006.12.022
+   Farmer JD, 2016, RES POLICY, V45, P647, DOI 10.1016/j.respol.2015.11.001
+   Forrest S., 1991, EMERGENT COMPUTATION, P1
+   Fowler Martin, 1999, REFACTORING IMPROVIN
+   Gladwell M., 2000, TIPPING POINT LITTLE
+   Greenberger M., 1962, MANAGEMENT COMPUTER
+   Haven K., 2007, 100 GREATEST SCI DIS
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   Henrich J, 2006, AM ANTIQUITY, V71, P771, DOI 10.2307/40035890
+   Kemp R, 1994, TECHNOLOGY TRANSITIO
+   Kuhn SL, 2012, CREATIVITY INNOVATIO, P69
+   Laitinen M, 2000, COMMUN ACM, V43, P105, DOI 10.1145/348941.349012
+   Lee R. D., 1986, STATE POPULATION THE, P96
+   Levine H., 1987, COGNITIVE CONNECTION
+   Levinthal DA, 1998, IND CORP CHANGE, V7, P217, DOI DOI 10.1093/ICC/7.2.217
+   Loch CH, 1999, MANAGE SCI, V45, P160, DOI 10.1287/mnsc.45.2.160
+   MAHONEY MS, 1988, ANN HIST COMPUT, V10, P113
+   Martinez-Mekler G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004791
+   Maynard Smith J, 1995, MAJOR TRANSITIONS EV
+   McNerney J, 2011, P NATL ACAD SCI USA, V108, P9008, DOI 10.1073/pnas.1017298108
+   Mesoudi A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018239
+   Michel JB, 2011, SCIENCE, V331, P176, DOI 10.1126/science.1199644
+   Mokyr J., 1990, LEVER RICHES
+   Moore GE, 1965, ELECTRONICS, V38, P1, DOI DOI 10.1109/JPROC.1998.658762
+   Moses ME, 2008, J R SOC INTERFACE, V5, P1469, DOI 10.1098/rsif.2008.0091
+   MUTH JF, 1986, MANAGE SCI, V32, P948, DOI 10.1287/mnsc.32.8.948
+   Nagy B, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0052669
+   Naur P, 1969, SOFTW ENG NATO SCI C
+   NELSON RR, 1977, RES POLICY, V6, P36, DOI 10.1016/0048-7333(77)90029-4
+   Nordhaus WD, 2007, J ECON HIST, V67, P128
+   Pressman Roger S., 2009, SOFTWARE ENG PRACTIT
+   PRICE GR, 1970, NATURE, V227, P520, DOI 10.1038/227520a0
+   Reid T. R., 2001, CHIP 2 AM INVENTED M
+   Richerson PJ, 2005, NOT GENES ALONE CULT
+   Riordan Michael, 1998, CRYSTAL FIRE INVENTI
+   Rogers E. M., 2003, DIFFUSION INNOVATION
+   ROSENBLOOM RS, 1987, CALIF MANAGE REV, V29, P51, DOI 10.2307/41162131
+   Schiffer M. B., 1991, PORTABLE RADIO AM LI
+   Schumpeter J, 1942, CAPITALISM SOCIALISM
+   Schumpeter JA, 1926, THEORY EC DEV
+   Schuster P., 1996, Complexity, V2, P22, DOI 10.1002/(SICI)1099-0526(199609/10)2:1<22::AID-CPLX6>3.0.CO;2-H
+   Schuster P, 2006, COMPLEXITY, V11, P9, DOI [10.1002/cplx.20132, 10.1002/cplx.20144]
+   Smith DK, 1999, FUMBLING FUTURE XERO
+   Sole R. V., 2011, EVOLUTION, V4, P415, DOI DOI 10.1007/S12052-011-0346-1
+   Sole RV, 2013, COMPLEXITY, V18, P15, DOI 10.1002/cplx.21436
+   Sole RV, 2010, J R SOC INTERFACE, V7, P1647, DOI 10.1098/rsif.2010.0110
+   Tomasello M, 1999, CULTURAL ORIGINS HUM
+   Tuomi I., 2002, 1 MONDAY, V7
+   TUSHMAN M. L., 1985, RES ORG BEHAV
+   TUSHMAN ML, 1986, ADMIN SCI QUART, V31, P439, DOI 10.2307/2392832
+   Valverde S, 2007, EPL-EUROPHYS LETT, V77, DOI 10.1209/0295-5075/77/20002
+   Valverde S, 2005, EUROPHYS LETT, V72, P858, DOI 10.1209/epl/i2005-10314-9
+   Valverde S, 2002, EUROPHYS LETT, V60, P512, DOI 10.1209/epl/i2002-00248-2
+   VALVERDE S, 2007, DYNAM CONT DIS SE S6, V14, P1
+   Valverde S, 2015, HUM BIOL, V87, P224, DOI 10.13110/humanbiology.87.3.0224
+   Valverde S, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0249
+   van den Ende J, 1999, RES POLICY, V28, P833, DOI 10.1016/S0048-7333(99)00027-X
+   VONNEUMANN J, 1993, IEEE ANN HIST COMPUT, V15, P28
+   Waldrop MM, 2016, NATURE, V530, P144, DOI 10.1038/530144a
+   Webster BF, 1996, BYTE, V21, P218
+   Wright T. P., 1936, J AERONAUT SCI, V3, P122, DOI [10.2514/8.155, DOI 10.2514/8.155]
+NR 89
+TC 2
+Z9 2
+SN 0962-8436
+EI 1471-2970
+PD AUG 19
+PY 2016
+VL 371
+IS 1701
+AR 20150450
+DI 10.1098/rstb.2015.0450
+UT WOS:000384460600012
+PM 27431527
+ER
+
+PT J
+AU Kolodny, O
+   Creanza, N
+   Feldman, MW
+AF Kolodny, Oren
+   Creanza, Nicole
+   Feldman, Marcus W.
+TI Game-Changing Innovations: How Culture Can Change the Parameters of Its
+   Own Evolution and Induce Abrupt Cultural Shifts
+SO PLOS COMPUTATIONAL BIOLOGY
+ID MODERN HUMAN-BEHAVIOR; MIDDLE STONE-AGE; HUNTER-GATHERERS;
+   POPULATION-SIZE; ACCUMULATION; COMPLEXITY; EMERGENCE; AFRICA; MODEL;
+   TECHNOLOGY
+AB One of the most puzzling features of the prehistoric record of hominid stone tools is its apparent punctuation: it consists of abrupt bursts of dramatic change that separate long periods of largely unchanging technology. Within each such period, small punctuated cultural modifications take place. Punctuation on multiple timescales and magnitudes is also found in cultural trajectories from historical times. To explain these sharp cultural bursts, researchers invoke such external factors as sudden environmental change, rapid cognitive or morphological change in the hominids that created the tools, or replacement of one species or population by another. Here we propose a dynamic model of cultural evolution that accommodates empirical observations: without invoking external factors, it gives rise to a pattern of rare, dramatic cultural bursts, interspersed by more frequent, smaller, punctuated cultural modifications. Our model includes interdependent innovation processes that occur at different rates. It also incorporates a realistic aspect of cultural evolution: cultural innovations, such as those that increase food availability or that affect cultural transmission, can change the parameters that affect cultural evolution, thereby altering the population's cultural dynamics and steady state. This steady state can be regarded as a cultural carrying capacity. These parameter-changing cultural innovations occur very rarely, but whenever one occurs, it triggers a dramatic shift towards a new cultural steady state. The smaller and more frequent punctuated cultural changes, on the other hand, are brought about by innovations that spur the invention of further, related, technology, and which occur regardless of whether the population is near its cultural steady state. Our model suggests that common interpretations of cultural shifts as evidence of biological change, for example the appearance of behaviorally modern humans, may be unwarranted.
+OI Creanza, Nicole/0000-0001-8821-7383; kolodny, oren/0000-0002-0095-693X
+CR Aiyar S, 2008, J ECON GROWTH, V13, P125, DOI 10.1007/s10887-008-9030-x
+   Ambrose SH, 2010, CURR ANTHROPOL, V51, pS135, DOI 10.1086/650296
+   Aoki K, 2015, THEOR POPUL BIOL, V100, P6, DOI 10.1016/j.tpb.2014.11.006
+   Bar-Yosef O, 1998, CAMB ARCHAEOL J, V8, P141, DOI 10.1017/S0959774300001815
+   Bar-Yosef O, 2002, ANNU REV ANTHROPOL, V31, P363, DOI 10.1146/annurev.anthro.31.040402.085416
+   Bar-Yosef O., 2002, CHRONOLOGY MIDDLE PA, P39
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bramanti B, 2009, SCIENCE, V326, P137, DOI 10.1126/science.1176869
+   Bromham L, 2015, P NATL ACAD SCI USA, V112
+   Buchanan B, 2016, ARCHAEOL ANTHROP SCI, V8, P625, DOI 10.1007/s12520-015-0245-4
+   Clark JL, 2011, J ANTHROPOL ARCHAEOL, V30, P273, DOI 10.1016/j.jaa.2011.04.002
+   Collard M, 2013, CURR ANTHROPOL, V54, pS388, DOI 10.1086/673881
+   Collard M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0072628
+   Darmstaedter L, 1904, 4000 JAHRE PIONIER A
+   de Beaune SA, 2004, CURR ANTHROPOL, V45, P139, DOI 10.1086/381045
+   Derex M, 2013, NATURE, V503, P389, DOI 10.1038/nature12774
+   Dow GK, 2011, J ECON BEHAV ORGAN, V77, P339, DOI 10.1016/j.jebo.2010.11.006
+   Eisenstein Elizabeth L., 1980, PRINTING PRESS AGENT
+   Eldredge N, 2005, PALEOBIOLOGY, V31, P133, DOI 10.1666/0094-8373(2005)031[0133:TDOES]2.0.CO;2
+   Enquist M, 2008, THEOR POPUL BIOL, V74, P46, DOI 10.1016/j.tpb.2008.04.007
+   Estes S, 2007, AM NAT, V169, P227, DOI 10.1086/510633
+   Evenson RE, 2003, SCIENCE, V300, P758, DOI 10.1126/science.1078710
+   Filliozat Pierre-Sylvain, 2004, HIST SCI HIST TEXT, P137
+   Fogarty L, 2016, HUM NAT HUMAN NATURE, P1
+   Fogarty L, 2015, TRENDS ECOL EVOL, V30, P736, DOI 10.1016/j.tree.2015.10.004
+   Garrison FH, 1921, INTRO HIST MED, V2
+   Gersick C. J. G., 2016, ACAD MANAGE REV, V16, P10
+   Gilpin W, 2016, P NATL ACAD SCI USA, V113, P2134, DOI 10.1073/pnas.1524861113
+   Gould SJ, 2016, PALEOBIOLOGY, V3, P115
+   Gould SJ, 2000, SHAKING TREE READING, P17
+   Havelock EA., 1991, COMMUN HIST TECHNOL, P57
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   Henrich J, 2016, P NATL ACAD SCI USA, V113
+   Hill KR, 2011, SCIENCE, V331, P1286, DOI 10.1126/science.1199071
+   HOVERS E, 2006, NOW YOU SEE IT NOW Y, P295
+   Ihara Y, 2004, THEOR POPUL BIOL, V65, P105, DOI 10.1016/j.tpb.2003.07.003
+   Isaac G., 1972, CALIBRATION HOMINOID, P381
+   Jones Terry L., 2007, CALIFORNIA PREHISTOR
+   Kempe M, 2014, J THEOR BIOL, V359, P29, DOI 10.1016/j.jtbi.2014.05.046
+   Kempe M, 2014, EVOL HUM BEHAV, V35, P285, DOI 10.1016/j.evolhumbehav.2014.02.009
+   Klein R. G., 2002, DAWN HUMAN CULTURE
+   Klein RG, 2008, EVOL ANTHROPOL, V17, P267, DOI 10.1002/evan.20181
+   Kline MA, 2010, P ROY SOC B-BIOL SCI, V277, P2559, DOI 10.1098/rspb.2010.0452
+   Kolodny O, 2015, P NATL ACAD SCI USA, V112, pE6762, DOI 10.1073/pnas.1520492112
+   Kuhn SL, 2012, EMERGENT PATTERNS CR, P69
+   Lee R.B., 1968, MAN HUNTER
+   Lehman HC, 1947, SOC FORCES, V25, P281, DOI 10.2307/3005665
+   Lehmann L, 2011, PHILOS T R SOC B, V366, P424, DOI 10.1098/rstb.2010.0313
+   Malmstrom H, 2009, CURR BIOL, V19, P1758, DOI 10.1016/j.cub.2009.09.017
+   Marquet PA, 2012, P NATL ACAD SCI USA, V109, P14754, DOI 10.1073/pnas.1116724109
+   Mellars P, 2004, NATURE, V432, P461, DOI 10.1038/nature03103
+   Mellars P, 2006, P NATL ACAD SCI USA, V103, P9381, DOI 10.1073/pnas.0510792103
+   Mesoudi A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018239
+   Muthukrishna M, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2013.2511
+   NEWMAN CM, 1985, NATURE, V315, P400, DOI 10.1038/315400a0
+   Perreault C, 2013, CURR ANTHROPOL, V54, pS397, DOI 10.1086/673264
+   Russo L., 2004, FORGOTTEN REVOLUTION
+   Sharon G, 2011, J HUM EVOL, V60, P387, DOI 10.1016/j.jhevol.2009.11.012
+   Shennan S, 2001, CAMB ARCHAEOL J, V11, P5
+   Skoglund P, 2012, SCIENCE, V336, P466, DOI 10.1126/science.1216304
+   Strimling P, 2009, THEOR POPUL BIOL, V76, P77, DOI 10.1016/j.tpb.2009.04.006
+   Vaesen K, 2016, P NATL ACAD SCI USA
+   Wadley L, 2010, CURR ANTHROPOL, V51, pS111, DOI 10.1086/649836
+   Wollin A, 1999, SYST RES BEHAV SCI, V16, P359, DOI 10.1002/(SICI)1099-1743(199907/08)16:4<359::AID-SRES253>3.3.CO;2-M
+   Wurz S, 2002, J ARCHAEOL SCI, V29, P1001, DOI 10.1006/jasc.2001.0799
+   Ziegler M, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2897
+NR 66
+TC 8
+Z9 8
+SN 1553-734X
+EI 1553-7358
+PD DEC
+PY 2016
+VL 12
+IS 12
+AR e1005302
+DI 10.1371/journal.pcbi.1005302
+UT WOS:000392126000057
+PM 28036346
+ER

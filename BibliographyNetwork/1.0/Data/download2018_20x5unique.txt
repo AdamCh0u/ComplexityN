@@ -1,0 +1,522 @@
+
+PT J
+AU Thonhofer, E
+   Palau, T
+   Kuhn, A
+   Jakubek, S
+   Kozek, M
+AF Thonhofer, Elvira
+   Palau, Toni
+   Kuhn, Andreas
+   Jakubek, Stefan
+   Kozek, Martin
+TI Macroscopic traffic model for large scale urban traffic network design
+SO SIMULATION MODELLING PRACTICE AND THEORY
+LA English
+DT Article
+DE Traffic network; Traffic control; Traffic simulation; Parameter
+   estimation
+ID CELL TRANSMISSION MODEL; TIME-ESTIMATION; SIMULATION; FLOW; VEHICLE;
+   OPTIMIZATION; CLOUD; MERGE
+AB This paper presents a flexible macroscopic traffic model that is applicable for large scale urban traffic network simulations. The proposed approach combines several advantages. First, the discretized partial differential equation of the macroscopic model is solved numerically with low computational effort. The spatial and temporal resolution of the discretization are tuning parameters to balance computational effort with model accuracy. Second, the model allows arbitrary functional forms of the fundamental diagram defined by a small number of parameters. Thereby, moving density gradients ( jam fronts) are represented accurately. The model parameters are physically meaningful and can readily be estimated from measurement data. Third, two general types of intersection handling are proposed and can be combined with different merge models. The first intersection approach is a binary traffic light, similar to real traffic lights. Detailed insights concerning queue length, flow across intersections and routing decisions can be investigated. The second approach is a continuous valve-like approach that allows investigation of averaged effects and large scale interaction and feedback effects. Fourth, the proposed model scales linearly with spatial and temporal resolution as well as network size and can be partially solved in parallel to increase computational efficiency. To demonstrate the above mentioned qualities of the presented model, two realistic example situations and a comprehensive study on the scaling properties are provided. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Thonhofer, Elvira; Jakubek, Stefan; Kozek, Martin] TU Wien, Inst Mech & Mechatron, E325 Getreidemarkt 9, A-1060 Vienna, Austria.
+   [Palau, Toni; Kuhn, Andreas] Andata Dev Technol GmbH, Straussengasse 16-6, A-1040 Vienna, Austria.
+RP Thonhofer, E (reprint author), TU Wien, Inst Mech & Mechatron, E325 Getreidemarkt 9, A-1060 Vienna, Austria.
+EM e.thonhofer@tuwien.ac.at; t.palau@andata.at; a.kuhn@andata.at;
+   stefan.jakubek@tuwien.ac.at; martin.kozek@tuwien.ac.at
+FU Wirtschaftsagentur Wien [1464714]
+FX This research was partially funded by Wirtschaftsagentur Wien (ID
+   1464714).
+CR Barcelo J, 2005, OPER RES COMPUT SCI, V31, P57
+   Chao QW, 2015, COMPUT ANIMAT VIRT W, V26, P405, DOI 10.1002/cav.1654
+   Coclite GM, 2005, SIAM J MATH ANAL, V36, P1862, DOI 10.1137/S0036141004402683
+   COURANT R, 1967, IBM J RES DEV, V11, P215, DOI 10.1147/rd.112.0215
+   Daganzo C. F., 1993, TECHNICAL REPORT
+   DAGANZO CF, 1995, TRANSPORT RES B-METH, V29, P79, DOI 10.1016/0191-2615(94)00022-R
+   Dell'Orco M, 2016, TRANSPORT RES C-EMER, V66, P48, DOI 10.1016/j.trc.2015.10.001
+   Di Gangi M, 2016, TRANSPORT RES C-EMER, V66, P3, DOI 10.1016/j.trc.2015.10.002
+   Fellendorf M, 2010, INT SER OPER RES MAN, V145, P63, DOI 10.1007/978-1-4419-6142-6_2
+   Greenshields B. D, 1935, HIGHWAY RES BOARD P, V14
+   Halati A., 1997, TRAFFIC SIMULATION M
+   Hoogendoorn SP, 2001, P I MECH ENG I-J SYS, V215, P283, DOI 10.1243/0959651011541120
+   Jamshidnejad A, 2017, TRANSPORT RES C-EMER, V75, P45, DOI 10.1016/j.trc.2016.11.024
+   Jin WL, 2003, TRANSPORT RES B-METH, V37, P521, DOI 10.1016/S0191-2615(02)00026-7
+   Kim T, 2008, TRANSPORT RES B-METH, V42, P619, DOI 10.1016/j.trb.2007.12.002
+   Kostovasili M, 2017, SIMUL MODEL PRACT TH, V70, P135, DOI 10.1016/j.simpat.2016.10.010
+   LeVeque R. J., 2002, FINITE VOLUME METHOD, V31
+   Li J, 2012, TRANSPORTMETRICA, V8, P387, DOI 10.1080/18128602.2010.521532
+   MIHAITA AS, 2014, IFAC PAPERSONLINE, V47, P8768
+   Morse Philip, 2016, TRANSP RES BOARD ANN, P16
+   Munoz L, 2003, P AMER CONTR CONF, P3750
+   Ni DH, 2005, APPL MATH MODEL, V29, P1054, DOI 10.1016/j.apm.2005.02.008
+   Pan B., 2013, P 21 ACM SIGSPATIAL, P344, DOI [DOI 10.1145/2525314.2525343, 10.1145/2525314.2525343]
+   Schirrer A, 2016, J SOUND VIB, V365, P45, DOI 10.1016/j.jsv.2015.12.006
+   Soria I, 2014, SIMUL MODEL PRACT TH, V40, P208, DOI 10.1016/j.simpat.2013.10.002
+   Sumalee A, 2011, TRANSPORT RES B-METH, V45, P507, DOI 10.1016/j.trb.2010.09.006
+   Sumalee A, 2013, TRANSPORT RES C-EMER, V35, P263, DOI 10.1016/j.trc.2012.11.003
+   Thonhofer E, 2017, J INTELL TRANSPORT S, V21, P63, DOI 10.1080/15472450.2016.1208568
+   Thonhofer E, 2014, INT CONF CONNECT VEH, P937, DOI 10.1109/ICCVE.2014.7297693
+   Vondra T, 2017, SIMUL MODEL PRACT TH, V70, P83, DOI 10.1016/j.simpat.2016.10.005
+   Waizman G, 2015, J INTELL TRANSPORT S, V19, P63, DOI 10.1080/15472450.2013.856721
+   WAN JF, 2016, SENSORS, V16
+   Zehe D, 2015, SIMUL MODEL PRACT TH, V58, P157, DOI 10.1016/j.simpat.2015.05.005
+NR 33
+TC 7
+Z9 7
+U1 7
+U2 26
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1569-190X
+EI 1878-1462
+J9 SIMUL MODEL PRACT TH
+JI Simul. Model. Pract. Theory
+PD JAN
+PY 2018
+VL 80
+BP 32
+EP 49
+DI 10.1016/j.simpat.2017.09.007
+PG 18
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering
+SC Computer Science
+GA FO3HP
+UT WOS:000416716700003
+DA 2019-03-26
+ER
+
+PT J
+AU Rangel-Buitrago, N
+   Gracia, A
+   Velez-Mendoza, A
+   Mantilla-Barbosa, E
+   Arana, VA
+   Trilleras, J
+   Arroyo-Olarte, H
+AF Rangel-Buitrago, Nelson
+   Gracia C, Adriana
+   Velez-Mendoza, Anubis
+   Mantilla-Barbosa, Egna
+   Andrea Arana, Victoria
+   Trilleras, Jorge
+   Arroyo-Olarte, Harry
+TI Abundance and distribution of beach litter along the Atlantico
+   Department, Caribbean coast of Colombia
+SO MARINE POLLUTION BULLETIN
+LA English
+DT Article
+DE Beach litter; Agglomerative Hierarchical Clustering (AHC);
+   Multidimensional Scaling (MDS); Principal Components Analysis (PCA);
+   Atlantico; Colombia
+ID MARINE DEBRIS; CONTAMINATION; IMPACTS; SCENERY; ORIGIN
+AB A total of 5993 litter items divided into 13 categories were found at 25 beaches located along the Atlantico Department coastline, Caribbean of Colombia, with an average litter abundance of 7 items/m. Agglomerative Hierarchical Clustering (AHC), Multidimensional Scaling (MDS) and Principal Components Analysis (PCA) were applied with the objective of highlighting similarities and contrasts between litter categories and abundances. Results indicated two specific groups of beaches in terms of amounts of litter. The first group is composed of 17 "dirty beaches" (urban, resort and village) while the second group includes 8 "clean beaches" (village and resort). This division was confirmed by means of the EA/NALG (2000) grading system, which highlighted that 68% of beaches belonging to the Atlantico Department coastline are in an unacceptable condition of cleanness. Current patterns of litter abundance and accumulation are related to sources as well as beach characteristics such as degree of exposition and morphodynamic state.
+C1 [Rangel-Buitrago, Nelson] Univ Atlantico, Programa Fis, Fac Ciencias Basicas, Puerto Colombia, Atlantico, Colombia.
+   [Rangel-Buitrago, Nelson; Gracia C, Adriana; Velez-Mendoza, Anubis] Univ Atlantico, Programa Biol, Fac Ciencias Basicas, Puerto Colombia, Atlantico, Colombia.
+   [Mantilla-Barbosa, Egna; Andrea Arana, Victoria; Trilleras, Jorge; Arroyo-Olarte, Harry] Univ Atlantico, Programa Maestria Ciencias Ambientales, Fac Ciencias Basicas, Puerto Colombia, Atlantico, Colombia.
+   [Andrea Arana, Victoria; Trilleras, Jorge] Univ Atlantico, Programa Quim, Fac Ciencias Basicas, Puerto Colombia, Atlantico, Colombia.
+RP Rangel-Buitrago, N (reprint author), Univ Atlantico, Programa Fis, Fac Ciencias Basicas, Barranquilla, Atlantico, Colombia.
+EM nelsonrangel@mail.uniatlantico.edu.co
+OI Rangel-Buitrago, Nelson/0000-0003-2261-3265
+CR Anfuso G, 2015, COAST RES LIBR, V12, P1, DOI 10.1007/978-3-319-13716-2_1
+   Barboza LGA, 2018, MAR POLLUT BULL, V133, P336, DOI 10.1016/j.marpolbul.2018.05.047
+   Araujo MC, 2007, MANAG ENVIRON QUAL, V18, P6, DOI 10.1108/14777830710717677
+   Barnes DKA, 2005, MAR BIOL, V146, P815, DOI 10.1007/s00227-004-1474-8
+   Bergmann M, 2015, MARINE ANTHROPOGENIC LITTER, pIX
+   Bergmann M, 2016, POLAR BIOL, V39, P553, DOI 10.1007/s00300-015-1795-8
+   Bravo M, 2009, MAR POLLUT BULL, V58, P1718, DOI 10.1016/j.marpolbul.2009.06.017
+   Buhl-Mortensen P, 2018, FRONT MAR SCI, V5, DOI 10.3389/fmars.2018.00042
+   Campbell ML, 2016, OCEAN COAST MANAGE, V126, P22, DOI 10.1016/j.ocecoaman.2016.04.002
+   Carson HS, 2013, MAR ENVIRON RES, V84, P76, DOI 10.1016/j.marenvres.2012.12.002
+   Coe J., 1996, MARINE DEBRIS SOURCE
+   CORBIN CJ, 1993, MAR POLLUT BULL, V26, P325, DOI 10.1016/0025-326X(93)90575-5
+   Corraini NR, 2018, MAR POLLUT BULL, V131, P572, DOI 10.1016/j.marpolbul.2018.04.061
+   Critchell K, 2015, ESTUAR COAST SHELF S, V167, P414, DOI 10.1016/j.ecss.2015.10.018
+   de Carvalho-Souza GF, 2018, MAR POLLUT BULL, V133, P464, DOI 10.1016/j.marpolbul.2018.05.049
+   EA/NALG, 2000, MON PROT CLASS SCHEM
+   French P. W., 1997, COASTAL ESTUARINE MA
+   Galgani F, 2015, MARINE ANTHROPOGENIC LITTER, P29, DOI 10.1007/978-3-319-16510-3_2
+   Geyer R, 2017, SCI ADV, V3, DOI 10.1126/sciadv.1700782
+   Gilbert C., 1996, RECENT POLICY DEV MA, P12
+   Gracia A, 2018, MAR POLLUT BULL, V128, P185, DOI 10.1016/j.marpolbul.2018.01.017
+   Jambeck J, 2018, MAR POLICY, V96, P256, DOI 10.1016/j.marpol.2017.10.041
+   Jambeck JR, 2015, SCIENCE, V347, P768, DOI 10.1126/science.1260352
+   Lechner A, 2014, ENVIRON POLLUT, V188, P177, DOI 10.1016/j.envpol.2014.02.006
+   Barragan JM, 2015, OCEAN COAST MANAGE, V114, P11, DOI 10.1016/j.ocecoaman.2015.06.004
+   Martinez-Ribes L, 2007, SCI MAR, V71, P305, DOI 10.3989/scimar.2007.71n2305
+   Ocean Conservancy, 2015, STEMM TID LAND BAS S
+   OSPAR, 2010, GUID MON MAR LITT BE
+   Perez L, 2018, J COAST CONSERV, V22, P1085, DOI 10.1007/s11852-018-0615-z
+   Pilkey OH, 2011, WORLD'S BEACHES: A GLOBAL GUIDE TO THE SCIENCE OF THE SHORELINE, P1
+   Prevenios M, 2018, MAR POLLUT BULL, V129, P448, DOI 10.1016/j.marpolbul.2017.10.013
+   Rangel-Buitrago N, 2013, TOURISM MANAGE, V35, P41, DOI 10.1016/j.tourman.2012.05.008
+   Rangel-Buitrago N, 2019, COASTAL SCENERY EVAL
+   Rangel-Buitrago N., 2016, CARIB ETUDES, P1
+   Rangel-Buitrago N, 2018, MAR POLLUT BULL, V127, P22, DOI 10.1016/j.marpolbul.2017.11.023
+   Rangel-Buitrago N, 2017, OCEAN COAST MANAGE, V138, P142, DOI 10.1016/j.ocecoaman.2017.01.021
+   Rech S, 2014, MAR POLLUT BULL, V82, P66, DOI 10.1016/j.marpolbul.2014.03.019
+   Rech S., 2016, MAR POLLUT B, V82, P66, DOI [10.1016/j.marpolbu1.2014.03.019, DOI 10.1016/J.MARPOLBU1.2014.03.019]
+   Ryan PG, 2015, MARINE ANTHROPOGENIC LITTER, P1, DOI 10.1007/978-3-319-16510-3_1
+   Thushari GGN, 2017, MAR POLLUT BULL, V116, P121, DOI 10.1016/j.marpolbul.2016.12.056
+   Topcu NE, 2013, MAR ENVIRON RES, V85, P21, DOI 10.1016/j.marenvres.2012.12.006
+   Tourinho Paula S., 2011, J INTEGR COAST ZONE, V11, P97, DOI DOI 10.5894/RGCI201
+   Tudor DT, 2002, J COASTAL RES, P716
+   Viehman S, 2011, MAR POLLUT BULL, V62, P2771, DOI 10.1016/j.marpolbul.2011.09.010
+   Williams A., 2009, BEACH MANAGEMENT PRI
+   Williams AT, 2017, MAR POLLUT BULL, V122, P47, DOI 10.1016/j.marpolbul.2017.05.066
+   Williams A. T, 2018, ENCY COASTAL SCI
+   Williams AT, 2016, MAR POLLUT BULL, V107, P77, DOI 10.1016/j.marpolbul.2016.04.015
+   Williams AT, 2016, TOURISM MANAGE, V55, P209, DOI 10.1016/j.tourman.2016.02.008
+   Williams AT, 1997, J COASTAL RES, V13, P1159
+   Willis KA, 2017, FRONT MAR SCI, V4, DOI 10.3389/fmars.2017.00419
+   Woodroffe CD., 2002, COASTS FORM PROCESS
+   WRIGHT LD, 1984, MAR GEOL, V56, P93, DOI 10.1016/0025-3227(84)90008-2
+NR 53
+TC 0
+Z9 0
+U1 3
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0025-326X
+EI 1879-3363
+J9 MAR POLLUT BULL
+JI Mar. Pollut. Bull.
+PD NOV
+PY 2018
+VL 136
+BP 435
+EP 447
+DI 10.1016/j.marpolbul.2018.09.040
+PG 13
+WC Environmental Sciences; Marine & Freshwater Biology
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA HA6IJ
+UT WOS:000450382900046
+PM 30509827
+DA 2019-03-26
+ER
+
+PT J
+AU Liu, CQ
+   Geng, H
+   Shen, P
+   Wang, QG
+   Shi, K
+AF Liu, Chunqiong
+   Geng, Hui
+   Shen, Peng
+   Wang, Qingeng
+   Shi, Kai
+TI Coupling detrended fluctuation analysis of the relationship between O-3
+   and its precursors -a case study in Taiwan
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Ozone; CDFA; Long-term persistence; O-3-NMHCs-NOx sensitivity;
+   Multifractal features
+ID CROSS-CORRELATION ANALYSIS; GROUND-LEVEL OZONE; TIME-SERIES;
+   TROPOSPHERIC OZONE; TEMPORAL VARIATION; NOX; POLLUTION; TEMPERATURE;
+   SENSITIVITY; TRANSPORT
+AB The relationship between ozone and its main precursors exhibits complex non-linear feature in the atmospheric photochemical system. Therefore, sophisticated mathematical and nonlinear methods are very important for studying the O-3 sensitivity to its precursors and improving the O-3 prediction model. In this study, the coupling detrended fluctuation analysis (CDFA) method has been used to investigate the multi-temporal scaling pattern of coupling correlations between O-3 and its precursors. Hourly concentrations of ozone (O-3), nitrogen oxide (NOx) and non-methane hydrocarbons (NMHCs) from 1 March 2016 to 28 February 2017 of two traffic monitoring sites in Taiwan are analyzed. Coupling multifractality features are confirmed in the temporal distribution of coupling correlations between O-3 and its precursors. And the sources of coupling multifractal features are investigated by the phase randomized surrogates and the shuffling procedures. Moreover, in order to confirm the ozone sensitivity to its precursors at different time scales, a novel dynamical index, namely the coupling sensitivity degree (CSD), is introduced based on CDFA method. High temporal scale resolution of the O-3-NMHCs-NOx sensitivity is presented based on the concept of sliding window. And the O-3-NMHCs-NOx sensitivity regime can be shown visually by the temporal evolutions of the CSD on the whole year. Furthermore, statistics of seasonal CSD values are obtained by averaging the hourly sliding values. Result shows that the CSD values for both NMHCs and NOx are greatest in summer due to the more active photochemical reaction, compared to the other seasons. Meanwhile, the photochemical system is more sensitive to NMHCs for the two sites, which is consistent with the characteristics of pollutant emissions in the urban traffic area. At last, the diurnal pattern of the CSD for NMHCs and NOx are investigated. It is found that the greatest CSD for both NMHCs and NOx series are synchronized to the maximum O-3 generation. This study provides a feasible and effective dynamical index to describe O-3-NOx-NMHCs sensitivity, and suggests a new approach to improve the ozone prediction models in the photochemical system.
+C1 [Liu, Chunqiong; Geng, Hui; Wang, Qingeng] Nanjing Univ, Sch Environm, State Key Lab Pollut Control & Resources Reuse, Nanjing, Jiangsu, Peoples R China.
+   [Liu, Chunqiong; Shi, Kai] Jishou Univ, Coll Biol & Environm Sci, Jishou, Hunan, Peoples R China.
+   [Shen, Peng] Chinese Res Inst Environm Sci, Beijing, Peoples R China.
+RP Wang, QG (reprint author), Nanjing Univ, Sch Environm, State Key Lab Pollut Control & Resources Reuse, Nanjing, Jiangsu, Peoples R China.; Shi, K (reprint author), Jishou Univ, Coll Biol & Environm Sci, Jishou, Hunan, Peoples R China.
+EM wangqg@nju.edu.cn; shikai@jsu.edu.cn
+FU National Natural Science Foundation of China [41465010, 41603128];
+   Scientific Research Fund of Hunan Province Education Department
+   [16A172]; Hunan Provincial Natural Science Foundation of China
+   [2017JJ2219]
+FX The work is supported by the National Natural Science Foundation of
+   China (No. 41465010 and 41603128), Scientific Research Fund of Hunan
+   Province Education Department (No.16A172) and Hunan Provincial Natural
+   Science Foundation of China (No. 2017JJ2219).
+CR Abdul-Wahab SA, 2001, PROCESS SAF ENVIRON, V79, P117, DOI 10.1205/09575820151095201
+   Brauer M, 1997, ATMOS ENVIRON, V31, P2113, DOI 10.1016/S1352-2310(96)00129-X
+   Brulfert G, 2007, ATMOS ENVIRON, V41, P3777, DOI 10.1016/j.atmosenv.2007.01.030
+   Camp CD, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2001JD001504
+   Chen KS, 2004, J AIR WASTE MANAGE, V54, P36, DOI 10.1080/10473289.2004.10470880
+   Chou CCK, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD010446
+   Dong QL, 2017, ENVIRON POLLUT, V222, P444, DOI 10.1016/j.envpol.2016.11.090
+   Hedayatifar L, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.021138
+   HOUGH AM, 1990, NATURE, V344, P645, DOI 10.1038/344645a0
+   Kley D, 1999, ENVIRON POLLUT, V100, P19, DOI 10.1016/S0269-7491(99)00086-X
+   Kumar U, 2008, AEROSOL AIR QUAL RES, V8, P147
+   Kwak KH, 2012, ATMOS ENVIRON, V46, P71, DOI 10.1016/j.atmosenv.2011.10.024
+   Lee CK, 2006, CHEMOSPHERE, V62, P934, DOI 10.1016/j.chemosphere.2005.05.046
+   Lee CK, 2003, ENVIRON MODELL SOFTW, V18, P243, DOI 10.1016/S1364-8152(02)00078-6
+   Lee DS, 1996, ATMOS ENVIRON, V30, P1053, DOI 10.1016/1352-2310(95)00407-6
+   Liang G.Z., 1987, GEOGR RES, V6, P79
+   LIPPMANN M, 1991, ENVIRON SCI TECHNOL, V25, P1954, DOI 10.1021/es00024a001
+   Liu ZH, 2015, ATMOS POLLUT RES, V6, P886, DOI 10.5094/APR.2015.098
+   Mandelbrot B.B., 1982, FRACTAL GEOMETRY NAT, P1
+   MCKEEN SA, 1991, J GEOPHYS RES-ATMOS, V96, P15377, DOI 10.1029/91JD01282
+   MILFORD JB, 1994, J GEOPHYS RES-ATMOS, V99, P3533, DOI 10.1029/93JD03224
+   NRC, 1993, ENVIRON INT, V19, P102
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   Podobnik B, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.084102
+   Sharma A, 2016, SUSTAIN ENVIRON RES, V26, P76, DOI 10.1016/j.serj.2015.10.001
+   Sharma S, 2017, ATMOS ENVIRON, V159, P34, DOI 10.1016/j.atmosenv.2017.03.047
+   Shen CH, 2016, PHYSICA A, V451, P171, DOI 10.1016/j.physa.2016.01.061
+   Shi K, 2015, AEROSOL AIR QUAL RES, V15, P926, DOI 10.4209/aaqr.2014.05.0091
+   Shi K, 2014, ATMOS ENVIRON, V97, P130, DOI 10.1016/j.atmosenv.2014.08.016
+   Shi K, 2009, FRACTALS, V17, P513, DOI 10.1142/S0218348X09004454
+   Shi K, 2009, ATMOS ENVIRON, V43, P3301, DOI 10.1016/j.atmosenv.2009.04.013
+   Shi K, 2008, NONLINEAR ANAL-REAL, V9, P693, DOI 10.1016/j.nonrwa.2007.06.003
+   Shinji S., 2002, ATMOS ENVIRON, V36, P1277
+   Sillman S, 1999, ATMOS ENVIRON, V33, P1821, DOI 10.1016/S1352-2310(98)00345-8
+   SILLMAN S, 1990, J GEOPHYS RES-ATMOS, V95, P1837, DOI 10.1029/JD095iD02p01837
+   The Royal Society, 2008, GROUND LEV OZ 21 CEN
+   THEILER J, 1992, PHYSICA D, V58, P77, DOI 10.1016/0167-2789(92)90102-S
+   Varotsos C, 2006, ATMOS CHEM PHYS, V6, P4093, DOI 10.5194/acp-6-4093-2006
+   Wakamatsu S, 1999, ATMOS ENVIRON, V33, P3097, DOI 10.1016/S1352-2310(97)00493-7
+   Wang T, 2010, ATMOS CHEM PHYS, V10, P7603, DOI 10.5194/acp-10-7603-2010
+   Wang T, 2017, SCI TOTAL ENVIRON, V575, P1582, DOI 10.1016/j.scitotenv.2016.10.081
+   Wei W, 2014, J ENVIRON SCI-CHINA, V26, P332, DOI 10.1016/S1001-0742(13)60412-X
+   Windsor HL, 2001, ATMOS ENVIRON, V35, P4545, DOI 10.1016/S1352-2310(01)00208-4
+   Xue LK, 2014, ATMOS CHEM PHYS, V14, P13175, DOI 10.5194/acp-14-13175-2014
+   Yuval, 2010, ENVIRON SCI TECHNOL, V44, P4629, DOI 10.1021/es903495q
+   Zeng Z.X., 1954, J GEOGR, V20, P211
+   Zhang C, 2015, PHYSICA A, V438, P114, DOI 10.1016/j.physa.2015.06.039
+NR 47
+TC 1
+Z9 1
+U1 5
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD SEP
+PY 2018
+VL 188
+BP 18
+EP 24
+DI 10.1016/j.atmosenv.2018.06.022
+PG 7
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA GO6BL
+UT WOS:000440119000003
+DA 2019-03-26
+ER
+
+PT J
+AU Pattenden, J
+AF Pattenden, Jonathan
+TI The politics of classes of labour: fragmentation, reproduction zones and
+   collective action in Karnataka, India
+SO JOURNAL OF PEASANT STUDIES
+LA English
+DT Article
+DE classes of labour; collective action; informality; agrarian; India;
+   precarity
+ID ACCUMULATION; STRUGGLES; ACTIVISM; POWER
+AB In the contemporary global economy, new technologies are growing the reserve army' of labour, while the wage-system is becoming increasingly unable to meet workers' basic needs'. Bernstein's concept of classes of labour' refers to the growing proportion of the world's population that is now compelled to reproduce itself through various forms of petty production and wage-labour that is increasingly scarce, informal and precarious. Rather than more visible' locations in global production networks, this paper focuses on the under-researched majority of labourers who have little structural or associational power. Drawing on fieldwork in India, the paper seeks out the social, spatial and temporal forms of labour's collective action by analysing spatial patterns of reproduction and forms of control. Inflected with the agency of both capital and labour, these local labour control regimes' are shown to vary across two contrasting reproduction zones': a commuting zone that links villages to nearby cities, and a circulation zone that links remote villages to a distant city. The paper analyses how collective action varies across the two zones', and considers the possibilities for scaling up, consolidating and extending class struggle.
+C1 [Pattenden, Jonathan] Univ East Anglia, Dev Studies, Norwich, Norfolk, England.
+RP Pattenden, J (reprint author), Univ East Anglia, Dev Studies, Norwich, Norfolk, England.
+EM j.pattenden@uea.ac.uk
+CR Agarwala R. N., 2013, INFORMAL LABOUR FORM
+   Baglioni E, 2017, ENVIRON PLANN A, V49, P2437, DOI 10.1177/0308518X17728517
+   BANAJI J, 1994, J PEASANT STUD, V21, P228, DOI 10.1080/03066159408438561
+   Barrientos S., 2004, Journal of International Development, V16, P81, DOI 10.1002/jid.1064
+   Barrientos SW, 2013, J DEV STUD, V49, P1058, DOI 10.1080/00220388.2013.780040
+   Bernstein H, 2006, CAN J DEV STUD, V27, P449, DOI 10.1080/02255189.2006.9669166
+   Borras SM, 2011, J PEASANT STUD, V38, P209, DOI 10.1080/03066150.2011.559005
+   Breman J., 1996, FOOTLOOSE LABOUR WOR
+   Brookes M, 2017, DEV CHANGE, V48, P922, DOI 10.1111/dech.12330
+   Burawoy M., 1985, POLITICS PRODUCTION
+   Burawoy M, 2010, GLOB LABOUR J, V1, P301
+   CWM (Centre for Workers Management), WAG WORK INT STUD GA
+   De Neve G, 2014, MOD ASIAN STUD, V48, P1302, DOI 10.1017/S0026749X13000747
+   Government of India, 2017, EC SURV 2016 17
+   Harriss J., 2011, ECON POLIT WEEKLY, V45, P47
+   Harriss-White B., 2005, 134 QEH U OXF
+   Jonas AEG, 1996, REG STUD, V30, P323, DOI 10.1080/00343409612331349688
+   Kapadia K., 1995, SIVA HER SISTERS GEN
+   Lerche J., 2010, COMP POLITICAL EC DE, P64
+   Levien M, 2011, J AGRAR CHANGE, V11, P454, DOI 10.1111/j.1471-0366.2011.00329.x
+   Marx Karl, 1976, CAPITAL CRITIQUE POL, V1
+   Merk J, 2009, THIRD WORLD Q, V30, P599, DOI 10.1080/01436590902742354
+   Mezzadri A., 2016, SWEATSHOP REGIME LAB
+   Milkman R., 2010, WORKING JUSTICE L A, P1
+   Milne S, 2015, CRIT ASIAN STUD, V47, P200, DOI 10.1080/14672715.2015.1041275
+   Moore Jason W, 2015, CAPITALISM WEB LIFE
+   NSSO (Government of India), 2013, KEY IND EMPL UN IND
+   Patnaik U., 1976, ECON POLIT WEEKLY, V11, pA82
+   Pattenden J., 2005, Economic and Political Weekly, V40, P1975
+   Pattenden J., 2016, LABOUR STATE SOC RUR
+   Pattenden J, 2016, THIRD WORLD Q, V37, P1809, DOI 10.1080/01436597.2016.1191939
+   Pattenden J, 2011, J AGRAR CHANGE, V11, P164, DOI 10.1111/j.1471-0366.2010.00300.x
+   Poulantzas N., 1978, STATE POWER SOCIALIS
+   Riisgaard L, 2011, BRIT J IND RELAT, V49, P168, DOI 10.1111/j.1467-8543.2009.00744.x
+   Scott J., 1985, WEAPONS WEAK EVERYDA
+   Scott James C., 1990, DOMINATION ARTS RESI
+   Selwyn B., 2014, GLOBAL DEV CRISIS
+   Shridar V., 2016, FRONTLINE
+   Silver B. J, 2003, FORCES LABOUR WORKER
+   Srija A., 2014, EC MATTERS J CON SEP, p
+   Srivastava R., 2016, 2 SOAS
+   Srivastava R, 2012, GLOB LABOUR J, V3, P63
+   Swider Sarah., 2015, BUILDING CHINA INFOR
+   Van der Loop T., 1996, IND DYNAMICS FRAGMEN
+   Vijayabaskar M., 2016, ENVIRON PLANN C, P1
+   Vikas Rawal, 2008, Economic and Political Weekly, V43, P43
+   Waterman P., 1993, REVIEW, V16, P246
+   Wetlesen A., 2016, THESIS
+   Wilson K, 1999, J PEASANT STUD, V26, P316, DOI 10.1080/03066159908438710
+   Wright EO, 2000, AM J SOCIOL, V105, P957, DOI 10.1086/210397
+   Zajak S, 2017, DEV CHANGE, V48, P1007, DOI 10.1111/dech.12327
+   Zajak S, 2017, DEV CHANGE, V48, P899, DOI 10.1111/dech.12336
+NR 52
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0306-6150
+EI 1743-9361
+J9 J PEASANT STUD
+JI J. Peasant Stud.
+PY 2018
+VL 45
+IS 5-6
+BP 1039
+EP 1059
+DI 10.1080/03066150.2018.1495625
+PG 21
+WC Anthropology; Development Studies
+SC Anthropology; Development Studies
+GA HC8ND
+UT WOS:000452059100009
+DA 2019-03-26
+ER
+
+PT J
+AU Tchuenche, M
+   Njeuhmeli, E
+   Schutte, C
+   Ngubeni, L
+   Choge, I
+   Martin, E
+   Loykissoonlai, D
+   Kiggundu, V
+   Yansaneh, A
+   Forsythe, S
+AF Tchuenche, Michel
+   Njeuhmeli, Emmanuel
+   Schutte, Carl
+   Ngubeni, Lahla
+   Choge, Isaac
+   Martin, Enilda
+   Loykissoonlai, Dayanund
+   Kiggundu, Valerian
+   Yansaneh, Aisha
+   Forsythe, Steven
+TI Voluntary medical male circumcision service delivery in South Africa:
+   The economic costs and potential opportunity for private sector
+   involvement
+SO PLOS ONE
+LA English
+DT Article
+AB Background
+   In 2010, the South African Government initiated a voluntary medical male circumcision (VMMC) program as a part of the country's HIV prevention strategy based on compelling evidence that VMMC reduces men's risk of becoming HIV infected by approximately 60%. A previous VMMC costing study at Government and PEPFAR-supported facilities noted that the lack of sufficient data from the private sector represented a gap in knowledge concerning the overall cost of scaling up VMMC services. This study, conducted in mid-2016, focused on surgical circumcision and aims to address this limitation.
+   Methods
+   VMMC service delivery cost data were collected at 13 private facilities in three provinces in South Africa: Gauteng, KwaZulu-Natal, and Mpumalanga. Unit costs were calculated using a bottom-up approach by cost components, and then disaggregated by facility type and urbanization level. VMMC demand creation, and higher-level management and program support costs were not collected. The unit cost of VMMC service delivery at private facilities in South Africa was calculated as a weighted average of the unit costs at the 13 facilities.
+   Key findings
+   At the average annual exchange rate of R10.83 = $1, the unit cost including training and cost of continuous quality improvement (CQI) to provide VMMC at private facilities was $137. The largest cost components were consumables (40%) and direct labor (35%). Eleven out of the 13 surveyed private sector facilities were fixed sites (with a unit cost of $142), while one was a fixed site with outreach services (with a unit cost of $156), and the last one provided services at a combination of fixed, outreach and mobile sites (with a unit cost per circumcision performed of $123). The unit cost was not substantially different based on the level of urbanization: $141, $129, and $143 at urban, pen-urban, and rural facilities, respectively.
+   Conclusions
+   The private sector VMMC unit cost ($137) did not differ substantially from that at government and PEPFAR-supported facilities ($132 based on results from a similar study conducted in 2014 in South Africa at 33 sites across eight of the countries nine provinces). The two largest cost drivers, consumables and direct labor, were comparable across the two studies (75% in private facilities and 67% in public/PEPFAR-supported facilities). Results from this study provide VMMC unit cost data that had been missing and makes an important contribution to a better understanding of the costs of VMMC service delivery, enabling VMMC programs to make informed decisions regarding funding levels and scale-up strategies for VMMC in South Africa.
+C1 [Tchuenche, Michel; Forsythe, Steven] Avenir Hlth, Project SOAR Supporting Operat AIDS Res, Washington, DC 20012 USA.
+   [Njeuhmeli, Emmanuel; Kiggundu, Valerian; Yansaneh, Aisha] USAID, Washington, DC USA.
+   [Schutte, Carl] Strateg Dev Consultants, Kwa Zulu, South Africa.
+   [Ngubeni, Lahla] Avenir Hlth Consultant, Johannesburg, South Africa.
+   [Choge, Isaac; Martin, Enilda] USAID, Pretoria, South Africa.
+   [Loykissoonlai, Dayanund] Natl Dept Hlth, Pretoria, South Africa.
+RP Tchuenche, M (reprint author), Avenir Hlth, Project SOAR Supporting Operat AIDS Res, Washington, DC 20012 USA.
+EM jmtchuenche@avenirhealth.org
+FU American people through the U.S. President's Emergency Plan for AIDS
+   Relief (PEPFAR); U.S. Agency for International Development (USAID) under
+   the Cooperative Agreement Project SOAR (Supporting Operational AIDS
+   Research) [AID-OAA-A-1400060]; National Department of Health; PEPFAR
+   (Alfred Bere CDC/South Africa)
+FX This manuscript is made possible by the generous support of the American
+   people through the U.S. President's Emergency Plan for AIDS Relief
+   (PEPFAR) with the U.S. Agency for International Development (USAID)
+   under the Cooperative Agreement Project SOAR (Supporting Operational
+   AIDS Research), number AID-OAA-A-1400060. Carl Schutte is employed by
+   Strategic Development Consultants. Strategic Development Consultants
+   provided support in the form of salary for author CS and research
+   materials but did not have any additional role in the study design data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript. The specific roles of these authors are articulated in the
+   'author contributions' section. Michel Tchuenche and Steven Forsythe are
+   employed by Avenir Health. Lahla Ngubeni was contracted by Avenir
+   Health. Avenir Health provided support in the form of salaries for
+   authors MT, LN and SF but did not have any additional role in the study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript. The specific roles of these authors are
+   articulated in the 'author contributions' section. The information
+   provided does not necessarily reflect the views of USAID or the United
+   States Government, and the contents of this article are the sole
+   responsibility of Projects SOAR, the Population Council, and the
+   authors.; The authors would like to acknowledge the support provided the
+   National Department of Health (especially Dr. Yogan Pillay, Mr. Collen
+   Bonnecwe, and Mr. Nqeketo Ayanda) and PEPFAR (Alfred Bere CDC/South
+   Africa). The support and cooperation of all general practitioners
+   approached and the Southern African Clothing and Textile Workers' Union
+   (SACTWU) in KwaZulu-Natal were instrumental in gathering private sector
+   data for this costing study. We would also like to thank Peter Stegman
+   for his suggested edits; Siraaj Adams (Metropolitan Health Risk
+   Management) and Dr S. Maphisa for initial discussions in 2014 on the
+   private sector medical male circumcision activities in South Africa.
+CR Bertrand JT, 2013, SYSTEMATIC MONITORIN
+   Bollinger L, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0084701
+   Dulli L, 2010, EXAMINING CAPACITY P
+   George G, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0179854
+   Health Policy Initiative, 2010, COST WORKB NGO HLTH
+   Joint United Nations Programme on HIV/AIDS (UNAIDS), 2014, JOINT UN PROGRAMME H
+   Kripke K, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0156909
+   Kripke K, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0158767
+   Larson B, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0119484
+   Menon V, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0083925
+   Njeuhmeli E, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001132
+   Siegfried N, 2009, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD003362.pub2
+   South African National AIDS Committee (SANAC), 2011, NAT STRAT PLAN HIV S
+   Tchuenche M, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0164147
+   Tchuenche M, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0160207
+   World Health Organization, COST EFF STRAT PLANN
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 17
+PY 2018
+VL 13
+IS 12
+AR e0208698
+DI 10.1371/journal.pone.0208698
+PG 15
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA HE5TK
+UT WOS:000453451000037
+PM 30557330
+OA DOAJ Gold
+DA 2019-03-26
+ER

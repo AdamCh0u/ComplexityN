@@ -1,0 +1,662 @@
+
+PT J
+AU Mohareb, E
+   Heller, M
+   Novak, P
+   Goldstein, B
+   Fonoll, X
+   Raskin, L
+AF Mohareb, Eugene
+   Heller, Martin
+   Novak, Paige
+   Goldstein, Benjamin
+   Fonoll, Xavier
+   Raskin, Lutgarde
+TI Considerations for reducing food system energy demand while scaling up
+   urban agriculture
+SO ENVIRONMENTAL RESEARCH LETTERS
+LA English
+DT Article
+DE urban agriculture; energy; food systems; resource efficiency; industrial
+   ecology; local food; food-energy-water nexus
+ID GREENHOUSE-GAS EMISSIONS; LIFE-CYCLE ASSESSMENT; ANAEROBIC MEMBRANE
+   BIOREACTOR; WASTE-WATER; UNITED-STATES; TOMATO PRODUCTION; ENVIRONMENTAL
+   IMPACTS; VEGETABLE PRODUCTION; ECOSYSTEM SERVICES; ECONOMIC-IMPACTS
+AB There is an increasing global interest in scaling up urban agriculture (UA) in its various forms, from private gardens to sophisticated commercial operations. Much of this interest is in the spirit of environmental protection, with reduced waste and transportation energy highlighted as some of the proposed benefits of UA; however, explicit consideration of energy and resource requirements needs to be made in order to realize these anticipated environmental benefits. A literature review is undertaken here to provide new insight into the energy implications of scaling up UA in cities in high-income countries, considering UA classification, direct/indirect energy pressures, and interactions with other components of the food-energy-water nexus. This is followed by an exploration of ways in which these cities can plan for the exploitation of waste flows for resource-efficient UA.
+   Given that it is estimated that the food system contributes nearly 15% of total US energy demand, optimization of resource use in food production, distribution, consumption, and waste systems may have a significant energy impact. There are limited data available that quantify resource demand implications directly associated with UA systems, highlighting that the literature is not yet sufficiently robust to make universal claims on benefits. This letter explores energy demand from conventional resource inputs, various production systems, water/energy trade-offs, alternative irrigation, packaging materials, and transportation/supply chains to shed light on UA-focused research needs.
+   By analyzing data and cases from the existing literature, we propose that gains in energy efficiency could be realized through the co-location of UA operations with waste streams (e.g. heat, CO2, greywater, wastewater, compost), potentially increasing yields and offsetting life cycle energy demands relative to conventional approaches. This begs a number of energy-focused UA research questions that explore the opportunities for integrating the variety of UA structures and technologies, so that they are better able to exploit these urban waste flows and achieve whole-system reductions in energy demand. Any planning approach to implement these must, as always, assess how context will influence the viability and value added from the promotion of UA.
+C1 [Mohareb, Eugene] Univ Reading, Sch Built Environm, Reading, Berks, England.
+   [Heller, Martin] Univ Michigan, Ctr Sustainable Syst, Ann Arbor, MI 48109 USA.
+   [Novak, Paige] Univ Minnesota, Dept Civil Environm & Geoengn, Minneapolis, MN 55455 USA.
+   [Goldstein, Benjamin] Tech Univ Denmark, Div Quantitat Sustainabil Assessment, Lyngby, Denmark.
+   [Goldstein, Benjamin] Univ Michigan, Sch Environm & Sustainabil, Ann Arbor, MI 48109 USA.
+   [Fonoll, Xavier; Raskin, Lutgarde] Univ Michigan, Civil & Environm Engn, Ann Arbor, MI 48109 USA.
+RP Mohareb, E (reprint author), Univ Reading, Sch Built Environm, Reading, Berks, England.
+EM e.mohareb@reading.ac.uk
+OI Goldstein, Benjamin Paul/0000-0003-0055-1323; Mohareb,
+   Eugene/0000-0003-0344-2253; Heller, Martin/0000-0001-9204-6222; Novak,
+   Paige/0000-0001-9054-0278
+FU National Science Foundation (NSF) [1541838]; NSF Sustainability Research
+   Networks grant [1444745]; REFRESCH (Global Challenges for the Third
+   Century program, Office of the Provost, University of Michigan)
+FX This research was initiated through work completed during the National
+   Science Foundation (NSF, grant number 1541838) funded workshop held
+   October 5-6 at the University of Michigan entitled "Scaling' Up Urban
+   Agriculture to Mitigate Food-Energy-Water-Impacts'. XF and LR
+   acknowledge support from the NSF Sustainability Research Networks grant
+   1444745, and REFRESCH (Global Challenges for the Third Century program,
+   Office of the Provost, University of Michigan). The authors thank Glen
+   Daigger, Tim Dixon, Nancy Love, Josh Newell and Martin Sexton for
+   comments on various iterations of this manuscript.
+CR Ackerman K., 2012, POTENTIAL URBAN AGR
+   Ackerman K, 2014, ECON SOC REV, V45, P189
+   Albaho M., 2008, International Journal of Vegetable Science, V14, P23
+   Alexander C., 1977, PATTERN LANGUAGE
+   Almeida J, 2014, J IND ECOL, V18, P898, DOI 10.1111/jiec.12169
+   Althaus H-J, 2003, PROCESS STEEL PRODUC
+   Altieri M. A., 1999, Agriculture and Human Values, V16, P131, DOI 10.1023/A:1007545304561
+   Amoah P, 2007, J WATER HEALTH, V5, P455, DOI 10.2166/wh.2007.041
+   Andrews T, 2017, SUSTAINABLE FOOD CIT
+   [Anonymous], 2011, AEROPONICS AM HERITA
+   Audsley E, 1997, HARMONIZATION ENV LI
+   Barbosa GL, 2015, INT J ENV RES PUB HE, V12, P6879, DOI 10.3390/ijerph120606879
+   Barthel S, 2013, ECOL ECON, V86, P224, DOI 10.1016/j.ecolecon.2012.06.018
+   Bass B, 2001, 46737 NAT RES COUNC
+   Basset-Mens C, 2007, LCA FOODS C 5 INT C
+   Bernstad A, 2011, WASTE MANAGE, V31, P1879, DOI 10.1016/j.wasman.2011.02.026
+   Binkley D, 2013, ENERG POLICY, V53, P341, DOI 10.1016/j.enpol.2012.10.065
+   BOckman O. C., 1990, AGR FERTILIZERS
+   Boulard T, 2011, AGRON SUSTAIN DEV, V31, P757, DOI 10.1007/s13593-011-0031-3
+   Brodt S, 2013, FOOD POLICY, V42, P106, DOI 10.1016/j.foodpol.2013.07.004
+   Butler WH, 2011, J AGR FOOD SYST COMM, V2, P193
+   Canning P, 2010, 94 USDA ERS
+   Carol M, 2010, 1001 POLIS RES
+   Center for Sustainable Systems, 2014, US WAST TREATM
+   Ceron-Palma I, 2012, J URBAN TECHNOL, V19, P87, DOI 10.1080/10630732.2012.717685
+   Chen SQ, 2012, APCBEE PROC, V1, P169, DOI 10.1016/j.apcbee.2012.03.027
+   Clift R, 2016, TAKING STOCK IND ECO, P373
+   Coley D, 2009, FOOD POLICY, V34, P150, DOI 10.1016/j.foodpol.2008.11.001
+   Curtis T. P, 2010, ENV MICROBIOLOGY
+   Delor M., 2011, CURRENT STATE BUILDI
+   Despommier D, 2013, TRENDS BIOTECHNOL, V31, P388, DOI 10.1016/j.tibtech.2013.03.008
+   Edwards-Jones G, 2008, TRENDS FOOD SCI TECH, V19, P265, DOI 10.1016/j.tifs.2008.01.008
+   EIA, 2010, TRENDS US RES NAT GA
+   Electric Power Research Institute, 2002, US EL CONS WAT SUPPL, V4
+   Elsayed M., 2003, BB600784REPURN03836
+   EPA (U. S. Environmental Protection Agency), 2008, ENS SUST FUT EN MAN
+   Esengun K, 2007, RENEW ENERG, V32, P1873, DOI 10.1016/j.renene.2006.07.005
+   FAO, 2010, FAO STAT YB
+   FAO, 2013, CLIM SMART AGR SOURC
+   FAO, 2001, LIV KEEP URB AR
+   Foley JA, 2011, NATURE, V478, P337, DOI 10.1038/nature10452
+   Fonoll X, 2015, CHEM ENG J, V262, P1268, DOI 10.1016/j.cej.2014.10.045
+   Forkes J, 2007, RESOUR CONSERV RECY, V52, P74, DOI 10.1016/j.resconrec.2007.02.003
+   Francis CA, 2012, INT J AGR SUSTAIN, V10, P8, DOI 10.1080/14735903.2012.649588
+   Garfi M, 2011, WASTE MANAGE, V31, P2584, DOI 10.1016/j.wasman.2011.08.007
+   Garnett T, 1997, ECOLOGIST, V26, P299
+   Garnett T, 1999, URBAN AGR LONDON RET
+   Garnett T, 2011, FOOD POLICY, V36, pS23, DOI 10.1016/j.foodpol.2010.10.010
+   Gibbs D, 2007, J CLEAN PROD, V15, P1683, DOI 10.1016/j.jclepro.2007.02.003
+   Goldstein B, 2016, J CLEAN PROD, V135, P984, DOI 10.1016/j.jclepro.2016.07.004
+   Goldstein B, 2016, AGRON SUSTAIN DEV, V36, DOI 10.1007/s13593-015-0348-4
+   Goldstein BP, 2017, ENVIRON SCI TECHNOL, V51, P7340, DOI 10.1021/acs.est.7b01011
+   Gorgolewski M, 2017, CARROT CITY INITIATI
+   Grard BJP, 2015, FUTURE FOOD, V3, P21
+   Grewal SS, 2012, CITIES, V29, P1, DOI 10.1016/j.cities.2011.06.003
+   Hamilton AJ, 2014, AGRON SUSTAIN DEV, V34, P45, DOI 10.1007/s13593-013-0155-8
+   Hamm M. W., 2015, FEEDING CITIES INDOO
+   Hansen TL, 2006, WASTE MANAGE RES, V24, P153, DOI 10.1177/0734242X06063053
+   Hanssen OJ, 2017, J CLEAN PROD, V142, P395, DOI 10.1016/j.jclepro.2015.12.012
+   Hatirli SA, 2006, RENEW ENERG, V31, P427, DOI 10.1016/j.renene.2005.04.007
+   Heidari MD, 2011, ENERGY, V36, P220, DOI 10.1016/j.energy.2010.10.048
+   Heller MC, 2015, J IND ECOL, V19, P391, DOI 10.1111/jiec.12174
+   Horst M, 2017, J AM PLANN ASSOC, V83, P277, DOI 10.1080/01944363.2017.1322914
+   Hospido A, 2009, INT J LIFE CYCLE ASS, V14, P381, DOI 10.1007/s11367-009-0091-7
+   Howe J, 1999, SUSTAIN DEV, V7, P13, DOI 10.1002/(SICI)1099-1719(199902)7:1<13::AID-SD100>3.0.CO;2-B
+   IPCC, 2006, IPCC GUIDELINES NATL
+   Jaffal I, 2012, RENEW ENERG, V43, P157, DOI 10.1016/j.renene.2011.12.004
+   Khan S, 2008, ENVIRON POLLUT, V152, P686, DOI 10.1016/j.envpol.2007.06.056
+   KIMBALL BA, 1983, AGRON J, V75, P779, DOI 10.2134/agronj1983.00021962007500050014x
+   Kiran EU, 2014, FUEL, V134, P389, DOI 10.1016/j.fuel.2014.05.074
+   Klein G., 2005, CEC7002005011SF
+   Krannich JM, 2006, CORNELL J LAW PUBLIC, V16, P56
+   Kulak M, 2013, LANDSCAPE URBAN PLAN, V111, P68, DOI 10.1016/j.landurbplan.2012.11.007
+   Kuswardhani N, 2013, ENERGY, V53, P83, DOI 10.1016/j.energy.2013.02.032
+   LEACH G, 1975, FOOD POLICY, V1, P62, DOI 10.1016/0306-9192(75)90009-3
+   Levis JW, 2011, ENVIRON SCI TECHNOL, V45, P7438, DOI 10.1021/es103556m
+   Loder A, 2014, LANDSCAPE URBAN PLAN, V126, P94, DOI 10.1016/j.landurbplan.2014.01.008
+   Mamais D, 2015, WATER SCI TECHNOL, V71, P303, DOI 10.2166/wst.2014.521
+   Martellozzo F, 2014, ENVIRON RES LETT, V9, DOI 10.1088/1748-9326/9/6/064025
+   Martinez-Blanco J, 2011, J CLEAN PROD, V19, P985, DOI 10.1016/j.jclepro.2010.11.018
+   McClintock N, 2013, LANDSCAPE URBAN PLAN, V111, P46, DOI 10.1016/j.landurbplan.2012.12.009
+   McCurry DL, 2014, ENVIRON SCI TECH LET, V1, P459, DOI 10.1021/ez500279a
+   Metson G, 2012, J IND ECOL, V16, P914, DOI 10.1111/j.1530-9290.2012.00554.x
+   Milan C, 2015, MILAN URBAN FOOD POL
+   Mohareb EA, 2011, J AIR WASTE MANAGE, V61, P480, DOI 10.3155/1047-3289.61.5.480
+   Mok HF, 2014, AGRON SUSTAIN DEV, V34, P21, DOI 10.1007/s13593-013-0156-7
+   Moller J, 2009, WASTE MANAGE RES, V27, P813, DOI 10.1177/0734242X09344876
+   Monlau F, 2016, APPL ENERG, V169, P652, DOI 10.1016/j.apenergy.2016.02.084
+   MORTENSEN LM, 1987, SCI HORTIC-AMSTERDAM, V33, P1, DOI 10.1016/0304-4238(87)90028-8
+   Mortimer ND, 2003, EVALUATION COMP ENER
+   Nicholson CF, 2015, ENVIRON SCI TECHNOL, V49, P12005, DOI 10.1021/acs.est.5b02892
+   OKE TR, 1973, ATMOS ENVIRON, V7, P769, DOI 10.1016/0004-6981(73)90140-6
+   Orsini F, 2014, FOOD SECUR, V6, P781, DOI 10.1007/s12571-014-0389-6
+   Orsini F, 2013, AGRON SUSTAIN DEV, V33, P695, DOI 10.1007/s13593-013-0143-z
+   Pagano M. A., 2000, VACANT LAND CITIES U
+   Pataki DE, 2011, FRONT ECOL ENVIRON, V9, P27, DOI 10.1890/090220
+   Payen S, 2015, J CLEAN PROD, V87, P139, DOI 10.1016/j.jclepro.2014.10.007
+   Pelletier N, 2011, ANNU REV ENV RESOUR, V36, P223, DOI 10.1146/annurev-environ-081710-161014
+   Pimentel D, 2008, HUM ECOL, V36, P459, DOI 10.1007/s10745-008-9184-3
+   Pirog R, 2001, FOOD FUEL FREEWAYS I
+   Plawecki R, 2014, RENEW AGR FOOD SYST, V29, P310, DOI 10.1017/S1742170513000161
+   Racoviceanu AI, 2007, J INFRASTRUCT SYST, V13, P261, DOI 10.1061/(ASCE)1076-0342(2007)13:4(261)
+   Ramaswami A, 2017, ENVIRON RES LETT, V12, DOI 10.1088/1748-9326/aa5556
+   Riva C, 2014, WASTE MANAGE, V34, P1429, DOI 10.1016/j.wasman.2014.04.018
+   Romero-Guiza MS, 2014, APPL ENERG, V135, P63, DOI 10.1016/j.apenergy.2014.08.077
+   Saiz S, 2006, ENVIRON SCI TECHNOL, V40, P4312, DOI 10.1021/es0517522
+   Sanscartier D, 2012, ENVIRON SCI TECHNOL, V46, P1233, DOI 10.1021/es2016268
+   Sanye-Mengual E, 2015, INT J LIFE CYCLE ASS, V20, P350, DOI 10.1007/s11367-014-0836-9
+   Schafft KA, 2009, RURAL SOCIOL, V74, P153, DOI 10.1111/j.1549-0831.2009.tb00387.x
+   Shiina T, 2011, ACTA HORTIC, V919, P115
+   Shrestha S, 2017, BIORESOURCE TECHNOL, V245, P1245, DOI 10.1016/j.biortech.2017.08.089
+   Smil V., 2004, ENV SCI, V1, P17, DOI DOI 10.1076/EVMS.1.1.17.23766
+   Smit J., 1992, Environment and Urbanization, V4, P141, DOI 10.1177/095624789200400214
+   Smith A, 2001, WASTE MANAGEMENT OPT
+   Smith AL, 2014, ENVIRON SCI TECHNOL, V48, P5972, DOI 10.1021/es5006169
+   Smith AL, 2012, BIORESOURCE TECHNOL, V122, P149, DOI 10.1016/j.biortech.2012.04.055
+   Specht K, 2014, AGR HUM VALUES, V31, P33, DOI 10.1007/s10460-013-9448-4
+   Tamburini E, 2015, SUSTAINABILITY-BASEL, V7, P2915, DOI 10.3390/su7032915
+   Taylor JR, 2012, LANDSCAPE URBAN PLAN, V108, P57, DOI 10.1016/j.landurbplan.2012.08.001
+   Thebo AL, 2014, ENVIRON RES LETT, V9, DOI 10.1088/1748-9326/9/11/114002
+   U.S. Global Change Research Program, 2014, CLIMATE CHANGE IMPAC
+   United States Census Bureau, 2015, 2010 CENS URB RUR CL
+   United States Environmental Protection Agency, 2017, INV US GREENH GAS EM
+   US Department of Agriculture, 2014, NAT LEV DAT, V1
+   US Environmental Protection Agency, 2010, EV ENV IMP PACK FRES
+   US EPA, 2015, EGRID TABL 2012
+   USDA ERS, 2014, FARM LAB
+   USDA ERS, 2010, EN US US FOOD SYST
+   USDA ERS, 2013, FOOD AV DAT SYST
+   Vitiello D, 2014, J PLAN HIST, V13, P91, DOI 10.1177/1538513213507541
+   Wakefield S, 2007, HEALTH PROMOT INT, V22, P92, DOI 10.1093/heapro/dam001
+   Ward J D, 2015, J ENV STUD SCI, V5, P699
+   Webb J, 2013, INT J LIFE CYCLE ASS, V18, P1325, DOI 10.1007/s11367-013-0576-2
+   Weber CL, 2008, ENVIRON SCI TECHNOL, V42, P3508, DOI 10.1021/es702969f
+   West TO, 2002, AGR ECOSYST ENVIRON, V91, P217, DOI 10.1016/S0167-8809(01)00233-X
+   WHO, 2006, GUID SAF US WAST EXC, V1
+   Williams H, 2011, J CLEAN PROD, V19, P43, DOI 10.1016/j.jclepro.2010.08.008
+   Zhang SD, 2013, BIORESOURCE TECHNOL, V150, P496, DOI 10.1016/j.biortech.2013.09.076
+NR 138
+TC 1
+Z9 1
+U1 4
+U2 40
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1748-9326
+J9 ENVIRON RES LETT
+JI Environ. Res. Lett.
+PD DEC
+PY 2017
+VL 12
+IS 12
+AR 125004
+DI 10.1088/1748-9326/aa889b
+PG 16
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA FP3PV
+UT WOS:000417531000002
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Marti, R
+   Ribun, S
+   Aubin, JB
+   Colinon, C
+   Petit, S
+   Marjolet, L
+   Gourmelon, M
+   Schmitt, L
+   Breil, P
+   Cottet, M
+   Cournoyer, B
+AF Marti, Romain
+   Ribun, Sebastien
+   Aubin, Jean-Baptiste
+   Colinon, Celine
+   Petit, Stephanie
+   Marjolet, Laurence
+   Gourmelon, Michele
+   Schmitt, Laurent
+   Breil, Pascal
+   Cottet, Marylise
+   Cournoyer, Benoit
+TI Human-Driven Microbiological Contamination of Benthic and Hyporheic
+   Sediments of an Intermittent Peri-Urban River Assessed from MST and 16S
+   rRNA Genetic Structure Analyses
+SO FRONTIERS IN MICROBIOLOGY
+LA English
+DT Article
+DE peri-urban river; benthic and hyporheic sediments; microbial community;
+   high throughput sequencing (HTS); fecal contamination
+ID REAL-TIME PCR; SOURCE TRACKING MARKERS; BACTERIAL COMMUNITY STRUCTURE;
+   RUMINANT FECAL POLLUTION; GRAVEL-BED RIVER; FRESH-WATER; PATHOGEN
+   CONTAMINATION; SENSITIVE DETECTION; INDICATOR BACTERIA; BACTEROIDES
+AB Rivers are often challenged by fecal contaminations. The barrier effect of sediments against fecal bacteria was investigated through the use of a microbial source tracking (MST) toolbox, and by Next Generation Sequencing (NGS) of V5-V6 16S rRNA gene (rrs) sequences. Non-metric multi-dimensional scaling analysis of V5-V6 16S rRNA gene sequences differentiated bacteriomes according to their compartment of origin i.e., surface water against benthic and hyporheic sediments. Classification of these reads showed the most prevalent operating taxonomic units (OTU) to be allocated to Flavobacterium and Aquabacterium. Relative numbers of Gaiella, Haliangium, and Thermoleophilum OTU matched the observed differentiation of bacteriomes according to river compartments. OTU patterns were found impacted by combined sewer overflows (CSO) through an observed increase in diversity from the sewer to the hyporheic sediments. These changes appeared driven by direct transfers of bacterial contaminants from wastewaters but also by organic inputs favoring previously undetectable bacterial groups among sediments. These NGS datasets appeared more sensitive at tracking community changes than MST markers. The human-specific MST marker HF183 was strictly detected among CSO-impacted surface waters and not river bed sediments. The ruminant-specific DNA marker was more broadly distributed but intense bovine pollution was required to detect transfers from surface water to benthic and hyporheic sediments. Some OTU showed distribution patterns in line with these MST datasets such as those allocated to the Aeromonas, Acinetobacter, and Pseudomonas. Fecal indicators (Escherichia coli and total thermotolerant coliforms) were detected all over the river course but their concentrations were not correlated with MST ones. Overall, MST and NGS datasets suggested a poor colonization of river sediments by bovine and sewer bacterial contaminants. No environmental outbreak of these bacterial contaminants was detected.
+C1 [Marti, Romain; Ribun, Sebastien; Colinon, Celine; Petit, Stephanie; Marjolet, Laurence; Cournoyer, Benoit] Univ Lyon 1, Res Grp Bacterial Opportunist Pathogens & Environ, Ecol Microbienne INRA1418, UMR CNRS5557,VetAgro Sup, Marcy LEtoile, France.
+   [Aubin, Jean-Baptiste] INSA Lyon, DEEP, Villeurbanne, France.
+   [Gourmelon, Michele] IFREMER, Lab Sante Environm & Microbiol SG2M, RBE Dept, F-29280 Plouzane, France.
+   [Schmitt, Laurent] CNRS, ENGEES, LIVE 7362, LTER Zone Atelier Environm Urbaine, Strasbourg, France.
+   [Breil, Pascal] UR HHLY, Inst Natl Rech Sci & Technol Environm & Agr IRSTE, Villeurbanne, France.
+   [Cottet, Marylise] Environm Ville Soc, Ecole Normale Super Lyon ENS Lyon Descartes, UMR5600, Lyon, France.
+RP Cournoyer, B (reprint author), Univ Lyon 1, Res Grp Bacterial Opportunist Pathogens & Environ, Ecol Microbienne INRA1418, UMR CNRS5557,VetAgro Sup, Marcy LEtoile, France.
+EM benoit.cournoyer@vetagro-sup.fr
+OI Gourmelon, Michele/0000-0003-1654-0960; SCHMITT,
+   Laurent/0000-0002-7203-6032
+FU Ministere de l'Enseignement Superieur et de la Recherche; National
+   Research Agency (ANR) digestate project [ANR-15-CE34-0003-05]; French
+   National Research Agency (ANR) Invasion project [ANR-08-CESA 022];
+   RiViERE of IMU (Intelligence des Mondes Urbains) (France); Anses project
+   "pyo-eau" of "Programme Environnement-Sant-Travail" [2011/1/137]
+FX Authors thank the iBio platform (Universite de Lyon 1, UIVIR5557) for
+   bioinformatics processor resources and support. S. Petit was supported
+   by a PhD fellowship from the "Ministere de l'Enseignement Superieur et
+   de la Recherche." This work was partly funded by Anses project "pyo-eau"
+   #2011/1/137 of the "Programme Environnement-Sant-Travail" which is
+   coordinated by the French Ministers in charge of ecological
+   environmental issues, and by the French National Research Agency (ANR)
+   digestate (ANR-15-CE34-0003-05) and Invasion (ANR-08-CESA 022) projects,
+   and RiViERE project of Labex IMU (Intelligence des Mondes Urbains)
+   (France). This project was part of ZABR (Zone Atelier Bassin du RhOne),
+   and OTHU research actions.
+CR Ashbolt N., 2001, WATER QUALITY GUIDEL
+   Balleste E, 2010, APPL ENVIRON MICROB, V76, P7608, DOI 10.1128/AEM.00883-10
+   Battin TJ, 1999, MICROB ECOL, V37, P185, DOI 10.1007/s002489900142
+   Bernhard AE, 2000, APPL ENVIRON MICROB, V66, P1587, DOI 10.1128/AEM.66.4.1587-1594.2000
+   Bernhard AE, 2000, APPL ENVIRON MICROB, V66, P4571, DOI 10.1128/AEM.66.10.4571-4574.2000
+   Bradford SA, 2013, CRIT REV ENV SCI TEC, V43, P775, DOI 10.1080/10643389.2012.710449
+   Bradshaw JK, 2016, WATER RES, V101, P498, DOI 10.1016/j.watres.2016.05.014
+   Brookes JD, 2004, ENVIRON INT, V30, P741, DOI 10.1016/j.envint.2003.11.006
+   Bustin SA, 2009, CLIN CHEM, V55, P611, DOI 10.1373/clinchem.2008.112797
+   Camacho C, 2009, BMC BIOINFORMATICS, V10, DOI 10.1186/1471-2105-10-421
+   Carnahan A. M., 2005, PROTEOBACTERIA B
+   Craft JA, 2002, FRESHWATER BIOL, V47, P251, DOI 10.1046/j.1365-2427.2002.00803.x
+   De Filippo C, 2010, P NATL ACAD SCI USA, V107, P14691, DOI 10.1073/pnas.1005963107
+   Dufour A. P., 1984, HLTH EFFECTS CRITERI
+   Field KG, 2007, WATER RES, V41, P3517, DOI 10.1016/j.watres.2007.06.056
+   FIKSDAL L, 1985, APPL ENVIRON MICROB, V49, P148
+   Fischer H, 2001, FRESHWATER BIOL, V46, P1335, DOI 10.1046/j.1365-2427.2001.00753.x
+   Fogarty LR, 2005, APPL ENVIRON MICROB, V71, P5999, DOI 10.1128/AEM.71.10.5999-6007.2005
+   Fremaux B, 2010, APPL ENVIRON MICROB, V76, P4886, DOI 10.1128/AEM.00110-10
+   Fremaux B, 2009, WATER RES, V43, P4838, DOI 10.1016/j.watres.2009.06.045
+   Frey SK, 2015, J ENVIRON QUAL, V44, P236, DOI 10.2134/jeq2014.03.0122
+   Gibert J, 1995, CAN J FISH AQUAT SCI, V52, P2084, DOI 10.1139/f95-202
+   Harwood VJ, 2005, APPL ENVIRON MICROB, V71, P3163, DOI 10.1128/AEM.71.6.3163-3170.2005
+   HUBBARD GB, 1981, LAB ANIM SCI, V31, P297
+   Jokinen CC, 2012, J ENVIRON QUAL, V41, P242, DOI 10.2134/jeq2011.0203
+   Jung AV, 2014, INT J ENV RES PUB HE, V11, P4292, DOI 10.3390/ijerph110404292
+   Kinnunen M, 2016, ISME J, V10, P2773, DOI 10.1038/ismej.2016.75
+   Kovacic A, 2011, ENVIRON MONIT ASSESS, V172, P623, DOI 10.1007/s10661-010-1360-4
+   KREADER CA, 1995, APPL ENVIRON MICROB, V61, P1171
+   Lafont M., 2010, Ecohydrology and Hydrobiology, V10, P3, DOI 10.2478/v10104-009-0047-3
+   Lagriffoul A., 2009, RAPPORT EXPERTISE CO, V180
+   Ligi T, 2014, ECOL ENG, V72, P56, DOI 10.1016/j.ecoleng.2013.09.007
+   Likens GE, 2010, RIVER ECOSYSTEM ECOL
+   Litchman E, 2010, ECOL LETT, V13, P1560, DOI 10.1111/j.1461-0248.2010.01544.x
+   Liu S, 2015, FRONT MICROBIOL, V6, DOI 10.3389/fmicb.2015.00285
+   Lundin D, 2012, ENV MICROBIOL REP, V4, P367, DOI 10.1111/j.1758-2229.2012.00345.x
+   Maazouzi C, 2013, J SOIL SEDIMENT, V13, P207, DOI 10.1007/s11368-012-0622-x
+   Marti E, 2014, RES MICROBIOL, V165, P468, DOI 10.1016/j.resmic.2014.04.002
+   Marti R, 2013, J MICROBIOL METH, V95, P201, DOI 10.1016/j.mimet.2013.08.016
+   Marti R, 2013, WATER RES, V47, P2315, DOI 10.1016/j.watres.2013.02.009
+   Marti R, 2011, J MICROBIOL METH, V87, P82, DOI 10.1016/j.mimet.2011.07.013
+   Mieszkin S, 2010, J APPL MICROBIOL, V108, P974, DOI 10.1111/j.1365-2672.2009.04499.x
+   Mieszkin S, 2009, APPL ENVIRON MICROB, V75, P3045, DOI 10.1128/AEM.02343-08
+   Naegeli MW, 1997, J N AM BENTHOL SOC, V16, P794, DOI 10.2307/1468172
+   Namour P, 2015, SCI TOTAL ENVIRON, V532, P80, DOI 10.1016/j.scitotenv.2015.05.057
+   Nemergut DR, 2011, ENVIRON MICROBIOL, V13, P135, DOI 10.1111/j.1462-2920.2010.02315.x
+   R Core Team, 2015, R LANG ENV STAT COMP
+   Rehmann CR, 2009, WATER RES, V43, P4579, DOI 10.1016/j.watres.2009.06.049
+   Reischer GH, 2006, APPL ENVIRON MICROB, V72, P5610, DOI 10.1128/AEM.00364-06
+   Robertson CE, 2013, BIOINFORMATICS, V29, P3100, DOI 10.1093/bioinformatics/btt526
+   Roslev P, 2011, APPL MICROBIOL BIOT, V89, P1341, DOI 10.1007/s00253-010-3080-7
+   Savio D, 2015, ENVIRON MICROBIOL, V17, P4994, DOI 10.1111/1462-2920.12886
+   Schloss PD, 2009, APPL ENVIRON MICROB, V75, P7537, DOI 10.1128/AEM.01541-09
+   Seitzinger S, 2006, ECOL APPL, V16, P2064, DOI 10.1890/1051-0761(2006)016[2064:DALAWA]2.0.CO;2
+   Seurinck S, 2005, ENVIRON MICROBIOL, V7, P249, DOI 10.1111/j.1462-2920.2004.00702.x
+   Somerita Panda, 2013, African Journal of Biotechnology, V12, P400
+   Staley C, 2012, WATER RES, V46, P5799, DOI 10.1016/j.watres.2012.08.012
+   Tamam OAS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090790
+   Tamura K, 2013, MOL BIOL EVOL, V30, P2725, DOI 10.1093/molbev/mst197
+   Thomas J, 2014, COLLOID SURFACE B, V116, P372, DOI 10.1016/j.colsurfb.2014.01.019
+   Thorburn F, 2015, J CLIN VIROL, V69, P96, DOI 10.1016/j.jcv.2015.06.082
+   USEPA, 2005, EPA600R05064 OFF RES
+   VAQUE D, 1992, MAR ECOL PROG SER, V89, P155, DOI 10.3354/meps089155
+   WHO, 2003, WHO GUID DRINK WAT Q
+   Wilkes G, 2011, WATER RES, V45, P5807, DOI 10.1016/j.watres.2011.06.021
+   Wilkes G, 2014, APPL ENVIRON MICROB, V80, P3708, DOI 10.1128/AEM.00254-14
+   Wilkes G, 2013, APPL ENVIRON MICROB, V79, P6207, DOI 10.1128/AEM.01626-13
+   Ramirez-Castillo FY, 2015, PATHOGENS, V4, P307, DOI 10.3390/pathogens4020307
+NR 68
+TC 3
+Z9 3
+U1 4
+U2 22
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA PO BOX 110, EPFL INNOVATION PARK, BUILDING I, LAUSANNE, 1015,
+   SWITZERLAND
+SN 1664-302X
+J9 FRONT MICROBIOL
+JI Front. Microbiol.
+PD JAN 24
+PY 2017
+VL 8
+AR UNSP 19
+DI 10.3389/fmicb.2017.00019
+PG 15
+WC Microbiology
+SC Microbiology
+GA FJ5NP
+UT WOS:000412799300001
+PM 28174557
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Monnot, M
+   Nguyen, B
+   Zaviska, F
+   Lesage, G
+   Heran, M
+AF Monnot, Mathias
+   Nguyen, Benedicte
+   Zaviska, Francois
+   Lesage, Geoffroy
+   Heran, Marc
+TI Performance of nanofiltration and reverse osmosis after membrane
+   bioreactor for urban source-separated urine treatment and water reuse
+SO DESALINATION AND WATER TREATMENT
+LA English
+DT Article
+DE Urine treatment; Wastewater reuse; Nanofiltration; Reverse osmosis;
+   Source separation
+ID WASTE-WATER; NITROGEN REMOVAL; ORGANIC-MATTER; COD/N RATIO;
+   NITRIFICATION; MATRIX; MBR; EXCITATION; FILTRATION; NUTRIENTS
+AB In the context of wastewater treatment and reuse, separating urine from domestic wastewater promotes a more flexible and sustainable municipal treatment system and has attracted considerable attention in the scientific community. This study investigated the feasibility of applying nanofiltration (NF) and reverse osmosis (RO) as a complementary treatment after membrane bioreactor (MBR) treatment of source-separated urine. Experiments were conducted on a lab scale with a synthetic effluent containing natural organic matter representative of urine after MBR treatment. The performances of NF and RO in terms of productivity and water quality were compared. NF and RO could remove more than 95% of total organic carbon which is composed mainly of humic and fulvic acids. NF could only reduce the conductivity by less than 45% whereas RO removed more than 80% of ions which would make water reuse more feasible. A complete short-term fouling analysis by membrane autopsy was performed in order to understand the different contributions of organic and inorganic components on NF and RO fouling. The obtained results showed that NF was more prone to scaling as water rinsing and chemical cleaning were not fully effective in removing mineral deposits. RO seemed less prone to organic fouling and scaling than NF.
+C1 [Monnot, Mathias; Nguyen, Benedicte; Zaviska, Francois; Lesage, Geoffroy; Heran, Marc] Univ Montpellier, IEM, UMR 5635, CNRS ENSCM UM, Pl Eugene Bataillon, F-34095 Montpellier, France.
+RP Heran, M (reprint author), Univ Montpellier, IEM, UMR 5635, CNRS ENSCM UM, Pl Eugene Bataillon, F-34095 Montpellier, France.
+EM mathias.monnot@umontpellier.fr; benedictenguyen@yahoo.fr;
+   francois.zaviska@umontpellier.fr; geoffroy.lesage@umontpellier.fr;
+   marc.heran@umontpellier.fr
+RI lesage, geoffroy/G-9396-2016
+OI lesage, geoffroy/0000-0002-5951-4730; Heran, Marc/0000-0001-9036-207X;
+   Monnot, Mathias/0000-0003-2236-2160
+FU BFG Environmental Technologies [FUI -AAP20]
+FX The authors would like to thank BPI France, through Carbiosep project
+   (FUI -AAP20) carried by BFG Environmental Technologies for its financial
+   support. Special thanks are addressed to Yves-Marie Legrand for his help
+   for the development of 3DEEM techniques and Valerie Bonniol for the ion
+   chromatography analysis.
+CR Alturki AA, 2010, J MEMBRANE SCI, V365, P206, DOI 10.1016/j.memsci.2010.09.008
+   Ang MBMY, 2017, J MEMBRANE SCI, V539, P52, DOI 10.1016/j.memsci.2017.05.062
+   [Anonymous], 2011, GUID DRINK WAT QUAL
+   Aslam M, 2017, CHEM ENG J, V307, P897, DOI 10.1016/j.cej.2016.08.144
+   Azais A, 2014, SEP PURIF TECHNOL, V133, P313, DOI 10.1016/j.seppur.2014.07.007
+   Carretier S, 2015, CAN J CHEM ENG, V93, P225, DOI 10.1002/cjce.22125
+   Chen W, 2003, ENVIRON SCI TECHNOL, V37, P5701, DOI 10.1021/es034354c
+   Dang Y, 2016, WATER RES, V106, P71, DOI 10.1016/j.watres.2016.09.044
+   de Faria ABB, 2015, WATER RES, V84, P99, DOI 10.1016/j.watres.2015.06.048
+   Deshmukh SS, 2001, DESALINATION, V140, P87, DOI 10.1016/S0011-9164(01)00357-5
+   El- Ahsry M., 2010, ARAB ENV WATER SUSTA
+   Eslamian S., 2016, URBAN WATER REUSE HD
+   Jacob M, 2010, DESALINATION, V250, P833, DOI 10.1016/j.desal.2008.11.052
+   Jacquin C, 2017, WATER RES, V118, P82, DOI 10.1016/j.watres.2017.04.009
+   Judd S, 2011, MBR BOOK: PRINCIPLES AND APPLICATIONS OF MEMBRANE BIOREACTORS FOR WATER AND WASTEWATER TREATMENT, 2ND EDITION, P1
+   Kappel C, 2014, J MEMBRANE SCI, V453, P359, DOI 10.1016/j.memsci.2013.11.023
+   Larsen TA, 1996, WATER SCI TECHNOL, V34, P87, DOI 10.1016/0273-1223(96)00560-4
+   Lee S, 2001, J MEMBRANE SCI, V182, P77, DOI 10.1016/S0376-7388(00)00553-6
+   Lin JY, 2016, INT BIODETER BIODEGR, V113, P74, DOI 10.1016/j.ibiod.2016.01.009
+   Maurer M, 2006, WATER RES, V40, P3151, DOI 10.1016/j.watres.2006.07.012
+   Meng QJ, 2008, J ENVIRON SCI-CHINA, V20, P933, DOI 10.1016/S1001-0742(08)62189-0
+   Nicolini JV, 2016, SEP PURIF TECHNOL, V171, P238, DOI 10.1016/j.seppur.2016.07.042
+   Paugam L, 2004, SEP PURIF TECHNOL, V40, P237, DOI 10.1016/j.seppur.2004.02.012
+   Pronk W, 2006, WATER RES, V40, P1405, DOI 10.1016/j.watres.2006.01.038
+   Ricci BC, 2017, SEP PURIF TECHNOL, V174, P301, DOI 10.1016/j.seppur.2016.11.007
+   Ruiz G, 2003, WATER RES, V37, P1371, DOI 10.1016/S0043-1354(02)00475-X
+   Shon HK, 2006, J MEMBRANE SCI, V278, P232, DOI 10.1016/j.memsci.2005.11.006
+   Sun SP, 2010, ENVIRON ENG SCI, V27, P111, DOI 10.1089/ees.2009.0100
+   Udert KM, 2006, WATER SCI TECHNOL, V54, P413, DOI 10.2166/wst.2006.921
+   Udert KM, 2012, WATER RES, V46, P453, DOI 10.1016/j.watres.2011.11.020
+   Vadivelu VM, 2007, WATER SCI TECHNOL, V56, P89, DOI 10.2166/wst.2007.612
+   WHO (World Health Organization), 2006, WAST US AGR
+   Woo YC, 2016, BIORESOURCE TECHNOL, V210, P18, DOI 10.1016/j.biortech.2016.02.023
+   Xu P, 2006, SEP PURIF TECHNOL, V52, P67, DOI 10.1016/j.seppur.2006.03.019
+   Zhang SQ, 2017, CHEMOSPHERE, V166, P334, DOI 10.1016/j.chemosphere.2016.09.095
+NR 35
+TC 2
+Z9 2
+U1 11
+U2 25
+PU DESALINATION PUBL
+PI HOPKINTON
+PA 36 WALCOTT VALLEY DRIVE,, HOPKINTON, MA 01748 USA
+SN 1944-3994
+EI 1944-3986
+J9 DESALIN WATER TREAT
+JI Desalin. Water Treat.
+PD NOV
+PY 2017
+VL 95
+BP 18
+EP 33
+DI 10.5004/dwt.2017.21441
+PG 16
+WC Engineering, Chemical; Water Resources
+SC Engineering; Water Resources
+GA FU2TS
+UT WOS:000423703500003
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Assefa, Y
+   Van Damme, W
+   Williams, OD
+   Hill, PS
+AF Assefa, Yibeltal
+   Van Damme, Wim
+   Williams, Owain D.
+   Hill, Peter S.
+TI Successes and challenges of the millennium development goals in
+   Ethiopia: lessons for the sustainable development goals
+SO BMJ GLOBAL HEALTH
+LA English
+DT Article
+AB We analysed the performance of Ethiopia in achieving the health-related millennium development goals (MDGs) with the aim of acquiring lessons for the sustainable development goals (SDGs). Ethiopia achieved most of the health MDGs: a 67% reduction in under-five mortality, a 71% decline in maternal mortality ratio, a 90% decline in new HIV infections, a decrease in malaria-related deaths by 73% and a more than 50% decline in mortality due to tuberculosis. We argue that these achievements are due to implementation of a mix of comprehensive strategies within the health system and across other sectors of the government. Scaling up of interventions by disease control programmes (including the health extension programme) and strengthening of the health system have played important roles towards the achievements. These health gains could not have been realised without progress in the other MDGs: poverty reduction, education, access to safe drinking-water and peace and stability of the country. However, the gains were not equitable, with differences between urban and rural areas, among regions and socioeconomic strata. Ethiopia's remarkable success in meeting most of the targets of the health-related MDGs could be explained by its comprehensive and multisectoral approach for health development. The inequity gap remains a challenge that achieving the health-related SDGs requires the country to implement strategies, which specifically target more marginal populations and geographic areas. This also needs peace and stability, without which it is almost impossible to improve health.
+C1 [Assefa, Yibeltal; Williams, Owain D.; Hill, Peter S.] Univ Queensland, Sch Publ Hlth, Brisbane, Qld, Australia.
+   [Van Damme, Wim] Inst Trop Med, Dept Publ Hlth, Antwerp, Belgium.
+RP Assefa, Y (reprint author), Univ Queensland, Sch Publ Hlth, Brisbane, Qld, Australia.
+EM y.alemu@uq.edu.au
+RI Hill, Peter/F-2768-2010; Williams, Owain/X-3272-2018
+OI Hill, Peter/0000-0001-7091-5108; 
+CR Admasu KB, 2016, HEALTH SYST REFORM, V2, P182, DOI 10.1080/23288604.2016.1217966
+   [Anonymous], 2015, ETH HLTH SECT TRANSF
+   [Anonymous], 2010, ATH 4 NAT HLTH ACC 2
+   [Anonymous], 2013, ETH NAT AIDS SPEND A
+   [Anonymous], 2015, MILL DEV GOALS REP 2
+   [Anonymous], 2001, ETH 2 NAT HLTH ACC R
+   [Anonymous], 2015, ANN PERF REP 2014 15
+   [Anonymous], 2011, HLTH SECT DEV PROGR
+   Braveman P, 2014, PUBLIC HEALTH REP, V129, P19, DOI 10.1177/00333549141291S206
+   Central Statistical Authority, 2016, ETH DEM HLTH SURV 20
+   Central Statistical Authority, 2011, ETH DEM HLTH SURV 20
+   Commission on Social Determinants of Health, 2008, CLOS GAP GEN HLTH EQ
+   CSIS Centre for Strategic and International Studies, 2016, IMP PROGR ETH RESP P
+   *CTR STAT AUTH, 2001, ETH DEM HLTH SURV 20
+   Development Initiatives, DAT REV MON SDGS CAS
+   Ethiopia Public Health Institute Federal Ministry of Health Countdown to 2015 UNICEF, 2015, COUNTD HEALTH ETH BU
+   Ethiopian Public Health Institute, 2015, ETH SERV PROV ASS PL
+   Federal Democratic Republic of Ethiopia Ministry of Health, 2014, ETH 1 NAT HLTH ACC R
+   Federal Ministry of Health of Ethiopia, 2007, HSDP HARM MAN HHM
+   Global Health Security Agenda, ADV GLOB HLTH SEC AG
+   Ministry of Finance and Economic Development, 2006, ETH BUILD PROGR PIAN
+   National Planning Commission The Federal Democratic Republic of Ethiopia, 2016, 2 GROWTH TRANSF PLAN
+   Ooms G, 2017, GLOB HLTH, V2
+   The World Bank, 2002, WHO WOULD GAIN MOST
+   *UNDP, 2003, IND MON MILL DEV GOA
+   UNICEF, HARM HLTH AFR ACT FR
+   United Nations, PARTN KEY IMPL NEW S
+   United Nations, SUST DEV AG
+   United Nations, 2015, MILL DEV GOALS REP
+   United Nations, 2000, UN MILL DECL
+   United Nations, 2008, AFR DEV NEEDS STAT I
+   United Nations Programme on HIV/AIDS, 2016, GLOB AIDS UPD
+   WHO, 2010, WOR HEALT REP, P1
+   WHO, 2016, WORLD MAL REP 2015
+   WHO, 2015, HLTH 2015 MDGS MILL
+   World Health Organization, 2015, GLOB TUB REP
+   World Health Organization, 2011, AB DECL 10 YEARS
+   World Health Organization, SOCIAL DETERMINANTS
+   World Health Organization, 2003, MUCH SHOULD COUNTR S
+   World Health Organization, 2014, HLTH FIN OUT OF POCK
+   World Health Organization, 2014, HLTH FIN WHO
+NR 41
+TC 10
+Z9 10
+U1 0
+U2 3
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2059-7908
+J9 BMJ GLOB HEALTH
+JI BMJ Glob. Health
+PD MAR
+PY 2017
+VL 2
+IS 2
+AR UNSP e000318
+DI 10.1136/bmjgh-2017-000318
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FF2SG
+UT WOS:000408746500008
+PM 29081999
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Fetters, T
+   Samandari, G
+   Djemo, P
+   Vwallika, B
+   Mupeta, S
+AF Fetters, Tamara
+   Samandari, Ghazaleh
+   Djemo, Patrick
+   Vwallika, Bellington
+   Mupeta, Stephen
+TI Moving from legality to reality: how medical abortion methods were
+   introduced with implementation science in Zambia
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Abortion; Zambia; Medical abortion; Implementation science; Scale up;
+   Postabortion care; Reproductive health
+ID SAFE ABORTION; URBAN ZAMBIA; CARE; PREGNANCY; TERMINATION; MISOPROSTOL;
+   FACILITIES; ATTITUDES; SERVICES; LUSAKA
+AB Background: Although abortion is technically legal in Zambia, the reality is far more complicated. This study describes the process and results of galvanizing access to medical abortion where abortion has been legal for many years, but provision severely limited. It highlights the challenges and successes of scaling up abortion care using implementation science to document 2 years of implementation.
+   Methods: An intervention between the Ministry of Health, University Teaching Hospital and the international organization Ipas, was established to introduce medical abortion and to address the lack of understanding and implementation of the country's abortion law. An implementation science model was used to evaluate effectiveness and glean lessons for other countries about bringing safe and legal abortion services to scale. The intervention involved the provision of Comprehensive Abortion Care services in 28 public health facilities in Zambia for a 2 year period, August 2009 to September 2011. The study focused on three main areas: building health worker capacity in public facilities and introducing medical abortion, working with pharmacists to provide improved information on medical abortion, and community engagement and mobilization to increase knowledge of abortion services and rights through stronger health system and community partnerships.
+   Results: After 2 years, 25 of 28 sites provided abortion services, caring for more than 13,000 women during the intervention. For the first time, abortion was decentralized, 19% of all abortion care was performed in health centers. At the end of the intervention, all providing facilities had managers supportive of continuing legal abortion services. When asked about the impact of medical abortion provision, a number of providers reported that medical abortion improved their ability to provide affordable safe abortion. In neighboring pharmacies only 19% of mystery clients visiting them were offered misoprostol for purchase at baseline, this increased to 47% after the intervention. Despite progress in attitudes towards abortion clients, such as empathy, and improved community engagement, the evaluation revealed continuing stigma on both provider and client sides.
+   Conclusions: These findings provide a case study of the medical abortion introduction in Zambia and offer important lessons for expanding safe and legal abortion access in similar settings across Africa.
+C1 [Fetters, Tamara] Ipas, 300 Market St,Suite 200, Chapel Hill, NC USA.
+   [Samandari, Ghazaleh] Univ N Carolina, Gillings Sch Publ Hlth, Chapel Hill, NC USA.
+   [Djemo, Patrick] Francophone Africa, Lusaka, Zambia.
+   [Vwallika, Bellington] Univ Zambia, Sch Med, Dept Obstet & Gynecol, Lusaka, Zambia.
+   [Mupeta, Stephen] UNFPA, Lusaka, Zambia.
+RP Fetters, T (reprint author), Ipas, 300 Market St,Suite 200, Chapel Hill, NC USA.
+EM fetterst@ipas.org
+FU Ipas; Consortium for Research on Unsafe Abortion in Africa - UKAid
+FX Funding for the intervention, data collection, data analysis and
+   preparation of this manuscript was granted by Ipas and through the
+   support of a grant made under the Consortium for Research on Unsafe
+   Abortion in Africa funded by UKAid.
+CR [Anonymous], 2012, TIMES
+   Basnet I, 2004, INT J GYNECOL OBSTET, V86, P98, DOI 10.1016/j.ijgo.2004.03.014
+   BRADLEY J, 1991, STUD FAMILY PLANN, V22, P391, DOI 10.2307/1966453
+   Campbell OMR, 2016, BMC PREGNANCY CHILDB, V16, DOI 10.1186/s12884-016-0872-5
+   Central Statistical Office (CSO) [Zambia] Ministry of Health (MOH) [Zambia] ICF International, 2014, ZAMB DEM HLTH SURV 2
+   Coast E, 2016, SOC SCI MED, V153, P201, DOI 10.1016/j.socscimed.2016.02.025
+   Cresswell JA, 2016, BMJ OPEN, V6, DOI 10.1136/bmjopen-2015-010076
+   Dahlback Elisabeth, 2007, Health Care Women Int, V28, P654, DOI 10.1080/07399330701462223
+   Fajans P, 2006, AM J PUBLIC HEALTH, V96, P435, DOI 10.2105/AJPH.2004.059907
+   Faundes A, 2007, INT J GYNECOL OBSTET, V99, pS172, DOI 10.1016/j.ijgo.2007.09.006
+   Fetters T, 2015, REPROD HEALTH MATTER, V22, P116, DOI 10.1016/S0968-8080(14)43794-7
+   Ganatra B, 2014, B WORLD HEALTH ORGAN, P92155
+   Geary CW, 2012, INT J GYNECOL OBSTET, V118, pS148, DOI 10.1016/S0020-7292(12)60014-9
+   Guttmacher Institute, 2012, MAK AB SERV ACC WAK
+   HART G, 1986, AUST NZ J OBSTET GYN, V26, P219, DOI 10.1111/j.1479-828X.1986.tb01571.x
+   Hendrickson C, 2016, INT J GYNECOL OBSTET, V132, P214, DOI 10.1016/j.ijgo.2015.07.008
+   Honkanen H, 2004, BJOG-INT J OBSTET GY, V111, P715, DOI 10.1111/j.1471-0528.2004.00153.x
+   Ipas, 2015, GLOB ANN MON DAT ZAM
+   Jewkes RK, 2005, BJOG-INT J OBSTET GY, V112, P1236, DOI 10.1111/j.1471-0528.2005.00697.x
+   Kapp N, 2013, CONTRACEPTION, V88, P350, DOI 10.1016/j.contraception.2012.10.027
+   Kaseba C, 1998, SITUATION POSTABORTI
+   Koster-Oyekan W, 1998, SOC SCI MED, V46, P1303, DOI 10.1016/S0277-9536(97)10058-2
+   Leone T, 2016, HEALTH POLICY PLANN, V31, P825, DOI 10.1093/heapol/czv138
+   Likwa R N, 1996, Afr J Fertil Sexual Reprod Heal, V1, P42
+   Likwa RN, 2009, ABORTION STAT ZAMBIA
+   Macha S, 2014, ZAMBIA INT J GYNAECO, DOI [10.1016/j.ijgo.2014.03.010, DOI 10.1016/J.IJGO.2014.03.010]
+   Macha S, 2014, INT J GYNECOL OBSTET, V126, pS49, DOI 10.1016/j.ijgo.2014.03.010
+   Ministry of Health, 2009, STAND GUID RED UNS A, P51
+   Ministry of Health Ipas, 2008, STRAT ASS POL PROGR
+   Ngo TD, 2013, IN J WOMENS HEALTH, V5, P9, DOI 10.2147/IJWH.S39627
+   Ngwena CG, 2010, INT J GYNECOL OBSTET, V110, P163, DOI 10.1016/j.ijgo.2010.04.013
+   Otsea K, 1997, MIDWIVES DELIVER POS
+   Owolabi OO, 2017, CONTRACEPTION, V95, P167, DOI 10.1016/j.contraception.2016.08.014
+   Parmar D, 2017, GLOB PUBLIC HEALTH, V12, P236, DOI 10.1080/17441692.2015.1123747
+   Simpson A, 2014, J S AFR STUD, V40, P1065, DOI 10.1080/03057070.2014.946222
+   Sims P, 1996, J PUBLIC HEALTH MED, V18, P232, DOI 10.1093/oxfordjournals.pubmed.a024484
+   Swica Y, 2013, CONTRACEPTION, V88, P122, DOI 10.1016/j.contraception.2012.10.021
+   UNDP, 2013, MILL DEV GOALS PROGR
+   UNFPA, 2011, STAT WORLDS MIDW DEL
+   Warriner IK, 2011, LANCET, V377, P1155, DOI 10.1016/S0140-6736(10)62229-5
+   Webb D, 2000, HEALTH POLICY PLANN, V15, P186, DOI 10.1093/heapol/15.2.186
+   Winikoff B, 2012, OBSTET GYNECOL, V120, P1070, DOI [10.1097/AOG.0b013e31826c315f, http://10.1097/AOG.0b013e31826c315f]
+   World Health Organization, 2012, SAF AB TECHN POL GUI
+   World Health Organization (WHO, 2003, SAF AB TECHN POL GUI, P112
+   Zambia Ministry of Health Zambian University Teaching Hospital Ipas, 2013, INTR MED AB PUBL HLT
+NR 45
+TC 9
+Z9 9
+U1 0
+U2 1
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD FEB 16
+PY 2017
+VL 14
+AR 26
+DI 10.1186/s12978-017-0289-2
+PG 11
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA EN0PO
+UT WOS:000395712100001
+PM 28209173
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

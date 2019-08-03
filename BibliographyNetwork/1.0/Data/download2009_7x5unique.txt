@@ -1,0 +1,468 @@
+
+PT S
+AU Sarika, R
+   Siddhartha, H
+   Karlapalem, K
+AF Sarika, Rahul
+   Siddhartha, Harith
+   Karlapalem, Kamalakar
+BE Iocchi, L
+   Matsubara, H
+   Weitzenfeld, A
+   Zhou, C
+TI Database Driven RoboCup Rescue Server
+SO ROBOCUP 2008: ROBOT SOCCER WORLD CUP XII
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 12th RoboCup International Symposium
+CY JUL 15-18, 2008
+CL Suzhou, PEOPLES R CHINA
+DE RoboCup Rescue Simulation; multi-agent systems; database
+AB The RoboCup Rescue Simuation a generic urban disaster simulation environment constructed oil a network of computers, has been in existence, for many years. The server used in the simulation league has problems of scaling up. Further it, requires considerable effort to understand the server code to make any additional changes. Therefore, it is difficult for newcomers to quickly enhance the server. The architecture and the functional desin of die current server are excellent. This helps us provide a database driven architecture that can scale up the current server to 10-15 times the number of agents that can be simulated. Moreover. it; is now easy for others to implement many other subsystems that can provide additional functionality. We have also shown in this paper a new scoring strategy for agents teams which can be customized to emphasize, test, and evaluate different concepts and strategies employed by the agent teams.
+C1 [Sarika, Rahul; Siddhartha, Harith; Karlapalem, Kamalakar] Int Inst Informat Technol, Hyderabad 500032, Andhra Pradesh, India.
+RP Sarika, R (reprint author), Int Inst Informat Technol, Hyderabad 500032, Andhra Pradesh, India.
+EM rahul_sarika@students.iiit.ac.in; harith@students.iiit.ac.in;
+   kamal@iiit.ac.in
+CR BELLIFEMINE F, 1999, PAAM
+   KANEDA T, 2001, LNCS, V2019
+   NODA I, 1999, WORKSHOP ABS 4 NOTES
+   RAO IVA, 2007, AAMAS
+   RILEY PF, 2003, WINT SIM C
+   *ROBOCUP, 2006, ROBOCUP 2006 RESC SI
+   Takahashi T, 2003, LECT NOTES ARTIF INT, V2752, P477
+   TAKAHASHI T, 2002, LNCS, V2377
+   TAKAHASHI T, 2001, LNCS, V2019
+   YAMAMOTO G, 2007, AAMAS
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+BN 978-3-642-02920-2
+J9 LECT NOTES COMPUT SC
+PY 2009
+VL 5399
+BP 602
+EP 613
+PG 12
+WC Computer Science, Artificial Intelligence; Robotics
+SC Computer Science; Robotics
+GA BKT67
+UT WOS:000269207300052
+DA 2019-03-26
+ER
+
+PT B
+AU Feng, SJ
+   Ma, YD
+   Jiang, Y
+AF Feng, Sijing
+   Ma, Yundong
+   Jiang, Ying
+GP IEEE
+TI Fuzzy Comprehensive Evaluation for Urban Surface Water Pollution Risk
+SO 2009 3RD INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICAL
+   ENGINEERING, VOLS 1-11
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Bioinformatics and Biomedical
+   Engineering
+CY JUN 11-16, 2009
+CL Beijing, PEOPLES R CHINA
+SP IEEE Engn Med & Biol Soc, Gordon Life Sci Inst, Fudan Univ, Beijing Univ Posts & Telecommunicat, Beijing Inst Technol, Wuhan Univ, Journal Biomed Sci & Engn
+DE water pollution; fuzzy comprehensive evaluation mathematical model;
+   Liaohe River
+AB A comprehensive fuzzy evaluation model for water pollution risk was built according to the fuzzy mathematical method. By analyzing the average water quality values of low water season and high water season of Liaohe River drainage area Fuxin section from 1996 to 2005, the corresponding water pollution risks were carefully evaluated. The aim of this article is to quantitatively analyze and evaluate the environmental quality actualities and existing problems of the surface water in Fuxin area. The result shows that the water quality of Liao River-Fuxin section fluctuated strongly from 1996 to 2005, with an increasingly deteriorated water quality. The main pollutants of the water body were organic substances, ammonia and nitrogen, and dissolved iron. Generally, the rules of changes for various pollutants are not same. TP, BOD5 and DO had been gradually scaling up, while other pollutants in fluctuating mode.
+C1 [Feng, Sijing; Jiang, Ying] Liaoning Tech Univ, Sch Resource & Environm Engn, Fuxing, Peoples R China.
+   [Ma, Yundong] Dalian Jiaotong Univ, Sch Environm & Chem Engn, Dalian, Peoples R China.
+RP Feng, SJ (reprint author), Liaoning Tech Univ, Sch Resource & Environm Engn, Fuxing, Peoples R China.
+EM fengsijing2003@163.com; yundongma@126.com; willwinjy@126.com
+CR [Anonymous], GB 3838-2002, Patent No. 38382002
+   CUI YY, 2007, J ANHUI AGR SCI, V35, P3363
+   MARIAN AA, 2000, INTEGRATED WATER RES
+   Peng Z., 2002, FUZZY MATH ITS APPL
+   WANG JT, 2002, J CHINA WATER RESOUR, V35, P62
+   XU XY, 2003, J HYDRAULIC ENG, V8, P64
+   YAN JC, 2002, ENV ANAL
+   YANG FX, 1984, J ECOL, V1, P50
+   YANG LB, 2002, THEORIES APPL FUZZY
+   [郑文�? Zheng Wenrui], 2003, [吉林大学学报. 地球科学�?, Journal of Jilin University], V33, P59
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-2901-1
+PY 2009
+BP 5723
+EP +
+PG 2
+WC Engineering, Biomedical; Engineering, Electrical & Electronic
+SC Engineering
+GA BTB33
+UT WOS:000286342803064
+DA 2019-03-26
+ER
+
+PT J
+AU Ramulu, M
+   Chakraborty, AK
+   Sitharam, TG
+AF Ramulu, M.
+   Chakraborty, A. K.
+   Sitharam, T. G.
+TI Damage assessment of basaltic rock mass due to repeated blasting in a
+   railway tunnelling project - A case study
+SO TUNNELLING AND UNDERGROUND SPACE TECHNOLOGY
+LA English
+DT Article
+DE Tunnelling; Repeated blasting; Rock mass damage; Peak particle velocity
+AB The demand for tunnelling and underground space creation is rapidly growing due to the requirement of civil infrastructure projects and urbanisation. Blasting remains the most inexpensive method of underground excavations in hard rock. Unfortunately, there are no specific safety guidelines available for the blasted tunnels with regards to the threshold limits of vibrations caused by repeated blasting activity in the close proximity. This paper presents the results of a comprehensive study conducted to find out the effect of repeated blast loading on the damage experienced by jointed basaltic rock mass during tunnelling works. Conducting of multiple rounds of blasts for various civil excavations in a railway tunnel imparted repeated loading on rock mass of sidewall and roof of the tunnel. The blast induced damage was assessed by using vibration attenuation equations of charge weight scaling law and measured by borehole extensometers and borehole camera. Ground vibrations of each blasting round were also monitored by triaxial geophones installed near the borehole extensometers. The peak particle velocity (V(max)) observations and plastic deformations from borehole extensometers were used to develop a site specific damage model. The study reveals that repeated dynamic loading imparted on the exposed tunnel from subsequent blasts, in the vicinity, resulted in rock mass damage at lesser vibration levels than the critical peak particle velocity (V(cr)). It was found that, the repeated blast loading resulted in the near-field damage due to high frequency waves and far-field damage due to low frequency waves. The far field damage, after 45-50 occurrences of blast loading, was up to 55% of the near-field damage in basaltic rock mass. The findings of the study clearly indicate that the phenomena of repeated blasting with respect to number of cycles of loading should be taken into consideration for proper assessment of blast induced damage in underground excavations. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Ramulu, M.; Chakraborty, A. K.] Reg Ctr, Cent Min Res Inst, Nagpur 440006, Maharashtra, India.
+   [Sitharam, T. G.] Indian Inst Sci, Dept Civil Engn, Bangalore 560012, Karnataka, India.
+RP Ramulu, M (reprint author), Reg Ctr, Cent Min Res Inst, Nagpur 440006, Maharashtra, India.
+EM more.ramulu@gmail.com; sitharam@civil.iisc.ernet.in
+FU CSIR [70 (0058)/06/EMR-II-CSIR]
+FX The research work presented in this paper is a part of Ph.D. degree of
+   the first author from Indian Institute of Science and it is also part of
+   CSIR sponsored project No. 70 (0058)/06/EMR-II-CSIR for which the
+   authors are grateful to CSIR. The authors express their sincere thanks
+   to the Director, CMRI for permitting to publish this paper. The authors
+   express their sense of gratitude to Dr. A.K. Raina, Mr. P.B. Choudhury
+   and Dr. RX Goel of CMRI and the executives of Osmanabad diversion
+   project, Central Railways, Solapur, for their cooperation during the
+   field studies. The authors are also grateful to the Editor of the paper,
+   Prof. Jian Zhao and the reviewers for their prompt response and valuable
+   comments, which improved the quality of the paper.
+CR ADAMSON WR, 1998, P 24 ANN C EXPL BLAS, P539
+   Andrieux P., 1994, P 10 ANN S EXPL BLAS, P107
+   ATCHISON TC, 1964, 6395 BUMINES
+   Barton N., 1979, P 4 RAP EXC TUNN C, V2, P1331
+   BAUER A, 1978, OPENPIT BLASTING SEM
+   BEYER RR, 1986, WATER POWER DAM CONS, V38, P16
+   BRADY BH, 1990, STATIC AND DYNAMIC CONSIDERATIONS IN ROCK ENGINEERING, P1
+   BROWN ET, 1974, EARTHQ ENG STRUCT D, V2, P379, DOI DOI 10.1002/EQE.4290020407
+   CHAKRABORTY AK, 1998, LAKE TAP KOYNA, P456
+   Crandell F. J, 1949, J BOSTON SOC CIV ENG, P222
+   DOUCET C, 1996, ISEE 22 ANN C ORL FL, P1
+   DOWDING CH, 1978, J GEOTECH ENG-ASCE, V104, P175
+   Dowding CH, 1985, BLAST VIBRATION MONI
+   Hendron A. J., 1977, STRUCTURAL GEOTECHNI
+   HOLMBERG R, 1980, T I MIN METALL A, V89, pA37
+   HOLMBERG R, 1993, ROCK FRAGMENTATION BY BLASTING, P197
+   HOLMBERG R, 1978, 79 I MIN MET
+   HOLMBERG R, 1981, 7 C SOC EXPL ENG PHO, P232
+   *ISRM, 1992, COMM TEST METH SUGG
+   Jaeger J. C., 1979, FUNDAMENTALS ROCK ME
+   KIM HY, 1990, STATIC AND DYNAMIC CONSIDERATIONS IN ROCK ENGINEERING, P177
+   KUTTER HK, 1971, INT J ROCK MECH MIN, V8, P181, DOI 10.1016/0148-9062(71)90018-0
+   LANGEFORS U, 1967, MODERN TECHNIQUE FRO, P258
+   Langefors U, 1963, MODERN TECHNIQUES RO
+   LAW T M, 2001, FRAGBLAST, V5, P1
+   LeBlanc T, 1995, P 6 HIGH TECH SEM ST, P225
+   Leet L. D., 1946, VIBRATIONS BLASTING, P34
+   McGarr A, 1983, SEISMIC DESIGN EMBAN, P113
+   NIKLASSON B, 1985, VERTICAL CRATER RETR
+   OLSON M, 1996, ROCK FRAGMENTATION B, P93
+   ORIARD LL, 1989, PROCEEDINGS OF THE FIFTEENTH ANNUAL CONFERENCE ON EXPLOSIVES AND BLASTING TECHNIQUE, P161
+   Oriard LL, 1982, UNDERGROUND MINING M, P1590
+   OTUONYE FO, 1997, P ANN C EXPL BLAST R
+   Ouchterlony F., 1993, BLAST DAMAGE PREDICT, P189
+   Ouchterlony F, 1997, INT J ROCK FRAG BLAS, V1, P417
+   Paventi M, 1996, ROCK FRAGMENTATION BY BLASTING, P131
+   Persson P. A., 1994, ROCK BLASTING EXPLOS, P259
+   Raina A, 2000, FRAGBLAST, V4, P103
+   RICKETTS TE, 1997, P ANN C EXPL BLAST R
+   Rocque P., 1992, THESIS QUEENS U KING
+   Scott A, 1996, OPEN PIT BLAST DESIG
+   SINGH SP, 1993, PROCEEDINGS OF THE NINTH ANNUAL SYMPOSIUM ON EXPLOSIVES AND BLASTING RESEARCH, P325
+   SINGH SP, 1993, 4 INT S ROCK FRAGM B, P183
+   Singh SP, 2005, FRAGBLAST, V9, P175
+   St John CM, 1987, TUNN UNDERGR SP TECH, V2, P165, DOI DOI 10.1016/0886-7798(87)90011-3
+   STACEY TR, 1990, STATIC AND DYNAMIC CONSIDERATIONS IN ROCK ENGINEERING, P317
+   STAGG MS, 1984, EFFECTS REPEATED BLA, P81
+   Thoenen J. R., 1942, BUREAU MINES B, V442, P83
+   Villaescusa E., 2004, Fragblast, V8, P23, DOI 10.1080/13855140512331389614
+   Wagner H, 1984, ROCKBURSTS SEISMICIT, P209
+   YU V, 1996, CIM B, V89, P139
+   Zhang J. C., 1999, P 6 INT S ROCK FRAGM, P358
+   1997, 7 DGMS IND S T, P1
+NR 53
+TC 21
+Z9 32
+U1 4
+U2 35
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0886-7798
+J9 TUNN UNDERGR SP TECH
+JI Tunn. Undergr. Space Technol.
+PD MAR
+PY 2009
+VL 24
+IS 2
+BP 208
+EP 221
+DI 10.1016/j.tust.2008.08.002
+PG 14
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA 408GO
+UT WOS:000263423700010
+DA 2019-03-26
+ER
+
+PT J
+AU Chatani, S
+   Shimo, N
+   Matsunaga, S
+   Kajii, Y
+   Kato, S
+   Nakashima, Y
+   Miyazaki, K
+   Ishii, K
+   Ueno, H
+AF Chatani, S.
+   Shimo, N.
+   Matsunaga, S.
+   Kajii, Y.
+   Kato, S.
+   Nakashima, Y.
+   Miyazaki, K.
+   Ishii, K.
+   Ueno, H.
+TI Sensitivity analyses of OH missing sinks over Tokyo metropolitan area in
+   the summer of 2007
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+LA English
+DT Article
+ID AIR-QUALITY MODEL; VOLATILE ORGANIC-COMPOUNDS; LASER-INDUCED PUMP; URBAN
+   ATMOSPHERE; PROBE TECHNIQUE; REACTIVITY; SYSTEM; INVENTORY; CHEMISTRY;
+   EMISSIONS
+AB OH reactivity is one of key indicators which reflect impacts of photochemical reactions in the atmosphere. An observation campaign has been conducted in the summer of 2007 at the heart of Tokyo metropolitan area to measure OH reactivity. The total OH reactivity measured directly by the laser-induced pump and probe technique was higher than the sum of the OH reactivity calculated from concentrations and reaction rate coefficients of individual species measured in this campaign. And then, three-dimensional air quality simulation has been conducted to evaluate the simulation performance on the total OH reactivity including 'missing sinks', which correspond to the difference between the measured and calculated total OH reactivity. The simulated OH reactivity is significantly underestimated because the OH reactivity of volatile organic compounds (VOCs) and missing sinks are underestimated. When scaling factors are applied to input emissions and boundary concentrations, a good agreement is observed between the simulated and measured concentrations of VOCs. However, the simulated OH reactivity of missing sinks is still underestimated. Therefore, impacts of unidentified missing sinks are investigated through sensitivity analyses. In the cases that unknown secondary products are assumed to account for unidentified missing sinks, they tend to suppress formation of secondary aerosol components and enhance formation of ozone. In the cases that unidentified primary emitted species are assumed to account for unidentified missing sinks, a variety of impacts may be observed, which could serve as precursors of secondary organic aerosols (SOA) and significantly increase SOA formation. Missing sinks are considered to play an important role in the atmosphere over Tokyo metropolitan area.
+C1 [Chatani, S.; Shimo, N.; Matsunaga, S.] Japan Petr Energy Ctr, Tokyo, Japan.
+   [Kajii, Y.; Kato, S.; Nakashima, Y.; Miyazaki, K.] Tokyo Metropolitan Univ, Tokyo 158, Japan.
+   [Ishii, K.; Ueno, H.] Tokyo Metropolitan Res Inst Environm Protect, Tokyo, Japan.
+   [Chatani, S.] Toyota Cent Res & Dev Labs Inc, Aichi 48011, Japan.
+RP Chatani, S (reprint author), Japan Petr Energy Ctr, Tokyo, Japan.
+EM schatani@mosk.tytlabs.co.jp
+RI nakashima, yoshihiro/G-1141-2013; Chatani, Satoru/B-3697-2014
+OI Chatani, Satoru/0000-0002-6272-574X
+CR Atkinson R, 1997, J PHYS CHEM REF DATA, V26, P215, DOI 10.1063/1.556012
+   Atkinson R, 1997, J PHYS CHEM REF DATA, V26, P1329, DOI 10.1063/1.556010
+   ATKINSON R, 1994, J PHYS CHEM REF DATA, V2, P216
+   Byun D, 2006, APPL MECH REV, V59, P51, DOI 10.1115/1.2128636
+   Calvert J. G., 2008, MECH ATMOSPHERIC OXI
+   Carter WPL, 2000, IMPLEMENTATION SAPRC
+   Di Carlo P, 2004, SCIENCE, V304, P722, DOI 10.1126/science.1094392
+   GERY MW, 1989, J GEOPHYS RES-ATMOS, V94, P12925, DOI 10.1029/JD094iD10p12925
+   Guenther A, 2006, ATMOS CHEM PHYS, V6, P3181, DOI 10.5194/acp-6-3181-2006
+   Hofzumahaus A, 2009, SCIENCE, V324, P1702, DOI 10.1126/science.1164566
+   Kannari A, 2007, ATMOS ENVIRON, V41, P3428, DOI 10.1016/j.atmosenv.2006.12.015
+   Mao J, 2009, ATMOS CHEM PHYS, V9, P163, DOI 10.5194/acp-9-163-2009
+   Meng Z, 1997, SCIENCE, V277, P116, DOI 10.1126/science.277.5322.116
+   NAKASHIMA Y, 2009, J JPN SOC ATMOS ENV, V44, P33
+   Nansai K, 2004, P 13 INT EM INV C CL
+   Odum JR, 1996, ENVIRON SCI TECHNOL, V30, P2580, DOI 10.1021/es950943+
+   Ohara T, 2007, ATMOS CHEM PHYS, V7, P4419, DOI 10.5194/acp-7-4419-2007
+   Ren XR, 2003, ATMOS ENVIRON, V37, P3627, DOI 10.1016/S1352-2310(03)00460-6
+   Sadanaga Y, 2005, ENVIRON SCI TECHNOL, V39, P8847, DOI 10.1021/es049457p
+   Sadanaga Y, 2004, GEOPHYS RES LETT, V31, DOI 10.1029/2004GL019661
+   Sadanaga Y, 2004, REV SCI INSTRUM, V75, P2648, DOI 10.1063/1.1775311
+   Sadanaga Y., 2005, CHEM PHYS LETT, V419, P474
+   Sander S. P., 2003, JPL PUBLICATION, V02-25
+   Schell B, 2001, J GEOPHYS RES-ATMOS, V106, P28275, DOI 10.1029/2001JD000384
+   Shirley TR, 2006, ATMOS CHEM PHYS, V6, P2753, DOI 10.5194/acp-6-2753-2006
+   Sinha V, 2008, ATMOS CHEM PHYS, V8, P2213, DOI 10.5194/acp-8-2213-2008
+   Skamarock W., 2005, NCARTN468STR
+   Steiner AL, 2008, ATMOS CHEM PHYS, V8, P351, DOI 10.5194/acp-8-351-2008
+   Stroud CA, 2008, ATMOS ENVIRON, V42, P7746, DOI 10.1016/j.atmosenv.2008.05.054
+   Volkamer R, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2006GL026899
+   YOSHIKADO H, 1992, J APPL METEOROL, V31, P1146
+   Yoshino A, 2006, ATMOS ENVIRON, V40, P7869, DOI 10.1016/j.atmosenv.2006.07.023
+NR 32
+TC 18
+Z9 18
+U1 0
+U2 17
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1680-7316
+EI 1680-7324
+J9 ATMOS CHEM PHYS
+JI Atmos. Chem. Phys.
+PY 2009
+VL 9
+IS 22
+BP 8975
+EP 8986
+DI 10.5194/acp-9-8975-2009
+PG 12
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 525QX
+UT WOS:000272232500025
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Qadir, A
+   Malik, R
+AF Qadir, Abdul
+   Malik, Riffat Naseem
+TI Assessment of an index of biological integrity (IBI) to quantify the
+   quality of two tributaries of river Chenab, Sialkot, Pakistan
+SO HYDROBIOLOGIA
+LA English
+DT Article
+DE Fish communities; Heavy metals; Industrial and municipal waste; Stream
+   health; Sialkot; Tanneries
+ID FISH-ASSEMBLAGE STRUCTURE; CENTRAL-WESTERN GHATS; FRESH-WATER FISHES;
+   BIOTIC INTEGRITY; STREAM FISH; ENVIRONMENTAL GRADIENTS; ECOLOGICAL
+   INTEGRITY; COMMUNITY STRUCTURE; DIVERSITY; SYSTEM
+AB Nullah Aik and Nullah Palkhu, two tributaries of river Chenab, were investigated for the assessment of fish habitat degradation as indicator of stream health. Fish abundance data were collected from 18 sites from September 2004 to April 2006 to develop multimetric indices for fish assemblage integrity and to detect the intensity of habitat degradation. A total of 12 metrics were calculated on the basis of taxonomic richness, habitat preference, trophic guild, stress tolerance and origin of species to develop stepped and continuous index of biological integrity (IBI) criteria. Cluster analysis (CA) classified sites based on species composition into three groups, viz., reference, moderately impaired and impaired groups. Non-metric multidimensional scaling (NMDS) was applied to identify underlying ecological gradient to highlight the habitat degradation. NMDS segregated two sites as less impaired, five sites as moderately impaired and eleven sites as impaired groups. Axes 1 and 2 explained a total variation of 53.3%. First axis explained the level of habitat impairment, whereas axis 2 indicated species richness along longitudinal gradient of streams. Sites located upstream of Nullah Aik showed higher IBI scores which dropped to its lowest in downstream sites near Sialkot city. Lowest values of IBI of sites in close proximity of city indicated the role of anthropogenic activities in catchment areas. The results indicated that variability in water chemistry can be related as a function of stream sites impairments (i.e., unimpaired, moderately impaired, and severely impaired). Water quality parameters showed strong correlation with IBI scores. Significantly negative correlation of IBI scores with COD, TDS, turbidity, Fe, Cr, Zn and positive correlation with DO and pH was found. The results can be used for restoration and future management of small streams passing through urban areas of Pakistan.
+C1 [Qadir, Abdul; Malik, Riffat Naseem] Quaid I Azam Univ, Dept Plant Sci, Environm Biol Lab, Islamabad 46000, Pakistan.
+RP Malik, R (reprint author), Quaid I Azam Univ, Dept Plant Sci, Environm Biol Lab, Islamabad 46000, Pakistan.
+EM r_n_malik2000@yahoo.co.uk
+FU Higher Education Commission (HEC), Pakistan
+FX We thank the Higher Education Commission (HEC), Pakistan, for their
+   financial support during this study period. The first author also
+   recognizes the kind support rendered by Professor Dr. Tahira Ahmed
+   during field sampling design. Thanks are due to Muhammad Hussain (
+   Fisherman), Allah Ditta ( Fisherman), Arshed Makhdoom Sabir, Abdul
+   Rehman, Zafeer Saqib and Rizwan Ullah for their assistance in the field
+   work. The authors appreciated the constructive comments of two anonymous
+   reviewers to improve the quality of this manuscript.
+CR Allen S.E., 1974, CHEM ANAL ECOLOGICAL
+   ANGERMEIER PL, 1994, BIOSCIENCE, V44, P690, DOI 10.2307/1312512
+   [Anonymous], WIK FREE ENC
+   APHA (American Public Health Association), 1998, STAND METH EX WAT WA
+   Araujo F. G., 1998, Revista Brasileira de Biologia, V58, P547, DOI 10.1590/S0034-71081998000400002
+   Belpaire C, 2000, HYDROBIOLOGIA, V434, P17, DOI 10.1023/A:1004026121254
+   Bhat A, 2004, HYDROBIOLOGIA, V529, P83, DOI 10.1007/s10750-004-4949-1
+   Bhat A, 2003, ENVIRON BIOL FISH, V68, P25, DOI 10.1023/A:1026017119070
+   Borgatti R, 1999, SAGGI, V25, P1
+   Bozzetti M, 2004, HYDROBIOLOGIA, V529, P133, DOI 10.1007/s10750-004-5738-6
+   Breine J, 2004, HYDROBIOLOGIA, V522, P133, DOI 10.1023/B:HYDR.0000029991.42922.a4
+   Casatti L, 2006, ENVIRON MANAGE, V38, P974, DOI 10.1007/s00267-005-0212-4
+   Cetra M., 2006, Braz. J. Biol., V66, P431, DOI 10.1590/S1519-69842006000300007
+   Clarke KR, 1994, CHANGE MARINE COMMUN
+   Dauwalter DC, 2004, ENVIRON MONIT ASSESS, V91, P27, DOI 10.1023/B:EMAS.0000009229.84959.79
+   Davis WS, 1995, BIOL ASSESSMENT CRIT
+   DRAKE D, 2004, WAS04002 DEP ENV QUA
+   Eklov AG, 1998, FRESHWATER BIOL, V40, P771, DOI 10.1046/j.1365-2427.1998.00370.x
+   Fausch K. D., 1990, AM FISHERIES SOC S, P123
+   FRITZ C, 2004, RED RIV BAS REF COND
+   GAMMON JR, 1998, WABASHRIVER ECOSYSTE
+   Ganasan V, 1998, FRESHWATER BIOL, V40, P367, DOI 10.1046/j.1365-2427.1998.00347.x
+   Groom M. J., 2005, PRINCIPLES CONSERVAT
+   Habit E, 2006, FRESHWATER BIOL, V51, P1, DOI 10.1111/j.1365-2427.2005.01461.x
+   Hart BT, 2001, J ENVIRON MANAGE, V62, P93, DOI 10.1006/jema.2001.0424
+   Helms Brian S., 2005, Urban Ecosystems, V8, P39, DOI 10.1007/s11252-005-1418-1
+   HOWARD GW, 2002, INVASIVE SPECIES WAT
+   Hu TJ, 2007, ECOL INDIC, V7, P430, DOI 10.1016/j.ecolind.2006.04.003
+   Hughes R.M, 1994, BIOL ASSESSMENT CRIT, P31
+   Hughes RM, 1998, CAN J FISH AQUAT SCI, V55, P1618, DOI 10.1139/cjfas-55-7-1618
+   Jayaram K. C., 1999, FRESHWATER FISHES IN
+   Joy MK, 2004, ENVIRON MANAGE, V34, P415, DOI 10.1007/s00267-004-0083-0
+   Karr J. R., 1986, ILLINOIS NATURAL HIS, V5
+   KARR JR, 1981, FISHERIES, V6, P21, DOI 10.1577/1548-8446(1981)006<0021:AOBIUF>2.0.CO;2
+   KARR JR, 1991, ECOL APPL, V1, P66, DOI 10.2307/1941848
+   Kasulo Victor, 2000, P183
+   KAZMI S, 1995, PAKISTAN GULF E 0128, P6
+   Kennard MJ, 2005, FRESHWATER BIOL, V50, P174, DOI 10.1111/j.1365-2427.2004.01293.x
+   Kestemont P., 2000, Archiv fuer Hydrobiologie Supplement, V121, P321
+   Kleynhans CJ, 1999, WATER SA, V25, P265
+   Kouamelan EP, 2003, HYDROBIOLOGIA, V505, P139, DOI 10.1023/B:HYDR.0000007302.74296.84
+   KUSHLAN JA, 1976, ECOLOGY, V57, P821, DOI 10.2307/1936196
+   Long JM, 2005, HYDROBIOLOGIA, V544, P177, DOI 10.1007/s10750-005-0543-4
+   Lwanga MS, 2003, HYDROBIOLOGIA, V499, P83, DOI 10.1023/A:1026347703129
+   Lyons J, 2000, HYDROBIOLOGIA, V418, P57, DOI 10.1023/A:1003888032756
+   Malik RN, 2006, PAK J BOT, V38, P571
+   MATTHEWS WJ, 1985, AM MIDL NAT, V113, P225, DOI 10.2307/2425568
+   Matthews WJ, 1998, PATTERNS FRESHWATER
+   MCCONNELL RHL, 1987, ECOLOGICAL STUDIES T, P1
+   McCormick FH, 2001, T AM FISH SOC, V130, P857, DOI 10.1577/1548-8659(2001)130<0857:DOAIOB>2.0.CO;2
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   McCune B, 1999, PC ORD MULTIVARIATE
+   Mebane CA, 2003, T AM FISH SOC, V132, P239, DOI 10.1577/1548-8659(2003)132<0239:AIOBII>2.0.CO;2
+   MEHDI A, 2005, TANNERIES POLLUTION
+   MINNS CK, 1994, CAN J FISH AQUAT SCI, V51, P1804, DOI 10.1139/f94-183
+   Mirza M. R., 2003, PAKISTAN J ZOOL S, V3, P1
+   Moyle P., 1992, CONSERVATION BIOL TH
+   Moyle PB, 2003, ENVIRON BIOL FISH, V68, P143, DOI 10.1023/B:EBFI.0000003846.54826.a6
+   MULLINS WH, 1999, 984123 US DEP INT US
+   OBERDORFF T, 1992, HYDROBIOLOGIA, V228, P117, DOI 10.1007/BF00006200
+   Oberdorff T, 2002, FRESHWATER BIOL, V47, P1720, DOI 10.1046/j.1365-2427.2002.00884.x
+   Oberdorff T, 1992, AQUAT LIVING RESOUR, V5, P215, DOI 10.1051/alr:1992021
+   Ode PR, 2005, ENVIRON MANAGE, V35, P493, DOI 10.1007/s00267-004-0035-8
+   Pinto BCT, 2006, NEOTROP ICHTHYOL, V4, P269, DOI 10.1590/S1679-62252006000200013
+   PLAFKIN JL, 1989, EPA440489001
+   *POP CENS ORG, 2000, CENS PUBL POP CENS O, V124
+   Pyron M, 2008, HYDROBIOLOGIA, V600, P205, DOI 10.1007/s10750-007-9232-9
+   Qadir A, 2008, ENVIRON MONIT ASSESS, V140, P43, DOI 10.1007/s10661-007-9846-4
+   Radwell AJ, 2005, ENVIRON MANAGE, V35, P799, DOI 10.1007/s00267-004-0136-4
+   Reynoldson TB, 1997, J N AM BENTHOL SOC, V16, P833, DOI 10.2307/1468175
+   Scardi M, 2008, ECOL INFORM, V3, P55, DOI 10.1016/j.ecoinf.2007.10.001
+   Schleiger SL, 2000, T AM FISH SOC, V129, P1118, DOI 10.1577/1548-8659(2000)129<1118:UOAIOB>2.0.CO;2
+   Scrimgeour GJ, 2000, CAN J FISH AQUAT SCI, V57, P1342, DOI 10.1139/cjfas-57-7-1342
+   SHINN RC, 2000, FISH IBI SUMMARY REP
+   Siligato S., 2001, Journal of Aquatic Ecosystem Stress and Recovery, V8, P371, DOI 10.1023/A:1012954726016
+   Simon T.P., 1991, DEV ECOREGION EXPECT
+   Simon T. P., 1995, BIOL ASSESSMENT CRIT
+   Smith AK, 1999, MAR ENVIRON RES, V47, P241, DOI 10.1016/S0141-1136(98)00120-2
+   *SOFTST INC, 1999, STATISTICA WIND
+   Spence Angie M., 1999, Proceedings of the Oklahoma Academy of Science, V79, P61
+   Springe G, 2006, HYDROBIOLOGIA, V566, P153, DOI 10.1007/s10750-006-0099-y
+   STEEDMAN RJ, 1988, CAN J FISH AQUAT SCI, V45, P492, DOI 10.1139/f88-059
+   Stoddard J. L., 2006, SETTING EXPECTATIONS
+   Sudaryanti Sri, 2001, Aquatic Ecology, V35, P135, DOI 10.1023/A:1011458520966
+   Talwar P. K., 1991, INLAND FISHES INDIA
+   Tejerina-Garro FL, 2005, BRAZ ARCH BIOL TECHN, V48, P91, DOI 10.1590/S1516-89132005000100013
+   Toham Andre Kamdem, 1999, Hydrobiologia, V397, P29
+   *USEPA, 2006, BEST PRACT ID REF CO
+   USEPA, 1990, REC PROT MEAS CONV W
+   Vila-Gispert A, 2002, AQUAT SCI, V64, P163, DOI 10.1007/s00027-002-8064-y
+   Walton BM, 2007, LANDSCAPE URBAN PLAN, V79, P110, DOI 10.1016/j.landurbplan.2005.10.004
+   Wichert GA, 1998, ENVIRON MANAGE, V22, P425, DOI 10.1007/s002679900117
+   Wolter C, 2000, FISHERIES MANAG ECOL, V7, P97, DOI 10.1046/j.1365-2400.2000.00200.x
+   Young R., 2004, 870 MIN ENV
+   Zampella RA, 2006, ECOL INDIC, V6, P644, DOI 10.1016/j.ecolind.2005.08.027
+   Zhu D, 2008, ECOL INDIC, V8, P564, DOI 10.1016/j.ecolind.2007.07.004
+   2000, DISCHARGE DATA DRAIN
+NR 97
+TC 29
+Z9 36
+U1 3
+U2 16
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0018-8158
+EI 1573-5117
+J9 HYDROBIOLOGIA
+JI Hydrobiologia
+PD MAR
+PY 2009
+VL 621
+BP 127
+EP 153
+DI 10.1007/s10750-008-9637-0
+PG 27
+WC Marine & Freshwater Biology
+SC Marine & Freshwater Biology
+GA 390NW
+UT WOS:000262172000010
+DA 2019-03-26
+ER

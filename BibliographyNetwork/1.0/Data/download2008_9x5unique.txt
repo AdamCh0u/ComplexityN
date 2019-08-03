@@ -1,0 +1,500 @@
+
+PT J
+AU Sivakumar, B
+   Sharma, A
+AF Sivakumar, Bellie
+   Sharma, Ashish
+TI A cascade approach to continuous rainfall data generation at point
+   locations
+SO STOCHASTIC ENVIRONMENTAL RESEARCH AND RISK ASSESSMENT
+LA English
+DT Article
+DE high-resolution rainfall; data transformation; scale-invariance; random
+   cascade; moment scaling function; log-Poisson distribution; Sydney
+ID STOCHASTIC GENERATION; DISAGGREGATION MODEL; STATISTICAL-ANALYSIS;
+   NONPARAMETRIC MODEL; MESOSCALE RAINFALL; TIME-SERIES; SIMULATION;
+   HYDROLOGY; DESIGN
+AB High-resolution temporal rainfall data sequences serve as inputs for a range of applications in planning, design and management of small (especially urban) water resources systems, including continuous flow simulation and evaluation of alternate policies for environmental impact assessment. However, such data are often not available, since their measurements are costly and time-consuming. One alternative to obtain high-resolution data is to try to derive them from available low-resolution information through a disaggregation procedure. This study evaluates a random cascade approach for generation of high-resolution rainfall data at a point location. The approach is based on the concept of scaling in rainfall, or, relating the properties associated with the rainfall process at one temporal scale to a finer-resolution scale. The procedure involves two steps: (1) identification of the presence of scaling behavior in the rainfall process; and (2) generation of synthetic data possessing same/similar scaling properties of the observed rainfall data. The scaling identification is made using a statistical moment scaling function, and the log-Poisson distribution is assumed to generate the synthetic rainfall data. The effectiveness of the approach is tested on the rainfall data observed at the Sydney Observatory Hill, Sydney, Australia. Rainfall data corresponding to four different successively doubled resolutions (daily, 12, 6, and 3 h) are studied, and disaggregation of data is attempted only between these successively doubled resolutions. The results indicate the presence of multi-scaling behavior in the rainfall data. The synthetic data generated using the log-Poisson distribution are found to exhibit scaling behaviors that match very well with that for the observed data. However, the results also indicate that fitting the scaling function alone does not necessarily mean reproducing the broader attributes that characterize the data. This observation clearly points out the extreme caution needed in the application of the existing methods for identification of scaling in rainfall, especially since such methods are also prevalent in studies of the emerging satellite observations and thus in the broader spectrum of hydrologic modeling.
+C1 [Sivakumar, Bellie] Univ Calif Davis, Dept Land Air & Water Resources, Davis, CA 95616 USA.
+   [Sharma, Ashish] Univ New S Wales, Sch Civil & Environm Engn, Sydney, NSW 2052, Australia.
+RP Sivakumar, B (reprint author), Univ Calif Davis, Dept Land Air & Water Resources, Davis, CA 95616 USA.
+EM sbellie@ucdavis.edu
+OI Sharma, Ashish/0000-0002-6758-0519
+CR Anagnostou EN, 2004, SURV GEOPHYS, V25, P511, DOI 10.1007/s10712-004-5724-6
+   ARNOLD JG, 1989, T ASAE, V32, P161
+   Bak P, 1996, NATURE WORKS SCI SEL
+   Connolly RD, 1998, AGR FOREST METEOROL, V92, P105, DOI 10.1016/S0168-1923(98)00088-4
+   Cowpertwait PSP, 1996, J HYDROL, V175, P47, DOI 10.1016/S0022-1694(96)80005-9
+   ECONOPOULY TW, 1990, J HYDROL, V118, P209, DOI 10.1016/0022-1694(90)90259-Z
+   Frisch U., 1985, TURBULENCE PREDICTAB, P84
+   GUPTA VK, 1993, J APPL METEOROL, V32, P251, DOI 10.1175/1520-0450(1993)032<0251:ASAOMR>2.0.CO;2
+   Harrold TI, 2003, WATER RESOUR RES, V39, DOI 10.1029/2003WR002182
+   Harrold TI, 2003, WATER RESOUR RES, V39, DOI 10.1029/2003WR002570
+   Heneker TM, 2001, J HYDROL, V247, P54, DOI 10.1016/S0022-1694(01)00361-4
+   HERSHENHORN J, 1987, J HYDROL, V95, P299, DOI 10.1016/0022-1694(87)90008-4
+   Koutsoyiannis D, 2003, WATER RESOUR RES, V39, DOI 10.1029/2002WR001600
+   Lambert M, 1998, WATER RESOUR RES, V34, P143, DOI 10.1029/97WR02767
+   LOVEJOY S, 1985, TELLUS A, V37, P209, DOI 10.1111/j.1600-0870.1985.tb00423.x
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   MANDELBROT BB, 1968, WATER RESOUR RES, V4, P909, DOI 10.1029/WR004i005p00909
+   Margulis SA, 2001, HYDROL EARTH SYST SC, V5, P27, DOI 10.5194/hess-5-27-2001
+   Mehrotra R, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2004JD005677
+   Mehrotra R, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004823
+   Menabde M, 1999, WATER RESOUR RES, V35, P335, DOI 10.1029/1998WR900012
+   Menabde M, 2000, WATER RESOUR RES, V36, P3293, DOI 10.1029/2000WR900197
+   Meneveau C, 2000, ANNU REV FLUID MECH, V32, P1, DOI 10.1146/annurev.fluid.32.1.1
+   Olsson J, 1998, WATER SCI TECHNOL, V37, P73, DOI 10.1016/S0273-1223(98)00318-7
+   Onof C., 2004, HYDROLOGY SCI PRACTI, P377
+   OVER TM, 1994, J APPL METEOROL, V33, P1526, DOI 10.1175/1520-0450(1994)033<1526:SAOMRD>2.0.CO;2
+   Perica S, 1996, J GEOPHYS RES-ATMOS, V101, P26347, DOI 10.1029/96JD01870
+   Rinaldo A, 2006, WATER RESOUR RES, V42, DOI 10.1029/2005WR004108
+   Rinaldo A, 2006, WATER RESOUR RES, V42, DOI 10.1029/2006WR004945
+   RODRIGUEZ I, 1997, FRACTAL RIVER BASINS
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Seed AW, 1999, J GEOPHYS RES-ATMOS, V104, P31623, DOI 10.1029/1999JD900767
+   Seed AW, 2000, WATER RESOUR RES, V36, P2395, DOI 10.1029/2000WR900117
+   Sharma A, 1999, MATH COMPUT SIMULAT, V48, P361, DOI 10.1016/S0378-4754(99)00016-6
+   Sivakumar B, 2000, J HYDROL, V227, P1, DOI 10.1016/S0022-1694(99)00186-9
+   Sivakumar B, 2001, WATER RESOUR RES, V37, P61, DOI 10.1029/2000WR900196
+   Sivakumar B, 2001, HYDROL PROCESS, V15, P943, DOI 10.1002/hyp.260
+   Sposito G., 1998, SCALE DEPENDENCE SCA
+   Srikanthan R, 2005, STOCH ENV RES RISK A, V19, P215, DOI 10.1007/s00477-004-0226-0
+   Svensson C, 1996, WATER RESOUR RES, V32, P2463, DOI 10.1029/96WR01099
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+NR 41
+TC 21
+Z9 22
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 1436-3240
+J9 STOCH ENV RES RISK A
+JI Stoch. Environ. Res. Risk Assess.
+PD JUN
+PY 2008
+VL 22
+IS 4
+BP 451
+EP 459
+DI 10.1007/s00477-007-0145-y
+PG 9
+WC Engineering, Environmental; Engineering, Civil; Environmental Sciences;
+   Statistics & Probability; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Mathematics; Water
+   Resources
+GA 290AP
+UT WOS:000255095300002
+DA 2019-03-26
+ER
+
+PT J
+AU Batty, M
+AF Batty, Michael
+TI The size, scale, and shape of cities
+SO SCIENCE
+LA English
+DT Editorial Material
+ID GROWTH; LIFE; LAW
+AB Despite a century of effort, our understanding of how cities evolve is still woefully inadequate. Recent research, however, suggests that cities are complex systems that mainly grow from the bottom up, their size and shape following well-defined scaling laws that result from intense competition for space. An integrated theory of how cities evolve, linking urban economics and transportation behavior to developments in network science, allometric growth, and fractal geometry, is being slowly developed. This science provides new insights into the resource limits facing cities in terms of the meaning of density, compactness, and sprawl, and related questions of sustainability. It has the potential to enrich current approaches to city planning and replace traditional top-down strategies with realistic city plans that benefit all city dwellers.
+C1 UCL, Ctr Adv Spatial Anal, London WC1E 6BT, England.
+RP Batty, M (reprint author), UCL, Ctr Adv Spatial Anal, 1-19 Torrington Pl, London WC1E 6BT, England.
+EM m.batty@ucl.ac.uk
+RI Batty, Michael/I-5638-2014
+FU Economic and Social Research Council [RES-149-25-1023]
+CR ANDERSON PW, 1972, SCIENCE, V177, P393, DOI 10.1126/science.177.4047.393
+   Batty M, 2005, CITIES COMPLEXITY
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Benenson I, 2004, GEOSIMULATION AUTOMA
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   Chowell G, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.066102
+   Christaller W., 1933, ZENTRALEN ORTE SUDDE
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   CLAUSET A, 2007, ARXIVORGABS07061062V
+   Duranton G, 2007, AM ECON REV, V97, P197, DOI 10.1257/aer.97.1.197
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   Fujita M., 1999, SPATIAL EC CITIES RE
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gibrat R., 1931, INEGALITES EC
+   Helbing D, 2005, TRANSPORT SCI, V39, P1, DOI 10.1287/trsc.1040.0108
+   Howard E, 2003, TOMORROW PEACEFUL PA
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Morris William, 1902, ARCHITECTURE IND WEA
+   NEWMAN MEJ, 2005, STRUCTURE DYNAMICS N
+   Pareto V., 1896, COURS EC POLITIQUE
+   Scellato S, 2006, EUR PHYS J B, V50, P221, DOI 10.1140/epjb/e2006-00066-4
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Stanley MHR, 1996, NATURE, V379, P804, DOI 10.1038/379804a0
+   WEGENER M., 2005, GIS SPATIAL ANAL MOD, P203
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   Wilson AG, 1970, ENTROPY URBAN REGION
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 30
+TC 426
+Z9 453
+U1 20
+U2 250
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD FEB 8
+PY 2008
+VL 319
+IS 5864
+BP 769
+EP 771
+DI 10.1126/science.1151419
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 259TE
+UT WOS:000252963000049
+PM 18258906
+DA 2019-03-26
+ER
+
+PT J
+AU Beaglehole, R
+   Epping-Jordan, J
+   Patel, V
+   Chopra, M
+   Ebrahim, S
+   Kidd, M
+   Haines, A
+AF Beaglehole, Robert
+   Epping-Jordan, JoAnne
+   Patel, Vikram
+   Chopra, Mickey
+   Ebrahim, Shah
+   Kidd, Michael
+   Haines, Andy
+TI Alma-Ata: Rebirth and revision 3 - Improving the prevention and
+   management of chronic disease in low-income and middle-income countries:
+   a priority for primary health care
+SO LANCET
+LA English
+DT Review
+ID RANDOMIZED CONTROLLED-TRIAL; COMMON MENTAL-DISORDERS; RESOURCE-POOR
+   SETTINGS; INTERNATIONAL PRIMARY-CARE; RURAL SOUTH-AFRICA;
+   CARDIOVASCULAR-DISEASE; COST-EFFECTIVENESS; MAINTENANCE ORGANIZATION;
+   ANTIRETROVIRAL TREATMENT; DIABETES PREVENTION
+AB The burden of chronic diseases, such as heart disease, cancer, diabetes, and mental disorders is high in low-income and middle-income countries and is predicted to increase with the ageing of populations, urbanisation, and globalisation of risk factors. Furthermore, HIV/AIDS is increasingly becoming a chronic disorder. An integrated approach to the management of chronic diseases, irrespective of cause, is needed in primary health care. Management of chronic diseases is fundamentally different from acute care, relying on several features: opportunistic case finding for assessment of risk factors, detection of early disease, and identification of high risk status; a combination of pharmacological and psychosocial interventions, often in a stepped-care fashion; and long-term follow-up with regular monitoring and promotion of adherence to treatment. To meet the challenge of chronic diseases, primary health care will have to be strengthened substantially. In the many countries with shortages of primary-care doctors, non-physician clinicians will have a leading role in preventing and managing chronic diseases, and these personnel need appropriate training and continuous quality assurance mechanisms. More evidence is needed about the cost-effectiveness of prevention and treatment strategies in primary health care. Research on scaling-up should be embedded in large-scale delivery programmes for chronic diseases with a strong emphasis on assessment.
+C1 [Beaglehole, Robert] Univ Auckland, Auckland 1, New Zealand.
+   [Patel, Vikram; Ebrahim, Shah; Haines, Andy] London Sch Hyg & Trop Med, London WC1, England.
+   [Chopra, Mickey] MRC S Africa, Hlth Syst Res Unit, Cape Town, South Africa.
+   [Kidd, Michael] Univ Sydney, Dept Gen Practice, Sydney, NSW 2006, Australia.
+RP Beaglehole, R (reprint author), 42 Albert Rd, N Shore City 0624, New Zealand.
+EM r.beaglehole@auckland.ac.nz
+OI Patel, Vikram/0000-0003-1066-8584
+FU Wellcome Trust Senior Clinical Research Fellowship
+FX We thank Donna Bowers for help with references. VP is supported by a
+   Wellcome Trust Senior Clinical Research Fellowship.
+CR Abegunde DO, 2007, B WORLD HEALTH ORGAN, V85, P432, DOI 10.2471/BLT.06.032177
+   Anyangwe Stella C E, 2007, Int J Environ Res Public Health, V4, P93, DOI 10.3390/ijerph2007040002
+   Araya R, 2006, AM J PSYCHIAT, V163, P1379, DOI 10.1176/appi.ajp.163.8.1379
+   Asaria P, 2007, LANCET, V370, P2044, DOI 10.1016/S0140-6736(07)61698-5
+   Aubert RE, 1998, ANN INTERN MED, V129, P605, DOI 10.7326/0003-4819-129-8-199810150-00004
+   BABOR TF, 1994, ADDICTION, V89, P657, DOI 10.1111/j.1360-0443.1994.tb00944.x
+   Beaglehole R, 2007, LANCET, V370, P2152, DOI 10.1016/S0140-6736(07)61700-0
+   Berwick DM, 2004, BRIT MED J, V328, P1124, DOI 10.1136/bmj.328.7448.1124
+   Bodenheimer T, 2002, JAMA-J AM MED ASSOC, V288, P1909, DOI 10.1001/jama.288.15.1909
+   Bower P, 2006, BRIT J PSYCHIAT, V189, P484, DOI 10.1192/bjp.bp.106.023655
+   Braitstein P, 2006, LANCET, V367, P817
+   Brownstein JN, 2007, AM J PREV MED, V32, P435, DOI 10.1016/j.amepre.2007.01.011
+   Chatterjee S, 2008, WORLD PSYCHIATRY, V7, P39
+   Chen L, 2004, LANCET, V364, P1984, DOI 10.1016/S0140-6736(04)17482-5
+   Chisholm D, 2007, BRIT J PSYCHIAT, V191, P528, DOI 10.1192/bjp.bp.107.038463
+   Coleman R, 1998, B WORLD HEALTH ORGAN, V76, P633
+   Collins PY, 2006, AIDS, V20, P1571, DOI 10.1097/01.aids.0000238402.70379.d4
+   Croudace T, 2003, BRIT J PSYCHIAT, V182, P20, DOI 10.1192/bjp.182.1.20
+   Davis RM, 2000, BRIT MED J, V320, P525, DOI 10.1136/bmj.320.7234.525
+   Deakin T, 2005, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD003417.pub2
+   EBRAHIM S, 1996, HLTH PROMOTION OLDER
+   Ebrahim S, 2008, INT J EPIDEMIOL, V37, P225, DOI 10.1093/ije/dyn016
+   Epping-Jordan JE, 2004, QUAL SAF HEALTH CARE, V13, P299, DOI 10.1136/qshc.2004.010744
+   Farmer P, 2001, LANCET, V358, P404, DOI 10.1016/S0140-6736(01)05550-7
+   Feachem RGA, 2002, BRIT MED J, V324, P135, DOI 10.1136/bmj.324.7330.135
+   Fiellin DA, 2000, ARCH INTERN MED, V160, P1977, DOI 10.1001/archinte.160.13.1977
+   Foster G, 2007, COCHRANE DB SYST REV, V4, DOI DOI 10.1002/14651858.CD005108.PUB2
+   Friis-Moller N, 2007, NEW ENGL J MED, V356, P1723
+   FUNK M, 2004, INT J MENT HLTH, V33, P4
+   Gaziano TA, 2008, LANCET, V371, P923, DOI 10.1016/S0140-6736(08)60418-3
+   Gaziano TA, 2006, LANCET, V368, P679, DOI 10.1016/S0140-6736(06)69252-0
+   Gilbody S, 2003, JAMA-J AM MED ASSOC, V289, P3145, DOI 10.1001/jama.289.23.3145
+   Gilbody S, 2005, COCHRANE DB SYST REV, V4, DOI DOI 10.1002/14651858.CD002792.PUB2
+   Gilbody S, 2006, BRIT J PSYCHIAT, V189, P297, DOI 10.1192/bjp.bp.105.016006
+   Gilks CF, 2006, LANCET, V368, P505, DOI 10.1016/S0140-6736(06)69158-7
+   Glasgow RE, 2004, AM J PREV MED, V27, P88, DOI 10.1016/j.amepre.2004.04.019
+   Global Health Workforce Alliance, HLTH WORK ALL ALL HL
+   Gureje O, 2007, WORLD PSYCHIATRY, V6, P42
+   Harries AD, 2006, LANCET, V367, P1870, DOI 10.1016/S0140-6736(06)68809-0
+   Harries AD, 2008, PLOS MED, V5, P859, DOI 10.1371/journal.pmed.0050124
+   Henderson DC, 2005, J NERV MENT DIS, V193, P551, DOI 10.1097/01.nmd.0000172869.01711.33
+   Hodges B, 2001, AM J PSYCHIAT, V158, P1579, DOI 10.1176/appi.ajp.158.10.1579
+   *IMPR CHRON ILLN C, ICIC OUR WORK
+   *INT DIAB FED, 2007, DIAB ATL
+   Jamison DT, 2006, DISEASE CONTROL PRIORITIES IN DEVELOPING COUNTRIES, 2ND EDITION, P1
+   Janssens B, 2007, B WORLD HEALTH ORGAN, V85, P880, DOI 10.2471/BLT.06.036574
+   Jha P, 2006, DISEASE CONTROL PRIORITIES IN DEVELOPING COUNTRIES, 2ND EDITION, P869
+   KANER EFS, 2008, COCHRANE DB SYST REV, V2
+   Kearney PM, 2005, LANCET, V365, P217, DOI 10.1016/S0140-6736(05)17741-1
+   Kripalani S, 2007, ARCH INTERN MED, V167, P540, DOI 10.1001/archinte.167.6.540
+   Li GW, 2008, LANCET, V371, P1783, DOI 10.1016/S0140-6736(08)60766-7
+   Lim SS, 2007, LANCET, V370, P2054, DOI 10.1016/S0140-6736(07)61699-7
+   Lorig KR, 2001, MED CARE, V39, P1217, DOI 10.1097/00005650-200111000-00008
+   Management Sciences for Health WHO, 2013, INT DRUG PRIC IND GU
+   Molyneux DH, 2008, T ROY SOC TROP MED H, V102, P509, DOI 10.1016/j.trstmh.2008.02.024
+   Mullan F, 2007, LANCET, V370, P2158, DOI 10.1016/S0140-6736(07)60785-5
+   Narasimhan V, 2004, LANCET, V363, P1469, DOI 10.1016/S0140-6736(04)16108-4
+   NASH D, 2008, 15 C RETR OPP INF BO
+   National Health Priority Action Council, 2006, NAT CHRON DIS STRAT
+   National Institute for Clinical Excellence, 2004, DEPR MAN DEPR PRIM S
+   Norris SL, 2001, DIABETES CARE, V24, P561, DOI 10.2337/diacare.24.3.561
+   Ouwens M, 2005, INT J QUAL HEALTH C, V17, P141, DOI 10.1093/intqhc/mzi016
+   Pan American Health Organization, 2007, VER PROJ IMPR DIAB C
+   Patel V, 2008, PSYCHOL MED, V38, P221, DOI 10.1017/S0033291707002334
+   Patel V, 2003, LANCET, V361, P33, DOI 10.1016/S0140-6736(03)12119-8
+   Patel V., 2003, WHERE THERE IS NO PS
+   Patel V, 2007, LANCET, V370, P991, DOI 10.1016/S01406736(07)61240-9
+   Patel VH, 2008, TRIALS, V9, DOI 10.1186/1745-6215-9-4
+   Pruitt SD, 2005, BMJ-BRIT MED J, V330, P637, DOI 10.1136/bmj.330.7492.637
+   Qureshi NA, 2006, EDUC HEALTH, V19, P52, DOI 10.1080/13576280500525527
+   Rahman A, 2008, LANCET, V372, P902, DOI 10.1016/S0140-6736(08)61400-2
+   Ramachandran A, 2006, DIABETOLOGIA, V49, P289, DOI 10.1007/s00125-005-0097-z
+   Renders CM, 2001, DIABETES CARE, V24, P1821, DOI 10.2337/diacare.24.10.1821
+   Rohde J, 2008, LANCET, V372, P950, DOI 10.1016/S0140-6736(08)61405-1
+   RUEDA S, 2006, COCHRANE DB SYST REV, V3
+   Sadur CN, 1999, DIABETES CARE, V22, P2011, DOI 10.2337/diacare.22.12.2011
+   Samb B, 2007, NEW ENGL J MED, V357, P2510, DOI 10.1056/NEJMsb071889
+   Saraceno B, 2007, LANCET, V370, P1164, DOI 10.1016/S0140-6736(07)61263-X
+   *SCOTT GOV, PARTN CAR SCOTL HLTH
+   Silagy C, 2008, COCHRANE DB SYST REV, DOI [10.1002/14651858.CD000146, DOI 10.1002/14651858.CD000146.PUB3]
+   Simon GE, 1999, GEN HOSP PSYCHIAT, V21, P97, DOI 10.1016/S0163-8343(98)00072-3
+   Simon GE, 2002, GEN HOSP PSYCHIAT, V24, P328, DOI 10.1016/S0163-8343(02)00201-3
+   Simon GE, 2002, GEN HOSP PSYCHIAT, V24, P213, DOI 10.1016/S0163-8343(02)00198-6
+   Singh D, 2006, IMPROVING CARE PEOPL
+   SMITH SM, 2007, COCHRANE DB SYST REV, V3
+   Stead LF, 2008, COCHRANE DB SYST REV, V2, DOI DOI 10.1002/14651858.CD000165.PUB3
+   Strong K, 2005, LANCET, V366, P1578, DOI 10.1016/S0140-6736(05)67341-2
+   Thompson C, 2000, LANCET, V355, P185, DOI 10.1016/S0140-6736(99)03171-2
+   Tollman SM, 2008, LANCET, V372, P893, DOI 10.1016/S0140-6736(08)61399-9
+   Tsai AC, 2005, AM J MANAG CARE, V11, P478
+   *UK DEP HLTH, 2001, EXP PAT NEW APPR CHR
+   *UNAIDS, 2007, JOINT UN PROGR HIV A
+   Ustun TB, 1995, MENT ILLN GEN HLTH C
+   Vergouwen ACM, 2003, J CLIN PSYCHIAT, V64, P1415, DOI 10.4088/JCP.v64n1203
+   Von Korff M, 2002, BRIT MED J, V325, P92, DOI 10.1136/bmj.325.7355.92
+   Wagner E H, 1999, Manag Care Q, V7, P56
+   Wald NJ, 2003, BMJ-BRIT MED J, V326, P1419, DOI 10.1136/bmj.326.7404.1419
+   *WHO, 2004, INT MAN AD ILLN EXT
+   WHO/WONCA, 2008, INT MENT HLTH PRIM C
+   Wilson IB, 2005, ANN INTERN MED, V143, P729, DOI 10.7326/0003-4819-143-10-200511150-00010
+   World Health Organization, 1998, MENT DIS PRIM CAR WH
+   World Health Organization, 2001, WORLD HLTH REP 2001
+   World Health Organization, 2005, PREP WORKF 21 CENT C
+   World Health Organization, 2005, PREV CHRON DIS VIT I
+   World Health Organization, 2006, WORLD HLTH REP 2006
+   2007, LANCET
+NR 106
+TC 249
+Z9 257
+U1 2
+U2 50
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD SEP 13
+PY 2008
+VL 372
+IS 9642
+BP 940
+EP 949
+DI 10.1016/S0140-6736(08)61404-X
+PG 10
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 349FO
+UT WOS:000259266900034
+PM 18790317
+DA 2019-03-26
+ER
+
+PT J
+AU Rachlin, JW
+   Warkentine, BE
+   Pappantoniou, A
+AF Rachlin, Joseph W.
+   Warkentine, Barbara E.
+   Pappantoniou, Antonios
+TI Use of a parsimony algorithm as a method for evaluating lchthyofaunal
+   distribution and co-occurrence in an urban stream
+SO JOURNAL OF FRESHWATER ECOLOGY
+LA English
+DT Article
+ID FISH ASSEMBLAGES; HISTORICAL BIOGEOGRAPHY; PATTERNS; COMMUNITIES; RIVER;
+   ASSOCIATIONS; ECOREGIONS; DIVERSITY; BASINS; YORK
+AB The use of a parsimony algorithm as a method for graphically representing ichthyofaunal distribution and co-occurrence in an urban stream was evaluated using an extensive database of 23 fish species from the freshwater reaches of the Bronx River, New York, USA. The method, based on the idea of considering each sampling station as a "taxon" and the presence or absence of each fish species as a "character state" of that "taxon," resulted in a single most parsimonious tree from which both species distributions throughout the river and the co-occurrence of the fish species at each of eight stations could be clearly visualized and evaluated. The nesting of the stations obtained by this procedure was compared with results from hierarchical clustering, detrended correspondence analysis, and nonmetric multidimensional scaling. This parsimony analysis technique provided information congruent with the above mentioned multivariate methods; in addition, it provided a unique graphical representation of community structure, a representation that is not readily available from traditional multivariate analysis program packages.
+C1 [Rachlin, Joseph W.] CUNY Herbert H Lehman Coll, Dept Biol Sci, Lab Marine & Estuarine Res, Bronx, NY 10468 USA.
+   [Warkentine, Barbara E.] SUNY Maritime Coll, Sci Dept, Bronx, NY 10465 USA.
+   [Pappantoniou, Antonios] Housaton Commun Coll, Dept Math Sci, Bridgeport, CT 06604 USA.
+RP Rachlin, JW (reprint author), CUNY Herbert H Lehman Coll, Dept Biol Sci, Lab Marine & Estuarine Res, 250 Bedford Pk Blvd W, Bronx, NY 10468 USA.
+EM joseph.rachlin@lehman.cuny.edu
+CR Able KW, 2005, NORTHEAST NAT, V12, P485, DOI 10.1656/1092-6194(2005)012[0485:FCAAIN]2.0.CO;2
+   Aguilar-Aguilar R, 2003, J BIOGEOGR, V30, P1861, DOI 10.1111/j.1365-2699.2003.00931.x
+   Angermeier PL, 1999, ECOL APPL, V9, P335, DOI 10.1890/1051-0761(1999)009[0335:CFCDAV]2.0.CO;2
+   Brazner JC, 1997, CAN J FISH AQUAT SCI, V54, P1743, DOI 10.1139/cjfas-54-8-1743
+   BROOKS DR, 1990, SYST ZOOL, V39, P14, DOI 10.2307/2992205
+   Brooks DR, 2001, J BIOGEOGR, V28, P345, DOI 10.1046/j.1365-2699.2001.00545.x
+   Choudhury A, 1998, J BIOGEOGR, V25, P623, DOI 10.1046/j.1365-2699.1998.2540623.x
+   CRISCI JV, 2003, HIST BIOGEOGRAPHY
+   FARRIS JS, 1970, SYST ZOOL, V19, P83, DOI 10.2307/2412028
+   FARRIS JS, 1979, SYST ZOOL, V28, P483, DOI 10.2307/2412562
+   FINGER TR, 1982, J FRESHWATER ECOL, V1, P343, DOI 10.1080/02705060.1982.9664052
+   Gauch H., 1982, MULTIVARIATE ANAL CO
+   Gerhard P, 2004, ENVIRON BIOL FISH, V71, P321, DOI 10.1007/s10641-004-1260-y
+   Goloboff P.A, 1993, NONA VERSION 2
+   Goloboff PA, 1996, CLADISTICS, V12, P199
+   GOLOBOFF PA, 1993, CLADISTICS, V9, P83, DOI 10.1111/j.1096-0031.1993.tb00209.x
+   GOLOBOFF PA, 1993, CLADISTICS, V9, P433, DOI 10.1006/clad.1993.1030
+   Harrisona TD, 2006, ENVIRON BIOL FISH, V75, P269, DOI 10.1007/s10641-006-0028-y
+   HAWKES CL, 1986, ENVIRON BIOL FISH, V17, P267, DOI 10.1007/BF00001493
+   HUGHES RM, 1987, COPEIA, P423
+   HUIBOBRO L, 2006, J BIOGEOGR, V33, P731
+   JACKSON DA, 1989, ECOLOGY, V70, P1472, DOI 10.2307/1938206
+   Legendre P, 1998, NUMERICAL ECOLOGY
+   Li RY, 2005, ECOL FRESHW FISH, V14, P319, DOI 10.1111/j.1600-0633.2005.00106.x
+   Manly B. F. J., 2007, RANDOMIZATION BOOTST
+   Manly B. F. J, 2005, MULTIVARIATE STAT ME
+   MATTHEWS MJ, 1998, COPEIA, P358
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   McCune B., 2006, PC ORD MULTIVARIATE
+   Nixon K.C., 2002, WINCLADA VERSION 1 0
+   Pielou EC, 1984, INTERPRETATION ECOLO
+   POFF NL, 1995, ECOLOGY, V76, P606, DOI 10.2307/1941217
+   RACHLIN JW, 2007, IN PRESS NE NATURALI
+   ROSEN DE, 1978, SYST ZOOL, V27, P159, DOI 10.2307/2412970
+   RUBINSTEIN RY, 1981, SIMULATION M CARLO M
+   Rundle SD, 2000, FRESHWATER BIOL, V44, P123, DOI 10.1046/j.1365-2427.2000.00593.x
+   SAMARITAN JM, 1982, HYDROBIOLOGIA, V94, P149, DOI 10.1007/BF00010894
+   Santoul F, 2005, J FISH BIOL, V66, P301, DOI 10.1111/j.1095-8649.2004.00579.x
+   SCHMIDT R E, 1984, Northeastern Environmental Science, V3, P3
+   SHELDON AL, 1968, ECOLOGY, V49, P193, DOI 10.2307/1934447
+   TONN WM, 1982, ECOLOGY, V63, P1149, DOI 10.2307/1937251
+   WILEY EO, 1988, ANNU REV ECOL SYST, V19, P513, DOI 10.1146/annurev.es.19.110188.002501
+NR 42
+TC 6
+Z9 6
+U1 0
+U2 2
+PU OIKOS PUBL INC
+PI LA CROSSE
+PA PO BOX 2558, LA CROSSE, WI 54601 USA
+SN 0270-5060
+J9 J FRESHWATER ECOL
+JI J. Freshw. Ecol.
+PD MAR
+PY 2008
+VL 23
+IS 1
+BP 1
+EP 11
+DI 10.1080/02705060.2008.9664552
+PG 11
+WC Ecology; Limnology
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA 265VE
+UT WOS:000253388900001
+DA 2019-03-26
+ER
+
+PT J
+AU Volchenkov, D
+   Blanchard, P
+AF Volchenkov, D.
+   Blanchard, Ph.
+TI Scaling and universality in city space syntax: Between Zipf and Matthew
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE complex networks; city space syntax
+ID NETWORKS
+AB We report about the universality of rank-integration distributions of open spaces in city space syntax similar to the famous rank-size distributions of cities (Zipf's law). We also demonstrate that the degree of choice an open space represents for other spaces directly linked to it in a city follows a power-law statistic. Universal statistical behavior of space syntax measures uncovers the universality of the city creation mechanism. We suggest that the observed universality may help to establish the international definition of a city as a specific land use pattern. (c) 2007 Elsevier B.V. All rights reserved.
+C1 [Volchenkov, D.; Blanchard, Ph.] Univ Bielefeld, BiBoS, D-33501 Bielefeld, Germany.
+RP Volchenkov, D (reprint author), Univ Bielefeld, BiBoS, Postfach 100131, D-33501 Bielefeld, Germany.
+EM voichenk@physik.uni-bielefeld.de
+CR Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BARABASI AL, 2002, AREV MOD PHYS, V74, P47
+   BATTY M, 2004, 75 UCL CTR ADV APAT
+   Batty M, 1994, FRACTAL CITIES
+   BLANCHARD P, 2003, ARXIVCONDMAT0302611
+   Carvalho R, 2004, PHYSICA A, V332, P539, DOI 10.1016/j.physa.2003.10.024
+   Castells M, 2001, INTERNET GALAXY REFL
+   Crane P, 2005, SCIENCE, V308, P1225, DOI 10.1126/science.1114165
+   DALTON CR, 2005, GEOCOMPUTATION 2005
+   FABRIKANT A, 2002, HEURISTICALLY OPTIMI
+   FALOUTSOS C, 1999, P CIGCOMM
+   Haggett P., 1969, NETWORK ANAL GEOGRAP
+   HAGGETT P, 1967, SOCIO ECONOMIC MODEL
+   HANSEN WG, 1959, J AM I PLANNERS, V25, P73, DOI 10.1080/01944365908978307
+   Hillier B, 1996, SPACE MACHINE CONFIG
+   Hillier B., 1987, ARCHITECTURE COMPORT, V3, P233
+   HILLIER B., 2005, ART PLACE SCI SPACE, P96
+   Hillier B, 1976, ENVIRON PLANN B, V3, P147, DOI DOI 10.1068/B030147
+   HILLIER B, 2005, P 5 INT S SPAC SYNT, V1, P553
+   Hillier Bill, 1984, SOCIAL LOGIC SPACE
+   JANE S, 2000, GUIDE SMART GROWTH S
+   JIANG B, 1998, NSF FUND RES WORKSH
+   Jiang HF, 2000, GREEN CHEM, V2, P161, DOI 10.1039/b002491k
+   KANSKY KJ, 1963, 84 U CHIC DEP GEOGR
+   KLARQVIST B, 1993, SPACE SYNTAX GLOSSAR, V2
+   Kruger M, 1989, NODE AXIAL GRID MAPS
+   Low Setha, 2003, ANTHR SPACE PLACE LO
+   Macionis J, 1998, CITIES URBAN LIFE
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   MERTON RK, 1968, SCIENCE, V159, P56, DOI 10.1126/science.159.3810.56
+   Miller H. J., 2001, GEOGRAPHIC INFORM SY
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Norman J, 2006, J URBAN PLAN D-ASCE, V132, P10, DOI 10.1061/(ASCE)0733-9488(2006)132:1(10)
+   Ratti C, 2004, ENVIRON PLANN B, V31, P487, DOI 10.1068/b3019
+   Reed WJ, 2002, J REGIONAL SCI, V42, P1, DOI 10.1111/1467-9787.00247
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   SOO KT, 2002, REGIONAL SCI URBAN E, V35, P239, DOI DOI 10.1016/J.REGSCIURBECO.2004.04.004
+   TANNIER C, 2005, FRACTALS URBAN GEOGR, P20
+   Wilson AG, 1970, ENTROPY URBAN REGION
+NR 39
+TC 13
+Z9 14
+U1 0
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD APR 1
+PY 2008
+VL 387
+IS 10
+BP 2353
+EP 2364
+DI 10.1016/j.physa.2007.11.049
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA 275YF
+UT WOS:000254107500013
+DA 2019-03-26
+ER

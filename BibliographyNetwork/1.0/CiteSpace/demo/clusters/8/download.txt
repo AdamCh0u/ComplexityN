@@ -1,0 +1,814 @@
+FN Thomson Reuters Web of Science?
+VR 1.0
+PT J
+AU Rocha, Luis E C
+TI Information dynamics shape the sexual networks of Internet-mediated prostitution
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+DE complex networks; network dynamics; network topology
+AB Like many other social phenomena, prostitution is increasingly coordinated over the Internet. The online behavior affects the offline activity; the reverse is also true. We investigated the reported sexual contacts between 6,624 anonymous escorts and 10,106 sex buyers extracted from an online community from its beginning and six years on. These sexual encounters were also graded and categorized (in terms of the type of sexual activities performed) by the buyers. From the temporal, bipartite network of posts, we found a full feedback loop in which high grades on previous posts affect the future commercial success of the sex worker, and vice versa. We also found a peculiar growth pattern in which the turnover of community members and sex workers causes a sublinear preferential attachment. There is, moreover, a strong geographic influence on network structure-the network is geographically clustered but still close to connected, the contacts consistent with the inverse-square law observed in trading patterns. We also found that the number of sellers scales sublinearly with city size, so this type of prostitution does not, comparatively speaking, benefit much from an increasing concentration of people. RI Holme, Petter/A-7646-2008; Rocha, Luis/D-5333-2011; Liljeros, Fredrik/I-2667-2018 OI Holme, Petter/0000-0003-2156-1096; Liljeros, Fredrik/0000-0001-8642-6624; Correa Rocha, Luis Enrique/0000-0001-9046-8739
+CR Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Bargh JA, 2004, ANNU REV PSYCHOL, V55, P573, DOI 10.1146/annurev.psych.55.090902.141922
+   Bearman PS, 2004, AM J SOCIOL, V110, P44, DOI 10.1086/386272
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boguna M, 2003, LECT NOTES PHYS, V625, P127
+   Costa LD, 2007, ADV PHYS, V56, P167, DOI 10.1080/00018730601170527
+   Defreitas SLG, 2003, CONTINUUM COMPLETE I, V0, P98
+   Eckmann JP, 2004, P NATL ACAD SCI USA, V101, P14333, DOI 10.1073/pnas.0405728101
+   Edlund L, 2002, J POLIT ECON, V110, P181, DOI 10.1086/324390
+   Edlund L, 2009, 080916 COL U, V0, P0
+   Harcourt C, 2005, SEX TRANSM INFECT, V81, P201, DOI 10.1136/sti.2004.012468
+   Hidalgo CA, 2006, PHYSICA A, V369, P877, DOI 10.1016/j.physa.2005.12.035
+   Holme P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/j.socnet.2004.01.077
+   Holme P, 2005, PHYS REV E, V71, P0, DOI 10.1103/PhysRevE.71.046119
+   Kempe D, 2002, J COMPUT SYST SCI, V64, P820, DOI 10.1006/jcss.2002.1829
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Liljeros F, 2003, MICROBES INFECT, V5, P189, DOI 10.1016/S1286-4579(02)00058-8
+   Malmgren RD, 2008, P NATL ACAD SCI USA, V105, P18153, DOI 10.1073/pnas.0800332105
+   Moody J, 2002, SOC FORCES, V81, P25, DOI 10.1353/sof.2002.0056
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Nordvik MK, 2007, SEX TRANSM DIS, V34, P47, DOI 10.1097/01.olq.0000222722.79996.4b
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Sharp K, 2002, DOT CONS CRIME DEVIA, V0, P36
+   Szendroi B, 2004, P ROY SOC B-BIOL SCI, V271, P0, DOI 10.1098/rsbl.2004.0188
+   de Blasio B, 2007, P NATL ACAD SCI USA, V104, P10762, DOI 10.1073/pnas.0611337104
+NR 26
+TC 88
+Z9 0
+J9 PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+PY 2010
+VL 107
+BP 5706
+EP 5711
+DI 10.1073/pnas.0914080107
+PG 
+UT WOS:000276159500005
+ER
+
+PT J
+AU Szell, Michael
+TI Measuring social dynamics in a massive multiplayer online game
+SO SOCIAL NETWORKS
+DE Social network analysis; Network theory; Massive multiplayer online game; Social balance; Triadic closure; Quantitative social science
+AB Quantification of human group-behavior has so far defied an empirical, falsifiable approach. This is due to tremendous difficulties in data acquisition of social systems. Massive multiplayer online games (MMOG) provide a fascinating new way of observing hundreds of thousands of simultaneously socially interacting individuals engaged in virtual economic activities. We have compiled a data set consisting of practically all actions of all players over a period of 3 years from a MMOG played by 300,000 people. This large-scale data set of a socio-economic unit contains all social and economic data from a single and coherent source. Players have to generate a virtual income through economic activities to survive and are typically engaged in a multitude of social activities offered within the game. Our analysis of high-frequency log files focuses on three types of social networks, and tests a series of social-dynamics hypotheses. In particular we study the structure and dynamics of friend-, enemy- and communication networks. We find striking differences in topological structure between positive (friend) and negative (enemy) tie networks. All networks confirm the recently observed phenomenon of network densification. We propose two approximate social laws in communication networks, the first expressing betweenness centrality as the inverse square of the overlap, the second relating communication strength to the cube of the overlap. These empirical laws provide strong quantitative evidence for the Weak ties hypothesis of Granovetter. Further, the analysis of triad significance profiles validates well-established assertions from social balance theory. We find overrepresentation (underrepresentation) of complete (incomplete) triads in networks of positive ties, and vice versa for networks of negative ties. Empirical transition probabilities between triad classes provide evidence for triadic closure with extraordinarily high precision. For the first time we provide empirical results for large-scale networks of negative social ties. Whenever possible we compare our findings with data from non-virtual human groups and provide further evidence that online game communities serve as a valid model for a wide class of human societies. With this setup we demonstrate the feasibility for establishing a socio-economic laboratory which allows to operate at levels of precision approaching those of the natural sciences. All data used in this study is fully anonymized: the authors have the written consent to publish from the legal department of the Medical University of Vienna. (C) 2010 Elsevier B.V. All rights reserved. RI Szell, Michael/H-5269-2011 OI Szell, Michael/0000-0003-3022-2483
+CR Antal T, 2006, PHYSICA D, V224, P130, DOI 10.1016/j.physd.2006.09.028
+   Bainbridge WS, 2007, SCIENCE, V317, P472, DOI 10.1126/science.1146930
+   Bartle RA, 2004, DESIGNING VIRTUAL WO, V0, P0
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2008, SCIENTOMETRICS, V75, P495, DOI 10.1007/s11192-007-1888-4
+   Biely C, 2007, PHYSICA D, V228, P40, DOI 10.1016/j.physd.2007.02.004
+   Biely C, 2009, EUR PHYS J B, V67, P285, DOI 10.1140/epjb/e2008-00390-7
+   Carrington PJ, 2005, MODELS METHODS SOCIA, V0, P0
+   Castronova E, 2005, SYNTHETIC WORLDS BUS, V0, P0
+   Castronova E, 2006, GAMES CULTURE, V1, P163, DOI DOI 10.1177/1555412006286686
+   Chatterjee A, 2007, CURR SCI INDIA, V92, P1383
+   Csanyi G, 2004, PHYS REV E, V69, P0, DOI 10.1103/PhysRevE.69.036131
+   Csardi G, 2007, PHYSICA A, V374, P783, DOI 10.1016/j.physa.2006.08.022
+   Doreian P, 2004, METODOLOSKI ZVEZKI, V1, P277
+   Doreian P, 2009, SOC NETWORKS, V31, P1, DOI 10.1016/j.socnet.2008.08.001
+   Dorogovtsev SN, 2003, EVOLUTION NETWORKS B, V0, P0
+   Foster J, 2009, 09084288V1 ARXIV, V0, P0
+   Garlaschelli D, 2004, PHYS REV LETT, V93, P0, DOI 10.1103/PhysRevLett.93.268701
+   Golder S, 2007, COMMUNITIES TECHNOLO, V0, P0
+   Hamasaki M, 2009, P 3 INT ICWSM C, V0, P222
+   Henrich J, 2005, BEHAV BRAIN SCI, V28, P795
+   Holme P, 2004, SOC NETWORKS, V26, P155, DOI 10.1016/j.socnet.2004.01.077
+   Hu HB, 2009, EUROPHYSICS LETT EUR, V0, P18003
+   Hummon NP, 2003, SOC NETWORKS, V25, P17, DOI 10.1016/S0378-8733(02)00019-9
+   Jeong H, 2003, EUROPHYS LETT, V61, P567, DOI 10.1209/epl/i2003-00166-9
+   Jiang ZQ, 2009, EPL-EUROPHYS LETT, V88, P0, DOI 10.1209/0295-5075/88/48007
+   Johnson NF, 2009, PHYS REV E, V79, P0, DOI 10.1103/PhysRevE.79.066117
+   Jordan F, 2009, CURR SCI INDIA, V97, P1579
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Labianca G, 2006, ACAD MANAGE REV, V31, P596, DOI 10.5465/AMR.2006.21318920
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Leskovec J, 2007, ACM T WEB, V1, P0, DOI 10.1145/1232722.1232727
+   Leskovec J, 2008, P 14 ACM SIGKDD INT, V0, P462, DOI DOI 10.1145/1401890.1401948
+   Milo R, 2002, SCIENCE, V298, P824, DOI 10.1126/science.298.5594.824
+   Milo R, 2003, CONDMAT0312028V2 ARX, V0, P0
+   Milo R, 2004, SCIENCE, V303, P1538, DOI 10.1126/science.1089167
+   Mrvar A, 2005, EXPLORATORY SOCIAL N, V0, P0
+   Newman MEJ, 2002, PHYS REV LETT, V89, P0, DOI 10.1103/PhysRevLett.89.208701
+   Newman MEJ, 2003, PHYS REV E, V68, P0, DOI 10.1103/PhysRevE.68.026121
+   Newman MEJ, 2004, P NATL ACAD SCI USA, V101, P5200, DOI 10.1073/pnas.0307545100
+   Onnela JP, 2007, NEW J PHYS, V9, P0, DOI 10.1088/1367-2630/9/6/179
+   Ravasz E, 2004, THESIS U NOTRE DAME, V0, P0
+   Szell M, 2010, P NATL ACAD IN PRESS, V0, P0
+   Thurner S, 2007, PHYS REV E, V76, P0, DOI 10.1103/PhysRevE.76.036111
+   Watts DJ, 2007, NATURE, V445, P489, DOI 10.1038/445489a
+   Williams D, 2009, NEW MEDIA SOC, V11, P815, DOI 10.1177/1461444809105354
+   Yakovenko V, 2009, STAT MECH APPROACH E, V0, P0
+   Yee N, 2006, CYBERPSYCHOL BEHAV, V9, P772, DOI 10.1089/cpb.2006.9.772
+   Yee N, 2006, PRESENCE-TELEOP VIRT, V15, P309, DOI 10.1162/pres.15.3.309
+NR 50
+TC 103
+Z9 0
+J9 SOCIAL NETWORKS
+PY 2010
+VL 32
+BP 313
+EP 329
+DI 10.1016/j.socnet.2010.06.001
+PG 
+UT WOS:000283402000006
+ER
+
+PT J
+AU Bernhardt, Emily S
+TI Understanding, managing, and minimizing urban impacts on surface water nitrogen loading
+SO YEAR IN ECOLOGY AND CONSERVATION BIOLOGY 2008 ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+DE urban; nitrogen; stormwater; catchment; urbanization; urban planning
+AB The concentration of materials and energy within cities is an inevitable consequence of dense populations and their per capita requirements for food, fiber, and fuel. As the world population becomes increasingly urban over the coming decades, urban areas will dramatically affect the distribution of nutrients across the face of the planet. In many cities, technological developments and urban planning have been effective at reducing the amount of waste nitrogen that is ultimately exported to downstream surface waters, largely through investments in sanitary sewer infrastructure and wastewater treatment. There are, however, still large cities throughout the developed world that have failed to take advantage of these obvious innovations to reduce their impact on downstream ecosystems. In addition, very few cities have adequately addressed the problems of diffuse nitrogen pollution, instead city infrastructure is often designed to route this N directly into downstream ecosystems. In the developing world, many of these problems are more acute, as rapidly growing urban populations exceed the capacity of limited municipal infrastructure. Reducing urban N pollution of groundwaters and surface waters both locally and globally can only be achieved through cultural and political adaptation in addition to technological innovations. In this review, we will focus on the implications of an increasingly urban world population on local, regional, and global nitrogen cycles and propose a variety of approaches for minimizing and mitigating the impacts of urban N concentration. RI Walsh, Christopher/B-2552-2009; Bernhardt, Emily/D-9940-2011; Bernhardt, Emily/B-4541-2010 OI Walsh, Christopher/0000-0002-4181-6722; Bernhardt, Emily/0000-0003-3031-621X;
+CR *EPA, 2005, 231B05002 EPA, V0, P0
+   *GeneralAccountingOffice(GAO), 2003, GAO03514, V0, P0
+   *NRC, 2000, CLEAN COAST WAT UND, V0, P0
+   *NationalResearchCouncil(NRC), 2003, CIT TRANSF DEM CHANG, V0, P0
+   *USDA, 2001, MAINT FARM FOR LANDS, V0, P0
+   *USEPA, 2002, 2000 NAT WAT QUAL IN, V0, P0
+   *USEPA, 2004, 832R04001 EPA OFF WA, V0, P0
+   *USEPA, 2005, NAT MAN MEAS CONTR N, V0, P0
+   *christch CITC, 2005, CIT CHRISTCH CIT PLA, V0, P0
+   *cit DAV, 2001, CIT DAV GEN PLAN UPD, V0, P0
+   *un MP, 2005, INV DEV PRACT PLAN A, V0, P0
+   *wak CBC, 2003, COMPR WAT MAN PLAN, V0, P0
+   Alberti M, 2003, BIOSCIENCE, V53, P1169, DOI 10.1641/0006-3568(2003)053[1169:IHIEOA]2.0.CO;2
+   Alig RJ, 2004, LANDSCAPE URBAN PLAN, V69, P219, DOI 10.1016/j.landurbplan.2003.07.004
+   Ambrose RF, 2001, EVALUATION COMPENSAT, V0, P0
+   Argue JR, 2000, 40 ANN C NSW FLOODPL, V0, P0
+   Argue JR, 2004, WSUD BASIC PROCEDURE, V0, P0
+   Baker LA, 2001, ECOSYSTEMS, V4, P582, DOI 10.1007/s10021-001-0031-2
+   Barles S, 2007, J URBAN HIST, V33, P794, DOI 10.1177/0096144207301421
+   Baum MM, 2001, ENVIRON SCI TECHNOL, V35, P3735, DOI 10.1021/es002046y
+   Beasley G, 2002, PROG PHYS GEOG, V26, P236, DOI 10.1191/0309133302pp334ra
+   Berke PR, 2003, J AM PLANN ASSOC, V69, P397, DOI 10.1080/01944360308976327
+   Berke PR, 2006, URBAN LAND USE PLANN, V0, P0
+   Bernhardt ES, 2005, SCIENCE, V308, P636, DOI 10.1126/science.1109769
+   Bernhardt ES, 2007, FRESHWATER BIOL, V52, P738, DOI 10.1111/j.1365-2427.2006.01718.x
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Birdsall SS, 2001, SE GEOGRAPHER, V41, P65
+   Blecken GT, 2008, WATER SCI T IN PRESS, V0, P0
+   Boone CG, 2003, HIST GEOGRAPHY, V31, P151
+   Boyer EW, 2006, GLOBAL BIOGEOCHEM CY, V0, P20
+   Brody SD, 2003, J ENVIRON PLANN MAN, V46, P817
+   Brody SD, 2004, LANDSCAPE URBAN PLAN, V69, P33, DOI 10.1016/j.landurbplan.2003.09.002
+   Brown RR, 2005, ENVIRON MANAGE, V36, P455, DOI 10.1007/s00267-004-0217-4
+   Brown RR, 2006, WATER SCI TECHNOL, V54, P415, DOI 10.2166/wst.2006.585
+   Bukaveckas PA, 2007, ENVIRON SCI TECHNOL, V41, P1570, DOI 10.1021/es061618x
+   Burns D, 2005, J HYDROL, V311, P266, DOI 10.1016/j.jhydrol.2005.01.022
+   Cadenasso ML, 2008, ANN NY ACAD IN PRESS, V0, P0
+   Carleton JN, 2000, WATER ENVIRON RES, V72, P295, DOI 10.2175/106143000X137518
+   Chin A, 2006, GEOMORPHOLOGY, V79, P460, DOI 10.1016/j.geomorph.2006.06.033
+   Cohen B, 2004, WORLD DEV, V32, P23, DOI 10.1016/j.worlddev.2003.04.008
+   Costanzo SD, 2005, MAR POLLUT BULL, V51, P218, DOI 10.1016/j.marpolbul.2004.10.038
+   Craig LS, 2008, FRONTIERS E IN PRESS, V0, P0
+   Davis AP, 2006, WATER ENVIRON RES, V78, P284, DOI 10.2175/106143005X94376
+   Dudgeon D, 2006, BIOL REV, V81, P163, DOI 10.1017/S1464793105006950
+   EEA, 2005, EFF URB WAST TREATM, V0, P0
+   Elliott E, 2007, ENV SCI TECHNOL, V0, P0
+   Emmenegger L, 2004, INT J ENVIRON POLLUT, V22, P326, DOI 10.1504/IJEP.2004.005547
+   Erickson N, 2004, PLAN MAKING SUSTAINA, V0, P0
+   Even S, 2007, SCI TOTAL ENVIRON, V375, P140, DOI 10.1016/j.scitotenv.2006.12.007
+   Faerge J, 2001, ECOL MODEL, V139, P63, DOI 10.1016/S0304-3800(01)00233-2
+   Fink DF, 2007, ECOL ENG, V30, P93, DOI 10.1016/j.ecoleng.2006.08.008
+   Fletcher TD, 2007, WATER SCI TECHNOL, V55, P265, DOI 10.2166/wst.2007.117
+   Fribourgblanc B, 2003, URBAN WASTE WATER TR, V0, P0
+   Galloway JN, 2004, BIOGEOCHEMISTRY, V70, P153, DOI 10.1007/s10533-004-0370-0
+   Gibson CA, 2007, J AM WATER RESOUR AS, V43, P376
+   Green PA, 2004, BIOGEOCHEMISTRY, V68, P71, DOI 10.1023/B:BIOG.0000025742.82155.92
+   Grimm NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2
+   Grimm NB, 2005, J N AM BENTHOL SOC, V24, P626, DOI 10.1899/0887-3593(2005)024\[0626:NRATIU\]2.0.CO;2
+   Groffman PM, 2002, ENVIRON SCI TECHNOL, V36, P4547, DOI 10.1021/es020649z
+   Groffman PM, 2003, J ENVIRON QUAL, V32, P1144, DOI 10.2134/jeq2003.1144
+   Groffman PM, 2004, ECOSYSTEMS, V7, P393, DOI 10.1007/s10021-003-0039-x
+   Groffman PM, 2005, J N AM BENTHOL SOC, V24, P613, DOI 10.1899/04-026.1
+   Hale RL, 2006, J ENVIRON QUAL, V35, P2425, DOI 10.2134/jeq2006.0164
+   Harbott EL, 2005, J N AM BENTHOL SOC, V24, P588, DOI 10.1899/0887-3593(2005)024\[0588:EERTBO\]2.0.CO;2
+   Hatt BE, 2004, ENVIRON MANAGE, V34, P112, DOI 10.1007/s00267-004-0221-8
+   Healy M, 2002, J ENVIRON QUAL, V31, P1739, DOI 10.2134/jeq2002.1739
+   Heeb NV, 2006, ATMOS ENVIRON, V40, P3750, DOI 10.1016/j.atmosenv.2006.03.002
+   Hernandez ME, 2006, WETLANDS, V26, P862, DOI 10.1672/0277-5212(2006)26[862:IOHPFF]2.0.CO;2
+   Hsieh CH, 2007, WATER ENVIRON RES, V79, P2404, DOI 10.2175/106143007X183844
+   Huang J, 2000, WATER RES, V34, P2582, DOI 10.1016/S0043-1354(00)00018-X
+   Hunt WF, 2006, J IRRIG DRAIN ENG, V132, P600, DOI 10.1061/(ASCE)0733-9437(2006)132:6(600)
+   IPCC, 2007, CLIM CHANG 2007 PHYS, V0, P0
+   Innes JE, 2007, J AM PLANN ASSOC, V73, P195, DOI 10.1080/01944360708976153
+   Kaushal SS, 2005, P NATL ACAD SCI USA, V102, P13517, DOI 10.1073/pnas.0506414102
+   Kaushal SS, 2006, ECOL APPL, V16, P299, DOI 10.1890/05-0134
+   Kaushal SS, 2008, ECOLOGICAL IN PRESS, V0, P0
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   King KW, 2007, J ENVIRON QUAL, V36, P1021, DOI 10.2134/jeq2006.0387
+   Kirchner M, 2005, ATMOS ENVIRON, V39, P4531, DOI 10.1016/j.atmosenv.2005.03.052
+   Kohler EA, 2004, ECOL ENG, V23, P285, DOI 10.1016/j.ecoleng.2004.11.002
+   Labbe N, 2003, WATER RES, V37, P914, DOI 10.1016/S0043-1354(02)00383-4
+   Law NL, 2004, Journal of Environmental Planning and Management, V47, P737, DOI 10.1080/0964056042000274452
+   Leopold LB, 2005, P AM PHILOS SOC, V149, P349
+   Levine AD, 2006, WATER ENVIRON RES, V78, P2276, DOI 10.2175/106143005X82244
+   Lewis DB, 2006, GLOBAL CHANGE BIOL, V12, P703, DOI 10.1111/j.1365-2486.2006.01126.x
+   Lindsey BD, 2003, 034035 US GEOL SURV, V0, P0
+   Liu JG, 2003, NATURE, V421, P530, DOI 10.1038/nature01359
+   Lloyd SD, 2002, WATER SCI TECHNOL, V45, P1
+   Loffler R, 2006, MT RES DEV, V26, P64, DOI 10.1659/0276-4741(2006)026[0064:CAISEI]2.0.CO;2
+   Maeda M, 2005, WATER SCI TECHNOL, V51, P213
+   Maestrc A, 2005, NATL STORMWATER QUAL, V0, P0
+   Mallin MA, 2002, J ENVIRON QUAL, V31, P654, DOI 10.2134/jeq2002.0654
+   Mcdonald J, 2003, CASE STUDY KING FARM, V0, P0
+   Mcgranahan G, 2005, ECOSYSTEMS HUMAN WEL, V0, P0
+   Mcmahon G, 2000, J AM WATER RESOUR AS, V36, P1247, DOI 10.1111/j.1752-1688.2000.tb05724.x
+   Mcmichael AJ, 2000, B WORLD HEALTH ORGAN, V78, P1117
+   Meyer JL, 2000, ECOLOGY ACHIEVEMENT, V0, P295
+   Meyer JL, 2005, J N AM BENTHOL SOC, V24, P602, DOI 10.1899/0887-3593(2005)024\[0602:SEFIUL\]2.0.CO;2
+   Milesi C, 2005, ENVIRON MANAGE, V36, P426, DOI 10.1007/s00267-004-0316-2
+   Miller W, 2005, HYDROBIOLOGIA, V552, P121, DOI 10.1007/s10750-005-1510-9
+   Miltner RJ, 2004, LANDSCAPE URBAN PLAN, V69, P87, DOI 10.1016/j.landurbplan.2003.10.032
+   Mitchell VG, 2003, ENVIRON MANAGE, V32, P735, DOI 10.1007/s00267-003-2062-2
+   Oki T, 2006, SCIENCE, V313, P1068, DOI 10.1126/science.1128845
+   Osmond DL, 2004, J ENVIRON QUAL, V33, P565, DOI 10.2134/jeq2004.0565
+   Panek JA, 2000, ECOL APPL, V10, P506
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Plane DA, 2005, P NATL ACAD SCI USA, V102, P15313, DOI 10.1073/pnas.0507312102
+   Pleau M, 2005, ENVIRON MODELL SOFTW, V20, P401, DOI 10.1016/j.envsoft.2004.02.009
+   Randolf J, 2004, ENV LAND USE PLANNIN, V0, P0
+   Redman CL, 2005, POPUL ENVIRON, V26, P505, DOI 10.1007/s11111-005-0010-1
+   Roberts BJ, 2007, J N AM BENTHOL SOC, V26, P38, DOI 10.1899/0887-3593(2007)26[38:EOUDAI]2.0.CO;2
+   Rodriguez DA, 2006, J AM PLANN ASSOC, V72, P43, DOI 10.1080/01944360608976723
+   Rooney GR, 2000, NITR WORKSH 2000 SOU, V0, P0
+   Rose S, 2001, HYDROL PROCESS, V15, P1441, DOI 10.1002/hyp.218
+   Ruggaber TP, 2007, ENV SCI ENG, V24, P233
+   Saez F, 2003, ENVIRON TOXICOL CHEM, V22, P1993, DOI 10.1897/02-351
+   Sanchez P, 2002, SCIENCE, V0, P219
+   Schlesinger WH, 2006, WATER RESOUR RES, V42, P0, DOI 10.1029/2005WR004300
+   Schultz M, 2005, J HYDROL, V299, P335
+   Shah T, 2005, IRRIGATION RIVER BAS, V0, PCH3
+   Sherlock MD, 2002, HYDROL PROCESS, V16, P2559, DOI 10.1002/hyp.1048
+   Shutes RBE, 2001, ENVIRON INT, V26, P441, DOI 10.1016/S0160-4120(01)00025-3
+   Stackelberg PE, 2004, SCI TOTAL ENVIRON, V329, P99, DOI 10.1016/j.scitotenv.2004.03.015
+   Strecker EW, 2001, J WATER RES PL-ASCE, V127, P144, DOI 10.1061/(ASCE)0733-9496(2001)127:3(144)
+   Taylor GD, 2005, WATER RES, V39, P1982, DOI 10.1016/j.watres.2005.03.022
+   Taylor GD, 2006, AUST J WATER RESOUR, V10, P293, DOI 10.1080/13241583.2006.11465305
+   Townsend AR, 2003, FRONT ECOL ENVIRON, V1, P240, DOI 10.1890/1540-9295(2003)001[0240:HHEOAC]2.0.CO;2
+   UNPD, 2003, ESAPWP180 UNPD, V0, P0
+   Verhoeven JTA, 2006, TRENDS ECOL EVOL, V21, P96, DOI 10.1016/j.tree.2005.11.015
+   Vorosmarty CJ, 2000, SCIENCE, V289, P284, DOI 10.1126/science.289.5477.284
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P690, DOI 10.1899/0887-3593(2005)024\\[0690:SRIUCT\\]2.0.CO;2
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Warren-rhodes K, 2001, ECOL ECON, V39, P347, DOI 10.1016/S0921-8009(01)00194-X
+   Weyer PJ, 2001, EPIDEMIOLOGY, V12, P327, DOI 10.1097/00001648-200105000-00013
+   Wolf L, 2007, J SOIL SEDIMENT, V7, P85, DOI 10.1065/jss2007.02.207
+   Wollheim WM, 2001, LIMNOL OCEANOGR, V46, P1, DOI 10.4319/lo.2001.46.1.0001
+   Wollheim WM, 2005, ECOSYSTEMS, V8, P871, DOI 10.1007/s10021-005-0178-3
+   Yuan Y, 2001, SCI TOTAL ENVIRON, V266, P299, DOI 10.1016/S0048-9697(00)00728-2
+   Zhu WX, 2004, BIOGEOCHEMISTRY, V71, P177, DOI 10.1007/s10533-004-9683-2
+   van Rooijen D, 2005, IRRIG DRAIN, V54, P0, DOI 10.1002/ird.188
+   van Roon M, 2007, J ENVIRON MANAGE, V83, P437, DOI 10.1016/j.jenvman.2006.04.008
+   van de GR, 2002, J ENVIRON SCI HEAL A, V37, P745, DOI 10.1081/ESE-120003252
+NR 143
+TC 81
+Z9 0
+J9 YEAR IN ECOLOGY AND CONSERVATION BIOLOGY 2008 ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+PY 2008
+VL 1134
+BP 61
+EP 96
+DI 10.1196/annals.1439.014
+PG 
+UT WOS:000257506400003
+ER
+
+PT J
+AU Van Segbroeck, Sven
+TI The evolution of prompt reaction to adverse ties
+SO BMC EVOLUTIONARY BIOLOGY PRISONERS-DILEMMA GAME; SOCIAL NETWORKS; COOPERATION; DYNAMICS;
+AB Background: In recent years it has been found that the combination of evolutionary game theory with population structures modelled in terms of dynamical graphs, in which individuals are allowed to sever unwanted social ties while keeping the good ones, provides a viable solution to the conundrum of cooperation. It is well known that in reality individuals respond differently to disadvantageous interactions. Yet, the evolutionary mechanism determining the individuals willingness to sever unfavourable ties remains unclear. Results: We introduce a novel way of thinking about the joint evolution of cooperation and social contacts. The struggle for survival between cooperators and defectors leads to an arms race for swiftness in adjusting social ties, based purely on a self-regarding, individual judgement. Since defectors are never able to establish social ties under mutual agreement, they break adverse ties more rapidly than cooperators, who tend to evolve stable and long-term relations. Ironically, defectors' constant search for partners to exploit leads to heterogeneous networks that improve the survivability of cooperators, compared to the traditional homogenous population assumption. Conclusion: When communities face the prisoner's dilemma, swift reaction to adverse ties evolves when competition is fierce between cooperators and defectors, providing an evolutionary basis for the necessity of individuals to adjust their social ties. Our results show how our innate resilience to change relates to mutual agreement between cooperators and how "loyalty" or persistent social ties bring along an evolutionary disadvantage, both from an individual and group perspective. RI Pacheco, Jorge/B-6116-2008; Santos, Francisco/D-2394-2010 OI Pacheco, Jorge/0000-0002-2579-8499; Santos, Francisco/0000-0002-9103-2862; Lenaerts, Tom/0000-0003-3645-1455
+CR Abramson G, 2001, PHYS REV E, V63, P0, DOI 10.1103/PhysRevE.63.030901
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   Bala V, 2000, ECONOMETRICA, V68, P1181, DOI 10.1111/1468-0262.00155
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Biely C, 2007, PHYSICA D, V228, P40, DOI 10.1016/j.physd.2007.02.004
+   Buchan NR, 2002, AM J SOCIOL, V108, P168, DOI 10.1086/344546
+   Dorogotsev SN, 2003, EVOLUTION NETWORKS B, V0, P0
+   Dreber A, 2008, P NATL ACAD SCI USA, V105, P2261, DOI 10.1073/pnas.0800033105
+   Ebel H, 2002, PHYS REV E, V66, P0, DOI 10.1103/PhysRevE.66.056118
+   Eguiluz VM, 2005, AM J SOCIOL, V110, P977, DOI 10.1086/428716
+   Gintis H, 2000, GAME THEORY EVOLVING, V0, P0
+   Gross T, 2008, J R SOC INTERFACE, V5, P259, DOI 10.1098/rsif.2007.1229
+   Hanaki N, 2007, MANAGE SCI, V53, P1036, DOI 10.1287/mnsc.1060.0625
+   Hauert C, 2004, NATURE, V428, P643, DOI 10.1038/nature02360
+   Kim BJ, 2002, PHYS REV E, V66, P0, DOI 10.1103/PhysRevE.66.021907
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Lieberman E, 2005, NATURE, V433, P312, DOI 10.1038/nature03204
+   Lozano S, 2008, PLOS ONE, V3, P0, DOI 10.1371/journal.pone.0001892
+   Macy MW, 2002, P NATL ACAD SCI USA, V99, P7229, DOI 10.1073/pnas.092080099
+   Mcnamara JM, 2004, NATURE, V428, P745, DOI 10.1038/nature02432
+   Milinski M, 2006, P NATL ACAD SCI USA, V103, P3994, DOI 10.1073/pnas.0504902103
+   Milinski M, 2008, P NATL ACAD SCI USA, V105, P2291, DOI 10.1073/pnas.0709546105
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Ohtsuki H, 2006, NATURE, V441, P502, DOI 10.1038/nature04605
+   Pacheco JM, 2006, PHYS REV LETT, V97, P0, DOI 10.1103/PhysRevLett.97.258103
+   Pennisi E, 2005, SCIENCE, V309, P93, DOI 10.1126/science.309.5731.93
+   Rubin PH, 2002, DARWINIAN POLITICS E, V0, P0
+   Santos FC, 2005, PHYS REV E, V72, P0, DOI 10.1103/PhysRevE.72.056128
+   Santos FC, 2005, PHYS REV LETT, V95, P0, DOI 10.1103/PhysRevLett.95.098104
+   Santos FC, 2006, P NATL ACAD SCI USA, V103, P3490, DOI 10.1073/pnas.0508201103
+   Santos FC, 2006, PLOS COMPUT BIOL, V2, P1284, DOI 10.1371/journal.pcbi.0020140
+   Santos FC, 2008, NATURE, V454, P213, DOI 10.1038/nature06940
+   Skyrms B, 2000, P NATL ACAD SCI USA, V97, P9340, DOI 10.1073/pnas.97.16.9340
+   Skyrms B, 2004, STAG HUNT EVOLUTION, V0, P0
+   Szabo G, 2005, PHYS REV E, V72, P0, DOI 10.1103/PhysRevE.72.047107
+   Szabo G, 2007, PHYS REP, V446, P97, DOI 10.1016/j.physrep.2007.04.004
+   Szolnoki A, 2007, EPL-EUROPHYS LETT, V77, P0, DOI 10.1209/0295-5075/77/30004
+   Szolnoki A, 2008, NEW J PHYS, V10, P0, DOI 10.1088/1367-2630/10/4/043036
+   Traulsen A, 2006, PHYS REV E, V74, P0, DOI 10.1103/PhysRevE.74.011909
+   Vukov J, 2005, PHYS REV E, V71, P0, DOI 10.1103/PhysRevE.71.036133
+   Vukov J, 2006, PHYS REV E, V74, P0
+   Wilson EO, 2000, SOCIOBIOLOGY NEW SYN, V0, P0
+   Zimmermann MG, 2004, PHYS REV E, V69, P0, DOI 10.1103/PhysRevE.69.065102
+   Zimmermann MG, 2005, PHYS REV E, V72, P0, DOI 10.1103/PhysRevE.72.056118
+NR 45
+TC 27
+Z9 0
+J9 BMC EVOLUTIONARY BIOLOGY PRISONERS-DILEMMA GAME; SOCIAL NETWORKS; COOPERATION; DYNAMICS;
+PY 2008
+VL 8
+BP 1
+EP 
+DI 10.1186/1471-2148-8-287
+PG 
+UT WOS:000260656400001
+ER
+
+PT J
+AU Caram, L F
+TI Dynamic peer-to-peer competition
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+DE Multiagent system; Dynamic competition; Peer to peer
+AB The dynamic behavior of a multiagent system in which the agent size si is variable it is studied along a Lotka-Volterra approach. The agent size has hereby the meaning of the fraction of a given market that an agent is able to capture (market share). A Lotka-Volterra system of equations for prey-predator problems is considered, the competition factor being related to the difference in size between the agents in a one-on-one competition. This mechanism introduces a natural self-organized dynamic competition among agents. In the competition factor, a parameter sigma is introduced for scaling the intensity of agent size similarity, which varies in each iteration cycle. The fixed points of this system are analytically found and their stability analyzed for small systems (with n = 5 agents). We have found that different scenarios are possible, from chaotic to non-chaotic motion with cluster formation as function of the a parameter and depending on the initial conditions imposed to the system. The present contribution aim is to show how a realistic though minimalist nonlinear dynamics model can be used to describe the market competition (companies, brokers, decision makers) among other opinion maker communities. (C) 2010 Elsevier B.V. All rights reserved. RI Caiafa, Cesar/A-6045-2010 OI Caiafa, Cesar/0000-0001-5437-6095
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Amaral LAN, 2004, EUR PHYS J B, V38, P147, DOI 10.1140/epjb/e2004-00110-5
+   Bagni R, 2002, JASSS-J ARTIF SOC S, V5, P0
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Caiafa CF, 2006, INT J MOD PHYS C, V17, P385, DOI 10.1142/S0129183106008510
+   Caram LF, 2006, INT J MOD PHYS C, V17, P435, DOI 10.1142/S0129183106008467
+   Economo EP, 2005, ECOL LETT, V8, P353, DOI 10.1111/j.1461-0248.2005.00737.x
+   Gligor M, 2007, EUR PHYS J B, V57, P139, DOI 10.1140/epjb/e2007-00132-5
+   Hauert C, 2002, SCIENCE, V296, P1129, DOI 10.1126/science.1070582
+   Knyazeva H, 2005, J GEN PHILOS SCI, V36, P289
+   Kocarev L, 2005, COMPLEX DYNAMICS COM, V0, P0
+   Li YH, 2007, APPL MATH MODEL, V31, P912, DOI 10.1016/j.apm.2006.03.029
+   Liljeros F, 2003, MICROBES INFECT, V5, P189, DOI 10.1016/S1286-4579(02)00058-8
+   Manna SS, 2003, PHYS REV E, V68, P0, DOI 10.1103/PhysRevE.68.027104
+   Maurer SM, 2003, J ECON DYN CONTROL, V27, P2195, DOI 10.1016/S0165-1889(02)00121-5
+   Miskiewicz J, 2006, PRACTICAL FRUITS ECO, V0, P312
+   Moran AL, 2007, BIOL BULL-US, V212, P143, DOI 10.2307/25066591
+   Olivera N, 2008, RC332008 7 INT C SOC, V0, P0
+   Pekalski A, 2004, COMPUT SCI ENG, V6, P62, DOI 10.1109/MCISE.2004.1255822
+   Redelico FO, 2009, PHYSICA A, V388, P3527, DOI 10.1016/j.physa.2009.05.033
+   Santos FC, 2008, NATURE, V454, P213, DOI 10.1038/nature06940
+   Savage VM, 2007, P NATL ACAD SCI USA, V104, P4718, DOI 10.1073/pnas.0611235104
+   Szabo G, 2002, PHYS REV E, V66, P0, DOI 10.1103/PhysRevE.66.062903
+   Szabo G, 2002, PHYS REV LETT, V89, P0, DOI 10.1103/PhysRevLett.89.118101
+   Yi Z, 2005, IEEE T CIRCUITS-I, V52, P2482, DOI 10.1109/TCSI.2005.853940
+NR 25
+TC 17
+Z9 0
+J9 PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+PY 2010
+VL 389
+BP 2628
+EP 2636
+DI 10.1016/j.physa.2010.02.032
+PG 
+UT WOS:000277824800016
+ER
+
+PT J
+AU Bornstein, Marc H
+TI Mother-child emotional availability in ecological perspective: Three countries, two regions, two genders
+SO DEVELOPMENTAL PSYCHOLOGY
+DE emotional availability; culture; infancy; parenting
+AB This study used a cross-national framework to examine country, region, and gender differences in emotional availability (EA), a prominent index of mutual socioemotional adaptation in the parent-child dyad. Altogether 220 Argentine, Italian, and U.S. mothers and their daughters and sons from both rural and metropolitan areas took part in home observations when the children were 20 months old. In terms of country, Italian mothers were more sensitive and optimally structuring, and Italian children were more responsive and involving, than Argentine and U.S. dyads. In terms of region, rural mothers were more intrusive than metropolitan mothers, and boys from metropolitan areas were more responsive than boys from rural areas. In terms of gender, mothers of girls were more sensitive and optimally structuring than mothers of boys, and daughters were more responsive and involving than sons. Understanding how country, region, and gender influence EA exposes forces that shape child development, parent-infant interaction, and family systems. RI Putnick, Diane/B-1707-2009 OI De Falco, Simona/0000-0001-9137-2958; Putnick, Diane/0000-0002-6323-749X
+CR Ammaniti M, 2006, INFANT MENTAL HLTH J, V27, P0
+   Axia VD, 2002, INFANT BEHAV DEV, V25, P255, DOI 10.1016/S0163-6383(02)00099-1
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Biringen Z, 2000, AM J ORTHOPSYCHIAT, V70, P104, DOI 10.1037/h0087711
+   Biringen Z, 2000, Attach Hum Dev, V2, P188
+   Biringen Z, 2005, INF MENTAL HLTH J, V26, P295, DOI 10.1002/imhj.20054
+   Biringen Z, 2005, INF MENTAL HLTH J, V26, P404, DOI 10.1002/imhj.20060
+   Bornstein MH, 2001, J FAM PSYCHOL, V15, P663, DOI 10.1037//1893.3200.15.4.663
+   Bornstein MH, 2002, HUM DEV, V45, P257, DOI 10.1159/000064986
+   Bornstein MH, 2003, SOCIOECONOMIC STATUS, V0, P29
+   Bornstein MH, 2004, FIRST LANGUAGE, V24, P267, DOI DOI 10.1177/0142723704045681
+   Bornstein MH, 2006, INFANCY, V10, P1, DOI 10.1207/s15327078in1001_1
+   Bornstein MH, 2008, DEV INFANCY INTRO, V0, P0
+   Bornstein MH, 2008, HDB CROSS CULTURAL D, V1, P0
+   Bornstein MH, 2008, HDB CROSS CULTURAL D, V2, P0
+   Bradley RH, 2002, HDB PARENTING, V2, P281
+   Bretherton I, 2000, Attach Hum Dev, V2, P233, DOI 10.1080/14616730050085581
+   Brody LR, 2000, HDB EMOTIONS, V2, P338
+   Crane P, 2005, SCIENCE, V308, P1225, DOI 10.1126/science.1114165
+   Damon W, 2006, HDB CHILD PSYCHOL, V3, P858, DOI DOI 10.1002/9780470147658.CHPSY0314
+   Eagly AH, 2004, PSYCHOL GENDER, V0, P0
+   Easterbrooks MA, 2000, Attach Hum Dev, V2, P123
+   Easterbrooks MA, 2000, Attach Hum Dev, V2, P170
+   Easterbrooks MA, 2005, INFANT MENT HEALTH J, V26, P291, DOI 10.1002/imhj.20053
+   Eid M, 2000, J PERS SOC PSYCHOL, V81, P869
+   Emde RN, 2000, Attach Hum Dev, V2, P242, DOI 10.1080/14616730050085590
+   Gandini L, 2000, BAMBINI ITALIAN APPR, V0, P0
+   Greenfield PM, 2006, HDB CHILD PSYCHOL, V4, P655, DOI DOI 10.1002/9780470147658.CHPSY.0417
+   Halberstadt AG, 2001, SOC DEV, V10, P79, DOI 10.1111/1467-9507.00150
+   Halpern DF, 2000, SEX DIFFERENCES COGN, V0, P0
+   Hsu HC, 2005, INFANT BEHAV DEV, V28, P503, DOI 10.1016/j.infbeh.2005.09.001
+   Juffer F, 2008, PROMOTING POSITIVE P, V0, P0
+   Kates RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/pnas.1231331100
+   Koren-karie N, 2002, DEV PSYCHOL, V38, P534, DOI 10.1037/0012-1649.38.4.534
+   Lampard JE, 2000, PARENTHOOD AM ENCY, V0, P442
+   Leaper C, 2002, HDB PARENTING, V1, P0
+   Lichter DT, 2002, RURAL DIMENSIONS OF WELFARE REFORM, V0, P77
+   Lovas GS, 2005, INFANT MENT HEALTH J, V26, P327, DOI 10.1002/imhj.20056
+   Martin SE, 2002, PARENT-SCI PRACT, V2, P105, DOI 10.1207/S15327922PAR0202_02
+   Mccrae RR, 2004, J RES PERS, V38, P179, DOI 10.1016/S0092-6566(03)00056-4
+   Mccrae RR, 2005, J PERS SOC PSYCHOL, V88, P547, DOI 10.1037/0022-3514.88.3.547
+   Olds DL, 2002, PEDIATRICS, V110, P486, DOI 10.1542/peds.110.3.486
+   Olds DL, 2004, PEDIATRICS, V114, P1560, DOI 10.1542/peds.2004-096
+   Oyen AS, 2000, Attach Hum Dev, V2, P203
+   Papousek H, 2002, HDB PARENTING, V2, P0
+   Robinson JL, 2004, PARENT-SCI PRACT, V4, P73, DOI 10.1207/s15327922par0401_4
+   Sagi A, 2002, CHILD DEV, V73, P1166, DOI 10.1111/1467-8624.00465
+   Schwartz CR, 2005, DEMOGRAPHY, V42, P621, DOI 10.1353/dem.2005.0036
+   Senese P, 2003, DIVERSE CULTURE BAMB, V0, P57
+   Swanson K, 2000, Attach Hum Dev, V2, P130
+   Tomlinson M, 2003, INF MENTAL HLTH J, V24, P547, DOI 10.1002/imhj.10078
+   United N, 2004, WORLD URB PROSP 2003, V0, P0
+   Weisner T, 2005, BIENN M SOC RES CHIL, V0, P0
+   Ziv Y, 2000, Attach Hum Dev, V2, P149
+   van Ijzendoorn MH, 2006, PARENTING BELIEFS BE, V0, P107
+NR 55
+TC 46
+Z9 0
+J9 DEVELOPMENTAL PSYCHOLOGY
+PY 2008
+VL 44
+BP 666
+EP 680
+DI 10.1037/0012-1649.44.3.666
+PG 
+UT WOS:000255842800004
+ER
+
+PT J
+AU Kajikawa, Yuya
+TI Research core and framework of sustainability science
+SO SUSTAINABILITY SCIENCE
+DE Sustainability science; Research framework; Research core; Structuring knowledge
+AB This paper reviews recent achievements in sustainability science and discusses the research core and framework of sustainability science. We analyze and organize papers published in three selected core journals of sustainability science: Sustainability Science, Proceedings of the National Academy of Sciences of the United States of America, and Sustainability: Science, Practice, & Policy. Papers are organized into three categories: sustainability and its definition, domain-oriented research, and a research framework for sustainability science. First, we provide a short history and define the basic characteristics of sustainability; then we review current efforts in the following research domains: climate, biodiversity, agriculture, fishery, forestry, energy and resources, water, economic development, health, and lifestyle. Finally, we propose a research framework for sustainability science that includes the following components: goal setting, indicator setting, indicator measurement, causal chain analysis, forecasting, backcasting, and problem-solution chain analysis. We emphasize the importance of this last component for improving situations and attaining goals. RI Kajikawa, Yuya/C-1996-2015 OI Kajikawa, Yuya/0000-0003-3577-5167
+CR *un W, 2002, WEHAB FRAM PAP, V0, P0
+   Agrawal R, 2007, P NATL ACAD SCI USA, V104, P4828, DOI 10.1073/pnas.0609921104
+   Alger K, 2006, SUSTAIN, V2, P29
+   Allenby B, 2006, SUSTAIN SCI, V1, P7, DOI 10.1007/s11625-006-0003-8
+   Anderies JM, 2007, P NATL ACAD SCI USA, V104, P15194, DOI 10.1073/pnas.0702655104
+   Andersen MS, 2007, SUSTAIN SCI, V2, P133, DOI 10.1007/s11625-006-0013-6
+   Andersson K, 2006, SUSTAINABILITY: SCIENCE, V0, P0
+   Angel R, 2006, P NATL ACAD SCI USA, V103, P17184, DOI 10.1073/pnas.0608163103
+   Armsworth PR, 2006, P NATL ACAD SCI USA, V103, P5403, DOI 10.1073/pnas.0505278103
+   Ascher W, 2006, SUSTAIN SCI, V1, P15, DOI 10.1007/s11625-006-0001-x
+   Ascher W, 2007, SUSTAIN SCI, V2, P141, DOI 10.1007/s11625-007-0031-z
+   Asner GP, 2006, P NATL ACAD SCI USA, V103, P12947, DOI 10.1073/pnas.0604093103
+   Astrom J, 2001, COMMUN ACM, V44, P49, DOI 10.1145/357489.357505
+   Auer MR, 2007, SUSTAIN SCI, V2, P179, DOI 10.1007/s11625-007-0029-6
+   Aufderheide AC, 2004, P NATL ACAD SCI USA, V101, P2034, DOI 10.1073/pnas.0307312101
+   Auffhammer M, 2006, P NATL ACAD SCI USA, V103, P19668, DOI 10.1073/pnas.0609584104
+   Battin J, 2007, P NATL ACAD SCI USA, V104, P6720, DOI 10.1073/pnas.0701685104
+   Berkes F, 2007, P NATL ACAD SCI USA, V104, P15188, DOI 10.1073/pnas.0702098104
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bhandari B, 2007, SUSTAINABILITY: SCIENCE, V0, P0
+   Bloom BR, 2007, P NATL ACAD SCI USA, V104, P15969, DOI 10.1073/pnas.0704701104
+   Bloom DE, 2007, P NATL ACAD SCI USA, V104, P16044, DOI 10.1073/pnas.0702012104
+   Bozuwa P, 2006, SUSTAIN, V2, P1
+   Brack C, 2006, SUSTAIN SCI, V1, P91, DOI 10.1007/s11625-006-0005-6
+   Brand R, 2007, SUSTAINABILITY SCI P, V3, P21
+   Brander KM, 2007, P NATL ACAD SCI USA, V104, P19709, DOI 10.1073/pnas.0702059104
+   Brewer GD, 2007, SUSTAIN SCI, V2, P159, DOI 10.1007/s11625-007-0028-7
+   Brock WA, 2007, P NATL ACAD SCI USA, V104, P15206, DOI 10.1073/pnas.0702096104
+   Brueckner M, 2005, SUSTAINABILITY: SCIENCE, V0, P0
+   Burns M, 2006, S AFR J SCI, V102, P379
+   Canadell JG, 2007, P NATL ACAD SCI USA, V104, P18866, DOI 10.1073/pnas.0702737104
+   Cash DW, 2003, P NATL ACAD SCI USA, V100, P8086, DOI 10.1073/pnas.1231332100
+   Cattaneo MG, 2006, P NATL ACAD SCI USA, V103, P7571, DOI 10.1073/pnas.0508312103
+   Chapin FS, 2006, P NATL ACAD SCI USA, V103, P16637, DOI 10.1073/pnas.0606955103
+   Chen S, 2007, P NATL ACAD SCI USA, V104, P16757, DOI 10.1073/pnas.0702930104
+   Cheng S, 2007, P NATL ACAD SCI USA, V104, P18871, DOI 10.1073/pnas.0706379104
+   Christensen R, 2007, SUSTAINABILITY: SCIENCE, V0, P0
+   Clark WC, 2003, P NATL ACAD SCI USA, V100, P8059, DOI 10.1073/pnas.1231333100
+   Clark WC, 2007, P NATL ACAD SCI USA, V104, P1737, DOI 10.1073/pnas.0611291104
+   Cohen M, 2005, SUSTAINABILITY SCI P, V1, P22
+   Cohen M, 2005, SUSTAINABILITY SCI P, V1, P58
+   Collier P, 2007, P NATL ACAD SCI USA, V104, P16763, DOI 10.1073/pnas.0611702104
+   Crabbe MJC, 2006, SUSTAINABILITY SCI P, V2, P57
+   Dasgupta P, 2007, SUSTAIN SCI, V2, P5, DOI 10.1007/s11625-007-0024-y
+   Diaz S, 2007, P NATL ACAD SCI USA, V104, P20684, DOI 10.1073/pnas.0704716104
+   Diffenbaugh NS, 2007, P NATL ACAD SCI USA, V104, P20195, DOI 10.1073/pnas.0706680105
+   Dillehay TD, 2004, P NATL ACAD SCI USA, V101, P4325, DOI 10.1073/pnas.0400438101
+   Doney SC, 2007, P NATL ACAD SCI USA, V104, P14580, DOI 10.1073/pnas.0702218104
+   Draggan S, 2007, SUSTAIN, V3, P1
+   Dudley RG, 2007, SUSTAINABILITY: SCIENCE, V0, P0
+   Easterling WE, 2007, P NATL ACAD SCI USA, V104, P19679, DOI 10.1073/pnas.0710388104
+   Eisenberg JNS, 2006, P NATL ACAD SCI USA, V103, P19460, DOI 10.1073/pnas.0609431104
+   Feng ZJ, 2007, SUSTAIN SCI, V2, P95, DOI 10.1007/s11625-006-0018-1
+   Fiksel J, 2006, SUSTAINABILITY SCI P, V2, P14, DOI DOI 10.1109/EMR.2007.4296420
+   Fox JE, 2007, P NATL ACAD SCI USA, V104, P10282, DOI 10.1073/pnas.0611710104
+   Fujigaki Y, 2000, SOC SCI INFORM, V39, P635, DOI 10.1177/053901800039004004
+   Fussel HM, 2007, SUSTAIN SCI, V2, P265, DOI 10.1007/s11625-007-0032-y
+   Gardi C, 2007, SUSTAIN SCI, V2, P237, DOI 10.1007/s11625-007-0034-9
+   Gill JA, 2006, P NATL ACAD SCI USA, V103, P18870, DOI 10.1073/pnas.0608470103
+   Goldstein JH, 2006, P NATL ACAD SCI USA, V103, P10140, DOI 10.1073/pnas.0600391103
+   Gomi K, 2007, SUSTAIN SCI, V2, P121, DOI 10.1007/s11625-007-0023-z
+   Gordon LJ, 2005, P NATL ACAD SCI USA, V102, P7612, DOI 10.1073/pnas.0500208102
+   Gordon RB, 2006, P NATL ACAD SCI USA, V103, P1209, DOI 10.1073/pnas.0509498103
+   Gram-hanssen K, 2007, SUSTAINABILITY SCI P, V3, P15
+   Greenleaf SS, 2006, P NATL ACAD SCI USA, V103, P13890, DOI 10.1073/pnas.0600929103
+   Grosskuth J, 2007, SUSTAINABILITY SCI P, V3, P3
+   Gurtler RE, 2007, P NATL ACAD SCI USA, V104, P16194, DOI 10.1073/pnas.0700863104
+   Haberl H, 2007, P NATL ACAD SCI USA, V104, P12942, DOI 10.1073/pnas.0704243104
+   Hansen J, 2004, P NATL ACAD SCI USA, V101, P16109, DOI 10.1073/pnas.0406982101
+   Hartshorn AS, 2006, P NATL ACAD SCI USA, V103, P11092, DOI 10.1073/pnas.0604594103
+   Hay J, 2006, SUSTAIN SCI, V1, P23, DOI 10.1007/s11625-006-0011-8
+   Hecht AD, 2007, SUSTAIN, V3, P37
+   Hess D, 2007, SUSTAINABILITY SCI P, V3, P45
+   Hilborn R, 2003, P NATL ACAD SCI USA, V100, P6564, DOI 10.1073/pnas.1037274100
+   Hill J, 2006, P NATL ACAD SCI USA, V103, P11206, DOI 10.1073/pnas.0604600103
+   Hjermann DO, 2004, P NATL ACAD SCI USA, V101, P11679, DOI 10.1073/pnas.0402904101
+   Holdren JP, 2008, SCIENCE, V319, P424, DOI 10.1126/science.1153386
+   Howden SM, 2007, P NATL ACAD SCI USA, V104, P19691, DOI 10.1073/pnas.0701890104
+   Hyden G, 2007, P NATL ACAD SCI USA, V104, P16751, DOI 10.1073/pnas.0700696104
+   Irwin EG, 2007, P NATL ACAD SCI USA, V104, P20672, DOI 10.1073/pnas.0705527105
+   Kajikawa Y, 2006, J INF SCI, V32, P511, DOI 10.1177/0165551506067125
+   Kajikawa Y, 2007, SUSTAIN SCI, V2, P221, DOI 10.1007/s11625-007-0027-8
+   Kastenhofer K, 2005, SUSTAINABILITY SCI P, V1, P5
+   Kates RW, 2001, SCIENCE, V292, P641, DOI 10.1126/science.1059386
+   Kates RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/pnas.1231331100
+   Kates RW, 2007, P NATL ACAD SCI USA, V104, P16747, DOI 10.1073/pnas.0708566104
+   Kauppi PE, 2006, P NATL ACAD SCI USA, V103, P17574, DOI 10.1073/pnas.0608343103
+   Kaushal SS, 2005, P NATL ACAD SCI USA, V102, P13517, DOI 10.1073/pnas.0506414102
+   Keith DW, 2004, P NATL ACAD SCI USA, V101, P16115, DOI 10.1073/pnas.0406930101
+   Kemp R, 2007, SUSTAINABILITY: SCIENCE, V0, P0
+   Kim JW, 2006, SUSTAIN SCI, V1, P107, DOI 10.1007/s11625-006-0006-5
+   Kirilenko AP, 2007, P NATL ACAD SCI USA, V104, P19697, DOI 10.1073/pnas.0701424104
+   Koehler DA, 2006, SUSTAINABILITY SCI P, V2, P22
+   Komatsuzaki M, 2007, SUSTAIN SCI, V2, P103, DOI 10.1007/s11625-006-0014-5
+   Komiyama H, 2006, SUSTAIN SCI, V1, P1, DOI 10.1007/s11625-006-0007-4
+   Kostoff RN, 2002, BIOSCIENCE, V52, P937, DOI 10.1641/0006-3568(2002)052[0937:OS]2.0.CO;2
+   Kramer SB, 2006, P NATL ACAD SCI USA, V103, P4522, DOI 10.1073/pnas.0600359103
+   Krkosek M, 2006, P NATL ACAD SCI USA, V103, P15506, DOI 10.1073/pnas.0603525103
+   Larson AM, 2007, SUSTAIN SCI, V2, P189, DOI 10.1007/s11625-007-0030-0
+   Laurance WF, 2006, P NATL ACAD SCI USA, V103, P19010, DOI 10.1073/pnas.0609048103
+   Lawrence D, 2007, P NATL ACAD SCI USA, V104, P20696, DOI 10.1073/pnas.0705005104
+   Lie J, 2007, SUSTAIN SCI, V2, P233, DOI 10.1007/s11625-007-0026-9
+   Liu WJ, 2007, P NATL ACAD SCI USA, V104, P3627, DOI 10.1073/pnas.0611572104
+   Loorbach D, 2007, SUSTAINABILITY SCI P, V3, P1
+   Luck GW, 2004, P NATL ACAD SCI USA, V101, P182, DOI 10.1073/pnas.2237148100
+   Lyytimaki J, 2007, SUSTAINABILITY SCI P, V3, P61, DOI DOI 10.1080/15487733.2007.11908007
+   Mabogunje AL, 2007, P NATL ACAD SCI USA, V104, P16781, DOI 10.1073/pnas.0704765104
+   Manson SM, 2007, P NATL ACAD SCI USA, V104, P20678, DOI 10.1073/pnas.0705802104
+   Marcotullio PJ, 2007, SUSTAIN SCI, V2, P27, DOI 10.1007/s11625-006-0019-0
+   Martens P, 2006, SUSTAINIBILITY SCI P, V2, P36
+   Martens S, 2005, SUSTAINABILITY SCI P, V1, P29
+   Meinzen-dick R, 2007, P NATL ACAD SCI USA, V104, P15200, DOI 10.1073/pnas.0702296104
+   Meyer RC, 2007, P NATL ACAD SCI USA, V104, P4759, DOI 10.1073/pnas.0609709104
+   Miles EL, 2006, P NATL ACAD SCI USA, V103, P19616, DOI 10.1073/pnas.0609090103
+   Milinski M, 2006, P NATL ACAD SCI USA, V103, P3994, DOI 10.1073/pnas.0504902103
+   Moos M, 2006, SUSTAINABILITY SCI P, V2, P3
+   Morioka T, 2006, SUSTAIN SCI, V1, P65, DOI 10.1007/s11625-006-0008-3
+   Morton DC, 2006, P NATL ACAD SCI USA, V103, P14637, DOI 10.1073/pnas.0606377103
+   Morton JF, 2007, P NATL ACAD SCI USA, V104, P19680, DOI 10.1073/pnas.0701855104
+   Mulder KF, 2007, SUSTAIN SCI, V2, P253, DOI 10.1007/s11625-007-0036-7
+   Muller DB, 2006, P NATL ACAD SCI USA, V103, P16111, DOI 10.1073/pnas.0603375103
+   Myers N, 2003, P NATL ACAD SCI USA, V100, P4963, DOI 10.1073/pnas.0438061100
+   Nagendra H, 2007, P NATL ACAD SCI USA, V104, P15218, DOI 10.1073/pnas.0702319104
+   Naughton-treves L, 2006, SUSTAINABILITY: SCIENCE, V0, P0
+   Naylor RL, 2007, P NATL ACAD SCI USA, V104, P7752, DOI 10.1073/pnas.0701825104
+   Newman L, 2005, SUSTAINABILITY SCI P, V1, P25
+   Nieusma D, 2007, SUSTAINABILITY SCI P, V3, P32
+   Nordhaus WD, 2006, P NATL ACAD SCI USA, V103, P3510, DOI 10.1073/pnas.0509842103
+   Oconnor M, 2006, ECOL COMPLEX, V3, P285, DOI 10.1016/j.ecocom.2007.02.002
+   Okwi PO, 2007, P NATL ACAD SCI USA, V104, P16769, DOI 10.1073/pnas.0611107104
+   Orecchini F, 2007, SUSTAIN SCI, V2, P245, DOI 10.1007/s11625-007-0035-8
+   Ostrom E, 2006, P NATL ACAD SCI USA, V103, P19224, DOI 10.1073/pnas.0607962103
+   Ostrom E, 2007, P NATL ACAD SCI USA, V104, P15176, DOI 10.1073/pnas.0701886104
+   Ostrom E, 2007, P NATL ACAD SCI USA, V104, P15181, DOI 10.1073/pnas.0702288104
+   Palmer M, 2007, ENVIRON PLANN A, V38, P1775
+   Parris TM, 2003, P NATL ACAD SCI USA, V100, P8068, DOI 10.1073/pnas.1231336100
+   Patt A, 2005, P NATL ACAD SCI USA, V102, P12623, DOI 10.1073/pnas.0506125102
+   Pattanayak S, 2006, SUSTAINABILITY: SCIENCE, V0, P0
+   Perrings C, 2007, P NATL ACAD SCI USA, V104, P15179, DOI 10.1073/pnas.0701957104
+   Pimm S, 2006, P NATL ACAD SCI USA, V103, P10941, DOI 10.1073/pnas.0604181103
+   Poff NL, 2007, P NATL ACAD SCI USA, V104, P5732, DOI 10.1073/pnas.0609812104
+   Rahaman MM, 2005, SUSTAINABILITY: SCIENCE, V0, P0
+   Ramanathan V, 2005, P NATL ACAD SCI USA, V102, P5326, DOI 10.1073/pnas.0500656102
+   Rapport DJ, 2007, SUSTAIN SCI, V2, P77, DOI 10.1007/s11625-006-0016-3
+   Raso G, 2006, P NATL ACAD SCI USA, V103, P6934, DOI 10.1073/pnas.0601559103
+   Raupach MR, 2007, P NATL ACAD SCI USA, V104, P10288, DOI 10.1073/pnas.0700609104
+   Raven PH, 2002, SCIENCE, V297, P954, DOI 10.1126/science.297.5583.954
+   Reddy KS, 2007, P NATL ACAD SCI USA, V104, P16263, DOI 10.1073/pnas.0700933104
+   Reitan P, 2005, SUSTAINABILITY SCI P, V1, P77
+   Ricketts TH, 2004, P NATL ACAD SCI USA, V101, P12579, DOI 10.1073/pnas.0405147101
+   Rindfuss RR, 2004, P NATL ACAD SCI USA, V101, P13976, DOI 10.1073/pnas.0401545101
+   Rockstrom J, 2007, P NATL ACAD SCI USA, V104, P6253, DOI 10.1073/pnas.0605737104
+   Rogerson PA, 2005, P NATL ACAD SCI USA, V102, P15319, DOI 10.1073/pnas.0507318102
+   Sanches S, 2005, SUSTAINABILITY SCI P, V1, P43
+   Sanchez P, 2007, P NATL ACAD SCI USA, V104, P16775, DOI 10.1073/pnas.0700423104
+   Sato J, 2007, SUSTAIN SCI, V2, P151, DOI 10.1007/s11625-007-0033-x
+   Savage VR, 2006, SUSTAIN SCI, V1, P37, DOI 10.1007/s11625-006-0002-9
+   Schmidhuber J, 2007, P NATL ACAD SCI USA, V104, P19703, DOI 10.1073/pnas.0701976104
+   Sidle EC, 2007, SUSTAIN SCI, V2, P55
+   Singer BH, 2007, P NATL ACAD SCI USA, V104, P16038, DOI 10.1073/pnas.0700900104
+   Smith DMS, 2007, P NATL ACAD SCI USA, V104, P20690, DOI 10.1073/pnas.0704837104
+   Spyratos V, 2007, P NATL ACAD SCI USA, V104, P14272, DOI 10.1073/pnas.0704488104
+   Steffan-dewenter I, 2007, P NATL ACAD SCI USA, V104, P4973, DOI 10.1073/pnas.0608409104
+   Steinfeld JI, 2006, SUSTAIN SCI, V1, P123, DOI 10.1007/s11625-006-0004-7
+   Stephens JC, 2006, SUSTAIN, V2, P41
+   Sumi A, 2007, SUSTAIN SCI, V2, P67, DOI 10.1007/s11625-006-0021-6
+   Tatem AJ, 2006, P NATL ACAD SCI USA, V103, P6242, DOI 10.1073/pnas.0508391103
+   Taylor BW, 2004, P NATL ACAD SCI USA, V101, P17725, DOI 10.1073/pnas.0405176101
+   Thompson JR, 2007, P NATL ACAD SCI USA, V104, P10743, DOI 10.1073/pnas.0700229104
+   Thresher RE, 2007, P NATL ACAD SCI USA, V104, P7461, DOI 10.1073/pnas.0610546104
+   Thuiller W, 2005, P NATL ACAD SCI USA, V102, P8245, DOI 10.1073/pnas.0409902102
+   Tomas MK, 2006, SUSTAINABILITY SCI P, V2, P15
+   Trieb F, 2007, SUSTAIN SCI, V2, P205, DOI 10.1007/s11625-007-0025-x
+   Tubiello FN, 2007, P NATL ACAD SCI USA, V104, P19686, DOI 10.1073/pnas.0701728104
+   Turner BL, 2003, P NATL ACAD SCI USA, V100, P8074, DOI 10.1073/pnas.1231335100
+   Turner BL, 2003, P NATL ACAD SCI USA, V100, P8080, DOI 10.1073/pnas.1231334100
+   Turner BL, 2007, P NATL ACAD SCI USA, V104, P20666, DOI 10.1073/pnas.0704119104
+   Valderrama A, 2007, SUSTAIN SCI PRACT PO, V3, P59
+   Velders GJM, 2007, P NATL ACAD SCI USA, V104, P4814, DOI 10.1073/pnas.0610328104
+   West JJ, 2006, P NATL ACAD SCI USA, V103, P3988, DOI 10.1073/pnas.0600201103
+   Wilderer PA, 2007, SUSTAIN SCI, V2, P1, DOI 10.1007/s11625-007-0022-0
+   Wilson J, 2007, P NATL ACAD SCI USA, V104, P15212, DOI 10.1073/pnas.0702241104
+   Wing MG, 2007, SUSTAINABILITY: SCIENCE, V0, P0
+   Workeneh B, 2007, SUSTAIN, V3, P68
+   Yasuhara K, 2007, SUSTAIN SCI, V2, P13, DOI 10.1007/s11625-006-0015-4
+   Yli-pelkonen V, 2005, SUSTAINABILITY SCI P, V1, P3
+   Yoshida Y, 2007, INT J HEMATOL, V85, P93, DOI 10.1532/IJH97.07999
+   Yu E, 2007, P NATL ACAD SCI USA, V104, P20629, DOI 10.1073/pnas.0707267104
+   Zeidberg LD, 2007, Proceedings of the National Academy of Sciences of the United States of America, V104, P12948, DOI 10.1073/pnas.0702043104
+   Zhang WW, 2006, SUSTAIN SCI, V1, P83, DOI 10.1007/s11625-006-0009-2
+   Zhou LM, 2004, P NATL ACAD SCI USA, V101, P9540, DOI 10.1073/pnas.0400357101
+   Zhou WS, 2006, SUSTAIN SCI, V1, P115, DOI 10.1007/s11625-006-0010-9
+   Zimmerman JB, 2005, SUSTAINABILITY SCI P, V1, P32
+NR 193
+TC 129
+Z9 0
+J9 SUSTAINABILITY SCIENCE
+PY 2008
+VL 3
+BP 215
+EP 239
+DI 10.1007/s11625-008-0053-1
+PG 
+UT WOS:000264104100006
+ER
+
+PT J
+AU Pautasso, Marco
+TI Negative density-area relationships: the importance of the zeros
+SO GLOBAL ECOLOGY AND BIOGEOGRAPHY
+DE human biogeography; land-use patterns; macroecology; plot area effect;presence-absence; sampling size; scaling of abundances; spatial autocorrelation; study grain; urban density functions
+AB Aim Estimates of abundances and densities of birds and mammals have often been shown to be scale dependent, in that population sizes over large areas are overestimated if extrapolated from surveys of small plots. Previous tests of the mechanisms suggested to cause this decelerating scaling pattern found evidence of a biased choice of small plots in patches of homogeneous habitat. Here we show that negative density-area relationships can also arise as result of not considering plots where individuals of the species or assemblage of interest are absent in surveys of differing spatial resolution. Location We took a complete census of violets (Viola spp.) in 800 m(2) of chalk grassland in Wye, Kent, UK, and used human population censuses for Finnish, Swiss and Italian municipalities, English districts, states of the USA and European countries. Methods We used mixed models of logarithmically transformed number of individuals or densities as a function of area. Results The census of violets shows that by increasing the survey resolution and by not considering plots without individuals, the effectively occupied area diminishes and a negative density-area relationship arises. The finding that negative density-area relationships are also common for people is evidence that the non-random choice of plots in population surveys of varying areas can be responsible for many observed negative density-area relationships. The shallower slope of the people-administrative area relationship for Switzerland and Finland compared with Italy, as well as for England and the USA compared with Europe, confirms that less than proportionate individuals-area relationships can be the consequence of larger plot areas containing a higher proportion of areas without individuals. Main conclusions Densities should be reported together with the effective areas for which they were estimated. It should be clearly conveyed whether or not plots where the surveyed species was absent were included in the density estimation. OI Pautasso, Marco/0000-0003-1850-6416
+CR Allen AP, 2000, J BIOGEOGR, V27, P889, DOI 10.1046/j.1365-2699.2000.00453.x
+   Balmford A, 2001, SCIENCE, V291, P2616, DOI 10.1126/science.291.5513.2616
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Buckland ST, 2000, BIOMETRICS, V56, P1, DOI 10.1111/j.0006-341X.2000.00001.x
+   Diggle PJ, 2003, STAT ANAL SPATIAL PO, V0, P0
+   Du RauPD, 2003, ANIM CONSERV, V6, P379, DOI 10.1017/S1367943003003457
+   Fonseca JW, 2000, PROF GEOGR, V52, P504, DOI 10.1111/0033-0124.00242
+   Goslee SC, 2006, PLANT ECOL, V187, P203, DOI 10.1007/s11258-005-3495-x
+   Gotmark F, 2003, BIODIVERS CONSERV, V12, P1271, DOI 10.1023/A:1023000224642
+   Green RE, 2005, SCIENCE, V307, P550, DOI 10.1126/science.1106049
+   Guernier V, 2004, PLOS BIOL, V2, P740, DOI 10.1371/journal/pbio.0020141
+   Gunton RM, 2007, J ECOL, V95, P435, DOI 10.1111/j.1365-2745.2007.01226.x
+   Gupta P, 2006, ATMOS ENVIRON, V40, P588
+   He FL, 2002, LANDSCAPE ECOL, V17, P559, DOI 10.1023/A:1021514104193
+   Holdenrieder O, 2004, TRENDS ECOL EVOL, V19, P446, DOI 10.1016/j.tree.2004.06.003
+   Huang J, 2007, IN PRESS LANDSCAPE U, V0, P0
+   Imhoff ML, 2004, NATURE, V429, P870, DOI 10.1038/nature02619
+   Kain RJP, 2004, ENCLOSURE MAPS ENGLA, V0, P0
+   Kauppi PE, 2006, P NATL ACAD SCI USA, V103, P17574, DOI 10.1073/pnas.0608343103
+   Keeling HC, 2007, GLOBAL ECOL BIOGEOGR, V16, P618, DOI 10.1111/j.1466-8238.2007.00314.x
+   Kolb A, 2006, GLOBAL ECOL BIOGEOGR, V15, P237, DOI 10.1111/j.1466-822x.2005.00210.x
+   Luck GW, 2007, J BIOGEOGR, V34, P201, DOI 10.1111/j.1365-2699.2006.01575.x
+   Lutz W, 2006, POPUL ENVIRON, V28, P69, DOI 10.1007/s11111-007-0037-6
+   Mackenzie DI, 2006, OCCUPANCY ESTIMATION, V0, P0
+   Matter SF, 2003, AM MIDL NAT, V150, P26, DOI 10.1674/0003-0031(2003)150[0026:TEOIHA]2.0.CO;2
+   Matter SF, 2003, ECOL MODEL, V169, P103, DOI 10.1016/j.ecolmodel.2003.07.002
+   Mcgill BJ, 2006, SCIENCE, V314, P770, DOI 10.1126/science.1134920
+   Mckinney ML, 2002, GLOBAL ECOL BIOGEOGR, V11, P343, DOI 10.1046/j.1466-822X.2002.00293.x
+   Mckinney ML, 2005, ANIM CONSERV, V8, P135, DOI 10.1017/S1367943005001939
+   Nee S, 2002, OIKOS, V99, P545, DOI 10.1034/j.1600-0706.2002.11637.x
+   Pandit R, 2007, BIODIVERS CONSERV, V16, P235, DOI 10.1007/s10531-006-9140-8
+   Pautasso M, 2006, GLOBAL ECOL BIOGEOGR, V15, P303, DOI 10.1111/j.1466-822x.2006.00222.x
+   Pautasso M, 2007, ECOL LETT, V10, P16, DOI 10.1111/j.1461-0248.2006.00993.x
+   Pisani C, 2002, ENVIRONMETRICS, V13, P155, DOI 10.1002/env.506
+   Pollock KH, 2002, ENVIRONMETRICS, V13, P105, DOI 10.1002/env.514
+   Pottier N, 2005, APPL GEOGR, V25, P1, DOI 10.1016/j.apgeog.2004.11.003
+   Smallwood KS, 2001, ANN ZOOL FENN, V38, P149
+   Stohlgren TJ, 2005, ECOLOGY, V86, P2298, DOI 10.1890/04-1195
+   Sutherland WJ, 2006, ECOLOGICAL CENSUS TECHNIQUES: A HANDBOOK, V0, P1, DOI 10.2277/ 0521606365
+   Sutton P, 2001, INT J REMOTE SENS, V22, P3061, DOI 10.1080/01431160010007015
+   Terrell JE, 2006, J BIOGEOGR, V33, P2088, DOI 10.1111/j.1365-2699.2006.01581.x
+   Watts RD, 2007, SCIENCE, V316, P736, DOI 10.1126/science.1138141
+   Witmer GW, 2005, WILDLIFE RES, V32, P259, DOI 10.1071/WR04003
+   Wright SJ, 2006, BIOTROPICA, V38, P287, DOI 10.1111/j.1744-7429.2006.00154.x
+NR 44
+TC 12
+Z9 0
+J9 GLOBAL ECOLOGY AND BIOGEOGRAPHY
+PY 2008
+VL 17
+BP 203
+EP 210
+DI 10.1111/j.1466-8238.2007.00354.x
+PG 
+UT WOS:000252966000006
+ER
+
+PT J
+AU Grimm, Nancy B
+TI Global change and the ecology of cities
+SO SCIENCE LAND-USE CHANGE; URBAN ECOSYSTEMS; BIOTIC HOMOGENIZATION; HONG-KONG;
+AB Urban areas are hot spots that drive environmental change at multiple scales. Material demands of production and human consumption alter land use and cover, biodiversity, and hydrosystems locally to regionally, and urban waste discharge affects local to global biogeochemical cycles and climate. For urbanites, however, global environmental changes are swamped by dramatic changes in the local environment. Urban ecology integrates natural and social sciences to study these radically altered local environments and their regional and global effects. Cities themselves present both the problems and solutions to sustainability challenges of an increasingly urbanized world. RI Grimm, Nancy/D-2840-2009; Wu, Jianguo/G-6267-2010; Bai, Xuemei/H-7072-2012; Bai, Xuemei/A-5443-2012; WU, Jingle/A-4055-2009 OI Grimm, Nancy/0000-0001-9374-660X; Bai, Xuemei/0000-0001-6556-8041;
+CR *un DEVP, 2006, SCARC POW POV GLOB W, V0, P0
+   Anderies JM, 2007, J THEOR BIOL, V247, P36, DOI 10.1016/j.jtbi.2007.01.030
+   Angold PG, 2006, SCI TOTAL ENVIRON, V360, P196, DOI 10.1016/j.scitotenv.2005.08.035
+   Bai XM, 2006, ENVIRONMENT, V48, P22, DOI 10.3200/ENVT.48.7.22-38
+   Bernhardt ES, 2007, FRESHWATER BIOL, V52, P738, DOI 10.1111/j.1365-2427.2006.01718.x
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Briggs JM, 2006, FRONT ECOL ENVIRON, V4, P180, DOI 10.1890/1540-9295(2006)004[0180:WENAAA]2.0.CO;2
+   Brown L, 2001, ECOECONOMY BUILDING, V0, P0
+   Burhans DE, 2006, ECOL APPL, V16, P394, DOI 10.1890/04-0927
+   Cadenasso ML, 2007, FRONT ECOL ENVIRON, V5, P80, DOI 10.1890/1540-9295(2007)5[80:SHIUER]2.0.CO;2
+   Carreiro MM, 2005, ECOSYSTEMS, V8, P568, DOI 10.1007/s10021-003-0172-6
+   Chace JF, 2006, LANDSCAPE URBAN PLAN, V74, P46, DOI 10.1016/j.landurbplan.2004.08.007
+   Chocat B, 2001, WATER SCI TECHNOL, V43, P61
+   Dunn RR, 2006, CONSERV BIOL, V20, P1814, DOI 10.1111/j.1523-1739.2006.00533.x
+   Faeth SH, 2005, BIOSCIENCE, V55, P399, DOI 10.1641/0006-3568(2005)055[0399:TDIUC]2.0.CO;2
+   Fernandez JE, 2007, J IND ECOL, V11, P99, DOI 10.1162/jie.2007.1199
+   Graedel TE, 2004, ENVIRON SCI TECHNOL, V38, P1242, DOI 10.1021/es030433c
+   Gregg JW, 2003, NATURE, V424, P183, DOI 10.1038/nature01728
+   Grimm NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2
+   Groffman PM, 2004, ECOSYSTEMS, V7, P393, DOI 10.1007/s10021-003-0039-x
+   Groffman PM, 2005, J N AM BENTHOL SOC, V24, P613, DOI 10.1899/04-026.1
+   Grove JM, 2006, ECOSYSTEMS, V9, P578, DOI 10.1007/s10021-006-0116-z
+   Hansen AJ, 2007, ECOL APPL, V17, P974, DOI 10.1890/05-1098
+   Hope D, 2003, P NATL ACAD SCI USA, V100, P8788, DOI 10.1073/pnas.1537557100
+   Kahn ME, 2000, J POLICY ANAL MANAG, V19, P569, DOI 10.1002/1520-6688(200023)19:4<569::AID-PAM3>3.3.CO;2-G
+   Kalnay E, 2003, NATURE, V423, P528, DOI 10.1038/nature01675
+   Kareiva P, 2007, SCIENCE, V316, P1866, DOI 10.1126/science.1140170
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kaye JP, 2008, ECOL APPL, V18, P132, DOI 10.1890/06-1952.1
+   Lang RE, 2007, METROPLEX EXAMINING, V0, P0
+   Lewis DB, 2006, GLOBAL CHANGE BIOL, V12, P703, DOI 10.1111/j.1365-2486.2006.01126.x
+   Li XD, 2001, APPL GEOCHEM, V16, P1361, DOI 10.1016/S0883-2927(01)00045-2
+   Luck M, 2002, LANDSCAPE ECOL, V17, P327, DOI 10.1023/A:1020512723753
+   Luck MA, 2001, ECOSYSTEMS, V4, P782, DOI 10.1007/sl0021-001-0046-8
+   Marzluff JM, 2005, Urban Ecosystems, V8, P157, DOI 10.1007/s11252-005-4378-6
+   Mcintyre NE, 2001, LANDSCAPE URBAN PLAN, V52, P257, DOI 10.1016/S0169-2046(00)00122-5
+   Mckinney ML, 2002, BIOSCIENCE, V52, P883, DOI 10.1641/0006-3568(2002)052[0883:UBAC]2.0.CO;2
+   Mckinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Meyerson FAB, 2007, FRONT ECOL ENVIRON, V5, P182, DOI 10.1890/1540-9295(2007)5[182:MAEITC]2.0.CO;2
+   Molina MJ, 2004, J AIR WASTE MANAGE, V54, P644, DOI 10.1080/10473289.2004.10470936
+   Navara KJ, 2007, J PINEAL RES, V43, P215, DOI 10.1111/j.1600-079X.2007.00473.x
+   Olden JD, 2006, J BIOGEOGR, V33, P2027, DOI 10.1111/j.1365-2699.2006.01572.x
+   Partecke J, 2007, ECOLOGY, V88, P882, DOI 10.1890/06-1105
+   Pataki DE, 2006, GLOBAL CHANGE BIOL, V12, P2092, DOI 10.1111/j.1365-2486.2006.01242.x
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Pavao-zuckerman MA, 2007, APPL SOIL ECOL, V35, P329, DOI 10.1016/j.apsoil.2006.07.008
+   Pickett STA, 2001, ANNU REV ECOL SYST, V32, P127, DOI 10.1146/annurev.ecolsys.32.081501.114012
+   Pickett STA, 2005, ECOSYSTEMS, V8, P225, DOI 10.1007/s10021-004-0098-7
+   Robinson L, 2005, LANDSCAPE URBAN PLAN, V71, P51, DOI 10.1016/j.landurbplan.2004.02.005
+   Rosenzweig M, 2003, WIN WIN ECOLOGY, V0, P0
+   Seto KC, 2005, LANDSCAPE ECOL, V20, P871, DOI 10.1007/s10980-005-5238-8
+   Shen L, 2005, CITIES, V22, P287, DOI 10.1016/j.cities.2005.05.007
+   Shochat E, 2004, ECOL APPL, V14, P268, DOI 10.1890/02-5341
+   Shochat E, 2006, TRENDS ECOL EVOL, V21, P186, DOI 10.1016/j.tree.2005.11.019
+   Stoddard JL, 2006, ECOL APPL, V16, P1267, DOI 10.1890/1051-0761(2006)016[1267:SEFTEC]2.0.CO;2
+   Trenberth KE, 2007, CLIMATE CHANGE 2007: THE PHYSICAL SCIENCE BASIS, V0, P235
+   Unitednations PD, 2006, WORLD URB PROSP 2005, V0, P0
+   Valiela I, 2007, BIOSCIENCE, V57, P360, DOI 10.1641/B570410
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Warren-rhodes K, 2001, AMBIO, V30, P429, DOI 10.1639/0044-7447(2001)030[0429:ETITUM]2.0.CO;2
+   Xiao Y, 2007, ENVIRON MONIT ASSESS, V135, P21, DOI 10.1007/s10661-007-9708-0
+   Zhao SQ, 2006, FRONT ECOL ENVIRON, V4, P341, DOI 10.1890/1540-9295(2006)004[0341:ECORUE]2.0.CO;2
+NR 62
+TC 1917
+Z9 0
+J9 SCIENCE LAND-USE CHANGE; URBAN ECOSYSTEMS; BIOTIC HOMOGENIZATION; HONG-KONG;
+PY 2008
+VL 319
+BP 756
+EP 760
+DI 10.1126/science.1150195
+PG 
+UT WOS:000252963000045
+ER
+

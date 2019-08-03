@@ -1,0 +1,526 @@
+
+PT J
+AU Hosman, L
+AF Hosman, Laura
+TI Making the transition from pilot to scale: examining sustainability and
+   scalability issues in a public-private telecenter partnership in Sri
+   Lanka
+SO INFORMATION TECHNOLOGY FOR DEVELOPMENT
+LA English
+DT Article
+DE telecenters; public-private partnerships; development; sustainability;
+   scaling
+AB Public-private partnerships (PPPs) are increasingly the vehicles of choice for the implementation of information and communications technology in the developing world. This is particularly true with regard to locally appropriate, shared-access models such as the telecenter franchise. However, the sustainability and the scalability of such initiatives remain in question. This article examines an innovative PPP project at a crucial developmental point: the period of transition from pilot to scaling stage. It identifies challenges and success factors seldom covered in the literature on such projects, then addresses the question(s) of sustainability and scalability, and explores the advantages of focussing on sub-urban areas and the small-and-medium-enterprise sector of emerging economies.
+C1 IIT, Chicago, IL 60616 USA.
+RP Hosman, L (reprint author), IIT, Chicago, IL 60616 USA.
+EM laurahosman@gmail.com
+CR Alampay G, 2007, 12 APDIP
+   Angerer D. J., 2005, ROM J POLIT SCI, V5, P129
+   Cecchini S., 2003, Information Technology for Development, V10, P73, DOI 10.1002/itdj.1590100203
+   Central Bank of Sri Lanka, 1999, KEY EC IND
+   Hosman Laura, 2008, Information Technology for Development, V14, P308, DOI 10.1002/itdj.20109
+   Hosman L, 2010, J INF TECHNOL POLITI, V7, P369, DOI 10.1080/19331681.2010.489407
+   Jensen M, 2005, UN ICT TASK FORCE SE, P43
+   Kanungo S., 2004, Information Technology & People, V17, P407, DOI 10.1108/09593840410570267
+   Kauffmann C., 2005, FINANCING SMES AFRIC
+   Kimaro H. C., 2005, Information Technology for Development, V11, P273, DOI 10.1002/itdj.20016
+   Kusakabe M, 2005, UN ICT TASK FORCE SE, P51
+   London T, 2004, J INT BUS STUD, V35, P350, DOI 10.1057/palgrave.jibs.8400099
+   Newberry D., 2006, ROLE SMALL MEDIUM SI
+   Proenza F. J., 2001, BRIDGING RURAL KNOWL
+   Rogers E. M., 1962, DIFFUSION INNOVATION
+   Rogers E.M., 2001, ROLE TELECENTERS DEV
+   Roman R., 2005, UN ICT TASK FORCE SE, P89
+   Roman R., 2002, WORKING PAPER SERIES
+   Rosenau PV, 1999, AM BEHAV SCI, V43, P10, DOI 10.1177/00027649921955137
+   Salvador T., 2005, Information Technology for Development, V11, P77, DOI 10.1002/itdj.20004
+   Stewart A, 2006, ENVIRON POLIT, V15, P362, DOI 10.1080/09644010600627592
+   Surowiecki James, 2008, NEW YORKER      0317
+   Synergy Strategies Group, 2007, CTR IN A BOX BROADB
+   Toumi H, 2007, GULF NEWS       0810
+   Van Rensburg Johann, 2008, Information Technology for Development, V14, P76, DOI 10.1002/itdj.20088
+   Walsham Geoff, 2005, INFORM TECHNOLOGY DE, V12, P7, DOI DOI 10.1002/ITDJ.20020
+   WARSCHAUER M, 2002, 1 MONDAY, V7
+   Weigel G., 2004, ICT4D CONNECTING PEO
+NR 28
+TC 6
+Z9 6
+U1 1
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0268-1102
+J9 INFORM TECHNOL DEV
+JI Inform. Technol. Dev.
+PY 2011
+VL 17
+IS 3
+SI SI
+BP 232
+EP 248
+DI 10.1080/02681102.2011.568225
+PG 17
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA 879PW
+UT WOS:000299345000005
+DA 2019-03-26
+ER
+
+PT B
+AU Coultas, EH
+   Maheepala, S
+   Mirza, F
+AF Coultas, E. H.
+   Maheepala, S.
+   Mirza, F.
+BE Chan, F
+   Marinova, D
+   Anderssen, RS
+TI Towards the quantification of water quantity and quality impacts of
+   rainwater tanks in South East Queensland
+SO 19TH INTERNATIONAL CONGRESS ON MODELLING AND SIMULATION (MODSIM2011)
+LA English
+DT Proceedings Paper
+CT 19th International Congress on Modelling and Simulation (MODSIM)
+CY DEC 12-16, 2011
+CL Perth, AUSTRALIA
+SP CSIRO, Australian Govt, Bur Meteorol, Per Convent & Exhibit Ctr, Perth Convent Bur, Curtin Univ, Australian Math Soc (Aust MS), Australian & New Zealand Ind & Appl Math (ANZIAM), Australian Math Sci Inst (AMSI), Maralte Publishers, Econ Soc Australian (ESA), HEMA Consulting, Simulat Australia, Stat Soc Australia Inc (SSAI), Modelling & Simulat Soc Australia & New Zealand Inc (MSSANZ), Int Assoc Math & Comp Simulat (IMACS)
+DE Rainwater tank; Modelling; Nutrient export; Potable water savings; SEQ
+AB To help ensure the security of water supply to urban catchments, a popular policy choice is to promote the installation of domestic rainwater tanks. While yield is primarily considered, this policy also causes a change in urban-runoff stormwater volumes and consequentially, nutrient export.
+   Modelling tools are used to predict the yield, volumetric reliability, overflow volume, and nutrient export that the deployment of rainwater tanks will cause. These modelling tools commonly utilise an up-scaling approach to analyse the behaviour of multiple tanks, where the performance of a single tank with average characteristics is linearly scaled up to represent a larger cluster of tanks.
+   Previous research has shown that this up-scaling method significantly overestimates the yield and volumetric reliability (Mitchell et al. 2008), and underestimates the overflow volume of the cluster (Neumann et al. 2011). A sensitivity analysis of the parameters used to represent a rainwater tank (roof catchment areas, tank storage capacities, demand) was carried out, using on-hand data for Melbourne water demand, rainfall and maximum temperature (Neumann et al. 2011). It identified that the non linearity of the tank yield and overflow in relation to some of the model parameters means that the adoption of an "average" (i.e. spatially lumped) tank to represent the behaviour of the entire cluster is subject to significant errors.
+   This paper establishes that, accordingly, nutrient export loads are also underestimated, and describes a stochastic water balance and quality model to effectively quantify the overflow nutrient load from a cluster of rainwater tanks at the catchment-scale.
+   In 2008, to reduce mains water consumption the South East Queensland region made rainwater tanks mandatory in new detached dwellings. It is important to accurately estimate overflow nutrient loads discharged to stormwater to identify changes at the catchment scale caused by this wide implementation of rainwater tanks.
+   The purpose of this paper is to apply the method described in Neumann et al (2011) and Maheepala et al (2011) to South East Queensland data, avoiding the limitations of spatial lumping of the performance of an average rainwater tank. This study examines the impact on overflow loads and volumes, and potable water savings at a catchment scale of a simulated cluster of RWTs in the Brisbane region, and also analyses the model's sensitivity to geographic climate parameters. By using Brisbane water demand, rainfall, and maximum temperature data, this paper illustrates the effect that the varied climates of Melbourne and Brisbane have on the results of the model, via different rainfall and usage patterns.
+   The results of this study for the Brisbane Local Government Area indicate an overestimation of volumetric reliability and yield, and an underestimation of the overflow volume and inflow load as well as the outflow load, which varies between 15% and 27%, depending on the nutrient. Therefore it is not recommended to use an average tank to predict the performance of a cluster of household rainwater tanks to find their contribution to potable water savings, overflow volumes and subsequent nutrient and sediment export to stormwater. Instead, we recommend using stochastic simulation of rainwater tanks, which will include the use of probability distributions to represent tank characteristics and stochastic representation of end use water demands, calibrated using local climate and observed demand and rainwater tank data.
+C1 [Coultas, E. H.; Maheepala, S.; Mirza, F.] CSIRO Land & Water, Highett, Vic, Australia.
+RP Coultas, EH (reprint author), CSIRO Land & Water, Highett, Vic, Australia.
+EM esther.coultas@csiro.au
+CR ABS, 2006, BRISB STAT DIV 40214
+   Beal CD, 2010, 31 URB WAT SEC RES A
+   CRC-CH, 2005, MOD URB STORMW IMPR
+   Duncan H. P, 2008, P WAT 2008
+   Maheepala S, 2011, OZWATER 2011 09 11 M
+   Mashford J, 2011, COMPUTATION IN PRESS
+   Mitchell V, 2008, INT C WAT RES ENV RE
+   Mitchell VG, 2007, HYDROL PROCESS, V21, P2850, DOI 10.1002/hyp.6499
+   Neumann L.E, 2011, C P 12 INT IN PRESS
+   Wong THF, 2006, ECOL ENG, V27, P58, DOI 10.1016/j.ecoleng.2005.10.014
+   Xu H, 2010, 9 INT C HYDR
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 11
+PU MODELLING & SIMULATION SOC AUSTRALIA & NEW ZEALAND INC
+PI CHRISTCHURCH
+PA MSSANZ, CHRISTCHURCH, 00000, NEW ZEALAND
+BN 978-0-9872143-1-7
+PY 2011
+BP 2324
+EP 2330
+PG 7
+WC Computer Science, Interdisciplinary Applications; Operations Research &
+   Management Science; Mathematics, Applied
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA BDU79
+UT WOS:000314989302045
+DA 2019-03-26
+ER
+
+PT J
+AU Hunt, A
+   Watkiss, P
+AF Hunt, Alistair
+   Watkiss, Paul
+TI Climate change impacts and adaptation in cities: a review of the
+   literature
+SO CLIMATIC CHANGE
+LA English
+DT Article
+ID SEA-LEVEL RISE; URBAN-ENVIRONMENT; PART II; MORTALITY; UK;
+   VULNERABILITY; TEMPERATURE; STRATEGIES; SCENARIOS; SINGAPORE
+AB Many of the decisions relating to future urban development require information on climate change risks to cities This review of the academic and "grey" literature provides an overview assessment of the state of the art in the quantification and valuation of climate risks at the city-scale. We find that whilst a small number of cities, mostly in OECD countries, have derived quantitative estimates of the costs of climate change risks under alternative scenarios, this form of analysis is in its infancy. The climate risks most frequently addressed in existing studies are associated with sea-level rise, health and water resources. Other sectors such as energy, transport, and built infrastructure remain less studied. The review has also undertaken a case study to examine the progress in two cities-London and New York-which are relatively advanced in the assessment of climate risks and adaptation. The case studies show that these cities have benefited from stakeholder engagement at an early stage in their risk assessments. They have also benefited from the development of specific institutional responsibilities for co-ordinating such research from the outset. This involvement has been critical in creating momentum and obtaining resources for subsequent in-depth analysis of sectoral impacts and adaptation needs..While low cost climate down-scaling applications would be useful in future research, the greatest priority is to develop responses that can work within the high future uncertainty of future climate change, to build resilience and maintain flexibility. This can best be used within the context of established risk management practices.
+C1 [Hunt, Alistair] Univ Bath, Dept Econ, Bath BA2 7AY, Avon, England.
+   [Watkiss, Paul] Paul Watkiss Associates, Oxford OX2 7SN, England.
+RP Hunt, A (reprint author), Univ Bath, Dept Econ, Bath BA2 7AY, Avon, England.
+EM ecsasph@bath.ac.uk; paul_watkiss@btinternet.com
+FU OECD Environment Directorate; European Community [212774]
+FX The work reported here was initially funded by the OECD Environment
+   Directorate, WPGSP Project on 'Cities and Climate Change: Exploring
+   Local Scale Benefits of Climate Policies, and published (as a much
+   longer document by the OECD: 2007; ENV/EPOC/GSP(2007)10. This paper also
+   benefited from funding recieved from the European Community's Seventh
+   Framework Programme, as part of the ClimateCost Project (Full Costs of
+   Climate Change, Grant Agreement 212774) www/climatecost.eu.
+CR Ackerman F., 2008, COST CLIMATE CHANGE
+   Alam M, 2007, ENVIRON URBAN, V19, P81, DOI 10.1177/0956247807076911
+   Anthoff D, 2006, 96 TYND CTR
+   *ASCCUE, 2007, GRS1923301 ASCCUE U
+   Association of British Insurers (ABI), 2005, FIN RISKS CLIM CHANG
+   Awuor CB, 2008, ENVIRON URBAN, V20, P231, DOI 10.1177/0956247808089158
+   Bambrick H., 2008, GARNAUT CLIMATE CHAN
+   Bigio A, 2003, BUILDING SAFER CITIE, P91
+   Boland JJ, 1997, CLIMATIC CHANGE, V37, P157, DOI 10.1023/A:1005324621274
+   BOSELLO F, 2007, KYOTO PROTOCOL EFFEC
+   Bosello F, 2006, ECOL ECON, V58, P579, DOI 10.1016/j.ecolecon.2005.07.032
+   BREIL M, 2005, FLOODING ENV CHALLEN, pCH26
+   *C40 CLIM LEAD GRO, 2010, CLIM CHANG ACT PLANS
+   CAYAN D, 2006, CEC5002005186SF CAL
+   *CIT LOND, 2006, RIS CHALL CITY LOND
+   CLICHEVSKY N, 2003, DISASTER RISK MANAGE, V3
+   COMPTON K, 2002, P 2 ANN INT IIASA DP, P20
+   Confalonieri U, 2007, CLIMATE CHANGE 2007, P391
+   Crowther KG, 2007, RISK ANAL, V27, P1345, DOI 10.1111/j.1539-6924.2007.00965.x
+   Curriero FC, 2002, AM J EPIDEMIOL, V155, P80, DOI 10.1093/aje/155.1.80
+   Dawson RJ, 2009, CLIMATIC CHANGE, V95, P249, DOI 10.1007/s10584-008-9532-8
+   Dawson R, 2007, PHILOS T R SOC A, V365, P3085, DOI 10.1098/rsta.2007.0008
+   Deke O., 2001, EC IMPACT CLIMATE CH, P1065
+   Dessai S, 2003, INT J BIOMETEOROL, V48, P37, DOI 10.1007/s00484-003-0180-4
+   *DINAS COAST CONSO, 2006, DIVA VERS 1 0 CD ROM
+   Dore M. H. I, 2001, COSTS ADAPTATION CLI
+   DORE MHI, 2000, GRANTA209 CCAF
+   DOSSOU KMR, 2006, ENVIRON URBAN, V12, P65
+   Dossou KMR, 2007, ENVIRON URBAN, V19, P65, DOI 10.1177/0956247807077149
+   Downing T., 2005, SCOPING UNCERTAINTY
+   Downing T, 2008, IAJ INTEGRATED ASSES, V8, P85
+   EBI KL, 2007, PEW CTR GLOB CLIM CH
+   EEA, 2008, 42008 EEAJRCWHO
+   Ekelund N., 2007, ADAPTING CLIMATE CHA
+   *EMEMD, 2007, CLIM CHANG DOES IT M
+   *ENV CAN NAT RES C, 2006, IMP SEA LEV RIS CLIM
+   Environment Agency, 2010, THAM EST 2100 PROJ T
+   *EPD ERM, 2010, EFF CLIM CHANG HONG
+   European Commission, 2005, THEM STRAT AIR POLL
+   European Environment Agency (EEA), 2007, 132007 EEA
+   FANKHAUSER S, 2006, EC ADAPTATION
+   Fussel HM, 2006, CLIMATIC CHANGE, V75, P301, DOI 10.1007/s10584-006-0329-3
+   *GARN REV, 2008, GARN CLIM CHANG REV
+   GIANNAKOPOULOS C, 2006, CLIM RES, V31, P91
+   GILLET M, 2006, EUR CLIM CHANG PROGR
+   GLA, 2006, LOND URB HEAT ISL SU
+   Gosling SN, 2009, CLIMATIC CHANGE, V92, P299, DOI [10.1007/s10584-008-9441-x, 10.1007/S10584-008-9441-X]
+   *GOV ACC OFF, 2007, GAO07760T
+   Hadley SW, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2006GL026652
+   Hallegatte S., 2006, COST BENEFIT ANAL NE
+   Hallegatte S, 2007, ECOL ECON, V62, P330, DOI 10.1016/j.ecolecon.2006.06.006
+   Hallegatte S, 2007, CLIMATIC CHANGE, V82, P47, DOI 10.1007/s10584-006-9161-z
+   Hallegatte S, 2011, CLIMATIC CHANGE, V104, P51, DOI 10.1007/s10584-010-9976-5
+   HAMILTON JM, 2006, FNU115 HAMB U RES UN
+   Hayhoe K, 2004, P NATL ACAD SCI USA, V101, P12422, DOI 10.1073/pnas.0404500101
+   Hinkel J., 2007, MANAGING COASTAL VUL
+   Holman IP, 2005, CLIMATIC CHANGE, V71, P9, DOI 10.1007/s10584-005-5927-y
+   Houghton J.T., 2001, CLIMATE CHANGE 2001, P881
+   HUQ S, 2003, DISASTER RISK MANAGE, V3
+   *IPCC, 2007, 8 SESS WORK GROUP 2
+   JOLLANDS N, 2005, P EC EC ACT NZ CTR E
+   KINNEY PL, 2006, CLIMATE CHANGE VARIA
+   KIRSHEN P, 2006, REGIONAL CLIMATE CHA, P190
+   Kirshen P, 2008, CLIMATIC CHANGE, V90, P453, DOI 10.1007/s10584-008-9398-9
+   Klein R. J. T., 2007, CLIMATE CHANGE 2007, P745
+   KLEIN RJT, 2003, DISASTER RISK MANAGE, V3, P111
+   Knowlton K, 2004, ENVIRON HEALTH PERSP, V112, P1557, DOI 10.1289/ehp.7163
+   Kovats RS, 2004, OCCUP ENVIRON MED, V61, P893, DOI 10.1136/oem.2003.012047
+   KRISTIE L, 2007, REGIONAL IMPACTS CLI
+   Kundzewicz Z.W., 2007, CLIMATE CHANGE 2007, P173, DOI DOI 10.1007/S11269-006-3091-4
+   LCCP, 2009, AD CLIM CHANG CREAT
+   LCCP, 2005, CLIM CHANG LOND TRAN
+   LCCP, 2009, LOND COMM BUILD STOC
+   *LCCP, 2006, LOND CLIM CHANG PART
+   *LCCP, 2008, YOUR HOM CHANG CLIM
+   LCCP, 2009, EC INC SCHEM RETR LO
+   LCCP, 2002, LOND WARM LOND CLIM
+   *LCCP, 2007, AD CLIM CHANG CAS ST
+   Ligeti E., 2007, CITIES PREPARING CLI
+   Lindley SJ, 2006, J RISK RES, V9, P543, DOI 10.1080/13669870600798020
+   *MAIR PAR, 2007, 2007116 DEVE MAIR PA
+   MAUNSELL, 2008, IMPACT CLIMATE CHANG
+   *MAYOR LOND ENV AG, 2007, REG FLOOD R IN PRESS
+   MCEVOY D, 2007, BUILT ENV, V33, P2007
+   McGranahan G., 2006, ENVIRON URBAN, V12, P17
+   MCMICHAEL A, 2003, HUMAN HLTH CLIMATE C
+   McMichael A., 2004, COMP QUANTIFICATION, P1543
+   Menne B, 2006, CLIMATE CHANGE ADAPT
+   *METR, 2006, COST IMP CLIM CHANG
+   MIDGLEY GF, 2005, ENVSC2005073 CSIR
+   Mukheibir P, 2007, ENVIRON URBAN, V19, P143, DOI 10.1177/0956247807076912
+   Muller M, 2007, ENVIRON URBAN, V19, P99, DOI 10.1177/0956247807076726
+   MURPHY K, 2006, SHEDIAC BAY CASE STU
+   *NAT GALL ART CTR, 2004, CTR 24 REC ACT RES R, P174
+   Natural Resources Canada, 2007, IMP AD CAN CHANG CLI
+   *NEW S WAL GREENH, 2005, NSW GREENH PLAN
+   Ng WS, 2006, AMBIO, V35, P289, DOI 10.1579/05-A-076.1
+   Ng WS, 2005, ENVIRON DEV ECON, V10, P201, DOI 10.1017/S1355770X04001706
+   Nicholls R. J., 2007, CLIMATE CHANGE 2007, P315
+   Nicholls R.J., 2005, MANAGING EUROPEAN CO
+   Nicholls R.J., 1995, GEOJOURNAL, V37, P369, DOI DOI 10.1007/BF00814018
+   Nicholls RJ, 1998, CLIMATE RES, V11, P5, DOI 10.3354/cr011005
+   Nicholls RJ, 2004, GLOBAL ENVIRON CHANG, V14, P69, DOI 10.1016/j.gloenvcha.2003.10.007
+   NORDHAUS WD, 2006, NEW METRICS ENV EC G
+   NORDHAUS WD, 2006, ANN M AM EC ASS BOST
+   NORMAN LM, 2007, CEC5002007023 PIER E, P23
+   NYCDEP, 2008, 1 NYCDEP
+   OCA, 2005, CLIM CHANG WILL IMP
+   OECD, 2004, BEN CLIM CHANG POL A
+   *OECD, 2007, CLIM CHANG CUR ALPS
+   *OECD, 2004, COMENVEPOCDCDDAC2004
+   *OFF SEATTL AUD, 2005, CLIM CHANG WILL IMP
+   *ORNL CUSAT, 2003, POSS VULN COCH IND C, P44
+   Parry M. L., 2007, CLIMATE CHANGE 2007, P357
+   *PEW CTR, 2009, PEW CTR GLOB CLIM CH
+   Preston BL, 2006, CLIMATE CHANGE IMPAC
+   RICHARDS JA, 2007, EUROPEAN COMMISSION
+   Rosenzweig C., 2007, Mitigation and Adaptation Strategies for Global Change, V12, P1391, DOI 10.1007/s11027-006-9070-5
+   Rosenzweig C, 2001, ENVIRONMENT, V43, P8, DOI 10.1080/00139150109605128
+   ROSENZWEIG C, 2005, CHANGE, V6, P51
+   Rosenzweig C., 2006, METRICS ASSESSING EC
+   Rosenzweig C, 2001, CLIMATE CHANGE GLOBA, P24
+   Ruth M, 2007, WATER RESOUR MANAG, V21, P1031, DOI 10.1007/s11269-006-9071-x
+   Sanderson D, 2000, ENVIRON URBAN, V12, P93, DOI 10.1177/095624780001200208
+   Scott M., 2001, CLIMATE CHANGE 2001, P381
+   Shaw R, 2007, CLIMATE CHANGE ADAPT
+   SHELTAIR, 2003, CLIMATE CHANGE IMPAC, V1, P11
+   Sherbinin A., 2006, ENVIRON URBAN, V12, P93
+   SHIMIZU K, 1993, J APPL METEOROL, V32, P161, DOI 10.1175/1520-0450(1993)032<0161:ABMLDW>2.0.CO;2
+   SOLECKI WD, 2005, GLOBAL ENV CHANGE B, V6, P39, DOI DOI 10.1016/J.HAZARDS.2004.12.002
+   Solomon S, 2007, CLIMATE CHANGE 2007: THE PHYSICAL SCIENCE BASIS, P19
+   Standley S, 2009, WILD WEATHER WARNING
+   Stanton E, 2007, FLORIDA CLIMATE CHAN
+   TAPSELL SM, 2006, FLOOD HAZARDS HLTH R
+   TERI, 1996, EC IMP ON METR UNPUB
+   Tol RSJ, 2004, GLOBAL ENVIRON CHANG, V14, P259, DOI 10.1016/j.gloenvcha.2004.04.007
+   Tol RSJ, 2002, ENVIRON RESOUR ECON, V21, P135, DOI 10.1023/A:1014539414591
+   TWARDOSZ R, 1996, PUBL ASS INT CLIMATO, V9, P520
+   *UN, 2006, POP NEWSL WORLD URB
+   VAFEIDIS AT, 2004, LOICZ NEWSLETTER, V33, P1
+   VAFEIDIS AT, 2007, J COASTAL RES, V24, P917
+   *VTT, 2008, CLIM CHANG URB PLANN
+   WADE S, 2006, DEFRA RES C IN PRESS
+   Watkiss P., 2009, FINAL REPORT SCOPING
+   West C. C., 2005, MEASURING PROGR PREP
+   *WHO, 2003, WHO WORK GROUP BONN
+   Wilby RL, 2006, PROG PHYS GEOG, V30, P73, DOI 10.1191/0309133306pp470ra
+   Wilby Robert L., 2007, BUILT ENV, V1, P31, DOI DOI 10.2148/BENV.33.1.31
+   Wisner B., 2003, BUILDING SAFER CITIE, P181
+   Yohe G., 2006, INTEGRATED ASSESSMEN, V6, P35
+   Zhou F, 2007, POTENTIAL COST IMPAC
+NR 151
+TC 226
+Z9 231
+U1 23
+U2 261
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0165-0009
+J9 CLIMATIC CHANGE
+JI Clim. Change
+PD JAN
+PY 2011
+VL 104
+IS 1
+SI SI
+BP 13
+EP 49
+DI 10.1007/s10584-010-9975-6
+PG 37
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 705GK
+UT WOS:000286116700002
+HC Y
+HP N
+DA 2019-03-26
+ER
+
+PT J
+AU Muwonga, J
+   Edidi, S
+   Butel, C
+   Vidal, N
+   Monleau, M
+   Okenge, A
+   Mandjo, JL
+   Mukumbi, H
+   Muyembe, JJ
+   Mbayo, F
+   Nzongola, DK
+   Delaporte, E
+   Boillot, F
+   Peeters, M
+AF Muwonga, Jeremie
+   Edidi, Samuel
+   Butel, Christelle
+   Vidal, Nicole
+   Monleau, Marjorie
+   Okenge, Augustin
+   Mandjo, Jean Lambert
+   Mukumbi, Henry
+   Muyembe, Jean Jacques
+   Mbayo, Ferdinand
+   Nzongola, Donatien Kayembe
+   Delaporte, Eric
+   Boillot, Francois
+   Peeters, Martine
+TI Resistance to Antiretroviral Drugs in Treated and Drug-Naive Patients in
+   the Democratic Republic of Congo
+SO JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES
+LA English
+DT Article
+DE HIV; drug resistance; Africa; Democratic Republic of Congo
+ID PUBLIC-HEALTH APPROACH; IMMUNODEFICIENCY-VIRUS TYPE-1; ADULT PATIENTS;
+   SCALING-UP; FOLLOW-UP; HIV; THERAPY; MUTATIONS; DIVERSITY; PROGRAMS
+AB Background: We studied virological outcome and drug resistance in patients on antiretroviral therapy (ART) in health care centers in the Democratic Republic of Congo and looked for the presence of drug resistance in antiretroviral-naive patients attending the same clinics.
+   Methods: In 2008, we conducted a cross-sectional survey among patients on ART for >= 12 months in 4 major cities [Kinshasa (n = 289), Matadi (n = 198), Lubumbashi (n = 77), and Mbuji-Mayi (n = 103)]. Genotypic drug resistance tests were done with an in-house assay on samples with viral load > 1000 copies/mL. ART-naive patients (n = 283) were also consecutively enrolled in the same clinics.
+   Results: Of the 667 patients on ART, > 98% received Lamivudine + Stavudine/azidothymidine + Nevirapine/Efavirenz as first-line regimen and 74.4% were women. Median time on ART was 25 months [interquartile ratio (IQR), 19-32] in Kinshasa, 26 months (IQR, 19-32) in Matadi, 27 months (IQR, 19-44) in Lubumbashi, and 19 months (IQR, 16-24) in Mbuji-Mayi. A total of 97 patients (14.6%) had viral load > 1000 copies/mL, and among the 93 successfully sequenced samples, 78 (83.9%) were resistant to at least 1 drug of their ART regimen: 68 harbored resistance mutations to nucleoside reverse transcriptase inhibitor (NRTI) and nonnucleoside reverse transcriptase inhibitor (NNRTI), 2 to NRTI only, 7 to NNRTI only, and 1 to NRTI + NNRTI + protease inhibitor. The majority of patients, 70/78 (89.7%), were resistant to at least 2 of the 3 drugs from their treatment. The use of next-generation NNRTI, etravirine was already compromised for 19.2% (15/78) of the patients and 7 patients had the K65R mutation compromising the use of tenofovir in second-line regimens. The proportion of antiretroviral-resistant patients increased over time from 8.4% to 18.6% for patients on ART for 12-23 months or > 35 months (P = 0.013), respectively. Virological failure and rates of drug resistance were significantly higher among men than women, 19.9% versus 8.8%, respectively (P = 0.0001). Among the 253 recently diagnosed patients, 20 (7.9%) harbored resistance mutations.
+   Conclusions: The accumulation of drug resistance mutations with time on ART needs further attention, and surveillance should be reinforced in ART programs in sub-Saharan Africa.
+C1 [Peeters, Martine] IRD, Lab Retrovirus, UMI 233, F-34394 Montpellier 1, France.
+   [Muwonga, Jeremie; Edidi, Samuel] Gen Hosp Kinshasa, AIDS Natl Reference Lab LNRS, Kinshasa, Zaire.
+   [Muwonga, Jeremie; Muyembe, Jean Jacques; Mbayo, Ferdinand; Nzongola, Donatien Kayembe] Univ Kinshasa, Dept Med Biol, Kinshasa, Zaire.
+   [Okenge, Augustin; Mandjo, Jean Lambert] AIDS Natl Control Program PNLS, Kinshasa, Zaire.
+   [Butel, Christelle; Vidal, Nicole; Monleau, Marjorie; Delaporte, Eric; Peeters, Martine] Univ Montpellier 1, Montpellier, France.
+   [Mukumbi, Henry] AMO Congo, Congo, Zaire.
+   [Boillot, Francois] Alter Sante Int & Dev, Montpellier, France.
+   [Mukumbi, Henry] Int Union TB & Lung Dis, Paris, France.
+RP Peeters, M (reprint author), IRD, Lab Retrovirus, UMI 233, BP 64501, F-34394 Montpellier 1, France.
+EM martine.peeters@ird.fr
+RI Delaporte, Eric/J-5397-2018; Vidal, Nicole/L-4130-2017
+OI Delaporte, Eric/0000-0002-1822-9853; Vidal, Nicole/0000-0001-7022-2643
+FU HIV Care for Tuberculosis Patients Living; International Union against
+   Tuberculosis and Lung Diseases; European Commission [SANTE
+   2004/078/547/1]
+FX Supported by the Integrated HIV Care for Tuberculosis Patients Living
+   with HIV/AIDS project of the International Union against Tuberculosis
+   and Lung Diseases, through a grant from the European Commission (SANTE
+   2004/078/547/1).
+CR Andries K, 2004, ANTIMICROB AGENTS CH, V48, P4680, DOI 10.1128/AAC.48.12.4680-4680.2004
+   Barth RE, 2010, LANCET INFECT DIS, V10, P155, DOI 10.1016/S1473-3099(09)70328-7
+   Bennett DE, 2008, ANTIVIR THER, V13, P1
+   Bennett DE, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004724
+   BLANCO JL, 2011, 18 C RETR OPP INF FE
+   BRAECKMAN C, 2003, NOUVEAUX PREDATEURS, P1
+   Braitstein P, 2008, J WOMENS HEALTH, V17, P47, DOI 10.1089/jwh.2007.0353
+   Chen SCC, 2008, TROP MED INT HEALTH, V13, P513, DOI 10.1111/j.1365-3156.2008.02029.x
+   Cohen J, 1997, SCIENCE, V278, P1565, DOI 10.1126/science.278.5343.1565
+   Coutsinos Dimitrios, 2010, Antiviral Chemistry & Chemotherapy, V20, P117, DOI 10.3851/IMP1443
+   Descamps D, 2010, J ANTIMICROB CHEMOTH, V65, P2620, DOI 10.1093/jac/dkq380
+   Djoko CF, 2011, AIDS RES HUM RETROV, V27, P323, DOI 10.1089/aid.2010.0201
+   Ferradini L, 2006, LANCET, V367, P1335, DOI 10.1016/S0140-6736(06)68580-2
+   Gilks CF, 2006, LANCET, V368, P505, DOI 10.1016/S0140-6736(06)69158-7
+   Hosseinipour MC, 2009, AIDS, V23, P1127, DOI 10.1097/QAD.0b013e32832ac34e
+   Kantor R, 2004, AIDS, V18, P1503, DOI 10.1097/01.aids.0000131358.29586.6b
+   Kouanfack C, 2009, CLIN INFECT DIS, V48, P1318, DOI 10.1086/597779
+   Gupta RK, 2007, INT J ANTIMICROB AG, V29, P510, DOI 10.1016/j.ijantimicag.2007.01.003
+   Martinez-Cajas JL, 2009, J INT AIDS SOC, V12, DOI 10.1186/1758-2652-12-11
+   Muula AS, 2007, BMC PUBLIC HEALTH, V7, DOI 10.1186/1471-2458-7-63
+   Ochieng-Ooko V, 2010, B WORLD HEALTH ORGAN, V88, P681, DOI 10.2471/BLT.09.064329
+   Rouet F, 2010, J VIROL METHODS, V163, P253, DOI 10.1016/j.jviromet.2009.10.005
+   Tassie JM, 2010, JAIDS-J ACQ IMM DEF, V54, P437, DOI 10.1097/QAI.0b013e3181d73e1b
+   *UNAIDS, 2008, EP FACT SHEET HIV AI
+   *USAIDS, USAIDS HIV AIDS WEB
+   Vergne L, 2006, ANTIVIR THER, V11, P575
+   Vidal N, 2000, J VIROL, V74, P10498, DOI 10.1128/JVI.74.22.10498-10507.2000
+   Vidal N, 2006, AIDS RES HUM RETROV, V22, P202, DOI 10.1089/aid.2006.22.202
+   Wensing AMJ, 2005, J INFECT DIS, V192, P958, DOI 10.1086/432916
+   World Health Organization, 2010, ANT THER HIV INF AD
+   Yang CF, 2005, AIDS RES HUM RETROV, V21, P661, DOI 10.1089/aid.2005.21.661
+NR 31
+TC 18
+Z9 18
+U1 0
+U2 5
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 1525-4135
+J9 JAIDS-J ACQ IMM DEF
+JI JAIDS
+PD JUL 1
+PY 2011
+VL 57
+SU 1
+BP S27
+EP S33
+DI 10.1097/QAI.0b013e31821f596c
+PG 7
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 788RO
+UT WOS:000292462300006
+PM 21857282
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Arbesman, S
+   Christakis, NA
+AF Arbesman, Samuel
+   Christakis, Nicholas A.
+TI Scaling of prosocial behavior in cities
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Scaling; Cities; Prosocial; Innovation
+ID LOST-LETTER TECHNIQUE; NETWORKS
+AB Previous research has examined how various behaviors scale in cities in relation to their population sizes. Behavior related to innovation and productivity has been found to increase per capita as the size of the city increases, a phenomenon known as superlinear scaling. Criminal behavior has also been found to scale superlinearly. Here we examine a variety of prosocial behaviors (e.g., voting and organ donation), which also would be presumed to be categorized into a single class of scaling with population. We find that, unlike productivity and innovation, prosocial behaviors do not scale in a unified manner. We argue how this might be due to the nature of interactions that are distinct for different prosocial behaviors. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Arbesman, Samuel; Christakis, Nicholas A.] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+RP Arbesman, S (reprint author), Harvard Univ, Sch Med, Dept Hlth Care Policy, 180 Longwood Ave, Boston, MA 02115 USA.
+EM arbesman@hcp.med.harvard.edu
+OI Arbesman, Samuel/0000-0001-5851-6067
+FU National Institutes of Health [P01 AG031093SC]; University of Notre
+   Dame; John Templeton Foundation of the Science of Generosity Initiative;
+   Health Resources and Services Administration [234-2005-370011C]
+FX This work was supported by the National Institutes of Health Grant P01
+   AG031093SC and by the University of Notre Dame and the John Templeton
+   Foundation as part of the Science of Generosity Initiative. The organ
+   donation data collection was supported by Health Resources and Services
+   Administration contract 234-2005-370011C. The authors would also like to
+   thank Alan Zaslavsky for useful discussions, and Laurie Meneades and
+   Rebecca Joyce for their help in constructing the datasets.
+CR Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bridges FS, 1996, PSYCHOL REP, V79, P313, DOI 10.2466/pr0.1996.79.1.313
+   Bridges FS, 1997, PSYCHOL REP, V80, P363, DOI 10.2466/pr0.1997.80.2.363
+   Dobson A., 1990, INTRO GEN LINEAR MOD
+   *FED EL COMM, 2008, PRES CAMP DAT
+   FORBES GB, 1971, SOC FORCES, V50, P113
+   Fowler JH, 2010, P NATL ACAD SCI USA, V107, P5334, DOI 10.1073/pnas.0913149107
+   Glaeser EL, 2006, URBAN STUD, V43, P1275, DOI 10.1080/00420980600775683
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Levine RV, 2001, J CROSS CULT PSYCHOL, V32, P543, DOI 10.1177/0022022101032005002
+   MILGRAM S, 1965, PUBLIC OPIN QUART, V29, P437, DOI 10.1086/267344
+   MILGRAM S, 1970, SCIENCE, V167, P1461, DOI 10.1126/science.167.3924.1461
+   Rocha LEC, 2010, P NATL ACAD SCI USA, V107, P5706, DOI 10.1073/pnas.0914080107
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   WILLIAMS JA, 1976, SOC FORCES, V55, P394, DOI 10.2307/2576230
+NR 16
+TC 8
+Z9 8
+U1 1
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD JUN 1
+PY 2011
+VL 390
+IS 11
+BP 2155
+EP 2159
+DI 10.1016/j.physa.2011.02.013
+PG 5
+WC Physics, Multidisciplinary
+SC Physics
+GA 753GI
+UT WOS:000289759900030
+PM 22639486
+OA Green Accepted
+DA 2019-03-26
+ER

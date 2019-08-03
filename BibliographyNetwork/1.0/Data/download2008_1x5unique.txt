@@ -1,0 +1,531 @@
+
+PT J
+AU Bettencourt, LMA
+   Lobo, J
+   West, GB
+AF Bettencourt, L. M. A.
+   Lobo, J.
+   West, G. B.
+TI Why are large cities faster? Universal scaling and self-similarity in
+   urban organization and dynamics
+SO EUROPEAN PHYSICAL JOURNAL B
+LA English
+DT Article
+ID INCREASING RETURNS; GENERAL-MODEL; POPULATION; GROWTH; LIFE; PACE;
+   BIOLOGY; ORIGIN; LAWS
+AB Cities have existed since the beginning of civilization and have always been intimately connected with humanity's cultural and technological development. Much about the human and social dynamics that takes place is cities is intuitively recognizable across time, space and culture; yet we still do not have a clear cut answer as to why cities exist or to what factors are critical to make them thrive or collapse. Here, we construct an extensive quantitative characterization of the variation of many urban indicators with city size, using large data sets for American, European and Chinese cities. We show that social and economic quantities, characterizing the creation of wealth and new ideas, show increasing returns to population scale, which appear quantitatively as a power law of city size with an exponent beta similar or equal to 1.15 > 1. Concurrently, quantities characterizing material infrastructure typically show economies of scale, namely beta similar or equal to 0.8 < 1. The existence of pervasive scaling relations across city size suggests a universal social dynamics common to all cities within an urban system. We sketch some of their general ingredients, which include the acceleration of social life and a restructuring of individual social networks as cities grow larger. We also build simple dynamical models to show that increasing returns in wealth and innovation can fuel faster than exponential growth, which inexorably lead to crises of urban organization. To avoid them we show that growth may proceed in cycles, separated by major urban adaptations, with the unintended consequence that the duration of such cycles decreases with larger urban population size and is now estimated to be shorter than a human lifetime.
+C1 [Bettencourt, L. M. A.] Los Alamos Natl Lab, Div Theoret, Los Alamos, NM 87501 USA.
+   [Lobo, J.] Arizona State Univ, Global Inst Sustainabil, Tempe, AZ 85287 USA.
+   [Bettencourt, L. M. A.; West, G. B.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+RP Bettencourt, LMA (reprint author), Los Alamos Natl Lab, Div Theoret, T-7 MS B284, Los Alamos, NM 87501 USA.
+EM lmbett@lanl.gov; Jose.Lobo@asu.edu; gbw@santafe.edu
+CR ALGAZE G, 2005, E J ANTHROPOLOGICAL
+   ANDERSON RM, 1992, INFECTIOUS DIS HUMAN
+   Angel S., 2005, DYNAMICS GLOBAL URBA
+   Bairoch P., 1988, CITIES EC DEV DAWN H
+   Barenblatt G. I, 2003, SCALING
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   BORNSTEIN MH, 1979, INT J PSYCHOL, V14, P83, DOI 10.1080/00207597908246715
+   BORNSTEIN MH, 1976, NATURE, V259, P557, DOI 10.1038/259557a0
+   Boserup E, 1965, CONDITIONS AGR GROWT
+   Boserup Ester, 1981, POPULATION TECHNOLOG
+   CHRISTALLER W, 1933, ZENTRALEN SUDDEUTSCH
+   COHEN JE, 1995, SCIENCE, V269, P341, DOI 10.1126/science.7618100
+   Crane P, 2005, SCIENCE, V308, P1225, DOI 10.1126/science.1114165
+   DENDRINO DS, 1985, URBAN EVOLUTION STUD
+   Durkheim E., 1964, DIVISION LABOR SOC
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Florida R. L., 2004, CITIES CREATIVE CLAS
+   Fujita M., 2001, SPATIAL EC
+   Glaeser E., 2005, 2062 HARV I EC RES
+   Glaeser EL, 1999, J URBAN ECON, V46, P254, DOI 10.1006/juec.1998.2121
+   Glaeser EL, 1999, J POLIT ECON, V107, pS225, DOI 10.1086/250109
+   Global Insight, 2006, ROL METR AR US EC
+   Hall P. G., 1998, CITIES CIVILIZATION
+   Helpman E., 2004, MYSTERY EC GROWTH
+   Ide K, 2002, PHYSICA A, V307, P63, DOI 10.1016/S0378-4371(01)00585-4
+   Jacobs J, 1969, EC CITIES
+   Jacobs J., 1984, CITIES WEALTH NATION
+   Johansen A, 2001, PHYSICA A, V294, P465, DOI 10.1016/S0378-4371(01)00105-4
+   KREMER M, 1993, Q J ECON, V108, P681, DOI 10.2307/2118405
+   Krugman P., 1991, GEOGRAPHY TRADE
+   Landes D. S., 1999, WEALTH POVERTY NATIO
+   Longley P., 1994, FRACTAL CITIES GEOME
+   LSCH A, 1954, EC LOCATION
+   LUCAS RE, 1988, J MONETARY ECON, V22, P3, DOI 10.1016/0304-3932(88)90168-7
+   Macionis J, 1998, CITIES URBAN LIFE
+   Marshall A, 1920, PRINCIPLES EC
+   MILGRAM S, 1970, SCIENCE, V167, P1461, DOI 10.1126/science.167.3924.1461
+   Mokyr Joel, 2002, GIFTS ATHENA HIST OR
+   Mumford Louis, 1968, CITY HIST ITS ORIGIN
+   Pumain D, 2005, HIERARCHY NATURAL SO
+   Redman C.E, 1978, RISE CIVILIZATION EA
+   REDMAN CL, 1999, IT HUMAN IMPACT ANCI
+   ROMER PM, 1986, J POLIT ECON, V94, P1002, DOI 10.1086/261420
+   SIMMEL G, 1964, METROPOLIS MENT, P409
+   Soo KT, 2005, REG SCI URBAN ECON, V35, P239, DOI 10.1016/j.regsciurbeco.2004.04.004
+   West GB, 2001, NATURE, V413, P628, DOI 10.1038/35098076
+   West GB, 1999, PHYSICA A, V263, P104, DOI 10.1016/S0378-4371(98)00639-6
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   WEST GB, 1997, FRACTAL CITIES GEOME, V276, P122
+   WILKISON RG, 1973, POVERTY PROGR ECOLOG
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+   2003, UN WORLD URBANIZATIO, P2004
+NR 55
+TC 22
+Z9 22
+U1 2
+U2 33
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1434-6028
+EI 1434-6036
+J9 EUR PHYS J B
+JI Eur. Phys. J. B
+PD JUN
+PY 2008
+VL 63
+IS 3
+BP 285
+EP 293
+DI 10.1140/epjb/e2008-00250-6
+PG 9
+WC Physics, Condensed Matter
+SC Physics
+GA 321UY
+UT WOS:000257333200002
+DA 2019-03-26
+ER
+
+PT J
+AU Chien, SS
+   Gordon, I
+AF Chien, Shiuh-Shen
+   Gordon, Ian
+TI Territorial competition in China and the west
+SO REGIONAL STUDIES
+LA English
+DT Review
+DE territorial competition; China; central-local relations; local
+   governance; urban economic development; re-scaling
+ID LOCAL ECONOMIC-DEVELOPMENT; POLITICAL-ECONOMY; TRANSITIONAL ECONOMY;
+   GROWTH COALITION; STATE; SHANGHAI; POLICY; DECENTRALIZATION;
+   TRANSFORMATION; FEDERALISM
+AB In modern western societies, and most other economies to which it has spread, territorial economic competition is associated with a combination of competitive electoral politics and private land-ownership. In mainland China, however, a very strong form of this competition has emerged without either of these supports. In general, the development of such local collective action and its particular effects reflect an interaction between materially interested local agents and structural pressures. The difference in China is that these agents are principally local government leaders whose career prospects within a still centralized system depend upon performance in terms of economic criteria set from above.
+C1 [Chien, Shiuh-Shen] Natl Taiwan Univ, Dept Geog, Taipei 106, Taiwan.
+   [Gordon, Ian] London Sch Econ, Dept Geog & Environm, London WC2A 2AE, England.
+RP Chien, SS (reprint author), Natl Taiwan Univ, Dept Geog, 1 Roosevelt Rd,Sect 4, Taipei 106, Taiwan.
+EM crison@gmail.com; I.R.Gordon@lse.ac.uk
+RI Gordon, Ian/B-8892-2008
+OI Gordon, Ian/0000-0002-2170-8193; CHIEN, SHIUHSHEN/0000-0001-6250-0850
+CR Agnew J, 2000, PROG HUM GEOG, V24, P101, DOI 10.1191/030913200676580659
+   [Anonymous], 2005, CHINA STAT YB
+   Bahl R. W., 1999, FISCAL POLICY CHINA
+   Baum R, 1999, HARV CON CH, P333
+   BO Z, 1949, CHINESE PROVINCIAL L
+   Braudel Fernand, 1982, WHEELS COMMERCE CIVI, V2
+   Brean Donald J. S., 1998, TAXATION MODERN CHIN
+   BRENNER N, 2006, EUR ONL SEM URB TANS
+   Brenner N., 2003, REMAKING GLOBAL EC E, P197
+   Cannon T., 1996, FRAGMENTED ASIA REGI, P75
+   Cao YZ, 1999, ECON TRANSIT, V7, P103, DOI 10.1111/1468-0351.00006
+   Cartier C, 2001, J CONTEMP CHINA, V10, P445, DOI DOI 10.1080/10670560120067135
+   Cheshire P. C., 1995, TERRITORIAL COMPETIT
+   Cheshire PC, 1996, INT J URBAN REGIONAL, V20, P383, DOI 10.1111/j.1468-2427.1996.tb00324.x
+   Cheshire PC, 1998, ANN REGIONAL SCI, V32, P321, DOI 10.1007/s001680050077
+   CHESHIRE PC, 2002, 73 LOND SCH EC
+   CHEUNG PT, 1994, CHANGING CENTRAL LOC, P207
+   CHEUNG PTY, 1994, GUANGDONG SURVEY PRO, P19
+   CHEUNG PTY, 1998, PROVINCIAL STRATEGIE, P3
+   CHIEN S, 2005, ANN M ASS AM GEOGR D
+   Chien SS, 2007, ENVIRON PLANN C, V25, P269, DOI 10.1068/c0558
+   Chung J.H., 1999, CITIES CHINA RECIPES
+   CHUNG JH, 2000, CENTRAL CONTROL LOCA
+   COX KR, 1988, ANN ASSOC AM GEOGR, V78, P307, DOI 10.1111/j.1467-8306.1988.tb00209.x
+   DILLINGER W, 1994, 16 UMPP UNDP UNCHS W
+   Dunning J., 2000, REGIONS GLOBALIZATIO
+   EDELMAN M, 1970, POLITICS SYMBOLIC AC
+   Edin M, 2003, CHINA QUART, P35
+   EDIN M, 2000, MARKET FORCES COMMUN
+   FAN G, 1998, TAXATION MODERRN CHI
+   *FED RES BANK MINN, 1996, EC WAR STAT
+   FEWSMITH J, 2000, INFORMAL POLITICS E, P141
+   Goodman David S. G., 1994, CHINA DECONSTRUCTS P, P1
+   Gordon I, 1999, URBAN STUD, V36, P1001, DOI 10.1080/0042098993321
+   GORDON I, 2007, GAWC RES B, V145
+   GORDON IR, 1994, 12E94 CESURE
+   Gore LLP, 1999, CHINA J, V41, P25
+   GUO SJ, 2000, POST MAO CHINA TOTAL
+   Harding A, 1999, BRIT J POLIT SCI, V29, P673, DOI 10.1017/S0007123499000320
+   HARVEY D, 1989, GEOGR ANN B, V71, P3, DOI 10.2307/490503
+   He SJ, 2005, J URBAN AFF, V27, P1, DOI 10.1111/j.0735-2166.2005.00222.x
+   Herrmann-Pillath C., 2004, CHINA INFORM, V18, P373
+   HUANG Y, 2001, 374 HARV BUS SCH
+   Huang Y., 2003, SELLING CHINA I FDN
+   Huang Yasheng, 1996, INFLATION INVESTMENT
+   IO JC, 1998, ZOUPING TRANSITION P, P37
+   JESSOP B, 1994, POST FORDISM READER
+   JONES M, 2002, URBAN POLICY CAPITAL
+   Krugman P., 1996, POP INTERNATIONALISM
+   Kumar Anjali, 1994, CHINA DECONSTRUCTS P
+   Li HB, 2005, J PUBLIC ECON, V89, P1743, DOI 10.1016/j.jpubeco.2004.06.009
+   Li LC, 1997, CHINA QUART, P778
+   Lichtenstein P. M., 1991, CHINA BRINK POLITICA
+   Lin Y-M, 2001, POLITICS MARKETS FIR
+   Lipietz Alain, 1987, FRENCH POLITICS SOC, V5, P3
+   Lu D., 1997, CHINA REGIONAL DEV R
+   LU M, 2004, CHANGING CHINA GEOGR
+   Malecki EJ, 2004, REG STUD, V38, P1101, DOI 10.1080/0034340042000292665
+   MOLOTCH H, 1976, AM J SOCIOL, V82, P309, DOI 10.1086/226311
+   MONTINOLA G, 1995, WORLD POLIT, V48, P50, DOI 10.1353/wp.1995.0003
+   MYTLKA PK, 2002, NNOVATION SOCIAL LEA
+   Oi JC, 1995, CHINA QUART, P1132
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   Poncet S, 2003, CHINA ECON REV, V14, P1, DOI 10.1016/S1043-951X(02)00083-4
+   Poncet S, 2005, REV INT ECON, V13, P409, DOI DOI 10.1111/J.1467-9396.2005.00514.X
+   Porter Michael E, 1990, COMPETITIVE ADVANTAG
+   Potter PB, 1999, CHINA QUART, P673
+   Qian Y, 1993, ECON TRANSIT, V1, P135, DOI DOI 10.1111/ECOT.1993.1.ISSUE-2
+   QIAN YY, 1993, EUR ECON REV, V37, P541, DOI 10.1016/0014-2921(93)90043-A
+   Rodriguez-Pose A, 2003, ENVIRON PLANN C, V21, P333, DOI 10.1068/c0235
+   Rodriguez-Pose A, 2001, INT J URBAN REGIONAL, V25, P134, DOI 10.1111/1468-2427.00302
+   SACHS J, 2000, 43 HARV U CTR INT DE
+   Shen J, 2005, RESTRUCTURING CHINES, P39
+   Shirk S.L., 1992, BUREAUCRACY POLITICS
+   Stone C. N, 1989, REGIME POLITICS GOVE
+   STONE CN, 1993, J URBAN AFF, V15, P1, DOI 10.1111/j.1467-9906.1993.tb00300.x
+   TAN Q, 2002, J CONTEMP CHINA, V11, P735
+   TANG L, 2002, SHANGHAI EC STUDIES, P50
+   WALDER AG, 1995, AM J SOCIOL, V101, P263, DOI 10.1086/230725
+   Whiting S, 2001, POWER WEALTH RURAL C
+   Wins P, 1995, TERRITORIAL COMPETIT
+   Wong Christine P. W., 2003, CHINA NATL DEV SUB N
+   Woo W.T., 2002, ASIAN ECON PAP, V1, P146, DOI DOI 10.1162/153535102320264512
+   WOO WT, 1999, 153 CD DOC OECD
+   Wood A, 1996, URBAN STUD, V33, P1281, DOI 10.1080/0042098966655
+   WU F, 2005, RESTRUCTURING CHINES, P260
+   Wu FL, 2003, URBAN STUD, V40, P1673, DOI 10.1080/0042098032000106555
+   Wu FL, 2003, ENVIRON PLANN A, V35, P1331, DOI 10.1068/a3634
+   WU G, 1995, DECISION MAKING DENG
+   Yang Dali, 1997, BEIJING LIBERALIZATI
+   YANG DL, 1994, CHINA DECONSTRUCTS P, P1
+   Yeh A.G-O., 2005, RESTRUCTURING CHINES
+   Yeh AGO, 1999, PROG PLANN, V51, P167
+   Yeung HWC, 2000, POLIT GEOGR, V19, P809, DOI 10.1016/S0962-6298(00)00027-5
+   Zhang LY, 2003, URBAN STUD, V40, P1549, DOI 10.1080/0042098032000094423
+   Zhang LY, 1999, CHINA QUART, P115
+   ZHANG LY, 1994, WORLD DEV, V22, P45, DOI 10.1016/0305-750X(94)90167-8
+   Zhang TW, 2002, URBAN AFF REV, V37, P475, DOI 10.1177/10780870222185432
+   ZHANG X, 2006, 28 INT FOOD POL RES
+   Zhao XB, 1999, INT REGIONAL SCI REV, V22, P251, DOI 10.1177/016001799761012424
+   ZHU D, 2005, SPECIAL EC ZONE POLI
+   Zhu JM, 1999, INT J URBAN REGIONAL, V23, P534, DOI 10.1111/1468-2427.00211
+NR 102
+TC 30
+Z9 30
+U1 1
+U2 13
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0034-3404
+EI 1360-0591
+J9 REG STUD
+JI Reg. Stud.
+PY 2008
+VL 42
+IS 1
+BP 31
+EP 49
+DI 10.1080/00343400701543249
+PG 19
+WC Economics; Environmental Studies; Geography; Regional & Urban Planning
+SC Business & Economics; Environmental Sciences & Ecology; Geography;
+   Public Administration
+GA 273EQ
+UT WOS:000253913600003
+DA 2019-03-26
+ER
+
+PT J
+AU Zilitinkevich, SS
+   Mammarella, I
+   Baklanov, AA
+   Joffre, SM
+AF Zilitinkevich, S. S.
+   Mammarella, I.
+   Baklanov, A. A.
+   Joffre, S. M.
+TI The effect of stratification on the aerodynamic roughness length and
+   displacement height
+SO BOUNDARY-LAYER METEOROLOGY
+LA English
+DT Article
+DE air pollution; convection; displacement height; logarithmic surface
+   layer; roughness length; stable stratification; urban and vegetation
+   canopies
+ID ATMOSPHERIC BOUNDARY-LAYER; SURFACE-LAYER; TURBULENCE; MOMENTUM; CANOPY;
+   FOREST
+AB The roughness length, z(0u) , and displacement height, d(0u) , characterise the resistance exerted by the roughness elements on turbulent flows and provide a conventional boundary condition for a wide range of turbulent-flow problems. Classical laboratory experiments and theories treat z(0u) and d(0u) as geometric parameters independent of the characteristics of the flow. In this paper, we demonstrate essential stability dependences-stronger for the roughness length (especially in stable stratification) and weaker but still pronounced for the displacement height. We develop a scaling-analysis model for these dependences and verify it against experimental data.
+C1 [Zilitinkevich, S. S.; Mammarella, I.; Joffre, S. M.] Finnish Meteorol Inst, Dept Meterol Res, FIN-00101 Helsinki, Finland.
+   [Zilitinkevich, S. S.; Mammarella, I.] Univ Helsinki, Div Atmospher Sci, FIN-00014 Helsinki, Finland.
+   [Zilitinkevich, S. S.] Nansen Environm & Remote Sensing Ctr, N-5006 Bergen, Norway.
+   [Baklanov, A. A.] Danish Meteorol Inst, DK-2100 Copenhagen, Denmark.
+RP Zilitinkevich, SS (reprint author), Finnish Meteorol Inst, Dept Meterol Res, Box 503, FIN-00101 Helsinki, Finland.
+EM sergej.zilitinkevich@fmi.fi
+RI Mammarella, Ivan/E-7782-2016
+OI Mammarella, Ivan/0000-0002-8516-3356; Baklanov,
+   Alexander/0000-0002-5396-8440; Zilitinkevich,
+   Sergej/0000-0002-3909-5436; Joffre, sylvain/0000-0002-6795-1754
+FU EU FP7 [212520]; EU [26005]; Academy of Finland [IS4FIRES]; ARO
+   [W911NF-05-1-0055]; EU Training Network [WINDENG HPRN-CT-2002-00215]
+FX This work has been supported by the EU FP7 Project MEGAPOLI No. 212520;
+   the EU Project TEMPUS 26005; the Academy of Finland Project IS4FIRES;
+   the ARO Project W911NF-05-1-0055, and the EU Training Network Project
+   WINDENG HPRN-CT-2002-00215.
+CR ARYA SPS, 1975, J FLUID MECH, V68, P321, DOI 10.1017/S0022112075000833
+   Belcher SE, 2003, J FLUID MECH, V488, P369, DOI 10.1017/S0022112003005019
+   COELHO SLV, 1989, J FLUID MECH, V200, P411
+   Fiedler F., 1976, Q J ROY METEOR SOC, V98, P213, DOI DOI 10.1002/QJ.49709841519
+   Finnigan J, 2000, ANNU REV FLUID MECH, V32, P519, DOI 10.1146/annurev.fluid.32.1.519
+   Garratt JR, 1992, ATMOSPHERIC BOUNDARY
+   Grachev AA, 1997, BOUND-LAY METEOROL, V83, P423, DOI 10.1023/A:1000281625985
+   Gryning SE, 2001, BOUND-LAY METEOROL, V99, P465, DOI 10.1023/A:1018939329915
+   Hasager CB, 2003, BOUND-LAY METEOROL, V109, P227, DOI 10.1023/A:1025841424078
+   JOFFRE SM, 1982, BOUND-LAY METEOROL, V24, P211, DOI 10.1007/BF00121668
+   Joffre SM, 2001, BOUND-LAY METEOROL, V99, P429, DOI 10.1023/A:1018956525605
+   KADER BA, 1990, J FLUID MECH, V212, P637, DOI 10.1017/S0022112090002129
+   Monin A. S, 1971, STATISTICAL FLUID ME, P1
+   Monin A. S., 1954, T GEOPHYS I AKAS NAU, V24, P163
+   Rotach MW, 2005, THEOR APPL CLIMATOL, V81, P231, DOI 10.1007/s00704-004-0117-9
+   SHAW RH, 1982, AGR METEOROL, V26, P51, DOI 10.1016/0002-1571(82)90057-7
+   WIERINGA J, 1986, Q J ROY METEOR SOC, V112, P867, DOI 10.1002/qj.49711247316
+   WIERINGA J, 1993, BOUND-LAY METEOROL, V63, P323, DOI 10.1007/BF00705357
+   WOOD N, 1991, Q J ROY METEOR SOC, V117, P1025, DOI 10.1002/qj.49711750108
+   Zilitinkevich SS, 2006, Q J ROY METEOR SOC, V132, P1423, DOI 10.1256/qj.05.79
+   Zilitinkevich SS, 2007, BOUND-LAY METEOROL, V125, P193, DOI 10.1007/s10546-007-9187-4
+NR 21
+TC 28
+Z9 33
+U1 1
+U2 18
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-8314
+J9 BOUND-LAY METEOROL
+JI Bound.-Layer Meteor.
+PD NOV
+PY 2008
+VL 129
+IS 2
+BP 179
+EP 190
+DI 10.1007/s10546-008-9307-9
+PG 12
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 357PW
+UT WOS:000259859600001
+DA 2019-03-26
+ER
+
+PT J
+AU Jimenez-Gonzalez, I
+   Rodriguez-Navarro, C
+   Scherer, GW
+AF Jimenez-Gonzalez, Inmaculada
+   Rodriguez-Navarro, Carlos
+   Scherer, George W.
+TI Role of clay minerals in the physicomechanical deterioration of
+   sandstone
+SO JOURNAL OF GEOPHYSICAL RESEARCH-EARTH SURFACE
+LA English
+DT Article
+ID BEAM-BENDING METHOD; EGYPTIAN LIMESTONE SCULPTURES; MEASURING
+   PERMEABILITY; RIGID MATERIALS; MERIDIANI-PLANUM; ROCK; STONE; SALT;
+   DURABILITY; SPAIN
+AB Extensive weathering suffered by sandstone in natural outcrops as well as in historical buildings could be attributed among other mechanisms to the action of wetting and drying cycles. We have recently shown how to quantify the stresses generated during such cycles to determine whether damage can take place. This procedure is further developed in this paper and applied to the Tarifa sandstone, a sandstone with a 7 wt % content of clay minerals and used in the main facade of the church of San Mateo in Tarifa (Cadiz, Spain) for which the relevant material properties are measured. It is shown that tensile stresses during drying can cause cracking of thin elements and that shear forces can cause buckling of wetted surfaces more generally, eventually resulting in scaling and/or contour scaling. These predictions are supported by visual observations on the monument showing degradation patterns characteristic of those types of damage. Similar weathering forms have been observed in natural sandstone landscapes. Application of swelling inhibitors (e. g., cationic surfactants) that selectively adsorb on the clay basal planes, results in a substantial swelling reduction. This confirms that the swelling clays typically present in sandstone are pivotal for its weathering and indicates that swelling inhibitors are a potentially valuable treatment to prevent or minimize damage to stone. The circumstances that would lead to weathering are discussed in relation to sandstone material properties in the wet and dry state. Clay-bearing stones are shown to exhibit softening during wetting, as well as viscoelastic stress relaxation, which is expected to limit the extent of damage. These results may aid in the better understanding of sandstone weathering both in nature and in urban environment and may help develop conservation methods to mitigate wetting/drying damage in ornamental sandstone or to prevent pore plugging in reservoir sandstones.
+C1 [Jimenez-Gonzalez, Inmaculada; Rodriguez-Navarro, Carlos] Univ Granada, Dept Mineral & Petrol, Granada 18002, Spain.
+   [Scherer, George W.] Princeton Univ, Princeton Inst Sci & Technol Mat, Dept Civil & Environm Engn, Princeton, NJ 08540 USA.
+RP Jimenez-Gonzalez, I (reprint author), Univ Granada, Dept Mineral & Petrol, Fuentenueva S-N, Granada 18002, Spain.
+EM inmajimenez@ugr.es; carlosrn@ugr.es; scherer@princeton.edu
+RI Rodriguez-Navarro, Carlos/L-3024-2014
+OI Rodriguez-Navarro, Carlos/0000-0002-3179-8428; Scherer,
+   George/0000-0002-5874-2627
+CR Baker JC, 1993, J PETROL SCI ENG, V9, P83, DOI 10.1016/0920-4105(93)90069-Q
+   BELOYIANNIS N, 1988, ENGINEERING GEOLOGY OF ANCIENT WORKS, MONUMENTS AND HISTORICAL SITES : PRESERVATION AND PROTECTION, VOL 2, P763
+   BORCHARDT JK, 1989, ACS SYM SER, V396, P3
+   BRADLEY WC, 1963, GEOL SOC AM BULL, V74, P519, DOI 10.1130/0016-7606(1963)74[519:LEIMSO]2.0.CO;2
+   CAMPBELL IA, 1991, EARTH SURF PROCESSES, V16, P701, DOI 10.1002/esp.3290160804
+   CANER EN, 1978, INT S DET PROT STON
+   CRUIKSHANK KM, 1994, GEOL SOC AM BULL, V106, P879, DOI 10.1130/0016-7606(1994)106<0879:ROFLIA>2.3.CO;2
+   Dragovich D, 1978, J GEOLOGICAL ED, V27, P21
+   DUNNING JD, 1983, J GEOPHYS RES, V88, P6491, DOI 10.1029/JB088iB08p06491
+   DUNNING JD, 1980, J GEOPHYS RES, V85, P5344, DOI 10.1029/JB085iB10p05344
+   Esbert R.M., 1997, MANUAL DIAGNOSIS TRA
+   FELIX C, 1983, MAT SCI RESTORATION, P305
+   FELIX C, 1988, CONSERVATION RESTAUR, P833
+   FELIX C, 1995, CONSERVATION RESTAUR, P45
+   Felix C., 1994, P 3 INT S CONS MON M, P855
+   FOOKES PG, 1981, Q J ENG GEOL, V14, P97, DOI 10.1144/GSL.QJEG.1981.014.02.03
+   GILL ED, 1980, P R SOC VICTORIA, V92, P149
+   Goudie A.S., 1997, SALT WEATHERING HAZA
+   Hall K, 1996, EARTH SURF PROCESSES, V21, P365, DOI 10.1002/(SICI)1096-9837(199604)21:4<365::AID-ESP571>3.0.CO;2-L
+   HEINRICHS K, 2005, THESIS AACHEN
+   Hoke GD, 2002, J GEOPHYS RES-SOL EA, V107, DOI 10.1029/2001JB001573
+   HOUSEKNECHT DW, 1992, SEMP SPEC PUBL, V47
+   Hoyos M, 1999, MATER CONSTRUCC, V49, P5, DOI 10.3989/mc.1999.v49.i255.438
+   Hudec PP, 1966, OHIO J SCI, V66, P153
+   INIGO A. C., 2003, APPL STUDY CULTURAL, P47
+   Jimenez-Gonzalez I., 2006, MEASURING MONITORING, P685
+   JIMENEZGONZALEZ I, 2002, MATER RES SOC S P, V712, P21
+   JIMENEZGONZALEZ I, 2004, ENVIRON GEOL, V45, P364
+   JOHNSON ARM, 1974, AUSTR GEOGRAPHER, V12, P531, DOI DOI 10.1080/00049187408702665
+   KUHNEL RA, 1994, APPL CLAY SCI, V9, P225
+   Madsen F. T., 1989, Applied Clay Science, V4, P143, DOI 10.1016/0169-1317(89)90005-7
+   MADSEN FT, 1985, CLAY CLAY MINER, V33, P501, DOI 10.1346/CCMN.1985.0330604
+   Martini IP, 1978, Z GEOMORPHOL, V22, P44
+   MCGREEVY JP, 1984, PROG PHYS GEOG, V8, P543, DOI 10.1177/030913338400800404
+   MCGREEVY JP, 1984, CATENA, V11, P169, DOI 10.1016/S0341-8162(84)80016-8
+   McGreevy JP, 1981, PROGR PHYSICAL GEOGR, V5, P56, DOI [DOI 10.1177/030913338100500103), 10.1177/030913338100500103]
+   McLennan SM, 2005, EARTH PLANET SC LETT, V240, P95, DOI 10.1016/j.epsl.2005.09.041
+   Meierding T C, 1981, PHYSICAL GEOGR, V2, P1
+   MEYBECK M, 1987, AM J SCI, V287, P401, DOI 10.2475/ajs.287.5.401
+   MORRIS KA, 1982, CLAY MINER, V17, P41, DOI 10.1180/claymin.1982.017.1.05
+   Mottershead D, 2003, BUILD ENVIRON, V38, P1193, DOI 10.1016/S0360-1323(03)00071-4
+   MUSTOE GE, 1982, GEOL SOC AM BULL, V93, P108, DOI 10.1130/0016-7606(1982)93<108:TOOHW>2.0.CO;2
+   Paradise TR, 2002, Z GEOMORPHOL, V46, P1
+   PENTECOST A, 1991, EARTH SURF PROCESSES, V16, P83, DOI 10.1002/esp.3290160109
+   Pope GA, 2002, GEOMORPHOLOGY, V47, P211, DOI 10.1016/S0169-555X(02)00098-3
+   Poulet F, 2005, NATURE, V438, P623, DOI 10.1038/nature04274
+   Pye K, 1995, Q J ENG GEOL HYDROGE, V28, P333, DOI 10.1144/GSL.QJEGH.1995.028.P4.03
+   ROBINSON DA, 1994, WEATHERING LANDFORM, P371
+   ROBINSON ES, 1970, GEOL SOC AM BULL, V81, P2799, DOI 10.1130/0016-7606(1970)81[2799:MDOTNS]2.0.CO;2
+   RODRIGUES JD, 2001, MATER CONSTRUCC, V51, P263
+   Rodriguez-Navarro C, 1999, EARTH SURF PROC LAND, V24, P191, DOI 10.1002/(SICI)1096-9837(199903)24:3<191::AID-ESP942>3.0.CO;2-G
+   Rodriguez-Navarro C, 1998, CLAY CLAY MINER, V46, P414, DOI 10.1346/CCMN.1998.0460405
+   RodriguezNavarro C, 1997, J AM INST CONSERV, V36, P151, DOI 10.2307/3179829
+   SANCHO C, 1990, Z GEOMORPHOL, V34, P165
+   Scherer GW, 2006, MEASURING, MONITORING AND MODELING CONCRETE PROPERTIES, P633, DOI 10.1007/978-1-4020-5104-3_77
+   SCHERER G. W., 2000, P 9 INT C DET CONS S, V1, P187
+   Scherer GW, 2005, GEOL SOC AM SPEC PAP, V390, P51, DOI 10.1130/2005.2390(06)
+   Scherer GW, 2004, J AM CERAM SOC, V87, P1517
+   SCHERER GW, 2008, INT S STON CONS CULT
+   Sebastian E, 2008, J CULT HERIT, V9, P66, DOI 10.1016/j.culher.2007.09.002
+   Selby M. J., 1993, HILLSLOPE MAT PROCES
+   SMITH BJ, 1994, BRIT GEOMOR, P131
+   SMITH BJ, 1988, EARTH SURF PROCESSES, V13, P697, DOI 10.1002/esp.3290130804
+   SNETHLAGE R, 1991, MATER RES SOC SYMP P, V185, P193
+   Snethlage R., 1997, SAVING OUR ARCHITECT, P7
+   Squyres SW, 2006, SCIENCE, V313, P1403, DOI 10.1126/science.1130890
+   TALLMAN SL, 1949, J GEOL, V57, P582, DOI 10.1086/625671
+   Timoshenko S, 1925, J OPT SOC AM REV SCI, V11, P233, DOI 10.1364/JOSA.11.000233
+   Trenhaile A, 1987, GEOMORPHOLOGY ROCK C
+   Tucker M.E., 1991, SEDIMENTARY PETROLOG
+   Turkington AV, 2005, GEOMORPHOLOGY, V67, P229, DOI 10.1016/j.geomorph.2004.09.028
+   Veniale F, 2001, MATER CONSTRUCC, V51, P163, DOI 10.3989/mc.2001.v51.i263-264.362
+   VICENTE MA, 1983, CLAY MINER, V18, P215, DOI 10.1180/claymin.1983.018.2.11
+   Vichit-Vadakan W, 2000, J AM CERAM SOC, V83, P2240
+   Vichit-Vadakan W, 2002, J AM CERAM SOC, V85, P1537, DOI 10.1111/j.1151-2916.2002.tb00309.x
+   VICHITVADAKAN W, 2002, THESIS PRINCETON U P
+   von Engeln O. D., 1942, GEOMORPHOLOGY SYSTEM
+   Wangler TP, 2006, MEASURING, MONITORING AND MODELING CONCRETE PROPERTIES, P703, DOI 10.1007/978-1-4020-5104-3_85
+   Warke PA, 1998, GEOMORPHOLOGY, V22, P347, DOI 10.1016/S0169-555X(97)00078-0
+   WENDLER E, 1991, DURABILITY OF BUILDING MATERIALS AND COMPONENTS, P203
+   WENDLER E, 1996, P 8 INT C DET CONS S, P1159
+   WILLIAMS R, 1989, GEOGR ANN A, V71, P145, DOI 10.2307/521386
+   Wilson M. J., 1987, HDB DETERMINATIVE ME
+   Winkler E. M., 1997, STONE ARCHITECTURE P
+   Wust RAJ, 2000, ENG GEOL, V58, P163, DOI 10.1016/S0013-7952(00)00057-0
+   Yatsu E., 1988, NATURE WEATHERING IN
+   YOUNG ARM, 1987, GEOLOGY, V15, P962, DOI 10.1130/0091-7613(1987)15<962:SAAAIT>2.0.CO;2
+NR 87
+TC 21
+Z9 21
+U1 1
+U2 24
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9003
+EI 2169-9011
+J9 J GEOPHYS RES-EARTH
+JI J. Geophys. Res.-Earth Surf.
+PD JUN 7
+PY 2008
+VL 113
+IS F2
+AR F02021
+DI 10.1029/2007JF000845
+PG 17
+WC Geosciences, Multidisciplinary
+SC Geology
+GA 310WY
+UT WOS:000256562700003
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Jackson, NM
+   Choubane, B
+   Lee, HS
+   Holzschuher, C
+   Hammons, MI
+   Walker, R
+AF Jackson, N. Mike
+   Choubane, Bouzid
+   Lee, Hyung Suk
+   Holzschuher, Charles
+   Hammons, M. I.
+   Walker, Robert
+TI Recommended Practice for Identifying Vibration-Sensitive Work Zones
+   Based an Falling Weight Deflectometer Data
+SO TRANSPORTATION RESEARCH RECORD
+LA English
+DT Article
+AB In recent years, larger vibratory rollers have been implemented because of their improved efficiency. An unfortunate consequence is that greater ground motion caused by these larger vibratory rollers might damage adjacent infrastructure, particularly in or near urban areas. Various federal, state, and foreign agencies have proposed vibration limit criteria; some are intended to mitigate damage to structures while others are based on limiting human annoyance. Two of these existing criteria (U.S. Office of Surface Mines blasting level criteria and German DIN 4150 standard level for human annoyance) were selected to form the basis of a recommended practice for limiting vibratory compaction in critical work zones. These criteria are used to differentiate three zones on a plot of peak particle velocity versus vibratory roller frequency. A square-root scaling law of ground motion is used to predict the ground motions from vibratory compaction equipment based on failing weight deflectometer (FWD) data. With this predictor, a potentially vibration-sensitive portion of a resurfacing project can be identified using displacement time histories from the FWD obtained during routine preconstruction testing. Detailed knowledge of the layering of the pavement structure or the geology of the surrounding site is not required. It is demonstrated that this predictor can successfully be used to restrict vibratory compaction near sensitive structures. including fragile buried infrastructure.
+C1 [Jackson, N. Mike] Univ N Florida, Coll Comp Engn & Construct, Jacksonville, FL 32224 USA.
+   [Choubane, Bouzid; Holzschuher, Charles] Florida Dept Transportat, Gainesville, FL 32609 USA.
+   [Lee, Hyung Suk; Hammons, M. I.; Walker, Robert] Appl Res Associates Inc, Gainesville, FL 32606 USA.
+RP Jackson, NM (reprint author), Univ N Florida, Coll Comp Engn & Construct, 4567 St Johns Bluff Rd S, Jacksonville, FL 32224 USA.
+EM njackson@unf.edu
+CR *AM ASS HIGHW TRAN, 1993, PUBL GDPS AM ASS HIG, V4
+   AMICK H, 2000, P 6 CONSTR C AM SOC
+   Dowding  C.H., 1996, CONSTRUCTION VIBRATI
+   *DTSCH I NORM, 1986, DIN 4150 DTSCH NORM
+   *FL DEP TRANSP, 2004, STAND SPEC ROAD BRID
+   Hendriks R., 2002, TAV0201R9601 CAL DEP
+   HOLZSCHUHER C, 2007, FLDOTSMO07502 FLOR D
+   NICHOLS HR, 1971, B US BUR MINES, V656
+   Siskind D. E., 1980, 8507 RI US BUR MIN D
+   SVINKIN MR, DRAWBACKS BLAST VIBR
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 3
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0361-1981
+J9 TRANSP RES RECORD
+JI Transp. Res. Record
+PY 2008
+IS 2081
+BP 139
+EP 149
+DI 10.3141/2081-15
+PG 11
+WC Engineering, Civil; Transportation; Transportation Science & Technology
+SC Engineering; Transportation
+GA 395AB
+UT WOS:000262493200015
+OA Bronze
+DA 2019-03-26
+ER

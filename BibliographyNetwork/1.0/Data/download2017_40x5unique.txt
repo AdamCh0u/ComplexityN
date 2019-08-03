@@ -1,0 +1,615 @@
+
+PT J
+AU Cabrini, TMB
+   Barboza, CAM
+   Skinner, VB
+   Hauser-Davis, RA
+   Rocha, RC
+   Saint'Pierre, TD
+   Valentin, JL
+   Cardoso, RS
+AF Cabrini, Tatiana M. B.
+   Barboza, Carlos A. M.
+   Skinner, Viviane B.
+   Hauser-Davis, Rachel A.
+   Rocha, Rafael C.
+   Saint'Pierre, Tatiana D.
+   Valentin, Jean L.
+   Cardoso, Ricardo S.
+TI Heavy metal contamination in sandy beach macrofauna communities from the
+   Rio de Janeiro coast, Southeastern Brazil
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Benthos; Chemical pollutant; Environmental factors; Management;
+   Southeast Brazil
+ID SEPETIBA BAY; GUANABARA BAY; SE-BRAZIL; SYNCHROTRON-RADIATION;
+   ECOLOGICAL VARIATION; BENTHIC MACROFAUNA; SPATIAL STRUCTURE; TOURIST
+   BEACHES; TOXIC METALS; SPECIES DATA
+AB We evaluated concentrations of eight heavy metals Cr, Zn, Pb, Ni, Cu, Cd, Co and V, in tissues of representative macrofauna species from 68 sandy beaches from the coast of Rio de Janeiro state. The links between contamination levels and community descriptors such as diversity, evenness, density and biomass, were also investigated. Metal concentrations from macrofaunal tissues were compared to maximum permissible limits for human ingestion stipulated by the Brazilian regulatory agency (ANVISA). Generalized linear models (GLM's) were used to investigate the variability in macrofauna density, richness, eveness and biomass in the seven different regions. A non-metric multidimensional scaling analysis (n-MDS) was used to investigate the spatial pattern of heavy metal concentrations along the seven regions of Rio de Janeiro coast. Variation partitioning was applied to evaluate the variance in the community assemblage explained by the environmental variables and the heavy metal concentrations. Our data suggested high spatial variation in the concentration of heavy metals in macrofauna species from the beaches of Rio de Janeiro. This result highlighted a diffuse source of contamination along the coast. Most of the metals concentrations were under the limits established by ANVISA. The variability in community descriptors was related to morphodynamic variables, but not with metal contamination values, indicating the lack of direct relationships at the community level.
+   Concentration levels of eight heavy metals in macrofauna species from 68 sandy beaches on Rio de Janeiro coast (Brazil) were spatially correlated with anthropogenic activities such as industrialization and urbanization. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Cabrini, Tatiana M. B.] Univ Fed Rio de Janeiro, Programa Posgrad Ecol, Rio De Janeiro, Brazil.
+   [Cabrini, Tatiana M. B.; Barboza, Carlos A. M.; Skinner, Viviane B.; Cardoso, Ricardo S.] Univ Fed Estado Rio de Janeiro, Dept Ecol & Recursos Marinhos, Ave Pasteur 458,Sala 407, BR-22240290 Urca, Brazil.
+   [Barboza, Carlos A. M.] Univ Fed Rio de Janeiro, Nucleo Ecol & Desenvolvimento Socio Ambiental NUP, Rio De Janeiro, Brazil.
+   [Hauser-Davis, Rachel A.] Univ Fed Estado Rio de Janeiro, Ctr Ciencias Biol & Saude, Inst Biociencias, Urca, Brazil.
+   [Rocha, Rafael C.; Saint'Pierre, Tatiana D.] Pontificia Univ Catolica Rio de Janeiro, Dept Quim, Rio de Janeiro, RJ, Brazil.
+   [Valentin, Jean L.] Univ Fed Rio de Janeiro, Dept Biol Marinha, Rio De Janeiro, Brazil.
+RP Cabrini, TMB (reprint author), Univ Fed Rio de Janeiro, Programa Posgrad Ecol, Rio De Janeiro, Brazil.
+EM tatianacabrini@gmail.com
+RI Hauser-Davis, Rachel/C-7970-2013
+OI Hauser-Davis, Rachel/0000-0002-9451-471X; , Carlos
+   Alberto/0000-0002-5922-5410
+FU CNPq (Brazilian National Council for Scientific and Technological
+   Development) [141731/2013-3]; Universidade Federal do Rio de Janeiro
+   (UFRJ); Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior;
+   FAPERJ (Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro);
+   FAPERJ [E-26/110.013/2011]; CNPq
+FX The authors would like to acknowledge anonymous reviewers for valuables
+   suggestions that greatly improved the manuscript. The authors express
+   their deepest gratitude to all fieldwork participants. T.M.B. Cabrini
+   was supported by CNPq (Brazilian National Council for Scientific and
+   Technological Development grant number: 141731/2013-3) and by
+   Universidade Federal do Rio de Janeiro (UFRJ) post-graduate research
+   scholarships. C.A.M Barboza was supported by Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior. V.B. Skinner was supported
+   by FAPERJ (Fundacao de Amparo a Pesquisa do Estado do Rio de Janeiro).
+   R.S. Cardoso was supported by FAPERJ (E-26/110.013/2011) and CNPq.
+CR Amiard J.C., 1976, Revue Internationale d'Oceanographie Medicale, V43, P79
+   Andreani G, 2008, SCI TOTAL ENVIRON, V390, P287, DOI 10.1016/j.scitotenv.2007.09.014
+   Autier V, 2004, J HAZARD MATER, V106, P149, DOI 10.1016/j.jhazmat.2003.11.002
+   Azcue J.M.P., 1987, THESIS
+   Baeta AP, 2006, WIT TR BIOMED HEALTH, V10, P183, DOI 10.2495/ETOX060181
+   Balcerzak M, 2002, ANAL SCI, V18, P737, DOI 10.2116/analsci.18.737
+   Baran EJ, 2008, CHEM BIODIVERS, V5, P1475, DOI 10.1002/cbdv.200890136
+   Barrocas P.R., 1993, MERCARIO BAIA GUANAB, P115
+   Bates D., 2014, LME4 LINEAR MIXED EF, DOI DOI 10.18637/JSS.V067.I01
+   Belan TA, 2004, MAR ENVIRON RES, V57, P89, DOI 10.1016/S0141-1136(03)00062-X
+   Borcard D, 2002, ECOL MODEL, V153, P51, DOI 10.1016/S0304-3800(01)00501-4
+   BORCARD D, 1992, ECOLOGY, V73, P1045, DOI 10.2307/1940179
+   Bourioug M, 2015, SCI TOTAL ENVIRON, V502, P309, DOI 10.1016/j.scitotenv.2014.09.022
+   Bowen J.J.M., 1979, ENV CHEM ELEMENTS
+   Brazeiro A, 2001, MAR ECOL PROG SER, V224, P35, DOI 10.3354/meps224035
+   Brown Alexander C., 2008, P263, DOI 10.1017/CBO9780511751790.024
+   BRYAN GW, 1984, MARINE ECOLOGY, V5
+   Bulhoes E, 2013, J COASTAL RES, P1739, DOI 10.2112/SI65-294.1
+   Cardoso AGA, 2001, J BRAZIL CHEM SOC, V12, P767
+   Cardoso RS, 2016, ECOL INDIC, V62, P154, DOI 10.1016/j.ecolind.2015.11.039
+   Cardoso RS, 2012, MAR ECOL-EVOL PERSP, V33, P106, DOI 10.1111/j.1439-0485.2011.00457.x
+   Carneiro CD, 2011, CHEM ECOL, V27, P1, DOI 10.1080/02757540.2011.529249
+   Carreira RS, 2002, MAR CHEM, V79, P207, DOI 10.1016/S0304-4203(02)00065-8
+   Carvalho C. E. V., 1997, THESIS
+   Carvalho C.E.V., 2001, ECOTOXICOLOGY ENV RE, V4, P1
+   Carvalho C.E.V., 1994, ACTA LIMNOL BRAS, V4, P222
+   Carvalho Carlos E., 1992, Ciencia e Cultura (Sao Paulo), V44, P184
+   CARVALHO CEV, 1991, WATER AIR SOIL POLL, V57-8, P645, DOI 10.1007/BF00282928
+   Castege I, 2014, DEEP-SEA RES PT II, V106, P192, DOI 10.1016/j.dsr2.2013.09.035
+   Charriau A, 2011, APPL GEOCHEM, V26, P80, DOI 10.1016/j.apgeochem.2010.11.005
+   Coelho-Souza SA, 2013, BRAZ J MICROBIOL, V44, P1349, DOI 10.1590/S1517-83822013000400046
+   Costa ACM, 2005, X-RAY SPECTROM, V34, P183, DOI 10.1002/xrs.779
+   Costa H, 1998, AVALIACAO QUALIDADE, P261
+   Costa M, 2000, SCI TOTAL ENVIRON, V261, P69, DOI 10.1016/S0048-9697(00)00596-9
+   CREED J. C., 2007, BIODIVERSIDADE MARIN
+   Cunha BCA, 2009, J COASTAL RES, P797
+   da Fonseca EM, 2009, J COASTAL RES, P802
+   da Silva CA, 2011, BRAZ J OCEANOGR, V59, P259, DOI 10.1590/S1679-87592011000300006
+   da Silva JAL, 2013, QUIM NOVA, V36, P1458, DOI 10.1590/S0100-40422013000900030
+   de Souza PSA, 2012, REV VIRTUAL QUIM, V4, P464, DOI 10.5935/1984-6835.20120035
+   Defeo O, 2005, MAR ECOL PROG SER, V295, P1, DOI 10.3354/meps295001
+   Defeo O, 2002, MAR BIOL, V140, P1215, DOI 10.1007/s00227-002-0783-z
+   DELUCAREBELLO A, 1986, MAR CHEM, V18, P215, DOI 10.1016/0304-4203(86)90009-5
+   Diniz AG, 2003, J BRAZIL CHEM SOC, V14, P815, DOI 10.1590/S0103-50532003000500018
+   El-Moselhy K. M., 2006, EGYPT J AQUAT RES, V32, P12
+   EMERY KO, 1961, LIMNOL OCEANOGR, V6, P90, DOI 10.4319/lo.1961.6.1.0090
+   Evangelista S, 1994, ALIMENTOS ESTUDO ABR
+   Ferreira A. G, 2005, Braz. J. Biol., V65, P67, DOI 10.1590/S1519-69842005000100010
+   Ferreira AG, 2004, BRAZ ARCH BIOL TECHN, V47, P319, DOI 10.1590/S1516-89132004000200020
+   Fistarol GO, 2015, FRONT MICROBIOL, V6, DOI 10.3389/fmicb.2015.01232
+   Folk R. L., 1957, J SEDIMENT PETROL, V27, P3, DOI [10.1306/74D70646-2B21-11D7-8648000102C1865D, DOI 10.1306/74D70646-2B21-11D7-8648000102C1865D]
+   Fowler S. W, 1982, POLLUTANT TRANSFER T, P1
+   Fox J, 2011, R COMPANION APPL REG
+   Francioni E, 2004, J BRAZIL CHEM SOC, V15, P103, DOI 10.1590/S0103-50532004000100016
+   Fukumoto M.M., 2007, THESIS
+   Gomes FD, 2009, MAR POLLUT BULL, V59, P123, DOI 10.1016/j.marpolbul.2009.03.015
+   Gomes M.P., 1991, AN SEM REG ECOL, V6, P319
+   Greiser N., 1988, P79
+   Gu L, 2012, ADV MATER RES-SWITZ, V356-360, P630, DOI 10.4028/www.scientific.net/AMR.356-360.630
+   Herrick JE, 2002, SOIL SCI SOC AM J, V66, P1320, DOI 10.2136/sssaj2002.1320
+   Huijbers CM, 2015, DIVERS DISTRIB, V21, P55, DOI 10.1111/ddi.12282
+   Islam MS, 2015, ENVIRON TOXICOL PHAR, V39, P347, DOI 10.1016/j.etap.2014.12.009
+   Islam MS, 2004, MAR POLLUT BULL, V48, P624, DOI 10.1016/j.marpolbul.2003.12.004
+   Johnson J, 2006, ENVIRON SCI TECHNOL, V40, P7060, DOI 10.1021/es060061i
+   Jonathan MP, 2011, MAR POLLUT BULL, V62, P845, DOI 10.1016/j.marpolbul.2011.02.042
+   Jumbe Aboud S, 2009, American Journal of Environmental Sciences, V5, P678, DOI 10.3844/ajessp.2009.678.687
+   Junior RGDL, 2002, ENVIRON RES, V89, P171, DOI 10.1006/enrs.2002.4341
+   Kehrig HA, 2002, MAR POLLUT BULL, V44, P1018, DOI 10.1016/S0025-326X(02)00140-6
+   Kehrig HA, 2007, TROP OCEANOGR, V35, P32, DOI DOI 10.5914/TR0P0CEAN.V35I1-2.5081
+   Kehrig HA, 2006, J BRAZIL CHEM SOC, V17, P1409, DOI 10.1590/S0103-50532006000700031
+   Klein YL, 2004, J COASTAL RES, V20, P1080, DOI 10.2112/003-0018.1
+   Kupper H., 2011, CADMIUM TOXICITY ESS, P373
+   Kutter V.T., 2014, J BRAZIL CHEM SOC, V25, P1
+   Lacerda LD, 2006, MAR POLLUT BULL, V52, P974, DOI 10.1016/j.marpolbul.2006.04.007
+   Lacerda L. D., 2000, Revista Brasileira de Biologia, V60, P571, DOI 10.1590/S0034-71082000000400005
+   Lacerda L.D., 1981, ANGRA REIS CIENC CUL, V34, P921
+   Lavradas RT, 2014, ECOTOX ENVIRON SAFE, V107, P55, DOI 10.1016/j.ecoenv.2014.04.013
+   Legendre P, 1997, J EXP MAR BIOL ECOL, V216, P99, DOI 10.1016/S0022-0981(97)00092-0
+   Legendre P, 2001, OECOLOGIA, V129, P271, DOI 10.1007/s004420100716
+   Legendre P, 2008, J PLANT ECOL, V1, P3, DOI 10.1093/jpe/rtm001
+   MacFarlane GR, 2000, AQUAT BOT, V68, P45, DOI 10.1016/S0304-3770(00)00105-4
+   Machado W, 2008, J BRAZIL CHEM SOC, V19, P569, DOI 10.1590/S0103-50532008000300028
+   MALM O, 1989, ENVIRON TECHNOL LETT, V10, P675, DOI 10.1080/09593338909384785
+   Malm O., 1986, THESIS
+   Mansour S.A., 2014, PRACTICAL FOOD SAFET
+   Markovic J, 2012, ARCH BIOL SCI, V64, P265, DOI 10.2298/ABS1201265M
+   MCLACHLAN A, 1980, S AFR J SCI, V76, P137
+   McLachlan A, 2005, J COASTAL RES, V21, P674, DOI 10.2112/03-0114.1
+   McLachlan A, 1996, REV CHIL HIST NAT, V69, P451
+   Mesjasz-Przybylowicz J, 2001, S AFR J SCI, V97, P596
+   Miranda M, 2009, J TRACE ELEM MED BIO, V23, P231, DOI 10.1016/j.jtemb.2009.03.004
+   Molisani MM, 2004, REG ENVIRON CHANGE, V4, P17, DOI 10.1007/s10113-003-0060-9
+   Monna F, 2000, APPL GEOCHEM, V15, P1291, DOI 10.1016/S0883-2927(99)00117-1
+   Muniz P, 2003, ENVIRON INT, V1096, P1
+   Muyssen B. T. A., 2004, Environmental Reviews, V12, P113, DOI 10.1139/a04-004
+   Nagarajan R, 2013, MAR POLLUT BULL, V73, P369, DOI 10.1016/j.marpolbul.2013.05.036
+   Neto JAB, 2006, ENVIRON GEOL, V49, P1051, DOI 10.1007/s00254-005-0149-1
+   OCHIAL EI, 1995, J CHEM EDUC, V72, P479, DOI 10.1021/ed072p479
+   Oksanen J., 2016, VEGAN COMMUNITY ECOL
+   Peres-Neto PR, 2006, ECOLOGY, V87, P2614, DOI 10.1890/0012-9658(2006)87[2614:VPOSDM]2.0.CO;2
+   PFEIFFER W C, 1985, Ciencia e Cultura (Sao Paulo), V37, P297
+   PIELOU EC, 1966, J THEOR BIOL, V13, P131, DOI 10.1016/0022-5193(66)90013-0
+   Pinto LLC., 2005, THESIS
+   Qiao Y., 2013, MAR POLLUT B, V68, P1
+   R Development Core Team, 2014, R LANG ENV STAT COMP
+   Barboza FR, 2015, SCI REP-UK, V5, DOI 10.1038/srep14515
+   Rainbow PS, 2002, ENVIRON POLLUT, V120, P497, DOI 10.1016/S0269-7491(02)00238-5
+   Reyes-Martinez MJ, 2015, MAR ENVIRON RES, V103, P36, DOI 10.1016/j.marenvres.2014.11.005
+   Rezende C.E., 1997, AN 7 C LAT AM CIENC, P338
+   Ribeiro A. P., 2015, Management of Environmental Quality, V26, P538, DOI 10.1108/MEQ-06-2013-0074
+   Ribeiro A.P., 2006, THESIS
+   Roccheri MC, 2014, OPEN J METAL, V4, P93, DOI DOI 10.4236/0JMETA1.2014.44011
+   Rumisha C, 2012, MAR POLLUT BULL, V64, P521, DOI 10.1016/j.marpolbul.2011.12.025
+   Ryu J, 2011, ENVIRON POLLUT, V159, P2622, DOI 10.1016/j.envpol.2011.05.034
+   Salomons W., 1984, METALS HYDROCYCLE
+   Sandrini-Neto L, 2016, AQUAT TOXICOL, V177, P237, DOI 10.1016/j.aquatox.2016.05.028
+   Sandrini-Neto L, 2016, ENVIRON POLLUT, V213, P151, DOI 10.1016/j.envpol.2016.02.014
+   Santhiya G., 2011, METAL ENRICHMENT BEA
+   Schlacher TA, 2007, DIVERS DISTRIB, V13, P556, DOI 10.1111/j.1472-4642.2007.00363.x
+   Schlacher TA, 2016, ESTUAR COAST SHELF S, V169, P56, DOI 10.1016/j.ecss.2015.11.025
+   Sema,, 1998, MACR GEST SAN AMB BA, P1
+   Silva-Filho E.V., 1999, ENV GEOCHEMISTRY COA
+   Singh R, 2011, INDIAN J PHARMACOL, V43, P246, DOI 10.4103/0253-7613.81505
+   Small C, 2003, J COASTAL RES, V19, P584
+   Smith I., 1981, TRACE METALS ENV, V6
+   Soldi T, 1996, SCI TOTAL ENVIRON, V181, P45, DOI 10.1016/0048-9697(95)04958-4
+   Souza FM, 2013, MAR POLLUT BULL, V67, P234, DOI 10.1016/j.marpolbul.2012.10.021
+   Stankovic S, 2014, ENVIRON CHEM LETT, V12, P63, DOI 10.1007/s10311-013-0430-6
+   Suguio K., 1973, INTRO SEDIMENTOLOGIA
+   Szefer P., 2002, METALS METALLOIDS RA
+   Szyczewski P, 2009, POL J ENVIRON STUD, V18, P755
+   Tchounwou Paul B, 2012, Exp Suppl, V101, P133, DOI 10.1007/978-3-7643-8340-4_6
+   Tokhi M. El, 2015, ACTA PHYS POL, V128, P1
+   Torres J. P. M., 1992, THESIS
+   Tracey A. S., 2007, VANADIUM CHEM BIOCH
+   Ulmgren L, 2000, MEASURES TAKEN SMALL
+   Ulmgren L, 2000, C TRAIT LOD DEP MIN
+   United Nations Conference on Environment and Development (UNCED), 1992, PROT OC ALL KINDS SE
+   Valentin JL, 2001, ECOL STU AN, V144, P97
+   Veloso VG, 2008, MAR ECOL-EVOL PERSP, V29, P126, DOI 10.1111/j.1439-0485.2008.00222.x
+   Veloso V.G., 1995, B I OCEANOGRAFICO, V11, P217
+   Venables WN, 2002, MODERN APPL STAT S
+   Vig K, 2003, ADV ENVIRON RES, V8, P121, DOI 10.1016/S1093-0191(02)00135-1
+   Wagener A., 1991, AN 2 S EC REG COST S
+   Wanick RC, 2012, CHEM ECOL, V28, P103, DOI 10.1080/02757540.2011.638630
+   Wasserman JC, 2000, ENVIRON TECHNOL, V21, P297, DOI 10.1080/09593332108618117
+   Wu B, 2014, MAR POLLUT BULL, V87, P247, DOI 10.1016/j.marpolbul.2014.07.052
+   Wu B, 2014, MAR POLLUT BULL, V83, P116, DOI 10.1016/j.marpolbul.2014.04.010
+   Zhang ZW, 2014, ENVIRON SCI POLLUT R, V21, P11938, DOI 10.1007/s11356-014-3100-8
+   Zhao HR, 2012, SCI TOTAL ENVIRON, V417, P45, DOI 10.1016/j.scitotenv.2011.12.047
+   Zuur A, 2009, MIXED EFFECTS MODELS
+NR 151
+TC 5
+Z9 5
+U1 4
+U2 38
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD FEB
+PY 2017
+VL 221
+BP 116
+EP 129
+DI 10.1016/j.envpol.2016.11.053
+PG 14
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA EI8OV
+UT WOS:000392767900011
+PM 27914858
+DA 2019-03-26
+ER
+
+PT J
+AU Khadra, WM
+   Stuyfzand, PJ
+   Khadra, IM
+AF Khadra, Wisam M.
+   Stuyfzand, Pieter J.
+   Khadra, Ibrahim M.
+TI Mitigation of saltwater intrusion by 'integrated fresh-keeper' wells
+   combined with high recovery reverse osmosis
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE High recovery RO; Groundwater deterioration; Non-conventional water
+   resources; Urban water system; Lebanon
+ID OF-THE-ART; SEAWATER INTRUSION; BRACKISH GROUNDWATER; COASTAL AQUIFERS;
+   DESALINATION; RECHARGE; WATER; CONCENTRATE; FLOW; REMEDIATION
+AB Most countermeasures to mitigate saltwater intrusion in coastal, karstic or fractured aquifers are hindered by anisotropy, high transmissivities and complex dynamics. A coupled strategy is introduced here as a localized remedy to protect shallow freshwater reserves while utilizing the deeper intercepted brackish water. It is a double sourcing application where fresh-keeper wells are installed at the bottom of a deepened borehole of selected salinized wells, and then supported by high recovery RO desalination. The RO design has < 1 kWh/m(3) energy consumption, and up to 96% recovery in addition to low scaling propensity without use of any anti-sealant A feasibility study is presented as an example fora salinizing, bracldsh well (TDS similar to 1600 mg/L) in the Damour coastal aquifer in Lebanon. The concept is expected to produce ca. 1000 m(3)/d of freshwater from this well by pumping 250 m3/d of fresh groundwater from the top well screen and 800 m(3)/d of brackish groundwater (to be later desalinized) from the fresh-keeper well screen below. Cost analysis shows that the capital cost could be returned back in 1 to 4 years depending on the choice of produced water (bottled or tap) and available market. As an alternative, water from the RO plant could be blended with lower quality water, for instance untreated brackish groundwater (if unpolluted), to supply 3 more volumes for domestic use. The usage of brackish groundwater from integrated fresh-keeper wells thus serves 3 purposes: production of high quality drinking water, financial gain and mitigation of water stress by overpumping. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Khadra, Wisam M.; Stuyfzand, Pieter J.] Delft Univ Technol, Dept Geosci & Engn, Sect Geoenvironm Engn, POB 5048, NL-2600 GA Delft, Netherlands.
+   [Khadra, Wisam M.] Amer Univ Beirut, Dept Geol, POB 11-0236, Beirut 11072020, Lebanon.
+   [Stuyfzand, Pieter J.] KWR Watercycle Res Inst, POB 1072, NL-3430 BB Nieuwegein, Netherlands.
+   [Khadra, Ibrahim M.] Northcent Univ, Engn & Technol Management, 10000 Univ Dr, Prescott Valley, AZ 86314 USA.
+RP Khadra, WM (reprint author), Delft Univ Technol, Dept Geosci & Engn, Sect Geoenvironm Engn, POB 5048, NL-2600 GA Delft, Netherlands.
+EM w.m.khadra@tudelft.nl
+CR Anderson M.P., 1992, APPL GROUNDWATER MOD
+   Bobba A. Ghosh, 2007, P283, DOI 10.1007/978-1-4020-5729-8_10
+   Cai JL, 2015, WATER RESOUR MANAG, V29, P2221, DOI 10.1007/s11269-015-0937-7
+   Datta B, 2009, J HYDRO-ENVIRON RES, V3, P148, DOI 10.1016/j.jher.2009.09.002
+   FilmTec's Technical Manual, 2014, FILMTEC REV OSM MEMB
+   Fritzmann C, 2007, DESALINATION, V216, P1, DOI 10.1016/j.desal.2006.12.009
+   Grakist G., 2002, P 17 SALT WAT INTR M, P337
+   Greenlee LF, 2009, WATER RES, V43, P2317, DOI 10.1016/j.watres.2009.03.010
+   Guo W., 2002, USGS TECHNIQUES WATE, V6
+   Hendizadeh R, 2016, HYDROGEOL J, V24, P865, DOI 10.1007/s10040-015-1351-1
+   Henthome L, 2015, DESALINATION, V356, P129, DOI 10.1016/j.desal.2014.10.039
+   Jacob C, 2007, DESALINATION, V205, P47, DOI 10.1016/j.desal.2006.06.007
+   Javadi A, 2015, WATER RESOUR MANAG, V29, P1843, DOI 10.1007/s11269-015-0914-1
+   Kerrou J, 2013, HYDROGEOL J, V21, P425, DOI 10.1007/s10040-012-0911-x
+   Khadra W.M., 2003, THESIS
+   Khadra WM, 2014, HYDROLOG SCI J, V59, P1872, DOI 10.1080/02626667.2013.841912
+   Kooiman J. W., 2004, P 18 SWIM CART SPAIN, P625
+   Langevin CD, 2008, GROUND WATER, V46, P579, DOI 10.1111/j.1745-6584.2008.00445.x
+   Louwyck A, 2012, COMPUT GEOSCI-UK, V44, P136, DOI 10.1016/j.cageo.2011.09.004
+   Maliva RG, 2014, WATER-SUI, V6, P1257, DOI 10.3390/w6051257
+   Masciopinto C, 2006, ENVIRON MODELL SOFTW, V21, P85, DOI 10.1016/j.envsoft.2004.09.028
+   Masciopinto C, 2013, J ENVIRON MANAGE, V130, P306, DOI 10.1016/j.jenvman.2013.08.021
+   Meteorological Service, 2010, WEATH REP BEIR UNPUB
+   Moudjeber DE, 2014, DESALIN WATER TREAT, V52, P4040, DOI 10.1080/19443994.2013.875947
+   Nederlof MM, 2005, DESALINATION, V182, P441, DOI 10.1016/j.desal.2005.03.024
+   Ning RY, 2009, DESALINATION, V237, P238, DOI 10.1016/j.desal.2007.11.060
+   Ortuno F, 2012, WATER SCI TECHNOL, V66, P2083, DOI 10.2166/wst.2012.423
+   Ouelhazi H, 2014, ARAB J GEOSCI, V7, P4407, DOI 10.1007/s12517-013-1090-3
+   P&eacute;rez G. A., 2012, WATER RES, V46, P267, DOI DOI 10.1016/J.WATRES.2011.10.046
+   Parkhurst D.L., 1999, US GEOL SURVEY WATER, V99-4259, P312, DOI DOI 10.3989/EGE0L.41753.325
+   Payal Z., 2014, INT J ENG SCI RES TE, V3, P892
+   Rahardianto A, 2010, DESALINATION, V264, P256, DOI 10.1016/j.desal.2010.06.018
+   Sherif M, 2012, WATER RESOUR MANAG, V26, P751, DOI 10.1007/s11269-011-9943-6
+   Sophiya MS, 2013, ENVIRON EARTH SCI, V70, P1197, DOI 10.1007/s12665-012-2206-x
+   Stein S, 2016, ENVIRON SCI TECHNOL, V50, P1955, DOI 10.1021/acs.est.5b03634
+   Stuyfzand P.J., 2008, P 1 SWIM SWICA JOINT, P151
+   Stuyfzand PJ, 2010, HYDROGEOL J, V18, P117, DOI 10.1007/s10040-009-0527-y
+   SUGIO S, 1987, J HYDRAUL ENG-ASCE, V113, P767, DOI 10.1061/(ASCE)0733-9429(1987)113:6(767)
+   Wallis I, 2013, GROUND WATER, V51, P398, DOI 10.1111/j.1745-6584.2012.00978.x
+   Wolthek N, 2013, DESALIN WATER TREAT, V51, P1131, DOI 10.1080/19443994.2012.694205
+   Zuurbier K. G., 2016, WATER RESOU IN PRESS
+NR 41
+TC 1
+Z9 1
+U1 4
+U2 23
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD JAN 1
+PY 2017
+VL 574
+BP 796
+EP 805
+DI 10.1016/j.scitotenv.2016.09.156
+PG 10
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA ED7ZA
+UT WOS:000389090100076
+PM 27664766
+OA Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU He, HD
+   Qiao, ZX
+   Pan, W
+   Lu, WZ
+AF He, Hong-di
+   Qiao, Zhong-Xia
+   Pan, Wei
+   Lu, Wei-Zhen
+TI Multiscale multifractal properties between ground-level ozone and its
+   precursors in rural area in Hong Kong
+SO JOURNAL OF ENVIRONMENTAL MANAGEMENT
+LA English
+DT Article
+DE Detrended cross-correlation analysis; Multifractality; Ozone; Rural area
+ID CROSS-CORRELATION ANALYSIS; DETRENDED FLUCTUATION ANALYSIS; TIME-SERIES;
+   AIR-TEMPERATURE; SURFACE OZONE; URBAN; MARKETS; CHINA; SITE
+AB In rural area, due to the reduction of NOx and CO emitted from vehicle exhausts, the ozone photochemical reaction exhibits relatively weak effect and ozone formation presents different pattern with its precursors in contrast to urban situation. Hence, in this study, we apply detrended cross-correlation analysis to investigate the multifractal properties between ozone and its precursors in a rural area in Hong Kong.
+   The observed databases of ozone, NO2, NOx and CO levels during 2005-2014 are obtained from a rural monitoring station in Hong Kong. Based on the collected database, the cross-correlation analysis is carried out firstly to examine the cross-correlation patterns and the results indicate that close interactive relations exist between them. Then the detrended cross-correlation analysis is performed for further analysis. The multifractal characters occur between ozone and its precursors. The long-term cross-correlations behaviors in winter are verified to be stronger than that in other seasons. Additionally, the method is extended on daily averaged data to explore the multifractal property on various time scales. The long-term cross-correlation behavior of ozone vs NO2 and NOx on daily basis becomes weaker while that of ozone vs CO becomes stronger. The multifractal properties for all pairs in summer are found to be the strongest among the whole year. These findings successfully illustrate that the multifractal analysis is a useful tool for describing the temporal scaling behaviors of ozone trends in different time series in rural areas. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [He, Hong-di; Qiao, Zhong-Xia] Shanghai Maritime Univ, Logist Res Ctr, Shanghai 200135, Peoples R China.
+   [Pan, Wei; Lu, Wei-Zhen] City Univ Hong Kong, Dept Architecture & Civil Engn, Hong Kong, Hong Kong, Peoples R China.
+RP Lu, WZ (reprint author), City Univ Hong Kong, Dept Architecture & Civil Engn, Hong Kong, Hong Kong, Peoples R China.
+EM hongdihe@gmail.com; bcwzlu@cityu.edu.hk
+FU National Natural Science Foundation of China [11672176]; Science and
+   Technology Commission of Shanghai Municipality [14DZ2280200]; Strategic
+   Research Grant, City University of Hong Kong [CityU-SRG 7004637]
+FX The work was partially supported by National Natural Science Foundation
+   of China (No. 11672176), Science and Technology Commission of Shanghai
+   Municipality (No. 14DZ2280200) and Strategic Research Grant, City
+   University of Hong Kong (CityU-SRG 7004637). The authors are grateful
+   for the support of Lloyd's Register Foundation (LRF), a charity which
+   helps to protect life and property by supporting engineering-related
+   education, public engagement and the application of research.
+CR Cheng HR, 2010, ENVIRON SCI POLLUT R, V17, P1491, DOI 10.1007/s11356-010-0347-6
+   Han SQ, 2013, ATMOS ENVIRON, V79, P209, DOI 10.1016/j.atmosenv.2013.06.045
+   He HD, 2017, ATMOS ENVIRON, V149, P47, DOI 10.1016/j.atmosenv.2016.11.004
+   He HD, 2016, STOCH ENV RES RISK A, V30, P1515, DOI 10.1007/s00477-015-1162-x
+   He LY, 2011, PHYSICA A, V390, P3806, DOI 10.1016/j.physa.2011.06.013
+   Jiang L, 2016, PHYSICA A, V462, P783, DOI 10.1016/j.physa.2016.06.048
+   Kumar S, 2015, CHAOS SOLITON FRACT, V77, P296, DOI 10.1016/j.chaos.2015.06.007
+   Li S. C., 2016, ENVIRON SCI TECHNOL, V39, P140
+   Li Sichuan, 2015, Huanjing Huaxue-Environmental Chemistry, V34, P299, DOI 10.7524/j.issn.0254.6108.2015.02.2014041406
+   Lu WZ, 2014, BUILD ENVIRON, V82, P580, DOI 10.1016/j.buildenv.2014.09.015
+   Fernandez-Guisuraga JM, 2016, ENVIRON SCI POLLUT R, V23, P17171, DOI 10.1007/s11356-016-6888-6
+   Pavon-Dominguez P, 2013, ATMOS POLLUT RES, V4, P229, DOI 10.5094/APR.2013.024
+   Podobnik B, 2009, EUR PHYS J B, V71, P243, DOI 10.1140/epjb/e2009-00310-5
+   Podobnik B, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.084102
+   Seinfeld JH, 2016, P NATL ACAD SCI USA, V113, P5781, DOI 10.1073/pnas.1514043113
+   Shen CH, 2015, PHYSICA A, V419, P417, DOI 10.1016/j.physa.2014.10.058
+   Shen CH, 2015, PHYS LETT A, V379, P680, DOI 10.1016/j.physleta.2014.12.036
+   Shi K, 2014, ATMOS ENVIRON, V97, P130, DOI 10.1016/j.atmosenv.2014.08.016
+   Sillman S, 1999, ATMOS ENVIRON, V33, P1821, DOI 10.1016/S1352-2310(98)00345-8
+   Souri AH, 2016, ATMOS RES, V174, P124, DOI 10.1016/j.atmosres.2016.02.007
+   Tang SW, 2015, BUILD ENVIRON, V84, P221, DOI 10.1016/j.buildenv.2014.11.016
+   Vassoler RT, 2012, PHYSICA A, V391, P2438, DOI 10.1016/j.physa.2011.12.015
+   Xiong H, 2017, COMMUN NONLINEAR SCI, V42, P12, DOI 10.1016/j.cnsns.2016.04.035
+   Xu RG, 2016, CHEMOSPHERE, V159, P647, DOI 10.1016/j.chemosphere.2016.06.025
+   Yadav R, 2016, ATMOS RES, V176, P96, DOI 10.1016/j.atmosres.2016.02.018
+   [姚青 Yao Qing], 2011, [环境化学, Environmental Chemistry], V30, P1650
+   Zeleke TB, 2006, GEODERMA, V134, P440, DOI 10.1016/j.geoderma.2006.03.013
+   Zhang X, 2014, ATMOS CHEM PHYS, V14, P1733, DOI 10.5194/acp-14-1733-2014
+   Zhuang XY, 2014, PHYSICA A, V399, P113, DOI 10.1016/j.physa.2013.12.048
+NR 29
+TC 4
+Z9 4
+U1 6
+U2 20
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0301-4797
+EI 1095-8630
+J9 J ENVIRON MANAGE
+JI J. Environ. Manage.
+PD JUL 1
+PY 2017
+VL 196
+BP 270
+EP 277
+DI 10.1016/j.jenvman.2017.02.024
+PG 8
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA EV6OI
+UT WOS:000401888300028
+PM 28288361
+DA 2019-03-26
+ER
+
+PT J
+AU Darchen, S
+AF Darchen, Sebastien
+TI Regeneration and networks in the Arts District (Los Angeles): Rethinking
+   governance models in the production of urbanity
+SO URBAN STUDIES
+LA English
+DT Article
+DE governance; Los Angeles; politics of scale; regeneration; urbanity
+ID CREATIVE CITY; BARCELONA; MOVEMENTS; POLITICS; POLICIES; TORONTO;
+   SPACES; STATE
+AB This article analyses the governance arrangements underlying the regeneration process of a central area in Los Angeles from the 1970s until now. The Arts District is emblematic of this rising interest from developers in central places that were just 45 years ago either no man's land' or illegally occupied by artists. The analysis applies three main governance models that have been used in contemporary research to explain urban regeneration processes - Private type; Bottom-up; and Consensus-building - to look at the following research question: Are these models sufficient to characterise regeneration processes in the network society context? Data for the analysis were collected through semi-structured interviews with social actors as well as from policy documents related to adaptive re-use. The main finding is that the governance arrangements during the main phase of the regeneration of the area do not fit with the governance models utilised for the analysis. A group of new entrepreneurs are active in re(scaling) processes: they use spaceless' interactions - professional networks at the national scale - to influence the evolution of the area. The ANT framework is used to analyse why and how these networks play in the regeneration process. The innovative regeneration process is like a translation' process where professional networks play an important role in enrolling actors' but also in circulating the translation', thus establishing this regeneration model at the national scale in America.
+C1 [Darchen, Sebastien] Univ Queensland, Brisbane, Qld, Australia.
+RP Darchen, S (reprint author), Univ Queensland, Sch GPEM, Chamberlain Bldg,St Lucia Campus, Brisbane, Qld 4074, Australia.
+EM s.darchen@uq.edu.au
+RI Darchen, Sebastien/K-7451-2016
+OI Darchen, Sebastien/0000-0002-3043-4446
+FU LABEX Urban Futures
+FX This research was made possible through a Research Scholarship Grant
+   obtained in 2013 with LABEX Urban Futures.
+CR Albrechts Louis, 2007, NETWORK SOC NEW CONT
+   Arnaboldi M, 2011, TOURISM MANAGE, V32, P641, DOI 10.1016/j.tourman.2010.05.016
+   Blanco I, 2011, URBAN RES PRACT, V4, P326, DOI 10.1080/17535069.2011.616749
+   Boudreau JA, 2001, URBAN STUD, V38, P1701, DOI 10.1080/00420980120084822
+   Brenner N., 2004, NEW STATE SPACES URB
+   Brenner N, 2009, LEVIATHAN UNDONE: TOWARDS A POLITICAL ECONOMY OF SCALE, P27
+   Bullen PA, 2010, CITIES, V27, P215, DOI 10.1016/j.cities.2009.12.005
+   Castells Manuel, 2009, COMMUNICATION POWER
+   City of Los Angeles, 2006, AD RE US PROGR
+   City of Los Angeles, 1999, AD RE US PROGR
+   Conservancy LA, 2013, ARTS DISTRICT HIST A
+   Darchen S, 2013, URBAN RES PRACT, V6, P140, DOI 10.1080/17535069.2013.808433
+   Darchen S, 2013, INT PLAN STUD, V18, P188, DOI 10.1080/13563475.2013.774147
+   Donald J., 1999, IMAGINING MODERN CIT
+   Downtown LA, 2012, DOWNTOWN LA ARTS DIS
+   Dupuy G, 2008, URBAN NETWORK NETWOR
+   Fox H, 2012, REAL ESTATE FIRM CRE
+   Fraser A, 2010, ENVIRON PLANN A, V42, P332, DOI 10.1068/a4299
+   Gonzalez S, 2011, URBAN STUD, V48, P1397, DOI 10.1177/0042098010374510
+   Groth J, 2005, URBAN STUD, V42, P503, DOI 10.1080/00420980500035436
+   Healey P., 1997, COLLABORATIVE PLANNI
+   Innes J, 2007, NETWORK SOC NEW CONT, P57
+   Jessop B, 2008, ENVIRON PLANN D, V26, P389, DOI 10.1068/d9107
+   Keil R, 2009, LEVIATHAN UNDONE: TOWARDS A POLITICAL ECONOMY OF SCALE, P1
+   Kim E, 2015, DOWNTOWN NEWS   1102
+   Latour B., 1987, SCI ACTION FOLLOW SC
+   Le Gales P, 2003, RETOUR VILLES EUROPE
+   Lennon C, 2016, C MAGAZINE
+   Los Angeles Department of City Planning, 2015, ART IN RES DISTR INT
+   Los Angeles Department of City Planning, 2016, ARTS DISTR LIV WORK
+   Los Angeles Department of City Planning, 2009, DEP CIT PLANN REC RE
+   Marquardt N, 2012, EUR URBAN REG STUD, V19, P153, DOI 10.1177/0969776411420019
+   Massey D, 1994, SPACE PLACE GENDER
+   Nelson J, 2007, L A TIMES
+   Nicholls WJ, 2011, INT J URBAN REGIONAL, V35, P189, DOI 10.1111/j.1468-2427.2010.00978.x
+   Novy J, 2013, INT J URBAN REGIONAL, V37, P1816, DOI 10.1111/j.1468-2427.2012.01115.x
+   Nyseth T, 2008, PLAN THEORY PRACT, V9, P497, DOI 10.1080/14649350802481488
+   Paquet G, 2001, DEMOCRATIE EPREUVE G, P9
+   Purcell M, 2000, J URBAN AFF, V22, P85, DOI 10.1111/0735-2166.00041
+   Purcell M., 2002, GEOJOURNAL, V58, P99, DOI DOI 10.1023/B:GEJO.0000010829.62237.8F
+   Roberts P., 2000, URBAN REGENERATION H
+   Rooij RM, 2005, THESIS
+   Scott C, 2015, GUARDIAN
+   Sehested K, 2009, PLAN THEORY PRACT, V10, P245, DOI 10.1080/14649350902884516
+   Shearmur R, 2008, URBAN GEOGR, V29, P167, DOI 10.2747/0272-3638.29.2.167
+   Sloane DC, 2012, PLANNING LOS ANGELES
+   Smith N., 1992, POSTMODERNISM SOCIAL, P57
+   Stonebreaker T, 2015, LOS ANGELES TIMES
+   Swyngedouw E, 2005, URBAN STUD, V42, P1991, DOI 10.1080/00420980500279869
+   Swyngedouw E, 2000, ENVIRON PLANN D, V18, P63, DOI 10.1068/d9s
+   Ward K, 2006, INT J URBAN REGIONAL, V30, P54, DOI 10.1111/j.1468-2427.2006.00643.x
+   William A, 2015, NY TIMES
+   Zukin Sharon, 2011, CITY CULT SOC, V2, P131, DOI DOI 10.1016/J.CCS.2011.06.003
+NR 53
+TC 0
+Z9 0
+U1 2
+U2 5
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0042-0980
+EI 1360-063X
+J9 URBAN STUD
+JI Urban Stud.
+PD NOV
+PY 2017
+VL 54
+IS 15
+BP 3615
+EP 3635
+DI 10.1177/0042098016669917
+PG 21
+WC Environmental Studies; Urban Studies
+SC Environmental Sciences & Ecology; Urban Studies
+GA FL3VE
+UT WOS:000414152500012
+DA 2019-03-26
+ER
+
+PT J
+AU ten Veldhuis, MC
+   Schleiss, M
+AF ten Veldhuis, Marie-Claire
+   Schleiss, Marc
+TI Statistical analysis of hydrological response in urbanising catchments
+   based on adaptive sampling using inter-amount times
+SO HYDROLOGY AND EARTH SYSTEM SCIENCES
+LA English
+DT Article
+ID FLOOD FREQUENCY-ANALYSIS; MULTIFRACTAL ANALYSIS; CLIMATE-CHANGE;
+   BASIN-SCALE; RIVER FLOWS; URBANIZATION; STREAMFLOW; RAINFALL; RUNOFF;
+   MANAGEMENT
+AB Urban catchments are typically characterised by a more flashy nature of the hydrological response compared to natural catchments. Predicting flow changes associated with urbanisation is not straightforward, as they are influenced by interactions between impervious cover, basin size, drainage connectivity and stormwater management infrastructure. In this study, we present an alternative approach to statistical analysis of hydrological response variability and basin flashiness, based on the distribution of inter-amount times. We analyse inter-amount time distributions of high-resolution streamflow time series for 17 (semi-) urbanised basins in North Carolina, USA, ranging from 13 to 238 km(2) in size. We show that in the inter-amount-time framework, sampling frequency is tuned to the local variability of the flow pattern, resulting in a different representation and weighting of high and low flow periods in the statistical distribution. This leads to important differences in the way the distribution quantiles, mean, coefficient of variation and skewness vary across scales and results in lower mean intermittency and improved scaling. Moreover, we show that inter-amount-time distributions can be used to detect regulation effects on flow patterns, identify critical sampling scales and characterise flashiness of hydrological response. The possibility to use both the classical approach and the inter-amount-time framework to identify minimum observable scales and analyse flow data opens up interesting areas for future research.
+C1 [ten Veldhuis, Marie-Claire] Delft Univ Technol, Water Management Dept, Delft, Netherlands.
+   [Schleiss, Marc] Delft Univ Technol, Geosci & Remote Sensing Dept, Delft, Netherlands.
+   [ten Veldhuis, Marie-Claire; Schleiss, Marc] Princeton Univ, Hydrometeorol Grp, Princeton, NJ 08544 USA.
+RP ten Veldhuis, MC (reprint author), Delft Univ Technol, Water Management Dept, Delft, Netherlands.; ten Veldhuis, MC (reprint author), Princeton Univ, Hydrometeorol Grp, Princeton, NJ 08544 USA.
+EM j.a.e.tenveldhuis@tudelft.nl
+RI ten Veldhuis, Johanna/D-1011-2015
+OI ten Veldhuis, Johanna/0000-0001-9572-2193
+FU NWO Aspasia; Swiss National Science Foundation [P300P2_158499]; Delft
+   University of Technology
+FX The authors would like to acknowledge USGS for making available the
+   datasets of flow gauges in Charlotte. The first author would like to
+   thank NWO Aspasia and Delft University of Technology for the grant that
+   supported this research collaboration. The second author acknowledges
+   the funding provided by the Swiss National Science Foundation, grant
+   P300P2_158499 (project STORMS).
+CR Baker DB, 2004, J AM WATER RESOUR AS, V40, P503, DOI 10.1111/j.1752-1688.2004.tb01046.x
+   Berne A, 2004, J HYDROL, V299, P166, DOI 10.1016/j.jhydrol.2004.08.002
+   Bloschl G, 1997, WATER RESOUR RES, V33, P2967, DOI 10.1029/97WR00568
+   Brys G, 2004, J COMPUT GRAPH STAT, V13, P996, DOI 10.1198/106186004X12632
+   Cheng SJ, 2002, HYDROL PROCESS, V16, P1403, DOI 10.1002/hyp.350
+   Davies RB, 2002, BIOMETRIKA, V89, P484, DOI 10.1093/biomet/89.2.484
+   Dippe M., 1985, ACM SIGGRAPH COMPUTE, V19, P69
+   Du JK, 2012, J HYDROL, V464, P127, DOI 10.1016/j.jhydrol.2012.06.057
+   Emmanuel I, 2012, J HYDROL, V430, P162, DOI 10.1016/j.jhydrol.2012.02.013
+   Favre AC, 2004, WATER RESOUR RES, V40, DOI 10.1029/2003WR002456
+   Feizi S, 2011, IEEE SENSOR, P912
+   Fletcher TD, 2013, ADV WATER RESOUR, V51, P261, DOI 10.1016/j.advwatres.2012.09.001
+   Goodrich DC, 1997, WATER RESOUR RES, V33, P2951, DOI 10.1029/97WR01422
+   Grimaldi S, 2006, ADV WATER RESOUR, V29, P1155, DOI 10.1016/j.advwatres.2005.09.005
+   Gustafson DI, 2004, ENVIRON SCI TECHNOL, V38, P2995, DOI 10.1021/es030522p
+   Hopkins KG, 2015, ENVIRON SCI TECHNOL, V49, P2724, DOI 10.1021/es505389y
+   Huang HJ, 2008, HYDROL PROCESS, V22, P2075, DOI 10.1002/hyp.6807
+   Kjeldsen TR, 2010, HYDROL RES, V41, P391, DOI 10.2166/nh.2010.056
+   Labat D, 2013, HYDROL PROCESS, V27, P3708, DOI 10.1002/hyp.9495
+   Labat D, 2002, J HYDROL, V256, P176, DOI 10.1016/S0022-1694(01)00535-2
+   Lang M, 1999, J HYDROL, V225, P103, DOI 10.1016/S0022-1694(99)00167-5
+   Lombardo F, 2014, HYDROL EARTH SYST SC, V18, P243, DOI 10.5194/hess-18-243-2014
+   Miller JD, 2014, J HYDROL, V515, P59, DOI 10.1016/j.jhydrol.2014.04.011
+   Pandey G, 1998, J HYDROL, V208, P62, DOI 10.1016/S0022-1694(98)00148-6
+   Poff NL, 2002, PHILOS T ROY SOC A, V360, P1497, DOI 10.1098/rsta.2002.1012
+   Praskievicz S, 2009, PROG PHYS GEOG, V33, P650, DOI 10.1177/0309133309348098
+   Richter BD, 1996, CONSERV BIOL, V10, P1163, DOI 10.1046/j.1523-1739.1996.10041163.x
+   Rose S, 2001, HYDROL PROCESS, V15, P1441, DOI 10.1002/hyp.218
+   Salvadori G, 2004, WATER RESOUR RES, V40, DOI 10.1029/2004WR003133
+   Sauquet E, 2008, HYDROL PROCESS, V22, P3462, DOI 10.1002/hyp.6952
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Schertzer D, 2011, INT J BIFURCAT CHAOS, V21, P3417, DOI 10.1142/S0218127411030647
+   Schleiss M, 2016, J HYDROMETEOROL, V17, P421, DOI 10.1175/JHM-D-15-0078.1
+   SCOTT DW, 1979, BIOMETRIKA, V66, P605, DOI 10.1093/biomet/66.3.605
+   Smakhtin VU, 2001, J HYDROL, V240, P147, DOI 10.1016/S0022-1694(00)00340-1
+   Smith BK, 2013, WATER RESOUR RES, V49, P2649, DOI 10.1002/wrcr.20223
+   Smith BK, 2015, J HYDROMETEOROL, V16, P2365, DOI 10.1175/JHM-D-14-0217.1
+   Smith JA, 2005, WATER RESOUR RES, V41, DOI 10.1029/2004WR003712
+   SMITH JA, 1992, WATER RESOUR RES, V28, P2993, DOI 10.1029/92WR01718
+   STEDINGER JR, 1983, WATER RESOUR RES, V19, P503, DOI 10.1029/WR019i002p00503
+   Tessier Y, 1996, J GEOPHYS RES-ATMOS, V101, P26427, DOI 10.1029/96JD01799
+   Villarini G, 2016, ADV WATER RESOUR, V87, P80, DOI 10.1016/j.advwatres.2015.11.009
+   Villarini G, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR007645
+   Vittal H, 2015, J HYDROL, V525, P658, DOI 10.1016/j.jhydrol.2015.04.024
+NR 44
+TC 3
+Z9 3
+U1 0
+U2 3
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1027-5606
+EI 1607-7938
+J9 HYDROL EARTH SYST SC
+JI Hydrol. Earth Syst. Sci.
+PD APR 13
+PY 2017
+VL 21
+IS 4
+BP 1991
+EP 2013
+DI 10.5194/hess-21-1991-2017
+PG 23
+WC Geosciences, Multidisciplinary; Water Resources
+SC Geology; Water Resources
+GA ES7TM
+UT WOS:000399754100001
+OA DOAJ Gold
+DA 2019-03-26
+ER

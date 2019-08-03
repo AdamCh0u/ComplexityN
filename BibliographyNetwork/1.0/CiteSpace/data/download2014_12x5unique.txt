@@ -1,0 +1,295 @@
+
+PT J
+AU Bettencourt, LMA
+AF Bettencourt, Luis M. A.
+TI THE USES OF BIG DATA IN CITIES
+SO BIG DATA
+AB There is much enthusiasm currently about the possibilities created by new and more extensive sources of data to better understand and manage cities. Here, I explore how big data can be useful in urban planning by formalizing the planning process as a general computational problem. I show that, under general conditions, new sources of data coordinated with urban policy can be applied following fundamental principles of engineering to achieve new solutions to important age-old urban problems. I also show that comprehensive urban planning is computationally intractable (i.e., practically impossible) in large cities, regardless of the amounts of data available. This dilemma between the need for planning and coordination and its impossibility in detail is resolved by the recognition that cities are first and foremost self-organizing social networks embedded in space and enabled by urban infrastructure and services. As such, the primary role of big data in cities is to facilitate information flows and mechanisms of learning and coordination by heterogeneous individuals. However, processes of self-organization in cities, as well as of service improvement and expansion, must rely on general principles that enforce necessary conditions for cities to operate and evolve. Such ideas are the core of a developing scientific theory of cities, which is itself enabled by the growing availability of quantitative data on thousands of cities worldwide, across different geographies and levels of development. These three uses of data and information technologies in cities constitute then the necessary pillars for more successful urban policy and management that encourages, and does not stifle, the fundamental role of cities as engines of development and innovation in human societies.
+CR Anderson C., 2008, WIRED MAG
+   ANDERSON PW, 1972, SCIENCE, V177, P393, DOI 10.1126/science.177.4047.393
+   Andris C, 130623 SANT FE I WOR
+   Arrow KJ, 1950, J POLIT ECON, V58, P328, DOI 10.1086/256963
+   Astrom K. J., 2008, FEEDBACK SYSTEMS INT
+   Batty M, 2012, EUR PHYS J-SPEC TOP, V214, P481, DOI 10.1140/epjst/e2012-01703-3
+   Batty M, 1995, 4 INT C COMP URB PLA
+   Bettencourt L., 2013, STADT ENTSCHLUSSELN, P175
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Boyd D, 2012, INFORM COMMUN SOC, V15, P662, DOI 10.1080/1369118X.2012.678878
+   Caragliu A., 2009, 0048 VU U AMST FAC E
+   Castells M., 1989, INFORM CITY INFORM T
+   Dwyer DJ, 1971, ASIAN URBANIZATION H
+   European Union's Report of the Meeting of Advisory Group, 2011, EUR UN REP M ADV GRO
+   Fernandez W., 2011, OUR HOMES 50 YEARS H
+   Flood J., 2011, FIRES COMPUTER FORMU
+   Gibson David V, 1992, TECHNOPOLIS PHENOMEN
+   Giffinger R. C., 2007, SMART CITIES RANKING
+   GLAESER EL, 1992, J POLIT ECON, V100, P1126, DOI 10.1086/261856
+   Graham S., 2004, CYBERCITIES READER
+   Hall P., 1998, CITIES CIVILIZATION
+   Harris J. M., 2008, COMBINATORICS GRAPH
+   Harrison C, 2010, IBM J RES DEV, V54, DOI 10.1147/JRD.2010.2048257
+   Harrison C., 2013, ROADS SMARTER CITIES
+   Hayek FA, 1945, AM ECON REV, V35, P519
+   Hilbert M, 2011, SCIENCE, V332, P60, DOI 10.1126/science.1200970
+   IBM Global Business Services, 2009, VIS SMART CIT CIT CA
+   Jacobs J., 1970, EC CITIES
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Johnson N., 2013, NAT SCI REP, V3, P2627, DOI DOI 10.1038/SREP02627
+   Johnson S, 2007, GHOST MAP STORY LOND
+   Katz B, 2013, METROPOLITAN REVOLUTION: HOW CITIES AND METROS ARE FIXING OUR BROKEN POLITICS AND FRAGILE ECONOMY, P1
+   Krugman P, 1997, OHLIN LECT
+   LEE SH, 2008, KNOWLEDGE BASED URBA, P148, DOI DOI 10.4018/978-1-59904-720-1.CH009
+   Madera C, 2010, FUTURE CITIES INTERN
+   Mayer-Schonberger V., 2013, BIG DATA REVOLUTION
+   McKensey Global Institute, 2011, BIG DAT NEXT FRONT I
+   Mehta S, 2005, MAXIUMUM CITY BOMBAY
+   Mitchell W. J., 2004, ME CYBORG SELF NETWO
+   Moore M., 2011, AUTONOMOUS VEHICLES
+   More C., 2011, NATURE COMPUTATION
+   Papa R, 2013, TEMA, V1, P5
+   Partridge HL, 2004, DEV HUMAN PERSPECTIV
+   Polonetsky J, STAN L REV, V66, P25
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   Ren JSJ, ARXIV13043778CSSY
+   Riis Jacob, 2004, OTHER HALF LIVES STU
+   RITTEL HWJ, 1973, POLICY SCI, V4, P155, DOI 10.1007/BF01405730
+   Roche S, 2012, GLOB GEOSP C GLOB SP
+   Rubin Joel, 2010, LOS ANGELES TIMES
+   Sampson RJ, 2002, ANNU REV SOCIOL, V28, P443, DOI 10.1146/annurev.soc.28.110601.141114
+   Schlapfer M, SCALING HUMAN INTERA
+   Shapiro JM, 2006, REV ECON STAT, V88, P324, DOI 10.1162/rest.88.2.324
+   Short MB, 2009, J QUANT CRIMINOL, V25, P325, DOI 10.1007/s10940-009-9068-8
+   SZANTON PL, 1972, POLICY SCI, V3, P153, DOI 10.1007/BF01460089
+   Taewoo N., 2011, P 12 ANN INT C DIG G
+   UN-Habitat, PLANN SUST CIT
+   UN-Habitat, 2003, CHALL SLUMS GLOB REP
+   Whitehead A. N., 1911, INTRO MATH
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+NR 62
+TC 16
+Z9 16
+SN 2167-6461
+EI 2167-647X
+PD MAR
+PY 2014
+VL 2
+IS 1
+BP 12
+EP 22
+DI 10.1089/big.2013.0042
+UT WOS:000209646400005
+PM 27447307
+ER
+
+PT S
+AU Noennig, JR
+   Scheler, AM
+   Piskorek, K
+   Barski, J
+AF Noennig, Joerg Rainer
+   Scheler, Anna-Maria
+   Piskorek, Katarzyna
+   Barski, Jan
+BE Jedrzejowicz, P
+   Czarnowski, I
+   Howlett, RJ
+   Jain, LC
+TI Towards knowledge ecosystems: Modelling knowledge dynamics in
+   environmental systems
+SO KNOWLEDGE-BASED AND INTELLIGENT INFORMATION & ENGINEERING SYSTEMS 18TH
+   ANNUAL CONFERENCE, KES-2014
+SE Procedia Computer Science
+CT 18th Annual International Conference on Knowledge-Based and Intelligent
+   Information and Engineering Systems (KES)
+CY SEP 15-17, 2014
+CL Pomeranian Sci & Technol, Gdynia, POLAND
+HO Pomeranian Sci & Technol
+DE Knowledge ecosystems; Cellular Automaton; Agent Modelling; Knowledge
+   dynamics
+AB In order to understand basic mechanisms of so-called Knowledge Ecosystems, the paper presents a study for modelling the emergence and diffusion of knowledge in regards to environmental conditions. The text gives an outline for the description of Knowledge Ecosystems by integrating 1) models for environmental dynamics based on resources and attractiveness, and 2) models for knowledge dynamics based on the behaviors and processes of knowledge agents (innovators) and agencies. As key methods, the work employs Cellular Automata for the modelling of knowledge environments, as well as agent models for the simulation of knowledge agents (innovators). The paper presents preliminary results of the ongoing study, including a first version of both scopes integrated into one descriptive system. (C) 2014 Published by Elsevier B.V.
+CR ACRE, 2010, REP EU FP, V7
+   Bahrami H., 2005, SUPER FLEXIBILITY KN
+   Baron JN, 2005, EC SOCIOLOGY CAPITAL
+   Barski J, 2014, IFKAD C P IN PRESS
+   Bentlage M, 2013, CITIES, V30, P47, DOI 10.1016/j.cities.2012.07.003
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brenn S, 2012, KNOWLEDGE INNOVATION, P13
+   Brown T., 2009, DESIGN THINKING TRAN
+   Camagni R, 1991, INNOVATION NETWORKS
+   Carlopio J, 1992, ENVIRON BEHAV, V24, P5
+   Chadwick S, 2009, AMIA ANN C MEX CIT 2
+   Chesbrough H. W., 2011, OPEN INNOVATION NEW
+   Choo C. W., 2002, STRATEGIC MANAGEMENT
+   Conventz S, 2014, TRANS MOBIL SER, P1
+   Dale K, 2005, ORGANIZATION, V12, P649, DOI 10.1177/1350508405055940
+   Dawkins R, 1976, SELFISH GENE
+   Florida R, 2008, WHOS YOUR CITY CREAT
+   Florida R., 2004, RISE CREATIVE CLASS
+   Fontan JM, 2004, INNOVATION SOC BROAD
+   Gaynor GH, 2012, IEEE ENG MANAGEMENT, V40, P3
+   Gibson J. J., 1986, ECOLOGICAL APPROACH
+   Gridneva L, 2013, IFKAD 2013: 8TH INTERNATIONAL FORUM ON KNOWLEDGE ASSET DYNAMICS, P1689
+   Katz B, 2013, METROPOLITAN REVOLUTION: HOW CITIES AND METROS ARE FIXING OUR BROKEN POLITICS AND FRAGILE ECONOMY, P1
+   Kovacs Z, 2007, 3 ACRE AMIDST
+   Kratke S., 2012, CREATIVE CAPITAL CIT
+   Luthi S, 2013, URBAN STUDIES, V50
+   MacCallum D., 2009, SOCIAL INNOVATION TE
+   Musterd M, 2010, MAKING COMPETITIVE C
+   Nonaka I, 1998, CALIF MANAGE REV, V40, P40, DOI 10.2307/41165942
+   Peschl M. F., 2013, P 18 INT C URB PLANN, V4, P205
+   Peschl M.F., 2012, J ORG TRANSFORMATION, V9, P41, DOI DOI 10.1386/JOTS.9.1.41_1
+   Rogers E. M., 2003, DIFFUSION INNOVATION
+   Scharnhorst A, 2012, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-23068-4
+   Thierstein A, 2013, 6 KNOWLEDGE CITIES W
+   United Nations Development Programme (UNDP), 2013, CREAT EC REP
+   Wilson D, 2008, SOC CULT GEOGR, V9, P841, DOI 10.1080/14649360802441473
+   Yang J. S., 2009, J PHYS SOC JAPAN, V78
+NR 38
+TC 1
+Z9 1
+SN 1877-0509
+PY 2014
+VL 35
+BP 1360
+EP 1369
+DI 10.1016/j.procs.2014.08.179
+UT WOS:000345394100144
+ER
+
+PT J
+AU Viegas, E
+   Cockburn, SP
+   Jensen, HJ
+   West, GB
+AF Viegas, Eduardo
+   Cockburn, Stuart P.
+   Jensen, Henrik J.
+   West, Geoffrey B.
+TI The dynamics of mergers and acquisitions: ancestry as the seminal
+   determinant
+SO PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING
+   SCIENCES
+DE evolutionary dynamics; ecosystems; economics
+ID ECOSYSTEMS; NETWORKS; BANKING
+AB Understanding the fundamental mechanisms behind the complex landscape of corporate mergers and acquisitions is of crucial importance to economies across the world. Adapting ideas from the fields of complexity and evolutionary dynamics to analyse business ecosystems, we show here that ancestry, i.e. the cumulative sum of historical mergers across all ancestors, is the key characteristic to company mergers and acquisitions. We verify this by comparing an agent-based model to an extensive range of business data, covering the period from the 1830s to the present day and a range of industries and geographies. This seemingly universal mechanism leads to imbalanced business ecosystems, with the emergence of a few very large, but sluggish 'too big to fail' entities, and very small, niche entities, thereby creating a paradigm where a configuration akin to effective oligopoly or monopoly is a likely outcome for free market systems.
+RI Gomes, Leonardo/E-9980-2015
+CR Awdry Christopher, 1990, ENCY BRIT RAILWAY CO
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Beccalli E, 2013, J FINANC SERV RES, V43, P265, DOI 10.1007/s10693-012-0138-y
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   de Solla Price D., 1976, Journal of the American Society for Information Sciences, V27, P292
+   Haldane AG, 2011, NATURE, V469, P351, DOI 10.1038/nature09659
+   Jablonka Eva, 2005, EVOLUTION 4 DIMENSIO
+   Jamtveit B, 2009, P NATL ACAD SCI USA, V106, P13160, DOI 10.1073/pnas.0903190106
+   Kwan S, 1999, EC REV FED RESERVE Q, VQ4, P26
+   MADURA J, 1994, J BANK FINANC, V18, P1135, DOI 10.1016/0378-4266(94)00064-6
+   Newman M. E., 2010, NETWORKS INTRO
+   Sherman M, 2010, SHORT HIST FINANCIAL
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Toyne MF, 1998, Q J BUS ECON, V37, P48
+   Ueno H, 2007, PHYSICA A, V383, P164, DOI 10.1016/j.physa.2007.04.098
+   Viegas E, 2013, COMPLEXITY, V19, P22, DOI 10.1002/cplx.21452
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+   Zipf GK, 1942, SOCIOMETRY, V5, P48, DOI 10.2307/2784953
+NR 19
+TC 0
+Z9 0
+SN 1364-5021
+EI 1471-2946
+PD NOV 8
+PY 2014
+VL 470
+IS 2171
+AR 20140370
+DI 10.1098/rspa.2014.0370
+UT WOS:000341809900010
+PM 25383025
+ER
+
+PT J
+AU Louf, R
+   Barthelemy, M
+AF Louf, Remi
+   Barthelemy, Marc
+TI Scaling: lost in the smog Commentary
+SO ENVIRONMENT AND PLANNING B-PLANNING & DESIGN
+ID CITIES
+OI Louf, Remi/0000-0001-7929-5507
+CR Arcaute E, 2013, 13011674 ARXIV
+   BARENBLATT GI, 2003, SCALING
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty Michael., 2013, NEW SCI CITIES
+   Bernstein JA, 2004, J ALLERGY CLIN IMMUN, V114, P1116, DOI 10.1016/j.jaci.2004.08.030
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bouchaud JP, 2008, NATURE, V455, P1181, DOI 10.1038/4551181a
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Glaeser EL, 2010, J URBAN ECON, V67, P404, DOI 10.1016/j.jue.2009.11.006
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pumain D, 2004, 200402002 WP SANT FE
+   Rybski D, 2013, 13044406 ARXIV
+NR 14
+TC 16
+Z9 17
+SN 0265-8135
+EI 1472-3417
+PY 2014
+VL 41
+IS 5
+BP 767
+EP 769
+DI 10.1068/b4105c
+UT WOS:000344091800002
+ER
+
+PT J
+AU Thisse, JF
+AF Thisse, Jacques-Francois
+TI The New Science of Cities by Michael Batty: The Opinion of an Economist
+SO JOURNAL OF ECONOMIC LITERATURE
+ID LAND-USE; EQUILIBRIUM; CONFIGURATIONS; NETWORKS; CHOICE; PRICE; MODEL;
+   CITY
+AB Cities are the cradle of a wide range of cultural, social, and technological innovations that are at the heart of modern economic growth and development. Half of humanity today lives in cities but, until the last two decades, economists have paid much less attention to cities than have other social scientists. By contrast, geographers have long studied the role of cities in human affairs. Michael Batty, a distinguished scholar in the field of human geography, has recently written The New Science of Cities, a synthesis of his work and of some other prominent urban geographers. A review of his book is the first objective of this essay. The second is to discuss and compare the tools and concepts developed by urban economists with those of urban geographers in the hope of triggering a fruitful debate between those two groups of social scientists.
+CR ANAS A, 1983, TRANSPORT RES B-METH, V17, P13, DOI 10.1016/0191-2615(83)90023-1
+   Anas A, 2007, J REGIONAL SCI, V47, P415, DOI 10.1111/j.1467-9787.2007.00515.x
+   Anas A, 2012, TRANSPORT RES A-POL, V46, P855, DOI 10.1016/j.tra.2012.02.010
+   Anderson JE, 2004, J ECON LIT, V42, P691, DOI 10.1257/0022051042177649
+   Anderson Simon, 1992, DISCRETE CHOICE THEO
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   BECKMANN M. J., 1976, MATH LAND USE THEORY, P117
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Caruso G, 2007, REG SCI URBAN ECON, V37, P542, DOI 10.1016/j.regsciurbeco.2007.01.005
+   Dorfman R, 1958, LINEAR PROGRAMMING E
+   FUJITA M, 1982, REG SCI URBAN ECON, V12, P161, DOI 10.1016/0166-0462(82)90031-X
+   Fujita M, 1999, EUR ECON REV, V43, P209, DOI 10.1016/S0014-2921(98)00066-X
+   Fujita M, 1989, URBAN EC THEORY LAND
+   Glaeser E., 2011, TRIUMPH CITY
+   Glaeser Edward L., 2012, 18244 NAT BUR EC RES
+   Head Keith, 2014, HDB INT EC, V3, P131, DOI DOI 10.1016/B978-0-444-54314-1.00003-3
+   Helsley RW, 2014, J ECON THEORY, V150, P426, DOI 10.1016/j.jet.2013.09.009
+   Henderson J. V., 1988, URBAN DEV THEORY FAC
+   Labbe M., 1995, HDBK OPER R, V8, P551
+   McFadden D., 1974, FRONTIERS ECONOMETRI, P105
+   OGAWA H, 1980, J REGIONAL SCI, V20, P455, DOI 10.1111/j.1467-9787.1980.tb00662.x
+   Samuelson PA, 1952, AM ECON REV, V42, P283
+   Wilson A. G, 1970, ENTROPY URBAN REGION
+NR 24
+TC 3
+Z9 3
+SN 0022-0515
+EI 2328-8175
+PD SEP
+PY 2014
+VL 52
+IS 3
+BP 805
+EP 819
+DI 10.1257/jel.52.3.805
+UT WOS:000342682900004
+ER

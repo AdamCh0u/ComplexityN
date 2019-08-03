@@ -1,0 +1,294 @@
+
+PT J
+AU Goethert, R
+AF Goethert, R
+TI The use of IT in scaling up urban slum improvement efforts
+SO PROCEEDINGS OF THE INSTITUTION OF CIVIL ENGINEERS-MUNICIPAL ENGINEER
+LA English
+DT Article
+DE developing countries; information technology; social impact
+AB Urban slum areas are rapidly expanding throughout the developing world. Many cities are increasing their efforts on upgrading of these areas with strong encouragement and support from developing agencies. Upgrading in the first instance entails the provision of vital water supply, sanitation services, drainage and roads, coupled with a form of secure tenure. Increasingly, programmes include creation of job opportunities and widespread social services. Successes are noted at the project scale, but meeting the scale of the demand has been elusive. Scaling up efforts in order to have an appreciable impact on the ever-growing problem has become the watchword among development agencies. The Cities Alliance a global programme initiated by the World Bank and UN-Habitat-has made upgrading one of its main target areas. The World Bank itself has upgrading investments as a central thrust of the new urban strategy. Other development agencies, non-governmental organisations (NGOs) and many cities also focus increased resources on upgrading. Many conceptualise that information technology (IT) may offer a too[ to radically change the face of development. Perhaps upgrading might also benefit from IT, which could provide the impetus for rethinking and restructuring large-scale programmes. How this may be done and what this would entail is currently being explored and new approaches and best practices are gradually emerging. This paper gathers issues that came out of an international conference on large-scale upgrading as a starting point for thinking about ITuse. A map explores the various combinations of linking individuals/ communities/cities to each other and the internet, and a 'metaphorical model' is suggested as the interface at the community level. The paper concludes by considering the practical issues that IT centres would need to address for long-term viability.
+C1 MIT, Sch Architecture & Planning, Sigus Grp, Cambridge, MA 02139 USA.
+RP Goethert, R (reprint author), MIT, Sch Architecture & Planning, Sigus Grp, Cambridge, MA 02139 USA.
+CR Cities Alliance, 1999, CIT SLUMS ACT PLAN M
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 1
+PU THOMAS TELFORD SERVICES LTD
+PI LONDON
+PA THOMAS TELFORD HOUSE, 1 HERON QUAY, LONDON E14 4JD, ENGLAND
+SN 0965-0903
+J9 P I CIVIL ENG-MUNIC
+JI Proc. Inst. Civil Eng.-Munic. Eng.
+PD DEC
+PY 2001
+VL 145
+IS 4
+BP 285
+EP 291
+PG 7
+WC Engineering, Civil
+SC Engineering
+GA 516ZP
+UT WOS:000173586900005
+DA 2019-03-26
+ER
+
+PT J
+AU Willems, P
+AF Willems, P
+TI A spatial rainfall generator for small spatial scales
+SO JOURNAL OF HYDROLOGY
+LA English
+DT Article
+DE rain cells; time correlation; rain storm
+ID ADVECTION-DIFFUSION MODEL; STORM SEQUENCES; RUNOFF MODELS;
+   PRECIPITATION; POINT
+AB A stochastic spatial rainfall generator is developed for use at the small spatial scale of urban and small hydrographic catchments. The generator is based on a spatial rainfall model of the conceptual and hierarchical type. It describes the spatial rainfall field in a macroscopic physic ally-based way by distinguishing rainfall entities with different scales: rain cells, cell clusters, small and large mesoscale areas (or rain storms). For applications at small spatial scales. the individual rain cells need a detailed description. Data of a dense network of rain gauges at Antwerp, enclosing 5940 rain cells in 807 rain storms are used to derive such description. For separation of the rain cells in the rainfall time series. an algorithm is developed based on the identification of increasing and decreasing rain cell flanks. The rain cells observed at different rain gauges are linked together by applying criteria for testing the similarity in rain cell properties. After separating and linking the rain cells and storms, the spatial rainfall model is calibrated to many storms by two methods (e.g. Kalman filter). The derived model structure and model parameter distributions apply to the stochastic generation of long-term time series of spatial rainfall. The model is tested by comparing intensity-duration-frequency relationships and temporal scaling properties of the generated and historical rainfall series. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Katholieke Univ Leuven, Hydraul Lab, B-3001 Heverlee, Belgium.
+RP Willems, P (reprint author), Katholieke Univ Leuven, Hydraul Lab, Kasteelpk Arenberg 40, B-3001 Heverlee, Belgium.
+RI Willems, Patrick/A-9715-2010
+OI Willems, Patrick/0000-0002-7085-2570
+CR AMOROCHO J, 1977, J HYDROL, V32, P329, DOI 10.1016/0022-1694(77)90025-7
+   Bartolini P., 1994, ASCE J HYDRAULIC ENG, V120, P1199
+   BIERKENS MFP, 1990, WATER RESOUR RES, V26, P2653, DOI 10.1029/WR026i011p02653
+   BRAS RL, 1976, WATER RESOUR RES, V12, P450, DOI 10.1029/WR012i003p00450
+   BRAS RL, 1988, J HYDROL, V102, P113, DOI 10.1016/0022-1694(88)90094-7
+   EAGLESON PS, 1978, WATER RESOUR RES, V14, P713, DOI 10.1029/WR014i005p00713
+   GUPTA VK, 1979, WATER RESOUR RES, V15, P637, DOI 10.1029/WR015i003p00637
+   JINNO K, 1993, WATER RESOUR RES, V29, P1489, DOI 10.1029/92WR02849
+   Kawamura A, 1997, J HYDROL, V203, P109, DOI 10.1016/S0022-1694(97)00088-7
+   Luyckx G., 1998, HYDROLOGY CHANGING E, VIII, P339
+   MARIEN JL, 1986, WATER RESOUR RES, V22, P475, DOI 10.1029/WR022i004p00475
+   MEINHOLD RJ, 1983, AM STAT, V37, P123, DOI 10.2307/2685871
+   Northrop P, 1998, P ROY SOC A-MATH PHY, V454, P1875, DOI 10.1098/rspa.1998.0238
+   SIVAPALAN M, 1986, WATER RESOUR RES, V22, P1289
+   Taylor GI, 1938, PROC R SOC LON SER-A, V164, P0476, DOI 10.1098/rspa.1938.0032
+   VELGHE N, 1993, WATER RESOUR RES, V30, P2847
+   Verhoest N, 1997, J HYDROL, V202, P108, DOI 10.1016/S0022-1694(97)00060-7
+   WAYMIRE E, 1984, WATER RESOUR RES, V20, P1453, DOI 10.1029/WR020i010p01453
+   WAYMIRE E, 1981, WATER RESOUR RES, V17, P1261, DOI 10.1029/WR017i005p01261
+   Willems P, 1999, WATER SCI TECHNOL, V39, P23, DOI 10.1016/S0273-1223(99)00212-7
+   Willems P, 2000, J HYDROL, V233, P189, DOI 10.1016/S0022-1694(00)00233-X
+   WILLEMS P, 1998, HYDROLOGY CHANGING E, V3, P307
+   WILSON CB, 1979, WATER RESOUR RES, V15, P321, DOI 10.1029/WR015i002p00321
+   Zawadzki I. I., 1973, Journal of Applied Meteorology, V12, P459, DOI 10.1175/1520-0450(1973)012<0459:SPOPP>2.0.CO;2
+NR 24
+TC 73
+Z9 73
+U1 0
+U2 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-1694
+J9 J HYDROL
+JI J. Hydrol.
+PD OCT 31
+PY 2001
+VL 252
+IS 1-4
+BP 126
+EP 144
+DI 10.1016/S0022-1694(01)00446-2
+PG 19
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA 469VQ
+UT WOS:000170837100009
+DA 2019-03-26
+ER
+
+PT J
+AU Lo, CP
+AF Lo, CP
+TI Modeling the population of China using DMSP operational linescan system
+   nighttime data
+SO PHOTOGRAMMETRIC ENGINEERING AND REMOTE SENSING
+LA English
+DT Article
+ID IMAGERY
+AB Radiance-calibrated DMSP-OLS nighttime lights data of China acquired between March 1996 and January-February 1997 were evaluated for their potential as a source of population data at the provincial, county, and city levels. The light clusters were classified into six categories of light intensity, and their area] extents were extracted from the image. Mean pixel values of light clusters corresponding to the settlements were also extracted. A light volume measure was developed to gauge the three-dimensional capacity of a settlement. A density of light cluster measure known as percent light area was also calculated for each spatial unit. Allometric growth models and linear regression models were developed to estimate the Chinese population and population densities at the three spatial levels using light area, light volume, pixel mean, and percent light area as independent variables. It was found that the DMSP-OLS nighttime data produced reasonably accurate estimates of non-agricultural (urban) population at both the county and city levels using the allometric growth model and the light area or light volume as input. Non-agricultural population density was best estimated using percent light area in a linear regression model at the county level. The total sums of the estimates for non-agricultural population and even population overall closely approximated the true values given by the Chinese statistics at all three spatial levels. It is concluded that the 1-km resolution radiance-calibrated DMSP-OLS nighttime lights image has the potential to provide population estimates of a country and shed light on its urban population from space.
+C1 Univ Georgia, Dept Geog, Athens, GA 30602 USA.
+RP Lo, CP (reprint author), Univ Georgia, Dept Geog, Athens, GA 30602 USA.
+RI Namikawa, Laercio/C-5559-2013
+OI Namikawa, Laercio/0000-0001-7847-1804
+CR BRANDLI HW, 1978, PHOTOGRAMM ENG REM S, V44, P503
+   CHAN KW, 1985, CHINA QUART, V104, P583, DOI DOI 10.1017/50305741000033324
+   CROFT TA, 1978, SCI AM, V239, P86, DOI 10.1038/scientificamerican0778-86
+   Dobson JE, 2000, PHOTOGRAMM ENG REM S, V66, P849
+   Elvidge CD, 1997, PHOTOGRAMM ENG REM S, V63, P727
+   Elvidge CD, 1999, REMOTE SENS ENVIRON, V68, P77, DOI 10.1016/S0034-4257(98)00098-4
+   Geoghegan J., 1998, PEOPLE PIXELS LINKIN, P51
+   LO CP, 1995, INT J REMOTE SENS, V16, P17, DOI 10.1080/01431169508954369
+   LO CP, 1977, ANN ASSOC AM GEOGR, V67, P246, DOI 10.1111/j.1467-8306.1977.tb01137.x
+   LO CP, 1980, CHINA URBANIZATION N, P130
+   *STAT STAT BUR PEO, 1998, CHIN STAT YB 1998
+   STEINWAND DR, 1994, INT J REMOTE SENS, V15, P3463, DOI 10.1080/01431169408954340
+   Sutton P, 1997, PHOTOGRAMM ENG REM S, V63, P1303
+   Tobler W.R., 1969, AREA, V1, P30
+   WELCH R, 1980, PHOTOGRAMM ENG REM S, V46, P201
+NR 15
+TC 97
+Z9 141
+U1 2
+U2 31
+PU AMER SOC PHOTOGRAMMETRY
+PI BETHESDA
+PA 5410 GROSVENOR LANE SUITE 210, BETHESDA, MD 20814-2160 USA
+SN 0099-1112
+J9 PHOTOGRAMM ENG REM S
+JI Photogramm. Eng. Remote Sens.
+PD SEP
+PY 2001
+VL 67
+IS 9
+BP 1037
+EP 1047
+PG 11
+WC Geography, Physical; Geosciences, Multidisciplinary; Remote Sensing;
+   Imaging Science & Photographic Technology
+SC Physical Geography; Geology; Remote Sensing; Imaging Science &
+   Photographic Technology
+GA 469QC
+UT WOS:000170825500005
+DA 2019-03-26
+ER
+
+PT S
+AU Latini, G
+   Grifoni, RC
+   Passerini, G
+AF Latini, G
+   Grifoni, RC
+   Passerini, G
+BE Latini, G
+   Brebbia, CA
+TI The evaluation of boundary layer parameters from elementary
+   meteorological data over complex orography areas
+SO AIR POLLUTION IX
+SE ADVANCES IN AIR POLLUTION SERIES
+LA English
+DT Proceedings Paper
+CT 9th International Conference on Modelling, Monitoring and Management of
+   Air Pollution
+CY SEP 12-14, 2001
+CL ANCONA, ITALY
+SP Wessex Inst Technol, Ancona Univ
+AB Urban Air Pollution models require a reliable depiction of atmospheric boundary layer parameters which influence the transport, the diffusion and the chemical transformations in a domain with typical horizontal dimension of a few tenths of kilometres. This task is generally demanded to meteorological preprocessors, which provide the scaling parameters like the friction velocity u*, the Monin-Obukhov length L and the mixing height H, based on the available surface and upper air meteorological observations in the considered domain. We present a mathematical software code developed for the evaluation of turbulent fluxes and characteristic parameters governing the planetary boundary layer structure from elementary meteorological measurements. Results of the software in the characterisation of the atmospheric boundary layer over complex orography areas are presented. The accuracy of results is compared with data obtained using different approaches.
+C1 Univ Ancona, Dipartimento Energet, Ancona, Italy.
+RP Latini, G (reprint author), Univ Ancona, Dipartimento Energet, Ancona, Italy.
+OI Cocci Grifoni, Roberta/0000-0002-7092-6293
+CR HOLTSLAG AAM, 1983, J CLIM APPL METEOROL, V22, P517, DOI 10.1175/1520-0450(1983)022<0517:ASSFDE>2.0.CO;2
+   KASTEN F, 1980, SOL ENERGY, V24, P177, DOI 10.1016/0038-092X(80)90391-6
+   Latini G, 1999, ADV AIR POLLUT SER, V6, P697
+   Latini G, 1999, ADV AIR POLLUT SER, V6, P1073
+   LATINI G, 2000, AIR POLLUTION 2000, P1073
+   Oke T. R., 1978, Boundary layer climates.
+   PANOFSKY HA, 1983, GEN CHARACTERISTICS, P107
+   PRIESTLEY CHB, 1972, MON WEATHER REV, V100, P81, DOI 10.1175/1520-0493(1972)100<0081:OTAOSH>2.3.CO;2
+   Stull R.B., 1994, INTRO BOUNDARY LAYER
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WIT PRESS
+PI SOUTHAMPTON
+PA ASHURST LODGE, SOUTHAMPTON SO40 7AA, ASHURST, ENGLAND
+SN 1369-5886
+BN 1-85312-877-5
+J9 ADV AIR POLLUT SER
+PY 2001
+VL 10
+BP 35
+EP 44
+PG 10
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA BT30B
+UT WOS:000172548900004
+DA 2019-03-26
+ER
+
+PT J
+AU Hamerlynck, EP
+AF Hamerlynck, EP
+TI Chlorophyll fluorescence and photosynthetic gas exchange responses to
+   irradiance of Tree of Heaven (Ailanthus altissima) in contrasting urban
+   environments
+SO PHOTOSYNTHETICA
+LA English
+DT Article
+DE areal leaf mass; diurnal courses of photosynthetic characteristics;
+   fluorescence induction; irradiance; leaf dimensions; photoprotection;
+   photosystem 2; quantum yield; stomatal conductance
+ID WHOLE-PLANT PERFORMANCE; PHOTON FLUX DENSITIES; ALOCASIA-MACRORRHIZA;
+   STOMATAL RESPONSES; VARIABLE SUNLIGHT; CARBON BALANCE; GROWTH FORM;
+   SCALING SUN; SHADE; PHOTOPROTECTION
+AB Sun-and shade-adapted plants of Ailanthus altissima utilized thermal-dissipative photoprotection (NPQ) across a range of photosynthetic photon flux densities (PPFD), with higher NPQ and lower maximum quantum yield of photosystem 2 photochemistry (F-v/F-m) in sun-adapted individuals, suggesting increased engagement of antennae-based quenching. Photosynthetic quantum requirements (Q(req); number of photons per CO2) were similar in sun and shade plants, but were low and comparable to forest understory species. Diurnal measurements showed that PPFDs in both habitats were consistently above photosynthetic compensation irradiance, and frequently exceeded saturating values. In addition, sun-and shade-adapted individuals possessed stomata that tracked short-term fluctuations in PPFD. Thus A. altissima may be unique in that it couples high, shade-plant like photosynthetic efficiency with high photosynthetic capacity in high-irradiance, while stomatal attributes that optimize water use efficiency are maintained in the shade. These features may contribute to success of A. altissima in establishing in disturbance-prone urban systems, and facilitate its spread into more PPFD-limited and competitive natural ecosystems.
+C1 Rutgers State Univ, Dept Biol Sci, Newark, NJ 07102 USA.
+RP Hamerlynck, EP (reprint author), Rutgers State Univ, Dept Biol Sci, 101 Warren St, Newark, NJ 07102 USA.
+CR Anderson JM, 1997, PHYSIOL PLANTARUM, V100, P214, DOI 10.1034/j.1399-3054.1997.1000202.x
+   Bjorkman O, 1994, ECOPHYSIOLOGY PHOTOS, P17
+   DeLucia EH, 2000, OECOLOGIA, V122, P11, DOI 10.1007/PL00008827
+   DEMMIGADAMS B, 1992, ANNU REV PLANT PHYS, V43, P599, DOI 10.1146/annurev.pp.43.060192.003123
+   FACELLI JM, 1994, ECOLOGY, V75, P1727, DOI 10.2307/1939632
+   FAY PA, 1995, PHYSIOL PLANTARUM, V94, P613, DOI 10.1111/j.1399-3054.1995.tb00975.x
+   Garber S. D., 1987, URBAN NATURALIST
+   Gilbert OL, 1989, ECOLOGY URBAN HABITA
+   Gilmore AM, 1997, PHYSIOL PLANTARUM, V99, P197, DOI 10.1034/j.1399-3054.1997.990127.x
+   HAMERLYNCK E, 1994, INT J PLANT SCI, V155, P583, DOI 10.1086/297196
+   HAMERLYNCK EP, 1994, FOREST ECOL MANAG, V68, P149, DOI 10.1016/0378-1127(94)90042-6
+   HEISEY RM, 1990, AM J BOT, V77, P662, DOI 10.2307/2444812
+   Huxman TE, 1998, PLANT CELL ENVIRON, V21, P1275, DOI 10.1046/j.1365-3040.1998.00396.x
+   KNAPP AK, 1992, AM J BOT, V79, P599, DOI 10.2307/2444875
+   KNAPP AK, 1989, ECOLOGY, V70, P1069, DOI 10.2307/1941376
+   Kowarik I, 1995, J VEG SCI, V6, P853, DOI 10.2307/3236399
+   Kozlowski T. T., 1997, PHYSL WOODY PLANTS
+   LAWRENCE JG, 1991, AM J BOT, V78, P948, DOI 10.2307/2445173
+   Lichtenthaler Hartmut K., 1999, Bulgarian Journal of Plant Physiology, V25, P3
+   LICHTENTHALER HK, 1984, CONTROL LEAF GROWTH, P201
+   LICHTENTHALER HK, 1981, PHOTOSYNTHESIS, V6, P273
+   MULKEY SS, 1993, OECOLOGIA, V96, P526, DOI 10.1007/BF00320510
+   OSMOND CB, 1995, J EXP BOT, V46, P1351, DOI 10.1093/jxb/46.special_issue.1351
+   Osmond CB, 1994, PHOTOINHIBITION PHOT, P1
+   Pan E., 1985, J ENV HORTICULTURE, V3, P158
+   Pearcy R. W., 1998, P250
+   POUYAT RV, 1995, J ENVIRON QUAL, V24, P516, DOI 10.2134/jeq1995.00472425002400030019x
+   Rank B, 1997, PHOTOSYNTHETICA, V33, P467
+   Reich PB, 1998, OECOLOGIA, V114, P471, DOI 10.1007/s004420050471
+   Schreiber U., 1998, P320
+   SIMS DA, 1994, PLANT CELL ENVIRON, V17, P889, DOI 10.1111/j.1365-3040.1994.tb00318.x
+   SIMS DA, 1994, PLANT CELL ENVIRON, V17, P881, DOI 10.1111/j.1365-3040.1994.tb00317.x
+   Singsaas EL, 2000, NEW PHYTOL, V145, P39, DOI 10.1046/j.1469-8137.2000.00556.x
+   Smith MD, 1999, OECOLOGIA, V120, P605, DOI 10.1007/s004420050896
+   VINES HM, 1983, PLANT PHYSIOL, V73, P25, DOI 10.1104/pp.73.1.25
+   WHITEHEAD D, 1995, TREE PHYSIOL, V15, P245, DOI 10.1093/treephys/15.4.245
+   ZAR JH, 1974, BIOSTATISTICAL ANAL
+NR 37
+TC 12
+Z9 23
+U1 1
+U2 16
+PU ACAD SCI CZECH REPUBLIC, INST EXPERIMENTAL BOTANY
+PI PRAGUE 6
+PA NA KARLOVCE 1A, PRAGUE 6 CZ-160 00, CZECH REPUBLIC
+SN 0300-3604
+J9 PHOTOSYNTHETICA
+JI Photosynthetica
+PY 2001
+VL 39
+IS 1
+BP 79
+EP 86
+DI 10.1023/A:1012448019931
+PG 8
+WC Plant Sciences
+SC Plant Sciences
+GA 459TM
+UT WOS:000170267600012
+DA 2019-03-26
+ER

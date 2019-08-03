@@ -1,0 +1,419 @@
+
+PT J
+AU Zhou, F
+   Xiao, F
+   Chang, C
+   Shao, YL
+   Song, CX
+AF Zhou, Fang
+   Xiao, Feng
+   Chang, Cheng
+   Shao, Yulong
+   Song, Chuanxue
+TI Adaptive Model Predictive Control-Based Energy Management for
+   Semi-Active Hybrid Energy Storage Systems on Electric Vehicles
+SO ENERGIES
+LA English
+DT Article
+DE hybrid energy storage system; ultracapacitor; energy management;
+   adaptive model predictive control; online linearization; time-varying
+   Kalman filter
+ID EXTENDED KALMAN FILTER; POWER MANAGEMENT; CHARGE ESTIMATION; FUEL-CELL;
+   BATTERY; OPTIMIZATION; STATE; ULTRACAPACITOR; STRATEGIES; LIFE
+AB This paper deals with the energy management strategy (EMS) for an on-board semi-active hybrid energy storage system (HESS) composed of a Li-ion battery (LiB) and ultracapacitor (UC). Considering both the nonlinearity of the semi-active structure and driving condition uncertainty, while ensuring HESS operation within constraints, an adaptive model predictive control (AMPC) method is adopted to design the EMS. Within AMPC, LiB Ah-throughput is minimized online to extend its life. The proposed AMPC determines the optimal control action by solving a quadratic programming (QP) problem at each control interval, in which the QP solver receives control-oriented model matrices and current states for calculation. The control-oriented model is constructed by linearizing HESS online to approximate the original nonlinear model. Besides, a time-varying Kalman filter (TVKF) is introduced as the estimator to improve the state estimation accuracy. At the same time, sampling time, prediction horizon and scaling factors of AMPC are determined through simulation. Compared with standard MPC, TVKF reduces the estimation error by 1 similar to 3 orders of magnitude, and AMPC reduces LiB Ah-throughput by 4.3% under Urban Dynamometer Driving Schedule (UDDS) driving cycle condition, indicating superior model adaptivity. Furthermore, LiB Ah-throughput of AMPC under various classical driving cycles differs from that of dynamic programming by an average of 6.5% and reduces by an average of 10.6% compared to rule-based strategy of LiB Ah-throughput, showing excellent adaptation to driving condition uncertainty.
+C1 [Zhou, Fang; Xiao, Feng; Chang, Cheng; Shao, Yulong; Song, Chuanxue] Jilin Univ, State Key Lab Automot Simulat & Control, Changchun 130022, Peoples R China.
+RP Song, CX (reprint author), Jilin Univ, State Key Lab Automot Simulat & Control, Changchun 130022, Peoples R China.
+EM zhoufang13@mails.jlu.edu.cn; xiaofengjl@jlu.edu.cn;
+   changchengcl@126.com; shaoyl13@mails.jlu.edu.cn; songchx@126.com
+FU Key Tackling Item in Science and Technology Department of Jilin Province
+   [20150204017GX]
+FX This research is supported by the Key Tackling Item in Science and
+   Technology Department of Jilin Province (20150204017GX).
+CR Borhan HA, 2010, IEEE DECIS CONTR P, P4890, DOI 10.1109/CDC.2010.5718075
+   Borhan H, 2012, IEEE T CONTR SYST T, V20, P593, DOI 10.1109/TCST.2011.2134852
+   Cao J, 2012, IEEE T POWER ELECTR, V27, DOI 10.1109/TPEL.2011.2151206
+   Carter R, 2012, IEEE T VEH TECHNOL, V61, P1526, DOI 10.1109/TVT.2012.2188551
+   Choi ME, 2014, IEEE T VEH TECHNOL, V63, P3600, DOI 10.1109/TVT.2014.2305593
+   Choi ME, 2012, IEEE T SMART GRID, V3, P463, DOI 10.1109/TSG.2011.2164816
+   Erdinc O, 2009, J POWER SOURCES, V194, P369, DOI 10.1016/j.jpowsour.2009.04.072
+   He HW, 2011, ENERGIES, V4, P582, DOI 10.3390/en4040582
+   Hredzak B., 2012, Proceedings of the 2012 IEEE 7th International Power Electronics and Motion Control Conference (ECCE 2012), P2294, DOI 10.1109/IPEMC.2012.6259206
+   Hredzak B, 2015, J POWER SOURCES, V277, P84, DOI 10.1016/j.jpowsour.2014.11.148
+   Hredzak B, 2014, IEEE T POWER ELECTR, V29, P1469, DOI 10.1109/TPEL.2013.2262003
+   Hu XS, 2015, APPL ENERG, V137, P913, DOI 10.1016/j.apenergy.2014.05.013
+   Hu XS, 2014, IEEE T INTELL TRANSP, V15, P1193, DOI 10.1109/TITS.2013.2294675
+   Jorge M., 2006, IEEE T IND ELECTRON, V53, P614
+   Khaligh A, 2010, IEEE T VEH TECHNOL, V59, P2806, DOI 10.1109/TVT.2010.2047877
+   Kuperman A, 2011, RENEW SUST ENERG REV, V15, P981, DOI 10.1016/j.rser.2010.11.010
+   Mesbahi T, 2017, IEEE T SUSTAIN ENERG, V8, P59, DOI 10.1109/TSTE.2016.2582927
+   Miller J. M., 2011, ULTRACAPACITOR APPL, P73
+   Mona I., 2016, ELECTR POW SYST RES, V136, P262
+   Moulik B, 2016, ENERGIES, V9, DOI 10.3390/en9060439
+   Murgovski N., 2012, P IFAC WORKSH ENG PO, P92
+   Ostadi A., 2013, P IEEE TRANSP EL C E, P1
+   Ostadi A, 2015, IEEE T VEH TECHNOL, V64, P4449, DOI 10.1109/TVT.2014.2371912
+   Rui E. A., 2014, IEEE T VEH TECHNOL, V63, P3062
+   Santucci A, 2014, J POWER SOURCES, V258, P395, DOI 10.1016/j.jpowsour.2014.01.118
+   Sepasi S, 2015, ENERGIES, V8, P5217, DOI 10.3390/en8065217
+   Sepasi S, 2014, J POWER SOURCES, V245, P337, DOI 10.1016/j.jpowsour.2013.06.108
+   Shen JY, 2016, IEEE T IND INFORM, V12, P1910, DOI 10.1109/TII.2016.2575798
+   Shen JY, 2014, IEEE T IND INFORM, V10, P2112, DOI 10.1109/TII.2014.2334233
+   Siang F. T., 2013, RENEW SUST ENERG REV, V20, P82
+   Song ZY, 2015, APPL ENERG, V139, P151, DOI 10.1016/j.apenergy.2014.11.020
+   Song ZY, 2015, J POWER SOURCES, V274, P400, DOI 10.1016/j.jpowsour.2014.10.061
+   Wang J, 2011, J POWER SOURCES, V196, P3942, DOI 10.1016/j.jpowsour.2010.11.134
+   Wang Y. Z., 2013, ENERGIES, V105, P304, DOI DOI 10.3390/EN9010025
+   Zhang P, 2015, RENEW SUST ENERG REV, V48, P88, DOI 10.1016/j.rser.2015.03.093
+   Zhang Q, 2016, ENERGIES, V9, DOI 10.3390/en9050341
+   Zhang S, 2017, APPL ENERG, V185, P1654, DOI 10.1016/j.apenergy.2015.12.035
+   Zhang S, 2015, APPL ENERG, V155, P68, DOI 10.1016/j.apenergy.2015.06.003
+NR 38
+TC 6
+Z9 6
+U1 1
+U2 24
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1996-1073
+J9 ENERGIES
+JI Energies
+PD JUL
+PY 2017
+VL 10
+IS 7
+AR 1063
+DI 10.3390/en10071063
+PG 21
+WC Energy & Fuels
+SC Energy & Fuels
+GA FC2WQ
+UT WOS:000406700200234
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Resano, M
+   Zanetti, D
+   Esteban, EM
+   Moral, P
+AF Resano, Magdalena
+   Zanetti, Daniela
+   Esteban, Esther M.
+   Moral, Pedro
+TI X-Chromosome Alu Insertions in Bahia Blanca, Argentina: Assessment of
+   Population Information from Varied Genetic Markers and Usefulness of
+   X-Chromosome Markers to Trace Sex-Biased Parental Contributions
+SO HUMAN BIOLOGY
+LA English
+DT Article
+DE ALU ELEMENTS; HUMAN POPULATIONS; BAHIA BLANCA; ARGENTINA
+ID BUENOS-AIRES; STRS; DIVERSITY; ANCESTRY; DISTANCE; PROVINCE
+AB Bahia Blanca is an urban city in a historically and geographically strategic location for the mixture of different populations in Argentina. In the present study, 10 Alu elements from the X chromosome are analyzed to characterize the genetic composition of the city's population, to compare it with other worldwide populations, and to explore the usefulness of X-chromosome markers for human population genetics purposes. In the Bahia Blanca sample, 7 of 10 Alu insertion frequencies are polymorphic. X-chromosome Alu results in Bahia Blanca are compared with eight different populations from Africa, Europe, and America. Genetic distance analysis indicates that the Bahia Blanca sample is closer to the European and North African samples (average distances of 0.106 and 0.113) than to the Native American (0.163) and sub-Saharan African samples (0.247). Genetic relationships shown by multidimensional scaling illustrate the intermediate position of Bahia Blanca compared with groups in other regions (European, Native American, and African). Admixture results of the Bahia Blanca sample for X-chromosome markers indicate similar proportions of Native American (0.472) and European parental contributions (0.479) and a minor sub-Saharan African contribution (0.049). These results are consistent with the past decade's genetic studies of Argentinean populations that reported higher Native American and sub-Saharan African contributions than previous data.
+C1 [Resano, Magdalena; Zanetti, Daniela; Esteban, Esther M.; Moral, Pedro] Univ Barcelona, Unitat Antropol, Dept Biol Evolut Ecol & Ciencies Ambientals, Barcelona, Spain.
+   [Esteban, Esther M.; Moral, Pedro] Univ Barcelona, Inst Recerca Biodiversitat, Barcelona, Spain.
+RP Moral, P (reprint author), Univ Barcelona, Fac Biol, Dept Biol Evolut Ecol & Ciencies Ambientals, Unitat Antropol, Avda Diagonal 645, E-08028 Barcelona, Spain.
+EM pmoral@ub.edu
+FU Ministerio de Ciencia e Innovacion [CGL2011-27866]
+FX We are grateful to all of the donors for providing blood samples, to the
+   people who contributed to the collection, and to the Consejo Nacional de
+   Investigaciones Cientificas y Tecnicas (CONICET) and the Universidad de
+   Buenos Aires, whose subsidies allowed the collecting and the processing
+   of samples. This research was supported by Ministerio de Ciencia e
+   Innovacion project CGL2011-27866. Finally, we are grateful to Dolores
+   Resano for language revision.
+CR Andrews George Reid, 1989, AFROARGENTINOS BUENO
+   Glesmann LA, 2013, HUM BIOL, V85, P687, DOI 10.3378/027.085.0503
+   Athanasiadis G, 2007, EUR J HUM GENET, V15, P578, DOI 10.1038/sj.ejhg.5201797
+   Avena S., 2007, REV ARG ANTROP BIOL, V9, P56
+   Avena SA, 1999, REV ARGENTINA ANTROP, V2, P211
+   Avena S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034695
+   Avendano S., 2000, USOS COSTUMBRES INDI
+   Batzer MA, 2002, NAT REV GENET, V3, P370, DOI 10.1038/nrg798
+   Bobillo C, 2011, FORENSIC SCI INT-GEN, V5, pE14, DOI 10.1016/j.fsigen.2009.11.005
+   BONATTI Andres Bonatti, 2015, GUERRA INFAME VERDAD
+   Bourgeois S, 2009, AM J PHYS ANTHROPOL, V140, P417, DOI 10.1002/ajpa.21084
+   Callinan PA, 2003, GENE, V317, P103, DOI 10.1016/S0378-1119(03)00662-0
+   CARNESE FR, 2002, CONTEMP PERSPECTIVES, P121
+   Catanesi CI, 2007, HUM BIOL, V79, P463, DOI 10.1353/hub.2007.0049
+   Caviglia M. J., 2003, REV UTEC
+   Corach D, 2010, ANN HUM GENET, V74, P65, DOI 10.1111/j.1469-1809.2009.00556.x
+   Dupanloup I, 2001, MOL BIOL EVOL, V18, P672, DOI 10.1093/oxfordjournals.molbev.a003847
+   Fejerman L, 2005, AM J PHYS ANTHROPOL, V128, P164, DOI 10.1002/ajpa.20083
+   Gaya-Vidal M, 2010, AM J HUM BIOL, V22, P154, DOI 10.1002/ajhb.20967
+   GINTHER C, 1993, EXS, V67, P211
+   Gomes M. V., 2006, B DIGITAL BIBLIOTECA, V9, P2
+   Gusmao L, 2009, INT J LEGAL MED, V123, P227, DOI 10.1007/s00414-008-0309-4
+   Hammerly Dupuy D, 1943, REV GEOGRAF AM, V115
+   Labuda D, 2010, AM J HUM GENET, V86, P353, DOI 10.1016/j.ajhg.2010.01.029
+   Lachance J, 2013, BIOESSAYS, V35, P780, DOI 10.1002/bies.201300014
+   Libiger O, 2009, HUM BIOL, V81, P389, DOI 10.3378/027.081.0401
+   Literas L, 2015, QUADERNS E, V20, P66
+   Nei M., 1987, MOL EVOLUTIONARY GEN
+   Parolin M. L., 2014, 13 C AS LAT ANTR BIO
+   Pigna F, 2005, MITOS HIST ARGENTINA, V2
+   Pigna F., 2009, MITOS HIST ARGENTINA, V1
+   R Core Team, 2013, R LANG ENV STAT COMP
+   Ratto S, 2003, REV INDIAS, V63, P191
+   Ratto S., 2005, ANU ESTUD AM, P219
+   Ratto S., 2005, MUNDO AGRARIO, V5
+   RAYMOND M, 1995, J HERED, V86, P248, DOI 10.1093/oxfordjournals.jhered.a111573
+   Resano M, 2007, AM J HUM BIOL, V19, P827, DOI 10.1002/ajhb.20648
+   REYNOLDS J, 1983, GENETICS, V105, P767
+   Romero J. L., 2005, BREVE HIST ARGENTINA
+   Sabsay F., 2004, BRASAS AUN ARDEN IND
+   Sambrook J, 1989, MOL CLONING, V2
+   Schaffner SF, 2004, NAT REV GENET, V5, P43, DOI 10.1038/nrg1247
+   Schavelzon D., 2003, BUENOS AIRES NEGRA A
+   SCHNEIDER S, 2000, ARLEQUIN VER 2000 SO
+   Wilkins JF, 2006, BIOESSAYS, V28, P290, DOI 10.1002/bies.20378
+NR 45
+TC 0
+Z9 0
+U1 1
+U2 5
+PU WAYNE STATE UNIV PRESS
+PI DETROIT
+PA 4809 WOODWARD AVE, DETROIT, MI 48201-1309 USA
+SN 0018-7143
+EI 1534-6617
+J9 HUM BIOL
+JI Hum. Biol.
+PD OCT
+PY 2017
+VL 88
+IS 4
+BP 275
+EP 286
+DI 10.13110/humanbiology.88.4.0275
+PG 12
+WC Anthropology; Biology; Genetics & Heredity
+SC Anthropology; Life Sciences & Biomedicine - Other Topics; Genetics &
+   Heredity
+GA FE3EF
+UT WOS:000408098500003
+DA 2019-03-26
+ER
+
+PT J
+AU Carra, G
+   Mallick, K
+   Barthelemy, M
+AF Carra, Giulia
+   Mallick, Kirone
+   Barthelemy, Marc
+TI Coalescing colony model: Mean-field, scaling, and geometry
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+AB We analyze the coalescing model where a 'primary' colony grows and randomly emits secondary colonies that spread and eventually coalesce with it. This model describes population proliferation in theoretical ecology, tumor growth, and is also of great interest for modeling urban sprawl. Assuming the primary colony to be always circular of radius r(t) and the emission rate proportional to r(t)(theta), where theta > 0, we derive the mean-field equations governing the dynamics of the primary colony, calculate the scaling exponents versus theta, and compare our results with numerical simulations. We then critically test the validity of the circular approximation for the colony shape and show that it is sound for a constant emission rate (theta = 0). However, when the emission rate is proportional to the perimeter, the circular approximation breaks down and the roughness of the primary colony cannot be discarded, thus modifying the scaling exponents.
+C1 [Carra, Giulia; Mallick, Kirone] CEA, Inst Phys Theor, CNRS, URA 2306, F-91191 Gif Sur Yvette, France.
+   [Barthelemy, Marc] EHESS 54, CNRS, Ctr Anal & Math Sociales, F-75006 Paris, France.
+RP Barthelemy, M (reprint author), EHESS 54, CNRS, Ctr Anal & Math Sociales, F-75006 Paris, France.
+EM marc.barthelemy@ipht.fr
+CR Angel S., 2005, DYNAMICS GLOBAL URBA
+   Barthelemy M., 2016, STRUCTURE DYNAMICS C
+   Clark JS, 2001, AM NAT, V157, P537, DOI 10.1086/319934
+   Fisher RA, 1937, ANN EUGENIC, V7, P355, DOI 10.1111/j.1469-1809.1937.tb02153.x
+   Haustein Volker, 2012, J Clin Bioinforma, V2, P11, DOI 10.1186/2043-9113-2-11
+   Iwata K, 2000, J THEOR BIOL, V203, P177, DOI 10.1006/jtbi.2000.1075
+   Lewis MA, 2016, MATH BIOL INVASIONS
+   Shigesada N, 2002, DISPERSAL ECOLOGY, P350
+   Shigesada N., 1997, INVASION STRATIFIED, P79
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD DEC 29
+PY 2017
+VL 96
+IS 6
+AR 062316
+DI 10.1103/PhysRevE.96.062316
+PG 8
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA FR4DA
+UT WOS:000419014700003
+PM 29347390
+DA 2019-03-26
+ER
+
+PT J
+AU Piovani, D
+   Zachariadis, V
+   Batty, M
+AF Piovani, Duccio
+   Zachariadis, Vassilis
+   Batty, Michael
+TI Quantifying Retail Agglomeration using Diverse Spatial Data
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID NESTED LOGIT MODEL; POPULATION
+AB Newly available data on the spatial distribution of retail activities in cities makes it possible to build models formalized at the level of the single retailer. Current models tackle consumer location choices at an aggregate level and the opportunity new data offers for modeling at the retail unit level lacks an appropriate theoretical framework. The model we present here helps to address these issues. Based on random utility theory, we have built it around the idea of quantifying the role of floor-space and agglomeration in retail location choice. We test this model on the inner area of Greater London. The results are consistent with a super linear scaling of a retailer's attractiveness with its floorspace, and with an agglomeration effect approximated as the total retail floorspace within a 300 m radius from each shop. Our model illustrates many of the issues involved in testing and validating urban simulation models involving spatial data and its aggregation to different spatial scales.
+C1 [Piovani, Duccio; Batty, Michael] UCL, CASA, 90 Tottenham Court Rd, London W1T 4TJ, England.
+   [Zachariadis, Vassilis] IDEA London, Prospect Labs Ltd, 69 Wilson St, London EC2A 2BB, England.
+RP Piovani, D (reprint author), UCL, CASA, 90 Tottenham Court Rd, London W1T 4TJ, England.
+EM d.piovani@ucl.ac.uk
+FU INSIGHT Project (Innovative Policy Modelling and Governance Tools for
+   Sustainable Post-Crisis Urban Development); ERC [249393-ERC-2009-AdG];
+   EPSRC, Digital Economy network [RCUK EP/M023583/1]
+FX All authors thank the EU FP7 for their support through the INSIGHT
+   Project (Innovative Policy Modelling and Governance Tools for
+   Sustainable Post-Crisis Urban Development) (http://www.insight-fp7.eu).
+   M.B. wishes to thank the ERC for support through grant no.
+   249393-ERC-2009-AdG. D.P. acknowledges the support of the EPSRC grant
+   RCUK EP/M023583/1 as part of the Digital Economy network and is grateful
+   to C. Molinero and R. Morphet for continuous and useful discussions, and
+   to A. Ialongo for a long and fruitful conversation on the analysis of
+   the results. Authors would also like to acknowledge the contribution of
+   C. Vargas-Ruiz, J. Serras and P. Ferguson in the development of the the
+   model as described in ref. 37.
+CR Alonso W., 1960, PAPERS P REGIONAL SC, V6, P149, DOI DOI 10.1111/J.1435-5597.1960.TB01710.X
+   Anderson S., 1992, DISCRETE CHOICE THEO
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   BATTY M, 1995, NATURE, V377, P574, DOI 10.1038/377574a0
+   Batty Michael, 2013, Dialogues Hum Geogr, V3, P274, DOI 10.1177/2043820613513390
+   Ben-Akiva M. E, 1985, DISCRETE CHOICE ANAL, V9
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bierlaire M, 2006, ANN OPER RES, V144, P287, DOI 10.1007/s10479-006-0015-x
+   Christaller W, 1966, CENTRAL PLACES SO GE
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   Daly A., 1978, DETERMINANTS TRAVEL, V335, P357
+   Dennis C., 2002, J RETAILING CONSUMER, V9, P185, DOI DOI 10.1016/S0969-6989(01)00021-2
+   DIXIT AK, 1977, AM ECON REV, V67, P297
+   Fiasconaro A, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0151681
+   Heppenstall AJ, 2013, T GIS, V17, P661, DOI 10.1111/tgis.12027
+   Hotelling H, 1990, COLLECTED EC ARTICLE, P50
+   HUFF DL, 1966, LAND ECON, V42, P293, DOI 10.2307/3145346
+   Krugman P, 1998, OXFORD REV ECON POL, V14, P7, DOI 10.1093/oxrep/14.2.7
+   Krugman P., 1990, TECH REP
+   Louf R., 2014, SCI REPORTS, V4
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Manchanda P, 1999, MARKET SCI, V18, P95, DOI 10.1287/mksc.18.2.95
+   McFadden D, 2001, AM ECON REV, V91, P351, DOI 10.1257/aer.91.3.351
+   MCFADDEN D, 1980, J BUS, V53, pS13, DOI 10.1086/296093
+   Millward H, 2013, J TRANSP GEOGR, V28, P101, DOI 10.1016/j.jtrangeo.2012.11.012
+   Pan W, 2013, NATURE COMMUNICATION, V4
+   Suarez A., 2004, J RETAILING CONSUMER, V11, P119
+   Teller C, 2008, J RETAIL CONSUM SERV, V15, P127, DOI 10.1016/j.jretconser.2007.03.003
+   Thunen J. H. von, 1966, ISOLATED STATE ENGLI
+   Um J, 2009, P NATL ACAD SCI USA, V106, P14236, DOI 10.1073/pnas.0901898106
+   Vanhaverbeke L., 2011, PROCEDIA SOCIAL BEHA, V20, P186
+   Wen CH, 2001, TRANSPORT RES B-METH, V35, P627, DOI 10.1016/S0191-2615(00)00045-X
+   WILLIAMS HCWL, 1977, ENVIRON PLANN A, V9, P285, DOI 10.1068/a090285
+   WILSON AG, 1969, J TRANSP ECON POLICY, V3, P108
+   Yang Y, 2012, AM J PREV MED, V43, P11, DOI 10.1016/j.amepre.2012.03.015
+   Zachariadis V., 2015, CUPUM, V2015
+NR 36
+TC 2
+Z9 2
+U1 3
+U2 9
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD JUL 14
+PY 2017
+VL 7
+AR 5451
+DI 10.1038/s41598-017-05304-1
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FA5EA
+UT WOS:000405464200088
+PM 28710413
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Cottineau, C
+AF Cottineau, Cleamentine
+TI MetaZipf. A dynamic meta-analysis of city size distributions
+SO PLOS ONE
+LA English
+DT Article
+ID ZIPFS LAW; CITIES; PERSPECTIVE
+AB The results from urban scaling in recent years have held the promise of increased efficiency to the societies who could actively control the distribution of their cities' size. However, little evidence exists as to the factors which influence the level of urban unevenness, as expressed by the slope of the rank-size distribution, partly because the diversity of results found in the literature follows the heterogeneity of analysis specifications. In this study, I set up a meta-analysis of Zipf's law which accounts for technical as well as topical factors of variations of Zipf's coefficient. I found 86 studies publishing at least one empirical estimation of this coefficient and recorded their metadata into an open database. I regressed the 1962 corresponding estimates with variables describing the study and the estimation process as well as socio-demographic variables describing the territory under enquiry. A dynamic meta-analysis was also performed to look for factors of evolution of city size unevenness. The results of the most interesting models are presented in the article, whereas all analyses can be reproduced on a dedicated online platform. The results show that on average, 40% of the variation of Zipf's coefficients is due to the technical choices. The main other variables associated with distinct evolutions are linked to the urbanisation process rather than the process of economic development and population growth. Finally, no evidence was found to support the effectiveness of past planning actions in modifying this urban feature.
+C1 [Cottineau, Cleamentine] UCL, Ctr Adv Spatial Anal, Urban Dynam Lab, London W1T 4TJ, England.
+RP Cottineau, C (reprint author), UCL, Ctr Adv Spatial Anal, Urban Dynam Lab, London W1T 4TJ, England.
+EM c.cottineau@ucl.ac.uk
+OI Cottineau, Clementine/0000-0002-2452-3901
+FU Engineering and Physical Sciences Research Council [EP/MO23583/1]; EPSRC
+   [EP/MO23583/1]
+FX This work was supported by Engineering and Physical Sciences Research
+   Council project number EP/MO23583/1. The funders had no role in study
+   design, data collection and analysis, decision topublish, or preparation
+   of the manuscript.; The author acknowledges the funding of the EPSRC
+   project number EP/MO23583/1. She thanks Denise Pumain, Elsa Arcaute,
+   Michael Batty and two anonymous reviewers for useful comments and
+   suggestions.
+CR Auerbach F, 1913, PETERMANNS MITT, V59, P74
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   Gabaix X, 2011, J BUS ECON STAT, V29, P24, DOI 10.1198/jbes.2009.06157
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gonzalez-Val R, 2010, J REGIONAL SCI, V50, P952, DOI 10.1111/j.1467-9787.2010.00685.x
+   Harris CD, 1970, CITIES SOVIET UNION, V5
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   JOHNSON GA, 1980, ECON GEOGR, V56, P234, DOI 10.2307/142715
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Kuninaka H, 2008, J PHYS SOC JPN, V77, DOI 10.1143/JPSJ.77.114801
+   Kuznets S, 1955, AM ECON REV, V45, P1
+   Lotka A. J., 1925, ELEMENTS PHYS BIOL
+   Martinez-Fernandez C, 2012, INT J URBAN REGIONAL, V36, P213, DOI 10.1111/j.1468-2427.2011.01092.x
+   MORICONI-EBRARD F., 1993, URBANISATION MONDE D
+   Morrill Richard L., 1970, SPATIAL ORG SOC
+   Nitsch V, 2005, J URBAN ECON, V57, P86, DOI 10.1016/j.jue.2004.09.002
+   PARR JB, 1985, J URBAN ECON, V18, P199, DOI 10.1016/0094-1190(85)90017-8
+   Pumain D, 2004, SCALING LAWS URBAN S
+   Pumain D., 2012, REGION DEV, V36, P31
+   ROSEN KT, 1980, J URBAN ECON, V8, P165, DOI 10.1016/0094-1190(80)90043-1
+   Savage SH, 1997, J ARCHAEOL SCI, V24, P233, DOI 10.1006/jasc.1996.0106
+   Soo KT, 2005, REG SCI URBAN ECON, V35, P239, DOI 10.1016/j.regsciurbeco.2004.04.004
+   United Nations, 2015, 2015 REV WORLD POP P
+   United Nations, 2014, 2014 REV WORLD URBAN
+   World Bank, 2016, WORLD BANK GDP PER C
+   Xu ZL, 2009, URBAN STUD, V46, P2159, DOI 10.1177/0042098009339432
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 28
+TC 2
+Z9 3
+U1 2
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 29
+PY 2017
+VL 12
+IS 8
+AR e0183919
+DI 10.1371/journal.pone.0183919
+PG 22
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FE9SU
+UT WOS:000408544200043
+PM 28850594
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

@@ -1,0 +1,547 @@
+
+PT J
+AU Khoshkbarforoushha, A
+   Ranjan, R
+   Gaire, R
+   Abbasnejad, E
+   Wang, LZ
+   Zomaya, AY
+AF Khoshkbarforoushha, Alireza
+   Ranjan, Rajiv
+   Gaire, Raj
+   Abbasnejad, Ehsan
+   Wang, Lizhe
+   Zomaya, Albert Y.
+TI Distribution Based Workload Modelling of Continuous Queries in Clouds
+SO IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTING
+LA English
+DT Article
+DE Data stream processing workload; continuous query; resource usage
+   estimation; predictable auto-scaling policy; distribution-based
+   admission controller
+ID EXECUTION
+AB Resource usage estimation for managing streaming workload in emerging applications domains such as enterprise computing, smart cities, remote healthcare, and astronomy, has emerged as a challenging research problem. Such resource estimation for processing continuous queries over streaming data is challenging due to: (i) uncertain stream arrival patterns, (ii) need to process different mixes of queries, and (iii) varying resource consumption. Existing techniques approximate resource usage for a query as a single point value which may not be sufficient because it is neither expressive enough nor does it capture the aforementioned nature of streaming workload. In this paper, we present a novel approach of using mixture density networks to estimate the whole spectrum of resource usage as probability density functions. We have evaluated our technique using the linear road benchmark and TPC-H in both private and public clouds. The efficiency and applicability of the proposed approach is demonstrated via two novel applications: i) predictable auto-scaling policy setting which highlights the potential of distribution prediction in consistent definition of cloud elasticity rules; and ii) a distribution based admission controller which is able to efficiently admit or reject incoming queries based on probabilistic service level agreements compliance goals.
+C1 [Khoshkbarforoushha, Alireza; Abbasnejad, Ehsan] Australian Natl Univ, Dept Comp Sci & Engn, Canberra, ACT 0200, Australia.
+   [Khoshkbarforoushha, Alireza; Ranjan, Rajiv; Gaire, Raj] CSIRO, Data61, Canberra, ACT 0200, Australia.
+   [Ranjan, Rajiv] Newcastle Univ, Sch Comp Sci, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+   [Wang, Lizhe] Chinese Acad Sci, Inst Remote Sensing, Beijing 100049, Peoples R China.
+   [Zomaya, Albert Y.] Univ Sydney, Sch Informat Technol, Sydney, NSW 2006, Australia.
+RP Ranjan, R (reprint author), CSIRO, Data61, Canberra, ACT 0200, Australia.; Ranjan, R (reprint author), Newcastle Univ, Sch Comp Sci, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+EM rajiv.ranjan@csiro.au
+RI Zomaya, Albert/G-9697-2017; Ranjan, Rajiv/F-4700-2011
+OI Zomaya, Albert/0000-0002-3090-1059; Ranjan, Rajiv/0000-0002-6610-1328
+CR Ahmad M., 2008, P CIKM 2008, P183
+   Akdere M, 2012, PROC INT CONF DATA, P390, DOI 10.1109/ICDE.2012.64
+   Appelrath H., 2012, P 6 ACM INT C DISTR, P367, DOI DOI 10.1145/2335484.2335525
+   Arasu A, 2006, VLDB J, V15, P121, DOI 10.1007/s00778-004-0147-z
+   Arasu A., 2004, P 13 INT C VER LARG, V30, P480
+   Balkesen C., 2013, P 7 ACM INT C DISTR, P15, DOI DOI 10.1145/2488222.2488258
+   Bishop C. M., 1994, NCRG94004 AST U
+   Cervino J., 2012, Proceedings of the 2012 IEEE International Conference on Data Engineering Workshops (ICDEW 2012), P295, DOI 10.1109/ICDEW.2012.40
+   Chi Y, 2013, PROC VLDB ENDOW, V6, P673, DOI 10.14778/2536360.2536367
+   Duggan J., 2011, P 2011 ACM SIGMOD IN, P337
+   Duggan Jennie, 2014, P 17 INT C EXT DAT T, P109
+   Ganapathi A, 2009, PROC INT CONF DATA, P592, DOI 10.1109/ICDE.2009.130
+   Gneiting T, 2007, J AM STAT ASSOC, V102, P359, DOI 10.1198/016214506000001437
+   GOOD IJ, 1952, J ROY STAT SOC B, V14, P107
+   Hall M. A., 1999, THESIS
+   Heinze T, 2014, P 30 IEEE INT C DAT, P296
+   Hirzel M., 2014, ACM COMPUT SURV, V46
+   Li J, 2012, PROC VLDB ENDOW, V5, P1555, DOI 10.14778/2350229.2350269
+   Lim HC, 2010, P 7 INT C AUT COMP, P1, DOI DOI 10.1145/1809049.1809051
+   Liu C, 2014, IEEE T PARALL DISTR, V25, P2234, DOI 10.1109/TPDS.2013.191
+   Mozafari  B., 2013, P 2013 ACM SIGMOD IN, P301, DOI DOI 10.1145/2463676.2467800
+   Nabney I, 2002, NETLAB ALGORITHMS PA
+   Wu WT, 2014, PROC VLDB ENDOW, V7, P1857, DOI 10.14778/2733085.2733092
+   Wu WT, 2013, PROC VLDB ENDOW, V6, P925, DOI 10.14778/2536206.2536219
+   Wu WT, 2013, PROC INT CONF DATA, P1081, DOI 10.1109/ICDE.2013.6544899
+   Xiong P., 2011, P 2 ACM S CLOUD COMP, V15
+   Xiong PC, 2015, IEEE T PARALL DISTR, V26, P1441, DOI 10.1109/TPDS.2014.2319095
+   Yang C, 2014, J COMPUT SYST SCI, V80, P1563, DOI 10.1016/j.jcss.2014.04.022
+   Zhang XY, 2014, J COMPUT SYST SCI, V80, P1008, DOI 10.1016/j.jcss.2014.02.007
+NR 29
+TC 6
+Z9 6
+U1 1
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2168-6750
+J9 IEEE T EMERG TOP COM
+JI IEEE Trans. Emerg. Top. Comput.
+PD JAN-MAR
+PY 2017
+VL 5
+IS 1
+BP 120
+EP 133
+DI 10.1109/TETC.2016.2597546
+PG 14
+WC Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA EO0BT
+UT WOS:000396364000013
+DA 2019-03-26
+ER
+
+PT J
+AU Jarvis, CH
+   Kraftl, P
+   Dickie, J
+AF Jarvis, Claire H.
+   Kraftl, P.
+   Dickie, J.
+TI (Re)Connecting spatial literacy with children's geographies: GPS, Google
+   Earth and children's everyday lives
+SO GEOFORUM
+LA English
+DT Article
+DE Spatial literacy; Children's geographies; Children's mobilities;
+   Environmental cognition; Memory; Emotion
+ID EMOTIONAL GEOGRAPHIES; URBAN ARCHITECTURES; PHONE TECHNOLOGIES;
+   YOUNG-CHILDREN; MOBILITY; ABILITIES; THINKING; PEOPLE; PLACE; GIS
+AB This article sets out an agenda for research that (re)connects research on children's geographies and childhood studies with studies of spatial literacy. Research on children's environmental cognition and, latterly, spatial literacy, has been artificially and problematically separated from the majority of research in childhood studies. Our fundamental aim in this article is to argue for and to evidence greater attention to how spatial literacy and children's everyday lives are embedded in one another. To support our broader call for a synthetic research agenda, we draw on some more focussed, qualitative empirical material taken from a large-scale project about children's mobilities and everyday lives in newly-built urban communities. Our analysis focuses upon children's interpretations of Global Positioning Systems (GPS) tracks of their mobilities, set against a background of Google Earth imagery. In doing so, we showcase one suite of ways in which research on environmental cognition and children's geographies might proceed together. We demonstrate that children not only displayed analytical skills (for instance, in relation to scaling effects and pattern recognition) but that many also exercised higher-level, critical analysis, especially in relation to errors on Google Earth outputs. Simultaneously, we interrogate the recursive articulation of a range of qualitative indicators of spatial literacy, with children's everyday mobilities, routines, emotions and memories. The paper analyses how new conceptual languages and technologies being propounded by spatial literacy scholars could afford a more enriched understanding of key contemporary concerns for children's geographers, and, recursively, what spatial literacy scholars might gain from engaging with (especially qualitative) research prompted by those concerns. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Jarvis, Claire H.] Univ Leicester, Dept Geog, Bennett Bldg,Univ Rd, Leicester LE1 7RH, Leics, England.
+   [Kraftl, P.] Univ Birmingham, Birmingham, W Midlands, England.
+   [Dickie, J.] Univ Stirling, Stirling, Scotland.
+RP Jarvis, CH (reprint author), Univ Leicester, Dept Geog, Bennett Bldg,Univ Rd, Leicester LE1 7RH, Leics, England.
+EM chj2@le.ac.uk
+FU Economic and Social Research Council (ESRC) [RES-062-23-1549];
+   University of Warwick; University of Northampton; University of
+   Leicester; Economic and Social Research Council [ES/G016895/1]
+FX The 'New Urbanisms, New Citizens: Children and Young People's Everyday
+   Life and Participation in Sustainable Communities' research project was
+   funded by the Economic and Social Research Council (ESRC) (Reference:
+   RES-062-23-1549) and was a collaborative project between the University
+   of Warwick, The University of Northampton and University of Leicester.
+   We thank Professor Pia Christensen (Principal Investigator) and Drs.
+   John Horton and Sophie Hadfield-Hill for their comments and
+   contributions to earlier drafts of this paper. Above all, we express our
+   thanks to the children and young people who participated in this
+   research.
+CR Baker TR, 2015, J GEOGR, V114, P118, DOI 10.1080/00221341.2014.950684
+   Barker J, 2009, MOBILITIES-UK, V4, P1, DOI 10.1080/17450100802657939
+   Bartos AE, 2013, EMOT SPACE SOC, V9, P89, DOI 10.1016/j.emospa.2013.02.008
+   Blaut JM, 1997, ANN ASSOC AM GEOGR, V87, P152, DOI 10.1111/0004-5608.00045
+   Blazek M, 2013, EMOT SPACE SOC, V9, P1, DOI 10.1016/j.emospa.2013.07.006
+   Blazek M, 2013, EMOT SPACE SOC, V9, P24, DOI 10.1016/j.emospa.2013.02.003
+   Chen J, 2015, KNOWL ENG REV, V30, P106, DOI 10.1017/S0269888913000350
+   Christensen P, 2011, J MIX METHOD RES, V5, P227, DOI 10.1177/1558689811406121
+   Colls R, 2009, CONTESTED BODIES OF CHILDHOOD AND YOUTH, P1
+   Conte A., 1995, RICERCHE PSICOLOGIA, V19, P95
+   Cope M., 2009, QUALITATIVE GIS MIXE
+   Cornoldi C, 2003, VISUO SPATIAL WORKIN
+   Cyvin J, 2013, NORSK GEOGR TIDSSKR, V67, P162, DOI 10.1080/00291951.2013.804877
+   Danby S, 2016, CHILD GEOGR, V14, P141, DOI 10.1080/14733285.2015.1126231
+   Davies DJ, 2012, RES SCI TECHNOL EDUC, V30, P311, DOI 10.1080/02635143.2012.738420
+   Ergler CR, 2016, CHILD GEOGR, V14, P129, DOI 10.1080/14733285.2015.1129394
+   Freeman C, 2016, CHILD GEOGR, V14, P158, DOI 10.1080/14733285.2015.1126552
+   Freundschuh S, 1997, T GIS, V2, P361
+   Frick A, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00386
+   Frick A, 2012, COGNITIVE DEV, V27, P270, DOI 10.1016/j.cogdev.2012.05.004
+   Gagen EA, 2015, T I BRIT GEOGR, V40, P140, DOI 10.1111/tran.12048
+   Gersmehl PJ, 2007, J GEOGR, V106, P181, DOI 10.1080/00221340701809108
+   Golledge R, 2008, ANN ASSOC AM GEOGR, V98, P285, DOI 10.1080/00045600701851093
+   Hadfield-Hill S, 2014, CHILD GEOGR, V12, P135, DOI 10.1080/14733285.2013.783985
+   Hart R, 1979, CHILDRENS EXPERIENCE
+   Holloway SL, 2014, CHILD GEOGR, V12, P377, DOI 10.1080/14733285.2014.930414
+   Holloway SL, 2010, PROG HUM GEOG, V34, P583, DOI 10.1177/0309132510362601
+   Horton J, 2015, ENVIRON PLANN A, V47, P903, DOI 10.1068/a140401p
+   Horton J, 2014, SOC CULT GEOGR, V15, P94, DOI 10.1080/14649365.2013.864782
+   Ishikawa T, 2006, COGNITIVE PSYCHOL, V52, P93, DOI 10.1016/j.cogpsych.2005.08.003
+   Ishikawa T, 2013, PROF GEOGR, V65, P636, DOI 10.1080/00330124.2012.724350
+   James Allison, 1998, THEORIZING CHILDHOOD
+   Jarvis CH, 2011, PROCD SOC BEHV, V21, DOI 10.1016/j.sbspro.2011.07.022
+   Jones O., 2003, CHILDRENS GEOGRAPHIE, V1, P25, DOI DOI 10.1080/14733280302185
+   Jones O, 2012, PALG MACMIL MEMORY, P1
+   Jones O, 2008, CHILD GEOGR, V6, P195, DOI 10.1080/14733280801963193
+   Kraftl P, 2012, CRITICAL GEOGRAPHIES OF CHILDHOOD AND YOUTH: CONTEMPORARY POLICY AND PRACTICE, P1, DOI 10.1332/policypress/9781847428462.001.0001
+   Kraftl P, 2013, EMOT SPACE SOC, V9, P13, DOI 10.1016/j.emospa.2013.01.004
+   Kraftl P, 2014, ENVIRON PLANN D, V32, P274, DOI 10.1068/d21012
+   Kraftl P, 2013, T I BRIT GEOGR, V38, P436, DOI 10.1111/j.1475-5661.2012.00536.x
+   Kullman K, 2012, CHILD GEOGR, V10, P1, DOI 10.1080/14733285.2011.638174
+   Lee J, 2012, J GEOGR, V111, P15, DOI 10.1080/00221341.2011.583262
+   Liben LS, 1997, ANN ASSOC AM GEOGR, V87, P159, DOI 10.1111/0004-5608.00046
+   Liben LS, 2010, SPAT COGN COMPUT, V10, P105, DOI 10.1080/13875860903568550
+   MACKETT R, 2007, BUILT ENV, V33, P454, DOI DOI 10.2148/BENV.33.4.454
+   Marsh M, 2007, ANN ASSOC AM GEOGR, V97, P696, DOI 10.1111/j.1467-8306.2007.00578.x
+   Marshall DJ, 2014, CHILD GEOGR, V12, P281, DOI 10.1080/14733285.2014.922678
+   Massey D, 2005, FOR SPACE
+   Matthews H, 2000, CHILDHOOD, V7, P279, DOI 10.1177/0907568200007003003
+   Matthews H., 1992, MAKING SENSE PLACE C
+   MATTHEWS MH, 1984, T I BRIT GEOGR, V9, P89, DOI 10.2307/621869
+   Mikkelsen MR, 2009, MOBILITIES-UK, V4, P37, DOI 10.1080/17450100802657954
+   Mitchell K, 2012, ENVIRON PLANN D, V30, P788, DOI 10.1068/d9011
+   Mohring W, 2014, DEV PSYCHOL, V50, P1614, DOI 10.1037/a0035905
+   Montello DR, 1999, ANN ASSOC AM GEOGR, V89, P515, DOI 10.1111/0004-5608.00160
+   Morrow V, 2001, HEALTH EDUC RES, V16, P255, DOI 10.1093/her/16.3.255
+   Nansen B, 2015, CHILD GEOGR, V13, P467, DOI 10.1080/14733285.2014.887813
+   National Research Council, 2006, LEARN THINK SPAT GIS
+   Nystuen J., 1968, SPATIAL ANAL READER, P35
+   O'Brien M, 2000, CHILDHOOD, V7, P257, DOI 10.1177/0907568200007003002
+   ODPM [Office of the Deputy Prime Minister], 2003, SUST COMM
+   Oliver M, 2014, CHILD GEOGR, V12, P249, DOI 10.1080/14733285.2014.890370
+   Oliver M, 2010, J PHYS ACT HEALTH, V7, P102, DOI 10.1123/jpah.7.1.102
+   Patterson TC, 2007, J GEOGR, V106, P145, DOI 10.1080/00221340701678032
+   Philo C., 2003, CHILDRENS GEOGRAPHIE, V1, P7, DOI DOI 10.1080/14733280302188
+   Plester B, 2002, J ENVIRON PSYCHOL, V22, P29, DOI 10.1006/jevp.2001.0245
+   Plowman L, 2016, CHILD GEOGR, V14, P190, DOI 10.1080/14733285.2015.1127326
+   Porter G, 2012, CHILD GEOGR, V10, P131, DOI 10.1080/14733285.2012.667915
+   Pyyry N, 2015, STUD CHILDHOOD YOUTH, P107
+   Pyyry N, 2016, DISCOURSE-ABINGDON, V37, P102, DOI 10.1080/01596306.2014.929841
+   Ross NJ, 2009, QUAL RES, V9, P605, DOI 10.1177/1468794109343629
+   Schultz RB, 2008, J GEOGR, V107, P27, DOI 10.1080/00221340802049844
+   SELF CM, 1992, PROG HUM GEOG, V16, P315, DOI 10.1177/030913259201600301
+   Skelton T, 2013, URBAN STUD, V50, P455, DOI 10.1177/0042098012468900
+   Tversky B, 2003, ENVIRON BEHAV, V35, P66, DOI 10.1177/0013916502238865
+   Verma CL, 2012, CHILD GEOGR, V10, P441, DOI 10.1080/14733285.2012.726075
+   Walker M, 2012, CHILD GEOGR, V10, P135, DOI 10.1080/14733285.2012.667916
+   Walker M, 2009, CHILD GEOGR, V7, P107, DOI 10.1080/14733280902798829
+   Witten K, 2013, CHILD GEOGR, V11, P215, DOI 10.1080/14733285.2013.779839
+   Young L, 2003, ENVIRON PLANN D, V21, P607, DOI 10.1068/d46j
+NR 80
+TC 2
+Z9 2
+U1 3
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0016-7185
+EI 1872-9398
+J9 GEOFORUM
+JI Geoforum
+PD MAY
+PY 2017
+VL 81
+BP 22
+EP 31
+DI 10.1016/j.geoforum.2017.02.006
+PG 10
+WC Geography
+SC Geography
+GA EU9VF
+UT WOS:000401387100003
+DA 2019-03-26
+ER
+
+PT J
+AU Chitsazan, M
+   Aghazadeh, N
+   Mirzaee, Y
+   Golestan, Y
+   Mosavi, S
+AF Chitsazan, M.
+   Aghazadeh, N.
+   Mirzaee, Y.
+   Golestan, Y.
+   Mosavi, S.
+TI Hydrochemical characteristics and quality assessment of urban
+   groundwater in Urmia City, NW Iran
+SO WATER SCIENCE AND TECHNOLOGY-WATER SUPPLY
+LA English
+DT Article
+DE groundwater quality; hydrochemistry; sustainability; urban area; Urmia
+ID ASIAN CITIES; URBANIZATION; IMPACTS
+AB The aim of this study was to evaluate the quality and hydrochemical characteristics of urban groundwater in Urmia City, northwest of Iran. In order, 59 groundwater samples were collected and analyzed for various anions and cations. Result shows that, mineral weathering, ion exchange and anthropogenic activity are the main hydrochemical processes controlling urban groundwater chemistry. The evaluation of groundwater geochemistry in the flow path beneath the urban area shows that, due to land use changes, the hydrochemical change occurs predominantly in electrical conductivity (EC), Cl- and NO3. The EC is increased in the direction of groundwater flow and in the last decade in industrial areas. According to the groundwater quality index values, most of the samples fit into the good quality class and samples with poor quality are located in the old residential, parks and agricultural areas of the city. The calculation of the irrigation water quality indices (Na%, sodium adsorption ratio, permeability index, residual sodium carbonate), and industrial water quality indices (Ryznar stability index, Langelier saturation index, Larson- Skold, Puckorius scaling index) indicated that the quality of water for irrigation purposes could be classified in the excellent to permissible categories. However, as for the industrial uses, the results also revealed that most of the samples could be classified in the aggressive and very aggressive categories.
+C1 [Chitsazan, M.; Aghazadeh, N.; Mirzaee, Y.] Shahid Chamran Univ Ahvaz, Dept Geol, Ahwaz, Iran.
+   [Golestan, Y.; Mosavi, S.] West Azarbayjan Environm Agencies, Orumiyeh, Iran.
+RP Aghazadeh, N (reprint author), Shahid Chamran Univ Ahvaz, Dept Geol, Ahwaz, Iran.
+EM nosrataghazadeh@yahoo.com
+CR Abu Jabal MS, 2015, ARAB J GEOSCI, V8, P2203, DOI 10.1007/s12517-014-1346-6
+   Aghazadeh N, 2012, ARAB J GEOSCI, V5, P565, DOI 10.1007/s12517-010-0210-6
+   Aghazadeh N, 2011, ENVIRON MONIT ASSESS, V176, P183, DOI 10.1007/s10661-010-1575-4
+   [Anonymous], 2011, GUID DRINK WAT QUAL
+   *APHA, 1995, STAND METH EX WAT WA, P1
+   Azerbaijan Regional Water Authority (ARWA), 2015, EV GROUNDW URM PLAIN
+   Benouara N, 2016, WATER SCI TECH-W SUP, V16, P1132, DOI 10.2166/ws.2016.030
+   Brindha K., 2016, EXPOS HEALTH, V9, P89
+   Davis M, 2009, ASIA-PAC J-JPN FOCU, V7
+   Dechesne M, 2004, J ENVIRON MANAGE, V71, P371, DOI 10.1016/j.jenvman.2004.04.005
+   EATON FM, 1950, SOIL SCI, V69, P123, DOI 10.1097/00010694-195002000-00004
+   ESMAEILIVARDANJANI, 2015, ENVIRON MONIT ASSESS, V187, DOI DOI 10.1007/S10661-014-4261-0
+   GIBBS RJ, 1970, SCIENCE, V170, P1088, DOI 10.1126/science.170.3962.1088
+   Horton R.K., 1965, J WATER POLLUTION CO, V37, P300
+   Howard KWF, 2015, ENVIRON EARTH SCI, V73, P2543, DOI 10.1007/s12665-014-3370-y
+   Kazemi GA, 2011, PHYS CHEM EARTH, V36, P150, DOI 10.1016/j.pce.2010.04.015
+   Kumar H, 2009, INDIAN J CHEM TECHN, V16, P401
+   Larson TS, 1958, CORROSION, V16, P285
+   del Campo MAM, 2014, ENVIRON MONIT ASSESS, V186, P2979, DOI 10.1007/s10661-013-3595-3
+   Ministry of Roads and Urban Development of Iran (MRUDI), 2015, DEV URB AR URM CIT
+   Mohamed MMA, 2016, ENVIRON EARTH SCI, V75, DOI 10.1007/s12665-015-4942-1
+   Nabavi M. H, 1976, PREFACE GEOLOGY IRAN
+   Nematollahi MJ, 2016, ENVIRON MONIT ASSESS, V188, DOI 10.1007/s10661-015-4968-6
+   Oiste AM, 2014, INT J ENVIRON SCI TE, V11, P2095, DOI 10.1007/s13762-013-0477-8
+   Parkhurst D. L., 2013, 994259 US GEOL SURV, P99
+   Piper A. M., 1944, T AM GEOPHYS UNION, V25, P914, DOI DOI 10.1029/TR025I006P00914
+   Ragunath HM, 1987, GROUNDWATER, P563
+   Rai SC, 2015, ARAB J GEOSCI, V8, P8039, DOI 10.1007/s12517-015-1811-x
+   Ravikumar P., 2015, Environmental Research, Engineering and Management, V71, P15, DOI 10.5755/j01.erem.71.1.9809
+   Richards L. A., 1954, HANDBOOK, V160
+   Ryznar JW, 1944, J AM WAT ASS, V36, P472
+   Sawyer C. N., 1967, CHEM ENV ENG, P532
+   Stuyfzand P. J., 1989, P 18 TWSA WAT WORK
+   Subramani T, 2005, ENVIRON GEOL, V47, P1099, DOI 10.1007/s00254-005-1243-0
+   Taniguchi M, 2007, VADOSE ZONE J, V6, P591, DOI 10.2136/vzj2006.0094
+   WHO, 2004, GUID DRINK WAT QUAL
+   Wilcox L. V., 1955, CIRCULAR, V969
+   Yan BZ, 2016, WATER SCI TECH-W SUP, V16, P460, DOI 10.2166/ws.2015.156
+   Zhang N, 2016, WATER SCI TECH-W SUP, V16, P1277, DOI 10.2166/ws.2016.058
+NR 39
+TC 1
+Z9 1
+U1 0
+U2 5
+PU IWA PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 1606-9749
+J9 WATER SCI TECH-W SUP
+JI Water Sci. Technol.-Water Supply
+PD OCT
+PY 2017
+VL 17
+IS 5
+BP 1410
+EP 1425
+DI 10.2166/ws.2017.039
+PG 16
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA FP9CE
+UT WOS:000417944300023
+DA 2019-03-26
+ER
+
+PT J
+AU Rybski, D
+   Reusser, DE
+   Winz, AL
+   Fichtner, C
+   Sterzel, T
+   Kropp, JP
+AF Rybski, Diego
+   Reusser, Dominik E.
+   Winz, Anna-Lena
+   Fichtner, Christina
+   Sterzel, Till
+   Kropp, Juergen P.
+TI Cities as nuclei of sustainability?
+SO ENVIRONMENT AND PLANNING B-URBAN ANALYTICS AND CITY SCIENCE
+LA English
+DT Article
+DE Scaling; cities; climate change; development process; allometry
+ID GREENHOUSE-GAS EMISSIONS; EUROPEAN CITIES; CITY SIZE; POPULATION;
+   DENSITY
+AB We have assembled CO2 emission figures from collections of urban GHG emission estimates published in peer-reviewed journals or reports from research institutes and non-governmental organizations. Analyzing the scaling with population size, we find that the exponent is development dependent with a transition from super- to sub-linear scaling. From the climate change mitigation point of view, the results suggest that urbanization is desirable in developed countries. Further, we compare this analysis with a second scaling relation, namely the fundamental allometry between city population and area, and propose that density might be a decisive quantity too. Last, we derive the theoretical country-wide urban emissions by integration and obtain a dependence on the size of the largest city.
+C1 [Rybski, Diego; Winz, Anna-Lena; Fichtner, Christina; Kropp, Juergen P.] Potsdam Inst Climate Impact Res, Potsdam, Germany.
+   [Sterzel, Till] Climate Babel Lindenstr Potsdam, Potsdam, Germany.
+   [Kropp, Juergen P.] Univ Potsdam, Dept Geo & Environm Sci, Potsdam, Germany.
+RP Rybski, D (reprint author), Potsdam Inst Climate Impact Res PIK, POB 60 12 03, D-14412 Potsdam, Germany.
+EM ca-dr@rybski.de
+RI ; Kropp, Juergen/D-8220-2012
+OI Rybski, Diego/0000-0001-6125-7705; Kropp, Juergen/0000-0001-7791-3420
+FU European Community's Seventh Framework Programme [308497]; Federal
+   Ministry for Education and Research of Germany under the rooftop of the
+   Potsdam Research Cluster for Georisk Analysis, Environmental Change and
+   Sustainability (PROGRESS) [03IS2191B]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: The
+   research leading to these results has received funding from the European
+   Community's Seventh Framework Programme under Grant Agreement No. 308497
+   (Project RAMSES). We appreciate financial support by the Federal
+   Ministry for Education and Research of Germany who provided support
+   under the rooftop of the Potsdam Research Cluster for Georisk Analysis,
+   Environmental Change and Sustainability (PROGRESS) Initiative (grant
+   number # 03IS2191B).
+CR Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Arbesman S, 2011, PHYSICA A, V390, P2155, DOI 10.1016/j.physa.2011.02.013
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Auerbach F, 1913, PETERMANNS MITT, V59, P74
+   Batty M, 2011, ENVIRON PLANN B, V38, P753, DOI 10.1068/b3805ed
+   Baur AH, 2015, SCI TOTAL ENVIRON, V520, P49, DOI 10.1016/j.scitotenv.2015.03.030
+   Bereitschaft B, 2013, PROF GEOGR, V65, P612, DOI 10.1080/00330124.2013.799991
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Brown Marilyn A., 2009, POLICY SOC, V27, P285, DOI DOI 10.1016/J.POLSOC.2009.01.001
+   Carbon Trust, 2007, ANN REPORT
+   Cottineau C, 2015, ARXIV E PRINTS, V1507, P7878
+   Creutzig F, 2015, P NATL ACAD SCI USA, V112, P6283, DOI 10.1073/pnas.1315545112
+   D'Autilia R, 2015, PHYSICA A, V419, P668, DOI 10.1016/j.physa.2014.10.048
+   Dodman D, 2009, ENVIRON URBAN, V12, P185
+   Dore CJ, 2006, TECHNICAL REPORT
+   Fluschnik T, 2014, ARXIV14040353PHYSICS
+   Fong W. K., 2014, GLOBAL PROTOCOL COMM
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Fuller RA, 2009, BIOL LETTERS, V5, P352, DOI 10.1098/rsbl.2009.0010
+   Glaeser EL, 2010, J URBAN ECON, V67, P404, DOI 10.1016/j.jue.2009.11.006
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gudipudi R, 2016, ENERG POLICY, V91, P352, DOI 10.1016/j.enpol.2016.01.015
+   Hammerling DM, 2012, GEOPHYS RES LETT, V39, DOI 10.1029/2012GL051203
+   Hoornweg D, 2011, ENVIRON URBAN, V23, P207, DOI 10.1177/0956247810392270
+   ICLEI, 2009, TECHNICAL REPORT
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   Kennedy CA, 2011, TECHNICAL REPORT
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kornhuber K, 2016, EXPLORING ENV KUZNET
+   Lankao PR, 2008, CLIM RES, V38, P17, DOI 10.3354/cr00773
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Lutz R, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.012804
+   Makido Y, 2012, URBAN CLIM, V2, P55, DOI 10.1016/j.uclim.2012.10.006
+   Marcotullio PJ, 2013, CLIMATIC CHANGE, V121, P621, DOI 10.1007/s10584-013-0977-z
+   Minx J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035039
+   Mohajeri N, 2015, TRANSPORT RES D-TR E, V35, P116, DOI 10.1016/j.trd.2014.11.025
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Ou JP, 2013, LANDSCAPE ECOL, V28, P1889, DOI 10.1007/s10980-013-9943-4
+   PUMAIN D, 1997, GEOJOURNAL, V43, P307
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rybski D, 2013, ENVIRON PLANN A, V45, P1266, DOI 10.1068/a4678
+   Sarkar S, 2015, ARXIV150900959V1PHYS
+   Sarzynski A., 2008, SHRINKING CARBON FOO
+   Satterthwaite D, 2008, ENVIRON URBAN, V20, P539, DOI 10.1177/0956247808096127
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Shalizi CR, ARXIV11024101STATAP
+   Sobolevsky S, 2014, ARXIV14054301PHYSICS
+   Sovacool BK, 2010, ENERG POLICY, V38, P4856, DOI 10.1016/j.enpol.2009.10.001
+   STEWART JQ, 1947, SCIENCE, V106, P179, DOI 10.1126/science.106.2748.179
+   The World Bank, GDP PER CAP PPP CURR
+   The World Bank, POP LARG CIT UN WORL
+   The World Bank, POP TOT
+   Tollefson J, 2012, NATURE, V492, P20, DOI 10.1038/492020a
+   Wattenbach M, 2015, ENRGY PROCED, V76, P388, DOI 10.1016/j.egypro.2015.07.847
+   Yakubo K, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022803
+   Zipf GK, 2012, HUMAN BEHAV PRINCIPL
+NR 62
+TC 5
+Z9 5
+U1 0
+U2 5
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 2399-8083
+EI 2399-8091
+J9 ENVIRON PLAN B-URBAN
+JI Env. Plan. B-Urban Anal. CIty Sci.
+PD MAY
+PY 2017
+VL 44
+IS 3
+BP 425
+EP 440
+DI 10.1177/0265813516638340
+PG 16
+WC Environmental Studies; Geography; Regional & Urban Planning; Urban
+   Studies
+SC Environmental Sciences & Ecology; Geography; Public Administration;
+   Urban Studies
+GA EU3DB
+UT WOS:000400907700003
+DA 2019-03-26
+ER
+
+PT J
+AU Salat, S
+AF Salat, Serge
+TI A systemic approach of urban resilience: power laws and urban growth
+   patterns
+SO INTERNATIONAL JOURNAL OF URBAN SUSTAINABLE DEVELOPMENT
+LA English
+DT Article
+DE urban planning; resilience; adaptive complex systems; networks; power
+   laws
+ID SCALE; ECOLOGY; ECOSYSTEMS; ALLOMETRY; EVOLUTION; CITIES
+AB Resilient historical cities are the product of evolution and they have been shaped by incremental adaptation to fluctuations and by shocks of various magnitudes. Adaptive complex cities operate as systems and they obey certain universal laws: the distribution of elements reflects organic growth processes, such as the ones described by allometric growth and inverse power laws in biology. Their elements and connections organization does not obey Gaussian laws (concentration around averages). They are not aggregates of inert elements but integrated highly differentiated self-organized wholes. They exhibit a hierarchical configurational order characteristic of complex adaptive systems, with nested subsystems ordered in a hierarchy of scales united by mathematical regularities. Planners need to be aware of these laws of adaptive complexity and plan with rather than counter to these emergent properties in order to enhance resilience. Understanding the universality of complex systems order, which characterizes living systems, and which modernist city planning has violated, would allow planning more resilient cities.
+C1 [Salat, Serge] Urban Morphol & Complex Syst Inst, Paris, France.
+RP Salat, S (reprint author), Urban Morphol & Complex Syst Inst, Paris, France.
+EM serge.salat@gmail.com
+CR Barabasi A-L, 2014, LINKED EVERYTHING IS
+   Barthelemy M, 2013, SCI REP-UK, V3, DOI 10.1038/srep02153
+   Batty M., 2013, NEW SCI CITIES
+   Batty M, 2016, LANDSCAPE URBAN PLAN
+   BENGUIGUI L, 1991, GEOGR ANAL, V23, P362
+   Bertalanffy Lv, 1969, GEN SYSTEMS THEORY
+   Bertaud A., 2003, CLEARING AIR ATLANTA
+   Brown J. H., 2000, SCALING BIOL
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   Carpenter S, 2001, ECOSYSTEMS, V4, P765, DOI 10.1007/s10021-001-0045-9
+   Castells M., 1989, INFORM CITY INFORM T
+   Chave J, 2003, ENVIRON RESOUR ECON, V26, P527, DOI 10.1023/B:EARE.0000007348.42742.49
+   Corbusier L., 1933, THE RADIANT CITY
+   Corbusier L., 1924, URBANISME, P284
+   Corson F, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.048703
+   Ernest SKM, 2003, ECOL LETT, V6, P990, DOI 10.1046/j.1461-0248.2003.00526.x
+   Floater G., 2014, COPENHAGEN GREEN EC
+   Floater Graham, 2013, STOCKHOLM GREEN EC L
+   Fujita M., 1999, SPATIAL EC CITIES RE
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   HOLLING CS, 1992, ECOL MONOGR, V62, P447, DOI 10.2307/2937313
+   Jacobs J., 1999, NATURE EC
+   Jacobs J, 1970, EC CITIES
+   Jarcy XD., 2015, CORBUSIER FASCISME F
+   Katifori E, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.048704
+   Kerkhoff AJ, 2006, ECOL LETT, V9, P419, DOI 10.1111/j.1461-0248.2006.00888.x
+   Kerkhoff AJ, 2007, BIOSCIENCE, V57, P489, DOI 10.1641/B570606
+   Krob D., 2014, COMPLEXITE SIMPLEXIT
+   Levin S. A., 1999, FRAGILE DOMINION COM
+   LEVIN SA, 1992, ECOLOGY, V73, P1943, DOI 10.2307/1941447
+   MARSHALL A., 1890, PRINCIPLES EC
+   MIT Tsinghua University and Energy Foundation, 2011, DES CLEAN EN CIT NEW
+   Mumford L, 1961, CITY HIST
+   Perelman M., 2015, CORBUSIER FROIDE VIS
+   PETERS RH, 1980, SYNTHESE, V43, P257, DOI 10.1007/BF00413927
+   Peterson G, 1998, ECOSYSTEMS, V1, P6, DOI 10.1007/s100219900002
+   PRIGOGINE I, 1972, PHYS TODAY, V25, P38
+   Prigogine I, 1977, NOBEL LECT
+   Pumain D, 2006, METHODS SER, V3, P169
+   Rosenthal S., 2004, HDB REGIONAL URBAN E, V4, P2119, DOI DOI 10.1016/S1574-0080(04)80006-3
+   Roth C, 2012, J R SOC INTERFACE, V9, P2540, DOI 10.1098/rsif.2012.0259
+   Salat S., 2017, EC FDN SUSTAINABLE U
+   Salat S, 2016, SBE 16 TUR C P
+   Salat S., 2017, TRANSFORMING URBAN S
+   Salat S., 2015, EC SPATIALE GRAND PA
+   Salat S., 2011, CITIES FORMS SUSTAIN
+   Salat S., 2015, PARIS NEW YORK 1215, VXV, P7
+   Salat S, 2014, ARCHNET-IJAR, V8, P77
+   Salat S, 2011, PROCEDIA ENGINEER, V21, P1193, DOI 10.1016/j.proeng.2011.11.2130
+   Salingaros NA, 2014, PRINCIPLES URBAN STR
+   Simon H., 1977, MODELS DISCOVERY OTH, P258
+   Simon HA., 1962, P AM PHILOS SOC, P106
+   Thompson DW., 1917, GROWTH FORM, P467
+   Walker B, 2006, RESILIENCE THINKING
+   WEAVER W, 1948, Am Sci, V36, P536
+   World Bank & Chreod Ltd, 2015, SPAT TRANSF SHANGH 2
+   Yang J., 2010, DOES ENERGY FOLLOW U
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 58
+TC 4
+Z9 4
+U1 4
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1756-5723
+EI 1756-5731
+J9 INT J URBAN SUSTAIN
+JI Int. J. Urban Sustain. Dev.
+PY 2017
+VL 9
+IS 2
+SI SI
+BP 107
+EP 135
+DI 10.1080/19463138.2016.1277227
+PG 29
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA FH8AX
+UT WOS:000411415200002
+DA 2019-03-26
+ER

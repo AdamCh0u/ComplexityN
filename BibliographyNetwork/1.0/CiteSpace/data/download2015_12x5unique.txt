@@ -1,0 +1,436 @@
+
+PT J
+AU Takaguchi, T
+   Lambiotte, R
+AF Takaguchi, Taro
+   Lambiotte, Renaud
+TI Sufficient conditions of endemic threshold on metapopulation networks
+SO JOURNAL OF THEORETICAL BIOLOGY
+DE Infectious diseases; Complex networks; Epidemiology
+ID COMPLEX NETWORKS; INFECTIOUS-DISEASES; RANDOM GRAPHS; TRANSMISSION;
+   VACCINATION; EXPLANATION; PERCOLATION; EPIDEMICS; INTERNET; CITIES
+AB In this paper, we focus on susceptible-infected-susceptible dynamics on metapopulation networks, where nodes represent subpopulations, and where agents diffuse and interact. Recent studies suggest that heterogeneous networlc structure between elements plays an important role in determining the threshold of infection rate at the onset of epidemics, a fundamental quantity governing the epidemic dynamics. We consider the general case in which the infection rate at each node depends on its population size, as shown in recent empirical observations. We first prove that a sufficient condition for the endemic threshold (i.e., its upper bound), previously derived based on a mean-field approximation of network structure, also holds true for arbitrary networks. We also derive an improved condition showing that networks with the rich-club property (i.e., high connectivity between nodes with a large number of links) are more prone to disease spreading. The dependency of infection rate on population size introduces a considerable difference between this upper bound and estimates based on mean-field approximations, even when degree-degree correlations are considered. We verify the theoretical results with numerical simulations. (C) 2015 Elsevier Ltd. All rights reserved.
+OI Lambiotte, Renaud/0000-0002-0583-4595
+CR Anderson R, 1991, INFECT DIS HUMANS DY
+   ANDERSON RM, 1982, SCIENCE, V215, P1053, DOI 10.1126/science.7063839
+   Barthelemy M, 2010, J THEOR BIOL, V267, P554, DOI 10.1016/j.jtbi.2010.09.015
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Callaway DS, 2000, PHYS REV LETT, V85, P5468, DOI 10.1103/PhysRevLett.85.5468
+   CARROTHERS GAP, 1956, J AM I PLANNERS, V22, P94, DOI 10.1080/01944365608979229
+   Castellano C, 2012, SCI REP-UK, V2, DOI 10.1038/srep00371
+   Chung F., 1997, SPECTRAL GRAPH THEOR
+   Cohen R, 2000, PHYS REV LETT, V85, P4626, DOI 10.1103/PhysRevLett.85.4626
+   Colizza V, 2006, NAT PHYS, V2, P110, DOI 10.1038/nphys209
+   Colizza V, 2008, J THEOR BIOL, V251, P450, DOI 10.1016/j.jtbi.2007.11.028
+   Colizza V, 2007, NAT PHYS, V3, P276, DOI 10.1038/nphys560
+   de Oliveira MM, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.016129
+   Dorogovtsev SN, 2008, REV MOD PHYS, V80, P1275, DOI 10.1103/RevModPhys.80.1275
+   Dorogovtsev SN, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040601
+   Earn DJD, 2000, SCIENCE, V287, P667, DOI 10.1126/science.287.5453.667
+   Ferreira SC, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.066113
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Hanski I, 2000, NATURE, V404, P755, DOI 10.1038/35008063
+   Hasegawa T, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.042809
+   Iggidr A, 2012, MATH POPUL STUD, V19, P115, DOI 10.1080/08898480.2012.693844
+   Jolly AM, 2002, SEX TRANSM INFECT, V78, pI145, DOI 10.1136/sti.78.suppl_1.i145
+   Juher D, 2014, MATH MODEL NAT PHENO, V9, P108, DOI 10.1051/mmnp/20149207
+   Juher D, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.041920
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kunegis J, 2013, P 22 INT C WORLD WID, P1343
+   Laumann EO, 1999, SEX TRANSM DIS, V26, P250, DOI 10.1097/00007435-199905000-00003
+   Lowndes CM, 2002, SEX TRANSM INFECT, V78, pI69, DOI 10.1136/sti.78.suppl_1.i69
+   Lund H, 2013, J STAT PHYS, V151, P367, DOI 10.1007/s10955-013-0690-3
+   Masuda N, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/9/093009
+   Mata AS, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.042820
+   MAY RM, 1987, NATURE, V326, P137, DOI 10.1038/326137a0
+   McCallum H, 2001, TRENDS ECOL EVOL, V16, P295, DOI 10.1016/S0169-5347(01)02144-9
+   MOLLOY M, 1995, RANDOM STRUCT ALGOR, V6, P161, DOI 10.1002/rsa.3240060204
+   Newman M. E., 2010, NETWORKS INTRO
+   Newman MEJ, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026126
+   Newman MEJ, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.208701
+   Opsahl T., 2011, WHY ANCHORAGE IS NOT
+   Pastor-Satorras R, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.036104
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Saldana J, 2010, MATH MODEL NAT PHENO, V5, P22, DOI 10.1051/mmnp/20105602
+   Saldana J, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.012902
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Serrano M. A., 2007, LARGE SCALE STRUCTUR, P35
+   Smith MJ, 2009, P NATL ACAD SCI USA, V106, P7905, DOI 10.1073/pnas.0809145106
+   Tildesley MJ, 2006, NATURE, V440, P83, DOI 10.1038/nature04324
+   Zhou S, 2004, IEEE COMMUN LETT, V8, P180, DOI 10.1109/LCOMM.2004.823426
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 49
+TC 2
+Z9 2
+SN 0022-5193
+EI 1095-8541
+PD SEP 7
+PY 2015
+VL 380
+BP 134
+EP 143
+DI 10.1016/j.jtbi.2015.05.024
+UT WOS:000359505200015
+PM 26037308
+ER
+
+PT J
+AU Talukdar, D
+AF Talukdar, Debabrata
+TI Research productivity patterns in the organizational behavior and human
+   resource management literature
+SO INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT
+DE organizational behavior; Lotka's Law; research productivity patterns;
+   empirical regularity; bibliometric distributions; human resource
+   management
+ID LOTKAS LAW; BIBLIOMETRIC DISTRIBUTIONS; SCIENTIFIC PRODUCTIVITY;
+   CUMULATIVE ADVANTAGE; COMPUTER-SCIENCE; RESEARCH OUTPUT; GROWTH;
+   STATISTICS; MECHANISM; FRONTIERS
+AB Closely following the analysis approach used for similar studies in the economics and finance literature, we present the first study to examine if there exists an empirical regularity in the bibliometric patterns of research productivity in the organizational behavior (OB) and human resource management (HRM) literature. Our results present strong evidence that there indeed exists a distinct empirical regularity. It is the so-called Generalized Lotka's Law of scientific productivity pattern: The number of authors publishing n papers is about 1/n(c) of those publishing one paper. The observed pattern in the OB and HRM area is interestingly very consistent with those in much older, related business disciplines.
+CR AKERLOF GA, 1970, Q J ECON, V84, P488, DOI 10.2307/1879431
+   ALLISON PD, 1974, AM SOCIOL REV, V39, P596, DOI 10.2307/2094424
+   Andriani P, 2009, ORGAN SCI, V20, P1053, DOI 10.1287/orsc.1090.0481
+   Augier M, 2005, ORGAN SCI, V16, P85, DOI 10.1287/orsc.1040.0108
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bino PGD, 2005, EUR J COMP ECON, V2, P261
+   BOOKSTEIN A, 1977, J AM SOC INFORM SCI, V28, P206
+   BOROKHOVICH KA, 1995, J FINANC, V50, P1691, DOI 10.2307/2329331
+   Caligiuri P., 1999, INT J HUM RESOUR MAN, V10, P515
+   CHUNG KH, 1992, ABACUS-J ACCOUNT BUS, V28, P168, DOI 10.1111/j.1467-6281.1992.tb00278.x
+   CHUNG KH, 1990, J FINANC, V45, P301, DOI 10.2307/2328824
+   CHUNG KH, 1992, J RISK INSUR, V59, P489, DOI 10.2307/253060
+   COILE RC, 1977, J AM SOC INFORM SCI, V28, P366, DOI 10.1002/asi.4630280610
+   Cole J. R, 1973, SOCIAL STRATIFICATIO
+   Cox R. A. K., 1991, REV ECON STAT, V73, P729
+   DiPrete TA, 2006, ANNU REV SOCIOL, V32, P271, DOI 10.1146/annurev.soc.32.061604.123127
+   Elvira MM, 2005, INT J HUM RESOUR MAN, V16, P2265, DOI 10.1080/09585190500358703
+   Feller W, 1968, INTRO PROBABILITY TH
+   Fernandez-Alles M, 2009, J AM SOC INF SCI TEC, V60, P161, DOI 10.1002/asi.20947
+   Friedman M, 1966, METHODOLOGY POSITIVE
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   GANS JS, 1994, J ECON PERSPECT, V8, P165, DOI 10.1257/jep.8.1.165
+   Gomez-Mejia L, 2009, INT J HUM RESOUR MAN, V20, P1843, DOI 10.1080/09585190903142316
+   GOMEZMEJIA LR, 1992, ACAD MANAGE J, V35, P921, DOI 10.2307/256535
+   Grove WA, 2007, AM ECON REV, V97, P506, DOI 10.1257/aer.97.2.506
+   Gupta BM, 1998, INFORM PROCESS MANAG, V34, P121, DOI 10.1016/S0306-4573(97)00043-5
+   HODGSON G, 1999, ECON J, V109, P165
+   HOLBROOK MB, 1986, J MARKETING, V50, P104, DOI 10.2307/1251588
+   Huber JC, 1998, INFORM PROCESS MANAG, V34, P471, DOI 10.1016/S0306-4573(98)00013-2
+   Huber JC, 2002, J AM SOC INF SCI TEC, V53, P209, DOI 10.1002/asi.10025
+   Karen P., 2004, J SCHOLARLY PUBL, V35, P103
+   Khilji SE, 2006, INT J HUM RESOUR MAN, V17, P1171, DOI 10.1080/09585190600756384
+   Kiessling T, 2005, INT J HUM RESOUR MAN, V16, P22, DOI 10.1080/0958519042000295939
+   KOENIG M, 1995, J AM SOC INFORM SCI, V46, P386, DOI 10.1002/(SICI)1097-4571(199506)46:5<386::AID-ASI9>3.0.CO;2-V
+   LABAND DN, 1994, J POLIT ECON, V102, P194, DOI 10.1086/261927
+   Lotka AJ, 1926, J WASHINGTON ACAD SC, V12, P317
+   LOVELL MC, 1973, J ECON LIT, V11, P27
+   Mandelbrot B., 1954, Transactions of the Institute of Radio Engineers Professional Group on Information Theory, VPGIT-3, P124
+   Merton R. K., 1973, SOCIOLOGY SCI THEORE, P439
+   Mittal V, 2008, MARKET SCI, V27, P430, DOI 10.1287/mksc.1080.0361
+   Morris SA, 2007, J AM SOC INF SCI TEC, V58, P1764, DOI 10.1002/asi.20661
+   MURPHY LJ, 1973, J AM SOC INFORM SCI, V24, P461, DOI 10.1002/asi.4630240607
+   Palmer D, 2006, ADMIN SCI QUART, V51, P535, DOI 10.2189/asqu.51.4.535
+   PRICE DJD, 1976, J AM SOC INFORM SCI, V27, P292, DOI 10.1002/asi.4630270505
+   RADHAKRISHNAN T, 1979, J AM SOC INFORM SCI, V30, P51
+   Rainer RK, 2005, COMMUN ACM, V48, P91, DOI 10.1145/1042091.1042096
+   Rodgers Robert, 1999, J PUBL ADM RES THEOR, V9, P473
+   Schoonhoven CB, 2005, ORGAN SCI, V16, P453, DOI 10.1287/orsc.1050.0162
+   Schoonhoven CB, 2005, ORGAN SCI, V16, P327, DOI 10.1287/orsc.1050.0147
+   Schorr A E, 1974, REFERENCE Q, V14, P32
+   SCHORR AE, 1975, J AM SOC INFORM SCI, V26, P189, DOI 10.1002/asi.4630260308
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Starbuck WH, 2005, ORGAN SCI, V16, P180, DOI 10.1287/orsc.1040.0107
+   STIGLER GJ, 1995, J POLIT ECON, V103, P331, DOI 10.1086/261986
+   Strogatz Steven, 2009, NY TIMES
+   SUBRAMANYAM K, 1979, IEEE T PROF COMMUN, V22, P187, DOI 10.1109/TPC.1979.6501759
+   Talukdar D, 2011, J BUS ETHICS, V98, P137, DOI 10.1007/s10551-010-0539-5
+   VOOS H, 1974, J AM SOC INFORM SCI, V25, P270, DOI 10.1002/asi.4630250410
+   Whitfield J, 2006, BEAT HEART LIFE ENER
+   WORTHEN DB, 1978, METHOD INFORM MED, V17, P190
+   ZIVNEY TL, 1992, J FINANC, V47, P295, DOI 10.2307/2329099
+NR 61
+TC 2
+Z9 2
+SN 0958-5192
+EI 1466-4399
+PD FEB 21
+PY 2015
+VL 26
+IS 4
+BP 467
+EP 484
+DI 10.1080/09585192.2011.561218
+UT WOS:000345364800003
+ER
+
+PT J
+AU Stott, I
+   Soga, M
+   Inger, R
+   Gaston, KJ
+AF Stott, Iain
+   Soga, Masashi
+   Inger, Richard
+   Gaston, Kevin J.
+TI Land sparing is crucial for urban ecosystem services
+SO FRONTIERS IN ECOLOGY AND THE ENVIRONMENT
+ID BIODIVERSITY; ECOLOGY; GRADIENT
+AB The world's cities must grow to accommodate an increasing urban population, and achieving this with minimal impact on ecosystem structures and functions is a major challenge. At opposite ends of a possible development spectrum are "land sharing" - extensive sprawling urbanization where built land and natural space are interspersed - and "land sparing" - intensive and extremely compact urbanization alongside separate, large, contiguous green space. Using case studies across urbanization gradients, we demonstrate that land sparing is crucial for sustaining a majority of ecosystem services. Conversely, some land sharing may also be necessary to ensure that people benefit from urban green space. Future urban development should carefully consider green space provision, to maximize the services provided by urban ecosystems. This can be achieved by optimizing distributions of development intensity across cities by means of top-down, policy-led approaches.
+RI Inger, Richard/D-3445-2009
+OI Inger, Richard/0000-0003-1660-3706; Stott, Iain/0000-0002-1399-3596;
+   Gaston, Kevin J./0000-0002-7235-7928
+CR Anderson BJ, 2009, J APPL ECOL, V46, P888, DOI 10.1111/j.1365-2664.2009.01666.x
+   Bennett EM, 2009, ECOL LETT, V12, P1394, DOI 10.1111/j.1461-0248.2009.01387.x
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Edmondson JL, 2014, SCI TOTAL ENVIRON, V472, P444, DOI 10.1016/j.scitotenv.2013.11.025
+   Fischer J, 2014, CONSERV LETT, V7, P149, DOI 10.1111/conl.12084
+   Folke C, 2004, ANNU REV ECOL EVOL S, V35, P557, DOI 10.1146/annurev.ecolsys.35.021103.105711
+   Gaston KJ, 2013, J APPL ECOL, V50, P830, DOI 10.1111/1365-2664.12087
+   Gold John R, 2013, EXPERIENCE MODERNISM
+   Green RE, 2005, SCIENCE, V307, P550, DOI 10.1126/science.1106049
+   Hahs AK, 2006, LANDSCAPE URBAN PLAN, V78, P435, DOI 10.1016/j.landurbplan.2005.12.005
+   Henderson V., 2000, NATL BUREAU EC RES W, V7503
+   Keniger LE, 2013, INT J ENV RES PUB HE, V10, P913, DOI 10.3390/ijerph10030913
+   Lin BB, 2013, J APPL ECOL, V50, P1161, DOI 10.1111/1365-2664.12118
+   MA ( Millennium Ecosystem Assessment), 2005, SUMM DEC MAK
+   McDonnell MJ, 2008, LANDSCAPE ECOL, V23, P1143, DOI 10.1007/s10980-008-9253-4
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   Melo PC, 2009, REG SCI URBAN ECON, V39, P332, DOI 10.1016/j.regsciurbeco.2008.12.002
+   Oberndorfer E, 2007, BIOSCIENCE, V57, P823, DOI 10.1641/B571005
+   Phalan B, 2011, SCIENCE, V333, P1289, DOI 10.1126/science.1208742
+   Ramalho CE, 2012, TRENDS ECOL EVOL, V27, P179, DOI 10.1016/j.tree.2011.10.008
+   RIBA ( Royal Institute of British Architects), 2013, CIT HLTH CHECK DES C
+   Sassen S., 1995, WORLD CITIES WORLD S
+   Seto KC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023777
+   Shochat E, 2006, TRENDS ECOL EVOL, V21, P186, DOI 10.1016/j.tree.2005.11.019
+   Tyrvainen L, 2007, LANDSCAPE URBAN PLAN, V79, P5, DOI 10.1016/j.landurbplan.2006.03.003
+   UNEP- WCMC ( United Nations Environment Programme- World Conservation Monitoring Centre), 2007, UK NAT EC ASS TECHN
+   White MP, 2013, PSYCHOL SCI, V24, P920, DOI 10.1177/0956797612464659
+NR 27
+TC 33
+Z9 35
+SN 1540-9295
+EI 1540-9309
+PD SEP
+PY 2015
+VL 13
+IS 7
+BP 387
+EP 393
+DI 10.1890/140286
+UT WOS:000360583200018
+ER
+
+PT J
+AU Bajardi, P
+   Delfino, M
+   Panisson, A
+   Petri, G
+   Tizzoni, M
+AF Bajardi, Paolo
+   Delfino, Matteo
+   Panisson, Andre
+   Petri, Giovanni
+   Tizzoni, Michele
+TI Unveiling patterns of international communities in a global city using
+   mobile phone data
+SO EPJ DATA SCIENCE
+DE mobile phone data; entropy; urban geography
+ID PERSISTENT HOMOLOGY; CITIES; TOPOLOGY; NETWORK; GROWTH; SEGREGATION;
+   DENSITY; MALARIA; IMPACT
+AB We analyse a large mobile phone activity dataset provided by Telecom Italia for the Telecom Big Data Challenge contest. The dataset reports the international country codes of every call/SMS made and received by mobile phone users in Milan, Italy, between November and December 2013, with a spatial resolution of about 200 meters. We first show that the observed spatial distribution of international codes well matches the distribution of international communities reported by official statistics, confirming the value of mobile phone data for demographic research. Next, we define an entropy function to measure the heterogeneity of the international phone activity in space and time. By comparing the entropy function to empirical data, we show that it can be used to identify the city's hotspots, defined by the presence of points of interests. Eventually, we use the entropy function to characterize the spatial distribution of international communities in the city. Adopting a topological data analysis approach, we find that international mobile phone users exhibit some robust clustering patterns that correlate with basic socio-economic variables. Our results suggest that mobile phone records can be used in conjunction with topological data analysis tools to study the geography of migrant communities in a global city.
+RI Tizzoni, Michele/H-6442-2016
+OI Tizzoni, Michele/0000-0001-7246-2341; Petri,
+   Giovanni/0000-0003-1847-5031
+CR Amini A, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds31
+   Arango J, 2000, INT SOC SCI J, V52, P283, DOI 10.1111/1468-2451.00259
+   Batty M., 1994, FRACTAL CITIES
+   Batty Michael., 2013, NEW SCI CITIES
+   Becker RA, 2011, IEEE PERVAS COMPUT, V10, P18, DOI 10.1109/MPRV.2011.44
+   Bengtsson L, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001083
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Calabrese F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020814
+   Calabrese F, 2011, IEEE T INTELL TRANSP, V12, P141, DOI 10.1109/TITS.2010.2074196
+   Carlsson G, 2009, B AM MATH SOC, V46, P255, DOI 10.1090/S0273-0979-09-01249-X
+   Chan JM, 2013, P NATL ACAD SCI USA, V110, P18566, DOI 10.1073/pnas.1313480110
+   de Silva V, 2007, ALGEBR GEOM TOPOL, V7, P339, DOI 10.2140/agt.2007.7.339
+   de Silva V, 2011, DISCRETE COMPUT GEOM, V45, P737, DOI 10.1007/s00454-011-9344-x
+   Deville P, 2014, P NATL ACAD SCI USA, V111, P15888, DOI 10.1073/pnas.1408439111
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Edelsbrunner H, 2008, CONTEMP MATH, V453, P257
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grauwin S, 2014, ARXIV14064400
+   Horak D., 2009, J STAT MECH-THEORY E, V2009
+   Iglewicz B, 1993, STAT TECHN, V16
+   Isaacman S, 2011, LECT NOTES COMPUT SC, V6696, P133, DOI 10.1007/978-3-642-21726-5_9
+   Jones G, 2013, 3 AJAX FANS STABBED
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Le Menach A, 2011, SCI REP-UK, V1, DOI 10.1038/srep00093
+   Lee H, 2011, I S BIOMED IMAGING, P841, DOI 10.1109/ISBI.2011.5872535
+   Louail T, 2014, SCI REP-UK, V4, DOI 10.1038/srep05276
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Lu X, 2012, P NATL ACAD SCI USA, V109, P11576, DOI 10.1073/pnas.1203882109
+   Lum PY, 2013, SCI REP-UK, V3, DOI 10.1038/srep01236
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   MASSEY DS, 1985, SOCIOL SOC RES, V69, P315
+   Mocanu D, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0061981
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   Nicolau M, 2011, P NATL ACAD SCI USA, V108, P7265, DOI 10.1073/pnas.1102826108
+   Palmer JRB, 2013, DEMOGRAPHY, V50, P1105, DOI 10.1007/s13524-012-0175-z
+   Pamuk A, 2004, INT J URBAN REGIONAL, V28, P287, DOI 10.1111/j.0309-1317.2004.00520.x
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Pei T, 2014, INT J GEOGR INF SCI, V28, P1988, DOI 10.1080/13658816.2014.913794
+   Petri G, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066506
+   Ratti C, 2006, ENVIRON PLANN B, V33, P727, DOI 10.1068/b32047
+   Reades J, 2007, IEEE PERVAS COMPUT, V6, P30, DOI 10.1109/MPRV.2007.53
+   Reades J, 2009, ENVIRON PLANN B, V36, P824, DOI 10.1068/b34133t
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Schneider CM, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2013.0246
+   Singh G, 2007, TOPOLOGICAL METHODS
+   Singh G, 2008, J VISION, V8, DOI 10.1167/8.8.11
+   Smith C., 2013, P 2013 C COMP SUPP C, P683
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Tausz A, 2011, ARXIV11083545
+   Tizzoni M, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003716
+   Toole Jameson L., 2012, P ACM SIGKDD INT WOR, P1, DOI [10.1145/2346496.2346498, DOI 10.1145/2346496.2346498]
+   Venables A, 1999, SPATIAL EC CITIES RE
+   Wesolowski A, 2012, SCIENCE, V338, P267, DOI 10.1126/science.1223467
+   Wesolowski A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035319
+   Wirz M, 2013, EPJ DATA SCI, V2, DOI 10.1140/epjds17
+   Yao Y, 2009, J CHEM PHYS, V130, DOI 10.1063/1.3103496
+NR 63
+TC 13
+Z9 13
+SN 2193-1127
+PD DEC
+PY 2015
+VL 4
+IS 1
+AR 3
+DI 10.1140/epjds/s13688-015-0041-5
+UT WOS:000368069900003
+ER
+
+PT J
+AU Solecki, W
+   Seto, KC
+   Balk, D
+   Bigio, A
+   Boone, CG
+   Creutzig, F
+   Fragkias, M
+   Lwasa, S
+   Marcotullio, P
+   Romero-Lankao, P
+   Zwickel, T
+AF Solecki, William
+   Seto, Karen C.
+   Balk, Deborah
+   Bigio, Anthony
+   Boone, Christopher G.
+   Creutzig, Felix
+   Fragkias, Michail
+   Lwasa, Shuaib
+   Marcotullio, Peter
+   Romero-Lankao, Patricia
+   Zwickel, Timm
+TI A conceptual framework for an urban areas typology to integrate climate
+   change mitigation and adaptation
+SO URBAN CLIMATE
+DE Urbanization; Typology; Climate change; GHG emissions; Vulnerability
+AB Urban areas are key sources of greenhouse gas (GHG) emissions and also are vulnerable to climate change. The recent IPCC Fifth Assessment Report illustrates a clear need for more research on urban strategies for climate change adaptation and mitigation. However, missing from the current literature on climate change and urban areas is a conceptual framework that integrates mitigation and adaptation perspectives and strategies. Because cities vary with respect to development histories, economic structure, urban form, institutional and financial capacities among other factors, it is critical to develop a framework that permits cross-city comparisons beyond simple single measures like population size.
+   The primary purpose of this paper is to propose a conceptual framework for a multi-dimensional urbanization climate change typology that considers the underlying and proximate causes of GHG emissions and climate change vulnerabilities. The paper reviews some of the basic steps required to build such a typology and associated challenges that must be overcome via a demonstration of a pilot typology with nine case study cities. The paper shows how the proposed framework can be used to evaluate and compare the conditions of GHG emissions and climate change vulnerability across cities at different phases in the urbanization process. (C) 2015 Published by Elsevier B.V.
+RI Seto, Karen/C-2722-2008
+OI Fragkias, Michail/0000-0001-5185-3159; Lwasa,
+   Shuaib/0000-0003-4312-2836; Marcotullio, Peter/0000-0001-8133-1204
+CR Adger WN, 2006, GLOBAL ENVIRON CHANG, V16, P268, DOI 10.1016/j.gloenvcha.2006.02.006
+   Adger WN, 2009, FRONT ECOL ENVIRON, V7, P150, DOI 10.1890/070148
+   Anas A, 1998, J ECON LIT, V36, P1426
+   Arnell N, 2011, FRAMEWORK NEW GENERA
+   Baiocchi G, 2015, GLOBAL ENVIRON CHANG, V34, P13, DOI 10.1016/j.gloenvcha.2015.06.001
+   BALK D, 2009, POPULATION DYNAMICS, P80
+   Barter P, 1999, THESIS
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Biesbroek GR, 2009, HABITAT INT, V33, P230, DOI 10.1016/j.habitatint.2008.10.001
+   Bulkeley H, 2013, ROUTL CRIT INTRO URB, P1
+   Bulkeley H, 2015, URBAN POLITICS OF CLIMATE CHANGE: EXPERIMENTATION AND THE GOVERNING OF SOCIO-TECHNICAL TRANSITIONS, P1
+   Cervero R, 1997, TRANSPORT RES D-TR E, V2, P199, DOI 10.1016/S1361-9209(97)00009-6
+   Collier D, 2012, POLIT RES QUART, V65, P217, DOI 10.1177/1065912912437162
+   Creutzig F, 2015, P NATL ACAD SCI USA, V112, P6283, DOI 10.1073/pnas.1315545112
+   Dodman D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016
+   Duguma LA, 2014, ENVIRON MANAGE, V54, P420, DOI 10.1007/s00267-014-0331-x
+   Duranton G., 2004, HDB REGIONAL URBAN E, V4, P2063, DOI DOI 10.1016/S1574-0080(04)80005-1
+   Eakin H, 2006, ANNU REV ENV RESOUR, V31, P365, DOI 10.1146/annurev.energy.30.050504.144352
+   Eakin H, 2009, ENVIRON SCI POLICY, V12, P398, DOI 10.1016/j.envsci.2008.09.003
+   Ewing R, 2001, TRANSPORT RES REC, P87, DOI 10.3141/1780-10
+   Ewing R, 2010, J AM PLANN ASSOC, V76, P265, DOI 10.1080/01944361003766766
+   Field, 2012, IPCC MANAGING RISKS
+   Fragkias M, 2009, COMPUT ENVIRON URBAN, V33, P189, DOI 10.1016/j.compenvurbsys.2008.08.005
+   Garschagen M, 2015, CLIMATIC CHANGE, V133, P37, DOI 10.1007/s10584-013-0812-6
+   Hamin EM, 2009, HABITAT INT, V33, P238, DOI 10.1016/j.habitatint.2008.10.005
+   Howse J, 2001, J VISUAL LANG COMPUT, V12, P299, DOI 10.1006/jvlc.2000.0210
+   ICLEI, 2008, LOC GOV OP PROT QUAN
+   Jabareen YR, 2006, J PLAN EDUC RES, V26, P38, DOI 10.1177/0739456X05285119
+   Juhola S, 2013, URBAN CLIM, V4, P102, DOI 10.1016/j.uclim.2013.04.003
+   Kennedy C, 2012, SUSTAINABILITY SCI E
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   Kloosterman RC, 2007, URBAN GEOGR, V28, P54, DOI 10.2747/0272-3638.28.1.54
+   Knox P, 2010, CITIES BY DESIGN
+   Kress A., 2007, LOCAL SOIL WATER NEW, V22, P20
+   Lankao PR, 2008, CLIM RES, V38, P17, DOI 10.3354/cr00773
+   Lankao PR, 2011, CURR OPIN ENV SUST, V3, P142, DOI 10.1016/j.cosust.2010.12.016
+   Laukkonen J, 2009, HABITAT INT, V33, P287, DOI 10.1016/j.habitatint.2008.10.003
+   Lebel L, 2007, J IND ECOL, V11, P61, DOI 10.1162/jie.2007.1185
+   Leichenko RM, 2005, REG STUD, V39, P241, DOI 10.1080/003434005200060080
+   Leichenko R, 2011, CURR OPIN ENV SUST, V3, P164, DOI 10.1016/j.cosust.2010.12.014
+   Marcotullio PJ, 2012, GLOBAL ENVIRON CHANG, V22, P944, DOI 10.1016/j.gloenvcha.2012.07.002
+   Marcotullio PJ, 2013, CLIMATIC CHANGE, V121, P621, DOI 10.1007/s10584-013-0977-z
+   Mehrotra S, 2012, URBAN TRANSFORMATION, P238
+   Minx J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035039
+   Montgomery M.R., 2003, CITIES TRANSFORMED D
+   Moss RH, 2010, NATURE, V463, P747, DOI 10.1038/nature08823
+   Mumford Lewis, 1968, CITY HIST ITS ORIGIN
+   Nijman J, 2007, URBAN GEOGR, V28, P1, DOI 10.2747/0272-3638.28.1.1
+   O'Brien K, 2007, CLIM POLICY, V7, P73
+   O'Neill BC, 2014, CLIMATIC CHANGE, V122, P387, DOI 10.1007/s10584-013-0905-2
+   Pachauri RK, 2014, CLIMATE CHANGE 2014
+   Pizarro RE, 2009, HABITAT INT, V33, P227, DOI 10.1016/j.habitatint.2008.10.008
+   Polsky C, 2007, GLOBAL ENVIRON CHANG, V17, P472, DOI 10.1016/j.gloenvcha.2007.01.005
+   Ramaswami A, 2008, ENVIRON SCI TECHNOL, V42, P6455, DOI 10.1021/es702992q
+   Romer J, 2012, ENVIRON RES LETT, V7, P1
+   Romero-Lankao P, 2012, GLOBAL ENVIRON CHANG, V22, P670, DOI 10.1016/j.gloenvcha.2012.04.002
+   Rosenthal SS, 2001, J URBAN ECON, V50, P191, DOI 10.1006/juec.2001.2230
+   Rosenzweig C, 2010, NATURE, V467, P909, DOI 10.1038/467909a
+   Roy M, 2009, HABITAT INT, V33, P276, DOI 10.1016/j.habitatint.2008.10.022
+   Sellers JM, 2005, URBAN AFF REV, V40, P419, DOI 10.1177/1078087404272673
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P7687, DOI 10.1073/pnas.1117622109
+   Solecki W, 2014, CITY INDICATORS COMP
+   US Census, 2011, NYC POP TOT NEW YORK
+   Walsh C. L., 2013, ENVIRON URBAN, V25, P257, DOI DOI 10.1177/0956247813501121
+   Weber M., 1958, CITY
+   Weisz H, 2010, CURR OPIN SUST, V2, P185, DOI 10.1016/j.cosust.2010.05.010
+   Wise RM, 2014, GLOBAL ENVIRON CHANG, V28, P325, DOI 10.1016/j.gloenvcha.2013.12.002
+   World Resources Institute and World Business Council, 2013, GREENH GAS PROT
+NR 69
+TC 15
+Z9 15
+SN 2212-0955
+PD DEC
+PY 2015
+VL 14
+SI SI
+BP 116
+EP 137
+DI 10.1016/j.uclim.2015.07.001
+PN 1
+UT WOS:000438442700011
+ER

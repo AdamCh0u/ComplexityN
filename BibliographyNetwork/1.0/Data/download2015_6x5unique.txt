@@ -1,0 +1,714 @@
+
+PT J
+AU Haas, WR
+   Klink, CJ
+   Maggard, GJ
+   Aldenderfer, MS
+AF Haas, W. Randall, Jr.
+   Klink, Cynthia J.
+   Maggard, Greg J.
+   Aldenderfer, Mark S.
+TI Settlement-Size Scaling among Prehistoric Hunter-Gatherer Settlement
+   Systems in the New World
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL EVOLUTION; ZIPFS LAW; DISTRIBUTIONS; ARCHAEOLOGY; PATTERNS;
+   CITIES; SHAPE
+AB Settlement size predicts extreme variation in the rates and magnitudes of many social and ecological processes in human societies. Yet, the factors that drive human settlement-size variation remain poorly understood. Size variation among economically integrated settlements tends to be heavy tailed such that the smallest settlements are extremely common and the largest settlements extremely large and rare. The upper tail of this size distribution is often formalized mathematically as a power-law function. Explanations for this scaling structure in human settlement systems tend to emphasize complex socioeconomic processes including agriculture, manufacturing, and warfare-behaviors that tend to differentially nucleate and disperse populations hierarchically among settlements. But, the degree to which heavy-tailed settlement-size variation requires such complex behaviors remains unclear. By examining the settlement patterns of eight prehistoric New World hunter-gatherer settlement systems spanning three distinct environmental contexts, this analysis explores the degree to which heavy-tailed settlement-size scaling depends on the aforementioned socioeconomic complexities. Surprisingly, the analysis finds that power-law models offer plausible and parsimonious statistical descriptions of prehistoric hunter-gatherer settlement-size variation. This finding reveals that incipient forms of hierarchical settlement structure may have preceded socioeconomic complexity in human societies and points to a need for additional research to explicate how mobile foragers came to exhibit settlement patterns that are more commonly associated with hierarchical organization. We propose that hunter-gatherer mobility with preferential attachment to previously occupied locations may account for the observed structure in site-size variation.
+C1 [Haas, W. Randall, Jr.] Univ Maryland, Dept Anthropol, College Pk, MD 20742 USA.
+   [Klink, Cynthia J.] SUNY Coll Oneonta, Dept Anthropol, Oneonta, NY 13820 USA.
+   [Maggard, Greg J.] Univ Kentucky, Dept Anthropol, Lexington, KY 40506 USA.
+   [Aldenderfer, Mark S.] Univ Calif Merced, Sch Social Sci Humanities & Arts, Merced, CA 95343 USA.
+RP Haas, WR (reprint author), Univ Maryland, Dept Anthropol, 1111 Woods Hall, College Pk, MD 20742 USA.
+EM wrhaas@umd.edu
+OI Haas, Randall/0000-0002-7742-2127
+FU National Science Foundation [BCS-0331992, BCS-9816313]; American
+   Philosophical Society Lewis and Clark Fund; Wenner Gren Foundation
+   [6174]
+FX Funding: This study was supported by the National Science Foundation
+   BCS-0331992 awarded to Haas, American Philosophical Society Lewis and
+   Clark Fund awarded to Haas, National Science Foundation BCS-9816313
+   awarded to Aldenderfer, Wenner Gren Foundation 6174 awarded to Klink,
+   and National Science Foundation BCS-0331992 awarded to Maggard. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Adamic L, 2011, NATURE, V474, P164, DOI 10.1038/474164a
+   Alberti G, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0091510
+   ALDENDERFER M., 2005, ADV TITICACA BASIN A, V1, P25
+   ALDENDERFER M., 1998, MONTANE FORAGERS ASA
+   Aldenderfer MS, 2011, CHUNGARA, V43, P531, DOI 10.4067/S0717-73562011000300011
+   AMES KENNETH M., 2008, HDB ARCHAEOLOGICAL T, P487
+   Bandy MS, 2006, ANDEAN ARCHAEOLOGY III: NORTH AND SOUTH, P210, DOI 10.1007/0-387-28940-2_10
+   Bandy MS, 2004, AM ANTHROPOL, V106, P322, DOI 10.1525/aa.2004.106.2.322
+   Basso K. H., 1996, WISDOM SITS PLACES L
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   BINFORD R. L., 1982, J ANTHROPOL ARCHAEOL, V1, P5, DOI DOI 10.1016/0278-4165(82)90006-X
+   Bonabeau E, 1999, P NATL ACAD SCI USA, V96, P4472, DOI 10.1073/pnas.96.8.4472
+   Brown CT, 2007, HUM ECOL, V35, P129, DOI 10.1007/s10745-006-9083-4
+   Brown CT, 2005, J ARCHAEOL METHOD TH, V12, P37, DOI 10.1007/s10816-005-2396-6
+   Brown CT, 2003, J ARCHAEOL SCI, V30, P1619, DOI 10.1016/S0305-4403(03)00063-3
+   Carneiro RL, 2000, P NATL ACAD SCI USA, V97, P12926, DOI 10.1073/pnas.240462397
+   Chauchat C., 2006, PREHISTORIA COSTA NO
+   Christaller W, 1966, CENTRAL PLACES SO GE
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Crema ER, 2014, J ARCHAEOL METHOD TH, V21, P385, DOI 10.1007/s10816-013-9185-4
+   Decker EH, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000934
+   Dillehay TD, 2003, QUATERN INT, V109, P3, DOI 10.1016/S1040-6182(02)00198-2
+   Dillehay TD, 2008, HANDBOOK OF SOUTH AMERICAN ARCHAEOLOGY, P29, DOI 10.1007/978-0-387-74907-5_2
+   Drennan RD, 2004, J ARCHAEOL SCI, V31, P533, DOI 10.1016/j.jas.2003.10.002
+   Dunnell Robert C, 1992, SPACE TIME ARCHAEOLO, P21
+   Edwards AM, 2007, NATURE, V449, P1044, DOI 10.1038/nature06199
+   Flannery K. V., 1998, ARCHAIC STATES, P15
+   Fujita M., 1999, SPATIAL EC CITIES RE
+   Gershenson C, 2012, COMPLEXITY, V18, P29, DOI 10.1002/cplx.21424
+   Gillespie C. S., 2013, FITTING HEAVY TAILED
+   Griffin AF, 2007, STRUCTURE DYNAMICS, V2, P1
+   Grove M, 2010, NEW PERSPECTIVES ON OLD STONES: ANALYTICAL APPROACHES TO PALEOLITHIC TECHNOLOGIES, P83, DOI 10.1007/978-1-4419-6861-6_5
+   Hamilton MJ, 2007, P R SOC B, V274, P2195, DOI 10.1098/rspb.2007.0564
+   Hodder I., 1982, RANKING RESOURCE EXC, P150
+   Inomata T., 1996, LAT AM ANTIQ, V7, P291
+   JOHNSON GA, 1980, ECON GEOGR, V56, P234, DOI 10.2307/142715
+   Jones KE, 2008, NATURE, V451, P990, DOI 10.1038/nature06536
+   Kelly R. L., 1995, FORAGING SPECTRUM DI
+   Klink CJ, 2005, ADV TITICACA BASIN A, V1, P13
+   Krugman P. R, 1996, SELF ORG EC
+   Laland KN, 2010, J ARCHAEOL METHOD TH, V17, P303, DOI 10.1007/s10816-010-9096-6
+   Loendorf CR, 2012, HOHOKAM AKIMEL OODHA
+   Maggard GJ, 2011, B ARQUEOL PUCP, V15, P1
+   Mitzenmacher M, 2001, P ANN ALL C COMM CON, V39, P182
+   Moseley M. E., 1974, MARITIME FDN ANDEAN
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   Paynter R. W., 1982, MODELS SPATIAL INEQU
+   Peterson CE, 2005, AM ANTIQUITY, V70, P5, DOI 10.2307/40035266
+   Phillips S.J., 2000, NATURAL HIST SONORAN
+   Rice G, 2004, PROJECTILE POINT TYP
+   RICHARDSON HW, 1973, REG STUD, V7, P239, DOI 10.1080/09595237300185241
+   Schiffer M. B., 1975, PLAINS ANTHROPOL, V20, P253
+   Schlanger S. H, 1992, SPACE TIME ARCHAEOLO, P91
+   Shennan S, 2000, CURR ANTHROPOL, V41, P811, DOI 10.1086/317403
+   Stanish C, 2003, ANCIENT TITICACA: THE EVOLUTION OF COMPLEX SOCIETY IN SOUTHERN PERU AND NORTHERN BOLIVIA, P1, DOI 10.1525/california/9780520232457.001.0001
+   Stockli R, 2005, BLUE MARBLE NEXT GEN
+   The R Foundation, 2009, R STAT COMP LANG
+   Thomas RB, 1978, GEOECOLOGY SO HIGHLA
+   Valle Alvarez L, 2004, DESARROLLO ARQUEOLOG, P29
+   Venables WN, 2002, MODERN APPL STAT S
+   Wearmouth VJ, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2013.2997
+   White EP, 2008, ECOLOGY, V89, P905, DOI 10.1890/07-1288.1
+   WOBST HM, 1978, AM ANTIQUITY, V43, P303, DOI 10.2307/279256
+   WRIGHT HT, 1977, ANNU REV ANTHROPOL, V6, P379, DOI 10.1146/annurev.an.06.100177.002115
+   Yellen J. E., 1977, ARCHAEOLOGICAL APPRO
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 69
+TC 6
+Z9 6
+U1 1
+U2 13
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 4
+PY 2015
+VL 10
+IS 11
+AR e0140127
+DI 10.1371/journal.pone.0140127
+PG 25
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CV5GZ
+UT WOS:000364298400017
+PM 26536241
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Lazic, MM
+   Carretero, MA
+   Crnobrnja-Isailovic, J
+   Kaliontzopoulou, A
+AF Lazic, Marko M.
+   Carretero, Miguel A.
+   Crnobrnja-Isailovic, Jelka
+   Kaliontzopoulou, Antigoni
+TI Effects of Environmental Disturbance on Phenotypic Variation: An
+   Integrated Assessment of Canalization, Developmental Stability,
+   Modularity, and Allometry in Lizard Head Shape
+SO AMERICAN NATURALIST
+LA English
+DT Article
+DE urbanization; temperature; contamination; geometric morphometrics;
+   Podarcis
+ID STRESS-INDUCED VARIATION; FLUCTUATING ASYMMETRY; GEOMETRIC
+   MORPHOMETRICS; MORPHOLOGICAL VARIATION; SEXUAL-DIMORPHISM; LACERTID
+   LIZARDS; DROSOPHILA-MELANOGASTER; PODARCIS LIZARDS; WALL LIZARDS;
+   ONTOGENIC ALLOMETRY
+AB When populations experience suboptimal conditions, the mechanisms involved in the regulation of phenotypic variation can be challenged, resulting in increased phenotypic variance. This kind of disturbance can be diagnosed by using morphometric tools to study morphological patterns at different hierarchical levels and evaluate canalization, developmental stability, integration, modularity, and allometry. We assess the effect of urbanization on phenotypic variation in the common wall lizard (Podarcis muralis) by using geometric morphometrics to assess disturbance to head shape development. The head shapes of urban lizards were more variable and less symmetric, suggesting that urban living is more likely to disturb development. Head shape variation was congruent within and across individuals, which indicated that canalization and developmental stability are two related phenomena in these organisms. Furthermore, urban lizards exhibited smaller mean head sizes, divergent size-shape allometries, and increased deviation from within-group allometric lines. This suggests that mechanisms regulating head shape allometry may also be disrupted. The integrated evaluation of several measures of developmental instability at different hierarchical levels, which provided in this case congruent results, can be a powerful methodological guide for future studies, as it enhances the detection of environmental disturbances on phenotypic variation and aids biological interpretation of the results.
+C1 [Lazic, Marko M.; Crnobrnja-Isailovic, Jelka] Univ Nis, Fac Sci & Math, Dept Biol & Ecol, Nish, Serbia.
+   [Carretero, Miguel A.; Kaliontzopoulou, Antigoni] Univ Porto, CIBIO Res Ctr Biodivers & Genet Resources, InBIO, P-4485661 Vairao, Vila Do Conde, Portugal.
+   [Crnobrnja-Isailovic, Jelka] Univ Belgrade, Dept Evolutionary Biol, Inst Biol Res Sinisa Stankovic, Belgrade, Serbia.
+   [Kaliontzopoulou, Antigoni] Iowa State Univ, Dept Ecol Evolut & Organismal Biol, Ames, IA 50011 USA.
+RP Lazic, MM (reprint author), Univ Nis, Fac Sci & Math, Dept Biol & Ecol, Nish, Serbia.
+EM markol@pmf.ni.ac.rs
+RI Carretero, Miguel/A-1472-2013; Kaliontzopoulou, Antigoni/L-8345-2013
+OI Carretero, Miguel/0000-0002-2335-7198; Kaliontzopoulou,
+   Antigoni/0000-0002-7897-7204
+FU Ministry of Education, Science, and Technological Development (MESTD) of
+   the Republic of Serbia [173025]; Fundacao para a Ciencia e a Tecnologia
+   (FCT; Portugal) [FCOMP-01-0124-FEDER-007062, PTDC/BIA-BEC/101256/2008];
+   project "Biodiversity, Ecology, and Global Change"; North Portugal
+   Regional Operational Programme (ON.2-O Novo Norte) under the National
+   Strategic Reference Framework (NSRF) through the European Regional
+   Development Fund (ERDF); FCT under Programa Operacional Potencial
+   Humano-Quadro de Referencia Estrategico Nacional [SFRH/BPD/68493/2010];
+   European Social Fund; Portuguese Ministerio da Educacao e Ciencia;
+   MESTD; FCT
+FX We thank C. Rato and N. Sillero for assistance with fieldwork and M. M.
+   Ignjatovic for laboratory assistance. We are grateful to D. C. Adams and
+   E. Sherratt for insightful comments on an early version of the
+   manuscript as well as to three anonymous reviewers and Associate Editor
+   H. Arthur Woods for their suggestions. M.M.L. and J.C.I. were supported
+   by grant 173025 from the Ministry of Education, Science, and
+   Technological Development (MESTD) of the Republic of Serbia
+   (http://www.mpn.gov.rs/). M.A.C. and A.K. were supported by
+   FCOMP-01-0124-FEDER-007062 project PTDC/BIA-BEC/101256/2008 from
+   Fundacao para a Ciencia e a Tecnologia (FCT; Portugal) and partially by
+   the project "Biodiversity, Ecology, and Global Change," cofinanced by
+   North Portugal Regional Operational Programme 2007/2013 (ON.2-O Novo
+   Norte) under the National Strategic Reference Framework (NSRF) through
+   the European Regional Development Fund (ERDF). A.K. was supported by an
+   FCT postdoctoral grant (SFRH/BPD/68493/2010) under Programa Operacional
+   Potencial Humano-Quadro de Referencia Estrategico Nacional with funds
+   from the European Social Fund and Portuguese Ministerio da Educacao e
+   Ciencia. The collaboration between the Portuguese and Serbian teams was
+   also supported by an integrated action cofunded by FCT and MESTD.
+   Lizards were collected and handled with permission from the Ministry of
+   Environment and Spatial Planning of the Republic of Serbia (permit
+   353-01-505/2012-03).
+CR Adams DC, 2013, METHODS ECOL EVOL, V4, P393, DOI 10.1111/2041-210X.12035
+   Adams DC, 2010, BMC EVOL BIOL, V10, DOI 10.1186/1471-2148-10-72
+   Badyaev AV, 2005, AM NAT, V166, P382, DOI 10.1086/432559
+   Badyaev AV, 2004, AM NAT, V163, P868, DOI 10.1086/386551
+   Badyaev AV, 2000, ECOLOGY, V81, P336, DOI 10.1890/0012-9658(2000)081[0336:SADSVR]2.0.CO;2
+   Badyaev AV, 2000, P ROY SOC B-BIOL SCI, V267, P371, DOI 10.1098/rspb.2000.1011
+   Bancila R, 2010, J ZOOL, V282, P266, DOI 10.1111/j.1469-7998.2010.00736.x
+   Barahona F, 1998, J ZOOL, V245, P393, DOI 10.1017/S0952836998008036
+   Bellairs A.d'A., 1981, Biology of Reptilia, V11, P1
+   Bergman A, 2003, NATURE, V424, P549, DOI 10.1038/nature01834
+   Bookstein F. L., 1997, MORPHOMETRIC TOOLS L
+   Breuker CJ, 2006, PLOS ONE, V1, DOI 10.1371/journal.pone.0000007
+   Bruner E, 2005, ACTA ZOOL-STOCKHOLM, V86, P245, DOI 10.1111/j.1463-6395.2005.00206.x
+   Bruner E, 2007, AMPHIBIA-REPTILIA, V28, P566, DOI 10.1163/156853807782152525
+   Clarke G. M, 1995, PACIFIC CONSERVATION, V2, P146
+   Clarke GM, 1997, TRENDS ECOL EVOL, V12, P89, DOI 10.1016/S0169-5347(97)01029-X
+   Clarke GM, 1998, AM NAT, V152, P762, DOI 10.1086/286207
+   CLARKE GM, 1993, GENETICA, V89, P15, DOI 10.1007/BF02424502
+   Costantini D., 2009, ANAT REC, V293, P183
+   Debat V, 2002, J BIOSCIENCES, V27, P191, DOI 10.1007/BF02704908
+   Debat V, 2001, TRENDS ECOL EVOL, V16, P555, DOI 10.1016/S0169-5347(01)02266-2
+   ESCOUFIER Y, 1973, BIOMETRICS, V29, P751, DOI 10.2307/2529140
+   Garcia-Munoz E, 2010, ACTA HERPETOL, V5, P259
+   Gonzalez PN, 2013, EVOL DEV, V15, P133, DOI 10.1111/ede.12025
+   Gonzalez PN, 2011, J ANAT, V218, P243, DOI 10.1111/j.1469-7580.2010.01326.x
+   Gonzalez PN, 2011, J EXP ZOOL PART B, V316B, P547, DOI 10.1002/jez.b.21430
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   Gvozdik L, 2003, J ZOOL, V259, P7, DOI 10.1017/S0952836902003308
+   Hallgrimsson B, 2002, YEARB PHYS ANTHROPOL, V45, P131, DOI 10.1002/ajpa.10182
+   Herrel A, 1999, ANAT RECORD, V254, P496, DOI 10.1002/(SICI)1097-0185(19990401)254:4<496::AID-AR5>3.0.CO;2-Q
+   Herrel A, 2001, J EXP ZOOL, V290, P101, DOI 10.1002/jez.1039
+   Herrel A, 2001, CAN J ZOOL, V79, P662, DOI 10.1139/cjz-79-4-662
+   Hoffmann A. A., 1997, EXTREME ENV CHANGE E
+   Hoffmann AA, 2001, ECOL LETT, V4, P97, DOI 10.1046/j.1461-0248.2001.00205.x
+   Hoffmann AA, 2000, BIOSCIENCE, V50, P217, DOI 10.1641/0006-3568(2000)050[0217:ESAAEF]2.3.CO;2
+   Husak JF, 2006, EVOLUTION, V60, P2122, DOI 10.1111/j.0014-3820.2006.tb01849.x
+   Husak JF, 2006, COPEIA, P301, DOI 10.1643/0045-8511(2006)6[301:BPPDIM]2.0.CO;2
+   Huyghe K, 2005, FUNCT ECOL, V19, P800, DOI 10.1111/j.1365-2435.2005.01038.x
+   Imasheva A G, 1999, Genetika, V35, P1379
+   Imasheva AG, 1999, HEREDITY, V82, P187, DOI 10.1038/sj.hdy.6884660
+   Imasheva AG, 1998, HEREDITY, V81, P246, DOI 10.1046/j.1365-2540.1998.00384.x
+   Ji X, 2002, J EXP ZOOL, V292, P649, DOI 10.1002/jez.10101
+   Jovanovic B, 2011, BIOL NYSSANA, V2, P1
+   Kaliontzopoulou A, 2010, J EVOLUTION BIOL, V23, P1234, DOI 10.1111/j.1420-9101.2010.01984.x
+   Kaliontzopoulou A, 2008, BIOL J LINN SOC, V93, P111
+   Kaliontzopoulou A, 2007, J MORPHOL, V268, P152, DOI 10.1002/jmor.10494
+   Kaliontzopoulou Antigoni, 2011, Basic and Applied Herpetology, V25, P5
+   Kaliontzopoulou A, 2012, ZOOL J LINN SOC-LOND, V164, P173, DOI 10.1111/j.1096-3642.2011.00760.x
+   KLINGENBERG C, 2003, DEV INSTABILITY CAUS
+   Klingenberg Christian Peter, 2003, P427
+   Klingenberg CP, 2010, NAT REV GENET, V11, P623, DOI 10.1038/nrg2829
+   Klingenberg CP, 2009, EVOL DEV, V11, P405, DOI 10.1111/j.1525-142X.2009.00347.x
+   Klingenberg CP, 2002, EVOLUTION, V56, P1909
+   Klingenberg CP, 1999, EVOLUTION, V53, P358, DOI 10.1111/j.1558-5646.1999.tb03772.x
+   Klingenberg CP, 1998, EVOLUTION, V52, P1363, DOI 10.1111/j.1558-5646.1998.tb02018.x
+   Klingenberg CP, 2001, AM NAT, V157, P11, DOI 10.1086/317002
+   Lazic M. M., 2014, AM NATURALIST DRYAD
+   Lazic MM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0084190
+   LEAMY L, 1985, GROWTH, V49, P8
+   Ljubisavljevic K, 2011, HERPETOL J, V21, P65
+   Ljubisavljevic K, 2010, ZOOLOGY, V113, P168, DOI 10.1016/j.zool.2009.09.003
+   Manly BFJ, 1991, RANDOMIZATION MONTE
+   MANTEL N, 1967, CANCER RES, V27, P209
+   Marco A, 2004, B ENVIRON CONTAM TOX, V72, P983, DOI 10.1007/s00128-004-0340-1
+   Marco A, 2004, B ENVIRON CONTAM TOX, V73, P125, DOI 10.1007/s00128-004-0403-3
+   Mardia KV, 2000, BIOMETRIKA, V87, P285, DOI 10.1093/biomet/87.2.285
+   Monteiro Leandro R., 1997, Amphibia-Reptilia, V18, P397, DOI 10.1163/156853897X00440
+   Monteiro LR, 1997, J MORPHOL, V231, P53, DOI 10.1002/(SICI)1097-4687(199701)231:1<53::AID-JMOR5>3.0.CO;2-P
+   Nikic D, 2009, TURKISH J PEDIATR, V51, P257
+   Oksanen J., 2013, VEGAN COMMUNITY ECOL
+   PALMER AR, 1986, ANNU REV ECOL SYST, V17, P391, DOI 10.1146/annurev.es.17.110186.002135
+   Palmer AR, 1994, DEV INSTABILITY ITS, P335
+   Parsons P. A., 1997, EXTREME ENV CHANGE E
+   Piras P, 2011, J EVOLUTION BIOL, V24, P2705, DOI 10.1111/j.1420-9101.2011.02396.x
+   Piras P, 2010, EVOL DEV, V12, P568, DOI 10.1111/j.1525-142X.2010.00442.x
+   Rohlf F, 2005, TPSDIG DIGITIZE LAND
+   ROHLF FJ, 1990, SYST ZOOL, V39, P40, DOI 10.2307/2992207
+   RStudio, 2012, RSTUDIO INT DEV ENV
+   Rutherford SL, 2000, BIOESSAYS, V22, P1095, DOI 10.1002/1521-1878(200012)22:12<1095::AID-BIES7>3.0.CO;2-A
+   Sanger TJ, 2013, EVOLUTION, V67, P2180, DOI 10.1111/evo.12100
+   Sanger TJ, 2012, EVOLUTION, V66, P1525, DOI 10.1111/j.1558-5646.2011.01519.x
+   Sarre S, 1996, RES POPUL ECOL, V38, P57, DOI 10.1007/BF02514971
+   SCHARLOO W, 1991, ANNU REV ECOL SYST, V22, P65, DOI 10.1146/annurev.ecolsys.22.1.65
+   Schmalhausen I.I., 1949, FACTORS EVOLUTION
+   Seligmann H, 2006, J EXP ZOOL PART B, V306B, P433, DOI 10.1002/jez.b.21095
+   Shingleton AW, 2007, BIOESSAYS, V29, P536, DOI 10.1002/bies.20584
+   Shingleton AW, 2011, MECHANISMS OF LIFE HISTORY EVOLUTION: THE GENETICS AND PHYSIOLOGY OF LIFE HISTORY TRAITS AND TRADE-OFFS, P43
+   Shingleton AW, 2009, P R SOC B, V276, P2625, DOI 10.1098/rspb.2008.1796
+   Skrbic B, 2002, J ENVIRON SCI HEAL A, V37, P7, DOI 10.1081/ESE-100108478
+   SOULE ME, 1973, NATURE, V242, P191, DOI 10.1038/242191a0
+   Unkagevic M, 2009, GEOGR PANNONICA, V13, P4, DOI 10.5937/GeoPan0901004U
+   Urosevic A, 2013, J EVOLUTION BIOL, V26, P399, DOI 10.1111/jeb.12059
+   Urosevic A, 2012, ZOOLOGY, V115, P207, DOI 10.1016/j.zool.2012.01.003
+   VALENTINE DW, 1973, FISH B-NOAA, V71, P921
+   VANVALEN L, 1962, EVOLUTION, V16, P125
+   Verwaijen D, 2002, FUNCT ECOL, V16, P842, DOI 10.1046/j.1365-2435.2002.00696.x
+   Waddington C. H., 1952, Quantitative inheritance. Papers read at a colloquium held at the Institute of Animal Genetics Edinburgh University under the auspices of the Agricultural Research Council April 4th to 6th, 1950., P43
+   Waddington CH, 1942, NATURE, V150, P563, DOI 10.1038/150563a0
+   Willmore KE, 2007, EVOL BIOL, V34, P99, DOI 10.1007/s11692-007-9008-1
+   Willmore KE, 2006, J ANAT, V208, P361, DOI 10.1111/j.1469-7580.2006.00527.x
+   Willmore KE, 2005, EVOLUTION, V59, P898
+   Zakharov Vladimir M., 1992, Acta Zoologica Fennica, V191, P7
+   Zelditch ML, 2004, EVOL DEV, V6, P194, DOI 10.1111/j.1525-142X.2004.04025.x
+   Zuffi MAL, 2011, NORTH-WEST J ZOOL, V7, P189
+NR 104
+TC 22
+Z9 24
+U1 5
+U2 49
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0003-0147
+EI 1537-5323
+J9 AM NAT
+JI Am. Nat.
+PD JAN
+PY 2015
+VL 185
+IS 1
+BP 44
+EP 58
+DI 10.1086/679011
+PG 15
+WC Ecology; Evolutionary Biology
+SC Environmental Sciences & Ecology; Evolutionary Biology
+GA AY1LY
+UT WOS:000347355800006
+PM 25560552
+DA 2019-03-26
+ER
+
+PT J
+AU DeVries, ZC
+   Kells, SA
+   Appel, AG
+AF DeVries, Zachary C.
+   Kells, Stephen A.
+   Appel, Arthur G.
+TI Effects of Starvation and Molting on the Metabolic Rate of the Bed Bug
+   (Cimex lectularius L.)
+SO PHYSIOLOGICAL AND BIOCHEMICAL ZOOLOGY
+LA English
+DT Article
+ID INDIRECT CALORIMETRY; OXYGEN-CONSUMPTION; ENERGY-EXPENDITURE;
+   FOOD-DEPRIVATION; GAS-EXCHANGE; STANDARD; MASS; RESPIRATION;
+   TEMPERATURE; ENERGETICS
+AB The bed bug (Cimex lectularius L.) is a common hematophagous pest in the urban environment and is capable of surviving extended periods of starvation. However, the relationship between starvation and metabolism in bed bugs is not well understood. To better understand this relationship, we measured the metabolism of all life stages for > 900 h after feeding (starvation) using closed-system respirometry. Measurements were made around molting for the immature life stages, which occurs only after a blood meal. In addition, both mated and unmated adults were measured. Starvation and molting had significant effects on the metabolism of the bed bug. Mass-specific metabolic rate (Vo(2); mL g(-1) h(-1)) declined in a curvilinear fashion with the period of starvation for adults and with the postmolting period for immature bed bugs (used to standardize all immature life stages). A standard curve was developed to depict the generalized pattern of metabolic decline observed in all life stages that molted. Individual metabolic comparisons among life stages that molted revealed some differences in metabolic rate between unmated males and females. In addition, the mass scaling coefficient was found to decline with starvation time (postmolting time) for all life stages that molted. In most life stages, the ratio of Vco(2) to Vo(2) (respiratory exchange ratio) declined over time, indicating a change in metabolic substrate with starvation. Finally, daily percent loss in body mass declined in a pattern similar to that of Vo(2). The observed patterns in metabolic decline are evaluated in relation to the life history of bed bugs. In addition, the evolutionary development of these patterns is discussed. The metabolic pattern after feeding was also found to share several similarities with that of other ectothermic species.
+C1 [DeVries, Zachary C.; Appel, Arthur G.] Auburn Univ, Dept Entomol & Plant Pathol, Auburn, AL 36849 USA.
+   [Kells, Stephen A.] Univ Minnesota, Dept Entomol, St Paul, MN 55108 USA.
+RP DeVries, ZC (reprint author), Auburn Univ, Dept Entomol & Plant Pathol, 301 Funchess Hall, Auburn, AL 36849 USA.
+EM zcdevrie@ncsu.edu
+OI DeVries, Zachary/0000-0003-0050-7269
+FU Department of Entomology and Plant Pathology, Auburn University;
+   University of Minnesota Agricultural Experiment Station [MN-019]
+FX We thank T. Guy Shelton for a helpful review of the manuscript. We also
+   thank Marla Eva for assistance with laboratory equipment, Maryann
+   DeVries for assistance with executing experiments, and Kevin Olson for
+   maintaining bed bug colonies and shipping bed bugs. Finally, this work
+   was funded by a departmental assistantship to Z. C. D. from the
+   Department of Entomology and Plant Pathology, Auburn University, and in
+   part by a University of Minnesota Agricultural Experiment Station
+   project (MN-019).
+CR BARTHOLOMEW GA, 1985, J COMP PHYSIOL B, V155, P155, DOI 10.1007/BF00685208
+   Bartonicka T., 2012, PARASITOL RES, V112, P1615
+   Bedford GS, 2001, AUST J ZOOL, V49, P379, DOI 10.1071/ZO01017
+   BENEDICT FG, 1932, PHYSL LARGE REPTILES
+   Benoit JB, 2007, AM J TROP MED HYG, V76, P987, DOI 10.4269/ajtmh.2007.76.987
+   Blossman-Myer BL, 2010, PHYSIOL BIOCHEM ZOOL, V83, P215, DOI 10.1086/648393
+   Bradley TJ, 2003, PHYSIOL BIOCHEM ZOOL, V76, P302, DOI 10.1086/367953
+   Brody S., 1945, BIOENERGETICS GROWTH
+   Chapman RF, 1998, INSECTS STRUCTURE FU
+   COULSON R A, 1983, Comparative Biochemistry and Physiology B, V74, P1
+   Damcevski KA, 1998, J STORED PROD RES, V34, P331, DOI 10.1016/S0022-474X(98)00019-8
+   DEFUR PL, 1990, B MAR SCI, V46, P48
+   DeVries ZC, 2013, J INSECT PHYSIOL, V59, P1133, DOI 10.1016/j.jinsphys.2013.08.012
+   DeVries ZC, 2013, J INSECT PHYSIOL, V59, P638, DOI 10.1016/j.jinsphys.2013.04.002
+   Fielden LJ, 1999, J INSECT PHYSIOL, V45, P297, DOI 10.1016/S0022-1910(98)00127-9
+   Fink DE, 1925, J GEN PHYSIOL, V7, P527, DOI 10.1085/jgp.7.4.527
+   Fleming T.H., 2003, BAT ECOL, V4, P156
+   Greene HW, 1997, SNAKES EVOLUTION MYS
+   Hayward A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016557
+   LEWIS SE, 1995, J MAMMAL, V76, P481, DOI 10.2307/1382357
+   LIGHTON JRB, 1995, J INSECT PHYSIOL, V41, P877, DOI 10.1016/0022-1910(95)00033-Q
+   LIGHTON JRB, 1995, PHYSIOL ZOOL, V68, P43, DOI 10.1086/physzool.68.1.30163917
+   LIGHTON JRB, 1989, NATURE, V342, P174, DOI 10.1038/342174a0
+   LIGHTON JRB, 1991, CONCISE ENCY BIOL BI, P201
+   LIVESEY G, 1988, AM J CLIN NUTR, V47, P608
+   MEHNER T, 1994, J FISH BIOL, V45, P325, DOI 10.1111/j.1095-8649.1994.tb01311.x
+   MELLANBY KENNETH, 1939, PARASITOLOGY, V31, P200
+   MELLANBY KENNETH, 1932, PARASITOLOGY, V24, P419
+   Moyes C.D., 2008, PRINCIPLES ANIMAL PH
+   Olson JF, 2009, J INSECT PHYSIOL, V55, P580, DOI 10.1016/j.jinsphys.2009.03.001
+   Packard GC, 1999, COMP BIOCHEM PHYS A, V122, P37, DOI 10.1016/S1095-6433(98)10170-8
+   Polanco Andrea M., 2011, Insects, V2, P232, DOI 10.3390/insects2020232
+   RAO HV, 1973, CURR SCI INDIA, V42, P208
+   Reckardt K, 2007, OECOLOGIA, V154, P581, DOI 10.1007/s00442-007-0843-7
+   Reinhardt K, 2007, ANNU REV ENTOMOL, V52, P351, DOI 10.1146/annurev.ento.52.040306.133913
+   Reis Matthew D., 2011, Insects, V2, P186, DOI 10.3390/insects2020186
+   RIXON RH, 1957, AM J PHYSIOL, V188, P332
+   ROBERTS L. S., 2009, FDN PARASITOLOGY
+   Romero A, 2010, J INSECT PHYSIOL, V56, P1516, DOI 10.1016/j.jinsphys.2010.04.025
+   Ronn J., 2006, ANIM BEHAV, V72, P8
+   ROULAND C, 1993, CHEMOSPHERE, V26, P617, DOI 10.1016/0045-6535(93)90447-D
+   *SAS I, 1985, SAS US GUID STAT
+   Schimpf NG, 2012, EVOLUTION, V66, P597, DOI 10.1111/j.1558-5646.2011.01456.x
+   SCHUTZ Y, 1980, AM J CLIN NUTR, V33, P1317
+   Secor SM, 1997, PHYSIOL ZOOL, V70, P202, DOI 10.1086/639578
+   Sinclair BJ, 2011, PHYSIOL ENTOMOL, V36, P84, DOI 10.1111/j.1365-3032.2010.00765.x
+   Trzcionka M, 2008, J EXP BIOL, V211, P1911, DOI 10.1242/jeb.016519
+   Usinger R. L, 1966, MONOGRAPH CIMICIDAE
+   Vogt JT, 1999, J INSECT PHYSIOL, V45, P655, DOI 10.1016/S0022-1910(99)00036-0
+   WALSBERG GE, 1995, J EXP BIOL, V198, P213
+   Walsberg GE, 2005, J EXP BIOL, V208, P1035, DOI 10.1242/jeb.01477
+   Wang T, 2006, ANNU REV PHYSIOL, V68, P223, DOI 10.1146/annurev.physiol.68.040104.105739
+   WIGGLESWORTH V. B., 1936, PROC ROY ENT SOC LONDON SER A, V11, P104
+   YANG TH, 1993, J EXP BIOL, V181, P213
+   YOUNG SR, 1980, OIKOS, V34, P178, DOI 10.2307/3544180
+   Zwicky K., 1956, Proceedings of the Royal Entomological Society of London (A), V31, P153
+NR 56
+TC 14
+Z9 15
+U1 0
+U2 36
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 1522-2152
+EI 1537-5293
+J9 PHYSIOL BIOCHEM ZOOL
+JI Physiol. Biochem. Zool.
+PD JAN-FEB
+PY 2015
+VL 88
+IS 1
+BP 53
+EP 65
+DI 10.1086/679499
+PG 13
+WC Physiology; Zoology
+SC Physiology; Zoology
+GA AZ2AZ
+UT WOS:000348038200005
+PM 25590593
+DA 2019-03-26
+ER
+
+PT J
+AU Fu, L
+   Jiang, Y
+   Ding, J
+   Liu, Q
+   Peng, QZ
+   Kang, MY
+   Wang, LZ
+AF Fu, L.
+   Jiang, Y.
+   Ding, J.
+   Liu, Q.
+   Peng, Q. Z.
+   Kang, M. Y.
+   Wang, L. Z.
+TI Spatial variation of macroinvertebrate community structure and
+   associated environmental conditions in a subtropical river system of
+   southeastern China
+SO KNOWLEDGE AND MANAGEMENT OF AQUATIC ECOSYSTEMS
+LA English
+DT Article
+DE Biomonitoring; macroinvertebrate communities; spatial differentiation;
+   Dongjiang River basin; indicators
+ID WATER-QUALITY; LAND-USE; BENTHIC MACROINVERTEBRATES; TAXONOMIC
+   RESOLUTION; AQUATIC LIFE; EAST RIVER; STREAMS; BASIN; ASSEMBLAGES;
+   BIOASSESSMENT
+AB Knowledge of macroinvertebrate distributions and associated environmental drivers in subtropical Asian rivers is relatively scarce. To fill this knowledge gap, we examined the spatial variation of macroinvertebrate community structure and associated environmental conditions in a subtropical river system, the Dongjiang River Basin, in southeastern China. A total of 70 families and 9 classes of macroinvertebrates were identified from 74 sites sampled in January 2013. Our study has the following findings: (1) a distinct spatial differentiation of macroinvertebrate communities was present in the Dongjiang River Basin indicated by non-metric multidimensional scaling (NMDS), which corresponded to the northern region (NR), middle region (MR), and southern region (SR) gradient; (2) ANOVAs showed that diversity indices (total taxa, Margalef index and the Shannon diversity index), biotic indices (richness of EPT, percentage of EPT, and family biotic index) and most of the studied environmental conditions (elevation, slope, steam order, water temperature, electrical conductivity, dissolved oxygen, pH, substrates, ammoniacal nitrogen, total phosphorus, percentage of urban land, percentage of rural land, and percentage of forest land) differed significantly among the three regions and a degradation gradient was observed in the NR-MR-SR direction; (3) Canonical correspondence analysis (CCA) revealed that NR sites were characterized by steep slope and coarse substrate, MR sites were characterized by high water temperatures and shallow slopes, and SR sites were primarily characterized by high total phosphorus and ammoniacal nitrogen concentrations; and (4) the Indicator Species Analysis, in conjunction with CCA analysis indicated that the most representative indicator taxon is Tipulidae for NR, Semisulcospira sp. for MR, and Branchiura sp. for SR.
+C1 [Fu, L.; Jiang, Y.; Kang, M. Y.] Beijing Normal Univ, State Key Lab Earth Surface Proc & Resource Ecol, Beijing 100875, Peoples R China.
+   [Fu, L.; Jiang, Y.; Ding, J.; Liu, Q.; Kang, M. Y.] Beijing Normal Univ, Coll Resources Sci & Technol, Beijing 100875, Peoples R China.
+   [Peng, Q. Z.] Kunming Univ Sci & Technol, Fac Land Resource Engn KUST, Kunming 650093, Peoples R China.
+   [Wang, L. Z.] Int Joint Commiss, Detroit, MI 48105 USA.
+RP Jiang, Y (reprint author), Beijing Normal Univ, State Key Lab Earth Surface Proc & Resource Ecol, Beijing 100875, Peoples R China.
+EM jiangy@bnu.edu.cn
+FU National Natural Science Foundation of China [41271104]; National
+   Science and Technology Major Project: Water Pollution Control and
+   Management Technology of China [2012ZX07501002-04]
+FX The authors thank Professor Dayong Wu for his help with the specimen
+   identifications. We are grateful to Bo Wang, Chenglong Tang, Kai Wu, and
+   Tinghai Li for their help with the fieldwork. We also thank Prof. Han Y.
+   H. Chen for reviewing this manuscript. This work was supported by the
+   National Natural Science Foundation of China (41271104) and the National
+   Science and Technology Major Project: Water Pollution Control and
+   Management Technology of China (No. 2012ZX07501002-04).
+CR Al-Shami SA, 2011, ECOTOX ENVIRON SAFE, V74, P1195, DOI 10.1016/j.ecoenv.2011.02.022
+   Allan JD, 2004, ANNU REV ECOL EVOL S, V35, P257, DOI 10.1146/annurev.ecolsys.35.120202.110122
+   Barbour MT, 1996, J N AM BENTHOL SOC, V15, P185, DOI 10.2307/1467948
+   Beauger A, 2006, HYDROBIOLOGIA, V571, P63, DOI 10.1007/s10750-006-0217-x
+   Beisel JN, 1998, HYDROBIOLOGIA, V389, P73, DOI 10.1023/A:1003519429979
+   Bieger L, 2010, BRAZ J BIOL, V70, P1207, DOI 10.1590/S1519-69842010000600010
+   Bowman MF, 1997, CAN J FISH AQUAT SCI, V54, P1802, DOI 10.1139/cjfas-54-8-1802
+   Boyero L, 2001, HYDROBIOLOGIA, V464, P219, DOI 10.1023/A:1013922307096
+   Braak C. J. F., 2002, CANOCO REFERENCE MAN
+   Brown LR, 2000, ENVIRON MONIT ASSESS, V64, P311, DOI 10.1023/A:1006482800472
+   Bucker A, 2010, FUND APPL LIMNOL, V177, P267, DOI 10.1127/1863-9135/2010/0177-0267
+   Buss DF, 2004, HYDROBIOLOGIA, V518, P179, DOI 10.1023/B:HYDR.0000025067.66126.1c
+   Chambers PA, 2012, J ENVIRON QUAL, V41, P7, DOI 10.2134/jeq2010.0273
+   Chen Q.W., 2012, J HYDRO-ENVIRON RES, V7, P103
+   Chessman B, 2007, J N AM BENTHOL SOC, V26, P546, DOI 10.1899/06-074.1
+   Chessman BC, 2006, ENVIRON MONIT ASSESS, V119, P303, DOI 10.1007/s10661-005-9027-2
+   Clarke KR, 2001, CHANGE MARINE COMMUN
+   Duan X. H., 2010, BENTHIC MACROINVERTE
+   Dufrene M, 1997, ECOL MONOGR, V67, P345, DOI 10.1890/0012-9615(1997)067[0345:SAAIST]2.0.CO;2
+   Friberg N, 2011, ADV ECOL RES, V44, P1, DOI 10.1016/B978-0-12-374794-5.00001-8
+   Gabriels W, 2007, AQUAT ECOL, V41, P427, DOI 10.1007/s10452-007-9081-7
+   Gallacher D., 2001, INT VEREINIGUNG THEO, V27, P3503
+   Genito D, 2002, J FRESHWATER ECOL, V17, P109, DOI 10.1080/02705060.2002.9663874
+   HILSENHOFF W L, 1988, Journal of the North American Benthological Society, V7, P65, DOI 10.2307/1467832
+   Ho KC, 2003, CHEMOSPHERE, V52, P1441, DOI 10.1016/S0045-6535(03)00481-8
+   Jiang XM, 2010, INT REV HYDROBIOL, V95, P42, DOI 10.1002/iroh.200811131
+   JIANG Y, 2012, RES J ENVIRON EARTH, V4, P448
+   John G.R., 2004, HYDROBIOLOGIA, V524, P115
+   JOHNSON RK, 1992, WATER AIR SOIL POLL, V65, P339, DOI 10.1007/BF00479897
+   Kaller MD, 2007, AQUAT ECOL, V41, P95, DOI 10.1007/s10452-006-9046-2
+   Kong WJ, 2013, ECOL RES, V28, P581, DOI 10.1007/s11284-013-1048-7
+   Miserendino ML, 2010, ECOL INDIC, V10, P311, DOI 10.1016/j.ecolind.2009.06.008
+   Lee JHW, 2007, WA SCI TECHNOL, V7, P81, DOI 10.2166/ws.2007.043
+   LENAT D R, 1988, Journal of the North American Benthological Society, V7, P222, DOI 10.2307/1467422
+   [李良 Li Liang], 2013, [生�?�科�?, Ecologic Science], V32, P313
+   Lie Z.X., 1988, FRESHWATER FISHERIES, V2, P28
+   Liu DD, 2010, HYDROL PROCESS, V24, P1487, DOI 10.1002/hyp.7609
+   Liu Y., 2003, ACTA SCI NATURALIUM, V41, P95
+   Liu YY, 1979, EC FAUNA CHINA FRESH
+   Loayza-Muro R.A., 2013, ENVIRON TOXICOL CHEM, V33, P404
+   Margalef D.R, 1957, GEN SYST, V3, P36
+   Martin P, 2000, HYDROBIOLOGIA, V430, P59, DOI 10.1023/A:1004021130297
+   Maul JD, 2004, HYDROBIOLOGIA, V518, P79, DOI 10.1023/B:HYDR.0000025058.00605.6e
+   McCormick PV, 2004, HYDROBIOLOGIA, V529, P113, DOI 10.1007/s10750-004-5737-7
+   Meng W, 2009, J ENVIRON SCI-CHINA, V21, P1017, DOI 10.1016/S1001-0742(08)62377-3
+   Michael M.W., 1984, CAN J FISH AQUAT SCI, V41, P174
+   Miserendino ML, 2004, RIVER RES APPL, V20, P967, DOI 10.1002/rra.798
+   Morse J.C., 1994, AQUATIC INSECTS CHIN
+   Morse JC, 2007, FRONT ECOL ENVIRON, V5, P33, DOI 10.1890/1540-9295(2007)5[33:FBWMIE]2.0.CO;2
+   Neff MR, 2011, J N AM BENTHOL SOC, V30, P459, DOI 10.1899/10-052.1
+   Olsgard F, 1998, MAR ECOL PROG SER, V172, P25, DOI 10.3354/meps172025
+   Pan BZ, 2013, J GEOGR SCI, V23, P871, DOI 10.1007/s11442-013-1050-6
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Qu Xiao-dong, 2013, Huanjing Kexue Yanjiu, V26, P509
+   Roy AH, 2003, FRESHWATER BIOL, V48, P329, DOI 10.1046/j.1365-2427.2003.00979.x
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   Smith MJ, 1999, FRESHWATER BIOL, V41, P269, DOI 10.1046/j.1365-2427.1999.00430.x
+   Sponseller RA, 2001, FRESHWATER BIOL, V46, P1409, DOI 10.1046/j.1365-2427.2001.00758.x
+   Stenert C, 2008, MAR FRESHWATER RES, V59, P540, DOI 10.1071/MF07220
+   Strahler A., 1957, T AM GEOPHYS UNION, V38, P913, DOI [10.1029/TR038i006p00913, DOI 10.1029/TR038I006P00913]
+   Thorne RS, 1997, FRESHWATER BIOL, V37, P671, DOI 10.1046/j.1365-2427.1997.00181.x
+   Thorp J.H., 2001, ECOLOGY CLASSIFICATI
+   Vermonden K, 2011, J N AM BENTHOL SOC, V30, P1074, DOI 10.1899/10-047.1
+   Wang BB, 2011, IEEE J-STSP, V5, P5, DOI 10.1109/JSTSP.2010.2093210
+   Wang HZ, 2002, STUDIES TAXONOMY DIS
+   [王兆�? WANG Zhaoyin], 2007, [水利学报, Journal of Hydraulic Engineering], V38, P1228
+   Water Framework Directive-United Kingdom Advisory Group (WFD-UKTAG), 2008, RIV ASS METH BENTH I, DOI 978-1-906934-07-1
+   Xu M.Z., 2013, HYDROBIOLOGIA, V729, P247
+   Yan Zhen-guang, 2011, Huanjing Kexue, V32, P1564
+   Zhang SR, 2008, GLOBAL PLANET CHANGE, V60, P365, DOI 10.1016/j.gloplacha.2007.04.003
+   Zhang YX, 2010, HYDROBIOLOGIA, V652, P71, DOI 10.1007/s10750-010-0320-x
+   Zhou T, 2012, ECOL INDIC, V23, P166, DOI 10.1016/j.ecolind.2012.03.013
+NR 72
+TC 2
+Z9 2
+U1 2
+U2 33
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 1961-9502
+J9 KNOWL MANAG AQUAT EC
+JI Knowl. Manag. Aquat. Ecosyst.
+PY 2015
+IS 416
+AR 17
+DI 10.1051/kmae/2015013
+PG 20
+WC Fisheries; Marine & Freshwater Biology
+SC Fisheries; Marine & Freshwater Biology
+GA CZ3GC
+UT WOS:000366991400016
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Lenormand, M
+   Picornell, M
+   Cantu-Ros, OG
+   Louail, T
+   Herranz, R
+   Barthelemy, M
+   Frias-Martinez, E
+   Miguel, MS
+   Ramasco, JJ
+AF Lenormand, Maxime
+   Picornell, Miguel
+   Cantu-Ros, Oliva G.
+   Louail, Thomas
+   Herranz, Ricardo
+   Barthelemy, Marc
+   Frias-Martinez, Enrique
+   San Miguel, Maxi
+   Ramasco, Jose J.
+TI Comparing and modelling land use organization in cities
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE land use; network; human mobility; population distribution; call detail
+   record
+ID MOBILE PHONE DATA; USE CLASSIFICATION; SPATIAL STRUCTURE; PATTERNS;
+   NETWORKS; TWITTER; GROWTH; LIFE
+AB The advent of geolocated information and communication technologies opens the possibility of exploring how people use space in cities, bringing an important new tool for urban scientists and planners, especially for regions where data are scarce or not available. Here we apply a functional network approach to determine land use patterns from mobile phone records. The versatility of the method allows us to run a systematic comparison between Spanish cities of various sizes. The method detects four major land use types that correspond to different temporal patterns. The proportion of these types, their spatial organization and scaling show a strong similarity between all cities that breaks down at a very local scale, where land use mixing is specific to each urban area. Finally, we introduce a model inspired by Schelling's segregation, able to explain and reproduce these results with simple interaction rules between different land uses.
+C1 [Lenormand, Maxime; San Miguel, Maxi; Ramasco, Jose J.] CSIC UIB, Inst Fis Interdisciplinar & Sistemas Complejos, Campus Univ Illes Balears, Palma De Mallorca 07122, Spain.
+   [Picornell, Miguel; Cantu-Ros, Oliva G.; Herranz, Ricardo] Nommon Solut & Technol SL, Madrid 28043, Spain.
+   [Louail, Thomas; Barthelemy, Marc] CEA, CNRS, URA 2306, Inst Phys Theor, F-91191 Gif Sur Yvette, France.
+   [Louail, Thomas] CNRS Paris 1 Paris 7, UMR 8504, Geog Cites, F-75006 Paris, France.
+   [Barthelemy, Marc] EHESS CNRS, UMR 8557, Ctr Anal & Math Sociales, F-75013 Paris, France.
+   [Frias-Martinez, Enrique] Telefon Res, Madrid 28050, Spain.
+RP Lenormand, M (reprint author), CSIC UIB, Inst Fis Interdisciplinar & Sistemas Complejos, Campus Univ Illes Balears, Palma De Mallorca 07122, Spain.
+EM maxime@ifisc.uib-csic.es
+RI San Miguel, Maxi/G-3224-2015; Ramasco, Jose J/F-2860-2010
+OI San Miguel, Maxi/0000-0001-6237-425X; Ramasco, Jose
+   J/0000-0003-2499-6095; Louail, Thomas/0000-0001-8563-6881
+FU Spanish Ministry of Economy (MINECO); FEDER (EU) under project
+   INTENSE@COSYP [FIS2012-30634]; EU; Conselleria de Educacion, Cultura y
+   Universidades of the Government of the Balearic Islands [PD/004/2013];
+   European Social Fund through the Balearic Islands ESF operational
+   programme; Ramon y Cajal program of MINECO
+FX Partial financial support was received from the Spanish Ministry of
+   Economy (MINECO) and FEDER (EU) under project INTENSE@COSYP
+   (FIS2012-30634), and from the EU Commission through projects LASAGNE and
+   INSIGHT. The work of M.L. was funded under the PD/004/2013 project, from
+   the Conselleria de Educacion, Cultura y Universidades of the Government
+   of the Balearic Islands and from the European Social Fund through the
+   Balearic Islands ESF operational programme for 2013-2017. J.J.R.
+   acknowledges funding from the Ramon y Cajal program of MINECO.
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Badoe DA, 2000, TRANSPORT RES D-TR E, V5, P235, DOI 10.1016/S1361-9209(99)00036-X
+   Bartholomew K, 2007, TRANSPORTATION, V34, P397, DOI 10.1007/s11116-006-9108-2
+   Batty M., 2013, NEW SCI CITIES
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Cervero R, 1997, TRANSPORT RES D-TR E, V2, P199, DOI 10.1016/S1361-9209(97)00009-6
+   Cervero R, 2002, TRANSPORT RES D-TR E, V7, P265, DOI 10.1016/S1361-9209(01)00024-4
+   Decraene J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0080309
+   Deville P, 2014, P NATL ACAD SCI USA, V111, P15888, DOI 10.1073/pnas.1408439111
+   Donnay JP, 2001, REMOTE SENSING URBAN, P205
+   Feng X, 2011, EVOLVING TRANSPORTAT
+   Frias-Martinez V, 2014, INT J AD HOC UBIQ CO, V17, P39, DOI 10.1504/IJAHUC.2014.065157
+   Frias-Martinez V, 2014, ENG APPL ARTIF INTEL, V35, P237, DOI 10.1016/j.engappai.2014.06.019
+   Frias-Martinez V, 2012, Proceedings of 2012 ASE/IEEE International Conference on Privacy, Security, Risk and Trust and 2012 ASE/IEEE International Conference on Social Computing (SocialCom/PASSAT 2012), P239, DOI 10.1109/SocialCom-PASSAT.2012.19
+   Geurs K.T., 2004, J TRANSP GEOGR, V12, P127, DOI DOI 10.1016/J.JTRANGEO.2003.10.005
+   Goncalves B, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0112074
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grauwin S, 2015, GEOTECH ENVIRON, V13, P363, DOI 10.1007/978-3-319-11469-9_15
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Hu SG, 2013, INT J REMOTE SENS, V34, P790, DOI 10.1080/01431161.2012.714510
+   Humphries C, 2012, NATURE, V491, P514, DOI 10.1038/491514a
+   Krugman P. R, 1996, SELF ORG EC
+   Krygsman S., 2004, TRANSPORT POLICY, V11, P265, DOI DOI 10.1016/J.TRANPOL.2003.12.001
+   Lenormand M, 2015, HUMAN DIFFUSION CITY
+   Lenormand M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105407
+   Lenormand M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105184
+   Lenormand T, 2015, SCI REP, V5, P10075, DOI [DOI 10.1038/SREP10075, 10.1038/srep10075]
+   Llorente A, 2014, SOCIAL MEDIA FINGERP
+   Louail T, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7007
+   Louail T, 2014, SCI REP-UK, V4, DOI 10.1038/srep05276
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   NOULAS A, 2013, P MDM 13 3 6 JUN MIL, P167, DOI DOI 10.1109/MDM.2013.27
+   Pei T, 2014, INT J GEOGR INF SCI, V28, P1988, DOI 10.1080/13658816.2014.913794
+   Reades J, 2007, IEEE PERVAS COMPUT, V6, P30, DOI 10.1109/MPRV.2007.53
+   Reades J, 2009, ENVIRON PLANN B, V36, P824, DOI 10.1068/b34133t
+   RIPLEY BD, 1976, J APPL PROBAB, V13, P255, DOI 10.2307/3212829
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Sallis JF, 2009, SOC SCI MED, V68, P1285, DOI 10.1016/j.socscimed.2009.01.017
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Soto V, 2011, P 3 ACM INT WORKSH M, P17, DOI DOI 10.1145/2000172.2000179
+   Tizzoni M, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003716
+   Toole J. L., 2012, P ACM SIGKDD INT WOR, P1, DOI DOI 10.1145/2346496.2346498
+   Tsai YH, 2005, URBAN STUD, V42, P141, DOI 10.1080/004209804200309748
+   Waddell P, 2007, TRANSPORT RES A-POL, V41, P382, DOI 10.1016/j.tra.2006.09.008
+   WILSON AG, 1969, J TRANSP ECON POLICY, V3, P108
+   Wu SS, 2006, PHOTOGRAMM ENG REM S, V72, P813, DOI 10.14358/PERS.72.7.813
+   Yang X, 2002, INT J REMOTE SENS, V23, P1775, DOI 10.1080/01431160110075802
+NR 55
+TC 11
+Z9 11
+U1 3
+U2 14
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD DEC
+PY 2015
+VL 2
+IS 12
+AR 150449
+DI 10.1098/rsos.150449
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DO7NA
+UT WOS:000377968100014
+PM 27019730
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

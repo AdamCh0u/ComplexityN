@@ -1,0 +1,604 @@
+
+PT B
+AU Pfister, HD
+   Urbanke, R
+AF Pfister, Henry D.
+   Urbanke, Rudiger
+GP IEEE
+TI Near-Optimal Finite-Length Scaling for Polar Codes over Large Alphabets
+SO 2016 IEEE INTERNATIONAL SYMPOSIUM ON INFORMATION THEORY
+SE IEEE International Symposium on Information Theory
+LA English
+DT Proceedings Paper
+CT IEEE International Symposium on Information Theory (ISIT)
+CY JUL 10-15, 2016
+CL Barcelona, SPAIN
+SP IEEE, IEEE Informat Theory Soc, Univ Pompeu Fabra Barcelona, NSF, Qualcomm, Huawei, Google, IEEE BigData, Gobierno Espana, Minist Economia Compititividad
+ID CHANNEL POLARIZATION
+AB For any prime power q, Mori and Tanaka introduced a family of q-ary polar codes based on q by q Reed-Solomon polarization kerneis. For transmission over a q-ary erasure channel, they also derived a closed-form recursion for the erasure probability of each effective channel. In this paper, we use that expression to analyze the finite-Iength scaling of these codes on q-ary erasure channel with erasure probability is an element of is an element of(0,1). Our primary result is that, for any gamma > 0 and delta > 0, there is a q(0) such that, for all q >= q(0), the fraction of effective channels with erasure rate at most N-gamma is at least 1 - is an element of - O( N-1/2+delta), where N = q(n) is the blocklength. Since the gap to the channel capacity 1 - is an element of cannot vanish faster than O( N-1/2), this establishes near-optimal finite-Iength scaling for this family of codes. Our approach can be seen as an extension of a similar analysis for binary polar codes by Mondelli, Hassani, and Urbanke.
+C1 [Pfister, Henry D.] Duke Univ, Dept Elect & Comp Engn, Durham, NC 27706 USA.
+   [Urbanke, Rudiger] Ecole Polytech Fed Lausanne, Sch Comp & Commun Sci, Lausanne, Switzerland.
+RP Pfister, HD (reprint author), Duke Univ, Dept Elect & Comp Engn, Durham, NC 27706 USA.
+EM henry.pfister@duke.edu; ruediger.urbanke@epfl.ch
+OI Pfister, Henry/0000-0001-5521-4397
+CR Ankan E., 2009, IEEE T INFORM THEORY, V55, P3051
+   Fazeli A, 2014, ANN ALLERTON CONF, P797, DOI 10.1109/ALLERTON.2014.7028536
+   Goldin D., 2015, ARXIV150202925
+   Goldin D, 2014, IEEE T INFORM THEORY, V60, P6966, DOI 10.1109/TIT.2014.2359197
+   Guruswami V., 2014, ARXIV14116993
+   Guruswami V, 2015, IEEE T INFORM THEORY, V61, P3, DOI 10.1109/TIT.2014.2371819
+   Hairer M, 2011, PROG PROBAB, V63, P109
+   Hassani SH, 2013, IEEE T INFORM THEORY, V59, P2267, DOI 10.1109/TIT.2012.2228295
+   Hassani SH, 2014, IEEE T INFORM THEORY, V60, P5875, DOI 10.1109/TIT.2014.2341919
+   Kschischang F. R., 1993, P IEEE INT S INF THE, P195
+   Mondelli M., 2015, UNIFIED SCALING POLA
+   Mori R, 2014, IEEE T INFORM THEORY, V60, P2720, DOI 10.1109/TIT.2014.2312181
+   Pfister H. D., 2016, NEAR OPTIMAL FINITE
+   Polyanskiy Y, 2010, IEEE T INFORM THEORY, V56, P2307, DOI 10.1109/TIT.2010.2043769
+   Strassen Y., 1964, Z WAHRSCHEINLICHKEIT, V2, P273
+NR 15
+TC 4
+Z9 4
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-1806-2
+J9 IEEE INT SYMP INFO
+PY 2016
+BP 215
+EP 219
+PG 5
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BG6DW
+UT WOS:000390098700044
+DA 2019-03-26
+ER
+
+PT J
+AU Kim, HJ
+   Lee, SH
+AF Kim, Hyun-Jun
+   Lee, Sang-Hyun
+TI Developing the volume models for 5 major species of street trees in
+   Gwangju metropolitan city of Korea
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+DE Gwangju metropolitan city; Regression function; Street tree; Urban
+   forestry; Volume model
+ID URBAN FOREST STRUCTURE; BIOMASS; ALLOMETRY; EQUATIONS
+AB Street trees are one of the most important parts of an urban forest system because they have various functions including environmental conservation, harmony of scenery, traffic safety, and prevention. Moreover, of the analysis factors considered for street trees, volume is mainly used not only for further research on health assessment, environment analysis, carbon storage estimation, and economic analysis, but also for local government management of street trees. For this reason, this study was performed to develop volume models for the 5 major species of street tree of Gwangju metropolitan city in Korea. After selecting the 5 major species-Ginkgo biloba, Zelkova serrata, Metasequoia glytroboides, Prunus serrulata, and Platanus occidentalis-one hundred sample trees of each species were randomly chosen considering diameter at the breast height (DBH), and then diameter at every 2 m height, height, and crown radius were measured. Volume was calculated using the Huber equation. Regression analysis, variance analysis, and descriptive statistical analysis were conducted using the 4 regression equations, and the best volume model was chosen by comparing precision, accuracy, credibility, and normality. From the results, all species showed the same patterns according to model type. That is, models that included diameter and height out-performed models with crown basal area had the highest precision, while model type IV using crown basal area (CBA) as a parameter showed the lowest goodness of fit because CBA can be influenced by volume, planting distance and space, or pollarding. Thus, using DBH and H together should be suitable for designing the volume models for urban-grown trees. However, properly trained experts are very important in order to avoid measurement error. Moreover, a large amount of data on Platanus ocidentalis is required to avoid large error in volume due to pollarding treatment. To sum up, model type III was chosen as the best fit models for all species with lowest MSE and highest R-2, and that models can be used to forecast the volume of and making ordinances for street trees in Gwangju metropolitan city, Korea. (C) 2016 Elsevier GmbH. All rights reserved.
+C1 [Kim, Hyun-Jun] Korea Univ, Plus Ecoleader Educ Ctr BK21, Anam Ro 145, Seoul 02841, South Korea.
+   [Kim, Hyun-Jun] Korea Univ, Dept Environm Sci & Ecol Engn, Anam Ro 145, Seoul 02841, South Korea.
+   [Lee, Sang-Hyun] Chonbuk Natl Univ, Dept Forest Environm Sci, Baekjedae Ro 567, Jeonju 54896, South Korea.
+RP Lee, SH (reprint author), 567 Baekjedae Ro, Jeonju 54896, Jellabuk Do, South Korea.
+EM leesh@jbnu.ac.kr
+OI Kim, Hyun-Jun/0000-0002-7373-1643
+FU Korea Forest Research Institute; Korea Forest Service [S211212L06012]
+FX This study was supported by research grants from the Korea Forest
+   Research Institute (Studies on estimation of urban green areas and
+   development of carbon emission/removal factors) and the Korea Forest
+   Service (S211212L06012). We thank Gwangju City Hall for providing the
+   urban street tree inventory data.
+CR Aguaron E., 2012, CARBON SEQUESTRATION, P373, DOI [10.1007/978-94-007-2366-5_3, DOI 10.1007/978-94-007-2366-5_3]
+   Akbari H, 2002, ENVIRON POLLUT, V116, pS119, DOI 10.1016/S0269-7491(01)00264-0
+   Choi G.-M., 2015, THESIS
+   COOK D. I, 1978, P NAT URB FOR C, P330
+   DEGRAAF RM, 2002, TREES SHRUBS VINES A
+   EMLEN JT, 1974, CONDOR, V76, P184, DOI 10.2307/1366729
+   Freist H, 1962, UNTERSUCHUNGEN LICHT
+   Gwanju, 2010, MANAGEMENT REGISTER
+   HEISLER GM, 1986, URBAN ECOL, V9, P337, DOI 10.1016/0304-4009(86)90008-2
+   Jenkins JC, 2003, FOREST SCI, V49, P12
+   Jim C. Y., 2008, Arboriculture & Urban Forestry, V34, P366
+   JOHNSON CW, 1988, LANDSCAPE URBAN PLAN, V16, P245, DOI 10.1016/0169-2046(88)90071-0
+   Kim H. W., 2011, THESIS
+   Korea Forest Research Institute, 2006, SURV MAN FOR BIOM
+   Kramer H., 1971, Forstarchiv, V42, P23
+   Kramer H, 1988, WALDWACHSTUMSLEHRE
+   Lee K, 2012, THESIS
+   Maco S.E., 2003, CUFR3 US FOR SERV PA
+   Mayer R., 1958, Allg. Forst- u. Jagdztg., V129, P105
+   McHale M. R., 2009, Urban Ecosystems, V12, P95, DOI 10.1007/s11252-009-0081-3
+   McPherson E. G., 1990, LANDSCAPE J, V9, P122
+   McPherson EG, 2003, J FOREST, V101, P20
+   Meier A. K., 1991, ENERGY EFFICIENCY EN, P321
+   MITSCHERLICH G, 1978, WALD WACHSTUM UMWELT
+   Muukkonen P, 2007, EUR J FOREST RES, V126, P157, DOI 10.1007/s10342-007-0168-4
+   Nowak D. J., 1993, UNASYLVA, V44, P39
+   Nowak DJ, 2002, ENVIRON POLLUT, V116, P381, DOI 10.1016/S0269-7491(01)00214-7
+   NOWAK DJ, 1993, J ENVIRON MANAGE, V37, P207, DOI 10.1006/jema.1993.1017
+   Park C. I., 2015, J ENV SCI INT, V24, P253
+   Park I. H., 1989, Journal of Korean Forestry Society, V78, P323
+   Park J.H., 2011, THESIS
+   Pilli R, 2006, FOREST ECOL MANAG, V237, P583, DOI 10.1016/j.foreco.2006.10.004
+   ROWNTREE R A, 1991, Journal of Arboriculture, V17, P269
+   SANDERS RA, 1986, URBAN ECOL, V9, P361, DOI 10.1016/0304-4009(86)90009-4
+   SANDERS RA, 1984, URBAN ECOL, V8, P13, DOI 10.1016/0304-4009(84)90004-4
+   Seok H. K., 2001, RES REPORT
+   Soares AL, 2011, URBAN FOR URBAN GREE, V10, P69, DOI 10.1016/j.ufug.2010.12.001
+   United Nations, 2012, ESAPWP224 UN
+   West GB, 1999, NATURE, V400, P664, DOI 10.1038/23251
+   WHITTAKER RH, 1975, PRIMARY PRODUCTIVITY, P55
+   Yoon TK, 2013, URBAN FOR URBAN GREE, V12, P344, DOI 10.1016/j.ufug.2013.03.006
+   Zheng B., 2011, THESIS
+   Zianis D, 2004, FOREST ECOL MANAG, V187, P311, DOI 10.1016/j.foreco.2003.07.007
+NR 43
+TC 5
+Z9 5
+U1 2
+U2 20
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PD AUG 1
+PY 2016
+VL 18
+BP 53
+EP 58
+DI 10.1016/j.ufug.2016.05.004
+PG 6
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA DY2HW
+UT WOS:000384914700007
+DA 2019-03-26
+ER
+
+PT J
+AU Bradford, NK
+   Caffery, LJ
+   Smith, AC
+AF Bradford, N. K.
+   Caffery, L. J.
+   Smith, A. C.
+TI Telehealth services in rural and remote Australia: a systematic review
+   of models of care and factors influencing success and sustainability
+SO RURAL AND REMOTE HEALTH
+LA English
+DT Review
+DE access; Australia; models of care; sustainability; telemedicine
+ID PEDIATRIC PALLIATIVE CARE; HEALTH EMERGENCY CARE; COGNITIVE-BEHAVIORAL
+   THERAPY; SPECIALIST CANCER CARE; NEW-SOUTH-WALES; WESTERN-AUSTRALIA;
+   ACCESS PROGRAM; AEROMEDICAL RETRIEVAL; TELEPSYCHIATRY MODEL; NORTHERN
+   QUEENSLAND
+AB Introduction: With the escalating costs of health care, issues with recruitment and retention of health practitioners in rural areas, and poor economies of scale, the question of delivering people to services or services to people is a dilemma for health authorities around the world. People living in rural areas have poorer health outcomes compared to their urban counterparts, and the problem of how to provide health care and deliver services in rural locations is an ongoing challenge. Telehealth services can efficiently and effectively improve access to healthcare for people living in rural and remote areas of Australia. However, telehealth services are not mainstream or routinely available in many rural and remote locations. The barriers to integration of telehealth into mainstream practice have been well described, but not the factors that may influence the success and sustainability of a service. Our aim was to collate, review and synthesise the available literature regarding telehealth services in rural and remote locations of Australia, and to identify the factors associated with their sustained success.
+   Methods: A systematic literature review of peer-reviewed and grey literature was undertaken. Electronic databases were searched for potentially relevant articles. Reference lists of retrieved articles and the grey literature were also searched. Searches identified 970 potentially eligible articles published between 1988 and 2015. Studies and manuscripts of any type were included if they described telehealth services (store-and-forward or real-time videoconferencing) to provide clinical service or education and training related to health care in rural or remote locations of Australia. Data were extracted according to pre-defined criteria and checked for completeness and accuracy by a second reviewer. Any disagreements were resolved with discussion with a third researcher. All articles were appraised for quality and levels of evidence. Data were collated and grouped into categories including clinical speciality, disciplines involved, geographical location and the role of the service. Data relating to the success or sustainability of services were grouped thematically.
+   Results: Inclusion criteria were met by 116 articles that described 72 discrete telehealth services. Telehealth services in rural and remote Australia are described and we have identified six key factors associated with the success and sustainability of services: vision, ownership, adaptability, economics, efficiency and equipment.
+   Conclusions: Telehealth has the potential to address many of the key challenges to providing health in Australia, with its substantial land area and widely dispersed population. This review collates information regarding the telehealth services in Australia and describes models of care and characteristics of successful and sustainable services. We identified a wide variety of telehealth services being provided in rural and remote areas of Australia. There is great potential to increase this number by scaling up and replicating successful services. This review provides information for policy makers, governments and public and private health services that wish to integrate telehealth into routine practice and for telehealth providers to enhance the sustainability of their service.
+C1 [Bradford, N. K.; Caffery, L. J.; Smith, A. C.] Univ Queensland, Princess Alexandra Hosp, Ctr Online Hlth, Telehlth Ctr, Woollongabba, Qld, Australia.
+RP Bradford, NK (reprint author), Univ Queensland, Princess Alexandra Hosp, Ctr Online Hlth, Telehlth Ctr, Woollongabba, Qld, Australia.
+RI Smith, Anthony/E-9538-2010
+OI Smith, Anthony/0000-0002-7756-5136
+CR Adler-Milstein J, 2014, HEALTH AFFAIR, V33, P207, DOI 10.1377/hlthaff.2013.1054
+   Altman L, 2014, ONE 4 LIVES FUTURE T
+   [Anonymous], 2013, Aust Nurs J, V21, P41
+   Armfield NR, 2014, MED J AUSTRALIA, V200, P530, DOI 10.5694/mja13.11101
+   Australian Bureau of Statistics, 2014, REG POP GROWTH AUSTR
+   Australian College of Rural and Remote Medicine, 2015, NAT EHEALTH PROGR TE
+   Australian College of Rural and Remote Medicine: Tele-Derm goes national, 2005, AUST J RURAL HEALTH, V13, P200
+   Australian Government, 2014, TEL SPEC VID CONS ME
+   Australian Nursing and Midwifery Federation, 2014, TEL PROF PRACT STAND
+   Bensink ME, 2009, PALLIATIVE MED, V23, P228, DOI 10.1177/0269216308100251
+   Biscak TM, 2013, J TELEMED TELECARE, V19, P362, DOI 10.1177/1357633X13506509
+   Blackwell NAM, 1997, MED J AUSTRALIA, V167, P583, DOI 10.5694/j.1326-5377.1997.tb138904.x
+   Bowater M, 2001, J TELEMED TELECARE, V7, P24, DOI 10.1258/1357633011937038
+   Bradford N, 2012, J TELEMED TELECARE, V18, P438, DOI 10.1258/jtt.2012.GTH103
+   Bradford N, 2010, STUD HEALTH TECHNOL, V161, P10, DOI 10.3233/978-1-60750-659-1-10
+   Bradford NK, 2014, BMC HEALTH SERV RES, V14, DOI 10.1186/1472-6963-14-328
+   Bradford NK, 2014, BMC PALLIATIVE CARE, V13
+   Buckley D, 2012, AUST NZ J PUBL HEAL, V36, P478, DOI 10.1111/j.1753-6405.2012.00915.x
+   Buist A, 2000, J TELEMED TELECARE, V6, P216, DOI 10.1258/1357633001935383
+   Burns CL, 2012, J TELEMED TELECARE, V18, P443, DOI 10.1258/jtt.2012.GTH104
+   Cadilhac D, 2014, INT J STROKE, V9, P4
+   Cadilhac DA, 2014, J TELEMED TELECARE, V20, P413, DOI 10.1177/1357633X14552389
+   Chan FY, 2000, TELEMED J, V6, P237, DOI 10.1089/107830200415171
+   Chan FY, 2001, J TELEMED TELECARE, V7, P7, DOI 10.1258/1357633011937290
+   Clarke P H, 1997, J Telemed Telecare, V3 Suppl 1, P12, DOI 10.1258/1357633971930788
+   Comans TA, 2013, J TELEMED TELECARE, V19, P393, DOI 10.1177/1357633X13506532
+   Constantinescu G, 2012, J TELEMED TELECARE, V18, P267, DOI 10.1258/jtt.2012.111208
+   Country Health South Australia Local Health Network, 2014, DIG TEL NETW
+   D'Souza R, 2000, J TELEMED TELECARE, V6, P26, DOI 10.1258/1357633001934834
+   Davis A, 2012, VOLTA REV, V112, P383
+   Department of Health, 2011, CONN HLTH SERV FUT M
+   Department of Health and Ageing, 2015, RUR REG HLTH AUSTR N
+   Desai N., 10 SECRETS TELEHEALT
+   Desai S, 2013, J TELEMED TELECARE, V19, P405, DOI 10.1177/1357633X13506528
+   Dillon E, 2003, J TELEMED TELECARE, V9, pS15
+   Dillon Eric, 2005, J Telemed Telecare, V11 Suppl 2, pS19
+   Dossetor DR, 1999, J PAEDIATR CHILD H, V35, P525, DOI 10.1046/j.1440-1754.1999.00410.x
+   Fatehi F, 2013, J TELEMED TELECARE, V19, P379, DOI 10.1177/1357633X13506524
+   Finch J, 2000, J AUSTRALASIAN REHAB, V3, P21
+   Gelber H, 1998, J TELEMED TELECARE, V4, P71, DOI 10.1258/1357633981931542
+   Gelber H, 2001, J TELEMED TELECARE, V7, P32, DOI 10.1258/1357633011937065
+   George M, 2014, J ONCOL PRACT, V10, pE146, DOI 10.1200/JOP.2013.001228
+   Gray LC, 2009, MED J AUSTRALIA, V191, P605
+   Greenhalgh T, 2012, BMJ OPEN, V2, DOI 10.1136/bmjopen-2012-001574
+   Greenwood James, 2004, Australas Psychiatry, V12, P268, DOI 10.1111/j.1039-8562.2004.02097.x
+   Griffiths L, 2006, J TELEMED TELECARE, V12, P136, DOI 10.1258/135763306776738567
+   Hawker F, 1998, J TELEMED TELECARE, V4, P187, DOI 10.1258/1357633981932181
+   Herbert A, 2014, J PALLIAT MED, V17, P288, DOI 10.1089/jpm.2013.0400
+   Herrington G, 2013, J TELEMED TELECARE, V19, P430, DOI 10.1177/1357633X13506531
+   Hockey AD, 2004, J TELEMED TELECARE, V10, pS48, DOI 10.1258/1357633042614186
+   Hockey AD, 2004, J TELEMED TELECARE, V10, pS44, DOI 10.1258/1357633042614221
+   Hopper B, 2011, TWIN RES HUM GENET, V14, P343, DOI 10.1375/twin.14.4.343
+   Johnson KA, 2015, AUST J RURAL HEALTH, V23, P142, DOI 10.1111/ajr.12150
+   Jordan LA, 2014, INT J STROKE, V9, P5
+   Joseph V, 2011, J TELEMED TELECARE, V17, P71, DOI 10.1258/jtt.2010.100315
+   Jury SC, 2013, J TELEMED TELECARE, V19, P383, DOI 10.1177/1357633X13506530
+   Justo R, 2004, J TELEMED TELECARE, V10, pS57
+   Kavanagh S, 2001, J TELEMED TELECARE, V7, P41, DOI 10.1258/1357633011937083
+   Kavanagh S J, 1995, Aust Fam Physician, V24, P1242
+   Kennedy C, 2003, J TELEMED TELECARE, V9, P12, DOI 10.1258/135763303321159639
+   Kennedy C, 2000, J Telemed Telecare, V6 Suppl 1, pS155
+   Khalil H, 2014, INT WOUND J, V11, P314, DOI 10.1111/iwj.12041
+   Kopel H, 2001, J TELEMED TELECARE, V7, P35, DOI 10.1258/1357633011937074
+   Kumar S, 2006, J TELEMED TELECARE, V12, P19, DOI 10.1258/135763306775321399
+   Kumar S, 2006, EYE, V20, P1342, DOI 10.1038/sj.eye.6702104
+   Lessing K, 2001, J TELEMED TELECARE, V7, P317, DOI 10.1258/1357633011936949
+   Mant J, 2001, INT J QUAL HEALTH C, V13, P475, DOI 10.1093/intqhc/13.6.475
+   Manuel P, 2012, WOUND PRACT RES, V20, P103
+   Mathews KA, 2008, J TELEMED TELECARE, V14, P309, DOI 10.1258/jtt.2008.080417
+   McCarthy M, 2012, VOLTA REV, V112, P297, DOI 10.17955/tvr.112.3.m.707
+   McGill A, 2012, J TELEMED TELECARE, V18, P470, DOI 10.1258/jtt.2012.GTH110
+   McGill AF, 2012, ANZ J SURG, V82, P2, DOI 10.1111/j.1445-2197.2011.05952.x
+   McGill M, 2000, PRACTICAL DIABETES I, V17, P235
+   McGrath P, 2015, PATIENT, V8, P199, DOI 10.1007/s40271-014-0074-z
+   Mitchell J G, 1997, J Telemed Telecare, V3, P158, DOI 10.1258/1357633971931075
+   Mitchell L, 2014, J CYST FIBROS, V13, pS105
+   Moffatt JJ, 2011, RURAL REMOTE HEALTH, V11
+   Moffatt JJ, 2010, AUST HEALTH REV, V34, P276, DOI 10.1071/AH09794
+   Moher D, 2009, ANN INTERN MED, V151, P264, DOI 10.7326/0003-4819-151-4-200908180-00135
+   Mooi JK, 2012, AUST J RURAL HEALTH, V20, P265, DOI 10.1111/j.1440-1584.2012.01302.x
+   Muir J, 2014, AUST FAM PHYSICIAN, V43, P828
+   Muir J, 2008, STUD HEALTH TECHNOL, V131, P245
+   Nagao KJ, 2012, INTERN MED J, V42, P1088, DOI 10.1111/j.1445-5994.2011.02603.x
+   Nazareth S, 2013, J TELEMED TELECARE, V19, P101, DOI 10.1258/jtt.2012.120612
+   NSW Agency for Clinical Innovation, 2014, TEL RES PACK CONS SU
+   O'Hara R, 2015, AUSTR J RURAL HLTH
+   Olver I, 2005, PROG PALLIAT CARE, V13, P263, DOI 10.1179/096992605X57679
+   Olver IN, 2000, TELEMED J, V6, P213, DOI 10.1089/107830200415144
+   Ou MH, 2008, ARTIF INTELL MED, V44, P27, DOI 10.1016/j.artmed.2008.04.006
+   Primary Health Tasmania, 2015, TELEHEALTH
+   Queensland Government Queensland Health, 2015, TEL SUPP UN
+   Queensland Parliament, 2014, 55 QUEENSL PARL PARL
+   Quilty S, 2015, MED J AUSTRALIA, V203, pI, DOI 10.5694/mja15.00082
+   Ray RA, 2014, BMC HEALTH SERV RES, V14, DOI 10.1186/1472-6963-14-272
+   Rees CS, 2009, J TELEMED TELECARE, V15, P59, DOI 10.1258/jtt.2008.008005
+   Reeve C, 2014, AUST J RURAL HEALTH, V22, P127, DOI 10.1111/ajr.12098
+   Rosengren D, 1998, J TELEMED TELECARE, V4, P97, DOI 10.1258/1357633981931650
+   Rowell PD, 2014, ANZ J SURG, V84, P955, DOI 10.1111/ans.12753
+   Royal Australasian College of Physicians, 2013, GUID PRACT TIPS
+   Royal Australian College of General Practitioners, 2015, YOUR PRACT
+   Rutherford J, 2014, INT J GYNECOL CANCER, V24, P1145
+   Ryan VN, 2005, J TELEMED TELECARE, V11, P76, DOI 10.1258/135763305775124902
+   Sabesan S, 2014, EUR J CANCER CARE, V23, P745, DOI 10.1111/ecc.12251
+   Sabesan S, 2012, INTERN MED J, V42, P780, DOI 10.1111/j.1445-5994.2011.02537.x
+   Sabesan S, 2015, AUST J RURAL HEALTH, V23, P19, DOI 10.1111/ajr.12170
+   Sabesan S, 2014, AUST J RURAL HEALTH, V22, P156, DOI 10.1111/ajr.12101
+   Sabesan S, 2014, J TELEMED TELECARE, V20, P207, DOI 10.1177/1357633X14529237
+   Sabesan S, 2012, AUST J RURAL HEALTH, V20, P259, DOI 10.1111/j.1440-1584.2012.01299.x
+   Saligari J, 2002, J TELEMEDICINE TE S3, V8, pS53
+   Santamaria N, 2000, Collegian, V7, P14, DOI 10.1016/S1322-7696(08)60385-6
+   Santamaria N, 2000, COLLEGIAN, V7, P17
+   Santamaria N, 2004, PRIMARY INTENTION, V12, P62
+   Saurman E, 2014, J TELEMED TELECARE, V20, P391, DOI 10.1177/1357633X14552372
+   Saurman E, 2014, J TELEMED TELECARE, V20, P324, DOI 10.1177/1357633X14544422
+   Saurman E, 2014, INT J ENV RES PUB HE, V11, P7678, DOI 10.3390/ijerph110807678
+   Saurman E, 2014, AUST HEALTH REV, V38, P58, DOI 10.1071/AH13050
+   Saurman E, 2011, J EMERG NURS, V37, P453, DOI 10.1016/j.jen.2010.11.005
+   Schulz TR, 2014, INTERN MED J, V44, P981, DOI 10.1111/imj.12537
+   Schulz TR, 2015, AUST HEALTH REV, V39, P395, DOI 10.1071/AH14124
+   See Adrian, 2005, Australas J Dermatol, V46, P144, DOI 10.1111/j.1440-0960.2005.00166.x
+   Sharpe K, 2012, J TELEMED TELECARE, V18, P260, DOI 10.1258/jtt.2011.110906
+   Smith AC, 2003, J TELEMED TELECARE, V9, pS54, DOI 10.1258/135763303322596273
+   Smith AC, 2003, J TELEMED TELECARE, V9, pS58
+   Smith AC, 2004, BURNS, V30, P248, DOI 10.1016/j.burns.2003.11.003
+   Smith AC, 2007, BMC HEALTH SERV RES, V7, DOI 10.1186/1472-6963-7-35
+   Smith AC, 2007, J TELEMED TELECARE, V13, P163, DOI 10.1258/135763307780908021
+   Smith Anthony C, 2005, J Postgrad Med, V51, P286
+   Smith AC, 2013, J TELEMED TELECARE, V19, P397, DOI 10.1177/1357633X13506526
+   Smith AC, 2010, STUD HEALTH TECHNOL, V161, P149, DOI 10.3233/978-1-60750-659-1-149
+   Smith Anthony C, 2005, J Telemed Telecare, V11 Suppl 2, pS86
+   Smith AC, 2009, MED J AUSTRALIA, V190, P15
+   Smith Anthony C, 2005, J Telemed Telecare, V11 Suppl 2, pS81
+   State Government Victoria: Health, 2015, TEL
+   Sweetman G, 2007, EMERG MED AUSTRALAS, V19, P176, DOI 10.1111/j.1742-6723.2007.00951-953.x
+   Taylor J, 2015, J ADV NURS, V71, P326, DOI 10.1111/jan.12480
+   Thaker DA, 2013, MED J AUSTRALIA, V199, P414, DOI 10.5694/mja12.11781
+   The Joanna Briggs Institute and University of Adelaide, 2014, NEW JBI LEV EV
+   Trott P, 1998, J TELEMED TELECARE, V4, P66, DOI 10.1258/1357633981931515
+   Unknown, 2013, AUSTR OCCUPATIONAL T, P16
+   Van Ast P, 2007, Rural Remote Health, V7, P634
+   Van Ast Penny, 2005, J Telemed Telecare, V11 Suppl 2, pS96
+   Wade V, 2014, AUST HEALTH REV, V38, P528, DOI 10.1071/AH14090
+   Wade V, 2012, J TELEMED TELECARE, V18, P490, DOI 10.1258/jtt.2012.GTH115
+   Wade VA, 2012, J TELEMED TELECARE, V18, P109, DOI 10.1258/jtt.2011.110808
+   Wakerman J., 2006, SYSTEMATIC REV PRIMA
+   Wakerman J, 2011, AUST J RURAL HEALTH, V19, P118, DOI 10.1111/j.1440-1584.2010.01180.x
+   Western Australia Country Health Service, 2015, TEL
+   Whitehall J, 1998, Aust J Rural Health, V6, P140, DOI 10.1111/j.1440-1584.1998.tb00300.x
+   Wood J, 2012, AUSTRALAS PSYCHIATRY, V20, P333, DOI 10.1177/1039856212450756
+   Wootton R, 2012, J TELEMED TELECARE, V18, P211, DOI 10.1258/jtt.2012.120219
+   World Bank, 2015, POP DENS
+   World Health Organization, 2009, TEL OPP DEV MEMB STA
+   Zanaboni P, 2012, BMC MED INFORM DECIS, V12, DOI 10.1186/1472-6947-12-1
+   Zilliacus E, 2010, TELEMED J E-HEALTH, V16, P350, DOI 10.1089/tmj.2009.0108
+NR 154
+TC 2
+Z9 3
+U1 0
+U2 9
+PU AUSTRALIAN RURAL HEALTH EDUC NETWORK
+PI DEAKIN WEST
+PA PO BOX 242, DEAKIN WEST, ACT 2600, AUSTRALIA
+SN 1445-6354
+J9 RURAL REMOTE HEALTH
+JI Rural Remote Health
+PD OCT-DEC
+PY 2016
+VL 16
+IS 4
+AR 3808
+PG 23
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA EO4XG
+UT WOS:000396697000021
+PM 27744708
+DA 2019-03-26
+ER
+
+PT J
+AU Docile, TN
+   Figueiro, R
+   Portela, C
+   Nessimian, JL
+AF Docile, Tatiana N.
+   Figueiro, Ronaldo
+   Portela, Clayton
+   Nessimian, Jorge L.
+TI Macroinvertebrate diversity loss in urban streams from tropical forests
+SO ENVIRONMENTAL MONITORING AND ASSESSMENT
+LA English
+DT Article
+DE Aquatic insects; Urbanization; Community structure; Anthropogenic impact
+ID RIO-DE-JANEIRO; LAND-USE; BENTHIC INVERTEBRATES; TAXONOMIC RESOLUTION;
+   SECONDARY PRODUCTION; NUTRIENT ENRICHMENT; HEADWATER STREAMS; SPATIAL
+   SCALES; FOOD WEBS; BRAZIL
+AB The increase of human activities in recent years has significantly interfered and affected aquatic ecosystems. In this present study, we investigate the effects of urbanization in the community structure of aquatic macroinvertebrates from Atlantic Forest streams. The sampling was conducted in the mountainous region of the State of Rio de Janeiro, Brazil in 10 urban and 10 preserved streams during the dry season (August September) of 2012. The streams were characterized for its environmental integrity conditions and physico-chemical properties of water. The macroinvertebrates were sampled on rocky substrates with a kicknet. A total of 5370 individuals were collected from all streams and were distributed among Ephemeroptera, Odonata, PI ecoptera, Hemiptera, Megaloptera, Coleoptera, Trichoptera, Lepidoptera, and Diptera. In urban sites, all those orders were found, except Megaloptera, while only Mollusca was not found in preserved streams. We performed a non-metric multidimensional scaling (NMDS) analysis that separated two groups distributed among sites in urban communities and another group outside this area. The dominance was significantly higher at urban sites, while the a diversity and equitability were greater in preserved sites. A canonical correspondence analysis (CCA) was also performed, indicating that most taxa associated with high values of the Habitat Integrity Index (HII) and a few genus of the order Diptera with the high values of ammonia, total nitrogen, associated to streams in urban sites. Urban and preserved streams differ by physical-chemical variables and aquatic macro invertebrates. In urban streams, there is most dominance, while alpha diversity and equitability are higher in preserved streams.
+C1 [Docile, Tatiana N.; Portela, Clayton; Nessimian, Jorge L.] Univ Fed Rio de Janeiro, Inst Biol, Dept Zool, CCS,Entomol Lab, Bloco A,Sala A1-107,Av Carlos Chagas Filho 373, Rio De Janeiro, RJ, Brazil.
+   [Docile, Tatiana N.] Univ Fed Rio de Janeiro, Programa Posgrad Ecol, Rio De Janeiro, Brazil.
+   [Docile, Tatiana N.; Figueiro, Ronaldo] Ctr Univ Estadual Zona Oeste UEZO, Lab Biotecnol Ambiental, Rio De Janeiro, Brazil.
+   [Figueiro, Ronaldo] Ctr Univ Volta Redonda UniFOA, Volta Redonda, Brazil.
+   [Figueiro, Ronaldo] Ctr Univ Estadual Zona Oeste UEZO, Programa Posgrad Ciencia & Tecnol Ambiental, Rio De Janeiro, Brazil.
+RP Docile, TN (reprint author), Ctr Univ Estadual Zona Oeste UEZO, Lab Biotecnol Ambiental, Rio De Janeiro, Brazil.
+EM tatidocile@gmail.com
+RI Nessimian, Jorge/I-9435-2012; Figueiro, Ronaldo/H-3228-2011
+OI Figueiro, Ronaldo/0000-0003-0762-1312
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq);
+   Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Estado do Rio de
+   Janeiro (FAPERJ)
+FX We would like to thank Larissa Duarte Correa and Andre Luiz Ramos da
+   Silva (Laboratorio de Entomologia, IB, UFRJ) for their help in field
+   work; Mario Ribeiro and Claudio Marinho (Laboratorio de Limnologia; IB,
+   UFRJ) for their help with water analyses. To Institute Brasileiro do
+   Meio Ambiente e dos Recursos Naturais Renovaveis (IBAMA), Institute
+   Chico Mendes de Conservacao da Biodiversidade (ICMBio) and INEA for
+   issuing collecting permits. Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico (CNPq) and Fundacao Carlos Chagas Filho de
+   Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ) provided
+   financial support by grants and fellowships.
+CR Allan J. D., 1995, STREAM ECOLOGY STRUC, DOI [10.1007/978-94-011-0729-7, DOI 10.1007/978-94-011-0729-7]
+   Angrisano E. B, 1995, ECOSISTEMAS AGUAS CO, P1199
+   Azevedo C. A. S., 2003, THESIS U FEDERAL AMA, P183
+   Barbour M. T., 1999, 841B99002 EPA
+   Bojsen BH, 2003, ARCH HYDROBIOL, V158, P317, DOI 10.1127/0003-9136/2003/0158-0317
+   Bonada N, 2006, ANNU REV ENTOMOL, V51, P495, DOI 10.1146/annurev.ento.51.110104.151124
+   BOWER CE, 1980, CAN J FISH AQUAT SCI, V37, P794, DOI 10.1139/f80-106
+   Boyero L, 2000, TRENDS ECOL EVOL, V15, P390, DOI 10.1016/S0169-5347(00)01957-1
+   Bozelli RL, 2009, LIMNOLOGICA, V39, P306, DOI 10.1016/j.limno.2009.06.004
+   Braak C. J. F., 2002, CANOCO REFERENCE MAN
+   BRIGANTE J, 2003, LIMNOLOGIA FLUVIAL E
+   Bueno Alessandra A. P., 2003, Rev. Bras. Zool., V20, P115, DOI 10.1590/S0101-81752003000100014
+   Buss DF, 2002, HYDROBIOLOGIA, V481, P125, DOI 10.1023/A:1021281508709
+   Callisto M, 2001, REV BRASILEIRA RECUR, V6, P71
+   Camourze J.P., 1994, METABOLISMO ECOSSIST
+   Carlisle DM, 2003, J N AM BENTHOL SOC, V22, P582, DOI 10.2307/1468355
+   Carson R., 1962, SILENT SPRING
+   Carvalho A. L., 2000, MUSEU ZOOLOGIA U SAO, V41, P223
+   Carvalho AL, 2002, ODONATOLOGICA, V31, P23
+   Cross WF, 2006, ECOLOGY, V87, P1556, DOI 10.1890/0012-9658(2006)87[1556:WNEISP]2.0.CO;2
+   CUFFNEY TF, 1990, FRESHWATER BIOL, V23, P281, DOI 10.1111/j.1365-2427.1990.tb00272.x
+   Da-Silva Elidiomar Ribeiro, 2003, Boletim do Museu Nacional Rio de Janeiro Zoologia, V508, P1
+   Docile T.N., 2013, ACTA SCI TECHNICAE, V1, P31
+   Dufrene M, 1997, ECOL MONOGR, V67, P345, DOI 10.1890/0012-9615(1997)067[0345:SAAIST]2.0.CO;2
+   ELLIOTT JM, 1977, SCI PUBLICATION FRES, V25
+   Giller P. S., 1998, BIOL STREAMS RIVERS, P296
+   GOULART M., 2003, REV FAPAM, V2, P78
+   Gulis V, 2003, FRESHWATER BIOL, V48, P123, DOI 10.1046/j.1365-2427.2003.00985.x
+   Hammer O., 2001, PAST PALAEONTOLOGICA
+   Heino J, 2003, J ANIM ECOL, V72, P425, DOI 10.1046/j.1365-2656.2003.00711.x
+   Hynes H., 1960, BIOL POLLUTED WATERS, P202
+   IBGE- Instituto Brasileiro de Geografia e Estat istica, 2010, CENS DEM
+   Lammert M, 1999, ENVIRON MANAGE, V23, P257, DOI 10.1007/s002679900184
+   LEMLY AD, 1982, HYDROBIOLOGIA, V87, P229, DOI 10.1007/BF00007232
+   LENAT DR, 1994, HYDROBIOLOGIA, V294, P185, DOI 10.1007/BF00021291
+   Ludwig J. A., 1988, STAT ECOLOGY PRIMER
+   MACKERETH J. F. H., 1978, FRESHWATER BIOL ASS, P121
+   McAllister D.E., 1997, SEA WIND, V11, P1
+   MCCLELLAND W T, 1980, Aquatic Insects, V2, P161, DOI 10.1080/01650428009361022
+   McCune B., 1999, MULTIVARIATE ANAL EC
+   Merritt Richard W., 1996, P453
+   Moreno JL, 2006, ENVIRON POLLUT, V143, P388, DOI 10.1016/j.envpol.2005.12.012
+   MORIARTY C, 1990, INT REV GES HYDROBIO, V75, P701, DOI 10.1002/iroh.19900750603
+   Moulton TP, 2006, AQUAT CONSERV, V16, P659, DOI 10.1002/aqc.814
+   Nessimian JL, 2008, HYDROBIOLOGIA, V614, P117, DOI 10.1007/s10750-008-9441-x
+   NUSCH EA, 1975, GAS WASSERFACH WASSE, V116, P562
+   O'Toole C, 2008, AQUAT ECOL, V42, P277, DOI 10.1007/s10452-008-9185-8
+   Okland J., 1980, P INT C IMPACT ACID, P326
+   Olifiers MH, 2004, ZOOTAXA, P1
+   Oliveira L. G., 1997, ACTA LIMNOL BRAS, V9, P139
+   OMETTO J. P., 2004, ECOHYDROLOGY HYDROBI, V4, P37
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Pes AMO, 2005, REV BRAS ENTOMOL, V49, P181, DOI 10.1590/S0085-56262005000200002
+   PETERSEN RC, 1992, FRESHWATER BIOL, V27, P295, DOI 10.1111/j.1365-2427.1992.tb00541.x
+   Petruck A, 2011, LIMNOLOGICA, V41, P143, DOI 10.1016/j.limno.2011.01.001
+   Plafkin J.L., 1989, 444489001 EPA
+   Ramirez A, 2009, J N AM BENTHOL SOC, V28, P1070, DOI 10.1899/08-165.1
+   Reece P.F., 1999, P BIOL MAN SPEC HAB, V2, P15
+   Resh V. H, 1984, ECOLOGY AQUATIC INSE
+   Rios SL, 2006, HYDROBIOLOGIA, V553, P153, DOI 10.1007/s10750-005-0868-z
+   Roque FO, 2003, J INSECT CONSERV, V7, P63, DOI 10.1023/A:1025505323668
+   Roque F. O., 2000, AN 2 C BRAS UN CONS, P752
+   Salles F.F., 2006, THESIS U FEDERAL VIC
+   SALOMONI SE, 2007, ACTA LIMNOL BRAS, V19, P1
+   SHAPIRO SS, 1965, BIOMETRIKA, V52, P591, DOI 10.1093/biomet/52.3-4.591
+   Shepp D. L, 1997, WATERSHED RESTORATIO, P297
+   Shieh SH, 2002, J N AM BENTHOL SOC, V21, P660, DOI 10.2307/1468437
+   Passos MIS, 2007, REV BRAS ENTOMOL, V51, P42, DOI 10.1590/S0085-56262007000100008
+   Statsoft INC, 2004, STATISTICA DAT ANAL
+   Stewart P.M., 2000, Aquatic Ecosystem Health & Management, V3, P179
+   Thompson RM, 2000, FRESHWATER BIOL, V44, P413, DOI 10.1046/j.1365-2427.2000.00579.x
+   Vondracek B, 2005, ENVIRON MANAGE, V36, P775, DOI 10.1007/s00267-005-0039-z
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Wenger SJ, 2009, J N AM BENTHOL SOC, V28, P1080, DOI 10.1899/08-186.1
+   Wiggins GB, 1996, LARVAE N AM CADDISFL, P457
+   Winemiller KO, 1998, J FISH BIOL, V53, P267, DOI 10.1006/jfbi.1998.0832
+   Zar J.H., 2009, BIOSTATICAL ANAL
+NR 77
+TC 1
+Z9 1
+U1 3
+U2 84
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0167-6369
+EI 1573-2959
+J9 ENVIRON MONIT ASSESS
+JI Environ. Monit. Assess.
+PD APR
+PY 2016
+VL 188
+IS 4
+AR UNSP 237
+DI 10.1007/s10661-016-5237-z
+PG 13
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA DH4IW
+UT WOS:000372750100036
+PM 27003402
+DA 2019-03-26
+ER
+
+PT J
+AU Bojic, I
+   Belyi, A
+   Ratti, C
+   Sobolevsky, S
+AF Bojic, Iva
+   Belyi, Alexander
+   Ratti, Carlo
+   Sobolevsky, Stanislav
+TI Scaling of foreign attractiveness for countries and states
+SO APPLIED GEOGRAPHY
+LA English
+DT Article
+DE Flickr; Scaling laws; Media objects; Big data
+ID MOBILE PHONE DATA; CITIES; PATTERNS
+AB People's behavior on online social networks, which store geotagged information showing where people were or are at the moment, can provide information about their offline life as well. In this paper we present one possible research direction that can be taken using Flickr dataset of publicly available geo-tagged media objects (e.g., photographs, videos). Namely, our focus is on investigating attractiveness of countries or smaller large-scale composite regions (e.g., US states) for foreign visitors where attractiveness is defined as the absolute number of media objects taken in a certain state or country by its foreign visitors compared to its population size. We also consider it together with attractiveness of the destination for the international migration, measured through publicly available dataset provided by United Nations. By having those two datasets, we are able to look at attractiveness from two different perspectives: short-term and long-term one. As our previous study showed that city attractiveness for Spanish cities follows a superlinear trend, here we want to see if the same law is also applicable to country/state (i.e., composite regions) attractiveness. Finally, we provide one possible explanation for the obtained results. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Bojic, Iva; Ratti, Carlo; Sobolevsky, Stanislav] MIT, Senseable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Bojic, Iva; Belyi, Alexander] SMART Ctr, SENSEable City Lab, 1 Create Way, Singapore, Singapore.
+   [Belyi, Alexander] Belarusian State Univ, 4 Nezavisimosti Ave, Minsk, BELARUS.
+   [Sobolevsky, Stanislav] NYU, Ctr Urban Sci & Progress, MetroTech Ctr 1, Brooklyn, NY 11201 USA.
+RP Bojic, I (reprint author), MIT, Senseable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM ivabojic@mit.edu; alex.bely@smart.mit.edu; ratti@mit.edu;
+   sobolevsky@nyu.edu
+OI /0000-0002-4664-3349
+FU National Research Foundation, Prime Minister's Office, Singapore, under
+   its CREATE programme, Singapore-MIT Alliance for Research and Technology
+   (SMART) Future Urban Mobility (FM) IRG; MIT SMART Program; Center for
+   Complex Engineering System at KACST; Center for Complex Engineering
+   System at MIT; Accenture; Air Liquide; BBVA; Coca Cola Company; Emirates
+   Integrated Telecommunications Company; ENEL foundation; Ericsson;
+   Ferrovial; Liberty Mutual; Regional Municipality of Wood Buffalo;
+   Volkswagen Electronics Research Lab; UBER; research project "Managing
+   Trust and Coordinating Interactions in Smart Networks of People,
+   Machines and Organizations" - Croatian Science Foundation
+   [UIP-11-2013-8813]
+FX The research is supported by the National Research Foundation, Prime
+   Minister's Office, Singapore, under its CREATE programme, Singapore-MIT
+   Alliance for Research and Technology (SMART) Future Urban Mobility (FM)
+   IRG. The authors would like to thank MIT SMART Program, Center for
+   Complex Engineering Systems at KACST and MIT, Accenture, Air Liquide,
+   BBVA, The Coca Cola Company, Emirates Integrated Telecommunications
+   Company, The ENEL foundation, Ericsson, Expo 2015, Ferrovial, Liberty
+   Mutual, The Regional Municipality of Wood Buffalo, Volkswagen
+   Electronics Research Lab, UBER, and all the members of the MIT Senseable
+   City Lab Consortium for supporting the research. Finally, this work was
+   partially supported by research project "Managing Trust and Coordinating
+   Interactions in Smart Networks of People, Machines and Organizations",
+   funded by the Croatian Science Foundation under the project
+   UIP-11-2013-8813.
+CR Amini A, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds31
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Belyi A., 2016, ARXIV160105532, P1
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bojic I., 2015, P 45 IEEE FRONT ED C, P1
+   Bojic I, 2015, LECT NOTES COMPUT SC, V9471, P194, DOI 10.1007/978-3-319-27433-1_14
+   Calabrese F., 2011, PERVASIVE COMPUT, V4, P36, DOI DOI 10.1109/MPRV.2011.41
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grauwin S, 2015, GEOTECH ENVIRON, V13, P363, DOI 10.1007/978-3-319-11469-9_15
+   Hall P. G., 1998, CITIES CIVILIZATION
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Hoteit S, 2014, COMPUT NETW, V64, P296, DOI 10.1016/j.comnet.2014.02.011
+   Kang C, 2013, P 2 ACM SIGKDD INT W, V2, P1
+   Kung KS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096180
+   Lenormand M., 2015, SCI REPORTS, V5, P1
+   Paldino S, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0043-3
+   Pei T, 2014, INT J GEOGR INF SCI, V28, P1988, DOI 10.1080/13658816.2014.913794
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   Santi P, 2014, P NATL ACAD SCI USA, V111, P13290, DOI 10.1073/pnas.1403657111
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Sobolevsky S., 2015, ARXIV150503854, P1
+   Sobolevsky S., 2014, P 2 ASE INT C BIG DA, P1
+   Sobolevsky S., 2015, P 6 ASE INT C DAT SC, P1
+   Sobolevsky S, 2015, IEEE INT CONGR BIG, P600, DOI 10.1109/BigDataCongress.2015.92
+   Thomee B, 2016, COMMUN ACM, V59, P64, DOI 10.1145/2812802
+   United Nations, 2014, POP DIV WORLD URB PR
+NR 28
+TC 5
+Z9 5
+U1 3
+U2 9
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0143-6228
+EI 1873-7730
+J9 APPL GEOGR
+JI Appl. Geogr.
+PD AUG
+PY 2016
+VL 73
+BP 47
+EP 52
+DI 10.1016/j.apgeog.2016.06.006
+PG 6
+WC Geography
+SC Geography
+GA DT6KL
+UT WOS:000381593000005
+DA 2019-03-26
+ER

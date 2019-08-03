@@ -1,0 +1,462 @@
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI New Approaches for Calculating Moran's Index of Spatial Autocorrelation
+SO PLOS ONE
+LA English
+DT Article
+ID ASSOCIATION; MODEL
+AB Spatial autocorrelation plays an important role in geographical analysis; however, there is still room for improvement of this method. The formula for Moran's index is complicated, and several basic problems remain to be solved. Therefore, I will reconstruct its mathematical framework using mathematical derivation based on linear algebra and present four simple approaches to calculating Moran's index. Moran's scatterplot will be ameliorated, and new test methods will be proposed. The relationship between the global Moran's index and Geary's coefficient will be discussed from two different vantage points: spatial population and spatial sample. The sphere of applications for both Moran's index and Geary's coefficient will be clarified and defined. One of theoretical findings is that Moran's index is a characteristic parameter of spatial weight matrices, so the selection of weight functions is very significant for autocorrelation analysis of geographical systems. A case study of 29 Chinese cities in 2000 will be employed to validate the innovatory models and methods. This work is a methodological study, which will simplify the process of autocorrelation analysis. The results of this study will lay the foundation for the scaling analysis of spatial autocorrelation.
+C1 Peking Univ, Dept Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Dept Geog, Coll Urban & Environm Sci, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn
+FU National Natural Science Foundation of China [41171129]
+FX This research was sponsored by the National Natural Science Foundation
+   of China (grant 41171129;
+   http://www.nsfc.gov.cn/Portal0/default166.htm). The funders had no role
+   in study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR ANSELIN L, 1995, GEOGR ANAL, V27, P93, DOI 10.1111/j.1538-4632.1995.tb00338.x
+   Anselin L., 1996, SPATIAL ANAL PERSPEC, V4, P111
+   Beck J, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010416
+   Benedetti-Cecchi L, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012946
+   Bivand R, 2009, COMPUT STAT DATA AN, V53, P2859, DOI 10.1016/j.csda.2008.07.021
+   Bonnot N, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014436
+   Braun A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0042046
+   Chen YG, 2012, LETT SPAT RESOUR SCI, V5, P65, DOI 10.1007/s12076-011-0076-6
+   Chen YG, 2013, CHAOS SOLITON FRACT, V49, P47, DOI 10.1016/j.chaos.2013.02.006
+   Chen YG, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0024791
+   Chen YG, 2008, DISCRETE DYN NAT SOC, DOI 10.1155/2008/728420
+   Chen YG, 2009, CHAOS SOLITON FRACT, V41, P603, DOI 10.1016/j.chaos.2008.02.030
+   Chen YG, 2010, INT J ARTIFICIAL LIF, V1, P12
+   Cliff A., 1973, SPATIAL AUTOCORRELAT
+   Cliff A. D., 1981, SPATIAL PROCESSES MO
+   Cliff AD, 1969, LONDON PAPERS REGION, P25
+   Deblauwe V, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0048766
+   Geary RC, 1954, INCORPORATED STATIST, V5, P115, DOI [10.2307/2986645, DOI 10.2307/2986645]
+   GETIS A, 1992, GEOGR ANAL, V24, P189, DOI 10.1111/j.1538-4632.1992.tb00261.x
+   Getis A, 2009, GEOGR ANAL, V41, P404, DOI 10.1111/j.1538-4632.2009.00768.x
+   GRIFFITH DA, 2003, SPATIAL AUTOCORRELAT
+   Haggett P., 1977, LOCATIONAL ANAL HUMA
+   Haining RP, 2009, GEOGR ANAL, V41, P364, DOI 10.1111/j.1538-4632.2009.00763.x
+   Impoinvil DE, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022192
+   Kumar C, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037515
+   Li HF, 2007, GEOGR ANAL, V39, P357, DOI 10.1111/j.1538-4632.2007.00708.x
+   Mateo-Tomas P, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012374
+   MORAN PAP, 1950, BIOMETRIKA, V37, P17, DOI 10.2307/2332142
+   MORAN PAP, 1948, J ROY STAT SOC B, V10, P243
+   Odland J, 1988, SPATIAL AUTOCORRELAT
+   SOKAL RR, 1978, BIOL J LINN SOC, V10, P199, DOI 10.1111/j.1095-8312.1978.tb00013.x
+   Sokal RR, 1987, NATO ASI SER, VG14, P431
+   Stark JH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034245
+   Tiefelsdorf M, 2002, GEOGR ANAL, V34, P187, DOI 10.1353/geo.2002.0018
+   Weeks JR, 2004, ANN ASSOC AM GEOGR, V94, P74, DOI 10.1111/j.1467-8306.2004.09401005.x
+   Wilson AG, 1970, ENTROPY URBAN REGION
+NR 36
+TC 22
+Z9 23
+U1 1
+U2 34
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 12
+PY 2013
+VL 8
+IS 7
+AR e68336
+DI 10.1371/journal.pone.0068336
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 182CS
+UT WOS:000321718700018
+PM 23874592
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Yan, XY
+   Han, XP
+   Wang, BH
+   Zhou, T
+AF Yan, Xiao-Yong
+   Han, Xiao-Pu
+   Wang, Bing-Hong
+   Zhou, Tao
+TI Diversity of individual mobility patterns and emergence of aggregated
+   scaling laws
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID HEAVY TAILS; DISTRIBUTIONS; NETWORKS; DYNAMICS; BEHAVIOR; TRAVEL;
+   PREDICTABILITY; COMMUNICATION; POPULATION; SYSTEMS
+AB Uncovering human mobility patterns is of fundamental importance to the understanding of epidemic spreading, urban transportation and other socioeconomic dynamics embodying spatiality and human travel. According to the direct travel diaries of volunteers, we show the absence of scaling properties in the displacement distribution at the individual level, while the aggregated displacement distribution follows a power law with an exponential cutoff. Given the constraint on total travelling cost, this aggregated scaling law can be analytically predicted by the mixture nature of human travel under the principle of maximum entropy. A direct corollary of such theory is that the displacement distribution of a single mode of transportation should follow an exponential law, which also gets supportive evidences in known data. We thus conclude that the travelling cost shapes the displacement distribution at the aggregated level.
+C1 [Yan, Xiao-Yong; Zhou, Tao] Univ Elect Sci & Technol China, Web Sci Ctr, Chengdu 611731, Peoples R China.
+   [Yan, Xiao-Yong] Shijiazhuang Tiedao Univ, Dept Transportat Engn, Shijiazhuang 050043, Peoples R China.
+   [Yan, Xiao-Yong] Beijing Normal Univ, Dept Syst Sci, Beijing 100875, Peoples R China.
+   [Han, Xiao-Pu; Wang, Bing-Hong] Univ Sci & Technol China, Dept Modern Phys, Hefei 230026, Peoples R China.
+   [Han, Xiao-Pu] Hangzhou Normal Univ, Inst Informat Econ, Hangzhou 310036, Zhejiang, Peoples R China.
+   [Han, Xiao-Pu] Hangzhou Normal Univ, Alibaba Business Coll, Hangzhou 310036, Zhejiang, Peoples R China.
+   [Zhou, Tao] Microsoft Res Asia, Beijing 100080, Peoples R China.
+RP Zhou, T (reprint author), Univ Elect Sci & Technol China, Web Sci Ctr, Chengdu 611731, Peoples R China.
+EM zhutou@ustc.edu
+RI Yan, Xiao-Yong/P-6027-2018; Han, Xiao-Pu/E-8401-2010
+OI Yan, Xiao-Yong/0000-0003-2091-6967; 
+FU National Natural Science Foundation of China (NNSFC) [11222543,
+   11205040, 11275186, 91024026]; Program for New Century Excellent Talents
+   in University [NCET-11-0070]; Huawei University-Enterprise Cooperation
+   Project [YBCB2011057]
+FX This work was partially supported by the National Natural Science
+   Foundation of China (NNSFC) under Grant Nos. 11222543, 11205040,
+   11275186 and 91024026, Program for New Century Excellent Talents in
+   University under Grant No. NCET-11-0070, and Huawei
+   University-Enterprise Cooperation Project under Grant No. YBCB2011057.
+CR [Anonymous], 2011, P 17 ACM SIGKDD INT, DOI DOI 10.1145/2020408.2020575
+   Baiesi M, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.047103
+   Balcan D, 2011, NAT PHYS, V7, P581, DOI 10.1038/NPHYS1944
+   Balescu R., 1975, EQUILIBRIUM NONEQUIL
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Bartumeus F, 2005, ECOLOGY, V86, P3078, DOI 10.1890/04-1806
+   Bazzani A, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/05/P05001
+   Belik V, 2011, PHYS REV X, V1, DOI 10.1103/PhysRevX.1.011001
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Chalasani VS, 2005, J TRANSP STAT, V8, P1
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Clements M, ARXIV11065213
+   Gallotti R, 2012, INT J MOD PHYS C, V23, DOI [10.1142/S0129183112500611, DOI 10.1142/S0129183112500611]
+   Garlaschelli D, 2007, NAT PHYS, V3, P813, DOI 10.1038/nphys729
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Han XP, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036117
+   Hidalgo CA, 2006, PHYSICA A, V369, P877, DOI 10.1016/j.physa.2005.12.035
+   Homer M. W., 2001, J TRANSP GEOGR, V9, P255, DOI DOI 10.1016/S0966-6923(01)00019-9
+   Jiang B., ARXIV11044578V2
+   Jiang B, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.021136
+   Kim BJ, 2005, EUR PHYS J B, V43, P369, DOI 10.1140/epjb/e2005-00065-y
+   Li S., 2005, HUMAN GEOGRAPHY, V20, P51
+   Liang X, 2012, PHYSICA A, V391, P2135, DOI 10.1016/j.physa.2011.11.035
+   Lu LY, 2013, SCI REP-UK, V3, DOI 10.1038/srep01082
+   Lu X, 2012, P NATL ACAD SCI USA, V109, P11576, DOI 10.1073/pnas.1203882109
+   Malmgren RD, 2008, P NATL ACAD SCI USA, V105, P18153, DOI 10.1073/pnas.0800332105
+   Milojevic S, 2010, J AM SOC INF SCI TEC, V61, P2417, DOI 10.1002/asi.21426
+   Mitzenmacher M., 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Ni SJ, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016111
+   Oosterhaven J. A., 2005, LOCATION COMPETITION, P32
+   Peng CB, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034487
+   Perotti JI, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.108701
+   Petrovskii S, 2011, P NATL ACAD SCI USA, V108, P8704, DOI 10.1073/pnas.1015208108
+   Proekt A, 2012, P NATL ACAD SCI USA, V109, P10564, DOI 10.1073/pnas.1206894109
+   Rietveld P, 1999, ANN REGIONAL SCI, V33, P269, DOI 10.1007/s001680050105
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Simkin MV, 2011, PHYS REP, V502, P1, DOI 10.1016/j.physrep.2010.12.004
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Sole R. V., 2002, EUR PHYS LETT, V43, P369
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Szell M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00457
+   Um J, 2009, P NATL ACAD SCI USA, V106, P14236, DOI 10.1073/pnas.0901898106
+   Vespignani A, 2009, SCIENCE, V325, P425, DOI 10.1126/science.1171990
+   WILLUMSEN LG, 2000, HB TRANSPORT, V1, P165
+   Wu Y, 2010, P NATL ACAD SCI USA, V107, P18803, DOI 10.1073/pnas.1013140107
+   Yoon J., 2006, P 4 INT C MOB SYST A, P177
+   Zhao ZD, 2012, CHAOS, V22, DOI 10.1063/1.4730750
+   ZHENG V. W., 2010, P 19 INT C WORLD WID, P1029, DOI DOI 10.1145/1772690.1772795
+   Zhou T, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020648
+NR 54
+TC 50
+Z9 53
+U1 1
+U2 48
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD SEP 18
+PY 2013
+VL 3
+AR 2678
+DI 10.1038/srep02678
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 219UU
+UT WOS:000324537100001
+PM 24045416
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Friedenberg, FK
+   Makipour, K
+   Palit, A
+   Shah, S
+   Vanar, V
+   Richter, JE
+AF Friedenberg, F. K.
+   Makipour, K.
+   Palit, A.
+   Shah, S.
+   Vanar, V.
+   Richter, J. E.
+TI Population-based assessment of heartburn in urban Black Americans
+SO DISEASES OF THE ESOPHAGUS
+LA English
+DT Article
+DE African American; GERD; heartburn
+ID GASTROESOPHAGEAL-REFLUX DISEASE; INDEPENDENT RISK-FACTOR;
+   HELICOBACTER-PYLORI; LIFE-STYLE; GASTROINTESTINAL SYMPTOMS; EROSIVE
+   ESOPHAGITIS; CHINESE POPULATION; CLINICAL SPECTRUM; DIABETES-MELLITUS;
+   ABDOMINAL OBESITY
+AB Prevalence data for heartburn in the urban Black American community is lacking. In order to estimate prevalence for this community, we analyzed data from an ongoing cohort study in progress at our hospital. Comprehensive interviews allowed for exploration of factors associated with heartburn. Complex, stratified sampling design was the method used. Survey invitations are hand-delivered to random blocks in a single zip code tabulation area. One member per eligible household is invited to complete a computer-based survey. Heartburn was defined as 3 days/week of symptoms as defined by the Montreal Definition and Classification of gastroesophageal reflux disease. Scaling and weighting factors were utilized to estimate population level prevalence. Multivariate logistic regression was used to identify independent predictor variables for heartburn. Enrolled 379 participants corresponding to a weighted sample size of 22409 (20888-23930) citizens. Demographic characteristics of the sample closely matched those of the entire targeted population. Overall, the weighted prevalence of heartburn 3 times per week was 17.6% (16.4-18.8%). Variables independently associated with heartburn were body mass index, daily caloric and fat intake, diabetes mellitus (odds ratio = 2.95; 2.59-3.36), cigarette smoking, and alcohol consumption (odds ratio = 2.55; 2.25-2.89). Factors inversely associated included illicit drug use and increased physical activity. Waist:hip ratio showed no relationship. The prevalence of heartburn 3 times per week is high in the Black American community. Adverse lifestyle behaviors showed particularly important associations. Our study needs to be replicated in other communities with similar demographics.
+C1 [Friedenberg, F. K.; Makipour, K.; Palit, A.; Shah, S.; Vanar, V.] Temple Univ, Sch Med, Ctr Digest Dis, Philadelphia, PA 19122 USA.
+   [Richter, J. E.] USF Coll Med, Div Digest Dis & Nutr, Philadelphia, PA USA.
+RP Friedenberg, FK (reprint author), Temple Univ Hosp & Med Sch, 3401 North Broad St, Philadelphia, PA 19140 USA.
+EM friedfk@tuhs.temple.edu
+OI Vanar, Vishwas/0000-0002-9634-3790
+FU DHHS [K24DK083268]
+FX Award K24DK083268 from the DHHS to FKF.
+CR Akiyama T, 2008, BMC GASTROENTEROL, V8, P1
+   Anderson LA, 2009, GASTROENTEROLOGY, V136, P799, DOI 10.1053/j.gastro.2008.12.005
+   BERSTAD A, 1995, SCAND J GASTROENTERO, V30, P1, DOI 10.3109/00365529509090284
+   Bor S, 2009, J GASTROEN HEPATOL, V24, P316, DOI 10.1111/j.1440-1746.2008.05634.x
+   Bush K, 1998, ARCH INTERN MED, V158, P1789, DOI 10.1001/archinte.158.16.1789
+   Bytzer P, 2002, AM J GASTROENTEROL, V97, P604
+   CHARI S, 1993, GUT, V34, P843, DOI 10.1136/gut.34.6.843
+   Corley DA, 2007, GUT, V56, P756, DOI 10.1136/gut.2006.109413
+   El-Serag HB, 2007, CLIN GASTROENTEROL H, V5, P17, DOI 10.1016/j.cgh.2006.09.016
+   El-Serag HB, 2005, AM J GASTROENTEROL, V100, P1243, DOI 10.1111/j.1572-0241.2005.41703.x
+   El-Serag HB, 2004, GASTROENTEROLOGY, V126, P1692, DOI 10.1053/j.gastro.2004.03.077
+   Fass R, 2007, J CLIN GASTROENTEROL, V41, P437, DOI 10.1097/MCG.0b013e31802e849f
+   Friedenberg FK, 2010, OBES RES CLIN PRACT, V4, pE261, DOI 10.1016/j.orcp.2010.06.001
+   HEATHERTON TF, 1991, BRIT J ADDICT, V86, P1119
+   Ho KY, 1998, AM J GASTROENTEROL, V93, P1816
+   Ho KY, 2005, AM J GASTROENTEROL, V100, P1923, DOI 10.1111/j.1572-0241.2005.50138.x
+   Jacobson BC, 2006, NEW ENGL J MED, V354, P2340, DOI 10.1056/NEJMoa054391
+   Jung HK, 2011, J NEUROGASTROENTEROL, V17, P14, DOI 10.5056/jnm.2011.17.1.14
+   Kahrilas Peter J, 2008, Gastroenterology, V135, P1383, DOI 10.1053/j.gastro.2008.08.045
+   KAHRILAS PJ, 1990, GUT, V31, P4, DOI 10.1136/gut.31.1.4
+   Kang MS, 2007, J GASTROEN HEPATOL, V22, P1656, DOI 10.1111/j.1440-1746.2006.04518.x
+   Katelaris P, 2002, J GASTROEN HEPATOL, V17, P825
+   KAUFMAN SE, 1978, GUT, V19, P336, DOI 10.1136/gut.19.4.336
+   Lauffer A, 2011, OBES SURG, V21, P864, DOI 10.1007/s11695-011-0372-7
+   Lluch I, 1999, AM J GASTROENTEROL, V94, P919
+   Locke GR, 1997, GASTROENTEROLOGY, V112, P1448, DOI 10.1016/S0016-5085(97)70025-8
+   Mohammed I, 2005, ALIMENT PHARM THER, V21, P821, DOI 10.1111/j.1365-2036.2005.02426.x
+   Nilsson M, 2004, GUT, V53, P1730, DOI 10.1136/gut.2004.043265
+   Nocon M, 2006, ALIMENT PHARM THERAP, V23, P169, DOI 10.1111/j.1365-2036.2006.02727.x
+   Penagini R, 2004, GUT, V53, P1227, DOI 10.1136/gut.2003.035246
+   Richter JE, 1998, AM J GASTROENTEROL, V93, P1800
+   Sawaya R A, 2011, DIS ESOPHAGUS, V25, P477
+   Schwizer W, 2001, LANCET, V357, P1738, DOI 10.1016/S0140-6736(00)04894-7
+   Madalosso CAS, 2008, OBES SURG, V18, P668, DOI 10.1007/s11695-008-9462-6
+   Shaker R, 2003, AM J GASTROENTEROL, V98, P1487, DOI 10.1016/S0002-9270(03)00360-5
+   Sharma P, 2008, AM J GASTROENTEROL, V103, P2669, DOI 10.1111/j.1572-0241.2008.02089.x
+   Sharma PK, 2011, INDIAN J GASTROENTER, V30, P128, DOI 10.1007/s12664-010-0065-5
+   SKINNER HA, 1982, ADDICT BEHAV, V7, P363, DOI 10.1016/0306-4603(82)90005-3
+   Sonnenberg A, 2011, DIGEST DIS, V29, P229, DOI 10.1159/000323927
+   Spangeus A, 1999, SCAND J GASTROENTERO, V34, P1196, DOI 10.1080/003655299750024706
+   Spechler SJ, 2002, ALIMENT PHARM THER, V16, P1795, DOI 10.1046/j.0269-2813.2002.01351.x
+   Vakil N, 2006, AM J GASTROENTEROL, V101, P1900, DOI 10.1111/j.1572-0241.2006.00630.x
+   Wadden Thomas A, 2006, Surg Obes Relat Dis, V2, P180, DOI 10.1016/j.soard.2006.03.017
+   Wong WM, 2004, ALIMENT PHARM THER, V20, P803, DOI 10.1111/j.1365-2036.2004.02198.x
+   Wong WM, 2003, ALIMENT PHARM THER, V18, P595, DOI 10.1046/j.1365-2036.2003.01737.x
+   Yuen E, 2010, ALIMENT PHARM THER, V32, P645, DOI 10.1111/j.1365-2036.2010.04396.x
+NR 46
+TC 4
+Z9 5
+U1 1
+U2 3
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1120-8694
+J9 DIS ESOPHAGUS
+JI Dis. Esophagus
+PD AUG
+PY 2013
+VL 26
+IS 6
+BP 561
+EP 569
+DI 10.1111/dote.12007
+PG 9
+WC Gastroenterology & Hepatology
+SC Gastroenterology & Hepatology
+GA 197SJ
+UT WOS:000322870700003
+PM 23237330
+OA Green Accepted
+DA 2019-03-26
+ER
+
+PT J
+AU Cervelli, EW
+   Lundholm, JT
+   Du, X
+AF Cervelli, E. W.
+   Lundholm, J. T.
+   Du, X.
+TI Spontaneous urban vegetation and habitat heterogeneity in Xi'an, China
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE Plant community; Urban ecology; Non-metric multidimensional scaling;
+   Environmental heterogeneity; Trampling
+ID PLANT-COMMUNITIES; AIR-POLLUTION; BIODIVERSITY; DIVERSITY; AREAS;
+   URBANIZATION; PATTERNS; ECOLOGY; CANADA; SOILS
+AB Plant growth and survival can be challenged by harsh urban conditions. There is little published on the spontaneous vegetation in urban China, but studies in other parts of the world show the persistence of native species in built-up areas, and document ecosystem services provided by spontaneous vegetation. Here we describe spontaneous vegetation in urban Xi'an, in northern central China, and quantify the relationships between species diversity and composition, and environmental variables representing productivity, spatial habitat heterogeneity and disturbance. A total of 95 plant species were recorded belonging to 75 genera and 37 families. Family and species diversity were positively related to soil depth and microhabitat heterogeneity, and negatively related to trampling intensity. Variation in species composition was mainly related to trampling intensity and distance from the city center. Microhabitats were weakly differentiated by species composition, likely because several common generalist species were found throughout the city in a variety of microhabitat types. While some of the most frequently encountered species in the spontaneous vegetation of Xi'an are considered non-native and invasive, some of these may be capable of surviving difficult conditions in revegetation projects and could have some benefits in challenging urban environments. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Cervelli, E. W.; Lundholm, J. T.] St Marys Univ, Dept Environm Sci, Halifax, NS B3H 3C3, Canada.
+   [Lundholm, J. T.] St Marys Univ, Dept Biol, Halifax, NS B3H 3C3, Canada.
+   [Du, X.] Management Comm Xian Chan Ba Natl Ecol Dist, Xian 710024, Peoples R China.
+   [Du, X.] Xian Univ Arts & Sci, Coll Biotechnol, Xian 710065, Peoples R China.
+RP Lundholm, JT (reprint author), St Marys Univ, Dept Biol, 923 Robie St, Halifax, NS B3H 3C3, Canada.
+EM cevan7@gmail.com; jlundholm@smu.ca; duxichun2001@163.com
+CR Alberti M, 2003, BIOSCIENCE, V53, P1169, DOI 10.1641/0006-3568(2003)053[1169:IHIEOA]2.0.CO;2
+   Benton T. G., 2009, TRENDS ECOL EVOL, V25, P90, DOI DOI 10.1016/J.TREE.2009.07.016
+   Bigirimana J, 2011, LANDSCAPE URBAN PLAN, V100, P251, DOI 10.1016/j.landurbplan.2010.12.012
+   Bornkamm R, 2007, FLORA, V202, P695, DOI 10.1016/j.flora.2007.05.004
+   Chan CK, 2008, ATMOS ENVIRON, V42, P1, DOI 10.1016/j.atmosenv.2007.09.003
+   Conti ME, 2001, ENVIRON POLLUT, V114, P471, DOI 10.1016/S0269-7491(00)00224-4
+   de Neef D, 2008, PHYTON-ANN REI BOT A, V48, P133
+   De Sousa CA, 2006, CAN GEOGR-GEOGR CAN, V50, P392, DOI 10.1111/j.1541-0064.2006.00148.x
+   Duchoslav Martin, 2002, Preslia (Prague), V74, P1
+   Fagot M, 2011, WEED RES, V51, P650, DOI 10.1111/j.1365-3180.2011.00878.x
+   FARMER AM, 1993, ENVIRON POLLUT, V79, P63, DOI 10.1016/0269-7491(93)90179-R
+   Francis RA, 2008, RESTOR ECOL, V16, P373, DOI 10.1111/j.1526-100X.2008.00434.x
+   Francis RA, 2011, PROG PHYS GEOG, V35, P43, DOI 10.1177/0309133310385166
+   Godefroid S, 2007, LANDSCAPE ECOL, V22, P1227, DOI 10.1007/s10980-007-9102-x
+   Guan Dong-sheng, 2003, Journal of Forestry Research (Harbin), V14, P249
+   Han YM, 2006, SCI TOTAL ENVIRON, V355, P176, DOI 10.1016/j.scitotenv.2005.02.026
+   Huang QQ, 2011, WEED RES, V51, P534, DOI 10.1111/j.1365-3180.2011.00868.x
+   Jim CY, 2010, URBAN FOR URBAN GREE, V9, P169, DOI 10.1016/j.ufug.2010.02.004
+   Jim CY, 2009, CITIES, V26, P187, DOI 10.1016/j.cities.2009.03.003
+   Jim CY, 1998, LANDSCAPE URBAN PLAN, V42, P29, DOI 10.1016/S0169-2046(98)00072-3
+   Kinzig AP, 2005, ECOL SOC, V10
+   Laanisto L, 2013, OECOLOGIA, V171, P217, DOI 10.1007/s00442-012-2398-5
+   Larson D.W., 2000, CLIFF ECOLOGY
+   Li WF, 2006, ECOL RES, V21, P221, DOI 10.1007/s11284-005-0110-5
+   Lundholm J. T., 2006, Urban Ecosystems, V9, P139, DOI 10.1007/s11252-006-8587-4
+   Lundholm J, 2011, URBAN ECOLOGY: PATTERNS, PROCESSES, AND APPLICATIONS, P93
+   Lundholm JT, 2009, J VEG SCI, V20, P377, DOI 10.1111/j.1654-1103.2009.05577.x
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   McKinney ML, 2002, BIOSCIENCE, V52, P883, DOI 10.1641/0006-3568(2002)052[0883:UBAC]2.0.CO;2
+   Millard Andy, 2004, Urban Forestry & Urban Greening, V3, P39, DOI 10.1016/j.ufug.2004.04.004
+   Oksanen J., 2008, MULTIVARIATE ANAL EC
+   Pickett S. T. A., 2009, Urban Ecosystems, V12, P23, DOI 10.1007/s11252-008-0047-x
+   R Development Core Team, 2007, R LANG ENV STAT COMP
+   Robinson SL, 2012, URBAN ECOSYST, V15, P545, DOI 10.1007/s11252-012-0225-8
+   Shao M, 2006, FRONT ECOL ENVIRON, V4, P353, DOI 10.1890/1540-9295(2006)004[0353:CCICAA]2.0.CO;2
+   Stevens MHH, 2002, ECOL LETT, V5, P420, DOI 10.1046/j.1461-0248.2002.00333.x
+   Turner K, 2005, LANDSCAPE URBAN PLAN, V71, P191, DOI 10.1016/j.landurbplan.2004.03.003
+   Wang YG, 2009, LANDSCAPE URBAN PLAN, V91, P212, DOI 10.1016/j.landurbplan.2009.01.003
+   Weber E, 2008, BIOL INVASIONS, V10, P1411, DOI 10.1007/s10530-008-9216-3
+   Wei BG, 2010, MICROCHEM J, V94, P99, DOI 10.1016/j.microc.2009.09.014
+   WHITNEY GG, 1985, URBAN ECOL, V9, P143, DOI 10.1016/0304-4009(85)90003-8
+   Woodell S, 1979, NATURE CITIES, P135
+   Zhao JJ, 2010, PLANT ECOL, V209, P189, DOI 10.1007/s11258-009-9675-3
+   Zhao JJ, 2010, LANDSCAPE URBAN PLAN, V95, P113, DOI 10.1016/j.landurbplan.2009.12.008
+NR 44
+TC 6
+Z9 8
+U1 0
+U2 74
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD DEC
+PY 2013
+VL 120
+BP 25
+EP 33
+DI 10.1016/j.landurbplan.2013.08.001
+PG 9
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA 257WT
+UT WOS:000327419200003
+DA 2019-03-26
+ER
+
+PT S
+AU Huang, Y
+   Guan, X
+   Cai, ZP
+   Ohtsuki, T
+AF Huang, Yan
+   Guan, Xin
+   Cai, Zhipeng
+   Ohtsuki, Tomoaki
+GP IEEE
+TI Multicast Capacity Analysis for Social-Proximity Urban Bus-Assisted
+   VANETs
+SO 2013 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)
+SE IEEE International Conference on Communications
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Communications (ICC)
+CY JUN 09-13, 2013
+CL Budapest, HUNGARY
+SP IEEE
+ID AD-HOC NETWORKS; WIRELESS NETWORKS; TRADEOFFS
+AB Capacity scaling laws of wireless networks have attracted a lot of attention. In this paper, we study the multicast capacity of bus-assistant VANETs (vehcular ad hoc networks) with two-hop relay scheme, which has not been addressed before. Assume that n ordinary vehicles and n(b) buses are deployed in a grid-like road framework while the number of roads increase linearly with n. All the ordinary vehicles obey the restricted mobility model. Thus, the spatial stationary distribution decays as power law with the distance from the centre spot (home-point) of a restrict region of each vehicle. All the buses deployed in all roads as intermediate nodes. They are used to forward packets for ordinary vehicles. Each ordinary vehicle randomly chooses k - 1 vehicles from the other ordinary vehicles as receivers. The packets could be transmitted directly from source to destination or be transmitted to an intermediate vehicle or bus, then be forwarded to the destination. We found that the social-proximity urban bus-assisted VANET has three routing methods. For each routing method, we derive the matching asymptotic upper and lower bounds of multicast capacity of bus-assisted VANET.
+C1 [Huang, Yan] Heilongjiang Univ, Sch Elect Engn, Harbin 150080, Heilongjiang, Peoples R China.
+   [Guan, Xin] Heilongjiang Univ, Sch Informat Sci & Technol, Harbin 150080, Heilongjiang, Peoples R China.
+   [Cai, Zhipeng] Georgia State Univ, Dept Comp Sci, Atlanta, GA 30303 USA.
+   [Ohtsuki, Tomoaki] Keio Univ, Grad Sch Sci & Technol, Yokohama, Kanagawa 2238522, Japan.
+RP Huang, Y (reprint author), Heilongjiang Univ, Sch Elect Engn, Harbin 150080, Heilongjiang, Peoples R China.
+EM chnhuangyan@gmail.com; guanxin.hlju@gmail.com; zhipeng.cai@gmail.com;
+   ohtsuki@ics.keio.ac.jp
+CR Alfano G., 2009, P IEEE INFOCOM
+   Garetto M, 2010, IEEE T INFORM THEORY, V56, P5016, DOI 10.1109/TIT.2010.2059510
+   Goussevskaia O., 2009, P IEEE INFOCOM
+   Grossglauser M, 2002, IEEE ACM T NETWORK, V10, P477, DOI 10.1109/TNET.2002.801403
+   Gupta P, 2000, IEEE T INFORM THEORY, V46, P388, DOI 10.1109/18.825799
+   Jiang CM, 2011, IEEE T WIREL COMMUN, V10, P1032, DOI 10.1109/TWC.2011.020111.100528
+   Lai K., 2011, P GEN EV COMP
+   Li X. Y., 2012, P ACM MOBIHOC
+   Li XY, 2009, IEEE ACM T NETWORK, V17, P950, DOI 10.1109/TNET.2008.927256
+   Li ZP, 2009, IEEE T INFORM THEORY, V55, P1016, DOI 10.1109/TIT.2008.2011516
+   Lu N., 2012, P IEEE INFOCOM
+   MAO X, 2008, P ACM MOBIHOC
+   Neely MJ, 2005, IEEE T INFORM THEORY, V51, P1917, DOI 10.1109/TIT.2005.847717
+   Pishro-Nik H., 2007, P ALL C
+   Zheng R, 2008, IEEE T WIREL COMMUN, V7, P251, DOI 10.1109/TWC.2008.060474
+NR 15
+TC 24
+Z9 25
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1550-3607
+BN 978-1-4673-3122-7
+J9 IEEE ICC
+PY 2013
+BP 6138
+EP 6142
+PG 5
+WC Telecommunications
+SC Telecommunications
+GA BC0WB
+UT WOS:000349673807007
+DA 2019-03-26
+ER

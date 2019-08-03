@@ -1,0 +1,548 @@
+
+PT J
+AU Hawley, RJ
+   Bledsoe, BP
+AF Hawley, Robert J.
+   Bledsoe, Brian P.
+TI How do flow peaks and durations change in suburbanizing semi-arid
+   watersheds? A southern California case study
+SO JOURNAL OF HYDROLOGY
+LA English
+DT Article
+DE Flow duration; Hydrology; Hydromodification; Peak flow; Semi-arid;
+   Urbanization
+ID DRAINAGE-BASIN; URBANIZATION; INSTABILITY; HYDROLOGY; CHANNELS; FLOODS
+AB Forty-three US Geological Survey gauges with records greater than 15 yrs located in watersheds less than similar to 250 km(2) were used to model the effects of suburbanization on streams in semi-arid southern California. The watersheds spanned a gradient of urban development, ranging 0-23% total impervious area in 2001. With little flow control at the subdivision scale, most impervious area in the region is relatively well-connected to surface-drainage networks and hydrologically effective. Consequently, total impervious area was an effective hydrologic surrogate for urbanization, emerging from an expansive array of geospatially-derived hydrologic variables as a statistically-significant (p < 0.05) predictor of instantaneous peak-flow rates at the 1.5- and 2-yr recurrence intervals and the durations of all geomorphically-important flows. To represent the effects of urbanization on flow durations, we developed duration density functions by using power functions (typical R-2 > 0.95) to predict occurrence of logarithmically-binned mean daily discharges greater than some nominal value. This approach expands on previous scaling procedures to produce histogram-style cumulative flow durations for ungauged sites using urbanization extent and other watershed descriptors. For a particular watershed size and climatic setting, urbanization resulted in proportionally-longer durations of all geomorphically-effective flows, with a more pronounced effect on the durations of moderate flows. For example, a representative watershed with similar to 20% imperviousness could experience five times as many days of mean daily flows on the order of 100 cfs (3 m(3)/s) and approximately three times as many days on the order of 1000 cfs (30 m(3)/s) relative to the undeveloped setting. Increased duration of sediment-transporting flows is a primary driver of accelerated changes in channel form that are often concurrent with urbanization throughout southern California, particularly in unconfined, fine-grained geomorphic settings. We did not have comparable studies on flow durations from other regions; however, the peak factors presented herein (e.g., sixfold increase in Q(2) at 20% imperviousness) are greater than studies from humid temperate regions suggesting that semi-arid regimes may be more susceptible to urbanization than other climatic settings. (C) 2011 Elsevier By. All rights reserved.
+C1 [Bledsoe, Brian P.] Colorado State Univ, Dept Civil & Environm Engn, Ft Collins, CO 80523 USA.
+   [Hawley, Robert J.] Colorado State Univ, Louisville, KY 40204 USA.
+   [Hawley, Robert J.] Sustainable Streams LLC, Louisville, KY 40204 USA.
+RP Bledsoe, BP (reprint author), Colorado State Univ, Dept Civil & Environm Engn, 1320 Campus Delivery, Ft Collins, CO 80523 USA.
+EM bob.hawley@sustainablestreams.com; Brian.Ble-dsoe@colostate.edu
+FU California State Water Resources Control Board [06-295-559-0]; County of
+   San Diego
+FX We would like to thank organizations and individuals who contributed to
+   this paper in terms of funding, data collection, and analysis. This
+   research was funded in part by the California State Water Resources
+   Control Board (Agreement No. 06-295-559-0) and by the County of San
+   Diego, for which we are very grateful. Eric Stein of the Southern
+   California Coastal Water Research Project (SCCWRP) played a primary role
+   in acquiring research funds and project guidance. Becky Schaffner of
+   SCCWRP was extremely helpful in providing GIS assistance and training.
+   The USGS continues to deliver spatial and hydrologic data to the public
+   domain that are unparalleled in terms of scale and quality. We would
+   like to extend our gratitude to all staff (past and present), and
+   particularly to Scott Patterson of the South Poway Field Office whose
+   time and care in answering questions provided clarity regarding
+   individual gauges. We would also like to thank the anonymous reviewers
+   who provided constructive suggestions on earlier drafts and subsequent
+   reviewers who offered very helpful and specific suggestions. This paper
+   is much improved as a result. Finally, our sincere thanks go to Gloria
+   Garza for her dedicated assistance in preparing the manuscript for
+   journal submission.
+CR AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Beighley RE, 2002, J HYDROL ENG, V7, P27, DOI 10.1061/(ASCE)1084-0699(2002)7:1(27)
+   Biedenharn D. S., 2001, INT J SEDIMENT RES, V16, P445
+   Biedenharn D.S., 2000, TR0015 ERDCCHLI US A
+   Bledsoe BP, 2001, J AM WATER RESOUR AS, V37, P255, DOI 10.1111/j.1752-1688.2001.tb00966.x
+   Booth DB, 1997, J AM WATER RESOUR AS, V33, P1077, DOI 10.1111/j.1752-1688.1997.tb04126.x
+   BOOTH DB, 1990, WATER RESOUR BULL, V26, P407
+   Chin A, 2001, ANN ASSOC AM GEOGR, V91, P595, DOI 10.1111/0004-5608.00260
+   Chin A, 2006, GEOMORPHOLOGY, V79, P460, DOI 10.1016/j.geomorph.2006.06.033
+   Chow V.T., 1988, APPL HYDROLOGY
+   Chow V. T., 1964, HDB APPL HYDROLOGY
+   Durbin T.J., 1974, DIGITAL SIMULATION E
+   Emmett W.W., 1975, 870A US GEOL SURV
+   Environmental Protection Agency, 2006, GUID SPEC MAN MEAS N
+   HAMMER TR, 1972, WATER RESOUR RES, V8, P139, DOI DOI 10.1029/WR008I006P01530
+   Hawley R. J., 2009, THESIS COLORADO STAT
+   Hey R. D., 1975, SCI TECHNOLOGY ENV M, P73
+   HOLLIS GE, 1975, WATER RESOUR RES, V11, P431, DOI 10.1029/WR011i003p00431
+   Jennings M. E., 1994, 944002 US GEOL SURV, P196
+   Konrad C.P., 2002, 024040 US GEOL SURV
+   Leopold LB, 1994, A VIEW OF THE RIVER
+   Novotny V, 2003, WATER QUALITY DIFFUS
+   Poff NL, 2006, GEOMORPHOLOGY, V79, P264, DOI 10.1016/j.geomorph.2006.06.032
+   Raff D.A., 2004, GEOTOOL USERS MANUAL
+   Rantz S. E., 1971, SUGGESTED CRITERIA H
+   Roesner L.A., 2002, PHYS EFFECTS WET WEA
+   Santa Clara (Santa Clara Valley Urban Runoff Pollution Prevention Program Committee), 2004, HYDR MAN PLAN REP
+   Sauer V. B., 1983, FLOOD CHARACTERISTIC
+   Sheng JF, 2009, NAT HAZARDS, V48, P41, DOI 10.1007/s11069-008-9241-7
+   SIMON A, 1995, GEOMORPHOLOGY, V12, P215, DOI 10.1016/0169-555X(95)00005-P
+   Smith JA, 2002, J HYDROMETEOROL, V3, P267, DOI 10.1175/1525-7541(2002)003<0267:TRHOEF>2.0.CO;2
+   SUGIURA N, 1978, COMMUN STAT A-THEOR, V7, P13, DOI 10.1080/03610927808827599
+   Trimble SW, 1997, SCIENCE, V278, P1442, DOI 10.1126/science.278.5342.1442
+   US Water Resources Council, 1967, B US WAT RES COUNC, P15
+   Waananen A.O., 1969, WAT RES S, P169
+   Waananen A. O., 1977, MAGNITUDE FREQUENCY
+   Waters TF., 1995, AM FISHERIES SOC MON, V7, P251
+   Watson C. C., 1997, DEMONSTRATION EROSIO
+   White MD, 2006, LANDSCAPE URBAN PLAN, V74, P125, DOI 10.1016/j.landurbplan.2004.11.015
+   Yevjevich V., 1972, PROBABILITY STAT HYD
+NR 40
+TC 48
+Z9 48
+U1 1
+U2 37
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-1694
+J9 J HYDROL
+JI J. Hydrol.
+PD JUL 21
+PY 2011
+VL 405
+IS 1-2
+BP 69
+EP 82
+DI 10.1016/j.jhydrol.2011.05.011
+PG 14
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA 801HM
+UT WOS:000293429200007
+DA 2019-03-26
+ER
+
+PT J
+AU Weisensee, KE
+   Jantz, RL
+AF Weisensee, Katherine E.
+   Jantz, Richard L.
+TI Secular Changes in Craniofacial Morphology of the Portuguese Using
+   Geometric Morphometrics
+SO AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+LA English
+DT Article
+DE plasticity; demographic transition; urbanization; mortality; cranial
+   morphology
+ID CRANIAL BASE; SHAPE; AGE; DIMENSIONS; MENARCHE; HEIGHT; TRENDS; SKULL;
+   19TH-CENTURY; POPULATIONS
+AB This study examines patterns of secular change in cranial morphology in the New Lisbon collection, a documented skeletal collection from Lisbon, Portugal with birth years from 1806 to 1954. This period represents a time when Lisbon was undergoing increased urbanization and population growth, as well as changes in mortality and fertility patterns. Previous studies from the U.S., Europe, and Japan have reported significant secular changes in cranial morphology over the past 200 years. In the current study, secular changes were analyzed using three-dimensional geometric morphometrics methods. The results from this study demonstrate a significant change in cranial morphology over the roughly 150-year period. Allometry was rejected as a causal factor of this change because there was no association found between temporal change and size. The pattern of temporal change is similar to that observed in other populations in the U.S., Europe, and Japan, including decreased facial breadth and a more inferiorly placed cranial base. This study, along with previous research, suggests a similar pattern of change occurs in genetically and geographically diverse populations experiencing modern environmental conditions. We argue that because the secular changes are focused in the cranial base, a region of the skull that experiences a relatively early growth curve, changes related to declines in childhood morbidity and mortality are likely important factors related to the observed changes. Am J Phys Anthropol 145:548-559, 2011. (C) 2011 Wiley-Liss, Inc.
+C1 [Weisensee, Katherine E.] Clemson Univ, Dept Sociol & Anthropol, Clemson, SC 29634 USA.
+   [Jantz, Richard L.] Univ Tennessee, Dept Anthropol, Knoxville, TN 37996 USA.
+RP Weisensee, KE (reprint author), Clemson Univ, Dept Sociol & Anthropol, 132 Brackett Hall, Clemson, SC 29634 USA.
+EM kweisen@clemson.edu
+CR ANGEL JL, 1976, AM J PHYS ANTHROPOL, V45, P723, DOI 10.1002/ajpa.1330450339
+   ANGEL JL, 1982, AM J PHYS ANTHROPOL, V58, P297, DOI 10.1002/ajpa.1330580308
+   BACCI ML, 1971, CENTURY PORTUGUESE F
+   Bau AM, 2009, EUR J ENDOCRINOL, V160, P107, DOI 10.1530/EJE-08-0594
+   Beleza S, 2006, ANN HUM GENET, V70, P181, DOI 10.1111/j.1469-1809.2005.00221.x
+   Birmingham David, 1993, CONCISE HIST PORTUGA
+   Boas F, 1912, AM ANTHROPOL, V14, P530, DOI 10.1525/aa.1912.14.3.02a00080
+   Boldsen J. L., 2000, HUMAN DEMOGRAPHIC EV
+   Bookstein FL, 2003, J HUM EVOL, V44, P167, DOI 10.1016/S0047-2484(02)00201-4
+   Buikstra J. E., 1994, STANDARDS DATA COLLE
+   Buretic-Tomljanovic A, 2006, AM J HUM BIOL, V18, P668, DOI 10.1002/ajhb.20536
+   CAMERON N, 1990, AM J HUM BIOL, V2, P53, DOI 10.1002/ajhb.1310020106
+   Cardoso HFV, 2009, INT J OSTEOARCHAEOL, V19, P711, DOI 10.1002/oa.991
+   Cardoso HFV, 2005, PATTERNS GROWTH DEV
+   Cardoso HFV, 2008, AM J HUM BIOL, V20, P270, DOI 10.1002/ajhb.20710
+   Cardoso HFV, 2010, AM J HUM BIOL, V22, P791, DOI 10.1002/ajhb.21084
+   CARLSON DS, 1979, AM ANTHROPOL, V81, P561, DOI 10.1525/aa.1979.81.3.02a00030
+   Drake AG, 2008, P ROY SOC B-BIOL SCI, V275, P71, DOI 10.1098/rspb.2007.1169
+   Good P, 2000, PERMUTATION TESTS PR
+   GOODALL C, 1991, J ROY STAT SOC B MET, V53, P285
+   INGERVALL B, 1974, ACTA MORPHOL NEER SC, V12, P215
+   Jantz RL, 2001, J FORENSIC SCI, V46, P784
+   Jantz RL, 2000, AM J HUM BIOL, V12, P327, DOI 10.1002/(SICI)1520-6300(200005/06)12:3<327::AID-AJHB3>3.0.CO;2-1
+   Jeffery N, 2002, AM J PHYS ANTHROPOL, V118, P324, DOI 10.1002/ajpa.10040
+   Jonke E, 2007, AM J ORTHOD DENTOFAC, V132, P63, DOI 10.1016/j.ajodo.2005.08.040
+   KLINGENBERG C, 2008, MORPHOJ
+   Klingenberg CP, 2002, EVOLUTION, V56, P1909
+   Komar DA, 2008, AM J PHYS ANTHROPOL, V137, P224, DOI 10.1002/ajpa.20858
+   Komlos J, 1994, STATURE LIVING STAND
+   Kouchi M, 2000, AM J PHYS ANTHROPOL, V112, P339, DOI 10.1002/1096-8644(200007)112:3<339::AID-AJPA5>3.0.CO;2-6
+   LARSEN C. S, 1999, BIOARCHAEOLOGY INTER
+   Lieberman DE, 1998, NATURE, V393, P158, DOI 10.1038/30227
+   Little BB, 2006, AM J PHYS ANTHROPOL, V131, P127, DOI 10.1002/ajpa.20406
+   Mercer Alex, 1990, DIS MORTALITY POPULA
+   Neubauer S, 2009, J ANAT, V215, P240, DOI 10.1111/j.1469-7580.2009.01106.x
+   OLIVEIRA I, 2006, J FAM HIST, V31, P413
+   OUSLEY S, 2004, 3SKULL VERSION 2 1 1
+   Padez C, 2003, ANN HUM BIOL, V30, P622, DOI 10.1080/03014460310001592650
+   Padez C, 2003, AM J HUM BIOL, V15, P415, DOI 10.1002/ajhb.10159
+   Pato CN, 1997, AM J MED GENET, V74, P286, DOI 10.1002/(SICI)1096-8628(19970531)74:3<286::AID-AJMG9>3.3.CO;2-7
+   Pereira L, 2000, ANN HUM GENET, V64, P491, DOI 10.1046/j.1469-1809.2000.6460491.x
+   Pereira P., 1996, URBAN DOMINANCE LABO
+   Pereira Pedro Telhado, 1996, URBAN DOMINANCE LABO
+   Riley J. C., 2001, RISING LIFE EXPECTAN
+   Riley JC, 2005, POPUL DEV REV, V31, P741, DOI 10.1111/j.1728-4457.2005.00096.x
+   ROCHE AF, 1977, J DENT RES, V56, P802, DOI 10.1177/00220345770560071501
+   ROHLF FJ, 1990, SYST ZOOL, V39, P40, DOI 10.2307/2992207
+   RUFF CB, 1980, AM J PHYS ANTHROPOL, V53, P101, DOI 10.1002/ajpa.1330530114
+   SHEETS HD, 2009, SIMPLE3D
+   SHEETS HD, 2010, P AM ACAD FORENSIC S, V16, P247
+   SjOvold T., 1995, GRAVE REFLECTIONS PO, P241
+   Spradley MK, 2006, THESIS U TENNESSEE K
+   Stynder DD, 2007, AM J PHYS ANTHROPOL, V134, P489, DOI 10.1002/ajpa.20696
+   TORTELLA G, 1994, ECON HIST REV, V47, P1
+   VOGELE J, 1999, URBAN MORTALITY CHAN
+   Wescott DJ, 2005, DEV PRIMATOL-PROG PR, P231, DOI 10.1007/0-387-27614-9_10
+   West-Eberhard M. J, 2003, DEV PLASTICITY EVOLU
+   Wilmoth JR, 2000, EXP GERONTOL, V35, P1111, DOI 10.1016/S0531-5565(00)00194-7
+   Zelditch M. L., 2004, GEOMETRIC MORPHOMETR
+NR 59
+TC 41
+Z9 42
+U1 1
+U2 31
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0002-9483
+J9 AM J PHYS ANTHROPOL
+JI Am. J. Phys. Anthropol.
+PD AUG
+PY 2011
+VL 145
+IS 4
+BP 548
+EP 559
+DI 10.1002/ajpa.21531
+PG 12
+WC Anthropology; Evolutionary Biology
+SC Anthropology; Evolutionary Biology
+GA 797TJ
+UT WOS:000293152700004
+PM 21541933
+DA 2019-03-26
+ER
+
+PT J
+AU Boyacioglu, H
+   Boyacioglu, H
+AF Boyacioglu, Hulya
+   Boyacioglu, Hayal
+TI Heavy metal fingerprinting in surface water using chemometrics
+SO KUWAIT JOURNAL OF SCIENCE & ENGINEERING
+LA English
+DT Article
+DE principal component analysis; heavy metal pollution; multidimensional
+   scaling; water quality fingerprint
+AB In this study, chemometric methods were applied to fingerprint heavy metals in surface water in Tahtali Basin, Turkey, and were found to assist water managers in determining drinking water quality. Principal component analysis (PCA) was used to determine pollutant sources governing water quality, and Multidimensional Scaling (MDS) was used to identify spatial differences in the basin. Results showed that the level of heavy metals found in surface water was predominantly influenced by urban runoff (mainly in residential areas) and agricultural runoff. However, heavy metal concentrations were found to be lower than the threshold values set by European drinking water standards. Therefore, heavy metal levels in surface water were "acceptable" for a drinking water supply. This study showed that chemometric methods can assist water managers fingerprinting surface water quality.
+C1 [Boyacioglu, Hulya] Dokuz Eylul Univ, Fac Engn, Dept Environm Engn, TR-35160 Izmir, Turkey.
+   [Boyacioglu, Hayal] Ege Univ, Fac Sci, Dept Stat, TR-35100 Izmir, Turkey.
+RP Boyacioglu, H (reprint author), Dokuz Eylul Univ, Fac Engn, Dept Environm Engn, Tinaztepe Campus Buca, TR-35160 Izmir, Turkey.
+EM hulya.boyacioglu@deu.edu.tr; hayal.boyacioglu@ege.edu.tr
+CR AbuSaba KE, 1997, ENVIRON SCI TECHNOL, V31, P3455, DOI 10.1021/es970208t
+   [Anonymous], 2000, STAT PACK SOC SCI 10
+   APHA AWWA and WEF, 2005, STANDARD METHODS EXA
+   Beamonte E, 2007, J ENVIRON MANAGE, V83, P307, DOI 10.1016/j.jenvman.2006.03.010
+   Boyacioglu H, 2007, ENVIRON GEOL, V54, P275
+   Ckakraborty S., 2007, INDIA J SPATIAL HYDR, V7, P101
+   Davis P.A., 2001, CHEMOSPHERE, V44, P997
+   Dunteman G., 1989, PRINCIPAL COMPONENT
+   Einax JW, 1999, CHEMOMETR INTELL LAB, V46, P79, DOI 10.1016/S0169-7439(98)00152-X
+   Estebe A, 1998, WATER AIR SOIL POLL, V108, P83, DOI 10.1023/A:1005064307862
+   ESTERBY SR, 1989, ENVIRON MONIT ASSESS, V13, P103, DOI 10.1007/BF00394224
+   Gobel P, 2007, J CONTAM HYDROL, V91, P26, DOI 10.1016/j.jconhyd.2006.08.008
+   He ZL, 2004, SOIL SCI SOC AM J, V68, P1662, DOI 10.2136/sssaj2004.1662
+   Hemda G., 2008, CHEM INT, V30, P7
+   Hill T., 2007, STAT METHODS APPL
+   InfoMetrix, 1995, CHEM APPL OV
+   Jaworska N., 2009, VARIOUS PSYCHOL DOMA, V5, P1
+   Minitab Inc, 2004, MIN 14 STAT SOFTW
+   Mrklas O, 2006, WATER AIR SOIL POLL, V169, P395, DOI 10.1007/s11270-006-2817-5
+   Pires JCM, 2008, ATMOS ENVIRON, V42, P1249, DOI 10.1016/j.atmosenv.2007.10.044
+   Prestes EC, 2006, J BRAZIL CHEM SOC, V17, P53, DOI 10.1590/S0103-50532006000100008
+   SALBU B, 1995, TRACE ELEMENTS NATUR
+   SAS Institute Inc, 2009, SAS IML SUTD 3 2 US
+   Simeonov V, 2002, ANAL BIOANAL CHEM, V374, P898, DOI 10.1007/s00216-002-1559-5
+   SIMEONOV V, 2003, CLEAN TECHNOL ENVIR, V5, P190, DOI DOI 10.1007/S10098-003-0201-3
+   Steyvers M., 2002, ENCY COGNITIVE SCI
+   The Scientific and Technological Research Council of Turkey [TUBYTAK], 2008, INT MOD NUTR LOADS E
+   Turkish Statistical Institute [TURKSTAT], 2009, ADDR BAS POP REG SYS
+   USEPA, 2007, 816F07002 USEPA
+   USEPA, 2000, EPA815R00023
+   World Health Organization (WHO), 2008, GUID DRINK WAT QUAL, V1
+NR 31
+TC 4
+Z9 4
+U1 0
+U2 2
+PU ACADEMIC PUBLICATION COUNCIL
+PI KHALDIYA
+PA PO BOX 17225, KHALDIYA 72453, KUWAIT
+SN 1024-8684
+J9 KUWAIT J SCI ENG
+JI Kuwait J. Sci. Eng.
+PD JUN
+PY 2011
+VL 38
+IS 1A
+BP 125
+EP 139
+PG 15
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA V29ZS
+UT WOS:000208786900010
+DA 2019-03-26
+ER
+
+PT J
+AU Niemi, GJ
+   Reavie, ED
+   Peterson, GS
+   Kelly, JR
+   Johnston, CA
+   Johnson, LB
+   Howe, RW
+   Host, GE
+   Hollenhorst, TP
+   Danz, NP
+   Ciborowski, JJH
+   Brown, TN
+   Brady, VJ
+   Axler, RP
+AF Niemi, Gerald J.
+   Reavie, Euan D.
+   Peterson, Gregory S.
+   Kelly, John R.
+   Johnston, Carol A.
+   Johnson, Lucinda B.
+   Howe, Robert W.
+   Host, George E.
+   Hollenhorst, Tom P.
+   Danz, Nicholas P.
+   Ciborowski, Jan J. H.
+   Brown, Terry N.
+   Brady, Valerie J.
+   Axler, Richard P.
+TI An integrated approach to assessing multiple stressors for coastal Lake
+   Superior
+SO AQUATIC ECOSYSTEM HEALTH & MANAGEMENT
+LA English
+DT Article
+DE birds; diatoms; fish; indicators; macroinvertebrates; plants
+ID LAURENTIAN GREAT-LAKES; WATER-QUALITY; WETLAND INDICATORS; ENVIRONMENTAL
+   INDICATORS; ECOLOGICAL INDICATORS; ANTHROPOGENIC STRESS; INDEX;
+   ECOSYSTEMS; RESPONSES; GRADIENT
+AB Biological indicators can be used both to estimate ecological condition and to suggest plausible causes of ecosystem degradation across the U.S. Great Lakes coastal region. Here we use data on breeding bird, diatom, fish, invertebrate, and wetland plant communities to develop robust indicators of ecological condition of the U.S. Lake Superior coastal zone. Sites were selected as part of a larger, stratified random design for the entire U.S. Great Lakes coastal region, covering gradients of anthropogenic stress defined by over 200 stressor variables (e.g. agriculture, altered land cover, human populations, and point source pollution). A total of 89 locations in Lake Superior were sampled between 2001 and 2004 including 31 sites for stable isotope analysis of benthic macroinvertebrates, 62 sites for birds, 35 for diatoms, 32 for fish and macroinvertebrates, and 26 for wetland vegetation. A relationship between watershed disturbance metrics and (15)N levels in coastal macroinvertebrates confirmed that watershed-based stressor gradients are expressed across Lake Superior's coastal ecosystems, increasing confidence in ascribing causes of biological responses to some landscape activities. Several landscape metrics in particular-agriculture, urbanization, human population density, and road density-strongly influenced the responses of indicator species assemblages. Conditions were generally good in Lake Superior, but in some areas watershed stressors produced degraded conditions that were similar to those in the southern and eastern U.S. Great Lakes. The following indicators were developed based on biotic responses to stress in Lake Superior in the context of all the Great Lakes: (1) an index of ecological condition for breeding bird communities, (2) diatom-based nutrient and solids indicators, (3) fish and macroinvertebrate indicators for coastal wetlands, and (4) a non-metric multidimensional scaling for wetland plants corresponding to a cumulative stress index. These biotic measures serve as useful indicators of the ecological condition of the Lake Superior coast; collectively, they provide a baseline assessment of selected biological conditions for the U.S. Lake Superior coastal region and prescribe a means to detect change over time.
+C1 [Niemi, Gerald J.; Johnson, Lucinda B.; Host, George E.; Hollenhorst, Tom P.; Brown, Terry N.; Brady, Valerie J.; Axler, Richard P.] Univ Minnesota, Nat Resources Res Inst, Ctr Water & Environm, Duluth, MN 55811 USA.
+   [Reavie, Euan D.] Univ Minnesota Duluth, Nat Resources Res Inst, Ctr Water & Environm, Ely Field Stn, Ely, MN 55731 USA.
+   [Peterson, Gregory S.; Kelly, John R.; Hollenhorst, Tom P.] US EPA, Off Res & Dev, Natl Hlth & Environm Effects Res Lab, Midcontinent Ecol Div, Duluth, MN 55804 USA.
+   [Johnston, Carol A.] S Dakota State Univ, Dept Biol & Microbiol, Brookings, SD 57007 USA.
+   [Howe, Robert W.] Univ Wisconsin, Cofrin Ctr Biodivers, Dept Nat & Appl Sci, Green Bay, WI 54311 USA.
+   [Danz, Nicholas P.] Univ Wisconsin Superior, Dept Nat Sci, Superior, WI 54880 USA.
+   [Ciborowski, Jan J. H.] Univ Windsor, Dept Biol Sci, Windsor, ON N9B 3P4, Canada.
+RP Niemi, GJ (reprint author), Univ Minnesota, Nat Resources Res Inst, Ctr Water & Environm, 5013 Miller Trunk Highway, Duluth, MN 55811 USA.
+EM gniemi@d.umn.edu
+OI Reavie, Euan/0000-0001-8871-5809; Johnston, Carol/0000-0002-9663-5048
+FU U.S. EPA [EPA/R82867501, EPA/R-82877701]
+FX J. Hanowski was instrumental in gathering, compiling, and analyzing the
+   breeding bird data. Diatom identification and enumeration results were
+   supported by N. Andresen, G. Sgro, M. Ferguson, and A. Kireta; and
+   diatom taxonomic support was provided by J. Kingston, E. Stoermer, and
+   J. Johansen. D. Breneman, J. Schuldt, J. D. Holland, J. P. Gathman, R.
+   Hell, A. Ly, J. Baillargeon, and J. Wiklund provided assistance with
+   fish and macroinvertebrate data and sampling. M. Aho, A. Boers, K.
+   Bailey Boomer, M. Bourdaghs, K. Cappillino, R. Clark, S. Cronk, A.
+   Freeman, C. Frieswyk, D. James, C. Johnson, L. Ladwig, A. Marsh, M.
+   Tittler, L. Vaccaro, and C. Williams collected vegetation field data. We
+   thank D. McKenney and P. Papadopol of the Great Lakes Forestry Centre
+   for providing the GDD data. Water quality sampling and analysis were
+   supported by J. Henneck, E. Ruzycki, J. Reed, and J. Ameel. R. Regal
+   provided statistical advice. Although this research has been funded
+   wholly or in part by the U.S. EPA through cooperative agreement
+   EPA/R82867501 to the Great Lakes Environmental Indicators project, and
+   through grant EPA/R-82877701 to L. Johnson, it has not been subjected to
+   the agency's required peer and policy review and therefore does not
+   necessarily reflect the views of the agency and no official endorsement
+   should be inferred. This is contribution number 521 from the Center for
+   Water and the Environment, Natural Resources Research Institute,
+   University of Minnesota Duluth.
+CR Ameel J.J., 1998, NRRITR9828 U MINN DU
+   *APHA, 2000, STAND METH EX WAT WA
+   Barbour M.T., 1999, 841B99002 EPA OFF WA
+   Battarbee R. W., 2001, TRACKING ENV CHANGE, P155, DOI DOI 10.1007/0-306-47668-1_8
+   Bernthal T.W., 2003, PUBSS9862003 US ENV
+   Bertram P, 2003, ENVIRON MONIT ASSESS, V81, P27, DOI 10.1023/A:1021396101299
+   Bertram P., 1998, 1998 STAT LAK EC C
+   Bourdaghs M, 2006, WETLANDS, V26, P718, DOI 10.1672/0277-5212(2006)26[718:PAPOTF]2.0.CO;2
+   Brady VJ, 2007, J GREAT LAKES RES, V33, P236, DOI 10.3394/0380-1330(2007)33[236:OFTOVT]2.0.CO;2
+   BRAY J. ROGER, 1957, ECOL MONOGR, V27, P325, DOI 10.2307/1942268
+   Brazner JC, 2007, ECOL INDIC, V7, P610, DOI 10.1016/j.ecolind.2006.07.001
+   Brazner J. C., 2008, GREAT LAKES COASTAL
+   Brazner JC, 2007, J GREAT LAKES RES, V33, P42, DOI 10.3394/0380-1330(2007)33[42:ROGLWI]2.0.CO;2
+   Clarke K, 2006, PRIMER V6 USER MANUA
+   Cutright N., 2006, ATLAS WISCONSIN BREE
+   Danz NP, 2007, ENVIRON MANAGE, V39, P631, DOI 10.1007/s00267-005-0293-0
+   Danz NP, 2005, ENVIRON MONIT ASSESS, V102, P41, DOI 10.1007/s10661-005-1594-8
+   Dobiesz NE, 2010, J GREAT LAKES RES, V36, P123, DOI 10.1016/j.jglr.2009.11.003
+   [Environment Canada U.S. Environmental Protection Agency], 2005, 905R06001 EPA GOV CA
+   EPSTEIN EJ, 1997, ER09599 PUB DEP NAT
+   Gauch H., 1982, MULTIVARIATE ANAL CO
+   Hanowski J, 2007, ECOHEALTH, V4, P194, DOI 10.1007/s10393-007-0100-x
+   Hanowski JM, 2007, J GREAT LAKES RES, V33, P245, DOI 10.3394/0380-1330(2007)33[245:CFMBBI]2.0.CO;2
+   Herman K. D., 2001, FLORISTIC QUALITY AS
+   Hilborn R, 1997, ECOLOGICAL DETECTIVE
+   HILSENHOFF WL, 1987, GREAT LAKES ENTOMOL, V20, P31
+   Hollenhorst TP, 2007, J GREAT LAKES RES, V33, P13, DOI 10.3394/0380-1330(2007)33[13:MFGMWD]2.0.CO;2
+   Host GE, 2005, INT J REMOTE SENS, V26, P5325, DOI 10.1080/01431160500219364
+   Host GE, 2011, AQUAT ECOSYST HEALTH, V14, P376, DOI 10.1080/14634988.2011.625340
+   Howe RW, 2007, J GREAT LAKES RES, V33, P93, DOI 10.3394/0380-1330(2007)33[93:AIOECB]2.0.CO;2
+   Howe RW, 2007, ECOL INDIC, V7, P793, DOI 10.1016/j.ecolind.2006.09.003
+   JOHNSTON CA, 2009, MANUAL GEOGRAPHIC IN, P1095
+   Johnston CA, 2008, ECOL APPL, V18, P983, DOI 10.1890/07-1207.1
+   Johnston CA, 2007, J GREAT LAKES RES, V33, P106, DOI 10.3394/0380-1330(2007)33[106:PSIOPE]2.0.CO;2
+   Johnston CA, 2010, J GREAT LAKES RES, V36, P772, DOI 10.1016/j.jglr.2010.09.001
+   Johnston CA, 2009, ECOL APPL, V19, P1739, DOI 10.1890/08-1290.1
+   Keough JR, 1999, WETLANDS, V19, P821, DOI 10.1007/BF03161786
+   Kireta AR, 2007, J GREAT LAKES RES, V33, P136, DOI 10.3394/0380-1330(2007)33[136:CGALVI]2.0.CO;2
+   Lawson R., 2004, Aquatic Ecosystem Health & Management, V7, P215, DOI 10.1080/14634980490461551
+   Mackey SD, 2005, J GREAT LAKES RES, V31, P1, DOI 10.1016/S0380-1330(05)70286-0
+   McClelland JW, 1998, LIMNOL OCEANOGR, V43, P577, DOI 10.4319/lo.1998.43.4.0577
+   Morrice JA, 2008, ENVIRON MANAGE, V41, P347, DOI 10.1007/s00267-007-9055-5
+   Niemi G, 2004, ENVIRON HEALTH PERSP, V112, P979, DOI 10.1289/ehp.6903
+   Niemi G.J., 2006, NRRITR200611 US ENV
+   Niemi GJ, 2007, J GREAT LAKES RES, V33, P1, DOI 10.3394/0380-1330(2007)33[1:EIFTCR]2.0.CO;2
+   Niemi GJ, 2009, AQUAT ECOSYST HEALTH, V12, P77, DOI 10.1080/14634980802711943
+   Niemi GJ, 2004, ANNU REV ECOL EVOL S, V35, P89, DOI 10.1146/annurev.ecolsys.35.112202.130132
+   Peterson GS, 2007, J GREAT LAKES RES, V33, P27, DOI 10.3394/0380-1330(2007)33[27:SNIOPA]2.0.CO;2
+   Reavie ED, 2007, J GREAT LAKES RES, V33, P86, DOI 10.3394/0380-1330(2007)33[86:ADWQMF]2.0.CO;2
+   Reavie ED, 2006, J GREAT LAKES RES, V32, P321, DOI 10.3394/0380-1330(2006)32[321:DWTFFG]2.0.CO;2
+   RIBIC CA, 1999, P MARSH BIRD MON WOR
+   SCHIEROW LJ, 1988, WATER RES, V22, P269, DOI 10.1016/S0043-1354(88)90020-6
+   Seilheimer TS, 2006, CAN J FISH AQUAT SCI, V63, P354, DOI 10.1139/F05-220
+   Smith RA, 1997, WATER RESOUR RES, V33, P2781, DOI 10.1029/97WR02171
+   STEINHART CE, 1982, WATER RESOUR BULL, V18, P1025
+   Strahler A., 1957, T AM GEOPHYS UNION, V38, P913, DOI [10.1029/TR038i006p00913, DOI 10.1029/TR038I006P00913]
+   Trebitz AS, 2007, J GREAT LAKES RES, V33, P67, DOI 10.3394/0380-1330(2007)33[67:WQIGLC]2.0.CO;2
+   Trebitz AS, 2007, N AM J FISH MANAGE, V27, P619, DOI 10.1577/M05-219.1
+   United States Environmental Protection Agency, 1983, EPA600479020
+   US Environmental Protection Agency, 1993, EPA600R93100
+   *US EPA, 1991, DET IN AN WAT ION CH
+   WELCH BL, 1947, BIOMETRIKA, V34, P28, DOI 10.2307/2332510
+   Yurista P.M., 2009, ECOVISION WORLD MONO, P439
+NR 63
+TC 8
+Z9 8
+U1 2
+U2 71
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA
+SN 1463-4988
+J9 AQUAT ECOSYST HEALTH
+JI Aquat. Ecosyst. Health Manag.
+PY 2011
+VL 14
+IS 4
+BP 356
+EP 375
+DI 10.1080/14634988.2011.628254
+PG 20
+WC Ecology; Environmental Sciences; Marine & Freshwater Biology; Water
+   Resources
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology; Water
+   Resources
+GA 866BZ
+UT WOS:000298355900005
+DA 2019-03-26
+ER
+
+PT J
+AU Jang, J
+   Unno, T
+   Lee, SW
+   Cho, KH
+   Sadowsky, MJ
+   Ko, G
+   Kim, JH
+   Hur, HG
+AF Jang, Jeonghwan
+   Unno, Tatsuya
+   Lee, Seung Won
+   Cho, Kyung Hwa
+   Sadowsky, Michael J.
+   Ko, GwangPyo
+   Kim, Joon Ha
+   Hur, Hor-Gil
+TI Prevalence of season-specific Escherichia coli strains in the Yeongsan
+   River Basin of South Korea
+SO ENVIRONMENTAL MICROBIOLOGY
+LA English
+DT Article
+ID POPULATION-STRUCTURE; ADAPTIVE MUTATION; ANIMAL SOURCES; LAKE-MICHIGAN;
+   WATER; GROWTH; PCR; DIVERSITY; SOIL; ENVIRONMENT
+AB Seasonal and spatial variation in the genotypic richness of 3480 Escherichia coli isolates obtained from the Yeongsan River basin in South Korea was investigated by using the horizontal fluorophore-enhanced rep-PCR (HFERP) DNA fingerprinting technique. The relationship between 60 E. coli isolates from each of 58 freshwater samples was determined by using multidimensional scaling (MDS) analysis and self-organized maps (SOMs). The MDS analysis, done based on HFERP DNA fingerprints, showed that E. coli isolates obtained in October through December clustered tightly, while those obtained in other sampling periods were more genetically diverse. However, site-specific E. coli genotypes were not observed. SOMs analysis, done using the 10 most frequently isolated E. coli genotypes, showed the occurrence of season-specific E. coli genotypes and the main SOMs clusters were most influenced by temperature, strain diversity and biochemical oxygen demand. Diversity among E. coli genotypes tended to decrease as water temperature decreased, and the numbers of E. coli genotypes observed in urban area were greater, more diverse and less dependent on water temperature than those obtained from agricultural areas. Taken together, our findings indicate that that an ecological approach needs to be considered in order to obtain a better understanding of E. coli community dynamics in the environment and that SOMs analysis is useful to visualize the multidimensional dependent variables that are influencing the types and dynamics of specific E. coli genotypes in the environment.
+C1 [Jang, Jeonghwan; Unno, Tatsuya; Lee, Seung Won; Kim, Joon Ha; Hur, Hor-Gil] Gwangju Inst Sci & Technol, Sch Environm Sci & Engn, Kwangju, South Korea.
+   [Hur, Hor-Gil] Gwangju Inst Sci & Technol, Int Environm Res Ctr, Kwangju, South Korea.
+   [Cho, Kyung Hwa] Univ Massachusetts, Dept Civil & Environm Engn, Amherst, MA 01003 USA.
+   [Sadowsky, Michael J.] Univ Minnesota, Dept Soil Water & Climate, St Paul, MN 55108 USA.
+   [Sadowsky, Michael J.] Univ Minnesota, Inst Biotechnol, St Paul, MN 55108 USA.
+   [Ko, GwangPyo] Seoul Natl Univ, Dept Environm Publ Hlth, Seoul, South Korea.
+RP Hur, HG (reprint author), Gwangju Inst Sci & Technol, Sch Environm Sci & Engn, Kwangju, South Korea.
+EM joonkim@gist.ac.kr; hghur@gist.ac
+RI Sadowsky, Michael/J-2507-2016
+OI Sadowsky, Michael/0000-0001-8779-2781
+FU National Research Foundation of Korea; Korean Government (MEST)
+   [NRF-R1A5A004-2010-0029224]; Korea Environmental Technology & Industry
+   Institute (KEITI)
+FX This work was supported by the National Research Foundation of Korea
+   Grant funded by the Korean Government (MEST)
+   (NRF-R1A5A004-2010-0029224), and also by the Korea Environmental
+   Technology & Industry Institute (KEITI) as the Next Generation Eco
+   Innovation Technology Development Project.
+CR Berho C., 2009, EVALUATION FIELD PER, P287
+   Boon N, 2002, FEMS MICROBIOL ECOL, V39, P101, DOI 10.1111/j.1574-6941.2002.tb00911.x
+   Byappanahalli MN, 1998, WATER SCI TECHNOL, V38, P171, DOI 10.1016/S0273-1223(98)00820-8
+   Byappanahalli MN, 2006, ENVIRON MICROBIOL, V8, P504, DOI 10.1111/j.1462-2920.2005.00916.x
+   Byappanahalli MN, 2007, WATER RES, V41, P3649, DOI 10.1016/j.watres.2007.03.009
+   Cereghino R, 2005, BIOL CONSERV, V125, P459, DOI 10.1016/j.biocon.2005.04.018
+   CONNER DE, 1995, APPL ENVIRON MICROB, V61, P382
+   Dombek PE, 2000, APPL ENVIRON MICROB, V66, P2572, DOI 10.1128/AEM.66.6.2572-2577.2000
+   Foster PL, 2004, J BACTERIOL, V186, P4846, DOI 10.1128/JB.186.4846-4852.2004
+   Gevrey M, 2004, FRESHWATER BIOL, V49, P208, DOI 10.1046/j.1365-2426.2003.01174.x
+   Ishii S, 2006, APPL ENVIRON MICROB, V72, P612, DOI 10.1128/AEM.72.1.612-621.2006
+   Ishii S, 2007, APPL ENVIRON MICROB, V73, P5703, DOI 10.1128/AEM.00275-07
+   Ishii S, 2009, ENVIRON MICROBIOL, V11, P733, DOI 10.1111/j.1462-2920.2008.01856.x
+   Johnson LK, 2004, APPL ENVIRON MICROB, V70, P4478, DOI 10.1128/AEM.70.8.4478-4485.2004
+   Kandror O, 2002, P NATL ACAD SCI USA, V99, P9727, DOI 10.1073/pnas.142314099
+   McLellan SL, 2007, J GREAT LAKES RES, V33, P566, DOI 10.3394/0380-1330(2007)33[566:DAFOEC]2.0.CO;2
+   McQuestin OJ, 2009, APPL ENVIRON MICROB, V75, P6963, DOI 10.1128/AEM.00291-09
+   Olstadt J, 2007, J WATER HEALTH, V5, P267, DOI 10.2166/wh.2007.008
+   Park YS, 2003, ECOL MODEL, V160, P265, DOI 10.1016/S0304-3800(02)00258-2
+   Park YS, 2003, CONSERV BIOL, V17, P1748, DOI 10.1111/j.1523-1739.2003.00430.x
+   Rozen DE, 2009, ECOL LETT, V12, P34, DOI 10.1111/j.1461-0248.2008.01257.x
+   Sadowsky MJ, 2011, FECAL BACTERIA, P295
+   SAMBROOK J, 2001, MOL CLONING LAB MANU
+   Steyvers M., 2006, ENCY COGNITIVE SCI
+   Tompkins JD, 2003, J BACTERIOL, V185, P3469, DOI 10.1128/JB.185.11.3469-3472.2003
+   Topp E, 2003, FEMS MICROBIOL ECOL, V44, P303, DOI 10.1016/S0168-6496(03)00055-2
+   Tuang FN, 1999, FEMS MICROBIOL LETT, V177, P249, DOI 10.1016/S0378-1097(99)00319-5
+   Tudesque L, 2008, WATER RES, V42, P732, DOI 10.1016/j.watres.2007.08.001
+   Unno T, 2009, APPL ENVIRON MICROB, V75, P5659, DOI 10.1128/AEM.00443-09
+   USEPA, 2006, WAT MEMBR FILTR US M
+   *USEPA, 1986, AMB WAT QUAL CRIT BA
+   Walk ST, 2007, ENVIRON MICROBIOL, V9, P2274, DOI 10.1111/j.1462-2920.2007.01341.x
+   Weber M, 2011, ISME J, V5, P918, DOI 10.1038/ismej.2010.180
+NR 33
+TC 8
+Z9 8
+U1 0
+U2 3
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1462-2912
+J9 ENVIRON MICROBIOL
+JI Environ. Microbiol.
+PD DEC
+PY 2011
+VL 13
+IS 12
+BP 3103
+EP 3113
+DI 10.1111/j.1462-2920.2011.02541.x
+PG 11
+WC Microbiology
+SC Microbiology
+GA 872XF
+UT WOS:000298843800003
+PM 21883793
+DA 2019-03-26
+ER

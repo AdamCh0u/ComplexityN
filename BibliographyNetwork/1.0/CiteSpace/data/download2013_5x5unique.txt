@@ -1,0 +1,515 @@
+
+PT J
+AU Alves, LGA
+   Ribeiro, HV
+   Mendes, RS
+AF Alves, Luiz G. A.
+   Ribeiro, Haroldo V.
+   Mendes, Renio S.
+TI Scaling laws in the dynamics of crime growth rate
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+DE Scaling law; Homicide; Crime; Growth; Power-law; Complex organizations
+ID BEHAVIOR; PUNISHMENT; CITIES; CRIMINALITY; DIFFUSION; HOMICIDE;
+   PATTERNS; JOURNALS; HOTSPOTS; MODEL
+AB The increasing number of crimes in areas with large concentrations of people have made cities one of the main sources of violence. Understanding characteristics of how crime rate expands and its relations with the cities size goes beyond an academic question, being a central issue for contemporary society. Here, we characterize and analyze quantitative aspects of murders in the period from 1980 to 2009 in Brazilian cities. We find that the distribution of the annual, biannual and triannual logarithmic homicide growth rates exhibit the same functional form for distinct scales, that is, a scale invariant behavior. We also identify asymptotic power-law decay relations between the standard deviations of these three growth rates and the initial size. Further, we discuss similarities with complex organizations. (C) 2013 Elsevier B.V. All rights reserved.
+RI Ribeiro, Haroldo/C-8614-2012; Alves, Luiz/H-3389-2013; Mendes,
+   Renio/F-9261-2017
+OI Ribeiro, Haroldo/0000-0002-9532-5195; Alves, Luiz/0000-0001-6204-5552; 
+CR Amaral LAN, 1998, PHYS REV LETT, V80, P1385, DOI 10.1103/PhysRevLett.80.1385
+   Ausloos M, 2007, EPL-EUROPHYS LETT, V77, DOI 10.1209/0295-5075/77/38002
+   BECKER GS, 1968, J POLIT ECON, V76, P169, DOI 10.1086/259394
+   Bettencourt LMA, 2008, EUR PHYS J B, V63, P285, DOI 10.1140/epjb/e2008-00250-6
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Blumstein A, 2000, ANNU REV PUBL HEALTH, V21, P505, DOI 10.1146/annurev.publhealth.21.1.505
+   Boccara N, 2010, GRAD TEXTS PHYS, P1, DOI 10.1007/978-1-4419-6562-2
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Cook W, 2004, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2004/07/P07003
+   CRANE J, 1991, AM J SOCIOL, V96, P1226, DOI 10.1086/229654
+   Crane J, 2000, J POLICY MODEL, V22, P1, DOI 10.1016/S0161-8938(97)00108-7
+   Crane P, 2005, SCIENCE, V308, P1225, DOI 10.1126/science.1114165
+   Efron B, 1993, INTRO BOOTSTRAP
+   Ehrlich I, 1996, J ECON PERSPECT, V10, P43, DOI 10.1257/jep.10.1.43
+   Fu DF, 2005, P NATL ACAD SCI USA, V102, P18801, DOI 10.1073/pnas.0509543102
+   Gibrat R., 1931, INEGALITES EC
+   Glaeser EL, 1996, Q J ECON, V111, P507, DOI 10.2307/2946686
+   Glaeser EL, 1999, J POLIT ECON, V107, pS225, DOI 10.1086/250109
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gordon MB, 2010, EUR J APPL MATH, V21, P283, DOI 10.1017/S0956792510000069
+   Gordon MB, 2009, EUR PHYS J B, V68, P133, DOI 10.1140/epjb/e2009-00066-x
+   Havemann F, 2005, J AM SOC INF SCI TEC, V56, P3, DOI 10.1002/asi.20090
+   Iglesias JR, 2012, PHYSICA A, V391, P3942, DOI 10.1016/j.physa.2012.03.001
+   Kates RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/pnas.1231331100
+   Keitt TH, 2002, PHILOS T R SOC B, V357, P627, DOI 10.1098/rstb.2001.1013
+   Keizer K, 2008, SCIENCE, V322, P1681, DOI 10.1126/science.1161405
+   Kennedy BP, 1998, SOC SCI MED, V47, P7, DOI 10.1016/S0277-9536(98)00097-5
+   Labra FA, 2007, P NATL ACAD SCI USA, V104, P10900, DOI 10.1073/pnas.0704108104
+   Levitt SD, 1997, AM ECON REV, V87, P270
+   Levitt SD, 2001, J QUANT CRIMINOL, V17, P377, DOI 10.1023/A:1012541821386
+   Mendes RS, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.017101
+   Messner SF, 1999, J QUANT CRIMINOL, V15, P423, DOI 10.1023/A:1007544208712
+   Nuno JC, 2008, PHYSICA A, V387, P2926, DOI 10.1016/j.physa.2008.01.076
+   Picoli S, 2006, EUROPHYS LETT, V75, P673, DOI 10.1209/epl/i2006-10162-1
+   Picoli S, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.036105
+   Richardson LF, 1926, P R SOC LOND A-CONTA, V110, P709, DOI 10.1098/rspa.1926.0043
+   Sachsida A, 2010, EMPIR ECON, V39, P93, DOI 10.1007/s00181-009-0296-4
+   Short MB, 2008, MATH MOD METH APPL S, V18, P1249, DOI 10.1142/S0218202508003029
+   Short MB, 2010, SIAM J APPL DYN SYST, V9, P462, DOI 10.1137/090759069
+   Short MB, 2010, P NATL ACAD SCI USA, V107, P3961, DOI 10.1073/pnas.0910921107
+   Stanley HE, 1999, REV MOD PHYS, V71, pS358, DOI 10.1103/RevModPhys.71.S358
+   Stanley MHR, 1996, NATURE, V379, P804, DOI 10.1038/379804a0
+   Tedesco L., 2000, B LAT AM RES, V19, P527
+NR 45
+TC 18
+Z9 18
+SN 0378-4371
+PD JUN 1
+PY 2013
+VL 392
+IS 11
+BP 2672
+EP 2679
+DI 10.1016/j.physa.2013.02.002
+UT WOS:000317699400006
+ER
+
+PT J
+AU Lin, BB
+   Fuller, RA
+AF Lin, Brenda B.
+   Fuller, Richard A.
+TI Sharing or sparing? How should we grow the world's cities?
+SO JOURNAL OF APPLIED ECOLOGY
+DE biodiversity; ecosystem services; landscape configuration; land-use
+   transformation; mosaics; spatial models; urban densification
+ID BIODIVERSITY CONSERVATION; LAND-USE; AGRICULTURAL INTENSIFICATION; GREEN
+   SPACE; HABITAT FRAGMENTATION; BIOTIC HOMOGENIZATION; EXURBAN
+   DEVELOPMENT; ECOSYSTEM SERVICES; URBAN-ENVIRONMENT; BIRD POPULATIONS
+AB 1. There has long been a debate amongst conservation biologists about how agricultural land use should be distributed spatially. Advocates of land sparing argue that high-intensity food production on small units of land will conserve more natural habitat than low-intensity farming spread across larger areas. Others argue that less intensive production over a greater area of land will reduce the overall load of human stressors upon ecosystems.
+   2. Although agricultural and urban systems have traditionally been considered as different fields of research, there are strong parallels between the two landscapes in the patterns of their spatial configuration and the trade-offs associated with their development. Continued and rapid urbanization, with associated losses in vegetation, highlights the need for a uniting spatial framework to assess the ecological impacts of urbanization. Here, we apply some of the thinking emerging from the agricultural land-sparing debate to urbanization, review the similarities and differences between the two systems and set out a research agenda.
+   3. Intensification of urban systems to increase housing density leads to buildings being interspersed with small tracts of natural or semi-natural habitat patches (e.g. forest patches, parks). Urban extensification, on the other hand, is characterized by sprawling suburbanization with less concentrated, more distributed green space, often predominantly in the form of backyard or streetscape vegetation. We argue that regional scale analyses are urgently needed to determine which of these patterns of urban growth has a lower overall impact on biodiversity and to explore the geographical and taxonomic variation in the most ecologically appropriate city layout.
+   4. Synthesis and applications. The spatial pattern of urban development will affect biodiversity conservation within and beyond a city's borders. We chart the early progress of empirical work on the land-sparing debate in an urban context and suggest that to yield development patterns that minimize overall ecological impact, urban planners must work at the scale of at least the entire city rather than on a case-by-case basis.
+RI Fuller, Richard/B-7971-2008; Lin, Brenda/A-8834-2011
+OI Fuller, Richard/0000-0001-9468-9678; Lin, Brenda/0000-0002-6011-9172
+CR Aebischer N.J., 1991, P305
+   Alberti M, 2003, BIOSCIENCE, V53, P1169, DOI 10.1641/0006-3568(2003)053[1169:IHIEOA]2.0.CO;2
+   Antrop M, 2000, LANDSCAPE URBAN PLAN, V50, P43, DOI 10.1016/S0169-2046(00)00079-7
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Benton TG, 2002, J APPL ECOL, V39, P673, DOI 10.1046/j.1365-2664.2002.00745.x
+   Bernhardt ES, 2007, FRESHWATER BIOL, V52, P738, DOI 10.1111/j.1365-2427.2006.01718.x
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bock CE, 2007, LANDSCAPE URBAN PLAN, V80, P34, DOI 10.1016/j.landurbplan.2006.05.003
+   Bolund P, 1999, ECOL ECON, V29, P293, DOI 10.1016/S0921-8009(99)00013-0
+   Bryant MM, 2006, LANDSCAPE URBAN PLAN, V76, P23, DOI 10.1016/j.landurbplan.2004.09.029
+   Carlino GA, 2007, J URBAN ECON, V61, P389, DOI 10.1016/j.jue.2006.08.003
+   Chace JF, 2006, LANDSCAPE URBAN PLAN, V74, P46, DOI 10.1016/j.landurbplan.2004.08.007
+   Chocat B, 2001, WATER SCI TECHNOL, V43, P61
+   Cincotta RP, 2000, NATURE, V404, P990, DOI 10.1038/35010105
+   Cullen L, 2005, CONSERV BIOL, V19, P747, DOI 10.1111/j.1523-1739.2005.00700.x
+   Dallimer M, 2011, BIOL LETTERS, V7, P763, DOI 10.1098/rsbl.2011.0025
+   Daniels G., 2011, THESIS U TASMANIA
+   Donald PF, 2001, P ROY SOC B-BIOL SCI, V268, P25, DOI 10.1098/rspb.2000.1325
+   Donald PF, 2006, J APPL ECOL, V43, P209, DOI 10.1111/j.1365-2664.2006.01146.x
+   Dowd BM, 2008, AGR ECOSYST ENVIRON, V128, P151, DOI 10.1016/j.agee.2008.05.014
+   Dye C, 2008, SCIENCE, V319, P766, DOI 10.1126/science.1150198
+   Faeth SH, 2005, BIOSCIENCE, V55, P399, DOI 10.1641/0006-3568(2005)055[0399:TDIUC]2.0.CO;2
+   Fischer J, 2008, FRONT ECOL ENVIRON, V6, P382, DOI 10.1890/070019
+   FitzGibbon SI, 2007, LANDSCAPE ECOL, V22, P1513, DOI 10.1007/s10980-007-9139-x
+   Flynn DFB, 2009, ECOL LETT, V12, P22, DOI 10.1111/j.1461-0248.2008.01255.x
+   Folke C, 1997, AMBIO, V26, P167
+   Fuller RA, 2007, BIOLOGY LETT, V3, P390, DOI 10.1098/rsbl.2007.0149
+   Fuller RA, 2009, BIOL LETTERS, V5, P352, DOI 10.1098/rsbl.2009.0010
+   Gaston K. J, 2010, URBAN ECOLOGY
+   Goddard MA, 2010, TRENDS ECOL EVOL, V25, P90, DOI 10.1016/j.tree.2009.07.016
+   Goheen JR, 2003, OIKOS, V102, P95, DOI 10.1034/j.1600-0706.2003.12336.x
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Hahs AK, 2009, ECOL LETT, V12, P1165, DOI 10.1111/j.1461-0248.2009.01372.x
+   Hansen AJ, 2005, ECOL APPL, V15, P1893, DOI 10.1890/05-5221
+   Harvey CA, 2008, CONSERV BIOL, V22, P8, DOI 10.1111/j.1523-1739.2007.00863.x
+   Honnay O, 2002, ECOL LETT, V5, P525, DOI 10.1046/j.1461-0248.2002.00346.x
+   Jenks M, 2010, FUTURE CITY, V2, P1
+   Karathodorou N, 2010, ENERG ECON, V32, P86, DOI 10.1016/j.eneco.2009.05.005
+   Lakes T, 2009, LANDSCAPE ECOL, V24, P1195, DOI 10.1007/s10980-009-9404-2
+   Lambin EF, 2003, ANNU REV ENV RESOUR, V28, P205, DOI 10.1146/annurev.energy.28.050302.105459
+   Luck GW, 2007, BIOL REV, V82, P607, DOI 10.1111/j.1469-185X.2007.00028.x
+   Machlis GE, 1997, SOC NATUR RESOUR, V10, P347, DOI 10.1080/08941929709381034
+   Maestas JD, 2003, CONSERV BIOL, V17, P1425, DOI 10.1046/j.1523-1739.2003.02371.x
+   Maron M, 2012, GLOBAL ECOL BIOGEOGR, V21, P682, DOI 10.1111/j.1466-8238.2011.00706.x
+   Marzluff J., 2001, AVIAN ECOLOGY CONSER
+   Matson PA, 1997, SCIENCE, V277, P504, DOI 10.1126/science.277.5325.504
+   Matt J., 2011, ENV RES LETT, V6
+   Mcdonald RI, 2008, BIOL CONSERV, V141, P1695, DOI 10.1016/j.biocon.2008.04.025
+   McDonnell MJ, 2009, ECOLOGY OF CITIES AND TOWNS: A COMPARATIVE APPROACH, P1, DOI 10.1017/CBO9780511609763
+   McIntyre NE, 2001, LANDSCAPE URBAN PLAN, V52, P257, DOI 10.1016/S0169-2046(00)00122-5
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   McKinney ML, 2002, BIOSCIENCE, V52, P883, DOI 10.1641/0006-3568(2002)052[0883:UBAC]2.0.CO;2
+   McPherson EG, 1994, ECOLOGICAL CITY PRES, P151
+   Millennium Ecosystem Assessment, 2005, EC HUM WELL BEING SY
+   Miller JR, 2005, TRENDS ECOL EVOL, V20, P430, DOI 10.1016/j.tree.2005.05.013
+   Mortberg U, 2000, LANDSCAPE URBAN PLAN, V50, P215, DOI 10.1016/S0169-2046(00)00090-6
+   Nelson E, 2009, FRONT ECOL ENVIRON, V7, P4, DOI 10.1890/080023
+   NILON CH, 1995, LANDSCAPE URBAN PLAN, V32, P81, DOI 10.1016/0169-2046(94)00192-6
+   Olden JD, 2006, J BIOGEOGR, V33, P2027, DOI 10.1111/j.1365-2699.2006.01572.x
+   Opdam P, 2004, BIOL CONSERV, V117, P285, DOI 10.1016/j.biocon.2003.12.008
+   Pereira HM, 2010, SCIENCE, V330, P1496, DOI 10.1126/science.1196624
+   Phalan B, 2011, SCIENCE, V333, P1289, DOI 10.1126/science.1208742
+   Pijanowski B. C., 2002, Computers, Environment and Urban Systems, V26, P553, DOI 10.1016/S0198-9715(01)00015-1
+   Pimm SL, 2000, NATURE, V403, P843, DOI 10.1038/35002708
+   Polasky S, 2008, BIOL CONSERV, V141, P1505, DOI 10.1016/j.biocon.2008.03.022
+   Pyle RM, 2003, ORYX, V37, P206, DOI 10.1017/S0030605303000383
+   Radford JQ, 2005, BIOL CONSERV, V124, P317, DOI 10.1016/j.biocon.2005.01.039
+   Rudd H, 2002, RESTOR ECOL, V10, P368, DOI 10.1046/j.1526-100X.2002.02041.x
+   Sandstrom UG, 2006, LANDSCAPE URBAN PLAN, V77, P39, DOI 10.1016/j.landurbplan.2005.01.004
+   SAUNDERS DA, 1991, CONSERV BIOL, V5, P18, DOI 10.1111/j.1523-1739.1991.tb00384.x
+   Shanahan DF, 2011, BIOL CONSERV, V144, P722, DOI 10.1016/j.biocon.2010.10.014
+   Sotherton NW, 1998, BIOL CONSERV, V83, P259, DOI 10.1016/S0006-3207(97)00082-7
+   Sushinsky JR, 2013, GLOBAL CHANGE BIOL, V19, P401, DOI 10.1111/gcb.12055
+   Tscharntke T, 2005, ECOL LETT, V8, P857, DOI 10.1111/j.1461-0248.2005.00782.x
+   ULRICH RS, 1984, SCIENCE, V224, P420, DOI 10.1126/science.6143402
+   United Nations. Department of Economic and Social Affairs, 2011, WORLD URB PROSP 2011
+   Vandermeer J, 2008, ECOL COMPLEX, V5, P222, DOI 10.1016/j.ecocom.2008.01.001
+   Vandermeer J, 2007, CONSERV BIOL, V21, P274, DOI 10.1111/j.1523-1739.2006.00582.x
+   Vitousek PM, 1997, SCIENCE, V277, P494, DOI 10.1126/science.277.5325.494
+   Williams NSG, 2005, J ECOL, V93, P1203, DOI 10.1111/j.1365-2745.2005.01039.x
+   Yencken D., 2000, RESETTING COMPASS AU
+   Zang SY, 2011, ENVIRON MONIT ASSESS, V179, P575, DOI 10.1007/s10661-010-1764-1
+NR 83
+TC 52
+Z9 53
+SN 0021-8901
+EI 1365-2664
+PD OCT
+PY 2013
+VL 50
+IS 5
+BP 1161
+EP 1168
+DI 10.1111/1365-2664.12118
+UT WOS:000325079800009
+ER
+
+PT J
+AU Miguelez, E
+   Moreno, R
+AF Miguelez, Ernest
+   Moreno, Rosina
+TI Research Networks and Inventors' Mobility as Drivers of Innovation:
+   Evidence from Europe
+SO REGIONAL STUDIES
+DE Inventors' mobility; Networks of co-inventors; Knowledge production
+   function; Spatial econometrics; European regions
+ID RESEARCH-AND-DEVELOPMENT; SPATIAL AUTOREGRESSIVE MODEL; KNOWLEDGE FLOWS;
+   COLLABORATIVE NETWORKS; INCREASING RETURNS; REGIONAL GROWTH; LABOR
+   MOBILITY; PATENT DATA; SPILLOVERS; DISTURBANCES
+AB Miguelez E. and Moreno R. Research networks and inventors' mobility as drivers of innovation: evidence from Europe, Regional Studies. This paper investigates the importance of the labour mobility of inventors, as well as the scale, extent and density of their collaborative research networks, for regional innovation outcomes. To do so, a knowledge production function framework at the regional level is used. The empirical approach presented takes full account of spatial interactions by estimating a spatial lag model, together, where necessary, with a spatial error model. In addition, standard errors are calculated using spatial heteroskedasticity and autocorrelation consistent (SHAC) techniques. The results suggest the existence of a robust positive correlation between intra-regional labour mobility and regional innovation, whilst the relationship with networks is less clear.
+RI Moreno, Rosina/D-4723-2014; Miguelez, Ernest/A-1254-2017
+OI Moreno, Rosina/0000-0002-3500-8622; Miguelez, Ernest/0000-0002-8224-6842
+CR Acs ZJ, 2002, RES POLICY, V31, P1069, DOI 10.1016/S0048-7333(01)00184-6
+   Agrawal A, 2006, J ECON GEOGR, V6, P571, DOI 10.1093/jeg/lbl016
+   Akcomak IS, 2009, EUR ECON REV, V53, P544, DOI 10.1016/j.euroecorev.2008.10.001
+   Almeida P, 1999, MANAGE SCI, V45, P905, DOI 10.1287/mnsc.45.7.905
+   Andersson M, 2009, ANN REGIONAL SCI, V43, P159, DOI 10.1007/s00168-008-0211-5
+   Anselin L, 1997, J URBAN ECON, V42, P422, DOI 10.1006/juec.1997.2032
+   Anselin L, 1997, INT REGIONAL SCI REV, V20, P153, DOI 10.1177/016001769702000109
+   Anselin L, 1988, SPATIAL ECONOMETRICS
+   Audretsch D., 2004, HDB REGIONAL URBAN E, P2713, DOI DOI 10.1016/S1574-0080(04)80018-X
+   Autant-Bernard C, 2007, PAP REG SCI, V86, P341, DOI 10.1111/j.1435-5957.2007.00134.x
+   Autant-Bernard C, 2011, J REGIONAL SCI, V51, P471, DOI 10.1111/j.1467-9787.2010.00705.x
+   Balconi M, 2004, RES POLICY, V33, P127, DOI 10.1016/S0048-7333(03)00108-2
+   Bergman EM, 2009, ANN REGIONAL SCI, V43, P559, DOI 10.1007/s00168-008-0250-y
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bode E, 2004, J ECON GEOGR, V4, P43, DOI 10.1093/jeg/4.1.43
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Boschma R, 2009, J ECON GEOGR, V9, P169, DOI 10.1093/jeg/lbn041
+   Bottazzi L, 2003, EUR ECON REV, V47, P687, DOI 10.1016/S0014-2921(02)00307-0
+   Breschi S, 2004, HANDBOOK OF QUANTITATIVE SCIENCE AND TECHNOLOGY RESEARCH: THE USE OF PUBLICATION AND PATENT STATISTICS IN STUDIES OF S&T SYSTEMS, P613
+   Breschi S., 2009, RES POLICY, V39, P14, DOI 10.1016/j.respol.2009.11.004
+   Breschi S., 2005, ANN EC STAT, V79, P189
+   Breschi S, 2009, J ECON GEOGR, V9, P439, DOI 10.1093/jeg/lbp008
+   Corredoira RA, 2010, STRATEGIC MANAGE J, V31, P159, DOI 10.1002/smj.803
+   Cowan R, 2004, J ECON DYN CONTROL, V28, P1557, DOI 10.1016/j.jedc.2003.04.002
+   Crespi GA, 2007, J TECHNOL TRANSFER, V32, P195, DOI 10.1007/s10961-006-9012-0
+   Dakhli M, 2004, ENTREP REGION DEV, V16, P107, DOI 10.1080/08985620410001677835
+   De Dominici L, 2007, 2007 C CORP R D CONC
+   Doring T, 2006, REG STUD, V40, P375, DOI 10.1080/00343400600632739
+   Fingleton B, 2008, PAP REG SCI, V87, P319, DOI 10.1111/j.1435-5957.2008.00187.x
+   Fleming L., 2007, ORGAN SCI, V14, P375
+   Gomes-Casseres B, 2006, J FINANC ECON, V80, P5, DOI 10.1016/j.jfineco.2004.08.011
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   GRILICHES Z, 1979, BELL J ECON, V10, P92, DOI 10.2307/3003321
+   Griliches Z., 1991, PATENT STAT EC INDIC
+   Grossman G., 1991, INNOVATION GROWTH GL
+   Harris R., 2009, 17 SERC LSE, V17
+   Hausman J.A., 1984, ECON POLIT WEEKLY, V27, P909, DOI DOI 10.2307/1911191
+   Hoekman J, 2009, ANN REGIONAL SCI, V43, P721, DOI 10.1007/s00168-008-0252-9
+   Hoisl K., 2009, RES POLICY, V36, P615
+   Hoisl K, 2007, J TECHNOLOGY TRANSFE, V34, P212
+   JAFFE AB, 1986, AM ECON REV, V76, P984
+   JAFFE AB, 1989, AM ECON REV, V79, P957
+   Kelejian HH, 2007, J ECONOMETRICS, V140, P131, DOI 10.1016/j.jeconom.2006.09.005
+   Kelejian HH, 2004, ADV ECONOMETRICS, V18, P163, DOI 10.1016/S0731-9053(04)18005-5
+   Kelejian HH, 1998, J REAL ESTATE FINANC, V17, P99, DOI 10.1023/A:1007707430416
+   Kennedy Peter, 1992, GUIDE ECONOMETRICS
+   Kim J., 2006, INT KNOWLEDGE FLOWS
+   Kroll H., 2009, SPILLOVERS PROXIMITY
+   Laudel G, 2003, SCIENTOMETRICS, V57, P215, DOI 10.1023/A:1024137718393
+   Lenzi C, 2009, ECON INNOV NEW TECH, V18, P161, DOI 10.1080/10438590701737935
+   Lobo J, 2008, J URBAN ECON, V63, P871, DOI 10.1016/j.jue.2007.07.005
+   LUCAS RE, 1988, J MONETARY ECON, V22, P3, DOI 10.1016/0304-3932(88)90168-7
+   Maggioni M. A., 2008, ANN REGIONAL SCI, V43, P691
+   Miguelez E., 2011, SINGLING OUT INDIVID
+   Miguelez E, 2011, REG STUD, V45, P1019, DOI 10.1080/00343400903241543
+   Moreno R, 2005, ENVIRON PLANN A, V37, P1793, DOI 10.1068/a37341
+   Moreno R, 2005, ANN REGIONAL SCI, V39, P715, DOI 10.1007/s00168-005-0021-y
+   Peri G, 2005, REV ECON STAT, V87, P308, DOI 10.1162/0034653053970258
+   Pond R, 2007, PAP REG SCI, V86, P423, DOI 10.1111/j.1435-5957.2007.00126.x
+   Ponds R, 2010, J ECON GEOGR, V10, P231, DOI 10.1093/jeg/lbp036
+   Rodriguez-Pose A, 2008, REG STUD, V42, P51, DOI 10.1080/00343400701654186
+   ROMER PM, 1986, J POLIT ECON, V94, P1002, DOI 10.1086/261420
+   ROMER PM, 1990, J POLITICAL EC, V98, P71, DOI DOI 10.1086/261725
+   Rosenkopf L, 2003, MANAGE SCI, V49, P751, DOI 10.1287/mnsc.49.6.751.16026
+   Saxenian A. L., 1994, REGIONAL ADVANTAGE C
+   Shalem R., 2008, SOFTWARE PATENTS INV
+   Singh J, 2005, MANAGE SCI, V51, P756, DOI 10.1287/mnsc.1040.0349
+   Singh J, 2011, MANAGE SCI, V57, P129, DOI 10.1287/mnsc.1100.1253
+   Song J, 2003, MANAGE SCI, V49, P351, DOI 10.1287/mnsc.49.4.351.14429
+   Ter Wal ALJ, 2009, ANN REGIONAL SCI, V43, P739, DOI 10.1007/s00168-008-0258-3
+   Thoma G., 2009, HARMONIZING COMBININ
+   Thoma G., 2009, METHODS SOFTWA UNPUB
+   Trippl M, 2010, PAP REG SCI, V89, P229, DOI 10.1111/j.1435-5957.2010.00302.x
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+NR 75
+TC 22
+Z9 22
+SN 0034-3404
+EI 1360-0591
+PD NOV 1
+PY 2013
+VL 47
+IS 10
+SI SI
+BP 1668
+EP 1685
+DI 10.1080/00343404.2011.618803
+UT WOS:000326562000005
+ER
+
+PT J
+AU Samet, RH
+AF Samet, Robert H.
+TI Complexity, the science of cities and long-range futures
+SO FUTURES
+AB The emergence of a 'science of cities' provides the foundations for long-range futures research that may be applied to models of climate change, with a time horizon in excess of 150 years. The features of a complexity theory of cities have been developed at multiple levels with scientific analogies such as ecology, biology and physics. The following principles apply: (1) complexity science unifies a wide variety of urban phenomena including emergence, technological evolution, civil phase transitions, macrolaws, and resilience to system failures and extreme events. (2). World urbanisation raises the number of levels in the urban hierarchy, with an increasing number of megacities with over 10 m inhabitants. (3) Urban development involves the institutional coordination of technological development with engineered transformations. (4) Civil and societal transitions arise with increasing per capita investment, such that some social norms and planning standards have consistent scaling factors across a range of city sizes for countries at similar stages of development. (5) The trajectory of the urban system depends upon the allometric pattern of growth for cities, and human settlements in 2150 will occupy less than 10% of the world's land area. (C) 2013 Elsevier Ltd. All rights reserved.
+CR Albeverio S., 2008, DYNAMICS COMPLES URB
+   Angel S, 2012, PLANET CITIES LINCOL
+   Angel S, 2012, ATLAS URBAN EXPANSIO
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M., 2012, BUILDING SCI CITI S1, V29
+   Berry B.J.L., 2012, CITIES S1, V29
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boulding K.E., 1978, NEW THEORY SOC EVOLU
+   Breheny M., 1995, CITIES COMPETITION
+   Cronon W, 1992, NATURES METROPOLIS C
+   Forstall RL, 2004, CIT FUT C U ILL CHIC
+   Gabaix X, 2004, HDB REGIONAL URBAN E, V4
+   Gershenson C., 2013, ARTIF LIFE, P19
+   Giampietro M., 1994, FUTURES, V26
+   GOTTMAN J., 1961, MEGALOPOLIS URBANIZE
+   Intergovernmental Panel on Climate Change, 2007, CLIMATE CHANGE 2007
+   KNOX PL, 1989, GEOGRAPHY WORLD EC
+   Lo F, 1998, GLOBALISATION WORLD
+   Mitchell J. K., 1999, CRUCIBLES HAZARD MEG
+   Newman M., 2006, STRUCTURE DYNAMICE N
+   North D.C., 1997, EC EVOLVING COMPLEX
+   Portugali J, 2012, COMPLEXITY THEORIES
+   Pumain D, 2012, COMPLEXITY THEORIES
+   Roth C., 2012, J ROYAL SOC, V19, P2540
+   Samet R. H., 2009, LONG RANGE FUTURES R
+   Samet R.H., 2011, FUTURES, V43
+   Samet R.H., 2012, FUTURES, V44
+   Schneider E.D., 1994, FUTURES, V26
+   Simmonds R, 2000, GLOBAL CITY REGIONS
+   UN-HABITAT, 2008, STAT WORLDS CIT 2010
+   United Nations Human Settlements Programme (UN-HABITAT), 2011, GLOB REP HUM SETTL 2
+   Vespignani A, 2009, SCIENCE, V325
+   World Bank, 2012, WORLD DEV IND 2012
+NR 33
+TC 19
+Z9 19
+SN 0016-3287
+PD MAR
+PY 2013
+VL 47
+BP 49
+EP 58
+DI 10.1016/j.futures.2013.01.006
+UT WOS:000317160600006
+ER
+
+PT J
+AU Gershenson, C
+AF Gershenson, Carlos
+TI Living in Living Cities
+SO ARTIFICIAL LIFE
+DE Living technology; urbanism; adaptation; robustness; learning;
+   self-organization
+ID RANDOM BOOLEAN NETWORKS; SYNTHETIC BIOLOGY; SELF-ORGANIZATION; MULTIPLE
+   SCALES; SENSOR NETWORKS; COMPLEXITY; EVOLUTION; SYSTEMS; LIFE;
+   COOPERATION
+AB This article presents an overview of current and potential applications of living technology to some urban problems. Living technology can be described as technology that exhibits the core features of living systems. These features can be useful to solve dynamic problems. In particular, urban problems concerning mobility, logistics, telecommunications, governance, safety, sustainability, and society and culture are presented, and solutions involving living technology are reviewed. A methodology for developing living technology is mentioned, and supraoptimal public transportation systems are used as a case study to illustrate the benefits of urban living technology. Finally, the usefulness of describing cities as living systems is discussed.
+OI Gershenson, Carlos/0000-0003-0193-3067
+CR Adami C., 1998, INTRO ARTIFICIAL LIF
+   Alexander C., 2003, NATURE ORDER ESSAY A, V1-4
+   Andersson C, 2002, ENVIRON PLANN B, V29, P841, DOI 10.1068/b12813
+   Andersson C, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.026204
+   Anghel M., 2007, P 40 ANN HAW INT C S, P113
+   [Anonymous], 2010, Nature, V467, P900, DOI 10.1038/467900a
+   Armstrong R, 2010, NATURE, V467, P916, DOI 10.1038/467916a
+   Arthur W. B, 2011, MCKINSEY Q
+   Arup The Climate Group Accenture Horizon & University of Nottingham, 2011, WORKING PAPER
+   Ashby W.R., 1956, INTRO CYBERNETICS
+   Ashby WR, 1962, PRINCIPLES SELF ORG, P255, DOI DOI 10.1007/978-1-4899-0718-9_38
+   AXELROD R, 1981, SCIENCE, V211, P1390, DOI 10.1126/science.7466396
+   Bar-Yam Y, 2004, COMPLEXITY, V9, P15, DOI 10.1002/cplx.20029
+   Barandiaran X, 2004, ARTIFICIAL LIFE IX, P514
+   BATTY M, 1971, NATURE, V231, P425, DOI 10.1038/231425a0
+   Batty M., 2005, CITIES COMPLEXITY
+   Batty M., CITIES IN PRESS
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bedau M. A., 2009, ARTIF LIFE, V16, P89, DOI DOI 10.1162/ARTL.2009.16.1.16103
+   Bedau MA, 1998, ARTIF LIFE, V4, P125, DOI 10.1162/106454698568486
+   Bedau MA, 2000, ARTIF LIFE, V6, P363, DOI 10.1162/106454600300103683
+   Bekey GA, 2005, AUTONOMOUS ROBOTS BI
+   Benner SA, 2005, NAT REV GENET, V6, P533, DOI 10.1038/nrg1637
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BIZER C, 2009, INT J SEMANT WEB INF, V5, P1, DOI DOI 10.4018/JSWIS.2009081901
+   Bollen J., 2011, P 5 INT AAAI C WEBL, V11, P450
+   Bonabeau Eric, 1999, SWARM INTELLIGENCE N
+   Cairns S., 2004, WORKING PAPER
+   CALLEBAUT W, 2005, MODULARITY UNDERSTAN
+   Camazine S., 2003, SELF ORG BIOL SYSTEM
+   Chong CY, 2003, P IEEE, V91, P1247, DOI 10.1109/JPROC.2003.814918
+   Cohen JE, 2003, SCIENCE, V302, P1172, DOI 10.1126/science.1088665
+   Cools S. B., 2007, SELF ORG APPL MULTIA, P41
+   Dawson C. A., 1926, CITY ORGANISM SPECIA, P10
+   de Gier J, 2011, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2011/04/P04008
+   DeMarzo P., 2006, STOC'06. Proceedings of the 38th Annual ACM Symposium on Theory of Computing, P477
+   DeSanctis G, 1999, ORGAN SCI, V10, P693, DOI 10.1287/orsc.10.6.693
+   Dodgson M, 2011, J URBAN TECHNOL, V18, P101, DOI 10.1080/10630732.2011.615570
+   Dressler F., 2007, SELF ORG SENSOR ACTO
+   Dressler F., 2008, ORGANIC COMPUTING, P285, DOI DOI 10.1007/978-3-540-77657-4
+   Dressler F, 2010, IEEE COMMUN MAG, V48, P176, DOI 10.1109/MCOM.2010.5621985
+   Edelman GM, 2001, P NATL ACAD SCI USA, V98, P13763, DOI 10.1073/pnas.231499798
+   Ekblom P., 1999, STUDIES CRIME CRIME, V8, P27
+   Faieta B., 1993, SSL42 XER PARC
+   FERNANDEZ P, 2004, POWER LAWS SCALE FRE
+   Forrester J. W., 1969, URBAN DYNAMICS
+   Frei R, 2011, INT J BIO-INSPIR COM, V3, P199, DOI 10.1504/IJBIC.2011.041144
+   Gansky  L., 2010, MESH WHY FUTURE BUSI
+   Gellings C., 2009, SMART GRID ENABLING
+   Gershenson C, 2003, LECT NOTES ARTIF INT, V2801, P606
+   Gershenson C, 2005, MANAGING COMPLEX, V1, P47
+   Gershenson C., 2006, ARTIF LIFE, P35
+   Gershenson C., 2007, DESIGN CONTROL SELF
+   Gershenson C., 2012, COMPLEXITY THEORIES, P269
+   Gershenson C, 2010, PALADYN J BEHAV ROBO, V1, P147, DOI DOI 10.2478/S13230-010-0015-Z]
+   Gershenson C., 2008, INT J PUBLIC INFORM, V2008, P1
+   Gershenson C, 2005, COMPLEX SYST, V16, P29
+   Gershenson C, 2013, FOUND SCI, V18, P781, DOI 10.1007/s10699-012-9305-8
+   Gershenson C, 2011, COMPLEXITY, V16, P37, DOI [10.1002/cplx.20350, 10.1002/cplx.20362]
+   Gershenson C, 2012, COMPLEXITY, V18, P29, DOI 10.1002/cplx.21424
+   Gershenson C, 2012, THEOR BIOSCI, V131, P181, DOI 10.1007/s12064-011-0144-x
+   Gershenson C, 2012, KYBERNETES, V41, P386, DOI 10.1108/03684921211229479
+   Gershenson C, 2012, COMPLEXITY, V17, P23, DOI 10.1002/cplx.20392
+   Gershenson C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0021469
+   Gershenson C, 2011, CIR CIR, V79, P199
+   Gershenson C, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0007292
+   Gershenson Carlos, 2007, P INT C COMPL SYST I
+   Glaeser E, 2011, SCIENCE, V333, P592, DOI 10.1126/science.1209264
+   Gyimesi K., 2011, FRUSTRATION RISING I
+   Haken H., 1981, SELF ORGANIZING SYST, P9
+   Harrison C., 2011, P 55 ANN M ISSS
+   Helbing D, 2000, NATURE, V407, P487, DOI 10.1038/35035023
+   Helbing D, 2009, EUR PHYS J B, V70, P257, DOI 10.1140/epjb/e2009-00213-5
+   Helbing D., 2011, ARXIV11086131
+   Helbing D, 2005, ADV COMPUT MANAG SCI, V7, P239
+   Helbing D, 2009, ADV COMPLEX SYST, V12, P533, DOI 10.1142/S0219525909002374
+   Heylighen F., 2007, COMPLEXITY SCI SOC
+   Hofmeyr Steven A., 1999, P GEN EV COMP C SAN, V2, P1289
+   Holland J. H., 1995, HIDDEN ORDER ADAPTAT
+   Holland J. H, 1975, ADAPTATION NATURAL A
+   Intuit, 2010, 2020 INT
+   Jen E., 2005, SANTA FE I STUDIES S
+   Kelly Kevin, 2010, WHAT TECHNOLOGY WANT
+   Kennedy J. F., 2001, SWARM INTELLIGENCE
+   Kesting A, 2008, TRANSPORT RES C-EMER, V16, P668, DOI 10.1016/j.trc.2007.12.004
+   Kitchin R, 2011, SOFTW STUD, P1, DOI 10.7551/mitpress/9780262042482.001.0001
+   KRAKAUER DC, 2007, PROTOCELLS BRIDGING
+   Lammer S, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/04/P04019
+   Lammer S., 2010, 1009019 SANT FE I
+   Lee SK, 2008, CURR OPIN BIOTECH, V19, P556, DOI 10.1016/j.copbio.2008.10.014
+   Lynch K., 1981, THEORY GOOD CITY FOR
+   Mahiny AS, 2012, ENVIRON PLANN B, V39, P925, DOI 10.1068/b37092
+   McMullin B, 2004, ARTIF LIFE, V10, P277, DOI 10.1162/1064546041255548
+   Mehaffy M., 2011, METROPOLIS MAGAZINE
+   Miller J. G., 1978, LIVING SYSTEMS
+   Mims C., 2011, FAST CO
+   Moreno A., 2006, REFRAMING COMPLEXITY
+   MullerSchloer C, 2011, AUTON SYST, P1
+   Nowak MA, 2006, SCIENCE, V314, P1560, DOI 10.1126/science.1133755
+   Office of Adviser to the Prime Minister Public Information Infrastructure & Innovations, 2010, BROADB PANCH EMP PAN
+   Ohira Toru, 1997, P INTERSYMP 97 9 INT
+   Papadimitriou CH, 1999, MATH OPER RES, V24, P293, DOI 10.1287/moor.24.2.293
+   Pinker S., 2011, BETTER ANGELS OUR NA
+   PITRODA S, 1993, HARVARD BUS REV, V71, P66
+   Poblanno-Balp R, 2011, ARTIF LIFE, V17, P331, DOI 10.1162/artl_a_00042
+   Portugali J., 2000, SELF ORG CITY
+   Prothmann Holger, 2009, International Journal of Automomous and Adaptive Communications Systems, V2, P203, DOI 10.1504/IJAACS.2009.026783
+   Qi HR, 2001, IEEE T SYST MAN CY C, V31, P383, DOI 10.1109/5326.971666
+   Ratti C, 2006, ENVIRON PLANN B, V33, P727, DOI 10.1068/b32047
+   Resch B., 2011, SUSTAINABLE ARCHITEC, P175
+   Ritter A., 2007, SMART MAT ARCHITECTU
+   Roberts L, 2011, SCIENCE, V333, P540, DOI 10.1126/science.333.6042.540
+   Rodriguez M A, 2004, P N AM ASS COMP SOC
+   Rodriguez M. A., 2007, HAW INT C SYST SCI H
+   Ruhnke A. R., 2011, J BIOURBANISM, V1, P59
+   Schlosser G, 2004, MODULARITY DEV EVOLU
+   Silva EA, 2005, EUR PLAN STUD, V13, P93, DOI 10.1080/0965431042000312424
+   Simon H., 1996, SCI ARTIFICIAL
+   Singhal A., 2008, J DEV COMMUNICATION, V19, P43
+   Spilhaus A, 1969, Am Sci, V57, P24
+   Svenson P., 2004, FOIR1180SE SWED DEF
+   Theraulaz G, 1999, ARTIF LIFE, V5, P97, DOI 10.1162/106454699568700
+   Trantopoulos K, 2011, ENVIRON SCI TECHNOL, V45, P6231, DOI 10.1021/es2020988
+   Trianni V., 2009, ADV ARTIFICIAL LIFE
+   Turnquist M. A., 1980, TRANSPORT RES REC, P25
+   VARELA F G, 1974, Biosystems, V5, P187, DOI 10.1016/0303-2647(74)90031-8
+   Von Neumann J, 1956, AUTOMATA STUDIES
+   Wagner A, 2005, BIOESSAYS, V27, P176, DOI 10.1002/bias.20170
+   WAGNER A, 2005, ROBUSTNESS EVOLVABIL
+   Watson R. A., 2002, THESIS BRANDEIS U WA
+   Weatherburn D., 2001, CRIME JUSTICE B, V54, P1
+   WELDING PI, 1957, OPER RES QUART, V8, P133, DOI 10.2307/3007157
+   Whitacre J, 2010, J THEOR BIOL, V263, P143, DOI 10.1016/j.jtbi.2009.11.008
+   White R., 2000, Computers, Environment and Urban Systems, V24, P383, DOI 10.1016/S0198-9715(00)00012-0
+   Williams D., 1997, NATURES SERVICES SOC, P219
+   Yamins D, 2003, NETW SPAT ECON, V3, P69, DOI 10.1023/A:1022001117715
+NR 137
+TC 9
+Z9 9
+SN 1064-5462
+EI 1530-9185
+PD SUM-FAL
+PY 2013
+VL 19
+IS 3-4
+BP 401
+EP 420
+DI 10.1162/ARTL_a_00112
+UT WOS:000324116700008
+PM 23834590
+ER

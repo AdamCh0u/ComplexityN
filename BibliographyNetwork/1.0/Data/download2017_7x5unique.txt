@@ -1,0 +1,531 @@
+
+PT J
+AU Lovejoy, S
+AF Lovejoy, S.
+TI How accurately do we know the temperature of the surface of the earth?
+SO CLIMATE DYNAMICS
+LA English
+DT Article
+DE Global temperature; Uncertainty; Scaling; Stochastic modelling
+ID GEOPHYSICAL MEASURING NETWORKS; FRACTAL CHARACTERIZATION; CLIMATE;
+   MACROWEATHER; DEPENDENCE; SCALES; URBAN
+AB The earth's near surface air temperature is important in a variety of applications including for quantifying global warming. We analyze 6 monthly series of atmospheric temperatures from 1880 to 2012, each produced with different methodologies. We first estimate the relative error by systematically determining how close the different series are to each other, the error at a given time scale is quantified by the root mean square fluctuations in the pairwise differences between the series as well as between the individual series and the average of all the available series. By examining the differences systematically from months to over a century, we find that the standard short range correlation assumption is untenable, that the differences in the series have long range statistical dependencies and that the error is roughly constant between 1 month and one century-over most of the scale range, varying between +/- 0.03 and +/- 0.05 K. The second part estimates the absolute measurement errors. First we make a stochastic model of both the true earth temperature and then of the measurement errors. The former involves a scaling (fractional Gaussian noise) natural variability term as well as a linear (anthropogenic) trend. The measurement error model involves three terms: a classical short range error, a term due to missing data and a scale reduction term due to insufficient space-time averaging. We find that at 1 month, the classical error is ae +/- 0.01 K, it decreases rapidly at longer times and it is dominated by the others. Up to 10-20 years, the missing data error gives the dominate contribution to the error: 15 +/- 10% of the temperature variance; at scales > 10 years, the scale reduction factor dominates, it increases the amplitude of the temperature anomalies by 11 +/- 8% (these uncertainties quantify the series to series variations). Finally, both the model itself as well as the statistical sampling and analysis techniques are verified on stochastic simulations that show that the model well reproduces the individual series fluctuation statistics as well as the series to series fluctuation statistics. The stochastic model allows us to conclude that with 90% certainty, the absolute monthly and globally averaged temperature will lie in the range -0.109 to 0.127 A degrees C of the measured temperature. Similarly, with 90% certainty, for a given series, the temperature change since 1880 is correctly estimated to within +/- 0.108 of its value.
+C1 [Lovejoy, S.] McGill Univ, Dept Phys, 3600 Univ St, Montreal, PQ H3A 2T8, Canada.
+RP Lovejoy, S (reprint author), McGill Univ, Dept Phys, 3600 Univ St, Montreal, PQ H3A 2T8, Canada.
+EM lovejoy@physics.mcgill.ca
+RI Lovejoy, Shaun/E-8019-2011
+OI Lovejoy, Shaun/0000-0002-9367-3137
+CR Bendjoudi H, 1997, CR ACAD SCI II A, V325, P323, DOI 10.1016/S1251-8050(97)81379-1
+   Biagini F, 2008, PROBAB APPL SER, P1
+   Brohan P, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006548
+   Bunde A, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.039801
+   Compo GP, 2011, Q J ROY METEOR SOC, V137, P1, DOI 10.1002/qj.776
+   Compo GP, 2013, GEOPHYS RES LETT, V40, P3170, DOI 10.1002/grl.50425
+   de Lima MIP, 2015, WATER RESOUR RES, V51, P9490, DOI 10.1002/2015WR017455
+   Diamond HJ, 2013, B AM METEOROL SOC, V94, P485, DOI 10.1175/BAMS-D-12-00170.1
+   Efstathiou MN, 2010, INT J REMOTE SENS, V31, P343, DOI 10.1080/01431160902882702
+   Franzke C, 2012, J CLIMATE, V25, P4172, DOI 10.1175/JCLI-D-11-00293.1
+   Hansen J, 2010, REV GEOPHYS, V48, DOI 10.1029/2010RG000345
+   Hausfather Z, 2017, SCI ADV, V3, DOI 10.1126/sciadv.1601207
+   Karl TR, 2015, SCIENCE, V348, P1469, DOI 10.1126/science.aaa5632
+   KENNEDY JJ, 2011, J GEOPHYS RES-ATMOS, V116, DOI DOI 10.1029/2010JD015220
+   KONDRATYEV KY, 1995, NUOVO CIMENTO C, V18, P123, DOI 10.1007/BF02512015
+   Lovejoy S, 2016, GEOPHYS RES LETT, V43, P8670, DOI 10.1002/2016GL070428
+   Lovejoy S, 2015, EARTH SYST DYNAM, V6, P637, DOI 10.5194/esd-6-637-2015
+   LOVEJOY S, 1986, NATURE, V319, P43, DOI 10.1038/319043a0
+   Lovejoy S, 2015, CHAOS, V25, DOI 10.1063/1.4927223
+   Lovejoy S, 2015, CLIM DYNAM, V44, P3187, DOI 10.1007/s00382-014-2324-0
+   Lovejoy S, 2014, CLIM DYNAM, V42, P2339, DOI 10.1007/s00382-014-2128-2
+   Lovejoy S, 2013, EARTH SYST DYNAM, V4, P439, DOI 10.5194/esd-4-439-2013
+   Lovejoy S, 2012, GEOPHYS MONOGR SER, V196, P231, DOI 10.1029/2011GM001087
+   Lovejoy S, 2010, ATMOS RES, V96, P1, DOI 10.1016/j.atmosres.2010.01.004
+   LOVEJOY S, 1986, B AM METEOROL SOC, V67, P21, DOI 10.1175/1520-0477(1986)067<0021:SISFAS>2.0.CO;2
+   Lovejoy S., 2012, NONLINEAR PROC GEOPH, V19, P1, DOI [10.5194/npg-19-1-2012, DOI 10.5194/NPG-19-1-2012]
+   Lovejoy S, 2017, NONLINEAR ADV GEOSCI
+   Lovejoy S, 2013, EATH SYST DYN DISCUS, V3, pC1
+   Lovejoy S, 2013, EOS T AM GEOPHYS UN, V94, P1, DOI DOI 10.1002/2013EO010001
+   Lovejoy S., 2015, EARTH SYST DYNAM DIS, V6, P489, DOI DOI 10.5194/ESDD-6-489-2015
+   Lovejoy S, 2013, WEATHER CLIMATE EMER
+   Mann ME, 2011, CLIMATIC CHANGE, V107, P267, DOI 10.1007/s10584-010-9998-z
+   Mazzarella A, 2000, THEOR APPL CLIMATOL, V65, P157, DOI 10.1007/s007040070040
+   Mears CA, 2011, J GEOPHYS RES-ATMOS, V116, DOI 10.1029/2010JD014954
+   NICOLIS C, 1993, J APPL METEOROL, V32, P1751, DOI 10.1175/1520-0450(1993)032<1751:OTGONA>2.0.CO;2
+   Parker DE, 2006, J CLIMATE, V19, P2882, DOI 10.1175/JCLI3730.1
+   Peterson TC, 2003, J CLIMATE, V16, P2941, DOI 10.1175/1520-0442(2003)016<2941:AOUVRI>2.0.CO;2
+   Pielke RA, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD008229
+   Pinel J, 2014, ATMOS RES, V140, P95, DOI 10.1016/j.atmosres.2013.11.022
+   Rohde R., 2013, GEOINFOR GEOSTAT OVE, V1, P1, DOI [10.4172/2327-4581.1000101, 10.4172/gigs.1000101, DOI 10.4172/2327-4581.1000101]
+   Rybski D, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2005GL025591
+   Rypdal K, 2013, J GEOPHYS RES-ATMOS, V118, P7046, DOI 10.1002/jgrd.50399
+   Smith TM, 2008, J CLIMATE, V21, P2283, DOI 10.1175/2007JCLI2100.1
+   Veneziano D, 2005, WATER RESOUR RES, V41, DOI 10.1029/2004WR003765
+   Williams CN, 2012, GHCNM1202 NCDC NOAA
+NR 45
+TC 1
+Z9 1
+U1 0
+U2 11
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0930-7575
+EI 1432-0894
+J9 CLIM DYNAM
+JI Clim. Dyn.
+PD DEC
+PY 2017
+VL 49
+IS 11-12
+BP 4089
+EP 4106
+DI 10.1007/s00382-017-3561-9
+PG 18
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA FM9IA
+UT WOS:000415579000027
+DA 2019-03-26
+ER
+
+PT J
+AU Ho, YK
+   Liu, CH
+AF Ho, Yat-Kiu
+   Liu, Chun-Ho
+TI Street-Level Ventilation in Hypothetical Urban Areas
+SO ATMOSPHERE
+LA English
+DT Article
+DE air change rate (ACH); flow and turbulence profiles; hypothetical urban
+   areas; street-level ventilation; ventilation assessment; wind-tunnel
+   dataset
+ID TURBULENT-BOUNDARY-LAYERS; WIND-TUNNEL MEASUREMENTS; ROUGH-WALL;
+   SURFACE-ROUGHNESS; 3-DIMENSIONAL ROUGHNESS; CITY BREATHABILITY; BUILT
+   ENVIRONMENT; REYNOLDS-NUMBER; SCALAR TRANSFER; CHANNEL FLOW
+AB Street-level ventilation is often weakened by the surrounding high-rise buildings. A thorough understanding of the flows and turbulence over urban areas assists in improving urban air quality as well as effectuating environmental management. In this paper, reduced-scale physical modeling in a wind tunnel is employed to examine the dynamics in hypothetical urban areas in the form of identical surface-mounted ribs in crossflows (two-dimensional scenarios) to enrich our fundamental understanding of the street-level ventilation mechanism. We critically compare the flow behaviors over rough surfaces with different aerodynamic resistance. It is found that the friction velocity u(tau) is appropriate for scaling the dynamics in the near-wall region but not the outer layer. The different freestream wind speeds (U-infinity) over rough surfaces suggest that the drag coefficient C-d (= 2u(tau)(2)/U-infinity(2)) is able to characterize the turbulent transport processes over hypothetical urban areas. Linear regression shows that street-level ventilation, which is dominated by the turbulent component of the air change rate (ACH), is proportional to the square root of drag coefficient ACH '' proportional to C-d(1/2). This conceptual framework is then extended to formulate a new indicator, the vertical fluctuating velocity scale in the roughness sublayer (RSL) (w) over cap ''(RSL), for breathability assessment over urban areas with diversified building height. Quadrant analyses and frequency spectra demonstrate that the turbulence is more inhomogeneous and the scales of vertical turbulence intensity (w '' w '') over bar (1/2) are larger over rougher surfaces, resulting in more efficient street-level ventilation.
+C1 [Ho, Yat-Kiu; Liu, Chun-Ho] Univ Hong Kong, Dept Mech Engn, Hong Kong, Hong Kong, Peoples R China.
+RP Liu, CH (reprint author), Univ Hong Kong, Dept Mech Engn, Hong Kong, Hong Kong, Peoples R China.
+EM mea09ykh@connect.hku.hk; liuchunho@graduate.hku.hk
+OI Liu, Chun-Ho/0000-0001-9980-0400
+FU Hong Kong Research Grants Council (RGC) through Hong Kong PhD Fellowship
+   (HKPF); General Research Fund (GRF) of RGC HKU [17210115]
+FX The first author wishes to thank the Hong Kong Research Grants Council
+   (RGC) for financially supporting his study through the Hong Kong PhD
+   Fellowship (HKPF) scheme. This project is partly supported by the
+   General Research Fund (GRF) of RGC HKU 17210115.
+CR Aly AM, 2014, BUILD ENVIRON, V75, P206, DOI 10.1016/j.buildenv.2014.02.004
+   Antonia R, 2001, FLUID DYN RES, V28, P139, DOI 10.1016/S0169-5983(00)00025-3
+   AYDIN EM, 1991, EXP FLUIDS, V11, P302
+   BAETKE F, 1990, J WIND ENG IND AEROD, V35, P129, DOI 10.1016/0167-6105(90)90193-G
+   Barlow JF, 2004, BOUND-LAY METEOROL, V113, P369
+   Blocken B, 2016, BUILD ENVIRON, V100, P50, DOI 10.1016/j.buildenv.2016.02.004
+   Britter RE, 2003, ANNU REV FLUID MECH, V35, P469, DOI 10.1146/annurev.fluid.35.101101.161147
+   BRUUN HH, 1971, J PHYS E SCI INSTRUM, V4, P225, DOI 10.1088/0022-3735/4/3/016
+   Burattini P, 2008, J FLUID MECH, V600, P403, DOI 10.1017/S0022112008000657
+   Carpentieri M, 2012, ATMOS ENVIRON, V46, P669, DOI 10.1016/j.atmosenv.2011.09.083
+   Castro IP, 2006, BOUND-LAY METEOROL, V118, P109, DOI 10.1007/s10546-005-5747-7
+   Cheng H, 2002, BOUND-LAY METEOROL, V104, P229, DOI 10.1023/A:1016060103448
+   Chung J, 2015, BOUND-LAY METEOROL, V157, P219, DOI 10.1007/s10546-015-0063-3
+   Claus J, 2012, BOUND-LAY METEOROL, V145, P407, DOI 10.1007/s10546-012-9736-3
+   De Ridder K, 2010, BOUND-LAY METEOROL, V134, P257, DOI 10.1007/s10546-009-9450-y
+   DeWeerdt S, 2016, NATURE, V531, pS52, DOI 10.1038/531S52a
+   DJENIDI L, 1994, EXP FLUIDS, V16, P323, DOI 10.1007/BF00195431
+   Fernando HJS, 2010, ANNU REV FLUID MECH, V42, P365, DOI 10.1146/annurev-fluid-121108-145459
+   Flack KA, 2014, PHYS FLUIDS, V26, DOI 10.1063/1.4896280
+   Garratt J. R., 1994, ATMOSPHERIC BOUNDARY, P316
+   Hagishima A, 2009, BOUND-LAY METEOROL, V132, P315, DOI 10.1007/s10546-009-9403-5
+   Hang J, 2015, BUILD ENVIRON, V94, P166, DOI 10.1016/j.buildenv.2015.08.002
+   Ho Y.-K, 2017, THESIS
+   Ho YK, 2017, THEOR APPL CLIMATOL, V130, P305, DOI 10.1007/s00704-016-1877-8
+   Ho YK, 2015, BUILD ENVIRON, V89, P345, DOI 10.1016/j.buildenv.2015.02.042
+   Hong JR, 2011, J FLUID MECH, V667, P1, DOI 10.1017/S0022112010003988
+   Ikegaya N, 2012, BOUND-LAY METEOROL, V143, P357, DOI 10.1007/s10546-012-9698-5
+   Immer M, 2016, EXP FLUIDS, V57, DOI 10.1007/s00348-016-2186-9
+   Jimenez J, 2004, ANNU REV FLUID MECH, V36, P173, DOI 10.1146/annurev.fluid.36.050802.122103
+   Kamruzzaman M, 2015, EXP FLUIDS, V56, DOI 10.1007/s00348-015-1995-6
+   Kanda I, 2011, BOUND-LAY METEOROL, V141, P415, DOI 10.1007/s10546-011-9646-9
+   Karimpour A, 2012, BUILD ENVIRON, V49, P203, DOI 10.1016/j.buildenv.2011.09.026
+   Kastner-Klein P, 2004, BOUND-LAY METEOROL, V111, P55, DOI 10.1023/B:BOUN.0000010994.32240.b1
+   Keirsbulck L, 2002, EXP FLUIDS, V33, P497, DOI [10.1007/S00348-002-0424-9, 10.1007/s00348-002-0424-9]
+   Krogstad PA, 1999, EXP FLUIDS, V27, P450, DOI 10.1007/s003480050370
+   Kubota T, 2008, BUILD ENVIRON, V43, P1699, DOI 10.1016/j.buildenv.2007.10.015
+   Liu CH, 2005, ATMOS ENVIRON, V39, P1567, DOI 10.1016/j.atmosenv.2004.08.036
+   Liu CH, 2015, J HAZARD MATER, V296, P9, DOI 10.1016/j.jhazmat.2015.04.018
+   Mihailovic DT, 2002, ENVIRON FLUID MECH, V2, P315, DOI 10.1023/A:1020487528913
+   Mirzaei PA, 2012, BUILD ENVIRON, V47, P410, DOI 10.1016/j.buildenv.2011.06.007
+   Mirzaei PA, 2011, J WIND ENG IND AEROD, V99, P46, DOI 10.1016/j.jweia.2010.10.007
+   NOURMOHAMMADI K, 1985, J FLUID ENG-T ASME, V107, P55, DOI 10.1115/1.3242440
+   OKE TR, 1988, ENERG BUILDINGS, V11, P103, DOI 10.1016/0378-7788(88)90026-6
+   Panagiotou I, 2013, SCI TOTAL ENVIRON, V442, P466, DOI 10.1016/j.scitotenv.2012.09.001
+   PANOFSKY HA, 1974, ANNU REV FLUID MECH, V6, P147, DOI 10.1146/annurev.fl.06.010174.001051
+   Parrish DD, 2009, SCIENCE, V326, P674, DOI 10.1126/science.1176064
+   Pascheke F, 2008, BOUND-LAY METEOROL, V126, P103, DOI 10.1007/s10546-007-9222-5
+   Perret L, 2013, BOUND-LAY METEOROL, V148, P111, DOI 10.1007/s10546-013-9808-z
+   PERRY AE, 1969, J FLUID MECH, V37, P383, DOI 10.1017/S0022112069000619
+   Rafailidis S, 1997, BOUND-LAY METEOROL, V85, P255, DOI 10.1023/A:1000426316328
+   Raupach MR, 2006, BOUND-LAY METEOROL, V120, P201, DOI 10.1007/s10546-006-9058-4
+   Reynolds RT, 2008, EXP FLUIDS, V45, P141, DOI 10.1007/s00348-008-0470-z
+   Ricci A, 2017, BUILD ENVIRON, V111, P192, DOI 10.1016/j.buildenv.2016.10.016
+   Salizzoni P, 2009, ATMOS ENVIRON, V43, P5056, DOI 10.1016/j.atmosenv.2009.06.045
+   Schultz MP, 2005, EXP FLUIDS, V38, P328, DOI 10.1007/s00348-004-0903-2
+   Smalley RJ, 2002, EXP FLUIDS, V33, P31, DOI [10.1007/soo348-002-0466-z, 10.1007/s00348-002-0466-Z]
+   Smeets CJPP, 2008, BOUND-LAY METEOROL, V128, P339, DOI 10.1007/s10546-008-9292-z
+   Smits AJ, 2011, ANNU REV FLUID MECH, V43, P353, DOI 10.1146/annurev-fluid-122109-160753
+   Snyder WH, 2002, J WIND ENG IND AEROD, V90, P41, DOI 10.1016/S0167-6105(01)00114-3
+   Squire DT, 2016, J FLUID MECH, V795, P210, DOI 10.1017/jfm.2016.196
+   Stabile L, 2015, BUILD ENVIRON, V93, P186, DOI 10.1016/j.buildenv.2015.05.045
+   Tachie MF, 2003, EXP FLUIDS, V35, P338, DOI [10.1007/s00348-003-0654-5, 10.1007/S00348-003-0654-5]
+   Takimoto H, 2013, BOUND-LAY METEOROL, V147, P217, DOI 10.1007/s10546-012-9790-x
+   Takimoto H, 2011, BOUND-LAY METEOROL, V140, P295, DOI 10.1007/s10546-011-9612-6
+   Tse KT, 2009, J WIND ENG IND AEROD, V97, P455, DOI 10.1016/j.jweia.2009.07.005
+   Volino RJ, 2007, J FLUID MECH, V592, P263, DOI 10.1017/S0022112007008518
+   Volino RJ, 2009, J FLUID MECH, V635, P75, DOI 10.1017/S0022112009007617
+   Volino RJ, 2011, J FLUID MECH, V676, P172, DOI 10.1017/S0022112011000383
+   Wallace JM, 2016, ANNU REV FLUID MECH, V48, P131, DOI 10.1146/annurev-fluid-122414-034550
+   Wigginton NS, 2016, SCIENCE, V352, P904, DOI 10.1126/science.352.6288.904
+   Wu Z., 2017, INT J ENV P IN PRESS
+NR 71
+TC 2
+Z9 2
+U1 0
+U2 6
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2073-4433
+J9 ATMOSPHERE-BASEL
+JI Atmosphere
+PD JUL
+PY 2017
+VL 8
+IS 7
+AR 124
+DI 10.3390/atmos8070124
+PG 17
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA FB9KG
+UT WOS:000406457400013
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Ali, H
+   Mishra, V
+AF Ali, Haider
+   Mishra, Vimal
+TI Contrasting response of rainfall extremes to increase in surface air and
+   dewpoint temperatures at urban locations in India
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SUMMER MONSOON RAINFALL; HOURLY PRECIPITATION EXTREMES; QUANTILE
+   REGRESSION; INTENSE PRECIPITATION; DRY SPELLS; DURATION; TRMM;
+   FREQUENCY; CLIMATE; STATIONARITY
+AB Rainfall extremes are projected to increase under the warming climate. The Clausius-Clapeyron (C-C) relationship provides a physical basis to understand the sensitivity of rainfall extremes in response to warming, however, relationships between rainfall extremes and air temperature over tropical regions remain uncertain. Here, using station based observations and remotely sensed rainfall, we show that at a majority of urban locations, rainfall extremes show a negative scaling relationship against surface air temperature (SAT) in India. The negative relationship between rainfall extremes and SAT in India can be attributed to cooling (SAT) due to the monsoon season rain events in India, suggesting that SAT alone is not a good predictor of rainfall extremes in India. In contrast, a strong (higher than C-C rate) positive relationship between rainfall extremes and dew point (DPT) and tropospheric temperature (T850) is shown for most of the stations, which was previously unexplored. Subsequently, DPT and T850 were used as covariates for non-stationary daily design storms. Higher magnitude design storms were obtained under the assumption of a non-stationary climate. The contrasting relationship between rainfall extremes with SAT and DPT has implications for understanding the changes in rainfall extremes in India under the projected climate.
+C1 [Ali, Haider; Mishra, Vimal] Indian Inst Technol IIT Gandhinagar, Civil Engn, Ahmadabad, Gujarat, India.
+RP Mishra, V (reprint author), Indian Inst Technol IIT Gandhinagar, Civil Engn, Ahmadabad, Gujarat, India.
+EM vmishra@iitgn.ac.in
+FU MHRD fellowship; Ministry of Earth Sciences (BELMONT FOURAM)
+FX Authors acknowledge data availability from GSOD, ERA-Interim, MERRA,
+   CFSR, TRMM, and CHIRPS. The work was partially funded by the MHRD
+   fellowship to the first author and Ministry of Earth Sciences (BELMONT
+   FOURAM) grant to the second author. Authors thank Dr. Umamahesh (NIT
+   Warangal) and Dr. Sivananda Pai (IMD) for providing rainfall data.
+CR AghaKouchak A, 2011, J GEOPHYS RES-ATMOS, V116, DOI 10.1029/2010JD014741
+   Ali H, 2014, J GEOPHYS RES-ATMOS, V119, P12621, DOI 10.1002/2014JD022264
+   Asquith W. H., 1999, WATERRESOURCES INVES
+   Bengtsson L., 2010, ENVIRON RES LETT, V5, DOI [10.1088/1748-9326/5/2/025202, DOI 10.1088/1748-9326/5/2/025202]
+   Berg P., 2009, JOURNAL OF GEOPHYSIC, V114
+   Berg P, 2013, NAT GEOSCI, V6, P181, DOI 10.1038/ngeo1731
+   Bosilovich MG, 2011, J CLIMATE, V24, P5721, DOI 10.1175/2011JCLI4175.1
+   Burges SJ, 2011, WATER RESOUR RES, V47, DOI 10.1029/2010WR009984
+   Center E. M., 2010, NCEP CLIMATE FORECAS
+   Cheng LY, 2014, SCI REP-UK, V4, DOI 10.1038/srep07093
+   Craig RK, 2010, HARVARD ENVIRON LAW, V34, P9
+   Dash SK, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD010572
+   Dee DP, 2011, Q J ROY METEOR SOC, V137, P553, DOI 10.1002/qj.828
+   Dembele M, 2016, INT J REMOTE SENS, V37, P3995, DOI 10.1080/01431161.2016.1207258
+   Dhanya CT, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD010485
+   Fujibe F, 2005, SOLA, V1, P41, DOI 10.2151/sola.2005.012
+   Funk C, 2015, SCI DATA, V2, DOI 10.1038/sdata.2015.66
+   Ghosh S, 2009, ATMOS SCI LETT, V10, P285, DOI 10.1002/asl.235
+   Haerter JO, 2010, J GEOPHYS RES-ATMOS, V115, DOI 10.1029/2009JD013384
+   Haerter JO, 2009, NAT GEOSCI, V2, P372, DOI 10.1038/ngeo523
+   Hamidi A, 2017, J HYDROMETEOROL, V18, P611, DOI [10.1175/JHM-D-16-0193.1, 10.1175/jhm-d-16-0193.1]
+   HOSKING JRM, 1987, TECHNOMETRICS, V29, P339, DOI 10.2307/1269343
+   Huang Y, 2014, WATER-SUI, V6, P32, DOI 10.3390/w6010032
+   Huffman G. J., 2003, 12TH CONF ON SATELLI
+   Huffman GJ, 2007, J HYDROMETEOROL, V8, P38, DOI 10.1175/JHM560.1
+   Jones RH, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL045081
+   Kao SC, 2011, J GEOPHYS RES-ATMOS, V116, DOI 10.1029/2010JD015529
+   Katsanos D, 2016, ATMOS RES, V169, P459, DOI 10.1016/j.atmosres.2015.05.015
+   Katz RW, 2002, ADV WATER RESOUR, V25, P1287, DOI 10.1016/S0309-1708(02)00056-8
+   Kharin VV, 2007, J CLIMATE, V20, P1419, DOI 10.1175/JCLI4066.1
+   Kimani M., 2016, UNCERTAINTY ASSESSME
+   Kishtawal CM, 2010, INT J CLIMATOL, V30, P1908, DOI 10.1002/joc.2044
+   KOENKER R, 1978, ECONOMETRICA, V46, P33, DOI 10.2307/1913643
+   Koenker R, 1999, J AM STAT ASSOC, V94, P1296, DOI 10.2307/2669943
+   Koenker R., 2005, QUANTILE REGRESSION
+   Koenker R., 2013, QUANTREG QUANTILE RE
+   Krishnamurti TN, 2001, MON WEATHER REV, V129, P2861, DOI 10.1175/1520-0493(2001)129<2861:RTMMSF>2.0.CO;2
+   Lenderink G, 2011, HYDROL EARTH SYST SC, V15, P3033, DOI 10.5194/hess-15-3033-2011
+   Lenderink G, 2008, NAT GEOSCI, V1, P511, DOI 10.1038/ngeo262
+   Lenderink G, 2010, ENVIRON RES LETT, V5, DOI 10.1088/1748-9326/5/2/025208
+   Lins HF, 2011, J AM WATER RESOUR AS, V47, P475, DOI 10.1111/j.1752-1688.2011.00542.x
+   Liu SC, 2009, GEOPHYS RES LETT, V36, DOI 10.1029/2009GL040218
+   Loriaux JM, 2013, J ATMOS SCI, V70, P3641, DOI 10.1175/JAS-D-12-0317.1
+   Maeda EE, 2012, NAT HAZARDS, V64, P935, DOI 10.1007/s11069-012-0222-5
+   Meredith EP, 2015, NAT GEOSCI, V8, P615, DOI [10.1038/NGEO2483, 10.1038/ngeo2483]
+   Miao CY, 2016, SCI REP-UK, V6, DOI 10.1038/srep22543
+   Milly P, 2007, GROUNDWATER NEWS VIE, V4, P6
+   Min SK, 2011, NATURE, V470, P378, DOI 10.1038/nature09763
+   Mishra V., 2012, GEOPHYS RES LETT, V39
+   Molnar P, 2015, HYDROL EARTH SYST SC, V19, P1753, DOI 10.5194/hess-19-1753-2015
+   Mondal A., 2016, J HYDROL ENG
+   Mondal A, 2015, J HYDROL, V521, P217, DOI 10.1016/j.jhydrol.2014.11.071
+   Moseley C, 2016, NAT GEOSCI, V9, P748, DOI [10.1038/ngeo2789, 10.1038/NGEO2789]
+   Nair S, 2009, J METEOROL SOC JPN, V87, P927, DOI 10.2151/jmsj.87.927
+   Pall P, 2007, CLIM DYNAM, V28, P351, DOI 10.1007/S00382-006-0180-2
+   Panthou G, 2014, J HYDROMETEOROL, V15, P1999, DOI 10.1175/JHM-D-14-0020.1
+   Prakash S, 2016, INT J CLIMATOL, V36, P1614, DOI 10.1002/joc.4446
+   Prakash S, 2016, ADV WATER RESOUR, V88, P1, DOI 10.1016/j.advwatres.2015.11.008
+   PRIESTLE.MB, 1969, J ROY STAT SOC B, V31, P140
+   R Core Team, 2015, R A LANGUAGE AND ENV
+   Rajeevan M, 1998, METEOROL ATMOS PHYS, V66, P157, DOI 10.1007/BF01026631
+   Salas J. D., 2013, J HYDROL ENG, V19, P554, DOI DOI 10.1061/(ASCE)HE.1943-5584.0000820
+   Schneider A, 2003, PHOTOGRAMM ENG REM S, V69, P1377, DOI 10.14358/PERS.69.12.1377
+   Semenov VA, 2002, CLIM DYNAM, V19, P123, DOI 10.1007/s00382-001-0218-4
+   Shah RD, 2015, J HYDROMETEOROL, V16, P327, DOI 10.1175/JHM-D-14-0041.1
+   Shepherd JM, 2003, EARTH INTERACT, V7
+   Shepherd JM, 2002, J APPL METEOROL, V41, P689, DOI 10.1175/1520-0450(2002)041<0689:RMBMUA>2.0.CO;2
+   Singh D, 2014, NAT CLIM CHANGE, V4, P456, DOI [10.1038/nclimate2208, 10.1038/NCLIMATE2208]
+   Singh P, 2013, STOCH ENV RES RISK A, V27, P1585, DOI 10.1007/s00477-013-0695-0
+   Solomon S, 2007, CLIMATE CHANGE 2007: THE PHYSICAL SCIENCE BASIS, P19
+   Tan MHY, 2016, TECHNOMETRICS, V58, P180, DOI 10.1080/00401706.2015.1027066
+   Towler E, 2010, WATER RESOUR RES, V46, DOI 10.1029/2009WR007834
+   Trenberth KE, 2003, B AM METEOROL SOC, V84, P1205, DOI 10.1175/BAMS-84-9-1205
+   Tripathi OP, 2013, J GEOPHYS RES-ATMOS, V118, P7591, DOI 10.1002/jgrd.50590
+   Utsumi N, 2011, GEOPHYS RES LETT, V38, DOI 10.1029/2011GL048426
+   Verdon-Kidd D.C., 2015, HYDROL EARTH SYST SC, V12, P3449, DOI DOI 10.5194/HESSD-12-3449-2015
+   Villarini G, 2007, GEOPHYS RES LETT, V34, DOI 10.1029/2006GL029147
+   Vinnarasi R, 2016, J GEOPHYS RES-ATMOS, V121, P2146, DOI 10.1002/2015JD024310
+   Vittal H, 2016, SCI REP-UK, V6, DOI 10.1038/srep31039
+   Vittal H, 2013, GEOPHYS RES LETT, V40, P3253, DOI 10.1002/grl.50631
+   Wang B, 1999, B AM METEOROL SOC, V80, P629, DOI 10.1175/1520-0477(1999)080<0629:COSASM>2.0.CO;2
+   Wang DG, 2015, ATMOS SCI LETT, V16, P310, DOI 10.1002/asl2.559
+   Wasko C, 2016, GEOPHYS RES LETT, V43, P12659, DOI 10.1002/2016GL071354
+   Wasko C, 2017, J HYDROL, V544, P575, DOI 10.1016/j.jhydrol.2016.12.002
+   Wasko C, 2016, GEOPHYS RES LETT, V43, P4026, DOI 10.1002/2016GL068509
+   Wasko C, 2015, GEOPHYS RES LETT, V42, P8783, DOI 10.1002/2015GL066274
+   Wasko C, 2015, NAT GEOSCI, V8, P527, DOI [10.1038/ngeo2456, 10.1038/NGEO2456]
+   Wasko C, 2014, WATER RESOUR RES, V50, P3608, DOI 10.1002/2013WR015194
+   Webster PJ, 1998, J GEOPHYS RES-OCEANS, V103, P14451, DOI 10.1029/97JC02719
+   Wentz FJ, 2007, SCIENCE, V317, P233, DOI 10.1126/science.1140746
+   Westra S, 2014, REV GEOPHYS, V52, P522, DOI 10.1002/2014RG000464
+   Yilmaz AG, 2014, J HYDROL ENG, V19, P1160, DOI 10.1061/(ASCE)HE.1943-5584.0000878
+   Yu RC, 2012, J CLIMATE, V25, P6851, DOI 10.1175/JCLI-D-11-00656.1
+   Yue S, 2002, INT J CLIMATOL, V22, P933, DOI 10.1002/joc.781
+NR 94
+TC 9
+Z9 9
+U1 4
+U2 13
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 27
+PY 2017
+VL 7
+AR 1228
+DI 10.1038/s41598-017-01306-1
+PG 15
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA ET3OS
+UT WOS:000400189700005
+PM 28450745
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Zeng, F
+   Li, X
+   Li, K
+AF Zeng, Fang
+   Li, Xiang
+   Li, Ke
+TI Modeling complexity in engineered infrastructure system: Water
+   distribution network as an example
+SO CHAOS
+LA English
+DT Article
+ID GROWTH; POPULATION; CITIES; AREAS
+AB The complex topology and adaptive behavior of infrastructure systems are driven by both self-organization of the demand and rigid engineering solutions. Therefore, engineering complex systems requires a method balancing holism and reductionism. To model the growth of water distribution networks, a complex network model was developed following the combination of local optimization rules and engineering considerations. The demand node generation is dynamic and follows the scaling law of urban growth. The proposed model can generate a water distribution network (WDN) similar to reported real-world WDNs on some structural properties. Comparison with different modeling approaches indicates that a realistic demand node distribution and co-evolvement of demand node and network are important for the simulation of real complex networks. The simulation results indicate that the efficiency of water distribution networks is exponentially affected by the urban growth pattern. On the contrary, the improvement of efficiency by engineering optimization is limited and relatively insignificant. The redundancy and robustness, on another aspect, can be significantly improved through engineering methods. Published by AIP Publishing.
+C1 [Zeng, Fang; Li, Ke] Univ Georgia, Fac Engn, Athens, GA 30605 USA.
+   [Li, Xiang] Univ Georgia, Dept Comp Sci, Athens, GA 30605 USA.
+RP Li, K (reprint author), Univ Georgia, Fac Engn, Athens, GA 30605 USA.
+EM keli@engr.uga.edu
+OI Li, Xiang/0000-0002-9851-6376
+FU National Science Foundation [0836046]
+FX This work was supported by the National Science Foundation Award No.
+   0836046. The opinions expressed in this paper are solely those of the
+   authors, and do not necessarily reflect the views of the funding agency.
+CR Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bhave P. R., 2006, ANAL WATER DISTRIBUT, P8
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   CRAIG J, 1978, URBAN STUD, V15, P101, DOI 10.1080/713702295
+   Csanyi G, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.016122
+   De Corte A, 2014, WATER RESOUR MANAG, V28, P333, DOI 10.1007/s11269-013-0485-y
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290, DOI DOI 10.1234/12345678
+   FABRIKANT A, 2002, P 29 INT C AUT LANG, P110
+   Falconer K, 2004, FRACTAL GEOMETRY MAT
+   Frank James E., 1989, COSTS ALTERNATIVE DE
+   Frankhauser P., 2004, REPORT COST ACTION 1, V2, P79
+   Gastner MT, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/01/P01015
+   GRAHAM RL, 1985, ANN HIST COMPUT, V7, P43
+   Mair M., 2012, Proceedings of the World Environmental and Water Resources Congress 2012: Crossing Boundaries, P3147, DOI 10.1061/9780784412312.315
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Marshall JD, 2007, URBAN STUD, V44, P1889, DOI 10.1080/00420980701471943
+   Masucci AP, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.012805
+   Nelson A. C, 2004, NEW METROPOLIS OPPOR
+   Ottino JM, 2004, NATURE, V427, P399, DOI 10.1038/427399a
+   Pumain D., 2004, 0402002 SANT FE I, P26
+   Ravasz E, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.026112
+   Rouse WB, 2007, SYST ENG, V10, P260, DOI 10.1002/sys.20076
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Silva E. A., 2002, Computers, Environment and Urban Systems, V26, P525, DOI 10.1016/S0198-9715(01)00014-X
+   Waddell P, 2002, J AM PLANN ASSOC, V68, P297, DOI 10.1080/01944360208976274
+   Walski T. M., 2013, WORLD ENV WAT RES C
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Yazdani A, 2012, J WATER RES PL-ASCE, V138, P153, DOI 10.1061/(ASCE)WR.1943-5452.0000159
+   Yazdani A, 2011, CHAOS, V21, DOI 10.1063/1.3540339
+   Yook SH, 2002, P NATL ACAD SCI USA, V99, P13382, DOI 10.1073/pnas.172501399
+NR 35
+TC 1
+Z9 1
+U1 2
+U2 8
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 1054-1500
+EI 1089-7682
+J9 CHAOS
+JI Chaos
+PD FEB
+PY 2017
+VL 27
+IS 2
+AR 023105
+DI 10.1063/1.4975762
+PG 9
+WC Mathematics, Applied; Physics, Mathematical
+SC Mathematics; Physics
+GA EM1DP
+UT WOS:000395058600006
+PM 28249393
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Mirzabeygi, M
+   Yousefi, N
+   Abbasnia, A
+   Youzi, H
+   Alikhani, M
+   Mahvi, AH
+AF Mirzabeygi, Majid
+   Yousefi, Nader
+   Abbasnia, Abbas
+   Youzi, Hadi
+   Alikhani, Mahdi
+   Mahvi, Amir Hossein
+TI Evaluation of groundwater quality and assessment of scaling potential
+   and corrosiveness of water supply networks, Iran
+SO JOURNAL OF WATER SUPPLY RESEARCH AND TECHNOLOGY-AQUA
+LA English
+DT Article
+DE corrosion and scaling; groundwater quality; Khorasan-e-Razavi; stability
+   indices; water supply network
+ID DISTRIBUTION-SYSTEM; DRINKING-WATER; CORROSION; ADSORPTION; PROVINCE;
+   REMOVAL; PATTERN
+AB The aim of this study was to determine the corrosion and scaling potential of water supply sources in a province in eastern Iran. In this cross-sectional study, 879 samples were taken to evaluate the water quality characteristics during 12 months (2013-2014). Five indices, Langelier, Ryznar, Puckorius, Larson-Skold, and Aggressiveness, were programmed in Microsoft Excel. The results illustrated that the values of the Langelier saturation index, Ryznar stability index, Puckorius scaling index, Larson ratio, and Aggressiveness index were 0.33 (+/- 0.17), 7.36 (+/- 0.37), 7.4 (+/- 0.6), 2.1 (+/- 1.4), and 12.03 (+/- 0.18), respectively. According to the Ryznar index (RSI), the index for the water resources of Torbat city was 6.99 and RSI for the central part of Gonabad was 6.4 (consolidation grade). The average pH in the studied water wells was 8.03. The amounts of turbidity, calcium, magnesium, nitrate, and fluoride in the study areas have favorable and acceptable conditions. However, the values of sulfate, total dissolved solids, and chloride in a few cities were higher than the standards. Comparison of five stability indices demonstrated that water in some parts of the study area is corrosive. Based on the results, selecting the best method to prevent the corrosion process is required.
+C1 [Mirzabeygi, Majid; Yousefi, Nader; Abbasnia, Abbas; Youzi, Hadi; Mahvi, Amir Hossein] Univ Tehran Med Sci, Sch Publ Hlth, Dept Environm Hlth Engn, Tehran, Iran.
+   [Mirzabeygi, Majid] Univ Tehran Med Sci, Students Sci Res Ctr, Tehran, Iran.
+   [Alikhani, Mahdi] Shahid Sadoughi Univ Med Sci, Sch Publ Hlth, Yazd, Iran.
+   [Mahvi, Amir Hossein] Univ Tehran Med Sci, Inst Environm Res, Ctr Solid Waste Res, Tehran, Iran.
+   [Mahvi, Amir Hossein] Univ Tehran Med Sci, Inst Environm Res IER, Ctr Water Qual Res CWQR, Tehran, Iran.
+RP Mahvi, AH (reprint author), Univ Tehran Med Sci, Sch Publ Hlth, Dept Environm Hlth Engn, Tehran, Iran.
+EM ahmahvi@yahoo.com
+FU NIMAD by Ministry of Health, Iran [943616]
+FX The author would like to acknowledge the financial grant supported on
+   this research as NIMAD grant with official code number 943616 supported
+   by the Ministry of Health, Iran. In addition, we would like to thank the
+   Water and Wastewater Company of Khorasan-e-Razavi province for providing
+   information on the drinking water quality in rural areas.
+CR Al-Rawaifeh AE, 2007, DESALINATION, V206, P322, DOI 10.1016/j.desal.2006.01.039
+   AmericanWater Works Association, 1995, J AM WATER WORKS ASS, V87, P1
+   Aslam MS, 2016, J WATER SUPPLY RES T, V65, P407, DOI 10.2166/aqua.2016.088
+   Bazrafshan E, 2012, FRESEN ENVIRON BULL, V21, P364
+   Colin M, 2008, SR ENG CONSULT MAT T, V7, P1
+   Davil M. F., 2009, WORLD APPL SCI J, V7, P11
+   Edmunds WM, 2015, ENVIRON SCI-PROC IMP, V17, P1032, DOI [10.1039/C4EM00673A, 10.1039/c4em00673a]
+   Gharibi H, 2012, J ENVIRON MANAGE, V112, P87, DOI 10.1016/j.jenvman.2012.07.007
+   Hayes CR, 2016, J WATER SUPPLY RES T, V65, P373, DOI 10.2166/aqua.2016.117
+   Khorsandi H, 2016, DESALIN WATER TREAT, V57, P10585, DOI 10.1080/19443994.2015.1042058
+   Langelier W. F, 1936, J AM WATER WORKS ASS, V28, P1500
+   Larson T., 1958, CORROSION, P43, DOI DOI 10.5006/0010-9312-14.6.43
+   LONG MJ, 1994, J INST WATER ENV MAN, V8, P538
+   MAHVI AH, 2008, EUR J SCI RES, V23, P197
+   Maleki A, 2011, ASIAN J CHEM, V23, P1373
+   Mirzabeygi M, 2016, DESALIN WATER TREAT, V57, P25918, DOI 10.1080/19443994.2016.1162206
+   Nouri J, 2008, ENVIRON GEOL, V55, P1337, DOI 10.1007/s00254-007-1081-3
+   Nouri J, 2006, FLUORIDE, V39, P321
+   Rice E., 2012, STANDARD METHODS EXA
+   Ryznar J. W., 1944, J AM WATER WORKS ASS, V36, P472
+   Shirmardi M, 2012, E-J CHEM, V9, P2371, DOI 10.1155/2012/541909
+   Smith SE, 1999, J CHART INST WATER E, V13, P7
+   Sorlini S, 2016, J WATER SUPPLY RES T, V65, P597, DOI 10.2166/aqua.2016.003
+   Sun HF, 2014, ENVIRON SCI-PROC IMP, V16, P576, DOI 10.1039/c3em00544e
+   Swan R, 2016, J WATER SUPPLY RES T, V65, P515, DOI 10.2166/aqua.2016.005
+   Taghipour H, 2012, HEALTH PROMOT PERSPE, V2, P103, DOI 10.5681/hpp.2012.013
+   Wang J., 2015, J ENVIRON SCI, V39, P13
+   WHO, 2004, GUID DRINK WAT QUAL
+NR 28
+TC 1
+Z9 1
+U1 2
+U2 12
+PU IWA PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 0003-7214
+EI 1365-2087
+J9 J WATER SUPPLY RES T
+JI J. Water Supply Res Technol.-Aqua
+PD SEP
+PY 2017
+VL 66
+IS 6
+BP 416
+EP 425
+DI 10.2166/aqua.2017.128
+PG 10
+WC Engineering, Civil; Water Resources
+SC Engineering; Water Resources
+GA FF3JX
+UT WOS:000408792400006
+DA 2019-03-26
+ER

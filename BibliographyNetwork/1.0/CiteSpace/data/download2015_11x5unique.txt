@@ -1,0 +1,353 @@
+
+PT J
+AU Brummitt, CD
+   Chatterjee, S
+   Dey, PS
+   Sivakoff, D
+AF Brummitt, Charles D.
+   Chatterjee, Shirshendu
+   Dey, Partha S.
+   Sivakoff, David
+TI JIGSAW PERCOLATION: WHAT SOCIAL NETWORKS CAN COLLABORATIVELY SOLVE A
+   PUZZLE?
+SO ANNALS OF APPLIED PROBABILITY
+DE Percolation; social networks; random graph; phase transition
+ID LONG-RANGE PERCOLATION; BOOTSTRAP PERCOLATION; RANDOM GRAPHS
+AB We introduce a new kind of percolation on finite graphs called jigsaw percolation. This model attempts to capture networks of people who innovate by merging ideas and who solve problems by piecing together solutions. Each person in a social network has a unique piece of a jigsaw puzzle. Acquainted people with compatible puzzle pieces merge their puzzle pieces. More generally, groups of people with merged puzzle pieces merge if the groups know one another and have a pair of compatible puzzle pieces. The social network solves the puzzle if it eventually merges all the puzzle pieces. For an Erdos Renyi social network with n vertices and edge probability p(n), we define the critical value Pc (n) for a connected puzzle graph to be the Pit for which the chance of solving the puzzle equals 1/2. We prove that for the n-cycle (ring) puzzle, p(c)(n) = Theta(1/log n), and for an arbitrary connected puzzle graph with bounded maximum degree, Pc (n) = Theta (1/log n) and omega(1/n(b)) for any b > 0. Surprisingly, with probability tending to 1 as the network size increases to infinity, social networks with a power-law degree distribution cannot solve any bounded-degree puzzle. This model suggests a mechanism for recent empirical claims that innovation increases with social density, and it might begin to show what social networks stifle creativity and what networks collectively innovate.
+OI Brummitt, Charles/0000-0003-2553-8862
+CR AIZENMAN M, 1988, J PHYS A-MATH GEN, V21, P3801, DOI 10.1088/0305-4470/21/19/017
+   Ball P, 2014, NATURE, V506, P422, DOI 10.1038/506422a
+   Barabasi AL, 2002, PHYSICA A, V311, P590, DOI 10.1016/S0378-4371(02)00736-7
+   Bettencourt LMA, 2006, PHYSICA A, V364, P513, DOI 10.1016/j.physa.2005.08.083
+   Bettencourt LMA, 2008, SCIENTOMETRICS, V75, P495, DOI 10.1007/s11192-007-1888-4
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bettencourt LMA, 2009, J INFORMETR, V3, P210, DOI 10.1016/j.joi.2009.03.001
+   CHAI S., 2011, DIME DRUID AC WINT C, P1
+   Chen CM, 2009, J INFORMETR, V3, P191, DOI 10.1016/j.joi.2009.03.004
+   Chung F, 2002, P NATL ACAD SCI USA, V99, P15879, DOI 10.1073/pnas.252631999
+   CIOINSIGHT, 2004, WEB EXTR WHOS 1, P1
+   Coppersmith D, 2002, RANDOM STRUCT ALGOR, V21, P1, DOI 10.1002/rsa.10042
+   COWAN R., 2007, J ECON INTERACT COOR, V2, P93, DOI DOI 10.1007/S11403-007-0024-0
+   D'Souza RM, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.195702
+   Duch J, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010937
+   ERDOS P, 1961, ACTA MATH ACAD SCI H, V12, P261, DOI DOI 10.1007/BF02066689
+   Gerstein M, 2007, PLOS COMPUT BIOL, V3, P774, DOI 10.1371/journal.pcbi.0030080
+   Gowers T, 2009, NATURE, V461, P879, DOI 10.1038/461879a
+   GRAVNER J., 2013, PREPRINT
+   Gravner J, 2008, ANN APPL PROBAB, V18, P909, DOI 10.1214/07-AAP473
+   Grimmett G., 1999, PERCOLATION
+   Holroyd AE, 2003, PROBAB THEORY REL, V125, P195, DOI 10.1007/s00440-002-0239-x
+   INTRONE J., 2011, INT C COLL TECHN SYS, P40
+   Johnson S., 2010, GOOD IDEAS COME NATU
+   LAKHANI K. R., 2010, HARVARD BUSINESS SCH, V610-032, P1
+   Lambiotte R, 2009, J INFORMETR, V3, P180, DOI 10.1016/j.joi.2009.03.007
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   MOLLOY M, 1995, RANDOM STRUCT ALGOR, V6, P161, DOI 10.1002/rsa.3240060204
+   MOORE K., 2011, FORBES, V15, P1
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.016132
+   Redner S, 1998, EUR PHYS J B, V4, P131, DOI 10.1007/s100510050359
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   SCHULMAN LS, 1983, J PHYS A-MATH GEN, V16, pL639, DOI 10.1088/0305-4470/16/17/001
+   SLIVKEN E., 2013, PREPRINT
+   Sood V, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.178701
+   Uzzi B, 2005, AM J SOCIOL, V111, P447, DOI 10.1086/432782
+   Uzzi B, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/22/224023
+   VAN DEN ESKER H., 2005, EXTREMES, V8, P111
+NR 40
+TC 8
+Z9 8
+SN 1050-5164
+PD AUG
+PY 2015
+VL 25
+IS 4
+BP 2013
+EP 2038
+DI 10.1214/14-AAP1041
+UT WOS:000356910600007
+ER
+
+PT J
+AU Li, XT
+   Wang, XR
+   Zhang, J
+   Wu, LF
+AF Li, Xintong
+   Wang, Xinran
+   Zhang, Jiang
+   Wu, Lingfei
+TI Allometric scaling, size distribution and pattern formation of natural
+   cities
+SO PALGRAVE COMMUNICATIONS
+AB There has been a strong interest in more cogent definitions on economies of scale to reveal general urban growth laws and to develop urban performance metrics. Unstructured data, including satellite images, will provide us with new sources to do so by defining cities as aggregates of human activities. Such a uniform definition on the basis of nighttime light clusters is more consistent and economically meaningful than administrative or official boundaries. In comparison with patterns of city systems found in traditional census data, we examined the allometric scaling, size distribution and fractal geometry of natural cities. It can be concluded from our empirical analysis on regional, country and continental scales that a super-linear scaling between lightness and area with a stable exponent across different low light threshold levels generally holds for natural cities. But Zipf's Law does not always apply over the whole range of lightness thresholds. Furthermore, we build a model based on the simple geometric matching mechanism to reproduce the self-organized formation process of nighttime light patterns. The statistical properties including allometries, size distributions and fractal geometries generated by our model are in good agreement with empirical evidence. These findings have profound implications for understanding the effects of simple aggregation behaviour in primitive stages of city formation and the urbanization process.
+CR Agnew J, 2008, ENVIRON PLANN A, V40, P2285, DOI 10.1068/a41200
+   Angel S, 2005, DYNAMICS GLOBAL URBA
+   [Anonymous], 2010, B WORLD HEALTH ORGAN, V88, P245
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   BATTY M, 1986, ENVIRON PLANN A, V18, P1143, DOI 10.1068/a181143
+   BATTY M, 1989, ENVIRON PLANN A, V21, P1447, DOI 10.1068/a211447
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2011, ENVIRON PLANN B, V38, P385, DOI 10.1068/b3803ed
+   Bennie J, 2014, SCI REP-UK, V4, DOI 10.1038/srep03789
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Butt MJ, 2012, GISCI REMOTE SENS, V49, P609, DOI 10.2747/1548-1603.49.4.609
+   Cauwels P, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds19
+   Chen X, 2011, P NATL ACAD SCI USA, V108, P8589, DOI 10.1073/pnas.1017031108
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cordoba JC, 2008, J URBAN ECON, V63, P177, DOI 10.1016/j.jue.2007.01.005
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   Doll CNH, 2006, ECOL ECON, V57, P75, DOI 10.1016/j.ecolecon.2005.03.007
+   Doll CNH, 2000, AMBIO, V29, P157, DOI 10.1639/0044-7447(2000)029[0157:NTIAAT]2.0.CO;2
+   Elvidge C D, 2011, 2011 FALL M AM
+   Elvidge C.D., 2005, INT ARCH PHOTOGAMM R, V36, P8
+   Elvidge CD, 2001, ISPRS J PHOTOGRAMM, V56, P81, DOI 10.1016/S0924-2716(01)00040-5
+   Elvidge CD, 2007, GEOJOURNAL, V69, P45, DOI 10.1007/s10708-007-9104-x
+   Elvidge CD, 2009, ENERGIES, V2, P595, DOI 10.3390/en20300595
+   Elvidge CD, 2009, COMPUT GEOSCI-UK, V35, P1652, DOI 10.1016/j.cageo.2009.01.009
+   Frolking S, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/2/024004
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gantz J., 2011, IDC IVIEW, V1142, P1
+   Ghosh T.L., 2010, OPEN GEOGRAPH J, V3, DOI [10.2174/1874923201003010147, DOI 10.2174/1874923201003010147]
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   Hatna E., 2015, J ROYAL SOC INTERFAC, V12, P3
+   Henderson JV, 2012, AM ECON REV, V102, P994, DOI 10.1257/aer.102.2.994
+   Imhoff ML, 1997, REMOTE SENS ENVIRON, V61, P361
+   Jiang B, 2014, ARXIV14022965V2
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   Li X, 2013, IEEE J-STARS, V6, P2302, DOI 10.1109/JSTARS.2013.2241021
+   Macionis J J, 2004, CITIES URBAN LIFE
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Martinez-Mekler G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004791
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pissourios IA, 2014, EUR SPAT RES POLICY, V21, P83, DOI 10.2478/esrp-2014-0007
+   Portugali J., 2000, SELF ORG CITY
+   ROSEN KT, 1980, J URBAN ECON, V8, P165, DOI 10.1016/0094-1190(80)90043-1
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Small C, 2011, REMOTE SENS ENVIRON, V115, P269, DOI 10.1016/j.rse.2010.08.021
+   Stanley HE, 1999, PHYSICA A, V266, P5, DOI 10.1016/S0378-4371(99)00029-1
+   Stauffer D., 1994, INTRO PERCOLATION TH
+   Sutton P.C., 2007, INT J ECOL EC STAT, V08, P5
+   Sutton PC, 2003, REMOTE SENS ENVIRON, V86, P353, DOI 10.1016/S0034-4257(03)00078-6
+   *UN POP DIV, 2002, WORLD URB PROSP 2001
+   United Nations Human Settlements Programme, 2010, STAT WORLDS CIT 2010
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zhang QL, 2011, REMOTE SENS ENVIRON, V115, P2320, DOI 10.1016/j.rse.2011.04.032
+   Zhou YY, 2014, REMOTE SENS ENVIRON, V147, P173, DOI 10.1016/j.rse.2014.03.004
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 59
+TC 2
+Z9 2
+SN 2055-1045
+PY 2015
+VL 1
+AR 15017
+DI 10.1057/palcomms.2015.17
+UT WOS:000453320600021
+ER
+
+PT J
+AU Hsiehchen, D
+   Espinoza, M
+   Hsieh, A
+AF Hsiehchen, David
+   Espinoza, Magdalena
+   Hsieh, Antony
+TI Multinational teams and diseconomies of scale in collaborative research
+SO SCIENCE ADVANCES
+AB Collaborative research has become the mainstay in knowledge production across many domains of science and is widely promoted as a means of cultivating research quality, enhanced resource utilization, and high impact. An accurate appraisal of the value of collaborative research efforts is necessary to inform current funding and research policies. We reveal contemporary trends in collaborative research spanning multiple subject fields, with a particular focus on interactions between nations. We also examined citation outcomes of research teams and confirmed the accumulative benefits of having additional authors and unique countries involved. However, when per capita citation rates were analyzed to disambiguate the effects of authors and countries, decreasing returns in citations were noted with increasing authors among large research teams. In contrast, an increasing number of unique countries had a persistent additive citation effect. We also assessed the placement of foreign authors relative to the first author in paper bylines of biomedical research articles, which demonstrated a significant citation advantage of having an international presence in the second-to-last author position, possibly occupied by foreign primary co-investigators. Our analyses highlight the evolution and functional impact of team dynamics in research and suggest empirical strategies to evaluate team science.
+CR Aad G, 2012, PHYS LETT B, V716, P1, DOI 10.1016/j.physletb.2012.08.020
+   Akhabue E, 2010, ANN EPIDEMIOL, V20, P868, DOI 10.1016/j.annepidem.2010.08.004
+   Bates T, 2004, JAMA-J AM MED ASSOC, V292, P86, DOI 10.1001/jama.292.1.86
+   Bergstrom CT, 2008, J NEUROSCI, V28, P11433, DOI 10.1523/JNEUROSCI.0003-08.2008
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Borner K, 2010, SCI TRANSL MED, V2, DOI 10.1126/scitranslmed.3001399
+   Bornmann L, 2011, J INFORMETR, V5, P346, DOI 10.1016/j.joi.2011.01.006
+   Chatrchyan S, 2012, PHYS LETT B, V716, P30, DOI 10.1016/j.physletb.2012.08.021
+   Chinchilla-Rodriguez Z, 2012, J AM SOC INF SCI TEC, V63, P2223, DOI 10.1002/asi.22669
+   Corbyn Zoe, 2010, NATURE, DOI [10.1038/news.2010.406, DOI 10.1038/NEWS.2010.406]
+   Costas R, 2010, SCIENTOMETRICS, V82, P517, DOI 10.1007/s11192-010-0187-7
+   Didegah F, 2013, J INFORMETR, V7, P861, DOI 10.1016/j.joi.2013.08.006
+   Egghe L, 2006, SCIENTOMETRICS, V69, P131, DOI 10.1007/s11192-006-0144-7
+   Falagas ME, 2008, FASEB J, V22, P338, DOI 10.1096/fj.07-9492LSF
+   Falagas ME, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0049476
+   Flanagin A, 1998, JAMA-J AM MED ASSOC, V280, P222, DOI 10.1001/jama.280.3.222
+   Gomez-Alonso J, 2004, JAMA-J AM MED ASSOC, V292, P1815, DOI 10.1001/jama.292.15.1815-a
+   Hirsch JE, 2005, P NATL ACAD SCI USA, V102, P16569, DOI 10.1073/pnas.0507655102
+   Inzelt A, 2009, SCIENTOMETRICS, V78, P37, DOI 10.1007/s11192-007-1957-8
+   Jones BF, 2008, SCIENCE, V322, P1259, DOI 10.1126/science.1158357
+   Kulkarni AV, 2009, JAMA-J AM MED ASSOC, V302, P1092, DOI 10.1001/jama.2009.1307
+   Lancho-Barrantes BS, 2013, SCIENTOMETRICS, V94, P817, DOI 10.1007/s11192-012-0797-3
+   Lander ES, 2001, NATURE, V409, P860, DOI 10.1038/35057062
+   Lee K, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014279
+   Lehmann S, 2006, NATURE, V444, P1003, DOI 10.1038/4441003a
+   Levitt JM, 2010, SCIENTOMETRICS, V85, P171, DOI 10.1007/s11192-010-0197-5
+   Low WY, 2014, SCIENTOMETRICS, V98, P1521, DOI 10.1007/s11192-013-1121-6
+   Milojevic S, 2014, P NATL ACAD SCI USA, V111, P3984, DOI 10.1073/pnas.1309723111
+   Nomaler O, 2013, J INFORMETR, V7, P966, DOI 10.1016/j.joi.2013.10.001
+   Pan RK, 2014, SCI REP-UK, V4, DOI 10.1038/srep04880
+   Pan RK, 2012, SCI REP-UK, V2, DOI [10.1038/srep00902, 10.1038/srep00551]
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Parker JN, 2013, SCIENTOMETRICS, V94, P469, DOI 10.1007/s11192-012-0859-6
+   Persson O, 2004, SCIENTOMETRICS, V60, P421, DOI 10.1023/B:SCIE.0000034384.35498.7d
+   Persson O, 2010, SCIENTOMETRICS, V83, P397, DOI 10.1007/s11192-009-0007-0
+   Porter AL, 2009, SCIENTOMETRICS, V81, P719, DOI 10.1007/s11192-008-2197-2
+   Sangwal K, 2013, SCIENTOMETRICS, V97, P719, DOI 10.1007/s11192-013-1053-1
+   Saramaki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   SHAPIRO DW, 1994, JAMA-J AM MED ASSOC, V271, P438, DOI 10.1001/jama.271.6.438
+   Thelwall M, 2014, J INFORMETR, V8, P276, DOI 10.1016/j.joi.2013.12.008
+   Tijssen RJW, 2011, NATURE, V473, P154, DOI 10.1038/473154a
+   van Dijk D, 2014, CURR BIOL, V24, pR516, DOI 10.1016/j.cub.2014.04.039
+   Van Raan AFJ, 1998, SCIENTOMETRICS, V42, P423, DOI 10.1007/BF02458380
+   Wallace ML, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0033339
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Wislar JS, 2011, BRIT MED J, V343, DOI 10.1136/bmj.d6128
+   Wren JD, 2007, EMBO REP, V8, P988, DOI 10.1038/sj.embor.7401095
+   Wuchty S, 2007, SCIENCE, V316, P1036, DOI 10.1126/science.1136099
+   Xie Y, 2014, SCIENCE, V344, P809, DOI 10.1126/science.1252743
+   Yaffe MB, 2013, SCI SIGNAL, V6, DOI 10.1126/scisignal.2003684
+NR 51
+TC 5
+Z9 6
+SN 2375-2548
+PD SEP
+PY 2015
+VL 1
+IS 8
+AR e1500211
+DI 10.1126/sciadv.1500211
+UT WOS:000216596900021
+PM 26601251
+ER
+
+PT J
+AU Qubbaj, MR
+   Shutters, ST
+   Muneepeerakul, R
+AF Qubbaj, Murad R.
+   Shutters, Shade T.
+   Muneepeerakul, Rachata
+TI Living in a Network of Scaling Cities and Finite Resources
+SO BULLETIN OF MATHEMATICAL BIOLOGY
+DE Sustainability; Scaling; Urban networks; Population-resource dynamics
+ID SUSTAINABILITY; GROWTH; URBAN; TRANSPORTATION; ORIGINS; TRADE
+AB Many urban phenomena exhibit remarkable regularity in the form of nonlinear scaling behaviors, but their implications on a system of networked cities has never been investigated. Such knowledge is crucial for our ability to harness the complexity of urban processes to further sustainability science. In this paper, we develop a dynamical modeling framework that embeds population-resource dynamics-a generalized Lotka-Volterra system with modifications to incorporate the urban scaling behaviors-in complex networks in which cities may be linked to the resources of other cities and people may migrate in pursuit of higher welfare. We find that isolated cities (i.e., no migration) are susceptible to collapse if they do not have access to adequate resources. Links to other cities may help cities that would otherwise collapse due to insufficient resources. The effects of inter-city links, however, can vary due to the interplay between the nonlinear scaling behaviors and network structure. The long-term population level of a city is, in many settings, largely a function of the city's access to resources over which the city has little or no competition. Nonetheless, careful investigation of dynamics is required to gain mechanistic understanding of a particular city-resource network because cities and resources may collapse and the scaling behaviors may influence the effects of inter-city links, thereby distorting what topological metrics really measure.
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Alves LGA, 2013, PHYSICA A, V392, P2672, DOI 10.1016/j.physa.2013.02.002
+   Barrat A., 2013, DYNAMICAL PROCESSES
+   BATTY M, 1995, NATURE, V377, P574, DOI 10.1038/377574a0
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bulkeley H., 2003, CITIES CLIMATE CHANG
+   Castles S, 2002, INT MIGR REV, V36, P1143, DOI 10.1111/j.1747-7379.2002.tb00121.x
+   Colizza V, 2006, P NATL ACAD SCI USA, V103, P2015, DOI 10.1073/pnas.0510525103
+   Colunga-Garcia M, 2009, J ECON ENTOMOL, V102, P237, DOI 10.1603/029.102.0133
+   D'Odorico P, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL043167
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Kates RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/pnas.1231331100
+   Lenzen M, 2012, NATURE, V486, P109, DOI 10.1038/nature11145
+   Lobo J, 2008, J URBAN ECON, V63, P871, DOI 10.1016/j.jue.2007.07.005
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Muneepeerakul R, 2012, ECOL ECON, V77, P123, DOI 10.1016/j.ecolecon.2012.02.017
+   Neal Z, 2011, URBAN STUD, V48, P2733, DOI 10.1177/0042098010388954
+   Neal ZP, 2013, METROP MOD LIFE, P1
+   Pickett STA, 2008, ANNU REV ECOL SYST, V32, P99
+   Rees W, 1996, ENVIRON IMPACT ASSES, V16, P223, DOI 10.1016/S0195-9255(96)00022-4
+   ROMER PM, 1994, J ECON PERSPECT, V8, P3, DOI 10.1257/jep.8.1.3
+   Samet RH, 2013, FUTURES, V47, P49, DOI 10.1016/j.futures.2013.01.006
+   Seto KC, 2010, ANNU REV ENV RESOUR, V35, P167, DOI 10.1146/annurev-environ-100809-125336
+   Trombulak SC, 2000, CONSERV BIOL, V14, P18, DOI 10.1046/j.1523-1739.2000.99084.x
+   UNFPA, 2007, STAT WORLD POP 2007
+   van den Bergh JCJM, 1999, ECOL ECON, V29, P61, DOI 10.1016/S0921-8009(99)00032-4
+   Vanderheiden S, 2008, POLIT STUD-LONDON, V56, P435, DOI 10.1111/j.1467-9248.2007.00691.x
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Wolf S. R., 2007, FORUM PUBLIC POLICY
+   Yamamoto A. T., 2006, URBAN CRISIS CULTURE
+   Young Robert F., 2009, Urban Ecosystems, V12, P311, DOI 10.1007/s11252-009-0095-x
+NR 35
+TC 4
+Z9 4
+SN 0092-8240
+EI 1522-9602
+PD FEB
+PY 2015
+VL 77
+IS 2
+SI SI
+BP 390
+EP 407
+DI 10.1007/s11538-014-9949-3
+UT WOS:000349331100010
+PM 24722889
+ER
+
+PT J
+AU Banerjee, S
+   Van Hentenryck, P
+   Cebrian, M
+AF Banerjee, Soumya
+   Van Hentenryck, Pascal
+   Cebrian, Manuel
+TI Competitive dynamics between criminals and law enforcement explains the
+   super-linear scaling of crime in cities
+SO PALGRAVE COMMUNICATIONS
+AB While cities have been the engine for innovation and growth for many millennia, they have also endured disproportionately more crime than smaller cities. Similarly to other urban sociological quantities, such as income, gross domestic product (GDP) and number of granted patents, it has been observed that crime scales super-linearly with city size. The default assumption is that super-linear scaling of crime, like other urban attributes, derives from agglomerative effects (that is, increasing returns from potentially more productive connections among criminals). However, crime initiation appears to be generated linearly with the population of a city, and the number of law enforcement officials scales sublinearly with city population. We hypothesize that the observed scaling exponent for net crime in a city is the result of competing dynamics between criminals and law enforcement, each with different scaling exponents, and where criminals win in the numbers game. We propose a simple dynamical model able to accommodate these empirical observations, as well as the potential multiple scaling regimes emerging from the competitive dynamics between crime and law enforcement. Our model is also general enough to be able to correctly account for crime in universities, where university crime does not scale super-linearly, but linearly with enrolment size.
+CR [Anonymous], 2012, MATLAB STAT TOOLB RE
+   Banerjee S, 2015, DATAVERSE, DOI [10.7910/DVN/ELSYXO, DOI 10.7910/DVN/ELSYXO]
+   Banerjee S, 2009, ARXIV09052649
+   Banerjee S, 2013, THESIS
+   Banerjee SG, 2011, DIR DEV, P1, DOI [10.1596/978-0-8213-8457-2, 10.1007/978-3-642-22371-6_1]
+   Banerjee S, 2010, SWARM INTELL-US, V4, P301, DOI 10.1007/s11721-010-0048-2
+   Banerjee S, 2010, LECT NOTES COMPUT SC, V6209, P116, DOI 10.1007/978-3-642-14547-6_10
+   Banerjee S, 2009, LECT NOTES COMPUT SC, V5666, P14, DOI 10.1007/978-3-642-03246-2_5
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Baudains P, 2013, POLIC-J POLICY PRACT, V7, P21, DOI 10.1093/police/pas049
+   Baudains P, 2013, APPL GEOGR, V45, P211, DOI 10.1016/j.apgeog.2013.09.010
+   Baudains P, 2013, CRIMINOLOGY, V51, P251, DOI 10.1111/1745-9125.12004
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Cullen JB, 1999, REV ECON STAT, V81, P159, DOI 10.1162/003465399558030
+   D'Orsogna MR, 2015, PHYS LIFE REV, V12, P1, DOI 10.1016/j.plrev.2014.11.001
+   Davies TP, 2013, SCI REP-UK, V3, DOI 10.1038/srep01303
+   Duijn PAC, 2014, SCI REP-UK, V4, DOI 10.1038/srep04238
+   Glaeser E. L, 1996, J POLITICAL EC, V107, P225
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Gould ED, 2002, REV ECON STAT, V84, P45, DOI 10.1162/003465302317331919
+   Helbing D, 2015, J STAT PHYS, V158, P735, DOI 10.1007/s10955-014-1024-9
+   Johnson N, 2011, SCIENCE, V333, P81, DOI 10.1126/science.1205068
+   Keizer K, 2008, SCIENCE, V322, P1681, DOI 10.1126/science.1161405
+   Lichman M., 2013, UCI MACHINE LEARNING
+   McMillon D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0088923
+   Moses M., 2011, 2011 IEEE SSCI Symposium on Artificial Life (ALIFE), P30, DOI 10.1109/ALIFE.2011.5954663
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Perc M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0076063
+   Redmond M, 2002, EUR J OPER RES, V141, P660, DOI 10.1016/S0377-2217(01)00264-8
+   Salesses P, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0068400
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Short MB, 2010, P NATL ACAD SCI USA, V107, P3961, DOI 10.1073/pnas.0910921107
+   Tumminello M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064703
+   United States Department of Justice Federal Bureau of Investigation, 1995, CRIME US
+   Warton DI, 2006, BIOL REV, V81, P259, DOI 10.1017/S1464793106007007
+   Warton DI, 2012, METHODS ECOL EVOL, V3, P257, DOI 10.1111/j.2041-210X.2011.00153.x
+   Youn HJ, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0272
+NR 39
+TC 0
+Z9 0
+SN 2055-1045
+PY 2015
+VL 1
+AR 15022
+DI 10.1057/palcomms.2015.22
+UT WOS:000453320600026
+ER

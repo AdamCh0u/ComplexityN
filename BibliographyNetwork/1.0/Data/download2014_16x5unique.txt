@@ -1,0 +1,441 @@
+
+PT J
+AU Awal, MA
+   Mostafa, SS
+   Ahmad, M
+   Rashid, MA
+AF Awal, Md Abdul
+   Mostafa, Sheikh Shanawaz
+   Ahmad, Mohiuddin
+   Rashid, Mohd Abdur
+TI An adaptive level dependent wavelet thresholding for ECG denoising
+SO BIOCYBERNETICS AND BIOMEDICAL ENGINEERING
+LA English
+DT Article
+DE ECG; MABWT; Modified S-median; Symlet wavelet; Scalogram difference;
+   S-median
+ID NEURAL-NETWORK; TRANSFORM; REMOVAL
+AB This paper describes the research carried out to eliminate the noise found in ECG signal and cardiac rhythm. For this, ECG signals were collected carefully from BIOPAC data acquisition system and MIT-BIH database. MIT-BIH noise stress test database was used for generating realistic noises. In addition, to get a better denoised ECG, Symlet wavelet was chosen because its scaling function is closely related to the shape of ECG. For denoising ECG signal, a novel modified S-median thresholding technique is proposed and evaluated in this paper. The optimal Symlet wavelet of order 6 and decomposition level of 8 are attained for modified S-median thresholding technique. The evaluation results showed that the proposed system performed better than S-median and other existing techniques in the time domain. The frequency domain analysis also showed the preservation of important phenomena of ECG. The scalogram difference of 0.004% indicates the well preservation of time-frequency information. (C) 2014 Nalecz Institute of Biocybemetics and Biomedical Engineering. Published by Elsevier Urban & Partner Sp. z o.o. All rights reserved.
+C1 [Awal, Md Abdul; Mostafa, Sheikh Shanawaz; Ahmad, Mohiuddin] KUET, Dept Biomed Engn, Khulna, Bangladesh.
+   [Rashid, Mohd Abdur] Univ Sultan Zainal Abidin UniSZA, Fac Design & Engn Technol, Kuala Terengaanu 21300, Terengganu, Malaysia.
+RP Rashid, MA (reprint author), Univ Sultan Zainal Abidin UniSZA, Fac Design & Engn Technol, Kuala Terengaanu 21300, Terengganu, Malaysia.
+EM rashid68@yahoo.com
+RI Mostafa, Sheikh Shanawaz/N-9228-2015
+OI Mostafa, Sheikh Shanawaz/0000-0002-7677-0971
+CR Adiguzel V, 2007, P SIGN PROC COMM APP, P1
+   Arivazhagan S, 2003, PATTERN RECOGN LETT, V24, P1513, DOI 10.1016/S0167-8655(02)00390-2
+   Awal M. A., 2012, 2012 International Conference on Biomedical Engineering (ICoBE), P373, DOI 10.1109/ICoBE.2012.6179041
+   Awal MA, 2011, P 2011 ADV EL ENG IN, P129
+   Behrenbruch CP, 1998, PROCEEDINGS OF THE 2ND INTERNATIONAL CONFERENCE ON BIOELECTROMAGNETISM, P61, DOI 10.1109/ICBEM.1998.666395
+   Chang SG, 2000, IEEE T IMAGE PROCESS, V9, P1532, DOI 10.1109/83.862633
+   Clifford G, 2001, ELECTRON LETT, V37, P1126, DOI 10.1049/el:20010762
+   Daqrouq K, 2005, ASIAN J INFORM TECHN, V4, P989
+   DAUBECHIES I, 1988, COMMUN PUR APPL MATH, V41, P909, DOI 10.1002/cpa.3160410705
+   Daubechies I., 1992, 10 LECT WAVELETS
+   DeLaboratoio M., 2008, BIOPAC STUDENT LAB
+   DONOHO DL, 1995, IEEE T INFORM THEORY, V41, P613, DOI 10.1109/18.382009
+   DONOHO DL, 1994, BIOMETRIKA, V81, P425, DOI 10.1093/biomet/81.3.425
+   Fu Q, 2003, INTERSPEECH
+   Hasan MA, 2009, BIOL PROCED ONLINE, V11, P263, DOI 10.1007/s12575-009-9006-z
+   Isa S. M., 2011, Proceedings of the 2011 International Conference on Advanced Computer Science and Information Systems (ICACSIS), P365
+   Jun Y, 1999, ENG MED BIOL 1999 21
+   Karthikeyan P, 2012, P INT J EL ENG INF, P4
+   Kestler HA, 1998, COMPUT CARDIOL, V25, P233, DOI 10.1109/CIC.1998.731776
+   Macfarlane P. W., 1977, Proceedings of the IFIP TC 4 working conference on trends in computer-processed electrocardiograms, P143
+   Mahmoodabadi SZ, 2005, P ANN INT IEEE EMBS, P3902, DOI 10.1109/IEMBS.2005.1615314
+   Mallat S., 2008, WAVELET TOUR SIGNAL
+   Manikandan AS, 2007, BIOMED SIGNAL PROCES, V2, P80, DOI 10.1016/j.bspc.2007.05.001
+   MEYER CR, 1977, COMPUT BIOMED RES, V10, P459, DOI 10.1016/0010-4809(77)90021-0
+   Misiti M., 1996, WAVELET TOOLBOX USER
+   Moein S, 2010, ADV EXP MED BIOL, V680, P109, DOI 10.1007/978-1-4419-5913-3_13
+   Moody GB, 1990, COMPUT CARDIOL, P185
+   Mozaffary B, 2005, PROC WRLD ACAD SCI E, V3, P14
+   Nie KB, 1998, ICSP '98: 1998 FOURTH INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING, PROCEEDINGS, VOLS I AND II, P1395, DOI 10.1109/ICOSP.1998.770881
+   Oppenheim A., 1999, DISCRETE TIME SIGNAL
+   Poornachandra S, 2008, DIGIT SIGNAL PROCESS, V18, P49, DOI 10.1016/j.dsp.2007.09.006
+   Rahman M Z U, 2010, 2010 International Conference on Systems in Medicine and Biology (ICSMB), P217, DOI 10.1109/ICSMB.2010.5735375
+   Sayadi O, 2007, EURASIP J ADV SIG PR, DOI 10.1155/2007/41274
+   VANALSTE JA, 1985, IEEE T BIO-MED ENG, V32, P1052, DOI 10.1109/TBME.1985.325514
+   WELCH PD, 1967, IEEE T ACOUST SPEECH, VAU15, P70, DOI 10.1109/TAU.1967.1161901
+   Yao J, 2001, IEEE T BIO-MED ENG, V48, P856, DOI 10.1109/10.936362
+   Yuan X, 2003, AUDITORY MODEL BASED
+NR 37
+TC 27
+Z9 32
+U1 2
+U2 21
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0208-5216
+J9 BIOCYBERN BIOMED ENG
+JI Biocybern. Biomed. Eng.
+PY 2014
+VL 34
+IS 4
+BP 238
+EP 249
+DI 10.1016/j.bbe.2014.03.002
+PG 12
+WC Engineering, Biomedical
+SC Engineering
+GA AU3AE
+UT WOS:000345484600005
+DA 2019-03-26
+ER
+
+PT J
+AU Nomaler, O
+   Frenken, K
+   Heimeriks, G
+AF Nomaler, Onder
+   Frenken, Koen
+   Heimeriks, Gaston
+TI On Scaling of Scientific Knowledge Production in US Metropolitan Areas
+SO PLOS ONE
+LA English
+DT Article
+ID INCREASING RETURNS; SCIENCE SYSTEM; GEOGRAPHY; SIZE
+AB Using data on all scientific publications from the Scopus database, we find a superlinear scaling effect for U. S. metropolitan areas as indicated by the increase of per capita publication output with city size. We also find that the variance of residuals is much higher for mid-sized cities (100,000 to 500,000 inhabitants) compared to larger cities. The latter result is indicative of the critical mass required to establish a scientific center in a particular discipline. Finally, we observe that the largest cities publish much less than the scaling law would predict, indicating that the largest cities are relatively unattractive locations for scientific research.
+C1 [Nomaler, Onder] Eindhoven Univ Technol, Sch Innovat Sci, NL-5600 MB Eindhoven, Netherlands.
+   [Frenken, Koen; Heimeriks, Gaston] Univ Utrecht, Copernicus Inst Sustainable Dev, Utrecht, Netherlands.
+RP Heimeriks, G (reprint author), Univ Utrecht, Copernicus Inst Sustainable Dev, Utrecht, Netherlands.
+EM GHeimeriks@gmail.com
+RI Frenken, Koen/C-4486-2017; Heimeriks, Gaston/G-1057-2012
+OI Frenken, Koen/0000-0003-4731-0201; Heimeriks, Gaston/0000-0002-0577-6938
+FU Netherlands Organisation for Scientific Research (nwo.nl) under the VIDI
+   programme [452-06-005]
+FX Part of the study has been financially supported by an unrestricted
+   grant provided by The Netherlands Organisation for Scientific Research
+   (nwo.nl) under the VIDI programme, number 452-06-005. The authors
+   received no other specific funding for this work. The funder had no role
+   in study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bonaccorsi A, 2005, SCIENTOMETRICS, V63, P87, DOI 10.1007/s11192-005-0205-3
+   Bonaccorsi A, 2007, SCI PUBLIC POLIC JUN, P303
+   Bonaccorsi A, 2008, MINERVA, V46, P285, DOI 10.1007/s11024-008-9101-3
+   Deville P, 2014, SCI REP-UK, V4, DOI 10.1038/srep04770
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Frenken K, 2009, J INFORMETR, V3, P222, DOI 10.1016/j.joi.2009.03.005
+   Gao X, 2009, J INFORMETR, V3, P321, DOI 10.1016/j.joi.2009.04.004
+   Grossetti M, 2013, URBAN STUD, V51, P2219
+   Heimeriks G, 2012, TECHNOL ANAL STRATEG, V24
+   Heimeriks G, 2014, J ECON GEOGR, V14, P339, DOI 10.1093/jeg/lbs052
+   Hoekman J, 2008, ANN REGIONAL SCI, V43, P721
+   Katz JS, 1999, RES POLICY, V28, P501, DOI 10.1016/S0048-7333(99)00010-4
+   KATZ JS, 2000, SCI PUBL POLICY, V27, P23, DOI DOI 10.3152/147154300781782156
+   KRUGMAN P, 1991, J POLIT ECON, V99, P483, DOI 10.1086/261763
+   Paulus F, 2006, CYBERGEO EUROPEAN J
+   Storper M., 2010, J ECON GEOGR, V11, P333
+   UNESCO, 2010, UNESCO SCI REP 2010
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P461, DOI 10.1002/asi.20761
+   van Raan AFJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059384
+NR 22
+TC 10
+Z9 10
+U1 3
+U2 14
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 29
+PY 2014
+VL 9
+IS 10
+AR e110805
+DI 10.1371/journal.pone.0110805
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AT8TG
+UT WOS:000345204200037
+PM 25353686
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Weekes, SM
+   Tomlin, AS
+AF Weekes, Shemaiah Matthias
+   Tomlin, Alison S.
+TI Low-cost wind resource assessment for small-scale turbine installations
+   using site pre-screening and short-term wind measurements
+SO IET RENEWABLE POWER GENERATION
+LA English
+DT Article
+ID POTENTIAL YIELD; URBAN AREAS; ENERGY; UK; ROUGHNESS; MODEL
+AB A two-stage approach to low-cost wind resource assessment for small-scale wind installations has been investigated in terms of its ability to screen for non-viable sites and to provide accurate wind power predictions at promising locations. The approach was implemented as a case study at ten UK locations where domestic-scale turbines were previously installed. In stage one, sites were pre-screened using a boundary-layer scaling model to predict the mean wind power density, including estimated uncertainties, and these predictions were compared to a minimum viability criterion. Using this procedure, five of the seven non-viable sites were correctly identified without direct onsite wind measurements and none of the viable sites were excluded. In stage two, more detailed analysis was carried out using 3 months onsite wind measurements combined with measure-correlate-predict (MCP) approaches. Using this process, the remaining two non-viable sites were identified and the available wind power density at the three viable sites was accurately predicted. The effect of seasonal variability on the MCP-predicted wind resource was considered and the implications for financial projections were highlighted. The study provides a framework for low-cost wind resource assessment in cases where long-term onsite measurements may be too costly or impractical.
+C1 [Weekes, Shemaiah Matthias; Tomlin, Alison S.] Univ Leeds, Doctoral Training Ctr Low Carbon Technol, Energy Res Inst, Sch Proc Environm & Mat Engn, Leeds LS2 9JT, W Yorkshire, England.
+RP Weekes, SM (reprint author), Univ Leeds, Doctoral Training Ctr Low Carbon Technol, Energy Res Inst, Sch Proc Environm & Mat Engn, Leeds LS2 9JT, W Yorkshire, England.
+EM a.s.tomlin@leeds.ac.uk
+OI Tomlin, Alison/0000-0001-6621-9492
+FU Engineering and Physical Sciences Research Council through the Doctoral
+   Training Centre in Low Carbon Technologies
+FX This work was financially supported by the Engineering and Physical
+   Sciences Research Council through the Doctoral Training Centre in Low
+   Carbon Technologies. We gratefully acknowledge the Energy Saving Trust
+   and RenewableUK for providing access to the wind data used in this case
+   study.
+CR AWS Scientific Inc. & National Renewable Energy Laboratory (U.S.), 1997, WIND RES ASS HDB FUN
+   Best M, 2008, TECHNICAL REPORT
+   Cheng H, 2002, BOUND-LAY METEOROL, V104, P229, DOI 10.1023/A:1016060103448
+   Department of Energy and Climate Change, NOABL WINDSP DAT
+   Derric A., 1992, P BWEA, P259
+   Drew DR, 2013, J WIND ENG IND AEROD, V115, P104, DOI 10.1016/j.jweia.2013.01.007
+   Ellison SLR, 2009, PRACTICAL STATISTICS FOR THE ANALYTICAL SCIENTIST: A BENCH GUIDE, SECOND EDITION, P1
+   Encraft, 2009, WARW WIND TRIALS FIN
+   Energy Saving Trust, 2009, LOC LOC LOC DOM SMAL
+   Grimmond CSB, 1999, J APPL METEOROL, V38, P1262, DOI 10.1175/1520-0450(1999)038<1262:APOUAD>2.0.CO;2
+   Heath MA, 2007, WIND ENERGY, V10, P271, DOI 10.1002/we.222
+   James PAB, 2010, ENERG POLICY, V38, P6130, DOI 10.1016/j.enpol.2010.05.070
+   Lackner M.A., 2008, J SOL ENERGY ENG T A, V130, P10
+   Lackner MA, 2008, RENEW ENERG, V33, P2019, DOI 10.1016/j.renene.2007.12.011
+   MASON PJ, 1988, Q J ROY METEOR SOC, V114, P399, DOI 10.1002/qj.49711448007
+   Millward-Hopkins JT, 2013, RENEW ENERG, V60, P701, DOI 10.1016/j.renene.2013.06.020
+   Millward-Hopkins JT, 2011, BOUND-LAY METEOROL, V141, P443, DOI 10.1007/s10546-011-9640-2
+   Millward-Hopkins J.T., 2011, WIND ENERGY, V15, P225
+   OKE TR, 1987, BOUNDARY LAYER CLIMA
+   Ramirez P, 2006, ENERG CONVERS MANAGE, V47, P2564, DOI 10.1016/j.enconman.2005.10.027
+   RenewableUK, 2010, GEN YOUR OWN POW
+   Rogers AL, 2005, J WIND ENG IND AEROD, V93, P243, DOI 10.1016/j.jweia.2004.12.002
+   Sissons MF, 2011, ENERG POLICY, V39, P3822, DOI 10.1016/j.enpol.2011.04.012
+   Sobol I.M., 1967, USSR COMP MATH MATH, V7, P86, DOI [10.1016/0041-5553(67)90144-9, DOI 10.1016/0041-5553(67)90144-9]
+   TULLER SE, 1984, J CLIM APPL METEOROL, V23, P124, DOI 10.1175/1520-0450(1984)023<0124:TCOWVT>2.0.CO;2
+   UK Meteorological Office, 2012, MET OFF INT DAT ARCH
+   Weekes SM, 2014, RENEW ENERG, V63, P162, DOI 10.1016/j.renene.2013.08.033
+   Weekes SM, 2013, RENEW ENERG, V50, P280, DOI 10.1016/j.renene.2012.06.053
+   World Wind Energy Association, 2012, SMALL WIND WORLD REP
+   Ziehn T, 2009, ENVIRON MODELL SOFTW, V24, P775, DOI 10.1016/j.envsoft.2008.12.002
+NR 30
+TC 4
+Z9 4
+U1 0
+U2 15
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1752-1416
+EI 1752-1424
+J9 IET RENEW POWER GEN
+JI IET Renew. Power Gener.
+PD MAY
+PY 2014
+VL 8
+IS 4
+BP 349
+EP 358
+DI 10.1049/iet-rpg.2013.0152
+PG 10
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering,
+   Electrical & Electronic
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA AG6YS
+UT WOS:000335565600002
+DA 2019-03-26
+ER
+
+PT J
+AU King, DA
+   Goldwyn, E
+AF King, David A.
+   Goldwyn, Eric
+TI Why do regulated jitney services often fail? Evidence from the New York
+   City group ride vehicle project
+SO TRANSPORT POLICY
+LA English
+DT Article
+DE Jitneys; Informal transit; New York City; Regulatory innovation
+ID TRANSPORTATION; INNOVATIONS; IMMIGRANTS
+AB Many US cities have unsuccessfully experimented with jitney projects to improve transit service, reduce costs, and adapt to shifting demographics. The impetus for this research was to take advantage of a natural policy experiment, the New York City Taxi & Limousine Commission's (TLC) Group Ride Vehicle (GRV) Pilot Project, to evaluate why jitneys often fail when regulated to supplement conventional transit The Commission developed the pilot project in response to service cuts on dozens of New York Metropolitan Transportation Authority (MTA) bus routes throughout the city. These cuts, coupled with higher transit fares, dramatically limited transit access for many city residents. Shortly after the service reductions went into effect in June 2010, the Commission announced the pilot project to bring commuter vans (commuter vans are the licensed jitneys in New York City) to five service areas that lost regular bus service. They expected the project to improve access for New Yorkers and create opportunity for jitney drivers and operators. The pilot project targeted service areas in Brooklyn and Queens, and the Commission received commitments from five existing commuter van operators to participate in the project The project was controversial for multiple reasons, including the City's willingness to privatize formerly public transit service and the imposition of two fares for Group Ride Vehicle riders traveling into Manhattan. The first Group Ride Vehicle began service in September 2010, and despite optimism from operators and the TLC, the program was unofficially discontinued after only a few months.
+   Though the pilot project failed to attract riders, it highlighted the importance of commuter vans for transit-dependent populations that rely on them and suggests many challenges to formalizing informal transit in the United States. Using the Group Ride Vehicle project as our starting point, we explore why informal jitneys in the United States succeed, and whether the conditions under which they prosper are compatible with conventional transit operations. Focus groups with operators, unstructured interviews with drivers and riders and participant observation are used to help explain the challenges facing the formalization of jitney services in New York. Our analysis identified four reasons why the GRV project failed: (1) a lack of subsidy to maintain service and build demand, (2) a two-month gap between the service cuts and jitney service implementation, (3) poorly branded service, and (4) confusing language used to describe the program. We argue that some of these factors are more perceived than real, but all of them reflect the difficulty of scaling up a niche jitney service to a general purpose transit service. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [King, David A.; Goldwyn, Eric] Columbia Univ, Grad Sch Architecture Planning & Preservat, New York, NY 10027 USA.
+RP King, DA (reprint author), Columbia Univ, Grad Sch Architecture Planning & Preservat, 400 Avery Hall,MC 0356,1172 Amsterdam Ave, New York, NY 10027 USA.
+EM dk2475@columbia.edu; elg2139@columbia.edu
+OI King, David/0000-0002-8401-6514
+CR Administration M.D.C.T., 1983, JITN POL REP
+   AECOM Technical Services I, 2011, HUDS COUNTR JITN STU
+   Baker J., 2010, ROLE TAXIS IMPROVING
+   Black A., 1995, URBAN MASS TRANSPORT
+   Blau R., 2010, TRANSPORT WORKERS UN
+   Blumenberg E, 2010, TRANSPORTATION, V37, P429, DOI 10.1007/s11116-010-9262-4
+   Center for Urban Transportation Research, 1993, JITN ENF STRAT EXP O
+   Cervero R, 2007, TRANSPORT POLICY, V14, P445, DOI 10.1016/j.tranpol.2007.04.011
+   Chatman DG, 2009, PUBLIC WORKS MANAG P, V13, P312, DOI 10.1177/1087724X09334633
+   Commission T.& L., 2010, TLC APPR LIV VAN GRO
+   Cooper J., 2010, TAXIL URBAN EC SOCIA, p[185, xvi]
+   Corporation U.M., 1992, MIAM JITN
+   ECKERT RD, 1972, J LAW ECON, V15, P293, DOI 10.1086/466738
+   Gavis D.F., 1990, CAN REV AM STUD, V21, P333
+   Giuliano G., 2002, SAN GABRIEL VALLEY S
+   Grava S., 1987, POTENTIALS PITFALLS
+   Kemper R.V., 2007, URBAN ANTHROP, V36, P381
+   KIRBY RF, 1975, TRANSPORTATION, V4, P369
+   KIRBY RF, 1981, TRANSPORTATION, V10, P61, DOI 10.1007/BF00165618
+   Klein D.B., 1997, CURV RIGHTS FDN FREE
+   Mitchell A., 1992, VANS VIE ILLEGALLY N
+   MOHRING H, 1983, J URBAN ECON, V14, P293, DOI 10.1016/0094-1190(83)90011-6
+   Newsom TJ, 2011, J PUBLIC TRANSPORT, V14, P89, DOI 10.5038/2375-0901.14.2.5
+   RICHMOND J, 2001, PRIVATE PROVISION PU
+   Rosenbloom S., 1970, SOCIETY, V7, P47
+   Sorensen CH, 2011, TRANSPORT POLICY, V18, P117, DOI 10.1016/j.tranpol.2010.07.001
+   Sullivan R., 2010, SUBWAY STREET
+   SUZUKI PT, 1985, TRANSPORT RES A-POL, V19, P337, DOI 10.1016/0191-2607(85)90069-X
+   TEAL RF, 1986, TRANSPORTATION, V13, P5, DOI 10.1007/BF00167735
+   Valenzuela A, 2005, TRANSPORT RES A-POL, V39, P895, DOI 10.1016/j.tra.2005.02.026
+   WEINER E, 1975, TRANSPORTATION, V4, P351
+   WOHL M, 1975, TRANSPORTATION, V4, P143, DOI 10.1007/BF00164684
+   WYNC News, 2005, WYNC NEWS
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0967-070X
+EI 1879-310X
+J9 TRANSPORT POLICY
+JI Transp. Policy
+PD SEP
+PY 2014
+VL 35
+SI SI
+BP 186
+EP 192
+DI 10.1016/j.tranpol.2014.05.011
+PG 7
+WC Economics; Transportation
+SC Business & Economics; Transportation
+GA AP2KU
+UT WOS:000341901900021
+DA 2019-03-26
+ER
+
+PT J
+AU Schlapfer, M
+   Bettencourt, LMA
+   Grauwin, S
+   Raschke, M
+   Claxton, R
+   Smoreda, Z
+   West, GB
+   Ratti, C
+AF Schlaepfer, Markus
+   Bettencourt, Luis M. A.
+   Grauwin, Sebastian
+   Raschke, Mathias
+   Claxton, Rob
+   Smoreda, Zbigniew
+   West, Geoffrey B.
+   Ratti, Carlo
+TI The scaling of human interactions with city size
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE networks; mobile phone data; human interactions; urban scaling;
+   epidemiology
+ID SOCIAL NETWORKS; COMPLEX NETWORKS; CITIES; COMMUNICATION; DYNAMICS;
+   LIFE; PACE
+AB The size of cities is known to play a fundamental role in social and economic life. Yet, its relation to the structure of the underlying network of human interactions has not been investigated empirically in detail. In this paper, we map society-wide communication networks to the urban areas of two European countries. We show that both the total number of contacts and the total communication activity grow superlinearly with city population size, according to well-defined scaling relations and resulting from a multiplicative increase that affects most citizens. Perhaps surprisingly, however, the probability that an individual's contacts are also connected with each other remains largely unaffected. These empirical results predict a systematic and scale-invariant acceleration of interaction-based spreading phenomena as cities get bigger, which is numerically confirmed by applying epidemiological models to the studied networks. Our findings should provide a microscopic basis towards understanding the superlinear increase of different socioeconomic quantities with city size, that applies to almost all urban systems and includes, for instance, the creation of new inventions or the prevalence of certain contagious diseases.
+C1 [Schlaepfer, Markus; Grauwin, Sebastian; Ratti, Carlo] MIT, Senseable City Lab, Cambridge, MA 02139 USA.
+   [Schlaepfer, Markus; Bettencourt, Luis M. A.; West, Geoffrey B.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+   [Raschke, Mathias] Raschke Software Engn, D-65195 Wiesbaden, Germany.
+   [Claxton, Rob] British Telecommun PLC, Ipswich IP5 3RE, Suffolk, England.
+   [Smoreda, Zbigniew] Orange Labs, F-92794 Issy Les Moulineaux 9, France.
+RP Schlapfer, M (reprint author), MIT, Senseable City Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM schlmark@mit.edu
+OI grauwin, sebastian/0000-0002-2674-6498
+FU Rockefeller Foundation; James S. McDonnell Foundation [220020195];
+   National Science Foundation [103522]; John Templeton Foundation [15705];
+   Army Research Office Minerva Programme [W911NF1210097]
+FX L.M.A.B. and G. B. W. acknowledge partial support by the Rockefeller
+   Foundation, the James S. McDonnell Foundation (grant no. 220020195), the
+   National Science Foundation (grant no. 103522), the John Templeton
+   Foundation (grant no. 15705) and the Army Research Office Minerva
+   Programme (grant no. W911NF1210097). Mobile phone and landline data were
+   provided by anonymous service providers in Portugal and the UK and are
+   not available for distribution.
+CR Anderson RM, 1991, INFECT DIS HUMANS DY
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   BERK RA, 1983, AM SOCIOL REV, V48, P386, DOI 10.2307/2095230
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   BORNSTEIN MH, 1976, NATURE, V259, P557, DOI 10.1038/259557a0
+   Calabrese F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020814
+   Centers for Disease Control and Prevention, 2012, HIV SURV URB NON AR
+   Cullen JB, 1999, REV ECON STAT, V81, P159, DOI 10.1162/003465399558030
+   Davidson A.C., 2003, STAT MODELS
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Fischer C. S., 1982, DWELL FRIENDS PERSON
+   Fujita M, 2001, SPATIAL EC CITIES RE
+   Geser H, 2006, KNOWLEDGE TECHNOLOGY, V19, P8, DOI [10.1007/s12130-006-1010-x, DOI 10.1007/S12130-006-1010-X]
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   Karsai M, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.025102
+   Kiss IZ, 2008, J R SOC INTERFACE, V5, P791, DOI 10.1098/rsif.2007.1272
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Krings G, 2012, EPJ DATA SCI, V1, DOI 10.1140/epjds4
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lee SH, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.016102
+   Licoppe C, 2005, SOC NETWORKS, V27, P317, DOI 10.1016/j.socnet.2004.11.001
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILGRAM S, 1970, SCIENCE, V167, P1461, DOI 10.1126/science.167.3924.1461
+   Miritello G, 2013, SCI REP-UK, V3, DOI 10.1038/srep01950
+   Mitzenmacher M., 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   Newman MEJ, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.058701
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Pastor-Satorras R, 2001, PHYS REV LETT, V86, P3200, DOI 10.1103/PhysRevLett.86.3200
+   Raeder T, 2011, SOC NETWORKS, V33, P245, DOI 10.1016/j.socnet.2011.07.002
+   Raschke M, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.037102
+   Rogers E.M., 1995, DIFFUSION INNOVATION
+   Saramaki J, 2014, P NATL ACAD SCI USA, V111, P942, DOI 10.1073/pnas.1308540110
+   Serrano MA, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.036133
+   Stumpf MPH, 2005, P NATL ACAD SCI USA, V102, P4221, DOI 10.1073/pnas.0501179102
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Topa G, 2001, REV ECON STUD, V68, P261, DOI 10.1111/1467-937X.00169
+   Wasserman S., 1994, SOCIAL NETWORK ANAL
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wellman B, 1999, NETWORKS GLOBAL VILL
+   Wesolowski A, 2013, J R SOC INTERFACE, V10, DOI 10.1098/rsif.2012.0986
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   WOLFF KH, SIMMEL
+NR 49
+TC 63
+Z9 64
+U1 6
+U2 64
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD SEP 6
+PY 2014
+VL 11
+IS 98
+AR 20130789
+DI 10.1098/rsif.2013.0789
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AK6DW
+UT WOS:000338519300001
+PM 24990287
+OA Green Published, Bronze
+DA 2019-03-26
+ER

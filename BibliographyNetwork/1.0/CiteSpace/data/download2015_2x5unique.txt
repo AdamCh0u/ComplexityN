@@ -1,0 +1,363 @@
+
+PT S
+AU Sobolevsky, S
+   Bojic, I
+   Belyi, A
+   Sitko, I
+   Hawelka, B
+   Arias, JM
+   Ratti, C
+AF Sobolevsky, Stanislav
+   Bojic, Iva
+   Belyi, Alexander
+   Sitko, Izabela
+   Hawelka, Bartosz
+   Murillo Arias, Juan
+   Ratti, Carlo
+BE Barbara, C
+   Khan, L
+TI Scaling of city attractiveness for foreign visitors through big data of
+   human economical and social media activity
+SO 2015 IEEE INTERNATIONAL CONGRESS ON BIG DATA - BIGDATA CONGRESS 2015
+SE IEEE International Congress on Big Data
+CT IEEE International Congress on Big Data
+CY JUN 27-JUL 02, 2015
+CL New York, NY
+DE human mobility; urban attraction; Flickr; Twitter; bank cards;
+   superlinear scaling; discrete-choice model
+ID MOBILE PHONE DATA; CITIES; PATTERNS
+AB Scientific studies investigating laws and regularities of human behavior are nowadays increasingly relying on the wealth of widely available digital information produced by human activity. In this paper we use big data created by three different aspects of this activity (i.e., bank card transactions, geotagged photographs and tweets) in Spain for quantifying city attractiveness for foreign visitors. An important finding of this paper is a strong superlinear scaling law of city attractiveness with its population size. The observed scaling exponent stays nearly the same for different ways of defining cities and for different data sources, emphasizing the robustness of our finding. We also consider temporal variation of the scaling exponent in order to reveal seasonal patterns in the attractiveness. Finally, we propose a possible explanatory mechanism for the observed superlinear effect based on a simple discrete choice model.
+CR Amini A, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds31
+   Bagchi M, 2005, TRANSP POLICY, V12, P464, DOI 10.1016/j.tranpol.2005.06.008
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Calabrese F, 2006, NETWORKS COMMUNICATI, V20, P247
+   Franzin-Garrec Martine, 2013, Soins, P1
+   Girardin F., 2009, INT J SPATIAL DATA I, V4, P175
+   Girardin F, 2008, IEEE PERVAS COMPUT, V7, P36, DOI 10.1109/MPRV.2008.71
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grauwin S, 2015, GEOTECH ENVIRON, V13, P363, DOI 10.1007/978-3-319-11469-9_15
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Hoteit S, 2014, COMPUT NETW, V64, P296, DOI 10.1016/j.comnet.2014.02.011
+   Java A., 2007, P 9 WEBKDD 1 SNA KDD, V2007, P56, DOI DOI 10.1145/1348549.1348556
+   Kang C., 2013, P 2 ACM SIGKDD INT W, P1
+   Kung KS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096180
+   Lathia N., 2012, LECT NOTES COMPUTER, V7319, P91
+   Lehto X. Y., 2004, Journal of Vacation Marketing, V10, P320, DOI 10.1177/135676670401000404
+   Oh Y.J., 2004, J VACAT MARK, V10, P308, DOI DOI 10.1177/135676670401000403
+   Paldino S., 2015, ARXIV150305502, P1
+   Pei T, 2014, INT J GEOGR INF SCI, V28, P1988, DOI 10.1080/13658816.2014.913794
+   Quercia Daniele, 2010, Proceedings 2010 10th IEEE International Conference on Data Mining (ICDM 2010), P971, DOI 10.1109/ICDM.2010.152
+   Ratti C, 2006, ENVIRON PLANN B, V33, P727, DOI 10.1068/b32047
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   Rosenbaum M., 2005, J VACAT MARK, V11, P235, DOI DOI 10.1177/1356766705055710
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Santi P, 2014, P NATL ACAD SCI USA, V111, P13290, DOI 10.1073/pnas.1403657111
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Sinkiene J, 2010, PUBLIC POLICY ADMIN, V31, P147
+   Sobolevsky S., 2015, ARXIV150503854, P1
+   Sobolevsky S., 2014, P 2 ASE INT C BIG DA, P1
+   SOBOLEVSKY S, 2014, P IEEE INT C BIG DAT, P136, DOI DOI 10.1109/BIGDATA.CONGRESS.2014.28
+   Sobolevsky S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081707
+   Spirn A.W., 1998, LANGUAGE LANDSCAPE
+   Szell M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089052
+   UNCLES M, 1995, MARKET SCI, V14, pG71, DOI 10.1287/mksc.14.3.G71
+   Yuksel A, 2004, TOURISM MANAGE, V25, P751, DOI 10.1016/j.tourman.2003.09.012
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 40
+TC 14
+Z9 14
+SN 2379-7703
+BN 978-1-4673-7278-7
+PY 2015
+BP 600
+EP 607
+DI 10.1109/BigDataCongress.2015.92
+UT WOS:000380443700082
+ER
+
+PT J
+AU Herrera-Yague, C
+   Schneider, CM
+   Couronne, T
+   Smoreda, Z
+   Benito, RM
+   Zufiria, PJ
+   Gonzalez, MC
+AF Herrera-Yaguee, C.
+   Schneider, C. M.
+   Couronne, T.
+   Smoreda, Z.
+   Benito, R. M.
+   Zufiria, P. J.
+   Gonzalez, M. C.
+TI The anatomy of urban social networks and its implications in the
+   searchability problem
+SO SCIENTIFIC REPORTS
+ID MOBILE COMMUNICATION-NETWORKS; SMALL-WORLD; COMPLEX NETWORKS; PHONE
+   DATA; COMMUNITIES; PATTERNS; MULTISCALE; DIVERSITY; SEARCH
+AB The appearance of large geolocated communication datasets has recently increased our understanding of how social networks relate to their physical space. However, many recurrently reported properties, such as the spatial clustering of network communities, have not yet been systematically tested at different scales. In this work we analyze the social network structure of over 25 million phone users from three countries at three different scales: country, provinces and cities. We consistently find that this last urban scenario presents significant differences to common knowledge about social networks. First, the emergence of a giant component in the network seems to be controlled by whether or not the network spans over the entire urban border, almost independently of the population or geographic extension of the city. Second, urban communities are much less geographically clustered than expected. These two findings shed new light on the widely-studied searchability in self-organized networks. By exhaustive simulation of decentralized search strategies we conclude that urban networks are searchable not through geographical proximity as their country-wide counterparts, but through an homophily-driven community structure.
+RI Gonzalez, Marta/E-9456-2011
+OI Gonzalez, Marta/0000-0002-8482-0318; BENITO ZAFRILLA, ROSA
+   MARIA/0000-0003-3949-8232; Smoreda, Zbigniew/0000-0002-4047-7597
+CR Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blondel V, 2010, BRUSS STUD, P1, DOI 10.4000/brussels.806
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Bogardus ES, 1947, SOCIOMETRY, V10, P306, DOI 10.2307/2785570
+   Calabrese F., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P223, DOI 10.1109/PASSAT/SocialCom.2011.247
+   Calabrese F, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020814
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Cho E., 2011, P 17 ACM SIGKDD INT, P1082, DOI DOI 10.1145/2020408.2020579
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   de Montjoye YA, 2013, SCI REP-UK, V3, DOI 10.1038/srep01376
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gao S, 2013, T GIS, V17, P463, DOI 10.1111/tgis.12042
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Kitsak M, 2010, NAT PHYS, V6, P888, DOI [10.1038/NPHYS1746, 10.1038/nphys1746]
+   Kleinberg J, 2006, P INT C MATH ICM, P1019
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Kowald M, 2013, J TRANSP GEOGR, V31, P236, DOI 10.1016/j.jtrangeo.2013.06.006
+   Lambiotte R, 2008, PHYSICA A, V387, P5317, DOI 10.1016/j.physa.2008.05.014
+   Leskovec J, 2012, ADV NEURAL INFORM PR, P539
+   Leskovec Jure, 2008, P 17 INT C WORLD WID, P915, DOI DOI 10.1145/1367497.1367620
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Moreno Y, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.066130
+   Newman MEJ, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.026121
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   Rutherford Alex, 2013, Proc Natl Acad Sci U S A, V110, P6281, DOI 10.1073/pnas.1216338110
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Scellato S., 2011, P 17 ACM SIGKDD INT, P1046, DOI DOI 10.1145/2020408.2020575
+   Simmel Georg, 1971, INDIVIDUALITY SOCIAL
+   Sun LJ, 2013, P NATL ACAD SCI USA, V110, P13774, DOI 10.1073/pnas.1306440110
+   Thiemann C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015422
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   Ugander J, 2012, P NATL ACAD SCI USA, V109, P5962, DOI 10.1073/pnas.1116502109
+   Walsh F., 2011, P 2011 WORKSH PERV U
+   Watts DJ, 2005, P NATL ACAD SCI USA, V102, P11157, DOI 10.1073/pnas.0501226102
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Watts DJ, 2002, SCIENCE, V296, P1302, DOI 10.1126/science.1070120
+NR 51
+TC 6
+Z9 6
+SN 2045-2322
+PD JUN 2
+PY 2015
+VL 5
+AR 10265
+DI 10.1038/srep10265
+UT WOS:000355608200001
+PM 26035529
+ER
+
+PT J
+AU Muneepeerakul, R
+   Castillo-Chavez, C
+AF Muneepeerakul, Rachata
+   Castillo-Chavez, Carlos
+TI Towards a Quantitative Science of Sustainability
+SO BULLETIN OF MATHEMATICAL BIOLOGY
+ID CITIES
+RI Castillo-Chavez, Carlos/E-1412-2014
+OI Castillo-Chavez, Carlos/0000-0002-1046-3901
+CR Anderies JM, 2015, B MATH BIOL, V77, P259, DOI 10.1007/s11538-014-0030-z
+   Angulo D, 2015, B MATH BIOL, V77, P368, DOI 10.1007/s11538-014-9934-x
+   Aubin J-P, 1991, VIABILITY THEORY SYS
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brander JA, 1998, AM ECON REV, V88, P119
+   Clark WC, 2010, SCI SUSTAINABILITY
+   Cobb C. W., 1928, AM ECON REV, V18, P139, DOI DOI 10.2307/1811556
+   Fenichel EP, 2015, B MATH BIOL, V77, P348, DOI 10.1007/s11538-014-9963-5
+   Gunderson L. H., 2001, PANARCHY UNDERSTANDI
+   Karev GP, 2010, J MATH BIOL, V60, P107, DOI 10.1007/s00285-009-0252-0
+   Kareva I, 2015, B MATH BIOL, V77, P319, DOI 10.1007/s11538-014-9983-1
+   Kareva I, 2013, B MATH BIOL, V75, P565, DOI 10.1007/s11538-012-9804-3
+   Muneepeerakul R, 2012, ECOL ECON, V77, P123, DOI 10.1016/j.ecolecon.2012.02.017
+   Qubbaj MR, 2015, B MATH BIOL, V77, P390, DOI 10.1007/s11538-014-9949-3
+   Ridolfi L, 2015, B MATH BIOL, V77, P339, DOI 10.1007/s11538-013-9922-6
+   Scheffer M, 2012, SCIENCE, V338, P344, DOI 10.1126/science.1225244
+   SOLOW RM, 1974, REV ECON STUD, V41, P29, DOI DOI 10.2307/2296370
+   Vico G, 2015, B MATH BIOL, V77, P298, DOI 10.1007/s11538-014-9988-9
+NR 18
+TC 0
+Z9 0
+SN 0092-8240
+EI 1522-9602
+PD FEB
+PY 2015
+VL 77
+IS 2
+SI SI
+BP 254
+EP 258
+DI 10.1007/s11538-014-0034-8
+UT WOS:000349331100002
+PM 25293714
+ER
+
+PT J
+AU Lenormand, M
+   Picornell, M
+   Cantu-Ros, OG
+   Louail, T
+   Herranz, R
+   Barthelemy, M
+   Frias-Martinez, E
+   Miguel, MS
+   Ramasco, JJ
+AF Lenormand, Maxime
+   Picornell, Miguel
+   Cantu-Ros, Oliva G.
+   Louail, Thomas
+   Herranz, Ricardo
+   Barthelemy, Marc
+   Frias-Martinez, Enrique
+   San Miguel, Maxi
+   Ramasco, Jose J.
+TI Comparing and modelling land use organization in cities
+SO ROYAL SOCIETY OPEN SCIENCE
+DE land use; network; human mobility; population distribution; call detail
+   record
+ID MOBILE PHONE DATA; USE CLASSIFICATION; SPATIAL STRUCTURE; PATTERNS;
+   NETWORKS; TWITTER; GROWTH; LIFE
+AB The advent of geolocated information and communication technologies opens the possibility of exploring how people use space in cities, bringing an important new tool for urban scientists and planners, especially for regions where data are scarce or not available. Here we apply a functional network approach to determine land use patterns from mobile phone records. The versatility of the method allows us to run a systematic comparison between Spanish cities of various sizes. The method detects four major land use types that correspond to different temporal patterns. The proportion of these types, their spatial organization and scaling show a strong similarity between all cities that breaks down at a very local scale, where land use mixing is specific to each urban area. Finally, we introduce a model inspired by Schelling's segregation, able to explain and reproduce these results with simple interaction rules between different land uses.
+RI San Miguel, Maxi/G-3224-2015; Ramasco, Jose J/F-2860-2010
+OI San Miguel, Maxi/0000-0001-6237-425X; Ramasco, Jose
+   J/0000-0003-2499-6095; Louail, Thomas/0000-0001-8563-6881
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Badoe DA, 2000, TRANSPORT RES D-TR E, V5, P235, DOI 10.1016/S1361-9209(99)00036-X
+   Bartholomew K, 2007, TRANSPORTATION, V34, P397, DOI 10.1007/s11116-006-9108-2
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty Michael., 2013, NEW SCI CITIES
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Cervero R, 1997, TRANSPORT RES D-TR E, V2, P199, DOI 10.1016/S1361-9209(97)00009-6
+   Cervero R, 2002, TRANSPORT RES D-TR E, V7, P265, DOI 10.1016/S1361-9209(01)00024-4
+   Decraene J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0080309
+   Deville P, 2014, P NATL ACAD SCI USA, V111, P15888, DOI 10.1073/pnas.1408439111
+   Donnay JP, 2001, REMOTE SENSING URBAN, P205
+   Feng X, 2011, EVOLVING TRANSPORTAT
+   Frias-Martinez V, 2014, INT J AD HOC UBIQ CO, V17, P39, DOI 10.1504/IJAHUC.2014.065157
+   Frias-Martinez V, 2014, ENG APPL ARTIF INTEL, V35, P237, DOI 10.1016/j.engappai.2014.06.019
+   Frias-Martinez V, 2012, Proceedings of 2012 ASE/IEEE International Conference on Privacy, Security, Risk and Trust and 2012 ASE/IEEE International Conference on Social Computing (SocialCom/PASSAT 2012), P239, DOI 10.1109/SocialCom-PASSAT.2012.19
+   Geurs K.T., 2004, J TRANSP GEOGR, V12, P127, DOI DOI 10.1016/J.JTRANGEO.2003.10.005
+   Goncalves B, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0112074
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grauwin S, 2015, GEOTECH ENVIRON, V13, P363, DOI 10.1007/978-3-319-11469-9_15
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Hu SG, 2013, INT J REMOTE SENS, V34, P790, DOI 10.1080/01431161.2012.714510
+   Humphries C, 2012, NATURE, V491, P514, DOI 10.1038/491514a
+   Krugman P. R., 1996, SELF ORG EC
+   Krygsman S., 2004, TRANSPORT POLICY, V11, P265, DOI DOI 10.1016/J.TRANPOL.2003.12.001
+   Lenormand M, 2015, SCI REP, V5, P10075, DOI [10.1038/srep10075, DOI 10.1038/SREP10075]
+   Lenormand M, 2015, HUMAN DIFFUSION CITY
+   Lenormand M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105407
+   Lenormand M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105184
+   Llorente A, 2014, SOCIAL MEDIA FINGERP
+   Louail T, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7007
+   Louail T, 2014, SCI REP-UK, V4, DOI 10.1038/srep05276
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   NOULAS A, 2013, P MDM 13 3 6 JUN MIL, P167, DOI DOI 10.1109/MDM.2013.27
+   Pei T, 2014, INT J GEOGR INF SCI, V28, P1988, DOI 10.1080/13658816.2014.913794
+   Reades J, 2007, IEEE PERVAS COMPUT, V6, P30, DOI 10.1109/MPRV.2007.53
+   Reades J, 2009, ENVIRON PLANN B, V36, P824, DOI 10.1068/b34133t
+   RIPLEY BD, 1976, J APPL PROBAB, V13, P255, DOI 10.2307/3212829
+   Rosvall M, 2008, P NATL ACAD SCI USA, V105, P1118, DOI 10.1073/pnas.0706851105
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Sallis JF, 2009, SOC SCI MED, V68, P1285, DOI 10.1016/j.socscimed.2009.01.017
+   SCHELLING TC, 1971, J MATH SOCIOL, V1, P143, DOI 10.1080/0022250X.1971.9989794
+   Soto Victor, 2011, P 3 ACM INT WORKSH M, P17, DOI [10.1145/2000172.2000179, DOI 10.1145/2000172.2000179]
+   Tizzoni M, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003716
+   Toole Jameson L., 2012, P ACM SIGKDD INT WOR, P1, DOI [10.1145/2346496.2346498, DOI 10.1145/2346496.2346498]
+   Tsai YH, 2005, URBAN STUD, V42, P141, DOI 10.1080/004209804200309748
+   Waddell P, 2007, TRANSPORT RES A-POL, V41, P382, DOI 10.1016/j.tra.2006.09.008
+   WILSON AG, 1969, J TRANSP ECON POLICY, V3, P108
+   Wu SS, 2006, PHOTOGRAMM ENG REM S, V72, P813, DOI 10.14358/PERS.72.7.813
+   Yang X, 2002, INT J REMOTE SENS, V23, P1775, DOI 10.1080/01431160110075802
+NR 55
+TC 11
+Z9 11
+SN 2054-5703
+PD DEC
+PY 2015
+VL 2
+IS 12
+AR 150449
+DI 10.1098/rsos.150449
+UT WOS:000377968100014
+PM 27019730
+ER
+
+PT J
+AU Ludden, J
+   Peach, D
+   Flight, D
+AF Ludden, John
+   Peach, Denis
+   Flight, Dee
+TI Geochemically Based Solutions for Urban Society: London, A Case Study
+SO ELEMENTS
+DE London; geochemistry; soils; water; atmosphere; communicators
+ID GEOLOGICAL MODEL; GREAT-BRITAIN; UK; ENGLAND
+AB Geochemical data and models can provide a baseline by which to compare changes in the composition of surface waters, groundwater, the atmosphere, soils, and sediments in the coastal megacity of London. The usefulness of geochemical data is dependent on effective communication, which can be challenging. Geochemical tools and approaches can provide evidence to underpin decision making as well as solutions to environmental problems in cities. Geochemists must move beyond simple provision of evidence to describing a solution and then convincing politicians to put this solution into practice.
+CR Aldiss DT, 2012, Q J ENG GEOL HYDROGE, V45, P405, DOI 10.1144/qjegh2011-066
+   Allen M. A., 2011, MAPPING CHEM ENV URB, P28
+   Ander EL, 2013, SCI TOTAL ENVIRON, V454, P604, DOI 10.1016/j.scitotenv.2013.03.005
+   Appleton JD, 2013, APPL GEOCHEM, V39, P169, DOI 10.1016/j.apgeochem.2013.07.010
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BGS, 2011, LOND EARTH
+   Bloomfield JP, 2011, HYDROL PROCESS, V25, P2518, DOI 10.1002/hyp.8024
+   Bohnenstengel SI, 2015, B AM METEOROL SOC, V96, P779, DOI 10.1175/BAMS-D-12-00245.1
+   Bryan NS, 2006, FREE RADICAL BIO MED, V41, P691, DOI 10.1016/j.freeradbiomed.2006.05.019
+   C.O.M.E.A.P. COMEAP, 2010, MORT EFF LONG TERM E
+   Defra, 2006, ADAS REP DEFR SUPP P
+   Environment Agency, 2009, WAT LIF LIV
+   Flight D.M.A., 2011, MAPPING CHEM ENV URB, P186
+   Howden NJK, 2011, WATER RESOUR RES, V47, DOI 10.1029/2011WR010843
+   Hughes AG, 2011, J FLOOD RISK MANAG, V4, P143, DOI 10.1111/j.1753-318X.2011.01095.x
+   Johnson CC, 2005, GEOCHEM-EXPLOR ENV A, V5, P347, DOI 10.1144/1467-7873/05-070
+   Johnson CC, 2011, OR09028 BRIT GEOL SU
+   Lee JD, 2015, ENVIRON SCI TECHNOL, V49, P1025, DOI 10.1021/es5049072
+   Mathers SJ, 2014, P GEOLOGIST ASSOC, V125, P373, DOI 10.1016/j.pgeola.2014.09.001
+   Royse KR, 2012, P GEOLOGIST ASSOC, V123, P22, DOI 10.1016/j.pgeola.2011.07.005
+   Sutton M., 2011, EUROPEAN NITROGEN AS
+   Vane CH, 2014, APPL GEOCHEM, V51, P303, DOI 10.1016/j.apgeochem.2014.09.013
+   Wang L, 2012, HYDROL PROCESS, V26, P226, DOI 10.1002/hyp.8164
+   Warneke T, 2002, EARTH PLANET SC LETT, V203, P1047, DOI 10.1016/S0012-821X(02)00930-5
+   Wong CI, 2012, ELEMENTS, V8, P429, DOI 10.2113/gselements.8.6.429
+NR 25
+TC 3
+Z9 3
+SN 1811-5209
+EI 1811-5217
+PD AUG
+PY 2015
+VL 11
+IS 4
+BP 253
+EP 258
+DI 10.2113/gselements.11.4.253
+UT WOS:000359893900007
+ER

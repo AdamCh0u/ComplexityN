@@ -1,0 +1,569 @@
+
+PT J
+AU Kolbe, SE
+   Miller, AI
+   Cameron, GN
+   Culley, TM
+AF Kolbe, Sarah E.
+   Miller, Arnold I.
+   Cameron, Guy N.
+   Culley, Theresa M.
+TI Effects of natural and anthropogenic environmental influences on tree
+   community composition and structure in forests along an urban-wildland
+   gradient in southwestern Ohio
+SO URBAN ECOSYSTEMS
+LA English
+DT Article
+DE Urbanization; Anthropogenic effects; Tree composition; Gradient
+   analysis; Regression trees
+ID SPECIES RICHNESS; PLANT INVASIONS; BIODIVERSITY; URBANIZATION;
+   LANDSCAPE; ECOLOGY; HABITAT; AREAS; CONSERVATION; SOIL
+AB Unprecedented population growth and urban expansion are rapidly transforming natural and agricultural settings into highly modified urban and suburban landscapes in developed areas worldwide. A myriad of anthropogenic environmental disturbances invariably accompany such dramatic shifts in land use, and disentangling the effects of these multiple stresses on ecosystem variation pose major challenges as the world's urban population continues to increase. Here, we quantitatively characterized environmentally-mediated variation in tree-community composition along an Urban-Wildland gradient in southwestern Ohio, using tree censuses conducted in sample plots at six study sites categorized as Urban, Exurban, or Wildland based on analyses of a broad suite of natural and anthropogenic environmental variables. Several direct measures of the tree-census data, including species richness, abundance, diversity metrics, and evenness, exhibited significant increases from Urban to Wildland sites. Non-Metric Multidimensional Scaling (NMDS) showed that tree composition within study plots also varied systematically along the gradient, with significant differences among sites captured primarily on NMDS Axis 1. The dominant tree species at Urban and Exurban sites was Acer saccharum (sugar maple). While this species was also abundant at Wildland sites, two other species, Asimina triloba (paw paw) and Juniperus virginiana (red cedar) tended to be more abundant. Regression-tree analyses demonstrated that tree-community composition was controlled by a complex combination of natural and anthropogenic factors, with primary roles for population density and other indicators of urbanization at broader and intermediate scales; natural factors, such as aspect, soil drainage, elevation, slope, and soil pH were important in differentiating among Urban, Exurban, and Wildland sites already primarily categorized by anthropogenic agents.
+C1 [Kolbe, Sarah E.; Miller, Arnold I.] Univ Cincinnati, Dept Geol, Cincinnati, OH 45221 USA.
+   [Cameron, Guy N.; Culley, Theresa M.] Univ Cincinnati, Dept Biol Sci, Cincinnati, OH 45221 USA.
+RP Miller, AI (reprint author), Univ Cincinnati, Dept Geol, Cincinnati, OH 45221 USA.
+EM arnold.miller@uc.edu
+OI Culley, Theresa/0000-0001-8656-4330
+FU University Research Council, University of Cincinnati
+FX We thank M. Becus, D. Buick, J. M. Foote, S. Jacob, D. Lentz, J.
+   Wittmer, and J. Zambito for assistance with field work and The Division
+   of Wildlife, Ohio Department of Natural Resources, for allowing us
+   access to their property. We especially thank those preserve managers
+   who granted us permission to work on their property and assisted with
+   selection of study sites including: J. Klein, B. Mason, and J. Mundy,
+   Great Parks of Hamilton County; R. Morgan, East Fork Wildlife Area; R.
+   Adams, Tranquility Wildlife Area; P. Whan and R. McCarty, Edge of
+   Appalachia Preserve, The Nature Conservancy; L. Parker, Cincinnati Park
+   Board, Cincinnati Parks. We also thank C. Bedel, Cincinnati Museum
+   Center, who arranged for housing during our field work at the Edge of
+   Appalachia. Our research was funded by an Interdisciplinary Grant from
+   the University Research Council, University of Cincinnati.
+CR Alston KP, 2006, BIOL CONSERV, V132, P183, DOI 10.1016/j.biocon.2006.03.023
+   Boal CW, 1999, J WILDLIFE MANAGE, V63, P77, DOI 10.2307/3802488
+   Bock CE, 2006, CONSERV BIOL, V20, P1242, DOI 10.1111/j.1523-1739.2006.00419.x
+   Bolund P, 1999, ECOL ECON, V29, P293, DOI 10.1016/S0921-8009(99)00013-0
+   Breiman L, 1984, CLASSIFICATION REGRE
+   Brueckner JK, 2000, INT REGIONAL SCI REV, V23, P160, DOI 10.1177/016001700761012710
+   Buczkowski G, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0041729
+   Cameron GN, 2015, URBAN ECOSYST, V18, P1051, DOI 10.1007/s11252-015-0472-6
+   Culley TM, 2016, J TORREY BO IN PRESS
+   Dallimer M, 2012, DIVERS DISTRIB, V18, P742, DOI 10.1111/j.1472-4642.2012.00891.x
+   De Kimpe CR, 2000, SOIL SCI, V165, P31, DOI 10.1097/00010694-200001000-00005
+   Dearborn DC, 2010, CONSERV BIOL, V24, P432, DOI 10.1111/j.1523-1739.2009.01328.x
+   Denys C, 1998, OECOLOGIA, V113, P269, DOI 10.1007/s004420050378
+   FAITH DP, 1987, VEGETATIO, V69, P57, DOI 10.1007/BF00038687
+   Gelbard JL, 2003, CONSERV BIOL, V17, P420, DOI 10.1046/j.1523-1739.2003.01408.x
+   Germaine SS, 2001, BIOL CONSERV, V97, P229, DOI 10.1016/S0006-3207(00)00115-4
+   Green DM, 1997, PLANT INVASIONS: STUDIES FROM NORTH AMERICA AND EUROPE, P37
+   Hamilton AJ, 2005, J ENVIRON MANAGE, V75, P89, DOI 10.1016/j.jenvman.2004.11.012
+   Hooper DU, 2005, ECOL MONOGR, V75, P3, DOI 10.1890/04-0922
+   Keesing F, 2006, ECOL LETT, V9, P485, DOI 10.1111/j.1461-0248.2006.00885.x
+   Kim KH, 2005, INT J SUST DEV WORLD, V12, P227, DOI 10.1080/13504500509469634
+   KOWARIK I, 1995, PLANT INVASIONS, P85
+   Kristan WB, 2003, ECOGRAPHY, V26, P29, DOI 10.1034/j.1600-0587.2003.03341.x
+   Legendre P, 2001, OECOLOGIA, V129, P271, DOI 10.1007/s004420100716
+   Lessard JP, 2009, ECOLOGY, V90, P2664, DOI 10.1890/09-0503.1
+   Loeb Susan C., 2009, Urban Ecosystems, V12, P197, DOI 10.1007/s11252-008-0075-6
+   Lofvenhaft K, 2002, LANDSCAPE URBAN PLAN, V58, P223, DOI 10.1016/S0169-2046(01)00223-7
+   Mack RN, 2001, BIOSCIENCE, V51, P95, DOI 10.1641/0006-3568(2001)051[0095:HAGPDG]2.0.CO;2
+   Maestas JD, 2003, CONSERV BIOL, V17, P1425, DOI 10.1046/j.1523-1739.2003.02371.x
+   Marzluff John M., 2001, P19
+   McDonnell MJ, 2008, LANDSCAPE ECOL, V23, P1143, DOI 10.1007/s10980-008-9253-4
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   McKinney ML, 2002, BIOSCIENCE, V52, P883, DOI 10.1641/0006-3568(2002)052[0883:UBAC]2.0.CO;2
+   MEDLEY KE, 1995, PROF GEOGR, V47, P159, DOI 10.1111/j.0033-0124.1995.00159.x
+   Moffatt SF, 2004, PLANT ECOL, V174, P119, DOI 10.1023/B:VEGE.0000046055.27285.fd
+   Moyle PB, 2006, BIOSCIENCE, V56, P515, DOI 10.1641/0006-3568(2006)56[515:PISFFI]2.0.CO;2
+   Nelson A.C., 1992, J PLAN LIT, V6, P350, DOI DOI 10.1177/088541229200600402
+   Niemela J, 1999, BIODIVERS CONSERV, V8, P119, DOI 10.1023/A:1008817325994
+   Nowak D. J., 2007, URBAN COMMUNITY FORE, P25, DOI DOI 10.1007/978-1-4020-4289-8_2
+   Oksanen J., 2009, VEGAN COMMUNITY ECOL
+   Pautasso M, 2007, ECOL LETT, V10, P16, DOI 10.1111/j.1461-0248.2006.00993.x
+   PORTER EE, 2001, URBAN ECOSYST, V5, P131, DOI DOI 10.1023/A:1022391721622
+   Pouyat RV, 2008, LANDSCAPE ECOL, V23, P1187, DOI 10.1007/s10980-008-9288-6
+   POUYAT RV, 1994, PEDOBIOLOGIA, V38, P385
+   R Development Core Team, 2009, R LANG ENV STAT COMP
+   Radeloff VC, 2005, ECOL APPL, V15, P799, DOI 10.1890/04-1413
+   Randa LA, 2006, J MAMMAL, V87, P1154, DOI 10.1644/05-MAMM-A-224R2.1
+   REBELE F, 1994, GLOBAL ECOL BIOGEOGR, V4, P173, DOI 10.2307/2997649
+   Ries L, 2004, ANNU REV ECOL EVOL S, V35, P491, DOI 10.1146/annurev.ecolsys.35.112202.130148
+   RIPLEY B, 2009, TREE CLASSIFICATION
+   Rudd H, 2002, RESTOR ECOL, V10, P368, DOI 10.1046/j.1526-100X.2002.02041.x
+   Savard JPL, 2000, LANDSCAPE URBAN PLAN, V48, P131, DOI 10.1016/S0169-2046(00)00037-2
+   Stradling D, 2011, OHIO VALLEY HIST, V11, P25
+   Theobald DM, 2004, FRONT ECOL ENVIRON, V2, P139, DOI 10.2307/3868239
+   U.S. Census Bureau, 2008, CBSAEST200805 US CEN
+   Walker JS, 2009, FRONT ECOL ENVIRON, V7, P465, DOI 10.1890/080084
+   Wang LZ, 2006, AM FISH S S, V48, P199
+   Wilder SM, 2005, OECOLOGIA, V144, P391, DOI 10.1007/s00442-005-0086-4
+   Zerbe S, 2003, LANDSCAPE URBAN PLAN, V62, P139, DOI 10.1016/S0169-2046(02)00145-7
+NR 59
+TC 4
+Z9 5
+U1 4
+U2 52
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1083-8155
+EI 1573-1642
+J9 URBAN ECOSYST
+JI Urban Ecosyst.
+PD JUN
+PY 2016
+VL 19
+IS 2
+BP 915
+EP 938
+DI 10.1007/s11252-016-0531-7
+PG 24
+WC Biodiversity Conservation; Ecology; Environmental Sciences; Urban
+   Studies
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Urban
+   Studies
+GA DV1HF
+UT WOS:000382671000025
+DA 2019-03-26
+ER
+
+PT J
+AU Quinay, PEB
+   Ichimura, T
+AF Quinay, Pher Errol B.
+   Ichimura, Tsuyoshi
+TI An Improved Fault-to-Site Analysis Tool Towards Fully HPC-Enhanced
+   Physics-Based Urban Area Response Estimation
+SO JOURNAL OF EARTHQUAKE AND TSUNAMI
+LA English
+DT Article; Proceedings Paper
+CT K Computer Workshop on Earthquake and Tsunami Simulation
+CY MAR 08-09, 2016
+CL Kobe, JAPAN
+DE Fault-to-site analysis; high-performance computing; urban earthquake
+   response analysis
+ID EARTHQUAKE SIMULATION; DISASTER
+AB This paper describes the improvement to a fault-to-site analysis tool for use in a fully HPC-enhanced physics-based urban earthquake response analysis. We developed a three-step procedure, involving coarse and refined partitioning for the preprocessing stage, that achieves good balance in computational load and FE nodes used in communications. An end-to-end approach to computing in K computer was also implemented. The results of strong-and weak-scaling tests validate the capability of the tool for application to dynamic analysis involving billions of unknowns. In application to reproduction of observed ground motions, improvements in solution in comparison with previously conducted validations were obtained. The tool was also used to generate synthetic ground motions for analyzing the response of thousands of buildings in an urban area due to a scenario earthquake.
+C1 [Quinay, Pher Errol B.] Niigata Univ, Res Inst Nat Hazards & Disaster Recovery, Nishi Ku, 8050 Ikarashi 2 No Cho, Niigata, Niigata 9502181, Japan.
+   [Ichimura, Tsuyoshi] Univ Tokyo, Earthquake Res Inst, Bunkyo Ku, 1-1-1 Yayoi, Tokyo 1130032, Japan.
+RP Quinay, PEB (reprint author), Niigata Univ, Res Inst Nat Hazards & Disaster Recovery, Nishi Ku, 8050 Ikarashi 2 No Cho, Niigata, Niigata 9502181, Japan.
+EM quinay.phererrol@gmail.com; ichimura@eri.u-tokyo.ac.jp
+CR [Anonymous], JAP NAT RES I EARTH
+   [Anonymous], JAP NAT RES I EARTH
+   [Anonymous], BROADB SEISM NETW JA
+   Cui Y, 2010, P 2010 ACM IEEE INT, P1, DOI DOI 10.1109/SC.2010.45
+   Fujita K, 2015, PROCEDIA COMPUT SCI, V51, P1483, DOI 10.1016/j.procs.2015.05.338
+   Homma S, 2014, PROCEDIA COMPUT SCI, V29, P855, DOI 10.1016/j.procs.2014.05.077
+   Hori M, 2008, J SEISMOL, V12, P307, DOI 10.1007/s10950-007-9083-x
+   Ichimura T, 2009, GEOPHYS J INT, V177, P1221, DOI 10.1111/j.1365-246X.2009.04154.x
+   Ichimura Tsuyoshi, 2015, P INT C HIGH PERF CO, P1
+   KIKUCHI M, 1993, B SEISMOL SOC AM, V83, P1855
+   Quinay P. E., 2014, J APPL MECH, VA2 70, pI 543
+   Quinay PEB, 2013, B SEISMOL SOC AM, V103, P2094, DOI 10.1785/0120120216
+   Taborda R, 2011, COMPUT SCI ENG, V13, P14, DOI 10.1109/MCSE.2011.19
+   TU T, 2006, P 2006 ACM IEEE INT, P15
+   Wijerathne MLL, 2013, J COMPUT CIVIL ENG, V27, P570, DOI 10.1061/(ASCE)CP.1943-5487.0000235
+NR 15
+TC 1
+Z9 1
+U1 0
+U2 3
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 1793-4311
+EI 1793-7116
+J9 J EARTHQ TSUNAMI
+JI J. Earthq. Tsunami
+PD DEC
+PY 2016
+VL 10
+IS 5
+SI SI
+AR 1640018
+DI 10.1142/S1793431116400182
+PG 17
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA EF8UG
+UT WOS:000390604900007
+DA 2019-03-26
+ER
+
+PT J
+AU Ness, JH
+   Pfeffer, M
+   Stark, J
+   Guest, A
+   Combs, LJ
+   Nathan, E
+AF Ness, J. H.
+   Pfeffer, M.
+   Stark, J.
+   Guest, A.
+   Combs, L. J.
+   Nathan, E.
+TI In an arid urban matrix, fragment size predicts access to frugivory and
+   rain necessary for plant population persistence
+SO ECOSPHERE
+LA English
+DT Article
+DE arid; biogeography; biomass; climate; frugivory; granivory; landscape;
+   mutualism; patch size; phenology; precipitation; Sonoran Desert
+ID FEROCACTUS-WISLIZENI CACTACEAE; DESERT MULE DEER; HABITAT FRAGMENTATION;
+   SEED DISPERSAL; FOREST FRAGMENTATION; SOUTHERN CALIFORNIA; LANDSCAPE
+   STRUCTURE; CHIHUAHUAN DESERT; PROTECTED AREAS; LAND-USE
+AB Cities annex wilderness and alter the interactions between the plant and animal assemblages embedded in the remaining nature fragments. Here, we explore consequences of habitat fragmentation for dispersal of cactus by fruit-eating mammals in the Sonoran Desert landscape. We use the barrel cactus, Ferocactus wislizeni, as a model system to diagnose (1) how fruit utilization by a mammal assemblage changes with fragment area and isolation, (2) what characteristics make individual plants particularly susceptible to frugivore failure, and (3) how inter-fragment differences in plant-frugivore interactions influence the seedlings' susceptibility to other stressors (granivores and drought). We described the type and phenology of plant-animal interactions in 20 fragments along a 0.05-500 ha size continuum within a large city (Tucson, Arizona, USA), and combined allometric scaling models of mammalian home ranges and descriptions of plant size distributions to predict the fraction of the fruit crops accessible to resident mammalian frugivores in each fragment. Fruit removal rates generally increased along a continuum of fragment sizes, and older, taller plants were particularly susceptible to frugivore failure and more likely to have fruits attacked by granivorous rodents. As a result, thresholds where the nature and/or phenology of a plant's interactions with animals changes can be accurately predicted by integrating descriptions of fragment size, fragment isolation, and plant population structure. Last, we found support for the hypothesis that fragmentation-induced changes in the phenology of fruit removal compromise the seedlings' ability to exploit precipitation delivered in winter and spring. Specifically, as a result of slower fruit removal, the seed crops in small fragments forfeit access to an increasing proportion of the rains between October and March, which determine whether cactus seedlings can survive the following dry season (April, May, June). We expect these inter-site differences in the type and phenology of interactions to compromise the integrity of plant populations in smaller fragments, to become increasingly influential in ecological settings in the Sonoran Desert where access to precipitation is essential, and to become increasingly prevalent as the plants in newly fragmented plant populations age (grow) to sizes that are more susceptible to frugivore failure in the defaunated landscapes.
+C1 [Ness, J. H.; Nathan, E.] Skidmore Coll, Dept Biol, 815 North Broadway, Saratoga Springs, NY 12866 USA.
+   [Pfeffer, M.; Stark, J.; Guest, A.; Combs, L. J.] Skidmore Coll, Environm Studies Program, 815 North Broadway, Saratoga Springs, NY 12866 USA.
+RP Ness, JH (reprint author), Skidmore Coll, Dept Biol, 815 North Broadway, Saratoga Springs, NY 12866 USA.
+EM jness@skidmore.edu
+FU Skidmore College
+FX This work was supported by Skidmore College and a donation from the
+   Cargill Foundation to the college. It was improved by conversations with
+   CA Gibson, WL Whitlow, M Pavao-Zuckerman, BE Jackson, E Schielke, and B
+   Fiero, and the feedback provided by E Ribbens and several anonymous
+   reviewers.
+CR Ahrends A, 2010, P NATL ACAD SCI USA, V107, P14556, DOI 10.1073/pnas.0914471107
+   Aslan CE, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066993
+   Atwood T. C., 2004, J WILDLIFE MANAGEMEN
+   Bellantoni Elizabeth S., 1993, Transactions of the North American Wildlife and Natural Resources Conference, V58, P92
+   BELLANTONI ES, 1993, SOUTHWEST NAT, V38, P345, DOI 10.2307/3671613
+   Benson L., 1950, THE CACTI OF ARIZONA
+   Best T.L., 1990, Mammalian Species, P1
+   Betts MG, 2007, CONSERV BIOL, V21, P1046, DOI 10.1111/j.1523-1739.2007.00723.x
+   Bolger DT, 1997, ECOL APPL, V7, P552
+   Bowers J. E., 1998, DESERT PLANTS, V14, P3
+   Bowers JE, 2000, J ARID ENVIRON, V45, P197, DOI 10.1006/jare.2000.0642
+   Bowers JE, 2001, SOUTHWEST NAT, V46, P272, DOI 10.2307/3672423
+   Brock C. E., 2002, CONSERV BIOL, V16, P1653
+   Brodie JF, 2012, RESTOR ECOL, V20, P153, DOI 10.1111/j.1526-100X.2011.00833.x
+   Brodie JF, 2009, ECOL APPL, V19, P854, DOI 10.1890/08-0955.1
+   Brotons L, 2003, AM NAT, V162, P343, DOI 10.1086/376887
+   Bruna EM, 2005, BIOL CONSERV, V124, P209, DOI 10.1016/j.biocon.2005.01.026
+   Burkle LA, 2012, ECOLOGY, V93, P2329, DOI 10.1890/12-0367.1
+   Callaway R.M., 2007, POSITIVE INTERACTION
+   Cane James H., 2005, P109
+   Cane JH, 2006, ECOL APPL, V16, P632, DOI 10.1890/1051-0761(2006)016[0632:CRWADB]2.0.CO;2
+   Collinge SK, 2005, LANDSCAPE ECOL, V20, P941, DOI 10.1007/s10980-005-4617-5
+   Cordeiro NJ, 2003, P NATL ACAD SCI USA, V100, P14052, DOI 10.1073/pnas.2331023100
+   Crooks KR, 1999, NATURE, V400, P563, DOI 10.1038/23028
+   Crooks KR, 2002, CONSERV BIOL, V16, P488, DOI 10.1046/j.1523-1739.2002.00386.x
+   Cunningham SC, 2006, WEST N AM NATURALIST, V66, P169, DOI 10.3398/1527-0904(2006)66[169:GFACAA]2.0.CO;2
+   Dobson A, 2006, ECOLOGY, V87, P1915, DOI 10.1890/0012-9658(2006)87[1915:HLTCAT]2.0.CO;2
+   DUTOIT JT, 1990, AFR J ECOL, V28, P55, DOI 10.1111/j.1365-2028.1990.tb01136.x
+   EDDY THOMAS A., 1961, JOUR WILDLIFE MANAGEMENT, V25, P248, DOI 10.2307/3797850
+   Emer C, 2013, CONSERV BIOL, V27, P763, DOI 10.1111/cobi.12045
+   Faeth SH, 2005, BIOSCIENCE, V55, P399, DOI 10.1641/0006-3568(2005)055[0399:TDIUC]2.0.CO;2
+   Faeth SH, 2011, ANN NY ACAD SCI, V1223, P69, DOI 10.1111/j.1749-6632.2010.05925.x
+   Fedriani JM, 2001, ECOGRAPHY, V24, P325, DOI 10.1034/j.1600-0587.2001.240310.x
+   FLEMING TH, 1994, J MAMMAL, V75, P845, DOI 10.2307/1382466
+   FRANCO AC, 1989, J ECOL, V77, P870, DOI 10.2307/2260991
+   George SL, 2006, BIOL CONSERV, V133, P107, DOI 10.1016/j.biocon.2006.05.024
+   Godinez-Alvarez H, 2002, ECOLOGY, V83, P2617, DOI 10.2307/3071819
+   Gonzalez-Espinosa M, 1986, FRUGIVORES SEED DISP, P273
+   Grinder MI, 2001, J WILDLIFE MANAGE, V65, P887, DOI 10.2307/3803038
+   Grubbs SE, 2009, SOUTHWEST NAT, V54, P1, DOI 10.1894/MLK-05.1
+   Grunewald C, 2010, BASIC APPL ECOL, V11, P532, DOI 10.1016/j.baae.2010.07.007
+   Hadley AS, 2014, ECOLOGY, V95, P2202, DOI 10.1890/13-0929.1
+   Hahs AK, 2009, ECOL LETT, V12, P1165, DOI 10.1111/j.1461-0248.2009.01372.x
+   Hansen AJ, 2014, ECOL APPL, V24, P484, DOI 10.1890/13-0905.1
+   Harrison RL, 1997, J WILDLIFE MANAGE, V61, P112, DOI 10.2307/3802420
+   Herrerias-Diego Y, 2008, BIOL CONSERV, V141, P241, DOI 10.1016/j.biocon.2007.09.017
+   Holland JN, 2013, J VEG SCI, V24, P1053, DOI 10.1111/jvs.12021
+   Irwin RE, 2001, OECOLOGIA, V129, P161, DOI 10.1007/s004420100739
+   Jansen PA, 2012, P NATL ACAD SCI USA, V109, P12610, DOI 10.1073/pnas.1205184109
+   JANZEN DH, 1986, ANNU REV ECOL SYST, V17, P595
+   Johnson WC, 2004, BIOL CONSERV, V115, P487, DOI 10.1016/S0006-3207(03)00165-4
+   JORDAN PW, 1979, AM J BOT, V66, P1079, DOI 10.2307/2442574
+   JORDAN PW, 1981, ECOLOGY, V62, P901, DOI 10.2307/1936987
+   Karasov WH, 2007, PHYSL ECOLOGY ANIMAL
+   Kelt DA, 2001, AM NAT, V157, P637, DOI 10.1086/320621
+   Krausman PR, 1997, J RANGE MANAGE, V50, P513, DOI 10.2307/4003707
+   Livingston M, 2003, LANDSCAPE URBAN PLAN, V64, P131, DOI 10.1016/S0169-2046(02)00217-7
+   Lloyd P, 2005, ECOL APPL, V15, P1504, DOI 10.1890/04-1243
+   Loayza AP, 2010, ECOLOGY, V91, P2684, DOI 10.1890/09-0480.1
+   Lopez-Bao JV, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0014569
+   Luck M, 2002, LANDSCAPE ECOL, V17, P327, DOI 10.1023/A:1020512723753
+   MACEDO R, 1988, MAMMALIAN SPECIES, V310, P1
+   Malo JE, 2011, ACTA OECOL, V37, P249, DOI 10.1016/j.actao.2011.02.008
+   Mandujano MD, 1997, J ARID ENVIRON, V36, P259
+   Mantyka-Pringle CS, 2012, GLOBAL CHANGE BIOL, V18, P1239, DOI 10.1111/j.1365-2486.2011.02593.x
+   Markl JS, 2012, CONSERV BIOL, V26, P1072, DOI 10.1111/j.1523-1739.2012.01927.x
+   Markovchick-Nicholls L, 2008, CONSERV BIOL, V22, P99, DOI 10.1111/j.1523-1739.2007.00846.x
+   McConkey KR, 2012, BIOL CONSERV, V146, P1, DOI 10.1016/j.biocon.2011.09.018
+   McConkey KR, 2006, ECOLOGY, V87, P271, DOI 10.1890/05-0386
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Montiel S, 2000, PLANT ECOL, V146, P221
+   NEAL BOBBY J., 1959, AMER MIDLAND NAT, V61, P177, DOI 10.2307/2422349
+   NEWMARK WD, 1995, CONSERV BIOL, V9, P512, DOI 10.1046/j.1523-1739.1995.09030512.x
+   Novak RM, 1999, WALKERS MAMMALS WORL
+   O'Connell TJ, 2000, ECOL APPL, V10, P1706, DOI 10.1890/1051-0761(2000)010[1706:BGAIOE]2.0.CO;2
+   Parks SA, 2002, CONSERV BIOL, V16, P800, DOI 10.1046/j.1523-1739.2002.00288.x
+   Passmore HA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040803
+   Pauw A, 2012, ECOL SOC, V17, DOI 10.5751/ES-04758-170227
+   Radeloff VC, 2010, P NATL ACAD SCI USA, V107, P940, DOI 10.1073/pnas.0911131107
+   Sabatino M, 2010, ECOL APPL, V20, P1491, DOI 10.1890/09-1626.1
+   Schleuning M, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0027785
+   Seager R, 2007, SCIENCE, V316, P1181, DOI 10.1126/science.1139601
+   Shochat E, 2010, BIOSCIENCE, V60, P199, DOI 10.1525/bio.2010.60.3.6
+   SHORT HL, 1977, J RANGE MANAGE, V30, P206, DOI 10.2307/3897471
+   Silverstein RP, 2005, SOUTHWEST NAT, V50, P472, DOI 10.1894/0038-4909(2005)050[0472:GONAEP]2.0.CO;2
+   SOULE ME, 1992, OIKOS, V63, P39, DOI 10.2307/3545514
+   Swihart RK, 2003, DIVERS DISTRIB, V9, P1, DOI 10.1046/j.1472-4642.2003.00158.x
+   Terborgh J, 2001, SCIENCE, V294, P1923, DOI 10.1126/science.1064397
+   Truett J. C., 1972, THESIS
+   Tull JC, 2007, SOUTHWEST NAT, V52, P104, DOI 10.1894/0038-4909(2007)52[104:HUOAFL]2.0.CO;2
+   Turner R. M., 1995, SONORAN DESERT PLANT
+   Valladares G, 2006, CONSERV BIOL, V20, P212, DOI 10.1111/j.1523-1739.2006.00337.x
+   Venable D. Lawrence, 1999, P115
+   White R. W., 1961, Journal of Wildlife Management, V25, P404, DOI 10.2307/3798829
+   WITH KA, 1995, ECOLOGY, V76, P2446, DOI 10.2307/2265819
+   Woodroffe R, 1998, SCIENCE, V280, P2126, DOI 10.1126/science.280.5372.2126
+   ZIMMER K, 1980, GARTENBAUWISSENSCHAF, V45, P121
+   Zollner PA, 2000, LANDSCAPE ECOL, V15, P523, DOI 10.1023/A:1008154532512
+NR 99
+TC 0
+Z9 0
+U1 2
+U2 26
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 2150-8925
+J9 ECOSPHERE
+JI Ecosphere
+PD JUN
+PY 2016
+VL 7
+IS 6
+AR UNSP e01284
+DI 10.1002/ecs2.1284
+PG 19
+WC Ecology
+SC Environmental Sciences & Ecology
+GA DP5GA
+UT WOS:000378523100002
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Akseer, N
+   Bhatti, Z
+   Rizvi, A
+   Salehi, AS
+   Mashal, T
+   Bhutta, ZA
+AF Akseer, Nadia
+   Bhatti, Zaid
+   Rizvi, Arjumand
+   Salehi, Ahmad S.
+   Mashal, Taufiq
+   Bhutta, Zulfiqar A.
+TI Coverage and inequalities in maternal and child health interventions in
+   Afghanistan
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Afghanistan; Maternal; Child; Interventions; Health; Equity; Equality
+ID SOCIOECONOMIC INEQUALITIES; SERVICES; COUNTRIES; COUNTDOWN; NEWBORN;
+   EQUITY; COST; STILLBIRTHS; NUTRITION; MORTALITY
+AB Background: Afghanistan has made considerable gains in improving maternal and child health and survival since 2001. However, socioeconomic and regional inequities may pose a threat to reaching universal coverage of health interventions and further health progress. We explored coverage and socioeconomic inequalities in key life-saving reproductive, maternal, newborn and child health (RMNCH) interventions at the national level and by region in Afghanistan. We also assessed gains in child survival through scaling up effective community-based interventions across wealth groups.
+   Methods: Using data from the Afghanistan Multiple Indicator Cluster Survey (MICS) 2010/11, we explored 11 interventions that spanned all stages of the continuum of care, including indicators of composite coverage. Asset-based wealth quintiles were constructed using standardised methods, and absolute inequalities were explored using wealth quintile (Q) gaps (Q5-Q1) and the slope index of inequality (SII), while relative inequalities were assessed with ratios (Q5/Q1) and the concentration index (CIX). The lives saved tool (LiST) modeling used to estimate neonatal and post-neonatal deaths averted from scaling up essential community-based interventions by 90 % coverage by 2025. Analyses considered the survey design characteristics and were conducted via STATA version 12.0 and SAS version 9.4.
+   Results: Our results underscore significant pro-rich socioeconomic absolute and relative inequalities, and mass population deprivation across most all RMNCH interventions studied. The most inequitable are antenatal care with a skilled attendant (ANCS), skilled birth attendance (SBA), and 4 or more antenatal care visits (ANC4) where the richest have between 3.0 and 5.6 times higher coverage relative to the poor, and Q5-Q1 gaps range from 32 % - 65 %. Treatment of sick children and breastfeeding interventions are the most equitably distributed. Across regions, inequalities were highest in the more urbanised East, West and Central regions of the country, while they were lowest in the South and Southeast. About 7700 newborns and 26,000 post-neonates could be saved by scaling up coverage of community outreach interventions to 90 %, with the most gains in the poorest quintiles.
+   Conclusions: Afghanistan is a pervasively poor and conflict-prone nation that has only recently experienced a decade of relative stability. Though donor investments during this period have been plentiful and have contributed to rebuilding of health infrastructure in the country, glaring inequities remain. A resolution to scaling up health coverage in insecure and isolated regions, and improving accessibility for the poorest and marginalised populations, should be at the forefront of national policy and programming efforts.
+C1 [Akseer, Nadia; Bhutta, Zulfiqar A.] Hosp Sick Children, Ctr Global Child Hlth, Toronto, ON, Canada.
+   [Akseer, Nadia; Bhutta, Zulfiqar A.] Univ Toronto, Dalla Lana Sch Publ Hlth, Toronto, ON, Canada.
+   [Bhatti, Zaid; Rizvi, Arjumand; Bhutta, Zulfiqar A.] Aga Khan Univ, Ctr Excellence Women & Child Hlth, Karachi, Pakistan.
+   [Salehi, Ahmad S.] London Sch Hyg & Trop Med, London, England.
+   [Salehi, Ahmad S.] Afghanistan Minist Labor Social Affairs Martyrs &, Kabul, Afghanistan.
+   [Salehi, Ahmad S.; Mashal, Taufiq] Minist Publ Hlth, Kabul, Afghanistan.
+RP Bhutta, ZA (reprint author), Hosp Sick Children, Ctr Global Child Hlth, Toronto, ON, Canada.; Bhutta, ZA (reprint author), Univ Toronto, Dalla Lana Sch Publ Hlth, Toronto, ON, Canada.
+EM zulfiqar.bhutta@sickkids.ca
+OI Rizvi, Arjumand/0000-0003-4553-8130
+FU Countdown Coordinating Committee
+FX The authors are grateful to the Countdown Coordinating Committee for its
+   support to various elements of the study and for review of the paper. We
+   also acknowledge the contribution of Professors Aluisio Barros and Cesar
+   Victora from the International Center for Equity in Health, Pelotas,
+   Brazil for valuable insight into sample size considerations and
+   interpretation of results. The support of Professor Robert Black (Johns
+   Hopkins School of Public Health, Maryland, USA) and Professor Rahim
+   Moineddin (University of Toronto, Toronto, Canada) are also appreciated
+   for reviewing and providing input on the protocol and final paper.
+CR Afghanistan Central Statistics Office UNCsFA, 2013, AFGH MULT IND CLUST
+   Akseer N, 2016, LANCET GLOB HEALTH, V4, pE395, DOI 10.1016/S2214-109X(16)30002-X
+   Alkema L, 2016, LANCET, V387, P462, DOI 10.1016/S0140-6736(15)00838-7
+   Alonge O, 2015, HEALTH POLICY PLANN, V30, P1229, DOI 10.1093/heapol/czu127
+   [Anonymous], 2015, COUNTD 2015 DEC TRAC
+   Barros AJD, 2013, PLOS MED, V10, DOI 10.1371/journal.pmed.1001390
+   Barros AJD, 2012, LANCET, V379, P1225, DOI 10.1016/S0140-6736(12)60113-5
+   Barros FC, 2010, REV SAUDE PUBL, V44, P1, DOI 10.1590/S0034-89102010000100001
+   Bartlett LA, 2005, LANCET, V365, P864, DOI 10.1016/S0140-6736(05)71044-8
+   Bhutta ZA, 2014, LANCET, V384, P347, DOI 10.1016/S0140-6736(14)60792-3
+   Bhutta ZA, 2013, LANCET, V382, P452, DOI 10.1016/S0140-6736(13)60996-4
+   Bhutta ZA, 2013, LANCET, V381, P1417, DOI 10.1016/S0140-6736(13)60648-0
+   Boerma JT, 2008, LANCET, V371, P1259, DOI 10.1016/S0140-6736(08)60560-7
+   Bristol N, 2006, LANCET, V368, P2043, DOI 10.1016/S0140-6736(06)69820-6
+   Edward A, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001066
+   Gwatkin D R, 2007, Niger J Clin Pract, V10, P272
+   Health AMoP, 2011, AFGH STRAT PLAN MIN
+   Health AMoP, 2005, ESS PACK HOSP SERV
+   Heazell AEP, 2016, LANCET, V387, P604, DOI 10.1016/S0140-6736(15)00836-3
+   Kakwani N, 1997, J ECONOMETRICS, V77, P87, DOI 10.1016/S0304-4076(96)01807-6
+   KF FR CNM, 2014, MEAS EQ NAT REPR WEA
+   Khanna T, 2013, SOLIDARITY CHILDREN
+   Mackenbach JP, 1997, SOC SCI MED, V44, P757, DOI 10.1016/S0277-9536(96)00073-1
+   Michael Markus, 2013, Med Confl Surviv, V29, P322, DOI 10.1080/13623699.2013.840819
+   Moreno-Betancur M, 2015, EPIDEMIOLOGY, V26, P518, DOI 10.1097/EDE.0000000000000311
+   Newbrander W, 2014, GLOB PUBLIC HEALTH, V9, pS6, DOI 10.1080/17441692.2014.916735
+   Peters DH, 2007, B WORLD HEALTH ORGAN, V85, P146, DOI 10.2471/BLT.06.033746
+   Poureslami Iraj M, 2004, MedGenMed, V6, P51
+   Programme UND, 2015, HUM DEV REP 2015 WOR
+   Rasooly MH, 2014, GLOB PUBLIC HEALTH, V9, pS29, DOI 10.1080/17441692.2013.827733
+   Sabri B, 2007, B WORLD HEALTH ORGAN, V85, P712, DOI 10.2471/BLT.06.036939
+   Sanson-Fisher RW, 2004, MED J AUSTRALIA, V180, pS55
+   Singh PK, 2013, E MEDITERR HEALTH J, V19, P826
+   Steinhardt LC, 2009, HEALTH POLICY PLANN, V24, P1, DOI 10.1093/heapol/czn043
+   Trani Jean-Francois, 2012, Med Confl Surviv, V28, P219, DOI 10.1080/13623699.2012.714651
+   Trani JF, 2010, SOC SCI MED, V70, P1745, DOI 10.1016/j.socscimed.2010.02.007
+   United Nations, 2015, TRANSF OUR WORLD 203
+   van Egmond K, 2004, DISASTERS, V28, P269, DOI 10.1111/j.0361-3666.2004.00258.x
+   Victora CG, 2012, LANCET, V380, P1149, DOI 10.1016/S0140-6736(12)61427-5
+   Victora CG, 2005, LANCET, V366, P1460, DOI 10.1016/S0140-6736(05)67599-X
+   Walker N, 2013, BMC PUBLIC HEALTH, V13, DOI 10.1186/1471-2458-13-S3-S1
+   WHITEHEAD M, 1992, INT J HEALTH SERV, V22, P429, DOI 10.2190/986L-LHQ6-2VTE-YRRN
+   You DZ, 2015, LANCET, V386, P2275, DOI 10.1016/S0140-6736(15)00120-8
+   Yuan B, 2014, BMC PUBLIC HEALTH, V14, P1
+NR 44
+TC 12
+Z9 12
+U1 1
+U2 9
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD SEP 12
+PY 2016
+VL 16
+SU 2
+AR 797
+DI 10.1186/s12889-016-3406-1
+PG 19
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DW4IQ
+UT WOS:000383606800008
+PM 27634540
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Dahlhausen, J
+   Biber, P
+   Rotzer, T
+   Uhl, E
+   Pretzsch, H
+AF Dahlhausen, Jens
+   Biber, Peter
+   Roetzer, Thomas
+   Uhl, Enno
+   Pretzsch, Hans
+TI Tree Species and Their Space Requirements in Six Urban Environments
+   Worldwide
+SO FORESTS
+LA English
+DT Article
+DE growing space requirements; metropolises; tree allometry; tree growth
+   dynamics; urban trees; biomass
+ID ECOSYSTEM SERVICES; CARBON STORAGE; ALLOMETRIC EQUATIONS; FOREST;
+   STREET; SCALE; WATER; PAVEMENTS; DYNAMICS; GROWTH
+AB Urban trees have gained in importance during recent decades, but little is known about the temporal dynamic of tree growth in urban areas. The present study investigated the allometric relationships of stem diameter, tree height, and crown radius for six different tree species in six metropolises worldwide. Increment cores of the trees were used for identifying the relationship of basal area and basal area increment and for extrapolating the temporal dynamics for each species in relation to the allometric parameters and growth extensions. Space limitation and its direct influence on growth were quantified, as well as the aboveground woody biomass and the carbon storage capacity. The results show that, among the investigated species, Quercus nigra and Khaya senegalensis have the highest growth rates for stem diameter and crown radius, whereas Tilia cordata and Aesculus hippocastanum remain on a lower level. A significant reduction of tree growth due to restricted non-paved area was found for Aesculus hippocastanum and Khaya senegalensis. Estimations of aboveground biomass were highest for Quercus nigra and lowest for Tilia cordata. These results show the species-specific allometries of urban trees over a projected time period. Thus, the data set is highly relevant for planners and urban green managers.
+C1 [Dahlhausen, Jens; Biber, Peter; Roetzer, Thomas; Uhl, Enno; Pretzsch, Hans] Tech Univ Munich, Chair Forest Growth & Yield Sci, Ctr Life & Food Sci Weihenstephan, Hans Carl von Carlowitz Pl 2, D-85354 Freising Weihenstephan, Germany.
+RP Dahlhausen, J (reprint author), Tech Univ Munich, Chair Forest Growth & Yield Sci, Ctr Life & Food Sci Weihenstephan, Hans Carl von Carlowitz Pl 2, D-85354 Freising Weihenstephan, Germany.
+EM jens.dahlhausen@lrz.tum.de; peter.biber@lrz.tum.de;
+   thomas.roetzer@lrz.tum.de; enno.uhl@lrz.tum.de; hans.pretzsch@lrz.tum.de
+OI Pretzsch, Hans/0000-0002-4958-1868
+FU AUDI Environmental Foundation; German Research Foundation (DFG);
+   Technical University of Munich (TUM)
+FX Thanks to the AUDI Environmental Foundation for funding the project
+   "Response of urban trees on climate change" and the several city
+   ministries and forest services for the allowance of coring and measuring
+   trees and for supporting the search for the trees. This work was
+   supported by the German Research Foundation (DFG) and the Technical
+   University of Munich (TUM) in the framework of the Open Access
+   Publishing Program. The authors also want to thank two anonymous
+   reviewers for their constructive and helpful comments on previous
+   versions of the manuscript.
+CR Anderson ST, 2006, REG SCI URBAN ECON, V36, P773, DOI 10.1016/j.regsciurbeco.2006.03.007
+   Assmann E., 1961, WALDERTRAGSKUNDE ORG
+   Blunt Stephen M., 2008, Arboricultural Journal, V31, P73
+   Clark A.I., 1985, WIGHT VOLUME PHYS PR
+   Clement J., 1982, BOIS FOR TROP, V198, P35
+   Dank H, 2007, STAT BERICHT E 4 4 J
+   Davies ZG, 2011, J APPL ECOL, V48, P1125, DOI 10.1111/j.1365-2664.2011.02021.x
+   Eamus D., 2000, 5A AUSTR GREENH OFF
+   Enquist BJ, 2001, NATURE, V410, P655, DOI 10.1038/35070500
+   Escobedo FJ, 2015, URBAN FOR URBAN GREE, V14, P1040, DOI 10.1016/j.ufug.2015.09.011
+   Escobedo FJ, 2011, ENVIRON POLLUT, V159, P2078, DOI 10.1016/j.envpol.2011.01.010
+   Gill S., 2007, BUILT ENV, V3, P115
+   GRIS, STRASS BERL BEST NAC
+   Ihak T., 2014, FOR J, V60, P150
+   Jenkins JC, 2003, FOREST SCI, V49, P12
+   Kirkpatrick JB, 2012, LANDSCAPE URBAN PLAN, V107, P147, DOI 10.1016/j.landurbplan.2012.05.015
+   Lee JH, 2016, URBAN FOR URBAN GREE, V16, P208, DOI 10.1016/j.ufug.2016.02.010
+   Livesley SJ, 2016, J ENVIRON QUAL, V45, P119, DOI 10.2134/jeq2015.11.0567
+   McHale M. R., 2009, Urban Ecosystems, V12, P95, DOI 10.1007/s11252-009-0081-3
+   McPherson E. G., 1997, Urban Ecosystems, V1, P49, DOI 10.1023/A:1014350822458
+   McPherson EG, 2005, ARBORIC URBAN, V31, P303
+   McPherson G.E., 1994, CICAGOS URBAN FOREST
+   Morgenroth Justin, 2011, Arboriculture & Urban Forestry, V37, P45
+   Moser A, 2015, URBAN FOR URBAN GREE, V14, P1110, DOI 10.1016/j.ufug.2015.10.005
+   Mullaney J, 2015, LANDSCAPE URBAN PLAN, V134, P157, DOI 10.1016/j.landurbplan.2014.10.013
+   Niklas KJ, 2004, BIOL REV, V79, P871, DOI 10.1017/S1464793104006499
+   Nowak D.J., URBAN FOREST EFFECTS
+   Penman J., 2003, GOOD PRACTICE GUIDAN
+   Peper PJ, 2014, URBAN FOR URBAN GREE, V13, P175, DOI 10.1016/j.ufug.2013.07.002
+   Pretzsch H, 2015, URBAN FOR URBAN GREE, V14, P466, DOI 10.1016/j.ufug.2015.04.006
+   Pretzsch H, 2013, FOREST SCI, V59, P290, DOI 10.5849/forsci.11-102
+   PREUHSLER T, 1981, FORSTWISS CENTRALBL, V100, P313, DOI 10.1007/BF02640650
+   Quigley Martin F., 2002, Urban Ecosystems, V6, P223, DOI 10.1023/A:1026157629609
+   Quigley Martin F., 2004, Urban Ecosystems, V7, P29, DOI 10.1023/B:UECO.0000020170.58404.e9
+   Randrup T. B., 2001, Urban Ecosystems, V5, P209, DOI 10.1023/A:1024046004731
+   Russo Alessio, 2014, International Journal of Biodiversity Science Ecosystem Services & Management, V10, P54, DOI 10.1080/21513732.2013.873822
+   Sanders JR, 2014, URBAN FOR URBAN GREE, V13, P295, DOI 10.1016/j.ufug.2013.12.006
+   Scharenbroch BC, 2016, J ENVIRON QUAL, V45, P199, DOI 10.2134/jeq2015.01.0060
+   Schreyer J, 2014, REMOTE SENS-BASEL, V6, P10636, DOI 10.3390/rs61110636
+   West GB, 2009, P NATL ACAD SCI USA, V106, P7040, DOI 10.1073/pnas.0812294106
+   Xiao QF, 2016, J ENVIRON QUAL, V45, P188, DOI 10.2134/jeq2015.02.0092
+   Yoon TK, 2013, URBAN FOR URBAN GREE, V12, P344, DOI 10.1016/j.ufug.2013.03.006
+NR 42
+TC 6
+Z9 6
+U1 1
+U2 32
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 1999-4907
+J9 FORESTS
+JI Forests
+PD JUN
+PY 2016
+VL 7
+IS 6
+AR 111
+DI 10.3390/f7060111
+PG 19
+WC Forestry
+SC Forestry
+GA DP9XT
+UT WOS:000378852000002
+OA DOAJ Gold
+DA 2019-03-26
+ER

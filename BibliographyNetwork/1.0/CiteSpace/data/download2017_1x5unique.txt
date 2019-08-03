@@ -1,0 +1,394 @@
+
+PT J
+AU Molinero, C
+   Murcio, R
+   Arcaute, E
+AF Molinero, Carlos
+   Murcio, Roberto
+   Arcaute, Elsa
+TI The angular nature of road networks
+SO SCIENTIFIC REPORTS
+ID SMALL WORLD; PERCOLATION; CENTRALITY; GROWTH; MODEL
+AB Road networks are characterised by several structural and geometrical properties. The topological structure determines partially the hierarchical arrangement of roads, but since these are networks that are spatially constrained, geometrical properties play a fundamental role in determining the network's behaviour, characterising the influence of each of the street segments on the system. In this work, we apply percolation theory to the UK's road network using the relative angle between street segments as the occupation probability. The appearance of the spanning cluster is marked by a phase transition, indicating that the system behaves in a critical way. Computing Shannon's entropy of the cluster sizes, different stages of the percolation process can be discerned, and these indicate that roads integrate to the giant cluster in a hierarchical manner. This is used to construct a hierarchical index that serves to classify roads in terms of their importance. The obtained classification is in very good correspondence with the official designations of roads. This methodology hence provides a framework to consistently extract the main skeleton of an urban system and to further classify each road in terms of its hierarchical importance within the system.
+CR [Anonymous], 2012, GUIDANCE ROAD CLASSI
+   [Anonymous], 2016, DATA CITIES REGIONS
+   [Anonymous], 2010, MASTERMAP INTEGRATED
+   Arcaute E, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150691
+   BARTHELEMY M, 2016, STRUCTURE DYNAMICS C
+   Barthelemy M, 2013, SCI REP-UK, V3, DOI 10.1038/srep02153
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty Michael., 2013, NEW SCI CITIES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Bunde A., 1996, FRACTALS DISORDERED
+   Cardy J., 1996, SCALING RENORMALIZAT, V5
+   Chan SHY, 2011, EUR PHYS J B, V84, P563, DOI 10.1140/epjb/e2011-10889-3
+   Chen YG, 2013, ENVIRON PLANN B, V40, P884, DOI 10.1068/b36155
+   CHRISTENSEN K, 1993, PHYS REV LETT, V71, P2737, DOI 10.1103/PhysRevLett.71.2737
+   Christensen K., 2005, COMPLEXITY CRITICALI
+   CLERC JP, 1990, ADV PHYS, V39, P191, DOI 10.1080/00018739000101501
+   CONIGLIO A, 1979, PHYS REV LETT, V42, P518, DOI 10.1103/PhysRevLett.42.518
+   Criado R., 2011, INT J COMPLEX SYSTEM, V1, P100
+   Dalton RC, 2003, ENVIRON BEHAV, V35, P107, DOI 10.1177/0013916502238867
+   Danziger MM, 2014, J COMPLEX NETW, V2, P460, DOI 10.1093/comnet/cnu020
+   Fluschnik T, 2016, ISPRS INT J GEO-INF, V5, DOI 10.3390/ijgi5070110
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   FREEMAN LC, 1977, SOCIOMETRY, V40, P35, DOI 10.2307/3033543
+   Gallos L. K., 2012, SCI REPORTS, V2
+   Gallos LK, 2012, P NATL ACAD SCI USA, V109, P2825, DOI 10.1073/pnas.1106612109
+   Geisberger R, 2012, TRANSPORT SCI, V46, P388, DOI 10.1287/trsc.1110.0401
+   Healey P, 2006, RTPI LIB SER, P1
+   Hillier B, 2005, LECT NOTES COMPUT SC, V3693, P475
+   Hillier B, 1999, ENVIRON PLANN B, V26, P169, DOI 10.1068/b260169
+   Holme P, 2003, ADV COMPLEX SYST, V6, P163, DOI 10.1142/S0219525903000803
+   King PR, 1999, PHYSICA A, V266, P107, DOI 10.1016/S0378-4371(98)00583-4
+   Li DQ, 2015, P NATL ACAD SCI USA, V112, P669, DOI 10.1073/pnas.1419185112
+   Li DQ, 2011, EPL-EUROPHYS LETT, V93, DOI 10.1209/0295-5075/93/68004
+   Masucci AP, 2016, EUR PHYS J B, V89, DOI 10.1140/epjb/e2016-60431-2
+   Meakin P., 1998, FRACTALS SCALING GRO, V5
+   Mileyko Y, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036715
+   Murcio R, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.062130
+   Newman MEJ, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.021904
+   Pinho P., 2013, J SPACE SYNTAX, V4, P179
+   Porta S, 2006, PHYSICA A, V369, P853, DOI 10.1016/j.physa.2005.12.063
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Schmeltzer C, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.012116
+   Stanley HE, 1999, REV MOD PHYS, V71, pS358, DOI 10.1103/RevModPhys.71.S358
+   Stauffer D., 1994, INTRO PERCOLATION TH, V6
+   Stauffer D., 1994, INTRO PERCOLATION TH
+   Strano E., 2012, SCI REPORTS, V2
+   Strano E, 2013, ENVIRON PLANN B, V40, P1071, DOI 10.1068/b38216
+   Tsakiris N, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.041108
+   Turner A., 2001, 3 INT S SPAC SYNT GE
+   Viana M. P., 2013, SCI REPORTS, V3
+   Wilson AG, 2012, SCI CITIES REGIONS L
+   Wu ZH, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.148702
+NR 53
+TC 3
+Z9 3
+SN 2045-2322
+PD JUN 27
+PY 2017
+VL 7
+AR 4312
+DI 10.1038/s41598-017-04477-z
+UT WOS:000404126500052
+PM 28655898
+ER
+
+PT J
+AU Schabus, S
+   Scholz, J
+   Lampoltshammer, TJ
+AF Schabus, Stefan
+   Scholz, Johannes
+   Lampoltshammer, Thomas J.
+TI Article Mapping Parallels between Outdoor Urban Environments and Indoor
+   Manufacturing Environments
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+DE indoor manufacturing; linked data; urban versus manufacturing; smart
+   manufacturing; smart transportation
+ID ONTOLOGY; CYBERINFRASTRUCTURE; PERFORMANCE; INNOVATION; FRAMEWORK; GRAPH
+AB The concepts of "Smart Cities" and "Smart Manufacturing" are different data-driven domains, although both rely on intelligent information technology and data analysis. With the application of linked data and affordance-based approaches, both domains converge, paving the way for new and innovative viewpoints regarding the comparison of urban tasks with indoor manufacturing tasks. The present study builds on the work, who state that cities are scaled versions of each other, by extending this thesis towards indoor manufacturing environments. Based on their structure and complexity, these environments are considered to form ecosystems of their own, comparable to "small cities". This conceptual idea is demonstrated by examining the process of human problem-solving in transportation situations from both perspectives (i.e., city-level and manufacturing-level). In particular, the authors model tasks of human operators that are used to support transportation processes in indoor manufacturing environments based on affordances and spatial-temporal data. This paper introduces the fundamentals of the transformation process of outdoor tasks and process planning activities to indoor environments, particularly to semiconductor manufacturing environments. The idea is to examine the mapping of outdoor tasks and applications to indoor environments, and vice-versa, based on an example focusing on the autonomous transportation of production assets in a manufacturing environment. The approach is based on a spatial graph database, populated with an indoor navigation ontology and instances of indoor and outdoor objects. The results indicate that human problem-solving strategies can be applied to indoor manufacturing environments to support decision-making in autonomous transportation tasks.
+OI Scholz, Johannes/0000-0002-3212-8864
+CR Abdalla A., 2013, GEOGRAPHIC INFORM SC
+   Abdalla A, 2012, P 7 INT C GEOGR INF
+   ARMSTRONG JS, 1975, ORGAN BEHAV HUM PERF, V14, P257, DOI 10.1016/0030-5073(75)90028-8
+   Batty M, 2012, EUR PHYS J-SPEC TOP, V214, P481, DOI 10.1140/epjst/e2012-01703-3
+   Batty Michael, 2013, Dialogues Hum Geogr, V3, P274, DOI 10.1177/2043820613513390
+   Benevolo C., 2016, EMPOWERING ORG ENABL, V11
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Caragliu A, 2016, SOC SCI COMPUT REV, V34, P657, DOI 10.1177/0894439315610843
+   Davis J, 2012, COMPUT CHEM ENG, V47, P145, DOI 10.1016/j.compchemeng.2012.06.037
+   Eysneck M.W, 2010, COGNITIVE PSYCHOL
+   Flaxman M, 2010, PEER REV P DIG LANDS, V2, P28
+   Garau C, 2016, CITIES, V56, P35, DOI 10.1016/j.cities.2016.02.012
+   Gibson JJ, 2014, ECOLOGICAL APPROACH
+   Goetz M, 2011, GEO-SPAT INF SCI, V14, P119, DOI 10.1007/s11806-011-0474-3
+   Goodchild M. F., 2010, CARTOGRAPHIC PERSPEC, V66, P7, DOI DOI 10.14714/CP66.93
+   Goodwin S, 2016, IEEE T VIS COMPUT GR, V22, P599, DOI 10.1109/TVCG.2015.2467199
+   HAMMOND KJ, 1990, COGNITIVE SCI, V14, P385, DOI 10.1207/s15516709cog1403_3
+   Howell I., 2005, LAISERIN LETT, V22, P4
+   Jonietz D., 2013, GEOGRAPHIC INFORM SC
+   Klepeis NE, 2001, J EXPO ANAL ENV EPID, V11, P231, DOI 10.1038/sj.jea.7500165
+   Lampoltshammer TJ, 2015, REMOTE SENS-BASEL, V7, P9473, DOI 10.3390/rs70709473
+   Le Phuoc D., 2015, P 9 INT C DISTR EV B
+   Lee J, 2014, PROC CIRP, V16, P3, DOI 10.1016/j.procir.2014.02.001
+   Li WW, 2014, INT J DIGIT EARTH, V7, P17, DOI 10.1080/17538947.2012.674561
+   Mayer R, 1990, PROBLEM SOLVING BLAC
+   Meijers M., 2005, P NEXT GEN 3D CIT MO
+   Miller H. J., 2014, DATA DRIVEN GEOGRAPH, V80, P1
+   Miller J. J, 2013, P SO ASS INF SYST C
+   Nam T., P 12 ANN INT DIG GOV
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Nystrom RH, 2006, COMPUT CHEM ENG, V30, P392, DOI 10.1016/j.compchemeng.2005.09.009
+   Osswald S., 2013, P 2013 INT C COLL TE
+   Pinna F, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9040494
+   Pluciennik T, 2014, ADV INTEL SOFT COMPU, V242, P643, DOI 10.1007/978-3-319-02309-0_69
+   RAIFFA HOWARD, 1968, DECISION ANAL INTRO
+   Raubal M, 2001, INT J GEOGR INF SCI, V15, P653, DOI 10.1080/13658810110061171
+   Raubal M, 1999, LECT NOTES COMPUT SC, V1661, P381
+   Robinson I, 2015, GRAPH DATABASES NEW
+   Schabus S., 2017, GI FORUM, V1, P126
+   Schabus S., 2015, P 18 AGILE INT C GEO
+   Schabus S., 2015, P 2015 12 INT C INF
+   Scholz J, 2017, ISPRS INT J GEO-INF, V6, DOI 10.3390/ijgi6090280
+   Scholz J, 2014, LECT NOTES COMPUT SC, V8728, P204, DOI 10.1007/978-3-319-11593-1_14
+   TIMPF S, 1992, THEORIES METHODS SPA, V639, P348
+   von Landesberger T, 2016, IEEE T VIS COMPUT GR, V22, P11, DOI 10.1109/TVCG.2015.2468111
+   Wang S, 2008, BIOSCIENCE, V58, P94, DOI 10.1641/B580202
+   Wang SW, 2013, INT J GEOGR INF SCI, V27, P2119, DOI 10.1080/13658816.2013.841318
+   Wang SW, 2010, ANN ASSOC AM GEOGR, V100, P535, DOI 10.1080/00045601003791243
+   Wang YX, 2010, COGN SYST RES, V11, P81, DOI 10.1016/j.cogsys.2008.08.003
+   Weiser P, 2012, P 7 INT C GISCIENCE
+   Worboys M., 2011, P 3 ACM SIGSPATIAL I
+   Yang Li, 2011, Proceedings of the 2011 First ACIS International Symposium on Software and Network Engineering (SSNE 2011), P31, DOI 10.1109/SSNE.2011.19
+NR 53
+TC 0
+Z9 0
+SN 2220-9964
+PD SEP
+PY 2017
+VL 6
+IS 9
+AR 281
+DI 10.3390/ijgi6090281
+UT WOS:000416386100022
+ER
+
+PT J
+AU Tong, KK
+   Fang, A
+   Yu, HJ
+   Li, Y
+   Shi, L
+   Wang, YJ
+   Wang, SX
+   Ramaswami, A
+AF Tong, Kangkang
+   Fang, Andrew
+   Yu, Huajun
+   Li, Yang
+   Shi, Lei
+   Wang, Yangjun
+   Wang, Shuxiao
+   Ramaswami, Anu
+TI Estimating the potential for industrial waste heat reutilization in
+   urban district energy systems: method development and implementation in
+   two Chinese provinces
+SO ENVIRONMENTAL RESEARCH LETTERS
+DE district energy; heat exchange; energy cascading; Chinese cities;
+   industrial waste heat utilization
+ID RECOVERY; GROWTH; CITIES
+AB Utilizing low-grade waste heat from industries to heat and cool homes and businesses through fourth generation district energy systems (DES) is a novel strategy to reduce energy use. This paper develops a generalizable methodology to estimate the energy saving potential for heating/cooling in 20 cities in two Chinese provinces, representing cold winter and hot summer regions respectively. We also conduct a life-cycle analysis of the new infrastructure required for energy exchange in DES. Results show that heating and cooling energy use reduction from this waste heat exchange strategy varies widely based on the mix of industrial, residential and commercial activities, and climate conditions in cities. Low-grade heat is found to be the dominant component of waste heat released by industries, which can be reused for both district heating and cooling in fourth generation DES, yielding energy use reductions from 12%-91% (average of 58%) for heating and 24%-100% (average of 73%) for cooling energy use in the different cities based on annual exchange potential. Incorporating seasonality and multiple energy exchange pathways resulted in energy savings reductions from 0%-87%. The life-cycle impact of added infrastructure was small (< 3% for heating) and 1.9% similar to 6.5%(cooling) of the carbon emissions from fuel use in current heating or cooling systems, indicating net carbon savings. This generalizable approach to delineate waste heat potential can help determine suitable cities for the widespread application of industrial waste heat re-utilization.
+RI wang, shuxiao/H-5990-2011
+OI wang, shuxiao/0000-0001-9727-1963; Li, Yang/0000-0002-9134-2051
+CR [Anonymous], 2011, CHIN URB CONSTR STAT
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bin S, 2012, BUILDING ENERGY EFFI
+   Bo S, 2015, CURBING AIR POLLUTIO
+   Bourne P, 2016, COMMUNICATION
+   Bruckner S, 2014, SUSTAIN CITIES SOC, V13, P139, DOI 10.1016/j.scs.2014.04.004
+   Bruckner S, 2015, APPL ENERG, V151, P157, DOI 10.1016/j.apenergy.2015.01.147
+   Building Energy Conservation Research Center, 2011, ANN REP CHIN BUILD E
+   Cai Jiuju, 2007, IRON STEEL, V6, P1
+   Census of India, 2002, CENS IND 2001 HOUS M
+   Census of India, 2011, REG GEN IND, V1
+   Central Statistics Office (CSO), IND STAT IS WING 201
+   Chen B, 2006, J FOSHAN CERAM, V10, P32
+   Chen ZH, 2013, URBAN STUD, V50, P2118, DOI 10.1177/0042098012470397
+   Connolly D, 2014, ENERG POLICY, V65, P475, DOI 10.1016/j.enpol.2013.10.035
+   Davies G, 2009, POTENTIAL COSTS DIST
+   DCSNBS D o C S o N B o S, 2011, CHIN STAT YB REG EC
+   Department of Urban and Social Economic N. S. B, 2011, CHIN CIT STAT YB
+   Fan X, 2014, J CERAM, V9, P28
+   Fang H, 2015, ENERGY, V86, P589, DOI 10.1016/j.energy.2015.04.052
+   Fang H, 2013, ENERG POLICY, V62, P236, DOI 10.1016/j.enpol.2013.06.104
+   Feng H, 2015, CHINA METALL NEWSPAP, V1, P6009
+   Fridley D, 2014, KEY CHINA ENERGY STA
+   Gomez D. R., 2008, IPCC GUIDELINES NATL
+   Gong X, 2014, P CHIN CER C, V4, P95
+   [胡帆 HU Fan], 2011, [动力工程学报, Journal of Power Engineering], V31, P381
+   Huang X, 2011, J LIGHT METAL, V9, P33
+   [黄学�? Huang Xuezhang], 2013, [电源�?�?, Chinese Journal of Power Sources], V37, P1580
+   IEA, 2016, DISTR HEAT BUS MOD P
+   IEA and BERC, 2015, BUILD EN US CHIN TRA
+   Ji Hongyu, 2014, Cement Engineering, P79
+   Johnson I., 2008, TECHNOLOGY OPPORTUNI
+   Li H, 2011, CHINESE J ENERGY MET, V3, P52
+   Li J, 2008, ENERG POLICY, V36, P1736, DOI 10.1016/j.enpol.2008.01.029
+   Li M, 2017, ATMOS CHEM PHYS, V17, P935, DOI 10.5194/acp-17-935-2017
+   Li Y, 2015, ENERGY, V90, P663, DOI 10.1016/j.energy.2015.07.090
+   Li YM, 2016, ENERGY, V102, P397, DOI 10.1016/j.energy.2016.02.105
+   Liang S, 2017, J IND ECOL, V21, P953, DOI 10.1111/jiec.12477
+   Lucon O, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, P671
+   Lund H, 2015, ENERGYPLAN ADV ENERG
+   Lund H, 2014, ENERGY, V68, P1, DOI 10.1016/j.energy.2014.02.089
+   MEIC, 2016, MULT EM INV CHIN
+   Ministry of Housing and Urban- Rural Development of People's Republic of China, 2011, CHIN URB INFR STAT Y
+   National Bureau of Statistics, 2010, CHIN IND ENT DAT
+   National Bureau of Statistics, 2011, CHINA ENERGY STAT YB
+   Niu Y, 2011, J ENERGY SAVING NONF, V58, P54
+   NSS, 2009, IND HOUS COND SURV J
+   NSS, 2011, LEV PATT CONS EXP 20
+   Odgaard O., 2015, CHINAS QUEST NEW DIS
+   Persson U, 2014, ENERG POLICY, V74, P663, DOI 10.1016/j.enpol.2014.07.015
+   Population Census Office, 2012, TAB 2010 POP CENS PE
+   Qi W, 2011, J TECHNOL DEV ENTERP, V3, P90
+   Ramaswami A, 2017, J IND ECOL IN PRESS
+   Ramaswami A, 2017, NAT CLIN CH IN PRESS
+   Ryan W, 2004, ASHRAE J, V46, pS31
+   Sachs J., 2014, PATHWAYS DEEP DECARB
+   Schneider A, 2014, ENVIRON RES LETT, V9, DOI 10.1088/1748-9326/9/2/024008
+   Shanghai Statistical Bureau, 2011, SHAGNH STAT YB
+   Shengyuan Zhang, 2010, Frontiers of Energy and Power Engineering in China, V4, P2, DOI 10.1007/s11708-010-0023-z
+   Song D, 2003, J ENERGY SAVING NONF, V4, P1
+   Song R, 2013, GETTING EVERY TON EM
+   Sun FT, 2014, ENERGY, V69, P516, DOI 10.1016/j.energy.2014.03.044
+   Sun YQ, 2015, ENERGIES, V8, P1917, DOI 10.3390/en8031917
+   Swilling M, 2013, CITY LEVEL DECOUPLIN
+   Tang H, 2010, J DAQING PETROLEUM I, V3, P96
+   Tang J, 2007, J LIAONING BUILD MAT, V3, P11
+   Tang M, 2010, J PETROL PETROCHEM, V2, P64
+   Tian G, 2014, J SHANXI METALL, V3, P85
+   Tong K, 2017, J CLEANER PROD UNPUB
+   UN Population Division, 2014, WORLD URB PROSP 2014
+   UNEP, 2015, DISTR EN CIT UNL POT
+   Wang J, 2007, J ENERGY CONSERV, V2, P32
+   Wang J.J., 2007, IND HEAT, V36, P1
+   World Bank, 2014, URBAN CHINA: TOWARD EFFICIENT, INCLUSIVE, AND SUSTAINABLE URBANIZATION, P1, DOI 10.1596/978-1-4648-0206-5
+   [吴德�? WU Derong], 2007, [化学工程, Chemical Engineering], V35, P66
+   Xiong WM, 2015, ENERGY, V81, P274, DOI 10.1016/j.energy.2014.12.039
+   Yin X, 2013, THESIS
+   Yu Z, 2012, J GLASS, V4, P10
+   Zabala E, 2009, TECHNOLOGICAL EC EVA
+   Zhang L., 2013, EUROHEAT POWER, V10, P12, DOI DOI 10.1007/S11432-012-4651-2
+   Zhang T, 2010, J THERM SCI TECHNOL, V1, P58
+   Zhang XY., 2013, THESIS
+   Zhang Y, 2008, NAIHUO CAILIAO REFRA, V4, P315
+   Zhao Y, 2000, J CERAM, V6, P32
+   Zhou N, 2014, 2014 ACEEE SUMMER ST
+   Zhou N., 2011, CHINAS ENERGY CARBON
+NR 86
+TC 1
+Z9 1
+SN 1748-9326
+PD DEC
+PY 2017
+VL 12
+IS 12
+AR 125008
+DI 10.1088/1748-9326/aa8a17
+UT WOS:000417925700002
+ER
+
+PT J
+AU Falk, D
+   Hildebolt, C
+AF Falk, Dean
+   Hildebolt, Charles
+TI Annual War Deaths in Small-Scale versus State Societies Scale with
+   Population Size Rather than Violence
+SO CURRENT ANTHROPOLOGY
+ID TRENDS
+OI Falk, Dean/0000-0003-1654-0469
+CR ARMITAGE P, 1955, BIOMETRICS, V11, P375, DOI 10.2307/3001775
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bohonak A. J., 2004, RMA SOFTWARE REDUCED
+   Cederman LE, 2003, AM POLIT SCI REV, V97, P135, DOI 10.1017/S0003055403000571
+   COCHRAN WG, 1954, BIOMETRICS, V10, P417, DOI 10.2307/3001616
+   Dhanapala J, 2015, GLOBAL GOV, V21, P1
+   Eden Lynn, 2017, B ATOM SCI, V73, P2
+   Falk D., 2000, PRIMATE DIVERSITY
+   Falk D, 2016, J ANTHROPOL SCI, V94, P99, DOI [10.4436/jass.94027, 10.4436/JASS.94027]
+   Ferguson R. B., 2013, WAR PEACE HUMAN NATU, P112, DOI DOI 10.1093/ACPROF:OSO/9780199858996.001.0001
+   Forman RTT, 2016, NATURE, V537, P608, DOI 10.1038/537608a
+   Gat A., 2006, WAR HUMAN CIVILIZATI
+   Gat A, 2015, EVOL ANTHROPOL, V24, P111, DOI 10.1002/evan.21446
+   Gat A, 2013, J PEACE RES, V50, P149, DOI 10.1177/0022343312461023
+   Goodall J., 1986, CHIMPANZEES GOMBE PA
+   Gusterson Hugh, 2016, DRONE REMOTE CONTROL
+   Haythornthwaite Philip, 1992, WORLD WAR I SOURCE B
+   Huxley J. S., 1936, Nature London, V137, P780, DOI 10.1038/137780b0
+   Jerison H. J., 1973, EVOLUTION BRAIN INTE
+   JERISON HJ, 1991, BRAIN SIZE EVOLUTION
+   Keeley L. H., 1996, WAR CIVILIZATION
+   Lacina B, 2005, EUR J POPUL, V21, P145, DOI 10.1007/s10680-005-6851-6
+   Leland A, 2010, AM WAR MILITARY OPER
+   Gomez JM, 2016, NATURE, V538, P233, DOI 10.1038/nature19758
+   Mirth CK, 2016, CURR OPIN INSECT SCI, V13, P93, DOI 10.1016/j.cois.2016.02.010
+   Pinker S., 2011, BETTER ANGELS OUR NA
+   Prufer K, 2012, NATURE, V486, P527, DOI 10.1038/nature11128
+   Ready J. Lee, 1995, WORLD WAR 2 NATION N
+   Sarkees MR, 2003, INT STUD QUART, V47, P49, DOI 10.1111/1468-2478.4701003
+   Smith RJ, 2009, AM J PHYS ANTHROPOL, V140, P476, DOI 10.1002/ajpa.21090
+   Soper D. S., 2016, SIGNIFICANCE DIFFERE
+   Stephan H, 1970, ADV PRIMATOL, P289
+   Urlanis B.T., 1971, WARS AND POPULATION
+   West G. B., 2017, SCALE UNIVERSAL LAWS
+   Wilson ML, 2014, NATURE, V513, P414, DOI 10.1038/nature13727
+   Wright Q., 1942, STUDY WAR
+NR 36
+TC 4
+Z9 4
+SN 0011-3204
+EI 1537-5382
+PD DEC
+PY 2017
+VL 58
+IS 6
+BP 805
+EP 813
+DI 10.1086/694568
+UT WOS:000417186000034
+ER
+
+PT S
+AU Susnea, I
+   Pecheanu, E
+   Dumitriu, L
+AF Susnea, Ioan
+   Pecheanu, Emilia
+   Dumitriu, Luminita
+BE Soare, E
+   Langa, C
+TI THE EDUCATION FOR CREATIVITY MAY LOWER THE STUDENTS' ANXIETY ABOUT THE
+   FUTURE
+SO EDU WORLD 7TH INTERNATIONAL CONFERENCE
+SE European Proceedings of Social and Behavioural Sciences
+CT 7th International Edu World Conference (Edu World)
+CY NOV 04-05, 2016
+CL Pitesti, ROMANIA
+DE Creativity; Anxiety about the future; Risk in education
+AB This paper is a brief presentation of a research regarding the possible correlation between the individual creativity and the level of anxiety about the future of students involved in tertiary education. Basically, our experiment consisted in measuring the creativity quotient of a number of 30 students using a previously developped scale, and then comparing the results with their levels of anxiety about the future determined using the Bolanowsky AAF scale. Preliminary results show that students with higher scores at a creativity test feel better prepared to face the future, and exhibit lower levels of anxiety regarding their educational and professional evolution.
+   On the other hand, there is growing evidence that the individual creativity can be significantly improved through specific education. Since the students' anxiety is a catch all indicator of the factors having a negative impact on the process of education, it results that a systematic effort to stimulate the creativity of the students might be one of the most effective means to mitigate the impact of many risk factors and improve the overall quality of education. (C) 2017 Published by Future Academy www.FutureAcademy.org.uk
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bolanowski Wojciech, 2005, International Journal of Occupational Medicine and Environmental Health, V18, P367
+   FLORIDA R., 2006, LIBERAL EDUC, V92, P22
+   Frenzel AC, 2007, LEARN INSTR, V17, P478, DOI 10.1016/j.learninstruc.2007.09.001
+   Gilbert D., 2006, STUMBLING HAPPINESS
+   Grupe DW, 2013, NAT REV NEUROSCI, V14, P488, DOI 10.1038/nrn3524
+   McLean CP, 2011, J PSYCHIATR RES, V45, P1027, DOI 10.1016/j.jpsychires.2011.03.006
+   Ocean Tomo, 2015, ANN STUD INT ASS MAR
+   Pecheanu E, 2015, PROCD SOC BEHV, V180, P1520, DOI 10.1016/j.sbspro.2015.02.301
+   Resnick Mitchel, 2007, LEARNING LEADING TEC, V35, P18
+   Robinson K, 2009, ELEMENT FINDING YOUR
+   Rosen JB, 1998, PSYCHOL REV, V105, P325, DOI 10.1037/0033-295X.105.2.325
+   RUMBERGER RW, 1987, REV EDUC RES, V57, P101, DOI 10.3102/00346543057002101
+   Susnea I, 2016, INT J COMPUT COMMUN, V11, P441, DOI 10.15837/ijccc.2016.3.2192
+   Susnea I., 2016, MIC 2016 2 C MARC I
+   Susnea I., 2014, MAC ETEL 2014
+   Wagner T, 2012, CREATING INNOVATORS
+   Walters K, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0041670
+NR 18
+TC 0
+Z9 0
+SN 2357-1330
+PY 2017
+VL 23
+BP 1269
+EP 1273
+DI 10.15405/epsbs.2017.05.02.155
+UT WOS:000411319000154
+ER

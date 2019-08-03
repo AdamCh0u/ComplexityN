@@ -1,0 +1,412 @@
+
+PT J
+AU Chen, YG
+AF Chen, Yanguang
+TI Zipf's law, 1/f noise, and fractal hierarchy
+SO CHAOS SOLITONS & FRACTALS
+ID CITY-SIZE DISTRIBUTIONS; CELLULAR-AUTOMATA; CITIES; MODEL; EXPLANATION;
+   DYNAMICS; UNIVERSAL; NETWORKS; SCALE
+AB Fractals, 1/f noise, and Zipf's laws are frequently observed within the natural living world as well as in social institutions, representing three signatures of complex systems. All these observations are associated with scaling laws and therefore have created much research interest in many diverse scientific circles. However, the inherent relationships between these scaling phenomena are not yet clear. In this paper, theoretical demonstration and mathematical experiments based on urban studies are employed to reveal the analogy between fractal patterns, 1/f spectra, and the Zipf distribution. First, the multifractal process empirically suggests the Zipf distribution. Second, a 1/f spectrum is mathematically identical to Zipf's law. Third, both spectra and Zipf's law can be converted into a self-similar hierarchy. Fourth, fractals, 1/f spectra, Zipf's law can be rescaled with similar exponential laws and power laws. The self-similar hierarchy is a more general scaling method which can be used to unify different scaling phenomena and rules in both physical and social systems such as cities, rivers, earthquakes, fractals, 1/f noise, and rank-size distributions. The mathematical laws of this hierarchical structure can provide us with a holistic perspective of looking at complexity and complex systems. (C) 2011 Elsevier Ltd. All rights reserved.
+CR Alexander C, 1965, ARCHIT FORUM, V122, P58
+   Allegrini P, 2004, CHAOS SOLITON FRACT, V20, P95, DOI 10.1016/S0960-0779(03)00432-6
+   Altmann EG, 2009, PLOS ONE, V4, pA31, DOI 10.1371/journal.pone.0007678
+   Alvarez-Martinez R, 2010, PHYSICA A, V390, P120
+   Amaral LAN, 2004, P NATL ACAD SCI USA, V101, P15551, DOI 10.1073/pnas.0404843101
+   Serrano MA, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0005372
+   BAK P, 1987, PHYS REV LETT, V59, P381, DOI 10.1103/PhysRevLett.59.381
+   Bak P., 1996, NATURE WORKS SCI SEL
+   Basu B, 2009, INDIAN J PHYS, V83, P1575, DOI 10.1007/s12648-009-0141-9
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M, 2006, METH SER, P143
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Benguigui L, 2011, J GEOGR SYST, V13, P87, DOI 10.1007/s10109-010-0132-6
+   Benguigui L, 2007, COMPUT ENVIRON URBAN, V31, P648, DOI 10.1016/j.compenvurbsys.2006.11.002
+   Benguigui L, 2007, PHYSICA A, V384, P613, DOI 10.1016/j.physa.2007.05.059
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blasius B, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.218701
+   Carroll C., 1982, PROGR HUMAN GEOGRAPH, V6, P1
+   Chen Y, 2004, CHAOS SOLITON FRACT, V22, P793, DOI 10.1016/j.chaos.2004.02.059
+   Chen Y. G., 2008, FRACTAL URBAN SYSTEM
+   Chen YG, 2012, PHYSICA A, V391, P767, DOI 10.1016/j.physa.2011.07.010
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   Chen YG, 2003, ENVIRON PLANN B, V30, P799, DOI 10.1068/b2948
+   Cullen HF, 1968, INTRO GEN TOPOLOGY, P78
+   CURRY L, 1964, ANN ASSOC AM GEOGR, V54, P138, DOI 10.1111/j.1467-8306.1964.tb00479.x
+   Davis K, 1978, SYSTEMS CITIES, P92
+   Eliazar I, 2009, P NATL ACAD SCI USA, V106, P12251, DOI 10.1073/pnas.0900299106
+   Eliazar I, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.040602
+   Ferrer i Cancho Ramon, 2003, Proceedings of the National Academy of Sciences of the United States of America, V100, P788
+   Ferrer-i-Cancho R., 2005, P ROY SOC LOND B BIO, V272, P561, DOI [DOI 0.1098/RSPB.2004.2957, 10.1098/rspb.2004.2957]
+   Ferrer-i-Cancho R, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009411
+   Frankhauser Pierre, 1998, POPULATION ENGLISH S, V10, P205
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gangopadhyay K, 2009, PHYSICA A, V388, P2682, DOI 10.1016/j.physa.2009.03.019
+   GOODCHILD MF, 1987, ANN ASSOC AM GEOGR, V77, P265, DOI 10.1111/j.1467-8306.1987.tb00158.x
+   Gutenberg B, 1954, SEISMICITY EARTH ASS
+   HAAG G, 1994, CHAOS SOLITON FRACT, V4, P519, DOI 10.1016/0960-0779(94)90063-9
+   Hernando A, 2009, PHYS LETT A, V374, P18, DOI 10.1016/j.physleta.2009.10.027
+   Horton R.E., 1945, GEOL SOC AM BULL, V56, P275
+   Jiang B., 2010, GEOSPATIAL ANAL MODE
+   Jiang B, 2011, INT J GEOGR INFORM S
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1033, DOI 10.1080/13658810802004648
+   Knox PL, 2006, PLACES REGIONS GLOBA
+   Lu L, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014139
+   Mandelbrot B., 1999, MULTIFRACTALS 1 F NO
+   Mandelbrot BB, 1983, FRACTAL GEOMETRY NAT
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Peitgen H.-O., 2004, CHAOS FRACTALS NEW F
+   Portugali J., 2000, SELF ORG CITY
+   Semboloni F, 2008, EUR PHYS J B, V63, P295, DOI 10.1140/epjb/e2008-00203-1
+   STRAHLER AN, 1952, GEOL SOC AM BULL, V63, P1117, DOI 10.1130/0016-7606(1952)63[1117:HAAOET]2.0.CO;2
+   White R, 1997, ENVIRON PLANN B, V24, P323, DOI 10.1068/b240323
+   WHITE R, 1994, CHAOS SOLITON FRACT, V4, P563, DOI 10.1016/0960-0779(94)90066-3
+   Wilson A, 2000, COMPLEX SPATIAL SYST
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 57
+TC 13
+Z9 13
+SN 0960-0779
+PD JAN
+PY 2012
+VL 45
+IS 1
+BP 63
+EP 73
+DI 10.1016/j.chaos.2011.10.001
+UT WOS:000300595500007
+ER
+
+PT J
+AU Batty, M
+AF Batty, Michael
+TI Building a science of cities
+SO CITIES
+DE Complexity; Scaling; Emergence; Fractals; Networks; Evolution;
+   Rank-size; Allometry; Gravitation
+ID DYNAMICS; SYSTEMS; MODELS
+AB Our understanding of cities is being transformed by new approaches from the complexity sciences (Batty, 2005). Here we review progress, sketching the background beginning with the systems approach which treated systems as being organised from the top down to that which now dominates where systems are treated as evolving from the bottom up. The switch in thinking we describe is best pictured in the transition from thinking of 'cities as machines' to 'cities as organisms'. We first review developments in the dynamics of cities where the notion of equilibrium has been replaced by a veritable potpourri of different types such as chaos, catastrophes, and bifurcations. We then look at patterns and processes that give rise to morphologies that illustrate fractal patterns and self-similarity. We follow this with ideas about networks and interactions that sustain cities through their transport and then we show how such processes of movement and mobility can give rise to the diffusion and segregation of different spatial activities. In all these developments, ideas about scaling that relate size, shape and scale in space and time are evident and we thus sketch three scaling laws based on rank-size, allometry and gravitation that are central to our synthesis of how spatial processes give rise to physical morphologies. We conclude with notions about how these ideas are being embedded into models that have potential applications to inform policy. (C) 2011 Elsevier Ltd. All rights reserved.
+RI Batty, Michael/I-5638-2014
+CR Alonso W., 1964, LOCATION LAND USE
+   Barabasi Alberto-Laszlo, 2003, LINKED EVERYTHING IS
+   BATTY M, 1971, NATURE, V231, P425, DOI 10.1038/231425a0
+   Batty M., 2005, CITIES COMPLEXITY UN
+   BATTY M., 1976, URBAN MODELLING ALGO
+   Batty M., 2009, ENCY COMPLEXITY SYST, V1, P1041
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2010, COMPLEXITY, V16, P51, DOI 10.1002/cplx.20342
+   Berry B. J. L., 2005, PAPERS REGIONAL SCI, V13, P147, DOI DOI 10.1111/J.1435-5597.1964.TB01283.X
+   Berry B. J. L, 2011, CITY SIZE DEBATE RES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bonner J. T., 2006, WHY SIZE MATTERS BAC
+   Chadwick G, 1971, SYSTEMS VIEW PLANNIN
+   Christaller W., 1933, ZENTRALEN ORTE SUDDE
+   Forrester J. W., 1969, URBAN DYNAMICS
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Heppenstall A. J., 2012, AGENT BASED MODELS G
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   MAY RM, 1976, NATURE, V261, P459, DOI 10.1038/261459a0
+   Miller JH, 2007, PRINC STUD COMPLEX, P1, DOI 10.1007/1-4020-5602-8_1
+   Newman M. E., 2010, NETWORKS INTRO
+   Portugali J., 2000, SELF ORG CITY
+   Rozenfeld H. D., 2008, P NATL ACAD SCI USA, V705, P18702
+   SCHELLING TC, 1969, AM ECON REV, V59, P488
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Tobler W, 1995, URBAN GEOGR, V16, P327, DOI 10.2747/0272-3638.16.4.327
+   Venables A, 1999, SPATIAL EC CITIES RE
+   Wilson A. G, 1981, CATASTROPHE THEORY B
+   Wilson A. G, 1970, ENTROPY URBAN REGION
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 32
+TC 69
+Z9 70
+SN 0264-2751
+PD MAR
+PY 2012
+VL 29
+SU 1
+SI SI
+BP S9
+EP S16
+DI 10.1016/j.cities.2011.11.008
+UT WOS:000300813400003
+ER
+
+PT J
+AU Shen, LY
+   Peng, Y
+   Zhang, XL
+   Wu, YZ
+AF Shen, Liyin
+   Peng, Yi
+   Zhang, Xiaoling
+   Wu, Yuzhe
+TI An alternative model for evaluating sustainable urbanization
+SO CITIES
+DE Sustainable urbanization; Urban sustainability; Urban sustainability
+   velocity (V mu s); Urbanization rate; Urbanization velocity (V mu R);
+   Sustainable urbanization elasticity coefficient (e(SU)); V-mu R-V(mu
+   s)coordinate
+ID URBAN SUSTAINABILITY; CITIES; GROWTH; CITY; GLOBALIZATION; CHINA
+AB In recent years, there has been rapid urbanization worldwide, resulting in both benefits and problems. Sustainable urbanization has become an important aspect in promoting sustainable development. Existing studies have introduced various methodologies to guide urbanization towards sustainable practices. The application of these methods has contributed to improving urban sustainability. To further support the effective applications of the principle's of sustainable urbanization, a tool is needed to evaluate whether a particular process of urbanization is sustainable. In this paper, we introduce an alternative model for evaluating sustainable urbanization by investigating the relationship between urbanization and urban sustainability. The practice of sustainable urbanization is defined as a dynamic process that enables urban sustainability to improve or to maintain a certain level of practice. By employing this definition, we introduce a sustainable urbanization elasticity coefficient e(SU), which is defined by two parameters: urbanization velocity (V-mu R) and urban sustainability velocity (V-mu s). The sustainability of an urbanization process is measured by the value of e(SU) or read from the V-mu R-V-mu S coordinate. A case study demonstrates the application of the measure esu and the V-mu R-V-mu S coordinate. The proposed model is an effective tool to help policy makers understand whether the urbanization processes they support are sustainable and thus whether to correct practices. The model also allows comparison of different urbanization practices and thereby encourages the sharing of successful experiences. (C) 2011 Elsevier Ltd. All rights reserved.
+OI Shen, Liyin/0000-0002-0163-4377; Zhang, Xiaoling/0000-0002-6369-9424
+CR Alberti M, 1996, ENVIRON IMPACT ASSES, V16, P381, DOI 10.1016/S0195-9255(96)00083-2
+   Alberti Marina, 2004, Urban Ecosystems, V7, P241, DOI 10.1023/B:UECO.0000044038.90173.c6
+   Anhui Development and Reform Commission (ADRC), 2008, MAANSH CIT ENV HAS B
+   Attwell K, 2000, LANDSCAPE URBAN PLAN, V52, P145, DOI 10.1016/S0169-2046(00)00129-8
+   Banister D, 1998, INT J ENVIRON POLLUT, V10, P65, DOI 10.1504/IJEP.1998.002231
+   Berry B. J. L, 1973, HUMAN CONSEQUENCES U
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bhatta B, 2010, ADV GEOGR INFORM SCI, P1, DOI 10.1007/978-3-642-05299-6
+   Bind G. H. T., 1980, TRENDS URBANIZATION
+   Boggia A, 2010, J ENVIRON MANAGE, V91, P2301, DOI 10.1016/j.jenvman.2010.06.009
+   BREEAM, 1990, WHAT IS BREEAM
+   Brown RR, 2008, ENVIRON MANAGE, V41, P221, DOI 10.1007/s00267-007-9046-6
+   Bureau of Environmental Protection of the People's Republic of China (BEPPRC), 2006, DEC AW MAANSH CIT PR
+   Burgess R., 1997, CHALLENGE SUSTAINABL
+   Cam E, 2000, ECOL APPL, V10, P1196, DOI 10.1890/1051-0761(2000)010[1196:RSRACC]2.0.CO;2
+   Christopher D., 2008, SCIENCE, V319, P766
+   DrakakisSmith D, 1997, GEOFORUM, V28, P21, DOI 10.1016/S0016-7185(97)85525-X
+   Encalada J. A. D., 2009, SYSTEMATIC PRACTICE, V22, P77
+   Enserink B, 2007, MANAG ENVIRON QUAL, V18, P459, DOI 10.1108/14777830710753848
+   ENYEDI G, 1990, GEOFORUM, V21, P163, DOI 10.1016/0016-7185(90)90035-5
+   Ferrarini A, 2001, J ENVIRON MANAGE, V63, P117, DOI 10.1006/jema.2001.0465
+   Gasparatos A, 2008, ENVIRON IMPACT ASSES, V28, P286, DOI 10.1016/j.eiar.2007.09.002
+   Glaeser EL, 1998, J ECON PERSPECT, V12, P139, DOI 10.1257/jep.12.2.139
+   Green Star, 2003, GREEN STAR SETT STAN
+   Haase D, 2008, EUR PLAN STUD, V16, P1075, DOI 10.1080/09654310802315765
+   Harris N, 1992, CITIES, V9, P177, DOI DOI 10.1016/0264-2751(92)90014-V
+   Harvey D, 1973, SOCIAL JUSTICE CITY
+   Haughton G., 1999, URBAN STUD, V36, P1891
+   Henderson J.V., 2004, URBANIZATION CITY GR
+   Henderson V, 2003, J ECON GROWTH, V8, P47, DOI 10.1023/A:1022860800744
+   Holden E, 2004, J HOUS BUILT ENVIRON, V19, P91, DOI DOI 10.1023/B:JOHO.0000017708.98013.CB
+   Irwin EG, 2009, LANDSCAPE ECOL, V24, P1223, DOI 10.1007/s10980-009-9353-9
+   Jabareen YR, 2006, J PLAN EDUC RES, V26, P38, DOI 10.1177/0739456X05285119
+   Jantz C. A., 2003, ENVIRON PLANN B, V30, P251
+   Jenerette GD, 2006, GLOBAL PLANET CHANGE, V50, P202, DOI 10.1016/j.gloplacha.2006.01.004
+   KASARDA JD, 1991, ANNU REV SOCIOL, V17, P467, DOI 10.1146/annurev.so.17.080191.002343
+   LEACH MA, 1997, J ENVIRON PLANN MAN, V40, P705
+   LEED, 1993, INT LEED
+   Li F, 2009, LANDSCAPE URBAN PLAN, V90, P134, DOI 10.1016/j.landurbplan.2008.10.022
+   Liu S., 2003, SCENARIO ANAL URBANI
+   Marcotullio PJ, 2001, HABITAT INT, V25, P577, DOI 10.1016/S0197-3975(01)00025-X
+   Mathias L., 2005, CORPORATE SOCIAL RES
+   May A. D., 1997, EVALUATION BUILT ENV, P39
+   National Bureau of Statistics of China, 1996, CHIN CIT STAT YB
+   Nijkamp P, 1998, URBAN STUD, V35, P1481, DOI 10.1080/0042098984240
+   Northam R.M., 1975, URBAN GEOGR, P53
+   OECD, 1994, SUST DEV ENV IND ORG
+   Oswald MR, 2010, J URBAN PLAN D-ASCE, V136, P177, DOI 10.1061/(ASCE)UP.1943-5444.0000016
+   Pivo G, 1996, CITIES, V13, P339, DOI 10.1016/0264-2751(96)00021-2
+   Roy M, 2009, HABITAT INT, V33, P276, DOI 10.1016/j.habitatint.2008.10.022
+   Scott AJ, 2003, REG STUD, V37, P579, DOI 10.1080/0034340032000108697
+   Shen LY, 2011, HABITAT INT, V35, P17, DOI 10.1016/j.habitatint.2010.03.006
+   Smith N, 1984, UNEVEN DEV NATURE CA
+   Sobotka M., 2006, CONTRIBUTION MUNICIP
+   Statistics Canada, 2007, URB AR UA
+   Street P, 1997, FUTURES, V29, P139, DOI 10.1016/S0016-3287(96)00073-0
+   TANTER R, 1967, MIDWEST J POLIT SCI, V11, P145, DOI 10.2307/2109109
+   Tisdale H, 1942, SOC FORCES, V20, P311, DOI 10.2307/3005615
+   UDRY JR, 1964, SOC FORCES, V42, P403, DOI 10.2307/2574983
+   UN, 2010, WORLD URB PROSP 2009
+   UN-Habitat/DFID, 2002, SUST URB ACH AG 21
+   United Nations Population Fund, 2007, STAT WORLD POP 2007
+   van Dijk MP, 2005, ENVIRON IMPACT ASSES, V25, P667, DOI 10.1016/j.eiar.2004.10.001
+   Waheed B., 2009, SUSTAINABILITY, V1, P441, DOI DOI 10.3390/SU1030441
+   Ward D, 2000, PROF GEOGR, V52, P371, DOI 10.1111/0033-0124.00232
+   WILLIAMSON JG, 1965, J ECON HIST, V25, P592
+   Yigitcanlar T, 2009, THEORETICAL EMPIRICA, V4, P5
+   Zhang KH, 2003, CHINA ECON REV, V14, P386, DOI 10.1016/j.chieco.2003.09.018
+NR 68
+TC 55
+Z9 57
+SN 0264-2751
+PD FEB
+PY 2012
+VL 29
+IS 1
+BP 32
+EP 39
+DI 10.1016/j.cities.2011.06.008
+UT WOS:000300810000004
+ER
+
+PT J
+AU Rutter, P
+   Keirstead, J
+AF Rutter, Paul
+   Keirstead, James
+TI A brief history and the possible future of urban energy systems
+SO ENERGY POLICY
+DE Urban energy systems; History; Transitions
+ID UNITED-KINGDOM; PERSPECTIVE; TRANSITION; SERVICE; ORIGINS; GROWTH
+AB Modern cities depend on energy systems to deliver a range of services such as heating, cooling, lighting, mobility, communications, and so on. This article examines how these urban energy systems came to be, tracing the major transitions from the earliest settlements through to today's fossil-fuelled cities. The underlying theme is "increasing efficiency under constraints" with each transition marked by increasing energy efficiency in service provision, increasing per capita energy use, increasing complexity in the energy system's structure, with innovations driven by a strategic view of the overall system, and accompanied by wider changes in technology and society. In developed countries, the future of urban energy systems is likely to continue many of these trends, with increased efficiency being driven by the constraints of climate change and rising fuel prices. Both supply and demand side technologies are discussed as potential solutions to these issues, with different impacts on the urban environment and its citizens. However in developing countries, rising urban populations and access to basic energy services will drive the next transition. (C) 2012 Elsevier Ltd. All rights reserved.
+CR ACKROYD P, 2000, LONDON BIOGRAPHY
+   Allen Robert C., 2010, BRIT IND REVOLUTION
+   Alperson-Afil N, 2008, QUATERNARY SCI REV, V27, P1733, DOI 10.1016/j.quascirev.2008.06.009
+   Barbose G, 2011, TRACKING SUN
+   Barty-King Hugh, 1984, NEW FLAME
+   Bertoldi P, 2006, ENERG POLICY, V34, P1818, DOI 10.1016/j.enpol.2005.01.010
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Butler S., 2001, UK ELECT NETWORKS
+   Carrington D., 2012, GUARDIAN
+   Chancel L., 2010, URBAN ENERGY TRANSIT
+   Crump T., 2007, AGE STEAM POWER DROV
+   Diamond J., 2005, COLLAPSE SOC CHOOSE
+   Diamond J.M., 1998, GUNS GERMS STEEL SHO
+   FAWCETT T, 2000, LOWER CARBON FUTURES
+   Fisk DJ, 2006, ECOL COMPLEX, V3, P336, DOI 10.1016/j.ecocom.2007.02.007
+   Fouquet R, 2006, ENERG J, V27, P139
+   Fouquet R, 1998, ENERGY J, V19, P1
+   Fouquet R., 2003, LONG RUN TRENDS ENER
+   Fouquet R, 2010, ENERG POLICY, V38, P6586, DOI 10.1016/j.enpol.2010.06.029
+   Freese B, 2006, COAL HUMAN HIST
+   Fuller DQ, 2006, J WORLD PREHIST, V20, P1, DOI 10.1007/s10963-006-9006-8
+   Galloway JA, 1996, ECON HIST REV, V49, P447
+   Gates C, 2003, ANCIENT CITIES ARCHA
+   Geels FW, 2002, RES POLICY, V31, P1257, DOI 10.1016/S0048-7333(02)00062-8
+   Gibbons A., 2010, HUMAN ANCESTORS WERE
+   Godfrey E. S., 1975, DEV ENGLISH GLASSMAK
+   Grubler A., 2011, ENCY EARTH
+   Hannah L., 1979, ELECT NATL
+   Hughes T. P., 1983, NETWORKS POWER ELECT
+   IEA (International Energy Agency), 2008, WORLD EN OUTL
+   IET, 2012, ARC LAMPS INTR
+   Jaccard M, 2005, SUSTAINABLE FOSSIL FUELS: THE UNUSUAL SUSPECT IN THE QUEST FOR CLEAN AND ENDURING ENERGY, P1
+   Johnson D.C., 2004, 69 ANN M SOC AM ARCH
+   Keeley Lawrence, 1997, TROUBLED TIMES VIOLE, P303
+   Keirstead J., 2011, IMPACT CHP COMBINED
+   Kennedy C. A., 2011, EVOLUTION GREAT WORL
+   Kolbl R., 2003, NEW J PHYS, V5
+   LEACH G, 1992, ENERG POLICY, V20, P116, DOI 10.1016/0301-4215(92)90105-B
+   Malanima P., 2007, UNIFYING EUROPEAN EX
+   Malanima P, 2006, J GLOBAL HIST, V1, P101, DOI 10.1017/S1740022806000064
+   Mohammad S., 2009, URBAN PERI URBAN SLU
+   MSSO, 2012, J YOUNG 1811 1883
+   Nissing C., 2010, ENERGY POLICY
+   Parry D, 2005, ENG ANCIENT WORLD
+   Patterson W, 1999, TRANSFORMING ELECT C
+   Postgate J. N., 1994, EARLY MESOPOTAMIA SO
+   Rackham Oliver, 2010, WOODLANDS
+   Raleigh V.S., 2000, HUMAN REPROD UPDATE, V5, P500
+   SAMUELS ML, 1982, ENVIRON MANAGE, V6, P505, DOI 10.1007/BF01868379
+   SHIMAN DR, 1993, BUS EC HIS, V22, P318
+   Sieferle R.P., 2001, SUBTERRANEAN FOREST
+   Smil V., 1994, ENERGY WORLD HIST
+   Smil Vaclav, 2010, VISIONS DISCOVERY NE, P709
+   Sorensen B, 2011, HIST ENERGY NO EUROP
+   Sugihara H, 2004, ELECTR ENG JPN, V147, P20, DOI 10.1002/eej.10275
+   Tainter JA, 1988, COLLAPSE COMPLEX SOC
+   Tudge C., 1998, NEANDERTHALS BANDITS
+   Verbong G, 2007, ENERG POLICY, V35, P1025, DOI 10.1016/j.enpol.2006.02.010
+   Weber C, 2011, ENERGY, V36, P1292, DOI 10.1016/j.energy.2010.11.014
+   WEC (World Energy Council), 2010, EN URB INN
+   Williams Michael, 2002, DEFORESTING EARTH PR
+   WILLIAMS TI, 1981, HIST BRIT GAS IND
+   Wolmar Christian, 2004, SUBTERRANEAN RAILWAY
+   Wrangham RW, 1999, CURR ANTHROPOL, V40, P567, DOI 10.1086/300083
+   Wrigley E.A., 2010, ENERGY ENGLISH IND R
+NR 65
+TC 28
+Z9 28
+SN 0301-4215
+PD NOV
+PY 2012
+VL 50
+BP 72
+EP 80
+DI 10.1016/j.enpol.2012.03.072
+UT WOS:000310405800008
+ER
+
+PT J
+AU Petersen, AM
+   Tenenbaum, JN
+   Havlin, S
+   Stanley, HE
+   Perc, M
+AF Petersen, Alexander M.
+   Tenenbaum, Joel N.
+   Havlin, Shlomo
+   Stanley, H. Eugene
+   Perc, Matjaz
+TI Languages cool as they expand: Allometric scaling and the decreasing
+   need for new words
+SO SCIENTIFIC REPORTS
+ID LONG-RANGE CORRELATIONS; URBAN-GROWTH PATTERNS; ZIPFS LAW; CITIES; SIZE;
+   DISTRIBUTIONS; POPULATION; INNOVATION; CENTURIES; INSIGHTS
+AB We analyze the occurrence frequencies of over 15 million words recorded in millions of books published during the past two centuries in seven different languages. For all languages and chronological subsets of the data we confirm that two scaling regimes characterize the word frequency distributions, with only the more common words obeying the classic Zipf law. Using corpora of unprecedented size, we test the allometric scaling relation between the corpus size and the vocabulary size of growing languages to demonstrate a decreasing marginal need for new words, a feature that is likely related to the underlying correlations between words. We calculate the annual growth fluctuations of word use which has a decreasing trend as the corpus size increases, indicating a slowdown in linguistic evolution following language expansion. This "cooling pattern" forms the basis of a third statistical regularity, which unlike the Zipf and the Heaps law, is dynamical in nature.
+RI Petersen, Alexander/D-9243-2012; Perc, Matjaz/A-5148-2009
+OI Petersen, Alexander/0000-0002-0955-3483; Perc,
+   Matjaz/0000-0002-3087-541X
+CR Altmann EG, 2012, P NATL ACAD SCI USA, V109, P11582, DOI 10.1073/pnas.1117723109
+   Altmann EG, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0019009
+   Altmann EG, 2009, PLOS ONE, V4, pA31, DOI 10.1371/journal.pone.0007678
+   Alvarez-Lacalle E, 2006, P NATL ACAD SCI USA, V103, P7956, DOI 10.1073/pnas.0510673103
+   Amaral LAN, 1997, J PHYS I, V7, P621
+   Amaral LAN, 1998, PHYS REV LETT, V80, P1385, DOI 10.1103/PhysRevLett.80.1385
+   Serrano MA, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0005372
+   Baek SK, 2011, NEW J PHYS, V13, DOI 10.1088/1367-2630/13/4/043004
+   Ball P, 2012, WHY SOC IS COMPLEX M
+   Barabasi AL, 2012, NAT PHYS, V8, P14
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bernhardsson S, 2009, NEW J PHYS, V11, DOI 10.1088/1367-2630/11/12/123015
+   Bernhardsson S, 2010, PHYSICA A, V389, P330, DOI 10.1016/j.physa.2009.09.022
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Cancho RFI, 2005, EUR PHYS J B, V44, P249, DOI 10.1140/epjb/e2005-00121-8
+   Cancho RFI, 2003, P NATL ACAD SCI USA, V100, P788, DOI 10.1073/pnas.0335980100
+   CANCHO RFI, 2001, J QUANT LINGUIST, V8, P165, DOI DOI 10.1076/JQUL.8.3.165.4101
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Corral A., 2009, ARXIV09012924
+   Evans JA, 2011, SCIENCE, V331, P721, DOI 10.1126/science.1201765
+   Fu DF, 2005, P NATL ACAD SCI USA, V102, P18801, DOI 10.1073/pnas.0509543102
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gao JB, 2012, J R SOC INTERFACE, V9, P1956, DOI 10.1098/rsif.2011.0846
+   Gnedin A., 2007, PROBAB SURV, V4, P146, DOI DOI 10.1214/07-PS092
+   Heaps H. S., 1978, INFORM RETRIEVAL COM
+   Helbing D, 2011, EUR PHYS J-SPEC TOP, V195, P101, DOI 10.1140/epjst/e2011-01403-6
+   KARLIN S, 1967, J MATH MECH, V17, P373
+   KLEIBER MAX, 1932, HILGARDIA, V6, P315
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lu L, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014139
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Mandelbrot B, 1961, P S APPL MATH, V12, P190
+   MANTEGNA RN, 1995, PHYS REV E, V52, P2939, DOI 10.1103/PhysRevE.52.2939
+   Markosova M, 2008, PHYSICA A, V387, P661, DOI 10.1016/j.physa.2007.09.027
+   Michel JB, 2011, SCIENCE, V331, P176, DOI 10.1126/science.1199644
+   Montemurro MA, 2002, FRACTALS, V10, P451, DOI 10.1142/S0218348X02001257
+   Mufwene S. S., 2008, LANGUAGE EVOLUTION C
+   Mufwene S. S., 2001, ECOLOGY LANGUAGE EVO
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   OEHLERT GW, 1992, AM STAT, V46, P27, DOI 10.2307/2684406
+   Perc M, 2012, J R SOC INTERFACE, V9, P3323, DOI 10.1098/rsif.2012.0491
+   Petersen AM, 2012, SCI REP-UK, V2, DOI 10.1038/srep00313
+   Podobnik B, 2009, EPL-EUROPHYS LETT, V85, DOI 10.1209/0295-5075/85/50003
+   Riccaboni M, 2008, P NATL ACAD SCI USA, V105, P19595, DOI 10.1073/pnas.0810478105
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Sigman M, 2002, P NATL ACAD SCI USA, V99, P1742, DOI 10.1073/pnas.022341799
+   STANLEY MHR, 1995, ECON LETT, V49, P453, DOI 10.1016/0165-1765(95)00696-D
+   Steyvers M, 2005, COGNITIVE SCI, V29, P41, DOI 10.1207/s15516709cog2901_3
+   Tsonis AA, 1997, COMPLEXITY, V3, P12, DOI [10.1002/(SICI)1099-0526(199705/06)2:5,12::AID-CPLX3.3.0.CO;2-C, DOI 10.1002/(SICI)1099-0526(199705/06)2:5<12::AID-CPLX3.3.0.CO;2-C]
+   van Leijenhorst DC, 2005, INFORM SCIENCES, V170, P263, DOI 10.1016/j.ins.2004.03.006
+   Vespignani A, 2012, NAT PHYS, V8, P32
+   West GB, 2002, P NATL ACAD SCI USA, V99, P2473, DOI 10.1073/pnas.012579799
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 55
+TC 94
+Z9 94
+SN 2045-2322
+PD DEC 10
+PY 2012
+VL 2
+AR 943
+DI 10.1038/srep00943
+UT WOS:000312273400002
+PM 23230508
+ER

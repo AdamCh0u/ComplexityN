@@ -1,0 +1,586 @@
+
+PT J
+AU Gabaix, X
+AF Gabaix, Xavier
+TI Power Laws in Economics: An Introduction
+SO JOURNAL OF ECONOMIC PERSPECTIVES
+LA English
+DT Article
+ID AGGREGATE FLUCTUATIONS; INTERNATIONAL-TRADE; SIZE DISTRIBUTION; SCALING
+   LAWS; ZIPFS LAW; GROWTH; MARKET; MODEL; FIRMS; CITIES
+AB Many of the insights of economics seem to be qualitative, with many fewer reliable quantitative laws. However a series of power laws in economics do count as true and nontrivial quantitative laws-and they are not only established empirically, but also understood theoretically. I will start by providing several illustrations of empirical power laws having to do with patterns involving cities, firms, and the stock market. I summarize some of the theoretical explanations that have been proposed. I suggest that power laws help us explain many economic phenomena, including aggregate economic fluctuations. I hope to clarify why power laws are so special, and to demonstrate their utility. In conclusion, I list some power-law-related economic enigmas that demand further exploration.
+C1 [Gabaix, Xavier] NYU, Stern Sch Business, Finance, New York, NY USA.
+RP Gabaix, X (reprint author), NYU, Stern Sch Business, Finance, New York, NY USA.
+EM xgabaix@stern.nyu.edu
+CR Acemoglu D., 2015, NBER MACROECONOMICS
+   Acemoglu D, 2012, ECONOMETRICA, V80, P1977, DOI 10.3982/ECTA9623
+   ALLAIS M., 1947, ECONOMIE ET INTERET
+   Amiti Mary, 2013, 18890 NBER
+   Atkinson AB, 2011, J ECON LIT, V49, P3, DOI 10.1257/jel.49.1.3
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Bak P., 1993, RICERCHE ECONOMICHE, V47, P3, DOI DOI 10.1016/0035-5054(93)90023-V
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barro RJ, 2011, ECONOMETRICA, V79, P1567, DOI 10.3982/ECTA8827
+   BAUMOL WJ, 1989, J ECON LIT, V27, P1160
+   Behrens Kristian, 2013, J POLITICAL EC, V122, P507
+   Benhabib J, 2011, ECONOMETRICA, V79, P123, DOI 10.3982/ECTA8416
+   Bouchaud JP, 2009, HANDB FINANC, P57, DOI 10.1016/B978-012374258-2.50006-3
+   Carvalho V, 2013, AM ECON REV, V103, P1697, DOI 10.1257/aer.103.5.1697
+   Carvalho VM, 2014, J ECON PERSPECT, V28, P23, DOI 10.1257/jep.28.4.23
+   Champernowne DG, 1953, ECON J, V63, P318, DOI 10.2307/2227127
+   Chaney T, 2013, 19285 NBER
+   Davis DR, 2002, AM ECON REV, V92, P1269, DOI 10.1257/000282802762024502
+   di Giovanni J, 2014, ECONOMETRICA, V82, P1303, DOI 10.3982/ECTA11041
+   di Giovanni J, 2012, J POLIT ECON, V120, P1083, DOI 10.1086/669161
+   Dittmar Jeremiah, 2011, CITIES MARKETS GROWT
+   Eaton J, 2011, ECONOMETRICA, V79, P1453, DOI 10.3982/ECTA8318
+   Edmans A, 2011, REV FINANC STUD, V24, P2822, DOI 10.1093/rfs/hhq153
+   Edmans A, 2009, REV FINANC STUD, V22, P4881, DOI 10.1093/rfs/hhn117
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   Embrechts P., 1997, MODELLING EXTREMAL E
+   Foerster AT, 2011, J POLIT ECON, V119, P1, DOI 10.1086/659311
+   Fu DF, 2005, P NATL ACAD SCI USA, V102, P18801, DOI 10.1073/pnas.0509543102
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix X, 2003, NATURE, V423, P267, DOI 10.1038/nature01624
+   Gabaix X, 2008, Q J ECON, V123, P49, DOI 10.1162/qjec.2008.123.1.49
+   Gabaix X, 2006, Q J ECON, V121, P461, DOI 10.1162/qjec.2006.121.2.461
+   Gabaix X, 2014, Q J ECON, V129, P1661, DOI 10.1093/qje/qju024
+   Gabaix X, 2012, Q J ECON, V127, P645, DOI 10.1093/qje/qjs001
+   Gabaix X, 2011, ECONOMETRICA, V79, P733, DOI 10.3982/ECTA8769
+   Gabaix X, 2011, J BUS ECON STAT, V29, P24, DOI 10.1198/jbes.2009.06157
+   Gabaix X, 2009, ANNU REV ECON, V1, P255, DOI 10.1146/annurev.economics.050708.142940
+   Gabaix Xavier, 2015, 21363 NBER
+   Garicano L, 2006, Q J ECON, V121, P1383, DOI 10.1162/qjec.121.4.1383
+   Geerolf Francois, 2015, WORKING PAPER
+   Gibrat R., 1931, INEGALITES EC
+   Gopikrishnan P, 1999, PHYS REV E, V60, P5305, DOI 10.1103/PhysRevE.60.5305
+   Helpman E, 2004, AM ECON REV, V94, P300, DOI 10.1257/000282804322970814
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, P1
+   JENSEN MC, 1990, J POLIT ECON, V98, P225, DOI 10.1086/261677
+   Jones CI, 2005, Q J ECON, V120, P517, DOI 10.1162/0033553053970142
+   Kelly B., 2013, 19466 NBER
+   Kelly B, 2014, REV FINANC STUD, V27, P2841, DOI 10.1093/rfs/hhu039
+   Koren M, 2013, AM ECON REV, V103, P378, DOI 10.1257/aer.103.1.378
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Kyle Albert, 2014, MARKET MICROSTRUCTUR
+   Lee YK, 1998, PHYS REV LETT, V81, P3275, DOI 10.1103/PhysRevLett.81.3275
+   Levy M, 1996, INT J MOD PHYS C, V7, P595, DOI 10.1142/S0129183196000491
+   Levy M, 2014, PHYSICA A, V393, P418, DOI 10.1016/j.physa.2013.08.067
+   Levy M, 2010, PHYSICA A, V389, P4913, DOI 10.1016/j.physa.2010.07.008
+   Lucas RE, 2014, J POLIT ECON, V122, P1, DOI 10.1086/674363
+   Luttmer EGJ, 2007, Q J ECON, V122, P1103, DOI 10.1162/qjec.122.3.1103
+   Mantegna R. N., 2000, INTRO ECONOPHYSICS C
+   Newman M. E. J., 2010, NETWORKS INTRO
+   Nirei M, 2006, J ECON THEORY, V127, P309, DOI 10.1016/j.jet.2004.08.006
+   Obizhaeva Anna, 2013, AFA 2013 SAN DIEG M
+   Pareto V., 1896, COURS EC POLITIQUE
+   PERSKY J, 1992, J ECON PERSPECT, V6, P181, DOI 10.1257/jep.6.2.181
+   Piketty Thomas, 2014, Q J ECON, V129, P1255
+   Plerou V, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.046131
+   Plerou V, 1999, PHYS REV E, V60, P6519, DOI 10.1103/PhysRevE.60.6519
+   Riccaboni M, 2008, P NATL ACAD SCI USA, V105, P19595, DOI 10.1073/pnas.0810478105
+   ROBERTS DR, 1956, Q J ECON, V70, P270, DOI 10.2307/1884268
+   ROSEN S, 1981, AM ECON REV, V71, P845
+   Rossi-Hansberg E, 2007, REV ECON STUD, V74, P597, DOI 10.1111/j.1467-937X.2007.00432.x
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Samuelson Paul A., 1969, INT EC RELATIONS, P1
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   Solomon S, 2001, PHYSICA A, V299, P188, DOI 10.1016/S0378-4371(01)00295-3
+   SORNETTE D., 2006, CRITICAL PHENOMENA N
+   Stanley MHR, 1996, NATURE, V379, P804, DOI 10.1038/379804a0
+   SUMMERS R, 1991, Q J ECON, V106, P327, DOI 10.2307/2937941
+   Tervio M, 2008, AM ECON REV, V98, P642, DOI 10.1257/aer.98.3.642
+   Toda AA, 2015, J POLIT ECON, V123, P1177, DOI 10.1086/682729
+   Turcotte D, 1997, FRACTALS CHAOS GEOLO
+   United States Census Bureau, 2012, STAT ABSTR US 2012
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   West GB, 2000, SFI S SCI C, P87
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 85
+TC 34
+Z9 34
+U1 3
+U2 66
+PU AMER ECONOMIC ASSOC
+PI NASHVILLE
+PA 2014 BROADWAY, STE 305, NASHVILLE, TN 37203 USA
+SN 0895-3309
+EI 1944-7965
+J9 J ECON PERSPECT
+JI J. Econ. Perspect.
+PD WIN
+PY 2016
+VL 30
+IS 1
+BP 185
+EP 205
+DI 10.1257/jep.30.1.185
+PG 21
+WC Economics
+SC Business & Economics
+GA DP1GT
+UT WOS:000378239200009
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Youn, H
+   Bettencourt, LMA
+   Lobo, J
+   Strumsky, D
+   Samaniego, H
+   West, GB
+AF Youn, Hyejin
+   Bettencourt, Luis M. A.
+   Lobo, Jose
+   Strumsky, Deborah
+   Samaniego, Horacio
+   West, Geoffrey B.
+TI Scaling and universality in urban economic diversification
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE universality; power laws; urban indicators; scaling laws; urban scaling
+ID POWER LAWS; CITY SIZE; CITIES; DIVERSITY; GROWTH; INNOVATION; LIFE
+AB Understanding cities is central to addressing major global challenges from climate change to economic resilience. Although increasingly perceived as fundamental socio-economic units, the detailed fabric of urban economic activities is only recently accessible to comprehensive analyses with the availability of large datasets. Here, we study abundances of business categories across US metropolitan statistical areas, and provide a framework for measuring the intrinsic diversity of economic activities that transcends scales of the classification scheme. A universal structure common to all cities is revealed, manifesting self-similarity in internal economic structure as well as aggregated metrics (GDP, patents, crime). We present a simple mathematical derivation of the universality, and provide a model, together with its economic implications of open-ended diversity created by urbanization, for understanding the observed empirical distribution. Given the universal distribution, scaling analyses for individual business categories enable us to determine their relative abundances as a function of city size. These results shed light on the processes of economic differentiation with scale, suggesting a general structure for the growth of national economies as integrated urban systems.
+C1 [Youn, Hyejin; West, Geoffrey B.] Univ Oxford, Inst New Econ Thinking, Oxford OX2 6ED, England.
+   [Youn, Hyejin] Univ Oxford, Math Inst, Oxford OX2 6GG, England.
+   [Youn, Hyejin; Bettencourt, Luis M. A.; West, Geoffrey B.] Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.
+   [Lobo, Jose] Arizona State Univ, Ctr Social Dynam & Complex, Tempe, AZ 85281 USA.
+   [Lobo, Jose] Arizona State Univ, Sch Sustainabil, Tempe, AZ 85281 USA.
+   [Strumsky, Deborah] Arizona State Univ, Santa Fe Inst Ctr Biosocial Complex Syst, Tempe, AZ 85281 USA.
+   [Samaniego, Horacio] Univ Austral Chile, Inst Conservac Biodiversidad & Terr, Valdivia, Chile.
+   [Samaniego, Horacio] Inst Ecol & Biodiversidad, Casilla 653, Santiago, Chile.
+   [West, Geoffrey B.] Univ London Imperial Coll Sci Technol & Med, Dept Math, Huxley Bldg, London SW7 2AZ, England.
+RP Youn, H (reprint author), Univ Oxford, Inst New Econ Thinking, Oxford OX2 6ED, England.; Youn, H (reprint author), Univ Oxford, Math Inst, Oxford OX2 6GG, England.; Youn, H (reprint author), Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.
+EM youn@maths.ox.ac.uk
+OI Youn, Hyejin/0000-0002-6190-4412
+FU Rockefeller Foundation; James S. McDonnell Foundation [220020195];
+   National Science Foundation [SMA-1312294]; John Templeton Foundation
+   [15705]; U.S. Department of Energy through LANL/LDRD Program
+   [DE-AC52-06NA25396]
+FX This research is partially supported by the Rockefeller Foundation, the
+   James S. McDonnell Foundation (grant no. 220020195), the National
+   Science Foundation (no. SMA-1312294), the John Templeton Foundation (no.
+   15705), the U.S. Department of Energy through the LANL/LDRD Program
+   (contract no. DE-AC52-06NA25396) and by gifts from the Bryan J. and June
+   B. Zwan Foundation and the Eugene and Clare Thaw Charitable Trust.
+CR ABDELRAHMAN H, 1990, J REGIONAL SCI, V30, P165, DOI 10.1111/j.1467-9787.1990.tb00091.x
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2013, HYPOTHESIS URBAN SCA
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Christaller W, 1966, CENTRAL PLACES SO GE
+   Davis Steven, 1998, JOB CREATION DESTRUC
+   Desmet K, 2013, 1302 RWP FED RES BAN
+   DIXIT AK, 1977, AM ECON REV, V67, P297
+   Duranton G, 2001, AM ECON REV, V91, P1454, DOI 10.1257/aer.91.5.1454
+   Duranton G., 2013, 1308 CEMFI
+   Duranton G, 2007, AM ECON REV, V97, P197, DOI 10.1257/aer.97.1.197
+   Duranton G, 2011, J URBAN ECON, V69, P56, DOI 10.1016/j.jue.2010.08.004
+   Florida R., 2002, RISE CREATIVE CLASS
+   Fu DF, 2005, P NATL ACAD SCI USA, V102, P18801, DOI 10.1073/pnas.0509543102
+   Gabaix X, 2009, ANNU REV ECON, V1, P255, DOI 10.1146/annurev.economics.050708.142940
+   Gaubert C., 2014, WORKING PAPER
+   Glaeser E., 2011, TRIUMPH CITY OUR GRE
+   GLAESER EL, 1992, J POLIT ECON, V100, P1126, DOI 10.1086/261856
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Henderson J. V., 1988, URBAN DEV THEORY FAC
+   Hidalgo CA, 2007, SCIENCE, V317, P482, DOI 10.1126/science.1144581
+   Hidalgo CA, 2009, P NATL ACAD SCI USA, V106, P10570, DOI 10.1073/pnas.0900943106
+   Hsu WT, 2012, ECON J, V122, P903, DOI 10.1111/j.1468-0297.2012.02518.x
+   Jacobs J., 1984, CITIES WEALTH NATION
+   Klepper S, 1997, IND CORP CHANGE, V6, P145, DOI DOI 10.1093/ICC/6.1.145
+   Losch A, 1940, EC LOCATION
+   Manning A, 2010, J ECON GEOGR, V10, P717, DOI 10.1093/jeg/lbp042
+   Mori T, 2008, J REGIONAL SCI, V48, P165, DOI 10.1111/j.1467-9787.2008.00550.x
+   Neumark D, 2011, REV ECON STAT, V93, P16, DOI 10.1162/REST_a_00060
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Page S., 2008, THE DIFFERENCE
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Quigley JM, 1998, J ECON PERSPECT, V12, P127, DOI 10.1257/jep.12.2.127
+   Sachs DJ, 1994, MACROECONOMICS GLOBA
+   Schiff N, 2015, J ECON GEOGR, V15, P1085, DOI 10.1093/jeg/lbu040
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Walls DW, 2007, KAUFFM S ENTR INN DA
+   WHITTAKER R H, 1972, Taxon, V21, P213, DOI 10.2307/1218190
+   Youn HJ, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0272
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+NR 47
+TC 18
+Z9 19
+U1 3
+U2 27
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD JAN 1
+PY 2016
+VL 13
+IS 114
+AR 20150937
+DI 10.1098/rsif.2015.0937
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DK5KO
+UT WOS:000374959000012
+PM 26790997
+OA Green Published, Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Suarez, G
+   Munoz, A
+   Farraz, IA
+   Talavera, E
+   Tenorio, V
+   Novelo-Casanova, DA
+   Sanchez, A
+AF Suarez, Gerardo
+   Munoz, Angelica
+   Farraz, Isaac A.
+   Talavera, Emilio
+   Tenorio, Virginia
+   Novelo-Casanova, David A.
+   Sanchez, Antonio
+TI The 10 April 2014 Nicaraguan Crustal Earthquake: Evidence of Complex
+   Deformation of the Central American Volcanic Arc
+SO PURE AND APPLIED GEOPHYSICS
+LA English
+DT Article
+DE Nicaraguan tectonics; crustal deformation; bookshelf faulting; Central
+   American; seismicity
+ID DECEMBER 23; MANAGUA EARTHQUAKE; PLATE CONVERGENCE; WESTERN MANAGUA; EL
+   SALVADOR; MOTION; FAULT; SLIP; GPS; DISPLACEMENT
+AB On 10 April 2014, an M (w) 6.1 earthquake struck central Nicaragua. The main event and the aftershocks were clearly recorded by the Nicaraguan national seismic network and other regional seismic stations. These crustal earthquakes were strongly felt in central Nicaragua but caused relatively little damage. This is in sharp contrast to the destructive effects of the 1972 earthquake in the capital city of Managua. The differences in damage stem from the fact that the 1972 earthquake occurred on a fault beneath the city; in contrast, the 2014 event lies offshore, under Lake Managua. The distribution of aftershocks of the 2014 event shows two clusters of seismic activity. In the northwestern part of Lake Managua, an alignment of aftershocks suggests a northwest to southeast striking fault, parallel to the volcanic arc. The source mechanism agrees with this right-lateral, strike-slip motion on a plane with the same orientation as the aftershock sequence. For an earthquake of this magnitude, seismic scaling relations between fault length and magnitude predict a sub-surface fault length of approximately 16 km. This length is in good agreement with the extent of the fault defined by the aftershock sequence. A second cluster of aftershocks beneath Apoyeque volcano occurred simultaneously, but spatially separated from the first. There is no clear alignment of the epicenters in this cluster. Nevertheless, the decay of the number of earthquakes beneath Apoyeque as a function of time shows the typical behavior of an aftershock sequence and not of a volcanic swarm. The northeast-southwest striking Tiscapa/Ciudad Jardin and Estadio faults that broke during the 1972 and 1931 Managua earthquakes are orthogonal to the fault where the 10 April earthquake occurred. These orthogonal faults in close geographic proximity show that Central Nicaragua is being deformed in a complex tectonic setting. The Nicaraguan forearc sliver, between the trench and the volcanic arc, moves to the northwest relative to the Caribbean plate at a rate of 14 mm/year. Part of the deformation is apparently accommodated by strain partitioning in the form of bookshelf faulting, on a system of orthogonal faults. The sinistral faults striking northeast-southwest rotate blocks of the Caribbean plate in a clockwise manner. The recent crustal earthquakes in central Nicaragua in 1931, 1972 and 2005 earthquakes took place on these left-lateral faults. The motion of the forearc sliver is also accommodated by a second set of right-lateral, strike-slip faults oriented parallel to the volcanic arc. Faults with this orientation and direction of motion are responsible for the 2014 and possibly the 1955 earthquakes. The presence of this geometry of orthogonal crustal faults highlights the seismic hazard posed by this complex faulting system, not only in the capital city of Managua, but also to the major Nicaraguan cities, which lie close to the volcanic arc.
+C1 [Suarez, Gerardo; Novelo-Casanova, David A.] Univ Nacl Autonoma Mexico, Inst Geofis, Mexico City 04510, DF, Mexico.
+   [Munoz, Angelica; Talavera, Emilio; Tenorio, Virginia] Inst Nacl Estudios Terr INETER, Managua, Nicaragua.
+   [Farraz, Isaac A.] Terracon Ingn SA CV, Mexico City, DF, Mexico.
+   [Sanchez, Antonio] Trimble Nav Ltd, Plano, TX USA.
+RP Suarez, G (reprint author), Univ Nacl Autonoma Mexico, Inst Geofis, Mexico City 04510, DF, Mexico.
+EM gerardo@geofisica.unam.mx
+FU Mexican Council of Science and Technology (CONACYT) [082821]; Secretaria
+   de Relaciones Exteriores de Mexico (Foreign Ministry of Mexico)
+FX The authors acknowledge Grant Number 082821 from the Mexican Council of
+   Science and Technology (CONACYT) for support in conducting this work and
+   a grant from the Secretaria de Relaciones Exteriores de Mexico (Foreign
+   Ministry of Mexico), which allowed the authors to enjoy scientific
+   exchange visits. Thanks are due to the Instituto Nacional de Estudios
+   Territoriales of Nicaragua (INETER) for providing data from the national
+   seismic network. Support from Jorge A. Castillo in relocating the
+   mainshock of 10 April is acknowledged. The authors would like to thank
+   two anonymous reviewers and W. Bandy for valuable comments and
+   suggestions that greatly improved the paper.
+CR ALGERMISSEN ST, 1974, B SEISMOL SOC AM, V64, P993
+   Alvarado D, 2011, LITHOSPHERE-US, V3, P3, DOI 10.1130/L108.1
+   Ambraseys NN, 1996, GEOPHYS J INT, V127, P665, DOI 10.1111/j.1365-246X.1996.tb04046.x
+   Bondar I, 2004, GEOPHYS J INT, V156, P483, DOI 10.1111/j.1365-246X.2004.02070.x
+   Brown R. D.  Jr., 1974, Bulletin of the Seismological Society of America, V64
+   CARR M. J., 1976, GEOL SOC AM BULL, V87, P825
+   CHATELAIN JL, 1980, J GEOPHYS RES, V85, P1365, DOI 10.1029/JB085iB03p01365
+   CLUFF LS, 1973, GEOLOGICAL OBSERVATI, P5
+   Correa-Mora F, 2009, GEOPHYS J INT, V179, P1279, DOI 10.1111/j.1365-246X.2009.04371.x
+   Cowan H, 2002, B SEISMOL SOC AM, V92, P1694, DOI 10.1785/0120010100
+   DeMets C, 2001, GEOPHYS RES LETT, V28, P4043, DOI 10.1029/2001GL013518
+   DeMets C, 2007, GEOL SOC AM SPEC PAP, V428, P21, DOI 10.1130/2007.2428(02)
+   DURHAM H. W., 1931, MANAGUA EARTHQUAKE 1, P696
+   DZIEWONSKI AM, 1981, J GEOPHYS RES, V86, P2825, DOI 10.1029/JB086iB04p02825
+   FITCH TJ, 1972, J GEOPHYS RES, V77, P4432, DOI 10.1029/JB077i023p04432
+   FRENCH S. W., 2010, GEOCHEMISTRY GEOPHYS, V11, P3
+   GEIST EL, 1988, TECTONICS, V7, P327, DOI 10.1029/TC007i002p00327
+   GOMBERG JS, 1990, B SEISMOL SOC AM, V80, P1605
+   JARRARD RD, 1986, GEOLOGY, V14, P780, DOI 10.1130/0091-7613(1986)14<780:TMBSFO>2.0.CO;2
+   KATES RW, 1973, SCIENCE, V182, P981, DOI 10.1126/science.182.4116.981
+   KISSLING E, 1988, REV GEOPHYS, V26, P659, DOI 10.1029/RG026i004p00659
+   KNUDSON CF, 1974, B SEISMOL SOC AM, V64, P1049
+   Kobayashi D, 2014, GEOCHEM GEOPHY GEOSY, V15, P1671, DOI 10.1002/2014GC005234
+   KRAMER S., 1973, 807 NAT BUR STAND
+   La Femina PC, 2002, GEOLOGY, V30, P751, DOI 10.1130/0091-7613(2002)030<0751:BFIN>2.0.CO;2
+   LaFemina P, 2009, GEOCHEM GEOPHY GEOSY, V10, DOI 10.1029/2008GC002181
+   LANGER CJ, 1974, B SEISMOL SOC AM, V64, P1005
+   LEEDS DJ, 1974, B SEISMOL SOC AM, V64, P1135
+   MCBIRNEY AR, 1965, U CALIFORNIA PUBLICA, V55, P1
+   MCCAFFREY R, 1992, J GEOPHYS RES-SOL EA, V97, P8905, DOI 10.1029/92JB00483
+   MCNUTT S. R., 1996, GLOBAL VOLCANIC EART
+   Mogi K., 1963, B EARTHQ RES I TOKYO, P615
+   Omori F., 1894, J COLL SCI IMP U TOK, V7, P111
+   Pardo N, 2009, J VOLCANOL GEOTH RES, V184, P292, DOI 10.1016/j.jvolgeores.2009.04.006
+   Avellan DR, 2012, J VOLCANOL GEOTH RES, V213, P51, DOI 10.1016/j.jvolgeores.2011.11.002
+   ROJAS W., 1993, REV GEOLOGICA AM CEN, V16
+   STIRLING M. W., 2002, B SEISMOLOGICAL SOC, V92, P355
+   Stoiber R., 1973, B VOLCANOL, V37, P304, DOI [DOI 10.1007/BF02597631, 10.1007/BF02597631]
+   STRAUCH W., 2002, B SEISMOL SOC AM, V92, P1694
+   Sultan D. I., 1931, MILITARY ENG, V92, P354
+   Turner HL, 2007, GEOPHYS RES LETT, V34, DOI 10.1029/2006GL027586
+   UTSU T, 1995, J PHYS EARTH, V43, P1, DOI 10.4294/jpe1952.43.1
+   Utsu T., 1961, GEOPHYS MAG, V30, P521, DOI DOI 10.1007/BF01592930
+   WARD PL, 1974, B SEISMOL SOC AM, V64, P1017
+   WEINBERG RF, 1992, TECTONICS, V11, P1010, DOI 10.1029/92TC00859
+   WELLS DL, 1994, B SEISMOL SOC AM, V84, P974
+   Wesnousky SG, 2008, B SEISMOL SOC AM, V98, P1609, DOI 10.1785/0120070111
+   WHITE RA, 1993, B SEISMOL SOC AM, V83, P1115
+   WHITE RA, 1991, NEOTECTONICS N AM, P323
+   WYLLIE LA, 1974, B SEISMOL SOC AM, V64, P1069
+NR 50
+TC 0
+Z9 0
+U1 2
+U2 3
+PU SPRINGER BASEL AG
+PI BASEL
+PA PICASSOPLATZ 4, BASEL, 4052, SWITZERLAND
+SN 0033-4553
+EI 1420-9136
+J9 PURE APPL GEOPHYS
+JI Pure Appl. Geophys.
+PD OCT
+PY 2016
+VL 173
+IS 10-11
+BP 3305
+EP 3315
+DI 10.1007/s00024-015-1201-z
+PG 11
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA DY6IB
+UT WOS:000385208500006
+DA 2019-03-26
+ER
+
+PT J
+AU Monteiro, MV
+   Doick, KJ
+   Handley, P
+AF Monteiro, Madalena Vaz
+   Doick, Kieron J.
+   Handley, Phillip
+TI Allometric relationships for urban trees in Great Britain
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+DE Allometry; Crown width; Diameter at breast height; Ecosystem services
+   assessment; Tree height; Urban trees
+ID STEM DIAMETER; CROWN SIZE; HEIGHT; GROWTH; FOREST; INFORMATION;
+   EQUATIONS; COMPLEX; BIOMASS; MODEL
+AB Tree allometry describes the relationship between tree biometric variables, such as tree diameter (at breast height, DBH), height and crown width and helps urban foresters to assess many of the economic and ecological benefits provided by trees of different size. However, there is little knowledge on how the relationships established between those variables change between trees from different urban areas or species, especially within Great Britain (GB). This study aims to evaluate the variation in the allometric relationships of seven tree species growing in eight GB urban areas, and to understand if the use of generic curves representing relationships of trees growing across all locations is adequate. The variation between locations was highly significant; nevertheless, mean relationships of young trees growing in different locations were still accurately represented by a common species curve. Species with a similar stature also showed significant differences in their mean allometric relationships, reducing the level of accuracy when estimating mean relationships with multiple-species curves. Findings also suggest that crown width could be correctly predicted from DBH measurements. This knowledge can be used in citizen science based surveys, where the measurement of crown width is required but often challenging. Crown Copyright (C) 2016 Published by Elsevier GmbH. All rights reserved.
+C1 [Monteiro, Madalena Vaz; Doick, Kieron J.; Handley, Phillip] Ctr Sustainable Forestry & Climate Change, Land Regenerat & Urban Greenspace Res Grp, Forest Res, Farnham GU10 4LH, Surrey, England.
+RP Monteiro, MV (reprint author), Ctr Sustainable Forestry & Climate Change, Land Regenerat & Urban Greenspace Res Grp, Forest Res, Farnham GU10 4LH, Surrey, England.
+EM Madalena.VazMonteiro@forestry.gsi.gov.uk
+FU Forestry Commission (Great Britain)
+FX Our thanks to Kenton Rogers and i-Tree support for data and all those
+   who contributed to the individual i-Tree studies. We also thank Forestry
+   Commission (Great Britain) for funding and Dr Tom Connolly and Dr Catia
+   Arcangeli for reviewing an earlier version of the manuscript.
+CR Ab Shukor N.A., 1994, PERTANIKA J TROP AGR, V17, P95
+   Avsar M. D., 2004, Journal of Biological Sciences, V4, P437
+   Cregg B. M., 2001, Journal of Arboriculture, V27, P8
+   Curtin R. A., 1964, Australian Forestry, V28, P91
+   Doick K., 2016, VALUING URBAN TREES
+   Gill SJ, 2000, FOREST ECOL MANAG, V126, P405, DOI 10.1016/S0378-1127(99)00113-9
+   Gillner S., 2015, Landscape and Urban Planning, V143, P33, DOI 10.1016/j.landurbplan.2015.06.005
+   Hemery GE, 2005, FOREST ECOL MANAG, V215, P285, DOI 10.1016/j.foreco.2005.05.016
+   HUANG SM, 1992, CAN J FOREST RES, V22, P1297, DOI 10.1139/x92-172
+   Hutchings T, 2012, ESTIMATING ECOSYSTEM
+   i-Tree, 2016, I TREE EC MAN
+   Jim CY, 1998, LANDSCAPE URBAN PLAN, V40, P235, DOI 10.1016/S0169-2046(97)00117-5
+   Kalliovirta J, 2005, SILVA FENN, V39, P227, DOI 10.14214/sf.386
+   Klumpp G, 2000, SCI TOTAL ENVIRON, V246, P79, DOI 10.1016/S0048-9697(99)00453-2
+   Lukaszkiewicz Jan, 2008, Arboriculture & Urban Forestry, V34, P137
+   Maco Scott E., 2002, Journal of Arboriculture, V28, P270
+   MONN C, 1995, ATMOS ENVIRON, V29, P2565, DOI 10.1016/1352-2310(95)94999-U
+   Moser A, 2015, URBAN FOR URBAN GREE, V14, P1110, DOI 10.1016/j.ufug.2015.10.005
+   Nowak D. J., 1990, Journal of Arboriculture, V16, P231
+   Nowak David J., 2006, Urban Forestry & Urban Greening, V4, P115, DOI 10.1016/j.ufug.2006.01.007
+   Nowak DJ, 1996, FOREST SCI, V42, P504
+   NOWAK DJ, 1993, J ENVIRON MANAGE, V37, P207, DOI 10.1006/jema.1993.1017
+   OKE TR, 1982, Q J ROY METEOR SOC, V108, P1, DOI 10.1002/qj.49710845502
+   Osman E.L.M.H., 2013, J FOR PROD IND, V2, P34
+   Osunkoya OO, 2007, AM J BOT, V94, P1951, DOI 10.3732/ajb.94.12.1951
+   Peper PJ, 2014, URBAN FOR URBAN GREE, V13, P175, DOI 10.1016/j.ufug.2013.07.002
+   Peper Paula J., 2001, Journal of Arboriculture, V27, P306
+   Pretzsch H, 2015, URBAN FOR URBAN GREE, V14, P466, DOI 10.1016/j.ufug.2015.04.006
+   Rhoades Richard W., 1999, Journal of Arboriculture, V25, P211
+   RICH PM, 1986, B TORREY BOT CLUB, V113, P241, DOI 10.2307/2996362
+   Rogers K., 2015, VALUING LONDONS URBA
+   Rogers K., 2012, GREEN BENEFITS VICTO
+   Rogers K., 2011, TORBAYS URBAN FOREST
+   Rumble H, 2015, VALUING URBAN TREES
+   Rumble H., 2014, VALUING WREXHAMS URB
+   Rust S, 2014, URBAN FOR URBAN GREE, V13, P336, DOI 10.1016/j.ufug.2013.12.003
+   Semenzato P, 2011, URBAN FOR URBAN GREE, V10, P169, DOI 10.1016/j.ufug.2011.05.001
+   SPRUGEL DG, 1983, ECOLOGY, V64, P209, DOI 10.2307/1937343
+   Stoffberg G. H., 2008, Urban Forestry & Urban Greening, V7, P259, DOI 10.1016/j.ufug.2008.05.002
+   Swiecki T.J., 2001, GUIDELINES DEV EVALU
+   Symonds MRE, 2011, BEHAV ECOL SOCIOBIOL, V65, P13, DOI 10.1007/s00265-010-1037-6
+   Temesgen H, 2004, EUR J FOR RES, V123, P45, DOI 10.1007/s10342-004-0020-z
+   Timilsina N, 2014, LANDSCAPE URBAN PLAN, V127, P18, DOI 10.1016/j.landurbplan.2014.04.003
+   Troxel B, 2013, URBAN FOR URBAN GREE, V12, P144, DOI 10.1016/j.ufug.2013.02.006
+   WHITE JOHN F., 1965, AMERNATUR, V99, P5, DOI 10.1086/282344
+   Xiao Qingfu, 2002, Urban Ecosystems, V6, P291, DOI 10.1023/B:UECO.0000004828.05143.67
+   ZIANIS D., 2005, SILVA FENNICA MONOGR, V4, P63
+NR 47
+TC 3
+Z9 3
+U1 3
+U2 17
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PD SEP 1
+PY 2016
+VL 19
+BP 223
+EP 236
+DI 10.1016/j.ufug.2016.07.009
+PG 14
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA DZ9JF
+UT WOS:000386190500026
+DA 2019-03-26
+ER
+
+PT J
+AU Sobolevsky, S
+   Sitko, I
+   des Combes, RT
+   Hawelka, B
+   Arias, JM
+   Ratti, C
+AF Sobolevsky, Stanislav
+   Sitko, Izabela
+   Tachet des Combes, Remi
+   Hawelka, Bartosz
+   Murillo Arias, Juan
+   Ratti, Carlo
+TI Cities through the Prism of People's Spending Behavior
+SO PLOS ONE
+LA English
+DT Article
+ID HUMAN MOBILITY PATTERNS; SHOPPING BEHAVIOR; PHONE DATA; PROXY
+AB Scientific studies of society increasingly rely on digital traces produced by various aspects of human activity. In this paper, we exploit a relatively unexplored source of data-anonymized records of bank card transactions collected in Spain by a big European bank, and propose a new classification scheme of cities based on the economic behavior of their residents. First, we study how individual spending behavior is qualitatively and quantitatively affected by various factors such as customer's age, gender, and size of his/her home city. We show that, similar to other socioeconomic urban quantities, individual spending activity exhibits a statistically significant superlinear scaling with city size. With respect to the general trends, we quantify the distinctive signature of each city in terms of residents' spending behavior, independently from the effects of scale and demographic heterogeneity. Based on the comparison of city signatures, we build a novel classification of cities across Spain in three categories. That classification exhibits a substantial stability over different city definitions and connects with a meaningful socioeconomic interpretation. Furthermore, it corresponds with the ability of cities to attract foreign visitors, which is a particularly remarkable finding given that the classification was based exclusively on the behavioral patterns of city residents. This highlights the far-reaching applicability of the presented classification approach and its ability to discover patterns that go beyond the quantities directly involved in it.
+C1 [Sobolevsky, Stanislav] NYU, Ctr Urban Sci & Progress, Brooklyn, NY USA.
+   [Sobolevsky, Stanislav; Tachet des Combes, Remi; Ratti, Carlo] MIT, Senseable City Lab, Cambridge, MA 02139 USA.
+   [Sitko, Izabela; Hawelka, Bartosz] Salzburg Univ, Dept Geoinformat Z GIS, A-5020 Salzburg, Austria.
+   [Murillo Arias, Juan] Data & Analyt BBVA, Madrid, Spain.
+RP Sobolevsky, S (reprint author), NYU, Ctr Urban Sci & Progress, Brooklyn, NY USA.
+EM sobolevsky@nyu.edu
+FU Austrian Science Fund (FWF) through the Doctoral College GIScience at
+   the University of Salzburg [DK W 1237-N23]; SENSEable city lab
+   consortium; Austrian Science Fund (FWF) through the Doctoral College
+   GIScience [DK W 1237-N23]
+FX IS and BH are receiving financial support from Austrian Science Fund
+   (FWF, https://www.fwf.ac.at/en/) through the Doctoral College GIScience
+   at the University of Salzburg (DK W 1237-N23). This research has been
+   funded through the SENSEable city lab consortium, where BBVA acted as
+   one of the sponsors. One of the authors of the paper (JMA) is BBVA's
+   employee. The funder provided support in the form of salaries for the
+   specified author as well as funding for the SENSEable city lab where
+   other authors (SS, RTC, CR) are employed, but did not have any
+   additional role in the study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript. The specific
+   roles of these authors are articulated in the "author contributions"
+   section.; The authors would like to thank BBVA for providing the dataset
+   for this research. Special thanks to Assaf Biderman, Marco Bressan,
+   Elena Alfaro Martinez, Maria Hernandez Rubio and Heribert Valero for
+   organizational support of the project and stimulating discussions. We
+   further thank the BBVA, MIT SMART Program, Center for Complex
+   Engineering Systems (CCES) at KACST and MIT, Accenture, Air Liquide, The
+   Coca Cola Company, Emirates Integrated Telecommunications Company, The
+   ENELfoundation, Ericsson, Expo 2015, Ferrovial, Liberty Mutual, The
+   Regional Municipality of Wood Buffalo, Volkswagen Electronics Research
+   Lab, UBER and all the members of the MIT Senseable City Lab Consortium
+   for supporting the research. IS and BH acknowledge the support of the
+   Austrian Science Fund (FWF) through the Doctoral College GIScience (DK W
+   1237-N23).
+CR Amini A, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds31
+   [Anonymous], 2007, FINAL REPORT
+   Arcaute E, 2014, PREPRINT
+   Arribas-Bel D, 2013, CITIES, V31, P248, DOI 10.1016/j.cities.2012.06.019
+   Bagchi M, 2005, TRANSP POLICY, V12, P464, DOI 10.1016/j.tranpol.2005.06.008
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bhantagar A, 2000, COMMUNICATIONS OF TH, V43, P98, DOI [10.1145/353360.353371, DOI 10.1145/353360.353371]
+   Borzekowski R, 2008, J MONEY CREDIT BANK, V40, P149, DOI 10.1111/j.1538-4616.2008.00107.x
+   Bounie D, 2006, SSRN SCHOLARLY PAPER
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Chan PK, 1999, IEEE INTELL SYST APP, V14, P67, DOI 10.1109/5254.809570
+   Childers TL, 2001, J RETAILING, V77, P511, DOI 10.1016/S0022-4359(01)00056-2
+   Dholakia R. R., 1999, INT J RETAIL DISTRIB, V27, P154, DOI DOI 10.1108/09590559910268499
+   Frank Morgan R, 2013, Sci Rep, V3, P2625, DOI 10.1038/srep02625
+   Girardin F, 2008, PERVASIVE COMPUTING, V7, P5276, DOI [10.1109/MPRV.2008.71, DOI 10.1109/MPRV.2008.71]
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Grauwin S, 2015, GEOTECH ENVIRON, V13, P363, DOI 10.1007/978-3-319-11469-9_15
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Hayhoe CR, 2008, JOURNAL OF CONSUMER, V34, P113, DOI [10.1111/j.1745-, DOI 10.1111/J.1745-]
+   Hui T.-K., 2007, INT J CONSUM STUD, V31, P310, DOI [10.1111/j.1470-6431.2006.00554.x, DOI 10.1111/J.1470-6431.2006.00554.X]
+   Krumme C, 2013, SCI REP-UK, V3, DOI 10.1038/srep01645
+   Kung KS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096180
+   Lathia N., 2012, PERVASIVE COMPUTING, V7319, P91, DOI DOI 10.1007/978-3-642-31205-2
+   Lenormand M, 2015, SCI REP-UK, V5, DOI 10.1038/srep10075
+   LLOYD R, 1978, ECON GEOGR, V54, P157, DOI 10.2307/142850
+   Louail T, 2014, SCI REP-UK, V4, DOI 10.1038/srep05276
+   MacQueen J., 1967, STATISTICS, V1, P281
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Paldino S, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0043-3
+   Pei T, 2014, INT J GEOGR INF SCI, V28, P1988, DOI 10.1080/13658816.2014.913794
+   Pennacchioli D, 2014, EPJ DATA SCI, V3, DOI 10.1140/epjds/s13688-014-0033-x
+   Quercia D, 2010, DAT MIN ICDM 2010 IE, P971, DOI DOI 10.1109/ICDM.2010.152
+   Ratti C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0014248
+   ROUSSEEUW PJ, 1987, J COMPUT APPL MATH, V20, P53, DOI 10.1016/0377-0427(87)90125-7
+   Rysman M, 2007, J IND ECON, V55, P1, DOI 10.1111/j.1467-6451.2007.00301.x
+   Santi P, 2014, P NATL ACAD SCI USA, V111, P13290, DOI 10.1073/pnas.1403657111
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Sobolevsky S, 2014, BIG DATA SCIENCE AND
+   Sobolevsky S, 2015, PREPRTINT ARXIV 1504
+   Sobolevsky S, 2014, IEEE INT CONGR BIG, P136, DOI 10.1109/BigData.Congress.2014.28
+   Sobolevsky S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081707
+   Szell M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089052
+   World Factbook (The), MOTHERS MEAN AGE AT
+NR 46
+TC 11
+Z9 11
+U1 0
+U2 12
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 5
+PY 2016
+VL 11
+IS 2
+AR e0146291
+DI 10.1371/journal.pone.0146291
+PG 19
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DC9PR
+UT WOS:000369554000008
+PM 26849218
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

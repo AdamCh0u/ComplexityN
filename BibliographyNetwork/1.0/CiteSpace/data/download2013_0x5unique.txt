@@ -1,0 +1,320 @@
+
+PT J
+AU Masucci, AP
+   Stanilov, K
+   Batty, M
+AF Masucci, A. Paolo
+   Stanilov, Kiril
+   Batty, Michael
+TI Limited Urban Growth: London's Street Network Dynamics since the 18th
+   Century
+SO PLOS ONE
+ID TRANSPORTATION NETWORKS; ROAD NETWORKS; POPULATION; EVOLUTION; PATTERNS;
+   CITIES; SIZE; LAWS
+AB We investigate the growth dynamics of Greater London defined by the administrative boundary of the Greater London Authority, based on the evolution of its street network during the last two centuries. This is done by employing a unique dataset, consisting of the planar graph representation of nine time slices of Greater London's road network spanning 224 years, from 1786 to 2010. Within this time-frame, we address the concept of the metropolitan area or city in physical terms, in that urban evolution reveals observable transitions in the distribution of relevant geometrical properties. Given that London has a hard boundary enforced by its long standing green belt, we show that its street network dynamics can be described as a fractal space-filling phenomena up to a capacitated limit, whence its growth can be predicted with a striking level of accuracy. This observation is confirmed by the analytical calculation of key topological properties of the planar graph, such as the topological growth of the network and its average connectivity. This study thus represents an example of a strong violation of Gibrat's law. In particular, we are able to show analytically how London evolves from a more loop-like structure, typical of planned cities, toward a more tree-like structure, typical of self-organized cities. These observations are relevant to the discourse on sustainable urban planning with respect to the control of urban sprawl in many large cities which have developed under the conditions of spatial constraints imposed by green belts and hard urban boundaries.
+RI Batty, Michael/I-5638-2014
+OI MASUCCI, ARMANDO/0000-0001-6633-4239
+CR Banavar JR, 1999, NATURE, V399, P130, DOI 10.1038/20144
+   Barthelemy M., 2008, PHYS REV LETT, V100
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M., 2004, FRACTAL CITIES GEOME
+   Batty M., 2005, CITIES COMPLEXITY
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blanchard P, 2009, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-540-87829-2_1
+   Blinder P, 2010, P NATL ACAD SCI USA, V107, P12670, DOI 10.1073/pnas.1007239107
+   Bohn S, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.054503
+   Bohn S, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.088702
+   Bollobas B., 1998, MODERN GRAPH THEORY
+   Caldarelli G, 2001, EUROPHYS LETT, V56, P510, DOI 10.1209/epl/i2001-00549-4
+   Cary J., 1786, ENV LONDON J CARYS A
+   Corson F, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.048703
+   Enquist BJ, 1998, NATURE, V395, P163, DOI 10.1038/25977
+   Euler L., 1736, COMMENTARII ACAD SCI, V8, P128
+   GIBRAT R., 1931, INEGALITIES EC
+   Hall P., 1973, CONTAINMENT URBAN EN
+   Irwin EG, 2007, P NATL ACAD SCI USA, V104, P20672, DOI 10.1073/pnas.0705527105
+   JENKS GF, 1971, ANN ASSOC AM GEOGR, V61, P217, DOI 10.1111/j.1467-8306.1971.tb00779.x
+   Jia T, 2011, PREPRINT
+   Katifori E, 2010, PHYS REV LETT, V104
+   Katifori E, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037994
+   Kostoff S, 1993, CITY SHAPED URBAN PA
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Masucci AP, 2009, EUR PHYS J B, V71, P259, DOI 10.1140/epjb/e2009-00290-4
+   Masucci AP, 2013, GROWTH LONDONS STREE, P189
+   MELVILLE R, 1969, NATURE, V224, P121, DOI 10.1038/224121a0
+   MITZENMACHER M, 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   RAPAPORT DC, 1992, J STAT PHYS, V66, P679, DOI 10.1007/BF01060089
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   STEWART JQ, 1958, J REGIONAL SCI, V1, P99, DOI 10.1111/j.1467-9787.1958.tb01366.x
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   Theraulaz G, 2002, P NATL ACAD SCI USA, V99, P9645, DOI 10.1073/pnas.152302199
+   THOMAS D, 1963, GEOGR J, V129, P14, DOI 10.2307/1794894
+   United Nations, 2011, WORLD POP PROSP 2010
+   Verhulst P., 1838, CORRES MATH PHYS, V10, P1838
+   Xie F, 2009, NETW SPAT ECON, V9, P291, DOI 10.1007/s11067-007-9037-4
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 42
+TC 31
+Z9 31
+SN 1932-6203
+PD AUG 12
+PY 2013
+VL 8
+IS 8
+AR e69469
+DI 10.1371/journal.pone.0069469
+UT WOS:000323097300009
+PM 23950895
+ER
+
+PT J
+AU Schubert, J
+   Wolbring, T
+   Gill, B
+AF Schubert, Johannes
+   Wolbring, Tobias
+   Gill, Bernhard
+TI Settlement Structures and Carbon Emissions in Germany: The Effects of
+   Social and Physical Concentration on Carbon Emissions in Rural and Urban
+   Residential Areas
+SO ENVIRONMENTAL POLICY AND GOVERNANCE
+DE settlement structures; carbon emissions; economies of scale; allometry;
+   building physics; physical and social concentration
+ID LIFE; CITIES; ENERGY
+AB Using data from the German Socio-Economic Panel (GSOEP), we show that nearly 50% of all carbon emissions caused by private transportation and building operations in Germany can be explained by structural determinants that go hand in hand with infrastructural peculiarities in rural and urban residential areas. Taking the theoretical background of building physics, allometry and increasing returns to scale as a vantage point, this paper analyses the effects of physical concentration e.g. apartment buildings versus bungalows and social compactness e.g. multigenerational versus single households. In contrast to related studies, this perspective reveals that social and physical concentration tend to counteract each other and thus clarifies the intricate interactions between household structure, different infrastructural environments and carbon emissions. A supplementary finding is that the spatial distribution of fuel types plays a large role in explaining lower carbon emissions in urban settlements. This leads us to the conclusion that environmental policy should foster physical concentration in rural and social concentration in urban infrastructural environments. Copyright (c) 2012 John Wiley & Sons, Ltd and ERP Environment.
+RI Wolbring, Tobias/J-6752-2012
+OI Wolbring, Tobias/0000-0002-9053-7965
+CR Allison PD, 2009, FIXED EFFECTS REGRES
+   Angrist JD, 2009, MOSTLY HARMLESS ECONOMETRICS: AN EMPIRICISTS COMPANION, P1
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Cole MA, 2004, POPUL ENVIRON, V26, P5, DOI 10.1023/B:POEN.0000039950.85422.eb
+   Federal Ministry of Economics and Technology, 2011, ENTW EN PRES EN TAB
+   Fritsche U, 2007, BESTIMMUNG SPEZIFISC
+   Fritsche U. R., 2007, ENERGIEBEZOGENE GESA
+   Frondel M, 2005, ERHEBUNG ENERGIEVERB
+   Galilei G, 1730, MATH DISCOURSES CONC
+   Gans P, 2010, RAUMFORSCH RAUMORDN, V68, P49, DOI 10.1007/s13147-009-0002-1
+   Glaeser E., 2011, TRIUMPH CITY
+   Glaeser EL, 2010, J URBAN ECON, V67, P404, DOI 10.1016/j.jue.2009.11.006
+   Global Emission Model for Integrated Systems (GEMIS), 2011, GEMIS VERS 4 7
+   Greene W.H., 2003, ECONOMETRIC ANAL
+   Gujarati D. N., 2003, BASIC ECONOMETRICS
+   Haldane JBS, 1985, BEING RIGHT SIZE OTH, P1
+   Haussermann H., 1996, SOZIOLOGIE WOHNENS
+   Holden E, 2005, URBAN STUD, V42, P2145, DOI 10.1080/00420980500332064
+   Hoornweg D, 2011, ENVIRON URBAN, V23, P207, DOI 10.1177/0956247810392270
+   Jackson T., 2009, PROSPERITY GROWTH EC
+   Lahteenoja S, 2008, P SUST CONS PROD FRA, P121
+   Otte G, 2008, Z SOZIOL, V37, P93
+   Owen D., 2009, GREEN METROPOLIS WHY
+   Schmidt-Nielson K., 1984, SCALING WHY IS ANIMA
+   UITP (International Association of Public Transport), 2006, MOB CIT DAT
+   VandeWeghe JR, 2007, J IND ECOL, V11, P133, DOI 10.1162/jie.2007.1220
+   Vogel S, 1988, LIFES DEVICES PHYS W
+   Wagner G. G., 2007, SCHMOLLERS JB J APPL, V127, P139, DOI DOI 10.2139/SSRN.1028709
+   Weber C, 2000, ENERG POLICY, V28, P549, DOI 10.1016/S0301-4215(00)00040-9
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   York R, 2003, ECOLOGICAL EC, V46, P361
+NR 31
+TC 7
+Z9 7
+SN 1756-932X
+PD JAN-FEB
+PY 2013
+VL 23
+IS 1
+BP 13
+EP 29
+DI 10.1002/eet.1600
+UT WOS:000315025900002
+ER
+
+PT J
+AU Mitchell, L
+   Frank, MR
+   Harris, KD
+   Dodds, PS
+   Danforth, CM
+AF Mitchell, Lewis
+   Frank, Morgan R.
+   Harris, Kameron Decker
+   Dodds, Peter Sheridan
+   Danforth, Christopher M.
+TI The Geography of Happiness: Connecting Twitter Sentiment and Expression,
+   Demographics, and Objective Characteristics of Place
+SO PLOS ONE
+ID BODY-MASS-INDEX; EASTERLIN PARADOX; OBESITY; POVERTY; GROWTH; LIFE; FAT
+AB We conduct a detailed investigation of correlations between real-time expressions of individuals made across the United States and a wide range of emotional, geographic, demographic, and health characteristics. We do so by combining (1) a massive, geo-tagged data set comprising over 80 million words generated in 2011 on the social network service Twitter and (2) annually-surveyed characteristics of all 50 states and close to 400 urban populations. Among many results, we generate taxonomies of states and cities based on their similarities in word use; estimate the happiness levels of states and cities; correlate highly-resolved demographic characteristics with happiness levels; and connect word choice and message length with urban characteristics such as education levels and obesity rates. Our results show how social media may potentially be used to estimate real-time levels and changes in population-scale measures such as obesity rates.
+RI Dodds, Peter/C-9119-2014; Mitchell, Lewis/W-1312-2018
+OI Dodds, Peter/0000-0003-1973-8614; Mitchell, Lewis/0000-0001-8191-1997;
+   /0000-0001-9487-9359
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Chang VW, 2005, ARCH INTERN MED, V165, P2122, DOI 10.1001/archinte.165.18.2122
+   Di Tella R, 2008, J DEV ECON, V86, P22, DOI 10.1016/j.jdeveco.2007.06.008
+   Dodds P., 2009, J HAPPINESS STUD, V11, P441
+   Dodds PS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0026752
+   Doll HA, 2000, OBES RES, V8, P160, DOI 10.1038/oby.2000.17
+   EASTERLIN RA, 1995, J ECON BEHAV ORGAN, V27, P35, DOI 10.1016/0167-2681(95)00003-B
+   Easterlin RA, 2010, P NATL ACAD SCI USA, V107, P22463, DOI 10.1073/pnas.1015962107
+   Elson SB, 2012, TECHNICAL REPORT
+   Fontaine KR, 1996, J FAM PRACTICE, V43, P265
+   Frank MR, 2013, HAPPINESS PATTERNS L
+   Gallup-Healthways, 2012, TECHNICAL REPORT
+   Hruschka DJ, 2012, AM J HUM BIOL, V24, P277, DOI 10.1002/ajhb.22231
+   Institute for Economics and Peace, 2011, TECHNICAL REPORT
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Jain AK, 1999, ACM COMPUT SURV, V31, P264, DOI 10.1145/331499.331504
+   Kloumann IM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029484
+   Lancy A, 2013, AUST ECON REV, V46, P92, DOI 10.1111/j.1467-8462.2013.12000.x
+   Levine JA, 2011, DIABETES, V60, P2667, DOI 10.2337/db11-1118
+   Oswald AJ, 2011, REV ECON STAT, V93, P1118, DOI 10.1162/REST_a_00133
+   Oswald AJ, 2010, SCIENCE, V327, P576, DOI 10.1126/science.1180606
+   Palinkas LA, 1996, J PSYCHOSOM RES, V40, P59, DOI 10.1016/0022-3999(95)00542-0
+   Randall C, 2012, TECHNICAL REPORT
+   Sachs J., 2012, WORLD HAPPINESS REPO
+   Smith A., 2012, TECHNICAL REPORT
+   Stevenson B, 2008, BROOKINGS PAP ECO AC, P1
+   Stutzer A, 2007, 2925 IZA U BAS DEP B
+   Thomas J., 2012, TECHNICAL REPORT
+   United Health Foundation, 2011, TECHNICAL REPORT
+   US Census Bureau Geography Division, 2010, 2010 CENS TIGER LIN
+   Witters D, 2013, MORE THAN 15 OBESE N
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 33
+TC 129
+Z9 130
+SN 1932-6203
+PD MAY 29
+PY 2013
+VL 8
+IS 5
+AR e64417
+DI 10.1371/journal.pone.0064417
+UT WOS:000319725500068
+PM 23734200
+ER
+
+PT J
+AU Lamsal, LN
+   Martin, RV
+   Parrish, DD
+   Krotkov, NA
+AF Lamsal, L. N.
+   Martin, R. V.
+   Parrish, D. D.
+   Krotkov, N. A.
+TI Scaling Relationship for NO2 Pollution and Urban Population Size: A
+   Satellite Perspective
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+ID OZONE MONITORING INSTRUMENT; FINE PARTICULATE MATTER; UNITED-STATES;
+   NITROGEN-DIOXIDE; AIR-POLLUTION; NORTH-AMERICA; GLOBAL BURDEN;
+   POWER-PLANTS; EMISSIONS; MORTALITY
+AB Concern is growing about the effects of urbanization on air pollution and health. Nitrogen dioxide (NO2) released primarily from combustion processes, such as traffic, is a short-lived atmospheric pollutant that serves as an air-quality indicator and is itself a health concern. We derive a global distribution of ground-level NO2 concentrations from tropospheric NO2 columns retrieved from the Ozone Monitoring Instrument (OMI). Local scaling factors from a three-dimensional chemistry-transport model (GEOS-Chem) are used to relate the OMI NO2 columns to ground-level concentrations. The OMI-derived surface NO2 data are significantly correlated (r = 0.69) with in situ surface measurements. We examine how the OMI-derived ground-level NO2 concentrations, OMI NO2 columns, and bottom-up NOx emission inventories relate to urban population. Emission hot spots, such as power plants, are excluded to focus on urban relationships. The correlation of surface NO2 with population is significant for the three countries and one continent examined here: United States (r = 0.71), Europe (r = 0.67), China (r = 0.69), and India (r = 0.59). Urban NO2 pollution, like other urban properties, is a power law scaling function of the population size: NO2 concentration increases proportional to population raised to an exponent. The value of the exponent varies by region from 0.36 for India to 0.66 for China, reflecting regional differences in industrial development and per capita emissions. It has been generally established that energy efficiency increases and, therefore, per capita NO emissions decrease with urban population; here, we show how outdoor ambient NO2 concentrations depend upon urban population in different global regions.
+RI Manager, CSD Publications/B-2789-2015; Parrish, David/E-8957-2010; Chem,
+   GEOS/C-5595-2014; Martin, Randall/C-1205-2014; Krotkov,
+   Nickolay/E-1541-2012
+OI Parrish, David/0000-0001-6312-2724; Martin, Randall/0000-0003-2632-8402;
+   Krotkov, Nickolay/0000-0001-6170-6750
+CR Anenberg SC, 2010, ENVIRON HEALTH PERSP, V118, P1189, DOI 10.1289/ehp.0901220
+   [Anonymous], 2012, PLOS MED, V9
+   Bechle MJ, 2011, ENVIRON SCI TECHNOL, V45, P4914, DOI 10.1021/es103866b
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bey I, 2001, J GEOPHYS RES-ATMOS, V106, P23073, DOI 10.1029/2001JD000807
+   Boersma KF, 2011, ATMOS MEAS TECH, V4, P1905, DOI 10.5194/amt-4-1905-2011
+   Boersma KF, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD008816
+   Boersma KF, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD003962
+   Brunekreef B, 2002, LANCET, V360, P1233, DOI 10.1016/S0140-6736(02)11274-8
+   Brunekreef B, 2007, J EXPO SCI ENV EPID, V17, pS61, DOI 10.1038/sj.jes.7500628
+   Bucsela E.J., 2013, ATMOS MEAS TECH DISC, V6, P1361, DOI DOI 10.5194/AMTD-6-1361-2013
+   Burnett RT, 2004, ARCH ENVIRON HEALTH, V59, P228, DOI 10.3200/AEOH.59.5.228-236
+   Chow J, 2003, SCIENCE, V302, P1528, DOI 10.1126/science.1091939
+   Cyrys J, 2012, ATMOS ENVIRON, V62, P374, DOI 10.1016/j.atmosenv.2012.07.080
+   Dunlea EJ, 2007, ATMOS CHEM PHYS, V7, P2691, DOI 10.5194/acp-7-2691-2007
+   GROSJEAN D, 1985, ENVIRON SCI TECHNOL, V19, P862, DOI 10.1021/es00139a016
+   Hudman RC, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007912
+   Jerrett M, 2009, ENVIRON HEALTH PERSP, V117, P772, DOI 10.1289/ehp.11533
+   Krzyzanowski M, 2008, AIR QUAL ATMOS HLTH, V1, P7, DOI 10.1007/s11869-008-0008-9
+   Kuhns H, 2005, J AIR WASTE MANAGE, V55, P677, DOI 10.1080/10473289.2005.10464648
+   Lamsal LN, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009235
+   Lamsal LN, 2011, GEOPHYS RES LETT, V38, DOI 10.1029/2010GL046476
+   Lamsal LN, 2010, J GEOPHYS RES-ATMOS, V115, DOI 10.1029/2009JD013351
+   Levelt PF, 2006, IEEE T GEOSCI REMOTE, V44, P1093, DOI 10.1109/TGRS.2006.872333
+   Lim SS, 2012, LANCET, V380, P2224, DOI 10.1016/S0140-6736(12)61766-8
+   Lu WM, 2007, EUR J OPER RES, V183, P882, DOI 10.1016/j.ejor.2006.10.027
+   Lu ZF, 2012, ENVIRON SCI TECHNOL, V46, P7463, DOI 10.1021/es300831w
+   Martin RV, 2008, ATMOS ENVIRON, V42, P7823, DOI 10.1016/j.atmosenv.2008.07.018
+   Martin RV, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007831
+   Martin RV, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006680
+   Martin RV, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2003JD003453
+   Mathers C, 2009, GLOB HLTH RISKS MORT
+   Novotny EV, 2011, ENVIRON SCI TECHNOL, V45, P4407, DOI 10.1021/es103578x
+   Olivier J. G. J., 2001, CLIMATE SYSTEM, P33
+   Organisation for Economic Co-operation and Development (OECD), 2012, ENV OUTL 2050 CONS I
+   Palmer PI, 2001, J GEOPHYS RES-ATMOS, V106, P14539, DOI 10.1029/2000JD900772
+   Park RJ, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD004473
+   Parrish DD, 2009, SCIENCE, V326, P674, DOI 10.1126/science.1176064
+   PLATT U, 1994, AIR MONITORING SPECT, P27
+   Pope CA, 2009, NEW ENGL J MED, V360, P376, DOI 10.1056/NEJMsa0805646
+   Samoli E, 2006, EUR RESPIR J, V27, P1129, DOI 10.1183/09031936.06.00143905
+   Socioeconomic Data Applications Center (SEDAC), 2009, GRIDD POP WORLD VERS
+   Steinbacher M, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007971
+   United Nations Department of Economic and Social Affairs/Population Division, 2012, WORLD URB PROSP 2011
+   United States Environmental Protection Agency (U.S. EPA), 1975, EPA600475003 ENV MON
+   United States Environmental Protection Agency (U.S. EPA), 2008, TECHNICAL REPORT
+   van Donkelaar A, 2008, ATMOS CHEM PHYS, V8, P2999, DOI 10.5194/acp-8-2999-2008
+   van Donkelaar A, 2012, ENVIRON SCI TECHNOL, V46, P11971, DOI 10.1021/es3025319
+   van Donkelaar A, 2010, ENVIRON HEALTH PERSP, V118, P847, DOI 10.1289/ehp.0901623
+   Wang SW, 2012, ATMOS CHEM PHYS, V12, P4429, DOI 10.5194/acp-12-4429-2012
+   WINER AM, 1974, ENVIRON SCI TECHNOL, V8, P1118, DOI 10.1021/es60098a004
+   Zhang L, 2011, ATMOS ENVIRON, V45, P6769, DOI 10.1016/j.atmosenv.2011.07.054
+   Zhang Q, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2007JD008684
+NR 53
+TC 58
+Z9 62
+SN 0013-936X
+PD JUL 16
+PY 2013
+VL 47
+IS 14
+BP 7855
+EP 7861
+DI 10.1021/es400744g
+UT WOS:000322059800036
+PM 23763377
+ER
+
+PT J
+AU Good, M
+   Derrible, S
+AF Good, Max
+   Derrible, Sybil
+TI Triumph of the City
+SO JOURNAL OF TRANSPORT AND LAND USE
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Economist Intelligence Unit, 2013, WORLDW COST LIV 2013
+   Florida R, 2002, RISE CREATIVE CLASS
+   Glaeser E., 2011, TRIUMPH CITY
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Kennedy C. A., 2011, EVOLUTION GREAT WORL
+   Kennedy C, 2009, ENVIRON SCI TECHNOL, V43, P7297, DOI 10.1021/es900213p
+   NEWMAN PWG, 1991, TRANSPORT REV, V11, P249, DOI 10.1080/01441649108716787
+   TED, 2012, TED PRIZ WISH BIG EN
+   U.S. Census Bureau, 2010, AM COMM SURV GEOGR M
+   World Bank, 2013, URB POP PERC TOT WOR
+NR 12
+TC 0
+Z9 0
+SN 1938-7849
+PY 2013
+VL 6
+IS 3
+BP 87
+EP 89
+DI 10.5198/jtlu.v6i3.466
+UT WOS:000209669500007
+ER

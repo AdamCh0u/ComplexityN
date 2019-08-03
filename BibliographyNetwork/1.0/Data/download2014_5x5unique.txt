@@ -1,0 +1,418 @@
+
+PT S
+AU Gruzdev, VE
+AF Gruzdev, Vitaly E.
+BE Exarhos, GJ
+   Gruzdev, VE
+   Menapace, JA
+   Ristau, D
+   Soileau, MJ
+TI Summary of Meeting
+SO LASER-INDUCED DAMAGE IN OPTICAL MATERIALS: 2014
+SE Proceedings of SPIE
+LA English
+DT Proceedings Paper
+CT SPIE Laser Damage - 46th Annual Symposium on Optical Materials for High
+   Power Lasers
+CY SEP 14-17, 2014
+CL National Institute of Standards andTechnology, Boulder, CO
+SP SPIE, Lawrence Livermore Natl Lab, Laser Components GmbH, Spica Technologies Inc, Quantel USA
+HO National Institute of Standards andTechnology
+DE laser damage; laser interaction; optical components; optical
+   fabrication; optical materials and properties; thin film coatings;
+   contamination.
+ID LASER-INDUCED DAMAGE; OPTICAL-MATERIALS; ASTM SYMPOSIUM
+AB These proceedings contain the papers presented as oral and poster presentations at the 46th Annual Symposium on Optical Materials for High-Power Lasers. The conference was held at the National Institute of Standards and Technology facility in Boulder, Colorado on 14-17 September 2014. The symposium was divided into the traditional sessions devoted to the following major topics: thin films; surfaces, mirrors and contamination; fundamental mechanisms; materials and measurements. A mini-symposium was held this year on applications related to laser damage. The starting event of the symposium was a tutorial on fundamentals of growth and characterization of amorphous thin films held as a special pre-symposium event on Sunday evening, September 13. The conference was opened by Dr. Detlev Ristau with a symposium welcome. Dr. Gregory J. Exarhos of Pacific Northwest National Laboratory (USA), Dr. Vitaly Gruzdev of the University of Missouri, Columbia (USA), Dr. Joseph A. Menapace of the Lawrence Livermore National Laboratory (USA), Dr. Detlev Ristau of the Laser Zentrum Hannover e. V. (Germany), Dr. M. J. Soileau, of the University of Central Florida (USA) co-chaired the symposium. The founding organizers of the symposium are Dr. Arthur H. Guenther and Dr. Alexander J. Glass.
+   93 abstracts were submitted to the symposium, of which 81 was presented at 12 oral sessions and 4 poster sessions. No parallel sessions were held allowing the opportunity to discuss common research interests with all the presenters. With 126 participants attending, the meeting offered an outstanding opportunity to make many new acquaintances. Although held annually in the US, Laser Damage symposium continues to be a true international conference with more than 60% of the presentations coming from Europe and Asia. As usual, the National Institute of Standards and Technology in Boulder, Colorado, offered a setting conductive to effective communication and interchange between individuals working in closely related and complementary fields. We look forward to future opportunities to come together again in this setting.
+   The 47th Annual Symposium of this series will be held in Boulder, Colorado, 27-30 September 2015. A continuous effort will be made to ensure a close liaison between the high-energy, high-peak-power, and high-average-power laser communities, as well as to include damage issues related to various research efforts and commercial laser applications. A mini-symposium focused on multilayer dielectric mirrors for ultrafast lasers is anticipated. Invited talks are also anticipated to open the four major topical areas and the mini-symposium. Following much feedback from symposium participants, relocation of the symposium beginning in 2016 is under active discussion. Several cities in Europe, US, and Asia and re-location regimes (annual or bi-annual) are under consideration now.
+   The principal topics to be considered as contributed papers in 2015 do not differ drastically from those enumerated above. We expect to hear more about the impact of contamination on the laser resistance of optical components and the influence of defects since both those topics continue to generate significant interest. High-energy laser windows, crystals, and transparent ceramics continue to place limitations on laser systems so remain an active area of research and spirited debate. Refinement of the mitigation strategy consisting of damage initiation followed by arresting damage growth through post-processing techniques while not creating downstream damage is also expected to be a continued focus as a large number of laser-resistant UV optics are manufactured for laser-lithography applications. Short pulse (nanosecond and picosecond) laser optics and damage phenomena remain an active area of research. Recent progress in the fields of ultrashort-pulse (femtosecond) lasers and ultrafast laser-material interactions is believed to be one of the fastest growing area of the future symposium. We also expect to hear more about new measurement techniques to improve our understanding of the different damage mechanisms or to improve the manufacturing of optical materials and thin films for optical components of greater laser damage resistance. Thin films for a broad range of laser wavelengths and pulse durations will continue to stay one of hot topics of the symposium. Also, new developments in the field of metamaterials and related laser-damage issues will attract growing attention due to their intensive development and potential use in high-power lasers. Fundamental aspects of laser-induced damage including multiphoton and avalanche ionization, scaling of damage threshold with laser and material parameters continuously attract a lot of attention. More presentations on lifetime and optics aging are expected in 2015 due to the significance of those issues for industrial and energy applications of high-power lasers.
+   As was initially established in 1992, several distinguished invited speakers will deliver keynote presentations of a tutorial or review nature, in addition, other contributors will cover late-breaking developments. Another tutorial is also expected to be delivered as a pre-symposium event on Sunday evening.
+   The purpose of this series of symposia is to provide an international platform for information exchange about optical materials for high-power /high-energy lasers and a broad range of topics related to laser-induced damage in those materials. The editors welcome comments and criticism from all interested readers relevant to this purpose.
+C1 [Gruzdev, Vitaly E.] Univ Missouri, Dept Mech & Aerosp Engn, Columbia, MO 65211 USA.
+RP Gruzdev, VE (reprint author), Univ Missouri, Dept Mech & Aerosp Engn, Columbia, MO 65211 USA.
+CR [Anonymous], 2008, SELECTED SPIE PAPERS, V50
+   [Anonymous], 2010, SELECTED SPIE PAPERS, V57, P98227
+   [Anonymous], 2010, SELECTED SPIE PAPERS, V52
+   Bennett H.E., 1992, P SPIE
+   Bennett H. E., 1983, NBS US SPEC PUBL, V638
+   Bennett H.E., 1996, P SPIE
+   Bennett H. E., 1991, ASTM STP, V1441
+   Bennett H. E., 1981, NBS US SPEC PUBL, V620
+   Bennett H. E., 1986, NBS US SPEC PUBL, V727
+   Bennett H. E., 1979, NBS US SPEC PUBL, V568
+   Bennett H. E., 1985, NBS US SPEC PUBL, V688
+   Bennett H. E., 1989, NBS US SPEC PUBL, V775
+   Bennett H. E., 1987, NBS US SPEC PUBL, V746
+   Bennett H. E., 1988, NBS US SPEC PUBL, V756
+   Bennett H.E., 1994, P SPIE
+   Bennett H.E., 1993, P SPIE
+   Bennett H. E., 1989, NIST US SPEC PUBL, V801, P1438
+   Bennett H. E., 1984, NBS US SPEC PUBL, V669
+   Bennett H.E., 1995, P SPIE
+   Bennett H. E., 1987, NBS US SPEC PUBL, V752
+   Bennett H.E., 1997, P SPIE
+   BENNETT HE, 1980, APPL OPTICS, V19, P2375, DOI 10.1364/AO.19.002375
+   BENNETT HE, 1986, APPL OPTICS, V25, P258, DOI 10.1364/AO.25.000258
+   BENNETT HE, 1987, APPL OPTICS, V26, P813, DOI 10.1364/AO.26.000813
+   BENNETT HE, 1983, APPL OPTICS, V22, P3276, DOI 10.1364/AO.22.003276
+   BENNETT HE, 1984, APPL OPTICS, V23, P3782, DOI 10.1364/AO.23.003782
+   BENNETT HE, 1981, APPL OPTICS, V20, P3003, DOI 10.1364/AO.20.003003
+   Bloembergen N., 1971, NATL MAT ADVISORY BO
+   Bloembergen N., 1970, NATL MAT ADVISORY BO
+   Exarhos G.J., 2012, P SPIE
+   Exarhos G. J., 2008, P SPIE, V6720
+   Exarhos G.J., 2009, P SPIE
+   Exarhos G.J., 1999, P SPIE
+   Exarhos G.J., 1998, P SPIE
+   Exarhos G.J., 2007, P SPIE
+   Exarhos G.J., 2000, P SPIE
+   Exarhos G.J., 2013, P SPIE
+   Exarhos G.J., 2010, P SPIE
+   Exarhos G.J., 2003, P SPIE
+   Exarhos G.J., 2011, P SPIE
+   Exarhos G.J., 2005, P SPIE
+   Exarhos G.J., 2015, P SPIE
+   Exarhos G.J., 2001, P SPIE
+   Exarhos G.J., 2006, P SPIE
+   Exarhos G.J., 2002, P SPIE
+   Exarhos G.J., 2004, P SPIE
+   Glass A.J., 1969, ASTM SPEC TECH PUB, V469
+   Glass A. J., 1979, APPL OPTICS, V18, P2212
+   GLASS AJ, 1974, APPL OPTICS, V13, P74, DOI 10.1364/AO.13.000074
+   GLASS AJ, 1975, APPL OPTICS, V14, P698, DOI 10.1364/AO.14.000698
+   GLASS AJ, 1977, APPL OPTICS, V16, P1214, DOI 10.1364/AO.16.001214
+   GLASS AJ, 1976, APPL OPTICS, V15, P1510, DOI 10.1364/AO.15.001510
+   GLASS AJ, 1978, APPL OPTICS, V17, P2386, DOI 10.1364/AO.17.002386
+   GLASS AJ, 1971, NBS US SPEC PUBL, V356
+   GLASS AJ, 1978, NBS US SPEC PUBL, V541
+   GLASS AJ, 1970, NBS US SPEC PUBL, V341
+   GLASS AJ, 1977, NBS US SPEC PUBL, V509
+   GLASS AJ, 1972, NBS US SPEC PUBL, V372
+   GLASS AJ, 1973, NBS US SPEC PUBL, V387
+   GLASS AJ, 1975, NBS US SPEC PUBL, V435
+   GLASS AJ, 1976, NBS US SPEC PUBL, V462
+   GLASS AJ, 1974, NBS US SPEC PUBL, V414
+   Gruzdev V.E., 2014, P SPIE
+   Guenther A. H., 1993, LASER OPTRONICS, V12, P25
+   Guenther A. H., 1999, LASER INDUCED DAMAGE
+   Guenther A. H., 1992, LASER FOCUS WORLD, V29, P83
+   Guenther A. H., 2004, LASER INDUCED DAMAGE
+   Guenther A.H., 2002, SPIE PRESS MONOGRAPH
+   Guenther AH, 1997, J LASER APPL, V9, P261, DOI 10.2351/1.4745468
+   Jupe M, 2015, LASER-INDUCED DAMAGE IN OPTICAL MATERIALS, P411
+   Kozlowski MR, 1995, THIN FILMS OPTICAL S, P521
+   Stolz C.J., 2003, OPTICAL INTERFERENCE, P310
+   Weber M. J., 2002, HDB OPTICAL MAT
+   Weber M. J., 1986, OPTICAL MAT 2, VIV
+   Weber M. J., 1987, OPTICAL MAT 3, VV
+   Weber M.J., 1995, HDB LASER SCI TEC S2
+   Weber M. J., 1986, OPTICAL MAT 1, VIII
+   Wood R.M., 1986, LASER INDUCED DAMAGE
+   Wood R. M., 2003, LASER INDUCED DAMAGE
+   Wood R.M., 1990, SPIE MILESTONE SERIE, VMS24
+   Wood R.M., 2003, TUTORIUAL TEXTS OPTI, VTT60
+NR 81
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPIE-INT SOC OPTICAL ENGINEERING
+PI BELLINGHAM
+PA 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN 0277-786X
+BN 978-1-62841-300-7
+J9 PROC SPIE
+PY 2014
+VL 9237
+AR 923701
+PG 12
+WC Materials Science, Multidisciplinary; Materials Science, Coatings &
+   Films; Optics
+SC Materials Science; Optics
+GA BC0RK
+UT WOS:000349399600001
+DA 2019-03-26
+ER
+
+PT J
+AU Shahin, I
+   Sohal, R
+   Ginther, J
+   Hayden, L
+   MacDonald, JA
+   Mossman, K
+   Parikh, H
+   McGahan, A
+   Mitchell, W
+   Bhattacharyya, O
+AF Shahin, Ilan
+   Sohal, Raman
+   Ginther, John
+   Hayden, Leigh
+   MacDonald, John A.
+   Mossman, Kathryn
+   Parikh, Himanshu
+   McGahan, Anita
+   Mitchell, Will
+   Bhattacharyya, Onil
+TI Trans-National Scale-Up of Services in Global Health
+SO PLOS ONE
+LA English
+DT Article
+ID COUNTRIES
+AB Background: Scaling up innovative healthcare programs offers a means to improve access, quality, and health equity across multiple health areas. Despite large numbers of promising projects, little is known about successful efforts to scale up. This study examines trans-national scale, whereby a program operates in two or more countries. Trans-national scale is a distinct measure that reflects opportunities to replicate healthcare programs in multiple countries, thereby providing services to broader populations.
+   Methods: Based on the Center for Health Market Innovations (CHMI) database of nearly 1200 health programs, the study contrasts 116 programs that have achieved trans-national scale with 1,068 single-country programs. Data was collected on the programs' health focus, service activity, legal status, and funding sources, as well as the programs' locations (rural v. urban emphasis), and founding year; differences are reported with statistical significance.
+   Findings: This analysis examines 116 programs that have achieved trans-national scale (TNS) across multiple disease areas and activity types. Compared to 1,068 single-country programs, we find that trans-nationally scaled programs are more donor-reliant; more likely to focus on targeted health needs such as HIV/AIDS, TB, malaria, or family planning rather than provide more comprehensive general care; and more likely to engage in activities that support healthcare services rather than provide direct clinical care.
+   Conclusion: This work, based on a large data set of health programs, reports on trans-national scale with comparison to single-country programs. The work is a step towards understanding when programs are able to replicate their services as they attempt to expand health services for the poor across countries and health areas. A subset of these programs should be the subject of case studies to understand factors that affect the scaling process, particularly seeking to identify mechanisms that lead to improved health outcomes.
+C1 [Shahin, Ilan; Sohal, Raman; Hayden, Leigh; Mossman, Kathryn; Bhattacharyya, Onil] Univ Toronto, Womens Coll Hosp, Toronto, ON, Canada.
+   [Sohal, Raman; Parikh, Himanshu] Univ Toronto, Inst Hlth Policy Management & Evaluat, Toronto, ON, Canada.
+   [Ginther, John] Univ Toronto, T HOPE, Toronto, ON, Canada.
+   [MacDonald, John A.] MIT Media Lab, Boston, MA USA.
+   [MacDonald, John A.] Sloan Sch Management, Boston, MA USA.
+   [McGahan, Anita; Mitchell, Will] Univ Toronto, Rotman Sch Management, Toronto, ON, Canada.
+   [Bhattacharyya, Onil] Univ Toronto, Dept Family Med, Toronto, ON, Canada.
+RP Shahin, I (reprint author), Univ Toronto, Womens Coll Hosp, Toronto, ON, Canada.
+EM ilan.shahin@wchospital.ca
+OI Hayden, Leigh/0000-0002-3345-7686
+CR *ALL HLTH POL SYST, 2004, STRENGTH HLTH SYST R
+   Bhattacharyya O, 2010, HEALTH RES POLICY SY, V8, DOI 10.1186/1478-4505-8-24
+   Bloom G, 2010, SCALING PATHWAYS UNI
+   Cooley L., 2006, SCALING VISION LARGE
+   Credit Suisse, 2012, INV IMP
+   Enthoven AC, 2009, AM J MANAG CARE, V15, pS284
+   Government of Tanzania and Clinton Foundation, 2008, TANZ PIL ACT SUBS RE
+   Jamison DT, 2006, DISEASE CONTROL PRIORITIES IN DEVELOPING COUNTRIES, 2ND EDITION, P1
+   Johns B, 2005, HEALTH POLICY PLANN, V20, P1, DOI 10.1093/heapol/czi001
+   Kamal-Yanni MM, 2012, MALARIA J, V11, DOI 10.1186/1475-2875-11-414
+   Karamchandani A, 2009, EMERGING MARKETS EME
+   Knippenberg R, 2005, LANCET, V365, P1087, DOI 10.1016/S0140-6736(05)71145-4
+   Lunk C, 2009, J CHILD PSYCHOL PSYC, V50, P1121, DOI [10.1111/j.1469-7610.2009.02078, DOI 10.1111/J.1469-7610.2009.02078]
+   Mangham LJ, 2010, HEALTH POLICY PLANN, V25, P85, DOI 10.1093/heapol/czp066
+   McIntyre D, 2008, B WORLD HEALTH ORGAN, V86, P817
+   Murray CJL, 2012, LANCET, V380, P2197, DOI 10.1016/S0140-6736(12)61689-4
+   Saksena P, 2012, TROP MED INT HEALTH, V17, P23, DOI 10.1111/j.1365-3156.2011.02894.x
+   Simmons R, 2009, SCALING HLTH SERVICE
+   Subramanian S, 2011, BMC HEALTH SERV RES, V11, DOI 10.1186/1472-6963-11-336
+   Tung E, 2014, GLOBALIZATION HLTH, V10
+   United Nations, 2002, MILL DEV GOALS
+   Waddington C, 2012, SCALING HLTH SERVICE
+   WHO, 2008, WORLD HLTH REP 2008
+   World Bank, 2003, SCAL IMP GOOD PRACT
+   Yamey G, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001049
+   Yu D, 2008, GLOBALIZATION HLTH, V4, P1
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 6
+PY 2014
+VL 9
+IS 11
+AR e110465
+DI 10.1371/journal.pone.0110465
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AS6XM
+UT WOS:000344402600012
+PM 25375328
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Tesseraux, I
+   Lung, T
+AF Tesseraux, I.
+   Lung, T.
+TI Ambient concentrations of total bacteria and further bioaerosol
+   parameters in urban air - dispersion densities and comparison of
+   measuring methods
+SO GEFAHRSTOFFE REINHALTUNG DER LUFT
+LA German
+DT Article
+ID MICROORGANISMS; ATMOSPHERE
+AB In assessing the concentrations of bioaerosols around facilities the ambient background concentrations play a major role. There is increasing knowledge on background concentrations of different bioaerosol measuring parameters, but obtained with a variety of measuring methods. It has been shown previously that background concentrations of mould fungi follow a log-normal distribution. Here this analysis was done for concentrations of ambient bacteria using a data set of urban background measurements of bacteria which included concentration data of mould fungi. Comparison of different measuring methods was performed by analyzing a further data set of mould fungi concentrations obtained at one background measuring site simultaneously with two different methods. For all bioaerosol measuring parameters it could be demonstrated that median is more appropriate than arithmetic mean in order to describe the measure of central tendency of the concentration distribution. Median for total bacteria was 150 cfu/m(3), the 90th percentile value relevant for assessment according to VDI 4250 sheet 1 was 720 cfu/m(3). Scaling of the different measuring methods reveals that for a certain measuring situation the percentile values - set as assessment relevant background values - independently of the measuring method lie by the same factor above the median, thus allowing a consistent procedure-independent assessment of bioaerosols.
+C1 [Tesseraux, I.] Landesanstalt Umwelt Messungen & Nat Baden Wurtte, Karlsruhe, Germany.
+RP Tesseraux, I (reprint author), Landesanstalt Umwelt Messungen & Nat Baden Wurtte, Karlsruhe, Germany.
+CR [Anonymous], 2004, VDI 4252 BLATT 2
+   [Anonymous], 2008, VDI 4353 BLATT 3
+   [Anonymous], 2014, VDI 4250 BLATT 1
+   [Anonymous], VDI 4250 BLATT 3
+   [Anonymous], 2002, LEITFADEN VORBEUGUNG
+   [Anonymous], 2008, VDI 4252 BLATT 3 ERF
+   [Anonymous], 2013, VDI 4353 BLATT 4 BIO
+   [Anonymous], 2004, VDI 4253 BLATT 2 ERF
+   Bowers RM, 2012, ATMOS ENVIRON, V50, P41, DOI 10.1016/j.atmosenv.2012.01.005
+   Burrows SM, 2009, ATMOS CHEM PHYS, V9, P9263, DOI 10.5194/acp-9-9263-2009
+   Clauss M, 2013, GEFAHRST REINHALT L, V73, P375
+   DiGiorgio C, 1996, ATMOS ENVIRON, V30, P155, DOI 10.1016/1352-2310(95)00143-M
+   Harrison RM, 2005, INT J BIOMETEOROL, V49, P167, DOI 10.1007/s00484-004-0225-3
+   Jones AM, 2004, SCI TOTAL ENVIRON, V326, P151, DOI 10.1016/j.scitotenv.2003.11.021
+   Kolk A, 2009, GEFAHRST REINHALT L, V69, P130
+   Lighthart B, 1997, FEMS MICROBIOL ECOL, V23, P263, DOI 10.1016/S0168-6496(97)00036-6
+   Lighthart B., 2004, TECHNICAL REPORT
+   Limpert E, 2001, BIOSCIENCE, V51, P341, DOI 10.1641/0006-3568(2001)051[0341:LNDATS]2.0.CO;2
+   Lung T., 2013, IMMISSIONSSCHUTZ, V18, P64
+   Madsen AM, 2006, ANN AGR ENV MED, V13, P81
+   Mouli P. Chandra, 2005, Applied Ecology and Environmental Research, V3, P139
+   Park D.-U., 2013, INT J ENV RES PUB HE, V10, P542
+   Seinfeld J. H., 1985, ATMOSPHERIC CHEM PHY
+   Tang CS, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0061093
+   Tesseraux I., 2008, IMMISSIONSSCHUTZ, V13, P122
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 5
+PU SPRINGER-V D I VERLAG GMBH & CO KG
+PI DUSSELDORF
+PA VDI-PLATZ 1, D-40468 DUSSELDORF, GERMANY
+SN 0949-8036
+EI 1436-4891
+J9 GEFAHRST REINHALT L
+JI Gefahrst. Reinhalt. Luft
+PD SEP
+PY 2014
+VL 74
+IS 9
+BP 368
+EP 376
+PG 9
+WC Engineering, Environmental; Engineering, Civil; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA AT1XG
+UT WOS:000344723700006
+DA 2019-03-26
+ER
+
+PT J
+AU Clarkson, B
+   McDonald, T
+AF Clarkson, Bruce
+   McDonald, Tein
+TI Learning from a mountain: Interview with Bruce Clarkson
+SO ECOLOGICAL MANAGEMENT & RESTORATION
+LA English
+DT Editorial Material
+DE community involvement; linkages; New Zealand; planting scaling up
+   restoration; succession; urban ecosystem restoration
+AB Bruce Clarkson is recognised as one of New Zealand's foremost authorities on ecological restoration, with a research and management focus on restoring indigenous vegetation communities in cities. He urges optimism in the face of change, by emphasising the importance of long-term and broad-scale perspectives.
+RP Clarkson, B (reprint author), Univ Waikato, Fac Sci & Engn, Hamilton 3240, New Zealand.
+EM clarkson@waikato.ac.nz; teinm@ozemail.com.au
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1442-7001
+EI 1442-8903
+J9 ECOL MANAG RESTOR
+JI Ecol. Manag. Restor.
+PD JAN
+PY 2014
+VL 15
+IS 1
+BP 16
+EP 25
+DI 10.1111/emr.12088
+PG 10
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 292TN
+UT WOS:000329925500004
+DA 2019-03-26
+ER
+
+PT J
+AU Mohajeri, N
+   Gudmundsson, A
+AF Mohajeri, Nahid
+   Gudmundsson, Agust
+TI ANALYZING THE VARIATION IN STREET PATTERNS: IMPLICATIONS FOR URBAN
+   PLANNING
+SO JOURNAL OF ARCHITECTURAL AND PLANNING RESEARCH
+LA English
+DT Article
+ID SPATIAL STRUCTURE; ROAD NETWORKS; CITIES; LAWS
+AB The morphology of street patterns has been the subject of many studies in recent decades. While some have noted the textural and morphological differences in various parts of many cities, there have been few attempts to quantify the street patterns that contribute to these differences. For this study, we measured and compared the trends (orientations) and lengths of 4,266 streets in the old, historical part of the city of Yazd, Iran, and 4,021 streets in the new part of the city to quantify their textural (morphological) differences and similarities. In the old part of the city, the street trends are orthogonal and follow a normal (one-peak) distribution. The street lengths range from 4-317 m, follow power-law distributions, and yield street-population entropies of 1.360-1.565. The power-law distributions indicate that, in the old part of Yazd, there are many short streets and few long ones. By contrast, in the new part of the city, the street trends follow a bimodal (two-peak) distribution. The street lengths vary from 5-596 m, follow power-law distributions, and yield entropies of 1.632-2.290. All of the street populations show strong linear correlations between their scaling exponents, length ranges, and entropies, a finding that agrees with results from other cities. With regard to city planning, these correlations indicate that, as a city grows and expands, its street networks often increase in length and entropy, requiring greater energy for construction. The innovative quantitative approach used to analyze city textures in this paper can also be used to compare the sizes and shapes of buildings within and among cities.
+C1 [Mohajeri, Nahid] Islamic Azad Univ, South Tehran Branch, Dept Architecture, Tehran, Iran.
+   [Gudmundsson, Agust] Univ London, London WC1E 7HU, England.
+RP Mohajeri, N (reprint author), Islamic Azad Univ, South Tehran Branch, Dept Architecture, Tehran, Iran.
+EM nahid.mohajeri@epfl.ch
+CR BAIERLEIN R, 1999, THERMAL PHYS
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M, 2005, CITIES COMPLEXITY UN
+   BONINE ME, 1979, ANN ASSOC AM GEOGR, V69, P208, DOI 10.1111/j.1467-8306.1979.tb01252.x
+   CAMAGNI RP, 1993, URBAN STUD, V30, P1053, DOI 10.1080/00420989320080941
+   Cover T. M., 2006, ELEMENTS INFORM THEO
+   Dill K. A, 2003, MOL DRIVING FORCES S
+   DUNN ES, 1970, URBAN STUD, V7, P239, DOI 10.1080/00420987020080481
+   European Commission (EC) Directorate-General for Energy and Transport, 2006, INT MEAS EN US ROAD
+   Gastner MT, 2006, EUR PHYS J B, V49, P247, DOI 10.1140/epjb/e2006-00046-8
+   Gerster G., 2009, PARADISE LOST PERSIA
+   Gudmundsson A, 2013, SCI REP-UK, V3, DOI 10.1038/srep03324
+   Han DD, 2011, EPL-EUROPHYS LETT, V94, DOI 10.1209/0295-5075/94/28006
+   Hillier B, 1997, P 1 INT SPAC SYNT S, V3, P3501
+   Hillier Bill, 1984, SOCIAL LOGIC SPACE
+   Jackson P., 2007, SUSTAINABLE ROADS EN
+   Jiang B, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/07/P07008
+   Kalantari H., 2006, REHABILITATION PLANN
+   Kardar M., 2007, STAT PHYS PARTICLES
+   Kheirabadi M., 2000, IRANIAN CITIES FORMA
+   Kostof Spiro, 1991, CITY SHAPED
+   Kubat AS, 1999, URBAN MORPHOL, V3, P28
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Marshall S., 2005, STREETS PATTERNS
+   Mohajeri N, 2012, APPL GEOGR, V34, P10, DOI 10.1016/j.apgeog.2011.09.007
+   Mohajeri N, 2012, ENTROPY-SWITZ, V14, P800, DOI 10.3390/e14040800
+   Newman M. E. J., 2010, NETWORKS INTRO
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Peitgen H-.O., 2004, CHAOS FRACTALS
+   Porta S, 2006, ENVIRON PLANN B, V33, P705, DOI 10.1068/b32045
+   Pundir S, 2009, ADV INFORM MINING, V1, P1
+   Ratti C, 2004, ENVIRON PLANN B, V31, P487, DOI 10.1068/b3019
+   Salingaros N., 2005, PRINCIPLES URBAN STR
+   Salingaros NA, 1999, ENVIRON PLANN B, V26, P909, DOI 10.1068/b260909
+   Scellato S, 2006, EUR PHYS J B, V50, P221, DOI 10.1140/epjb/e2006-00066-4
+   Schroeder M, 1991, FRACTALS CHAOS POWER
+   Stamps AE, 2004, J ARCHIT PLAN RES, V21, P239
+   Swan A. R. H., 1995, INTRO GEOLOGICAL DAT
+   Tavassoli M, 2001, STRUCTURE CITY HOT A
+   UNESCO, 2007, HIST STRUCT YAZD
+   Volkenstein MV, 2009, ENTROPY INFORM
+   Xie F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/j.1538-4632.2007.00707.x
+NR 42
+TC 1
+Z9 1
+U1 2
+U2 17
+PU LOCKE SCIENCE PUBL CO INC
+PI CHICAGO
+PA 117 WEST HARRISON BLDG SUITE 640-L221, CHICAGO, IL 60605 USA
+SN 0738-0895
+J9 J ARCHIT PLAN RES
+JI J. Archit. Plan. Res.
+PD SUM
+PY 2014
+VL 31
+IS 2
+BP 112
+EP 127
+PG 16
+WC Environmental Studies; Regional & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Public Administration; Urban Studies
+GA AN4TA
+UT WOS:000340580200002
+DA 2019-03-26
+ER

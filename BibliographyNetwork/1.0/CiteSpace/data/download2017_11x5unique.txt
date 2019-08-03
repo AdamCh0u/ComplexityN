@@ -1,0 +1,503 @@
+
+PT J
+AU Najem, S
+AF Najem, Sara
+TI Solar potential scaling and the urban road network topology
+SO PHYSICAL REVIEW E
+ID STREET NETWORKS; CITIES; LAWS
+AB We explore the scaling of cities' solar potentials with their number of buildings and reveal a latent dependence between the solar potential and the length of the corresponding city's road network. This scaling is shown to be valid at the grid and block levels and is attributed to a common street length distribution. Additionally, we compute the buildings' solar potential correlation function and length in order to determine the set of critical exponents typifying the urban solar potential universality class.
+OI Najem, Sara/0000-0002-1171-870X
+CR Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty Michael., 2013, NEW SCI CITIES
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bivand R., 2013, R PACKAGE VERSION 0
+   Bourdieu P., 1992, INVITATION REFLEXIVE
+   Bourdieu Pierre, 1993, FIELD CULTURAL PRODU
+   Bouttier J, 2004, ELECTRON J COMB, V11
+   Bunde A, 2012, FRACTALS DISORDERED
+   Chan SHY, 2011, EUR PHYS J B, V84, P563, DOI 10.1140/epjb/e2011-10889-3
+   Eugster M. J. A., 2010, R J
+   FISHER ME, 1967, REP PROG PHYS, V30, P615, DOI 10.1088/0034-4885/30/2/306
+   FU P, 2000, SOLAR ANAL 1 0 USER
+   Jakubiec J. A., 2012, P SIMBUILD MAD WISC, P1
+   Jiang B, 2007, PHYSICA A, V384, P647, DOI 10.1016/j.physa.2007.05.064
+   Kalapala V, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.026130
+   Lin JY, 2013, TRANSPORT REV, V33, P658, DOI 10.1080/01441647.2013.848955
+   Louf R, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0924
+   Masucci AP, 2009, EUR PHYS J B, V71, P259, DOI 10.1140/epjb/e2009-00290-4
+   Mohajeri N, 2014, GEOGR ANAL, V46, P345, DOI 10.1111/gean.12061
+   Najem S., UNPUB
+   Rybski D, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/28002
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Savage VM, 2008, PLOS COMPUT BIOL, V4, DOI 10.1371/journal.pcbi.1000171
+   Viana M. P., 2012, NAT SCI REP, V3, P3495
+   West GB, 2004, PHYS TODAY, V57, P36, DOI 10.1063/1.1809090
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+NR 29
+TC 2
+Z9 2
+SN 2470-0045
+EI 2470-0053
+PD JAN 30
+PY 2017
+VL 95
+IS 1
+AR 012323
+DI 10.1103/PhysRevE.95.012323
+UT WOS:000402243300006
+PM 28208353
+ER
+
+PT J
+AU Mendez, V
+   Assaf, M
+   Horsthemke, W
+   Campos, D
+AF Mendez, Vicenc
+   Assaf, Michael
+   Horsthemke, Werner
+   Campos, Daniel
+TI Stochastic foundations in nonlinear density-regulation growth
+SO PHYSICAL REVIEW E
+ID THETA-LOGISTIC MODEL; STATIONARY DISTRIBUTION; POPULATION-GROWTH;
+   ONTOGENIC GROWTH; GENERAL-MODEL; EXTINCTION; COMPETITION; DOOMSDAY;
+   FIXATION; SYSTEM
+AB In this work we construct individual-based models that give rise to the generalized logistic model at the mean-field deterministic level and that allow us to interpret the parameters of these models in terms of individual interactions. We also study the effect of internal fluctuations on the long-time dynamics for the different models that have been widely used in the literature, such as the theta-logistic and Savageau models. In particular, we determine the conditions for population extinction and calculate the mean time to extinction. If the population does not become extinct, we obtain analytical expressions for the population abundance distribution. Our theoretical results are based on WKB theory and the probability generating function formalism and are verified by numerical simulations.
+RI Mendez, Vicenc/G-2276-2010; Campos, Daniel/C-7064-2008
+OI Mendez, Vicenc/0000-0002-2605-6606; Campos, Daniel/0000-0003-1982-3288
+CR Antal T, 2006, B MATH BIOL, V68, P1923, DOI 10.1007/s11538-006-9061-4
+   Assaf M, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.200602
+   Assaf M, 2017, J PHYS A-MATH THEOR, V50, DOI 10.1088/1751-8121/aa669a
+   Assaf M, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/09/P09009
+   Assaf M, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/07/P07018
+   Assaf M, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.021116
+   Assaf M, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.031122
+   Barker D, 2008, ECOL MODEL, V219, P170, DOI 10.1016/j.ecolmodel.2008.08.008
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bhowmick AR, 2016, MATH BIOSCI, V271, P96, DOI 10.1016/j.mbs.2015.10.017
+   COHEN JE, 1995, SCIENCE, V269, P341, DOI 10.1126/science.7618100
+   DARROCH JN, 1965, J APPL PROBAB, V2, P88
+   DYKMAN MI, 1994, J CHEM PHYS, V100, P5735, DOI 10.1063/1.467139
+   Elgart V, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.041106
+   Escudero C, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.041149
+   FOERSTER HV, 1960, SCIENCE, V132, P1291
+   Gardiner C. W., 1990, HDB STOCHASTIC METHO
+   GILPIN ME, 1973, P NATL ACAD SCI USA, V70, P3590, DOI 10.1073/pnas.70.12.3590
+   Goel N. S., 1974, STOCHASTIC MODELS BI
+   Hou C, 2011, P ROY SOC B-BIOL SCI, V278, P2881, DOI 10.1098/rspb.2011.0047
+   Kessler DA, 2007, J STAT PHYS, V127, P861, DOI 10.1007/s10955-007-9312-2
+   Liu M, 2012, APPL MATH LETT, V25, P1980, DOI 10.1016/j.aml.2012.03.015
+   Matis JH, 1998, THEOR POPUL BIOL, V53, P16, DOI 10.1006/tpbi.1997.1337
+   Meerson B, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.060103
+   Mobilia M, 2010, EPL-EUROPHYS LETT, V91, DOI 10.1209/0295-5075/91/10002
+   Nasell I, 2001, J THEOR BIOL, V211, P11, DOI 10.1006/jtbi.2001.2328
+   Nisbet R. M., 2003, MODELLING FLUCTUATIN
+   Ovaskainen O, 2001, J APPL PROBAB, V38, P898, DOI 10.1017/S0021900200019112
+   Parolari AJ, 2015, WIRES WATER, V2, P407, DOI 10.1002/wat2.1080
+   Reynolds JD, 2005, SCIENCE, V309, P567, DOI 10.1126/science.1116268
+   Ribeiro FL, 2015, B MATH BIOL, V77, P409, DOI 10.1007/s11538-014-0059-z
+   Ross JV, 2009, ECOL MODEL, V220, P3472, DOI 10.1016/j.ecolmodel.2009.08.024
+   SAVAGEAU MA, 1979, P NATL ACAD SCI USA, V76, P5413, DOI 10.1073/pnas.76.11.5413
+   Sibly RM, 2005, SCIENCE, V309, P607, DOI 10.1126/science.1110760
+   Suweis S, 2013, P NATL ACAD SCI USA, V110, P4230, DOI 10.1073/pnas.1222452110
+   Thornley JHM, 2005, ECOL MODEL, V184, P257, DOI 10.1016/j.ecolmodel.2004.10.007
+   Tsoularis A, 2002, MATH BIOSCI, V179, P21, DOI 10.1016/S0025-5564(02)00096-2
+   VONBERTALANFFY L, 1957, Q REV BIOL, V32, P217, DOI 10.1086/401873
+   VONBERTALANFFY L, 1960, FUNDAMENTAL ASPECTS, P137
+   West GB, 2001, NATURE, V413, P628, DOI 10.1038/35098076
+NR 40
+TC 1
+Z9 1
+SN 2470-0045
+EI 2470-0053
+PD AUG 24
+PY 2017
+VL 96
+IS 2
+AR 022147
+DI 10.1103/PhysRevE.96.022147
+UT WOS:000408351700001
+PM 28950645
+ER
+
+PT J
+AU Georgiev, GY
+   Chatterjee, A
+   Iannacchione, G
+AF Georgiev, Georgi Yordanov
+   Chatterjee, Atanu
+   Iannacchione, Germano
+TI Exponential Self-Organization and Moore's Law: Measures and Mechanisms
+SO COMPLEXITY
+ID COMPLEX NETWORKS; EMERGENCE; ENERGY; SIZE
+AB The question of how complex systems become more organized and efficient with time is open. Examples are the formation of elementary particles from pure energy, the formation of atoms from particles, the formation of stars and galaxies, and the formation of molecules from atoms, of organisms, and of the society. In this sequence, order appears inside complex systems and randomness (entropy) is expelled to their surroundings. Key features of self-organizing systems are that they are open and they are far away from equilibrium, with increasing energy flows through them. This work searches for global measures of such self-organizing systems, which are predictable and do not depend on the substrate of the system studied. Our results will help to understand the existence of complex systems and mechanisms of self-organization. In part we also provide insights, in this work, about the underlying physical essence of Moore's law and the multiple logistic growth observed in technological progress.
+RI Iannacchione, Germano/H-2555-2017
+OI Iannacchione, Germano/0000-0003-0567-5843
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barrat A., 2008, DYNAMICAL PROCESSES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blagus N, 2012, PHYSICA A, V391, P2794, DOI 10.1016/j.physa.2011.12.055
+   Bonner JT, 2004, EVOLUTION, V58, P1883
+   CARNEIRO RL, 1967, SOUTHWEST J ANTHROP, V23, P234, DOI 10.1086/soutjanth.23.3.3629251
+   Chaisson E., 2002, COSMIC EVOLUTION THE
+   Chaisson EJ, 2004, COMPLEXITY, V9, P14, DOI 10.1002/cplx.20009
+   Chatterjee A., 2015, COMPLEXITY
+   Chatterjee A., 2013, INT J PHYS RES, V1, P21
+   Chatterjee A., STAT ANAL BUS NETWOR
+   Chatterjee A., 2012, INT J BASIC APPL SCI, V1, P584
+   Chatterjee A., STUDIES STRUCTURE DY
+   de Maupertuis Pierre-Louis Moreau, 1744, ACCORD DIFF LOIX NAT
+   Euler L, 1952, METHODUS INVENIENDI, V1
+   Georgiev G, 2002, OPEN SYST INF DYN, V9, P371, DOI 10.1023/A:1021858318296
+   Georgiev G. Y., 2012, LNCS, V7166, P90
+   Georgiev GY, 2015, COMPLEXITY, V21, P18, DOI 10.1002/cplx.21574
+   Goh KI, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.278701
+   Hartonen T, 2012, COMPLEXITY, V18, P53, DOI 10.1002/cplx.21428
+   Kelly Kevin, 2010, WHAT TECHNOLOGY WANT
+   Kitsak M, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.056115
+   Kurzweil R, 2005, SINGULARITY IS NEAR
+   Lagrange JL., 1853, MECANIQUE ANAL, V1
+   Makela T, 2010, PHYS LIFE REV, V7, P477, DOI 10.1016/j.plrev.2010.10.001
+   Maupertuis P-LM. D., 1746, HIST ACAD ROYALE SCI, P267
+   Moore M., 1965, ELECTRONICS, V38, P114
+   Nagy B, 2011, TECHNOL FORECAST SOC, V78, P1356, DOI 10.1016/j.techfore.2011.07.006
+   Pernu TK, 2012, COMPLEXITY, V17, P44, DOI 10.1002/cplx.21388
+   Rozenfeld H. D., 2009, ENCY COMPLEXITY SYST, P3924, DOI [DOI 10.1007/978-0-387-30440-3_231, 10.1007/978-0-387-30440-3_231]
+   Smyth D, 2003, COMPLEXITY, V9, P56, DOI 10.1002/cplx.10117
+   Tang M, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.026114
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Zhang H, 2007, PHYS LETT A, V364, P177, DOI 10.1016/j.physleta.2006.12.009
+NR 35
+TC 1
+Z9 1
+SN 1076-2787
+EI 1099-0526
+PY 2017
+AR 8170632
+DI 10.1155/2017/8170632
+UT WOS:000394109500001
+ER
+
+PT J
+AU Marti, P
+   Serrano-Estrada, L
+   Nolasco-Cirugeda, A
+AF Marti, Pablo
+   Serrano-Estrada, Leticia
+   Nolasco-Cirugeda, Almudena
+TI Using locative social media and urban cartographies to identify and
+   locate successful urban plazas
+SO CITIES
+DE Public space; Plaza; Square; Social networks; Livable spaces; Social
+   spaces
+ID GROWTH
+AB Locative social media networks as open sources of data allow researchers and professionals to acknowledge which city places are preferred, used and livable. Following this hypothesis, this paper proposes a methodology to identify successful public spaces - plazas - through the location -based social media network Foursquare and to analyze their urban position using morphological and historical cartographies. The overall methodology comprises three stages. First, the most important cities of the province of Alicante were selected. Second, the most relevant plaza of each city was identified using data retrieved from the social network Foursquare. Finally, the location of each plaza is analyzed in relation to the historic center and the main axes of the city. Possible correlations between their urban location and their vibrant character were subsequently identified. Two findings have emerged from this study: (a) a strong spatial relationship exists between the most successful plazas and the historic City center, which reinforces their traditional social character; and (b) all plazas share two similar traits, their location within the urban network and their proximity to the main axes of the city. (C)2017 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license
+RI Nolasco-Cirugeda, Almudena/C-4294-2015; SERRANO ESTRADA,
+   LETICIA/N-8990-2015; Marti Ciriquian, Pablo/C-4320-2015
+OI Nolasco-Cirugeda, Almudena/0000-0002-3653-1650; SERRANO ESTRADA,
+   LETICIA/0000-0002-7466-1974; Marti Ciriquian, Pablo/0000-0002-6877-784X
+CR Agryzkov T., 2015, WORLD ACAD SCI ENG T, V9, P69
+   Agryzkov T., 2016, INT J GEOGR INF SYST, P1
+   Agryzkov T, 2015, 2015 3RD INTERNATIONAL CONFERENCE ON FUTURE INTERNET OF THINGS AND CLOUD (FICLOUD) AND INTERNATIONAL CONFERENCE ON OPEN AND BIG (OBD), P687, DOI 10.1109/FiCloud.2015.8
+   Aurigi A., 2005, MAKING DIGITAL CITY
+   Beltran Lopez Gerson, 2012, GEOLOCALIZACION REDE
+   Benidorm, 2007, BEN OR CIUD VERT 195
+   Bentley F, 2015, PERS UBIQUIT COMPUT, V19, P217, DOI 10.1007/s00779-014-0772-5
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blasco C., 1991, GLOSARIO URBANISTICA
+   Bosselmann P., 2008, URBAN TRANSFORMATION
+   Calabrese F, 2014, ACM COMPUT SURV, V47, P1, DOI DOI 10.1145/2655691
+   Calvo Garcia-Tornel F., 2009, MURGETANA, V121, P191
+   Canales Martinez G., 1991, INVESTIGACIONES GEOG, V9, P81
+   Canales Martinez G., 1997, INVESTIGACIONES GEOG, V17, P69
+   Canales Martinez G., 1992, INVESTIGACIONES GEOG, V10, P146
+   Canals Bevis F., 2010, PLECS DEL CERCLE
+   Carmona M., 2010, PUBLIC PLACES URBAN
+   Catalan B, 2008, LANDSCAPE URBAN PLAN, V85, P174, DOI 10.1016/j.landurbplan.2007.11.004
+   Cerrone D., 2015, SENSE PLACE
+   Chen L, 2009, P 18 ACM C INF KNOWL, P523, DOI [10.1145/1645953.1646021, DOI 10.1145/1645953.1646021]
+   Cheng Z, 2011, ICWSM, V2011, P81
+   Chorley MJ, 2013, 2013 IEEE THIRD INTERNATIONAL CONFERENCE ON CLOUD AND GREEN COMPUTING (CGC 2013), P271, DOI 10.1109/CGC.2013.50
+   Cramer Henriette, 2011, P 13 INT C HUM COMP, P57, DOI [10.1145/2037373.2037384, DOI 10.1145/2037373.2037384]
+   Cranshaw J., 2012, P 6 INT AAAI C WEBL, P58
+   Cutillas Orguiles E., 2006, HIST DE ELDA, V2, P262
+   Davila Linares J. M., 1990, THESIS
+   Davila Linares J. M., 1989, INVESTIGACIONES GEOG, P99
+   Digital Marketing Ramblings, 2016, NUMB 17 IMP FOURSQ S
+   Dominguez Laura, 2016, SCRIPTA NOVA REV ELE, V20
+   Dunkel A, 2015, LANDSCAPE URBAN PLAN, V142, P173, DOI 10.1016/j.landurbplan.2015.02.022
+   Equipo Tecnico Nacional SIOSE, 2012, MAN FOT SIOSE
+   Expanded Ramblings DMR, 2016, SWARM STATS FACTS
+   Foster J. D., 2013, THESIS
+   Foursquare, 2015, WHY AM I GETT MESS I
+   Foursquare, 2014, FOURSQ CAT HIER
+   Fujita H, 2013, CARTOGR GEOGR INF SC, V40, P183, DOI 10.1080/15230406.2013.800272
+   Gallo J., 2008, EMPIR ECON, V34, P59
+   GASPAR J, 1996, INFORM TECHNOLOGY FU
+   Gehl J, 2010, CITIES PEOPLE
+   Gehl J., 2013, STUDY PUBLIC LIFE
+   Giampino A., 2012, EURAU12 PORTO ESPACO, P1
+   Hermosilla T, 2012, LANDSCAPE URBAN PLAN, V106, P124, DOI 10.1016/j.landurbplan.2012.02.008
+   IAB Spain Research, 2014, EST AN RED SOC
+   IAB Spain Research, 2016, EST AN RED SOC
+   Ignite Social Media, 2012, FOURSQ REP US AG
+   Jacobs A., 1995, GREAT STREETS
+   Jaen i Urban G., 1991, GLORIETA ELX FORMACI
+   Lang J., 2005, URBAN DESIGN TYPOLOG
+   Lee N., 2014, FOURSQUARE SEEKS MOV
+   Li YH, 2013, IEEE INFOCOM SER, P3357
+   Lindqvist J., 2011, P 2011 ANN C HUM FAC, V54, P2409
+   Long X., 2013, 2013 9 INT C C COLL, P409
+   Low S., 2006, POLITICS PUBLIC SPAC
+   MEHTA V, 2014, STREET QUINTESSENTIA
+   Merriam-Webster, 2016, DEF PLAZ MERR WEBST
+   Milne D., 2012, P 21 TEXT RETRIEVAL
+   Miniwatts Marketing Group, 2016, INT WORLD STATS US P
+   MOSS M, 1998, CITYSCAPE J POLICY D, V3, P107
+   Murdock V., 2011, SIGSPATIAL SPECIAL, V3, P62, DOI DOI 10.1145/2047296.2047309
+   Noulas A., 2010, 5 INT AAAI C WEBL SO, P570
+   Noulas A., 2013, THESIS
+   PATECO, 2009, PAC OR URB COM PLAN
+   Pew Research Center, 2017, SOC MED US AG GROUP
+   Ponce Herrero G., 2006, HIST DE ELDA, V2, P247
+   Poveda Navarro A. M., 1986, HIST MEDIEVAL ANALES, V4, P67
+   Ramos Fernandez R., 1989, HIST DE ELCHE
+   Ramos Hidalgo A., 1983, EVOLUCION URBANA ALI
+   Reed R., 2011, SOLOMO MANIFESTO JUS
+   Roick O, 2013, T GIS, V17, P763, DOI 10.1111/tgis.12032
+   Rost M., 2013, REPRESENTATION COMMU
+   Rueda S., 2012, CERTIFICACION URBANI
+   Ruiz Sanchez J., 2012, CIUDAD TERRITORIO ES, V171, P73
+   Scellato S, 2011, ICWSM, V11, P329
+   Serrano-Estrada L, 2014, REDES SOCIALES SIG C
+   Serrano-Estrada L., 2016, J URBAN RES, V13
+   Serrano-Estrada L, 2014, ESCENARIOS IMAGINARI, V2, P404
+   Serrano-Estrada L, 2016, P 11 CIV BACK SENS C
+   Sevilla Jimenez M., 1985, CRECIMIENTO URBANIZA
+   Sharif S., 2012, FOURSQUARE CHECK IN
+   Shen Y, 2016, CITIES, V55, P9, DOI 10.1016/j.cities.2016.03.013
+   Sircus J., 2001, URBAN DESIGN READER, P126
+   Soldevila F. X., 1996, PLAN GEN ORDENACION
+   Sun YR, 2016, ISPRS INT J GEO-INF, V5, DOI 10.3390/ijgi5040043
+   Townsend A., 2013, SMART CITIES BIG DAT
+   Valcarcel N, 2008, INT ARCH PHOTOGRAM B, VXXXVII, P1159
+   Whyte W. H., 1980, SOCIAL LIFE SMALL UR
+   Whyte W. H., 1988, AUDIOVISUAL MAT
+   Wikimedia Tool Labs, 2016, GEOHACK
+NR 89
+TC 6
+Z9 6
+SN 0264-2751
+EI 1873-6084
+PD APR
+PY 2017
+VL 64
+BP 66
+EP 78
+DI 10.1016/j.cities.2017.02.007
+UT WOS:000397552400008
+ER
+
+PT J
+AU Hochberg, ME
+   Marquet, PA
+   Boyd, R
+   Wagner, A
+AF Hochberg, Michael E.
+   Marquet, Pablo A.
+   Boyd, Robert
+   Wagner, Andreas
+TI Innovation: an emerging focus from cells to societies
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+DE culture; information; innovation ecosystem; network; niche; novelty
+ID KEY INNOVATION; EVOLUTIONARY NOVELTY; ADAPTIVE RADIATION; NICHE
+   CONSTRUCTION; ESCHERICHIA-COLI; ECOLOGICAL OPPORTUNITY; CULTURAL
+   INNOVATIONS; POPULATION-GROWTH; BIRDS; ORIGIN
+AB Innovations are generally unexpected, often spectacular changes in phenotypes and ecological functions. The contributions to this theme issue are the latest conceptual, theoretical and experimental developments, addressing how ecology, environment, ontogeny and evolution are central to understanding the complexity of the processes underlying innovations. Here, we set the stage by introducing and defining key terms relating to innovation and discuss their relevance to biological, cultural and technological change. Discovering how the generation and transmission of novel biological information, environmental interactions and selective evolutionary processes contribute to innovation as an ecosystem will shed light on how the dominant features across life come to be, generalize to social, cultural and technological evolution, and have applications in the health sciences and sustainability.
+   This article is part of the theme issue 'Process and pattern in innovations from cells to societies'.
+OI Marquet, Pablo/0000-0001-6369-9339
+CR Allaby RG, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0429
+   [Anonymous], J EXP ZOOL PART B, V304, P610, DOI [10.1002/jez.b.21071, DOI 10.1002/JEZ.B.21071]
+   Aplin LM, 2015, NATURE, V518, P538, DOI 10.1038/nature13998
+   Arbilly M, 2017, P ROY SOC B-BIOL SCI, V284, DOI 10.1098/rspb.2016.2385
+   Armbruster WS, 1997, ECOLOGY, V78, P1661
+   ARNOLD EN, 1994, PHYLOGENETICS ECOLOG, P123
+   Axtell R. L., 2013, COMPETITIVE INNOVATI
+   Baltrus DA, 2013, TRENDS ECOL EVOL, V28, P489, DOI 10.1016/j.tree.2013.04.002
+   Barham L, 2013, HAND HANDLE 1 IND RE
+   Barve A, 2013, NATURE, V500, P203, DOI 10.1038/nature12301
+   Basalla G, 1989, EVOLUTION TECHNOLOGY
+   Bentley RA, 2004, P ROY SOC B-BIOL SCI, V271, P1443, DOI 10.1098/rspb.2004.2746
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blount ZD, 2008, P NATL ACAD SCI USA, V105, P7899, DOI 10.1073/pnas.0803151105
+   Blount ZD, 2012, NATURE, V489, P513, DOI 10.1038/nature11514
+   Bond JE, 1998, EVOLUTION, V52, P403, DOI 10.1111/j.1558-5646.1998.tb01641.x
+   Bonduriansky R, 2012, TRENDS ECOL EVOL, V27, P330, DOI 10.1016/j.tree.2012.02.003
+   Bonduriansky R, 2011, AM NAT, V178, P729, DOI 10.1086/662665
+   Boyd R, 1985, CULTURE EVOLUTIONARY
+   Boyd R, 2013, CULTURAL EVOLUTION S, P119
+   Brian Arthur W., 2009, NATURE TECHNOLOGY WH
+   Brigandt I, 2012, J EXP ZOOL PART B, V318B, P417, DOI 10.1002/jez.b.22461
+   Brockhurst MA, 2014, P R SOC, V281
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   Brusatte SL, 2015, CURR BIOL, V25, pR888, DOI 10.1016/j.cub.2015.08.003
+   Buss LW, 1987, EVOLUTION INDIVIDUAL
+   Cavalli-Sforza L L, 1981, Monogr Popul Biol, V16, P1
+   CHARLESWORTH B, 1990, EVOLUTIONARY INNOVATIONS, P47
+   Chatterjee K, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003818
+   Cieslak M, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015311
+   Collantes G, 2008, TRANSPORT RES A-POL, V42, P1302, DOI 10.1016/j.tra.2008.05.007
+   Cordero OX, 2014, NAT REV MICROBIOL, V12, P263, DOI 10.1038/nrmicro3218
+   Cover T. M., 2006, ELEMENTS INFORM THEO
+   Dannen G, 1997, SCI AM, V276, P90, DOI 10.1038/scientificamerican0197-90
+   Darwin C., 1859, ORIGIN SPECIES
+   Darwin C., 1877, VARIOUS CONTRIVANCES
+   de Visser JAGM, 2014, NAT REV GENET, V15, P480, DOI 10.1038/nrg3744
+   de Vladar HP, 2017, TRENDS ECOL EVOL, V32, P324, DOI 10.1016/j.tree.2017.01.008
+   Diamond J, 2002, NATURE, V418, P700, DOI 10.1038/nature01019
+   Dukas R, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0427
+   Dyke G., 2011, LIVING DINOSAURS EVO
+   DYKHUIZEN D, 1980, GENETICS, V96, P801
+   EHRLICH PR, 1971, SCIENCE, V171, P1212, DOI 10.1126/science.171.3977.1212
+   Enquist M, 2011, PHILOS T R SOC B, V366, P412, DOI 10.1098/rstb.2010.0132
+   Erwin DH, 2004, SCIENCE, V304, P1117, DOI 10.1126/science.1099385
+   Erwin DH, 2008, TRENDS ECOL EVOL, V23, P304, DOI 10.1016/j.tree.2008.01.013
+   Erwin DH, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0422
+   Erwin DH, 2015, CURR BIOL, V25, pR930, DOI 10.1016/j.cub.2015.08.019
+   Erwin DH, 2012, J EXP ZOOL PART B, V318B, P460, DOI 10.1002/jez.b.21429
+   Fagerberg J., 2006, OXFORD HDB INNOVATIO, P1
+   Farrell W., 1998, HOW HITS HAPPEN FORE
+   Fidler AL, 2014, P NATL ACAD SCI USA, V111, P331, DOI 10.1073/pnas.1318499111
+   Fisher P, 2000, FUZZY SET SYST, V113, P7, DOI 10.1016/S0165-0114(99)00009-3
+   Flatt T, 2011, GENETICS PHYSL LIFE, P375
+   Fogarty L, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0428
+   Fogarty L, 2017, HUM NATURE-INT BIOS, V28, P39, DOI 10.1007/s12110-016-9275-6
+   Fortuna MA, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0431
+   Frank SA, 2012, J EVOLUTION BIOL, V25, P2377, DOI 10.1111/jeb.12010
+   Frank S. A, 1998, FDN SOCIAL EVOLUTION
+   Galis Frieston, 2001, P581, DOI 10.1016/B978-012730055-9/50038-0
+   Gavrilets S., 2004, FITNESS LANDSCAPES O
+   GOULD SJ, 1982, PALEOBIOLOGY, V8, P4, DOI 10.1017/S0094837300004310
+   Griffin AS, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0544
+   Griffin AS, 2014, BEHAV PROCESS, V109, P121, DOI 10.1016/j.beproc.2014.08.027
+   Grosberg RK, 2007, ANNU REV ECOL EVOL S, V38, P621, DOI 10.1146/annurev.ecolsys.36.102403.114735
+   Hager Thomas, 2008, ALCHEMY AIR JEWISH G
+   Hall JPJ, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0424
+   Hanson T., 2012, FEATHERS EVOLUTION N
+   Heard Stephen B., 1995, Historical Biology, V10, P151
+   Hedenstrom A, 2008, PHILOS T R SOC B, V363, P287, DOI 10.1098/rstb.2007.2140
+   Heers AM, 2016, INTEGR COMP BIOL, V56, P428, DOI 10.1093/icb/icw065
+   Hendry A. P., 2016, ECO EVOLUTIONARY DYN
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   Henrich J, 2016, P NATL ACAD SCI USA, V113, pE6724, DOI 10.1073/pnas.1610005113
+   Hobaiter C, 2014, PLOS BIOL, V12, DOI 10.1371/journal.pbio.1001960
+   Hochberg ME, 2004, P ROY SOC B-BIOL SCI, V271, pS313, DOI 10.1098/rsbl.2004.0172
+   Hoppitt W, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0418
+   Hunter JP, 1998, TRENDS ECOL EVOL, V13, P31, DOI 10.1016/S0169-5347(97)01273-1
+   Hutchinson JR, 2009, NATURWISSENSCHAFTEN, V96, P423, DOI 10.1007/s00114-008-0488-3
+   Jacob F., 1982, POSSIBLE ACTUAL
+   Johnson S., 2010, GOOD IDEAS COME NATU
+   Kauffman S, 1993, ORIGINS ORDER SELF O
+   Keagy J, 2009, ANIM BEHAV, V78, P809, DOI 10.1016/j.anbehav.2009.07.011
+   Kell DB, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.1183
+   Kirsch DA, 1997, BUSINESS AND ECONOMIC HISTORY, VOL 26, NO 2 - 1997, P304
+   Kline MA, 2010, P ROY SOC B-BIOL SCI, V277, P2559, DOI 10.1098/rspb.2010.0452
+   Kolodny O, 2016, PLOS COMPUT BIOL, V12, DOI 10.1371/journal.pcbi.1005302
+   Koonin EV, 2011, LOGIC CHANCE NATURE
+   KREMER M, 1993, Q J ECON, V108, P681, DOI 10.2307/2118405
+   Laland KN, 2014, ENVIRON INNOV SOC TR, V11, P71, DOI 10.1016/j.eist.2013.08.003
+   Laland KN, 2009, QUESTION ANIMAL CULT
+   Lane N., 2009, LIFE ASCENDING 10 GR
+   Lenski RE, 2003, NATURE, V423, P139, DOI 10.1038/nature01568
+   Loreto V, 2016, LECT N MORPHOGENESIS, P59, DOI 10.1007/978-3-319-24403-7_5
+   Losos JB, 2010, AM NAT, V175, P623, DOI 10.1086/652433
+   Lotem A, 2017, P NATL ACAD SCI USA, V114, P7915, DOI 10.1073/pnas.1620742114
+   Marden JH, 2005, J EXP BIOL, V208, P1653, DOI 10.1242/jeb.01483
+   Marquet PA, 2012, P NATL ACAD SCI USA, V109, P14754, DOI 10.1073/pnas.1116724109
+   Martin-Albarracin VL, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0143070
+   Mayr E, 1960, EVOLUTION LIFE, P349
+   McGuigan N, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0425
+   Mesoudi A, 2016, EVOL BIOL, V43, P481, DOI 10.1007/s11692-015-9320-0
+   Meyer JR, 2012, SCIENCE, V335, P428, DOI 10.1126/science.1214449
+   Moczek AP, 2008, BIOESSAYS, V30, P432, DOI 10.1002/bies.20754
+   Mokyr J. A, 2016, CULTURE GROWTH ORIGI
+   MORSE DH, 1975, BIOL REV, V50, P167, DOI 10.1111/j.1469-185X.1975.tb01056.x
+   MULLER GB, 1991, ANNU REV ECOL SYST, V22, P229, DOI 10.1146/annurev.es.22.110191.001305
+   Muthukrishna M, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0192
+   Navarrete AF, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0186
+   Nelson RR, 2002, J ECON PERSPECT, V16, P23, DOI 10.1257/0895330027247
+   Nguyen A, 2016, EVOL COMPUT, V24, P545, DOI 10.1162/EVCO_a_00189
+   NORBERG UM, 1995, FUNCT ECOL, V9, P48, DOI 10.2307/2390089
+   Nosil P, 2015, CURR BIOL, V25, pR613, DOI 10.1016/j.cub.2015.06.019
+   O'Brien MJ, 2012, CURR ANTHROPOL, V53, P434, DOI 10.1086/666585
+   O'Dwyer JP, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0426
+   Odling-Smee JF, 2003, NICHE CONSTRUCTION N
+   Orr HA, 2000, EVOLUTION, V54, P13, DOI 10.1111/j.0014-3820.2000.tb00002.x
+   Overington SE, 2009, ANIM BEHAV, V78, P1001, DOI 10.1016/j.anbehav.2009.06.033
+   Pap PL, 2015, FUNCT ECOL, V29, P746, DOI 10.1111/1365-2435.12419
+   Pigliucci M, 2008, PHILOS SCI, V75, P887, DOI 10.1086/594532
+   Powell A, 2009, SCIENCE, V324, P1298, DOI 10.1126/science.1170165
+   Prum RO, 1999, J EXP ZOOL, V285, P291
+   Quinn JL, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0184
+   Rabosky DL, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0417
+   Ratcliff WC, 2017, PHIL T R SOC B, V372
+   Reader S. M., 2003, ANIMAL INNOVATION IN
+   Reader SM, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0182
+   Richerson PJ, 2009, HUM BIOL, V81, P211, DOI 10.3378/027.081.0306
+   Rogers E. M., 2003, DIFFUSION INNOVATION
+   Seki R, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14229
+   Shennan S, 2001, CAMB ARCHAEOL J, V11, P5
+   Simpson GG, 1944, TEMPO MODE EVOLUTION
+   Snell-Rood EC, 2010, BIOESSAYS, V32, P71, DOI 10.1002/bies.200900132
+   Sobel JM, 2010, EVOLUTION, V64, P295, DOI 10.1111/j.1558-5646.2009.00877.x
+   Sojo V, 2016, ASTROBIOLOGY, V16, P181, DOI 10.1089/ast.2015.1406
+   Sol D, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0187
+   Sole RV, 2013, COMPLEXITY, V18, P15, DOI 10.1002/cplx.21436
+   Stiner MC, 2006, HUM ECOL, V34, P693, DOI 10.1007/s10745-006-9041-1
+   Szathmary E, 2015, P NATL ACAD SCI USA, V112, P10104, DOI 10.1073/pnas.1421398112
+   Tebbich S, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0195
+   Thompson JN, 2009, AM NAT, V173, P125, DOI 10.1086/595752
+   Tobalske BW, 2016, PHILOS T R SOC B, V371, DOI 10.1098/rstb.2015.0383
+   Toll-Riera M, 2016, PLOS GENET, V12, DOI 10.1371/journal.pgen.1006005
+   van Baalen M, 2013, INTERFACE FOCUS, V3, DOI 10.1098/rsfs.2013.0030
+   Vargas AO, 2005, J EXP ZOOL PART B, V304B, P86, DOI 10.1002/jez.b.21023
+   Vargas AO, 2005, J EXP ZOOL PART B, V304B, P206, DOI 10.1002/jez.b.21051
+   Vermeij GJ, 2011, ECOSPHERE, V2, DOI 10.1890/ES11-00004.1
+   VIDELER JJ, 2006, AVIAN FLIGHT
+   Wagner A., 2011, ARRIVAL FITTEST SOLV
+   Wagner A, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0416
+   Wagner A, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2015.1086
+   Wagner A, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.1190
+   Wagner A, 2012, P ROY SOC B-BIOL SCI, V279, P1249, DOI 10.1098/rspb.2011.2293
+   Wagner A, 2011, TRENDS GENET, V27, P397, DOI 10.1016/j.tig.2011.06.002
+   Wagner GP, 1996, EVOLUTION, V50, P967, DOI 10.1111/j.1558-5646.1996.tb02339.x
+   Wagner GP., 2015, ANZ J COMP ZOOL, V256, P75, DOI [10.1016/j.jcz.2015.04.006, DOI 10.1016/J.JCZ.2015.04.006]
+   Wagner GP, 2014, HOMOLOGY GENES EVOLU
+   Wagner GP, 2010, CURR BIOL, V20, pR48, DOI 10.1016/j.cub.2009.11.010
+   Wallbank RWR, 2016, PLOS BIOL, V14, DOI 10.1371/journal.pbio.1002353
+   Wasielewski H, 2016, ANN NY ACAD SCI, V1372, P20, DOI 10.1111/nyas.13118
+   Weinberger VP, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0415
+   West T, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0419
+   West-Eberhard MJ, 2008, PHILOS SCI, V75, P899, DOI 10.1086/594533
+   Whiten A, 2009, PHILOS T R SOC B, V364, P2417, DOI 10.1098/rstb.2009.0069
+   Yoder JB, 2010, J EVOLUTION BIOL, V23, P1581, DOI 10.1111/j.1420-9101.2010.02029.x
+   Zaman L, 2014, PLOS BIOL, V12, DOI 10.1371/journal.pbio.1002023
+NR 166
+TC 6
+Z9 6
+SN 0962-8436
+EI 1471-2970
+PD DEC 5
+PY 2017
+VL 372
+IS 1735
+AR 20160414
+DI 10.1098/rstb.2016.0414
+UT WOS:000413446100001
+PM 29061887
+ER

@@ -1,0 +1,465 @@
+
+PT J
+AU Papke, A
+   Battiato, I
+AF Papke, A.
+   Battiato, I.
+TI A reduced complexity model for dynamic similarity in obstructed shear
+   flows
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+DE obstructed shear flows; dynamic similarity; Brinkman media
+ID CHANNEL FLOW; VEGETATION; TRANSPORT
+AB Coupled flows through and over permeable media, also known as obstructed shear flows, are ubiquitous to many environmental systems at different scales, including aquatic flows over sediment beds, and atmospheric flows over crops and cities. Despite their differences, such flows exhibit strong dynamic similarities among systems and scales, as evidenced by the recent finding of empirical universal scaling laws correlating relevant length and velocity scales. We propose a reduced complexity model for obstructed shear channel flows, which couples Brinkman with Reynolds equations to describe the flow within and above the obstruction. We derive scaling laws by intermediate asymptotic analysis of a Darcy-Brinkman type solution in the low permeability limit. The approach highlights the importance of the effective permeability of the obstruction as a critical parameter governing the system dynamical response. The model results are in good agreement with the scaling laws empirically calculated in other studies.
+C1 [Papke, A.; Battiato, I.] Clemson Univ, Dept Mech Engn, Clemson, SC 29634 USA.
+   [Papke, A.] Max Planck Inst Dynam & Self Org, Gottingen, Germany.
+RP Battiato, I (reprint author), Clemson Univ, Dept Mech Engn, 233 Fluor Daniel Bldg, Clemson, SC 29634 USA.
+EM ibattia@clemson.edu
+FU Georg-August-Universitat Gottingen; Max Planck Institute for Dynamics
+   and Self-Organization, Gottingen
+FX Ariane Papke gratefully acknowledges funding from
+   Georg-August-Universitat Gottingen and the Max Planck Institute for
+   Dynamics and Self-Organization, Gottingen.
+CR Auriault JL, 2009, TRANSPORT POROUS MED, V79, P215, DOI 10.1007/s11242-008-9308-7
+   Baldocchi D, 1998, AGR FOREST METEOROL, V90, P1, DOI 10.1016/S0168-1923(97)00072-5
+   Battiato I, 2012, J FLUID MECH, V699, P94, DOI 10.1017/jfm.2012.85
+   Battiato I, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.144504
+   Breugem WP, 2006, J FLUID MECH, V562, P35, DOI 10.1017/S0022112006000887
+   CARPENTER SR, 1986, AQUAT BOT, V26, P341, DOI 10.1016/0304-3770(86)90031-8
+   de Langre E, 2008, ANNU REV FLUID MECH, V40, P141, DOI 10.1146/annurev.fluid.40.111406.102135
+   Finnigan J, 2000, ANNU REV FLUID MECH, V32, P519, DOI 10.1146/annurev.fluid.32.1.519
+   Ghisalberti M, 2005, ENVIRON FLUID MECH, V5, P527, DOI 10.1007/s10652-005-0419-1
+   Ghisalberti M, 2004, WATER RESOUR RES, V40, DOI 10.1029/2003WR002776
+   Ghisalberti M, 2009, J FLUID MECH, V641, P51, DOI 10.1017/S0022112009992175
+   Guo P, 2000, AM J PHYSIOL-RENAL, V279, pF698
+   Hsieh PC, 2006, ADV WATER RESOUR, V29, P1257, DOI 10.1016/j.advwatres.2005.10.004
+   Jimenez J, 2001, J FLUID MECH, V442, P89
+   Katul GG, 2011, WATER RESOUR RES, V47, DOI 10.1029/2010WR010278
+   Nepf H, 2007, WATER RESOUR RES, V43, DOI 10.1029/2006WR005362
+   Nepf HM, 2012, ANNU REV FLUID MECH, V44, P123, DOI 10.1146/annurev-fluid-120710-101048
+   NEPF HM, 2000, J GEOPHYS RES, V105, P547, DOI DOI 10.1029/2000JC900145
+   Poggi D, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR007373
+   Shvidchenko AB, 2001, WATER RESOUR RES, V37, P709, DOI 10.1029/2000WR900280
+   White BL, 2007, J FLUID MECH, V593, P1, DOI 10.1017/S0022112007008415
+NR 21
+TC 8
+Z9 8
+U1 0
+U2 6
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD AUG 16
+PY 2013
+VL 40
+IS 15
+BP 3888
+EP 3892
+DI 10.1002/grl.50759
+PG 5
+WC Geosciences, Multidisciplinary
+SC Geology
+GA 208EO
+UT WOS:000323660000020
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Looper, JP
+   Vieux, BE
+AF Looper, Jonathan P.
+   Vieux, Baxter E.
+TI Distributed Hydrologic Forecast Reliability Using Next-Generation Radar
+SO JOURNAL OF HYDROLOGIC ENGINEERING
+LA English
+DT Article
+DE Urban flash flooding; Distributed hydrologic modeling; Radar rainfall
+   uncertainty
+ID ERROR VARIANCE; RAINFALL DATA; PRECIPITATION; VERIFICATION; UNCERTAINTY;
+   ACCURACY; SYSTEM; SCALE; MODEL
+AB Storm water runoff can significantly affect flooding in urban areas. Flood prediction depends on model structure uncertainties and the accurate determination of rainfall. Three aspects of hydrologic forecasting in real time and hydrologic predictions in off-line modes include the following: (1) distributed model reliability, (2) accuracy of radar-derived rainfall, and (3) scaling of basin input and response. The existing flood alert system (FAS) that is operational for Brays Bayou in Houston, Texas, forms the basis for testing the relative magnitudes of these effects on prediction accuracy. The importance of gauge-corrected radar input was demonstrated through a probabilistic approach and by comparison to events with streamflow observations. The difference in discharge, called dispersion, obtained from corrected and uncorrected radar input scales with drainage area, but at a nonlinear rate, and it differs from storm to storm. An additional comparison was made between the existing flood alert system's kinematic wave model, Vflo, and the full dynamic wave model, Hydrologic Engineering Center's River Analysis System (HEC-RAS). Both models showed similar scaling with radar bias correction. Considering that random errors in rainfall rates measured by radar should cancel out over large areas, the decline in forecast skill measured by the critical success index (CSI) was not intuitive. Both empirical observations and the perturbation experiment confirm that predictability decreased with increased drainage area. This article shows the benefit of accurate radar rainfall, but that predictability does not scale linearly with drainage area. DOI: 10.1061/(ASCE)HE.1943-5584.0000717. (C) 2013 American Society of Civil Engineers.
+C1 [Looper, Jonathan P.; Vieux, Baxter E.] Univ Oklahoma, Sch Civil Engn & Environm Sci, Norman, OK 73072 USA.
+RP Looper, JP (reprint author), Univ Oklahoma, Sch Civil Engn & Environm Sci, 202 West Boyd St,CEC 334, Norman, OK 73072 USA.
+EM looperjp@ou.edu
+OI Vieux, Baxter/0000-0001-8814-4380
+FU National Science Foundation (NSF) [EEC-0313747]; Rice University and the
+   Texas Medical Center
+FX The authors are grateful for funding from National Science Foundation
+   (NSF) Award No. EEC-0313747. Hydrologic modeling and quality-controlled
+   rainfall data are acknowledged from Vieux and Associates Inc., and the
+   flood alert system supported by Rice University and the Texas Medical
+   Center is also acknowledged.
+CR Bedient PB, 2003, J HYDROL ENG, V8, P308, DOI 10.1061/(ASCE)10841-0699(2003)8:6(308)
+   Carpenter TM, 2004, J HYDROL, V298, P202, DOI 10.1016/j.hydrol.2004.03.036
+   Chumchean S, 2003, PHYS CHEM EARTH, V28, P27, DOI 10.1016/S1474-7065(03)00005-6
+   Ciach GJ, 2003, ADV WATER RESOUR, V26, P573, DOI 10.1016/S0309-1708(02)00163-X
+   Ciach GJ, 2006, ADV WATER RESOUR, V29, P1450, DOI 10.1016/j.advwatres.2005.11.003
+   Doviak R. J., 1993, DOPPLER RADAR WEATHE
+   Einfalt T, 2005, ATMOS RES, V77, P1, DOI 10.1016/j.atmosres.2004.12.011
+   Einfalt T, 2004, J HYDROL, V299, P186, DOI 10.1016/j.jhydrol.2004.08.004
+   Gourley JJ, 2005, J HYDROMETEOROL, V6, P115, DOI 10.1175/JHM408.1
+   Habib E, 2004, ADV WATER RESOUR, V27, P967, DOI 10.1016/j.advwatres.2004.08.003
+   Habib E, 2008, HYDROLOG SCI J, V53, P568, DOI 10.1623/hysj.53.3.568
+   Mandapaka PV, 2009, ADV WATER RESOUR, V32, P1020, DOI 10.1016/j.advwatres.2008.08.014
+   MARSHALL JS, 1948, J METEOROL, V5, P165, DOI 10.1175/1520-0469(1948)005<0165:TDORWS>2.0.CO;2
+   MORIN J, 1995, J HYDROL, V172, P275, DOI 10.1016/0022-1694(95)02700-Y
+   National Research Council's Committee on Hydrologic Science (NRC-COHS), 2000, WORKSH PRED LIM TO P, P77
+   ROSENFELD D, 1993, J APPL METEOROL, V32, P50, DOI 10.1175/1520-0450(1993)032<0050:GPMRBR>2.0.CO;2
+   ROSENFELD D, 1994, J APPL METEOROL, V33, P682, DOI 10.1175/1520-0450(1994)033<0682:TWPMMF>2.0.CO;2
+   SANCHEZDIEZMA R, 2001, P 30 INT C RAD MET, P573
+   Seo DJ, 1999, J HYDROL, V223, P131, DOI 10.1016/S0022-1694(99)00106-7
+   Smith JA, 1996, WATER RESOUR RES, V32, P2035, DOI 10.1029/96WR00270
+   Vieux B. E., 2004, WATER SCI TECHNOLOGY, V48
+   Vieux B. E., 2005, MONOGRAPH COMPUTATIO, V13, P333
+   Vieux BE, 2005, ATMOS RES, V77, P322, DOI 10.1016/j.atmosres.2004.10.032
+   Vieux BE, 2004, J HYDROL, V299, P217, DOI 10.1016/j.jhydrol.2004.08.005
+   Vieux BE, 2004, J HYDROL, V298, P155, DOI 10.1016/jhydrol.2004.03.035
+   Wilks D S, 2006, INT GEOPHYS SERIES, V59, P627
+   WILSON JW, 1979, B AM METEOROL SOC, V60, P1048, DOI 10.1175/1520-0477(1979)060<1048:RMORS>2.0.CO;2
+   WOOD EF, 1988, J HYDROL, V102, P29, DOI 10.1016/0022-1694(88)90090-X
+NR 28
+TC 5
+Z9 5
+U1 3
+U2 16
+PU ASCE-AMER SOC CIVIL ENGINEERS
+PI RESTON
+PA 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN 1084-0699
+J9 J HYDROL ENG
+JI J. Hydrol. Eng.
+PD FEB
+PY 2013
+VL 18
+IS 2
+SI SI
+BP 260
+EP 268
+DI 10.1061/(ASCE)HE.1943-5584.0000717
+PG 9
+WC Engineering, Civil; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA 111ZK
+UT WOS:000316560700015
+DA 2019-03-26
+ER
+
+PT J
+AU Mehler, K
+   Acharya, K
+   Sada, D
+   Yu, ZB
+AF Mehler, Knut
+   Acharya, Kumud
+   Sada, Donald
+   Yu, Zhongbo
+TI Elemental stoichiometry of basal resources and benthic
+   macroinvertebrates along a land use gradient in a Great Basin watershed
+SO HYDROBIOLOGIA
+LA English
+DT Article
+DE Great Basin; Land use; Basal food resources; Benthic macroinvertebrates;
+   Consumer-resource imbalances
+ID RIVER CONTINUUM; ECOLOGICAL STOICHIOMETRY; NUTRIENT LIMITATION; STREAM
+   ECOSYSTEMS; DESERT STREAM; PHOSPHORUS; NITROGEN; LANDSCAPE; URBAN;
+   CONSTRAINTS
+AB The effects of land use on the elemental stoichiometry of aquatic organisms have rarely been studied in semi-arid watersheds. In eight semi-arid sub-watersheds differing in land use, we determined which predictor variable(s) best explains the elemental variability in two basal food resources and benthic macroinvertebrates (BMI). The elemental composition of periphyton and seston was best explained by percentage of urban and agricultural areas, forested land and associated differences in SRP, DOC, and stream water N:P ratios. In contrast, consumer elemental stoichiometry was related to taxonomic identity and feeding mode. Elemental imbalances were higher for collector-gatherer than for scraper and collector-filterer. However, high spatial and temporal variability in the elemental composition of basal food resources obscured clear spatial patterns of imbalances between nutrient-poor upstream and nutrient-rich downstream sites. Results from this study suggest that land use can affect BMI due to alteration in stoichiometry of their food resources. However, taxonomy and allometry must be taken into account to better understand spatial and temporal changes in the elemental composition of BMI. Our results indicate the importance of considering multiple effects to accurately assess land use effects on producer and consumer stoichiometry, particularly the in highly variable Great Basin watersheds.
+C1 [Mehler, Knut; Acharya, Kumud] Desert Res Inst, Div Hydrol Sci, Las Vegas, NV 89119 USA.
+   [Mehler, Knut; Yu, Zhongbo] Univ Nevada, Dept Geosci, Las Vegas, NV 89154 USA.
+   [Sada, Donald] Desert Res Inst, Div Hydrol Sci, Reno, NV 89512 USA.
+RP Mehler, K (reprint author), Desert Res Inst, Div Hydrol Sci, 755 E Flamingo Rd, Las Vegas, NV 89119 USA.
+EM knut.mehler@dri.edu
+FU U.S. Bureau of Reclamation [06FC204044]
+FX This study was funded by a Grant under Public Laws 109-103, Section 208
+   (a) through the U.S. Bureau of Reclamation (Cooperative Agreement
+   06FC204044). Thanks to Chris Rosamond from the Desert Research
+   Institute, Reno, Nevada for his assistance in the field. The authors are
+   grateful to Cathy Kochert who performed the carbon and nitrogen content
+   analyses at the Goldwater Environmental Laboratory, Arizona State
+   University. We thank Mary Miller from Water Quality Laboratory at the
+   Desert Research Institute, Reno, Nevada for performing the water
+   chemistry analyses. Finally, we sincerely thank the anonymous reviewers
+   for their constructive comments on this manuscript.
+CR Allan JD, 2004, ANNU REV ECOL EVOL S, V35, P257, DOI 10.1146/annurev.ecolsys.35.120202.110122
+   American Public Health Association, 1992, STANDARD METHODS EXA
+   Atkinson CL, 2009, J N AM BENTHOL SOC, V28, P360, DOI 10.1899/08-102.1
+   Baldwin C. K., 2003, PROGRAM
+   BOTHWELL ML, 1985, LIMNOL OCEANOGR, V30, P527, DOI 10.4319/lo.1985.30.3.0527
+   Bowes MJ, 2003, SCI TOTAL ENVIRON, V313, P199, DOI 10.1016/S0048-9697(03)00260-2
+   Bowman MF, 2005, FRESHWATER BIOL, V50, P1836, DOI 10.1111/j.1365-2427.2005.01454.x
+   Chambers J. C., 2011, TECHNICAL REPORT
+   Cross WF, 2003, ECOL LETT, V6, P721, DOI 10.1046/j.1461-0248.2003.00481.x
+   Cross WF, 2007, ECOLOGY, V88, P2563, DOI 10.1890/06-1348.1
+   DeMott WR, 2005, OECOLOGIA, V142, P20, DOI 10.1007/s00442-004-1716-y
+   ELSER JJ, 1994, NATURE, V370, P211, DOI 10.1038/370211a0
+   Evans-White MA, 2005, FRESHWATER BIOL, V50, P1786, DOI 10.1111/j.1365-2427.2005.01455.x
+   Fagan WF, 2002, AM NAT, V160, P784, DOI 10.1086/343879
+   Fink P, 2006, OIKOS, V115, P484, DOI 10.1111/j.2006.0030-1299.14951.x
+   FISHER SG, 1973, ECOL MONOGR, V43, P421, DOI 10.2307/1942301
+   Frost PC, 2009, ECOLOGY, V90, P1631, DOI 10.1890/08-1534.1
+   Frost PC, 2003, J N AM BENTHOL SOC, V22, P51, DOI 10.2307/1467977
+   Frost PJ, 2002, J MANAGE INQUIRY, V11, P21, DOI 10.1177/1056492602111007
+   GAINES WL, 1989, SOUTHWEST NAT, V34, P478, DOI 10.2307/3671505
+   Green MB, 2010, BIOGEOCHEMISTRY, V99, P15, DOI 10.1007/s10533-009-9394-9
+   Grimm N. B., 2004, GEOPHYS MONOGRAPH SE, V153
+   Grimm N. B., 1986, GEOPHYS MONOGR SER, V5, P2
+   GRIMM NB, 1988, ECOLOGY, V69, P1884, DOI 10.2307/1941165
+   Harding JS, 1999, FRESHWATER BIOL, V42, P345, DOI 10.1046/j.1365-2427.1999.444470.x
+   Hoorman J, 2008, WATER AIR SOIL POLL, V193, P309, DOI 10.1007/s11270-008-9692-1
+   Jarvie HP, 2008, J HYDROL, V350, P166, DOI 10.1016/j.jhydrol.2007.10.042
+   Kahlert M, 1998, ERGEB LIMNOL, V51, P105
+   Klausmeier CA, 2004, NATURE, V429, P171, DOI 10.1038/nature02454
+   Laudon H, 2011, ECOSYSTEMS, V14, P880, DOI 10.1007/s10021-011-9452-8
+   Lauridsen RB, 2012, FRESHW SCI, V31, P408, DOI 10.1899/11-052
+   Liess A, 2005, J N AM BENTHOL SOC, V24, P256, DOI 10.1899/04-015.1
+   Merritt R. W., 1996, INTRO AQUATIC INSECT
+   MINSHALL GW, 1978, BIOSCIENCE, V28, P767, DOI 10.2307/1307250
+   O'Brien PJ, 2010, HYDROBIOLOGIA, V657, P89, DOI 10.1007/s10750-009-9984-5
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Petersen C. G., 1992, AM NAT, V11, P20
+   REDFIELD AC, 1958, AM SCI, V46, P205
+   Rier ST, 2006, HYDROBIOLOGIA, V561, P131, DOI 10.1007/s10750-005-1610-6
+   Sada D., 2009, RESTORATION DESERT L, P1
+   Schade JD, 1997, J N AM BENTHOL SOC, V16, P612, DOI 10.2307/1468148
+   Sharpe SE, 2009, RESTORATION DESERT L, P1
+   Small GE, 2010, OECOLOGIA, V162, P581, DOI 10.1007/s00442-009-1489-4
+   Smith G., 2000, ECOLOGICAL STOICHIOM
+   Soulsby C, 2001, HYDROL EARTH SYST SC, V5, P433, DOI 10.5194/hess-5-433-2001
+   Stelzer RS, 2001, LIMNOL OCEANOGR, V46, P356, DOI 10.4319/lo.2001.46.2.0356
+   Sterner RW, 2002, ECOLOGICAL STOICHIOM
+   Townsend CR, 2003, FRESHWATER BIOL, V48, P768, DOI 10.1046/j.1365-2427.2003.01043.x
+   Tsoi WY, 2011, J N AM BENTHOL SOC, V30, P533, DOI 10.1899/10-085.1
+   VANNOTE RL, 1980, CAN J FISH AQUAT SCI, V37, P130, DOI 10.1139/f80-017
+   Velasco J, 2003, FRESHWATER BIOL, V48, P1408, DOI 10.1046/j.1365-2427.2003.01099.x
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Wetzel R. G., 2001, LIMNOLOGY
+   Whiles MR, 2002, J ENVIRON QUAL, V31, P1589, DOI 10.2134/jeq2002.1589
+   Wiens JA, 2002, FRESHWATER BIOL, V47, P501, DOI 10.1046/j.1365-2427.2002.00887.x
+   Wold AP, 1999, J N AM BENTHOL SOC, V18, P2, DOI 10.2307/1468005
+NR 56
+TC 5
+Z9 5
+U1 1
+U2 89
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0018-8158
+EI 1573-5117
+J9 HYDROBIOLOGIA
+JI Hydrobiologia
+PD OCT
+PY 2013
+VL 716
+IS 1
+BP 115
+EP 129
+DI 10.1007/s10750-013-1549-y
+PG 15
+WC Marine & Freshwater Biology
+SC Marine & Freshwater Biology
+GA 202VU
+UT WOS:000323249200010
+DA 2019-03-26
+ER
+
+PT J
+AU Emmanuel, F
+   Thompson, LH
+   Salim, M
+   Akhtar, N
+   Reza, TE
+   Hafeez, H
+   Ahmed, S
+   Blanchard, JF
+AF Emmanuel, Faran
+   Thompson, Laura H.
+   Salim, Momina
+   Akhtar, Naeem
+   Reza, Tahira E.
+   Hafeez, Hajra
+   Ahmed, Sajid
+   Blanchard, James F.
+TI The size and distribution of key populations at greater risk of HIV in
+   Pakistan: implications for resource allocation for scaling up HIV
+   prevention programmes
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Article
+AB Background With competing interests, limited funding and a socially conservative context, there are many barriers to implementing evidence-informed HIV prevention programmes for sex workers and injection drug users in Pakistan. Meanwhile, the HIV prevalence is increasing among these populations across Pakistan. We sought to propose and describe an approach to resource allocation which would maximise the impact and allocative efficiency of HIV prevention programmes.
+   Methods Programme performance reports were used to assess current resource allocation. Population size estimates derived from mapping conducted in 2011 among injection drug users and hijra, male and female sex workers and programme costs per person documented from programmes in the province of Sindh and also in India were used to estimate the cost to deliver services to 80% of these key population members across Pakistan. Cities were prioritised according to key population size.
+   Results To achieve 80% population coverage, HIV prevention programmes should be implemented in 10 major cities across Pakistan for a total annual operating cost of approximately US$3.5 million, which is much less than current annual expenditures. The total cost varies according to the local needs and the purchasing power of the local currency.
+   Conclusions By prioritising key populations at greatest risk of HIV in cities with the largest populations and limited resources, may be most effectively harnessed to quell the spread of HIV in Pakistan.
+C1 [Emmanuel, Faran; Thompson, Laura H.; Salim, Momina; Blanchard, James F.] Univ Manitoba, Ctr Global Publ Hlth, Winnipeg, MB R3E 0T6, Canada.
+   [Emmanuel, Faran; Reza, Tahira E.; Hafeez, Hajra] Canada Pakistan HIV AIDS Surveillance Project, Islamabad, Pakistan.
+   [Akhtar, Naeem; Ahmed, Sajid] Natl AIDS Control Program, Islamabad, Pakistan.
+RP Blanchard, JF (reprint author), Univ Manitoba, Dept Community Hlth Sci, Ctr Global Publ Hlth, R070-771 McDermot Ave, Winnipeg, MB R3E 0T6, Canada.
+EM james_blanchard@umanitoba.ca
+FU Canadian International Development Agency [CIDA PK 30849]
+FX The Canada-Pakistan HIV/AIDS Surveillance Projected was funded by the
+   Canadian International Development Agency (CIDA PK 30849).
+CR Abbas SQ, 2009, UNIT COSTS HIV AIDS
+   [Anonymous], PPP CONV FACT GDP LC
+   Asian Development Bank The World Bank and the National Disaster Management Authority, PAK FLOODS 2010 PREL
+   Boily MC, 2013, AIDS, V27, P1449, DOI 10.1097/QAD.0b013e32835fba81
+   Buse K, 2009, SEX TRANSM INFECT, V85, P37, DOI 10.1136/sti.2008.034058
+   Canada-Pakistan HIV-AIDS Surveillance Project, 2012, MAPP KEY POP RISK HI
+   Emmanuel F, 2012, SEX WORK HIV PAKISTA
+   Husain S, 2007, BMC HEALTH SERV RES, V7, DOI 10.1186/1472-6963-7-11
+   IWW, 2008, BAS SURV REP BEST PR
+   Malik AU, 2012, LANCET, V379, P409, DOI 10.1016/S0140-6736(12)60184-6
+   National AIDS Control Organization, 2007, TARG INT NACP 3 OP G, V1
+   National AIDS Control Program, 2009, REP MIDT REV ENH HIV
+   National AIDS Control Program, 2000, NAT STRAT FRAM HIV A
+   National AIDS Control Program, ANT SER SURV HIV AID
+   National AIDS Control Program, 2012, HIV 2 GEN SURV PAK 2
+   National AIDS Control Program, COUNTR PROGR REP PAK
+   National AIDS Control Program, HIV 2 GEN SURV PAK 2
+   Rai Mohammad A, 2009, Health Res Policy Syst, V7, P20, DOI 10.1186/1478-4505-7-20
+   Rai MA, 2007, RETROVIROLOGY, V4, DOI 10.1186/1742-4690-4-22
+   Reserve Bank of India, IND REAL EFF EXCH RA
+   Reza T, 2013, SEX TRANSM INFECT, V89, P4, DOI 10.1136/sextrans-2012-050872
+   Thompson LH, 2013, SEX TRANSM INFECT, V89, P43, DOI 10.1136/sextrans-2012-050901
+   United Nations Development Programme-Pakistan, 2012, MDGS PAK
+   United Nations General Assembly, 2012, UNGASS PAK REP PROGR
+   United Nations General Assembly, 2010, UNGASS PAK REP PROGR
+   United Nations Population Fund, 2008, SEX WORK HIV PAK SIT
+   Verma R, 2010, SEX TRANSM INFECT S1, V86, pi76
+   Wilson D, 2008, LANCET, V372, P423, DOI 10.1016/S0140-6736(08)60883-1
+   Zaheer HA, 2009, SEX TRANSM INFECT, V85, P1, DOI 10.1136/sti.2009.036038
+   Zaidi S, 2012, HEALTH POLICY PLANN, V27, P570, DOI 10.1093/heapol/czr081
+NR 30
+TC 5
+Z9 5
+U1 0
+U2 2
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+EI 1472-3263
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD SEP
+PY 2013
+VL 89
+SU 2
+BP 11
+EP 17
+DI 10.1136/sextrans-2013-051017
+PG 7
+WC Infectious Diseases
+SC Infectious Diseases
+GA AI0FR
+UT WOS:000336522100003
+PM 23843454
+OA Green Published, Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Gires, A
+   Tchiguirinskaia, I
+   Schertzer, D
+   Lovejoy, S
+AF Gires, A.
+   Tchiguirinskaia, I.
+   Schertzer, D.
+   Lovejoy, S.
+TI Multifractal analysis of a semi-distributed urban hydrological model
+SO URBAN WATER JOURNAL
+LA English
+DT Article
+DE rainfall variability; urban hydrology; multifractals; spatio-temporal
+   downscaling
+ID RADAR RAINFALL PRODUCT; REAL-TIME CONTROL; RIVER FLOWS; PRECIPITATION;
+   RUNOFF
+AB The aim of this paper is to quantify the sensitivity of an operational semi-distributed urban hydrological/hydraulic model to rainfall variability. A 3400ha urban area located in Seine-Saint-Denis (North-East of Paris, France), is used as a case study. First, spatio-temporal multifractal downscaling techniques are implemented on the C-band radar data (whose resolution is 1km in space and 5min in time) of the 9 February 2009 rainfall event to quantify the uncertainty associated with small scale unmeasured rainfall variability. It appears that the variability should not be neglected. This finding highlights the need to implement X-band radars (whose resolution is hectometric) in urban areas. Then, multifractal tools are used on both rainfall and simulated discharges that also exhibit a scaling behaviour. It appears that the rainfall drainage system basically transmits the rainfall variability without damping it, at least in terms of multifractal statistics.
+C1 [Gires, A.; Tchiguirinskaia, I.; Schertzer, D.] Univ Paris Est, Ecole Ponts ParisTech, Marne La Vallee, France.
+   [Lovejoy, S.] McGill Univ, Dept Phys, Montreal, PQ, Canada.
+RP Gires, A (reprint author), Univ Paris Est, Ecole Ponts ParisTech, Marne La Vallee, France.
+EM auguste.gires@leesu.enpc.fr
+RI Lovejoy, Shaun/E-8019-2011
+OI Lovejoy, Shaun/0000-0002-9367-3137; Gires, Auguste/0000-0002-4121-9928
+FU Chair 'Hydrology for Resilient Cities' of Ecole des Ponts Paris Tech;
+   Veolia; EU FP7 SMARTeST project; EU NWE Interreg IV Rain-Rain project
+FX The authors acknowledge Meteo-France for providing the radar rainfall
+   estimates in an easily exploitable format, and especially Jacques Parent
+   du Chatelet, Gilbert Gayraud and Catherine Hamet, and the 'Direction Eau
+   et Assainissement' of Seine-Saint-Denis for providing a calibrated
+   hydrological hydraulic model of the studied area, and the help of the
+   Julien Richard (LEESU) to obtain Figure 3. The authors greatly
+   acknowledge partial financial support form the Chair 'Hydrology for
+   Resilient Cities' (sponsored by Veolia) of Ecole des Ponts Paris Tech,
+   EU FP7 SMARTeST project (www.floodresilience.eu), and EU NWE Interreg IV
+   Rain-Rain project (www.raingain.eu).
+CR Allison, 2005, AMN UT CAN CONC EV R
+   Andrieu H., 1987, HOUILLE BLANCHE, V6, P447
+   Aronica G, 2000, J HYDROL, V238, P35, DOI 10.1016/S0022-1694(00)00311-5
+   Biaou A., 2003, SUD SCI TECHNOLOGIES, V10, P10
+   Deidda R, 2000, WATER RESOUR RES, V36, P1779, DOI 10.1029/2000WR900038
+   Douglas EM, 2003, J HYDROMETEOROL, V4, P1012, DOI 10.1175/1525-7541(2003)004<1012:PMPEUM>2.0.CO;2
+   El Tabach E., 2009, HYDROLOGICAL SCI J
+   Gires A, 2012, J HYDROL, V442, P117, DOI 10.1016/j.jhydrol.2012.04.005
+   Gires A, 2011, HYDROLOG SCI J, V56, P380, DOI 10.1080/02626667.2011.564174
+   Gires A., 2012, ADV WATER RESOUR, V45, P13
+   Gires A., 2011, HOUILLE BLANCHE, V4, P37
+   Hubert P., 1988, GEOPHYS LETT, V2, P909
+   Hubert P., 1995, 77284INT, P109
+   Hubert P., 1993, NEW UNCERTAINTY CONC, V20, P931
+   Instruction Technique, 1977, FRACTALS GEOGRAPHY
+   Labat D, 2002, J HYDROL, V256, P176, DOI 10.1016/S0022-1694(01)00535-2
+   Lavallee D., 1993, SCIENCE, P158
+   LOVEJOY S, 1987, SCIENCE, V235, P1036, DOI 10.1126/science.235.4792.1036
+   Lovejoy S, 2007, NONLINEAR DYNAMICS IN GEOSCIENCES, P311, DOI 10.1007/978-0-387-34918-3_18
+   Maksimovic C, 2009, J HYDRAUL RES, V47, P512, DOI 10.1080/00221686.2009.9522027
+   Marsan D, 1996, J GEOPHYS RES-ATMOS, V101, P26333, DOI 10.1029/96JD01840
+   OLSSON J, 1993, J GEOPHYS RES-ATMOS, V98, P23265, DOI 10.1029/93JD02658
+   Pandey G, 1998, J HYDROL, V208, P62, DOI 10.1016/S0022-1694(98)00148-6
+   Pecknold S., 1993, CELLULAR AUTOMATA PR, P228
+   Pleau M, 2005, ENVIRON MODELL SOFTW, V20, P401, DOI 10.1016/j.envsoft.2004.02.009
+   Roux C, 1996, THESIS ECOLE PONTS P, P290
+   Royer JF, 2008, CR GEOSCI, V340, P431, DOI 10.1016/j.crte.2008.05.002
+   Sarkis B., 2008, THESIS ECOLE PONTS P
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Schertzer D, 1997, J APPL METEOROL, V36, P1296, DOI 10.1175/1520-0450(1997)036<1296:UMDECO>2.0.CO;2
+   Schertzer D., 2006, HOUILLE BLANCHE, V5, P112, DOI DOI 10.1051/LHB:2006095
+   Schutze M, 2004, J HYDROL, V299, P335, DOI 10.1016/j.jhydrol.2004.08.010
+   Segond M-L., 2007, J HYDROL, V173, P309
+   Tabary P, 2007, WEATHER FORECAST, V22, P409, DOI 10.1175/WAF1005.1
+   Tabary P, 2007, WEATHER FORECAST, V22, P393, DOI 10.1175/WAF1004.1
+   Takayasu H., 1990, FRACTALS PHYS SCI
+   Tchiguirinskaia I., 2007, PUB KIK OFF M WALL, P298
+   Tchinguirinskaia I., 2011, IAHS PRESS PUBL, V351, P421
+   Tessier Y, 1996, J GEOPHYS RES-ATMOS, V101, P26427, DOI 10.1029/96JD01799
+NR 39
+TC 13
+Z9 13
+U1 1
+U2 14
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1573-062X
+EI 1744-9006
+J9 URBAN WATER J
+JI Urban Water J.
+PD JUN 1
+PY 2013
+VL 10
+IS 3
+BP 195
+EP 208
+DI 10.1080/1573062X.2012.716447
+PG 14
+WC Water Resources
+SC Water Resources
+GA 159YY
+UT WOS:000320084400004
+DA 2019-03-26
+ER

@@ -1,0 +1,528 @@
+
+PT J
+AU Jenerette, GD
+   Potere, D
+AF Jenerette, G. Darrel
+   Potere, David
+TI Global analysis and simulation of land-use change associated with
+   urbanization
+SO LANDSCAPE ECOLOGY
+LA English
+DT Article
+DE Global; Inversion; Urbanization; Synthesis; Urban growth model
+ID WILDLAND-URBAN INTERFACE; PHOENIX METROPOLITAN REGION;
+   CELLULAR-AUTOMATON MODEL; LANDSCAPE PATTERN; SOUTHERN CALIFORNIA;
+   SPATIOTEMPORAL DYNAMICS; HABITAT FRAGMENTATION; SCALING RELATIONS;
+   SPATIAL-PATTERNS; METRICS
+AB A combination of rapid population growth and an accelerating demographic shift from rural to urbanized habitats has resulted in urbanization becoming an increasingly global phenomenon. Two alternate hypotheses describing urban landscape trajectories suggest urbanization is either leading to more homogeneous global patterns or urbanization has dichotomous trajectories of increasing dispersal or coalescence. To better understand the global variation in urban land-cover patterns and trajectories we described the variation in urban landscape structure for 120 cities distributed throughout the world assessed at circa 1990 and 2000. We coupled these data to a low-dimensional neighborhood based model of urban growth using a data-model fusion approach. Trajectories of urban growth were assessed using both the original data and model projections to 2030. The patterns of landscape change were related to both the rate of growth and income. The historical patterns of change showed a trend of increasing landscape complexity and this trend was projected to continue. Urban rate of growth was closely related to the change in several landscape metrics. Income was associated with landscape dynamics and this effect interacted with city size. Large cities were less sensitive to the income effect than small cities. Along with changes to the magnitude of each metric, the overall variation in metrics between years generally exhibited a decrease in variability and this variability was projected to continue decreasing. These findings supported the hypothesis that urban landscapes are becoming more homogeneous and that the dispersal-coalescing dichotomy represent endpoints rather than alternate states of urban growth.
+C1 [Jenerette, G. Darrel] Univ Calif Riverside, Dept Bot & Plant Sci, Riverside, CA 92521 USA.
+   [Jenerette, G. Darrel] Univ Calif Riverside, Ctr Conservat Biol, Riverside, CA 92521 USA.
+   [Potere, David] Princeton Univ, Off Populat Res, Princeton, NJ 08544 USA.
+RP Jenerette, GD (reprint author), Univ Calif Riverside, Dept Bot & Plant Sci, Riverside, CA 92521 USA.
+EM Darrel.jenerette@ucr.edu
+FU NSF [0814692, 0919006]
+FX We thank the organizers and participants of the Second International
+   Young Scientists' Global Change Conference, System for Analysis,
+   Research, and Training meeting held in Beijing, China where the ideas
+   for this analysis were first generated. We greatly appreciate the work
+   and openness by Shlomo (Solly) Angel who has made the urban land-cover
+   data publically available. GDJ was supported by NSF grants 0814692 and
+   0919006.
+CR ALBRTI M, 1999, ENV PLANN B, V26, P605
+   Alston KP, 2006, BIOL CONSERV, V132, P183, DOI 10.1016/j.biocon.2006.03.023
+   Angel S., 2007, P 2007 AM SOC PHOT R, P12
+   Batty M, 2005, ENVIRON PLANN A, V37, P1373, DOI 10.1068/a3784
+   BATTY M, 1991, ENVIRON PLANN A, V23, P511, DOI 10.1068/a230511
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Berling-Wolff Sheryl, 2004, Urban Ecosystems, V7, P215, DOI 10.1023/B:UECO.0000044037.23965.45
+   Bierwagen BG, 2005, ENVIRON PLANN B, V32, P763, DOI 10.1068/b31134
+   Bousquet P, 1999, J GEOPHYS RES-ATMOS, V104, P26161, DOI 10.1029/1999JD900342
+   Braswell BH, 2005, GLOBAL CHANGE BIOL, V11, P335, DOI 10.1111/j.1365-2486.2005.00897.x
+   Brazel A, 2000, CLIMATE RES, V15, P123, DOI 10.3354/cr015123
+   Cardille J, 2005, BIOSCIENCE, V55, P983, DOI 10.1641/0006-3568(2005)055[0983:MCSPAS]2.0.CO;2
+   Clark JS, 2005, ECOL LETT, V8, P2, DOI 10.1111/j.1461-0248.2004.00702.x
+   Clarke KC, 1997, ENVIRON PLANN B, V24, P247, DOI 10.1068/b240247
+   DALE VH, 2008, ECOL SOC, V13
+   Decker EH, 2000, ANNU REV ENERG ENV, V25, P685, DOI 10.1146/annurev.energy.25.1.685
+   DEZONIA B, 2004, IAN
+   DiBari JN, 2007, LANDSCAPE URBAN PLAN, V79, P308, DOI 10.1016/j.landurbplan.2006.04.004
+   Dietzel C, 2005, INT J GEOGR INF SCI, V19, P175, DOI 10.1080/13658810410001713407
+   Fagan WF, 2001, LANDSCAPE ECOL, V16, P33, DOI 10.1023/A:1008174302213
+   Farrell CR, 2008, URBAN STUD, V45, P467, DOI 10.1177/0042098007087332
+   Fialkowski M, 2008, LANDSCAPE ECOL, V23, P1013, DOI 10.1007/s10980-008-9268-x
+   Fontaine CM, 2009, LANDSCAPE ECOL, V24, P1237, DOI 10.1007/s10980-009-9378-0
+   Foody GM, 2002, REMOTE SENS ENVIRON, V80, P185, DOI 10.1016/S0034-4257(01)00295-4
+   Fortin MJ, 2003, OIKOS, V102, P203, DOI 10.1034/j.1600-0706.2003.12447.x
+   Fox A, 2009, AGR FOREST METEOROL, V149, P1597, DOI 10.1016/j.agrformet.2009.05.002
+   GELFAND AE, 1990, J AM STAT ASSOC, V85, P398, DOI 10.2307/2289776
+   Gleick PH, 2003, ANNU REV ENV RESOUR, V28, P275, DOI 10.1146/annurev.energy.28.040202.122849
+   Grimm NB, 2008, FRONT ECOL ENVIRON, V6, P264, DOI 10.1890/070147
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Grimm NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2
+   Gurjar BR, 2008, ATMOS ENVIRON, V42, P1593, DOI 10.1016/j.atmosenv.2007.10.048
+   Gustafson EJ, 1998, ECOSYSTEMS, V1, P143, DOI 10.1007/s100219900011
+   Hargis CD, 1998, LANDSCAPE ECOL, V13, P167, DOI 10.1023/A:1007965018633
+   Hepinstall JA, 2008, LANDSCAPE ECOL, V23, P1257, DOI 10.1007/s10980-008-9296-6
+   Herold M, 2003, REMOTE SENS ENVIRON, V86, P286, DOI 10.1016/S0034-4257(03)00075-0
+   Hope D, 2003, P NATL ACAD SCI USA, V100, P8788, DOI 10.1073/pnas.1537557100
+   Jenerette GD, 2009, J GEOPHYS RES-BIOGEO, V114, DOI 10.1029/2009JG001074
+   Jenerette GD, 2007, LANDSCAPE ECOL, V22, P353, DOI 10.1007/s10980-006-9032-z
+   Jenerette GD, 2006, GLOBAL CHANGE BIOL, V12, P1532, DOI 10.1111/j.1365-2486.2006.01182.x
+   Jenerette GD, 2006, GLOBAL PLANET CHANGE, V50, P202, DOI 10.1016/j.gloplacha.2006.01.004
+   Jenerette GD, 2001, LANDSCAPE ECOL, V16, P611, DOI 10.1023/A:1013170528551
+   Kareiva P, 2007, SCIENCE, V316, P1866, DOI 10.1126/science.1140170
+   Karl TR, 1988, J CLIMATE, V1, P1099, DOI 10.1175/1520-0442(1988)001<1099:UIDAEI>2.0.CO;2
+   Kaye JP, 2008, ECOL APPL, V18, P132, DOI 10.1890/06-1952.1
+   Kuhn I, 2006, BIOL CONSERV, V127, P292, DOI 10.1016/j.biocon.2005.06.033
+   LANDIS JD, 1995, J AM PLANN ASSOC, V61, P438, DOI 10.1080/01944369508975656
+   Langford WT, 2006, ECOSYSTEMS, V9, P474, DOI 10.1007/s10021-005-0119-1
+   Lepczyk CA, 2007, LANDSCAPE ECOL, V22, P939, DOI 10.1007/s10980-006-9066-2
+   Li HB, 2004, LANDSCAPE ECOL, V19, P389, DOI 10.1023/B:LAND.0000030441.15628.d6
+   Loram A, 2007, LANDSCAPE ECOL, V22, P601, DOI 10.1007/s10980-006-9051-9
+   Luck M, 2002, LANDSCAPE ECOL, V17, P327, DOI 10.1023/A:1020512723753
+   Luck MA, 2001, ECOSYSTEMS, V4, P782, DOI 10.1007/sl0021-001-0046-8
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   McGarigal K, 2002, FRAG STATS SPATIAL P
+   McGranahan G, 2003, ANNU REV ENV RESOUR, V28, P243, DOI 10.1146/annurev.energy.28.050302.105541
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Molina MJ, 2004, J AIR WASTE MANAGE, V54, P644, DOI 10.1080/10473289.2004.10470936
+   Nowak DJ, 1996, LANDSCAPE URBAN PLAN, V36, P49, DOI 10.1016/S0169-2046(96)00324-6
+   ONEILL RV, 1992, LANDSCAPE ECOL, V7, P55, DOI 10.1007/BF02573957
+   Pataki DE, 2006, GLOBAL CHANGE BIOL, V12, P2092, DOI 10.1111/j.1365-2486.2006.01242.x
+   Putnam Robert D., 2000, BOWLING ALONE COLLAP
+   Pysek P, 2004, J VEG SCI, V15, P781, DOI 10.1658/1100-9233(2004)015[0781:TISDAC]2.0.CO;2
+   Radeloff VC, 2005, ECOL APPL, V15, P799, DOI 10.1890/04-1413
+   RIITTERS KH, 1995, LANDSCAPE ECOL, V10, P23, DOI 10.1007/BF00158551
+   Sacks WJ, 2007, OECOLOGIA, V151, P54, DOI 10.1007/s00442-006-0565-2
+   Scanlon TM, 2007, NATURE, V449, P209, DOI 10.1038/nature06060
+   Schneider A, 2008, URBAN STUD, V45, P659, DOI 10.1177/0042098007087340
+   Seto KC, 2005, LANDSCAPE ECOL, V20, P871, DOI 10.1007/s10980-005-5238-8
+   Shen WJ, 2008, ECOSYSTEMS, V11, P138, DOI 10.1007/s10021-007-9085-0
+   Shen WJ, 2004, ECOGRAPHY, V27, P459, DOI 10.1111/j.0906-7590.2004.03799.x
+   Syphard AD, 2005, ECOL COMPLEX, V2, P185, DOI 10.1016/j.ecocom.2004.11.003
+   Syphard AD, 2008, INT J WILDLAND FIRE, V17, P602, DOI 10.1071/WF07087
+   Syphard AD, 2007, LANDSCAPE ECOL, V22, P431, DOI 10.1007/s10980-006-9025-y
+   Theobald DM, 2007, LANDSCAPE URBAN PLAN, V83, P340, DOI 10.1016/j.landurbplan.2007.06.002
+   Underwood EC, 2009, DIVERS DISTRIB, V15, P188, DOI 10.1111/j.1472-4642.2008.00518.x
+   Vandergast AG, 2007, MOL ECOL, V16, P977, DOI 10.1111/j.1365-294X.2006.03216.x
+   Weng YC, 2007, LANDSCAPE URBAN PLAN, V81, P341, DOI 10.1016/j.landurbplan.2007.01.009
+   Wickham JD, 1995, INT J REMOTE SENS, V16, P3585, DOI 10.1080/01431169508954647
+   Wiegand T, 2003, OIKOS, V100, P209, DOI 10.1034/j.1600-0706.2003.12027.x
+   WU J, 2008, LANDSCAPE J, V27, P41, DOI DOI 10.3368/LJ.27.1.41
+   Wu JG, 2004, LANDSCAPE ECOL, V19, P125, DOI 10.1023/B:LAND.0000021711.40074.ae
+   Wu JG, 2002, LANDSCAPE ECOL, V17, P761, DOI 10.1023/A:1022995922992
+   Xu C, 2007, LANDSCAPE ECOL, V22, P925, DOI 10.1007/s10980-007-9079-5
+   Xu T, 2006, GLOBAL BIOGEOCHEM CY, V20, DOI 10.1029/2005GB002468
+   Zhang YJ, 2008, LANDSCAPE URBAN PLAN, V85, P155, DOI 10.1016/j.landurbplan.2007.11.007
+NR 86
+TC 40
+Z9 51
+U1 1
+U2 70
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-2973
+J9 LANDSCAPE ECOL
+JI Landsc. Ecol.
+PD MAY
+PY 2010
+VL 25
+IS 5
+BP 657
+EP 670
+DI 10.1007/s10980-010-9457-2
+PG 14
+WC Ecology; Geography, Physical; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Physical Geography; Geology
+GA 582PK
+UT WOS:000276609800001
+DA 2019-03-26
+ER
+
+PT J
+AU Luce, JJ
+   Steele, R
+   Lapointe, MF
+AF Luce, James J.
+   Steele, Russell
+   Lapointe, Michel F.
+TI A physically based statistical model of sand abrasion effects on
+   periphyton biomass
+SO ECOLOGICAL MODELLING
+LA English
+DT Article
+DE Periphyton biomass; Sand abrasion; Sand saltation; Frequent disturbance
+ID BENTHIC ALGAL COMMUNITIES; PREALPINE RIVER; WATER-STREAM; GRAVEL-BED;
+   SEDIMENT; DISTURBANCE; FLOW; DYNAMICS; VELOCITY; SWITZERLAND
+AB The magnitude and frequency of discharge and fine sediment delivery to rivers can influence riverine food webs through the frequency of scour of algae from the streambed. Models that simulate changes in algal biomass are not very accurate for long periods with frequent low-magnitude flow events. During these periods, sand is mobilized over a stable gravel bed and periphyton losses are patchy at the reach scale. At the patch scale, we examine if an established threshold for rapid sand transport (W(sa)* = 0.002) is also a periphyton perturbation threshold. We also develop and validate a statistical rock scale periphyton saltation abrasion model (PSAM) to simulate the abrasive effects of sand, transported by a hopping motion called saltation, on post-flow event biomass. Data were collected from 15 riffles of a Canadian Atlantic salmon river. The W(sa)* = 0.002 threshold clearly divided bed patches with high biomass and low transport rates, from those patches with low biomass and high transport rates. A dimensionally balanced PSAM regression model including W(sa)* explained 57% of the variance in post-flow event biomass. The validated model indicates that periphyton biomass decreases with increasing sand transport rates (W(sa)*). Biomass was higher if the microscopic algae were protected from abrasion by growing either above the near-bed layer of saltating sand or within a mat containing more resistant macroalgae (e.g. Nostoc). The use of W(sa)* in our models facilitates testing of our findings in other hydro-sedimentary environments because W is a dimensionless scaling parameter that is well established in sediment transport literature. New insight is provided regarding modelling local heterogeneity in post-flow event biomass. These developments are essential to enable more accurate assessments of how periphyton biomass will change with the increase in the recurrence frequency of small flow events (and sand supply) associated with urbanization and climate change. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Luce, James J.; Lapointe, Michel F.] McGill Univ, Dept Geog, Montreal, PQ H3A 2K6, Canada.
+   [Steele, Russell] McGill Univ, Dept Math, Montreal, PQ H3A 2K6, Canada.
+RP Luce, JJ (reprint author), McGill Univ, Dept Geog, 805 Sherbrooke St West, Montreal, PQ H3A 2K6, Canada.
+EM james.luce@mail.mcgill.ca
+RI Steele, Russell/G-6926-2017
+FU NSERC [202301]; CIRSA; Hugh MacLennan Memorial McGill Major Fellowship
+FX We also are grateful to the support staff of the CIRSA-Saguenay research
+   station and the many field assistants including Myriam Broue, Chad
+   Davey, Tim Haltigin, Peter Kavork, Karen Ng, Heidi Remers, Melanie
+   Rousseau, Vero Trudeau, Stephanie Whitehead, and Michelle Willis. Thanks
+   are due to the many that provided intellectual support or laboratory
+   facilities including Peter Ashmore, Antonella Cattaneo, Vero Trudeau,
+   Andre Roy, Nigel Roulet, Neil Price, Joe Rasmussen, Norman Bergeron, and
+   Daniel Boisclair. We also thank Tim Haltigin and Elizabeth Coleman for
+   their editing assistance. Funding for this study was generously provided
+   by NSERC grant 202301 to ML, and CIRSA and a Hugh MacLennan Memorial
+   McGill Major Fellowship to JL.
+CR ABBOTT JE, 1977, PHILOS T R SOC A, V284, P225, DOI 10.1098/rsta.1977.0009
+   AKAIKE H, 1973, ANN I STAT MATH, V30, P9
+   APHA, 1995, STAND METH EX WAT WA
+   ASHMORE PE, 2001, B GEOLOGICAL SURVEY, P58
+   BIGGS B, 2007, STREAM PERIPHYTON MO
+   BIGGS B, 1998, STREAM PERIPHYTON MO
+   Biggs BJF, 1996, REGUL RIVER, V12, P251, DOI 10.1002/(SICI)1099-1646(199603)12:2/3<251::AID-RRR393>3.0.CO;2-X
+   BIGGS BJF, 1995, J PHYCOL, V31, P233, DOI 10.1111/j.0022-3646.1995.00233.x
+   Bouletreau S, 2006, FRESHWATER BIOL, V51, P901, DOI 10.1111/j.1365-2427.2006.01541.x
+   Bouletreau S, 2008, RIVER RES APPL, V24, P36, DOI 10.1002/rra.1046
+   CATTANEO A, 1993, J N AM BENTHOL SOC, V12, P418, DOI 10.2307/1467623
+   Chang H. H., 1988, FLUVIAL PROCESSES RI
+   Cronin G, 2007, FRESHWATER BIOL, V52, P1587, DOI 10.1111/j.1365-2427.2007.01790.x
+   Dade WB, 1998, J GEOL, V106, P661, DOI 10.1086/516052
+   DOYLE M, 2005, WATER RESOUR RES, V41, P1
+   FISHER SG, 1982, ECOL MONOGR, V52, P93, DOI 10.2307/2937346
+   FISHER SG, 1988, VERHANDLUNGEN INT VE, V23, P1183
+   FRANCIS JRD, 1973, PROC R SOC LON SER-A, V332, P443, DOI 10.1098/rspa.1973.0037
+   Francoeur SN, 2006, HYDROBIOLOGIA, V561, P59, DOI 10.1007/s10750-005-1604-4
+   Francoeur SN, 1998, NEW ZEAL J MAR FRESH, V32, P363, DOI 10.1080/00288330.1998.9516831
+   GOUDIE SA, 2006, GEOMORPHOLOGY, V79, P384
+   Grenier M, 2006, CAN J FISH AQUAT SCI, V63, P2087, DOI 10.1139/F06-101
+   GUNTHER A, 1971, CRITICAL MEAN BOTTON
+   Hondzo M, 2002, WATER RESOUR RES, V38, DOI 10.1029/2002WR001409
+   HORNER RR, 1990, FRESHWATER BIOL, V24, P215, DOI 10.1111/j.1365-2427.1990.tb00704.x
+   KAMPHUIS JW, 1990, J HYDRAUL RES, V28, P43, DOI 10.1080/00221689009499146
+   Lake PS, 2000, J N AM BENTHOL SOC, V19, P573, DOI 10.2307/1468118
+   Lamberti G. A., 1996, ALGAL ECOLOGY FRESHW
+   Lapointe M, 2000, CAN J FISH AQUAT SCI, V57, P1120, DOI 10.1139/cjfas-57-6-1120
+   Ledger ME, 2008, OECOLOGIA, V155, P809, DOI 10.1007/s00442-007-0950-5
+   Leopold L., 1964, FLUVIAL PROCESSES GE
+   Luce JJW, 2009, THESIS MCGILL U MONT
+   Matthaei CD, 2003, FRESHWATER BIOL, V48, P1514, DOI 10.1046/j.1365-2427.2003.01103.x
+   McNeil W. J, 1964, SUCCESS PINK SALMON
+   Meybeck M, 2005, CR GEOSCI, V337, P107, DOI 10.1016/j.crte.2004.09.016
+   MEYERS AK, 2007, J N AM BENTHOL SOC, V26, P390
+   Murdock J, 2004, ECOL ENG, V22, P197, DOI 10.1016/j.ecoleng.2004.05.005
+   Osmundson DB, 2002, ECOL APPL, V12, P1719, DOI 10.1890/1051-0761(2002)012[1719:FSBRIF]2.0.CO;2
+   Peterson C. G, 1996, ALGAL ECOLOGY FRESHW
+   Peterson Christopher G., 1996, P375, DOI 10.1016/B978-012668450-6/50042-4
+   Poff NL, 1997, BIOSCIENCE, V47, P769, DOI 10.2307/1313099
+   POWER ME, 1987, AM MIDL NAT, V117, P333, DOI 10.2307/2425975
+   Rasmussen JB, 2007, CAN J FISH AQUAT SCI, V64, P1370, DOI 10.1139/F07-109
+   Robert A, 1996, GEOMORPHOLOGY, V16, P175, DOI 10.1016/0169-555X(95)00143-S
+   SANDJENSEN K, 1988, OIKOS, V53, P332, DOI 10.2307/3565533
+   Schuwirth N, 2008, FRESHWATER BIOL, V53, P1372, DOI 10.1111/j.1365-2427.2008.01970.x
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   Schweizer S., 2007, PREDICTING CONSEQUEN
+   Sklar LS, 2001, GEOLOGY, V29, P1087, DOI 10.1130/0091-7613(2001)029<1087:SARSCO>2.0.CO;2
+   SKLAR LS, 2004, WATER RESOUR RES, V41, P1
+   Stevenson R. J., 1999, RAPID BIOASSESSMENT
+   STOKSETH S, 1994, THESIS U TRONDHEIM N
+   Stone MC, 2005, THESIS WASHINGTON ST
+   TALBOT T, 2001, WATER RESOUR RES, V38, P1
+   TETT P, 1978, LIMNOL OCEANOGR, V23, P785, DOI 10.4319/lo.1978.23.4.0785
+   Thompson CEL, 2004, J HYDRAUL ENG-ASCE, V130, P1123, DOI 10.1061/(ASCE)0733-9429(2004)130:11(1123)
+   Thomson JR, 2005, J N AM BENTHOL SOC, V24, P192, DOI 10.1899/0887-3593(2005)024<0192:EOROAS>2.0.CO;2
+   UEHLINGER U, 1991, ARCH HYDROBIOL, V123, P219
+   Uehlinger U, 1996, FRESHWATER BIOL, V36, P249, DOI 10.1046/j.1365-2427.1996.00082.x
+   UEHLINGER U, 2000, VERH INT VEREIN LIMN, V27, P3162
+   Verbeke G, 2000, LINEAR MIXED MODELS
+   Verhaar PM, 2008, GEOMORPHOLOGY, V101, P674, DOI 10.1016/j.geomorph.2008.03.010
+   VIGNAGA E, 2009, 33 INT ASS HYDR ENG
+   Wilcock PR, 2002, WATER RESOUR RES, V38, DOI 10.1029/2001WR000684
+   Wilcock PR, 1996, WATER RESOUR RES, V32, P2897, DOI 10.1029/96WR01628
+   WILCOCK PR, 2004, CRITICAL TRANSITIONS, P1
+NR 66
+TC 10
+Z9 10
+U1 0
+U2 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3800
+J9 ECOL MODEL
+JI Ecol. Model.
+PD JAN 24
+PY 2010
+VL 221
+IS 2
+BP 353
+EP 361
+DI 10.1016/j.ecolmodel.2009.09.018
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 544CF
+UT WOS:000273628800022
+DA 2019-03-26
+ER
+
+PT J
+AU Mansour, M
+   Mansour, JB
+   El Swesy, AH
+AF Mansour, Morsi
+   Mansour, Joan Bragar
+   El Swesy, Abdo Hasan
+TI Scaling up proven public health interventions through a locally owned
+   and sustained leadership development programme in rural Upper Egypt
+SO HUMAN RESOURCES FOR HEALTH
+LA English
+DT Article
+AB Introduction: In 2002, the Egypt Ministry of Health and Population faced the challenge of improving access to and quality of services in rural Upper Egypt in the face of low morale among health workers and managers. From 1992 to 2000, the Ministry, with donor support, had succeeded in reducing the nationwide maternal mortality rate by 52%. Nevertheless, a gap remained between urban and rural areas.
+   Case description: In 2002, the Ministry, with funding from the United States Agency for International Development and assistance from Management Sciences for Health, introduced a Leadership Development Programme (LDP) in Aswan Governorate. The programme aimed to improve health services in three districts by increasing managers' ability to create high performing teams and lead them to achieve results. The programme introduced leadership and management practices and a methodology for identifying and addressing service delivery challenges. Ten teams of health workers participated.
+   Discussion and evaluation: In 2003, after participation in the LDP, the districts of Aswan, Daraw and Kom Ombo increased the number of new family planning visits by 36%, 68% and 20%, respectively. The number of prenatal and postpartum visits also rose. After the United States funding ended, local doctors and nurses scaled up the programme to 184 health care facilities (training more than 1000 health workers). From 2005 to 2007, the Leadership Development Programme participants in Aswan Governorate focused on reducing the maternal mortality rate as their annual goal. They reduced it from 85.0 per 100,000 live births to 35.5 per 100,000. The reduction in maternal mortality rate was much greater than in similar governorates in Egypt. Managers and teams across Aswan demonstrated their ability to scale up effective public health interventions though their increased commitment and ownership of service challenges.
+   Conclusions: When teams learn and apply empowering leadership and management practices, they can transform the way they work together and develop their own solutions to complex public health challenges. Committed health teams can use local resources to scale up effective public health interventions.
+C1 [Mansour, Morsi; Mansour, Joan Bragar] Management Sci Hlth, Cambridge, MA USA.
+   [El Swesy, Abdo Hasan] Minist Hlth & Populat, Aswan Hlth & Populat Directorate, Aswan, Egypt.
+RP Mansour, JB (reprint author), Management Sci Hlth, Cambridge, MA USA.
+EM jmansour@msh.org
+CR ALSWASY AH, 2006, INT FED GYN OBST C K
+   Conn CP, 1996, HEALTH POLICY PLANN, V11, P64, DOI 10.1093/heapol/11.1.64
+   EGGER D, 2007, 8 WHOHSSHEALTHSYSTEM, P39
+   Gipson R, 2005, MATERN CHILD HLTH J, V9, P71, DOI 10.1007/s10995-005-3348-1
+   KHALIL T, 2005, EVALUATION MAINSTREA
+   Topcuog lu E, 2004, FOLLOW UP EVALUATION
+   Topcuoglu E, 2003, EVALUATION LEADERSHI
+NR 7
+TC 20
+Z9 20
+U1 0
+U2 9
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1478-4491
+J9 HUM RESOUR HEALTH
+JI Hum. Resour. Health
+PD JAN 19
+PY 2010
+VL 8
+AR 1
+DI 10.1186/1478-4491-8-1
+PG 6
+WC Health Policy & Services; Industrial Relations & Labor
+SC Health Care Sciences & Services; Business & Economics
+GA 558WS
+UT WOS:000274780000001
+PM 20205749
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Ricotta, C
+   Godefroid, S
+   Rocchini, D
+AF Ricotta, Carlo
+   Godefroid, Sandrine
+   Rocchini, Duccio
+TI Patterns of native and exotic species richness in the urban flora of
+   Brussels: rejecting the 'rich get richer' model
+SO BIOLOGICAL INVASIONS
+LA English
+DT Article
+DE Alien invasions; Brussels; Quantile regression; Randomization methods;
+   Scaling effects; Species richness
+ID QUANTILE REGRESSION; BIOLOGICAL INVASIONS; PLANT DIVERSITY;
+   INVASIBILITY; ALIEN; BIODIVERSITY; COMMUNITIES; ECOLOGY; SCALE
+AB In this study we analyzed patterns of native and exotic species richness in the urban flora of Brussels (Belgium) using a coarse-scale systematic sampling grid of 1 km(2). The observed correlation between native and exotic richness within the grid cells sampled was then compared to the results of an adequate null model assuming no species interactions. In addition, ordinary least-squares and quantile regressions were used to analyze the relationship between the ratio of exotics to natives and the proportion of densely built up areas in each cell. Though the results obtained conform to the Eltonian expectation that exotic species preferably invade areas of low native species diversity, traditional niche-filling mechanisms seems inadequate to explain the observed pattern. Rather, aliens simply tend to have different environmental requirements than natives.
+C1 [Ricotta, Carlo] Univ Roma La Sapienza, Dept Plant Biol, I-00185 Rome, Italy.
+   [Godefroid, Sandrine] Natl Bot Garden Belgium, B-1860 Domein Van Bouchout, Meise, Belgium.
+   [Rocchini, Duccio] Univ Siena, Dept Environm Sci, I-53100 Siena, Italy.
+RP Ricotta, C (reprint author), Univ Roma La Sapienza, Dept Plant Biol, Piazzale Aldo Moro 5, I-00185 Rome, Italy.
+EM carlo.ricotta@uniroma1.it
+RI Rocchini, Duccio/B-6742-2011
+OI Rocchini, Duccio/0000-0003-0087-0594; RICOTTA,
+   Carlo/0000-0003-0818-3959; Godefroid, Sandrine/0000-0002-1893-9249
+FU Brussels Institute for Environment Management (IBGE-BIM)
+FX Financial support for this work was provided by the Brussels Institute
+   for Environment Management (IBGE-BIM) in the framework of the research
+   project 'Information and survey network on the biodiversity in
+   Brussels'. We thank two anonymous referees and Daniel Simberloff for
+   their helpful comments on previous versions of this paper.
+CR BRICHAU I, 2000, MEDEDELINGEN I NATUU, V15, P31
+   Brown RL, 2003, ECOLOGY, V84, P32, DOI 10.1890/0012-9658(2003)084[0032:DAIOSA]2.0.CO;2
+   Bruno JF, 2003, TRENDS ECOL EVOL, V18, P119, DOI 10.1016/S0169-5347(02)00045-9
+   Cade BS, 2003, FRONT ECOL ENVIRON, V1, P412, DOI 10.1890/1540-9295(2003)001[0412:AGITQR]2.0.CO;2
+   Cade BS, 2005, ECOLOGY, V86, P786, DOI 10.1890/04-0785
+   Callaway RM, 2006, TRENDS ECOL EVOL, V21, P369, DOI 10.1016/j.tree.2006.04.008
+   Celesti-Grapow L, 2006, DIVERS DISTRIB, V12, P490, DOI 10.1111/j.1366-9516.2006.00282.x
+   Chocholouskova Z, 2003, FLORA, V198, P366, DOI 10.1078/0367-2530-00109
+   Deutschewitz K, 2003, GLOBAL ECOL BIOGEOGR, V12, P299, DOI 10.1046/j.1466-822X.2003.00025.x
+   Elton CS, 1958, ECOLOGY INVASIONS
+   Fridley JD, 2007, ECOLOGY, V88, P3, DOI 10.1890/0012-9658(2007)88[3:TIPRPA]2.0.CO;2
+   Fridley JD, 2004, ECOLOGY, V85, P3215, DOI 10.1890/03-0676
+   Gilbert OL, 1989, ECOLOGY URBAN HABITA
+   Godefroid S, 2001, LANDSCAPE URBAN PLAN, V52, P203, DOI 10.1016/S0169-2046(00)00117-1
+   GODEFROID S, 1996, DUMORTIERA, V63, P19
+   Godefroid S, 2007, LANDSCAPE ECOL, V22, P1227, DOI 10.1007/s10980-007-9102-x
+   Gotelli N. J., 1996, NULL MODELS ECOLOGY
+   Hector A, 2001, ECOL RES, V16, P819, DOI 10.1046/j.1440-1703.2001.00443.x
+   *IBGE BIM, 1995, CAH IBGE, V9
+   Kalkhan MA, 2000, ENVIRON MONIT ASSESS, V64, P591, DOI 10.1023/A:1006329707198
+   Kennedy TA, 2002, NATURE, V417, P636, DOI 10.1038/nature00776
+   Koenker R, 2001, J ECON PERSPECT, V15, P143, DOI 10.1257/jep.15.4.143
+   KOENKER R, 1978, ECONOMETRICA, V46, P33, DOI 10.2307/1913643
+   KOENKER R, 2007, QUANTREG QUANTILE RE
+   Kuhn I, 2004, EVOL ECOL RES, V6, P749
+   Levine J. M., 2000, SCIENCE, V288, P761
+   Levine JM, 1999, OIKOS, V87, P15, DOI 10.2307/3546992
+   LODGE DM, 1993, TRENDS ECOL EVOL, V8, P133, DOI 10.1016/0169-5347(93)90025-K
+   McGeoch MA, 2002, BIOL REV, V77, P311, DOI 10.1017/S1464793101005887
+   Pysek P, 1998, J BIOGEOGR, V25, P155, DOI 10.1046/j.1365-2699.1998.251177.x
+   Richardson David M., 2000, Diversity and Distributions, V6, P93, DOI 10.1046/j.1472-4642.2000.00083.x
+   Sax DF, 2002, DIVERS DISTRIB, V8, P193, DOI 10.1046/j.1472-4642.2002.00147.x
+   Shea K, 2002, TRENDS ECOL EVOL, V17, P170, DOI 10.1016/S0169-5347(02)02495-3
+   Stohlgren TJ, 1999, ECOL MONOGR, V69, P25, DOI 10.1890/0012-9615(1999)069[0025:EPSIHS]2.0.CO;2
+   Stohlgren TJ, 2002, ENVIRON MANAGE, V29, P566, DOI 10.1007/s00267-001-0006-2
+   Stohlgren TJ, 2003, FRONT ECOL ENVIRON, V1, P11
+   Sukopp H, 1983, MANS IMPACT VEGETATI, P247, DOI DOI 10.1007/978-94-009-7269-8_19
+   Tilman D, 1997, ECOLOGY, V78, P81, DOI 10.1890/0012-9658(1997)078[0081:CIRLAG]2.0.CO;2
+NR 38
+TC 31
+Z9 36
+U1 2
+U2 37
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1387-3547
+J9 BIOL INVASIONS
+JI Biol. Invasions
+PD JAN
+PY 2010
+VL 12
+IS 1
+BP 233
+EP 240
+DI 10.1007/s10530-009-9445-0
+PG 8
+WC Biodiversity Conservation; Ecology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA 533TJ
+UT WOS:000272847900022
+DA 2019-03-26
+ER
+
+PT J
+AU Jombo, GTA
+   Mbaawuaga, EM
+   Gyuse, AN
+   Enenebeaku, MN
+   Okwori, EE
+   Peters, EJ
+   Akpan, S
+   Odey, F
+   Etukumana, EA
+   Akosu, JT
+AF Jombo, G. T. A.
+   Mbaawuaga, E. M.
+   Gyuse, A. N.
+   Enenebeaku, M. N.
+   Okwori, E. E.
+   Peters, E. J.
+   Akpan, S.
+   Odey, F.
+   Etukumana, E. A.
+   Akosu, J. T.
+TI Socio-cultural factors influencing insecticide treated bed net
+   utilization in a malaria endemic city in north-central Nigeria
+SO ASIAN PACIFIC JOURNAL OF TROPICAL MEDICINE
+LA English
+DT Article
+DE Insecticide treated bed nets; Utilization; Households; Malaria endemic
+   city
+ID SUB-SAHARAN AFRICA; URBAN MALARIA; HEALTH-CARE; SCALING-UP;
+   EPIDEMIOLOGY; DETERMINANTS; KNOWLEDGE; COVERAGE; CHILDREN; TANZANIA
+AB Objective: To ascertain the socio-cultural factors influencing the rate of utilization of insecticide treated bed nets (ITNs) in a malaria endemic city of Makurdi, north central Nigeria. Methods: The study was cross sectional in nature using systematic sampling method to identify households. Both quantitative and qualitative data was generated from adult women using structured and semi structured questionnaires, and focused group discussions (FGDs) to obtain information on rate and patterns of utilization of ITNs. Information such as age, educational level, marital status, awareness or otherwise of the existence of malaria, and factors influencing rate of ownership and utilization of ITNs were obtained. FGDs were used to obtain qualitative information on rate of utilization of ITNs not captured in the questionnaires. Data obtained was analysed using Epi Info.6 statistical software. Results: Among the respondents interviewed, 97.0% (2 013/2 075) were aware of existence of malaria and 87.0% of these (1 751/2 013) would associate it with mosquitoes. The rate of ownership of any bed net, ITNs and untreated bed nets (UTNs) was 25.1%, 17.0% and 8.3%, respectively. Utilization of ITNs among children was 30.0% (112/373) and UTNs 12.9% (48/373). Positive contributors to ITNs utilization were literacy, enhanced economy, experience of marriage, and being gainfully employed (P<0.05); while negative contributors were ignorance, poverty and some cultural beliefs and values. Conclusions: A more synchronized advocacy should be carried out on the potential benefits of ITNs utilization and sustained. Also ITNs should be made available to the people of the community at minimal or no cost.
+C1 [Jombo, G. T. A.; Okwori, E. E.] Benue State Univ, Dept Med Microbiol & Parasitol, Coll Hlth Sci, Makurdi 102119, Nigeria.
+   [Mbaawuaga, E. M.] Benue State Univ, Fac Sci, Dept Biol Sci, Makurdi 102119, Nigeria.
+   [Gyuse, A. N.] Univ Calabar, Coll Med Sci, Dept Family Med, Calabar 1115, Nigeria.
+   [Enenebeaku, M. N.] Univ Jos, Coll Med Sci, Dept Med Microbiol, Jos, Nigeria.
+   [Peters, E. J.] Univ Calabar, Coll Med Sci, Dept Internal Med, Calabar 1115, Nigeria.
+   [Akpan, S.] Univ Calabar, Coll Med Sci, Dept Med Microbiol & Parasitol, Calabar 1115, Nigeria.
+   [Odey, F.] Univ Calabar, Coll Med Sci, Dept Paediat, Calabar 1115, Nigeria.
+   [Etukumana, E. A.] Univ Uyo, Teaching Hosp, Dept Family Med, Uyo, Nigeria.
+   [Akosu, J. T.] Univ Jos, Coll Med Sci, Dept Community Med, Jos, Nigeria.
+RP Jombo, GTA (reprint author), Benue State Univ, Dept Med Microbiol & Parasitol, Coll Hlth Sci, Makurdi 102119, Nigeria.
+EM joinbogodwin@yahoo.com
+CR Abu-Raddad LJ, 2006, SCIENCE, V314, P1603, DOI 10.1126/science.1132338
+   AJAYI IO, 2008, MALARIA J, V7, pE24
+   BEIERSMANN C, 2007, MALARIA J, V6, pE106
+   Breman JG, 2004, AM J TROP MED HYG, V71, P1
+   CUETO M, 2008, PHILOS ETHICS HUMANI, V3, pE15
+   DELACRUZ N, 2006, MALARIA J, V5, pE61
+   ESSE C, 2008, MALARIA J, V30, P224
+   GAYANDRIIEU F, 2005, NIGER MALAR J, V4, pE10
+   HLONGWANA KW, 2009, MALARIA J, V8, pE29
+   Idowu O A, 2008, Travel Med Infect Dis, V6, P210, DOI 10.1016/j.tmaid.2007.10.007
+   IMAMURA H, 2007, BMC GENOMICS, V8, pE372
+   JOMBO GTA, MALARIA CELEBR UNPUB
+   Lines J, 2003, LANCET INFECT DIS, V3, P465, DOI 10.1016/S1473-3099(03)00717-5
+   Lioubimtseva E, 2005, J ARID ENVIRON, V62, P285, DOI 10.1016/j.jaridenv.2004.11.005
+   Macintyre K, 2006, TROP MED INT HEALTH, V11, P824, DOI 10.1111/j.1365-3156.2006.01637.x
+   MALAMBA S, 2007, MALARIA J, V6, pE143
+   MATTHYS B, 2008, MALARIA J, V7, pE217
+   Mboera LEG, 2008, AFR HEALTH SCI, V8, P114
+   Monasch R, 2004, AM J TROP MED HYG, V71, P232, DOI 10.4269/ajtmh.2004.71.232
+   MUULA AS, 2007, MALARIA J, V6, pE168
+   Noor AM, 2007, PLOS MED, V4, P1341, DOI 10.1371/journal.pmed.0040255
+   NSABAGASANI X, 2007, MALARIA J, V6, pE11
+   Nsungwa-Sabiiti J, 2005, ANN TROP PAEDIATR, V25, P91, DOI 10.1179/146532805X45683
+   Oguonu T, 2005, PUBLIC HEALTH, V119, P409, DOI 10.1016/j.puhe.2004.05.008
+   Omole M K, 2007, Afr J Med Med Sci, V36, P49
+   ORESANYA OB, 2008, MALARIA J, V7, pE145
+   Orwa J A, 2007, East Afr Med J, V84, P51
+   Pilkington H, 2004, J EPIDEMIOL COMMUN H, V58, P826, DOI 10.1136/jech.2003.016089
+   RUGEMALILA JB, 2006, MALARIA J, V5, pE102
+   Sharp BL, 2007, AM J TROP MED HYG, V76, P42, DOI 10.4269/ajtmh.2007.76.42
+   Simsek Z, 2005, PUBLIC HEALTH, V119, P202, DOI 10.1016/j.puhe.2004.03.011
+   Teklehaimanot A, 2007, AM J TROP MED HYG, V77, P138, DOI 10.4269/ajtmh.2007.77.138
+   TOE LP, 2009, MALARIA J, V8, pE175
+   Tolhurst R, 2008, SOC SCI MED, V66, P1106, DOI 10.1016/j.socscimed.2007.11.032
+   Ukaga C N, 2006, Tanzan Health Res Bull, V8, P183
+   *UN, AFR 2001 2010 DEC RO
+   VANGEERTRUYDEN JP, 2008, MALARIA J, V7, pE134
+   Vyas S, 2006, HEALTH POLICY PLANN, V21, P459, DOI 10.1093/heapol/czl029
+   Wang SJ, 2006, MALARIA J, V5, DOI 10.1186/1475-2875-5-28
+   Wang SJ, 2005, MALARIA J, V4, DOI 10.1186/1475-2875-4-43
+   WANG SJ, 2006, MALARIA J, V5, pE29
+   Wang XM, 2006, STRUCT HEALTH MONIT, V5, P45, DOI 10.1177/1475921706057981
+   Williams HA, 2004, SOC SCI MED, V59, P501, DOI 10.1016/j.socscimed.2003.11.010
+   Wiseman V, 2007, AM J TROP MED HYG, V76, P830, DOI 10.4269/ajtmh.2007.76.830
+NR 44
+TC 5
+Z9 5
+U1 0
+U2 14
+PU ASIAN PACIFIC J TROPICAL MED
+PI HAIKOU
+PA HAINAN MED UNIV, RM 318, ADMIN BLDG, XUEYUAN RD, HAIKOU, 571101, PEOPLES
+   R CHINA
+SN 1995-7645
+J9 ASIAN PAC J TROP MED
+JI Asian Pac. J. Trop. Med.
+PD MAY
+PY 2010
+VL 3
+IS 5
+BP 402
+EP 406
+DI 10.1016/S1995-7645(10)60098-3
+PG 5
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 664WN
+UT WOS:000282994600017
+OA Other Gold
+DA 2019-03-26
+ER

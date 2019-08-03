@@ -1,0 +1,401 @@
+
+PT J
+AU Bolliger, J
+   Lischke, H
+   Green, DG
+AF Bolliger, J
+   Lischke, H
+   Green, DG
+TI Simulating the spatial and temporal dynamics of landscapes using generic
+   and complex models
+SO ECOLOGICAL COMPLEXITY
+LA English
+DT Editorial Material
+DE spatio-temporal models; spatially explicit; dynamic models; landscape
+   complexity; spatio-temporal patterns; process models; generic model;
+   landscape model; cellular automaton; neural nets; landscape
+   connectivity; ecosystem models
+ID SELF-ORGANIZED CRITICALITY; FRACTAL GEOMETRY; INDUCTIVE INFERENCE;
+   METABOLIC-RATE; FORMAL THEORY; ECOLOGY; PATTERNS; SCALE; PLANKTON;
+   SYSTEMS
+AB Landscape patterns originate from exogenous (e.g., climate) and endogenous (e.g., competition) processes and feedbacks that interact spatially and temporally. The resulting dynamics can be analyzed and quantified using spatio-temporal models. Various approaches are currently in use, ranging from generic to process-oriented models. However, strict classifications are difficult as models can be characterized by many different criteria. One important distinction is structural complexity. This may manifest itself in: (1) conceptual complication of the modelling approach, (2) the translation of the system complexity into model formalism, and (3) the level of detail of the simulated output.
+   Thus, process models that mirror systems by quantifying individual biotic and/or abiotic processes may be referred to as complex models since their simulated output usually identifies explicit system details that require many input parameters mirroring the system bottom-up. Generic models, on the other hand, tend to be structurally parsimonious, usually not accounting for specific system details. They are often applied to study topics of complex systems theory such as emergence, self-organization, scaling, and chaos theory, and involving techniques used in non-linear dynamical systems theory.
+   This special issue identifies concepts and methods used by models to represent spatially dynamic landscape patterns. It assesses relationships between landscape and model complexity, and discusses approaches to quantify the spatio-temporal pattern dynamics resulting from model simulations. The models presented here address a variety of different research topics, including climate change, urban development, ecological engineering, landscape classification concepts, spatial population dynamics, habitat fragmentation, and conservation. The models account for different biotic levels (individual, population, vegetation patterns), and are driven by both exogenous and endogenous processes.
+   Identification and quantification of the landscape patterns produced by the simulated output relies on various indicators. Discrete-static indicators include landscape metrics. Static pattern descriptions involve fractal dimensions, whereas dynamic indicators include power spectra, entropy, or indicators of patch aggregation.
+   Thematically, this special issue contributes to a variety of key topics in landscape ecology, including consideration of anthropogenic impacts on landscapes, or holistic approaches such as self-organization, or the governing role of connectivity in shaping ecological systems. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Swiss Fed Inst WSL, CH-8903 Birmensdorf, Switzerland.
+   Monash Univ, Fac Informat Technol, Clayton, Vic 3800, Australia.
+RP Bolliger, J (reprint author), Swiss Fed Inst WSL, Zurcherstr 111, CH-8903 Birmensdorf, Switzerland.
+EM janine.bolliger@wsl.ch
+RI Bolliger, Janine/L-3387-2013; Lischke, Heike/J-5719-2013
+OI Bolliger, Janine/0000-0001-8145-559X; Green, David/0000-0002-9488-6601
+CR ALLEN PA, 2001, ECOL LETT, V4, P1
+   BAK P, 1987, PHYS REV LETT, V59, P381, DOI 10.1103/PhysRevLett.59.381
+   Bak P., 1996, NATURE WORKS
+   BAKER W L, 1989, Landscape Ecology, V2, P111, DOI 10.1007/BF00137155
+   Bolliger J, 2000, ECOL MODEL, V134, P89, DOI 10.1016/S0304-3800(00)00338-0
+   Bolliger J, 2005, ECOL COMPLEX, V2, P131, DOI 10.1016/j.ecocom.2004.11.008
+   Bolliger J, 2003, OIKOS, V100, P541, DOI 10.1034/j.1600-0706.2003.12109.x
+   Brooks RJ, 1996, MATH COMPUT MODEL, V24, P1, DOI 10.1016/0895-7177(96)00103-3
+   Brown JH, 2002, PHILOS T R SOC B, V357, P619, DOI 10.1098/rstb.2001.0993
+   Buchecker M, 2003, LANDSCAPE URBAN PLAN, V64, P29, DOI 10.1016/S0169-2046(02)00199-8
+   Burgi M, 2002, ECOSYSTEMS, V5, P184, DOI 10.1007/s10021-001-0064-6
+   Burgi M, 2000, J BIOGEOGR, V27, P1123, DOI 10.1046/j.1365-2699.2000.00484.x
+   CHAITIN GJ, 1966, J ACM, V13, P547, DOI 10.1145/321356.321363
+   Dieckmann U., 2000, GEOMETRY ECOLOGICAL
+   Forman R. T. T., 1995, LAND MOSAIC ECOLOGY
+   FORMAN RTT, 1981, BIOSCIENCE, V31, P733, DOI 10.2307/1308780
+   Gardner RH, 1987, LANDSCAPE ECOL, V1, P19, DOI 10.1007/BF02275262
+   Gisiger T, 2001, BIOL REV, V76, P161, DOI 10.1017/S1464793101005607
+   Green DG, 2005, ECOL COMPLEX, V2, P117, DOI 10.1016/j.ecocom.2004.11.006
+   Guichard F, 2003, AM NAT, V161, P889, DOI 10.1086/375300
+   Gustafson EJ, 1998, ECOSYSTEMS, V1, P143, DOI 10.1007/s100219900011
+   KADANOFF L, 2000, STAT PHYS STAT DYNAM
+   Keane RE, 2004, ECOL MODEL, V179, P3, DOI 10.1016/j.ecolmodel.2004.03.015
+   Kindlmann P, 2005, ECOL COMPLEX, V2, P150, DOI 10.1016/j.ecocom.2004.11.007
+   KOLMOGOROV A, 1965, PROBL PEREDACHI INF, V1, P4
+   Kozlowski J, 2004, FUNCT ECOL, V18, P283, DOI 10.1111/j.0269-8463.2004.00830.x
+   Levin SA, 1998, ECOSYSTEMS, V1, P431, DOI 10.1007/s100219900037
+   Li BL, 2000, ECOL MODEL, V132, P167, DOI 10.1016/S0304-3800(00)00313-6
+   Li BL, 2000, LANDSCAPE URBAN PLAN, V50, P27, DOI 10.1016/S0169-2046(00)00078-5
+   Li BL, 2004, ECOLOGY, V85, P1811, DOI 10.1890/03-0693
+   Li BL, 2000, ECOL MODEL, V132, P33, DOI 10.1016/S0304-3800(00)00303-3
+   LI BL, 2002, ENCY ENVIRONMENTRICS, P447
+   Li M., 1997, INTRO KOLMOGOROV COM
+   Lischke H, 2005, ECOL COMPLEX, V2, P159, DOI 10.1016/j.ecocom.2004.11.009
+   LISCHKE H, 2001, NAT RESOUR MODEL, V14, P71
+   LOEHLE C, 2004, ECOL COMPLEX, V1, P3, DOI DOI 10.1016/J.ECOCOM.2003.09.001
+   Lovegrove BG, 2000, AM NAT, V156, P201, DOI 10.1086/303383
+   Makarieva AM, 2003, J THEOR BIOL, V221, P301, DOI 10.1006/jtbi.2003.3185
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   Medvinsky AB, 2004, CR BIOL, V327, P277, DOI 10.1016/j.crvi.2003.11.013
+   Medvinsky AB, 2002, SIAM REV, V44, P311, DOI 10.1137/S0036144502404442
+   MILNE BT, 1988, APPL MATH COMPUT, V27, P67, DOI 10.1016/0096-3003(88)90099-9
+   MILNE BT, 1992, THEOR POPUL BIOL, V41, P337, DOI 10.1016/0040-5809(92)90033-P
+   MILNE BT, 1991, QUANTITATIVE METHODS, P199
+   MORZOW A, 2004, P ROY SOC LOND B BIO, V271, P1407
+   Parrott L, 2005, ECOL COMPLEX, V2, P175, DOI 10.1016/j.ecocom.2004.11.004
+   Petrovskii S, 2004, ECOL COMPLEX, V1, P37, DOI 10.1016/j.ecocom.2003.10.001
+   SOLOMONOFF RJ, 1964, INFORM CONTROL, V7, P224, DOI 10.1016/S0019-9958(64)90131-7
+   SOLOMONOFF RJ, 1964, INFORM CONTROL, V7, P1, DOI 10.1016/S0019-9958(64)90223-2
+   Sprott JC, 2002, PHYS LETT A, V297, P267, DOI 10.1016/S0375-9601(02)00052-X
+   Syphard AD, 2005, ECOL COMPLEX, V2, P185, DOI 10.1016/j.ecocom.2004.11.003
+   Thompson CM, 2002, LANDSCAPE ECOL, V17, P569, DOI 10.1023/A:1021501231182
+   Turner M.G., 2001, LANDSCAPE ECOLOGY TH
+   TURNER MG, 1989, ANNU REV ECOL SYST, V20, P171, DOI 10.1146/annurev.es.20.110189.001131
+   TURNER MG, 1990, LANDSCAPE ECOL, V4, P21, DOI 10.1007/BF02573948
+   West GB, 1999, NATURE, V400, P664, DOI 10.1038/23251
+   WEST GB, 1999, SCIENCE, V284, P1607
+   With KA, 2002, ECOL APPL, V12, P52, DOI 10.1890/1051-0761(2002)012[0052:TEOLSO]2.0.CO;2
+   With KA, 1997, OIKOS, V79, P219, DOI 10.2307/3546007
+   Wu JG, 2002, LANDSCAPE ECOL, V17, P761, DOI 10.1023/A:1022995922992
+   Wu JG, 2002, LANDSCAPE ECOL, V17, P355, DOI 10.1023/A:1020561630963
+NR 61
+TC 27
+Z9 35
+U1 1
+U2 26
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1476-945X
+J9 ECOL COMPLEX
+JI Ecol. Complex.
+PD JUN
+PY 2005
+VL 2
+IS 2
+BP 107
+EP 116
+DI 10.1016/j.ecocom.2004.11.005
+PG 10
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 949MG
+UT WOS:000230792200001
+DA 2019-03-26
+ER
+
+PT J
+AU White, MJ
+   Kim, AH
+   Glick, JE
+AF White, MJ
+   Kim, AH
+   Glick, JE
+TI Mapping social distance - Ethnic residential segregation in a
+   multiethnic metro
+SO SOCIOLOGICAL METHODS & RESEARCH
+LA English
+DT Article
+DE segregation; space; ecology; ethnicity; multidimensional scaling
+ID SPATIAL SEGREGATION; URBAN AREAS; US; INTEGRATION; DIMENSIONS;
+   PROXIMITY; PATTERNS; CANADA; INDEX; RACE
+AB The increasing diversity of immigrant-receiving countries calls for measures of residential segregation that extend beyond the conventional two-group approach. The authors represent simultaneously the relative social distance occupied by a wide array of ethnic groups. They use census tract tabulations for the Toronto Consolidated Metropolitan Area in 1996 and the technique of multidimensional scaling to summarize the residential neighborhood pattern of the city's largest 50 ethnic groups. From the two-dimensional multidimensional scaling configuration, the authors find that African/Caribbean groups and blacks were highly clustered and shared common patterns of segregation with other groups. This study highlights the value of looking beyond broad racial or panethnic classifications in understanding ethnic congregation and residential segregation patterns. The results also demonstrate the merits of this method in providing a more conceptually meaningful way to understand social distance among groups.
+C1 Brown Univ, Fac Associate, Populat Studies & Training Ctr, Providence, RI 02912 USA.
+   Arizona State Univ, Tempe, AZ 85287 USA.
+RP White, MJ (reprint author), Brown Univ, Fac Associate, Populat Studies & Training Ctr, Providence, RI 02912 USA.
+CR ALBA RD, 1993, AM J SOCIOL, V98, P1388, DOI 10.1086/230193
+   Alba RD, 2000, SOC PROBL, V47, P543, DOI 10.1525/sp.2000.47.4.03x0307u
+   Balakrishnan TR, 1999, POPUL RES POLICY REV, V18, P201, DOI 10.1023/A:1006118502121
+   BALAKRISHNAN TR, 2001, CANADIAN ETHNIC STUD, V33, P120
+   BRETON R, 1964, AM J SOCIOL, V70, P193, DOI 10.1086/223793
+   Cox T., 1994, MULTIDIMENSIONAL SCA
+   DARDEN JT, 1995, J BLACK STUD, V25, P680, DOI 10.1177/002193479502500603
+   Darden JT, 2000, J DEV SOC, V16, P245
+   DARROCH AG, 1971, AM J SOCIOL, V77, P491, DOI 10.1086/225160
+   Driedger L, 2001, CAN J SOCIOL, V26, P421, DOI 10.2307/3341895
+   Fischer MJ, 2003, URBAN AFF REV, V38, P669, DOI 10.1177/1078087403251386
+   FONG E, 1994, URBAN AFF REV, V30, P285, DOI 10.1177/004208169403000206
+   Freeman L, 2000, J URBAN AFF, V22, P15, DOI 10.1111/0735-2166.00037
+   Frey WH, 1996, DEMOGRAPHY, V33, P35, DOI 10.2307/2061712
+   GARRISON HH, 1979, SOCIOL SOC RES, V64, P70
+   Gordon Milton M., 1964, ASSIMILATION AM LIFE
+   Grannis R, 2002, SOCIOL METHODOL, V32, P69, DOI 10.1111/1467-9531.00111
+   GUEST AM, 1976, AM J SOCIOL, V81, P1088, DOI 10.1086/226186
+   Iceland J, 2004, SOC SCI RES, V33, P248, DOI 10.1016/S0049-089X(03)00056-5
+   Iceland J, 2002, RACIAL ETHNIC RESIDE
+   Johnston R, 2001, HOUSING STUD, V16, P569, DOI 10.1080/02673030120080062
+   Kalbach Warren, 1990, ETHNIC IDENTITY EQUA, P92
+   Kantrowitz Nathan, 1973, ETHNIC RACIAL SEGREG
+   Kruskal J, 1978, MULTIDIMENSIONAL SCA
+   Kymlicka Will, 1998, FINDING OUR WAY RETH
+   Laumann E. O., 1973, BONDS PLURALISM FORM
+   LEE BA, 1991, DEMOGRAPHY, V28, P21, DOI 10.2307/2061334
+   Lieberson S, 1963, ETHNIC PATTERNS AM C
+   Lieberson Stanley, 1980, PIECE PIE BLACKS WHI
+   Maly MT, 2000, J URBAN AFF, V22, P37, DOI 10.1111/0735-2166.00038
+   Mardia K., 1979, MULTIVARIATE ANAL
+   Massey D., 1993, AM APARTHEID SEGREGA
+   Massey DS, 1996, SOCIOL METHOD RES, V25, P172, DOI 10.1177/0049124196025002002
+   MASSEY DS, 1988, SOC FORCES, V67, P281, DOI 10.2307/2579183
+   MCFARLAND DD, 1973, BONDS PLURALISM FORM, P213
+   MORGAN BS, 1975, URBAN STUD, V12, P47, DOI 10.1080/00420987520080041
+   *MUMF CTR COMP URB, 2004, SEGREGATION
+   PEACH C., 1975, URBAN SOCIAL SEGREGA
+   PRANDY K, 1980, ETHNICITY, V7, P367
+   Reardon SF, 2002, SOCIOL METHODOL, V32, P33, DOI 10.1111/1467-9531.00110
+   SAKODA JM, 1981, DEMOGRAPHY, V18, P245, DOI 10.2307/2061096
+   SIMKUS AA, 1978, AM SOCIOL REV, V43, P81, DOI 10.2307/2094763
+   TAEUBER KE, 1965, NEGROES CITIES
+   THEIL H, 1971, J MATH SOCIOL, V1, P187, DOI 10.1080/0022250X.1971.9989795
+   TIMM NH, 2002, APPL MULTIVARIATE AN
+   White M. J., 1999, IMMIGRATION OPPORTUN, P345
+   White Michael J., 1994, ELLIS ISLAND NEWCOME, P175
+   WHITE MJ, 1983, AM J SOCIOL, V88, P1008, DOI 10.1086/227768
+   White MJ, 2003, SOC SCI RES, V32, P148, DOI 10.1016/S0049-089X(02)00023-6
+   WHITE MJ, 1986, POPUL INDEX, V52, P198, DOI 10.2307/3644339
+   WHITE MJ, 1997, KEYS SUCCESSFUL IMMI, P375
+   Wong DWS, 2002, URBAN GEOGR, V23, P85, DOI 10.2747/0272-3638.23.1.85
+   Wong DWS, 1998, URBAN GEOGR, V19, P77, DOI 10.2747/0272-3638.19.1.77
+   YANCEY WL, 1985, ETHNIC RACIAL STUD, V8, P94, DOI 10.1080/01419870.1985.9993476
+NR 54
+TC 24
+Z9 24
+U1 0
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0049-1241
+J9 SOCIOL METHOD RES
+JI Sociol. Methods. Res.
+PD NOV
+PY 2005
+VL 34
+IS 2
+BP 173
+EP 203
+DI 10.1177/0049124124105280198
+PG 31
+WC Social Sciences, Mathematical Methods; Sociology
+SC Mathematical Methods In Social Sciences; Sociology
+GA 984AQ
+UT WOS:000233275300002
+DA 2019-03-26
+ER
+
+PT S
+AU Lopez, SG
+   Pisano, FD
+   Munoz, JS
+AF Lopez, SG
+   Pisano, FD
+   Munoz, JS
+BE Cubillo, F
+TI Membrane autopsies: helps to provide solutions to operational problems
+   in reverse osmosis plants
+SO Efficient Use and Management of Urban Water Supply (Efficient 2005)
+SE WATER SCIENCE AND TECHNOLOGY: WATER SUPPLY
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Efficient Use and Management of Urban
+   Water Supply
+CY MAR 14-18, 2005
+CL Santiago, CHILE
+DE autopsy; fouling; membrane; reverse osmosis; scaling
+AB The problems of the need for water in the quantity and quality for the diverse uses that we require of it is one of the principal problems that we must address. More and more plants are installed for the production of water for potable, irrigation or industrial uses that employ membrane technologies, especially reverse osmosis. Moreover, with increasing frequency these techniques are also being employed in the recycling of waters from urban and industrial effluents.
+   Paralleling the development of these techniques and their new applications is the need for advances in understanding of the processes that affect their functioning and yield. Any reverse osmosis installation will in the medium or long term encounter problems of membrane fouling that necessitate cleansing. The cleansing protocol depends on the type of deposit (biofilm, organic matter, inorganic deposits or natural colloids) present in the membranes, which makes its characterisation indispensable.
+   A "membrane autopsy" combines different procedures of analysis and tests capable of revealing information relating to the nature of the deposits and other aspects that can be associated with deficiencies in the functioning of the installations. In this way we have a toolkit able to compile the data necessary for the planning of new guidelines for the management of installations that will minimise or delay the appearance of the problems detected.
+C1 Genesys Membrane Prod SL, Madrid, Spain.
+RP Lopez, SG (reprint author), Genesys Membrane Prod SL, Madrid, Spain.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 1
+PU I W A PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H 0QS, ENGLAND
+SN 1606-9749
+BN 1-84339-561-4
+J9 WA SCI TECHNOL
+PY 2005
+VL 5
+IS 3-4
+BP 129
+EP 135
+PG 7
+WC Engineering, Civil; Water Resources
+SC Engineering; Water Resources
+GA BDQ88
+UT WOS:000234971800017
+DA 2019-03-26
+ER
+
+PT S
+AU Evagelopoulos, V
+   Zoras, S
+   Triantafyllou, AG
+   Albanis, TA
+AF Evagelopoulos, V.
+   Zoras, S.
+   Triantafyllou, A. G.
+   Albanis, T. A.
+BE Lekkas, TD
+TI PM10-PM2.5 time series and fractal analysis
+SO Proceeding of the 9th International Conference on Environmental Science
+   and Technology Vol B - Poster Presentations
+SE Proceedings of the International Conference on Environmental Science and
+   Technology
+LA English
+DT Proceedings Paper
+CT 9th International Conference on Environmental Science and Technology
+CY SEP 01-03, 2005
+CL Rhodes Isl, GREECE
+SP Global Network Environm Sci & Technol, Univ Aegean, Dept Environm Studies
+DE urban air pollution; power plants; timeseries analysis; PM10; PM2.5;
+   PM2.5/PM10 ratio; fractal dimension
+ID POLLUTION; PM10
+AB Several epidemiological studies have shown an association between particulate air pollution and health effects. Suspended particulates and more specifically the inhalable PM10 fraction appear to cause respiratory health effects and heart diseases. Furthermore, particulate pollution is of paramount importance in areas with open-pit mines and especially when it is combined with raw lignite transfer and combustion in power stations through the suspension of particles and stack emissions, respectively. The penetration of particles into respiratory track is a function of the size of the particles and thus, it is more likely for the finer PM2.5 fraction to reach the deepest of the lugs.
+   The fast economic growth the last decades has resulted in an increase of the sources of pollution not only in large metropolitan areas but also in medium-sized urban areas like the city of Kozani, Greece. It is the most densely populated city in the area of West Macedonia affected by urban particulate matter originated from local and stationary sources, from regional and long-range transport, and from street dust resuspension. Kozani is located a few kilometers away from lignite power stations that contribute to about 70% of the total electrical energy produced in Greece. Dust emissions seem to be the most serious problem in the area, as the measured ambient concentrations of suspended particles are at high levels and exceed local and international standards.
+   In this study PM10 and PM2.5 concentrations are presented. The measurements have been carried out, from April to December 2002, by the Lab of Atmospheric Pollution and Environmental Physics (LAPEP) of Technological Education Institute of West Macedonia in the commercial centre of the city of Kozani.
+   The temporal variation of PM10 and PM2.5 concentrations was studied and allowed a further insight on the factors affecting the measured ambient particulate levels. PM2.5 - PM10 correlation and PM2.5/PM10 ratios were investigated and compared to those in the literature together with the factors affecting their diurnal variation.
+   The pollution levels were also detected in process of the experimental time series data by fractal dimension. Generally, fractal analysis is able to detect the data set complexity by scaling empirical data using threshold values. These values define the levels of air pollution episodes. The method presented in this study, is the transformation of PM10 and PM2.5 concentrations into a set of points whose dimension was estimated by box counting. This technique has estimated the fractal dimension of both the time series by the relationship between data variance and time scale.
+C1 TEI W Macedonia, Dept Geotechnol & Environm Engn, Lab Air Pollut & Environm Phys, Kozani 50100, Greece.
+RP Evagelopoulos, V (reprint author), TEI W Macedonia, Dept Geotechnol & Environm Engn, Lab Air Pollut & Environm Phys, Kozani 50100, Greece.
+CR [Anonymous], 1995, 7708 ISO
+   Dockery D. W., 1993, NEW ENGL J MED, V329, P1735
+   *EPA, 2001, CRIT DOC PART MATT
+   *EU COMM, 1999, OFFICIAL J EUROPEA L, V163, P41
+   Ghose MK, 2000, ENVIRON INT, V26, P81, DOI 10.1016/S0160-4120(00)00085-4
+   Lee CK, 2003, ENVIRON MODELL SOFTW, V18, P243, DOI 10.1016/S1364-8152(02)00078-6
+   QUEROL X, 2001, ATMOS ENVIRON, V35, P848
+   Triantafyllou AG, 2003, ENVIRON MONIT ASSESS, V89, P15, DOI 10.1023/A:1025829907390
+   Triantafyllou AG, 2000, J AIR WASTE MANAGE, V50, P1017, DOI 10.1080/10473289.2000.10464146
+   Triantafyllou AG, 2002, J AIR WASTE MANAGE, V52, P287, DOI 10.1080/10473289.2002.10470788
+   Vega E, 2002, SCI TOTAL ENVIRON, V287, P167, DOI 10.1016/S0048-9697(01)00980-9
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 3
+PU UNIV AEGEAN
+PI ATHENS
+PA VOULGAROKTONOU 30, ATHENS 114 72, GREECE
+SN 1106-5516
+BN 960-7475-33-X
+J9 PROC INT CONF ENV SC
+PY 2005
+BP B169
+EP B174
+PG 6
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA BEL31
+UT WOS:000237755500029
+DA 2019-03-26
+ER
+
+PT J
+AU Hu, F
+   Cheng, XL
+   Zhao, S
+   Quan, LH
+AF Hu, F
+   Cheng, XL
+   Zhao, S
+   Quan, LH
+TI Hard state of the urban canopy layer turbulence and its self-similar
+   multiplicative cascade models
+SO SCIENCE IN CHINA SERIES D-EARTH SCIENCES
+LA English
+DT Article
+DE atmospheric boundary layer; urban canopy layer; atmospheric turbulence;
+   turbulence cascade
+ID TEMPERATURE-FLUCTUATIONS; PROBABILITY DENSITIES; CONVECTION; FLOWS
+AB It is found by experiment that under the thermal convection condition, the temperature fluctuation in the urban canopy layer turbulence has the hard state character, and the temperature difference between two points has the exponential probability density function distribution. At the same time, the turbulent energy dissipation rate e fits the log-normal distribution, and is in accord with the hypothesis proposed by Kolmogorov in 1962 and lots of reported experimental results. In this paper, the scaling law of hard state temperature n order structure function is educed by the self-similar multiplicative cascade models. The theory formula is xi n = n/3-mu{n(n+6)/72+[2Inn!-nIn2]/2In6}, and mu is intermittent exponent. The formula can fit the experimental results up to order 8 exponents, is superior to the predictions by the Kolmogorov theory, the beta and log-normal model.
+C1 Chinese Acad Sci, Inst Atmospher Phys, LAPC, Beijing 100029, Peoples R China.
+RP Hu, F (reprint author), Chinese Acad Sci, Inst Atmospher Phys, LAPC, Beijing 100029, Peoples R China.
+EM hufei@mail.iap.ac.cn
+RI Wang, ZF/D-7202-2012
+OI Wang, ZF/0000-0002-7062-6012
+CR ANTONIA RA, 1984, PHYS REV A, V30, P2704, DOI 10.1103/PhysRevA.30.2704
+   CASTAING B, 1989, J FLUID MECH, V204, P1, DOI 10.1017/S0022112089001643
+   CHING ESC, 1993, PHYS REV LETT, V70, P283, DOI 10.1103/PhysRevLett.70.283
+   FRICCH U, 1995, TURBULENCE, P296
+   FRISCH U, 1978, J FLUID MECH, V87, P719, DOI 10.1017/S0022112078001846
+   HESLOT F, 1987, PHYS REV A, V36, P5870, DOI 10.1103/PhysRevA.36.5870
+   HU F, 1995, TURBULENCE INTERMITT, P288
+   JANOSI IM, 1992, PHYS REV A, V46, P6386, DOI 10.1103/PhysRevA.46.6386
+   KATUL GG, 1994, BOUND-LAY METEOROL, V71, P1, DOI 10.1007/BF00709217
+   KOLMOGOROV AN, 1962, J FLUID MECH, V13, P82, DOI 10.1017/S0022112062000518
+   Lauren MK, 2001, BOUND-LAY METEOROL, V100, P263, DOI 10.1023/A:1019210914169
+   LIU ZX, 1978, CHINESE J ATMOS SCI, V2, P219
+   MONIN AS, 1975, STAT FLUID MECH, P2
+   OBUKHOV AM, 1962, J FLUID MECH, V13, P77, DOI DOI 10.1017/S0022112062000506
+   POPE SB, 1993, PHYS FLUIDS A-FLUID, V5, P1529, DOI 10.1063/1.858830
+   SHE ZS, 1989, PHYS FLUIDS A-FLUID, V1, P911, DOI 10.1063/1.857401
+   Sommeria J, 1999, NATURE, V398, P294, DOI 10.1038/18572
+   VAN ACW, 1971, PHYS FLUIDS, V14, P1803
+   Warhaft Z, 2002, P NATL ACAD SCI USA, V99, P2481, DOI 10.1073/pnas.012580299
+   WEN JS, 1978, CHINESE J ATMOS SCI, V2, P64
+   WU XZ, 1990, PHYS REV LETT, V64, P2140, DOI 10.1103/PhysRevLett.64.2140
+   ZHOU MY, 1980, CHINESE J ATMOS SCI, V4, P79
+   ZHOU XJ, 1991, ADV ATMOSPHERIC PHYS, P1277
+   胡非, 1999, [气�?�与环境研究, Climatic and Environmental Research], V4, P252
+NR 24
+TC 1
+Z9 3
+U1 0
+U2 2
+PU SCIENCE PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 1006-9313
+J9 SCI CHINA SER D
+JI Sci. China Ser. D-Earth Sci.
+PD NOV
+PY 2005
+VL 48
+SU 2
+BP 80
+EP 87
+DI 10.1360/05yd0035
+PG 8
+WC Geosciences, Multidisciplinary
+SC Geology
+GA 016XX
+UT WOS:000235658700006
+DA 2019-03-26
+ER

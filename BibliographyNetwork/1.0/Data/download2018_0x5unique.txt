@@ -1,0 +1,451 @@
+
+PT J
+AU Bokanyi, E
+   Szallasi, Z
+   Vattay, G
+AF Bokanyi, Eszter
+   Szallasi, Zoltan
+   Vattay, Gabor
+TI Universal scaling laws in metro area election results
+SO PLOS ONE
+LA English
+DT Article
+ID CITIES; MODEL
+AB We explain the anomaly of election results between large cities and rural areas in terms of urban scaling in the 1948-2016 US elections and in the 2016 EU referendum of the UK. The scaling curves are all universal and depend on a single parameter only, and one of the parties always shows superlinear scaling and drives the process, while the sublinear exponent of the other party is merely the consequence of probability conservation. Based on the recently developed model of urban scaling, we give a microscopic model of voter behavior in which we replace diversity characterizing humans in creative aspects with social diversity and tolerance. The model can also predict new political developments such as the fragmentation of the left and the immigration paradox.
+C1 [Bokanyi, Eszter; Vattay, Gabor] Eotvos Lorand Univ, Dept Phys Complex Syst, Budapest, Hungary.
+   [Szallasi, Zoltan] Harvard Med Sch, Childrens Hosp, Boston, MA USA.
+RP Bokanyi, E (reprint author), Eotvos Lorand Univ, Dept Phys Complex Syst, Budapest, Hungary.
+EM bokanyi@complex.elte.hu
+OI Szallasi, Zoltan/0000-0001-5395-7509
+FU Hungarian National Research, Development and Innovation Office [125280];
+   Ericsson Inc.
+FX Authors were supported by the Hungarian National Research, Development
+   and Innovation Office under Grant No. 125280 and by the grant of
+   Ericsson Inc. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Araujo NAM, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012446
+   Arbesman S, 2011, PHYSICA A, V390, P2155, DOI 10.1016/j.physa.2011.02.013
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Batty M., 2007, CITIES COMPLEXITY UN
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bernardes AT, 2002, EUR PHYS J B, V25, P123, DOI 10.1140/e10051-002-0013-y
+   Bettencourt L. M. A., 2013, 2013010037 SFI, P37
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Borghesi C, 2010, EUR PHYS J B, V75, P395, DOI 10.1140/epjb/e2010-00151-1
+   Borghesi C, 2012, PLOS ONE, V7, P1
+   Braha D, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0177970
+   Chatterjee A, 2013, SCI REP-UK, V3, DOI 10.1038/srep01049
+   Costa RN, 2003, PHYSICA A, V322, P698, DOI 10.1016/S0378-4371(02)01823-X
+   Costa RN, 1999, PHYS REV E, V60, P1067, DOI 10.1103/PhysRevE.60.1067
+   DENVER D, 1990, ELECT STUD, V9, P19, DOI 10.1016/0261-3794(90)90039-B
+   Fernandez-Gracia J, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.158701
+   Fischer C. S., 1982, DWELL FRIENDS PERSON
+   Florida R, 2014, RISE CREATIVE CLASS
+   Florida R, 2016, MAPPING AM METROAREA
+   Fortunato S, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.138701
+   Fujita M, 2001, SPATIAL EC CITIES RE, P1
+   Glaeser E., 2011, TRIUMPH CITY OUR GRE
+   Gomez-Lievano A, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0012
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Goodwin MJ, 2016, POLIT QUART, V87, P323, DOI 10.1111/1467-923X.12285
+   Henderson JV, 1991, URBAN DEV THEORY FAC
+   Isard W, 1972, LOCATION SPACE EC GE
+   Kennedy C. A., 2011, EVOLUTION GREAT WORL
+   Klimek P, 2012, P NATL ACAD SCI USA, V109, P16469, DOI 10.1073/pnas.1210722109
+   Leip D, 2016, DAVE LEIP US PRESIDN
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Lyra ML, 2002, EPL-EUROPHYS LETT, V62, P5
+   Mantovani MC, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.024802
+   Mantovani MC, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/48001
+   McCarthy N, 2008, RASSEGNA ITALIANA SO, V49, P495
+   Mitzenmacher M., 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   Newman M., 2011, STRUCTURE DYNAMICS N
+   Palombi F, 2014, J STAT PHYS, V156, P336, DOI 10.1007/s10955-014-1003-1
+   Pan W, 2013, NATURE COMMUNICATION, V4
+   Pumain D., 2006, CYBERGEO REV EUROPEE, V343, P1
+   RABINOWITZ G, 1989, AM POLIT SCI REV, V83, P93, DOI 10.2307/1956436
+   Samaniego H, 2008, J TRANSPORT LAND USE, V1
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Sim A, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0315
+   Wellman B, 1999, NETWORKS GLOBAL VILL
+NR 50
+TC 3
+Z9 3
+U1 0
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 22
+PY 2018
+VL 13
+IS 2
+AR e0192913
+DI 10.1371/journal.pone.0192913
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FX1SB
+UT WOS:000425831000022
+PM 29470518
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Chang, CY
+   Nikaein, N
+   Arouk, O
+   Katsalis, K
+   Ksentini, A
+   Turletti, T
+   Samdanis, K
+AF Chang, Chia-Yu
+   Nikaein, Navid
+   Arouk, Osama
+   Katsalis, Kostas
+   Ksentini, Adlen
+   Turletti, Thierry
+   Samdanis, Konstantinos
+TI Slice Orchestration for Multi-Service Disaggregated Ultra-Dense RANs
+SO IEEE COMMUNICATIONS MAGAZINE
+LA English
+DT Article
+ID NETWORK; 5G; FLEXIBILITY
+AB Ultra-dense networks (UDNs) are a natural deployment evolution for handling the tremendous traffic increase related to the emerging 5G services, especially in urban environments. However, the associated infrastructure cost may become prohibitive. The evolving paradigm of network slicing can tackle such a challenge while optimizing the network resource usage, enabling multi-tenancy and facilitating resource sharing and efficient service-oriented communications. Indeed, network slicing in UDN deployments can offer the desired degree of customization in not only vanilla radio access network (RAN) designs, but also in the case of disaggregated multi-service RANs. In this article, we devise a novel multi-service RAN environment, RAN runtime, capable of supporting slice orchestration procedures and enabling flexible customization of slices as per tenant needs. Each network slice can exploit a number of services, which can be either dedicated or shared between multiple slices over a common RAN. The novel architecture we present concentrates on the orchestration and management systems. It interacts with the RAN modules, through the RAN runtime, via a number of new interfaces enabling a customized dedicated orchestration logic for each slice. We present results for a disaggregated UDN deployment where the RAN runtime is used to support slice-based multi-service chain creation and chain placement, with an auto-scaling mechanism to increase the performance.
+C1 [Chang, Chia-Yu; Nikaein, Navid; Ksentini, Adlen] EURECOM, Commun Syst Dept, Biot, France.
+   [Arouk, Osama] INRIA, Rennes, France.
+   [Turletti, Thierry] INRIA, DIANA team, Rennes, France.
+   [Katsalis, Kostas; Samdanis, Konstantinos] Huawei Technol Co Ltd, Munich, Germany.
+RP Chang, CY (reprint author), EURECOM, Commun Syst Dept, Biot, France.
+FU European Union's Horizon 2020 Framework Programme [762057, 761913];
+   French Government through the UCN@Sophia Labex [ANR-11-LABX-0031-01]
+FX This work has received funding from the European Union's Horizon 2020
+   Framework Programme under grant agreements No. 762057 (5G-PICTURE) and
+   No. 761913 (SliceNet), as well as the French Government through the
+   UCN@Sophia Labex ANR-11-LABX-0031-01.
+CR Arouk O., 2017, 2017 IEEE 6 INT C CL, P1
+   Chantrapornchai C, 2016, INT JOINT CONF COMP, P1
+   Checko A, 2015, IEEE COMMUN SURV TUT, V17, P405, DOI 10.1109/COMST.2014.2355255
+   Foukas X., 2017, P 23 ANN ACM INT C M, P427
+   Kamel M, 2016, IEEE COMMUN SURV TUT, V18, P2522, DOI 10.1109/COMST.2016.2571730
+   Katsalis K, 2017, IEEE COMMUN MAG, V55, P146, DOI 10.1109/MCOM.2017.1600936
+   Ksentini A, 2017, IEEE COMMUN MAG, V55, P102, DOI 10.1109/MCOM.2017.1601119
+   Marsch P, 2016, IEEE COMMUN MAG, V54, P24, DOI 10.1109/MCOM.2016.1600147CM
+   Nakao A., 2017, J INFORM PROCESSING, V25, P153, DOI DOI 10.2197/IPSJJIP.25.153
+   NGMN Alliance, DESCR NETW SLIC CONC
+   Rost P, 2017, IEEE COMMUN MAG, V55, P72, DOI 10.1109/MCOM.2017.1600920
+   Rostami A, 2017, IEEE COMMUN MAG, V55, P64, DOI 10.1109/MCOM.2017.1600119
+   Sciancalepore V., 2017, P IEEE INFOCOM, P1, DOI DOI 10.1109/INFOCOM.2017.8057230
+NR 13
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0163-6804
+EI 1558-1896
+J9 IEEE COMMUN MAG
+JI IEEE Commun. Mag.
+PD AUG
+PY 2018
+VL 56
+IS 8
+BP 70
+EP 77
+DI 10.1109/MCOM.2018.1701044
+PG 8
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA GR1PE
+UT WOS:000442317300012
+DA 2019-03-26
+ER
+
+PT J
+AU Redding, C
+   Viano, SL
+AF Redding, Christopher
+   Viano, Samantha L.
+TI Co-Creating School Innovations: Should Self-Determination Be a Component
+   of School Improvement?
+SO TEACHERS COLLEGE RECORD
+LA English
+DT Article
+ID SENSE-MAKING; REFORM MODELS; TEACHERS; LEADERS; ACHIEVEMENT;
+   SENSEMAKING; DISTRICT; SUPPORT; SCIENCE; POLICY
+AB Background: Research suggests a number of benefits from teacher participation in school improvement-chief among them that it can increase teacher receptivity to innovation and reform adoption. Improvement science has been put forward as a new paradigm for involving local school stakeholders in the improvement process.
+   Purpose: We describe the beliefs held by teachers and teacher leaders during the development and implementation of a locally developed innovation. To explain why the beliefs of these two school stakeholder groups would differ; and the implications these differences have on receptivity to the innovation, we merge the sensemaking framework and status risk theory.
+   Setting: Three high schools in a large urban school district in the southwestern United States.
+   Research Design: The data for this study come from a seven-year study of the process of scaling up effective practices in a large urban district. This qualitative case study is based on transcripts from 260 semistructured interviews and 24 focus groups with development team members and teachers. We analyzed transcripts to understand participants' attitudes toward and understanding of the innovation design.
+   Findings: Allowing for teacher self-determination in the innovation design and implementation helped to garner a high level of teacher buy-in to the innovation. Compared with externally developed reforms, the innovation was less challenging to teacher autonomy and was customized to fit the needs of their students. These conditions led to high levels of teacher ownership over the innovation. Yet, in the process, teacher leaders grounded the innovation in preexisting and easy-to-implement practices that did not require significant investment from teachers to adopt.
+   Conclusions: Teacher self-determination in the innovation development process contributed to greater teacher ownership of; and receptivity to, organizational change, but at the cost of adopting more ambitious practices that likely had a greater chance of improving instruction and positive student outcomes.
+C1 [Redding, Christopher] Univ Florida, Dept Human Dev & Org Studies Educ, Coll Educ, Gainesville, FL 32611 USA.
+   [Viano, Samantha L.] George Mason Univ, Grad Sch Educ, Educ, Fairfax, VA 22030 USA.
+RP Redding, C (reprint author), Univ Florida, Dept Human Dev & Org Studies Educ, Coll Educ, Gainesville, FL 32611 USA.
+FU Institute of Education Sciences, U.S. Department of Education
+   [R305C100023]
+FX The research reported here was supported by the Institute of Education
+   Sciences, U.S. Department of Education, through Grant R305C100023. The
+   opinions expressed are those of the authors and do not represent views
+   of the Institute or the U.S. Department of Education.
+CR Berends M., 2002, FACING CHALLENGES WH
+   BERMAN P, 1976, EDUC FORUM, V40, P344
+   Bifulco R, 2005, J POLICY ANAL MANAG, V24, P47, DOI 10.1002/pam.20069
+   Bodilly S, 2001, NEW AM SCH CONCEPT B
+   Borman GD, 2003, REV EDUC RES, V73, P125, DOI 10.3102/00346543073002125
+   Bryk A. S., 2015, LEARNING IMPROVE AM
+   Bryk A. S., 2008, FUTURE ED ENTREPRENE, P181
+   Cannata M., 2017, AERA OPEN, V3, P1
+   Cho V, 2014, TEACH COLL REC, V116
+   Coburn CE, 2005, EDUC POLICY, V19, P476, DOI 10.1177/089504805276143
+   Coburn CE, 2001, EDUC EVAL POLICY AN, V23, P145, DOI 10.3102/01623737023002145
+   Cohen-Vogel L, 2015, EDUC POLICY, V29, P257, DOI 10.1177/0895904814560886
+   Conley S, 1991, REV RES EDUC, P225
+   Corbin J, 2008, BASICS QUALITATIVE R
+   Datnow A, 2005, EDUC ADMIN QUART, V41, P121, DOI 10.1177/0013161X04269578
+   DeMartini C., 2006, EVALUATING COMPREHEN
+   Desimone L, 2002, REV EDUC RES, V72, P433, DOI 10.3102/00346543072003433
+   Fullan M., 2000, J ED CHANGE, V1, P5, DOI DOI 10.1023/A:1010068703786
+   Giacquinta J. B, 1973, REV RES EDUC, V1, P178
+   Giacquinta J. B, 1975, SOCIOL EDUC, V48, P39
+   Giacquinta JB, 2005, ROOTS OF EDUCATIONAL CHANGE: INTERNATIONAL HANDBOOK OF EDUCATIONAL CHANGE, P151, DOI 10.1007/1-4020-4451-8_9
+   Gomez K, 2015, J TEACH EDUC, V66, P450, DOI 10.1177/0022487115602127
+   Gross B, 2009, EDUC EVAL POLICY AN, V31, P111, DOI 10.3102/0162373709333886
+   Hannan M, 2015, J TEACH EDUC, V66, P494, DOI 10.1177/0022487115602126
+   Leithwood K, 1998, EDUC POLICY, V12, P325, DOI 10.1177/0895904898012003006
+   Lewis C, 2015, EDUC RESEARCHER, V44, P54, DOI 10.3102/0013189X15570388
+   Marz V, 2013, TEACH TEACH EDUC, V29, P13, DOI 10.1016/j.tate.2012.08.004
+   Mehan H, 2002, EXTENDING ED REFORM
+   Miles M. B., 1994, QUALITATIVE DATA ANA
+   Peurach DJ, 2012, J EDUC CHANG, V13, P155, DOI 10.1007/s10833-011-9177-7
+   Redding C, 2018, J EDUC CHANG, V19, P77, DOI 10.1007/s10833-017-9310-3
+   Schmidt M, 2005, TEACH TEACH EDUC, V21, P949, DOI 10.1016/j.tate.2005.06.006
+   Sleegers P, 2009, LEADERSH POLICY SCH, V8, P152, DOI 10.1080/15700760902737162
+   SMYLIE MA, 1992, ELEM SCHOOL J, V93, P85, DOI 10.1086/461714
+   Spillane JP, 2002, REV EDUC RES, V72, P387, DOI 10.3102/00346543072003387
+   Weick Karl E., 1995, SENSEMAKING ORG
+   WEISS CH, 1992, EDUC ADMIN QUART, V28, P350, DOI 10.1177/0013161X92028003007
+   White T, 2014, DEV EFFECTIVE TEACHE
+   York-Barr J, 2004, REV EDUC RES, V74, P255, DOI 10.3102/00346543074003255
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TEACHERS COLL OF COLUMBIA UNIV
+PI NEW YORK
+PA 525 W 120TH ST, NEW YORK, NY 10027 USA
+SN 0161-4681
+EI 1467-9620
+J9 TEACH COLL REC
+JI Teach. Coll. Rec.
+PD NOV
+PY 2018
+VL 120
+IS 11
+AR 110303
+PG 32
+WC Education & Educational Research
+SC Education & Educational Research
+GA HO2ZZ
+UT WOS:000460788600003
+DA 2019-03-26
+ER
+
+PT J
+AU Stone, J
+   Costanigro, M
+   Goemans, C
+AF Stone, Janine
+   Costanigro, Marco
+   Goemans, Christopher
+TI Public Opinion on Colorado Water Rights Transfers: Are Policy
+   Preferences Consistent with Concerns over Impacts?
+SO JOURNAL OF AGRICULTURAL AND RESOURCE ECONOMICS
+LA English
+DT Article
+DE agriculture; best-worst scaling; choice experiment; latent-class model;
+   municipal water demand
+ID WILLINGNESS-TO-PAY; CHOICE EXPERIMENTS; MARKETS; MODELS; VALUES;
+   PERCEPTIONS; VALIDITY; OPTIONS; VALLEY; LOGIT
+AB We evaluate Coloradans' preferences for policies decreasing the need for agricultural water transfers using two choice experiments with different frames-one highlighting policy choices and one emphasizing ex post impacts on prices, urban landscaping, and base charges. We find that a majority of users state a willingness to face private costs to reduce agricultural water transfers. Latent-class analysis is used to describe heterogeneity in opinion groups, showing that a minority of urban, lower-income participants would prefer to fallow agricultural land than to pay for alternative policies. This opinion group increases in size in the impact-framed survey.
+C1 [Stone, Janine] Calif State Univ Chico, Dept Econ, Chico, CA 95929 USA.
+   [Costanigro, Marco; Goemans, Christopher] Colorado State Univ, Dept Agr & Resource Econ, Ft Collins, CO 80523 USA.
+RP Stone, J (reprint author), Calif State Univ Chico, Dept Econ, Chico, CA 95929 USA.
+FU Colorado Water Conservation Board
+FX The authors thank the Colorado Water Conservation Board for providing
+   the funding for this project. We also thank Stephan Kroll, associate
+   professor in the Department of Agricultural and Resource Economics at
+   Colorado State University, and Regan Waskom, director of the Colorado
+   Water Institute, for their valuable input.
+CR ANDREONI J, 1990, ECON J, V100, P464, DOI 10.2307/2234133
+   Ashok K, 2002, J MARKETING RES, V39, P31, DOI 10.1509/jmkr.39.1.31.18937
+   Batsell R.R., 1991, MARKET LETT, V2, P199, DOI DOI 10.1007/BF02404072
+   Blamey R, 1999, AUST J AGR RESOUR EC, V43, P337, DOI 10.1111/1467-8489.00083
+   Brewer J, 2008, ECON INQ, V46, P91, DOI 10.1111/j.1465-7295.2007.00072.x
+   Carlsson F, 2005, ECON LETT, V89, P147, DOI 10.1016/j.econlet.2005.03.010
+   Carson RT, 2007, ENVIRON RESOUR ECON, V37, P181, DOI 10.1007/s10640-007-9124-5
+   Collins A. T., 2013, ITLSWP1313 U SYDN I
+   Colorado Water Conservation Board, 2010, STAT COL 2050 MUN IN
+   Costanigro M, 2014, FOOD QUAL PREFER, V31, P81, DOI 10.1016/j.foodqual.2013.08.002
+   Etner J, 2012, J ECON SURV, V26, P234, DOI 10.1111/j.1467-6419.2010.00641.x
+   FINN A, 1992, J PUBLIC POLICY MARK, V11, P12, DOI 10.1177/074391569201100202
+   FISHER RJ, 1993, J CONSUM RES, V20, P303, DOI 10.1086/209351
+   Flynn TN, 2007, J HEALTH ECON, V26, P171, DOI 10.1016/j.jhealeco.2006.04.002
+   Greene WH, 2003, TRANSPORT RES B-METH, V37, P681, DOI 10.1016/S0191-2615(02)00046-2
+   Griffin RC, 2000, AM J AGR ECON, V82, P414, DOI 10.1111/0002-9092.00035
+   Haider W, 2002, ENVIRON IMPACT ASSES, V22, P337, DOI DOI 10.1016/S0195-9255(02)00017-3
+   Hensher D, 2006, ECON REC, V82, P56, DOI 10.1111/j.1475-4932.2006.00293.x
+   Howe CW, 2003, J AM WATER RESOUR AS, V39, P1055, DOI 10.1111/j.1752-1688.2003.tb03692.x
+   HOWE CW, 1990, AM J AGR ECON, V72, P1200, DOI 10.2307/1242532
+   HUKKINEN J, 1990, POLICY SCI, V23, P307, DOI 10.1007/BF00141324
+   Jakus PM, 2009, WATER RESOUR RES, V45, DOI 10.1029/2008WR007427
+   Jeffery P., 2004, ENV SCI, V1, P277, DOI [10.1080/15693430412331291661, DOI 10.1080/15693430412331291661]
+   KAHNEMAN D, 1991, J ECON PERSPECT, V5, P193, DOI 10.1257/jep.5.1.193
+   Keammerer D., 2011, SUSTAINABLE LANDSCAP
+   Keenan SP, 1999, SOC NATUR RESOUR, V12, P279, DOI 10.1080/089419299279605
+   Knudson T. J, 1987, NY TIMES
+   Lancsar E, 2013, SOC SCI MED, V76, P74, DOI 10.1016/j.socscimed.2012.10.007
+   Lee JA, 2007, PSYCHOL MARKET, V24, P1043, DOI 10.1002/mar.20197
+   Libecap G. D, 2005, REGULATION, V28, P10
+   Linsey K. S., 2014, 1405 US GEOL SURV
+   Lusk JL, 2009, AM J AGR ECON, V91, P184, DOI 10.1111/j.1467-8276.2008.01175.x
+   Malone T, 2016, J AGR RESOUR ECON, V41, P518
+   Marley AAJ, 2012, J MATH PSYCHOL, V56, P24, DOI 10.1016/j.jmp.2011.09.001
+   OLSSON U, 1979, PSYCHOMETRIKA, V44, P443, DOI 10.1007/BF02296207
+   Pacifico D, 2013, STATA J, V13, P625, DOI 10.1177/1536867X1301300312
+   Scarpa R, 2008, AUST J AGR RESOUR EC, V52, P253, DOI 10.1111/j.1467-8489.2007.00436.x
+   Scarpa R, 2011, AM J AGR ECON, V93, P809, DOI 10.1093/ajae/aaq174
+   Steinberg D., 1997, MARKET LETT, V8, P273, DOI 10.1023/A:1007956429024
+   Street DJ, 2005, INT J RES MARK, V22, P459, DOI 10.1016/j.ijresmar.2005.09.003
+   Swait J., 1994, J RETAIL CONSUM SERV, V1, P77, DOI DOI 10.1016/0969-6989(94)90002-7
+   Thorvaldson J, 2010, CAN J AGR ECON, V58, P497, DOI 10.1111/j.1744-7976.2010.01195.x
+   Tisdell JG, 2003, SOC NATUR RESOUR, V16, P61, DOI 10.1080/08941920390169478
+   Train KE, 2009, DISCRETE CHOICE METHODS WITH SIMULATION, 2ND EDITION, P1, DOI 10.1017/CBO9780511805271
+   Train KE, 2008, J CHOICE MODEL, V1, P40, DOI DOI 10.1016/S1755-5345(13)70022-8
+   U.S. Census Bureau, 2010, QUICKFACTS COL
+   WARD F.A., 2002, WATER POLICY, V4, P423, DOI DOI 10.1016/S1366-7017(02)00039-9
+NR 47
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WESTERN AGRICULTURAL ECONOMICS ASSOC
+PI LOGAN
+PA C/O DEEVON BAILEY, UTAH STATE UNIV, ECONOMICS DEPT, 3535 OLD MAIN HILL,
+   LOGAN, UT 84322-3530 USA
+SN 1068-5502
+EI 2327-8285
+J9 J AGR RESOUR ECON
+JI J. Agric. Resour. Econ.
+PD SEP
+PY 2018
+VL 43
+IS 3
+BP 403
+EP +
+PG 21
+WC Agricultural Economics & Policy; Economics
+SC Agriculture; Business & Economics
+GA GU4BH
+UT WOS:000445225000006
+DA 2019-03-26
+ER
+
+PT J
+AU Doran, R
+   Bohm, G
+   Hanss, D
+AF Doran, Rouven
+   Bohm, Gisela
+   Hanss, Daniel
+TI Using Card Sorting to Explore the Mental Representation of Energy
+   Transition Pathways Among Laypeople
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE mental representation; climate change; energy transition; card sorting;
+   perceived similarity; cross-national; Norway; Germany
+ID CLIMATE-CHANGE; PERCEPTIONS; DIMENSIONS; CARBON
+AB Meeting international emission targets will require major changes in the energy system. This paper addresses the public perception of different pathways to energy transition, and their mental representation in particular. A study is reported that employed card sorting to explore how laypeople categorize possible pathway components with respect to their perceived similarity (Norwegian sample, n = 61; German sample, n = 71). Data sets that were obtained by this method were subjected to multidimensional scaling and cluster analysis. Results for both samples consistently indicate that people differentiate components located at the individual level (e.g., vegetarian food, avoid long flights, walking and cycling), components located at the societal level (e.g., taxes, regulations, urban planning), and components concerned with technological solutions (e.g., hydropower, wind farms, solar panels). These results give reason to assume that laypeople from Norway and Germany share a multifaceted understanding of energy transition, yet some differences between samples were present with regard to the substructure of the individual level category. Future research can build on the present results to explore the subjective meanings of these structures, possibly identifying barriers to public engagement with energy transition.
+C1 [Doran, Rouven; Bohm, Gisela] Univ Bergen, Dept Psychosocial Sci, Fac Psychol, Bergen, Norway.
+   [Bohm, Gisela] Inland Norway Univ Appl Sci, Dept Psychol, Lillehammer, Norway.
+   [Hanss, Daniel] Univ Appl Sci, Dept Social Sci, Hsch Darmstadt, Darmstadt, Germany.
+RP Doran, R (reprint author), Univ Bergen, Dept Psychosocial Sci, Fac Psychol, Bergen, Norway.
+EM rouven.doran@uib.no
+FU Statoil [803589]; University of Bergen [803589]; E.ON Stipendienfonds
+   [T0087/29897/17]
+FX This research was supported by grants from the cooperation agreement
+   between Statoil and the University of Bergen (Akademiaavtale; Project
+   No. 803589) and from a research scholarship awarded to the first author
+   (E. ON Stipendienfonds; Project No. T0087/29897/17).
+CR Arnold A, 2016, EUROPEAN PERCEPTIONS
+   Attari SZ, 2010, P NATL ACAD SCI USA, V107, P16054, DOI 10.1073/pnas.1001509107
+   BAIRD JC, 1981, J APPL PSYCHOL, V66, P90
+   Barnett J., 2008, DOING SOCIAL PSYCHOL, P289, DOI [10.1002/9780470776278.CH12, DOI 10.1002/9780470776278.CH12]
+   Barr S, 2005, ENERG POLICY, V33, P1425, DOI 10.1016/j.enpol.2003.12.016
+   Bassarak C, 2017, J RISK RES, V20, P299, DOI 10.1080/13669877.2015.1043571
+   Bohm G, INT STUD MANAGE ORG
+   Bohm G, 2018, FRONT PSYCHOL, V9, DOI 10.3389/fpsyg.2018.01904
+   Borg I, 2005, MODERN MULTIDIMENSIO
+   Bostrom A, 2012, GLOBAL ENVIRON CHANG, V22, P210, DOI 10.1016/j.gloenvcha.2011.09.012
+   Boudet HS, 2016, ENERG POLICY, V92, P444, DOI 10.1016/j.enpol.2016.02.033
+   Canter D., 1985, RES INTERVIEW USES A, P79
+   Dietz T, 2009, P NATL ACAD SCI USA, V106, P18452, DOI 10.1073/pnas.0908738106
+   European Commission, 2011, COMM COMM ROADM MOV
+   Fox-Glassman KT, 2016, J MATH PSYCHOL, V75, P157, DOI 10.1016/j.jmp.2016.05.003
+   Gabe-Thomas E, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0158949
+   Gardner GT, 2008, ENVIRONMENT, V50, P12, DOI 10.3200/ENVT.50.5.12-25
+   Grubler A, 2016, ENERGY RES SOC SCI, V22, P18, DOI 10.1016/j.erss.2016.08.015
+   IPCC, 2014, CLIMATE CHANGE 2014
+   Jones MD, 2014, SOC SCI QUART, V95, P1, DOI 10.1111/ssqu.12043
+   Karlin B, 2014, ENVIRON BEHAV, V46, P423, DOI 10.1177/0013916512467532
+   Kempton W, 1985, MARRIAGE FAM REV, V9, P115, DOI DOI 10.1300/J002V09N01_07
+   Kneebone S, 2018, J ENVIRON PSYCHOL, V55, P1, DOI 10.1016/j.jenvp.2017.10.007
+   Koletsou A, 2011, RISK MANAG-UK, V13, P184, DOI 10.1057/rm.2011.12
+   Lubell M, 2002, ENVIRON BEHAV, V34, P431, DOI 10.1177/00116502034004002
+   Mair P, 2016, MULTIVAR BEHAV RES, V51, P772, DOI 10.1080/00273171.2016.1235966
+   R Core Team, 2018, R LANG ENV STAT COMP
+   ROSCH E, 1976, COGNITIVE PSYCHOL, V8, P382, DOI 10.1016/0010-0285(76)90013-X
+   ROSENBERG S, 1975, MULTIVAR BEHAV RES, V10, P489, DOI 10.1207/s15327906mbr1004_7
+   Rosentrater LD, 2012, ENVIRON BEHAV, V45, P935
+   Steentjes K., 2017, EUROPEAN PERCEPTIONS
+   Stern PC, 2014, ENERGY RES SOC SCI, V1, P41, DOI 10.1016/j.erss.2014.03.003
+   UNFCCC, 2015, UNFCCCCP2015L9REV1
+   Whitmarsh L, 2011, GLOBAL ENVIRON CHANG, V21, P56, DOI 10.1016/j.gloenvcha.2010.07.011
+NR 34
+TC 0
+Z9 0
+U1 1
+U2 1
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD DEC 4
+PY 2018
+VL 9
+AR 2322
+DI 10.3389/fpsyg.2018.02322
+PG 11
+WC Psychology, Multidisciplinary
+SC Psychology
+GA HC9GA
+UT WOS:000452112700001
+PM 30564164
+OA DOAJ Gold
+DA 2019-03-26
+ER

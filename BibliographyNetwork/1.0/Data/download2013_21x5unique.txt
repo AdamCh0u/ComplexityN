@@ -1,0 +1,375 @@
+
+PT J
+AU Pan, W
+   Ghoshal, G
+   Krumme, C
+   Cebrian, M
+   Pentland, A
+AF Pan, Wei
+   Ghoshal, Gourab
+   Krumme, Coco
+   Cebrian, Manuel
+   Pentland, Alex
+TI Urban characteristics attributable to density-driven tie formation
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID NETWORKS; SPILLOVERS; LIFE; COMMUNITIES; MULTISCALE; INNOVATION;
+   DIVERSITY; CITIES; GROWTH
+AB Motivated by empirical evidence on the interplay between geography, population density and societal interaction, we propose a generative process for the evolution of social structure in cities. Our analytical and simulation results predict both super-linear scaling of social-tie density and information contagion as a function of the population. Here we demonstrate that our model provides a robust and accurate fit for the dependency of city characteristics with city-size, ranging from individual-level dyadic interactions (number of acquaintances, volume of communication) to population level variables (contagious disease rates, patenting activity, economic productivity and crime) without the need to appeal to heterogeneity, modularity, specialization or hierarchy.
+C1 [Pan, Wei; Ghoshal, Gourab; Krumme, Coco; Cebrian, Manuel; Pentland, Alex] MIT, Media Lab, Cambridge, MA 02139 USA.
+   [Cebrian, Manuel] Univ Calif San Diego, Dept Comp Sci & Engn, La Jolla, CA 92093 USA.
+   [Cebrian, Manuel] Natl Informat & Commun Technol Australia, Melbourne, Vic 3010, Australia.
+RP Pentland, A (reprint author), MIT, Media Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM pentland@mit.edu
+OI Ghoshal, Gourab/0000-0001-7593-5626
+FU Army Research Laboratory [W911NF-09-2-0053, W911NF-11-1-0363]; National
+   Science Foundation [0905645]; DARPA/Lockheed Martin Guard Dog Programme
+   [PO 4100149822]
+FX We thank L.M.A. Bettencourt and C.A. Hidalgo for their insightful
+   comments and help on the manuscript. This research is supported by Army
+   Research Laboratory under Cooperative Agreement Numbers W911NF-09-2-0053
+   and W911NF-11-1-0363, the National Science Foundation under grant
+   0905645, from DARPA/Lockheed Martin Guard Dog Programme under PO
+   4100149822.
+CR Ahn YY, 2010, NATURE, V466, P761, DOI 10.1038/nature09182
+   Allen T., 2003, MANAGING FLOW TECHNO
+   Anderson RM, 1991, INFECT DIS HUMANS DY
+   Anselin L, 1997, J URBAN ECON, V42, P422, DOI 10.1006/juec.1997.2032
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Audretsch DB, 1996, AM ECON REV, V86, P630
+   BALDASSARE M, 1995, URBAN AFF REV, V30, P690, DOI 10.1177/107808749503000511
+   Becker GS, 1999, AM ECON REV, V89, P145, DOI 10.1257/aer.89.2.145
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brummitt C., 2012, HUNTING KEYS INNOVAT
+   Burt R. S., 1995, STRUCTURAL HOLES SOC
+   Calabrese F., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P223, DOI 10.1109/PASSAT/SocialCom.2011.247
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   Commission E., 2003, OFFICIAL J EUROPEAN, V21, P2003
+   Crane P, 2005, SCIENCE, V308, P1225, DOI 10.1126/science.1114165
+   Eagle N, 2010, SCIENCE, V328, P1029, DOI 10.1126/science.1186605
+   Eagle N, 2009, P NATL ACAD SCI USA, V106, P15274, DOI 10.1073/pnas.0900282106
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   Florida R., 2007, FLIGHT CREATIVE CLAS
+   Florida R., 2004, RISE CREATIVE CLASS
+   Florida R. L., 2004, CITIES CREATIVE CLAS
+   Fujita M., 1999, SPATIAL EC
+   Glaeser E., 2001, J ECON GEOGR, V1, P27, DOI DOI 10.1093/JEG/1.1.27
+   Granovetter M, 2005, J ECON PERSPECT, V19, P33, DOI 10.1257/0895330053147958
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hagerstrand T., 1952, PROPAGATION INNOVATI
+   Hagerstrand T., 1957, MIGRATION SWEDEN S B, V13, P27
+   JAFFE AB, 1993, Q J ECON, V108, P577, DOI 10.2307/2118401
+   Kermack WO, 1927, P R SOC LOND A-CONTA, V115, P700, DOI 10.1098/rspa.1927.0118
+   Krings G, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/L07003
+   KRUGMAN P, 1993, EUR ECON REV, V37, P293, DOI 10.1016/0014-2921(93)90017-5
+   Leskovec J, 2009, INTERNET MATH, V6, P29, DOI 10.1080/15427951.2009.10129177
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Milgram S, 1974, CROWDING BEHAV, V167, P41
+   Mucha PJ, 2010, SCIENCE, V328, P876, DOI 10.1126/science.1184819
+   Onnela JP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016939
+   Pentland A., 2008, HONEST SIGNALS THEY
+   Reagans R, 2001, ORGAN SCI, V12, P502, DOI 10.1287/orsc.12.4.502.10637
+   Shalizi CR, 2011, ARXIV11024101
+   Smith A., 1937, WEALTH NATIONS 1776
+   US Census Bureau, 2012, POP HOUS UN AR MEAS
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Wu L., 2008, P INT C INF SYST
+NR 44
+TC 43
+Z9 43
+U1 2
+U2 43
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JUN
+PY 2013
+VL 4
+AR 1961
+DI 10.1038/ncomms2961
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 207SM
+UT WOS:000323624100029
+PM 23736887
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Salvati, L
+AF Salvati, Luca
+TI 'Rural' sprawl, Mykonian style: a scaling paradox
+SO INTERNATIONAL JOURNAL OF SUSTAINABLE DEVELOPMENT AND WORLD ECOLOGY
+LA English
+DT Article
+DE tourism-driven sprawl; residential settlements; land fragmentation;
+   Mykonos; Kyklades; Greece
+ID URBAN SPRAWL; GREECE; TOURISM; ISLANDS
+AB The diffusion of residential and commercial low-density settlements is a phenomenon observed in both urban and rural areas of Europe irrespective of their development level and urban form. In southern Europe, the socioeconomic and territorial characteristics of regions experiencing sprawl are extremely variegated and need further studies. The comparison of case studies that differ in population size and density, social and economic features, land availability, and local culture may thus provide sound information to overcome the above-mentioned information gap. In the present study, we provided an example of second-home and tourism-driven sprawl occurring in an originally low-density rural area (Mykonos, Greece). The assessment of Mykonos' sprawl was carried out by using statistical data from multiple sources, including the censuses of population, buildings, and agriculture together with land-use and field survey. Results (1) define urban expansion phases in Mykonos, (2) illustrate the peculiarity of this process compared to other paradigmatic Greek areas, and (3) indicate an integrated assessment framework of urban sprawl in originally low-density insular areas. Finally, the economic and environmental implications of urban diffusion in Mykonos at both local and regional scale have been discussed.
+C1 Consiglio Ric & Ssperimentaz Agr, Ctr Studio Relaz Pianta Suolo CRA RPS, I-00184 Rome, Italy.
+RP Salvati, L (reprint author), Consiglio Ric & Ssperimentaz Agr, Ctr Studio Relaz Pianta Suolo CRA RPS, Via Navicella 2-4, I-00184 Rome, Italy.
+EM luca.salvati@entecra.it
+CR Alphan H, 2003, LAND DEGRAD DEV, V14, P575, DOI 10.1002/ldr.581
+   Briassoulis H., 2007, Journal of Sustainable Tourism, V15, P441, DOI 10.2167/jost722.0
+   Bruegmann R., 2005, SPRAWL COMPACT HIST
+   Chorianopoulos I, 2010, CITIES, V27, P249, DOI 10.1016/j.cities.2009.12.011
+   Coccossis H., 1996, Sustainable tourism? European experiences., P153
+   Couch C, 2007, URBAN SPRAWL EUROPE
+   Detsis V, 2010, LANDSCAPE RES, V35, P361, DOI 10.1080/01426391003746549
+   European Environment Agency, 2006, 10 EEA
+   Frenkel A, 2007, ANN REGIONAL SCI, V42, P99
+   Hasse JE, 2003, APPL GEOGR, V23, P159, DOI 10.1016/j.apjeog.2003.08.002
+   HIONIDOU V, 1995, J FAM HIST, V20, P67, DOI 10.1177/036319909502000204
+   Hionidou V, 1995, Int J Popul Geogr, V1, P125, DOI 10.1002/ijpg.6060010203
+   Karatzoglou B, 2010, BUS STRATEG ENVIRON, V19, P26, DOI 10.1002/bse.627
+   Kavallinis I., 1994, J TRAVEL RES, V33, P26, DOI DOI 10.1177/004728759403300205
+   Kizos T, 2009, PLANNING CLIMATE CHA, P94
+   Kizos Th, 2007, EUROPES LIVING LANDS, P333
+   Kizos T, 2007, LANDSC SER, V7, P127
+   Kucukmehmetoglu M, 2009, LAND USE POLICY, V26, P569, DOI 10.1016/j.landusepol.2008.08.007
+   Leontidou L, 2001, MEDITERRANEAN TOURIS, P171
+   Mazzetti E., 2007, RIV GEOGR ITAL, V114, P593
+   Polyzos Serafeirn, 2008, International Journal of Agricultural Resources Governance and Ecology, V7, P276
+   Salvati L, 2010, STAT REV, V6, P59
+   Salvati L, 2012, INT J SUST DEV WORLD, V19, P81, DOI 10.1080/13504509.2011.593007
+   Salvati L, 2011, INT J SUST DEV WORLD, V18, P273, DOI 10.1080/13504509.2011.560453
+   Schneider A, 2008, URBAN STUD, V45, P659, DOI 10.1177/0042098007087340
+   Spilanis I., 2009, ECOLOGICAL INDICATOR, V9, P179
+   Stott M, 1979, MEDITERRANEAN STUDIE, VI, P70
+   Stott M. A., 1996, Sustainable tourism in islands and small states: case studies., P281
+   STOTT MA, 1985, J MOD GREEK STUD, V3, P187
+   Stott MA., 1973, GREEK REV SOCIAL RES, V17, P122
+   Tsartas P., 2003, Journal of Sustainable Tourism, V11, P116
+   TSARTAS P, 1992, ANN TOURISM RES, V19, P516, DOI 10.1016/0160-7383(92)90134-B
+   Weber C, 2005, INT J REMOTE SENS, V26, P785, DOI 10.1080/01431160512331316856
+NR 33
+TC 9
+Z9 9
+U1 2
+U2 23
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA
+SN 1350-4509
+J9 INT J SUST DEV WORLD
+JI Int. J. Sustain. Dev. World Ecol.
+PD APR 1
+PY 2013
+VL 20
+IS 2
+BP 109
+EP 115
+DI 10.1080/13504509.2013.765522
+PG 7
+WC Green & Sustainable Science & Technology; Ecology
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 130XA
+UT WOS:000317952200002
+DA 2019-03-26
+ER
+
+PT B
+AU Ostberg, A
+AF Ostberg, Anders
+BE Spathis, AT
+   Gupta, RN
+TI High precision drilling
+SO TUNNELLING IN ROCK BY DRILLING AND BLASTING
+LA English
+DT Proceedings Paper
+CT 10th International Symposium on Rock Fragmentation by Blasting
+   (Fragblast)
+CY NOV 24-25, 2012
+CL New Delhi, INDIA
+SP Council Sci & Ind Res, Cent Inst Min & Fuel Res, Coal India Ltd, Solar Ind India Ltd, Orica, Deepak Fertilisers & Petrochem Corp Ltd, Vedanta Grp Co, Hindustan Zinc Ltd, Tata Steel, Singareni Collieries Co Ltd, Jindal Steel & Power Ltd, NMDC Ltd, Essel Min & Ind Ltd, Natl Aluminium Co Ltd, Jaiprakash Ind Ltd, Manganese Ore (India) Ltd, Uranium Corp India Ltd, EMTA Grp Co, Sarda Mines Pvt Ltd, Gujarat Mineral Dev Corp, IDL Explos Ltd, J K Cement, Hutti Gold Mines Ltd, V V Mineral, Navbharat Grp Co, JSW Bengal Steel Ltd, Neyveli Lignite Corp Ltd
+AB In order for an underground project to run with good quality and profitability there must be good control of all activities in the tunnel cycle. It is important to understand each activity individually but especially how they affect each other. All activities can affect each other, for example bad scaling affects the safety in drilling, bad charging affects the mucking etc. One of the crucial factors to have a successful project is to have good control of the drilling.
+   Why do we need to have good control of the drilling? It doesn't matter if the project is located remotely or in urban areas, whether it is a hydro power project or infrastructure project, they all need drilling application such as drilling for blasting, pre grouting, probe hole, forepoling, spiling etc, and all this equal with precision drilling. Examples of what bad drilling and blasting can effect include: short pulls of the rounds, more rock reinforcement due to damaged rock mass, longer scaling and mucking time, more concrete in lining due to over break, bad control of grouting etc. All these effects are quality and cost related.
+   At underground works in urban areas we often get vibration problems from blasting when the tunnels are located close to existing houses, tunnels and other sensitive objects. To be able to blast in hard competent rock close to sensitive areas we need to have a very good control on the amount of explosives and the location of the explosives. For smooth blasting that uses small amounts of explosives in an efficient way we must have good control of the drilling. If drilling or blasting fails in vibration sensitive areas it can have a significant negative impact on the project.
+   Computerized drill rigs can provide high precision drilling. The benefits with these types of rigs are that you know exactly where you are and where and how to drill. During the last few years the focus has been on raising the quality and precision on the drilling rigs. Today we can use total station navigation for positioning the drill rig, pre made drill pattern, full automation of the drilling, forecast the rock with MWD (Measure While Drilling) analysis, use rig mounted profiler for scanning the perimeter etc. All these applications contribute to raising the quality and productivity of the project.
+   In order to be able to use and get the benefits from the new technology, the users from operator to project management and clients must be trained and informed in how to use the equipment to get good quality and profitability on their projects.
+C1 Atlas Copco Rock Drills AB, Orebro, Sweden.
+RP Ostberg, A (reprint author), Atlas Copco Rock Drills AB, Orebro, Sweden.
+NR 0
+TC 2
+Z9 2
+U1 1
+U2 4
+PU CRC PRESS-TAYLOR & FRANCIS GROUP
+PI BOCA RATON
+PA 6000 BROKEN SOUND PARKWAY NW, STE 300, BOCA RATON, FL 33487-2742 USA
+BN 978-0-415-62141-0
+PY 2013
+BP 1
+EP 6
+PG 6
+WC Engineering, Geological; Mechanics
+SC Engineering; Mechanics
+GA BJG16
+UT WOS:000328049500001
+DA 2019-03-26
+ER
+
+PT B
+AU Puerari, E
+   Concilio, G
+   Longo, A
+   Rizzo, F
+AF Puerari, Emma
+   Concilio, Grazia
+   Longo, Antonio
+   Rizzo, Francesca
+BE Schiuma, G
+   Spender, JC
+   Pulic, A
+TI Innovating public services in urban environments: a SOC inspired
+   strategy proposal
+SO IFKAD 2013: 8TH INTERNATIONAL FORUM ON KNOWLEDGE ASSET DYNAMICS: SMART
+   GROWTH: ORGANIZATIONS, CITIES AND COMMUNITIES
+LA English
+DT Proceedings Paper
+CT 8th International Forum on Knowledge Asset Dynamics (IFKAD)
+CY JUN 12-14, 2013
+CL Zagreb, CROATIA
+SP Inst Knowledge Asset Management, Univ Zagreb, Univ Basilicata, Arts Business Inst, Emerald Publishing Ltd
+DE Innovation; public services; public institutions; SOC theory
+ID SELF-ORGANIZED-CRITICALITY; SYSTEMS
+AB Purpose - The proposed paper discusses the role of public institutions in fostering innovation of public services, focussing on the emergent nature of innovation. In particular it analyses the opportunity for urban administrations to play the role of "growers" (i.e. "capturers, ", drivers and facilitators) of scaling-up processes, of urban forces showing innovation potentials and self-organizing ability in facing socio-urban problems. Hence, it explores how public administrators can identify and respond to the real public needs by effectively and responsibly capturing the intrinsic innovative potentials of complex urban systems.
+   Design/methodology/approach - Starting from the analysis of the existing literature on the application of the SOC (Self Organized Criticality) theory to socio-urban systems, the paper identifies and discusses some existing cases of SOC-like dynamics in urban contexts having the potential of public services. The paper in particular reflects on the micro-scale nature of promising SOC-like dynamics that can be captured in urban environments to move towards more systemic and structured framework of public services. The SOC theory recognizes that critical conditions in systems produce basic patterns that help in developing new stability frameworks. Coherently with this vision, we assume that nonlinearities in socio-urban SOC systems can be considered potentials to be captured and driven by public institutions towards the reorganisation, hopefully innovation, of public services' frames.
+   Originality/value - The originality of the proposed paper is twofold: 1) it does not conform to any theory or approach considering innovation any artefact of planned activity or designed process; 2) it looks at public institutions as crucial capturers of innovation epiphanies and crucial aligners of innovation forces towards creating a new perspective for the implementation of public services.
+   Practical implications - Public institutions have to develop relationships of trust and collaboration with and among citizens to be able to capture the SOC dynamic in urban environments and to reframe and shape innovative public services. Therefore, urban administrations should be able to recognize the different situational variables that influence each environmental situation to capture innovation epiphanies. If urban administrations are able to capture the innovation epiphanies deriving from crashing moments of SOC, they could be able to reduce their effects and develop on their potentials. In these perspectives the paper identifies some rules of thumbs, emerging from the analysed cases, considered promising for public institutions to be able to facilitate the emergence of innovative public services in contemporary urban environments.
+C1 [Puerari, Emma; Concilio, Grazia; Longo, Antonio] Politecn Milan, Dept Architecture & Urban Studies, I-20133 Milan, Italy.
+   [Rizzo, Francesca] Politecn Milan, Dept Design, I-20158 Milan, Italy.
+RP Puerari, E (reprint author), Politecn Milan, Dept Architecture & Urban Studies, Via Golgi 39, I-20133 Milan, Italy.
+CR Baek J. S., 2010, DES RES SOC C P 7 9, P123
+   BAK P, 1988, PHYS REV A, V38, P364, DOI 10.1103/PhysRevA.38.364
+   BAK P, 1991, SCI AM, V264, P46, DOI 10.1038/scientificamerican0191-46
+   Bak P, 1996, NATURE WORKS SCI SEL
+   Balducci A, 2011, URB REG PLANN DEVEL, P1
+   Bauwens M., 2007, PEER PEER HUMAN EVOL
+   Bjorgvinsson E., 2010, PART DES C P 29 NOV
+   Borella F., 1998, PARCO NORD 1983 1998
+   Brunk GG, 2002, J THEOR POLIT, V14, P195, DOI 10.1177/095169280201400203
+   Chen Y., 2006, CHAOS SOLITON FRACT, V35, P85
+   Cooke P, 2007, EUR PLAN STUD, V15, P179, DOI 10.1080/09654310601078671
+   Denhardt JV, 2011, NEW PUBLIC SERVICE: SERVING, NOT STEERING, THIRD EDITION, P1
+   Dvir R., 2005, KNOWLEDGE CITIES APP
+   Dvir R., 2003, J KNOWLEDGE MANAGEME, V5, P16
+   Ehn Pelle, 2008, P 10 ANN C PART DES, P92, DOI [10.1145/1795234.1795248, DOI 10.1145/1795234.1795248]
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   Foth M, 2011, FROM SOCIAL BUTTERFLY TO ENGAGED CITIZEN: URBAN INFORMATICS, SOCIAL MEDIA, UBIQUITOUS COMPUTING, AND MOBILE TECHNOLOGY TO SUPPORT CITIZEN ENGAGEMENT, P1
+   Havel V., 1991, POTERE SENZA POTERE
+   ITO K, 1995, PHYS REV E, V52, P3232, DOI 10.1103/PhysRevE.52.3232
+   Jegou F., 2010, SOCIAL INNOVATIONS R
+   Jegou F., 2011, NORD DES RES C P 30
+   KERNAGHAN K, 2009, REV ADM SCI, V75, P239, DOI DOI 10.1177/0020852309104174
+   Leadbeater C., 2009, WE THINK PAPERBACK
+   Majamaa W., 2008, TKK STRUCTURAL ENG B
+   Majamaa W, 2008, INT J STRATEG PROP M, V12, P1, DOI 10.3846/1648-715X.2008.12.1-17
+   Manzini E., 2008, 2 C SUST CONS RES EX, pI
+   Manzini E, 2011, CODESIGN, V7, P199, DOI 10.1080/15710882.2011.630472
+   Moulaert F, 2005, URBAN STUD, V42, P1969, DOI 10.1080/00420980500279893
+   Munarin S., 2012, SPAZI WELFARE ESPERI
+   Nonaka I, 1998, CALIF MANAGE REV, V40, P40, DOI 10.2307/41165942
+   OLIVA F, 2002, URBANISTICA MILANO
+   Osimo D., 2011, COLLABORATIVE E GOV
+   Ostrom E., 1990, GOVERNING COMMONS EV
+   Portugali J, 2008, PLAN THEOR, V7, P248, DOI 10.1177/1473095208094823
+   Rizzo F., 2010, NOTES DESIGN DOCTORA
+   Ryan C., 2008, SOCIAL INNOVATION WH
+   Zhang J, 2012, MITIGATION POSTDISAS
+NR 37
+TC 2
+Z9 2
+U1 0
+U2 1
+PU IKAM-INST KNOWLEDGE ASSET MANAGEMENT
+PI MATERA
+PA VIA D SCHIAVONE 1, MATERA, MT 75100, ITALY
+BN 978-88-96687-01-7
+PY 2013
+BP 987
+EP 1007
+PG 21
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+GA BD0JB
+UT WOS:000357261000058
+DA 2019-03-26
+ER
+
+PT S
+AU Alfieri, JG
+   Kustas, WP
+   Prueger, J
+   Baker, J
+   Hatfield, J
+AF Alfieri, Joseph G.
+   Kustas, William P.
+   Prueger, John
+   Baker, John
+   Hatfield, Jerry
+BE Romano, N
+   DUrso, G
+   Severino, G
+   Chirico, GB
+   Palladino, M
+TI The Differential Response of Surface Fluxes from Agro-Ecosystems in
+   Response to Local Environmental Conditions
+SO FOUR DECADES OF PROGRESS IN MONITORING AND MODELING OF PROCESSES IN THE
+   SOIL-PLANT-ATMOSPHERE SYSTEM: APPLICATIONS AND CHALLENGES
+SE Procedia Environmental Sciences
+LA English
+DT Proceedings Paper
+CT International Conference on Four Decades of Progress in Monitoring and
+   Modeling of Processes in the Soil-Plant-Atmosphere System
+CY JUN 19-21, 2013
+CL Naples, ITALY
+DE evapotranspiration; surface fluxes; spatial variability
+ID AGRICULTURAL WATER-USE
+AB Meeting the competing demands for freshwater of the urban, industrial, and agricultural communities is increasingly challenging as the global population continues to grow and the need for potable water, food, fiber, and fuel grows with it. One of the keys to meeting these demands is maximizing the efficiency of water use in agricultural applications. Toward this end, a thorough understanding of the factors driving evapotranspiration and their response to spatiotemporal variations in local environmental conditions is needed for the development and validation of numerical and remote sensing-based models. Moreover, because these exchange processes are strongly nonlinear, scaling measurements collected at one scale to another remains a nontrivial task. In an effort to identify the key environmental drivers controlling the latent heat flux (lambda E) from agro-ecosystems and their potential impacts on upscaling in-situ flux measurements, eddy covariance and micrometeorological data collected over maize and soy at three distinct sites located in Maryland, Iowa, and Minnesota, respectively were evaluated for the years between 2007 and 2011. The magnitudes of the evaporative fluxes were comparable for measurements collected during clear-sky days with similar environmental conditions; on average, the measurements of lambda E agreed to within 50 W m(-2), or approximately 10%. When considered in terms of evaporative fraction (f(e)), however, there were marked differences among the sites. For example, while the magnitude and diurnal pattern of f(e) for mature maize at the Minnesota site was nearly constant (f(e) = 0.66) during the day, f(e) at both the Maryland and Iowa site increased steadily during the day from a minimum value near 0.68 at midmorning to peak value of 0.87 in the afternoon. These differences appear to be primarily linked to differences in soil moisture and vegetation density at the various sites. As such, this research underscores the impact of local environmental conditions in controlling land-atmosphere exchange processes. It also underscores the importance accurately describing local environmental conditions when modeling surface fluxes. (C) 2013 The Authors. Published by Elsevier B.V.
+C1 [Alfieri, Joseph G.; Kustas, William P.] USDA Agr Res Serv, Hydrol & Remote Sensing Lab, Beltsville, MD 20705 USA.
+   [Prueger, John; Hatfield, Jerry] USDA Agr Res Serv, Natl Lab Agr & Environm, Ames, IA 50011 USA.
+   [Baker, John] USDA Agr Res Serv, Soil & Water Management Res, St Paul, MN 55108 USA.
+RP Alfieri, JG (reprint author), USDA Agr Res Serv, Hydrol & Remote Sensing Lab, Beltsville, MD 20705 USA.
+EM joe.alfieri@ars.usda.gov
+CR Alfieri JG, 2007, J HYDROMETEOROL, V8, P207, DOI 10.1175/JHM569.1
+   Baker JM, 2005, AGR FOREST METEOROL, V128, P163, DOI 10.1016/j.agrformet.2004.11.005
+   Brubaker KL, 1996, WATER RESOUR RES, V32, P1343, DOI 10.1029/96WR00005
+   de Fraiture C, 2010, AGR WATER MANAGE, V97, P502, DOI 10.1016/j.agwat.2009.08.008
+   Fereres E, 2007, J EXP BOT, V58, P147, DOI 10.1093/jxb/erl165
+   Gish TJ, 2011, J ENVIRON QUAL, V40, P1432, DOI 10.2134/jeq2010.0092
+   Mukheibir P, 2010, ENVIRON MANAGE, V45, P1027, DOI 10.1007/s00267-010-9474-6
+   Postel SL, 1996, SCIENCE, V271, P785, DOI 10.1126/science.271.5250.785
+   Schaible GD, 2012, USDA ERS ECONOMIC IN, V99
+   Vorosmarty CJ, 2000, SCIENCE, V289, P284, DOI 10.1126/science.289.5477.284
+   Wallace JS, 2000, AGR ECOSYST ENVIRON, V82, P105, DOI 10.1016/S0167-8809(00)00220-6
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1878-0296
+J9 PROCEDIA ENVIRON SCI
+PY 2013
+VL 19
+BP 239
+EP 245
+DI 10.1016/j.proenv.2013.06.027
+PG 7
+WC Plant Sciences; Environmental Sciences; Soil Science
+SC Plant Sciences; Environmental Sciences & Ecology; Agriculture
+GA BHX21
+UT WOS:000326900300026
+OA Other Gold
+DA 2019-03-26
+ER

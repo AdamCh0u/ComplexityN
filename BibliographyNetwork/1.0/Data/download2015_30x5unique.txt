@@ -1,0 +1,533 @@
+
+PT J
+AU Shen, CH
+   Li, CL
+   Si, YL
+AF Shen Chen-hua
+   Li Chao-ling
+   Si Ya-li
+TI A detrended cross-correlation analysis of meteorological and API data in
+   Nanjing, China
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Cross correlation; MF-DCCA method; MF-CCA method; API; Meteorological
+   elements
+ID NONSTATIONARY TIME-SERIES; AIR-POLLUTION; PARTICULATE MATTER; TEMPORAL
+   VARIATION; URBAN AIR; PM10; GREECE
+AB The cross correlation between daily meteorological data and air pollution index (API) records in Nanjing during the past 12 years is studied by means of a detrended cross-correlation analysis (DCCA). In this study, we use statistical significance tests and power-law statistical tests to verify cross correlation between meteorological data and the API. Through calculating the DCCA cross correlation coefficient rho(DCCA), we intend to obtain a range of cross correlation levels between the meteorological data and the API at different time scales. Utilizing the multifractal detrended cross correlation analysis (MF-DCCA) and algorithm-multifractal cross correlation analysis (MF-CCA) proposed by Oswiecimka, we observe multifractal cross-correlation behavior between meteorological factors and the API. Our results show a cross correlation between meteorological factors and the API in Nanjing. The cross-correlation between diurnal temperature ranges and the API is persistent at studied time scales, while the cross correlations of wind speed, relative humidity, and precipitation with the API are anti-persistent at studied time scales. Next, a cross correlation of temperature with the API finds persistent cross correlation at smaller time scales, and anti-persistent cross-correlation at larger time scales; the cross correlation of atmospheric pressure with the API, however, results in anti-persistent cross correlation at smaller time scales, and persistent cross correlation at larger time scales. The MF-DCCA demonstrates that all underlying fluctuations have a weak multifractal nature where one scaling exponent is obtained. However, the MF-CCA suggests that some crossovers exist in the cross-correlation fluctuation function in terms of time scales of temperature and atmospheric pressure versus the API. The MF-CCA method is more subtle and suitable for reflecting the cross correlation of the two given time series. Compared with a traditional correlation analysis, the DCCA can uncover more cross-correlation information between API and meteorological factors. Therefore, the DCCA is also recommended as a comparatively reliable method for detecting the correlations between the API and meteorological data, and can also be useful for our understanding of the cross correlation between air quality and meteorological elements. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Shen Chen-hua; Li Chao-ling; Si Ya-li] Nanjing Normal Univ, Coll Geog Sci, Nanjing 210046, Jiangsu, Peoples R China.
+RP Shen, CH (reprint author), Nanjing Normal Univ, Coll Geog Sci, Nanjing 210046, Jiangsu, Peoples R China.
+EM shenandchen01@163.com
+FU National Natural Science Foundation of China [41271189, 40971231,
+   40971105]; Priority Academic Program Development of Jiangsu Higher
+   Education Institutions
+FX The authors are grateful for financial support from the National Natural
+   Science Foundation of China (Nos. 41271189, 40971231 and 40971105), and
+   a Project Funded by the Priority Academic Program Development of Jiangsu
+   Higher Education Institutions. The authors are grateful to Professor Zhu
+   A-xing of the University of Wisconsin Madison, whose constructive advice
+   and assistance have greatly contributed to the manuscript.
+CR Buchholz S, 2010, ATMOS ENVIRON, V44, P5183, DOI 10.1016/j.atmosenv.2010.08.053
+   Chattopadhyay Subrata, 2010, Journal of Environmental Protection, V1, P264, DOI 10.4236/jep.2010.13032
+   de Moura FABF, 1998, PHYS REV LETT, V81, P3735, DOI 10.1103/PhysRevLett.81.3735
+   Deng JJ, 2011, ATMOS RES, V101, P681, DOI 10.1016/j.atmosres.2011.04.016
+   Grinsted A, 2004, NONLINEAR PROC GEOPH, V11, P561, DOI 10.5194/npg-11-561-2004
+   [郭勇�? Guo Yongtao], 2011, [干旱区资源与环境, Journal of Arid Land Resources and Environment], V25, P100
+   Horvatic D, 2011, EPL-EUROPHYS LETT, V94, DOI 10.1209/0295-5075/94/18007
+   Johansson C, 2007, ENVIRON MONIT ASSESS, V127, P477, DOI 10.1007/s10661-006-9296-4
+   Kahn J., 2007, NY TIMES
+   Kang DD, 2013, J KOREAN PHYS SOC, V63, P10, DOI 10.3938/jkps.63.10
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   Karar K, 2006, ENVIRON MONIT ASSESS, V118, P369, DOI 10.1007/s10661-006-1503-9
+   Koscielny-Bunde E, 1998, PHYS REV LETT, V81, P729, DOI 10.1103/PhysRevLett.81.729
+   Lee SY, 2011, PHYSICA A, V390, P837, DOI 10.1016/j.physa.2010.11.012
+   LI JH, 1998, CHINA ENV SCI, V18, P8
+   Li L, 2014, ENVIRON POLLUT, V190, P75, DOI 10.1016/j.envpol.2014.03.020
+   [李名�? Li Mingsheng], 2013, [地理学报, Acta Geographica Sinica], V68, P1504
+   Lopez R. E., 2008, QUALITY GROWTH FISCA
+   Maraziotis E, 2008, GLOBAL NEST J, V10, P123
+   Nidzgorska-Lencewicz J., 2014, THEOR APPL CLIMATOL
+   Oswiecimka P, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.023305
+   Pasch AN, 2011, ATMOS ENVIRON, V45, P7026, DOI 10.1016/j.atmosenv.2011.09.065
+   Pearce JL, 2011, ATMOS ENVIRON, V45, P1328, DOI 10.1016/j.atmosenv.2010.11.051
+   Podobnik B, 2009, EUR PHYS J B, V71, P243, DOI 10.1140/epjb/e2009-00310-5
+   Podobnik B, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.066118
+   Podobnik B, 2009, P NATL ACAD SCI USA, V106, P22079, DOI 10.1073/pnas.0911983106
+   Podobnik B, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.084102
+   Shadkhoo S, 2009, EUR PHYS J B, V72, P679, DOI 10.1140/epjb/e2009-00402-2
+   Shen C.H., 2015, ACTA ECOL SIN, V35
+   Shi H.M., 1992, GEOGR RES, V11, P60
+   Shi K, 2009, FRACTALS, V17, P513, DOI 10.1142/S0218348X09004454
+   Singh KP, 2013, ATMOS ENVIRON, V80, P426, DOI 10.1016/j.atmosenv.2013.08.023
+   Tayanc M, 2000, ENVIRON POLLUT, V107, P61, DOI 10.1016/S0269-7491(99)00131-1
+   Triantafyllou AG, 2006, ENVIRON MONIT ASSESS, V122, P41, DOI 10.1007/s10661-005-9162-9
+   Vassoler RT, 2012, PHYSICA A, V391, P2438, DOI 10.1016/j.physa.2011.12.015
+   Wang D, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.046121
+   Wang YD, 2011, PHYSICA A, V390, P817, DOI 10.1016/j.physa.2010.11.002
+   World Meteorological Organization (WMO), 1989, CALC MONTHL ANN 30 Y
+   Yusuf K.A., 2013, INT J ENG INVENTIONS, V2, P1
+   Zebende GF, 2011, PHYSICA A, V390, P614, DOI 10.1016/j.physa.2010.10.022
+   Zheng M X, 2010, J METEOROL ENV, V26, P53
+   Zhou WX, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.066211
+   Zhou WX, 2009, EPL-EUROPHYS LETT, V88, DOI 10.1209/0295-5075/88/28004
+NR 43
+TC 21
+Z9 25
+U1 3
+U2 40
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD FEB 1
+PY 2015
+VL 419
+BP 417
+EP 428
+DI 10.1016/j.physa.2014.10.058
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA AX6EZ
+UT WOS:000347017300044
+DA 2019-03-26
+ER
+
+PT B
+AU Low, J
+   Ball, A
+   van Jaarsveld, PJ
+   Namutebi, A
+   Faber, M
+   Grant, FK
+AF Low, J.
+   Ball, A.
+   van Jaarsveld, P. J.
+   Namutebi, A.
+   Faber, M.
+   Grant, F. K.
+BE Low, J
+   Nyongesa, M
+   Quinn, S
+   Parker, M
+TI Assessing Nutritional Value and Changing Behaviours Regarding
+   Orange-fleshed Sweetpotato Use in Sub-Saharan Africa
+SO Potato and Sweetpotato in Africa: Transforming the Value Chains for Food
+   and Nutrition Security
+LA English
+DT Proceedings Paper
+CT 9th Triennial African Potato Association Conference
+CY JUN 30-JUL 04, 2013
+CL Int Potato Ctr, Naivasha, KENYA
+SP African Potato Assoc, Republic of Kenya, Ministry Agr Livestock & Fisheries, Natl Potato Council Kenya
+HO Int Potato Ctr
+DE behavioural change; beta-carotene; bioaccessibility; nutritional value;
+   orange-fleshed sweetpotato (OFSP); scaling out; vitamin A
+ID SERUM RETINOL CONCENTRATIONS; VITAMIN-A STATUS; BETA-CAROTENE; RURAL
+   MOZAMBIQUE; YOUNG-CHILDREN; HUMAN HEALTH; DIETARY-FAT; BIOAVAILABILITY;
+   ABSORPTION; HUMANS
+AB During the past 15 years, significant investments have been made in the development and promotion of orange-fleshed sweetpotato (OFSP) varieties in sub-Saharan Africa (SSA) due to their high beta-carotene contents and thus, their potential to contribute towards reducing vitamin A deficiency. As the dominant varieties in SSA are white-fleshed, lacking in beta-carotene, the introduction of OFSP means that producers and consumers need to accept the very visible change in colour along with any other trait differences.
+   We first review the building of the evidence base for OFSP in SSA, summarizing the key lessons learned to date, focusing on interventions aiming for impact on vitamin A intakes or status. Second, we review the state of knowledge concerning how to maximize the nutritional value of OFSP when processed and identify appropriate entry points to reach rural and urban consumers. Third, we explore how the health sector and private-sector marketing firms are tackling behavioural change and based on this accumulated multi-sector experience develop improved recommendations to guide practitioners on how they should approach reaching consumers. Finally, we pinpoint opportunities to enable the successful scaling out of OFSP adoption and utilization and identify areas of research needed to address remaining knowledge gaps.
+   In developing OFSP-focused food-based approaches, several key questions are addressed: (i) Are OFSP varieties competitive with existing local varieties?; (ii) Do producers and consumers accept a variety with a distinct colour difference?; (iii) What does it take to get proper utilization of OFSP at the household and the young child level?; (iv) What are the key nutrition messages?; and (v) What do we need to do to break into rural and urban markets?
+   We also examine the best techniques for assessing micronutrient contents of OFSP and its impact on status, the minimum amount of fat consumption linked to OFSP consumption and the bioaccessibility of OFSP processed in different ways. After reviewing how other sectors are approaching behavioural change, we propose 12 key recommendations on how to approach rural households and present dominant factors likely to influence urban consumer behaviour. The current policy environment is very favourable to integrated agriculture-nutrition interventions, and the Scaling Up Nutrition (SUN) movement emerges as the most promising opportunity for OFSP integration.
+C1 [Low, J.; Grant, F. K.] Int Potato Ctr Subsaharan Africa CIP SSA, POB 25171, Nairobi 00603, Kenya.
+   [Ball, A.] HarvestPlus, Kampala, Uganda.
+   [van Jaarsveld, P. J.; Faber, M.] South African Med Res Council, ZA-7505 Tygerberg, South Africa.
+   [Namutebi, A.] Makerere Univ, Dept Food Technol & Nutr, Kampala, Uganda.
+RP Low, J (reprint author), Int Potato Ctr Subsaharan Africa CIP SSA, POB 25171, Nairobi 00603, Kenya.
+EM j.low@cgiar.org; a.ball@cgiar.org; paul.van.jaarsveld@mrc.ac.za;
+   asmutebi@yahoo.co.uk; mieke.faber@mrc.ac.za; f.grant@cgiar.org
+CR Arimond M, 2011, COMBATING MICRONUTRIENT DEFICIENCIES: FOOD-BASED APPROACHES, P41
+   Bechoff A, 2011, J AGR FOOD CHEM, V59, P10373, DOI 10.1021/jf201205y
+   Berti PR, 2004, PUBLIC HEALTH NUTR, V7, P599, DOI 10.1079/PHN2003595
+   Borel P, 1998, J NUTR, V128, P1361
+   Bovell-Benjamin AC, 2010, FOOD SCI TECHNOL, P193
+   Boy E, 2009, SIGHT LIFE MAG, V3, P27
+   Brown MJ, 2004, AM J CLIN NUTR, V80, P396
+   Centers for Disease Control (CDC), 2000, CDC MED REL WHY IS H
+   Contento I. R., 2008, NUTR ED LINKING RES
+   Contento IR, 2008, ASIA PAC J CLIN NUTR, V17, P176
+   Coronel P, 2005, J FOOD SCI, V70, pE531
+   Dapi LN, 2007, J NUTR EDUC BEHAV, V39, P320, DOI 10.1016/j.jneb.2007.03.001
+   DICKIN K, 1997, DESIGNING DIALOGUE P
+   Dolceta (European Union online consumer education), 2013, FACT WHICH INFL CONS
+   Dueik V, 2010, FOOD CHEM, V119, P1143, DOI 10.1016/j.foodchem.2009.08.027
+   Duhigg C., 2012, POWER HABIT WHY WE D
+   Ericksen PJ, 2008, GLOBAL ENVIRON CHANG, V18, P234, DOI 10.1016/j.gloenvcha.2007.09.002
+   Faber M., 2006, HOME GARDENS ADDRESS
+   Fanzo J., 2012, NUTR CHALLENGE SUBSA
+   Girard AW, 2012, PAEDIATR PERINAT EP, V26, P205, DOI 10.1111/j.1365-3016.2012.01282.x
+   Grol R, 2003, LANCET, V362, P1225, DOI 10.1016/S0140-6736(03)14546-1
+   Gross J, 1991, PIGMENTS VEGETABLES
+   Grunert K.G., 2003, EC RES SERV ERS US D
+   Hagenimana V., 1999, 3 ICRWOMNI
+   HarvestPlus, 2010, DISS OR FLESH SWEET
+   Haskell MJ, 2004, AM J CLIN NUTR, V80, P705
+   Heath C., 2008, MADE TO STICK
+   Helen Keller International (HKI), 2010, H KELL INT NUTR B, V8
+   Henderson G., 2012, SWEETPOTATO CONSUMER
+   Hotz C, 2012, J NUTR, V142, P1871, DOI 10.3945/jn.111.151829
+   Hotz C, 2012, BRIT J NUTR, V108, P163, DOI 10.1017/S0007114511005174
+   Huo T, 2007, J AGR FOOD CHEM, V55, P8950, DOI 10.1021/jf071687a
+   Islam S, 2006, J FOOD SCI, V71, pR13, DOI 10.1111/j.1365-2621.2006.tb08912.x
+   Jalal F, 1998, AM J CLIN NUTR, V68, P623
+   JAYARAJAN P, 1980, INDIAN J MED RES, V71, P53
+   Lister J., 2013, INFLUENCE PRODUCT MA
+   Low J., 2009, P359, DOI 10.1007/978-1-4020-9475-0_16
+   LOW J, 2001, POTENTIAL IMPACT ORA
+   Low JW, 2011, ACTA HORTIC, V921, P171
+   Low JW, 2008, FOOD NUTR BULL, V29, P98, DOI 10.1177/156482650802900203
+   Low JW, 2007, FOOD NUTR BULL, V28, pS258, DOI 10.1177/15648265070282S205
+   Low JW, 2007, J NUTR, V137, P1320
+   Masset E., 2011, SYSTEMATIC REV AGR I
+   McLaren DS, 2001, SIGHT LIFE GUIDEBOOK
+   Menelaou E, 2006, HORTSCIENCE, V41, P1269
+   Mills JP, 2009, J NUTR, V139, P44, DOI 10.3945/jn.108.098947
+   Nagujja S., 2005, P AFR CROP SCI C 5 9, V7, P663
+   New Partnership for Africa's Development (NEPAD) and Comprehensive African Agriculture Development Programme (CAADP), 2008, PAN AFR NUTR IN
+   Ogubi M.A., 2007, THESIS
+   OLSON JA, 1994, PURE APPL CHEM, V66, P1011, DOI 10.1351/pac199466051011
+   Parada J, 2007, J FOOD SCI, V72, pR21, DOI 10.1111/j.1750-3841.2007.00274.x
+   Popkin BM, 2012, NUTR REV, V70, P3, DOI 10.1111/j.1753-4887.2011.00456.x
+   Ribaya-Mercado JY, 2004, AM J CLIN NUTR, V80, P1291
+   Rodriguez-Amaya D. B., 1993, SHELF LIFE STUDIES F, P547
+   Rodriguez-Amaya D B, 2004, HARVESTPLUS TECHNICA, V2, P2
+   RODRIGUEZAMAYA DB, 1997, CAROTENOIDS FOOD PRE
+   Roodenburg AJC, 2000, AM J CLIN NUTR, V71, P1187
+   Ruel M.T., 2000, ASSESSING POTENTIAL
+   Scaling Up Nutrition, 2013, TANZ 2 7 GDP LOST DU
+   Sommer A, 1996, VITAMIN A DEFICIENCY
+   TAKAHATA Y, 1993, JPN J BREED, V43, P421
+   Tanumihardjo SA, 2002, J LIPID RES, V43, P350
+   Tanumihardjo SA, 2011, AM J CLIN NUTR, V94, p658S, DOI 10.3945/ajcn.110.005777
+   Tumuhimbise GA, 2009, PLANT FOOD HUM NUTR, V64, P312, DOI 10.1007/s11130-009-0142-z
+   Twomey C, 2006, HAND HYGIENE BEST PR
+   U.S. Department of Agriculture Agricultural Research Service (USDA-ARS), 2011, USDA NAT NUTR DAT ST
+   United Nations (UN) Standing Committee on Nutrition, 2011, 6 UN STAND COMM NUTR
+   Unlu NZ, 2005, J NUTR, V135, P431
+   van Jaarsveld PJ, 2006, J FOOD COMPOS ANAL, V19, P321, DOI 10.1016/j.jfca.2004.10.007
+   van Jaarsveld PJ, 2005, AM J CLIN NUTR, V81, P1080
+   Vorster HH, 2011, NUTRIENTS, V3, P429, DOI 10.3390/nu3040429
+   zum Felde T., 2009, 15 TRIENN INT SOC RO
+NR 72
+TC 3
+Z9 3
+U1 1
+U2 3
+PU CABI PUBLISHING-C A B INT
+PI WALLINGFORD
+PA CABI PUBLISHING, WALLINGFORD 0X10 8DE, OXON, ENGLAND
+BN 978-1-78064-420-2
+PY 2015
+BP 551
+EP 579
+PG 29
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA BF2WG
+UT WOS:000380504000055
+DA 2019-03-26
+ER
+
+PT J
+AU Klein, PM
+   Galvez, JM
+AF Klein, Petra M.
+   Galvez, Jose M.
+TI Flow and turbulence characteristics in a suburban street canyon
+SO ENVIRONMENTAL FLUID MECHANICS
+LA English
+DT Article; Proceedings Paper
+CT 1st Symposium on Urban Fluid Mechanics (UFM)
+CY AUG, 2014
+CL ASME Conf, Chicago, IL
+HO ASME Conf
+DE Street canyon; Urban canopy; Turbulence kinetic energy
+ID URBAN ROUGHNESS SUBLAYER; BOUNDARY-LAYER; OKLAHOMA-CITY;
+   ATMOSPHERIC-TURBULENCE; KINETIC-ENERGY; WIND-FIELD; MEAN FLOW;
+   DISPERSION; MODEL; STATISTICS
+AB Flow and turbulence data collected during a yearlong experiment in a street-canyon configuration located in suburban terrain are analyzed. The instrumentation included 13 sonic anemometers deployed on two masts within the street canyon and on three masts on the building roofs. Flow patterns were classified as being in the wake-interference regime. The in-canyon flow and turbulence structure showed a strong dependence on the above-roof wind direction. While channeling along the street dominates for most wind directions, recirculation patterns develop for narrow sectors with above-roof wind directions perpendicular to the street. For these cross-flowscenarios, different scaling velocities were tested and the influence of upwind fetch and stability was investigated in more detail. Similar to previous studies, our findings confirmed that it is difficult to identify a single velocity scale that unifies both mean flow and turbulence properties inside the canyon. Turbulence properties scaled best with the friction velocity at the upwind roof but scaling with mean wind speeds measured at the upwind roof or at an operational meteorological station 5-km away from the study area, resulted in comparable or even better statistics for the mean flow parameters. Turbulence kinetic energy in the shear-layer region at roof layer varied depending on upwind fetch and stability. As turbulence is transported from the shear layer into the canyon region, the in-canyon turbulence characteristics also varied as a function of these two parameters.
+C1 [Klein, Petra M.; Galvez, Jose M.] Univ Oklahoma, Sch Meteorol, Norman, OK 73072 USA.
+   [Galvez, Jose M.] Natl Ctr Weather & Climate Predict, SRG NCEP NWS NOAA, College Pk, MD USA.
+RP Klein, PM (reprint author), Univ Oklahoma, Sch Meteorol, 120 David L Boren Blvd, Norman, OK 73072 USA.
+EM pkklein@ou.edu
+RI Klein, Petra/G-1894-2012
+OI Klein, Petra/0000-0003-2943-7831
+FU NSF Career award ILREUM [NSF ATM 0547882]
+FX This work was supported through the NSF Career award ILREUM (NSF ATM
+   0547882). We would like to thank Sean Arms and Brian Bridges for their
+   dedicated efforts during the set-up and operation of the instruments and
+   Alan Shapiro for his comments that greatly improved the manuscript.
+CR Allwine KJ, 2004, 8 S INT OBS ASS SYST
+   Andreas EL, 2012, J APPL METEOROL CLIM, V51, P1685, DOI 10.1175/JAMC-D-11-0248.1
+   Arnold SJ, 2004, SCI TOTAL ENVIRON, V332, P139, DOI 10.1016/j.scitotenv.2004.04.020
+   Baklanov A, 2009, METEOROLOGICAL AND AIR QUALITY MODELS FOR URBAN AREAS, P1, DOI 10.1007/978-3-642-00298-4
+   Barlow J. F., 2009, REV URBAN ROUGHNESS
+   Belcher SE, 2005, PHILOS T R SOC A, V363, P2947, DOI 10.1098/rsta.2005.1673
+   Bentham T, 2003, ATMOS ENVIRON, V37, P2037, DOI 10.1016/S1352-2310(03)00123-7
+   Britter RE, 2003, ANNU REV FLUID MECH, V35, P469, DOI 10.1146/annurev.fluid.35.101101.161147
+   Brown MJ, 2000, 11 C APPL AIR POLL M
+   Caton F, 2003, ATMOS ENVIRON, V37, P693, DOI 10.1016/S1352-2310(02)00830-0
+   Christen A, 2007, INT J CLIMATOL, V27, P1955, DOI 10.1002/joc.1625
+   Christen A, 2009, BOUND-LAY METEOROL, V131, P193, DOI 10.1007/s10546-009-9359-5
+   Cionco RM, 1965, J APPL METEOROL, V4, P517, DOI [10.1175/1520-0450(1965)004<0517:AMMFAF>2.0.CO;2, 10.1175/1520-0450(1965), DOI 10.1175/1520-0450(1965)004<0517:AMMFAF>2.0.CO;2, 10.1175/1520-0450(1965)004&LT;0517:AMMFAF&GT;2.0.CO;2]
+   Dallman A, 2013, ENVIRON FLUID MECH, V13, P279, DOI 10.1007/s10652-013-9274-7
+   Di Sabatino S, 2008, BOUND-LAY METEOROL, V127, P131, DOI 10.1007/s10546-007-9250-1
+   Eliasson I, 2006, ATMOS ENVIRON, V40, P1, DOI 10.1016/j.atmosenv.2005.03.031
+   Fernando HJS, 2010, PHYS FLUIDS, V22, DOI 10.1063/1.3407662
+   Grimmond CSB, 2011, INT J CLIMATOL, V31, P244, DOI 10.1002/joc.2227
+   Grimmond CSB, 2010, PROCEDIA ENVIRON SCI, V1, P247, DOI 10.1016/j.proenv.2010.09.016
+   Grimmond CSB, 2010, J APPL METEOROL CLIM, V49, P1268, DOI 10.1175/2010JAMC2354.1
+   Hanna S, 2007, BOUND-LAY METEOROL, V125, P441, DOI [10.1007/s10546-007-9197-2, 10.1007/S10546-007-9197-2]
+   Huq P, 2013, BOUND-LAY METEOROL, V147, P103, DOI 10.1007/s10546-012-9780-z
+   Kanda M, 2006, BOUND-LAY METEOROL, V121, P339, DOI 10.1007/s10546-006-9063-7
+   Kastner-Klein P, 2004, BOUND-LAY METEOROL, V111, P55, DOI 10.1023/B:BOUN.0000010994.32240.b1
+   Kastner-Klein P, 2004, METEOROL ATMOS PHYS, V87, P121, DOI [10.1007/s00703-003-0065-4, 10.1007/S00703-003-0065-4]
+   Klein P, 2007, INT J CLIMATOL, V27, P1887, DOI 10.1002/joc.1581
+   Klein P, 2007, J APPL METEOROL CLIM, V46, P851, DOI 10.1175/JAM2494.1
+   Klein PM, 2012, 16 INT S ADV BOUND L
+   Louka P, 2000, ATMOS ENVIRON, V34, P2613, DOI 10.1016/S1352-2310(99)00477-X
+   Macdonald RW, 2000, BOUND-LAY METEOROL, V97, P25, DOI 10.1023/A:1002785830512
+   McPherson RA, 2007, J ATMOS OCEAN TECH, V24, P301, DOI 10.1175/JTECH1976.1
+   Nelson MA, 2007, J APPL METEOROL CLIM, V46, P2038, DOI 10.1175/2006JAMC1427.1
+   Nelson MA, 2007, J APPL METEOROL CLIM, V46, P2055, DOI 10.1175/2006JAMC1290.1
+   Nelson MA, 2011, BOUND-LAY METEOROL, V140, P143, DOI 10.1007/s10546-011-9610-8
+   Oke TR, 1988, ENERGY BUILD, V11, P103, DOI [10.1016/ 0378- 7788( 88) 90026- 6, DOI 10.1016/0378-7788(88)90026-6]
+   Rafailidis S, 1997, BOUND-LAY METEOROL, V85, P255, DOI 10.1023/A:1000426316328
+   ROTACH MW, 1995, ATMOS ENVIRON, V29, P1473, DOI 10.1016/1352-2310(95)00084-C
+   Rotach MW, 2005, THEOR APPL CLIMATOL, V81, P231, DOI 10.1007/s00704-004-0117-9
+   Roth M, 2000, Q J ROY METEOR SOC, V126, P941, DOI 10.1256/smsqj.56408
+   Salizzoni P, 2009, ATMOS ENVIRON, V43, P5056, DOI 10.1016/j.atmosenv.2009.06.045
+   Salizzoni P, 2011, BOUND-LAY METEOROL, V141, P393, DOI 10.1007/s10546-011-9641-1
+   Soulhac L, 2013, ATMOS ENVIRON, V67, P229, DOI 10.1016/j.atmosenv.2012.10.053
+   Stull R. B, 2000, METEOROLOGY SCI ENG
+   THIERMANN V, 1992, BOUND-LAY METEOROL, V58, P367, DOI 10.1007/BF00120238
+   Van Kesteren B, 2014, BOUND-LAY METEOROL, V151, P257, DOI 10.1007/s10546-013-9891-1
+   Wood CR, 2009, B AM METEOROL SOC, V90, P955, DOI 10.1175/2009BAMS2638.1
+   Zajic D, 2011, J APPL METEOROL CLIM, V50, P203, DOI 10.1175/2010JAMC2525.1
+NR 47
+TC 9
+Z9 9
+U1 5
+U2 27
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1567-7419
+EI 1573-1510
+J9 ENVIRON FLUID MECH
+JI Environ. Fluid Mech.
+PD APR
+PY 2015
+VL 15
+IS 2
+BP 419
+EP 438
+DI 10.1007/s10652-014-9352-5
+PG 20
+WC Environmental Sciences; Mechanics; Meteorology & Atmospheric Sciences;
+   Oceanography; Water Resources
+SC Environmental Sciences & Ecology; Mechanics; Meteorology & Atmospheric
+   Sciences; Oceanography; Water Resources
+GA CI0ZI
+UT WOS:000354468800010
+DA 2019-03-26
+ER
+
+PT B
+AU Marmureanu, G
+   Cioflan, CO
+   Marmureanu, A
+   Ionescu, C
+   Manea, EF
+AF Marmureanu, Gheorghe
+   Cioflan, Carmen Ortanza
+   Marmureanu, Alexandru
+   Ionescu, Constantin
+   Manea, Elena Florinela
+BE Ansal, A
+TI Bridging the Gap Between Nonlinear Seismology as Reality and Earthquake
+   Engineering
+SO PERSPECTIVES ON EUROPEAN EARTHQUAKE ENGINEERING AND SEISMOLOGY, VOL 2
+SE Geotechnical Geological and Earthquake Engineering
+LA English
+DT Proceedings Paper
+CT 2nd European Conference on Earthquake Engineering and Seismology
+   (2ECEES)
+CY AUG 24-29, 2014
+CL Istanbul, TURKEY
+AB In seismic hazard evaluation and risk mitigation, there are many random and epistemic uncertainties. On the another hand, the researches in this area as part of knowledge are with rest, that is, the results are with interpretable questions with open answers. The knowledge cannot be exhausted by results. The authors developed in last time the concept of "Nonlinear Seismology - The Seismology of the XXI Century" (Marmureanu et al. Nonlinear seismology-the seismology of XXI century. In: Modern seismology perspectives, vol 105. Springer, New York, pp 49-70, 2005).
+   The leading question is: how many cities, villages, metropolitan areas, etc., in seismic regions are constructed on rock? Most of them are located on soil deposits. A soil is of basic type sand or gravel (termed coarse soils), silt or clay (termed fine soils), etc. Strong ground accelerations from large earthquakes can produce a nonlinear response in shallow soils. This can be studied by comparing surface and borehole seismic records for earthquakes of different sizes. When a nonlinear site response is present, then the shaking from large earthquakes cannot be predicted by simple scaling of records from small earthquakes (Shearer, Introduction to seismology, 2nd edn. Cambridge University Press, Cambridge, 2009). Nonlinear amplification at sediments sites appears to be more pervasive than seismologists used to think... Any attempt at seismic zonation must take into account the local site condition and this nonlinear amplification (Aki, Tectonophysics 218: 93-111, 1993).
+   The difficulty for seismologists is to demonstrate the nonlinear site effects, these being overshadowed by the overall patterns of shock generation and propagation. In other words, the seismological detection of the nonlinear site effects requires a simultaneous understanding/knowledge of earthquake source, propagation path, and local geological site conditions. To see the actual influence of nonlinearity of the whole system (seismic source-path propagation-local geological structure), the authors used to study the free field response spectra which are the last in this chain and are taken into account in seismic design of all structures. Soils from the local geological structure at the recording site exhibit a strong nonlinear behavior under cyclic loading conditions and although they have many common mechanical properties, the use of different models to describe their seismic behavior is required.
+   The studies made by the authors in this chapter show that using real spectral amplification factors (SAF), amplifications showing local effects, have values which differ totally from those of crustal earthquakes. The spectral amplifications highlight strong nonlinear response of soil composed of fractured limestone, limestone with clay, marl, sands, clay, etc., and these amplifications are strongly dependent of earthquake magnitude and nature of soils from site. Finally, these amplifiers are compared to those from Regulatory Guide 1.60 of the U. S. Atomic Energy Commission (Design response spectra for seismic design of nuclear power plants. Regulatory Guide 1.60. Rev. 1, Washington, D.C., 1973) which can be used only for crustal earthquakes and not for deep and strong Vrancea earthquakes from Romania. The study of the nonlinear behavior of soils during strong earthquakes may clarify uncertainties in ground motion prediction equations used by probabilistic and classical deterministic seismic hazard analysis.
+C1 [Marmureanu, Gheorghe; Cioflan, Carmen Ortanza; Manea, Elena Florinela] NIEP, Dept Engn Seismol, Bucharest, Romania.
+   [Marmureanu, Gheorghe; Cioflan, Carmen Ortanza; Manea, Elena Florinela] Fac Phys, Bucharest, Romania.
+   [Marmureanu, Alexandru; Ionescu, Constantin] NIEP, Dept Natl Seism Network, Bucharest, Romania.
+RP Marmureanu, G (reprint author), NIEP, Dept Engn Seismol, Bucharest, Romania.
+EM marmur@infp.ro; cioflan@infp.ro; marmura@infp.ro; viorel@infp.ro;
+   manea.elena@infp.ro
+CR AKI K, 1993, TECTONOPHYSICS, V218, P93, DOI 10.1016/0040-1951(93)90262-I
+   Benjamin J. R., 1970, PROBABILITY STAT DEC
+   Borcherdt R. D., 2009, VISCOELASTIC WAVES L
+   Bratosin D, 2002, SOIL DYNAMICS ELEMEN, P136
+   Cioflan CO, 2011, ROM REP PHYS, V63, P839
+   CORNELL CA, 1968, B SEISMOL SOC AM, V58, P1583
+   Cornell CA, 1971, J SEISMOL EARTHQ ENG
+   Grecu B., 2007, JSEE, V9, P1
+   Klvgel JU, 2014, LESSONS NOT YET LEAR
+   Mandrescu N, 2008, INTEGRATE RES GEOLOG, P134
+   Marmureanu G., 2005, LECT NOTES EARTH SCI, V105, P47
+   Marmureanu G, 2013, ROM REP PHYS, V65, P512
+   Shearer P. M., 2009, INTRO SEISMOLOGY
+   United States Atomic Energy Commission, 1973, DES RESP SPECTR SEIS
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 4
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+BN 978-3-319-16964-4; 978-3-319-16963-7
+J9 GEOTECH GEOL EARTHQ
+PY 2015
+VL 39
+BP 409
+EP 428
+DI 10.1007/978-3-319-16964-4_17
+PG 20
+WC Engineering, Civil; Engineering, Geological
+SC Engineering
+GA BF3FF
+UT WOS:000380534700017
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Larsen, DA
+   Chisha, Z
+   Winters, B
+   Mwanza, M
+   Kamuliwo, M
+   Mbwili, C
+   Hawela, M
+   Hamainza, B
+   Chirwa, J
+   Craig, AS
+   Rutagwera, MR
+   Lungu, C
+   Ngwenya-Kangombe, T
+   Cheelo, S
+   Miller, JM
+   Bridges, DJ
+   Winters, AM
+AF Larsen, David A.
+   Chisha, Zunda
+   Winters, Benjamin
+   Mwanza, Mercie
+   Kamuliwo, Mulakwa
+   Mbwili, Clara
+   Hawela, Moonga
+   Hamainza, Busiku
+   Chirwa, Jacob
+   Craig, Allen S.
+   Rutagwera, Marie-Reine
+   Lungu, Chris
+   Ngwenya-Kangombe, Tokozile
+   Cheelo, Sanford
+   Miller, John M.
+   Bridges, Daniel J.
+   Winters, Anna M.
+TI Malaria surveillance in low-transmission areas of Zambia using reactive
+   case detection
+SO MALARIA JOURNAL
+LA English
+DT Article
+DE Malaria surveillance; Reactive case detection; Elimination; Urban;
+   Rural; Community health worker; DHIS2
+ID ACTIVE CASE DETECTION; SOUTHERN ZAMBIA; SCALING-UP; ELIMINATION; IMPACT;
+   EPIDEMIOLOGY; STRATEGIES; PROGRESS; BURDEN
+AB Background: Repeat national household surveys suggest highly variable malaria transmission and increasing coverage of high-impact malaria interventions throughout Zambia. Many areas of very low malaria transmission, especially across southern and central regions, are driving efforts towards sub-national elimination.
+   Case description: Reactive case detection (RCD) is conducted in Southern Province and urban areas of Lusaka in connection with confirmed incident malaria cases presenting to a community health worker (CHW) or clinic and suspected of being the result of local transmission. CHWs travel to the household of the incident malaria case and screen individuals living in adjacent houses in urban Lusaka and within 140 m in Southern Province for malaria infection using a rapid diagnostic test, treating those testing positive with artemether-lumefantrine.
+   Discussion: Reactive case detection improves access to health care and increases the capacity for the health system to identify malaria infections. The system is useful for targeting malaria interventions, and was instrumental for guiding focal indoor residual spraying in Lusaka during the 2014/2015 spray season. Variations to maximize impact of the current RCD protocol are being considered, including the use of anti-malarials with a longer lasting, post-treatment prophylaxis.
+   Conclusion: The RCD system in Zambia is one example of a malaria elimination surveillance system which has increased access to health care within rural communities while leveraging community members to build malaria surveillance capacity.
+C1 [Larsen, David A.; Chisha, Zunda; Winters, Benjamin; Ngwenya-Kangombe, Tokozile; Cheelo, Sanford; Bridges, Daniel J.; Winters, Anna M.] Akros, Lusaka, Zambia.
+   [Larsen, David A.] Syracuse Univ, Dept Publ Hlth Food Studies & Nutr, Syracuse, NY USA.
+   [Winters, Benjamin; Mwanza, Mercie; Hawela, Moonga; Hamainza, Busiku] Govt Republ Zambia, Natl Malaria Control Ctr, Minist Hlth, Lusaka, Zambia.
+   [Mbwili, Clara] Govt Republ Zambia, Lusaka Community Dist Med Off, Minist Community Dev Mother & Child Hlth, Lusaka, Zambia.
+   [Craig, Allen S.] Ctr Dis Control & Prevent, Malaria Branch, Atlanta, GA USA.
+   [Craig, Allen S.] Ctr Dis Control & Prevent, US Presidents Malaria Initiat, Global Immunizat Div, Atlanta, GA USA.
+   [Rutagwera, Marie-Reine; Lungu, Chris; Miller, John M.] PATH Malaria Control & Eliminat Partnership Afric, Lusaka, Zambia.
+   [Winters, Benjamin; Winters, Anna M.] Univ Montana, Sch Publ & Community Hlth Sci, Missoula, MT 59812 USA.
+RP Winters, AM (reprint author), Akros, Great East Rd, Lusaka, Zambia.
+EM awinters@akros.com
+RI Larsen, David/D-4027-2016
+OI Larsen, David/0000-0002-1876-6536
+FU US President's Malaria Initiative; US Agency for International
+   Development; PATH Malaria Control and Elimination Partnership in Africa
+FX This publication was made possible through support provided by the US
+   President's Malaria Initiative, US Agency for International Development
+   and PATH Malaria Control and Elimination Partnership in Africa. The
+   opinions expressed herein are those of the authors and do not
+   necessarily reflect the views of the US Agency for International
+   Development or PATH. The authors are grateful for the involvement of all
+   MOH and MCDMCH staff in the rollout of the RCD programme and commend
+   members of the Lusaka, Central, Western and Southern Province and
+   district offices in their continued support and oversight of the RCD
+   programme.
+CR [Anonymous], 2014, SURV SYST FAC MAL EL, P1
+   Bennett A, 2014, POPUL HEALTH METR, V12, DOI 10.1186/s12963-014-0030-0
+   Bousema T, 2012, PLOS MED, V9, DOI 10.1371/journal.pmed.1001165
+   Breman JG, 2001, AM J TROP MED HYG, V64, P1
+   Carter R, 2000, B WORLD HEALTH ORGAN, V78, P1401
+   Chanda P, 2011, MALARIA J, V10, DOI 10.1186/1475-2875-10-158
+   Chizema-Kawesha E, 2010, AM J TROP MED HYG, V83, P480, DOI 10.4269/ajtmh.2010.10-0035
+   Cotter C, 2013, LANCET, V382, P900, DOI 10.1016/S0140-6736(13)60310-4
+   Drakeley C, 2006, TRENDS PARASITOL, V22, P424, DOI 10.1016/j.pt.2006.07.001
+   Government of the Republic of Zambia Ministry of Health, 2012, ZAMB NAT MAL IND SUR
+   Hay SI, 2005, NAT REV MICROBIOL, V3, P81, DOI 10.1038/nrmicro1069
+   Hay SI, 2008, LANCET INFECT DIS, V8, P369, DOI 10.1016/S1473-3099(08)70069-0
+   Herdiana H, 2013, MALARIA J, V12, DOI 10.1186/1475-2875-12-42
+   Larsen DA, 2015, AM J TROP MED HYG, V92, P913, DOI 10.4269/ajtmh.14-0347
+   Littrell M, 2013, MALARIA J, V12, DOI 10.1186/1475-2875-12-331
+   Macauley C, 2005, SOC SCI MED, V60, P563, DOI 10.1016/j.socscimed.2004.05.025
+   Ministerio de Energia, 2014, EL MAL PROGR SUBN EL, P1
+   Moonen B, 2010, LANCET, V376, P1592, DOI 10.1016/S0140-6736(10)61269-X
+   Okell LC, 2012, NAT COMMUN, V3, DOI 10.1038/ncomms2241
+   Sanders K, 2012, MALARIA CHEMOTHERAPY, V1
+   Schellenberg JA, 1998, INT J EPIDEMIOL, V27, P323, DOI 10.1093/ije/27.2.323
+   Silumbe K, 2015, MALARIA J, V14, DOI 10.1186/s12936-015-0686-3
+   Steketee RW, 2008, AM J TROP MED HYG, V79, P45, DOI 10.4269/ajtmh.2008.79.45
+   Stresman GH, 2010, MALARIA J, V9, DOI 10.1186/1475-2875-9-265
+   Wesolowski A, 2012, SCIENCE, V338, P267, DOI 10.1126/science.1223467
+   World Health Organization Malaria Policy Advisory Committee and Secretariat, 2015, MALARIA J, V14, P107
+NR 26
+TC 17
+Z9 17
+U1 0
+U2 6
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1475-2875
+J9 MALARIA J
+JI Malar. J.
+PD NOV 19
+PY 2015
+VL 14
+AR 465
+DI 10.1186/s12936-015-0895-9
+PG 9
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA CW3PV
+UT WOS:000364905100001
+PM 26586264
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

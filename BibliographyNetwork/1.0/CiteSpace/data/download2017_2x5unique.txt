@@ -1,0 +1,466 @@
+
+PT J
+AU Fragkias, M
+   Lobo, J
+   Seto, KC
+AF Fragkias, Michail
+   Lobo, Jose
+   Seto, Karen C.
+TI A comparison of nighttime lights data for urban energy research:
+   Insights from scaling analysis in the US system of cities
+SO ENVIRONMENT AND PLANNING B-URBAN ANALYTICS AND CITY SCIENCE
+DE Nighttime lights; energy use; urban areas; infrastructure; planning;
+   sustainability; US
+ID ELECTRIC-POWER CONSUMPTION; OPERATIONAL LINESCAN SYSTEM; DMSP-OLS DATA;
+   HUMAN-SETTLEMENTS; EMISSIONS; IMAGERY; METABOLISM; SATURATION; SCALES;
+   GROWTH
+AB Urban areas contribute to about 75% of global fossil fuel CO2 emissions and are a primary driver of climate change. If greenhouse gas emissions for the top 20 emitting urban areas were aggregated into a one country, it would rank third behind China and the US. With urban areas forecasted to triple between 2010 and 2030 and urban population expected to increase by more than 2.5 billion, sustainable development will require a better understanding of how different types of urbanization affect energy use. However, there is a scarcity of data on energy use at the urban level that are available globally. Nighttime light satellite data have been shown to be related to energy use, but to date there has not been a systematic comparison of how well different sources of nighttime light data and their derived products can proxy electricity use. This paper fills this gap. First, we perform a comparative analysis of different types of nighttime light satellite data to proxy for electricity use for US cities. Second, we examine how the different types of nighttime light satellite data scale with the size of urban settlements and connect these findings to recent theoretical advances in scaling. We find that (1) all measures of nighttime light and urban electricity use in the US are strongly correlated and (2) different nighttime light-derived data can measure distinct urban energy characteristics such as energy infrastructure volume versus energy use. Our results do not show a clear best nighttime light proxy for total electricity consumption, despite of the use of higher spatial and temporal resolution data.
+RI Seto, Karen/C-2722-2008
+CR Baccini P, 1997, J URBAN TECHNOL, V4, P27, DOI 10.1080/10630739708724555
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Bettencourt LMA Lobo J., 2015, PHYS SOC
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Brock W., 1999, IND CORP CHANGE, V8, P409, DOI DOI 10.1093/ICC/8.3.409
+   Cao X, 2014, INT J APPL EARTH OBS, V28, P193, DOI 10.1016/j.jag.2013.12.004
+   Chand TRK, 2009, INT J REMOTE SENS, V30, P647, DOI 10.1080/01431160802345685
+   Chen Y, 2010, DISCRETE DYN NAT SOC, V2010, P1, DOI DOI 10.1155/2010/974917
+   Coelho D, 2006, WIT TRANS ECOL ENVIR, V93, P179, DOI 10.2495/SC060171
+   CROFT TA, 1978, SCI AM, V239, P86, DOI 10.1038/scientificamerican0778-86
+   Doll CNH, 2000, AMBIO, V29, P157, DOI 10.1639/0044-7447(2000)029[0157:NTIAAT]2.0.CO;2
+   Elvidge CD, 1997, INT J REMOTE SENS, V18, P1373, DOI 10.1080/014311697218485
+   Elvidge CD, 1997, GLOB CHANGE BIOL, V3, P387, DOI 10.1046/j.1365-2486.1997.00115.x
+   Elvidge CD, 1997, PHOTOGRAMM ENG REM S, V63, P727
+   Elvidge CD, 1999, REMOTE SENS ENVIRON, V68, P77, DOI 10.1016/S0034-4257(98)00098-4
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   GLAESER EL, 1995, J MONETARY ECON, V36, P117, DOI 10.1016/0304-3932(95)01206-2
+   Hall P., 1998, CITIES CIVILIZATION
+   Harte J, 2011, OX ECOL EV, P1, DOI 10.1093/acprof:oso/9780199593415.001.0001
+   He CY, 2012, J GEOGR SCI, V22, P125, DOI 10.1007/s11442-012-0916-3
+   JONES DW, 1991, ENERG POLICY, V19, P621, DOI 10.1016/0301-4215(91)90094-5
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kleiber M., 1961, FIRE LIFE INTRO ANIM
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   Letu H, 2010, INT J REMOTE SENS, V31, P4443, DOI 10.1080/01431160903277464
+   Meng LN, 2014, ENERGY, V71, P468, DOI 10.1016/j.energy.2014.04.103
+   Oliveira EA, 2014, SCI REPORTS, V4
+   Payne JE, 2010, J ECON STUD, V37, P53, DOI 10.1108/01443581011012261
+   Raupach MR, 2010, ENERG POLICY, V38, P4756, DOI 10.1016/j.enpol.2009.08.021
+   Schmidt-Nielsen K, 1984, SCALING WHY IS ANIMA
+   Seto KC, 2014, IPCC FIFTH ASSESSMEN
+   Shi KF, 2014, REMOTE SENS-BASEL, V6, P1705, DOI 10.3390/rs6021705
+   Smil V., 2008, ENERGY NATURE SOC GE
+   Stanley H. E., 1987, INTRO PHASE TRANSITI
+   Townsend AC, 2010, INT J REMOTE SENS, V31, P4459, DOI 10.1080/01431160903261005
+   Wentz EA, 2014, REMOTE SENS-BASEL, V6, P3879, DOI 10.3390/rs6053879
+   WOLMAN A, 1965, SCI AM, V213, P179
+   *WORLD BANK, 2010, CIT CLIM CHANG URG, DOI DOI 10.1596/978-0-8213-8653-8
+   Zhang QL, 2013, REMOTE SENS ENVIRON, V129, P32, DOI 10.1016/j.rse.2012.10.022
+   Zhang QL, 2011, REMOTE SENS ENVIRON, V115, P2320, DOI 10.1016/j.rse.2011.04.032
+NR 44
+TC 1
+Z9 1
+SN 2399-8083
+EI 2399-8091
+PD NOV
+PY 2017
+VL 44
+IS 6
+BP 1077
+EP 1096
+DI 10.1177/0265813516658477
+UT WOS:000414907900005
+ER
+
+PT J
+AU Zhong, C
+   Schlapfer, M
+   Arisona, SM
+   Batty, M
+   Ratti, C
+   Schmitt, G
+AF Zhong, Chen
+   Schlapfer, Markus
+   Arisona, Stefan Muller
+   Batty, Michael
+   Ratti, Carlo
+   Schmitt, Gerhard
+TI Revealing centrality in the spatial structure of cities from human
+   activity patterns
+SO URBAN STUDIES
+DE polycentricity; travel survey data; spatial convolution; urban
+   centrality; urban functions; urban spatial structure
+ID POLYCENTRIC URBAN REGIONS; FUNCTIONAL POLYCENTRICITY; NETWORK ANALYSIS;
+   EMPLOYMENT; CENTERS; IDENTIFICATION; SUBCENTERS; DIVERSITY; RANDSTAD
+AB Identifying changes in the spatial structure of cities is a prerequisite for the development and validation of adequate planning strategies. Nevertheless, current methods of measurement are becoming ever more challenged by the highly diverse and intertwined ways of how people actually make use of urban space. Here, we propose a new quantitative measure for the centrality of locations, taking into account not only the numbers of people attracted to different locations, but also the diversity of the activities they are engaged in. This 'centrality index' allows for the identification of functional urban centres and for a systematic tracking of their relative importance over time, thus contributing to our understanding of polycentricity. We demonstrate the proposed index using travel survey data in Singapore for different years between 1997 and 2012. It is shown that, on the one hand, the city-state has been developing rapidly towards a polycentric urban form that compares rather closely with the official urban development plan. On the other hand, however, the downtown core has strongly gained in its importance, and this can be partly attributed to the recent extension of the public transit system.
+CR Alonso W., 1964, LOCATION LAND USE GE
+   Anas A, 1998, J ECON LIT, V36, P1426
+   Batty M., 2004, BUILT ENV, V30, P324, DOI DOI 10.2148/BENV30.4324.57156
+   Batty Michael., 2013, NEW SCI CITIES
+   Berry B. J., 1958, PAPERS P REGIONAL SC, V4, P107, DOI [10.1111/j.1435-5597.1958.tb01625.x, DOI 10.1111/J.1435-5597.1958.TB01625.X]
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Buliung RN, 2011, ANN ASSOC AM GEOGR, V101, P1365, DOI 10.1080/00045608.2011.583568
+   Burger M, 2012, URBAN STUD, V49, P1127, DOI 10.1177/0042098011407095
+   Burger MJ, 2014, EUR PLAN STUD, V22, P816, DOI 10.1080/09654313.2013.771619
+   Cervero R, 1997, TRANSPORT RES D-TR E, V2, P199, DOI 10.1016/S1361-9209(97)00009-6
+   Champion AG, 2001, URBAN STUD, V38, P657, DOI 10.1080/00420980124955
+   Cheong CC, 2010, JOURNEYS, V4, P52
+   Christaller W., 1933, CENTRAL PLACES SO GE
+   De Goei B, 2010, REG STUD, V44, P1149, DOI 10.1080/00343400903365102
+   Field BG, 1999, PROPERTY MANAGEMENT, V17, P139
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Green N, 2007, URBAN STUD, V44, P2077, DOI 10.1080/00420980701518941
+   GREENE DL, 1980, GROWTH CHANGE, V11, P29, DOI 10.1111/j.1468-2257.1980.tb00427.x
+   Hall P., 2009, INT ENCY HUMAN GEOGR, V8, P260
+   Hall Peter G., 2006, POLYCENTRIC METROPOL
+   Harrison A., 2003, DISTRIBUTED WORKPLAC
+   Hess PM, 2001, TRANSPORT RES REC, P17
+   Hidalgo CA, 2009, P NATL ACAD SCI USA, V106, P10570, DOI 10.1073/pnas.0900943106
+   Hillier B., 1996, SPACE IS MACHINE CON
+   HORTON FE, 1971, ECON GEOGR, V47, P36, DOI 10.2307/143224
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   Kloosterman RC, 2001, URBAN STUD, V38, P623, DOI 10.1080/00420980120035259
+   Kloosterman RC, 2001, URBAN STUD, V38, P717, DOI 10.1080/00420980120035303
+   Kockelman K. M., 1997, TRANSPORT RES REC, V1607, P116, DOI DOI 10.3141/1607-16
+   Lambregts B., 2006, BUILT ENV, V32, P114, DOI DOI 10.2148/BENV.32.2.114
+   Losch A., 1954, EC LOCATION
+   MCDONALD JF, 1994, URBAN STUD, V31, P201, DOI 10.1080/00420989420080201
+   MCDONALD JF, 1987, J URBAN ECON, V21, P242, DOI 10.1016/0094-1190(87)90017-9
+   McMillen DP, 2001, J URBAN ECON, V50, P448, DOI 10.1006/juec.2001.2228
+   Medina A Ordonez, 2013, TRANSP RES BOARD TRB
+   Meijers E, 2008, EUR PLAN STUD, V16, P1313, DOI 10.1080/09654310802401805
+   MORAN PAP, 1950, BIOMETRIKA, V37, P17, DOI 10.2307/2332142
+   Parr JB, 2004, REG STUD, V38, P231, DOI 10.1080/003434043000211114
+   Redfearn CL, 2007, J URBAN ECON, V61, P519, DOI 10.1016/j.jue.2006.08.009
+   Reynaud J., 1841, ENCY NOUVELLE, V8, P670
+   Riguelle F, 2007, J ECON GEOGR, V7, P193, DOI 10.1093/jeg/lbl025
+   ROBIC M-C, 1982, ESPACE GEOGRAPHIQUE, V1, P5
+   Rodrigue J., 2009, GEOGRAPHY TRANSPORT
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   Taylor PJ, 2002, CITIES, V19, P231, DOI 10.1016/S0264-2751(02)00020-3
+   Thiemann C, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0015422
+   Thurstain-Goodwin M., 2000, T GIS, V4, P305, DOI DOI 10.1111/1467-9671.00058
+   Toole J.L., 2012, P ACM SIGKDD INT WOR
+   van Oort F, 2010, URBAN STUD, V47, P725, DOI 10.1177/0042098009352362
+   Vasanen A, 2012, URBAN STUD, V49, P3627, DOI 10.1177/0042098012447000
+   Young I., 1998, FUNDAMENTALS IMAGE P
+   Yuan J., 2012, P 18 ACM SIGKDD INT, P186, DOI [DOI 10.1145/2339530.2339561, 10.1145/2339530.23395612-s2.0-84866045445]
+   Zhong C, 2014, INT J GEOGR INF SCI, V28, P2178, DOI 10.1080/13658816.2014.914521
+NR 55
+TC 10
+Z9 11
+SN 0042-0980
+EI 1360-063X
+PD FEB
+PY 2017
+VL 54
+IS 2
+BP 437
+EP 455
+DI 10.1177/0042098015601599
+UT WOS:000397164500007
+ER
+
+PT J
+AU Zalasiewicz, J
+   Williams, M
+   Waters, CN
+   Barnosky, AD
+   Palmesino, J
+   Ronnskog, AS
+   Edgeworth, M
+   Neal, C
+   Cearreta, A
+   Ellis, EC
+   Grinevald, J
+   Haff, P
+   do Sul, JAI
+   Jeandel, C
+   Leinfelder, R
+   McNeil, JR
+   Odada, E
+   Oreskes, N
+   Price, SJ
+   Revkin, A
+   Steffen, W
+   Summerhayes, C
+   Vidas, D
+   Wing, S
+   Wolfe, AP
+AF Zalasiewicz, Jan
+   Williams, Mark
+   Waters, Colin N.
+   Barnosky, Anthony D.
+   Palmesino, John
+   Ronnskog, Ann-Sofi
+   Edgeworth, Matt
+   Neal, Cath
+   Cearreta, Alejandro
+   Ellis, Erle C.
+   Grinevald, Jacques
+   Haff, Peter
+   do Sul, Juliana A. Ivar
+   Jeandel, Catherine
+   Leinfelder, Reinhold
+   McNeil, John R.
+   Odada, Eric
+   Oreskes, Naomi
+   Price, Simon James
+   Revkin, Andrew
+   Steffen, Will
+   Summerhayes, Colin
+   Vidas, Davor
+   Wing, Scott
+   Wolfe, Alexander P.
+TI Scale and diversity of the physical technosphere: A geological
+   perspective
+SO ANTHROPOCENE REVIEW
+DE Anthropocene; anthroposphere; artefacts; stratigraphy; technology;
+   technosphere
+ID ANTHROPOGENIC DEPOSITS; TOOL USE; FLY-ASH; ANTHROPOCENE; BIOSPHERE;
+   STRATIGRAPHY; LANDSCAPE; EVOLUTION; FUTURE; DRIVER
+AB We assess the scale and extent of the physical technosphere, defined here as the summed material output of the contemporary human enterprise. It includes active urban, agricultural and marine components, used to sustain energy and material flow for current human life, and a growing residue layer, currently only in small part recycled back into the active component. Preliminary estimates suggest a technosphere mass of approximately 30 trillion tonnes (Tt), which helps support a human biomass that, despite recent growth, is similar to 5 orders of magnitude smaller. The physical technosphere includes a large, rapidly growing diversity of complex objects that are potential trace fossils or 'technofossils'. If assessed on palaeontological criteria, technofossil diversity already exceeds known estimates of biological diversity as measured by richness, far exceeds recognized fossil diversity, and may exceed total biological diversity through Earth's history. The rapid transformation of much of Earth's surface mass into the technosphere and its myriad components underscores the novelty of the current planetary transformation.
+OI IVAR DO SUL, JULIANA/0000-0003-0851-3559
+CR Albright R, 2016, NATURE, V531, P362, DOI 10.1038/nature17155
+   Barnosky AD, 2008, P NATL ACAD SCI USA, V105, P11543, DOI 10.1073/pnas.0801918105
+   Basalla G, 1988, EVOLUTION TECHNOLOGY
+   Bednarsek N, 2012, NAT GEOSCI, V5, P881, DOI 10.1038/NGEO1635
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brocke HJ, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0125445
+   Carver M, 1987, ENGLISH TOWNS INTERP
+   Cocroft W., 2012, BRIT ARCHAEOLOGY, V126, P38
+   de Beer J, 2012, QUATERN INT, V251, P107, DOI 10.1016/j.quaint.2011.06.015
+   Edgeworth M, 2014, GEOL SOC SPEC PUBL, V395, P91, DOI 10.1144/SP395.3
+   Edgeworth M, 2015, ANTHROPOCENE REV, V2, P33, DOI 10.1177/2053019614565394
+   Ellis EC, 2015, ECOL MONOGR, V85, P287, DOI 10.1890/14-2274.1
+   Ellis EC, 2010, GLOBAL ECOL BIOGEOGR, V19, P589, DOI 10.1111/j.1466-8238.2010.00540.x
+   Ford JR, 2014, GEOL SOC SPEC PUBL, V395, P55, DOI 10.1144/SP395.12
+   Gattuso JP, 2009, ENCY EARTH ENV INFOR
+   Gorman A, 2014, J CONTEMP ARCHAEOL, V1, P87, DOI 10.1558/jca.v1i1.87
+   Haff PK, 2014, GEOL SOC SPEC PUBL, V395, P301, DOI 10.1144/SP395.4
+   HALL CAS, 1975, B ATOM SCI, V31, P11, DOI 10.1080/00963402.1975.11458211
+   Hodder I, 2011, J ROY ANTHROPOL INST, V17, P154, DOI 10.1111/j.1467-9655.2010.01674.x
+   Hooke R. LeB, 2012, GSA TODAY, V22, P4, DOI DOI 10.1130/GSAT151A.1
+   do Sul JAI, 2014, ENVIRON POLLUT, V185, P352, DOI 10.1016/j.envpol.2013.10.036
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Koops K, 2015, SCI REP-UK, V5, DOI 10.1038/srep11356
+   Krutzen M, 2005, P NATL ACAD SCI USA, V102, P8939, DOI 10.1073/pnas.0500232102
+   Liu ZF, 2014, LANDSCAPE ECOL, V29, P763, DOI 10.1007/s10980-014-0034-y
+   Martin J, 2014, ANTHROPOCENE, V7, P1, DOI 10.1016/j.ancene.2015.01.002
+   Mesoudi A, 2006, BEHAV BRAIN SCI, V29, P329, DOI 10.1017/S0140525X06009083
+   Mielke H-J, 2011, WALD POLITIK UNENDLI
+   MILSUM JH, 1968, IEEE SPECTRUM, V5, P76, DOI 10.1109/MSPEC.1968.5214690
+   Mora C, 2011, PLOS BIOL, V9, DOI 10.1371/journal.pbio.1000606
+   Nakicenovic N, 2012, GLOBAL ENERGY ASSESS
+   Oldfield F, 2015, ANTHROPOCENE REV, V2, P3, DOI 10.1177/2053019614534402
+   Pauly D, 1998, SCIENCE, V279, P860, DOI 10.1126/science.279.5352.860
+   Roelofs YC, 2010, THESIS
+   Rose NL, 2015, ENVIRON SCI TECHNOL, V49, P4155, DOI 10.1021/acs.est.5b00543
+   ROWSOME P, 2000, HEART CITY ROMAN MED
+   Rubino M, 2013, J GEOPHYS RES-ATMOS, V118, P8482, DOI 10.1002/jgrd.50668
+   Saunders A, 2005, LONDON COUNTY COUNCI
+   Sherman RL, 2006, WIT TRANS ECOL ENVIR, V88, P215, DOI 10.2495/CENV060211
+   Smil V, 2011, POPUL DEV REV, V37, P613, DOI 10.1111/j.1728-4457.2011.00450.x
+   Steffen W, 2015, ANTHROPOCENE REV, V2, P81, DOI 10.1177/2053019614564785
+   Syvitski JPM, 2011, PHILOS T R SOC A, V369, P957, DOI 10.1098/rsta.2010.0329
+   Tyrrell T, 2011, PHILOS T R SOC A, V369, P887, DOI [10.1098/rsta.2010.0334, 10.1098/rsta.2010.0331]
+   Vernadsky V., 1929, LA BIOSPHERE
+   Waters CN, 2016, SCIENCE, V351, P137, DOI 10.1126/science.aad2622
+   Waters CN, 2015, B ATOM SCI, V71, P46, DOI 10.1177/0096340215581357
+   WBGU, 2013, WORLD TRANS GOV MAR
+   Williams M, 2015, ANTHROPOCENE REV, V2, P196, DOI 10.1177/2053019615591020
+   Wright JP, 2002, OECOLOGIA, V132, P96, DOI 10.1007/s00442-002-0929-1
+   Zalasiewicz J, 2016, ANTHROPOCENE, V13, P4, DOI 10.1016/j.ancene.2016.01.002
+   Zalasiewicz J, 2014, ANTHROPOCENE, V6, P3, DOI [10.1016/j.ancene.2014.07.002, 10.1177/2053019613514953]
+   Zalasiewicz J, 2014, GEOL SOC SPEC PUBL, V395, P109, DOI 10.1144/SP395.2
+   Zalasiewicz J, 2014, GEOL SOC SPEC PUBL, V395, P39, DOI 10.1144/SP395.16
+   Zalasiewicz J, 2011, PHILOS T R SOC A, V369, P1036, DOI 10.1098/rsta.2010.0315
+   Zhu T, 2012, IMPACT MEGACITIES AI
+NR 55
+TC 13
+Z9 14
+SN 2053-0196
+EI 2053-020X
+PD APR
+PY 2017
+VL 4
+IS 1
+SI SI
+BP 9
+EP 22
+DI 10.1177/2053019616677743
+UT WOS:000447103500002
+ER
+
+PT J
+AU Hu, YJ
+   Ye, XY
+   Shaw, SL
+AF Hu, Yingjie
+   Ye, Xinyue
+   Shaw, Shih-Lung
+TI Extracting and analyzing semantic relatedness between cities using news
+   articles
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+DE Place relatedness; city network; semantic analysis; geospatial
+   semantics; spatial data mining; geographic knowledge discovery
+ID WORLD CITY NETWORK; WEB PAGES; 1ST LAW; WORDNET; HIERARCHIES; KNOWLEDGE;
+   SERVICES; MODELS; TOPICS; GROWTH
+AB News articles capture a variety of topics about our society. They reflect not only the socioeconomic activities that happened in our physical world, but also some of the cultures, human interests, and public concerns that exist only in the perceptions of people. Cities are frequently mentioned in news articles, and two or more cities may co-occur in the same article. Such co-occurrence often suggests certain relatedness between the mentioned cities, and the relatedness may be under different topics depending on the contents of the news articles. We consider the relatedness under different topics as semantic relatedness. By reading news articles, one can grasp the general semantic relatedness between cities; yet, given hundreds of thousands of news articles, it is very difficult, if not impossible, for anyone to manually read them. This paper proposes a computational framework which can read' a large number of news articles and extract the semantic relatedness between cities. This framework is based on a natural language processing model and employs a machine learning process to identify the main topics of news articles. We describe the overall structure of this framework and its individual modules, and then apply it to an experimental dataset with more than 500,000 news articles covering the top 100 US cities spanning a 10-year period. We perform exploratory visualizations of the extracted semantic relatedness under different topics and over multiple years. We also analyze the impact of geographic distance on semantic relatedness and find varied distance decay effects. The proposed framework can be used to support large-scale content analysis in city network research.
+CR Alderson AS, 2004, AM J SOCIOL, V109, P811, DOI 10.1086/378930
+   Ballatore A, 2014, GEOINFORMATICA, V18, P747, DOI 10.1007/s10707-013-0197-8
+   Beaverstock JV, 2000, APPL GEOGR, V20, P43, DOI 10.1016/S0143-6228(99)00016-8
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bingham A, 2010, TWENT CENTURY BR HIS, V21, P225, DOI 10.1093/tcbh/hwq007
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Budanitsky A, 2006, COMPUT LINGUIST, V32, P13, DOI 10.1162/coli.2006.32.1.13
+   Castells M., 1996, RISE NETWORK SOC INF
+   Chen YS, 2017, URBAN STUD, V54, P2652, DOI 10.1177/0042098016646674
+   Cochrane K., 2016, GUARDIAN
+   Cucerzan Silviu, 2007, P C EMP METH NAT LAN, P708, DOI DOI 10.1145/2187836.2187900
+   DEERWESTER S, 1990, J AM SOC INFORM SCI, V41, P391, DOI 10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9
+   Derudder B, 2010, URBAN STUD, V47, P1861, DOI 10.1177/0042098010372682
+   Expert P, 2011, P NATL ACAD SCI USA, V108, P7663, DOI 10.1073/pnas.1018962108
+   Flach Peter, 2012, MACHINE LEARNING ART
+   Flaounas I, 2013, DIGIT JOURNAL, V1, P102, DOI 10.1080/21670811.2012.714928
+   FRIEDMANN J, 1986, DEV CHANGE, V17, P69, DOI 10.1111/j.1467-7660.1986.tb00231.x
+   Gabrilovich E, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1606
+   Gao S, 2017, INT J GEOGR INF SCI, V31, P1245, DOI 10.1080/13658816.2016.1273357
+   Gei J., 2015, P 9 WORKSH GEOGR INF
+   Goodchild MF, 2011, SOC DISPAR H H CARE, P21, DOI 10.1007/978-1-4419-7482-2_2
+   GUARDIAN, 2014, GUARD API DOC
+   Guo DS, 2009, IEEE T VIS COMPUT GR, V15, P1041, DOI 10.1109/TVCG.2009.143
+   Hecht Brent, 2012, Proceedings of the 35th Annual International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR 2012), P415, DOI 10.1145/2348283.2348341
+   Hecht B., 2008, EUROPEAN INFORM SOC
+   Hecht B, 2009, LECT NOTES COMPUT SC, V5756, P88
+   Hoyler M, 2013, TIJDSCHR ECON SOC GE, V104, P90, DOI 10.1111/j.1467-9663.2012.00738.x
+   Hu Y., 2014, P 8 WORKSH GEOGR INF, P8
+   Hu YJ, 2015, T GIS, V19, P398, DOI 10.1111/tgis.12151
+   Jacomy M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0098679
+   Jones CB, 2008, INT J GEOGR INF SCI, V22, P1045, DOI [10.1080/13658810701850547, 10.1080/00207720802085245]
+   Jones CB, 2008, INT J GEOGR INF SCI, V22, P219, DOI 10.1080/13658810701626343
+   Ju Y., 2016, 20 INT C KNOWL ENG K, P10024
+   Kozima Hideki, 1993, P 6 C EUR CHAPT ASS, P232
+   Liu XJ, 2012, GEOGR ANAL, V44, P171, DOI 10.1111/j.1538-4632.2012.00844.x
+   Liu Y, 2014, T GIS, V18, P89, DOI 10.1111/tgis.12023
+   Marcus M.P., 1993, COMPUTATIONAL LINGUI, V19, P313, DOI DOI 10.1080/07494460903404410
+   MILLER GA, 1995, COMMUN ACM, V38, P39, DOI 10.1145/219717.219748
+   Miller HJ, 2004, ANN ASSOC AM GEOGR, V94, P284, DOI 10.1111/j.1467-8306.2004.09402005.x
+   MILLER HJ, 2001, GEOGRAPHIC INFORM SY
+   MORRIS J, 2004, P HLT NAACL WORKSH C, P46
+   Neal Z, 2012, GEOGR ANAL, V44, P162, DOI 10.1111/j.1538-4632.2012.00843.x
+   Neal Z, 2010, URBAN STUD, V47, P2195, DOI 10.1177/0042098009357352
+   Neal ZP, 2008, GLOBAL NETW, V8, P94
+   Newman D, 2006, LECT NOTES COMPUT SC, V3975, P93
+   Nivre Joakim, 2016, P 10 INT C LANG RES, P1659
+   Overell S, 2008, INT J GEOGR INF SCI, V22, P265, DOI 10.1080/13658810701626236
+   Paolacci G, 2010, JUDGM DECIS MAK, V5, P411
+   Patwardhan S., 2006, P EACL 2006 WORKSH M, V1501, P1
+   Pedersen T., 2004, HLT NAACL 2004, P38, DOI DOI 10.3115/1614025.1614037.
+   Pred A, 1980, URBAN GROWTH CITY SY
+   Rae A, 2009, COMPUT ENVIRON URBAN, V33, P161, DOI 10.1016/j.compenvurbsys.2009.01.007
+   Ramage D, 2009, P 2009 C EMP METH NA, V1
+   Reuters, 2008, HDB JOURN
+   Salvini MM, 2016, ENVIRON PLANN B, V43, P228, DOI 10.1177/0265813515603868
+   Sassen S, 2001, GLOBAL CITY
+   Schvaneveldt R. W., 1990, PATHFINDER ASS NETWO
+   Shahaf D., 2010, P 16 ACM SIGKDD INT, P623
+   Short JR, 1996, INT J URBAN REGIONAL, V20, P697, DOI 10.1111/j.1468-2427.1996.tb00343.x
+   Skupin A, 2014, INT J GEOGR INF SCI, V28, P1209, DOI 10.1080/13658816.2014.906040
+   Smith DA, 2001, AM BEHAV SCI, V44, P1656, DOI 10.1177/00027640121958104
+   Smith David A., 1995, WORLD CITIES WORLD S, P79
+   Spitz A., 2016, P 3 INT ACM SIGMOD W, P2
+   Strube M., 2006, AAAI, V6, P1419
+   Taaffe EJ, 1996, GEOGRAPHY TRANSPORTA
+   Taieb MAH, 2014, KNOWL INF SYST, V41, P467, DOI 10.1007/s10115-013-0672-4
+   Taylor P. J., 2016, WORLD CITY NETWORK G
+   Taylor PJ, 2008, REG STUD, V42, P1, DOI 10.1080/00343400601145202
+   Taylor PJ, 2003, URBAN GEOGR, V24, P431, DOI 10.2747/0272-3638.24.5.431
+   Taylor PJ, 2002, URBAN STUD, V39, P2367, DOI 10.1080/00420980220080011
+   Taylor PJ, 1997, CITIES, V14, P323, DOI 10.1016/S0264-2751(97)00023-1
+   Taylor PJ, 2001, GEOGR ANAL, V33, P181, DOI 10.1111/j.1538-4632.2001.tb00443.x
+   TOBLER WR, 1970, ECON GEOGR, V46, P234, DOI 10.2307/143141
+   Toly N, 2012, GLOBALIZATIONS, V9, P289, DOI 10.1080/14747731.2012.658252
+   Twaroch F. A., 2010, P 6 WORKSH GEOGR INF, P14
+   Twaroch F. A., 2009, WEAVING SERVICES PEO
+   Wang W, 2015, COMPUT ENVIRON URBAN, V50, P30, DOI 10.1016/j.compenvurbsys.2014.11.001
+   Yuan YH, 2017, LECT NOTES COMPUT SC, V10387, P183, DOI 10.1007/978-3-319-61845-6_19
+   Zhong X, 2017, PHYSICA A, V466, P462, DOI 10.1016/j.physa.2016.09.024
+NR 79
+TC 2
+Z9 2
+SN 1365-8816
+EI 1362-3087
+PY 2017
+VL 31
+IS 12
+BP 2427
+EP 2451
+DI 10.1080/13658816.2017.1367797
+UT WOS:000411066300005
+ER
+
+PT J
+AU Lagorio, A
+   Pinto, R
+   Golini, R
+AF Lagorio, Alexandra
+   Pinto, Roberto
+   Golini, Ruggero
+TI Urban Logistics Ecosystem: a system of system framework for stakeholders
+   in urban freight transport projects
+SO IFAC PAPERSONLINE
+CT 20th World Congress of the International-Federation-of-Automatic-Control
+   (IFAC)
+CY JUL 09-14, 2017
+CL Toulouse, FRANCE
+DE urban logistics; city logistics; system of systems; urban ecosystem;
+   stakeholders' involvement
+ID CITY; FORM
+AB Urban freight transportation plays a pivotal role in ensuring the liveability of urban areas, due to its fulfilment of citizens needs and its induced economic impact. Building upon the body of research on the topic of city logistics and its connected impacts and measures, this paper focuses on the development of a framework which is collectively exhaustive in describing the concerning crucial elements and in revealing their multiple and mutual influences. Through the investigation of an academic definition of ecosystem, its explanation in terms of urban logistics followed by its application to case studies, such a framework has been firstly theoretically designed and then some application examples are given. (C) 2017, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved.
+OI Lagorio, Alexandra/0000-0003-1489-0625
+CR Adner R., 2012, WIDE LENS WHAT SUCCE
+   Allen J, 2012, J TRANSP GEOGR, V24, P45, DOI 10.1016/j.jtrangeo.2012.06.010
+   Ballantyne EEF, 2013, J TRANSP GEOGR, V32, P93, DOI 10.1016/j.jtrangeo.2013.08.013
+   Basole RC, 2016, EXPERT SYST APPL, V65, P271, DOI 10.1016/j.eswa.2016.08.041
+   BESTUFS, 2008, BESTUFS 2 DELIVERABL
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Crainic TG, 2004, TRANSPORT RES C-EMER, V12, P119, DOI 10.1016/j.trc.2004.07.002
+   Dablanc L, 2013, TRANSPORT RES REC, P29, DOI 10.3141/2379-04
+   de Groot R, 2006, LANDSCAPE URBAN PLAN, V75, P175, DOI 10.1016/j.landurbplan.2005.02.016
+   European Commission, 2001, STEM CELLS THER FUT, P17
+   Fernandez-Barcelo I, 2012, PROCD SOC BEHV, V39, P818, DOI 10.1016/j.sbspro.2012.03.150
+   Goldman T, 2006, TECHNOL SOC, V28, P261, DOI 10.1016/j.techsoc.2005.10.007
+   Gonzalez-Feliu J., 2011, IDEAS WORKING PAPER
+   Harrington TS, 2016, PROD PLAN CONTROL, V27, P456, DOI 10.1080/09537287.2016.1147099
+   Lagorio A., 2016, INT J PHYS DISTRIBUT, V46
+   Lenton R., 2000, GUIDE WORLD RESOURCE, P1
+   Lindawati, 2014, INT J URBAN SCI, V18, P278, DOI 10.1080/12265934.2014.917983
+   Lindholm M, 2012, J TRANSP GEOGR, V22, P129, DOI 10.1016/j.jtrangeo.2012.01.001
+   Macharis C, 2014, RES TRANSP BUS MANAG, V11, P75, DOI 10.1016/j.rtbm.2014.06.004
+   Maier M., 1998, SYST ENG, V1, P267, DOI DOI 10.1002/(SICI)1520-6858(1998)1:4<267::AID-SYS3>3.0.C0;2-D
+   Moore JF, 1998, WASH QUART, V21, P167, DOI 10.1080/01636609809550301
+   Munuzuri J, 2005, CITIES, V22, P15, DOI 10.1016/j.cities.2004.10.003
+   Rutherford J, 2014, URBAN STUD, V51, P1353, DOI 10.1177/0042098013500090
+   Shenhar A., 1994, P 4 INT S NAT COUNC, V2, P261
+   Taniguchi E, 2001, INFRASTRUCTURE PLANN, V18, P1
+   Thomas J. J., 2005, ILLUMINATING PATH RE
+   United Nations, 2014, STESASERA352 UN
+   Ville S, 2013, EUR PLAN STUD, V21, P1528, DOI 10.1080/09654313.2012.722954
+NR 28
+TC 0
+Z9 0
+SN 2405-8963
+PY 2017
+VL 50
+IS 1
+BP 7284
+EP 7289
+DI 10.1016/j.ifacol.2017.08.1402
+UT WOS:000423964900209
+ER

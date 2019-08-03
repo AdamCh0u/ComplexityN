@@ -1,0 +1,546 @@
+
+PT J
+AU Levinson, D
+AF Levinson, David
+TI Network Structure and City Size
+SO PLOS ONE
+LA English
+DT Article
+ID URBAN STREET NETWORKS; ROAD NETWORKS; TRAFFIC FLOW; AGGLOMERATION;
+   CITIES; RETURNS
+AB Network structure varies across cities. This variation may yield important knowledge about how the internal structure of the city affects its performance. This paper systematically compares a set of surface transportation network structure variables (connectivity, hierarchy, circuity, treeness, entropy, accessibility) across the 50 largest metropolitan areas in the United States. A set of scaling parameters are discovered to show how network size and structure vary with city size. These results suggest that larger cities are physically more inter-connected. Hypotheses are presented as to why this might obtain. This paper then consistently measures and ranks access to jobs across 50 US metropolitan areas. It uses that accessibility measure, along with network structure variables and city size to help explain journey-to-work time and auto mode share in those cities. A 1 percent increase in accessibility reduces average metropolitan commute times by about 90 seconds each way. A 1 percent increase in network connectivity reduces commute time by 0.1 percent. A 1 percent increase in accessibility results in a 0.0575 percent drop in auto mode share, while a 1 percent increase in treeness reduces auto mode share by 0.061 percent. Use of accessibility and network structure measures is important for planning and evaluating the performance of network investments and land use changes.
+C1 Univ Minnesota, Dept Civil Engn, Minneapolis, MN USA.
+RP Levinson, D (reprint author), Univ Minnesota, Dept Civil Engn, Minneapolis, MN USA.
+EM dlevinson@umn.edu
+RI Levinson, David/A-8554-2012
+OI Levinson, David/0000-0002-4563-2963
+FU University of Minnesota
+FX This research was funded by the University of Minnesota. The funders had
+   no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR ADES AF, 1995, Q J ECON, V110, P195, DOI 10.2307/2118515
+   [Anonymous], EMPLOYMENT HOURS EAR
+   Arbesman S, 2008, ARXIV08094994
+   Barthelemy M, 2010, PATIAL NETWORKS
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Ben-Joseph E., 2003, STREETS SHAPING TOWN
+   Bettencourt L, 2009, METH SER, P221
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Derrible S, 2010, PHYSICA A, V389, P3678, DOI 10.1016/j.physa.2010.04.008
+   Derrible S, 2010, TRANSPORTATION, V37, P275, DOI 10.1007/s11116-009-9227-7
+   Derrible S, 2009, TRANSP RES RECORD, P17, DOI 10.3141/2112-03
+   DOWNS A, 1992, STUCK TRAFFIC COPING
+   El-Geneidy A., 2006, ACCESS DESTINATIONS
+   Glaeser E, 2011, TRIUMPH CITY
+   Glaeser E. L., 2008, CITIES AGGLOMERATION
+   Glaeser EL, 2010, J REGIONAL SCI, V50, P221, DOI 10.1111/j.1467-9787.2009.00635.x
+   Glaeser EL, 2009, J ECON MANAGE STRAT, V18, P623, DOI 10.1111/j.1530-9134.2009.00225.x
+   GORDON P, 1991, J AM PLANN ASSOC, V57, P416, DOI 10.1080/01944369108975516
+   GORDON P, 1988, TRANSPORT RES A-POL, V22, P419, DOI 10.1016/0191-2607(88)90045-3
+   Graham D, 2009, TRANSPORTATION, P1
+   Graham DJ, 2008, ANN REGIONAL SCI, V42, P267, DOI 10.1007/s00168-007-0156-0
+   Graham DJ, 2007, J TRANSP ECON POLICY, V41, P317
+   Graham DJ, 2007, J URBAN ECON, V62, P103, DOI 10.1016/j.jue.2006.10.001
+   Haggett P., 1969, NETWORK ANAL GEOGRAP
+   HAMILTON BW, 1982, J POLIT ECON, V90, P1035, DOI 10.1086/261107
+   Helbing D, 2009, METH SER, P433
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1119, DOI 10.1080/13658810701690448
+   Jiang B, 2007, PHYSICA A, V384, P647, DOI 10.1016/j.physa.2007.05.064
+   Jiang B, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/07/P07008
+   Jiang B, 2009, INT J GEOGR INF SCI, V23, P1033, DOI 10.1080/13658810802004648
+   KANSKY K. J., 1963, STRUCTURE TRANSPORTA
+   Kuehnert C, 2006, PHYSICA A, V363, P96
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Levinson D, 2007, NETW SPAT ECON, P1
+   Levinson D, 2011, ENV PLANNING B
+   Levinson D, 1995, TRANSPORT RES REC, V1466, P124
+   Levinson D, 2009, REG SCI URBAN ECON, V39, P732, DOI 10.1016/j.regsciurbeco.2009.07.003
+   Melo PC, 2009, REG SCI URBAN ECON, V39, P332, DOI 10.1016/j.regsciurbeco.2008.12.002
+   Mogridge M., 1987, INT J TRANSP ECON, V14, P283
+   MOGRIDGE M., 1990, TRAVEL TOWNS JAM YES
+   Parthasarathi P., 2010, NETWORK STRUCTURE ME
+   Parthasarathi P, 2010, NETWORK STRUCTURE AC
+   Roth C, 2011, ARXIV11055294
+   Samaniego H, 2008, J TRANSPORT LAND USE, V1
+   Schrank  D., 2009, 2009 URBAN MOBILITY
+   Stigler GJ, 1951, J POLIT ECON, V59, P185, DOI 10.1086/257075
+   Strogatz S, 2009, NY TIMES        0519
+   Tomer A., 2011, MISSED OPPORTUNITY T
+   West G, 2010, GLOBAL SUSTAINABILIT, P9
+   Xie F, 2007, GEOGR ANAL, V39, P336, DOI 10.1111/j.1538-4632.2007.00707.x
+   Xie F, 2011, TRANSP RES ECON POL, P3, DOI 10.1007/978-1-4419-9804-0
+NR 55
+TC 53
+Z9 55
+U1 1
+U2 52
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 12
+PY 2012
+VL 7
+IS 1
+AR e29721
+DI 10.1371/journal.pone.0029721
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 906OY
+UT WOS:000301357100019
+PM 22253764
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Van Wittenberghe, S
+   Adriaenssens, S
+   Staelens, J
+   Verheyen, K
+   Samson, R
+AF Van Wittenberghe, Shari
+   Adriaenssens, Sandy
+   Staelens, Jeroen
+   Verheyen, Kris
+   Samson, Roeland
+TI Variability of stomatal conductance, leaf anatomy, and seasonal leaf
+   wettability of young and adult European beech leaves along a vertical
+   canopy gradient
+SO TREES-STRUCTURE AND FUNCTION
+LA English
+DT Article
+DE Fagus sylvatica L.; Saplings; Leaf structure; Light gradient; Phenolics;
+   Leaf wetness; Canopy exchange
+ID URBAN HABITAT QUALITY; FAGUS-SYLVATICA L.; SURFACE WETNESS;
+   AIR-POLLUTANTS; SHADE LEAVES; INTERNAL CONDUCTANCE; PIGMENT COMPOSITION;
+   OXIDATIVE STRESS; FUTURE-RESEARCH; OZONE EXPOSURE
+AB This study assessed the variation of leaf anatomy, chlorophyll content index (CCI), maximal stomatal conductance (g (s) (max) ) and leaf wettability within the canopy of an adult European beech tree (Fagus sylvatica L.) and for beech saplings placed along the vertical gradient in the canopy. At the top canopy level (CL28m) of the adult beech, CCI and leaf anatomy reflected higher light stress, while g (s) (max) increased with height, reflecting the importance of gas exchange in the upper canopy layer. Leaf wettability, measured as drop contact angle, decreased from 85.5A degrees A A +/- A 1.6A degrees (summer) to 57.5A degrees A A +/- A 2.8A degrees (autumn) at CL28m of the adult tree. At CL22m, adult beech leaves seemed to be better optimized for photosynthesis than the CL28m leaves because of a large leaf thickness with less protective and impregnated substances, and a higher CCI. The beech saplings, in contrast, did not adapt their stomatal characteristics and leaf anatomy according to the same strategy as the adult beech leaves. Consequently, care is needed when scaling up experimental results from seedlings to adult trees.
+C1 [Van Wittenberghe, Shari; Samson, Roeland] Univ Antwerp, Dept Biosci Engn, B-2020 Antwerp, Belgium.
+   [Adriaenssens, Sandy; Staelens, Jeroen; Verheyen, Kris] Univ Ghent, Forest & Nat Lab, B-9090 Melle Gontrode, Belgium.
+   [Staelens, Jeroen] Univ Ghent, Lab Appl Phys Chem ISOFYS, B-9000 Ghent, Belgium.
+RP Van Wittenberghe, S (reprint author), Univ Antwerp, Dept Biosci Engn, Groenenborgerlaan 171, B-2020 Antwerp, Belgium.
+EM Shari.VanWittenberghe@ua.ac.be; Sandy.Adriaenssens@yahoo.com;
+   Jeroen_Staelens@yahoo.com; Kris.Verheyen@UGent.be;
+   Roeland.Samson@ua.ac.be
+RI Samson, Roeland/L-2109-2018
+OI Samson, Roeland/0000-0001-7582-1450; Van Wittenberghe,
+   Shari/0000-0002-5699-0352
+FU Belgian Science Policy Office [SR/00/131]; Research Foundation, Flanders
+   (FWO) [G.0205.08N]
+FX The authors wish to thank Em. Prof. Dr. Roland Caubergs for the
+   preparation of the leaf cross sections and Luc Willems for field
+   assistance. We are also grateful to the members of the Phytopathology
+   Lab of Ghent University for the use of their microscopic equipment. The
+   research presented in this paper is funded by the Belgian Science Policy
+   Office in the frame of the STEREO II programme-project BIOHYPE
+   (SR/00/131), in which the S. Van Wittenberghe is involved. S.
+   Adriaenssens and J. Staelens are granted by a research project
+   (G.0205.08N) and a postdoctoral fellowship of the Research Foundation,
+   Flanders (FWO), respectively.
+CR Adriaenssens S, 2011, WATER AIR SOIL POLL, V219, P43, DOI 10.1007/s11270-010-0682-8
+   Baker E. A., 1982, The plant cuticle, P139
+   Balasooriya BLWK, 2009, ENVIRON EXP BOT, V65, P386, DOI 10.1016/j.envexpbot.2008.11.009
+   Brewer CA, 1996, AM BIOL TEACH, V58, P414, DOI 10.2307/4450193
+   Burkhardt J, 2009, BIOGEOSCIENCES, V6, P67, DOI 10.5194/bg-6-67-2009
+   BURKHARDT J, 1994, ATMOS ENVIRON, V28, P2001, DOI 10.1016/1352-2310(94)90469-3
+   Burkhardt J, 2010, ECOL MONOGR, V80, P369, DOI 10.1890/09-1988.1
+   Bussotti F, 1998, NEW PHYTOL, V138, P469, DOI 10.1046/j.1469-8137.1998.00121.x
+   Bussotti F, 2008, GLOBAL CHANGE BIOL, V14, P2727, DOI 10.1111/j.1365-2486.2008.01677.x
+   Cape JN, 2008, ENVIRON POLLUT, V155, P391, DOI 10.1016/j.envpol.2008.01.038
+   de Pury DGG, 1999, AGR FOREST METEOROL, V95, P257, DOI 10.1016/S0168-1923(99)00038-6
+   Dietz J, 2007, FLORA, V202, P111, DOI 10.1016/j.flora.2006.03.004
+   Dineva S. B., 2004, Dendrobiology, V52, P3
+   Dineva SB, 2006, DENDROBIOLOGY, V52, P3
+   Eensalu E, 2008, FUNCT PLANT BIOL, V35, P103, DOI 10.1071/FP07258
+   Erisman JW, 2003, ENVIRON POLLUT, V124, P379, DOI 10.1016/S0269-7491(03)00049-6
+   FARQUHAR GD, 1989, SOC EXP BIOL SEM SER, V39, P47, DOI 10.1017/CBO9780511661587.005
+   FRITSCHE U, 1989, ATMOS ENVIRON, V23, P1807, DOI 10.1016/0004-6981(89)90064-4
+   Gerosa G, 2003, ENVIRON POLLUT, V125, P91, DOI 10.1016/S0269-7491(03)00094-0
+   Gessler A, 2000, NEW PHYTOL, V147, P539, DOI 10.1046/j.1469-8137.2000.00712.x
+   Gostin IN, 2009, NOT BOT HORTI AGROBO, V37, P57
+   Grossoni P, 1998, CHEMOSPHERE, V36, P919, DOI 10.1016/S0045-6535(97)10148-5
+   Hallik L, 2009, BASIC APPL ECOL, V10, P309, DOI 10.1016/j.baae.2008.08.001
+   Hansen K, 1996, ATMOS ENVIRON, V30, P4065, DOI 10.1016/1352-2310(95)00444-0
+   Hansen U, 2002, TREES-STRUCT FUNCT, V16, P354, DOI 10.1007/s00468-002-0163-9
+   Herbinger K, 2005, ENVIRON POLLUT, V137, P476, DOI 10.1016/j.envpol.2005.01.034
+   HOLLOWAY PJ, 1969, J SCI FOOD AGR, V20, P124, DOI 10.1002/jsfa.2740200214
+   Kardel F, 2010, ENVIRON POLLUT, V158, P788, DOI 10.1016/j.envpol.2009.10.006
+   Kardel F, 2012, ENVIRON EXP BOT, V75, P277, DOI 10.1016/j.envexpbot.2011.07.011
+   Klemm O, 2002, THEOR APPL CLIMATOL, V71, P107, DOI 10.1007/s704-002-8211-5
+   Kolb TE, 2001, ENVIRON POLLUT, V115, P373, DOI 10.1016/S0269-7491(01)00228-7
+   Kolb TE, 1997, ENVIRON POLLUT, V98, P195, DOI 10.1016/S0269-7491(97)00132-2
+   Kupcinskiene E, 2005, ENVIRON POLLUT, V137, P610, DOI 10.1016/j.envpol.2005.01.047
+   Lake JA, 2001, NATURE, V411, P154, DOI 10.1038/35075660
+   Lamaud E, 2002, ATMOS ENVIRON, V36, P77, DOI 10.1016/S1352-2310(01)00468-X
+   Larcher W, 2003, PHYSL PLANT ECOLOGY, P345
+   Lichtenthaler HK, 2007, PLANT PHYSIOL BIOCH, V45, P577, DOI 10.1016/j.plaphy.2007.04.006
+   LOVETT GM, 1992, ATMOS ENVIRON A-GEN, V26, P1469, DOI 10.1016/0960-1686(92)90132-5
+   MEIDNER H, 1986, J EXP BOT, V37, P517, DOI 10.1093/jxb/37.4.517
+   Meinzer FC, 2001, ENVIRON EXP BOT, V45, P239, DOI 10.1016/S0098-8472(01)00074-0
+   Mussche S, 2001, SILVA FENN, V35, P373, DOI 10.14214/sf.575
+   NEIRYNCK J, 2004, 20041 IBW I FOR GAM
+   Niinemets U, 2004, PLANT BIOLOGY, V6, P254, DOI 10.1055/s-2004-817881
+   Niinemets U, 2007, PLANT CELL ENVIRON, V30, P1052, DOI 10.1111/j.1365-3040.2007.01683.x
+   Padgett PE, 2009, J ENVIRON MONITOR, V11, P75, DOI 10.1039/b804338h
+   Pandey S, 2002, BIOL PLANTARUM, V45, P291, DOI 10.1023/A:1015165210967
+   PARLANGE JY, 1970, PLANT PHYSIOL, V46, P337, DOI 10.1104/pp.46.2.337
+   Reig-Arminana J, 2004, ENVIRON POLLUT, V132, P321, DOI 10.1016/j.envpol.2004.04.006
+   Rennenberg H, 1999, WATER AIR SOIL POLL, V116, P47, DOI 10.1023/A:1005257500023
+   Sase H, 2008, ENVIRON POLLUT, V152, P1, DOI 10.1016/j.envpol.2007.06.023
+   Schreuder MDJ, 2001, NEW PHYTOL, V152, P443, DOI 10.1046/j.0028-646X.2001.00272.x
+   Terashima I, 2006, J EXP BOT, V57, P343, DOI 10.1093/jxb/erj014
+   TUKEY HB, 1970, ANN REV PLANT PHYSIO, V21, P305, DOI 10.1146/annurev.pp.21.060170.001513
+   TURUNEN M, 1990, J ENVIRON QUAL, V19, P35, DOI 10.2134/jeq1990.00472425001900010003x
+   Vogelmann TC, 1996, TRENDS PLANT SCI, V1, P65, DOI 10.1016/S1360-1385(96)80031-8
+   Warren CR, 2007, ENVIRON EXP BOT, V59, P130, DOI 10.1016/j.envexpbot.2005.11.004
+   Warren CR, 2008, J EXP BOT, V59, P1475, DOI 10.1093/jxb/erm245
+   Wieser G, 2003, ANN FOR SCI, V60, P131, DOI 10.1051/forest:2003005
+   Wuytack T, 2010, ENVIRON MONIT ASSESS, V171, P197, DOI 10.1007/s10661-009-1271-4
+NR 59
+TC 18
+Z9 18
+U1 0
+U2 62
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0931-1890
+J9 TREES-STRUCT FUNCT
+JI Trees-Struct. Funct.
+PD OCT
+PY 2012
+VL 26
+IS 5
+BP 1427
+EP 1438
+DI 10.1007/s00468-012-0714-7
+PG 12
+WC Forestry
+SC Forestry
+GA 007AH
+UT WOS:000308860500002
+DA 2019-03-26
+ER
+
+PT J
+AU Thomas, I
+   Frankhauser, P
+   Badariotti, D
+AF Thomas, Isabelle
+   Frankhauser, Pierre
+   Badariotti, Dominique
+TI Comparing the fractality of European urban neighbourhoods: do national
+   contexts matter?
+SO JOURNAL OF GEOGRAPHICAL SYSTEMS
+LA English
+DT Article
+DE Fractal analysis; Urban planning; Morphology; Europe
+ID DIMENSION; BRUSSELS; GROWTH; CITY
+AB The objective of this paper is to show that morphological similarities between built-up urban surfaces are greater across borders than within cities in Europe: living, architectural and planning trends are international. The spatial arrangement of built-up areas is analysed here by means of fractal indices using a set of 97 town sections selected from 18 European urban agglomerations. The fractal dimension is estimated by correlation techniques. Results confirm that morphological similarities are higher across countries/cities than within. Moreover, two types of fractal laws are considered: one uses the basic fractal scaling law; the other introduces a prefactor a that is often called a "form factor" in the fractal literature. Differences in the results obtained by both laws are explained empirically as well as theoretically, and suggestions are made for further measurements.
+C1 [Thomas, Isabelle] UCL, CORE, Louvain, Belgium.
+   [Thomas, Isabelle] UCL, Dept Geog, Louvain, Belgium.
+   [Thomas, Isabelle] Natl Fund Sci Res FRS FNRS, Brussels, Belgium.
+   [Frankhauser, Pierre] Univ Franche Comte, THEMA, CNRS, UMR 6049, F-25030 Besancon, France.
+   [Badariotti, Dominique] Univ Strasbourg, Lab Image Ville Environm, UMR 7230, CNRS, Strasbourg, France.
+RP Thomas, I (reprint author), UCL, CORE, Louvain, Belgium.
+EM isabelle.thomas@uclouvain.be
+OI Frankhauser, Pierre/0000-0001-6600-6972
+CR Appleby S, 1996, GEOGR ANAL, V28, P147
+   ARLINGHAUS SL, 1989, GEOGR ANAL, V21, P103
+   Badariotti D, 2005, REV GEOGRAPHIE QUEBE, V49, P133
+   Batty M, 1996, ENVIRON PLANN A, V28, P1745, DOI 10.1068/a281745
+   Batty M, 1991, FRACTALS CHAOS, P41
+   Batty M, 2005, CITIES COMPLEXITY UN
+   Batty M, 1994, FRACTAL CITIES
+   Benguigui L, 2000, ENVIRON PLANN B, V27, P507, DOI 10.1068/b2617
+   Carvalho R, 2004, PHYSICA A, V332, P539, DOI 10.1016/j.physa.2003.10.024
+   Cavailhes J, 2004, ENVIRON PLANN A, V36, P1471, DOI 10.1068/a36126
+   Corbusier Le, 1971, CHARTE ATHENES 1933
+   De Keersmaecker ML, 2003, GEOGR ANAL, V35, P310, DOI 10.1353/geo.2003.0014
+   FOTHERINGHAM AS, 1989, PAP REG SCI ASSOC, V67, P55, DOI 10.1007/BF01934667
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Frankhauser P, 2008, VERS DEPLACEMENTS PE
+   Frankhauser P, 1994, FRACTALITE STRUCTURE
+   Frankhauser P, 2008, DYNAMICS COMPLEX URB, P241
+   Frankhauser P., 2003, MORPHOLOGIE VILLES E
+   GOODCHILD MF, 1987, ANN ASSOC AM GEOGR, V77, P265, DOI 10.1111/j.1467-8306.1987.tb00158.x
+   Gouyet J. F., 1992, PHYS STRUCTURES FRAC
+   Lagarias A, 2007, CYBERGEO, DOI 10.4000/cybergeo.8902
+   Lam N. S. -N., 2002, FRACTALS GEOGRAPHY
+   LONGLEY PA, 1989, GEOGR ANAL, V21, P47
+   MacLennan M., 1991, 911 NCGIA
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   Mattila P, 1995, GEOMETRY SETS MEASUR
+   QIN Y, 2004, J GEOGRAPHICAL SCI, V14, P62, DOI DOI 10.1007/BF02841109
+   Salingaros N, 2003, BIENN TOWNS TOWN PLA
+   Schweitzer F, 1998, APPL GEOGR, V18, P69, DOI 10.1016/S0143-6228(97)00047-7
+   Shen GQ, 2002, INT J GEOGR INF SCI, V16, P419, DOI 10.1080/13658810210137013
+   Sun W, 2006, INT J REMOTE SENS, V27, P4963, DOI 10.1080/01431160600676695
+   Tannier C, 2005, CYBERGEO
+   Thomas I, 2008, LANDSCAPE URBAN PLAN, V84, P99, DOI 10.1016/j.landurbplan.2007.07.002
+   Thomas I, 2007, PAP REG SCI, V86, P287, DOI 10.1111/j.1435-5957.2007.00122.x
+   Thomas I, 2008, CYBERGEO, DOI 10.4000/cybergeo.16283
+   Vanneste D, 2008, J HOUS BUILT ENVIRON, V23, P173, DOI 10.1007/s10901-008-9111-3
+   WHITE R, 1993, ENVIRON PLANN A, V25, P1175, DOI 10.1068/a251175
+NR 37
+TC 14
+Z9 15
+U1 1
+U2 7
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1435-5930
+J9 J GEOGR SYST
+JI J. Geogr. Syst.
+PD APR
+PY 2012
+VL 14
+IS 2
+BP 189
+EP 208
+DI 10.1007/s10109-010-0142-4
+PG 20
+WC Geography
+SC Geography
+GA 961MO
+UT WOS:000305468700004
+DA 2019-03-26
+ER
+
+PT J
+AU Masuda, JR
+   Teelucksingh, C
+   Zupancic, T
+   Crabtree, A
+   Haber, R
+   Skinner, E
+   Poland, B
+   Frankish, J
+   Fridell, M
+AF Masuda, Jeffrey R.
+   Teelucksingh, Cheryl
+   Zupancic, Tara
+   Crabtree, Alexis
+   Haber, Rebecca
+   Skinner, Emily
+   Poland, Blake
+   Frankish, Jim
+   Fridell, Mara
+TI Out of our inner city backyards: Re-scaling urban environmental health
+   inequity assessment
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Social determinants of health; Environmental health inequity;
+   Neighbourhood assessment; Photovoice; Participatory action research;
+   Canada
+ID INCOME INEQUALITY; POPULATION HEALTH; CITIES PROJECTS; CANADIAN CITIES;
+   COMMUNITY; JUSTICE; INDICATORS; PHOTOVOICE; PROMOTION; ONTARIO
+AB In this paper, we report the results of a three-year research project (2008-2011) that aimed to identify urban environmental health inequities using a photography-mediated qualitative approach adapted for comparative neighbourhood-level assessment. The project took place in Vancouver, Toronto, and Winnipeg, Canada and involved a total of 49 inner city community researchers who compared environmental health conditions in numerous neighbourhoods across each city. Using the social determinants of health as a guiding framework, community researchers observed a wide range of differences in health-influencing private and public spaces, including sanitation services, housing, parks and gardens, art displays, and community services. The comparative process enabled community researchers to articulate in five distinct ways how such observable conditions represented system level inequities. The findings inform efforts to shift environmental health intervention from constricted action within derelict urban districts to more coordinated mobilization for health equity in the city. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Masuda, Jeffrey R.; Skinner, Emily; Fridell, Mara] Univ Manitoba, Dept Geog & Environm, Winnipeg, MB, Canada.
+   [Teelucksingh, Cheryl] Ryerson Univ, Dept Sociol, Toronto, ON, Canada.
+   [Crabtree, Alexis; Haber, Rebecca; Frankish, Jim] Univ British Columbia, Sch Populat & Publ Hlth, Vancouver, BC V5Z 1M9, Canada.
+   [Poland, Blake] Univ Toronto, Dana Lana Sch Publ Hlth, Toronto, ON M5S 1A1, Canada.
+RP Masuda, JR (reprint author), Univ Manitoba, Dept Geog & Environm, Winnipeg, MB, Canada.
+EM jeff_masuda@umanitoba.ca
+FU Canadian Institutes of Health Research (Institute of Population and
+   Public Health); Social Sciences and Humanities Council of Canada
+FX The authors would like to thank our many partners, research
+   participants, and community researchers, especially Shawn Brogan, Carey
+   Sinclair, and Robert Huff. We would also like to thank our many research
+   partners, in particular our community hosts including Joyce Rock at the
+   Downtown Eastside Neighbourhood House, Stephanie Eyolfson at the Circle
+   of Life Thunderbird House, Rick Eagan at St. Christopher House, and
+   Bruce Sexsmith and Debbie Pottinger at Ecuhome. This research was made
+   possible through the support of the Canadian Institutes of Health
+   Research (Institute of Population and Public Health) and the Social
+   Sciences and Humanities Council of Canada.
+CR Blomley N., 2004, UNSETTTLING CITY URB
+   Bryant Toba, 2007, Promot Educ, V14, P6
+   Burnett RT, 2004, ARCH ENVIRON HEALTH, V59, P228, DOI 10.3200/AEOH.59.5.228-236
+   Buzzelli M., 2004, ARCH ENVIRON HEALTH, V59, P228
+   Canadian Urban Transit Association, 2011, 22 CAN URB TRANS ASS
+   Carlson ED, 2006, QUAL HEALTH RES, V16, P836, DOI 10.1177/1049732306287525
+   Chen WH, 2012, URBAN STUD, V49, P877, DOI 10.1177/0042098011408142
+   Closing the Gap in a Generation, 2008, CLOS GAP GEN HLTH EQ
+   Collins PA, 2007, HEALTH PROMOT INT, V22, P337, DOI 10.1093/heapro/dam031
+   Cresswell T., 1996, PLACE OUT PLACE GEOG
+   Cruikshank K, 2004, ENVIRON HIST, V9, P464, DOI 10.2307/3985769
+   Cutts BB, 2009, SOC SCI MED, V69, P1314, DOI 10.1016/j.socscimed.2009.08.020
+   Evans GW, 2004, AM J PUBLIC HEALTH, V94, P1942, DOI 10.2105/AJPH.94.11.1942
+   Fainstein S. S., 2010, JUST CITY
+   Freire P, 1973, ED CRITICAL CONSCIOU
+   Freire P., 1972, PEDAGOGY OPPRESSED
+   Freire P., 1993, PEDAGOGY CITY
+   Gillyat R., 2006, GLOBAL CHALLENGES CI
+   Hancock T, 1999, CAN J PUBLIC HEALTH, V90, pS22
+   Heynen NC, 2003, ANTIPODE, V35, P980, DOI 10.1111/j.1467-8330.2003.00367.x
+   Jurkowski JM, 2007, HEALTH PROMOT PRACT, V8, P358, DOI 10.1177/1524839906292181
+   Keller-Olaman SJ, 2005, ENVIRON BEHAV, V37, P441, DOI 10.1177/0013916504269651
+   Kuo FE, 2001, ENVIRON BEHAV, V33, P5, DOI 10.1177/00139160121972846
+   Lambert TW, 2011, ARCH ENVIRON OCCUP H, V66, P128, DOI 10.1080/19338244.2010.516780
+   Larsen K, 2008, INT J HEALTH GEOGR, V7, DOI 10.1186/1476-072X-7-16
+   Maantay J, 2007, HEALTH PLACE, V13, P32, DOI 10.1016/j.healthplace.2005.09.009
+   Maller C, 2006, HEALTH PROMOT INT, V21, P45, DOI 10.1093/heapro/dai032
+   Masuda J. R., 2011, EVERYONE IS SORT ME
+   Masuda JR, 2010, HEALTH PROMOT INT, V25, P453, DOI 10.1093/heapro/daq041
+   Masuda JR, 2010, HEALTH PLACE, V16, P656, DOI 10.1016/j.healthplace.2010.02.003
+   Masuda JR, 2008, CAN GEOGR-GEOGR CAN, V52, P427, DOI 10.1111/j.1541-0064.2008.00223.x
+   Mental Health Commission of Canada, 2010, OUR WAY ANN REP 2009, P2009
+   Minkler M, 2008, HEALTH EDUC BEHAV, V35, P119, DOI 10.1177/1090198106287692
+   O'Neill M, 2006, HEALTH PROMOT INT, V21, P145, DOI 10.1093/heapro/dal006
+   Odoi A., 2005, INT J HLTH GEOGRAPHI, V4
+   Patton M. Q, 2002, QUALITATIVE RES EVAL
+   Patz JA, 2005, NATURE, V438, P310, DOI 10.1038/nature04188
+   Sandel M, 2006, ARCH DIS CHILD, V91, P942, DOI 10.1136/adc.2006.098376
+   Sharpe PA, 2000, PUBLIC HEALTH REP, V115, P205, DOI 10.1093/phr/115.2.205
+   Silver J., 2009, CANADIAN J URBAN RES, V18, P98
+   Smith KR, 1999, EPIDEMIOLOGY, V10, P573, DOI 10.1097/00001648-199909000-00027
+   Statistics Canada, 2006, 2006 CENS DICT
+   Takano T, 2001, J EPIDEMIOL COMMUN H, V55, P263, DOI 10.1136/jech.55.4.263
+   Teelucksingh C., 2002, ETHNOLOGIES, V241, P119, DOI 10.7202/006533ar
+   United Nations Population Fund, 2007, UNFPA STAT WORLD POP
+   Wang C, 1997, HEALTH EDUC BEHAV, V24, P369, DOI 10.1177/109019819702400309
+   Wang CC, 1998, HEALTH PROMOT INT, V13, P75, DOI 10.1093/heapro/13.1.75
+   Whitzman C, 2009, SUBURB, SLUM, URBAN VILLAGE: TRANSFORMATIONS IN TORONTO'S PARKDALE NEIGHBOURHOOD, 1875-2002, P1
+   Wilkinson RG, 2006, SOC SCI MED, V62, P1768, DOI 10.1016/j.socscimed.2005.08.036
+NR 49
+TC 10
+Z9 10
+U1 4
+U2 46
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD OCT
+PY 2012
+VL 75
+IS 7
+BP 1244
+EP 1253
+DI 10.1016/j.socscimed.2012.04.034
+PG 10
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 991JP
+UT WOS:000307697600012
+PM 22749441
+DA 2019-03-26
+ER
+
+PT J
+AU Butler, DW
+   Gleason, SM
+   Davidson, I
+   Onoda, Y
+   Westoby, M
+AF Butler, Don W.
+   Gleason, Sean M.
+   Davidson, Ian
+   Onoda, Yusuke
+   Westoby, Mark
+TI Safety and streamlining of woody shoots in wind: an empirical study
+   across 39 species in tropical Australia
+SO NEW PHYTOLOGIST
+LA English
+DT Article
+DE allometry; biomechanics; streamlining; wind; wood density
+ID RAIN-FOREST; TUNNEL MEASUREMENTS; DRAG RELATIONSHIPS; FUNCTIONAL TRAITS;
+   URBAN FOREST; DENSITY; TREES; MORTALITY; GROWTH; DAMAGE
+AB Wind is a key mechanical stress for woody plants, so how do shoot traits affect performance in wind?
+   We used a vehicle mounted apparatus to measure drag, streamlining and mechanical safety in 127 vertical lead-shoots, 1.2 m long, across 39 species in tropical Australia.
+   Shoot dimensions and stem tissue properties were closely coupled so that shoots with low stem specific gravity or larger projected area had thicker stems. Thicker stems provide larger second moment of area (I), which increased shoot safety and bending stiffness but impeded shoot reconfiguration in strong winds, including frontal area reduction. Nonetheless, increasing I also improved streamlining. Streamlining was unrelated to traits except I. Stem tissue material properties only had small effects. Higher modulus of rupture increased shoot safety and higher Youngs modulus impeded shoot reconfiguration.
+   We found no conflict between bending stiffness and streamlining for woody shoots. Stiffness might help streamlining by increasing damping and stability, thereby reducing flagging in wind. Tissue-level traits did influence shoot-level mechanical safety and behaviour, but shoot geometry was much more important. Variable shoot and stem traits, which all influenced shoot biomechanics, were integrated in shoots to yield a relatively narrow range of outcomes in wind.
+C1 [Butler, Don W.; Gleason, Sean M.; Davidson, Ian; Onoda, Yusuke; Westoby, Mark] Macquarie Univ, Dept Biol Sci, N Ryde, NSW 2109, Australia.
+RP Butler, DW (reprint author), Queensland Herbarium, Mt Coot Tha Rd, Toowong, Qld 4066, Australia.
+EM don.butler@derm.qld.gov.au
+RI Onoda, Yusuke/L-7179-2015
+OI Onoda, Yusuke/0000-0001-6245-2342; Westoby, Mark/0000-0001-7690-4530
+FU Australian Research Council
+FX This work was supported by Australian Research Council funding to MW.
+   Thanks to editor David Ackerly, Frank Sterck and three anonymous
+   referees for helpful advice and constructive criticism of the
+   manuscript. Special thanks to Macquarie University's METS team for
+   making the apparatus. Collections of plant material in this research
+   were permitted by the Queensland Government. Thanks also to Claraville
+   Station and to staff in Girringun National Park for their hospitality.
+CR Anten NPR, 2010, AM NAT, V175, P250, DOI 10.1086/649581
+   Asner GP, 1997, BIOTROPICA, V29, P145, DOI 10.1111/j.1744-7429.1997.tb00018.x
+   Chao KJ, 2008, J ECOL, V96, P281, DOI 10.1111/j.1365-2745.2007.01343.x
+   Chave J, 2009, ECOL LETT, V12, P351, DOI 10.1111/j.1461-0248.2009.01285.x
+   Curran TJ, 2008, AUSTRAL ECOL, V33, P442, DOI 10.1111/j.1442-9993.2008.01899.x
+   de Langre E, 2008, ANNU REV FLUID MECH, V40, P141, DOI 10.1146/annurev.fluid.40.111406.102135
+   Duryea Mary L., 2007, Arboriculture & Urban Forestry, V33, P98
+   Duryea Mary L., 2007, Arboriculture & Urban Forestry, V33, P83
+   Francis John K., 2000, Journal of Arboriculture, V26, P189
+   Gardiner B, 2008, FORESTRY, V81, P447, DOI 10.1093/forestry/cpn022
+   Gleason SM, 2008, ECOSYSTEMS, V11, P1277, DOI 10.1007/s10021-008-9192-6
+   Harper J. L., 1977, POPULATION BIOL PLAN
+   Wright SJ, 2010, ECOLOGY, V91, P3664, DOI 10.1890/09-2335.1
+   Kane B, 2008, CAN J FOREST RES, V38, P1275, DOI 10.1139/X07-225
+   Kane B, 2006, CAN J FOREST RES, V36, P1951, DOI 10.1139/X06-086
+   King DA, 2006, J ECOL, V94, P670, DOI 10.1111/j.1365-2745.2006.01112.x
+   Kooyman RM, 2009, ANN BOT-LONDON, V104, P987, DOI 10.1093/aob/mcp185
+   MAYHEAD GJ, 1973, AGR METEOROL, V12, P123, DOI 10.1016/0002-1571(73)90013-7
+   MCMAHON T, 1973, SCIENCE, V179, P1201, DOI 10.1126/science.179.4079.1201
+   MILNE R, 1991, TREE PHYSIOL, V9, P383, DOI 10.1093/treephys/9.3.383
+   Niklas K., 1992, PLANT BIOMECHANICS E
+   Niklas KJ, 2010, AM J BOT, V97, P1587, DOI 10.3732/ajb.1000150
+   Niklas KJ, 2001, AM J BOT, V88, P1266, DOI 10.2307/3558338
+   Niklas KJ, 2000, J EXP BOT, V51, P797, DOI 10.1093/jexbot/51.345.797
+   Onoda Y, 2010, NEW PHYTOL, V185, P493, DOI 10.1111/j.1469-8137.2009.03088.x
+   Osunkoya OO, 2007, AUSTRAL ECOL, V32, P191, DOI 10.1111/j.1442-9993.2007.01678.x
+   PUTZ FE, 1983, CAN J FOREST RES, V13, P1011, DOI 10.1139/x83-133
+   R Development Core team, 2010, R LANG ENV STAT COMP
+   Rasband W., 2009, IMAGE J 1 41O
+   Rudnicki M, 2004, CAN J FOREST RES, V34, P666, DOI [10.1139/x03-233, 10.1139/X03-233]
+   Sellier D, 2009, AM J BOT, V96, P885, DOI 10.3732/ajb.0800226
+   van Gelder HA, 2006, NEW PHYTOL, V171, P367, DOI 10.1111/j.1469-8137.2006.01757.x
+   VOGEL S, 1989, J EXP BOT, V40, P941, DOI 10.1093/jxb/40.8.941
+   VOGEL S, 1984, AM ZOOL, V24, P37
+   Vogel Steven, 1996, Journal of Arboriculture, V22, P92
+   Vollsinger S, 2005, CAN J FOREST RES, V35, P1238, DOI 10.1139/x05-051
+   Wainwright SA, 1976, MECH DESIGN ORGANISM
+   Warton DI, 2006, BIOL REV, V81, P259, DOI 10.1017/S1464793106007007
+   WILLMOTT CJ, 1992, PROF GEOGR, V44, P84, DOI 10.1111/j.0033-0124.1992.00084.x
+   YOSHIDA T, 2008, ECOLOGICAL RES, V24, P909
+   ZIMMERMAN JK, 1994, J ECOL, V82, P911, DOI 10.2307/2261454
+NR 41
+TC 14
+Z9 14
+U1 2
+U2 30
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0028-646X
+J9 NEW PHYTOL
+JI New Phytol.
+PD JAN
+PY 2012
+VL 193
+IS 1
+BP 137
+EP 149
+DI 10.1111/j.1469-8137.2011.03887.x
+PG 13
+WC Plant Sciences
+SC Plant Sciences
+GA 865HC
+UT WOS:000298300800017
+PM 21999247
+OA Bronze
+DA 2019-03-26
+ER

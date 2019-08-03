@@ -1,0 +1,538 @@
+
+PT J
+AU Leveau, LM
+   Isla, FI
+   Bellocq, MI
+AF Leveau, Lucas M.
+   Isla, Federico I.
+   Bellocq, Maria I.
+TI Predicting the seasonal dynamics of bird communities along an
+   urban-rural gradient using NDVI
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE Bird species composition; Taxonomic bird richness; Mapping; NDVI; MODIS;
+   Seasonal variation
+ID SPECIES RICHNESS PATTERNS; LAND-COVER; PRIMARY PRODUCTIVITY;
+   URBANIZATION; DIVERSITY; VEGETATION; ENERGY; SCALE; ASSEMBLAGES;
+   HABITATS
+AB The normalized difference vegetation index (NDVI) is a strong and widely used proxy for bird species richness in urban environments. However, its potential to predict composition and seasonal dynamics of bird communities in urban areas remains unexplored. Our main objective was to analyze the power of NDVI to predict the seasonal dynamics of bird communities along urbanization gradients. Birds were surveyed in the breeding and non breeding seasons. Bird species richness was estimated using COMDYN, and bird community composition was summarized in two axes using Non-metric Multidimensional Scaling (NMDS). For each of the breeding and non breeding seasons, bird richness and the NMDS axis scores were related to both the mean NDVI of the season and the annual seasonal variation of NDVI (mean NDVI of the breeding season - mean NDVI of the non-breeding seasons). Results showed that NDVI decreased towards the most urbanized areas, with the highest seasonal variation occurring in agricultural areas. Single-family houses surrounded by yards held a high NDVI in both seasons and the lowest seasonal variation. Bird richness increased at intermediate levels of NDVI and was negatively related to the seasonal variations of the NDVI. Seasonal variation in bird community composition increased with annual mean and seasonal variation of the NDVI predicting higher seasonal stability of assemblage composition in urban than in non-urban areas. The results suggest that urbanization alters ecosystem functioning by reducing seasonal dynamics and the amount of primary productivity, which in turn promotes seasonal homogenization of urban avifauna relative to non-urban areas.
+C1 [Leveau, Lucas M.; Isla, Federico I.] UNMdP CIC, Inst Geol Costas & Cuaternario, CONICET, IIMyC, Funes 3350, RA-7600 Mar Del Plata, Buenos Aires, Argentina.
+   [Leveau, Lucas M.; Bellocq, Maria I.] Univ Buenos Aires, CONICET, Fac Ciencias Exactas & Nat, Dept Ecol Genet & Evoluc,IEGEBA, Ciudad Univ,Pab 2,Piso 4, RA-1426 Buenos Aires, DF, Argentina.
+RP Leveau, LM (reprint author), Univ Buenos Aires, CONICET, Fac Ciencias Exactas & Nat, Dept Ecol Genet & Evoluc,IEGEBA, Ciudad Univ,Pab 2,Piso 4, RA-1426 Buenos Aires, DF, Argentina.
+EM lucasleveau@yahoo.com.ar
+CR Apellaniz M, 2012, AUSTRAL ECOL, V37, P547, DOI 10.1111/j.1442-9993.2011.02311.x
+   Bar-Massada A, 2012, ECOGRAPHY, V35, P393, DOI 10.1111/j.1600-0587.2011.07097.x
+   Barton K., 2016, PACKAGE MUMIN MULTIM
+   Bino G, 2008, INT J REMOTE SENS, V29, P3675, DOI 10.1080/01431160701772534
+   Blair RB, 1996, ECOL APPL, V6, P506, DOI 10.2307/2269387
+   Blair RB, 2008, LANDSCAPE ECOL, V23, P1157, DOI 10.1007/s10980-008-9267-y
+   Breheny P., 2013, VISUALIZING REGRESSI
+   Burnham KP, 2011, BEHAV ECOL SOCIOBIOL, V65, P23, DOI 10.1007/s00265-010-1029-6
+   Buyantuyev A, 2012, LANDSCAPE URBAN PLAN, V105, P149, DOI 10.1016/j.landurbplan.2011.12.013
+   Cabrera A. L., 1976, REGIONES FITOGEOGRAF, V1
+   Catterall CP, 1998, BIOL CONSERV, V84, P65, DOI 10.1016/S0006-3207(97)00076-1
+   Caula S, 2008, LANDSCAPE URBAN PLAN, V87, P1, DOI 10.1016/j.landurbplan.2008.03.006
+   Clergeau P, 1998, CONDOR, V100, P413, DOI 10.2307/1369707
+   CONNELL JH, 1978, SCIENCE, V199, P1302, DOI 10.1126/science.199.4335.1302
+   Coops NC, 2009, J BIOGEOGR, V36, P905, DOI 10.1111/j.1365-2699.2008.02053.x
+   Coops NC, 2009, REMOTE SENS ENVIRON, V113, P668, DOI 10.1016/j.rse.2008.11.012
+   Danks HV, 2007, CAN ENTOMOL, V139, P1
+   DAVIS LV, 1966, ECOL MONOGR, V36, P276
+   De la Pena M., 2010, NIDOS AYES ARGENTINA
+   Debinski DM, 2006, ECOL APPL, V16, P380, DOI 10.1890/04-1896
+   Delgado A, 2000, AGR ECOSYST ENVIRON, V78, P65, DOI 10.1016/S0167-8809(99)00114-0
+   Devictor V, 2007, CONSERV BIOL, V21, P741, DOI 10.1111/j.1523-1739.2007.00671.x
+   Di Bella C. M., 2004, REV CIENTIFICA UCES, V8, P63
+   Dobkin DS, 1998, J FIELD ORNITHOL, V69, P430
+   Duckworth RA, 2014, AVIAN URBAN ECOLOGY: BEHAVIOURAL AND PHYSIOLOGICAL ADAPTATIONS, P181
+   Eastman J. R., 1999, IDRISI 32 GUIDE GIS
+   Evans KL, 2005, BIOL REV, V80, P1, DOI 10.1017/S1464793104006517
+   Faggi A., 2011, CIUDAD PAISAJE TURIS, P271
+   Feilhauer H, 2009, APPL VEG SCI, V12, P429, DOI 10.1111/j.1654-109X.2009.01037.x
+   Fjeldsa J., 1990, BIRDS HIGH ANDES
+   Foody GM, 2005, INT J REMOTE SENS, V26, P3943, DOI 10.1080/01431160500165716
+   Guisan A, 2000, ECOL MODEL, V135, P147, DOI 10.1016/S0304-3800(00)00354-9
+   H-Acevedo D, 2003, GLOBAL ECOL BIOGEOGR, V12, P461, DOI 10.1046/j.1466-822X.2003.00058.x
+   Haedo J., 2010, ECOLOGIA INTERFASE N, P153
+   HIJMANS R. J., 2014, RASTER GEOGRAPHIC DA
+   Hines JE, 1999, BIRD STUDY, V46, P209
+   Hinkle D. E., 2003, APPL STAT BEHAV SCI, V663
+   Huete A, 2002, REMOTE SENS ENVIRON, V83, P195, DOI 10.1016/S0034-4257(02)00096-2
+   Hurlbert AH, 2003, AM NAT, V161, P83, DOI 10.1086/345459
+   Hutto R.L., 1985, P455
+   Jiang B, 2017, LANDSCAPE URBAN PLAN, V157, P270, DOI 10.1016/j.landurbplan.2016.07.010
+   Jokimaki J, 2002, J BIOGEOGR, V29, P69, DOI 10.1046/j.1365-2699.2002.00649.x
+   Justice CO, 2002, REMOTE SENS ENVIRON, V83, P3, DOI 10.1016/S0034-4257(02)00084-6
+   Koh CN, 2006, DIVERS DISTRIB, V12, P546, DOI 10.1111/j.1366-9516.2006.00238.x
+   La Sorte FA, 2014, GLOBAL ECOL BIOGEOGR, V23, P1225, DOI 10.1111/geb.12199
+   Lee PF, 2004, J BIOGEOGR, V31, P307, DOI 10.1046/j.0305-0270.2003.00988.x
+   Leong M, 2015, PEERJ, V3, DOI 10.7717/peerj.1141
+   Lepczyk CA, 2008, CONSERV BIOL, V22, P405, DOI 10.1111/j.1523-1739.2008.00881.x
+   Leveau CM, 2005, ORNITOL NEOTROP, V16, P503
+   Leveau L. M., 2014, THESIS
+   Leveau L. M., 2004, ARGENTINA HORNERO, V19, P13
+   Leveau L. M., 2017, EUROPEAN J ECOLOGY, V3, P1, DOI DOI 10.1515/EJE-2017-0011
+   Leveau LM, 2017, ORNITOL NEOTROP, V28, P77
+   Leveau LM, 2016, URBAN ECOSYST, V19, P631, DOI 10.1007/s11252-016-0525-5
+   Leveau LM, 2015, URBAN ECOSYST, V18, P1461, DOI 10.1007/s11252-015-0469-1
+   Leveau Lucas M., 2011, Hornero, V26, P149
+   Leveau LM, 2013, J ORNITHOL, V154, P655, DOI 10.1007/s10336-012-0928-x
+   Leyequien E, 2007, INT J APPL EARTH OBS, V9, P1, DOI 10.1016/j.jag.2006.08.002
+   Lin YP, 2008, GLOBAL ECOL BIOGEOGR, V17, P175, DOI 10.1111/j.1466-8238.2007.00352.x
+   Lin YB, 2008, ENVIRON MONIT ASSESS, V145, P209, DOI 10.1007/s10661-007-0030-7
+   Luck GW, 2004, P NATL ACAD SCI USA, V101, P182, DOI 10.1073/pnas.2237148100
+   Lunetta RS, 2006, REMOTE SENS ENVIRON, V105, P142, DOI 10.1016/j.rse.2006.06.018
+   Luoto M, 2004, ECOL APPL, V14, P1946, DOI 10.1890/02-5176
+   MacGregor-Fors I, 2010, CONDOR, V112, P711, DOI 10.1525/cond.2010.100062
+   MARONE L., 1991, ECOLOGIA AUSTRAL, V1, P77
+   Marzluff John M., 2005, Urban Ecosystems, V8, P157, DOI 10.1007/s11252-005-4378-6
+   Leveau LM, 2018, PEERJ, V6, DOI 10.7717/peerj.6056
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Muller J, 2010, REMOTE SENS ENVIRON, V114, P490, DOI 10.1016/j.rse.2009.10.006
+   Narosky T., 1993, AVES PROVINCIA BUENO
+   Narosky T., 2003, GULA IDENTIFICATION
+   Nieto S, 2015, GLOB ECOL CONSERV, V3, P729, DOI 10.1016/j.gecco.2015.03.005
+   Oksanen J, 2008, VEGAN COMMUNITY ECOL
+   Pautasso M, 2007, ECOL LETT, V10, P16, DOI 10.1111/j.1461-0248.2006.00993.x
+   Pettorelli N, 2005, TRENDS ECOL EVOL, V20, P503, DOI 10.1016/j.tree.2005.05.011
+   Phillips LB, 2008, REMOTE SENS ENVIRON, V112, P4380, DOI 10.1016/j.rse.2008.08.001
+   Phillips LB, 2010, ECOL APPL, V20, P2007, DOI 10.1890/09-0580.1
+   R Develompment Core Team, 2011, R LANG ENV STAT COMP
+   RAPPORT DJ, 1985, AM NAT, V125, P617, DOI 10.1086/284368
+   Rocchini D, 2010, ECOL INFORM, V5, P318, DOI 10.1016/j.ecoinf.2010.06.001
+   Rouse J. W., 1974, NASAGSFC1137
+   Rowhani P, 2008, ECOSYSTEMS, V11, P854, DOI 10.1007/s10021-008-9165-9
+   Sakamoto T, 2005, REMOTE SENS ENVIRON, V96, P366, DOI 10.1016/j.rse.2005.03.008
+   Schmidtlein S, 2007, J VEG SCI, V18, P131, DOI 10.1658/1100-9233(2007)18[131:MTFCOS]2.0.CO;2
+   Shochat E, 2006, TRENDS ECOL EVOL, V21, P186, DOI 10.1016/j.tree.2005.11.019
+   SUHONEN J, 1988, ORNIS FENNICA, V65, P76
+   Tedeschi LO, 2006, AGR SYST, V89, P225, DOI 10.1016/j.agsy.2005.11.004
+   Travaini A, 2007, DIVERS DISTRIB, V13, P289, DOI 10.1111/j.1472-4642.2007.00338.x
+   Turner W, 2003, TRENDS ECOL EVOL, V18, P306, DOI 10.1016/S0169-5347(03)00070-3
+   Venier LA, 2004, J BIOGEOGR, V31, P315, DOI 10.1046/j.0305-0270.2003.01014.x
+   VERNER J, 1985, CONDOR, V87, P47, DOI 10.2307/1367130
+   Weyland Federico, 2008, Ecol. austral, V18, P357
+   WIENS J. A., 1989, ECOLOGY BIRD COMMUNI, V2
+   Zar JH, 1999, BIOSTATISTICAL ANAL
+   Zuur A.F., 2007, ANAL ECOLOGICAL DATA
+   Zuur Alain F., 2009, P1
+NR 96
+TC 2
+Z9 2
+U1 16
+U2 27
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD SEP
+PY 2018
+VL 177
+BP 103
+EP 113
+DI 10.1016/j.landurbplan.2018.04.007
+PG 11
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA GM3AG
+UT WOS:000437967500010
+DA 2019-03-26
+ER
+
+PT B
+AU Voulis, N
+   Warnier, M
+   Brazier, FMT
+AF Voulis, Nina
+   Warnier, Martijn
+   Brazier, Frances M. T.
+GP IEEE
+TI Statistical Data-Driven Regression Method for Urban Electricity Demand
+   Modelling
+SO 2018 IEEE INTERNATIONAL CONFERENCE ON ENVIRONMENT AND ELECTRICAL
+   ENGINEERING AND 2018 IEEE INDUSTRIAL AND COMMERCIAL POWER SYSTEMS EUROPE
+   (EEEIC / I&CPS EUROPE)
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Environment and Electrical Engineering
+   / IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS
+   Europe)
+CY JUN 12-15, 2018
+CL Palermo, ITALY
+SP IEEE, EMC Soc, IEEe Power & Energy Soc, IEEE Ind Applicat Soc
+DE urban demand; linear regression; energy transition; renewables;
+   data-driven model
+ID BUILDING ENERGY-CONSUMPTION; SIMULATION; CITY
+AB As the focus of the energy transition within cities worldwide moves towards local communities and neighbourhoods, the need for insights in the dynamics of local electricity demand increases. Detailed local electricity demand information is, however, often not available. This paper proposes a statistical data-driven method to model local electricity demand for mixed urban areas, using a combination of other openly available datasets. Such datasets however are mutually incompatible without further conversion. The proposed method overcomes this problem. Linear regression is used to combine these different datasets, whereby the regression coefficients have the meaning of scaling factors for different types of electricity consumers (households, offices, shops, etc.). The method is calibrated and validated using respectively a training and a test dataset of Dutch municipalities, yielding R-squared values for most consumer types between 61% and 98%. The application of the method for local electricity demand modelling is illustrated for three Dutch municipalities with different consumer compositions.
+C1 [Voulis, Nina; Warnier, Martijn; Brazier, Frances M. T.] Delft Univ Technol, Syst Engn Sect, Delft, Netherlands.
+RP Voulis, N (reprint author), Delft Univ Technol, Syst Engn Sect, Delft, Netherlands.
+EM n.voulis@tudelft.nl; m.e.warnier@tudelft.nl; m.brazier@tudelft.nl
+FU Netherlands Organisation for Scientific Research (NWO) [408-13-012]
+FX This work was supported by the Netherlands Organisation for Scientific
+   Research (NWO) grant 408-13-012.
+CR Allegrini J, 2015, RENEW SUST ENERG REV, V52, P1391, DOI 10.1016/j.rser.2015.07.123
+   Cajot S, 2015, ENRGY PROCED, V78, P3366, DOI 10.1016/j.egypro.2015.11.752
+   Centraal Bureau voor de Statistiek, KERNC WIJK BUURT
+   Deru M., 2011, TECH REP
+   Fonseca JA, 2015, APPL ENERG, V142, P247, DOI 10.1016/j.apenergy.2014.12.068
+   Heiple S, 2008, ENERG BUILDINGS, V40, P1426, DOI 10.1016/j.enbuild.2008.01.005
+   Howard B, 2012, ENERG BUILDINGS, V45, P141, DOI 10.1016/j.enbuild.2011.10.061
+   Mastrucci A, 2014, ENERG BUILDINGS, V75, P358, DOI 10.1016/j.enbuild.2014.02.032
+   Mirakyan A, 2013, RENEW SUST ENERG REV, V22, P289, DOI 10.1016/j.rser.2013.01.033
+   NEDU, VERBR
+   OpenStreetMap Foundation, OPENSTREETMAP
+   Pasimeni MR, 2014, ENERG POLICY, V65, P165, DOI 10.1016/j.enpol.2013.10.027
+   Pfenninger S, 2017, ENERG POLICY, V101, P211, DOI 10.1016/j.enpol.2016.11.046
+   Planbureau voor de Leefomgeving, 2012, TECH REP
+   Rijkswaterstaat, KLIM
+   Voulis N, 2017, APPL ENERG, V205, P1311, DOI 10.1016/j.apenergy.2017.07.134
+   Zhao HX, 2012, RENEW SUST ENERG REV, V16, P3586, DOI 10.1016/j.rser.2012.02.049
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-5186-5
+PY 2018
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BL4AI
+UT WOS:000450163702118
+DA 2019-03-26
+ER
+
+PT J
+AU Shaw, D
+   Cumbers, A
+   McMaster, R
+   Crossan, J
+AF Shaw, Deirdre
+   Cumbers, Andrew
+   McMaster, Robert
+   Crossan, John
+TI Scaling Up Community Action for Tackling Climate Change
+SO BRITISH JOURNAL OF MANAGEMENT
+LA English
+DT Article
+ID GARDENS; POLICY; CITY; FOOD; ENTREPRENEURIALISM; SUSTAINABILITY;
+   CONSUMPTION; RESILIENCE; POLITICS; PLACE
+AB Tackling climate change requires a set of deeply intertwined geographical responsibilities whereby actors at and across different geographical scales are intimately connected. Creating effective strategies requires far more than an invocation for individual behavioural change in thinking globally and acting locally, but attention to the multi-scalar conflicts, tensions and also opportunities to develop the most appropriate collective responses. In this paper, we use the example of community gardening initiatives in a large UK city to critically interrogate the problems facing groups at the local neighbourhood level in pursuing sustainability agendas. We focus on the organizational imperative to create a multi-scalar food policy partnership at the city level as a way of confronting dominant global neoliberal urban competitiveness agendas. Our results emphasize the critical importance of scalar politics in enabling effective climate change strategies.
+C1 [Shaw, Deirdre; Cumbers, Andrew; McMaster, Robert; Crossan, John] Univ Glasgow, Adam Smith Business Sch, West Quadrangle,Gilbert Scott Bldg, Glasgow G12 8QQ, Lanark, Scotland.
+RP Shaw, D (reprint author), Univ Glasgow, Adam Smith Business Sch, West Quadrangle,Gilbert Scott Bldg, Glasgow G12 8QQ, Lanark, Scotland.
+EM deirdre.shaw@glasgow.ac.uk
+CR Amin A, 2002, ENVIRON PLANN A, V34, P959, DOI 10.1068/a3537
+   Black IR, 2017, J CLEAN PROD, V154, P12, DOI 10.1016/j.jclepro.2017.03.182
+   Boyer M. Christine, 1995, SPATIAL PRACTICES CR, P81
+   Carrington MJ, 2016, MARKETING THEOR, V16, P21, DOI 10.1177/1470593115595674
+   Crossan J, 2016, ANTIPODE, V48, P937, DOI 10.1111/anti.12220
+   Cumbers A, 2015, SPACE POLITY, V19, P62, DOI 10.1080/13562576.2014.995465
+   Delind LB, 2006, J AGR ENVIRON ETHIC, V19, P121, DOI 10.1007/s10806-005-1803-z
+   Devine-Wright P, 2013, GLOBAL ENVIRON CHANG, V23, P61, DOI 10.1016/j.gloenvcha.2012.08.003
+   Drescher A. W., 2006, TROPICAL HOMEGARDENS, P317, DOI DOI 10.1007/978-1-4020-4948-4_18
+   Featherstone D, 2008, RESISTANCE SPACE POL
+   Featherstone D, 2012, T I BRIT GEOGR, V37, P177, DOI 10.1111/j.1475-5661.2011.00493.x
+   Ferris J, 2001, SOC POLICY ADMIN, V35, P559, DOI 10.1111/1467-9515.t01-1-00253
+   Garrett A, 2015, EAST ECON J, V41, P200, DOI 10.1057/eej.2014.8
+   Geels FW, 2014, THEOR CULT SOC, V31, P21, DOI 10.1177/0263276414531627
+   Geels FW, 2010, RES POLICY, V39, P495, DOI 10.1016/j.respol.2010.01.022
+   Glover TD, 2003, J LEISURE RES, V35, P190
+   HARVEY D, 1989, GEOGR ANN B, V71, P3, DOI 10.2307/490503
+   Hayden Dolores, 1995, POWER PLACE
+   Head L, 2006, T I BRIT GEOGR, V31, P505, DOI 10.1111/j.1475-5661.2006.00228.x
+   Hoenkamp Robin, 2011, J RENEWABLE ENERGY L, V4, P269
+   Holland L., 2004, Local Environment, V9, P285, DOI 10.1080/1354983042000219388
+   Jones C, 2010, PHILOS TODAY, V54, P30, DOI 10.5840/philtoday201054133
+   Kingsley J., 2006, URBAN POLICY RES, V24, P525, DOI DOI 10.1080/08111140601035200
+   Lang Tim, 2009, FOOD POLICY INTEGRAT
+   Lockwood J. A., 1999, Agriculture and Human Values, V16, P365, DOI 10.1023/A:1007699717401
+   MacKinnon D, 2013, PROG HUM GEOG, V37, P253, DOI 10.1177/0309132512454775
+   MacKinnon D, 2011, PROG HUM GEOG, V35, P21, DOI 10.1177/0309132510367841
+   MacLeod G, 2002, ANTIPODE, V34, P602, DOI 10.1111/1467-8330.00256
+   Massey D, 2005, FOR SPACE
+   Massey D., 2004, GEOGR ANN B, V86, P5, DOI DOI 10.1111/J.0435-3684.2004.00150.X
+   McClintock N, 2014, LOCAL ENVIRON, V19, P147, DOI 10.1080/13549839.2012.752797
+   Miles M. B., 1994, QUALITATIVE DATA ANA
+   Moragues-Faus A, 2015, ENVIRON PLANN A, V47, P1558, DOI 10.1177/0308518X15595754
+   Morgan K, 2006, WORLDS FOOD PLACE PO
+   Morgan K, 2015, URBAN STUD, V52, P1379, DOI 10.1177/0042098014534902
+   Moskow A, 1999, ENVIRON URBAN, V11, P127, DOI 10.1177/095624789901100211
+   Nolan L., 2015, THESIS
+   Peck J, 2017, URBAN STUD, V54, P4, DOI 10.1177/0042098016679355
+   Porter Michael E, 1990, COMPETITIVE ADVANTAG
+   Pothukuchi K., 1999, Agriculture and Human Values, V16, P213, DOI 10.1023/A:1007558805953
+   Prugh T., 2000, LOCAL POLITICS GLOBA
+   Saldivar-Tanaka L, 2004, AGR HUM VALUES, V21, P399, DOI 10.1023/B:AHUM.0000047207.57128.a5
+   Smith N., 1996, NEW URBAN FRONTIER G
+   Stocker L., 1998, LOCAL ENV, V3, P179, DOI DOI 10.1080/13549839808725556
+   Tan LHH, 2009, LOCAL ENVIRON, V14, P529, DOI 10.1080/13549830902904060
+   Turner B, 2011, LOCAL ENVIRON, V16, P509, DOI 10.1080/13549839.2011.569537
+NR 46
+TC 1
+Z9 1
+U1 4
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1045-3172
+EI 1467-8551
+J9 BRIT J MANAGE
+JI BRIT. J. MANAGE.
+PD APR
+PY 2018
+VL 29
+IS 2
+SI SI
+BP 266
+EP 278
+DI 10.1111/1467-8551.12274
+PG 13
+WC Business; Management
+SC Business & Economics
+GA GC9FB
+UT WOS:000430101800005
+DA 2019-03-26
+ER
+
+PT J
+AU LeVasseur, MT
+   Goldstein, ND
+   Tabb, LP
+   Olivieri-Mui, BL
+   Welles, SL
+AF LeVasseur, Michael T.
+   Goldstein, Neal D.
+   Tabb, Loni P.
+   Olivieri-Mui, Brianne L.
+   Welles, Seth L.
+TI The Effect of PrEP on HIV Incidence Among Men Who Have Sex With Men in
+   the Context of Condom Use, Treatment as Prevention, and Seroadaptive
+   Practices
+SO JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES
+LA English
+DT Article
+DE PrEP; seroadaption; treatment as prevention; condom use; mathematical
+   modeling; HIV prevention
+ID DEMAND PREEXPOSURE PROPHYLAXIS; UNITED-STATES; RACIAL DISPARITIES;
+   SAN-FRANCISCO; BLACK-MEN; OBSERVATIONAL COHORT; RISK BEHAVIORS; AFRICAN
+   WOMEN; LOS-ANGELES; YOUNG MEN
+AB Background: HIV preexposure prophylaxis (PrEP) is an effective tool in preventing HIV infection among high-risk men who have sex with men (MSM). It is unknown how effective PrEP is in the context of other implemented HIV prevention strategies, including condom use, seroadaption, and treatment as prevention (TasP). We evaluate the impact of increasing uptake of PrEP in conjunction with established prevention strategies on HIV incidence in a high-risk population of MSM through simulation.
+   Methods: Agent-based simulation models representing the sexual behavior of high-risk, urban MSM in the United States over the period of 1 year were used to evaluate the effect of PrEP on HIV infection rates. Simulations included data for 10,000 MSM and compared increasing rates of PrEP uptake under 8 prevention paradigms: no additional strategies, TasP, condom use, seroadaptive behavior, and combinations thereof.
+   Results: We observed a mean of 103.2 infections per 10,000 MSM in the absence of any prevention method. PrEP uptake at 25% without any additional prevention strategies prevented 30.7% of infections. In the absence of PrEP, TasP, condom use, and seroadaptive behavior independently prevented 27.1%, 48.8%, and 37.7% of infections, respectively, and together prevented 72.2%. The addition of PrEP to the 3 aforementioned prevention methods, at 25% uptake, prevented an additional 5.0% of infections.
+   Conclusions: To achieve a 25% reduction in HIV infections by 2020, HIV prevention efforts should focus on significantly scaling up access to PrEP in addition to HIV testing, access to antiretroviral therapy, and promoting condom use.
+C1 [LeVasseur, Michael T.; Goldstein, Neal D.; Tabb, Loni P.; Welles, Seth L.] Drexel Univ, Dornsife Sch Publ Hlth, Dept Epidemiol & Biostat, Philadelphia, PA 19104 USA.
+   [Goldstein, Neal D.] Christiana Care Hlth Syst, Dept Pediat, Newark, DE USA.
+   [Olivieri-Mui, Brianne L.] Northeastern Univ, Bouve Sch Hlth Sci, Dept Hlth Sci, Boston, MA 02115 USA.
+RP LeVasseur, MT (reprint author), Drexel Univ, Dornsife Sch Publ Hlth, 3215 Market St, Philadelphia, PA 19104 USA.
+EM mtl55@drexel.edu
+CR Baeten JM, 2012, NEW ENGL J MED, V367, P399, DOI 10.1056/NEJMoa1108524
+   Berry M, 2007, AIDS, V21, P2349, DOI 10.1097/QAD.0b013e3282f12f41
+   Bingham TA, 2003, AIDS EDUC PREV, V15, P39, DOI 10.1521/aeap.15.1.5.39.23613
+   Brooks RA, 2012, AIDS PATIENT CARE ST, V26, P87, DOI 10.1089/apc.2011.0283
+   Caceres CF, 2015, J INT AIDS SOC, V18, P1, DOI 10.7448/IAS.18.4.20222
+   Carnegie NB, 2015, JAIDS-J ACQ IMM DEF, V69, P119, DOI 10.1097/QAI.0000000000000555
+   Centers for Disease Control and Prevention, 2015, DIAGN HIV INF US DEP, V27
+   Cohen MS, 2012, CURR OPIN HIV AIDS, V7, P99, DOI 10.1097/COH.0b013e32834f5cf2
+   Davey DJ, 2016, CLIN INFECT DIS, V62, P402, DOI 10.1093/cid/civ890
+   DOLL LS, 1992, J SEX RES, V29, P1, DOI 10.1080/00224499209551630
+   Escobar Erik, 2015, Online J Public Health Inform, V7, pe224, DOI 10.5210/ojphi.v7i3.6104
+   Freeborn K, 2018, J CLIN NURS, V27, P3254, DOI 10.1111/jocn.13990
+   Goldstein ND, 2017, EPIDEMIOLOGY, V28, P215, DOI 10.1097/EDE.0000000000000582
+   Golub SA, 2010, JAIDS-J ACQ IMM DEF, V54, P548, DOI 10.1097/QAI.0b013e3181e19a54
+   Gonsalves GS, 2018, MED DECIS MAKING, V38, P262, DOI 10.1177/0272989X17716431
+   Goodreau SM, 2017, LANCET HIV, V4, pE311, DOI 10.1016/S2352-3018(17)30067-X
+   Grant RM, 2015, CONTR HIV EP ANT HAV
+   Grant RM, 2014, LANCET INFECT DIS, V14, P820, DOI 10.1016/S1473-3099(14)70847-3
+   Grant RM, 2010, NEW ENGL J MED, V363, P2587, DOI 10.1056/NEJMoa1011205
+   Hamel L, 2014, HIV AIDS LIVES GAY B
+   Harawa NT, 2004, JAIDS-J ACQ IMM DEF, V35, P526, DOI 10.1097/00126334-200404150-00011
+   Hart TA, 2003, J SEX RES, V40, P179, DOI 10.1080/00224490309552179
+   Hernan MA, 2015, AM J EPIDEMIOL, V181, P103, DOI 10.1093/aje/kwu272
+   Hoff CC, 2015, AIDS PATIENT CARE ST, V29, P408, DOI 10.1089/apc.2014.0315
+   Hojilla JC, 2016, AIDS BEHAV, V20, P1461, DOI 10.1007/s10461-015-1055-5
+   Hoots BE, 2016, CLIN INFECT DIS, V63, P672, DOI 10.1093/cid/ciw367
+   Jenness SM, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0169484
+   Jenness SM, 2016, J INFECT DIS, V214, P1800, DOI 10.1093/infdis/jiw223
+   Kasaie P, 2017, JAIDS-J ACQ IMM DEF, V75, P175, DOI 10.1097/QAI.0000000000001354
+   Kelley CF, 2015, CLIN INFECT DIS, V61, P1590, DOI 10.1093/cid/civ664
+   Laufer FN, 2015, MMWR-MORBID MORTAL W, V64, P1296, DOI 10.15585/mmwr.mm6446a5
+   Laumann EO, 1997, JAMA-J AM MED ASSOC, V277, P1052, DOI 10.1001/jama.277.13.1052
+   Liu AY, 2016, JAMA INTERN MED, V176, P75, DOI 10.1001/jamainternmed.2015.4683
+   Magnus M, 2010, AIDS PATIENT CARE ST, V24, P615, DOI 10.1089/apc.2010.0111
+   Marcus JL, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081997
+   Marrazzo JM, 2015, NEW ENGL J MED, V372, P509, DOI 10.1056/NEJMoa1402269
+   McCormack S, 2016, LANCET, V387, P53, DOI 10.1016/S0140-6736(15)00056-2
+   McFarland W, 2012, AIDS BEHAV, V16, P121, DOI 10.1007/s10461-011-9936-8
+   McFarland W, 2011, AIDS CARE, V23, P261, DOI 10.1080/09540121.2010.507748
+   Millett GA, 2006, AM J PUBLIC HEALTH, V96, P1007, DOI 10.2105/AJPH.2005.066720
+   Millett GA, 2012, LANCET, V380, P341, DOI 10.1016/S0140-6736(12)60899-X
+   Molina JM, 2015, NEW ENGL J MED, V373, P2237, DOI 10.1056/NEJMoa1506273
+   Molina JM, 2017, LANCET HIV, V4, pE402, DOI 10.1016/S2352-3018(17)30089-9
+   Mustanski B, 2015, AIDS BEHAV, V19, P1037, DOI 10.1007/s10461-014-0955-0
+   Office of Disease Prevention and Health Promotion, 2016, HIV HLTH PEOPL 2020
+   Oldenburg CE, 2018, AIDS BEHAV, V22, P1075, DOI 10.1007/s10461-017-1701-1
+   Omori R, 2015, SEX TRANSM INFECT, V91, P451, DOI 10.1136/sextrans-2014-051925
+   Punyacharoensin N, 2015, AIDS, V29, P339, DOI 10.1097/QAD.0000000000000525
+   Rolle CP, 2017, JAIDS-J ACQ IMM DEF, V76, P250, DOI 10.1097/QAI.0000000000001497
+   Rosenberg ES, 2011, BMC PUBLIC HEALTH, V11, DOI 10.1186/1471-2458-11-189
+   Roux AVD, 2015, AM J EPIDEMIOL, V181, P100, DOI 10.1093/aje/kwu270
+   Singh S, 2014, MMWR-MORBID MORTAL W, V63, P829
+   Smith A., 2010, Morbidity and Mortality Weekly Report, V59, P1201
+   Smith D. K., 2012, Morbidity and Mortality Weekly Report, V61, P586
+   Smith DK, 2015, MMWR-MORBID MORTAL W, V64, P1291, DOI 10.15585/mmwr.mm6446a4
+   Smith DK, 2015, JAIDS-J ACQ IMM DEF, V68, P337, DOI 10.1097/QAI.0000000000000461
+   Snowden JM, 2017, SEX TRANSM INFECT, V93, P52, DOI 10.1136/sextrans-2015-052382
+   Snowden JM, 2014, SEX TRANSM INFECT, V90, P498, DOI 10.1136/sextrans-2013-051368
+   Storholm ED, 2017, PREV SCI, V18, P737, DOI 10.1007/s11121-017-0799-8
+   Sullivan PS, 2015, ANN EPIDEMIOL, V25, P445, DOI 10.1016/j.annepidem.2015.03.006
+   Sullivan PS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0090514
+   Tieu HV, 2016, AIDS PATIENT CARE ST, V30, P39, DOI 10.1089/apc.2015.0237
+   Van Damme L, 2012, NEW ENGL J MED, V367, P411, DOI 10.1056/NEJMoa1202614
+   Van de Ven P, 1997, J SEX RES, V34, P349, DOI 10.1080/00224499709551903
+   van den Boom W, 2014, JAIDS-J ACQ IMM DEF, V65, P375, DOI 10.1097/QAI.0000000000000051
+   Volk JE, 2015, CLIN INFECT DIS, V61, P1601, DOI 10.1093/cid/civ778
+   Wegesin D., 2000, J PSYCHOL HUMAN SEXU, V12, P43, DOI DOI 10.1300/J056V12N03_03
+   World Health Organization, 2012, GUID OR PRE EXP PROP
+   Wu H, 2017, CLIN INFECT DIS, V64, P144, DOI 10.1093/cid/ciw701
+NR 69
+TC 2
+Z9 2
+U1 1
+U2 2
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 1525-4135
+EI 1077-9450
+J9 JAIDS-J ACQ IMM DEF
+JI JAIDS
+PD JAN 1
+PY 2018
+VL 77
+IS 1
+BP 31
+EP 40
+PG 10
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA GB5MF
+UT WOS:000429107900009
+PM 28961679
+DA 2019-03-26
+ER
+
+PT J
+AU Dai, Y
+   Chen, L
+   Hou, XS
+   Shen, ZY
+AF Dai, Ying
+   Chen, Lei
+   Hou, Xiaoshu
+   Shen, Zhenyao
+TI Effects of the spatial resolution of urban drainage data on nonpoint
+   source pollution prediction
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Nonpoint source pollution; Runoff; Drainage data; Spatial resolution;
+   SWMM; Rainfall type
+ID WATER-QUALITY; LANDSCAPE PATTERN; STORMWATER RUNOFF; MODEL; SWMM;
+   CALIBRATION; SIMULATION; CATCHMENTS; IMPACT; IMPERVIOUSNESS
+AB Detailed urban drainage data are important for urban nonpoint source (NPS) pollution prediction. However, the difficulties in collecting complete pipeline data usually interfere with urban NPS pollution studies, especially in large-scale study areas. In this study, NPS pollution models were constructed for a typical urban catchment using the SWMM, based on five drainage datasets with different resolution levels. The influence of the data resolution on the simulation results was examined. The calibration and validation results of the higher-resolution (HR) model indicated a satisfactory model performance with relatively detailed drainage data. However, the performances of the parameter-regionalized lower-resolution (LR) models were still affected by the drainage data scale. This scale effect was due not only to the pipe routing process but also to changes in the effective impervious area, which could be limited by a scale threshold. The runoff flow and NPS pollution responded differently to changes in scale, primarily because of the difference between buildup and washoff and the more significant decrease in pollutant infiltration loss and the much greater increase of pollutant flooding loss while scaling up. Additionally, scale effects were also affected by the rainfall type. Sub-area routing between impervious and pervious areas could improve the LR model performances to an extent, and this approach is recommended to offset the influence of spatial resolution deterioration.
+C1 [Dai, Ying; Chen, Lei; Hou, Xiaoshu; Shen, Zhenyao] Beijing Normal Univ, Sch Environm, State Key Lab Water Environm Simulat, Beijing 100875, Peoples R China.
+RP Chen, L (reprint author), Beijing Normal Univ, Sch Environm, State Key Lab Water Environm Simulat, Beijing 100875, Peoples R China.
+EM chenlei1982bnu@bnu.edu.cn
+OI Shen, Zhenyao/0000-0002-6620-1943
+FU State Key Program of National Natural Science of China [41530635]; Fund
+   for Innovative Research Group of the National Natural Science Foundation
+   of China [51721093]; Open Foundation of the State Key Laboratory of
+   Urban and Regional Ecology of China [SKLURE2017-2-2]; Graduate
+   Innovation and Entrepreneurship Funds of Beijing Normal University
+   [3122121F1]; Interdiscipline Research Funds of Beijing Normal University
+FX This research was funded by the State Key Program of National Natural
+   Science of China (No. 41530635), the Fund for Innovative Research Group
+   of the National Natural Science Foundation of China (No. 51721093), the
+   Open Foundation of the State Key Laboratory of Urban and Regional
+   Ecology of China (No. SKLURE2017-2-2), the Graduate Innovation and
+   Entrepreneurship Funds of Beijing Normal University (No. 3122121F1), and
+   the Interdiscipline Research Funds of Beijing Normal University. The
+   authors want to thank the logistics department of Beijing Normal
+   University for their support during monitoring and other basic data
+   collection.
+CR Abdul-Aziz OI, 2016, URBAN WATER J, V13, P302, DOI 10.1080/1573062X.2014.991328
+   Ali M, 2014, J HYDROL, V519, P683, DOI 10.1016/j.jhydrol.2014.07.018
+   Bekele EG, 2007, J HYDROL, V341, P165, DOI 10.1016/j.jhydrol.2007.05.014
+   Bhaduri B, 2001, J WATER RES PL-ASCE, V127, P13, DOI 10.1061/(ASCE)0733-9496(2001)127:1(13)
+   CHEN L, 2017, ENTROPY-SWITZ, V19, DOI DOI 10.3390/E19060265
+   [陈晓�? Chen Xiaoyan], 2013, [中国给水排水, China Water & Wastewater], V29, P4
+   Deletic A, 2012, PHYS CHEM EARTH, V42-44, P3, DOI 10.1016/j.pce.2011.04.007
+   Ebrahimian A, 2016, J HYDROL, V536, P109, DOI 10.1016/j.jhydrol.2016.02.023
+   Eller KT, 2017, J ENVIRON MANAGE, V196, P702, DOI 10.1016/j.jenvman.2017.03.059
+   Elliott AH, 2009, J HYDROL ENG, V14, P975, DOI 10.1061/(ASCE)HE.1943-5584.0000064
+   Ghadim HB, 2017, WATER ENVIRON RES, V89, P862, DOI 10.2175/106143017X14902968254764
+   Gholizadeh MH, 2016, SCI TOTAL ENVIRON, V566, P1552, DOI 10.1016/j.scitotenv.2016.06.046
+   Ghosh I, 2012, J HYDROL ENG, V17, P129, DOI 10.1061/(ASCE)HE.1943-5584.0000405
+   Haris H, 2016, IOP C SER EARTH ENV, V32, DOI 10.1088/1755-1315/32/1/012022
+   Hong Y, 2017, ENVIRON MODELL SOFTW, V96, P158, DOI 10.1016/j.envsoft.2017.06.047
+   Kim HS, 2014, HYDROL PROCESS, V28, P4023, DOI 10.1002/hyp.9942
+   Krebs G, 2014, J HYDROL, V512, P482, DOI 10.1016/j.jhydrol.2014.03.013
+   [兰旻 Lan Min], 2014, [清华大学学报. 自然科学�?, Journal of Tsinghua University. Science and Technology], V54, P1018
+   Liu Y, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-07465-5
+   Maharjan B, 2017, P EST ACAD SCI, V66, P225, DOI 10.3176/proc.2017.3.02
+   Morgan A, 2016, PROCEDIA ENGINEER, V154, P853, DOI 10.1016/j.proeng.2016.07.453
+   Park SY, 2008, DESALINATION, V226, P328, DOI 10.1016/j.desal.2007.02.115
+   Peterson EW, 2006, J HYDROL, V329, P294, DOI 10.1016/j.jhydrol.2006.02.017
+   Vo PT, 2015, SCI TOTAL ENVIRON, V512, P353, DOI 10.1016/j.scitotenv.2015.01.072
+   Roodsari BK, 2017, HYDROL PROCESS, V31, P2990, DOI 10.1002/hyp.11230
+   Rosa DJ, 2015, J AM WATER RESOUR AS, V51, P746, DOI 10.1111/jawr.12272
+   SEPA, 2002, STAND METH WAT WAST
+   Sharifi A, 2017, CATENA, V150, P87, DOI 10.1016/j.catena.2016.11.009
+   Shen ZY, 2015, ECOL INDIC, V48, P417, DOI 10.1016/j.ecolind.2014.08.019
+   Shin HS, 2017, DESALIN WATER TREAT, V70, P86, DOI 10.5004/dwt.2017.11450
+   Son CH, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9010145
+   Sun N, 2016, HYDROL PROCESS, V30, P4779, DOI 10.1002/hyp.10964
+   Temprano J, 2006, WATER SA, V32, P55
+   Xiao R, 2016, SCI REP-UK, V6, DOI 10.1038/srep25250
+   Xu YG, 2017, SCI TOTAL ENVIRON, V590, P361, DOI 10.1016/j.scitotenv.2017.02.032
+   Yao L, 2016, HYDROL PROCESS, V30, P1836, DOI 10.1002/hyp.10758
+   박지�?, 2012, [Journal of Korean Society of Environmental Engineers, �?한환경공학회�?], V34, P720
+   Yuceil K, 2007, CLEAN-SOIL AIR WATER, V35, P638, DOI 10.1002/clen.200700098
+NR 38
+TC 2
+Z9 2
+U1 4
+U2 17
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD MAY
+PY 2018
+VL 25
+IS 15
+SI SI
+BP 14799
+EP 14812
+DI 10.1007/s11356-018-1377-8
+PG 14
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA GH5SL
+UT WOS:000433495500049
+PM 29541983
+DA 2019-03-26
+ER

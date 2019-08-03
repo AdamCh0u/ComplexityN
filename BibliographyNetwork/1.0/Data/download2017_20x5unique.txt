@@ -1,0 +1,691 @@
+
+PT J
+AU Afolabi, OOD
+   Sohail, M
+AF Afolabi, Oluwasola O. D.
+   Sohail, M.
+TI Microwaving human faecal sludge as a viable sanitation technology option
+   for treatment and value recovery - A critical review
+SO JOURNAL OF ENVIRONMENTAL MANAGEMENT
+LA English
+DT Review
+DE Human faecal sludge; Microwave; Sanitation; Waste management; Resource
+   recovery; Low- and middle-income countries
+ID WASTE-ACTIVATED-SLUDGE; ASSISTED HYDROTHERMAL SYNTHESIS;
+   ANAEROBIC-DIGESTION PROCESS; FT-IR SPECTROSCOPY; SEWAGE-SLUDGE; THERMAL
+   PRETREATMENT; HYDRODYNAMIC CAVITATION; METHANE PRODUCTION; INDUSTRIAL
+   SLUDGE; INDUCED PYROLYSIS
+AB The prolonged challenges and terrible consequences of poor sanitation, especially in developing economies, call for the exploration of new sustainable sanitation technologies. Such technologies must be: capable of effectively treating human faecal wastes without any health or environmental impacts; scalable to address rapid increases in population and urbanization; capable of meeting environmental regulations and standards for faecal management; and competitive with existing strategies. Further and importantly, despite its noxiousness and pathogenic load, the chemical composition of human faecal sludge indicates that it could be considered a potentially valuable, nutrient-rich renewable resource, rather than a problematic waste product. New approaches to faecal sludge management must consequently seek to incorporate a 'valuable resource recovery' approach, compatible with stringent treatment requirements.
+   This review intends to advance the understanding of human faecal sludge as a sustainable organic-rich resource that is typically high in moisture (up to 97 per cent), making it a suitable candidate for dielectric heating, i.e. microwave irradiation, to promote faecal treatment, while also recovering value-added products such as ammonia liquor concentrate (suitable for fertilizers) and chars (suitable for fuel) which can provide an economic base to sustain the technology. Additionally, microwaving human faecal sludge represents a thermally effective approach that can destroy pathogens, eradicate the foul odour associated human faecal sludge, while also preventing hazardous product formations and/or emissions, aside from other benefits such as improved dewaterability and heavy metals recovery. Key technological parameters crucial for scaling the technology as a complementary solution to the challenges of onsite sanitation are also discussed. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Afolabi, Oluwasola O. D.; Sohail, M.] Univ Loughborough, Sch Civil & Bldg Engn, Loughborough LE11 3TU, Leics, England.
+RP Afolabi, OOD (reprint author), Univ Loughborough, Sch Civil & Bldg Engn, Loughborough LE11 3TU, Leics, England.
+EM o.o.d.afolabi2@lboro.ac.uk
+OI Sohail, M/0000-0001-6499-1147
+FU Bill & Melinda Gates Foundation, Seattle WA
+FX The authors would like to thank The Bill & Melinda Gates Foundation,
+   Seattle WA for its funding to Loughborough University, UK for the
+   'Reinvent the Toilet Project' which inspired this work. The views
+   expressed in this paper are the authors' own. We also thank the
+   anonymous reviewers for their very helpful and insightful comments,
+   which have helped improve this article.
+CR Afolabi OOD, 2015, WASTE BIOMASS VALORI, V6, P147, DOI 10.1007/s12649-014-9333-4
+   Ahn JH, 2009, CHEM ENG J, V153, P145, DOI 10.1016/j.cej.2009.06.032
+   Appleton TJ, 2005, APPL ENERG, V81, P85, DOI 10.1016/j.apenergy.2004.07.002
+   Bagreev A, 2001, CARBON, V39, P1971, DOI 10.1016/S0008-6223(01)00026-4
+   Bai F., 2011, INT C ENV BIOM BIOT, V3, P11
+   Barjenbruch M, 2003, ADV ENVIRON RES, V7, P715, DOI 10.1016/S1093-0191(02)00032-1
+   BELYAEV IY, 1993, ELECTRO MAGNETOBIOL, V12, P39, DOI 10.3109/15368379309012861
+   Bender D. A., 1997, NUTR REFERENCE HDB
+   Borawski KM, 2008, J UROLOGY, V179, P290, DOI 10.1016/j.juro.2007.08.163
+   Bougrier C, 2008, CHEM ENG J, V139, P236, DOI 10.1016/j.cej.2007.07.099
+   Bradshaw SM, 1998, J S AFR I MIN METALL, V98, P201
+   Cain W.S., 2004, IDENTIFYING CONTROLL
+   CALLOWAY DH, 1971, J NUTR, V101, P205
+   Canfield J., 1963, NASACR71834
+   CDC, 2011, WAT ILLN
+   Chaggu E. J., 2004, THESIS
+   Chen CL, 2005, J HAZARD MATER, V123, P256, DOI 10.1016/j.jhazmat.2005.04.014
+   Chen HL, 1998, AM J CLIN NUTR, V68, P711
+   Chen Y, 2008, BIORESOURCE TECHNOL, V99, P4044, DOI 10.1016/j.biortech.2007.01.057
+   Chrostowki P., 2003, 76 WAT ENV FED TECHN
+   Cid BP, 2001, ANAL CHIM ACTA, V431, P209
+   Clark DE, 2000, MAT SCI ENG A-STRUCT, V287, P153, DOI 10.1016/S0921-5093(00)00768-1
+   Cofie OO, 2006, WATER RES, V40, P75, DOI 10.1016/j.watres.2005.10.023
+   Cofie OO, 2005, RENEW AGR FOOD SYST, V20, P73, DOI 10.1079/RAF200491
+   Cordero T, 2001, FUEL, V80, P1567, DOI 10.1016/S0016-2361(01)00034-5
+   Danesh P, 2008, WATER ENVIRON RES, V80, P784, DOI 10.2175/106143008X276714
+   Decareau R.V., 1985, MICROWAVES FOOD PROC
+   Del Porto D., 1999, COMPOSTING TOILET SY
+   Demirbas MF, 2011, ENERG CONVERS MANAGE, V52, P1815, DOI 10.1016/j.enconman.2010.10.041
+   Dogruel S., 2016, ENV TECHNOL
+   Dominguez A, 2008, CHEMOSPHERE, V70, P397, DOI 10.1016/j.chemosphere.2007.06.075
+   Dominguez A, 2006, BIORESOURCE TECHNOL, V97, P1185, DOI 10.1016/j.biortech.2005.05.011
+   Dominguez A, 2005, FUEL PROCESS TECHNOL, V86, P1007, DOI 10.1016/j.fuproc.2004.11.009
+   Dominguez A, 2003, J CHROMATOGR A, V1012, P193, DOI 10.1016/S0021-9673(03)01176-2
+   Drangert J.O., 1998, WATER S AFR, V24
+   Dwyer J, 2008, WATER RES, V42, P4699, DOI 10.1016/j.watres.2008.08.019
+   EASTWOOD MA, 1984, AM J CLIN NUTR, V40, P628
+   Eckhoff P, 2011, REINVENT TOILET CHAL
+   Engelhart W.G., 1992, MICROWAVE POWER CALI
+   Escala M., 2012, ENERGY FUELS
+   Eskicioglu C, 2008, WATER SCI TECHNOL, V57, P311, DOI 10.2166/wst.2008.010
+   Eskicioglu C, 2009, DESALINATION, V248, P279, DOI 10.1016/j.desal.2008.05.066
+   Eskicioglu C, 2008, WATER RES, V42, P4674, DOI 10.1016/j.watres.2008.08.010
+   Eskicioglu C, 2007, WATER ENVIRON RES, V79, P2304, DOI 10.2175/106143007X184069
+   Eskicioglu C, 2007, WATER ENVIRON RES, V79, P2265, DOI 10.2175/106143007X176004
+   Eskicioglu C, 2006, WATER RES, V40, P3725, DOI 10.1016/j.watres.2006.08.017
+   Eskicioglu C, 2007, WATER RES, V41, P2457, DOI 10.1016/j.watres.2007.03.008
+   Etter B, 2011, WATER RES, V45, P852, DOI 10.1016/j.watres.2010.10.007
+   Feachem R.G., 1978, HLTH ASPECTS EXCRETA
+   Feachem RG, 1983, WORLD BANK STUDIES W
+   Franceys R, 1992, GUIDE DEV ON SITE SA
+   Friedl A, 2005, ANAL CHIM ACTA, V544, P191, DOI 10.1016/j.aca.2005.01.041
+   Fry L. J., 1973, METHANE DIGESTERS FU
+   Ganong WF, 1983, REV MED PHYSL
+   Grube M, 2006, GEODERMA, V130, P324, DOI 10.1016/j.geoderma.2005.02.005
+   Hall J.E., 2000, TXB MED PHYSL
+   Hansen J. A., 1979, HUMAN EXCRETION HEAV
+   Haque KE, 1999, INT J MINER PROCESS, V57, P1, DOI 10.1016/S0301-7516(99)00009-5
+   He C, 2009, ENVIRON SCI TECHNOL, V43, P5890, DOI 10.1021/es900397y
+   Heinonen-Tanski H, 2005, BIORESOURCE TECHNOL, V96, P403, DOI 10.1016/j.biortech.2003.10.036
+   Heinss U., 1998, 598 SANDEC EAWAG
+   Hemkend-reis B., 2008, SANDEC DEP WAT SANIT
+   Hesas R. Hoseinzadeh, 2013, J ANAL APPL PYROLYSI
+   Hong SM, 2006, WATER ENVIRON RES, V78, P76, DOI 10.2175/106143005X84549
+   Hong SM, 2004, WATER RES, V38, P1615, DOI 10.1016/j.watres.2003.12.011
+   Hsieh CH, 2008, CHEMOSPHERE, V71, P1693, DOI 10.1016/j.chemosphere.2008.01.006
+   Hu YY, 2009, MICROPOR MESOPOR MAT, V119, P306, DOI 10.1016/j.micromeso.2008.11.005
+   Ifrah S, 2007, CR CHIM, V10, P1216, DOI 10.1016/j.crci.2007.08.002
+   Islam KR, 1998, BIOL FERT SOILS, V27, P408, DOI 10.1007/s003740050451
+   Jamali MK, 2009, J HAZARD MATER, V163, P1157, DOI 10.1016/j.jhazmat.2008.07.071
+   Jimenez B, 2007, WATER SCI TECHNOL, V55, P485, DOI 10.2166/wst.2007.046
+   Jonsson H., 2005, 20056 CHALM U TECHN
+   Kappe CO, 2004, ANGEW CHEM INT EDIT, V43, P6250, DOI 10.1002/anie.200400655
+   Kengne IM, 2011, J WATER SANIT HYG DE, V1, P13, DOI 10.2166/washdev.2011.001
+   KHALIL H, 1988, J FOOD PROTECT, V51, P181, DOI 10.4315/0362-028X-51.3.181
+   KIEN CL, 1981, AM J CLIN NUTR, V34, P357
+   KIRCHMANN H, 1995, FERT RES, V40, P149, DOI 10.1007/BF00750100
+   Kozempel MF, 1998, J FOOD PROTECT, V61, P582, DOI 10.4315/0362-028X-61.5.582
+   Kuo CY, 2005, J HAZARD MATER, V120, P249, DOI 10.1016/j.jhazmat.2005.01.013
+   Labuza T.P., 1992, PHYS CHEM FOODS
+   Lai ZY, 2007, NANOSCALE RES LETT, V2, P40, DOI 10.1007/s11671-006-9027-3
+   Larhed M, 2002, ACCOUNTS CHEM RES, V35, P717, DOI 10.1021/ar010074v
+   Lee I, 2013, ULTRASON SONOCHEM, V20, P1450, DOI 10.1016/j.ultsonch.2013.03.006
+   Lehmann J, 2003, PLANT SOIL, V249, P343, DOI 10.1023/A:1022833116184
+   LENTNER C, 1981, UNITS MEASUREMENT BO
+   Lewis SJ, 1997, SCAND J GASTROENTERO, V32, P920, DOI 10.3109/00365529709011203
+   LI YY, 1992, WATER SCI TECHNOL, V26, P857
+   Liao PH, 2005, J ENVIRON ENG SCI, V4, P77, DOI [10.1139/s04-056, 10.1139/S04-056]
+   Libra JA, 2011, BIOFUELS-UK, V2, P71, DOI 10.4155/BFS.10.81
+   Loupy A., 2002, MICROWAVES ORGANIC S
+   Mai V, 2009, NUTR J, V8, DOI 10.1186/1475-2891-8-49
+   Martin DI, 2005, VACUUM, V77, P501, DOI 10.1016/j.vacuum.2004.09.019
+   Mazur P., 1986, FED PROC, V24, pS175
+   Menendez JA, 2002, WATER RES, V36, P3261, DOI 10.1016/S0043-1354(02)00017-9
+   MOORE JG, 1987, GASTROENTEROLOGY, V93, P1321, DOI 10.1016/0016-5085(87)90262-9
+   Mouneimne AH, 2003, BIORESOURCE TECHNOL, V90, P89, DOI 10.1016/S0960-8524(03)00091-9
+   Muspratt AM, 2014, J WATER SANIT HYG DE, V4, P223, DOI 10.2166/washdev.2013.055
+   Nah IW, 2000, WATER RES, V34, P2362, DOI 10.1016/S0043-1354(99)00361-9
+   Namioka Tomoaki, 2011, Journal of Environment and Engineering, V6, P119, DOI 10.1299/jee.6.119
+   NEWMARK HL, 1990, NUTR CANCER, V14, P161, DOI 10.1080/01635589009514091
+   Niwagaba CB, 2014, FAECAL SLUDGE MANAGEMENT: SYSTEMS APPROACH FOR IMPLEMENTATION AND OPERATION, P19
+   Nwaneri C., 2008, WISA 2008 C 18 22 MA, V1, P1
+   Park WJ, 2010, BIORESOURCE TECHNOL, V101, pS13, DOI 10.1016/j.biortech.2009.02.062
+   Parshetti GK, 2013, FUEL, V111, P201, DOI 10.1016/j.fuel.2013.04.052
+   Penaud V, 2000, J ENVIRON ENG-ASCE, V126, P397, DOI 10.1061/(ASCE)0733-9372(2000)126:5(397)
+   Perez-Cid B, 1999, ANAL CHIM ACTA, V378, P201, DOI 10.1016/S0003-2670(98)00634-5
+   Peterson AA, 2008, ENERG ENVIRON SCI, V1, P32, DOI 10.1039/b810100k
+   Pino-Jelcic SA, 2006, WATER ENVIRON RES, V78, P209, DOI [10.2175/106143005X90498, 10.2175/106143005X91498]
+   Polprasert C., 1995, ORGANIC WASTE RECYCL
+   Puschner Microwave Power Systems, 2016, PEN DEPTHS
+   Putman D. F., 1971, CR1802 NASA
+   Remya N, 2011, CHEM ENG J, V166, P797, DOI 10.1016/j.cej.2010.11.100
+   Ren LH, 2006, J ENVIRON SCI-CHINA, V18, P1012, DOI 10.1016/S1001-0742(06)60031-4
+   Rose C, 2015, CRIT REV ENV SCI TEC, V45, P1827, DOI 10.1080/10643389.2014.1000761
+   Rulkens W, 2008, ENERG FUEL, V22, P9, DOI 10.1021/ef700267m
+   SANIN FD, 1994, WATER RES, V28, P2393
+   Sato H, 2002, J HEALTH SCI, V48, P179, DOI 10.1248/jhs.48.179
+   Schoenning C., 2004, ECOSANRES PUBLICATIO
+   Schouw NL, 2002, SCI TOTAL ENVIRON, V286, P155, DOI 10.1016/S0048-9697(01)00973-1
+   Show KY, 2007, WATER RES, V41, P4741, DOI 10.1016/j.watres.2007.07.017
+   Shuntaro T., 2011, ADV INDUCTION MICROW
+   Smidt E, 2007, WASTE MANAGE, V27, P268, DOI 10.1016/j.wasman.2006.01.016
+   Snyder W., 1975, REFERENCE MAN ANATOM
+   Sobhy A, 2010, CHEM ENGINEER TRANS, V19, P25, DOI 10.3303/CET1019005
+   Speight JG, 2005, CHEM ANAL SERIES MON, V166, P1, DOI 10.1002/0471718513
+   Spuhler D., 2011, DEHYDRATION STORAGE
+   STEPHEN AM, 1980, J MED MICROBIOL, V13, P45, DOI 10.1099/00222615-13-1-45
+   Strauss M, 1985, HLTH ASPECTS NIGHT 2
+   Strauss M., 2002, FAECAL SLUDGE MANAGE
+   Stuckey D.C, 1978, BIOTECHNOL BIOENG S, V8, P219
+   Sumida H., 2013, INT J WASTE RESOURCE, V03, DOI [10.4172/2252-5211.1000124, DOI 10.4172/2252-5211.1000124]
+   Tchobanoglous G, 2003, WASTEWATER ENG TREAT
+   Thostenson ET, 1999, COMPOS PART A-APPL S, V30, P1055, DOI 10.1016/S1359-835X(99)00020-2
+   Tian Y, 2013, ENVIRON SCI TECHNOL, V47, P3498, DOI 10.1021/es304248j
+   Titley J.G., 2000, P288 ENV AG
+   Toteci I, 2009, WATER RES, V43, P1273, DOI 10.1016/j.watres.2008.12.022
+   Tyagi VK, 2013, RENEW SUST ENERG REV, V18, P288, DOI 10.1016/j.rser.2012.10.032
+   Tyagi VK, 2011, REV ENVIRON SCI BIO, V10, P215, DOI 10.1007/s11157-011-9244-9
+   UNICEF, 2012, LEV TRENDS CHILD MOR
+   US Environmental Protection Agency (USEPA), 2003, EPA452F03022
+   Venkatesh MS, 2004, BIOSYST ENG, V88, P1, DOI 10.1016/j.biosystemseng.2004.01.007
+   Vinneras B, 2006, URBAN WATER J, V3, P3, DOI 10.1080/15730620600578629
+   Volk T, 1987, Adv Space Res, V7, P141, DOI 10.1016/0273-1177(87)90045-7
+   Von Spelling M., 2007, BIOL WASTEWATER TREA
+   Wahi R., 2006, INT J ENG TECHNOL, V3, P132
+   Wang YZ, 2011, MATER LETT, V65, P3388, DOI 10.1016/j.matlet.2011.07.095
+   WHO, 2006, EXCR GREYW US AGR, VIV
+   WHO/ UNICEF, 2015, PROGR SAN DRINK WAT
+   WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation, 2004, M MDG DRINK WAT SAN
+   Wierdsma NJ, 2011, CRIT CARE, V15, DOI 10.1186/cc10530
+   Wignarajah K., 2006, SAE TECHNICAL PAPER
+   Wilson CA, 2009, WATER RES, V43, P4489, DOI 10.1016/j.watres.2009.07.022
+   Wojciechowska E, 2005, WATER RES, V39, P4749, DOI 10.1016/j.watres.2005.09.032
+   Wong WT, 2006, J ENVIRON ENG SCI, V5, P459, DOI 10.1139/S06-020
+   WYDEVEN T, 1991, WASTE MANAGE RES, V9, P91, DOI 10.1016/0734-242X(91)90097-Q
+   Yadav KD, 2010, WASTE MANAGE, V30, P50, DOI 10.1016/j.wasman.2009.09.034
+   Yeneneh A.M., 2015, PHYS CHEM BIOL TREAT
+   Yeneneh AM, 2015, J ENVIRON CHEM ENG, V3, P2514, DOI 10.1016/j.jece.2015.09.003
+   Yeom IT, 2002, WATER SCI TECHNOL, V46, P421
+   Yin CG, 2012, BIORESOURCE TECHNOL, V120, P273, DOI 10.1016/j.biortech.2012.06.016
+   Yoshida T, 2009, ENERG FUEL, V23, P5454, DOI 10.1021/ef900610k
+   Yu Q, 2010, WATER RES, V44, P2841, DOI 10.1016/j.watres.2009.11.057
+   Yu Q, 2009, CHEM ENG J, V155, P88, DOI 10.1016/j.cej.2009.07.010
+   Zheng J, 2009, ENVIRON TECHNOL, V30, P319, DOI 10.1080/09593330902732002
+   Zhou BW, 2010, APPL MICROBIOL BIOT, V87, P765, DOI 10.1007/s00253-010-2574-7
+   Zupanc M, 2013, ULTRASON SONOCHEM, V20, P1104, DOI 10.1016/j.ultsonch.2012.12.003
+NR 166
+TC 4
+Z9 4
+U1 8
+U2 41
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0301-4797
+EI 1095-8630
+J9 J ENVIRON MANAGE
+JI J. Environ. Manage.
+PD FEB 1
+PY 2017
+VL 187
+BP 401
+EP 415
+DI 10.1016/j.jenvman.2016.10.067
+PG 15
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA EH8QN
+UT WOS:000392037500042
+PM 27836558
+DA 2019-03-26
+ER
+
+PT S
+AU Xu, RH
+   Pan, ZR
+   Gao, H
+AF Xu, Ronghan
+   Pan, Zharong
+   Gao, Hao
+BE Fu, B
+   Jia, L
+   Sun, J
+   Li, X
+   Shi, P
+TI Assessing the accuracy of satellite-derived urban extent over major
+   urban clusters in the WRF model
+SO 3RD INTERNATIONAL SYMPOSIUM ON EARTH OBSERVATION FOR ARID AND SEMI-ARID
+   ENVIRONMENTS (ISEO2016)
+SE IOP Conference Series-Earth and Environmental Science
+LA English
+DT Proceedings Paper
+CT 3rd International Symposium on Earth Observation for Arid and Semi-Arid
+   Environments (ISEO)
+CY SEP 19-21, 2016
+CL Acad Sci Republ Tajikistan, Dushanbe, TAJIKISTAN
+SP Chinese Acad Sci, Inst Remote Sensing & Digital Earth
+HO Acad Sci Republ Tajikistan
+ID LAND-COVER PRODUCTS; CHINA; CLIMATE
+AB Urban land use data play a central role in climate change assessments of urbanization process. The Moderate Resolution Imaging Spectroradiometer (MODIS) land use data is employed in the Weather Research and Forecasting (WRF) model. It is important to understand scaling effects of the MODIS urban data before applying to regional climate modelling. In this study, we took the Landsat derived National Land-Use/Land-Cover Dataset (NLCD) of China as the reference data to assess the accuracy of the MODIS urban map. Urban area sizes and spatial agreement of urban pixels were investigated as assessment methods at the national and metropolitan levels over China. Results showed that the accuracies vary from region to region and highlighted strengths and weaknesses of the MODIS data in different metropolitan area. The study provides insights to model communities with the suitability of the MODIS urban data for specific regional modeling.
+C1 [Xu, Ronghan; Gao, Hao] China Meteorol Adm, Natl Satellite Meteorol Ctr, Beijing 100081, Peoples R China.
+   [Pan, Zharong] MWR, Gen Inst Water Resources & Hydropower Planning &, Beijing 100120, Peoples R China.
+RP Pan, ZR (reprint author), MWR, Gen Inst Water Resources & Hydropower Planning &, Beijing 100120, Peoples R China.
+EM panzharong@giwp.org.cn
+FU National Key Research and Development Program of China [2016YFA0600303];
+   National Natural Science Foundation of China [41405064, 41675079]
+FX This study was supported by National Key Research and Development
+   Program of China (2016YFA0600303), National Natural Science Foundation
+   of China (41405064, 41675079).
+CR Cheng FY, 2013, J APPL METEOROL CLIM, V52, P570, DOI 10.1175/JAMC-D-12-0109.1
+   Friedl MA, 2002, REMOTE SENS ENVIRON, V83, P287, DOI 10.1016/S0034-4257(02)00078-0
+   Gao H, 2013, ADV ATMOS SCI, V30, P125, DOI 10.1007/s00376-012-2037-4
+   Liu JY, 2005, GEOPHYS RES LETT, V32, DOI 10.1029/2004GL021649
+   Miao SG, 2009, J APPL METEOROL CLIM, V48, P484, DOI 10.1175/2008JAMC1909.1
+   Oleson KW, 2008, J APPL METEOROL CLIM, V47, P1038, DOI 10.1175/2007JAMC1597.1
+   Ran YH, 2010, INT J REMOTE SENS, V31, P391, DOI 10.1080/01431160902893451
+   Souch C, 2006, PROG PHYS GEOG, V30, P270, DOI 10.1191/0309133306pp484pr
+   Verburg PH, 2011, GLOBAL CHANGE BIOL, V17, P974, DOI 10.1111/j.1365-2486.2010.02307.x
+   Wu W, 2008, INT J REMOTE SENS, V29, P3769, DOI 10.1080/01431160701881897
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1755-1307
+J9 IOP C SER EARTH ENV
+JI IOP Conf. Ser. Earth Envir. Sci.
+PY 2017
+VL 74
+AR UNSP 012015
+DI 10.1088/1755-1315/74/1/012015
+PG 6
+WC Environmental Sciences; Remote Sensing
+SC Environmental Sciences & Ecology; Remote Sensing
+GA BK5PH
+UT WOS:000439409200015
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Pandit, A
+   Minne, EA
+   Li, F
+   Brown, H
+   Jeong, H
+   James, JAC
+   Newell, JP
+   Weissburg, M
+   Chang, ME
+   Xu, M
+   Yang, P
+   Wang, RS
+   Thomas, VM
+   Yu, XW
+   Lu, ZM
+   Crittenden, JC
+AF Pandit, Arka
+   Minne, Elizabeth A.
+   Li, Feng
+   Brown, Hillary
+   Jeong, Hyunju
+   James, Jean-Ann C.
+   Newell, Joshua P.
+   Weissburg, Marc
+   Chang, Michael E.
+   Xu, Ming
+   Yang, Perry
+   Wang, Rusong
+   Thomas, Valerie M.
+   Yu, Xuewei
+   Lu, Zhongming
+   Crittenden, John C.
+TI Infrastructure ecology: an evolving paradigm for sustainable urban
+   development
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Infrastructure ecology; lnfrastructural symbiosis; Integrated urban
+   infrastructure systems; Complex-adaptive systems; Sustainable urban
+   infrastructure systems
+ID SCALING LAWS; CITIES; WATER; LIFE; CITY; METABOLISM; HIERARCHY;
+   ECOSYSTEM; BIOLOGY; SYSTEMS
+AB Increasing urbanization places cities at the forefront of achieving global sustainability. For cities to become more sustainable, however, the infrastructure on which they rely must also become more productive, efficient and resilient. Unfortunately the current paradigm of urban infrastructure development is fragmented in approach lacking a systems perspective. Urban infrastructure systems are analogous to ecological systems because they are interconnected, complex and adaptive components that exchange material, information and energy among themselves and to and from the environment, and exhibit characteristic scaling properties that can be expressed by Zipfs Law. Analyzing them together as a whole, as one would do for an ecological system, provides a better understanding about their dynamics and interactions, and enables system-level optimization. The adoption of this "infrastructure ecology" approach will result in urban (re)development that requires lower investment of financial and natural resources to build and maintain, is more sustainable (e.g. uses less materials and energy and generates less waste) and resilient, and enables a greater and more equitable opportunities for the creation of wealth and comfort. The 12 guiding principles of infrastructure ecology will provide a set of goals for urban planners, engineers and other decision-makers in an urban system for urban (re) development. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Pandit, Arka; Minne, Elizabeth A.; Jeong, Hyunju; James, Jean-Ann C.; Chang, Michael E.; Yu, Xuewei; Lu, Zhongming; Crittenden, John C.] Georgia Inst Technol, Brook Byers Inst Sustainable Syst, 828 W Peachtree St NW,Suite 320, Atlanta, GA 30332 USA.
+   [Pandit, Arka; Minne, Elizabeth A.; Jeong, Hyunju; James, Jean-Ann C.; Yu, Xuewei; Lu, Zhongming; Crittenden, John C.] Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA.
+   [Weissburg, Marc] Georgia Inst Technol, Sch Biol, Atlanta, GA 30332 USA.
+   [Thomas, Valerie M.] Georgia Inst Technol, Sch Publ Policy, Atlanta, GA 30332 USA.
+   [Newell, Joshua P.; Xu, Ming] Univ Michigan, Sch Nat Resources & Environm, Ann Arbor, MI 48109 USA.
+   [Yang, Perry] Georgia Inst Technol, Sch City & Reg Planning, Atlanta, GA 30332 USA.
+   [Brown, Hillary] CUNY City Coll, Spitzer Sch Architecture, New York, NY 10031 USA.
+   [Li, Feng; Wang, Rusong] Chinese Acad Sci, Res Ctr Ecoenvironm Sci, Beijing 100085, Peoples R China.
+   [Thomas, Valerie M.] Georgia Inst Technol, H Milton Stewart Sch Ind & Syst Engn, Atlanta, GA 30332 USA.
+RP Pandit, A (reprint author), Georgia Inst Technol, Brook Byers Inst Sustainable Syst, 828 W Peachtree St NW,Suite 320, Atlanta, GA 30332 USA.
+EM arka.pandit@gatech.edu
+RI Lu, Zhongming/M-8292-2018; Xu, Ming/F-3653-2010
+OI Lu, Zhongming/0000-0002-4151-5065; Xu, Ming/0000-0002-7106-8390; Brown,
+   Hillary/0000-0002-5753-456X; Newell, Joshua/0000-0002-1440-8715
+FU Brook Byers Institute for Sustainable Systems; Hightower Chair; Georgia
+   Research Alliance at the Georgia Institute of Technology; National
+   Science Foundation program for Emerging Frontiers in Research and
+   Innovation (EFRI) [0836046]
+FX This research was supported by the Brook Byers Institute for Sustainable
+   Systems, Hightower Chair, and the Georgia Research Alliance at the
+   Georgia Institute of Technology. The authors are thankful for a grant
+   (#0836046) from the National Science Foundation program for Emerging
+   Frontiers in Research and Innovation (EFRI). The views and ideas
+   expressed herein are solely of the authors and do not represent the
+   ideas of the funding agencies in any form.
+CR Adele,, 2010, ON BLOCK GRID SMART
+   American Rivers. Water Environment Federation American Society of Landscape Architects ECONorthwest, 2012, BANK GREEN LOOK GREE
+   Anastas PT, 2003, ENVIRON SCI TECHNOL, V37, p94A, DOI 10.1021/es032373g
+   BATTY M, 1986, ENVIRON PLANN A, V18, P1143, DOI 10.1068/a181143
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Baum-Snow N, 2007, Q J ECON, V122, P775, DOI 10.1162/qjec.122.2.775
+   Bazilian M., 2011, FUELS TECHNOL DEV EC, V39, P7896
+   BECKMANN MJ, 1958, ECON DEV CULT CHANGE, V6, P243, DOI 10.1086/449769
+   Bettencourt LMA, 2008, EUR PHYS J B, V63, P285, DOI 10.1140/epjb/e2008-00250-6
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bowler DE, 2010, LANDSCAPE URBAN PLAN, V97, P147, DOI 10.1016/j.landurbplan.2010.05.006
+   Brown H., 2014, NEXT GENERATION INFR
+   Chen SQ, 2015, APPL ENERG, V138, P99, DOI 10.1016/j.apenergy.2014.10.055
+   Chen SQ, 2012, ENVIRON SCI TECHNOL, V46, P4498, DOI 10.1021/es204662k
+   Chen YG, 2006, ENVIRON PLANN B, V33, P345, DOI 10.1068/b31131
+   Chiesura A, 2004, LANDSCAPE URBAN PLAN, V68, P129, DOI 10.1016/j.landurbplan.2003.08.003
+   City of Vancouver, 2012, NEIGHBOURHOOD ENERGY
+   Denholm P, 2006, NRELTP62040293
+   Dept. Env. Resources, 1999, LOW IMP DEV DES STRA
+   Dominguez-Faus R, 2009, ENVIRON SCI TECHNOL, V43, P3005, DOI 10.1021/es802162x
+   EATON BC, 1982, ECON J, V92, P56, DOI 10.2307/2232256
+   Electric Power Research Institute (EPRI), 2002, 1006787 EPRI
+   Elmqvist T, 2003, FRONT ECOL ENVIRON, V1, P488, DOI 10.2307/3868116
+   Finley JW, 2014, J AGR FOOD CHEM, V62, P6255, DOI 10.1021/jf501496r
+   Frankland J, 2013, THESIS
+   Fujita M, 1999, EUR ECON REV, V43, P209, DOI 10.1016/S0014-2921(98)00066-X
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Garrison N., 2009, CLEAR BLUE FUTURE GR
+   Glaser E.L., 2008, GREENNESS CITIES RAP
+   Harto C, 2010, ENERG POLICY, V38, P4933, DOI 10.1016/j.enpol.2010.03.074
+   Inage S., 2010, IEA ENERGY PAPERS
+   Jeong H., 2013, THESIS
+   Kennedy C, 2007, J IND ECOL, V11, P43, DOI 10.1162/jie.2007.1107
+   Kintner-Meyer M., 2007, ONLINE J EUEC, V1
+   KLEIBER M, 1947, PHYSIOL REV, V27, P511
+   Kozlowski J, 2004, FUNCT ECOL, V18, P283, DOI 10.1111/j.0269-8463.2004.00830.x
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   LITMAN T., 2012, LAND USE IMPACTS TRA
+   Lu ZM, 2013, ENVIRON SCI TECHNOL, V47, P10744, DOI 10.1021/es304924w
+   MILGRAM S, 1970, SCIENCE, V167, P1461, DOI 10.1126/science.167.3924.1461
+   NYC DOT, 2014, EC BEN SUST STREETS
+   Pandit A., 2012, SUSTAINABILITY MULTI
+   Philadelphia Water Department, 2009, PHIL COMB SCWER OV L, V2
+   PwC, 2015, CAP PROJ INFR SPEND
+   Rabalais NN, 2002, ANNU REV ECOL SYST, V33, P235, DOI 10.1146/annurev.ecolsys.33.010802.150513
+   Selman M., 2008, 1 WRI
+   Su MR, 2012, ENERGIES, V5, P291, DOI 10.3390/en5020291
+   Tzoulas K, 2007, LANDSCAPE URBAN PLAN, V81, P167, DOI 10.1016/j.landurbplan.2007.02.001
+   U.S. DOE, 2006, E DEM WAT RES REP C
+   U. S. EIA. (U.S. Energy Information Administration), 2012, DOEEIA03842011
+   Ward B., 2008, P WAT ENV FED SUST, P318
+   Welch K., 2012, AMARILLO GLOBE NEWS
+   West GB, 1999, PHYSICA A, V263, P104, DOI 10.1016/S0378-4371(98)00639-6
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   White CR, 2007, ECOLOGY, V88, P315, DOI 10.1890/05-1883
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Wolch J, 2010, ENVIRON PLANN A, V42, P2874, DOI 10.1068/a42259
+   Wu JJ, 2008, LANDSC J, V27, P41, DOI DOI 10.3368/LJ.27.1.41
+   Xu M, 2012, ENVIRON SCI TECHNOL, V46, P7928, DOI 10.1021/es3025534
+   Xu M, 2010, ENVIRON SCI TECHNOL, V44, P4037, DOI 10.1021/es903306e
+   Yen J., 2011, THESIS
+NR 62
+TC 8
+Z9 10
+U1 3
+U2 31
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD OCT 1
+PY 2017
+VL 163
+SU S
+BP S19
+EP S27
+DI 10.1016/j.jclepro.2015.09.010
+PG 9
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA FN8UE
+UT WOS:000416300200003
+OA Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Clarke, SE
+AF Clarke, Susan E.
+TI Local Place-Based Collaborative Governance: Comparing State-Centric and
+   Society-Centered Models
+SO URBAN AFFAIRS REVIEW
+LA English
+DT Article
+DE urban governance; Denver; collaborative governance; transit; children
+ID DENVER; FRAMEWORK; NETWORKS; POLITICS; ENOUGH; POLICY; RAIL
+AB The renaissance in place-based, cross-sector local collaboratives in American cities is distinguished by diverse strategies and actors. This exploratory research compares early stages of two collaborative initiatives-one relying on traditional state-centric collaboration models and the other drawing on emergent civil society collaboration models-in Denver, Colorado. The FasTracks initiative is a complex public-sector effort involving multiple jurisdictions, private-sector partners, and civic organizations in developing a regional transit system. The Children's Corridor, spearheaded by the Piton Foundation, links efforts of local government, multiple nonprofit organizations, and private providers to improve children's well-being in a targeted area. Although the Children's Corridor collaboration suffered unanticipated disruptions, the argument here is not that one collaborative strategy is more effective than another. Rather, the resilience of the large-scale FasTracks collaborative-despite high transaction costs, diverse interests, eroding trust-was contingent on "bridging the collaborative divide" with dynamic scaling to accommodate multiple governance challenges.
+C1 [Clarke, Susan E.] Univ Colorado Boulder, Boulder, CO 80309 USA.
+RP Clarke, SE (reprint author), Univ Colorado Boulder, Boulder, CO 80309 USA.
+EM clarkes@colorado.edu
+CR Ansell C. K., 2011, PRAGMATIST DEMOCRACY
+   Ansell C, 2008, J PUBL ADM RES THEOR, V18, P543, DOI 10.1093/jopart/mum032
+   Ansell C, 2015, POLICY POLIT, V43, P315, DOI 10.1332/030557315X14353344872935
+   Best Alan, 2014, DENVER POST
+   Bhattacharjee S, 2012, J TRANSP GEOGR, V22, P262, DOI 10.1016/j.jtrangeo.2012.01.008
+   Bradford N, 2016, URBAN AFF REV, V52, P659, DOI 10.1177/1078087415610011
+   Bradford Neil, 2014, GOVERNING URBAN EC I
+   Bramwell A, 2017, URBAN AFF REV, V53, P603, DOI 10.1177/1078087416637125
+   Bramwell A, 2012, URBAN AFF REV, V48, P295, DOI 10.1177/1078087411428051
+   Briggs XDS, 2008, DEMOCRACY AS PROBLEM SOLVING: CIVIC CAPACITY IN COMMUNITIES ACROSS THE GLOBE, P1
+   Clarke SE, 2015, RTPI LIB SER, P54
+   Clarke Susan E., 2015, URBAN NEIGHBORHOODS, P139
+   Clarke Susan E., 2002, INFRASTRUCTURE URBAN, P168
+   Conrad E, 2015, POLICY POLIT, V43, P349, DOI 10.1332/030557315X14350819637950
+   Denver Council of Regional Governments, 2015, METR VIS 2040
+   Denver Council of Regional Governments, 1997, METR VIS 2020
+   Economist Intelligence Unit, 2011, US CAN GREEN CIT IND
+   Emerson K, 2012, J PUBL ADM RES THEOR, V22, P1, DOI 10.1093/jopart/mur011
+   Estabrook Rachel, 2015, POOR FAMILIES METRO
+   Feiock RC, 2010, URBAN AFF REV, V46, P241, DOI 10.1177/1078087409360509
+   Goetz A, 2013, URBAN STUD, V50, P2178, DOI 10.1177/0042098013478238
+   Griego Tina, 2011, DENVER POST
+   Henig J. R., 2016, COLLECTIVE IMPACT NE
+   Henig Jeffrey, 2014, NEW STUDY COLLECTIVE
+   Jaffe Mark, 2014, DENVER POST, pA1
+   Johnson Fawn, 2014, NATL J
+   Jonas AEG, 2014, URBAN STUD, V51, P2444, DOI 10.1177/0042098013493480
+   Jonas Andrew E. G., 2015, ANN M ASS AM GEOGR C
+   Kania J, 2011, STANFORD SOCIAL INNO, P36
+   Katz B, 2013, METROPOLITAN REVOLUTION: HOW CITIES AND METROS ARE FIXING OUR BROKEN POLITICS AND FRAGILE ECONOMY, P1
+   Lowe K, 2014, J PUBLIC TRANSPORT, V17, P75, DOI 10.5038/2375-0901.17.1.4
+   Migoya David, 2012, DAILY CAMERA    0327
+   Mile High Connects (MHC), 2014, DENV REG EQ ATL
+   O'Toole Randal, 2013, DENVER POST
+   Orr Stone Clarence, 2006, PERSPECTIVES POLITIC, V4, P529
+   Piton Foundation, 2014, CHILDR CORR
+   Purdy JM, 2012, PUBLIC ADMIN REV, V72, P409, DOI 10.1111/j.1540-6210.2011.02525.x
+   Ratner KA, 2013, CITIES, V30, P31, DOI 10.1016/j.cities.2012.08.007
+   Regional Transportation District, 2004, FASTRACKS PLAN
+   Regional Transportation District, 2015, AD BUDG
+   Schroeppel Ken, 2010, AMAZING DENVER VOTER
+   Seldon Willa, 2012, COMMUNITY COLLABORAT
+   Stoker G, 1998, INT SOC SCI J, V50, P17, DOI 10.1111/1468-2451.00106
+   Stone CN, 2015, URBAN AFF REV, V51, P101, DOI 10.1177/1078087414558948
+   Stone Nancy, 2015, NATL J
+   Turner M. A., 2014, TACKLING PERSISTENT
+   Weir M, 2009, URBAN AFF REV, V44, P455, DOI 10.1177/1078087408322590
+   Whipple Kelsey, 2012, WESTWORD        0410
+   White House Council for Community Solutions, 2012, FIN REP COMM SOL OPP
+NR 49
+TC 3
+Z9 3
+U1 4
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1078-0874
+EI 1552-8332
+J9 URBAN AFF REV
+JI Urban Aff. Rev.
+PD MAY
+PY 2017
+VL 53
+IS 3
+BP 578
+EP 602
+DI 10.1177/1078087416637126
+PG 25
+WC Urban Studies
+SC Urban Studies
+GA EY3BV
+UT WOS:000403847500007
+DA 2019-03-26
+ER
+
+PT J
+AU Taka, M
+   Kokkonen, T
+   Kuoppamaki, K
+   Niemi, T
+   Sillanpaa, N
+   Valtanen, M
+   Warsta, L
+   Setala, H
+AF Taka, Maija
+   Kokkonen, Teemu
+   Kuoppamaki, Kirsi
+   Niemi, Tero
+   Sillanpaa, Nora
+   Valtanen, Marjo
+   Warsta, Lassi
+   Setala, Heikki
+TI Spatio-temporal patterns of major ions in urban stormwater under cold
+   climate
+SO HYDROLOGICAL PROCESSES
+LA English
+DT Article
+DE hydrology; ion; loading; seasonality; watershed
+ID SURFACE-WATER CHEMISTRY; LAND-USE; STREAM ECOLOGY; DEICING SALT; QUALITY
+   DATA; POLLUTION; RUNOFF; DRAINAGE; CATCHMENTS; NITROGEN
+AB Multiple natural and anthropogenic factors affect urban water chemistry. However, little is known about the abundance or temporal variation of major ions in urban runoff. This study explores the spatio-temporal variation of major dissolved ions (Na, K, Ca, Mg, Cl, NO3, and SO4) and total dissolved solids (TDS) in cold climate urban stormwater. Three watersheds with varying degrees of urban land use intensity and imperviousness (from 36% to 66%) in Helsinki, Finland, were continuously monitored for 5 years using an automated sampling procedure to obtain stormwater discharge and ion concentrations and, thus, loadings. High-resolution datasets, including long-term continuous discharge, both measured and simulated (using Storm Water Management Model), and automatic water quality sampling enabled the accurate calculation of loads of ions and TDS. Water quality was related to explanatory watershed characteristics (e.g., watershed physiography and sampling time) using hierarchical clustering, nonmetric multidimensional scaling, and hierarchical partitioning methods. Urban land use contributed to increased ion concentrations and loads year-round. This study highlights how stormwater ion concentrations are elevated across seasons, indicating chronic pollution phenomena. The greatest loads occurred during summer (except for Na and Cl), while the highest variation in loads was observed in autumn. Significant clusters among ions were found in the hierarchical cluster analysis, suggesting similar temporal patterns and sources for the ions in each cluster. The importance of land use was evident, though in the most urbanized watershed, concentrations were not linked to any of the investigated watershed characteristics. Based on our results, only Na and Cl are manageable by alternative winter road antiskid practices, whereas other ions resulted from diffuse pollution sources, being therefore more difficult to control. Finally, this study contributes to an increased understanding of the temporal and spatial patterns of ions in stormwater and highlights the need for consistent time series data for ion monitoring under cold climatic conditions in order to enable reliable estimates of their loads to adjacent water bodies. Finally, year-round stormwater treatment is highly recommended.
+C1 [Taka, Maija] Univ Helsinki, Dept Geosci & Geog, POB 64, FI-00014 Helsinki, Finland.
+   [Taka, Maija; Kokkonen, Teemu; Niemi, Tero; Sillanpaa, Nora; Warsta, Lassi] Aalto Univ, Dept Built Environm, Espoo, Finland.
+   [Kuoppamaki, Kirsi; Valtanen, Marjo; Setala, Heikki] Univ Helsinki, Dept Environm Sci, Helsinki, Finland.
+RP Taka, M (reprint author), Univ Helsinki, Dept Geosci & Geog, POB 64, FI-00014 Helsinki, Finland.
+EM maija.taka@helsinki.fi
+RI Niemi, Tero/A-8884-2014; Kokkonen, Teemu/C-7490-2012
+OI Niemi, Tero/0000-0002-0613-5462; Taka, Maija/0000-0002-6147-9137;
+   Sillanpaa, Nora/0000-0001-8377-0737; Kuoppamaki,
+   Kirsi/0000-0002-6703-4024; Setala, Heikki Martti/0000-0002-5230-4001
+FU European Union Life + programthe Academy of Finland [263335, 263320,
+   263308]
+FX European Union Life + programthe Academy of Finland, Grant/Award Number:
+   263335. 263320. 263308.
+CR Agren A, 2007, J GEOPHYS RES-BIOGEO, V112, DOI 10.1029/2006JG000381
+   Allan JD, 2004, ANNU REV ECOL EVOL S, V35, P257, DOI 10.1146/annurev.ecolsys.35.120202.110122
+   Banks D, 2001, SCI TOTAL ENVIRON, V267, P1, DOI 10.1016/S0048-9697(00)00605-7
+   Baralkiewicz D, 2014, ENVIRON MONIT ASSESS, V186, P6789, DOI 10.1007/s10661-014-3889-0
+   Basu NB, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL045168
+   Bishop K, 2008, HYDROL PROCESS, V22, P1239, DOI 10.1002/hyp.7049
+   Bolstad PV, 1997, J AM WATER RESOUR AS, V33, P519, DOI 10.1111/j.1752-1688.1997.tb03529.x
+   Brezonik PL, 2002, WATER RES, V36, P1743, DOI 10.1016/S0043-1354(01)00375-X
+   Camargo JA, 2006, ENVIRON INT, V32, P831, DOI 10.1016/j.envint.2006.05.002
+   Clarke K.R., 2001, CHANGE MARINE COMMUN, P176
+   Clinton BD, 2006, WATER AIR SOIL POLL, V169, P331, DOI 10.1007/s11270-006-2812-x
+   Creed IF, 1998, WATER RESOUR RES, V34, P3105, DOI 10.1029/98WR01924
+   Edward AC, 2008, J ENVIRON MANAGE, V87, P551, DOI 10.1016/j.jenvman.2006.06.027
+   Fitzpatrick ML, 2007, APPL GEOCHEM, V22, P1825, DOI 10.1016/j.apgeochem.2007.03.047
+   Flem B, 2015, APPL GEOCHEM, V59, P211, DOI 10.1016/j.apgeochem.2015.01.016
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   Gobel P, 2007, J CONTAM HYDROL, V91, P26, DOI 10.1016/j.jconhyd.2006.08.008
+   GRASS Development Team, 2016, GEOGR RES AN SUPP SY
+   Hallberg M, 2007, WATER AIR SOIL POLL, V181, P183, DOI 10.1007/s11270-006-9289-5
+   Halstead JA, 2014, ENVIRON MONIT ASSESS, V186, P3391, DOI 10.1007/s10661-014-3625-9
+   HARREMOES P, 1988, WATER RES, V22, P1017, DOI 10.1016/0043-1354(88)90149-2
+   Hatt BE, 2004, ENVIRON MANAGE, V34, P112, DOI 10.1007/s00267-004-0221-8
+   Helmens KF, 2000, QUATERNARY SCI REV, V19, P1605, DOI 10.1016/S0277-3791(00)00004-4
+   HSY, 2014, SEUD MAANP
+   Hueglin C, 2005, ATMOS ENVIRON, V39, P637, DOI 10.1016/j.atmosenv.2004.10.027
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kuoppamaki K, 2014, ENVIRON POLLUT, V195, P56, DOI 10.1016/j.envpol.2014.08.019
+   Libiseller C, 2002, ENVIRONMETRICS, V13, P71, DOI 10.1002/env.507
+   Likens G. E., 2013, BIOGEOCHEMISTRY FORE, P59
+   Lofgren S, 2001, WATER AIR SOIL POLL, V130, P863, DOI 10.1023/A:1013895215558
+   Markich SJ, 1998, SCI TOTAL ENVIRON, V217, P201, DOI 10.1016/S0048-9697(98)00188-0
+   Marsalek J, 2003, WATER SCI TECHNOL, V48, P61
+   Marsalek J, 2003, WATER SCI TECHNOL, V48, P11
+   Meador MR, 2003, ENVIRON MANAGE, V31, P504, DOI 10.1007/s00267-002-2805-5
+   Miller MP, 2016, WATER RESOUR RES, V52, P330, DOI 10.1002/2015WR017753
+   Mitchell G, 2005, J ENVIRON MANAGE, V74, P1, DOI 10.1016/j.jenvman.2004.08.002
+   Nagy RC, 2012, HYDROL PROCESS, V26, P2019, DOI 10.1002/hyp.8336
+   Neal C, 2000, SCI TOTAL ENVIRON, V251, P585, DOI 10.1016/S0048-9697(00)00397-1
+   Niemi T. J., 2016, J HYDROLOGY
+   NLS, 2014, EL MOD 2M
+   Novotny EV, 2009, WATER RESOUR RES, V45, DOI 10.1029/2009WR008141
+   Novotny EV, 2008, SCI TOTAL ENVIRON, V406, P131, DOI 10.1016/j.scitotenv.2008.07.037
+   Oberts GL, 2000, WATER QUAL RES J CAN, V35, P781, DOI 10.2166/wqrj.2000.042
+   Oksanen J., 2016, PACKAGE VEGAN COMMUI
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Peel MC, 2007, HYDROL EARTH SYST SC, V11, P1633, DOI 10.5194/hess-11-1633-2007
+   Peterson BJ, 2001, SCIENCE, V292, P86, DOI 10.1126/science.1056874
+   Pionke HB, 1999, J HYDROL, V220, P62, DOI 10.1016/S0022-1694(99)00064-5
+   Pirinen P, 2012, FINNISH METEOROLOGIC, V2012, P1
+   Poff NL, 1997, J N AM BENTHOL SOC, V16, P391, DOI 10.2307/1468026
+   PROWSE CW, 1987, WATER AIR SOIL POLL, V32, P277
+   QGIS Development Team, 2016, QGIS GEOGR INF SYST
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Reinosdotter K, 2007, WATER QUAL RES J CAN, V42, P153
+   Rhodes AL, 2001, ENVIRON SCI TECHNOL, V35, P3640, DOI 10.1021/es002052u
+   Rossman L., 2015, STORM WATER MANAGEME
+   Saarinen T, 2010, SCI TOTAL ENVIRON, V408, P5019, DOI 10.1016/j.scitotenv.2010.07.009
+   Sansalone JJ, 1997, J ENVIRON ENG-ASCE, V123, P134, DOI 10.1061/(ASCE)0733-9372(1997)123:2(134)
+   Schoonover Jon E., 2005, Urban Ecosystems, V8, P107, DOI 10.1007/s11252-005-1422-5
+   Semadeni-Davies A., 2000, URBAN DRAINAGE COLD, P1
+   Setala H, 2013, ENVIRON POLLUT, V183, P104, DOI 10.1016/j.envpol.2012.11.010
+   Sillanpaa N., 2013, THESIS, P226
+   Sillanpaa N, 2015, HYDROL PROCESS, V29, P4238, DOI 10.1002/hyp.10493
+   Sillanpaa N, 2013, WATER SCI TECHNOL, V68, P2164, DOI 10.2166/wst.2013.466
+   Suzuki R, 2006, BIOINFORMATICS, V22, P1540, DOI 10.1093/bioinformatics/btl117
+   Suzuki R, 2015, PVCLUST HIERARCHICAL
+   Thunqvist EL, 2004, SCI TOTAL ENVIRON, V325, P29, DOI 10.1016/j.scitotenv.2003.11.020
+   Tiemeyer B, 2006, AGR WATER MANAGE, V85, P47, DOI 10.1016/j.agwat.2006.03.016
+   Tomer MD, 2003, J ENVIRON QUAL, V32, P642
+   Trombulak SC, 2000, CONSERV BIOL, V14, P18, DOI 10.1046/j.1523-1739.2000.99084.x
+   Valtanen M, 2015, J HYDROL, V529, P1578, DOI 10.1016/j.jhydrol.2015.08.026
+   Valtanen M, 2014, WATER AIR SOIL POLL, V225, DOI 10.1007/s11270-014-1977-y
+   Valtanen M, 2014, HYDROL PROCESS, V28, P2639, DOI 10.1002/hyp.9819
+   Viklander M, 1999, WATER AIR SOIL POLL, V114, P377, DOI 10.1023/A:1005121116829
+   Viklander M., 1997, THESIS LULEA U TECHN, P21
+   Walsh C., 2015, PACKAGE HIER PART HI
+   Walsh CJ, 2004, BIODIVERS CONSERV, V13, P781, DOI 10.1023/B:BIOC.0000011726.38121.b0
+   Warsta L., 2016, URBAN WATER IN PRESS
+   Wayland KG, 2003, J ENVIRON QUAL, V32, P180, DOI 10.2134/jeq2003.0180
+   Wenger SJ, 2009, J N AM BENTHOL SOC, V28, P1080, DOI 10.1899/08-186.1
+   Westerlund C, 2006, SCI TOTAL ENVIRON, V362, P143, DOI 10.1016/j.scitotenv.2005.06.031
+   Wetzel R, 2001, LIMNOLOGY LAKE RIVER, P1006
+NR 82
+TC 6
+Z9 6
+U1 5
+U2 36
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0885-6087
+EI 1099-1085
+J9 HYDROL PROCESS
+JI Hydrol. Process.
+PD APR 15
+PY 2017
+VL 31
+IS 8
+BP 1564
+EP 1577
+DI 10.1002/hyp.11126
+PG 14
+WC Water Resources
+SC Water Resources
+GA ER2ER
+UT WOS:000398607500001
+DA 2019-03-26
+ER

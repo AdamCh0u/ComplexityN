@@ -1,0 +1,209 @@
+
+PT J
+AU Alves, LGA
+   Mendes, RS
+   Lenzi, EK
+   Ribeiro, HV
+AF Alves, Luiz G. A.
+   Mendes, Renio S.
+   Lenzi, Ervin K.
+   Ribeiro, Haroldo V.
+TI Scale-Adjusted Metrics for Predicting the Evolution of Urban Indicators
+   and Quantifying the Performance of Cities
+SO PLOS ONE
+LA English
+DT Article
+ID GROWTH; LAWS
+AB More than a half of world population is now living in cities and this number is expected to be two-thirds by 2050. Fostered by the relevancy of a scientific characterization of cities and for the availability of an unprecedented amount of data, academics have recently immersed in this topic and one of the most striking and universal finding was the discovery of robust allometric scaling laws between several urban indicators and the population size. Despite that, most governmental reports and several academic works still ignore these nonlinearities by often analyzing the raw or the per capita value of urban indicators, a practice that actually makes the urban metrics biased towards small or large cities depending on whether we have super or sublinear allometries. By following the ideas of Bettencourt et al. [PLoS ONE 5 (2010) e13541], we account for this bias by evaluating the difference between the actual value of an urban indicator and the value expected by the allometry with the population size. We show that this scale-adjusted metric provides a more appropriate/informative summary of the evolution of urban indicators and reveals patterns that do not appear in the evolution of per capita values of indicators obtained from Brazilian cities. We also show that these scale-adjusted metrics are strongly correlated with their past values by a linear correspondence and that they also display crosscorrelations among themselves. Simple linear models account for 31%-97% of the observed variance in data and correctly reproduce the average of the scale-adjusted metric when grouping the cities in above and below the allometric laws. We further employ these models to forecast future values of urban indicators and, by visualizing the predicted changes, we verify the emergence of spatial clusters characterized by regions of the Brazilian territory where we expect an increase or a decrease in the values of urban indicators.
+C1 [Alves, Luiz G. A.; Mendes, Renio S.; Lenzi, Ervin K.; Ribeiro, Haroldo V.] Univ Estadual Maringa, Dept Fis, BR-87020900 Maringa, Parana, Brazil.
+   [Alves, Luiz G. A.; Mendes, Renio S.; Lenzi, Ervin K.] CNPq, Natl Inst Sci & Technol Complex Syst, BR-22290180 Rio De Janeiro, RJ, Brazil.
+   [Lenzi, Ervin K.] Univ Estadual Ponta Grossa, Dept Fis, BR-84030900 Ponta Grossa, PR, Brazil.
+   [Ribeiro, Haroldo V.] Univ Tecnol Fed Parana, Dept Fis, BR-86812460 Apucarana, PR, Brazil.
+RP Ribeiro, HV (reprint author), Univ Estadual Maringa, Dept Fis, BR-87020900 Maringa, Parana, Brazil.
+EM hvr@dfi.uem.br
+RI Alves, Luiz/H-3389-2013; Ribeiro, Haroldo/C-8614-2012; Mendes,
+   Renio/F-9261-2017
+OI Alves, Luiz/0000-0001-6204-5552; Ribeiro, Haroldo/0000-0002-9532-5195;
+   Lenzi, Ervin/0000-0003-3853-1790
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq);
+   Coordenacaoo de Aperfeicoamento de Pessoal de Nivel Superior (CAPES);
+   Fundacao Araucaria (FA); CNPq [440650/2014-3]; RSM [263/2014]
+FX This work has been supported by the agencies Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq), Coordenacaoo de
+   Aperfeicoamento de Pessoal de Nivel Superior (CAPES), and Fundacao
+   Araucaria (FA). HVR thanks the financial support of CNPq (grant
+   440650/2014-3) and RSM thanks FA (grant 263/2014) for partial financial
+   support. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+CR Alves LGA, 2014, PHYSICA A, V409, P175, DOI 10.1016/j.physa.2014.04.046
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Alves LGA, 2013, PHYSICA A, V392, P2672, DOI 10.1016/j.physa.2013.02.002
+   Angel S., 2005, DYNAMICS GLOBAL URBA
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Bettencourt LMA, 2015, HYPOTHESIS URBAN SCA
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gordon MB, 2010, EUR J APPL MATH, V21, P283, DOI 10.1017/S0956792510000069
+   Hanley QS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0109004
+   Hesketh T, 2006, P NATL ACAD SCI USA, V103, P13271, DOI 10.1073/pnas.0602203103
+   Ignazzi AC., 2014, LESPACE GEOGRAPHIQUE, V4, P324
+   Jones E, 2001, SCIPY OPEN SOURCE SC
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Louf R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102007
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Mantovani MC, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.024802
+   Mantovani MC, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/48001
+   Melo HPM, 2014, SCI REP-UK, V4, DOI 10.1038/srep06239
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Podobnik B, 2012, SCI REP-UK, V2, DOI 10.1038/srep00678
+   Pumain D, 2006, CYBERGEO, V343, P20
+   Pumain D., 2004, 200402002 SFI
+   Rybski D, 2014, CITIES NUCL SUSTAINA
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   United Nations, 2014, WORLD URB PROSP 2014, P1
+NR 34
+TC 14
+Z9 14
+U1 1
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 10
+PY 2015
+VL 10
+IS 9
+AR e0134862
+DI 10.1371/journal.pone.0134862
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CQ9WL
+UT WOS:000360965800002
+PM 26356081
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Hu, YH
+   Hou, MT
+   Jia, GS
+   Zhang, XX
+   Xu, RH
+   He, YT
+AF Hu, Yonghong
+   Hou, Meiting
+   Jia, Gensuo
+   Zhang, Xiaoxuan
+   Xu, Ronghan
+   He, Yuting
+TI Comparison of three different methods to identify fractional urban
+   signals for improving climate modelling
+SO INTERNATIONAL JOURNAL OF REMOTE SENSING
+LA English
+DT Article
+ID LAND-USE CHANGE; SUPPORT VECTOR MACHINES; COVER CLASSIFICATION; REGIONAL
+   CLIMATE; GLOBAL CHANGE; HEAT-ISLAND; AVHRR DATA; URBANIZATION; ALBEDO;
+   ALGORITHMS
+AB Urbanization has changed the properties of the Earth's surface and resulted in modification of the biogeochemical cycle and possible climate feedback at global and regional scales. Such climate effects are especially evident locally over short periods in megacity areas. Climate model simulation and urbanization process analysis are often limited by poor accuracy of land-cover products that largely neglect mixed urban-surface information below certain thresholds. The present study compares three urban land identification methods (fractional cover, overlapping parabolic interpolation, and threshold) used in remote sensing and climate model parameterization with Landsat Thematic Mapper images and Moderate Resolution Imaging Spectroradiometer land-cover data sets in a systematic evaluation. We also analyse deviation induced by scaling effects and its influence on the urban radiation budget to better understand the implications of land-surface parameter deviation on regional climate analysis. A positive linear relationship is found between the spatial scale and urban-area deviation based on combined analysis of the three land identification methods, and deviation trends levelled off with an increase in the spatial scale. Coarse-resolution land-cover products could not capture well the urbanization process indicated by reference data from Beijing between 2000 and 2009, especially in urban fringe areas where major urban expansion was detected. Detailed sub-pixel information was possibly neglected by threshold methods, which resulted in strong deviation between land-cover products and actual conditions. The overlapping parabolic interpolation method used in climate models also produced deviation in surface parameter derivation during nested simulation work. This might further affect model performance at the regional scale and should be considered in climate model simulation.
+C1 [Hu, Yonghong; Zhang, Xiaoxuan] Chinese Acad Sci, Inst Remote Sensing & Digital Earth, Key Lab Digital Earth Sci, Beijing 100094, Peoples R China.
+   [Hou, Meiting] China Meteorol Adm, China Meteorol Adm Training Ctr, Beijing 100081, Peoples R China.
+   [Jia, Gensuo; Xu, Ronghan] Chinese Acad Sci, Inst Atmospher Phys, Key Lab Reg Climate Environm East Asia, Beijing 100029, Peoples R China.
+   [Zhang, Xiaoxuan] China Univ Petr, Coll Geosci, Qingdao 266580, Peoples R China.
+   [He, Yuting] Penn State Univ, Dept Meteorol, University Pk, PA 16802 USA.
+RP Jia, GS (reprint author), Chinese Acad Sci, Inst Atmospher Phys, Key Lab Reg Climate Environm East Asia, Beijing 100029, Peoples R China.
+EM jiong@tea.ac.cn
+OI hu, yong hong/0000-0002-1520-4386; Jia, Gensuo/0000-0001-5950-9555
+FU CAS Strategic Priority Research Programme [XDA05090200]; National
+   Natural Science Foundation of China [41405064, 41201044]
+FX This study was supported by the CAS Strategic Priority Research
+   Programme [XDA05090200] and the National Natural Science Foundation of
+   China [41405064 and 41201044].
+CR AIDA M, 1982, BOUND-LAY METEOROL, V23, P405, DOI 10.1007/BF00116269
+   Akbari H, 2009, CLIMATIC CHANGE, V94, P275, DOI 10.1007/s10584-008-9515-9
+   [Anonymous], 2014, CLIM CHANG 2013 PHYS
+   Arnfield AJ, 2003, INT J CLIMATOL, V23, P1, DOI 10.1002/joc.859
+   Bartholome E, 2005, INT J REMOTE SENS, V26, P1959, DOI 10.1080/01431160412331291297
+   Beijing Statistical Bureau, 2014, BEIJ STAT YB
+   Chang CC, 2011, ACM T INTEL SYST TEC, V2, DOI 10.1145/1961189.1961199
+   Civerolo K, 2007, ATMOS ENVIRON, V41, P1803, DOI 10.1016/j.atmosenv.2006.10.076
+   Clapham WB, 2003, REMOTE SENS ENVIRON, V86, P322, DOI 10.1016/S0034-4257(03)00076-2
+   Dale VH, 1997, ECOL APPL, V7, P753
+   DUDHIA J, 2005, PSU NCAR MESOSCALE M
+   Ezber Y, 2007, INT J CLIMATOL, V27, P667, DOI 10.1002/joc.1420
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   Foody GM, 2002, REMOTE SENS ENVIRON, V80, P185, DOI 10.1016/S0034-4257(01)00295-4
+   Friedl MA, 2002, REMOTE SENS ENVIRON, V83, P287, DOI 10.1016/S0034-4257(02)00078-0
+   Friedl MA, 2010, REMOTE SENS ENVIRON, V114, P168, DOI 10.1016/j.rse.2009.08.016
+   Ge JJ, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007404
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Guo Y. R., 1994, TERRAIN LAND USE 5 G
+   Hansen J, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2005JD005776
+   Hansen MC, 2000, INT J REMOTE SENS, V21, P1331, DOI 10.1080/014311600210209
+   He Y. T., 2012, ATMOSPHERIC OCEANIC, V5, P113
+   He YT, 2013, ADV ATMOS SCI, V30, P1143, DOI 10.1007/s00376-012-2135-3
+   Jacobson MZ, 2012, J CLIMATE, V25, P1028, DOI 10.1175/JCLI-D-11-00032.1
+   Kalnay E, 2003, NATURE, V423, P528, DOI 10.1038/nature01675
+   Kato S, 2007, REMOTE SENS ENVIRON, V110, P1, DOI 10.1016/j.rse.2007.02.011
+   Kondo A, 2001, BOUND-LAY METEOROL, V100, P225, DOI 10.1023/A:1019243326464
+   Liang SL, 2001, REMOTE SENS ENVIRON, V76, P213, DOI 10.1016/S0034-4257(00)00205-4
+   Liu Q, 2013, INT J DIGIT EARTH, V6, P69, DOI 10.1080/17538947.2013.804601
+   Loveland TR, 2000, INT J REMOTE SENS, V21, P1303, DOI 10.1080/014311600210191
+   Mahmood R, 2010, B AM METEOROL SOC, V91, P37, DOI 10.1175/2009BAMS2769.1
+   Menon S, 2010, ENVIRON RES LETT, V5, DOI 10.1088/1748-9326/5/1/014005
+   Oleson KW, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2009GL042194
+   Pal M, 2005, INT J REMOTE SENS, V26, P1007, DOI 10.1080/01431160512331314083
+   Pielke RA, 2002, PHILOS T ROY SOC A, V360, P1705, DOI 10.1098/rsta.2002.1027
+   Pielke RA, 2011, WIRES CLIM CHANGE, V2, P828, DOI 10.1002/wcc.144
+   Pitman AJ, 2003, INT J CLIMATOL, V23, P479, DOI 10.1002/joc.893
+   Ren GY, 2008, J CLIMATE, V21, P1333, DOI 10.1175/2007JCLI1348.1
+   Schneider A, 2009, ENVIRON RES LETT, V4, DOI 10.1088/1748-9326/4/4/044003
+   Sertel E, 2010, INT J CLIMATOL, V30, P1942, DOI 10.1002/joc.2036
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P7687, DOI 10.1073/pnas.1117622109
+   Small C, 2011, REMOTE SENS ENVIRON, V115, P269, DOI 10.1016/j.rse.2010.08.021
+   Strugnell NC, 2001, J CLIMATE, V14, P1360, DOI 10.1175/1520-0442(2001)014<1360:AATICS>2.0.CO;2
+   Tewari M., 2008, COUPLED WRF UNIFIED
+   Unger J, 2004, CLIMATE RES, V27, P253, DOI 10.3354/cr027253
+   VanCuren R, 2012, CLIMATIC CHANGE, V112, P1071, DOI 10.1007/s10584-011-0250-2
+   Verburg PH, 2011, GLOBAL CHANGE BIOL, V17, P974, DOI 10.1111/j.1365-2486.2010.02307.x
+   Voogt JA, 2003, REMOTE SENS ENVIRON, V86, P370, DOI 10.1016/S0034-4257(03)00079-8
+   Wade TG, 2009, ENVIRON MODELL SOFTW, V24, P1252, DOI 10.1016/j.envsoft.2009.03.006
+   Wu K, 2013, CHINESE SCI BULL, V58, P1363, DOI 10.1007/s11434-012-5627-8
+   Zhou LM, 2004, P NATL ACAD SCI USA, V101, P9540, DOI 10.1073/pnas.0400357101
+NR 51
+TC 1
+Z9 1
+U1 0
+U2 14
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0143-1161
+EI 1366-5901
+J9 INT J REMOTE SENS
+JI Int. J. Remote Sens.
+PY 2015
+VL 36
+IS 12
+BP 3274
+EP 3292
+DI 10.1080/01431161.2015.1042593
+PG 19
+WC Remote Sensing; Imaging Science & Photographic Technology
+SC Remote Sensing; Imaging Science & Photographic Technology
+GA CL9JZ
+UT WOS:000357295800012
+DA 2019-03-26
+ER

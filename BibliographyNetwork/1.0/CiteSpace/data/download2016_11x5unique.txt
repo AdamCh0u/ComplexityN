@@ -1,0 +1,502 @@
+
+PT J
+AU Youn, H
+   Bettencourt, LMA
+   Lobo, J
+   Strumsky, D
+   Samaniego, H
+   West, GB
+AF Youn, Hyejin
+   Bettencourt, Luis M. A.
+   Lobo, Jose
+   Strumsky, Deborah
+   Samaniego, Horacio
+   West, Geoffrey B.
+TI Scaling and universality in urban economic diversification
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+DE universality; power laws; urban indicators; scaling laws; urban scaling
+ID POWER LAWS; CITY SIZE; CITIES; DIVERSITY; GROWTH; INNOVATION; LIFE
+AB Understanding cities is central to addressing major global challenges from climate change to economic resilience. Although increasingly perceived as fundamental socio-economic units, the detailed fabric of urban economic activities is only recently accessible to comprehensive analyses with the availability of large datasets. Here, we study abundances of business categories across US metropolitan statistical areas, and provide a framework for measuring the intrinsic diversity of economic activities that transcends scales of the classification scheme. A universal structure common to all cities is revealed, manifesting self-similarity in internal economic structure as well as aggregated metrics (GDP, patents, crime). We present a simple mathematical derivation of the universality, and provide a model, together with its economic implications of open-ended diversity created by urbanization, for understanding the observed empirical distribution. Given the universal distribution, scaling analyses for individual business categories enable us to determine their relative abundances as a function of city size. These results shed light on the processes of economic differentiation with scale, suggesting a general structure for the growth of national economies as integrated urban systems.
+OI Youn, Hyejin/0000-0002-6190-4412
+CR ABDELRAHMAN H, 1990, J REGIONAL SCI, V30, P165, DOI 10.1111/j.1467-9787.1990.tb00091.x
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2013, HYPOTHESIS URBAN SCA
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Christaller W., 1966, CENTRAL PLACES SO GE
+   Davis S. J., 1998, JOB CREATION DESTRUC
+   Desmet K, 2013, 1302 RWP FED RES BAN
+   DIXIT AK, 1977, AM ECON REV, V67, P297
+   Duranton G, 2001, AM ECON REV, V91, P1454, DOI 10.1257/aer.91.5.1454
+   Duranton G., 2013, 1308 CEMFI
+   Duranton G, 2007, AM ECON REV, V97, P197, DOI 10.1257/aer.97.1.197
+   Duranton G, 2011, J URBAN ECON, V69, P56, DOI 10.1016/j.jue.2010.08.004
+   Florida R, 2002, RISE CREATIVE CLASS
+   Fu DF, 2005, P NATL ACAD SCI USA, V102, P18801, DOI 10.1073/pnas.0509543102
+   Gabaix X, 2009, ANNU REV ECON, V1, P255, DOI 10.1146/annurev.economics.050708.142940
+   Gaubert C., 2014, WORKING PAPER
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   GLAESER EL, 1992, J POLIT ECON, V100, P1126, DOI 10.1086/261856
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Henderson J. V., 1988, URBAN DEV THEORY FAC
+   Hidalgo CA, 2007, SCIENCE, V317, P482, DOI 10.1126/science.1144581
+   Hidalgo CA, 2009, P NATL ACAD SCI USA, V106, P10570, DOI 10.1073/pnas.0900943106
+   Hsu WT, 2012, ECON J, V122, P903, DOI 10.1111/j.1468-0297.2012.02518.x
+   Jacobs J., 1984, CITIES WEALTH NATION
+   Klepper S., 1997, IND CORP CHANGE, V6, P145, DOI DOI 10.1093/ICC/6.1.145
+   Losch A., 1954, EC LOCATION
+   Manning A, 2010, J ECON GEOGR, V10, P717, DOI 10.1093/jeg/lbp042
+   Mori T, 2008, J REGIONAL SCI, V48, P165, DOI 10.1111/j.1467-9787.2008.00550.x
+   Neumark D, 2011, REV ECON STAT, V93, P16, DOI 10.1162/REST_a_00060
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Page S., 2008, THE DIFFERENCE
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Quigley JM, 1998, J ECON PERSPECT, V12, P127, DOI 10.1257/jep.12.2.127
+   Sachs DJ, 1994, MACROECONOMICS GLOBA
+   Schiff N, 2015, J ECON GEOGR, V15, P1085, DOI 10.1093/jeg/lbu040
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Walls Donald, 2007, KAUFFM S ENTR INN DA, DOI 10. 2139/ssrn. 1022962
+   WHITTAKER R H, 1972, Taxon, V21, P213, DOI 10.2307/1218190
+   Youn HJ, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0272
+   Yule GU, 1925, PHILOS T R SOC LON B, V213, P21, DOI 10.1098/rstb.1925.0002
+NR 47
+TC 16
+Z9 17
+SN 1742-5689
+EI 1742-5662
+PD JAN 1
+PY 2016
+VL 13
+IS 114
+AR 20150937
+DI 10.1098/rsif.2015.0937
+UT WOS:000374959000012
+PM 26790997
+ER
+
+PT S
+AU Wu, WJ
+   Zhao, HR
+   Wang, H
+   Jiang, SL
+AF Wu, Wenjia
+   Zhao, Hongrui
+   Wang, Hao
+   Jiang, Shulong
+BE Lai, PC
+   Low, CT
+   Wong, PPY
+TI The Research of China Urban Efficiency Based on Suomi-NPP Night-time
+   Light Data
+SO INTERNATIONAL CONFERENCE ON GEOGRAPHIES OF HEALTH AND LIVING IN CITIES:
+   MAKING CITIES HEALTHY FOR ALL
+SE Procedia Environmental Sciences
+CT International Conference on Geographies of Health and Living in Cities -
+   Making Cities Healthy for All (H-Cities)
+CY JUN 21-24, 2016
+CL Univ Hong Kong, Hong Kong, PEOPLES R CHINA
+HO Univ Hong Kong
+DE Urban efficiency; Night-time light data; Social interaction;
+   Sustainability
+ID SATELLITE DATA; CITIES; SUSTAINABILITY; IMAGERY; CITY
+AB China is the fastest urbanizing area in the world. Nowadays, increasingly complex urban systems not only create more socioeconomic output (such as GDP), but also bring more infrastructural costs, which intensifies the contradiction between large populations and relatively scarce resources. Thus, urban research has to focus on urban efficiency toward efficient, inclusive, and sustainable urbanization instead of urban size. Aiming at "land" in man-land relationship, urban size research mainly explores location factors. However, proposed by Michael Batty, social interaction is the driving force for urban efficiency, stressing on "man" in man-land relationship. Recently, our increasing ability to collect and share data on many aspects of urban life has begun to supply us with better clues to the properties of cities. Human activity can be effectively reflected using night-time light imageries. Making use of Suomi-NPP night-time light data, the Night Light Urban Efficiency Index (NLUEI) was proposed to quantitatively evaluate the urban efficiency, then this index was applied to 282 cities in China to calculate their urban efficiency. Results showed that 60.5% of these cities obtained the same result via NLUEI and social-tie density model from MIT. Compared to "2013 urban competitiveness blue book" published by CASS (Chinese Academy of Social Sciences), seven cities in top ten cities published by CASS also emerged in top ten cities according to NLUEI, and other three cities were all energy cities with low NLUEI. It is demonstrated that (1) NLUEI is a straightforward and objective index for evaluating the urban efficiency and (2) NLUEI works well in China and has great potential in urban management. (C) 2016 The Authors. Published by Elsevier B.V.
+OI Wang, Hao/0000-0002-3535-2693
+CR Batty M, 2013, NEW SCIENCE OF CITIES, P1
+   Bettencourt LM, 2013, KIND PROBLEM CITY IS, P175
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   BUXTON M., 2006, URBAN FORM URBAN EFF
+   Chinese Academy of Social Science, 2013, 2013 URB COMP BLUE B
+   Crane P, 2005, SCIENCE, V308, P1225, DOI 10.1126/science.1114165
+   Elvidge C. D., 2014, GLOBAL URBAN MONITOR, V23, P97, DOI [10.1201/b17012-9, DOI 10.1201/B17012-9]
+   Elvidge C D, 2009, GLOBAL URBAN MONITOR
+   Elvidge CD, 1997, INT J REMOTE SENS, V18, P1373, DOI 10.1080/014311697218485
+   Elvidge CD, 2009, ENERGIES, V2, P595, DOI 10.3390/en20300595
+   Gao P, 2015, PROFESSIONAL GEOGRAP
+   Gaughan AE, 2016, SCI DATA, V3
+   Griffiths P, 2010, REMOTE SENS ENVIRON, V114, P426, DOI 10.1016/j.rse.2009.09.012
+   He CY, 2006, CHINESE SCI BULL, V51, P1614, DOI 10.1007/s11434-006-2006-3
+   Henderson M, 2003, INT J REMOTE SENS, V24, P595, DOI 10.1080/01431160210144534
+   Imhoff ML, 1997, REMOTE SENS ENVIRON, V61, P361
+   Jerry A., 2013, SMITHSONIAN MAGAZINE
+   Jiang B, 2015, CITIES, V22, P1048
+   Kates RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/pnas.1231331100
+   Kay M., 2013, COMPUTATIONAL LINGUI, V19, P121
+   Kiran T, 2006, REMOTE SENS ENVIRON, V103, P165
+   Marshall A, 1920, PRINCIPLES EC
+   Marull J, 2013, LAND USE POLICY, V34, P353, DOI 10.1016/j.landusepol.2013.04.008
+   Miao B J Y, 2014, PROF GEOGR, V67, P295
+   Mohajeri N, 2013, ENTROPY-SWITZ, V15, P3340, DOI 10.3390/e15093340
+   Pan W, 2013, NATURE COMMUNICATION, V4, P131
+   Ross C., 2009, MEGAREGIONS PLANNING
+   Silvana A., 2005, COMPUT ENV URBAN SYS, V29, P179, DOI DOI 10.1016/J.COMPENVURBSYS.2003.09.004
+   Sutton P, 2001, INT J REMOTE SENS, V22, P3061, DOI 10.1080/01431160010007015
+NR 33
+TC 1
+Z9 2
+SN 1878-0296
+PY 2016
+VL 36
+BP 146
+EP 153
+DI 10.1016/j.proenv.2016.09.025
+UT WOS:000387507400024
+ER
+
+PT J
+AU Schiller, F
+AF Schiller, Frank
+TI Urban transitions: scaling complex cities down to human size
+SO JOURNAL OF CLEANER PRODUCTION
+DE Urban transition; Infrastructure; Retrofit; Mobility; Smart city;
+   Networks
+ID ENVIRONMENTAL-POLICY; POWER LAWS; INNOVATION; SYSTEMS; ECONOMICS;
+   GROWTH; STOCK; CONSUMPTION; HIERARCHY; EMISSIONS
+AB Complexity science has become prominent in studying cities as concepts like "smart city" and "big data" indicate. In particular network analysis has allowed to studying various aspects of cities in new ways. As such these analyses are often disconnected and subsequent business models often remain disembedded. However, complexity science can also compare various patterns extending over different scales (scaling) if they belong to the same entity (allometry). Such relationships pertain to cities too suggesting that buildings, infrastructure and traffic amongst other things develop interdependently and, that across specific city systems scaling phenomena can be compared according to cities' population size. The article argues that while many scaling phenomena of physical and social networks can indeed inform urban transition research the proposed central role of cities' population size is highly ambivalent. This is particularly true for economic indicators like GDP, which do not reflect the need for sustainability. Still, network and scaling analysis of the built environment can contribute to transition theory if explanatory social mechanisms relating human behaviours and social institutions to existing scaling phenomena are provided. (C) 2015 Elsevier Ltd. All rights reserved.
+CR Anderson Chris, 2008, WIRED MAG
+   Andersson C, 2006, ENVIRON PLANN A, V38, P1941, DOI 10.1068/a37418
+   Andersson C, 2014, FUTURES, V63, P145, DOI 10.1016/j.futures.2014.07.003
+   Antal M, 2014, ENERG POLICY, V68, P585, DOI 10.1016/j.enpol.2013.11.016
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Arthur W.B., 1994, INCREASING RETURNS P
+   Axtell Robert, 2001, COMPUTING EC FINANCE
+   Ayres RU, 2001, ENERGY, V26, P817, DOI 10.1016/S0360-5442(01)00031-7
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Baur AH, 2014, J URBAN PLAN DEV, V140, DOI 10.1061/(ASCE)UP.1943-5444.0000165
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Biesbroek GR, 2014, GLOBAL ENVIRON CHANG, V26, P108, DOI 10.1016/j.gloenvcha.2014.04.004
+   Boschma RA, 1999, J EVOL ECON, V9, P411, DOI 10.1007/s001910050089
+   Bourdic L, 2012, BUILD RES INF, V40, P518, DOI 10.1080/09613218.2012.690951
+   Brattebo H, 2009, BUILD RES INF, V37, P569, DOI 10.1080/09613210903186901
+   Bristow D, 2015, J IND ECOL, V19, P211, DOI 10.1111/jiec.12239
+   Brockway PE, 2014, ENVIRON SCI TECHNOL, V48, P9874, DOI 10.1021/es501217t
+   Broto VC, 2012, J IND ECOL, V16, P851, DOI 10.1111/j.1530-9290.2012.00556.x
+   Buhaug H, 2013, GLOBAL ENVIRON CHANG, V23, P1, DOI 10.1016/j.gloenvcha.2012.10.016
+   CALDARELLI G, 2007, LARGE SCALE STRUCTUR
+   Caldarelli G., 2007, SCALE FREE NETWORKS
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Clifton K., 2008, J URBAN, V3, P17, DOI [10.1080/17549170801903496, DOI 10.1080/17549170801903496]
+   Conte R, 2012, EUR PHYS J-SPEC TOP, V214, P325, DOI 10.1140/epjst/e2012-01697-8
+   Creutzig F, 2012, ENVIRON RES LETT, V7, DOI 10.1088/1748-9326/7/4/044042
+   Creutzig Felix, 2015, PNAS, pS1
+   Creutzig Felix, 2015, PNAS, P1
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   de Jong M, 2015, J CLEAN PROD, V109, P25, DOI 10.1016/j.jclepro.2015.02.004
+   Eames M, 2013, BUILD RES INF, V41, P504, DOI 10.1080/09613218.2013.805063
+   Economist Intelligence Unit, 2009, EUR GREEN CIT IND
+   Edenhofer O, 2015, ENVIRON SCI POLICY, V51, P56, DOI 10.1016/j.envsci.2015.03.017
+   Edenhofer Ottmar, 2014, CLIMATE CHANGE 2014, VIII
+   Epstein J. M., 1999, Complexity, V4, P41, DOI 10.1002/(SICI)1099-0526(199905/06)4:5<41::AID-CPLX9>3.0.CO;2-F
+   Finka M, 2015, LAND USE POLICY, V42, P602, DOI 10.1016/j.landusepol.2014.09.016
+   Flanagan K, 2011, RES POLICY, V40, P702, DOI 10.1016/j.respol.2011.02.005
+   Foxon TJ, 2013, ENERG POLICY, V52, P146, DOI 10.1016/j.enpol.2012.04.030
+   Foxon TJ, 2011, ECOL ECON, V70, P2258, DOI 10.1016/j.ecolecon.2011.07.014
+   Fragkias Michail, 2013, PLOS ONE, V8
+   Galvin R, 2014, ENERG POLICY, V74, P655, DOI 10.1016/j.enpol.2014.08.013
+   Geels F.W., 2010, TRANSITIONS SUSTAINA, P9
+   Geels FW, 2011, ENVIRON INNOV SOC TR, V1, P24, DOI 10.1016/j.eist.2011.02.002
+   Geels FW, 2004, RES POLICY, V33, P897, DOI 10.1016/j.respol.2004.01.015
+   Grazi F, 2008, ENERG J, V29, P97
+   Hassler U, 2009, BUILD RES INF, V37, P552, DOI 10.1080/09613210903189533
+   Herstatt C., 2012, SWISS J BUS RES PRAC, V66, P245
+   Hodson M, 2012, J IND ECOL, V16, P789, DOI 10.1111/j.1530-9290.2012.00559.x
+   Hodson M, 2010, RES POLICY, V39, P477, DOI 10.1016/j.respol.2010.01.020
+   International Energy Agency, 2013, TECHN ROADM
+   Irwin EG, 2009, LANDSCAPE ECOL, V24, P1223, DOI 10.1007/s10980-009-9353-9
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2013, PROF GEOGR, V65, P482, DOI 10.1080/00330124.2012.700499
+   Kalmykova Yuliya, 2015, J CLEAN PROD, P1
+   Kohler Niklaus, 2012, BUILD RES INF, P37
+   Krugman P., 1991, GEOGRAPHY TRADE
+   Kubiszewski I, 2013, ECOL ECON, V93, P57, DOI 10.1016/j.ecolecon.2013.04.019
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lammer S., 2006, PHYS A
+   Lechtenbohmer Stefan, 2010, SAPIENS, V3
+   Lenzen M, 2008, URBAN ENERGY TRANSITION: FROM FOSSIL FUELS TO RENEWABLE POWER, P91, DOI 10.1016/B978-0-08-045341-5.00004-9
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Louf R, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0924
+   Louf R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102007
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, P NATL ACAD SCI USA, V110, P8824, DOI 10.1073/pnas.1222441110
+   Lutzkendorf T, 2011, BUILD RES INF, V39, P483, DOI 10.1080/09613218.2011.597206
+   Malpass P., 2011, HOUSING THEORY SOC, V28, P305, DOI DOI 10.1080/14036096.2011.554852
+   Mandelbrot BB, 2009, COMPLEXITY, V14, P55, DOI 10.1002/cplx.20264
+   Mayntz R, 2004, PHILOS SOC SCI, V34, P237, DOI 10.1177/0048393103262552
+   McCormick K, 2013, J CLEAN PROD, V50, P1, DOI 10.1016/j.jclepro.2013.01.003
+   Mitchell S. D., 2009, UNSIMPLE TRUTHS SCI
+   Mitchell Sandra D., 2002, AKTEURE MECH MODELLE, P179
+   Muller DB, 2013, ENVIRON SCI TECHNOL, V47, P11739, DOI 10.1021/es402618m
+   Nelson R. R, 1982, EVOLUTIONARY THEORY
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Noailly J, 2012, ENERG ECON, V34, P795, DOI 10.1016/j.eneco.2011.07.015
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Nowotny H, 2005, THEOR CULT SOC, V22, P15, DOI 10.1177/0263276405057189
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pachauri S, 2008, ENERG POLICY, V36, P4022, DOI 10.1016/j.enpol.2008.06.016
+   Pauliuk S, 2014, URBAN WATER J, V11, P274, DOI 10.1080/1573062X.2013.795234
+   Pierson P., 2004, POLITICS TIME
+   POWELL WW, 1990, RES ORGAN BEHAV, V12, P295
+   Pumain D, 2006, EVOLUTIONARY THEORY, V343
+   Pumain D, 2006, METHODS SER, V3, P169
+   Ragin C. C., 2008, REDESIGNING SOCIAL I
+   Redfearn CL, 2009, REG SCI URBAN ECON, V39, P224, DOI 10.1016/j.regsciurbeco.2008.09.002
+   Reinders AHME, 2003, ENERG POLICY, V31, P139, DOI 10.1016/S0301-4215(02)00019-8
+   Rennings K, 2000, ECOL ECON, V32, P319, DOI 10.1016/S0921-8009(99)00112-3
+   Rickwood P, 2008, URBAN POLICY RES, V26, P57, DOI 10.1080/08111140701629886
+   Rodrik D, 2004, J ECON GROWTH, V9, P131, DOI 10.1023/B:JOEG.0000031425.72248.85
+   Roelich K, 2015, TECHNOL FORECAST SOC, V92, P40, DOI 10.1016/j.techfore.2014.11.008
+   Roth C, 2012, J R SOC INTERFACE, V9, P2540, DOI 10.1098/rsif.2012.0259
+   Rotmans J., 2001, FORESIGHT, V3, P15, DOI DOI 10.1108/14636680110803003
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Salat S, 2011, PROCEDIA ENGINEER, V21, P1193, DOI 10.1016/j.proeng.2011.11.2130
+   Salat Serge, 2009, BUILD RES INF
+   Samaniego Horacio, 2008, J TRANSP LAND USE, V1, P29
+   Sartori I, 2008, BUILD RES INF, V36, P412, DOI 10.1080/09613210802184312
+   Scharpf F. W., 2002, AKTEURE MECHANISMEN, V42, P213
+   Scharpf Fritz W., 1997, THEORETICAL LENSES P
+   Schipper Lee, 2004, ENCY ENERGY
+   Schwartz Herman, 2010, WELFARE STATE REFORM
+   Schwarz N, 2010, LANDSCAPE URBAN PLAN, V96, P29, DOI 10.1016/j.landurbplan.2010.01.007
+   Sorensen A, 2015, PLAN PERSPECT, V30, P17, DOI 10.1080/02665433.2013.874299
+   Sorrell S, 2008, ECOL ECON, V65, P636, DOI 10.1016/j.ecolecon.2007.08.013
+   Sorrell S, 2007, ENERG POLICY, V35, P507, DOI 10.1016/j.enpol.2005.12.009
+   Spath P, 2015, ENERG POLICY, V78, P273, DOI 10.1016/j.enpol.2014.12.019
+   Steadman P, 2009, BUILD RES INF, V37, P455, DOI 10.1080/09613210903152531
+   Steinberger JK, 2009, ENERG POLICY, V37, P361, DOI 10.1016/j.enpol.2008.08.030
+   Stiglitz JE, 2009, REPORT COMMISSION ME
+   Tacchella A, 2013, J ECON DYN CONTROL, V37, P1683, DOI 10.1016/j.jedc.2013.04.006
+   Urge-Vorsatz Diana, 2009, ECEE 2009 SUMM STUD, P1543
+   van den Bergh JCJM, 2007, J EVOL ECON, V17, P521, DOI 10.1007/s00191-006-0054-0
+   Vasileiadou E, 2010, FUTURES, V42, P1176, DOI 10.1016/j.futures.2010.07.001
+   Wiedenhofer D, 2013, ENERG POLICY, V63, P696, DOI 10.1016/j.enpol.2013.07.035
+   Wilson C, 2012, NAT CLIM CHANGE, V2, P780, DOI 10.1038/NCLIMATE1576
+   Wu Fulong, 2014, INT J HOUS POLICY, P1
+   Yetano Roche Maria, 2013, ANNU REV ENV RESOUR, V39, P21
+NR 126
+TC 2
+Z9 2
+SN 0959-6526
+EI 1879-1786
+PD JAN 20
+PY 2016
+VL 112
+BP 4273
+EP 4282
+DI 10.1016/j.jclepro.2015.08.030
+PN 5
+UT WOS:000368207500063
+ER
+
+PT J
+AU Krehl, A
+   Siedentop, S
+   Taubenbock, H
+   Wurm, M
+AF Krehl, Angelika
+   Siedentop, Stefan
+   Taubenboeck, Hannes
+   Wurm, Michael
+TI A Comprehensive View on Urban Spatial Structure: Urban Density Patterns
+   of German City Regions
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+DE urban spatial structure; remote sensing; density measures; built
+   density; floor area ratio; built-up volume; land use metrics; city
+   region; Germany
+ID RESIDENTIAL DENSITY; PHYSICAL-ACTIVITY; CITIES; SPRAWL; GROWTH;
+   PRODUCTIVITY; CONSUMPTION; ENVIRONMENT; ECONOMY; HEALTH
+AB Urban density must be considered a key concept in the description of a city's urban spatial structure. Countless studies have provided evidence of a close relationship between built density and activity densities, on the one hand, and urban environmental conditions or social practices, on the other hand. However, despite the concept's common use in urban research, urban density is a rather fuzzy and highly complex concept that is accompanied by a confusing variety of indicators and measurement approaches. To date, an internationally-accepted standard for the implementation of density indicators that permits a robust comparison of different countries, regions or cities is widely missing. This paper discusses the analytical opportunities that recent remote sensing data offer in regard to an objective and transparent measurement of built density patterns of city regions. It furthermore clarifies the interrelations between built and activity densities. We apply our approach to four German city regions to demonstrate the analytical capacity of spatially-refined density indicators for the purposes of comparative urban research at a regional scale. In so doing, we contribute to a more encompassing and robust understanding of the urban density concept when analyzing regional morphology.
+OI Taubenbock, Hannes/0000-0003-4360-9126
+CR Acioly Jr C., 1996, BUILD ISSUES, V8, P3
+   Ahlfeldt G, 2011, J REGIONAL SCI, V51, P318, DOI 10.1111/j.1467-9787.2010.00694.x
+   ANGEL S., 2011, MAKING ROOM PLANET C
+   Angel S, 2016, CITIES, V51, P36, DOI 10.1016/j.cities.2015.11.030
+   Barr J, 2014, REG SCI URBAN ECON, V48, P110, DOI 10.1016/j.regsciurbeco.2014.03.004
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   BKG, DIG BAS LANDSC MOD A
+   Brownstone D, 2009, J URBAN ECON, V65, P91, DOI 10.1016/j.jue.2008.09.002
+   Burchell RW, 2003, AM J PUBLIC HEALTH, V93, P1534, DOI 10.2105/AJPH.93.9.1534
+   Churchman A, 1999, J PLAN LIT, V13, P389, DOI DOI 10.1177/08854129922092478
+   Ciccone A, 1996, AM ECON REV, V86, P54
+   CONGALTON RG, 1991, REMOTE SENS ENVIRON, V37, P35, DOI 10.1016/0034-4257(91)90048-B
+   d'Angelo P., 2008, ISPRS 2008 PEKING CH, VB4, P1137
+   Doubek C, 1999, SIEDLUNGSSTRUKTUR OF
+   DUNHAM- JONES E., 2009, RETROFITTING SUBURBI
+   Duranton G, 2005, J URBAN ECON, V57, P343, DOI 10.1016/j.jue.2004.12.002
+   Eurostat, GEOSTAT 2011 GRID DA
+   Ewing R, 2008, HOUS POLICY DEBATE, V19, P1, DOI 10.1080/10511482.2008.9521624
+   Ewing R, 2015, J PLAN LIT, V30, P413, DOI 10.1177/0885412215595439
+   Ewing R, 2014, HEALTH PLACE, V26, P118, DOI 10.1016/j.healthplace.2013.12.008
+   Ewing R, 2010, J AM PLANN ASSOC, V76, P265, DOI 10.1080/01944361003766766
+   Filion P, 2015, INT J URBAN REGIONAL, V39, P633, DOI 10.1111/1468-2427.12198
+   Fina S, 2014, RAUMFORSCH RAUMORDN, V72, P179, DOI 10.1007/s13147-014-0279-6
+   Forsyth A., 2003, DESI BRIEF, V8, P1
+   Forsyth A, 2007, URBAN STUD, V44, P679, DOI 10.1080/00420980601184729
+   Grant JL, 2013, PLAN THEORY PRACT, V14, P391, DOI 10.1080/14649357.2013.808833
+   Guerois M, 2008, ENVIRON PLANN A, V40, P2186, DOI 10.1068/a39382
+   Guillain R, 2006, URBAN STUD, V43, P2075, DOI 10.1080/00420980600945203
+   Harlan SL, 2006, SOC SCI MED, V63, P2847, DOI 10.1016/j.socscimed.2006.07.030
+   Hinde S, 2005, TRANSPORT RES D-TR E, V10, P31, DOI 10.1016/j.trd.2004.09.003
+   Hirschmuller H, 2008, IEEE T PATTERN ANAL, V30, P328, DOI [10.1109/TPAMI.2007.1166, 10.1109/TPAMl.2007.1166]
+   Ioannides Y. M., 2000, PRODUCTIVITY METROPO
+   Jahn A., 2015, FLACHENNUUZUNGSMONIT, P233
+   Jessen J., 2015, REFITTING SUBUBIA ER
+   Kelly-Schwartz AC, 2004, J PLAN EDUC RES, V24, P184, DOI 10.1177/0739456X04267713
+   Koppe C., 2004, HEAT WAVES RISKS REP
+   Krehl A, 2015, REG STUD REG SCI, V2, P289, DOI DOI 10.1080/21681376.2015.1034293
+   Krehl A., 2015, GLOBALE URBANISIERUN, P159
+   Kropp J, 2009, KLIMAWANDEL NORDRHEI
+   Landcom, 2011, RES DENS GUID
+   Landeshauptstadt Stuttgart, 2005, STADTR DICHT FLACH W
+   McFarlane C., 2015, PROG HUM GEOGR
+   Melo P.C., 2016, URBAN STUD
+   Moss T, 2008, INT J URBAN REGIONAL, V32, P436, DOI 10.1111/j.1468-2427.2008.00790.x
+   Muniz I, 2010, URBAN GEOGR, V31, P774, DOI 10.2747/0272-3638.31.6.774
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   NRSA, 2006, CART 1 DAT US HDB
+   OECD, 2012, COMP CIT POL COMP AS
+   OECD, 2010, CITIES CLIMATE CHANG
+   Openshaw S., 1983, MODIFIABLE AREAL UNI
+   Patel RB, 2009, NEW ENGL J MED, V361, P741, DOI 10.1056/NEJMp0810878
+   Roberts B. H., 2007, P STAT AUSTR CIT NAT
+   Rode P, 2014, ENVIRON PLANN B, V41, P138, DOI 10.1068/b39065
+   Roskamm N., 2011, DICHTE TRANSDISZIPLI
+   SCHILLER G., 2005, DISP PLANNING REB, V41, P83
+   Schlapfer M., URBAN SKYLINES BUILD
+   Scholz T., 2012, GEOCODING GERMAN ADM
+   Siedentop S., 2014, FLACHENNUTZUNGSMONIT, P179
+   Siedentop S, 2006, SIEDLUNGSENTWICKLUNG
+   Siedentop S, 2012, ENVIRON PLANN A, V44, P2765, DOI 10.1068/a4580
+   Statistik der Bundesagentur fur Arbeit, SOZ BESCH NACH WOHN
+   Susaki J, 2014, REMOTE SENS ENVIRON, V155, P334, DOI 10.1016/j.rse.2014.09.006
+   Taubenbock H, 2015, COMPUT ENVIRON URBAN, V54, P165, DOI 10.1016/j.compenvurbsys.2015.07.001
+   Taubenbock H, 2015, DISP, V51, P78, DOI 10.1080/02513625.2015.1093354
+   Tian J, 2013, ISPRS J PHOTOGRAMM, V79, P226, DOI 10.1016/j.isprsjprs.2013.02.017
+   UN Habitat, 2012, URB PATT GREEN EC
+   WATKINS R, 2007, BUILT ENV, V33, P85
+   Wurm M., 2015, P 2015 JOINT URB REM
+   Wurm M, 2014, IEEE J-STARS, V7, P4138, DOI 10.1109/JSTARS.2014.2346655
+   Wurm M, 2011, INT J IMAGE DATA FUS, V2, P121, DOI 10.1080/19479832.2010.543934
+NR 71
+TC 11
+Z9 11
+SN 2220-9964
+PD JUN
+PY 2016
+VL 5
+IS 6
+AR 76
+DI 10.3390/ijgi5060076
+UT WOS:000379861200003
+ER
+
+PT J
+AU Fu, GH
+   Wilkinson, S
+   Dawson, RJ
+AF Fu, Gaihua
+   Wilkinson, Sean
+   Dawson, Richard J.
+TI A Spatial Network Model for Civil Infrastructure System Development
+SO COMPUTER-AIDED CIVIL AND INFRASTRUCTURE ENGINEERING
+ID SMALL-WORLD NETWORKS; INTERDEPENDENT NETWORKS; ROAD NETWORKS;
+   VULNERABILITY; ENVIRONMENT; EARTHQUAKE; MANAGEMENT; EVOLUTION; TOPOLOGY;
+   DYNAMICS
+AB Infrastructure networks play an important role in improving economic prosperity, enabling movement of resources, and protecting communities from hazards. As these networks serve population, they evolve in response to social, economic, environmental, and technological changes. Consideration of these interactions has thus far been limited by use of simplified data sets and idealized network structures, and is unable to explain the complexity and suboptimal structures displayed by real infrastructure networks. This article presents a new computational model that simulates the growth and evolution of infrastructure systems. Empirical evidence obtained from analysis of nontrivial real-world data sets is used to identify the mechanisms that guide and govern system-scale evolution of infrastructure networks. The model investigates the interplay of three key drivers, namely network demand, network efficiency, and network cost in shaping infrastructure network architectures. The validity of the model is verified by comparing key topological and spatial properties of simulated networks with real-world networks from six infrastructure sectors. The model is used to develop and explore different scenarios of infrastructure network futures, and their resilience is shown to change as a result of different infrastructure management policies. The model can therefore be used to identify system-wide infrastructure engineering strategies to reduce network costs, increase network efficiency, and improve the resilience of infrastructure networks to disruptive events.
+CR ADELI H, 1995, COMPUT STRUCT, V54, P255, DOI 10.1016/0045-7949(94)00323-U
+   Adeli H., 2008, INTELLIGENT INFRASTR
+   Albert R, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.025103
+   Aldrich J, 1997, STAT SCI, V12, P162
+   Argyroudis S, 2015, COMPUT-AIDED CIV INF, V30, P524, DOI 10.1111/mice.12136
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barthelemy M, 2003, EUROPHYS LETT, V63, P915, DOI 10.1209/epl/i2003-00600-6
+   Barthelemy M, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/07/L07002
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Bocchini P, 2014, J INFRASTRUCT SYST, V20, DOI 10.1061/(ASCE)IS.1943-555X.0000177
+   Boguna M, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.056122
+   Bollobas B, 2003, HANDBOOK OF GRAPHS AND NETWORKS: FROM THE GENOME TO THE INTERNET, P1
+   Buldyrev SV, 2010, NATURE, V464, P1025, DOI 10.1038/nature08932
+   Carvalho R, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016106
+   Castillo E, 2014, COMPUT-AIDED CIV INF, V29, P496, DOI 10.1111/mice.12061
+   Cavalieri F, 2014, COMPUT-AIDED CIV INF, V29, P590, DOI 10.1111/mice.12064
+   Cavallaro M, 2014, COMPUT-AIDED CIV INF, V29, P608, DOI 10.1111/mice.12080
+   Cohen R, 2001, PHYS REV LETT, V86, P3682, DOI 10.1103/PhysRevLett.86.3682
+   Cohen R, 2000, PHYS REV LETT, V85, P4626, DOI 10.1103/PhysRevLett.85.4626
+   Crucitti P, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036125
+   Crucitti P, 2004, PHYSICA A, V338, P92, DOI 10.1016/j.physa.2004.02.029
+   Dobbs R., 2013, INFRASTRUCTURE PRODU
+   Duenas-Osorio L, 2005, THESIS
+   Duenas-Osorio L, 2011, COMPUT-AIDED CIV INF, V26, P111, DOI 10.1111/j.1467-8667.2010.00661.x
+   Dunn S, 2013, P I CIVIL ENG-ENG SU, V166, P281, DOI 10.1680/ensu.12.00039
+   Erds P., 1959, PUBL MATH-DEBRECEN, V6, P290
+   Esposito S, 2015, COMPUT-AIDED CIV INF, V30, P508, DOI 10.1111/mice.12105
+   Faturechi R, 2014, COMPUT-AIDED CIV INF, V29, P572, DOI 10.1111/mice.12027
+   Ford AC, 2015, ISPRS INT GEO-INF, V4, P124, DOI 10.3390/ijgi4010124
+   Franchin P, 2015, COMPUT-AIDED CIV INF, V30, P583, DOI 10.1111/mice.12092
+   Fu G., 2014, ISCS2014, P365
+   Fu GH, 2014, EUR PHYS J B, V87, DOI 10.1140/epjb/e2014-40876-y
+   Gastner MT, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.016117
+   Gastner MT, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/01/P01015
+   Gastner MT, 2006, EUR PHYS J B, V49, P247, DOI 10.1140/epjb/e2006-00046-8
+   Grosche T, 2009, STUD COMPUT INTELL, V173, P1
+   Guimera R, 2004, EUR PHYS J B, V38, P381, DOI 10.1140/epjb/e2004-00131-0
+   Jiang XM, 2004, COMPUT-AIDED CIV INF, V19, P144, DOI 10.1111/j.1467-8667.2004.00344.x
+   Kaiser M, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.036103
+   Kao WM, 2002, ENG INTELL SYST ELEC, V10, P3
+   Karim A, 1999, J CONSTR ENG M ASCE, V125, P368, DOI 10.1061/(ASCE)0733-9364(1999)125:5(368)
+   Karim A, 1999, J CONSTR ENG M ASCE, V125, P361, DOI 10.1061/(ASCE)0733-9364(1999)125:5(361)
+   Klemm K, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.057102
+   Krapivsky PL, 2000, PHYS REV LETT, V85, P4629, DOI 10.1103/PhysRevLett.85.4629
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Lennartsson J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0042679
+   Nesetril J, 2001, DISCRETE MATH, V233, P3, DOI 10.1016/S0012-365X(00)00224-7
+   Newman MEJ, 2006, STRUCTURE DYNAMICS N
+   ONS (Office for National Statistics), 2012, 2011 CENS POP HOUS E
+   ORourke T. D., 2005, CRISIS RESPONSE J, V1, P40
+   Rosas-Casals M, 2007, INT J BIFURCAT CHAOS, V17, P2465, DOI 10.1142/S0218127407018531
+   Rui YK, 2013, EUR PHYS J B, V86, DOI 10.1140/epjb/e2012-30235-7
+   Sridhar B., 2008, P 17 INT FED AUT CON, P6
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   UN (United Nations), 2014, WORLD URB PROSP 2014
+   Boas PRV, 2009, PHYS LETT A, V374, P22, DOI 10.1016/j.physleta.2009.10.028
+   Warren CP, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.056105
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WAXMAN BM, 1988, IEEE J SEL AREA COMM, V6, P1617, DOI 10.1109/49.12889
+   Wilkinson SM, 2012, NAT HAZARDS, V63, P521, DOI 10.1007/s11069-012-0164-y
+   Wilkinson S, 2013, B EARTHQ ENG, V11, P107, DOI 10.1007/s10518-012-9384-5
+   Wilkinson SM, 2012, NAT HAZARDS, V60, P1027, DOI 10.1007/s11069-011-9885-6
+   Xie YB, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.036106
+   Yook SH, 2002, P NATL ACAD SCI USA, V99, P13382, DOI 10.1073/pnas.172501399
+NR 67
+TC 5
+Z9 5
+SN 1093-9687
+EI 1467-8667
+PD SEP
+PY 2016
+VL 31
+IS 9
+BP 661
+EP 680
+DI 10.1111/mice.12204
+UT WOS:000380730200002
+ER

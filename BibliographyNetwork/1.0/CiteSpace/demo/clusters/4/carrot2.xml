@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>The mathematical relationship between Zipf's law and the hierarchical scaling law</title>
+<url>http://dx.doi.org/10.1016/j.physa.2011.12.031</url>
+<snippet>The empirical studies of city-size distribution show that Zipfs law and the hierarchical scaling law are linked in many ways. The rank-size scaling and hierarchical scaling seem to be two different sides of the same coin, but their relationship has never been revealed by strict mathematical proof. In this paper, the Zipfs distribution of cities is abstracted as a q-sequence. Based on this sequence, a self-similar hierarchy consisting of many levels is defined and the numbers of cities in different levels form a geometric sequence. An exponential distribution of the average size of cities is derived from the hierarchy. Thus we have two exponential functions, from which follows a hierarchical scaling equation. The results can be statistically verified by simple mathematical experiments and observational data of cities. A theoretical foundation is then laid for the conversion from Zipfs law to the hierarchical scaling law, and the latter can show more information about city development than the former. Moreover, the self-similar hierarchy provides a new perspective for studying networks of cities as complex systems. A series of mathematical rules applied to cities such as the allometric growth law, the 2(n) principle and Paretos law can be associated with one another by the hierarchical organization. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000302423700027
+</snippet>
+</document>
+
+<document id="2">
+<title>RECENT DYNAMICS OF THE CHILEAN URBAN SYSTEM 1970-2002: INTEGRATION AT A NATIONAL LEVEL</title>
+<url>http://dx.doi.org/</url>
+<snippet>The analysis of ranksize distributions and internal movement of the system shows that the Chilean urban system is evolving towards integration at national level, as a result of a notable mobility of intermediate cities and the consolidation of larger ones. The driving forces behind this process can be found in the urban reinforcement of the economic base of cities, which adds new functions, and in the effects that decentralization in large urban centres brought about in neighbouring cities.
+WOS:000315550800006
+</snippet>
+</document>
+
+<document id="3">
+<title>Defining city size</title>
+<url>http://dx.doi.org/10.1068/b3805ed</url>
+<snippet>
+WOS:000297236900001
+</snippet>
+</document>
+
+<document id="4">
+<title>Languages cool as they expand: Allometric scaling and the decreasing need for new words</title>
+<url>http://dx.doi.org/10.1038/srep00943</url>
+<snippet>We analyze the occurrence frequencies of over 15 million words recorded in millions of books published during the past two centuries in seven different languages. For all languages and chronological subsets of the data we confirm that two scaling regimes characterize the word frequency distributions, with only the more common words obeying the classic Zipf law. Using corpora of unprecedented size, we test the allometric scaling relation between the corpus size and the vocabulary size of growing languages to demonstrate a decreasing marginal need for new words, a feature that is likely related to the underlying correlations between words. We calculate the annual growth fluctuations of word use which has a decreasing trend as the corpus size increases, indicating a slowdown in linguistic evolution following language expansion. This "cooling pattern" forms the basis of a third statistical regularity, which unlike the Zipf and the Heaps law, is dynamical in nature. RI Petersen, Alexander/D-9243-2012; Perc, Matjaz/A-5148-2009 OI Petersen, Alexander/0000-0002-0955-3483; Perc, Matjaz/0000-0002-3087-541X
+WOS:000312273400002
+</snippet>
+</document>
+
+<document id="5">
+<title>The Area and Population of Cities: New Insights from a Different Perspective on Cities</title>
+<url>http://dx.doi.org/10.1257/aer.101.5.2205</url>
+<snippet>
+WOS:000293892300019
+</snippet>
+</document>
+
+<document id="6">
+<title>Urban gravity: a model for inter-city telecommunication flows</title>
+<url>http://dx.doi.org/10.1088/1742-5468/2009/07/L07003</url>
+<snippet>We analyze the anonymous communication patterns of 2.5 million customers of a Belgian mobile phone operator. Grouping customers by billing address, we build a social network of cities that consists of communications between 571 cities in Belgium. We show that inter-city communication intensity is characterized by a gravity model: the communication intensity between two cities is proportional to the product of their sizes divided by the square of their distance. RI blondel, vincent/A-8916-2011
+WOS:000269353300003
+</snippet>
+</document>
+
+<document id="7">
+<title>The accelerating growth of online tagging systems</title>
+<url>http://dx.doi.org/10.1140/epjb/e2011-20187-9</url>
+<snippet>Research on the growth of online tagging systems not only is interesting in its own right, but also yields insights for website management and semantic web analysis. Traditional models that describing the growth of online systems can be divided between linear and nonlinear versions. Linear models, including the BA model [A.L. Barabasi, R. Albert, Science 286, 509 (1999)], assume that the average activity of users is a constant independent of population. Hence the total activity is a linear function of population. On the contrary, nonlinear models suggest that the average activity is affected by the size of the population and the total activity is a nonlinear function of population. In the current study, supporting evidences for the nonlinear growth assumption are obtained from data on Internet users tagging behavior. A power law relationship between the number of new tags (F) and the population (P), which can be expressed as F similar to P(gamma) (gamma &gt; 1), is found. I call this pattern accelerating growth and find it relates the to time-invariant heterogeneity in individual activities. I also show how a greater heterogeneity leads to a faster growth.
+WOS:000296633500019
+</snippet>
+</document>
+
+<document id="8">
+<title>Modeling Fractal Structure of City-Size Distributions Using Correlation Functions</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0024791</url>
+<snippet>Zipfs law is one the most conspicuous empirical facts for cities, however, there is no convincing explanation for the scaling relation between rank and size and its scaling exponent. Using the idea from general fractals and scaling, I propose a dual competition hypothesis of city development to explain the value intervals and the special value, 1, of the power exponent. Zipfs law and Paretos law can be mathematically transformed into one another, but represent different processes of urban evolution, respectively. Based on the Pareto distribution, a frequency correlation function can be constructed. By scaling analysis and multifractals spectrum, the parameter interval of Pareto exponent is derived as (0.5, 1]; Based on the Zipf distribution, a size correlation function can be built, and it is opposite to the first one. By the second correlation function and multifractals notion, the Pareto exponent interval is derived as [1, 2). Thus the process of urban evolution falls into two effects: one is the Pareto effect indicating city number increase (external complexity), and the other the Zipf effect indicating city size growth (internal complexity). Because of struggle of the two effects, the scaling exponent varies from 0.5 to 2; but if the two effects reach equilibrium with each other, the scaling exponent approaches 1. A series of mathematical experiments on hierarchical correlation are employed to verify the models and a conclusion can be drawn that if cities in a given region follow Zipfs law, the frequency and size correlations will follow the scaling law. This theory can be generalized to interpret the inverse power-law distributions in various fields of physical and social sciences.
+WOS:000295260400014
+</snippet>
+</document>
+
+<document id="9">
+<title>Collective behavior in the spatial spreading of obesity</title>
+<url>http://dx.doi.org/10.1038/srep00454</url>
+<snippet>Obesity prevalence is increasing in many countries at alarming levels. A difficulty in the conception of policies to reverse these trends is the identification of the drivers behind the obesity epidemics. Here, we implement a spatial spreading analysis to investigate whether obesity shows spatial correlations, revealing the effect of collective and global factors acting above individual choices. We find a regularity in the spatial fluctuations of their prevalence revealed by a pattern of scale-free long-range correlations. The fluctuations are anomalous, deviating in a fundamental way from the weaker correlations found in the underlying population distribution indicating the presence of collective behavior, i.e., individual habits may have negligible influence in shaping the patterns of spreading. Interestingly, we find the same scale-free correlations in economic activities associated with food production. These results motivate future interventions to investigate the causality of this relation providing guidance for the implementation of preventive health policies. OI Gallos, Lazaros/0000-0002-2713-7934
+WOS:000305798200001
+</snippet>
+</document>
+
+<document id="10">
+<title>Standardized Analysis of Urban Form</title>
+<url>http://dx.doi.org/</url>
+<snippet>Despite the availability of detailed data for describing cities, there is a shortage of tools that enable standardized analyses of urban areas, and the associated resource consumption. The objective of this research is to contribute to the development of a standardized method for analysis, so that material and energy consumption can be quantified. Analyzing the resource consumption of the built environment is particularly relevant in cities that are rapidly growing, as short-term planning decisions will have long-term consequences for both the quality of life of the inhabitants, and the future energy and material use of the urban area.
+WOS:000297353100077
+</snippet>
+</document>
+
+<document id="11">
+<title>The "S" curve relationship between export diversity and economic size of countries</title>
+<url>http://dx.doi.org/10.1016/j.physa.2011.08.048</url>
+<snippet>The highly detailed international trade data among all countries in the world during 1971-2000 shows that the kinds of export goods and the logarithmic GDP (gross domestic production) of a country have an S-shaped relationship. This indicates that all countries can be divided into three stages accordingly. First, the small economies always export very few kinds of products as we expect. Second, once the economic size magnitude (log(GDP)) of a country is beyond a threshold, its export diversity may increase dramatically. However, this is not the case for large economies because a ceiling on the export diversity is observed when their logarithmic GDPs are higher than another threshold. This pattern is very stable for different years although the concrete parameters of the fitting sigmoid functions may change with time. In addition, we also discussed other relationships such as import diversity with respect to logarithmic GDP, diversity of exporters with respect to the number of export goods etc.; all of these relationships show S-shaped or power law patterns which can be derived by the "S" curve relations. Although this paper does not explain the origin of the S-shaped curve, it may provide a basic empirical fact and insights for economic diversity. (C) 2011 Elsevier B.V. All rights reserved. RI Zhang, Jiang/A-3156-2012
+WOS:000297779500032
+</snippet>
+</document>
+
+<document id="12">
+<title>Mapping collective behavior in the big-data era</title>
+<url>http://dx.doi.org/10.1017/S0140525X13000289</url>
+<snippet>The behavioral sciences have flourished by studying how traditional and/or rational behavior has been governed throughout most of human history by relatively well-informed individual and social learning. In the online age, however, social phenomena can occur with unprecedented scale and unpredictability, and individuals have access to social connections never before possible. Similarly, behavioral scientists now have access to "big data" sets - those from Twitter and Facebook, for example - that did not exist a few years ago. Studies of human dynamics based on these data sets are novel and exciting but, if not placed in context, can foster the misconception that mass-scale online behavior is all we need to understand, for example, how humans make decisions. To overcome that misconception, we draw on the field of discrete-choice theory to create a multiscale comparative "map" that, like a principal-components representation, captures the essence of decision making along two axes: (1) an east-west dimension that represents the degree to which an agent makes a decision independently versus one that is socially influenced, and (2) a north-south dimension that represents the degree to which there is transparency in the payoffs and risks associated with the decisions agents make. We divide the map into quadrants, each of which features a signature behavioral pattern. When taken together, the map and its signatures provide an easily understood empirical framework for evaluating how modern collective behavior may be changing in the digital age, including whether behavior is becoming more individualistic, as people seek out exactly what they want, or more social, as people become more inextricably linked, even "herdlike," in their decision making. We believe the map will lead to many new testable hypotheses concerning human behavior as well as to similar applications throughout the social sciences. OI Bentley, R. Alexander/0000-0001-9086-2197
+WOS:000332474000031
+</snippet>
+</document>
+
+<document id="13">
+<title>Energy distribution and economic growth</title>
+<url>http://dx.doi.org/10.1016/j.reseneeco.2011.04.004</url>
+<snippet>This research examines the physical constraints on the growth process. In order to run, maintain and build capital energy is required to be distributed to geographically dispersed sites where investments are deemed profitable. We capture this aspect of physical reality by a network theory of electricity distribution. The model leads to a supply relation according to which feasible electricity consumption per capita rises with the size of the economy, as measured by capital per capita. Specifically, the relation is a simple power law with an exponent assigned to capital that is bounded between 1/2 and 3/4, depending on the efficiency of the network. Together with an energy conservation equation, capturing instantaneous aggregate demand for electricity, we are able to provide a metabolic-energetic founded law of motion for capital per capita that is mathematically isomorphic to the one emanating from the Solow growth model. Using data for the 50 US states 1960-2000, we examine the determination of growth in electricity consumption per capita and test the model structurally. The model fits the data well. The exponent in the power law connecting capital and electricity is 2/3. (C) 2011 Elsevier B.V. All rights reserved. OI Strulik, Holger/0000-0002-5615-2412
+WOS:000295751100002
+</snippet>
+</document>
+
+<document id="14">
+<title>The Statistics of Urban Scaling and Their Connection to Zipf's Law</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0040393</url>
+<snippet>Urban scaling relations characterizing how diverse properties of cities vary on average with their population size have recently been shown to be a general quantitative property of many urban systems around the world. However, in previous studies the statistics of urban indicators were not analyzed in detail, raising important questions about the full characterization of urban properties and how scaling relations may emerge in these larger contexts. Here, we build a self-consistent statistical framework that characterizes the joint probability distributions of urban indicators and city population sizes across an urban system. To develop this framework empirically we use one of the most granular and stochastic urban indicators available, specifically measuring homicides in cities of Brazil, Colombia and Mexico, three nations with high and fast changing rates of violent crime. We use these data to derive the conditional probability of the number of homicides per year given the population size of a city. To do this we use Bayes rule together with the estimated conditional probability of city size given their number of homicides and the distribution of total homicides. We then show that scaling laws emerge as expectation values of these conditional statistics. Knowledge of these distributions implies, in turn, a relationship between scaling and population size distribution exponents that can be used to predict Zipfs exponent from urban indicator statistics. Our results also suggest how a general statistical theory of urban indicators may be constructed from the stochastic dynamics of social interaction processes in cities. OI Youn, Hyejin/0000-0002-6190-4412
+WOS:000306548900023
+</snippet>
+</document>
+
+<document id="15">
+<title>Accelerating growth and size-dependent distribution of human online activities</title>
+<url>http://dx.doi.org/10.1103/PhysRevE.84.026113</url>
+<snippet>Research on human online activities usually assumes that total activity T increases linearly with active population P, that is, T alpha P-gamma (gamma = 1). However, we find examples of systems where total activity grows faster than active population. Our study shows that the power law relationship T alpha P-gamma (gamma &gt; 1) is in fact ubiquitous in online activities such as microblogging, news voting, and photo tagging. We call the pattern "accelerating growth" and find it relates to a type of distribution that changes with system size. We show both analytically and empirically how the growth rate gamma associates with a scaling parameter b in the size-dependent distribution. As most previous studies explain accelerating growth by power law distribution, the model of size-dependent distribution is worth further exploration. RI Zhang, Jiang/A-3156-2012
+WOS:000294061600003
+</snippet>
+</document>
+
+<document id="16">
+<title>Zipf's law, 1/f noise, and fractal hierarchy</title>
+<url>http://dx.doi.org/10.1016/j.chaos.2011.10.001</url>
+<snippet>Fractals, 1/f noise, and Zipfs laws are frequently observed within the natural living world as well as in social institutions, representing three signatures of complex systems. All these observations are associated with scaling laws and therefore have created much research interest in many diverse scientific circles. However, the inherent relationships between these scaling phenomena are not yet clear. In this paper, theoretical demonstration and mathematical experiments based on urban studies are employed to reveal the analogy between fractal patterns, 1/f spectra, and the Zipf distribution. First, the multifractal process empirically suggests the Zipf distribution. Second, a 1/f spectrum is mathematically identical to Zipfs law. Third, both spectra and Zipfs law can be converted into a self-similar hierarchy. Fourth, fractals, 1/f spectra, Zipfs law can be rescaled with similar exponential laws and power laws. The self-similar hierarchy is a more general scaling method which can be used to unify different scaling phenomena and rules in both physical and social systems such as cities, rivers, earthquakes, fractals, 1/f noise, and rank-size distributions. The mathematical laws of this hierarchical structure can provide us with a holistic perspective of looking at complexity and complex systems. (C) 2011 Elsevier Ltd. All rights reserved.
+WOS:000300595500007
+</snippet>
+</document>
+
+<document id="17">
+<title>Scaling laws and fluctuations in the statistics of word frequencies</title>
+<url>http://dx.doi.org/10.1088/1367-2630/16/11/113010</url>
+<snippet>In this paper, we combine statistical analysis of written texts and simple stochastic models to explain the appearance of scaling laws in the statistics of word frequencies. The average vocabulary of an ensemble of fixed-length texts is known to scale sublinearly with the total number of words (Heaps law). Analyzing the fluctuations around this average in three large databases (Googlengram, English Wikipedia, and a collection of scientific articles), we find that the standard deviation scales linearly with the average (Taylors law), in contrast to the prediction of decaying fluctuations obtained using simple sampling arguments. We explain both scaling laws (Heaps and Taylor) by modeling the usage of words using a Poisson process with a fat-tailed distribution of word frequencies (Zipfs law) and topic-dependent frequencies of individual words (as in topic models). Considering topical variations lead to quenched averages, turn the vocabulary size a non-self-averaging quantity, and explain the empirical observations. For the numerous practical applications relying on estimations of vocabulary size, our results show that uncertainties remain large even for long texts. We show how to account for these uncertainties in measurements of lexical richness of texts with different lengths. RI Gerlach, Martin/D-7230-2016; Altmann, Eduardo/A-3320-2009 OI Gerlach, Martin/0000-0002-0879-7865; Altmann, Eduardo/0000-0002-1932-3710
+WOS:000346711800004
+</snippet>
+</document>
+
+<document id="18">
+<title>Scaling Behavior of Chinese City Size Distribution</title>
+<url>http://dx.doi.org/</url>
+<snippet>We have investigated the population distribution of Chinese cities from 1997 to 2006. The rank-size distributions of Chinese cities deviate from the Pareto distribution. For city size distribution of each year we can find a population threshold P-c that characterizes the boundary of the deviation. The cities with population more than P-c follow the Pareto distribution, while the smaller cities deviate from the Pareto distribution. Using P-c for every year, the rank-size distribution from 1997 to 2006 can be written into a scaling form R(P,T) = C(T)P-alpha(T) f(P/P-c(T)), where the Pareto exponent alpha(T) is not equal to the value of Zipfs law and evolutes with time. According this scaling form, the data of the city size distributions of Chinese cities from 1997 to 2006 can collapses to a single curve, which is the scaling function of the city size distribution.
+WOS:000307413400086
+</snippet>
+</document>
+
+<document id="19">
+<title>Fractal cartography of urban areas</title>
+<url>http://dx.doi.org/10.1038/srep00527</url>
+<snippet>In a world in which the pace of cities is increasing, prompt access to relevant information is crucial to the understanding and regulation of land use and its evolution in time. In spite of this, characterization and regulation of urban areas remains a complex process, requiring expert human intervention, analysis and judgment. Here we carry out a spatio-temporal fractal analysis of a metropolitan area, based on which we develop a model which generates a cartographic representation and classification of built-up areas, identifying (and even predicting) those areas requiring the most proximate planning and regulation. Furthermore, we show how different types of urban areas identified by the model co-evolve with the city, requiring policy regulation to be flexible and adaptive, acting just in time. The algorithmic implementation of the model is applicable to any built-up area and simple enough to pave the way for the automatic classification of urban areas worldwide. RI Santos, Francisco/D-2394-2010; Pacheco, Jorge/B-6116-2008 OI Santos, Francisco/0000-0002-9103-2862; Pacheco, Jorge/0000-0002-2579-8499; Encarnacao, Sara/0000-0001-8262-2927; Tenedorio, Jose Antonio/0000-0003-3047-0807
+WOS:000306710300002
+</snippet>
+</document>
+
+<document id="20">
+<title>Size Dependency of Income Distribution and Its Implications</title>
+<url>http://dx.doi.org/10.1088/0256-307X/28/3/038901</url>
+<snippet>We systematically study the size dependency of income distributions, i.e. income distribution versus the population of a country. Using the generalized Lotka-Volterra model to fit the empirical income data for 1996-2007 in the U.S.A., we find an important parameter lambda that can scale with a beta power of the size (population) of the U.S.A. in that year. We point out that the size dependency of income distributions, which is a very important property but seldom addressed in previous studies, has two non-trivial implications: (1) the allometric growth pattern, i.e. the power-law relationship between population and GDP in different years, can be mathematically derived from the size-dependent income distributions and also supported by the empirical data; (2) the connection with the anomalous scaling for the probability density function in critical phenomena, since the re-scaled form of the income distributions has asymptotically exactly the same mathematical expression for the limit distribution of the sum of many correlated random variables. RI Zhang, Jiang/A-3156-2012
+WOS:000288120900062
+</snippet>
+</document>
+
+<document id="21">
+<title>The rank-size scaling law and entropy-maximizing principle</title>
+<url>http://dx.doi.org/10.1016/j.physa.2011.07.010</url>
+<snippet>The rank-size regularity known as Zipfs law is one of the scaling laws and is frequently observed in the natural living world and social institutions. Many scientists have tried to derive the rank-size scaling relation through entropy-maximizing methods, but they have not been entirely successful. By introducing a pivotal constraint condition. I present here a set of new derivations based on the self-similar hierarchy of cities. First. I derive a pair of exponent laws by postulating local entropy maximizing. From the two exponential laws follows a general hierarchical scaling law, which implies the general form of Zipfs law. Second. I derive a special hierarchical scaling law with the exponent equal to 1 by postulating global entropy maximizing, and this implies the pure form of Zipfs law. The rank-size scaling law has proven to be one of the special cases of the hierarchical scaling law, and the derivation suggests a certain scaling range with the first or the last data point as an outlier. The entropy maximization of social systems differs from the notion of entropy increase in thermodynamics. For urban systems, entropy maximizing suggests the greatest equilibrium between equity for parts/individuals and efficiency of the whole. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000297779500036
+</snippet>
+</document>
+
+<document id="22">
+<title>A network framework of cultural history</title>
+<url>http://dx.doi.org/10.1126/science.1240064</url>
+<snippet>The emergent processes driving cultural history are a product of complex interactions among large numbers of individuals, determined by difficult-to-quantify historical conditions. To characterize these processes, we have reconstructed aggregate intellectual mobility over two millennia through the birth and death locations of more than 150,000 notable individuals. The tools of network and complexity theory were then used to identify characteristic statistical patterns and determine the cultural and historical relevance of deviations. The resulting network of locations provides a macroscopic perspective of cultural history, which helps us to retrace cultural narratives of Europe and North America using large-scale visualization and quantitative dynamical tools and to derive historical trends of cultural centers beyond the scope of specific events or narrow time intervals.
+WOS:000339651300044
+</snippet>
+</document>
+
+</searchresult>

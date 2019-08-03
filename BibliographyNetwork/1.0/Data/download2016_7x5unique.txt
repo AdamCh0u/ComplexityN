@@ -1,0 +1,512 @@
+
+PT J
+AU Leitao, JC
+   Miotto, JM
+   Gerlach, M
+   Altmann, EG
+AF Leitao, J. C.
+   Miotto, J. M.
+   Gerlach, M.
+   Altmann, E. G.
+TI Is this scaling nonlinear?
+SO ROYAL SOCIETY OPEN SCIENCE
+LA English
+DT Article
+DE scaling laws; statistical inference; allometry
+ID CITIES; MODEL
+AB One of the most celebrated findings in complex systems in the last decade is that different indexes y (e. g. patents) scale nonlinearly with the population x of the cities in which they appear, i. e. y similar to x(beta), beta not equal 1. More recently, the generality of this finding has been questioned in studies that used new databases and different definitions of city boundaries. In this paper, we investigate the existence of nonlinear scaling, using a probabilistic framework in which fluctuations are accounted for explicitly. In particular, we show that this allows not only to (i) estimate beta and confidence intervals, but also to (ii) quantify the evidence in favour of beta not equal 1 and (iii) test the hypothesis that the observations are compatible with the nonlinear scaling. We employ this framework to compare five different models to 15 different datasets and we find that the answers to points (i)-(iii) crucially depend on the fluctuations contained in the data, on how they are modelled, and on the fact that the city sizes are heavy-tailed distributed.
+C1 [Leitao, J. C.; Miotto, J. M.; Gerlach, M.; Altmann, E. G.] Max Planck Inst Phys Komplexer Syst, Dresden, Germany.
+RP Altmann, EG (reprint author), Max Planck Inst Phys Komplexer Syst, Dresden, Germany.
+EM edugalt@pks.mpg.de
+RI Gerlach, Martin/D-7230-2016; Altmann, Eduardo/A-3320-2009
+OI Gerlach, Martin/0000-0002-0879-7865; Altmann,
+   Eduardo/0000-0002-1932-3710; Miotto, Jose Maria/0000-0002-5850-3394
+FU Portuguese Foundation for Science and Technology (FCT)
+   [SFRH/BD/90050/2012]
+FX J.C.L. acknowledges support from the Portuguese Foundation for Science
+   and Technology (FCT), scholarship SFRH/BD/90050/2012.
+CR Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Arbesman S, 2011, PHYSICA A, V390, P2155, DOI 10.1016/j.physa.2011.02.013
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Batty M., 2013, NEW SCI CITIES
+   Bettencourt LMA, 2015, URBAN SCALING EUROPE
+   Bettencourt LMA, 2013, HYPOTHESIS URBAN SCL
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   BYRD RH, 1995, SIAM J SCI COMPUT, V16, P1190, DOI 10.1137/0916069
+   D'Agostino RB, 1986, GOODNESS OF FIT TECH
+   Eisler Z, 2008, ADV PHYS, V57, P89, DOI 10.1080/00018730801893043
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Greig A, 2015, GEOGR ANAL, V47, P121, DOI 10.1111/gean.12046
+   Hanley QS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149546
+   Hanley QS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0109004
+   Hastie T., 2009, SPRINGER SERIES STAT
+   Jones E, 2001, SCIPY OPEN SOURCE SC
+   KASS RE, 1995, J AM STAT ASSOC, V90, P773, DOI 10.1080/01621459.1995.10476572
+   Kendall M. G., 1970, RANK CORRELATION MET
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Nomaler O, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0110805
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Rybski D, 2013, ENVIRON PLANN A, V45, P1266, DOI 10.1068/a4678
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Savage VM, 2004, FUNCT ECOL, V18, P257, DOI 10.1111/j.0269-8463.2004.00856.x
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   Shalizi CR., 2011, SCALING HIERARCHY UR
+   TAYLOR LR, 1961, NATURE, V189, P732, DOI 10.1038/189732a0
+   Thulin M., 2014, THESIS
+   Um J, 2009, P NATL ACAD SCI USA, V106, P14236, DOI 10.1073/pnas.0901898106
+   Warton DI, 2006, BIOL REV, V81, P259, DOI 10.1017/S1464793106007007
+   Yakubo K, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022803
+   ZAR JH, 1968, BIOSCIENCE, V18, P1118, DOI 10.2307/1294589
+NR 35
+TC 14
+Z9 14
+U1 0
+U2 5
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 2054-5703
+J9 ROY SOC OPEN SCI
+JI R. Soc. Open Sci.
+PD JUL
+PY 2016
+VL 3
+IS 7
+AR 150649
+DI 10.1098/rsos.150649
+PG 13
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DX5HB
+UT WOS:000384409400001
+PM 27493764
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Vainikka, JT
+AF Vainikka, Joni Tuomas
+TI 'A citizen of all the different bits': emotional scaling of identity
+SO GEOJOURNAL
+LA English
+DT Article
+DE Identity; Scale; Emotional geographies; Civic organizations; Finland;
+   South West England
+ID HUMAN-GEOGRAPHY; SOCIAL CONSTRUCTION; POLITICS; SPACE; PLACE; URBAN;
+   SPATIALITIES; GEOPOLITICS; MOVEMENTS; COMMUNITY
+AB Scale is a debatable term in the humanities and social sciences. Conceptualized in human geography as spatial categories of thought, as the arenas where social processes occur, as bounded political-economic frames or as unhelpful binaries privileging either the local or the global, scale intersects a significant body of geographical research. The unfolding and intermeshing of topological connections that help to share moments and experiences are important sources for the differentiation, renewal and recalibration of individual identities, but they often work as co-components to scalar identifications. Engaging with the recent discussion on scale and the upsurge of emotional geographies, I seek to understand how people contextualize space through situated scalar perspectives and how they realign and recognize their identities through embodied emotions. The analysis of the empirical material, that comprises 23 focus groups with locally and universally-orientated civic organizations in Finland and England, focuses on the ways people use landscapes and communities as emotional signposts in their scalar identification. I argue that scale is a situated category, whose spectrum individuals negotiate through the performance of social discourses and cultural practices. In such negotiation, people scale their identity narratives to overcome or emphasize the distinctions between 'us' and 'others'.
+C1 [Vainikka, Joni Tuomas] Univ Oulu, Oulu, Finland.
+RP Vainikka, JT (reprint author), Univ Oulu, Oulu, Finland.
+EM joni.vainikka@oulu.fi
+OI Vainikka, Joni/0000-0003-1906-6424
+CR Adey P, 2008, GEOFORUM, V39, P438, DOI 10.1016/j.geoforum.2007.09.001
+   Ahmed S, 2004, CULTURAL POLITICS EM
+   Allen J, 2011, DIALOGUES HUMAN GEOG, V1, P283, DOI DOI 10.1177/2043820611421546
+   Anderson B, 2006, ENVIRON PLANN D, V24, P733, DOI 10.1068/d393t
+   Anderson J, 2010, QUAL RES, V10, P589, DOI 10.1177/1468794110375796
+   Anderson K, 2001, T I BRIT GEOGR, V26, P7, DOI 10.1111/1475-5661.00002
+   Antonsich M, 2010, GEOGR COMPASS, V4, P644, DOI 10.1111/j.1749-8198.2009.00317.x
+   Antonsich M, 2010, GEOJOURNAL, V75, P119, DOI 10.1007/s10708-009-9290-9
+   Bauman Z., 2001, COMMUNITY SEEKING SA
+   Boland P, 2010, GEOGR ANN B, V92B, P1, DOI 10.1111/j.1468-0467.2010.00330.x
+   Bondi L, 2005, T I BRIT GEOGR, V30, P433, DOI 10.1111/j.1475-5661.2005.00183.x
+   Bondi L., 2005, EMOTIONAL GEOGRAPHIE, P1
+   Bosco F. J., 2007, SAGE HDB QUALITATIVE, P193
+   Bosco FJ, 2006, ANN ASSOC AM GEOGR, V96, P342, DOI 10.1111/j.1467-8306.2006.00481.x
+   Brenner N, 2001, PROG HUM GEOG, V25, P591, DOI 10.1191/030913201682688959
+   Brubaker R, 2000, THEOR SOC, V29, P1, DOI 10.1023/A:1007068714468
+   Bunnell T, 2012, PROG HUM GEOG, V36, P490, DOI 10.1177/0309132511426606
+   Butler J, 1993, BODIES MATTER DISCUR
+   Buttimer A, 2010, FENNIA, V188, P11
+   Candea M., 2010, SOCIAL G TARDE, P102
+   Candea M., 2010, SOCIAL GABRIEL TRADE, P271
+   Chettiparamb A, 2013, ENVIRON PLANN D, V31, P680, DOI 10.1068/d10111
+   Christou A, 2010, GEOFORUM, V41, P638, DOI 10.1016/j.geoforum.2010.03.001
+   CLARK T. N., 1969, G TARDE COMMUNICATIO, P1
+   Corsin-Jimenez Alberto, 2010, SOCIAL GABRIEL TRADE, P111
+   Cosgrove Denis, 2008, GEOGRAPHY VISION SEE
+   Crang M., 1998, CULTURAL GEOGRAPHY
+   Davidson J, 2004, SOC CULT GEOGR, V5, P523, DOI 10.1080/1464936042000317677
+   Deacon B, 2007, GLOBAL NETW, V7, P289, DOI 10.1111/j.1471-0374.2007.00170.x
+   DeLanda M., 2006, NEW PHILOS SOC ASSEM
+   Delaney D, 1997, POLIT GEOGR, V16, P93, DOI 10.1016/S0962-6298(96)00045-5
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Dodgshon RA, 2008, ENVIRON PLANN D, V26, P300, DOI 10.1068/d456t
+   Edmonds M, 2006, J MAT CULT, V11, P167, DOI 10.1177/1359183506063019
+   Elwood SA, 2000, PROF GEOGR, V52, P649, DOI 10.1111/0033-0124.00253
+   Escobar A., 2009, DELEUZIAN INTERSECTI, P187
+   Escobar A, 2007, T I BRIT GEOGR, V32, P106, DOI 10.1111/j.1475-5661.2007.00243.x
+   Giddens Anthony, 1991, MODERNITY SELF IDENT
+   Graybill JK, 2013, GEOJOURNAL, V78, P817, DOI 10.1007/s10708-012-9468-4
+   Harvey D. C., THEORIZING IN PRESS
+   Herod A., 2002, GEOGRAPHIES POWER PL, P1, DOI 10.1002/9780470773406
+   Herod A, 2011, SCALE
+   Hopkins PE, 2007, AREA, V39, P528, DOI 10.1111/j.1475-4762.2007.00766.x
+   Hoskins W. G., 1985, MAKING ENGLISH LANDS
+   Howitt R, 1998, AREA, V30, P49, DOI 10.1111/j.1475-4762.1998.tb00047.x
+   Howitt R., 2003, COMPANION POLITICAL, P138
+   Jackson P, 2004, T I BRIT GEOGR, V29, P165, DOI 10.1111/j.0020-2754.2004.00123.x
+   Jonas A. E. G., 2011, COMPANION HUMAN GEOG, P387
+   JONAS AEG, 1994, ENVIRON PLANN D, V12, P257
+   Kaiser R, 2008, ENVIRON PLANN D, V26, P537, DOI 10.1068/d3307
+   KATZ Cindi, 2003, KEY CONCEPTS GEOGRAP, P249
+   Katz J., 1999, EMOTIONS WORK
+   Kekalainen O., 2006, MAAKUNNAN SYNTY, P271
+   Knight J, 2013, APPL GEOGR, V42, P186, DOI 10.1016/j.apgeog.2013.03.020
+   Koefoed L, 2012, ETHNICITIES, V12, P623, DOI 10.1177/1468796811434487
+   Latham A, 2002, GEOGRAPHIES POWER PL, P115
+   Latour B, 1993, WE HAVE NEVER BEEN M
+   Latour B., 2005, REASSEMBLING SOCIAL
+   Laviolette P, 2003, J MAT CULT, V8, P215, DOI 10.1177/13591835030082005
+   Laviolette Patrick, 2012, ETHNOLOGIA EUROPAEA, V42, P40
+   Leitner H., 2004, SCALE GEOGRAPHIC INQ, P236
+   Leitner H, 2008, T I BRIT GEOGR, V33, P157, DOI 10.1111/j.1475-5661.2008.00293.x
+   Leitner H, 2007, T I BRIT GEOGR, V32, P116, DOI 10.1111/j.1475-5661.2007.00236.x
+   Leitner H, 2012, ANN ASSOC AM GEOGR, V102, P828, DOI 10.1080/00045608.2011.601204
+   Lorimer H, 2008, PROG HUM GEOG, V32, P551, DOI 10.1177/0309132507086882
+   MacKinnon D, 2011, PROG HUM GEOG, V35, P21, DOI 10.1177/0309132510367841
+   MacKinnon K., 2011, COMPANION SOCIAL GEO, P37
+   Marston SA, 2005, T I BRIT GEOGR, V30, P416, DOI 10.1111/j.1475-5661.2005.00180.x
+   Marston SA, 2000, PROG HUM GEOG, V24, P219, DOI 10.1191/030913200674086272
+   Meinander H., 2006, FINLANDS HIST
+   Mills A, 2006, CULT GEOGR, V13, P367, DOI 10.1191/1474474006eu364oa
+   Moore A, 2008, PROG HUM GEOG, V32, P203, DOI 10.1177/0309132507087647
+   Nicholls W, 2013, SPACES OF CONTENTION: SPATIALITIES AND SOCIAL MOVEMENTS, P1
+   PAASI A, 1991, ENVIRON PLANN A, V23, P239, DOI 10.1068/a230239
+   Paasi A, 2004, PROG HUM GEOG, V28, P536, DOI 10.1191/0309132504ph502pr
+   Pain R, 2009, PROG HUM GEOG, V33, P466, DOI 10.1177/0309132508104994
+   Pile S, 2010, T I BRIT GEOGR, V35, P5, DOI 10.1111/j.1475-5661.2009.00368.x
+   Pratt Geraldine, 1999, HUMAN GEOGRAPHY TODA, P151
+   Prytherch DL, 2010, ENVIRON PLANN A, V42, P1537, DOI 10.1068/a42430
+   Rannila P, 2011, NORSK GEOGR TIDSSKR, V65, P93, DOI 10.1080/00291951.2011.574318
+   Rapport N., 2012, ANYONE COSMOPOLITAN
+   Relph E., 1976, PLACE PLACELESSNESS
+   Risse T., 2010, COMMUNITY EUROPEANS
+   Schatzki T, 2002, SITE SOCIAL PHILOS A
+   Sidaway JD, 2009, ENVIRON PLANN D, V27, P1091, DOI 10.1068/d5508
+   Smith M, 2009, EMOTION, PLACE AND CULTURE, P1
+   SORLIN S., 1999, NORSK GEOGRAFISK TID, V53, P103, DOI DOI 10.1080/00291959950136821
+   Soysal Y. N., 1994, LIMITS CITIZENSHIP M
+   Staeheli LA, 2008, POLIT GEOGR, V27, P5, DOI 10.1016/j.polgeo.2007.09.002
+   Strathern Marilyn, 2004, PARTIAL CONNECTIONS
+   Swyngedouw E, 2009, URBAN RES PRACT, V2, P68, DOI 10.1080/17535060902727074
+   Terlouw K, 2012, GEOJOURNAL, V77, P707, DOI 10.1007/s10708-011-9422-x
+   Thrift N., 2004, GEOGR ANN B, V86, P57, DOI DOI 10.1111/J.0435-3684.2004.00154.X
+   Tolia-Kelly DP, 2008, MOBILITIES-UK, V3, P117, DOI 10.1080/17450100701797372
+   Vainikka J., 2008, NORDIA GEOGRAPHICAL, V37, P45
+   Vainikka J, 2013, FENNIA, V191, P25, DOI 10.11143/7348
+   Vainikka J, 2012, SOC CULT GEOGR, V13, P587, DOI 10.1080/14649365.2012.710912
+   Warren C., 2010, DISCOVERING QUALITAT
+   Western J, 2008, GEOGR REV, V98, P532
+   Wills J, 2012, POLIT GEOGR, V31, P114, DOI 10.1016/j.polgeo.2011.11.003
+   Wood N, 2011, EMOT SPACE SOC, V4, P201, DOI DOI 10.1016/J.EMOSPA.2011.06.005
+   Wylie J, 2007, KEY IDEAS GEOGR, P1
+   Yuval-Davis N, 2006, PATTERNS PREJUDICE, V40, P197, DOI 10.1080/00313220600769331
+   Yuval-Davis N, 2010, PATTERNS PREJUDICE, V44, P261, DOI 10.1080/0031322X.2010.489736
+NR 104
+TC 0
+Z9 0
+U1 3
+U2 7
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0343-2521
+EI 1572-9893
+J9 GEOJOURNAL
+JI GeoJournal
+PD FEB
+PY 2016
+VL 81
+IS 1
+BP 5
+EP 22
+DI 10.1007/s10708-014-9596-0
+PG 18
+WC Geography
+SC Geography
+GA DV2XO
+UT WOS:000382785800002
+DA 2019-03-26
+ER
+
+PT J
+AU Neville, KJ
+   Weinthal, E
+AF Neville, Kate J.
+   Weinthal, Erika
+TI Scaling up site disputes: strategies to redefine 'local' in the fight
+   against fracking
+SO ENVIRONMENTAL POLITICS
+LA English
+DT Article
+DE Fracking; protest; civil society; LNG; site disputes; local-global;
+   environmental movements
+ID NIMBY SYNDROME; UNITED-STATES; CAMPAIGNS; MOVEMENTS; NIABY
+AB Plans to replace an aging diesel backup energy plant with liquid natural gas (LNG) generators in Whitehorse, Yukon, resulted in a public outcry, involving community meetings, massive petitions, and demonstrations. Are these civil society protests just a case of a local siting dispute - a response to an unwanted industrial site in an urban neighborhood? Here, it is argued that siting debates are not the driver of these campaigns, but instead are harnessed by activists to advance a broader environmental movement. By linking the LNG project to more distant extraction, involving hydraulic fracturing ('fracking'), movement leaders portray the entire territory as part of the 'local' for Whitehorse residents. Movement leaders rely upon two key mechanisms: claiming insider status, and identifying visible symbols. This case reveals the strategic use by environmental movements of local concerns to recruit support for broader campaigns, and the value of local, place-based activism for broader environmental movements.
+C1 [Neville, Kate J.] Univ Toronto, Dept Polit Sci, Toronto, ON M5S 1A1, Canada.
+   [Neville, Kate J.] Univ Toronto, Sch Environm, Toronto, ON M5S 1A1, Canada.
+   [Weinthal, Erika] Duke Univ, Nicholas Sch Environm, Durham, NC 27706 USA.
+RP Neville, KJ (reprint author), Univ Toronto, Dept Polit Sci, Toronto, ON M5S 1A1, Canada.; Neville, KJ (reprint author), Univ Toronto, Sch Environm, Toronto, ON M5S 1A1, Canada.
+EM kate.neville@utoronto.ca
+FU Social Sciences and Humanities Research Council of Canada (SSHRC)
+   [756-2013-0076]
+FX This work was supported by funding from the Social Sciences and
+   Humanities Research Council of Canada (SSHRC) [756-2013-0076].
+CR Aldrich DP, 2008, SITE FIGHTS DIVISIVE
+   Avaaz, 2015, SAV YUK NO FRACK PET
+   Boudet HS, 2011, ENVIRON POLIT, V20, P786, DOI 10.1080/09644016.2011.617166
+   Burningham K., 2000, LOCAL ENVIRON, V5, P55, DOI DOI 10.1080/135498300113264
+   CBC, 2014, CBC             0612
+   Change. org, 2012, PET BAN HYDR FRACT Y
+   Cowell R, 2006, ENVIRON PLANN C, V24, P403, DOI 10.1068/c0416j
+   CPAWS Yukon, 2016, AB
+   Cruickshank A., 2012, WHITEHORSE DAIL 0413
+   de la Barre S, 2013, J SUSTAIN TOUR, V21, P825, DOI 10.1080/09669582.2012.737798
+   Devine-Wright P, 2013, ENVIRON BEHAV, V45, P761, DOI 10.1177/0013916512440435
+   Ford Lucy H., 2003, GLOBAL ENVIRON POLIT, V3, P120, DOI DOI 10.1162/152638003322068254
+   Gibson T. A., 2005, CITY COMMUNITY, V4, P381, DOI DOI 10.1111/J.1540-6040.2005.00144.X
+   Groves C, 2015, ENVIRON POLIT, V24, P853, DOI 10.1080/09644016.2015.1067348
+   Heise Ursula K., 2008, SENSE PLACE SENSE PL
+   ICF Marbek, 2013, YUK POW PLANT FUEL L
+   Ipetition, 2015, BAN FRACK YUK
+   LAKE RW, 1993, J AM PLANN ASSOC, V59, P87, DOI 10.1080/01944369308975847
+   Lennertz B., 2005, 6 C INF TECHN LANDSC
+   LOBER DJ, 1994, J ENVIRON MANAGE, V40, P33, DOI 10.1006/jema.1994.1003
+   Lund C, 2013, AFRICA, V83, P1, DOI 10.1017/S000197201200068X
+   McAdam D, 2012, CAMB STUD CONTENT, P1, DOI 10.1017/CBO9781139105811
+   McAdam D., 2001, DYNAMICS CONTENTION
+   McAvoy GE, 1998, POLICY STUD J, V26, P274, DOI 10.1111/j.1541-0072.1998.tb01899.x
+   Neville KJ, 2015, GLOBAL ENVIRON POLIT, V15, P21, DOI 10.1162/GLEP_a_00270
+   Northern Cross, 2014, COMMUNICATION   0131
+   Owens S, 2011, RTPI LIB SER, P1
+   Pelekasi T, 2012, J ENVIRON PLANN MAN, V55, P1192, DOI 10.1080/09640568.2011.638047
+   Rootes Chris, 1999, ENVIRON POLIT, V8, P290, DOI DOI 10.1080/09644019908414448
+   Rootes C, 2013, ENVIRON POLIT, V22, P95, DOI 10.1080/09644016.2013.755791
+   Rootes C, 2009, ENVIRON POLIT, V18, P835, DOI 10.1080/09644010903345611
+   Schlosberg D, 2004, ENVIRON POLIT, V13, P517, DOI 10.1080/0964401042000229025
+   Smalley R, 2012, J PEASANT STUD, V39, P1039, DOI 10.1080/03066150.2012.686491
+   Snow D. A, 1992, FRONTIERS SOCIAL MOV, P133
+   SPAIN D, 1993, J AM PLANN ASSOC, V59, P156, DOI 10.1080/01944369308975865
+   Tobin C., 2014, WHITEHORSE DAIL 0515
+   Tobin C., 2015, WHITEHORSE DAIL 0715
+   Winter J., 2013, YUKON NEWS      0710
+   Wolsink M, 2006, T I BRIT GEOGR, V31, P85, DOI 10.1111/j.1475-5661.2006.00191.x
+   YCS, 2012, YUK CONS SOC REPL AR
+   YCS, 2015, WHO WE AR
+   YEC, 2011, 20 YEAR RES PLAN 201
+   YEC, 2013, YUK EN CORP APPL EN
+   YEC, 2011, CHARR REP
+   YEC, 2015, BACK UP EL DIES FAC
+   YEC, 2012, LIQ NAT GAS WORKSH
+   YESAB, 2014, VOIC YESAB NEWSL
+   YESAB, 2016, ANN REP
+   YESAB, 2013, ANN REPORT
+   YESAB, 2016, VOIC YESABS SEAS NEW
+   YTG, 2010, EN YUK NAT GAS OPT B
+   YTG, 2009, YUK EN STRAT
+   YUB, 2013, TERMS REF MATT PUBL
+   YUB, 2014, YUK EN CORP WHIT DIE
+   YUB, 2014, YEC LNG PROJ P
+   Yukoners Concerned, 2015, PET
+NR 56
+TC 15
+Z9 15
+U1 3
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0964-4016
+EI 1743-8934
+J9 ENVIRON POLIT
+JI Environ. Polit.
+PY 2016
+VL 25
+IS 4
+BP 569
+EP 592
+DI 10.1080/09644016.2016.1154124
+PG 24
+WC Environmental Studies; Political Science
+SC Environmental Sciences & Ecology; Government & Law
+GA DW3CP
+UT WOS:000383520000001
+DA 2019-03-26
+ER
+
+PT B
+AU Renwick, JD
+   Klein, LJ
+   Hamann, HF
+AF Renwick, Jason D.
+   Klein, Levente J.
+   Hamann, Hendrik F.
+GP IEEE
+TI Drone-based reconstruction for 3D geospatial data processing
+SO 2016 IEEE 3RD WORLD FORUM ON INTERNET OF THINGS (WF-IOT)
+LA English
+DT Proceedings Paper
+CT IEEE 3rd World Forum on Internet of Things (WF-IoT)
+CY DEC 12-14, 2016
+CL Reston, VA
+SP IEEE, DarkMatter, LoRa Alliance, Comcast MachineQ, ARM
+DE Drones; Unmanned Air Vehicle; Internet of Things; Smart Cities; Open
+   Source; IoT; UAV; Air Quality Monitoring
+AB Urban air quality affects health and well-being of more than half of the world's population. Measurement, modeling and real time action on pollution sources can alleviate their impact. A preliminary study for drone-based image acquisition and processing steps required for 3D reconstruction of potential pollution sources is presented. The 3D surface terrain models combined with sensor data are inputs into air pollution models for visualization, understanding and potential mitigation of methane plumes. Scaling these technologies across large areas requires the integration of big geospatial data with modeling, machine learning, and image processing.
+C1 [Renwick, Jason D.; Klein, Levente J.; Hamann, Hendrik F.] IBM TJ Watson Res Ctr, Yorktown Hts, NY 10598 USA.
+RP Renwick, JD (reprint author), IBM TJ Watson Res Ctr, Yorktown Hts, NY 10598 USA.
+EM jdrenwic@us.ibm.com; kleinl@us.ibm.com; hendrikh@us.ibm.com
+FU agency of the United States government
+FX Part of This report was prepared as an account of work sponsored by an
+   agency of the United States government. Neither the United States
+   government nor any agency thereof, nor any of their employees, makes any
+   warranty, expressed or implied, or assumes any legal liability or
+   responsibility for the accuracy, completeness, or usefulness of any
+   information, apparatus, product, or process disclosed, or represented
+   that its use would not infringe privately owned rights. Reference herein
+   to any specific commercial product, process, or service by trade name,
+   trademark, manufacturer, or otherwise does not necessarily constitute or
+   imply its endorsement, recommendation, or favoring by the United States
+   government or any agency thereof. The views and opinions of authors
+   expressed herein do not necessarily state or reflect those of the United
+   States government or any agency thereof.
+CR Brown M, 2007, INT J COMPUT VISION, V74, P59, DOI 10.1007/s11263-006-0002-3
+   Burkle A, 2011, J INTELL ROBOT SYST, V61, P339, DOI 10.1007/s10846-010-9492-x
+   Cimorelli A. J., 2004, EPA454R03004
+   Klein LJ, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, P1290, DOI 10.1109/BigData.2015.7363884
+   Lyon DR, 2015, ENVIRON SCI TECHNOL, V49, P8147, DOI 10.1021/es506359c
+   Pacsi AP, 2013, ENVIRON SCI TECHNOL, V47, P3521, DOI 10.1021/es3044714
+   Prevot T., 2016, 16 AIAA AV TECHN INT
+   Vasarhelyi G, 2014, IEEE INT C INT ROBOT, P3866, DOI 10.1109/IROS.2014.6943105
+   Zhang JJ, 2012, 2012 INTERNATIONAL CONFERENCE ON INDUSTRIAL CONTROL AND ELECTRONICS ENGINEERING (ICICEE), P266, DOI 10.1109/ICICEE.2012.77
+   Zhou W, 2015, 2015 33RD IEEE INTERNATIONAL CONFERENCE ON COMPUTER DESIGN (ICCD), P732, DOI 10.1109/ICCD.2015.7357188
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 8
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-4130-5
+PY 2016
+BP 729
+EP 734
+PG 6
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications
+SC Computer Science
+GA BH3IX
+UT WOS:000399698600125
+DA 2019-03-26
+ER
+
+PT J
+AU Kedzior, R
+   Skalski, T
+   Radecki-Pawlik, A
+AF Kedzior, Renata
+   Skalski, Tomasz
+   Radecki-Pawlik, Artur
+TI The effect of channel restoration on ground beetle communities in the
+   floodplain of a channelized mountain stream
+SO PERIODICUM BIOLOGORUM
+LA English
+DT Article
+DE Ground beetles; river incision and rede-position; eco-friendly
+   constructions; river restoration; community structure; life traits
+ID EXPOSED RIVERINE SEDIMENTS; GRAVEL-BED RIVERS; DISTURBANCE REGIMES;
+   POLISH CARPATHIANS; CONSERVATION VALUE; LANDSCAPE MOSAICS; CARABID
+   BEETLE; RIPARIAN ZONES; BRAIDED-RIVER; RESPONSES
+AB Background and purpose: River regulation works, channelization and floodplain urbanization have reduced the frequency of flooding, incised river channels, and separated them from the surrounding riparian zones. This phenomenon is especially unfavourable for exposed riverine sediment areas (ERS) situated in the transition zone between terrestrial and aquatic environments, and plays a fundamental role in the functioning of riverine ecosystems. We investigated the effects of restoration practise based on eco-friendly structures on riparian ground beetle communities.
+   Materials and methods: Carabids were surveyed in 60 sampling sites of incised and redeposited cross-sections of a mountain stream. At each cross-section geodetic measurements were surveyed and six sampling sites were randomly established at different distances from the water surface.
+   Results and conclusions: Non-metric multidimensional scaling revealed that the dissimilarity in carabid communities between the three benches resulted mainly from differences in hydrological (bankfull discharge, period of flooding, water velocity) and geomorphological parameters (incision and erosion) in the incised and redeposited cross-sections. A GLM indicated that incision-redeposition processes had a significant effect on carabid assemblage parameters and life history traits. The effect of redeposition processes on abundance, species richness, biomass and MIB depended strongly on bench height and flood frequency. The cross-sections where eco-friendly constructions were built and bed material deposition processes were recreated showed increased abundance of ERS specialists: small predators with high dispersal power and a spring breeding strategy. However, the proportion of specialist species in the community was small, which indicates a slow rate of restoration of ERS specialist diversity.
+C1 [Kedzior, Renata] Univ Agr, Dept Ecol Climatol & Air Protect, Al A Mickiewicza 24-28, PL-30059 Krakow, Poland.
+   [Skalski, Tomasz] Jagiellonian Univ, Inst Zool, Dept Entomol, Ul Gronostajowa 9, PL-30387 Krakow, Poland.
+   [Radecki-Pawlik, Artur] Univ Agr, Dept Hydraul Engn & Geotech, Al A Mickiewicza 24-28, PL-30059 Krakow, Poland.
+RP Kedzior, R (reprint author), Univ Agr, Dept Ecol Climatol & Air Protect, Al A Mickiewicza 24-28, PL-30059 Krakow, Poland.
+EM r.kedzior@ur.krakow.pl; tomasz.skalski@uj.edu.pl; rmradeck@cyf-kr.edu.pl
+OI /0000-0002-6486-1016
+FU Agriculture University of Cracow [BM 4370/KEKiOP/2015]
+FX This research was supported by Research Project BM 4370/KEKiOP/2015
+   financed by the Agriculture University of Cracow.
+CR Amoros C, 2002, FRESHWATER BIOL, V47, P761, DOI 10.1046/j.1365-2427.2002.00905.x
+   Andersen J, 2000, J BIOGEOGR, V27, P795, DOI 10.1046/j.1365-2699.2000.00452.x
+   Anderson MJ, 2001, AUSTRAL ECOL, V26, P32, DOI 10.1046/j.1442-9993.2001.01070.x
+   Ballinger A, 2007, OECOLOGIA, V152, P227, DOI 10.1007/s00442-006-0648-0
+   Bates AJ, 2007, BIODIVERS CONSERV, V16, P1491, DOI 10.1007/s10531-006-9028-7
+   Bates AJ, 2006, OECOLOGIA, V150, P50, DOI 10.1007/s00442-006-0508-y
+   Bates Adam J., 2009, Terrestrial Arthropod Reviews, V2, P77, DOI 10.1163/187498309X455052
+   Baxter CV, 2005, FRESHWATER BIOL, V50, P201, DOI 10.1111/j.1365-2427.2004.01328.x
+   Bonn A, 2002, RIVER RES APPL, V18, P43, DOI 10.1002/rra.632
+   BORNETTE G, 1994, REGUL RIVER, V9, P79, DOI 10.1002/rrr.3450090202
+   Bornette G, 1996, J VEG SCI, V7, P615, DOI 10.2307/3236373
+   Boscaini A, 2000, HYDROBIOLOGIA, V422, P173, DOI 10.1023/A:1017011209061
+   Datry T, 2014, FRESHWATER BIOL, V59, P1308, DOI 10.1111/fwb.12350
+   Dziock F, 2011, AGR ECOSYST ENVIRON, V145, P85, DOI 10.1016/j.agee.2011.07.015
+   Eyre MD, 2002, J INSECT CONSERV, V6, P25, DOI 10.1023/A:1015776720125
+   Gerisch M, 2011, ZOOKEYS, P353, DOI 10.3897/zookeys.100.1427
+   Gilvear DJ, 2000, AQUAT CONSERV, V10, P53, DOI 10.1002/(SICI)1099-0755(200001/02)10:1<53::AID-AQC348>3.0.CO;2-4
+   Hurka K., 1996, Carabidae of the Czech and Slovak Republics.
+   Jahnig SC, 2009, J APPL ECOL, V46, P406, DOI 10.1111/j.1365-2664.2009.01611.x
+   Januschke K, 2011, BIODIVERS CONSERV, V20, P3147, DOI 10.1007/s10531-011-0119-8
+   Kennedy TL, 2011, ECOSPHERE, V2, DOI 10.1890/ES11-00047.1
+   Korpak J, 2007, GEOMORPHOLOGY, V92, P166, DOI 10.1016/j.geomorph.2006.07.037
+   Lambeets K, 2009, BIOL CONSERV, V142, P625, DOI 10.1016/j.biocon.2008.11.015
+   Lambeets K, 2008, J ANIM ECOL, V77, P1162, DOI 10.1111/j.1365-2656.2008.01443.x
+   Paetzold A, 2005, ECOSYSTEMS, V8, P748, DOI 10.1007/s10021-005-0004-y
+   Paetzold A, 2008, J APPL ECOL, V45, P894, DOI 10.1111/j.1365-2664.2008.01463.x
+   PAWLOWSKI J, 1973, KLUCZE OZNACZANIA 19, P94
+   Radecki-Pawlik A, 1995, HYDROLOGICAL PROCESS, P131
+   Radecki-Pawlik A., 2008, J WATER LAND DEV, V12, P145, DOI DOI 10.2478/V10025-009-0011-Z
+   Rinaldi M, 2015, GEOMORPHOLOGY, V251, P122, DOI 10.1016/j.geomorph.2015.05.010
+   Sadler J. P., 2007, HYDROECOLOGY ECOHYDR, P37, DOI 10.1002/9780470010198.ch3
+   Sadler JP, 2004, BIOL CONSERV, V118, P41, DOI 10.1016/j.biocon.2003.07.007
+   Skalski T, 2016, RIVER RES APPL, V32, P1968, DOI 10.1002/rra.3027
+   Skalski T, 2015, SYLWAN, V159, P905
+   Skalski Tomasz, 2012, Baltic Journal of Coleopterology, V12, P117
+   Skalski Tomasz, 2010, Baltic Journal of Coleopterology, V10, P1
+   Sklodowski J, 2011, ZOOKEYS, P371, DOI 10.3897/zookeys.100.1360
+   Smilauer P., 2002, WINKYST 1 0 CESKE BU
+   STATSOFT Inc., 2010, STAT DAT AN SOFTW SY
+   Steiger J, 2005, RIVER RES APPL, V21, P719, DOI 10.1002/rra.879
+   Steiger J, 2003, GEOMORPHOLOGY, V49, P1, DOI 10.1016/S0169-555X(02)00144-7
+   Thiele H.-U., 1977, CARABID BEETLES THEI, P369
+   Tockner K, 2010, RIVER RES APPL, V26, P76, DOI 10.1002/rra.1328
+   Ward JV, 1998, BIOL CONSERV, V83, P269, DOI 10.1016/S0006-3207(97)00083-9
+   WILLIAMS GP, 1978, WATER RESOUR RES, V14, P1141, DOI 10.1029/WR014i006p01141
+   Woloszyn J., 1994, RIVER TRAINING WORKS, P540
+   Wyzga B, 2001, ENVIRON MANAGE, V28, P341, DOI 10.1007/s0026702454
+   Wyzga B, 2012, HYDROBIOLOGIA, V696, P29, DOI 10.1007/s10750-012-1180-3
+   Wyzga B, 2008, DEV EARTH S, V11, P525, DOI 10.1016/S0928-2025(07)11142-1
+NR 49
+TC 3
+Z9 3
+U1 6
+U2 22
+PU PERIODICUM BIOLOGORUM
+PI ZAGREB
+PA HRVATSKO PRIRODOSLOVNO DRUSTVO ILICA 16/111, 41000 ZAGREB, CROATIA
+SN 0031-5362
+J9 PERIOD BIOL
+JI Period. Biol.
+PD SEP
+PY 2016
+VL 118
+IS 3
+BP 171
+EP 184
+DI 10.18054/pb.2016.118.3.3943
+PG 14
+WC Biology
+SC Life Sciences & Biomedicine - Other Topics
+GA EF8IH
+UT WOS:000390572000004
+OA Bronze
+DA 2019-03-26
+ER

@@ -1,0 +1,756 @@
+
+PT J
+AU D'Autilia, R
+   D'Ambrosi, I
+AF D'Autilia, Roberto
+   D'Ambrosi, Ilaria
+TI Is there enough fertile soil to feed a planet of growing cities?
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Carrying capacity; Land use; Sustainability; Urban expansion; Chini
+   differential equation; Power law
+ID NEW-YORK-STATE; POPULATION; CAPACITY; GROWTH; MODEL
+AB We analyze a scaling law for the consumption of agricultural soil by cities. The nonlinear dependence of the size of the city on the number of inhabitants gives rise to an equation for population dynamics. We found the asymptotic limit of the solution for this equation, given by the carrying capacity in terms of number of inhabitants that can be fed. The carrying capacity as a function of the scaling law exponent is computed numerically, showing that the exponent must be very small to ensure a food sustainability. We suggest a bound for the value of this exponent and analyze the reliability of the scaling law for major cities. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [D'Autilia, Roberto] Univ Roma 3, Dept Architecture, Formulas Math Lab, Rome, Italy.
+   [D'Ambrosi, Ilaria] Univ Roma 3, Dept Architecture, Rome, Italy.
+RP D'Autilia, R (reprint author), Univ Roma 3, Dept Architecture, Formulas Math Lab, Rome, Italy.
+EM roberto.dautilia@uniroma3.it; ila.dambrosi@gmail.com
+CR Angel S, 2012, ATLAS URBAN EXPANSIO
+   Angel Shlomo, 2011, PROG PLANN
+   Batty M, 2013, SCIENCE, V340, P1418, DOI 10.1126/science.1239870
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Billen G, 2012, REG ENVIRON CHANGE, V12, P325, DOI 10.1007/s10113-011-0244-7
+   Cheb-Terrab E.S., 2000, 1 ORDER ODES SYMMETR
+   Chini M., 1924, REND I LOMB, V2, P506
+   Hamilton MJ, 2009, P NATL ACAD SCI USA, V106, P12255, DOI 10.1073/pnas.0905708106
+   Headey Derek, 2010, TECHNICAL REPORT
+   Kamke E., 1956, MATH IHRE ANWENDUNGE, V2
+   Murray J. D., 2002, INTERDISCIPLINARY AP
+   Peters CJ, 2007, RENEW AGR FOOD SYST, V22, P145, DOI 10.1017/S1742170507001767
+   Peters CJ, 2009, RENEW AGR FOOD SYST, V24, P72, DOI 10.1017/S1742170508002457
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   WHITEHEAD DC, 1963, J SCI FOOD AGR, V14, P849, DOI 10.1002/jsfa.2740141201
+NR 17
+TC 4
+Z9 4
+U1 2
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD FEB 1
+PY 2015
+VL 419
+BP 668
+EP 674
+DI 10.1016/j.physa.2014.10.048
+PG 7
+WC Physics, Multidisciplinary
+SC Physics
+GA AX6EZ
+UT WOS:000347017300071
+DA 2019-03-26
+ER
+
+PT J
+AU Mastroianni, P
+   Monechi, B
+   Liberto, C
+   Valenti, G
+   Servedio, VDP
+   Loreto, V
+AF Mastroianni, Pierpaolo
+   Monechi, Bernardo
+   Liberto, Carlo
+   Valenti, Gaetano
+   Servedio, Vito D. P.
+   Loreto, Vittorio
+TI Local Optimization Strategies in Urban Vehicular Mobility
+SO PLOS ONE
+LA English
+DT Article
+ID SPATIAL STRUCTURE; ROAD NETWORKS; SCALING LAWS; HUMAN TRAVEL; PATTERNS;
+   SYSTEMS
+AB The comprehension of vehicular traffic in urban environments is crucial to achieve a good management of the complex processes arising from people collective motion. Even allowing for the great complexity of human beings, human behavior turns out to be subject to strong constraints-physical, environmental, social, economic-that induce the emergence of common patterns. The observation and understanding of those patterns is key to setup effective strategies to optimize the quality of life in cities while not frustrating the natural need for mobility. In this paper we focus on vehicular mobility with the aim to reveal the underlying patterns and uncover the human strategies determining them. To this end we analyze a large dataset of GPS vehicles tracks collected in the Rome (Italy) district during a month. We demonstrate the existence of a local optimization of travel times that vehicle drivers perform while choosing their journey. This finding is mirrored by two additional important facts, i.e., the observation that the average vehicle velocity increases by increasing the travel length and the emergence of a universal scaling law for the distribution of travel times at fixed traveled length. A simple modeling scheme confirms this scenario opening the way to further predictions.
+C1 [Mastroianni, Pierpaolo; Liberto, Carlo; Valenti, Gaetano] ENEA, Casaccia Res Ctr, I-00123 Rome, Italy.
+   [Mastroianni, Pierpaolo; Monechi, Bernardo; Servedio, Vito D. P.; Loreto, Vittorio] Univ Roma La Sapienza, Dept Phys, I-00185 Rome, Italy.
+   [Servedio, Vito D. P.] Inst Complex Syst ISC CNR, I-00185 Rome, Italy.
+   [Loreto, Vittorio] Inst Sci Interchange Fdn, I-10126 Turin, Italy.
+   [Loreto, Vittorio] SONY CSL, F-75005 Paris, France.
+RP Monechi, B (reprint author), Univ Roma La Sapienza, Dept Phys, Ple Aldo Moro 2, I-00185 Rome, Italy.
+EM mone.berna@gmail.com
+FU EU [611272, 265432]; CNR PNR Project CRISIS Lab; KREYON project -
+   Templeton Foundation [51663]; CNR PNR Project "CRISIS Lab"; Templeton
+   Foundation [51663]
+FX This work was supported by EU-STREP project EveryAware (Grant Agreement
+   265432), EU FP7 Grant 611272 (project GROWTHCOM), CNR PNR Project CRISIS
+   Lab, KREYON project funded by the Templeton Foundation under contract n.
+   51663. SONY-CSL provided support in the form of research materials for
+   author VL, but did not have any additional role in the study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript. The specific roles of this author are articulated in the
+   author contributions section.; The authors acknowledge support from the
+   EU-STREP project EveryAware (Grant Agreement 265432), the EU FP7 Grant
+   611272 (project GROWTHCOM), the CNR PNR Project "CRISIS Lab" for
+   financial support and the KREYON project funded by the Templeton
+   Foundation under contract n. 51663. We acknowledge interesting
+   discussions with P. Butta. We are grateful to A. Sirbu for providing us
+   the OpenStreetMap and Google Directions data of the city of Rome and
+   London. We thank M. Mancini for his valuable work on OctoTelematics data
+   preprocessing. SONY-CSL provided support in the form of research
+   material for author VL, but did not have any additional role in the
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript. The specific roles of these authors are
+   articulated in the Author contribution statement.
+CR Asgari F., 2013, ARXIV13070814
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Batty M., 2013, NEW SCI CITIES
+   Bazzani A, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/05/P05001
+   Belmonte A, 2014, SCI REPORTS, V4
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Brown B, 2011, MCKINSEY Q
+   Chowdhury D, 2000, PHYS REP, V329, P199, DOI 10.1016/S0370-1573(99)00117-9
+   Colizza V, 2007, PLOS MED, V4, P95, DOI 10.1371/journal.pmed.0040013
+   Eubank H, 2004, NATURE, V429
+   Gallotti R, 2013, STAT PHYS MODELLING
+   Gardiner C. W., 2004, HDB STOCHASTIC METHO, V13
+   Garske T, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0016364
+   Gastner MT, 2006, EUR PHYS J B, V49, P247, DOI 10.1140/epjb/e2006-00046-8
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Gonzalez-Bailon S, 2013, SOCIAL SCI RES NETWO
+   Helbing D, 2001, REV MOD PHYS, V73, P1067, DOI 10.1103/RevModPhys.73.1067
+   Jenelius E, 2013, TRANSPORT RES B-METH, V53, P64, DOI 10.1016/j.trb.2013.03.008
+   Kolbl R, 2003, NEW J PHYS, V5, DOI 10.1088/1367-2630/5/1/348
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Limpert E, 2001, BIOSCIENCE, V51, P341, DOI 10.1641/0006-3568(2001)051[0341:LNDATS]2.0.CO;2
+   Mayer-Schonberger Viktor, 2013, BIG DATA REVOLUTION
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Rahmani M, 2010, 2010 13th International IEEE Conference on Intelligent Transportation Systems (ITSC 2010), P730, DOI 10.1109/ITSC.2010.5625177
+   Rambaldi S, 2007, P EUR C COMPL SYST D
+   Riccardo G, 2012, INT J MOD PHYS C, V23, DOI 10.1142/S0129183112500611
+   Rubinstein IS, 2013, 1256 NYU SCH LAW
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Sirbu A, 2014, CCS14 P HUM COMP
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Tene O, 2012, NW J TECHNOLOGY INTE
+   United Nations Secretariat, 2014, WORLD URB PROSP 2014
+   Wang XF, 2014, PLOS ONE, V9, DOI [10.1371/journal.pone.0106919, 10.1371/journal.pone.0084954]
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 35
+TC 1
+Z9 1
+U1 0
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 14
+PY 2015
+VL 10
+IS 12
+AR e0143799
+DI 10.1371/journal.pone.0143799
+PG 13
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CY9GR
+UT WOS:000366715900019
+PM 26656106
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Lakshmanan, S
+   Holmes, WM
+   Sloan, WT
+   Phoenix, VR
+AF Lakshmanan, S.
+   Holmes, W. M.
+   Sloan, W. T.
+   Phoenix, V. R.
+TI Characterization of nanoparticle transport through quartz and dolomite
+   gravels by magnetic resonance imaging
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Porous media; Nanoparticles; Magnetic resonance imaging; Transport;
+   DLVO; Environment
+ID SATURATED POROUS-MEDIA; MANUFACTURED NANOPARTICLES; COLLOID TRANSPORT;
+   SURFACE-CHARGE; DEPOSITION; ADSORPTION; CHEMISTRY; BIOFILM; SAND
+AB Magnetic resonance imaging (MRI) has tremendous potential for revealing transport processes in engineered and geologic systems. Here, we utilize MRI to image nanoparticle (NP) transport through a saturated coarse-grained system. Commercially available paramagnetically tagged NPs are used; the paramagnetic tag making the NP visible to MRI. NP transport was imaged as NPs migrated through packed columns of quartz and dolomite gravel. Changes in T2-weighted image intensity were calibrated to provide fully quantitative maps of NP concentration at regular time intervals (T (2) being the spin-spin relaxation time of H-1 nuclei). Transport of nanoparticles was significantly retarded in dolomite compared to quartz due to electrostatic attraction between nanoparticle and dolomite surfaces. NP concentration profiles were evaluated with the CXTFIT computer package to estimate nanoparticle transport parameters at multiple points along the length of the column. This provided temporally resolved parameters that standard breakthrough curve analysis cannot provide. Particle-surface interaction energy profiles were described through Derjaguin-Landau-Verwey-Overbeek (DLVO) theory. While dispersion coefficients and fast deposition rate constant (k (fast)) were found to increase with distance, deposition rate constant (k) and collision efficiency (alpha) were found to decrease with distance. These length-dependant variations have significant scaling-up implications for transport models used to predict NP transport in natural and engineered coarse-grained systems, such as sustainable urban drainage systems and river beds.
+C1 [Lakshmanan, S.; Phoenix, V. R.] Univ Glasgow, Sch Geog & Earth Sci, Glasgow, Lanark, Scotland.
+   [Holmes, W. M.] Univ Glasgow, Wellcome Surg Inst, GEMRIC, Inst Neurosci & Psychol, Glasgow, Lanark, Scotland.
+   [Sloan, W. T.] Univ Glasgow, Sch Engn, Glasgow, Lanark, Scotland.
+RP Lakshmanan, S (reprint author), Univ Cambridge, Dept Chem Engn & Biotechnol, Cambridge, England.
+EM susithra02@gmail.com
+RI Phoenix, Vernon/J-8871-2014
+OI Phoenix, Vernon/0000-0002-8682-5200
+FU Engineering and Physical Sciences Research Council [EP/G028443/1];
+   Natural Environmental Research Council [NE/G010269/1]; Engineering and
+   Physical Sciences Research Council [EP/F007868/1]; Natural Environment
+   Research Council [NE/G010269/1]
+FX This work was supported by grants from the Engineering and Physical
+   Sciences Research Council (EP/G028443/1) and Natural Environmental
+   Research Council (NE/G010269/1). We also thank Jim Mullen for his
+   assistance with MRI experiments.
+CR Baumann T, 2005, COLLOID SURFACE A, V265, P2, DOI 10.1016/j.colsurfa.2004.11.052
+   BLOEMBERGEN N, 1957, J CHEM PHYS, V27, P572, DOI 10.1063/1.1743771
+   Boxall AB, 2010, CRIT REV TOXICOL, V40, P653
+   Bridge JW, 2006, ENVIRON SCI TECHNOL, V40, P5930, DOI 10.1021/es0603731
+   Brusseau M. L., 2008, WATER RESOUR RES, V44, P1
+   Callaghan P. T., 1991, PRINCIPLES NUCL MAGN
+   Chowdhury I, 2011, J COLLOID INTERF SCI, V360, P548, DOI 10.1016/j.jcis.2011.04.111
+   Choy CC, 2008, CHEMOSPHERE, V71, P1794, DOI 10.1016/j.chemosphere.2007.12.030
+   Darlington TK, 2009, ENVIRON TOXICOL CHEM, V28, P1191, DOI 10.1897/08-341.1
+   Derjaguin B. V., 1941, ACTA PHYSICOCHIM URS, V14, P733, DOI DOI 10.1016/0079-6816(93)90013-1
+   ELIMELECH M, 1990, ENVIRON SCI TECHNOL, V24, P1528, DOI 10.1021/es00080a012
+   Elimelech M., 1995, PARTICLE DEPOSITION
+   GREGORY J, 1981, J COLLOID INTERF SCI, V83, P138, DOI 10.1016/0021-9797(81)90018-7
+   Haacke EM, 1999, MAGNETIC RESONANCE I
+   Hahn MW, 2004, ENVIRON SCI TECHNOL, V38, P5915, DOI 10.1021/es049746d
+   Handy RD, 2008, ECOTOXICOLOGY, V17, P287, DOI 10.1007/s10646-008-0199-8
+   Heather H., 2009, SEDIMENTOLOGY, V56, P1961
+   Hofstee C, 1998, J CONTAM HYDROL, V34, P293, DOI 10.1016/S0169-7722(98)00101-6
+   HOGG R, 1966, T FARADAY SOC, V62, P1638, DOI 10.1039/tf9666201638
+   Ibrahim I, 2011, J FUNDAMENTAL SCI, V7, P101
+   ILLANGASEKARE TH, 1995, J CONTAM HYDROL, V20, P1, DOI 10.1016/0169-7722(95)00045-W
+   Jada A, 2006, CHEMOSPHERE, V64, P1287, DOI 10.1016/j.chemosphere.2005.12.063
+   Khrapitchev AA, 2003, PHYS FLUIDS, V15, P2649, DOI 10.1063/1.1596914
+   Lakshmanan S, 2014, INT J ENG TECHNOL, V3, P457
+   Lakshmanan S, 2015, CHEM ENG J, V266, P156, DOI 10.1016/j.cej.2014.12.076
+   Lecoanet HF, 2004, ENVIRON SCI TECHNOL, V38, P4377, DOI 10.1021/es035354f
+   Loai Y, 2012, INT J MOL IMAGING, V2012, P1
+   Marouf R, 2009, MICROPOR MESOPOR MAT, V122, P99, DOI 10.1016/j.micromeso.2009.02.021
+   Nel A, 2006, SCIENCE, V311, P622, DOI 10.1126/science.1114397
+   Nel A, 2013, ACCOUNTS CHEM RES, V46, P607, DOI 10.1021/ar300022h
+   Nestle N, 2003, ENVIRON SCI TECHNOL, V37, P3972, DOI 10.1021/es026250s
+   Petosa AR, 2010, ENVIRON SCI TECHNOL, V44, P6532, DOI 10.1021/es100598h
+   Phoenix VR, 2008, APPL ENVIRON MICROB, V74, P4934, DOI 10.1128/AEM.02783-07
+   Pokrovsky OS, 1999, GEOCHIM COSMOCHIM AC, V63, P3133, DOI 10.1016/S0016-7037(99)00240-9
+   Ramanan B, 2012, ENVIRON SCI TECHNOL, V46, P360, DOI 10.1021/es2012726
+   Scown TM, 2007, NANOMEDICINE, V2, P919
+   Shang JY, 2010, ENVIRON SCI TECHNOL, V44, P8190, DOI 10.1021/es1015586
+   Tang GP, 2010, COMPUT GEOSCI-UK, V36, P1200, DOI 10.1016/j.cageo.2010.01.013
+   Tellam JH, 2011, NATO SCI PEACE SECUR, P139, DOI 10.1007/978-94-007-1143-3_16
+   Tiraferri A, 2009, J NANOPART RES, V11, P635, DOI 10.1007/s11051-008-9405-0
+   Toride N, 1995, 137 USDA ARS US AL L
+   Tufenkji N, 2005, LANGMUIR, V21, P841, DOI 10.1021/la048102g
+   Verwey E. J., 1948, THEORY STABILITY LYO
+   von der Schulenburg DAG, 2008, BIOTECHNOL BIOENG, V99, P821, DOI 10.1002/bit.21647
+   Werth CJ, 2010, J CONTAM HYDROL, V113, P1, DOI 10.1016/j.jconhyd.2010.01.001
+   Wraith J.M., 1998, J NAT RESOUR LIFE SC, V27, P13
+   Yu J., 2010, SPE INT C OILF SCAL, V10, P512
+NR 47
+TC 4
+Z9 4
+U1 3
+U2 30
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1735-1472
+EI 1735-2630
+J9 INT J ENVIRON SCI TE
+JI Int. J. Environ. Sci. Technol.
+PD OCT
+PY 2015
+VL 12
+IS 10
+BP 3373
+EP 3384
+DI 10.1007/s13762-015-0767-4
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA CP5NN
+UT WOS:000359929300028
+OA Bronze, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Manyahi, J
+   Jullu, BS
+   Abuya, MI
+   Juma, J
+   Ndayongeje, J
+   Kilama, B
+   Sambu, V
+   Nondi, J
+   Rabiel, B
+   Somi, G
+   Matee, MI
+AF Manyahi, Joel
+   Jullu, Boniphace S.
+   Abuya, Mathias I.
+   Juma, James
+   Ndayongeje, Joel
+   Kilama, Bonita
+   Sambu, Veryeh
+   Nondi, Josef
+   Rabiel, Bernard
+   Somi, Geoffrey
+   Matee, Mecky I.
+TI Prevalence of HIV and syphilis infections among pregnant women attending
+   antenatal clinics in Tanzania, 2011
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE HIV; Syphilis; Pregnant women; Tanzania
+ID POPULATION-BASED SURVEYS; RISK-FACTORS; GENERALIZED EPIDEMICS;
+   SURVEILLANCE; SEROPREVALENCE; COUNTRIES; TRENDS
+AB Background: The occurrence of HIV-1 and syphilis infections during pregnancy poses major health risks to the foetus due to mother-to-child transmission. We conducted surveillance of HIV and syphilis infections among pregnant women attending antenatal clinics (ANCs) in Mainland Tanzania in 2011.
+   Methods: This surveillance was carried out in 133 ANCs selected from 21 regions in Tanzania. In each region, six ANC sites were selected, with urban, semi-urban, and rural areas contributing two each. All pregnant women who were attending selected sentinel ANC sites for the first time at any pregnancy between September and December 2011 were enrolled. Serial ELISA assays were performed to detect HIV infection in an unlinked anonymous manner using dried blood spot (DBS) after routine syphilis testing. Data analysis was conducted using Stata v.12 software.
+   Results: A total of 39,698 pregnant women representing 2.4% of all pregnant women (1.68 million) attending ANCs in the Mainland Tanzania were enrolled. The overall HIV prevalence was found to be 5.6% (95 % CI: 5.4-5.8%). The risk for HIV infection was significantly higher among women aged 25-34 (cOR = 1.97, 95% CI: 1.79-2.16; p < 0.05), older than 35 years (cOR = 1.88, 95% CI: 1.62-2.17; p < 0.05) and those having 1-2 and 3-4 previous pregnancies. HIV infection was less prevalent among women attending rural ANC clinics (cOR = 0.46, 95 % CI 0.4-0.52; p < 0.05). The overall syphilis prevalence was 2.5% (95% CI: 2.3, 3.6). The risk for syphilis infection was significantly higher among women attending semi-urban and rural clinics and those having 3-4, and 5 previous pregnancies (p < 0.05). Marital status and level of education were not statistically significant with either of the two infections. HIV and syphilis co-infections occurred in 109 of 38,928 (0.3
+   Conclusion: The overall prevalence of HIV infection (5.6%) and syphilis (2.5%) found among pregnant women attending ANC clinics in Tanzania calls for further strengthening of current intervention measures, which include scaling up the integration of prevention of mother to child transmission (PMTCT) services in Reproductive and Child Health (RCH) clinics.
+C1 [Manyahi, Joel; Matee, Mecky I.] Muhimbili Univ Hlth & Allied Sci, Dar Es Salaam, Tanzania.
+   [Jullu, Boniphace S.] St Francis Univ, Coll Hlth & Allied Sci, Ifakara, Tanzania.
+   [Abuya, Mathias I.; Juma, James; Ndayongeje, Joel; Kilama, Bonita; Sambu, Veryeh; Nondi, Josef; Rabiel, Bernard; Somi, Geoffrey] Natl AIDS Control Programme, Dar Es Salaam, Tanzania.
+RP Manyahi, J (reprint author), Muhimbili Univ Hlth & Allied Sci, Dar Es Salaam, Tanzania.
+EM manyahijoel@yahoo.com
+CR [Anonymous], 2013, TANZ HIV AIDS MAL IN
+   Bloom SS, 2002, SEX TRANSM INFECT, V78, P261, DOI 10.1136/sti.78.4.261
+   Boerma JT, 2003, LANCET, V362, P1929, DOI 10.1016/S0140-6736(03)14967-7
+   Calleja JMG, 2005, AIDS, V19, pS9, DOI 10.1097/01.aids.0000172872.88347.f3
+   CHIN J, 1989, B WORLD HEALTH ORGAN, V67, P1
+   Fabiani M, 2001, AIDS, V15, P97, DOI 10.1097/00002030-200101050-00014
+   Ghys PD, 2006, SEX TRANSM INFECT, V82, pI52, DOI 10.1136/sti.2005.016428
+   Gouws E, 2008, SEX TRANSM INFECT, V84, pI17, DOI 10.1136/sti.2008.030452
+   Humphrey JH, 2007, EPIDEMIOL INFECT, V135, P933, DOI 10.1017/S0950268806007709
+   KAPIGA SH, 1994, J ACQ IMMUN DEF SYND, V7, P301
+   Kirakoya-Samadoulougou F, 2011, SEX TRANSM INFECT, V87, P35, DOI 10.1136/sti.2010.042465
+   Kumogola Y, 2010, BMC PUBLIC HEALTH, V10, DOI 10.1186/1471-2458-10-553
+   Laher F, 2011, AIDS BEHAV, V16, P91
+   Mishra V, 2006 HIV AIDS IMP M
+   Mishra V, 2006, B WORLD HEALTH ORGAN, V84, P537, DOI 10.2471/BLT.05.029520
+   MNYIKA KS, 1994, AIDS, V8, P1477, DOI 10.1097/00002030-199410000-00016
+   Mulu A, 2007, JPN J INFECT DIS, V60, P193
+   National Bureau of Statistics (NBS) [Tanzania] and ORC Macro, 2005, TANZ DEM HLTH SURVEY
+   Ngarina M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0085310
+   Padian NS, 2011, LANCET, V378, P269, DOI 10.1016/S0140-6736(11)60877-5
+   Pronyk PM, 2005, 2 S AFR AIDS C
+   Surveillance. UWWGoGHAaS, 2003, GUID COND HIV SENT S
+   Swai RO, 2006, BMC PUBLIC HEALTH, V6, DOI 10.1186/1471-2458-6-91
+   Tanzania Commission for AIDS (TACAIDS) National Bureau of Statistics (NBS) and ORC Macro, 2005, TANZ HIV AIDS IND SU
+   Tanzania Commission for AIDS (TACAIDS) Zanzibar AIDS Commission (ZAC) National Bureau of Statistics (NBS) Office of the Chief Government Statistician (OCGS) and Macro International Inc, 2008, TANZ HIV AIDS MAL IN
+   The United Republic of Tanzania. Ministry of Health and Social welfare. National AIDS Control Programme, 2008, SURV HIV SYPH ANT DI
+   The United Republic of Tanzania Ministry of Health and Social Welfare. National AIDS Control Programme, 2004, SURV HIV SYPH ANT CL
+   The United Republic of Tanzania. Ministry of Health and Social Welfare. National AIDS Control Programme (NACP) & Reproductive and Child Health Section, 2007, NAT GUID MAN SEX TRA
+   Todd J, 2001, SEX TRANSM INFECT, V77, P37, DOI 10.1136/sti.77.1.37
+   Walker N, 2001, AIDS, V15, P1545, DOI 10.1097/00002030-200108170-00012
+   Yang LG, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0072149
+NR 31
+TC 10
+Z9 10
+U1 0
+U2 6
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD MAY 22
+PY 2015
+VL 15
+AR 501
+DI 10.1186/s12889-015-1848-5
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA CI7BO
+UT WOS:000354918100001
+PM 25994129
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Saberi, AA
+AF Saberi, Abbas Ali
+TI Recent advances in percolation theory and its applications
+SO PHYSICS REPORTS-REVIEW SECTION OF PHYSICS LETTERS
+LA English
+DT Review
+DE Percolation; Explosive percolation; SLE; Ising model; Earth topography
+ID 3D ISING-MODEL; RANGE CORRELATED PERCOLATION; MOLECULAR-SIZE
+   DISTRIBUTION; RANDOM-CLUSTER MODEL; DENSITY SERIES EXPANSIONS; RANDOM
+   GAUSSIAN SURFACES; OPTIMAL CHANNEL NETWORKS; URBAN-GROWTH PATTERNS;
+   FOREST-FIRE MODEL; BOOTSTRAP PERCOLATION
+AB Percolation is the simplest fundamental model in statistical mechanics that exhibits phase transitions signaled by the emergence of a giant connected component. Despite its very simple rules, percolation theory has successfully been applied to describe a large variety of natural, technological and social systems. Percolation models serve as important universality classes in critical phenomena characterized by a set of critical exponents which correspond to a rich fractal and scaling structure of their geometric features. We will first outline the basic features of the ordinary model.
+   Over the years a variety of percolation models has been introduced some of which with completely different scaling and universal properties from the original model with either continuous or discontinuous transitions depending on the control parameter, dimensionality and the type of the underlying rules and networks. We will try to take a glimpse at a number of selective variations including Achlioptas process, half-restricted process and spanning cluster-avoiding process as examples of the so-called explosive percolation. We will also introduce non-self-averaging percolation and discuss correlated percolation and bootstrap percolation with special emphasis on their recent progress. Directed percolation process will be also discussed as a prototype of systems displaying a nonequilibrium phase transition into an absorbing state.
+   In the past decade, after the invention of stochastic Lowner evolution (SLE) by Oded Schramm, two-dimensional (2D) percolation has become a central problem in probability theory leading to the two recent Fields medals. After a short review on SLE, we will provide an overview on existence of the scaling limit and conformal invariance of the critical percolation. We will also establish a connection with the magnetic models based on the percolation properties of the Fortuin-Kasteleyn and geometric spin clusters. As an application we will discuss how percolation theory leads to the reduction of the 3D criticality in a 3D Ising model to a 2D critical behavior.
+   Another recent application is to apply percolation theory to study the properties of natural and artificial landscapes. We will review the statistical properties of the coastlines and watersheds and their relations with percolation. Their fractal structure and compatibility with the theory of SLE will also be discussed. The present mean sea level on Earth will be shown to coincide with the critical threshold in a percolation description of the global topography. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Saberi, Abbas Ali] Univ Tehran, Dept Phys, Tehran, Iran.
+   [Saberi, Abbas Ali] Inst Res Fundamental Sci IPM, Sch Particles & Accelerators, Tehran, Iran.
+RP Saberi, AA (reprint author), Univ Tehran, Dept Phys, POB 14395-547, Tehran, Iran.
+EM ab.saberi@ut.ac.ir
+FU Iran National Science Foundation (INSF); University of Tehran
+FX I would like to thank J. Cardy, H.J. Herrmann, J. Nagler, M. Sahimi, R.
+   Ziff and especially D. Stauffer for critical reading of the manuscript
+   and their very valuable comments. I also would like to thank H.
+   Dashti-Naserabadi for his kind helps. I wish to express my gratitude for
+   the hospitality of ICTP in Trieste, Italy, where some of the work was
+   done. I also acknowledge partial financial supports by the Iran National
+   Science Foundation (INSF), and University of Tehran.
+CR Abete T, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.228301
+   Abraham DB, 2009, LETT J EXPLORING FRO, V86, P16002
+   Achlioptas D, 2009, SCIENCE, V323, P1453, DOI 10.1126/science.1167782
+   ADLER J, 1991, PHYSICA A, V171, P453, DOI 10.1016/0378-4371(91)90295-N
+   Adler J, 2003, BRAZ J PHYS, V33, P641, DOI 10.1590/S0103-97332003000300031
+   ADLER J, 1989, J PHYS A-MATH GEN, V22, pL297, DOI 10.1088/0305-4470/22/7/008
+   ADLER J, 1988, J PHYS A-MATH GEN, V21, P1387, DOI 10.1088/0305-4470/21/6/015
+   Aharony A, 1996, PHYS REV LETT, V77, P3700, DOI 10.1103/PhysRevLett.77.3700
+   AHARONY A, 1980, PHYS REV B, V22, P400, DOI 10.1103/PhysRevB.22.400
+   Ahmed J. Abbas, 2012, PHYSICA A, V391, P5332
+   Aizenman M, 1999, DUKE MATH J, V99, P419, DOI 10.1215/S0012-7094-99-09914-3
+   Aizenman M, 1997, NUCL PHYS B, V485, P551, DOI 10.1016/S0550-3213(96)00626-8
+   AIZENMAN M, 1988, J PHYS A-MATH GEN, V21, P3801, DOI 10.1088/0305-4470/21/19/017
+   AIZENMAN M, 1987, COMMUN MATH PHYS, V111, P505, DOI 10.1007/BF01219071
+   AIZENMAN M., 1998, IMA VOL MATH APPL, V99, P1
+   ALBANO EV, 1995, PHYSICA A, V216, P213, DOI 10.1016/0378-4371(95)00015-Y
+   ALBANO EV, 1994, J PHYS A-MATH GEN, V27, pL881, DOI 10.1088/0305-4470/27/23/003
+   AMBJORN J, 1993, PHYS LETT B, V303, P327, DOI 10.1016/0370-2693(93)91440-X
+   Amini H, 2014, J STAT PHYS, V155, P72, DOI 10.1007/s10955-014-0946-6
+   Amoruso C, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.267202
+   Andrade JS, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.225503
+   Andrade JS, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.031133
+   Anekal SG, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.020403
+   [Anonymous], 2014, SIERRA, V99, P3
+   Araujo AD, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.027102
+   Araujo AD, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.046304
+   Araujo N, 2014, EUR PHYS J-SPEC TOP, V223, P2307, DOI 10.1140/epjst/e2014-02266-y
+   Araujo NAM, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.035701
+   Araujo NAM, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.095703
+   Baek SK, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.032103
+   Bak P., 1996, NATURE WORKS
+   Balogh J, 2006, PROBAB THEORY REL, V134, P624, DOI 10.1007/s00440-005-0451-6
+   Balogh J, 2007, RANDOM STRUCT ALGOR, V30, P257, DOI 10.1002/rsa.20158
+   Balogh J, 2006, COMB PROBAB COMPUT, V15, P715, DOI 10.1017/S0963548306007619
+   Balogh J, 2012, T AM MATH SOC, V364, P2667, DOI 10.1090/S0002-9947-2011-05552-2
+   Banavar JR, 1997, PHYS REV LETT, V78, P4522, DOI 10.1103/PhysRevLett.78.4522
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Bastas N, 2014, PHYSICA A, V407, P54, DOI 10.1016/j.physa.2014.03.085
+   Bauer M, 2002, PHYS LETT B, V543, P135, DOI 10.1016/S0370-2693(02)02423-1
+   Bauer M, 2006, PHYS REP, V432, P115, DOI 10.1016/j.physrep.2006.06.002
+   Baxter GJ, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.011103
+   Baxter R., 1982, EXACTLY SOLVABLE MOD
+   BAXTER RJ, 1976, J PHYS A-MATH GEN, V9, P397, DOI 10.1088/0305-4470/9/3/009
+   Beffara V, 2004, ANN PROBAB, V32, P2606, DOI 10.1241/009117904000000072
+   Beffara V., ARXIVMATH0507220V1
+   Beffara V, 2008, PROG PROBAB, V60, P31
+   Beffara V, 2008, ANN PROBAB, V36, P1421, DOI 10.1214/07-AOP364
+   BELL TH, 1975, DEEP-SEA RES, V22, P883, DOI 10.1016/0011-7471(75)90090-X
+   Benjamini I, 1998, COMMUN MATH PHYS, V197, P75, DOI 10.1007/s002200050443
+   Benjamini I., 1996, ELECTRON COMMUN PROB, V1, P71
+   Bernard D, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.024501
+   Bernard D, 2006, NAT PHYS, V2, P124, DOI 10.1038/nphys217
+   Bernard D, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.020403
+   Bethe H.A., 1935, Proceedings of the Royal Society of London, Series A (Mathematical and Physical Sciences), V150, P552, DOI 10.1098/rspa.1935.0122
+   Beveridge A, 2007, P AM MATH SOC, V135, P3061, DOI 10.1090/S0002-9939-07-08853-3
+   Boffetta G, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2007GL033093
+   Bogomolny E, 2007, J PHYS A-MATH THEOR, V40, P381, DOI 10.1088/1751-8113/40/3/003
+   Bohman T, 2001, RANDOM STRUCT ALGOR, V19, P75, DOI 10.1002/rsa.1019
+   BOLLOBAS B, 1984, T AM MATH SOC, V286, P257, DOI 10.2307/1999405
+   Bollobas B., 2006, PERCOLATION
+   Bollobas  B., 2001, CAMBRIDGE STUDIES AD, V73
+   Bollobas B., 1984, P CAMBR COMB C HON P, P35
+   BREYER SP, 1992, GEOMORPHOLOGY, V5, P143, DOI 10.1016/0169-555X(92)90062-S
+   Britton T, 2006, J STAT PHYS, V124, P1377, DOI 10.1007/s10955-006-9168-x
+   Broadbent S.R., 1957, Proceedings of the Cambridge Philosophical Society, V53, P629
+   BROWN SR, 1985, J GEOPHYS RES-SOLID, V90, P2575, DOI 10.1029/JB090iB14p12575
+   Bunde A., 1996, FRACTALS DISORDERED
+   BURTON RM, 1989, COMMUN MATH PHYS, V121, P501, DOI 10.1007/BF01217735
+   Cahn RW, 1997, NATURE, V389, P121, DOI 10.1038/38113
+   Callaway DS, 2000, PHYS REV LETT, V85, P5468, DOI 10.1103/PhysRevLett.85.5468
+   Cardy J, 2006, NAT PHYS, V2, P67, DOI 10.1038/nphys223
+   Cardy J, 2005, ANN PHYS-NEW YORK, V318, P81, DOI 10.1016/j.aop.2005.04.001
+   Cardy J, 2003, J STAT PHYS, V110, P1, DOI 10.1023/A:1021069209656
+   Cardy J, 2002, J PHYS A-MATH GEN, V35, pL565, DOI 10.1088/0305-4470/35/41/102
+   CARDY J, 2001, MATHPH0103018
+   Cardy J., 1996, SCALING RENORMALIZAT
+   Cardy J. L., 1996, SCALING RENORMALIZAT, P238
+   Cardy J L, 1992, J PHYS A, V25, P201
+   CARDY JL, 1992, J PHYS A-MATH GEN, V25, pL201, DOI 10.1088/0305-4470/25/4/009
+   CASHER A, 1985, NUCL PHYS B, V251, P29, DOI 10.1016/0550-3213(85)90248-2
+   Cerf R, 1999, ANN PROBAB, V27, P1837, DOI 10.1214/aop/1022874817
+   Cerf R, 2002, STOCH PROC APPL, V101, P69, DOI 10.1016/S0304-4149(02)00124-2
+   CHALUPA J, 1979, J PHYS C SOLID STATE, V12, pL31, DOI 10.1088/0022-3719/12/1/008
+   Chelkak D, 2014, CR MATH, V352, P157, DOI 10.1016/j.crma.2013.12.002
+   Chen W, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.155701
+   Chen W, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.042152
+   Chen W, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.052130
+   Cho YS, 2013, SCIENCE, V339, P1185, DOI 10.1126/science.1230813
+   Cho YS, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.135702
+   Cho Y.S., ARXIV14044470
+   Cho Y.S., ARXIV14044470VE
+   Choi W, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.020102
+   Cieplak M, 1998, J STAT PHYS, V91, P1, DOI 10.1023/A:1023069201470
+   Cohen R, 2004, PHYSICA A, V336, P6, DOI 10.1016/j.physa.2004.01.005
+   Colaiori F, 1997, PHYS REV E, V55, P1298, DOI 10.1103/PhysRevE.55.1298
+   CONIGLIO A, 1979, PHYS REV LETT, V42, P518, DOI 10.1103/PhysRevLett.42.518
+   CONIGLIO A, 1982, J PHYS A-MATH GEN, V15, P3829, DOI 10.1088/0305-4470/15/12/032
+   D'Souza RM, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.195702
+   da Costa RA, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.255701
+   Daryaei E, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.218701
+   Davatolhagh S, 2012, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2012/02/P02015
+   Delfino G., 2010, J PHYS MATH THEOR, V43
+   Derenyi I, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.160202
+   DICKMAN R, 1988, PHYS LETT A, V127, P132, DOI 10.1016/0375-9601(88)90087-4
+   DISTLER J, 1992, NUCL PHYS B, V388, P648, DOI 10.1016/0550-3213(92)90558-S
+   DJORDJEVIC ZV, 1987, J PHYS A-MATH GEN, V20, pL587, DOI 10.1088/0305-4470/20/9/007
+   Dorogovtsev SN, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.040601
+   DOTSENKO VS, 1995, NUCL PHYS B, V448, P577, DOI 10.1016/0550-3213(95)00278-Z
+   DOTSENKO VS, 1993, PHYS REV LETT, V71, P811, DOI 10.1103/PhysRevLett.71.811
+   DOTSENKO VS, 1987, NUCL PHYS B, V285, P45, DOI 10.1016/0550-3213(87)90328-2
+   Du C, 1996, AICHE J, V42, P2392, DOI 10.1002/aic.690420831
+   Duplantier B, 2000, PHYS REV LETT, V84, P1363, DOI 10.1103/PhysRevLett.84.1363
+   DUPLANTIER B, 1988, PHYS REV LETT, V60, P2343, DOI 10.1103/PhysRevLett.60.2343
+   Durrett Richard, 2007, RANDOM GRAPH DYNAMIC
+   Eckmann JP, 2007, PHYS REP, V449, P54, DOI 10.1016/j.physrep.2007.02.014
+   Erdos P., 1961, B I INT STATIST TOKY, V38, P343
+   Erdos P, 1961, ACTA MATH ACAD SCI H, V12, P261, DOI DOI 10.1007/BF02066689
+   Erdos P., 1959, PUBL MATH-DEBRECEN, V6, P290, DOI DOI 10.1234/12345678
+   ESSAM JW, 1980, REP PROG PHYS, V43, P833, DOI 10.1088/0034-4885/43/7/001
+   Farr TG, 2007, REV GEOPHYS, V45, P33
+   Fehr E, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.011117
+   Fehr E, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.036116
+   Fehr E, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.048501
+   Fehr E, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/09/P09007
+   Feynman R. P., 1972, STAT MECH SET LECT
+   FISHER ME, 1961, PHYS REV, V124, P1664, DOI 10.1103/PhysRev.124.1664
+   FISHER ME, 1961, J MATH PHYS, V2, P609, DOI 10.1063/1.1703745
+   Flores S.M., 2012, THESIS U MICHIGAN
+   Flory PJ, 1941, J AM CHEM SOC, V63, P3096, DOI 10.1021/ja01856a063
+   Flory PJ, 1941, J AM CHEM SOC, V63, P3083, DOI 10.1021/ja01856a061
+   Flory PJ, 1941, J AM CHEM SOC, V63, P3091, DOI 10.1021/ja01856a062
+   Fontes LRG, 2008, J STAT PHYS, V132, P839, DOI 10.1007/s10955-008-9583-2
+   FORTUIN CM, 1972, PHYSICA, V58, P393, DOI 10.1016/0031-8914(72)90161-9
+   FORTUIN CM, 1972, PHYSICA, V57, P536, DOI 10.1016/0031-8914(72)90045-6
+   FORTUIN CM, 1972, PHYSICA, V59, P545, DOI 10.1016/0031-8914(72)90087-0
+   FRADKIN E, 1980, PHYS REV D, V21, P2885, DOI 10.1103/PhysRevD.21.2885
+   Friedman EJ, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.255701
+   Gagnon JS, 2006, NONLINEAR PROC GEOPH, V13, P541, DOI 10.5194/npg-13-541-2006
+   Gaonac'h H, 2003, INT J REMOTE SENS, V24, P2323, DOI 10.1080/01431160210164253
+   Gnan N, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4267
+   Golden KM, 1998, SCIENCE, V282, P2238, DOI 10.1126/science.282.5397.2238
+   Goltsev AV, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.061921
+   Gomez-Gardenes J, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.128701
+   GRASSBERGER P, 1985, J PHYS A-MATH GEN, V18, pL215, DOI 10.1088/0305-4470/18/4/005
+   GRASSBERGER P, 1982, Z PHYS B CON MAT, V47, P365, DOI 10.1007/BF01313803
+   Grassberger P., 1982, MATH BIOSCI, V62, P157
+   Grassberger P, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.225701
+   Gravner J, 2008, ANN APPL PROBAB, V18, P909, DOI 10.1214/07-AAP473
+   Grimaldi C, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.066602
+   Grimmett G., 1999, GRUNDLEHREN MATH WIS, V321
+   Grimmett G.R., 2013, PROBAB THEORY RELATE, DOI 0.1007/s00440-013-0507-y
+   Grimmett G.R., 1999, PERCOLATION
+   GRIMMETT GR, 1990, DISORDER PHYSICAL SY, P167
+   Gruzberg IA, 1999, PHYS REV LETT, V82, P4524, DOI 10.1103/PhysRevLett.82.4524
+   Gutenberg B, 1954, SEISMICITY EARTH ASS
+   Haggstrom O, 1999, PROG PROBAB, V44, P69
+   HARA T, 1994, NATO ADV SCI INST SE, V420, P87
+   HARRIS AB, 1974, J PHYS C SOLID STATE, V7, P1671, DOI 10.1088/0022-3719/7/9/009
+   Harvey DC, 2002, FRACTALS, V10, P265, DOI 10.1142/S0218348X02001191
+   Hergarten S, 2001, PHYS REV LETT, V86, P2689, DOI 10.1103/PhysRevLett.86.2689
+   Herrmann HJ, 2011, PHYSCS PROC, V15, P37, DOI 10.1016/j.phpro.2011.05.057
+   Hinrichsen H, 2000, ADV PHYS, V49, P815, DOI 10.1080/00018730050198152
+   Holroyd AE, 2003, PROBAB THEORY REL, V125, P195, DOI 10.1007/s00440-002-0239-x
+   Holroyd AE, 2006, ELECTRON J PROBAB, V11, P418, DOI 10.1214/EJP.v11-326
+   Houle PA, 1996, PHYS REV E, V54, P278, DOI 10.1103/PhysRevE.54.278
+   HU CK, 1984, PHYS REV B, V29, P5103, DOI 10.1103/PhysRevB.29.5103
+   ISICHENKO MB, 1992, REV MOD PHYS, V64, P961, DOI 10.1103/RevModPhys.64.961
+   Istrail S., 2000, 32 ACM S THEOR COMP, P87
+   ITZYKSON C, 1982, NUCL PHYS B, V210, P477, DOI 10.1016/0550-3213(82)90174-2
+   Janke W, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.144208
+   Janson S., 2000, WILEY INTERSCIENCE S
+   Janson S, 2012, ANN APPL PROBAB, V22, P1989, DOI 10.1214/11-AAP822
+   JANSSEN HK, 1981, Z PHYS B CON MAT, V42, P151, DOI 10.1007/BF01319549
+   Jensen H.J., 1998, SELF ORG CRITICALITY, V10
+   Jensen I, 1999, J PHYS A-MATH GEN, V32, P5233, DOI 10.1088/0305-4470/32/28/304
+   Jensen I, 1996, J PHYS A-MATH GEN, V29, P7013, DOI 10.1088/0305-4470/29/22/007
+   Kager W, 2004, J STAT PHYS, V115, P1149, DOI 10.1023/B:JOSS.0000028058.87266.be
+   Kalda J, 2008, EPL-EUROPHYS LETT, V84, DOI 10.1209/0295-5075/84/46003
+   Kalisky T, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.035101
+   KARDAR M, 1986, PHYS REV LETT, V56, P889, DOI 10.1103/PhysRevLett.56.889
+   KASTELEYN PW, 1969, J PHYS SOC JPN, VS 26, P11
+   KAVALOV AR, 1987, NUCL PHYS B, V285, P264, DOI 10.1016/0550-3213(87)90338-5
+   Keating JP, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.034101
+   KESTEN H, 1980, COMMUN MATH PHYS, V74, P41, DOI 10.1007/BF01197577
+   King P.R., 2002, LONDON PETROPHYSICAL
+   KIRKPATRICK S, 1973, REV MOD PHYS, V45, P574, DOI 10.1103/RevModPhys.45.574
+   Knackstedt MA, 2000, PHYS REV E, V61, P4920, DOI 10.1103/PhysRevE.61.4920
+   Knecht CL, 2012, PHYS REV LETT, V108, DOI 10.1103/PhysRevLett.108.045703
+   KONDEV J, 1995, PHYS REV LETT, V74, P4580, DOI 10.1103/PhysRevLett.74.4580
+   Kondev J, 2000, PHYS REV E, V61, P104, DOI 10.1103/PhysRevE.61.104
+   Krivelevich M, 2010, RANDOM STRUCT ALGOR, V37, P1, DOI 10.1002/rsa.20302
+   KUCINSKAS AB, 1992, J GEOPHYS RES-PLANET, V97, P13635, DOI 10.1029/92JE01132
+   LANGLANDS R, 1994, B AM MATH SOC, V30, P1, DOI 10.1090/S0273-0979-1994-00456-2
+   LANGLANDS RP, 1992, J STAT PHYS, V67, P553, DOI 10.1007/BF01049720
+   Lawler G, 2003, J AM MATH SOC, V16, P917, DOI 10.1090/S0894-0347-03-00430-2
+   Lawler G. F., 2004, P S PURE MATH, V72.2
+   Lawler GF, 2001, ACTA MATH-DJURSHOLM, V187, P237, DOI 10.1007/BF02392618
+   Lee KT, 2006, J AM WATER RESOUR AS, V42, P1615, DOI 10.1111/j.1752-1688.2006.tb06024.x
+   Leyva I., 2013, SCI REP, V3
+   LIGGETT TM, 1985, INTERACTING PARTICLE
+   Makse HA, 2000, PHYS REV E, V61, P583, DOI 10.1103/PhysRevE.61.583
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   MANDELBROT B, 1967, SCIENCE, V156, P636, DOI 10.1126/science.156.3775.636
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   MANDELBROT BB, 1975, P NATL ACAD SCI USA, V72, P3825, DOI 10.1073/pnas.72.10.3825
+   Mandre I, 2011, EUR PHYS J B, V83, P107, DOI 10.1140/epjb/e2011-20386-4
+   Mann U, 2008, PHYS EARTH PLANET IN, V167, P1, DOI 10.1016/j.pepi.2007.12.002
+   Marinov VI, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.031120
+   Maritan A, 1996, SCIENCE, V272, P984, DOI 10.1126/science.272.5264.984
+   Martino D. D., 2009, PHYS REV E, V79
+   Meinesz F.A. Vening, 1951, P K NED AKAD B PHYS, V54, P212
+   Monasson R., 2013, NETADIS SUMMER SCH C
+   Morais PA, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.016102
+   Moreira AA, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.255701
+   Moreira AA, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.040101
+   Moriconi L, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.041105
+   MULLERKRUMBHAAR H, 1974, PHYS LETT A, VA 48, P459, DOI 10.1016/0375-9601(74)90623-9
+   Nagler J, 2012, PHYS REV X, V2, DOI 10.1103/PhysRevX.2.031009
+   Nagler J, 2011, NAT PHYS, V7, P265, DOI [10.1038/nphys1860, 10.1038/NPHYS1860]
+   NAHMIAS J, 1989, REV PHYS APPL, V24, P773, DOI 10.1051/rphysap:01989002407077300
+   Nakayama Y, 2015, PHYS REP, V569, P1, DOI 10.1016/j.physrep.2014.12.003
+   NEWMAN CM, 1981, J PHYS A-MATH GEN, V14, P1735, DOI 10.1088/0305-4470/14/7/028
+   Newman M.E.J., 2000, PHYS REV E, V66
+   NEWMAN WI, 1990, GEOPHYS J INT, V100, P433, DOI 10.1111/j.1365-246X.1990.tb00696.x
+   Onsager L, 1944, PHYS REV, V65, P117, DOI 10.1103/PhysRev.65.117
+   Pan RK, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.046112
+   Panagiotou K., 2011, ELECT NOTES DISCRETE, V38, P699, DOI DOI 10.1016/J.ENDM.2011.10.017
+   Parshani R, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/38004
+   Pecknold S, 2001, GEOPHYS J INT, V145, P127, DOI 10.1046/j.1365-246x.2001.00345.x
+   Pilkington M., 2004, GEOPHYS RES LETT, V31
+   Pittel B, 1996, J COMB THEORY B, V67, P111, DOI 10.1006/jctb.1996.0036
+   POLCHINSKI J, 1988, NUCL PHYS B, V303, P226, DOI 10.1016/0550-3213(88)90179-4
+   Polyakov  A., 1987, GAUGE FIELDS STRINGS
+   POLYAKOV AM, 1981, PHYS LETT B, V103, P207, DOI 10.1016/0370-2693(81)90743-7
+   Porto M, 1997, PHYS REV LETT, V79, P4060, DOI 10.1103/PhysRevLett.79.4060
+   Pose N, 2014, SCI REP-UK, V4, DOI 10.1038/srep05495
+   PRAKASH S, 1992, PHYS REV A, V46, pR1724, DOI 10.1103/PhysRevA.46.R1724
+   PRIVMAN V, 1991, PHASE TRANSITION CRI, V14
+   Reis SDS, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.041112
+   Renyi A., 1960, MAGYAR TUD AKAD MAT, V5, P17
+   REYNOLDS PJ, 1980, PHYS REV B, V21, P1223, DOI 10.1103/PhysRevB.21.1223
+   Richardson L.F., 1961, GENERAL SYSTEMS YB, V6, P139
+   Riordan O, 2012, ANN APPL PROBAB, V22, P1450, DOI 10.1214/11-AAP798
+   Riordan O, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.011129
+   Riordan O, 2011, SCIENCE, V333, P322, DOI 10.1126/science.1206241
+   Rodriguez-Iturbe I., 1997, FRACTAL RIVER BASINS
+   Saberi AA, 2010, EPL-EUROPHYS LETT, V92, DOI 10.1209/0295-5075/92/67005
+   Saberi AA, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.020101
+   Saberi AA, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.036102
+   Saberi AA, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.044504
+   Saberi AA, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.031121
+   Saberi AA, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.051607
+   Saberi A.A., 2014, DIMENSIONAL REDUCTIO
+   Saberi AA, 2013, EPL-EUROPHYS LETT, V103, DOI 10.1209/0295-5075/103/10005
+   Saberi AA, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.178501
+   Saberi AA, 2010, APPL PHYS LETT, V97, DOI 10.1063/1.3502568
+   Saberi AA, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/07/P07030
+   SAHIMI M, 1994, J PHYS I, V4, P1263, DOI 10.1051/jp1:1994107
+   SAHIMI M, 1995, AICHE J, V41, P229, DOI 10.1002/aic.690410205
+   Sahimi M., 1998, Physics Reports, V306, P213, DOI 10.1016/S0370-1573(98)00024-6
+   SAHIMI M, 1993, REV MOD PHYS, V65, P1393, DOI 10.1103/RevModPhys.65.1393
+   Sahimi M, 1996, PHYS REV E, V54, P3870, DOI 10.1103/PhysRevE.54.3870
+   Sahimi M., 1994, APPL PERCOLATION THE
+   Sahimi M., 2003, HETEOGENEOUS MAT LIN, V1
+   Sandler N, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.045309
+   Sapoval B, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.098501
+   SAPOVAL B, 1989, FRACTALS
+   SAYLES RS, 1978, NATURE, V271, P431, DOI 10.1038/271431a0
+   SCHMITTBUHL J, 1993, J PHYS A-MATH GEN, V26, P6115, DOI 10.1088/0305-4470/26/22/014
+   SCHONMANN RH, 1992, ANN PROBAB, V20, P174, DOI 10.1214/aop/1176989923
+   Schramm O, 2000, ISR J MATH, V118, P221, DOI 10.1007/BF02803524
+   Schrenk KJ, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.062141
+   Schrenk KJ, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.052102
+   Schrenk KJ, 2012, SCI REP-UK, V2, DOI 10.1038/srep00751
+   Schrenk KJ, 2012, SCI REP-UK, V2, DOI 10.1038/srep00348
+   Schrenk KJ, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.041136
+   Schrenk K.J., 2014, THESIS ETH ZURICH
+   Schroder M, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms3222
+   Schwartz M, 2001, PHYS REV LETT, V86, P1283, DOI 10.1103/PhysRevLett.86.1283
+   SEDRAKYAN A, 1993, PHYS LETT B, V304, P256, DOI 10.1016/0370-2693(93)90291-O
+   SEDRAKYAN AG, 1984, PHYS LETT B, V137, P397, DOI 10.1016/0370-2693(84)91741-6
+   Shannon MC, 1998, SCIENCE, V280, P1059, DOI 10.1126/science.280.5366.1059
+   Smirnov S, 2001, CR ACAD SCI I-MATH, V333, P239, DOI 10.1016/S0764-4442(01)01991-7
+   Smirnov S., 2007, EUR MATH SOC, V2, P1421
+   Smirnov S, 2010, ANN MATH, V172, P1435
+   Soriano J, 2008, P NATL ACAD SCI USA, V105, P13758, DOI 10.1073/pnas.0707492105
+   SORNETTE D., 2006, CRITICAL PHENOMENA N
+   Sornette D., 2000, CRITICAL PHENOMENA N
+   Spencer J, 2007, COMBINATORICA, V27, P587, DOI 10.1007/s00493-007-2163-2
+   Stanley HE, 1971, INTRO PHASE TRANSITI
+   STARK CP, 1991, NATURE, V352, P423, DOI 10.1038/352423a0
+   Stauffer D, 2009, LECT NOTES PHYS, V762, P1, DOI [10.1007/978-3-540-85428-9_1, 10.1007/978-3-540-85428-9.1]
+   STAUFFER D, 1979, PHYS REP, V54, P1, DOI 10.1016/0370-1573(79)90060-7
+   Stauffer D., 1994, INTRO PERCOLATION TH
+   Steif J, 2009, MINICOURSE PERCOLATI
+   Sun N., 2011, PROBAB SURV, V8
+   SWENDSEN RH, 1987, PHYS REV LETT, V58, P86, DOI 10.1103/PhysRevLett.58.86
+   SYKES MF, 1963, PHYS REV LETT, V10, P3, DOI 10.1103/PhysRevLett.10.3
+   THORPE MF, 1982, EXCITATIONS DISORDER
+   van der Hofstad R., 2010, NEW PERSPECTIVES STO, P173
+   van der Hofstad R, RANDOM GRAPHS COMPLE, VI
+   Vigolo B, 2005, SCIENCE, V309, P920, DOI 10.1126/science.1112835
+   Vorosmarty CJ, 1998, J HYDROL, V207, P147, DOI 10.1016/S0022-1694(98)00109-7
+   Wang JF, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.042102
+   Watts D., 1999, PRINCETON STUDIES CO
+   WATTS DJ, 1998, NATURE, V393, P409, DOI DOI 10.1038/30918
+   Wegener A., 1966, ORIGINS CONTIENTS OC
+   WEINRIB A, 1983, PHYS REV B, V27, P413, DOI 10.1103/PhysRevB.27.413
+   WEINRIB A, 1984, PHYS REV B, V29, P387, DOI 10.1103/PhysRevB.29.387
+   Wieland B, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.056101
+   WIERMAN JC, 1984, J PHYS A-MATH GEN, V17, P1525, DOI 10.1088/0305-4470/17/7/020
+   WOLFF U, 1989, PHYS REV LETT, V62, P361, DOI 10.1103/PhysRevLett.62.361
+   WU FY, 1978, J STAT PHYS, V18, P115, DOI 10.1007/BF01014303
+   WU FY, 1979, J PHYS C SOLID STATE, V12, pL645, DOI 10.1088/0022-3719/12/17/002
+   Zamolodehikov A., 1986, JETP LETT, V43, P730
+   Zhou ZZ, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.061101
+   Ziff A.M., 2006, J PHYS A, V39, P15083
+   Ziff RM, 2013, SCIENCE, V339, P1159, DOI 10.1126/science.1235032
+   Ziff RM, 2012, J PHYS A-MATH THEOR, V45, DOI 10.1088/1751-8113/45/49/494005
+   Ziff RM, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.051105
+   Ziff RM, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.045701
+NR 322
+TC 110
+Z9 110
+U1 14
+U2 157
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-1573
+EI 1873-6270
+J9 PHYS REP
+JI Phys. Rep.-Rev. Sec. Phys. Lett.
+PD MAY 24
+PY 2015
+VL 578
+BP 1
+EP 32
+DI 10.1016/j.physrep.2015.03.003
+PG 32
+WC Physics, Multidisciplinary
+SC Physics
+GA CI8XU
+UT WOS:000355055800001
+HC Y
+HP N
+DA 2019-03-26
+ER

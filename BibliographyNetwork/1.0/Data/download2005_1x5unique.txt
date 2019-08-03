@@ -1,0 +1,412 @@
+
+PT J
+AU Victoria, FB
+   Viegas, JS
+   Pereira, LS
+   Teixeira, JL
+   Lanna, AE
+AF Victoria, FB
+   Viegas, JS
+   Pereira, LS
+   Teixeira, JL
+   Lanna, AE
+TI Multi-scale modeling for water resources planning and management in
+   rural basins
+SO AGRICULTURAL WATER MANAGEMENT
+LA English
+DT Article; Proceedings Paper
+CT 6th International Conference on Environment and Water
+CY 2003
+CL Albacete, SPAIN
+DE water resources allocation; multi-scaling integration; demand
+   simulation; irrigation; Brazil
+AB This study aims at adopting modeling tools focusing multi-scale problem solving in basins with irrigation water uses. Multi-scaling may help conflict solving since an approach to the scale close to that where conflicts occur is more appropriate for understanding and dealing with related problems. It mainly applies to rural basins where competition among agricultural and non-agricultural uses is high during periods when water availability is scarce. The approach refers to the field scale modeling relative to agricultural demand considering soils, crops and crop patterns, cropping techniques, environment factors, irrigation practices and restrictions to water use (ISAREG model), and basin scale water resource planning models including non-agricultural uses-urban, domestic, industrial, recreational and other uses (SAGBAH model). Analyses of scenarios require then a multi-scale approach. It results a tool that produces a distributed spatial analysis of the agricultural demand, while non-agricultural uses refer to sub-basins. Simplicity in model operation is aimed. The model operates interactively, sharing results from the sub-models, in order to obtain the information required to define strategies for crop irrigation management and to assess impacts on the non-agricultural users, and to generate rules for water allocation in the basin. The inulti-scale analyses allows to improve knowledge on the processes relative to water use, to understand spatial and temporal variations, to simulate with historical data and for different scenarios, including those that may result from climate change. Furthermore, the software system works in a serni-automatic way allowing the user to interact along all computations steps, particularly relative to the interaction among scales. Selected results are included in this paper. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Univ Tecn Lisboa, Inst Agron, Agr Engn Res Ctr, P-1349017 Lisbon, Portugal.
+   CEPAF, EPAGRI, Santa Catarina, Brazil.
+   Univ Fed Pelotas, Pelotas, Rio Grande Sul, Brazil.
+   Univ Fed Rio Grande do Sul, Porto Alegre, RS, Brazil.
+RP Pereira, LS (reprint author), Univ Tecn Lisboa, Inst Agron, Agr Engn Res Ctr, Tapada Ajuda, P-1349017 Lisbon, Portugal.
+EM fvictoria@isa.utl.pt; jsviegas@uol.com.br; lspereira@isa.utl.pt;
+   jlteixeira@isa.utl.pt; lanna@uol.com.br
+RI Pereira, Luis/F-8799-2010
+OI Pereira, Luis/0000-0003-4425-3408; Teixeira, Jose/0000-0002-0070-0395
+CR Alba I, 2003, WATER SCI TECHNOL LI, V44, P223
+   Allen R. G., 1998, FAO Irrigation and Drainage Paper
+   *CGIAR, 2002, CGIAR CHALL PROGR WA
+   DOORENBOS J, 1979, 33 FAO
+   FAO (Food and Agricultural Organization of the United Nation), 2002, CROPS DROPS MAK BEST
+   FILHO JSV, 2003, REV BRASILEIRA RECUR, V8, P79
+   FILHO JSV, 1999, 13 S BRAS REC HIDR A
+   FILHO JSV, 2003, REV BRASILEIRA RECUR, V8, P91
+   FILHO JSV, 2000, THESIS IPH UFRGS
+   FILHO JSV, 2001, 14 S BRAS REC HIDR A
+   Fortes PS, 2005, AGR WATER MANAGE, V77, P159, DOI 10.1016/j.agwat.2004.09.042
+   GONCALVES JM, 2003, WATER SAVINGS YELLOW, P247
+   GONCALVES JM, 2002, 2002 ASAE ANN INT M
+   LANNA AE, 1997, AGUA REV, V5, P24
+   LANNA AE, 1997, SAGBAH SISTEMA APOIO
+   Liu Y, 1998, AGR WATER MANAGE, V36, P233, DOI 10.1016/S0378-3774(97)00051-6
+   MOLDEN D, 2001, 32 IWMI
+   Pereira L.S., 2003, PARTICIPATORY MANAGE, P1
+   Pereira LS, 2003, WATER SCI TECHNOL LI, V44, P161
+   Pereira LS, 2002, AGR WATER MANAGE, V57, P175, DOI 10.1016/S0378-3774(02)00075-6
+   Perez JAA, 2002, FISH RES, V58, P267, DOI 10.1016/S0165-7836(01)00397-6
+   PERRY CJ, 1998, 24 IWMI
+   PILAR JV, 1999, REV BRASILEIRA RECUR, V4, P61
+   Rodrigues PN, 2003, WATER SCI TECHNOL LI, V44, P203
+   ROSEGRANT MW, 2001, INT C FRESHW GDI IFP
+   *SCS, 1982, NAT ENG HDB USDA SOI
+   Seckler D., 1998, 19 IWMI
+   Stewart J. I., 1976, WATER PRODUCTION FUN
+   STRZEPEK K, 2001, 3 IWMI
+   Teixeira J. L., 1992, ICID Bulletin, V41, P29
+   TROGER FH, 2002, THESIS IPH UFRGS
+   UNEP, 2002, GLOB ENV OUTL 3 PAST
+   VICTORIA FRB, 2001, COMPETITIVE USE CONS, P46
+   VICTORIA FRB, 1998, IRREGULARIDADE DISTR
+   World Bank, 2003, SUST DEV DYN WORLD T
+   Zairi A, 2003, WATER SCI TECHNOL LI, V44, P181
+NR 36
+TC 22
+Z9 22
+U1 0
+U2 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-3774
+EI 1873-2283
+J9 AGR WATER MANAGE
+JI Agric. Water Manage.
+PD AUG 22
+PY 2005
+VL 77
+IS 1-3
+BP 4
+EP 20
+DI 10.1016/j.agwat.2004.09.037
+PG 17
+WC Agronomy; Water Resources
+SC Agriculture; Water Resources
+GA 950OZ
+UT WOS:000230868100002
+DA 2019-03-26
+ER
+
+PT J
+AU Bartels, CR
+   Wilf, M
+   Andes, K
+   Iong, J
+AF Bartels, CR
+   Wilf, M
+   Andes, K
+   Iong, J
+TI Design considerations for wastewater treatment by reverse osmosis
+SO WATER SCIENCE AND TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT Conference on Water Environment-Membrane Technology
+CY JUN 07-10, 2004
+CL Seoul, SOUTH KOREA
+SP IWA
+DE fouling; low-fouling membranes; reverse osmosis; wastewater treatment
+ID MUNICIPAL; MEMBRANE
+AB Reverse Osmosis is finding increasing use for the treatment of municipal and industrial wastewaters due to the growing demand for high quality water in large urban areas, The growing success of membranes in this application is related to improved process designs and improved membrane products. Key factors which have been determined to result in successful operation of large-scale plants will be discussed. Factors which play a key role in the use of RO membranes include ultra or microfiltration pretreatment, low fouling membranes, flux rate, recovery and control of fouling and scaling. In particular, high flux rates can be used when UF or MF pretreatment is used. These technologies remove most of the suspended particles that would normally cause heavy fouling of lead elements. Typically, fluxes in the range of 17 - 21 lmh lead to cleaning frequencies in the range of 3 - 4 months. By combining the use of membrane pretreatment and chloramination of the feed water through chlorine addition, two of the primary sources of RO membrane fouling can be controlled. The use of chloramine has become a proven means to control biofouling in a membrane for wastewater applications. The other significant problems for RO membranes result from organics fouling by dissolved organics and scaling due to saturation of marginally soluble salts. The former can be a significant problem for membranes, due to the strong attraction forces. To some extent, these can be mitigated by making the membrane surface more hydrophilic or changing the charge of the membrane surface. To minimize fouling, many plants are turning to low fouling membranes. Extensive studies have demonstrated that the membrane surface is hydrophilic, neutrally charged over a broad pH range, and more resistant to organic adsorption. Also, an analysis of the potential scaling issues will be reviewed. In particular, calcium phosphate has been found to be one of the key scalants that will limit RO system recovery rate. Calcium phosphate concentrations can reach high values in many wastewaters, and scaling of this compound is not often modeled in most RO projection software. Various process options will be presented to evaluate the most economic means of avoiding phosphate scaling. Finally, data from major RO wastewater treatment plants will be presented to show how the RO membranes operate under actual conditions, utilizing many of these design features. Long term data from the 2.6 mgd Bedok demonstration Plant demonstrate that the RO membranes operate consistently on wastewater. Experiences from the 8.5 mgd (32,000 m(3)/day) Bedok and 10.5 mgd (40,000 m(3)/day) Kranji plants will also be presented. These large plants started operation in the fall of 2002 and have demonstrated an effective means to reclaim high quality water from difficult source waters, such as municipal wastewaters.
+C1 Hydranautics, Oceanside, CA 92054 USA.
+   Hydranautics, Perth, WA 6067, Australia.
+   Hydranautics, Singapore 169074, Singapore.
+RP Bartels, CR (reprint author), Hydranautics, 401 Jones Rd, Oceanside, CA 92054 USA.
+CR ALEXANDER K, 2003, P 2003 AWWA MEMB TEC
+   BERGMAN RA, 2003, P 2003 AWWA MEMB TEC
+   CROOK RJ, 2002, P 2002 AWWA ANN C SA
+   Durham B, 2001, DESALINATION, V138, P83, DOI 10.1016/S0011-9164(01)00248-X
+   GAGLIARDO P, 2001, 2001 AM WAT WORKS AS
+   Ikeda K, 1999, J CHEM ENG JPN, V32, P581, DOI 10.1252/jcej.32.581
+   LESLIE GL, COMMUNICATION
+   Wilf M, 2000, DESALINATION, V132, P11, DOI 10.1016/S0011-9164(00)00130-2
+   YILEGAR MB, 2002, ULTRAPURE WATER  SEP, P25
+NR 9
+TC 79
+Z9 82
+U1 1
+U2 33
+PU I W A PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 0273-1223
+J9 WATER SCI TECHNOL
+JI Water Sci. Technol.
+PY 2005
+VL 51
+IS 6-7
+BP 473
+EP 482
+PG 10
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA 939EH
+UT WOS:000230054700057
+PM 16004010
+DA 2019-03-26
+ER
+
+PT S
+AU Holevas, K
+   Bonazountas, M
+   Sabanegh, R
+AF Holevas, K
+   Bonazountas, M
+   Sabanegh, R
+BE Brebbia, CA
+   Bucciarelli, T
+   Garzia, F
+   Guarascio, M
+TI Urban risk assessment and management in the enlarged EU, recent status
+   and trends
+SO Safety and Security Engineering
+SE WIT TRANSACTIONS ON THE BUILT ENVIRONMENT
+LA English
+DT Proceedings Paper
+CT 1st International Conference on Safety and Security Engineering
+CY JUN 13-15, 2005
+CL Rome, ITALY
+SP Vatican City State, Senate Republic, Chamber Deputies, Presidency Council Minist Italy, CNR, Italy, Presidency Council Minist, Dept Civil Protect, Natl Inst Nucl Phys, Natl Inst Geophys & Volcanol, Minist Innovat & Technologies, Minist Commun, Univ & Res, Minist Educ, Minist Environm, Minist Hlth, Minist Infrastruct & Transport, Minist Product Activities, Natl Council Engineers, FASTIGI Consortium, WIT Transact Built Environm, Wessex Inst Technol, Univ Rome La Sapienza, Fac Engn, Natl Fire Dept
+DE security; risk mitigation; urban risk; risk assessment; risk management;
+   strategy elements; terrorism; urbanisation; emergency response.
+AB A detailed qualitative study on assessing and managing urban risks, co-financed by the European Commission (EC), is in progress. Key findings and preliminary results underline the importance of safety and security issues for urban life quality. This paper presents the findings of this study aiming at proposing a European wide strategy for Urban Risks assessment and management by taking into account legal status and current practices at EU 25. A structured questionnaire was addressed to National Authorities aiming to gain an insight into existing law provisions, emergency planning and urban risk management practices. An analysis of the replies highlighted the diversity of both urban risks and emergency management structures. The risks investigated cover a range from natural catastrophes and technological failures to terrorism and intended actions threats. Risks were ranked by priority according to frequency of occurrence and consequences. The scaling of hazards, the identification and mapping of risks, the severity of consequences and matters concerning mutual assistance in major emergencies are identified as the priority fields. A refined version of the results, following consultations with the parties involved and the EC forms the basis of the project proposals.
+   The complexity of the modem urban Environment, urbanisation trends, increasing vulnerability and the different approaches in dealing with urban risks, indicate a clear need for a common platform and a unified approach across the EU. Basic components of a suggested unified approach and an EU wide mitigation strategy are also discussed.
+CR *EPA, 2002, ENV SIGN ANN REP
+   Sanderson D, 2000, ENVIRON URBAN, V12, P93, DOI 10.1177/095624780001200208
+   *UN HABITAT, 2004, 2 SESS WORLD URB FOR
+   United Nations Development Program/ Bureau of Crisis Prevention and Recovery (UNDP/ BCPR), 2004, RED DIS RISK CHALL D
+   WAMSLER C, 2004, GLOBAL BUILT ENV REV, V4, P11
+   2002, ENV URBANIZATION, V14
+NR 6
+TC 0
+Z9 0
+U1 1
+U2 4
+PU WIT PRESS
+PI SOUTHAMPTON
+PA ASHURST LODGE, SOUTHAMPTON SO40 7AA, ASHURST, ENGLAND
+SN 1746-4498
+BN 1-84564-019-5
+J9 WIT TRANS BUILT ENV
+PY 2005
+VL 82
+BP 223
+EP 232
+PG 10
+WC Engineering, Multidisciplinary
+SC Engineering
+GA BCZ14
+UT WOS:000232028700023
+DA 2019-03-26
+ER
+
+PT J
+AU Benedetti, L
+   Blumensaat, F
+   Bonisch, G
+   Dirckx, G
+   Jardin, N
+   Krebs, P
+   Vanrolleghem, PA
+AF Benedetti, L
+   Blumensaat, F
+   Bonisch, G
+   Dirckx, G
+   Jardin, N
+   Krebs, P
+   Vanrolleghem, PA
+TI Systems analysis of urban wastewater systems - two systematic approaches
+   to analyse a complex system
+SO WATER SCIENCE AND TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 4th World Water Congress of the International-Water-Association
+CY SEP 19-24, 2004
+CL Marrakesh, MOROCCO
+SP Int Water Assoc, AMEPA, ONEP, LYDEC
+DE systems analysis; integrated urban wastewater management; substance flow
+   analysis; WFD; benchmarking; scaling problem
+AB This work was aimed at performing an analysis of the integrated urban wastewater system (catchment area, sewer, WWTP, receiving water). It focused on analysing the substance fluxes going through the system to identify critical pathways of pollution, as well as assessing the effectiveness of energy consumption and operational/capital costs. Two different approaches were adopted in the study to analyse urban wastewater systems of diverse characteristics. In the first approach a wide ranged analysis of a system at river basin scale is applied. The Nete river basin in Belgium, a tributary of the Schelde, was analysed through the 29 sewer catchments constituting the basin. In the second approach a more detailed methodology was developed to separately analyse two urban wastewater systems situated within the Ruhr basin (Germany) on a river stretch scale. The paper mainly focuses on the description of the method applied. Only the most important results are presented. The main outcomes of these studies are: the identification of stressors on the receiving water bodies, an extensive benchmarking of wastewater systems, and the evidence of the scale dependency of results in such studies.
+C1 Univ Ghent, BIOMATH, B-9000 Ghent, Belgium.
+   Dresden Univ Technol, Inst Urban Water Management, D-01062 Dresden, Germany.
+   Aquafin NV, Dept Technol, B-2630 Aartselaar, Belgium.
+   Ruhrverband Essen, D-45128 Essen, Germany.
+RP Benedetti, L (reprint author), Univ Ghent, BIOMATH, Coupure Links 653, B-9000 Ghent, Belgium.
+RI Vanrolleghem, Peter/E-1784-2011
+OI Vanrolleghem, Peter/0000-0003-1695-1313
+CR Balkema A.J., 2002, URBAN WATER, V4, P153, DOI DOI 10.1016/S1462-0758(02)00014-6
+   Belevi H., 2002, MAT FLOW ANAL STRATE
+   Danius L., 2001, P 15 INT S INF ENV P
+   FINNVEDEN G, 2001, P WORKSH EC GROWTH M
+   JARDIN N, 2003, P REG MISCHW SEM WUR
+   Jeppsson U, 2002, WATER SCI TECHNOL, V46, P121
+   Lampert C, 1999, WATER SCI TECHNOL, V40, P43, DOI 10.1016/S0273-1223(99)00673-3
+   Larsen T. A., 1999, EAWAG NEWS, V46, P21
+   LINDQVISTOSTBLO.A, 2001, P WORKSH EC GROWTH M
+   Schlutter F, 2003, WATER SCI TECHNOL, V47, P149
+   *VMM, 2001, GEN WAT QUAL PLAN, V2
+NR 11
+TC 2
+Z9 2
+U1 0
+U2 6
+PU I W A PUBLISHING
+PI LONDON
+PA ALLIANCE HOUSE, 12 CAXTON ST, LONDON SW1H0QS, ENGLAND
+SN 0273-1223
+J9 WATER SCI TECHNOL
+JI Water Sci. Technol.
+PY 2005
+VL 52
+IS 12
+BP 171
+EP 179
+PG 9
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA 011MY
+UT WOS:000235273600020
+PM 16477984
+DA 2019-03-26
+ER
+
+PT J
+AU Efroymson, RA
+   Dale, VH
+   Baskaran, LM
+   Chang, M
+   Aldridge, M
+   Berry, MW
+AF Efroymson, RA
+   Dale, VH
+   Baskaran, LM
+   Chang, M
+   Aldridge, M
+   Berry, MW
+TI Planning transboundary ecological risk assessments at military
+   installations
+SO HUMAN AND ECOLOGICAL RISK ASSESSMENT
+LA English
+DT Article
+DE ecological risk assessment; regional risk assessment; problem
+   formulation; military; scaling
+ID ALTITUDE AIRCRAFT OVERFLIGHTS; ASSESSMENT FRAMEWORK; CONCEPTUAL MODELS;
+   ECOSYSTEMS; LANDSCAPE; MANAGEMENT; SCALE; USA; IMPAIRMENTS; WILDLIFE
+AB Ecological risk assessments at military installations that are performed to support natural resources management objectives rely on information from the surrounding region. Stressors such as noise, ozone, and ozone precursors cross installation boundaries, and effects of urbanization and highway development are regional in scale. Ecological populations are not limited to one side of the installation boundary. Therefore, a framework for transboundary ecological risk assessment at military installations is under development. This article summarizes the problem formulation stage. Components include: (1) regional management goals such as installation Integrated Natural Resources Management Plans and land acquisition, (2) involvement of multiple stressors, and (3) large-scale assessment endpoint entities. Challenges of selecting measures of exposure include: quantifying exposure to aggregate stressors, describing land cover consistently in the region, describing rates of land-cover transition, scaling local measurements to a region, and aggregating or isolating exposures from within and outside of the installation. Measures of effect that are important to transboundary or regional ecological risk assessments at military installations are those that represent: effects at a distance from the stressor, large-scale effects, effects of habitat change or fragmentation, spatial extrapolations of localized effects, and integrated effects of multiple stressors. These factors are reflected in conceptual models.
+C1 Oak Ridge Natl Lab, Div Environm Sci, Oak Ridge, TN 37831 USA.
+   Georgia Inst Technol, Sch Earth & Atmospher Sci, Atlanta, GA 30332 USA.
+   Univ Tennessee, Dept Comp Sci, Knoxville, TN 37996 USA.
+RP Efroymson, RA (reprint author), Oak Ridge Natl Lab, Div Environm Sci, Oak Ridge, TN 37831 USA.
+EM efroymsonra@ornl.gov
+RI Baskaran, Latha/D-9754-2016; Dale, Virginia/B-6023-2009
+OI Baskaran, Latha/0000-0001-8487-3914; Efroymson,
+   Rebecca/0000-0002-3190-880X; Berry, Michael/0000-0002-9191-9148
+CR *AFCEE, 2004, USAF NOIS 6 5
+   Andelman SJ, 2004, SCIENCE, V305, P1565
+   BEATY TA, 1996, FED FACIL ENV J, V14, P43
+   Berry M., 1994, IEEE Computational Science and Engineering, V1, P24, DOI 10.1109/99.326668
+   Carlsen TM, 2004, ENVIRON TOXICOL CHEM, V23, P798, DOI 10.1897/02-202
+   Carpenter DE, 2000, ENVIRON TOXICOL CHEM, V19, P1076
+   CONSTANTIN JM, 1997, INT J SUPERCOMPUTER, V11, P31
+   Cormier SM, 2003, HUM ECOL RISK ASSESS, V9, P1431, DOI 10.1080/10807030390250930
+   Crooks KR, 2004, BIOL CONSERV, V115, P451, DOI 10.1016/S0006-3207(03)00162-9
+   DALE V, IN PRESS FUTURES
+   Dale VH, 2000, SPATIAL INFORMATION FOR LAND USE MANAGEMENT, P159
+   Dale VH, 2002, CAM STU LAN, P265, DOI 10.1017/CBO9780511613654.015
+   DEBUSSCHE M, 1977, AGRO-ECOSYSTEMS, V3, P81
+   Demarais Stephen, 1999, V16, P385
+   *DOD USFWS, 2002, INT NAT RES MAN PLAN
+   Drake D, 2002, WILDLIFE SOC B, V30, P121
+   Efroymson RA, 2001, RISK ANAL, V21, P251, DOI 10.1111/0272-4332.212109
+   Efroymson RA, 2001, RISK ANAL, V21, P263, DOI 10.1111/0272-4332.212110
+   Efroymson RA, 2004, ENVIRON MANAGE, V34, P315, DOI 10.1007/s00267-004-0089-7
+   EFROYMSON RA, IN PRESS ECOTOXICOLO
+   EFROYMSON RA, 2001, ORNLTM2001
+   *ERDC US ARM CORPS, 2004, BNOISE2 NOIS IMP ASS
+   *FL DCA DEP COMM A, 2004, MIL BILL SUPP COORD
+   Forman R. T. T., 2003, ROAD ECOLOGY SCI SOL
+   Forman RTT, 2000, CONSERV BIOL, V14, P36, DOI 10.1046/j.1523-1739.2000.99088.x
+   FREEMARK KG, 1986, BIOL CONSERV, V37, P115
+   *GAO, 2002, GAO02614
+   *GDCA, 2002, DEV REG IMP TIERS DE
+   Gentile JH, 2001, SCI TOTAL ENVIRON, V274, P231, DOI 10.1016/S0048-9697(01)00746-X
+   GERWIN V, 2004, FRONTIERS ECOL, V2, P174
+   GRAHAM RL, 1991, ECOL APPL, V1, P196, DOI 10.2307/1941812
+   Haire SL, 2000, LANDSCAPE URBAN PLAN, V48, P65, DOI 10.1016/S0169-2046(00)00044-X
+   HOUSTON ST, 2001, FED FACIL ENV J, V12, P93, DOI DOI 10.1002/FFEJ.3330120110
+   JAMES FC, 1990, RED COCKADED WOODPEC, P439
+   Johnson WC, 2004, BIOL CONSERV, V115, P487, DOI 10.1016/S0006-3207(03)00165-4
+   Kelson AR, 1999, ENVIRON MANAGE, V23, P297, DOI 10.1007/s002679900187
+   KOLAKOWSKI K, 2000, DEV REGIONAL IMPACT
+   Krausman PR, 2002, Z JAGDWISS, V48, P140, DOI 10.1007/BF02192401
+   Landis WG, 1997, HUM ECOL RISK ASSESS, V3, P287, DOI 10.1080/10807039709383685
+   Leslie M., 1996, CONSERVING BIODIVERS
+   Leyva R. I., 2002, ENDANGERED SPECIES M
+   Limburg KE, 2002, ECOL ECON, V41, P409, DOI 10.1016/S0921-8009(02)00090-3
+   Mann LK, 1999, ECOSYSTEMS, V2, P524, DOI 10.1007/s100219900100
+   McKee M, 2001, ENVIRON MANAGE, V27, P123, DOI 10.1007/s002670010138
+   Moraes R, 2002, HUM ECOL RISK ASSESS, V8, P1779, DOI 10.1080/20028091057600
+   Norton SB, 2003, HUM ECOL RISK ASSESS, V9, P213, DOI 10.1080/713609860
+   OBER HK, 2000, WILDL SOC 7 ANN C 12
+   RASTETTER EB, 1992, ECOL APPL, V2, P55, DOI 10.2307/1941889
+   REIJNEN R, 1995, J APPL ECOL, V32, P187, DOI 10.2307/2404428
+   SAMPLE BE, 1997, 97140 USACERL
+   *SEMP, 2004, SEMP DAT REP
+   Suter GW, 2002, ENVIRON TOXICOL CHEM, V21, P1101, DOI 10.1002/etc.5620210602
+   Suter GW, 1999, HUM ECOL RISK ASSESS, V5, P375
+   Suter GW, 1999, HUM ECOL RISK ASSESS, V5, P397
+   SUTER GW, 2000, ECOLOGICAL RISK ASS
+   SUTER GW, 2002, ORNLTM2002295
+   Tazik DJ, 2002, ARID LAND RES MANAG, V16, P259, DOI [10.1080/153249802760284801, 10.1080/15324980290000386]
+   TOBIN M, 2004, ARIZONA DAILY S 0307
+   TURNER MG, 1988, APPL MATH COMPUT, V27, P39
+   Underwood E, 2003, REMOTE SENS ENVIRON, V86, P150, DOI 10.1016/S0034-4257(03)00096-8
+   *US ARM LEG SERV A, 1996, 1996 MAN GUID RED CO
+   *US DEP COMM EC ST, 2002, REP DEP TREAS EMPL S, P1
+   *USACHPPM, 2004, BNOISE2
+   *USAEC, 2003, N CAR SANDH CONS PAR
+   *USAEC, 2003, PRIV LANDS IN PLI FA
+   *USEPA, 2004, REG VULN ASS REVA PR
+   *USEPA, 1998, EPA630R95002F US
+   *USEPA, 1996, EPA600P93004ACF OFF
+   *USFWS, 1981, 103 ESM USFWS
+   USFWS [UNITED STATES FISH AND WILDLIFE SERVICE], 2003, REC PLAN REDC WOODP
+   Walker R, 2001, HUM ECOL RISK ASSESS, V7, P417, DOI 10.1080/20018091094439
+   Walters JR, 2002, ECOL APPL, V12, P249, DOI 10.2307/3061150
+   WASHINGTONALLEN RA, IN PRESS RANGELAND E
+   *WASM CONS, 2003, ADD NOIS INM NOIS GR
+   Wiegers JK, 1998, HUM ECOL RISK ASSESS, V4, P1125, DOI 10.1080/10807039891285036
+   Woodbury PB, 2002, ECOL MODEL, V150, P211, DOI 10.1016/S0304-3800(01)00465-3
+   Woodbury PB, 2003, ENVIRON TOXICOL CHEM, V22, P977, DOI 10.1897/1551-5028(2003)022<0977:DADOSE>2.0.CO;2
+   2000, LEDGER ENQUIRER 0818
+NR 78
+TC 5
+Z9 5
+U1 0
+U2 7
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1080-7039
+EI 1549-7860
+J9 HUM ECOL RISK ASSESS
+JI Hum. Ecol. Risk Assess.
+PD DEC
+PY 2005
+VL 11
+IS 6
+BP 1193
+EP 1215
+DI 10.1080/10807030500346722
+PG 23
+WC Biodiversity Conservation; Environmental Sciences
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA 993PP
+UT WOS:000233967700011
+DA 2019-03-26
+ER

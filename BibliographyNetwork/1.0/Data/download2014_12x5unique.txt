@@ -1,0 +1,517 @@
+
+PT J
+AU Antonio, FJ
+   de Picoli, S
+   Teixeira, JJV
+   Mendes, RD
+AF Antonio, Fernando Jose
+   de Picoli, Sergio, Jr.
+   Vieira Teixeira, Jorge Juarez
+   Mendes, Renio dos Santos
+TI Growth Patterns and Scaling Laws Governing AIDS Epidemic in Brazilian
+   Cities
+SO PLOS ONE
+LA English
+DT Article
+ID TRANSMISSION DYNAMICS; REPRODUCTION NUMBER; HIV AIDS; INFECTION;
+   NETWORKS; AFRICA; SPREAD; IMPACT; VIRUS; CURVE
+AB Brazil holds approximately 1/3 of population living infected with AIDS (acquired immunodeficiency syndrome) in Central and South Americas, and it was also the first developing country to implement a large-scale control and intervention program against AIDS epidemic. In this scenario, we investigate the temporal evolution and current status of the AIDS epidemic in Brazil. Specifically, we analyze records of annual absolute frequency of cases for more than 5000 cities for the first 33 years of the infection in Brazil. We found that (i) the annual absolute frequencies exhibit a logistic-type growth with an exponential regime in the first few years of the AIDS spreading; (ii) the actual reproduction number decaying as a power law; (iii) the distribution of the annual absolute frequencies among cities decays with a power law behavior; (iv) the annual absolute frequencies and the number of inhabitants have an allometric relationship; (v) the temporal evolution of the annual absolute frequencies have different profile depending on the average annual absolute frequencies in the cities. These findings yield a general quantitative description of the AIDS infection dynamics in Brazil since the beginning. They also provide clues about the effectiveness of treatment and control programs against the infection, that has had a different impact depending on the number of inhabitants of cities. In this framework, our results give insights into the overall dynamics of AIDS epidemic, which may contribute to select empirically accurate models.
+C1 [Antonio, Fernando Jose; de Picoli, Sergio, Jr.; Mendes, Renio dos Santos] Univ Estadual Maringa, Dept Fis, Maringa, Parana, Brazil.
+   [Antonio, Fernando Jose; de Picoli, Sergio, Jr.; Mendes, Renio dos Santos] Natl Inst Sci & Technol Complex Syst, Maringa, Parana, Brazil.
+   [Vieira Teixeira, Jorge Juarez] Univ Estadual Maringa, Dept Anal Clin & Biomed, Maringa, Parana, Brazil.
+RP Antonio, FJ (reprint author), Univ Estadual Maringa, Dept Fis, Maringa, Parana, Brazil.
+EM fja@dfi.uem.br
+RI Antonio, Fernando/D-3024-2016
+OI Antonio, Fernando/0000-0001-6931-3046
+CR Acuna-Soto R, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023467
+   Alsallaq RA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0054575
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Amundsen EJ, 2004, EPIDEMIOL INFECT, V132, P1139, DOI 10.1017/S095028804002997
+   BAILEY NTJ, 1988, J ROY STAT SOC A STA, V151, P31, DOI 10.2307/2982180
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Beyrer C, 2010, EPIDEMIOL REV, V32, P137, DOI 10.1093/epirev/mxq011
+   BOR R, 1993, J FAM THER, V15, P187, DOI 10.1111/j.1467-6427.1993.00753.x
+   Coe JB, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.051925
+   CURRAN JW, 1988, SCIENCE, V239, P610, DOI 10.1126/science.3340847
+   Fonseca MGP, 2007, CAD SAUDE PUBLICA, V23, pS333, DOI 10.1590/S0102-311X2007001500002
+   Gaillard JM, 1997, P ROY SOC B-BIOL SCI, V264, P859, DOI 10.1098/rspb.1997.0120
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Gompertz B., 1825, PHILOS T ROY SOC LON, V115, P513, DOI DOI 10.1098/RSTL.1825.0026
+   Gran JM, 2008, STAT MED, V27, P4819, DOI 10.1002/sim.3219
+   Grangeiro A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0014585
+   Grangeiro A, 2010, REV SAUDE PUBL, V44, P430, DOI 10.1590/s0034-89102010005000013
+   Hall HI, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012756
+   Hayes R, 2006, SCIENCE, V311, P620, DOI 10.1126/science.1124072
+   KREISS JK, 1986, NEW ENGL J MED, V314, P414, DOI 10.1056/NEJM198602133140704
+   Lipsitch M, 2003, SCIENCE, V300, P1966, DOI 10.1126/science.1086616
+   Malacarne L. C., 2001, PHYS REV E, V65, DOI DOI 10.1103/PhysRevE.65.017106
+   Meiners C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023478
+   Morris M, 1997, AIDS, V11, P641, DOI 10.1097/00002030-199705000-00012
+   Moura NJ, 2006, PHYSICA A, V367, P441, DOI 10.1016/j.physa.2005.11.038
+   Murray J. D., 2002, MATH BIOL
+   NELDER JA, 1961, BIOMETRICS, V17, P89, DOI 10.2307/2527498
+   Neumann G, 2009, NATURE, V459, P931, DOI 10.1038/nature08157
+   Newman MEJ, 2002, PHYS REV E, V66, DOI [10.1103/PhysRevE.66.035101, 10.1103/PhysRevE.66.016128]
+   Ni SJ, 2008, PHYSICA A, V387, P5295, DOI 10.1016/j.physa.2008.05.051
+   Ni SJ, 2011, PHYSICA A, V390, P4528, DOI 10.1016/j.physa.2011.07.042
+   Niklas KJ, 2004, BIOL REV, V79, P871, DOI 10.1017/S1464793104006499
+   Nishiura H, 2010, INT J ENV RES PUB HE, V7, P291, DOI 10.3390/ijerph7010291
+   Nunn AS, 2007, PLOS MED, V4, P1804, DOI 10.1371/journal.pmed.0040305
+   Porco TC, 2004, AIDS, V18, P81, DOI 10.1097/01.aids.0000096872.36052.24
+   Quinn TC, 1996, LANCET, V348, P99, DOI 10.1016/S0140-6736(96)01029-X
+   Riley S, 2003, SCIENCE, V300, P1961, DOI 10.1126/science.1086478
+   Teixeira PR, 2004, AIDS, V18, pS5, DOI 10.1097/01.aids.0000131318.67773.c7
+   UNAIDS, 2010, UNAIDS REP GLOB AIDS
+   UNAIDS, AH WORLD AIDS DAY 20
+   Vogl D, 1999, J PAIN SYMPTOM MANAG, V18, P253, DOI 10.1016/S0885-3924(99)00066-4
+   Walker BD, 2008, SCIENCE, V320, P760, DOI 10.1126/science.1152622
+   Wallenstein S, 2004, AM J SURG, V188, p73S, DOI 10.1016/S0002-9610(03)00294-0
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   Winsor CP, 1932, P NATL ACAD SCI USA, V18, P1, DOI 10.1073/pnas.18.1.1
+NR 45
+TC 4
+Z9 4
+U1 0
+U2 6
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 23
+PY 2014
+VL 9
+IS 10
+AR e111015
+DI 10.1371/journal.pone.0111015
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AR5ZY
+UT WOS:000343662800079
+PM 25340796
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Farkas, A
+AF Farkas, Andras
+TI An Interaction-based Scenario and Evaluation of Alternative-Fuel Modes
+   of Buses
+SO ACTA POLYTECHNICA HUNGARICA
+LA English
+DT Article
+DE alternative-fuel modes; multi-attribute decision making; cross-impact
+   analysis
+ID SYSTEMS; TRANSPORTATION; FUTURE; IMPACT; KSIM
+AB The problem of alternative-fuel modes of buses used for public transportation in urban areas is considered. Classification and characteristics of these vehicles are discussed in detail. A multi-criteria decision analysis (MCDA) method called MAROM is used to rank and evaluate the alternative-fuel modes of buses for an empirical study taken from the literature. Numerical results are compared to those generated from a classical MCDA method called TOPSIS. Exploring causal effects, cross-impacts between the fuel modes are formulated and trend projections are made using a dynamic simulation model. Findings for the expected changes in the characteristics of the alternative-fuel modes in the long-run are then analyzed. Finally, the formal description of the scaling method MAROM is also presented.
+C1 Obuda Univ, Fac Business & Econ, H-1084 Budapest, Hungary.
+RP Farkas, A (reprint author), Obuda Univ, Fac Business & Econ, Tavaszmezo Utca 17, H-1084 Budapest, Hungary.
+EM farkas.andras@kgk.uni-obuda.hu
+CR [Anonymous], 2002, ACH SUST TRANSP WORL
+   [Anonymous], 2013, 6 SWD EUR COMM 1
+   [Anonymous], ALT FUELS DAT BAS
+   BURNS JR, 1979, TECHNOL FORECAST SOC, V14, P387, DOI 10.1016/0040-1625(79)90036-2
+   Chen SJ, 1992, FUZZY MULTIPLE ATTRI
+   COOK WD, 1982, MANAGE SCI, V28, P621, DOI 10.1287/mnsc.28.6.621
+   Dzurik A., 2005, MASS TRANSIT SUSTAIN
+   European Commission, 2005, TECHNICAL REPORT
+   Farkas A., 1994, BUSINESS RES MANAGEM, P74
+   Farkas A., 2013, P 11 INT C MAN ENT B, P181
+   Fowler T.M., 1995, ELECT BUS OPERATION, P74
+   GUR Y, 1979, TECHNOL FORECAST SOC, V14, P399, DOI 10.1016/0040-1625(79)90037-4
+   Hikino K., 2000, JARI RES J, V22, P35
+   Hu A.H., ENERGY POLICY
+   Hwang C, 1981, MULTIPLE ATTRIBUTE D
+   KANE J, 1972, TECHNOL FORECAST SOC, V4, P129, DOI 10.1016/0040-1625(72)90010-8
+   Kazimi C, 1997, J ENVIRON ECON MANAG, V33, P163, DOI 10.1006/jeem.1997.0984
+   Kimura S., 2000, J SOC AUTOMOTIVE ENG, V54, P56
+   Lin C. W., 2009, J MULTICRITERIA DECI, V16, P5, DOI DOI 10.1002/MCDA.438
+   Lynch T.A., 2004, DTRS93G0019 USDOT FL
+   Metz B., 2007, CONTRIBUTION WORKING
+   Morita K, 2003, JSAE REV, V24, P3, DOI 10.1016/S0389-4304(02)00250-3
+   Nakashima K., 2000, JARI RES J, V22, P23
+   Offer GJ, 2010, ENERG POLICY, V38, P24, DOI 10.1016/j.enpol.2009.08.040
+   Padam S., 2002, URBANIZATION URBAN T
+   Romm J, 2006, ENERG POLICY, V34, P2609, DOI 10.1016/j.enpol.2005.06.025
+   SAATY TL, 1977, J MATH PSYCHOL, V15, P234, DOI 10.1016/0022-2496(77)90033-5
+   Shimada A., 2000, HONDA R D TECHNICAL, V12, P15
+   SOERGEL D, 1967, INFORM STORAGE RET, V3, P129, DOI 10.1016/0020-0271(67)90006-X
+   Sokal R. R., 1963, PRINCIPLES NUMERICAL
+   SPATH H, 1985, CLUSTER ANAL ALGORIT
+   Sperling D, 1995, FUTURE DRIVE ELECT V
+   Tanaka T., 2000, IWPS, V2000, P58
+   Tzeng GH, 2005, ENERG POLICY, V33, P1373, DOI 10.1016/j.enpol.2003.12.014
+   United Nations, WORKING PAPER
+   Vehicle Emission Reductions, 2001, EUR C MIN TRANSP OEC
+   Winebrake JJ, 2003, TECHNOL FORECAST SOC, V70, P359, DOI 10.1016/S0040-1625(01)00189-5
+   Yokota H., 2002, J SOC AUTOMOTIVE ENG, V56, P84
+NR 38
+TC 0
+Z9 0
+U1 0
+U2 4
+PU BUDAPEST TECH
+PI BUDAPEST
+PA BECSI UT 96-B, BUDAPEST, H-1034, HUNGARY
+SN 1785-8860
+J9 ACTA POLYTECH HUNG
+JI Acta Polytech. Hung.
+PY 2014
+VL 11
+IS 1
+BP 205
+EP 225
+PG 21
+WC Engineering, Multidisciplinary
+SC Engineering
+GA AB7RC
+UT WOS:000331987400013
+DA 2019-03-26
+ER
+
+PT J
+AU Tkacik, DS
+   Lambe, AT
+   Jathar, S
+   Li, X
+   Presto, AA
+   Zhao, YL
+   Blake, D
+   Meinardi, S
+   Jayne, JT
+   Croteau, PL
+   Robinson, AL
+AF Tkacik, Daniel S.
+   Lambe, Andrew T.
+   Jathar, Shantanu
+   Li, Xiang
+   Presto, Albert A.
+   Zhao, Yunliang
+   Blake, Donald
+   Meinardi, Simone
+   Jayne, John T.
+   Croteau, Philip L.
+   Robinson, Allen L.
+TI Secondary Organic Aerosol Formation from in-Use Motor Vehicle Emissions
+   Using a Potential Aerosol Mass Reactor
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+LA English
+DT Article
+ID VOLATILITY BASIS-SET; LIGHT-DUTY VEHICLES; PARTICULATE MATTER; DIESEL
+   VEHICLES; AIR-POLLUTION; SMOG CHAMBER; GASOLINE; AMMONIA; PRECURSORS;
+   PITTSBURGH
+AB Secondary organic aerosol (SOA) formation from in-use vehicle emissions was investigated using a potential aerosol mass (PAM) flow reactor deployed in a highway tunnel in Pittsburgh, Pennsylvania. Experiments consisted of passing exhaust-dominated tunnel air through a PAM reactor over integrated hydroxyl radical (OH) exposures ranging from similar to 0.3 to 9.3 days of equivalent atmospheric oxidation. Experiments were performed during heavy traffic periods when the fleet was at least 80% light-duty gasoline vehicles on a fuel-consumption basis. The peak SOA production occurred after 2-3 days of equivalent atmospheric oxidation. Additional OH exposure decreased the SOA production presumably due to a shift from functionalization to fragmentation dominated reaction mechanisms. Photo-oxidation also produced substantial ammonium nitrate, often exceeding the mass of SOA. Analysis with an SOA model highlight that unspeciated organics (i.e., unresolved complex mixture) are a very important class of precursors and that multigenerational processing of both gases and particles is important at longer time scales. The chemical evolution of the organic aerosol inside the PAM reactor appears to be similar to that observed in the atmosphere. The mass spectrum of the unoxidized primary organic aerosol closely resembles ambient hydrocarbon-like organic aerosol (HOA). After aging the exhaust equivalent to a few hours of atmospheric oxidation, the organic aerosol most closely resembles semivolatile oxygenated organic aerosol (SV-OOA) and then low volatility organic aerosol (LV-OOA) at higher OH exposures. Scaling the data suggests that mobile sources contribute similar to 2.9 +/- 1.6 Tg SOA yr(-1) in the United States, which is a factor of 6 greater than all mobile source particulate matter emissions reported by the National Emissions Inventory. This highlights the important contribution of SOA formation from vehicle exhaust to ambient particulate matter concentrations in urban areas.
+C1 [Tkacik, Daniel S.] Carnegie Mellon Univ, Dept Civil & Environm Engn, Pittsburgh, PA 15213 USA.
+   [Tkacik, Daniel S.; Li, Xiang; Presto, Albert A.; Zhao, Yunliang; Robinson, Allen L.] Carnegie Mellon Univ, Ctr Atmospher Particle Studies, Pittsburgh, PA 15213 USA.
+   [Lambe, Andrew T.; Jayne, John T.; Croteau, Philip L.] Aerodyne Res Inc, Billerica, MA 01821 USA.
+   [Jathar, Shantanu] Univ Calif Davis, Davis, CA 95616 USA.
+   [Li, Xiang; Presto, Albert A.; Zhao, Yunliang; Robinson, Allen L.] Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.
+   [Blake, Donald; Meinardi, Simone] Univ Calif Irvine, Dept Chem, Irvine, CA 92697 USA.
+RP Robinson, AL (reprint author), Carnegie Mellon Univ, Ctr Atmospher Particle Studies, Pittsburgh, PA 15213 USA.
+RI Zhao, Yunliang/G-9270-2017; Robinson, Allen/M-3046-2014; Jathar,
+   Shantanu/A-2966-2015; Tkacik, Daniel/G-5630-2011; Presto,
+   Albert/C-3193-2008
+OI Zhao, Yunliang/0000-0002-9079-5972; Robinson, Allen/0000-0002-1819-083X;
+   Jathar, Shantanu/0000-0003-4106-2358; Presto,
+   Albert/0000-0002-9156-1094; Blake, Donald/0000-0002-8283-5014
+FU U.S. Environmental Protection Agency [RD834554]; National Science
+   Foundation [AGS-1244918]; Office of Science, Department of Energy
+   (Atmospheric Science Program) [DE-SC0006980, DE-FG02-05ER63995]; Office
+   of Science (BER), Department of Energy (Atmospheric Science Program)
+   [DE-SC0006980, DE-FG02-05ER63995]
+FX We thank the Pennsylvania Department of Transportation (PennDOT) for
+   granting us access to the Fort Pitt Tunnel. This article was developed
+   under a STAR Research Assistance Agreement No. RD834554 awarded by the
+   U.S. Environmental Protection Agency. It has not been formally reviewed
+   by the EPA. The views expressed in this document are solely those of
+   authors and the EPA does not endorse any products or commercial services
+   mentioned in this publication. D.S.T. recognizes P. J. Adams, N.M.
+   Donahue, and E.S. Robinson (CMU) for helpful discussions. A.T.L.
+   acknowledges J. L. Jimenez (UC Colorado), T.B. Onasch (BC/ARI), D. R.
+   Worsnop (ARI), W. H. Brune (PSU), and P. Davidovits (BC) for helpful
+   discussions and funding from the National Science Foundation grant No.
+   AGS-1244918 and the Office of Science, Office of Science (BER),
+   Department of Energy (Atmospheric Science Program) grants No.
+   DE-SC0006980 and DE-FG02-05ER63995 to Boston College and Aerodyne
+   Research, Inc.
+CR Aiken AC, 2008, ENVIRON SCI TECHNOL, V42, P4478, DOI 10.1021/es703009q
+   Burgard DA, 2006, ENVIRON SCI TECHNOL, V40, P7018, DOI 10.1021/es061161r
+   Canagaratna MR, 2004, AEROSOL SCI TECH, V38, P555, DOI 10.1080/02786820490465504
+   Chirico R, 2010, ATMOS CHEM PHYS, V10, P11545, DOI 10.5194/acp-10-11545-2010
+   Chirico R, 2011, ATMOS ENVIRON, V45, P2182, DOI 10.1016/j.atmosenv.2011.01.069
+   Chow JC, 2006, J AIR WASTE MANAGE, V56, P707, DOI 10.1080/10473289.2006.10464484
+   de Gouw JA, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009243
+   de Gouw JA, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2004JD005623
+   De Gouw J, 2009, ENVIRON SCI TECHNOL, V43, P7614, DOI 10.1021/es9006004
+   Docherty K. S., 2012, AEROSOL SCI TECHNOL, V47, P294
+   Donahue NM, 2011, ATMOS CHEM PHYS, V11, P3303, DOI 10.5194/acp-11-3303-2011
+   Durbin TD, 2002, ATMOS ENVIRON, V36, P1475, DOI 10.1016/S1352-2310(01)00583-0
+   EIA, 1994, RES TRANSP EN CONS S
+   Fine PM, 2004, AEROSOL SCI TECH, V38, P182, DOI 10.1080/02786820390229499
+   Fraser MP, 1998, ENVIRON SCI TECHNOL, V32, P1053, DOI 10.1021/es970382h
+   Gordon T. D., 2013, ATMOS CHEM PHYS DISC, V13, P24223, DOI DOI 10.5194/ACPD-13-24223-2013
+   Gordon T.D., 2013, ATMOS CHEM PHYS DISC, V13, P23173, DOI DOI 10.5194/ACPD-13-23173-2013
+   Gordon TD, 2013, ENVIRON SCI TECHNOL, V47, P14137, DOI 10.1021/es403556e
+   Grieshop AP, 2009, ATMOS CHEM PHYS, V9, P2227, DOI 10.5194/acp-9-2227-2009
+   GRIESHOP AP, 2006, ATMOS ENVIRON, V40, P287, DOI DOI 10.1016/J.ATM0SENV.2006.03.064
+   Heringa MF, 2012, ATMOS CHEM PHYS, V12, P2189, DOI 10.5194/acp-12-2189-2012
+   Heringa MF, 2011, ATMOS CHEM PHYS, V11, P5945, DOI 10.5194/acp-11-5945-2011
+   Jathar SH, 2014, P NATL ACAD SCI USA, V111, P10473, DOI 10.1073/pnas.1323740111
+   Jimenez JL, 2009, SCIENCE, V326, P1525, DOI 10.1126/science.1180353
+   Kanaya Y, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2007JD008670
+   Kang E, 2007, ATMOS CHEM PHYS, V7, P5727, DOI 10.5194/acp-7-5727-2007
+   Kean AJ, 2009, ATMOS ENVIRON, V43, P1565, DOI 10.1016/j.atmosenv.2008.09.085
+   Lambe AT, 2011, ATMOS CHEM PHYS, V11, P8913, DOI 10.5194/acp-11-8913-2011
+   Lambe AT, 2012, ENVIRON SCI TECHNOL, V46, P5430, DOI 10.1021/es300274t
+   Loza CL, 2014, ATMOS CHEM PHYS, V14, P1423, DOI 10.5194/acp-14-1423-2014
+   May AA, 2014, ATMOS ENVIRON, V88, P247, DOI 10.1016/j.atmosenv.2014.01.046
+   May AA, 2013, ATMOS ENVIRON, V77, P128, DOI 10.1016/j.atmosenv.2013.04.060
+   Middlebrook AM, 2012, AEROSOL SCI TECH, V46, P258, DOI 10.1080/02786826.2011.620041
+   Murphy BN, 2011, ATMOS CHEM PHYS, V11, P7859, DOI 10.5194/acp-11-7859-2011
+   Mysliwiec MJ, 2002, ENVIRON SCI TECHNOL, V36, P5376, DOI 10.1021/es020832s
+   Ng NL, 2011, ATMOS CHEM PHYS, V11, P6465, DOI 10.5194/acp-11-6465-2011
+   Ng NL, 2011, AEROSOL SCI TECH, V45, P780, DOI 10.1080/02786826.2011.560211
+   Nordin EZ, 2013, ATMOS CHEM PHYS, V13, P6101, DOI 10.5194/acp-13-6101-2013
+   Platt SM, 2013, ATMOS CHEM PHYS, V13, P9141, DOI 10.5194/acp-13-9141-2013
+   Presto AA, 2010, ENVIRON SCI TECHNOL, V44, P2029, DOI 10.1021/es903712r
+   Rees SL, 2004, ATMOS ENVIRON, V38, P3305, DOI 10.1016/j.atmosenv.2004.03.016
+   Saukko E, 2012, ATMOS CHEM PHYS, V12, P7517, DOI 10.5194/acp-12-7517-2012
+   Schauer JJ, 2002, ENVIRON SCI TECHNOL, V36, P1169, DOI 10.1021/es0108077
+   Simpson IJ, 2001, J ATMOS CHEM, V39, P191, DOI 10.1023/A:1010608529779
+   Smith JD, 2009, ATMOS CHEM PHYS, V9, P3209, DOI 10.5194/acp-9-3209-2009
+   Tang W, 2004, AEROSOL SCI TECH, V38, P80, DOI 10.1080/02786820490442833
+   TWOMEY S, 1974, ATMOS ENVIRON, V8, P1251, DOI 10.1016/0004-6981(74)90004-3
+   Ulbrich IM, 2009, ATMOS CHEM PHYS, V9, P2891, DOI 10.5194/acp-9-2891-2009
+   *US EPA, 2003, NAT AIR QUAL EM TREN
+   US EPA (US Environmental Protection Agency), 2013, 2008 NAT EM INV VERS
+   Volkamer R, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2006GL026899
+   Zhang Q, 2004, ENVIRON SCI TECHNOL, V38, P4797, DOI 10.1021/es035417u
+   Zhang X, 2014, P NATL ACAD SCI USA, V111, P5802, DOI 10.1073/pnas.1404727111
+NR 53
+TC 58
+Z9 62
+U1 16
+U2 176
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0013-936X
+EI 1520-5851
+J9 ENVIRON SCI TECHNOL
+JI Environ. Sci. Technol.
+PD OCT 7
+PY 2014
+VL 48
+IS 19
+BP 11235
+EP 11242
+DI 10.1021/es502239v
+PG 8
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA AQ7RJ
+UT WOS:000343016600029
+PM 25188317
+DA 2019-03-26
+ER
+
+PT J
+AU Etienne, C
+   Latifa, O
+AF Etienne, Come
+   Latifa, Oukhellou
+TI Model-Based Count Series Clustering for Bike Sharing System Usage
+   Mining: A Case Study with the Velib' System of Paris
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+LA English
+DT Article
+DE Measurement; Algorithms; Performance; Bike sharing systems; count data;
+   clustering; model-based clustering
+AB Today, more and more bicycle sharing systems (BSSs) are being introduced in big cities. These transportation systems generate sizable transportation data, the mining of which can reveal the underlying urban phenomenon linked to city dynamics. This article presents a statistical model to automatically analyze the trip data of a bike sharing system. The proposed solution partitions (i.e., clusters) the stations according to their usage profiles. To do so, count series describing the stations's usage through departure/arrival counts per hour throughout the day are built and analyzed. The model for processing these count series is based on Poisson mixtures and introduces a station scaling factor that handles the differences between the stations's global usage. Differences between weekday and weekend usage are also taken into account. This model identifies the latent factors that shape the geography of trips, and the results may thus offer insights into the relationships between station neighborhood type (its amenities, its demographics, etc.) and the generated mobility patterns. In other words, the proposed method brings to light the different functions in different areas that induce specific patterns in BSS data. These potentials are demonstrated through an in-depth analysis of the results obtained on the Paris Velib' large-scale bike sharing system.
+C1 [Etienne, Come; Latifa, Oukhellou] Univ Paris Est, IFSTTAR, GRETTIA, F-77447 Marne La Vallee, France.
+RP Etienne, C (reprint author), Univ Paris Est, IFSTTAR, GRETTIA, F-77447 Marne La Vallee, France.
+EM etienne.come@ifsttar.fr; latifa.oukhellou@ifsttar.fr
+CR APUR, 2006, 349 APUR
+   Benchimol M, 2011, RAIRO-OPER RES, V45, P37, DOI 10.1051/ro/2011102
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Borgnat P., 2011, ADV COMPLEX SYST, V14, P1
+   Borgnat P., 2009, EUR C COMPL SYST ECC
+   Borgnat P., 2013, DYNAMICS COMPLEX NET
+   Buttner H., 2011, TECHNICAL REPORT
+   Calabrese F, 2013, TRANSPORT RES C-EMER, V26, P301, DOI 10.1016/j.trc.2012.09.009
+   Chemla D., 2011, C ANN SOC FRANC RECH
+   dell'Olio L, 2011, P I CIVIL ENG-MUNIC, V164, P89, DOI 10.1680/muen.2011.164.2.89
+   DeMaio P., 2009, J PUBLIC TRANSPORT, V12, P3, DOI DOI 10.5038/2375-0901.12.4.3
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1
+   Dill J, 2009, J PUBLIC HEALTH POL, V30, pS95, DOI 10.1057/jphp.2008.56
+   Duda RO, 2001, PATTERN CLASSIFICATI
+   Fraley C, 2002, J AM STAT ASSOC, V97, P611, DOI 10.1198/016214502760047131
+   Froehlich J, 2008, URBANSENSE 2008, V8, P16
+   Froehlich J, 2009, 21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09), PROCEEDINGS, P1420
+   Govaert G, 2010, COMMUN STAT-THEOR M, V39, P416, DOI 10.1080/03610920903140197
+   Hofleitner A, 2012, IEEE T INTELL TRANSP, V13, P1679, DOI 10.1109/TITS.2012.2200474
+   Kaltenbrunner A, 2010, PERVASIVE MOB COMPUT, V6, P455, DOI 10.1016/j.pmcj.2010.07.002
+   Karlis D., 2003, 18 INT WORKSH STAT M, P211
+   Lathia N, 2012, TRANSPORT RES C-EMER, V22, P88, DOI 10.1016/j.trc.2011.12.004
+   Lin JR, 2011, TRANSPORT RES E-LOG, V47, P284, DOI 10.1016/j.tre.2010.09.004
+   Ma S., 2013, 29 IEEE INT C DAT EN
+   McLachlan G., 2000, FINITE MIXTURE MODEL
+   McLachlan G. J., 1996, EM ALGORITHM EXTENSI
+   Michau G., 2011, 23 C GRETSI TRAIT SI, P46
+   Nair R, 2013, INT J SUSTAIN TRANSP, V7, P85, DOI 10.1080/15568318.2012.660115
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI 10.1073/pnas.0601602103
+   Pucher P., 2008, TRANSPORT REV, V28, P495
+   R Core Team, 2012, R LANG ENV STAT COMP
+   Ratti C, 2006, ENVIRON PLANN B, V33, P727, DOI 10.1068/b32047
+   Rau A., 2011, RR7786 INRIA
+   Thomas S.J., 2010, THESIS RICE U
+   Vogel P., 2011, PROCEDIA SOC BEHAV S, V20, P514, DOI [DOI 10.1016/J.SBSPR0.2011.08.058, DOI 10.1016/J.SBSPRO.2011.08.058]
+   Vogel P, 2011, LECT NOTES COMPUT SC, V6971, P127, DOI 10.1007/978-3-642-24264-9_10
+   Wang Z, 2012, ADV MATER RES-SWITZ, V550-553, P943, DOI 10.4028/www.scientific.net/AMR.550-553.943
+   Yuan J., 2010, 18 ACM SIGSPATIAL IN, P99
+   Yuan J, 2012, 18 ACM SIGKDD INT C, P186, DOI [10.1145/2339530.2339561, DOI 10.1145/2339530.2339561]
+   Zheng Y., 2011, 13 ACM C UB COMP UBI, P89
+NR 40
+TC 21
+Z9 21
+U1 5
+U2 48
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 2157-6904
+EI 2157-6912
+J9 ACM T INTEL SYST TEC
+JI ACM Trans. Intell. Syst. Technol.
+PD JUN
+PY 2014
+VL 5
+IS 3
+AR 39
+DI 10.1145/2560188
+PG 21
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems
+SC Computer Science
+GA AS5ID
+UT WOS:000344304000003
+DA 2019-03-26
+ER
+
+PT J
+AU Eliazar, II
+   Cohen, MH
+AF Eliazar, Iddo I.
+   Cohen, Morrel H.
+TI Rank distributions: A panoramic macroscopic outlook
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID ZIPFS LAW; UNIVERSALITY; STATISTICS; MODELS; WEALTH; CITIES; GROWTH;
+   TAIL
+AB This paper presents a panoramic macroscopic outlook of rank distributions. We establish a general framework for the analysis of rank distributions, which classifies them into five macroscopic "socioeconomic" states: monarchy, oligarchy-feudalism, criticality, socialism-capitalism, and communism. Oligarchy-feudalism is shown to be characterized by discrete macroscopic rank distributions, and socialism-capitalism is shown to be characterized by continuous macroscopic size distributions. Criticality is a transition state between oligarchy-feudalism and socialism-capitalism, which can manifest allometric scaling with multifractal spectra. Monarchy and communism are extreme forms of oligarchy-feudalism and socialism-capitalism, respectively, in which the intrinsic randomness vanishes. The general framework is applied to three different models of rank distributions-top-down, bottom-up, and global-and unveils each model's macroscopic universality and versatility. The global model yields a macroscopic classification of the generalized Zipf law, an omnipresent form of rank distributions observed across the sciences. An amalgamation of the three models establishes a universal rank-distribution explanation for the macroscopic emergence of a prevalent class of continuous size distributions, ones governed by unimodal densities with both Pareto and inverse-Pareto power-law tails.
+C1 [Eliazar, Iddo I.] Tel Aviv Univ, Sch Chem, Raymond & Beverly Sackler Fac Exact Sci, IL-69978 Tel Aviv, Israel.
+   [Cohen, Morrel H.] Rutgers State Univ, Dept Phys & Astron, Piscataway, NJ 08854 USA.
+   [Cohen, Morrel H.] Princeton Univ, Dept Chem, Princeton, NJ 08544 USA.
+RP Eliazar, II (reprint author), Tel Aviv Univ, Sch Chem, Raymond & Beverly Sackler Fac Exact Sci, IL-69978 Tel Aviv, Israel.
+EM eliazar@post.tau.ac.il; mcohen@physics.rutgers.edu
+FU DIP (German-Israeli Project Cooperation Program) Grant
+FX This work was supported by a DIP (German-Israeli Project Cooperation
+   Program) Grant.
+CR Adamic L.A., 2002, GLOTTOMETRICS, V3, P143
+   Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Alfarano S, 2012, J ECON DYN CONTROL, V36, P136, DOI 10.1016/j.jedc.2011.07.002
+   [Anonymous], 2002, GLOTTOMETRICS, V5
+   Auerbach F, 1913, PETERMANNS MITT, V59, P74
+   Ausloos M., 2010, LOGISTIC MAP ROUTE C
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Benichou O, 2011, REV MOD PHYS, V83, DOI 10.1103/RevModPhys.83.81
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bingham N. H., 1987, REGULAR VARIATION
+   Chakrabarti B. K., 2013, ECONOPHYSICS INCOME
+   Chatfield C, 2003, ANAL TIME SERIES
+   Chatterjee A, 2007, EUR PHYS J B, V60, P135, DOI 10.1140/epjb/e2007-00343-8
+   Chatterjee A, 2005, NEW ECON WINDOWS, P1, DOI 10.1007/88-470-0389-X
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cohen MH, 2013, PHYSICA A, V392, P813, DOI 10.1016/j.physa.2012.11.005
+   Cohen R., 2010, COMPLEX NETWORKS STR
+   Coulter P., 1989, MEASURING INEQUALITY
+   Cowell F., 2011, MEASURING INEQUALITY
+   del Rio MB, 2008, PHYSICA A, V387, P5552, DOI 10.1016/j.physa.2008.05.031
+   Eliazar I, 2014, PHYSICA A, V393, P450, DOI 10.1016/j.physa.2013.08.073
+   Eliazar I, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.012126
+   Eliazar I, 2013, PHYSICA A, V392, P27, DOI 10.1016/j.physa.2012.08.009
+   Eliazar I, 2011, PHYSICA A, V390, P4293, DOI 10.1016/j.physa.2011.06.049
+   Eliazar II, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.052104
+   Eliazar II, 2013, J PHYS A-MATH THEOR, V46, DOI 10.1088/1751-8113/46/36/365001
+   Eliazar II, 2013, ANN PHYS-NEW YORK, V332, P56, DOI 10.1016/j.aop.2013.01.013
+   Eliazar II, 2012, PHYSICA A, V391, P5598, DOI 10.1016/j.physa.2012.06.024
+   Eliazar II, 2012, PHYSICA A, V391, P1323, DOI 10.1016/j.physa.2011.09.007
+   Estoup Jean-Baptiste, 1916, GAMMES STENOGRAPHIQU
+   Gabaix X, 1999, AM ECON REV, V89, P129, DOI 10.1257/aer.89.2.129
+   Gleick J., 2008, CHAOS
+   Hamilton J, 1994, TIME SERIES ANAL
+   Jackson EJ, 2003, USERS GUIDE PRINCIPA
+   Jolliffe I, 2002, PRINCIPLE COMPONENT
+   Kleiber C, 2003, STAT SIZE DISTRIBUTI
+   Krugman P, 1996, J JPN INT ECON, V10, P399, DOI 10.1006/jjie.1996.0023
+   Lorenz MO, 1905, J AM STAT ASSOC, V9, P209
+   Lotka A., 1926, J WASHINGTON ACAD SC, V16, P317
+   Mandelbrot B. B., 1999, MULTIFRACTALS 1 F NO
+   Mandelbrot B. B., 1997, FRACTALS SCALING FIN
+   Mansilla R, 2007, J INFORMETR, V1, P155, DOI 10.1016/j.joi.2007.01.001
+   Martinez-Mekler G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004791
+   MAY RM, 1976, NATURE, V261, P459, DOI 10.1038/261459a0
+   Mitzenmacher M., 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   MONTROLL EW, 1982, P NATL ACAD SCI USA, V79, P3380, DOI 10.1073/pnas.79.10.3380
+   Naumis GG, 2008, PHYSICA A, V387, P84, DOI 10.1016/j.physa.2007.08.002
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Pastur L. A., 2011, EIGENVALUE DISTRIBUT
+   Petersen AM, 2012, SCI REP-UK, V2, DOI 10.1038/srep00943
+   Petersen AM, 2011, SCI REP-UK, V1, DOI 10.1038/srep00181
+   Pietra G., 1914, ATTI REALE I VENNE 2, VLXXIV, P775
+   Podobnik B, 2010, P NATL ACAD SCI USA, V107, P18325, DOI 10.1073/pnas.1011942107
+   Quigley MR, 2012, J CANCER EDUC, V27, P463, DOI 10.1007/s13187-012-0363-y
+   Redner S, 1998, EUR PHYS J B, V4, P131, DOI 10.1007/s100510050359
+   Redner S., 2001, GUIDE 1 PASSAGE PROC
+   Reed WJ, 2004, COMMUN STAT-THEOR M, V33, P1733, DOI 10.1081/STA-120037438
+   Reed WJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.067103
+   Reed WJ, 2003, PHYSICA A, V319, P469, DOI 10.1016/S0378-4371(02)01507-8
+   Saichev A., 2011, THEORY ZIPFS LAW
+   Schechtman E., 2012, GINI METHODOLOGY
+   Serra J, 2012, SCI REP-UK, V2, DOI 10.1038/srep00521
+   Stanley HE, 1971, INTRO PHASE TRANSITI
+   STANLEY MHR, 1995, ECON LETT, V49, P453, DOI 10.1016/0165-1765(95)00696-D
+   Strogatz S, 2001, NONLINEAR DYNAMICS C
+   WIGNER EP, 1955, ANN MATH, V62, P548, DOI 10.2307/1970079
+   Zipf GK, 1935, PSYCHOBIOLOGY LANGUA
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 68
+TC 12
+Z9 12
+U1 0
+U2 9
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD JAN 9
+PY 2014
+VL 89
+IS 1
+AR 012111
+DI 10.1103/PhysRevE.89.012111
+PG 12
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA AC0BU
+UT WOS:000332160600004
+PM 24580176
+DA 2019-03-26
+ER

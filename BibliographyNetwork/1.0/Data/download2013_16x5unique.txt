@@ -1,0 +1,522 @@
+
+PT J
+AU Small, C
+   Milesi, C
+AF Small, Christopher
+   Milesi, Cristina
+TI Multi-scale standardized spectral mixture models
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE Spectral mixture model; Landsat; World View-2; Scale; Vegetation index
+ID VEGETATION COVER; COEFFICIENTS; REFLECTANCE; VALIDATION; ABUNDANCE;
+   INDEXES
+AB Linear spectral mixture models can be standardized by using endmembers that span the global mixing space. By combining the benefits of location-specific mixture models with standardized spectral indices, standardized mixture models offer consistency, simplicity, inclusivity and applicability. We construct a globally representative mixing space using a spectrally diverse collection of 100 Landsat ETM+ (Thematic Mapper 8: Enhanced Thematic Mapper+) subscenes. Global composites of 100,000,000 Landsat spectra, constructed from both exoatmospheric reflectance and atmospherically corrected surface reflectance, represent the spectral diversity of a wide range of terrestrial environments. Principal Component (PC) Analysis of the global composite shows that 99% of the spectral variance can be represented in a 3-dimensional mixing space of the low order PCs. Within this 3D space 98% of spectra are contained within a tetrahedral hull bounded by a continuous plane of substrates, and well-defined apexes corresponding to vegetation and dark endmembers. Suites of individual substrate, vegetation and dark endmember spectra are used to derive mean endmembers and to quantify the effects of endmember variability on fractions estimated from a standardized Substrate, Vegetation, and Dark (SVD) linear mixture model. Maximum endmember variability introduces less than 0.05 difference in S, V, and D fractions for most SVD models constructed from individual pixel endmember spectra giving less than 0.05 model misfit for more than 97% of pixels in the global composite. The mean SVD endmembers define a standard global mixture model for Landsat spectra. These SVD endmembers can be used to model mixed reflectance spectra from other sensors with similar spectral responses to Landsat ETM+. Comparisons of endmember fractions estimated from coincident acquisitions of Landsat TM and ETM + and WorldView-2 imagery show strong linear scaling for vegetation and dark fractions. Substrate fractions do not scale as linearly for the urban validation sites because the Landsat substrate endmember does not accurately represent the impervious surfaces imaged by World View-2. Comparisons of Landsat and WorldView-2 unmixed with the same Visible-Near Infrared (VNIR) endmembers derived from the global Landsat endmembers are also strongly correlated but with reduced bias. This linear scaling suggests that the Landsat global endmembers may provide a basis for standardized mixture models for WorldView-2 and other broadband sensors with spectral response similar to Landsat TM and ETM+. Comparisons of vegetation fractions with vegetation indices for the global composite show strong linear correspondence for Tasseled Cap Greenness and Enhanced Vegetation Index, with some degree of saturation at high fractions for the Soil Adjusted Vegetation Index and a wide range of responses for the Normalized Difference Vegetation Index. (C) 2013 Published by Elsevier Inc.
+C1 [Small, Christopher] Columbia Univ, Lamont Doherty Earth Observ, Palisades, NY 10964 USA.
+   [Milesi, Cristina] Calif State Univ Monterey Bay, NASA, Ames Res Ctr, Moffett Field, CA 94035 USA.
+RP Small, C (reprint author), Columbia Univ, Lamont Doherty Earth Observ, Palisades, NY 10964 USA.
+EM csmall@columbia.edu
+FU NASA Land-Cover and Land-Use Change (LCLUC) Program [NNA07CN16A]
+FX This study was made possible through funding from the NASA Land-Cover
+   and Land-Use Change (LCLUC) Program (grant NNA07CN16A). We acknowledge
+   the use of the NASA Earth Exchange (NEX) for the processing of the
+   Landsat data. We thank the anonymous reviewers for the numerous helpful
+   comments and suggestions.
+CR Adams J. B, 2006, REMOTE SENSING LANDS
+   Adams J B, 1993, REMOTE GEOCHEMICAL A, P145
+   ADAMS JB, 1986, J GEOPHYS RES-SOLID, V91, P8098, DOI 10.1029/JB091iB08p08098
+   Carlson TN, 1997, REMOTE SENS ENVIRON, V62, P241, DOI 10.1016/S0034-4257(97)00104-1
+   Chander G, 2009, REMOTE SENS ENVIRON, V113, P893, DOI 10.1016/j.rse.2009.01.007
+   CHOUDHURY BJ, 1994, REMOTE SENS ENVIRON, V50, P1, DOI 10.1016/0034-4257(94)90090-6
+   DYMOND JR, 1992, INT J REMOTE SENS, V13, P1999, DOI 10.1080/01431169208904248
+   ELMORE AJ, 2000, REMOTE SENS ENVIRON, V73, P86
+   Gillespie A., 1990, P 2 AVIRIS WORKSH, P243
+   GILLIES RR, 1995, J APPL METEOROL, V34, P745, DOI 10.1175/1520-0450(1995)034<0745:TRSOSS>2.0.CO;2
+   Houghton JT, 1996, CLIMATE CHANGE 1995
+   Huete A, 2002, REMOTE SENS ENVIRON, V83, P195, DOI 10.1016/S0034-4257(02)00096-2
+   HUETE AR, 1988, REMOTE SENS ENVIRON, V25, P295, DOI 10.1016/0034-4257(88)90106-X
+   Ju JC, 2012, REMOTE SENS ENVIRON, V122, P175, DOI 10.1016/j.rse.2011.12.025
+   Kauth R. J., 1976, P S MACH PORC REM SE, p4B41
+   Masek JG, 2006, IEEE GEOSCI REMOTE S, V3, P68, DOI 10.1109/LGRS.2005.857030
+   Roberts DA, 1998, REMOTE SENS ENVIRON, V65, P267, DOI 10.1016/S0034-4257(98)00037-6
+   ROUSE JW, 1973, 3 ERTS S, P309
+   SETTLE JJ, 1993, INT J REMOTE SENS, V14, P1159, DOI 10.1080/01431169308904402
+   Small C, 2006, REMOTE SENS ENVIRON, V100, P441, DOI 10.1016/j.rse.2005.10.023
+   Small C, 2005, INT J REMOTE SENS, V26, P661, DOI 10.1080/01431160310001654950
+   Small C, 2004, REMOTE SENS ENVIRON, V93, P1, DOI 10.1016/j.rse.2004.06.007
+   Small C, 2004, EARTH INTERACT, V8, P1
+   SMITH MO, 1990, REMOTE SENS ENVIRON, V31, P1, DOI 10.1016/0034-4257(90)90074-V
+   Somers B, 2011, REMOTE SENS ENVIRON, V115, P1603, DOI 10.1016/j.rse.2011.03.003
+   Vermote EF, 1997, IEEE T GEOSCI REMOTE, V35, P675, DOI 10.1109/36.581987
+NR 26
+TC 37
+Z9 40
+U1 2
+U2 63
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0034-4257
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD SEP
+PY 2013
+VL 136
+BP 442
+EP 454
+DI 10.1016/j.rse.2013.05.024
+PG 13
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic
+   Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science &
+   Photographic Technology
+GA 186PC
+UT WOS:000322055600036
+DA 2019-03-26
+ER
+
+PT J
+AU Ruggieri, DG
+   Bass, SB
+   Rovito, MJ
+   Ward, S
+   Gordon, TF
+   Paranjape, A
+   Lin, K
+   Meyer, B
+   Parameswaran, L
+   Wolak, C
+   Britto, J
+   Ruzek, SB
+AF Ruggieri, Dominique G.
+   Bass, Sarah Bauerle
+   Rovito, Michael J.
+   Ward, Stephanie
+   Gordon, Thomas F.
+   Paranjape, Anuradha
+   Lin, Karen
+   Meyer, Brian
+   Parameswaran, Lilitha
+   Wolak, Caitlin
+   Britto, Johnson
+   Ruzek, Sheryl B.
+TI Perceived Colonoscopy Barriers and Facilitators Among Urban African
+   American Patients and Their Medical Residents
+SO JOURNAL OF HEALTH COMMUNICATION
+LA English
+DT Article
+ID CANCER SCREENING PRACTICES; COLORECTAL-CANCER; PHYSICIAN RECOMMENDATION;
+   PROVIDER COMMUNICATION; LOW-INCOME; PERCEPTIONS; KNOWLEDGE;
+   SURVEILLANCE; RISK
+AB African Americans suffer from higher colorectal cancer morbidity and mortality than do Whites, yet have the lowest screening rates. To understand barriers and facilitators to colorectal cancer screening, this study used perceptual mapping (multidimensional scaling) methods to compare patients' perceptions of colonoscopy and general preventive health practices to those of their doctors in a general internal medicine clinic in a large urban hospital. African American patients (n=102) were surveyed about their own screening beliefs; third-year resident physicians (n=29) were asked what they perceived their patients believed. The perceptual maps showed significant differences between the patients' and physicians' perceptions of barriers, facilitators, and beliefs about screening. Physicians believed logistical lifestyle issues were the greatest screening barriers for their patients whereas fears of complications, pain, and cancer were the most important barriers perceived by patients. Physicians also underestimated patients' understanding of the benefits and importance of screening, doctors' recommendations, and beliefs that faith in God could facilitate screening. Physicians and patients perceived a doctor's recommendation for screening was an important facilitator. Better understanding of patient perceptions can be used to improve doctorpatient communication and to improve medical resident training by incorporating specific messages tailored for use with African American patients.
+C1 [Ruggieri, Dominique G.] St Josephs Univ, Dept Hlth Serv, Philadelphia, PA 19131 USA.
+   [Bass, Sarah Bauerle; Wolak, Caitlin; Britto, Johnson; Ruzek, Sheryl B.] Temple Univ, Dept Publ Hlth, Philadelphia, PA 19122 USA.
+   [Rovito, Michael J.] Univ Cent Florida, Dept Hlth Profess, Orlando, FL 32816 USA.
+   [Ward, Stephanie] Bravo Hlth Adv Care Ctr, Philadelphia, PA USA.
+   [Gordon, Thomas F.] Univ Massachusetts Lowell, Dept Psychol, Lowell, MA USA.
+   [Paranjape, Anuradha; Lin, Karen; Meyer, Brian; Parameswaran, Lilitha] Temple Univ, Dept Gen Internal Med, Sch Med, Philadelphia, PA 19122 USA.
+RP Ruggieri, DG (reprint author), St Josephs Univ, Dept Hlth Serv, 5600 City Ave,Post Hall Room 116, Philadelphia, PA 19131 USA.
+EM dgr@sju.edu
+FU NCI NIH HHS [1R21CA120122]
+CR American Cancer Society, 2010, OV COL RECT CANC MAN
+   American Cancer Society, 2010, COL CANC FACTS FIG 2
+   Barrison AF, 2003, AM J GASTROENTEROL, V98, P1410, DOI 10.1016/S0002-9270(03)00256-9
+   Bass SB, 2008, BIOSECUR BIOTERROR, V6, P179, DOI 10.1089/bsp.2007.0054
+   Bass SB, 2011, J CANCER EDUC, V26, P121, DOI 10.1007/s13187-010-0123-9
+   Beeker C, 2000, J COMMUN HEALTH, V25, P263, DOI 10.1023/A:1005104406934
+   Byers T, 1997, CA-CANCER J CLIN, V47, P154, DOI 10.3322/canjclin.47.3.154
+   Cairns CP, 2006, CANCER CAUSE CONTROL, V17, P1115, DOI 10.1007/s10552-006-0046-2
+   Carcaise-Edinboro P, 2008, MED CARE, V46, P738, DOI 10.1097/MLR.0b013e318178935a
+   Davis T C, 1993, Fam Med, V25, P391
+   Dulai GS, 2004, CANCER, V100, P1843, DOI 10.1002/cncr.20209
+   Geller BM, 2008, MED CARE, V46, pS36, DOI 10.1097/MLR.0b013e31817c60ea
+   Gennarelli M, 2005, MT SINAI J MED, V72, P36
+   Gorin SS, 2007, J NATL MED ASSOC, V99, P1371
+   Green PM, 2004, CANCER NURS, V27, P206, DOI 10.1097/00002820-200405000-00004
+   Greiner KA, 2005, J GEN INTERN MED, V20, P977, DOI 10.1111/j.1525-1497.2005.0165.x
+   Guerra CE, 2007, J GEN INTERN MED, V22, P1681, DOI 10.1007/s11606-007-0396-9
+   Holmes-Rovner M, 2002, CANCER PRACT, V10, P240, DOI 10.1046/j.1523-5394.2002.105003.x
+   Horner MJ, 2010, SEER CANC STAT REV 1
+   James AS, 2002, CANCER EPIDEM BIOMAR, V11, P529
+   Jorgensen CM, 2001, J WOMEN HEALTH GEN-B, V10, P417, DOI 10.1089/152460901300233876
+   Katz ML, 2004, BMC PUBLIC HEALTH, V4, DOI 10.1186/1471-2458-4-62
+   Khankari K, 2007, J GEN INTERN MED, V22, P1410, DOI 10.1007/s11606-007-0295-0
+   McAlearney AS, 2008, CANCER, V112, P391, DOI 10.1002/cncr.23156
+   McCaul K D, 1999, J Natl Cancer Inst Monogr, P52
+   Oxentenko AS, 2007, J CANCER EDUC, V22, P208, DOI 10.1007/BF03174119
+   Palmer Richard C, 2008, Cancer Control, V15, P72
+   Peterson N. B., 2008, PREVENTING CHRONIC D, V5, P1
+   Pignone M, 2002, ANN INTERN MED, V137, P132, DOI 10.7326/0003-4819-137-2-200207160-00015
+   Powe B D, 1994, J Natl Black Nurses Assoc, V7, P41
+   Schroy PC, 2001, PREV MED, V33, P381, DOI 10.1006/pmed.2001.0903
+   Sharma VK, 2000, AM J GASTROENTEROL, V95, P2068
+   Taylor V, 2003, J NATL MED ASSOC, V95, P806
+   *US PREV SERV TASK, 2002, GUID CLIN PREV SERV
+   Ward SH, 2010, J NATL MED ASSOC, V102, P303, DOI 10.1016/S0027-9684(15)30602-7
+   Woelfel J., 1980, MEASUREMENT COMMUNIC
+   Wong D L, 1988, Pediatr Nurs, V14, P9
+   Wong DL, 2001, PAIN, V89, P295, DOI 10.1016/S0304-3959(00)00375-4
+   Zack DL, 2001, AM J GASTROENTEROL, V96, P3004
+NR 39
+TC 13
+Z9 13
+U1 1
+U2 11
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA
+SN 1081-0730
+J9 J HEALTH COMMUN
+JI J. Health Commun.
+PD APR 1
+PY 2013
+VL 18
+IS 4
+BP 372
+EP 390
+DI 10.1080/10810730.2012.727961
+PG 19
+WC Communication; Information Science & Library Science
+SC Communication; Information Science & Library Science
+GA 109RV
+UT WOS:000316387100002
+PM 23343400
+DA 2019-03-26
+ER
+
+PT J
+AU Collier, KJ
+   Clapcott, JE
+   Duggan, IC
+   Hamilton, DP
+   Hamer, M
+   Young, RG
+AF Collier, K. J.
+   Clapcott, J. E.
+   Duggan, I. C.
+   Hamilton, D. P.
+   Hamer, M.
+   Young, R. G.
+TI SPATIAL VARIATION OF STRUCTURAL AND FUNCTIONAL INDICATORS IN A LARGE NEW
+   ZEALAND RIVER
+SO RIVER RESEARCH AND APPLICATIONS
+LA English
+DT Article
+DE spatial variability; biomonitoring; macroinvertebrates; phytoplankton;
+   zooplankton; ecosystem metabolism; cotton breakdown; decay rate
+ID UPPER MISSISSIPPI RIVER; ORGANIC-MATTER; ECOSYSTEM HEALTH; ECOLOGICAL
+   INTEGRITY; COMMUNITY STRUCTURE; PARTICLE-TRANSPORT; LITTER BREAKDOWN;
+   GREAT RIVERS; DANUBE RIVER; LAND-USE
+AB The ecological responses of large rivers to human pressure can be assessed at multiple scales using a variety of indicators, but little is known about how the responses of ecological indicators vary over small spatial scales. We sampled phytoplankton, zooplankton and macroinvertebrates and measured river metabolism and cotton strip breakdown rates (loss in tensile strength) in contrasting habitats along a 21-km urban-industrial reach on a constrained section of the Waikato River, New Zealand's longest river. Rates of gross primary production (2.8-7.8g O-2/m(2)/d) and ecosystem respiration (3.5-12.7g O-2/m(2)/d) did not differ consistently between near-shore (2-3m from river side) and far-shore (ca. 10m from side) locations, urban and industrial reaches or between autumn and spring sampling occasions. Rates of cotton decay (-k) ranged from 0.014 to 0.112 per day and were typically faster at far-shore locations and in the section of river receiving industrial inputs, but slower in spring compared with autumn. Nonmetric multidimensional scaling analysis of phytoplankton and zooplankton data did not reveal spatial patterns relating to pressure or location (embayment, edge, mid-river). However, the macroinvertebrate ordination suggested distinct communities for the mid-river benthos compared with near-shore communities and a distinction between sites in the urban reach and the industrial reach. Our results suggest that large-river macroinvertebrate communities and cotton decay rates can be influenced to varying degrees by reach-scale pressures and local habitat conditions. Monitoring designs in spatially complex rivers should account for habitat heterogeneity that can lead to differences in structural and functional indicator responses. Copyright (c) 2012 John Wiley & Sons, Ltd.
+C1 [Collier, K. J.; Duggan, I. C.; Hamilton, D. P.] Univ Waikato, Environm Res Inst, Hamilton, New Zealand.
+   [Collier, K. J.; Hamer, M.] Waikato Reg Council, Hamilton, New Zealand.
+   [Clapcott, J. E.; Young, R. G.] Cawthron Inst, Nelson, New Zealand.
+RP Collier, KJ (reprint author), Univ Waikato, Environm Res Inst, Private Bag 3105, Hamilton, New Zealand.
+EM kcollier@waikato.ac.nz
+RI Duggan, Ian/G-2275-2012; Hamilton, David/F-5039-2012; Young,
+   Roger/B-6534-2008; Collier, Kevin/Q-9863-2017
+OI Duggan, Ian/0000-0002-6037-9759; Hamilton, David/0000-0002-9341-8777;
+   Young, Roger/0000-0002-0999-4887; Collier, Kevin/0000-0002-5213-9907
+FU Waikato University Strategic Investment Fund; Foundation for Research,
+   Science and Technology [UOWX505]
+FX The authors thank Bryan Clements, Steve Moore, Wendy Paul, Chris
+   McBride, Louise Stewart, Dudley Bell, Austin Zang and Warrick Powrie for
+   assistance with various aspects of this work. This study was assisted by
+   funding from a Waikato University Strategic Investment Fund and the
+   Foundation for Research, Science and Technology (contract UOWX505). The
+   manuscript benefited from the comments by anonymous reviewers.
+CR Angradi TR, 2009, ENVIRON MONIT ASSESS, V152, P425, DOI 10.1007/s10661-008-0327-1
+   Angradi TR, 2009, J N AM BENTHOL SOC, V28, P785, DOI 10.1899/09-003.1
+   Applegate JM, 2007, RIVER RES APPL, V23, P683, DOI 10.1002/rra.1011
+   Arar E.J., 1997, IN VITRO DETERMINATI
+   Baranyi C, 2002, FRESHWATER BIOL, V47, P473, DOI 10.1046/j.1365-2427.2002.00822.x
+   Battle JM, 2007, ARCH HYDROBIOL, V168, P1, DOI 10.1127/1863-9135/2007/0168-0001
+   Beard S., 2010, 201010 ENV WAIK
+   Birk S, 2012, FRESHWATER BIOL, V57, P1716, DOI 10.1111/j.1365-2427.2012.02831.x
+   Boulton AJ, 2000, ARCH HYDROBIOL, V150, P133
+   Brown E. J., 2010, WATERS WAIKATO ECOLO, P29
+   Burdis RM, 2011, HYDROBIOLOGIA, V667, P69, DOI 10.1007/s10750-011-0639-y
+   Casas JJ, 1996, ARCH HYDROBIOL, V136, P489
+   Casper AF, 2007, RIVER RES APPL, V23, P73, DOI 10.1002/rra.966
+   Cellot B, 1996, FRESHWATER BIOL, V35, P149, DOI 10.1046/j.1365-2427.1996.00490.x
+   Chapman M. A., 1976, INTRO FRESHWATER CRU
+   Clapcott JE, 2012, FRESHWATER BIOL, V57, P74, DOI 10.1111/j.1365-2427.2011.02696.x
+   COLLIER KJ, 2010, WATERS WAIKATO ECOLO, P1
+   CONOVER WJ, 1981, AM STAT, V35, P124, DOI 10.2307/2683975
+   CUSHING CE, 1993, LIMNOL OCEANOGR, V38, P1101, DOI 10.4319/lo.1993.38.6.1101
+   Dickerson KD, 2010, RIVER RES APPL, V26, P605, DOI 10.1002/rra.1268
+   EBINA J, 1983, WATER RES, V17, P1721, DOI 10.1016/0043-1354(83)90192-6
+   Fellows CS, 2006, HYDROBIOLOGIA, V572, P71, DOI 10.1007/s10750-005-9001-6
+   Gawne B, 2007, RIVER RES APPL, V23, P1070, DOI 10.1002/rra.1033
+   Gessner MO, 2002, ECOL APPL, V12, P498, DOI 10.1890/1051-0761(2002)012[0498:ACFULB]2.0.CO;2
+   Griffith MB, 2005, ECOL INDIC, V5, P117, DOI 10.1019/j.ecolind.2004.11.001
+   Heino J, 2005, BIODIVERS CONSERV, V14, P415, DOI 10.1007/s10531-004-5064-z
+   Heino J, 2010, ECOL INDIC, V10, P112, DOI 10.1016/j.ecolind.2009.04.013
+   Hering D, 2006, FRESHWATER BIOL, V51, P1757, DOI 10.1111/j.1365-2427.2006.01610.x
+   Holst H, 2002, INT REV HYDROBIOL, V87, P267, DOI 10.1002/1522-2632(200205)87:2/3<267::AID-IROH267>3.0.CO;2-F
+   Houser JN, 2010, HYDROBIOLOGIA, V651, P127, DOI 10.1007/s10750-010-0282-z
+   Houser JN, 2010, HYDROBIOLOGIA, V640, P71, DOI 10.1007/s10750-009-0067-4
+   Hughes RM, 2000, HYDROBIOLOGIA, V422, P429, DOI 10.1023/A:1017029107669
+   Kim HW, 2002, INT REV HYDROBIOL, V87, P281, DOI 10.1002/1522-2632(200205)87:2/3<281::AID-IROH281>3.0.CO;2-V
+   Lane CR, 2007, RIVER RES APPL, V23, P1126, DOI 10.1002/rra.1038
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   MEYER JL, 1980, OIKOS, V34, P44, DOI 10.2307/3544548
+   Minshall GW, 2000, J N AM BENTHOL SOC, V19, P1, DOI 10.2307/1468278
+   National Institute of Water and Atmospheric Research (NIWA), 2010, HAM2010032 NIWA
+   Nilsson C, 2005, SCIENCE, V308, P405, DOI 10.1126/science.1107887
+   Owens M., 1974, MANUAL METHODS MEASU, P111
+   Paul MJ, 2002, J N AM BENTHOL SOC, V21, P195, DOI 10.2307/1468409
+   Preiner S, 2008, FRESHWATER BIOL, V53, P238, DOI 10.1111/j.1365-2427.2007.01888.x
+   Rekkendorfer W, 1999, FRESHWATER BIOL, V41, P583
+   Resh VH, 2008, ENVIRON MONIT ASSESS, V138, P131, DOI 10.1007/s10661-007-9749-4
+   Riipinen MP, 2009, FRESHWATER BIOL, V54, P2127, DOI 10.1111/j.1365-2427.2008.01964.x
+   Roach KA, 2009, FRESHWATER BIOL, V54, P607, DOI 10.1111/j.1365-2427.2008.02137.x
+   ROUNICK JS, 1983, ARCH HYDROBIOL, V96, P448
+   Rutherford JC, 2010, WATERS WAIKATO ECOLO, P47
+   Schiemer F., 2001, Archiv fuer Hydrobiologie Supplement, V135, P509
+   Schletterer M, 2010, ECOL INDIC, V10, P1083, DOI 10.1016/j.ecolind.2010.03.004
+   Shiel RJ, 1995, GUIDE IDENTIFICATION
+   Strayer DL, 2010, AQUAT SCI, V72, P127, DOI 10.1007/s00027-010-0128-9
+   Thomas SA, 2001, LIMNOL OCEANOGR, V46, P1415, DOI 10.4319/lo.2001.46.6.1415
+   Thorp JH, 2002, OIKOS, V96, P543, DOI 10.1034/j.1600-0706.2002.960315.x
+   Tiegs SD, 2007, J N AM BENTHOL SOC, V26, P70, DOI 10.1899/0887-3593(2007)26[70:CSAALS]2.0.CO;2
+   Uehlinger U, 2006, FRESHWATER BIOL, V51, P938, DOI 10.1111/j.1365-2427.2006.01551.x
+   USEPA, 2003, STAND OP PROC PHYT A
+   Uthermohl H., 1958, MITT INT VER LIMNOL, V9, P1
+   Vadadi-Fulop C, 2010, ENVIRON MONIT ASSESS, V163, P125, DOI 10.1007/s10661-009-0822-z
+   Walks DJ, 2007, CAN J FISH AQUAT SCI, V64, P1693, DOI 10.1139/F07-131
+   Walks DJ, 2004, FRESHWATER BIOL, V49, P745, DOI 10.1111/j.1365-2427.2004.01220.x
+   WILEY MJ, 1990, CAN J FISH AQUAT SCI, V47, P373, DOI 10.1139/f90-039
+   WINTERBOURN M J, 1973, Tuatara, V20, P141
+   Winterbourn M.J., 2000, B ENTOMOL SOC, V14, P1
+   Young RG, 2009, FRESHWATER BIOL, V54, P2155, DOI 10.1111/j.1365-2427.2009.02239.x
+   Young RG, 1999, ECOL APPL, V9, P1359, DOI 10.1890/1051-0761(1999)009[1359:EOLUOS]2.0.CO;2
+   Young RG, 2008, J N AM BENTHOL SOC, V27, P605, DOI 10.1899/07-121.1
+NR 67
+TC 3
+Z9 4
+U1 0
+U2 53
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1535-1459
+EI 1535-1467
+J9 RIVER RES APPL
+JI River Res. Appl.
+PD DEC
+PY 2013
+VL 29
+IS 10
+BP 1277
+EP 1290
+DI 10.1002/rra.2609
+PG 14
+WC Environmental Sciences; Water Resources
+SC Environmental Sciences & Ecology; Water Resources
+GA 271VY
+UT WOS:000328420900007
+DA 2019-03-26
+ER
+
+PT J
+AU Drew, DR
+   Barlow, JF
+   Cockerill, TT
+AF Drew, D. R.
+   Barlow, J. F.
+   Cockerill, T. T.
+TI Estimating the potential yield of small wind turbines in urban areas: A
+   case study for Greater London, UK
+SO JOURNAL OF WIND ENGINEERING AND INDUSTRIAL AERODYNAMICS
+LA English
+DT Article
+DE Wind; Energy; Micro-generation; Urban; Boundary layer; Roughness length;
+   Morphology
+ID ROUGHNESS; FLOW; PARAMETERS; TURBULENCE; BUILDINGS; TERRAIN; LAYER
+AB To optimise the placement of small wind turbines in urban areas a detailed understanding of the spatial variability of the wind resource is required. At present, due to a lack of observations, the NOABL wind speed database is frequently used to estimate the wind resource at a potential site. However, recent work has shown that this tends to overestimate the wind speed in urban areas. This paper suggests a method for adjusting the predictions of the NOABL in urban areas by considering the impact of the underlying surface on a neighbourhood scale. In which, the nature of the surface is characterised on a 1 km(2) resolution using an urban morphology database.
+   The model was then used to estimate the variability of the annual mean wind speed across Greater London at a height typical of current small wind turbine installations. Initial validation of the results suggests that the predicted wind speeds are considerably more accurate than the NOABL values. The derived wind map therefore currently provides the best opportunity to identify the neighbourhoods in Greater London at which small wind turbines yield their highest energy production. The model does not consider street scale processes, however previously derived scaling factors can be applied to relate the neighbourhood wind speed to a value at a specific rooftop site.
+   The results showed that the wind speed predicted across London is relatively low, exceeding 4 ms(-1) at only 27% of the neighbourhoods in the city. Of these sites less than 10% are within 10 km of the city centre, with the majority over 20 km from the city centre. Consequently, it is predicted that small wind turbines tend to perform better towards the outskirts of the city, therefore for cities which fit the Burgess concentric ring model, such as Greater London, 'distance from city centre' is a useful parameter for siting small wind turbines. However, there are a number of neighbourhoods close to the city centre at which the wind speed is relatively high and these sites can only been identified with a detailed representation of the urban surface, such as that developed in this study. (c) 2013 Elsevier Ltd. All rights reserved.
+C1 [Drew, D. R.; Barlow, J. F.] Univ Reading, Dept Meteorol, Reading RG6 2AH, Berks, England.
+   [Cockerill, T. T.] Imperial Coll London, Ctr Environm Policy, London, England.
+RP Drew, DR (reprint author), Univ Reading, Dept Meteorol, Reading RG6 2AH, Berks, England.
+EM d.r.drew@reading.ac.uk
+OI Cockerill, Tim/0000-0001-7914-2340
+FU Engineering and Physical Sciences Research Council (EPSRC) Doctoral
+   training grant; Engineering and Physical Sciences Research Council
+   [EP/G029938/1, EP/G031681/1]
+FX The authors acknowledge the financial support from the Engineering and
+   Physical Sciences Research Council (EPSRC) Doctoral training grant.
+   Thanks to Sylvia Bohnenstengel for the derived products from the Virtual
+   London dataset.
+CR Allen SR, 2008, P I MECH ENG A-J POW, V222, P669, DOI 10.1243/09576509JPE538
+   Bahaj AS, 2007, ENERG BUILDINGS, V39, P154, DOI 10.1016/j.enbuild.2006.06.001
+   Barlow JF, 2008, BOUND-LAY METEOROL, V127, P173, DOI 10.1007/s10546-007-9261-y
+   Bergman N., 2009, POWER PEOPLE DOMESTI
+   Best M, 2008, SMALL SCALE WIND E 1
+   Blackmore P, 2008, SITING MICROWIND TUR
+   Boehme T, 2008, WIND ENERGY, V11, P233, DOI 10.1002/we.257
+   Booker JD, 2010, RENEW ENERG, V35, P2027, DOI 10.1016/j.renene.2010.02.003
+   Britter RE, 2003, ANNU REV FLUID MECH, V35, P469, DOI 10.1146/annurev.fluid.35.101101.161147
+   Burch S, 1992, WN7055 ETSU
+   BURGESS EW, 1924, PUBLICATIONS AM SOCI, P85
+   Cheng H, 2002, BOUND-LAY METEOROL, V104, P229, DOI 10.1023/A:1016060103448
+   Coceal O, 2006, BOUND-LAY METEOROL, V121, P491, DOI 10.1007/s10546-006-9076-2
+   Elliott W. P., 1958, AM GEOPHYS UNION, V39, P1048
+   Encraft, 2009, WARW WIND TRIALS FIN
+   Energy Saving Trust, 2009, LOC LOC LOC DOM SMAL
+   ESDU, 1980, MEAN FLUID FORC MOM
+   Evans S., 2009, 3D CITIES NUMERICAL
+   Heath MA, 2007, WIND ENERGY, V10, P271, DOI 10.1002/we.222
+   Henriques JCC, 2009, RENEW ENERG, V34, P2728, DOI 10.1016/j.renene.2009.05.011
+   James PAB, 2010, ENERG POLICY, V38, P6130, DOI 10.1016/j.enpol.2010.05.070
+   Lun IYF, 2000, RENEW ENERG, V20, P145, DOI 10.1016/S0960-1481(99)00103-2
+   MacDonald RW, 1998, ATMOS ENVIRON, V32, P1857, DOI 10.1016/S1352-2310(97)00403-2
+   Mertens S., 2003, Wind Engineering, V27, P507, DOI 10.1260/030952403773617472
+   Mertens S, 2003, J SOL ENERG-T ASME, V125, P433, DOI 10.1115/1.1629309
+   Microgeneration Installation Standard, 2009, MIS3003
+   Muller G, 2009, RENEW ENERG, V34, P1407, DOI 10.1016/j.renene.2008.10.008
+   Padhra A, 2010, THESIS U READING
+   Panofsky H, 1984, ATMOSPHERIC TURBULEN
+   Ramrez P., 2005, ENERGY CONVERSION MA, V46, P2419
+   RenewableUK, 2010, SMALL WIND SYST
+   Rooney GG, 2001, BOUND-LAY METEOROL, V100, P469, DOI 10.1023/A:1019265913011
+   Roth M, 2000, Q J ROY METEOR SOC, V126, P941, DOI 10.1256/smsqj.56408
+   UK Meteorological Office, 2012, MIDAS LAND SURF STAT
+   Walker SL, 2011, ENERG BUILDINGS, V43, P1852, DOI 10.1016/j.enbuild.2011.03.032
+   Watson S., 2007, J PHYS C SERIES
+   WIERINGA J, 1993, BOUND-LAY METEOROL, V63, P323, DOI 10.1007/BF00705357
+NR 37
+TC 25
+Z9 25
+U1 0
+U2 32
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-6105
+J9 J WIND ENG IND AEROD
+JI J. Wind Eng. Ind. Aerodyn.
+PD APR
+PY 2013
+VL 115
+BP 104
+EP 111
+DI 10.1016/j.jweia.2013.01.007
+PG 8
+WC Engineering, Civil; Mechanics
+SC Engineering; Mechanics
+GA 123FM
+UT WOS:000317373800010
+DA 2019-03-26
+ER
+
+PT J
+AU Bechle, MJ
+   Millet, DB
+   Marshall, JD
+AF Bechle, Matthew J.
+   Millet, Dylan B.
+   Marshall, Julian D.
+TI Remote sensing of exposure to NO2: Satellite versus ground-based
+   measurement in a large urban
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE OMI; Nitrogen dioxide; Urban air quality; Remote sensing; Exposure
+ID AEROSOL OPTICAL DEPTH; LAND-USE REGRESSION; TROPOSPHERIC
+   NITROGEN-DIOXIDE; OZONE MONITORING INSTRUMENT; LEVEL PM2.5
+   CONCENTRATIONS; AIR-POLLUTION; UNITED-STATES; RETRIEVAL; SPACE; OMI
+AB Remote sensing may be a useful tool for exploring spatial variability of air pollution exposure within an urban area. To evaluate the extent to which satellite data from the Ozone Monitoring Instrument (OMI) can resolve urban-scale gradients in ground-level nitrogen dioxide (NO2) within a large urban area, we compared estimates of surface NO2 concentrations derived from OMI measurements and US EPA ambient monitoring stations. OMI, aboard NASA's Aura satellite, provides daily afternoon (similar to 13:30 local time) measurements of NO2 tropospheric column abundance. We used scaling factors (surface-to-column ratios) to relate satellite column measurements to ground-level concentrations. We compared 4138 sets of paired data for 25 monitoring stations in the South Coast Air Basin of California for all of 2005. OMI measurements include more data gaps than the ground monitors (60% versus 5% of available data, respectively), owing to cloud contamination and imposed limits on pixel size. The spatial correlation between OMI columns and corrected in situ measurements is strong (r=0.93 for annual average data), indicating that the within-urban spatial signature of surface NO2 is well resolved by the satellite sensor. Satellite-based surface estimates employing scaling factors from an urban model provide a reliable measure (annual mean bias: -13%; seasonal mean bias: <1% [spring] to -22% [fall]) of fine-scale surface NO2. We also find that OMI provides good spatial density in the study region (average area [km(2)] per measurement: 730 for the satellite sensor vs. 1100 for the monitors). Our findings indicate that satellite observations of NO2 from the OMI sensor provide a reliable measure of spatial variability in ground-level NO2 exposure for a large urban area. Published by Elsevier Ltd.
+C1 [Bechle, Matthew J.; Millet, Dylan B.; Marshall, Julian D.] Univ Minnesota, Dept Civil Engn, Minneapolis, MN 55455 USA.
+   [Millet, Dylan B.] Univ Minnesota, Dept Soil Water & Climate, Minneapolis, MN 55455 USA.
+RP Marshall, JD (reprint author), Univ Minnesota, Dept Civil Engn, Minneapolis, MN 55455 USA.
+EM julian@umn.edu
+RI Millet, Dylan/G-5832-2012
+FU NSF-Division of Chemical, Bioengineering, Environmental, and Transport
+   Systems (CBET) [0853467]
+FX This work was supported by NSF-Division of Chemical, Bioengineering,
+   Environmental, and Transport Systems (CBET) (grant 0853467). We
+   acknowledge the NASA GES DISC for the dissemination of OMI data, and the
+   US EPA AQS Data Mart for the dissemination of EPA monitor data.
+CR Acarreta JR, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD003915
+   Beelen R, 2008, ENVIRON HEALTH PERSP, V116, P196, DOI 10.1289/ehp.10767
+   Blond N, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007277
+   Boersma K.F., 2009, ATMOSPHERIC CHEM PHY, V9
+   Boersma K. F., 2002, OMI ALGORITHM THEORE, V4, P13
+   Boersma KF, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2003JD003962
+   Brauer M, 2008, ENVIRON HEALTH PERSP, V116, P680, DOI 10.1289/ehp.10952
+   Brauer M, 2012, ENVIRON SCI TECHNOL, V46, P652, DOI 10.1021/es2025752
+   Bucsela EJ, 2006, IEEE T GEOSCI REMOTE, V44, P1245, DOI 10.1109/TGRS.2005.863715
+   Burrows JP, 1999, J ATMOS SCI, V56, P151, DOI 10.1175/1520-0469(1999)056<0151:TGOMEG>2.0.CO;2
+   CASTELLSAGUE J, 1995, THORAX, V50, P1051, DOI 10.1136/thx.50.10.1051
+   Celarier EA, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD008908
+   Duncan BN, 2010, ATMOS ENVIRON, V44, P2213, DOI 10.1016/j.atmosenv.2010.03.010
+   Dunlea E.J., 2007, ATMOSPHERIC CHEM PHY, V7
+   Filleul L, 2005, OCCUP ENVIRON MED, V62, P453, DOI 10.1136/oem.2004.014746
+   Gauderman WJ, 2005, EPIDEMIOLOGY, V16, P737, DOI 10.1097/01.ede.00001813087.51440.75
+   Ghude SD, 2011, INT J REMOTE SENS, V32, P849, DOI 10.1080/01431161.2010.517797
+   Hoek G, 2008, ATMOS ENVIRON, V42, P7561, DOI 10.1016/j.atmosenv.2008.05.057
+   Hudman RC, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007912
+   Hudman R.C., 2008, GEOPHYS RES LETT, V34
+   Hystad P, 2011, ENVIRON HEALTH PERSP, V119, P1123, DOI 10.1289/ehp.1002976
+   Kim JJ, 2004, AM J RESP CRIT CARE, V170, P520, DOI 10.1164/rccm.200403-2810C
+   Kloog I, 2012, ENVIRON SCI TECHNOL, V46, P11913, DOI 10.1021/es302673e
+   Kloog I, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034664
+   Kloog I, 2011, ATMOS ENVIRON, V45, P6267, DOI 10.1016/j.atmosenv.2011.08.066
+   Kramer LJ, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009168
+   Lamsal LN, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009235
+   Lamsal LN, 2010, J GEOPHYS RES-ATMOS, V115, DOI 10.1029/2009JD013351
+   Levelt PF, 2006, IEEE T GEOSCI REMOTE, V44, P1093, DOI 10.1109/TGRS.2006.872333
+   Liang J., 1998, J GEOPHYS RES, V103
+   Lin JT, 2010, ATMOS ENVIRON, V44, P1726, DOI 10.1016/j.atmosenv.2010.02.009
+   Liu Y, 2004, J GEOPHYS RES-ATMOS, V109, DOI [10.1029/2004JD005025, 10.1029/2003JD003981]
+   Liu Y, 2005, ENVIRON SCI TECHNOL, V39, P3269, DOI 10.1021/es049352rn
+   Liu Y, 2007, J AIR WASTE MANAGE, V57, P1351, DOI 10.3155/1047-3289.S7.11.1351
+   Liu Y, 2007, REMOTE SENS ENVIRON, V107, P33, DOI 10.1016/j.rse.2006.05.022
+   Madsen C, 2011, ATMOS ENVIRON, V45, P3576, DOI 10.1016/j.atmosenv.2011.03.069
+   Marshall JD, 2008, ATMOS ENVIRON, V42, P1359, DOI 10.1016/j.atmosenv.2007.08.012
+   Martin RV, 2008, ATMOS ENVIRON, V42, P7823, DOI 10.1016/j.atmosenv.2008.07.018
+   Martin RV, 2002, J GEOPHYS RES-ATMOS, V107, DOI 10.1029/2001JD001027
+   Mathers C., 2009, GLOB HLTH RISKS MORT
+   Meng ZY, 2010, ATMOS ENVIRON, V44, P2625, DOI 10.1016/j.atmosenv.2010.04.008
+   Novotny EV, 2011, ENVIRON SCI TECHNOL, V45, P4407, DOI 10.1021/es103578x
+   Ordonez C, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006305
+   Ospital J., 2008, MULTIPLE AIR TOXICS
+   Petritoli A, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004547
+   Russell AR, 2011, ATMOS CHEM PHYS, V11, P8543, DOI 10.5194/acp-11-8543-2011
+   Russell AR, 2010, ENVIRON SCI TECHNOL, V44, P3608, DOI 10.1021/es903451j
+   Schoeberl MR, 2006, IEEE T GEOSCI REMOTE, V44, P1066, DOI 10.1109/TGRS.2005.861950
+   South Coast Air Quality Management District, 2007, 2007 AIR QUAL MAN PL
+   Steinbacher M, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007971
+   US Environmental Protection Agency, 1975, TECHN ASS DOC CHEM M
+   US Environmental Protection Agency Office of Air Quality Planning and Standards, 2008, NAT AIR QUAL EM TREN
+   Valin LC, 2011, ATMOS CHEM PHYS, V11, P11647, DOI 10.5194/acp-11-11647-2011
+   Valin LC, 2011, ATMOS MEAS TECH, V4, P1929, DOI 10.5194/amt-4-1929-2011
+   van Donkelaar A, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD006996
+   van Donkelaar A, 2010, ENVIRON HEALTH PERSP, V118, P847, DOI 10.1289/ehp.0901623
+   Weber SA, 2010, J AIR WASTE MANAGE, V60, P574, DOI 10.3155/1047-3289.60.5.574
+NR 57
+TC 38
+Z9 40
+U1 3
+U2 75
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD APR
+PY 2013
+VL 69
+BP 345
+EP 353
+DI 10.1016/j.atmosenv.2012.11.046
+PG 9
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 103QB
+UT WOS:000315932800037
+DA 2019-03-26
+ER

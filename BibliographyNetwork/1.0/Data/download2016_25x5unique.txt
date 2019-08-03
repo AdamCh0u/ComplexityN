@@ -1,0 +1,408 @@
+
+PT J
+AU Pont, MTS
+   Mora, HM
+   Chamizo, JMG
+AF Signes Pont, Maria Teresa
+   Mora Mora, Higinio
+   Garcia Chamizo, Juan Manuel
+TI A Computational Approach of the French Flag Model to Connect Growth and
+   Specification in Developmental Biology
+SO Cognitive Computation
+LA English
+DT Article
+DE Neighbor rules; Emergent effect; Pattern formation; French Flag model;
+   Vertebrate limb development; Computational intelligence
+ID INFORMATION
+AB The study of the mechanisms that link the global system behavior to the interaction of its parts is an important issue to the field of complex systems. This occurs in many natural systems in biology, ecology and physics. Nature-inspired computation tries to capture and exploit natural solutions in order to solve real problems in many different fields such as telecommunication networks, architecture and urban spaces design, sociology or economy planning. The main purpose of the present research is the creation of a computational path connecting a set of low-level interactions with high-level emerging behaviors. The low-level interactions are modeled by very simple neighbor binary rules. The upper level highlights a regular pattern formation. This framework has been applied to approach the pattern formation in the vertebrate limb development under the scope of the French Flag model.
+   We have developed a four-level theoretical framework. The lowest level defines a set of neighbor binary rules. The second level comes from the iterative application of these rules on sequences of binary values. The resulting sequences are interpreted as arithmetic function values, in binary or decimal representation. The third level highlights a set of computational primitives that have the capability to build directly the function values. Any function can be carried out by means of a particular combination of these primitives, denoted seed behavior. In the fourth level, the emergent behavioral effect is highlighted as a scaling process of the seed behavior.
+   Some functions that have been defined by the four-level framework have been successfully applied to model the French Flag model (progressive specification, intercalary specification and early specification) which is a well-known approach to the pattern formation in the vertebrate limb development.
+   Our empirical research highlights it is possible to develop a computational model which connects very simple rules to complex behavioral patterns. The way consists of a hierarchical organization of computing embedded steps. Our model provides a numerical and geometrical counterpart to the French Flag model and therefore proves its capability to be a formal basis to the case of vertebrate limb development. These encouraging results suggest as a future work the improvement in this model. The composition of functions must be explored as well as new combinations of building primitives in order to identify more emergent effects. More, the relevance of quantitative emergent effects must be highlighted in future applications to natural cases. It is expected that the development of these operations will help addressing new issues such as truncation and graft in vertebrate limbs.
+C1 [Signes Pont, Maria Teresa; Mora Mora, Higinio; Garcia Chamizo, Juan Manuel] Univ Alicante, Dept Tecnol Informat & Comp, Campus San Vicente del Raspeig,Ap 99, E-03080 Alicante, Spain.
+RP Pont, MTS (reprint author), Univ Alicante, Dept Tecnol Informat & Comp, Campus San Vicente del Raspeig,Ap 99, E-03080 Alicante, Spain.
+EM teresa@dtic.ua.es; hmora@dtic.ua.es; juanma@dtic.ua.es
+RI Garcia-Chamizo, Juan Manuel/L-4871-2014; Mora, Higinio/L-3347-2014
+OI Garcia-Chamizo, Juan Manuel/0000-0002-6034-3369; Mora,
+   Higinio/0000-0002-8591-0710
+CR Al-Dabass D., 2007, HDB RES NATURE INSPI
+   Arvin F, 2014, 2014 IEEE INTERNATIONAL CONFERENCE ON MECHATRONICS AND AUTOMATION (IEEE ICMA 2014), P635, DOI 10.1109/ICMA.2014.6885771
+   Bacanin N., 2013, P 5 INT C APPL EC BU, P163
+   Chazelle B, 2014, J ACM, V61, DOI 10.1145/2629613
+   Ducatelle F, 2014, SWARM INTELL-US, V8, P1, DOI 10.1007/s11721-013-0089-4
+   Eldos T, 2013, P 12 WSEAS INT C SIG, P58
+   Farooq U, 2011, IEEE T SYST MAN CY C, V41, P407
+   Green JBA, 2015, DEVELOPMENT, V142, P1203, DOI 10.1242/dev.114991
+   Knabe JF, 2008, ARTIFICIAL LIFE 11
+   Kotteritzsch A, 2016, COGN COMPUT, V8, P299, DOI 10.1007/s12559-015-9355-7
+   Kutrib M, 2011, LNCS MODELS COMPUTAT, V6735, P171
+   Moussaid M, 2012, PEDESTRIAN EVACUATIO, P75
+   Moussaid M, 2009, TOP COGN SCI, V1, P469, DOI 10.1111/j.1756-8765.2009.01028.x
+   Siddique N, 2015, COGN COMPUT, V7, P706, DOI 10.1007/s12559-015-9370-8
+   Signes MT, 2014, P WORLD C INF SYST T
+   Signes MT, 2015, RECENT ADV ELECT ENG, V4
+   Signes MT, 2012, P EUROMICRO INT C PA
+   Signes MT, 2013, P 43 ANN IEEE IFIP I
+   Sommer AP, 2010, J BIONIC ENG, V7, P1, DOI 10.1016/S1672-6529(09)60186-4
+   Spector L., 2005, Genetic Programming and Evolvable Machines, V6, P111, DOI 10.1007/s10710-005-7620-3
+   Tong Q, 2013, POULTRY SCI, V92, P620, DOI 10.3382/ps.2012-02509
+   Towers M, 2009, DEVELOPMENT, V136, P179, DOI 10.1242/dev.024158
+   Ullah A, 2016, COGN COMPUT, V8, P992, DOI 10.1007/s12559-016-9391-y
+   Weinstock M., 2010, ARCH DES, V80, P118
+   Wilson PA, 2014, COGN COMPUT, V6, P814, DOI 10.1007/s12559-014-9299-3
+   Wolpert L, 2010, PRINCIPLES DEV
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 7
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1866-9956
+EI 1866-9964
+J9 COGN COMPUT
+JI Cogn. Comput.
+PD DEC
+PY 2016
+VL 8
+IS 6
+BP 1057
+EP 1063
+DI 10.1007/s12559-016-9426-4
+PG 7
+WC Computer Science, Artificial Intelligence; Neurosciences
+SC Computer Science; Neurosciences & Neurology
+GA EE0XW
+UT WOS:000389304300004
+DA 2019-03-26
+ER
+
+PT J
+AU Arbabi, H
+   Mayfield, M
+AF Arbabi, Hadi
+   Mayfield, Martin
+TI Urban and RuralPopulation and Energy Consumption Dynamics in Local
+   Authorities within England and Wales
+SO BUILDINGS
+LA English
+DT Article
+DE population; population density; urban; rural; domestic energy; urban
+   sustainability
+ID BUILT ENVIRONMENT; CARBON FOOTPRINTS; HUMAN-SETTLEMENTS; GROWING CITIES;
+   CO2 EMISSIONS; FORM; DENSITY; SIZE; GROWTH; POLICY
+AB The formulation of feasible and pragmatic policies that mitigate climate change would require a thorough understanding of the interconnectivity that exists between environment, energy, and the composition of our settlements both urban and rural. This study explores the patterns of energy consumption in England and Wales by investigating consumption behavior within domestic and transport sectors as a function of city characteristics, such as population, density, and density distribution for 346 Local Authority Units (LAU). Patterns observed linking energetic behavior of these LAUs to their respective population and area characteristics highlight some distinctly contrasting consumption behaviors within urban and rural zones. This provides an overview of the correlation between urban/rural status, population, and energy consumption and highlights points of interest for further research and policy intervention. The findings show that energy consumption across cities follows common power law scaling increasing sub-linearly with their population regardless of their urban/rural classification. However, when considering per capita and sector specific consumptions, decreasing per capita consumption patterns are observed for growing population densities within more uniformly populated urban LAUs. This is while rural and sparsely populated LAUs exhibit sharply different patterns for gas, electricity, and transport per capita consumption.
+C1 [Arbabi, Hadi; Mayfield, Martin] Univ Sheffield, Dept Civil & Struct Engn, Sheffield S1 3JD, S Yorkshire, England.
+RP Arbabi, H (reprint author), Univ Sheffield, Dept Civil & Struct Engn, Sheffield S1 3JD, S Yorkshire, England.
+EM harbabi1@sheffield.ac.uk; martin.mayfield@sheffield.ac.uk
+OI Arbabi, Hadi/0000-0001-8518-9022
+CR Anderson WP, 1996, URBAN STUD, V33, P7, DOI 10.1080/00420989650012095
+   Andrienko Natalia, 2006, EXPLORATORY ANAL SPA
+   [Anonymous], 2013, WORLD EN OUTL 2013
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Baiocchi G, 2015, GLOBAL ENVIRON CHANG, V34, P13, DOI 10.1016/j.gloenvcha.2015.06.001
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bibby P., 2014, URBAN RURAL CLASSIFI
+   Bristow DN, 2013, AMBIO, V42, P41, DOI 10.1007/s13280-012-0350-x
+   Chen YG, 2010, DISCRETE DYN NAT SOC, DOI 10.1155/2010/194715
+   Cottineau C., 2016, PHYS SOC PH
+   Department for Environment Food & Rural Affairs, 2011, 2011 RUR URB CLASS L
+   Echenique MH, 2012, J AM PLANN ASSOC, V78, P121, DOI 10.1080/01944363.2012.666731
+   Fragkias M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064727
+   Gordon I, 2004, PLANNING THEORY PRAC, V5, P371
+   Gordon I, 2008, ENERG POLICY, V36, P4652, DOI 10.1016/j.enpol.2008.09.002
+   Haigh G., 2014, SUBNATIONAL CONSUMPT
+   Horta-Bernus R, 2015, J URBAN TECHNOL, V22, P3, DOI 10.1080/10630732.2014.955340
+   Hui SCM, 2001, RENEW ENERG, V24, P627, DOI 10.1016/S0960-1481(01)00049-0
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   Karathodorou N, 2010, ENERG ECON, V32, P86, DOI 10.1016/j.eneco.2009.05.005
+   Lo AY, 2016, LAND USE POLICY, V54, P212, DOI 10.1016/j.landusepol.2016.02.014
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   Manfren M, 2011, APPL ENERG, V88, P1032, DOI 10.1016/j.apenergy.2010.10.018
+   Masucci AP, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0763
+   Mindali O, 2004, TRANSPORT RES A-POL, V38, P143, DOI 10.1016/j.tra.2003.10.004
+   Minx J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035039
+   Mohajeri N, 2015, ECOL MODEL, V307, P32, DOI 10.1016/j.ecolmodel.2015.03.014
+   Mohajeri N, 2015, TRANSPORT RES D-TR E, V35, P116, DOI 10.1016/j.trd.2014.11.025
+   Mohajeri N, 2014, J GEOGR SCI, V24, P363, DOI 10.1007/s11442-014-1093-3
+   Newman P., 1999, SUSTAINABILITY CITIE
+   NEWMAN PWG, 1989, J AM PLANN ASSOC, V55, P24, DOI 10.1080/01944368908975398
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   Norman J, 2006, J URBAN PLAN D-ASCE, V132, P10, DOI 10.1061/(ASCE)0733-9488(2006)132:1(10)
+   O'Brien WT, 2010, ENVIRON PLANN B, V37, P1002, DOI 10.1068/b36030
+   Palmer J., 2011, GREAT BRITAINS HOUSI
+   Palmer J, 2012, UK HOUSING ENERGY FA
+   Paulsen K, 2012, REG SCI URBAN ECON, V42, P561, DOI 10.1016/j.regsciurbeco.2012.02.002
+   Rode P, 2014, ENVIRON PLANN B, V41, P138, DOI 10.1068/b39065
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Schwarz N, 2010, LANDSCAPE URBAN PLAN, V96, P29, DOI 10.1016/j.landurbplan.2010.01.007
+   Starke L., 2007, STAT WORLD 2007 OUR
+   Tsai YH, 2005, URBAN STUD, V42, P141, DOI 10.1080/004209804200309748
+   UN, 2012, WORLD URB PROSP 2011, P302
+   Wiedenhofer D, 2013, ENERG POLICY, V63, P696, DOI 10.1016/j.enpol.2013.07.035
+   World Energy Council, 2013, WORLD EN RES 2013 SU, P468
+NR 49
+TC 3
+Z9 3
+U1 1
+U2 3
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2075-5309
+J9 BUILDINGS
+JI Buildings
+PD SEP
+PY 2016
+VL 6
+IS 3
+AR UNSP 34
+DI 10.3390/buildings6030034
+PG 14
+WC Construction & Building Technology
+SC Construction & Building Technology
+GA DZ0MB
+UT WOS:000385532700010
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Vieira, ES
+   Lepori, B
+AF Vieira, Elizabeth S.
+   Lepori, Benedetto
+TI The growth process of higher education institutions and public policies
+SO JOURNAL OF INFORMETRICS
+LA English
+DT Article
+DE Organizational size; Growth process; Higher education institutions;
+   Gibrat's law; Cumulative advantage
+ID WEB-OF-SCIENCE; BIBLIOMETRIC STATISTICAL PROPERTIES; GIBRATS-LAW;
+   UNIVERSITY-RESEARCH; SCALING RULES; ZIPFS LAW; DISTRIBUTIONS;
+   PERFORMANCE; SYSTEM; CITIES
+AB This paper investigates the growth over time of the size of higher education institutions (HEls), as measured by the number of academic staff, and its association with HEI and country attributes. We analyze a sample of 837 HEIs from 18 countries derived from the European Tertiary Education Register (ETER) and from the European Micro Data dataset (EUMIDA) for the years 2008 and 2012. Our analysis shows that (1) HEIs growth is largely proportional to their size, leading to a nearly log-normal distribution of size (Gibrat's law), even if small institutions tend to grow faster; (2) the growth of the number of students and HEI's reputation level positively influences HEI growth. Consequently (3) small HEls need a lower level of reputation and less growth of students to continue growing over time, while only highly reputed HEIs are able to maintain a large size over time. Our results are relevant to understand the extent to which cumulative effects lead to a lasting concentration of resources in the HE system and whether public policies are able to redistribute resources based on merit. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Vieira, Elizabeth S.] Univ Porto, Fac Ciencias, REQUIMTE Dept Quim & Bioquim, Rua Campo Alegre 687, P-4169007 Oporto, Portugal.
+   [Lepori, Benedetto] Univ Svizzera Italiana, Inst Management, Via Lambertenghi 10, CH-6900 Lugano, Switzerland.
+RP Lepori, B (reprint author), Univ Svizzera Italiana, Inst Management, Via Lambertenghi 10, CH-6900 Lugano, Switzerland.
+EM elizabeth.vieira@fc.up.pt; benedetto.lepori@usi.ch
+RI Vieira, Elizabeth/A-6820-2010
+OI Vieira, Elizabeth/0000-0002-2240-110X
+FU FCT (Foundation of Science and Technology), Portugal
+   [SFRH/BPD/99246/2013]; EU-FP project Research Infrastructure for
+   research and innovation policy studies (RISIS); European Commission
+FX Elizabeth Vieira wishes to acknowledge the financial support from FCT
+   (Foundation of Science and Technology), Portugal, through a grant
+   SFRH/BPD/99246/2013. The authors also wish to thank the EU-FP project
+   Research Infrastructure for research and innovation policy studies
+   (RISIS) for support and the European Commission for funding the EUMIDA
+   and ETER contracts.
+CR Abramo G, 2015, J ASSOC INF SCI TECH, V66, P2202, DOI 10.1002/asi.23323
+   Adamic LA., 2000, Q J ELECT COMMERCE, V1, P5, DOI DOI 10.2139/SSRN.166108
+   Adams M, 2014, BUS HIST, V56, P956, DOI 10.1080/00076791.2013.848341
+   Audretsch DB, 2004, REV IND ORGAN, V24, P301, DOI 10.1023/B:REIO.0000038273.50622.ec
+   Auranen O, 2010, RES POLICY, V39, P822, DOI 10.1016/j.respol.2010.03.003
+   Becchetti L, 2002, SMALL BUS ECON, V19, P291, DOI 10.1023/A:1019678429111
+   Bonaccorsi A., 2007, U STRATEGIC KNOWLEDG, P31
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   COILE RC, 1977, J AM SOC INFORM SCI, V28, P366, DOI 10.1002/asi.4630280610
+   Gavel Y, 2008, ONLINE INFORM REV, V32, P8, DOI 10.1108/14684520810865958
+   Geuna A, 2003, MINERVA, V41, P277, DOI 10.1023/B:MINE.0000005155.70870.bd
+   Gonzalez-Val R, 2014, URBAN STUD, V51, P93, DOI 10.1177/0042098013484528
+   Gonzalez-Val R, 2013, ECON LETT, V118, P367, DOI 10.1016/j.econlet.2012.11.020
+   Gros C, 2012, EUR PHYS J B, V85, DOI 10.1140/epjb/e2011-20581-3
+   Havemann F, 2004, SCIENTOMETRICS, V60, P283, DOI 10.1023/B:SCIE.0000034374.79769.ed
+   Hicks D, 2012, RES POLICY, V41, P251, DOI 10.1016/j.respol.2011.09.007
+   IJIRI Y, 1967, ECONOMETRICA, V35, P348, DOI 10.2307/1909116
+   Jongbloed B., 2001, J HIGH EDUC POLICY M, V23, P127, DOI DOI 10.1080/13600800120088625
+   Jongbloed B., 2015, FUNDING RES HIGHER E
+   Katz JS, 1999, RES POLICY, V28, P501, DOI 10.1016/S0048-7333(99)00010-4
+   KATZ JS, 2000, SCI PUBL POLICY, V27, P23, DOI DOI 10.3152/147154300781782156
+   Kyvik S, 2009, HIGH EDUC DYNAM, V27, P1, DOI 10.1007/978-1-4020-9248-0
+   Kyvik S., 2010, RES MISSION HIGHER E
+   Kyvik S., 2004, HIGHER ED EUROPE, V29, P393, DOI DOI 10.1080/0379772042000331679
+   Lensink R, 2005, SMALL BUS ECON, V24, P381, DOI 10.1007/s11187-005-7121-z
+   Lepori B., 2014, HDB DATA COLLECTION
+   Lepori B, 2010, HIGH EDUC POLICY, V23, P295, DOI 10.1057/hep.2010.11
+   Lepori B, 2010, MINERVA, V48, P73, DOI 10.1007/s11024-010-9143-1
+   MANSFIELD E, 1962, AM ECON REV, V52, P1023
+   Meho LI, 2008, J AM SOC INF SCI TEC, V59, P1711, DOI 10.1002/asi.20874
+   Mitzenmacher M., 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   Monteiro MJ, 2015, EUR POLYM J, V65, P197, DOI 10.1016/j.eurpolymj.2015.01.009
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Norris M, 2007, J INFORMETR, V1, P161, DOI 10.1016/j.joi.2006.12.001
+   Okuyama K, 1999, PHYSICA A, V269, P125, DOI 10.1016/S0378-4371(99)00086-2
+   Perc M, 2010, J INFORMETR, V4, P358, DOI 10.1016/j.joi.2010.03.001
+   Plerou V, 1999, NATURE, V400, P433
+   PRICE DJD, 1965, SCIENCE, V149, P510
+   Resende M, 2004, URBAN STUD, V41, P1537, DOI 10.1080/0042098042000226993
+   RIDDLE P, 1993, SOCIOL PERSPECT, V36, P45, DOI 10.2307/1389441
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Schofer E, 2005, AM SOCIOL REV, V70, P898, DOI 10.1177/000312240507000602
+   Shin-Ya Y, 2003, POLYM INT, V52, P838, DOI 10.1002/pi.1182
+   Skronda A., 2008, MULTILEVEL LONGITUDI
+   Steele C, 2008, RELIAB ENG SYST SAFE, V93, P1574, DOI 10.1016/j.ress.2007.09.005
+   Strehl F, 2007, OECD ED WORKING PAPE, V6
+   van den Besselaar P, 2009, RES EVALUAT, V18, P273, DOI 10.3152/095820209X475360
+   van Raan A. F. J., 2013, PLOS ONE, V8
+   van Raan AFJ, 2006, J AM SOC INF SCI TEC, V57, P408, DOI 10.1002/asi.20284
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P565, DOI 10.1002/asi.20765
+   van Raan AFJ, 2008, J AM SOC INF SCI TEC, V59, P461, DOI 10.1002/asi.20761
+   van Raan AFJ, 2006, J AM SOC INF SCI TEC, V57, P1919, DOI 10.1002/asi.20389
+   Vieira ES, 2009, SCIENTOMETRICS, V81, P587, DOI 10.1007/s11192-009-2178-0
+   Willis JC, 1922, NATURE, V109, P177, DOI 10.1038/109177a0
+NR 54
+TC 1
+Z9 1
+U1 2
+U2 28
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1751-1577
+EI 1875-5879
+J9 J INFORMETR
+JI J. Informetr.
+PD FEB
+PY 2016
+VL 10
+IS 1
+BP 286
+EP 298
+DI 10.1016/j.joi.2016.01.001
+PG 13
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science
+SC Computer Science; Information Science & Library Science
+GA DG2ZF
+UT WOS:000371938600024
+DA 2019-03-26
+ER
+
+PT B
+AU Wang, YC
+   Chen, Y
+   Yan, QN
+AF Wang, Yin-Chuan
+   Chen, Ying
+   Yan, Qiao-Na
+BE Liu, YM
+   Fu, D
+   Tong, ZX
+   Bao, ZQ
+   Tang, B
+TI Study on population and land expansion and their coordinated relations-a
+   case of Hebei Province
+SO CIVIL ENGINEERING AND URBAN PLANNING IV
+LA English
+DT Proceedings Paper
+CT 4th International Conference on Civil Engineering and Urban Planning
+   (CEUP)
+CY JUL 25-27, 2015
+CL Bosen Acad Conf Solut Co Ltd, Beijing, PEOPLES R CHINA
+HO Bosen Acad Conf Solut Co Ltd
+AB Urbanization is one of main reasons for world progress and development. In order to understand the urban population size of Hebei as well as land scale development law and status, this paper analyzed the coordinated relationship between urban population and land to guide the future urban development. The time span considered in this paper was 13 years, from 2000 to 2012, and the rank-size rule was used to analyze the development laws of urban population and urban built-up area of 33 cities in Hebei Province, and then the allometric growth and urban land expansion parameters were adopted to analyze their relationship from the levels of time and space. The results showed that the Hebei urban system was not perfect and the urban size was small. The primacy ratios of population size knots and built-up area were low. From the vertical perspective, the allometric relationship of the whole province was gradually significant from 2006, and the growth rate of the built-up area was significantly higher than that of urban population. From the horizontal perspective, the land expansion coefficients of most cities were higher than the reasonable value, the urban population density was low, and land-use efficiency was yet to be improved.
+C1 [Wang, Yin-Chuan; Chen, Ying; Yan, Qiao-Na] Agr Univ Hebei, Coll Land & Resources, Baoding, Hebei, Peoples R China.
+RP Wang, YC (reprint author), Agr Univ Hebei, Coll Land & Resources, Baoding, Hebei, Peoples R China.
+CR Chen Y.G., 2001, SCI GEOGR SINICA, V21, P412
+   Chen Yanguang, 1999, J XINYANG TEACHERS C, V12, P198
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   [刘继�? Liu Jisheng], 2005, [地理科学, Scientia Geographica Sinica], V25, P135
+   Tang Y., 2011, J JIMEI U, V14, P59
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CRC PRESS-TAYLOR & FRANCIS GROUP
+PI BOCA RATON
+PA 6000 BROKEN SOUND PARKWAY NW, STE 300, BOCA RATON, FL 33487-2742 USA
+BN 978-1-315-64515-5; 978-1-138-02903-3
+PY 2016
+BP 175
+EP 180
+PG 6
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA BG0LT
+UT WOS:000386326000029
+DA 2019-03-26
+ER
+
+PT B
+AU Xu, Y
+AF Xu, Y.
+BE Wilkinson, SP
+   Xia, J
+   Chen, B
+TI Green building cluster: Key to China's green building industrialisation?
+SO SUSTAINABLE BUILDINGS AND STRUCTURES
+LA English
+DT Proceedings Paper
+CT 1st International Conference on Sustainable Buildings and Structures
+   (ICSBS)
+CY OCT 29-31, 2015
+CL Xian Jiaotong Liverpool Univ, Suzhou, PEOPLES R CHINA
+SP Suzhou Municipal Govt, Suzhou Univ Sci & Technol
+HO Xian Jiaotong Liverpool Univ
+ID ENERGY EFFICIENCY; TRENDS
+AB Green building has become a primary development goal in China, but how to promote the scaling development of the green building industry remains challenging. This paper overviews the development of the global green market and identifies that green building has already become a global trend with important business opportunities. It further utilises the concept of 'Industrial Cluster' (Porter 1990) and discusses its adaptation to green building cluster since the late 1990s overseas. Cases in Europe and America prove its multiple benefits to the cluster members, cluster management, industrial development and regional economic growth. An effective green building cluster combines the traditional building sector with emerging areas of opportunities, and adapts to the local industrial basis and development conditions, including demand, factor, context, and related supporting industries (Diamond Model by Porter 1990). It argues that by extending the industrial chain, developing new knowledge, products, services and business relations, as well as inducing scaling impacts within and out of the cluster, the green building cluster conforms to the primary requirement of sustainable development and industrial upgrading. This paper concludes that the green building cluster has the potential to identify new growth points and promote large-scale green urban development in China, which further contributes to the reform of the prevalent yet unsustainable urban development in China which is property-led, investment-driven and energy-intensive.
+C1 [Xu, Y.] Xian Jiaotong Liverpool Univ, Dept Urban Planning & Design, Suzhou, Jiangsu, Peoples R China.
+RP Xu, Y (reprint author), Xian Jiaotong Liverpool Univ, Dept Urban Planning & Design, Suzhou, Jiangsu, Peoples R China.
+CR Allen JH, 2008, ECON DEV Q, V22, P303, DOI 10.1177/0891242408325701
+   [Anonymous], 2008, PREP CHIN URB BILL
+   [Anonymous], 2013, XINHUA NEWS
+   [Anonymous], 2014, 163 NEWS
+   [Anonymous], 2014, XINHUA NEWS
+   Bardhan A, 2011, GREEN BUILDINGS GREE
+   Barsoumian S., 2011, ECOINNOVATION NATL C
+   Berk B., 2005, SUSTAINABLE BUILDING
+   CCICED, 2009, CHIN PATHW LOW CARB
+   Ecoplus, 2010, EC SUPP CLUST
+   European Green Capital, 2010, STOCKHOLM EUROPEAN G
+   Helmut Berrer J.B., 2011, EC IMPACT LOWER AUST
+   Kats G., 2003, COSTS FINANCIAL BENE
+   Li J, 2009, J ENVIRON MANAGE, V90, P2436, DOI 10.1016/j.jenvman.2008.12.015
+   Liang J, 2007, ENERG BUILDINGS, V39, P1098, DOI 10.1016/j.enbuild.2006.12.002
+   MARKUSEN A, 1985, STEEL SE CHICAGO REA
+   McGraw-Hill Construction, 2013, SMART MARK REP WORLD
+   McHarg I., 1969, DESIGN NATURE
+   Ministry Of Finance & Ministry Of Housing And Rural-Urban Development, 2012, OP ACC DEV GREEN BUI
+   Nelson A. J., GREEN BUILDINGS NICH
+   North D. C, 1990, I I CHANGE EC PERFOR
+   Porter M.E., 2006, COMMUNICATION
+   Porter M. E., 1998, COMPETITION, P197
+   Porter ME, 2000, ECON DEV Q, V14, P15, DOI 10.1177/089124240001400105
+   Porter Michael E, 1990, COMPETITIVE ADVANTAG
+   Ratcliffe J., 2003, URBAN PLANNING REAL
+   State Coucil, 2013, GREEN BUILD ACT PLAN
+   Sternberg E., 1991, ECON DEV Q, V5, P342
+   Storper M., 1985, 68 U CAL GRAD SCH AR
+   Vin M., VALUE COST SAVINGS U
+   World Bank, 2001, CHIN OPP IMPR EN EFF
+   World Green Building Council, 2013, BUS CAS GREEN BUILD
+   Xue Z., 2010, RES REPORT GREEN BUI
+   Zhao J., 2009, ENERG POLICY, P37
+NR 34
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CRC PRESS-TAYLOR & FRANCIS GROUP
+PI BOCA RATON
+PA 6000 BROKEN SOUND PARKWAY NW, STE 300, BOCA RATON, FL 33487-2742 USA
+BN 978-1-315-64713-5; 978-1-138-02898-2
+PY 2016
+BP 261
+EP 268
+PG 8
+WC Architecture; Construction & Building Technology; Engineering, Civil
+SC Architecture; Construction & Building Technology; Engineering
+GA BF9OP
+UT WOS:000385791200036
+DA 2019-03-26
+ER

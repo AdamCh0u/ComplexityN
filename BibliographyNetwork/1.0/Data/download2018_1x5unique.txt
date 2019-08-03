@@ -1,0 +1,596 @@
+
+PT J
+AU Sane, Y
+   Panthou, G
+   Bodian, A
+   Vischel, T
+   Lebel, T
+   Dacosta, H
+   Quantin, G
+   Wilcox, C
+   Ndiaye, O
+   Diongue-Niang, A
+   Kane, MD
+AF Sane, Youssouph
+   Panthou, Geremy
+   Bodian, Ansoumana
+   Vischel, Theo
+   Lebel, Thierry
+   Dacosta, Honore
+   Quantin, Guillaume
+   Wilcox, Catherine
+   Ndiaye, Ousmane
+   Diongue-Niang, Aida
+   Kane, Mariane Diop
+TI Intensity-duration-frequency (IDF) rainfall curves in Senegal
+SO NATURAL HAZARDS AND EARTH SYSTEM SCIENCES
+LA English
+DT Article
+ID EXTREME RAINFALL; REGIONAL RAINFALL; SCALE-INVARIANCE; WEST-AFRICA;
+   PRECIPITATION; SAHEL; VARIABILITY; FRAMEWORK; PROPERTY; SYSTEM
+AB Urbanization resulting from sharply increasing demographic pressure and infrastructure development has made the populations of many tropical areas more vulnerable to extreme rainfall hazards. Characterizing extreme rainfall distribution in a coherent way in space and time is thus becoming an overarching need that requires using appropriate models of intensity-duration-frequency (IDF) curves. Using a 14 series of 5 min rainfall records collected in Senegal, a comparison of two generalized extreme value (GEV) and scaling models is carried out, resulting in the selection of the more parsimonious one (four parameters), as the recommended model for use. A bootstrap approach is proposed to compute the uncertainty associated with the estimation of these four parameters and of the related rainfall return levels for durations ranging from 1 to 24 h. This study confirms previous works showing that simple scaling holds for characterizing the temporal scaling of extreme rainfall in tropical regions such as sub-Saharan Africa. It further provides confidence intervals for the parameter estimates and shows that the uncertainty linked to the estimation of the GEV parameters is 3 to 4 times larger than the uncertainty linked to the inference of the scaling parameter. From this model, maps of IDF parameters over Senegal are produced, providing a spatial vision of their organization over the country, with a north to south gradient for the location and scale parameters of the GEV. An influence of the distance from the ocean was found for the scaling parameter. It is acknowledged in conclusion that climate change renders the inference of IDF curves sensitive to increasing non-stationarity effects, which requires warning end-users that such tools should be used with care and discernment.
+C1 [Sane, Youssouph; Ndiaye, Ousmane; Diongue-Niang, Aida; Kane, Mariane Diop] Agence Natl Aviat Civile & Meteorol ANACIM, Dakar, Senegal.
+   [Panthou, Geremy; Vischel, Theo; Lebel, Thierry; Quantin, Guillaume; Wilcox, Catherine] Univ Grenoble Alpes, IRD, CNRS, Grenoble INP,IGE, F-38000 Grenoble, France.
+   [Bodian, Ansoumana] Univ Gaston Berger, Lab Leidi, St Louis, Senegal.
+   [Dacosta, Honore] Univ Cheikh Anta Diop, Dept Geog, Dakar, Senegal.
+RP Panthou, G (reprint author), Univ Grenoble Alpes, IRD, CNRS, Grenoble INP,IGE, F-38000 Grenoble, France.
+EM geremy.panthou@univ-grenoble-alpes.fr
+OI Bodian, Ansoumana/0000-0003-3107-6019
+FU UK's National Environment Research Council (NERC)/Department for
+   International Development (DFID) Future Climate For Africa programme,
+   under the AMMA-2050 project [NE/M020428/1, NE/M019969/1, NE/M019950/1,
+   NE/M020126/1, NE/M019934/1]
+FX The research leading to these results received funding from the UK's
+   National Environment Research Council (NERC)/Department for
+   International Development (DFID) Future Climate For Africa programme,
+   under the AMMA-2050 project (grant numbers NE/M020428/1, NE/M019969/1,
+   NE/M019950/1, NE/M020126/1 and NE/M019934/1).
+CR Agbazo M, 2016, EARTH SCI RES J, V20, pD1, DOI 10.15446/esrj.v20n1.49405
+   Bara M, 2009, CONTRIB GEOPHYS GEOD, V39, P187, DOI DOI 10.2478/V10189-010-0010-8
+   Begueria S, 2006, J APPL METEOROL CLIM, V45, P108, DOI 10.1175/JAM2324.1
+   Blanchet J, 2016, J HYDROL, V540, P82, DOI 10.1016/j.jhydrol.2016.06.007
+   Blanchet J, 2009, WATER RESOUR RES, V45, DOI 10.1029/2009WR007916
+   Bodian A., 2016, CLIMATOLOGIE, V13, P38
+   Borga M, 2005, NAT HAZARDS, V36, P221, DOI 10.1007/s11069-004-4550-y
+   Cheng LY, 2014, SCI REP-UK, V4, DOI 10.1038/srep07093
+   Coles S., 2001, INTRO STAT MODELING
+   De Paola F, 2014, SPRINGERPLUS, V3, DOI 10.1186/2193-1801-3-133
+   Di Baldassarre G, 2010, GEOPHYS RES LETT, V37, DOI 10.1029/2010GL045467
+   Diongue A, 2002, Q J ROY METEOR SOC, V128, P1899, DOI 10.1256/003590002320603467
+   Diop L, 2016, EUROPEAN SCI J, V12, P231, DOI DOI 10.19044/ESJ.2016.V12N12P231
+   Efron B., 1994, INTRO BOOTSTRAP
+   Field C. B., 2012, SPECIAL REPORT WORKI
+   FRIGESSI A, 2002, EXTREMES, V5, P219, DOI DOI 10.1023/A:1024072610684
+   Gerold LA, 2005, J HYDROL ENG, V10, P450, DOI 10.1061/(ASCE)1084-0699(2005)10:6(450)
+   Ghanmi H, 2016, J HYDROL, V541, P38, DOI 10.1016/j.jhydrol.2016.07.002
+   Giugni M., 2015, URBAN VULNERABILITY, P37
+   Hosking J. R. M., 1997, REGIONAL FREQUENCY A
+   Innocenti S, 2017, HYDROL EARTH SYST SC, V21, P5823, DOI 10.5194/hess-21-5823-2017
+   IPCC, 2014, SYNTH REP INT PAN CL
+   Janicot S, 2011, ATMOS SCI LETT, V12, P58, DOI 10.1002/asl.280
+   Koutsoyiannis D, 2004, HYDROLOG SCI J, V49, P591, DOI 10.1623/hysj.49.4.591.54424
+   Koutsoyiannis D, 1998, J HYDROL, V206, P118, DOI 10.1016/S0022-1694(98)00097-3
+   KRUSKAL WH, 1952, J AM STAT ASSOC, V47, P583
+   Laaroubi H., 2007, THESIS
+   Lafore JP, 2011, ATMOS SCI LETT, V12, P7, DOI 10.1002/asl.335
+   Laurent H., 1998, PHYS CHEM EARTH, V23, P629, DOI [10.1016/S0079-1946(98)00099-8, DOI 10.1016/S0079-1946(98)00099-8]
+   Le Barbe L, 2002, J CLIMATE, V15, P187, DOI 10.1175/1520-0442(2002)015<0187:RVIWAD>2.0.CO;2
+   Lebel T, 2009, J HYDROL, V375, P3, DOI 10.1016/j.jhydrol.2009.03.020
+   Mathon V, 2002, J APPL METEOROL, V41, P1081, DOI 10.1175/1520-0450(2002)041<1081:MCSRIT>2.0.CO;2
+   Mechoulam R, 2014, CANNABINOIDS, P1, DOI 10.1007/s10584-014-1141-0
+   Melese V, 2018, J HYDROL, V558, P579, DOI 10.1016/j.jhydrol.2017.07.054
+   Menabde M, 1999, WATER RESOUR RES, V35, P335, DOI 10.1029/1998WR900012
+   Miller J.F., 1973, PRECIPITATION FREQUE
+   Mohymont B, 2006, HYDROLOG SCI J, V51, P239, DOI 10.1623/hysj.51.2.239
+   Mohymont B, 2004, NAT HAZARD EARTH SYS, V4, P375, DOI 10.5194/nhess-4-375-2004
+   NERC, 1975, FLOOD STUD REP TECH
+   Nhat L. M., 2008, ANN J HYDRAULIC ENG, V52, P1
+   Nicholson Sharon E., 2013, ISRN Meteorology, DOI 10.1155/2013/453521
+   Oyegoke S., 2008, ENV RES J, V2, P7
+   Panthou G, 2014, HYDROL EARTH SYST SC, V18, P5093, DOI 10.5194/hess-18-5093-2014
+   Panthou G, 2014, INT J CLIMATOL, V34, P3998, DOI 10.1002/joc.3984
+   Panthou G, 2012, WATER RESOUR RES, V48, DOI 10.1029/2012WR012052
+   Panthou G, 2013, J GEOPHYS RES-ATMOS, V118, P8222, DOI 10.1002/jgrd.50340
+   Papalexiou SM, 2013, WATER RESOUR RES, V49, P187, DOI 10.1029/2012WR012557
+   Rodriguez-Sola R, 2017, INT J CLIMATOL, V37, P770, DOI 10.1002/joc.4738
+   Sane Y, 2012, Q J ROY METEOR SOC, V138, P2182, DOI 10.1002/qj.1932
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Soro G E, 2010, Journal of Applied Sciences, V10, P704
+   SORO GE, 2008, EUR J SCI RES, V21, P394
+   Taylor CM, 2017, NATURE, V544, P475, DOI 10.1038/nature22069
+   Tschakert P, 2010, CLIMATIC CHANGE, V103, P471, DOI [10.1007/s10584.009.9776.y, 10.1007/s10584-009-9776-y]
+   Van de Vyver H, 2010, HYDROLOG SCI J, V55, P555, DOI 10.1080/02626661003747390
+   Vauchel P., 1992, PLUVIO LOGICIEL GEST
+   Yilmaz A. G., 2016, INT J CLIMATOL
+   Yu PS, 2004, J HYDROL, V295, P108, DOI 10.1016/j.jhydrol.2004.03.003
+NR 58
+TC 1
+Z9 1
+U1 5
+U2 6
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1561-8633
+J9 NAT HAZARD EARTH SYS
+JI Nat. Hazards Earth Syst. Sci.
+PD JUL 5
+PY 2018
+VL 18
+IS 7
+BP 1849
+EP 1866
+DI 10.5194/nhess-18-1849-2018
+PG 18
+WC Geosciences, Multidisciplinary; Meteorology & Atmospheric Sciences;
+   Water Resources
+SC Geology; Meteorology & Atmospheric Sciences; Water Resources
+GA GL8VA
+UT WOS:000437504900001
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Walters, LEM
+   Scott, RE
+   Mars, M
+AF Walters, Laticha Elizabeth Marolana
+   Scott, Richard Ernest
+   Mars, Maurice
+TI A Teledermatology Scale-Up Framework and Roadmap for Sustainable
+   Scaling: Evidence-Based Development
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+LA English
+DT Article
+DE teledermatology; scale-up; Teledermatology Scale-up Framework; TDSF;
+   Teledermatology Scale-up Framework Implementation Roadmap; TDSF-IR;
+   design science research; KwaZulu-Natal; South Africa
+AB Background: The objectives of South Africa's electronic health (eHealth) strategy recognize the value proposition that telemedicine practices hold for rural and urban referrals, but a lack of accepted and formalized scale-up has impeded realization of benefits. While both synchronous and asynchronous teledermatology exist, these remain localized and not scaled-up. Skin pathology is often the first sign of an HIV/AIDS infection, which remains a major cause of morbidity and mortality in South Africa. It is essential to replace the current inefficient dermatology referral process with a swift, organized, and efficacious one.
+   Objective: The objective of this study is to present an evidenced-based teledermatology scale-up framework (TDSF) and implementation roadmap (TDSF-IR).
+   Methods: A qualitative method with a design science research process model was used which consisted of 5 phases: (1) Awareness, which confirmed the need for an evidence-based TDSF and supporting TDSF-IR; (2) Suggestion, where a proposal was delivered on how to develop a TDSF and TDSF-IR; (3) Development, where we identified recommended design requirements and used these to identify and critique existing teledermatology or related scale-up frameworks; (4) Evaluation and validation, where we assessed outputs of the development phase against the design requirements and validated by confirming the veracity of the TDSF and TDSF-IR (validation involved 4 key senior teledermatology stakeholders using a questionnaire with a 5-point Likert scale); and (5) Conclusion, where validation results were used to finalize and communicate the TDSF and TDSF-IR to users.
+   Results: The study identified 5 TDSF components: eHealth building blocks, eHealth strategic objectives and budget, scale-up continuum periods, scale-up drivers, and scale-up phases. In addition, 36 subcomponents were identified. Each was further characterized and described to enable design of the final evidence-based TDSF. An implementation roadmap (TDSF-IR) was also prepared as a guide for an implementer with step-by-step instructions for application of the TDSF. For the validation study of the TDSF and supporting TDSF-IR, 4 purposively selected key senior teledermatology management stakeholders were asked if they found it useful as a guide to assist the South African public health system with teledermatology scale-up. The mean (SD) of Likert-scale rating was 4.0 (0.53) where 4=Agree and 33 of 36 responses were either agree or strongly agree.
+   Conclusions: This study developed a TD SF and supporting roadmap (TD SF-IR) that are evidence-based. The proposed approach and described tools could be adapted to assist with ensuring scale-up and sustainability for other eHealth practices in other locations.
+C1 [Walters, Laticha Elizabeth Marolana; Scott, Richard Ernest; Mars, Maurice] Univ KwaZulu Natal, Dept Telehlth, 719 Umbilo Rd, ZA-4013 Durban, South Africa.
+   [Walters, Laticha Elizabeth Marolana] CSIR, Meraka Inst, Pretoria, South Africa.
+   [Scott, Richard Ernest] Univ Calgary, Dept Community Hlth Sci, Calgary, AB, Canada.
+   [Scott, Richard Ernest] Global E Hlth Inc, NT Consulting, Calgary, AB, Canada.
+RP Mars, M (reprint author), Univ KwaZulu Natal, Dept Telehlth, 719 Umbilo Rd, ZA-4013 Durban, South Africa.
+EM mars@ukzn.ac.za
+FU Fogarty International Center of the National Institutes of Health
+   [D43TW007004]; Council for Scientific and Industrial Research, Meraka
+   Institute, Pretoria, South Africa
+FX Research reported in this publication acknowledges the contributions of
+   KwaZulu-Natal Department of Health, University of KwaZulu-Natal
+   Department of Dermatology, and the Council for Scientific and Industrial
+   Research, especially, Professor N Dlova, Professor A Mosam, Professor P
+   Kotze, and Dr R Eashwari for their and their team's contributions. The
+   research was supported by the Fogarty International Center of the
+   National Institutes of Health under Award Number D43TW007004 and the
+   Council for Scientific and Industrial Research, Meraka Institute,
+   Pretoria, South Africa. The content is solely the responsibility of the
+   authors and does not necessarily represent the official views of the
+   National Institutes of Health or Fogarty International or Council for
+   Scientific and Industrial Research.
+CR American AOD, 2017, TEL TOOLK
+   American Telemedicine Association, 2018, TEL SIG
+   Bashshur RL, 2015, TELEMED E-HEALTH, V21, P953, DOI 10.1089/tmj.2015.0146
+   Carruthers J., 2013, DERMATOLOGY WORLD
+   Christiansen EK, 2015, MOVING TELEMEDICINE
+   Department of Reproductive Health and Research World Health Organization, 2010, 9 STEPS DEV SCAL UP
+   Walters LE, 2016, STUD HEALTH TECHNOL, V231, P143, DOI 10.3233/978-1-61499-712-2-143
+   Hu J, 2011, J GLOB INFECT DIS, V3, P275, DOI 10.4103/0974-777X.83535
+   Jabareen Y. R., 2009, INT J QUAL METH, V8, P49, DOI DOI 10.1177/160940690900800406
+   Jones T, 2011, EHEALTH MANAGING RIS
+   MCCARTHY J, 1980, ARTIF INTELL, V13, P27, DOI 10.1016/0004-3702(80)90011-9
+   Miles M, 1994, QUALITATIVE DATA ANA, V18
+   Naidoo S, 2015, TELEMEDICINE PUBLIC, V8
+   Oninla OA, 2014, AIDS RES TREAT, DOI 10.1155/2014/360970
+   Project MI, 2017, GUID PROJ MAN BOD KN
+   Simmons R, 2007, SCALING HLTH SERVICE
+   Sokolovich N, HIMSS15 ANN C EXH AD
+   South Africa National Department of Health, 2016, ANN REPORT
+   South Africa National Department of Health. National Department of Health, 2012, NAT EHEALTH STRAT S
+   Vaishnavi V, DESIGN SCI RES INFOR
+   Walters L, 2018, SACJ, V39
+   Walters L, 2018, BMC HLTH SERV RES
+   World Health Organization, 2011, HIS COUNTR OWN LEAD
+NR 23
+TC 0
+Z9 0
+U1 1
+U2 2
+PU JMIR PUBLICATIONS, INC
+PI TORONTO
+PA 59 WINNERS CIRCLE, TORONTO, ON M4L 3Y7, CANADA
+SN 1438-8871
+J9 J MED INTERNET RES
+JI J. Med. Internet Res.
+PD JUN
+PY 2018
+VL 20
+IS 6
+AR e224
+DI 10.2196/jmir.9940
+PG 10
+WC Health Care Sciences & Services; Medical Informatics
+SC Health Care Sciences & Services; Medical Informatics
+GA GK5GT
+UT WOS:000436203400003
+PM 29925492
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Chen, Z
+   Zhou, YK
+   Jin, XB
+AF Chen, Zhen
+   Zhou, Yinkang
+   Jin, Xiaobin
+TI A Novel Index Based on Binary Entropy to Confirm the Spatial Expansion
+   Degree of Urban Sprawl
+SO ENTROPY
+LA English
+DT Article
+DE urban sprawl; point pattern analysis; binary entropy; index
+ID METROPOLITAN-AREA; LAND-USE; GROWTH; SYSTEMS; COVER; ECOLOGY; CHENNAI;
+   IMPACT; REGION; FORM
+AB The phenomenon of urban sprawl has received much attention. Accurately confirming the spatial expansion degree of urban sprawl (SEDUS) is a prerequisite to controlling urban sprawl. However, there is no reliable metric to accurately measure SEDUS. In this paper, based on binary entropy, we propose a new index named the spatial expansion degree index (SEDI), to overcome this difficulty. The study shows that the new index can accurately determine SEDUS and, compared with other commonly used measures, the new index has an obvious advantage in measuring SEDUS. The new index belongs to the second-order metrics of point pattern analysis, and greatly extends the concept of entropy. The new index can also be applied to other spatial differentiation research from a broader perspective. Although the new index is influenced by the scaling problem, because of small differences between different scales, given that the partition scheme in the research process is the same, the new index is a quite robust method for measuring SEDUS.
+C1 [Chen, Zhen; Zhou, Yinkang; Jin, Xiaobin] Nanjing Univ, Sch Geog & Oceanog Sci, Nanjing 210046, Jiangsu, Peoples R China.
+RP Zhou, YK; Jin, XB (reprint author), Nanjing Univ, Sch Geog & Oceanog Sci, Nanjing 210046, Jiangsu, Peoples R China.
+EM xxhua1126@126.com; yinkangnj@126.com; xiaobinnj@163.com
+CR Aithal BH, 2016, J INDIAN SOC REMOTE, V44, P617, DOI 10.1007/s12524-015-0482-0
+   Arribas-Bel D, 2011, COMPUT ENVIRON URBAN, V35, P263, DOI 10.1016/j.compenvurbsys.2010.10.002
+   Bhatta B, 2010, APPL GEOGR, V30, P731, DOI 10.1016/j.apgeog.2010.02.002
+   Cabral P, 2016, ECOSYST SERV, V22, P318, DOI 10.1016/j.ecoser.2016.08.005
+   Cabral P, 2013, ENTROPY-SWITZ, V15, P5223, DOI 10.3390/e15125223
+   Clausius R., 1867, MECH THEORY HEAT ITS, P376
+   Dewan AM, 2014, SPRING GEOGR, P99, DOI 10.1007/978-94-007-6735-5_6
+   Dewan AM, 2012, INT J ENVIRON SUSTAI, V11, P118, DOI 10.1504/IJESD.2012.049178
+   Dietzel C, 2005, ENVIRON PLANN B, V32, P231, DOI 10.1068/b31148
+   Ewing R, 1997, J AM PLANN ASSOC, V63, P107, DOI 10.1080/01944369708975728
+   Fan Y, 2017, ENTROPY-SWITZ, V19, DOI 10.3390/e19020051
+   Ferdinent J.J., 2013, INT J ADV REMOTE SEN, V2, P49
+   Frenkel A, 2008, ENVIRON PLANN B, V35, P56, DOI 10.1068/b32155
+   Frenkel A, 2012, J AM PLANN ASSOC, V78, P16, DOI 10.1080/01944363.2011.643533
+   Galster G, 2001, HOUS POLICY DEBATE, V12, P681, DOI 10.1080/10511482.2001.9521426
+   Gordon P, 1997, J AM PLANN ASSOC, V63, P95, DOI 10.1080/01944369708975727
+   Gowri VS, 2008, ENVIRON MONIT ASSESS, V138, P41, DOI 10.1007/s10661-007-9789-9
+   Hamidi S, 2014, LANDSCAPE URBAN PLAN, V128, P72, DOI 10.1016/j.landurbplan.2014.04.021
+   Hasse JE, 2003, APPL GEOGR, V23, P159, DOI 10.1016/j.apjeog.2003.08.002
+   Herold M., 2005, Computers, Environment and Urban Systems, V29, P369, DOI 10.1016/j.compenvurbsys.2003.12.001
+   Herold M, 2003, REMOTE SENS ENVIRON, V86, P286, DOI 10.1016/S0034-4257(03)00075-0
+   Jaeger JAG, 2010, ECOL INDIC, V10, P427, DOI 10.1016/j.ecolind.2009.07.010
+   Jaeger JAG, 2010, ECOL INDIC, V10, P397, DOI 10.1016/j.ecolind.2009.07.007
+   Jat MK, 2008, INT J APPL EARTH OBS, V10, P26, DOI 10.1016/j.jag.2007.04.002
+   Jayaprakash M, 2015, ECOTOX ENVIRON SAFE, V120, P243, DOI 10.1016/j.ecoenv.2015.05.042
+   Jelinski DE, 1996, LANDSCAPE ECOL, V11, P129, DOI 10.1007/BF02447512
+   Jiang F, 2007, J GEOGR SCI, V17, P469, DOI 10.1007/s11442-007-0469-z
+   Leopold L. B., 1962, CONCEPT ENTROPY LAND
+   Miller MD, 2012, APPL GEOGR, V34, P171, DOI 10.1016/j.apgeog.2011.11.010
+   Monishiya B., 2012, INT J ADV FOR SCI MA, V1, P1
+   O'Sullivan D., 2010, GEOGRAPHIC INFORM AN, P121
+   O'Sullivan D., 2010, GEOGRAPHIC INFORM AN, P157
+   OPENSHAW S, 1977, ENVIRON PLANN A, V9, P169, DOI 10.1068/a090169
+   Padmanaban R, 2012, INT J ADV EARTH SCI, V1, P13
+   Padmanaban R, 2017, ENTROPY-SWITZ, V19, DOI 10.3390/e19040163
+   Perry GLW, 2006, PLANT ECOL, V187, P59, DOI 10.1007/s11258-006-9133-4
+   Pielke RA, 2005, SCIENCE, V310, P1625, DOI 10.1126/science.1120529
+   RIITTERS KH, 1995, LANDSCAPE ECOL, V10, P23, DOI 10.1007/BF00158551
+   Sarvestani MS, 2011, CITIES, V28, P320, DOI 10.1016/j.cities.2011.03.002
+   Seto KC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023777
+   SHANNON CE, 1948, BELL SYST TECH J, V27, P623, DOI 10.1002/j.1538-7305.1948.tb00917.x
+   Stow DA, 2004, REMOTE SENS ENVIRON, V89, P281, DOI 10.1016/j.rse.2003.10.018
+   SUDHIRA H.S, 2004, INT J APPL EARTH OBS, V5, P29, DOI DOI 10.1016/J.JAG.2003.08.002
+   Sun H, 2007, NETW SPAT ECON, V7, P353, DOI 10.1007/s11067-007-9030-y
+   Tan MH, 2005, LAND USE POLICY, V22, P187, DOI 10.1016/j.landusepol.2004.03.003
+   Tewolde MG, 2011, REMOTE SENS-BASEL, V3, P2148, DOI 10.3390/rs3102148
+   Thomas R. W., 1981, INFORM STAT GEOGRAPH
+   TORRENS P. M., 2008, APPL SPAT ANAL POLIC, V1, P5, DOI DOI 10.1007/S12061-008-9000-X
+   Tsai YH, 2005, URBAN STUD, V42, P141, DOI 10.1080/004209804200309748
+   Uffink J, 2001, STUD HIST PHILOS M P, V32B, P305, DOI 10.1016/S1355-2198(01)00016-8
+   Visalatchi, 2012, INT J ADV EARTH SCI, V1, P1
+   Wilson A, 2010, GEOGR ANAL, V42, P364, DOI 10.1111/j.1538-4632.2010.00799.x
+   Wilson EH, 2003, REMOTE SENS ENVIRON, V86, P275, DOI 10.1016/S0034-4257(03)00074-9
+   Wu J.G., 2007, LANDSCAPE ECOLOGY PA, P107
+   Yeh AGO, 2001, PHOTOGRAMM ENG REM S, V67, P83
+   Yue WZ, 2013, LAND USE POLICY, V31, P358, DOI 10.1016/j.landusepol.2012.07.018
+NR 56
+TC 0
+Z9 0
+U1 5
+U2 5
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1099-4300
+J9 ENTROPY-SWITZ
+JI Entropy
+PD AUG
+PY 2018
+VL 20
+IS 8
+AR 559
+DI 10.3390/e20080559
+PG 15
+WC Physics, Multidisciplinary
+SC Physics
+GA GS1BV
+UT WOS:000443250500015
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Cheney, AM
+   Koenig, CJ
+   Miller, CJ
+   Zamora, K
+   Wright, P
+   Stanley, R
+   Fortney, J
+   Burgess, JF
+   Pyne, JM
+AF Cheney, Ann M.
+   Koenig, Christopher J.
+   Miller, Christopher J.
+   Zamora, Kara
+   Wright, Patricia
+   Stanley, Regina
+   Fortney, John
+   Burgess, James F.
+   Pyne, Jeffrey M.
+TI Veteran-centered barriers to VA mental healthcare services use
+SO BMC HEALTH SERVICES RESEARCH
+LA English
+DT Article
+DE Cultural domain analysis; Health care services use; Mental health;
+   Patient-centered care; Qualitative research; Veterans
+ID WOMEN VETERANS; PERCEIVED BARRIERS; QUALITY; AFGHANISTAN; PROVIDERS;
+   ATTITUDES; CULTURE; ILLNESS; ACCESS; SYSTEM
+AB Background: Some veterans face multiple barriers to VA mental healthcare service use. However, there is limited understanding of how veterans' experiences and meaning systems shape their perceptions of barriers to VA mental health service use. In 2015, a participatory, mixed-methods project was initiated to elicit veteran-centered barriers to using mental healthcare services among a diverse sample of US rural and urban veterans. We sought to identify veteran-centric barriers to mental healthcare to increase initial engagement and continuation with VA mental healthcare services.
+   Methods: Cultural Domain Analysis, incorporated in a mixed methods approach, generated a cognitive map of veterans' barriers to care. The method involved: 1) free lists of barriers categorized through participant pile sorting; 2) multi-dimensional scaling and cluster analysis for item clusters in spatial dimensions; and 3) participant review, explanation, and interpretation for dimensions of the cultural domain. Item relations were synthesized within and across domain dimensions to contextualize mental health help-seeking behavior.
+   Results: Participants determined five dimensions of barriers to VA mental healthcare services: concern about what others think; financial, personal, and physical obstacles; confidence in the VA healthcare system; navigating VA benefits and healthcare services; and privacy, security, and abuse of services.
+   Conclusions: These findings demonstrate the value of participatory methods in eliciting meaningful cultural insight into barriers of mental health utilization informed by military veteran culture. They also reinforce the importance of collaborations between the VA and Department of Defense to address the role of military institutional norms and stigmatizing attitudes in veterans' mental health-seeking behaviors.
+C1 [Cheney, Ann M.] Univ Calif Riverside, Sch Med, Ctr Hlth Communities, Dept Social Med Populat & Publ Hlth, 900 Univ Ave, Riverside, CA 92521 USA.
+   [Koenig, Christopher J.] San Francisco State Univ, Dept Commun Studies, 1600 Holloway Ave, San Francisco, CA 94132 USA.
+   [Miller, Christopher J.; Burgess, James F.] VA Boston Healthcare Syst, Ctr Healthcare Org & Implementat Res, 150 S Huntington Ave, Boston, MA 02130 USA.
+   [Miller, Christopher J.] Harvard Med Sch, Dept Psychiat, 2 West,Room 305,401 Pk Dr, Boston, MA 02215 USA.
+   [Zamora, Kara] San Francisco Vet Affairs Hlth Care Syst, 4150 Clement St, San Francisco, CA 94121 USA.
+   [Wright, Patricia] Univ Arkansas Med Sci, Sch Nursing, 220 Campus Dr, Little Rock, AR 72205 USA.
+   [Stanley, Regina; Pyne, Jeffrey M.] Cent Arkansas VA Hlth Care Syst, HSR&D Ctr Innovat, 2200 Ft Roots Dr Bldg 58 152 NLR, North Little Rock, AR 72114 USA.
+   [Fortney, John] VA Puget Sound Hlth Care Syst, Ctr Innovat Vet Ctr & Value Driven Care, Hlth Serv Res & Dev, 1660 S Columbian Way S-152, Seattle, WA 98108 USA.
+   [Fortney, John] Univ Washington, Dept Psychiat & Behav Sci, 1959 NE Pacific St, Seattle, WA 98195 USA.
+   [Pyne, Jeffrey M.] Univ Arkansas Med Sci, Dept Psychiat & Behav Sci, 4301 W Markham St, Little Rock, AR 72205 USA.
+RP Cheney, AM (reprint author), Univ Calif Riverside, Sch Med, Ctr Hlth Communities, Dept Social Med Populat & Publ Hlth, 900 Univ Ave, Riverside, CA 92521 USA.
+EM ann.cheney@medsch.ucr.edu
+OI Koenig, Christopher J./0000-0003-0884-4120
+FU VA HSRD grant [CRE 12-300]; National Institute on Drug Abuse [R25
+   DA035692]; Department of Veterans Affairs, Veterans Health
+   Administration, Office of Research and Development, Health Services
+   Research and Development Service
+FX This project was supported by VA HSR&D grant (CRE 12-300) to Jeffrey
+   Pyne. At the time of the study, Ann Cheney was a Scholar with the
+   HIV/AIDS, Substance Abuse, and Trauma Training Program (HA-STTP), at the
+   University of California, Los Angeles; supported through an award from
+   the National Institute on Drug Abuse (R25 DA035692). This material is
+   based upon work supported by the Department of Veterans Affairs,
+   Veterans Health Administration, Office of Research and Development,
+   Health Services Research and Development Service. The contents of this
+   presentation do not represent the views of the Department of Veterans
+   Affairs or the United States Government.
+CR Abraham T, 2017, AM J MENS HEALTH, V11, P1358, DOI 10.1177/1557988315596037
+   [Anonymous], 2016, VERBI SOFTWARE CONSU
+   Bardes CL, 2012, NEW ENGL J MED, V366, P782, DOI 10.1056/NEJMp1200070
+   Bauer MS, 2005, INT J PSYCHIAT MED, V35, P13, DOI 10.2190/U1D5-8B1D-UW69-U1Y4
+   Bean-Mayberry B, 2011, J GEN INTERN MED, V26, pS296
+   Bernard  H., 2011, RES METHODS ANTHR QU
+   Borgatti S., 1998, ETHNOGRAPHERS TOOLKI
+   Borgatti Stephen P., 1994, J QUANTITATIVE ANTHR, V4, P261
+   Bradley KA, 2007, ALCOHOL CLIN EXP RES, V31, P1208, DOI 10.1111/j.1530-0277.2007.00403.x
+   BREWER DD, 2002, FIELD METHOD, V14, P108, DOI DOI 10.1177/1525822X02014001007
+   Burke JG, 2005, QUAL HEALTH RES, V15, P1392, DOI 10.1177/1049732305278876
+   Corbin J, 2008, BASICS QUALITATIVE R
+   Davison M., 1983, MULTIDIMENSIONAL SCA
+   Desai MU, 2016, PSYCHIAT QUART, V87, P229, DOI 10.1007/s11126-015-9382-2
+   Dressler William W., 2005, FIELD METHOD, V17, P331, DOI DOI 10.1177/1525822X05279899
+   Dressler WW, 2014, HDB METHODS CULTURAL, P497
+   Finley E., 2011, FIELDS COMBAT UNDERS
+   Fischer EP, 2016, J RURAL HEALTH, V32, P429, DOI 10.1111/jrh.12203
+   Fortney JC, 2011, J GEN INTERN MED, V26, pS639, DOI 10.1007/s11606-011-1806-6
+   Garcia HA, 2014, MIL MED, V179, P273, DOI 10.7205/MILMED-D-13-00076
+   Gerteis M, 1993, PATIENTS EYES UNDERS
+   Goldzweig CL, 2006, J GEN INTERN MED, V21, pS82, DOI 10.1111/j.1225-1497.2006.00380.x
+   Handwerker W., 2001, QUICK ETHNOGRAPHY
+   Hoge CW, 2004, NEW ENGL J MED, V351, P13, DOI 10.1056/NEJMoa040603
+   Hout MC, 2013, WIRES COGN SCI, V4, P93, DOI 10.1002/wcs.1203
+   Hunt KJ, 2013, BMC MED RES METHODOL, V13, DOI 10.1186/1471-2288-13-3
+   Isaacs AR, 1997, VIETNAM SHADOWS WAR
+   Junghans C, 2005, BRIT MED J, V331, P940, DOI 10.1136/bmj.38583.625613.AE
+   Keen SM, 2008, J REHABIL RES DEV, V45, P465, DOI 10.1682/JRRD.2007.09.0138
+   Kilbourne AM, 2006, INT J PSYCHIAT MED, V36, P383, DOI 10.2190/04XR-3107-4004-4670
+   Kim PY, 2011, MIL PSYCHOL, V23, P65, DOI 10.1080/08995605.2011.534415
+   Kleinpell R, 2014, CRITICAL CONNECTIONS, V2014
+   Koenig CJ, 2014, PATIENT EDUC COUNS, V95, P414, DOI 10.1016/j.pec.2014.03.016
+   Kroenke K, 2002, PSYCHIAT ANN, V32, P509, DOI 10.3928/0048-5713-20020901-06
+   Kroenke K, 2001, J GEN INTERN MED, V16, P606, DOI 10.1046/j.1525-1497.2001.016009606.x
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P1, DOI 10.1007/BF02289565
+   McCarthy JF, 2007, HEALTH SERV RES, V42, P1042, DOI 10.1111/j.1475-6773.2006.00642.x
+   Palinkas LA, 2015, ADM POLICY MENT HLTH, V42, P533, DOI 10.1007/s10488-013-0528-y
+   Panangala SV, 2015, C RES SERVICE, V39
+   Patton M. Q., 2001, QUALITATIVE RES EVAL
+   Putsch RW, 2011, CLIN METHODS HIST PH
+   ROMNEY AK, 1986, AM ANTHROPOL, V88, P313, DOI 10.1525/aa.1986.88.2.02a00020
+   Rosas SR, 2012, EVAL PROGRAM PLANN, V35, P236, DOI 10.1016/j.evalprogplan.2011.10.003
+   Ryan G. W., 2003, FIELD METHOD, V15, P85, DOI DOI 10.1177/1525822X02239569
+   Sayer NA, 2009, PSYCHIATRY, V72, P238, DOI 10.1521/psyc.2009.72.3.238
+   Schensul JJ, 2013, SPECIALIZED ETHNOGRA
+   Sestito SF, 2017, SUBST ABUS, V38, P422, DOI 10.1080/08897077.2017.1356422
+   Smith RT, 2014, SOC MENT HEALTH, V4, P147, DOI 10.1177/2156869313512212
+   Spitzer RL, 1999, JAMA-J AM MED ASSOC, V282, P1737, DOI 10.1001/jama.282.18.1737
+   Tai-Seale Ming, 2016, Perm J, V20, P89, DOI 10.7812/TPP/15-123
+   Tanielian T, 2016, SUPPORTING MENTAL HL
+   Tanielian T, 2016, PSYCHIAT SERV, V67, P718, DOI 10.1176/appi.ps.201500237
+   Tave TT, 2017, J PSYCHOSOC NURS MEN, V55, P37, DOI 10.3928/02793695-20170119-07
+   Treweek S, 2010, PROTOCOLS
+   Weller S. C, 1988, SYSTEMATIC DATA COLL
+   WELLER SC, 1987, AM BEHAV SCI, V31, P178, DOI 10.1177/000276487031002004
+   Wierwille JL, 2016, PSYCHOL SERV, V13, P373, DOI 10.1037/ser0000106
+   Yano EM, 2010, J GEN INTERN MED, V25, P56, DOI 10.1007/s11606-009-1116-4
+   Yano EM, 2006, J GEN INTERN MED, V21, pS93, DOI 10.1111/j.1525-1497.2006.00381.x
+   York J, 2016, J PSYCHOSOC NURS MEN, V54, P31, DOI 10.3928/02793695-20161024-06
+NR 60
+TC 0
+Z9 0
+U1 2
+U2 2
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1472-6963
+J9 BMC HEALTH SERV RES
+JI BMC Health Serv. Res.
+PD JUL 31
+PY 2018
+VL 18
+AR 591
+DI 10.1186/s12913-018-3346-9
+PG 14
+WC Health Care Sciences & Services
+SC Health Care Sciences & Services
+GA GO9WT
+UT WOS:000440459500002
+PM 30064427
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Babic, K
+   Rotach, MW
+AF Babic, Karmen
+   Rotach, Mathias W.
+TI Turbulence kinetic energy budget in the stable boundary layer over a
+   heterogeneous surface
+SO QUARTERLY JOURNAL OF THE ROYAL METEOROLOGICAL SOCIETY
+LA English
+DT Article
+DE local isotropy; local similarity theory; spectral models; tall canopy;
+   TKE dissipation rate
+ID MONIN-OBUKHOV SIMILARITY; URBAN ROUGHNESS SUBLAYER; LARGE-EDDY
+   SIMULATION; SPECTRAL CHARACTERISTICS; VEGETATION CANOPIES; NEUTRAL
+   CONDITIONS; DECIDUOUS FOREST; SELF-CORRELATION; DISSIPATION RATE;
+   REYNOLDS STRESS
+AB This study presents turbulence kinetic energy (TKE) budget terms above tall, deciduous walnut canopy in the wintertime stable boundary layer (SBL) and makes a comparison to well-known results of horizontally homogeneous and flat (HHF) terrain. Turbulence measurements performed at five levels above the canopy height (approximately h=18 m) enable the investigation of joint effect of the roughness sublayer (RSL) and the transition layer on the TKE budget terms. Each term of the TKE budget is investigated within the framework of local similarity theory. Kolomogorov's similarity hypothesis assumes local isotropy within the inertial subrange. Thoroughly testing the local isotropy hypothesis for the present dataset results in a ratio of the horizontal spectral densities (S-v/S-u) approaching 4/3, while the ratio of the vertical to the longitudinal spectral density (S-w/S-u) is less than the canonical value of 4/3 (even less than 1) for all levels indicating anisotropic turbulence even at very small scales above the canopy. As a consequence, estimated values of TKE dissipation rate (epsilon) from the vertical component are smaller than those obtained from the horizontal velocity components. This finding has a direct influence on the applicability of classical Kansas spectral models valid for HHF terrain as well as on the budget of wind variances. Additionally, the behavior of the non-dimensional gradient of mean wind speed is tested with regard to conformity to z-less scaling requirements (i.e. linear dependence on stability). It is confirmed that a stability threshold (such as Rf > 0.25, where Rf is the flux Richardson number) is a stronger determinant of z-less behavior than the existence of a well-defined inertial subrange - opposite to observations in the SBL over ideal flat surfaces. Finally, the local equilibrium between the production and destruction of TKE within the RSL and transition layer is analyzed.
+C1 [Babic, Karmen] Univ Zagreb, Dept Geophys, Fac Sci, Zagreb, Croatia.
+   [Babic, Karmen] Karlsruhe Inst Technol, Inst Meteorol & Climate Res, Karlsruhe, Germany.
+   [Rotach, Mathias W.] Univ Innsbruck, Inst Atmospher & Cryospher Sci, Innsbruck, Austria.
+RP Babic, K (reprint author), Karlsruhe Inst Technol, Inst Meteorol & Climate Res, Karlsruhe, Germany.
+EM karmen.babic@kit.edu
+OI Babic, Karmen/0000-0002-4878-6167
+FU Croatian Ministry of Science, Education and Sports [119-1193086-1323]
+FX Croatian Ministry of Science, Education and Sports grant
+   119-1193086-1323.
+CR Baas P, 2006, J ATMOS SCI, V63, P3045, DOI 10.1175/JAS3778.1
+   Babic K, 2016, AGR FOREST METEOROL, V228, P164, DOI 10.1016/j.agrformet.2016.07.002
+   Baklanov AA, 2011, B AM METEOROL SOC, V92, P123, DOI 10.1175/2010BAMS2797.1
+   BELJAARS ACM, 1991, J APPL METEOROL, V30, P327, DOI 10.1175/1520-0450(1991)030<0327:FPOLSF>2.0.CO;2
+   Biltoft CA, 2001, BOUND-LAY METEOROL, V100, P393, DOI 10.1023/A:1019289915930
+   BRADSHAW P, 1967, J FLUID MECH, V30, P241, DOI 10.1017/S0022112067001417
+   BRUNET Y, 1994, BOUND-LAY METEOROL, V70, P95, DOI 10.1007/BF00712525
+   BUSINGER JA, 1971, J ATMOS SCI, V28, P181, DOI 10.1175/1520-0469(1971)028<0181:FPRITA>2.0.CO;2
+   Chamecki M, 2004, Q J ROY METEOR SOC, V130, P2733, DOI 10.1256/qj.03.155
+   Cheng YG, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2004JD004923
+   Christen A, 2009, BOUND-LAY METEOROL, V131, P193, DOI 10.1007/s10546-009-9359-5
+   Cuxart J, 2002, BOUND-LAY METEOROL, V105, P305, DOI 10.1023/A:1019974021434
+   Duarte HF, 2015, BOUND-LAY METEOROL, V156, P349, DOI 10.1007/s10546-015-0030-z
+   Dwyer MJ, 1997, BOUND-LAY METEOROL, V84, P23, DOI 10.1023/A:1000301303543
+   Dyer A. J., 1974, Boundary-Layer Meteorology, V7, P363, DOI 10.1007/BF00240838
+   Foken T, 1996, AGR FOREST METEOROL, V78, P83, DOI 10.1016/0168-1923(95)02248-1
+   Fortuniak K, 2015, BOUND-LAY METEOROL, V154, P137, DOI 10.1007/s10546-014-9966-7
+   Frenzen P, 2001, BOUND-LAY METEOROL, V99, P173, DOI 10.1023/A:1018956931957
+   GARRATT JR, 1972, Q J ROY METEOR SOC, V98, P642, DOI 10.1256/smsqj.41711
+   Goger B, 2018, BOUND-LAY METEOROL, V168, P1, DOI 10.1007/s10546-018-0341-y
+   Grachev AA, 2016, BOUND-LAY METEOROL, V159, P469, DOI 10.1007/s10546-015-0034-8
+   Grachev AA, 2015, Q J ROY METEOR SOC, V141, P1845, DOI 10.1002/qj.2488
+   Grachev AA, 2013, BOUND-LAY METEOROL, V147, P51, DOI 10.1007/s10546-012-9771-0
+   Hartogensis OK, 2005, BOUND-LAY METEOROL, V116, P253, DOI 10.1007/s10546-004-2817-1
+   Hicks B. B., 1978, Boundary-Layer Meteorology, V14, P567
+   HOGSTROM U, 1990, J ATMOS SCI, V47, P1949, DOI 10.1175/1520-0469(1990)047<1949:AOTSIT>2.0.CO;2
+   Hogstrom U, 2002, BOUND-LAY METEOROL, V103, P101, DOI 10.1023/A:1014579828712
+   Hogstrom U, 1996, BOUND-LAY METEOROL, V78, P215, DOI 10.1007/BF00120937
+   HOLTSLAG AAM, 1986, BOUND-LAY METEOROL, V36, P201, DOI 10.1007/BF00117468
+   Howell JF, 1997, BOUND-LAY METEOROL, V83, P117, DOI 10.1023/A:1000210427798
+   Kaimal J C, 1994, ATMOSPHERIC BOUNDARY
+   KAIMAL JC, 1972, Q J ROY METEOR SOC, V98, P563, DOI 10.1256/smsqj.41706
+   Klipp CL, 2004, Q J ROY METEOR SOC, V130, P2087, DOI 10.1256/qj.03.161
+   Kljun N, 2015, GEOSCI MODEL DEV, V8, P3695, DOI 10.5194/gmd-8-3695-2015
+   KOLMOGOROV AN, 1991, P ROY SOC LOND A MAT, V434, P9, DOI 10.1098/rspa.1991.0075
+   LECLERC MY, 1990, J APPL METEOROL, V29, P916, DOI 10.1175/1520-0450(1990)029<0916:TIOASO>2.0.CO;2
+   Li XY, 2008, BOUND-LAY METEOROL, V129, P115, DOI 10.1007/s10546-008-9304-z
+   Liu SH, 2001, BOUND-LAY METEOROL, V98, P83, DOI 10.1023/A:1018715812229
+   Mahrt L, 1998, THEOR COMP FLUID DYN, V11, P263, DOI 10.1007/s001620050093
+   Mammarella I, 2008, TELLUS B, V60, P179, DOI 10.1111/j.1600-0889.2007.00326.x
+   Mauritsen T, 2007, J ATMOS SCI, V64, P4113, DOI [10.1175/2007JAS2294.1, 10.1175/2007jAS2294.1]
+   MCBEAN GA, 1975, J ATMOS SCI, V32, P753, DOI 10.1175/1520-0469(1975)032<0753:TVTOKE>2.0.CO;2
+   MEYERS TP, 1991, AGR FOREST METEOROL, V53, P207, DOI 10.1016/0168-1923(91)90058-X
+   Mironov DV, 2016, J ATMOS SCI, V73, P449, DOI 10.1175/JAS-D-15-0075.1
+   Monin AS, 1954, CONTRIB GEOPHYS I AC, V24, P163
+   MOORE CJ, 1986, BOUND-LAY METEOROL, V37, P17, DOI 10.1007/BF00122754
+   Nilsson E, 2016, ATMOS CHEM PHYS, V16, P8849, DOI 10.5194/acp-16-8849-2016
+   Oldroyd HJ, 2016, BOUND-LAY METEOROL, V161, P405, DOI 10.1007/s10546-016-0184-3
+   Oncley SP, 1996, J ATMOS SCI, V53, P1029, DOI 10.1175/1520-0469(1996)053<1029:SLFPAT>2.0.CO;2
+   Pahlow M, 2001, BOUND-LAY METEOROL, V99, P225, DOI 10.1023/A:1018909000098
+   RAUPACH MR, 1982, BOUND-LAY METEOROL, V22, P79, DOI 10.1007/BF00128057
+   RAUPACH MR, 1986, BOUND-LAY METEOROL, V35, P21, DOI 10.1007/BF00117300
+   Raupach MR, 1996, BOUND-LAY METEOROL, V78, P351, DOI 10.1007/BF00120941
+   Rotach MW, 2017, B AM METEOROL SOC, V98, P787, DOI 10.1175/BAMS-D-15-00246.1
+   Roth M, 2006, BOUND-LAY METEOROL, V121, P351, DOI 10.1007/s10546-006-9074-4
+   SREENIVASAN KR, 1995, PHYS FLUIDS, V7, P2778, DOI 10.1063/1.868656
+   Stiperski I, 2018, Q J ROY METEOR SOC, V144, P641, DOI 10.1002/qj.3224
+   Stiperski I, 2016, BOUND-LAY METEOROL, V159, P97, DOI 10.1007/s10546-015-0103-z
+   Stoll R, 2009, J ATMOS SCI, V66, P412, DOI 10.1175/2008JAS2668.1
+   Stull R.B., 1988, INTRO BOUNDARY LAYER
+   Su HB, 2004, BOUND-LAY METEOROL, V110, P213, DOI 10.1023/A:1026099523505
+   TOWNSEND AA, 1961, J FLUID MECH, V11, P97, DOI 10.1017/S0022112061000883
+   Vecenaj Z, 2015, Q J ROY METEOR SOC, V141, P1560, DOI 10.1002/qj.2458
+   Vecenaj Z, 2011, J APPL METEOROL CLIM, V50, P1088, DOI 10.1175/2010JAMC2450.1
+   Vickers D, 2003, J ATMOS OCEAN TECH, V20, P660, DOI 10.1175/1520-0426(2003)20<660:TCGATF>2.0.CO;2
+   Wilczak JM, 2001, BOUND-LAY METEOROL, V99, P127, DOI 10.1023/A:1018966204465
+   WILLIS GE, 1976, Q J ROY METEOR SOC, V102, P817, DOI 10.1002/qj.49710243411
+   Wyngaard J. C., 1975, Boundary-Layer Meteorology, V9, P441
+   Wyngaard J. C., 2010, TURBULENCE ATMOSPHER
+   WYNGAARD JC, 1972, Q J ROY METEOR SOC, V98, P590, DOI 10.1256/smsqj.41707
+   WYNGAARD JC, 1971, J ATMOS SCI, V28, P1171, DOI 10.1175/1520-0469(1971)028<1171:LFCSAT>2.0.CO;2
+   WYNGAARD JC, 1971, J ATMOS SCI, V28, P190, DOI 10.1175/1520-0469(1971)028<0190:TBOTKE>2.0.CO;2
+   WYNGAARD JC, 1973, WORKSHOP MICROMETEOR, P101
+   Yang B, 2006, BOUND-LAY METEOROL, V121, P433, DOI 10.1007/s10546-006-9083-3
+NR 74
+TC 1
+Z9 1
+U1 3
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0035-9009
+EI 1477-870X
+J9 Q J ROY METEOR SOC
+JI Q. J. R. Meteorol. Soc.
+PD APR
+PY 2018
+VL 144
+IS 713
+BP 1045
+EP 1062
+DI 10.1002/qj.3274
+PN B
+PG 18
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA GU3SQ
+UT WOS:000445200400006
+DA 2019-03-26
+ER

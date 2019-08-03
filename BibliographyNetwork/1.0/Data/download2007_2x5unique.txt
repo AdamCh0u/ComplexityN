@@ -1,0 +1,487 @@
+
+PT J
+AU Veomett, E
+AF Veomett, Ellen
+TI A positive semidefinite approximation of the symmetric traveling
+   salesman polytope
+SO DISCRETE & COMPUTATIONAL GEOMETRY
+LA English
+DT Article
+ID RELAXATIONS; INEQUALITIES
+AB For a convex body B in a vector space V, we construct its approximation P-k, k = 1, 2,..., using an intersection of a cone of positive semidefinite quadratic forms with an affine subspace. We show that Pk is contained in B for each k. When B is the Symmetric Traveling Salesman Polytope on n cities T-n we show that the scaling of Pk by n/k + O(1/n) contains T, for k <= [n/2]. Membership for Pk is computable in time polynomial in n (of degree linear in k). We also discuss facets of Tn that lie on the boundary of Pk and we use eigenvalues to evaluate our bounds.
+C1 Univ Michigan, Dept Math, Ann Arbor, MI 48109 USA.
+RP Veomett, E (reprint author), Univ Michigan, Dept Math, Ann Arbor, MI 48109 USA.
+EM eveomett@umich.edu
+CR BARVINOK A, COMMUNICATION
+   GOEMANS MX, 1995, MATH PROGRAM, V69, P335, DOI 10.1007/BF01585563
+   GROTSCHEL M, 1979, MATH PROGRAM, V16, P265, DOI 10.1007/BF01582116
+   Grotschel Martin, 1988, GEOMETRIC ALGORITHMS, V2
+   Karp Richard M., 1980, P 21 ANN S FDN COMP, P1
+   Kojima M, 2000, SIAM J OPTIMIZ, V10, P750, DOI 10.1137/S1052623498336450
+   Lasserre Jean B., 2001, LECT NOTES COMPUT SC, V2081, P293
+   Laurent M, 2003, MATH OPER RES, V28, P470, DOI 10.1287/moor.28.3.470.16391
+   LOVASZ L, 1991, SIAM J OPTIMIZ, V12, P345
+   Schrijver A., 2003, ALGORITHMS COMBINA B, P24
+   SHERALI HD, 1990, SIAM J DISCRETE MATH, V3, P411, DOI 10.1137/0403036
+   VEOMETT E, POSITIVE SEMIDEFINIT
+NR 12
+TC 2
+Z9 2
+U1 0
+U2 2
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 0179-5376
+J9 DISCRETE COMPUT GEOM
+JI Discret. Comput. Geom.
+PD JUL
+PY 2007
+VL 38
+IS 1
+BP 15
+EP 28
+DI 10.1007/s00454-007-1324-9
+PG 14
+WC Computer Science, Theory & Methods; Mathematics
+SC Computer Science; Mathematics
+GA 175SF
+UT WOS:000247033600002
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Marshall, JD
+AF Marshall, Julian D.
+TI Urban land area and population growth: A new scaling relationship for
+   metropolitan expansion
+SO URBAN STUDIES
+LA English
+DT Article
+ID DENSITY GRADIENTS; ZIPFS LAW; VEHICLE EMISSIONS; SPATIAL STRUCTURE;
+   INTAKE FRACTION; UNITED-STATES; CITIES; PATTERNS; FORM; INHALATION
+AB In most metropolitan regions throughout the globe, urbanised land area is increasing to accommodate increasing population size. This article provides a simple yet powerful mathematical description of this urban expansion. Specifically, the following scaling relationship is proposed: land area ( A) increases proportionally to population size ( P) raised to a power (n)-i.e. A proportional to P-n. During 1950-2000, this relationship is found to hold well for US Census urban areas (UAs) with a greater than 10 per cent increase in population. Values for the parameter n vary among UAs, with a central tendency value of similar to 2, suggesting that, on average, newcomers to urban areas occupy about twice the land area per capita of existing residents. If n were exactly equal to 2, then the parameter group P/root A ( called 'linear population density', or LPD) would be constant over time. LPD ( units: people per metre) is the number of people in a metre-wide strip across an urban area. LPD is distinct from, and behaves somewhat differently than, population density. Distributions of LPD values among US UAs during 1950-2000 show surprisingly little variability over multidecade time-scales. For example, from 1950 to 2000, average population, land area and population density changed by more than a factor of 2, but average LPD changed less than 10 per cent. Few, if any, other attributes of urban form have remained so constant during this half-century time-period. International data corroborate the finding that LPD distributions are roughly constant over multidecadal time-scales. These results suggest an underlying pattern to how people arrange themselves within and among urban areas. For US UAs, rank-size rules similar to the generalised version of Zipf's rule hold for population, land area, LPD and population density. LPD is an important predictor of the emissions-to-inhalation relationship for motor vehicle emissions. Results presented here are important for theoretical, practical and empirical investigations of urban form and of how urban areas expand over time.
+C1 Univ Minnesota, Dept Civil Engn, Minneapolis, MN 55455 USA.
+RP Marshall, JD (reprint author), Univ Minnesota, Dept Civil Engn, 500 Pillsbury Dr SE, Minneapolis, MN 55455 USA.
+EM julian@umn.edu
+RI Marshall, Julian/B-2998-2012
+CR Anas A, 2000, J URBAN ECON, V47, P165, DOI 10.1006/juec.1999.2137
+   Anas A, 1998, J ECON LIT, V36, P1426
+   ANDERSON JE, 1985, J REGIONAL SCI, V25, P413, DOI 10.1111/j.1467-9787.1985.tb00309.x
+   ANGELS S, 2005, DYNAMICS GLOBALO URB
+   BATTY M, 1992, URBAN STUD, V29, P1043, DOI 10.1080/00420989220081041
+   Bennett DH, 2002, ENVIRON SCI TECHNOL, V36, p206A, DOI 10.1021/es0222770
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Black D, 2003, J ECON GEOGR, V3, P343, DOI 10.1093/jeg/lbg017
+   Bunting T, 2002, URBAN STUD, V39, P2531, DOI 10.1080/0042098022000027095
+   CIESIN Columbia University; International Food Policy Research Institute (IFPRI) the World Bank; and Centro Internacional de Agricultura Tropical (CIAT, 2004, GLOB RUR URB MAPP PR
+   CLARK C, 1951, J ROY STAT SOC A STA, V114, P490, DOI 10.2307/2981088
+   *CNSTAT, 2000, 2000 CENS COUNT ADV, P185
+   EDMONSTON B, 1985, URBAN STUD, V22, P209, DOI 10.1080/00420988520080351
+   EWING R, 2001, TRANSPORT RES REC, V1780, P87, DOI DOI 10.3141/1780-10
+   Frank LD, 2005, AM J PREV MED, V28, P117, DOI 10.1016/j.amepre.2004.11.001
+   Frumkin H, 2002, PUBLIC HEALTH REP, V117, P201, DOI 10.1016/S0033-3549(04)50155-3
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   HOGAN H, 2000, C UND ETHN POP RICHM
+   Holtzclaw J, 2002, TRANSPORT PLAN TECHN, V25, P1, DOI 10.1080/03081060290032033
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Kenworthy J., 2000, INT SOURCEBOOK AUTOM
+   Lai ACK, 2000, J AIR WASTE MANAGE, V50, P1688, DOI 10.1080/10473289.2000.10464196
+   Marshall JD, 2005, ATMOS ENVIRON, V39, P1363, DOI 10.1016/j.atmosenv.2004.11.006
+   Marshall JD, 2005, ATMOS ENVIRON, V39, P283, DOI 10.1016/j.atmosenv.2004.09.059
+   MILLS ES, 1980, URBAN STUD, V17, P313, DOI 10.1080/00420988020080621
+   MULRY M, 2006, RES REPORT SERIES ST
+   Murakami A, 2005, LANDSCAPE URBAN PLAN, V70, P251, DOI 10.1016/j.landurbplan.2003.10.021
+   NEWLING BE, 1969, GEOGR REV, V59, P242, DOI 10.2307/213456
+   PUMAIN D, 2003, 0402002 SANT FE I
+   Robinson J. A., 2000, DYNAMIC EARTH ENV RE, P25
+   ROBINSON JG, 1993, J AM STAT ASSOC, V88, P1061, DOI 10.2307/2290799
+   ROSSER JB, 1980, URBAN STUD, V17, P231, DOI 10.1080/00420988020080391
+   SKABURSKIS A, 1989, URBAN STUD, V26, P397, DOI 10.1080/00420988920080431
+   STERN DI, 1993, ANN REGIONAL SCI, V27, P259, DOI 10.1007/BF01581662
+   *UN, 2000, WORLD URB PROSP 1999
+   United Nations, 2000, DEM YB
+   Urzua CM, 2000, ECON LETT, V66, P257, DOI 10.1016/S0165-1765(99)00215-3
+   *US CENS, 1990, 1990CP11C US DEP COM
+   *US CENS, 2004, CENS 2000 URB RUR CL
+   ZHENG XP, 1991, URBAN STUD, V28, P87, DOI 10.1080/00420989120080061
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 41
+TC 38
+Z9 42
+U1 3
+U2 37
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0042-0980
+J9 URBAN STUD
+JI Urban Stud.
+PY 2007
+VL 44
+IS 10
+BP 1889
+EP 1904
+DI 10.1080/00420980701471943
+PG 16
+WC Environmental Studies; Urban Studies
+SC Environmental Sciences & Ecology; Urban Studies
+GA 209VW
+UT WOS:000249417100002
+DA 2019-03-26
+ER
+
+PT J
+AU Wei, YHD
+   Li, WM
+   Wang, CB
+AF Wei, Yehua Dennis
+   Li, Wangming
+   Wang, Chunbin
+TI Restructuring industrial districts, scaling up regional development: A
+   study of the Wenzhou model, China
+SO ECONOMIC GEOGRAPHY
+LA English
+DT Article
+DE Marshallian industrial district; regional lock-in; the Wenzhou model;
+   China
+ID NEO-MARSHALLIAN NODES; PEARL RIVER DELTA; TRANSITIONAL INSTITUTIONS;
+   GLOBALIZATION; AGGLOMERATION; URBANIZATION; GEOGRAPHY; NETWORKS;
+   CLUSTERS; PROVINCE
+AB The Wenzhou Municipality in Zhejiang Province is spearheading China's marketization and development of private enterprises. Its successful development trajectory, centered on family-owned small businesses embedded in thick local institutions, resembles Marshallian industrial districts (MIDs). However, with China's changing institutional environment and intensifying competition, Wenzhou has been facing challenges. Since the late 1980s, Wenzhou has gone through two major rounds of restructuring (from family enterprises to shareholding cooperatives to shareholding enterprises), that have included four major types of strategic response: institutional change, technological upgrading, industrial diversification, and spatial restructuring. Firms in Wenzhou have gone through localization and delocalization, and locational choices reflect the dual destinations of globalizing cities and interior cities. The formation of new firms and clusters has been accompanied by mergers, acquisitions, and the emergence of multiregional enterprises (MREs), some of which have relocated their headquarters and specialized functions to metropolitan areas, especially Shanghai and Hangzhou. More recently, Wenzhou's growth has slowed, leading some to question the sustainability of the Wenzhou model. We argue that Wenzhou's development is in danger of regional lock-ins-relational, intergenerational, and structural. Wenzhou's experience challenges the orthodox concept of MIDs and calls for "scaling up" regional development.
+C1 [Wei, Yehua Dennis] Univ Utah, Dept Geog, Salt Lake City, UT 84112 USA.
+   [Wei, Yehua Dennis] Univ Utah, Inst Publ & Int Affairs, Salt Lake City, UT 84112 USA.
+   [Li, Wangming] Zhejiang Univ, Dept Reg & Urban Planning, Hangzhou 310027, Zhejiang Prov, Peoples R China.
+   [Wang, Chunbin] Zhejiang Gongshang Univ, Dept Resources Environm & Urban Rural Planning &, Hangzhou, Zhejiang Prov, Peoples R China.
+RP Wei, YHD (reprint author), Univ Utah, Dept Geog, 260 S Cent Campus Dr Room 270, Salt Lake City, UT 84112 USA.
+EM wei@geog.utah.edu; liwangming@hzcnc.com; 20112010@163.com
+RI Rosolen Vilela, Nicole Louise/K-9426-2014; Wei, Yehua/A-7831-2009
+OI Wei, Yehua/0000-0002-8510-388X
+CR AMIN A, 1992, INT J URBAN REGIONAL, V16, P571, DOI 10.1111/j.1468-2427.1992.tb00197.x
+   Amin A, 2000, COMPANION EC GEOGRAP, P149
+   Asheim Bjorn, 2000, OXFORD HDB EC GEOGRA, P413
+   Bathelt H, 2004, PROG HUM GEOG, V28, P31, DOI 10.1191/0309132504ph469oa
+   Brouwer AE, 2004, ANN REGIONAL SCI, V38, P335, DOI 10.1007/s00168-004-0198-5
+   BRUSCO S, 1992, IND DISTRICTS LOCAL, P176
+   Cainelli G, 2006, REG STUD, V40, P507, DOI 10.1080/00343400600757585
+   Coe NM, 2001, URBAN STUD, V38, P1753, DOI 10.1080/00420980120084840
+   Coe NM, 2004, T I BRIT GEOGR, V29, P468, DOI 10.1111/j.0020-2754.2004.00142.x
+   Cox K. R, 1997, SPACES GLOBALIZATION
+   Dunford M, 2006, ECON GEOGR, V82, P27
+   Eng I, 1997, INT J URBAN REGIONAL, V21, P554, DOI 10.1111/1468-2427.00101
+   Eraydin A., 2001, PROMOTING LOCAL GROW, P81
+   ETTLINGER N, 2003, J ECON GEOGR, V3, P1, DOI DOI 10.1093/JEG/3.2.145
+   Fan C. Cindy, 1995, CHINESE ENV DEV, V6, P85
+   FORSTER K, 1998, ZHEJIANG REFORM
+   Glaeser EL, 2005, J ECON GEOGR, V5, P119, DOI 10.1093/jnlecg/lbh058
+   Glasmeier A., 1994, GLOBALIZATION I REGI, P118
+   Grabher G, 1993, EMBEDDED FIRM SOCIOE, P255
+   Hadjimichalis C, 2006, ANTIPODE, V38, P82, DOI 10.1111/j.0066-4812.2006.00566.x
+   Han SS, 1999, ECON GEOGR, V75, P272, DOI 10.2307/144578
+   HARRISON B, 1992, REG STUD, V26, P469, DOI 10.1080/00343409212331347121
+   Hassink R, 2005, ENVIRON PLANN A, V37, P571, DOI 10.1068/a36273
+   Hayter R., 1997, DYNAMICS IND LOCATIO
+   Henry N, 2001, ENVIRON PLANN A, V33, P1169, DOI 10.1068/a32184
+   *HONG KONG TRAD DE, 2004, MARK PROF CHIN CIT P
+   HU FS, 2005, WENZHOU PINGPAN
+   HU ZL, 1997, CHENGSHI GUIHUA HUIK, V3, P28
+   Hudson R, 2005, ENVIRON PLANN A, V37, P581, DOI 10.1068/a36274
+   LI WM, 2004, JINGJI DILI, V24, P411
+   Li WT, 2004, ACTA MATH SCI, V24, P403
+   Lin G. C. S., 1997, RED CAPITALISM S CHI
+   LIU APL, 1992, ASIAN SURV, V32, P696, DOI 10.1525/as.1992.32.8.00p01922
+   Liu Y. L., 1992, CHINA Q, V130, P293
+   LIU YQ, 2005, ZHONGGUO MINYIN QIYE
+   Lu LC, 2007, TIJDSCHR ECON SOC GE, V98, P225, DOI 10.1111/j.1467-9663.2007.00393.x
+   Ma J. L., 2004, ZHEJIANG SHEHUI KEXU, V2, P26
+   Ma LJC, 2002, EURASIAN GEOGR ECON, V43, P79
+   MA LJC, 1994, URBAN STUD, V31, P1625, DOI 10.1080/00420989420081551
+   MA LJC, 1998, CHINA QUART, V155, P546, DOI DOI 10.2307/655950
+   Mariotti I., 2005, NETHERLANDS GEOGRAPH, V331
+   Markusen A, 1996, ECON GEOGR, V72, P293, DOI 10.2307/144402
+   Martin R, 2006, J ECON GEOGR, V6, P395, DOI 10.1093/jeg/lbl012
+   MARTON A, 2000, CHINAS SPECIAL EC DE
+   NOLAN P, 1989, MARKET FORCES CHINA
+   Oi Jean C, 1999, RURAL CHINA TAKES OF
+   PARK SO, 1995, ENVIRON PLANN A, V27, P81, DOI 10.1068/a270081
+   PARRIS K, 1993, CHINA Q, V134, P242
+   Pellenbarg P.H., 2002, IND LOCATION EC, P110
+   Peng Y., 1994, RURAL ENTERPRISES CH, P93
+   Pietrobelli C, 2002, EUR PLAN STUD, V10, P541, DOI 10.1080/09654310220145323
+   Piore M, 1984, 2 IND DIVIDE
+   RABELLOTTI R, 1995, WORLD DEV, V23, P29, DOI 10.1016/0305-750X(94)00103-6
+   Schamp EW, 2005, ENVIRON PLANN A, V37, P617, DOI 10.1068/a36275
+   SCHMITZ H, 1995, WORLD DEV, V23, P9, DOI 10.1016/0305-750X(94)00110-K
+   Scott A., 1988, NEW IND SPACES
+   Scott A. J., 1998, REGIONS WORLD EC
+   SHI JC, 2002, I CHANGE EC DEV
+   SHI JC, 2004, ZHEJIANG SHEHUI KEXU, V2, P16
+   Sit VFS, 1997, URBAN STUD, V34, P647, DOI 10.1080/0042098975961
+   Smart A., 2005, PETTY CAPITALISTS GL
+   Staber U, 2001, REG STUD, V35, P329, DOI 10.1080/00343400120053816
+   Storper M., 1989, CAPITALIST IMPERATIV
+   Storper M, 1997, REGIONAL WORLD
+   Tsai Kellee, 2002, BACK ALLEY BANKING
+   van Grunsven L, 2005, ENVIRON PLANN A, V37, P657, DOI 10.1068/a37116
+   Wade R. H., 1990, GOVERNING MARKET
+   WANG CB, 2003, THESIS ZHEJIANG U HA
+   Wei Y. D., 2000, REGIONAL DEV CHINA S
+   Wei YHD, 2007, EURASIAN GEOGR ECON, V48, P16, DOI 10.2747/1538-7216.48.1.16
+   Wei YHD, 2005, URBAN GEOGR, V26, P200, DOI 10.2747/0272-3638.26.3.200
+   Wei YHD, 2002, ENVIRON PLANN A, V34, P1725, DOI 10.1068/a3567
+   Wei YHD, 1999, PROG HUM GEOG, V23, P49, DOI 10.1191/030913299676254572
+   *WENZH STAT BUR, 2005, WENZH STAT YB
+   Whitford J, 2001, ECON SOC, V30, P38
+   Whiting S, 2001, POWER WEALTH RURAL C
+   Yang MMH, 2000, CURR ANTHROPOL, V41, P477, DOI 10.1086/317380
+   Ye XY, 2005, EURASIAN GEOGR ECON, V46, P445, DOI 10.2747/1538-7216.46.6.445
+   Yeung HWC, 2005, T I BRIT GEOGR, V30, P37, DOI 10.1111/j.1475-5661.2005.00150.x
+   *YUEQ STAT BUR, 2003, YUEQ STAT YB
+   Zhang Lianjie, 2001, ZOUJIN WENZHOU
+   Zhang Renshou, 1994, ZHEJIANG XUEKANG, V3, P21
+   ZHANG RS, 2004, ZHEJIANG SHEHUI KEXU, V2, P20
+   ZHAO DH, 2005, WENZHOU XINGGE
+NR 84
+TC 89
+Z9 102
+U1 5
+U2 74
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0013-0095
+EI 1944-8287
+J9 ECON GEOGR
+JI Econ. Geogr.
+PD OCT
+PY 2007
+VL 83
+IS 4
+BP 421
+EP 444
+PG 24
+WC Economics; Geography
+SC Business & Economics; Geography
+GA 251RD
+UT WOS:000252390500005
+DA 2019-03-26
+ER
+
+PT J
+AU Kemp, JR
+   Mann, G
+   Simwaka, BN
+   Salaniponi, FM
+   Squire, SB
+AF Kemp, Julia R.
+   Mann, Gillian
+   Simwaka, Bertha Nhlema
+   Salaniponi, Felix M. L.
+   Squire, Stephen Bertel
+TI Can Malawi's poor afford free tuberculosis services? Patient and
+   household costs associated with a tuberculosis diagnosis in Lilongwe
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID CARE FACILITY INVOLVEMENT; PULMONARY TUBERCULOSIS; INCREASED COMMUNITY;
+   ECONOMIC-IMPACT; RURAL UGANDA; HEALTH; ETHIOPIA; DISTRICT
+AB Objective To assess the relative costs of accessing a TB diagnosis for the poor and for women in urban Lilongwe, Malawi, a setting where public health services are accessible within 6 kilometres and provided free of charge.
+   Methods Patient and household direct and opportunity costs were assessed from a survey of 179 TB patients, systematically sampled from all public and mission health facilities in Lilongwe. Poverty status was determined from the 1998 Malawi Integrated Household Survey (MIHS).
+   Findings On average, patients spent US$ 13 (MK 996 or 18 days' income) and lost 22 days from work while accessing a TB diagnosis. For non-poor patients, the total costs amounted to 129% of total monthly income, or 184% after food expenditures. For the poor, this cost rose to 248% of monthly income or 574% after food. When a woman or when the poor are sick, the opportunity costs faced by their households are greater.
+   Conclusion Patient and household costs of TB diagnosis are prohibitively high even where services are provided free of charge. In scaling up TB services to reach the Millennium Development Goals, there is an urgent need to identify strategies for diagnosing TB that are cost-effective for the poor and their households.
+C1 Univ Liverpool Liverpool Sch Trop Med, Liverpool, Merseyside, England.
+EM jkemp@africa-onlin.net
+OI Squire, Stephen/0000-0001-7173-9038
+CR BRAINE T, 2006, B WORLD HEALTH ORGAN, V84, P593
+   Cambanis A, 2006, INT J TUBERC LUNG D, V10, P230
+   Dye C, 2003, TUBERCULOSIS, V83, P35, DOI 10.1016/S1472-9792(02)00056-2
+   Floyd K, 2003, INT J TUBERC LUNG D, V7, pS29
+   FLOYD K, 1997, BRIT MED J, V315, P1395
+   GIBSON N, 1998, INT J TUBERC LUNG, V2, P929
+   Gwatkin DR, 2005, LANCET, V365, P813
+   Gwatkin DR, 2003, LANCET, V361, P540, DOI 10.1016/S0140-6736(03)12558-5
+   Kamolratanakul P, 1999, INT J TUBERC LUNG D, V3, P596
+   Kemp J, 1996, T R SOC TROP MED HYG, V90, P472
+   Kemp J., 2001, INT J TUBERC LUNG D, V5, pS166
+   Moalosi G, 2003, INT J TUBERC LUNG D, V7, pS80
+   *NAT EC COUNC, 2000, POV PROF MAL
+   Needham DM, 1998, INT J TUBERC LUNG D, V2, P811
+   Nganda B, 2003, INT J TUBERC LUNG D, V7, pS14
+   NHLEMA BM, 2002, SYSTEMATIC ANAL TB P
+   Okello D, 2003, INT J TUBERC LUNG D, V7, pS72
+   Rajeswari R, 1999, INT J TUBERC LUNG D, V3, P869
+   Rieder HL, 1999, EPIDEMIOLOGICAL BASI
+   SAUNDERSON PR, 1995, SOC SCI MED, V40, P1203, DOI 10.1016/0277-9536(94)00240-T
+   Simwaka BN, 2007, INT J TUBERC LUNG D, V11, P65
+   Sinanovic E, 2003, INT J TUBERC LUNG D, V7, P556
+   Squire SB, 2005, INT J TUBERC LUNG D, V9, P25
+   Squire SB, 2001, INT J TUBERC LUNG D, V5, pS172
+   STOP TB, 2003, BACKGROUND DOCUMENT
+   Wandwalo Eliud, 2005, Cost Eff Resour Alloc, V3, P6, DOI 10.1186/1478-7547-3-6
+   Wilkinson D, 1997, S AFR MED J, V87, P451
+   WILLETTS A, 2003, INT J TUBERC LUNG S2, V7, pS294
+   Wyss K, 2001, TROP MED INT HEALTH, V6, P60, DOI 10.1046/j.1365-3156.2001.00677.x
+   Yassin MA, 2003, INT J TUBERC LUNG D, V7, P678
+NR 30
+TC 79
+Z9 80
+U1 0
+U2 3
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD AUG
+PY 2007
+VL 85
+IS 8
+BP 580
+EP 585
+DI 10.2471/BLT.06.033167
+PG 6
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 199QK
+UT WOS:000248710100007
+PM 17768515
+OA Green Published, Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Garden, JG
+   Mcalpine, CA
+   Possingham, HP
+   Jones, DN
+AF Garden, Jenni G.
+   Mcalpine, Clive A.
+   Possingham, Hugh P.
+   Jones, Darryl N.
+TI Habitat structure is more important than vegetation composition for
+   local-level management of native terrestrial reptile and small mammal
+   species living in urban remnants: A case study from Brisbane, Australia
+SO AUSTRAL ECOLOGY
+LA English
+DT Article
+DE fallen wood; grass tree; soil compaction; termite mound; weeds
+ID COASTAL HEATHLAND; PERAMELES-NASUTA; MICROHABITAT USE; NOSED BANDICOOT;
+   RAIN-FOREST; LIZARDS; VICTORIA; ECOLOGY; POPULATION; LANDSCAPES
+AB As urban areas continue to expand and replace natural and agricultural landscapes, the ability to manage and conserve native wildlife within urban environments is becoming increasingly important. To do so we first need to understand species' responses to local-level habitat attributes in order to inform the decision-making process and on-ground conservation actions. Patterns in the occurrence of native terrestrial reptile and small mammal species in 59 sites located in remnant urban habitat fragments of Brisbane City were assessed against local-level environmental characteristics of each site. Cluster analysis, multidimensional scaling ordination, and principal axis correlation were used to investigate relationships between species' occurrences and environmental characteristics. Native reptiles were most strongly associated with the presence of termite mounds, a high amount of fallen woody material, and a moderate amount of weed cover. Native small mammals were most strongly associated with the presence of grass trees (Xanthorrhoea spp.), and both reptiles and small mammals were negatively influenced by increased soil compaction. Significant floristic characteristics were considered to be important as structural, rather than compositional, habitat elements. Therefore, habitat structure, rather than vegetation composition, appears to be most important for determining native, terrestrial reptile and small mammal species assemblages in urban forest fragments. We discuss the management implications in relation to human disturbances and local-level management of urban remnants.
+C1 Univ Queensland, Sch Geog Planning & Architecture, St Lucia, Qld 4072, Australia.
+   Univ Queensland, Ctr Ecol, St Lucia, Qld 4072, Australia.
+   Griffith Univ, Ctr Innovat Conservat Strategies, Nathan, Qld 4111, Australia.
+   Griffith Univ, Australian Sch Environm Studies, Nathan, Qld 4111, Australia.
+RP Mcalpine, CA (reprint author), Univ Queensland, Sch Geog Planning & Architecture, St Lucia, Qld 4072, Australia.
+EM jenni_garden@hotmail.com
+RI Possingham, Hugh/B-1337-2008; McAlpine, Clive/A-3907-2010
+OI Possingham, Hugh/0000-0001-7755-996X; 
+CR Amrein D, 2005, APPL VEG SCI, V8, P175, DOI 10.1658/1402-2001(2005)008[0175:DOSFFB]2.0.CO;2
+   Bassett IE, 2005, AUSTRAL ECOL, V30, P827, DOI 10.1111/j.1442-9993.2005.01525.x
+   Bauwens D, 1996, ECOLOGY, V77, P1818, DOI 10.2307/2265786
+   BELBIN L, 1993, PATN PATTERN ANAL PA
+   BELBIN L, 1994, PATN PATTERN ANAL PA
+   BENNETT AF, 1993, WILDLIFE RES, V20, P267, DOI 10.1071/WR9930267
+   Bragg JG, 2005, AUSTRAL ECOL, V30, P188, DOI 10.1111/j.1442-9993.2005.01436.x
+   BRAY J. ROGER, 1957, ECOL MONOGR, V27, P325, DOI 10.2307/1942268
+   *BRISB CITY COUNC, 2000, BRISB CIT PLAN 2000, V2
+   *BRISB CITY COUNC, 2007, STAT ENV REP BRISB 2
+   Burrow AL, 2001, J WILDLIFE MANAGE, V65, P645, DOI 10.2307/3803015
+   CATERALL CP, 1993, REMANAT BUSHLAND S E
+   Catterall CP, 1998, BIOL CONSERV, V84, P65, DOI 10.1016/S0006-3207(97)00076-1
+   Chambers LK, 2002, AUSTRAL ECOL, V27, P334, DOI 10.1046/j.1442-9993.2002.t01-1-01185.x
+   *COMM AUST, 2003, GEOSC AUSTR
+   Crosswhite Doyle L., 1999, Proceedings of the Oklahoma Academy of Science, V79, P45
+   DUFTY AC, 1994, WILDLIFE RES, V21, P459, DOI 10.1071/WR9940459
+   EYRE TJ, 2000, FOREST CONDITION HAB, V2
+   Fischer J, 2004, J APPL ECOL, V41, P32, DOI 10.1111/j.1365-2664.2004.00869.x
+   Fischer J, 2003, WILDLIFE RES, V30, P495, DOI 10.1071/WR02096
+   Fleming PA, 2003, J ZOOL, V259, P161, DOI 10.1017/S0952836902003084
+   Fox BJ, 1996, AUST J ECOL, V21, P184, DOI 10.1111/j.1442-9993.1996.tb00599.x
+   FOX BJ, 1995, MAMMALS AUSTR, P150
+   Garden J, 2006, AUSTRAL ECOL, V31, P126, DOI 10.1111/j.1442-9993.2006.01578.x
+   GARDEN JG, 2000, LOCOMOTION ENERGETIC
+   Griffiths AD, 1996, AUST J ECOL, V21, P386, DOI 10.1111/j.1442-9993.1996.tb00625.x
+   GROVER DR, 1994, WILDLIFE RES, V21, P433, DOI 10.1071/WR9940433
+   GROVES CR, 1983, AM MIDL NAT, V109, P253, DOI 10.2307/2425405
+   Hadden SA, 1996, WILDLIFE RES, V23, P363, DOI 10.1071/WR9960363
+   HAERING R, 1995, AUST J ECOL, V20, P427, DOI 10.1111/j.1442-9993.1995.tb00559.x
+   HOW R, 1995, MAMMALS AUSTRALIA, P651
+   How R. A., 2000, Pacific Conservation Biology, V6, P198
+   How R. A., 1994, Pacific Conservation Biology, V1, P132
+   How R. A, 1993, URBAN BUSH MANAGEMEN, P28
+   Huey R.B., 1991, American Naturalist, V137, P91
+   Jellinek S, 2004, AUSTRAL ECOL, V29, P294, DOI 10.1111/j.1442-9993.2004.01366.x
+   Jones AM, 2000, J CLIN PATHOL, V53, P60, DOI 10.1136/jcp.53.1.60
+   Kanowski JJ, 2006, RESTOR ECOL, V14, P67, DOI 10.1111/j.1526-100X.2006.00106.x
+   Keiper P, 2004, WILDLIFE RES, V31, P259, DOI 10.1071/WR02030
+   Koenig J, 2002, J HERPETOL, V36, P62
+   Lenders A. J. W., 2004, Natuurhistorisch Maandblad, V93, P281
+   Levia DF, 2000, ENVIRON MANAGE, V25, P541
+   Lugo AE, 2002, LANDSCAPE ECOL, V17, P601, DOI 10.1023/A:1021419815480
+   LUNNEY D, 1995, MAMMALS AUSTR, P651
+   MACARTHUR R, 1961, ECOLOGY, V42, P594, DOI 10.2307/1932254
+   MARCHESAN D, 2004, WILDLIFE RES, V31, P293
+   Matthews Alison, 2004, P159
+   MENGAK MT, 1987, AM MIDL NAT, V118, P284, DOI 10.2307/2425786
+   Menkhorst P, 2001, FIELD GUIDE MAMMALS
+   Millennium Ecosystem Assessment, 2005, EC HUM WELL BEING BI
+   Monamy V, 2005, WILDLIFE RES, V32, P617, DOI 10.1071/WR04105
+   Monjeau JA, 1998, LANDSCAPE ECOL, V13, P285, DOI 10.1023/A:1008012613305
+   Mueller-Dombios D., 1974, AIMS METHODS VEGETAT
+   MURRAY G W, 1987, Madoqua, V15, P55
+   OPDAM P, 2002, LANDSCAPE ECOLOGY, V16, P767, DOI DOI 10.1023/A:1014475908949
+   Podani J, 2006, OIKOS, V115, P179, DOI 10.1111/j.2006.0030-1299.15048.x
+   *QUEENSL ENV PROT, 2004, REG ECOS 12 9 10 4
+   *QUEENSL ENV PROT, 1995, WILDL GREAT BRISB
+   *R DEV COR TEAM, 2004, R PROJ ST COMP
+   Sala OE, 2000, SCIENCE, V287, P1770, DOI 10.1126/science.287.5459.1770
+   SCHLESINGER CA, 1994, BIOL CONSERV, V67, P49, DOI 10.1016/0006-3207(94)90008-6
+   Scott LK, 1999, WILDLIFE RES, V26, P805, DOI 10.1071/WR98074
+   Singh S, 2002, WILDLIFE RES, V29, P447, DOI 10.1071/WR01015
+   Smith GT, 1996, J APPL ECOL, V33, P1302, DOI 10.2307/2404771
+   Southgate R, 1996, WILDLIFE RES, V23, P647, DOI 10.1071/WR9960647
+   Spencer R.-J., 2005, Austral Ecology, V30, P868, DOI 10.1111/j.1442-9993.2005.01530.x
+   Tait CJ, 2005, ECOL APPL, V15, P346, DOI 10.1890/04-0920
+   Triggs B, 1996, TRACKS SCATS TRACES
+   *UN, 2005, WORLD POP PROSP 2004
+   van der Ree Rodney, 2004, P195
+   Vernes K, 2003, AUSTRAL ECOL, V28, P471, DOI 10.1046/j.1442-9993.2003.01303.x
+   Vernes K, 2001, WILDLIFE RES, V28, P141, DOI 10.1071/WR00054
+   Vesk PA, 2006, AGR ECOSYST ENVIRON, V112, P356, DOI 10.1016/j.agee.2005.08.038
+   Vitt LJ, 1998, CONSERV BIOL, V12, P654, DOI 10.1046/j.1523-1739.1998.96407.x
+   Wardell-Johnson G., 1996, Journal of the Royal Society of Western Australia, V79, P249
+   Webb JK, 2000, BIOL CONSERV, V92, P93, DOI 10.1016/S0006-3207(99)00056-7
+   White A. W., 2004, P109
+   WIKRAMANAYAKE ED, 1993, COPEIA, P709
+   WILSON BA, 1986, AUST WILDLIFE RES, V13, P397
+   WILSON S, 2005, FIELD GUIDE REPTILES
+   WOOLLEY PA, 1989, J ZOOL, V218, P689, DOI 10.1111/j.1469-7998.1989.tb05010.x
+   Young P. A. R., 1999, CONSERVATION STATUS, p12/1
+NR 82
+TC 73
+Z9 77
+U1 2
+U2 65
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 1442-9985
+J9 AUSTRAL ECOL
+JI Austral Ecol.
+PD SEP
+PY 2007
+VL 32
+IS 6
+BP 669
+EP 685
+DI 10.1111/j.1442-9993.2007.01750.x
+PG 17
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 198AL
+UT WOS:000248599300009
+DA 2019-03-26
+ER

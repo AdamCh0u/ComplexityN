@@ -1,0 +1,711 @@
+
+PT J
+AU Dobler, G
+   Ghandehari, M
+   Koonin, SE
+   Nazari, R
+   Patrinos, A
+   Sharma, MS
+   Tafvizi, A
+   Vo, HT
+   Wurtele, JS
+AF Dobler, Gregory
+   Ghandehari, Masoud
+   Koonin, Steven E.
+   Nazari, Rouzbeh
+   Patrinos, Aristides
+   Sharma, Mohit S.
+   Tafvizi, Arya
+   Vo, Huy T.
+   Wurtele, Jonathan S.
+TI Dynamics of the urban lightscape
+SO INFORMATION SYSTEMS
+DE Urban imaging; Visible light observations; Time series; Image
+   processing; Pattern recognition
+ID NIGHTTIME SATELLITE IMAGERY; GROWTH; CITIES
+AB The manifest importance of cities and the advent of novel data about them are stimulating interest in both basic and applied "urban science" (Bettencourt et al., 2007 [4]; Bettencourt, 2013 [3]). A central task in this emerging field is to document and understand the "pulse of the city" in its diverse manifestations (e.g., in mobility, energy use, communications, economics) both to define the normal state against which anomalies can be judged and to understand how macroscopic city observables emerge from the aggregate behavior of many individuals (Louail, 2013 [9]; Ferreira et al., 2013 [6]). Here we quantify the dynamics of an urban lightscape through the novel modality of persistent synoptic observations from an urban vantage point. Established astronomical techniques are applied to visible light images captured at 0.1 Hz to extract and analyze the light curves of 4147 sources in an urban scene over a period of 3 weeks. We find that both residential and commercial sources in our scene exhibit recurring aggregate patterns, while the individual sources decorrelate by an average of one hour after only one night. These highly granular, stand-off observations of aggregate human behavior - which do not require surveys, in situ monitors, or other intrusive methodologies - have a direct relationship to average and dynamic energy usage, lighting technology, and the impacts of light pollution. They may also be used indirectly to address questions in urban operations as well as behavioral and health science. Our methodology can be extended to other remote sensing modalities and, when combined with correlative data, can yield new insights into cities and their inhabitants. (C) 2015 The Authors. Published by Elsevier Ltd.
+CR Abbott A, 2003, NATURE, V425, P896, DOI 10.1038/425896a
+   Andersson C, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.026204
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Canny J. F., 1986, IEEE T PATTERN ANAL
+   Ferreira N, 2013, IEEE T VIS COMPUT GR, V19, P2149, DOI 10.1109/TVCG.2013.226
+   Hale JD, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0061460
+   Louail T., 2013, ARXIV14014540
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   Roenneberg T, 2012, CURR BIOL, V22, P939, DOI 10.1016/j.cub.2012.03.038
+   Sutton PC, 2003, REMOTE SENS ENVIRON, V86, P353, DOI 10.1016/S0034-4257(03)00078-6
+   Warhol Andy, 1964, EMPIRE
+   Wu JS, 2013, REMOTE SENS ENVIRON, V134, P111, DOI 10.1016/j.rse.2013.03.001
+NR 13
+TC 8
+Z9 8
+SN 0306-4379
+EI 1873-6076
+PD DEC
+PY 2015
+VL 54
+BP 115
+EP 126
+DI 10.1016/j.is.2015.06.002
+UT WOS:000362046700008
+ER
+
+PT J
+AU O'Sullivan, D
+   Manson, SM
+AF O'Sullivan, David
+   Manson, Steven M.
+TI Do Physicists Have Geography Envy? And What Can Geographers Learn from
+   It?
+SO ANNALS OF THE ASSOCIATION OF AMERICAN GEOGRAPHERS
+DE big data; complexity; computational science; cybernetics; fourth
+   paradigm; geographical thought; quantification; social physics; systems
+   theory
+ID LAND-COVER CHANGE; FLIGHT SEARCH PATTERNS; CORRELATED RANDOM-WALK; EARTH
+   SYSTEM SCIENCE; QUANTITATIVE REVOLUTION; ECONOMIC-GEOGRAPHY; WANDERING
+   ALBATROSSES; STATISTICAL PHYSICS; COMPLEXITY SCIENCE; POWER LAWS
+AB Recent years have seen an increasing amount of work by physicists on topics outside their traditional research domain, including geography. We explore the scope of this development, place it in a historical context dating back at least to statistical physics in the nineteenth century and trace the origins of more recent developments to the roots of computational science after World War II. Our primary purpose is not historical, however. Instead, we are concerned with understanding what geographers can learn from the many recent contributions by physicists to understanding spatiotemporal systems. Drawing on examples of work in this tradition by physicists, we argue that two apparently different modes of investigation are common: model-driven and data-driven approaches. The former is associated with complexity science, whereas the latter is more commonly associated with the fourth paradigm, more recently known as "big data." Both modes share technical strengths and, more important, a capacity for generalization, which is absent from much work in geography. We argue that although some of this research lacks an appreciation of previous geographical contributions, when assessed critically, it nevertheless brings useful new perspectives, new methods, and new ideas to bear on topics central to geography, yet neglected in the discipline. We conclude with some suggestions for how geographers can build on these new approaches, both inside and outside the discipline.
+OI Manson, Steven/0000-0001-7697-5339
+CR Allen PM, 1997, CITIES REGIONS SELF
+   Anderson C., 2008, WIRED MAG
+   Auerbach F, 1913, PETERMANNS MITT, V59, P74
+   Bak Per, 1997, NATURE WORKS SCI SEL
+   Ball P, 2006, NATURE, V441, P686, DOI 10.1038/441686a
+   Ball P, 2002, PHYSICA A, V314, P1, DOI 10.1016/S0378-4371(02)01042-7
+   Ball P., 2004, CRITICAL MASS ONE TH
+   Barnes TJ, 2004, J ECON GEOGR, V4, P107, DOI 10.1093/jeg/4.2.107
+   Barnes TJ, 2003, PROG HUM GEOG, V27, P69, DOI 10.1191/0309132503ph419oa
+   Barnes TJ, 2001, ANN ASSOC AM GEOGR, V91, P546, DOI 10.1111/0004-5608.00258
+   Barnes TJ, 2008, GEOFORUM, V39, P3, DOI 10.1016/j.geoforum.2007.09.006
+   Barnes TJ, 2014, BIG DATA SOC, V1, DOI 10.1177/2053951714535365
+   Barnes TJ, 2009, PROF GEOGR, V61, P292, DOI 10.1080/00330120902931937
+   Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Bartumeus F, 2005, ECOLOGY, V86, P3078, DOI 10.1890/04-1806
+   Batty M, 2005, ENVIRON PLANN A, V37, P1373, DOI 10.1068/a3784
+   Batty M., 2005, CITIES COMPLEXITY UN
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2006, NATURE, V444, P592, DOI 10.1038/nature05302
+   Batty M, 2013, SCIENCE, V340, P1418, DOI 10.1126/science.1239870
+   Batty M, 2006, METHODS SER, V3, P143
+   Bell G, 2009, SCIENCE, V323, P1297, DOI 10.1126/science.1170411
+   Bergstrand JH, 2011, PALGRAVE HANDBOOK OF INTERNATIONAL TRADE, P532
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2011, SCI AM, V305, DOI 10.1038/scientificamerican0911-52
+   BOVET P, 1988, J THEOR BIOL, V131, P419, DOI 10.1016/S0022-5193(88)80038-9
+   Brakman Steven, 2010, GRAVITY MODEL INT TR
+   Brinkhoff T, 2013, MAJOR AGGLOMERATIONS
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Buchanan M, 2008, NATURE, V453, P714, DOI 10.1038/453714a
+   CAREY HC, 1858, PRINCIPLES SOCIAL SC
+   CARROLL GR, 1982, PROG HUM GEOG, V6, P1
+   Castellano C, 2009, REV MOD PHYS, V81, P591, DOI 10.1103/RevModPhys.81.591
+   Chorley R. J., 1971, PHYS GEOGRAPHY SYSTE
+   Chrisman N., 2005, CARTOGR INT J GEOGR, V4, P23, DOI [DOI 10.3138/8U64-K7M1-5XW3-2677, 10.3138/8u64-k7m1-5xw3-2677]
+   Christophers B, 2011, ANN ASSOC AM GEOGR, V101, P1347, DOI 10.1080/00045608.2011.583569
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Clifford N, 2005, EARTH SURF PROC LAND, V30, P379, DOI 10.1002/esp.1215
+   Codling EA, 2008, J R SOC INTERFACE, V5, P813, DOI 10.1098/rsif.2008.0014
+   Coveney R, 1995, FRONTIERS COMPLEXITY
+   Crawford TW, 2005, ENVIRON PLANN B, V32, P792, DOI 10.1068/b3206ed
+   DeFries RS, 1999, GLOBAL BIOGEOCHEM CY, V13, P803, DOI 10.1029/1999GB900037
+   DeLanda M., 1997, 1000 YEARS NONLINEAR
+   Dyson G., 2012, TURINGS CATHEDRAL OR
+   Edwards AM, 2007, NATURE, V449, P1044, DOI 10.1038/nature06199
+   EGLER FE, 1986, B ECOL SOC AM, V67, P233
+   Entwisle B, 2007, DEMOGRAPHY, V44, P687, DOI 10.1353/dem.2007.0045
+   Evans Tom, 2002, INTEGRATED ASSESSMEN, V3, P135
+   Evans TP, 2011, J LAND USE SCI, V6, P151, DOI 10.1080/1747423X.2011.558602
+   Gallegati M, 2006, PHYSICA A, V370, P1, DOI 10.1016/j.physa.2006.04.029
+   Gregson N, 2000, ENVIRON PLANN D, V18, P433, DOI 10.1068/d232
+   Hagerstrand T, 1968, INNOVATION DIFFUSION
+   Haken H., 1984, SCI STRUCTURE SYNERG
+   Haklay M, 2008, GEOGR COMPASS, V2, P2011, DOI 10.1111/j.1749-8198.2008.00167.x
+   Hamnett C, 2003, GEOFORUM, V34, P1, DOI 10.1016/S0016-7185(02)00086-6
+   HART JF, 1982, ANN ASSOC AM GEOGR, V72, P1, DOI 10.1111/j.1467-8306.1982.tb01380.x
+   Harvey D, 1982, LIMITS CAPITAL
+   Harvey D, 1978, INT J URBAN REGIONAL, V2, P101, DOI [10.1111/j.1468-2427.1978.tb00738.x, DOI 10.1111/J.1468-2427.1978.TB00738.X]
+   Hey A. J. G., 2009, 4 PARADIGM DATA INTE
+   Hilbert M, 2011, SCIENCE, V332, P60, DOI 10.1126/science.1200970
+   Holme P, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.056108
+   Jacobs J, 1969, EC CITIES
+   Jacobs Jane., 1961, DEATH LIFE GREAT AM
+   James A, 2011, J R SOC INTERFACE, V8, P1233, DOI 10.1098/rsif.2011.0200
+   Johnston R, 2003, GEOFORUM, V34, P157, DOI 10.1016/S0016-7185(03)00006-X
+   Johnston R.J., 2014, DIALOGUES HUMAN GEOG, V4, P3
+   Johnston R, 2006, T I BRIT GEOGR, V31, P286, DOI 10.1111/j.1475-5661.2006.00215.x
+   KAREIVA PM, 1983, OECOLOGIA, V56, P234, DOI 10.1007/BF00379695
+   Keeling MJ, 2008, MODELING INFECT DIS
+   Kitchin R., 2014, DATA REVOLUTION BIG
+   Kitchin Rob, 2013, DIALOGUES HUMAN GEOG, V3, P262, DOI DOI 10.1177/2043820613513388
+   Kwan MP, 2009, PROF GEOGR, V61, P283, DOI 10.1080/00330120902931903
+   Kwan MP, 2004, ANN ASSOC AM GEOGR, V94, P756
+   Kwan MP, 2002, ANN ASSOC AM GEOGR, V92, P645, DOI 10.1111/1467-8306.00309
+   Lambin EF, 2003, ANNU REV ENV RESOUR, V28, P205, DOI 10.1146/annurev.energy.28.050302.105459
+   Laurier E, 2006, AREA, V38, P353, DOI 10.1111/j.1475-4762.2006.00712.x
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Lehrer J., 2010, NY TIMES MAGAZINE, pMM46
+   Levinson D, 2009, NETW SPAT ECON, V9, P289, DOI 10.1007/s11067-009-9105-z
+   Li W, 1998, URBAN STUD, V35, P479, DOI 10.1080/0042098984871
+   Longley Paul A., 2000, J GEOGRAPHICAL SYSTE, V2, P37, DOI DOI 10.1007/S101090050027
+   Malanson GP, 2014, PROG PHYS GEOG, V38, P3, DOI 10.1177/0309133313516481
+   Mandelbrot BB, 1977, FRACTALS FORM CHANCE
+   Manson SM, 2001, GEOFORUM, V32, P405, DOI 10.1016/S0016-7185(00)00035-X
+   Manson S, 2006, ENVIRON PLANN A, V38, P677, DOI 10.1068/a37100
+   Massey D, 1999, T I BRIT GEOGR, V24, P261, DOI 10.1111/j.0020-2754.1999.00261.x
+   Matthews SA, 2008, AM J PREV MED, V34, P257, DOI 10.1016/j.amepre.2007.12.001
+   Mayer-Schonberger V., 2013, BIG DATA REVOLUTION
+   Mirowski P, 1989, MORE HEAT LIGHT EC S
+   Mirowski P, 2007, J ECON BEHAV ORGAN, V63, P209, DOI 10.1016/j.jebo.2005.03.015
+   Mirowski Philip, 2002, MACHINE DREAMS EC BE
+   Mitchell M., 2008, COMPLEXITY GUIDED TO
+   Mitzenmacher M., 2004, INTERNET MATH, V1, P226, DOI DOI 10.1080/15427951.2004.10129088
+   MORRISON DW, 1978, AM NAT, V112, P925, DOI 10.1086/283332
+   Nash C, 2000, PROG HUM GEOG, V24, P653, DOI 10.1191/030913200701540654
+   Nathan R, 2008, P NATL ACAD SCI USA, V105, P19052, DOI 10.1073/pnas.0800375105
+   Newman M. E., 2010, NETWORKS INTRO
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   O'Sullivan D, 2004, T I BRIT GEOGR, V29, P282, DOI 10.1111/j.0020-2754.2004.00321.x
+   O' Sullivan D, 2006, PROG HUM GEOG, V30, P783, DOI 10.1177/0309132506071528
+   Olsson G., 1965, GEOGR ANN B, V47, P3
+   Parsegian VA, 1997, PHYS TODAY, V50, P23, DOI 10.1063/1.881805
+   PATLAK CLIFFORD S., 1953, BULL MATH BIOPHYS, V15, P311, DOI 10.1007/BF02476407
+   Pearson K., 1906, MATH CONTRIBUTIONS T
+   Perrings C, 2011, SCIENCE, V331, P1139, DOI 10.1126/science.1202400
+   Phillips JD, 2004, GEOGR ANAL, V36, P369, DOI 10.1111/j.1538-4632.2004.tb01142.x
+   Pitman AJ, 2005, GEOFORUM, V36, P137, DOI 10.1016/j.geoform.2004.11.008
+   Plummer P, 2001, ANTIPODE, V33, P194, DOI 10.1111/1467-8330.00178
+   Polhill J. G., 2008, SOCIAL SIMULATION TE, P81
+   Poon JPH, 2005, PROG HUM GEOG, V29, P766, DOI 10.1191/0309132505ph583pr
+   Poon JPH, 2003, PROG HUM GEOG, V27, P753, DOI 10.1191/0309132503ph161pr
+   Portugali J., 2000, SELF ORG CITY
+   PRIGOGINE I, 1984, ORDER OUR CHAOS MANS
+   Raichlen DA, 2014, P NATL ACAD SCI USA, V111, P728, DOI 10.1073/pnas.1318616111
+   Rindfuss RR, 2004, P NATL ACAD SCI USA, V101, P13976, DOI 10.1073/pnas.0401545101
+   Sampson RJ, 2002, ANNU REV SOCIOL, V28, P443, DOI 10.1146/annurev.soc.28.110601.141114
+   Sassen S., 1991, GLOBAL CITY NEW YORK
+   Savage M, 2007, SOCIOLOGY, V41, P885, DOI 10.1177/0038038507080443
+   Schlink U, 2011, ENVIRON POLLUT, V159, P2061, DOI 10.1016/j.envpol.2011.02.023
+   Shalizi CR., 2011, SCALING HIERARCHY UR
+   Shearmur R, 2010, URBAN GEOGR, V31, P1009, DOI 10.2747/0272-3638.31.8.1009
+   Sheppard E, 2004, ANN ASSOC AM GEOGR, V94, P744
+   Sheppard E, 2001, ENVIRON PLANN D, V19, P535, DOI 10.1068/d307
+   Shneiderman B, 2008, SCIENCE, V319, P1349, DOI 10.1126/science.1153539
+   Stauffer D, 2004, PHYSICA A, V336, P1, DOI 10.1016/j.physa.2004.01.004
+   Stewart JQ, 1948, SOCIOMETRY, V11, P31, DOI 10.2307/2785468
+   Stewart JQ, 1947, GEOGR REV, V37, P461, DOI 10.2307/211132
+   STEWART JQ, 1950, AM J PHYS, V18, P239, DOI 10.1119/1.1932559
+   Stewart JQ, 1941, SCIENCE, V93, P89, DOI 10.1126/science.93.2404.89
+   STEWART JQ, 1947, SCIENCE, V106, P179, DOI 10.1126/science.106.2748.179
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Taylor P. J., 2004, WORLD CITY NETWORK G
+   Thrift N, 2002, GEOFORUM, V33, P291, DOI 10.1016/S0016-7185(02)00019-2
+   Thrift N, 1999, THEOR CULT SOC, V16, P31, DOI 10.1177/02632769922050610
+   Thrift N, 2008, NONREPRESENTATIONAL
+   Turner BL, 2007, P NATL ACAD SCI USA, V104, P20666, DOI 10.1073/pnas.0704119104
+   Turner BL, 2002, GEOFORUM, V33, P427, DOI 10.1016/S0016-7185(02)00027-1
+   Unwin DJ, 2005, GEOFORUM, V36, P681, DOI 10.1016/j.geoforum.2005.04.003
+   Urry J, 2004, GLOBAL NETW, V4, P109, DOI 10.1111/j.1471-0374.2004.00083.x
+   Viswanathan G M, 2011, PHYS FORAGING INTRO
+   Viswanathan GM, 1996, NATURE, V381, P413, DOI 10.1038/381413a0
+   Viswanathan GM, 1999, NATURE, V401, P911, DOI 10.1038/44831
+   von Bertalanffy L., 1950, BRIT J PHILOS SCI, V1, P134, DOI DOI 10.1093/BJPS/I.2.134
+   Waldrop MM, 1992, COMPLEXITY EMERGING
+   Warntz W, 1984, RECOLLECTIONS REVOLU, P134
+   Warntz W., 1971, BREAKTHROUGHS GEOGRA
+   Watts DJ, 2007, NATURE, V445, P489, DOI 10.1038/445489a
+   WEAVER W, 1948, Am Sci, V36, P536
+   Weeks J., 2011, POPULATION INTRO CON
+   Wiener N., 1948, CYBERNETICS CONTROL
+   WILKINSON DH, 1952, J EXP BIOL, V29, P532
+   Wilson A. G, 1974, URBAN REGIONAL MODEL
+   WILSON AG, 1971, ENVIRON PLANN, V3, P1, DOI 10.1068/a030001
+   Wolfram S., 2002, NEW KIND SCI
+   Wright DJ, 2011, P NATL ACAD SCI USA, V108, P5488, DOI 10.1073/pnas.1103051108
+   Wyly E, 2014, URBAN GEOGR, V35, P669, DOI 10.1080/02723638.2014.923143
+   Wyly E, 2009, PROF GEOGR, V61, P310, DOI 10.1080/00330120902931952
+   Wyly Elvin, 2014, DIALOGUES HUMAN GEOG, V4, P26
+   Zanette DH, 2001, PHYSICA A, V295, P1, DOI 10.1016/S0378-4371(01)00046-2
+   Zipf G. K., 1949, HUMAN BEHAV PRINCIPL
+NR 163
+TC 13
+Z9 13
+SN 0004-5608
+EI 1467-8306
+PD JUL 4
+PY 2015
+VL 105
+IS 4
+BP 704
+EP 722
+DI 10.1080/00045608.2015.1039105
+UT WOS:000359478600005
+ER
+
+PT S
+AU Bischof, S
+   Martin, C
+   Polleres, A
+   Schneider, P
+AF Bischof, Stefan
+   Martin, Christoph
+   Polleres, Axel
+   Schneider, Patrik
+BE Arenas, M
+   Corcho, O
+   Simperl, E
+   Strohmaier, M
+   DAquin, M
+   Srinivas, K
+   Groth, P
+   Dumontier, M
+   Heflin, J
+   Thirunarayan, K
+   Staab, S
+TI Collecting, Integrating, Enriching and Republishing Open City Data as
+   Linked Data
+SO SEMANTIC WEB - ISWC 2015, PT II
+SE Lecture Notes in Computer Science
+CT 14th International Semantic Web Conference (ISWC)
+CY OCT 11-15, 2015
+CL Bethlehem, PA
+ID WEB
+AB Access to high quality and recent data is crucial both for decision makers in cities as well as for the public. Likewise, infrastructure providers could offer more tailored solutions to cities based on such data. However, even though there are many data sets containing relevant indicators about cities available as open data, it is cumbersome to integrate and analyze them, since the collection is still a manual process and the sources are not connected to each other upfront. Further, disjoint indicators and cities across the available data sources lead to a large proportion of missing values when integrating these sources. In this paper we present a platform for collecting, integrating, and enriching open data about cities in a reusable and comparable manner: we have integrated various open data sources and present approaches for predicting missing values, where we use standard regression methods in combination with principal component analysis (PCA) to improve quality and amount of predicted values. Since indicators and cities only have partial overlaps across data sets, we particularly focus on predicting indicator values across data sets, where we extend, adapt, and evaluate our prediction model for this particular purpose: as a "side product" we learn ontology mappings (simple equations and sub-properties) for pairs of indicators from different data sets. Finally, we republish the integrated and predicted values as linked open data.
+RI Bischof, Stefan/O-1743-2017
+OI Bischof, Stefan/0000-0001-9521-8907; Polleres, Axel/0000-0001-5670-1146
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bischof S, 2013, P I SEMANTICS 2013 P, P45
+   Bischof S., 2013, LNCS, V7882, P335
+   Bizer C, 2009, J WEB SEMANT, V7, P154, DOI 10.1016/j.websem.2009.07.002
+   Brickley D, 2004, RDF VOCABULARY DESCR
+   Euzenat J., 2013, ONTOLOGY MATCHING
+   Gil Y., 2013, PROV MODEL PRIMER
+   Hall M., 2009, SIGKDD EXPLORATIONS, V11, P1, DOI [10.1145/1656274.1656278, DOI 10.1145/1656274.1656278]
+   Han J, 2012, MOR KAUF D, P1
+   Kampgen B., 2015, LNCS, V7540, P87
+   Keet CM, 2015, J WEB SEMANT, V32, P43, DOI 10.1016/j.websem.2015.01.001
+   Lopez V., 2012, LECT NOTES COMPUTER, V7650, P148
+   Nickel Maximilian, 2012, P 21 INT C WORLD WID, P271, DOI DOI 10.1145/2187836.2187874
+   Office for Official Publications of the European Communities, 2004, METHODOLOGICAL HDB
+   Paulheim H., 2014, P 5 RAPIDMINER WORLD
+   Paulheim H., 2012, P WIMS 2012, P31
+   Paulheim H., 2012, LNCS, V7295, P560, DOI DOI 10.1007/978-3-642-30284-8
+   R Development Core Team, 2009, R LANG ENV STAT COMP
+   Rahm E., 2000, IEEE DATA ENG B, V23, P3, DOI DOI 10.1145/1317331.1317341
+   Roweis S, 1998, ADV NEUR IN, V10, P626
+   Sanchez VD, 2003, NEUROCOMPUTING, V55, P5, DOI 10.1016/S0925-2312(03)00373-4
+   Stadler C, 2012, SEMANT WEB, V3, P333, DOI 10.3233/SW-2011-0052
+   Statistics L.B., 2001, MACH LEARN, P5
+   Thomsen C, 2005, LECT NOTES COMPUT SC, V3589, P74
+   U. S. Census Bureau, 2007, COUNT CIT DAT BOOK 2
+   Unit Economist Intelligence, 2012, THE GREEN CIT IND
+   Venables W. N, 2002, MODERN APPL STAT S
+   WEST M, 1985, J AM STAT ASSOC, V80, P73, DOI 10.2307/2288042
+   Witten IH, 2011, MOR KAUF D, P1
+NR 29
+TC 9
+Z9 9
+SN 0302-9743
+BN 978-3-319-25010-6; 978-3-319-25009-0
+PY 2015
+VL 9367
+BP 57
+EP 75
+DI 10.1007/978-3-319-25010-6_4
+UT WOS:000374242500004
+ER
+
+PT S
+AU Sato, AH
+   Shimizu, C
+   Mizuno, T
+   Ohnishi, T
+   Watanabe, T
+AF Sato, Aki-Hiro
+   Shimizu, Chihiro
+   Mizuno, Takayuki
+   Ohnishi, Takaaki
+   Watanabe, Tsutomu
+BE Ding, L
+   Pang, C
+   Kew, LM
+   Jain, LC
+   Howlett, RJ
+TI Relationship between job opportunities and economic environments
+   measured from data in internet job searching sites
+SO KNOWLEDGE-BASED AND INTELLIGENT INFORMATION & ENGINEERING SYSTEMS 19TH
+   ANNUAL CONFERENCE, KES-2015
+SE Procedia Computer Science
+CT 19th International Conference on Knowledge Based and Intelligent
+   Information and Engineering Systems (KES)
+CY SEP 07-09, 2015
+CL Singapore, SINGAPORE
+DE Job opportunities; regression analysis; governmental grid square
+   statistics data; fluctuation scaling
+AB This study investigates the number of job opportunities collected from a Japanese job searching site ("fromA navi") and an international job searching site ("Indeed"). We confirm that a relationship between the number of job opportunities and socioeconomic quantities (the population, the numbers of firms and workers) in each 1-km grid square in Japan. The number of workers is the best explanatory variable to explain the number of job opportunities in Japan. The regression coefficients can be used as an indicator to grasp Japanese macroeconomic conditions. From a global point of view, we analyse the number of job opportunities in about 16,000 cities all over the world. We confirm the daily number of job opportunities in each city varies in time and show some associations with macroeconomic indicators. We compute a relationship between means of the daily number of job opportunities and their standard deviations and confirm that it follows a scaling relationship with power law exponent alpha = 1. A possible model based on Poisson processes with intensity of which varies in time on the basis of a common noise is proposed to explain the phenomenon empirically observed. (C) 2015 The Authors. Published by Elsevier B.V.
+OI Sato, Aki-Hiro/0000-0001-7410-6324
+CR Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blasco N, 2005, EUR J OPER RES, V163
+   de Menezes MA, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.028701
+   Eisler Z, 2008, ADV PHYS, V57, P89, DOI 10.1080/00018730801893043
+   Ginsberg J, 2009, NATURE, V457
+   Sato AH, 2012, J ECON INTERACT COOR, V7, P167, DOI 10.1007/s11403-012-0089-2
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+NR 7
+TC 0
+Z9 0
+SN 1877-0509
+PY 2015
+VL 60
+BP 1255
+EP 1262
+DI 10.1016/j.procs.2015.08.191
+UT WOS:000360571700136
+ER
+
+PT S
+AU Mulder, C
+   Bennett, EM
+   Bohan, DA
+   Bonkowski, M
+   Carpenter, SR
+   Chalmers, R
+   Cramer, W
+   Durance, I
+   Eisenhauer, N
+   Fontaine, C
+   Haughton, AJ
+   Hettelingh, JP
+   Hines, J
+   Ibanez, S
+   Jeppesen, E
+   Krumins, JA
+   Ma, A
+   Mancinelli, G
+   Massol, F
+   McLaughlin, O
+   Naeem, S
+   Pascual, U
+   Penuelas, J
+   Pettorelli, N
+   Pocock, MJO
+   Raffaell, D
+   Rasmussen, JJ
+   Rusch, GM
+   Scherber, C
+   Setala, H
+   Sutherland, WJ
+   Vacher, C
+   Voigt, W
+   Vonk, JA
+   Wood, SA
+   Woodward, G
+AF Mulder, Christian
+   Bennett, Elena M.
+   Bohan, David A.
+   Bonkowski, Michael
+   Carpenter, Stephen R.
+   Chalmers, Rachel
+   Cramer, Wolfgang
+   Durance, Isabelle
+   Eisenhauer, Nico
+   Fontaine, Colin
+   Haughton, Alison J.
+   Hettelingh, Jean-Paul
+   Hines, Jes
+   Ibanez, Sebastien
+   Jeppesen, Erik
+   Krumins, Jennifer Adams
+   Ma, Athen
+   Mancinelli, Giorgio
+   Massol, Francois
+   McLaughlin, Orla
+   Naeem, Shahid
+   Pascual, Unai
+   Penuelas, Josep
+   Pettorelli, Nathalie
+   Pocock, Michael J. O.
+   Raffaell, Dave
+   Rasmussen, Jes J.
+   Rusch, Graciela M.
+   Scherber, Christoph
+   Setala, Heikki
+   Sutherland, William J.
+   Vacher, Corinne
+   Voigt, Winfried
+   Vonk, J. Arie
+   Wood, Stephen A.
+   Woodward, Guy
+BE Woodward, G
+   Bohan, DA
+TI 10 Years Later: Revisiting Priorities for Science and Society a Decade
+   After the Millennium Ecosystem Assessment
+SO ECOSYSTEM SERVICES: FROM BIODIVERSITY TO SOCIETY, PT 1
+SE Advances in Ecological Research
+ID FOOD-WEB STRUCTURE; ECOLOGICAL COMMUNITY DESCRIPTION; BODY-SIZE;
+   NITROGEN AVAILABILITY; FUNCTIONAL DIVERSITY; SPECIES ABUNDANCE;
+   BIODIVERSITY LOSS; COMPLEX NETWORKS; NATURAL SYSTEMS; PLANT DIVERSITY
+AB The study of ecological services (ESs) is fast becoming a cornerstone of mainstream ecology, largely because they provide a useful means of linking functioning to societal benefits in complex systems by connecting different organizational levels. In order to identify the main challenges facing current and future ES research, we analyzed the effects of the publication of the Millennium Ecosystem Assessment (MEA, 2005) on different disciplines. Within a set of topics framed around concepts embedded within the MEA, each co-author identified five key research challenges and, where feasible, suggested possible solutions. Concepts included those related to specific service types (i.e. provisioning, supporting, regulating, cultural, aesthetic services) as well as more synthetic issues spanning the natural and social sciences, which often linked a wide range of disciplines, as was the case for the application of network theory. By merging similar responses, and removing some of the narrower suggestions from our sample pool, we distilled the key challenges into a smaller subset. We review some of the historical context to the MEA and identify some of the broader scientific and philosophical issues that still permeate discourse in this field. Finally, we consider where the greatest advances are most likely to be made in the next decade and beyond.
+RI Mulder, Christian/N-4726-2015; Scherber, Christoph/B-6611-2009; Hines,
+   Jes/L-7668-2016; Vonk, Jan Arie/B-1105-2009; Haughton,
+   Alison/A-7769-2013; PASCUAL, UNAI/B-4766-2012; Cramer,
+   Wolfgang/B-8221-2008; Wood, Stephen/A-1928-2017; Massol,
+   Francois/D-9872-2013; Mancinelli, Giorgio/A-7679-2013
+OI Mulder, Christian/0000-0001-5735-6989; Scherber,
+   Christoph/0000-0001-7924-8911; Hines, Jes/0000-0002-9129-5179; Vonk, Jan
+   Arie/0000-0002-8803-1148; Haughton, Alison/0000-0002-2852-5736; PASCUAL,
+   UNAI/0000-0002-5696-236X; Cramer, Wolfgang/0000-0002-9205-5812; Wood,
+   Stephen/0000-0002-9551-8165; Massol, Francois/0000-0002-4098-955X;
+   Mancinelli, Giorgio/0000-0002-5833-7322; Bonkowski,
+   Michael/0000-0003-2656-1183; Penuelas, Josep/0000-0002-7215-0150; Bohan,
+   David/0000-0001-5656-775X; Sutherland, William/0000-0002-6498-0437;
+   Vacher, Corinne/0000-0003-3023-6113; Setala, Heikki
+   Martti/0000-0002-5230-4001; Eisenhauer, Nico/0000-0002-0371-6720
+CR Alderson DL, 2010, IEEE T SYST MAN CY A, V40, P839, DOI 10.1109/TSMCA.2010.2048027
+   An L, 2012, ECOL MODEL, V229, P25, DOI 10.1016/j.ecolmodel.2011.07.010
+   Annan K. A, 2000, WE PEOPLES ROLE UN 2
+   Bakker J. P., 1989, NATURE MANAGEMENT CU
+   Balvanera P, 2006, ECOL LETT, V9, P1146, DOI 10.1111/j.1461-0248.2006.00963.x
+   Barberan A, 2012, ISME J, V6, P343, DOI 10.1038/ismej.2011.119
+   Bascompte J, 2007, ANNU REV ECOL EVOL S, V38, P567, DOI 10.1146/annurev.ecolsys.38.091206.095818
+   Bastian M., 2009, P INT C WEBL SOC MED
+   Batagelj M., 1998, CONNECTIONS, V21
+   Bateman IJ, 2011, ENVIRON RESOUR ECON, V48, P177, DOI 10.1007/s10640-010-9418-x
+   Beketov MA, 2013, P NATL ACAD SCI USA, V110, P11039, DOI 10.1073/pnas.1305618110
+   Belovsky GE, 2000, P NATL ACAD SCI USA, V97, P14412, DOI 10.1073/pnas.250483797
+   Bennett EM, 2015, CURR OPIN ENV SUST, V14, P76, DOI 10.1016/j.cosust.2015.03.007
+   Bennett EM, 2009, ECOL LETT, V12, P1394, DOI 10.1111/j.1461-0248.2009.01387.x
+   Benson DA, 2013, NUCLEIC ACIDS RES, V41, pD36, DOI 10.1093/nar/gks1195
+   Berendsen RL, 2012, TRENDS PLANT SCI, V17, P478, DOI 10.1016/j.tplants.2012.04.001
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bohan DA, 2013, ADV ECOL RES, V49, P1, DOI 10.1016/B978-0-12-420002-9.00001-9
+   Bohan DA, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0029028
+   Bonhommeau S, 2013, P NATL ACAD SCI USA, V110, P20617, DOI 10.1073/pnas.1305827110
+   Brennan AC, 2014, EVOL ECOL RES, V16, P475
+   Burfeind DD, 2013, BIOL INVASIONS, V15, P17, DOI 10.1007/s10530-012-0265-2
+   Butchart SHM, 2010, SCIENCE, V328, P1164, DOI 10.1126/science.1187512
+   Cardinale BJ, 2012, NATURE, V486, P59, DOI 10.1038/nature11148
+   Carpenter S. R., 1993, TROPHIC CASCADE LAKE
+   Carpenter SR, 2005, P NATL ACAD SCI USA, V102, P10002, DOI 10.1073/pnas.0503959102
+   CARPENTER SR, 1987, ECOLOGY, V68, P1863, DOI 10.2307/1939878
+   CARPENTER SR, 2003, EXCELL ECOL, V15, P1
+   Carpenter SR, 2009, P NATL ACAD SCI USA, V106, P1305, DOI 10.1073/pnas.0808772106
+   CARROLL G, 1988, ECOLOGY, V69, P2, DOI 10.2307/1943154
+   Chung H., 2009, GLOB CHA BIOL, V13, P980
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cohen JE, 2003, P NATL ACAD SCI USA, V100, P1781, DOI 10.1073/pnas.232715699
+   Cohen JE, 2004, PLOS BIOL, V2, P2017, DOI 10.1371/journal.pbio.0020439
+   Cohen JE, 2009, P NATL ACAD SCI USA, V106, P22335, DOI 10.1073/pnas.0910582106
+   COSTANZA R, 1992, CONSERV BIOL, V6, P37, DOI 10.1046/j.1523-1739.1992.610037.x
+   Costanza R., 1997, INTRO ECOLOGICAL EC
+   Cotton TEA, 2015, NEW PHYTOL, V205, P1598, DOI 10.1111/nph.13224
+   Daily GC, 2009, FRONT ECOL ENVIRON, V7, P21, DOI 10.1890/080025
+   Daily Gretchen C., 1997, NATURES SERVICES
+   Davies TE, 2014, ANIM CONSERV, V17, P303, DOI 10.1111/acv.12094
+   Daw T, 2011, ENVIRON CONSERV, V38, P370, DOI 10.1017/S0376892911000506
+   Daw TM, 2015, P NATL ACAD SCI USA, V112, P6949, DOI 10.1073/pnas.1414900112
+   de Groot RS, 2010, ECOL COMPLEX, V7, P260, DOI 10.1016/j.ecocom.2009.10.006
+   de Groot RS, 2002, ECOL ECON, V41, P393, DOI 10.1016/S0921-8009(02)00089-7
+   de Vries FT, 2013, P NATL ACAD SCI USA, V110, P14296, DOI 10.1073/pnas.1305198110
+   de Vries W, 2015, ENVIRON POLLUT SER, V25, P589
+   DeAngelis DL, 2005, ANNU REV ECOL EVOL S, V36, P147, DOI 10.1146/annurev.ecolsys.36.102003.152644
+   Diaz S, 2006, PLOS BIOL, V4, P1300, DOI 10.1371/journal.pbio.0040277
+   Dodds P. S., 2000, ANN REV EARTH PLANET, V28, P1
+   DORMANN C. F., 2008, R NEWS, V8, P8, DOI DOI 10.1159/
+   Dunne JA, 2008, PLOS BIOL, V6, P693, DOI 10.1371/journal.pbio.0060102
+   EHRLICH PR, 1983, BIOSCIENCE, V33, P248, DOI 10.2307/1309037
+   Eisenhauer N, 2015, PEDOBIOLOGIA, V58, P65, DOI 10.1016/j.pedobi.2015.03.002
+   Eisenhauer N, 2013, P NATL ACAD SCI USA, V110, P6889, DOI 10.1073/pnas.1217382110
+   Escobedo FJ, 2011, ENVIRON POLLUT, V159, P2078, DOI 10.1016/j.envpol.2011.01.010
+   Faegri K, 1979, PRINCIPLES POLLINATI
+   Feld CK, 2011, ADV ECOL RES, V44, P119, DOI 10.1016/B978-0-12-374794-5.00003-1
+   Feld CK, 2009, OIKOS, V118, P1862, DOI 10.1111/j.1600-0706.2009.17860.x
+   Filatova T, 2013, ENVIRON MODELL SOFTW, V45, P1, DOI 10.1016/j.envsoft.2013.03.017
+   Firbank LG, 2003, J APPL ECOL, V40, P2, DOI 10.1046/j.1365-2664.2003.00787.x
+   Fisher B, 2008, ECOL APPL, V18, P2050, DOI 10.1890/07-1537.1
+   Fisher B, 2008, BIOL CONSERV, V141, P1167, DOI 10.1016/j.biocon.2008.02.019
+   Fontaine C, 2013, NATURE, V500, P411, DOI 10.1038/500411a
+   Fortuna MA, 2013, PLOS COMPUT BIOL, V9, DOI 10.1371/journal.pcbi.1002928
+   Friberg N, 2011, ADV ECOL RES, V44, P1, DOI 10.1016/B978-0-12-374794-5.00001-8
+   Gerhold P, 2015, FUNCT ECOL, V29, P600, DOI 10.1111/1365-2435.12425
+   Gill R. J., 2016, ADV ECOL RE IN PRESS, P54
+   Gordon LJ, 2010, AGR WATER MANAGE, V97, P512, DOI 10.1016/j.agwat.2009.03.017
+   Gotelli NJ, 2001, ECOL LETT, V4, P379, DOI 10.1046/j.1461-0248.2001.00230.x
+   Gret-Regamey A, 2014, LANDSCAPE ECOL, V29, P201, DOI 10.1007/s10980-013-9957-y
+   Gunderson L. H., 2002, PARARCHY UNDERSTANDI
+   Hacquard S, 2015, NEW PHYTOL, V205, P1424, DOI 10.1111/nph.13133
+   Haldane AG, 2011, NATURE, V469, P351, DOI 10.1038/nature09659
+   Heal O. W., 1986, DEV BIOGEOCHEM, V3, P14
+   Hector A, 2007, NATURE, V448, P188, DOI 10.1038/nature05947
+   Hein L, 2006, ECOL ECON, V57, P209, DOI 10.1016/j.ecolecon.2005.04.005
+   Hiley JR, 2014, DIVERS DISTRIB, V20, P943, DOI 10.1111/ddi.12219
+   Hines J, 2015, ADV ECOL RES, V53, P161, DOI 10.1016/bs.aecr.2015.09.001
+   Holling C.S., 1973, Annual Rev Ecol Syst, V4, P1, DOI 10.1146/annurev.es.04.110173.000245
+   HOLLING CS, 1987, EUR J OPER RES, V30, P139, DOI 10.1016/0377-2217(87)90091-9
+   Hooper DU, 2005, ECOL MONOGR, V75, P3, DOI 10.1890/04-0922
+   Howe C, 2014, GLOBAL ENVIRON CHANG, V28, P263, DOI 10.1016/j.gloenvcha.2014.07.005
+   Hudson LN, 2014, ECOL EVOL, V4, P4701, DOI 10.1002/ece3.1303
+   Hudson LN, 2013, METHODS ECOL EVOL, V4, P99, DOI 10.1111/2041-210X.12005
+   Hudson PJ, 2006, TRENDS ECOL EVOL, V21, P381, DOI 10.1016/j.tree.2006.04.007
+   Huston M A, 2000, Science, V289, P1255
+   Ibanez S, 2013, FUNCT ECOL, V27, P1064, DOI 10.1111/1365-2435.12094
+   Ings TC, 2009, J ANIM ECOL, V78, P253, DOI 10.1111/j.1365-2656.2008.01460.x
+   Jackson LE, 2012, CURR OPIN ENV SUST, V4, P517, DOI 10.1016/j.cosust.2012.08.003
+   Jax K, 2010, ECOSYSTEM FUNCTIONIN
+   Jennings S, 2004, J ANIM ECOL, V73, P632, DOI 10.1111/j.0021-8790.2004.00839.x
+   Jennings S, 1999, J ANIM ECOL, V68, P617, DOI 10.1046/j.1365-2656.1999.00312.x
+   Ji YQ, 2013, ECOL LETT, V16, P1245, DOI 10.1111/ele.12162
+   Jonsson T, 2005, ADV ECOL RES, V36, P1, DOI 10.1016/S0065-2504(05)36001-6
+   Jonsson T, 2014, COMMUNITY ECOL, V15, P54, DOI 10.1556/COMEC.15.2014.1.6
+   Kattge J, 2011, GLOBAL CHANGE BIOL, V17, P2905, DOI 10.1111/j.1365-2486.2011.02451.x
+   Kennedy CA, 2015, P NATL ACAD SCI USA, V112, P5985, DOI 10.1073/pnas.1504315112
+   Kiers ET, 2007, P ROY SOC B-BIOL SCI, V274, P3119, DOI 10.1098/rspb.2007.1187
+   Kissling WD, 2012, J BIOGEOGR, V39, P2163, DOI 10.1111/j.1365-2699.2011.02663.x
+   Kleijn D, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms8414
+   Koch EW, 2009, FRONT ECOL ENVIRON, V7, P29, DOI 10.1890/080126
+   Krumins JA, 2013, BIOSCIENCE, V63, P35, DOI 10.1525/bio.2013.63.1.8
+   Laakso J, 2000, PLANT SOIL, V225, P153, DOI 10.1023/A:1026534812422
+   Lafferty KD, 2008, ECOL LETT, V11, P533, DOI 10.1111/j.1461-0248.2008.01174.x
+   Lamers LPM, 2015, BIOL REV, V90, P182, DOI 10.1111/brv.12102
+   Lavorel S, 2011, J ECOL, V99, P135, DOI 10.1111/j.1365-2745.2010.01753.x
+   Layer K, 2010, ADV ECOL RES, V42, P265, DOI 10.1016/S0065-2504(10)42005-X
+   Lentendu G, 2014, MOL ECOL, V23, P3341, DOI 10.1111/mec.12819
+   Lester SE, 2013, MAR POLICY, V38, P80, DOI 10.1016/j.marpol.2012.05.022
+   Levin S, 2000, FRAGILE DOMINION COM
+   Levin SA, 1998, ECOSYSTEMS, V1, P431, DOI 10.1007/s100219900037
+   Limburg KE, 2010, J GREAT LAKES RES, V36, P86, DOI 10.1016/j.jglr.2009.11.007
+   Liss KN, 2013, FRONT ECOL ENVIRON, V11, P414, DOI 10.1890/120189
+   Liu JG, 2007, SCIENCE, V317, P1513, DOI 10.1126/science.1144004
+   Liu JG, 2015, SCIENCE, V347, DOI 10.1126/science.1258832
+   Liu JG, 2013, ECOL SOC, V18, DOI 10.5751/ES-05873-180226
+   Liu YY, 2011, NATURE, V473, P167, DOI 10.1038/nature10011
+   Loladze I, 2002, TRENDS ECOL EVOL, V17, P457, DOI 10.1016/S0169-5347(02)02587-9
+   Lopez-Hoffman L, 2010, FRONT ECOL ENVIRON, V8, P84, DOI 10.1890/070216
+   Luck GW, 2009, BIOSCIENCE, V59, P223, DOI 10.1025/bio.2009.59.3.7
+   Luck GW, 2003, TRENDS ECOL EVOL, V18, P331, DOI 10.1016/S0169-5347(03)00100-9
+   Lyytimaki J, 2009, URBAN FOR URBAN GREE, V8, P309, DOI 10.1016/j.ufug.2009.09.003
+   Ma A, 2012, PHYSICA A, V391, P6674, DOI 10.1016/j.physa.2012.07.058
+   Ma A, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0119678
+   Mace GM, 2015, J APPL ECOL, V52, P641, DOI 10.1111/1365-2664.12431
+   Mace GM, 2012, TRENDS ECOL EVOL, V27, P19, DOI 10.1016/j.tree.2011.08.006
+   Madin J, 2007, ECOL INFORM, V2, P279, DOI 10.1016/j.ecoinf.2007.05.004
+   Magurran A. E., 2013, MEASURING BIOL DIVER
+   Mancinelli G, 2015, ADV ECOL RES, V53, P97, DOI 10.1016/bs.aecr.2015.10.001
+   Martinez B, 2012, J BIOGEOGR, V39, P1877, DOI 10.1111/j.1365-2699.2012.02741.x
+   Martinez-Lopez FJ, 2013, EUR J MARKETING, V47, P115, DOI 10.1108/03090561311285484
+   Mesarovic M. D., 1984, COMPLEXITY GLOBAL FU, P192
+   MEYER WB, 1992, ANNU REV ECOL SYST, V23, P39, DOI 10.1146/annurev.es.23.110192.000351
+   Millennium Ecosystem Assessment-MEA, 2005, EC HUM WELL BEING BI
+   MITCHELL RJ, 1992, FUNCT ECOL, V6, P123, DOI 10.2307/2389745
+   Montoya JM, 2003, ECOL LETT, V6, P587, DOI 10.1046/j.1461-0248.2003.00469.x
+   Montoya JM, 2009, ECOLOGY, V90, P2426, DOI 10.1890/08-0657.1
+   Moretti M, 2013, J VEG SCI, V24, P949, DOI 10.1111/jvs.12022
+   Mouchet MA, 2010, FUNCT ECOL, V24, P867, DOI 10.1111/j.1365-2435.2010.01695.x
+   Mouquet N, 2012, BIOL REV, V87, P769, DOI 10.1111/j.1469-185X.2012.00224.x
+   Mulder C, 2005, ENVIRONMETRICS, V16, P357, DOI 10.1002/env.706
+   Mulder C, 2015, BIOGEOSCIENCES, V12, P4113, DOI 10.5194/bg-12-4113-2015
+   Mulder C, 2013, ADV ECOL RES, V49, P69, DOI 10.1016/B978-0-12-420002-9.00002-0
+   Mulder C, 2012, ADV ECOL RES, V46, P1, DOI 10.1016/B978-0-12-396992-7.00001-0
+   Mulder C, 2009, GLOBAL CHANGE BIOL, V15, P2730, DOI 10.1111/j.1365-2486.2009.01899.x
+   Naeem S, 2015, SCIENCE, V347, P1206, DOI 10.1126/science.aaa1403
+   Naeem S, 2009, BIODIVERSITY ECOSYST, P290
+   Naeem S, 2012, SCIENCE, V336, P1401, DOI 10.1126/science.1215855
+   Naidoo R, 2008, P NATL ACAD SCI USA, V105, P9495, DOI 10.1073/pnas.0707823105
+   Newman MEJ, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036104
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Ospina S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035555
+   Ostrom E, 2007, P NATL ACAD SCI USA, V104, P15181, DOI 10.1073/pnas.0702288104
+   Ostrom E, 2009, SCIENCE, V325, P419, DOI 10.1126/science.1172133
+   Paetzold A, 2010, ECOL COMPLEX, V7, P273, DOI 10.1016/j.ecocom.2009.11.003
+   Palomo I., 2016, ADV ECOL RE IN PRESS, P54
+   Pascual U, 2014, BIOSCIENCE, V64, P1027, DOI 10.1093/biosci/biu146
+   Pataki DE, 2011, FRONT ECOL ENVIRON, V9, P27, DOI 10.1890/090220
+   Pauly D, 1998, SCIENCE, V279, P860, DOI 10.1126/science.279.5352.860
+   Pawar S., 2015, AQUATIC FUNCTIONAL B, P3, DOI DOI 10.1016/B978-0-12-417015-5.00001-3
+   Pejchar L, 2009, TRENDS ECOL EVOL, V24, P497, DOI 10.1016/j.tree.2009.03.016
+   Perfecto I, 2003, ADV AGROECOL, P159
+   Perfecto I, 2008, ANN NY ACAD SCI, V1134, P173, DOI 10.1196/annals.1439.011
+   PERRINGS C, 1992, AMBIO, V21, P201
+   Perrings C, 2011, FRONT ECOL ENVIRON, V9, P512, DOI 10.1890/100212
+   Pettorelli N, 2015, ADV ECOL RES, V52, P19, DOI 10.1016/bs.aecr.2015.01.001
+   Pettorelli N, 2014, J APPL ECOL, V51, P839, DOI 10.1111/1365-2664.12261
+   Pichlmair A, 2012, NATURE, V487, P486, DOI 10.1038/nature11289
+   Pocock M. J. O., 2016, ADV ECOL RE IN PRESS, P54
+   Pocock MJO, 2012, SCIENCE, V335, P973, DOI 10.1126/science.1214915
+   Poisot T, 2013, ECOL LETT, V16, P853, DOI 10.1111/ele.12118
+   Polin S, 2014, ECOL EVOL, V4, P826, DOI 10.1002/ece3.991
+   Polis G. A., 2004, FOOD WEBS LANDSCAPE
+   Polis GA, 1997, ANNU REV ECOL SYST, V28, P289, DOI 10.1146/annurev.ecolsys.28.1.289
+   Poppy GM, 2014, PHILOS T R SOC B, V369, DOI 10.1098/rstb.2012.0288
+   Power AG, 2010, PHILOS T R SOC B, V365, P2959, DOI 10.1098/rstb.2010.0143
+   Pugesek B. H., 2003, STRUCTURAL EQUATION
+   Raffaelli D., 2016, ROUTLEDGE HDB ECOSYS
+   Raffaelli D, 2014, ADV ECOL RES, V51, P41, DOI 10.1016/B978-0-08-099970-8.00004-X
+   Raffaelli D, 2013, ADV ECOL RES, V48, P1, DOI 10.1016/B978-0-12-417199-2.00001-X
+   Rapparini F, 2014, USE MICROBES ALLEVIA, V1, P21
+   Rasmussen JJ, 2012, ENVIRON POLLUT, V164, P142, DOI 10.1016/j.envpol.2012.01.007
+   Raudsepp-Hearne C, 2010, P NATL ACAD SCI USA, V107, P5242, DOI 10.1073/pnas.0907284107
+   Raudsepp-Hearne C, 2010, BIOSCIENCE, V60, P576, DOI 10.1525/bio.2010.60.8.4
+   Reiss J, 2009, TRENDS ECOL EVOL, V24, P505, DOI 10.1016/j.tree.2009.03.018
+   Reuman DC, 2008, ECOL LETT, V11, P1216, DOI 10.1111/j.1461-0248.2008.01236.x
+   Reyers B, 2013, FRONT ECOL ENVIRON, V11, P268, DOI 10.1890/120144
+   Roopnarine PD, 2014, P NATL ACAD SCI USA, V111, pE796, DOI 10.1073/pnas.1323645111
+   Sala OE, 2000, SCIENCE, V287, P1770, DOI 10.1126/science.287.5459.1770
+   Scherber C, 2010, NATURE, V468, P553, DOI 10.1038/nature09492
+   Sechi V, 2015, AM NAT, V185, P142, DOI 10.1086/678962
+   Setala H, 1998, APPL SOIL ECOL, V9, P25, DOI 10.1016/S0929-1393(98)00049-3
+   Shipley B., 2002, CAUSE CORRELATION BI
+   Sint D., 2015, J PEST SCI
+   Stephens PA, 2015, J APPL ECOL, V52, P1, DOI 10.1111/1365-2664.12383
+   Sterner R. W., 2002, ECOLOGICAL STOICHIOM
+   Stoll S, 2015, ECOL MODEL, V295, P75, DOI 10.1016/j.ecolmodel.2014.06.019
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Sutherland WJ, 2013, TRENDS ECOL EVOL, V28, P16, DOI 10.1016/j.tree.2012.10.022
+   Sutherland WJ, 2011, METHODS ECOL EVOL, V2, P238, DOI 10.1111/j.2041-210X.2010.00083.x
+   Sutherland WJ, 2010, J APPL ECOL, V47, P955, DOI 10.1111/j.1365-2664.2010.01863.x
+   Sutherland WJ, 2006, J APPL ECOL, V43, P617, DOI 10.1111/j.1365-2664.2006.01188.x
+   Thebault E, 2003, P NATL ACAD SCI USA, V100, P14949, DOI 10.1073/pnas.2434847100
+   Thebault E, 2010, SCIENCE, V329, P853, DOI 10.1126/science.1188321
+   Thomas RQ, 2015, GLOBAL CHANGE BIOL, V21, P1777, DOI 10.1111/gcb.12813
+   Thompson M. S. A., 2016, FRESHW BIOL
+   Tilman D, 1997, SCIENCE, V277, P1300, DOI 10.1126/science.277.5330.1300
+   Tur C, 2014, J ANIM ECOL, V83, P306, DOI 10.1111/1365-2656.12130
+   Tylianakis JM, 2014, TRENDS PLANT SCI, V19, P281, DOI 10.1016/j.tplants.2014.03.006
+   Um J, 2009, P NATL ACAD SCI USA, V106, P14236, DOI 10.1073/pnas.0901898106
+   Vacher C., 2016, ADV ECOL RE IN PRESS, P54
+   Vacher C, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0001740
+   Vayssier-Taussat M, 2014, FRONT CELL INFECT MI, V4, DOI 10.3389/fcimb.2014.00029
+   Verbruggen H, 2009, GLOBAL ECOL BIOGEOGR, V18, P393, DOI 10.1111/j.1466-8238.2009.00463.x
+   Verhoeven JTA, 2006, TRENDS ECOL EVOL, V21, P96, DOI 10.1016/j.tree.2005.11.015
+   Vespignani A, 2012, NAT PHYS, V8, P32
+   Villa F, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0091001
+   von Dohren P, 2015, ECOL INDIC, V52, P490, DOI 10.1016/j.ecolind.2014.12.027
+   Walker B, 2006, RESILIENCE THINKING
+   Wallace KJ, 2007, BIOL CONSERV, V139, P235, DOI 10.1016/j.biocon.2007.07.015
+   Wang YL, 2015, GEOTECH ENVIRON, V13, P313, DOI 10.1007/978-3-319-11469-9_13
+   Wardle DA, 2004, SCIENCE, V304, P1629, DOI 10.1126/science.1094875
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   WEAVER W, 1948, Am Sci, V36, P536
+   Wegner G, 2011, GLOBAL ENVIRON CHANG, V21, P492, DOI 10.1016/j.gloenvcha.2010.12.008
+   Westland JC, 2015, STRUCTURAL EQUATION
+   Whitmee S, 2015, LANCET, V386, P1973, DOI 10.1016/S0140-6736(15)60901-1
+   Williams SJ, 2015, BIODIVERS CONSERV, V24, P1609, DOI 10.1007/s10531-015-0879-7
+   Wood SA, 2015, TRENDS ECOL EVOL, V30, P531, DOI 10.1016/j.tree.2015.06.013
+   Woodward G, 2012, SCIENCE, V336, P1438, DOI 10.1126/science.1219534
+   Woodward G, 2010, ADV ECOL RES, V43, P211, DOI 10.1016/B978-0-12-385005-8.00006-X
+   Yvon-Durocher G, 2010, PHILOS T R SOC B, V365, P2117, DOI 10.1098/rstb.2010.0038
+NR 233
+TC 22
+Z9 23
+SN 0065-2504
+BN 978-0-12-803933-5; 978-0-12-803885-7
+PY 2015
+VL 53
+BP 1
+EP 53
+DI 10.1016/bs.aecr.2015.10.005
+UT WOS:000376149300002
+ER

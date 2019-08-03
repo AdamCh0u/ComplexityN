@@ -1,0 +1,471 @@
+
+PT J
+AU Zhu, KL
+   Li, WZ
+   Fu, XM
+   Nagler, J
+AF Zhu, Konglin
+   Li, Wenzhong
+   Fu, Xiaoming
+   Nagler, Jan
+TI How Do Online Social Networks Grow?
+SO PLOS ONE
+LA English
+DT Article
+ID CITIES; POPULATION; DYNAMICS; LAWS
+AB Online social networks such as Facebook, Twitter and Gowalla allow people to communicate and interact across borders. In past years online social networks have become increasingly important for studying the behavior of individuals, group formation, and the emergence of online societies. Here we focus on the characterization of the average growth of online social networks and try to understand which are possible processes behind seemingly long-range temporal correlated collective behavior. In agreement with recent findings, but in contrast to Gibrat's law of proportionate growth, we find scaling in the average growth rate and its standard deviation. In contrast, Renren and Twitter deviate, however, in certain important aspects significantly from those found in many social and economic systems. Whereas independent methods suggest no significance for temporally long-range correlated behavior for Renren and Twitter, a scaling analysis of the standard deviation does suggest long-range temporal correlated growth in Gowalla. However, we demonstrate that seemingly long-range temporal correlations in the growth of online social networks, such as in Gowalla, can be explained by a decomposition into temporally and spatially independent growth processes with a large variety of entry rates. Our analysis thus suggests that temporally or spatially correlated behavior does not play a major role in the growth of online social networks.
+C1 [Zhu, Konglin; Li, Wenzhong; Fu, Xiaoming] Univ Gottingen, Inst Comp Sci, D-37073 Gottingen, Germany.
+   [Li, Wenzhong] Nanjing Univ, State Key Lab Novel Software & Technol, Nanjing 210008, Jiangsu, Peoples R China.
+   [Nagler, Jan] Swiss Fed Inst Technol, IfB, Zurich, Switzerland.
+   [Nagler, Jan] Max Planck Inst Dynam & Self Org MPI DS, Gottingen, Germany.
+RP Nagler, J (reprint author), Swiss Fed Inst Technol, IfB, Zurich, Switzerland.
+EM jnagler@ethz.ch
+RI Fu, Xiaoming/B-7208-2016
+OI Fu, Xiaoming/0000-0002-8012-4753
+FU Alexander von Humboldt Foundation; German Academic Exchange Service;
+   Lindemann Foundation
+FX The authors acknowledge the funding from Alexander von Humboldt
+   Foundation, German Academic Exchange Service and also the support of
+   Lindemann Foundation. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR BERAN J, 1995, IEEE T COMMUN, V43, P1566, DOI 10.1109/26.380206
+   Buldyrev SV, 2010, NATURE, V464, P1025, DOI 10.1038/nature08932
+   Canning D, 1998, ECON LETT, V60, P335, DOI 10.1016/S0165-1765(98)00121-9
+   Cho Eunjoon, 2011, P 17 ACM SIGKDD INT, DOI [DOI 10.1145/2020408.2020579, 10.1145/2020408.2020579]
+   Dunn P. F., 2010, MEASUREMENT DATA ANA
+   Easley D., 2010, NETWORKS CROWDS MARK
+   Gabaix Xavier, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   Gallos LK, 2012, PHYS REV X, V2, DOI 10.1103/PhysRevX.2.031014
+   Gibrat R, 1931, INGALITS CONOMIQUES
+   Hennig H, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0026457
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Kossinets G, 2006, SCIENCE, V311, P88, DOI 10.1126/science.1116869
+   Kurant M, 2011, IEEE J SELECTED AREA, V29
+   Levy M, 2009, AM ECON REV, V99, P1672, DOI 10.1257/aer.99.4.1672
+   Malmgren RD, 2008, P NATL ACAD SCI USA, V105, P18153, DOI 10.1073/pnas.0800332105
+   Mantegna R. N., 2000, INTRO ECONOPHYSICS C
+   Matia K, 2005, J AM SOC INF SCI TEC, V56, P893, DOI 10.1002/asi.20183
+   Nikolic D, 2012, EUR J NEUROSCI, V35, P742, DOI 10.1111/j.1460-9568.2011.07987.x
+   Palla G., 2007, NATURE, V446, P2007
+   Plerou V, 1999, NATURE, V400, P433
+   RODGERS JL, 1988, AM STAT, V42, P59, DOI 10.2307/2685263
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.042114
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Samorodnitsky G, 2007, FDN TRENDS STOCHASTI, V1, P163
+   Santarelli E, 2006, INT STUD ENTREP, V12, P41
+   Stanley MHR, 1996, NATURE, V379, P804, DOI 10.1038/379804a0
+   VANDERZIEL A, 1988, P IEEE, V76, P233, DOI 10.1109/5.4401
+NR 29
+TC 2
+Z9 2
+U1 1
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 18
+PY 2014
+VL 9
+IS 6
+AR e100023
+DI 10.1371/journal.pone.0100023
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AK6AC
+UT WOS:000338508200066
+PM 24940744
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Robinson, CT
+   Schuwirth, N
+   Baumgartner, S
+   Stamm, C
+AF Robinson, C. T.
+   Schuwirth, N.
+   Baumgartner, S.
+   Stamm, C.
+TI Spatial relationships between land-use, habitat, water quality and lotic
+   macroinvertebrates in two Swiss catchments
+SO AQUATIC SCIENCES
+LA English
+DT Article
+DE Urban stream; Aquatic insects; Physico-chemical; Nutrients;
+   Micropollutants
+ID STREAM ECOSYSTEMS; SPECIES TRAITS; DIFFUSION GRADIENTS; SUBSIDY-STRESS;
+   THIN-FILMS; SCALE; RIVER; NUTRIENTS; COVER; COMMUNITIES
+AB We examined the influence of land-use, habitat, and water quality on the spatial distribution of aquatic macroinvertebrates in two human-dominated catchments in the Swiss Plateau (Gurbe, Monchaltorfer Aa). Land-use in the Gurbe catchment was dominated by agriculture, whereas urban land-use was more common in the Monchaltorfer Aa. Study sites in each catchment were characterized using measures of local habitat conditions, water quality parameters including water temperature, and organic matter resources. A strong longitudinal gradient in temperature, conductivity and nitrogen was evident among sites in the Gurbe catchment, although sites on a main tributary had a strong agricultural signature and deviated from this pattern. Percentage agricultural land-use in the Gurbe was strongly correlated with algal biomass and the water quality PCA axes associated with conductivity, nitrogen (axis-1) and temperature (axis-3). Spatial grouping of sites by water quality was less evident in the Monchaltorfer Aa, except for a strong signal by wastewater treatment plant effluents and partial differences between upper and lower basin sites. Percentage forest and agricultural land-use in the Monchaltorfer Aa were correlated with water quality PCA axis-2, being associated with phosphorus and temperature. Macroinvertebrate densities, taxonomic richness, and axis-1 from a non-metric multidimensional scaling analysis (NMDS) of taxonomic composition were significantly correlated with water quality PCA axis-1 in the Gurbe catchment. Here, macroinvertebrate densities and NMDS axis-1 scores based on taxon relative abundances and densities were correlated with land-use features. Spatial distances between sites also were related to site differences in macroinvertebrates, reflecting the strong longitudinal environmental gradient in the Gurbe. Taxonomic differences between water quality PCA site groups were less pronounced in the Monchaltorfer Aa, although differences were significant for trichopterans, ephemeropterans, chironomids, gastropods and coleopterans. Here, NMDS axis-1 based on taxon relative abundances and densities was correlated with forest land-use. Spatial distances between sites were not evident in macroinvertebrate site differences, reflecting the less pronounced spatial and longitudinal patterns in environmental attributes in this catchment. Our results support the hypothesis that spatial distributions of macroinvertebrates are related to spatial relationships among environmental attributes like land-use, habitat, and water quality in human-dominated catchments that depend on river network complexity, a habitat-filtering template in line with ecological niche theory.
+C1 [Robinson, C. T.; Baumgartner, S.] Eawag, Dept Aquat Ecol, CH-8600 Dubendorf, Switzerland.
+   [Robinson, C. T.; Baumgartner, S.] ETH, Inst Integrat Biol, Zurich, Switzerland.
+   [Schuwirth, N.] Eawag, Dept Syst Anal & Modeling, CH-8600 Dubendorf, Switzerland.
+   [Stamm, C.] Eawag, Dept Environm Chem, CH-8600 Dubendorf, Switzerland.
+RP Robinson, CT (reprint author), Eawag, Dept Aquat Ecol, CH-8600 Dubendorf, Switzerland.
+EM robinson@eawag.ch
+OI Stamm, Christian/0000-0001-5888-6535; Schuwirth,
+   Nele/0000-0002-1341-681X
+FU Swiss National Science Foundation [4061-40_125866/1]
+FX The authors graciously thank C. Jolidon, A. Luck, M. Scheurer and N.
+   Ghielmetti for assistance in the field and laboratory processing of
+   samples. We thank the Aua Lab of Eawag for completing the water
+   chemistry analyses. A. Luck and H. Singer carried out the analyses of
+   the organic micropollutants, D. Kistler analysed the heavy metal
+   measurements and M. Zennegg the PCBs. E. Vermeirssen and N. Odzak
+   provided valuable support for the passive sampling. We thank R. Siber
+   for GIS support and map illustrations. We thank two anonymous reviewers
+   that provided helpful comments that improved the paper presentation. The
+   project was funded by the Swiss National Science Foundation (No.
+   4061-40_125866/1).
+CR Allan J. D., 2007, STREAM ECOLOGY STRUC
+   Allan JD, 2004, ANNU REV ECOL EVOL S, V35, P257, DOI 10.1146/annurev.ecolsys.35.120202.110122
+   Allan JD, 1997, FRESHWATER BIOL, V37, P149, DOI 10.1046/j.1365-2427.1997.d01-546.x
+   Amoros C, 2002, FRESHWATER BIOL, V47, P761, DOI 10.1046/j.1365-2427.2002.00905.x
+   Bernot MJ, 2010, FRESHWATER BIOL, V55, P1874, DOI 10.1111/j.1365-2427.2010.02422.x
+   Brierley GJ, 1999, FRESHWATER BIOL, V41, P839, DOI 10.1046/j.1365-2427.1999.00397.x
+   Bundi U, 2000, HYDROBIOLOGIA, V422, P477, DOI 10.1023/A:1017071427716
+   Busse LB, 2006, CAN J FISH AQUAT SCI, V63, P2621, DOI 10.1139/F06-146
+   Carr GM, 2005, CAN J FISH AQUAT SCI, V62, P1309, DOI 10.1139/F05-044
+   Dodds W, 2008, HUMANITYS FOOTPRINT
+   FRISSELL CA, 1986, ENVIRON MANAGE, V10, P199, DOI 10.1007/BF01867358
+   Hanke I, 2010, CHEMOSPHERE, V81, P422, DOI 10.1016/j.chemosphere.2010.06.067
+   Harding JS, 1998, P NATL ACAD SCI USA, V95, P14843, DOI 10.1073/pnas.95.25.14843
+   King RS, 2005, ECOL APPL, V15, P137, DOI 10.1890/04-0481
+   Klose K, 2012, FRESHW SCI, V31, P908, DOI 10.1899/11-155.1
+   Liechti P., 2010, METHODEN UNTERSUCHUN
+   Liess A, 2012, FRESHW SCI, V31, P813, DOI 10.1899/11-019.1
+   Matson PA, 1997, SCIENCE, V277, P504, DOI 10.1126/science.277.5325.504
+   Matthaei CD, 2010, J APPL ECOL, V47, P639, DOI 10.1111/j.1365-2664.2010.01809.x
+   MERRITT RW, 1984, INTRO AQUATIC INSECT
+   Meyer W B, 1994, CHANGES LAND USE LAN
+   Mykra H, 2007, GLOBAL ECOL BIOGEOGR, V16, P149, DOI 10.1111/j.1466-8238.2006.00272.x
+   Niyogi DK, 2007, ENVIRON MANAGE, V39, P213, DOI 10.1007/s00267-005-0310-3
+   Norris RH, 1999, FRESHWATER BIOL, V41, P197, DOI 10.1046/j.1365-2427.1999.00425.x
+   Odzak N, 2002, AQUAT SCI, V64, P292, DOI 10.1007/s00027-002-8073-x
+   Poff NL, 1997, J N AM BENTHOL SOC, V16, P391, DOI 10.2307/1468026
+   Quinn John M., 2000, P208
+   R Develompment Core Team, 2011, R LANG ENV STAT COMP
+   Richards C, 1996, CAN J FISH AQUAT SCI, V53, P295, DOI 10.1139/cjfas-53-S1-295
+   Richards C, 1997, FRESHWATER BIOL, V37, P219, DOI 10.1046/j.1365-2427.1997.d01-540.x
+   Singer H, 2010, ENVIRON POLLUT, V158, P3054, DOI 10.1016/j.envpol.2010.06.013
+   SOUTHWOOD TRE, 1988, OIKOS, V52, P3, DOI 10.2307/3565974
+   Sponseller RA, 2001, FRESHWATER BIOL, V46, P1409, DOI 10.1046/j.1365-2427.2001.00758.x
+   Stamm C, 2012, AQUA GAS, V4, P24
+   Strayer DL, 2003, ECOSYSTEMS, V6, P407, DOI 10.1007/s10021-002-0170-0
+   Thompson R, 2006, J ANIM ECOL, V75, P476, DOI 10.1111/j.1365-2656.2006.01068.x
+   Tockner K, 1997, ARCH HYDROBIOL, V140, P433
+   VANNOTE RL, 1980, CAN J FISH AQUAT SCI, V37, P130, DOI 10.1139/f80-017
+   Vermeirssen ELM, 2012, ENVIRON SCI TECHNOL, V46, P6759, DOI 10.1021/es3007854
+   Wagenhoff A, 2011, FRESHWATER BIOL, V56, P1916, DOI 10.1111/j.1365-2427.2011.02619.x
+   Walsh CJ, 2009, J N AM BENTHOL SOC, V28, P977, DOI 10.1899/08-161.1
+   Wasson JG, 2010, FRESHWATER BIOL, V55, P1465, DOI 10.1111/j.1365-2427.2010.02443.x
+   Wittmer IK, 2010, WATER RES, V44, P2850, DOI 10.1016/j.watres.2010.01.030
+   Wittmer IK, 2011, SCI TOTAL ENVIRON, V409, P920, DOI 10.1016/j.scitotenv.2010.11.031
+   Zar J. H., 1984, BIOSTATISTICAL ANAL
+   ZHANG H, 1995, ANAL CHEM, V67, P3391, DOI 10.1021/ac00115a005
+NR 46
+TC 19
+Z9 19
+U1 3
+U2 92
+PU SPRINGER BASEL AG
+PI BASEL
+PA PICASSOPLATZ 4, BASEL, 4052, SWITZERLAND
+SN 1015-1621
+EI 1420-9055
+J9 AQUAT SCI
+JI Aquat. Sci.
+PD JUL
+PY 2014
+VL 76
+IS 3
+BP 375
+EP 392
+DI 10.1007/s00027-014-0341-z
+PG 18
+WC Environmental Sciences; Limnology; Marine & Freshwater Biology
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA AJ6GR
+UT WOS:000337789600005
+DA 2019-03-26
+ER
+
+PT J
+AU Lu, CH
+   Wang, PX
+   Lei, YX
+   Luo, ZC
+AF Lu, Chu-Hong
+   Wang, Pei-Xi
+   Lei, Yi-Xiong
+   Luo, Zhong-Cheng
+TI Influence of health-related quality of life on health service
+   utilization in Chinese rural-to-urban female migrant workers
+SO HEALTH AND QUALITY OF LIFE OUTCOMES
+LA English
+DT Article
+DE Health-related quality of life; Health service utilization; Female
+   migrant worker; Chinese
+ID SCALING ASSUMPTIONS; OLDER-ADULTS; SURVEY SF-36; WHOQOL-BREF;
+   POPULATION; TESTS; RELIABILITY; VALIDITY; AGE
+AB Background: Rural-to-urban migrant workers have been increasing rapidly in China over recent decades. Health related quality of life (HRQOL) may affect health service utilization. There is a lack of data on HRQOL in relation to health service utilization in Chinese rural-to-urban migrant workers. This study was aimed to explore the influence of HRQOL on health service utilization in Chinese rural-to-urban female migrant workers.
+   Methods: This was a cross-sectional survey of 1,438 female rural-to-urban migrant workers in Shenzhen-Dongguan economic zone, China in 2013. HRQOL was assessed by the 36-items Health Survey Short Form (SF-36). Health service utilization was measured by any physician visit over the recent two weeks and any hospitalization over the last 1-year (annual hospitalization). Clustered logistic regression was used to analyze the influence of HRQOL on health service utilization.
+   Results: Lower scores in three HRQOL domains (bodily pain, general health, role physical) were associated with more frequent health service utilization in female rural-to-urban migrant workers. Bodily pain and general health were associated with an independent influence of 15.6% on the risk of recent two-week physician visit, while role physical and general health were associated with an independent influence of 21.2% on the risk of annual hospitalization. The independent influence of HRQOL on health service utilization was smaller than that of socio-demographic and health-related variables.
+   Conclusions: HRQOL may have a modest influence on health service utilization in Chinese rural-to-urban female migrant workers - an underprivileged population in urban China.
+C1 [Lu, Chu-Hong; Wang, Pei-Xi; Lei, Yi-Xiong] Guangzhou Med Univ, Sch Publ Hlth, Dept Prevent Med, Guangzhou, Guangdong, Peoples R China.
+   [Lu, Chu-Hong; Wang, Pei-Xi] Henan Univ, Inst Publ Hlth, Sch Nursing, Kaifeng, Peoples R China.
+   [Luo, Zhong-Cheng] Shanghai Jiao Tong Univ, Sch Med, Shanghai Key Lab Childrens Environm Hlth, Minist Educ,Xin Hua Hosp, Shanghai 200030, Peoples R China.
+RP Wang, PX (reprint author), Guangzhou Med Univ, Sch Publ Hlth, Dept Prevent Med, Guangzhou, Guangdong, Peoples R China.
+EM peixi001@163.com; zhongcheng_luo3@163.com
+RI Luo, Zhong-Cheng/T-3882-2017
+OI Luo, Zhong-Cheng/0000-0002-1794-1312
+FU Liaobu Social Service Centre, Dongguang; Baoan Xixiang Community Health
+   Administration Centre, Shenzhen, China
+FX This study was supported by a research grant from Liaobu Social Service
+   Centre, Dongguang, and Baoan Xixiang Community Health Administration
+   Centre, Shenzhen, China. We gratefully acknowledged Songtao Tang, Jianhu
+   Zhong for their excellent work in study coordination, data collection
+   and management, and Xin Wang, Weiquan Lin, Junhua Chen for their kind
+   assistance in data collection.
+CR Chen CM, 2008, OBES REV, V9, P14, DOI 10.1111/j.1467-789X.2007.00433.x
+   Chen MM, 2009, PRACT MED J, V14, P2364
+   Chen TH, 2009, INT J PUBLIC HEALTH, V54, P325, DOI 10.1007/s00038-009-0057-3
+   Cohen YC, 1999, J CLIN EPIDEMIOL, V52, P1031, DOI 10.1016/S0895-4356(99)00079-7
+   Dai M, 2008, THESIS SO MED U GUAN
+   Dominick KL, 2004, ARTHRIT RHEUM-ARTHR, V51, P326, DOI 10.1002/art.20390
+   Garber CE, 2010, BMC GERIATR, V10, DOI 10.1186/1471-2318-10-6
+   Gautam Yogesh, 2009, Indian J Community Med, V34, P346, DOI 10.4103/0970-0218.58397
+   Harper A, 1998, PSYCHOL MED, V28, P551
+   Hopman WM, 2007, QUAL LIFE RES, V16, P1595, DOI 10.1007/s11136-007-9273-6
+   Hwang HF, 2003, AGE AGEING, V32, P593, DOI 10.1093/ageing/afg102
+   Jiang M. H., 2009, CHINESE WOMENS ACAD, V3, P22
+   Kaplan G, 2003, SOC SCI MED, V56, P1669, DOI 10.1016/S0277-9536(02)00179-X
+   KARTIKAINEN P, 2009, GERONTOLOGIST, V49, P34
+   Lam CL, 1999, HONG KONG PRACTITION, V21, P460
+   Lam CLK, 1998, J CLIN EPIDEMIOL, V51, P1139, DOI 10.1016/S0895-4356(98)00105-X
+   Lam CLK, 2002, SOC SCI MED, V55, P1635, DOI 10.1016/S0277-9536(01)00296-9
+   Li C, 2010, CHINESE HLTH SERV MA, V6, P422
+   Li H, 2012, P SEM SHENZH PREV ME
+   Li Ningxiu, 2001, Journal of West China University of Medical Sciences, V32, P43
+   Li RF, 2007, XI NAN KE JI U J, V6, P16
+   Liu Chaojie, 2001, Journal of West China University of Medical Sciences, V32, P39
+   Liu Yan, 2011, Zhonghua Liu Xing Bing Xue Za Zhi, V32, P481
+   Manderbacka K, 1998, SCAND J SOC MED, V26, P145, DOI 10.1177/14034948980260020301
+   Martikainen P, 1999, SOC SCI MED, V48, P1117, DOI 10.1016/S0277-9536(98)00416-X
+   MCHORNEY CA, 1993, MED CARE, V31, P247, DOI 10.1097/00005650-199303000-00006
+   MCHORNEY CA, 1994, MED CARE, V32, P40, DOI 10.1097/00005650-199401000-00004
+   Mein G, 2000, AGE AGEING, V29, P529, DOI 10.1093/ageing/29.6.529
+   Miilunpalo S, 1997, J CLIN EPIDEMIOL, V50, P517, DOI 10.1016/S0895-4356(97)00045-0
+   NAGELKERKE NJD, 1991, BIOMETRIKA, V78, P691, DOI 10.1093/biomet/78.3.691
+   National Bureau of Statistics China, NAT EC SOC DEV STAT
+   National Bureau of Statistics of China, NAT MIGR WORK MON RE
+   Nelson EC, 1998, HEALTH SERV RES, V32, P759
+   Ross NA, 2012, J EPIDEMIOL COMMUN H, V66, P593, DOI 10.1136/jech.2010.115378
+   Sarna L, 2008, QUAL LIFE RES, V17, P1217, DOI 10.1007/s11136-008-9404-8
+   Song W. Y., 2006, THESIS SUZHOU U SUZH
+   Sun YJ, 2009, CHINA MARKET, V14, P77
+   Venekamp RP, 2012, CAN MED ASSOC J, V184, pE751, DOI 10.1503/cmaj.120430
+   Wang LH, 2012, CHIN COMMUNITY DOCTO, V12, P408
+   Ware J. E, 1993, SF 36 HLTH SURVEY MA
+   Xiang YT, 2010, QUAL LIFE RES, V19, P317, DOI 10.1007/s11136-010-9593-9
+   Yao HS, 2008, URBAN PROBLEMS, V6, P69
+   Yuan XM, 2008, E CHINA EC MANAGE, V7, P4
+   Zhang ZF, 2007, J SHANXI PROVINCIAL, V30, P55
+   Zhu CY, 2012, QUAL LIFE RES, V21, P495, DOI 10.1007/s11136-011-9950-3
+NR 45
+TC 10
+Z9 11
+U1 3
+U2 22
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1477-7525
+J9 HEALTH QUAL LIFE OUT
+JI Health Qual. Life Outcomes
+PD AUG 15
+PY 2014
+VL 12
+AR 121
+DI 10.1186/s12955-014-0121-4
+PG 8
+WC Health Care Sciences & Services; Health Policy & Services
+SC Health Care Sciences & Services
+GA AP3ZQ
+UT WOS:000342017000001
+PM 25123983
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Gibbs, A
+   Jewkes, R
+   Mbatha, N
+   Washington, L
+   Willan, S
+AF Gibbs, Andrew
+   Jewkes, Rachel
+   Mbatha, Nompumelelo
+   Washington, Laura
+   Willan, Samantha
+TI Jobs, food, taxis and journals: Complexities of implementing Stepping
+   Stones and Creating Futures in urban informal settlements in South
+   Africa
+SO AJAR-AFRICAN JOURNAL OF AIDS RESEARCH
+LA English
+DT Article
+DE gender; structural intervention; implementation science; IPV; urban;
+   youth
+ID HIV PREVENTION; GENDER; INTERVENTIONS; PERSPECTIVES; SEXUALITY; SCIENCE;
+   HEALTH; RISK
+AB This paper seeks to refocus debates on structural interventions away from 'assessing' their effectiveness towards understanding processes around how such interventions are implemented. Implementation Science is focused on understanding potential challenges of translating interventions from highly controlled conditions into 'real life' settings. Using the case study of Stepping Stones and Creating Futures a structural and behavioural intervention to reduce intimate partner violence and HIV risk behaviours amongst young women and men in urban informal settlements, we explore the challenges of implementing such an approach. We move beyond simply describing challenges of implementing, to understand how these challenges had an impact on the safe social space the intervention seeks to create as its underlying theory of change. We identify four major challenges of implementation: taxi fares, food provided during the intervention, young people's ongoing need to work and journals provided during the intervention. We suggest that, in different ways, these factors all impinged on the emergence of a safe social space. Understanding the challenges of implementing the intervention is critical for reflecting on scaling up interventions. Central to this is the need to work with participants to help them negotiate the challenges of participating in interventions.
+C1 [Gibbs, Andrew; Willan, Samantha] Univ KwaZulu Natal, Hlth Econ & HIV AIDS Res Div HEARD, ZA-4000 Durban, South Africa.
+   [Jewkes, Rachel] South African Med Res Council, Gender & Hlth Unit, ZA-0001 Pretoria, South Africa.
+   [Mbatha, Nompumelelo; Washington, Laura] Project Empower, Durban, South Africa.
+RP Gibbs, A (reprint author), Univ KwaZulu Natal, Hlth Econ & HIV AIDS Res Div HEARD, Private Bag X54001, ZA-4000 Durban, South Africa.
+EM gibbs@ukzn.ac.za
+OI Jewkes, Rachel/0000-0002-4330-6267
+CR Attride-Stirling J, 2001, QUALITATIVE RES, V1, P385, DOI DOI 10.1177/146879410100100307
+   Bruce J, 2011, POVERTY GENDER YOUTH
+   Campbell C., 2003, LETTING THEM DIE WHY
+   Campbell C, 2010, AIDS CARE, V22, P1569, DOI 10.1080/09540121.2010.525812
+   Campbell C, 2010, ELGAR ORIG REF, P327
+   Cornish F, 2006, J COMMUNITY APPL SOC, V16, P462, DOI 10.1002/casp.894
+   Dworkin SL, 2013, AIDS BEHAV, V17, P2845, DOI 10.1007/s10461-013-0565-2
+   Freire P., 1973, PEDAGOGY OPPRESSED
+   Gibbs A, RECONSTRUCT IN PRESS
+   Gibbs A, 2014, GLOBAL HEALTH ACTION, V7, DOI 10.3402/gha.v7.23676
+   Gibbs Andrew, 2012, J Int AIDS Soc, V15 Suppl 1, P1, DOI 10.7448/IAS.15.3.17362
+   Hatcher A, 2011, HEALTH EDUC RES, V26, P542, DOI 10.1093/her/cyq057
+   Hawkins K, 2013, HLTH WOMEN GIRLS URB
+   Hunter M., 2010, LOVE TIME AIDS INEQU
+   Jewkes R, 2012, SOC SCI MED, V74, P1729, DOI 10.1016/j.socscimed.2011.05.020
+   Jewkes R., 2010, STEPPING STONES S AF
+   Jewkes R, 2010, J INT AIDS SOC, V13, DOI 10.1186/1758-2652-13-6
+   Jewkes R, 2008, BRIT MED J, V337, DOI 10.1136/bmj.a506
+   Kelly JA, 2000, AM J PUBLIC HEALTH, V90, P1082, DOI 10.2105/AJPH.90.7.1082
+   Kesby M, 2005, SIGNS, V30, P2037, DOI 10.1086/428422
+   Lobb R, 2013, ANNU REV PUBL HEALTH, V34, P235, DOI 10.1146/annurev-publhealth-031912-114444
+   McCreary LL, 2010, HEALTH EDUC RES, V25, P965, DOI 10.1093/her/cyq049
+   Meth P, 2009, GEOFORUM, V40, P853, DOI 10.1016/j.geoforum.2009.07.002
+   Misselhorn A, 2014, SEX ED
+   Myers G.A., 2011, AFRICAN CITIES ALTER
+   Oakley A, 2006, BRIT MED J, V332, P413, DOI 10.1136/bmj.332.7538.413
+   Pettifor A, 2014, AIDS CARE, V26, P476, DOI 10.1080/09540121.2013.841827
+   Thomas L, 2011, LANCET, V377, P1571, DOI 10.1016/S0140-6736(11)60642-9
+   van Renterghem H, 2009, AIDS CITY INTENSIFYI
+   Welbourn A, 1995, STEPPING STONES TRAI
+   Wight D, 2003, EFFECTIVE SEXUAL HLT, P197
+NR 31
+TC 10
+Z9 10
+U1 0
+U2 6
+PU NATL INQUIRY SERVICES CENTRE PTY LTD
+PI GRAHAMSTOWN
+PA 19 WORCESTER STREET, PO BOX 377, GRAHAMSTOWN 6140, SOUTH AFRICA
+SN 1608-5906
+EI 1727-9445
+J9 AJAR-AFR J AIDS RES
+JI AJAR-Afr. J. Aids Res.
+PY 2014
+VL 13
+IS 2
+SI SI
+BP 161
+EP 167
+DI 10.2989/16085906.2014.927777
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA AM9GO
+UT WOS:000340189200008
+PM 25174633
+DA 2019-03-26
+ER
+
+PT J
+AU Galukande, M
+   Duffy, K
+   Bitega, JP
+   Wooding, N
+AF Galukande, Moses
+   Duffy, Kevin
+   Bitega, Jean Paul
+   Wooding, Nick
+TI Skills Training of Health Workers in the Use of a Non Surgical Device
+   (PrePex) for Adult Safe Male Circumcision
+SO PLOS ONE
+LA English
+DT Article
+ID HIV PREVENTION; PERFORMANCE; EDUCATION; EXPERT; TRIAL; MEN
+AB Background: Safe Male Circumcision (SMC) is a proven approach for partial protection of men from acquisition of HIV infection. Several sub-Saharan African countries have a target to circumcise 80% of males aged 15 to 49. The use of devices such as PrePex would aid scaling up of SMC. Since most health workers would have no prior experience with use of devices, skills training is needed. This paper explores a skills transfer model at an urban site in Uganda.
+   Objective: To assess the practicability and feasibility of rapid short duration training for safe PrePex device use.
+   Methods: A prospective study, conducted over 8 weeks (August-October 2012) at International Hospital Kampala, an urban Kampala hospital, examining the performance of various health worker cadres after training in the use of a non-surgical device (PrePex). The prospective study obtained approval from the Makerere School of Medicine Research and Ethics Committee and the Uganda National Council of Science and Technology. If eligible, and after the subject signed the informed consent form, they were enrolled into the study.
+   Results: Ten health workers were successfully trained in use of PrePex during a 3 day non-residential on-the-job training course. After the first three days of training, the trained health workers performed 561 placements and 529 device removals successfully. Over all adverse events (AE) rates were below <= 2%; however, there were some differences in AE rates across the cadres trained but not significant (p>0.25 for moderate AEs).
+   Conclusion: Rapid training for safe use of the PrePex device is feasible for the range of health workers available for SMC in resource limited settings, but among those with past SMC experience.
+C1 [Galukande, Moses] Int Hosp Kampala, Kampala, Uganda.
+   [Galukande, Moses] Mulago Hosp, Dept Surg, Kampala, Uganda.
+   [Duffy, Kevin] Int Med Grp, Kampala, Uganda.
+   [Bitega, Jean Paul] Kanombe Hosp, Kigali, Rwanda.
+   [Wooding, Nick] Int Hlth Sci Univ, Kampala, Uganda.
+RP Galukande, M (reprint author), Int Hosp Kampala, Kampala, Uganda.
+EM mosesg@img.co.ug
+FU International Medical Group
+FX Funding was from International Medical Group as the internal source. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR [Anonymous], 2013, GUIDELINES USE DEVIC
+   AUVERT B, 2005, PLOS MED, V2, P298, DOI DOI 10.1371/J0URNAL.PMED.0020298
+   Bailey RC, 2007, LANCET, V369, P643, DOI 10.1016/S0140-6736(07)60312-2
+   Benjamin Larry, 2002, Community Eye Health, V15, P19
+   Choyudry NK, 2005, ANN INTERN MED, V142, P260
+   Cox M., 2006, NEW ENGL J MED, V355, P2664
+   Ericsson K., 1991, GEN THEORY EXPERTISE
+   Ericsson K Anders, 2007, ANS Adv Nurs Sci, V30, pE58
+   ERICSSON KA, 1993, PSYCHOL REV, V100, P363, DOI 10.1037//0033-295X.100.3.363
+   Ericsson KA, 1996, ANNU REV PSYCHOL, V47, P273, DOI 10.1146/annurev.psych.47.1.273
+   Fitts PM, 1967, HUMAN PERFORMANCE
+   Galukande M, 2014, PLOS ONE, V9, DOI 101371/journal.p.one.0086631
+   Gray RH, 2007, LANCET, V369, P657, DOI 10.1016/S0140-6736(07)60313-4
+   Haluck RS, 2000, ARCH SURG-CHICAGO, V135, P786, DOI 10.1001/archsurg.135.7.786
+   KOPTA JA, 1971, CLIN ORTHOP RELAT R, P80
+   Njeuhmeli E, 2011, PLOS MED, V8, DOI 10.1371/journal.pmed.1001132
+   Santeau J, 1992, ORG BEHAV HUMAN DECI, V53, P95
+   Smith Valerie, 2012, Nurse Educ Pract, V12, P242, DOI 10.1016/j.nepr.2012.04.012
+   Tache S, 2009, HUM RESOUR HEALTH, V7, DOI 10.1186/1478-4491-7-64
+   Uganda AIDS Commission, 2011, NAT PRIOR ACT PLAN
+NR 20
+TC 4
+Z9 4
+U1 1
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 13
+PY 2014
+VL 9
+IS 8
+AR e104893
+DI 10.1371/journal.pone.0104893
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AN9BM
+UT WOS:000340900600101
+PM 25118716
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

@@ -1,0 +1,480 @@
+
+PT J
+AU Gallotti, R
+   Bazzani, A
+   Rambaldi, S
+   Barthelemy, M
+AF Gallotti, Riccardo
+   Bazzani, Armando
+   Rambaldi, Sandro
+   Barthelemy, Marc
+TI A stochastic model of randomly accelerated walkers for human mobility
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID INTRAURBAN HUMAN MOBILITY; LEVY FLIGHT; SCALING LAWS; HEAVY TAILS;
+   PATTERNS; URBAN; TRAVEL; CITIES; TAXI; SYSTEMS
+AB Recent studies of human mobility largely focus on displacements patterns and power law fits of empirical long-tailed distributions of distances are usually associated to scale-free superdiffusive random walks called Levy flights. However, drawing conclusions about a complex system from a fit, without any further knowledge of the underlying dynamics, might lead to erroneous interpretations. Here we show, on the basis of a data set describing the trajectories of 780,000 private vehicles in Italy, that the Levy flight model cannot explain the behaviour of travel times and speeds. We therefore introduce a class of accelerated random walks, validated by empirical observations, where the velocity changes due to acceleration kicks at random times. Combining this mechanism with an exponentially decaying distribution of travel times leads to a short-tailed distribution of distances which could indeed be mistaken with a truncated power law. These results illustrate the limits of purely descriptive models and provide a mechanistic view of mobility.
+C1 [Gallotti, Riccardo; Barthelemy, Marc] CEA, CNRS URA, Inst Phys Theor, F-91191 Gif Sur Yvette, France.
+   [Bazzani, Armando; Rambaldi, Sandro] Univ Bologna, Dept Phys & Astron, Viale Berti Pichat 6-2, I-40126 Bologna, Italy.
+   [Bazzani, Armando; Rambaldi, Sandro] Ist Nazl Fis Nucl, Bologna Sect, I-40126 Bologna, Italy.
+   [Barthelemy, Marc] CAMS CNRS EHESS, 190-198 Ave France, F-75244 Paris, France.
+RP Barthelemy, M (reprint author), CEA, CNRS URA, Inst Phys Theor, F-91191 Gif Sur Yvette, France.; Barthelemy, M (reprint author), CAMS CNRS EHESS, 190-198 Ave France, F-75244 Paris, France.
+EM marc.barthelemy@cea.fr
+RI Gallotti, Riccardo/B-6339-2013
+OI Gallotti, Riccardo/0000-0002-8088-1973
+CR AXHAUSEN KW, 1992, TRANSPORT REV, V12, P323, DOI 10.1080/01441649208716826
+   Axhausen KW, 2002, TRANSPORTATION, V29, P95, DOI 10.1023/A:1014247822322
+   Balcan D, 2009, P NATL ACAD SCI USA, V106, P21484, DOI 10.1073/pnas.0906910106
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Bazzani A., 2011, Proceedings of the 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and IEEE Third International Conference on Social Computing (PASSAT/SocialCom 2011), P1455, DOI 10.1109/PASSAT/SocialCom.2011.249
+   Bazzani A., 2011, MIPRO2011, P1615
+   Bazzani A, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/05/P05001
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Burkhardt T. W, 2014, 1 PASSAGE PHENOMENA
+   Cheng  Z., 2011, ICWSM, V2010, P81
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Colizza V, 2007, PLOS MED, V4, P95, DOI 10.1371/journal.pmed.0040013
+   Edwards AM, 2007, NATURE, V449, P1044, DOI 10.1038/nature06199
+   Edwards AM, 2011, ECOLOGY, V92, P1247, DOI 10.1890/10-1182.1
+   Gallotti R, 2013, J STAT MECH-THEORY E, V2013
+   Gallotti R, 2012, INT J MOD PHYS C, V23, DOI [10.1142/S0129183112500611, DOI 10.1142/S0129183112500611]
+   Gallotti R, 2013, THESIS, V79-80
+   Gallotti R, 2015, EPJ DATA SCI, V4, DOI 10.1140/epjds/s13688-015-0055-z
+   Gallotti R, 2014, SCI REP-UK, V4, DOI 10.1038/srep06911
+   Garling T, 2003, TRANSPORTATION, V30, P1, DOI 10.1023/A:1021230223001
+   Giovannini L., 2011, THESIS
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Han XP, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.036117
+   Hawelka B, 2014, CARTOGR GEOGR INF SC, V41, P260, DOI 10.1080/15230406.2014.890072
+   Helbing D, 2001, REV MOD PHYS, V73, P1067, DOI 10.1103/RevModPhys.73.1067
+   Jansen VAA, 2012, SCIENCE, V335, DOI 10.1126/science.1215747
+   Kang CG, 2012, PHYSICA A, V391, P1702, DOI 10.1016/j.physa.2011.11.005
+   Kolbl R, 2003, NEW J PHYS, V5, DOI 10.1088/1367-2630/5/1/348
+   Lenormand M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0105184
+   Liang X, 2013, SCI REP-UK, V3, DOI 10.1038/srep02983
+   Liang X, 2012, PHYSICA A, V391, P2135, DOI 10.1016/j.physa.2011.11.035
+   Liu H, 2015, EUR PHYS J B, V88, DOI 10.1140/epjb/e2015-60232-1
+   Liu Y, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0086026
+   Liu Y, 2012, J GEOGR SYST, V14, P463, DOI 10.1007/s10109-012-0166-z
+   Louail T, 2014, SCI REP-UK, V4, DOI 10.1038/srep05276
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Malmgren RD, 2008, P NATL ACAD SCI USA, V105, P18153, DOI 10.1073/pnas.0800332105
+   MANTEGNA RN, 1994, PHYS REV LETT, V73, P2946, DOI 10.1103/PhysRevLett.73.2946
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Petrovskii S, 2011, P NATL ACAD SCI USA, V108, P8704, DOI 10.1073/pnas.1015208108
+   Reed WJ, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.067103
+   Rhee I, 2011, IEEE ACM T NETWORK, V19, P630, DOI 10.1109/TNET.2011.2120618
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Sagarra O, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134508
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Tang JJ, 2015, PHYSICA A, V438, P140, DOI 10.1016/j.physa.2015.06.032
+   Vespignani A, 2012, NAT PHYS, V8, P32
+   Viswanathan G M, 2011, PHYS FORAGING INTRO
+   Wang WJ, 2015, PHYSICA A, V420, P134, DOI 10.1016/j.physa.2014.10.085
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+   Zaburdaev V, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.011119
+   Zhao K, 2015, SCI REP-UK, V5, DOI 10.1038/srep09136
+NR 56
+TC 15
+Z9 15
+U1 2
+U2 12
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD AUG
+PY 2016
+VL 7
+AR 12600
+DI 10.1038/ncomms12600
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DX9AL
+UT WOS:000384684700001
+PM 27573984
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Turek, W
+   Stypka, J
+   Krzywicki, D
+   Anielski, P
+   Pietak, K
+   Byrski, A
+   Kisiel-Dorohinicki, M
+AF Turek, Wojciech
+   Stypka, Jan
+   Krzywicki, Daniel
+   Anielski, Piotr
+   Pietak, Kamil
+   Byrski, Aleksander
+   Kisiel-Dorohinicki, Marek
+TI Highly scalable Erlang framework for agent-based metaheuristic computing
+SO JOURNAL OF COMPUTATIONAL SCIENCE
+LA English
+DT Article
+DE Metaheuristic computing; Concurrent programming; Scalability; Erlang
+ID EVOLUTIONARY COMPUTATION; SYSTEMS; PERFORMANCE; ENVIRONMENT; UNCERTAINTY
+AB Difficult search and optimization problems, usually solved by metaheuristics, are very often implemented in concurrent and parallel environment, as many metaheuristics (e.g. population- or agent-based) are inherently easy to parallelize. Therefore search for easy-to-use, robust and efficient frameworks dedicated for such computing methods, especially in the era of ubiquitous many and multi-core systems, is very desirable. Indeed, the development of multi-core architectures is incredibly fast and multicore CPUs can be found nowadays not only in supercomputers, but also in ordinary laptops or even phones. Efficient use of multicore architectures requires applying suitable languages and technologies, like Erlang. Its concurrency model, based on lightweight processes and asynchronous message-passing, seems very well suited for running massively concurrent code on many cores. Most of existing Erlang industrial applications are deployed on computers with up to 24 CPU cores, and there are hardly any reports on using Erlang on architectures exceeding 32 physical cores. In this paper we present our experiences with developing a concurrent Erlang-based computing platform, scaling computationally-intensive and memory-intensive applications up to 64 cores, using as examples global optimization and urban traffic planning problems. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Turek, Wojciech; Stypka, Jan; Krzywicki, Daniel; Anielski, Piotr; Pietak, Kamil; Byrski, Aleksander; Kisiel-Dorohinicki, Marek] AGH Univ Sci & Technol, Fac Comp Sci Elect & Telecommun, Al Mickiewicza 30, PL-30059 Krakow, Poland.
+RP Byrski, A (reprint author), AGH Univ Sci & Technol, Fac Comp Sci Elect & Telecommun, Al Mickiewicza 30, PL-30059 Krakow, Poland.
+EM wojciech.turek@agh.edu.pl; janstypka@gmail.com; krzywic@agh.edu.pl;
+   pr.anielski@gmail.com; kpietak@agh.edu.pl; olekb@agh.edu.pl;
+   doroh@agh.edu.pl
+OI Byrski, Aleksander/0000-0001-6317-7012
+FU Polish National Science Centre [DEC-2011/01/D/ST6/06146]
+FX The research presented in the paper was conducted using PL-Grid
+   Infrastructure (http://www.plgrid.pl/en). The research presented in the
+   paper has received founding from the Polish National Science Centre
+   under grant DEC-2011/01/D/ST6/06146. The authors would like to express
+   heartfelt gratitude to a member of the OTP team, Lukas Larsson, for his
+   advices on profiling Erlang code.
+CR Agent-based parallel computing in java proof of concept, 2001, TRUNLCSE20011004
+   Alba E, 2008, OPER RES COMPUT SCI, V42, P1, DOI 10.1007/978-0-387-77610-1
+   Andersson A, 1999, J ALGORITHM, V30, P1, DOI 10.1006/jagm.1998.0967
+   Armstrong Joe, 2013, PROGRAMMING ERLANG S
+   Aronis S., 2012, P 11 ACM SIGPLAN WOR, P33
+   Balch T., 1997, IEEE T ROBOTIC AUTOM, P926
+   Banks J., 2005, DISCRETE EVENT SYSTE
+   Bellifemine F., 2001, Proceedings of the Fifth International Conference on Autonomous Agents, P216, DOI 10.1145/375735.376120
+   Byrski A, 2005, ADV SOFT COMP, P411, DOI 10.1007/3-540-32392-9_43
+   Byrski A, 2013, B POL ACAD SCI-TECH, V61, P257, DOI 10.2478/bpasts-2013-0025
+   Byrski A, 2009, IEEE C EVOL COMPUTAT, P78, DOI 10.1109/CEC.2009.4982933
+   Byrski A., 2002, P IASTED INT S APPL
+   Byrski A, 2013, COMPUT SCI-AGH, V14, P491, DOI 10.7494/csci.2013.14.3.491
+   Byrski A, 2015, KNOWL ENG REV, V30, P171, DOI 10.1017/S0269888914000289
+   Cahon S, 2004, J HEURISTICS, V10, P357, DOI 10.1023/B:HEUR.0000026900.92269.ec
+   Cahon S., 2003, Proceedings International Parallel and Distributed Processing Symposium, DOI 10.1109/IPDPS.2003.1213274
+   Cant-Paz E., 1998, CALCULATEURS PARALLE, V10, P141
+   Cesarini F., 2009, ERLANG PROGRAMMING
+   Cetnarowicz K., 1996, P 2 INT C MULT SYST
+   Chen S.H, 2011, MULTIAGENT APPL EVOL
+   Cicirelli F., 2013, ASIASIM 2013, P49
+   Cosenza B., 2011, 19 INT EUR C PAR DIS, P62, DOI 10.1109/PDP.2011.22
+   Digalakis JG, 2002, INT J COMPUT MATH, V79, P403, DOI 10.1080/00207160290017942
+   Dobrowolski G., 2001, ADV MULTIAGENT SYSTE
+   EZchipSerniconductor, 2015, HIGH COR COUNT ARM P
+   Fang J, 1997, INT J ADV MANUF TECH, V13, P227, DOI 10.1007/BF01305874
+   Garcia-Valdez M, 2014, LECT NOTES COMPUT SC, V8602, P726, DOI 10.1007/978-3-662-45523-4_59
+   Gutknecht O., 2000, Proceedings of the Fourth International Conference on Autonomous Agents, P78, DOI 10.1145/336595.337048
+   Janjic V., P WORKSH HIGH LEV PR
+   Jeffers  J., 2013, INTEL XEON PHI COPRO
+   Laredo JLJ, 2011, LECT NOTES COMPUT SC, V6621, P108, DOI 10.1007/978-3-642-20407-4_10
+   Kazirod M, 2014, 2014 IEEE/WIC/ACM INTERNATIONAL JOINT CONFERENCES ON WEB INTELLIGENCE (WI) AND INTELLIGENT AGENT TECHNOLOGIES (IAT), VOL 3, P365, DOI 10.1109/WI-IAT.2014.190
+   Kisiel-Dorohinicki M., 2002, NEURAL NETWORKS SOFT, P608
+   Krzywicki D, 2015, J COMPUT SCI-NETH, V11, P153, DOI 10.1016/j.jocs.2015.07.003
+   Krzywicki D, 2014, PROCEDIA COMPUT SCI, V29, P1068, DOI 10.1016/j.procs.2014.05.096
+   Krzywicki D, 2014, FUTURE GENER COMP SY, V37, P390, DOI 10.1016/j.future.2014.02.002
+   LIU J, 1997, IEEE T EVOLUTIONARY, V1, P141, DOI DOI 10.1109/4235.687881
+   Liu JM, 2002, ARTIF INTELL, V136, P101, DOI 10.1016/S0004-3702(01)00174-6
+   Luke S, 2005, SIMUL-T SOC MOD SIM, V81, P517, DOI 10.1177/0037549705058073
+   Mula J, 2006, INT J PROD ECON, V103, P271, DOI 10.1016/j.ijpe.2005.09.001
+   North MJ, 2013, COMPLEX ADAPT SYST M, V1, DOI 10.1186/2194-3206-1-3
+   Pietak K, 2013, LECT NOTES COMPUT SC, V7776, P31, DOI 10.1007/978-3-642-38496-7_3
+   Pinedo ML, 2009, PLANNING AND SCHEDULING IN MANUFACTURING AND SERVICES, SECOND EDITION, P3, DOI 10.1007/978-1-4419-0910-7_1
+   POKAHR A, 2003, EXP SEARCH INNOVATIO, V3, P76
+   Russel Stuart, 2003, ARTIFICIAL INTELLIGE
+   Sagonas Konstantinos, 2014, P 13 ACM SIGPLAN WOR, P3
+   Sarker RA, 2010, ADAPT LEARN OPTIM, V5, P1, DOI 10.1007/978-3-642-13425-8_1
+   Siwik L., 2009, EVOLUTIONARY COMPUTA, P541
+   Thomas D, 2009, J OBJECT TECHNOL, V8, P45, DOI 10.5381/jot.2009.8.5.c4
+   Turek W, 2013, FRONT ARTIF INTEL AP, V252, P21, DOI 10.3233/978-1-61499-254-7-21
+   Turek W, 2011, FUND INFORM, V112, P103, DOI 10.3233/FI-2011-581
+   Uhruski P, 2002, PAR ELEC 2002: INTERNATIONAL CONFERENCE ON PARALLEL COMPUTING IN ELECTRICAL ENGINEERING, P233, DOI 10.1109/PCEE.2002.1115252
+   van den Berg J, 2012, INT J ROBOT RES, V31, P1263, DOI 10.1177/0278364912456319
+   Varghese A., 2014, PAR DISTR PROC S WOR, P984
+   Wang B., 2007, IEEE INT C AUT LOG 2, P829
+   Wrobel K, 2013, COMPUT SCI-AGH, V14, P367, DOI 10.7494/csci.2013.14.3.367
+   Zheng S., 2013, P 12 ACM SIGPLAN WOR, P3
+NR 57
+TC 7
+Z9 7
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-7503
+J9 J COMPUT SCI-NETH
+JI J. Comput. Sci.
+PD NOV
+PY 2016
+VL 17
+BP 234
+EP 248
+DI 10.1016/j.jocs.2016.03.003
+PN 1
+PG 15
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Theory & Methods
+SC Computer Science
+GA EF9BL
+UT WOS:000390625600020
+DA 2019-03-26
+ER
+
+PT J
+AU Varga, L
+   Kovacs, A
+   Toth, G
+   Papp, I
+   Neda, Z
+AF Varga, Levente
+   Kovacs, Andras
+   Toth, Geza
+   Papp, Istvan
+   Neda, Zoltan
+TI Further We Travel the Faster We Go
+SO PLOS ONE
+LA English
+DT Article
+ID HUMAN MOBILITY; SCALING LAWS; PATTERNS; PREDICTABILITY; MIGRATION;
+   NETWORKS; MODEL
+AB The average travelling speed increases in a nontrivial manner with the travel distance. This leads to scaling-like relations on quite extended spatial scales, for all mobility modes taken together and also for a given mobility mode in part. We offer a wide range of experimental results, investigating and quantifying this universal effect and its measurable causes. The increasing travelling speed with the travel distance arises from the combined effects of: choosing the most appropriate travelling mode; the structure of the travel networks; the travel times lost in the main hubs, starting or target cities; and the speed limit of roads and vehicles.
+C1 [Varga, Levente; Papp, Istvan; Neda, Zoltan] Univ Babes Bolyai, Dept Phys, R-3400 Cluj Napoca, Romania.
+   [Kovacs, Andras] Edutus Coll, Dept Trade & Mkt, Tatabanya, Hungary.
+   [Toth, Geza] Hungarian Cent Stat Off, Budapest, Hungary.
+RP Neda, Z (reprint author), Univ Babes Bolyai, Dept Phys, R-3400 Cluj Napoca, Romania.
+EM zneda@phys.ubbcluj.ro
+RI Toth, Geza/I-2683-2013; Neda, Zoltan/C-3754-2011; Varga,
+   Levente/E-2434-2016
+OI Toth, Geza/0000-0002-9233-1899; 
+FU UEFISCDI, Romania [PCE-IDEI-0348/2011]
+FX This work was supported by UEFISCDI, Romania, grant number:
+   PCE-IDEI-0348/2011. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+CR Barthelemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Bazzani A, 2010, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2010/05/P05001
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Cohen JE, 2008, P NATL ACAD SCI USA, V105, P15269, DOI 10.1073/pnas.0808185105
+   Colizza V, 2006, P NATL ACAD SCI USA, V103, P2015, DOI 10.1073/pnas.0510525103
+   Dusek T, 2009, COMMUNICATION
+   Eubank S, 2004, NATURE, V429, P180, DOI 10.1038/nature02541
+   Gallotti R, 2014, SCI REP-UK, V4, DOI 10.1038/srep06911
+   Gonzales CM, 2015, P NATL ACAD IN PRESS
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Goodchild MF, 2007, GEOJOURNAL, V69, P211, DOI 10.1007/s10708-007-9111-y
+   GPSlib, 2015, GPS TRACKS HOST SERV
+   Helbing D, 2001, REV MOD PHYS, V73, P1067, DOI 10.1103/RevModPhys.73.1067
+   Hungarian central statistical office, 2015, REG ATL HUNG TERR BR
+   Krueckeberg D.A., 1974, URBAN PLANNING ANAL
+   Kung KS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096180
+   Li G, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.018701
+   Liang X, 2013, SCI REP-UK, V3, DOI 10.1038/srep02983
+   Liu Y, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0086026
+   Mokhtarian PL, 2004, TRANSPORT RES A-POL, V38, P643, DOI 10.1016/j.tra.2003.12.004
+   Neubert L, 1999, PHYS REV E, V60, P6480, DOI 10.1103/PhysRevE.60.6480
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI 10.1073/pnas.0610245104
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Simini F, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0060069
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+NR 28
+TC 1
+Z9 1
+U1 0
+U2 9
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 10
+PY 2016
+VL 11
+IS 2
+AR e0148913
+DI 10.1371/journal.pone.0148913
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DD6PR
+UT WOS:000370046600123
+PM 26863605
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT B
+AU Xie, KQ
+   Xiong, H
+   Li, CY
+AF Xie, Kaiqiang
+   Xiong, Hui
+   Li, Chunyan
+GP IEEE
+TI The Correlation between Human Mobility and Socio-demographic in Megacity
+SO IEEE SECOND INTERNATIONAL SMART CITIES CONFERENCE (ISC2 2016)
+LA English
+DT Proceedings Paper
+CT 2nd IEEE International Smart Cities Conference (ISC2)
+CY SEP 12-15, 2016
+CL Trento, ITALY
+SP IEEE, Univ Trento Italy, IEEE Smart Cities, Centro Ricerche Fiat, Engineering, Politecnico Milano, Reply, STMicroelectron
+DE human mobility; socio-demographic characteristics; displacement; radius
+   of gyration
+ID SCALING LAWS; PATTERNS; PREDICTABILITY; MODEL
+AB Understanding human mobility is of great importance for various applications, such as urban planning and traffic forecasting. In this paper, we explore the correlation between human mobility and socio-demographic characteristics through two massive datasets containing individuals' attributes and daily GPS trajectory information respectively. Individuals' daily trajectories, trip displacement and daily radius of gyration are further studied. The results confirm that the distribution of daily radius of gyration is power law. It is found that women travels longer and further to their center of mass than man. The employed stay closer to their center of mass while their displacement is larger. Besides, it is surprising to find that under foggy days, trip displacement and radius of gyration are much bigger than that of other weather conditions.
+C1 [Xie, Kaiqiang; Xiong, Hui] Beijing Inst Technol, Dept Transportat Engn, Beijing, Peoples R China.
+   [Li, Chunyan] Beijing Transportat Res Ctr, Dept Transportat Planning, Beijing, Peoples R China.
+RP Xie, KQ (reprint author), Beijing Inst Technol, Dept Transportat Engn, Beijing, Peoples R China.
+EM kqx0731@163.com; xionghui@bit.edu.com; 99890417@qq.com
+CR Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Candia J, 2008, J PHYS A-MATH THEOR, V41, DOI 10.1088/1751-8113/41/22/224015
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Goh S, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.026102
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hemminki S, 2013, P 11 ACM C EMB NETW
+   Jung WS, 2008, EPL-EUROPHYS LETT, V81, DOI 10.1209/0295-5075/81/48005
+   Jurdak R, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0131469
+   Lenormand M, 2015, SCI REP-UK, V5, DOI 10.1038/srep10075
+   Lu X, 2013, SCI REP-UK, V3, DOI 10.1038/srep02923
+   Meloni S, 2011, SCI REP-UK, V1, DOI 10.1038/srep00062
+   Ni SJ, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016111
+   Pappalardo L., 2015, NAT COMMUN, DOI [10.1038/ncomm9166, DOI 10.1038/NCOMM9166]
+   Rhee I, 2011, IEEE ACM T NETWORK, V19, P630, DOI 10.1109/TNET.2011.2120618
+   Shen H.-W., 2014, P 28 AAAI C ART INT
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Xie X., 2012, P 17 ACM SIGKDD C KN
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+   Zheng Y., 2011, P ACM INT JOINT C PE
+   Zheng Y., 2008, P 17 INT WORLD WID W
+   Zheng Y, 2010, ACM T WEB, V4, DOI 10.1145/1658373.1658374
+   Zignani M., 2010, IFIP WIRELESS DAYS, P1
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-1845-1
+PY 2016
+BP 15
+EP 20
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BG8EH
+UT WOS:000392263700003
+DA 2019-03-26
+ER
+
+PT J
+AU Deng, H
+   Zhang, LQ
+   Mao, XC
+   Qu, HM
+AF Deng, Hao
+   Zhang, Liqiang
+   Mao, Xiancheng
+   Qu, Huamin
+TI Interactive Urban Context-Aware Visualization via Multiple Disocclusion
+   Operators
+SO IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+LA English
+DT Article
+DE Occlusion reduction; context-aware visualization; interactive
+   visualization; display algorithms; map generalization
+ID AUTOMATIC-GENERATION; MAPS; 3D; NAVIGATION; MODELS; ROUTES
+AB In 3D urban environments, features of interest (FOIs) are often occluded by clusters of buildings, which prevent a clear overview of important spatial features. State-of-the-art disocclusion methods for urban environments fall short of preserving cityscape appearance or require time-consuming computation. These methods use only one or two operators for disocclusion and might not strike a good balance between disocclusion and distortion control. We present a novel, automatic method enabling interactive context-aware visualization of urban features of interest, which combines four effective disocclusion operators including viewpoint elevation, road shifting, building scaling, and building displacement to disocclude the features of interest. Our method provides an optimum compromise among the disocclusion operators via an efficient constrained optimization and the post-polishing phrases, which minimizes the distortions while enforcing the visibility of the FOIs. The 3D views generated at interactive frame rates ensure a resemblance in the cityscape appearance to its original ones and provide a good overview of the FOIs. The experiments with real data demonstrate that our method can greatly facilitate tasks such as navigation, wayfinding, and information overlay.
+C1 [Deng, Hao; Mao, Xiancheng] Cent S Univ, Dept Geoinfomat, Changsha, Hunan, Peoples R China.
+   [Zhang, Liqiang] Beijing Normal Univ, State Key Lab Remote Sensing Sci, Beijing 100875, Peoples R China.
+   [Qu, Huamin] Hong Kong Univ Sci & Technol, Dept Comp Sci & Engn, Kowloon, Hong Kong, Peoples R China.
+RP Deng, H (reprint author), Cent S Univ, Dept Geoinfomat, Changsha, Hunan, Peoples R China.
+EM haodeng@csu.edu.cn; zhanglq@bnu.edu.cn; mxc@csu.edu.cn;
+   huamin@cse.ust.hk
+FU Project of Innovation-driven Plan in CSU [2015CX008]; NSFC [41401532,
+   41371324, 41472301]; China Postdoctoral Science Foundation
+   [2014M552160]; Hunan Postdoctoral Scientific Program [2014RS4028]
+FX The authors thank the editors and reviewers for their valuable comments.
+   This work was partially supported by grants from the Project of
+   Innovation-driven Plan in CSU (No. 2015CX008), NSFC (Nos. 41401532,
+   41371324, and 41472301), China Postdoctoral Science Foundation (No.
+   2014M552160), and Hunan Postdoctoral Scientific Program (No.
+   2014RS4028). L. Zhang is the corresponding author.
+CR Agrawala M, 2001, COMP GRAPH, P241
+   Agrawala M, 2000, SPRING COMP SCI, P125
+   Belkin M, 2002, ADV NEUR IN, V14, P585
+   Burns M, 2008, ACM T GRAPHIC, V27, DOI 10.1145/1409060.1409107
+   Carpendale MST, 1997, IEEE COMPUT GRAPH, V17, P42, DOI 10.1109/38.595268
+   Cui JA, 2010, IEEE T VIS COMPUT GR, V16, P1235, DOI 10.1109/TVCG.2010.127
+   Davis TA, 2009, ACM T MATH SOFTWARE, V35, DOI 10.1145/1462173.1462176
+   Degener P, 2008, IEEE T VIS COMPUT GR, V14, P1452, DOI 10.1109/TVCG.2008.124
+   Degener P, 2009, ACM T GRAPHIC, V28, DOI 10.1145/1477926.1477928
+   Deng H, 2013, COMPUT GEOSCI-UK, V52, P389, DOI 10.1016/j.cageo.2012.09.016
+   Elmqvist N, 2008, IEEE T VIS COMPUT GR, V14, P1095, DOI 10.1109/TVCG.2008.59
+   Falk M, 2007, GRAPHITE 2007: 5TH INTERNATIONAL CONFERENCE ON COMPUTER GRAPHICS AND INTERACTIVE TECHNIQUES IN AUSTRALASIA AND SOUTHERN ASIA, PROCEEDINGS, P9
+   Ghani S, 2011, COMPUT GRAPH FORUM, V30, P861, DOI 10.1111/j.1467-8659.2011.01935.x
+   Grabler F, 2008, ACM T GRAPHIC, V27, DOI 10.1145/1360612.1360699
+   Hirono D, 2013, IEEE PAC VIS SYMP, P17, DOI 10.1109/PacificVis.2013.6596123
+   Huang JB, 2005, IEEE T VIS COMPUT GR, V11, P584, DOI 10.1109/TVCG.2005.82
+   Huang J, 2006, COMPUT GRAPH-UK, V30, P927, DOI 10.1016/j.cag.2006.08.014
+   Karnick P, 2010, IEEE T VIS COMPUT GR, V16, P235, DOI 10.1109/TVCG.2009.65
+   Kopf J, 2010, ACM T GRAPHIC, V29, DOI 10.1145/1866158.1866184
+   Kray C., 2003, IUI 03. 2003 International Conference on Intelligent User Interfaces, P117
+   Kruger J, 2006, IEEE T VIS COMPUT GR, V12, P941, DOI 10.1109/TVCG.2006.124
+   LAAKSO K, 2003, P MOB HCI WORKSH HCI, P34
+   Li W, 2007, ACM T GRAPHIC, V26, DOI 10.1145/1239451.1239482
+   Li W, 2008, ACM T GRAPHIC, V27, DOI 10.1145/1360612.1360700
+   Li Z, 2004, INT J GEOGR INF SCI, V18, P513, DOI 10.1080/13658810410001702021
+   McGuffin MJ, 2003, IEEE VISUALIZATION 2003, PROCEEDINGS, P401, DOI 10.1109/VISUAL.2003.1250400
+   Moser S, 2008, COMPUT GRAPH FORUM, V27, P1853
+   Nocedal J, 1999, NUMERICAL OPTIMIZATI
+   Nollenburg M, 2011, IEEE T VIS COMPUT GR, V17, P626, DOI 10.1109/TVCG.2010.81
+   Popescu V, 2009, ACM T GRAPHIC, V28, DOI 10.1145/1618452.1618504
+   Qu HM, 2009, IEEE T VIS COMPUT GR, V15, P1547, DOI 10.1109/TVCG.2009.144
+   Rakkolainen I, 2001, COMPUT GRAPH-UK, V25, P619, DOI 10.1016/S0097-8493(01)00090-5
+   Schobesberger D., 2007, P 6 ICA MOUNT CART W, P201
+   Sorkine O., 2004, P 2004 EUR ACM SIGGR, P175, DOI DOI 10.1145/1057432.1057456
+   Stott J, 2011, IEEE T VIS COMPUT GR, V17, P101, DOI 10.1109/TVCG.2010.24
+   Sudarsanam N., 2008, NPAR 08, P69
+   Takahashi S, 2002, COMPUT GRAPH FORUM, V21, P259, DOI 10.1111/1467-8659.00585
+   Takahashi S, 2006, IEEE T VIS COMPUT GR, V12, P1141, DOI 10.1109/TVCG.2006.167
+   Wang YS, 2011, IEEE T VIS COMPUT GR, V17, P2528, DOI 10.1109/TVCG.2011.205
+   Zhang LQ, 2013, INT J GEOGR INF SCI, V27, P721, DOI 10.1080/13658816.2012.700518
+NR 40
+TC 6
+Z9 6
+U1 1
+U2 6
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1077-2626
+EI 1941-0506
+J9 IEEE T VIS COMPUT GR
+JI IEEE Trans. Vis. Comput. Graph.
+PD JUL
+PY 2016
+VL 22
+IS 7
+BP 1862
+EP 1874
+DI 10.1109/TVCG.2015.2469661
+PG 13
+WC Computer Science, Software Engineering
+SC Computer Science
+GA DO0NI
+UT WOS:000377475200008
+PM 27244709
+DA 2019-03-26
+ER

@@ -1,0 +1,456 @@
+
+PT J
+AU Jiang, SX
+   Guan, W
+   Zhang, WY
+   Chen, X
+   Yang, L
+AF Jiang, Shixiong
+   Guan, Wei
+   Zhang, Wenyi
+   Chen, Xu
+   Yang, Liu
+TI Human mobility in space from three modes of public transportation
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Human mobility; Exponential distribution; Power-law; Displacement;
+   Travel time
+ID FLIGHT SEARCH PATTERNS; POWER-LAW; WANDERING ALBATROSSES; TRAVEL
+   PATTERNS; SCALING LAWS; RIDERSHIP; WEATHER; IMPACT; TAXI
+AB The human mobility patterns have drew much attention from researchers for decades, considering about its importance for urban planning and traffic management. In this study, the taxi GPS trajectories, smart card transaction data of subway and bus from Beijing are utilized to model human mobility in space. The original datasets are cleaned and processed to attain the displacement of each trip according to the origin and destination locations. Then, the Akaike information criterion is adopted to screen out the best fitting distribution for each mode from candidate ones. The results indicate that displacements of taxi trips follow the exponential distribution. Besides, the exponential distribution also fits displacements of bus trips well. However, their exponents are significantly different. Displacements of subway trips show great specialties and can be well fitted by the gamma distribution. It is obvious that human mobility of each mode is different. To explore the overall human mobility, the three datasets are mixed up to form a fusion dataset according to the annual ridership proportions. Finally, the fusion displacements follow the power-law distribution with an exponential cutoff. It is innovative to combine different transportation modes to model human mobility in the city. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Jiang, Shixiong; Guan, Wei; Zhang, Wenyi; Yang, Liu] Beijing Jiaotong Univ, MOE Key Lab Urban Transportat Complex Syst Theory, Beijing 100044, Peoples R China.
+   [Chen, Xu] Beijing Jiaotong Univ, State Key Lab Rail Traff Control & Safety, Beijing 100044, Peoples R China.
+RP Guan, W (reprint author), Beijing Jiaotong Univ, MOE Key Lab Urban Transportat Complex Syst Theory, Beijing 100044, Peoples R China.
+EM weig@bjtu.edu.cn
+FU NSFC [71471014, 71621001]; Fundamental Research Funds for Central
+   Universities [2015JBM060]
+FX This work was supported by NSFC Project (Grant No. 71471014 and
+   71621001) and the Fundamental Research Funds for Central Universities
+   (Grant No. 2015JBM060). We also greatly appreciate Dr. Zhengbing He for
+   providing help on the data pre-processing.
+CR Arana P, 2014, TRANSPORT RES A-POL, V59, P1, DOI 10.1016/j.tra.2013.10.019
+   Benoit M., 1983, AM J PHYS, V51, P286, DOI DOI 10.1119/1.13295
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Cai H, 2016, PHYSICA A, V457, P590, DOI 10.1016/j.physa.2016.03.047
+   Calabrese F, 2013, TRANSPORT RES C-EMER, V26, P301, DOI 10.1016/j.trc.2012.09.009
+   Chalasani VS, 2005, J TRANSP STAT, V8, P1
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cools M, 2010, TRANSPORT RES REC, P22, DOI 10.3141/2157-03
+   Edwards AM, 2007, NATURE, V449, P1044, DOI 10.1038/nature06199
+   El-Geneidy A. M., 2009, TRANSP RES BOARD M
+   Goh S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0089980
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Guo J., 2015, BEIJING TRANSPORT AN
+   Hasan S, 2013, J STAT PHYS, V151, P304, DOI 10.1007/s10955-012-0645-0
+   Hess D.B., 2009, J TRANSP LAND USE, V2, P3, DOI DOI 10.5198/JTLU.V2I1.11
+   Huang W, 2015, INT J GEOGR INF SCI, V29, P1569, DOI 10.1080/13658816.2015.1033421
+   Huntsinger L. F., 2015, TRANSPORTATION RES B
+   Jiang C, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.184101
+   Kang CG, 2012, PHYSICA A, V391, P1702, DOI 10.1016/j.physa.2011.11.005
+   Kim J, 2015, TRANSP RES PROC, V9, P164, DOI 10.1016/j.trpro.2015.07.010
+   Kimpel T., 2007, USING GIS MEASURE EF
+   Kitamura R, 2000, TRANSPORTATION, V27, P25, DOI 10.1023/A:1005259324588
+   Liang X., 2012, SCI REP, V3, P65
+   Liang X, 2015, SCI CHINA INFORM SCI, V58, DOI 10.1007/s11432-015-5402-y
+   Liang X, 2012, PHYSICA A, V391, P2135, DOI 10.1016/j.physa.2011.11.035
+   Liu CX, 2015, TRANSPORT POLICY, V41, P147, DOI 10.1016/j.tranpol.2015.01.001
+   Liu YC, 2014, IEEE DATA MINING, P360, DOI 10.1109/ICDM.2014.138
+   Liu Y, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0086026
+   Mari L, 2012, J R SOC INTERFACE, V9, P376, DOI 10.1098/rsif.2011.0304
+   Mashanova A, 2010, J R SOC INTERFACE, V7, P199, DOI 10.1098/rsif.2009.0121
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Palchykov V, 2014, SCI REP-UK, V4, DOI 10.1038/srep06174
+   Papandrea M, 2016, COMPUT COMMUN, V87, P19, DOI 10.1016/j.comcom.2016.03.022
+   Rahman S, 2016, TRANSPORT RES REC, P1, DOI 10.3141/2544-01
+   Rhee I., 2008, P IEEE INFOCOM, P924
+   Roth C, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0015923
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Saberi M, 2016, TRANSPORTATION, P1
+   Sadilek A., 2012, AAAI C ART INT
+   Singhal A, 2014, TRANSPORT RES A-POL, V69, P379, DOI 10.1016/j.tra.2014.09.008
+   Sochor J, 2015, TRANSPORT RES REC, P1, DOI 10.3141/2536-01
+   Stover VW, 2012, J PUBLIC TRANSPORT, V15, P95, DOI 10.5038/2375-0901.15.1.6
+   Sun JB, 2011, PHYSICA A, V390, P929, DOI 10.1016/j.physa.2010.10.033
+   Tang JJ, 2015, PHYSICA A, V438, P140, DOI 10.1016/j.physa.2015.06.032
+   Do TMT, 2015, PERVASIVE MOB COMPUT, V20, P13, DOI 10.1016/j.pmcj.2014.09.001
+   Veloso M., 2011, WORKSH PERV URB APPL
+   Viswanathan GM, 1996, NATURE, V381, P413, DOI 10.1038/381413a0
+   [王明�? Wang Mingsheng], 2012, [电子科技大学学报, Journal of University of Electronic Science and Technology of China], V41, P2
+   Wang WJ, 2015, PHYSICA A, V420, P134, DOI 10.1016/j.physa.2014.10.085
+   Xu Q, 2016, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2016/03/033404
+   Yan XY, 2013, SCI REP-UK, V3, DOI 10.1038/srep02678
+   Zhao K, 2015, SCI REP-UK, V5, DOI 10.1038/srep09136
+   Zhong C, 2015, J COMPUT SCI-NETH, V9, P125, DOI 10.1016/j.jocs.2015.04.021
+   Zhou M, 2017, TRANSPORT RES C-EMER, V75, P17, DOI 10.1016/j.trc.2016.12.001
+NR 54
+TC 3
+Z9 3
+U1 10
+U2 66
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD OCT 1
+PY 2017
+VL 483
+BP 227
+EP 238
+DI 10.1016/j.physa.2017.04.182
+PG 12
+WC Physics, Multidisciplinary
+SC Physics
+GA EZ9PJ
+UT WOS:000405062000023
+DA 2019-03-26
+ER
+
+PT J
+AU Leach, N
+AF Leach, Neil
+TI SIZE MATTERS: WHY ARCHITECTURE IS THE FUTURE OF 3D PRINTING
+SO ARCHITECTURAL DESIGN
+LA English
+DT Article
+AB Computational drafting allows architects to zoom in and out of their creations-in-progress as never before. However, when it comes to digital fabrication processes, changes in scale can have insurmountable implications in terms of structural stability and load bearing - as Guest-Editor Neil Leach explains here. Therefore, he argues, rather than dreaming of scaling up 3D printing to the dimension of buildings and cities, architects do better to focus their enthusiasm for this new technology on smaller-scale areas of their practice.
+CR [Anonymous], 2013, GUARDIAN
+   Berg N., 2012, IS THERE LIMIT TALL
+   Carithers Bill, 1995, SLAC BEAM LINE, V25, P4
+   Carroll Lewis, 1865, ALICES ADVENTURES WO
+   Charles, 1977, POWERS 10 FILM DEALI
+   Cooper Merian C., 1933, KING KONG
+   DeLanda M., 2005, DELEUZE SPACE, P80
+   Deleuze Gilles, 1994, DIFFERENCE REPETITIO, P222
+   Fowler Michael, 2004, LECT NOTES
+   Honda Ishiro, 1954, GODZILLA
+   Jackson Peter, 2005, KING KONG
+   Johnson Joe, 1989, HONEY SHRUNK KIDS
+   MULLER EW, 1968, REV SCI INSTRUM, V39, P83, DOI 10.1063/1.1683116
+   Roche Francois, 2009, D DIGITAL CITIES, P40
+   SCHMIDT M, 1963, NATURE, V197, P1040, DOI 10.1038/1971040a0
+   Schmidt-Nielsen K., 1984, SCALING WHY IS ANIMA
+   Swift Jonathan, 1726, TRAVELS SEVERAL REMO
+   Vogt-Roberts Jordan, 2017, KONG SKULL ISLAND
+NR 18
+TC 0
+Z9 0
+U1 4
+U2 10
+PU WILEY PERIODICALS, INC
+PI SAN FRANCISCO
+PA ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, CA 94104 USA
+SN 0003-8504
+EI 1554-2769
+J9 ARCHIT DESIGN
+JI Archit. Des.
+PD NOV-DEC
+PY 2017
+VL 87
+IS 6
+SI SI
+BP 76
+EP 83
+DI 10.1002/ad.2241
+PG 8
+WC Architecture
+SC Architecture
+GA FL6IF
+UT WOS:000414347700011
+DA 2019-03-26
+ER
+
+PT J
+AU Hanson, JW
+   Ortman, SG
+   Lobo, J
+AF Hanson, J. W.
+   Ortman, S. G.
+   Lobo, J.
+TI Urbanism and the division of labour in the Roman Empire
+SO JOURNAL OF THE ROYAL SOCIETY INTERFACE
+LA English
+DT Article
+DE complex systems; settlement scaling theory; urbanism; division of
+   labour; Roman Empire; economic development
+ID GROWTH; CITIES; EVOLUTION; LIFE
+AB One of the hallmarks of human agglomeration is an increase in the division of labour, but the exact nature of this relationship has been debated among anthropologists, sociologists, economists, and historians and archaeologists. Over the last decade, researchers investigating contemporary urban systems have suggested a novel explanation for the links between the numbers of inhabitants in settlements and many of their most important characteristics, which is grounded in a view of settlements as social networks embedded in built environments. One of the remarkable aspects of this approach is that it is not based on the specific conditions of the modern world (such as capitalism or industrialization), which raises the issue of whether the relationships observed in contemporary urban systems can also be detected in pre-modern urban or even non-urban systems. Here, we present a general model for the relationship between the population and functional diversity of settlements, where the latter is viewed as an indicator of the division of labour. We then explore the applicability of this model to pre-modern contexts, focusing on cities in the Roman Empire, using estimates of their numbers of inhabitants, numbers of documented professional associations, and numbers of recorded inscriptions to develop an index of functional diversity. Our results are consistent with theoretical expectations, adding further support to the view that urban systems in both contemporary and pre-modern contexts reflect a common set of generative processes.
+C1 [Hanson, J. W.; Ortman, S. G.] Univ Colorado, Dept Anthropol, Boulder, CO 80309 USA.
+   [Lobo, J.] Arizona State Univ, Sch Sustainabil, Tempe, AZ USA.
+   [Ortman, S. G.; Lobo, J.] Santa Fe Inst, Santa Fe, NM 87501 USA.
+RP Hanson, JW (reprint author), Univ Colorado, Dept Anthropol, Boulder, CO 80309 USA.
+EM john.hanson@colorado.edu
+FU James S. McDonnell Foundation [220020438]; ASU-SFI Centre for Bio-social
+   Complex Systems
+FX Portions of this research were supported by the James S. McDonnell
+   Foundation (#220020438) and the the ASU-SFI Centre for Bio-social
+   Complex Systems.
+CR Acemoglu Daron, 2012, WHY NATIONS FAIL ORI
+   Arnaoutoglou I., 2011, ANCSOC, V41, P257
+   Arnaoutoglou I., 2002, REV INT DROITS LANTI, V49, P27
+   Arnaoutoglou I. N., 2005, ANCIENT SOC, V35, P197, DOI [DOI 10.2143/AS.35.0.2003849, 10.2143/AS.35.0.2003849]
+   Arnauotoglu IN, 2016, URBAN CRAFTSMEN TRAD, P278
+   Arrow K.J., 1994, RETURN INCREASING RE, P69
+   Baumol W, 2002, FREE MARKET INNOVATI
+   BELTRAN LLORIS F, 2015, OXFORD HDB ROMAN EPI
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2016.0005
+   Bettencourt LMA, 2014, P IEEE, V102, P1878, DOI 10.1109/JPROC.2014.2367132
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Bowman A., 2009, QUANTIFYING ROMAN EC
+   Carlin BP, 2000, BAYES EMPIRICAL BAYE
+   Cesaretti R, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0162678
+   Clark P., 2009, EUROPEAN CITIES TOWN
+   Durkheim E., 1893, DIVISION LABOR SOC
+   FINLEY M. I., 1973, ANCIENT EC
+   Glaeser E., 2011, TRIUMPH CITY OUR GRE
+   Gotelli Nicholas J., 2011, P39
+   Hanson JW, 2017, J ROMAN ARCHAEOL, V30, P299, DOI 10.1017/S1047759400074134
+   Hanson J.W., 2016, URBAN GEOGRAPHY ROMA
+   Henrich J, 2004, AM ANTIQUITY, V69, P197, DOI 10.2307/4128416
+   Jones C., 2013, INTRO EC GROWTH
+   Jongman WM, 2014, CAMBRIDGE HISTORY OF CAPITALISM, VOL I: THE RISE OF CAPITALISM: FROM ANCIENT ORIGINS TO 1848, P75
+   Kelly M, 1997, Q J ECON, V112, P939, DOI 10.1162/003355397555398
+   Kline MA, 2010, P ROY SOC B-BIOL SCI, V277, P2559, DOI 10.1098/rspb.2010.0452
+   Kolb F, 1984, STADT ALTERTUM
+   Kostof S., 1991, CITY SHAPED URBAN PA
+   Leonard R, 1989, QUANTIFYING DIVERSIT
+   Liu J., 2009, COLLEGIA CENTONARIOR
+   Liu J., 2008, ANCIENT HIST B, V22, P53
+   Liu JY, 2013, CAMB COMP ANCIENT, P352
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   MORRIS CN, 1983, J AM STAT ASSOC, V78, P47, DOI 10.2307/2287098
+   Morris Ian, 2013, MEASURE CIVILIZATION
+   NORDBECK S, 1971, GEOGR ANAL, VB 53, P54, DOI 10.2307/490887
+   North D. C., 2009, VIOLENCE SOCIAL ORDE
+   NORTH DC, 1994, AM ECON REV, V84, P359
+   Ober J, 2015, PRINC HIST ANCIENT, P321
+   Ortman SG, 2016, J ARCHAEOL SCI, V73, P94, DOI 10.1016/j.jas.2016.07.012
+   Ortman SG, 2015, SCI ADV, V1, DOI 10.1126/sciadv.1400066
+   Ortman SG, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087902
+   Patterson J. R., 1994, COLLECTION ECOLE FRA, V198, P227
+   PLEKET H. W, 1990, HDB EUROPAISCHEN WIR, VI, P25
+   Royden H. L, 1988, MAGISTRATES ROMAN PR
+   Ruffing K., 2016, URBAN CRAFTSMEN TRAD, P115
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Smith A, 2007, INQUIRY NATURE CAUSE
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   Temin Peter, 2012, ROMAN MARKET EC
+   Tran N, 2016, URBAN CRAFTSMEN TRAD, P254
+   Van Minnen P., 1987, MUNSTERSCHE BEITRAGE, V6, P31
+   Vries De. J, 2006, EUROPEAN URBANIZATIO
+   Waltzing J.-P., 1895, ETUDE HIST CORPORATI
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Wissemann M, 1984, MUNSTERSCHE BEITRAGE, V3, P116
+NR 60
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1742-5689
+EI 1742-5662
+J9 J R SOC INTERFACE
+JI J. R. Soc. Interface
+PD NOV 1
+PY 2017
+VL 14
+IS 136
+AR 20170367
+DI 10.1098/rsif.2017.0367
+PG 12
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FO2ID
+UT WOS:000416598500002
+PM 29142013
+OA Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Yagi, A
+   Inagaki, A
+   Kanda, M
+   Fujiwara, C
+   Fujiyoshi, Y
+AF Yagi, Ayako
+   Inagaki, Atsushi
+   Kanda, Manabu
+   Fujiwara, Chusei
+   Fujiyoshi, Yasushi
+TI Nature of Streaky Structures Observed with a Doppler Lidar
+SO BOUNDARY-LAYER METEOROLOGY
+LA English
+DT Article
+DE Doppler lidar; Roll vortices; Spacing of streaky structures; Streaks
+ID TURBULENT-BOUNDARY-LAYERS; ATMOSPHERIC SURFACE-LAYER; OUTER-LAYER;
+   MODEL; FLOW; CONVECTION; ROUGHNESS; GROWTH
+AB Observations using a three-dimensional scanning coherent Doppler lidar in an urban area revealed the characteristics of streaky structures above a rough, inhomogeneous surface for a high-Reynolds-number flow. The study focused on two points: (1) the frequency of occurrence and conditions required for the presence of streaky structures, and (2) the universal scaling of the spacing of streaky structures (. The horizontal snapshots of the radial velocity were visually classified into six groups: Streak, Mixed, Fishnet, No streak, Front, and Others. The Streak category accounted for more than 50% of all possible flows and occurred when the horizontal wind speed was large and the atmospheric stratification was near-neutral. The spacing ( was estimated from the power spectral density of the streamwise velocity fluctuations along the spanwise direction. The spacing decreased with an increase in the local velocity gradient. Furthermore, it was revealed that the local velocity gradient normalized by the friction velocity and the boundary-layer height ( comprehensively predicts under various experimental and environmental conditions, in terms of the scale of motion (i.e., indoor and outdoor scales), thermal stratification (i.e., from weakly unstable to stable stratification), and surface roughness (i.e., from flat to very rough surfaces).
+C1 [Yagi, Ayako; Inagaki, Atsushi; Kanda, Manabu] Tokyo Inst Technol, Tokyo, Japan.
+   [Fujiwara, Chusei] Japan Meteorol Agcy, Meteorol Res Inst, Tsukuba, Ibaraki, Japan.
+   [Fujiyoshi, Yasushi] Hokkaido Univ, Inst Low Temp Sci, Sapporo, Hokkaido, Japan.
+RP Yagi, A (reprint author), Tokyo Inst Technol, Tokyo, Japan.
+EM yagi.a.ab@gmail.com
+FU JSPS [25249066, 26420492]; Joint Usage/Research Center for
+   Interdisciplinary Large-scale Information Infrastructures and
+   High-performance Computing Infrastructure in Japan
+FX This study was financially supported by JSPS KAKENHI Grant Numbers
+   25249066 and 26420492 and partially supported by the Joint
+   Usage/Research Center for Interdisciplinary Large-scale Information
+   Infrastructures and High-performance Computing Infrastructure in Japan.
+   We appreciate the data processing support provided by Mr. Tatsuhiro
+   Watanabe of the Institute of Low-Temperature Science at Hokkaido
+   University and the helpful explanation regarding the specifics of the
+   Doppler lidar by Mr. Taiji Harada of Mitsubishi Electric Corporation. We
+   also thank Mr. Jiro Ariba and Ms. Anqi Li, who assisted with
+   observational data analysis.
+CR Adrian RJ, 2001, KSME INT J, V15, P1741, DOI 10.1007/BF03185129
+   Barlow JF, 2011, ATMOS CHEM PHYS, V11, P2111, DOI 10.5194/acp-11-2111-2011
+   Browning K. A., 1968, J APPL METEOROL, V7, P105, DOI [10.1175/1520-0450(1968)007&LT;0105:TDOKPO&GT;2. 0. CO;2, DOI 10.1175/1520-0450(1968)007<0105:TDOKPO>2.0.CO;2, 10.1175/1520-0450(1968)007<0105:TDOKPO>2.0.CO;2]
+   Castillo MC, 2011, BOUND-LAY METEOROL, V140, P453, DOI 10.1007/s10546-011-9614-4
+   Cohn SA, 2000, J APPL METEOROL, V39, P1233, DOI 10.1175/1520-0450(2000)039<1233:BLHAEZ>2.0.CO;2
+   DEARDORFF JW, 1972, J ATMOS SCI, V29, P91, DOI 10.1175/1520-0469(1972)029<0091:NIONAU>2.0.CO;2
+   Drobinski P, 2004, J ATMOS SCI, V61, P699, DOI 10.1175/1520-0469(2004)061<0699:TSOTNA>2.0.CO;2
+   Drobinski P, 2003, BOUND-LAY METEOROL, V108, P247, DOI 10.1023/A:1024100125735
+   Drobinski P, 1998, BOUND-LAY METEOROL, V88, P343, DOI 10.1023/A:1001167212584
+   Fujiwara C, 2011, J APPL METEOROL CLIM, V50, P534, DOI 10.1175/2010JAMC2481.1
+   Fujiyoshi Y, 2009, INT S PHOT DET IM 17
+   GROSSMAN RL, 1982, BOUND-LAY METEOROL, V23, P323, DOI 10.1007/BF00121120
+   Hattori Y, 2010, BOUND-LAY METEOROL, V134, P269, DOI 10.1007/s10546-009-9451-x
+   Huda AN, 2016, BOUNDARY LA IN PRESS
+   Hunt JCR, 2000, EUR J MECH B-FLUID, V19, P673, DOI 10.1016/S0997-7546(00)00129-1
+   Hutchins N, 2007, J FLUID MECH, V579, P1, DOI 10.1017/S0022112006003946
+   Inagaki A, 2012, BOUND-LAY METEOROL, V142, P207, DOI 10.1007/s10546-011-9671-8
+   Inagaki A, 2010, BOUND-LAY METEOROL, V135, P209, DOI 10.1007/s10546-010-9477-0
+   Iwai H, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2008GL034571
+   Khanna S, 1998, J ATMOS SCI, V55, P710, DOI 10.1175/1520-0469(1998)055<0710:TDBASI>2.0.CO;2
+   Kim KC, 1999, PHYS FLUIDS, V11, P417, DOI 10.1063/1.869889
+   Lin CL, 1997, PHYS FLUIDS, V9, P3235, DOI 10.1063/1.869439
+   Marusic I, 2010, SCIENCE, V329, P193, DOI 10.1126/science.1188765
+   Mathis R, 2011, J FLUID MECH, V681, P537, DOI 10.1017/jfm.2011.216
+   MOENG CH, 1994, J ATMOS SCI, V51, P999, DOI 10.1175/1520-0469(1994)051<0999:ACOSAB>2.0.CO;2
+   Muller G, 1999, MON WEATHER REV, V127, P363, DOI 10.1175/1520-0493(1999)127<0363:RCWAAC>2.0.CO;2
+   Newsom R, 2008, BOUND-LAY METEOROL, V127, P111, DOI 10.1007/s10546-007-9243-0
+   Stull R.B., 1988, INTRO BOUNDARY LAYER
+   SYKES RI, 1989, J ATMOS SCI, V46, P1106, DOI 10.1175/1520-0469(1989)046<1106:LESOTS>2.0.CO;2
+   Takimoto H, 2013, BOUND-LAY METEOROL, V147, P217, DOI 10.1007/s10546-012-9790-x
+   Tomkins CD, 2003, J FLUID MECH, V490, P37, DOI 10.1017/S0022112003005251
+   Traumner K, 2015, BOUND-LAY METEOROL, V154, P1, DOI 10.1007/s10546-014-9967-6
+   WALTER BA, 1980, MON WEATHER REV, V108, P2024, DOI 10.1175/1520-0493(1980)108<2024:WOORCO>2.0.CO;2
+   Weckwerth TM, 1997, MON WEATHER REV, V125, P505, DOI 10.1175/1520-0493(1997)125<0505:HCRDTE>2.0.CO;2
+   WOODCOCK A H, 1975, Boundary-Layer Meteorology, V9, P63
+   Zhou J, 1999, J FLUID MECH, V387, P353, DOI 10.1017/S002211209900467X
+NR 36
+TC 2
+Z9 2
+U1 2
+U2 5
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-8314
+EI 1573-1472
+J9 BOUND-LAY METEOROL
+JI Bound.-Layer Meteor.
+PD APR
+PY 2017
+VL 163
+IS 1
+BP 19
+EP 40
+DI 10.1007/s10546-016-0213-2
+PG 22
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA EN5HX
+UT WOS:000396037300002
+DA 2019-03-26
+ER
+
+PT J
+AU Sheng, QH
+   Zhang, B
+AF Sheng, Qing H.
+   Zhang, Bin
+TI Absolute Orientation Based on Line Coordinates
+SO PHOTOGRAMMETRIC RECORD
+LA English
+DT Article
+DE absolute orientation; coordinate transformation; displacement operator;
+   georeferencing; line coordinates; photogrammetry
+ID DUAL QUATERNIONS; STRAIGHT-LINES; LIDAR DATA; REGISTRATION;
+   RECONSTRUCTION; IMAGERY; FEATURES
+AB Absolute orientation based on points is a common method of precise georeferencing in photogrammetry. In images of urban areas, straight-line features such as buildings are prominent. A new absolute orientation approach dependent on line coordinates is proposed in this paper. An arbitrary spatial line can be described by its orientation vector and moment vector. Using the helical scaling displacement operator, the transformation of straight lines in model space and their corresponding control straight lines in object space can be achieved. Experimental results show that with eight control straight lines, the proposed approach is comparable to the precision of absolute orientation using four control points. Furthermore, the endpoints of corresponding line segments in the two spaces are not required to be conjugate points.
+C1 [Sheng, Qing H.; Zhang, Bin] Nanjing Univ Aeronaut & Astronaut, Nanjing, Jiangsu, Peoples R China.
+RP Zhang, B (reprint author), Nanjing Univ Aeronaut & Astronaut, Nanjing, Jiangsu, Peoples R China.
+EM qhsheng@nuaa.edu.cn; 642934470@qq.com
+FU National Natural Science Foundation of China [41101441, 41471381]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under grants 41101441 and 41471381. The authors
+   would like to thank Sa Shao for her assistance in translating the
+   article.
+CR ABIDI MA, 1995, IEEE T PATTERN ANAL, V17, P534, DOI 10.1109/34.391388
+   Akyar B, 2008, TURK J MATH, V32, P373
+   Chen M, 2013, PHOTOGRAMM ENG REM S, V79, P753, DOI 10.14358/PERS.79.8.753
+   FUNDA J, 1990, IEEE T ROBOTIC AUTOM, V6, P382, DOI 10.1109/70.56658
+   Gerke M., 2009, INT ARCH PHOTOGRAMME, VXXXVIII-1-4-7
+   Habib A, 2005, PHOTOGRAMM ENG REM S, V71, P699, DOI 10.14358/PERS.71.6.699
+   Habib A, 2003, PHOTOGRAMM REC, V18, P244, DOI 10.1111/0031-868X.t01-1-00010
+   Habib AF, 2002, PHOTOGRAMM REC, V17, P635, DOI 10.1111/0031-868X.00211
+   Habib AF, 2004, PHOTOGRAMM REC, V19, P5, DOI 10.1111/j.0031-868X.2003.00254.x
+   Hui FM, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8030242
+   Lasenby J, 1998, INT J COMPUT VISION, V26, P191, DOI 10.1023/A:1007901028047
+   Li C., 2012, LECT NOTES ELECT ENG, V172, P77
+   Li D. R., 1994, ACTA GEODAETICA CART, V23, P267
+   Liu SJ, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8020082
+   Long TF, 2015, ISPRS J PHOTOGRAMM, V102, P161, DOI 10.1016/j.isprsjprs.2015.01.015
+   Marcato J, 2013, ISPRS J PHOTOGRAMM, V79, P219, DOI 10.1016/j.isprsjprs.2013.02.018
+   ROONEY J, 1978, ENVIRON PLANN B, V5, P45, DOI 10.1068/b050045
+   Sheng QH, 2015, PHOTOGRAMM REC, V30, P300, DOI 10.1111/phor.12111
+   Shevlin F, 1998, INT C PATT RECOG, P685, DOI 10.1109/ICPR.1998.711236
+   Sun YB, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8030213
+   Tommaselli AMG, 2012, PHOTOGRAMM FERNERKUN, P129, DOI 10.1127/1432-8364/2012/0107
+   Tommaselli AMG, 2010, PHOTOGRAMM REC, V25, P159, DOI 10.1111/j.1477-9730.2010.00572.x
+   van den Heuvel FA, 1998, P SOC PHOTO-OPT INS, V3641, P60, DOI 10.1117/12.333798
+   Veldhuis H, 1998, ISPRS J PHOTOGRAMM, V53, P6, DOI 10.1016/S0924-2716(97)00031-2
+   Wolff L. B., 1989, Proceedings of the SPIE - The International Society for Optical Engineering, V1003, P132
+   Wu B, 2013, EARTH PLANET SC LETT, V364, P68, DOI 10.1016/j.epsl.2012.12.024
+   Zhang YJ, 2011, ISPRS J PHOTOGRAMM, V66, P700, DOI 10.1016/j.isprsjprs.2011.06.001
+   Zhu LL, 2015, REMOTE SENS-BASEL, V7, P6710, DOI 10.3390/rs70606710
+NR 28
+TC 2
+Z9 2
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0031-868X
+EI 1477-9730
+J9 PHOTOGRAMM REC
+JI Photogramm. Rec.
+PD MAR
+PY 2017
+VL 32
+IS 157
+BP 12
+EP 32
+DI 10.1111/phor.12178
+PG 21
+WC Geography, Physical; Geosciences, Multidisciplinary; Remote Sensing;
+   Imaging Science & Photographic Technology
+SC Physical Geography; Geology; Remote Sensing; Imaging Science &
+   Photographic Technology
+GA EQ1AE
+UT WOS:000397800900003
+DA 2019-03-26
+ER

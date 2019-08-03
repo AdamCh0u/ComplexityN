@@ -1,0 +1,466 @@
+
+PT J
+AU Deshmukh, P
+AF Deshmukh, Pradeep
+TI Design of cloud security in the EHR for Indian healthcare services
+SO JOURNAL OF KING SAUD UNIVERSITY-COMPUTER AND INFORMATION SCIENCES
+LA English
+DT Article
+DE Cloud computing; EHR; Encryption; Decryption; Cloud security; Health
+   record
+ID PRIVACY
+AB An ease of data or record sharing at will has compelled most of the physicians to adopt EHR (Electronic Health Record) for record-keeping of patients. It also makes convenient to the other stake holders of healthcare ecosystem such as nurses, specialists and patient. Due to lower costs and scalability of application, the cloud is becoming the infrastructure for most of the EHR but without comprising the privacy of data. In this paper we have proposed a frame work for storing the health records and accessing them by patients and physicians as authorized by key-control scheme. The scenarios we have considered here are of rural and urban health care centers and hence more appropriate for Indian health care services. The proposed scheme has double data security by introducing isolation between encryption schemes of transmitted data and stored data. The experimental result shows that it has a capability of scaling in number of patients and also no of elements in health record. (C) 2016 King Saud University. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Deshmukh, Pradeep] Rajarshi Shahu Coll Engn, Pune 33, Maharashtra, India.
+RP Deshmukh, P (reprint author), Rajarshi Shahu Coll Engn, Pune 33, Maharashtra, India.
+CR Benaloh J, 2009, P 2009 ACM WORKSH CL, P103, DOI DOI 10.1145/1655008.1655024
+   Butler D, 2007, NATURE, V449, P644, DOI 10.1038/449644a
+   Deyan Chen, 2012, Proceedings of the 2012 International Conference on Computer Science and Electronics Engineering (ICCSEE 2012), P647, DOI 10.1109/ICCSEE.2012.193
+   Domingo-Ferrer Josep, 2002, P 5 INT C INF SEC
+   Feldman L, 2012, LANCET, V379, P1877, DOI 10.1016/S0140-6736(12)60809-5
+   Geoghegan S., 2012, LAW ORDER, P24
+   Hu HB, 2011, PROC INT CONF DATA, P601, DOI 10.1109/ICDE.2011.5767862
+   Hu JK, 2010, COMPUT STAND INTER, V32, P274, DOI 10.1016/j.csi.2009.04.005
+   Huan-Chung Li, 2010, Proceedings 2010 IEEE 7th International Conference on e-Business Engineering (ICEBE 2010), P490, DOI 10.1109/ICEBE.2010.77
+   Lee WB, 2008, IEEE T INF TECHNOL B, V12, P34, DOI 10.1109/TITB.2007.906101
+   Minqi Zhou, 2010, Proceedings 2010 Sixth International Conference on Semantics Knowledge and Grid (SKG 2010), P105, DOI 10.1109/SKG.2010.19
+   Mitchley M., 2006, CREDIT MANAGE, P10
+   Oza Nilay, 2010, Proceedings of the 2010 IEEE 2nd International Conference on Cloud Computing Technology and Science (CloudCom 2010), P621, DOI 10.1109/CloudCom.2010.114
+   Popovic Kresimir, 2010, 2010 33rd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), P344
+   Sahafizadeh Ebrahim, 2010, 2010 2 INT C FUT COM, V1, pV1
+   Sarathy R, 2006, DECIS SUPPORT SYST, V42, P204, DOI 10.1016/j.dss.2004.10.013
+   SZOLOVITS P, 1994, GUARDIAN ANGEL PATIE
+   Takabi H, 2010, IEEE SECUR PRIV, V8, P24, DOI 10.1109/MSP.2010.186
+   Wang JS, 2011, IEEE SYS MAN CYBERN, P1405, DOI 10.1109/ICSMC.2011.6083866
+   Xiao ZF, 2013, IEEE COMMUN SURV TUT, V15, P843, DOI 10.1109/SURV.2012.060912.00182
+   Yu WD, 2007, HEALTHCOM 2007: UBIQUITOUS HEALTHCARE IN AGING SOCIETIES, P11
+   Yu-Hui Wang, 2011, Proceedings of the 2011 Seventh International Conference on Networked Computing and Advanced Information Management (NCM), P303
+   Zhidong Shen, 2010, Proceedings of the 2010 International Conference on Intelligent Computation Technology and Automation (ICICTA 2010), P942, DOI 10.1109/ICICTA.2010.724
+NR 23
+TC 2
+Z9 2
+U1 1
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1319-1578
+EI 2213-1248
+J9 J KING SAUD UNIV-COM
+JI J. King Saud Univ.-Comput. Inf. Sci.
+PD JUL
+PY 2017
+VL 29
+IS 3
+BP 281
+EP 287
+DI 10.1016/j.jksuci.2016.01.002
+PG 7
+WC Computer Science, Information Systems
+SC Computer Science
+GA EY8GV
+UT WOS:000404233700005
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Jafarzadeh, N
+   Ravanbakhsh, M
+   Angali, KA
+   Javid, AZ
+   Abadi, DRV
+   Ardeshirzadeh, S
+AF Jafarzadeh, Nematollah
+   Ravanbakhsh, Maryam
+   Angali, Kambis Ahmadi
+   Javid, Ahmad Zare
+   Abadi, Darioush Ranjbar Vakil
+   Ardeshirzadeh, Shirin
+TI Evaluation of drinking water quality indices (case study: Bushehr
+   province, Iran)
+SO ENVIRONMENTAL HEALTH ENGINEERING AND MANAGEMENT JOURNAL
+LA English
+DT Article
+DE Bushehr; Water corrosiveness; Scale formation; Saturation index
+AB Background: Internal corrosion and the formation of scale in water distribution pipes are the most important problems for an urban water distribution system. Physical, chemical, or biological factors can lead to these two processes. Internal corrosion and scale formation can impact health, economy, and aesthetics. This study assessed the physicochemical quality parameters and evaluated the potential for corrosion and scale formation in drinking water at the distribution systems of 5 selected cities in Bushehr province (Kangan, Dashtestan, Dashti, Bushehr, and Ganaveh) from 2009-2012.
+   Methods: This study was carried out based on laboratory data collected from monthly samplings of tap water in the Water and Wastewater Company of Bushehr province during the years 2009-2012. Internal corrosion and scale formation rates were calculated using the Ryznar, Langelier, Aggressive, and Puckorius indices.
+   Results: The results of the Ryznar, Puckorius, Aggressive and Langelier indices indicated that the drinking water in the 5 selected cities of Bushehr province was corrosive. Moreover, the majority of parameters used to determine water quality exceeded Iran's national standards.
+   Conclusion: It is concluded that there is problem of water corrosion and scaling in drinking water of distribution systems in selected cities.
+C1 [Jafarzadeh, Nematollah; Ravanbakhsh, Maryam] Ahvaz Jundishapur Univ Med Sci, Sch Publ Hlth, Dept Environm Hlth Engn, Environm Hlth Engn, Ahwaz, Iran.
+   [Jafarzadeh, Nematollah] Ahvaz Jundishapur Univ Med Sci, Environm Technol Res Ctr, Environm Hlth Engn, Ahwaz, Iran.
+   [Ravanbakhsh, Maryam] Ahvaz Jundishapur Univ Med Sci, Environm Hlth Engn, Student Res Comm, Ahwaz, Iran.
+   [Angali, Kambis Ahmadi] Ahvaz Jundishapur Univ Med Sci, Dept Biostat, Biostat, Ahwaz, Iran.
+   [Javid, Ahmad Zare] Ahvaz Jundishapur Univ Med Sci, Nutr & Metab Dis Res Ctr, Nutr Sci, Ahwaz, Iran.
+   [Javid, Ahmad Zare] Ahvaz Jundishapur Univ Med Sci, Hyperlipidemia Res Ctr, Nutr Sci, Ahwaz, Iran.
+   [Abadi, Darioush Ranjbar Vakil] Bushehr Univ Med Sci, Sch Publ Hlth, Dept Environm Hlth Engn, Environm Hlth Engn, Bushehr, Iran.
+   [Ardeshirzadeh, Shirin] Cleveland Clin Fdn, Family Med Dept, 9500 Euclid Ave, Cleveland, OH 44195 USA.
+RP Ravanbakhsh, M (reprint author), Ahvaz Jundishapur Univ Med Sci, Sch Publ Hlth, Dept Environm Hlth Engn, Environm Hlth Engn, Ahwaz, Iran.; Ravanbakhsh, M (reprint author), Ahvaz Jundishapur Univ Med Sci, Environm Hlth Engn, Student Res Comm, Ahwaz, Iran.
+EM mapseh@gmail.com
+FU Ahvaz Jundishapur University of Medical Sciences
+FX This research was supported by the Deputy of Research and Technology,
+   Ahvaz Jundishapur University of Medical Sciences. The authors hereby
+   express their gratitude.
+CR Agatemor Christian, 2008, Environmentalist, V28, P379, DOI 10.1007/s10669-007-9152-2
+   Al-Rawaifeh AE, 2007, DESALINATION, V206, P322, DOI 10.1016/j.desal.2006.01.039
+   Al-Rawajfeh AE, 2007, DESALINATION, V206, P169, DOI 10.1016/j.desal.2006.02.065
+   APHA (American Public Health Association), 1998, STAND METH EX WAT WA
+   Atasoy AD, 2010, ENVIRON MONIT ASSESS, V166, P595, DOI 10.1007/s10661-009-1026-2
+   Azari A, 2016, J SABZEVAR U MED SCI, V22, P944
+   Dietrich AM, 2004, WATER SCI TECHNOL, V49, P55
+   Ebrahimi A, 2012, HLTH SYSTEM RES, V8, P480
+   Ghaneian M, 2008, TOLOO E BEHDASHT, V7, P65
+   Husband PS, 2011, WATER RES, V45, P113, DOI 10.1016/j.watres.2010.08.021
+   Jaafarzadeh Haghighi Fard N, 2008, J JUNDISHAPOUR U MED, V6, P227
+   Koch GH, 2002, COST CORROSION STUDY
+   Mahvi A, 2011, MED J HORMOZGAN U, V14, P335
+   Malakootian M, 2012, TOLOO E BEHDASHT, V11, P1
+   Malakootian M., 2012, J RAFSANJAN U MED SC, V11, P403
+   Mokhtari S, 2010, J HLTH ARDABIL U MED, V1, P14
+   Motesaddi Zarandi S, 2015, J N KHORASAN U MED, V6, P913
+   Nawrocki J, 2010, WATER RES, V44, P1863, DOI 10.1016/j.watres.2009.12.020
+   Nazemie S, 2013, 16 NAT ENV HLTH C OC
+   Pierre RR, 2006, CORROSION BASICS INT
+   Rabbani D, 2008, Pak J Biol Sci, V11, P131
+   Rabbani D, 2011, FEYZ, V15, P382
+   Ravikumar P, 2013, APPL WATER SCI, V3, P247, DOI 10.1007/s13201-013-0077-2
+   Roberge P., 1999, HDB CORROSION ENG
+   Samaei MR, 2008, J TOLOO E BEHDASHT, V6, P50
+   Sarin P, 2004, WATER RES, V38, P1259, DOI 10.1016/j.watres.2003.11.022
+   Savari J, 2007, WATER WASTEWATER, V18, P16
+   Savari J, 2008, WATER WASTEWATER J, V18, P16
+   Schock M., 1999, WATER QUALITY TREATM, P1
+   Selvam S, 2014, ENVIRON EARTH SCI, V71, P2847, DOI 10.1007/s12665-013-2662-y
+   Shabankareh Fard E, 2015, IRANIAN S MED J, V17, P1223
+   Singley JE, 1985, CORROSION PREVENTION
+   Teimouri F, 2012, J HLTH SYSTEM RES, V8, P78
+   VERMILYEA DA, 1973, CORROSION-US, V29, P442, DOI 10.5006/0010-9312-29.11.442
+   White C, 2011, APPL ENVIRON MICROB, V77, P5557, DOI 10.1128/AEM.02446-10
+   Zazouli M, 2013, J MAZANDARAN U MED S, V22, P100
+   Zhang Z, 2008, WATER RES, V42, P129, DOI 10.1016/j.watres.2007.07.054
+NR 37
+TC 0
+Z9 0
+U1 1
+U2 1
+PU KERMAN UNIV MEDICAL SCIENCES
+PI KERMAN
+PA JAHAD BLVD, KERMAN, 7619813159, IRAN
+SN 2423-3765
+EI 2423-4311
+J9 ENV HEALTH ENG MANAG
+JI Environ. Health Eng. Manag.
+PD SPR
+PY 2017
+VL 4
+IS 2
+BP 73
+EP 79
+DI 10.15171/EHEM.2017.11
+PG 7
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA VH8LY
+UT WOS:000456038800002
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Scarano, M
+   Mancini, F
+AF Scarano, M.
+   Mancini, F.
+TI Assessing the relationship between sky view factor and land surface
+   temperature to the spatial resolution
+SO INTERNATIONAL JOURNAL OF REMOTE SENSING
+LA English
+DT Article
+ID URBAN HEAT-ISLAND; AIR-TEMPERATURE; RETRIEVAL; INDEX; AREA
+AB This article compares the land surface temperature (LST) and sky view factor (SVF) as indicator of the impact of urban morphology on the urban heat island effect. For this purpose, the work investigates the dependence of this relationship to spatial resolutions varying from coarse to very fine and related scaling effect. For this purpose, several daytime Landsat 8, Advanced Spaceborne Thermal Emission and Reflection Radiometer and airborne TASI-600 images acquired in different months of the year were used to retrieve LST. Moreover, a three-dimensional building vector database was used to produce SVF maps at different spatial resolutions, according to the thermal ones. The results show a positive relationship between LST and SVF; these trends are almost super-imposable for same-sensor images, but vary for images at different resolutions. This is likely due to the interference on the SVF and LST values of micro-scale factors, e.g. thermal properties of building materials, anthropogenic heat, humidity and pollutants, and others, which in a macro-scale analysis are smoothed becoming irrelevant. Therefore, a digital database able to represent urban features at suitable spatial scale is a requirement for a reliable analysis. In particular, when airborne thermal data are used, the lack of a reliable cartographic digital data could represent a limiting factor. Specifically, the data set used in the computation of SVF and other geographical parameters involved in the LST assessment should be consistent with the resolution of airborne thermal data.
+C1 [Scarano, M.] Univ Naples Parthenope, Dept Sci & Technol, I-80133 Naples, Italy.
+   [Mancini, F.] Univ Modena & Reggio Emilia, Dept Engn Enzo Ferrari, Modena, Italy.
+RP Scarano, M (reprint author), Univ Naples Parthenope, Dept Sci & Technol, I-80133 Naples, Italy.
+EM mario.scarano@uniparthenope.it
+RI Mancini, Francesco/L-2937-2015
+OI Mancini, Francesco/0000-0002-8553-345X
+CR BARRING L, 1985, J CLIMATOL, V5, P433
+   Berk A., 2003, MODTRAN4 VERSION 3 R
+   Bohner J, 2009, DEV SOIL SCI, V33, P195, DOI 10.1016/S0166-2481(08)00008-1
+   Brown M., 2001, LAUR011424
+   Brown M. J., 2001, P 2001 INT S ENV HYD
+   Chander G, 2009, INT J REMOTE SENS, V30, P1621, DOI 10.1080/01431160802524545
+   Chen L, 2012, INT J CLIMATOL, V32, P121, DOI 10.1002/joc.2243
+   Chen XL, 2006, REMOTE SENS ENVIRON, V104, P133, DOI 10.1016/j.rse.2005.11.016
+   DOZIER J, 1981, COMPUT GEOSCI, V7, P145, DOI 10.1016/0098-3004(81)90026-1
+   ELIASSON I, 1992, INT J REMOTE SENS, V13, P869, DOI 10.1080/01431169208904160
+   Eliasson I, 1996, ATMOS ENVIRON, V30, P379, DOI 10.1016/1352-2310(95)00033-X
+   Eliasson I., 1990, ENERG BUILDINGS, V1516
+   Gal T, 2009, THEOR APPL CLIMATOL, V95, P111, DOI 10.1007/s00704-007-0362-9
+   Gillespie A, 1998, IEEE T GEOSCI REMOTE, V36, P1113, DOI 10.1109/36.700995
+   Gillies R. R., 1995, J APPL METEOROLOGY, V34, DOI [10.1175/1520-0450(1995)0340745:TROSS2.0.CO;2, DOI 10.1175/1520-0450(1995)0340745:TROSS2.0.CO;2]
+   Goh K. C., 1999, INT J CLIMATOLOGY, V19, DOI [10.1002/(SICI)1097-0088(199907)19:91011::AID-JOC4113.0.CO;2-U, DOI 10.1002/(SICI)1097-0088(199907)19:91011::AID-JOC4113.0.CO;2-U]
+   Hantzschel J, 2005, METEOROL APPL, V12, P33, DOI 10.1017/S1350482705001489
+   Helbig N, 2014, J GEOPHYS RES-ATMOS, V119, P4616, DOI 10.1002/2013JD020892
+   Ho HC, 2014, REMOTE SENS ENVIRON, V154, P38, DOI 10.1016/j.rse.2014.08.012
+   Jimenez-Munoz JC, 2009, IEEE T GEOSCI REMOTE, V47, P339, DOI 10.1109/TGRS.2008.2007125
+   JOHNSON DB, 1985, J CLIMATOL, V5, P221, DOI 10.1002/joc.3370050208
+   Kokalj Z, 2011, ANTIQUITY, V85, P263
+   Landsberg Helmut E., 1981, URBAN CLIMATE
+   Li JX, 2011, REMOTE SENS ENVIRON, V115, P3249, DOI 10.1016/j.rse.2011.07.008
+   Lindberg F., 2003, P 5 INT C URB CLIM, V1
+   Lindberg F, 2011, URBAN ECOSYST, V14, P617, DOI 10.1007/s11252-011-0184-5
+   McVicar TR, 1998, AGR SYST, V57, P399, DOI 10.1016/S0308-521X(98)00026-2
+   NUNEZ M, 1977, J APPL METEOROL, V16, P11, DOI 10.1175/1520-0450(1977)016<0011:TEBOAU>2.0.CO;2
+   Oke T. R., 2006, 81 WORLD MET ORG
+   Oke T. R., 2000, BOUNDARY LAYER CLIMA
+   Oke T. R., 1988, ENERG BUILDINGS, V11, DOI [10.1016/0378-7788(88)90026-6, DOI 10.1016/0378-7788(88)90026-6]]
+   Oke T. R., 1975, ATMOS ENVIRON, V9
+   OKE TR, 1987, BOUNDARY LAYER CLIMA
+   Park H.S., 1987, ENV RES CTR PAPERS, V11
+   Qin Z., 2010, INT J REMOTE SENS, V22, P3719, DOI [10.1080/01431160010006971, DOI 10.1080/01431160010006971]
+   Rasmus S, 2013, HYDROL PROCESS, V27, P2876, DOI 10.1002/hyp.9432
+   Santos I. G., 2003, P 5 INT C URB CLIM, V2
+   Scarano M, 2015, INT J REMOTE SENS, V36, P4820, DOI 10.1080/01431161.2015.1070325
+   Sobrino JA, 2012, INT J APPL EARTH OBS, V18, P141, DOI 10.1016/j.jag.2012.01.022
+   Sobrino J. A., 2006, TELEDETECCION
+   Sobrino JA, 2004, REMOTE SENS ENVIRON, V90, P434, DOI 10.1016/j.rse.2004.02.003
+   Svensson MK, 2004, METEOROL APPL, V11, P201, DOI 10.1017/S1350482704001288
+   Unger J, 2004, CLIMATE RES, V27, P253, DOI 10.3354/cr027253
+   Upmanis H., 1999, INFLUENCE PARKS LOCA, pA 43
+   Upmanis H., 1998, INT J CLIMATOLOGY, V18, DOI [10.1002/(SICI)1097-0088(199805)18:6681::AID-JOC2893.0.CO;2-L, DOI 10.1002/(SICI)1097-0088(199805)18:6681::AID-JOC2893.0.CO;2-L]
+   Vieira H., 2003, P 5 INT C URB CLIM, V2
+   WATSON ID, 1987, J CLIMATOL, V7, P193, DOI 10.1002/joc.3370070210
+   Weng QH, 2012, REMOTE SENS ENVIRON, V117, P34, DOI 10.1016/j.rse.2011.02.030
+   Wong MS, 2011, LANDSCAPE URBAN PLAN, V102, P245, DOI 10.1016/j.landurbplan.2011.05.003
+   Yamashita S., 1986, ATMOS ENVIRON, V20
+   Yuan F, 2007, REMOTE SENS ENVIRON, V106, P375, DOI 10.1016/j.rse.2006.09.003
+   Zaksek K, 2011, REMOTE SENS-BASEL, V3, P398, DOI 10.3390/rs3020398
+NR 52
+TC 1
+Z9 1
+U1 2
+U2 13
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0143-1161
+EI 1366-5901
+J9 INT J REMOTE SENS
+JI Int. J. Remote Sens.
+PY 2017
+VL 38
+IS 23
+BP 6910
+EP 6929
+DI 10.1080/01431161.2017.1368099
+PG 20
+WC Remote Sensing; Imaging Science & Photographic Technology
+SC Remote Sensing; Imaging Science & Photographic Technology
+GA FJ2HN
+UT WOS:000412545900024
+DA 2019-03-26
+ER
+
+PT J
+AU Maamary, R
+   Fertein, E
+   Fourmentin, M
+   Dewaele, D
+   Cazier, F
+   Chen, CS
+   Chen, WD
+AF Maamary, Rabih
+   Fertein, Eric
+   Fourmentin, Marc
+   Dewaele, Dorothee
+   Cazier, Fabrice
+   Chen, Changshui
+   Chen, Weidong
+TI Effective line intensity measurements of trans-nitrous acid (HONO) of
+   the nu(1) band near 3600 cm(-1) using laser difference-frequency
+   spectrometer
+SO JOURNAL OF QUANTITATIVE SPECTROSCOPY & RADIATIVE TRANSFER
+LA English
+DT Article
+DE HONO; Line intensity; infrared; DFG; QCL; Cross-measurement; Optical
+   monitoring
+ID ABSORPTION CROSS-SECTIONS; ATMOSPHERIC HONO; URBAN ATMOSPHERE;
+   SPECTROSCOPY; NO2; DIODE; ULTRAVIOLET; PHOTOLYSIS
+AB We report on the measurements of the effective line intensities of the nu(1) fundamental band of trans nitrous acid (trans-HONO) in the infrared near 3600 cm(-1) (2.78 mu m). A home-made widely tunable laser spectrometer based on difference-frequency generation (DFG) was used for this study. The strengths of 28 well-resolved absorption lines of the nu(1) band were determined by scaling their absorption intensities to the well referenced absorption line intensity of the nu(3) band of trans-HONO around 1250 cm(-1) recorded simultaneously with the help of a DFB quantum cascade laser (QCL) spectrometer. The maximum measurement uncertainty of 12% in the line intensities is mainly determined by the uncertainty announced in the referenced line intensities, while the measurement precision in frequency positions of the absorption lines is better than 6 x 10(-4) cm(-1). The cross-measurement carried out in the present work allows one to perform intensity calibration using well referenced line parameters. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Maamary, Rabih; Fertein, Eric; Fourmentin, Marc; Chen, Weidong] Univ Littoral Cote dOpale, Lab Physicochim Atmosphere, F-59140 Dunkerque, France.
+   [Dewaele, Dorothee; Cazier, Fabrice] Univ Littoral Cote dOpale, Ctr Common Mesures, F-59140 Dunkerque, France.
+   [Chen, Changshui] South China Normal Univ, Sch Informat Optoelect Sci & Engn, Guangzhou 510631, Guangdong, Peoples R China.
+   [Maamary, Rabih] Univ Reims, Grp Spectrometrie Mol & Atmospher, UMR CNRS 7331, F-51687 Reims, France.
+RP Chen, WD (reprint author), Univ Littoral Cote dOpale, Lab Physicochim Atmosphere, F-59140 Dunkerque, France.
+EM chen@univ-littoral.fr
+FU French Agence Nationale de la Recherche (ANR) under the LABEX-CaPPA
+   [ANR-10-LABX-005]
+FX The authors acknowledge financial support from the French Agence
+   Nationale de la Recherche (ANR) under the LABEX-CaPPA (ANR-10-LABX-005)
+   contract. The authors would like to thank Professor Agnes Perrin from
+   the Laboratoire de Metrologie Dynamique (LMD UMR 8539) for her helpful
+   discussion and advice throughout this experimental work.
+CR Acker K, 2006, GEOPHYS RES LETT, V33, DOI 10.1029/2005GL024643
+   Alicke B, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2001JD000579
+   ALVAREZ EG, 2012, ENVIRON SCI TECHNOL, V46, P1955, DOI DOI 10.1021/ES2019675
+   BECKER KH, 1995, GEOPHYS RES LETT, V22, P2485, DOI 10.1029/95GL02471
+   BECKETT WS, 1995, ENVIRON HEALTH PERSP, V103, P372, DOI 10.2307/3432291
+   BONGARTZ A, 1991, J PHYS CHEM-US, V95, P1076, DOI 10.1021/j100156a012
+   CALVERT JG, 1994, RES CHEM INTERMEDIAT, V20, P463, DOI 10.1163/156856794X00423
+   Chen W, 2008, APPL PHYS B-LASERS O, V90, P311, DOI 10.1007/s00340-007-2858-5
+   Chen W., 2013, WONDER NANOTECHNOLOG, P693
+   Chen WD, 2007, CR PHYS, V8, P1129, DOI 10.1016/j.crhy.2007.09.011
+   Cui XJ, 2016, J QUANT SPECTROSC RA, V182, P277, DOI 10.1016/j.jqsrt.2016.06.014
+   Cui XJ, 2012, J QUANT SPECTROSC RA, V113, P1300, DOI 10.1016/j.jqsrt.2011.11.008
+   FERM M, 1985, ATMOS ENVIRON, V19, P979, DOI 10.1016/0004-6981(85)90243-4
+   Finlayson-Pitts B. J., 1986, ATMOSPHERIC CHEM FUN
+   Finlayson-Pitts B. J., 2000, CHEM UPPER LOWER ATM
+   Gherman T, 2008, ENVIRON SCI TECHNOL, V42, P890, DOI 10.1021/es0716913
+   Gomez Alvarez E, 2013, P NATL ACAD SCI USA, V110, P13294, DOI 10.1073/pnas.1308310110
+   Gratien A, 2009, J QUANT SPECTROSC RA, V110, P256, DOI 10.1016/j.jqsrt.2008.11.003
+   GUILMOT JM, 1990, J MOL SPECTROSC, V143, P81, DOI 10.1016/0022-2852(90)90262-O
+   Jacquinet-Husson N, 2008, J QUANT SPECTROSC RA, V109, P1043, DOI 10.1016/j.jqsrt.2007.12.015
+   Jundt DH, 1997, OPT LETT, V22, P1553, DOI 10.1364/OL.22.001553
+   KAGANN RH, 1983, J QUANT SPECTROSC RA, V30, P37, DOI 10.1016/0022-4073(83)90071-7
+   Lee BH, 2012, J QUANT SPECTROSC RA, V113, P1905, DOI 10.1016/j.jqsrt.2012.06.004
+   Lee BH, 2011, APPL PHYS B-LASERS O, V102, P417, DOI 10.1007/s00340-010-4266-5
+   Li X, 2012, ATMOS CHEM PHYS, V12, P1497, DOI 10.5194/acp-12-1497-2012
+   Li YQ, 2008, GEOPHYS RES LETT, V35, DOI 10.1029/2007GL031218
+   PLATT U, 1980, NATURE, V285, P312, DOI 10.1038/285312a0
+   Platt U, 2008, DIFFER OPT ABSORPT S, P77
+   Platt U, 1986, CHEM MULTIPHASE ATMO, P299
+   Ramazan KA, 2004, PHYS CHEM CHEM PHYS, V6, P3836, DOI 10.1039/b402195a
+   RASMUSSEN TR, 1995, AM J RESP CRIT CARE, V151, P1504, DOI 10.1164/ajrccm.151.5.7735607
+   Rothman LS, 2013, J QUANT SPECTROSC RA, V130, P4, DOI 10.1016/j.jqsrt.2013.07.002
+   Schiller CL, 2001, J ATMOS CHEM, V40, P275, DOI 10.1023/A:1012264601306
+   Stemmler K, 2006, NATURE, V440, P195, DOI 10.1038/nature04603
+   Stutz J, 2000, J GEOPHYS RES-ATMOS, V105, P14585, DOI 10.1029/2000JD900003
+   Stutz J, 2010, ATMOS ENVIRON, V44, P4090, DOI 10.1016/j.atmosenv.2009.02.003
+   Su H, 2011, SCIENCE, V333, P1616, DOI 10.1126/science.1207687
+   Wang LM, 2000, ENVIRON SCI TECHNOL, V34, P4221, DOI 10.1021/es0011055
+   Wu T, 2012, APPL PHYS B-LASERS O, V106, P501, DOI 10.1007/s00340-011-4818-3
+   Wu T, 2014, ATMOS ENVIRON, V95, P544, DOI 10.1016/j.atmosenv.2014.07.016
+   Yi H, 2015, APPL PHYS LETT, V106
+   Yi HM, 2016, OPT EXPRESS, V24, DOI 10.1364/OE.24.00A781
+   Zhang N, 2009, GEOPHYS RES LETT, V36, DOI 10.1029/2009GL038999
+   Zhou XL, 2011, NAT GEOSCI, V4, P440, DOI [10.1038/ngeo1164, 10.1038/NGEO1164]
+NR 44
+TC 0
+Z9 0
+U1 3
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0022-4073
+EI 1879-1352
+J9 J QUANT SPECTROSC RA
+JI J. Quant. Spectrosc. Radiat. Transf.
+PD JUL
+PY 2017
+VL 196
+BP 69
+EP 77
+DI 10.1016/j.jqsrt.2017.03.041
+PG 9
+WC Optics; Spectroscopy
+SC Optics; Spectroscopy
+GA EY1RE
+UT WOS:000403742200006
+DA 2019-03-26
+ER
+
+PT J
+AU Songvorawit, N
+   Butcher, BA
+   Chaisuekul, C
+AF Songvorawit, Nut
+   Butcher, Buntika Areekul
+   Chaisuekul, Chatchawan
+TI Different allometric intercepts in major Aegus chelifer chelifer stag
+   beetle males from urban and forest habitats
+SO JOURNAL OF ASIA-PACIFIC ENTOMOLOGY
+LA English
+DT Article
+DE Population; Piecewise model; Mandible
+ID ACUMINATUS COLEOPTERA SCARABAEIDAE; HORNED BEETLE; ARTIFICIAL SELECTION;
+   MALE-DIMORPHISM; LUCANIDAE; LENGTH; MORPHOLOGIES; TACTICS; SIZE; L.
+AB Many insects, including stag beetles, possess exaggerated structures and these structures usually grow disproportionately with their body size. Allometry, i.e. the scaling relationship between such traits and other body parts (used as proxies of body size in a species), can provide valuable information about development and evolution. We examined males of Aegus chelifer chelifer, a stag beetle from forest and urban habitats in Thailand to clarify the allometric relationship between weapon (mandible) and body (elytra) size. The relationship between the log -transformed mandible and elytra length was non-linear and best fitted the piecewise linear model. Moreover, this model revealed the existence of dimorphism in males that could be divided into minor and major morphs based on their mandible size, in broad agreement with the morph classification based on mandible shape. Both morphs from the two populations (urban and forest) exhibited positive allometry, and the allometric slope declined in the major morph. Comparison between populations showed the allometric slopes were similar, but the intercepts were significantly different in the major morphs. The genetic or environmental basis should be further explored for the two morphs as well as any behavioural variation.
+C1 [Songvorawit, Nut; Butcher, Buntika Areekul; Chaisuekul, Chatchawan] Chulalongkorn Univ, Dept Biol, Fac Sci, Bangkok 10330, Thailand.
+   [Butcher, Buntika Areekul; Chaisuekul, Chatchawan] Chulalongkorn Univ, Ctr Excellence Entomol Bee Biol Biodivers Insects, Bangkok 10330, Thailand.
+RP Chaisuekul, C (reprint author), Chulalongkorn Univ, Dept Biol, Fac Sci, Bangkok 10330, Thailand.; Chaisuekul, C (reprint author), Chulalongkorn Univ, Ctr Excellence Entomol Bee Biol Biodivers Insects, Bangkok 10330, Thailand.
+EM chatchawan.c@chula.ac.th
+FU 90th Anniversary of Chulalongkorn University Fund [5572810723]
+FX We thank the Marine's Paramilitary Task Force, Thewa Pitak Camp, Royal
+   Thai Navy for providing the facility and accommodation during the field
+   study. We also thank Chulalongkorn University Museum of Natural History;
+   Insect Museum Thailand, Department of Agriculture; His Majesty the King
+   Insect Park, Department of Entomology, Faculty of Agriculture at
+   Kamphaeng Saen, Kasetsart University, Kamphaeng Saen Campus; Forest
+   Entomology Research Center 3-Chanthaburi, Department of National Parks,
+   Wildlife and Plant Conservation, Thailand, for allowing us to study the
+   insect specimens. Special thanks to Dr. Robert Douglas John Butcher for
+   his advice and comments in this work. This research was supported by the
+   90th Anniversary of Chulalongkorn University Fund (5572810723)
+   (Ratchadaphiseksomphot Endowment Fund).
+CR COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   EBERHARD WG, 1991, EVOLUTION, V45, P18, DOI 10.1111/j.1558-5646.1991.tb05262.x
+   Egset CK, 2012, J EVOLUTION BIOL, V25, P938, DOI 10.1111/j.1420-9101.2012.02487.x
+   Ek-Amnuay P, 2008, BEETLES OF THAILAND
+   Ek-Amnuay P., 2009, BREEDING REARING BEE
+   Emlen DJ, 1997, BEHAV ECOL SOCIOBIOL, V41, P335, DOI 10.1007/s002650050393
+   Emlen DJ, 1997, P ROY SOC B-BIOL SCI, V264, P567, DOI 10.1098/rspb.1997.0081
+   Emlen DJ, 2000, ANNU REV ENTOMOL, V45, P661, DOI 10.1146/annurev.ento.45.1.661
+   Emlen DJ, 1996, EVOLUTION, V50, P1219, DOI 10.1111/j.1558-5646.1996.tb02362.x
+   Fleiss JL, 1981, STAT METHODS RATES P
+   Harvey DJ, 2011, INSECT CONSERV DIVER, V4, P23, DOI 10.1111/j.1752-4598.2010.00107.x
+   Hendriks Paul, 2013, Entomologische Berichten (Amsterdam), V73, P58
+   Huxley J. S., 1932, PROBLEMS RELATIVE GR
+   Iguchi Y, 1998, ANN ENTOMOL SOC AM, V91, P845, DOI 10.1093/aesa/91.6.845
+   Iguchi Y, 2013, EUR J ENTOMOL, V110, P159, DOI 10.14411/eje.2013.022
+   Iguchi Yutaka, 2001, Special Publication of the Japan Coleopterological Society, V1, P201
+   Karino K, 2005, J INSECT BEHAV, V18, P805, DOI 10.1007/s10905-005-8741-5
+   Kawano K, 2000, ANN ENTOMOL SOC AM, V93, P198, DOI 10.1603/0013-8746(2000)093[0198:GAAITS]2.0.CO;2
+   KAWANO K, 1995, ANN ENTOMOL SOC AM, V88, P92, DOI 10.1093/aesa/88.1.92
+   Knell RJ, 2004, P ROY SOC B-BIOL SCI, V271, P523, DOI 10.1098/rspb.2003.2641
+   Knell RJ, 2009, ECOL ENTOMOL, V34, P1, DOI 10.1111/j.1365-2311.2008.01022.x
+   Kotiaho JS, 2001, BEHAV ECOL, V12, P553, DOI 10.1093/beheco/12.5.553
+   McCullough EL, 2015, ANIM BEHAV, V109, P133, DOI 10.1016/j.anbehav.2015.08.013
+   Mills MR, 2016, J EXP ZOOL PART A, V325, P3, DOI 10.1002/jez.1961
+   Mizunuma T., 1994, SEKAI NO KUWAGATAMUS
+   Moczek AP, 1999, J EVOLUTION BIOL, V12, P27, DOI 10.1046/j.1420-9101.1999.00004.x
+   Pinratana A., 2003, LUCANIDAE THAILAND
+   Pomfret JC, 2006, ANIM BEHAV, V71, P567, DOI 10.1016/j.anbehav.2005.05.023
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Rohlf F.J., 2013, TPSDLG VERSION 2 17
+   Romiti F, 2017, BIOL J LINN SOC, V120, P836, DOI 10.1093/biolinnean/blw001
+   Romiti F, 2015, J MORPHOL, V276, P1193, DOI 10.1002/jmor.20411
+   Shiokawa T, 2000, APPL ENTOMOL ZOOL, V35, P487, DOI 10.1303/aez.2000.487
+   SIVAJOTHY MT, 1987, J ETHOL, V5, P165, DOI 10.1007/BF02349949
+NR 34
+TC 2
+Z9 2
+U1 0
+U2 3
+PU KOREAN SOC APPLIED ENTOMOLOGY
+PI SUWON
+PA NATL INST AGRICULTURAL SCIENCE & TECHNOLOGY, DIVISION ENTOMOLOGY, RDA,
+   249 SEODUN-DONG, SUWON, 441-707, SOUTH KOREA
+SN 1226-8615
+EI 1876-7990
+J9 J ASIA-PAC ENTOMOL
+JI J. Asia-Pac. Entomol.
+PD SEP
+PY 2017
+VL 20
+IS 3
+BP 835
+EP 839
+DI 10.1016/j.aspen.2017.05.011
+PG 5
+WC Entomology
+SC Entomology
+GA FS4HH
+UT WOS:000419749200014
+DA 2019-03-26
+ER

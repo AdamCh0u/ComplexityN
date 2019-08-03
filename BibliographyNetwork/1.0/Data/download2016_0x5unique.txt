@@ -1,0 +1,464 @@
+
+PT J
+AU Jayech, K
+   Mahjoub, MA
+   Ben Amara, N
+AF Jayech, Khaoula
+   Mahjoub, Mohamed Ali
+   Ben Amara, Najoua
+TI Arabic Handwritten Word Recognition based on Dynamic Bayesian Network
+SO INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY
+LA English
+DT Article
+DE Arabic handwriting recognition; dynamic BN; hierarchical model; OCR;
+   IFNIENIT databases
+AB Distinguishing an Arabic handwritten text is a hard task because the Arabic word is morphologically complex and the writing style from one model is highly variable, like the recognition of words representing the names of Tunisian cities. Actually, this is the first work based on the Dynamic Hierarchical Bayesian Network (DHBN). Its objective is to get the best model by learning the structure and parameter of Arabic handwriting to decrease the complexity of the recognition process by allowing the partial recognition. In fact, we propose segmenting the word based on a vertical smoothed histogram projection using various width values to put down the segmentation error. After that, we extract the characteristics of each cell using the Zernike and HU moments, which are invariant to rotation, translation and scaling. Then, the sub-character is estimated at the lowest level of the Bayesian Network (BN) and the character is estimated at the highest level of the BN. The overall Arabic words are processed by a dynamic BN. Our approach is tested using the IFN/ENIT database, where the experiment results are very promising.
+C1 [Jayech, Khaoula; Mahjoub, Mohamed Ali; Ben Amara, Najoua] Univ Sousse, Natl Engn Sch Sousse, Dept Comp Sci, Sousse, Tunisia.
+RP Jayech, K (reprint author), Univ Sousse, Natl Engn Sch Sousse, Dept Comp Sci, Sousse, Tunisia.
+CR Al-Hajj-Mohamad R., 2005, P 8 INT C DOC AN REC, P893
+   Alkhateeb J., 2011, P 5 INT C INF TECHN
+   AlKhateeb JH, 2008, PROCEEDINGS OF THE FIFTH INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY: NEW GENERATIONS, P1158, DOI 10.1109/ITNG.2008.71
+   AlKhateeb JH, 2011, PATTERN RECOGN LETT, V32, P1081, DOI 10.1016/j.patrec.2011.02.006
+   Benouareth A, 2008, PATTERN RECOGN LETT, V29, P1742, DOI 10.1016/j.patrec.2008.05.008
+   Dreuw P., 2008, P 19 INT C PATT REC, P1
+   Elbaati A., 2009, P 10 INT C DOC AN RE, P411
+   Gimenez A., 2012, PATTERN REC IN PRESS, V35, P149
+   Hallouli K., RESEAU BAYESIEN DYNA
+   Hamdani M., 2009, P 10 INT C DOC AN RE, P201
+   Jayech K., 2013, P INT C INF COMM TEC, P1
+   Kessentini Y., 2008, P 19 INT C PATT REC, P1
+   Khorsheed MS, 2002, PATTERN ANAL APPL, V5, P31, DOI 10.1007/s100440200004
+   Khorsheed MS, 2003, PATTERN RECOGN LETT, V24, P2235, DOI 10.1016/S0167-8655(03)00050-3
+   Kundu A., 2007, P 9 INT C DOC AN REC, P644
+   Likforman-Sulem L, 2008, PATTERN RECOGN, V41, P3092, DOI 10.1016/j.patcog.2008.03.022
+   Mahjoub M., PROPOSITION MODELE R
+   Margner V., 2007, P INT C DOC AN REC, P1274
+   Margner V., OFFLINE HANDWRITTEN
+   Masmoudi S., 2005, INT ARAB J INF TECHN, V2, P318
+   Menasri F, 2008, THESIS
+   Mohamad RAH, 2009, IEEE T PATTERN ANAL, V31, P1165, DOI 10.1109/TPAMI.2008.136
+   Murphy K., THESIS U CALIFORNIA
+   Parvez MT, 2013, PATTERN RECOGN, V46, P141, DOI 10.1016/j.patcog.2012.07.012
+   Pechwitz M, 2003, SEVENTH INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION, VOLS I AND II, PROCEEDINGS, P890
+NR 25
+TC 4
+Z9 5
+U1 0
+U2 0
+PU ZARKA PRIVATE UNIV
+PI ZARQA
+PA COLLEGE COMPUTING & INFORMATION TECHNOLOGY, PO BOX 2000, ZARQA, 13110,
+   JORDAN
+SN 1683-3198
+J9 INT ARAB J INF TECHN
+JI Int. Arab J. Inf. Technol.
+PY 2016
+VL 13
+IS 6B
+BP 1024
+EP 1031
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA ER8IG
+UT WOS:000399062600006
+DA 2019-03-26
+ER
+
+PT J
+AU Tayarani, MH
+   Prugel-Bennett, A
+AF Tayarani-N, Mohammad-H.
+   Prugel-Bennett, Adam
+TI An Analysis of the Fitness Landscape of Travelling Salesman Problem
+SO EVOLUTIONARY COMPUTATION
+LA English
+DT Article
+DE Travelling salesman problem; fitness landscape; scaling analysis;
+   long-range correlation
+ID MEMETIC ALGORITHMS; COLORING PROBLEM; LOCAL SEARCH; PERFORMANCE; VIEW
+AB The fitness landscape of the travelling salesman problem is investigated for 11 different types of the problem. The types differ in how the distances between cities are generated. Many different properties of the landscape are studied. The properties chosen are all potentially relevant to choosing an appropriate search algorithm. The analysis includes a scaling study of the time to reach a local optimum, the number of local optima, the expected probability of reaching a local optimum as a function of its fitness, the expected fitness found by local search and the best fitness, the probability of reaching a global optimum, the distance between the local optima and the global optimum, the expected fitness as a function of the distance from an optimum, their basins of attraction and a principal component analysis of the local optima. The principal component analysis shows the correlation of the local optima in the component space. We show how the properties of the principal components of the local optima change from one problem type to another.
+C1 [Tayarani-N, Mohammad-H.; Prugel-Bennett, Adam] Univ Southampton, Dept Elect & Comp Sci, Southampton, Hants, England.
+RP Tayarani, MH (reprint author), Univ Southampton, Dept Elect & Comp Sci, Southampton, Hants, England.
+EM m.tayarani@cs.bham.ac.uk; apb@ecs.soton.ac.uk
+CR Alander J. T., 1999, PRACTICAL HDB GENETI, P459
+   Alander JT, 2002, 2002 IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE SYSTEMS, PROCEEDINGS, P363, DOI 10.1109/ICAIS.2002.1048128
+   Altenberg L., 1997, P 7 INT C GEN ALG, P57
+   Angel E, 1998, THEOR COMPUT SCI, V191, P229, DOI 10.1016/S0304-3975(97)00176-X
+   Arora S, 1998, J ACM, V45, P753, DOI 10.1145/290179.290180
+   Boese K. D., 1995, TR950018 U CAL LOS A
+   BOESE KD, 1994, OPER RES LETT, V16, P101, DOI 10.1016/0167-6377(94)90065-5
+   Bouziri H, 2011, J COMB OPTIM, V21, P306, DOI 10.1007/s10878-009-9249-2
+   Cirasella J., 2001, SPRINGER LECT NOTES, P32, DOI [10.1007/3-540-44808-X_3, DOI 10.1007/3-540-44808-X_3]
+   Collard P., 2007, LOCAL SEARCH HEURIST
+   Czogalla J, 2012, J HEURISTICS, V18, P25, DOI 10.1007/s10732-010-9155-x
+   Fonlupt C., 1997, P EV ART 1997, P321
+   FORREST S, 1993, MACH LEARN, V13, P285, DOI 10.1023/A:1022626114466
+   Greenwood GW, 1998, COMPUT STAT DATA AN, V28, P131, DOI 10.1016/S0167-9473(98)00030-9
+   GROVER LK, 1992, OPER RES LETT, V12, P235, DOI 10.1016/0167-6377(92)90049-9
+   Hains DR, 2011, J OPER RES SOC, V62, P305, DOI 10.1057/jors.2010.116
+   HERTZ A, 1994, DISCRETE APPL MATH, V49, P257, DOI 10.1016/0166-218X(94)90212-7
+   Horn J., 1995, P FDN GENET ALGORITH, V3, P243
+   Hornby G. S., 1996, THESIS
+   Hoshino T, 1998, AUTON ROBOT, V5, P199, DOI 10.1023/A:1008874222544
+   Huanga D, 2009, ACM SIGMOBILE MOBILE, V13, P26
+   Jones T., 1995, P 6 INT C GEN ALG, P184
+   Lehn R, 2001, LECT NOTES COMPUT SC, V2037, P172
+   Lu GZ, 2011, LECT NOTES COMPUT SC, V6622, P108, DOI 10.1007/978-3-642-20364-0_10
+   Martin W., 1999, P C EV COMP, V1
+   MATHIAS K, 1992, PARALLEL PROBLEM SOLVING FROM NATURE, 2, P219
+   Merz P, 1998, LECT NOTES COMPUT SC, V1498, P765
+   Merz P, 2004, EVOL COMPUT, V12, P303, DOI 10.1162/1063656041774956
+   Merz P, 2000, IEEE T EVOLUT COMPUT, V4, P337, DOI 10.1109/4235.887234
+   Posik P, 2007, GECCO 2007: GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE, VOL 1 AND 2, P562
+   Prugel-Bennett A., 2011, IEEE T EVOLUTIONARY, V16, P319
+   Qasem M, 2010, IEEE T EVOLUT COMPUT, V14, P518, DOI 10.1109/TEVC.2009.2033579
+   Rardin R. L., 1993, COMPLEXITY NUMERICAL, P388
+   Ratle A, 1998, LECT NOTES COMPUT SC, V1498, P87
+   Riley J., 2010, P C EV COMP CEC, P1
+   Shen LP, 2011, EPIDEMIOL INFECT, V139, P1159, DOI 10.1017/S0950268810002827
+   Stadler PF, 1996, J MATH CHEM, V20, P1, DOI 10.1007/BF01165154
+   STADLER PF, 1992, PHYS LETT A, V161, P337, DOI 10.1016/0375-9601(92)90557-3
+   Stadler PF, 1995, LECT NOTES PHYS, V461, P78
+   Suzuki H, 1997, PROC INT C TOOLS ART, P357, DOI 10.1109/TAI.1997.632276
+   Tavares J., 2006, EV COMP 2006 CEC 200, P2307
+   Tayarani-N MH, 2015, SWARM EVOL COMPUT, V22, P47, DOI 10.1016/j.swevo.2015.01.005
+   Tayarani MH, 2014, IEEE T EVOLUT COMPUT, V18, P420, DOI 10.1109/TEVC.2013.2281502
+   Vanneschi L, 2007, LECT NOTES COMPUT SC, V4445, P241
+   Verel S, 2007, THEOR COMPUT SCI, V378, P54, DOI 10.1016/j.tcs.2007.01.001
+   Verel S., 2008, NEUTRAL FITNESS LAND
+   Watson JP, 2010, INT SER OPER RES MAN, V146, P599, DOI 10.1007/978-1-4419-1665-5_20
+   WEINBERGER E, 1990, BIOL CYBERN, V63, P325, DOI 10.1007/BF00202749
+   Wiles J, 2006, ARTIF LIFE, V12, P211, DOI 10.1162/artl.2006.12.2.211
+   WRIGHT SEWALL, 1932, PROC SIXTH INTERNAT CONGR GENETICS ITHACA NEW YORK, V1, P356
+   Wu YH, 2011, IEEE C EVOL COMPUTAT, P981
+   Zhang Weixiong, 2003, P 18 INT JOINT C ART, P1179
+   Zhang WX, 2004, ARTIF INTELL, V158, P1, DOI 10.1016/j.artint.2004.04.001
+NR 53
+TC 1
+Z9 1
+U1 2
+U2 5
+PU MIT PRESS
+PI CAMBRIDGE
+PA ONE ROGERS ST, CAMBRIDGE, MA 02142-1209 USA
+SN 1063-6560
+EI 1530-9304
+J9 EVOL COMPUT
+JI Evol. Comput.
+PD SUM
+PY 2016
+VL 24
+IS 2
+BP 347
+EP 384
+DI 10.1162/EVCO_a_00154
+PG 38
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA DR3AG
+UT WOS:000379774400006
+PM 26066806
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Angel, S
+   Blei, AM
+AF Angel, Shlomo
+   Blei, Alejandro M.
+TI The productivity of American cities: How densification, relocation, and
+   greater mobility sustain the productive advantage of larger US
+   metropolitan labor markets
+SO CITIES
+LA English
+DT Article
+DE Metropolitan transportation policy; Labor markets; Journey to work;
+   Agglomeration economies; Scaling
+ID AGGLOMERATION ECONOMIES; WORKPLACE; SIZE
+AB The greatest productive advantage of modern-day American cities is that they form large and integrated metropolitan labor markets. We present new evidence on the importance of self-adjusting commuting and location patterns in sustaining the productive advantages of larger metropolitan labor markets, mitigating the difficulties in coping with their sheer size, and reducing the added burdens on their transportation infrastructure. As a result of these adjustments, the metropolitan labor market defined as the actual number of jobs in the metropolitan area reached in less than a 1-hour commute is almost twice in size in a U.S. city with a workforce twice the size. More particularly, in a U.S. metropolitan area with twice the population of another one, commute time should be expected to increase by a factor equal to the square root of 2. Instead, it only increases by one-sixth of that factor because of three types of adjustments that take place as cities grow in population: increases in residential density, locational adjustments of residences and workplaces to be within a tolerable commute range of each other, and increases in commuting speeds brought about by shifts to faster roads and transit systems. The policy implications of these findings are that the more integrated metropolitan labor markets are, the more productive they are. We should therefore support policies of two kinds: first, those that increase overall regional connectivity and that allow for speedier rather than slower commuting, for more rather than less commuting, and for longer rather shorter commuting to take advantage of metropolitan-wide economic opportunities; and second, policies that remove impediments to the locational mobility of residences and workplaces for all income groups so that they can easily relocate to be within tolerable commute range of each other. (C) 2015 The Authors. Published by Elsevier Ltd.
+C1 [Angel, Shlomo; Blei, Alejandro M.] NYU, Stern Sch Business, Urbanizat Project, 196 Mercer St,Floor PH, New York, NY 10012 USA.
+RP Angel, S (reprint author), NYU, Stern Sch Business, Urbanizat Project, 196 Mercer St,Floor PH, New York, NY 10012 USA.
+EM sangel@stem.nyu.edu; ablei@stern.nyu.edu
+CR Aguilera A, 2005, URBAN STUD, V42, P1537, DOI 10.1080/00420980500185389
+   BROWN HJ, 1975, J AM I PLANNERS, V41, P32, DOI 10.1080/01944367508977512
+   Cervero R, 1998, URBAN STUD, V35, P1059, DOI 10.1080/0042098984484
+   Cervero R., 1991, SUBURBANIZATION JOBS
+   Clark WAV, 2003, REG SCI URBAN ECON, V33, P199, DOI 10.1016/S0166-0462(02)00012-1
+   Combes PP, 2012, ECONOMETRICA, V80, P2543, DOI 10.3982/ECTA8442
+   Duranton G., 2004, HDB REGIONAL URBAN E, V4, P2063, DOI DOI 10.1016/S1574-0080(04)80005-1
+   Foggarty M. S., 1978, J URBAN ECON, V23, P60
+   Getis A., 1969, P ASS AM GEOGR, V1, P55
+   GIULIANO G, 1993, URBAN STUD, V30, P1485, DOI 10.1080/00420989320081461
+   Giuliano G., 1991, TRANSPORT RES REC, V1305, P305
+   GORDON P, 1991, J AM PLANN ASSOC, V57, P416, DOI 10.1080/01944369108975516
+   Guth D., 2009, 9 SWISS TRANSP RES C
+   LEVINSON DM, 1994, J AM PLANN ASSOC, V60, P319, DOI 10.1080/01944369408975590
+   Litman T. A., 2014, INT TRANSP EC DEV C
+   Lobo J., 2011, SFA201109046 SANT FE
+   MARSHALL A., 1890, PRINCIPLES EC
+   Melo P. C., 2012, TRANSP RES BOA UNPUB
+   MOOMAW RL, 1981, Q J ECON, V96, P675, DOI 10.2307/1880747
+   MOOMAW RL, 1983, REG SCI URBAN ECON, V13, P525, DOI 10.1016/0166-0462(83)90033-9
+   Naess P, 1996, URBAN STUD, V33, P557, DOI 10.1080/00420989650011915
+   NAKAMURA R, 1985, J URBAN ECON, V17, P108, DOI 10.1016/0094-1190(85)90040-3
+   Parolin B., 2005, 2 STAT AUSTR CIT C G, P1
+   Prud'homme R, 1999, URBAN STUD, V36, P1849, DOI 10.1080/0042098992638
+   Rosenthal S., 2004, HDB REGIONAL URBAN E, V4, P2119, DOI DOI 10.1016/S1574-0080(04)80006-3
+   Saxenian A., 1994, REGIONAL ADVANTAGE C
+   SHEFER D, 1973, J REGIONAL SCI, V13, P55, DOI 10.1111/j.1467-9787.1973.tb00377.x
+   Shrank D, 2012, TTIS 2012 URBAN MOBI
+   Smith A, 1776, INQUIRY NATURE CAUSE
+   SVEIKAUSKAS L, 1975, Q J ECON, V89, P393, DOI 10.2307/1885259
+   TABUCHI T, 1986, J URBAN ECON, V20, P211, DOI 10.1016/0094-1190(86)90008-2
+   U.S. Census, 2000, CENS TRANSP PLANN 1
+   U. S. Census, 2011, GEOGR MOB 2008 2009, P20
+   U. S. Department Of Transportation (DOT), 2014, MULT APPR EC DEV MET
+   World Bank, 2014, WORLD DAT BANK
+   ZAX JS, 1991, J URBAN ECON, V29, P153, DOI 10.1016/0094-1190(91)90010-5
+NR 36
+TC 5
+Z9 5
+U1 0
+U2 10
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-2751
+EI 1873-6084
+J9 CITIES
+JI Cities
+PD JAN
+PY 2016
+VL 51
+SI SI
+BP 36
+EP 51
+DI 10.1016/j.cities.2015.11.030
+PG 16
+WC Urban Studies
+SC Urban Studies
+GA DG3BN
+UT WOS:000371944600004
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Prinja, S
+   Gupta, A
+   Verma, R
+   Bahuguna, P
+   Kumar, D
+   Kaur, M
+   Kumar, R
+AF Prinja, Shankar
+   Gupta, Aditi
+   Verma, Ramesh
+   Bahuguna, Pankaj
+   Kumar, Dinesh
+   Kaur, Manmeet
+   Kumar, Rajesh
+TI Cost of Delivering Health Care Services in Public Sector Primary and
+   Community Health Centres in North India
+SO PLOS ONE
+LA English
+DT Article
+ID HOSPITALS; HARYANA
+AB Background
+   With the commitment of the national government to provide universal healthcare at cheap and affordable prices in India, public healthcare services are being strengthened in India. However, there is dearth of cost data for provision of health services through public system like primary & community health centres. In this study, we aim to bridge this gap in evidence by assessing the total annual and per capita cost of delivering the package of health services at PHC and CHC level. Secondly, we determined the per capita cost of delivering specific health services like cost per antenatal care visit, per institutional delivery, per outpatient consultation, per bed-day hospitalization etc.
+   Methods
+   We undertook economic costing of fourteen public health facilities (seven PHCs and CHCs each) in three North-Indian states viz., Haryana, Himachal Pradesh and Punjab. Bottom-up costing method was adopted for collection of data on all resources spent on delivery of health services in selected health facilities. Analysis was undertaken using a health system perspective. The joint costs like human resource, capital, and equipment were apportioned as per the time value spent on a particular service. Capital costs were discounted and annualized over the estimated life of the item. Mean annual costs and unit costs were estimated along with their 95% confidence intervals using bootstrap methodology.
+   Results
+   The overall annual cost of delivering services through public sector primary and community health facilities in three states of north India were INR 8.8 million (95% CI: 7,365,630-10,294,065) and INR 26.9 million (95% CI: 22,225,159.3-32,290,099.6), respectively. Human resources accounted for more than 50% of the overall costs at both the level of PHCs and CHCs. Per capita per year costs for provision of complete package of preventive, curative and promotive services at PHC and CHC were INR 170.8 (95% CI: 131.6-208.3) and INR162.1 (95% CI: 112-219.1), respectively.
+   Conclusion
+   The study estimates can be used for financial planning of scaling up of similar health services in the urban areas under the aegis of National Health Mission. The estimates would be also useful in undertaking equity analysis and full economic evaluations of the health systems.
+C1 [Prinja, Shankar; Gupta, Aditi; Bahuguna, Pankaj; Kaur, Manmeet; Kumar, Rajesh] Postgrad Inst Med Educ & Res, Sch Publ Hlth, Chandigarh, India.
+   [Verma, Ramesh] Pt BD Sharma Post Grad Inst Med Sci, Dept Community Med, Rohtak, Haryana, India.
+   [Kumar, Dinesh] Dr Rajendra Prasad Govt Med Coll, Dept Community Med, Kangra, Himachal Prades, India.
+RP Prinja, S (reprint author), Postgrad Inst Med Educ & Res, Sch Publ Hlth, Chandigarh, India.
+EM shankarprinja@gmail.com
+FU Intramural Research Grant of Post Graduate Institute of Medical
+   Education and Research, Chandigarh, India
+FX The study was funded by the Intramural Research Grant of Post Graduate
+   Institute of Medical Education and Research, Chandigarh - 160012, India
+   (http://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/home.jsp). The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+CR Anand K, 1993, Natl Med J India, V6, P160
+   Balasubramanian D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0125202
+   Chatterjee S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069728
+   DGHS, 2012, IND PUBL HLTH STAND
+   Edlin R, 2015, COST EFFECTIVENESS M
+   Fox-Rushby J, 2006, EC EVALUATION
+   Good P.I., 2013, RESAMPLING METHODS P
+   Hall Peter, 2013, BOOTSTRAP EDGEWORTH
+   Hox Joop, 2010, MULTILEVEL ANAL TECH
+   ISPOR, 2014, PHARM GUID IND
+   Johns B, 2003, COST EFF RESOUR ALLO, V1, P1
+   Krishnan Anand, 2005, Indian Journal of Pediatrics, V72, P657, DOI 10.1007/BF02724072
+   Kumar R, 2015, INDAN J COMMUNITY HE, V27, P197
+   Kumar R, 2014, INDIAN J PEDIATR, V81, P1347, DOI 10.1007/s12098-014-1495-3
+   Library Parliament And Reference R Documentation And Information Service (Larrdis), 2013, LIB PARL REF R DOC I
+   Mathur Neeta, 2010, Indian J Community Med, V35, P153, DOI 10.4103/0970-0218.62585
+   Mini PP, 2013, RASHTRIYA SWASTHYA B
+   Ministry of Health & Family Welfare (MoHFW), 2013, NAT URB HLTH MISS FR
+   MoHFW, 2005, NAT HLTH ACC 2004 05
+   Palacios R, 2011, NEW APPROACH PROVIDI
+   Prinja S, 2015, BMC PHARMACOL TOXICO, V16, DOI 10.1186/s40360-015-0043-8
+   Prinja S, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0137315
+   Prinja S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0091781
+   Prinja S, 2013, INDIAN J MED RES, V138, P1003
+   Prinja S, 2013, J TROP PEDIATRICS, V59, P489, DOI 10.1093/tropej/fmt057
+   Prinja S, 2013, INDIAN PEDIATR, V50, P839, DOI 10.1007/s13312-013-0234-6
+   Prinja S, 2012, INDIAN J MED RES, V136, P868
+   Prinja S, 2012, INDIAN J MED RES, V136, P421
+   Reddy K, 2011, CRITICAL ASSESSMENT
+   Rural Health Statistics, 2015, RUR HLTH STAT 2015 D
+   Rural Health Statistics in India, 2014, RUR HLTH STAT IND 20
+   Sur D, 2009, J HEALTH POPUL NUTR, V27, P725
+   Tabachnick B. G., 2006, USING MULTIVARIATE S
+   UNICEF, 2009, NAT FACT SHEET COV E
+   WHO, 2003, MAKING CHOICES HLTH
+   Yung Y-F, 1999, STAT STRATEGIES SMAL, P81
+NR 36
+TC 15
+Z9 15
+U1 2
+U2 6
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 18
+PY 2016
+VL 11
+IS 8
+AR e0160986
+DI 10.1371/journal.pone.0160986
+PG 15
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DT6ES
+UT WOS:000381577000040
+PM 27536781
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Gherardi, M
+   Bassetti, F
+   Lagomarsino, MC
+AF Gherardi, Marco
+   Bassetti, Federico
+   Lagomarsino, Marco Cosentino
+TI Law of corresponding states for open collaborations
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID RANDOM-ENERGY-MODEL; SCALING LAWS; CITIES; UNIVERSALITY; INNOVATION;
+   NETWORKS; PATTERNS; SYSTEMS; SCIENCE; ORIGIN
+AB We study the relation between number of contributors and product size in Wikipedia and GitHub. In contrast to traditional production, this is strongly probabilistic, but is characterized by two quantitative nonlinear laws: a power-law bound to product size for increasing number of contributors, and the universal collapse of rescaled distributions. A variant of the random-energy model shows that both laws are due to the heterogeneity of contributors, and displays an intriguing finite-size scaling property with no equivalent in standard systems. The analysis uncovers the right intensive densities, enabling the comparison of projects with different numbers of contributors on equal grounds. We use this property to expose the detrimental effects of conflicting interactions in Wikipedia.
+C1 [Gherardi, Marco; Lagomarsino, Marco Cosentino] Univ Paris 06, Sorbonne Univ, UMR Computat & Quantitat Biol 7238, 15 Rue Ecole Med, Paris, France.
+   [Gherardi, Marco] Univ Milan, Dipartimento Fis, Via Celoria 16, I-20133 Milan, Italy.
+   [Gherardi, Marco] Ist Nazl Fis Nucl, Via Celoria 16, I-20133 Milan, Italy.
+   [Bassetti, Federico] Univ Pavia, Dipartimento Matemat, I-27100 Pavia, Italy.
+   [Lagomarsino, Marco Cosentino] CNRS, UMR 7238, Paris, France.
+RP Gherardi, M (reprint author), Univ Paris 06, Sorbonne Univ, UMR Computat & Quantitat Biol 7238, 15 Rue Ecole Med, Paris, France.; Gherardi, M (reprint author), Univ Milan, Dipartimento Fis, Via Celoria 16, I-20133 Milan, Italy.; Gherardi, M (reprint author), Ist Nazl Fis Nucl, Via Celoria 16, I-20133 Milan, Italy.
+EM marco.gherardi@mi.infn.it
+OI Cosentino Lagomarsino, Marco/0000-0003-0235-0445; Gherardi,
+   Marco/0000-0002-7745-8269
+CR Banavar JR, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.068104
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   BASILI VR, 1981, J SYST SOFTWARE, V2, P47, DOI 10.1016/0164-1212(81)90046-7
+   Ben Arous G, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.087201
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bhattacharjee SM, 2001, J PHYS A-MATH GEN, V34, P6375, DOI 10.1088/0305-4470/34/33/302
+   Bird C., 2008, P 16 ACM SIGSOFT INT, P24, DOI DOI 10.1145/1453101.1453107
+   Boehm Barry W., 1981, SOFTWARE ENG EC
+   Bouchaud JP, 1997, J PHYS A-MATH GEN, V30, P7997, DOI 10.1088/0305-4470/30/23/004
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Brooks F. P, 1995, MYTHICAL MAN MONTH
+   BRYNGELSON JD, 1989, J PHYS CHEM-US, V93, P6902, DOI 10.1021/j100356a007
+   Capocci A, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.036116
+   Chakrabarti AS, 2009, PHYSICA A, V388, P2420, DOI 10.1016/j.physa.2009.02.039
+   Cooper S, 2010, NATURE, V466, P756, DOI 10.1038/nature09304
+   DERRIDA B, 1981, PHYS REV B, V24, P2613, DOI 10.1103/PhysRevB.24.2613
+   Forte A, 2013, AM BEHAV SCI, V57, P535, DOI 10.1177/0002764212469362
+   Gherardi M, 2015, SCI REP-UK, V5, DOI 10.1038/srep10226
+   Gherardi M, 2013, P NATL ACAD SCI USA, V110, P21054, DOI 10.1073/pnas.1311124110
+   Giometto A, 2013, P NATL ACAD SCI USA, V110, P4646, DOI 10.1073/pnas.1301552110
+   Gnedenko B. V., 1954, LIMIT DISTRIBUTIONS
+   Gowers T, 2009, NATURE, V461, P879, DOI 10.1038/461879a
+   Howe J., 2008, CROWDSOURCING WHY PO
+   Huberman BA, 2009, J INF SCI, V35, P758, DOI 10.1177/0165551509346786
+   Jo HH, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.062131
+   Jones C., 2000, ADDISON WESLEY INFOR
+   KEMERER CF, 1987, COMMUN ACM, V30, P416, DOI 10.1145/22899.22906
+   Lazer D, 2009, SCIENCE, V323, P721, DOI 10.1126/science.1167742
+   Levine SS, 2014, ORGAN SCI, V25, P1414, DOI 10.1287/orsc.2013.0872
+   Lorenz J, 2011, P NATL ACAD SCI USA, V108, P9020, DOI 10.1073/pnas.1008636108
+   Louail T, 2014, SCI REP-UK, V4, DOI 10.1038/srep05276
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Majumdar SN, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.180601
+   Malmgren RD, 2009, SCIENCE, V325, P1696, DOI 10.1126/science.1174562
+   Mandra S, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.032805
+   Minson SE, 2015, SCI ADV, V1, DOI 10.1126/sciadv.1500036
+   Muchnik L, 2013, SCI REP-UK, V3, DOI 10.1038/srep01783
+   Myers CR, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.046116
+   Naroditskiy V, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0532
+   ORTEGA F, 2008, P 41 ANN HAW INT C S, P304, DOI DOI 10.1109/HICSS.2008.333
+   Perra N, 2012, SCI REP-UK, V2, DOI 10.1038/srep00469
+   Petersen AM, 2012, SCI REP-UK, V2, DOI 10.1038/srep00943
+   Sauermann H, 2015, P NATL ACAD SCI USA, V112, P679, DOI 10.1073/pnas.1408907112
+   Scacchi W., 2006, Software Process Improvement and Practice, V11, P95, DOI 10.1002/spip.255
+   Schweitzer F, 2014, ADV COMPLEX SYST, V17, DOI 10.1142/S0219525915500083
+   SORNETTE D., 2006, CRITICAL PHENOMENA N
+   Spaeth S, 2015, INFORM SYST RES, V26, P224, DOI 10.1287/isre.2014.0539
+   Stanley H, 1971, INT SERIES MONOGRAPH
+   Sumi R., 2011, SOCIALCOM PASSAT, P724
+   Torok J, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.088701
+   Vazquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   Vespignani A, 2012, NAT PHYS, V8, P32
+   Voss J., 2005, P 10 INT C INT SOC S
+   Weber S, 2005, SUCCESS OPEN SOURCE
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+   Wilkie FG, 2011, INFORM SOFTWARE TECH, V53, P1236, DOI 10.1016/j.infsof.2011.05.008
+   Yasseri T, 2013, J STAT PHYS, V151, P414, DOI 10.1007/s10955-013-0728-6
+   Yasseri T, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0038869
+   Yasseri T, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0030091
+   Zolotarev V. M., 1986, ONE DIMENSIONAL STAB
+NR 61
+TC 3
+Z9 3
+U1 1
+U2 7
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD APR 12
+PY 2016
+VL 93
+IS 4
+AR 042307
+DI 10.1103/PhysRevE.93.042307
+PG 8
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA DI8SO
+UT WOS:000373771700004
+PM 27176312
+OA Green Published
+DA 2019-03-26
+ER

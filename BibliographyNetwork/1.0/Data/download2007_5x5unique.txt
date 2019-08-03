@@ -1,0 +1,417 @@
+
+PT J
+AU Sasai, T
+   Okamoto, K
+   Hiyama, T
+   Yamaguchi, Y
+AF Sasai, T.
+   Okamoto, K.
+   Hiyama, T.
+   Yamaguchi, Y.
+TI Comparing terrestrial carbon fluxes from the scale of a flux tower to
+   the global scale
+SO ECOLOGICAL MODELLING
+LA English
+DT Article
+DE terrestrial carbon flux; BEAMS; biosphere model; remote sensing; ground
+   measurement; carbon cycle; scaling issue; NPP; GPI
+ID GROSS PRIMARY PRODUCTION; NET PRIMARY PRODUCTION; WATER-BALANCE; CLIMATE
+   DATA; MODEL; ECOSYSTEM; VEGETATION; SATELLITE; PRODUCTIVITY; DYNAMICS
+AB There are a number of outstanding important issues in terms of estimating terrestrial carbon fluxes; one of these is the spatial scaling issue. The purpose of the present study is to document the spatial scaling effect in terms of the terrestrial carbon flux measured at the point-scale and satellite-driven modeling at the global scale. To achieve this, the biosphere model BEAMS was used at the point, regional, and global scales using the same model conditions and parameters; we then compared the BEAMS output for the three different scales and ground measurements. The three sets of results showed reasonably similar spatial and temporal patterns. Temporal variations in the estimated GPP at point-scale showed good agreement with the ground measurements (R-2 = 0.84). The spatial distributions of the annual mean GPP and NPP at the regional-scale revealed high values over hilly areas and plateaus, gradually decreasing toward urban areas and high mountains. Ground-observed, point-scale, and regional-scale GPP values show almost identical seasonal patterns. The correlation coefficient for the regional-scale and global-scale monthly mean NPP values is 0.77. In particular, the NPP calculated at the different scales for three areas showed a strong correlation (R-2 = 0.81). As ground measurements are strongly reflected in the output of the global-scale simulation, we conclude that model validation at the point-scale is important when performing global-scale simulations. (C) 2007 Elsevier B.V. All rights reserved
+C1 Natl Inst Adv Industrial Sci & Technol, Inst Geol & Geoinformat, Geol Remote Sensing Res Grp, Tsukuba 3058567, Japan.
+   NTT Corp, Energy & Environm Syst Lab, Tokyo 1808585, Japan.
+   Nagoya Univ, Grad Sch Environm Studies, Div Earth & Environm Sci, Nagoya, Aichi 4648602, Japan.
+RP Sasai, T (reprint author), Natl Inst Adv Industrial Sci & Technol, Inst Geol & Geoinformat, Geol Remote Sensing Res Grp, Cent 7, 1-1-1 Higashi, Tsukuba, Tsukuba 3058567, Japan.
+EM t.sasai@aist.go.jp
+RI Hiyama, Tetsuya/M-2723-2014; Sasai, Takahiro/E-6417-2011
+OI Yamaguchi, Yasushi/0000-0002-2554-1060
+CR Cramer W, 1999, GLOBAL CHANGE BIOL, V5, P1, DOI 10.1046/j.1365-2486.1999.00009.x
+   DEFRIES RS, 1994, INT J REMOTE SENS, V15, P3567, DOI 10.1080/01431169408954345
+   GITELSON A, 1994, J PLANT PHYSIOL, V143, P286, DOI 10.1016/S0176-1617(11)81633-0
+   Heinsch FA, 2006, IEEE T GEOSCI REMOTE, V44, P1908, DOI 10.1109/TGRS.2005.853936
+   Hicke JA, 2005, GLOBAL BIOGEOCHEM CY, V19, DOI 10.1029/2004GB002391
+   Ito A, 2002, ECOL MODEL, V151, P143, DOI 10.1016/S0304-3800(01)00473-2
+   ITO A, 2006, JAPAN ECOL RES, V21, P1440
+   Ito A, 2006, TELLUS B, V58, P513, DOI 10.1111/j.1600-0889.2006.00208.x
+   KEELING CD, 2002, TRENDS COMPENDIUM DA
+   Kucharik CJ, 2000, GLOBAL BIOGEOCHEM CY, V14, P795, DOI 10.1029/1999GB001138
+   Monsi M., 1953, JAPANESE J BOTANY, V14, P22, DOI DOI 10.1093/AOB/MCI052
+   Myneni RB, 1997, IEEE T GEOSCI REMOTE, V35, P1380, DOI 10.1109/36.649788
+   NEILSON RP, 1995, ECOL APPL, V5, P362, DOI 10.2307/1942028
+   Nemani RR, 2003, SCIENCE, V300, P1560, DOI 10.1126/science.1082750
+   PARTON WJ, 1993, GLOBAL BIOGEOCHEM CY, V7, P785, DOI 10.1029/93GB02042
+   Potter C, 2004, ECOL MODEL, V175, P1, DOI 10.1016/j.ecolmodel.2003.05.004
+   POTTER CS, 1993, GLOBAL BIOGEOCHEM CY, V7, P811, DOI 10.1029/93GB02725
+   Rahman AF, 2001, J GEOPHYS RES-ATMOS, V106, P33579, DOI 10.1029/2001JD900157
+   Running SW, 2004, BIOSCIENCE, V54, P547, DOI 10.1641/0006-3568(2004)054[0547:ACSMOG]2.0.CO;2
+   Running SW, 1993, SCALING PHYSL PROCES, P141
+   Saigusa N, 2005, AGR FOREST METEOROL, V134, P4, DOI 10.1016/j.agrformet.2005.08.016
+   Saigusa N, 2002, AGR FOREST METEOROL, V112, P203, DOI 10.1016/S0168-1923(02)00082-5
+   Sasai T, 2005, J GEOPHYS RES-BIOGEO, V110, DOI 10.1029/2005JG000045
+   SAXTON KE, 1986, SOIL SCI SOC AM J, V50, P1031, DOI 10.2136/sssaj1986.03615995005000040039x
+   Scurlock JMO, 1999, ECOL APPL, V9, P913, DOI 10.1890/1051-0761(1999)009[0913:TNTACD]2.0.CO;2
+   Sims DA, 2006, REMOTE SENS ENVIRON, V103, P289, DOI 10.1016/j.rse.2005.01.020
+   Sitch S, 2003, GLOBAL CHANGE BIOL, V9, P161, DOI 10.1046/j.1365-2486.2003.00569.x
+   Strahler A., 1999, MODIS LAND COVER PRO
+   STRAHLER A, 2004, MODIS BRDF AALBEDO P
+   Turner DP, 2005, GLOBAL CHANGE BIOL, V11, P666, DOI 10.1111/j.1365-2486.2005.00936.x
+   Wan Z, 2004, INT J REMOTE SENS, V25, P261, DOI 10.1080/0143116031000116417
+   WARNANT P, 1994, GLOBAL BIOGEOCHEM CY, V8, P255, DOI 10.1029/94GB00850
+   Xiao XM, 2004, REMOTE SENS ENVIRON, V91, P256, DOI 10.1016/j.rse.2004.03.010
+   Zhao M, 2006, J GEOPHYS RES-BIOGEO, V111, DOI 10.1029/2004JG000004
+   Zheng DL, 2003, GLOBAL CHANGE BIOL, V9, P46, DOI 10.1046/j.1365-2486.2003.00534.x
+NR 35
+TC 25
+Z9 30
+U1 3
+U2 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3800
+J9 ECOL MODEL
+JI Ecol. Model.
+PD NOV 10
+PY 2007
+VL 208
+IS 2-4
+BP 135
+EP 144
+DI 10.1016/j.ecolmodel.2007.05.014
+PG 10
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 230WK
+UT WOS:000250906700005
+DA 2019-03-26
+ER
+
+PT J
+AU DiBari, JN
+AF DiBari, John N.
+TI Evaluation of five landscape-level metrics for measuring the effects of
+   urbanization on landscape structure: the case of Tucson, Arizona, USA
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE fractal; landscape structure; metric; rank-size distribution; scaling;
+   urbanization
+ID PATTERNS; SIZE; FRAGMENTATION
+AB Landscape-level metrics can be used to measure changes in landscape structure overtime. Four landscape-level metrics and rank-size distributions were used to describe changes in landscape structure caused by urbanization in a portion of the Tucson, Arizona metropolitan area between 1984 and 1998. This analysis describes what each metric conveys regarding how urbanization affects landscape structure. It also compares the efficacy of rank-size distributions with the other metrics. Results indicate all five metrics provided information about a specific aspect of landscape structure including patch size, shape, or dispersion. Results indicate that rank-size distributions and their scaling exponents are useful because they provide information not available from the other metrics. Rank-size distributions describe the patch-size scaling properties of specific land-cover types, the relative effect of large and small patches on the distribution of patch sizes, the magnitude of change in patch size, where patch sizes differ from what is expected by the regression model, and the range of patch sizes displaying fractal patterns. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Western Carolina Univ, Dept Geosci & Nat Resources Management, Cullowhee, NC 28723 USA.
+RP DiBari, JN (reprint author), Western Carolina Univ, Dept Geosci & Nat Resources Management, Cullowhee, NC 28723 USA.
+EM jdibari@email.wcu.edu
+CR BAK P, 1994, SFI S SCI C, V19, P477
+   Carpenter SR, 1998, ECOSYSTEMS, V1, P1, DOI 10.1007/s100219900001
+   CHRISTEL L, 1999, CHANGES COVERAGE DIS
+   DiBari JN, 2004, ECOL INDIC, V3, P275, DOI 10.1016/j.ecolind.2003.11.006
+   DIBARI JN, 2002, THESIS U ARIZONA
+   Forman R.T.T., 1986, LANDSCAPE ECOLOGY
+   Forman R. T. T., 1995, LAND MOSAICS ECOLOGY
+   GABIAX X, 1999, Q J ECON, V114, P739
+   Griffith JA, 2000, LANDSCAPE URBAN PLAN, V52, P45, DOI 10.1016/S0169-2046(00)00112-2
+   Gustafson EJ, 1998, ECOSYSTEMS, V1, P143, DOI 10.1007/s100219900011
+   Hargis CD, 1998, LANDSCAPE ECOL, V13, P167, DOI 10.1023/A:1007965018633
+   Haskell JP, 2002, NATURE, V418, P527, DOI 10.1038/nature00840
+   Jaeger JAG, 2000, LANDSCAPE ECOL, V15, P115, DOI 10.1023/A:1008129329289
+   Jensen H., 1998, SELF ORG CRITICALITY
+   KRUMMEL JR, 1987, OIKOS, V48, P321, DOI 10.2307/3565520
+   Levin S.A., 1993, PATCH DYNAMICS
+   Li BL, 2000, ECOL MODEL, V132, P33, DOI 10.1016/S0304-3800(00)00303-3
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Mandelbrot B. B., 1983, FRACTAL GEOMETRY NAT
+   Mcgarigal K., 2002, FRAGSTATS SPATIAL PA
+   McGarigal K, 1995, PNWGTR351 USDA FOR S
+   Meffe G. K., 1997, PRINCIPLES CONSERVAT
+   MILNE BT, 1992, AM NAT, V139, P32, DOI 10.1086/285312
+   NAVEH Z., 1994, LANDSCAPE ECOLOGY TH
+   Nikora VI, 1999, LANDSCAPE ECOL, V14, P17, DOI 10.1023/A:1008077914643
+   O'Neill RV, 1988, LANDSCAPE ECOL, V1, P153, DOI 10.1007/BF00162741
+   Pickett S. T. A., 1985, ECOLOGY NATURAL DIST
+   Reed WJ, 2001, ECON LETT, V74, P15, DOI 10.1016/S0165-1765(01)00524-9
+   Reed WJ, 2002, J REGIONAL SCI, V42, P1, DOI 10.1111/1467-9787.00247
+   Ricotta C, 1999, ECOL MODEL, V119, P73, DOI 10.1016/S0304-3800(99)00057-5
+   TURNER MG, 1989, ANNU REV ECOL SYST, V20, P171, DOI 10.1146/annurev.es.20.110189.001131
+   TURNER MG, 1991, QUANTITATIVE METHODS, P3
+   Turner SJ, 1991, QUANTITATIVE METHODS, P17
+   WHITE R, 1993, ENVIRON PLANN A, V25, P1175, DOI 10.1068/a251175
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 35
+TC 50
+Z9 56
+U1 2
+U2 22
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD MAR 2
+PY 2007
+VL 79
+IS 3-4
+BP 308
+EP 313
+DI 10.1016/j.landurbplan.2006.04.004
+PG 6
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA 141NC
+UT WOS:000244584600011
+DA 2019-03-26
+ER
+
+PT J
+AU Wamsler, C
+AF Wamsler, Christine
+TI Bridging the gaps: stakeholder-based strategies for risk reduction and
+   financing for the urban poor
+SO ENVIRONMENT AND URBANIZATION
+LA English
+DT Article
+DE development assistance; disaster risk management; El Salvador;
+   insurance; risk financing; risk reduction; settlement development; slum;
+   social housing
+AB This paper explores the options that can be used by aid organizations working in human settlement development to more effectively address disaster risk management. Qualitative research was carried out in El Salvador at both the household and institutional levels - to analyze the needs, capacities and perspectives of slum dwellers and aid organizations. A clearer understanding of the gaps between what households need and undertake to deal with disasters and risk, and how organizations support them, yields important insights for the restructuring of development aid. At the household level, the research reveals a huge variety of crucial but somewhat weak coping strategies. At the institutional level, organizational structures and mechanisms for social housing provision and financing offer a potentially powerful platform for tackling disaster risk. However, current project measures are insufficient. Support for and scaling up of selected household coping strategies, combined with the expansion of social housing funding mechanisms for risk reduction and financing, are some of the options proposed for targeting aid.
+C1 Lund Univ, S-22100 Lund, Sweden.
+RP Wamsler, C (reprint author), Lund Univ, Box 118, S-22100 Lund, Sweden.
+EM christine.wamsler@hdm.lth.se
+CR Agunias D., 2006, MIGRATION INFORM SOU
+   Brown W., 2000, INSURANCE PROVISION
+   Cox D., 1997, COPING APARTHEID INT
+   DCRUZ C, 2005, WORKING PAPER POVERT, V16
+   Department for International Development (DFID), 2005, PARTN POV RED RETH C
+   DERCON S, 2003, C POV IN GROWTH WHAT
+   GLASERY BG, 1967, DISCOVERY GROUNDED T
+   HARALDSSON HV, 2004, INTRO SYSTEM THINKIN, V1
+   *IFRC RCC, 2004, WORLD DIS REP 2004
+   Lavell A., 1994, DISASTERS DEV ENV, P49
+   Linnerooth-Bayer J, 2005, SCIENCE, V309, P1044, DOI 10.1126/science.1116783
+   Mechler R, 2004, NATURAL DISASTER RIS
+   Mechler R., 2006, DISASTER INSURANCE P
+   Morduch J, 1999, WORLD BANK RES OBSER, V14, P187, DOI 10.1093/wbro/14.2.187
+   OBERMAYER B, 2006, GDV POSTION, V48
+   RUTHERFORD S, 1999, WORKING PAPER SERIES
+   *SELA, 2005, 31 REG M LAT AM COUN, P21
+   Sinha S., 2002, STRENGTH SOLIDARITY
+   Sterman J., 2000, BUSINESS DYNAMICS SY
+   THOMPSON M, 1986, POLICY SCI, V19, P163, DOI 10.1007/BF02113494
+   Thompson M., 1990, CULTURAL THEORY
+   Twigg J, 2004, GOOD PRACTICE REV, V9
+   UN-HABITAT, 2003, CHALL SLUMS GLOB REP
+   *UNDP, 2005, INF SOBR DES HUM SAL
+   UNDP (United Nations Development Programme), 2004, RED DIS RISK CHALL D
+   UNISDR, 2005, HYOG FRAM ACT 2005 2, DOI 10.1017/CBO9781107415324.004
+   UNISDR, 2004, LIV RISK GLOB REV DI
+   UNISDR (United Nations International Strategy for Disaster Reduction), 2006, DIS STAT 1991 2005
+   Walker T., 1990, VILLAGE HOUSEHOLD EC
+   WAMSLER C, 2006, TRIALOG J PLANN BUIL
+   WAMSLER C, 2007, INVI REV INT I VIVIE
+   Wamsler C, 2006, OPEN HOUSE INT, V31, P71
+   WOO G, 2001, P 1 ANN IIASA DPRI M
+   World Bank, 2005, URB POOR LAT AM
+NR 34
+TC 38
+Z9 38
+U1 1
+U2 10
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0956-2478
+EI 1746-0301
+J9 ENVIRON URBAN
+JI Environ. Urban.
+PD APR
+PY 2007
+VL 19
+IS 1
+BP 115
+EP 142
+DI 10.1177/0956247807077029
+PG 28
+WC Environmental Studies; Urban Studies
+SC Environmental Sciences & Ecology; Urban Studies
+GA 166VO
+UT WOS:000246409000007
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Scaling urban environmental challenges: From local to global and back
+SO ENVIRONMENT AND URBANIZATION
+LA English
+DT Book Review
+CR Marcotullio P., 2007, SCALING URBAN ENV CH
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0956-2478
+EI 1746-0301
+J9 ENVIRON URBAN
+JI Environ. Urban.
+PD APR
+PY 2007
+VL 19
+IS 1
+BP 294
+EP 294
+PG 1
+WC Environmental Studies; Urban Studies
+SC Environmental Sciences & Ecology; Urban Studies
+GA 166VO
+UT WOS:000246409000017
+DA 2019-03-26
+ER
+
+PT J
+AU Bettencourt, LMA
+   Lobo, J
+   Strumsky, D
+AF Bettencourt, Luis M. A.
+   Lobo, Jose
+   Strumsky, Deborah
+TI Invention in the city: Increasing returns to patenting as a scaling
+   function of metropolitan size
+SO RESEARCH POLICY
+LA English
+DT Article
+DE patenting; urban scale; agglomeration; network effects; scaling
+ID RESEARCH-AND-DEVELOPMENT; GEOGRAPHIC LOCALIZATION; KNOWLEDGE SPILLOVERS;
+   TECHNOLOGICAL-CHANGE; INNOVATION; NETWORKS; EXPLORATION; DYNAMICS
+AB We investigate the relationship between patenting activity and the population size of metropolitan areas in the United States over the last two decades (1980-2001). We find a clear superlinear effect, whereby new patents are granted disproportionately in larger urban centers, thus showing increasing returns in inventing activity with respect to population size. We characterize this relation quantitatively as a power law with an exponent larger than unity. This phenomenon is commensurate with the presence of larger numbers of inventors in larger metropolitan areas, which we find follows a quantitatively similar superlinear relationship to population, while the productivity of individual inventors stays essentially constant across metropolitan areas. We also find that structural measures of the patent co-authorship network although weakly correlated to increasing rates of patenting, are not enough to explain them. Finally, we show that R&D establishments and employment in other creative professions also follow superlinear scaling relations to metropolitan population size, albeit possibly with different exponents. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Harvard Univ, Business Sch, Boston, MA 02163 USA.
+   Arizona State Univ, Global Inst Sustainabil, Tempe, AZ 85287 USA.
+   Los Alamos Natl Lab, CCS Comp & Compuatat Sci 3, Los Alamos, NM 87545 USA.
+   Arizona State Univ, Global Inst Sustainabil, Tempe, AZ 85287 USA.
+RP Strumsky, D (reprint author), Harvard Univ, Business Sch, E1-2A Gallatin Hall,Soldiers Field Rd, Boston, MA 02163 USA.
+EM lmbett@lanl.gov; jose.lobo@asu.edu; dstrumsky@hbs.edu
+RI Strumsky, Deborah/F-5795-2013
+CR ACS ZJ, 1989, KYKLOS, V42, P171
+   Acs ZJ, 2002, RES POLICY, V31, P1069, DOI 10.1016/S0048-7333(01)00184-6
+   ALGAZE G, 2005, EJOURNAL ANTHR RELAT, V1
+   Almeida P, 1997, SMALL BUS ECON, V9, P21, DOI 10.1023/A:1007995512597
+   ALMEIDA P, 1994, TECHNOLOGY GEOGRAPHY
+   Amaral LAN, 1997, J PHYS I, V7, P621
+   ARORA A, 1994, RES POLICY, V23, P523, DOI 10.1016/0048-7333(94)01003-X
+   Bairoch P., 1988, CITIES EC DEV DAWN H
+   Balconi M, 2004, RES POLICY, V33, P127, DOI 10.1016/S0048-7333(03)00108-2
+   BARENBLATT GI, 2003, CAMBRIDGE TEXTS APPL
+   Braudel F, 1992, CIVILIZATION CAPITAL, VII
+   Braudel F., 1992, CIVILIZATION CAPITAL, V3
+   Braudel F., 1992, CIVILIZATION CAPITAL, VI
+   Breschi S, 2001, IND CORP CHANGE, V10, P975, DOI DOI 10.1093/ICC/10.4.975
+   BRESCHI S, 2004, 150 U COMM L BOCC
+   Brock W., 1999, IND CORP CHANGE, V8, P409, DOI DOI 10.1093/ICC/8.3.409
+   Brown J. H., 2000, SCALING BIOL
+   *BUR EC AN, 2005, REG EC ACC
+   Carlino G, 2005, 0416R FED RES BANK P
+   Chave J, 2003, ENVIRON RESOUR ECON, V26, P527, DOI 10.1023/B:EARE.0000007348.42742.49
+   FELDMAN MP, 1994, ANN ASSOC AM GEOGR, V84, P210, DOI 10.1111/j.1467-8306.1994.tb01735.x
+   Feldman MP, 1999, EUR ECON REV, V43, P409, DOI 10.1016/S0014-2921(98)00047-6
+   FELLER I, 1971, EXPLOR ECON HIST, V8, P285, DOI 10.1016/0014-4983(71)90010-6
+   Fleming L, 2001, MANAGE SCI, V47, P117, DOI 10.1287/mnsc.47.1.117.10671
+   FLEMING L, 2004, SMALL WORLDS REGIONA
+   Florida R., 2002, RISE CREATIVE CLASS
+   Florida R. L., 2004, CITIES CREATIVE CLAS
+   Gell-Mann M, 1994, QUARK JAGUAR
+   Glaeser EL, 1999, J URBAN ECON, V46, P254, DOI 10.1006/juec.1998.2121
+   Glaeser EL., 1999, J POLITICAL EC, V6, P225
+   GLAESRE EL, 1996, CITIES NEW GLOBAL EC, V1, P227
+   GLOBERMAN S, 2001, KYLOS, V53, P17
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   GRILICHES Z, 1990, J ECON LIT, V28, P1661
+   GRILICHES Z, 1979, BELL J ECON, V10, P92, DOI 10.2307/3003321
+   Hall P. G., 1998, CITIES CIVILIZATION
+   Hawley A. H., 1986, HUMAN ECOLOGY
+   HIGGS R, 1971, J POLIT ECON, V79, P661, DOI 10.1086/259775
+   Hur KI, 2001, TECHNOVATION, V21, P227, DOI 10.1016/S0166-4972(00)00037-7
+   Hussler C., 2004, EC INNOVATION NEW TE, V13, P523, DOI DOI 10.1080/1043859042000234302
+   Ijiri Y., 1977, SKEW DISTRIBUTIONS S
+   Jacobs J, 1969, EC CITIES
+   Jacobs J., 1984, CITIES WEALTH NATION
+   Jaffe A. B., 2002, PATENTS CITATIONS IN
+   JAFFE AB, 1993, Q J ECON, V108, P577, DOI 10.2307/2118401
+   Jaffe AB, 2000, AM ECON REV, V90, P215, DOI 10.1257/aer.90.2.215
+   Krugman P., 1991, GEOGRAPHY TRADE
+   Kuznets S., 1962, RATE DIRECTION INVEN
+   LENSKI G, 1979, SOCIETAL GROWTH, P5
+   LUCAS RE, 1988, J MONETARY ECON, V22, P3, DOI 10.1016/0304-3932(88)90168-7
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Malerba F, 1999, RES POLICY, V28, P643, DOI 10.1016/S0048-7333(99)00005-0
+   MANDELBROT B, 1963, J POLIT ECON, V71, P421, DOI 10.1086/258792
+   MARSHALL A., 1890, PRINCIPLES EC
+   Mokyr Joel, 2002, GIFTS ATHENA HIST OR
+   Mumford Louis, 1968, CITY HIST ITS ORIGIN
+   Murray F, 2002, RES POLICY, V31, P1389, DOI 10.1016/S0048-7333(02)00070-7
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   O hUallachain B, 1999, J REGIONAL SCI, V39, P613, DOI 10.1111/0022-4146.00152
+   Orsenigo L, 2001, RES POLICY, V30, P485, DOI 10.1016/S0048-7333(00)00094-9
+   Owen-Smith J, 2004, ORGAN SCI, V15, P5, DOI 10.1287/orsc.1030.0054
+   PAKES A, 1980, ECON LETT, V5, P377, DOI 10.1016/0165-1765(80)90136-6
+   Piore M, 1984, 2 IND DIVIDE
+   Polanyi K., 1957, TRADE MARKET EARLY E
+   Powell WW, 1996, ADMIN SCI QUART, V41, P116, DOI 10.2307/2393988
+   Pred A. R., 1966, SPATIAL DYNAMICS US
+   Pred Allan, 1973, URBAN GROWTH CIRCULA
+   Redman C. L., 1999, HUMAN IMPACT ANCIENT
+   ROMER PM, 1986, J POLIT ECON, V94, P1002, DOI 10.1086/261420
+   ROMER PM, 1990, J POLIT ECON, V98, pS71, DOI 10.1086/261725
+   Saxenian A., 1994, REGIONAL ADVANTAGE
+   SINGH J, 2004, COLLABORATIVE NETWOR
+   SOKOLOFF KL, 1988, J ECON HIST, V48, P813, DOI 10.1017/S002205070000663X
+   Spufford P, 2003, POWER PROFIT MERCHAN
+   Stanley H.E., 2001, QUANTITATIVE FINANCE, P563
+   STEINDL J, 1965, RANDOM PROCESSES GRO
+   Swedberg Richard, 2003, PRINCIPLES EC SOCIOL
+   THOMPSON WR, 1962, RATE DIRECTION INVEN
+   ULLMAN E, 1958, PAPERS P REGIONAL SC, V4, P179, DOI DOI 10.1111/J. 1435-5597. 1958. TB01629. X
+   *US BUR CENS, 1987, EC CENS US
+   *US NAT SCI FDN, 2003, NAT PATT RES DEV RES
+   Uzzi B, 1996, AM SOCIOL REV, V61, P674, DOI 10.2307/2096399
+   VARGA A, 1999, INNOVATION NETWORKS
+   Walker G, 1997, ORGAN SCI, V8, P109, DOI 10.1287/orsc.8.2.109
+   WALLS WD, 1999, J EC FINANCE, V23, P133
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   White H. C., 2002, MARKETS NETWORKS SOC
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+   Zucker LG, 1998, ECON INQ, V36, P65, DOI 10.1111/j.1465-7295.1998.tb01696.x
+   Zuckerman EW, 2003, J ECON LIT, V41, P545, DOI 10.1257/002205103765762761
+NR 90
+TC 118
+Z9 123
+U1 3
+U2 46
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0048-7333
+EI 1873-7625
+J9 RES POLICY
+JI Res. Policy
+PD FEB
+PY 2007
+VL 36
+IS 1
+BP 107
+EP 120
+DI 10.1016/j.respol.2006.09.026
+PG 14
+WC Management
+SC Business & Economics
+GA 140HJ
+UT WOS:000244495100007
+DA 2019-03-26
+ER

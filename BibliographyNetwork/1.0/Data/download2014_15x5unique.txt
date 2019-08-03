@@ -1,0 +1,514 @@
+
+PT J
+AU Makar, PA
+   Nissen, R
+   Teakles, A
+   Zhang, J
+   Zheng, Q
+   Moran, MD
+   Yau, H
+   diCenzo, C
+AF Makar, P. A.
+   Nissen, R.
+   Teakles, A.
+   Zhang, J.
+   Zheng, Q.
+   Moran, M. D.
+   Yau, H.
+   diCenzo, C.
+TI Turbulent transport, emissions and the role of compensating errors in
+   chemical transport models
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID MESOSCALE METEOROLOGICAL MODEL; ATMOSPHERIC BOUNDARY-LAYER; NONLOCAL
+   CLOSURE-MODEL; LOWER FRASER VALLEY; AIR-QUALITY; PART I; DRY-DEPOSITION;
+   NORTH-AMERICA; RETROSPECTIVE ANALYSIS; PARTICULATE MATTER
+AB The balance between turbulent transport and emissions is a key issue in understanding the formation of O-3 and particulate matter with diameters less than 2.5 mu m (PM2.5). Discrepancies between observed and simulated concentrations for these species have, in the past, been ascribed to insufficient turbulent mixing, particularly for atmospherically stable environments. This assumption may be simplistic turbulent mixing deficiencies may explain only part of these discrepancies, and as turbulence parameterizations are improved, the timing of primary PM2.5 emissions may play a much more significant role in the further reduction of model error. In a study of these issues, two regional air-quality models, the Community Multi-scale Air Quality model (CMAQ, version 4.6) and A Unified Regional Air-quality Modelling System (AURAMS, version 1.4.2), were compared to observations for a domain in north-western North America. The air-quality models made use of the same emissions inventory, emissions processing system, meteorological driving model, and model domain, map projection and horizontal grid, eliminating these factors as potential sources of discrepancies between model predictions. The initial statistical comparison between the models and monitoring network data showed that AURAMS' O-3 simulations outperformed those of this version of CMAQ4.6, while CMAQ4.6 outperformed AURAMS for most PM2.5 statistical measures. A process analysis of the models revealed that many of the differences between the models' results could be attributed to the strength of turbulent diffusion, via the choice of an a priori lower limit in the magnitude of vertical diffusion coefficients, with AURAMS using 0.1 m(2) s(-1) and CMAQ4.6 using 1.0 m(2) s(-1). The use of the larger CMAQ4.6 value for the lower limit of vertical diffusivity within AURAMS resulted in a similar performance for the two models (with AURAMS also showing improved PM2.5, yet degraded O-3, and a similar time series as CMAQ4.6). The differences between model results were most noticeable at night, when the higher minimum turbulent diffusivity resulted in an erroneous secondary peak in predicted night-time O-3. A spatially invariant and relatively high lower limit in diffusivity could not reduce errors in both O-3 and PM2.5 fields, implying that other factors aside from the strength of turbulence might be responsible for the PM2.5 over-predictions. Further investigation showed that the magnitude, timing and spatial allocation of area source emissions could result in improvements to PM2.5 performance with minimal O-3 performance degradation. AURAMS was then used to investigate a land-use-dependant lower limit in diffusivity of 1.0 m(2) s(-1) in urban regions, linearly scaling to 0.01 m(2) s(-1) in rural areas, as employed in CMAQ5.0.1. This strategy was found to significantly improve mean statistics for PM2.5 throughout the day and mean O-3 statistics at night, while significantly degrading (halving) midday PM2.5 correlation coefficients and slope of observed to model simulations. Time series of domain-wide model error statistics aggregated by local hour were shown to be a useful tool for performance analysis, with significant variations in performance occurring at different hours of the day.
+   The use of the land-use-dependant lower limit in diffusivity was also shown to reduce the model's sensitivity to the temporal allocation of its emissions inputs. The modelling scenarios suggest that while turbulence plays a key role in O-3 and PM2.5 formation in urban regions, and in their downwind transport, the spatial and temporal allocation of primary PM2.5 emissions also has a potentially significant impact on PM2.5 concentration levels. The results show the complex nature of the interactions between turbulence and emissions, and the potential of the strength of the former to mask the impact of changes in the latter.
+C1 [Makar, P. A.; Zhang, J.; Zheng, Q.; Moran, M. D.] Environm Canada, Air Qual Res Div, Environm Sci & Technol Directorate, Toronto, ON M3H 5T4, Canada.
+   [Nissen, R.; Teakles, A.; Yau, H.; diCenzo, C.] Environm Canada, Air Qual Sci Unit, Pacific & Yukon Reg, Vancouver, BC, Canada.
+RP Makar, PA (reprint author), Environm Canada, Air Qual Res Div, Environm Sci & Technol Directorate, Toronto, ON M3H 5T4, Canada.
+EM paul.makar@ec.gc.ca
+OI Moran, Michael/0000-0002-3858-7017
+CR Ainslie B, 2013, ATMOS OCEAN, V51, P170, DOI 10.1080/07055900.2013.782264
+   Binkowski FS, 1995, J GEOPHYS RES-ATMOS, V100, P26191, DOI 10.1029/95JD02093
+   Binkowski FS, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2001JD001409
+   Brook JR, 2004, ATMOS ENVIRON, V38, P5775, DOI 10.1016/j.atmosenv.2004.01.056
+   Carr D., 2010, HEXBIN HEXAGONAL BIN
+   Carslaw D., 2011, OPENAIR OPEN SOURCE
+   Carter W. P. L., 2013, DOCUMENTATION SAPRC
+   Carter WPL, 2000, IMPLEMENTATION SAPRC
+   CEP, 2003, SPARS MATR OP KERN E
+   Cote J, 1998, MON WEATHER REV, V126, P1373, DOI 10.1175/1520-0493(1998)126<1373:TOCMGE>2.0.CO;2
+   DEEPAYAN S., 2008, LATTICE MULTIVARIATE
+   Galmarini S, 2011, ATMOS ENVIRON, V45, P2464, DOI 10.1016/j.atmosenv.2011.03.025
+   GIORGI F, 1986, J GEOPHYS RES-ATMOS, V91, P9794, DOI 10.1029/JD091iD09p09794
+   Gong WM, 2006, ATMOS RES, V82, P248, DOI 10.1016/j.atmosres.2005.10.012
+   Houyoux MR, 2000, J GEOPHYS RES-ATMOS, V105, P9079, DOI 10.1029/1999JD900975
+   Kelly J, 2012, ATMOS CHEM PHYS, V12, P5367, DOI 10.5194/acp-12-5367-2012
+   Leroyer S, 2014, J APPL METEOROL CLIM, V53, P1433, DOI 10.1175/JAMC-D-13-0202.1
+   Makar PA, 2010, ATMOS CHEM PHYS, V10, P8997, DOI 10.5194/acp-10-8997-2010
+   Makar PA, 2006, ATMOS ENVIRON, V40, P2750, DOI 10.1016/j.atmosenv.2005.11.061
+   McKeen S, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007608
+   McKeen S, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2005JD005858
+   McKeen S, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD011697
+   Otte TL, 2010, GEOSCI MODEL DEV, V3, P243, DOI 10.5194/gmd-3-243-2010
+   PACE T, 2013, IEEE AERO EL SYS MAG, V28, P3
+   Pierce D., 2010, NCDF INTERFACE UNIDA
+   Pleim J., 2012, 2012 CMAS C
+   Pleim J. E., 2001, WATER AIR SOIL POLL, V1, P243, DOI [10.1023/ A:1013123725860, DOI 10.1023/A:1013123725860]
+   Pleim J. E., 2006, 5 CMAS C CHAP HILL N
+   Pleim J, 2011, ATMOSPHERE-BASEL, V2, P271, DOI 10.3390/atmos2030271
+   Pleim JE, 2007, J APPL METEOROL CLIM, V46, P1396, DOI 10.1175/JAM2534.1
+   Pleim JE, 2007, J APPL METEOROL CLIM, V46, P1383, DOI 10.1175/JAM2539.1
+   R Development Core team, 2010, R LANG ENV STAT COMP
+   Richtmyer R. D, 1994, DIFFERENCE METHODS I
+   Smyth S., 2005, PET156104S I CHEM PR
+   Smyth SC, 2006, ATMOS ENVIRON, V40, P2735, DOI 10.1016/j.atmosenv.2005.10.068
+   Smyth SC, 2009, ATMOS ENVIRON, V43, P1059, DOI 10.1016/j.atmosenv.2008.11.027
+   Smyth SC, 2006, J APPL METEOROL CLIM, V45, P1525, DOI 10.1175/JAM2420.1
+   Solazzo E, 2012, ATMOS ENVIRON, V53, P75, DOI 10.1016/j.atmosenv.2012.02.045
+   Solazzo E, 2012, ATMOS ENVIRON, V53, P60, DOI 10.1016/j.atmosenv.2012.01.003
+   Steyn DG, 2013, ATMOS OCEAN, V51, P153, DOI 10.1080/07055900.2013.781940
+   Stockwell W. R., 1989, 3412 EPRI
+   Xiu AJ, 2001, J APPL METEOROL, V40, P192, DOI 10.1175/1520-0450(2001)040<0192:DOALSM>2.0.CO;2
+   Zhang J., 2011, 2012 INT EM INV C TA
+   Zhang LM, 2002, ATMOS ENVIRON, V36, P537, DOI 10.1016/S1352-2310(01)00447-2
+   Zhang LM, 2001, ATMOS ENVIRON, V35, P549, DOI 10.1016/S1352-2310(00)00326-5
+NR 45
+TC 9
+Z9 9
+U1 0
+U2 6
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PY 2014
+VL 7
+IS 3
+BP 1001
+EP 1024
+DI 10.5194/gmd-7-1001-2014
+PG 24
+WC Geosciences, Multidisciplinary
+SC Geology
+GA AO8JH
+UT WOS:000341600100016
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Fink, G
+   Sudfeld, CR
+   Danaei, G
+   Ezzati, M
+   Fawzi, WW
+AF Fink, Guenther
+   Sudfeld, Christopher R.
+   Danaei, Goodarz
+   Ezzati, Majid
+   Fawzi, Wafaie W.
+TI Scaling-Up Access to Family Planning May Improve Linear Growth and Child
+   Development in Low and Middle Income Countries
+SO PLOS ONE
+LA English
+DT Article
+ID TEENAGE MOTHERHOOD; HEALTH SURVEYS; MATERNAL AGE; BIRTH COHORT;
+   OUTCOMES; PREGNANCY; INFANT; FERTILITY; MORTALITY; CONTRACEPTION
+AB Background: A large literature has indicated a robust association between birth spacing and child survival, but evidence on the association of birth timing with physical growth in low and middle income countries (LMICs) remains limited.
+   Methods and Results: Data from 153 cross-sectional Demographic and Health Surveys (DHS) across 61 LMICs conducted between 1990 and 2011 were combined to assess the association of birth timing with child stunting (height-for-age z-score <-2). A total of 623,789 children of birth order 1-5 contributed to the maternal age analysis, while the birth spacing dataset consisted of 584,226 children of birth order 2 and higher. Compared to 27-34 year old mothers, maternal age under 18 years was associated with a relative stunting risk of 1.35 (95% CI: 1.29-1.40) for firstborn children, whereas the relative risk was 1.24 (95% CI: 1.19-1.29) for mothers aged 18-19 years. The association of young maternal age with stunting was significantly greater for urban residents and those in the top 50% of household wealth. Birth intervals less than 12 months and 12-23 months had relative risks for stunting of 1.09 (95% CI: 1.06-1.12) and 1.06 (95% CI: 1.05-1.06) as compared to a 24-35 month inter-pregnancy interval, respectively. The strength of both teenage pregnancy and short birth interval associations showed substantial variation across WHO region. We estimate that 8.6% (6.9-10.3%) of stunted cases in the South Asian DHS sample would have been averted by jointly eliminating teen pregnancies and birth intervals less than 24 months, while only 3.6% (1.5-5.7%) of stunting cases would have prevented in the Middle East and North Africa sample.
+   Conclusions: Postponing the age of first birth and increasing inter-pregnancy intervals has the potential to significantly reduce the prevalence of stunting and improve child development in LMICs.
+C1 [Fink, Guenther; Sudfeld, Christopher R.; Danaei, Goodarz; Fawzi, Wafaie W.] Harvard Univ, Sch Publ Hlth, Boston, MA 02115 USA.
+   [Ezzati, Majid] Univ London Imperial Coll Sci Technol & Med, MRC PHE Ctr Environm & Hlth, Dept Epidemiol, London, England.
+   [Ezzati, Majid] Univ London Imperial Coll Sci Technol & Med, MRC PHE Ctr Environm & Hlth, Dept Biostat, London, England.
+RP Fink, G (reprint author), Harvard Univ, Sch Publ Hlth, 665 Huntington Ave, Boston, MA 02115 USA.
+EM gfink@hsph.harvard.edu
+FU Grand Challenges Canada through the Saving Brains Project; Medical
+   Research Council [G0801056]
+FX This project was supported by Grand Challenges Canada through the Saving
+   Brains Project. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+CR Adhikari R. K., 2003, ADULTHOOD EXPLORING, P62
+   Alam N, 2000, J BIOSOC SCI, V32, P229, DOI 10.1017/S0021932000002297
+   Alkema L, 2013, LANCET, V381, P1642, DOI 10.1016/S0140-6736(12)62204-1
+   Alvergne A, 2013, AM J HUM BIOL, V25, P107, DOI 10.1002/ajhb.22348
+   [Anonymous], 2012, WORLD DEV IND DAT
+   Bloom DE, 2010, URB DEV MULT PERSP
+   Caulfield LE, 2006, DISEASE CONTROL PRIORITIES IN DEVELOPING COUNTRIES, 2ND EDITION, P551
+   Chen XK, 2007, INT J EPIDEMIOL, V36, P368, DOI 10.1093/ije/dyl284
+   Conde-Agudelo A, 2012, STUD FAMILY PLANN, V43, P93, DOI 10.1111/j.1728-4465.2012.00308.x
+   Coyne CA, 2013, TWIN RES HUM GENET, V16, P679, DOI 10.1017/thg.2013.23
+   Guimarae AMDN, 2013, REV SAUDE PUBL, V47, P11, DOI 10.1590/S0034-89102013000100003
+   DURRLEMAN S, 1989, STAT MED, V8, P551, DOI 10.1002/sim.4780080504
+   Filmer D, 2001, DEMOGRAPHY, V38, P115, DOI 10.2307/3088292
+   Fink G, 2011, INT J EPIDEMIOL, V40, P1196, DOI 10.1093/ije/dyr102
+   Finlay JE, 2011, BMJ OPEN, V1, DOI 10.1136/bmjopen-2011-000226
+   Govindarajulu US, 2007, STAT MED, V26, P3735, DOI 10.1002/sim.2848
+   Grantham-McGregor S, 2007, LANCET, V369, P60, DOI 10.1016/S0140-6736(07)60032-4
+   Gupta N, 2008, EUR J OBSTET GYN R B, V137, P165, DOI 10.1016/j.ejogrb.2007.06.013
+   Heckman JJ, 2007, P NATL ACAD SCI USA, V104, P13250, DOI 10.1073/pnas.0701362104
+   Heckman JJ, 2006, J LABOR ECON, V24, P411, DOI 10.1086/504455
+   ICF International, 2012, DEM HLTH SURV SAMPL
+   Kar BR, 2008, BEHAV BRAIN FUNCT, V4, DOI 10.1186/1744-9081-4-31
+   King JC, 2003, J NUTR, V133, p1732S, DOI 10.1093/jn/133.5.1732S
+   Mayor S, 2004, BRIT MED J, V328, P1152, DOI 10.1136/bmj.328.7449.1152-a
+   Ong KKL, 2002, PEDIATR RES, V52, P863, DOI 10.1203/01.PDR.0000036602.81878.6D
+   Prentice AM, 2013, AM J CLIN NUTR, V97, P911, DOI 10.3945/ajcn.112.052332
+   Raj A, 2010, BRIT MED J, V340, DOI 10.1136/bmj.b4258
+   Reynolds HW, 2006, INT FAM PLAN PERSPEC, V32, P6, DOI 10.1363/3200606
+   Rutstein SO, 2005, INT J GYNECOL OBSTET, V89, pS7, DOI 10.1016/j.ijgo.2004.11.012
+   Rutstein SO, 2008, 41 DHS
+   Scally G, 2002, INT J EPIDEMIOL, V31, P554, DOI 10.1093/ije/31.3.554
+   SENDEROWITZ J, 1985, POPUL BULL, V40, P1
+   Shaw M, 2006, SOC SCI MED, V62, P2526, DOI 10.1016/j.socscimed.2005.10.007
+   Spiegelman D, 2007, CANCER CAUSE CONTROL, V18, P571, DOI 10.1007/s10552-006-0090-y
+   StataCorp, 2011, STAT STAT SOFTW REL
+   Stevens GA, 2012, LANCET, V380, P824, DOI 10.1016/S0140-6736(12)60647-3
+   Stewart CP, 2007, MATERN CHILD NUTR, V3, P174, DOI 10.1111/j.1740-8709.2007.00097.x
+   UNICEF, 1990, STRAT IMPR NUTR CHIL
+   Wells JCK, 2011, AM J EPIDEMIOL, V174, P1028, DOI 10.1093/aje/kwr232
+   WHO, 2011, WHO GUID PREV EARL P
+   WHO, 2006, ANTR SOFTW ASS GROWT
+   WHO Multicentre Growth Reference Study Group, 2006, WHO CHILD GROWTH STA
+   Yen S, 2013, PEDIATR ANN, V42, P21, DOI 10.3928/00904481-20130128-08
+   Zabin LS, 1998, STUD FAMILY PLANN, V29, P210, DOI 10.2307/172160
+   Zou GY, 2004, AM J EPIDEMIOL, V159, P702, DOI 10.1093/aje/kwh090
+NR 45
+TC 11
+Z9 11
+U1 0
+U2 10
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 14
+PY 2014
+VL 9
+IS 7
+AR e102391
+DI 10.1371/journal.pone.0102391
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AM1PC
+UT WOS:000339618600075
+PM 25020132
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Kota, SH
+   Zhang, HL
+   Chen, G
+   Schade, GW
+   Ying, Q
+AF Kota, Sri Harsha
+   Zhang, Hongliang
+   Chen, Gang
+   Schade, Gunnar W.
+   Ying, Qi
+TI Evaluation of on-road vehicle CO and NOx National Emission Inventories
+   using an urban-scale source-oriented air quality model
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Source apportionment; CMAQ; MOVES; MOBILE6.2; National Emission
+   Inventory (NEI); Urban-scale air quality modeling
+ID SECONDARY ORGANIC AEROSOL; PARTICULATE MATTER; SOURCE APPORTIONMENT;
+   SOUTHEAST TEXAS; CALIFORNIA; POLLUTION; MOBILE6.2; MORTALITY; RATIOS;
+   SYSTEM
+AB The MOBILE6.2 model was replaced by the Motor Vehicle Emission Simulator (MOVES) in 2012 as an official tool recommended by the United States Environmental Protection Agency (US EPA) to predict vehicular pollutant emission factors. In this study, on-road vehicle emission inventories of CO and NOx for Southeast Texas generated by MOVES and MOBILE6.2 in two versions of the 2005 National Emission Inventory (NEI) were studied by comparing predicted CO and NOx using the EPA's Community Multiscale Air Quality (CMAQ) Model incorporated with a source-oriented gas phase chemical mechanism with measurements made at six urban and industrial sites in Southeast Texas. The source tracing technique allows direct determination of contributions of on-road vehicles to overall CO and NOx concentrations and identification of ambient concentration measurements which are mostly impacted by vehicle emissions.
+   By grouping the fractional bias (FB) values of the hourly predictions based on vehicle contributions to total CO or NOx concentrations, clear trends in the FB were observed, indicating systematic biases in the emission inventory for these species. Data points dominated by vehicle emissions suggest that surface CO concentrations due to vehicle exhaust are significantly over-estimated by a factor of 2 using either MOVES or MOBILE6.2. NOx concentrations are overestimated by approximately 20-35% and 70% by using the MOBILE6.2 and MOVES emissions, respectively. Emission scaling runs show that a domain-wide reduction of MOBILE6.2 CO emissions by 60% and NOx emissions by 15-25% leads to better model performance of exhaust CO and NOx concentrations in the current study. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Kota, Sri Harsha; Zhang, Hongliang; Chen, Gang; Ying, Qi] Texas A&M Univ, Zachry Dept Civil Engn, College Stn, TX 77845 USA.
+   [Schade, Gunnar W.] Texas A&M Univ, Dept Atmospher Sci, College Stn, TX 77845 USA.
+RP Ying, Q (reprint author), Texas A&M Univ, Zachry Dept Civil Engn, College Stn, TX 77845 USA.
+EM qying@civil.tamu.edu
+RI Zhang, Hongliang/C-2499-2012; Schade, Gunnar/G-9000-2012
+OI Schade, Gunnar/0000-0003-4327-0839; Kota, Sri/0000-0002-1977-2954
+FU U.S. Environmental Protection Agency's Science to Achieve Results (STAR)
+   program; U.S. Environmental Protection Agency's STAR program [R834556]
+FX This research has been partially supported by a grant from the U.S.
+   Environmental Protection Agency's Science to Achieve Results (STAR)
+   program. Although the research described in the article has been funded
+   in part by the U.S. Environmental Protection Agency's STAR program
+   through grant (R834556), it has not been subjected to any EPA review and
+   therefore does not necessarily reflect the views of the Agency, and no
+   official endorsement should be inferred.
+CR Brioude J., 2011, J GEOPHYS RES ATMOS, V116
+   Brunekreef B, 1997, EPIDEMIOLOGY, V8, P298, DOI 10.1097/00001648-199705000-00012
+   Byun D, 2006, APPL MECH REV, V59, P51, DOI 10.1115/1.2128636
+   Carlton AG, 2010, ENVIRON SCI TECHNOL, V44, P8553, DOI 10.1021/es100636q
+   Carter W.P.L, 2000, DOCUMENTATION SAPRC
+   Dentener F, 2005, ATMOS CHEM PHYS, V5, P1731, DOI 10.5194/acp-5-1731-2005
+   Foley KM, 2010, GEOSCI MODEL DEV, V3, P205, DOI 10.5194/gmd-3-205-2010
+   FUJITA EM, 1992, J AIR WASTE MANAGE, V42, P264, DOI 10.1080/10473289.1992.10466989
+   Fujita EM, 2012, J AIR WASTE MANAGE, V62, P1134, DOI 10.1080/10962247.2012.699016
+   Gauderman WJ, 2007, LANCET, V369, P571, DOI 10.1016/S0140-6736(07)60037-3
+   HARLEY RA, 1993, ENVIRON SCI TECHNOL, V27, P378, DOI 10.1021/es00039a019
+   Hoek G, 2002, LANCET, V360, P1203, DOI 10.1016/S0140-6736(02)11280-3
+   Kim SW, 2011, ATMOS CHEM PHYS, V11, P11361, DOI 10.5194/acp-11-11361-2011
+   Kite C., 2011, PRELIMINARY COMP MOV
+   Kota S.H., 2012, TRANSP RES BOARD ANN
+   Lloyd AC, 2001, J AIR WASTE MANAGE, V51, P809, DOI 10.1080/10473289.2001.10464315
+   McKeen S., 2009, J GEOPHYS RES ATMOS, V114
+   Ngan F, 2012, ATMOS ENVIRON, V54, P86, DOI 10.1016/j.atmosenv.2012.01.035
+   Parrish DD, 2006, ATMOS ENVIRON, V40, P2288, DOI 10.1016/j.atmosenv.2005.11.033
+   Samet JM, 2000, NEW ENGL J MED, V343, P1742, DOI 10.1056/NEJM200012143432401
+   Schauer JJ, 1996, ATMOS ENVIRON, V30, P3837, DOI 10.1016/1352-2310(96)00085-4
+   Seigneur C, 2000, J AIR WASTE MANAGE, V50, P588, DOI 10.1080/10473289.2000.10464036
+   Simon H., 2011, 2011 CMAS C FRID CTR
+   Simon H, 2012, ATMOS ENVIRON, V61, P124, DOI 10.1016/j.atmosenv.2012.07.012
+   USEPA, 2012, DEV EM RAT HEAV DUT
+   USEPA, 2010, US GUID MOT VEH EM S
+   USEPA, 2009, US GREENH GAS EM INV
+   Vallamsundar S, 2011, TRANSPORT RES REC, P27, DOI 10.3141/2233-04
+   Wallace HW, 2012, ATMOS ENVIRON, V63, P289, DOI 10.1016/j.atmosenv.2012.08.062
+   Ying Q, 2006, ATMOS ENVIRON, V40, P736, DOI 10.1016/j.atmosenv.2005.10.007
+   Ying Q, 2010, J GEOPHYS RES-ATMOS, V115, DOI 10.1029/2010JD013931
+   Zavala M, 2006, ATMOS CHEM PHYS, V6, P5129, DOI 10.5194/acp-6-5129-2006
+   Zavala M, 2009, ATMOS CHEM PHYS, V9, P6305, DOI 10.5194/acp-9-6305-2009
+   Zhang HL, 2012, ATMOS ENVIRON, V55, P279, DOI 10.1016/j.atmosenv.2012.03.043
+   Zhang HL, 2011, ATMOS ENVIRON, V45, P3217, DOI 10.1016/j.atmosenv.2011.03.046
+   Zhang HL, 2011, ATMOS ENVIRON, V45, P2877, DOI 10.1016/j.atmosenv.2011.02.047
+NR 36
+TC 22
+Z9 28
+U1 9
+U2 75
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD MAR
+PY 2014
+VL 85
+BP 99
+EP 108
+DI 10.1016/j.atmosenv.2013.11.020
+PG 10
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA AA9MN
+UT WOS:000331417700012
+DA 2019-03-26
+ER
+
+PT J
+AU Laurini, R
+AF Laurini, Robert
+TI A conceptual framework for geographic knowledge engineering
+SO JOURNAL OF VISUAL LANGUAGES AND COMPUTING
+LA English
+DT Article
+DE Geoprocessing fundamentals; Geographic knowledge engineering; Spatial
+   knowledge engineering; Visual language; Geographic reasoning
+ID GIS
+AB In many applications, the management of geographic knowledge is very important especially not only for urban and environmental planning, but also for any application in territorial intelligence. However there are several practical problems hindering the efficiency, some of them being technical and other being more conceptual. The goal of this paper is to present a tentative conceptual framework for managing practical geographic knowledge taking account of accuracy, rotundity of earth, the mobility of objects, multiple-representation, multi-scale, existence of sliver polygons, differences in classifying real features (ontologies), the many-to-many relationship of place names (gazetteers) and the necessity of interoperability. In other words, this framework must be robust against scaling, generalization and small measurement errors. Therefore, geographic objects must be distinguished into several classes of objects with different properties, namely geodetic objects, administrative objects, manmade objects and natural objects. Regarding spatial relations, in addition to conventional topological and projective relations, other relations including tessellations and ribbon topology relations are presented in order to help model geographic objects by integrating more practical semantics. Any conceptual framework is based on principles which are overall guidelines and rules; moreover, principles allow at making predictions and drawing implications and are finally the basic building blocks of theoretical models. But before identifying the principles, one needs some preliminary considerations named prolegomena. In our case, principles will be essentially rules for transforming geographic knowledge whereas prolegomena will be assertions regarding more the foundations of geographic science. Based on those considerations, 12 principles are given, preceded by 12 prolegomena. For instance, some principles deal with the transformation of spatial relationships based on visual acuity and granularity of interest, with the influence of neighboring information and cross-boundary interoperability. New categories of geographic knowledge types are presented, spatial facts, cluster of areas, flows of persons, goods, etc., topological constraints and co-location rules. To represent knowledge chunks, three styles are presented, based respectively on descriptive logics, XML and visual languages. To conclude this paper, after having defined contexts of interpretation, an example of visual language to manage geographic knowledge is proposed. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 Univ Lyon, INSA Lyon, LIRIS UMR 5205, F-69621 Villeurbanne, France.
+RP Laurini, R (reprint author), Univ Lyon, INSA Lyon, LIRIS UMR 5205, F-69621 Villeurbanne, France.
+EM Robert.Laurini@insa-lyon.fr
+CR Aldridge C., 2001, P 13 ANN C SPAT INF, P195
+   ALLEN JF, 1983, COMMUN ACM, V26, P832, DOI 10.1145/182.358434
+   ALT H, 1995, INT J COMPUT GEOM AP, V5, P75, DOI 10.1142/S0218195995000064
+   Bertolotto M., 1995, LECT NOTES COMPUTER, V988
+   Bonhomme C., 1999, P 7 ACM S GEOGR INF, P34, DOI DOI 10.1145/320134.320144
+   Brunet R., 1980, ESPACE GEOGRAPHIQUE, P1980
+   Buttenfield B., 1991, MAP GEN MAKING RULES, P1991
+   COIMBRA A, 2008, THESIS INSA LYON
+   COUCLELIS H, 1992, LECT NOTES COMPUT SC, V639, P65
+   Crowther P, 1999, LECT NOTES ARTIF INT, V1747, P478
+   Del Fatto V, 2007, LECT NOTES COMPUT SC, V4781, P537
+   Douglas D.H., 1973, CANADIAN CARTOGRAPHE, V10, P112, DOI [10.3138/FM57-6770-U75U-7727, DOI 10.3138/FM57-6770-U75U-7727]
+   EGENHOFER MJ, 1994, J VISUAL LANG COMPUT, V5, P133, DOI 10.1006/jvlc.1994.1007
+   Ester M, 1997, LECT NOTES COMPUT SC, V1262, P47
+   Freksa C., 1995, GEOGRAPHIC OBJECTS U, P1995
+   G Cohn A, 1996, GEOGRAPHIC OBJECTS I, P171
+   Golledge RG, 2002, ANN ASSOC AM GEOGR, V92, P1, DOI 10.1111/1467-8306.00276
+   Goodchild MF, 2007, GEOJOURNAL, V69, P211, DOI 10.1007/s10708-007-9111-y
+   Goodchild MF, 2007, INT J GEOGR INF SCI, V21, P239, DOI 10.1080/13658810600965271
+   Gordillo S., 2001, THESIS U C BERNARD L
+   KANG M.A., 2002, P INT C EXT DAT TECH
+   Karalopoulos A, 2005, LECT NOTES COMPUT SC, V3799, P1
+   Kim T J, 1990, EXPERT SYSTEMS APPL
+   Laurini R, 1998, INT J GEOGR INF SCI, V12, P373, DOI 10.1080/136588198241842
+   Laurini R., 1989, COLLECTION TECHNOLOG
+   LAURINI R., 2012, PLANNING SUPPORT TOO, P122
+   Mani I., 2010, SPATIALML ANNOTATION
+   Mennis J., 2003, T GIS, V7, P371
+   Popper K., 1959, LOGIC SCI DISCOVERY
+   Randell D. A., 1992, Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Conference (KR '92), P165
+   Ronald Brachman, 2004, KNOWLEDGE REPRESENTA
+   Sowa John F., 2000, KNOWLEDGE REPRESENTA
+   Teller J., 2006, STUDIES COMPUTATIONA, V61
+   TOBLER WR, 1970, ECON GEOGR, V46, P234, DOI 10.2307/143141
+   VCKOVSKI A., 1995, P 1I AUT CART 12, V4, P127
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+NR 36
+TC 16
+Z9 18
+U1 1
+U2 24
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 1045-926X
+EI 1095-8533
+J9 J VISUAL LANG COMPUT
+JI J. Vis. Lang. Comput.
+PD FEB
+PY 2014
+VL 25
+IS 1
+SI SI
+BP 2
+EP 19
+DI 10.1016/j.jvlc.2013.10.004
+PG 18
+WC Computer Science, Software Engineering
+SC Computer Science
+GA AA3WT
+UT WOS:000331026600002
+DA 2019-03-26
+ER
+
+PT J
+AU Tomlinson, M
+   Doherty, T
+   Ijumba, P
+   Jackson, D
+   Lawn, J
+   Persson, LA
+   Lombard, C
+   Sanders, D
+   Daviaud, E
+   Nkonki, L
+   Goga, A
+   Rohde, S
+   Sitrin, D
+   Colvin, M
+   Chopra, M
+AF Tomlinson, Mark
+   Doherty, Tanya
+   Ijumba, Petrida
+   Jackson, Debra
+   Lawn, Joy
+   Persson, Lars Ake
+   Lombard, Carl
+   Sanders, David
+   Daviaud, Emmanuelle
+   Nkonki, Lungiswa
+   Goga, Ameena
+   Rohde, Sarah
+   Sitrin, Deborah
+   Colvin, Mark
+   Chopra, Mickey
+TI Goodstart: a cluster randomised effectiveness trial of an integrated,
+   community-based package for maternal and newborn care, with prevention
+   of mother-to-child transmission of HIV in a South African township
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE HIV; prevent mother-to-child transmission (PMTCT); newborn;
+   community-based; post-natal care; community health worker; primary
+   health care; South Africa; integrated
+ID POSTNATAL DEPRESSION SCALE; HEALTH; INTERVENTION; CHALLENGES; MORTALITY;
+   PROMOTION; SETTINGS; BEHAVIOR; INFANTS
+AB Background Progress towards MDG4 for child survival in South Africa requires effective prevention of mother-to-child transmission (PMTCT) of HIV including increasing exclusive breastfeeding, as well as a new focus on reducing neonatal deaths. This necessitates increased focus on the pregnancy and early post-natal periods, developing and scaling up appropriate models of community-based care, especially to reach the peri-urban poor.
+   Methods We used a randomised controlled trial with 30 clusters (15 in each arm) to evaluate an integrated, scalable package providing two pregnancy visits and five post-natal home visits delivered by community health workers in Umlazi, Durban, South Africa. Primary outcomes were exclusive and appropriate infant feeding at 12weeks post-natally and HIV-free infant survival.
+   Results At 12weeks of infant age, the intervention was effective in almost doubling the rate of exclusive breastfeeding (risk ratio 1.92; 95% CI: 1.59-2.33) and increasing infant weight and length-for-age z-scores (weight difference 0.09; 95% CI: 0.00-0.18, length difference 0.11; 95% CI: 0.03-0.19). No difference was seen between study arms in HIV-free survival. Women in the intervention arm were also more likely to take their infant to the clinic within the first week of life (risk ratio 1.10; 95% CI: 1.04-1.18).
+   Conclusions The trial coincided with national scale up of ARVs for PMTCT, and this could have diluted the effect of the intervention on HIV-free survival. We have demonstrated that implementation of a pro-poor integrated PMTCT and maternal, neonatal and child health home visiting model is feasible and effective. This trial could inform national primary healthcare reengineering strategies in favour of home visits. The dose effect on exclusive breastfeeding is notable as improving exclusive breastfeeding has been resistant to change in other studies targeting urban poor families.
+C1 [Tomlinson, Mark] Univ Stellenbosch, Dept Psychol, ZA-7602 Stellenbosch, Matieland, South Africa.
+   [Doherty, Tanya; Ijumba, Petrida; Jackson, Debra; Daviaud, Emmanuelle; Nkonki, Lungiswa; Goga, Ameena; Rohde, Sarah] MRC, Hlth Syst Res Unit, Tygerberg, South Africa.
+   [Doherty, Tanya; Jackson, Debra; Sanders, David; Chopra, Mickey] Univ Western Cape, Sch Publ Hlth, ZA-7535 Bellville, South Africa.
+   [Ijumba, Petrida; Persson, Lars Ake; Sitrin, Deborah] Uppsala Univ, Uppsala, Sweden.
+   [Lawn, Joy] Save Children, Saving Newborn Lives, Cape Town, South Africa.
+   [Lombard, Carl] MRC, Biostat Unit, Tygerberg, South Africa.
+   [Colvin, Mark] Maromi Hlth Res, Glenwood, South Africa.
+   [Chopra, Mickey] UNICEF, New York, NY USA.
+RP Tomlinson, M (reprint author), Univ Stellenbosch, Dept Psychol, Private Bag X1, ZA-7602 Stellenbosch, Matieland, South Africa.
+EM markt@sun.ac.za
+OI Lawn, Joy/0000-0002-4573-1443
+FU Bill & Melinda Gates Foundation; South African National Research
+   Foundation
+FX We would like to acknowledge all the women and their babies who
+   participated in the study, as well as the community health workers and
+   data collectors. We would like to thank Thoko Ndaba for her supervision
+   of community health workers. Natashia Morris for GIS support and
+   mapping. Andi Friedman and Clyral for mobile data collection and
+   intervention monitoring. The research study component was funded through
+   a grant to Save the Children's Saving Newborn Lives programme, from the
+   Bill & Melinda Gates Foundation. This study is part of the African
+   Newborn Network. MT, TD, DS and DJ were also supported by the South
+   African National Research Foundation. No funding bodies had any role in
+   study design, data collection and analysis, decision to publish or
+   preparation of the manuscript.
+CR Barnighausen T, 2011, NEW ENGL J MED, V364, P2181
+   Bradshaw D, 2008, LANCET, V371, P1294, DOI 10.1016/S0140-6736(08)60564-4
+   Cooper PJ, 2009, BRIT MED J, V338, DOI 10.1136/bmj.b974
+   Cornman DH, 2008, JAIDS-J ACQ IMM DEF, V48, P553, DOI 10.1097/QAI.0b013e31817bebd7
+   COX JL, 1987, BRIT J PSYCHIAT, V150, P782, DOI 10.1192/bjp.150.6.782
+   Darmstadt GL, 2009, INT J GYNECOL OBSTET, V107, pS89, DOI 10.1016/j.ijgo.2009.07.010
+   Day C, 2011, S AFRICAN HLTH REV
+   Department of Health (DoH), 2002, S AFR DEM HLTH SURV
+   Department of Health South Africa and Measure DHS, 2004, S AFR DEM HLTH SURV
+   DOH, 2007, DEM HLTH SURV 2003
+   Goga A, 2010, EVALUATION EFFECTIVE
+   Ijumba P, 2012, MATERNAL CH IN PRESS
+   Ijumba P, 2012, HLTH POLICY PLANNING, V28, P761
+   Kerber KJ, 2007, LANCET, V370, P1358, DOI 10.1016/S0140-6736(07)61578-5
+   Lawn JE, 2012, HEALTH POLICY PLANN, V27, P6, DOI 10.1093/heapol/czs053
+   Lawrie TA, 1998, S AFR MED J, V88, P1340
+   Liu L, 2012, LANCET, V379, P2151, DOI 10.1016/S0140-6736(12)60560-1
+   Mayosi BM, 2012, LANCET, V380, P2029, DOI 10.1016/S0140-6736(12)61814-5
+   Paim J, 2011, LANCET, V377, P1778, DOI 10.1016/S0140-6736(11)60054-8
+   Rahman A, 2008, LANCET, V372, P902, DOI 10.1016/S0140-6736(08)61400-2
+   Resnicow K, 2002, HEALTH PSYCHOL, V21, P444, DOI 10.1037//0278-6133.21.5.444
+   Rollins N, 2009, AIDS, V23, P1851, DOI 10.1097/QAD.0b013e32832d84fd
+   SANDOH, 2010, REENG PRIM HLTH CAR
+   SANDOH, 2010, NAT ANT SENT HIV SYP
+   Schwartlander B, 2011, LANCET, V377, P2031, DOI 10.1016/S0140-6736(11)60702-2
+   Tomlinson M, 2011, TRIALS, V12, DOI 10.1186/1745-6215-12-236
+   Tomlinson M, 2009, BMC MED INFORM DECIS, V9, DOI 10.1186/1472-6947-9-51
+   Tylleskar T, 2011, LANCET, V378, P420, DOI 10.1016/S0140-6736(11)60738-1
+   WHO, 2009, WHO UNICEF JOINT STA
+NR 29
+TC 44
+Z9 44
+U1 0
+U2 24
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1360-2276
+EI 1365-3156
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD MAR
+PY 2014
+VL 19
+IS 3
+BP 256
+EP 266
+DI 10.1111/tmi.12257
+PG 11
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 304IJ
+UT WOS:000330740000002
+PM 24433230
+OA Bronze
+DA 2019-03-26
+ER

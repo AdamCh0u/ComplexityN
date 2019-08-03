@@ -1,0 +1,334 @@
+
+PT S
+AU Khoshnevis, B
+   Yu, W
+   Lostanlen, Y
+AF Khoshnevis, Behrouz
+   Yu, Wei
+   Lostanlen, Yves
+GP IEEE
+TI FEEDBACK-EFFICIENT AGILE SCHEDULING-BEAMFORMING FOR NETWORK MIMO OFDMA
+   SYSTEMS WITH REALISTIC CHANNEL MODELS
+SO 2012 IEEE 13TH INTERNATIONAL WORKSHOP ON SIGNAL PROCESSING ADVANCES IN
+   WIRELESS COMMUNICATIONS (SPAWC)
+SE IEEE International Workshop on Signal Processing Advances in Wireless
+   Communications
+LA English
+DT Proceedings Paper
+CT 13th IEEE International Workshop on Signal Processing Advances in
+   Wireless Communications (SPAWC)
+CY JUN 17-20, 2012
+CL Cesme, TURKEY
+SP IEEE
+ID LIMITED FEEDBACK; OPPORTUNISTIC FEEDBACK; RESOURCE-ALLOCATION;
+   PERFORMANCE
+AB The acquisition of channel state information is a pressing issue in the implementation of network multi-input multi-output (MIMO) systems, where the base-stations coordinate across multiple cells for intercell interference mitigation. This paper proposes a two-stage channel quantization and feedback mechanism named agile scheduling-beamforming (ASB) for the downlink network MIMO system employing both spatial multiplexing and orthogonal frequency-division multiple-access (OFDMA). The proposed scheme polls the users for their best set of spatial-frequency resource blocks, then schedules the users according to the fairness criterion, and finally asks the selected users to feedback finer channel quantization. This paper utilizes insights derived from the scaling law of the optimal quantization bit allocation for this scheme, and evaluates its performance on realistic channel models. Rate map simulations based on ray-tracing-based wireless propagation models of realistic urban small-cell deployment show that the proposed scheme can already approach the performance of network MIMO with full channel state information with only modest amount of channel feedback.
+C1 [Khoshnevis, Behrouz; Yu, Wei] Univ Toronto, ECE Dept, Toronto, ON M5S 1A1, Canada.
+RP Khoshnevis, B (reprint author), Univ Toronto, ECE Dept, Toronto, ON M5S 1A1, Canada.
+EM bkhoshnevis@comm.utoronto.ca; weiyu@comm.utoronto.ca;
+   YLostanlen@siradel.com
+CR Agarwal R, 2008, IEEE J SEL AREA COMM, V26, P1462, DOI 10.1109/JSAC.2008.081012
+   Bhagavatula R, 2011, IEEE T SIGNAL PROCES, V59, P3824, DOI 10.1109/TSP.2011.2146777
+   Chen JY, 2008, IEEE J SEL AREA COMM, V26, P1451, DOI 10.1109/JSAC.2008.081011
+   Choi J, 2005, IEEE T SIGNAL PROCES, V53, P4125, DOI 10.1109/TSP.2005.857019
+   Corre Y, 2009, IEEE T VEH TECHNOL, V58, P3112, DOI 10.1109/TVT.2009.2016973
+   Huang K, 2007, IEEE T SIGNAL PROCES, V55, P3879, DOI 10.1109/TSP.2007.894245
+   Huang K, 2009, IEEE T VEH TECHNOL, V58, P152, DOI 10.1109/TVT.2008.925003
+   Khoshnevis B., 2011, IEEE INT C COMM ICC
+   Leinonen J, 2009, IEEE T WIREL COMMUN, V8, P2927, DOI 10.1109/TWC.2009.071374
+   Pande T, 2007, IEEE T SIGNAL PROCES, V55, P2284, DOI 10.1109/TSP.2006.890936
+   Ravindran N, 2008, IEEE ICC, P3684, DOI 10.1109/ICC.2008.693
+   Tang TW, 2007, IEEE T COMMUN, V55, P1020, DOI 10.1109/TCOMM.2007.896013
+   Zakhour R, 2007, IEEE 18 INT S PERS I, P1
+NR 13
+TC 2
+Z9 2
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2325-3789
+BN 978-1-4673-0971-4
+J9 IEEE INT WORK SIGN P
+PY 2012
+BP 11
+EP 15
+PG 5
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA BFK68
+UT WOS:000320276200003
+DA 2019-03-26
+ER
+
+PT J
+AU Muneepeerakul, R
+   Qubbaj, MR
+AF Muneepeerakul, Rachata
+   Qubbaj, Murad R.
+TI The effect of scaling and connection on the sustainability of a
+   socio-economic resource system
+SO ECOLOGICAL ECONOMICS
+LA English
+DT Article
+DE Sustainability; Scaling; Connection; Bifurcation; Population dynamics
+ID COMPLEX NETWORKS; HARVESTING POLICY; SINGLE POPULATION; REGIME SHIFTS;
+   CITIES; GROWTH; ECOSYSTEMS
+AB Policy makers dealing with complex systems oftentimes rely on "linear thinking." This is understandable due to the ease and convenience offered by the simplicity of such conceptualization. Although this line of thinking may help facilitate decision making processes, it is only as defensible as the degree at which the system under consideration behaves linearly. Recent work shows that diverse properties of cities exhibit power-law relationships with population size. Such relationships may invalidate the reliance on linear thinking. Furthermore, in the era of globalization, resources and people move virtually freely through bounds of any confines used to define a system. We incorporate into a simple resource-population model the power-law scaling behavior and the influence of import and immigration, and investigate their effects on sustainable growth of communities. We explore through bifurcation analysis the different scenarios of how an unsustainable system could be sustained. Import can be effective if: the import exceeds a critical level and a critical mass of people populates the system. In contrast, increasing immigration alone can rescue the intrinsically unsustainable system, both directly through people entering the system and indirectly by increasing its harvesting ability, although critical values exist that cause the population to sharply rise or shrink. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Muneepeerakul, Rachata; Qubbaj, Murad R.] Arizona State Univ, Sch Sustainabil, Tempe, AZ 85287 USA.
+   [Muneepeerakul, Rachata] Arizona State Univ, Math Computat & Modeling Sci Ctr, Tempe, AZ 85287 USA.
+RP Muneepeerakul, R (reprint author), Arizona State Univ, Sch Sustainabil, 800 S Cady Mall,POB 875502, Tempe, AZ 85287 USA.
+EM Rachata.Muneepeerakul@asu.edu; Murad.Qubbaj@asu.edu
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Audirac I., 2007, INT S FUT SHRINK CIT
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   BATTY M, 1995, NATURE, V377, P574, DOI 10.1038/377574a0
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI 10.1016/j.physrep.2005.10.009
+   Castles S, 2002, INT MIGR REV, V36, P1143, DOI 10.1111/j.1747-7379.2002.tb00121.x
+   Clark C.W., 1990, MATH BIOECONOMICS OP
+   D'Odorico P, 2010, GEOPHYS RES LETT, P37
+   Fan M, 1998, MATH BIOSCI, V152, P165, DOI 10.1016/S0025-5564(98)10024-X
+   Folke C, 2004, ANNU REV ECOL EVOL S, V35, P557, DOI 10.1146/annurev.ecolsys.35.021103.105711
+   Kabisch S., 2006, P IEMS 3 BIENN M SUM
+   Kar TK, 2006, J COMPUT APPL MATH, V185, P19, DOI [10.1016/j.cam.2005.01.035, 10.1016/j.cam.20050.01.035]
+   Kar TK, 2007, TRENDS APPL SCI RES, V2, P271
+   Liu YY, 2011, NATURE, V473, P167, DOI 10.1038/nature10011
+   Marshall JD, 2007, URBAN STUD, V44, P1889, DOI 10.1080/00420980701471943
+   McAnany P., 2009, QUESTIONING COLLAPSE
+   ROMER PM, 1994, J ECON PERSPECT, V8, P3, DOI 10.1257/jep.8.1.3
+   Scheffer M, 2001, NATURE, V413, P591, DOI 10.1038/35098000
+   Scheffer M, 2003, TRENDS ECOL EVOL, V18, P648, DOI 10.1016/j.tree.2003.09.002
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Vanderheiden S, 2008, POLIT STUD-LONDON, V56, P435, DOI 10.1111/j.1467-9248.2007.00691.x
+   Wolf S.R., 2007, PUBLIC POLICY J OXFO
+   Young Robert F., 2009, Urban Ecosystems, V12, P311, DOI 10.1007/s11252-009-0095-x
+   Zhang JA, 2010, PHYSICA A, V389, P4887, DOI 10.1016/j.physa.2010.06.059
+   Zhang XY, 2003, NONLINEAR ANAL-REAL, V4, P639, DOI 10.1016/S1468-1218(02)00084-6
+NR 27
+TC 3
+Z9 3
+U1 0
+U2 22
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-8009
+J9 ECOL ECON
+JI Ecol. Econ.
+PD MAY
+PY 2012
+VL 77
+BP 123
+EP 128
+DI 10.1016/j.ecolecon.2012.02.017
+PG 6
+WC Ecology; Economics; Environmental Sciences; Environmental Studies
+SC Environmental Sciences & Ecology; Business & Economics
+GA 949NP
+UT WOS:000304583200013
+DA 2019-03-26
+ER
+
+PT J
+AU De Martino, S
+   De Siena, S
+AF De Martino, S.
+   De Siena, S.
+TI Allometry and growth: A unified view
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Allometry; Growth; Gompertz map; Coherence
+ID SCALING LAWS; BIOLOGY; ORIGIN; METABOLISM; SYSTEMS; MODEL
+AB Allometry is crucial in biology; scaling relations are implied in laws of growth of living systems. The self similarity of Gompertzian growths of biological organisms plays a key role, in this regard, in biological similitude. The origin of allometric relationships and values of the scaling exponents is a source of debate, as well as the origin of the range of biological scales. But, besides biology, scaling and growth characterize many different complex systems. Encompassing these aspects in a unified view is an interesting target. In this paper we propose a coarse but significant model that is applied to astrophysical structures and biological organisms. The inclusion of such different systems suggests applications to fields where allometry is emerging, such as economics, urban planning and the social sciences. (c) 2012 Elsevier B.V. All rights reserved.
+C1 [De Martino, S.; De Siena, S.] Univ Salerno, Dipartimento Ingn Ind, I-84084 Fisciano, SA, Italy.
+   [De Martino, S.; De Siena, S.] Ist Nazl Fis Nucl, Sez Napoli, Grp Collegato Salerno, Naples, Italy.
+   [De Siena, S.] CNR INFM SPIN, Unita Salerno, Salerno, Italy.
+   [De Siena, S.] CNISM, Unita Salerno, Salerno, Italy.
+RP De Martino, S (reprint author), Univ Salerno, Dipartimento Ingn Ind, Via Ponte don Melillo, I-84084 Fisciano, SA, Italy.
+EM demartino@sa.infn.it
+FU Universita di Salerno; CNR-INFM SPIN; CNISM; Istituto Nazionale di
+   Fisica Nucleare
+FX This work was supported by Universita di Salerno, CNR-INFM SPIN, CNISM
+   and Istituto Nazionale di Fisica Nucleare.
+CR Bajzer Z., 1997, MODEL SIMUL SCI ENG, P89
+   Bellomo N, 2010, MATH MOD METH APPL S, V20, P1179, DOI 10.1142/S0218202510004568
+   Capozziello S, 2002, EUROPHYS LETT, V58, P315, DOI 10.1209/epl/i2002-00640-x
+   da Silva JKL, 2006, PHYS LIFE REV, V3, P229, DOI 10.1016/j.plrev.2006.08.001
+   De Lauro E., 2010, ARXIV10124978V1
+   De Martino S, 1999, PHYSICA A, V271, P324, DOI 10.1016/S0378-4371(99)00208-3
+   Deadkin M.A.B., 1970, B MATH BIOPHYS, V32, P445
+   Demetrius L, 2006, J THEOR BIOL, V243, P455, DOI 10.1016/j.jtbi.2006.05.031
+   Dodds PS, 2001, J THEOR BIOL, V209, P9, DOI 10.1006/jtbi.2000.2238
+   Frieden BR, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.036101
+   Gompertz B., 1825, PHILOS T ROY SOC LON, V115, P513, DOI DOI 10.1098/RSTL.1825.0026
+   GOULD SJ, 1966, BIOL REV, V41, P587, DOI 10.1111/j.1469-185X.1966.tb01624.x
+   Huxley J. S., 1932, PROBLEMS RELATIVE GR
+   Savage VM, 2004, FUNCT ECOL, V18, P257, DOI 10.1111/j.0269-8463.2004.00856.x
+   Savageau M.A., 1979, APPL MATH SCI, V76, P6023
+   SERRA J. A., 1958, REV PORTUGUESA ZOOL E BIOL GERAL, V1, P303
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   West GB, 2005, J EXP BIOL, V208, P1575, DOI 10.1242/jeb.01589
+   West GB, 1997, SCIENCE, V276, P122, DOI 10.1126/science.276.5309.122
+NR 19
+TC 2
+Z9 2
+U1 0
+U2 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD SEP 15
+PY 2012
+VL 391
+IS 18
+BP 4302
+EP 4307
+DI 10.1016/j.physa.2012.04.015
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA 972CS
+UT WOS:000306254700003
+DA 2019-03-26
+ER
+
+PT S
+AU Buzoianu, DA
+   Coloja, MP
+AF Buzoianu, Daniela-Angela
+   Coloja, Mihai Pascu
+BE Katalinic, B
+TI ROMANIAN NATIONAL ACTION PLAN FOR ENVIRONMENTAL PROTECTION - NAPEP
+SO ANNALS OF DAAAM FOR 2012 & PROCEEDINGS OF THE 23RD INTERNATIONAL DAAAM
+   SYMPOSIUM - INTELLIGENT MANUFACTURING AND AUTOMATION - FOCUS ON
+   SUSTAINABILITY
+SE Annals of DAAAM and Proceedings
+LA English
+DT Proceedings Paper
+CT 23rd International DAAAM Symposium on Intelligent Manufacturing and
+   Automation - Focus on Sustainability
+CY OCT 24-27, 2012
+CL Zadar, CROATIA
+SP Danube Adria Assoc Automat & Mfg Int, Univ Studiorum Jadertina, Univ Zadar, Int Acad Engn, Vienna Univ Technol, Austrian Soc Engineers & Architects OIAV 1848, Univ Appl Sci Technikum Wien, Danube Rectors Conf, Danube Adria Assoc Automat & Mfg Int, Rectors Honor Comm
+DE policies; strategy; plan; environment; protection
+AB After 1990, in Romania, environmental policy has become a general policy, recognizing its importance for the harmonious development of society. With the main objective to strengthen administrative structures as basic element for building a robust management and contributing to sustainable development, the Romanian government activity in this area (according to the Government Program2009-2012, Chapter 18)[ 5] will focus on the following priorities:(a) Integration of environmental policy in developing and implementing sectorial and regional policies; (b) Assess the current state of the environment and the foundation of a long-term development strategies in environment, renewable and non-renewable resources; (c) Strengthening institutional capacity in environmental law; (d) Improvement of environmental quality in urban and rural comments; (e) Extending the national network of protected areas and nature reserves, coastal rehabilitation Romanian seaside, environmental and economic scaling of the Danube Delta; (1) Strengthening cross-border and international partnership with similar institutions in other countries for monitoring progress in implementation of the international agreements; (g) Developing strategies to protect citizens against natural disasters, environmental accidents and exposure to environmental risk areas; NAPEP analysis aims to provide a clear picture of investments that are made in Romania for environmental protection
+CR [Anonymous], 2003, SOIL STATUS ROMANIA
+   Rojanschi V, 2003, ABORDARI EC PROTECTI
+   The National Statistics Institute, 2010, STAT YB
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DAAAM INT VIENNA
+PI WIEN
+PA VIENNA UNIV TECHNOLOGY, KARLSPLATZ 13, WIEN, A-1040, AUSTRIA
+SN 1726-9679
+BN 978-3-901509-91-9
+J9 ANN DAAAM
+PY 2012
+VL 23
+BP 827
+EP 830
+PG 4
+WC Automation & Control Systems; Engineering, Multidisciplinary
+SC Automation & Control Systems; Engineering
+GA BG8LR
+UT WOS:000392423800191
+DA 2019-03-26
+ER
+
+PT J
+AU Kang, CG
+   Ma, XJ
+   Tong, DQ
+   Liu, Y
+AF Kang, Chaogui
+   Ma, Xiujun
+   Tong, Daoqin
+   Liu, Yu
+TI Intra-urban human mobility patterns: An urban morphology perspective
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Intra-urban human mobility; Urban morphology; Spatial heterogeneity
+   constrained Levy flight model; Monte Carlo simulation
+ID SCALING LAWS; POPULATION; BEHAVIOR; GROWTH; CITIES; TRAVEL; FORM
+AB This paper provides a new perspective on human motion with an investigation of whether and how patterns of human mobility inside cities are affected by two urban morphological characteristics: compactness and size. Mobile phone data have been collected in eight cities in Northeast China and used to extract individuals' movement trajectories. The massive mobile phone data provides a wide coverage and detailed depiction of individuals' movement in space and time. Considering that most individuals' movement is limited within particular urban areas, boundaries of urban agglomerations are demarcated based on the spatial distribution of mobile phone base towers. Results indicate that the distribution of human's intra-urban travel in general follows the exponential law. The exponents, however, vary from city to city and indicate the impact of city sizes and shapes. Individuals living in large or less compact cities generally need to travel farther on a daily basis, and vice versa. A Monte Carlo simulation analysis based on Levy flight is conducted to further examine and validate the relation between intra-urban human mobility and urban morphology. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Kang, Chaogui; Liu, Yu] Peking Univ, Inst Remote Sensing & Geog Informat Syst, Beijing 100871, Peoples R China.
+   [Ma, Xiujun] Peking Univ, Minist Educ, Key Lab Machine Percept, Beijing 100871, Peoples R China.
+   [Tong, Daoqin] Univ Arizona, Sch Geog & Dev, Tucson, AZ 85721 USA.
+RP Liu, Y (reprint author), Peking Univ, Inst Remote Sensing & Geog Informat Syst, Beijing 100871, Peoples R China.
+EM liuyu@urban.pku.edu.cn
+RI Kang, Chaogui/H-7806-2014; Liu, Yu/D-4022-2012
+OI Liu, Yu/0000-0002-0016-2902; Kang, Chaogui/0000-0002-0122-9419
+FU NSFC [40801046, 40928001, 041171296]
+FX This research is supported by NSFC (Grant No. 40801046, 40928001, and
+   041171296). The authors would also like to thank the three reviewers for
+   their constructive comments.
+CR Ahas R, 2005, FUTURES, V37, P547, DOI 10.1016/j.futures.2004.10.012
+   Ahas R, 2010, TRANSPORT RES C-EMER, V18, P45, DOI 10.1016/j.trc.2009.04.011
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Chowell G, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.066102
+   CRANE R, 2000, J PLAN LIT, V15, P3, DOI DOI 10.1177/08854120022092890
+   de Klerk L.A., 1980, ZEOK NAAR IDEALE STA
+   Dieleman FM, 2002, URBAN STUD, V39, P507, DOI 10.1080/00420980220112801
+   Ghaemi M, 2009, PHYSICA A, V388, P1509, DOI 10.1016/j.physa.2008.12.071
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Jiang B, 2011, INT J GEOGR INF SCI, V25, P1269, DOI 10.1080/13658816.2010.510801
+   Jiang B, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.021136
+   Kwan MP, 2000, AREA, V32, P145, DOI 10.1111/j.1475-4762.2000.tb00125.x
+   Lee K, 2009, IEEE INFOCOM SER, P855, DOI 10.1109/INFCOM.2009.5061995
+   Li QQ, 2011, J TRANSP GEOGR, V19, P379, DOI 10.1016/j.jtrangeo.2010.07.003
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Phithakkitnukoon Santi, 2010, LNCS, P14, DOI [10.1007/978-3-642-14715-9_3, DOI 10.1007/978-3-642-14715-9_3]
+   Ramos-Fernandez G, 2004, BEHAV ECOL SOCIOBIOL, V55, P223, DOI 10.1007/s00265-003-0700-6
+   Ratti C, 2006, ENVIRON PLANN B, V33, P727, DOI 10.1068/b32047
+   Rattier H., 1980, STEDELIJKE STRUCTURE
+   Rhee I., 2008, INFOCOM, P924, DOI DOI 10.1109/INFOCOM.2008.145
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Sevtsuk A, 2010, J URBAN TECHNOL, V17, P41, DOI 10.1080/10630731003597322
+   Sims DW, 2008, NATURE, V451, P1098, DOI 10.1038/nature06518
+   Snellen D, 2002, ENVIRON PLANN A, V34, P1207, DOI 10.1068/a349
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Sun JB, 2011, PHYSICA A, V390, P929, DOI 10.1016/j.physa.2010.10.033
+   Vazquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   VEGELIUS J, 1986, QUAL QUANT, V20, P437
+   Viswanathan GM, 1996, NATURE, V381, P413, DOI 10.1038/381413a0
+   Viswanathan GM, 2000, PHYSICA A, V282, P1, DOI 10.1016/S0378-4371(00)00071-6
+NR 33
+TC 79
+Z9 86
+U1 3
+U2 55
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+J9 PHYSICA A
+JI Physica A
+PD FEB 15
+PY 2012
+VL 391
+IS 4
+BP 1702
+EP 1717
+DI 10.1016/j.physa.2011.11.005
+PG 16
+WC Physics, Multidisciplinary
+SC Physics
+GA 894XB
+UT WOS:000300459700076
+DA 2019-03-26
+ER

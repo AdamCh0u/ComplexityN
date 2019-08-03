@@ -1,0 +1,381 @@
+
+PT S
+AU Turner, M
+   Richardson, A
+AF Turner, M.
+   Richardson, A.
+GP Inst Navigat
+TI A Real-time FFT Based Block Processing Method with Near Linear Scaling
+SO PROCEEDINGS OF THE 2015 INTERNATIONAL TECHNICAL MEETING OF THE INSTITUTE
+   OF NAVIGATION
+SE Proceedings of the International Technical Meeting of the Institute of
+   Navigation
+LA English
+DT Proceedings Paper
+CT International Technical Meeting of the Institute-of-Navigation (ION ITM)
+CY JAN 26-28, 2015
+CL Dana Point, CA
+SP Inst Navigat
+AB Block processing algorithms have great potential in GNSS receivers. The block processing methods considered here are based on the Fourier correlation method which generates the full correlation function. Historically the large processing power requirements of FFT have prevented these block processing methods being used outside the acquisition phase. This paper presents an algorithm which reduces the processing requirements of FFT-based block processing for GNSS signals by an order of magnitude compared to current techniques.
+   The Multiple Tracking Locked Loop (MTLL) FFT algorithm presented here in the limit of long integration times (circa 20ms or longer) and multiple tracked satellites (circa 10) scales near-linearly with sample rate. The MTLL method can be applied to GPS and Galileo signals and still exhibits its near-linear scaling with either signal constellation.
+   As the MTLL algorithm gives access to the full correlation function further post processing can be done to completely mitigate multipath, where there is line of sight to the satellite and its ability to remove multipath effects is only limited by the initial RF sampling bandwidth. The MTLL method also lends itself to the detection and mitigation of interference as it is based on performing FFTs.
+   The method lends itself to long integration times and can be easily implemented on standard computer hardware. This allows very high sensitive receivers that operate in difficult conditions like indoors, urban environments and under fading due to scintillation.
+   This paper defines the algorithm and the underlying principles, describes how the tracking algorithm works and how it has been implemented in a software receiver using standard commercial computer hardware. Early results of experiments done using GPS and Galileo constellations are also presented.
+C1 [Turner, M.; Richardson, A.] Airbus Def & Space UK, London, England.
+RP Turner, M (reprint author), Airbus Def & Space UK, London, England.
+CR Hassanieh H., 2012, MOBICOM 12
+   Parkinson B., GLOBAL POSITIONING S
+   Turner M., 2013, ION GPS GNSS 2013
+   van Diggelen Frank, 2001, CTIA 2001
+   Van Nee D.J.R, 1991, IEEE ELECT LETT
+   Xu Feng, 2009, J GLOBAL POSITIONING
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INST NAVIGATION
+PI WASHINGTON
+PA 815 15TH ST NW, STE 832, WASHINGTON, DC 20005 USA
+SN 2330-3646
+EI 2330-3662
+J9 P INT TECH M I NAVIG
+PY 2015
+BP 475
+EP 483
+PG 9
+WC Engineering, Aerospace; Remote Sensing; Telecommunications
+SC Engineering; Remote Sensing; Telecommunications
+GA BD9OT
+UT WOS:000365040300048
+DA 2019-03-26
+ER
+
+PT J
+AU Pham, QD
+   Do, NT
+   Le, YN
+   Nguyen, TV
+   Nguyen, DB
+   Huynh, TKH
+   Bui, DD
+   Khuu, NV
+   Nguyen, PD
+   Luong, AQ
+   Bui, HT
+   Nguyen, HH
+   McConnell, M
+   Nguyen, LT
+   Zhang, L
+   Truong, LX
+AF Quang Duy Pham
+   Nhan Thi Do
+   Yen Ngoc Le
+   Thuong Vu Nguyen
+   Duc Bui Nguyen
+   Thu Khanh Hoang Huynh
+   Duong Duc Bui
+   Nghia Van Khuu
+   Phuc Duy Nguyen
+   Anh Que Luong
+   Hien Thu Bui
+   Hai Huu Nguyen
+   McConnell, Michelle
+   Long Thanh Nguyen
+   Zhang, Lei
+   Lien Xuan Truong
+TI Pretreatment HIV-1 drug resistance to first-line drugs: results from a
+   baseline assessment of a large cohort initiating ART in Vietnam, 2009-10
+SO JOURNAL OF ANTIMICROBIAL CHEMOTHERAPY
+LA English
+DT Article
+DE HIV/AIDS; genotyping; resistance epidemiology; viral load
+ID ANTIRETROVIRAL TREATMENT; TREATMENT OUTCOMES; INCOME COUNTRIES;
+   SCALING-UP; SURVEILLANCE; PREVENTION; THERAPY; RISK; DETERMINANTS;
+   PREVALENCE
+AB Objectives: The objective of this study was to determine the prevalence and correlates of pretreatment drug resistance (PDR) to first-line antiretroviral drugs among people initiating therapy for HIV in Vietnam.
+   Methods: Blood was collected during November 2009 to October 2010 from people consecutively initiating ART in four purposively selected public outpatient clinics in three Vietnamese cities. At each study site, recruitment lasted for 6-10 months until the target sample size (range 120-130 individuals) had been reached. The viral load was measured in 501 samples; 490 samples (viral load >= 1000 copies/mL) were genotyped using a nucleotide population-based sequencing assay. Self-reported demographic and clinical data were elicited through interviews. We classified drug-resistance-associated mutations (DRMs) according to the 2009 WHO surveillance list.
+   Results: DRMs were identified in 17/490 participants (3.5%; 95% CI 2.2%-5.5%). The prevalence of DRMs was 1.6% (8/490) against NRTIs, 1.6% (8/490) against NNRTIs and 0.8% (4/490) against PIs; three (0.6%) participants were resistant to both NRTIs and NNRTIs. The overall prevalence of PDR to first-line drugs was low[2.7% (13/490); 95% CI 1.6%-4.4%]. The prevalence of PDR to first-line drugs was greater among 198 HIV-infected participants who injected drugs than among 286 participants who reported risks for sexually acquired HIV (4.0% versus 1.4%, P = 0.079). Multivariable logistic regression analysis suggested that PDR to first-line drugs was significantly higher among people who injected drugs (OR = 3.94; 95% CI 1.13-13.68).
+   Conclusions: With low PDR, first-line ART may be effective in Vietnam and pretreatment genotyping may be unnecessary. Continuing strategies for the prevention and surveillance of antiretroviral resistance are important for maintaining a low prevalence of antiretroviral resistance in Vietnam. The association between resistance and injection drug use warrants further research.
+C1 [Quang Duy Pham; Thuong Vu Nguyen; Nghia Van Khuu; Phuc Duy Nguyen] Inst Pasteur, Dept Dis Control & Prevent, Ho Chi Minh City, Vietnam.
+   [Quang Duy Pham; Zhang, Lei] UNSW Australia, Surveillannce & Evaluat Program Publ Hlth, Kirby Inst, Sydney, NSW, Australia.
+   [Nhan Thi Do; Duong Duc Bui; Hai Huu Nguyen] Vietnam Author HIV AIDS Control, Dept HIV Care & Treatment, Hanoi, Vietnam.
+   [Yen Ngoc Le; Duc Bui Nguyen; Hien Thu Bui; McConnell, Michelle] US Ctr Dis Control & Prevent, Hanoi, Vietnam.
+   [Thu Khanh Hoang Huynh; Anh Que Luong; Lien Xuan Truong] Inst Pasteur, Dept Lab Anal, Ho Chi Minh City, Vietnam.
+   [Long Thanh Nguyen] Minist Hlth, Hanoi, Vietnam.
+RP Truong, LX (reprint author), Inst Pasteur, Dept Lab Anal, Ho Chi Minh City, Vietnam.
+EM truongxuanlien@gmail.com
+OI Zhang, Lei/0000-0003-2343-084X
+FU President's Emergency Plan for AIDS Relief (PEPFAR) through U.S. Centers
+   for Disease Control and Prevention [5U2GPS000747-03F]; Australian PhD
+   Scholarship; Australian Government, Department of Health and Ageing;
+   UNSW Australia
+FX This research has been supported by the President's Emergency Plan for
+   AIDS Relief (PEPFAR) through the U.S. Centers for Disease Control and
+   Prevention under the terms of Cooperative Agreement project number
+   5U2GPS000747-03F. Q. D. P.'s work has been supported in part by an
+   Australian PhD Scholarship. The Kirby Institute is funded by the
+   Australian Government, Department of Health and Ageing, and is
+   affiliated with the UNSW Australia.
+CR Ayouba A, 2009, AIDS RES HUM RETROV, V25, P1193, DOI 10.1089/aid.2009.0142
+   Bangsberg David R, 2007, Curr HIV/AIDS Rep, V4, P65, DOI 10.1007/s11904-007-0010-0
+   Bennett DE, 2008, ANTIVIR THER, V13, P25
+   Bennett DE, 2008, ANTIVIR THER, V13, P1
+   Bennett DE, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004724
+   Bertagnolio S, 2012, ANTIVIR THER, V17, P941, DOI 10.3851/IMP2320
+   Cambiano V, 2013, J INFECT DIS, V207, pS57, DOI 10.1093/infdis/jit111
+   Cohen MS, 2011, NEW ENGL J MED, V365, P493, DOI 10.1056/NEJMoa1105243
+   Dean J, 2011, AIDS RES HUM RETROV, V27, P797, DOI 10.1089/aid.2011.0013
+   Nguyen DB, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0055750
+   Duc NB, 2012, CLIN INFECT DIS, V54, pS343, DOI 10.1093/cid/cir1049
+   Hamers RL, 2012, LANCET INFECT DIS, V12, P307, DOI 10.1016/S1473-3099(11)70255-9
+   Hogg R, 2008, LANCET, V372, P293, DOI 10.1016/S0140-6736(08)61113-7
+   Jordan M, 2013, INT J STD AIDS, V25, P662
+   Jordan MR, 2008, ANTIVIR THER, V13, P15
+   Nichols BE, 2014, AIDS, V28, P73, DOI 10.1097/01.aids.0000433239.01611.52
+   Phanuphak P, 2014, JAIDS-J ACQ IMM DEF, V66, P74, DOI 10.1097/QAI.0000000000000108
+   Sax PE, 2005, CLIN INFECT DIS, V41, P1316, DOI 10.1086/496984
+   Tanser F, 2013, SCIENCE, V339, P966, DOI 10.1126/science.1228160
+   Tanuma J, 2014, JAIDS-J ACQ IMM DEF, V66, P358, DOI 10.1097/QAI.0000000000000196
+   Thanh DC, 2009, AIDS BEHAV, V13, P1151, DOI 10.1007/s10461-008-9451-8
+   Vietnamese Ministry of Health, 2009, NAT GUID DIAGN TREAT
+   WHO, 2013, CONS GUID US ANT DRU
+   Wittkop L, 2011, LANCET INFECT DIS, V11, P363, DOI 10.1016/S1473-3099(11)70032-9
+   World Health Organization, 2014, SURV HIV DRUG RES AD
+NR 25
+TC 6
+Z9 6
+U1 0
+U2 2
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0305-7453
+EI 1460-2091
+J9 J ANTIMICROB CHEMOTH
+JI J. Antimicrob. Chemother.
+PD MAR
+PY 2015
+VL 70
+IS 3
+BP 941
+EP 947
+DI 10.1093/jac/dku473
+PG 7
+WC Infectious Diseases; Microbiology; Pharmacology & Pharmacy
+SC Infectious Diseases; Microbiology; Pharmacology & Pharmacy
+GA CC2ZV
+UT WOS:000350214700042
+PM 25433009
+OA Bronze
+DA 2019-03-26
+ER
+
+PT B
+AU Raveneau, P
+   Stanica, R
+   Fiore, M
+   Uppoor, S
+   Cunche, M
+   Rivano, H
+   Smoreda, Z
+AF Raveneau, Patrice
+   Stanica, Razvan
+   Fiore, Marco
+   Uppoor, Sandesh
+   Cunche, Mathieu
+   Rivano, Herve
+   Smoreda, Zbigniew
+GP IEEE
+TI Urban-scale Cellular Offloading through Wi-Fi Access Points: a
+   Measurement-based Case Study
+SO 2015 IEEE 1ST INTERNATIONAL FORUM ON RESEARCH AND TECHNOLOGIES FOR
+   SOCIETY AND INDUSTRY (RTSI 2015) PROCEEDINGS
+LA English
+DT Proceedings Paper
+CT IEEE 1st International Forum on Research and Technologies for Society
+   and Industry (RTSI 2015) Proceedings
+CY SEP 16-18, 2014
+CL Torino, ITALY
+SP IEEE, IEEE Italy Section, AEIT, AICA
+DE Cellular offloading; mobile demand; open Wi-Fi; measurement data
+AB Wi-Fi offloading is one of the most effective approaches to relieve the cellular radio access from part of the burgeoning mobile demand. To date, Wi-Fi offloading has been mainly leveraged in limited contexts, such as home, office or campus environments. In this paper, we investigate the scaling properties of Wi-Fi offloading, by studying how it would perform on a much larger scope than those considered today. To that end, we consider a real-world citywide scenario, built on data about actual infrastructure deployments and mobile traffic demand, and observe which amount of traffic could be accommodated by the existing pervasive Wi-Fi access infrastructure, were it opened to mobile users. We find that more than 80% of the mobile traffic demand in a large urban area may be easily served by Wi-Fi access points, under a wide range of system settings.
+C1 [Raveneau, Patrice; Stanica, Razvan; Fiore, Marco; Cunche, Mathieu; Rivano, Herve] Univ Lyon, INRIA, INSA Lyon, CITI INRIA, F-69621 Villeurbanne, France.
+   [Fiore, Marco] CNR, IEIIT, I-10129 Turin, Italy.
+   [Uppoor, Sandesh; Smoreda, Zbigniew] Orange Labs, Sociol & Econ Networks & Serv Dept, F-92794 Issy Les Moulineaux, France.
+   [Uppoor, Sandesh] Univ Paris 06, Sorbonne Univ, UMR 7606, LIP6, F-75005 Paris, France.
+RP Raveneau, P (reprint author), Univ Lyon, INRIA, INSA Lyon, CITI INRIA, F-69621 Villeurbanne, France.
+EM razvan.stanica@insa-lyon.fr
+RI Fiore, Marco/Q-3508-2016
+OI Fiore, Marco/0000-0002-0772-9967
+CR [Anonymous], 2013, CISCO VISUAL NETWORK
+   [Anonymous], 2011, 24312 3GPP TS, VAccess Network Discovery and Selection Function (ANDFS) Management Object (MO)
+   Fuxjager P., 2011, IEEE VTC SPRING
+   Lee K, 2013, IEEE ACM T NETWORK, V21, P536, DOI 10.1109/TNET.2012.2218122
+   Liu S., 2012, ACM SIGCOMM CELLNET
+   Rebecchi F., DATA OFFLOADING TECH
+   Rouveyrol P., 2015, SAT S PHIL PA US
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-8167-3
+PY 2015
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA BF3TB
+UT WOS:000380575200020
+DA 2019-03-26
+ER
+
+PT J
+AU Aapaoja, A
+   Leviakangas, P
+AF Aapaoja, Aki
+   Leviaekangas, Pekka
+TI LOCAL INNOVATION SYSTEM IN NORTHERN FINLAND - CASE RENEWABLE ENERGY
+   SOLUTIONS PILOTS IN OULU
+SO INTERNATIONAL JOURNAL OF TECHNOLOGY
+LA English
+DT Article
+DE Innovation; Renewable energy; RESCA; Scalability; Urban innovation
+ID RESEARCH-AND-DEVELOPMENT; COMPETITION; CLUSTERS
+AB To respond to the dynamics of urban surroundings, enhancing innovativeness in the urban environment has become increasingly important. The major challenge with innovations in urban environment is that many of them do not diffuse easily. The paper identifies the challenges related to urban innovation processes and their scaling-up, using the renewable energy solution pilot project as an example case. This is done by discussing the position and maturity of Renewable Energy Solutions in City Areas (RESCA) in an innovation typology context, and by assessing performed actions aimed at boosting the innovativeness in the case project. Results emphasized the essential role of the local building administration as a proactive stakeholder who started open-mindedly to address old-fashioned, inefficient and dominant practices of the construction industry. Another innovation hot-spot was that market actors needed to collaborate, take steps and present their ideas in order to find, implement and pilot the emerging solutions and innovations.
+C1 [Aapaoja, Aki] VTT Tech Res Ctr Finland Ltd, Transport Res Team, Kaitovayla 1, Oulu 90590, Finland.
+   [Leviaekangas, Pekka] Curtin Univ, Sch Built Environm, Bentley, WA 6102, Australia.
+RP Aapaoja, A (reprint author), VTT Tech Res Ctr Finland Ltd, Transport Res Team, Kaitovayla 1, Oulu 90590, Finland.
+EM aki.aapaoja@vtt.fi
+OI Leviakangas, Pekka/0000-0002-6693-2084
+CR Aapaoja A., 2014, INNOVATION ARCHITECT, P195
+   Aapaoja A., 2014, THESIS U OULU OULU
+   Barkley D. L., 1997, Review of Agricultural Economics, V19, P308, DOI 10.2307/1349744
+   Batt PJ, 2004, IND MARKET MANAG, V33, P169, DOI 10.1016/j.indmarman.2003.11.004
+   Belderbos R, 2004, RES POLICY, V33, P1477, DOI 10.1016/j.respol.2004.07.003
+   Bugaje IM, 2006, RENEW SUST ENERG REV, V10, P603, DOI 10.1016/j.rser.2004.11.002
+   Business Dictionary, 2015, WHAT IS INN DEF MEAN
+   Chesbrough H. W., 2004, OPEN INNOVATION NEW
+   City of Oulu, 2015, TUL RAK OUL
+   City of Oulu, 2014, UUS RESCARAKENNUSVAL
+   City of Tampere, 2013, ECO2 ECOEFF
+   Hakansson H., 1995, DEV RELATIONSHIPS BU
+   Halinen A., 1998, SCAND J MANAG, V14, P187, DOI DOI 10.1016/S0956-5221(98)80009-2
+   Hasan MH, 2012, RENEW SUST ENERG REV, V16, P2316, DOI 10.1016/j.rser.2011.12.007
+   Hermia Group, 2013, RESCA REN EN SOL CIT
+   Iansiti M, 2004, HARVARD BUS REV, V82, P68
+   Launonen M., 2011, GLOBAL BEST PRACTICE
+   Majava J., 2013, INT J SYNERGY RES, V2, P23
+   Moore J. F., 1996, DEATH COMPETITION LE
+   Peltoniemi M, 2004, P EBUSINESS RES FOR, P267
+   Porter ME, 2000, ECON DEV Q, V14, P15, DOI 10.1177/089124240001400105
+   Porter ME, 1998, HARVARD BUS REV, V76, P77
+   Prahaladand C.K., 2004, FUTURE COMPETITION C
+   Reijula K, 2012, RAKENNUSTEN KOSTEUS
+   Un CA, 2010, J PROD INNOVAT MANAG, V27, P673, DOI 10.1111/j.1540-5885.2010.00744.x
+NR 25
+TC 1
+Z9 1
+U1 0
+U2 10
+PU UNIV INDONESIA
+PI DEPOK
+PA DIRECTORATE RESEARCH & PUBLIC SERV, UI CAMPUS, KAMOUS UNIV INDONESIA,
+   DEPOK, 16424, INDONESIA
+SN 2086-9614
+EI 2087-2100
+J9 INT J TECHNOL
+JI Int. J. Technol.
+PY 2015
+VL 6
+IS 5
+BP 722
+EP 732
+DI 10.14716/ijtech.v6i5.1230
+PG 11
+WC Engineering, Multidisciplinary
+SC Engineering
+GA DD1MU
+UT WOS:000369686600002
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Khalifa, MA
+AF Khalifa, Marwa A.
+TI Evolution of informal settlements upgrading strategies in Egypt: From
+   negligence to participatory development
+SO AIN SHAMS ENGINEERING JOURNAL
+LA English
+DT Article
+DE Affordable shelter; Egypt; Housing policy; Informal settlements;
+   Upgrading strategies; Urban poor
+AB The issue of informal settlements represents a key challenge not only in Egypt, but also worldwide. A review of informal settlements upgrading policies shows that governments have moved away from eradication policies to provision, enabling and participatory policies. This shift was motivated by the recognition that informal settlements were not a problem but a solution stimulated by the society when the formal housing markets cannot fulfill its demand. In Egypt, despite all efforts to contain the growth of informal settlements, they are steadily growing. This paper aims at mapping the change of informal settlements upgrading strategies in Egypt starting from negligence to contemporary participatory development approaches and housing policies aimed at providing affordable shelter to the urban poor. Additionally, it examines some best practices of informal settlements upgrading projects to find out the influential driving forces affecting the success of these projects that are suitable for scaling up and replication. (C) 2015 Faculty of Engineering, Ain Shams University. Production and hosting by Elsevier B.V.
+C1 [Khalifa, Marwa A.] Ain Shams Univ, Fac Engn, Dept Urban Planning & Design, Cairo 11517, Egypt.
+RP Khalifa, MA (reprint author), Ain Shams Univ, Fac Engn, Dept Urban Planning & Design, 1 El Sarayat St Abbasya, Cairo 11517, Egypt.
+EM marwa_khalifa@eng.asu.edu.eg
+CR Abbott J, 2002, HABITAT INT, V26, P303, DOI 10.1016/S0197-3975(01)00049-2
+   Abdelhalim K, 2010, PARTICIPATORY UPGRAD
+   Acioly C., 2002, LECT NOTES
+   Afify AM, 2004, BUILD FUT 16 CIB WOR
+   Centre d'Etudes et de Documentation conomiques E Juridiques et Sociales (CEDEJ), 2013, WORKSH SER EG URB FU
+   CIA, 2015, WORLD FACT BOOK
+   Cities Alliance, 2008, SLUM UPGR CLOS EXP 6
+   Denis E., 2002, ISIS INFORM SYSTEM I
+   DURANDLASSERVE A, 1996, UMP WORKING PAPER SE, V6
+   El-Batran M, 1998, ENVIRON URBAN, V10, P217, DOI 10.1177/095624789801000109
+   El-Framawy A, 2011, EGYPTIAN APPROACH IN
+   EL-Shahat M, 2012, PLANUM TH J URBAN, V1, P1
+   GIZ, 2013, PART DEV PROGR URB A
+   GOPP, 2008, DEV STRAT REP GOV CA
+   Hassan G., 2011, AL AZHAR U J EAJ APR
+   ISDF: Informal Settlement Development Facility, 2009, TERMS REF DAT COLL S
+   Khadr Z, 2011, EGYPTIAN RED CRESCEN
+   Khalifa MA, 2011, HABITAT INT, V35, P40, DOI 10.1016/j.habitatint.2010.03.004
+   Maarouf NM, 2013, C INT LAB FUT URB EN
+   Madbouly M., 1998, ASS GRAD TRAIN BRIT
+   Ministry of Housing Utilities and Urban Communities (MHUUC), 2001, SHELT PROGR CIT DEV
+   Ministry of Housing Utilities and Urban Development (MHUUD and Cairo Governorate, 2008, INT POL DIAL CHALL S
+   Payne G, 2005, ENVIRON URBAN, V17, P135, DOI 10.1177/095624780501700114
+   Payne G. K., 1984, LOW INCOME HOUSING D
+   Piffero E, 2009, CAIROS INFORMAL AREA
+   Sejourne M., 2009, CAIROS INFORMAL AREA
+   Shehayeb D, 2011, MAXIMISING USE VALUE
+   Sims D., 2011, UNDERSTANDING CAIRO
+   Skinner RJ, 1987, SHELTER UPGRADING UR
+   UN-Habitat, 2010, EG EXP STRAT INT INF
+   UNDP, 2008, NAT SLUM UPGR STRAT
+   UNDP/INP, 2004, EG HUM DEV REP 2004
+   Uzun B, 2010, HABITAT INT, V34, P204, DOI 10.1016/j.habitatint.2009.09.004
+   World Bank, 2008, FRAM HOUS POL REF UR
+NR 34
+TC 1
+Z9 1
+U1 1
+U2 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2090-4479
+EI 2090-4495
+J9 AIN SHAMS ENG J
+JI Ain Shams Eng. J.
+PD DEC
+PY 2015
+VL 6
+IS 4
+BP 1151
+EP 1159
+DI 10.1016/j.asej.2015.04.008
+PG 9
+WC Engineering, Multidisciplinary
+SC Engineering
+GA CY4TY
+UT WOS:000366402600003
+OA DOAJ Gold
+DA 2019-03-26
+ER

@@ -1,0 +1,493 @@
+
+PT J
+AU Qin, JJ
+   Zheng, MH
+AF Qin, Jianjun
+   Zheng, Maohui
+TI New York city taxi trips: Dynamic networks following inconsistent power
+   law
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS C
+LA English
+DT Article
+DE Time-dependent taxi trip network; uncertainty; intercommunity activity;
+   intracommunity activity
+ID HUMAN MOBILITY; PATTERNS; TRACES
+AB The present paper maps the records of urban taxi trips into dynamic networks, where nodes are the communities and links represent the recorded taxi trips between them. The dynamic urban taxi trip networks, where nodes are the communities and links represent the recorded taxi trips between them, are formulated here as a special type of large-scale traffic system with an enormous impact on the city, in which the existence of uncertainties together with the spatial and temporal variation in the distribution of the taxi trips are considered. Three types of indicators are proposed to facilitate the measurement of the activities between and inside the communities (nodes of the network) from qualitative and quantitative perspectives. It could be found from the analysis of the records within the New York city that these indicators are inconsistent to each other, and nevertheless, none of them distributes uniformly within the city but generally follows the power law in spite of their time-dependent properties. Further, the unusually low values of the scaling parameters from the curve fitting with power law for all the proposed indicators illustrate the severe inhomogeneity of the networks (also the city).
+C1 [Qin, Jianjun; Zheng, Maohui] Tongji Univ, Shanghai Inst Disaster Prevent & Relief, Shanghai 200092, Peoples R China.
+   [Zheng, Maohui] Univ Maine, Sch Comp & Informat Sci, Orono, ME 04469 USA.
+RP Zheng, MH (reprint author), Tongji Univ, Shanghai Inst Disaster Prevent & Relief, Shanghai 200092, Peoples R China.; Zheng, MH (reprint author), Univ Maine, Sch Comp & Informat Sci, Orono, ME 04469 USA.
+EM jianjunqin@gmail.com; zmh@tongji.edu.cn
+FU National Key R&D Program of China [2016YFC080240]; Natural Science
+   Foundation of China [51408438, 41001217]; Shanghai Pujiang Program
+   [14PJ1408300]; Scientific Research Foundation for the Returned Overseas
+   Chinese Scholars; Program of Study Abroad for Young Scholar - China
+   Scholarship Council; Fundamental Research Funds for the Central
+   Universities
+FX The authors greatly acknowledge the Taxi & Limousine Commission of New
+   York City for providing the data used in this paper. The authors also
+   greatly appreciate the elaborate and constructive comments by the
+   reviewers. This work was supported by National Key R&D Program of China
+   under Grant number 2016YFC080240, the Natural Science Foundation of
+   China under Grant numbers 51408438 and 41001217; Shanghai Pujiang
+   Program under Grant number 14PJ1408300; the Scientific Research
+   Foundation for the Returned Overseas Chinese Scholars; the Program of
+   Study Abroad for Young Scholar sponsored by China Scholarship Council;
+   and the Fundamental Research Funds for the Central Universities.
+CR Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Castro P. S., 2013, ACM COMPUT SURV, V46, P1
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Kunegis J., 2012, P 4 ANN ACM WEB SCI
+   Liang X, 2012, PHYSICA A, V391, P2135, DOI 10.1016/j.physa.2011.11.035
+   Liu LA, 2010, COMPUT ENVIRON URBAN, V34, P541, DOI 10.1016/j.compenvurbsys.2010.07.004
+   Liu Y, 2012, J GEOGR SYST, V14, P463, DOI 10.1007/s10109-012-0166-z
+   Pan G, 2013, IEEE T INTELL TRANSP, V14, P113, DOI 10.1109/TITS.2012.2209201
+   Wang WJ, 2015, PHYSICA A, V420, P134, DOI 10.1016/j.physa.2014.10.085
+   Zheng Y., 2011, URBAN COMPUTING TAXI
+NR 10
+TC 1
+Z9 1
+U1 2
+U2 9
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0129-1831
+EI 1793-6586
+J9 INT J MOD PHYS C
+JI Int. J. Mod. Phys. C
+PD JUL
+PY 2017
+VL 28
+IS 7
+AR 1750088
+DI 10.1142/S0129183117500887
+PG 19
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+SC Computer Science; Physics
+GA FC5YC
+UT WOS:000406916600004
+DA 2019-03-26
+ER
+
+PT S
+AU Baibarac, C
+   Petrescu, D
+AF Baibarac, Corelia
+   Petrescu, Doina
+BE Seto, K
+   Robinson, D
+   Virji, H
+   Kovacs, Z
+   Zhai, J
+   Sami, N
+   Pettit, C
+   Sridhar, KS
+TI Open-source resilience: a connected commons-based proposition for urban
+   transformation
+SO URBAN TRANSITIONS CONFERENCE
+SE Procedia Engineering
+LA English
+DT Proceedings Paper
+CT Urban Transitions Conference
+CY SEP, 2016
+CL Shanghai, PEOPLES R CHINA
+DE resilience; urban transformation; commoning; open-source; digital
+   platform; co-design; agency; Paris
+AB In this paper we propose the concept of 'open-source resilience' as a promising path towards urban transformation and greater resilience. This proposition is investigated through the process of co-designing a digital platform, providing tools for actors engaging with resilience through urban commoning processes. Such tools will have the role of sustaining commoning projects and scaling them (up and wide) by facilitating processes of knowledge-sharing and networking. To illustrate the approach, we present outcomes and observations from an initial stage of the co-design process, which resulted in a first digital prototype. (c) 2017 The Authors. Published by Elsevier Ltd.
+C1 [Baibarac, Corelia; Petrescu, Doina] Univ Sheffield, Sch Architecture, Arts Tower, Sheffield S10 2TN, S Yorkshire, England.
+RP Baibarac, C (reprint author), Univ Sheffield, Sch Architecture, Arts Tower, Sheffield S10 2TN, S Yorkshire, England.
+FU Marie Sklodowska-Curie research grant
+FX The results discussed in this paper are part of a wider European
+   research project, based at the University of Sheffield, School of
+   Architecture. The project, entitled EcoDA (Experimental co-Design
+   Approaches: Investigating possibilities for creating networks of
+   resilient citizens and civic actions of urban resilience through hybrid
+   platforms), is funded by a Marie Sklodowska-Curie research grant (2015 -
+   2017).
+CR [Anonymous], 2014, INT COMM
+   Armitage D., 2008, INT J COMMONS, V2, P7, DOI [DOI 10.18352/IJC.28, 10.18352/ijc.28]
+   Beilin R, 2015, URBAN STUD, V52, P1205, DOI 10.1177/0042098015574955
+   Benkler Y, 2006, WEALTH NETWORKS SOCI
+   Benkler Y, 2006, J POLIT PHILOS, V14, P394, DOI 10.1111/j.1467-9760.2006.00235.x
+   Bollier David, 2008, VIRAL SPIRAL COMMONE
+   Bollier David., 2014, THINK COMMONER SHORT
+   Boyd E., 2014, URBAN STUDIES
+   Bradley K., 2015, FOOTPRINT DELFT ARCH, V9, P91
+   Brown G, 2012, ENVIRON PLANN A, V44, P1607, DOI 10.1068/a44608
+   Casarino C, 2008, IN PRAISE OF THE COMMON: A CONVERSATION ON PHILOSOPHY AND POLITICS, P1
+   Conaty P., 2012, RESILIENCE IMPERATIV
+   Cretney R, 2014, GEOGR COMPASS, V8, P627, DOI 10.1111/gec3.12154
+   Cretney R, 2014, RESILIENCE, V2, P18, DOI 10.1080/21693293.2013.872449
+   De Angelis M, 2010, ANTIPODE, V42, P954, DOI 10.1111/j.1467-8330.2010.00783.x
+   Department of Economic and Social Affairs (DESA), 2011, WORLD URB PROSP 2011
+   Diprose K., 2015, SOUNDINGS, V58
+   Folke C, 2006, GLOBAL ENVIRON CHANG, V16, P253, DOI 10.1016/j.gloenvcha.2006.04.002
+   Folke C, 2010, ECOL SOC, V15
+   Foster S., 2016, YALE LAW POLICY REV, V34, P1
+   Gilchrist A, 2009, WELL CONNECTED COMMU
+   Godschalk DR, 2003, NAT HAZARDS REV, V4, P136, DOI 10.1061/(ASCE)1527-6988(2003)4:3(136)
+   Holling, 1982, PERSPECTIVES ENERGY, p[8, 8]
+   Holling C.S., 1973, Annual Rev Ecol Syst, V4, P1, DOI 10.1146/annurev.es.04.110173.000245
+   Holloway J., 2010, CRACK CAPITALISM
+   Hornborg A, 2009, INT J COMP SOCIOL, V50, P237, DOI 10.1177/0020715209105141
+   HR Government, 2010, DEC LOC BILL ESS GUI
+   Ingold T., 2013, MAKING ANTHR ARCHAEO
+   Pachauri R. K., 2015, CLIMATE CHANGE 2014
+   Joseph J, 2013, RESILIENCE, V1, P38, DOI 10.1080/21693293.2013.765741
+   Linebaugh P, 2008, MAGNA CARTA MANIFESTO: LIBERTIES AND COMMONS FOR ALL, P1
+   London Resilience Partnership, 2013, LOND RES PART STRAT
+   Mackenzie Adrian, 2006, CUTTING CODE SOFTWAR
+   MacKinnon D, 2013, PROG HUM GEOG, V37, P253, DOI 10.1177/0309132512454775
+   Negri A, 2009, COMMONWEALTH
+   Nelson SH, 2014, RESILIENCE, V2, P1, DOI 10.1080/21693293.2014.872456
+   Nevens F, 2013, J CLEAN PROD, V50, P111, DOI 10.1016/j.jclepro.2012.12.001
+   Office C, 2011, STRAT NAT FRAM COMM
+   Ostrom E., 1990, GOVERNING COMMONS EV
+   Peck J, 2002, ANTIPODE, V34, P380, DOI 10.1111/1467-8330.00247
+   Petcou C., 2015, EPHEMERA, V15, P249
+   Pohl C, 2010, SCI PUBL POLICY, V37, P267, DOI 10.3152/030234210X496628
+   Polk M., 2015, COPRODUCING KNOWLEDG
+   Purcell M, 2006, URBAN STUD, V43, P1921, DOI 10.1080/00420980600897826
+   Radywyl N, 2013, J CLEAN PROD, V50, P159, DOI 10.1016/j.jclepro.2012.12.020
+   Raymond E. S., 2003, ART UNIX PROGRAMMING
+   Richard Sennett, 2010, BLACKWELL CITY READE, P261
+   Sen A., 1999, DEV FREEDOM
+   Shaikh A., 2010, INT J ARTS SCI, V3, P155
+   Stavrides S, 2016, COMMON SPACE CITY CO
+   Timmerman P., 1981, VULNERABILITY RESILI
+   Trogal K., 2015, ARCH RES HUM SCAL C
+   Vale LJ, 2014, BUILD RES INF, V42, P191, DOI 10.1080/09613218.2014.850602
+   Wagenaar H., 2013, URBAN STUDIES
+   Walker Brian H., 2004, ECOLOGY SOC, V9
+   Walker J, 2011, SECUR DIALOGUE, V42, P143, DOI 10.1177/0967010611399616
+   Welsh M, 2014, GEOGR J, V180, P15, DOI 10.1111/geoj.12012
+   WERNER EE, 1995, CURR DIR PSYCHOL SCI, V4, P81, DOI 10.1111/1467-8721.ep10772327
+   Wilkinson C, 2012, PLAN THEOR, V11, P148, DOI 10.1177/1473095211426274
+NR 59
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-7058
+J9 PROCEDIA ENGINEER
+PY 2017
+VL 198
+BP 227
+EP 239
+DI 10.1016/j.proeng.2017.07.157
+PG 13
+WC Multidisciplinary Sciences; Urban Studies
+SC Science & Technology - Other Topics; Urban Studies
+GA BJ4ZK
+UT WOS:000425682900021
+OA Other Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU El-Gohary, MA
+AF El-Gohary, M. A.
+TI Environmental impacts: Weathering factors, mechanism and forms affected
+   the stone decaying in Petra
+SO JOURNAL OF AFRICAN EARTH SCIENCES
+LA English
+DT Article
+DE Petra; Weathering; PM; Stereo M; XRD; SEM
+ID SALT CRYSTALLIZATION; DETERIORATION; LIMESTONE; ROCK; STRENGTH; URBAN;
+   WATER; BEHAVIOR; POROSITY; MORTARS
+AB The decay of stones in a natural environment is governed by extrinsic and intrinsic factors. Petra is exposed for centuries to the severe climatic conditions especially temperature (T), total monthly rainfall (TMR) and relative humidity (RH). In this regard, there are negative effects that result from these climatic elements on stone; which affect or are based on the chemical characteristics and physio-mechanical properties of the Petra rocks. The aim of this work is to determine the chemical and mineralogical characteristics including the morphological features which affect the behavior of stones in various environments using valuation techniques such as XRD, PM, Stereo M and SEM. The results proved that the stone was highly affected by two different deterioration mechanisms. The 1st one concerning physical mechanism and the 2nd one is regarding chemical deterioration. Both of them have led to some deterioration forms such as deep cracking, scaling, exfoliation and crumbling due mainly to the heating and cooling alternative cycles as well as frost action. In addition to salt crystallization and powder steadily off. It also show that most of the un-sheltered monuments were severely affected by the freezing and thawing actions, which is need to be a target in a special article to study their different effects. These activities in Petra are the subject of this study which also recommends the suitable materials and methods for preserving these valuable sites. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [El-Gohary, M. A.] Sohag Univ, Conservat Dept, Sohag 82524, Egypt.
+RP El-Gohary, MA (reprint author), Sohag Univ, Conservat Dept, Sohag 82524, Egypt.
+EM m_1968_algohary@yahoo.com
+OI El-Gohary, Mohamed/0000-0001-5061-1828
+CR Ahmad A, 2012, 12 INT C DET CONS ST, P1
+   Al-Khashman OA, 2005, ATMOS RES, V78, P1, DOI 10.1016/j.atmosres.2005.02.003
+   Al-Naddaf M, 2002, THESIS
+   Amoroso G, 1983, MAT SCI MONOGRAPHS, V11
+   Angeli M, 2008, MATER STRUCT, V41, P1091, DOI 10.1617/s11527-007-9308-z
+   Anovitz LM, 2015, REV MINERAL GEOCHEM, V80, P61, DOI 10.2138/rmg.2015.80.04
+   Arnold A, 1991, CONSERVATION WALL PA, P103
+   Baltrunas V, 2006, GEOLOGIA, V56, P12
+   Beck K, 2003, BUILD ENVIRON, V38, P1151, DOI 10.1016/S0360-1323(03)00074-X
+   Berry J., 1994, J I ARCHAEOLOGY, V5, P29
+   Binda L, 2000, CONSTR BUILD MATER, V14, P199, DOI 10.1016/S0950-0618(00)00018-0
+   Bonazza A, 2013, PERIOD MINERAL, V82, P459, DOI 10.2451/2013PM0027
+   Bourges V, 2006, THESIS
+   Brady B. H., 2004, ROCK MECH UNDERGROUN
+   Budhu M, 2011, SOIL MECH FDN
+   Buss HL, 2008, GEOCHIM COSMOCHIM AC, V72, P4488, DOI 10.1016/j.gca.2008.06.020
+   CAMUFFO D, 1983, WATER AIR SOIL POLL, V19, P351, DOI 10.1007/BF00159596
+   Cereceda M, 1989, 1 INT S CONS MON NEL, P91
+   Chatterjee A, 1998, Q J ENG GEOL, V31, P175, DOI 10.1144/GSL.QJEG.1998.031.P3.02
+   Chigira M, 2001, ENG GEOL, V59, P219, DOI 10.1016/S0013-7952(00)00075-2
+   Darwish A, 1992, GEOTECHNICAL STUDIES
+   Dewanckele J., 2012, COL U 12 INT C DET C, P1
+   Dimes F, 1990, CONSERVATION BUILDIN, V1, P150
+   El-Gohary M., 2008, INT J APPL SCI RES, V4, P669
+   El-Gohary MA, 2010, MEDITERR ARCHAEOL AR, V10, P143
+   El-Gohary M, 2015, INT J CONSERV SCI, V6, P349
+   El-Gohary M, 2013, INT J CONSERV SCI, V4, P447
+   Figueiredo C., 2000, 9 INT C DET CONS STO, V2, P236
+   Fitzner B, 2002, GEOL SOC SPEC PUBL, V205, P217, DOI 10.1144/GSL.SP.2002.205.01.17
+   Flatt R, 2012, 12 INT C DET CONS ST, P1
+   Fletcher RC, 2006, EARTH PLANET SC LETT, V244, P444, DOI 10.1016/j.epsl.2006.01.055
+   Franchi R., 2009, MEM DESCR CARTA GEOL, VLXXXVII, P77
+   Gooch J. W., 2011, ENCY DICT POLYM
+   Graue B, 2013, ENVIRON EARTH SCI, V69, P1095, DOI 10.1007/s12665-012-2161-6
+   Gulotta D, 2015, CONSTR BUILD MATER, V96, P198, DOI 10.1016/j.conbuildmat.2015.08.006
+   HALSEY DP, 1995, BUILD ENVIRON, V30, P411, DOI 10.1016/0360-1323(94)00060-6
+   Hayen R., 2012, 12 INT C DET CONS ST, P1
+   Hoerle S, 2006, EARTH SURF PROC LAND, V31, P383, DOI 10.1002/esp.1329
+   ICOMOS, 2005, HER RISK 2004 2005
+   Jordan Meteorological department, 2015, MET EL DAT
+   Kottke J, 2009, THESIS
+   LAUTRIDOU JP, 1986, GEOGR ANN A, V68, P89, DOI DOI 10.2307/521179
+   LINDE K, 1983, GEOGR ANN A, V65, P193, DOI 10.2307/520586
+   Mammen J., 2009, COAL 2009, P340
+   Manutchehr-Danai M, 2009, DICT GEMS GEMOLOGY
+   MAUKO A, 2006, RMZ MAT GEOENVIRON, V53, P23
+   Mikaeil R, 2013, ARAB J GEOSCI, V6, P115, DOI 10.1007/s12517-011-0311-x
+   Moen W., 1967, BUILDING STONES WASH
+   Mubiayi MP, 2013, LECT NOTES ENG COMP, P2171
+   Mupira P, 2011, INVESTIGATION STRUCT
+   Mustafa M. H., 2011, ASIAN SOCIAL SCI, V7, P88
+   Navarre-Sitchler A, 2015, REV MINERAL GEOCHEM, V80, P331, DOI 10.2138/rmg.2015.80.10
+   Navarre-Sitchler A, 2009, J GEOPHYS RES-EARTH, V114, DOI 10.1029/2008JF001060
+   Noiriel C, 2010, CHEM GEOL, V269, P197, DOI 10.1016/j.chemgeo.2009.09.018
+   O'connor J., 2001, AICCM B, V26, P20, DOI DOI 10.1179/BAC.2001.26.1.004
+   OLLIER CD, 1971, EARTH-SCI REV, V7, P127, DOI 10.1016/0012-8252(71)90005-5
+   Ondrasik M, 2014, STUD GEOTECH MECH, V36, P79, DOI 10.2478/sgem-2014-0010
+   Oucha H, 2013, EUR SCI J, V9, P282
+   Papay Z, 2012, COL U 12 INT C DET C, P1
+   Paradise T., 1999, ADAJ, VXLIII, P353
+   Peng ZW, 2013, GEOCHEM GEOPHY GEOSY, V14, P18, DOI 10.1029/2012GC004482
+   Rodriguez-Navarro C, 1999, EARTH SURF PROC LAND, V24, P191, DOI 10.1002/(SICI)1096-9837(199903)24:3<191::AID-ESP942>3.0.CO;2-G
+   Rothert E, 2007, GEOL SOC SPEC PUBL, V271, P189, DOI 10.1144/GSL.SP.2007.271.01.19
+   Roxborough F, 1987, SEM TUNN WHOLL ENG S
+   Ruedrich J, 2006, PROC MONOGR ENG WATE, P497
+   Ruedrich J, 2011, ENVIRON EARTH SCI, V63, P1573, DOI 10.1007/s12665-010-0826-6
+   Ruedrich J, 2007, GEOL SOC SPEC PUBL, V271, P199, DOI 10.1144/GSL.SP.2007.271.01.20
+   Sandrolini F, 2011, J CULT HERIT, V12, P441, DOI 10.1016/j.culher.2011.04.005
+   Santamaria P, 1994, INT S CONS MON NEI B, P585
+   Shadmon A., 1996, STONE INTRO
+   Shao W, 2006, LECT NOTES ARTIF INT, V4133, P420
+   Siegesmund S, 2011, STONE IN ARCHITECTURE: PROPERTIES, DURABILITY, FOURTH EDITION, P11, DOI 10.1007/978-3-642-14475-2_2
+   Smith BJ, 2008, PROG PHYS GEOG, V32, P439, DOI 10.1177/0309133308098119
+   Steiger M, 2011, STONE IN ARCHITECTURE: PROPERTIES, DURABILITY, FOURTH EDITION, P227, DOI 10.1007/978-3-642-14475-2_4
+   Stuck H, 2011, ENVIRON EARTH SCI, V63, P1763, DOI 10.1007/s12665-011-1043-7
+   Tiab D, 2004, PETROPHYSICS THEORY
+   Torraca G, 2009, LECT MAT SCI ARCHITE
+   Tugrul A, 1999, ENVIRON GEOL, V38, P149
+   Turkington AV, 2005, GEOMORPHOLOGY, V67, P229, DOI 10.1016/j.geomorph.2004.09.028
+   Vasarhelyi B, 2006, ENG GEOL, V84, P70, DOI 10.1016/j.enggeo.2005.11.011
+   Walker P., 1992, ENG STUDY DRYSTONE M
+   Wang HW, 2013, GEOCHIM COSMOCHIM AC, V121, P339, DOI 10.1016/j.gca.2013.07.034
+   WEBER H, 1991, CONSERVATION NATURAL
+   WEST G, 1994, Q J ENG GEOL, V27, P51, DOI 10.1144/GSL.QJEGH.1994.027.P1.07
+   Wheeler G., 1997, TECHNICAL REPORT, P44
+   Xie SD, 2004, ATMOS ENVIRON, V38, P4457, DOI 10.1016/j.atmosenv.2004.05.017
+   Young D., 2008, SALT ATTACK RISING D
+   Zorlu K, 2008, ENG GEOL, V96, P141, DOI 10.1016/j.enggeo.2007.10.009
+NR 88
+TC 2
+Z9 2
+U1 5
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1464-343X
+EI 1879-1956
+J9 J AFR EARTH SCI
+JI J. Afr. Earth Sci.
+PD NOV
+PY 2017
+VL 135
+BP 204
+EP 212
+DI 10.1016/j.jafrearsci.2017.08.020
+PG 9
+WC Geosciences, Multidisciplinary
+SC Geology
+GA FL0CN
+UT WOS:000413879000017
+DA 2019-03-26
+ER
+
+PT J
+AU Riascos, AP
+AF Riascos, A. P.
+TI Universal scaling of the distribution of land in urban areas
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID POWER-LAW DISTRIBUTIONS; SPATIAL STRUCTURE; EMPIRICAL-DATA; PATTERNS;
+   CITIES; NETWORKS; GROWTH
+AB In this work, we explore the spatial structure of built zones and green areas in diverse western cities by analyzing the probability distribution of areas and a coefficient that characterize their respective shapes. From the analysis of diverse datasets describing land lots in urban areas, we found that the distribution of built-up areas and natural zones in cities obey inverse power laws with a similar scaling for the cities explored. On the other hand, by studying the distribution of shapes of lots in urban regions, we are able to detect global differences in the spatial structure of the distribution of land. Our findings introduce information about spatial patterns that emerge in the structure of urban settlements; this knowledge is useful for the understanding of urban growth, to improve existing models of cities, in the context of sustainability, in studies about human mobility in urban areas, among other applications.
+C1 [Riascos, A. P.] Univ Mariana, Dept Civil Engn, San Juan De Pasto, Colombia.
+RP Riascos, AP (reprint author), Univ Mariana, Dept Civil Engn, San Juan De Pasto, Colombia.
+EM aaappprrr@gmail.com
+OI Perez Riascos, Alejandro/0000-0002-9243-3246
+FU Centro de Investigaciones CEI, Universidad Mariana
+FX A.P.R. acknowledges financial support from the Centro de Investigaciones
+   CEI, Universidad Mariana.
+CR Angel S., 2005, DYNAMICS GLOBAL URBA
+   Barthelemy M., 2016, STRUCTURE DYNAMICS C
+   Barthelemy M, 2017, ENVIRON PLAN B-URBAN, V44, P256, DOI 10.1177/0265813515599982
+   Barthelemy M, 2013, SCI REP-UK, V3, DOI 10.1038/srep02153
+   Barthelemy M, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.138702
+   Batty M., 2013, NEW SCI CITIES
+   Batty M, 2005, CITIES COMPLEXITY UN
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2015, NEXUS NETW J, V17, P831, DOI 10.1007/s00004-015-0268-2
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bitner A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.037102
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Fialkowski M, 2008, LANDSCAPE ECOL, V23, P1013, DOI 10.1007/s10980-008-9268-x
+   Fujita M, 2001, SPATIAL EC CITIES RE
+   Goh S, 2016, PHYS REV E, V93, DOI 10.1103/PhysRevE.93.052309
+   Irvine MA, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150519
+   Irvine MA, 2016, THEOR POPUL BIOL, V108, P70, DOI 10.1016/j.tpb.2015.12.001
+   Jenerette GD, 2010, LANDSCAPE ECOL, V25, P657, DOI 10.1007/s10980-010-9457-2
+   Jenks M., 2009, FUTURE CITY
+   Kefi S, 2007, NATURE, V449, P213, DOI 10.1038/nature06111
+   Kefi S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092097
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Lee M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0140152
+   Levy M, 1997, PHYSICA A, V242, P90, DOI 10.1016/S0378-4371(97)00217-3
+   Louf R, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0924
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.198702
+   Ma D, 2015, ISPRS INT GEO-INF, V4, P535, DOI 10.3390/ijgi4020535
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Marshall S., 2009, URBAN DESIGN PLANNIN
+   Masucci AP, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0763
+   Murcio R, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.062130
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   Pueyo S, 2011, LANDSCAPE ECOL, V26, P305, DOI 10.1007/s10980-010-9569-8
+   Santos MC, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.061114
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Sousa D, 2016, REMOTE SENS ENVIRON, V184, P615, DOI 10.1016/j.rse.2016.07.038
+   Strano E, 2012, SCI REP-UK, V2, DOI 10.1038/srep00296
+   Virkar Y, 2014, ANN APPL STAT, V8, P89, DOI 10.1214/13-AOAS710
+   Zwillinger D, 2002, ADV APPL MATH
+NR 41
+TC 2
+Z9 2
+U1 0
+U2 7
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2470-0045
+EI 2470-0053
+J9 PHYS REV E
+JI Phys. Rev. E
+PD SEP 1
+PY 2017
+VL 96
+IS 3
+AR 032302
+DI 10.1103/PhysRevE.96.032302
+PG 8
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA FF3QN
+UT WOS:000408829500004
+PM 29347001
+DA 2019-03-26
+ER
+
+PT J
+AU Brancolini, A
+   Wirth, B
+AF Brancolini, Alessio
+   Wirth, Benedikt
+TI OPTIMAL ENERGY SCALING FOR MICROPATTERNS IN TRANSPORT NETWORKS
+SO SIAM JOURNAL ON MATHEMATICAL ANALYSIS
+LA English
+DT Article
+DE micropatterns; energy scaling laws; optimal transport; optimal networks;
+   branched transport; irrigation; urban planning; Wasserstein distance
+ID TETRAGONAL PHASE-TRANSFORMATION; NUCLEATION BARRIERS; IRRIGATION
+   PATTERNS; INTERMEDIATE STATE; I SUPERCONDUCTOR; TRAFFIC PLANS;
+   MINIMIZATION; MODEL
+AB We consider two variational models for transport networks, an urban planning and a branched transport models, in which the degree of network complexity and ramification is governed by a small parameter epsilon > 0. Smaller epsilon leads to finer ramification patterns, and we analyze how optimal network patterns in a particular geometry behave as epsilon -> 0 by proving an energy scaling law. This entails providing constructions of near-optimal networks as well as proving that no other construction can do better. The motivation of this analysis is twofold. On the one hand, it provides a better understanding of the transport network models; for instance, it reveals qualitative differences in the ramification patterns of urban planning and branched transport. On the other hand, the analysis illustrates several variations and refinements of a well-established proof technique based on relaxation and convex duality. Transport networks provide one of the simplest settings in which to explore such variations.
+C1 [Brancolini, Alessio; Wirth, Benedikt] Univ Munster, Inst Numer & Appl Math, D-48149 Munster, Germany.
+RP Brancolini, A (reprint author), Univ Munster, Inst Numer & Appl Math, D-48149 Munster, Germany.
+EM alessio.brancolini@uni-muenster.de; benedikt.wirth@uni-muenster.de
+FU Deutsche Forschungsgemeinschaft (DFG), Cells-in-Motion Cluster of
+   Excellence, University of Munster, Germany [EXC 1003-CiM]; Alfried Krupp
+   Prize for Young University Teachers - Alfried Krupp von Bohlen;
+   Halbach-Stiftung
+FX This work was supported by the Deutsche Forschungsgemeinschaft (DFG),
+   Cells-in-Motion Cluster of Excellence (EXC 1003-CiM), University of
+   Munster, Germany. The work of the second author was supported by the
+   Alfried Krupp Prize for Young University Teachers awarded by the Alfried
+   Krupp von Bohlen and Halbach-Stiftung.
+CR Bedrossian J, 2015, COMMUN PUR APPL MATH, V68, P472, DOI 10.1002/cpa.21540
+   Bella P, 2015, P ROY SOC EDINB A, V145, P715, DOI 10.1017/S0308210515000086
+   Bella P, 2014, COMMUN PUR APPL MATH, V67, P693, DOI 10.1002/cpa.21471
+   Bernot M, 2005, PUBL MAT, V49, P417, DOI 10.5565/PUBLMAT_49205_09
+   Bernot M, 2009, LECT NOTES MATH, V1955, P1, DOI 10.1007/978-3-540-69315-4
+   Bernot M, 2008, ESAIM CONTR OPTIM CA, V14, P864, DOI 10.1051/cocv:2008012
+   Bernot M, 2008, CALC VAR PARTIAL DIF, V32, P279, DOI 10.1007/s00526-007-0139-0
+   Brancolini A, 2005, ESAIM CONTR OPTIM CA, V11, P88, DOI 10.1051/cocv:2004032
+   Brancolini A, 2016, J MATH PURE APPL, V106, P695, DOI 10.1016/j.matpur.2016.03.008
+   Brancolini A, 2014, J MATH PURE APPL, V102, P854, DOI 10.1016/j.matpur.2014.02.008
+   Brancolini A, 2011, INTERFACE FREE BOUND, V13, P191, DOI 10.4171/IFB/254
+   Brezis  H., 2011, FUNCTIONAL ANAL SOBO
+   Buttazzo G, 2002, PROG NONLIN, V51, P41
+   Buttazzo G., 2009, LECT NOTES MATH, V1961
+   Chan A, 2015, MATH MOD METH APPL S, V25, DOI 10.1142/S0218202515500281
+   Choksi R, 1999, COMMUN MATH PHYS, V201, P61, DOI 10.1007/s002200050549
+   Choksi R, 2004, J NONLINEAR SCI, V14, P119, DOI 10.1007/s00332-004-0568-2
+   Choksi R, 2008, COMMUN PUR APPL MATH, V61, P595, DOI 10.1002/cpa.20206
+   CINTI E., 2016, J FUNCT ANAL
+   CONTI S., 2014, COMMUNICATION
+   Conti S, 2016, SIAM J MATH ANAL, V48, P2994, DOI 10.1137/15M1028960
+   Ekeland I., 1999, CLASSICS APPL MATH, V28
+   Goldman M, 2014, SIAM J MATH ANAL, V46, P1, DOI 10.1137/120897250
+   Knupfer H, 2013, COMMUN PUR APPL MATH, V66, P867, DOI 10.1002/cpa.21448
+   KOHN R., 2015, COMM PURE APPL MATH
+   KOHN R. V., 2014, R SOC LOND P A, V470
+   KOHN R. V., 1992, PHILOS MAG A
+   KOHN RV, 1994, COMMUN PUR APPL MATH, V47, P405, DOI 10.1002/cpa.3160470402
+   LIEB E. H., 1997, GRAD STUD MATH, V14
+   Maddalena F, 2003, INTERFACE FREE BOUND, V5, P391
+   Maddalena F, 2013, ADV NONLINEAR STUD, V13, P583
+   Maddalena F, 2009, J CONVEX ANAL, V16, P121
+   Maggi F, 2012, CAM ST AD M, V135, P1, DOI 10.1017/CBO9781139108133
+   Royden H. L., 1988, REAL ANAL
+   Rudin W., 1987, REAL COMPLEX ANAL
+   VILLANI C., 2003, GRAD STUD MATH, V58
+   Villani C, 2009, GRUNDLEHR MATH WISS, V338, P5
+NR 37
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SIAM PUBLICATIONS
+PI PHILADELPHIA
+PA 3600 UNIV CITY SCIENCE CENTER, PHILADELPHIA, PA 19104-2688 USA
+SN 0036-1410
+EI 1095-7154
+J9 SIAM J MATH ANAL
+JI SIAM J. Math. Anal.
+PY 2017
+VL 49
+IS 1
+BP 311
+EP 359
+DI 10.1137/15M1050227
+PG 49
+WC Mathematics, Applied
+SC Mathematics
+GA EO4RK
+UT WOS:000396681800011
+DA 2019-03-26
+ER

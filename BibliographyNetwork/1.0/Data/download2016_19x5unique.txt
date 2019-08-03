@@ -1,0 +1,571 @@
+
+PT J
+AU Reyes, B
+   Maxwell, RM
+   Hogue, TS
+AF Reyes, Bryant
+   Maxwell, Reed M.
+   Hogue, Terri S.
+TI Impact of lateral flow and spatial scaling on the simulation of
+   semi-arid urban land surfaces in an integrated hydrologic and land
+   surface model
+SO HYDROLOGICAL PROCESSES
+LA English
+DT Article
+DE lateral flow; runoff-runon; semi-arid; urban; land surface; hydrologic
+   modeling
+ID WATER-GROUNDWATER INTERACTIONS; CONTERMINOUS UNITED-STATES;
+   HIGH-RESOLUTION SIMULATION; GLOBAL CLIMATE MODEL; ENERGY-BALANCE;
+   HEAT-ISLAND; SUBSURFACE HETEROGENEITY; STOCHASTIC APPROACH; COVER
+   DATABASE; OVERLAND-FLOW
+AB Understanding and representing hydrologic fluxes in the urban environment is challenging because of fine scale land cover heterogeneity and lack of coherent scaling relationships. Here, the impact of urban land cover heterogeneity, scale, and configuration on the hydrologic and surface energy budget (SEB) is assessed using an integrated, coupled land surface/hydrologic model at high spatial resolutions. Archetypes of urban land cover are simulated at varying resolutions using both the National Land Cover Database (NLCD; 30m) and an ultra high-resolution land cover dataset (0.6m). The analysis shows that the impact of highly organized, yet heterogeneous, land cover typical of the urban domain can cause large variations in hydrologic and energy fluxes within areas of similar land cover. The lateral flow processes that occur within each simulation create variations in overland flow of up to +/- 200% and +/- 4% in evapotranspiration. The impact on the SEB is smaller and largely restricted to the wet season for our semi-arid forcing scenarios. Finally, we find that this seasonal bias, predominantly caused by lateral flow, is displaced by a systematic diurnal bias at coarser resolutions caused by deficiencies in the method used for scaling of land surface and hydrologic parameters. As a result of this research, we have produced land surface parameters for the widely used NLCD urban land cover types. This work illustrates the impact of processes that remain unrepresented in traditional high-resolutions land surface models and how they may affect results and uncertainty in modeling of local water resources and climate. Copyright (c) 2015 John Wiley & Sons, Ltd.
+C1 [Reyes, Bryant; Hogue, Terri S.] Colorado Sch Mines, Dept Civil & Environm Engn, 1500 Illinois St, Golden, CO 80401 USA.
+   [Reyes, Bryant; Maxwell, Reed M.; Hogue, Terri S.] Colorado Sch Mines, NSF Engn Res Ctr ReNUWIt, 1500 Illinois St, Golden, CO 80401 USA.
+   [Maxwell, Reed M.] Colorado Sch Mines, Dept Geol & Geol Engn, 1500 Illinois St, Golden, CO 80401 USA.
+   [Maxwell, Reed M.; Hogue, Terri S.] Colorado Sch Mines, Hydrol Sci & Engn Program, 1500 Illinois St, Golden, CO 80401 USA.
+RP Reyes, B (reprint author), Colorado Sch Mines, Dept Civil & Environm Engn, 1500 Illinois St, Golden, CO 80401 USA.
+EM brreyes@mines.edu
+RI Maxwell, Reed/D-7980-2013
+OI Maxwell, Reed/0000-0002-1364-4441
+FU National Science Foundation (NSF) Graduate Research Fellowship
+   [DGE-1057607]; NSF Water Sustainability and Climate Grant
+   [EAR-12040235]; NSF Engineering Research Center for Reinventing the
+   Nation's Urban Water Infrastructure (ReNUWIt.org) [EEC-1028968]
+FX We would like to thank the editor and the two anonymous reviewers for
+   greatly enhancing the clarity and quality of this work. Funding for this
+   research was supported in part by a National Science Foundation (NSF)
+   Graduate Research Fellowship (DGE-1057607), NSF Water Sustainability and
+   Climate Grant (EAR-12040235), and the NSF Engineering Research Center
+   for Reinventing the Nation's Urban Water Infrastructure (ReNUWIt.org;
+   EEC-1028968). The Golden Energy Computing Organization at the Colorado
+   School of Mines provided computational resources.
+CR Ajami H, 2014, HYDROL EARTH SYST SC, V18, P5169, DOI 10.5194/hess-18-5169-2014
+   Ajami H, 2015, HYDROL PROCESS, V29, P3790, DOI 10.1002/hyp.10478
+   Ajami H, 2014, WATER RESOUR RES, V50, P2636, DOI 10.1002/2013WR014258
+   Arnfield AJ, 2003, INT J CLIMATOL, V23, P1, DOI 10.1002/joc.859
+   Ashby SF, 1996, NUCL SCI ENG, V124, P145, DOI 10.13182/NSE96-A24230
+   Atchley AL, 2011, HYDROGEOL J, V19, P289, DOI 10.1007/s10040-010-0690-1
+   Barron OV, 2013, J HYDROL, V485, P162, DOI 10.1016/j.jhydrol.2012.04.027
+   Bhaskar AS, 2015, WATER RESOUR RES, V51, P1158, DOI 10.1002/2014WR016039
+   Burian SJ, 2002, 4 AMS S URB ENV MAY, P131
+   Burian SJ, 2002, LAUR02781 LOS AL NAT
+   Chow WTL, 2014, INT J CLIMATOL, V34, P3863, DOI 10.1002/joc.3947
+   Condon LE, 2013, ADV WATER RESOUR, V60, P188, DOI 10.1016/j.advwatres.2013.08.001
+   Dai YJ, 2003, B AM METEOROL SOC, V84, P1013, DOI 10.1175/BAMS-84-8-1013
+   Dawes W, 2012, HYDROL EARTH SYST SC, V16, P2709, DOI 10.5194/hess-16-2709-2012
+   DICKINSON RE, 1993, NCARTN387STR
+   Flagg DD, 2011, ATMOS CHEM PHYS, V11, P2951, DOI 10.5194/acp-11-2951-2011
+   Fletcher TD, 2013, ADV WATER RESOUR, V51, P261, DOI 10.1016/j.advwatres.2012.09.001
+   Furusho C, 2014, HYDROL PROCESS, V28, P1809, DOI 10.1002/hyp.9706
+   Garcia-Fresca B, 2005, REV ENG GEOL, V16, P123, DOI 10.1130/2005.4016(11)
+   Gesch D, 2002, PHOTOGRAMM ENG REM S, V68, P5
+   Grimmond CSB, 2011, INT J CLIMATOL, V31, P244, DOI 10.1002/joc.2227
+   Grimmond CSB, 2010, J APPL METEOROL CLIM, V49, P1268, DOI 10.1175/2010JAMC2354.1
+   Grimmond CSB, 1999, J APPL METEOROL, V38, P922, DOI 10.1175/1520-0450(1999)038<0922:HSIUAL>2.0.CO;2
+   Hibbs BJ, 2012, ENVIRON ENG GEOSCI, V18, P3, DOI 10.2113/gseegeosci.18.1.3
+   Homer C, 2007, PHOTOGRAMM ENG REM S, V73, P337
+   Jacobson CR, 2011, J ENVIRON MANAGE, V92, P1438, DOI 10.1016/j.jenvman.2011.01.018
+   Jankowfsky S, 2014, J HYDROL, V517, P1056, DOI 10.1016/j.jhydrol.2014.06.034
+   Jones JE, 2001, ADV WATER RESOUR, V24, P763, DOI 10.1016/S0309-1708(00)00075-0
+   Kollet SJ, 2008, WATER RESOUR RES, V44, DOI 10.1029/2007WR006004
+   Kollet SJ, 2006, ADV WATER RESOUR, V29, P945, DOI 10.1016/j.advwatres.2005.08.006
+   Kollet SJ, 2010, WATER RESOUR RES, V46, DOI 10.1029/2009WR008730
+   Kollet SJ, 2009, VADOSE ZONE J, V8, P846, DOI 10.2136/vzj2009.0005
+   Kusaka H, 2004, J METEOROL SOC JPN, V82, P67, DOI 10.2151/jmsj.82.67
+   Lamptey B, 2010, INT J CLIMATOL, V30, P72, DOI 10.1002/joc.1873
+   Lerner DN, 2002, HYDROGEOL J, V10, P143, DOI 10.1007/s10040-001-0177-1
+   LERNER DN, 1986, GROUND WATER, V24, P654, DOI 10.1111/j.1745-6584.1986.tb03714.x
+   LERNER DN, 1990, ATMOS ENVIRON B-URB, V24, P29, DOI 10.1016/0957-1272(90)90006-G
+   Litvak E, 2012, TREE PHYSIOL, V32, P373, DOI 10.1093/treephys/tps015
+   Litvak E, 2011, PLANT CELL ENVIRON, V34, P1384, DOI 10.1111/j.1365-3040.2011.02339.x
+   Loridan T, 2013, BOUND-LAY METEOROL, V147, P493, DOI 10.1007/s10546-013-9797-y
+   Marciotto ER, 2013, METEOROL ATMOS PHYS, V121, P17, DOI 10.1007/s00703-013-0253-9
+   Masson V, 2006, THEOR APPL CLIMATOL, V84, P35, DOI 10.1007/s00704-005-0142-3
+   Masson V, 2000, BOUND-LAY METEOROL, V94, P357, DOI 10.1023/A:1002463829265
+   Maurer EP, 2002, J CLIMATE, V15, P3237, DOI 10.1175/1520-0442(2002)015<3237:ALTHBD>2.0.CO;2
+   Maxwell RM, 2015, GEOSCI MODEL DEV, V8, P923, DOI 10.5194/gmd-8-923-2015
+   Maxwell RM, 2008, NAT GEOSCI, V1, P665, DOI 10.1038/ngeo315
+   Maxwell RM, 2008, ADV WATER RESOUR, V31, P807, DOI 10.1016/j.advwatres.2008.01.020
+   Maxwell RM, 2013, ADV WATER RESOUR, V53, P109, DOI 10.1016/j.advwatres.2012.10.001
+   Maxwell RM, 2005, J HYDROMETEOROL, V6, P233, DOI 10.1175/JHM422.1
+   McCarthy Heather R., 2010, Urban Ecosystems, V13, P393, DOI 10.1007/s11252-010-0127-6
+   McDonald RI, 2011, AMBIO, V40, P437, DOI 10.1007/s13280-011-0152-6
+   McPherson EG, 2008, PSWGTR207 USDA FOR S
+   Meierdiercks KL, 2010, J AM WATER RESOUR AS, V46, P932, DOI 10.1111/j.1752-1688.2010.00465.x
+   Merz B, 1997, WATER RESOUR RES, V33, P2909, DOI 10.1029/97WR02204
+   Meyerhoff SB, 2014, HYDROGEOL J, V22, P1329, DOI 10.1007/s10040-014-1112-6
+   Meyerhoff SB, 2011, HYDROGEOL J, V19, P1515, DOI 10.1007/s10040-011-0753-y
+   Middel A, 2014, LANDSCAPE URBAN PLAN, V122, P16, DOI 10.1016/j.landurbplan.2013.11.004
+   Miller JD, 2014, J HYDROL, V515, P59, DOI 10.1016/j.jhydrol.2014.04.011
+   Molod A, 2002, J GEOPHYS RES-ATMOS, V107, DOI 10.1029/2001JD000588
+   Oleson KW, 2008, J APPL METEOROL CLIM, V47, P1038, DOI 10.1175/2007JAMC1597.1
+   Oleson KW, 2008, J APPL METEOROL CLIM, V47, P1061, DOI 10.1175/2007JAMC1598.1
+   Overgaard J, 2006, BIOGEOSCIENCES, V3, P229, DOI 10.5194/bg-3-229-2006
+   Passarello MC, 2012, ENVIRON ENG GEOSCI, V18, P25, DOI 10.2113/gseegeosci.18.1.25
+   Peters EB, 2011, J GEOPHYS RES-BIOGEO, V116, DOI 10.1029/2010JG001463
+   Praskievicz S, 2009, PROG PHYS GEOG, V33, P650, DOI 10.1177/0309133309348098
+   Ragab R, 2003, HYDROL PROCESS, V17, P2423, DOI 10.1002/hyp.1251
+   Ramamurthy P, 2014, WATER RESOUR RES, V50, P2889, DOI 10.1002/2013WR013909
+   Reichard EG, 2005, J WATER RES PLAN MAN, V131, P280, DOI 10.1061/(ASCE)0733-9496(2005)131:4(280)
+   Richards LA, 1931, PHYSICS-J GEN APPL P, V1, P318, DOI 10.1063/1.1745010
+   Rihani JF, 2010, WATER RESOUR RES, V46, DOI 10.1029/2010WR009111
+   Rodell M, 2004, B AM METEOROL SOC, V85, P381, DOI 10.1175/BAMS-85-3-381
+   Rodriguez F, 2003, J HYDROL, V283, P146, DOI 10.1016/S0022-1694(03)00246-4
+   Rodriguez F, 2008, J HYDROL, V351, P268, DOI 10.1016/j.jhydrol.2007.12.007
+   Schaap MG, 1998, SOIL SCI, V163, P765, DOI 10.1097/00010694-199810000-00001
+   Schirmer M, 2013, ADV WATER RESOUR, V51, P280, DOI 10.1016/j.advwatres.2012.06.015
+   Schneider S., 2012, MRS P, V1475, P367, DOI DOI 10.1557/0PL.2012.601
+   Seck A, 2015, WATER RESOUR RES, V51, P2188, DOI 10.1002/2014WR016371
+   Seneviratne SI, 2010, EARTH-SCI REV, V99, P125, DOI 10.1016/j.earscirev.2010.02.004
+   Shen YJ, 2010, HYDROL PROCESS, V24, P129, DOI 10.1002/hyp.7428
+   Shuster W. D., 2005, URBAN WATER J, V2, P263, DOI DOI 10.1080/15730620500386529
+   Smith ML, 2010, J AM WATER RESOUR AS, V46, P429, DOI 10.1111/j.1752-1688.2009.00412.x
+   Sulis M, 2010, ADV WATER RESOUR, V33, P456, DOI 10.1016/j.advwatres.2010.01.010
+   Vahmani P, 2014, HYDROL EARTH SYST SC, V18, P4791, DOI 10.5194/hess-18-4791-2014
+   Vahmani P, 2014, J HYDROMETEOROL, V15, P1440, DOI 10.1175/JHM-D-13-0121.1
+   vansGenuchten MT., 1980, SOIL SCI SOC AM J, V44, P892, DOI [DOI 10.2136/SSSAJ1980.03615995004400050002X, 10.2136/sssaj1980.03615995004400050002x]
+   Vazquez-Sune E, 2005, HYDROGEOL J, V13, P522, DOI 10.1007/s10040-004-0360-2
+   Vereecken H, 2007, VADOSE ZONE J, V6, P1, DOI 10.2136/vzj2006.0055
+   Wang ZH, 2013, Q J ROY METEOR SOC, V139, P1643, DOI 10.1002/qj.2032
+   Wood EF, 2011, WATER RESOUR RES, V47, DOI 10.1029/2010WR010090
+   Woolhiser DA, 1996, WATER RESOUR RES, V32, P671, DOI 10.1029/95WR03108
+   Yang GX, 2010, J HYDROMETEOROL, V11, P122, DOI 10.1175/2009JHM1143.1
+   Zeng XB, 2002, J CLIMATE, V15, P1832, DOI 10.1175/1520-0442(2002)015<1832:COTCLM>2.0.CO;2
+   Zeng XM, 2010, ADV ATMOS SCI, V27, P151, DOI 10.1007/s00376-009-8117-4
+NR 93
+TC 5
+Z9 5
+U1 3
+U2 15
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0885-6087
+EI 1099-1085
+J9 HYDROL PROCESS
+JI Hydrol. Process.
+PD APR 15
+PY 2016
+VL 30
+IS 8
+BP 1192
+EP 1207
+DI 10.1002/hyp.10683
+PG 16
+WC Water Resources
+SC Water Resources
+GA DJ1JQ
+UT WOS:000373959500003
+DA 2019-03-26
+ER
+
+PT J
+AU Johansson, B
+   Sukhotskya, S
+AF Johansson, Benny
+   Sukhotskya, Svetlana
+TI Drinking functional coherent mineral water accompanies a strengthening
+   of the very low frequency impact on heart rate variability, and mono and
+   multifractal heart rhythm dynamics in healthy humans
+SO FUNCTIONAL FOODS IN HEALTH AND DISEASE
+LA English
+DT Article
+DE functional water; VLF-power; heart rate variability; fractal scaling;
+   health improvement
+ID DETRENDED FLUCTUATION ANALYSIS; URBAN ENVIRONMENTS; LIVING MATTER;
+   TIME-SERIES; TRANSPLANTATION; INFORMATION; COMPONENTS; RESPONSES;
+   PRESSURE; EMOTIONS
+AB Background: Research on functional water has revealed its physiological functions and health-beneficial effects. Accordingly, this study explored the effects of drinking an average dietary volume of functional coherent mineral water (FCMW) on blood pressure, short-term cardiovascular variables, fractal heart rhythm dynamics, and salivary immunoglobulin A.
+   Methods: Fifteen healthy subjects were randomized in a pre-post crossover design, selected the morning after an overnight fast. Short-term electrocardiography (ECG) was measured before and after drinking either control mineral water (CMW) or FCMW on two separate occasions. Saliva was collected for four minutes before the start of each ECG measurement. Blood pressure was monitored in five-minute intervals for one hour.
+   Results: Drinking 100 ml of FCMW temporarily increased arterial blood pressure at 20 to 25 minutes in the 60 minutes post-drinking. Drinking CMW led to a significant reduction in the heart rate, while all-time domain and Power Spectral Density parameters (PSD) were unaffected. Consumption of FCMW resulted in a highly significant difference and decrease in heart rate, and an increase in NN interbeat intervals, and in two of the PSD parameters. A large increase in total power had a significant increasing effect on 2-3-minute oscillations of the very low frequency (VLF) power, indicating a specific change in the heart's intrinsic cardiac rhythm that is fundamental to health and well-being. An extension in mono and multifractal scaling of heart rate dynamics defines a healthy function and non-local adaptability, indicating a higher capacity to respond to unpredictable stimuli and stresses, a function which improves autonomic stability. The effect on the heart rate and VLF power suggest an efficient cellular metabolism and a stabilizing effect on mucosal immunoglobulin A.
+   Conclusions: Functional coherent mineral water with an apparent non-local electromagnetic identity triggered in healthy subjects a sustainable sympathetic response in cardiac VLF power, which is considered an intrinsic health-promoting rhythm produced by the heart itself that accompanies adaptive mono and multifractal heart rhythm dynamics.
+C1 [Johansson, Benny; Sukhotskya, Svetlana] Akloma Biosci AB, Medeon Sci Pk, S-20512 Malmo, Sweden.
+RP Johansson, B (reprint author), Akloma Biosci AB, Medeon Sci Pk, S-20512 Malmo, Sweden.
+FU Ekhagastiftelsen, Stockholm, Sweden
+FX The authors are grateful to the volunteers who participated in this
+   study and to Johan Kronholm for development and adjustment of the
+   multifractal software. This study was partly supported by
+   Ekhagastiftelsen, Stockholm, Sweden. The founding source had no role in
+   any part of the study.
+CR AKSELROD S, 1981, SCIENCE, V213, P220, DOI 10.1126/science.6166045
+   Amaral LAN, 2001, PHYS REV LETT, V86, P6026, DOI 10.1103/PhysRevLett.86.6026
+   Amour JA, 2003, NEUROCARDIOLOGY ANAT
+   [Anonymous], 2014, SOFTW CALC FFT BAS S
+   ARANI R, 1995, INT J MOD PHYS B, V9, P1813, DOI 10.1142/S0217979295000744
+   Asp N-G, 2001, SCAND J NUTR, V45, P57
+   Axelrod S, 1995, HEART RATE VARIABILI, P3
+   Bernardi L, 1996, CARDIOVASC RES, V32, P234, DOI 10.1016/0008-6363(96)00081-8
+   Berntson GG, 2008, PSYCHOPHYSIOLOGY, V45, P643, DOI 10.1111/j.1469-8986.2008.00652.x
+   BIGGER JT, 1992, CIRCULATION, V85, P164, DOI 10.1161/01.CIR.85.1.164
+   Borovikova LV, 2000, NATURE, V405, P458
+   Boschmann M, 2003, J CLIN ENDOCR METAB, V88, P6015, DOI 10.1210/jc.2003-030780
+   Brizhik L, 2009, ECOL MODEL, V220, P1865, DOI 10.1016/j.ecolmodel.2009.04.017
+   Brizhik LS, 2011, ECOL MODEL, V222, P2869, DOI 10.1016/j.ecolmodel.2011.05.017
+   Brown CM, 2005, AM J PHYSIOL-REG I, V289, pR1687, DOI 10.1152/ajpregu.00205.2005
+   Buch AN, 2002, EXPT PHYSL, V87, P234
+   Camm AJ, 1996, CIRCULATION, V93, P1043
+   CANNON WB, 1987, AM J PSYCHOL, V100, P567, DOI 10.2307/1422695
+   Carney RM, 2007, J PSYCHOSOM RES, V62, P463, DOI 10.1016/j.jpsychores.2006.12.004
+   Cerutti S, 1995, HEART RATE VARIABILI, P63
+   Chown M, 2009, NEW SCI, V201, P24, DOI 10.1016/S0262-4079(09)60162-7
+   Cornelissen G, 2007, HYPERTENSION, V49, P237, DOI 10.1161/01.HYP.0000250392.51418.64
+   Del Giudice E, 2005, ELECTROMAGN BIOL MED, V24, P199, DOI 10.1080/15368370500379574
+   Del Giudice E, 2009, WATER S1, V2, P14
+   Del Giudice E, 2009, ECOL MODEL, V220, P1874, DOI 10.1016/j.ecolmodel.2009.04.035
+   Del Giudice E, 2009, ELECTROMAGN BIOL MED, V28, P46, DOI 10.1080/15368370802708728
+   Diplock AT, 1999, BRIT J NUTR, V81, pS1
+   Domrachev A, 1992, J PHYS CHEM, V66, P851
+   Edwards L, 1993, THE VORTEX OF LIFE
+   Gadek Z, 2006, ANIMAL CELL TECHNOLOGY: BASIC & APPLIED ASPECTS, VOL 14, P377, DOI 10.1007/1-4020-4457-7_51
+   Geisler FCM, 2013, BIOL PSYCHOL, V93, P279, DOI 10.1016/j.biopsycho.2013.02.013
+   Gevirtz R., 2000, BIOFEEDBACK, V27, P7
+   Goldberger AL, 2002, P NATL ACAD SCI USA, V99, P2466, DOI 10.1073/pnas.012579499
+   Graziano G, 1998, J CHEM SOC FARADAY T, V94, P3345, DOI 10.1039/a805733h
+   Hayashi H, 2002, ANIMAL CELL TECHNOLO, V12, P31
+   Higashikawa F, 2009, 7 M JAP SOC PREV MED, P20
+   Hirokawa N, 2006, CELL, V125, P33, DOI 10.1016/j.cell.2006.03.002
+   Hove JR, 2003, NATURE, V421, P172, DOI 10.1038/nature01282
+   Huang C, 2009, P NATL ACAD SCI USA, V106, P15214, DOI 10.1073/pnas.0904743106
+   Huang ZW, 2010, FRACTALS, V18, P309, DOI 10.1142/S0218348X10004981
+   Ihlen EAF, 2012, FRONT PHYSIOL, V3, DOI 10.3389/fphys.2012.00141
+   Ikeda S, 1999, PHYS CHEM CHEM PHYS, V1, P4485, DOI 10.1039/a903543e
+   Ivanov PC, 1999, NATURE, V399, P461, DOI 10.1038/20924
+   Jacobs JA, 1989, GEOMAGNETISM
+   Johansson B, 2012, WATER, V3, P100
+   Johansson B., 2008, Synchronized water and production thereof, Patent No. 000119
+   Johansson B, 2008, J ALTERN COMPLEM MED, V14, P993, DOI 10.1089/acm.2007.0525
+   Johansson B, 2009, J ALTERN COMPLEM MED, V15, P871, DOI 10.1089/acm.2008.0336
+   Jordan J, 2000, CIRCULATION, V101, P504, DOI 10.1161/01.CIR.101.5.504
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   Kember GC, 2000, PHYS REV E, V61, P1816, DOI 10.1103/PhysRevE.61.1816
+   Kember GC, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.041911
+   Kleiger RE, 2005, ANN NONINVAS ELECTRO, V10, P88, DOI 10.1111/j.1542-474X.2005.10101.x
+   Kleimenova NG, 2007, J ATMOS SOL-TERR PHY, V69, P1759, DOI 10.1016/j.jastp.2006.10.018
+   Kronholm J, 2015, MULTIFRACTAL DFA PER
+   Lampert R, 2008, AM HEART J, V156, DOI 10.1016/j.ahj.2008.07.009
+   Laumann K, 2003, J ENVIRON PSYCHOL, V23, P125, DOI 10.1016/S0272-4944(02)00110-X
+   Marchettini N, 2010, J THEOR BIOL, V265, P511, DOI 10.1016/j.jtbi.2010.05.021
+   Matsubayashi N, 2008, 46 KYUSH REG M JAP D, P42
+   MCCRATY R, 1995, AM J CARDIOL, V76, P1089, DOI 10.1016/S0002-9149(99)80309-9
+   McCraty R, 1996, STRESS MEDICINE, V12, P167, DOI 10.1002/(SICI)1099-1700(199607)12:3<167::AID-SMI697>3.0.CO;2-2
+   McCraty R., 2014, PSYCHOL CLIN SETTING, V5, P1090, DOI DOI 10.3389/FPSYG.2014.01090.EC0LLECTI0N
+   McCraty R, 2009, COHERENT HEART HEART
+   McCraty Rollin, 2015, Glob Adv Health Med, V4, P46, DOI 10.7453/gahmj.2014.073
+   McCraty Rollin, 2012, Glob Adv Health Med, V1, P64, DOI 10.7453/gahmj.2012.1.1.013
+   McCraty R, 2010, ALTERN THER HEALTH M, V16, P10
+   Montagnier L, 2015, ELECTROMAGN BIOL MED, V34, P106, DOI 10.3109/15368378.2015.1036072
+   Murphy DA, 2000, ANN THORAC SURG, V69, P1769, DOI 10.1016/S0003-4975(00)01240-6
+   Osada K., 2010, ANIMAL CELL TECHNOLO, V15, P307
+   Pecanha T, 2014, INT J SPORT NUTR EXE, V24, P489, DOI 10.1123/ijsnem.2013-0122
+   Pobachenko S. V., 2006, Biophysics, V51, P480, DOI 10.1134/S0006350906030225
+   Prigogine I, 1977, SELFORGANISATION NON, P90
+   RAAB F, 1993, CHRONOBIOLOGIA, V20, P245
+   Ramaekers D, 1996, PACE, V19, P2112, DOI 10.1111/j.1540-8159.1996.tb03286.x
+   Reiber H, 2001, J NEUROL SCI, V184, P101, DOI 10.1016/S0022-510X(00)00501-3
+   Routledge HC, 2002, CLIN SCI, V103, P157, DOI 10.1042/CS20010317
+   Samsonov SN, 2014, IZV ATMOS OCEAN PHY+, V50, P719, DOI 10.1134/S0001433814040057
+   Shaffer F, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.01040
+   Shah AJ, 2013, BIOL PSYCHIAT, V73, P1103, DOI 10.1016/j.biopsych.2013.01.019
+   Shirahata S, 2007, CELL TECHNOLOGY FOR CELL PRODUCTS, P99, DOI 10.1007/978-1-4020-5476-1_15
+   Shirahata S, 2002, ANIMAL CELL TECHNOLO, V12, P25
+   Shirahata S, 2012, TRENDS FOOD SCI TECH, V23, P124, DOI 10.1016/j.tifs.2011.10.009
+   Shirtcliff EA, 2001, PSYCHONEUROENDOCRINO, V26, P165, DOI 10.1016/S0306-4530(00)00042-1
+   Singer DH, 2010, AM J CARDIOL, V106, P910, DOI 10.1016/j.amjcard.2010.06.038
+   Stanley HE, 1999, PHYSICA A, V270, P309, DOI 10.1016/S0378-4371(99)00230-7
+   STEEL EA, 1995, J PHYS CHEM-US, V99, P7829, DOI 10.1021/j100019a073
+   Sugihara S, 2001, WATER, V3, P87
+   Theorell T, 2007, PSYCHONEUROENDOCRINO, V32, P660, DOI 10.1016/j.psyneuen.2007.04.006
+   Tiller W A, 1996, Altern Ther Health Med, V2, P52
+   Tracey KJ, 2002, NATURE, V420, P853, DOI 10.1038/nature01321
+   ULRICH RS, 1991, J ENVIRON PSYCHOL, V11, P201, DOI 10.1016/S0272-4944(05)80184-7
+   ULRICH RS, 1984, SCIENCE, V224, P420, DOI 10.1126/science.6143402
+   Vitello G, 2009, QUANTUM INTERACTION, P6
+   Vitiello G, 2009, NEW MATH NAT COMPUT, V5, P245, DOI 10.1142/S1793005709001271
+   Voeikov VL, 2012, RUSS J PHYS CHEM A+, V86, P1407, DOI 10.1134/S003602441209018X
+   Voeikov VL, 2007, FUNDAMENTAL ROLE WAT, P89
+   Watterson JG, 1997, BIOSYSTEMS, V41, P141, DOI 10.1016/S0303-2647(96)01669-3
+   Wernet P, 2004, SCIENCE, V304, P995, DOI 10.1126/science.1096205
+   Wiggins Philippa M., 2002, Journal of Biological Physics and Chemistry, V2, P25, DOI 10.4024/12020205.jbpc.02.01
+NR 99
+TC 0
+Z9 0
+U1 2
+U2 8
+PU FUNCTIONAL FOOD CENTER INC
+PI RICHARDSON
+PA 1212 HAMPSHIRE LN, STE 213, RICHARDSON, TX 75080 USA
+SN 2160-3855
+J9 FUNCT FOODS HEALTH D
+JI Funct. Foods Health Dis.
+PD JUN
+PY 2016
+VL 6
+IS 6
+BP 388
+EP 413
+DI 10.31989/ffhd.v6i6.265
+PG 26
+WC Food Science & Technology
+SC Food Science & Technology
+GA DR2LO
+UT WOS:000379736200005
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT B
+AU Sibiude, G
+   Mailhac, A
+   Herfray, G
+   Schiopu, N
+   Lebert, A
+   Togo, G
+   Villien, P
+   Peuportier, B
+   Valean, C
+AF Sibiude, G.
+   Mailhac, A.
+   Herfray, G.
+   Schiopu, N.
+   Lebert, A.
+   Togo, G.
+   Villien, P.
+   Peuportier, B.
+   Valean, C.
+BE Habert, G
+   Schlueter, A
+TI LCA ENHANCEMENT PERSPECTIVES TO FACILITATE SCALING UP FROM BUILDING TO
+   TERRITORY
+SO EXPANDING BOUNDARIES: SYSTEMS THINKING IN THE BUILT ENVIRONMENT
+LA English
+DT Proceedings Paper
+CT Sustainable Built Environment (SBE) Regional Conference
+CY 2016
+CL Zurich, SWITZERLAND
+SP SIEMENS
+DE Urban morphologies; Systemic approach; LCA
+AB Environmental performance considerations in the construction sector extend from buildings to neighbourhoods, cities and territory. This transition implies a Life Cycle Assessment (LCA) adaptation to efficiently treat such complex systems. Indeed, performing environmental performance evaluations has already been done over the past few years but the existing LCA tools have to be improved regarding their userfriendliness to allow everyday urban planning stakeholders to use them. Providing keys to help the practice is a main subject to spread the large scale LCA evaluation and ensure a better urban planning trending to sustainable solutions. This objective is also motivated by local, national and European policies, particularly within the context of Paris COP21.
+   The aim of this study is to explore enhancement perspectives to facilitate LCA scaling up from building to territory. This work is based on observations from case studies underlining operational issues due to the evaluation time consumption. The urban planning process is analysed to focus, at different stages, on operational responses that could be proposed considering objectives, stakeholders' needs and potential drivers. In particular, for early stage decision making, an approach introducing urban typo-morphologies has been adopted to facilitate the comparison of large scale evaluations and scenarios. Such typo-morphologies, representing elemental bricks at building or block scale to build neighbourhoods or larger, have been widely described in the past. However, this work concentrates on the applicability of the approach to integrate this sort of description for environmental evaluation based on a multicomponent (buildings, energy, water, public spaces, transportation) description of the systems. Particularly, a focus has to be given to scaling up mechanism. Expert systems sets on heuristic rules could help exploiting a typo-morphologies database. This solution should ease the practice of urban environmental assessments.
+C1 [Sibiude, G.; Mailhac, A.; Herfray, G.; Schiopu, N.; Lebert, A.; Togo, G.; Villien, P.; Peuportier, B.; Valean, C.] Efficac R&D Inst Energy Efficiency Sustainable Ci, Champs Sur Marne, France.
+   [Sibiude, G.; Mailhac, A.; Schiopu, N.; Lebert, A.] Univ Paris East, Sci & Tech Ctr Bldg CSTB, St Martin Dheres, France.
+   [Villien, P.] TH1 Villien Architecture Agcy, Lagny Sur Marne, France.
+   [Peuportier, B.] MINES ParisTech, Ctr Energy Efficiency Syst, Paris, France.
+   [Valean, C.] TPF I, Marseille, France.
+RP Sibiude, G (reprint author), Efficac R&D Inst Energy Efficiency Sustainable Ci, Champs Sur Marne, France.; Sibiude, G (reprint author), Univ Paris East, Sci & Tech Ctr Bldg CSTB, St Martin Dheres, France.
+EM galdric.sibiude@cstb.fr
+CR Adolphe L., 2001, ENV PLANNING B
+   Ali-Toudert F., 2006, BUILDING ENV
+   [Anonymous], 2012, UN WORLD URB PROSP 2, P318
+   APUR, 2007, CONS EN EM GAZ EFF S
+   Arnfield A J, 1990, ENERGY BUILDINGS
+   Bonhomme M., 2014, ENV PLANNING B
+   Bouyer J., 2009, 5 URB RES S
+   Cluzel F., 2012, CONCURRENT ENG RES A
+   Herstatt C, 2001, WORKING PAPERS
+   Masson V., 2014, URBAN CLIMATE
+   Nichols B.G., 2014, ENERGY POLICY
+   Norman J, 2006, J URBAN PLAN D-ASCE, V132, P10, DOI 10.1061/(ASCE)0733-9488(2006)132:1(10)
+   Popovici Elena, 2006, THESIS
+   Ratti C, 2005, ENERGY BUILDINGS
+   Salat S., 2009, ENERGY LOADS CO2 EMI
+   Steemers K., 1996, RENEWABLE ENERGY DEV
+   United Nations Human Settlements Programme, 2009, PLANN SUST CIT GLOB
+   von Hippel E., 1993, FUZZY FRONT END INNO
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 0
+PU VDF HOCHSCHULVERLAG AG AN DER ETH ZURICH
+PI ZURICH
+PA VOB D, VOLTASTRASSE 24, ZURICH, CH-8092, SWITZERLAND
+BN 978-3-7281-3774-6
+PY 2016
+BP 258
+EP 264
+PG 7
+WC Engineering, Environmental
+SC Engineering
+GA BH2KJ
+UT WOS:000399016600035
+DA 2019-03-26
+ER
+
+PT J
+AU Zheng, Z
+   Rasouli, S
+   Timmermans, H
+AF Zheng, Zhong
+   Rasouli, Soora
+   Timmermans, Harry
+TI Two-regime Pattern in Human Mobility: Evidence from GPS Taxi Trajectory
+   Data
+SO GEOGRAPHICAL ANALYSIS
+LA English
+DT Article
+ID SEARCH PATTERNS; SCALING LAWS; LEVY FLIGHTS; CONTEXT; SUCCESS
+AB Research on complex systems has identified various aggregate relationships in phenomena that describe these systems. Travel length has been characterized by negative power distributions. Controversy, however, exists over whether mobility patterns can be modeled in terms of a simple power law (Levy flight model) or that more complicated power laws (exponential power law, truncated Pareto) are required. This study concentrates on two issues: testing the validity of exponential power laws and truncated Pareto distributions in urban systems to describe aggregate mobility patterns, and examining differences in mobility patterns for different travel purposes. The article describes the results of an analysis of Global Positioning System (GPS) taxi trajectory data, collected in Guangzhou, China, to identify mobility patterns in the city. The least squares statistic is used to estimate the parameters of the distribution functions. Results suggest that a fusion of functions, based on an exponential power law and a truncated Pareto distribution, represents the travel time distribution best. Moreover, the findings of this study indicate different mobility patterns to exist for different travel purposes.
+C1 [Zheng, Zhong; Rasouli, Soora; Timmermans, Harry] Eindhoven Univ Technol, Urban Planning Grp, Dept Built Environm, POB 513, NL-5600 MB Eindhoven, Netherlands.
+RP Timmermans, H (reprint author), Eindhoven Univ Technol, Urban Planning Grp, POB 513, NL-5600 MB Eindhoven, Netherlands.
+EM h.j.p.timmermans@tue.nl
+OI rasouli, soora/0000-0001-8044-8654
+FU China Scholarship of Council (China); Urban Planning Group, Eindhoven
+   University of Technology (the Netherlands)
+FX This research was supported by China Scholarship of Council (China) and
+   the Urban Planning Group, Eindhoven University of Technology (the
+   Netherlands). We would like to acknowledge data provided by Prof Suhong
+   Zhou at the Sun Yat-sen University at Guangzhou.
+CR Aban IB, 2006, J AM STAT ASSOC, V101, P270, DOI 10.1198/016214505000000411
+   Amussen S. R., 2003, APPL PROBABILITY QUE, V51, P266
+   Broch J., 1998, P 4 ANN ACM IEEE INT, P85, DOI DOI 10.1145/288235.288256
+   Brockmann D, 2006, NATURE, V439, P462, DOI 10.1038/nature04292
+   Calabrese F., 2010, INT C PERV COMP
+   Calabrese F., 2010, INT TRANSP SYST ITSC, P312
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Edwards AM, 2007, NATURE, V449, P1044, DOI 10.1038/nature06199
+   Einstein A, 1905, ANN PHYS-BERLIN, V17, P549
+   Ferreira N, 2013, IEEE T VIS COMPUT GR, V19, P2149, DOI 10.1109/TVCG.2013.226
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Hong S., 2008, INT S MOB AD HOC NET, P25
+   Humphries NE, 2012, P NATL ACAD SCI USA, V109, P7169, DOI 10.1073/pnas.1121201109
+   Humphries NE, 2010, NATURE, V465, P1066, DOI 10.1038/nature09116
+   Jiang B, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.021136
+   Lee K, 2009, IEEE INFOCOM SER, P855, DOI 10.1109/INFCOM.2009.5061995
+   Liu Y, 2012, J GEOGR SYST, V14, P463, DOI 10.1007/s10109-012-0166-z
+   Martinez-Garcia R, 2014, PHYS REV E, V89, DOI 10.1103/PhysRevE.89.032718
+   Orendurff MS, 2008, J REHABIL RES DEV, V45, P1077, DOI 10.1682/JRRD.2007.11.0197
+   Pan G, 2013, IEEE T INTELL TRANSP, V14, P113, DOI 10.1109/TITS.2012.2209201
+   Rhee I, 2011, IEEE ACM T NETWORK, V19, P630, DOI 10.1109/TNET.2011.2120618
+   Scholz RW, 2014, INT J GEOGR INF SCI, V28, P946, DOI 10.1080/13658816.2013.869819
+   Sims DW, 2008, NATURE, V451, P1098, DOI 10.1038/nature06518
+   Sims DW, 2012, J ANIM ECOL, V81, P432, DOI 10.1111/j.1365-2656.2011.01914.x
+   Song CM, 2010, NAT PHYS, V6, P818, DOI 10.1038/NPHYS1760
+   Song CM, 2010, SCIENCE, V327, P1018, DOI 10.1126/science.1177170
+   Vazquez A, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.036127
+   Veloso M., 2011, P 2011 INT WORKSH TR, P23
+   Viswanathan GM, 2008, PHYS LIFE REV, V5, P133, DOI 10.1016/j.plrev.2008.03.002
+   Viswanathan GM, 1999, NATURE, V401, P911, DOI 10.1038/44831
+   Wang D, 2011, P 17 ACM SIGKDD INT, P1100, DOI [DOI 10.1145/2020408.2020581, 10.1145/2020408.2020581]
+   Wang H., 2010, INT TRANSP SYST ITSC, P318
+   Yuan J., 2012, P 18 ACM SIGKDD INT, P186, DOI DOI 10.1145/2339530.2339561
+   Yue Y, 2009, 2009 17 INT C GEOINF
+   Zheng Y., 2008, UBICOMP 2008 P 10 IN
+   Zheng Z., 2014, PROCEDIA ENV SCI, V22, P186
+NR 36
+TC 6
+Z9 6
+U1 3
+U2 20
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0016-7363
+EI 1538-4632
+J9 GEOGR ANAL
+JI Geogr. Anal.
+PD APR
+PY 2016
+VL 48
+IS 2
+BP 157
+EP 175
+DI 10.1111/gean.12087
+PG 19
+WC Geography
+SC Geography
+GA DK1SV
+UT WOS:000374695500003
+DA 2019-03-26
+ER
+
+PT J
+AU Mazzanti, GM
+   Ecchia, G
+   Komatsu, T
+AF Mazzanti, Giovanni Maria
+   Ecchia, Giulio
+   Komatsu, Tamami
+TI Innovative partnerships for the utilization of confiscated assets
+   previously owned by mafias
+SO SOCIAL ENTERPRISE JOURNAL
+LA English
+DT Article
+DE Partnership; Third sector; Social enterprise; Mafia; Confiscated assets
+AB Purpose - The third sector is a producer of trust and positive social interactions, while the mafias destroy trust and social norms. Confiscation of assets and reusing confiscated assets are important tools from an economic and symbolic point of view for contrasting the mafias and promoting a sustainable and fair economy. The purpose of this paper is to analyze the role of the third sector for reusing confiscated assets.
+   Design/methodology/approach - The paper is based on a theoretical analysis of why a third sector role is utilized for reusing confiscated assets, thus focusing on the economic, social and cultural dimensions. Italian legislation and data are presented for showing the relevant and innovative role of the third sector for reusing confiscated assets. A case study of the city of Forli, based in Northern Italy, is presented and is of particular interest because it is a part of Italy that does not have a historical presence of the mafias. The University of Bologna is now a partner of the project through the Observatory of Legality. Five hectares of confiscated, urban land have been given to two social cooperatives for organic agriculture and social gardening, which are managed by disadvantaged people working in the cooperatives.
+   Findings - The case study offers useful implications for other national and international situations. The results support that the third sector can be an effective partner in managing and restoring the goods to their community.
+   Research limitations/implications - A suggested focus on a European framework toward a more integrated approach for reusing confiscated assets.
+   Practical implications - An opportunity for policy decisions to be made toward a stronger approach for reusing confiscated assets via the third sector and civil society actors, starting from positive cases, such as the Forli case study.
+   Social implications - Possibility of a stronger civic engagement for reusing confiscated assets previously owned by mafias.
+   Originality/value - Scaling up from a pioneering activity to a large-scale network of social enterprises and partnerships could make the difference.
+C1 [Mazzanti, Giovanni Maria] Univ Bologna, Sch Econ Management & Stat, Bologna, Italy.
+   [Ecchia, Giulio] Univ Bologna, Dept Econ, Bologna, Italy.
+   [Komatsu, Tamami] Univ Bologna, Bologna, Italy.
+RP Mazzanti, GM (reprint author), Univ Bologna, Sch Econ Management & Stat, Bologna, Italy.
+EM g.mazzanti@unibo.it
+CR Alhamis C. A., 2010, J ENTREPRENEURSHIP, V19, P149
+   Badelt C., 1997, VOLUNTAS, V8, P162, DOI DOI 10.1007/BF02354193
+   Becchetti L., 2015, 354 CEIS TOR VERG U
+   Billis D., 2010, HYBRID ORG 3 SECTOR, P46, DOI DOI 10.1007/978-0-230-36439-4_3
+   Bruni Luigini, 2013, HDB EC RECIPROCITY S
+   Cayli B, 2013, INT J LAW CRIME JUST, V41, P81, DOI 10.1016/j.ijlcj.2012.11.005
+   Christensen H. B., 2006, HARVARD BUS REV, V84, P1
+   Cunningham G., 2002, CLIENTS CITIZENS ASS, P3
+   Davis S., 2002, SOCIAL ENTERPRENEURS
+   Defourny J., 2012, EMES APPROACH SOCIAL
+   Dino A., 2004, MAFIA SALOTTI COLLET, P34
+   Doherty B., 2015, J BUSINESS ETHICS
+   Doherty B, 2014, INT J MANAG REV, V16, P417, DOI 10.1111/ijmr.12028
+   Dufays F, 2014, J SOC ENTREP, V5, P214, DOI 10.1080/19420676.2014.918052
+   Foster S., 2016, YALE LAW POLICY REV, V34
+   Giannone T., 2013, DAL BENE CONFISCATE, P7
+   Government H., 2006, COMM ASS BEN COSTS C
+   Hannan R, 2014, J CO-OP ORGAN MANAG, V2, P34, DOI 10.1016/j.jcom.2014.03.003
+   HANSMANN HB, 1980, YALE LAW J, V89, P835, DOI 10.2307/796089
+   HARDIN G, 1968, SCIENCE, V162, P1243
+   Hulgard L., 2014, SOCIAL ENTERPRISE 3
+   [La Destinazione dei Beni Sequestrati Confiscati alla Criminalita Organizzata Agenzia Nazionale per LAmministrazione], 2012, ANN REPORT, P25
+   Leadbeater C., 2007, SOCIAL ENTERPRISE SO
+   Maggio U. D., 2010, LIBERA REGIONAL REPR
+   McKnight J, 1993, BUILDING COMMUNITIES
+   Mintzberg H, 2012, DEV PRACT, V22, P895, DOI 10.1080/09614524.2012.696585
+   Mulgan G., 2010, MEASURING SOCIAL VAL, P38
+   Murray R, 2010, OPEN BOOK SOCIAL INN
+   Nicholls A., 2012, SOCIAL INNOVATION BL
+   Nicholls Alex, 2005, MEASURING IMPACT SOC
+   Nyssen M., 2008, 0801 EM
+   Ostrom E, 1996, WORLD DEV, V24, P1073, DOI 10.1016/0305-750X(96)00023-X
+   Ostrom E, 2000, J ECON PERSPECT, V14, P137, DOI 10.1257/jep.14.3.137
+   Ostrom E., 1990, GOVERNING COMMONS
+   Ostrom E., 2010, CITIZEN PARTICIPATIO
+   Pati D., 2007, USO SOCIALE BENI CON, P60
+   Pestoff V., 2008, MULTISTAKEHOLDING LO
+   Pestoff V, 2009, ANN PUBLIC COOP ECON, V80, P197, DOI 10.1111/j.1467-8292.2009.00384.x
+   Putnam R.D., 1993, MAKING DEMOCRACY WOR
+   SOS Impresa, 2010, SOS IMPR IS SUPP IN
+   Woods D. R., 2005, U AUKLAND BUSINESS R, V11, P45
+NR 41
+TC 1
+Z9 1
+U1 3
+U2 10
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 1750-8614
+EI 1750-8533
+J9 SOC ENTERP J
+JI Soc. Enterp. J.
+PY 2016
+VL 12
+IS 1
+BP 21
+EP 41
+DI 10.1108/SEJ-08-2015-0019
+PG 21
+WC Business
+SC Business & Economics
+GA DV5CP
+UT WOS:000382943800003
+DA 2019-03-26
+ER

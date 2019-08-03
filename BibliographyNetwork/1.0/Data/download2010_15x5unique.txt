@@ -1,0 +1,480 @@
+
+PT J
+AU Slowik, JG
+   Vlasenko, A
+   McGuire, M
+   Evans, GJ
+   Abbatt, JPD
+AF Slowik, J. G.
+   Vlasenko, A.
+   McGuire, M.
+   Evans, G. J.
+   Abbatt, J. P. D.
+TI Simultaneous factor analysis of organic particle and gas mass spectra:
+   AMS and PTR-MS measurements at an urban site
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+LA English
+DT Article
+ID POSITIVE MATRIX FACTORIZATION; PARTICULATE AIR-POLLUTION; SOURCE
+   APPORTIONMENT; SOURCE IDENTIFICATION; STATISTICAL-ANALYSIS; AEROSOL;
+   SPECTROMETRY; EMISSIONS; FORMALDEHYDE; RATIOS
+AB During the winter component of the SPORT (Seasonal Particle Observations in the Region of Toronto) field campaign, particulate non-refractory chemical composition and concentration of selected volatile organic compounds (VOCs) were measured by an Aerodyne time-of-flight aerosol mass spectrometer (AMS) and a proton transfer reaction-mass spectrometer (PTR-MS), respectively. Sampling was performed in downtown Toronto similar to 15m from a major road. The mass spectra from the AMS and PTR-MS were combined into a unified dataset, which was analysed using positive matrix factorization (PMF). The two instruments were given balanced weight in the PMF analysis by the application of a scaling factor to the uncertainties of each instrument. A residual based metric, Delta(e(sc)) over bar, was used to evaluate the instrument relative weight within each solution. The PMF analysis yielded a 6-factor solution that included factors characteristic of regional transport, local traffic emissions, charbroiling and oxidative processing. The unified dataset provides information on emission sources (particle and VOC) and atmospheric processing that cannot be obtained from the datasets of the individual instruments: (1) apportionment of oxygenated VOCs to either direct emission sources or secondary reaction products; (2) improved correlation of oxygenated aerosol factors with photochemical age; and (3) increased detail regarding the composition of oxygenated organic aerosol factors. This analysis represents the first application of PMF to a unified AMS/PTR-MS dataset.
+C1 [Slowik, J. G.; Vlasenko, A.; Abbatt, J. P. D.] Univ Toronto, Dept Chem, Toronto, ON M5S 1A1, Canada.
+   [McGuire, M.; Evans, G. J.] Univ Toronto, Dept Chem Engn & Appl Chem, Toronto, ON M5S 1A1, Canada.
+   [Slowik, J. G.; Vlasenko, A.; McGuire, M.; Evans, G. J.; Abbatt, J. P. D.] Univ Toronto, So Ontario Ctr Atmospher Aerosol Res, Toronto, ON M5S 1A1, Canada.
+RP Abbatt, JPD (reprint author), Univ Toronto, Dept Chem, 80 St George St, Toronto, ON M5S 1A1, Canada.
+EM jabbatt@chem.utoronto.ca
+RI Evans, Greg/C-7441-2014; Vlasenko, Alexander/B-4280-2008; Slowik,
+   Jay/F-4894-2011
+OI Slowik, Jay/0000-0001-5682-850X; Evans, Greg/0000-0002-9641-4499
+FU Canadian Foundation for Climate and Atmospheric Sciences (CFCAS);
+   Natural Sciences and Engineering Council of Canada (NSERC); Ontario
+   Ministry of the Environment; Canadian Foundation for Innovation; Ontario
+   Innovation Trust; Ontario Research Fund
+FX The authors gratefully acknowledge the NOAA Air Resources Laboratory
+   (ARL) for the provision of the HYSPLIT transport and dispersion model.
+   Partial operational funding was provided by the Canadian Foundation for
+   Climate and Atmospheric Sciences (CFCAS) and the Natural Sciences and
+   Engineering Council of Canada (NSERC). This project has also received
+   funding support from the Ontario Ministry of the Environment. Such
+   support does not indicate endorsement by the Ministry of the contents of
+   this material. Funding for SOCAAR was provided by the Canadian
+   Foundation for Innovation, the Ontario Innovation Trust, and the Ontario
+   Research Fund.
+CR Aiken AC, 2009, ATMOS CHEM PHYS, V9, P6633, DOI 10.5194/acp-9-6633-2009
+   Aiken AC, 2008, ENVIRON SCI TECHNOL, V42, P4478, DOI 10.1021/es703009q
+   Allan JD, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2002JD002358
+   Allan JD, 2004, J AEROSOL SCI, V35, P909, DOI 10.1016/j.jaerosci.2004.02.007
+   Andreae MO, 2001, GLOBAL BIOGEOCHEM CY, V15, P955, DOI 10.1029/2000GB001382
+   Atkinson R, 2006, ATMOS CHEM PHYS, V6, P3625, DOI 10.5194/acp-6-3625-2006
+   BEYCHOK MR, 1987, ATMOS ENVIRON, V21, P29
+   Buset K. C., 2006, ATMOS ENV S2, V40, P482
+   Buzcu B, 2006, ATMOS ENVIRON, V40, P2385, DOI 10.1016/j.atmosenv.2005.12.020
+   Canagaratna MR, 2007, MASS SPECTROM REV, V26, P185, DOI 10.1002/mas.20115
+   Chow JC, 2006, J AIR WASTE MANAGE, V56, P707, DOI 10.1080/10473289.2006.10464484
+   de Gouw JA, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2003JD003863
+   de Gouw JA, 2005, J GEOPHYS RES-ATMOS, V110, DOI 10.1029/2004JD005623
+   de Gouw J, 2007, MASS SPECTROM REV, V26, P223, DOI 10.1002/mas.20119
+   DOCKERY DW, 1994, ANNU REV PUBL HEALTH, V15, P107, DOI 10.1146/annurev.pu.15.050194.000543
+   Donahue NM, 2006, ENVIRON SCI TECHNOL, V40, P2635, DOI 10.1021/es052297c
+   Draxier RR, 1998, AUST METEOROL MAG, V47, P295
+   Draxler R. R., 2003, HYSPLIT HYBRID SINGL
+   Drewnick F, 2005, AEROSOL SCI TECH, V39, P637, DOI 10.1080/02786820500182040
+   Driscoll CT, 2003, ENVIRON SCI TECHNOL, V37, P2036, DOI 10.1021/es020924h
+   Friedfeld S, 2002, ATMOS ENVIRON, V36, P4767, DOI 10.1016/S1352-2310(02)00558-7
+   Garcia AR, 2006, ATMOS CHEM PHYS, V6, P4545, DOI 10.5194/acp-6-4545-2006
+   Godri KJ, 2009, ATMOS MEAS TECH, V2, P65, DOI 10.5194/amt-2-65-2009
+   HANSEL A, 1995, INT J MASS SPECTROM, V149, P609, DOI 10.1016/0168-1176(95)04294-U
+   Holzinger R, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007599
+   Jacobson MZ, 2001, NATURE, V409, P695, DOI 10.1038/35055518
+   Kanakidou M, 2005, ATMOS CHEM PHYS, V5, P1053, DOI 10.5194/acp-5-1053-2005
+   Kristensson A, 2004, ATMOS ENVIRON, V38, P657, DOI 10.1016/j.atmosenv.2003.10.030
+   Lanz VA, 2008, ATMOS CHEM PHYS, V8, P2313, DOI 10.5194/acp-8-2313-2008
+   Lanz VA, 2007, ATMOS CHEM PHYS, V7, P1503, DOI 10.5194/acp-7-1503-2007
+   Lanz VA, 2008, ENVIRON SCI TECHNOL, V42, P214, DOI 10.1021/es0707207
+   Lee PKH, 2003, ENVIRON SCI TECHNOL, V37, P4831, DOI 10.1021/es026473i
+   LEE SH, 1999, EMISSIONS STREET VEN
+   Lewis CW, 2003, J AIR WASTE MANAGE, V53, P325, DOI 10.1080/10473289.2003.10466155
+   Li SM, 1997, ATMOS ENVIRON, V31, P2037, DOI 10.1016/S1352-2310(96)00126-4
+   Lindinger W, 1998, CHEM SOC REV, V27, P347, DOI 10.1039/a827347z
+   MCLAFFERTY FW, 1980, INTERPRETATION MASS
+   Owega S, 2004, ENVIRON SCI TECHNOL, V38, P5712, DOI 10.1021/es035177i
+   PAATERO P, 1994, ENVIRONMETRICS, V5, P111, DOI 10.1002/env.3170050203
+   Paatero P, 1997, CHEMOMETR INTELL LAB, V37, P23, DOI 10.1016/S0169-7439(96)00044-5
+   PAATERO P, 2009, ATMOS CHEM PHYS DISC, V9, pC114
+   Polissar AV, 2001, ENVIRON SCI TECHNOL, V35, P4604, DOI 10.1021/es0105865
+   Possanzini M, 2002, ATMOS ENVIRON, V36, P3195, DOI 10.1016/S1352-2310(02)00192-9
+   Quinn PK, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2006JD007582
+   Ramadan Z, 2000, J AIR WASTE MANAGE, V50, P1308, DOI 10.1080/10473289.2000.10464173
+   Ramanathan V, 2001, SCIENCE, V294, P2119, DOI 10.1126/science.1064034
+   ROBERTS JM, 1984, ATMOS ENVIRON, V18, P2421, DOI 10.1016/0004-6981(84)90012-X
+   Robinson AL, 2007, SCIENCE, V315, P1259, DOI 10.1126/science.1133061
+   Rolph G. D., 2003, REAL TIME ENV APPL D
+   Schauer JJ, 1999, ENVIRON SCI TECHNOL, V33, P1566, DOI 10.1021/es980076j
+   SCHINDLER DW, 1988, SCIENCE, V239, P149, DOI 10.1126/science.239.4836.149
+   Ulbrich IM, 2009, ATMOS CHEM PHYS, V9, P2891, DOI 10.5194/acp-9-2891-2009
+   ULBRICH IM, 2009, AMS SPECTRAL DATABAS
+   Vlasenko A, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2009JD012025
+   Watson JG, 2002, J AIR WASTE MANAGE, V52, P628, DOI 10.1080/10473289.2002.10470813
+   Weimer S, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009309
+   Zervas E, 2001, ENVIRON SCI TECHNOL, V35, P2746, DOI 10.1021/es000237v
+   Zhang Q, 2007, GEOPHYS RES LETT, V34, DOI 10.1029/2007GL029979
+   Zhang Q, 2005, ENVIRON SCI TECHNOL, V39, P4938, DOI 10.1021/es048568l
+   Zhao WX, 2006, ATMOS RES, V80, P309, DOI 10.1016/j.atmosres.2005.10.002
+NR 60
+TC 50
+Z9 50
+U1 2
+U2 37
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1680-7316
+EI 1680-7324
+J9 ATMOS CHEM PHYS
+JI Atmos. Chem. Phys.
+PY 2010
+VL 10
+IS 4
+BP 1969
+EP 1988
+DI 10.5194/acp-10-1969-2010
+PG 20
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 559TS
+UT WOS:000274851500031
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT B
+AU Gao, HJ
+   Zhang, H
+   Hu, DS
+   Tian, R
+   Guo, DZ
+AF Gao, Huijun
+   Zhang, Hao
+   Hu, Daosheng
+   Tian, Ran
+   Guo, Dazhi
+BE Liu, Y
+   Chen, A
+TI Multi-Scale Features of Urban Planning Spatial Data
+SO 2010 18TH INTERNATIONAL CONFERENCE ON GEOINFORMATICS
+LA English
+DT Proceedings Paper
+CT 18th International Conference on Geoinformatics
+CY JUN 18-20, 2010
+CL Peking Univ, Beijing, PEOPLES R CHINA
+SP IEEE GRSS, Geograph Soc China
+HO Peking Univ
+DE GIS; urban planning; multi-scale; scaling
+AB Geospatial data is the digital carrier of geographic information. Spatial data and its manipulation or processing is related to cognitive ability, and the ability to understand the scale effect and behavior of spatial data would affect the accuracy of the acquired spatial knowledge. Scale is an important feature of spatial data, representing the depth and scope of people's cognition about spatial objects and spatial phenomena. The multi-manipulation and representation of spatial data are common techniques for spatial cognition and spatial analysis, and they much conform to our habits of inference. Urban planning data is a special kind of spatial data and it has a typical application feature of multi scale of spatial data. This paper analyses the major characteristics of urban planning spatial data, and it points out that the key elements to perform multi-scale visualization are to build a multi-resolution space and to determine its appropriate spatial data model. When researching on scale effect and scale transformation rules, we should take the attributes of urban planning spatial data into account at semantic level, as well as the changes of its spatial and temporal scale, when researching on scale effect and scale transformation rule. The generation of new dataset should be bidirectional; it not only could derive sketchy dataset at any scale from a more detailed spatial dataset, but also could carry out re-construction perfectively. Spatial accuracy and spatial features should be corresponded to its scale in the deriving process.
+C1 [Gao, Huijun; Guo, Dazhi] CUMT, Sch Resources & Safety Engn, Beijing 100083, Peoples R China.
+   [Gao, Huijun; Tian, Ran] Ningbo Planing & Geog Informat Ctr, Ningbo 315041, Peoples R China.
+   [Zhang, Hao] Zhejiang Univ Technol, Coll Architecture & Civil Engn, Hangzhou 310032, Zhejiang, Peoples R China.
+   [Hu, Daosheng] Nanjing Univ, Dept Urban & Reg Planning, Nanjing 210093, Peoples R China.
+RP Gao, HJ (reprint author), CUMT, Sch Resources & Safety Engn, Beijing 100083, Peoples R China.
+FU National Natural Science Foundation of China [40601083]; 863 High
+   Technology Program of China [2007AA12Z214]
+FX The work in the paper was supported by the National Natural Science
+   Foundation of China (No. 40601083) and the 863 High Technology Program
+   of China (No.2007AA12Z214).
+CR [艾廷�? Ai Tinghua], 2005, [武汉大学学报. 信息科学�?, Geomatics and Information Science of Wuhan University], V30, P377
+   Guo D.ZH., 2004, GEOMATICS SPATIAL IN, V27, P6
+   [郭达�? Guo Dazhi], 2003, [中国矿业大学学报. 自然科学�?, Journal of China University of Mining & Technology], V32, P213
+   [李宏�? Li Hognwei], 2003, [地球信息科学, Geo-information Science], V5, P56
+   Li J., 2000, ADV EARTH SCI, V15, P48
+   [李霖 Li Lin], 2005, [武汉大学学报. 信息科学�?, Geomatics and Information Science of Wuhan University], V30, P199
+   Liu J.G., 2004, J SEDIMENT RES, V3, P69
+   LU YH, 2001, ACTA ECOLOGICA SINIC, V21, P2096
+   Meng B., 2005, ACTA GEOGRAPHICA SIN, P11
+   [孙庆�? Sun Qingxian], 2005, [计算机工程与应用, Computer Engineering and Application], V41, P17
+   Wang J.Y., 2004, HYDROGRAPHIC SURVEYI, V24, P1
+   [赵文�? Zhao Wenwu], 2002, [地球科学进展, Advance in Earth Sciences], V17, P905
+NR 12
+TC 0
+Z9 0
+U1 1
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4244-7302-1
+PY 2010
+PG 7
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA BXN38
+UT WOS:000296522300039
+DA 2019-03-26
+ER
+
+PT J
+AU Buyantuyev, A
+   Wu, JG
+   Gries, C
+AF Buyantuyev, Alexander
+   Wu, Jianguo
+   Gries, Corinna
+TI Multiscale analysis of the urbanization pattern of the Phoenix
+   metropolitan landscape of USA: Time, space and thematic resolution
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE Urbanization; Landscape pattern analysis; Landscape metrics; Scale
+ID URBAN ECOLOGICAL-SYSTEMS; GLOBAL CHANGE; SCALING RELATIONS; CHANGING
+   SCALE; METRICS; VEGETATION; DYNAMICS; CITIES; ECOSYSTEM; INDEXES
+AB Investigating the ecological consequences of urbanization require knowledge of land-cover dynamics. Quantification of land-use/land-cover change in Phoenix, Arizona during the period of 1985-2005 using landscape metrics computed from Landsat-derived maps revealed temporal patterns of landscape composition and configuration. With accelerated urbanization the landscape as a whole became more fragmented ecologically and more complex compositionally and geometrically. However, the majority of individual patches became more compact in shape. Urban land covers, especially xeric residential, increased substantially and the desert decreased by 20%. Spatial and thematic resolution of data was shown to have large effects on the analysis of land-cover pattern. Our results, while agreeing in general with previously reported scaling relations with respect to changing spatial grain and extent, showed that scaling relations are also robust and consistent across thematic resolutions and time periods. Some metrics behaved unpredictably and some exhibited scale-free behavior. Compositional metrics, such as patch density, diversity, evenness, and largest patch index, were well correlated with vegetative cover, its spatial variation, and population density. Many of these correlations exhibited hump-shaped patterns with respect to increasing grain size, indicating a characteristic scale at approximately 500-1000m. By simultaneously manipulating spatial and thematic resolutions, the importance of the Modifiable Area Unit Problem in relating landscape patterns to vegetation and socio-economic variables was also demonstrated. Additionally, highly variable desert vegetation due to precipitation variability poses a challenge for accurately quantifying urbanization pattern in and environments. Choosing appropriate spatial, temporal and thematic resolutions is essential in meeting this challenge. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Buyantuyev, Alexander; Wu, Jianguo; Gries, Corinna] Arizona State Univ, Sch Life Sci, Tempe, AZ 85287 USA.
+   [Buyantuyev, Alexander; Wu, Jianguo; Gries, Corinna] Arizona State Univ, Global Inst Sustainabil, Tempe, AZ 85287 USA.
+   [Buyantuyev, Alexander; Wu, Jianguo] Inner Mongolia Univ, Sino US Ctr Conservat Energy & Sustainabil Sci, Hohhot 010021, Peoples R China.
+RP Wu, JG (reprint author), Arizona State Univ, Sch Life Sci, POB 874501, Tempe, AZ 85287 USA.
+EM a_buyant@hotmail.com; Jingle.Wu@asu.edu; corinna@asu.edu
+RI Buyantuev, Alexander/L-9887-2013; Wu, Jianguo/G-6267-2010
+OI Buyantuev, Alexander/0000-0003-1670-0741; Gries,
+   Corinna/0000-0002-9091-6543
+FU National Science Foundation (NSF) [DEB-0423704]; Central Arizona-Phoenix
+   Long-Term Ecological Research (CAPLTER) [BCS-0508002]
+FX We thank two anonymous reviewers for their valuable comments on the
+   earlier version of the manuscript. Our research was supported by the
+   National Science Foundation under Grant No. DEB-0423704, Central
+   Arizona-Phoenix Long-Term Ecological Research (CAPLTER) and under Grant
+   No. BCS-0508002 (Biocomplexity/CNH). Any opinions, findings and
+   conclusions or recommendation expressed in this material are those of
+   the author(s) and do not necessarily reflect the views of the National
+   Science Foundation (NSF).
+CR Alberti M, 2005, INT REGIONAL SCI REV, V28, P168, DOI 10.1177/0160017605275160
+   Alberti Marina, 2004, Urban Ecosystems, V7, P241, DOI 10.1023/B:UECO.0000044038.90173.c6
+   Asner G. P., 2004, REMOTE SENSING NATUR, P53
+   Baldwin DJB, 2004, LANDSCAPE ECOL, V19, P255, DOI 10.1023/B:LAND.0000030442.96122.ef
+   BROWN D.E, 1994, BIOTIC COMMUNITIES S
+   Buyantuyev A, 2007, INT J REMOTE SENS, V28, P269, DOI 10.1080/01431160600658149
+   Buyantuyev A, 2007, LANDSCAPE ECOL, V22, P7, DOI 10.1007/s10980-006-9010-5
+   Castilla G, 2009, LANDSCAPE ECOL, V24, P15, DOI 10.1007/s10980-008-9310-z
+   Dietzel C, 2005, INT J GEOGR INF SCI, V19, P175, DOI 10.1080/13658810410001713407
+   Dunn CP, 1991, QUANTITATIVE METHODS, P173
+   Fotheringham A.S, 1991, ENVIRON PLANN A, V23, P1026
+   FOTHERINGHAM AS, 1989, ACCURACY OF SPATIAL DATABASES, P221
+   Francois C, 2008, LANDSCAPE ECOL, V23, P527, DOI 10.1007/s10980-008-9211-1
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Grimm Nancy B., 2004, Urban Ecosystems, V7, P199, DOI 10.1023/B:UECO.0000044036.59953.a1
+   Grimm NB, 2000, BIOSCIENCE, V50, P571, DOI 10.1641/0006-3568(2000)050[0571:IATLTO]2.0.CO;2
+   Gustafson EJ, 1998, ECOSYSTEMS, V1, P143, DOI 10.1007/s100219900011
+   Herold M., 2005, Computers, Environment and Urban Systems, V29, P369, DOI 10.1016/j.compenvurbsys.2003.12.001
+   Herold M, 2003, REMOTE SENS ENVIRON, V86, P286, DOI 10.1016/S0034-4257(03)00075-0
+   Hope D, 2003, P NATL ACAD SCI USA, V100, P8788, DOI 10.1073/pnas.1537557100
+   Huang JG, 2007, LANDSCAPE URBAN PLAN, V82, P184, DOI 10.1016/j.landurbplan.2007.02.010
+   Irwin EG, 2007, P NATL ACAD SCI USA, V104, P20672, DOI 10.1073/pnas.0705527105
+   J Wu, 1999, CANADIAN J REMOTE SE, V25, P367, DOI DOI 10.1080/07038992.1999.10874736
+   Jelinski DE, 1996, LANDSCAPE ECOL, V11, P129, DOI 10.1007/BF02447512
+   Jenerette GD, 2007, LANDSCAPE ECOL, V22, P353, DOI 10.1007/s10980-006-9032-z
+   Justice CO, 1998, IEEE T GEOSCI REMOTE, V36, P1228, DOI 10.1109/36.701075
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Li HB, 2007, CAM STU LAN, P39, DOI 10.1017/CBO9780511618581.004
+   Li HB, 2004, LANDSCAPE ECOL, V19, P389, DOI 10.1023/B:LAND.0000030441.15628.d6
+   Luck M, 2002, LANDSCAPE ECOL, V17, P327, DOI 10.1023/A:1020512723753
+   Martin CA, 2004, LANDSCAPE URBAN PLAN, V69, P355, DOI 10.1016/j.landurbplan.2003.10.034
+   McGarigal K., 1995, FRAGSTATS SPATIAL PA
+   MIPP (MORRISON INSTITUTE FOR PUBLIC POLICY), 2000, HITS MISS FAST GROWT
+   Narumalani S, 2004, REMOTE SENS ENVIRON, V91, P478, DOI 10.1016/j.rse.2004.04.008
+   Okin GS, 2004, REMOTE SENSING NATUR, V4, P111
+   Openshaw S., 1979, STAT APPL SPATIAL SC, P127
+   OPENSHAW S, 1984, 38 CATMOG
+   Pickett STA, 2001, ANNU REV ECOL SYST, V32, P127, DOI 10.1146/annurev.ecolsys.32.081501.114012
+   Pouyat RV, 2008, LANDSCAPE ECOL, V23, P1187, DOI 10.1007/s10980-008-9288-6
+   Seto KC, 2005, LANDSCAPE ECOL, V20, P871, DOI 10.1007/s10980-005-5238-8
+   Shen WJ, 2004, ECOGRAPHY, V27, P459, DOI 10.1111/j.0906-7590.2004.03799.x
+   Stefanov WL, 2001, REMOTE SENS ENVIRON, V77, P173, DOI 10.1016/S0034-4257(01)00204-8
+   STEFANOV WL, 2000, 1985 1990 1993 1998
+   TUCKER CJ, 1979, REMOTE SENS ENVIRON, V8, P127, DOI 10.1016/0034-4257(79)90013-0
+   Turner M.G., 2001, LANDSCAPE ECOLOGY TH
+   Vallet J, 2008, LANDSCAPE ECOL, V23, P1205, DOI 10.1007/s10980-008-9293-9
+   VITOUSEK PM, 1994, ECOLOGY, V75, P1861, DOI 10.2307/1941591
+   Weng YC, 2007, LANDSCAPE URBAN PLAN, V81, P341, DOI 10.1016/j.landurbplan.2007.01.009
+   WU J, 2008, LANDSCAPE J, V27, P41, DOI DOI 10.3368/LJ.27.1.41
+   Wu JG, 2004, LANDSCAPE ECOL, V19, P125, DOI 10.1023/B:LAND.0000021711.40074.ae
+   Wu JG, 2002, LANDSCAPE ECOL, V17, P761, DOI 10.1023/A:1022995922992
+   Wu JG, 2007, CAM STU LAN, P115, DOI 10.1017/CBO9780511618581.008
+   Wu JG, 2006, SCALING AND UNCERTAINTY ANALYSIS IN ECOLOGY: METHODS AND APPLICATIONS, P3, DOI 10.1007/1-4020-4663-4_1
+   Yu XJ, 2007, LANDSCAPE URBAN PLAN, V79, P96, DOI 10.1016/j.landurbplan.2006.03.008
+   Zipperer WC, 2000, ECOL APPL, V10, P685, DOI 10.2307/2641038
+NR 55
+TC 74
+Z9 96
+U1 7
+U2 86
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD MAR 15
+PY 2010
+VL 94
+IS 3-4
+BP 206
+EP 217
+DI 10.1016/j.landurbplan.2009.10.005
+PG 12
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA 560ER
+UT WOS:000274885300007
+DA 2019-03-26
+ER
+
+PT J
+AU Snider, CE
+   Kirst, M
+   Abubakar, S
+   Ahmad, F
+   Nathens, AB
+AF Snider, Carolyn E.
+   Kirst, Maritt
+   Abubakar, Shakira
+   Ahmad, Farah
+   Nathens, Avery B.
+TI Community-based Participatory Research: Development of an Emergency
+   Department-based Youth Violence Intervention Using Concept Mapping
+SO ACADEMIC EMERGENCY MEDICINE
+LA English
+DT Article
+DE violence; adolescent; community-based participatory research
+ID URBAN TRAUMA CENTER; INJURED YOUTH; HEALTH-CARE; PROGRAM; POPULATION;
+   RECIDIVISM; RISK; REINJURY
+AB P>Objectives:
+   Emergency departments (EDs) see a high number of youths injured by violence. In Ontario, the most common cause of injury for youths visiting EDs is assault. Secondary prevention strategies using the teachable moment (i.e., events that can lead individuals to make positive changes in their lives) are ideal for use by clinicians. An opportunity exists to take advantage of the teachable moment in the ED in an effort to prevent future occurrences of injury in at-risk youths. However, little is known about perceptions of youths, parents, and community organizations about such interventions in EDs. The aims of this study were to engage youths, parents, and frontline community workers in conceptualizing a hospital-based violence prevention intervention and to identify outcomes relevant to the community.
+   Methods:
+   Concept mapping is an innovative, mixed-method research approach. It combines structured qualitative processes such as brainstorming and group sorting, with various statistical analyses such as multidimensional scaling and hierarchical clustering, to develop a conceptual framework, and allows for an objective presentation of qualitative data. Concept mapping involves multiple structured steps: 1) brainstorming, 2) sorting, 3) rating, and 4) interpretation. For this study, the first three steps occurred online, and the fourth step occurred during a community meeting.
+   Results:
+   Over 90 participants were involved, including youths, parents, and community youth workers. A two-dimensional point map was created and clusters formed to create a visual display of participant ideas on an ED-based youth violence prevention intervention. Issues related to youth violence prevention that were rated of highest importance and most realistic for hospital involvement included mentorship, the development of youth support groups in the hospital, training doctors and nurses to ask questions about the violent event, and treating youth with respect. Small-group discussions on the various clusters developed job descriptions, a list of essential services, and suggestions on ways to create a more youth-friendly environment in the hospital. A large-group discussion revealed outcomes that participants felt should be measured to determine the success of an intervention program.
+   Conclusions:
+   This study has been the springboard for the development of an ED-based youth violence intervention that is supported by the community and affected youth. Using information generated by youth that is grounded in their experience through participatory research methods is feasible for the development of successful and meaningful youth violence prevention interventions.
+C1 [Snider, Carolyn E.] Univ Toronto, Dept Med Emergency Med, Toronto, ON, Canada.
+   [Ahmad, Farah] Univ Toronto, Dalla Lana Sch Publ Hlth, Toronto, ON, Canada.
+   [Nathens, Avery B.] Univ Toronto, Dept Surg, Toronto, ON, Canada.
+   [Snider, Carolyn E.; Nathens, Avery B.] St Michaels Hosp, Keenan Res Ctr, Li Ka Shing Knowledge Inst, Toronto, ON M5B 1W8, Canada.
+   [Kirst, Maritt; Ahmad, Farah] St Michaels Hosp, Ctr Res Inner City Hlth, Toronto, ON M5B 1W8, Canada.
+RP Snider, CE (reprint author), Univ Toronto, Dept Med Emergency Med, Toronto, ON, Canada.
+EM sniderc@smh.toronto.on.ca
+RI Ahmad, Farah/B-4261-2008
+FU Canadian Institutes of Health Research
+CR Becker MG, 2004, J ADOLESCENT HEALTH, V34, P177, DOI 10.1016/j.jadohealth.2003.04.001
+   Buss T F, 1995, Violence Vict, V10, P183
+   Caufeild J, 2004, J TRAUMA, V57, P872, DOI 10.1097/01.TA.0000135350.06670.60
+   Cheng TL, 2008, PEDIATR EMERG CARE, V24, P130, DOI 10.1097/PEC.0b013e3181666f72
+   Cheng TL, 2006, ACAD EMERG MED, V13, P610, DOI 10.1197/j.aem.2006.01.011
+   Crandall CS, 2004, ANN EMERG MED, V44, P646, DOI 10.1016/j.annemergmed.2004.06.005
+   Dowd MD, 1996, AM J PUBLIC HEALTH, V86, P929, DOI 10.2105/AJPH.86.7.929
+   Faergemann Christian, 2007, J Forensic Leg Med, V14, P333, DOI 10.1016/j.jcfm.2006.10.009
+   GOINS WA, 1992, J NATL MED ASSOC, V84, P431
+   Kane M, 2007, CONCEPT MAPPING PLAN
+   Lawson PJ, 2009, PATIENT EDUC COUNS, V76, P25, DOI 10.1016/j.pec.2008.11.002
+   Leung MW, 2004, INT J EPIDEMIOL, V33, P499, DOI 10.1093/ije/dyh010
+   Macpherson A., 2005, INJURIES ONTARIO ICE
+   MORRISSEY TB, 1991, J TRAUMA, V31, P1536, DOI 10.1097/00005373-199111000-00013
+   O'Campo P, 2009, HEALTH PLACE, V15, P56, DOI 10.1016/j.healthplace.2008.02.004
+   REINER DS, 1990, AM SURGEON, V56, P556
+   RIVARA FP, 1995, ANN EMERG MED, V26, P609, DOI 10.1016/S0196-0644(95)70013-7
+   SCHWARZ DF, 1994, JAMA-J AM MED ASSOC, V271, P755, DOI 10.1001/jama.271.10.755
+   Shibru D, 2007, J AM COLL SURGEONS, V205, P684, DOI 10.1016/j.jamcollsurg.2007.05.029
+   SILVER W, 2006, STAT CANADA, V27
+   Smedley B, 2002, UNEQUAL TREATMENT CO
+   SMITH RS, 1992, ARCH SURG-CHICAGO, V127, P668
+   Smith WR, 2007, ANN INTERN MED, V147, P654, DOI 10.7326/0003-4819-147-9-200711060-00010
+   Snider C, 2009, CAN J EMERG MED, V11, P161
+   Trochim W, 2005, INT J QUAL HEALTH C, V17, P187, DOI 10.1093/intqhc/mzi038
+   Trochim W, 1993, ANN C AM EV ASS DALL
+   WEISBESKI D, 1989, J TRAUMA, V29, P940, DOI 10.1097/00005373-198907000-00006
+   Worrell SS, 2006, J TRAUMA, V60, P379, DOI 10.1097/01.ta.0000203549.15373.7b
+   Zun LS, 2006, AM J EMERG MED, V24, P8, DOI 10.1016/j.ajem.2005.05.009
+NR 29
+TC 12
+Z9 12
+U1 1
+U2 35
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1069-6563
+EI 1553-2712
+J9 ACAD EMERG MED
+JI Acad. Emerg. Med.
+PD AUG
+PY 2010
+VL 17
+IS 8
+BP 877
+EP 885
+DI 10.1111/j.1553-2712.2010.00810.x
+PG 9
+WC Emergency Medicine
+SC Emergency Medicine
+GA 632SX
+UT WOS:000280449500013
+PM 20670326
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Bowen, WM
+   Dunn, RA
+   Kasdan, DO
+AF Bowen, William M.
+   Dunn, Ronnie A.
+   Kasdan, David O.
+TI WHAT IS "URBAN STUDIES"? CONTEXT, INTERNAL STRUCTURE, AND CONTENT
+SO JOURNAL OF URBAN AFFAIRS
+LA English
+DT Article
+ID DISTANCE JUDGMENTS; PAIRED-COMPARISONS; SINGLE-IDEAL; MODEL
+AB The record of learned concern with cities is nearly as old as the city itself. In the past several decades, however, a distinct academic field of "Urban Studies" has emerged. This article characterizes the context, internal structure, and content of the field through interviews with leading scholars, probabilistic multidimensional scaling analyses of survey data, and a content analysis of a leading journal. The article concludes that although Urban Studies is in some respects not a bounded "academic discipline," it is an intellectually coherent, distinctively structured, and promising field of inquiry steered by complex, ever-changing, and often-large-scale realities and real-world problems of evolving human settlements.
+C1 [Bowen, William M.] Cleveland State Univ, Maxine Goodman Levin Coll Urban Affairs, Cleveland, OH 44115 USA.
+RP Bowen, WM (reprint author), Cleveland State Univ, Maxine Goodman Levin Coll Urban Affairs, Cleveland, OH 44115 USA.
+EM w.bowen@csuohio.edu
+OI Kasdan, David/0000-0002-6709-1424
+CR BINGHAM RD, 1994, PUBLIC ADMIN REV, V54, P204, DOI 10.2307/976531
+   Boyer E, 1990, SCHOLARSHIP RECONSID
+   BOZDOGAN H, 1987, PSYCHOMETRIKA, V52, P345, DOI 10.1007/BF02294361
+   DALY H, 1997, COMMON GOOD
+   Davison M., 1983, MULTIDIMENSIONAL SCA
+   Dayton CM, 1998, AM STAT, V52, P144, DOI 10.2307/2685473
+   GORDY LL, 1995, URBAN EDUC, V30, P195, DOI 10.1177/0042085995030002005
+   GULICK LH, 1962, METROPOLITAN PROBLEM
+   Hauser PM, 1965, STUDY URBANIZATION
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   Kabanoff B, 1997, J ORGAN BEHAV, V18, P507, DOI 10.1002/(SICI)1099-1379(199711)18:1+<507::AID-JOB904>3.3.CO;2-S
+   Krippendorff K., 2004, CONTENT ANAL
+   Lynch K., 1960, IMAGE CITY
+   MacKay DB, 2007, J MATH PSYCHOL, V51, P305, DOI 10.1016/j.jmp.2007.05.002
+   MACKAY DB, 1981, GEOGR ANAL, V13, P21, DOI 10.1111/j.1538-4632.1981.tb00712.x
+   MACKAY DB, 1995, J MARKETING RES, V32, P433, DOI 10.2307/3152178
+   MACKAY DB, 1989, J MATH PSYCHOL, V33, P187, DOI 10.1016/0022-2496(89)90030-8
+   MACKAY DB, 1983, GEOGR ANAL, V15, P173
+   Mumford L, 1961, CITY HIST ITS ORIGIN
+   Neuendorf K. A., 2002, CONTENT ANAL GUIDEBO
+   NEWMAN HK, 2008, 38 ANN M URB AFF ASS
+   RICH D, 1976, URBAN AFFAIRS TRANSI, P3
+   Roberts CW, 1997, TEXT ANAL SOCIAL SCI
+   Rodwin Lloyd, 1961, FUTURE METROPOLIS
+   Ross RT, 1934, J EDUC PSYCHOL, V25, P375, DOI 10.1037/h0070754
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   Thurstone LL, 1927, PSYCHOL REV, V34, P273, DOI 10.1037/h0070288
+   WARFIELD JN, 1984, P IEEE C SYST MAN CY
+   ZINNES JL, 1974, PSYCHOMETRIKA, V39, P327, DOI 10.1007/BF02291707
+   ZINNES JL, 1983, PSYCHOMETRIKA, V48, P27, DOI 10.1007/BF02314675
+   ZINNES JL, 1974, PSYCHOMETRIKA, V39, P27
+   1963, AM BEHAV SCI, V6, P3
+NR 32
+TC 11
+Z9 12
+U1 1
+U2 5
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0735-2166
+J9 J URBAN AFF
+JI J. Urban Aff.
+PY 2010
+VL 32
+IS 2
+BP 199
+EP 227
+DI 10.1111/j.1467-9906.2009.00474.x
+PG 29
+WC Urban Studies
+SC Urban Studies
+GA 587PN
+UT WOS:000277004900003
+DA 2019-03-26
+ER

@@ -1,0 +1,480 @@
+
+PT J
+AU Castillo, F
+   Toledo, BA
+   Munoz, V
+   Rogan, J
+   Zarama, R
+   Kiwi, M
+   Valdivia, JA
+AF Castillo, F.
+   Toledo, B. A.
+   Munoz, V.
+   Rogan, J.
+   Zarama, R.
+   Kiwi, M.
+   Valdivia, J. A.
+TI City traffic jam relief by stochastic resonance
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Traffic dynamics; Fluctuation; Traffic signal; Emergent state
+ID CELLULAR-AUTOMATON MODEL; LIGHTS; BEHAVIOR; SEQUENCE; SYSTEMS; CLIMATE;
+   STATES; FLOW
+AB We simulate traffic in a city by means of the evolution of a row of interacting cars, using a cellular automaton model, in a sequence of traffic lights synchronized by a "green wave". When our initial condition is a small density jammed state, its evolution shows the expected scaling laws close to the synchronization resonance, with a uniform car density along the street. However, for an initial large density jammed state, we observe density variations along the streets, which results in the breakdown of the scaling laws. This spatial disorder corresponds to a different attractor of the system. As we include velocity perturbations in the dynamics of the cars, all these attractors converge to a statistically equivalent system for all initial jammed densities. However, this emergent state shows a stochastic resonance-like behavior in which the average traffic velocity increases with respect to that of the system without noise, for several initial jammed densities. This result may help in the understanding of dynamics of traffic jams in cities. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Castillo, F.; Toledo, B. A.; Munoz, V.; Rogan, J.; Kiwi, M.; Valdivia, J. A.] Univ Chile, Fac Ciencias, Dept Fis, Santiago, Chile.
+   [Rogan, J.; Kiwi, M.; Valdivia, J. A.] CEDENNA, Santiago, Chile.
+   [Zarama, R.] Univ Los Andes, Dept Ingn Ind, Bogota, Colombia.
+   [Zarama, R.; Valdivia, J. A.] CEIBA Complejidad, Bogota, Colombia.
+RP Toledo, BA (reprint author), Univ Chile, Fac Ciencias, Dept Fis, Santiago, Chile.
+EM btoledo@macul.ciencias.uchile.cl
+RI Kiwi, Miguel/D-3401-2013; Munoz, Victor/A-2255-2008; Rogan,
+   Jose/B-8819-2008; Valdivia, Juan/A-3631-2008; Toledo,
+   Benjamin/A-1136-2008; Zarama, Roberto/E-3101-2010
+OI Valdivia, Juan/0000-0003-3381-9904; Toledo,
+   Benjamin/0000-0001-5928-2290; Zarama, Roberto/0000-0002-5018-9783
+FU FONDECyT [1110135, 1130273, 1120399, 1130272, 1121144]; Financiamiento
+   Basal para Centros Cientificos y Tecnologicos de Excelencia, CEDENNA
+   Project
+FX This project has been financially supported by FONDECyT projects 1110135
+   (JAV), 1130273 (BAT), 1120399 and 1130272 (MK, JR), 1121144 (VM). This
+   work was also supported by the Financiamiento Basal para Centros
+   Cientificos y Tecnologicos de Excelencia, CEDENNA Project.
+CR Alley RB, 2003, SCIENCE, V299, P2005, DOI 10.1126/science.1081056
+   Anishchenko V.S., 2002, NONLINEAR DYNAMICS C
+   BENNAIM E, 1994, PHYS REV E, V50, P822, DOI 10.1103/PhysRevE.50.822
+   BENZI R, 1981, PHYSICA A, V14, P453
+   Brockfeld E, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.056132
+   Gammaitoni L, 1998, REV MOD PHYS, V70, P223, DOI 10.1103/RevModPhys.70.223
+   GAMMAITONI L, 1989, PHYS REV LETT, V62, P349, DOI 10.1103/PhysRevLett.62.349
+   Ganopolski A, 2002, PHYS REV LETT, V88, DOI [10.1103/PhysRevLett.88.038501, 10.1103/PhysRevB.88.038501]
+   Jamison S, 2007, CHAOS, V17, DOI 10.1063/1.2752969
+   Jiang R, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.017101
+   JUNG P, 1991, PHYS REV A, V44, P8032, DOI 10.1103/PhysRevA.44.8032
+   Kerner BS, 2013, EPL-EUROPHYS LETT, V102, DOI 10.1209/0295-5075/102/28010
+   Lee HK, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.056126
+   Li F, 2007, PHYSICA A, V385, P333, DOI 10.1016/j.physa.2007.06.021
+   McDonnell MD, 2011, NAT REV NEUROSCI, V12, P415, DOI 10.1038/nrn3061
+   Mori T, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.218101
+   Nagatani T, 2005, PHYSICA A, V347, P673, DOI 10.1016/j.physa.2004.08.007
+   Nagatani T, 2008, PHYSICA A, V387, P1637, DOI 10.1016/j.physa.2007.11.006
+   Nagatani T, 2007, PHYSICA A, V377, P651, DOI 10.1016/j.physa.2006.11.028
+   NAGEL K, 1992, J PHYS I, V2, P2221
+   NICOLIS C, 1981, SOL PHYS, V74, P473, DOI 10.1007/BF00154530
+   Pasten D, 2012, PHYSICA A, V391, P5230, DOI 10.1016/j.physa.2012.06.005
+   Sasaki M, 2003, PHYSICA A, V325, P531, DOI 10.1016/S0378-4371(03)00148-1
+   Toledo BA, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.026108
+   Toledo BA, 2013, COMMUN NONLINEAR SCI, V18, P81, DOI 10.1016/j.cnsns.2012.06.007
+   Toledo BA, 2004, PHYS REV E, V70, DOI 10.1103/PhysRevE.70.016107
+   Tomer E, 2000, PHYS REV LETT, V84, P382, DOI 10.1103/PhysRevLett.84.382
+   Treiber M, 2000, PHYS REV E, V62, P1805, DOI 10.1103/PhysRevE.62.1805
+   Varas A, 2007, PHYSICA A, V382, P631, DOI 10.1016/j.physa.2007.04.006
+   Varas A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056108
+   Villalobos B.A., 2010, CHAOS, V20
+   Wastavino LA, 2007, PHYSICA A, V381, P411, DOI 10.1016/j.physa.2007.03.052
+NR 32
+TC 2
+Z9 2
+U1 0
+U2 57
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD JUN 1
+PY 2014
+VL 403
+BP 65
+EP 70
+DI 10.1016/j.physa.2014.01.068
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA AE6FJ
+UT WOS:000334085700008
+DA 2019-03-26
+ER
+
+PT J
+AU Lai, HT
+   Kung, PT
+   Su, HP
+   Tsai, WC
+AF Lai, Hsien-Tang
+   Kung, Pei-Tseng
+   Su, Hsun-Pi
+   Tsai, Wen-Chen
+TI Examining related influential factors for dental calculus scaling
+   utilization among people with disabilities in Taiwan, a nationwide
+   population-based study
+SO RESEARCH IN DEVELOPMENTAL DISABILITIES
+LA English
+DT Article
+DE Dental calculus scaling; Disability; Dental prevention; Calculus scaling
+   utilization
+ID PREVENTIVE HEALTH-SERVICES; CARE; CHILDREN; SCHOOLS; ADULTS; BREAST;
+   WOMEN
+AB Limited studies with large samples have been conducted on the utilization of dental calculus scaling among people with physical or mental disabilities. This study aimed to investigate the utilization of dental calculus scaling among the national disabled population. This study analyzed the utilization of dental calculus scaling among the disabled people, using the nationwide data between 2006 and 2008. Descriptive analysis and logistic regression were performed to analyze related influential factors for dental calculus scaling utilization.
+   The dental calculus scaling utilization rate among people with physical or mental disabilities was 16.39%, and the annual utilization frequency was 0.2 times. Utilization rate was higher among the female and non-aboriginal samples. Utilization rate decreased with increased age and disability severity while utilization rate increased with income, education level, urbanization of residential area and number of chronic illnesses. Related influential factors for dental calculus scaling utilization rate were gender, age, ethnicity (aboriginal or non-aboriginal), education level, urbanization of residence area, income, catastrophic illnesses, chronic illnesses, disability types, and disability severity significantly influenced the dental calculus scaling utilization rate. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Lai, Hsien-Tang] Dachien Gen Hosp, Miaoli, Taiwan.
+   [Lai, Hsien-Tang] Natl United Univ, Dept Business Management, Miaoli, Taiwan.
+   [Lai, Hsien-Tang; Tsai, Wen-Chen] China Med Univ, Dept Hlth Serv Adm, Taichung, Taiwan.
+   [Kung, Pei-Tseng] Asia Univ, Dept Healthcare Adm, Taichung, Taiwan.
+   [Su, Hsun-Pi] China Med Univ, Dept Dent Hyg, Taichung, Taiwan.
+RP Tsai, WC (reprint author), 91 Hsueh Shih Rd, Taichung 40402, Taiwan.
+EM wtsai@mail.cmu.edu.tw
+CR Vallejos-Sanchez AA, 2008, J AM DENT ASSOC, V139, P743, DOI 10.14219/jada.archive.2008.0256
+   Cumella S, 2000, J INTELL DISABIL RES, V44, P45, DOI 10.1046/j.1365-2788.2000.00252.x
+   Diab ME, 2004, ARCH PHYS MED REHAB, V85, P749, DOI 10.1016/j.apmr.2003.06.028
+   Donnell David O, 2002, Spec Care Dentist, V22, P231
+   Eronat N, 1997, J Marmara Univ Dent Fac, V2, P599
+   FORSBERG H, 1985, SWED DENT J, V9, P15
+   Kung PT, 2012, RES DEV DISABIL, V33, P205, DOI 10.1016/j.ridd.2011.09.006
+   Kung PT, 2012, RES DEV DISABIL, V33, P136, DOI 10.1016/j.ridd.2011.08.032
+   Lantz PM, 1997, MED CARE, V35, P219, DOI 10.1097/00005650-199703000-00004
+   LERMAN C, 1990, PREV MED, V19, P279, DOI 10.1016/0091-7435(90)90028-I
+   Liu CY, 2006, J HLTH MANAGEMENT, V14, P1
+   Ministry of the Interior, 2012, STAT REP INT
+   Ministry of the Interior, 2002, REP PHYS MENT DIS CI
+   PIEPER K, 1986, COMMUNITY DENT ORAL, V14, P28, DOI 10.1111/j.1600-0528.1986.tb01489.x
+   SHAW L, 1986, COMMUNITY DENT ORAL, V14, P24, DOI 10.1111/j.1600-0528.1986.tb01488.x
+   Tsai W. C., 2003, DISABLED PEOPLES UTI
+   Tsai W. C., 2004, DISABLED PEOPLES UTI
+   Tsai WC, 2007, COMMUNITY DENT ORAL, V35, P459, DOI 10.1111/j.1600-0528.2006.00355.x
+   Tsai WC, 2007, HEALTH POLICY, V83, P363, DOI 10.1016/j.healthpol.2007.02.011
+   Waldman HB, 1998, J DENT CHILD, V65, P487
+   Weng RH, 2011, RES DEV DISABIL, V32, P583, DOI 10.1016/j.ridd.2010.12.016
+   WRIGHT FAC, 1991, HEALTH EDUC QUART, V18, P87, DOI 10.1177/109019819101800109
+NR 22
+TC 4
+Z9 4
+U1 0
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0891-4222
+J9 RES DEV DISABIL
+JI Res. Dev. Disabil.
+PD SEP
+PY 2014
+VL 35
+IS 9
+BP 2231
+EP 2240
+DI 10.1016/j.ridd.2014.05.014
+PG 10
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA AK1MM
+UT WOS:000338179200033
+PM 24927517
+DA 2019-03-26
+ER
+
+PT J
+AU Zhang, H
+   Jim, CY
+AF Zhang, Hao
+   Jim, C. Y.
+TI Species diversity and performance assessment of trees in domestic
+   gardens
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE Species composition; Floristic diversity; Tree performance assessment;
+   Tree overall condition; Structural damage; Domestic garden
+ID URBAN GREEN INFRASTRUCTURE; HONG-KONG; PLANT DIVERSITY; RISK-ASSESSMENT;
+   CLIMATE-CHANGE; STREET TREE; BIODIVERSITY; FLORA; CONSERVATION;
+   LANDSCAPE
+AB Domestic gardens, as an important component of urban green infrastructure, could make significant contributions to urban biodiversity. This study evaluated species composition, floristic diversity, amenity-ecological characteristics, habitat condition, and performance of trees in domestic gardens in urban Hong Kong. The 1501 individual trees belonged to 72 species, 61 genera and 36 families, with domination by a small cohort of popular species. Tree composition skewed heavily toward exotic species count (81.9%) and tree count (91.1%). The most prominent amenity-ecological attributes were fast growth and establishment and interesting tree form and foliage, accounting respectively for 38, 32 and 27 species. Nonmetric Multidimensional Scaling (NMDS) indicated strong association between species distribution in domestic gardens and habitat-tree variables, such as tree density, tree aggregation, species aggregation, lots with trees and house lots. Redundancy Analysis (RDA) showed positive correlation (p < 0.05) between tree and species counts and lot frontage and garden depth. Detrended Correspondence Analysis (DCA) identified 16 species with relatively widespread presence in moderate or severe structural damage groups; and 22 species with very poor or poor overall condition. RDA further demonstrated positive correlation (p < 0.05) between structural damage and overall condition, and tree position and confinement type. The contribution of domestic gardens in the urban greening program could be improved with appropriate incentives, and be integrated into a comprehensive landscape plan. The management implications with reference to preservation and enhancement of garden trees could be applied to south China and other cities. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Zhang, Hao; Jim, C. Y.] Univ Hong Kong, Dept Geog, Hong Kong, Hong Kong, Peoples R China.
+RP Jim, CY (reprint author), Univ Hong Kong, Dept Geog, Pokfulam Rd, Hong Kong, Hong Kong, Peoples R China.
+EM allenzh@hku.hk; hragjcy@hku.hk
+OI Jim, C.Y./0000-0003-4052-8363
+FU Dr. Stanley Ho Alumni Challenge Fund; University Grants Committee
+FX We acknowledge with gratitude the research grants kindly awarded by the
+   Dr. Stanley Ho Alumni Challenge Fund and the University Grants
+   Committee.
+CR Akinnifesi Festus Kehinde, 2010, Urban Ecosystems, V13, P129, DOI 10.1007/s11252-009-0108-9
+   Angold PG, 2006, SCI TOTAL ENVIRON, V360, P196, DOI 10.1016/j.scitotenv.2005.08.035
+   Brockerhoff EG, 2008, BIODIVERS CONSERV, V17, P925, DOI 10.1007/s10531-008-9380-x
+   Cameron RWF, 2012, URBAN FOR URBAN GREE, V11, P129, DOI 10.1016/j.ufug.2012.01.002
+   Celesti-Grapow L, 2006, DIVERS DISTRIB, V12, P490, DOI 10.1111/j.1366-9516.2006.00282.x
+   Census and Statistics Department Hong Kong Special Administrative Region, 2013, HONG KONG ANN DIG ST
+   Chocholouskova Z, 2003, FLORA, V198, P366, DOI 10.1078/0367-2530-00109
+   Daniels GD, 2006, BIOL CONSERV, V133, P326, DOI 10.1016/j.biocon.2006.06.011
+   DeCandido R, 2004, J TORREY BOT SOC, V131, P243, DOI 10.2307/4126954
+   Doody BJ, 2010, BIODIVERS CONSERV, V19, P1385, DOI 10.1007/s10531-009-9768-2
+   Fong L, 1986, THESIS U HONG KONG H
+   Gaffin SR, 2012, NAT CLIM CHANGE, V2, P704, DOI 10.1038/nclimate1685
+   Gaston KJ, 2007, BIODIVERS CONSERV, V16, P3227, DOI 10.1007/s10531-007-9174-6
+   Gaston KJ, 2005, BIODIVERS CONSERV, V14, P395, DOI 10.1007/s10531-004-6066-x
+   GAUCH HG, 1982, ECOLOGY, V63, P1643, DOI 10.2307/1940105
+   Hill MO, 1979, DECORANA FORTRAN PRO
+   Hong Kong Herbarium, 2012, CHECK LIST HONG KONG
+   Hong Kong Observatory, 2013, CLIM HONG KONG INTR
+   Hope D, 2003, P NATL ACAD SCI USA, V100, P8788, DOI 10.1073/pnas.1537557100
+   Ignatieva M, 2011, LANDSC ECOL ENG, V7, P17, DOI 10.1007/s11355-010-0143-y
+   Jim CY, 2013, URBAN FOR URBAN GREE, V12, P585, DOI 10.1016/j.ufug.2013.06.003
+   Jim CY, 2011, URBAN FOR URBAN GREE, V10, P19, DOI 10.1016/j.ufug.2010.11.001
+   Jim CY, 1999, LANDSCAPE URBAN PLAN, V44, P13, DOI 10.1016/S0169-2046(98)00113-3
+   JIM CY, 1987, LANDSCAPE URBAN PLAN, V14, P1, DOI 10.1016/0169-2046(87)90002-8
+   Jim CY, 2000, CITIES, V17, P271, DOI 10.1016/S0264-2751(00)00023-8
+   JIM CY, 1993, LANDSCAPE URBAN PLAN, V23, P119, DOI 10.1016/0169-2046(93)90112-Q
+   Jim CY, 2001, FOREST ECOL MANAG, V146, P99, DOI 10.1016/S0378-1127(00)00449-7
+   Jones HP, 2012, NAT CLIM CHANGE, V2, P504, DOI 10.1038/NCLIMATE1463
+   Kareiva P, 2007, SCIENCE, V316, P1866, DOI 10.1126/science.1140170
+   Kendal D, 2012, LANDSCAPE URBAN PLAN, V105, P34, DOI 10.1016/j.landurbplan.2011.11.023
+   Kiesling FM, 2010, J ENVIRON PSYCHOL, V30, P315, DOI 10.1016/j.jenvp.2010.02.004
+   Kirkpatrick JB, 2012, LANDSCAPE URBAN PLAN, V107, P147, DOI 10.1016/j.landurbplan.2012.05.015
+   Konijnendijk Cecil C., 2006, Urban Forestry & Urban Greening, V4, P93, DOI 10.1016/j.ufug.2005.11.003
+   KUNICK W, 1987, LANDSCAPE URBAN PLAN, V14, P57, DOI 10.1016/0169-2046(87)90006-5
+   Leps J., 2003, MULTIVARIATE ANAL EC
+   Loram A, 2007, LANDSCAPE ECOL, V22, P601, DOI 10.1007/s10980-006-9051-9
+   Loram A, 2011, ENVIRON MANAGE, V48, P808, DOI 10.1007/s00267-011-9723-3
+   Lososova Z, 2012, GLOBAL ECOL BIOGEOGR, V21, P545, DOI 10.1111/j.1466-8238.2011.00704.x
+   Luck GW, 2009, ECOSYSTEMS, V12, P604, DOI 10.1007/s10021-009-9244-6
+   Mathieu R, 2007, LANDSCAPE URBAN PLAN, V81, P179, DOI 10.1016/j.landurbplan.2006.11.009
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   McKinney M. L., 2008, Urban Ecosystems, V11, P161, DOI 10.1007/s11252-007-0045-4
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Mortberg UM, 2007, J ENVIRON MANAGE, V82, P457, DOI 10.1016/j.jenvman.2006.01.005
+   Nagendra H, 2010, URBAN FOR URBAN GREE, V9, P129, DOI 10.1016/j.ufug.2009.12.005
+   Peck J. E., 2010, MULTIVARIATE ANAL CO
+   Reichard SH, 2001, BIOSCIENCE, V51, P103, DOI 10.1641/0006-3568(2001)051[0103:HAAPOI]2.0.CO;2
+   Seaby R., 2004, COMMUNITY ANAL PACKA
+   Seburanga J. L., 2013, URBAN FORESTRY URBAN
+   Shannon E. C., 1963, MATH THEORY COMMUNIC
+   Sjoman H, 2012, URBAN FOR URBAN GREE, V11, P31, DOI 10.1016/j.ufug.2011.09.004
+   Smith RM, 2010, BIOL CONSERV, V143, P873, DOI 10.1016/j.biocon.2009.12.033
+   Smith RM, 2006, BIOL CONSERV, V129, P312, DOI 10.1016/j.biocon.2005.10.045
+   Smith RM, 2005, LANDSCAPE ECOL, V20, P235, DOI 10.1007/s10980-004-3160-0
+   Sreetheran M., 2011, Arboriculture & Urban Forestry, V37, P226
+   Standley LA, 2003, RHODORA, V105, P354
+   Stewart GH, 2009, URBAN FOR URBAN GREE, V8, P149, DOI 10.1016/j.ufug.2009.06.004
+   Sullivan JJ, 2005, NEW ZEAL J ECOL, V29, P1
+   Tait CJ, 2005, ECOL APPL, V15, P346, DOI 10.1890/04-0920
+   Thaiutsa Bunvong, 2008, Urban Forestry & Urban Greening, V7, P219, DOI 10.1016/j.ufug.2008.03.002
+   Thompson K, 2004, J VEG SCI, V15, P373, DOI 10.1111/j.1654-1103.2004.tb02274.x
+   Thompson K, 2003, J VEG SCI, V14, P71, DOI 10.1658/1100-9233(2003)014[0071:UDGIPS]2.0.CO;2
+   Tratalos J, 2007, LANDSCAPE URBAN PLAN, V83, P308, DOI 10.1016/j.landurbplan.2007.05.003
+   van Heezik Y, 2013, ECOSYSTEMS, V16, P1442, DOI 10.1007/s10021-013-9694-8
+   VANDENWOLLENBERG AL, 1977, PSYCHOMETRIKA, V42, P207, DOI 10.1007/BF02294050
+   Zerbe S, 2003, LANDSCAPE URBAN PLAN, V62, P139, DOI 10.1016/S0169-2046(02)00145-7
+   Zhang H, 2013, INT J SUST DEV WORLD, V20, P484, DOI 10.1080/13504509.2013.818590
+   Zhang H, 2013, RESTOR ECOL, V21, P166, DOI 10.1111/j.1526-100X.2012.00906.x
+   Zhang H, 2011, ECOL ENG, V37, P1104, DOI 10.1016/j.ecoleng.2010.05.010
+   Zhuang XY, 1997, J TROP ECOL, V13, P857, DOI 10.1017/S0266467400011032
+NR 70
+TC 13
+Z9 15
+U1 0
+U2 83
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD AUG
+PY 2014
+VL 128
+BP 23
+EP 34
+DI 10.1016/j.landurbplan.2014.04.017
+PG 12
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional
+   & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public
+   Administration; Urban Studies
+GA AK7MB
+UT WOS:000338611300003
+DA 2019-03-26
+ER
+
+PT J
+AU Uddin, K
+   Picarelli, A
+   Lyness, C
+   Taylor, N
+   Marco, J
+AF Uddin, Kotub
+   Picarelli, Alessandro
+   Lyness, Christopher
+   Taylor, Nigel
+   Marco, James
+TI An Acausal Li-Ion Battery Pack Model for Automotive Applications
+SO ENERGIES
+LA English
+DT Article
+DE lithium ion; battery modeling; electric vehicle (EV); battery management
+   system; battery pack
+ID EQUIVALENT-CIRCUIT MODELS; SECONDARY BATTERIES; ELECTRIC VEHICLES; CELL;
+   SIMULATION; SYSTEMS; THERMODYNAMICS; IDENTIFICATION; MANAGEMENT;
+   REDUCTION
+AB In this work, a novel acausal and reconfigurable battery pack model is presented. The model structure adopted for the battery cell is based on an equivalent circuit representation. The circuit elements are modified to take account of both hysteresis and diffusion limitation. The latter is known to be a nonlinear function of large operating currents or long operating times. It is shown that the integration of a current dependent time constant within the cell model better emulates the solid diffusional dynamics of lithium intercalation into the active material under large electrical loads. The advantages of an acausal modeling approach, when scaling-up individual cell models into a complete battery system are also presented. Particular consideration is given to emulating the impact of cell to cell variations on pack performance. Using statistical analysis of battery tests, cell model parameter variations are characterized and quantified. The cell and scaled-up pack model are parameterized for a number of commercially available cell formats, energy capacities and chemistries. The new models are validated using transient, real-world, electrical data measured from an electric vehicle (EV) operating within an urban environment.
+C1 [Uddin, Kotub; Marco, James] Univ Warwick, WMG, Int Digital Lab, Coventry CV4 7AL, W Midlands, England.
+   [Picarelli, Alessandro] Claytex Serv Ltd, Royal Leamington Spa CV32 6EL, England.
+   [Lyness, Christopher; Taylor, Nigel] Jaguar & Land Rover, Hybrids & Electrificat, Warwick CV35 0XJ, England.
+RP Uddin, K (reprint author), Univ Warwick, WMG, Int Digital Lab, Coventry CV4 7AL, W Midlands, England.
+EM k.uddin@warwick.ac.uk; alessandro.picarelli@claytex.com;
+   clyness@jaguarlandrover.com; ntaylo15@jaguarlandrover.com;
+   james.marco@warwick.ac.uk
+FU UK Technology Strategy Board (TSB) through the WMG Centre High Value
+   Manufacturing (HVM); Jaguar Land Rover
+FX The research presented within this paper is supported by the UK
+   Technology Strategy Board (TSB) through the WMG Centre High Value
+   Manufacturing (HVM) Catapult in collaboration with Jaguar Land Rover.
+   The authors thank Gael Chouchelamane for assistance in collecting
+   parameterization data. We also thank Widanalage Dhammika Widanage for
+   useful discussions.
+CR Bai P, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4585
+   Bazant MZ, 2013, ACCOUNTS CHEM RES, V46, P1144, DOI 10.1021/ar300145c
+   BELLMAN R, 1970, METHODS NONLINEAR AN
+   Belt JR, 2010, BATTERY TEST MANUAL
+   Benini L., 2000, Proceedings Design, Automation and Test in Europe Conference and Exhibition 2000 (Cat. No. PR00537), P35, DOI 10.1109/DATE.2000.840012
+   Bhikkaji B, 2001, INT J CONTROL, V74, P1543, DOI 10.1080/00207170110081732
+   Broman D., 2010, THESIS LINKOPING U L
+   Cai L, 2009, J ELECTROCHEM SOC, V156, pA154, DOI 10.1149/1.3049347
+   Chacko S, 2012, J POWER SOURCES, V213, P296, DOI 10.1016/j.jpowsour.2012.04.015
+   Chen M, 2006, IEEE T ENERGY CONVER, V21, P504, DOI 10.1109/TEC.2006.874229
+   Cluzel C, 2012, COST PERFORMANCE EV, V21
+   Cogswell DA, 2013, NANO LETT, V13, P3036, DOI 10.1021/nl400497t
+   Dao TS, 2012, J POWER SOURCES, V198, P329, DOI 10.1016/j.jpowsour.2011.09.034
+   Dubarry M, 2010, INT J ENERG RES, V34, P216, DOI 10.1002/er.1668
+   Dubarry M, 2009, J POWER SOURCES, V186, P500, DOI 10.1016/j.jpowsour.2008.10.051
+   Feinauer J., 2014, STRUCTURAL CHARACTER
+   Fishwick PA, 2007, HDB DYNAMIC SYSTEM M
+   Forman JC, 2012, J POWER SOURCES, V210, P263, DOI 10.1016/j.jpowsour.2012.03.009
+   Franke T, 2012, APPL PSYCHOL-INT REV, V61, P368, DOI 10.1111/j.1464-0597.2011.00474.x
+   Fritzson P., 2010, PRINCIPLES OBJECT OR
+   FULLER TF, 1994, J ELECTROCHEM SOC, V141, P982, DOI 10.1149/1.2054868
+   Hartmann R. L., 2009, THESIS U AKRON AKRON
+   He HW, 2011, ENERGIES, V4, P582, DOI 10.3390/en4040582
+   Horn Q. C., 2007, P 211 ECS M CHIC IL
+   Hu XS, 2012, J POWER SOURCES, V198, P359, DOI 10.1016/j.jpowsour.2011.10.013
+   Hu Y, 2011, J POWER SOURCES, V196, P449, DOI 10.1016/j.jpowsour.2010.06.037
+   Lotfi N, 2013, ENERGIES, V6, P5231, DOI 10.3390/en6105231
+   Lu LG, 2013, J POWER SOURCES, V226, P272, DOI 10.1016/j.jpowsour.2012.10.060
+   Meissner E, 2005, J POWER SOURCES, V144, P438, DOI 10.1016/j.jpowsour.2004.10.031
+   Muratori M., 2010, THESIS POLYTECHNIC U
+   Newman J. S., 2012, ELECTROCHEMICAL SYST
+   Nilsson Maria, 2011, ELECT VEHICLES PHENO
+   Onda K, 2003, J ELECTROCHEM SOC, V150, pA285, DOI 10.1149/1.1543947
+   Pesaran AA, 2002, J POWER SOURCES, V110, P377, DOI 10.1016/S0378-7753(02)00200-8
+   Roscher MA, 2011, J POWER SOURCES, V196, P331, DOI 10.1016/j.jpowsour.2010.06.098
+   Smith K, 2006, J POWER SOURCES, V161, P628, DOI 10.1016/j.jpowsour.2006.03.050
+   Smith KA, 2008, J DYN SYST-T ASME, V130, DOI 10.1115/1.2807068
+   Song L, 2000, J ELECTROCHEM SOC, V147, P2086, DOI 10.1149/1.1393490
+   Srinivasan V, 2004, J ELECTROCHEM SOC, V151, pA1517, DOI 10.1149/1.1785012
+   Subramanian VR, 2007, ELECTROCHEM SOLID ST, V10, pA255, DOI 10.1149/1.2776128
+   Subramanian VR, 2005, J ELECTROCHEM SOC, V152, pA2002, DOI 10.1149/1.2032427
+   Surewaard E., 2003, P FUT TRANSP TECHN C, DOI [10.4271/2003-01-2290, DOI 10.4271/2003-01-2290]
+   Tate E., 2008, P SAE WORLD C EXH DE, DOI [10.4271/2008-01-0458, DOI 10.4271/2008-01-0458]
+   Thorat IV, 2011, J ELECTROCHEM SOC, V158, pA1185, DOI 10.1149/2.001111jes
+   Tiller M., 2001, INTRO PHYS MODELING
+   Troxler Y, 2014, J POWER SOURCES, V247, P1018, DOI 10.1016/j.jpowsour.2013.06.084
+   Wetter M, 2009, J BUILD PERFORM SIMU, V2, P143, DOI 10.1080/19401490902818259
+   Yazami R, 2006, J POWER SOURCES, V153, P312, DOI 10.1016/j.jpowsour.2005.05.087
+NR 48
+TC 25
+Z9 25
+U1 0
+U2 23
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 1996-1073
+J9 ENERGIES
+JI Energies
+PD SEP
+PY 2014
+VL 7
+IS 9
+BP 5675
+EP 5700
+DI 10.3390/en7095675
+PG 26
+WC Energy & Fuels
+SC Energy & Fuels
+GA AQ8UX
+UT WOS:000343111600009
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT S
+AU Wang, J
+   Li, SG
+AF Wang, Jian
+   Li, Shuang-ge
+BE Yao, H
+TI Time-clustering Behaviors of Urban Fires
+SO 2013 INTERNATIONAL CONFERENCE ON PERFORMANCE-BASED FIRE AND FIRE
+   PROTECTION ENGINEERING (ICPFFPE 2013)
+SE Procedia Engineering
+LA English
+DT Proceedings Paper
+CT International Conference on Performance-Based Fire and Fire Protection
+   Engineering (ICPFFPE)
+CY NOV 16, 2013
+CL Wuhan, PEOPLES R CHINA
+DE scaling behavior; urban fire; Allan factor; Fano factor; cluster
+ID SELF-ORGANIZED CRITICALITY; DETRENDED FLUCTUATION ANALYSIS; LONG-RANGE
+   CORRELATIONS; POWER-LAW DISTRIBUTION; FOREST-FIRES; SCALING BEHAVIOR;
+   SEQUENCES; HUMIDITY
+AB It has been found that many systems are characterized by scaling behavior. Time-scaling scale-invariant approaches are used to analyze the temporal distribution of urban fire sequences recorded in the city of Wuhan (China) in present paper. The results of the coefficient of variation show that there is a clustering distribution in the occurrence sequence of urban fire in Wuhan. And with the study of Fano factor and Allan factor for the urban fire sequences in Wuhan, it is found that the urban fire sequences have obviously time-scaling behaviors. These reveal that the point process of urban fires is a fractal process with a high degree of time-clusterization of the events. The results will be helpful to estimate urban fire risk. (C) 2014 Published by Elsevier Ltd.
+C1 [Wang, Jian; Li, Shuang-ge] Henan Polytech Univ, Sch Safety Sci & Engn, Jiaozuo 454000, Peoples R China.
+RP Wang, J (reprint author), Henan Polytech Univ, Sch Safety Sci & Engn, Jiaozuo 454000, Peoples R China.
+EM wjhpu@hpu.edu.cn
+CR Boffetta G, 1999, PHYS REV LETT, V83, P4662, DOI 10.1103/PhysRevLett.83.4662
+   CARSON M, 1989, PHYS REV A, V40, P6470
+   Kaizoji T, 2004, PHYSICA A, V336, P563, DOI 10.1016/j.physa.2003.12.054
+   Lasaponara R, 2005, CHAOS SOLITON FRACT, V24, P139, DOI 10.1016/j.chaos.2004.07.025
+   Malamud BD, 1998, SCIENCE, V281, P1840, DOI 10.1126/science.281.5384.1840
+   Miyazima S, 2000, PHYSICA A, V278, P282, DOI 10.1016/S0378-4371(99)00546-4
+   Pelletier JD, 1998, EARTH PLANET SC LETT, V158, P157, DOI 10.1016/S0012-821X(98)00051-X
+   Pelletier JD, 1997, J HYDROL, V203, P198, DOI 10.1016/S0022-1694(97)00102-9
+   Peters O, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.018701
+   Ricotta C, 1999, ECOL MODEL, V119, P73, DOI 10.1016/S0304-3800(99)00057-5
+   Song WG, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.016109
+   Song WG, 2001, ECOL MODEL, V145, P61, DOI 10.1016/S0304-3800(01)00383-0
+   Telesca L, 2005, FLUCT NOISE LETT, V5, pL17, DOI 10.1142/S0219477505002379
+   Telesca L, 2007, NAT HAZARDS, V40, P593, DOI 10.1007/s11069-006-9023-z
+   Telesca L, 2007, PHYSICA A, V384, P516, DOI 10.1016/j.physa.2007.05.041
+   Telesca L, 2007, PHYSICA A, V377, P279, DOI 10.1016/j.physa.2006.10.092
+   Telesca L, 2007, CHAOS SOLITON FRACT, V32, P1364, DOI 10.1016/j.chaos.2005.11.075
+   Thruner S., 1997, FRACTALS, V5, P565
+   VATTAY G, 1994, PHYS REV LETT, V73, P768, DOI 10.1103/PhysRevLett.73.768
+   Wang J, 2010, ECOL MODEL, V221, P85, DOI 10.1016/j.ecolmodel.2009.03.007
+   Song WG, 2006, ECOL MODEL, V196, P527, DOI 10.1016/j.ecolmodel.2006.02.033
+   Zheng HY, 2008, PHYSICA A, V387, P2091, DOI 10.1016/j.physa.2007.11.020
+   Zheng HY, 2010, PHYSICA A, V389, P837, DOI 10.1016/j.physa.2009.10.022
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-7058
+J9 PROCEDIA ENGINEER
+PY 2014
+VL 71
+BP 214
+EP 219
+DI 10.1016/j.proeng.2014.04.031
+PG 6
+WC Engineering, Multidisciplinary
+SC Engineering
+GA BB7ET
+UT WOS:000345439500031
+OA Other Gold
+DA 2019-03-26
+ER

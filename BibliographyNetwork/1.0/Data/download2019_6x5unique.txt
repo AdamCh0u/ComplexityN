@@ -1,0 +1,602 @@
+
+PT J
+AU Cheng, X
+   Shao, H
+   Li, Y
+   Shen, C
+   Liang, PP
+AF Cheng, Xin
+   Shao, Hua
+   Li, Yang
+   Shen, Chao
+   Liang, Peipei
+TI Urban Land Intensive Use Evaluation Study Based on Nighttime LightA Case
+   Study of the Yangtze River Economic Belt
+SO SUSTAINABILITY
+LA English
+DT Article
+DE land intensive use; remote sensing; nighttime light; allometric growth;
+   Yangtze River Economic Belt; land utilization
+ID CHINA; DYNAMICS; SYSTEM
+AB Urban land intensive use meets the requirements for the sustainable development of urban land and is an important part of urban sustainable development. The Yangtze River Economic Belt (YREB) spans the three major regions of China, which are the most active areas of China's economy. The contradiction between humans and land is becoming more acute. There are also regional differences in land use patterns affecting the coordinated development of the YREB and the construction of an ecological civilization. Therefore, the scientific evaluation of urban land intensive use is a key area in the current research field of urban sustainable development. In this study, the YREB is chosen as the research object, and urban land intensive use is studied using nighttime light data and statistical data on the urban built-up area. An evaluation model based on urban nighttime light intensity and land urbanization is constructed with an allometric growth model. Considering that the impact of land urbanization on urban nighttime light has a possible lag effect, an evaluation model of land intensive use that considers the lag effect between urban nighttime light and the land urbanization level is proposed. Using urban agglomerations and some typical cities in the study area as research samples, the characteristics of urban nighttime light and land urbanization are analyzed to reveal the spatial and temporal characteristics of land development in the YREB. The results show that nighttime light remote-sensing data can better reflect the level of urban land use, the allometric growth model can better fit the intensity of urban light and the land urbanization level, and the allometric growth characteristics can reflect the land use characteristics of different cities and urban agglomerations. In regional experiments with typical cities and with urban agglomerations, compared to the original allometric growth model, the goodness of fit of the allometric growth model with the lag effect improves, on average, by 3.2% and 2%, respectively, with the highest increases being by 9.9% and 4.9%, respectively. The level of intensive land use in the YREB gradually decreases from east to west, and there are great differences among different cities in the provinces and urban agglomerations. The lower reaches of the Yangtze River have high land intensive use on the whole. In the middle reaches, multicenter cities have a greater efficiency of land use than the surrounding cities. In the upper reaches, only Chengdu and Chongqing have clear advantages in urban land intensive use. The results of this study can be helpful in providing an important reference for the sustainable development of land in the YREB and can provide a basis for future urban land optimization and sustainable development. Realizing the coordination and linkage between key cities and major cities is the key to enhancing the overall sustainable development ability of the core cities in the YREB.
+C1 [Cheng, Xin; Shao, Hua; Shen, Chao; Liang, Peipei] Nanjing Tech Univ, Coll Geomat Sci & Technol, Nanjing 211816, Jiangsu, Peoples R China.
+   [Li, Yang] Nanjing Normal Univ, Jiangsu Ctr Collaborat Innovat Geog Informat Reso, Nanjing 210023, Jiangsu, Peoples R China.
+   [Li, Yang] Nanjing Normal Univ, Key Lab Virtual Geog Environm, Minist Educ, Nanjing 210023, Jiangsu, Peoples R China.
+   [Li, Yang] Nanjing Normal Univ, Sch Geog Sci, Nanjing 210046, Jiangsu, Peoples R China.
+RP Shao, H (reprint author), Nanjing Tech Univ, Coll Geomat Sci & Technol, Nanjing 211816, Jiangsu, Peoples R China.
+EM chengxin2016@njtech.edu.cn; shaohua@njtech.edu.cn; li.yang@njnu.edu.cn;
+   sc1015147151@njtech.edu.cn; 201861223009@njtech.edu.cn
+FU National Natural Science Foundation of China [41501431, 41601449,
+   41771421]; Natural Science Foundation of the Jiangsu Higher Education
+   Institutions of China [16KJD420002]
+FX This research was undertaken at the College of Geomatics Science and
+   Technology of Nanjing Tech University and the School of Geography of
+   Nanjing Normal University, and it was funded by the National Natural
+   Science Foundation of China (nos. 41501431, 41601449, and 41771421), as
+   well as the Natural Science Foundation of the Jiangsu Higher Education
+   Institutions of China (no. 16KJD420002).
+CR Bennett MM, 2017, REMOTE SENS ENVIRON, V192, P176, DOI [10.1016/jsse.2017.01.005, 10.1016/j.rse.2017.01.005]
+   [曹子�? Cao Ziyang], 2015, [地球信息科学学报, Journal of Geo-Information Science], V17, P1092
+   Cen X.Y., 2015, CHINA DEV, V3, P1, DOI [10.15885/j.cnki.cn11-4683/z.2015.03.001, DOI 10.15885/J.CNKI.CN11-4683/Z.2015.03.001]
+   Cen XT, 2015, SUSTAINABILITY-BASEL, V7, P1459, DOI 10.3390/su7021459
+   Chen E., 2018, RESOUR DEV MARK, V34, P316, DOI [10.3969/j.issn.1005-8141.2018.03.004, DOI 10.3969/J.ISSN.1005-8141.2018.03.004]
+   Chen Y.G., 1999, J XINYANG NORM U, V2, P198, DOI [10.3969/j.issn.1003-0972.1999.02.021, DOI 10.3969/J.ISSN.1003-0972.1999.02.021]
+   Chen Y.G., 2001, ACTA SCI NAT U PEKIN, V6, P819, DOI [10.3321/j.issn:0479-8023.2001.06.012, DOI 10.3321/J.ISSN:0479-8023.2001.06.012]
+   Chen YG, 2017, PHYSICA A, V465, P673, DOI 10.1016/j.physa.2016.08.008
+   Cova TJ, 2004, PHOTOGRAMM ENG REM S, V70, P1249, DOI 10.14358/PERS.70.11.1249
+   Doll CNH, 2006, ECOL ECON, V57, P75, DOI 10.1016/j.ecolecon.2005.03.007
+   [方创�? Fang Chuanglin], 2015, [地理科学进展, Progress in Geography], V34, P1398
+   Feng K., 2007, ECON GEOGR, V811, P811, DOI [10.3969/j.issn.1000-8462.2007.05.023, DOI 10.3969/J.ISSN.1000-8462.2007.05.023]
+   Gao K., 2010, RESOUR ENV YANGTZE B, V19, P13
+   Ghosh T., 2010, OPEN GEOGRAPH J, V3, P147, DOI DOI 10.2174/1874923201003010147
+   Gradinaru SR, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9081279
+   Hai J., 2008, T CHINESE SOC AGR S, V8, P117
+   Hashem D., 2018, IRAN ENV DEV SUSTAIN, V20, P1, DOI [10.1007/s10668-018-0211-2, DOI 10.1007/S10668-018-0211-2]
+   He CY, 2014, GLOBAL CHANGE BIOL, V20, P2886, DOI 10.1111/gcb.12553
+   [何为 HE Wei], 2011, [自然资源学报, Journal of Natural Resources], V26, P1287
+   Henderson M, 2003, INT J REMOTE SENS, V24, P595, DOI 10.1080/01431160210144534
+   Huang XM, 2016, REMOTE SENS ENVIRON, V175, P92, DOI 10.1016/j.rse.2015.12.042
+   Lau SSY, 2005, HABITAT INT, V29, P527, DOI 10.1016/j.habitatint.2004.04.007
+   LEE Y, 1989, ENVIRON PLANN A, V21, P463, DOI 10.1068/a210463
+   Li C.F., 2011, ECON GEOGR, V2, P294, DOI [10.15957/j.cnki.jjdl.2011.02.007, DOI 10.15957/J.CNKI.JJDL.2011.02.007]
+   Li D., 2015, ACTA GEODAET CARTOGR, V6, P591
+   [李小�? Li Xiaofan], 2015, [地理科学进展, Progress in Geography], V34, P1419
+   LI Y, 2018, SUSTAINABILITY-BASEL, V10, DOI DOI 10.3390/su10082733
+   [刘继�? Liu Jisheng], 2005, [地理科学, Scientia Geographica Sinica], V25, P135
+   Lo CP, 2001, PHOTOGRAMM ENG REM S, V67, P1037
+   Lo ON, 2017, LAND USE POLICY, V61, P103, DOI 10.1016/j.landusepol.2016.11.007
+   Ma T, 2015, REMOTE SENS ENVIRON, V158, P453, DOI 10.1016/j.rse.2014.11.022
+   Martina A., 2019, ECOL INDIC, V96, P3, DOI [10.1016/j.ecolind.2018.10.059, DOI 10.1016/J.ECOLIND.2018.10.059]
+   Pan L.L., 2015, THESIS
+   Pandey B, 2017, REMOTE SENS ENVIRON, V195, P67, DOI 10.1016/j.rse.2017.04.011
+   Qu E.Q., 2016, RES ENV, V26, P162
+   [上官彩霞 Shangguan Caixia], 2014, [水土保持研究, Research of Soil and Water Conservation], V21, P234
+   Sun Y.N., 2016, NANJING J SOC SCI, V8, P151, DOI [10.15937/j.cnki.issn1001-8263.2016.08.024, DOI 10.15937/J.CNKI.ISSN1001-8263.2016.08.024]
+   [孙在�? Sun Zaihong], 2011, [地理研究, Geographical Research], V30, P2163
+   Wang C.X., 2012, CHINA POPUL RESOUR E, V7, P109, DOI [10.3969/j.issn.1002-2104.2012.07.017, DOI 10.3969/J.ISSN.1002-2104.2012.07.017]
+   [王亚�? Wang Yahua], 2017, [地理研究, Geographical Research], V36, P149
+   [吴健�? Wu Jiansheng], 2014, [地理与地理信息科�?, Geography and Geo-information Science], V30, P20
+   Wu JS, 2013, INT J REMOTE SENS, V34, P7356, DOI 10.1080/01431161.2013.820365
+   Wu WJ, 2016, PROCEDIA ENVIRON SCI, V36, P146, DOI 10.1016/j.proenv.2016.09.025
+   Xiao W, 2011, COMPUT RISK MANAG, P245, DOI 10.1007/978-3-642-15243-6_28
+   Xie F., 2017, CHINA MIN MAG, V175, P155
+   [杨妮 Yang Ni], 2014, [地理与地理信息科�?, Geography and Geo-information Science], V30, P108
+   YE YY, 2018, SUSTAINABILITY-BASEL, V10, DOI DOI 10.3390/SU10010063
+   [尹君 YIN Jun], 2007, [自然资源学报, Journal of Natural Resources], V22, P775
+   [翟文�? ZHAI Wenxia], 2006, [资源科学, Resources science], V28, P54
+   Zhang W., 2013, THESIS
+   Zhu H., 2009, ECON GEOGR, V5, P836, DOI [10.15957/j.cnki.jjdl.2009.05.006, DOI 10.15957/J.CNKI.JJDL.2009.05.006]
+   [卓莉 Zhuo Li], 2005, [地理学报, Acta Geographica Sinica], V60, P266
+NR 52
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD FEB 1
+PY 2019
+VL 11
+IS 3
+AR 675
+DI 10.3390/su11030675
+PG 21
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA HL7NY
+UT WOS:000458929500120
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Huang, YL
+   Huang, JL
+AF Huang, Yaling
+   Huang, Jinliang
+TI Coupled effects of land use pattern and hydrological regime on
+   composition and diversity of riverine eukaryotic community in a coastal
+   watershed of Southeast China
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Land use pattern; Hydrological regime; Coastal watershed; Eukaryotic
+   communities
+ID MICROBIAL COMMUNITIES; PHYTOPLANKTON COMMUNITIES; BACTERIAL COMMUNITY;
+   SEQUENCING REVEALS; JIULONG RIVER; TROPHIC STATE; DNA; BIODIVERSITY;
+   BIOGEOGRAPHY; SHALLOW
+AB The coupled effects of land use pattern and hydrological regime on composition and diversity of riverine eukaryotic community are needed for understanding riverine ecosystem health and algal blooming mechanism. In-situ monitoring and 18S rRNA gene sequencing were used to investigate spatiotemporal variations of eukaryotic community in three types of watershed with different dominant land use type (i.e. urban, forest, and natural) during three seasons (i.e. dry, transition, and wet seasons) in a coastal watershed of Southeast China. Results showed that agricultural and urban watersheds had significantly higher diversity in dry and transition seasons, and higher richness in transition and wet seasons than those in forest watershed. The non-metric multidimensional scaling analysis further verified great spatiotemporal variations of eukaryotic community. Stramenopiles, Alveolata, Animalia, and Eukaryota, dominated the sequences reads for all sampling sites in three seasons. Agricultural watershed had the highest relative abundant of Animalia, whereas Eukaryota was the most abundant in urban watershed and forest watershed had the highest relative abundance of Stramenopiles and Alveolata. The RDA ordination showed that Builtup and streamflow were two most important factors for moderate taxa and abundant taxa, respectively. Variation partitioning revealed that land use pattern and hydrological regime together explained 54.4%, 61% and 67.2% variances of the composition of eukaryotic community. Among three sampling seasons, the relative contribution of land use pattern was higher than that of hydrological regime. The results of this investigation demonstrated how land use pattern and hydrological regime affected the composition and diversity of riverine eukaryotic community. The findings can provide a useful insight into the riverine eukaryotic communities and their underlying ecological mechanisms in coastal China watersheds. (C) 2019 Elsevier B.V. All rights reserved.
+C1 [Huang, Yaling; Huang, Jinliang] Xiamen Univ, Fujian Prov Key Lab Coastal Ecol & Environm Studi, Xiamen 361102, Peoples R China.
+   [Huang, Jinliang] Xiamen Univ, Coastal & Ocean Management Inst, Xiamen 361102, Peoples R China.
+RP Huang, JL (reprint author), Xiamen Univ, Fujian Prov Key Lab Coastal Ecol & Environm Studi, Xiamen 361102, Peoples R China.
+EM jlhuang@xmu.edu.cn
+OI Huang, Jinliang/0000-0002-0895-3418
+FU National Natural Science Foundation of China [41471154]; Fundamental
+   Research Funds for the Xiamen University [20720150129]
+FX This research was supported by the National Natural Science Foundation
+   of China (Grant No. 41471154), and the Fundamental Research Funds for
+   the Xiamen University (Grant No. 20720150129). Dr. Minghua Wang and Dr.
+   Yanrong Luo from Xiamen University were appreciated for providing
+   helpful comments to improve this study. Ayu Ervinia, Huang Boqiang,
+   Huang Yue, Liu Jihui, Tang Li, Zhou Min in our research group provided
+   assistance with in-situ monitoring and experiments. We also thank Dr.
+   Shih-Chi Wang from USEPA to polish the English writing. Anonymous
+   reviewers supplied constructive feedback that helped to improve this
+   paper.
+CR Allan E, 2014, P NATL ACAD SCI USA, V111, P308, DOI 10.1073/pnas.1312213111
+   Amaral-Zettler LA, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006372
+   Araujo MB, 2007, J BIOGEOGR, V34, P199, DOI 10.1111/j.1365-2699.2006.01687.x
+   Becker CG, 2011, P NATL ACAD SCI USA, V108, P9893, DOI 10.1073/pnas.1014497108
+   Behnke A, 2011, ENVIRON MICROBIOL, V13, P340, DOI 10.1111/j.1462-2920.2010.02332.x
+   Bokulich NA, 2013, NAT METHODS, V10, P57, DOI [10.1038/NMETH.2276, 10.1038/nmeth.2276]
+   Bricheux G, 2013, MICROBIOLOGYOPEN, V2, P402, DOI 10.1002/mbo3.80
+   Burns CW, 2007, J PLANKTON RES, V29, P127, DOI 10.1093/plankt/fbm001
+   Caron DA, 2012, ANNU REV MAR SCI, V4, P467, DOI 10.1146/annurev-marine-120709-142802
+   Caron DA, 2009, AQUAT MICROB ECOL, V57, P227, DOI 10.3354/ame01352
+   Carrino-Kyker SR, 2011, AQUAT MICROB ECOL, V62, P13, DOI 10.3354/ame01432
+   Chaffron S, 2010, GENOME RES, V20, P947, DOI 10.1101/gr.104521.109
+   Chen NW, 2014, AGR ECOSYST ENVIRON, V189, P1, DOI 10.1016/j.agee.2014.03.004
+   Chen NW, 2012, CURR OPIN ENV SUST, V4, P233, DOI 10.1016/j.cosust.2012.03.007
+   de Vargas C, 2015, SCIENCE, V348, DOI 10.1126/science.1261605
+   Decelle J, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0104297
+   DESCY JP, 1994, HYDROBIOLOGIA, V289, P139, DOI 10.1007/BF00007415
+   Edgcomb V, 2011, ISME J, V5, P1344, DOI 10.1038/ismej.2011.6
+   Estes JA, 2011, SCIENCE, V333, P301, DOI 10.1126/science.1205106
+   Gilbert JA, 2009, ENVIRON MICROBIOL, V11, P3132, DOI 10.1111/j.1462-2920.2009.02017.x
+   Gossner MM, 2016, NATURE, V540, P266, DOI 10.1038/nature20575
+   Ha K, 1998, HYDROBIOLOGIA, V370, P217
+   Harder CB, 2016, ISME J, V10, P2488, DOI 10.1038/ismej.2016.31
+   Holfeld H, 2000, J PLANKTON RES, V22, P987, DOI 10.1093/plankt/22.5.987
+   Huang JN, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0109996
+   Hullar MAJ, 2006, APPL ENVIRON MICROB, V72, P713, DOI 10.1128/AEM.72.1.713-722.2006
+   Isabwe A, 2018, SCI TOTAL ENVIRON, V630, P658, DOI 10.1016/j.scitotenv.2018.02.210
+   James TY, 2006, MYCOLOGIA, V98, P860, DOI 10.3852/mycologia.98.6.860
+   Jiang YJ, 2014, ECOL INDIC, V40, P58, DOI 10.1016/j.ecolind.2014.01.006
+   Jones AC, 2013, ENVIRON MICROBIOL, V15, P2557, DOI 10.1111/1462-2920.12151
+   Katsiapi M, 2012, HYDROBIOLOGIA, V698, P121, DOI 10.1007/s10750-012-1095-z
+   Kent AD, 2007, ISME J, V1, P38, DOI 10.1038/ismej.2007.6
+   KISS KT, 1994, HYDROBIOLOGIA, V289, P163, DOI 10.1007/BF00007417
+   Korajkic A, 2015, WATER RES, V69, P30, DOI [10.1016/j.watres.2014.11.0003, 10.1016/j.watres.2014.11.003]
+   Leland HV, 2003, HYDROBIOLOGIA, V506, P247, DOI 10.1023/B:HYDR.0000008596.00382.56
+   Leland HV, 2001, FRESHWATER BIOL, V46, P1139, DOI 10.1046/j.1365-2427.2001.00740.x
+   Li Y, 2011, MAR POLLUT BULL, V63, P249, DOI 10.1016/j.marpolbul.2011.02.021
+   Lindstrom ES, 2012, ENV MICROBIOL REP, V4, P1, DOI 10.1111/j.1758-2229.2011.00257.x
+   Liu LM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0081232
+   Magoc T, 2011, BIOINFORMATICS, V27, P2957, DOI 10.1093/bioinformatics/btr507
+   Mangadze T, 2016, ECOL INDIC, V63, P128, DOI 10.1016/j.ecolind.2015.11.029
+   Marquez LM, 2003, MOL BIOL EVOL, V20, P1077, DOI 10.1093/molbev/msg122
+   Martiny JBH, 2006, NAT REV MICROBIOL, V4, P102, DOI 10.1038/nrmicro1341
+   MOSS B, 1989, J PLANKTON RES, V11, P839, DOI 10.1093/plankt/11.4.839
+   Nocker A, 2007, MICROB ECOL, V54, P276, DOI 10.1007/s00248-006-9199-5
+   Nolte V, 2010, MOL ECOL, V19, P2908, DOI 10.1111/j.1365-294X.2010.04669.x
+   Padisak J, 2006, HYDROBIOLOGIA, V553, P1, DOI 10.1007/s10750-005-1393-9
+   Pan YB, 2016, J EXP MAR BIOL ECOL, V477, P31, DOI 10.1016/j.jembe.2016.01.002
+   Paul WJ, 2012, HYDROBIOLOGIA, V698, P133, DOI 10.1007/s10750-012-1147-4
+   Pearman JK, 2016, MAR GENOM, V26, P29, DOI 10.1016/j.margen.2015.10.008
+   Pedros-Alio C, 2006, TRENDS MICROBIOL, V14, P257, DOI 10.1016/j.tim.2006.04.007
+   Pernice MC, 2016, ISME J, V10, P945, DOI 10.1038/ismej.2015.170
+   Portillo MC, 2012, ENVIRON MICROBIOL, V14, P2417, DOI 10.1111/j.1462-2920.2012.02785.x
+   Rajendhran J, 2011, MICROBIOL RES, V166, P99, DOI 10.1016/j.micres.2010.02.003
+   Read DS, 2015, ISME J, V9, P516, DOI 10.1038/ismej.2014.166
+   REYNOLDS CS, 1993, HYDROBIOLOGIA, V249, P183, DOI 10.1007/BF00008853
+   Sala OE, 2000, SCIENCE, V287, P1770, DOI 10.1126/science.287.5459.1770
+   Saxena G, 2015, ENVIRON SCI TECHNOL, V49, P1462, DOI 10.1021/es504531s
+   Simon M, 2016, FRONT MICROBIOL, V7, DOI 10.3389/fmicb.2016.00812
+   Skidmore RE, 1998, SCI TOTAL ENVIRON, V210, P357, DOI 10.1016/S0048-9697(98)00023-0
+   Staley C, 2013, J APPL MICROBIOL, V115, P1147, DOI 10.1111/jam.12323
+   Staley C, 2014, FRONT MICROBIOL, V5, DOI 10.3389/fmicb.2014.00524
+   Stoeck T, 2010, MOL ECOL, V19, P21, DOI 10.1111/j.1365-294X.2009.04480.x
+   Stomp M, 2011, ECOLOGY, V92, P2096, DOI 10.1890/10-1023.1
+   Suikkanen S, 2007, ESTUAR COAST SHELF S, V71, P580, DOI 10.1016/j.ecss.2006.09.004
+   Tamames J, 2010, BMC MICROBIOL, V10, DOI 10.1186/1471-2180-10-85
+   Tian YQ, 2014, CHIN J OCEANOL LIMN, V32, P255, DOI 10.1007/s00343-014-3158-7
+   Torremorell A, 2009, FRESHWATER BIOL, V54, P437, DOI 10.1111/j.1365-2427.2008.02119.x
+   Townsend SA, 2017, HYDROBIOLOGIA, V794, P203, DOI 10.1007/s10750-017-3094-6
+   Van den Hoek C, 1995, ALGAE INTRO PHYCOLOG
+   Van Egeren SJ, 2011, HYDROBIOLOGIA, V668, P137, DOI 10.1007/s10750-011-0636-1
+   Volant A, 2016, MICROB ECOL, V72, P608, DOI 10.1007/s00248-016-0826-5
+   Wang YP, 2015, APPL MICROBIOL BIOT, V99, P1155, DOI 10.1007/s00253-014-6167-8
+   Xie YW, 2017, CHEMOSPHERE, V172, P201, DOI 10.1016/j.chemosphere.2016.12.117
+   Yan Q, 2015, SCI REP-UK, V5, DOI 10.1038/srep08605
+   Yang J, 2012, ENVIRON SCI POLLUT R, V19, P1432, DOI 10.1007/s11356-011-0683-1
+   Yi ZZ, 2017, FEMS MICROBIOL ECOL, V93, DOI 10.1093/femsec/fix073
+   Yu LY, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0127721
+   Zhang WJ, 2018, ENVIRON MICROBIOL, V20, P462, DOI 10.1111/1462-2920.13916
+   Zhou P, 2014, SENSORS-BASEL, V14, P11640, DOI 10.3390/s140711640
+   Zhou SC, 2009, INT REV HYDROBIOL, V94, P542, DOI 10.1002/iroh.200811107
+   Zingel P, 2007, MICROB ECOL, V53, P134, DOI 10.1007/s00248-006-9155-4
+NR 83
+TC 0
+Z9 0
+U1 17
+U2 17
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD APR 10
+PY 2019
+VL 660
+BP 787
+EP 798
+DI 10.1016/j.scitotenv.2019.01.063
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA HK2FV
+UT WOS:000457725700080
+PM 30743964
+DA 2019-03-26
+ER
+
+PT J
+AU Keuschnigg, M
+   Mutgan, S
+   Hedstrom, P
+AF Keuschnigg, Marc
+   Mutgan, Selcan
+   Hedstrom, Peter
+TI Urban scaling and the regional divide
+SO SCIENCE ADVANCES
+LA English
+DT Article
+ID INCREASING RETURNS; GROWTH; DENSITY
+AB Superlinear growth in cities has been explained as an emergent consequence of increased social interactions in dense urban environments. Using geocoded microdata from Swedish population registers, we remove population composition effects from the scaling relation of wage income to test how much of the previously reported superlinear scaling is truly attributable to increased social interconnectivity in cities. The Swedish data confirm the previously reported scaling relations on the aggregate level, but they provide better information on the micromechanisms responsible for them. We find that the standard interpretation of urban scaling is incomplete as social interactions only explain about half of the scaling parameter of wage income and that scaling relations substantively reflect differences in cities' sociodemographic composition. Those differences are generated by selective migration of highly productive individuals into larger cities. Big cities grow through their attraction of talent from their hinterlands and the already-privileged benefit disproportionally from urban agglomeration.
+C1 [Keuschnigg, Marc; Mutgan, Selcan; Hedstrom, Peter] Linkoping Univ, Inst Analyt Sociol, Norra Grytsgatan 10, S-60174 Norrkoping, Sweden.
+RP Keuschnigg, M (reprint author), Linkoping Univ, Inst Analyt Sociol, Norra Grytsgatan 10, S-60174 Norrkoping, Sweden.
+EM marc.keuschnigg@liu.se
+OI Keuschnigg, Marc/0000-0001-5774-1553
+FU European Research Council under the European Union [324233]; Norwegian
+   Research Council [236793]; Riksbankens Jubileumsfond [M12-0301:1];
+   Swedish Research Council [445-2013-7681, 340-2013-5460]
+FX The research leading to these results has received funding from the
+   European Research Council under the European Union's Seventh Framework
+   Programme (grant agreement no. 324233), the Norwegian Research Council
+   (236793), Riksbankens Jubileumsfond (M12-0301:1), and the Swedish
+   Research Council (445-2013-7681 and 340-2013-5460).
+CR Abel JR, 2012, J REGIONAL SCI, V52, P562, DOI 10.1111/j.1467-9787.2011.00742.x
+   Alabdulkareem A, 2018, SCI ADV, V4, DOI 10.1126/sciadv.aao6030
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arzaghi M, 2008, REV ECON STUD, V75, P1011, DOI 10.1111/j.1467-937X.2008.00499.x
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Bettencourt L. M. A., 2013, ARXIV13015919V1
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2016.0005
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bishop B., 2008, BIG SORT WHY CLUSTER
+   Boschma RA, 2009, ECON GEOGR, V85, P391
+   CARLSTEDT B, 1993, SCAND J PSYCHOL, V34, P353, DOI 10.1111/j.1467-9450.1993.tb01131.x
+   Carlstedt B., 2000, THESIS
+   Christaller W, 1966, CENTRAL PLACES SO GE
+   Combes PP, 2008, J URBAN ECON, V63, P723, DOI 10.1016/j.jue.2007.04.004
+   De La Roca J, 2017, REV ECON STUD, V84, P106, DOI 10.1093/restud/rdw031
+   Duranton G., 2004, HDB REGIONAL URBAN E, V4, P2063, DOI DOI 10.1016/S1574-0080(04)80005-1
+   Florida R. L., 2012, RISE CREATIVE CLASS
+   Fujita M., 2013, EC AGGLOMERATION CIT
+   Gomez-Lievano A, 2017, NAT HUM BEHAV, V1, DOI 10.1038/s41562-016-0012
+   Jacobs J, 1969, EC CITIES
+   Kratz Fabian, 2013, J APPL SOCIAL SCI ST, V133, P227, DOI [10. 3790/schm. 133. 2. 227 ., DOI 10.3790/SCHM.133.2.227]
+   Larsson JP, 2014, ANN REGIONAL SCI, V52, P367, DOI 10.1007/s00168-014-0590-8
+   Lemieux T., 2006, J MINCER PIONEER MOD, P127
+   Lobo J, 2014, IND INNOV, V21, P155, DOI 10.1080/13662716.2014.896602
+   MARSHALL A., 1890, PRINCIPLES EC
+   Mincer J., 1974, SCH EXPERIENCE EARNI
+   Ortman SG, 2015, SCI ADV, V1, DOI 10.1126/sciadv.1400066
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Puga D, 2010, J REGIONAL SCI, V50, P203, DOI 10.1111/j.1467-9787.2009.00657.x
+   Quigley JM, 1998, J ECON PERSPECT, V12, P127, DOI 10.1257/jep.12.2.127
+   ROMER PM, 1986, J POLIT ECON, V94, P1002, DOI 10.1086/261420
+   Ronnlund M, 2013, INTELLIGENCE, V41, P19, DOI 10.1016/j.intell.2012.10.001
+   Rosenthal S., 2004, HDB REGIONAL URBAN E, V4, P2119, DOI DOI 10.1016/S1574-0080(04)80006-3
+   Schich M, 2014, SCIENCE, V345, P558, DOI 10.1126/science.1240064
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Shalizi C. R., 2011, ARXIV11024101V2
+   Statistics Sweden, 2010, CONSTR US LAB MARK A
+   Statistics Sweden Swedish standard classification of occupations, 1996, REP STAT COORD OFF S
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Weber M., 1978, EC SOC
+   West G. B, 2017, SCALE UNIVERSAL LAWS
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+   Yakubo K, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022803
+   Yankow JJ, 2003, J REGIONAL SCI, V43, P483, DOI 10.1111/1467-9787.00308
+   Youn H, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2015.0937
+NR 48
+TC 0
+Z9 0
+U1 1
+U2 1
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 2375-2548
+J9 SCI ADV
+JI Sci. Adv.
+PD JAN
+PY 2019
+VL 5
+IS 1
+AR eaav0042
+DI 10.1126/sciadv.aav0042
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA HJ9VR
+UT WOS:000457547900092
+PM 30729161
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Forrest, N
+   Stein, Z
+   Wiek, A
+AF Forrest, Nigel
+   Stein, Zoe
+   Wiek, Arnim
+TI Water-independent residential properties as a transformational solution
+   to achieve water sustainability in desert cities?
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Sustainable urban water transformation; Scaling and transfer; Water
+   self-sufficiency; Sustainability experiments; Analytical-evaluative
+   framework; Colorado River Basin
+ID URBAN WATER; MANAGEMENT; TRANSITIONS; GOVERNANCE; SYSTEMS; RESOURCES;
+   ERA
+AB Cities in regions around the world, such as the Colorado River Basin, face severe water challenges and need solutions that deliver significant progress towards sustainable urban water systems. Real-world experiments help stakeholders learn about solutions and select the most promising for scaling and transfer, but the sustainability experiments literature lacks guidance on how solution case studies might be done. An analytical framework for sustainability solutions developed by the authors is applied in a case study of a water-independent house experiment in Tucson, Arizona to provide insight into whether it could be a transformational solution towards a city-scale sustainable water system. Findings indicate technical feasibility, despite the arid climate, with sustainable co-benefits, but city-scale transformational potential is limited by house size, cost, and cultural acceptability, with a risk of negative systemic effect. Further experimentation towards a more effective solution is seen as worthwhile and areas for improvement and exploration are suggested. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Forrest, Nigel; Stein, Zoe; Wiek, Arnim] Arizona State Univ, Decis Ctr Desert City, Tempe, AZ 85281 USA.
+   [Forrest, Nigel; Stein, Zoe; Wiek, Arnim] Arizona State Univ, Sch Sustainabil, Tempe, AZ 85281 USA.
+RP Forrest, N (reprint author), Arizona State Univ, Sch Sustainabil, Tempe, AZ 85281 USA.
+EM nforrest@asu.edu
+FU National Science Foundation [SES-1462086]
+FX This study is based upon work supported by the National Science
+   Foundation under Grant No. SES-1462086, DMUU: DCDC III: Transformational
+   Solutions for Urban Water Sustainability Transitions in the Colorado
+   River Basin.
+CR Adler C, 2018, SUSTAIN SCI, V13, P179, DOI 10.1007/s11625-017-0444-2
+   Anand C, 2011, J ENVIRON MANAGE, V92, P419, DOI 10.1016/j.jenvman.2010.08.005
+   Avelino F., 2011, THESIS
+   Aylett A, 2013, ENVIRON PLANN C, V31, P858, DOI 10.1068/c11304
+   Bai XM, 2010, ENVIRON SCI POLICY, V13, P312, DOI 10.1016/j.envsci.2010.03.011
+   Berkhout F, 2010, ENVIRON SCI POLICY, V13, P261, DOI 10.1016/j.envsci.2010.03.010
+   Bogardi JJ, 2012, CURR OPIN ENV SUST, V4, P35, DOI 10.1016/j.cosust.2011.12.002
+   Bos JJ, 2012, TECHNOL FORECAST SOC, V79, P1340, DOI 10.1016/j.techfore.2012.04.006
+   Brown RR, 2009, WATER SCI TECHNOL, V59, P839, DOI 10.2166/wst.2009.028
+   Bureau of Reclamation, 2012, COL RIV BAS WAT SUPP
+   Bureau of Reclamation, 2015, COL RIV BAS STAK MOV
+   Central Bureau of Statistics, 2012, STAT ISR
+   Central City Concern, 2009, ACH WAT IND BUILD
+   Ceschin F., 2014, INT J DES, V8
+   City of Phoenix, 2011, WATER RESOURCES PLAN
+   Creswell J, 2009, RES DESIGN QUALITATI
+   Crosson Courtney, 2018, Technology Architecture + Design, V2, P68, DOI 10.1080/24751448.2018.1420966
+   Daigger GT, 2009, WATER ENVIRON RES, V81, P809, DOI 10.2175/106143009X425898
+   Davis T., 2014, TUCSON LOOKS TREATIN
+   DeOreo W. B, 2016, RESIDENTIAL END USES
+   Domenech L, 2015, ENVIRON INNOV SOC TR, V15, P26, DOI 10.1016/j.eist.2014.01.001
+   Domenech L, 2011, J CLEAN PROD, V19, P598, DOI 10.1016/j.jclepro.2010.11.010
+   Englehardt JD, 2016, ENVIRON SCI-WAT RES, V2, P250, DOI [10.1039/c5ew00204d, 10.1039/C5EW00204D]
+   Evans J, 2014, INT J URBAN REGIONAL, V38, P413, DOI 10.1111/1468-2427.12077
+   Farrelly M, 2011, GLOBAL ENVIRON CHANG, V21, P721, DOI 10.1016/j.gloenvcha.2011.01.007
+   Fazey J, 2018, ENERGY RES SOC SCI, V40, P54, DOI 10.1016/j.erss.2017.11.026
+   Forrest N, 2014, ENVIRON INNOV SOC TR, V12, P66, DOI 10.1016/j.eist.2014.01.003
+   Fragkou MC, 2016, URBAN WATER J, V13, P663, DOI 10.1080/1573062X.2015.1024686
+   Geels FW, 2014, THEOR CULT SOC, V31, P21, DOI 10.1177/0263276414531627
+   Gibson R.B., 2006, IMPACT ASSESS PROJ A, V24, P170, DOI DOI 10.3152/147154606781765147
+   Gleick PH, 2010, P NATL ACAD SCI USA, V107, P21300, DOI 10.1073/pnas.1005473107
+   Gleick PH, 2003, SCIENCE, V302, P1524, DOI 10.1126/science.1089967
+   Hawes T, 2016, J AM WATER WORKS ASS, V108, P14, DOI 10.5942/jawwa.2016.108.0070
+   Hilton A., 2016, WRRC C 2016 TUCS AR
+   Larson K. L., 2009, J POLICY HIST, V21, P107, DOI DOI 10.1017/S0898030609090058
+   Liedl P, 2015, J GREEN BUILD, V10, P44, DOI 10.3992/jgb.10.4.44
+   Zavala MAL, 2016, WATER-SUI, V8, DOI 10.3390/w8060264
+   Luederitz C, 2017, J CLEAN PROD, V169, P61, DOI 10.1016/j.jclepro.2016.09.005
+   Markard J, 2012, RES POLICY, V41, P955, DOI 10.1016/j.respol.2012.02.013
+   McCormick K, 2013, J CLEAN PROD, V50, P1, DOI 10.1016/j.jclepro.2013.01.003
+   McLaughlin J. A., 2004, HDB PRACTICAL PROGRA, P55
+   Millar A, 2001, EVAL PROGRAM PLANN, V24, P73, DOI 10.1016/S0149-7189(00)00048-3
+   Mitchell VG, 2006, ENVIRON MANAGE, V37, P589, DOI 10.1007/s00267-004-0252-1
+   Novotny V, 2010, WATER CENTRIC SUSTAI
+   Pahl-Wostl C, 2011, WATER RESOUR MANAG, V25, P837, DOI 10.1007/s11269-010-9729-2
+   Pahl-Wostl C, 2010, ENVIRON SCI POLICY, V13, P571, DOI 10.1016/j.envsci.2010.08.006
+   Pitt H, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8101025
+   Postel SL, 2000, ECOL APPL, V10, P941, DOI 10.1890/1051-0761(2000)010[0941:EAEOWS]2.0.CO;2
+   Raven RP, 2008, B SCI TECHNOL SOC, V28, P464, DOI DOI 10.1177/
+   Raworth K., 2012, OXFAM POLICY PRACT C, V8, P1, DOI DOI 10.5822/978-1-61091-458-1
+   Rockstrom J, 2009, NATURE, V461, P472, DOI 10.1038/461472a
+   Rossi P., 2004, EVALUATION SYSTEMATI
+   Rotmans J., 2010, TRANSITIONS SUSTAINA, P103
+   Rygaard M, 2011, J ENVIRON MANAGE, V92, P185, DOI 10.1016/j.jenvman.2010.09.009
+   Schmidt-Bleek F, 2008, SUST SCI PRACT POL, V4, P1
+   Schot J, 2007, J EVOL ECON, V17, P605, DOI 10.1007/s00191-007-0057-5
+   Sengers F., 2016, TECHNOLOGICAL FORECA, DOI [10.1016/j.techfore.2016.08.031, DOI 10.1016/J.TECHFORE.2016.08.031]
+   Seyfang G, 2012, ENVIRON PLANN C, V30, P381, DOI 10.1068/c10222
+   Shove E, 2010, RES POLICY, V39, P471, DOI 10.1016/j.respol.2010.01.019
+   Slaughter S., 2010, SOLUTIONS, V1, P42
+   Southern Nevada Water Authority, 2014, WAT CONS PLAN 2014 2
+   Tortajada C., 2016, STRAITS TIMES
+   Tucson Water, TUCS WAT
+   Tucson Water, 2013, REC WAT MAST PLAN
+   Tucson Water, 2016, WAT CONS PROGR FY 20
+   U. S. Census Bureau, 2015, QUICK FACTS
+   Voytenko Y, 2016, J CLEAN PROD, V123, P45, DOI 10.1016/j.jclepro.2015.08.053
+   Walker T., 2013, PHOTOFLOW CONCEPT CO
+   Watershed Management Group, SIT BUILT COMP TOIL, P3
+   Weiser M., 2017, SANTA MONICA PREPARE
+   Westley F, 2014, J APPL BEHAV SCI, V50, P234, DOI 10.1177/0021886314532945
+   Wiek A., 2015, SOLVING SUSTAINABILI
+   Wiek A., 2017, URBAN SUSTAINABILITY
+   Wiek A., 2016, WORKING PAPER SERIES
+   Wiek A, 2012, WATER RESOUR MANAG, V26, P3153, DOI 10.1007/s11269-012-0065-6
+   Wiek A, 2012, SUSTAIN SCI, V7, P5, DOI 10.1007/s11625-011-0148-y
+   Wigboldus S, 2016, AGRON SUSTAIN DEV, V36, DOI 10.1007/s13593-016-0380-z
+   Wolfram M, 2016, CURR OPIN ENV SUST, V22, P18, DOI 10.1016/j.cosust.2017.01.014
+   Wong T., 2008, 11 INT C URB DRAIN S, P10
+   Woodard G., 2015, DYNAMIC SIMULATION M
+   Yin R. K., 2003, CASE STUDY RES DESIG
+   Zugmeyer C. A., CONSERVATION EFFORTS
+NR 82
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD MAR 20
+PY 2019
+VL 214
+BP 1038
+EP 1049
+DI 10.1016/j.jclepro.2018.12.309
+PG 12
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA HK8GV
+UT WOS:000458228300093
+DA 2019-03-26
+ER
+
+PT J
+AU Wang, J
+   Kuffer, M
+   Pfeffer, K
+AF Wang, Jiong
+   Kuffer, Monika
+   Pfeffer, Karin
+TI The role of spatial heterogeneity in detecting urban slums
+SO COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+LA English
+DT Article
+DE Scaling law; Anisotropy; Scales; Grain size; Direction; Separability;
+   Slum; Informal area; Texture
+ID LANDSCAPE; SCALE; RESOLUTION; FEATURES; IMPACT; CITY
+AB Satellite images allow characterizing and monitoring urban slums. Yet the urban landscape as a complex geographic system is composed of hierarchical patterns and discrete objects in a spatial and temporal continuum with different scales and anisotropy which can only be estimated from image snapshots. Understanding the spatial heterogeneity of slums in terms of scale and anisotropy from discrete image pixels is nontrivial and has not been explicitly addressed by image-based studies detecting slums, where scale and direction in characterizing slum features are commonly done by trial and error. This study addresses this gap by analyzing the impact of scales and anisotropy detected in the scale space and frequency domain for the calculation of texture indices that ultimately govern the detection of slums. Employing case studies of three cities with a large portion of slum population and for which we have very high resolution satellite imagery, we identify the characteristic scales of slum and formal built-up areas. Results show that the characteristic scales correspond with the optimal grain size to obtain image texture features for detecting slums, while the directional spectral energy at the pixel level identifies characteristic directions. Thus texture indices calculated at the characteristic scale and along the characteristic directions of slum patterns improve the efficiency in feature extraction and classification of slums, where optimizing the scale has a higher impact on the detection of slums than choosing the optimal directions. This study provides a framework for scientifically selecting optimal scales and directions for slum mapping studies. The framework is recommended to be tested for more general applications in land surface characterization and classification especially by using high order texture indices.
+C1 [Wang, Jiong; Kuffer, Monika; Pfeffer, Karin] Univ Twente, Fac Geoinformat Sci & Earth Observat ITC, POB 217, NL-7500 AE Enschede, Netherlands.
+RP Wang, J (reprint author), Univ Twente, Fac Geoinformat Sci & Earth Observat ITC, POB 217, NL-7500 AE Enschede, Netherlands.
+EM j.wang-4@utwente.nl; m.kuffer@utwente.nl; k.pfeffer@utwente.nl
+OI Kuffer, Monika/0000-0002-1915-2069
+FU SimCity project [C.2324.0293]; Dynaslum (Data Driven Modelling and
+   Decision Support for Slums) project [27015G05]
+FX The authors would like to acknowledge the support of the SimCity project
+   (contract number: C.2324.0293) and Dynaslum (Data Driven Modelling and
+   Decision Support for Slums) project (contract number: 27015G05), which
+   are managed by the Dutch national research council (NWO) and the Dutch
+   organization for ICT in education and research (SURF) to provide
+   resources for this research. We acknowledge the European Space Agency
+   (ESA) for providing the image data through its Third Party Missions. And
+   we are grateful for Dr. Divyani Kohli's help for providing image data of
+   Pune, India.
+CR Agrawal R., 1993, Foundations of Data Organization and Algorithms. 4th International Conference. FODO '93 Proceedings, P69
+   Allen T. F., 2017, HIERARCHY PERSPECTIV
+   Barros Filho M., 2005, ASSESSING TEXTURE PA
+   Barros J., 2002, CITY SLUMS SELF ORG
+   Belisle M, 2005, ECOLOGY, V86, P1988, DOI 10.1890/04-0923
+   CORTES C, 1995, MACH LEARN, V20, P273, DOI 10.1023/A:1022627411411
+   Duque JC, 2017, REMOTE SENS-BASEL, V9, DOI 10.3390/rs9090895
+   Emerson CW, 2005, INT J REMOTE SENS, V26, P1575, DOI 10.1080/01431160512331326765
+   Engstrom R., 2017, P 2017 JOINT URB REM, P1
+   FORMAN RTT, 1995, LANDSCAPE ECOL, V10, P133, DOI 10.1007/BF00133027
+   Gustafson EJ, 1998, ECOSYSTEMS, V1, P143, DOI 10.1007/s100219900011
+   Hall-Beyer M., 2000, GLCM TEXTURE TUTORIA
+   HARALICK RM, 1973, IEEE T SYST MAN CYB, VSMC3, P610, DOI 10.1109/TSMC.1973.4309314
+   Hay GJ, 2001, LANDSCAPE ECOL, V16, P471, DOI 10.1023/A:1013101931793
+   Hay GJ, 2003, ISPRS J PHOTOGRAMM, V57, P327, DOI 10.1016/S0924-2716(02)00162-4
+   Herold M, 2003, REMOTE SENS ENVIRON, V86, P286, DOI 10.1016/S0034-4257(03)00075-0
+   Huang X, 2013, IEEE T GEOSCI REMOTE, V51, P257, DOI 10.1109/TGRS.2012.2202912
+   Josso B, 2005, MECH SYST SIGNAL PR, V19, P1152, DOI 10.1016/j.ymssp.2004.07.005
+   Kaplan DA, 2012, GEOPHYS RES LETT, V39, DOI 10.1029/2012GL052754
+   Kohli D, 2012, COMPUT ENVIRON URBAN, V36, P154, DOI 10.1016/j.compenvurbsys.2011.11.001
+   Kuffer M, 2017, REMOTE SENS-BASEL, V9, DOI 10.3390/rs9040384
+   Kuffer M, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8060455
+   Kuffer M, 2016, IEEE J-STARS, V9, P1830, DOI 10.1109/JSTARS.2016.2538563
+   Lam N., 2004, SCALE RES AGENDA GEO
+   LAM NSN, 1992, PROF GEOGR, V44, P88, DOI 10.1111/j.0033-0124.1992.00088.x
+   Lindeberg T., 1994, J APPL STAT, V21, P225, DOI DOI 10.1080/757582976
+   Mboga N, 2017, REMOTE SENS-BASEL, V9, DOI 10.3390/rs9111106
+   Momeni R, 2016, REMOTE SENS-BASEL, V8, DOI 10.3390/rs8020088
+   Penrose K, 2010, PLOS NEGLECT TROP D, V4, DOI 10.1371/journal.pntd.0000631
+   Pesaresi M., 2000, GEOGRAPHICAL ENV MOD, V4, P43, DOI [10.1080/136159300111360, DOI 10.1080/136159300111360]
+   Quattrochi D. A., 2017, INTEGRATING SCALE RE
+   Roy D, 2017, COMPUT ENVIRON URBAN, V64, P275, DOI 10.1016/j.compenvurbsys.2017.03.008
+   Sen S, 2003, HABITAT INT, V27, P595, DOI 10.1016/S0197-3975(03)00007-9
+   Shekhar S, 2012, INT ARCH PHOTOGRAMM, V39-B8, P519
+   Sobrino JA, 2012, REMOTE SENS ENVIRON, V117, P50, DOI 10.1016/j.rse.2011.04.042
+   Song J, 2014, LANDSCAPE URBAN PLAN, V123, P145, DOI 10.1016/j.landurbplan.2013.11.014
+   Taubenbock H, 2018, APPL GEOGR, V92, P150, DOI 10.1016/j.apgeog.2018.02.002
+   Taubenbock H, 2014, J HOUS BUILT ENVIRON, V29, P15, DOI 10.1007/s10901-013-9333-x
+   Turner MG, 1989, LANDSCAPE ECOL, V3, P153, DOI 10.1007/BF00131534
+   UN-HABITAT, 2003, SLUMS WORLD FAC URB
+   UN-HABITAT, 2010, STAT WORLDS CIT 2010
+   Wang J, 2016, INT J APPL EARTH OBS, V45, P55, DOI 10.1016/j.jag.2015.11.006
+   Weng QH, 2004, REMOTE SENS ENVIRON, V89, P467, DOI 10.1016/j.rse.2003.11.005
+   Witkin A., 1984, P IEEE INT C AC SPEE, V9, P150, DOI DOI 10.1109/ICASSP.1984.1172729
+   WOODCOCK CE, 1987, REMOTE SENS ENVIRON, V21, P311, DOI 10.1016/0034-4257(87)90015-0
+   Wu JG, 2002, LANDSCAPE ECOL, V17, P761, DOI 10.1023/A:1022995922992
+   Wurm M, 2017, REMOTE SENS ENVIRON, V194, P190, DOI 10.1016/j.rse.2017.03.030
+NR 47
+TC 1
+Z9 1
+U1 8
+U2 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0198-9715
+EI 1873-7587
+J9 COMPUT ENVIRON URBAN
+JI Comput. Environ. Urban Syst.
+PD JAN
+PY 2019
+VL 73
+BP 95
+EP 107
+DI 10.1016/j.compenvurbsys.2018.08.007
+PG 13
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Environmental; Environmental Studies; Geography; Operations Research &
+   Management Science; Regional & Urban Planning
+SC Computer Science; Engineering; Environmental Sciences & Ecology;
+   Geography; Operations Research & Management Science; Public
+   Administration
+GA HB5LY
+UT WOS:000451103500008
+DA 2019-03-26
+ER

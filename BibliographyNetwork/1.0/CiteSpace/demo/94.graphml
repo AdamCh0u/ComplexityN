@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">XINRAN WANG</data>
+  <data key="label">XINRAN WANG</data>
+  <data key="author">XINRAN WANG</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="1">
+  <data key="name">YAN SUN</data>
+  <data key="label">YAN SUN</data>
+  <data key="author">YAN SUN</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="2">
+  <data key="name">GEOFFREY M HENEBRY</data>
+  <data key="label">GEOFFREY M HENEBRY</data>
+  <data key="author">GEOFFREY M HENEBRY</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="3">
+  <data key="name">ALEXANDER BELYI</data>
+  <data key="label">ALEXANDER BELYI</data>
+  <data key="author">ALEXANDER BELYI</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="4">
+  <data key="name">LUBOS BUZNA</data>
+  <data key="label">LUBOS BUZNA</data>
+  <data key="author">LUBOS BUZNA</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="5">
+  <data key="name">JUERGEN P KROPP</data>
+  <data key="label">JUERGEN P KROPP</data>
+  <data key="author">JUERGEN P KROPP</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="6">
+  <data key="name">SHLOMO HAVLIN</data>
+  <data key="label">SHLOMO HAVLIN</data>
+  <data key="author">SHLOMO HAVLIN</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="7">
+  <data key="name">DANIEL KONDOR</data>
+  <data key="label">DANIEL KONDOR</data>
+  <data key="author">DANIEL KONDOR</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="8">
+  <data key="name">JOSE S</data>
+  <data key="label">JOSE S</data>
+  <data key="author">JOSE S</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="9">
+  <data key="name">MARCELO MASERA</data>
+  <data key="label">MARCELO MASERA</data>
+  <data key="author">MARCELO MASERA</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="10">
+  <data key="name">MICHAEL MUTHUKRISHNA</data>
+  <data key="label">MICHAEL MUTHUKRISHNA</data>
+  <data key="author">MICHAEL MUTHUKRISHNA</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="11">
+  <data key="name">RUI CARVALHO</data>
+  <data key="label">RUI CARVALHO</data>
+  <data key="author">RUI CARVALHO</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="12">
+  <data key="name">RENAUD LAMBIOTTE</data>
+  <data key="label">RENAUD LAMBIOTTE</data>
+  <data key="author">RENAUD LAMBIOTTE</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="13">
+  <data key="name">REMI LOUF</data>
+  <data key="label">REMI LOUF</data>
+  <data key="author">REMI LOUF</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="14">
+  <data key="name">TIMON MCPHEARSON</data>
+  <data key="label">TIMON MCPHEARSON</data>
+  <data key="author">TIMON MCPHEARSON</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">4.675081813931744E-4</data>
+</node>
+<node id="15">
+  <data key="name">SERGI VALVERDE</data>
+  <data key="label">SERGI VALVERDE</data>
+  <data key="author">SERGI VALVERDE</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="16">
+  <data key="name">KAREN C SETO</data>
+  <data key="label">KAREN C SETO</data>
+  <data key="author">KAREN C SETO</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0074801309022907905</data>
+</node>
+<node id="17">
+  <data key="name">DAVID K ARROWSMITH</data>
+  <data key="label">DAVID K ARROWSMITH</data>
+  <data key="author">DAVID K ARROWSMITH</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="18">
+  <data key="name">JIANG ZHANG</data>
+  <data key="label">JIANG ZHANG</data>
+  <data key="author">JIANG ZHANG</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="19">
+  <data key="name">L GIBELLI</data>
+  <data key="label">L GIBELLI</data>
+  <data key="author">L GIBELLI</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="20">
+  <data key="name">ESZTER BOKANYI</data>
+  <data key="label">ESZTER BOKANYI</data>
+  <data key="author">ESZTER BOKANYI</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="21">
+  <data key="name">CHAO ZHU</data>
+  <data key="label">CHAO ZHU</data>
+  <data key="author">CHAO ZHU</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="22">
+  <data key="name">FLAVIO BONO</data>
+  <data key="label">FLAVIO BONO</data>
+  <data key="author">FLAVIO BONO</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="23">
+  <data key="name">CARLO RATTI</data>
+  <data key="label">CARLO RATTI</data>
+  <data key="author">CARLO RATTI</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">3.1167213021733597E-4</data>
+</node>
+<node id="24">
+  <data key="name">WENJIA WU</data>
+  <data key="label">WENJIA WU</data>
+  <data key="author">WENJIA WU</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="25">
+  <data key="name">MICHAEL E SMITH</data>
+  <data key="label">MICHAEL E SMITH</data>
+  <data key="author">MICHAEL E SMITH</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="26">
+  <data key="name">ELSA ARCAUTE</data>
+  <data key="label">ELSA ARCAUTE</data>
+  <data key="author">ELSA ARCAUTE</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="27">
+  <data key="name">LUIZ G A ALVES</data>
+  <data key="label">LUIZ G A ALVES</data>
+  <data key="author">LUIZ G A ALVES</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="28">
+  <data key="name">HERNAN A MAKSE</data>
+  <data key="label">HERNAN A MAKSE</data>
+  <data key="author">HERNAN A MAKSE</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="29">
+  <data key="name">AIMIN XIONG</data>
+  <data key="label">AIMIN XIONG</data>
+  <data key="author">AIMIN XIONG</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="30">
+  <data key="name">ANNAMARIA SCHELER</data>
+  <data key="label">ANNAMARIA SCHELER</data>
+  <data key="author">ANNAMARIA SCHELER</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="31">
+  <data key="name">XINTONG LI</data>
+  <data key="label">XINTONG LI</data>
+  <data key="author">XINTONG LI</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="32">
+  <data key="name">XUEMEI BAI</data>
+  <data key="label">XUEMEI BAI</data>
+  <data key="author">XUEMEI BAI</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="33">
+  <data key="name">JOSEPH HENRICH</data>
+  <data key="label">JOSEPH HENRICH</data>
+  <data key="author">JOSEPH HENRICH</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="34">
+  <data key="name">LUIS M A BETTENCOURT</data>
+  <data key="label">LUIS M A BETTENCOURT</data>
+  <data key="author">LUIS M A BETTENCOURT</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+  <data key="centrality">0.008415147265077139</data>
+</node>
+<node id="35">
+  <data key="name">DAVID HSIEHCHEN</data>
+  <data key="label">DAVID HSIEHCHEN</data>
+  <data key="author">DAVID HSIEHCHEN</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="36">
+  <data key="name">JOERG RAINER NOENNIG</data>
+  <data key="label">JOERG RAINER NOENNIG</data>
+  <data key="author">JOERG RAINER NOENNIG</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="37">
+  <data key="name">MAGDALENA ESPINOZA</data>
+  <data key="label">MAGDALENA ESPINOZA</data>
+  <data key="author">MAGDALENA ESPINOZA</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="38">
+  <data key="name">P SURESH C RAO</data>
+  <data key="label">P SURESH C RAO</data>
+  <data key="author">P SURESH C RAO</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="39">
+  <data key="name">MICHELE TIZZONI</data>
+  <data key="label">MICHELE TIZZONI</data>
+  <data key="author">MICHELE TIZZONI</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="40">
+  <data key="name">STANISLAV SOBOLEVSKY</data>
+  <data key="label">STANISLAV SOBOLEVSKY</data>
+  <data key="author">STANISLAV SOBOLEVSKY</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+  <data key="centrality">3.1167213021733597E-4</data>
+</node>
+<node id="41">
+  <data key="name">CARLOS CASTILLOCHAVEZ</data>
+  <data key="label">CARLOS CASTILLOCHAVEZ</data>
+  <data key="author">CARLOS CASTILLOCHAVEZ</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="42">
+  <data key="name">MICHAIL FRAGKIAS</data>
+  <data key="label">MICHAIL FRAGKIAS</data>
+  <data key="author">MICHAIL FRAGKIAS</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="43">
+  <data key="name">LIANGSHENG LI</data>
+  <data key="label">LIANGSHENG LI</data>
+  <data key="author">LIANGSHENG LI</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="44">
+  <data key="name">JOSE LOBO</data>
+  <data key="label">JOSE LOBO</data>
+  <data key="author">JOSE LOBO</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+  <data key="centrality">0.009583917718560075</data>
+</node>
+<node id="45">
+  <data key="name">DEBORAH STRUMSKY</data>
+  <data key="label">DEBORAH STRUMSKY</data>
+  <data key="author">DEBORAH STRUMSKY</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0021037868162692847</data>
+</node>
+<node id="46">
+  <data key="name">MARK J NIEUWENHUIJSEN</data>
+  <data key="label">MARK J NIEUWENHUIJSEN</data>
+  <data key="author">MARK J NIEUWENHUIJSEN</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="47">
+  <data key="name">EMANUELE STRANO</data>
+  <data key="label">EMANUELE STRANO</data>
+  <data key="author">EMANUELE STRANO</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="48">
+  <data key="name">MICHAEL BATTY</data>
+  <data key="label">MICHAEL BATTY</data>
+  <data key="author">MICHAEL BATTY</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+  <data key="centrality">0.0037400654511453952</data>
+</node>
+<node id="49">
+  <data key="name">ATANU CHATTERJEE</data>
+  <data key="label">ATANU CHATTERJEE</data>
+  <data key="author">ATANU CHATTERJEE</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="50">
+  <data key="name">MARC BARTHELEMY</data>
+  <data key="label">MARC BARTHELEMY</data>
+  <data key="author">MARC BARTHELEMY</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+  <data key="centrality">0.005142589995324918</data>
+</node>
+<node id="51">
+  <data key="name">SEAN WILKINSON</data>
+  <data key="label">SEAN WILKINSON</data>
+  <data key="author">SEAN WILKINSON</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="52">
+  <data key="name">HANEEN KHREIS</data>
+  <data key="label">HANEEN KHREIS</data>
+  <data key="author">HANEEN KHREIS</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="53">
+  <data key="name">MAOXIN LIU</data>
+  <data key="label">MAOXIN LIU</data>
+  <data key="author">MAOXIN LIU</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="54">
+  <data key="name">JAN BARSKI</data>
+  <data key="label">JAN BARSKI</data>
+  <data key="author">JAN BARSKI</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="55">
+  <data key="name">FELIX CREUTZIG</data>
+  <data key="label">FELIX CREUTZIG</data>
+  <data key="author">FELIX CREUTZIG</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="56">
+  <data key="name">RENIO S MENDES</data>
+  <data key="label">RENIO S MENDES</data>
+  <data key="author">RENIO S MENDES</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="57">
+  <data key="name">MINGHONG TAN</data>
+  <data key="label">MINGHONG TAN</data>
+  <data key="author">MINGHONG TAN</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="58">
+  <data key="name">PABLO A MARQUET</data>
+  <data key="label">PABLO A MARQUET</data>
+  <data key="author">PABLO A MARQUET</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="59">
+  <data key="name">JAMES H BROWN</data>
+  <data key="label">JAMES H BROWN</data>
+  <data key="author">JAMES H BROWN</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="60">
+  <data key="name">ANTONY HSIEH</data>
+  <data key="label">ANTONY HSIEH</data>
+  <data key="author">ANTONY HSIEH</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="61">
+  <data key="name">ALAN PENN</data>
+  <data key="label">ALAN PENN</data>
+  <data key="author">ALAN PENN</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="62">
+  <data key="name">SHUQING ZHAO</data>
+  <data key="label">SHUQING ZHAO</data>
+  <data key="author">SHUQING ZHAO</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="63">
+  <data key="name">MAXIME LENORMAND</data>
+  <data key="label">MAXIME LENORMAND</data>
+  <data key="author">MAXIME LENORMAND</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="64">
+  <data key="name">JOAN RIERADEVALL</data>
+  <data key="label">JOAN RIERADEVALL</data>
+  <data key="author">JOAN RIERADEVALL</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="65">
+  <data key="name">XAVIER GABARRELL</data>
+  <data key="label">XAVIER GABARRELL</data>
+  <data key="author">XAVIER GABARRELL</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="66">
+  <data key="name">JOSE J RAMASCO</data>
+  <data key="label">JOSE J RAMASCO</data>
+  <data key="author">JOSE J RAMASCO</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="67">
+  <data key="name">HAROLDO V RIBEIRO</data>
+  <data key="label">HAROLDO V RIBEIRO</data>
+  <data key="author">HAROLDO V RIBEIRO</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="68">
+  <data key="name">AKIHIRO SATO</data>
+  <data key="label">AKIHIRO SATO</data>
+  <data key="author">AKIHIRO SATO</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="69">
+  <data key="name">GERMANO IANNACCHIONE</data>
+  <data key="label">GERMANO IANNACCHIONE</data>
+  <data key="author">GERMANO IANNACCHIONE</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="70">
+  <data key="name">SHUGUANG LIU</data>
+  <data key="label">SHUGUANG LIU</data>
+  <data key="author">SHUGUANG LIU</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="71">
+  <data key="name">GEOFFREY B WEST</data>
+  <data key="label">GEOFFREY B WEST</data>
+  <data key="author">GEOFFREY B WEST</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="72">
+  <data key="name">RACHATA MUNEEPEERAKUL</data>
+  <data key="label">RACHATA MUNEEPEERAKUL</data>
+  <data key="author">RACHATA MUNEEPEERAKUL</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="73">
+  <data key="name">WILL STEFFEN</data>
+  <data key="label">WILL STEFFEN</data>
+  <data key="author">WILL STEFFEN</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="74">
+  <data key="name">JORDI OLIVERSOLA</data>
+  <data key="label">JORDI OLIVERSOLA</data>
+  <data key="author">JORDI OLIVERSOLA</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="75">
+  <data key="name">NATALIE MUELLER</data>
+  <data key="label">NATALIE MUELLER</data>
+  <data key="author">NATALIE MUELLER</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="76">
+  <data key="name">GABOR VATTAY</data>
+  <data key="label">GABOR VATTAY</data>
+  <data key="author">GABOR VATTAY</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="77">
+  <data key="name">DIRK HELBING</data>
+  <data key="label">DIRK HELBING</data>
+  <data key="author">DIRK HELBING</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="78">
+  <data key="name">YANGUANG CHEN</data>
+  <data key="label">YANGUANG CHEN</data>
+  <data key="author">YANGUANG CHEN</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="79">
+  <data key="name">LINGFEI WU</data>
+  <data key="label">LINGFEI WU</data>
+  <data key="author">LINGFEI WU</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="80">
+  <data key="name">MINGSHU WANG</data>
+  <data key="label">MINGSHU WANG</data>
+  <data key="author">MINGSHU WANG</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="81">
+  <data key="name">DECHENG ZHOU</data>
+  <data key="label">DECHENG ZHOU</data>
+  <data key="author">DECHENG ZHOU</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="82">
+  <data key="name">MARTA C GONZALEZ</data>
+  <data key="label">MARTA C GONZALEZ</data>
+  <data key="author">MARTA C GONZALEZ</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="83">
+  <data key="name">ANDRE A MOREIRA</data>
+  <data key="label">ANDRE A MOREIRA</data>
+  <data key="author">ANDRE A MOREIRA</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="84">
+  <data key="name">SCOTT G ORTMAN</data>
+  <data key="label">SCOTT G ORTMAN</data>
+  <data key="author">SCOTT G ORTMAN</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="85">
+  <data key="name">XIAOWU ZHU</data>
+  <data key="label">XIAOWU ZHU</data>
+  <data key="author">XIAOWU ZHU</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="86">
+  <data key="name">DIEGO RYBSKI</data>
+  <data key="label">DIEGO RYBSKI</data>
+  <data key="author">DIEGO RYBSKI</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="87">
+  <data key="name">MANUEL CEBRIAN</data>
+  <data key="label">MANUEL CEBRIAN</data>
+  <data key="author">MANUEL CEBRIAN</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="88">
+  <data key="name">IVA BOJIC</data>
+  <data key="label">IVA BOJIC</data>
+  <data key="author">IVA BOJIC</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">3.1167213021733597E-4</data>
+</node>
+<node id="89">
+  <data key="name">PETER J MARCOTULLIO</data>
+  <data key="label">PETER J MARCOTULLIO</data>
+  <data key="author">PETER J MARCOTULLIO</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="90">
+  <data key="name">ERNESON A OLIVEIRA</data>
+  <data key="label">ERNESON A OLIVEIRA</data>
+  <data key="author">ERNESON A OLIVEIRA</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="91">
+  <data key="name">EREZ HATNA</data>
+  <data key="label">EREZ HATNA</data>
+  <data key="author">EREZ HATNA</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="92">
+  <data key="name">ANDREA SARZYNSKI</data>
+  <data key="label">ANDREA SARZYNSKI</data>
+  <data key="author">ANDREA SARZYNSKI</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+  <data key="centrality">0.0</data>
+</node>
+<node id="93">
+  <data key="name">DAGMAR HAASE</data>
+  <data key="label">DAGMAR HAASE</data>
+  <data key="author">DAGMAR HAASE</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+  <data key="centrality">0.0</data>
+</node>
+<edge source="0" target="18">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="0" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="0" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="1" target="21">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="1" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="1" target="62">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="1" target="70">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="1" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="3" target="23">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="3" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="3" target="88">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="4" target="9">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="4" target="11">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="4" target="17">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="4" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="4" target="77">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="5" target="86">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="7" target="23">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="7" target="40">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="7" target="82">
+  <data key="weight">0.5</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="7" target="88">
+  <data key="weight">0.5</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="8" target="28">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="8" target="83">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="9" target="11">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="9" target="17">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="9" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="9" target="77">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="10" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="11" target="17">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="11" target="77">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="13" target="50">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="14" target="32">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="14" target="93">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="16" target="44">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="16" target="45">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="16" target="89">
+  <data key="weight">0.5</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="16" target="92">
+  <data key="weight">0.5</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="17" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="17" target="77">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="18" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="18" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="20" target="76">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="21" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="21" target="62">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="21" target="70">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="21" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="22" target="77">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="23" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="23" target="82">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="23" target="88">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="24" target="62">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="24" target="70">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="24" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="25" target="34">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="25" target="44">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="25" target="84">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="26" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="26" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="27" target="56">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="27" target="67">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="28" target="83">
+  <data key="weight">0.5</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="29" target="43">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="29" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="29" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="30" target="36">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="30" target="54">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="31" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="34" target="44">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="34" target="45">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="34" target="59">
+  <data key="weight">0.5</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="34" target="71">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="34" target="84">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="35" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="35" target="60">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="36" target="54">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="37" target="60">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="40" target="82">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="40" target="88">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="41" target="72">
+  <data key="weight">0.5</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="42" target="44">
+  <data key="weight">0.5</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="43" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="43" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="44" target="45">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="44" target="84">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="46" target="52">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="46" target="75">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="48" target="50">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">5</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="48" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="49" target="69">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="50" target="63">
+  <data key="weight">0.5</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="50" target="66">
+  <data key="weight">0.5</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="52" target="75">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">10</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="53" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="56" target="67">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="62" target="70">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="62" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="63" target="66">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="64" target="65">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="64" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="65" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="70" target="81">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="82" target="88">
+  <data key="weight">0.5</data>
+  <data key="slice">9</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="89" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2014</data>
+</edge>
+</graph>
+</graphml>

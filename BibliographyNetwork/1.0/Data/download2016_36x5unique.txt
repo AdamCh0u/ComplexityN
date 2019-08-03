@@ -1,0 +1,574 @@
+
+PT J
+AU Ligaray, M
+   Baek, SS
+   Kwon, HO
+   Choi, SD
+   Cho, KH
+AF Ligaray, Mayzonee
+   Baek, Sang Soo
+   Kwon, Hye-Ok
+   Choi, Sung-Deuk
+   Cho, Kyung Hwa
+TI Watershed-scale modeling on the fate and transport of polycyclic
+   aromatic hydrocarbons (PAHs)
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE PAHs; Soil and water assessment tool; Multimedia model;
+   Watershed-scaling model
+ID MULTI-INDUSTRIAL CITY; SAN-FRANCISCO BAY; EMISSION FACTORS;
+   URBANIZATION; AREAS; CHINA; WOOD; SOIL; AIR; CONTAMINATION
+AB PAHs are potentially carcinogenic substances that are persistent in the environment. Increasing concentrations of PAHs were observed due to rapid urbanization, thus; monitoring PAHs concentrations is necessary. However, it is expensive to conduct intensive monitoring activities of a large number of PAHs. This study addressed this issue by developing a multimedia model coupled with a hydrological model (i.e., Soil and Water Assessment Tool (SWAT)) for Taehwa River (TR) watershed in Ulsan, the industrial capital of South Korea. The hydrologic module of the SWAT was calibrated, and further used to simulate the fate and transport of PAHs in soil and waterbody. The model demonstrated that the temporal or seasonal variation of PAHs in soil and waterbody can be well reproduced. Meanwhile, the spatial distribution of PAHs showed that urban areas in TR watershed have the highest PAH loadings compared to rural areas. Sensitivity analyses of the PAH soil and PAH water parameters were also able to determine the critical processes in TR watershed: degradation, deposition, volatilization, and wash off mechanism. We hope that this model will be able to aid the stakeholders in: regulating PAH concentrations emitted by various sources; and also apply the model to other Persistent Organic Pollutants (POPs). (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Ligaray, Mayzonee; Baek, Sang Soo; Choi, Sung-Deuk; Cho, Kyung Hwa] Ulsan Natl Inst Sci & Technol, Sch Urban & Environm Engn, UNIST Gil 50, Ulsan 44919, South Korea.
+   [Kwon, Hye-Ok] Natl Disaster Management Res Inst, Disaster Sci Invest Div, 365 Jongga Ro, Ulsan 44538, South Korea.
+RP Choi, SD; Cho, KH (reprint author), Ulsan Natl Inst Sci & Technol, Sch Urban & Environm Engn, UNIST Gil 50, Ulsan 44919, South Korea.
+EM sdchoi@unist.ac.kr; khcho@unist.ac.kr
+RI Choi, Sung-Deuk/F-4827-2010
+FU Basic Science Research Program through National Research Foundation of
+   Korea (NRF) - Ministry of Education [2013R1A1A2061034]; "Chemical
+   Accident Prevention Technology Development Project" by Korea Ministry of
+   Environment (MOE)
+FX This study was supported by Basic Science Research Program through the
+   National Research Foundation of Korea (NRF) funded by the Ministry of
+   Education (2013R1A1A2061034) and as "The Chemical Accident Prevention
+   Technology Development Project" by the Korea Ministry of Environment
+   (MOE).
+CR Arzayus KM, 2001, ENVIRON SCI TECHNOL, V35, P2178, DOI 10.1021/es001672s
+   Avellaneda P, 2009, J ENVIRON ENG, V135, P595, DOI 10.1061/(ASCE)EE.1943-7870.0000028
+   Beck C. B., 1973, AICHE J, V19, P413
+   Bergknut M, 2010, ENVIRON POLLUT, V158, P2964, DOI 10.1016/j.envpol.2010.05.027
+   Bertilsson S, 2002, HYDROBIOLOGIA, V469, P23, DOI 10.1023/A:1015579628189
+   Bourgeault A, 2013, SCI TOTAL ENVIRON, V454, P328, DOI 10.1016/j.scitotenv.2013.03.021
+   Cho KH, 2010, WATER RES, V44, P2189, DOI 10.1016/j.watres.2009.12.051
+   Choi SD, 2012, J HAZARD MATER, V241, P252, DOI 10.1016/j.jhazmat.2012.09.039
+   Cuffney TF, 2010, ECOL APPL, V20, P1384, DOI 10.1890/08-1311.1
+   Di Modugno M, 2015, SUSTAINABILITY-BASEL, V7, P5050, DOI 10.3390/su7055050
+   [EPA Environmental Protection Agency (EPA)], 1980, AMB WAT QUAL CRIT PO
+   Fulton MH, 1996, BEL BAR LIB, P477
+   Ghadiri H., 1992, MODELING CHEM TRANSP
+   Greenfield BK, 2005, CHEMOSPHERE, V60, P515, DOI 10.1016/j.chemosphere.2005.01.004
+   GSCHWEND PM, 1981, GEOCHIM COSMOCHIM AC, V45, P2359, DOI 10.1016/0016-7037(81)90089-2
+   Gustafson P, 2008, ENVIRON SCI TECHNOL, V42, P5074, DOI 10.1021/es800304y
+   Hauck M, 2008, CHEMOSPHERE, V72, P959, DOI 10.1016/j.chemosphere.2008.03.014
+   Hirabayashi S, 2011, ENVIRON MODELL SOFTW, V26, P804, DOI 10.1016/j.envsoft.2010.11.007
+   Jonsson S, 2007, J HAZARD MATER, V149, P86, DOI 10.1016/j.jhazmat.2007.03.057
+   KHALILI NR, 1995, ATMOS ENVIRON, V29, P533, DOI 10.1016/1352-2310(94)00275-P
+   Kim SK, 2007, DEV ENVIRONM SCI, V7, P31, DOI 10.1016/S1474-8177(07)07002-7
+   KNUDSEN AB, 1992, B WORLD HEALTH ORGAN, V70, P1
+   Kot-Wasik A, 2004, J PHOTOCH PHOTOBIO A, V168, P109, DOI 10.1016/j.jphotochem.2004.05.023
+   Kwon HO, 2014, SCI TOTAL ENVIRON, V470, P1494, DOI 10.1016/j.scitotenv.2013.08.031
+   Lee RGM, 2005, ENVIRON SCI TECHNOL, V39, P1436, DOI 10.1021/es048745i
+   Liu SD, 2010, J HAZARD MATER, V177, P1085, DOI 10.1016/j.jhazmat.2010.01.032
+   Mackay D, 2004, ENVIRON TOXICOL CHEM, V23, P2282, DOI 10.1897/03-465
+   MACKAY D, 1981, ENVIRON SCI TECHNOL, V15, P1006, DOI 10.1021/es00091a001
+   Miller T., 2014, WALL STREET J
+   Neitsch S. L., 2011, SOIL WATER ASSESSMEN
+   OGURA N, 1970, LIMNOL OCEANOGR, V15, P476, DOI 10.4319/lo.1970.15.3.0476
+   Oros DR, 2007, ENVIRON RES, V105, P101, DOI 10.1016/j.envres.2006.10.007
+   Pampanin DM, 2013, POLYCYCLIC AROMATIC
+   Ravindra K, 2008, ATMOS ENVIRON, V42, P2895, DOI 10.1016/j.atmosenv.2007.12.010
+   Rojo-Nieto E, 2013, ENVIRON SCI-PROC IMP, V15, P986, DOI 10.1039/c3em00050h
+   Scheringer M., 2003, PERSISTENT ORGANIC P, P237
+   Schwarzenbach R. P., 2005, ENV ORGANIC CHEM, P945
+   Sienra MD, 2005, ATMOS RES, V75, P267, DOI 10.1016/j.atmosres.2005.01.003
+   Soubbotina T. P., 2000, EC GROWTH M CHALL GL
+   SOUTHWORTH GR, 1979, B ENVIRON CONTAM TOX, V21, P507, DOI 10.1007/BF01685462
+   Tamamura S, 2007, ATMOS ENVIRON, V41, P2580, DOI 10.1016/j.atmosenv.2006.11.021
+   UNECE, 2010, IMPR REG PERS ORG PO
+   USEPA, 2014, PRIOR POLL LIST
+   Vallero D., 2014, FUNDAMENTALS AIR POL, P139
+   van Griensven A, 2006, J HYDROL, V324, P10, DOI 10.1016/j.jhydrol.2005.09.008
+   Vane CH, 2013, SCI TOTAL ENVIRON, V449, P81, DOI 10.1016/j.scitotenv.2013.01.043
+   Wang C, 2012, ENVIRON POLLUT, V164, P81, DOI 10.1016/j.envpol.2012.01.025
+   Wang DG, 2008, J ENVIRON MONITOR, V10, P1076, DOI 10.1039/b805840g
+   Wang WT, 2011, SCI TOTAL ENVIRON, V409, P2942, DOI 10.1016/j.scitotenv.2011.04.021
+   Zhang YX, 2009, ATMOS ENVIRON, V43, P812, DOI 10.1016/j.atmosenv.2008.10.050
+NR 50
+TC 14
+Z9 17
+U1 3
+U2 75
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD DEC 15
+PY 2016
+VL 320
+BP 442
+EP 457
+DI 10.1016/j.jhazmat.2016.08.063
+PG 16
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA DZ1LU
+UT WOS:000385600700048
+PM 27585277
+DA 2019-03-26
+ER
+
+PT J
+AU Hanley, QS
+   Lewis, D
+   Ribeiro, HV
+AF Hanley, Quentin S.
+   Lewis, Dan
+   Ribeiro, Haroldo V.
+TI Rural to Urban Population Density Scaling of Crime and Property
+   Transactions in English and Welsh Parliamentary Constituencies
+SO PLOS ONE
+LA English
+DT Article
+ID POWER-LAW DISTRIBUTIONS; CITIES; DYNAMICS; GROWTH
+AB Urban population scaling of resource use, creativity metrics, and human behaviors has been widely studied. These studies have not looked in detail at the full range of human environments which represent a continuum from the most rural to heavily urban. We examined monthly police crime reports and property transaction values across all 573 Parliamentary Constituencies in England and Wales, finding that scaling models based on population density provided a far superior framework to traditional population scaling. We found four types of scaling: i) non-urban scaling in which a single power law explained the relationship between the metrics and population density from the most rural to heavily urban environments, ii) accelerated scaling in which high population density was associated with an increase in the power-law exponent, iii) inhibited scaling where the urban environment resulted in a reduction in the power-law exponent but remained positive, and iv) collapsed scaling where transition to the high density environment resulted in a negative scaling exponent. Urban scaling transitions, when observed, took place universally between 10 and 70 people per hectare. This study significantly refines our understanding of urban scaling, making clear that some of what has been previously ascribed to urban environments may simply be the high density portion of non-urban scaling. It also makes clear that some metrics undergo specific transitions in urban environments and these transitions can include negative scaling exponents indicative of collapse. This study gives promise of far more sophisticated scale adjusted metrics and indicates that studies of urban scaling represent a high density subsection of overall scaling relationships which continue into rural environments.
+C1 [Hanley, Quentin S.] Nottingham Trent Univ, Sch Sci & Technol, Clifton Lane, Nottingham NG11 8NS, England.
+   [Lewis, Dan] Econ Policy Ctr, UkCrimeStats, London SE1 3GA, England.
+   [Ribeiro, Haroldo V.] Univ Estadual Maringa, Dept Fis, BR-87020900 Maringa, Parana, Brazil.
+RP Hanley, QS (reprint author), Nottingham Trent Univ, Sch Sci & Technol, Clifton Lane, Nottingham NG11 8NS, England.
+EM quentin.hanley@ntu.ac.uk
+RI Ribeiro, Haroldo/C-8614-2012
+OI Ribeiro, Haroldo/0000-0002-9532-5195; Hanley,
+   Quentin/0000-0002-8189-9550
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico
+   [44650/2014-3]; CNPq [440650/2014-3]
+FX This work was supported by Conselho Nacional de Desenvolvimento
+   Cientifico e Tecnologico, 44650/2014-3 (www.cnpq.br).; The authors are
+   grateful to the Office of National Statistics and the UK Home Office for
+   making these data publicly available. HVR thanks the financial support
+   of CNPq (grant 440650/2014-3)
+CR Alves LGA, 2014, PHYSICA A, V409, P175, DOI 10.1016/j.physa.2014.04.046
+   Alves LGA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134862
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Alves LGA, 2013, PHYSICA A, V392, P2672, DOI 10.1016/j.physa.2013.02.002
+   [Anonymous], 2011, 2011 RURAL URBAN CLA
+   [Anonymous], 2014, 288 OFF NAT STAT
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Bettencourt L, 2013, PREPRINT
+   Bettencourt LMA, 2015, PREPRINT
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Biiby P, 2013, URBAN RURAL AREA DEF
+   Burnham KP, 2002, MODEL SELECTION MULT
+   Cabinet Office, 2010, DIAM JUB CIV HON COM
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Cottineau C, 2015, ARXIV150707878
+   Cox W., 2015, DEMOGRAPHIA WORLD UR
+   Efron B, 1993, INTRO BOOTSTRAP
+   Eisler Z, 2008, ADV PHYS, V57, P89, DOI 10.1080/00018730801893043
+   Goedhart W, 2015, PREPRINT
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Hanley QS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0109004
+   Ignazzi AC., 2014, LESPACE GEOGRAPHIQUE, V4, P324
+   Keeling M, 1999, PHILOS T ROY SOC B, V354, P769, DOI 10.1098/rstb.1999.0429
+   KIRKPATRICK S, 1983, SCIENCE, V220, P671, DOI 10.1126/science.220.4598.671
+   Lacoe J, 2015, J RES CRIME DELINQ, V52, P717, DOI 10.1177/0022427815572633
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Louf R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102007
+   Mantovani MC, 2013, PHYS REV E, V88, DOI 10.1103/PhysRevE.88.024802
+   Mantovani MC, 2011, EPL-EUROPHYS LETT, V96, DOI 10.1209/0295-5075/96/48001
+   Masucci A, 2015, PREPRINT
+   Melo HPM, 2014, SCI REP-UK, V4, DOI 10.1038/srep06239
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Patrick R., 2012, WRITTEN EVIDENCE SUB
+   Pumain D, 2006, CYBERGEO, V343, P20
+   Reshef DN, 2011, SCIENCE, V334, P1518, DOI 10.1126/science.1205438
+   Richardson A, 2003, DRINKING CRIME DISOR
+   Rocha LEC, 2015, J URBAN HEALTH, V92, P785, DOI 10.1007/s11524-015-9976-x
+   Rybski D, 2014, PREPRINT
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Schlapfer M, 2015, PREPRINT
+   United Nations, 2014, STESASERA352 UN DEP
+   Youn H, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2015.0937
+NR 47
+TC 10
+Z9 10
+U1 0
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 17
+PY 2016
+VL 11
+IS 2
+AR e0149546
+DI 10.1371/journal.pone.0149546
+PG 15
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DF3BJ
+UT WOS:000371218400096
+PM 26886219
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Schiller, F
+AF Schiller, Frank
+TI Urban transitions: scaling complex cities down to human size
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Urban transition; Infrastructure; Retrofit; Mobility; Smart city;
+   Networks
+ID ENVIRONMENTAL-POLICY; POWER LAWS; INNOVATION; SYSTEMS; ECONOMICS;
+   GROWTH; STOCK; CONSUMPTION; HIERARCHY; EMISSIONS
+AB Complexity science has become prominent in studying cities as concepts like "smart city" and "big data" indicate. In particular network analysis has allowed to studying various aspects of cities in new ways. As such these analyses are often disconnected and subsequent business models often remain disembedded. However, complexity science can also compare various patterns extending over different scales (scaling) if they belong to the same entity (allometry). Such relationships pertain to cities too suggesting that buildings, infrastructure and traffic amongst other things develop interdependently and, that across specific city systems scaling phenomena can be compared according to cities' population size. The article argues that while many scaling phenomena of physical and social networks can indeed inform urban transition research the proposed central role of cities' population size is highly ambivalent. This is particularly true for economic indicators like GDP, which do not reflect the need for sustainability. Still, network and scaling analysis of the built environment can contribute to transition theory if explanatory social mechanisms relating human behaviours and social institutions to existing scaling phenomena are provided. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Schiller, Frank] Univ Surrey, Sociol, ERIE, Guildford GU2 7XH, Surrey, England.
+RP Schiller, F (reprint author), Univ Surrey, Sociol, ERIE, 37BC02, Guildford GU2 7XH, Surrey, England.
+EM schiller-frank@web.de
+CR Anderson Chris, 2008, WIRED MAG
+   Andersson C, 2006, ENVIRON PLANN A, V38, P1941, DOI 10.1068/a37418
+   Andersson C, 2014, FUTURES, V63, P145, DOI 10.1016/j.futures.2014.07.003
+   Antal M, 2014, ENERG POLICY, V68, P585, DOI 10.1016/j.enpol.2013.11.016
+   Arcaute E, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2014.0745
+   Arthur W. B, 1994, INCREASING RETURNS P
+   Axtell Robert, 2001, COMPUTING EC FINANCE
+   Ayres RU, 2001, ENERGY, V26, P817, DOI 10.1016/S0360-5442(01)00031-7
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Baur AH, 2014, J URBAN PLAN DEV, V140, DOI 10.1061/(ASCE)UP.1943-5444.0000165
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2014, SCI REP-UK, V4, DOI 10.1038/srep05393
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bettencourt LMA, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013541
+   Biesbroek GR, 2014, GLOBAL ENVIRON CHANG, V26, P108, DOI 10.1016/j.gloenvcha.2014.04.004
+   Boschma RA, 1999, J EVOL ECON, V9, P411, DOI 10.1007/s001910050089
+   Bourdic L, 2012, BUILD RES INF, V40, P518, DOI 10.1080/09613218.2012.690951
+   Brattebo H, 2009, BUILD RES INF, V37, P569, DOI 10.1080/09613210903186901
+   Bristow D, 2015, J IND ECOL, V19, P211, DOI 10.1111/jiec.12239
+   Brockway PE, 2014, ENVIRON SCI TECHNOL, V48, P9874, DOI 10.1021/es501217t
+   Broto VC, 2012, J IND ECOL, V16, P851, DOI 10.1111/j.1530-9290.2012.00556.x
+   Buhaug H, 2013, GLOBAL ENVIRON CHANG, V23, P1, DOI 10.1016/j.gloenvcha.2012.10.016
+   Caldarelli G., 2007, LARGE SCALE STRUCTUR
+   Caldarelli G., 2007, SCALE FREE NETWORKS
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Clifton K., 2008, J URBAN, V1, P17, DOI [10.1080/17549170801903496, DOI 10.1080/17549170801903496]
+   Conte R, 2012, EUR PHYS J-SPEC TOP, V214, P325, DOI 10.1140/epjst/e2012-01697-8
+   Creutzig F, 2012, ENVIRON RES LETT, V7, DOI 10.1088/1748-9326/7/4/044042
+   Creutzig Felix, 2015, PNAS, pS1
+   Creutzig Felix, 2015, PNAS, P1
+   Cristelli M, 2012, SCI REP-UK, V2, DOI 10.1038/srep00812
+   de Jong M, 2015, J CLEAN PROD, V109, P25, DOI 10.1016/j.jclepro.2015.02.004
+   Eames M, 2013, BUILD RES INF, V41, P504, DOI 10.1080/09613218.2013.805063
+   Economist Intelligence Unit, 2009, EUR GREEN CIT IND
+   Edenhofer O, 2015, ENVIRON SCI POLICY, V51, P56, DOI 10.1016/j.envsci.2015.03.017
+   Edenhofer Ottmar, 2014, CLIMATE CHANGE 2014, VIII
+   Epstein J. M., 1999, Complexity, V4, P41, DOI 10.1002/(SICI)1099-0526(199905/06)4:5<41::AID-CPLX9>3.3.CO;2-6
+   Finka M, 2015, LAND USE POLICY, V42, P602, DOI 10.1016/j.landusepol.2014.09.016
+   Flanagan K, 2011, RES POLICY, V40, P702, DOI 10.1016/j.respol.2011.02.005
+   Foxon TJ, 2013, ENERG POLICY, V52, P146, DOI 10.1016/j.enpol.2012.04.030
+   Foxon TJ, 2011, ECOL ECON, V70, P2258, DOI 10.1016/j.ecolecon.2011.07.014
+   Fragkias Michail, 2013, PLOS ONE, V8
+   Galvin R, 2014, ENERG POLICY, V74, P655, DOI 10.1016/j.enpol.2014.08.013
+   Geels F.W., 2010, TRANSITIONS SUSTAINA, P9
+   Geels FW, 2011, ENVIRON INNOV SOC TR, V1, P24, DOI 10.1016/j.eist.2011.02.002
+   Geels FW, 2004, RES POLICY, V33, P897, DOI 10.1016/j.respol.2004.01.015
+   Grazi F, 2008, ENERG J, V29, P97
+   Hassler U, 2009, BUILD RES INF, V37, P552, DOI 10.1080/09613210903189533
+   Herstatt C., 2012, SWISS J BUS RES PRAC, V66, P245
+   Hodson M, 2012, J IND ECOL, V16, P789, DOI 10.1111/j.1530-9290.2012.00559.x
+   Hodson M, 2010, RES POLICY, V39, P477, DOI 10.1016/j.respol.2010.01.020
+   International Energy Agency, 2013, TECHN ROADM
+   Irwin EG, 2009, LANDSCAPE ECOL, V24, P1223, DOI 10.1007/s10980-009-9353-9
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2013, PROF GEOGR, V65, P482, DOI 10.1080/00330124.2012.700499
+   Kalmykova Yuliya, 2015, J CLEAN PROD, P1
+   Kohler Niklaus, 2012, BUILD RES INF, P37
+   Krugman P., 1991, GEOGRAPHY TRADE
+   Kubiszewski I, 2013, ECOL ECON, V93, P57, DOI 10.1016/j.ecolecon.2013.04.019
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lammer S., 2006, PHYS A
+   Lechtenbohmer Stefan, 2010, SAPIENS, V3
+   Lenzen M, 2008, URBAN ENERGY TRANSITION: FROM FOSSIL FUELS TO RENEWABLE POWER, P91, DOI 10.1016/B978-0-08-045341-5.00004-9
+   Lobo J, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0058407
+   Louf R, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0924
+   Louf R, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0102007
+   Louf R, 2014, SCI REP-UK, V4, DOI 10.1038/srep05561
+   Louf R, 2013, P NATL ACAD SCI USA, V110, P8824, DOI 10.1073/pnas.1222441110
+   Lutzkendorf T, 2011, BUILD RES INF, V39, P483, DOI 10.1080/09613218.2011.597206
+   Malpass P., 2011, HOUSING THEORY SOC, V28, P305, DOI DOI 10.1080/14036096.2011.554852
+   Mandelbrot BB, 2009, COMPLEXITY, V14, P55, DOI 10.1002/cplx.20264
+   Mayntz R, 2004, PHILOS SOC SCI, V34, P237, DOI 10.1177/0048393103262552
+   McCormick K, 2013, J CLEAN PROD, V50, P1, DOI 10.1016/j.jclepro.2013.01.003
+   Mitchell S. D., 2009, UNSIMPLE TRUTHS SCI
+   Mitchell Sandra D., 2002, AKTEURE MECH MODELLE, P179
+   Muller DB, 2013, ENVIRON SCI TECHNOL, V47, P11739, DOI 10.1021/es402618m
+   Nelson R. R., 1982, EVOLUTIONARY THEORY
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Noailly J, 2012, ENERG ECON, V34, P795, DOI 10.1016/j.eneco.2011.07.015
+   Noulas A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037027
+   Nowotny H, 2005, THEOR CULT SOC, V22, P15, DOI 10.1177/0263276405057189
+   Oliveira EA, 2014, SCI REP-UK, V4, DOI 10.1038/srep04235
+   Pachauri S, 2008, ENERG POLICY, V36, P4022, DOI 10.1016/j.enpol.2008.06.016
+   Pauliuk S, 2014, URBAN WATER J, V11, P274, DOI 10.1080/1573062X.2013.795234
+   Pierson P., 2004, POLITICS TIME
+   POWELL WW, 1990, RES ORGAN BEHAV, V12, P295
+   Pumain D, 2006, EVOLUTIONARY THEORY, V343
+   Pumain D, 2006, METHODS SER, V3, P169
+   Ragin C. C, 2008, REDESIGNING SOCIAL I
+   Redfearn CL, 2009, REG SCI URBAN ECON, V39, P224, DOI 10.1016/j.regsciurbeco.2008.09.002
+   Reinders AHME, 2003, ENERG POLICY, V31, P139, DOI 10.1016/S0301-4215(02)00019-8
+   Rennings K, 2000, ECOL ECON, V32, P319, DOI 10.1016/S0921-8009(99)00112-3
+   Rickwood P, 2008, URBAN POLICY RES, V26, P57, DOI 10.1080/08111140701629886
+   Rodrik D, 2004, J ECON GROWTH, V9, P131, DOI 10.1023/B:JOEG.0000031425.72248.85
+   Roelich K, 2015, TECHNOL FORECAST SOC, V92, P40, DOI 10.1016/j.techfore.2014.11.008
+   Roth C, 2012, J R SOC INTERFACE, V9, P2540, DOI 10.1098/rsif.2012.0259
+   Rotmans J., 2001, FORESIGHT, V3, P1, DOI DOI 10.1108/14636680110803003
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Salat S, 2011, PROCEDIA ENGINEER, V21, P1193, DOI 10.1016/j.proeng.2011.11.2130
+   Salat Serge, 2009, BUILD RES INF
+   Samaniego Horacio, 2008, J TRANSP LAND USE, V1, P29
+   Sartori I, 2008, BUILD RES INF, V36, P412, DOI 10.1080/09613210802184312
+   Scharpf F. W., 2002, AKTEURE MECHANISMEN, V42, P213
+   Scharpf Fritz W., 1997, THEORETICAL LENSES P
+   Schipper Lee, 2004, ENCY ENERGY
+   Schwartz Herman, 2010, WELFARE STATE REFORM
+   Schwarz N, 2010, LANDSCAPE URBAN PLAN, V96, P29, DOI 10.1016/j.landurbplan.2010.01.007
+   Sorensen A, 2015, PLAN PERSPECT, V30, P17, DOI 10.1080/02665433.2013.874299
+   Sorrell S, 2008, ECOL ECON, V65, P636, DOI 10.1016/j.ecolecon.2007.08.013
+   Sorrell S, 2007, ENERG POLICY, V35, P507, DOI 10.1016/j.enpol.2005.12.009
+   Spath P, 2015, ENERG POLICY, V78, P273, DOI 10.1016/j.enpol.2014.12.019
+   Steadman P, 2009, BUILD RES INF, V37, P455, DOI 10.1080/09613210903152531
+   Steinberger JK, 2009, ENERG POLICY, V37, P361, DOI 10.1016/j.enpol.2008.08.030
+   Stiglitz J.E., 2009, REPORT COMMISSION ME
+   Tacchella A, 2013, J ECON DYN CONTROL, V37, P1683, DOI 10.1016/j.jedc.2013.04.006
+   Urge-Vorsatz Diana, 2009, ECEE 2009 SUMM STUD, P1543
+   van den Bergh JCJM, 2007, J EVOL ECON, V17, P521, DOI 10.1007/s00191-006-0054-0
+   Vasileiadou E, 2010, FUTURES, V42, P1176, DOI 10.1016/j.futures.2010.07.001
+   Wiedenhofer D, 2013, ENERG POLICY, V63, P696, DOI 10.1016/j.enpol.2013.07.035
+   Wilson C, 2012, NAT CLIM CHANGE, V2, P780, DOI 10.1038/NCLIMATE1576
+   Wu Fulong, 2014, INT J HOUS POLICY, P1
+   Yetano Roche Maria, 2013, ANNU REV ENV RESOUR, V39, P21
+NR 126
+TC 2
+Z9 2
+U1 3
+U2 43
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD JAN 20
+PY 2016
+VL 112
+BP 4273
+EP 4282
+DI 10.1016/j.jclepro.2015.08.030
+PN 5
+PG 10
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA DB0ON
+UT WOS:000368207500063
+DA 2019-03-26
+ER
+
+PT J
+AU Schawe, H
+   Hartmann, AK
+AF Schawe, Hendrik
+   Hartmann, Alexander K.
+TI Phase transitions of Traveling Salesperson problems solved with linear
+   programming and cutting planes
+SO EPL
+LA English
+DT Article
+ID SALESMAN PROBLEM; STATISTICAL-MECHANICS; RANDOM GRAPHS; OPTIMIZATION;
+   ALGORITHM; TIME; INEQUALITIES; COMPLEXITY
+AB The Traveling Salesperson problem asks for the shortest cyclic tour visiting a set of cities given their pairwise distances and belongs to the NP-hard complexity class, which means that with all known algorithms in the worst case instances are not solvable in polynomial time, i.e., the problem is hard. However, this does not mean that there are not subsets of the problem which are easy to solve. To examine numerically transitions from an easy to a hard phase, a random ensemble of cities in the Euclidean plane, given a parameter s, which governs the hardness, is introduced. Here, a linear programming approach together with suitable cutting planes is applied. Such algorithms operate outside the space of feasible solutions and are often used in practical applications but rarely studied in physics so far. We observe several transitions. To characterize these transitions, scaling assumptions from continuous phase transitions are applied. Copyright (C) EPLA, 2016
+C1 [Schawe, Hendrik; Hartmann, Alexander K.] Carl von Ossietzky Univ Oldenburg, Inst Phys, D-26111 Oldenburg, Germany.
+RP Schawe, H (reprint author), Carl von Ossietzky Univ Oldenburg, Inst Phys, D-26111 Oldenburg, Germany.
+FU DFG [INST 184/108-1 FUGG]; Ministry of Science and Culture (MWK) of the
+   Lower Saxony State
+FX The simulations were performed at the HPC Cluster HERO, located at the
+   University of Oldenburg (Germany) and funded by the DFG through its
+   Major Research Instrumentation Programme (INST 184/108-1 FUGG) and the
+   Ministry of Science and Culture (MWK) of the Lower Saxony State.
+CR Applegate D, 2003, MATH PROGRAM, V97, P91, DOI 10.1007/s10107-003-0440-4
+   Arora S, 1998, J ACM, V45, P753, DOI 10.1145/290179.290180
+   Arora S, 2009, COMPUTATIONAL COMPLEXITY: A MODERN APPROACH, P1, DOI 10.1017/CBO9780511804090
+   Binder K, 2010, GRAD TEXTS PHYS, P1, DOI 10.1007/978-3-642-03163-2
+   Biroli G, 2002, PHYSICA A, V306, P381, DOI 10.1016/S0378-4371(02)00516-2
+   Burkard R. E., 1995, WELL SOLVABLE SPECIA
+   Cocco S, 2001, PHYS REV LETT, V86, P1654, DOI 10.1103/PhysRevLett.86.1654
+   Conforti M, 2014, GRAD TEXTS MATH, V271, P281, DOI 10.1007/978-3-319-11008-0_7
+   Cook W, 2012, PURSUIT TRAVELING SA
+   DANTZIG G, 1954, J OPER RES SOC AM, V2, P393, DOI 10.1287/opre.2.4.393
+   Dewenter T, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.041128
+   Dorigo M., 1997, IEEE Transactions on Evolutionary Computation, V1, P53, DOI 10.1109/4235.585892
+   EDELSBRUNNER H, 1989, THEOR COMPUT SCI, V66, P157, DOI 10.1016/0304-3975(89)90133-3
+   EDMONDS J, 1965, J RES NATL BUR STAND, VB 69, P125, DOI 10.6028/jres.069B.013
+   EFRON B, 1979, ANN STAT, V7, P1, DOI 10.1214/aos/1176344552
+   Fleischer LK, 2006, MATH OPER RES, V31, P696, DOI 10.1287/moor.1060.0214
+   FLOOD MM, 1956, OPER RES, V4, P61, DOI 10.1287/opre.4.1.61
+   Gent IP, 1996, ARTIF INTELL, V88, P349, DOI 10.1016/S0004-3702(96)00030-6
+   GLOVER F, 1986, COMPUT OPER RES, V13, P533, DOI 10.1016/0305-0548(86)90048-1
+   Goldenfeld N., 1992, LECT PHASE TRANSITIO
+   Grisan E., 2003, P 25 ANN INT C IEEE, V1, P866
+   GROTSCHEL M, 1981, COMBINATORICA, V1, P169, DOI 10.1007/BF02579273
+   GROTSCHEL M, 1993, ALGORITHM COMBINAT, V2, P1
+   HAMMING RW, 1950, BELL SYST TECH J, V29, P147, DOI 10.1002/j.1538-7305.1950.tb00463.x
+   Hartmann A. K., 2015, BIG PRACTICAL GUIDE, P245
+   Hartmann AK, 2005, PHASE TRANSITIONS IN COMBINATORIAL OPTIMIZATION PROBLEMS: BASICS, ALGORITHMS AND STATISTICAL MECHANICS, P1, DOI 10.1002/3527606734
+   Hartmann AK, 2003, J PHYS A-MATH GEN, V36, P11069, DOI 10.1088/0305-4470/36/43/028
+   Hougardy S, 2014, LECT NOTES COMPUT SC, V8747, P275, DOI 10.1007/978-3-319-12340-0_23
+   Karp R., 1972, REDUCIBILITY COMBINA
+   KIRKPATRICK S, 1983, SCIENCE, V220, P671, DOI 10.1126/science.220.4598.671
+   Krzakala F, 2007, P NATL ACAD SCI USA, V104, P10318, DOI 10.1073/pnas.0703685104
+   LIN S, 1973, OPER RES, V21, P498, DOI 10.1287/opre.21.2.498
+   Martin OC, 2001, THEOR COMPUT SCI, V265, P3, DOI 10.1016/S0304-3975(01)00149-9
+   Mertens S, 2006, NATURE COMPUTATION
+   Mezard M, 2002, SCIENCE, V297, P812, DOI 10.1126/science.1073287
+   Mezard M, 2009, INFORM PHYS COMPUTAT
+   PADBERG MW, 1982, MATH OPER RES, V7, P67, DOI 10.1287/moor.7.1.67
+   Papadimitriou C, 1998, DOVER BOOKS COMPUTER
+   Papadimitriou C. H., 1977, Theoretical Computer Science, V4, P237, DOI 10.1016/0304-3975(77)90012-3
+   Percus AG, 1996, PHYS REV LETT, V76, P1188, DOI 10.1103/PhysRevLett.76.1188
+   SCHNEIDER JJ, 2006, STOCHASTIC OPTIMIZAT
+   Stor M., 1997, J ACM, V44, P585
+   Takabe S., 2013, J PHYS SOC JPN, V83
+   Weigt M, 2000, PHYS REV LETT, V84, P6118, DOI 10.1103/PhysRevLett.84.6118
+   Weigt M, 2001, PHYS REV LETT, V86, P1658, DOI 10.1103/PhysRevLett.86.1658
+   Young A. P., 2015, EVERYTHING YOU WANTE
+NR 46
+TC 4
+Z9 4
+U1 0
+U2 6
+PU EPL ASSOCIATION, EUROPEAN PHYSICAL SOCIETY
+PI MULHOUSE
+PA 6 RUE DES FRERES LUMIERE, MULHOUSE, 68200, FRANCE
+SN 0295-5075
+EI 1286-4854
+J9 EPL-EUROPHYS LETT
+JI EPL
+PD FEB
+PY 2016
+VL 113
+IS 3
+AR 30004
+DI 10.1209/0295-5075/113/30004
+PG 6
+WC Physics, Multidisciplinary
+SC Physics
+GA DG2OD
+UT WOS:000371905900004
+DA 2019-03-26
+ER
+
+PT J
+AU Fraser, DR
+   Notteboom, T
+   Ducruet, C
+AF Fraser, Darren Ronald
+   Notteboom, Theo
+   Ducruet, Cesar
+TI Peripherality in the global container shipping network: the case of the
+   Southern African container port system
+SO GEOJOURNAL
+LA English
+DT Article
+DE Periphery; Global container shipping network; Southern Africa; Container
+   port
+ID CENTRALITY; TRADE; VULNERABILITY; NORTHEAST; CITIES
+AB Regional trade co-operation, economic growth and greater political stability have enabled increased container throughput and container port capacity development. Earlier academic work has indicated that the functional position of this port region in the global maritime network might be shifting from a remote region in the periphery of the network to a more intermediate position. This paper aims to analyze the changing level of peripherality and remoteness of the Southern African container port system as part of the global container shipping network. The central hypothesis is that Southern Africa has moved from a remote shipping region to a more central shipping region in the global network. The methodology consists of the calculation of network measures for Southern African ports. The changing geographical distribution of flows among the main container ports in South Africa, Namibia, Mozambique, Mauritius and Madagascar will also be explored in terms of their respective shipping services, port calling patterns, market structure (in terms of the number of active carriers) and the up-scaling of vessel and port capacity. The overall result is a mapped port hierarchical structure with a clear indication of the shifted maritime centrality of Southern African ports from 1996 to the present decade.
+C1 [Fraser, Darren Ronald; Notteboom, Theo; Ducruet, Cesar] Univ Antwerp, ITMMA, Antwerp, Belgium.
+   [Notteboom, Theo] Dalian Maritime Univ, Transportat Management Coll, Dalian, Peoples R China.
+   [Notteboom, Theo] Antwerp Maritime Acad, Antwerp, Belgium.
+   [Ducruet, Cesar] CNRS, French Natl Ctr Sci Research, Paris, France.
+RP Fraser, DR (reprint author), Univ Antwerp, ITMMA, Antwerp, Belgium.
+EM darrenronald.fraser@uantwerpen.be
+CR Ball R., 1996, J TRANSP GEOGR, V4, P27
+   Behrens K, 2006, J ECON GEOGR, V6, P347, DOI 10.1093/jeg/lbi024
+   Brandes U, 2001, J MATH SOCIOL, V25, P163, DOI 10.1080/0022250X.2001.9990249
+   Chen T, 2013, INT J SHIP TRANS LOG, V5, P155, DOI 10.1504/IJSTL.2013.053233
+   De LANGEN P. W., 2007, RES TRANSP ECON, V17, P109
+   Ducruet C., 2009, PORTS PROXIMITY COMP, P11
+   DUCRUET C, 2012, MARITIME LOGISTICS C, P77
+   DUCRUET C, 2008, MARIT POLICY MANAG, V35, P374
+   Ducruet C., 2012, INT C INT CAN WORLD
+   Ducruet C., 2013, SAGE HDB TRANSPORT S, P347
+   Ducruet C, 2010, MARIT POLICY MANAG, V37, P17, DOI 10.1080/03088830903461175
+   Ducruet C, 2010, J TRANSP GEOGR, V18, P508, DOI 10.1016/j.jtrangeo.2010.03.005
+   Fagerholt K., 2004, MARIT POLICY MANAG, V31, P259, DOI DOI 10.1080/0308883042000259819
+   Feng L, 2013, POL MARIT RES, V20, P55, DOI 10.2478/pomr-2013-0027
+   Fraser D., 2012, AFRICAN J BUSINESS M, V6, P10807
+   Fremont A, 2007, J TRANSP GEOGR, V15, P431, DOI 10.1016/j.jtrangeo.2007.01.005
+   Fujita M, 1996, J DEV ECON, V49, P93, DOI 10.1016/0304-3878(95)00054-2
+   Laxe FG, 2012, J TRANSP GEOGR, V24, P33, DOI 10.1016/j.jtrangeo.2012.06.005
+   Hall PV, 2010, REG STUD, V44, P1103, DOI 10.1080/00343400903365110
+   Hayuth Y., 1994, J TRANSP GEOGR, V2, P3
+   Jacobs W., 2007, POLITICAL EC PORT CO
+   Kaluza P, 2010, J R SOC INTERFACE, V7, P1093, DOI 10.1098/rsif.2009.0495
+   Lafourcade M, 2011, HANDBOOK OF TRANSPORT ECONOMICS, P67
+   Lee SW, 2008, GEOFORUM, V39, P372, DOI 10.1016/j.geoforum.2007.07.010
+   Lee TC, 2012, INT J SHIP TRANS LOG, V4, P323, DOI 10.1504/IJSTL.2012.049308
+   Lirn TC, 2004, MARIT ECON LOGIST, V6, P70, DOI DOI 10.1057/PALGRAVE.MEL.9100093
+   Merk O., 2013, SYNTHESIS REPORT
+   Ncube M., 2011, MARKET BRIEF AFRICAN, P1
+   NG K. Y. A., 2006, MARIT ECON LOGIST, V8, P234, DOI DOI 10.1057/PALGRAVE.MEL.9100158
+   Notteboom T., 2010, GEOJOURNAL, V76, P213
+   Notteboom T. E, 2009, PORTS PROXIMITY COMP, P55
+   Notteboom T, 2010, INT J SHIP TRANS LOG, V2, P224, DOI 10.1504/IJSTL.2010.030868
+   Notteboom TE, 2012, J TRANSP GEOGR, V22, P164, DOI 10.1016/j.jtrangeo.2012.01.003
+   Notteboom TE, 2010, J TRANSP GEOGR, V18, P567, DOI 10.1016/j.jtrangeo.2010.03.003
+   Parola F, 2008, J TRANSP GEOGR, V16, P292, DOI 10.1016/j.jtrangeo.2007.11.001
+   Raballand G, 2012, DIR DEV, P1, DOI 10.1596/978-0-8213-9499-1
+   Robinson R., 2002, MARIT POLICY MANAG, V29, P241, DOI DOI 10.1080/03088830210132623
+   Rodrigue J.-P., 2010, RESEARCH IN TRANSPOR, V27, P19, DOI DOI 10.1016/J.RETREC.2009.12.004
+   Rodrigue J.P., 2005, MARIT POLICY MANAG, V32, P297, DOI DOI 10.1080/03088830500139885
+   Slack B., 2002, GEOJOURNAL, V65, P159, DOI DOI 10.1016/S0966-6923(02)00003-0
+   Song D. W, 2003, MARIT POLICY MANAG, V30, P29, DOI DOI 10.1080/0308883032000051612
+   Stern E., 1984, SEAPORT SYSTEMS SPAT, P239
+   SWYNGEDOUW EA, 1992, T I BRIT GEOGR, V17, P417, DOI 10.2307/622708
+   Van der Lugt L., 2002, STYLISED CONTAINER P, P1
+   World Bank, 2010, AFR DEV FORUM, P1, DOI 10.1596/978-0-8213-8041-3
+   Wu JP, 2011, AUST GEOGR, V42, P273, DOI 10.1080/00049182.2011.595767
+   Zohil J., 1999, MARIT POLICY MANAG, V26, P175
+NR 47
+TC 9
+Z9 9
+U1 1
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0343-2521
+EI 1572-9893
+J9 GEOJOURNAL
+JI GeoJournal
+PD FEB
+PY 2016
+VL 81
+IS 1
+BP 139
+EP 151
+DI 10.1007/s10708-014-9610-6
+PG 13
+WC Geography
+SC Geography
+GA DV2XO
+UT WOS:000382785800010
+DA 2019-03-26
+ER

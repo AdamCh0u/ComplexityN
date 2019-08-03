@@ -1,0 +1,499 @@
+
+PT S
+AU Shreevastava, A
+   Rao, PSC
+   McGrath, GS
+AF Shreevastava, Anamika
+   Rao, P. Suresh C.
+   McGrath, Gavan S.
+BE Goldberg, M
+   Chen, JM
+   Khanbilvardi, R
+TI Spatial analysis of the Surface Urban Heat Island
+SO LAND SURFACE AND CRYOSPHERE REMOTE SENSING IV
+SE Proceedings of SPIE
+CT Conference on Land Surface and Cryosphere Remote Sensing IV
+CY SEP 25-26, 2018
+CL Honolulu, HI
+DE Surface Urban Heat Island; Land Surface Temperature; Landsat; Fractal
+   analysis; Power law; Self-similarity; Atlanta
+ID DISTRIBUTIONS; TEMPERATURE; PATTERN; GROWTH; LAW
+AB In this paper, we present a novel framework to characterize the complex spatial structure of the intra-urban heat island. Cities are known to be warmer than its surrounding areas because of the Urban Heat Island (UHI) phenomenon. However, due to the diverse and complex spatial geometries of cities themselves, the temperatures within vary widely. We take advantage of the well-established notion of fractal properties of cities, to characterize the complex structure of these hotspots. As a demonstrative case study, Land Surface Temperatures (LST) for Atlanta, GA, derived from Landsat 8 is used. From clustering analysis at multiple thermal thresholds, we show that the hotspots can be described as a case of percolating clusters. By comparing the area-perimeter fractal dimension at these thresholds, we find these clusters to be statistically self-similar. Furthermore, at the percolation threshold, the cluster size distribution is found to follow a power-law size distribution; and at a higher threshold, deviation from the power law is observed in the form of exponential tempering. We argue that the spatial distribution of the hotspots itself plays a significant role in the overall UHI and fractal analysis techniques lend themselves aptly to the characterization of the same. This has several further applications, such as targeted heat mitigation, assessment of health impacts, and energy load estimation.
+CR Arnfield AJ, 2003, INT J CLIMATOL, V23, P1, DOI 10.1002/joc.859
+   BATTY M, 1988, ENVIRON PLANN B, V15, P461, DOI 10.1068/b150461
+   Batty M., 1994, FRACTAL CITIES GEOME
+   Batty Michael., 2013, NEW SCI CITIES
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Buyantuyev A, 2010, LANDSCAPE ECOL, V25, P17, DOI 10.1007/s10980-009-9402-4
+   Cael BB, 2016, SCI REP-UK, V6, DOI 10.1038/srep29633
+   Chen Y., 2010, DISCRETE DYNAMICS NA, V2010
+   CLARKE JF, 1972, ENVIRON RES, V5, P93, DOI 10.1016/0013-9351(72)90023-0
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Fluschnik T, 2016, ISPRS INT J GEO-INF, V5, DOI 10.3390/ijgi5070110
+   Gangopadhyay K, 2009, PHYSICA A, V388, P2682, DOI 10.1016/j.physa.2009.03.019
+   Gonzalez MC, 2008, NATURE, V453, P779, DOI 10.1038/nature06958
+   Gorelick N, 2017, REMOTE SENS ENVIRON, V202, P18, DOI 10.1016/j.rse.2017.06.031
+   GROSSMAN T, 1986, J PHYS A-MATH GEN, V19, pL745, DOI 10.1088/0305-4470/19/12/009
+   Hafner J, 1999, J APPL METEOROL, V38, P448, DOI 10.1175/1520-0450(1999)038<0448:UHIMIC>2.0.CO;2
+   Imhoff ML, 2010, REMOTE SENS ENVIRON, V114, P504, DOI 10.1016/j.rse.2009.10.008
+   Imre AR, 2016, EUR PHYS J H, V41, P69, DOI 10.1140/epjh/e2016-60039-8
+   ISICHENKO MB, 1992, REV MOD PHYS, V64, P961, DOI 10.1103/RevModPhys.64.961
+   Isichenko MB, 1991, J NONLINEAR SCI, V1, P255, DOI [10.1007/BF01238814, DOI 10.1007/BF01238814]
+   Kalapala V, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.026130
+   Klinkhamer C., 2017, ARXIV171203883
+   Li D, 2013, J APPL METEOROL CLIM, V52, P2051, DOI 10.1175/JAMC-D-13-02.1
+   Liu H, 2009, PHOTOGRAMM ENG REM S, V75, P291, DOI 10.14358/PERS.75.3.291
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MANDELBROT BB, 1975, P NATL ACAD SCI USA, V72, P3825, DOI 10.1073/pnas.72.10.3825
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   Oke T. R., 2002, BOUNDARY LAYER CLIMA
+   OKE TR, 1982, Q J ROY METEOR SOC, V108, P1, DOI 10.1002/qj.49710845502
+   Oleson KW, 2015, CLIMATIC CHANGE, V129, P525, DOI 10.1007/s10584-013-0936-8
+   Peel MC, 2007, HYDROL EARTH SYST SC, V11, P1633, DOI 10.5194/hess-11-1633-2007
+   Peng SS, 2012, ENVIRON SCI TECHNOL, V46, P696, DOI 10.1021/es2030438
+   Quattrochi D. A., 1998, PROJECT ATLANTA ATLA
+   Rodriguez-Iturbe I., 2001, FRACTAL RIVER BASINS
+   Sahimi M., 2014, APPL PERCOLATION THE
+   Schwarz N, 2012, ECOL INDIC, V18, P693, DOI 10.1016/j.ecolind.2012.01.001
+   Stauffer D., 2014, INTRO PERCOLATION TH
+   Stewart ID, 2012, B AM METEOROL SOC, V93, P1879, DOI 10.1175/BAMS-D-11-00019.1
+   Voogt JA, 2003, REMOTE SENS ENVIRON, V86, P370, DOI 10.1016/S0034-4257(03)00079-8
+   Walawender JP, 2012, INT GEOSCI REMOTE SE, P4371, DOI 10.1109/IGARSS.2012.6350405
+   Yang S, 2017, WATER RESOUR RES, V53, P8966, DOI 10.1002/2017WR021555
+   Zhou B, 2013, GEOPHYS RES LETT, V40, P5486, DOI 10.1002/2013GL057320
+   Zhou WQ, 2011, LANDSCAPE URBAN PLAN, V102, P54, DOI 10.1016/j.landurbplan.2011.03.009
+   Zhou Y, 2010, NAT HAZARDS, V52, P639, DOI 10.1007/s11069-009-9406-z
+NR 44
+TC 0
+Z9 0
+SN 0277-786X
+EI 1996-756X
+BN 978-1-5106-2130-5
+PY 2018
+VL 10777
+AR UNSP 107770C
+DI 10.1117/12.2501441
+UT WOS:000455185200002
+ER
+
+PT J
+AU Weisenfeld, U
+   Hauerwaas, A
+AF Weisenfeld, Ursula
+   Hauerwaas, Antoniya
+TI Adopters build bridges: Changing the institutional logic for more
+   sustainable cities. From action to workset to practice
+SO RESEARCH POLICY
+DE Institutional logic; Institutional entrepreneurs; Early adopters; Social
+   innovation; Practice; Sustainability
+ID REGIONAL INNOVATION SYSTEMS; SOCIOTECHNICAL TRANSITION;
+   NICHE-DEVELOPMENT; ENTREPRENEURSHIP; PERSPECTIVE; AGENCY;
+   TRANSFORMATION; ORGANIZATIONS; GOVERNANCE; FIELDS
+AB The aim of this article is to develop a model of change in urban context to map key steps towards changing an institutional logic: How can new ideas that aim at changing the dominant logic become practice in a city? To this end, the article explores the innovation process of institutions, thereby bringing together areas of research on institutional entrepreneurship, innovation processes, and transformation. Our model interlinks invention, innovation and adoption of new institutions to achieve a new institutional logic for more sustainable development in a city. We introduce 'workset' as an interim step between action and practice and identify local adopters as key for diffusion. We illustrate our framework using a case study of urban institutional entrepreneurship in the socioeconomic system of a German city. Our findings indicate that the roles of local institutional entrepreneurs and local adopters partly overlap, that worksets are crucial for broader diffusion of new institutions, and that a robust design supports the adoption of the institutional innovation.
+CR Andre Isabel, 2009, SOCIAL INNOVATION TE, P149
+   Bandura A, 2002, EUR PSYCHOL, V7, P2, DOI 10.1027//1016.9040.7.1.2
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Battilana J, 2012, ACAD MANAGE J, V55, P381, DOI 10.5465/amj.2009.0891
+   Battilana J, 2009, ACAD MANAG ANN, V3, P65, DOI 10.1080/19416520903053598
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Boltanski L, 2005, INT J POLITICS CULT, V18, P161, DOI 10.1007/s10767-006-9006-9
+   Brandt P, 2013, ECOL ECON, V92, P1, DOI 10.1016/j.ecolecon.2013.04.008
+   Bryson JM, 2014, PUBLIC ADMIN REV, V74, P445, DOI 10.1111/puar.12238
+   Buehler R, 2011, SOLUTIONS, V2
+   Bulu M, 2014, TECHNOL FORECAST SOC, V89, P63, DOI 10.1016/j.techfore.2013.12.009
+   Carson R, 1962, SILENT SPRING
+   CLARK TN, 2004, CITY ENTERTAINMENT M, P103
+   Cooke P, 1997, RES POLICY, V26, P475, DOI 10.1016/S0048-7333(97)00025-5
+   Daly H., 1990, COMMON GOOD REDIRECT
+   De Clercq D, 2011, INT SMALL BUS J, V29, P322, DOI 10.1177/0266242610372460
+   Dempsey N, 2011, SUSTAIN DEV, V19, P289, DOI 10.1002/sd.417
+   DiMaggio P., 1988, I PATTERNS ORG, P1
+   EESC, 2015, 378 EESC ECO
+   Eisenhardt KM, 2016, ACAD MANAGE J, V59, P1113, DOI 10.5465/amj.2016.4004
+   Emirbayer M, 1998, AM J SOCIOL, V103, P962, DOI 10.1086/231294
+   Etzioni A, 2015, ENCY POLITICAL THOUG
+   Fagerberg J, 2009, RES POLICY, V38, P218, DOI 10.1016/j.respol.2008.12.006
+   Felber C, 2015, TEDX TALK
+   Felber Christian, 2017, EC COMMON GOOD WORKA
+   Florida R, 2002, RISE CREATIVE CLASS
+   Foray D, 2012, RES POLICY, V41, P1697, DOI 10.1016/j.respol.2012.07.011
+   Friedland R., 1991, NEW I ORG ANAL, P232
+   Geels F, 2006, TECHNOL ANAL STRATEG, V18, P375, DOI 10.1080/09537320600777143
+   Geels FW, 2007, RES POLICY, V36, P399, DOI 10.1016/j.respol.2007.01.003
+   Geels FW, 2002, RES POLICY, V31, P1257, DOI 10.1016/S0048-7333(02)00062-8
+   Gerstlberger W, 2004, TECHNOVATION, V24, P749, DOI 10.1016/S0166-4972(02)00152-9
+   Gibbs D, 2013, URBAN STUD, V50, P2151, DOI 10.1177/0042098013491165
+   Glaeser EL, 2009, J REGIONAL SCI, V49, P617, DOI 10.1111/j.1467-9787.2009.00627.x
+   Glynn MA, 2005, J MANAGE STUD, V42, P1031, DOI 10.1111/j.1467-6486.2005.00531.x
+   Greenwood R, 2002, ACAD MANAGE J, V45, P58, DOI 10.2307/3069285
+   Gunnarsson J, 2011, J EVOL ECON, V21, P321, DOI 10.1007/s00191-010-0208-y
+   Gupta AK, 2002, ACAD MANAGE EXEC, V16, P116, DOI 10.5465/AME.2002.6640211
+   Hargadon AB, 2001, ADMIN SCI QUART, V46, P476, DOI 10.2307/3094872
+   Hargreaves T, 2013, GLOBAL ENVIRON CHANG, V23, P868, DOI 10.1016/j.gloenvcha.2013.02.008
+   Hensmans M, 2003, ORGAN STUD, V24, P355, DOI 10.1177/0170840603024003908
+   Hollensbe E, 2014, ACAD MANAGE J, V57, P1227, DOI 10.5465/amj.2014.4005
+   Hoogma R., 2002, EXPT SUSTAINABLE TRA
+   Horwitch M., 2010, J HIGH TECHNOL MANAG, V21, P23, DOI DOI 10.1016/J.HITECH.2010.02.004
+   Jarzabkowski P, 2008, ACAD MANAGE J, V51, P621
+   Johannessen JA, 2013, KYBERNETES, V42, P1195, DOI 10.1108/K-04-2013-0069
+   Kagan S., 2008, SUSTAINABILITY NEW F, P147
+   Kemp R, 2007, INT J SUST DEV WORLD, V14, P78, DOI 10.1080/13504500709469709
+   Kuckartz U, 2014, QUALITATIVE TEXT ANA
+   Kuhlmann S., 2014, CHALLENGE ADDRESSING, P1
+   Kukk P, 2016, RES POLICY, V45, P70, DOI 10.1016/j.respol.2016.01.016
+   Landstrom H, 2015, INT ENTREP MANAG J, V11, P493, DOI 10.1007/s11365-013-0282-3
+   Lang DJ, 2012, SUSTAIN SCI, V7, P25, DOI 10.1007/s11625-011-0149-x
+   Lopolito A, 2011, FUTURES, V43, P27, DOI 10.1016/j.futures.2010.03.002
+   Lounsbury M, 2002, ACAD MANAGE J, V45, P255, DOI 10.2307/3069295
+   Lounsbury M, 2007, ORGAN STUD, V28, P993, DOI 10.1177/0170840607078111
+   Lund H, 2007, ENERGY, V32, P912, DOI 10.1016/j.energy.2006.10.017
+   Lutz M., 1999, EC COMMON GOOD 2 CEN
+   Maguire S, 2004, ACAD MANAGE J, V47, P657, DOI 10.2307/20159610
+   Marquis C, 2007, ACAD MANAGE REV, V32, P925, DOI 10.5465/AMR.2007.25275683
+   Marquis C, 2013, ORGAN SCI, V24, P39, DOI 10.1287/orsc.1110.0717
+   Mayring P., 2010, HDB QUALITATIVE FORS, P601, DOI [DOI 10.1007/978-3-531-92052-8_42, 10.1007/978-3-531-92052-8_42]
+   Meadows D. H., 1972, LIMITS GROWTH
+   Mieg H. A., 2013, I SOCIAL INNOVATION
+   Moulaert F, 2005, SOCIAL INNOVATION GO
+   Murray R., 2010, SOCIAL INNOVATOR SER
+   NELSON RR, 1959, J POLIT ECON, V67, P297, DOI 10.1086/258177
+   Piketty Thomas, 2014, CAPITAL 21 CENTURY
+   Pollitt C., 2011, PUBLIC MANAGEMENT RE
+   Raffaelli R, 2015, OXFORD HDB CREATIVIT, P407
+   Reckwitz A., 2002, EUR J SOC THEORY, V5, P243, DOI [DOI 10.1177/13684310222225432, 10.1177/13684310222225432]
+   Reihlen M, 2014, HANDBOOK ON THE ENTREPRENEURIAL UNIVERSITY, P112
+   Rogers E., 1962, DIFFUSION INNOVATION
+   Rotmans J., 2001, FORESIGHT, V3, P15, DOI DOI 10.1108/14636680110803003
+   Schreier M, 2012, QUALITATIVE CONTENT
+   Schumpeter J, 1942, CAPITALISM SOCIALISM
+   Scott WR, 2000, I CHANGE HEALTHCARE
+   Seo MG, 2002, ACAD MANAGE REV, V27, P222, DOI 10.5465/AMR.2002.6588004
+   Seyfang Gill, 2007, ENVIRON POLIT, V16, P585
+   Simrnons G, 2018, RES POLICY, V47, P241, DOI 10.1016/j.respol.2017.11.002
+   Smets M, 2012, ACAD MANAGE J, V55, P877, DOI 10.5465/amj.2010.0013
+   Smith A, 2005, RES POLICY, V34, P1491, DOI 10.1016/j.respol.2005.07.005
+   Smith A, 2010, RES POLICY, V39, P435, DOI 10.1016/j.respol.2010.01.023
+   Spaargaren G, 2011, GLOBAL ENVIRON CHANG, V21, P813, DOI 10.1016/j.gloenvcha.2011.03.010
+   Storper M., 1995, EUROPEAN URBAN REGIO, V2, P191, DOI DOI 10.1177/096977649500200301
+   Suddaby R, 2005, ADMIN SCI QUART, V50, P35, DOI 10.2189/asqu.2005.50.1.35
+   Swedberg R, 2009, INTRODUCTION TO SOCIAL ENTREPRENEURSHIP: VOICES, PRECONDITIONS, CONTEXTS, P77
+   Thornton P.H., 2012, I LOGICS PERSPECTIVE
+   Thornton PH, 1999, AM J SOCIOL, V105, P801, DOI 10.1086/210361
+   Truffer B, 2011, REG STUD, V46, P1
+   Twomey P., 2014, REV SYSTEM INNOVATIO
+   United Nations (UN), 2014, WORLD URB PROSP
+   van der Have RP, 2016, RES POLICY, V45, P1923, DOI 10.1016/j.respol.2016.06.010
+   Vickers I, 2017, RES POLICY, V46, P1755, DOI 10.1016/j.respol.2017.08.003
+   Weick KE, 2005, ORGAN SCI, V16, P409, DOI 10.1287/orsc.1050.0133
+   Weik E, 2011, J THEOR SOC BEHAV, V41, P466, DOI 10.1111/j.1468-5914.2011.00467.x
+   Woolthuis RK, 2013, J CLEAN PROD, V50, P91, DOI 10.1016/j.jclepro.2012.11.031
+   World Economic Forum, 2017, ANN M REP
+   Ziegler R, 2017, INNOVATION-ABINGDON, V30, P388, DOI 10.1080/13511610.2017.1348935
+NR 99
+TC 0
+Z9 0
+SN 0048-7333
+EI 1873-7625
+PD JUN
+PY 2018
+VL 47
+IS 5
+BP 911
+EP 923
+DI 10.1016/j.respol.2018.02.015
+UT WOS:000433265500007
+ER
+
+PT J
+AU Sanderson, EW
+   Walston, J
+   Robinson, JG
+AF Sanderson, Eric W.
+   Walston, Joseph
+   Robinson, John G.
+TI From Bottleneck to Breakthrough: Urbanization and the Future of
+   Biodiversity Conservation
+SO BIOSCIENCE
+DE demographic transition; poverty alleviation; cities; natural resources;
+   consumption
+ID POPULATION-GROWTH; WORLD-POPULATION; PROTECTED AREAS; HUMAN FOOTPRINT;
+   CITIES; SUSTAINABILITY; LIVELIHOODS; AFRICA
+AB For the first time in the Anthropocene, the global demographic and economic trends that have resulted in unprecedented destruction of the environment are now creating the necessary conditions for a possible renaissance of nature. Drawing reasonable inferences from current patterns, we can predict that 100 years from now, the Earth could be inhabited by between 6 and 8 billion people, with very few remaining in extreme poverty, most living in towns and cities, and nearly all participating in a technologically driven, interconnected market economy. Building on the scholarship of others in demography, economics, sociology, and conservation biology, here, we articulate a theory of social-environmental change that describes the simultaneous and interacting effects of urban lifestyles on fertility, poverty alleviation, and ideation. By recognizing the shifting dynamics of these macrodrivers, conservation practice has the potential to transform itself from a discipline managing declines ("bottleneck") to a transformative movement of recovery ("breakthrough").
+CR Angel S., 2012, PLANET OF CITIES
+   Asafu-Adjaye J, 2015, ECOMODERNIST MANIFES
+   Ausubel JH, 2000, TECHNOL SOC, V22, P289, DOI 10.1016/S0160-791X(00)00014-2
+   Barro RJ, 2016, BARRO LEE ED ATTAINM
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Blomqist L, 2015, NATURE UNBOUND
+   Bourguignon F, 2002, AM ECON REV, V92, P727, DOI 10.1257/00028280260344443
+   Brand S, 2010, WHOLE EARTH DISCIPLI
+   Chandy L, 2011, POVERTY NUMBERS CHAN
+   Chapron G, 2014, SCIENCE, V346, P1517, DOI 10.1126/science.1257553
+   Christiaensen L, 2013, AGR ECON-BLACKWELL, V44, P435, DOI 10.1111/agec.12028
+   City of New York, 2011, PLANYC GREEN GREAT N
+   Cruz M., 2015, ENDING EXTREME POVER
+   Davis M., 2007, PLANET SLUMS
+   DELONG JB, 1988, AM ECON REV, V78, P1138
+   Dudwick N., 2011, FARM FIRM RURAL URBA
+   Dyson T., 2010, POPULATION DEV DEMOG
+   EHRENFELD D, 2003, CONSERV SOC, V1, P99
+   EHRLICH PR, 1972, SCI PUBLIC AFF, V28, P16
+   Gerland P, 2014, SCIENCE, V346, P234, DOI 10.1126/science.1257469
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Goldewijk KK, 2010, HOLOCENE, V20, P565, DOI 10.1177/0959683609356587
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Guneralp B, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/1/014025
+   Hawk W, 2013, EXPENDITURES URBAN R
+   Jiang LW, 2017, GLOBAL ENVIRON CHANG, V42, P193, DOI 10.1016/j.gloenvcha.2015.03.008
+   Jolliffe D. M., 2015, INT POVERTY LINE HAS
+   Jones CI., 2013, MACROECONOMICS
+   Karanth KK, 2007, BIOL CONSERV, V139, P315, DOI 10.1016/j.biocon.2007.07.004
+   Kareiva P, 2012, BIOSCIENCE, V62, P962, DOI 10.1525/bio.2012.62.11.5
+   Kessides C., 2005, AFRICA REGION WORKIN, V97
+   Keynes J. M, 1936, GEN THEORY EMPLOYMEN
+   Livi-Bacci M., 2012, CONCISE HIST WORLD P
+   Lomborg B., 2001, SKEPTICAL ENV MEASUR
+   Lutz W, 2002, PHILOS T ROY SOC B, V357, P1197, DOI 10.1098/rstb.2002.1121
+   Lutz W, 2014, SCIENCE, V346, P560, DOI 10.1126/science.346.6209.561-a
+   Mace R, 2008, SCIENCE, V319, P764, DOI 10.1126/science.1153960
+   Maddison Angus, 2007, CONTOURS WORLD EC 1
+   Maralani V, 2008, DEMOGRAPHY, V45, P693, DOI 10.1353/dem.0.0013
+   Martine G, 2013, FERTILITY DECLINE CA
+   McDonald P, 2000, POPUL DEV REV, V26, P427, DOI 10.1111/j.1728-4457.2000.00427.x
+   Mcdonald RI, 2008, BIOL CONSERV, V141, P1695, DOI 10.1016/j.biocon.2008.04.025
+   McEvedy Colin, 1978, ATLAS WORLD POPULATI
+   McNeill J. R., 2001, SOMETHING NEW SUN EN
+   Meadows D, 2004, LIMITS GROWTH 30 YEA
+   Meyer W, 2013, ENV ADVANTAGES CITIE
+   Mittermeier RA, 2005, MEGADIVERSITY EARTHS
+   Naughton-Treves L, 2005, ANNU REV ENV RESOUR, V30, P219, DOI 10.1146/annurev.energy.30.050504.164507
+   Newman P, 1999, SUSTAINABILITY CITIE
+   Nicholls WJ, 2008, INT J URBAN REGIONAL, V32, P841, DOI 10.1111/j.1468-2427.2008.00820.x
+   Nicholson W, 2011, MICROECONOMIC THEORY
+   Notestein FrankW, 1945, FOOD WORLD, P36
+   O'Neill BC, 2017, GLOBAL ENVIRON CHANG, V42, P169, DOI 10.1016/j.gloenvcha.2015.01.004
+   Olinto P, 2013, EC PREMISE, V125, P1
+   Pickett STA, 2011, J ENVIRON MANAGE, V92, P331, DOI 10.1016/j.jenvman.2010.08.022
+   Pigou A. C., 1920, EC WELFARE
+   Piketty Thomas, 2014, CAPITAL 21 CENTURY
+   Pimm S, 2001, NATURE, V414, P149, DOI 10.1038/35102629
+   Potts D, 2009, ENVIRON URBAN, V21, P253, DOI 10.1177/0956247809103026
+   Reardon T., 2014, URBANIZATION DIET CH
+   Rees W, 1996, ENVIRON IMPACT ASSES, V16, P223, DOI 10.1016/S0195-9255(96)00022-4
+   Robinson JG, 2011, BIOL CONSERV, V144, P958, DOI 10.1016/j.biocon.2010.04.017
+   Rockstrom J, 2009, NATURE, V461, P472, DOI 10.1038/461472a
+   Samir KC, 2017, GLOBAL ENVIRON CHANG, V42, P181, DOI 10.1016/j.gloenvcha.2014.06.004
+   Sanderson EW, 2002, BIOSCIENCE, V52, P891, DOI 10.1641/0006-3568(2002)052[0891:THFATL]2.0.CO;2
+   Sanderson EW, 2017, SCIENCE, V356, P260
+   Sanderson EW., 2013, TERRA NOVA NEW WORLD
+   Sayre NF, 2008, ANN ASSOC AM GEOGR, V98, P120, DOI 10.1080/00045600701734356
+   Scherbov S, 2011, POPUL DEV REV, V37, P571, DOI 10.1111/j.1728-4457.2011.00435.x
+   Secretariat of the Convention on Biological Diversity and United Nations Environment Programme, 2014, GLOB BIOD OUTL 4 MID
+   Serageldin M, 2014, URBAN MIGRATION TREN
+   Seto KC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0023777
+   Shellenberger Michael, 2007, BREAK DEATH ENV POLI
+   Shellenberger Michael, 2004, DEATH ENV
+   Soule M, 2013, CONSERV BIOL, V27, P895, DOI 10.1111/cobi.12147
+   Steffen W, 2011, PHILOS T R SOC A, V369, P842, DOI 10.1098/rsta.2010.0327
+   Turok I, 2013, ENVIRON URBAN, V25, P465, DOI 10.1177/0956247813490908
+   [UN DESA] UN Department of Economic and Social Affairs Population Division, 2004, STESASERA236
+   [UN DESA] UN Department of Economic and Social Affairs Population Division, 2014, STESASERA366
+   UN DESA (UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS), 2015, ESAPWP241
+   UN-Habitat, 2013, STAT WORLDS CIT 2012
+   Venter O, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms12558
+   Visconti P, 2016, CONSERV LETT, V9, P5, DOI 10.1111/conl.12159
+   von Weizsacker E. U., 2011, DEC NAT RES US ENV I
+   Wackernagel M, 1996, OUR ECOLOGICAL FOOTP
+   Walston J, 2010, PLOS BIOL, V8, DOI 10.1371/journal.pbio.1000485
+   Ward JD, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0164733
+   World Bank, 2016, WORLD BANK OP DAT
+   World Bank, 2016, GLOB CONS DAT
+   World Bank [IMF] International Monetary Fund, 2013, GLOB MON REP RUR URB
+NR 90
+TC 2
+Z9 2
+SN 0006-3568
+EI 1525-3244
+PD JUN
+PY 2018
+VL 68
+IS 6
+BP 412
+EP 426
+DI 10.1093/biosci/biy039
+UT WOS:000434112200004
+PM 29867252
+ER
+
+PT J
+AU Gill, B
+   Moeller, S
+AF Gill, Bernhard
+   Moeller, Simon
+TI GHG Emissions and the Rural-Urban Divide. A Carbon Footprint Analysis
+   Based on the German Official Income and Expenditure Survey
+SO ECOLOGICAL ECONOMICS
+DE Carbon footprint; Income and expenditure survey; Germany; Density
+   effect; Environmental taxes; Social equity
+ID GREENHOUSE-GAS EMISSIONS; ENVIRONMENTAL TAX-REFORM; INPUT-OUTPUT
+   DATABASES; CO2 EMISSIONS; HOUSEHOLD CONSUMPTION; ENERGY-REQUIREMENTS;
+   RESIDENTIAL AREAS; CITIES; LIFE; IMPACT
+AB Will climate change be mitigated automatically by ongoing processes of urbanization as proposed by the "dense cities" hypothesis? Our answer is based on the German official income and expenditure survey (EVS) of 2013, which allow us to disaggregate total household expenditures into 44 consumer good categories (COICOP) and their respective GHG intensities. Results show that the density effect of cities saves some greenhouse gas (GHG) emissions in Germany, but singularisation of households, higher Incomes and greater consumption opportunities in cities work in the opposite direction. Thus, smaller and larger municipalities are more or less on par with each other in terms of per capita emissions. Rural households are found to be more affected by environmental taxes which are imposed on direct rather than on indirect energy use in the course of German "Energiewende" policy reform. This is discussed in the article as a rural-urban social equity problem.
+OI Gill, Bernhard/0000-0001-8640-8557
+CR Ala-Mantila S, 2014, ECOL ECON, V104, P129, DOI 10.1016/j.ecolecon.2014.04.019
+   Alonso W., 1964, LOCATION LAND USE GE
+   Anderson WP, 1996, URBAN STUD, V33, P7, DOI 10.1080/00420989650012095
+   Baiocchi G, 2010, J IND ECOL, V14, P50, DOI 10.1111/j.1530-9290.2009.00216.x
+   Becker G., 1981, TREATISE FAMILY
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bosquet B, 2000, ECOL ECON, V34, P19, DOI 10.1016/S0921-8009(00)00173-7
+   Buchs M, 2013, ECOL ECON, V90, P114, DOI 10.1016/j.ecolecon.2013.03.007
+   BULLARD CW, 1975, P IEEE, V63, P484, DOI 10.1109/PROC.1975.9775
+   BULLARD CW, 1975, ENERG POLICY, V3, P268, DOI 10.1016/0301-4215(75)90035-X
+   Chai A, 2010, J ECON PERSPECT, V24, P225, DOI 10.1257/jep.24.1.225
+   Chitnis M, 2014, ECOL ECON, V106, P12, DOI 10.1016/j.ecolecon.2014.07.003
+   Cohen C, 2005, ENERG POLICY, V33, P555, DOI 10.1016/j.enpol.2003.08.021
+   Cramer Kathy, 2016, POLITICS RESENTMENT
+   Davis SJ, 2010, P NATL ACAD SCI USA, V107, P5687, DOI 10.1073/pnas.0906974107
+   Dey C., 2007, WATER WIND ART DEBAT, P280
+   Dodman D, 2009, ENVIRON URBAN, V21, P185, DOI 10.1177/0956247809103016
+   Druckman A, 2009, ECOL ECON, V68, P2066, DOI 10.1016/j.ecolecon.2009.01.013
+   Ekins P, 2011, ECOL ECON, V70, P2472, DOI 10.1016/j.ecolecon.2011.08.004
+   Erickson P, 2012, ENVIRON SCI TECHNOL, V46, P3679, DOI 10.1021/es203731e
+   Friedman Milton, 1957, THEORY CONSUMPTION F
+   Gawel E, 2015, SUSTAINABILITY-BASEL, V7, P16599, DOI 10.3390/su71215834
+   Gill B, 2017, BOURDIEU EN IN PRESS
+   Girod B, 2010, J IND ECOL, V14, P31, DOI 10.1111/j.1530-9290.2009.00202.x
+   Glaeser E., 2001, J ECON GEOGR, V1, P27, DOI DOI 10.1093/JEG/1.1.27
+   Glaeser E, 2011, SCIENCE, V333, P592, DOI 10.1126/science.1209264
+   Glaeser Edward., 2011, TRIUMPH CITY OUR GRE
+   Gough I., 2011, CASE152 LSE STICERD
+   Habla W, 2013, J ENVIRON ECON MANAG, V66, P301, DOI 10.1016/j.jeem.2013.02.002
+   Hagenaars A. J., 1994, POVERTY STAT LATE 19
+   Heinonen J., 2013, ENV RES LETT, V8
+   Herendeen R., 1976, ENERGY, V1, P165, DOI 10.1016/0360-5442(76)90015-3
+   Hertwich EG, 2005, ENVIRON SCI TECHNOL, V39, P4673, DOI 10.1021/es0497375
+   Hoekstra R, 2014, SUSTAIN ACCOUNT MANA, V5, P325, DOI 10.1108/SAMPJ-01-2014-0006
+   Holden E, 2005, URBAN STUD, V42, P2145, DOI 10.1080/00420980500332064
+   Hoornweg D, 2011, URB DEV SER, P1, DOI 10.1596/978-0-8213-8493-0
+   Hoornweg D, 2011, ENVIRON URBAN, V23, P207, DOI 10.1177/0956247810392270
+   Jackson T., 2006, INT C REG URB MOD BR, P1
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   Jones CM, 2011, ENVIRON SCI TECHNOL, V45, P4088, DOI 10.1021/es102221h
+   Kenworthy JR, 1999, TRANSPORT RES A-POL, V33, P691, DOI 10.1016/S0965-8564(99)00006-3
+   KRUGMAN P, 1991, J POLIT ECON, V99, P483, DOI 10.1086/261763
+   Kuhnen C., 2001, METHODENBERICHTE STA
+   Kuishuang Feng, 2016, Energy, Ecology and Environment, V1, P39, DOI 10.1007/s40974-016-0015-x
+   Lahteenoja S., 2008, P C SUST CONS RES SC, P319
+   Lenzen M, 2004, ECOL ECON, V49, P375, DOI 10.1016/j.ecolecon.2004.01.019
+   Lenzen M., 2001, ECON SYST RES, V13, P65, DOI DOI 10.1080/09535310120026256
+   Mantau U, 2012, STANDORTE HOLZWIRTSC
+   Mayer H, 2011, EXTENDED INPUT OUTPU
+   Mayer H., 2014, NACHHALTIGER KONSUM, V17, P2014
+   Mayer H., 2014, DIREKTE INDIREKTE CO, P355
+   McCright AM, 2013, J RISK RES, V16, P211, DOI 10.1080/13669877.2012.726242
+   Minx J, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/3/035039
+   Minx JC, 2011, ENVIRON SCI TECHNOL, V45, P9144, DOI 10.1021/es201497m
+   Modigliani F, 1954, POSTKEYNESIAN EC
+   Munksgaard J, 2000, ENERG ECON, V22, P423, DOI 10.1016/S0140-9883(99)00033-X
+   Munksgaard J, 2001, ENERG POLICY, V29, P327, DOI 10.1016/S0301-4215(00)00120-8
+   Narbel P. A., 2014, CARBON FOOTPRINT PRO
+   Nassen J, 2014, ENERGY, V66, P98, DOI 10.1016/j.energy.2014.01.019
+   Norman J, 2006, J URBAN PLAN D-ASCE, V132, P10, DOI 10.1061/(ASCE)0733-9488(2006)132:1(10)
+   Peters G., 2004, PRODUCTION FACTORS P
+   Peters GP, 2008, ECOL ECON, V65, P13, DOI 10.1016/j.ecolecon.2007.10.014
+   Poumanyvong P, 2010, ECOL ECON, V70, P434, DOI 10.1016/j.ecolecon.2010.09.029
+   Puga D, 2010, J REGIONAL SCI, V50, P203, DOI 10.1111/j.1467-9787.2009.00657.x
+   Rau H, 2012, GROWTH CHANGE, V43, P667, DOI 10.1111/j.1468-2257.2012.00602.x
+   Rosenthal S., 2004, HDB REGIONAL URBAN E, V4, P2119, DOI DOI 10.1016/S1574-0080(04)80006-3
+   Schlumpf C., 1999, ENVIRON MODEL ASSESS, V4, P1
+   Schubert J, 2015, HANDB RES METH APPL, P407
+   Schubert J, 2013, ENVIRON POLICY GOV, V23, P13, DOI 10.1002/eet.1600
+   Schulte I, 2017, ENERG POLICY, V102, P512, DOI 10.1016/j.enpol.2016.12.055
+   Siedentop S., 2008, INFORM RAUMENTWICKLU, P193
+   Sieferle R.P., 2001, SUBTERRANEAN FOREST
+   Statistisches Bundesamt, 2013, AUFG METH DURCHF WIR
+   Statistisches Bundesamt, 2015, EINK VERBR EVS SCI U
+   Steen-Olsen K, 2016, ECON SYST RES, V28, P78, DOI 10.1080/09535314.2016.1141751
+   Steininger K. W., 2015, NAT CLIM CHANGE
+   Steininger K, 2014, GLOBAL ENVIRON CHANG, V24, P75, DOI 10.1016/j.gloenvcha.2013.10.005
+   Strunz S, 2014, ECOL ECON, V100, P150, DOI 10.1016/j.ecolecon.2014.01.019
+   Underwood A, 2015, ECOL ECON, V116, P182, DOI 10.1016/j.ecolecon.2015.04.028
+   VandeWeghe JR, 2007, J IND ECOL, V11, P133, DOI 10.1162/jie.2007.1220
+   Weber C, 2000, ENERG POLICY, V28, P549, DOI 10.1016/S0301-4215(00)00040-9
+   Weber I, 2016, SOC ECOL, V25
+   Wiedmann T, 2007, ECOL ECON, V61, P15, DOI 10.1016/j.ecolecon.2006.12.003
+   Wier M., 2001, ECON SYST RES, V13, P259, DOI DOI 10.1080/09537320120070149
+   Wirth L, 1938, AM J SOCIOL, V44, P1, DOI 10.1086/217913
+NR 85
+TC 8
+Z9 8
+SN 0921-8009
+EI 1873-6106
+PD MAR
+PY 2018
+VL 145
+BP 160
+EP 169
+DI 10.1016/j.ecolecon.2017.09.004
+UT WOS:000424316700015
+ER
+
+PT J
+AU Fredericks, WL
+   Sripad, S
+   Bower, GC
+   Viswanathan, V
+AF Fredericks, William L.
+   Sripad, Shashank
+   Bower, Geoffrey C.
+   Viswanathan, Venkatasubramanian
+TI Performance Metrics Required of Next Generation Batteries to Electrify
+   Vertical Takeoff and Landing (VTOL) Aircraft
+SO ACS ENERGY LETTERS
+ID LIFE
+OI Viswanathan, Venkatasubramanian/0000-0003-1060-5495
+CR [Anonymous], BELL BOEING V 22 OSP
+   Astro E., VEHICLE MODERN AGE
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bloomberg New Energy Finance, 2018, EL VEH OUTL
+   Brelje B. J, 2018, PROG AEROSP SCI, DOI [10.1016/j.paerosci.20I8.06.004., DOI 10.1016/J.PAEROSCI.20I8.06.004]
+   Brown A, 2018, VEHICLE DESIGN OPTIM
+   Cano ZP, 2018, NAT ENERGY, V3, P279, DOI 10.1038/s41560-018-0108-1
+   Duffy M. J, 2017, STUDY REDUCING COST
+   Eroglu D, 2014, J POWER SOURCES, V267, P14, DOI 10.1016/j.jpowsour.2014.05.071
+   Falck R. D., 2018, MULTIDISCIPLINARY OP
+   Gipson L, NASA EMBRACES URBAN
+   Holden J, 2016, ELEVATE FAST FORWARD
+   International Energy Agency, 2017, GLOB EV OUTL
+   Kim H. D, 2018, REV DISTRIBUTED ELEC
+   Lovering Z, 2016, VAHANA CONFIGURATI 1
+   MathWorks, 2018, ATM AER TOOLB DOC
+   McCloskey BD, 2015, J PHYS CHEM LETT, V6, P3592, DOI 10.1021/acs.jpclett.5b01813
+   McDonald R, 2017, EVTOL STORED ENERGY
+   Moore M. D, 2003, AIAA J, P2003
+   Muoio D, BUSINESS INSIDER
+   Petroff A, CNN BUSINESS THESE C
+   Propfe B, 2012, WORLD ELECT VEHICLE, V5, P886
+   Raymer D. P., 2012, AIRCRAFT DESIGN CONC
+   Schmuch R, 2018, NAT ENERGY, V3, P267, DOI 10.1038/s41560-018-0107-2
+   Seddon J, 2002, BASIC HELICOPTER AER
+   Silva C, 2018, VTOL URBAN AIR MOBIL
+   Sripad S, 2017, ACS ENERGY LETT, V2, P1669, DOI 10.1021/acsenergylett.7b00432
+   Stoll A. M, 2014, DRAG REDUCTION DISTR
+   Vetter J, 2005, J POWER SOURCES, V147, P269, DOI 10.1016/j.jpowsour.2005.01.006
+   Wood E, 2011, J POWER SOURCES, V196, P5147, DOI 10.1016/j.jpowsour.2011.02.025
+   Yang XG, 2018, J POWER SOURCES, V402, P489, DOI 10.1016/j.jpowsour.2018.09.069
+NR 31
+TC 0
+Z9 0
+SN 2380-8195
+PD DEC
+PY 2018
+VL 3
+IS 12
+BP 2989
+EP 2994
+DI 10.1021/acsenergylett.8b02195
+UT WOS:000453805100018
+ER

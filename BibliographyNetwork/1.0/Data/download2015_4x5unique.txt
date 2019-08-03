@@ -1,0 +1,585 @@
+
+PT J
+AU Banerjee, S
+   Van Hentenryck, P
+   Cebrian, M
+AF Banerjee, Soumya
+   Van Hentenryck, Pascal
+   Cebrian, Manuel
+TI Competitive dynamics between criminals and law enforcement explains the
+   super-linear scaling of crime in cities
+SO PALGRAVE COMMUNICATIONS
+LA English
+DT Article
+AB While cities have been the engine for innovation and growth for many millennia, they have also endured disproportionately more crime than smaller cities. Similarly to other urban sociological quantities, such as income, gross domestic product (GDP) and number of granted patents, it has been observed that crime scales super-linearly with city size. The default assumption is that super-linear scaling of crime, like other urban attributes, derives from agglomerative effects (that is, increasing returns from potentially more productive connections among criminals). However, crime initiation appears to be generated linearly with the population of a city, and the number of law enforcement officials scales sublinearly with city population. We hypothesize that the observed scaling exponent for net crime in a city is the result of competing dynamics between criminals and law enforcement, each with different scaling exponents, and where criminals win in the numbers game. We propose a simple dynamical model able to accommodate these empirical observations, as well as the potential multiple scaling regimes emerging from the competitive dynamics between crime and law enforcement. Our model is also general enough to be able to correctly account for crime in universities, where university crime does not scale super-linearly, but linearly with enrolment size.
+C1 [Banerjee, Soumya] Harvard Sch Publ Hlth, Dept Biostat, Boston, MA 02115 USA.
+   [Banerjee, Soumya] Broad Inst MIT & Harvard, Cambridge, MA 02142 USA.
+   [Banerjee, Soumya] Complex Biol Syst Alliance, N Andover, MA USA.
+   [Banerjee, Soumya] Ronin Inst, Montclair, NJ USA.
+   [Banerjee, Soumya] Harvard Med Sch, Boston, MA USA.
+   [Van Hentenryck, Pascal; Cebrian, Manuel] Natl Informat & Commun Technol Australia, Melbourne, Vic, Australia.
+RP Banerjee, S (reprint author), Harvard Sch Publ Hlth, Dept Biostat, Boston, MA 02115 USA.
+EM neel.soumya@gmail.com
+FU National Information and Communications Technology Australia (NICTA);
+   Australian Government; Australian Research Council through the ICT
+   Centre of Excellence program
+FX SB acknowledges financial support from the National Information and
+   Communications Technology Australia (NICTA) in sponsoring a research
+   visit during which this project was initiated. PVH and MC are funded by
+   the Australian Government as represented by the Department of Broadband,
+   Communications and the Digital Economy and the Australian Research
+   Council through the ICT Centre of Excellence program. The authors also
+   wish to thank Dr. Michael Gastner for suggesting the use of semi-major
+   axis regression for testing superlinear scaling.
+CR [Anonymous], 2012, MATLAB STAT TOOLB RE
+   Banerjee S, 2015, DATAVERSE, DOI [10.7910/DVN/ELSYXO, DOI 10.7910/DVN/ELSYXO]
+   Banerjee S, 2009, ARXIV09052649
+   Banerjee S, 2013, THESIS
+   Banerjee SG, 2011, DIR DEV, P1, DOI [10.1007/978-3-642-22371-6_1, 10.1596/978-0-8213-8457-2]
+   Banerjee S, 2010, SWARM INTELL-US, V4, P301, DOI 10.1007/s11721-010-0048-2
+   Banerjee S, 2010, LECT NOTES COMPUT SC, V6209, P116, DOI 10.1007/978-3-642-14547-6_10
+   Banerjee S, 2009, LECT NOTES COMPUT SC, V5666, P14, DOI 10.1007/978-3-642-03246-2_5
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Baudains P, 2013, POLIC-J POLICY PRACT, V7, P21, DOI 10.1093/police/pas049
+   Baudains P, 2013, APPL GEOGR, V45, P211, DOI 10.1016/j.apgeog.2013.09.010
+   Baudains P, 2013, CRIMINOLOGY, V51, P251, DOI 10.1111/1745-9125.12004
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Cullen JB, 1999, REV ECON STAT, V81, P159, DOI 10.1162/003465399558030
+   D'Orsogna MR, 2015, PHYS LIFE REV, V12, P1, DOI 10.1016/j.plrev.2014.11.001
+   Davies TP, 2013, SCI REP-UK, V3, DOI 10.1038/srep01303
+   Duijn PAC, 2014, SCI REP-UK, V4, DOI 10.1038/srep04238
+   Glaeser E., 2011, TRIUMPH CITY OUR GRE
+   Glaeser E. L, 1996, J POLITICAL EC, V107, P225
+   Gould ED, 2002, REV ECON STAT, V84, P45, DOI 10.1162/003465302317331919
+   Helbing D, 2015, J STAT PHYS, V158, P735, DOI 10.1007/s10955-014-1024-9
+   Johnson N, 2011, SCIENCE, V333, P81, DOI 10.1126/science.1205068
+   Keizer K, 2008, SCIENCE, V322, P1681, DOI 10.1126/science.1161405
+   Lichman M., 2013, UCI MACHINE LEARNING
+   McMillon D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0088923
+   Moses M., 2011, 2011 IEEE SSCI Symposium on Artificial Life (ALIFE), P30, DOI 10.1109/ALIFE.2011.5954663
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Perc M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0076063
+   Redmond M, 2002, EUR J OPER RES, V141, P660, DOI 10.1016/S0377-2217(01)00264-8
+   Salesses P, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0068400
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Short MB, 2010, P NATL ACAD SCI USA, V107, P3961, DOI 10.1073/pnas.0910921107
+   Tumminello M, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0064703
+   United States Department of Justice Federal Bureau of Investigation, 1995, CRIME US
+   Warton DI, 2006, BIOL REV, V81, P259, DOI 10.1017/S1464793106007007
+   Warton DI, 2012, METHODS ECOL EVOL, V3, P257, DOI 10.1111/j.2041-210X.2011.00153.x
+   Youn HJ, 2015, J R SOC INTERFACE, V12, DOI 10.1098/rsif.2015.0272
+NR 39
+TC 1
+Z9 1
+U1 0
+U2 0
+PU PALGRAVE MACMILLAN LTD
+PI BASINGSTOKE
+PA BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE RG21 6XS, HANTS, ENGLAND
+SN 2055-1045
+J9 PALGR COMMUN
+JI Palgr. Commun.
+PY 2015
+VL 1
+AR 15022
+DI 10.1057/palcomms.2015.22
+PG 7
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+GA VH5BC
+UT WOS:000453320600026
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Monteiro, JFG
+   Marshall, BDL
+   Escudero, D
+   Sosa-Rubi, SG
+   Gonzalez, A
+   Flanigan, T
+   Operario, D
+   Mayer, KH
+   Lurie, MN
+   Galarraga, O
+AF Monteiro, Joao Filipe G.
+   Marshall, Brandon D. L.
+   Escudero, Daniel
+   Sosa-Rubi, Sandra G.
+   Gonzalez, Andrea
+   Flanigan, Timothy
+   Operario, Don
+   Mayer, Kenneth H.
+   Lurie, Mark N.
+   Galarraga, Omar
+TI Preventing HIV Transmission Among Partners of HIV-Positive Male Sex
+   Workers in Mexico City: A Modeling Study
+SO AIDS AND BEHAVIOR
+LA English
+DT Article
+DE Epidemiology; Men who have sex with men; Monte Carlo simulation methods;
+   Data imputation; HIV prevention
+ID SEXUALLY-TRANSMITTED INFECTIONS; US BORDER CITIES; ANTIRETROVIRAL
+   THERAPY; HIGH PREVALENCE; RISK; TRANSGENDER; BEHAVIORS; MARKET; MEN
+AB Mexico has a concentrated HIV epidemic, with male sex workers constituting a key affected population. We estimated annual HIV cumulative incidence among male sex workers' partners, and then compared incidence under three hypothetical intervention scenarios: improving condom use; and scaling up HIV treatment as prevention, considering current viral suppression rates (CVS, 60.7 %) or full viral suppression among those treated (FVS, 100 %). Clinical and behavioral data to inform model parameterization were derived from a sample (n = 79) of male sex workers recruited from street locations and Clinica Condesa, an HIV clinic in Mexico City. We estimated annual HIV incidence among male sex workers' partners to be 8.0 % (95 % CI: 7.3-8.7). Simulation models demonstrated that increasing condom use by 10 %, and scaling up HIV treatment initiation by 50 % (from baseline values) would decrease the male sex workers-attributable annual incidence to 5.2, 4.4 % (CVS) and 3.2 % (FVS), respectively. Scaling up the number of male sex workers on ART and implementing interventions to ensure adherence is urgently required to decrease HIV incidence among male sex workers' partners in Mexico City.
+C1 [Monteiro, Joao Filipe G.; Marshall, Brandon D. L.; Escudero, Daniel; Operario, Don; Lurie, Mark N.; Galarraga, Omar] Brown Univ, Sch Publ Hlth, Providence, RI 02912 USA.
+   [Monteiro, Joao Filipe G.; Flanigan, Timothy] Miriam Hosp, Providence, RI 02906 USA.
+   [Sosa-Rubi, Sandra G.] Natl Inst Publ Hlth INSP, Cuernavaca, Morelos, Mexico.
+   [Gonzalez, Andrea] Clin Especializada Condesa, Mexico City, DF, Mexico.
+   [Mayer, Kenneth H.] Fenway Inst, Boston, MA USA.
+   [Mayer, Kenneth H.] Beth Israel Deaconess Med Ctr, Boston, MA 02215 USA.
+   [Mayer, Kenneth H.] Harvard Univ, Sch Med, Boston, MA USA.
+RP Galarraga, O (reprint author), Brown Univ, Sch Publ Hlth, 121 South Main St,Box G-121S-7, Providence, RI 02912 USA.
+EM omar_galarraga@brown.edu
+OI Galarraga, Omar/0000-0002-9985-9266
+FU US National Institutes of Health [R21HD065525]; Mexican National Center
+   for HIV/AIDS Control and Prevention (CENSIDA); T32 Training Program in
+   HIV and other Consequences of Substance Abuse [T32-DA013911]; Richard B.
+   Salomon Faculty Research Award from Brown University; National Institute
+   of Allergy and Infectious Diseases [P30AI042853]
+FX We gratefully acknowledge the Punto Seguro staff members: Nathalie Gras,
+   Octavio Parra, Jehovani Tena. Biani Saavedra, Fernando Ruiz and Cecilia
+   Hipolito provided research assistance; Dr. Carlos Conde's INSP
+   laboratory with Maria Olamendi and Santa Garcia conducted the PCR
+   diagnosis of chlamydia and gonococcus in urine samples. Dr. Florentino
+   Badial-Hernandez and Luis Juarez-Figueroa contributed to participants
+   recruitment, care, and HIV testing. Questionnaires were programmed into
+   A-CASI by CEO (Edgar Diaz). Project management and administration:
+   CISI-DAT (Research Consortium on HIV/AIDS and TB). We especially thank
+   the participants for agreeing to become part of Punto Seguro. Supported
+   by: US National Institutes of Health (R21HD065525; "Conditional economic
+   incentives to reduce HIV risk: A pilot in Mexico''; PI: Galarraga); and
+   the Mexican National Center for HIV/AIDS Control and Prevention
+   (CENSIDA). Dr. Filipe Monteiro is supported by a postdoctoral
+   fellowship, T32 Training Program in HIV and other Consequences of
+   Substance Abuse (Grant Number T32-DA013911). Dr. Brandon Marshall is
+   supported by a Richard B. Salomon Faculty Research Award from Brown
+   University. This publication was made possible with help from the
+   Lifespan/Tufts/ Brown Center for AIDS Research. The described project
+   was supported by Grant Number P30AI042853 from the National Institute of
+   Allergy and Infectious Diseases. The content is solely of responsibility
+   of the authors and does not necessarily represent the official views of
+   the any of the National Institutes of Health.
+CR Baggaley RF, 2010, INT J EPIDEMIOL, V39, P1048, DOI 10.1093/ije/dyq057
+   Balaji AB, 2013, AIDS, V27, P269, DOI 10.1097/QAD.0b013e32835ad489
+   Baral S, 2010, AIDS CARE, V22, P112, DOI 10.1080/09540120903012551
+   Barron-Limon S, 2012, BMC PUBLIC HEALTH, V12, DOI 10.1186/1471-2458-12-433
+   Bautista-Arredondo S, 2012, I NACL SALUD PUBLICA, V3
+   Bautista-Arredondo S, 2008, SALUD PUBLICA MEXICO, V50, pS437, DOI 10.1590/s0036-36342008001000004
+   Bautista-Arredondo S, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0072616
+   Cai WD, 2010, SEX TRANSM INFECT, V86, P15, DOI 10.1136/sti.2009.037440
+   Cohen MS, 2013, LANCET, V382, P1515, DOI 10.1016/S0140-6736(13)61998-4
+   Cohen MS, 2011, NEW ENGL J MED, V365, P493, DOI 10.1056/NEJMoa1105243
+   CONASIDA, 2012, INF NAC AV LUCH CONT
+   Crabtree-Ramirez B, 2012, SALUD PUBLICA MEXICO, V54, P506, DOI 10.1590/S0036-36342012000500007
+   Crabtree-Ramirez B, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0020272
+   Deiss RG, 2008, SEX TRANSM DIS, V35, P243, DOI 10.1097/OLQ.0b013e31815abab5
+   Farias MSD, 2011, INT J INFECT DIS, V15, pE635, DOI 10.1016/j.ijid.2011.05.007
+   Fan X, 2002, SAS MONTE CARLO STUD, P272
+   Galarraga O, 2014, EUR J HEALTH ECON, V15, P41, DOI 10.1007/s10198-012-0447-y
+   Gertler P, 2005, J POLIT ECON, V113, P518, DOI 10.1086/429700
+   Guadamuz TE, 2010, AIDS CARE, V22, P597, DOI 10.1080/09540120903280935
+   INEGI, 2010, CENS POBL VIV 2010
+   Infante C, 2009, CULT HEALTH SEX, V11, P125, DOI 10.1080/13691050802431314
+   Kalichman SC, 2003, SEX TRANSM INFECT, V79, P59, DOI 10.1136/sti.79.1.59
+   Kitahata MM, 2009, NEW ENGL J MED, V360, P1815, DOI 10.1056/NEJMoa0807252
+   Leuridan E, 2005, INT J STD AIDS, V16, P744, DOI 10.1258/095646205774763072
+   Li XH, 2003, AM STAT, V57, P193, DOI 10.1198/0003130031883
+   LIGUORI AL, 1999, MEN WHO SELL SEX INT, P103
+   Mariño Rodrigo, 2003, Rev Panam Salud Publica, V13, P311, DOI 10.1590/S1020-49892003000400006
+   McMahon JH, 2013, B WORLD HEALTH ORGAN, V91, P377, DOI 10.2471/BLT.12.112946
+   Muessig KE, 2012, AIDS, V26, P2267, DOI 10.1097/QAD.0b013e328355713d
+   Rao V, 2003, J DEV ECON, V71, P585, DOI 10.1016/S0304-3878(03)00025-7
+   Remien RH, 2014, AIDS BEHAV, V18, P1541, DOI 10.1007/s10461-013-0656-0
+   Robertson AM, 2014, J URBAN HEALTH, V91, P752, DOI 10.1007/s11524-013-9855-2
+   Robertson Angela M, 2013, Glob Public Health, V8, P619, DOI 10.1080/17441692.2012.762412
+   Sax PE, 2009, NEW ENGL J MED, V360, P1897, DOI 10.1056/NEJMe0902713
+   Sethi G, 2006, SEX TRANSM INFECT, V82, P359, DOI 10.1136/sti.2005.019257
+   Shah M, 2013, AM ECON REV, V103, P445, DOI 10.1257/aer.103.3.445
+   Siegfried N, 2010, COCHRANE DB SYST REV, V3
+   Stanecki K, 2010, SEX TRANSM INFECT, V86, pI62, DOI 10.1136/sti.2010.046177
+   Taylor SW, 2014, AIDS BEHAV, V18, P871, DOI 10.1007/s10461-013-0617-7
+   Toledo CA, 2010, AIDS EDUC PREV, V22, P299, DOI 10.1521/aeap.2010.22.4.299
+   Vuylsteke B, 2012, SEX TRANSM INFECT, V88, P288, DOI 10.1136/sextrans-2011-050276
+   Weller S, 2002, COCHRANE DB SYST REV, DOI DOI 10.1002/14651858.CD003255
+   World Health Organization, 2010, ANT THER HIV INF AD
+NR 43
+TC 3
+Z9 3
+U1 1
+U2 4
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1090-7165
+EI 1573-3254
+J9 AIDS BEHAV
+JI AIDS Behav.
+PD SEP
+PY 2015
+VL 19
+IS 9
+BP 1579
+EP 1588
+DI 10.1007/s10461-014-0915-8
+PG 10
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA CQ2EG
+UT WOS:000360411600004
+PM 25307025
+OA Green Accepted
+DA 2019-03-26
+ER
+
+PT J
+AU Xue, Y
+   Pan, W
+   Lu, WZ
+   He, HD
+AF Xue, Yu
+   Pan, Wei
+   Lu, Wei-Zhen
+   He, Hong-Di
+TI Multifractal nature of particulate matters (PMs) in Hong Kong urban air
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Particulate matter; Long-term correlation; Multifractality; Lasting
+   effect; Vehicular emission
+ID CHINESE STOCK-MARKET; POLLUTION; POLLUTANTS; EMISSIONS; DYNAMICS;
+   RETURNS
+AB In this study, we investigate the persistent variation and the multifractal nature of particulate matter (PM) concentrations from vehicle emissions at a typical traffic intersection of street canyon in Hong Kong. Six size groups of PMs are measured and collected during rush hour sessions on different dates respectively. A recently developed model, namely multifractal detrended fluctuation analysis (MF-DFA), is employed to decompose and analyze the collected database. Through estimating the scaling exponent, it is found that the PM levels from vehicular emissions display long-term correlation characters. By employing MF-DFA method to calculate the generalized Hurst exponent and discuss the multifractal spectrums of all size groups, it is noticed that the fine particulate matters in grain diameter of 0.3-0.499 mu m present strong multifractal nature, intensive oscillations of concentration variations, and long-term persistence. For fine particulate matters in the grain diameter ranges from 0.5 mu m to 4.99 mu m, their similar and weak multifractal natures reflect the self-similarity behaviors among these groups and the gradual decreases of the lasting effects. For large size particulate matters, i.e., grain diameter above 5 mu m, certain mono-fractal nature and sharp decay of long-term persistence are obtained, even for intermittent effects. It can therefore be concluded that the fine particulate matter diffuses anomaly and persists for a long time. (c) 2015 Elsevier B.V. All rights reserved.
+C1 [Xue, Yu; Pan, Wei] Guangxi Univ, Inst Phys Sccbvience & Engn, Nanning 53004, Peoples R China.
+   [Pan, Wei; Lu, Wei-Zhen] City Univ Hong Kong, Dept Architecture & Civil Engn, 83 Tat Chee Ave, Kowloon, Hong Kong, Peoples R China.
+   [He, Hong-Di] Shanghai Maritime Univ, Logist Res Ctr, Shanghai 200135, Peoples R China.
+RP Lu, WZ (reprint author), City Univ Hong Kong, Dept Architecture & Civil Engn, 83 Tat Chee Ave, Kowloon, Hong Kong, Peoples R China.
+EM bcwzlu@cityu.edu.hk
+RI Xue, Yu/I-9581-2018
+OI Lu, Wei-Zhen Jane/0000-0001-7421-347X
+FU National Natural Science Foundation of China [11262003, 11302125]; Hong
+   Kong RGC-GRF Grant [CityU 118212]; strategic research grant, City
+   University of Hong Kong [CityU-SRG 7004176]; Innovation Foundation of
+   Shanghai Municipal Ministry of Education [13YZ085]
+FX The work presented here was partially supported by National Natural
+   Science Foundation of China (Grant No. 11262003 & 11302125), Hong Kong
+   RGC-GRF Grant (Grant No. CityU 118212), strategic research grant, City
+   University of Hong Kong (Grant No. CityU-SRG 7004176), & Innovation
+   Foundation of Shanghai Municipal Ministry of Education (Grant No.
+   13YZ085).
+CR Ausloos M, 2002, COMPUT PHYS COMMUN, V147, P582, DOI 10.1016/S0010-4655(02)00372-7
+   Bain L.J., 1978, THEORY AND METHODS
+   Burnett RT, 1999, ARCH ENVIRON HEALTH, V54, P130, DOI 10.1080/00039899909602248
+   Calvet L, 2002, REV ECON STAT, V84, P381, DOI 10.1162/003465302320259420
+   Chan TL, 2005, ATMOS ENVIRON, V39, P6843, DOI 10.1016/j.atmosenv.2005.07.048
+   Cheng X., 2004, ADV ATMOS SCI, V22, P290
+   Chu AKM, 2005, ENVIRON MODELL SOFTW, V20, P273, DOI 10.1016/j.envsoft.2004.05.007
+   Eisler Z, 2007, EPL-EUROPHYS LETT, V77, DOI 10.1209/0295-5075/77/28001
+   Gokhale S, 2007, ENVIRON MODELL SOFTW, V22, P526, DOI 10.1016/j.envsoft.2006.02.008
+   Grech D., 2014, EPL, V105, P50004
+   Grech D, 2013, PHYSICA A, V392, P5845, DOI 10.1016/j.physa.2013.07.045
+   Gu GF, 2007, EUR PHYS J B, V57, P81, DOI 10.1140/epjb/e2007-00158-7
+   Gu GF, 2008, PHYSICA A, V387, P3173, DOI 10.1016/j.physa.2008.01.114
+   He HD, 2009, ATMOS ENVIRON, V43, P6336, DOI 10.1016/j.atmosenv.2009.09.027
+   He LY, 2010, PHYSICA A, V389, P3828, DOI 10.1016/j.physa.2010.05.021
+   He LY, 2010, PHYSICA A, V389, P3218, DOI 10.1016/j.physa.2010.04.007
+   Hu K, 2001, PHYS REV E, V64, DOI 10.1103/PhysRevE.64.011114
+   Jiang ZQ, 2007, EUR PHYS J B, V57, P347, DOI 10.1140/epjb/e2007-00174-7
+   Jiang ZQ, 2007, PHYSICA A, V381, P343, DOI 10.1016/j.physa.2007.03.015
+   KALPASANOV Y, 1976, JAPCA J AIR WASTE MA, V26, P981, DOI 10.1080/00022470.1976.10470349
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   KOTTEGODA NT, 1998, STAT PROBABILITY REL
+   LITTLE M, 2006, P ICASSP 2006
+   Lu WZ, 2008, SCI TOTAL ENVIRON, V395, P109, DOI 10.1016/j.scitotenv.2008.01.035
+   Lu WZ, 2004, SCI TOTAL ENVIRON, V324, P247, DOI 10.1016/j.scitotenv.2003.10.028
+   MAGE DT, 1984, ATMOS ENVIRON, V18, P163, DOI 10.1016/0004-6981(84)90239-7
+   Mantegna RN, 2000, INTRO ECONOPHYSICS C, P14
+   Mu GH, 2010, PHYSCS PROC, V3, P1631, DOI 10.1016/j.phpro.2010.07.003
+   Neubert L, 1999, PHYS REV E, V60, P6480, DOI 10.1103/PhysRevE.60.6480
+   Ott W. R., 1976, Computers & Operations Research, V3, P209, DOI 10.1016/0305-0548(76)90029-0
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   Peters A, 1997, AM J RESP CRIT CARE, V155, P1376, DOI 10.1164/ajrccm.155.4.9105082
+   Romano D, 2004, ENVIRON INT, V30, P1099, DOI 10.1016/j.envint.2004.06.006
+   Ruan YP, 2011, PHYSICA A, V390, P1646, DOI 10.1016/j.physa.2011.01.001
+   Schmitt F, 1999, APPL STOCH MODEL D A, V15, P29
+   Schmitt F., 2000, INT J THEOR APPL FIN, V3, P361
+   Tong E.Y., 1997, JAPCA-INT J AIR POLL, V27, P1008
+   Xia LP, 2005, ENVIRON MODELL SOFTW, V20, P1175, DOI 10.1016/j.envsoft.2004.08.003
+   Zhou WX, 2012, CHAOS SOLITON FRACT, V45, P147, DOI 10.1016/j.chaos.2011.11.004
+   Zhou WX, 2009, EPL-EUROPHYS LETT, V88, DOI 10.1209/0295-5075/88/28004
+NR 40
+TC 10
+Z9 10
+U1 1
+U2 30
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD NOV 1
+PY 2015
+VL 532
+BP 744
+EP 751
+DI 10.1016/j.scitotenv.2015.06.065
+PG 8
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA CQ0LD
+UT WOS:000360286500074
+PM 26124011
+DA 2019-03-26
+ER
+
+PT J
+AU Jafar, TH
+   Jehan, I
+   Liang, F
+   Barbier, S
+   Islam, M
+   Bux, R
+   Khan, AH
+   Nadkarni, N
+   Poulter, N
+   Chaturvedi, N
+   Ebrahim, S
+AF Jafar, Tazeen H.
+   Jehan, Imtiaz
+   Liang, Feng
+   Barbier, Sylvaine
+   Islam, Muhammad
+   Bux, Rasool
+   Khan, Aamir Hameed
+   Nadkarni, Nivedita
+   Poulter, Neil
+   Chaturvedi, Nish
+   Ebrahim, Shah
+TI Control of Blood Pressure and Risk Attenuation: Post Trial Follow-Up of
+   Randomized Groups
+SO PLOS ONE
+LA English
+DT Article
+ID DISEASE; HYPERTENSION; MORTALITY; PAKISTAN; SOCIETY; SODIUM
+AB Background
+   Evidence on long term effectiveness of public health strategies for lowering blood pressure (BP) is scarce. In the Control of Blood Pressure and Risk Attenuation (COBRA) Trial, a 2 x 2 factorial, cluster randomized controlled trial, the combined home health education (HHE) and trained general practitioner (GP) intervention delivered over 2 years was more effective than no intervention (usual care) in lowering systolic BP among adults with hypertension in urban Pakistan. However, it was not clear whether the effect would be sustained after the cessation of intervention. We conducted 7 years follow-up inclusive of 5 years of post intervention period of COBRA trial participants to assess the effectiveness of the interventions on BP during extended follow-up.
+   Methods
+   A total of 1341 individuals 40 years or older with hypertension (systolic BP 140 mm Hg or greater, diastolic BP 90 mm Hg or greater, or already receiving treatment) were followed by trained research staff masked to randomization status. BP was measured thrice with a calibrated automated device (Omron HEM-737 IntelliSense) in the sitting position after 5 minutes of rest. BP measurements were repeated after two weeks. Generalized estimating equations (GEE) were used to analyze the primary outcome of change in systolic BP from baseline to 7-year follow-up. The multivariable model was adjusted for clustering, age at baseline, sex, baseline systolic and diastolic BP, and presence of diabetes.
+   Findings
+   After 7 years of follow-up, systolic BP levels among those randomised to combined HHE plus trained GP intervention were significantly lower (2.1 [4.1-0.1] mm Hg) compared to those randomised to usual care, (P = 0.04). Participants receiving the combined intervention compared to usual care had a greater reduction in LDL-cholesterol (2.7 [4.8 to 0.6] mg/dl.
+   Conclusions
+   The benefit in systolic BP reduction observed in the original cohort assigned to the combined intervention was attenuated but still evident at 7-year follow-up. These findings highlight the potential for scaling-up simple strategies for cardiovascular risk reduction in low- and middle-income countries.
+C1 [Jafar, Tazeen H.; Liang, Feng] Duke NUS Grad Med Sch, Program Hlth Serv & Syst Res, Singapore, Singapore.
+   [Jafar, Tazeen H.; Jehan, Imtiaz; Islam, Muhammad; Bux, Rasool] Aga Khan Univ, Dept Community Hlth Sci, Karachi, Pakistan.
+   [Jafar, Tazeen H.] Aga Khan Univ, Nephrol Sect, Dept Med, Karachi, Pakistan.
+   [Barbier, Sylvaine; Nadkarni, Nivedita] Duke NUS Grad Med Sch, Ctr Quantitat Med, Off Clin Sci, Singapore, Singapore.
+   [Khan, Aamir Hameed] Aga Khan Univ, Dept Med, Cardiol Sect, Karachi, Pakistan.
+   [Poulter, Neil] Univ London Imperial Coll Sci Technol & Med, Natl Heart & Lung Inst, London, England.
+   [Chaturvedi, Nish] UCL, Inst Cardiovasc Sci, London, England.
+   [Ebrahim, Shah] London Sch Hyg & Trop Med, Dept Noncommunicable Dis Epidemiol, London WC1, England.
+RP Jafar, TH (reprint author), Duke NUS Grad Med Sch, Program Hlth Serv & Syst Res, Singapore, Singapore.
+EM tazeen.jafar@duke-nus.edu.sg
+RI Dey, Kamalesh/E-6568-2017
+FU Wellcome Trust, UK [093382/Z/10/Z]
+FX This work was supported by the Wellcome Trust, UK 093382/Z/10/Z. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+CR Balcazar H., 2009, PREVENTING CHRONIC D, V6, P02
+   Basu S, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0044037
+   Chobanian AV, 2003, JAMA-J AM MED ASSOC, V289, P2560, DOI 10.1001/jama.289.19.2560
+   Cook NR, 2007, BRIT MED J, V334, P885, DOI 10.1136/bmj.39147.604896.55
+   Cushman WC, 2012, J CLIN HYPERTENS, V14, P20, DOI 10.1111/j.1751-7176.2011.00568.x
+   Ellard D, 2012, BMC PREGNANCY CHILDB, V12, DOI 10.1186/1471-2393-12-116
+   Enders C. K, 2010, APPL MISSING DATA AN
+   Fitzmaurice G, 2009, CH CRC HANDB MOD STA, P1
+   Ford ES, 2007, NEW ENGL J MED, V356, P2388, DOI 10.1056/NEJMsa053935
+   Graham JW, 2007, PREV SCI, V8, P206, DOI 10.1007/s11121-007-0070-9
+   Hogan JW, 2004, STAT MED, V23, P1455, DOI 10.1002/sim.1728
+   Hu SL, 2008, LANCET, V372, P1846, DOI 10.1016/S0140-6736(08)61368-9
+   Hubbard AE, 2010, EPIDEMIOLOGY, V21, P467, DOI 10.1097/EDE.0b013e3181caeb90
+   Jafar TH, 2013, LANCET, V381, P2281, DOI 10.1016/S0140-6736(13)60646-7
+   Jafar TH, 2009, ANN INTERN MED, V151, P593, DOI 10.7326/0003-4819-151-9-200911030-00004
+   Jafar TH, 2005, CIRCULATION, V111, P1278, DOI 10.1161/01.CIR.0000157698.78949.D7
+   Jessani S, 2008, AM J HYPERTENS, V21, P1238, DOI 10.1038/ajh.2008.256
+   Kjelsberg MO, 1996, CIRCULATION, V94, P946
+   Lim SS, 2012, LANCET, V380, P2224, DOI 10.1016/S0140-6736(12)61766-8
+   Lozano R, 2012, LANCET, V380, P2095, DOI 10.1016/S0140-6736(12)61728-0
+   O'Brien E, 2001, BRIT MED J, V322, P531, DOI 10.1136/bmj.322.7285.531
+   Psaty BN, 2003, JAMA-J AM MED ASSOC, V289, P2534, DOI 10.1001/jama.289.19.2534
+   Whelton PK, 2014, CURR HYPERTENS REP, V16, DOI 10.1007/s11906-014-0465-5
+   Williams B, 2004, J HUM HYPERTENS, V18, P139, DOI 10.1038/sj.jhh.1001683
+   WOODHOUSE PR, 1993, J HYPERTENS, V11, P1267
+   Yusuf S, 2014, NEW ENGL J MED, V371, P818, DOI 10.1056/NEJMoa1311890
+   Zoungas S, 2014, NEW ENGL J MED, V371, P1392, DOI 10.1056/NEJMoa1407963
+NR 27
+TC 4
+Z9 4
+U1 0
+U2 7
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 5
+PY 2015
+VL 10
+IS 11
+AR e0140550
+DI 10.1371/journal.pone.0140550
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CV5IS
+UT WOS:000364303800004
+PM 26540210
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Burakowski, EA
+   Ollinger, SV
+   Lepine, L
+   Schaaf, CB
+   Wang, Z
+   Dibb, JE
+   Hollinger, DY
+   Kim, JH
+   Erb, A
+   Martin, M
+AF Burakowski, Elizabeth A.
+   Ollinger, Scott V.
+   Lepine, Lucie
+   Schaaf, Crystal B.
+   Wang, Zhuosen
+   Dibb, Jack E.
+   Hollinger, David Y.
+   Kim, JiHyun
+   Erb, Angel
+   Martin, Mary
+TI Spatial scaling of reflectance and surface albedo over a mixed-use,
+   temperate forest landscape during snow-covered periods
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE MODIS; Snow; Albedo; Reflectance; Temperate forest; Hyperspectral
+   imagery; Spatial representativeness
+ID IN-SITU MEASUREMENTS; ACCURACY ASSESSMENT; ATMOSPHERIC CORRECTION;
+   PRODUCT MCD43A; CLIMATE-CHANGE; MODIS DATA; RETRIEVALS; VALIDATION;
+   ALGORITHM; GREENLAND
+AB Albedo products from the MODerate resolution Imaging Spectroradiometer (MODIS) have been validated extensively over spatially homogeneous sites with snow-cover. This study evaluated the spatial scaling of albedo and related reflectance-based quantities over areas of high spatial heterogeneity in temperate mixed forest, deciduous forest, urban and built-up, and cropland/natural mosaic lands under snow covered conditions. Reflectance-based quantities evaluated included spectral radiance, surface directional reflectance, and spectral and broadband albedo derived from ground- and tower-based measurements and high-resolution (5 m) hyperspectral imagery (HSI) to coarse resolution (similar to 500 m) MODIS satellite data.
+   Our approach first compared ground- and tower-based spectral and broadband reflectance quantities to HSI data, then to evaluate HSI with MODIS reflectance-based products. Over snow-covered pasture, HSI directional reflectance was biased lower than ground-based measurements collected using a spectroradiometer, and greatly underestimated at wavelengths less than 450 nm. Tower-based shortwave broadband albedo (280-2800 nm) and HSI albedo agreed within +/- 0.04. HSI directional spectral reflectance agreed well with tower-based measurements of spectral albedo collected using a spectroradiometer and remote cosine receptor above a mixed forest canopy with underlying snow cover. Spectral albedo collected over a dormant deciduous broadleaf canopy increased from 0.10 for snow-free conditions to 0.14-0.18 when snow-cover was present under the canopy. Canopy shortwave broadband albedo was not very sensitive to underlying snowpack depth, indicative of strong vegetation masking.
+   Next, HSI data were spatially aggregated and averaged to 500 m MODIS grids and compared to two MODIS albedo products: (1) MODIS/Terra and Aqua Combined Bidirectional Reflectance Distribution Function (BRDF) Albedo V005 (MCD43A, magnitude inversion), and (2) MODIS/Ferra Snow Cover Daily 13 Global 500 m Grid (MOD10A1). An assessment of surface heterogeneity demonstrated that MODIS products generally perform well for snow-covered landscapes with high spatial heterogeneity, with biases between +/- 0.04 and RMSEs less than 0.085 for mixed and deciduous broadleaf forested and urban & built-up land cover classes, and less than 0.11 for cropland/natural mosaic. Biases were generally lower for MOD10A1 compared to MCD43A3.
+   Mean shortwave broadband albedo from MODIS and HSI over deciduous broadleaf and mixed forest with underlying snow cover ranged from 0.14 to 028. Albedo over MODIS grids characterized as a mosaic of cropland, forests, grasslands, and shrublands (e.g., cropland/natural mosaic) was substantially higher than forested grids under snow-covered conditions, ranging from 039 to 0.43. (C) 2014 Elsevier Inc All rights reserved.
+C1 [Burakowski, Elizabeth A.; Ollinger, Scott V.; Lepine, Lucie; Dibb, Jack E.; Martin, Mary] Univ New Hampshire, Inst Study Earth Oceans & Space, Durham, NH 03824 USA.
+   Univ Massachusetts, Coll Sci & Math, Sch Environm, Boston, MA 02125 USA.
+   [Hollinger, David Y.] USDA, Forest Serv Northern Res Stn, Durham, NH 03824 USA.
+   [Kim, JiHyun] Boston Univ, Dept Geog & Environm, Ctr Remote Sensing, Boston, MA 02115 USA.
+RP Burakowski, EA (reprint author), Natl Ctr Atmospher Res, 1850 Table Mesa Dr, Boulder, CO 80305 USA.
+EM burakows@ncar.edu; lucie.lepine@unh.edu; crystal.schaaf@umb.edu;
+   zhuosen.wang@umb.edu; jack.dibb@unh.edu; davidh@hypatia.unh.edu;
+   jhkim26@bu.edu; Angela.Erb001@umb.edu; mary.martin@unh.edu
+RI Burakowski, Elizabeth/E-5502-2015; Ollinger, Scott/N-3380-2014;
+   Hollinger, David/G-7185-2012
+OI Burakowski, Elizabeth/0000-0001-5429-9886; Ollinger,
+   Scott/0000-0001-6226-1431; Lepine, Lucie/0000-0003-1028-2534; Schaaf,
+   Crystal/0000-0002-9150-2975
+FU New Hampshire Ecosystems and Society National Science Foundation
+   Experimental Program to Stimulate Competitive Research [EPS-1101245];
+   National Aeronautic and Space Administration Terrestrial Ecology Program
+   [NNX11AB88G]; NSF [0832652]; Alexander Goetz Instrument Fellowship
+   Program
+FX This research was supported by the New Hampshire Ecosystems and Society
+   National Science Foundation Experimental Program to Stimulate
+   Competitive Research (Award EPS-1101245), the National Aeronautic and
+   Space Administration Terrestrial Ecology Program (Grant #NNX11AB88G),
+   and the NSF (DEB#0832652) Hubbard Brook Long Term Ecological Research
+   (LTER) project. The use of the ASD FieldSpec4 in March 2012 was provided
+   by the Alexander Goetz Instrument Fellowship Program (2011/2012). The
+   authors would also like to thank the Richardson Lab at Harvard
+   University for loan of an ASD spectroradiometer on 2013-03-09. The
+   authors thank the USDA-Forest Service for loan of the Kipp and Zonen
+   CMA6 at Thompson Farm Research Station, and Bob Evans of the USDA Forest
+   Service for technical assistance.
+CR Betts AK, 1997, J GEOPHYS RES-ATMOS, V102, P28901, DOI 10.1029/96JD03876
+   Bonan GB, 2008, SCIENCE, V320, P1444, DOI 10.1126/science.1155121
+   Carroll SS, 1996, WATER RESOUR BULL, V32, P267
+   Friedl MA, 2002, REMOTE SENS ENVIRON, V83, P287, DOI 10.1016/S0034-4257(02)00078-0
+   Friedl MA, 2010, REMOTE SENS ENVIRON, V114, P168, DOI 10.1016/j.rse.2009.08.016
+   Gueymard C, 1995, FSECPF27095 FLOR SOL
+   Gueymard CA, 2001, SOL ENERGY, V71, P325, DOI 10.1016/S0038-092X(01)00054-8
+   Hall D., 2006, MODIS TERRA SNOW COV
+   Hall D.K., 2009, 89 ANN M AM MET SOC, P11
+   Hall DK, 2007, HYDROL PROCESS, V21, P1534, DOI 10.1002/hyp.6715
+   Hall DK, 2009, J GEOPHYS RES-EARTH, V114, DOI 10.1029/2009JF001287
+   Hayhoe K, 2007, CLIM DYNAM, V28, P381, DOI 10.1007/s00382-006-0187-8
+   HENDERSON-SELLERS A, 1983, REV GEOPHYS, V21, P1743, DOI 10.1029/RG021i008p01743
+   Jin YF, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2002JD002803
+   Jin YF, 2003, J GEOPHYS RES-ATMOS, V108, DOI 10.1029/2002JD002804
+   Klein AG, 1998, HYDROL PROCESS, V12, P1723, DOI 10.1002/(SICI)1099-1085(199808/09)12:10/11<1723::AID-HYP691>3.0.CO;2-2
+   Klein AG, 2002, ANN GLACIOL, V34, P45, DOI 10.3189/172756402781817662
+   Kotchenova S. Y., 2006, APPL OPTICS, V45, P6726, DOI DOI 10.1364/AO.45.006762
+   Kuusinen N, 2012, AGR FOREST METEOROL, V164, P53, DOI 10.1016/j.agrformet.2012.05.009
+   Liang SL, 2001, REMOTE SENS ENVIRON, V76, P213, DOI 10.1016/S0034-4257(00)00205-4
+   Liu JC, 2009, J GEOPHYS RES-ATMOS, V114, DOI 10.1029/2008JD009969
+   MICHALSKY JJ, 1995, SOL ENERGY, V54, P397, DOI 10.1016/0038-092X(95)00017-L
+   Mote TL, 2008, J APPL METEOROL CLIM, V47, P2008, DOI 10.1175/2007JAMC1823.1
+   NOHRSC (National Operational Hydrologic Remote Sensing Center), 2004, SNOW DAT ASS SYST SN
+   Noreus JP, 1997, J APPL GEOPHYS, V37, P67, DOI 10.1016/S0926-9851(97)00007-4
+   Perron C.J., 2004, FOREST STEWARDSHIP P
+   Qu X, 2006, J CLIMATE, V19, P2617, DOI 10.1175/JCLI3750.1
+   Qu X, 2014, CLIM DYNAM, V42, P69, DOI 10.1007/s00382-013-1774-0
+   Riggs GA, 2006, MODIS SNOW PRODUCTS, V5
+   Roman MO, 2010, REMOTE SENS ENVIRON, V114, P738, DOI 10.1016/j.rse.2009.11.014
+   Roman MO, 2009, REMOTE SENS ENVIRON, V113, P2476, DOI 10.1016/j.rse.2009.07.009
+   Salomon JG, 2006, IEEE T GEOSCI REMOTE, V44, P1555, DOI 10.1109/TGRS.2006.871564
+   Schaaf C. B, 2011, REMOTE SENSING DIGIT, P873
+   Schaaf CB, 2002, REMOTE SENS ENVIRON, V83, P135, DOI 10.1016/S0034-4257(02)00091-3
+   Schaaf C, 2008, ADVANCES IN LAND REMOTE SENSING: SYSTEM, MODELING, INVERSION AND APPLICATION, P219, DOI 10.1007/978-1-4020-6450-0_9
+   Schaepman-Strub G, 2006, REMOTE SENS ENVIRON, V103, P27, DOI 10.1016/j.rse.2006.03.002
+   Shuai YM, 2011, REMOTE SENS ENVIRON, V115, P2204, DOI 10.1016/j.rse.2011.04.019
+   Stroeve J, 2005, REMOTE SENS ENVIRON, V94, P46, DOI 10.1016/j.rse.2004.09.011
+   Stroeve J, 2013, REMOTE SENS ENVIRON, V138, P199, DOI 10.1016/j.rse.2013.07.023
+   Stroeve JC, 2006, REMOTE SENS ENVIRON, V105, P155, DOI 10.1016/j.rse.2006.06.009
+   Tekeli AE, 2006, HYDROL PROCESS, V20, P705, DOI 10.1002/hyp.6114
+   Vermote EF, 1997, J GEOPHYS RES-ATMOS, V102, P17131, DOI 10.1029/97JD00201
+   Vermote EF, 2002, REMOTE SENS ENVIRON, V83, P97, DOI 10.1016/S0034-4257(02)00089-5
+   Wang ZS, 2014, REMOTE SENS ENVIRON, V140, P60, DOI 10.1016/j.rse.2013.08.025
+   Wang ZS, 2012, REMOTE SENS ENVIRON, V117, P264, DOI 10.1016/j.rse.2011.10.002
+   WARREN SG, 1982, REV GEOPHYS, V20, P67, DOI 10.1029/RG020i001p00067
+   Wolfe RE, 2002, REMOTE SENS ENVIRON, V83, P31, DOI 10.1016/S0034-4257(02)00085-8
+   Wright P, 2014, REMOTE SENS ENVIRON, V140, P118, DOI 10.1016/j.rse.2013.08.044
+NR 48
+TC 10
+Z9 10
+U1 5
+U2 43
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0034-4257
+EI 1879-0704
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD MAR 1
+PY 2015
+VL 158
+BP 465
+EP 477
+DI 10.1016/j.rse.2014.11.023
+PG 13
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic
+   Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science &
+   Photographic Technology
+GA CA4MR
+UT WOS:000348879100034
+DA 2019-03-26
+ER

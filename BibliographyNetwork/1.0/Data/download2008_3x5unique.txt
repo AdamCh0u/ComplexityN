@@ -1,0 +1,520 @@
+
+PT J
+AU Fialkowski, M
+   Bitner, A
+AF Fialkowski, Marcin
+   Bitner, Agnieszka
+TI Universal rules for fragmentation of land by humans
+SO LANDSCAPE ECOLOGY
+LA English
+DT Article
+DE Land parcels; Patterns; Morphology; Scaling laws; Urbanization process;
+   Land fragmentation
+ID URBAN-GROWTH PATTERNS; POWER LAWS; CHANGING SCALE; ZIPFS LAW;
+   DISTRIBUTIONS; SYSTEMS; CITIES; MODEL; SIZE
+AB The morphology of parcel patterns created by humans both in urban and rural areas is investigated. The parcel size distribution function, f(a), provides a criterion, that enables unambiguous classification of each piece of land as city core, suburbs, or rural area. The morphology of the rural area corresponds to a scale-free structure and follows a power-law distribution f(a) similar to a(-n) of the parcel areas with the exponent n approximate to 1. In suburbs, the area distribution follows the log-normal distribution. In the city core, f(a) has an unimodal shape with an algebraically decaying tail, n = 2. Our study is based on data originating mainly from North America, the Hawaiian Islands, and Australia. For the regions analyzed, the characteristics of the parcel size distribution are universal and robust with respect to geographical, historical, and economical conditions accompanying development of a given area. The urbanization process can be described in terms of the changes of the morphology of the patterns of land fragmentation. In this formulation, the rural morphology, which can be thought as natural one because it exhibits a scale-free distribution of parcel sizes, is transformed into the artificial morphology developed in the city centers.
+C1 [Bitner, Agnieszka] Univ Agr, Dept Appl Math, PL-30059 Krakow, Poland.
+   [Fialkowski, Marcin] Polish Acad Sci, Inst Phys Chem, PL-01224 Warsaw, Poland.
+   [Bitner, Agnieszka] Northwestern Univ, NICO, Evanston, IL 60028 USA.
+RP Bitner, A (reprint author), Univ Agr, Dept Appl Math, Mickiewicza 24-28, PL-30059 Krakow, Poland.
+EM rmbitner@cyf-kr.edu.pl
+FU Ministry of Science and Higher Education [2007-2010]
+FX The authors would like to thank Prof. R. Holyst for helpful discussions,
+   Dr K. Becek for providing the data for Australia, the City Board of Data
+   Bases in Krakow for the data for Krakow, and J. Chen from Northwestern
+   University for his help in GIS. This work was supported in part by the
+   Ministry of Science and Higher Education as a scientific project
+   (2007-2010).
+CR Adams ES, 1998, ECOLOGY, V79, P1125, DOI 10.1890/0012-9658(1998)079[1125:TSASIF]2.0.CO;2
+   Batty M, 1994, FRACTAL CITIES
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   Buldyrev SV, 2003, PHYSICA A, V330, P653, DOI 10.1016/j.physa.2003.09.041
+   CAER GL, 1993, J PHYS I, V3, P1777
+   Camacho J, 2001, EUROPHYS LETT, V55, P774, DOI 10.1209/epl/i2001-00347-0
+   *ESRI INC, 2006, ARCVIEW 9 2
+   Frohn RC, 2006, REMOTE SENS ENVIRON, V100, P237, DOI 10.1016/j.rse.2005.10.026
+   Gabaix Xavier, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   GLASS L, 1971, NATURE, V233, P67, DOI 10.1038/233067a0
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   Manrubia SC, 1999, FRACTALS, V7, P1, DOI 10.1142/S0218348X99000025
+   Marsili M, 1998, PHYS REV LETT, V80, P2741, DOI 10.1103/PhysRevLett.80.2741
+   Mekjian AZ, 1997, PHYS LETT A, V229, P340, DOI 10.1016/S0375-9601(97)00147-3
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   PIGNOL V, 1993, ACTA STEREOL, V12, P149
+   REED WJ, 2002, J REGIONAL SCI, V41, P1
+   Salingaros NA, 1999, ENVIRON PLANN B, V26, P909, DOI 10.1068/b260909
+   Sornette D, 1997, J PHYS I, V7, P431, DOI 10.1051/jp1:1997169
+   VICSEK T, 1991, FRACTAL GROWTH PHENO
+   WEAIRE D, 1984, CONTEMP PHYS, V25, P59, DOI 10.1080/00107518408210979
+   White EP, 2008, ECOLOGY, V89, P905, DOI 10.1890/07-1288.1
+   Wickham JD, 2007, LANDSCAPE ECOL, V22, P481, DOI 10.1007/s10980-006-9054-6
+   Wu JG, 2004, LANDSCAPE ECOL, V19, P125, DOI 10.1023/B:LAND.0000021711.40074.ae
+   Wu JG, 2002, LANDSCAPE ECOL, V17, P761, DOI 10.1023/A:1022995922992
+   Zanette DH, 1997, PHYS REV LETT, V79, P523, DOI 10.1103/PhysRevLett.79.523
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 28
+TC 17
+Z9 17
+U1 0
+U2 14
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-2973
+J9 LANDSCAPE ECOL
+JI Landsc. Ecol.
+PD NOV
+PY 2008
+VL 23
+IS 9
+BP 1013
+EP 1022
+DI 10.1007/s10980-008-9268-x
+PG 10
+WC Ecology; Geography, Physical; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Physical Geography; Geology
+GA 363QZ
+UT WOS:000260283100002
+DA 2019-03-26
+ER
+
+PT J
+AU Bennett, DE
+   Myatt, M
+   Bertagnolio, S
+   Sutherland, D
+   Gilks, CF
+AF Bennett, Diane E.
+   Myatt, Mark
+   Bertagnolio, Silvia
+   Sutherland, Donald
+   Gilks, Charles F.
+TI Recommendations for surveillance of transmitted HIV drug resistance in
+   countries scaling up antiretroviral treatment
+SO ANTIVIRAL THERAPY
+LA English
+DT Article
+ID RESOURCE-LIMITED SETTINGS; PREVENTION INTERVENTIONS; INFECTED PATIENTS;
+   THERAPY PROGRAMS; POOR SETTINGS; AFRICA; TRANSMISSION; IMPACT; AIDS;
+   PREVALENCE
+AB Background: The World Health Organization (WHO) HIV drug resistance (HIVDR) threshold survey method was developed for surveillance of transmitted HIVDR in resource-limited countries. The method is being implemented with minimal resources as a routine public health activity to produce comparable results in multiple countries and areas within countries. Transmitted drug resistant HIV strains will be seen first in cities or health districts where antiretroviral treatment (ART) has been widely available for years. WHO recommends countries begin surveillance in these areas.
+   Methods: Each survey requires : 47 specimens from individuals consecutively diagnosed with HIV to categorize resistance to each relevant drug class as < 5%, 5-15% or > 15%. Use of routinely collected information and remnant specimens is recommended to minimize costs. Site and individual eligibility criteria are designed to minimize inclusion of ARV-experienced individuals and individuals infected before ART was available.
+   Results: Surveys have been implemented in 21 countries. In this supplement, seven countries report results of < 5% transmitted HIVDR in areas where ART has been available for the longest time period. The main challenges in implementation are acquiring sufficient numbers of eligible specimens and optimizing specimen handling.
+   Conclusion: The WHO HIVDR threshold survey method is feasible in resource-limited countries and produces information relevant to ART and drug resistance prevention planning.
+C1 [Bennett, Diane E.; Bertagnolio, Silvia; Sutherland, Donald; Gilks, Charles F.] WHO, CH-1211 Geneva, Switzerland.
+   [Myatt, Mark] UCL, Inst Ophthalmol, Div Epidemiol, London, England.
+RP Bennett, DE (reprint author), WHO, CH-1211 Geneva, Switzerland.
+EM bennettd@who.int
+RI Gilks, Charles/B-4184-2012
+OI Gilks, Charles/0000-0002-8953-3123
+CR Abegaz WE, 2008, ANTIVIR THER, V13, P89
+   [Anonymous], 2007, GUID PROV IN HIV TES
+   Back NKT, 1996, EMBO J, V15, P4040, DOI 10.1002/j.1460-2075.1996.tb00777.x
+   Baggaley RF, 2006, PLOS MED, V3, P493, DOI 10.1371/journal.pmed.0030124
+   Beck EJ, 2006, AIDS, V20, P1497, DOI 10.1097/01.aids.0000237365.18747.13
+   Bennett DE, 2006, ANTIVIR THER, V11, pS116
+   Bennett DE, 2008, ANTIVIR THER, V13, P1
+   Bertognolio S, 2008, ANTIVIR THER, V13, P49
+   Blower S, 2005, AIDS, V19, P1, DOI 10.1097/00002030-200501030-00001
+   Blower Sally, 2003, Current Drug Targets - Infectious Disorders, V3, P345, DOI 10.2174/1568005033480999
+   Blower SM, 2003, LANCET INFECT DIS, V3, P10, DOI 10.1016/S1473-3099(03)00479-1
+   Blower SM, 2001, NAT MED, V7, P1016, DOI 10.1038/nm0901-1016
+   Brenner BG, 2002, J VIROL, V76, P1753, DOI 10.1128/JVI.76.4.1753-1761.2002
+   Brown AJL, 2003, J INFECT DIS, V187, P683
+   Bunnell R, 2006, AIDS, V20, P85, DOI 10.1097/01.aids.0000196566.40702.28
+   Bunnell R, 2006, JAMA-J AM MED ASSOC, V296, P855, DOI 10.1001/jama.296.7.855
+   Clavel F, 2000, Adv Pharmacol, V49, P41
+   *COLL GROUP AIDS I, 2007, LANCET, V355, P1131
+   Cozzi-Lepri A, 2007, AIDS, V21, P721, DOI 10.1097/QAD.0b013e3280141fdf
+   De Cock KM, 2006, NEW ENGL J MED, V354, P440, DOI 10.1056/NEJMp058327
+   Deeks SG, 2003, LANCET, V362, P2002, DOI 10.1016/S0140-6736(03)15022-2
+   Diaz T, 2005, AIDS, V19, pS1, DOI 10.1097/01.aids.0000172871.80723.3e
+   Eron JJ, 2004, JAIDS-J ACQ IMM DEF, V37, P1581, DOI 10.1097/00126334-200412150-00009
+   Fellay J, 2001, LANCET, V358, P1322, DOI 10.1016/S0140-6736(01)06413-3
+   Ferradini L, 2006, LANCET, V367, P1335, DOI 10.1016/S0140-6736(06)68580-2
+   FISCHL MA, 1987, NEW ENGL J MED, V317, P185, DOI 10.1056/NEJM198707233170401
+   Ford N, 2007, AIDS, V21, pS21, DOI 10.1097/01.aids.0000279703.78685.a6
+   Gilks CF, 2006, LANCET, V368, P505, DOI 10.1016/S0140-6736(06)69158-7
+   Glynn JR, 2007, AIDS, V21, P625, DOI 10.1097/QAD.0b013e328017f857
+   Gray RH, 2001, LANCET, V357, P1149, DOI 10.1016/S0140-6736(00)04331-2
+   Hedt BL, 2008, ANTIVIR THER, V13, P69
+   HLADIK W, 2006, AIDS S2, V19, pS19
+   Holstad Marcia McDonnell, 2006, Online J Issues Nurs, V11, P5
+   Holzer C, 2004, COMBINATION THERAPY, P195
+   Ivers LC, 2005, CLIN INFECT DIS, V41, P217, DOI 10.1086/431199
+   *JOINT UN PROGR HI, AIDS EP
+   Jordan MR, 2008, ANTIVIR THER, V13, P15
+   Kaleebu P, 2006, AIDS, V20, P1391
+   Kamoto K, 2008, ANTIVIR THER, V13, P83
+   Kennedy C, 2007, AIDS CARE, V19, P707, DOI 10.1080/09540120701203261
+   LANATA C F, 1991, World Health Statistics Quarterly, V44, P133
+   LEMESHOW S, 1991, World Health Statistics Quarterly, V44, P115
+   Little SJ, 2002, NEW ENGL J MED, V347, P385, DOI 10.1056/NEJMoa013552
+   Little SJ, 1999, JAMA-J AM MED ASSOC, V282, P1142, DOI 10.1001/jama.282.12.1142
+   Lucas GM, 2006, AM J EPIDEMIOL, V163, P412, DOI 10.1093/aje/kwj059
+   Maphalala G, 2008, ANTIVIR THER, V13, P95
+   McCormick AW, 2007, CLIN INFECT DIS, V44, P1115, DOI 10.1086/512816
+   Mellors JW, 1997, ANN INTERN MED, V126, P946, DOI 10.7326/0003-4819-126-12-199706150-00003
+   Morgan D, 2002, AIDS, V16, P597, DOI 10.1097/00002030-200203080-00011
+   Myatt M, 2008, ANTIVIR THER, V13, P37
+   Nguyen HT, 2008, ANTIVIR THER, V13, P115
+   Pillay D, 2004, ANTIVIR THER, V9, P695
+   PILLAY D, 2007, 4 IAS C HIV PATH TRE
+   Pillay V, 2008, ANTIVIR THER, V13, P101
+   Popp D, 2002, AIDS, V16, P676, DOI 10.1097/00002030-200203080-00025
+   Quinn TC, 2000, AIDS, V14, P2751, DOI 10.1097/00002030-200012010-00015
+   Saravolatz LD, 1996, NEW ENGL J MED, V335, P1099, DOI 10.1056/NEJM199610103351503
+   Schwarcz S, 2007, JAIDS-J ACQ IMM DEF, V44, P112, DOI 10.1097/01.qai.0000247228.30128.dc
+   Severe P, 2005, NEW ENGL J MED, V353, P2325, DOI 10.1056/NEJMoa051908
+   Shafer RW, 2008, ANTIVIR THER, V13, P59
+   Shafer RW, 2007, AIDS, V21, P215, DOI 10.1097/QAD.0b013e328011e691
+   Sirivichoyaku S, 2008, ANTIVIR THER, V13, P109
+   Somi GR, 2008, ANTIVIR THER, V13, P77
+   Sow PS, 2007, JAIDS-J ACQ IMM DEF, V44, P262, DOI 10.1097/QAI.0b013e31802bf109
+   *STANF U HIV DRUG, CAL POP RES TOOL
+   Steen TW, 2007, JAIDS-J ACQ IMM DEF, V44, P484, DOI 10.1097/QAI.0b013e318030ffa9
+   Stringer JSA, 2006, JAMA-J AM MED ASSOC, V296, P782, DOI 10.1001/jama.296.7.782
+   Centers of Disease Control and Prevention, 2001, MMWR Recomm Rep, V50, P1
+   *UNAIDS WHO WORK G, 2003, GUID COND HIV SENT S
+   Vardavas R, 2005, ANTIVIR THER, V10, pS154
+   Vardavas R, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000152
+   Wadman M, 2001, NATURE, V410, P615, DOI 10.1038/35070733
+   Weinstein MC, 2001, ANN INTERN MED, V134, P440, DOI 10.7326/0003-4819-134-6-200103200-00008
+   Weinstock H, 2000, J INFECT DIS, V182, P330, DOI 10.1086/315686
+   Weinstock H., 1998, Abstracts of the Interscience Conference on Antimicrobial Agents and Chemotherapy, V38, P422
+   Wensing AMJ, 2005, J INFECT DIS, V192, P958, DOI 10.1086/432916
+   *WHO JOINT UN PROG, 2007, UN ACC SCAL PRIOR HI
+   Wools-Kaloustian K, 2006, AIDS, V20, P41, DOI 10.1097/01.aids.0000196177.65551.ea
+   World Health Organization, 2006, PROGR GLOB ACC HIV A
+   World Health Organization (WHO), 2007, WHO CAS DEF HIV SURV
+   2007, BRIEF SUMMARY CHAI 2
+NR 81
+TC 193
+Z9 204
+U1 1
+U2 5
+PU INT MEDICAL PRESS LTD
+PI LONDON
+PA 2-4 IDOL LANE, LONDON EC3R 5DD, ENGLAND
+SN 1359-6535
+J9 ANTIVIR THER
+JI Antivir. Ther.
+PY 2008
+VL 13
+SU 2
+BP 25
+EP 36
+PG 12
+WC Infectious Diseases; Pharmacology & Pharmacy; Virology
+SC Infectious Diseases; Pharmacology & Pharmacy; Virology
+GA 310DF
+UT WOS:000256508400003
+PM 18575189
+DA 2019-03-26
+ER
+
+PT J
+AU Kaye, JP
+   Majumdar, A
+   Gries, C
+   Buyantuyev, A
+   Grimm, NB
+   Hope, D
+   Jenerette, GD
+   Zhu, WX
+   Baker, L
+AF Kaye, J. P.
+   Majumdar, A.
+   Gries, C.
+   Buyantuyev, A.
+   Grimm, N. B.
+   Hope, D.
+   Jenerette, G. D.
+   Zhu, W. X.
+   Baker, L.
+TI Hierarchical Bayesian scaling of soil properties across urban,
+   agricultural, and desert ecosystems
+SO ECOLOGICAL APPLICATIONS
+LA English
+DT Article
+DE CAP LTER; hierarchical Bayes; Phoenix; Arizona; scaling; soil inorganic
+   carbon; soil nitrogen; soil organic carbon; soil phosphorus; urban
+   ecology
+ID CARBON; NITROGEN; ARIZONA; BIOGEOCHEMISTRY; RESPIRATION; COMMUNITIES;
+   GRASSLAND; PATTERNS; ECOLOGY; CLIMATE
+AB Ecologists increasingly use plot-scale data to inform research and policy related to regional and global environmental change. For soil chemistry research, scaling from the plot to the region is especially difficult due to high spatial variability at all scales. We used a hierarchical Bayesian model of plot-scale soil nutrient pools to predict storage of soil organic carbon (oC), inorganic carbon (iC), total nitrogen (N), and available phosphorus (avP) in a 7962-km(2) area including the Phoenix, Arizona, USA, metropolitan area and its desert and agricultural surroundings. The Bayesian approach was compared to a traditional approach that multiplied mean values for urban mesic residential, urban xeric residential, nonresidential urban, agricultural, and desert areas by the aerial coverage of each land-use type. Both approaches suggest that oC, N, and avP are correlated with each other and are higher (in g/m(2)) in mesic residential and agricultural areas than in deserts or xeric residential areas. In addition to traditional biophysical variables, cultural variables related to impervious surface cover, tree cover, and turfgrass cover were significant in regression models predicting the regional distribution of soil properties. We estimate that 1140 Gg of oC have accumulated in human-dominated soils of this region, but a significant portion of this new C has a very short mean residence time in mesic yards and agricultural soils. For N, we estimate that 130 Gg have accumulated in soils, which explains a significant portion of "missing N" observed in the regional N budget. Predictions for iC differed between the approaches because the Bayesian approach predicted iC as a function of elevation while the traditional approach employed only land use. We suggest that Bayesian scaling enables models that are flexible enough to accommodate the diverse factors controlling soil chemistry in desert, urban, and agricultural ecosystems and, thus, may represent an important tool for ecological scaling that spans land-use types. Urban planners and city managers attempting to reduce C emissions and N pollution should consider ways that landscape choices and impervious surface cover affect city-wide soil C, N, and P storage.
+C1 [Kaye, J. P.] Penn State Univ, Dept Crop & Soil Sci, University Pk, PA 16802 USA.
+   [Majumdar, A.] Arizona State Univ, Dept Math & Stat, Tempe, AZ 85287 USA.
+   [Gries, C.; Buyantuyev, A.; Hope, D.] Arizona State Univ, Global Inst Sustainabil, Tempe, AZ 85287 USA.
+   [Buyantuyev, A.; Grimm, N. B.] Arizona State Univ, Sch Life Sci, Tempe, AZ 85287 USA.
+   [Jenerette, G. D.] Univ Calif Riverside, Dept Bot & Plant Sci, Riverside, CA 92521 USA.
+   [Zhu, W. X.] SUNY Binghamton, Dept Biol Sci, Binghamton, NY 13902 USA.
+   [Baker, L.] Minnesota Water Resources Ctr, St Paul, MN 55108 USA.
+RP Kaye, JP (reprint author), Penn State Univ, Dept Crop & Soil Sci, University Pk, PA 16802 USA.
+EM jpk12@psu.edu
+RI Buyantuev, Alexander/L-9887-2013; Grimm, Nancy/D-2840-2009
+OI Buyantuev, Alexander/0000-0003-1670-0741; Grimm,
+   Nancy/0000-0001-9374-660X
+CR Aber J, 1998, BIOSCIENCE, V48, P921, DOI 10.2307/1313296
+   BAATZ M, 2003, ECOGNITION SOFTWARE
+   Baker LA, 2001, ECOSYSTEMS, V4, P582, DOI 10.1007/s10021-001-0031-2
+   Brown JH, 2004, ECOLOGY, V85, P1771, DOI 10.1890/03-9000
+   BURKE IC, 1989, SOIL SCI SOC AM J, V53, P800, DOI 10.2136/sssaj1989.03615995005300030029x
+   Burke LC, 2000, METHODS IN ECOSYSTEM SCIENCE, P277
+   Clark JS, 2005, ECOL LETT, V8, P2, DOI 10.1111/j.1461-0248.2004.00702.x
+   Clesceri L.S., 1998, STANDARD METHODS EXA
+   DAVIDSON EA, 1993, BIOGEOCHEMISTRY, V22, P107, DOI 10.1007/BF00002707
+   ELLISON K, 2006, FRONTIERS ECOLOGY EN, V4, P336
+   GEE GW, 1986, AGRONOMY, V9, P383, DOI DOI 10.2136/SSSAB00KSER5.1.2ED.C15
+   GELFAND AE, 1990, J AM STAT ASSOC, V85, P398, DOI 10.2307/2289776
+   Hope D, 2003, P NATL ACAD SCI USA, V100, P8788, DOI 10.1073/pnas.1537557100
+   Hope Diane, 2005, Urban Ecosystems, V8, P251, DOI 10.1007/s11252-005-3261-9
+   Jenerette GD, 2006, GLOBAL CHANGE BIOL, V12, P1532, DOI 10.1111/j.1365-2486.2006.01182.x
+   Kaye JP, 2006, TRENDS ECOL EVOL, V21, P192, DOI 10.1016/j.tree.2005.12.006
+   Kaye JP, 2005, GLOBAL CHANGE BIOL, V11, P575, DOI [10.1111/j.1365-2486.2005.00921.x, 10.1111/j1365-2486.2005.00921.x]
+   KNOWLESYANEZ K, 1999, HIST LAND USE TEAM P
+   Koerner B, 2002, ENVIRON POLLUT, V116, pS45, DOI 10.1016/S0269-7491(01)00246-9
+   LEVIN SA, 1992, ECOLOGY, V73, P1943, DOI 10.2307/1941447
+   LEWIS D, 2006, GLOBAL CHANGE BIOL, V17, P703
+   Luck M, 2002, LANDSCAPE ECOL, V17, P327, DOI 10.1023/A:1020512723753
+   MAJUMDAR A, 2008, IN PRESS COMMUNICATI, P37
+   *MAR ASS GOV, 1997, URB ATL PHOEN METR A
+   McCulley RL, 2004, ECOLOGY, V85, P2804, DOI 10.1890/03-0645
+   Okin GS, 2004, GLOBAL BIOGEOCHEM CY, V18, DOI 10.1029/2003GB002145
+   Oleson JJ, 2006, ENVIRONMETRICS, V17, P517, DOI 10.1002/env.789
+   Pacala SW, 2001, SCIENCE, V292, P2316, DOI 10.1126/science.1057320
+   Peterson SA, 1999, ENVIRON SCI TECHNOL, V33, P1559, DOI 10.1021/es980711l
+   POST WM, 1985, NATURE, V317, P613, DOI 10.1038/317613a0
+   Ptacnik R, 2005, OIKOS, V109, P52, DOI 10.1111/j.0030-1299.2005.14051.x
+   RAICH JW, 1992, TELLUS B, V44, P81, DOI 10.1034/j.1600-0889.1992.t01-1-00001.x
+   Reppert B, 2006, BIOSCIENCE, V56, P800, DOI 10.1641/0006-3568(2006)56[800:GWCSSS]2.0.CO;2
+   Robertson GP, 1997, ECOL APPL, V7, P158
+   SCHLESINGER WH, 1982, SOIL SCI, V133, P247, DOI 10.1097/00010694-198204000-00008
+   Schlesinger WH, 1999, SCIENCE, V284, P2095, DOI 10.1126/science.284.5423.2095
+   SCHLESINGER WH, 1977, ANNU REV ECOL SYST, V8, P51, DOI 10.1146/annurev.es.08.110177.000411
+   SCHLESINGER WH, 1985, GEOCHIM COSMOCHIM AC, V49, P57, DOI 10.1016/0016-7037(85)90191-7
+   Sherrod LA, 2002, SOIL SCI SOC AM J, V66, P299
+   Stevens DL, 1997, ENVIRONMETRICS, V8, P167, DOI 10.1002/(SICI)1099-095X(199705)8:3<167::AID-ENV239>3.0.CO;2-D
+   *US CENS BUR, 2000, PHOEN MES METR STAT
+   Zhao YC, 2006, SOIL SCI SOC AM J, V70, P1377, DOI 10.2136/sssaj2004.0165
+   Zhu WX, 2006, ECOSYSTEMS, V9, P711, DOI 10.1007/s10021-006-0078-1
+   Zhu WX, 2004, BIOGEOCHEMISTRY, V71, P177, DOI 10.1007/s10533-004-9683-2
+NR 44
+TC 25
+Z9 31
+U1 0
+U2 36
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1051-0761
+EI 1939-5582
+J9 ECOL APPL
+JI Ecol. Appl.
+PD JAN
+PY 2008
+VL 18
+IS 1
+BP 132
+EP 145
+DI 10.1890/06-1952.1
+PG 14
+WC Ecology; Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 265PB
+UT WOS:000253371800011
+PM 18372561
+DA 2019-03-26
+ER
+
+PT J
+AU Zhang, XY
+   Wang, YQ
+   Zhang, XC
+   Guo, W
+   Niu, T
+   Gong, SL
+   Yin, Y
+   Zhao, P
+   Jin, JL
+   Yu, M
+AF Zhang, X. Y.
+   Wang, Y. Q.
+   Zhang, X. C.
+   Guo, W.
+   Niu, T.
+   Gong, S. L.
+   Yin, Y.
+   Zhao, P.
+   Jin, J. L.
+   Yu, M.
+TI Aerosol monitoring at multiple locations in China: contributions of EC
+   and dust to aerosol light absorption
+SO TELLUS SERIES B-CHEMICAL AND PHYSICAL METEOROLOGY
+LA English
+DT Article
+ID MINERAL DUST; BLACK CARBON; OPTICAL-ABSORPTION; ELEMENTAL CARBON;
+   AIR-QUALITY; PARTICLES; AETHALOMETER; REFLECTANCE; CALIBRATION;
+   SATELLITE
+AB This paper reports on the analysis of 24-h aerosol data measured during 2006, at 14 monitoring sites in China. Measurements included seven-wavelength Aethalometers, thermal/optical reflectance analyses of filter samples and determination of dust aerosols. Black (elemental) carbon (BC, EC) is found to be the principal light-absorbing aerosol over many parts of China; however, the fraction of apparent light absorption attributed to dust varied from 14% in winter, to 11% in spring, to 5% in summer to 9% in autumn. Aerosol light absorption in urban areas was larger than in rural areas by factors of 2.4 in winter, 3.1 in spring and 2.5 in both summer and autumn. These differences may lead to contrasts in radiative, thermal and cloud modification effects between urban and rural areas. Absorption 'hotspots' were located in the Sichuan Basin, the provinces south of Beijing, the Pearl Delta River regions and the Guanzhong Plain. The mass absorption coefficient for aerosol BC (sigma(BC)) based on Aethalometer data is estimated to be 11.7 m(2) g(-1) at 880 nm wavelength (lambda) with inverse (lambda(-1))wavelength scaling, whereas the mass absorption coefficient for dust (sigma(dust)) is 1.3 m(2) g(-1) on average without significant wavelength dependence.
+C1 [Zhang, X. Y.; Wang, Y. Q.; Zhang, X. C.; Guo, W.; Niu, T.; Gong, S. L.; Zhao, P.; Jin, J. L.; Yu, M.] Chinese Acad Meteorol Sci, Key Lab Atmospher Chem, Ctr Atmosphere Watch & Serv CMA, CMA, Beijing 100081, Peoples R China.
+   [Gong, S. L.] Sci & Technol Branch, Air Qual Reseaich Div, Toronto, ON M3H 5T4, Canada.
+   [Yin, Y.] Nanjing Univ Infoimat Sci & Technol, Nanjing 210044, Peoples R China.
+RP Zhang, XY (reprint author), Chinese Acad Meteorol Sci, Key Lab Atmospher Chem, Ctr Atmosphere Watch & Serv CMA, CMA, 46 Zhongguancun S Ave, Beijing 100081, Peoples R China.
+EM xiaoye@cams.cma.gov.cn
+RI Wang, Yaqiang/P-5400-2018; Yin, Yan/I-8350-2014
+OI Wang, Yaqiang/0000-0002-4829-0276; Yin, Yan/0000-0002-8391-2712; ZHANG,
+   Xiao-Ye/0000-0003-1802-3385
+FU Aerosol-Precipitation Project; CMA; National Key Project of Basic
+   Research [2006CB403701, 2006CB403703]
+FX This research was supported by grants from Aerosol-Precipitation Project
+   of Special Grant in Atmospheric Sciences Field supported by CMA,
+   National Key Project of Basic Research (2006CB403701 and 2006CB403703).
+   We also would like to thank two anonymous reviewers for careful comments
+   and valuable suggestions.
+CR Ackerman AS, 2000, SCIENCE, V288, P1042, DOI 10.1126/science.288.5468.1042
+   Babich P, 2000, J AIR WASTE MANAGE, V50, P1095, DOI 10.1080/10473289.2000.10464152
+   Bauer SE, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2005JD006977
+   Bond TC, 1999, AEROSOL SCI TECH, V30, P582, DOI 10.1080/027868299304435
+   CHOW JC, 1993, ATMOS ENVIRON A-GEN, V27, P1185, DOI 10.1016/0960-1686(93)90245-T
+   Chow JC, 2004, ENVIRON SCI TECHNOL, V38, P4414, DOI 10.1021/es034936u
+   Claquin T, 1998, TELLUS B, V50, P491, DOI 10.1034/j.1600-0889.1998.t01-2-00007.x
+   Claquin T, 1999, J GEOPHYS RES-ATMOS, V104, P22243, DOI 10.1029/1999JD900416
+   Costa MJ, 2006, J METEOROL SOC JPN, V84, P85, DOI 10.2151/jmsj.84.85
+   Dubovik O, 2002, J ATMOS SCI, V59, P590, DOI 10.1175/1520-0469(2002)059<0590:VOAAOP>2.0.CO;2
+   Fialho P, 2005, J AEROSOL SCI, V36, P267, DOI 10.1016/j.jaerosci.2004.09.004
+   HANSEN ADA, 1993, ATMOS ENVIRON A-GEN, V27, P2527, DOI 10.1016/0960-1686(93)90025-T
+   HANSEN ADA, 1984, SCI TOTAL ENVIRON, V36, P191, DOI 10.1016/0048-9697(84)90265-1
+   HANSEN ADA, 2000, P AIR WAST MAN ASS A
+   Horvath H, 1997, J AEROSOL SCI, V28, P1149, DOI 10.1016/S0021-8502(97)00007-4
+   Kaufman YJ, 2001, GEOPHYS RES LETT, V28, P1479, DOI 10.1029/2000GL012647
+   Kirchstetter TW, 2004, J GEOPHYS RES-ATMOS, V109, DOI 10.1029/2004JD004999
+   Kojima T, 2006, ATMOS RES, V82, P698, DOI 10.1016/j.atmosres.2006.02.024
+   Koren I, 2004, SCIENCE, V303, P1342, DOI 10.1126/science.1089424
+   Levin Z, 1996, J APPL METEOROL, V35, P1511, DOI 10.1175/1520-0450(1996)035<1511:TEODPC>2.0.CO;2
+   LIOUSSE C, 1993, ATMOS ENVIRON A-GEN, V27, P1203, DOI 10.1016/0960-1686(93)90246-U
+   Moosmuller H, 1998, J GEOPHYS RES-ATMOS, V103, P28149, DOI 10.1029/98JD02618
+   Sokolik IN, 1999, J GEOPHYS RES-ATMOS, V104, P9423, DOI 10.1029/1998JD200048
+   Watson JG, 2005, AEROSOL AIR QUAL RES, V1, P69
+   Weingartner E, 2003, J AEROSOL SCI, V34, P1445, DOI 10.1016/S0021-8502(03)00359-8
+   Wurzler S, 2000, J GEOPHYS RES-ATMOS, V105, P4501, DOI 10.1029/1999JD900980
+   Yin Y, 2002, J GEOPHYS RES-ATMOS, V107, DOI 10.1029/2001JD001544
+   Zhang XY, 2008, J GEOPHYS RES-ATMOS, V113, DOI 10.1029/2007JD009525
+   Zhang XY, 2003, J ATMOS CHEM, V44, P241, DOI 10.1023/A:1022900220357
+   ZHANG XY, 1993, ATMOS ENVIRON A-GEN, V27, P2051
+NR 30
+TC 18
+Z9 24
+U1 1
+U2 14
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1600-0889
+J9 TELLUS B
+JI Tellus Ser. B-Chem. Phys. Meteorol.
+PD SEP
+PY 2008
+VL 60
+IS 4
+BP 647
+EP 656
+DI 10.1111/j.1600-0889.2008.00359.x
+PG 10
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 353NT
+UT WOS:000259575400015
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Batty, M
+   Carvalho, R
+   Hudson-Smith, A
+   Milton, R
+   Smith, D
+   Steadman, P
+AF Batty, M.
+   Carvalho, R.
+   Hudson-Smith, A.
+   Milton, R.
+   Smith, D.
+   Steadman, P.
+TI Scaling and allometry in the building geometries of Greater London
+SO EUROPEAN PHYSICAL JOURNAL B
+LA English
+DT Article
+ID SPATIAL STRUCTURE; POWER LAWS; ZIPFS LAW; NETWORKS; CITIES; NUMBER
+AB Many aggregate distributions of urban activities such as city sizes reveal scaling but hardly any work exists on the properties of spatial distributions within individual cities, notwithstanding considerable knowledge about their fractal structure. We redress this here by examining scaling relationships in a world city using data on the geometric properties of individual buildings. We first summarise how power laws can be used to approximate the size distributions of buildings, in analogy to city-size distributions which have been widely studied as rank-size and lognormal distributions following Zipf [Human Behavior and the Principle of Least Effort (Addison-Wesley, Cambridge, 1949)] and Gibrat [Les Inegalites Economiques (Librarie du Recueil Sirey, Paris, 1931)]. We then extend this analysis to allometric relationships between buildings in terms of their different geometric size properties. We present some preliminary analysis of building heights from the Emporis database which suggests very strong scaling in world cities. The data base for Greater London is then introduced from which we extract 3.6 million buildings whose scaling properties we explore. We examine key allometric relationships between these different properties illustrating how building shape changes according to size, and we extend this analysis to the classification of buildings according to land use types. We conclude with an analysis of two-point correlation functions of building geometries which supports our non-spatial analysis of scaling.
+C1 [Batty, M.; Hudson-Smith, A.; Milton, R.; Smith, D.] UCL, Ctr Adv Spatial Anal, London WC1E 6BT, England.
+   [Carvalho, R.] Univ London, Sch Math Sci, London E1 4NS, England.
+   [Steadman, P.] UCL, Bartlett Sch Architecture & Planning, London WC1E 6BT, England.
+RP Batty, M (reprint author), UCL, Ctr Adv Spatial Anal, 1-19 Torrington Pl, London WC1E 6BT, England.
+EM m.batty@ucl.ac.uk; r.carvalho@qmul.ac.uk; asmith@geog.ucl.ac.uk
+RI Batty, Michael/I-5638-2014; Carvalho, Rui/C-4095-2009
+FU Economic and Social Research Council [RES-149-25-1023]; Engineering and
+   Physical Sciences Research Council [EP/C513703/1]
+CR Adamic L.A., 2002, GLOTTOMETRICS, V3, P143
+   Anas A, 1998, J ECON LIT, V36, P1426
+   Batty M., 2005, ARCHIT DESIGN, V75, P42
+   Batty M, 2005, CITIES COMPLEXITY UN
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Berry B. J. L., 2005, PAPERS REGIONAL SCI, V13, P147, DOI DOI 10.1111/J.1435-5597.1964.TB01283.X
+   BETTENCOURT MA, 2007, P NAT ACAD SCI, V104, P7301
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   BON R, 1979, QUAL QUANT, V13, P307
+   Bon R., 1973, EKISTICS, V36, P270
+   Bonner JT, 2006, WHY SIZE MATTERS BAC
+   CARVALHO M, 2006, J STAT MECH-THEO OCT
+   Carvalho R, 2004, PHYSICA A, V332, P539, DOI 10.1016/j.physa.2003.10.024
+   CLAUSET A, 2007, ARXIVORG
+   COWAN P, 1969, REG STUD, V3, P235, DOI 10.1080/09595236900185261
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gibrat R., 1931, INEGALITES EC
+   HUXLEY JS, 1993, PROBLEMS RELATIVE GR
+   Isalgue A, 2007, PHYSICA A, V382, P643, DOI 10.1016/j.physa.2007.04.019
+   KERSCHER K, 2000, ASTROPHYS J, V535, pL13
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Lammer S, 2006, PHYSICA A, V363, P89, DOI 10.1016/j.physa.2006.01.051
+   Lotka A., 1926, J WASHINGTON ACAD SC, V16, P317
+   Newman MEJ, 2005, CONTEMP PHYS, V46, P323, DOI 10.1080/00107510500052444
+   PARETO V, 1896, COURS EC POLITQUE
+   RIPLEY BD, 1976, J APPL PROBAB, V13, P255, DOI 10.2307/3212829
+   RIPLEY BD, 1977, J ROY STAT SOC B MET, V39, P172
+   SAMANIEGO H, 2007, CITIES ORGANISMS ALL
+   Steadman P, 2000, ENVIRON PLANN B, V27, P73, DOI 10.1068/bst7
+   Steadman P, 2006, CONSTR MANAG ECON, V24, P755, DOI 10.1080/01446190600601966
+   Stoyan D., 2000, Statistical physics and spatial statistics. The art of analyzing and modeling spatial structures and pattern formation, P3
+   THOMPSON W, 1971, GROWTH ABRIDGED
+   VONBERTALANFFY L, 1973, GENERAL SYSTEMS THEO
+   West GB, 1999, SCIENCE, V284, P1677, DOI 10.1126/science.284.5420.1677
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 35
+TC 33
+Z9 35
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1434-6028
+EI 1434-6036
+J9 EUR PHYS J B
+JI Eur. Phys. J. B
+PD JUN
+PY 2008
+VL 63
+IS 3
+BP 303
+EP 314
+DI 10.1140/epjb/e2008-00251-5
+PG 12
+WC Physics, Condensed Matter
+SC Physics
+GA 321UY
+UT WOS:000257333200004
+DA 2019-03-26
+ER

@@ -1,0 +1,433 @@
+
+PT J
+AU Lee, CK
+   Juang, LC
+   Wang, CC
+   Liao, YY
+   Yu, CC
+   Liu, YC
+   Ho, DS
+AF Lee, CK
+   Juang, LC
+   Wang, CC
+   Liao, YY
+   Yu, CC
+   Liu, YC
+   Ho, DS
+TI Scaling characteristics in ozone concentration time series (OCTS)
+SO CHEMOSPHERE
+LA English
+DT Article
+DE scale invariance; box counting; multifractal scaling analysis;
+   multifractal cascade model; chaos
+ID AIR-POLLUTANT CONCENTRATION; MULTIFRACTAL CASCADE MODEL; FRACTAL
+   ANALYSIS; RAINFALL; PREDICTION; DYNAMICS
+AB One-year series of hourly average ozone observations, which were obtained from urban and national park air monitoring stations at Taipei (Taiwan), were analyzed by means of descriptive statistics and fractal methods to examine the scaling structures of ozone concentrations. It was found that all ozone measurements exhibited the characteristic right-skewed frequency distribution, cyclic pattern, and long-term memory. A mono-fractal analysis was performed by transferring the ozone concentration time series (OCTS) into a useful compact form, namely, the box-dimension (D-B)-threshold (T-h) and critical scale (C-S)-threshold (T-h) plots. Scale invariance was found in these time series and the box dimension was shown to be a decreasing function of the threshold ozone level, implying the existence of multifractal characteristics. To test this hypothesis, the OCTS were transferred into the multifractal spectra, namely, the tau(q)-q plots. The analysis confirmed the existence of multifractal characteristics in the investigated OCTS. A simple two-scale Cantor set with unequal scales and weights was then used to fit the calculated T(q)-q plots. This model fitted remarkably well the entire spectrum of scaling exponents for the examined OCTS. Because the existence of chaos behavior in OCTS has been reported in the literature, the possibility of a chaotic multifractal approach for OCTS characterization was discussed. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Vanung Univ, Green Environm R&D Ctr, Dept Environm Engn, Chungli 320, Taiwan.
+   Vanung Univ, Green Environm R&D Ctr, Dept Chem & Mat Engn, Chungli 320, Taiwan.
+RP Lee, CK (reprint author), Vanung Univ, Green Environm R&D Ctr, Dept Environm Engn, Chungli 320, Taiwan.
+EM anthony@msa.vnu.edu.tw
+CR Anh VV, 2000, ENVIRONMETRICS, V11, P139, DOI 10.1002/(SICI)1099-095X(200003/04)11:2<139::AID-ENV393>3.3.CO;2-K
+   BOXIAN W, 1994, FRACTALS, V2, P283
+   Buczkowski S, 1998, PHYSICA A, V252, P23, DOI 10.1016/S0378-4371(97)00581-5
+   Chen JL, 1998, ATMOS ENVIRON, V32, P1839, DOI 10.1016/S1352-2310(97)00399-3
+   Godano C, 1997, PURE APPL GEOPHYS, V149, P375
+   Gonzato G, 1998, GEOPHYS J INT, V132, P275, DOI 10.1046/j.1365-246x.1998.00461.x
+   HALSEY TC, 1986, PHYS REV A, V33, P1141, DOI 10.1103/PhysRevA.33.1141
+   HARRIS D, 1997, NONLINEAR PROC GEOPH, V4, P137, DOI DOI 10.5194/NPG-4-137-1997
+   Ho DS, 2004, PHYSICA A, V332, P448, DOI 10.1016/j.physa.2003.10.023
+   Ibarra-Berastegi G, 2001, ATMOS ENVIRON, V35, P5581, DOI 10.1016/S1352-2310(01)00210-2
+   KLEMENT S, 1994, AEROSOL SCI TECH, V20, P100, DOI 10.1080/02786829408959667
+   Klement S, 1997, AEROSOL SCI TECH, V26, P12, DOI 10.1080/02786829708965411
+   Kocak K, 2000, ATMOS ENVIRON, V34, P1267, DOI 10.1016/S1352-2310(99)00323-4
+   Kravchenko AN, 1999, AGRON J, V91, P1033, DOI 10.2134/agronj1999.9161033x
+   Lee CK, 1996, HETEROGEN CHEM REV, V3, P269, DOI 10.1002/(SICI)1234-985X(199609)3:3<269::AID-HCR63>3.0.CO;2-L
+   Lee CK, 2003, ENVIRONMETRICS, V14, P255, DOI 10.1002/env.584
+   Lee CK, 2003, ENVIRON MODELL SOFTW, V18, P243, DOI 10.1016/S1364-8152(02)00078-6
+   Lee CK, 2002, WATER AIR SOIL POLL, V135, P389, DOI 10.1023/A:1014768632318
+   LEE IF, 1994, ATMOS ENVIRON, V28, P1707
+   Lin SC, 1999, FRACTALS, V7, P123, DOI 10.1142/S0218348X99000141
+   LOVEJOY S, 1987, SCIENCE, V235, P1036, DOI 10.1126/science.235.4792.1036
+   LOVEJOY S, 1990, J GEOPHYS RES-ATMOS, V95, P2021, DOI 10.1029/JD095iD03p02021
+   MENEVEAU C, 1987, PHYS REV LETT, V59, P1424, DOI 10.1103/PhysRevLett.59.1424
+   OLSSON J, 1992, J HYDROL, V137, P261, DOI 10.1016/0022-1694(92)90060-9
+   Olsson J, 1996, ATMOS RES, V42, P53, DOI 10.1016/0169-8095(95)00052-6
+   OLSSON J, 1993, J GEOPHYS RES-ATMOS, V98, P23265, DOI 10.1029/93JD02658
+   Raga GB, 1996, ATMOS ENVIRON, V30, P3987, DOI 10.1016/1352-2310(96)00122-7
+   RODRIGUEZ-ITURBE I, 1989, WATER RESOUR RES, V25, P1667, DOI 10.1029/WR025i007p01667
+   Saunders SM, 1997, ATMOS ENVIRON, V31, P1249, DOI 10.1016/S1352-2310(97)85197-7
+   SCHERTZER D, 1987, J GEOPHYS RES-ATMOS, V92, P9693, DOI 10.1029/JD092iD08p09693
+   Sebald L, 2000, ATMOS ENVIRON, V34, P3503, DOI 10.1016/S1352-2310(00)00147-3
+   Sivakumar B, 2001, WATER RESOUR RES, V37, P61, DOI 10.1029/2000WR900196
+   Sivakumar B, 2001, HYDROL PROCESS, V15, P943, DOI 10.1002/hyp.260
+   Wang WJ, 2003, ENVIRON INT, V29, P555, DOI 10.1016/S0160-4120(03)00013-8
+   Windsor HL, 2001, ATMOS ENVIRON, V35, P4545, DOI 10.1016/S1352-2310(01)00208-4
+NR 35
+TC 33
+Z9 38
+U1 0
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-6535
+EI 1879-1298
+J9 CHEMOSPHERE
+JI Chemosphere
+PD FEB
+PY 2006
+VL 62
+IS 6
+BP 934
+EP 946
+DI 10.1016/j.chemosphere.2005.05.046
+PG 13
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 016BF
+UT WOS:000235594800008
+PM 16081138
+DA 2019-03-26
+ER
+
+PT J
+AU Ji, W
+   Ma, J
+   Twibell, RW
+   Underhill, K
+AF Ji, Wei
+   Ma, Jia
+   Twibell, Rima Wahab
+   Underhill, Karen
+TI Characterizing urban sprawl using multi-stage remote sensing images and
+   landscape metrics
+SO COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+LA English
+DT Article
+DE remote sensing; landscape metrics; land cover; urban sprawl; Kansas City
+ID METROPOLITAN-AREA; SCALING RELATIONS; SENSED IMAGERY; LAND-COVER;
+   GROWTH; PATTERN; ATLANTA; REGION; CHINA
+AB This study intends to explore the spatial analytical methods to identify both general trends and more subtle patterns of urban land changes. Landsat imagery of metropolitan Kansas City, USA was used to generate time series of land cover data over the past three decades. Based on remotely sensed land cover data, landscape metrics were calculated. Both the remotely sensed data and landscape metrics were used to characterize long-term trends and patterns of urban sprawl. Land cover change analyses at the metropolitan, county, and city levels reveal that over the past three decades the significant increase of built-up land in the study area was mainly at the expense of non-forest vegetation cover. The spatial and temporal heterogeneity of the land cover changes allowed the identification of fast and slow sprawling areas. The landscape metrics were analyzed across jurisdictional levels to understand the effects of the built-up expansion on the forestland and non-forest vegetation cover. The results of the analysis suggest that at the metropolitan level both the areas of non-forest vegetation and the forestland became more fragmented due to development while large forest patches were less affected. Metrics statistics show that this landscape effect occurred moderately at the county level, while it could be only weakly identified at the city level, suggesting a scale effect that the landscape response of urbanization can be better revealed within larger spatial units (e.g., a metropolitan area or a county as compared to a city). The interpretation of the built-up patch density metrics helped identify different stages of urbanization in two major urban sprawl directions of the metropolitan area. Land consumption indices (LCI) were devised to relate the remotely sensed built-up growth to changes in housing and commercial constructions as major driving factors, providing an effective measure to compare and characterize urban sprawl across jurisdictional boundaries and time periods. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Univ Missouri, Lab GIS & Remote Sensing, Dept Geosci, Kansas City, MO 64110 USA.
+RP Ji, W (reprint author), Univ Missouri, Lab GIS & Remote Sensing, Dept Geosci, Kansas City, MO 64110 USA.
+EM jiwei@umkc.edu
+CR Antrop M, 2000, LANDSCAPE URBAN PLAN, V50, P43, DOI 10.1016/S0169-2046(00)00079-7
+   *BROOK I CTR URB M, 2002, GROWTH HEARTL CHALL
+   Brueckner JK, 2000, INT REGIONAL SCI REV, V23, P160, DOI 10.1177/016001700761012710
+   Chen SP, 2000, PHOTOGRAMM ENG REM S, V66, P593
+   Civco DL, 2002, PHOTOGRAMM ENG REM S, V68, P1083
+   Clapham WB, 2003, REMOTE SENS ENVIRON, V86, P322, DOI 10.1016/S0034-4257(03)00076-2
+   Epstein J, 2002, PHOTOGRAMM ENG REM S, V68, P913
+   Ewing Reid, 2002, MEASURING SPRAWL ITS
+   Fulton WB, 2001, WHO SPRAWLS MOST GRO
+   Hasse J, 2003, PHOTOGRAMM ENG REM S, V69, P1021, DOI 10.14358/PERS.69.9.1021
+   HE HS, 2000, LANDSCAPE ECOLOGY, V15, P590
+   Herold M, 2003, REMOTE SENS ENVIRON, V86, P286, DOI 10.1016/S0034-4257(03)00075-0
+   Herold M, 2002, ENVIRON PLANN A, V34, P1443, DOI 10.1068/a3496
+   Jensen J. R., 2005, INTRO DIGITAL IMAGE, P526
+   Ji CY, 2001, INT J REMOTE SENS, V22, P1441, DOI 10.1080/01431160117207
+   Johnson MP, 2001, ENVIRON PLANN A, V33, P717, DOI 10.1068/a3327
+   Lambin EF, 2001, GLOBAL ENVIRON CHANG, V11, P261, DOI 10.1016/S0959-3780(01)00007-3
+   Lo CP, 2002, PHOTOGRAMM ENG REM S, V68, P1073
+   Luck M, 2002, LANDSCAPE ECOL, V17, P327, DOI 10.1023/A:1020512723753
+   Lucy WH, 2001, SUBURBS CENSUS PATTE
+   Masek JG, 2000, INT J REMOTE SENS, V21, P3473, DOI 10.1080/014311600750037507
+   McGarigal K., 1995, PNW351 USDA FOR SERV
+   Peiser Richard, 2001, TOWN PLANN REV, V72, P275
+   Pendall R, 1999, ENVIRON PLANN B, V26, P555, DOI 10.1068/b260555
+   Phinn S., 2001, AUSTR GEOGRAPHICAL S, V39, P217
+   Ryznar RM, 2001, J AM PLANN ASSOC, V67, P327, DOI 10.1080/01944360108976239
+   Shen WJ, 2004, ECOGRAPHY, V27, P459, DOI 10.1111/j.0906-7590.2004.03799.x
+   *SIERR CLUB, 1998, SPRAWL REP DARK SID
+   Sutton PC, 2003, REMOTE SENS ENVIRON, V86, P353, DOI 10.1016/S0034-4257(03)00078-6
+   United States Environmental Protection Agency (EPA), 2001, 231R01002 US EPA
+   Wang YQ, 2001, CONSERV BIOL, V15, P835, DOI 10.1046/j.1523-1739.2001.015004835.x
+   Ward D, 2000, PROF GEOGR, V52, P371, DOI 10.1111/0033-0124.00232
+   Wu JG, 2004, LANDSCAPE ECOL, V19, P125, DOI 10.1023/B:LAND.0000021711.40074.ae
+   Yang XJ, 2002, PHOTOGRAMM ENG REM S, V68, P725
+   Yeh AGO, 2001, PHOTOGRAMM ENG REM S, V67, P83
+NR 35
+TC 146
+Z9 161
+U1 6
+U2 84
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0198-9715
+J9 COMPUT ENVIRON URBAN
+JI Comput. Environ. Urban Syst.
+PD NOV
+PY 2006
+VL 30
+IS 6
+BP 861
+EP 879
+DI 10.1016/j.compenvurbsys.2005.09.002
+PG 19
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Environmental; Environmental Studies; Geography; Operations Research &
+   Management Science; Regional & Urban Planning
+SC Computer Science; Engineering; Environmental Sciences & Ecology;
+   Geography; Operations Research & Management Science; Public
+   Administration
+GA 116HB
+UT WOS:000242792000011
+DA 2019-03-26
+ER
+
+PT J
+AU Rhodes, T
+   Platt, L
+   Maximova, S
+   Koshkina, E
+   Latishevskaya, N
+   Hickman, M
+   Renton, A
+   Bobrova, N
+   McDonald, T
+   Parry, JV
+AF Rhodes, T
+   Platt, L
+   Maximova, S
+   Koshkina, E
+   Latishevskaya, N
+   Hickman, M
+   Renton, A
+   Bobrova, N
+   McDonald, T
+   Parry, JV
+TI Prevalence of HIV, hepatitis C and syphilis among injecting drug users
+   in Russia: a multi-city study
+SO ADDICTION
+LA English
+DT Article
+DE hepatitis C; harm reduction; HIV; injecting drug use; syphilis; Russia
+ID HUMAN-IMMUNODEFICIENCY-VIRUS; EASTERN-EUROPE; ORAL FLUIDS; RISK;
+   INFECTION; EQUIPMENT; REDUCTION; EPIDEMICS; ANTIBODY; ASSAY
+AB Objectives To estimate the prevalence of HIV, hepatitis C virus (HCV) and syphilis in injecting drug users (IDUs) in Russia. Methods Unlinked anonymous cross-sectional survey of 1473 IDUs recruited from non-treatment settings in Moscow, Volgograd and Barnaul (Siberia), with oral fluid sample collection for HIV, HCV antibody (anti-HIV, anti-HCV) and syphilis testing. Results Prevalence of antibody to HIV was 14% in Moscow, 3% in Volgograd and 9% in Barnaul. HCV prevalence was 67% in Moscow, 70% in Volgograd and 54% in Barnaul. Prevalence of positive syphilis serology was 8% in Moscow, 20% in Volgograd and 6% in Barnaul. Half of those HIV positive and a third of those HCV positive were unaware of their positive status. Common risk factors associated with HIV and HCV infection across the cities included both direct and indirect sharing of injecting equipment and injection of home-produced drugs. Among environmental risk factors, we found increased odds of anti-HIV associated with being in prison in Moscow, and some association between official registration as a drug user and anti-HIV and anti-HCV. No associations were found between sexual risk behaviours and anti-HIV in any city. Conclusions HIV prevalence among IDUs was markedly higher than city routine surveillance data suggests and at potentially critical levels in terms of HIV prevention in two cities. HCV prevalence was high in all cities. Syphilis prevalence highlights the potential for sexual risk and sexual HIV transmission. Despite large-scale testing programmes, knowledge of positive status was poor. The scaling-up of harm reduction for IDUs in Russia, including sexual risk reduction, is an urgent priority.
+C1 Univ London Imperial Coll Sci Technol & Med, Ctr Res Drugs & Hlth Behav, London W6 8RP, England.
+   Univ London Imperial Coll Sci Technol & Med, Unit Int Publ Hlth & Dev, London W6 8RP, England.
+   Altai State Univ, Fac Social Sci, Barnaul 656099, Russia.
+   Natl Sci Ctr Addict, Moscow, Russia.
+   Volgograd Med Acad, Volgograd, Russia.
+   Hlth Protect Agcy, Sexually Transmitted & Blood Borne Virus Lab, London, England.
+RP Rhodes, T (reprint author), Univ London Imperial Coll Sci Technol & Med, Ctr Res Drugs & Hlth Behav, Reynolds Bldg,St Dunstans Rd, London W6 8RP, England.
+EM t.rhodes@imperial.ac.uk
+RI Maximova, Svetlana/G-3165-2014; Latyshevskaya, Nataliya/K-3562-2017
+OI Maximova, Svetlana/0000-0002-4613-4966; Rhodes, Tim/0000-0003-2400-9838;
+   Latyshevskaya, Natalia/0000-0002-8367-745X; Hickman,
+   Matthew/0000-0001-9864-459X
+CR Barnett T., 1999, EUR J DEV RES, V11, P200
+   BOBROVA N, 2005, IN PRESS DRUG ALCOHO
+   BURGERMEISTER J, 2005, BRIT MED J, V32, P1066
+   *CENTR E EUR HARM, 2002, INJ DRUG US HIV AIDS
+   CONNELL JA, 1993, J MED VIROL, V41, P159, DOI 10.1002/jmv.1890410212
+   Dallabetta G, 1997, CURR OPIN INFECT DIS, V10, P22, DOI 10.1097/00001432-199702000-00006
+   DESJARLAIS DC, 1994, AM J PUBLIC HEALTH, V84, P452, DOI 10.2105/AJPH.84.3.452
+   Gallo D, 1997, JAMA-J AM MED ASSOC, V277, P254, DOI 10.1001/jama.277.3.254
+   Granade TC, 1998, CLIN DIAGN LAB IMMUN, V5, P171
+   GRIFFITHS P, 1993, ADDICTION, V88, P1617, DOI 10.1111/j.1360-0443.1993.tb02036.x
+   Hagan H, 2001, AM J PUBLIC HEALTH, V91, P42
+   Hamers FF, 2003, LANCET, V361, P1035, DOI 10.1016/S0140-6736(03)12831-0
+   Judd A, 2003, J MED VIROL, V71, P49, DOI 10.1002/jmv.10463
+   Koester S, 2003, AM J EPIDEMIOL, V157, P376, DOI 10.1093/aje/kwf197
+   Platt L, 2004, ADDICTION, V99, P1430, DOI 10.1111/j.1360-0443.2004.00848.x
+   PLATT L, IN PRESS AM J PUBLIC
+   POWER R, 1994, SOC AS AIDS, V264, P97
+   Rhodes T, 1999, ADDICTION, V94, P1323, DOI 10.1046/j.1360-0443.1999.94913235.x
+   Rhodes T, 2005, SOC SCI MED, V61, P1026, DOI 10.1016/j.socscimed.2004.12.024
+   Rhodes T, 2002, AIDS, V16, pF25, DOI 10.1097/00002030-200209060-00002
+   Rhodes T, 2005, BRIT MED J, V331, P220, DOI 10.1136/bmj.331.7510.220
+   RHODES T, 2004, INT J DRUG POLICY, V15, P1
+   Thorpe LE, 2002, AM J EPIDEMIOL, V155, P645, DOI 10.1093/aje/155.7.645
+   Tichonova L, 1997, LANCET, V350, P210, DOI 10.1016/S0140-6736(97)01382-2
+   Verucchi G, 2004, INFECTION, V32, P33, DOI 10.1007/s15010-004-3063-7
+   Victora CG, 1997, INT J EPIDEMIOL, V26, P224, DOI 10.1093/ije/26.1.224
+   *WHO, 2005, CENTR INF SYST INF D
+NR 27
+TC 81
+Z9 83
+U1 0
+U2 13
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0965-2140
+J9 ADDICTION
+JI Addiction
+PD FEB
+PY 2006
+VL 101
+IS 2
+BP 252
+EP 266
+DI 10.1111/j.1360-0443.2006.01317.x
+PG 15
+WC Substance Abuse; Psychiatry
+SC Substance Abuse; Psychiatry
+GA 006DQ
+UT WOS:000234876100017
+PM 16445554
+DA 2019-03-26
+ER
+
+PT J
+AU Batty, M
+AF Batty, Michael
+TI Rank clocks
+SO NATURE
+LA English
+DT Article
+ID POWER LAWS; ZIPFS LAW; CITIES; SYSTEMS; GROWTH
+AB Many objects and events, such as cities, firms and internet hubs, scale with size(1-4) in the upper tails of their distributions. Despite intense interest in using power laws to characterize such distributions, most analyses have been concerned with observations at a single instant of time, with little analysis of objects or events that change in size through time ( notwithstanding some significant exceptions(5-7)). It is now clear that the evident macro-stability in such distributions at different times can mask a volatile and often turbulent micro-dynamics, in which objects can change their position or rank-order rapidly while their aggregate distribution appears quite stable. Here I introduce a graphical representation termed the 'rank clock' to examine such dynamics for three distributions: the size of cities in the US from AD 1790, the UK from AD1901 and the world from 430 BC. Our results destroy any notion that rank - size scaling is universal: at the micro-level, these clocks show cities and civilizations rising and falling in size at many times and on many scales. The conventional model explaining such scaling on the basis of growth by proportionate effect cannot replicate these micro-dynamics, suggesting that such models and explanations are considerably less general than has hitherto been assumed.
+C1 UCL, Bartlett Sch, Ctr Adv Spatial Anal, London WC1E 6BT, England.
+RP Batty, M (reprint author), UCL, Bartlett Sch, Ctr Adv Spatial Anal, 1-19 Torrington Pl, London WC1E 6BT, England.
+EM m.batty@ucl.ac.uk
+RI Batty, Michael/I-5638-2014
+FU Engineering and Physical Sciences Research Council [EP/C513703/1]
+CR Adamic L.A., 2002, GLOTTOMETRICS, V3, P143
+   Axtell RL, 2001, SCIENCE, V293, P1818, DOI 10.1126/science.1062081
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   BATTY M, 1976, GEOGR ANAL, V8, P1
+   Blank A, 2000, PHYSICA A, V287, P279, DOI 10.1016/S0378-4371(00)00464-7
+   *CDU, CENS WEBS
+   Chandler Tertius, 1987, 4000 YEARS URBAN GRO
+   Gabaix X, 1999, Q J ECON, V114, P739, DOI 10.1162/003355399556133
+   Gabaix Xavier, 2004, HDB REGIONAL URBAN E, V4, P2341, DOI DOI 10.1016/S1574-0080(04)80010-5
+   Gell-Mann M., 2004, NONEXTENSIVE ENTROPY
+   Gibrat R., 1931, INEGALITES EC
+   Gibson C, 1998, 27 US BUR CENS POP D
+   GUERINPACE F, 1995, URBAN STUD, V32, P551, DOI 10.1080/00420989550012960
+   HAVLIN S, 1995, PHYSICA A, V216, P148, DOI 10.1016/0378-4371(95)00069-J
+   Ioannides YM, 2003, REG SCI URBAN ECON, V33, P127, DOI 10.1016/S0166-0462(02)00006-6
+   Krapivsky PL, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.258703
+   Malcai O, 1999, PHYS REV E, V60, P1299, DOI 10.1103/PhysRevE.60.1299
+   Pumain D, 2006, METHODS SER, V3, P169
+   ROBSON BT, 1972, URBAN GROWTH APPROAC
+   Sornette D, 1997, J PHYS I, V7, P431, DOI 10.1051/jp1:1997169
+   Stanley MHR, 1996, NATURE, V379, P804, DOI 10.1038/379804a0
+   Theil H., 1972, STAT DECOMPOSITION
+   Turchin P., 2003, HIST DYNAMICS WHY ST
+   WHITE DR, 2005, GENERATIVE HIST MODE
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 25
+TC 97
+Z9 104
+U1 1
+U2 33
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD NOV 30
+PY 2006
+VL 444
+IS 7119
+BP 592
+EP 596
+DI 10.1038/nature05302
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 110KK
+UT WOS:000242377600042
+PM 17136088
+DA 2019-03-26
+ER
+
+PT J
+AU Crucitti, P
+   Latora, V
+   Porta, S
+AF Crucitti, P
+   Latora, V
+   Porta, S
+TI Centrality in networks of urban streets
+SO CHAOS
+LA English
+DT Article
+ID COMPLEX NETWORKS
+AB Centrality has revealed crucial for understanding the structural properties of complex relational networks. Centrality is also relevant for various spatial factors affecting human life and behaviors in cities. Here, we present a comprehensive study of centrality distributions over geographic networks of urban streets. Five different measures of centrality, namely degree, closeness, betweenness, straightness and information, are compared over 18 1-square-mile samples of different world cities. Samples are represented by primal geographic graphs, i.e., valued graphs defined by metric rather than topologic distance where intersections are turned into nodes and streets into edges. The spatial behavior of centrality indices over the networks is investigated graphically by means of color-coded maps. The results indicate that a spatial analysis, that we term multiple centrality assessment, grounded not on a single but on a set of different centrality indices, allows an extended comprehension of the city structure, nicely capturing the skeleton of most central routes and subareas that so much impacts on spatial cognition and on collective dynamical behaviors. Statistically, closeness, straightness and betweenness turn out to follow similar functional distribution in all cases, despite the extreme diversity of the considered cities. Conversely, information is found to be exponential in planned cities and to follow a power-law scaling in self-organized cities. Hierarchical clustering analysis, based either on the Gini coefficients of the centrality distributions, or on the correlation between different centrality measures, is able to characterize classes of cities. (C) 2006 American Institute of Physics.
+C1 Scuola Super Catania, Catania, Italy.
+   Univ Catania, Dipartimento Fis & Astron, I-95124 Catania, Italy.
+   Ist Nazl Fis Nucl, Sez Catania, Catania, Italy.
+   Politecn Milan, Dipartimento Progettaz Architettura, Milan, Italy.
+RP Crucitti, P (reprint author), Scuola Super Catania, Catania, Italy.
+OI Porta, Sergio/0000-0003-1458-9517; Latora, Vito/0000-0002-0984-8038
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   ALEXANDER C, 1998, NATURE ORDER
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M., 2004, 75 U COLL LOND CTR A
+   BATTY M, 1996, FRACTAL CITIES, P51101
+   BATTY M, 2004, 80 UU COLL LOND CTR
+   BAVELAS A, 2004, HUM ORGAN, V7, P16
+   CARDILLO A, PHYSICS0510162
+   CRUCITTI P, UNPUB
+   CRUCITTI P, PHYSICS0504163
+   DAGUM C, 1980, ECON APPL, V33, P327
+   DALTON N, 2003, P 4 INT SPAC SYNT S
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   GASTNER MT, CONDMAT0407680
+   Goh KI, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.278701
+   Helbing D, 2000, NATURE, V407, P487, DOI 10.1038/35035023
+   Hillier B., 1996, SPACE IS MACHINE CON
+   HILLIER B, 2004, ENV PLAN B PLAN DES, V31, P513
+   Hillier Bill, 1984, SOCIAL LOGIC SPACE
+   Jacobs A, 1993, GREAT STREETS
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2002, T GIS, V6, P151
+   Kuipers B, 2003, ENVIRON BEHAV, V35, P81, DOI 10.1177/0013916502238866
+   Larson R. C., 1981, URBAN OPERATIONS RES
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Latora V, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.015103
+   LATORA V, CONDMAT0402050
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   NIEMINEN J, 1974, SCAND J PSYCHOL, V15, P332, DOI 10.1111/j.1467-9450.1974.tb00598.x
+   Pastor-Satorras R., 2004, EVOLUTION STRUCTURE
+   PENN A, 2003, P 3 INT SPAC SYNT S
+   PITTS FR, 1979, SOC NETWORKS, V1, P285, DOI 10.1016/0378-8733(78)90025-4
+   PORTA S, CONDMAT0411241
+   PORTA S, IN PRESS ENV PLAN B
+   PORTA S, UNPUB
+   Ratti C, 2004, ENVIRON PLANN B, V31, P513, DOI 10.1068/b3019b
+   Rosvall M, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.028701
+   SABIDUSSI G, 1966, PSYCHOMETRIKA, V31, P581, DOI 10.1007/BF02289527
+   SALHEEN M, 2001, URBAN DES INT, V6, P93
+   SALINGAROS N. A., 1998, J URBAN DESIGN, V3, P53, DOI DOI 10.1080/13574809808724416
+   SCELLATO S, PHYSICS0511063
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   TEKLENBURG JAF, 1993, ENVIRON PLANN B, V20, P347, DOI 10.1068/b200347
+   Turner Ralph H., 1987, COLLECTIVE BEHAV
+   Vragovic I, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.036122
+   Wasserman S., 1994, SOCIAL NETWORKS ANAL
+   Wilson G, 2000, COMPLEX SPATIAL SYST
+NR 48
+TC 92
+Z9 108
+U1 3
+U2 41
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 1054-1500
+EI 1089-7682
+J9 CHAOS
+JI Chaos
+PD MAR
+PY 2006
+VL 16
+IS 1
+AR 015113
+DI 10.1063/1.2150162
+PG 9
+WC Mathematics, Applied; Physics, Mathematical
+SC Mathematics; Physics
+GA 028CS
+UT WOS:000236464500048
+PM 16599779
+DA 2019-03-26
+ER

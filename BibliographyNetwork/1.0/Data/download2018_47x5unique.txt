@@ -1,0 +1,462 @@
+
+PT J
+AU Chen, YG
+   Huang, LS
+AF Chen, Yanguang
+   Huang, Linshan
+TI Spatial Measures of Urban Systems: from Entropy to Fractal Dimension
+SO ENTROPY
+LA English
+DT Article
+DE entropy; fractal; scaling; scale dependence; spatial heterogeneity;
+   urban land use
+ID GENERALIZED DIMENSIONS; FORM; POPULATION; EVOLUTION; CITIES
+AB One type of fractal dimension definition is based on the generalized entropy function. Both entropy and fractal dimensions can be employed to characterize complex spatial systems such as cities and regions. Despite the inherent connection between entropy and fractal dimensions, they have different application scopes and directions in urban studies. This paper focuses on exploring how to convert entropy measurements into fractal dimensions for the spatial analysis of scale-free urban phenomena using the ideas from scaling. Urban systems proved to be random prefractal and multifractal systems. The spatial entropy of fractal cities bears two properties. One is the scale dependence: the entropy values of urban systems always depend on the linear scales of spatial measurement. The other is entropy conservation: different fractal parts bear the same entropy value. Thus, entropy cannot reflect the simple rules of urban processes and the spatial heterogeneity of urban patterns. If we convert the generalized entropies into multifractal spectrums, the problems of scale dependence and entropy homogeneity can be solved to a degree for urban spatial analysis. Especially, the geographical analyses of urban evolution can be simplified. This study may be helpful for students in describing and explaining the spatial complexity of urban evolution.
+C1 [Chen, Yanguang; Huang, Linshan] Peking Univ, Coll Urban & Environm Sci, Dept Geog, Beijing 100871, Peoples R China.
+RP Chen, YG (reprint author), Peking Univ, Coll Urban & Environm Sci, Dept Geog, Beijing 100871, Peoples R China.
+EM chenyg@pku.edu.cn; linshanhuang@pku.edu.cn
+FU National Natural Science Foundations of China [41590843, 41671167]
+FX This research was sponsored by the National Natural Science Foundations
+   of China (Grant No. 41590843 & 41671167). The supports are gratefully
+   acknowledged. We are very grateful to guest editor and three anonymous
+   reviewers whose constructive and interesting suggestions were helpful in
+   improving the paper's quality.
+CR Allen PM, 1997, CITIES REGIONS SELF
+   Anselin L, 1996, SPATIAL ANAL PERSPEC, P111
+   Bar-Yam Y, 2004, ADV COMPLEX SYST, V7, P47, DOI 10.1142/S0219525904000068
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Batty M, 2014, J GEOGR SYST, V16, P363, DOI 10.1007/s10109-014-0202-2
+   Batty M, 2010, GEOGR ANAL, V42, P395, DOI 10.1111/j.1538-4632.2010.00800.x
+   Chen T., 1995, THESIS
+   Chen Y.-G., 2017, ARXIV160808839
+   Chen YG, 2018, FRACTALS, V26, DOI 10.1142/S0218348X18500330
+   Chen YG, 2017, ENTROPY-SWITZ, V19, DOI 10.3390/e19110600
+   Chen YG, 2017, CHAOS SOLITON FRACT, V105, P279, DOI 10.1016/j.chaos.2017.10.018
+   Chen YG, 2016, FRACTALS, V24, DOI 10.1142/S0218348X16500043
+   Chen YG, 2014, PHYSICA A, V402, P266, DOI 10.1016/j.physa.2014.01.061
+   Chen YG, 2013, ENVIRON PLANN B, V40, P884, DOI 10.1068/b36155
+   Chen YG, 2012, PHYSICA A, V391, P3285, DOI 10.1016/j.physa.2011.12.031
+   Chen YG, 2012, CHAOS SOLITON FRACT, V45, P115, DOI 10.1016/j.chaos.2011.10.007
+   CHHABRA A, 1989, PHYS REV LETT, V62, P1327, DOI 10.1103/PhysRevLett.62.1327
+   CHHABRA AB, 1989, PHYS REV A, V40, P5284, DOI 10.1103/PhysRevA.40.5284
+   Cramer F., 1993, CHAOS ORDER COMPLEX
+   De Blij H.J., 1997, GEOGRAPHY REALMS REG
+   Encarnacao S, 2013, ENTROPY-SWITZ, V15, P2679, DOI 10.3390/e15072679
+   Fan Y, 2017, ENTROPY-SWITZ, V19, DOI 10.3390/e19020051
+   Feder J, 1988, FRACTALS
+   Feng JA, 2010, ENVIRON PLANN B, V37, P838, DOI 10.1068/b35078
+   Frankhauser P, 1998, POPULATION ENGLISH S, V10, P205
+   Frisch U, 1985, TURBULENCE PREDICTAB, P84
+   Goodchild ME, 2004, ANN ASSOC AM GEOGR, V94, P709
+   GOODCHILD MF, 1987, ANN ASSOC AM GEOGR, V77, P265, DOI 10.1111/j.1467-8306.1987.tb00158.x
+   GRASSBERGER P, 1983, PHYS LETT A, V97, P227, DOI 10.1016/0375-9601(83)90753-3
+   GRASSBERGER P, 1985, PHYS LETT A, V107, P101, DOI 10.1016/0375-9601(85)90724-8
+   HALSEY TC, 1986, PHYS REV A, V33, P1141, DOI 10.1103/PhysRevA.33.1141
+   HENTSCHEL HGE, 1983, PHYSICA D, V8, P435, DOI 10.1016/0167-2789(83)90235-X
+   Huang LS, 2018, FRACTALS, V26, DOI 10.1142/S0218348X18500196
+   Jullien R, 1987, AGGREGATION FRACTAL
+   Liu S.-D., 1993, INTRO FRACTALS FRACT
+   LONGLEY PA, 1991, T I BRIT GEOGR, V16, P75, DOI 10.2307/622907
+   LOVEJOY S, 1987, SCIENCE, V235, P1036, DOI 10.1126/science.235.4792.1036
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   MEAKIN P, 1986, PHYS REV A, V34, P3325, DOI 10.1103/PhysRevA.34.3325
+   Padmanaban R, 2017, ENTROPY-SWITZ, V19, DOI 10.3390/e19040163
+   Portugali J, 2011, UNDERST COMPLEX SYST, P1, DOI 10.1007/978-3-642-19451-1
+   Rozenfeld HD, 2011, AM ECON REV, V101, P2205, DOI 10.1257/aer.101.5.2205
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   RYABKO BY, 1986, PROBL PEREDACHI INF, V22, P16
+   STANLEY HE, 1988, NATURE, V335, P405, DOI 10.1038/335405a0
+   Stigler S. M, 1980, T NEW YORK ACAD SCI, V39, P147, DOI DOI 10.1111/J.2164-0947.1980.TB02775.X
+   Terzi F, 2011, ENVIRON PLANN B, V38, P175, DOI 10.1068/b35096
+   Vicsek T, 1989, FRACTAL GROWTH PHENO
+   WHITE R, 1993, ENVIRON PLANN A, V25, P1175, DOI 10.1068/a251175
+   Wilson A. G., 2000, COMPLEX SPATIAL SYST
+NR 50
+TC 0
+Z9 0
+U1 2
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1099-4300
+J9 ENTROPY-SWITZ
+JI Entropy
+PD DEC
+PY 2018
+VL 20
+IS 12
+AR 991
+DI 10.3390/e20120991
+PG 21
+WC Physics, Multidisciplinary
+SC Physics
+GA HF5OM
+UT WOS:000454282000099
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Alimoradi, J
+   Naghipour, D
+   Kamani, H
+   Asgari, G
+   Naimi-Joubani, M
+   Ashrafi, SD
+AF Alimoradi, Javad
+   Naghipour, Dariush
+   Kamani, Hossein
+   Asgari, Ghorban
+   Naimi-Joubani, Mohammad
+   Ashrafi, Seyed Davoud
+TI Data on corrosive water in the sources and distribution network of
+   drinking water in north of Iran
+SO DATA IN BRIEF
+LA English
+DT Article
+DE Drinking water; Corrosive water; Scaling potential; Amlash; Rudsar
+ID GROUNDWATER; PROVINCE; REMOVAL
+AB This study aimed to determine the parameters of scaling and corrosion potential of drinking water in sources and distribution networks of water supply in two cities of north of Iran. The results of Amlash water sampels analysis in winter revealed that the average values of Langelier, Ryznar, Aggressive, Pockorius, and Larson- skold indices was -1.31, 9.73, 11.5, 9.74 and 0.24, respectively, but, in summer they were -1.51, 10.71, 11.36, 10.72 and 0.25, respectively. For Rudsar, the results of water sampels analysis in winter illustrated that the average values of Langelier, Ryznar, Aggressive, Pockorius, and Larson was -1.12, 9.69, 11.33, 9.19 and 0.16, respectively, while, in summer they were -1.05, 10.04, 11.92, 10.18 and 0.19, respectively. The beneficial of this data is showing the clear image of drinking water quality and can be useful for preventing the economical and safety problems relating to corrosion and scaling of drinking water. (C) 2018 The Authors. Published by Elsevier Inc.
+C1 [Alimoradi, Javad; Naghipour, Dariush; Naimi-Joubani, Mohammad; Ashrafi, Seyed Davoud] Guilan Univ Med Sci, Sch Hlth, Rasht, Iran.
+   [Kamani, Hossein] Zahedan Univ Med Sci, Hlth Promot Res Ctr, Zahedan, Iran.
+   [Asgari, Ghorban] Hamadan Univ Med Sci, Dept Environm Hlth Engn, SDHRC, Hamadan, Iran.
+   [Ashrafi, Seyed Davoud] Guilan Univ Med Sci, Res Ctr Hlth & Environm, Rasht, Iran.
+RP Ashrafi, SD (reprint author), Guilan Univ Med Sci, Sch Hlth, Rasht, Iran.
+EM d_ashrafi@yahoo.com
+OI naghipour, dariush/0000-0001-8339-3791
+FU Guilan University of Medical Sciences, Rasht, Iran [95112303]
+FX This article was a part of master science thesis of the first author
+   that has been registered in Ethics Committee under ID no:
+   IR.GUMS.REC.1395.354, and the finance of this work was provided by
+   Guilan University of Medical Sciences, Rasht, Iran. (Grant number;
+   95112303).
+CR Abbasnia A, 2018, DATA BRIEF, V16, P182, DOI [10.1016/j.dib.2017.11.003, 10.1016/j.dib.2018.02.024]
+   Asgari G., 2015, SOUTH MED J, V18, P353
+   Ashrafi SD, 2016, DESALIN WATER TREAT, V57, P14478, DOI 10.1080/19443994.2015.1063462
+   Ashrafi SD, 2016, DESALIN WATER TREAT, V57, P738, DOI 10.1080/19443994.2014.979329
+   Ashrafi SD, 2016, DESALIN WATER TREAT, V57, P16456, DOI 10.1080/19443994.2015.1080188
+   Dizgah SH, 2018, DATA BRIEF, V16, P271, DOI 10.1016/j.dib.2017.11.042
+   Kamani H., 2017, Journal of Mazandaran University of Medical Sciences, V27, P140
+   W. E. Federation A. P. H. Association, 2005, STANDARD METHODS EXA
+   Yousefi N, 2016, DESALIN WATER TREAT, V57, P11782, DOI 10.1080/19443994.2015.1044914
+NR 9
+TC 4
+Z9 5
+U1 1
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2352-3409
+J9 DATA BRIEF
+JI Data Brief
+PD APR
+PY 2018
+VL 17
+BP 105
+EP 118
+DI 10.1016/j.dib.2017.12.057
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GZ8SF
+UT WOS:000449763000011
+PM 29876379
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Farooq, A
+   Alhalabi, W
+   Alahmadi, SM
+AF Farooq, Aqeel
+   Alhalabi, Wadee
+   Alahmadi, Sara M.
+TI Traffic systems in smart cities using LabVIEW
+SO JOURNAL OF SCIENCE AND TECHNOLOGY POLICY MANAGEMENT
+LA English
+DT Article
+DE Sensors; Accelerometer; HMI; LabVIEW; PRJC Teensy 3.1; Virtual channels
+AB Purpose The purpose of this research work is to design and apply LabVIEW in the area of traffic maintenance and flow, by introducing improvements in the smart city. The objective is to introduce the automated human-machine interface (HMI) - a computer-based graphical user interface (GUI) - for measuring the traffic flow and detecting faults in poles.
+   Design/methodology/approach This research paper is based on the use of LabVIEW for designing the HMI for a traffic system in a smart city. This includes considerable measures that are: smart flow of traffic, violation detection on the signal, fault measurement in the traffic pole, locking down of cars for emergency and measuring parameters inside the cars.
+   Findings In this paper, the GUIs and the required circuitry for making improvements in the infrastructure of traffic systems have been designed and proposed, with their respective required hardware. Several measured conditions have been discussed in detail.
+   Research limitations/implications PJRC Teensy 3.1 has been used because it contains enough general-purpose input-output (GPIO) pins required for monitoring parameters that are used for maintaining the necessary flow of traffic and monitor the proposed study case. A combination of sensors such as infrared, accelerometer, magnetic compass, temperature sensor, current sensors, ultrasonic sensor, fingerprint readers, etc. are used to create a monitoring environment for the application. Using Teensy and LabVIEW, the system costs less and is effective in terms of performance.
+   Practical implications The microprocessor board shields for placing actuators and sensors and for attaching the input/output (I/O) to the LED indicators and display have been designed. A circuitry for scaling voltage, i.e. making sensor readings to read limits, has been designed. A combination of certain sensors, at different signals, will lead to a secure and more durable control of traffic. The proposed applications with its hardware and software cost less, are effective and can be easily used for making the city's traffic services smart. For alarm levels, the desired alarm level can be set from the front panel for certain conditions from the monitoring station. For this, virtual channels can be created for allowing the operator to set any random value for limits. If the sensor value crosses the alarm value, then the corresponding alarm displays an alert. The system works by using efficient decision-making techniques and stores the data along with the corresponding time of operation, for future decisions.
+   Originality/value This study is an advanced research of its category because it combines the field of electrical engineering, computer science and traffic systems by using LabVIEW.
+C1 [Farooq, Aqeel] Bright Inc, Jeddah, Saudi Arabia.
+   [Alhalabi, Wadee; Alahmadi, Sara M.] Effat Univ, Dept Comp Sci, Jeddah, Saudi Arabia.
+RP Farooq, A (reprint author), Bright Inc, Jeddah, Saudi Arabia.
+EM aqeelfarooq92@gmail.com
+CR [Anonymous], 2016, SUPCON E6500 DAQ DEV
+   Barrett S. F., 2013, SYNTHESIS LECT DIGIT, V8, P1
+   Berntzen L., 2015, KEYNOTE DIGITALWORLD
+   Chen B., 2010, IEEE T INTELLIGENT T, V11
+   Cocchia A, 2014, PROGR IS, P13, DOI 10.1007/978-3-319-06160-3_2
+   Demirkan H, 2013, IT PROF, V15, P38, DOI 10.1109/MITP.2013.35
+   Gea T, 2013, 2013 SEVENTH INTERNATIONAL CONFERENCE ON INNOVATIVE MOBILE AND INTERNET SERVICES IN UBIQUITOUS COMPUTING (IMIS 2013), P552, DOI 10.1109/IMIS.2013.158
+   Hoh B, 2010, IEEE T MOBILE COMPUT, V9, P1089, DOI 10.1109/TMC.2010.62
+   Ishida T, 2000, LECT NOTES COMPUT SC, V1765, P7
+   Khatoun R, 2017, IEEE COMMUN MAG, V55, P51, DOI 10.1109/MCOM.2017.1600297CM
+   Khatoun R, 2016, COMMUN ACM, V59, P46, DOI 10.1145/2858789
+   Khekare GS, 2013, 2013 IEEE INTERNATIONAL MULTI CONFERENCE ON AUTOMATION, COMPUTING, COMMUNICATION, CONTROL AND COMPRESSED SENSING (IMAC4S), P302, DOI 10.1109/iMac4s.2013.6526427
+   Li XM, 2016, ADV ENG SOFTW, V93, P1, DOI 10.1016/j.advengsoft.2015.11.003
+   Lu RX, 2012, IEEE T VEH TECHNOL, V61, P86, DOI 10.1109/TVT.2011.2162864
+   Misbahuddin S, 2015, 2015 12TH INTERNATIONAL CONFERENCE ON HIGH-CAPACITY OPTICAL NETWORKS AND ENABLING/EMERGING TECHNOLOGIES (HONET), P142
+   Nam T., 2011, P 12 INT DIG GOV RES, P282, DOI DOI 10.1145/2037556.2037602
+   NESIMI ERTUGRUL, 1999, VIRT LAB SURV LABVIE
+   NESIMI ERTUGRUL, 1999, VIRTUAL LAB SURVEY L
+   Oppermann  R., 2002, HDB INFORM TECHNOLOG, P233, DOI DOI 10.1007/978-3-662-07682-8_15
+   Skogestad S., 2007, MULTIVARIABLE FEEDBA, V2
+   Travis J., 2006, NATL INSTRUMENTS VIR
+   Van Bastelaer B., 1998, SLIM RES DG 12 TSER
+   Walden RH, 1999, IEEE J SEL AREA COMM, V17, P539, DOI 10.1109/49.761034
+   Zhu FH, 2016, IEEE T INTELL TRANSP, V17, P1576, DOI 10.1109/TITS.2015.2506156
+NR 24
+TC 0
+Z9 0
+U1 1
+U2 1
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 2053-4620
+EI 1758-5538
+J9 J SCI TECHNOL POLICY
+JI J. Sci. Technol. Policy Manag.
+PY 2018
+VL 9
+IS 2
+SI SI
+BP 242
+EP 255
+DI 10.1108/JSTPM-05-2017-0015
+PG 14
+WC Management
+SC Business & Economics
+GA GM7QM
+UT WOS:000438388000008
+DA 2019-03-26
+ER
+
+PT J
+AU Qiu, JX
+   Carpenter, SR
+   Booth, EG
+   Motew, M
+   Zipper, SC
+   Kucharik, CJ
+   Loheide, SP
+   Turner, AG
+AF Qiu, Jiangxiao
+   Carpenter, Stephen R.
+   Booth, Eric G.
+   Motew, Melissa
+   Zipper, Samuel C.
+   Kucharik, Christopher J.
+   Loheide, Steven P., II
+   Turner, Andmonica G.
+TI Understanding relationships among ecosystem services across spatial
+   scales and over time
+SO ENVIRONMENTAL RESEARCH LETTERS
+LA English
+DT Article
+DE tradeoffs; synergies; sustainability; social-ecological systems; future
+   scenarios; biophysical modeling; agricultural landscape
+ID SOCIAL-ECOLOGICAL SYSTEMS; TRADE-OFFS; AGRICULTURAL LANDSCAPE;
+   MACROSYSTEMS ECOLOGY; MANAGEMENT-PRACTICES; CARBON BALANCE; WATER;
+   SYNERGIES; VEGETATION; MODEL
+AB Sustaining ecosystem services (ES), mitigating their tradeoffs and avoiding unfavorable future trajectories are pressing social-environmental challenges that require enhanced understanding of their relationships across scales. Current knowledge of ES relationships is often constrained to one spatial scale or one snapshot in time. In this research, we integrated biophysical modeling with future scenarios to examine changes in relationships among eight ES indicators from 2001-2070 across three spatial scales-grid cell, subwatershed, and watershed. We focused on the Yahara Watershed (Wisconsin) in the Midwestern United States-an exemplar for many urbanizing agricultural landscapes. Relationships among ES indicators changed over time; some relationships exhibited high interannual variations (e.g. drainage vs. food production, nitrate leaching vs. net ecosystem exchange) and even reversed signs over time (e.g. perennial grass production vs. phosphorus yield). Robust patterns were detected for relationships among some regulating services (e.g. soil retention vs. water quality) across three spatial scales, but other relationships lacked simple scaling rules. This was especially true for relationships of food production vs. water quality, and drainage vs. number of days with runoff > 10 mm, which differed substantially across spatial scales. Our results also showed that local tradeoffs between food production and water quality do not necessarily scale up, so reducing local tradeoffs may be insufficient to mitigate such tradeoffs at the watershed scale. We further synthesized these cross-scale patterns into a typology of factors that could drive changes in ES relationships across scales: (1) effects of biophysical connections, (2) effects of dominant drivers, (3) combined effects of biophysical linkages and dominant drivers, and (4) artificial scale effects, and concluded with management implications. Our study highlights the importance of taking a dynamic perspective and accounting for spatial scales in monitoring and management to sustain future ES.
+C1 [Qiu, Jiangxiao] Univ Florida, Sch Forest Resources & Conservat, Ft Lauderdale Res & Educ Ctr, Davie, FL 33314 USA.
+   [Qiu, Jiangxiao; Turner, Andmonica G.] Univ Wisconsin, Dept Integrat Biol, Madison, WI 53706 USA.
+   [Carpenter, Stephen R.] Univ Wisconsin, Ctr Limnol, Madison, WI 53706 USA.
+   [Booth, Eric G.; Loheide, Steven P., II] Univ Wisconsin, Dept Civil & Environm Engn, Madison, WI 53706 USA.
+   [Booth, Eric G.; Kucharik, Christopher J.] Univ Wisconsin, Dept Agron, 1575 Linden Dr, Madison, WI 53706 USA.
+   [Motew, Melissa; Kucharik, Christopher J.] Univ Wisconsin, Ctr Sustainabil & Global Environm, Madison, WI 53706 USA.
+   [Zipper, Samuel C.] Univ Victoria, Dept Civil Engn, Victoria, BC, Canada.
+   [Zipper, Samuel C.] McGill Univ, Dept Earth & Planetary Sci, Montreal, PQ, Canada.
+RP Qiu, JX (reprint author), Univ Florida, Sch Forest Resources & Conservat, Ft Lauderdale Res & Educ Ctr, Davie, FL 33314 USA.; Qiu, JX (reprint author), Univ Wisconsin, Dept Integrat Biol, Madison, WI 53706 USA.
+EM qiuj@ufl.edu
+RI ; Zipper, Samuel/B-8667-2013
+OI Loheide, Steven/0000-0003-1897-0163; Booth, Eric/0000-0003-2191-6627;
+   Motew, Melissa/0000-0003-1686-4754; Zipper, Samuel/0000-0002-8735-5757
+FU National Science Foundation Water Sustainability and Climate Program
+   [DEB-1038759]; North Temperate Lakes Long-Term Ecological Research
+   [DEB-1440297]; Wisconsin Alumni Research Foundation Bridge; Vilas Trust
+   of the University of Wisconsin-Madison; USDA National Institute of Food
+   and Agriculture, Hatch [FLA-FTL-005640]; McIntire-Stennis [1014703];
+   University of Florida Open Access Publishing Fund
+FX This research was supported by National Science Foundation Water
+   Sustainability and Climate Program (DEB-1038759), North Temperate Lakes
+   Long-Term Ecological Research (DEB-1440297), and Wisconsin Alumni
+   Research Foundation Bridge to the Future funding. MGT also acknowledges
+   support from the Vilas Trust of the University of Wisconsin-Madison. JQ
+   also acknowledges USDA National Institute of Food and Agriculture, Hatch
+   (FLA-FTL-005640) and McIntire-Stennis (1014703) projects for partial
+   financial support of this work. Publication of this article was funded
+   in part by the University of Florida Open Access Publishing Fund.
+   Special thanks to Jenny Seifert and Elizabeth Katt-Reinders for the
+   development of scenarios, and Pavel Pinkas for assistance in parallel
+   computing of model simulations. We thank anonymous reviewers and the
+   editor for helpful comments on an earlier version of the manuscript.
+CR Ahiablame LM, 2012, WATER AIR SOIL POLL, V223, P4253, DOI 10.1007/s11270-012-1189-2
+   Allen T. F. H., 1982, HIERARCHY PERSPECTIV
+   Anderson BJ, 2009, J APPL ECOL, V46, P888, DOI 10.1111/j.1365-2664.2009.01666.x
+   Andersson E, 2015, ECOSYST SERV, V12, P157, DOI 10.1016/j.ecoser.2014.08.001
+   Arabi M, 2006, J AM WATER RESOUR AS, V42, P513, DOI 10.1111/j.1752-1688.2006.tb03854.x
+   Asbjornsen H, 2014, RENEW AGR FOOD SYST, V29, P101, DOI 10.1017/S1742170512000385
+   Bennett EM, 2009, ECOL LETT, V12, P1394, DOI 10.1111/j.1461-0248.2009.01387.x
+   Booth EG, 2016, ENVIRON MODELL SOFTW, V85, P80, DOI 10.1016/j.envsoft.2016.08.008
+   Bradford MA, 2014, NAT CLIM CHANGE, V4, P625, DOI [10.1038/nclimate2251, 10.1038/NCLIMATE2251]
+   Carlson MA, 2011, J HYDROL, V409, P196, DOI 10.1016/j.jhydrol.2011.08.020
+   Carpenter SR, 2018, LIMNOL OCEANOGR, V63, P1221, DOI 10.1002/lno.10767
+   Carpenter SR, 2015, ECOL SOC, V20, DOI 10.5751/ES-07433-200210
+   Carpenter SR, 2009, P NATL ACAD SCI USA, V106, P1305, DOI 10.1073/pnas.0808772106
+   Clark JS, 2001, SCIENCE, V293, P657, DOI 10.1126/science.293.5530.657
+   Cord AF, 2017, ECOSYST SERV, V28, P264, DOI 10.1016/j.ecoser.2017.07.012
+   Costanza R, 2007, ECOL ECON, V61, P478, DOI 10.1016/j.ecolecon.2006.03.021
+   Craig JR, 2010, HYDROL PROCESS, V24, P2328, DOI 10.1002/hyp.7601
+   Cumming GS, 2006, ECOL SOC, V11
+   Donner SD, 2003, GLOBAL BIOGEOCHEM CY, V17, DOI 10.1029/2001GB001808
+   Ellis EC, 2008, FRONT ECOL ENVIRON, V6, P439, DOI 10.1890/070062
+   Foley JA, 1996, GLOBAL BIOGEOCHEM CY, V10, P603, DOI 10.1029/96GB02692
+   Foley JA, 2011, NATURE, V478, P337, DOI 10.1038/nature10452
+   Garcia D, 2007, CONSERV BIOL, V21, P400, DOI 10.1111/j.1523-1739.2006.00593.x
+   Gardner R. H., 2001, SCALING RELATIONS EX
+   Goldstein JH, 2012, P NATL ACAD SCI USA, V109, P7565, DOI 10.1073/pnas.1201040109
+   Haines-Young R, 2012, ECOL INDIC, V21, P39, DOI 10.1016/j.ecolind.2011.09.004
+   Hao RF, 2017, AGR ECOSYST ENVIRON, V240, P171, DOI 10.1016/j.agee.2017.02.015
+   Heffernan JB, 2014, FRONT ECOL ENVIRON, V12, P5, DOI 10.1890/130017
+   Holland RA, 2011, ECOL APPL, V21, P2034, DOI 10.1890/09-2195.1
+   Howe C, 2014, GLOBAL ENVIRON CHANG, V28, P263, DOI 10.1016/j.gloenvcha.2014.07.005
+   Jones KB, 2006, SCALING AND UNCERTAINTY ANALYSIS IN ECOLOGY: METHODS AND APPLICATIONS, P205, DOI 10.1007/1-4020-4663-4_11
+   Kareiva P, 2007, SCIENCE, V316, P1866, DOI 10.1126/science.1140170
+   Koch EW, 2009, FRONT ECOL ENVIRON, V7, P29, DOI 10.1890/080126
+   Kucharik CJ, 2007, AGR FOREST METEOROL, V146, P134, DOI 10.1016/j.agrformet.2007.05.011
+   Kucharik CJ, 2003, EARTH INTERACT, V7
+   Kucharik CJ, 2000, GLOBAL BIOGEOCHEM CY, V14, P795, DOI 10.1029/1999GB001138
+   LEVIN SA, 1992, ECOLOGY, V73, P1943, DOI 10.2307/1941447
+   Maes J, 2012, BIOL CONSERV, V155, P1, DOI 10.1016/j.biocon.2012.06.016
+   Manzoni S, 2009, SOIL BIOL BIOCHEM, V41, P1355, DOI 10.1016/j.soilbio.2009.02.031
+   McIsaac GF, 2010, J ENVIRON QUAL, V39, P1790, DOI 10.2134/jeq2009.0497
+   Meacham M, 2016, ECOL SOC, V21, DOI 10.5751/ES-08077-210114
+   Millennium Ecosystem Assessment (MEA), 2005, EC HUM WELL BEING SC
+   Millennium Ecosystem Assessment (MEA), 2005, EC HUM WELL BEING SY
+   Motew M, 2017, ECOSYSTEMS, V20, P1468, DOI 10.1007/s10021-017-0125-0
+   Motew MM, 2013, J GEOPHYS RES-BIOGEO, V118, P248, DOI 10.1002/jgrg.20025
+   Nangia V, 2008, AGR WATER MANAGE, V95, P825, DOI 10.1016/j.agwat.2008.02.014
+   O'Neill R.V., 1986, HIERARCHICAL CONCEPT
+   Peters DPC, 2006, SCALING AND UNCERTAINTY ANALYSIS IN ECOLOGY: METHODS AND APPLICATIONS, P131, DOI 10.1007/1-4020-4663-4_7
+   Power AG, 2010, PHILOS T R SOC B, V365, P2959, DOI 10.1098/rstb.2010.0143
+   Qiu JX, 2018, ECOL APPL, V28, P119, DOI 10.1002/eap.1633
+   Qiu JX, 2017, LANDSCAPE ECOL, V32, P59, DOI 10.1007/s10980-016-0428-0
+   Qiu JX, 2015, ECOSPHERE, V6, DOI 10.1890/ES15-00312.1
+   Qiu JX, 2013, P NATL ACAD SCI USA, V110, P12149, DOI 10.1073/pnas.1310539110
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Randall GW, 1997, J ENVIRON QUAL, V26, P1240, DOI 10.2134/jeq1997.00472425002600050007x
+   Raudsepp-Hearne C, 2010, P NATL ACAD SCI USA, V107, P5242, DOI 10.1073/pnas.0907284107
+   Raudsepp-Hearne C, 2016, ECOL SOC, V21, DOI 10.5751/ES-08605-210316
+   Renard D, 2015, P NATL ACAD SCI USA, V112, P13411, DOI 10.1073/pnas.1502565112
+   Ricketts TH, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms13106
+   Rodriguez JP, 2006, ECOL SOC, V11
+   Rose KC, 2017, ECOL LETT, V20, P147, DOI 10.1111/ele.12717
+   Schneider DC, 2001, BIOSCIENCE, V51, P545, DOI 10.1641/0006-3568(2001)051[0545:TROTCO]2.0.CO;2
+   Scholes RJ, 2013, CURR OPIN ENV SUST, V5, P16, DOI 10.1016/j.cosust.2013.01.004
+   Scholes RJ, 2017, ECOSYSTEMS, V20, P4, DOI 10.1007/s10021-016-0047-2
+   Sims DW, 2008, NATURE, V451, P1098, DOI 10.1038/nature06518
+   Soylu ME, 2014, AGR FOREST METEOROL, V189, P198, DOI 10.1016/j.agrformet.2014.01.019
+   Spake R, 2017, GLOBAL ENVIRON CHANG, V47, P37, DOI 10.1016/j.gloenvcha.2017.08.004
+   Steffen W, 2015, SCIENCE, V347, DOI 10.1126/science.1259855
+   [Â≠ôÊ≥ΩÁ•? Sun Zexiang], 2016, [ÁîüÊ?ÅÂ≠¶Êä?, Acta Ecologica Sinica], V36, P4881
+   Tomscha SA, 2016, ECOL SOC, V21, DOI 10.5751/ES-08345-210143
+   Turner KG, 2014, LANDSCAPE URBAN PLAN, V125, P89, DOI 10.1016/j.landurbplan.2014.02.007
+   Wardropper CB, 2016, ECOL SOC, V21, DOI 10.5751/ES-08384-210212
+   Whittaker RJ, 1999, NATURE, V401, P865, DOI 10.1038/44732
+   WIENS JA, 1989, FUNCT ECOL, V3, P385, DOI 10.2307/2389612
+   Wu J., 2006, SCALING UNCERTAINTY
+   Wu JG, 2004, LANDSCAPE ECOL, V19, P125, DOI 10.1023/B:LAND.0000021711.40074.ae
+   Zheng H, 2016, FRONT ECOL ENVIRON, V14, P527, DOI 10.1002/fee.1432
+   Zipper SC, 2015, WATER RESOUR RES, V51, P6338, DOI 10.1002/2015WR017522
+NR 78
+TC 4
+Z9 4
+U1 14
+U2 36
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1748-9326
+J9 ENVIRON RES LETT
+JI Environ. Res. Lett.
+PD MAY
+PY 2018
+VL 13
+IS 5
+AR 054020
+DI 10.1088/1748-9326/aabb87
+PG 15
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA GE8AI
+UT WOS:000431453800003
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT S
+AU Hikita, T
+   Yamaguchi, S
+AF Hikita, Toshiro
+   Yamaguchi, Shigetomi
+GP IEEE
+TI Preliminary Study about Advantageous Trajectory Anonymization methods
+   Based on Population
+SO 2018 10TH INTERNATIONAL CONFERENCE ON COMMUNICATION SYSTEMS & NETWORKS
+   (COMSNETS)
+SE International Conference on Communication Systems and Networks
+LA English
+DT Proceedings Paper
+CT 10th International Conference on Communication Systems and Networks
+   (COMSNETS)
+CY JAN 03-07, 2018
+CL Bangalore, INDIA
+DE Anonymization; Privacy Preserve Trajectories; Population distribution
+AB Growing mobile networks and widely spread of Global Positing System (GPS) devices enables to collect large scale location and trajectory data. Using trajectory data to succeed, privacy and data characteristics are essential. Most anonymization methods are losing characteristic for service providers, like adding noise to trajectories.
+   In this paper, firstly we present adaptive quadtree grid population calculation to determine grid size of trajectories.
+   Our anonymization method dynamically adjust cluster size to maintain trajectory data characteristics, small mesh to the dense populated area, large mesh to sparse populated area, base on quadtree geospatial data structure.
+   Proposed method is satisfied that adaptive size scaling and more efficient to maintain characteristic. Our experiment suggest that proposed method correctly anonymize Tokyo Urban flow data of 1.3M Trajectories.
+C1 [Hikita, Toshiro; Yamaguchi, Shigetomi] Univ Tokyo, Grad Sch Informat Technol, Bunkyo Ku, 7-3-1 Hongo, Tokyo, Japan.
+RP Hikita, T (reprint author), Univ Tokyo, Grad Sch Informat Technol, Bunkyo Ku, 7-3-1 Hongo, Tokyo, Japan.
+EM toshi@yamagula.ic.i.u-tokyo.ac.jp; yamaguchi.rie@i.u-tokyo.ac.jp
+CR Gkoulalas-Divanis A., 2010, ACM SIGKDD EXPLORATI, V12, P3
+   Gruteser M, 2003, PROCEEDINGS OF MOBISYS 2003, P31, DOI 10.1145/1066116.1189037
+   Kido H, 2005, International Conference on Pervasive Services 2005, Proceedings, P88, DOI 10.1109/PERSER.2005.1506394
+   Lu Hua, 2008, P 7 ACM INT WORKSH D, P16, DOI DOI 10.1145/1626536.1626540
+   Niu B., 2014, P IEEE INFOCOM
+   Sekimoto Y, 2011, IEEE PERVAS COMPUT, V10, P27, DOI 10.1109/MPRV.2011.43
+   Shankar P, 2009, UBICOMP'09: PROCEEDINGS OF THE 11TH ACM INTERNATIONAL CONFERENCE ON UBIQUITOUS COMPUTING, P31
+   Sweeney L, 2002, INT J UNCERTAIN FUZZ, V10, P557, DOI 10.1142/S0218488502001648
+   Yamaguchi RS, 2012, IEEE SYS MAN CYBERN, P997, DOI 10.1109/ICSMC.2012.6377859
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2155-2487
+BN 978-1-5386-1182-1
+J9 INT CONF COMMUN SYST
+PY 2018
+BP 492
+EP 495
+PG 4
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA BL2GB
+UT WOS:000448917000078
+DA 2019-03-26
+ER

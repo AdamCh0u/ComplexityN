@@ -1,0 +1,401 @@
+
+PT S
+AU Zhang, XH
+   Wang, XQ
+   Yuan, XX
+   Wang, SM
+AF Zhang, Xuehua
+   Wang, Xiaoqing
+   Yuan, Xiaoxiang
+   Wang, Shumin
+GP IOP
+TI An improved SIFT algorithm in the application of close-range Stereo
+   image matching
+SO 6TH DIGITAL EARTH SUMMIT
+SE IOP Conference Series-Earth and Environmental Science
+LA English
+DT Proceedings Paper
+CT 6th Digital Earth Summit
+CY JUL 07-08, 2016
+CL Beijing, PEOPLES R CHINA
+SP CAS TWAS Ctr Excellence Space Technol Disaster Mitigation
+ID INTEREST POINT DETECTORS
+AB As unmanned aerial vehicle (UAV) remote sensing is applied in small area aerial photogrammetry surveying, disaster monitoring and emergency command, 3D urban construction and other fields, the image processing of UAV has become a hot topic in current research. The precise matching of UAV image is a key problem, which affects the subsequent processing precision directly, such as 3D reconstruction and automatic aerial triangulation, etc. At present, SIFT (Scale Invariant Feature Transform) algorithm proposed by DAVID G. LOWE as the main method is, is widely used in image matching, since its strong stability to image rotation, shift, scaling, and the change of illumination conditions. It has been successfully applied in target recognition, SFM (Structure from Motion), and many other fields. SIFT algorithm needs the colour images to be converted into grayscale images, detects extremum points under different scales and uses neighbourhood pixels to generate descriptor. As we all know that UAV images with rich colour information, the SIFT algorithm improved through combining with the image colour information in this paper, the experiments are conducted from matching efficiency and accuracy compared with the original SIFT algorithm. The results show that the method which proposed in this paper decreases on the efficiency, but is improved on the precision and provides a basis choice for matching method.
+C1 [Zhang, Xuehua; Wang, Xiaoqing; Yuan, Xiaoxiang; Wang, Shumin] China Earthquake Adm, Inst Earthquake Sci, Beijing 100036, Peoples R China.
+RP Zhang, XH (reprint author), China Earthquake Adm, Inst Earthquake Sci, Beijing 100036, Peoples R China.
+EM zhangxhua1990@163.com; wangxiaoq517@163.com; yuanxx1983@163.com;
+   wmcnu@163.com
+CR [刘庆�? LIU Qing-yuan], 2010, [测绘科学, Science of Surveying and Mapping], V35, P28
+   Liu you, 2012, RES QUALITY CRITERIA, P3
+   Lowe D.G, 2004, PATT REC 1998 P 14 I, V2, P91, DOI DOI 10.1023/B:VISI.0000029664.99615.94
+   Merino L, 2012, J INTELL ROBOT SYST, V65, P533, DOI 10.1007/s10846-011-9560-x
+   Mikolajczyk K, 2004, INT J COMPUT VISION, V60, P63, DOI 10.1023/B:VISI.0000027790.02288.f2
+   Schmid C, 2000, INT J COMPUT VISION, V37, P151, DOI 10.1023/A:1008199403446
+   [唐敏 Tang Min], 2012, [光电工程, Opto-Electronic Engineering], V39, P19
+   Tao W., 2011, 2011 IEEE INT C, P389
+   Valente J, 2013, PRECIS AGRIC, V14, P115, DOI 10.1007/s11119-012-9287-0
+   Wallace L. O., 2012, ISPRS ANN PHOTOGRAMM, P499
+   [谢萍 Xie Ping], 2012, [测绘科学, Science of Surveying and Mapping], V37, P107
+   Xu jiajia, 2015, J ELECT MEASUREMENT, V1, P48
+   Zhang CH, 2012, PRECIS AGRIC, V13, P693, DOI 10.1007/s11119-012-9274-5
+NR 13
+TC 0
+Z9 0
+U1 3
+U2 7
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1755-1307
+J9 IOP C SER EARTH ENV
+JI IOP Conf. Ser. Earth Envir. Sci.
+PY 2016
+VL 46
+AR UNSP 012009
+DI 10.1088/1755-1315/46/1/012009
+PG 8
+WC Remote Sensing
+SC Remote Sensing
+GA BG6QM
+UT WOS:000390813200009
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Jafar, TH
+   Allen, JC
+   Jehan, I
+   Hameed, A
+   Saffari, SE
+   Ebrahim, S
+   Poulter, N
+   Chaturvedi, N
+AF Jafar, Tazeen H.
+   Allen, John C.
+   Jehan, Imtiaz
+   Hameed, Aamir
+   Saffari, Seyed Ehsan
+   Ebrahim, Shah
+   Poulter, Neil
+   Chaturvedi, Nish
+TI Health Education and General Practitioner Training in Hypertension
+   Management: Long-Term Effects on Kidney Function
+SO CLINICAL JOURNAL OF THE AMERICAN SOCIETY OF NEPHROLOGY
+LA English
+DT Article
+ID RENIN-ANGIOTENSIN SYSTEM; BLOOD-PRESSURE CONTROL; DEVELOPING-COUNTRY;
+   CONTROLLED-TRIAL; DISEASE; RISK; POPULATION; PAKISTAN; GFR; NEPHROPATHY
+AB Background and objectives In the Control of Blood Pressure and Risk Attenuation trial, a 2X2 factorial design study (2004-2007), the combined home health education and trained general practitioner intervention delivered over 2 years was more effective than no intervention (usual care) in lowering systolic BP among adults with hypertension in urban Pakistan. We aimed to assess the effectiveness of the interventions on kidney function.
+   Design, participants, settings, & methods In 2012-2013, we conducted extended follow-up of a total of 1271 individuals aged >= 40 years with hypertension (systolic BP >= 140 mmHg, diastolic BP >= 90 mmHg, or receipt of antihypertensive treatment) and serum creatinine measurements with 2 years in-trial and 5 years of post-trial period in 12 randomly selected low-income communities in Karachi, Pakistan. The change in eGFR from baseline to 7 years was assessed among randomized groups using a generalized estimating equation method with multiple imputation of missing values.
+   Results At 7 years of follow-up, adjusted mean eGFR remained unchanged, with a change of -0.3 (95% confidence interval [95% CI], -3.5 to 2.9) ml/min per 1.73 m(2) among adults randomly assigned to the combined home health education plus trained general practitioner intervention compared with a significant decline of -3.6 (95% CI, -5.7 to -2.0) ml/min per 1.73 m(2) in those assigned to usual care (P=0.01, modified intention-to-treat analysis). The risk for the combined intervention of death from kidney failure or >20% decline in eGFR relative to usual care was significantly reduced (risk ratio, 0.47; 95% CI, 0.25 to 0.89).
+   Conclusions The combined home health education plus trained general practitioner intervention is beneficial in preserving kidney function among adults with hypertension in communities in Karachi. These findings highlight the importance of scaling up simple strategies for renal risk reduction in low- and middle-income countries.
+C1 [Jafar, Tazeen H.] Duke Natl Univ Singapore, Grad Sch Med, Program Hlth Serv & Syst Res, Singapore, Singapore.
+   [Saffari, Seyed Ehsan] Duke Natl Univ Singapore, Grad Sch Med, Off Clin Sci, Ctr Quantitat Med, Singapore, Singapore.
+   [Jafar, Tazeen H.; Jehan, Imtiaz] Aga Khan Univ, Dept Community Hlth Sci, Karachi, Pakistan.
+   [Allen, John C.] Aga Khan Univ, Dept Med, Cardiol Sect, Karachi, Pakistan.
+   [Jafar, Tazeen H.] Tufts Med Ctr, Dept Med, Div Nephrol, Boston, MA USA.
+   [Ebrahim, Shah] London Sch Hyg & Trop Med, London WC1, England.
+   [Poulter, Neil] Univ London Imperial Coll Sci Technol & Med, Int Ctr Circulatory Hlth, London, England.
+   [Poulter, Neil] Univ London Imperial Coll Sci Technol & Med, Imperial Clin Trials Unit, London, England.
+   [Chaturvedi, Nish] UCL, Inst Cardiovasc Sci, London, England.
+RP Jafar, TH (reprint author), Duke Natl Univ Singapore, Grad Med Sch Singapore, Program Hlth Serv & Syst Res, 8 Coll Rd, Singapore 169857, Singapore.
+EM tazeen.jafar@duke-nus.edu.sg
+RI Saffari, Seyed Ehsan/P-2611-2017
+OI Saffari, Seyed Ehsan/0000-0002-6473-4375
+FU Wellcome Trust, United Kingdom [093382/Z/10/Z]
+FX The study was supported by a research award (093382/Z/10/Z) from
+   Wellcome Trust, United Kingdom.
+CR Brenner BM, 2001, NEW ENGL J MED, V345, P861, DOI 10.1056/NEJMoa011161
+   Cheng TYD, 2008, AM J KIDNEY DIS, V52, P1051, DOI 10.1053/j.ajkd.2008.05.030
+   Chobanian AV, 2003, JAMA-J AM MED ASSOC, V289, P2560, DOI 10.1001/jama.289.19.2560
+   Coresh J, 2014, JAMA-J AM MED ASSOC, V311, P2518, DOI 10.1001/jama.2014.6634
+   Dunkler D, 2013, JAMA INTERN MED, V173, P1682, DOI 10.1001/jamainternmed.2013.9051
+   Greene T, 2014, AM J KIDNEY DIS, V64, P867, DOI 10.1053/j.ajkd.2014.08.019
+   Gurley SB, 2007, SEMIN NEPHROL, V27, P144, DOI 10.1016/j.semnephrol.2007.01.009
+   Halbesma N, 2011, CLIN J AM SOC NEPHRO, V6, P1731, DOI 10.2215/CJN.08590910
+   Heerspink HJL, 2014, AM J KIDNEY DIS, V64, P860, DOI 10.1053/j.ajkd.2014.08.018
+   Heiwe S., 2011, COCHRANE DB SYST REV, V10, DOI DOI 10.1002/14651858.CD003236.PUB10
+   Jafar TH, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0140550
+   Jafar TH, 2013, LANCET, V381, P2281, DOI 10.1016/S0140-6736(13)60646-7
+   Jafar TH, 2011, CIRCULATION, V124, P1615, DOI 10.1161/CIRCULATIONAHA.111.039990
+   Jafar TH, 2009, ANN INTERN MED, V151, P593, DOI 10.7326/0003-4819-151-9-200911030-00004
+   Jafar TH, 2015, NEPHROLOGY, V20, P61, DOI 10.1111/nep.12355
+   Jafar TH, 2006, NEW ENGL J MED, V354, P995, DOI 10.1056/NEJMp058319
+   Jafar TH, 2001, ANN INTERN MED, V135, P73, DOI 10.7326/0003-4819-135-2-200107170-00007
+   Jessani S, 2014, AM J KIDNEY DIS, V63, P49, DOI 10.1053/j.ajkd.2013.07.023
+   Jha V, 2013, LANCET, V382, P260, DOI 10.1016/S0140-6736(13)60687-X
+   Kassebaum NJ, 2014, LANCET, V384, P980, DOI 10.1016/S0140-6736(14)60696-6
+   Knowler WC, 2014, LANCET DIABETES ENDO, V2, P801, DOI 10.1016/S2213-8587(14)70156-1
+   Matsushita K, 2009, J AM SOC NEPHROL, V20, P2617, DOI 10.1681/ASN.2009010025
+   McAlister FA, 2003, JAMA-J AM MED ASSOC, V289, P2545, DOI 10.1001/jama.289.19.2545
+   Menne J, 2014, J AM HEART ASSOC, V3, DOI 10.1161/JAHA.114.000810
+   MIETTINEN O, 1982, SCAND J WORK ENV HEA, V8, P7
+   Navaneethan SD, 2009, CLIN J AM SOC NEPHRO, V4, P1565, DOI 10.2215/CJN.02250409
+   Qi Z, 2006, CLIN CHIM ACTA, V372, P94, DOI 10.1016/j.cca.2006.03.033
+   Santos Carlos Antonio S T, 2008, BMC Med Res Methodol, V8, P80, DOI 10.1186/1471-2288-8-80
+   Schmidt MI, 2011, LANCET, V377, P1949, DOI 10.1016/S0140-6736(11)60135-9
+   Taal MW, 2001, AM J PHYSIOL-RENAL, V280, pF343
+   Tirosh A, 2013, DIABETES CARE, V36, P2225, DOI 10.2337/dc12-1846
+   Williams B, 2004, J HUM HYPERTENS, V18, P139, DOI 10.1038/sj.jhh.1001683
+   Yang GH, 2013, LANCET, V381, P1987, DOI 10.1016/S0140-6736(13)61097-1
+   Yang W, 2014, AM J KIDNEY DIS, V63, P236, DOI 10.1053/j.ajkd.2013.08.028
+NR 34
+TC 9
+Z9 9
+U1 0
+U2 7
+PU AMER SOC NEPHROLOGY
+PI WASHINGTON
+PA 1725 I ST, NW STE 510, WASHINGTON, DC 20006 USA
+SN 1555-9041
+EI 1555-905X
+J9 CLIN J AM SOC NEPHRO
+JI Clin. J. Am. Soc. Nephrol.
+PD JUN
+PY 2016
+VL 11
+IS 6
+BP 1044
+EP 1053
+DI 10.2215/CJN.05300515
+PG 10
+WC Urology & Nephrology
+SC Urology & Nephrology
+GA DN7DY
+UT WOS:000377236700016
+PM 27197908
+OA Green Published, Bronze
+DA 2019-03-26
+ER
+
+PT B
+AU Graswald, M
+   Gutser, R
+AF Graswald, Markus
+   Gutser, Raphael
+BE Woodley, C
+   Cullis, I
+TI RADIUS ENHANCED WARHEADS
+SO 29TH INTERNATIONAL SYMPOSIUM ON BALLISTICS, VOLS 1 AND 2
+LA English
+DT Proceedings Paper
+CT 29th International Symposium on Ballistics
+CY MAY 09-13, 2016
+CL Edinburgh, SCOTLAND
+SP Natl Def Ind Assoc, Int Ballist Soc
+AB The novel concept of the RADIUS technology, an acronym for Range Adaptable Device Incorporating Unique Scaling, is unique in the way performed by TDW. The control of warhead output can be achieved within a compact fuzing system incorporating two pyrotechnical outputs: one output is used for initiating a classical detonation and the other one for initiating a distinctive subdetonative mechanism. Such an enhanced weapon with a discrete number of output modes allows scaling of blast / fragmentation effects and respective lethal and collateral damages footprints against surface targets.
+   RADIUS technology prototypes based on a 500 lb (MK-82 / BLU-111) precision-guided bomb recently demonstrated their minimum and maximum output modes against a comprehensive target set consisting of various witness panels and SUV cars. These tests were conducted jointly with BAE Systems, Munitions. The different outputs and their resulting level of damages can be clearly observed. High-speed video sequences of the subdetonative reactions leading to regular fractures of the bomb casing suggest a highly controlled and repeatable underlying process. This was also modeled utilizing Lee-Tarver's extended Ignition and Growth model with a single robust parameter set reproducing well different charge dimensions.
+   Vulnerability / lethality assessments for various output modes of a 500 lb precision-guided bomb were conducted to demonstrate these new operational capabilities in joint fire support simulations and in a realistic urban environment. Implementing this technology into a variety of bombs or missile warheads for surface attacks will allow cost-effective solutions through the life cycle, since the mix of weapon types can be reduced and so does the integration effort into weapon systems / platforms as well as logistical constraints.
+C1 [Graswald, Markus; Gutser, Raphael] TDW GmbH, Hagenauer Forst 27, D-86529 Schrobenhausen, Germany.
+RP Graswald, M (reprint author), TDW GmbH, Hagenauer Forst 27, D-86529 Schrobenhausen, Germany.
+CR Arnold W., 2002, P 20 INT S BALL ORL
+   Arnold W., 2011, P 26 INT S BALL MIAM
+   Chaffois L., 2013, P INS MUN EN MAT TEC
+   Chevalier G., 2013, P MAT COMP MISS INN
+   Daly N., 2014, P 45 INT ICT C KARLS
+   Dorsch H., 2008, AVT 153 SPEC M WEAP
+   Graswald M., 2011, P 26 INT S BALL MIAM
+   Graswald M., 2015, P INS MUN EN MAT TEC
+   Graswald M., 2015, SCALABLE EFFECTS DAY
+   Graswald M., 2014, P 28 INT S BALL ATL
+   Graswald M., 2013, P 27 INT S BALL FREI
+   Kokinakis W, 1965, CRITERIA INCAPACITAT
+   N. N. CDW 1.0, 2007, CDW 1 0 COLL DAM WOR
+   N. N. SPEED, 2010, SPEED THEOR MAN
+   N. N. SPLIT-X v5. 2, 2005, SPLIT V5 2 EXP SYST
+   Tarver C. M., 1985, P 8 S INT DET ALB NM
+   von Meding B., 2011, BEHORDEN SPIEGEL, V27
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DESTECH PUBLICATIONS, INC
+PI LANCASTER
+PA 439 DUKE STREET, LANCASTER, PA 17602-4967 USA
+BN 978-1-60595-317-5
+PY 2016
+BP 1685
+EP 1697
+PG 13
+WC Mechanics; Physics, Applied
+SC Mechanics; Physics
+GA BG4OO
+UT WOS:000389021400186
+DA 2019-03-26
+ER
+
+PT J
+AU Cebrat, K
+   Sobczynski, M
+AF Cebrat, Krzysztof
+   Sobczynski, Maciej
+TI Scaling Laws in City Growth: Setting Limitations with Self-Organizing
+   Maps
+SO PLoS One
+LA English
+DT Article
+ID CITIES; NETWORKS; SIZE
+AB Do scaling relations always provide the means to anticipate the relationships between the size of cities, costs of maintenance, and the socio-economic benefits resulting from their growth? Scaling laws are considered a universal principle that describes the development of complex systems such as cities. It seems that regardless of their location or history, the growth of cities is associated with the super-linear or sublinear scaling of features such as the amount of space required, infrastructure, or human activities. However, the results of our research, based on grouping by Self-Organizing Maps, reveal some limitations in the application of scaling laws: the trends of urban growth behave in a different manner when we consider both a large and diverse collection of cities and a subset of cities alike. This finding complements the existing body of knowledge on the growth of cities and allows for a more accurate prediction of their future.
+C1 [Cebrat, Krzysztof] Wroclaw Univ Technol, Fac Architecture, Wroclaw, Poland.
+   [Sobczynski, Maciej] Univ Wroclaw, Fac Biotechnol, Wroclaw, Poland.
+RP Cebrat, K (reprint author), Wroclaw Univ Technol, Fac Architecture, Wroclaw, Poland.
+EM krzysztof.cebrat@pwr.edu.pl
+OI Cebrat, Krzysztof/0000-0002-1733-8492
+CR Barabasi AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   Batty M, 2013, SCIENCE, V340, P1418, DOI 10.1126/science.1239870
+   Bernardes AT, ARXIVCONDMAT0111147V
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Fuller RA, 2009, BIOL LETTERS, V5, P352, DOI 10.1098/rsbl.2009.0010
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Kennedy C, 2011, ENVIRON POLLUT, V159, P1965, DOI 10.1016/j.envpol.2010.10.022
+   Kohonen T, 2001, SELF ORGANIZING MAPS, P347
+   Kuhnert C, 2006, PHYSICA A, V363, P96, DOI 10.1016/j.physa.2006.01.058
+   Larson W, 2015, J URBAN ECON, V90, P35, DOI 10.1016/j.jue.2015.08.001
+   Ma XL, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0119044
+   Mansury Y, 2015, COMPUT ENVIRON URBAN, V54, P428, DOI 10.1016/j.compenvurbsys.2015.08.004
+   Marshall JD, 2007, URBAN STUD, V44, P1889, DOI 10.1080/00420980701471943
+   Sarzynski A, 2012, URBAN STUD, V49, P3121, DOI 10.1177/0042098011432557
+   Shlapfer M, 2014, INTERFACE J ROYAL SO, V11
+   Strano E, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0159465
+   van Raan AFJ, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0146775
+   Zhang Y, 2009, ECOL MODEL, V220, P1431, DOI 10.1016/j.ecolmodel.2009.02.001
+NR 21
+TC 1
+Z9 1
+U1 0
+U2 9
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 22
+PY 2016
+VL 11
+IS 12
+AR e0168753
+DI 10.1371/journal.pone.0168753
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EI9QH
+UT WOS:000392843200090
+PM 28005994
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Larkins, S
+   Woods, CE
+   Matthews, V
+   Thompson, SC
+   Schierhout, G
+   Mitropoulos, M
+   Patrao, T
+   Panzera, A
+   Bailie, RS
+AF Larkins, Sarah
+   Woods, Cindy E.
+   Matthews, Veronica
+   Thompson, Sandra C.
+   Schierhout, Gill
+   Mitropoulos, Maxwell
+   Patrao, Tania
+   Panzera, Annette
+   Bailie, Ross Stewart
+TI Responses of Aboriginal and Torres Strait Islander Primary Health-Care
+   Services to Continuous Quality Improvement Initiatives
+SO FRONTIERS IN PUBLIC HEALTH
+LA English
+DT Article
+DE Aboriginal; Australia; best practice; Indigenous health services;
+   primary health care; quality improvement; quality of care; Torres Strait
+   Islander
+ID CHRONIC ILLNESS CARE; AUSTRALIA
+AB Background: Indigenous primary health-care (PHC) services participating in continuous quality improvement (CQI) cycles show varying patterns of performance over time. Understanding this variation is essential to scaling up and sustaining quality improvement initiatives. The aim of this study is to examine trends in quality of care for services participating in the ABCD National Research Partnership and describe patterns of change over time and examine health service characteristics associated with positive and negative trends in quality of care.
+   Setting and participants: PHC services providing care for Indigenous people in urban, rural, and remote northern Australia that had completed at least three annual audits of service delivery for at least one aspect of care (n = 73).
+   Methods/design: Longitudinal clinical audit data from use of four clinical audit tools (maternal health, child health, preventive health, Type 2 diabetes) between 2005 and 2013 were analyzed. Health center performance was classified into six patterns of change over time: consistent high improvement (positive), sustained high performance (positive), decline (negative), marked variability (negative), consistent low performance (negative), and no specific increase or decrease (neutral). Backwards stepwise multiple logistic regression analyses were used to examine the associations between health service characteristics and positive or negative trends in quality of care.
+   Results: Trends in quality of care varied widely between health services across the four audit tools. Regression analyses of health service characteristics revealed no consistent statistically significant associations of population size, remoteness, governance model, or accreditation status with positive or negative trends in quality of care.
+   Conclusion: The variable trends in quality of care as reflected by CQI audit tools do not appear to be related to easily measurable health service characteristics. This points to the need for a deeper or more nuanced understanding of factors that moderate the effect of CQI on health service performance for the purpose of strengthening enablers and overcoming barriers to improvement.
+C1 [Larkins, Sarah] James Cook Univ, Coll Med & Dent, Townsville, Qld, Australia.
+   [Larkins, Sarah] Australian Inst Trop Hlth & Med, Anton Breinl Res Ctr Hlth Syst Strengthening, Townsville, Qld, Australia.
+   [Woods, Cindy E.; Panzera, Annette] James Cook Univ, Coll Med & Dent, Cairns, Qld, Australia.
+   [Matthews, Veronica; Schierhout, Gill; Patrao, Tania; Bailie, Ross Stewart] Menzies Sch Hlth Res, Brisbane, Qld, Australia.
+   [Thompson, Sandra C.] Univ Western Australia, Western Australian Ctr Rural Hlth, Crawley, WA, Australia.
+   [Mitropoulos, Maxwell] Univ Queensland, Sch Med, Brisbane, Qld, Australia.
+RP Larkins, S (reprint author), James Cook Univ, Coll Med & Dent, Townsville, Qld, Australia.; Larkins, S (reprint author), Australian Inst Trop Hlth & Med, Anton Breinl Res Ctr Hlth Syst Strengthening, Townsville, Qld, Australia.
+EM sarah.larkins@jcu.edu.au
+RI Larkins, Sarah/A-2319-2013; Geraldton, WACRH/O-3695-2018; Thompson,
+   Sandra/H-5955-2014
+OI Larkins, Sarah/0000-0002-7561-3202; Thompson,
+   Sandra/0000-0003-0327-7155; Patrao, Tania/0000-0002-4320-5669; Woods,
+   Cindy/0000-0001-5790-069X
+FU Australian National Health and Medical Research Council [545267,
+   1078927, 1062377]; Lowitja Institute; Community Controlled and
+   Government agencies; Australian Research Council (ARC) [FT100100087]
+FX The ABCD National Research Partnership Project was supported by funding
+   from the Australian National Health and Medical Research Council (ID No.
+   545267) and the Lowitja Institute, and by in-kind and financial support
+   from a range of Community Controlled and Government agencies. RB's work
+   is supported by an Australian Research Council (ARC) Future Fellowship
+   (FT100100087). The Centre for Research Excellence in Integrated Quality
+   Improvement is funded by the Australian National Health and Medical
+   Research Council (ID No. 1078927). This project was funded by the
+   Australian National Health and Medical Research Council (ID No.
+   1062377).
+CR Australian Health Ministers Advisory Council (AHMAC), 2004, CULT RESP FRAM AB TO
+   Australian Institute of Health and Welfare, 2008, RUR REG REM HLTH IND
+   Bailie R, 2007, AUDIT BEST PRACTICE
+   Bailie R, 2010, BMC HEALTH SERV RES, V10, DOI 10.1186/1472-6963-10-129
+   Bailie RS, 2011, BMC HEALTH SERV RES, V11, DOI 10.1186/1472-6963-11-139
+   Bonomi AE, 2002, HEALTH SERV RES, V37, P791, DOI 10.1111/1475-6773.00049
+   Council of Australian Governments, 2012, NAT IND REF AGR CLOS
+   Gardner K, 2011, AUST J RURAL HEALTH, V19, P111, DOI 10.1111/j.1440-1584.2010.01181.x
+   Gardner KL, 2010, IMPLEMENT SCI, V5, DOI 10.1186/1748-5908-5-21
+   GRAHAM NO, 1995, QUALITY HLTH CARE TH
+   Greenfield D, 2008, INT J QUAL HEALTH C, V20, P172, DOI 10.1093/intqhc/mzn005
+   Matthews V, 2014, BMC HEALTH SERV RES, V14, DOI 10.1186/s12913-014-0578-1
+   McAfee T, 1998, J Public Health Manag Pract, V4, P55
+   National Health and Medical Research Council, 2003, VAL ETH GUID ETH CON
+   Ovretveit J, 2003, BRIT MED J, V326, P759, DOI 10.1136/bmj.326.7392.759
+   Paina L, 2012, HEALTH POLICY PLANN, V27, P365, DOI 10.1093/heapol/czr054
+   Prajogo DI, 2005, INT J SERV IND MANAG, V16, P217, DOI 10.1108/09564230510601378
+   Ralph AP, 2013, BMC HEALTH SERV RES, V13, DOI 10.1186/1472-6963-13-525
+   Samson D, 1999, J OPER MANAG, V17, P393, DOI 10.1016/S0272-6963(98)00046-1
+   Schierhout G, 2010, AUDIT BEST PRACTICE
+   Schierhout G, 2013, IMPLEMENT SCI, V8, DOI 10.1186/1748-5908-8-119
+   Si DM, 2010, DIABETES-METAB RES, V26, P464, DOI 10.1002/dmrr.1062
+   Wagner EH, 2001, HEALTH AFFAIR, V20, P64, DOI 10.1377/hlthaff.20.6.64
+   Wensing M, 2006, IMPLEMENT SCI, V1, DOI 10.1186/1748-5908-1-2
+NR 24
+TC 4
+Z9 4
+U1 0
+U2 0
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 2296-2565
+J9 FRONT PUBLIC HEALTH
+JI Front. Public Health
+PD JAN 21
+PY 2016
+VL 3
+AR UNSP 288
+DI 10.3389/fpubh.2015.00288
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA FE4CA
+UT WOS:000408160800001
+PM 26835442
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

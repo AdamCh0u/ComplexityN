@@ -1,0 +1,566 @@
+
+PT J
+AU Kim, DH
+   Chon, TS
+   Kwak, GS
+   Lee, SB
+   Park, YS
+AF Kim, Dong-Hwan
+   Chon, Tae-Soo
+   Kwak, Gyu-Suk
+   Lee, Sang-Bin
+   Park, Young-Seuk
+TI Effects of Land Use Types on Community Structure Patterns of Benthic
+   Macroinvertebrates in Streams of Urban Areas in the South of the Korea
+   Peninsula
+SO WATER
+LA English
+DT Article
+DE community structure; indicator species; multivariate analysis;
+   rank-abundance diagram; urban stream
+ID SPECIES ABUNDANCE DISTRIBUTION; WATER-QUALITY; NEW-ZEALAND;
+   ENVIRONMENTAL VARIABLES; BIODIVERSITY; ASSEMBLAGES; CONSERVATION;
+   DISTURBANCE; LANDSCAPES; ECOSYSTEMS
+AB Benthic macroinvertebrates were collected from streams located in an urban area from regions featuring different environmental conditions. Physicochemical variables and land use types pertaining to sampling sites were analyzed concurrently. Multivariate analyses (cluster analysis and non-metric multidimensional scaling) and rank-abundance diagrams were used to characterize community patterns to assess ecological integrity in response to environmental conditions. Species composition patterns were mainly influenced by both the gradient of physicochemical variables (e.g., altitude, slope, conductivity) and the proportion of forest area. Community structure patterns were further correlated to the proportion of urbanization and to biological indices (e.g., diversity, number of species). Land use preferences of benthic species were identified based on the indicator values and weighted averaging regression models. Plecoptera species were representative of undisturbed streams in forest areas, whereas Tubificidae species and filtering collector caddis flies were indicator taxa in severely polluted and agricultural areas, respectively. The analyses of community structures and indicator species effectively characterized community properties and ecological integrity following natural and anthropogenic variability in urban stream ecosystems.
+C1 [Kim, Dong-Hwan; Chon, Tae-Soo; Kwak, Gyu-Suk; Lee, Sang-Bin] Pusan Natl Univ, Dept Integrated Biol Sci, Pusan 609735, South Korea.
+   [Kim, Dong-Hwan; Park, Young-Seuk] Kyung Hee Univ, Dept Life & Nanopharmaceut Sci, Seoul 130701, South Korea.
+   [Kim, Dong-Hwan; Park, Young-Seuk] Kyung Hee Univ, Dept Biol, Seoul 130701, South Korea.
+   [Chon, Tae-Soo; Kwak, Gyu-Suk] Ecol & Future Res Inst, Busan 609802, South Korea.
+RP Chon, TS (reprint author), Pusan Natl Univ, Dept Integrated Biol Sci, Pusan 609735, South Korea.; Park, YS (reprint author), Kyung Hee Univ, Dept Life & Nanopharmaceut Sci, Seoul 130701, South Korea.; Park, YS (reprint author), Kyung Hee Univ, Dept Biol, Seoul 130701, South Korea.; Chon, TS (reprint author), Ecol & Future Res Inst, Busan 609802, South Korea.
+EM acehwan11@gmail.com; tschon.chon@gmail.com; kgs0517@hanmail.net;
+   lsb5162@gmail.com; parkys@khu.ac.kr
+OI Park, Young-Seuk/0000-0001-7025-8945
+FU Busan Metropolitan city (project: Surveys of Natural Environment in the
+   Eastern Zone in the Busan Metropolitan Area); Ministry of Environment;
+   National Institute of Environmental Research, Korea
+FX This study was supported by Busan Metropolitan city (project: Surveys of
+   Natural Environment in the Eastern Zone in the Busan Metropolitan Area)
+   and by the Ministry of Environment and the National Institute of
+   Environmental Research, Korea (project: National Aquatic Ecosystem
+   Health Survey and Assessment).
+CR Allan J. D., 2007, STREAM ECOLOGY STRUC
+   Allan JD, 2004, ANNU REV ECOL EVOL S, V35, P257, DOI 10.1146/annurev.ecolsys.35.120202.110122
+   Alvey Alexis A., 2006, Urban Forestry & Urban Greening, V5, P195, DOI 10.1016/j.ufug.2006.09.003
+   Beche LA, 2006, FRESHWATER BIOL, V51, P56, DOI 10.1111/j.1365-2427.2005.01473.x
+   Benke A. C., 1981, EFFECTS URBANIZATION
+   BIONDINI ME, 1988, VEGETATIO, V75, P161
+   BIRKS HJB, 1995, STAT MODELLING QUATE, V5, P161
+   Brigham A., 1982, AQUATIC INSECTS OLIG
+   Cao Y, 1996, HYDROBIOLOGIA, V341, P1, DOI 10.1007/BF00012298
+   Chessman B. C., 1999, CONSERV BIOL, V5, P36
+   Chon TS, 2011, ECOL INFORM, V6, P50, DOI 10.1016/j.ecoinf.2010.11.002
+   Collier KJ, 2003, FRESHWATER BIOL, V48, P1462, DOI 10.1046/j.1365-2427.2003.01091.x
+   Dufrene M, 1997, ECOL MONOGR, V67, P345, DOI 10.1890/0012-9615(1997)067[0345:SAAIST]2.0.CO;2
+   Fochetti R, 2008, HYDROBIOLOGIA, V595, P365, DOI 10.1007/s10750-007-9031-3
+   Foley JA, 2005, SCIENCE, V309, P570, DOI 10.1126/science.1111772
+   Hall MJ, 2001, NEW ZEAL J MAR FRESH, V35, P591, DOI 10.1080/00288330.2001.9517025
+   Han M., 2010, AQUATIC INVERTEBRATE
+   HAWKINS CP, 1982, ECOLOGY, V63, P1840, DOI 10.2307/1940125
+   JOWETT IG, 1991, NEW ZEAL J MAR FRESH, V25, P187, DOI 10.1080/00288330.1991.9516470
+   Juggins S, 2007, C2 VERSION 1 5 SOFTW
+   Kim DH, 2013, ECOL INFORM, V17, P14, DOI 10.1016/j.ecoinf.2013.06.006
+   Miserendino ML, 2011, SCI TOTAL ENVIRON, V409, P612, DOI 10.1016/j.scitotenv.2010.10.034
+   Legendre P., 2013, ENCY BIODIVERSITY, V4, P264, DOI DOI 10.1016/B978-0-12-384719-5.00430-5
+   LENAT DR, 1994, HYDROBIOLOGIA, V294, P185, DOI 10.1007/BF00021291
+   Li F, 2012, FRESHWATER BIOL, V57, P2107, DOI 10.1111/j.1365-2427.2012.02854.x
+   Li FQ, 2009, INT REV HYDROBIOL, V94, P595, DOI 10.1002/iroh.200911180
+   Magurran A.E., 2004, AFR J AQUAT SCI, V29, P285, DOI DOI 10.2989/16085910409503825
+   Marsh-Matthews E, 2000, OECOLOGIA, V125, P283, DOI 10.1007/s004420000452
+   Marshall JC, 2006, MAR FRESHWATER RES, V57, P61, DOI 10.1071/MF05021
+   Martins R.T., 2008, Acta Limnologica Brasiliensia, V20, P221
+   Mccune B., 2002, ANAL ECOLOGICAL COMM
+   McGill BJ, 2007, ECOL LETT, V10, P995, DOI 10.1111/j.1461-0248.2007.01094.x
+   MCNAUGHTON SJ, 1967, NATURE, V216, P168, DOI 10.1038/216168b0
+   Merritt R. W., 1996, INTRO AQUATIC INSECT
+   Meyer JL, 2005, J N AM BENTHOL SOC, V24, P602, DOI 10.1899/0887-3593(2005)024\[0602:SEFIUL\]2.0.CO;2
+   Miller W, 2005, HYDROBIOLOGIA, V552, P121, DOI 10.1007/s10750-005-1510-9
+   Moore AA, 2005, ECOL APPL, V15, P1169, DOI 10.1890/04-1484
+   Park YS, 2006, SCI TOTAL ENVIRON, V365, P140, DOI 10.1016/j.scitotenv.2006.02.046
+   Park YS, 2003, ECOL MODEL, V160, P265, DOI 10.1016/S0304-3800(02)00258-2
+   Paul MJ, 2001, ANNU REV ECOL SYST, V32, P333, DOI 10.1146/annurev.ecolsys.32.081501.114040
+   Petersen I, 2004, J APPL ECOL, V41, P934, DOI 10.1111/j.0021-8901.2004.00942.x
+   Qu XD, 2008, ANN LIMNOL-INT J LIM, V44, P119, DOI 10.1051/limn:2008013
+   Reynoldson TB, 1997, J N AM BENTHOL SOC, V16, P833, DOI 10.2307/1468175
+   RICHARDS C, 1992, HYDROBIOLOGIA, V241, P173, DOI 10.1007/BF00028640
+   Rosenberg D. M., 1993, FRESHWATER BIOMONITO
+   Roy AH, 2005, J N AM BENTHOL SOC, V24, P656, DOI 10.1899/0887-3593(2005)024\\[0656:IHAAAM\\]2.0.CO;2
+   Shannon C.E., 1949, MATH THEORY INFORM
+   Sponseller RA, 2001, FRESHWATER BIOL, V46, P1409, DOI 10.1046/j.1365-2427.2001.00758.x
+   Stauffer JC, 2000, CAN J FISH AQUAT SCI, V57, P307, DOI 10.1139/cjfas-57-2-307
+   Stewart P.M., 2000, Aquatic Ecosystem Health & Management, V3, P179
+   Suren AM, 1996, NEW ZEAL J MAR FRESH, V30, P501, DOI 10.1080/00288330.1996.9516738
+   Tang H, 2010, ANN LIMNOL-INT J LIM, V46, P53, DOI 10.1051/limn/2009031
+   TERBRAAK CJF, 1993, HYDROBIOLOGIA, V269, P485, DOI 10.1007/BF00028046
+   van Diggelen R, 2005, BASIC APPL ECOL, V6, P145, DOI 10.1016/j.baae.2005.01.004
+   Walsh CJ, 2006, MAR FRESHWATER RES, V57, P37, DOI 10.1071/MF05041
+   Walsh CJ, 2005, J N AM BENTHOL SOC, V24, P706, DOI 10.1899/0887-3593(2005)024\\[0706:TUSSCK\\]2.0.CO;2
+   Wang L., 2003, FISH BENTHIC MACROIN, P227
+   Wenger SJ, 2008, CAN J FISH AQUAT SCI, V65, P1250, DOI 10.1139/F08-046
+   Won D. H., 2005, AQUATIC INSECTS KORE
+   WRIGHT JF, 1993, ARCH HYDROBIOL, V127, P319
+   Yoon IB, 1995, AQUATIC INSECTS KORE
+NR 61
+TC 1
+Z9 1
+U1 3
+U2 24
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 2073-4441
+J9 WATER-SUI
+JI Water
+PD MAY
+PY 2016
+VL 8
+IS 5
+AR 187
+DI 10.3390/w8050187
+PG 18
+WC Water Resources
+SC Water Resources
+GA DO7SW
+UT WOS:000377984300018
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Nidzgorski, DA
+   Hobbie, SE
+AF Nidzgorski, Daniel A.
+   Hobbie, Sarah E.
+TI Urban trees reduce nutrient leaching to groundwater
+SO ECOLOGICAL APPLICATIONS
+LA English
+DT Article
+DE groundwater; nitrogen; nutrient leaching; nutrient pollution;
+   pho,sphorus; plant traits; urban ecosystems; urban trees
+ID RESIDENTIAL LANDSCAPES; UNITED-STATES; SOIL; NITRATE; VEGETATION;
+   CARBON; WATER; PHOSPHORUS; GRASSLANDS; CATCHMENT
+AB Many urban waterways suffer from excess nitrogen (N) and phosphorus (P), feeding algal blooms, which cause lower water clarity and oxygen levels, bad odor and taste, and the loss of desirable species. Nutrient movement from land to water is likely to be influenced by urban vegetation, but there are few empirical studies addressing this. In this study, we examined whether or not urban trees can reduce nutrient leaching to groundwater, an important nutrient export pathway that has received less attention than stormwater. We characterized leaching beneath 33 trees of 14 species, and seven open turfgrass areas, across three city parks in Saint Paul, Minnesota, L ISA We installed lysimeters at 60 cm depth to collect soil water approximately biweekly from July 2011 through October 2013, except during winter and drought periods, measured dissolved organic carbon (C), N, and P in soil water, and modeled water fluxes using the BROOK90 hydrologic model. We also measured soil nutrient pools (hulk C and N, KCI-extractable inorganic N, Brays-P), tree tissue nutrient concentrations (C, N, and P of green leaves, leaf litter, and roots), and canopy size parameters (leaf biomass, leaf area index) to explore correlations with nutrient leaching. Trees had similar or lower N leaching than turfgrass in 2012 but higher N leaching in 2013; trees reduced P leaching compared with turfgrass in both 2012 and 2013, with lower leaching under deciduous than evergreen trees. Scaling up our measurements to an urban subwatershed of the Mississippi River (similar to 17400 ha, containing similar to 1.5 million trees), we estimated that trees reduced P leaching to groundwater by 533 kg in 2012 (0.031 kg/ha or 3.1 kg/km(2)) and 1201 kg in 2013 (0.069 kg/ha or 6.9 kg/km(2)). Removing these same amounts of P using stormwater infrastructure would cost $2.2 million and $5.0 million per year (2012 and 2013 removal amounts, respectively).
+C1 [Nidzgorski, Daniel A.; Hobbie, Sarah E.] Univ Minnesota, Dept Ecol Evolut & Behav, St Paul, MN 55108 USA.
+RP Nidzgorski, DA (reprint author), Univ Minnesota, Dept Ecol Evolut & Behav, St Paul, MN 55108 USA.
+EM dnidz@civiceco.org
+OI Nidzgorski, Daniel/0000-0003-4454-3042; Hobbie,
+   Sarah/0000-0001-5159-031X
+FU University of Minnesota Center for Urban and Regional Affairs
+   Dissertation Grant; UMN Institute on the Environment Discovery Grant;
+   Plant Traits Course Small Grant; Bell Museum Dayton Fellowship Fund;
+   National Science Foundation Graduate Research Fellowship; UMN Graduate
+   School Fellowship; Kence Foundation
+FX We are grateful to Adam Robbins and Rachel Coyle of Saint Paul Parks &
+   Recreation, for helping us obtain permission and navigate logistics of
+   sampling in city parks; to Tess Carley, Sandy Brovold, Chris Buyarski,
+   Max Grossman, and Charlotte Riggs for field and lab assistance; and to
+   Jared Trost and John Nieber for assistance with lysimeters. Jacques
+   Finlay, Rebecca Montgomery, Casey Peel, Bill Currie, and two anonymous
+   reviewers also provided valuable comments on earlier drafts. This study
+   was supported by the University of Minnesota Center for Urban and
+   Regional Affairs Dissertation Grant, UMN Institute on the Environment
+   Discovery Grant, Plant Traits Course Small Grant, and the Bell Museum
+   Dayton Fellowship Fund, as well as fellowships to D. A. Nidzgorski from
+   the National Science Foundation Graduate Research Fellowship, the UMN
+   Graduate School Fellowship, and the Kence Foundation.
+CR Amador JA, 2007, WATER AIR SOIL POLL, V185, P323, DOI 10.1007/s11270-007-9456-3
+   BRAY RH, 1945, SOIL SCI, V59, P39, DOI 10.1097/00010694-194501000-00006
+   Brown AE, 2005, J HYDROL, V310, P28, DOI 10.1016/j.jhydrol.2004.12.010
+   Cade BS, 2003, FRONT ECOL ENVIRON, V1, P412, DOI 10.1890/1540-9295(2003)001[0412:AGITQR]2.0.CO;2
+   Capitol Region Watershed District, 2010, STORMW BMP RERF ASS, P107
+   Crow P., 2005, Information Note - Forestry Commission
+   DeMott WR, 1998, LIMNOL OCEANOGR, V43, P1147, DOI 10.4319/lo.1998.43.6.1147
+   DeWalle D. R., 2012, AGR ECOSYST ENVIRON, V22, P243
+   Dijkstra FA, 2006, ECOSYSTEMS, V9, P441, DOI 10.1007/s10021-006-0004-6
+   Doane TA, 2003, ANAL LETT, V36, P2713, DOI 10.1081/AL-120024647
+   Dubrovsky N. M., 2010, QUALITY NATIONS WATE
+   Erickson JE, 2008, CROP SCI, V48, P1586, DOI 10.2135/cropsci2007.09.0515
+   Erickson JE, 2005, CROP SCI, V45, P546, DOI 10.2135/cropsci2005.0546
+   Federer CA, 2003, J HYDROMETEOROL, V4, P1276, DOI 10.1175/1525-7541(2003)004<1276:SOAETS>2.0.CO;2
+   Fissore C, 2011, ECOL APPL, V21, P619, DOI 10.1890/10-0386.1
+   Gill RA, 1999, OECOLOGIA, V121, P551, DOI 10.1007/s004420050962
+   GOLD AJ, 1990, J SOIL WATER CONSERV, V45, P305
+   Gordon H, 2008, SOIL BIOL BIOCHEM, V40, P302, DOI 10.1016/j.soilbio.2007.08.008
+   Groffman PM, 2009, J ENVIRON QUAL, V38, P1848, DOI 10.2134/jeq2008.0521
+   Guillard K, 2004, J ENVIRON QUAL, V33, P1822, DOI 10.2134/jeq2004.1822
+   Gundersen P, 1998, ENVIRON POLLUT, V102, P403, DOI 10.1016/S0269-7491(98)80060-2
+   Iseman TM, 1999, SOIL SCI SOC AM J, V63, P1424, DOI 10.2136/sssaj1999.6351424x
+   Jackson RB, 2002, NATURE, V418, P623, DOI 10.1038/nature00910
+   Jackson RB, 1996, OECOLOGIA, V108, P389, DOI 10.1007/BF00333714
+   Janke BD, 2014, BIOGEOCHEMISTRY, V121, P209, DOI 10.1007/s10533-013-9926-1
+   Kilberg D., 2011, MAPPING CAPITOL REGI
+   Koenker R, 2001, J ECON PERSPECT, V15, P143, DOI 10.1257/jep.15.4.143
+   Koenker R, 1994, ASYMPTOTIC STAT, P349, DOI [10.1007/978-3-642-57984-4_29, DOI 10.1007/978-3-642-57984-4_29]
+   Koenker R., 2013, QUANTREG QUANTILE RE
+   Kuo FE, 2001, ENVIRON BEHAV, V33, P343, DOI 10.1177/0013916501333002
+   Lajtha K., 1999, STANDARD SOIL METHOD, P166
+   Larson G. A., 1985, PHOSPHORUS CONCENTRA
+   Lawrence M. A., 2013, EZ EASY ANAL VISUALI
+   Loper SJ, 2013, J ENVIRON QUAL, V42, P260, DOI 10.2134/jeq2012.0098
+   Lovett GM, 2002, ECOSYSTEMS, V5, P712, DOI 10.1007/s10021-002-0153-1
+   McCarron JK, 2003, PLANT SOIL, V257, P183, DOI 10.1023/A:1026255214393
+   Milesi C, 2005, ENVIRON MANAGE, V36, P426, DOI 10.1007/s00267-004-0316-2
+   Miller R. W., 1997, URBAN FORESTRY PLANN
+   Nowak D. J, 2006, ASSESSING URBAN FORE
+   Nowak David J., 2006, Urban Forestry & Urban Greening, V4, P115, DOI 10.1016/j.ufug.2006.01.007
+   Peters EB, 2011, J GEOPHYS RES-BIOGEO, V116, DOI 10.1029/2010JG001463
+   Peters EB, 2010, J GEOPHYS RES-BIOGEO, V115, DOI 10.1029/2009JG001266
+   Peters Emily B., 2010, Urban Ecosystems, V13, P443, DOI 10.1007/s11252-010-0128-5
+   QGIS Development Team, 2014, QGIS GEOGR INF SYST
+   Qin ZX, 2013, J ENVIRON QUAL, V42, P1534, DOI 10.2134/jeq2013.04.0126
+   R Core Team, 2015, R LANG ENV STAT COMP
+   Rhoades CC, 1997, AGROFOREST SYST, V35, P71, DOI 10.1007/BF02345330
+   Saint Paul Department of Parks and Recreation, 2013, PARK BOULEVARD TREE
+   Strahm BD, 2005, FOREST ECOL MANAG, V218, P74, DOI 10.1016/j.foreco.2005.07.013
+   Trojan MD, 2003, GROUND WATER, V41, P482, DOI 10.1111/j.1745-6584.2003.tb02382.x
+   VETAAS OR, 1992, J VEG SCI, V3, P337, DOI 10.2307/3235758
+   Wein S. P., 2010, HOMEOWNER BEHAV AFFE
+   WILLIS RB, 1993, COMMUN SOIL SCI PLAN, V24, P1009, DOI 10.1080/00103629309368857
+   Zhang L, 2001, WATER RESOUR RES, V37, P701, DOI 10.1029/2000WR900325
+NR 54
+TC 9
+Z9 9
+U1 3
+U2 67
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1051-0761
+EI 1939-5582
+J9 ECOL APPL
+JI Ecol. Appl.
+PD JUL
+PY 2016
+VL 26
+IS 5
+BP 1566
+EP 1580
+DI 10.1002/15-0976
+PG 15
+WC Ecology; Environmental Sciences
+SC Environmental Sciences & Ecology
+GA DR0NJ
+UT WOS:000379603900020
+PM 27755753
+OA Bronze
+DA 2019-03-26
+ER
+
+PT J
+AU Grothues, TM
+   Rackovan, JL
+   Able, KW
+AF Grothues, Thomas M.
+   Rackovan, Jenna L.
+   Able, Kenneth W.
+TI Modification of nektonic fish distribution by piers and pile fields in
+   an urban estuary
+SO JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY
+LA English
+DT Article
+DE Shoreline; Structure; Habitat; Shading; Fish; DIDSON
+ID IDENTIFICATION SONAR DIDSON; HUDSON RIVER ESTUARY; MAN-MADE STRUCTURES;
+   JUVENILE FISHES; BEHAVIOR; ABUNDANCE; ASSEMBLAGES; EPIBIOTA; LIGHT; SIZE
+AB Large urban piers degrade habitat value for several estuarine benthic fish species by shading, but their effects on mobile nektonic species is less well understood due to sampling challenges. Dual Frequency Identification Sonar (DIDSON) allowed equal access to sampling in the water column of structured shaded and unshaded vs. open environments in both dark and light conditions by methods similar to video but without light. Sampling (n = 228, 5-min transects) occurred under and around four large municipal piers of varying dimensions in the Hudson River estuary during day and night from summer and fall in 2007-2009. The distribution of small (5-25 cm in length) and large (25-850 cm) fishes were analyzed separately in recognition of functional guild differences. Small fishes occupied open water, shaded under-pier, and un-decked relict piling habitats, but were significantly more abundant during the day in open unshaded water than under adjacent piers or in piling habitats. Small fish occurred under 3 of 4 piers of varying size and configuration at 10-20% of the median abundances of adjacent open water. However, while schools were rare under piers they could be very large, so that abundance greatly exceeded mean open water abundance variance so as to preclude confidence in differences among piers. The differences among habitats were not significant at night, and the difference among piers was also not significant at night. School membership for small fish appeared to mitigate adverse effects of shading and may influence scaling of their response to shading and could therefore influence pier design. Large (>25 cm) predatory fish were uncommon but responded similarly to habitat effects as did small fish. Habitats did not segregate fish by guild as small forage fish co-occurred in 65.8% of samples with large piscivores. Studies that provide species-specific and mechanistic interpretation of dynamic habitat use as well as further quantification of scaling effects could improve our understanding of how fishes respond to piers and other structures on urban shorelines. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Grothues, Thomas M.; Rackovan, Jenna L.; Able, Kenneth W.] Rutgers State Univ, Marine Field Stn, 800 132 Great Bay Blvd, Tuckerton, NJ 08087 USA.
+   [Rackovan, Jenna L.] Univ New Hampshire, Dept Biol, 105 Main St, Durham, NH 03824 USA.
+RP Grothues, TM (reprint author), Rutgers State Univ, Marine Field Stn, 800 132 Great Bay Blvd, Tuckerton, NJ 08087 USA.
+EM Grothues@marine.rutgers.edu
+FU Hudson River Foundation [003/07A]; NSF-REU grant [0755094]
+FX Numerous individuals assisted in these efforts. Technicians from the
+   Rutgers University Marine Field Station (T. Malatesta, J. Smith, C.
+   Kennedy, R. Hagan, T. Swavely, and J. Bunkiewicz), and volunteer S.
+   Zeck, participated in the field sampling in sometimes trying conditions
+   during the day and night. F. Buderman and M. Rudd conducted preliminary
+   analysis for their Rutgers University Research Internships in Ocean
+   Science (RIOS) internship from the NSF-REU program. Hudson River Park
+   Trust personnel J. Boehm provided facilities and logistical help on Pier
+   40 and Port Captain Jim Gill assisted with the onerous permitting
+   process. Funding for this project was provided by the Hudson River
+   Foundation (Grant No. 003/07A) and an NSF-REU grant (Award No. 0755094)
+   to Rutgers University. [SS]
+CR Able Kenneth W., 2006, P428, DOI 10.1017/CBO9780511550539.031
+   Able KW, 2014, NORTHEAST NAT, V21, P192, DOI 10.1656/045.021.0207
+   Able KW, 2013, MAR ECOL PROG SER, V476, P185, DOI 10.3354/meps10151
+   Able KW, 1999, MAR ECOL PROG SER, V187, P227, DOI 10.3354/meps187227
+   Able KW, 1998, ESTUARIES, V21, P731, DOI 10.2307/1353277
+   Able KW, 2010, ECOLOGY ESTUARINE FI
+   Balouskus RG, 2012, ESTUAR COAST, V35, P1100, DOI 10.1007/s12237-012-9495-x
+   Bartholomew A, 2000, MAR ECOL PROG SER, V206, P45, DOI 10.3354/meps206045
+   Bartholomew A, 2015, MAR FRESHW BEHAV PHY, V48, P213, DOI 10.1080/10236244.2015.1024076
+   Becker A, 2013, J APPL ECOL, V50, P43, DOI 10.1111/1365-2664.12024
+   Boswell KM, 2008, N AM J FISH MANAGE, V28, P799, DOI 10.1577/M07-116.1
+   BULGER AJ, 1993, ESTUARIES, V16, P311, DOI 10.2307/1352504
+   Burrow JF, 2013, FISH FISH, V14, P205, DOI 10.1111/j.1467-2979.2012.00463.x
+   Cabin R., 2000, B ECOL SOC AM, V81, P246, DOI DOI 10.1890/0012-9623(2000)081[0223:C]2.0.CO;2
+   CAINE EA, 1987, J EXP MAR BIOL ECOL, V108, P83, DOI 10.1016/0022-0981(87)90132-8
+   CASTILLORIVERA M, 1994, SOUTHWEST NAT, V39, P263, DOI 10.2307/3671591
+   Clynick BG, 2007, MAR ECOL PROG SER, V332, P201, DOI 10.3354/meps332201
+   Coleman MA, 2001, ENVIRON BIOL FISH, V61, P231, DOI 10.1023/A:1011088631442
+   Duffy-Anderson JT, 2003, B MAR SCI, V72, P877
+   Duffy-Anderson JT, 2001, ESTUARIES, V24, P430, DOI 10.2307/1353244
+   Duffy-Anderson JT, 1999, MAR BIOL, V133, P409, DOI 10.1007/s002270050479
+   Feary DA, 2011, OCEAN COAST MANAGE, V54, P742, DOI 10.1016/j.ocecoaman.2011.07.008
+   Gayaldo PF, 2006, LAKE RESERV MANAGE, V22, P245, DOI 10.1080/07438140609353902
+   Grothues TM, 2009, REV-METHODS TECHNOL, V9, P77, DOI 10.1007/978-1-4020-9640-2_5
+   Haeseker SL, 1996, T AM FISH SOC, V125, P690, DOI 10.1577/1548-8659(1996)125<0690:SDACOS>2.3.CO;2
+   Hagan SM, 2003, ESTUAR COAST SHELF S, V56, P15, DOI 10.1016/S0272-7714(02)00116-6
+   Hagan SM, 2008, ESTUAR COAST, V31, P33, DOI 10.1007/s12237-007-9018-3
+   HAIR CA, 1992, B MAR SCI, V51, P30
+   Helfman G. S., 1986, BEHAV TELEOST FISHES
+   HELFMAN GS, 1981, COPEIA, P392, DOI 10.2307/1444228
+   Higgs DM, 1996, J EXP BIOL, V199, P2619
+   Hoare DJ, 2004, ANIM BEHAV, V67, P155, DOI 10.1016/j.anbehav.2003.04.004
+   Holmes JA, 2006, ICES J MAR SCI, V63, P543, DOI 10.1016/j.iccsjms.2005.08.015
+   Horodysky AZ, 2010, J EXP BIOL, V213, P1751, DOI 10.1242/jeb.038117
+   KRUSKAL WH, 1952, J AM STAT ASSOC, V47, P583
+   Le Pichon C, 2014, J EXP MAR BIOL ECOL, V461, P441, DOI 10.1016/j.jembe.2014.09.015
+   Marschner IC, 2011, R J, V3, P12
+   Martignac F, 2015, FISH FISH, V16, P486, DOI 10.1111/faf.12071
+   Metzger Charles V., 2001, Bulletin New Jersey Academy of Science, V46, P5
+   Moore Marianne S., 2013, PLoS ONE, V8, P1
+   Moreau S, 2008, J FISH BIOL, V72, P205, DOI 10.1111/j.1095-8649.2007.01705.x
+   Munsch SH, 2014, N AM J FISH MANAGE, V34, P814, DOI 10.1080/02755947.2014.910579
+   Nakagawa S, 2004, BEHAV ECOL, V15, P1044, DOI 10.1093/beheco/arh107
+   Ono K, 2014, ECOL ENG, V71, P180, DOI 10.1016/j.ecoleng.2014.07.010
+   PARTRIDGE BL, 1980, BEHAV ECOL SOCIOBIOL, V6, P277, DOI 10.1007/BF00292770
+   Penaluna B. E., 2015, ECOL FRESHW FISH
+   PITCHER TJ, 1983, ANIM BEHAV, V31, P611, DOI 10.1016/S0003-3472(83)80087-6
+   Pitcher TJ., 1993, BEHAV TELEOST FISHES
+   Prevedello JA, 2013, ECOGRAPHY, V36, P287, DOI 10.1111/j.1600-0587.2012.07820.x
+   ROUNTREE RA, 1993, ESTUAR COAST SHELF S, V37, P181, DOI 10.1006/ecss.1993.1050
+   Ryer CH, 1999, MAR ECOL PROG SER, V181, P41, DOI 10.3354/meps181041
+   Ryer CH, 1998, MAR ECOL PROG SER, V167, P215, DOI 10.3354/meps167215
+   SAWILOWSKY SS, 1989, J EDUC STAT, V14, P255, DOI 10.2307/1165018
+   SHAW E, 1978, AM SCI, V66, P166
+   Shaw E., 1961, Bulletin de l'Institut Oceanographique Monaco, VNo. 1213, P1
+   SQUIRES DF, 1992, COAST MANAGE, V20, P343, DOI 10.1080/08920759209362183
+   STOECKER RR, 1992, ESTUARINE RESEARCH IN THE 1980S, P407
+   Toft JD, 2007, N AM J FISH MANAGE, V27, P465, DOI 10.1577/M05-158.1
+   Venice System, 1959, ARCH OCEANOGRAPHY LI, V11, P243
+NR 59
+TC 3
+Z9 3
+U1 0
+U2 16
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-0981
+EI 1879-1697
+J9 J EXP MAR BIOL ECOL
+JI J. Exp. Mar. Biol. Ecol.
+PD DEC
+PY 2016
+VL 485
+BP 47
+EP 56
+DI 10.1016/j.jembe.2016.08.004
+PG 10
+WC Ecology; Marine & Freshwater Biology
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA DZ9JD
+UT WOS:000386190300006
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Karamouzian, M
+   Mirzazadeh, A
+   Shokoohi, M
+   Khajehkazemi, R
+   Sedaghat, A
+   Haghdoost, AA
+   Sharifi, H
+AF Karamouzian, Mohammad
+   Mirzazadeh, Ali
+   Shokoohi, Mostafa
+   Khajehkazemi, Razieh
+   Sedaghat, Abbas
+   Haghdoost, Ali Akbar
+   Sharifi, Hamid
+TI Lifetime Abortion of Female Sex Workers in Iran: Findings of a National
+   Bio-Behavioural Survey In 2010
+SO PLOS ONE
+LA English
+DT Article
+ID CONDOM USE; CONTRACEPTIVE USE; HIV-INFECTION; WOMEN; PREGNANCY;
+   PREVALENCE; NEEDS; RISK; CARE; MEN
+AB Introduction Unintended pregnancies and abortion may be considered as occupational hazards for female sex workers (FSWs). As our understanding of contraceptive and abortion practices of Iranian FSWs is very limited, this study tries to assess the dynamics of contraception and abortion among this sub-population.
+   Methods This survey was conducted in 2010, by recruiting 872 FSWs through facility-based sampling from 21 sites in 14 cities in Iran. Data were collected through face-to-face interviews using a pilot-tested standardized risk assessment questionnaire. We applied the logistic regression model to investigate the correlates of induced abortion among FSWs.
+   Results Of the 863 participants with valid responses to the abortion variable, 35.3% (95% CI: 32.1 - 38.6) acknowledged ever induced abortion and the annual rate of abortion was estimated at 20.7 per 1000 women. Around 31.2% of FSWs reported no usual contraceptive use, 32.6% barrier method, 23.6% non-barrier modern contraception methods, and 12.5% dual protection. In our multivariable model, older age (Adjusted Odds Ratio (AOR) = 1.74, 95% Confidence Interval (CI): 1.02, 2.96), group sex (AOR = 1.92, 95% CI: 1.10, 3.35), history of travel for sex work (AOR = 1.55, 95% CI: 1.09, 2.20), sexual violence (AOR = 1.77, 95% CI: 1.25, 2.50), STIs in last year (AOR = 1.53, 95% CI: 1.09, 2.14), and accessing family planning services (AOR = 1.76, 95% CI: 1.24, 2.49) were significant predictors of lifetime abortion.
+   Conclusions The reproductive health needs of Iranian FSWs are unmet and around one-third of FSWs reported induced abortion. Scaling-up comprehensive family planning services and empowering FSWs to have safer sex practices may help them to prevent unintended pregnancies and further risk of HIV transmission.
+C1 [Karamouzian, Mohammad; Mirzazadeh, Ali; Shokoohi, Mostafa; Sharifi, Hamid] Kerman Univ Med Sci, HIV STI Surveillance Res Ctr, Kerman, Iran.
+   [Karamouzian, Mohammad; Mirzazadeh, Ali; Shokoohi, Mostafa; Sharifi, Hamid] Kerman Univ Med Sci, WHO Collaborating Ctr HIV Surveillance, Inst Futures Studies Hlth, Kerman, Iran.
+   [Karamouzian, Mohammad] Univ British Columbia, Fac Med, Sch Populat & Publ Hlth, Vancouver, BC, Canada.
+   [Mirzazadeh, Ali] Univ Calif San Francisco, Dept Epidemiol & Biostat, San Francisco, CA 94143 USA.
+   [Shokoohi, Mostafa] Univ Western Ontario, Schulich Sch Med & Dent, Epidemiol & Biostat, London, ON, Canada.
+   [Khajehkazemi, Razieh; Haghdoost, Ali Akbar] Kerman Univ Med Sci, Inst Futures Studies Hlth, Modeling Hlth Res Ctr, Kerman, Iran.
+   [Sedaghat, Abbas] Minist Hlth & Med Educ, CDC, Tehran, Iran.
+RP Sharifi, H (reprint author), Kerman Univ Med Sci, HIV STI Surveillance Res Ctr, Kerman, Iran.; Sharifi, H (reprint author), Kerman Univ Med Sci, WHO Collaborating Ctr HIV Surveillance, Inst Futures Studies Hlth, Kerman, Iran.
+EM hsharifi@kmu.ac.ir
+RI Karamouzian, Mohammad/C-9277-2018
+OI Karamouzian, Mohammad/0000-0002-5631-4469
+FU Ministry of Health of Iran
+FX The survey was financially supported by the Ministry of Health of Iran
+   in 2010. However, the authors received no funding for this specific
+   paper.
+CR Bautista CT, 2008, CONTRACEPTION, V77, P209, DOI 10.1016/j.contraception.2007.11.013
+   Beckham SW, 2015, CULT HEALTH SEX, V17, P165, DOI 10.1080/13691058.2014.961034
+   Buttram ME, 2015, SEX HEALTH, V12, P560, DOI 10.1071/SH15071
+   Chandra-Mouli V, 2013, J ADOLESCENT HEALTH, V52, P517, DOI 10.1016/j.jadohealth.2013.03.002
+   Cushman LF, 1998, FAMILY PLANNING PERS, P240
+   Decker MR, 2013, INT J GYNECOL OBSTET, V120, P27, DOI 10.1016/j.ijgo.2012.07.026
+   Delvaux T, 2003, REPROD HEALTH MATTER, V11, P88, DOI 10.1016/S0968-8080(03)02163-3
+   Dhana A, 2014, GLOBALIZATION HEALTH, V10, DOI 10.1186/1744-8603-10-46
+   Duff P, 2014, J FAMILY PLANNING RE
+   Duff P, 2011, BMC PREGNANCY CHILDB, V11, DOI 10.1186/1471-2393-11-61
+   Erfani A, 2008, PSC DIS J, V22, P1
+   Erfani A, 2011, INT PERSPECT SEX R H, V37, P134, DOI 10.1363/3713411
+   Fahimfar N, 2013, IRAN J PUBLIC HEALTH, V42, P98
+   Friedman SR, 2011, INT J DRUG POLICY, V22, P1, DOI 10.1016/j.drugpo.2010.06.004
+   Grayman JH, 2005, AIDS BEHAV, V9, P41, DOI 10.1007/s10461-005-1680-5
+   Haddock S, 2008, COMPREHENSIVE HIV PR
+   Haider S, 2009, HEALTH CARE WOMEN IN, V30, P935, DOI 10.1080/07399330903052129
+   Hoefnagels C, 2006, PREV SCI, V7, P369, DOI 10.1007/s11121-006-0048-z
+   Karamouzian M, 2016, CULT HEALTH SEX, V18, P58, DOI 10.1080/13691058.2015.1059487
+   Karamouzian M, 2015, LANCET, V385, P1071, DOI 10.1016/S0140-6736(15)60596-7
+   Karamouzian M, 2014, INT J HEALTH POLICY, V3, P231, DOI 10.15171/ijhpm.2014.81
+   Kerrigan D, 2003, AIDS, V17, P415, DOI 10.1097/01.aids.0000050787.28043.2b
+   Khajehkazemi R, 2014, SEX HEALTH, V11, P568, DOI 10.1071/SH14165
+   Khan MK, 2009, APPL THERM ENG, V29, P1426, DOI 10.1016/j.applthermaleng.2008.08.020
+   Lim MSC, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0115435
+   Moosazadeh M, 2014, INT J HEALTH PLAN M, V29, pE277, DOI 10.1002/hpm.2184
+   MORRIS M, 1995, AIDS, V9, P507
+   Ojeda VD, 2009, SEX TRANSM INFECT, V85, P420, DOI 10.1136/sti.2008.032979
+   Papworth E, 2015, JAIDS-J ACQ IMM DEF, V68, pS154, DOI 10.1097/QAI.0000000000000454
+   Rekart ML, 2005, LANCET, V366, P2123, DOI 10.1016/S0140-6736(05)67732-X
+   Rolon ML, 2013, J TROPICAL PEDIAT
+   Sajadi L, 2013, SEX TRANSM INFECT, V89, P37, DOI 10.1136/sextrans-2013-051028
+   Schwartz SR, 2015, REPROD HEALTH MATTER, V23, P30, DOI 10.1016/j.rhm.2015.06.006
+   Shokoohi M, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0147587
+   Sutherland EG, 2011, EUR J CONTRACEP REPR, V16, P173, DOI 10.3109/13625187.2011.564683
+   Todd CS, 2006, CONTRACEPTION, V74, P318, DOI 10.1016/j.contraception.2006.04.006
+   Todd CS, 2010, J WOMENS HEALTH, V19, P2057, DOI 10.1089/jwh.2010.1947
+   Vuylsteke B, 2001, SEX TRANSM INFECT, V77, P351, DOI 10.1136/sti.77.5.351
+   Yam EA, 2013, SEX TRANSM DIS, V40, P406, DOI 10.1097/OLQ.0b013e318283c16d
+   Zhang XD, 2014, EUR J CONTRACEP REPR, V19, P368, DOI 10.3109/13625187.2014.927421
+NR 40
+TC 2
+Z9 2
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 18
+PY 2016
+VL 11
+IS 11
+AR e0166042
+DI 10.1371/journal.pone.0166042
+PG 12
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EC7WC
+UT WOS:000388350300024
+PM 27861487
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER
+
+PT J
+AU Guidolotti, G
+   Salviato, M
+   Calfapietra, C
+AF Guidolotti, Gabriele
+   Salviato, Michele
+   Calfapietra, Carlo
+TI Comparing estimates of EMEP MSC-W and UFORE models in air pollutant
+   reduction by urban trees
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE i-Tree; UFORE, EMEP/MSC-Wmodel; Urban forest; Atmospheric pollutants;
+   O-3; NO2; PM10
+ID ECOSYSTEM SERVICES; MEDITERRANEAN FOREST; OZONE DEPOSITION; QUALITY
+   MODELS; QUERCUS-ILEX; SURFACES; REMOVAL; SPAIN; FLUX
+AB There is a growing interest to identify and quantify the benefits provided by the presence of trees in urban environment in order to improve the environmental quality in cities. However, the evaluation and estimate of plant efficiency in removing atmospheric pollutants is rather complicated, because of the high number of factors involved and the difficulty of estimating the effect of the interactions between the different components. In this study, the EMEP MSC-W model was implemented to scale-down to tree-level and allows its application to an industrial-urban green area in Northern Italy. Moreover, the annual outputs were compared with the outputs of UFORE (nowadays i-Tree), a leading model for urban forest applications. Although, EMEP/MSC-W model and UFORE are semi-empirical models designed for different applications, the comparison, based on O-3, NO2 and PM10 removal, showed a good agreement in the estimates and highlights how the down-scaling methodology presented in this study may have significant opportunities for further developments.
+C1 [Guidolotti, Gabriele; Calfapietra, Carlo] Natl Res Council CNR, Inst Agroenvironm & Forest Biol IBAF, Via Marconi 2, I-05010 Porano, TR, Italy.
+   [Salviato, Michele] Univ Padua, Dept Land Environm Agr & Forestry LEAF, Viale Univ 16, I-35020 Legnaro, PD, Italy.
+   [Calfapietra, Carlo] Global Change Res Ctr, Belidla 986-4a, Brno 60300, Czech Republic.
+RP Calfapietra, C (reprint author), Natl Res Council CNR, Inst Agroenvironm & Forest Biol IBAF, Via Marconi 2, I-05010 Porano, TR, Italy.; Calfapietra, C (reprint author), Global Change Res Ctr, Belidla 986-4a, Brno 60300, Czech Republic.
+EM carlo.calfapietra@ibaf.cnr.it
+CR Alonso R, 2011, ENVIRON POLLUT, V159, P2138, DOI 10.1016/j.envpol.2010.12.005
+   [Anonymous], 2011, EMEP MSC W MODEL USE
+   BALDOCCHI DD, 1987, ATMOS ENVIRON, V21, P91, DOI 10.1016/0004-6981(87)90274-5
+   Baro F, 2014, AMBIO, V43, P466, DOI 10.1007/s13280-014-0507-x
+   Beckett K. Paul, 2000, Journal of Arboriculture, V26, P12
+   Calfapietra C, 2016, J ENVIRON QUAL, V45, P224, DOI 10.2134/jeq2015.01.0061
+   Chieco C, 2011, STRATEGIE VERDI MITI, P51
+   Donovan RG, 2005, ENVIRON SCI TECHNOL, V39, P6730, DOI 10.1021/es050581y
+   Dore C, 2012, CONSIDERATIONS CHANG
+   Emberson LD, 2000, ENVIRON POLLUT, V109, P403, DOI 10.1016/S0269-7491(00)00043-9
+   Emberson LD, 2000, 42 EMEPMSCW NORW MET
+   Escobedo FJ, 2011, ENVIRON POLLUT, V159, P2078, DOI 10.1016/j.envpol.2011.01.010
+   Escobedo FJ, 2009, LANDSCAPE URBAN PLAN, V90, P102, DOI 10.1016/j.landurbplan.2008.10.021
+   Escobedo PJ, 2008, J ENVIRON MANAGE, V86, P148, DOI 10.1016/j.jenvman.2006.11.029
+   FARQUHAR GD, 1982, ANNU REV PLANT PHYS, V33, P317, DOI 10.1146/annurev.pp.33.060182.001533
+   Freer-Smith PH, 2004, WATER AIR SOIL POLL, V155, P173, DOI 10.1023/B:WATE.0000026521.99552.fd
+   Gerosa G, 2005, ATMOS ENVIRON, V39, P3255, DOI 10.1016/j.atmosenv.2005.01.056
+   Hass H, 1997, ATMOS ENVIRON, V31, P3259, DOI 10.1016/S1352-2310(97)00066-6
+   Hinds W. C., 1999, AEROSOL TECHNOLOGY P
+   Hirabayashi S, 2010, URBAN FOREST EFFECTS
+   Keder J, 2004, METEOROL ATMOS PHYS, V85, P155, DOI 10.1007/s00703-003-0042-y
+   Kim HK, 2014, ATMOS CHEM PHYS, V14, P7461, DOI 10.5194/acp-14-7461-2014
+   LAISK A, 1989, PLANT PHYSIOL, V90, P1163, DOI 10.1104/pp.90.3.1163
+   LIN JJ, 1994, AEROSOL SCI TECH, V20, P239, DOI 10.1080/02786829408959680
+   LOVETT GM, 1994, ECOL APPL, V4, P629, DOI 10.2307/1941997
+   Manes F, 2012, ECOL APPL, V22, P349, DOI 10.1890/11-0561.1
+   McPherson EG, 2011, LANDSCAPE URBAN PLAN, V99, P40, DOI 10.1016/j.landurbplan.2010.08.011
+   Morani A, 2014, ENVIRON POLLUT, V195, P202, DOI 10.1016/j.envpol.2014.08.031
+   Nowak David J., 2006, Urban Forestry & Urban Greening, V4, P115, DOI 10.1016/j.ufug.2006.01.007
+   Nowak DJ, 2014, ENVIRON POLLUT, V193, P119, DOI 10.1016/j.envpol.2014.05.028
+   Nowak David J., 2008, Arboriculture & Urban Forestry, V34, P347
+   NOWAK DJ, 2000, INTEGRATED TOOLS NAT, P714
+   Peper Paula J., 2001, Journal of Arboriculture, V27, P306
+   Saebo A, 2012, SCI TOTAL ENVIRON, V427, P347, DOI 10.1016/j.scitotenv.2012.03.084
+   Salviato M, 2015, PIANTE ARBOREE NELLA
+   Scire JS, 2000, USERS GUIDE CALMET M
+   Sgrigna G, 2015, ENVIRON POLLUT, V197, P187, DOI 10.1016/j.envpol.2014.11.030
+   Simpson D, 2012, ATMOS CHEM PHYS, V12, P7825, DOI 10.5194/acp-12-7825-2012
+   SIMPSON D, 2003, 12003 EMEP NORW MET
+   Tsyro S, 2007, 112007 NORW MET I
+   Tuovinen JP, 2004, ATMOS ENVIRON, V38, P2373, DOI 10.1016/j.atmosenv.2004.01.026
+   van Loon M, 2007, ATMOS ENVIRON, V41, P2083, DOI 10.1016/j.atmosenv.2006.10.073
+   Vieno M, 2009, ATMOSPHERIC AMMONIA, P367, DOI 10.1007/978-1-4020-9121-6_21
+NR 43
+TC 0
+Z9 0
+U1 6
+U2 23
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD OCT
+PY 2016
+VL 23
+IS 19
+BP 19541
+EP 19550
+DI 10.1007/s11356-016-7135-x
+PG 10
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA DX7GQ
+UT WOS:000384555200054
+PM 27392620
+DA 2019-03-26
+ER

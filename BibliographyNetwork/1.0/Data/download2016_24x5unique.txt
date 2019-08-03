@@ -1,0 +1,432 @@
+
+PT S
+AU Chakareski, J
+   Manohar, I
+   Rane, S
+AF Chakareski, Jacob
+   Manohar, Immanuel
+   Rane, Shantanu
+GP IEEE
+TI MATRIX FACTORIZATION-BASED CLUSTERING OF IMAGE FEATURES FOR
+   BANDWIDTH-CONSTRAINED INFORMATION RETRIEVAL
+SO 2016 IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA & EXPO WORKSHOPS
+   (ICMEW)
+SE IEEE International Conference on Multimedia and Expo Workshops
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Multimedia & Expo (ICME)
+CY JUL 11-15, 2016
+CL Seattle, WA
+SP IEEE
+DE Clustering; non-negative matrix factorization; principal component
+   analysis; information retrieval
+AB We consider the problem of accurately and efficiently querying a remote server to retrieve information about images captured by a mobile device. In addition to reduced transmission overhead and computational complexity, the retrieval protocol should be robust to variations in the image acquisition process, such as translation, rotation, scaling, and sensor-related differences. We propose to extract scale-invariant image features and then perform clustering to reduce the number of features needed for image matching. Principal Component Analysis (PCA) and Non-negative Matrix Factorization (NMF) are investigated as candidate clustering approaches. The image matching complexity at the database server is quadratic in the (small) number of clusters, not in the (very large) number of image features. We employ an image-dependent information content metric to approximate the model order, i.e., the number of clusters, needed for accurate matching, which is preferable to setting the model order using trial and error. We show how to combine the hypotheses provided by PCA and NMF factor loadings, thereby obtaining more accurate retrieval than using either approach alone. In experiments on a database of urban images, we obtain a top-1 retrieval accuracy of 89% and a top-3 accuracy of 92.5%.
+C1 [Chakareski, Jacob; Manohar, Immanuel] Univ Alabama, Tuscaloosa, AL 35487 USA.
+   [Rane, Shantanu] Xerox PARC, Palo Alto, CA 94304 USA.
+RP Chakareski, J (reprint author), Univ Alabama, Tuscaloosa, AL 35487 USA.
+CR Alahi A, 2012, PROC CVPR IEEE, P510, DOI 10.1109/CVPR.2012.6247715
+   Bai JS, 2002, ECONOMETRICA, V70, P191, DOI 10.1111/1468-0262.00273
+   Chandrasekhar V., 2010, P INT WORKSH MOB MUL, P35
+   Chandrasekhar V, 2012, INT J COMPUT VISION, V96, P384, DOI 10.1007/s11263-011-0453-z
+   DALAL N, 2005, PROC CVPR IEEE, P886, DOI DOI 10.1109/CVPR.2005.177
+   DING C., 2004, P 21 INT C MACH LEAR, P29, DOI DOI 10.1145/1015330.1015408
+   Ding C., 2006, P 12 ACM SIGKDD INT, P126, DOI DOI 10.1145/1150402.1150420
+   Gillis  N., 2014, REGULARIZATION OPTIM, P257
+   Hoyer PO, 2004, J MACH LEARN RES, V5, P1457
+   Indyk P., 1998, Proceedings of the Thirtieth Annual ACM Symposium on Theory of Computing, P604, DOI 10.1145/276698.276876
+   Jegou H, 2012, IEEE T PATTERN ANAL, V34, P1704, DOI 10.1109/TPAMI.2011.235
+   Ke Y, 2004, PROC CVPR IEEE, P506
+   Leutenegger S, 2011, IEEE I CONF COMP VIS, P2548, DOI 10.1109/ICCV.2011.6126542
+   LI M, 2012, 2012 IEEE 14 INT, P1
+   Lowe D, 2004, IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE (WI 2004), PROCEEDINGS, P91, DOI 10.1023/B:VISI.0000029664.99615.94
+   Mansour H, 2014, IEEE IMAGE PROC, P2789, DOI 10.1109/ICIP.2014.7025564
+   Meyer C. D., 2000, MATRIX ANAL APPL LIN
+   Shao H, 2003, LECT NOTES COMPUT SC, V2728, P71
+   Shao H., 2003, TECH REP, V260, P20
+   Strecha C, 2012, IEEE T PATTERN ANAL, V34, P66, DOI 10.1109/TPAMI.2011.103
+   Torralba A., 2008, P IEEE C COMP VIS PA, P1, DOI [10.1109/CVPR.2008.4587633, DOI 10.1109/CVPR.2008.4587633]
+   Weiss Y., 2009, ADV NEURAL INFORM PR, V21, P1753
+   Yeo C, 2011, INT J COMPUT VISION, V94, P267, DOI 10.1007/s11263-011-0427-1
+NR 23
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2330-7927
+BN 978-1-5090-1552-8
+J9 IEEE INT CONF MULTI
+PY 2016
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BG1IW
+UT WOS:000386808400039
+DA 2019-03-26
+ER
+
+PT J
+AU Li, H
+   Wei, YD
+   Ning, YM
+AF Li, Huan
+   Wei, Yehua Dennis
+   Ning, Yuemin
+TI Spatial and Temporal Evolution of Urban Systems in China during Rapid
+   Urbanization
+SO SUSTAINABILITY
+LA English
+DT Article
+DE urban hierarchy; Zipf's law; Gibrat's law; total-factor productivity;
+   China
+ID SIZE DISTRIBUTION; LAND EXPANSION; CITIES; ENERGY
+AB The structure of urban hierarchy and the role of cities of different sizes have drawn considerable scholarly interests and societal concerns. This paper analyzes the evolution and underlying mechanisms of urban hierarchy in China during the recent period of rapid urbanization. By comparing scale changes of seven types of cities (megacity, large city, Type I big city, Type II big city, medium-sized city, type I small city and type II small city), we find that allometry is the main characteristic of urban hierarchical evolution in China. We also test the validity of Zipf's law and Gibrat's law, which broaden the scope of existing studies by including county-level cities. We find that urban hierarchical distribution is lognormal, rather than Pareto. The result also shows that city size growth rates are constant across cities of different types. For better understanding of the mechanisms of urban hierarchical formation, we measure the optimal city size and resource allocation by the Pareto optimality criterion and non-parametric frontier method. The main findings are as follows: (1) scale efficiency is still at a relatively low level among the seven types of cities; (2) the economic efficiency of megacities and large cities is overestimated when compared to economic-environmental efficiency. Hence, this paper has two policy implications: (1) to correct factor market (land, labor and infrastructure investment) distortions among different types of cities for the improvement of efficiency; (2) to strengthen rural property rights to improve social equity, as well as land use intensity.
+C1 [Li, Huan] Nankai Univ, Sch Econ, Collaborat Innovat Ctr China Econ, Tianjin 300071, Peoples R China.
+   [Wei, Yehua Dennis] Henan Univ, Key Res Inst Yellow River Civilizat & Sustainable, Kaifeng 475001, Peoples R China.
+   [Wei, Yehua Dennis] Henan Univ, Collaborat Innovat Ctr Yellow River Civilizat Hen, Kaifeng 475001, Peoples R China.
+   [Wei, Yehua Dennis] Univ Utah, Dept Geog, Salt Lake City, UT 84112 USA.
+   [Ning, Yuemin] East China Normal Univ, Ctr Modern Chinese City Studies, Shanghai 200062, Peoples R China.
+RP Wei, YD (reprint author), Henan Univ, Key Res Inst Yellow River Civilizat & Sustainable, Kaifeng 475001, Peoples R China.; Wei, YD (reprint author), Henan Univ, Collaborat Innovat Ctr Yellow River Civilizat Hen, Kaifeng 475001, Peoples R China.; Wei, YD (reprint author), Univ Utah, Dept Geog, Salt Lake City, UT 84112 USA.
+EM hli@iud.ecnu.edu.cn; wei@geog.utah.edu; ymning@re.ecnu.edu.cn
+FU National Social Science Foundation [16BJY041]; Ford Foundation
+   [0155-0883]; National Natural Science Foundation of China [41329001];
+   Science Foundation of the Ministry of Education of China [15YJC790048];
+   China Postdoctoral Science Foundation [2016M591621]
+FX We would like to acknowledge the funding of National Social Science
+   Foundation (16BJY041), the Ford Foundation (0155-0883) and the National
+   Natural Science Foundation of China (41329001), the Science Foundation
+   of the Ministry of Education of China (15YJC790048), the China
+   Postdoctoral Science Foundation (2016M591621).
+CR Anderson G, 2005, REG SCI URBAN ECON, V35, P756, DOI 10.1016/j.regsciurbeco.2005.01.003
+   Au CC, 2006, REV ECON STUD, V73, P549, DOI 10.1111/j.1467-937X.2006.00387.x
+   Bai XM, 2014, NATURE, V509, P158, DOI 10.1038/509158a
+   Batty M, 2001, URBAN STUD, V38, P635, DOI 10.1080/00420980120035268
+   Bee M, 2013, ECON LETT, V120, P232, DOI 10.1016/j.econlet.2013.04.035
+   BERRY BJL, 1961, ECON DEV CULT CHANGE, V9, P573, DOI 10.1086/449923
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Bigotte JF, 2014, INT REGIONAL SCI REV, V37, P149, DOI 10.1177/0160017614524226
+   Boyd GA, 2002, ENVIRON RESOUR ECON, V23, P29, DOI 10.1023/A:1020236517937
+   Cai Y, 2013, POPUL DEV REV, V39, P371, DOI 10.1111/j.1728-4457.2013.00608.x
+   CAVES DW, 1982, ECON J, V92, P73, DOI 10.2307/2232257
+   Chang KC, 2011, ASIAN POPUL STUD, V7, P275, DOI 10.1080/17441730.2011.608989
+   Charnes A., 1995, DATA ENVELOPMENT ANA
+   Cooper WW, 2001, J PROD ANAL, V15, P217, DOI 10.1023/A:1011128409257
+   Dimou M, 2009, URBAN STUD, V46, P2891, DOI 10.1177/0042098009344993
+   Ding CR, 2011, CHIN ECON, V44, P46, DOI 10.2753/CES1097-1475440104
+   Duranton G, 2007, AM ECON REV, V97, P197, DOI 10.1257/aer.97.1.197
+   Eeckhout J, 2004, AM ECON REV, V94, P1429, DOI 10.1257/0002828043052303
+   [方创�? FANG Chuanglin], 2011, [地理学报, Acta Geographica Sinica], V66, P1011
+   Fukuyama H., 2009, SOCIO-ECON PLAN SCI, V43, P274, DOI DOI 10.1016/J.SEPS.2008.12.001
+   Gabaix X., 1990, Q J ECON, V3, P739
+   Gao W., 2008, SHANGHAI J EC, V7, P3
+   Gibrat R., 1931, INEGALITES EC
+   Glaeser E, 2011, TRIUMPH CITY
+   Glaeser EL, 2012, J POLICY ANAL MANAG, V31, P111, DOI 10.1002/pam.20631
+   Gong ZW, 2014, NAT HAZARDS, V71, P1145, DOI 10.1007/s11069-013-0658-2
+   [郭腾�? GUO Tengyun], 2009, [地理学报, Acta Geographica Sinica], V64, P408
+   Henderson J.V, 2007, URBAN STUD, V4, P32
+   HENDERSON JV, 1974, AM ECON REV, V64, P640
+   Hopke PK, 2008, SCI TOTAL ENVIRON, V404, P103, DOI 10.1016/j.scitotenv.2008.05.039
+   Jin X., 2006, SHANGHAI EC REV, V7, P14
+   Levy M, 2009, AM ECON REV, V99, P1672, DOI 10.1257/aer.99.4.1672
+   Li H, 2015, APPL GEOGR, V56, P177, DOI 10.1016/j.apgeog.2014.11.029
+   Li Q, 2012, SOCIAL SCI CHINA, V7, P82
+   [李郇 Li Xun], 2005, [地理学报, Acta Geographica Sinica], V60, P615
+   Liang Q., 2013, SOC SCI CHINA, V12, P36
+   Lim Edwin, 2011, MEDIUM LONG TERM DEV
+   Liu YB, 2011, ECOL INDIC, V11, P1599, DOI 10.1016/j.ecolind.2011.04.004
+   Liu YQ, 2014, SUSTAINABILITY-BASEL, V6, P1946, DOI 10.3390/su6041946
+   Maliszewski PJ, 2012, PAP REG SCI, V91, P743, DOI 10.1111/j.1435-5957.2012.00422.x
+   Matus K, 2012, GLOBAL ENVIRON CHANG, V22, P55, DOI 10.1016/j.gloenvcha.2011.08.006
+   National Bureau of Statistics of China, 2011, 6 CENS TOT POP CHIN
+   National Bureau of Statistics of China, 2001, 5 CENS TOT POP CHIN
+   National Bureau of Statistics of China (NBSC), 1997, CHIN CIT STAT YB
+   ROSEN KT, 1980, J URBAN ECON, V8, P165, DOI 10.1016/0094-1190(80)90043-1
+   Rossi-Hansberg E, 2007, REV ECON STUD, V74, P597, DOI 10.1111/j.1467-937X.2007.00432.x
+   Sicular T, 2007, REV INCOME WEALTH, V53, P93, DOI 10.1111/j.1475-4991.2007.00219.x
+   Song SF, 2002, URBAN STUD, V39, P2317, DOI 10.1080/0042098022000033890
+   Soo KT, 2005, REG SCI URBAN ECON, V35, P239, DOI 10.1016/j.regsciurbeco.2004.04.004
+   Sun M., 2013, PROF GEOGR, V63, P92
+   Tan MH, 2005, SCI CHINA SER D, V48, P1492, DOI 10.1360/03yd0374
+   Tan R., 2010, MANAG WORLD, V6, P56
+   Tan R, 2014, SUSTAINABILITY-BASEL, V6, P3400, DOI 10.3390/su6063400
+   The Communist Party of China's Committee, 2001, 10 11 12 5 YEAR PLAN
+   The Communist Party of China's Committee, 2001, 10 11 12 5 YEAR PLAN
+   The Communist Party of China's Committee, 2006, 10 11 12 5 YEAR PLAN
+   The State Council of China, 2014, ADJ STAND CIT TYP CL
+   Wang K, 2013, APPL ENERG, V104, P105, DOI 10.1016/j.apenergy.2012.11.039
+   Wang X. L., 2010, EC RES J, V10, P20
+   Wang X. L., 1999, EC RES J, V9, P22
+   Wei Y. H, 1997, J CHINESE GEOGRAPHY, V7, P1
+   Wei YHD, 2012, HABITAT INT, V36, P396, DOI 10.1016/j.habitatint.2011.12.023
+   Xie HL, 2014, SUSTAINABILITY-BASEL, V6, P3504, DOI 10.3390/su6063504
+   Xu ZL, 2009, URBAN STUD, V46, P2159, DOI 10.1177/0042098009339432
+   Ye XY, 2012, ANN REGIONAL SCI, V49, P135, DOI 10.1007/s00168-011-0442-8
+   Zeng C, 2014, SUSTAINABILITY-BASEL, V6, P3571, DOI 10.3390/su6063571
+   Zhang HY, 2011, SUSTAINABILITY-BASEL, V3, P1074, DOI 10.3390/su2071074
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 68
+TC 3
+Z9 4
+U1 2
+U2 28
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD JUL
+PY 2016
+VL 8
+IS 7
+AR 651
+DI 10.3390/su8070651
+PG 17
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA DS4OM
+UT WOS:000380760400062
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Grelle, G
+   Bonito, L
+   Revellino, P
+   Sappa, G
+AF Grelle, Gerardo
+   Bonito, Laura
+   Revellino, Paola
+   Sappa, Giuseppe
+TI Frequency-dependent topographic seismic amplification by a "gray box
+   model" using GIS morphometric data
+SO RENDICONTI ONLINE SOCIETA GEOLOGICA ITALIANA
+LA English
+DT Article
+DE grey box model; seismic response; topographic amplification effects
+ID GROUND-MOTION; HYBRID MODEL
+AB Topographic seismic amplification can have a relevant effect in hilly and mountain areas and it assumes a relevant role in urban planning and seismic slope instability. On the other hand, recent studies on this topic strongly suggest the necessity to assess or predict topographic effect as a frequency depending variable and in an adequate way, in contrast with the simplistic models that use an inadequate uniform spectral scaling factor. Following this suggestion and taking into account the results of the aforesaid studies, a computerized model was developed based on common topographic attributes such as DTM, slope angle and curvature, taking into consideration the uniform rigidity of the relief. The model is defined as grey box model due to the fact that it is constructed on the awaited physical behaviour along the relief and initially trained on topographic amplified data of uniform regular relief, data product by 2D numerical analysis The validation of model was performed on two well-known areas. The results show a high prediction capacity of the model and how it can be driven for the optimization of performance in different real areas.
+C1 [Grelle, Gerardo; Sappa, Giuseppe] Univ Roma La Sapienza, Dept Civil & Environm Engn, Via Eudossiana 18, I-00184 Rome, Italy.
+   [Bonito, Laura; Revellino, Paola] Univ Sannio, Dept Sci & Technol, Via Mulini 59-A, I-82100 Benevento, Italy.
+RP Grelle, G (reprint author), Univ Roma La Sapienza, Dept Civil & Environm Engn, Via Eudossiana 18, I-00184 Rome, Italy.
+EM gerardo.grelle@uniroma1.it
+RI Revellino, Paola/I-8958-2012
+OI Revellino, Paola/0000-0001-8303-8407
+CR Ashford SA, 1997, B SEISMOL SOC AM, V87, P701
+   Barani S, 2014, GEOPHYS J INT, V197, P1551, DOI 10.1093/gji/ggu095
+   GELI L, 1988, B SEISMOL SOC AM, V78, P42
+   Grelle G, 2014, NAT HAZARD EARTH SYS, V14, P1703, DOI 10.5194/nhess-14-1703-2014
+   Grelle G, 2013, LANDSLIDES, V10, P583, DOI 10.1007/s10346-012-0350-8
+   Grelle G, 2016, GEOSCI MODEL DEV, V9, P1567, DOI 10.5194/gmd-9-1567-2016
+   Massa M, 2010, B SEISMOL SOC AM, V100, P3020, DOI 10.1785/0120090382
+   Maufroy E, 2015, B SEISMOL SOC AM, V105, P354, DOI 10.1785/0120140089
+   Torgoev A., 2016, J SEISMOL, P1
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SOC GEOLOGICA ITALIANA
+PI ROME
+PA UNIV DEGLI STUDI LA SAPIENZA, DIPART SCI DELLA TERRA, PIAZZALE ALDO MORO
+   5, ROME, I-00185, ITALY
+SN 2035-8008
+J9 REND ONLINE SOC GEOL
+JI Rend. Online Soc. Geol. Ital.
+PD NOV
+PY 2016
+VL 41
+BP 341
+EP 344
+DI 10.3301/ROL.2016.163
+PG 4
+WC Geosciences, Multidisciplinary
+SC Geology
+GA ED5UP
+UT WOS:000388918100085
+DA 2019-03-26
+ER
+
+PT J
+AU Jiang, B
+   Brandt, SA
+AF Jiang, Bin
+   Brandt, S. Anders
+TI A Fractal Perspective on Scale in Geography
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+LA English
+DT Article
+DE scaling; spatial heterogeneity; conundrum of length; MAUP; topological
+   analysis
+ID HEAD/TAIL BREAKS; SPACE; CITY
+AB Scale is a fundamental concept that has attracted persistent attention in geography literature over the past several decades. However, it creates enormous confusion and frustration, particularly in the context of geographic information science, because of scale-related issues such as image resolution and the modifiable areal unit problem (MAUP). This paper argues that the confusion and frustration arise from traditional Euclidean geometric thinking, in which locations, directions, and sizes are considered absolute, and it is now time to revise this conventional thinking. Hence, we review fractal geometry, together with its underlying way of thinking, and compare it to Euclidean geometry. Under the paradigm of Euclidean geometry, everything is measurable, no matter how big or small. However, most geographic features, due to their fractal nature, are essentially unmeasurable or their sizes depend on scale. For example, the length of a coastline, the area of a lake, and the slope of a topographic surface are all scale-dependent. Seen from the perspective of fractal geometry, many scale issues, such as the MAUP, are inevitable. They appear unsolvable, but can be dealt with. To effectively deal with scale-related issues, we present topological and scaling analyses illustrated by street-related concepts such as natural streets, street blocks, and natural cities. We further contend that one of the two spatial properties, spatial heterogeneity, is de facto the fractal nature of geographic features, and it should be considered the first effect among the two, because it is global and universal across all scales, which should receive more attention from practitioners of geography.
+C1 [Jiang, Bin; Brandt, S. Anders] Univ Gavle, Div Geospatial Informat Sci, Fac Engn & Sustainable Dev, S-80176 Gavle, Sweden.
+RP Jiang, B (reprint author), Univ Gavle, Div Geospatial Informat Sci, Fac Engn & Sustainable Dev, S-80176 Gavle, Sweden.
+EM bin.jiang@hig.se; sab@hig.se
+RI Brandt, Sven Anders/B-7645-2008
+OI Brandt, Sven Anders/0000-0002-3884-3084
+CR Bak P, 1996, NATURE WORKS SCI SEL
+   Batty M, 1994, FRACTAL CITIES GEOME
+   Bonner JT, 2006, WHY SIZE MATTERS BAC
+   Chen YG, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0024791
+   Chen YG, 2011, CHAOS SOLITON FRACT, V44, P619, DOI 10.1016/j.chaos.2011.05.016
+   Christaller W, 1966, CENTRAL PLACES SO GE
+   Fotheringham AS, 2009, SAGE HDB SPATIAL ANA
+   Frankhauser P., 1994, FRACTALIT STRUCTURES
+   Gehlke CE, 1934, J AM STAT ASSOC, V29, P169, DOI 10.2307/2277827
+   GOODCHILD MF, 1987, ANN ASSOC AM GEOGR, V77, P265, DOI 10.1111/j.1467-8306.1987.tb00158.x
+   Hudson Richard L., 2004, MISBEHAVIOR MARKETS
+   Jiang B, 2004, ENVIRON PLANN B, V31, P151, DOI 10.1068/b306
+   Jiang B, 2015, GEOJOURNAL, V80, P1, DOI 10.1007/s10708-014-9537-y
+   Jiang B, 2015, CITIES, V43, P69, DOI 10.1016/j.cities.2014.11.013
+   Jiang B, 2014, ANN ASSOC AM GEOGR, V104, P530, DOI 10.1080/00045608.2013.834239
+   Jiang B, 2013, ANN ASSOC AM GEOGR, V103, P844, DOI 10.1080/00045608.2013.765773
+   Jiang B, 2013, PROF GEOGR, V65, P482, DOI 10.1080/00330124.2012.700499
+   Jiang B, 2012, INT J GEOGR INF SCI, V26, P215, DOI 10.1080/13658816.2011.575074
+   Jiang B, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/07/P07008
+   JUNGERS WL, 1984, SIZE SCALING PRIMATE
+   Kim G, 2002, REMOTE SENS ENVIRON, V83, P400, DOI 10.1016/S0034-4257(02)00044-5
+   King Gary, 1997, SOLUTION ECOLOGICAL
+   Lam N. S.-N, 2004, SCALE GEOGRAPHIC INQ, P23
+   MANDELBROT B, 1967, SCIENCE, V156, P636, DOI 10.1126/science.156.3775.636
+   Mandelbrot B. B., 1982, FRACTAL GEOMETRY NAT
+   McKelvey B., 2005, Strategic Organization, V3, P219, DOI 10.1177/1476127005052700
+   Molyneaux BL, 2006, CONFRONTING SCALE IN ARCHAEOLOGY, P1, DOI 10.1007/0-387-32773-8
+   Nystuen J. D, 1966, 10 U MICH
+   Openshaw S., 1979, STAT APPL SPATIAL SC, P127
+   Perkal J., 1966, 10 MICH INT COMM MAT, P258
+   Quattrochi D. A, 1997, SCALE REMOTE SENSING
+   Richardson L.F., 1961, GENERAL SYSTEMS YB, V6, P139
+   Robinson WS, 1950, AM SOCIOL REV, V15, P351, DOI 10.2307/2087176
+   Sheppard E., 2004, SCALE GEOGRAPHIC INQ
+   Steinhaus H., 1983, MATH SNAPSHOTS
+   Tate N. J., 2001, MODELLING SCALE GEOG
+   TOBLER WR, 1970, ECON GEOGR, V46, P234, DOI 10.2307/143141
+   TOBLER WR, 1989, ACCURACY OF SPATIAL DATABASES, P115
+   Weng Q, 2014, SCALE ISSUES IN REMOTE SENSING, P1, DOI 10.1002/9781118801628
+   Wong D.W.S., 2004, WORLDMINDS GEOGRAPHI, P571, DOI DOI 10.1007/978-1-4020-2352-193
+   Wu J., 2006, SCALING UNCERTAINTY
+   Zhang J., 2014, SCALE SPATIAL INFORM
+   Zipf GK, 1949, HUMAN BEHAV PRINCIPL
+NR 43
+TC 6
+Z9 6
+U1 1
+U2 17
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2220-9964
+J9 ISPRS INT J GEO-INF
+JI ISPRS Int. Geo-Inf.
+PD JUN
+PY 2016
+VL 5
+IS 6
+AR 95
+DI 10.3390/ijgi5060095
+PG 12
+WC Geography, Physical; Remote Sensing
+SC Physical Geography; Remote Sensing
+GA DR4HC
+UT WOS:000379861200022
+OA DOAJ Gold
+DA 2019-03-26
+ER
+
+PT J
+AU Jones, B
+   O'Neill, BC
+AF Jones, B.
+   O'Neill, B. C.
+TI Spatially explicit global population scenarios consistent with the
+   Shared Socioeconomic Pathways
+SO ENVIRONMENTAL RESEARCH LETTERS
+LA English
+DT Article
+DE spatial population; population projections; Shared Socioeconomic
+   Pathways
+ID CLIMATE-CHANGE; LAND-USE; PROJECTIONS; EMISSIONS; IMPACTS; SCALE; SRES
+AB The projected size and spatial distribution of the future population are important drivers of global change and key determinants of exposure and vulnerability to hazards. Spatial demographic projections are widely used as inputs to spatial projections of land use, energy use, and emissions, as well as to assessments of the impacts of extreme events, sea level rise, and other climate-related outcomes. To date, however, there are very few global-scale, spatially explicit population projections, and those that do exist are often based on simple scaling or trend extrapolation. Here we present a new set of global, spatially explicit population scenarios that are consistent with the new Shared Socioeconomic Pathways (SSPs) developed to facilitate global change research. We use a parameterized gravity-based downscaling model to produce projections of spatial population change that are quantitatively consistent with national population and urbanization projections for the SSPs and qualitatively consistent with assumptions in the SSP narratives regarding spatial development patterns. We show that the five SSPs lead to substantially different spatial population outcomes at the continental, national, and sub-national scale. In general, grid cell-level outcomes are most influenced by national-level population change, second by urbanization rate, and third by assumptions about the spatial style of development. However, the relative importance of these factors is a function of the magnitude of the projected change in total population and urbanization for each country and across SSPs. We also demonstrate variation in outcomes considering the example of population existing in a low-elevation coastal zone under alternative scenarios.
+C1 [Jones, B.] CUNY, Inst Demog Res, 135 East 22nd St, New York, NY 10010 USA.
+   [O'Neill, B. C.] Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA.
+RP Jones, B (reprint author), CUNY, Inst Demog Res, 135 East 22nd St, New York, NY 10010 USA.
+EM bryan.jones@baruch.cuny.edu
+RI O'Neill, Brian/E-6531-2013
+FU DOE Office of Science program on Integrated Assessment of Global Climate
+   Change [DE-SC0006704]; National Science Foundation (NSF) Science,
+   Education, and Engineering for Sustainability (SEES) program
+   [CHE-1314040]
+FX The contributions of Bryan Jones and Brian O'Neill to this work were
+   supported in part by the DOE Office of Science program on Integrated
+   Assessment of Global Climate Change, award DE-SC0006704. The
+   contribution of Bryan Jones to this work was supported in part by the
+   National Science Foundation (NSF) Science, Education, and Engineering
+   for Sustainability (SEES) program, award CHE-1314040.
+CR Abel GJ, 2014, SCIENCE, V343, P1520, DOI 10.1126/science.1248676
+   Adamo S B, 2011, P EXP GROUP M MIGR N
+   Arnell NW, 2014, CLIMATIC CHANGE, V122, P127, DOI 10.1007/s10584-013-0948-4
+   Bengtsson M, 2006, POPUL ENVIRON, V28, P113, DOI 10.1007/s11111-007-0035-8
+   Caminade C, 2014, P NATL ACAD SCI USA, V111, P3286, DOI 10.1073/pnas.1302089111
+   CIESIN (Center for International Earth Science Information Network) Columbia University United Nations Food and Agriculture Programme (FAO) and Centro Internacional de Agricultura Tropical (CIAT), 2005, GRIDD POP WORLD VERS
+   CIESIN Columbia University IFPRI The World Bank CIAT, 2011, GLOB RUR URB MAPP PR
+   Coughlan de Perez E, 2015, P NATL ACAD SCI USA, V112, P2271
+   Dellink R, 2017, GLOBAL ENVIRON CHANG, V42, P200, DOI 10.1016/j.gloenvcha.2015.06.004
+   Dholakia H. H., 2015, PREDICTED INCREASES
+   Dong WH, 2015, CLIMATIC CHANGE, V130, P505, DOI 10.1007/s10584-015-1372-8
+   Doxsey-Whitfield EK, 2016, PAP APPL GEOGRAPHY, V1, P226
+   Ebi KL, 2014, ENVIRONMENT, V56, P6, DOI 10.1080/00139157.2014.881692
+   Gaffin SR, 2004, GLOBAL ENVIRON CHANG, V14, P105, DOI 10.1016/j.gloenvcha.2004.02.004
+   Georgescu M, 2014, P NATL ACAD SCI USA, V111, P2909, DOI 10.1073/pnas.1322280111
+   Grubler A, 2007, TECHNOL FORECAST SOC, V74, P980, DOI 10.1016/j.techfore.2006.05.023
+   Hanasaki N, 2013, HYDROL EARTH SYST SC, V17, P2393, DOI 10.5194/hess-17-2393-2013
+   Hauer ME, 2015, POPUL ENVIRON, V37, P44, DOI 10.1007/s11111-015-0233-8
+   Jiang LW, 2017, GLOBAL ENVIRON CHANG, V42, P193, DOI 10.1016/j.gloenvcha.2015.03.008
+   Jones B, 2015, NAT CLIM CHANGE, V5, P652, DOI [10.1038/nclimate2631, 10.1038/NCLIMATE2631]
+   Jones B, 2013, ENVIRON RES LETT, V8, DOI 10.1088/1748-9326/8/4/044021
+   Knorr W., 2015, BIOGEOSCI DISCUSS, V12, P15, DOI [10.5194/bgd-12-15011-2015, DOI 10.5194/BGD-12-15011-2015]
+   Lehner F, 2015, NAT CLIM CHANGE, V5, P731, DOI 10.1038/NCLIMATE2660
+   Lutz W, 2014, GLOB ENV CH IN PRESS, DOI [10.1016/j.gloenvcha.2014.06.004, DOI 10.1016/J.GLOENVCHA.2014.06.004]
+   McGranahan G, 2007, ENVIRON URBAN, V19, P17, DOI 10.1177/0956247807076960
+   Meiyappan P, 2014, ECOL MODEL, V291, P152, DOI 10.1016/j.ecolmodel.2014.07.027
+   Nam KM, 2013, URBAN STUD, V50, P208, DOI 10.1177/0042098012448943
+   O'Neill BC, 2017, GLOBAL ENVIRON CHANG, V42, P169, DOI 10.1016/j.gloenvcha.2015.01.004
+   Pesaresi M, 2013, IEEE J-STARS, V6, P2102, DOI 10.1109/JSTARS.2013.2271445
+   Riahi K, 2011, CLIMATIC CHANGE, V109, P33, DOI 10.1007/s10584-011-0149-y
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P16083, DOI 10.1073/pnas.1211658109
+   Theobald DM, 2011, ECOL APPL, V21, P2445, DOI 10.1890/10-1701.1
+   van Ruijven BJ, 2014, CLIMATIC CHANGE, V122, P481, DOI 10.1007/s10584-013-0931-0
+   Ya L, 2010, J GEOGR SCI, V20, P876
+NR 34
+TC 63
+Z9 63
+U1 3
+U2 26
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1748-9326
+J9 ENVIRON RES LETT
+JI Environ. Res. Lett.
+PD AUG
+PY 2016
+VL 11
+IS 8
+AR 084003
+DI 10.1088/1748-9326/11/8/084003
+PG 10
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA DT9NH
+UT WOS:000381828300004
+OA DOAJ Gold
+HC Y
+HP N
+DA 2019-03-26
+ER

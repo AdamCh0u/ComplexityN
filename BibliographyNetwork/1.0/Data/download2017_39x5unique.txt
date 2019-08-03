@@ -1,0 +1,429 @@
+
+PT B
+AU Samant, SS
+   Chhetri, MB
+   Vo, QB
+   Kowalczyk, R
+   Nepal, S
+AF Samant, Sunil Singh
+   Chhetri, Mohan Baruwal
+   Quoc Bao Vo
+   Kowalczyk, Ryszard
+   Nepal, Surya
+GP IEEE
+TI Towards Quality-assured Data Delivery in Cloud-based IoT Platforms for
+   Smart Cities
+SO 2017 IEEE 3RD INTERNATIONAL CONFERENCE ON COLLABORATION AND INTERNET
+   COMPUTING (CIC)
+LA English
+DT Proceedings Paper
+CT 3rd IEEE International Conference on Collaboration and Internet
+   Computing (CIC)
+CY OCT 15-17, 2017
+CL San Jose, CA
+SP IEEE, Univ Pittsburgh, Sch Comp & Informat, Drexel Univ, Coll Comp & Informat, Swinburne Univ Technol, IEEE Comp Soc
+DE Internet of Things (IoT); Cloud-based IoT Platforms; OpenIoT; IoT Data
+   Delivery; Throughput; Error Rate; Data Ingestion Process
+ID INTERNET; THINGS
+AB Adaptive cloud elasticity is a key requirement and an open challenge for the cost-effective and performance-efficient allocation of resources for cloud-based applications. It becomes even more challenging for IoT applications due to the dynamic and unpredictable characteristics of IoT data including volume, velocity, variety, volatility, and heterogeneity. In this paper, we study the impact of varying velocity and volume of IoT data streams on (a) the performance of the data ingestion and storage process, and (b) the corresponding cloud resource utilization. We use the open-source OpenIoT platform as our test bed and run experiments under different data streaming settings. We study the throughput and error rate, as well as CPU and memory consumption during the ingestion process. Experimental results reveal some interesting insights into the performance of OpenIoT and allow us to draw more general observations for cloud-based IoT platforms, including (a) resource availability is not the only factor influencing performance of the data ingestion process, with the middleware and software components having significant impact, (b) allocating extra resources at the infrastructure layer of the IoT platform can potentially improve the performance of the data ingestion process, but may lead to resource wastage, and (c) adaptive scaling out/in using small sized compute units can significantly improve resource utilization while ensuring quality-assured data delivery. Based on these insights, we identify two key future research directions for quality-assured data delivery in cloud-based IoT platforms including adaptive resource optimization at the infrastructure layer and component configuration optimization and/or upgradation at the middleware layer.
+C1 [Samant, Sunil Singh; Chhetri, Mohan Baruwal; Quoc Bao Vo; Kowalczyk, Ryszard] Swinburne Univ Technol, Dept Comp Sci & Software Engn, Melbourne, Vic, Australia.
+   [Kowalczyk, Ryszard] Polish Acad Sci, Syst Res Inst, Warsaw, Poland.
+   [Nepal, Surya] CSIRO Data61, Eveleigh, NSW, Australia.
+RP Samant, SS (reprint author), Swinburne Univ Technol, Dept Comp Sci & Software Engn, Melbourne, Vic, Australia.
+EM ssamant@swin.edu.au; mchhetri@swin.edu.au; bvo@swin.edu.au;
+   rkowalczyk@swin.edu.au; Surya.Nepal@data61.csiro.au
+RI Nepal, Surya/B-7523-2011
+OI Nepal, Surya/0000-0002-3289-6599
+FU Data61 research organization; Australian Government through the
+   Department of Communications; Australian Research Council through the
+   ICT Centre of Excellence Program
+FX This research is supported by a PhD Scholarship from Data61 research
+   organization. Data61 is funded by the Australian Government through the
+   Department of Communications and the Australian Research Council through
+   the ICT Centre of Excellence Program.
+CR Baruwal Chhetri M., 2013, 2013 IEEE 6 INT C CL
+   Geng H., 2016, INTERNET THINGS DATA
+   Gubbi J, 2013, FUTURE GENER COMP SY, V29, P1645, DOI 10.1016/j.future.2013.01.010
+   Jayaraman PP, 2016, SENSORS-BASEL, V16, DOI 10.3390/s16111884
+   Medvedev Alexey, 2016, INT WORKSH INT OP SO, P141
+   Ngu A. H., 2016, IEEE INTERNET THINGS
+   Ranjan R, 2017, SOFTWARE PRACT EXPER, V47, P345, DOI 10.1002/spe.2475
+   Ray Partha Pratim, 2016, Future Computing and Informatics Journal, V1, P35, DOI 10.1016/j.fcij.2017.02.001
+   Said O., 2013, INT J COMPUTER NETWO, V5, P1
+   Sanchez L, 2014, COMPUT NETW, V61, P217, DOI 10.1016/j.bjp.2013.12.020
+   Schuster E. W., GLOBAL RFID VALUE EP
+   Shukla A., 2017, ARXIV170108530
+   Smart Santander, 2013, SANT FAC
+   Soldatos J, 2015, LECT NOTES COMPUT SC, V9001, P13, DOI 10.1007/978-3-319-16546-2_3
+   Suciu G, 2013, 19TH INTERNATIONAL CONFERENCE ON CONTROL SYSTEMS AND COMPUTER SCIENCE (CSCS 2013), P513, DOI 10.1109/CSCS.2013.58
+   Truong HL, 2015, IEEE CLOUD COMPUT, V2, P68, DOI 10.1109/MCC.2015.23
+   Zanella A, 2014, IEEE INTERNET THINGS, V1, P22, DOI 10.1109/JIOT.2014.2306328
+   Zeng XZ, 2017, J SYST ARCHITECT, V72, P93, DOI 10.1016/j.sysarc.2016.06.008
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-2565-1
+PY 2017
+BP 291
+EP 298
+DI 10.1109/CIC.2017.00046
+PG 8
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BJ7PZ
+UT WOS:000427508000035
+DA 2019-03-26
+ER
+
+PT B
+AU Richter, D
+   Konrad, M
+   Utecht, K
+   Polze, A
+AF Richter, Daniel
+   Konrad, Marcus
+   Utecht, Katharina
+   Polze, Andreas
+GP IEEE
+TI Highly-Available Applications on Unreliable Infrastructure: Microservice
+   Architectures in Practice
+SO 2017 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY AND
+   SECURITY COMPANION (QRS-C)
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Software Quality, Reliability and
+   Security (Companion Volume)
+CY JUL 25-29, 2017
+CL Prague, CZECH REPUBLIC
+SP IEEE, Reliability Soc, UTD, CZECH Tech Univ Prague
+AB In contrast to applications relying on specialized and expensive highly-available infrastructure, the basic approach of microservice architectures to achieve fault tolerance - and finally high availability - is to modularize the software system into small, self-contained services that are connected via implementation-independent interfaces. Microservices and all dependencies are deployed into self-contained environments called containers that are executed as multiple redundant instances. If a service fails, other instances will often still work and take over. Due to the possibility of failing infrastructure, these services have to be deployed on several physical systems. This horizontal scaling of redundant service instances can also be used for load-balancing. Decoupling the service communication using asynchronous message queues can increase fault tolerance, too. The Deutsche Bahn AG (German railway company) uses as system called EPA for seat reservations for inter-urban rail services. Despite its high availability, the EPA system in its current state has several disadvantages such as high operational cost, need for special hardware, technological dependencies, and expensive and time-consuming updates. With the help of a prototype, we evaluate the general properties of a microservice architecture and its dependability with reference to the legacy system. We focus on requirements for an equivalent microservice-based system and the migration process; services and data, containerization, communication via message queues; and achieving similar fault tolerance and high availability with the help of replication inside the resulting architecture.
+C1 [Richter, Daniel; Utecht, Katharina; Polze, Andreas] Univ Potsdam, Hasso Plattner Inst, POB 90 04 60, D-14440 Potsdam, Germany.
+   [Konrad, Marcus] DB Systel GmbH, Caroline Michaelis Str 5-11, D-10115 Berlin, Germany.
+RP Richter, D (reprint author), Univ Potsdam, Hasso Plattner Inst, POB 90 04 60, D-14440 Potsdam, Germany.
+EM daniel.richter@hpi.uni-potsdam.de; marcus.konrad@hpi.uni-potsdam.de;
+   katharina.utecht@deutschebahn.com; andreas.polze@deutschebahn.com
+CR Beyer B., 2016, SITE RELIABILITY ENG
+   Bonr J., 2016, REACTIVE MICROSERVIC
+   Eisele M., 2016, DEV REACTIVE MICROSE
+   Farcic Viktor, 2016, DEVOPS 2 0 TOOLKIT A, V1, P121
+   Fowler M., 2014, MICROSERVICES DEFINI
+   Fowler S. J., 2016, PRODUCTION READY MIC
+   Gammelgaard C. H., 2016, MICROSERVICES NET CO
+   Kang H, 2016, INT CONF CLOUD ENG, P202, DOI 10.1109/IC2E.2016.26
+   Levina O, 2009, 2009 FOURTH INTERNATIONAL CONFERENCE ON INTERNET AND WEB APPLICATIONS AND SERVICES, P37, DOI 10.1109/ICIW.2009.14
+   Merkel D., 2014, LINUX J, V2014
+   Mouat Adrian, 2016, USING DOCKER DEV DEP, V1, P25
+   Nurseitov Nurzhan, 2009, Proceedings on the ISCA 22nd International Conferenceon Computers and Their Applications in Industry and Engineering. CAINE-2009, P157
+   Pivotal Software Inc., 2008, AMQP ADV MESS QUEUIN
+   Seo  Kyoung-Taek, 2014, ADV SCI TECHNOLOGY L, P105, DOI DOI 10.14257/AST1.2014.66.25
+   Vinoski S, 2006, IEEE INTERNET COMPUT, V10, P87, DOI 10.1109/MIC.2006.116
+   Wolff E., 2015, MICROSERVICES GRUNDL
+NR 16
+TC 3
+Z9 3
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-2072-4
+PY 2017
+BP 130
+EP 137
+DI 10.1109/QRS-C.2017.28
+PG 8
+WC Computer Science, Software Engineering
+SC Computer Science
+GA BJ6LU
+UT WOS:000426819400018
+DA 2019-03-26
+ER
+
+PT S
+AU Lee, SY
+   Zusman, E
+   Lee, S
+AF Lee, So-Young
+   Zusman, Eric
+   Lee, Seejae
+BE Seto, K
+   Robinson, D
+   Virji, H
+   Kovacs, Z
+   Zhai, J
+   Sami, N
+   Pettit, C
+   Sridhar, KS
+TI Tracing Sustainability Transitions in Seoul Governance: Enabling and
+   Scaling Grassroots Innovations
+SO URBAN TRANSITIONS CONFERENCE
+SE Procedia Engineering
+LA English
+DT Proceedings Paper
+CT Urban Transitions Conference
+CY SEP, 2016
+CL Shanghai, PEOPLES R CHINA
+DE Sustainability Transitiosn; Grossroots Innovations; Seoul; Governance;
+   Citizen Participation
+ID URBAN SUSTAINABILITY; INTERMEDIARIES; PERSPECTIVE; TECHNOLOGY;
+   MANAGEMENT; AGENDA; REGIME; POLICY
+AB In 2011, the newly elected Seoul Mayor introduced administrative reforms that breathed new life into a series of grassroots initiatives. High-profile reforms helped strengthen the connection between Seoul's government, environment, and citizenry and the collection of reforms spurred changes that were pivotal to reorienting Seoul development trajectory. This article draws upon sustainability transitions literature to trace process enabling this reorientation. It highlights the critical role played by change agents such as Seoul Mayor in working at the boundary of 'regimes' and 'niches' to enable wider scale change; while citizen engagement can broaden grassroots innovation's impacts. It further underscores how key enablers in the transitions process can help scale changes to and within regime level. The paper, however, draws a subtle but under-examined distinction between organizational and institutional change within the regime level. This within-level distinction could be the difference between a sustainability transitions that changes Seoul as well as other cities in the future. (c) 2017 The Authors. Published by Elsevier Ltd.
+C1 [Lee, So-Young; Zusman, Eric] IGES, 2108-11 Kamiyamaguchi, Hayama 2400115, Japan.
+   [Lee, Seejae] Sungkonghoe Univ, 320 Yeondong Ro, Seoul 152716, South Korea.
+RP Lee, SY (reprint author), IGES, 2108-11 Kamiyamaguchi, Hayama 2400115, Japan.
+EM lee@iges.or.jp
+CR Akenji L, 2014, J CLEAN PROD, V63, P13, DOI 10.1016/j.jclepro.2013.05.022
+   [Anonymous], 2014, SEOUL SHALL MENTOR R
+   [Anonymous], 2013, SEOUL SHALL MENTOR R
+   [Anonymous], 2011, SEOUL SHALL MENTOR R
+   [Anonymous], 2012, SEOUL SHALL MENTOR R
+   Collier D, 2011, PS-POLIT SCI POLIT, V44, P823, DOI 10.1017/S1049096511001429
+   Fallde M, 2015, J CLEAN PROD, V98, P17, DOI 10.1016/j.jclepro.2014.05.089
+   Frantzeskaki N., 2014, TECHNOLOGICAL FORECA, V77, P1292
+   Frantzeskaki N, 2014, J CLEAN PROD, V65, P406, DOI 10.1016/j.jclepro.2013.09.023
+   Geels FW, 2007, RES POLICY, V36, P399, DOI 10.1016/j.respol.2007.01.003
+   Geels FW, 2002, RES POLICY, V31, P1257, DOI 10.1016/S0048-7333(02)00062-8
+   Hamann R, 2013, J CLEAN PROD, V50, P12, DOI 10.1016/j.jclepro.2012.11.017
+   Hargreaves T, 2013, GLOBAL ENVIRON CHANG, V23, P868, DOI 10.1016/j.gloenvcha.2013.02.008
+   Hoogma R., 2002, EXPT SUSTAINABLE TRA
+   Howells J, 2006, RES POLICY, V35, P715, DOI 10.1016/j.respol.2006.03.005
+   Kemp R, 1998, TECHNOL ANAL STRATEG, V10, P175, DOI 10.1080/09537329808524310
+   KEMP R, 1992, FUTURES, V24, P437, DOI 10.1016/0016-3287(92)90015-8
+   KEMP R, 1994, FUTURES, V26, P1023, DOI 10.1016/0016-3287(94)90071-X
+   Kemp R., 2001, PATH DEPENDENCE CREA
+   Kemp R., 2007, J ENVIRON POL PLAN, V9, P315, DOI DOI 10.1080/15239080701622816
+   Khan J, 2013, J CLEAN PROD, V50, P133, DOI 10.1016/j.jclepro.2012.11.045
+   Lachman DA, 2013, ENERG POLICY, V58, P269, DOI 10.1016/j.enpol.2013.03.013
+   Loorbach D, 2007, TRANSITION MANAGEMEN
+   Loorbach D, 2013, J CLEAN PROD, V45, P20, DOI 10.1016/j.jclepro.2012.11.002
+   Loorbach D, 2010, FUTURES, V42, P237, DOI 10.1016/j.futures.2009.11.009
+   Markard J, 2012, RES POLICY, V41, P955, DOI 10.1016/j.respol.2012.02.013
+   McCormick K, 2013, J CLEAN PROD, V50, P1, DOI 10.1016/j.jclepro.2013.01.003
+   Nevens F, 2013, J CLEAN PROD, V50, P111, DOI 10.1016/j.jclepro.2012.12.001
+   Park W., 2005, INTERVIEW GERMAN SOC
+   Park W., 2010, COMMUNITY IS SCH
+   Park W., 2001, LAWYER PARKS JAPANES
+   Park W., 1999, NGO CITIZENS POWER C
+   Park W., 2009, MEET HOPE COMMUNITIE
+   Park W., 2011, SHALL WE RENT MR PAR
+   Raven RPJM, 2006, RES POLICY, V35, P581, DOI 10.1016/j.respol.2006.02.001
+   Rotmans J., 2007, INT J SUST DEV WORLD, V14, P1
+   Rotmans J., 2001, FORESIGHT, V3, P1, DOI DOI 10.1108/14636680110803003
+   Sanden BA, 2005, ENERG POLICY, V33, P1557, DOI 10.1016/j.enpol.2004.01.012
+   Schot J, 2008, TECHNOL ANAL STRATEG, V20, P537, DOI 10.1080/09537320802292651
+   Schot J, 2007, J EVOL ECON, V17, P605, DOI 10.1007/s00191-007-0057-5
+   Seoul City Town Community Overall Support Centre, 2014, HAVE TOWNS BEEN FORM
+   Seoul Municipal Assembly, 2013, SEOUL MUN ASS SEOUL
+   Seyfang G, 2007, ENVIRON POLIT, V16, P584, DOI 10.1080/09644010701419121
+   Seyfang Gillian, 2009, NEW EC SUSTAINABLE C
+   Smith A, 2005, RES POLICY, V34, P1491, DOI 10.1016/j.respol.2005.07.005
+   Vergragt P, 2014, J CLEAN PROD, V63, P1, DOI 10.1016/j.jclepro.2013.09.028
+   von Malmborg F, 2007, J CLEAN PROD, V15, P1730, DOI 10.1016/j.jclepro.2006.08.014
+NR 47
+TC 0
+Z9 0
+U1 2
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-7058
+J9 PROCEDIA ENGINEER
+PY 2017
+VL 198
+BP 293
+EP 304
+DI 10.1016/j.proeng.2017.07.162
+PG 12
+WC Multidisciplinary Sciences; Urban Studies
+SC Science & Technology - Other Topics; Urban Studies
+GA BJ4ZK
+UT WOS:000425682900026
+OA Other Gold
+DA 2019-03-26
+ER
+
+PT S
+AU Khansari, N
+   Silverman, BG
+   Du, Q
+   Waldt, JB
+   Braham, WW
+   Lee, JM
+AF Khansari, Nasrin
+   Silverman, Barry G.
+   Du, Qing
+   Waldt, John B.
+   Braham, Willian W.
+   Lee, Jae Min
+GP IEEE
+TI An Agent-Based Decision Tool to Explore Urban Climate & Smart City
+   Possibilities
+SO 2017 11TH ANNUAL IEEE INTERNATIONAL SYSTEMS CONFERENCE (SYSCON)
+SE Annual IEEE Systems Conference
+LA English
+DT Proceedings Paper
+CT 11th Annual IEEE International Systems Conference (SysCon)
+CY APR 24-27, 2017
+CL Montreal, CANADA
+SP IEEE, IEEE Syst Council
+DE Agent Based Models (ABM); decision-making process; climate change;
+   energy use in transportation & buildings;; social science theories
+AB This paper investigates alternative ways to construct a decision tool intended to help the Delaware Valley Regional Planning Commission (DVRPC) region to meet or exceed the goal of 80% reduction in the emission of Green House Gas (GHG) by 2050. The goal is to explore and build several preprototypes to evaluate the value of the role for ABM, alternative data sources (Census, energy reports, DVRPC surveys, etc.), GIS modeling, and various social science theories of human behavior (land value theory, economic disparity theory, cognitive learning theory, etc.). Section 2 presents a model of the business as usual scenario that uses trend extrapolation to project energy consumption and GHG production until 2050. Section 3 then explains initial research on an Agent Based Model (ABM) with which users can investigate the role of attitude, information awareness, and economic disparities upon consumer choice of residence location and transportation mode. Finally, we conclude with some lessons learned and challenges for scaling.
+C1 [Khansari, Nasrin; Silverman, Barry G.; Du, Qing; Waldt, John B.] Univ Penn, Elect & Syst Engn Dept, Philadelphia, PA 19104 USA.
+   [Braham, Willian W.; Lee, Jae Min] Univ Penn, Sch Design, Philadelphia, PA 19104 USA.
+RP Khansari, N (reprint author), Univ Penn, Elect & Syst Engn Dept, Philadelphia, PA 19104 USA.
+EM khansari@seas.upenn.edu; basil@seas.upenn.edu; qdu@seas.upenn.edu;
+   jbrooke@seas.upenn.edu; brahamw@upenn.edu; jaemlee@upenn.edu
+FU DVRPC, Philadelphia Government; Kleinman Energy Center at Penn
+FX We thank the DVRPC, Philadelphia Government and the Kleinman Energy
+   Center at Penn for supporting us in this research. Any opinions or
+   errors are those of the authors alone.
+CR Bandura A., 1986, SOCIAL FDN THOUGHT A
+   Bharathy G. K., 2012, HDB DECISION MAKING, P331
+   Circella G., 2014, IMPACTS GAS PRICE PA
+   Ding ZM, 2016, IEEE T COMPUT, V65, P1377, DOI 10.1109/TC.2015.2479596
+   Khan N. S., 2015, IEEE SYSTEMS J, P1
+   Ma TJ, 2009, ENERGY, V34, P873, DOI 10.1016/j.energy.2009.03.005
+   Moss S., 2001, INTEGRATED ASSESSMEN, V2, P17, DOI DOI 10.1023/A:1011527523183
+   Rai V., 2016, NATURE CLIMATE CHANG
+   Robinson SA, 2015, APPL ENERG, V151, P273, DOI 10.1016/j.apenergy.2015.04.071
+   Roozmand O, 2011, KNOWL-BASED SYST, V24, P1075, DOI 10.1016/j.knosys.2011.05.001
+   Silverman B. G., 2008, COOL TRENDS 10 THING
+   Silverman BG, 2015, ARTIF INTELL MED, V63, P61, DOI 10.1016/j.artmed.2014.08.006
+   Sopha BM, 2013, ENVIRON INNOV SOC TR, V8, P42, DOI 10.1016/j.eist.2013.06.001
+   Tran M, 2012, COMMUN NONLINEAR SCI, V17, P3682, DOI 10.1016/j.cnsns.2012.01.016
+   Nguyen TA, 2013, ENERG BUILDINGS, V56, P244, DOI 10.1016/j.enbuild.2012.09.005
+   US DOE, BUILD PERF DAT
+   US EIA, 2013, COMM BUILD EN CONS S
+   US Energy Information Administration (EIA), 2009, RES EN CONS SURV REC
+NR 18
+TC 0
+Z9 0
+U1 1
+U2 5
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1944-7620
+BN 978-1-5090-4623-2
+J9 ANN IEEE SYST CONF
+PY 2017
+BP 577
+EP 582
+PG 6
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BH8KW
+UT WOS:000403403400083
+DA 2019-03-26
+ER
+
+PT J
+AU Oliveira, M
+   Bastos, C
+   Menezes, R
+AF Oliveira, Marcos
+   Bastos-Filho, Carmelo
+   Menezes, Ronaldo
+TI The scaling of crime concentration in cities
+SO PLOS ONE
+LA English
+DT Article
+ID SIZE; GROWTH; CITY; LAWS
+AB Crime is a major threat to society's well-being but lacks a statistical characterization that could lead to uncovering some of its underlying mechanisms. Evidence of nonlinear scaling of urban indicators in cities, such as wages and serious crime, has motivated the understanding of cities as complex systems-a perspective that offers insights into resources limits and sustainability, but that usually neglects details of the indicators themselves. Notably, since the nineteenth century, criminal activities have been known to occur unevenly within a city; crime concentrates in such way that most of the offenses take place in few regions of the city. Though confirmed by different studies, this concentration lacks broad analyses on its characteristics, which hinders not only the comprehension of crime dynamics but also the proposal of sounding counter-measures. Here, we developed a framework to characterize crime concentration which divides cities into regions with the same population size. We used disaggregated criminal data from 25 locations in the U.S. and the U.K., spanning from 2 to 15 years of longitudinal data. Our results confirmed that crime concentrates regardless of city and revealed that the level of concentration does not scale with city size. We found that the distribution of crime in a city can be approximated by a power-law distribution with exponent a that depends on the type of crime. In particular, our results showed that thefts tend to concentrate more than robberies, and robberies more than burglaries. Though criminal activities present regularities of concentration, we found that criminal ranks have the tendency to change continuously over time-features that support the perspective of crime as a complex system and demand analyses and evolving urban policies covering the city as a whole.
+C1 [Oliveira, Marcos; Menezes, Ronaldo] Florida Inst Technol, BioComplex Lab, Melbourne, FL 32901 USA.
+   [Bastos-Filho, Carmelo] Univ Pernambuco, Escola Politecn Pernambuco, Recife, PE, Brazil.
+RP Oliveira, M (reprint author), Florida Inst Technol, BioComplex Lab, Melbourne, FL 32901 USA.
+EM moliveira@biocomplexlab.org
+RI Menezes, Ronaldo/C-2006-2014
+OI Menezes, Ronaldo/0000-0002-6479-6429
+FU CAPES Foundation [1032/13-5]; Army Research Office
+   [W911NF-17-1-0127-P00001]
+FX Marcos Oliveira received funding from CAPES Foundation under grant
+   1032/13-5. This work was partially supported by the Army Research Office
+   under grant W911NF-17-1-0127-P00001. The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+CR Alves LGA, 2015, EPL-EUROPHYS LETT, V111, DOI 10.1209/0295-5075/111/18002
+   Alves LGA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0069580
+   Alves LGA, 2013, PHYSICA A, V392, P2672, DOI 10.1016/j.physa.2013.02.002
+   Arbesman S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.016115
+   Balbi A, 1829, JULES RENOUARD
+   Batty M, 2008, EUR PHYS J B, V63, P303, DOI 10.1140/epjb/e2008-00251-5
+   BATTY M, 1995, NATURE, V377, P574, DOI 10.1038/377574a0
+   Batty M, 1999, DISCRETE DYN NAT SOC, V3, P109, DOI 10.1155/S1026022699000151
+   Batty M., 2013, NEW SCI CITIES
+   Batty M, 2008, SCIENCE, V319, P769, DOI 10.1126/science.1151419
+   Batty M, 2013, SCIENCE, V340, P1418, DOI 10.1126/science.1239870
+   Batty M, 2012, CITIES, V29, pS9, DOI 10.1016/j.cities.2011.11.008
+   Bettencourt LMA, 2014, SCI REPORTS, V4, P3
+   Bettencourt LMA, 2015, MODELING COMPLEX SYS, P396
+   Bettencourt L, 2010, NATURE, V467, P912, DOI 10.1038/467912a
+   Bettencourt LMA, 2007, P NATL ACAD SCI USA, V104, P7301, DOI 10.1073/pnas.0610172104
+   Bettencourt LMA, 2007, RES POLICY, V36, P107, DOI 10.1016/j.respol.2006.09.026
+   Bettencourt LMA, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2016.0005
+   Bettencourt LMA, 2013, SCIENCE, V340, P1438, DOI 10.1126/science.1235823
+   Braga AA, 2010, J QUANT CRIMINOL, V26, P33, DOI 10.1007/s10940-009-9082-x
+   Caminha C, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0171609
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   D'Orsogna MR, 2015, PHYS LIFE REV, V12, P1, DOI 10.1016/j.plrev.2014.11.001
+   DeLong JP, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0130547
+   Eck J., 2007, IMAGINATION CRIME PR, V19, P225
+   Farrell G, 2015, CRIME PREV COMMUNITY, V17, P233, DOI 10.1057/cpcs.2015.17
+   Gomez-Lievano A, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0040393
+   Hanley QS, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0149546
+   Hanley QS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0109004
+   Jacobs J., 1961, DEATH LIFE GREAT AM
+   Johnson SD, 2010, EUR J APPL MATH, V21, P349, DOI 10.1017/S0956792510000082
+   Kates RW, 2003, P NATL ACAD SCI USA, V100, P8062, DOI 10.1073/pnas.1231331100
+   Leitao JC, 2016, ROY SOC OPEN SCI, V3, DOI 10.1098/rsos.150649
+   Louf R, 2014, ENVIRON PLANN B, V41, P767, DOI 10.1068/b4105c
+   Oliveira M, 2015, STUD COMPUT INTELL, V597, P219, DOI 10.1007/978-3-319-16112-9_22
+   Pan W, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2961
+   Portugali J, 2000, SPRINGER SERIES SYNE
+   Quetelet A., 1833, RECHERCHES PENCHANT
+   Samaniego H, 2008, J TRANSLAND USE, V1, P21, DOI DOI 10.5198/JTLU.V1I1.29
+   Sanders Peter, 2013, Experimental Algorithms 12th International Symposium, SEA 2013. Proceedings, P164, DOI 10.1007/978-3-642-38527-8_16
+   Schiff N, 2015, J ECON GEOGR, V15, P1085, DOI 10.1093/jeg/lbu040
+   Schlapfer M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2013.0789
+   Stumpf MPH, 2012, SCIENCE, V335, P665, DOI 10.1126/science.1216142
+   Tizzoni M, 2015, SCI REP-UK, V5, DOI 10.1038/srep15111
+   van Raan AFJ, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0146775
+   Weisburd D, 2015, CRIMINOLOGY, V53, P133, DOI 10.1111/1745-9125.12070
+   Weisburd D, 2009, PUTTING CRIME IN ITS PLACE: UNITS OF ANALYSIS IN GEOGRAPHIC CRIMINOLOGY, P3, DOI 10.1007/978-0-387-09688-9_1
+   White S, 2014, SOCIAL INFORM, P102
+   Yakubo K, 2014, PHYS REV E, V90, DOI 10.1103/PhysRevE.90.022803
+   Youn H, 2016, J R SOC INTERFACE, V13, DOI 10.1098/rsif.2015.0937
+NR 50
+TC 5
+Z9 5
+U1 1
+U2 23
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 11
+PY 2017
+VL 12
+IS 8
+AR e0183110
+DI 10.1371/journal.pone.0183110
+PG 13
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FD3KL
+UT WOS:000407431800054
+PM 28800604
+OA DOAJ Gold, Green Published
+DA 2019-03-26
+ER

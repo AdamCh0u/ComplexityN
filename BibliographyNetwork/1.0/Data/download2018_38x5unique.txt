@@ -1,0 +1,535 @@
+
+PT J
+AU Stewart, J
+AF Stewart, Jesse
+TI Voice onset time production in Ecuadorian Spanish, Quichua, and Media
+   Lengua
+SO JOURNAL OF THE INTERNATIONAL PHONETIC ASSOCIATION
+LA English
+DT Article
+ID CONVERSATIONAL SPEECH; INITIAL STOPS; VOWEL HEIGHT; ENGLISH; AGE
+AB In Ecuador there exists a dynamic language contact continuum between Urban Spanish and Rural Quichua. This study explores the effects of competing phonologies with an analysis of voice onset time (VOT) production in and across three varieties of Ecuadorian highland Spanish, Quichua, and Media Lengua. Media Lengua is a mixed language that contains Quichua systemic elements and a lexicon of Spanish origin. Because of this lexical-grammatical split, Media Lengua is considered the most central point along the language continuum. Native Quichua phonology has a single series of voiceless stops (/p/, /t/, and /k/), while Spanish shows a clear voicing contrast between stops in the same series. This study makes use of nearly 8,000 measurements from 69 participants to (i) document VOT production in the aforementioned language varieties and (ii) analyse the effects of borrowings on VOT. Results based on mixed effects models and multidimensional scaling suggest that the voicing contrast has entered both Media Lengua and Quichua through Spanish lexical borrowings. However, the VOT values of voiced stops in Media Lengua align with those of Rural and L2 Spanish while Quichua shows significantly longer prevoicing values, suggesting some degree of overshoot.
+C1 [Stewart, Jesse] Univ Saskatchewan, Saskatoon, SK, Canada.
+RP Stewart, J (reprint author), Univ Saskatchewan, Saskatoon, SK, Canada.
+EM stewart.jesse@usask.ca
+RI Stewart, Jesse/F-4332-2015
+OI Stewart, Jesse/0000-0001-8678-7884
+FU University of Manitoba Graduate Fellowship (UMGF); University of
+   Saskatchewan Research Fund [416894]
+FX I would like to thank Kevin Russell, Nicole Rosen, and John Lipski for
+   their valuable feedback on earlier versions of this paper. I would also
+   like to thank the anonymous reviewers and editor for their valuable
+   reviews and feedback. Finally, I would like to thank Gabriela Prado,
+   Lucia Gonza, Antonio Maldonado, Elvis Tuquerres, Cecilia Ayala and all
+   the participants who took part in this study. This research was
+   supported by the University of Manitoba Graduate Fellowship (UMGF) and
+   University of Saskatchewan Research Fund #416894.
+CR Baayen H., 2008, ANAL LINGUISTIC DATA
+   Bakker Peter, 1994, MIXED LANGUAGES 15 C, V13
+   Bates Douglas M., 2012, LME4 MIXED EFFECTS M
+   BENJAMIN BJ, 1982, J PSYCHOLINGUIST RES, V11, P159
+   Berry J, 2011, J ACOUST SOC AM, V130, pEL365, DOI 10.1121/1.3651095
+   Bijankhan M, 2009, J INT PHON ASSOC, V39, P335, DOI 10.1017/S0025100309990168
+   Boersma P., 2013, PRAAT DOING PHONETIC
+   Cole P, 1982, IMBABURA QUICHUA
+   COOPER A. M., 1991, THESIS
+   Esposito A, 2002, PHONETICA, V59, P197, DOI 10.1159/000068347
+   Fischer-JOrgensen Eli, 1980, ANN REP I PHONET U C, V14, P207
+   Fischer-Jorgensen Eli, 1954, MISC PHONET, V2, P42
+   FLEGE JE, 1986, PHONETICA, V43, P155, DOI 10.1159/000261768
+   Gomez-Rendon J, 2005, ENCUENTROS CONFLICTO, P39
+   Guion SG, 2003, PHONETICA, V60, P98, DOI 10.1159/000071449
+   Higgins MB, 1998, J SPEECH LANG HEAR R, V41, P712, DOI 10.1044/jslhr.4104.712
+   Jones C, 2013, AUST J LINGUIST, V33, P196, DOI 10.1080/07268602.2013.814525
+   Kessinger RH, 1997, J PHONETICS, V25, P143, DOI 10.1006/jpho.1996.0039
+   Kuznetsova Alexandra, 2014, LMERTEST VERSION 2 0
+   LISKER L, 1967, LANG SPEECH, V10, P1, DOI 10.1177/002383096701000101
+   LISKER L, 1964, WORD, V20, P384, DOI 10.1080/00437956.1964.11659830
+   Matras Y., 2003, MIXED LANGUAGE DEBAT
+   Meakins F, 2011, CASE MARKING CONTACT
+   Meakins Felicity, CAMBRIDGE HDB LANGUA
+   Muysken Pieter, 1997, CONTACT LANGUAGES WI, P365, DOI DOI 10.1075/CLL.17.13MUY
+   NEIMAN GS, 1983, J SPEECH HEAR RES, V26, P118, DOI 10.1044/jshr.2601.118
+   Orr Carolyn, 1962, ECUADOR QUICHUA PHON
+   Pasquale Michael, 2005, CONTACTOS CONTEXTOS, V27, P227
+   PETERSON GE, 1960, J ACOUST SOC AM, V32, P693, DOI 10.1121/1.1908183
+   PETROSINO L, 1993, PERCEPT MOTOR SKILL, V76, P83, DOI 10.2466/pms.1993.76.1.83
+   PIERREHUMBERT JANET, 1992, PAPERS LABORATORY PH, V2, P90
+   Rosen N, 2006, STUF-LANG TYPOL UNIV, V59, P170
+   Rosen Nicole, 2007, THESIS
+   Rosen Nicole, 2016, NWAV 45 VANC
+   Rosner BS, 2000, J PHONETICS, V28, P217, DOI 10.1006/jpho.2000.0113
+   Ryalls J., 2004, J MULTILINGUAL COMMU, V2, P61
+   Stewart J, 2015, J LANG CONTACT, V8, P223, DOI 10.1163/19552629-00802003
+   Stewart J, 2014, PHONETICA, V71, P159, DOI 10.1159/000369629
+   Stewart Jesse, 2015, THESIS
+   Stewart Jesse, 2017, DEVOICING FREN UNPUB
+   Stewart Jesse, J LANGUAGE CONTACT, V11
+   Stuart-Smith Jane, 2005, LAB PHONOLOGY, V6, P505
+   Torre P, 2009, J COMMUN DISORD, V42, P324, DOI 10.1016/j.jcomdis.2009.03.001
+   van Gijn R, 2009, J PIDGIN CREOLE LANG, V24, P91, DOI 10.1075/jpcl.24.1.04gij
+   WEISMER G, 1979, J ACOUST SOC AM, V65, pS33, DOI 10.1121/1.2017214
+   WILLIAMS L, 1977, J PHONETICS, V5, P169
+   Zue Victor W., 1976, THESIS
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0025-1003
+EI 1475-3502
+J9 J INT PHON ASSOC
+JI J. Int. Phon. Assoc.
+PD AUG
+PY 2018
+VL 48
+IS 2
+BP 173
+EP 197
+DI 10.1017/S002510031700024X
+PG 25
+WC Linguistics; Language & Linguistics
+SC Linguistics
+GA GO3ZG
+UT WOS:000439938600004
+DA 2019-03-26
+ER
+
+PT J
+AU Mullins, D
+   Moore, T
+AF Mullins, David
+   Moore, Tom
+TI Self-organised and civil society participation in housing provision
+SO INTERNATIONAL JOURNAL OF HOUSING POLICY
+LA English
+DT Editorial Material
+DE self-organised housing; community-led housing; collaborative housing;
+   co-operatives; community land trusts; civil society
+ID COMMUNITY LAND TRUSTS; URBAN-DEVELOPMENT; CRISIS
+AB After 40 years of relative decline, self-organised and civil society participation in housing has ostensibly been resurgent since the Global Financial Crisis (GFC). Drawing on evidence from ten countries this Special Issue explores the socio-economic and policy drivers of community land trusts, co-operatives, self-help housing and co-housing within different societal contexts using a variety of analytical frameworks. A key finding is that the GFC alone is not a satisfactory explanation for the resurgence. Social origins and contextual drivers are often deeper, more enduring and vary between national contexts. The term 'collaborative housing' is now gaining ground as a generic descriptor - shifting the focus from self-organisation to partnerships with varying degrees of community leadership and benefit. This Special Issue provides a platform for future research at the micro-level of organisations, the meso-level of stakeholder co-production, and the macro-level of welfare regimes. It identifies tools to map co-production relationships between the state, market and civil society stakeholders, to track interventions throughout the policy cycle, and to evaluate values and outcomes throughout organisational lifecycles. Knowledge gaps and limitations that future research should address include the limited evidence on the profile of participants and beneficiaries. A more critically-engaged stance is needed to consider consequences of institutionalisation and scaling-up on social outcomes. Finally, we need to learn from the experience of the Global South where self-provided housing is more dominant.
+C1 [Mullins, David] Univ Birmingham, Sch Social Policy, Housing & Commun Res Grp, Birmingham, W Midlands, England.
+   Univ Sheffield, Urban Inst, Sheffield, S Yorkshire, England.
+RP Mullins, D (reprint author), Univ Birmingham, Sch Social Policy, Housing & Commun Res Grp, Birmingham, W Midlands, England.
+EM d.w.mullins@bham.ac.uk
+OI Mullins, David/0000-0002-9744-1421
+CR Aernouts N, 2018, INT J HOUS POLICY, V18, P503, DOI 10.1080/19491247.2017.1331592
+   Birchall J., 1992, DEP GOVT WORKING PAP, V21
+   Bovaird T., 2007, ENGAGEMENT PARTICIPA
+   Bowcott O., 2012, GUARDIAN
+   Bronzini M, 2017, INT J HOUS POLICY, V17, P353, DOI 10.1080/14616718.2016.1223450
+   Bunce S, 2016, ANTIPODE, V48, P134, DOI 10.1111/anti.12168
+   Cabre E, 2018, INT J HOUS POLICY, V18, P412, DOI 10.1080/19491247.2017.1331591
+   Confederation of Co-operative Housing, 2009, BRING DEM HOM
+   Crabtree L, 2018, INT J HOUS POLICY, V18, P15, DOI 10.1080/14616718.2016.1198083
+   Crabtree L, 2014, HOUSING STUD, V29, P743, DOI 10.1080/02673037.2014.898248
+   Czischke D, 2018, INT J HOUS POLICY, V18, P55, DOI 10.1080/19491247.2017.1331593
+   Davis John Emmeus, 2010, COMMUNITY LAND TRUST
+   Donoso RE, 2018, INT J HOUS POLICY, V18, P312, DOI 10.1080/14616718.2016.1248608
+   Droste C, 2015, URBAN RES PRACT, V8, P79, DOI 10.1080/17535069.2015.1011428
+   Engelsman U, 2018, INT J HOUS POLICY, V18, P103, DOI 10.1080/14616718.2016.1198082
+   Fields D., 2014, URBAN STUD, V53, P1486, DOI DOI 10.1177/0042098014543704
+   Fligstein N, 2012, THEORY FIELDS
+   Fromm D., 2012, BUILT ENV, V38, P364, DOI [10.2148/benv.38.3.364, DOI 10.2148/BENV.38.3.364]
+   Gibson-Graham J. K., 2013, TAKE BACK EC ETHICAL
+   Heywood A., 2016, LOCAL HOUSING COMMUN
+   id22: Institute for Creative Sustainability: experiment city, 2012, COHOUSING CULTURES H
+   Jarvis H, 2015, GEOGR COMPASS, V9, P202, DOI 10.1111/gec3.12206
+   Kingdon J., 1984, AGENDAS ALTERNATIVES
+   Lang R., 2013, INT J COOPERATIVE MA, V6, P8
+   Lang R., 2016, GENOSSENSCHAFTLICHE, P84
+   Lang R, 2018, INT J HOUS POLICY, V18, P35, DOI 10.1080/19491247.2016.1265265
+   Lawson J., 2010, HOUSING THEORY SOC, V27, P204
+   Midheme E, 2013, LAND USE POLICY, V35, P73, DOI 10.1016/j.landusepol.2013.05.005
+   MINORA F., 2013, COOPERATIVE MANAGEME, V6, P33
+   Mohan J., 2012, 73 TSRC U BIRM 3 SEC
+   Moore T, 2018, INT J HOUS POLICY, V18, P82, DOI 10.1080/14616718.2016.1198084
+   Moore T, 2013, VOLUNT SECT REV, V4, P333, DOI 10.1332/204080513X671931
+   Moreau S., 2012, PROFILES MOVEMENT CO
+   Mullins D., 2010, 16 TSRC U BIRM 3 SEC
+   Mullins D, 2018, INT J HOUS POLICY, V18, P143, DOI 10.1080/19491247.2017.1384692
+   Murie A, 2008, MOVING HOMES HOUSING
+   National CLT Network, 2017, GOV REL MULT COMM HO
+   National CLT Network, INTR LEG FORM
+   Salamon L. M., 1998, VOLUNTAS, V9, P213, DOI [10.1023/A:1022058200985, DOI 10.1023/A:1022058200985]
+   Savini F, 2016, INT J URBAN REGIONAL, V40, P1152, DOI 10.1111/1468-2427.12469
+   Sorvoll J, 2018, INT J HOUS POLICY, V18, P124, DOI 10.1080/14616718.2016.1162078
+   Thompson M, 2015, ANTIPODE, V47, P1021, DOI 10.1111/anti.12154
+   Tummers L, 2016, URBAN STUD, V53, P2023, DOI 10.1177/0042098015586696
+   van Bortel G, 2010, J HOUS BUILT ENVIRON, V25, P353, DOI 10.1007/s10901-010-9191-8
+   van der Heijden H, 2011, J HOUS BUILT ENVIRON, V26, P295, DOI 10.1007/s10901-011-9230-0
+   Vasudevan A, 2017, AUTONOMOUS CITY HIST
+   Vestbro D., 2010, LIVING TOGETHER COHO
+   Vey J, 2016, CAP CL, V40, P59, DOI 10.1177/0309816815627389
+NR 48
+TC 3
+Z9 3
+U1 3
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1461-6718
+EI 1473-3269
+J9 INT J HOUS POLICY
+JI Int. J. Hous. Policy
+PY 2018
+VL 18
+IS 1
+SI SI
+BP 1
+EP 14
+DI 10.1080/19491247.2018.1422320
+PG 14
+WC Urban Studies
+SC Urban Studies
+GA GE5SG
+UT WOS:000431281800001
+DA 2019-03-26
+ER
+
+PT J
+AU Hara, Y
+   McPhearson, T
+   Sampei, Y
+   McGrath, B
+AF Hara, Yuji
+   McPhearson, Timon
+   Sampei, Yuki
+   McGrath, Brian
+TI Assessing urban agriculture potential: a comparative study of Osaka,
+   Japan and New York city, United States
+SO SUSTAINABILITY SCIENCE
+LA English
+DT Article
+DE Urban agriculture; Vegetable production; Ecosystem services; Foodshed;
+   Cities
+ID ECOSYSTEM SERVICES; COMMUNITY GARDENS; LOCAL FOOD; CITIES; SYSTEMS
+AB In this study, we examined urban agricultural production potential in New York city (NYC) in the United States and Osaka in Japan in a comparative study not only due to their similarities in population and region size but also differences in historical geographies and urban formation processes. We utilized available high-resolution land-use-and land-cover data to map and empirically compare size, land use, and spatial patterns of sites of current urban agriculture as well as land areas with potential for expanding urban agriculture. By linking current vegetable production data, and potential future urban agriculture land with per capita vegetable consumption data, we were able to estimate the total potential population that could be supported by locally produced vegetables. Our results showed that by scaling up current vegetable production in existing NYC community gardens, potential agricultural productivity on other underutilized or vacant land was 0.26 kg/m(2)/year for NYC. For Osaka, existing rice and dry fields could produce in comparison 0.54 and 0.74 kg/m(2)/year, respectively. By combining potential urban and peri-urban vegetable production measures with estimated needed vegetable caloric intake per person per year, we show that the current vegetable production levels in Osaka can feed approximately 0.50 million people. However, if the region maximizes existing underused speculative dry fields, urban and peri-urban agriculture could feed approximately 3.4 million people per year. In NYC, current vegetable production in community gardens is estimated to feed only 1700 people per year. However, if NYC maximized all available urban vacant lots and other open spaces, potential vegetable production could provide food annually for 0.55 million people. We discuss how though both community gardens in NYC and remaining rice and dry fields in Osaka have been out of formal city planning with clear land-use definition in zoning, these agricultural practices have nonetheless emerged as important sources of local food production and nutrition on the one hand, and sites of social benefit on the other.
+C1 [Hara, Yuji; Sampei, Yuki] Wakayama Univ, Fac Syst Engn, 930 Sakaedani, Wakayama, Wakayama 6408510, Japan.
+   [McPhearson, Timon] New Sch, Environm Studies, Urban Syst Lab, 79 Fifth Ave,16th Floor, New York, NY 10003 USA.
+   [McPhearson, Timon] Cary Inst Ecosyst Studies, Box AB, Millbrook, NY 12545 USA.
+   [McPhearson, Timon] Stockholm Univ, Stockholm Resilience Ctr, Krafriket 2B, SE-10691 Stockholm, Sweden.
+   [McGrath, Brian] New Sch, Sch Constructed Environm Parsons, 6 East 16th St,Room 727, New York, NY 10003 USA.
+RP Hara, Y (reprint author), Wakayama Univ, Fac Syst Engn, 930 Sakaedani, Wakayama, Wakayama 6408510, Japan.
+EM hara@sys.wakayama-u.ac.jp
+FU Cary Institute of Ecosystem Studies; US NSF Urban Resilience to Extreme
+   Weather-related Events Sustainability Research Network (UREx SRN; NSF
+   Grant) [SES 1444755]
+FX This research was the result of a Fulbright visiting scholar program for
+   YH. YH thanks the staff of the Fulbright committees and the staff and
+   faculty of our host institution, The New School, for their kind support
+   while conducting this research. TM was supported by the Cary Institute
+   of Ecosystem Studies and the US NSF Urban Resilience to Extreme
+   Weather-related Events Sustainability Research Network (UREx SRN; NSF
+   Grant No. SES 1444755).
+CR Andersson E, 2014, AMBIO, V43, P445, DOI 10.1007/s13280-014-0506-y
+   Antrop M, 2005, LANDSCAPE URBAN PLAN, V70, P21, DOI 10.1016/j.landurbplan.2003.10.002
+   Cohen N., 2012, 5 BOROUGH FARM SEEDI
+   Cohen PE, 2014, MANHATTAN IN MAPS, P1527
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P532, DOI 10.2307/258557
+   Fujita F, 1994, AM PIONEERS JAPANESE
+   Fukuoka T, 2015, J JPN I LANDSC ARCHI, V78, P777
+   Gatrell JD, 2011, APPL GEOGR, V31, P1195, DOI 10.1016/j.apgeog.2011.01.013
+   Gittleman M, 2017, URBAN ECOSYST, V20, P129, DOI 10.1007/s11252-016-0575-8
+   Glynwood, 2010, STAT AGR HUDS VALL
+   Gregory MM, 2016, URBAN ECOSYST, V19, P763, DOI 10.1007/s11252-015-0505-1
+   Hara Y, 2014, NAKHARA J ENV DESIGN, V10, P127
+   Hara Y, 2016, MEM CTR RES ED DISAS, V2, P31
+   Hara Y, 2013, SUSTAIN SCI, V8, P515, DOI 10.1007/s11625-012-0198-9
+   Hara Y, 2013, APPL GEOGR, V41, P195, DOI 10.1016/j.apgeog.2013.04.003
+   Hara Y, 2010, SUSTAIN SCI, V5, P237, DOI 10.1007/s11625-010-0104-2
+   Heer I, 2010, BRIT FOOD J, V112, P285, DOI 10.1108/00070701011029156
+   Ilieva RT, 2016, ROUTL STUD FOOD SOC, P1
+   Jones A, 2002, ENVIRON MANAGE, V30, P560, DOI 10.1007/s00267-002-2383-6
+   Koshikawa S, 2002, COMMUNITY GARDEN, P190
+   Kremer P, 2013, LANDSCAPE URBAN PLAN, V120, P218, DOI 10.1016/j.landurbplan.2013.05.003
+   Kuroki E., 2007, J RURAL PLANNING, V26, P335
+   Larondelle N, 2014, APPL GEOGR, V53, P427, DOI 10.1016/j.apgeog.2014.07.004
+   Li Y, 2016, J URBAN HEALTH, V93, P244, DOI 10.1007/s11524-016-0028-y
+   Lovell S. T., 2010, Sustainability, V2, P2499, DOI 10.3390/su2082499
+   McPhearson T, 2016, BIOSCIENCE, V66, P198, DOI 10.1093/biosci/biw002
+   McPhearson T, 2013, ECOSYST SERV, V5, pE11, DOI 10.1016/j.ecoser.2013.06.005
+   Metcalf SS, 2011, APPL GEOGR, V31, P1242, DOI 10.1016/j.apgeog.2011.01.008
+   Ministry of Agriculture Forestry and Fisheries (MAFF), 2016, STAT AGR FOR FISH
+   Ministry of Agriculture Forestry and Fisheries (MAFF), 2015, WORLD CENS AGR FOR J
+   Ministry of Agriculture Forestry and Fisheries (MAFF), 2014, PROD STAT MUN
+   Ministry of Health Labour and Welfare (MHLW), 2012, NAT HLTH NUTR SURV J
+   New York City Department of Parks and Recreation, 2010, LANDC RAST DAT
+   NYC Department of City Planning, 2016, MAPPLUTO DAT
+   NYC Parks, 2017, HIST COMM GARD
+   Oba R., 2006, Journal of Rural Planning Association, V25, P413, DOI 10.2750/arp.25.413
+   OECD, 2009, EV AGR POL REF JAP
+   Osaka Prefecture, 2009, ANN REP AGR FOR FISH
+   Peters C. J., 2002, VEGETABLE CONSUMPTIO
+   Peters CJ, 2009, RENEW AGR FOOD SYST, V24, P1, DOI 10.1017/S1742170508002433
+   Reynolds K, 2016, KALE URBAN AGR SOCIA
+   Ricketts Hein J, 2006, REG STUD, V40, P289, DOI 10.1080/0034300600631533
+   Russell SE, 2011, APPL GEOGR, V31, P1197, DOI 10.1016/j.apgeog.2011.01.010
+   Saizen I., 2004, Journal of Rural Planning Association, V23, P133
+   Sakai A, 2014, J CITY PLAN INST JPN, V49, P1035
+   Samejima N., 2011, JAPANESE CADASTRAL S
+   Sasaki K., 2009, Journal of Rural Planning, V27, P329
+   Senda T, 2013, J RURAL PROBL, V49, P489
+   Shelton B., 2012, LEARNING JAPANESE CI
+   Sorensen A., 2002, MAKING URBAN JAPAN C
+   Tahara S., 2011, J JPN I LANDSC ARCH, V74, P685
+   Takeuchi K, 1987, CITY PLAN REV, V145, P35
+   Tani M, 2016, ENV INF SCI, V30, P237
+   Tsuchiya K, 2012, J CITY PLAN INST JPN, V47, P223
+   Tsuchiya K, 2015, LANDSCAPE URBAN PLAN, V143, P192, DOI 10.1016/j.landurbplan.2015.07.008
+   Ukita T, 1957, JPN J HUM GEOGR, V9, P220
+   Urban Design Lab, 2012, POT URB AGR NEW YORK
+   Watanabe T, 1999, J RURAL PLAN ASS, V18, P241
+   Yamaji K, 2014, J JPN I LANDSC ARCHI, V77, P643
+   Yamamoto N., 2003, Journal of the Japanese Forestry Society, V85, P326
+   Yanagawa G, 2005, J JPN I LANDSC ARCHI, V68, P937
+   Yokohari M., 2012, CITY PLAN REV, V60, P34
+   Yoshino K, 2015, J RURAL PROB, V51, P155
+NR 63
+TC 0
+Z9 0
+U1 16
+U2 22
+PU SPRINGER JAPAN KK
+PI TOKYO
+PA CHIYODA FIRST BLDG EAST, 3-8-1 NISHI-KANDA, CHIYODA-KU, TOKYO, 101-0065,
+   JAPAN
+SN 1862-4065
+EI 1862-4057
+J9 SUSTAIN SCI
+JI Sustain. Sci.
+PD JUL
+PY 2018
+VL 13
+IS 4
+BP 937
+EP 952
+DI 10.1007/s11625-018-0535-8
+PG 16
+WC Green & Sustainable Science & Technology; Environmental Sciences
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA GI6UP
+UT WOS:000434638900003
+DA 2019-03-26
+ER
+
+PT J
+AU Qin, YH
+   Zhao, ZD
+   Cai, SM
+   Gao, L
+   Stanley, HE
+AF Qin, Yu-Hao
+   Zhao, Zhi-Dan
+   Cai, Shi-Min
+   Gao, Liang
+   Stanley, H. Eugene
+TI Dual-induced multifractality in online viewing activity
+SO CHAOS
+LA English
+DT Article
+ID DETRENDED FLUCTUATION ANALYSIS; LONG-RANGE CORRELATIONS; URBAN-GROWTH
+   PATTERNS; TIME-SERIES; STATISTICAL PROPERTIES; HEARTBEAT DYNAMICS;
+   SCALING BEHAVIOR; SURROGATE DATA; LAW; VOLATILITY
+AB Although recent studies have found that the long-term correlations relating to the fat-tailed distribution of inter-event times exist in human activity and that these correlations indicate the presence of fractality, the property of fractality and its origin have not been analyzed. We use both detrended fluctuation analysis and multifractal detrended fluctuation analysis to analyze the time series in online viewing activity separating from Movielens and Netflix. We find long-term correlations at both the individual and communal levels and that the extent of correlation at the individual level is determined by the activity level. These long-term correlations also indicate that there is fractality in the pattern of online viewing. We first find a multifractality that results from the combined effect of the fat-tailed distribution of inter-event times (i.e., the times between successive viewing actions of individuals) and the long-term correlations in online viewing activity and verify this finding using three synthesized series. Therefore, it can be concluded that the multifractality in online viewing activity is caused by both the fat-tailed distribution of inter-event times and the long-term correlations and that this enlarges the generic property of human activity to include not just physical space but also cyberspace. Published by AIP Publishing.
+C1 [Qin, Yu-Hao; Zhao, Zhi-Dan; Cai, Shi-Min] Univ Elect Sci & Technol China, Sch Comp Sci & Engn, Web Sci Ctr, Chengdu 611731, Sichuan, Peoples R China.
+   [Qin, Yu-Hao; Gao, Liang] Beijing Jiaotong Univ, Inst Syst Sci, Sch Traff & Transportat, Beijing 100044, Peoples R China.
+   [Zhao, Zhi-Dan; Cai, Shi-Min] Univ Elect Sci & Technol China, Big Data Res Ctr, Chengdu 611731, Sichuan, Peoples R China.
+   [Cai, Shi-Min; Stanley, H. Eugene] Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.
+   [Cai, Shi-Min; Stanley, H. Eugene] Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.
+   [Gao, Liang] Yinchuan Municipal Bur Big Data Management & Serv, Yinchuan 750011, Peoples R China.
+RP Cai, SM (reprint author), Univ Elect Sci & Technol China, Sch Comp Sci & Engn, Web Sci Ctr, Chengdu 611731, Sichuan, Peoples R China.; Cai, SM (reprint author), Univ Elect Sci & Technol China, Big Data Res Ctr, Chengdu 611731, Sichuan, Peoples R China.; Cai, SM (reprint author), Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.; Cai, SM (reprint author), Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.
+EM shimin.cai81@gmail.com; lianggao@bjtu.edu.cn
+RI cai, shimin/L-7841-2014; Zhao, Zhi-Dan/H-1276-2012
+OI Zhao, Zhi-Dan/0000-0001-9459-7984; Cai, Shimin/0000-0002-2089-5150
+CR Ashkenazy Y, 2003, PHYSICA A, V323, P19, DOI 10.1016/S0378-4371(03)00008-6
+   Baek SK, 2008, PHYSICA A, V387, P3660, DOI 10.1016/j.physa.2008.02.021
+   Barabasi AL, 2005, NATURE, V435, P207, DOI 10.1038/nature03459
+   Bedard C, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.118102
+   Bunde A, 2000, PHYS REV LETT, V85, P3736, DOI 10.1103/PhysRevLett.85.3736
+   Cai SM, 2009, EPL-EUROPHYS LETT, V87, DOI 10.1209/0295-5075/87/68001
+   Cai SM, 2006, CHINESE PHYS LETT, V23, P754, DOI 10.1088/0256-307X/23/3/063
+   Chen Z, 2002, PHYS REV E, V65, DOI 10.1103/PhysRevE.65.041107
+   Chen Z, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.011104
+   Dong YW, 2013, ACTA PHYS SIN-CH ED, V62, DOI 10.7498/aps.62.028901
+   Eisler Z, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.046109
+   Eisler Z, 2008, ADV PHYS, V57, P89, DOI 10.1080/00018730801893043
+   Gomez-Extremera M, 2016, PHYS REV E, V93, DOI 10.1103/PhysRevE.93.042201
+   Goncalves B, 2008, PHYS REV E, V78, DOI 10.1103/PhysRevE.78.026123
+   HURST HE, 1951, T AM SOC CIV ENG, V116, P770
+   Hurst HE, 1956, P I CIVIL ENG, V5, P519, DOI DOI 10.1680/IICEP.1956.11503
+   Ivanov PC, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.056107
+   Ivanov PC, 1999, NATURE, V399, P461, DOI 10.1038/20924
+   Ivanov PC, 2001, CHAOS, V11, P641, DOI 10.1063/1.1395631
+   Ivanov PC, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0092885
+   Ivanov PC, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.041920
+   Jiang ZQ, 2010, PHYSICA A, V389, P807, DOI 10.1016/j.physa.2009.10.028
+   Kantelhardt J. W., 2009, ENCY COMPLEXITY SYST, P3754
+   Kantelhardt JW, 2006, J GEOPHYS RES-ATMOS, V111, DOI 10.1029/2005JD005881
+   Kantelhardt JW, 2001, PHYSICA A, V295, P441, DOI 10.1016/S0378-4371(01)00144-3
+   Kantelhardt JW, 2002, PHYSICA A, V316, P87, DOI 10.1016/S0378-4371(02)01383-3
+   Kantelhardt JW, 2003, PHYSICA A, V330, P240, DOI 10.1016/j.physa.2003.08.019
+   Kivela M, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.052813
+   Koscielny-Bunde E, 1998, PHYS REV LETT, V81, P729, DOI 10.1103/PhysRevLett.81.729
+   Liebovitch LS, 1999, PHYS REV E, V59, P3312, DOI 10.1103/PhysRevE.59.3312
+   Liebovitch LS, 2001, METHODS, V24, P359, DOI 10.1006/meth.2001.1206
+   Lim G, 2007, PHYSICA A, V386, P259, DOI 10.1016/j.physa.2007.07.055
+   Liu YH, 1999, PHYS REV E, V60, P1390, DOI 10.1103/PhysRevE.60.1390
+   Lowen SB, 1999, PHYS REV E, V59, P5970, DOI 10.1103/PhysRevE.59.5970
+   Ludescher J, 2011, PHYSICA A, V390, P2480, DOI 10.1016/j.physa.2011.03.008
+   Ma QDY, 2010, PHYS REV E, V81, DOI 10.1103/PhysRevE.81.031101
+   Makse HA, 1996, PHYS REV E, V53, P5445, DOI 10.1103/PhysRevE.53.5445
+   Makse HA, 1998, PHYS REV E, V58, P7054, DOI 10.1103/PhysRevE.58.7054
+   MAKSE HA, 1995, NATURE, V377, P608, DOI 10.1038/377608a0
+   MANTEGNA RN, 1995, NATURE, V376, P46, DOI 10.1038/376046a0
+   MEAKIN P, 1988, ADV COLLOID INTERFAC, V28, P249, DOI 10.1016/0001-8686(87)80016-7
+   Movahed M. S., 2006, J STAT MECH-THEORY E, V2006
+   Norouzzadeh P, 2006, PHYSICA A, V367, P328, DOI 10.1016/j.physa.2005.11.019
+   Peitgen Hans-Otto, 2004, CHAOS FRACTALS NEW F
+   PENG CK, 1994, PHYS REV E, V49, P1685, DOI 10.1103/PhysRevE.49.1685
+   PENG CK, 1992, NATURE, V356, P168, DOI 10.1038/356168a0
+   PENG CK, 1993, PHYS REV LETT, V70, P1343, DOI 10.1103/PhysRevLett.70.1343
+   PRICHARD D, 1994, PHYS REV LETT, V73, P951, DOI 10.1103/PhysRevLett.73.951
+   Rozenfeld HD, 2008, P NATL ACAD SCI USA, V105, P18702, DOI 10.1073/pnas.0807435105
+   Rybski D, 2011, EUR PHYS J B, V84, P147, DOI 10.1140/epjb/e2011-20172-4
+   Rybski D, 2010, EPL-EUROPHYS LETT, V90, DOI 10.1209/0295-5075/90/28002
+   Rybski D, 2012, SCI REP-UK, V2, DOI 10.1038/srep00560
+   Rybski D, 2009, P NATL ACAD SCI USA, V106, P12640, DOI 10.1073/pnas.0902667106
+   Schmitt DT, 2009, IEEE T BIO-MED ENG, V56, P1564, DOI 10.1109/TBME.2009.2014819
+   Shao YH, 2012, SCI REP-UK, V2, DOI 10.1038/srep00835
+   THEILER J, 1992, PHYSICA D, V58, P77, DOI 10.1016/0167-2789(92)90102-S
+   TULCZYJEW WM, 1977, ANN I H POINCARE A, V27, P101
+   Xu LM, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.051101
+   Xu YL, 2011, PHYSICA A, V390, P4057, DOI 10.1016/j.physa.2011.05.015
+   Zhao ZD, 2012, EPL-EUROPHYS LETT, V100, DOI 10.1209/0295-5075/100/48004
+NR 60
+TC 0
+Z9 0
+U1 0
+U2 3
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 1054-1500
+EI 1089-7682
+J9 CHAOS
+JI Chaos
+PD JAN
+PY 2018
+VL 28
+IS 1
+AR 013114
+DI 10.1063/1.5003100
+PG 8
+WC Mathematics, Applied; Physics, Mathematical
+SC Mathematics; Physics
+GA FU5DI
+UT WOS:000423872800017
+PM 29390640
+DA 2019-03-26
+ER
+
+PT J
+AU Garcia-Diaz, R
+   Sosa-Rubi, SG
+   Servan-Mori, E
+   Nigenda, G
+AF Garcia-Diaz, Rocio
+   Sosa-Rubi, Sandra G.
+   Servan-Mori, Edson
+   Nigenda, Gustavo
+TI Welfare effects of health insurance in Mexico: The case of Seguro
+   Popular de Salud
+SO PLOS ONE
+LA English
+DT Article
+ID DISTRIBUTIONAL IMPACT; LATIN-AMERICA; OLDER-ADULTS; INEQUALITY; CARE;
+   EXPENDITURES; REFORMS; POOR; PROGRAM; POVERTY
+AB This study contributes with original empirical evidence on the distributional and welfare effects of one of the most important health policies implemented by the Mexican government in the last decade, the Seguro Popular de Salud (SPS). We analyze the effect of SPS on households' welfare using a decomposable index that considers insured and uninsured households' response to out-of-pocket (OOP) payments using both social welfare weights and inequality aversion. The disaggregation of the welfare index allows us to explore the heterogeneity of the SPS impact on households' welfare. We applied propensity score matching to reduce the self-selection bias of being SPS insured. Overall results suggest non-conclusive results of the impact of SPS on households' welfare. When we disaggregated the welfare index by different sub-population groups, our results suggest that households' beneficiaries of SPS with older adults or living in larger cities are better protected against OOP health care payments than their uninsured counterparts. However, no effect was found among SPS-insured households living in rural and smaller cities, which is a result that could be attributed to limited access to health resources in these regions. Scaling up health insurance coverage is a necessary but not sufficient condition to ensure the protection of SPS coverage against financial risks among the poor.
+C1 [Garcia-Diaz, Rocio] Monterrey Inst Technol & Higher Educ, Dept Econ, Nuevo Leon, Mexico.
+   [Sosa-Rubi, Sandra G.; Servan-Mori, Edson] Natl Inst Publ Hlth, Ctr Hlth Syst Res, Morelos, Mexico.
+   [Nigenda, Gustavo] Univ Nacl Autonoma Mexico, Natl Sch Nursing & Obstet, Mexico City, DF, Mexico.
+RP Sosa-Rubi, SG (reprint author), Natl Inst Publ Hlth, Ctr Hlth Syst Res, Morelos, Mexico.
+EM srubi@insp.mx
+CR ATKINSON AB, 1970, J ECON THEORY, V2, P244, DOI 10.1016/0022-0531(70)90039-6
+   Avila-Burgos L, 2013, FECTOS SEGURO POPULA, V55, pS91
+   Bank W, 2004, POVERTY MEXICO ASSES
+   Bleich S, 2007, BRITHIS MED J, V335, P335
+   Chen S, 2004, WORLD BANK POLICY RE
+   Coady D, 2004, REV INCOME WEALTH, P11
+   Cotlear D, 2011, DIR DEV, P1
+   Laurell AC, 2015, INT J HEALTH SERV, V45, P105, DOI 10.2190/HS.45.1.h
+   De Graeve D, 2003, WORLD ECON, V26, P1459, DOI 10.1111/j.1467-9701.2003.00582.x
+   Deaton A, 1997, POVERTY CHILDREN ELD
+   Doubova SV, 2015, BMJ OPEN, V5, DOI 10.1136/bmjopen-2015-007877
+   Engelhardt G, 2004, W10466 NBER
+   Erreygers G, 2013, HEALTH ECON, V22, P466, DOI 10.1002/hec.2820
+   Escobar M, 2003, COLOMBIA EC FDN PEAC, P653
+   Gakidou E, 2006, LANCET, V368, P1920, DOI 10.1016/S0140-6736(06)69568-8
+   Galarraga O, 2010, EUR J HEALTH ECON, V11, P437, DOI 10.1007/s10198-009-0180-3
+   Garcia-Diaz R, 2011, J HEALTH ECON, V30, P707, DOI 10.1016/j.jhealeco.2011.04.003
+   Garcia-Diaz R, 2007, RES ECON INEQUAL, V14, P281, DOI 10.1016/S1049-2585(06)14013-2
+   Grogger J, 2015, HEALTH POLICY PLANN, V30, P593, DOI 10.1093/heapol/czu037
+   Minh VH, 2013, SOC SCI MED, V96, P258, DOI 10.1016/j.socscimed.2012.11.028
+   Humphries KH, 2000, SOC SCI MED, V50, P663, DOI 10.1016/S0277-9536(99)00319-6
+   Knaul FM, 2006, LANCET, V368, P1828, DOI 10.1016/S0140-6736(06)69565-2
+   Leive A, 2008, B WORLD HEALTH ORGAN, V86, P849, DOI 10.2471/BLT.07.049403
+   Liu YL, 2006, J HEALTH POLIT POLIC, V31, P71, DOI 10.1215/03616878-31-1-71
+   Makdissi P, 2002, ECON LETT, V75, P227, DOI 10.1016/S0165-1765(01)00599-7
+   Makdissi P, 2007, J PUBLIC ECON THEORY, V9, P683, DOI 10.1111/j.1467-9779.2007.00325.x
+   Medici AC, 2011, DIR DEV, P135
+   Nguyen Lien, 2004, Appl Health Econ Health Policy, V3, P251, DOI 10.2165/00148365-200403040-00008
+   Palmer N, 2004, LANCET, V364, P1365, DOI 10.1016/S0140-6736(04)17195-X
+   Parker S, 2014, HLTH INSURANCE AGING
+   Rivera-Hernandez M, 2016, HEALTH SERV RES, V51, P1323, DOI 10.1111/1475-6773.12404
+   ROSENBAUM PR, 1983, BIOMETRIKA, V70, P41, DOI 10.2307/2335942
+   Salinas JJ, 2015, SALUD PUBLICA MEXICO, V57, pS70
+   Scott J., 2006, DECENTRALIZE SERVICE, P147
+   Scott J., 2006, 4 INN FIN SAL
+   Servan-Mori E, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0152635
+   Sosa-Rubi SG, 2009, J HEALTH ECON, V28, P20, DOI 10.1016/j.healeco.2008.08.002
+   Sosa-Rubi SG, 2009, B WORLD HEALTH ORGAN, V87, P512, DOI 10.2471/BLT.08.053256
+   Sosa-Rubi SG, 2011, SALUD PUBLICA MEXICO, V53, P2005
+   van Eeuwijk P, 2006, AGEING SOC, V26, P61, DOI 10.1017/S0144686X05004344
+   vanDoorslaer E, 1997, J HEALTH ECON, V16, P93, DOI 10.1016/S0167-6296(96)00532-2
+   WAGSTAFF A, 1991, SOC SCI MED, V33, P545, DOI 10.1016/0277-9536(91)90212-U
+   Wagstaff A, 2003, HEALTH ECON, V12, P921, DOI 10.1002/hec.776
+   Wagstaff A, 2002, J HEALTH ECON, V21, P627, DOI 10.1016/S0167-6296(02)00006-1
+   Wagstaff A., 2005, WORLD BANK POLICY RE
+   Wagstaff A, 2003, WORLD BANK POLICY RE
+   Wagstaff A, 2007, J HEALTH ECON, V26, P505, DOI 10.1016/j.jhealeco.2006.10.006
+   Wagstaff A, 2010, HEALTH ECON, V19, P189, DOI 10.1002/hec.1466
+   Weiss CO, 2011, CLIN GERIATR MED, V27, P39, DOI 10.1016/j.cger.2010.08.003
+   Wirtz VJ, 2012, VALUE HEALTH, V15, P593, DOI 10.1016/j.jval.2012.01.006
+   Wolff JL, 2002, ARCH INTERN MED, V162, P2269, DOI 10.1001/archinte.162.20.2269
+   Xu K, 2003, LANCET, V362, P111, DOI 10.1016/S0140-6736(03)13861-5
+NR 52
+TC 1
+Z9 1
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 2
+PY 2018
+VL 13
+IS 7
+AR e0199876
+DI 10.1371/journal.pone.0199876
+PG 18
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GL5QR
+UT WOS:000437224100026
+PM 29965976
+OA DOAJ Gold
+DA 2019-03-26
+ER
